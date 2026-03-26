@@ -1,0 +1,72 @@
+# FanGear HQ Niche Config Schema
+# Every niche must have a niche-config.yaml that conforms to this schema.
+# The engine SKILL.md and all scripts reference these values.
+
+# Required fields:
+brand_name: string          # Display name, e.g., "I Love Softball"
+brand_short: string         # Short name for file headers, e.g., "ILS"
+content_prefix: string      # Folder prefix, e.g., "softball-content" → "softball-content-2026-02-22/"
+parent_brand: "FanGear HQ"  # Always FanGear HQ
+
+# Photo sourcing
+photo_source: enum          # "imagn" | "stock" | "gemini"
+  # imagn = licensed sports photography (USA TODAY Sports Images)
+  #   - Search terms: ONLY player/person name + team/organization
+  #   - NO years, NO context, NO event names
+  #   - Credit: "(USA TODAY Sports Images)" or "(Imagn Images)"
+  # stock = free stock photos (Unsplash, Pexels)
+  #   - Search terms: descriptive (topic + mood + subjects)
+  #   - No credit required
+  # gemini = AI-generated images via Google Gemini API
+  #   - Requires GEMINI_API_KEY environment variable
+  #   - Image concepts use detailed visual prompts instead of search terms
+  #   - See gemini_config below for mode and model settings
+
+# Gemini image generation config (required when photo_source = "gemini")
+gemini_config:              # Object, or null if not using gemini
+  mode: enum                # "base_only" | "complete"
+    # base_only = Gemini generates background image only (no text)
+    #   - Image is uploaded to Canva for branded text overlay + export
+    #   - Best for: brand consistency, uses Canva brand kit fonts/colors
+    # complete = Gemini generates finished graphic with text baked in
+    #   - Bypasses Canva entirely, image is ready to post
+    #   - Best for: speed, lower cost, when brand precision is less critical
+  model: string             # Gemini model ID, default: "gemini-2.5-flash-image"
+    # "gemini-2.5-flash-image"       — Fast, cheap (~$0.04/image), max 1K resolution
+    # "gemini-3-pro-image-preview"   — Higher quality, 2K/4K resolution (~$0.13-0.24/image)
+
+# Canva integration
+canva_brand_kit_id: string  # e.g., "kAGENnl7bLQ"
+
+# Content pillars (optional — some niches don't use pillars)
+content_pillars:            # Array of pillar objects, or null
+  - name: string            # e.g., "Local News"
+    description: string     # What this pillar covers
+    target_per_day: string  # e.g., "1-2 stories/day"
+
+# Publishing
+platforms:
+  - x_twitter
+  - facebook
+  # Future: instagram, tiktok, email, pinterest
+timezone: string            # e.g., "ET", "MT"
+default_schedule:           # Array of time slots
+  - time: string            # e.g., "9:00 AM"
+    content_type: string    # e.g., "Lead story / breaking news"
+
+# Article config
+article_word_count_min: int # e.g., 400
+article_word_count_max: int # e.g., 800
+article_has_quick_reference: bool  # true for niches covering events with dates/times/locations
+
+# GitHub Pages
+github_pages_url: string    # e.g., "https://fangearhq-boop.github.io/ilovesoftball-dashboards/"
+github_repo: string         # e.g., "fangearhq-boop/ilovesoftball-dashboards"
+
+# Fact-check claim types (niche-specific patterns defined in claim-patterns.py)
+# The claim-patterns.py module exports an extract_niche_claims(text, claim_list, story_num) function
+# that adds niche-specific claim types beyond the universal date/time/day-of-week checks.
+claim_priority_labels:
+  1: string                 # e.g., "Dates, times, day-of-week — most error-prone"
+  2: string                 # e.g., "Scores, records, historical claims"
+  3: string                 # e.g., "Rankings, player stats"

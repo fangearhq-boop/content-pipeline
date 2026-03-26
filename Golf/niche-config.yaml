@@ -1,0 +1,51 @@
+# Golf Fanrecap — Niche Configuration
+# This file is read by the shared engine at _engine/SKILL.md
+
+brand_name: "Golf Fanrecap"
+brand_short: "GFR"
+content_prefix: "golf-content"
+parent_brand: "FanGear HQ"
+
+# Photo sourcing
+photo_source: "imagn"
+# imagn = licensed sports photography (USA TODAY Sports Images)
+#   - Search terms: ONLY player/person name + team/organization
+#   - NO years, NO context, NO event names
+#   - Credit: "(USA TODAY Sports Images)" or "(Imagn Images)"
+
+# Content pillars (Golf doesn't use formal pillars)
+# content_pillars: null
+
+# Publishing
+platforms:
+  - x_twitter
+  - facebook
+timezone: "ET"
+default_schedule:
+  - time: "8:00 AM"
+    content_type: "Overnight / early round results"
+  - time: "10:30 AM"
+    content_type: "Leaderboard update / developing story"
+  - time: "1:00 PM"
+    content_type: "Afternoon coverage / featured group watch"
+  - time: "3:30 PM"
+    content_type: "Late afternoon results / leaders"
+  - time: "6:00 PM"
+    content_type: "Round wrap-up / final leaderboard"
+  - time: "8:30 PM"
+    content_type: "Preview / analysis / engagement"
+
+# Article config
+article_word_count_min: 400
+article_word_count_max: 800
+article_has_quick_reference: false
+
+# GitHub Pages
+github_pages_url: "https://fangearhq-boop.github.io/content-dashboards/"
+github_repo: "fangearhq-boop/content-dashboards"
+
+# Fact-check claim types
+claim_priority_labels:
+  1: "Tee times, dates, courses — most error-prone"
+  2: "Scores, leaderboard positions, rankings"
+  3: "Player stats, career records, prize money"

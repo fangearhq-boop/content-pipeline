@@ -1,0 +1,51 @@
+# Tennis Fanrecap — Niche Configuration
+# This file is read by the shared engine at _engine/SKILL.md
+
+brand_name: "Tennis Fanrecap"
+brand_short: "TFR"
+content_prefix: "tennis-content"
+parent_brand: "FanGear HQ"
+
+# Photo sourcing
+photo_source: "imagn"
+# imagn = licensed sports photography (USA TODAY Sports Images)
+#   - Search terms: ONLY player/person name + team/organization
+#   - NO years, NO context, NO event names
+#   - Credit: "(USA TODAY Sports Images)" or "(Imagn Images)"
+
+# Content pillars (Tennis doesn't use formal pillars)
+# content_pillars: null
+
+# Publishing
+platforms:
+  - x_twitter
+  - facebook
+timezone: "ET"
+default_schedule:
+  - time: "8:00 AM"
+    content_type: "Overnight results (Europe/Asia/Australia tournaments)"
+  - time: "10:30 AM"
+    content_type: "Match previews / draw analysis"
+  - time: "12:30 PM"
+    content_type: "Developing stories / rankings"
+  - time: "3:00 PM"
+    content_type: "Afternoon match coverage / results"
+  - time: "6:00 PM"
+    content_type: "Evening session preview"
+  - time: "9:00 PM"
+    content_type: "Late match results / next day preview"
+
+# Article config
+article_word_count_min: 400
+article_word_count_max: 800
+article_has_quick_reference: false
+
+# GitHub Pages
+github_pages_url: "https://fangearhq-boop.github.io/content-dashboards/"
+github_repo: "fangearhq-boop/content-dashboards"
+
+# Fact-check claim types
+claim_priority_labels:
+  1: "Match times, dates, venues — most error-prone"
+  2: "Scores, rankings, draw results"
+  3: "Player stats, career records"

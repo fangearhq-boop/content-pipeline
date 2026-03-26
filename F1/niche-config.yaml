@@ -1,0 +1,51 @@
+# F1 Fanrecap — Niche Configuration
+# This file is read by the shared engine at _engine/SKILL.md
+
+brand_name: "F1 Fanrecap"
+brand_short: "F1FR"
+content_prefix: "f1-content"
+parent_brand: "FanGear HQ"
+
+# Photo sourcing
+photo_source: "imagn"
+# imagn = licensed sports photography (USA TODAY Sports Images)
+#   - Search terms: ONLY driver/person name + team/organization
+#   - NO years, NO context, NO event names
+#   - Credit: "(USA TODAY Sports Images)" or "(Imagn Images)"
+
+# Content pillars (F1 doesn't use formal pillars)
+# content_pillars: null
+
+# Publishing
+platforms:
+  - x_twitter
+  - facebook
+timezone: "ET"
+default_schedule:
+  - time: "8:00 AM"
+    content_type: "Overnight race/qualifying results (many races are early morning ET)"
+  - time: "10:00 AM"
+    content_type: "Technical analysis / strategy breakdown"
+  - time: "12:00 PM"
+    content_type: "Driver/team news"
+  - time: "2:00 PM"
+    content_type: "Midday engagement / hot take"
+  - time: "5:00 PM"
+    content_type: "Preview / practice session coverage"
+  - time: "8:00 PM"
+    content_type: "Evening feature / standings"
+
+# Article config
+article_word_count_min: 400
+article_word_count_max: 800
+article_has_quick_reference: false
+
+# GitHub Pages
+github_pages_url: "https://fangearhq-boop.github.io/content-dashboards/"
+github_repo: "fangearhq-boop/content-dashboards"
+
+# Fact-check claim types
+claim_priority_labels:
+  1: "Race times, dates, circuits — most error-prone"
+  2: "Race results, standings, championship points"
+  3: "Lap times, driver stats, contract values"

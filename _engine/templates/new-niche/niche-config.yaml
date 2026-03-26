@@ -1,0 +1,251 @@
+# {BRAND_NAME} — Niche Configuration
+# This file is read by the shared engine at _engine/SKILL.md
+# Every field below is referenced as {CONFIG.*} in the pipeline.
+#
+# INSTRUCTIONS: Replace all {PLACEHOLDER} values with your niche's specifics.
+# Delete comment blocks once filled in.
+
+# ─────────────────────────────────────────────
+# BRAND IDENTITY
+# ─────────────────────────────────────────────
+
+# Full display name shown in dashboards, Slack alerts, and content headers.
+#   Sports example: "I Love Softball"
+#   Non-sports example: "COS Parenting"
+brand_name: "{BRAND_NAME}"
+
+# Short abbreviation used in file naming, logs, and internal references.
+# Keep it 2-5 uppercase characters.
+#   Sports: "ILS" (I Love Softball), "CUBS" (Cubs Daily)
+#   Non-sports: "COSP" (COS Parenting), "GRN" (Green Thumb Daily)
+brand_short: "{BRAND_SHORT}"
+
+# Prefix for dated content folders. Lowercase, hyphenated.
+# Content goes into: {content_prefix}-YYYY-MM-DD/
+#   Sports: "softball-content", "cubs-content"
+#   Non-sports: "parenting-content", "gardening-content"
+content_prefix: "{CONTENT_PREFIX}"
+
+# Parent brand — always "FanGear HQ" for now.
+parent_brand: "FanGear HQ"
+
+
+# ─────────────────────────────────────────────
+# PHOTO SOURCING
+# ─────────────────────────────────────────────
+
+# Where images come from. Determines the workflow in Step 11 (Image Production).
+#
+# Options:
+#   "imagn"  — Licensed sports photography (USA TODAY Sports / Imagn Images).
+#              Search terms: ONLY player/person name + team/organization.
+#              Requires Imagn account login.
+#              Best for: Sports niches with real athlete photos.
+#
+#   "stock"  — Free stock photos from Unsplash / Pexels.
+#              Search terms: descriptive (topic + mood + subjects).
+#              No account needed.
+#              Best for: Lifestyle, parenting, food, travel, general interest.
+#
+#   "gemini" — AI-generated images via Google Gemini API.
+#              Requires GEMINI_API_KEY env var.
+#              Image concepts use detailed visual prompts instead of search terms.
+#              Best for: Niches where stock/licensed photos are hard to find,
+#              or where a consistent illustrated style is desired.
+#
+#   "none"   — No images. Text-only content (rare).
+#              Skip Step 11 entirely.
+photo_source: "{PHOTO_SOURCE}"
+
+# Gemini image generation settings (only needed if photo_source is "gemini")
+# Uncomment and configure if using Gemini:
+#
+# gemini_config:
+#   mode: "base_only"                    # "base_only" = clean backgrounds, Canva adds text
+#                                        # "complete" = finished graphic with text baked in
+#   model: "gemini-2.5-flash-image"      # Default model (~$0.04/image)
+#                                        # "gemini-3-pro-image-preview" for higher quality
+
+
+# ─────────────────────────────────────────────
+# CANVA INTEGRATION
+# ─────────────────────────────────────────────
+
+# Canva Brand Kit ID — found in the Canva URL when viewing your brand kit.
+# Format: "kXXXXXXXXXX" (11 characters starting with k).
+# Create the brand kit first with your colors/fonts from brand-guide.md.
+canva_brand_kit_id: "{CANVA_BRAND_KIT_ID}"
+
+
+# ─────────────────────────────────────────────
+# CONTENT PILLARS (optional)
+# ─────────────────────────────────────────────
+
+# Content pillars organize stories into categories. Not all niches need them.
+# Sports niches typically DON'T use pillars (stories are tiered by news value).
+# Local/lifestyle niches benefit from pillars to ensure content mix variety.
+#
+# Uncomment and define if your niche uses pillars:
+#
+# content_pillars:
+#   - name: "{PILLAR_1_NAME}"
+#     description: "{What goes in this pillar}"
+#     target_per_day: "1-2 stories/day"
+#   - name: "{PILLAR_2_NAME}"
+#     description: "{What goes in this pillar}"
+#     target_per_day: "1-2 stories/day"
+#   - name: "{PILLAR_3_NAME}"
+#     description: "{What goes in this pillar}"
+#     target_per_day: "0-1 stories/day"
+#
+# Sports example (if used):
+#   - name: "Game Coverage"
+#     description: "Scores, recaps, highlights, upsets"
+#     target_per_day: "2-3 stories/day"
+#   - name: "Analysis"
+#     description: "Rankings, stats deep dives, predictions"
+#     target_per_day: "1-2 stories/day"
+#
+# Non-sports example:
+#   - name: "Local News"
+#     description: "City government, school districts, community news"
+#     target_per_day: "1-2 stories/day"
+#   - name: "Local Events"
+#     description: "Family events, activities, seasonal things to do"
+#     target_per_day: "1-2 stories/day"
+#   - name: "National {TOPIC}"
+#     description: "National trends, studies, product news"
+#     target_per_day: "1-2 stories/day"
+#   - name: "Evergreen"
+#     description: "Guides, lists, resource roundups"
+#     target_per_day: "0-1 stories/day"
+#   - name: "Humor / Engagement"
+#     description: "Relatable moments, polls, community questions"
+#     target_per_day: "0-1 stories/day"
+
+
+# ─────────────────────────────────────────────
+# PUBLISHING
+# ─────────────────────────────────────────────
+
+# Which platforms this niche publishes to.
+# The pipeline generates content for each listed platform.
+#   x_twitter — X/Twitter text posts + image concepts
+#   facebook  — Facebook long-form posts + image captions + TOBI
+platforms:
+  - x_twitter
+  - facebook
+
+# Audience timezone. Used for posting schedule and "today/yesterday" references.
+#   "ET" = Eastern, "CT" = Central, "MT" = Mountain, "PT" = Pacific
+timezone: "{TIMEZONE}"
+
+# Default daily posting schedule. Each slot has a time and content type hint.
+# The daily brief (Step 3) assigns stories to these windows.
+# Adjust the number of slots to match your target daily post count (typically 5-7).
+#
+# Sports example (ET — prime time for game coverage):
+#   - time: "9:00 AM"
+#     content_type: "Lead story / breaking news / game recap"
+#   - time: "11:00 AM"
+#     content_type: "Tier 2 developing story"
+#   - time: "1:00 PM"
+#     content_type: "Thread / deep-dive / analysis"
+#   - time: "3:00 PM"
+#     content_type: "Tier 2 or Tier 3 story"
+#   - time: "5:30 PM"
+#     content_type: "Preview / upcoming games"
+#   - time: "8:00 PM"
+#     content_type: "Game coverage / evergreen"
+#
+# Non-sports example (MT — aligned with parent daily rhythm):
+#   - time: "8:00 AM"
+#     content_type: "Morning news / school updates"
+#   - time: "10:00 AM"
+#     content_type: "Event spotlight / national news"
+#   - time: "12:00 PM"
+#     content_type: "Midday engagement / humor"
+#   - time: "3:00 PM"
+#     content_type: "After-school activities / events"
+#   - time: "5:00 PM"
+#     content_type: "Evening family content"
+#   - time: "8:00 PM"
+#     content_type: "Recap / weekend preview"
+default_schedule:
+  - time: "{TIME_1}"
+    content_type: "{CONTENT_TYPE_1}"
+  - time: "{TIME_2}"
+    content_type: "{CONTENT_TYPE_2}"
+  - time: "{TIME_3}"
+    content_type: "{CONTENT_TYPE_3}"
+  - time: "{TIME_4}"
+    content_type: "{CONTENT_TYPE_4}"
+  - time: "{TIME_5}"
+    content_type: "{CONTENT_TYPE_5}"
+  - time: "{TIME_6}"
+    content_type: "{CONTENT_TYPE_6}"
+
+
+# ─────────────────────────────────────────────
+# ARTICLE CONFIG
+# ─────────────────────────────────────────────
+
+# Target word count range for articles (Step 9).
+# Set both to 0 to disable article generation for this niche.
+#   Sports: 400-800 (shorter, news-focused)
+#   Non-sports: 500-1000 (longer, more explanatory)
+#   X-only niche (no website): 0 / 0
+article_word_count_min: {ARTICLE_WORD_COUNT_MIN}
+article_word_count_max: {ARTICLE_WORD_COUNT_MAX}
+
+# Whether articles include a "Quick Reference" summary table at the top.
+# Useful for event guides, how-to content, product roundups.
+#   Sports: false (articles are narrative)
+#   Parenting/local: true (readers want key facts fast — dates, prices, ages)
+#   Gardening: true (planting zones, timing, materials lists)
+article_has_quick_reference: {true_or_false}
+
+
+# ─────────────────────────────────────────────
+# GITHUB PAGES
+# ─────────────────────────────────────────────
+
+# Where review dashboards are published.
+# Create the repo first (see README.md in this template).
+github_pages_url: "https://fangearhq-boop.github.io/{NICHE_SHORT}-dashboards/"
+github_repo: "fangearhq-boop/{NICHE_SHORT}-dashboards"
+
+
+# ─────────────────────────────────────────────
+# FACT-CHECK CLAIM PRIORITIES
+# ─────────────────────────────────────────────
+
+# Niche-specific claim types that get extra scrutiny during fact-checking (Step 10).
+# Priority 1 = always verify. Priority 2 = verify for Tier 1-2 stories. Priority 3 = spot-check.
+#
+# Universal priorities (applied to ALL niches by the engine):
+#   - Dates, times, day-of-week (Priority 1)
+#   - Ages and biographical facts (Priority 1)
+#   - Compound claims linking multiple entities (Priority 1)
+#   - Superlative/historical claims (Priority 1)
+#
+# Add niche-specific priorities below:
+#
+# Sports example:
+#   1: "Dates, times, day-of-week — most error-prone"
+#   2: "Scores, records, historical claims"
+#   3: "Rankings, player stats"
+#
+# Parenting example:
+#   1: "Dates, times, locations, prices, age ranges — most error-prone"
+#   2: "School districts, statistics, study findings"
+#   3: "General claims, recommendations"
+#
+# Gardening example:
+#   1: "Planting dates, frost dates, zone numbers, temperatures"
+#   2: "Spacing measurements, yield estimates, chemical concentrations"
+#   3: "Variety recommendations, companion planting claims"
+claim_priority_labels:
+  1: "{PRIORITY_1_DESCRIPTION}"
+  2: "{PRIORITY_2_DESCRIPTION}"
+  3: "{PRIORITY_3_DESCRIPTION}"

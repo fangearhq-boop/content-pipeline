@@ -1,0 +1,23 @@
+{
+  "skill_name": "fact-check",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Fact-check these 10 sports history entries in /sessions/wonderful-optimistic-maxwell/mnt/Fan_HQ/Niche_Launches/_engine/skills/fact-check/evals/test_entries.py (list called test_entries). Some have date errors, stat errors, or are completely fabricated. Write corrections to /tmp/test_corrections.py (list called corrections) and a summary to /tmp/test_factcheck.txt. These are On This Day entries that are date-anchored — if a date is wrong, the entry should be removed rather than having its date corrected.",
+      "expected_output": "Should find errors in indices 1 (wrong year), 3 (wrong opponent), 5 (fabricated), 7 (wrong stat in content), 9 (fabricated). Should produce corrections in the correct one-per-field format. Should NOT use compound field names. Should remove fabricated entries (5 and 9) rather than trying to correct them. Should correctly identify that indices 0, 2, 4, 6, 8 are correct.",
+      "files": ["evals/test_entries.py"]
+    },
+    {
+      "id": 2,
+      "prompt": "I have a quick fact to check: Did the Milwaukee Bucks win the 2021 NBA championship? And who was the Finals MVP? I think it was Khris Middleton.",
+      "expected_output": "Should confirm Bucks won 2021 title (beat Phoenix Suns 4-2), but correct that Giannis Antetokounmpo was Finals MVP, not Middleton. Should use web search to verify rather than just going from memory.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "I'm running the daily content pipeline for the Softball niche and just generated 06-fact-check-log.md with verify-facts.py. It extracted 15 claims including game times, scores, and day-of-week references. How should I verify these claims? I want to make sure the process is standardized and the corrections are in the right format for the rest of the pipeline.",
+      "expected_output": "Should explain Mode 2 (Daily Pipeline Verification) workflow. Should recommend verifying Priority 1 claims first (times, dates). Should describe the correction format. Should reference that verify-facts.py extracts claims and this skill handles the verification step. Should not try to run code or check files that don't exist — this is a process question.",
+      "files": []
+    }
+  ]
+}

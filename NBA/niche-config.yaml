@@ -1,0 +1,51 @@
+# Hoop Heroes — Niche Configuration
+# This file is read by the shared engine at _engine/SKILL.md
+
+brand_name: "Hoop Heroes"
+brand_short: "HH"
+content_prefix: "nba-content"
+parent_brand: "FanGear HQ"
+
+# Photo sourcing
+photo_source: "imagn"
+# imagn = licensed sports photography (USA TODAY Sports Images)
+#   - Search terms: ONLY player/person name + team/organization
+#   - NO years, NO context, NO event names
+#   - Credit: "(USA TODAY Sports Images)" or "(Imagn Images)"
+
+# Content pillars (NBA doesn't use formal pillars)
+# content_pillars: null
+
+# Publishing
+platforms:
+  - x_twitter
+  - facebook
+timezone: "ET"
+default_schedule:
+  - time: "9:00 AM"
+    content_type: "Overnight scores / morning recap"
+  - time: "11:00 AM"
+    content_type: "Developing story / stats deep dive"
+  - time: "1:00 PM"
+    content_type: "Analysis / hot take"
+  - time: "4:00 PM"
+    content_type: "Game day preview"
+  - time: "7:00 PM"
+    content_type: "Tip-off / game coverage"
+  - time: "9:30 PM"
+    content_type: "Late game results / recap"
+
+# Article config
+article_word_count_min: 400
+article_word_count_max: 800
+article_has_quick_reference: false
+
+# GitHub Pages
+github_pages_url: "https://fangearhq-boop.github.io/content-dashboards/"
+github_repo: "fangearhq-boop/content-dashboards"
+
+# Fact-check claim types
+claim_priority_labels:
+  1: "Dates, times, day-of-week — most error-prone"
+  2: "Scores, records, standings"
+  3: "Player stats, contract values"
