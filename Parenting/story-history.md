@@ -2,6 +2,64 @@
 
 ---
 
+## March 27, 2026
+
+### Story 1: CPSC Alert — Vevor Baby Swings + Zigjoy Sleep Sacks Recalled
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Follow-Up Opportunities:**
+  - Monthly CPSC recall roundup
+  - Safe Sleep for Babies Act explainer (inclined sleeper regulation context)
+  - "How to check for recalls" evergreen guide
+  - Essential oil safety with kids (HiQiLi wintergreen recall)
+
+### Story 2: D11 Spring Break Ends Today — Best COS Picks for the Weekend
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW UP (March 20 spring break coverage)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Follow-Up Opportunities:**
+  - D49 spring break dates (if different schedule)
+  - D49 Student Success Center opening 2026-27
+  - End-of-year D11/D20 calendar events (spring concerts, graduations)
+
+### Story 3: Rock Island Trail Bridge + Pikes Peak Greenway Expansion Coming Spring 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Follow-Up Opportunities:**
+  - Bridge/greenway completion announcement when open
+  - COS trail guide for families (evergreen)
+  - Blodgett Open Space and Austin Bluffs Spine Trail features
+  - Summer trail recommendations roundup
+
+### Story 4: AAP Drops the 2-Hour Screen Time Cap — 2026 Update
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Follow-Up Opportunities:**
+  - Family media plan deep-dive + template guide
+  - COS school device policies (D11/D20/D49 Chromebook/iPad usage)
+  - Social media age limits conversation (follow AAP and APA updates)
+  - Teen screen time and mental health (cross-story with Feb 24 sleep study)
+
+### Story 5: Spring Events Preview — Garden of the Gods Art Festival + Spring Fling
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 3
+- **Follow-Up Opportunities:**
+  - Event recaps with community photos (post April 10-11)
+  - April 17 Early Literacy Event for Deaf/HH families — advance preview
+  - Full April COS family events calendar (evergreen for early April)
+  - Garden of the Gods seasonal guide
+
+---
+
 ## March 20, 2026
 
 ### Story 1: Highway 115 Wildfire — Smoke Visible Across COS, What Families Need to Know

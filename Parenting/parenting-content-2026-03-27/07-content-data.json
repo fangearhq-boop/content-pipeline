@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-27",
+  "compiled_at": "2026-03-27T18:28:14.745713+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 3",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Alert: Vevor Baby Swings + Zigjoy Sleep Sacks Recalled",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 AM MT (X + Facebook) / 5:00 PM MT (X second post)",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CPSC recall: Vevor baby swings violate the Safe Sleep for Babies Act — incline angle exceeds the legal limit, posing a suffocation risk. Stop use now and check cpsc.gov for refund details. 🚨 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT (X + Facebook) / 5:00 PM MT (X second post)",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Also recalled this week: Zigjoy baby sleep sacks fail flammability standards — a burn risk. Check your child's sleepwear against cpsc.gov/recalls before bedtime tonight. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT (X + Facebook) / 5:00 PM MT (X second post)",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nA quick heads-up for Colorado Springs families with young children: the CPSC has issued recalls on two common infant products this week, and both are worth checking right now.\n\nFirst, Vevor baby swings are being recalled for violating the Safe Sleep for Babies Act. These swings exceed the regulated incline angle, which means a sleeping infant can slide into a position that blocks their airway. If you own a Vevor baby swing, stop using it immediately — even for brief naps or soothing sessions.\n\nSecond, Zigjoy baby sleep sacks have been pulled for failing flammability standards. That's a burn hazard at bedtime, which is exactly when kids are in these for extended stretches. If you have one, take it out of rotation until you can verify it's not part of the recall.\n\nThere are several other products flagged in the same window: Tuyedoqe travel bassinets (strangulation and fall risk), Bellabu Bear robes (burn hazard), HiQiLi wintergreen oil (poisoning risk for children), and 4our Kiddies anti-tip furniture straps (tip-over risk). All recall details, eligibility, and refund instructions are at cpsc.gov/recalls.\n\nDo you check cpsc.gov regularly, or do you find out about recalls another way? Curious what works for other families.\n```",
+        "image_caption": "#### Image Caption — 8:00 AM MT\n\n```\nCPSC recall: Vevor baby swings + Zigjoy sleep sacks. Check cpsc.gov now.\n```",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-cpsc-recall-vevor-baby-swings-zigjoy-sleep-sacks.html",
+        "headline": "CPSC Recall: Vevor Baby Swings and Zigjoy Sleep Sacks",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Alert — Vevor Baby Swings + Zigjoy Sleep Sacks Recalled\n\n**Photo (X):** A wide-angle view of a clean, modern nursery with soft warm lighting. In the foreground, a neutral-colored baby swing sits empty on a hardwood floor. The mood is calm but urgent — warm amber light casts subtle shadows. No product logos. Art style: realistic photography feel, slightly desaturated. Clean bottom third (floor area) for text overlay.\n\n**Photo (FB):** A flat-lay overhead view of folded infant sleepwear — a soft-colored sleep sack in cream or pale blue on a light wooden surface. Clean, minimalist styling. Natural window light from the left. Mood: informational, not alarmist. Art style: clean editorial photography aesthetic. Empty space in the bottom third for Canva text overlay.\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| X | CPSC RECALL | Vevor Baby Swings — Suffocation Risk |\n| Facebook | CPSC RECALL | Check Your Baby's Sleep Products Now |\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "D11 Spring Break Ends Today — Best COS Picks for the Weekend",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:00 AM MT (X + Facebook)",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "D11 spring break ends today — kids back Monday. 🌤️ COS weekend: 46°F high. Good day for Garden of the Gods, a hike at Blodgett, or squeezing in one last outing before school resumes. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT (X + Facebook)",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nD11 spring break officially ends today, and D20 families are wrapping up too. Kids are back in school Monday — which makes this weekend the unofficial last hurrah before routines kick back in. 🌤️\n\nThe forecast isn't bad: 46°F high today, partly cloudy, about 20% chance of some light precipitation. Totally doable for outdoor time if you dress the kiddos in layers (very COS spring, right?).\n\nIf you're looking for ideas: Garden of the Gods is always free and the red rocks are gorgeous in the low spring light. Starsmore Discovery Center in North Cheyenne Canyon is a good option for families with younger kids. If it does rain, CityROCK has a solid indoor climbing option and kids love it.\n\nThe warm, dry spring trend means trails are in decent shape — just watch for muddy sections if you head up toward Cheyenne Mountain State Park or Blodgett Open Space.\n\nHow did your family's spring break go? Anything you'd recommend for the final weekend?\n```",
+        "image_caption": "#### Image Caption — 10:00 AM MT\n\n```\nSpring break ends today. One more weekend, COS. Make it count.\n```",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-d11-spring-break-ends-cos-weekend-activities.html",
+        "headline": "D11 Spring Break Ends Today — Best COS Activities for the Final Weekend",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Spring Break Ends Today — Last Weekend Before School Returns\n\n**Photo (X):** A family of three — two parents and a young child — walking on a wide dirt trail with red rock formations in the background, suggesting Garden of the Gods. Warm afternoon light. The child holds one parent's hand. Casual clothing, light jackets. Art style: warm, slightly cinematic outdoor photography. Colorado landscape, clear sky with light clouds. Clean bottom third (trail path area) for text overlay.\n\n**Photo (FB):** An overhead view of a family picnic blanket spread on green grass in a park setting. Simple snacks, water bottles, a few small toys. Bright, cheerful natural daylight. No faces needed — hands and objects only. Art style: warm lifestyle photography aesthetic. Light, airy color palette. Clean bottom third for Canva text overlay.\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| X | SPRING BREAK ENDS TODAY | Last Weekend — Make It Count, COS |\n| Facebook | ONE MORE WEEKEND | Best COS Spots Before School Starts Monday |\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "New Trails Coming to COS: Rock Island Bridge + Pikes Peak Greenway",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "3:00 PM MT (X + Facebook)",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "New this spring: Rock Island Trail gets a 210-ft bridge over Sand Creek. Pikes Peak Greenway adds 0.5 miles of new concrete path. 🏃 Good news for families who bike, run, or stroll with kids in COS. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT (X + Facebook)",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nGood news if your family likes getting outside in Colorado Springs: two notable trail improvements are coming this spring.\n\nThe Rock Island Trail is getting a 210-foot bridge over Sand Creek. That bridge fills in a real gap — the Rock Island corridor is a great off-road option for families who bike or run but has had some awkward connection points. This makes it more usable end-to-end.\n\nThe Pikes Peak Greenway is adding 0.5 miles of new concrete path as part of its ongoing expansion. The Greenway is already one of the most family-friendly routes in the city — relatively flat, well-maintained, connects several neighborhoods — and more of it is always a win.\n\nThere's also good news at Starsmore Visitor Center, where ADA improvements have been made, and the Austin Bluffs Spine Trail is another newer addition to the COS trail network. For longer adventures, Blodgett Open Space has 14 miles of trails with solid views and manageable terrain for older kids.\n\n🏃 Which COS trail does your family use most? Always happy to hear what's working for people.\n```",
+        "image_caption": "#### Image Caption — 3:00 PM MT\n\n```\nRock Island Trail: new 210-ft bridge coming. Pikes Peak Greenway: 0.5 miles of new path. COS trail season is looking good.\n```",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-rock-island-trail-pikes-peak-greenway-spring-2026.html",
+        "headline": "New Trails Coming to Colorado Springs This Spring",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "New Trails Coming to COS — Rock Island Bridge + Pikes Peak Greenway Expansion\n\n**Photo (X):** A wide concrete paved trail through a Colorado Springs park setting — low scrub oak, prairie grasses, distant Pikes Peak visible in the background under a clear blue sky. A family on bicycles (two adults, one child in a bike seat) rides away from the camera in the middle distance. Art style: bright outdoor photography, Colorado spring color palette (teal sky, golden grasses). Clean bottom third (trail surface) for text overlay.\n\n**Photo (FB):** A close-up of a wooden bridge railing over a creek, shot from a low angle looking up and across. Soft morning light. Suggests a trail bridge in a natural Colorado setting. Lush green and brown tones. Art style: nature photography, warm and inviting. Clean bottom third (bridge deck) for text overlay.\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| X | NEW COS TRAILS | Rock Island Bridge + Pikes Peak Greenway Expansion |\n| Facebook | MORE TRAILS THIS SPRING | 210-ft Bridge + 0.5 Miles of New Path Coming to COS |\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "AAP Drops the 2-Hour Screen Time Cap — What Changed in 2026",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "12:00 PM MT (X + Facebook)",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The AAP quietly updated its screen time guidance in 2026. The 2-hour daily cap is gone. New focus: quality of content and context — not clock-watching. Here's what the shift means for your family. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT (X + Facebook)",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nIf you've ever felt guilty about letting the 2-hour screen time limit slide on a tough day — the AAP just changed the rules.\n\nIn 2026, the American Academy of Pediatrics updated its screen time guidance and removed the longstanding 2-hour daily cap for children over 2. The new framework isn't a free pass for unlimited device time, but it's a meaningful shift in how the AAP wants parents to think about the issue. Instead of tracking the clock, the focus is now on what your kids are watching, how they're engaging with it, and what's happening around it.\n\nThe AAP's recommended tool is a \"family media plan\" — essentially a household agreement about when, where, and what kind of screen time is okay. Think: no phones at dinner, one show before bed, video calls with grandparents are different from passive YouTube scrolling.\n\nThis is a more realistic framework for how most families actually live. A 30-minute FaceTime with cousins and an educational video during quiet time are not the same as two hours of unsupervised algorithm-driven content, and the old rule didn't distinguish between them.\n\nHas the 2-hour rule ever felt useful to your family, or has it mostly been a source of stress? Curious how COS parents are actually handling it.\n```",
+        "image_caption": "#### Image Caption — 12:00 PM MT\n\n```\nAAP 2026: the 2-hour screen time cap is gone. Quality and context matter more than the clock.\n```",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-aap-screen-time-guidelines-2026-update.html",
+        "headline": "AAP Drops the 2-Hour Screen Time Cap in 2026",
+        "word_count": 734
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Drops the 2-Hour Screen Time Cap — 2026 Update\n\n**Photo (X):** A parent and child sitting side by side on a couch, looking at a tablet together. The mood is warm and engaged — this is co-viewing, not passive alone-time scrolling. Soft indoor lighting. Parent's arm around the child. Simple, cozy living room setting. Art style: warm documentary-style family photography. Clean bottom third (couch/foreground area) for text overlay.\n\n**Photo (FB):** A wide shot of a family sitting around a dining table, phones face-down in a small basket at the center of the table. Plates of food visible. Warm evening light. Faces not required — hands and objects only is fine. Art style: lifestyle photography, warm tones, relaxed domestic scene. Clean bottom third for Canva text overlay.\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| X | AAP SCREEN TIME UPDATE | The 2-Hour Cap Is Gone. Here's What Changed. |\n| Facebook | AAP SAYS: QUALITY OVER TIME | New 2026 Screen Time Guidance for Families |\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Spring Events Preview: Garden of the Gods Art Festival + Spring Fling",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 PM MT (X + Facebook)",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Mark your calendar, COS families. 🌸 Garden of the Gods Art Festival in April. Spring Fling: April 10-11. Early Literacy Event for Deaf/HH families: April 17. Spring in Colorado Springs is just getting started. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 PM MT (X + Facebook)",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nSpring break is wrapping up, but the Colorado Springs events calendar is just getting started. Here's what's coming in April for families. 🌸\n\nThe Garden of the Gods Art Festival is on the way in April — an outdoor arts event in one of the most scenic settings in the state. It's a great one for families who want to get outside and expose kids to local art in a low-pressure environment.\n\nSpring Fling is scheduled for April 10-11. Keep an eye on details as they're confirmed — this is shaping up to be a solid family event right in the middle of spring.\n\nOn April 17, there's an Early Literacy Event designed specifically for Deaf and Hard-of-Hearing families. This is a meaningful, inclusive resource for families navigating literacy alongside hearing differences.\n\nSpring in Colorado Springs is a good time to be outside more, and April has plenty to work with. Save these dates if any of them fit your family's schedule.\n\nWhich spring event are you most looking forward to — or is there something on your radar we should know about?\n```",
+        "image_caption": "#### Image Caption — 8:00 PM MT\n\n```\nSpring events are coming to COS. Garden of the Gods Art Festival, Spring Fling (April 10-11), and more.\n```",
+        "posting_time": "8:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-cos-spring-family-events-april-2026.html",
+        "headline": "Spring Family Events in Colorado Springs — April 2026",
+        "word_count": 632
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spring Events Preview — Garden of the Gods Art Festival + Spring Fling\n\n**Photo (X):** A wide-angle view of an outdoor art festival in a park with red rock formations in the background — suggesting Garden of the Gods, Colorado Springs. Vendor tents with colorful canopies. Families and children milling between booths. Bright spring daylight. Art style: vibrant, festival photography feel. Clean bottom third (grass/path area) for text overlay.\n\n**Photo (FB):** A family — two adults and two children — standing together looking at an outdoor art display, backs to camera, in front of dramatic red rock formations. Spring afternoon light. Casual clothing. Art style: warm, cinematic outdoor scene. Color palette: teal sky, red rock, green grass. Clean bottom third for Canva text overlay.\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| X | SPRING EVENTS IN COS | Art Festival + Spring Fling Coming in April |\n| Facebook | SAVE THE DATES | COS Spring Events for Families — April 2026 |\n\n---"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
