@@ -1913,8 +1913,8 @@ def create_html_dashboard(date, all_stories, brand_name, content_prefix, photo_s
             # Check manifest for pre-existing URL
             pre_url = ''
             if image_manifest:
-                sdata = image_manifest.get(story_num, {{}})
-                pdata = sdata.get(platform_key, {{}})
+                sdata = image_manifest.get(story_num, {})
+                pdata = sdata.get(platform_key, {})
                 pre_url = pdata.get('exported_url', '') or pdata.get('imagn_url', '')
             pre_loaded = 'loaded' if pre_url else ''
             pre_value = html.escape(pre_url) if pre_url else ''

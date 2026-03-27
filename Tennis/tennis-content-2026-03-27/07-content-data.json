@@ -1,0 +1,319 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-27",
+  "compiled_at": "2026-03-27T18:13:11.362653+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM ET",
+      "description": "X",
+      "type": "Overnight/morning results — Gauff SF recap"
+    },
+    {
+      "time": "10:30 AM ET",
+      "description": "X",
+      "type": "Match preview — Fils vs Lehecka"
+    },
+    {
+      "time": "10:30 AM ET",
+      "description": "X",
+      "type": "Rankings/implications — Korda upset aftermath"
+    },
+    {
+      "time": "12:30 PM ET",
+      "description": "X",
+      "type": "Upset recap — Korda/Alcaraz"
+    },
+    {
+      "time": "12:30 PM ET",
+      "description": "X",
+      "type": "Clay swing context"
+    },
+    {
+      "time": "3:00 PM ET",
+      "description": "X",
+      "type": "Evening SF preview — Sinner vs Zverev"
+    },
+    {
+      "time": "6:00 PM ET",
+      "description": "X",
+      "type": "WTA Final preview"
+    },
+    {
+      "time": "9:00 PM ET",
+      "description": "X",
+      "type": "Live match context — Sinner historical angle"
+    },
+    {
+      "time": "10:00 AM ET",
+      "description": "Facebook",
+      "type": "All FB long-form posts"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sinner vs. Zverev — Miami SF, Sunshine Double on the Line",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Sinner chasing history Federer last achieved in 2017 — Sunshine Double. Leads H2H 7-4, 30 consecutive sets at Masters 1000 level (all-time record). Tonight 7 PM ET.",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Sinner tonight in Miami SF vs Zverev: 17-2 on the season. 11 straight wins. 30 consecutive sets won at Masters 1000 level — an ALL-TIME record. No. 2 vs No. 4 🎾 7:00 PM ET. #TennisFanrecap #MiamiOpen #SinnerZverev",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#SinnerZverev"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Two more wins and Sinner joins Federer (2017) as the only men to complete the Sunshine Double this century. He leads Zverev 7-4 H2H and hasn't dropped a set in Miami. History's in play tonight. 🏆 #TennisFanrecap #MiamiOpen #SunshineDouble",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#SunshineDouble"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nTonight's Miami Open semifinal has one story at its center: can Jannik Sinner rewrite the record books?\n\nThe No. 2 seed has been a machine through this tournament — four wins, zero sets dropped, and a season record of 17-2. He beat Frances Tiafoe 6-2, 6-2 in the quarterfinals without breaking a sweat. And the bigger picture is even more striking: Sinner has now won 30 consecutive sets at the Masters 1000 level — an all-time record. He hasn't lost a set at that tier since the 2025 Paris Masters. He already holds the Indian Wells title this season, and two wins in Miami would make him the first man since Roger Federer in 2017 to complete the Sunshine Double.\n\nAlexander Zverev is the man standing in the way, and this is probably his best chance to end Sinner's dominance. The German has also been sharp in Miami — broken just once all tournament, 88% of first-serve points won (matching Sinner), and three of his four wins came without facing a break point. He'll want to lean on his big serve and shorten rallies. But the numbers don't lie: Sinner leads their head-to-head 7-4, has won six straight against Zverev, and the Italian has taken the last three in straight sets.\n\nMatch time: 7:00 PM ET on Stadium Court.\n\nWho do you think gets through to the final tonight — Sinner or Zverev?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM ET\n\n```\nSinner vs. Zverev. Tonight. 7 PM ET. History on the line.\n```",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-sinner-zverev-miami-sf-preview.html",
+        "headline": "Sinner vs. Zverev Miami Open SF: Sunshine Double and an All-Time Streak on the Line",
+        "word_count": 654
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner vs. Zverev — Miami SF, Sunshine Double on the Line\n\n**Photo:** Jannik Sinner\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| X | SINNER VS ZVEREV | Miami Open SF — Tonight 7 PM ET |\n| Facebook | CAN ZVEREV END THE STREAK? | Sinner: 30 Consecutive Sets at Masters Level |\n\n**Photo (FB):** Alexander Zverev\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| Facebook | ZVEREV'S LAST CHANCE | 0-6 H2H vs Sinner Since 2024 |\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Sabalenka vs. Gauff — WTA Miami Final Set for Saturday",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "WTA No. 1 vs No. 4 in a coin-flip final. Sabalenka seeking Sunshine Double + 4th player this century to reach final at first 4 events. H2H 6-6.",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Coco Gauff is through to the Miami Open final. Took ZERO sets from Muchova. Score: 6-1, 6-1. She's now 6-0 all-time vs Muchova and won 80% of second-serve return points 🔥 Sabalenka next, Saturday. #TennisFanrecap #MiamiOpen #WTA",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#WTA"
+          ],
+          "char_count": 228
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sabalenka in the Miami final. She's 21-3 this season (most wins on tour), already won Brisbane + Indian Wells, and is 4th player this century to reach the final at her first 4 WTA events. Hingis. Serena. Azarenka. Sabalenka. 👑 #TennisFanrecap #MiamiOpen #WTA",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#WTA"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThe 2026 Miami Open women's final is set, and it's the matchup tennis deserved.\n\nOn Thursday, Coco Gauff was clinical. She dismantled Karolína Muchová 6-1, 6-1 in 89 minutes — one of the most one-sided semifinals at this level. Gauff won 80% of second-serve return points and is now 6-0 all-time against the Czech star. Aryna Sabalenka, for her part, was equally commanding: she handled Elena Rybakina 6-4, 6-3 in an hour and 19 minutes, building a 4-0 lead in the second set and finishing with nine aces to Rybakina's two.\n\nWhat makes Saturday's final so compelling is what's at stake. Sabalenka is 21-3 on the season — the most wins on tour — and has already claimed Brisbane and Indian Wells. A Miami title would give her the Sunshine Double and make her only the fourth player this century to reach the WTA final at her first four events of a season, joining Martina Hingis (2001), Serena Williams (2003), and Victoria Azarenka (2012). As for Gauff, she arrives healthy, in form, and — as she put it — \"going out there with the belief that I can win.\"\n\nThe head-to-head between these two is tied 6-6. Neither player has a clear edge. This one is genuinely too close to call.\n\nSaturday's final at Hard Rock Stadium — who wins, Sabalenka or Gauff?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM ET\n\n```\nSabalenka vs. Gauff. Miami Open final. Saturday.\n```",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-sabalenka-gauff-miami-final-preview.html",
+        "headline": "Sabalenka vs. Gauff: Miami Open Final Preview — A Clash Built for the Moment",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sabalenka vs. Gauff — WTA Miami Final Set for Saturday\n\n**Photo:** Coco Gauff\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| X | GAUFF TO THE FINAL | 6-1, 6-1 vs Muchová |\n| Facebook | SABALENKA VS GAUFF | Miami Open Final — Saturday |\n\n**Photo (FB):** Aryna Sabalenka\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| Facebook | SABALENKA: 21-3 THIS SEASON | Brisbane. Indian Wells. Miami Final. |\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Fils vs. Lehecka — First Masters 1000 Final on the Line",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Neither Fils (21, France) nor Lehecka (24, Czech) has ever reached a Masters 1000 final. Today 3 PM ET — next-gen drama.",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Fils (21) saved FOUR match points to get here. Lehecka's serve hasn't been broken ONCE all tournament. Both chasing their first Masters 1000 final. Today, 3:00 PM ET. 🎾 #TennisFanrecap #MiamiOpen #NextGen",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#NextGen"
+          ],
+          "char_count": 204
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Fils vs Lehecka right now at Miami. Fils 70% of second-serve points. Lehecka 62%. Both 81% on first serve. Something has to give. 🔥 #TennisFanrecap #MiamiOpen #ATP",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#ATP"
+          ],
+          "char_count": 163
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nTwo young players. Two players who have never made a Masters 1000 final. One spot on the line this afternoon at 3:00 PM ET.\n\nArthur Fils (21, France) has been the most exciting story of this Miami draw. He saved four match points against Tommy Paul to reach the semifinals — a win that will be talked about for years. Earlier in the week, he also beat Stefanos Tsitsipas 6-0, 6-1. On the other side, Jiri Lehecka (24, Czech Republic) has been a fortress: his serve has not been broken a single time all tournament. He beat Taylor Fritz in three sets and dispatched Martin Landaluce with composure in the quarterfinals.\n\nThe serving stats are near identical — both win 81% of first-serve points — but Fils has the edge on second-serve points won (70% vs. Lehecka's 62%) and leads their head-to-head 2-1. Neither of these players may get a run like this again for a while. Today's semifinal could mark the moment one of them truly arrives.\n\nWhich player reaches his first Masters 1000 final today — Fils or Lehecka?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM ET\n\n```\nTwo first-timers, one Masters 1000 final spot. Fils vs. Lehecka, today at 3 PM ET.\n```",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-fils-lehecka-miami-sf-preview.html",
+        "headline": "Fils vs. Lehecka: Who Breaks Through to First Masters 1000 Final in Miami?",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Fils vs. Lehecka — First Masters 1000 Final on the Line\n\n**Photo:** Arthur Fils\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| X | FILS VS LEHECKA | First Masters 1000 Final on the Line |\n| Facebook | NEXT GEN SEMIFINAL | Today — 3 PM ET |\n\n**Photo (FB):** Jiri Lehecka\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| Facebook | LEHECKA: 0 BREAKS IN MIAMI | Unbroken Through 4 Matches |\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Korda Stuns World No. 1 Alcaraz in Miami R3",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Biggest win of Korda's career. Alcaraz was 16-1 on season, earliest exit since 2025 Paris Masters. Rankings implications massive — Sinner can close gap to 1,240 pts.",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Sinner wins Miami → closes the No. 1 gap from 2,140 to just 1,240 points. Alcaraz then defends 4,300 clay points this spring. The ATP rankings race just got very interesting. 📊 #TennisFanrecap #MiamiOpen #ATPRankings",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#ATPRankings"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Let's not forget: Sebastian Korda (No. 32) knocked out world No. 1 Alcaraz 6-3, 5-7, 6-4 this week. Biggest win of Korda's career. Alcaraz was 16-1 on the season. That Miami draw is WIDE open. #TennisFanrecap #MiamiOpen #Alcaraz",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#Alcaraz"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nBy the time the semifinals begin today, it's easy to forget what happened earlier this week. Sebastian Korda walked onto Stadium Court as the No. 32 seed and walked off having beaten the world No. 1.\n\nKorda defeated Carlos Alcaraz 6-3, 5-7, 6-4 in two hours and 18 minutes — the biggest win of his career. Alcaraz had been nearly untouchable this season: 16-1 across his first three tournaments, including the Australian Open title (which made him the youngest man to complete the Career Grand Slam) and a win in Doha. He hadn't exited before the quarterfinals of any tournament all season. Korda was 1-6 all-time against the Top 3 entering this match.\n\nThe rankings implications are significant. Alcaraz won't collect the 1,000 points that come with a Miami title. Sinner — who is still alive and has not dropped a set all tournament — can close the No. 1 gap from 2,140 to just 1,240 points with a title run. Looking ahead, Alcaraz has a massive clay-court defense: he won Monte-Carlo, Rome, and Roland Garros in 2025 and reached the Barcelona final. The pressure on him to repeat will be immense.\n\nWhat did you make of Korda's win over Alcaraz?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM ET\n\n```\nBiggest win of his career. Korda def. Alcaraz. No. 32 over No. 1.\n```",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-04-korda-stuns-alcaraz-miami-r3.html",
+        "headline": "Sebastian Korda Stuns World No. 1 Alcaraz in Miami — And Rewrites the Spring Season",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Korda Stuns World No. 1 Alcaraz in Miami R3\n\n**Photo:** Sebastian Korda\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| X | KORDA STUNS WORLD No. 1 | 6-3, 5-7, 6-4 |\n| Facebook | BIGGEST WIN OF HIS CAREER | Korda def. Alcaraz, No. 32 over No. 1 |\n\n**Photo (article hero):** Carlos Alcaraz\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| Article | — | (USA TODAY Sports Images) |\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Clay Season Looms — Withdrawals Mount, Osaka Timeline Unclear",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Hard-court season winding down, clay-court transition already messy. Raducanu, Osaka, Rune all uncertain. 13 WTA withdrawals in Miami.",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The clay-court swing starts next week and the withdrawal list is already growing. Osaka hasn't played since the AO. Raducanu out of Miami with a chest infection. Rune still dealing with Achilles. It's going to be a chaotic first clay week. 🎾 #TennisFanrecap #ClayCourtSeason",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#ClayCourtSeason"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThe hard-court season is almost over, and the transition to clay is already revealing its costs.\n\nThe withdrawal lists for next week's events in Houston, Bucharest, and Marrakesh are growing quickly. Emma Raducanu pulled out of Miami after battling a chest infection through the Middle East swing — she retired in Doha and lost in Dubai before a brief return at Indian Wells. Naomi Osaka hasn't competed since the Australian Open due to a recurring abdominal injury, and her clay timeline remains unclear. Holger Rune is managing Achilles and wrist issues and has missed multiple events this spring.\n\nOn the WTA side, 13 players withdrew from Miami, including former Grand Slam champions Barbora Krejcikova and Marketa Vondrousova, and former world No. 1 Karolina Pliskova. The one bright note: Novak Djokovic's right shoulder withdrawal from Miami is not considered serious, and he's expected to return for the clay swing.\n\nWho do you think is the player to watch when the clay season begins?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM ET\n\n```\nClay season is almost here. The withdrawal list is already long.\n```",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-05-clay-season-preview-2026.html",
+        "headline": "Clay Season 2026: What to Expect as the Withdrawal Wave Mounts",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Clay Season Looms — Withdrawals Mount\n\n**Photo:** Roland Garros clay court\n\n| Platform | Headline | Subtitle |\n|----------|----------|----------|\n| X | CLAY SEASON IS COMING | The Surface Changes. Everything Changes. |\n| Facebook | CLAY SEASON PREVIEW | Withdrawals, Injuries, and What's Next |"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

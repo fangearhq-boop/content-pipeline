@@ -521,8 +521,10 @@ def clone_or_pull_repo(tmp_dir):
         return repo_path
 
     print(f"  Cloning {UNIFIED_REPO}...")
+    pat = os.environ.get('GITHUB_TOKEN', '')
+    clone_url = f'https://{pat}@github.com/{UNIFIED_REPO}.git' if pat else f'https://github.com/{UNIFIED_REPO}.git'
     result = subprocess.run(
-        ['gh', 'repo', 'clone', UNIFIED_REPO, str(repo_path)],
+        ['git', 'clone', clone_url, str(repo_path)],
         capture_output=True, text=True, timeout=60
     )
     if result.returncode != 0:
@@ -532,9 +534,17 @@ def clone_or_pull_repo(tmp_dir):
         subprocess.run(['git', 'init'], cwd=str(repo_path), capture_output=True)
         subprocess.run(['git', 'branch', '-M', 'main'], cwd=str(repo_path), capture_output=True)
         subprocess.run(
-            ['git', 'remote', 'add', 'origin', f'https://github.com/{UNIFIED_REPO}.git'],
+            ['git', 'remote', 'add', 'origin', clone_url],
             cwd=str(repo_path), capture_output=True
         )
+    # Disable commit signing in this tmp clone — signing server only has context
+    # for the content-pipeline source path, not tmp deployment clones.
+    subprocess.run(['git', 'config', '--local', 'commit.gpgsign', 'false'],
+                   cwd=str(repo_path), capture_output=True)
+    subprocess.run(['git', 'config', '--local', 'user.email', 'fangearhq@gmail.com'],
+                   cwd=str(repo_path), capture_output=True)
+    subprocess.run(['git', 'config', '--local', 'user.name', 'Content Pipeline Bot'],
+                   cwd=str(repo_path), capture_output=True)
     return repo_path
 
 
