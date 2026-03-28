@@ -6,13 +6,13 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-03-27 |
-| Writing | Complete (all steps) | 2026-03-27 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-03-27 |
-| Compile | Complete (07-content-data.json) | 2026-03-27 |
-| Dashboard | Complete (review-dashboard.html) | 2026-03-27 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-03-27 |
-| Publishing | Attempted — push failed (PAT lacks write access to content-dashboards repo) | 2026-03-27 |
+| Research | Complete | 2026-03-28 |
+| Writing | Complete (all steps) | 2026-03-28 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-03-28 |
+| Compile | Complete (07-content-data.json) | 2026-03-28 |
+| Dashboard | Complete (review-dashboard.html) | 2026-03-28 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-03-28 |
+| Publishing | Attempted — push failed (PAT lacks write access to content-dashboards repo) | 2026-03-28 |
 
 ## Queue
 
@@ -23,6 +23,39 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-03-28 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total
+- **Articles:** 5
+- **PostPlanner exports:** tfr-postplanner-2026-03-28.xlsx (18 posts), tfr-postplanner-tobi-2026-03-28.xlsx (13 TOBI posts)
+- **Coverage:** WTA Miami Final (Sabalenka-Gauff today), ATP Miami Final preview (Sinner-Lehecka Sunday), Sinner d. Zverev SF, Lehecka d. Fils SF, Goffin retirement + Djokovic Monte Carlo withdrawal
+- **Research:** 6+ web searches covering Miami Open SF results, WTA Final preview, ATP rankings, Goffin retirement, Djokovic withdrawal
+- **Notes:**
+  - openpyxl installed for PostPlanner export (pip install openpyxl)
+  - WTA Final result not available at content creation time (match scheduled 3 PM ET Saturday); preview content written
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as previous run)
+  - verify-facts.py: all 5 stories present in all content files; 33 claims extracted; image warnings expected (production not yet started)
+  - compile-content-data.py: "Fact-Check no log found" note is cosmetic — fact-check log was written by verify-facts.py but compile couldn't locate it; all content compiled successfully
+- **Files created:**
+  - `tennis-content-2026-03-28/00-daily-brief.md`
+  - `tennis-content-2026-03-28/01-research-notes.md`
+  - `tennis-content-2026-03-28/02-story-analysis.md`
+  - `tennis-content-2026-03-28/03-social-posts-x.md`
+  - `tennis-content-2026-03-28/04-social-posts-facebook.md`
+  - `tennis-content-2026-03-28/05-image-concepts.md`
+  - `tennis-content-2026-03-28/06-fact-check-log.md`
+  - `tennis-content-2026-03-28/07-content-data.json`
+  - `tennis-content-2026-03-28/07-image-manifest.md`
+  - `tennis-content-2026-03-28/review-dashboard.html`
+  - `tennis-content-2026-03-28/articles/article-01-sabalenka-gauff-miami-wta-final-2026.html`
+  - `tennis-content-2026-03-28/articles/article-02-sinner-lehecka-miami-atp-final-preview.html`
+  - `tennis-content-2026-03-28/articles/article-03-sinner-beats-zverev-miami-sf.html`
+  - `tennis-content-2026-03-28/articles/article-04-lehecka-beats-fils-miami-sf.html`
+  - `tennis-content-2026-03-28/articles/article-05-goffin-retirement-djokovic-monte-carlo.html`
+  - `postplanner-imports/tfr-postplanner-2026-03-28.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-03-28.xlsx`
 
 ### 2026-03-27 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Facts → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

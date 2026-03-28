@@ -18,3 +18,8 @@ Track previously covered stories to avoid repetition and maintain content freshn
 | 2026-03-27 | Fils vs. Lehecka — Miami Open SF, first Masters 1000 final on the line | T2 | X, FB, Article | Fils (21) saved 4 match points; Lehecka unbroken all tournament; H2H 2-1 Fils |
 | 2026-03-27 | Korda (No. 32) stuns world No. 1 Alcaraz 6-3, 5-7, 6-4 in Miami R3 | T2 | X, FB, Article | Biggest win of Korda's career; Alcaraz was 16-1 on season; rankings gap now closeable |
 | 2026-03-27 | Clay season preview — withdrawal wave hits Houston, Bucharest, Marrakesh | T3 | X, FB, Article | Osaka (AO injury), Raducanu (chest infection), Rune (Achilles) all uncertain |
+| 2026-03-28 | Sabalenka vs. Gauff — WTA Miami Open Final, today (Saturday, H2H 6-6) | T1 | X, FB, Article | Sabalenka 0 sets dropped all tournament; Gauff 6-1,6-1 SF; $1.15M prize |
+| 2026-03-28 | Sinner vs. Lehecka — Miami ATP Final preview, Sunday (Sunshine Double bid) | T1 | X, FB, Article | Sinner d. Zverev 6-3,7-6(4); Lehecka d. Fils 6-2,6-2; Lehecka unbroken all tournament |
+| 2026-03-28 | Sinner d. Zverev 6-3, 7-6(4) — Miami SF; H2H now 8-4; 15 aces | T2 | X, FB, Article | 7th consecutive win vs Zverev; 74% 1st serves |
+| 2026-03-28 | Lehecka d. Fils 6-2, 6-2 — Miami SF; 75 min; 0 breaks in 5 matches | T2 | X, FB, Article | 8th Czech to reach M1000 final; H2H 2-2 |
+| 2026-03-28 | Goffin retiring at season's end (age 35, knee); Djokovic out of Monte Carlo (shoulder) | T2 | X, FB, Article | Goffin: career No. 7, 6 titles, 1st Belgian Top 10; Djokovic: 1st MC absence since 2011 |
