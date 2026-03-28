@@ -2,6 +2,68 @@
 
 ---
 
+## March 28, 2026
+
+### Story 1: D49 Fiscal Crisis — $2M Accounting Error Before $1.8M in Teacher Cuts
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Follow-Up Opportunities:**
+  - Audit results when announced (FEA audit demand)
+  - D49 board meeting coverage (next meeting date)
+  - Student Success Center opening (August 2026)
+  - Teacher nonrenewal appeals process / outcomes
+  - Other Colorado district fiscal exigency declarations
+
+### Story 2: Evenflo LiteMax 30 Car Seat Recall — Spanish Manual Error (14,020 Seats)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Follow-Up Opportunities:**
+  - Other car seat / infant product recalls (monthly CPSC roundup)
+  - Car seat check event schedule in COS
+  - "How to register your baby gear for recalls" evergreen guide
+  - Bilingual parenting resource roundup for COS
+
+### Story 3: D11 + D49 Graduation Dates Confirmed — May 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Follow-Up Opportunities:**
+  - D20 graduation dates when announced
+  - Cap and gown pickup / ticket distribution reminders (April)
+  - Graduation gift guide for COS
+  - "Last month of school" family activity guide (May)
+
+### Story 4: Blodgett Open Space — 14 Miles of New Trails, Summer 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Follow-Up Opportunities:**
+  - First new trail section opening announcement
+  - Mountain bike trail preview when open
+  - COS trail guide for families (evergreen)
+  - Blodgett-Wilson Ranch connection update
+  - Summer outdoor activity guide for COS families
+
+### Story 5: AAP Updates Pediatric Anaphylaxis Action Plan — Spring 2026
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Follow-Up Opportunities:**
+  - Food allergy awareness month (May) content
+  - COS school allergy policy coverage (D11/D20/D49 food allergy protocols)
+  - Nasal epinephrine (Neffy) awareness — how to get it
+  - Spring field trip allergy safety tips
+  - Outdoor dining / food festival allergy guide
+
+---
+
 ## March 27, 2026
 
 ### Story 1: CPSC Alert — Vevor Baby Swings + Zigjoy Sleep Sacks Recalled

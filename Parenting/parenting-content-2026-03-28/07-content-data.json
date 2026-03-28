@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-28",
+  "compiled_at": "2026-03-28T12:39:02.208585+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM MT",
+      "description": "X",
+      "type": "D49 fiscal crisis / teacher cuts + accounting error"
+    },
+    {
+      "time": "10:00 AM MT",
+      "description": "X",
+      "type": "Evenflo car seat recall"
+    },
+    {
+      "time": "12:00 PM MT",
+      "description": "X",
+      "type": "D11 + D49 graduation dates"
+    },
+    {
+      "time": "3:00 PM MT",
+      "description": "X",
+      "type": "Blodgett trails"
+    },
+    {
+      "time": "5:00 PM MT",
+      "description": "X",
+      "type": "AAP anaphylaxis update"
+    },
+    {
+      "time": "10:00 AM MT",
+      "description": "Facebook",
+      "type": "All FB long-form posts"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D49 Fiscal Crisis — $2M Accounting Error Before $1.8M in Teacher Cuts",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D49 cut $1.8M in teachers and staff in February. Now KRDO reports administrators made a $2M accounting error before those layoffs. The teachers union is demanding a full audit. COS families deserve answers. 📚 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "D49 cut 39 staff and nonrenewed 12 teacher contracts — yet it's still opening a Student Success Center and 2 new preschool classrooms in August. Board declared fiscal exigency in January. What are you hearing? #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nIf your family is in District 49, this one's important — and honestly, it's a lot to take in.\n\nIn January, D49's school board voted 4-1 to declare fiscal exigency, citing declining enrollment (the district's first enrollment drop in five years, now at 26,423 students), reduced state funding, and rising costs. On February 12, the board voted 3-2 to eliminate 39 staff positions and not renew 12 teaching contracts — roughly $1.8 million in cuts. Many of the teachers who received nonrenewal notices had been with the district for 10 or more years. Parents and students walked out of that board meeting in protest.\n\nThen, in early March, KRDO reported something that stopped a lot of people cold: D49 administrators had made a $2 million accounting error before those layoffs were decided. The Falcon Education Association (the teachers union) had already been demanding a full audit, saying the district has been underestimating its annual revenue by more than $30 million a year for three straight years. That claim is disputed by the district, but the audit demands are getting louder.\n\nHere's what's strange: at the same time the district is cutting teachers, it's also planning to open a new Student Success Center and two new preschool classrooms this August.\n\nThe board president told reporters that at least two other Colorado school districts are expected to declare fiscal exigency for 2026-27. This is a bigger Colorado story — and it's happening right here.\n\nD49 families — what are you hearing from your school? Drop a comment below.\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM MT\n\n```\nD49 cut $1.8M in teachers. Then a $2M accounting error came to light. COS families have questions.\n```",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-d49-fiscal-crisis-accounting-error-teacher-cuts.html",
+        "headline": "D49 Cut $1.8M in Teachers — Then a $2M Accounting Error Came to Light",
+        "word_count": 604
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Fiscal Crisis — Teacher Cuts + Accounting Error\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Mode:** base_only\n- **Gemini Prompt:** A concerned parent sitting at a school board meeting, listening intently. Warm but subdued lighting. Meeting room with rows of chairs, community members in background, subtle sense of tension and concern. Realistic art style, photojournalistic mood. Clean visual space in the bottom third for text overlay. No text, no signage, no identifiable faces. Color palette: muted blues and grays with warm amber light.\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Mode:** base_only\n- **Gemini Prompt:** Empty classroom with desks, soft afternoon light coming through large windows. Slightly melancholy but warm mood — suggests the absence of teachers or students in transition. A single apple on the teacher's desk. No people, no text, no identifiable branding. Clean bottom third for text overlay. Color palette: warm yellows and muted browns.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Evenflo LiteMax 30 Car Seat Recall — 14,020 Seats",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Car seat recall: 14,020 Evenflo LiteMax 30 seats. Spanish manual has wrong limits. English manual and seat label are correct. From check events, not retail. Free fix by mail. Call 1-800-233-5921 🚨 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nCar seat recall heads-up, especially for families who've received a car seat at a community event or check station.\n\nEvenflo recalled about 14,020 LiteMax 30 Factory Select infant car seats on March 3. The good news: the seat itself is perfectly fine. The problem is specifically in the Spanish-language instruction manual, which lists the weight limit as 4-35 pounds — but the correct limits are actually 3-30 pounds for weight and 15.7-32 inches for height.\n\nThe English manual and the label printed on the seat itself are correct. So if your family uses the English manual, or if you go by what the seat label says, you're good. But if you or a caregiver uses the Spanish manual to guide how you install and size the seat, there's a real safety concern there.\n\nThese seats weren't sold in retail stores. They were distributed through car seat check events and community programs — which means a lot of families who got them may not know about this recall through regular retail notification channels.\n\nWhat to do: Evenflo is mailing corrected Spanish-language manuals free of charge. Owner letters are expected to go out by March 31. You can also call 1-800-233-5921 (9 AM to 5 PM PT, Monday-Friday) or visit evenflo.com. The affected model number is CS100111198, manufactured between November 2024 and January 2026.\n\nIf you're not sure about your seat, check the manual language — and share this post with anyone who might have gotten a car seat at a community event recently.\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM MT\n\n```\nCar seat recall alert: 14,020 Evenflo LiteMax 30 seats. Spanish manual has wrong limits. English manual and seat label are correct. Free fix coming by mail.\n```",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-evenflo-litemax-30-car-seat-recall.html",
+        "headline": "Evenflo LiteMax 30 Car Seat Recall: The Spanish Manual Has Wrong Limits",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Evenflo Car Seat Recall\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Mode:** base_only\n- **Gemini Prompt:** Close-up of an infant car seat in the back seat of a car, soft natural light through windows. Clean, safety-focused composition. No baby, no brand logos, no text. The seat should look like a generic infant carrier/car seat in gray or neutral tones. Clean visual space in the bottom third for text overlay. Alert/important mood without being alarming.\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Mode:** base_only\n- **Gemini Prompt:** A parent carefully reading an instruction manual for a baby product, seated at a kitchen table. Warm home lighting. Focused, caring expression. The manual pages visible but not legible. Baby gear visible nearby but unfocused. No brand logos, no text overlay. Clean bottom third for text. Color palette: warm whites, soft grays, kitchen tones.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "D11 + D49 Graduation Dates — May 2026",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D11 + D49 graduation dates are set. Palmer and Mitchell: May 19 at Ed Robson Arena. Coronado and Doherty: May 20. Sand Creek, Falcon, Vista Ridge: May 23 at Broadmoor World Arena. Save the date 🎓 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nGraduation season is closer than it feels. Here's your Colorado Springs graduation date roundup for May 2026.\n\n**D11 (Colorado Springs School District 11)**\nAll D11 graduations are at Ed Robson Arena at Colorado College:\n- Palmer High School: Tuesday, May 19 at 9:00 AM\n- Mitchell High School: Tuesday, May 19 at 3:00 PM\n- Coronado High School: Wednesday, May 20 at 9:00 AM\n- Doherty High School: Wednesday, May 20 at 3:00 PM\n- Achieve, Tesla, Bijou, Odyssey schools: Thursday, May 21 (times TBD)\n\n**D49 (Falcon School District 49)**\n- Pikes Peak Early College, Springs Studio for Academic Excellence, Patriot Applied Learning Campus: Friday, May 15 at 8:30 AM, 11:30 AM, and 3:00 PM — COS City Hub\n- Sand Creek High School: Saturday, May 23 at 9:00 AM — Broadmoor World Arena\n- Falcon High School: Saturday, May 23 at 1:00 PM — Broadmoor World Arena\n- Vista Ridge High School: Saturday, May 23 at 5:00 PM — Broadmoor World Arena\n\n**D20 (Academy District 20)**\nLast day of school is May 28. Graduation dates are typically announced closer to the date — check asd20.org for updates.\n\nDoes your family have a graduate this year? Tell us which school in the comments!\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM MT\n\n```\nCOS graduation dates are set. D11: May 19-21 at Ed Robson Arena. D49: May 15 + May 23.\n```",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-03-d11-d49-graduation-dates-may-2026.html",
+        "headline": "COS Graduation 2026: D11 and D49 Dates Are Set",
+        "word_count": 460
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 + D49 Graduation Dates\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Mode:** base_only\n- **Gemini Prompt:** Graduation caps tossed in the air against a bright blue Colorado sky. Celebratory, joyful composition. Sunlight catching the caps mid-air. No faces visible, no text, no brand logos. Clean visual space in the lower third for text overlay. Color palette: bright blue sky, gold and black graduation caps, warm sunlight.\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Mode:** base_only\n- **Gemini Prompt:** A proud parent hugging a teenager in graduation cap and gown, from behind or side angle — joyful, warm moment. Outdoor setting, Colorado sunny day, mountains subtly visible in background. No identifiable faces clearly visible. No text, no logos. Clean bottom third. Color palette: warm gold and navy graduation gown colors, Colorado blue sky.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Blodgett Open Space — 14 Miles of New Trails Coming Summer 2026",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "14 miles of new trails are coming to Blodgett Open Space this summer. Mountain bike AND hiking-only options, 140+ new parking spaces, phased openings all summer long. Northwest COS near Pike National Forest. 🥾 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nGood news for COS families who love getting outside: Blodgett Open Space is getting a major upgrade this summer.\n\nIf you haven't been to Blodgett, it's 384 acres of trails and open space on the northwest side of Colorado Springs, right next to Pike National Forest. It's one of those spots that feels a little more tucked-away than Garden of the Gods or Cheyenne Canyon — but that's part of the appeal.\n\nThis year, crews are adding 14 miles of new and improved trails, broken into two types the community asked for: dedicated hiking-only trails on the north side, and mountain bike-only trails coming off a brand-new quarry trailhead in the south. Both trailheads are getting serious parking upgrades — 90 new spaces at the North trailhead and a new 50-stall lot at the quarry — which should help with the overflow parking that's been spilling onto Woodmen Road.\n\nTrails will open in phases throughout summer 2026, so you can start checking in on what's open as the season progresses. There may be some temporary, isolated closures in active construction zones, so it's worth checking the city's Blodgett page before you go. The full project is expected to wrap by end of summer.\n\nThe longer vision is even cooler: eventually, this whole open space will connect to Wilson Ranch Park and the regional trail network, turning Blodgett into a real hub in the city's trail system.\n\nBudget: funded by the TOPS program and a $250,000 State Trails Grant from Colorado Parks and Wildlife.\n\nHave you hiked Blodgett before? What do you think about the dedicated bike vs. hiking trail split?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM MT\n\n```\n14 miles of new trails coming to Blodgett Open Space this summer. Hiking-only and bike-only options, 140+ new parking spaces. Northwest COS near Pike National Forest.\n```",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-04-blodgett-open-space-trail-expansion-2026.html",
+        "headline": "Blodgett Open Space Is Getting 14 New Miles of Trails This Summer",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Blodgett Open Space Trail Expansion\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Mode:** base_only\n- **Gemini Prompt:** A family hiking on a well-defined dirt trail through Colorado open space. Parent and two young children, viewed from behind, walking away from the camera into pine forest and open meadow. Colorado Rocky Mountain landscape, spring morning light. No identifiable faces. No text, no logos, no branded gear. Clean visual space in lower third. Color palette: earthy greens and browns, Colorado sky blue, morning golden light.\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Mode:** base_only\n- **Gemini Prompt:** Wide panoramic view of a mountain trail in Colorado open space. Rocky hillside with pine trees, blue sky with light clouds, spring wildflowers beginning to bloom. Inviting, adventurous mood. No people, no text, no signage. Clean lower third for text overlay. Color palette: earthy greens, granite gray, sky blue, hints of wildflower purple and yellow.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "AAP Updates Anaphylaxis Action Plan for 2026",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "5:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "AAP updated the pediatric anaphylaxis action plan — now includes nasal epinephrine (Neffy) + age-specific guidance. Spring outdoor events and field trips start soon. Worth a review if your child has allergies. 🌿 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "5:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nIf your child has food allergies, this spring update from the American Academy of Pediatrics is worth a few minutes of your time.\n\nThe AAP has released an updated North American Pediatric Anaphylaxis Action Plan — the first major update in years. What makes this version different:\n\nFirst, it now includes nasal epinephrine (brand name: Neffy) as an option alongside the traditional auto-injector. Neffy was FDA-approved in 2023 and some families find it easier to use, especially for younger children. If your child's allergist hasn't brought this up yet, it's worth asking about.\n\nSecond, the plan now includes preference-sensitive guidance — meaning it gives parents and caregivers more flexibility in how they manage the post-epinephrine window, rather than one-size-fits-all instructions. It also includes age-specific guidance on how anaphylaxis can present differently in children at different stages of development.\n\n86% of the healthcare stakeholders who reviewed the plan said they'd recommend it for use.\n\nWhy mention this in late March? Spring is when allergy exposure risk goes up — outdoor events, school field trips, end-of-year activities, and parties where food control is harder. If you haven't looked at your child's action plan recently, this is a good moment to pull it out and make sure your school, caregivers, and activity leaders have the current version.\n\nThe AAP also released updated school food allergy management guidelines in late 2025 — worth sharing with your child's school nurse at the start of Q4.\n\nDoes your child have an anaphylaxis action plan on file at school? It's a 5-minute conversation that could matter a lot.\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM MT\n\n```\nAAP updated its pediatric anaphylaxis plan for 2026. Now includes nasal epinephrine option + age-specific guidance. Spring allergy season is here.\n```",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-05-aap-anaphylaxis-action-plan-2026.html",
+        "headline": "AAP Updated the Anaphylaxis Action Plan — Here's What Changed for 2026",
+        "word_count": 654
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Anaphylaxis Action Plan\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Mode:** base_only\n- **Gemini Prompt:** Close-up of an EpiPen auto-injector lying on a table next to a school backpack, spring flowers blurred in background. Clean, informational mood — not alarming but clearly about health preparedness. No brand logos visible on the injector. No text. Clean lower third for text overlay. Soft natural lighting. Color palette: clean whites, soft greens, warm neutrals.\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Mode:** base_only\n- **Gemini Prompt:** A parent handing their child a small health kit or medication bag before school, warm morning kitchen scene. Parent kneeling to child's level, caring and reassuring mood. No identifiable faces clearly visible. No text, no brand logos on any products. Clean visual space in lower third. Color palette: warm kitchen tones, morning light, soft blues and greens suggesting health and care."
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
