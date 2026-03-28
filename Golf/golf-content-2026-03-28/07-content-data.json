@@ -1,0 +1,359 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-28",
+  "compiled_at": "2026-03-28T11:48:06.680450+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM ET",
+      "description": "X + Facebook",
+      "type": "PGA Tour Moving Day lead"
+    },
+    {
+      "time": "10:30 AM ET",
+      "description": "X + Facebook",
+      "type": "LPGA Ko's 60"
+    },
+    {
+      "time": "1:00 PM ET",
+      "description": "X + Facebook",
+      "type": "LIV DeChambeau dominance"
+    },
+    {
+      "time": "3:30 PM ET",
+      "description": "X + Facebook",
+      "type": "Masters preview"
+    },
+    {
+      "time": "6:00 PM ET",
+      "description": "X + Facebook",
+      "type": "Scheffler WD + Kim update"
+    },
+    {
+      "time": "8:30 PM ET",
+      "description": "X",
+      "type": "Grand Slam chasers"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Woodland Leads Houston Open at -13 — Comeback from Brain Surgery",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Gary Woodland — brain surgery survivor, 2019 U.S. Open champion — leads the Houston Open at -13 heading into Moving Day.\n\nThree shots clear. The comeback story of the year is playing out in real time.\n\n#GolfFanrecap #HoustonOpen #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#HoustonOpen",
+            "#PGATour"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "THREE shots. That's Woodland's lead at the Houston Open through 36 holes.\n\nHojgaard and Suber both shot 62 in R2 and are still 3 back.\n\nWhen the leaderboard AND the backstory both hit — this is what golf is. 🏌️\n\n#GolfFanrecap #HoustonOpen #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#HoustonOpen",
+            "#PGATour"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-woodland-leads-houston-open-brain-surgery-comeback.html",
+        "headline": "Gary Woodland Leads Houston Open at -13: A Comeback Story Heading Into Moving Day",
+        "word_count": 511
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Woodland Leads Houston Open\n\n#### Image 1A — Social (1080x1350)\n- **Imagn Search:** \"Gary Woodland PGA Tour\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"MOVING DAY LEADER | WOODLAND -13 | HOUSTON OPEN\"\n\n#### Image 1B — Social (1080x1350)\n- **Imagn Search:** \"Gary Woodland PGA Tour\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"3-SHOT LEAD | FROM THE SURGERY TABLE TO THE LEADERBOARD\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Lydia Ko Shoots 60 in Round 1 of Ford Championship",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LYDIA KO SHOT A 60.\n\n12-under at Whirlwind Golf Club. Four straight birdies to open the round.\n\nThe best round of her LPGA Tour career — and she leads heading into Moving Day.\n\n📍 Ford Championship, Phoenix\n\n#GolfFanrecap #LPGA #LydiaKo",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGA",
+            "#LydiaKo"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Round of 60. Four-birdie opening. Wire-to-wire lead through two rounds.\n\nLydia Ko is playing some of the best golf of her career in Phoenix.\n\nCan she finish what she started on Sunday?\n\n#GolfFanrecap #LPGA #FordChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGA",
+            "#FordChampionship"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-lydia-ko-shoots-60-ford-championship.html",
+        "headline": "Lydia Ko Fires Career-Best 60 to Lead Ford Championship in Phoenix",
+        "word_count": 457
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lydia Ko Shoots 60\n\n#### Image 2A — Social (1080x1350)\n- **Imagn Search:** \"Lydia Ko LPGA\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"LYDIA KO SHOOTS 60 | 12-UNDER | FORD CHAMPIONSHIP R1\"\n\n#### Image 2B — Social (1080x1350)\n- **Imagn Search:** \"Lydia Ko LPGA\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"CAREER BEST. 60. | FOUR STRAIGHT BIRDIES TO START\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "DeChambeau Dominates March — Back-to-Back LIV Wins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Bryson DeChambeau in March 2026:\n\n✓ Won LIV Singapore (playoff)\n✓ Won LIV South Africa (playoff over Rahm)\n✓ $8,000,000 in prize money\n\nBack-to-back wins. Five total LIV titles. The most dominant golfer alive right now.\n\n#GolfFanrecap #LIVGolf #DeChambeau",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LIVGolf",
+            "#DeChambeau"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-dechambeau-liv-back-to-back-march-dominance.html",
+        "headline": "DeChambeau Wins Back-to-Back LIV Events in March, Claims $8 Million",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DeChambeau Back-to-Back LIV Wins\n\n#### Image 3A — Social (1080x1350)\n- **Imagn Search:** \"Bryson DeChambeau LIV Golf\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"BACK-TO-BACK | DECHAMBEAU | $8M IN MARCH | 5 LIV TITLES\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Masters 2026 Preview — Scheffler, McIlroy, Grand Slam Chasers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "12 days until the Masters.\n\nScheffler: No. 1 in the world, +480 favorite.\nMcIlroy: Defending champion. Grand Slam complete.\nSchauffele / Morikawa / Koepka: All chasing their own.\n\nAugusta 2026 might be the most loaded field in years.\n\n#GolfFanrecap #Masters2026 #Augusta",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters2026",
+            "#Augusta"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-masters-2026-preview-scheffler-mclroy-grand-slam.html",
+        "headline": "Masters 2026 Preview: Scheffler Favored, McIlroy Defending, Three Players Chasing Grand Slams",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Masters 2026 Preview\n\n#### Image 4A — Social (1080x1350)\n- **Imagn Search:** \"Scottie Scheffler Masters Augusta National\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"MASTERS 2026 | APRIL 9-12 | SCHEFFLER +480 | 90TH EDITION\"\n\n#### Image 4B — Social (1080x1350)\n- **Imagn Search:** \"Augusta National golf course\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"GRAND SLAM CHASERS | SCHAUFFELE | MORIKAWA | KOEPKA\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Scheffler Withdraws from Houston Open",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Scottie Scheffler withdrew from the Houston Open before the tournament.\n\nNo. 1 in the world. +480 Masters favorite. With the first major 12 days out.\n\nEverything is fine. Probably. 🫤\n\n#GolfFanrecap #HoustonOpen #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#HoustonOpen",
+            "#PGATour"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-scheffler-wd-houston-open-grand-slam-chasers.html",
+        "headline": "Scheffler Withdraws from Houston Open; Grand Slam Chasers Converge on Augusta",
+        "word_count": 502
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler WD\n\n#### Image 5A — Social (1080x1350)\n- **Imagn Search:** \"Scottie Scheffler PGA Tour\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"SCHEFFLER WITHDRAWS | HOUSTON OPEN | MASTERS IN 12 DAYS\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Hyo Joo Kim Won Founders Cup — Now Chasing Ko in Phoenix",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Hyo Joo Kim won the Fortinet Founders Cup last week — wire-to-wire, held off Nelly Korda.\n\nNow she's chasing Lydia Ko (who shot a 60) in Phoenix.\n\nBack-to-back LPGA wins? Wouldn't be the first time. 🏌️‍♀️\n\n#GolfFanrecap #LPGA #HyoJooKim",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGA",
+            "#HyoJooKim"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hyo Joo Kim\n\n#### Image 6A — Social (1080x1350)\n- **Imagn Search:** \"Hyo Joo Kim LPGA\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"FOUNDERS CUP CHAMPION | NOW CHASING KO IN PHOENIX\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Masters Grand Slam Chasers — Schauffele, Morikawa, Koepka",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Three players need ONLY a Masters title to complete their career Grand Slams in 2026:\n\nXander Schauffele.\nCollin Morikawa.\nBrooks Koepka.\n\nMcIlroy did it last year. Augusta is 12 days away.\n\n#GolfFanrecap #Masters2026 #GrandSlam",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters2026",
+            "#GrandSlam"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Grand Slam Chasers\n\n#### Image 7A — Social (1080x1350)\n- **Imagn Search:** \"Xander Schauffele PGA Tour\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"GRAND SLAM CHASERS 2026 | SCHAUFFELE | MORIKAWA | KOEPKA\""
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -6,6 +6,13 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-03-28 | T1 | Gary Woodland leads Houston Open at -13 (brain surgery comeback, 3-shot lead over Hojgaard/Suber) | X, FB, Article | 2019 U.S. Open champ; rounds of 64+63 at Memorial Park |
+| 2026-03-28 | T1 | Lydia Ko shoots 12-under 60 in Ford Championship R1 (career best, leads Phoenix) | X, FB, Article | Four straight opening birdies; Whirlwind Golf Club Cattail Course |
+| 2026-03-28 | T2 | DeChambeau back-to-back LIV wins in March (Singapore + South Africa, $8M, 5 titles) | X, FB, Article | Beat Lee in playoff Singapore; beat Rahm in playoff SA |
+| 2026-03-28 | T2 | Masters 2026 preview (April 9-12, Scheffler +480, McIlroy defending, Grand Slam chasers) | X, FB, Article | 90th edition, $20M purse, Schauffele/Morikawa/Koepka all chasing Slams |
+| 2026-03-28 | T2 | Scheffler withdraws from Houston Open (Masters prep, 12 days out) | X, FB | No injury confirmed; Woodland benefits from absence |
+| 2026-03-28 | T2 | Hyo Joo Kim won Founders Cup (wire-to-wire, held off Korda), now chasing Ko in Phoenix | X, FB | Back-to-back LPGA wins possible; only a handful in history |
+| 2026-03-28 | T3 | Grand Slam chasers — Schauffele, Morikawa, Koepka all need only Masters to complete collection | X, FB | Last before McIlroy was Gary Player 1965 |
 | 2026-03-20 | T2 | Valspar Championship R1 — Sungjae Im leads at -7 (64) | X, FB | First run. Im two eagles, Snedeker -6, Schauffele -3 |
 | 2026-03-20 | T2 | LIV Golf South Africa R1 — DeChambeau/Howell -8 (63) | X, FB | First-ever LIV event in Africa. Southern Guards lead team |
 | 2026-03-20 | T1 | Cameron Young wins The Players Championship at -13 | X, FB | 375-yd drive on 18, came from 4 back, beat Fitzpatrick by 1 |
