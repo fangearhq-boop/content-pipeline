@@ -1,0 +1,354 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-28",
+  "compiled_at": "2026-03-28T11:26:41.570203+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM ET",
+      "description": "X + Facebook",
+      "type": "Morning Recap"
+    },
+    {
+      "time": "11:00 AM ET",
+      "description": "X + Facebook",
+      "type": "Stats Deep Dive"
+    },
+    {
+      "time": "1:00 PM ET",
+      "description": "X + Facebook",
+      "type": "Analysis"
+    },
+    {
+      "time": "4:00 PM ET",
+      "description": "X + Facebook",
+      "type": "Game Day Preview"
+    },
+    {
+      "time": "7:00 PM ET",
+      "description": "X",
+      "type": "Injury Update"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Wembanyama Tops MVP Ladder, Passes SGA",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "WEMBY IS No. 1.\n\nVictor Wembanyama just jumped to the top of the Kia MVP Ladder, passing SGA.\n\n17 blocks in 3 games. Spurs at 54-18. The case is overwhelming.\n\nWho gets your MVP vote? 👇\n\n#HoopHeroes #NBA #WembyMVP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#WembyMVP"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 1-2",
+          "text": "SGA broke Wilt's record. Wemby blocks 17 shots in 3 games.\n\nThis MVP race is the best debate in sports right now.\n\nThunder 57-15. Spurs 54-18. No wrong answer — just sides.\n\n#HoopHeroes #NBA #MVPRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#MVPRace"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-wembanyama-tops-mvp-ladder.html",
+        "headline": "Wembanyama Tops MVP Ladder, Surpasses Shai Gilgeous-Alexander",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama Tops MVP Ladder\n\n#### Image Concept 1A — Social (1080x1350)\n- **Type:** Player action shot with stat overlay\n- **Imagn Search:** \"Victor Wembanyama San Antonio Spurs\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay Text:**\n  - Headline: \"MVP LADDER: No. 1\"\n  - Subtext: \"WEMBANYAMA PASSES SGA\"\n  - Stat Bar: \"17 BLOCKS | LAST 3 GAMES\"\n- **Design Notes:** Deep orange (#FF5722) headline, gold accent (#FFC107) for \"No. 1\", dark midnight semi-transparent bar behind text. Action shot preferred — block or dunk.\n\n#### Image Concept 1B — Social (1080x1350)\n- **Type:** Split comparison graphic (SGA vs. Wemby)\n- **Imagn Search Left:** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Imagn Search Right:** \"Victor Wembanyama San Antonio Spurs\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay Text:**\n  - Top Center: \"MVP RACE 2026\"\n  - Left: \"SGA — 127 STRAIGHT 20+ PT GAMES\"\n  - Right: \"WEMBY — 17 BLOCKS / 3 GAMES\"\n  - Bottom: \"WHO GETS YOUR VOTE? #HoopHeroes\"\n- **Design Notes:** Royal blue (#1565C0) left panel, deep orange (#FF5722) right panel, gold divider\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Luka 41 Pts, Lakers Beat Nets Without LeBron",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LeBron out. Luka unbothered.\n\n41 PTS. 6 threes. Lakers win.\n\nDoncic is averaging 39.5 PPG over his last 11 games. The most unstoppable scorer alive.\n\nIs this officially Luka's team? #LakeShow #HoopHeroes #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 208
+        },
+        {
+          "label": "Post 2-2",
+          "text": "60 pts. 50 pts. 41 pts.\n\nThat's Luka Doncic's last month of basketball.\n\nWith LeBron banged up, the Lakers need him to keep this up all the way to June.\n\n#HoopHeroes #LakeShow #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#LakeShow",
+            "#NBA"
+          ],
+          "char_count": 180
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-luka-41-lakers-beat-nets.html",
+        "headline": "Luka Drops 41 as Lakers Beat Nets Without LeBron",
+        "word_count": 616
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Luka 41 Pts, Lakers Beat Nets\n\n#### Image Concept 2A — Social (1080x1350)\n- **Type:** Player action shot with score overlay\n- **Imagn Search:** \"Luka Doncic Los Angeles Lakers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay Text:**\n  - Headline: \"LUKA LOCKS DOWN\"\n  - Stat: \"41 PTS | 6 3PM\"\n  - Subtext: \"LEBRON OUT. DONCIC DELIVERS.\"\n- **Design Notes:** Lakers gold/purple tones in overlay. Action dribble or three-point shot preferred.\n\n#### Image Concept 2B — Social (1080x1350)\n- **Type:** Hot streak graphic\n- **Imagn Search:** \"Luka Doncic Los Angeles Lakers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay Text:**\n  - Headline: \"ON FIRE\"\n  - Stat Line 1: \"60 PTS\"\n  - Stat Line 2: \"50 PTS\"\n  - Stat Line 3: \"41 PTS\"\n  - Footer: \"LUKA'S MARCH 2026 | #HoopHeroes\"\n- **Design Notes:** Flame motif in deep orange, stats stacked vertically\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Rockets 119, Grizzlies 109 — Prosper Career-High 31",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "KD drops 25 and 10. Rockets stay alive at 43-28.\n\nBut the real story: Grizzlies rookie Olivier-Maxence Prosper lit up for a CAREER-HIGH 31 pts.\n\nRemember that name. 🔥\n\n#HoopHeroes #NBA #Rockets",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#Rockets"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-rockets-119-grizzlies-109-prosper-career-high.html",
+        "headline": "Rockets 119, Grizzlies 109: KD's 25-10 Leads Houston, Prosper Sets Career High",
+        "word_count": 605
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rockets 119, Grizzlies 109\n\n#### Image Concept 3A — Social (1080x1350)\n- **Type:** Player action shot\n- **Imagn Search:** \"Kevin Durant Houston Rockets\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay Text:**\n  - Headline: \"KD LEADS ROCKETS\"\n  - Stat: \"25 PTS | 10 AST\"\n  - Score: \"HOU 119 — MEM 109\"\n- **Design Notes:** Rockets red color scheme\n\n#### Image Concept 3B — Social (1080x1350)\n- **Type:** Breakout moment graphic\n- **Imagn Search:** \"Olivier-Maxence Prosper Memphis Grizzlies\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay Text:**\n  - Headline: \"CAREER HIGH\"\n  - Stat: \"PROSPER — 31 PTS\"\n  - Subtext: \"THE FUTURE OF MEMPHIS\"\n- **Design Notes:** Grizzlies navy/gold tones\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Warriors 131, Wizards 126 — Golden State Fights for Play-In",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Warriors 131, Wizards 126.\n\nGolden State barely survived the league's worst team to hold their Play-In spot.\n\nAt 36-36, every game is a must-win.\n\nThe dynasty era feels very far away. #HoopHeroes #NBA #Warriors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#Warriors"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-warriors-131-wizards-126.html",
+        "headline": "Warriors 131, Wizards 126: Golden State Barely Holds Play-In Spot",
+        "word_count": 647
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Warriors 131, Wizards 126\n\n#### Image Concept 4A — Social (1080x1350)\n- **Type:** Player action shot\n- **Imagn Search:** \"Stephen Curry Golden State Warriors\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay Text:**\n  - Headline: \"WARRIORS SURVIVE\"\n  - Score: \"GSW 131 — WAS 126\"\n  - Subtext: \"PLAY-IN SPOT: HOLD\"\n- **Design Notes:** Warriors royal blue and gold\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Bulls Eliminated From Playoff Contention",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "It's over for Chicago.\n\nThe Bulls have been officially ELIMINATED from playoff contention after losing 131-113 to OKC.\n\nThunder now 57-15. The gap between the best and the rest in the West is enormous.\n\n#HoopHeroes #NBA #Bulls",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#Bulls"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nba-playoff-picture-march-28.html",
+        "headline": "NBA Playoff Picture: Knicks Fail to Clinch, Bulls Eliminated, Boston Leads East Race",
+        "word_count": 696
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bulls Eliminated\n\n#### Image Concept 5A — Social (1080x1350)\n- **Type:** Team stadium/bench shot\n- **Imagn Search:** \"Chicago Bulls\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay Text:**\n  - Headline: \"SEASON OVER\"\n  - Subtext: \"BULLS ELIMINATED FROM PLAYOFF CONTENTION\"\n  - Footer: \"OKC DELIVERS THE MATH | 131-113\"\n- **Design Notes:** Somber tone — dark midnight background, white text\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Playoff Picture — Knicks Fail to Clinch, Boston Leads by 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Knicks STILL haven't clinched.\n\nBoston leads NY by 2 games for the No. 2 seed in the East — with 1 head-to-head left.\n\nClinched: Thunder. Spurs. Pistons.\nSweating: Everyone else.\n\n#HoopHeroes #NBA #KnicksNation",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#KnicksNation"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Playoff Picture\n\n#### Image Concept 6A — Social (1080x1350)\n- **Type:** Standings graphic (text-heavy design)\n- **No photo needed** — pure stats/standings layout\n- **Overlay Text:**\n  - Headline: \"EAST PLAYOFF RACE\"\n  - Clinched: \"DET 52-19 ✓ | BOS 47-24 | NYK 47-25\"\n  - Fight: \"TOR 40-31 | ATL 40-32 | PHI 39-33\"\n  - Bubble: \"ORL 38-33 | MIA 38-34\"\n  - Footer: \"2 WEEKS LEFT | #HoopHeroes\"\n- **Design Notes:** Color-coded by status — green for clinched, orange for safe, red for bubble\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "LeBron Out With Ankle Sprain — Lakers' Injury Concern",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "LeBron James is out with an ankle sprain.\n\nLakers at 46-26 have 2 weeks left. They need the King healthy for the playoffs.\n\nLuka held it down with 41 tonight — but this bears watching.\n\n#HoopHeroes #LakeShow #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#LakeShow",
+            "#NBA"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron Injury\n\n#### Image Concept 7A — Social (1080x1350)\n- **Type:** Player photo\n- **Imagn Search:** \"LeBron James Los Angeles Lakers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay Text:**\n  - Headline: \"STATUS WATCH\"\n  - Subtext: \"LEBRON — ANKLE SPRAIN\"\n  - Footer: \"PLAYOFFS BEGIN APRIL 18\"\n- **Design Notes:** Understated — concern/watch tone, not dramatic\n\n---\n\n## Image Production Notes\n\n- Photo source: Imagn (USA TODAY Sports Images) for all player shots\n- All social images: 1080x1350 (4:5 vertical)\n- Article hero images: 1200x630 (1.91:1 landscape)\n- Credit all Imagn images: \"(USA TODAY Sports Images)\""
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

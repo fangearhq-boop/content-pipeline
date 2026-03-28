@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-03-28
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Wembanyama jumps to No. 1 on Kia MVP Ladder (March 27 update), passing SGA. 17 blocks in last 3 games. Spurs 54-18. | 1 | NEW STORY |
+| 2 | Luka 41 pts (6 3PM), Lakers beat Nets. LeBron out with ankle sprain. Doncic averaging 39.5 PPG over last 11 games. Lakers 46-26. | 1 | FOLLOW-UP (3/26 ongoing Luka/Lakers story) |
+| 3 | Rockets 119, Grizzlies 109. KD 25/10. Prosper career-high 31. Houston at 43-28 (No. 6 West). | 2 | FOLLOW-UP (3/26 Story 3 — Rockets race) |
+| 4 | Warriors 131, Wizards 126. Golden State barely holds No. 8 Play-In spot at 36-36. | 2 | NEW STORY |
+| 5 | Bulls officially eliminated from playoff contention after 131-113 loss to OKC. Thunder 57-15. | 2 | NEW STORY |
+| 6 | Knicks fail to clinch; Boston leads NY by 2 games for No. 2 East seed. 1 H2H remaining. Clinched: DET/OKC/SAS. | 2 | FOLLOW-UP (3/26 Story 5 — Playoff picture) |
+| 7 | LeBron James out with ankle sprain vs. Nets. Reaves/Vanderbilt absorbing minutes. Playoffs April 18. | 3 | NEW STORY |
+
+---
+
 ## 2026-03-26
 
 | # | Story | Tier | Tag |

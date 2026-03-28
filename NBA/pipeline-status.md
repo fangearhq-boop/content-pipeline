@@ -1,15 +1,31 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-26
-- **Steps Completed**: 1-10b + 12-15 (Full pipeline minus Facebook/Images — handled by enrichment skill)
-- **Dashboard Published**: Yes (https://fangearhq-boop.github.io/content-dashboards/hh/)
+- **Date**: 2026-03-28
+- **Steps Completed**: 1-10b + 12-14 (Full pipeline minus image production and dashboard push)
+- **Dashboard Published**: Local only (content-dashboards push requires PAT with write access to fangearhq-boop/content-dashboards)
 
 ## Deploy Info
 - **Dashboard:** Unified (fangearhq-boop/content-dashboards, subfolder: hh)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-28
+- **Steps completed:** 1-6 (Research through X Posts), 4 (Facebook Posts), 5 (Image Concepts), 9 (Articles — 5 written), 10 (Fact-Check — pass with advisory warnings), 10b (Compile — pass), 11 (Image Manifest), 12 (Story History updated), 13 (Dashboard generated locally), 14 (PostPlanner exports)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access to that repo)
+- **Stories:** 7 total (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 9 written, all under 280 characters
+- **Articles:** 5 (Stories 1-5; Stories 5+6 combined in article-05)
+- **PostPlanner exports:** hh-postplanner-2026-03-28.xlsx (23 posts) + hh-postplanner-tobi-2026-03-28.xlsx (16 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-03-28/review-dashboard.html
+- **Notes:** MVP race leading story — Wemby jumped to No. 1 on Kia Ladder. Luka 41-pt carry performance with LeBron out on ankle sprain. Warriors barely survived Wizards for Play-In spot. Bulls eliminated. Celtics lead Knicks by 2 for No. 2 East. 10+ web searches across scores, standings, injuries, MVP ladder.
+- **Market balance:** West (Spurs/Wemby, Lakers/Luka, Thunder/SGA, Warriors, Rockets/KD) + East (Knicks, Celtics, Bulls, Pistons)
+- **Fact concerns:** Jokic/Spurs attribution flagged as likely AI summary error — Jokic confirmed Denver per 3/26 story history. Bam Adebayo 83-pt game (March 10) was flagged LOW confidence — not used in content. All published facts are HIGH or MEDIUM confidence.
+
+### 2026-03-26
+- **Steps completed:** 1-10b + 12-15 (Full pipeline minus Facebook/Images — handled by enrichment skill)
+- **Dashboard Published**: Yes (https://fangearhq-boop.github.io/content-dashboards/hh/)
 
 ### 2026-03-24
 - **Steps completed:** 1-6 (Research through X Posts), 5b (Articles — 5 in progress), 7 (Fact-Check — pass), 8a (Compile), 8b (Story History), 8d (Dashboard published), 8e (PostPlanner exports)
