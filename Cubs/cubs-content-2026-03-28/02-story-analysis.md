@@ -19,7 +19,7 @@
 
 - **Freshness:** NEW — first game ever wearing a Cubs uniform
 - **Engagement Hook:** Bregman was the marquee winter acquisition; debut moment resonates with fan base
-- **Best Angle:** Standing ovation from Cubs fans at Nationals Park is the Wrigley culture angle even on the road; 1-for-4 is solid for a debut
+- **Best Angle:** Standing ovation from Cubs fans at Wrigley Field is the Wrigley culture angle even at Wrigley; 1-for-4 is solid for a debut
 - **Tweet Style:** Informative with genuine excitement
 - **Tone:** Warm and optimistic — debut energy
 - **Headline:** "Bregman Is a Cub. It's Official."
@@ -59,14 +59,14 @@
 
 ---
 
-### STORY 6: Game 3 Preview Today — Cade Horton vs. Miles Mikolas
+### STORY 6: Game 2 Preview Today — Cade Horton vs. Miles Mikolas
 
-- **Freshness:** NEW — today's game at Nationals Park
+- **Freshness:** NEW — today's game at Wrigley Field
 - **Engagement Hook:** Cubs' best pitcher against a veteran righty; losing the series opener means urgency
 - **Best Angle:** Horton is the ace; this is his moment to save the opening series
 - **Tweet Style:** Bold/hype before game time; game-time urgency post
 - **Tone:** Confident and urgent — get fans locked in before first pitch
-- **Headline:** "Game 3 — Horton Takes the Ball"
+- **Headline:** "Game 2 — Horton Takes the Ball"
 
 ---
 

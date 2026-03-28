@@ -7,7 +7,7 @@
 
 ## Today's News Landscape
 
-The Cubs opened the 2026 season with a rough 10-4 loss to the Nationals on Thursday in Washington. Matt Boyd was shelled — 3.2 IP, 6 ER — with a 6-run 4th inning blowing the game open. Alex Bregman made his Cubs debut (1-for-4, walk, standing ovation), Pete Crow-Armstrong delivered 2 hits and 2 RBI and got a $115M/6yr extension announced on the same day, and Seiya Suzuki landed on the 10-day IL with a right knee sprain. Justin Steele is on the 60-day IL (UCL revision), joining Porter Hodge and Jordan Wicks in a depleted rotation. Game 3 is today at Nationals Park with Cade Horton on the mound vs. Miles Mikolas.
+The Cubs opened the 2026 season with a rough 10-4 loss to the Nationals on Thursday at Wrigley Field. Matt Boyd was shelled — 3.2 IP, 6 ER — with a 6-run 4th inning blowing the game open. Alex Bregman made his Cubs debut (1-for-4, walk, standing ovation), Pete Crow-Armstrong delivered 2 hits and 2 RBI and got a $115M/6yr extension announced on the same day, and Seiya Suzuki landed on the 10-day IL with a right knee sprain. Justin Steele is on the 60-day IL (UCL revision), joining Porter Hodge and Jordan Wicks in a depleted rotation. Game 2 is today at Wrigley Field with Cade Horton on the mound vs. Miles Mikolas.
 
 ---
 
@@ -33,7 +33,7 @@ The Cubs opened the 2026 season with a rough 10-4 loss to the Nationals on Thurs
 - **Tier:** 2 | **Tag:** NEW STORY | **Pillar:** Injury/Rotation
 - **Posting window:** 3:00 PM CT
 
-### STORY 6: Game 3 Preview Today — Cade Horton vs. Miles Mikolas
+### STORY 6: Game 2 Preview Today — Cade Horton vs. Miles Mikolas
 - **Tier:** 2 | **Tag:** PREVIEW | **Pillar:** Game Preview
 - **Posting window:** 5:30 PM CT
 
@@ -80,5 +80,5 @@ The Cubs opened the 2026 season with a rough 10-4 loss to the Nationals on Thurs
 - **Suzuki:** 10-day IL (right knee sprain, retroactive March 22); Michael Conforto replacing him in RF
 - **Steele:** 60-day IL (UCL revision surgery); targeting late May/early June return
 - **Other ILs:** Porter Hodge (15-day, right flexor tendon strain), Jordan Wicks (15-day, left forearm)
-- **Today's starter:** Cade Horton vs. Miles Mikolas; first pitch at Nationals Park
+- **Today's starter:** Cade Horton vs. Miles Mikolas; first pitch at Wrigley Field (2:20 PM CT)
 - **Series:** Cubs trail 0-2 after losing Games 1 and 2

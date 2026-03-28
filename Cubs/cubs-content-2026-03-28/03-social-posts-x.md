@@ -119,7 +119,7 @@ Char count: 259 ✓
 #### Text Post -- 5:30 PM CT
 
 ```
-Cade Horton takes the mound tonight for Game 3.
+Cade Horton takes the mound tonight for Game 2.
 
 He went 11-4 with a 2.67 ERA as a ROOKIE in 2025. This is the guy the Cubs built around.
 
@@ -135,14 +135,14 @@ Char count: 197 ✓
 ```
 First pitch in minutes.
 
-Cade Horton. Nationals Park. Win or go home on this road trip.
+Cade Horton. Wrigley Field. Chance to even the series at home.
 
 Let's go, Cubs.
 
 #Cubs #GoCubs #FlyTheW
 ```
 
-Char count: 122 ✓
+Char count: 121 ✓
 
 ---
 

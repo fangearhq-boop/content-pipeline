@@ -11,7 +11,7 @@
 3. Web search — "Pete Crow-Armstrong extension 2026 Cubs"
 4. Web search — "Seiya Suzuki IL Cubs 2026 knee sprain"
 5. Web search — "Justin Steele 60-day IL UCL Cubs 2026"
-6. Web search — "Cade Horton Cubs Game 3 Nationals March 28 2026"
+6. Web search — "Cade Horton Cubs Game 2 Nationals March 28 2026"
 7. Web search — "Cubs roster injuries March 2026 Hodge Wicks"
 
 ---
@@ -19,7 +19,7 @@
 ## Story 1: Opening Day Loss — Cubs 4, Nationals 10
 
 - **Date:** Thursday, March 26, 2026
-- **Location:** Nationals Park, Washington D.C.
+- **Location:** Wrigley Field, Chicago
 - **Final:** Nationals 10, Cubs 4
 - **Cubs starter:** Matt Boyd — 3.2 IP, 6 ER (knocked out during 6-run 4th inning)
 - **Key inning:** 6-run 4th by Washington blew the game open
@@ -34,7 +34,7 @@
 - **Date:** March 26, 2026
 - **Performance:** 1-for-4, 1 walk
 - **Context:** Bregman signed with Cubs in offseason; first game in blue pinstripes
-- **Fan reaction:** Standing ovation from Cubs fans at Nationals Park
+- **Fan reaction:** Standing ovation from Cubs fans at Wrigley Field
 - **Confidence:** HIGH
 
 ---
@@ -71,10 +71,10 @@
 
 ---
 
-## Story 6: Game 3 Preview
+## Story 6: Game 2 Preview
 
 - **Date:** Saturday, March 28, 2026
-- **Location:** Nationals Park
+- **Location:** Wrigley Field
 - **Cubs starter:** Cade Horton (2025 NL ROY candidate — 11-4, 2.67 ERA as rookie in 2025)
 - **Nationals starter:** Miles Mikolas (veteran righty, former Cardinals)
 - **Context:** Cubs trail series 0-2; Horton is the Cubs' best starter and their best chance to salvage a game
@@ -109,5 +109,5 @@
 | Steele return target late May/early June | Web search | MEDIUM |
 | Hodge: 15-day IL, right flexor tendon | Web search | HIGH |
 | Wicks: 15-day IL, left forearm | Web search | HIGH |
-| Horton starts Game 3 | Web search | HIGH |
+| Horton starts Game 2 | Web search | HIGH |
 | Mikolas starts for Nationals | Web search | HIGH |
