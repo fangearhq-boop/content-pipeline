@@ -1,8 +1,8 @@
 # Cubs Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-26
-- **Steps Completed**: 1-8 (Full pipeline — research, brief, facts, analysis, X posts, fact-check, compile, dashboard, export)
+- **Date**: 2026-03-28
+- **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, fact-check, compile, dashboard, publish, PostPlanner export (X only, no TOBI — Cubs is X-only niche)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/cubs-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
 - **Issues**: None
@@ -22,6 +22,15 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-28
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 9 (4 informative / 5 bold-humor = ~50/50 mix)
+- Fact-check: 53 claims extracted. 0 char-limit violations. 0 consistency errors.
+- Dashboard: Published, live at https://fangearhq-boop.github.io/cubs-dashboards/
+- PostPlanner: cubs-postplanner-2026-03-28.xlsx (9 posts, X only)
+- Key stories: Nationals 10 Cubs 4 Opening Day Boyd 3.2 IP 6 ER 6-run 4th (P10), Bregman Cubs debut 1-for-4 walk standing ovation (P10), PCA 2 hits 2 RBI + $115M/6yr extension on Opening Day (P8), Suzuki 10-day IL right knee sprain Conforto to RF (P8), Steele 60-day IL UCL revision late May/June return Hodge Wicks also out (P7), Game 3 today Horton vs Mikolas series salvage (P7), Opening Day loss perspective 162-game take (P5)
+- Notes: Full pipeline completed. All scripts ran successfully.
 
 ### 2026-03-24
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)

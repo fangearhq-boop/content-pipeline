@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-03-28
+
+### STORY 1: Cubs Lose Opening Day 10-4 — Boyd Shelled in Washington
+- **Angle:** NEW STORY. Nationals 10 Cubs 4 on March 26. Boyd 3.2 IP 6 ER, knocked out in 6-run 4th inning. PCA 2 hits 2 RBI, Bregman 1-for-4.
+- **Content Produced:** X (2 posts — 7:00 AM and 8:30 PM CT)
+- **Follow-Up:** Game 3 result today with Horton on mound
+
+### STORY 2: Bregman Makes His Cubs Debut — 1-for-4, Walk, Standing Ovation
+- **Angle:** NEW STORY. First game as a Cub. 1-for-4, 1 walk. Standing ovation from Cubs fans at Nationals Park.
+- **Content Produced:** X (1 post — 10:00 AM CT)
+- **Follow-Up:** Bregman's first HR as a Cub, early season stats
+
+### STORY 3: Pete Crow-Armstrong — 2 Hits, 2 RBI + $115M Extension on Opening Day
+- **Angle:** NEW STORY. $115M/6yr extension announced March 26 (Opening Day). PCA went 2-for-4 with 2 RBI same day.
+- **Content Produced:** X (1 post — 11:30 AM CT)
+- **Follow-Up:** PCA performance across first homestand
+
+### STORY 4: Seiya Suzuki to 10-Day IL — Right Knee Sprain, Conforto in RF
+- **Angle:** NEW STORY. 10-day IL, right knee sprain, retroactive March 22. Michael Conforto replacing in RF.
+- **Content Produced:** X (1 post — 1:00 PM CT)
+- **Follow-Up:** Suzuki return timeline, Conforto performance
+
+### STORY 5: Justin Steele to 60-Day IL — UCL Revision, Rotation Depleted
+- **Angle:** NEW STORY. UCL revision surgery, targeting late May/early June return. Also: Porter Hodge (15-day, right flexor tendon), Jordan Wicks (15-day, left forearm).
+- **Content Produced:** X (1 post — 3:00 PM CT)
+- **Follow-Up:** Rotation depth moves, Steele recovery updates
+
+### STORY 6: Game 3 Preview Today — Cade Horton vs. Miles Mikolas
+- **Angle:** PREVIEW. Horton (ace, 11-4 2.67 ERA as 2025 rookie) vs. Mikolas (Nationals veteran). Cubs trail series 0-2.
+- **Content Produced:** X (2 posts — 5:30 PM and 7:00 PM CT)
+- **Follow-Up:** Game 3 result
+
+### STORY 7: Perspective — It's Game 1 of 162, Not the End of the World
+- **Angle:** TAKE. Historical context (2016 OD loss → WS title). 162-game season, one loss.
+- **Content Produced:** X (1 post — 8:30 AM CT)
+- **Follow-Up:** N/A (perspective/humor piece)
+
+---
+
 ## 2026-03-26
 
 ### STORY 1: OPENING DAY — Cubs vs Nationals, 1:20 PM CT at Wrigley

@@ -1,0 +1,282 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-28",
+  "compiled_at": "2026-03-28T10:52:32.657695+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "Informative — Opening Day loss recap"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 7",
+      "type": "Bold take / perspective"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2",
+      "type": "Informative — Bregman debut"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 3",
+      "type": "Bold/Passionate — PCA extension + game"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 4",
+      "type": "Informative — Suzuki IL"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5",
+      "type": "Informative — Steele IL, rotation picture"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 6",
+      "type": "Game preview / hype"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 6",
+      "type": "Game time hype (second post)"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 1",
+      "type": "Witty closer / post-game reaction angle"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs Lose Opening Day 10-4 — Boyd Shelled in Washington",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Opening Day: Nationals 10, Cubs 4.\n\nMatt Boyd: 3.2 innings, 6 earned runs. Six-run fourth inning ended it.\n\nPCA had 2 hits and 2 RBI. Bregman went 1-for-4. Not the start anyone wanted.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 208
+        },
+        {
+          "label": "Post 1",
+          "text": "Two games into 2026 and Cubs Twitter is already in full panic mode.\n\nThis is fine. Totally fine.\n\n(Cade Horton is on the mound. It's fine.)\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 163
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Bregman Makes His Cubs Debut — 1-for-4, Walk, Standing Ovation",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Alex Bregman is officially a Chicago Cub.\n\n1-for-4 with a walk in his debut. Standing ovation from the Cubs fans in the building.\n\nIt begins.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "10:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 170
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Pete Crow-Armstrong — 2 Hits, 2 RBI + $115M Extension on Opening Day",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong signed a $115 million extension AND went 2-for-4 with 2 RBI on Opening Day.\n\n23 years old. $115M. The future of this franchise just locked himself in.\n\nYeah, we're going to be okay.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "11:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Seiya Suzuki to 10-Day IL — Right Knee Sprain, Conforto in RF",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Seiya Suzuki is on the 10-day IL — right knee sprain, retroactive to March 22.\n\nMichael Conforto slides into RF while he's out.\n\nCubs are already playing the injury shuffle and it's game 3.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "1:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Justin Steele to 60-Day IL — UCL Revision, Rotation Depleted",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Cubs' rotation situation heading into 2026:\n\nJustin Steele — 60-day IL (UCL revision)\nPorter Hodge — 15-day IL (right flexor tendon)\nJordan Wicks — 15-day IL (left forearm)\n\nCade Horton is carrying this staff. No pressure, kid.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Game 3 Preview Today — Cade Horton vs. Miles Mikolas",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6-1",
+          "text": "Cade Horton takes the mound tonight for Game 3.\n\nHe went 11-4 with a 2.67 ERA as a ROOKIE in 2025. This is the guy the Cubs built around.\n\nMiles Mikolas better be ready. 🔥\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 195
+        },
+        {
+          "label": "Post 6-2",
+          "text": "First pitch in minutes.\n\nCade Horton. Nationals Park. Win or go home on this road trip.\n\nLet's go, Cubs.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 128
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Perspective — It's Game 1 of 162, Not the End of the World",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Relax. It's game 1 of 162.\n\nThe 2016 Cubs lost on Opening Day too. You know how that ended.\n\nMatt Boyd will not be starting Game 7 of the World Series.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
