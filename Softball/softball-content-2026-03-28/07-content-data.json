@@ -1,0 +1,370 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-28",
+  "compiled_at": "2026-03-28T10:41:33.200711+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Texas 9, A&M 8 — Win Streak to 28, Game 2 Today at 1 PM CT",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "No. 1 Texas survived a wild one Friday — 9-8 over Texas A&M.\n\nWin streak: 28 games. New program record for the Longhorns.\n\nGame 2 is TODAY at 1 PM CT on ESPN2. The Aggies are not going quietly. 🥎\n\n#HookEm #NCAASoftball #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Texas wins ugly 9-8 — and that might prove more than the blowouts do.\n\nAny team can win when everything clicks. No. 1 Texas finds a way when it doesn't.\n\n28 and counting. 🔥\n\n#HookEm #NCAASoftball #SECSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#NCAASoftball",
+            "#SECSoftball"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nNo. 1 Texas just made their fans sweat a little — and the win streak is still alive.\n\nThe Longhorns survived a wild 9-8 battle against Texas A&M on Friday, extending their program-record winning streak to 28 consecutive games. Texas is now 29-1 on the season. This isn't a blowout machine anymore — this is a team that finds a way to win even when things get messy, which might actually be the most reassuring thing Texas fans could see.\n\nLet's be clear: Texas A&M is a real team. They pushed the No. 1 program in the country to the final out. But the Longhorns have Teagan Kavan (13-0) in the circle when they need her most, a lineup loaded with power (Reese Atwood at 11 HRs, Katie Stewart at 15), and a mentality that simply doesn't wilt.\n\nGame 2 is today at 1 PM CT on ESPN2 in Austin. This series is very much alive.\n\nCan the Aggies pull off the upset and snap the streak — or does Texas make it 29 in a row this afternoon?\n```",
+        "image_caption": "#### Image Caption -- 9:00 AM ET\n\n```\nTexas survives 9-8 — win streak hits 28 games and counting! Game 2 today at 1 PM CT on ESPN2. 🥎\n```",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-texas-survives-agm-win-streak-28.html",
+        "headline": "Texas Survives A&M Scare, Win Streak Reaches 28 — Game 2 Today",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas 9, A&M 8 — Win Streak to 28, Game 2 Today\n\n**Social Image (1080×1350)**\n- Visual Description: Texas Longhorns batter or catcher in action at the plate, high-energy game moment\n- Photo Search Terms:\n  1. Reese Atwood Texas\n  2. Katie Stewart Texas\n  3. Teagan Kavan Texas\n  4. Texas Longhorns softball\n- Text Overlay Copy:\n  - Headline: \"WIN STREAK: 28\"\n  - Subtitle: \"No. 1 Texas Survives A&M — Game 2 Today\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #F4C542 (soft gold)\n- Composition Notes: Batter mid-swing or catcher framing pitch. Dark overlay bar on bottom third. Bold number \"28\" should visually dominate.\n\n**Article Hero (1200×630)**\n- Photo Search Terms: Teagan Kavan Texas\n- Text: \"Texas Win Streak Hits 28: Can A&M End It Today?\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Arkansas 6, Florida 2 — Razorbacks Stun No. 3 Gators in Game 1",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "UPSET ALERT 🚨\n\nNo. 9 Arkansas beat No. 3 Florida 6-2 in Game 1 at Bogle Park.\n\nRobyn Herron: 5 IP, 3 H, 8 K. Florida had a season-low 3 hits.\n\nFlorida must win BOTH Games 2 and 3.\n\n#WPS #GoGators #NCAASoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WPS",
+            "#GoGators",
+            "#NCAASoftball"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Reagan Johnson broke the Arkansas career hits record with an RBI single Friday.\n\nHistory made — against No. 3 Florida, in the same inning that put the game away. 👀\n\n#WPS #NCAASoftball #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WPS",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThe biggest upset of the weekend just happened in Fayetteville.\n\nNo. 9 Arkansas beat No. 3 Florida 6-2 on Friday night at Bogle Park, and it wasn't close. Razorbacks pitcher Robyn Herron was untouchable — five innings, three hits, eight strikeouts. Florida managed just three hits all game, a season low. Ace Keagan Rothrock (who entered at 17-2) was knocked out in a four-run Arkansas fifth inning.\n\nAnd then there was Reagan Johnson. In that same fifth inning, the Arkansas centerfielder broke the school's all-time career hits record with an RBI single. History made, in a win over a top-3 opponent.\n\nArkansas now leads the series 1-0. Florida must win both Games 2 and 3 to take the series — and after a three-hit performance from Rothrock, Gators fans have real questions about this team's ability to hit top-tier pitching.\n\nDoes this change how you see Florida as a WCWS contender?\n```",
+        "image_caption": "#### Image Caption -- 11:00 AM ET\n\n```\nArkansas stuns No. 3 Florida, 6-2. Herron dominates, Reagan Johnson breaks the career hits record. Razorbacks lead the series 1-0.\n```",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-arkansas-upsets-florida-herron-johnson-record.html",
+        "headline": "Arkansas Stuns No. 3 Florida 6-2 — Herron Deals, Reagan Johnson Breaks Career Hits Record",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Arkansas 6, Florida 2 — Upset\n\n**Social Image (1080×1350)**\n- Visual Description: Arkansas pitcher mid-delivery, arm extended, powerful delivery\n- Photo Search Terms:\n  1. Robyn Herron Arkansas\n  2. Reagan Johnson Arkansas\n  3. Arkansas Razorbacks softball\n  4. Florida Gators softball\n- Text Overlay Copy:\n  - Headline: \"UPSET ALERT\"\n  - Subtitle: \"No. 9 Arkansas Stuns No. 3 Florida, 6-2\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #FF6F61 (warm coral — upset/alert energy)\n- Composition Notes: Pitcher in full wind-up or release. Dynamic, powerful framing. Coral subtitle emphasizes the upset urgency.\n\n**Article Hero (1200×630)**\n- Photo Search Terms: Robyn Herron Arkansas\n- Text: \"Arkansas Shocks No. 3 Florida: Herron Deals, Johnson Makes History\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Kendall Wells HR Watch — 25 HRs, 5 From Freshman Record",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kendall Wells: 25 HR this season — leads the nation.\n\nThe NCAA freshman record is 30. She has 23+ games left.\n\nRecord holders: Jocelyn Alo, Lauren Chamberlain, Kelly Majam.\n\nWells is coming for it. 🔥\n\n#BoomerSooner #NCAASoftball #Softball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#NCAASoftball",
+            "#Softball"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nKendall Wells is chasing softball history — and she's getting close.\n\nThe Oklahoma freshman catcher now has 25 home runs on the season, the most by any player in college softball. She sits just five home runs away from the NCAA freshman HR record of 30, a mark shared by three legends: Jocelyn Alo (OU, 2018), Lauren Chamberlain (OU, 2012), and Kelly Majam (Hawaii, 2010).\n\nOn Friday in Baton Rouge against No. 20 LSU, Wells didn't add to the HR total — but she still delivered a clutch 2-run single in the 7th inning to tie the game against LSU. She's the kind of player who impacts the game even when the home run isn't falling.\n\nWith 23-plus games remaining on the schedule, Wells has every opportunity to break that record. Oklahoma has also already broken the SEC's single-season team home run record — and is averaging nearly four team HRs per game.\n\nWhat's your prediction — when does Wells hit No. 26?\n```",
+        "image_caption": "#### Image Caption -- 1:00 PM ET\n\n```\n25 HR. 5 from history. Kendall Wells is coming for the freshman record. 🥎\n```",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-kendall-wells-25-hr-freshman-record-watch.html",
+        "headline": "Kendall Wells Is 5 Home Runs From the Freshman Record — And She's Not Slowing Down",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells HR Watch\n\n**Social Image (1080×1350)**\n- Visual Description: Kendall Wells completing a home run swing or rounding the bases\n- Photo Search Terms:\n  1. Kendall Wells Oklahoma\n  2. Oklahoma Sooners softball\n  3. Oklahoma softball catcher\n- Text Overlay Copy:\n  - Headline: \"25 HR\"\n  - Subtitle: \"5 Away From the Freshman Record\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #F4C542 (soft gold)\n- Composition Notes: Full follow-through swing or celebratory moment. Number \"25\" large and bold on overlay.\n\n**Article Hero (1200×630)**\n- Photo Search Terms: Kendall Wells Oklahoma\n- Text: \"Kendall Wells Is 5 HR From Softball History\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Oklahoma 3, LSU 2 (8 inn.) — Sooners Stay Perfect in SEC",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Oklahoma goes to extras in Baton Rouge — gets out alive, 3-2 over No. 20 LSU in 8 innings.\n\nMiali Guachino: now 9-0.\n\nOklahoma in SEC play: 7-0. First year in the conference. 🥎\n\n#BoomerSooner #SECSoftball #NCAASoftball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#SECSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nOklahoma is doing something no one expected — and they're making it look easy.\n\nThe Sooners won 3-2 in eight innings at No. 20 LSU on Friday, improving to 33-2 overall and 7-0 in SEC play. That's the best conference record in the league. In their first year as an SEC member.\n\nLSU had the lead going into the seventh inning, and a raucous crowd at Tiger Park was starting to sense an upset. Then Kendall Wells stepped up with a 2-run single to tie the game. LSU tied it back up in the bottom of the seventh. And then in the eighth, Gabbie Garcia delivered the go-ahead RBI to put the Sooners ahead for good.\n\nMiali Guachino got the win, improving to 9-0 on the season. Game 2 is today at 11 AM CT on SEC Network.\n\nOklahoma is 7-0 in SEC play in their first year in the conference. Is this the most dominant conference debut in recent softball history?\n```",
+        "image_caption": "#### Image Caption -- 3:00 PM ET\n\n```\nOklahoma wins in extras — 3-2 over LSU. The Sooners are 7-0 in SEC play in their first year in the conference.\n```",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-oklahoma-extras-lsu-sec-record-7-0.html",
+        "headline": "Oklahoma Wins in Extras at LSU — 7-0 in SEC, Best Record in the Conference",
+        "word_count": 526
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma 3, LSU 2 (Extras)\n\n**Social Image (1080×1350)**\n- Visual Description: Oklahoma player celebrating, dugout eruption, or walk-off moment\n- Photo Search Terms:\n  1. Gabbie Garcia Oklahoma\n  2. Miali Guachino Oklahoma\n  3. Oklahoma Sooners softball\n  4. LSU softball\n- Text Overlay Copy:\n  - Headline: \"7-0 IN THE SEC\"\n  - Subtitle: \"OU Wins in Extras — Sooners Still Perfect\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #F4C542 (soft gold)\n- Composition Notes: Celebration or dugout energy preferred. The \"7-0\" stat should feel dominant.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "NFCA Week 7 Rankings — Texas Holds No. 1, Full Top 10",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NFCA Week 7 Top 10:\n\nNo. 1 Texas | No. 2 TTU | No. 3 Florida\nNo. 5 Oklahoma | No. 6 Alabama | No. 7 UCLA\nNo. 8 FSU | No. 9 Nebraska | No. 10 Arkansas\n\nDuke and Washington both back in the Top 25. 👀\n\n#NCAASoftball #CollegeSoftball #SECSoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#CollegeSoftball",
+            "#SECSoftball"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThe Week 7 NFCA rankings are here, and the top of college softball looks exactly like you'd expect.\n\nTexas holds the No. 1 spot, with Texas Tech at No. 2 and Florida at No. 3. Oklahoma checks in at No. 5, Alabama at No. 6, UCLA at No. 7, Florida State at No. 8, Nebraska at No. 9, and Arkansas at No. 10.\n\nTwo programs made their return this week: Duke is back at No. 24 after a two-week absence, and Washington re-entered at No. 25 — their first ranking since February 11 of last year.\n\nThe team that dropped out? Grand Canyon, which had been one of the feel-good stories of the season with an unbeaten start. Their first loss ended their Top 25 stay.\n\nWhich team do you see winning it all in Oklahoma City this June?\n```",
+        "image_caption": "#### Image Caption -- 5:30 PM ET\n\n```\nNFCA Week 7 is out. Texas still No. 1. Duke and Washington are back in. Who's winning the WCWS?\n```",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nfca-week-7-rankings-texas-no1.html",
+        "headline": "NFCA Week 7 Rankings: Texas Holds No. 1, Duke and Washington Return to Top 25",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NFCA Rankings\n\n**Social Image (1080×1350)**\n- Visual Description: Generic softball action — batter, fielder, or crowd scene. Could use a Texas player since they're No. 1.\n- Photo Search Terms:\n  1. Texas Longhorns softball\n  2. Texas Tech softball\n  3. softball rankings celebration\n- Text Overlay Copy:\n  - Headline: \"WEEK 7 TOP 10\"\n  - Subtitle: \"Texas No. 1 · TTU No. 2 · Florida No. 3\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #F4C542 (soft gold)\n- Composition Notes: Clean, bold graphic. Rankings list format works well here.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Alabama Combined Perfect Game — 11th in Program History",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Alabama threw a COMBINED perfect game Wednesday.\n\nBriski. Johnson. Hodges.\n\nThree pitchers. Zero baserunners. The 11th perfect game in Bama program history. 🔥\n\n#RollTide #CollegeSoftball #Softball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#CollegeSoftball",
+            "#Softball"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nAlabama just threw their 11th perfect game in program history — and they did it with three different pitchers.\n\nOn Wednesday, Jocelyn Briski, Alea Johnson, and Braya Hodges combined to retire every single North Alabama batter they faced. No hits. No walks. No baserunners.\n\nThere's something especially impressive about a combined perfect game. You're not just asking one pitcher to be flawless — you're asking every pitcher who enters to be flawless. That's a testament to the entire pitching staff, their conditioning, and the defense behind them.\n\nAlabama sits at 29-2 and is one of the most complete programs in the country. Eleven perfect games. Let that sink in.\n```",
+        "image_caption": "#### Image Caption -- 8:00 PM ET\n\n```\n11th perfect game in program history. Alabama's pitching staff is something special. 🔥\n```",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Perfect Game\n\n**Social Image (1080×1350)**\n- Visual Description: Alabama pitcher in the circle — Briski mid-delivery\n- Photo Search Terms:\n  1. Jocelyn Briski Alabama\n  2. Alea Johnson Alabama\n  3. Alabama Crimson Tide softball\n- Text Overlay Copy:\n  - Headline: \"PERFECT GAME\"\n  - Subtitle: \"Alabama's 11th in Program History\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #F4C542 (soft gold)\n- Composition Notes: Pitcher extension or release moment. Clean, classic. \"Perfect Game\" needs to feel momentous.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Oklahoma State Loses Melina Wilkison for Season (Injury)",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Tough news for Oklahoma State.\n\nMelina Wilkison — .326 avg, 7 HR, 22 SB — is out for the rest of 2026.\n\nOne of the most complete players in the Big 12, gone for the year.\n\nHeal up, Melina. 🥎\n\n#GoPokes #NCAASoftball #CollegeSoftball",
+          "posting_time": "8:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoPokes",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nOklahoma State received difficult news Friday: outfielder Melina Wilkison is done for the 2026 season.\n\nWilkison, a transfer from Indiana, had been one of the Pokes' most dynamic contributors — batting .326 with 7 home runs and 22 stolen bases. That combination of power and speed is exceptionally rare. Losing her is a genuine blow to Oklahoma State's Big 12 title aspirations.\n\nThe announcement came on March 27. No specific injury timetable has been confirmed.\n\nHeal up, Melina. Get back to full strength, and come back stronger next year.\n```",
+        "image_caption": "#### Image Caption -- 8:30 PM ET\n\n```\nTough news: Oklahoma State's Melina Wilkison (.326, 7 HR, 22 SB) is out for the season. Wishing her a full recovery.\n```",
+        "posting_time": "8:30 PM ET"
+      },
+      "article": {
+        "filename": "article-07-oklahoma-state-wilkison-season-ending-injury.html",
+        "headline": "Oklahoma State Loses Melina Wilkison to Season-Ending Injury",
+        "word_count": 345
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma State Wilkison Injury\n\n**Social Image (1080×1350)**\n- Visual Description: Melina Wilkison in game action — fielding or batting\n- Photo Search Terms:\n  1. Melina Wilkison Oklahoma State\n  2. Oklahoma State Cowgirls softball\n- Text Overlay Copy:\n  - Headline: \"SEASON-ENDING INJURY\"\n  - Subtitle: \"Melina Wilkison Out for 2026\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #FF6F61 (warm coral — injury/difficult news)\n- Composition Notes: Respectful, not alarmist. Clean framing, lower energy than celebration graphics."
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 7,
+    "articles_count": 6,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

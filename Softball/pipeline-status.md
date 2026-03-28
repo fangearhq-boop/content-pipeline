@@ -1,11 +1,11 @@
 # Softball Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-26
-- **Steps Completed**: 1-8 (Full pipeline — research, brief, facts, analysis, X posts, articles, fact-check, traffic, compile, dashboard, export)
+- **Date**: 2026-03-28
+- **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
-- **Issues**: None. Dashboard generator now escapes `</` in JSON to fix script parsing bug from yesterday.
+- **Issues**: None. Format correction required on X posts and FB posts files to use canonical format (code blocks + `#### Text Post -- TIME` headers) for postplanner export compatibility.
 
 ## Deploy Info
 - **Repo**: `fangearhq-boop/ilovesoftball-dashboards`
@@ -23,6 +23,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-28
+- Stories: 7 (2 Tier 1, 3 Tier 2, 1 Tier 3, 1 Tier 2 injury)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 6
+- Fact-check: 0 char-limit violations. 0 consistency errors.
+- Traffic: 1,899 softball pv (7d) [loaded from fanrumor-traffic.json]
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-03-28.xlsx (23 posts), ils-postplanner-tobi-2026-03-28.xlsx (16 TOBI posts)
+- Key stories: Texas 9, A&M 8 win streak 28 games (P10), Arkansas upsets No. 3 Florida 6-2 Herron 8K Reagan Johnson career hits record (P10), Wells 25 HR 5 from freshman record (P8), OU 3 LSU 2 extras 7-0 SEC (P7), NFCA Week 7 Texas No. 1 (P6), Alabama combined perfect game 11th in history (P5), Wilkison OSU out for season (P5)
+- Notes: Full pipeline completed. All scripts ran successfully. Postplanner export requires canonical format (code blocks + `#### Text Post -- TIME` headers).
 
 ### 2026-03-24
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)

@@ -3,6 +3,44 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## March 28, 2026
+
+### Story 1: Texas 9, Texas A&M 8 — Win Streak to 28, Game 2 Today
+- **Angle:** FOLLOW-UP (from March 26 — Texas win streak). Beat A&M 9-8 in Game 1 of SEC series. Win streak to 28 (new program record). Game 2 today 1 PM CT on ESPN2.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+
+### Story 2: Arkansas 6, Florida 2 — Razorbacks Stun No. 3 Gators
+- **Angle:** NEW STORY. Herron 5 IP, 3H, 8K. Reagan Johnson broke Arkansas career hits record (RBI single, 5th inn.). Florida season-low 3 hits. Rothrock KO'd in 4-run 5th.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** Games 2 and 3 (March 28-29), Florida's WCWS viability
+
+### Story 3: Kendall Wells HR Watch — 25 HRs, 5 From Freshman Record
+- **Angle:** FOLLOW-UP (from March 26 — Wells at 25). Still at 25 (2-run single not HR vs. LSU). 5 from freshman record of 30 (Alo/Chamberlain/Majam). 23+ games remaining.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** OU-LSU Game 2, next HR milestone, freshman record date
+
+### Story 4: Oklahoma 3, LSU 2 (8 inn.) — Sooners Stay Perfect in SEC
+- **Angle:** FOLLOW-UP (from March 26 — OU SEC standings). Won in extras at Tiger Park. Guachino 9-0. OU 7-0 SEC, 33-2 overall. Best conference record.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Game 2 today at LSU (11 AM CT, SEC Network), OU's path to WCWS
+
+### Story 5: NFCA Week 7 Rankings — Texas Holds No. 1
+- **Angle:** FOLLOW-UP (from March 25 — NFCA poll). Texas No. 1 (28-1 at poll time). TTU No. 2, Florida No. 3, OU No. 5, Bama No. 6. Duke + Washington returned to Top 25. GCU dropped.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Week 8 poll after this weekend's series results
+
+### Story 6: Alabama Combined Perfect Game — 11th in Program History
+- **Angle:** NEW STORY. March 25 vs. North Alabama. Briski/Johnson/Hodges combined. 11th in Bama program history.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Briski's season stats, Alabama's pitching depth into tournament
+
+### Story 7: Oklahoma State Loses Melina Wilkison for Season
+- **Angle:** NEW STORY. Transfer from Indiana. .326 avg, 7 HR, 22 SB. Out for remainder of 2026 (announced March 27).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** OSU roster adjustments, Big 12 conference standings impact
+
+---
+
 ## March 26, 2026
 
 ### Story 1: #1 Texas 3, Texas State 2 — Streak to 27
