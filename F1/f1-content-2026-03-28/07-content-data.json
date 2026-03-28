@@ -1,0 +1,359 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-28",
+  "compiled_at": "2026-03-28T11:37:32.982083+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM ET",
+      "description": "X + Facebook",
+      "type": "Qualifying Day Preview"
+    },
+    {
+      "time": "10:00 AM ET",
+      "description": "X + Facebook",
+      "type": "Championship analysis"
+    },
+    {
+      "time": "12:00 PM ET",
+      "description": "X + Facebook",
+      "type": "Team comeback stories"
+    },
+    {
+      "time": "2:00 PM ET",
+      "description": "X + Facebook",
+      "type": "Driver milestones"
+    },
+    {
+      "time": "5:00 PM ET",
+      "description": "X",
+      "type": "Unusual stat"
+    },
+    {
+      "time": "8:00 PM ET",
+      "description": "X + Facebook",
+      "type": "Evening qualifier recap"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Japanese GP Qualifying Day — Suzuka Title Showdown",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "QUALIFYING DAY. SUZUKA.\n\nThe cathedral of F1. Where the Esses and 130R separate the legends from the rest.\n\nMercedes led every practice session — but one lap in Q3 changes everything.\n\nWho takes pole? 👇\n\n#F1Fanrecap #JapaneseGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#JapaneseGP",
+            "#F1"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Suzuka qualifying is done.\n\nLast race before a 5-week break. Grid positions locked.\n\nWhatever the championship looks like after Sunday's race stands until Miami on May 3.\n\nNo pressure. 🏎️\n\n#F1Fanrecap #JapaneseGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#JapaneseGP",
+            "#F1"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-japanese-gp-qualifying-suzuka-preview.html",
+        "headline": "2026 Japanese GP Qualifying: What to Expect at Suzuka",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Japanese GP Qualifying Day\n\n#### Image 1A — Social (1080x1350)\n- **Imagn Search:** \"Formula One racing Suzuka circuit\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"QUALIFYING DAY | SUZUKA | ROUND 3 | 2026 JAPANESE GP\"\n- **Design Notes:** Racing Red (#E10600) headline, Championship Gold for circuit name\n\n#### Image 1B — Social (1080x1350)\n- **Imagn Search:** \"George Russell Mercedes Formula One\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"POLE POSITION HUNT | RUSSELL vs. ANTONELLI vs. THE FIELD\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Russell vs. Antonelli — Championship Battle Enters Suzuka",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Russell: 51 pts.\nAntonelli: 47 pts.\nGap: 4 POINTS.\n\nTwo Mercedes teammates at the top of the F1 championship — the closest intra-team battle since Hamilton vs Rosberg 2016.\n\nWho comes out of Japan ahead?\n\n#F1Fanrecap #F1 #JapaneseGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#JapaneseGP"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Let me be clear about what's happening in F1 right now.\n\nA 19-year-old rookie is 4 points behind his team leader in the championship.\n\nAfter 2 races.\n\nWith a win.\n\nKimi Antonelli is not here to play.\n\n#F1Fanrecap #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-russell-antonelli-championship-battle.html",
+        "headline": "Russell vs. Antonelli: The 2026 F1 Championship Battle No One Saw Coming",
+        "word_count": 488
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell vs. Antonelli Championship Battle\n\n#### Image 2A — Social (1080x1350)\n- **Imagn Search:** \"George Russell Mercedes Formula One\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"CHAMPIONSHIP LEADER | RUSSELL 51 PTS | ANTONELLI 47 PTS\"\n\n#### Image 2B — Social (1080x1350)\n- **Imagn Search:** \"Kimi Antonelli Mercedes Formula One\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"4 POINTS. 2 RACES. 1 BATTLE. | THE 2026 F1 TITLE RACE\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "McLaren's Comeback Mission — Norris Needs Points at Suzuka",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Reigning F1 champion. 15 points. P6 in the standings.\n\nLando Norris arrives at Suzuka needing to prove McLaren is fixed after the China double DNS disaster.\n\n\"Best car on the grid.\" Time to prove it.\n\n#F1Fanrecap #F1 #Norris",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Norris"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-norris-mclaren-comeback-suzuka.html",
+        "headline": "Norris and McLaren's Suzuka Comeback: Can the Reigning Champion Rescue His Season?",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McLaren Comeback / Norris\n\n#### Image 3A — Social (1080x1350)\n- **Imagn Search:** \"Lando Norris McLaren Formula One\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"REIGNING CHAMPION | 15 PTS | P6 | TIME TO PROVE IT\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen's Red Bull Crisis — Can They Break Through in Japan?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Red Bull is FOURTH in the constructors' championship.\n\nBehind Haas.\n\nMax Verstappen — 4-time world champion — has 0 wins and 1 DNF in 2026.\n\nSuzuka was built for high downforce cars. Can Red Bull finally deliver?\n\n#F1Fanrecap #F1 #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-verstappen-red-bull-crisis-suzuka.html",
+        "headline": "Verstappen and Red Bull's 2026 Crisis: Suzuka as the First Real Test",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen/Red Bull Crisis\n\n#### Image 4A — Social (1080x1350)\n- **Imagn Search:** \"Max Verstappen Red Bull Formula One\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"RED BULL CRISIS | P4 CONSTRUCTORS | BEHIND HAAS\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Hamilton's First Race at Suzuka as a Ferrari Driver",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Lewis Hamilton is about to race at Suzuka in a Ferrari.\n\nHe's raced at this circuit 19 times. Never in red.\n\nAfter his first Ferrari podium in China, the next chapter of one of motorsport's greatest stories continues.\n\n#F1Fanrecap #F1 #Hamilton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Hamilton"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-hamilton-ferrari-first-suzuka.html",
+        "headline": "Hamilton at Suzuka in Ferrari Red: A Historic First for a Legend",
+        "word_count": 594
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton at Suzuka in Ferrari Red\n\n#### Image 5A — Social (1080x1350)\n- **Imagn Search:** \"Lewis Hamilton Ferrari Formula One\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"HAMILTON. FERRARI. SUZUKA. | A FIRST IN 19 RACES\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Bahrain & Saudi Cancelled — Miami is the Next Race After Japan",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Bahrain. Saudi Arabia. Both cancelled.\n\nJapan is the LAST RACE until Miami on May 3.\n\n5 weeks of development. 5 weeks of momentum. 5 weeks where Sunday's result hangs in the air.\n\nThe Japanese GP just got even more important.\n\n#F1Fanrecap #JapaneseGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#JapaneseGP",
+            "#F1"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schedule — Japan Last Race Until Miami\n\n#### Image 6A — Social (1080x1350)\n- **Imagn Search:** \"Formula One racing circuit aerial\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"LAST RACE UNTIL MIAMI | JAPAN → MAY 3 | 5 WEEKS\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Bearman Outscoring Norris — The Grid Is Upside Down",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Oliver Bearman (Haas): 17 pts.\nLando Norris (McLaren): 15 pts.\n\nThe reigning F1 champion is being outscored by a midfield team driver.\n\nThis is what a regulation reset looks like.\n\n#F1Fanrecap #F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bearman Outscoring Norris\n\n#### Image 7A — Social (1080x1350)\n- **Imagn Search:** \"Oliver Bearman Haas Formula One\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay:** \"BEARMAN 17 PTS > NORRIS 15 PTS | THE 2026 RESET IS REAL\""
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

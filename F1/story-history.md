@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-03-28
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Japanese GP qualifying day — Suzuka Round 3. Mercedes dominated practice (Antonelli led FP3). Race Sunday March 29, 6 AM GMT. | 1 | FOLLOW-UP (3/26 Story 1 — Japan preview) |
+| 2 | Championship standings entering Japan: Russell 51 pts, Antonelli 47 pts (-4), Leclerc 34 pts, Hamilton 33 pts. Mercedes 98 pts constructors. | 1 | FOLLOW-UP (3/26 Story 2 — Standings) |
+| 3 | Norris (15 pts, P6) needs Suzuka to prove McLaren fixed after China double DNS. 36 pts behind Russell. | 2 | FOLLOW-UP (3/26 Story 3, 3/20 Story 4) |
+| 4 | Verstappen/Red Bull crisis — 0 wins, P4 constructors behind Haas. Suzuka high-downforce circuit is their best test yet. | 2 | FOLLOW-UP (3/20 Story 3) |
+| 5 | Hamilton racing Suzuka in Ferrari red for the first time (19 previous Japanese GPs at McLaren/Mercedes). | 2 | NEW STORY |
+| 6 | Bahrain + Saudi cancelled — Miami (May 3) is next race after Japan. 5-week gap ahead. | 2 | FOLLOW-UP (3/26 Story 7) |
+| 7 | Bearman (Haas, 17 pts) outscoring Norris (McLaren, 15 pts) — regulation reset continues. | 3 | FOLLOW-UP (3/26 Story 6) |
+
+---
+
 ## 2026-03-26
 
 | # | Story | Tier | Tag |
