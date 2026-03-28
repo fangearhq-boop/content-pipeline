@@ -1,0 +1,360 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-28",
+  "compiled_at": "2026-03-28T11:07:04.855939+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 6",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 7",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Paul Skenes' Opening Day Disaster — 0.2 IP, 5 ER, Shortest OD Start by a Cy Young Winner",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Paul Skenes on Opening Day:\n\n0.2 innings. 5 earned runs. 37 pitches.\n\nMets 11, Pirates 7. The reigning Cy Young winner lasted 2 outs. That's never happened before on Opening Day by a Cy Young winner. 🤯\n\n#BallparkBanter #MLB #Pirates",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Pirates"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 1-2",
+          "text": "To be fair to Skenes: O'Neil Cruz misread a Brett Baty line drive (bases-clearing triple), then lost a fly ball in the sun.\n\nHe wasn't great. His defense made it worse.\n\nStill — 0.2 IP is 0.2 IP.\n\n#BallparkBanter #MLB #Pirates",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Pirates"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nPaul Skenes is the best pitcher in baseball. And on Opening Day, he lasted two outs.\n\nThe reigning NL Cy Young Award winner recorded 0.2 innings against the Mets on Thursday — giving up 4 hits, 5 earned runs, and throwing 37 pitches before manager Don Kelly pulled him to prevent the pitch count from climbing further into the 30s. The Mets won 11-7. It was the shortest Opening Day start ever by a reigning Cy Young winner in MLB history.\n\nTo be fair to Skenes: the defense didn't do him any favors. O'Neil Cruz misread a Brett Baty line drive, allowing a bases-clearing triple that scored three runs at once. Cruz then lost a Marcus Semien fly ball in the sun — sunglasses nowhere in sight. Skenes himself walked two and struck out one, but the damage was magnified by plays that should have been made.\n\nThat context matters. One bad outing — especially one with this much defensive help involved — is not an indictment of a pitcher who entered the season with a 1.96 career ERA and a Cy Young Award. The Pirates still have a talent problem on defense, though, and that's something they'll need to address.\n\nHow worried are you about the Pirates after that Opening Day?\n```",
+        "image_caption": "#### Image Caption -- 8:00 AM ET\n\n```\nThe reigning Cy Young winner lasted 2 outs on Opening Day. Mets 11, Pirates 7. That's one for the record books. 😬\n```",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-paul-skenes-opening-day-disaster.html",
+        "headline": "Paul Skenes Lasted Two Outs on Opening Day — A Historic Disaster in Pittsburgh",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Paul Skenes' Opening Day Disaster\n\n**Imagn Search:** `Paul Skenes Pittsburgh Pirates`\n\n**X Image:**\n- **Headline:** \"CY YOUNG WINNER\"\n- **Subtitle:** \"0.2 IP | 5 ER | 37 Pitches | OD\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #FF3B30\n- **Background:** Dark navy\n\n**Facebook Image:**\n- **Headline:** \"0.2 INNINGS\"\n- **Subtitle:** \"The reigning Cy Young lasted 2 outs — Mets 11, Pirates 7\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #FFD700\n- **Background:** Pirates black\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "ABS Challenge Makes History — Caballero First Ever, Alvarez First Successful",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Two days. Two pieces of ABS history.\n\nMarch 25: Jose Caballero (NYY) — first challenge ever in MLB. Unsuccessful.\n\nMarch 26: Francisco Alvarez (NYM) — first SUCCESSFUL challenge. Called a K.\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nIn the span of two days, the Automated Ball-Strike challenge system made its regular-season debut — twice.\n\nOn Tuesday night at Oracle Park, Yankees shortstop Jose Caballero stepped in against Logan Webb and challenged a first-pitch strike call. The pitch — a 90.7 mph sinker — was confirmed to be in the strike zone. Call upheld. Challenge unsuccessful. Caballero walked back to the box knowing he'd just become the first player in MLB history to use the system in a real game.\n\nThe next day, in the Mets' 11-7 win over the Pirates, Mets catcher Francisco Alvarez did him one better. Alvarez challenged a ball call on a Freddy Peralta pitch, and the review overturned the call — making it a strikeout of Oneil Cruz. First challenge in MLB history. First SUCCESSFUL challenge in MLB history. All in 24 hours.\n\nThe ABS challenge system — which allows players to challenge ball and strike calls once per at-bat — has been in the minor leagues for several years. This week, it made its big league debut with exactly the dramatic arc you'd script: a miss, then a make.\n\nWhat do you think — is the ABS challenge system good for baseball?\n```",
+        "image_caption": "#### Image Caption -- 10:30 AM ET\n\n```\nJose Caballero: first ABS challenge in MLB history. Francisco Alvarez: first successful one. Baseball just changed, two days in.\n```",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-abs-challenge-makes-history-caballero-alvarez.html",
+        "headline": "Baseball's ABS Challenge Era Has Officially Begun — Two Days, Two History Books",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ABS Challenge Makes History\n\n**Imagn Search:** `Jose Caballero New York Yankees`\n\n**X Image:**\n- **Headline:** \"MLB HISTORY\"\n- **Subtitle:** \"First ABS Challenge Ever — Opening Day 2026\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #C4A000\n- **Background:** Dark gray\n\n**Facebook Image:**\n- **Headline:** \"ABS ERA BEGINS\"\n- **Subtitle:** \"Caballero first challenge. Alvarez first successful one.\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #C4C4C4\n- **Background:** Deep navy\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Rookie Debut Bonanza — Wetherholt HR, Benge HR, McGonigle 4 Hits",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Opening Day 2026 rookie debuts:\n\nJJ Wetherholt (STL) — 425-foot homer, 101.7 mph exit velo\nCarson Benge (NYM) — homer + stolen base\nKevin McGonigle (DET) — 4-for-5, 2 doubles, 2 RBI\n\nThree different parks. Three generational talents. One day. 💥\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Kevin McGonigle's MLB debut by the numbers:\n\n4 hits. 4-for-5. First pitch of his career: a bases-loaded 2-run double.\n\nHe's the 21st player since 1900 with 4 hits in their debut — and the first Tigers player since Billy Bean in 1987.\n\n#BallparkBanter #Statcast #BaseballStats",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Statcast",
+            "#BaseballStats"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nOpening Day 2026 might go down as the best rookie debut day in the history of the sport.\n\nJJ Wetherholt, the Cardinals' No. 5 overall prospect, stepped in against Drew Rasmussen in the third inning at Busch Stadium — fell behind 0-2 — and then launched a 425-foot bomb to dead center field. His first career hit. Off a 94.5 mph fastball, at 101.7 mph off the bat. Cardinals fans gave him a standing ovation before he even finished his home run trot.\n\nThree hours north at Citi Field, the Mets' Carson Benge did it his own way. His MLB debut included a home run off Justin Lawrence — 105.3 mph exit velocity, 385 feet to right field — and he added a stolen base for good measure.\n\nAnd then there was Kevin McGonigle in San Diego. The Tigers infielder saw the very first pitch of his major league career — a pitch in a bases-loaded spot — and lined a two-run double. He finished 4-for-5 with two doubles and two RBI. He's now the 21st player since 1900 to record four hits in their MLB debut.\n\nThree different parks, three different storylines, all on the same Opening Day. The next generation of baseball arrived in style.\n\nWhich of these three rookie performances was the most impressive to you?\n```",
+        "image_caption": "#### Image Caption -- 12:30 PM ET\n\n```\nThree rookies, three parks, one Opening Day. Wetherholt 425 ft, Benge HR + stolen base, McGonigle 4 hits. The next generation has arrived. 💥\n```",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-rookie-debut-bonanza-wetherholt-benge-mcgonigle.html",
+        "headline": "Three Rookies, Three Parks, One Opening Day — The Debut Bonanza of 2026",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rookie Debut Bonanza\n\n**Imagn Search (primary):** `JJ Wetherholt St. Louis Cardinals`\n\n**X Image:**\n- **Headline:** \"OPENING DAY DEBUTS\"\n- **Subtitle:** \"Wetherholt 425 ft • Benge HR+SB • McGonigle 4 Hits\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #FFD700\n- **Background:** Dark blue\n\n**Facebook Image:**\n- **Headline:** \"THREE ROOKIES\"\n- **Subtitle:** \"Three parks. All delivered. Opening Day 2026.\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #F4C542\n- **Background:** Dark slate\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Edwin Diaz's Grand Entrance — Live Timmy Trumpet, Dodgers 5-4 D-backs",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Edwin Diaz walked out to a LIVE trumpeter at Dodger Stadium.\n\nStruck out two batters. Got a groundout. Diaz saves.\n\nKyle Tucker's go-ahead single in the 8th did the damage. Dodgers 5-4.\n\nOpening Week vibes are immaculate. 🎺\n\n#BallparkBanter #MLB #Dodgers",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Dodgers"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nWhen Edwin Diaz walks out of the bullpen, the music plays. And on Friday night at Dodger Stadium, the music was live.\n\nA local Los Angeles trumpeter — positioned just beyond the left-field wall — played the opening of \"Narco\" as Diaz jogged in to close out the Arizona Diamondbacks. The crowd at Dodger Stadium, which was already revved up on World Series ring night, went completely sideways.\n\nDiaz did his part. He struck out Carlos Santana. Walked Alek Thomas (who promptly stole second), then struck out Jordan Lawlar on a called third strike. Ketel Marte — one of the best hitters in the National League — grounded out to Mookie Betts to end it.\n\nKyle Tucker set the stage with a clutch go-ahead RBI single in the eighth, driving in Alex Freeland off Kevin Ginkel through a drawn-in infield. Dodgers 5, Diamondbacks 4.\n\nOpening week is barely underway and the Dodgers are already putting on a show. Two games, two wins, and a moment that will make the highlights reel all season.\n\nWhat's your early prediction for the Dodgers this year?\n```",
+        "image_caption": "#### Image Caption -- 3:00 PM ET\n\n```\nLive trumpet. Sold-out stadium. Diaz locks the door. The Dodgers are 2-0 and already delivering highlight reels. 🎺\n```",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-edwin-diaz-grand-entrance-dodgers-dbacks.html",
+        "headline": "Diaz, Live Trumpet, and a Ring Night Save — The Dodgers Are Already Must-Watch TV",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Edwin Diaz's Grand Entrance\n\n**Imagn Search:** `Edwin Diaz Los Angeles Dodgers`\n\n**X Image:**\n- **Headline:** \"LIVE TRUMPET 🎺\"\n- **Subtitle:** \"Diaz First Dodgers Save — 5-4 over D-backs\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #EF5350\n- **Background:** Dodger Stadium blue\n\n**Facebook Image:**\n- **Headline:** \"DIAZ CLOSES IT\"\n- **Subtitle:** \"The music was live. The save was real. Dodgers 2-0.\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #C4C4C4\n- **Background:** Deep Dodger blue\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Trevor Rogers Twirls a Gem — 7 Scoreless, Helsley Dominant, Alonso's New Home",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Trevor Rogers on Opening Day for the Orioles:\n\n7 innings. 0 runs. 3 hits. 3 double plays.\n\nRyan Helsley closed it out throwing six consecutive 100+ mph pitches in the 9th.\n\nOrioles 2-1 over the Twins. Don't sleep on Baltimore. 🔒\n\n#BallparkBanter #MLB #Orioles",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Orioles"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nIf you weren't paying attention to the Orioles on Opening Day, you missed a clinic.\n\nLeft-hander Trevor Rogers — not the first name you'd pencil in for Opening Day heroics — went out to Camden Yards and threw seven innings of shutout ball against the Minnesota Twins. Three hits. Four walks. Five strikeouts. Three double plays. He was perfectly efficient when he needed to be, and the Orioles won 2-1 on a Colton Cowser sacrifice fly and a Blaze Alexander RBI single in the seventh.\n\nThen Ryan Helsley came out to close. The new Orioles closer threw six consecutive pitches at 100 miles per hour or faster. He struck out the side. Three up, three down, and it wasn't close.\n\nPete Alonso — who signed with Baltimore this offseason after 126 RBI in his final season with the Mets — went 0-for-3 in his Orioles debut. That's a footnote. It's one game. The man drove in 126 runs last year. He'll be fine.\n\nThe Orioles are 1-0 and the back of their bullpen throws 100 mph. Don't sleep on this team.\n\nWhat's your prediction for the Orioles in 2026?\n```",
+        "image_caption": "#### Image Caption -- 6:00 PM ET\n\n```\nTrevor Rogers: 7 innings, 0 runs. Ryan Helsley: six consecutive 100+ mph pitches. Orioles 2-1, Opening Day. Don't sleep on Baltimore.\n```",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-trevor-rogers-gem-orioles-alonso-debut.html",
+        "headline": "Don't Sleep on the Orioles — Trevor Rogers' Gem and Helsley's Debut Close Out the Twins",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Trevor Rogers Gem\n\n**Imagn Search:** `Trevor Rogers Baltimore Orioles`\n\n**X Image:**\n- **Headline:** \"7 SHUTOUT INNINGS\"\n- **Subtitle:** \"Rogers + Helsley Lock It Down — Orioles 2-1 Twins\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #FF6D00\n- **Background:** Orioles black\n\n**Facebook Image:**\n- **Headline:** \"DON'T SLEEP ON BALTIMORE\"\n- **Subtitle:** \"Rogers 7 IP, 0 ER. Helsley: 6 straight 100+ mph pitches.\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #FF6D00\n- **Background:** Dark charcoal\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Judge Rebounds — First HR of 2026 After Golden Sombrero",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Aaron Judge was 0-for-5 with 4 strikeouts on Opening Day.\n\nFirst reigning MVP ever to do that on Opening Day.\n\nHe hit a home run the very next day.\n\nOne game. One hundred and sixty-two games. 🔥\n\n#BallparkBanter #MLB #Yankees",
+          "posting_time": "8:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Yankees"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nAaron Judge had one of the worst Opening Days in the history of reigning MVPs on Tuesday.\n\nHe went 0-for-5 with four strikeouts — a golden sombrero — against the San Francisco Giants at Oracle Park. It was, according to historical records, the first time a reigning Most Valuable Player had struck out four times on Opening Day. The Yankees still won 7-0, thanks to Max Fried's 6.1-inning gem, so the box score was fine. But Judge's line was an unmistakable anomaly.\n\nThe next day, he hit a home run.\n\nThat's Aaron Judge. That's baseball. One day you're making history in the wrong column; the next you're reminding everyone why you're the best hitter on the planet. The Yankees are 2-0. The captain is warming up. The rest of the American League has been warned.\n```",
+        "image_caption": "#### Image Caption -- 8:30 AM ET\n\n```\nGolden sombrero on Opening Day. Home run the day after. Aaron Judge doesn't stay in a slump for long.\n```",
+        "posting_time": "8:30 AM ET"
+      },
+      "article": {
+        "filename": "article-06-judge-golden-sombrero-rebound-first-hr-2026.html",
+        "headline": "Judge Was 0-for-5 With Four Ks on Opening Day. He Hit a Home Run the Next Day.",
+        "word_count": 469
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Judge Rebounds\n\n**Imagn Search:** `Aaron Judge New York Yankees`\n\n**X Image:**\n- **Headline:** \"BOUNCE BACK\"\n- **Subtitle:** \"0-for-5, 4 K on OD → First HR of 2026 Next Day\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #C4A000\n- **Background:** Yankees navy pinstripes (dark)\n\n**Facebook Image:**\n- **Headline:** \"JUDGE ANSWERS\"\n- **Subtitle:** \"Golden sombrero on OD. HR the next day. That's baseball.\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #FFD700\n- **Background:** Pinstripe dark navy\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Opening Weekend Scoreboard — Who's Hot, Who Has Questions",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Two days of baseball and we already have questions:\n\n✅ Dodgers: 2-0, Diaz saves, Tucker clutch\n✅ Yankees: 2-0, Judge rebounding\n❓ Pirates: 0-2, Skenes disaster, rotation TBD\n🤔 Everyone who didn't schedule a rookie debut this week\n\nWhat a sport.\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "10:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nTwo days of baseball. Here's what we've already learned from Opening Weekend 2026.\n\nThe Dodgers are real. Kyle Tucker is everything advertised. Edwin Diaz's entrance was the moment of the year so far. They're 2-0 and still finding their rhythm. The Yankees are also 2-0, largely thanks to Max Fried's Opening Night gem — but Aaron Judge is going to need to rediscover his stroke after a golden sombrero in Game 1.\n\nThe Pirates have a problem, and it's not just Paul Skenes. The defensive miscues that contributed to Skenes' 2-out nightmare aren't small errors — they're O'Neil Cruz losing pop flies in the sun and misreading line drives. Skenes is elite. The team around him needs to be better.\n\nThe sleeper story of the weekend: the Orioles. Trevor Rogers was outstanding, Ryan Helsley looks like a shutdown closer, and the core of this team is still very much intact from their back-to-back AL East division titles.\n\nIt's two games. We know that. But baseball rewards early reads. The hot teams generally stay hot. The teams with question marks tend to have them answered over the next 160 games — for better or worse.\n\nWho are you most excited to watch this season?\n```",
+        "image_caption": "#### Image Caption -- 10:00 PM ET\n\n```\nTwo games in and we already have questions — and plenty of highlights. Opening Weekend 2026 did not disappoint.\n```",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Opening Weekend Scoreboard\n\n**Imagn Search:** `MLB baseball Opening Day celebration`\n\n**X Image:**\n- **Headline:** \"OPENING WEEKEND\"\n- **Subtitle:** \"2 Days. 4 Records. 3 Debut HRs. 1 Cy Young Nightmare.\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #66BB6A\n- **Background:** Dark neutral\n\n**Facebook Image:**\n- **Headline:** \"WHO'S HOT, WHO HAS QUESTIONS\"\n- **Subtitle:** \"Two days of 2026 baseball — here's where things stand\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #C4C4C4\n- **Background:** Dark slate blue"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 7,
+    "articles_count": 6,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

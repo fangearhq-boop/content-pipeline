@@ -1,15 +1,27 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-26
-- **Steps Completed**: 1-10b + 12-15 (Full pipeline minus Facebook/Images — handled by enrichment skill)
-- **Dashboard Published**: Yes (https://fangearhq-boop.github.io/content-dashboards/bb/)
+- **Date**: 2026-03-28
+- **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
+- **Dashboard Published**: Yes (https://fangearhq-boop.github.io/content-dashboards/)
 
 ## Deploy Info
 - **Dashboard:** Unified (fangearhq-boop/content-dashboards, subfolder: bb)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-28
+- **Steps completed:** Full pipeline 1-15
+- **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 9 (all under 280 chars)
+- **FB Posts:** 7 long-form + 7 image captions
+- **Articles:** 6 (Stories 1-6; Story 7 Tier 3 evergreen excluded per tier rules)
+- **PostPlanner exports:** bb-postplanner-2026-03-28.xlsx (23 posts) + bb-postplanner-tobi-2026-03-28.xlsx (16 TOBI posts)
+- **Fact-check:** 0 char-limit violations. 0 consistency errors. Image manifest not_started (expected — image production separate step).
+- **Dashboard:** Published, live at https://fangearhq-boop.github.io/content-dashboards/
+- **Notes:** publish-unified-dashboard.py fails 403 (PAT denied to content-dashboards). Used publish-dashboard.py instead — succeeds. Key stories: Skenes 0.2 IP OD disaster shortest by Cy Young winner ever (P10), ABS challenge history Caballero first / Alvarez first successful (P10), Rookie debut triple Wetherholt 425 ft / Benge HR+SB / McGonigle 4-for-5 (P8), Diaz Dodgers 5-4 D-backs live trumpet save (P8), Rogers 7 shutout Helsley 100+ mph 6-pitch K streak Alonso Orioles debut (P7), Judge golden sombrero then first HR (P7), Opening Weekend overview (P5).
+- **Fact concerns:** None — all facts HIGH confidence from dual-source research.
 
 ### 2026-03-24
 - **Steps completed:** 1-6 (Research through X Posts), 5b (Articles — 5 written), 7 (Fact-Check — pass), 8a (Compile), 8b (Story History), 8d (Dashboard published), 8e (PostPlanner exports)

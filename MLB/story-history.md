@@ -5,6 +5,20 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-03-28
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Skenes Opening Day disaster — 0.2 IP, 5 ER, shortest OD start ever by a reigning Cy Young winner. Mets 11 Pirates 7. Cruz errors amplified. | 1 | FOLLOW-UP (3/26 Story 4) |
+| 2 | ABS challenge makes history — Caballero (NYY) first-ever challenge (March 25, unsuccessful). Alvarez (NYM) first SUCCESSFUL challenge (March 26, overturned to K). | 1 | NEW STORY (unusual stat) |
+| 3 | Rookie debut bonanza — Wetherholt (STL) 425-ft HR 101.7 mph EV; Benge (NYM) HR 105.3 mph EV + SB; McGonigle (DET) 4-for-5 2 doubles first-pitch 2-run double — 21st player in history with 4 hits in debut. | 2 | NEW STORY |
+| 4 | Diaz grand entrance — Dodgers 5-4 D-backs. Tucker go-ahead RBI single in 8th. Diaz saves with live trumpeter, K-walk-K-groundout sequence. | 2 | NEW STORY |
+| 5 | Rogers gem + Helsley debut + Alonso — Orioles 2-1 Twins. Rogers 7 IP 0 ER 3 DP. Helsley: 6 straight 100+ mph K's in 9th. Alonso 0-for-3 in Orioles debut. | 2 | NEW STORY |
+| 6 | Judge rebounds — 0-for-5, 4 K (golden sombrero) on OD first reigning MVP ever; hit first HR of 2026 on March 27. Yankees 2-0. | 2 | FOLLOW-UP (3/26 Story 2) |
+| 7 | Opening Weekend scoreboard — Dodgers 2-0, Yankees 2-0, Pirates 0-2 (Skenes disaster), Orioles 1-0 (Rogers gem). | 3 | NEW STORY |
+
+---
+
 ## 2026-03-26
 
 | # | Story | Tier | Tag |
