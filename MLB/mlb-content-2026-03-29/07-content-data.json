@@ -1,0 +1,346 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-29",
+  "compiled_at": "2026-03-29T11:02:18.350798+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:30 PM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tyler O'Neill — 6 Consecutive Opening Day HRs, MLB All-Time Record",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Tyler O'Neill homered on Opening Day for the 6th consecutive season.\n\nThat's an MLB all-time record per Elias Sports Bureau.\n\nPrevious best: 4 straight — Berra, Carter, and Hundley.\n\nSix years. In a row. Every single year.\n\n#BallparkBanter #MLB #BaseballHistory",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#BaseballHistory"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "#### Image Caption -- 8:00 AM ET\n\n```\nSix consecutive Opening Day home runs. Tyler O'Neill just set an MLB all-time record — and most fans don't even know it yet.\n```",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-tyler-oneill-six-consecutive-opening-day-home-runs.html",
+        "headline": "Tyler O'Neill's 6 Consecutive Opening Day HRs: The Most Quietly Historic Record in Baseball",
+        "word_count": 481
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tyler O'Neill — 6 Consecutive Opening Day HRs\n\n**Imagn Search:** `Tyler O'Neill Boston Red Sox`\n\n**X Image:**\n- **Headline:** \"MLB ALL-TIME RECORD\"\n- **Subtitle:** \"Tyler O'Neill — 6 Consecutive Opening Day HRs\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #FFD700\n- **Background:** Deep navy\n\n**Facebook Image:**\n- **Headline:** \"SIX YEARS IN A ROW\"\n- **Subtitle:** \"Tyler O'Neill: most consecutive Opening Day HRs in MLB history\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #C4C4C4\n- **Background:** Dark charcoal\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "McGreevy's 6 No-Hit Innings + Cardinals Walk-Off in the 10th",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Michael McGreevy's Cardinals debut on Saturday:\n\n6 no-hit innings. 5 Ks. 96 pitches.\n\nThe no-hit bid ended in the 7th. The Cardinals trailed. Then JJ Wetherholt lined a walk-off RBI single in the 10th.\n\nCardinals 6, Rays 5. Two rookies, one game.\n\n#BallparkBanter #MLB #Cardinals",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Cardinals"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "#### Image Caption -- 10:30 AM ET\n\n```\nMcGreevy: 6 no-hit innings in his MLB debut. Wetherholt: walk-off RBI single in the 10th in his 2nd career game. Cardinals 6, Rays 5. One Saturday afternoon in St. Louis. 🔥\n```",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-mcgreevy-six-no-hit-innings-cardinals-walk-off.html",
+        "headline": "McGreevy Throws 6 No-Hit Innings, Wetherholt Delivers Walk-Off: Cardinals 6, Rays 5 in Ten",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McGreevy's 6 No-Hit Innings + Cardinals Walk-Off\n\n**Imagn Search (primary):** `Michael McGreevy St. Louis Cardinals`\n\n**X Image:**\n- **Headline:** \"6 NO-HIT INNINGS\"\n- **Subtitle:** \"McGreevy MLB Debut — Cardinals Walk Off in 10th\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #EF5350\n- **Background:** Cardinals red\n\n**Facebook Image:**\n- **Headline:** \"TWO ROOKIES. ONE GAME.\"\n- **Subtitle:** \"McGreevy 6 no-hit IP • Wetherholt walk-off RBI — Cardinals 6, Rays 5 (10)\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #FFD700\n- **Background:** Dark slate\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Will Smith Birthday Walk-Off HR — Dodgers Sweep Diamondbacks 3-0",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Dodgers 3, Diamondbacks 2. Series sweep complete.\n\nGlasnow: 6 IP. Tucker: leaping catch to rob a HR. Diaz: saves.\n\nArizona led 2-0 in all 3 games. Lost all three.\n\nThe Dodgers are on an 8-game winning streak spanning two seasons.\n\n#BallparkBanter #MLB #Dodgers",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Dodgers"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "#### Image Caption -- 4:00 PM ET\n\n```\nWill Smith hit a go-ahead 2-run HR on his 31st birthday. The Dodgers swept the Diamondbacks 3-0. Arizona led 2-0 in every game. Lost all three. 🎂\n```",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-will-smith-birthday-walk-off-dodgers-sweep.html",
+        "headline": "Will Smith's Birthday Walk-Off Completes Dodgers' Sweep of Diamondbacks: LA Now on 8-Game Win Streak",
+        "word_count": 447
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Will Smith Birthday Walk-Off, Dodgers Sweep\n\n**Imagn Search:** `Will Smith Los Angeles Dodgers`\n\n**X Image:**\n- **Headline:** \"HAPPY BIRTHDAY, WILL SMITH\"\n- **Subtitle:** \"Walk-Off HR Completes Dodgers Series Sweep — LA Wins 8 Straight\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #66BB6A\n- **Background:** Dodger Stadium blue\n\n**Facebook Image:**\n- **Headline:** \"DODGERS DYNASTY ROLLS ON\"\n- **Subtitle:** \"Will Smith birthday walk-off. 3-0. 8-game winning streak. Arizona led 2-0 in every game.\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #C4C4C4\n- **Background:** Deep Dodger blue\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Chase DeLauter — 2 HRs in His MLB Debut, Including Go-Ahead in the 9th",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Chase DeLauter had played in just 138 minor-league games — hurt for most of his career since being drafted in 2022.\n\nOn Opening Day, he hit TWO home runs for the Guardians. Including the go-ahead shot in the 9th inning.\n\nThat's a debut.\n\n#BallparkBanter #MLB #Guardians",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Guardians"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "#### Image Caption -- 9:00 AM ET\n\n```\n138 minor-league games across 3.5 years — mostly hurt. Chase DeLauter's response on Opening Day? Two home runs, including the go-ahead shot in the 9th. 💪\n```",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-04-chase-delauter-two-home-runs-mlb-debut.html",
+        "headline": "Chase DeLauter Hits 2 HRs in His MLB Debut — Including the Go-Ahead Shot in the 9th",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chase DeLauter — 2 HRs in MLB Debut\n\n**Imagn Search:** `Chase DeLauter Cleveland Guardians`\n\n**X Image:**\n- **Headline:** \"2 HRs IN YOUR DEBUT\"\n- **Subtitle:** \"Chase DeLauter — Go-Ahead HR in 9th, MLB Debut, Opening Day\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #FF6D00\n- **Background:** Guardians navy\n\n**Facebook Image:**\n- **Headline:** \"138 MINOR LEAGUE GAMES\"\n- **Subtitle:** \"DeLauter missed most of his minor league career to injuries. Opening Day: 2 HRs.\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #FFD700\n- **Background:** Dark navy\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Shohei Ohtani Pitching Debut Set for Tuesday, March 31",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Shohei Ohtani's 2026 pitching debut is Tuesday vs. the Guardians.\n\nFinal spring outing: 4 innings, 11 strikeouts, 99 mph.\n\nDave Roberts: \"The intensity was there, the focus was there.\"\n\nHe hit 55 HRs last year. Now the pitching begins. ⚾\n\n#BallparkBanter #MLB #Dodgers",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Dodgers"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "#### Image Caption -- 2:00 PM ET\n\n```\nShohei Ohtani's first 2026 pitching start: Tuesday, March 31 vs. Cleveland. Spring final: 4 IP, 11 K, 99 mph. The two-way era officially begins again.\n```",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-shohei-ohtani-pitching-debut-march-31.html",
+        "headline": "Shohei Ohtani's First 2026 Pitching Start Is Tuesday — Here's What to Expect",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shohei Ohtani Pitching Debut\n\n**Imagn Search:** `Shohei Ohtani Los Angeles Dodgers`\n\n**X Image:**\n- **Headline:** \"HE PITCHES TUESDAY\"\n- **Subtitle:** \"Ohtani 2026 Pitching Debut — March 31 vs. Guardians\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #C4A000\n- **Background:** Dodger blue\n\n**Facebook Image:**\n- **Headline:** \"THE WAIT IS ALMOST OVER\"\n- **Subtitle:** \"Shohei Ohtani takes the mound Tuesday. 4 IP, 11 K in his final spring start.\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #C4C4C4\n- **Background:** Deep navy\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "JJ Wetherholt — HR and Walk-Off RBI in His First 2 Career Games",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "JJ Wetherholt in his first 2 major league games:\n\nGame 1: 425-foot home run in his first MLB at-bat.\nGame 2: Walk-off RBI single in the 10th inning.\n\nTwo games. Two defining moments.\n\nThe Cardinals' No. 1 prospect has already delivered.\n\n#BallparkBanter #MLB #Cardinals",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Cardinals"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "#### Image Caption -- 12:30 PM ET\n\n```\nJJ Wetherholt: 425-ft HR in his first career at-bat. Walk-off RBI single in his second game. The Cardinals' No. 1 prospect is already delivering.\n```",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-06-jj-wetherholt-home-run-walk-off-two-games.html",
+        "headline": "JJ Wetherholt Is 2 for 2 in Career-Defining Moments: HR on Debut, Walk-Off RBI in Game 2",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "JJ Wetherholt\n\n**Imagn Search:** `JJ Wetherholt St. Louis Cardinals`\n\n**X Image:**\n- **Headline:** \"HR. THEN WALK-OFF.\"\n- **Subtitle:** \"JJ Wetherholt in His First 2 Career Games — Cardinals' Rookie Is Delivering\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #EF5350\n- **Background:** Cardinals red\n\n**Facebook Image:**\n- **Headline:** \"THE FUTURE IS NOW\"\n- **Subtitle:** \"425-ft HR on debut. Walk-off RBI single in Game 2. JJ Wetherholt arrived.\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #FFD700\n- **Background:** Dark red\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Opening Weekend Final Standings — Dodgers 3-0, Pirates 0-3, and More",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Opening Weekend 2026 is almost in the books.\n\nDodgers: 3-0. Cardinals: 2-0. Brewers: 2-0. Mets: 2-0. Yankees: 2-0.\n\nPirates: 0-2. Diamondbacks: 0-3.\n\nThree games means nothing. The vibes, though? Very clear.\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "#### Image Caption -- 7:00 PM ET\n\n```\nThree games in. Opening Weekend 2026 delivered records, walk-offs, and very clear early narratives. The Dodgers are 3-0. The Pirates are 0-2. The 162-game season is just getting started.\n```",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Opening Weekend Standings\n\n**Imagn Search:** `MLB baseball stadium celebration`\n\n**X Image:**\n- **Headline:** \"OPENING WEEKEND 2026\"\n- **Subtitle:** \"Dodgers 3-0 • Cardinals 2-0 • Pirates 0-2 • Diamondbacks 0-3\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #66BB6A\n- **Background:** Dark neutral\n\n**Facebook Image:**\n- **Headline:** \"THREE GAMES IN\"\n- **Subtitle:** \"The vibes are already very clear. Here's where things stand after Opening Weekend.\"\n- **Headline Color:** #FFFFFF\n- **Subtitle Color:** #C4C4C4\n- **Background:** Dark slate blue"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 6,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

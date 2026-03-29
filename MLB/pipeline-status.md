@@ -1,6 +1,12 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-03-29
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (14+ searches), brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
+- **Dashboard Published**: Yes (https://fangearhq-boop.github.io/content-dashboards/)
+- **Issues**: publish-dashboard.py required git pull --rebase before push (non-fast-forward, known pattern)
+
+## Previous Run
 - **Date**: 2026-03-28
 - **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes (https://fangearhq-boop.github.io/content-dashboards/)
@@ -10,6 +16,18 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-29
+- **Steps completed:** Full pipeline 1-15
+- **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 9 (all under 280 chars; 5 char-limit violations fixed on first verify-facts pass)
+- **FB Posts:** 7 long-form + 7 image captions
+- **Articles:** 6 (Stories 1-6; Story 7 Tier 3 excluded per tier rules)
+- **PostPlanner exports:** bb-postplanner-2026-03-29.xlsx (23 posts) + bb-postplanner-tobi-2026-03-29.xlsx (16 TOBI posts)
+- **Fact-check:** 0 char-limit violations (after fixes). 0 consistency errors. Image not_started (expected).
+- **Dashboard:** Published, live at https://fangearhq-boop.github.io/content-dashboards/
+- **Notes:** 14+ web searches conducted. Key stories: Tyler O'Neill 6 consecutive OD HRs MLB record per Elias (P10), McGreevy 6 no-hit innings + Wetherholt walk-off Cardinals 6-5 in 10 (P10), Will Smith birthday walk-off HR Dodgers sweep ARI 3-0 8-game streak (P8), DeLauter 2 HRs in debut Guardians 6-4 (P8), Ohtani pitching debut March 31 4 IP 11 K spring (P7), Wetherholt HR + walk-off 2 games (P7), Opening Weekend standings Dodgers 3-0 Pirates 0-2 (P5)
+- **Fact concerns:** O'Neill 2026 team (MEDIUM — assumed Red Sox, no contradicting news); Sunday March 29 game results MEDIUM (in progress at research time).
 
 ### 2026-03-28
 - **Steps completed:** Full pipeline 1-15

@@ -5,6 +5,20 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-03-29
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Tyler O'Neill: 6 consecutive Opening Day HRs — MLB all-time record per Elias Sports Bureau. Previous best: 4 straight (Berra, Carter, Hundley). | 1 | NEW STORY (unusual stat) |
+| 2 | McGreevy 6 no-hit innings (debut) + Wetherholt walk-off RBI single in 10th — Cardinals 6, Rays 5. Two rookies, one game. | 1 | NEW STORY |
+| 3 | Will Smith birthday walk-off 2-run HR in 8th → Dodgers sweep D-backs 3-0. 8-game winning streak. ARI led 2-0 in all 3 games, lost all three. | 2 | FOLLOW-UP |
+| 4 | Chase DeLauter: 2 HRs in MLB debut — go-ahead solo HR in 9th. Guardians 6-4 Mariners. Only 138 MiLB games due to injuries. | 2 | FOLLOW-UP (OD coverage) |
+| 5 | Shohei Ohtani pitching debut: Tuesday March 31 vs. Guardians. Spring final: 4 IP, 11 K, 99 mph. Roberts: "The intensity was there." | 2 | PREVIEW |
+| 6 | JJ Wetherholt: 425-ft HR in debut (Game 1), walk-off RBI single in 10th (Game 2). Cardinals' No. 1 prospect, 2-for-2 in defining moments. | 2 | FOLLOW-UP |
+| 7 | Opening Weekend standings: Dodgers 3-0, Cardinals 2-0, Brewers 2-0, Mets 2-0, Yankees 2-0. Pirates 0-2, D-backs 0-3. | 3 | NEW STORY |
+
+---
+
 ## 2026-03-28
 
 | # | Story | Tier | Tag |
