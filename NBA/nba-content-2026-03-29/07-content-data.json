@@ -1,0 +1,356 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-29",
+  "compiled_at": "2026-03-29T11:26:44.461126+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "1",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "2",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "5",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "3",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "6",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "4",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "7",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Spurs 127, Bucks 95 — Wembanyama Dominates, Milwaukee Eliminated",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Game recap + Bucks elimination",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "SPURS 127. BUCKS 95. 🔥\n\nMilwaukee is OFFICIALLY eliminated from playoff contention.\n\nWembanyama led the way in a 32-point demolition — San Antonio is 54-18.\n\nThe Bucks' season is OVER.\n\n#HoopHeroes #NBA #Bucks",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#Bucks"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Bucks went from 2021 champions to watching the playoffs on TV. 👀\n\nMilwaukee needed Giannis healthy, a real second star, and a plan.\n\nMeanwhile Wemby just handed them a 32-point beatdown.\n\nThe West has a new king — and he's 22 years old.\n\n#HoopHeroes #Spurs #NBA",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs",
+            "#NBA"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-wembanyama-spurs-bucks-eliminated.html",
+        "headline": "Wembanyama Dominates as Spurs Crush Bucks 127-95, Milwaukee Officially Eliminated",
+        "word_count": 640
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spurs 127, Bucks 95 — Wembanyama Dominates, Milwaukee Eliminated\n\n**Social Image (1080×1350)**\n\nVisual Description: Victor Wembanyama in his San Antonio Spurs white uniform, dominant action shot — blocking, dunking, or celebrating with intensity.\n\nPhoto Search Terms (Imagn):\n1. \"Victor Wembanyama San Antonio Spurs\"\n2. \"Wembanyama Spurs\"\n3. \"Victor Wembanyama\"\n\nText Overlay:\n- Headline (Bebas Neue, white): BUCKS ELIMINATED\n- Subtitle (Montserrat, #FF5722 Deep Orange): SAS 127 • MIL 95\n- Background bar: #1A1A2E at 45% opacity, bottom third\n\nComposition Notes:\n- Portrait orientation; player fills upper 2/3 of frame\n- Text overlay at bottom; dark midnight bar behind text\n- Logo: Hoop Heroes bottom-right\n\n**Article Hero (1200×630)**\n\nVisual Description: Same Wembanyama action shot, landscape crop for article header.\n\nPhoto Search Terms: Same as above\nText: None on hero — handled by article HTML\n\nCredit: \"(USA TODAY Sports Images)\" or \"(Imagn Images)\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Jokic 33/15/12 on 13-of-16 — 4th Straight Triple-Double, Nuggets Win",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Historic efficiency + consecutive triple-double streak",
+      "posting_window": "9:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Nikola Jokic last night: 33 pts. 15 reb. 12 ast. On 13-of-16. 🤯\n\nThat's his 4th straight triple-double.\n\nOver 4 games he's averaging 25.3/16.8/15.5.\n\nYou are watching something special in Denver right now.\n\n#HoopHeroes #Nuggets #Jokic",
+          "posting_time": "9:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Nuggets",
+            "#Jokic"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 2-2",
+          "text": "13-for-16. 33 pts. A triple-double. 👀\n\nThis is Jokic at a level the center position has NEVER seen.\n\n4 straight triple-doubles. Averages of 28/12.6/10.6 on the season.\n\nHot take: greatest statistical season from a big man in NBA history.\n\n#HoopHeroes #NBA #Nuggets",
+          "posting_time": "9:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#Nuggets"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-jokic-four-straight-triple-doubles.html",
+        "headline": "Jokic's Efficiency Masterclass: 33/15/12 on 13-of-16 Shooting, 4th Straight Triple-Double",
+        "word_count": 653
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jokic 33/15/12 — 4th Straight Triple-Double\n\n**Social Image (1080×1350)**\n\nVisual Description: Nikola Jokic in Denver Nuggets gold/navy uniform — passing, posting up, or celebrating a triple-double.\n\nPhoto Search Terms (Imagn):\n1. \"Nikola Jokic Denver Nuggets\"\n2. \"Jokic Nuggets\"\n3. \"Nikola Jokic\"\n\nText Overlay:\n- Headline (Bebas Neue, white): 4 STRAIGHT TRIPLE-DOUBLES\n- Subtitle (Montserrat, #FFC107 Gold): 33 PTS • 15 REB • 12 AST\n- Background bar: #1A1A2E at 45% opacity, bottom third\n\nComposition Notes:\n- Player centered or slightly left; text bar at bottom\n- Gold accent color matches Nuggets' team palette — intentional brand alignment\n- Dark midnight bar behind text\n\n**Article Hero (1200×630)**\n\nVisual Description: Jokic in action, landscape framing — passing or handling ball with wide-angle arena context.\n\nCredit: \"(USA TODAY Sports Images)\" or \"(Imagn Images)\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "LeBron's Pass-First Evolution — Lakers Go 12-1 in March",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "LeBron reduced scoring role, Lakers 12-1 stretch",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "LeBron has attempted 15 or fewer shots in 9 straight games. 👑\n\nLongest such stretch of his 23-year career.\n\nThe result? Lakers are 12-1. Luka averaging 37.1 PPG in March.\n\nMost impressive thing LeBron has done in years — and he's barely scoring.\n\n#HoopHeroes #Lakers #LeBron",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Lakers",
+            "#LeBron"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-lebron-pass-first-lakers-surge.html",
+        "headline": "The LeBron Evolution: How Deferring to Luka Unlocked the Lakers",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron Pass-First — Lakers 12-1\n\n**Social Image (1080×1350)**\n\nVisual Description: LeBron James in Lakers purple/gold uniform — dishing a no-look pass or gesturing/directing teammates, emphasizing his playmaking role.\n\nPhoto Search Terms (Imagn):\n1. \"LeBron James Los Angeles Lakers\"\n2. \"LeBron James Lakers\"\n3. \"LeBron James\"\n\nText Overlay:\n- Headline (Bebas Neue, white): THE LEBRON EVOLUTION\n- Subtitle (Montserrat, #FFC107 Gold): 12-1 IN MARCH\n- Background bar: #1A1A2E at 45% opacity, bottom third\n\nComposition Notes:\n- LeBron in Lakers purple — strong visual identity\n- Passing or facilitating moment preferred over scoring shot to reinforce the narrative angle\n- Text at bottom\n\n**Article Hero (1200×630)**\n\nVisual Description: LeBron wide-angle shot on the Lakers court, landscape framing.\n\nCredit: \"(USA TODAY Sports Images)\" or \"(Imagn Images)\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Embiid-George Steady 76ers — Beat Hornets, Hold No. 7 East Seed",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "76ers hold No. 7 seed; East Play-In four-team race",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Embiid and George delivered again. 🏀\n\n76ers beat Charlotte to hold No. 7 in the East at 39-33.\n\nThe East Play-In: Sixers, Hornets, Magic, and Heat all within 2 games.\n\nThis four-team race is the most exciting finish in basketball right now.\n\n#HoopHeroes #Sixers #NBA",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Sixers",
+            "#NBA"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-edwards-injury-timberwolves-seeding.html",
+        "headline": "Edwards Out 1-2 Weeks: Minnesota's Seeding Battle Gets Complicated",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "76ers Beat Hornets — Embiid-George\n\n**Social Image (1080×1350)**\n\nVisual Description: Joel Embiid in 76ers red/white uniform — dominant post move, dunk attempt, or fist pump.\n\nPhoto Search Terms (Imagn):\n1. \"Joel Embiid Philadelphia 76ers\"\n2. \"Embiid 76ers\"\n3. \"Joel Embiid\"\n\nText Overlay:\n- Headline (Bebas Neue, white): EAST PLAY-IN RACE\n- Subtitle (Montserrat, #FF5722 Deep Orange): 4 TEAMS. 2 SPOTS.\n- Background bar: #1A1A2E at 45% opacity, bottom third\n\nComposition Notes:\n- Embiid towering presence in frame — emphasize size and dominance\n- Text bar at bottom with high-contrast white headline\n\nCredit: \"(USA TODAY Sports Images)\" or \"(Imagn Images)\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Anthony Edwards Out 1-2 Weeks With Knee — Wolves Seeding at Risk",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Edwards injury, Minnesota seeding battle vs. Denver",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "INJURY ALERT: Anthony Edwards is OUT for 1-2 weeks. 😬\n\nRight knee inflammation. Re-eval in 1-2 weeks.\n\nMinnesota is 44-28, tied with Denver for No. 4-5 in the West.\n\nWith 14 games left — bad timing for the Wolves. 🐺\n\n#HoopHeroes #Timberwolves #NBA",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Timberwolves",
+            "#NBA"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-05-nba-playoff-picture-play-in-race.html",
+        "headline": "NBA Playoff Picture: Bucks Eliminated, Play-In Fields Set — Who's In, Who's Out",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Anthony Edwards Out 1-2 Weeks\n\n**Social Image (1080×1350)**\n\nVisual Description: Anthony Edwards in Minnesota Timberwolves green/navy uniform — high-energy action shot (dunk, drive, or celebration) for contrast against the injury news.\n\nPhoto Search Terms (Imagn):\n1. \"Anthony Edwards Minnesota Timberwolves\"\n2. \"Anthony Edwards Timberwolves\"\n3. \"Anthony Edwards\"\n\nText Overlay:\n- Headline (Bebas Neue, white): EDWARDS OUT\n- Subtitle (Montserrat, #FF5722 Deep Orange): 1-2 WEEKS • KNEE INFLAMMATION\n- Background bar: #1A1A2E at 45% opacity, bottom third\n\nComposition Notes:\n- Edwards in full flight — action shot creates visual tension against injury news\n- Deep orange accent signals urgency without full alarm\n\nCredit: \"(USA TODAY Sports Images)\" or \"(Imagn Images)\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Playoff Picture — Bucks Eliminated, Play-In Fields Set",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Bucks elimination as new peg; complete playoff picture",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "NBA playoff picture — March 29: 🏀\n\nCLINCHED: Thunder, Spurs, Pistons\nELIMINATED: Bucks (official)\n\nWest Play-In: Suns vs. Clippers • Blazers vs. Warriors\nEast Play-In: Sixers vs. Hornets • Magic vs. Heat\n\n14 games left. Every possession matters.\n\n#HoopHeroes #NBA #Playoffs",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#Playoffs"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Playoff Picture\n\n**Social Image (1080×1350)**\n\nVisual Description: Wide arena shot or multiple players in playoff atmosphere — OKC Thunder or Spurs clinching celebration, or playoff bracket graphic aesthetic.\n\nPhoto Search Terms (Imagn):\n1. \"Oklahoma City Thunder arena\"\n2. \"San Antonio Spurs celebration\"\n3. \"NBA playoffs arena\"\n\nText Overlay:\n- Headline (Bebas Neue, white): PLAYOFF PICTURE 2026\n- Subtitle (Montserrat, #FFC107 Gold): 14 GAMES LEFT\n- Background bar: #1A1A2E at 45% opacity, bottom third\n\nComposition Notes:\n- Wide shot preferred to represent league-wide scope\n- Gold subtitle matches championship/elite energy\n\nCredit: \"(USA TODAY Sports Images)\" or \"(Imagn Images)\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Bronny James Drops 26/7/5 in G League Win — LeBron Reacts",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Bronny G League performance + LeBron proud-dad moment",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Bronny James last night: 26 pts. 7 reb. 5 ast. 🔥\n\nSouth Bay Lakers win 140-132 in the G League.\n\nLeBron saw the box score and lost it on social.\n\nThe father-son story is getting better by the month. 👑\n\n#HoopHeroes #BronnyJames #LeBron",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#BronnyJames",
+            "#LeBron"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bronny James G League\n\n**Social Image (1080×1350)**\n\nVisual Description: Bronny James in South Bay Lakers uniform — driving, shooting, or celebrating. Energy and joy should come through.\n\nPhoto Search Terms (Imagn):\n1. \"Bronny James South Bay Lakers\"\n2. \"Bronny James Lakers\"\n3. \"Bronny James\"\n\nText Overlay:\n- Headline (Bebas Neue, white): BRONNY IS BALLING\n- Subtitle (Montserrat, #FFC107 Gold): 26 PTS • 7 REB • 5 AST\n- Background bar: #1A1A2E at 45% opacity, bottom third\n\nComposition Notes:\n- Joyful, celebratory tone — this is a fun story, not breaking news\n- Gold accent reinforces Lakers family palette\n\nCredit: \"(USA TODAY Sports Images)\" or \"(Imagn Images)\""
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

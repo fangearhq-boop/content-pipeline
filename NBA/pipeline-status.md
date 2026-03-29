@@ -11,6 +11,19 @@
 ## Pipeline Run Log
 <!-- Append newest at top -->
 
+### 2026-03-29
+- **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access)
+- **Stories:** 7 total (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 7 stories, 14 posts (long-form + caption each)
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-03-29.xlsx (23 posts) + hh-postplanner-tobi-2026-03-29.xlsx (16 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-03-29/review-dashboard.html
+- **Notes:** Bucks eliminated after SA 127-95 blowout (new story). Jokic 4th straight triple-double on 13-of-16 FG (historic efficiency). LeBron 9 straight games ≤15 FGA, Lakers 12-1 (new analytical angle). Edwards out 1-2 weeks knee (new story). Bronny James 26/7/5 G League (new story). 12 web searches across all categories.
+- **Market balance:** West (Spurs/Wemby, Lakers/LeBron+Luka, Nuggets/Jokic, Timberwolves/Edwards) + East (76ers/Embiid, Hornets, Bucks)
+- **Fact concerns:** Jalen Green/Suns attribution from research confirmed as data error (Green plays for Rockets); excluded from content. All published facts are HIGH or MEDIUM confidence.
+
 ### 2026-03-28
 - **Steps completed:** 1-6 (Research through X Posts), 4 (Facebook Posts), 5 (Image Concepts), 9 (Articles — 5 written), 10 (Fact-Check — pass with advisory warnings), 10b (Compile — pass), 11 (Image Manifest), 12 (Story History updated), 13 (Dashboard generated locally), 14 (PostPlanner exports)
 - **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access to that repo)

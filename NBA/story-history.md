@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-03-29
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spurs 127, Bucks 95 — Wembanyama dominates 32-pt blowout. Milwaukee officially eliminated. SA improves to 54-18. | 1 | NEW STORY |
+| 2 | Jokic 33 pts (13-of-16 FG), 15 reb, 12 ast — 4th consecutive triple-double. Nuggets 135-129 over Jazz. Season: 28/12.6/10.6. | 1 | FOLLOW-UP (3/26 Jokic story) |
+| 3 | LeBron James: 15 or fewer FGA in 9 straight games — longest streak of his 23-year career. Lakers 12-1 in that span. Luka averaging 37.1 PPG in March. | 2 | FOLLOW-UP (new angle on Lakers narrative) |
+| 4 | 76ers beat Hornets, hold No. 7 East at 39-33. Embiid and George healthy. East Play-In: Sixers/Hornets/Magic/Heat within 2 games of each other. | 2 | FOLLOW-UP (3/26 Embiid return) |
+| 5 | Anthony Edwards out 1-2 weeks — right knee inflammation. Wolves 44-28, tied with Denver for No. 4-5 West seeds. | 2 | NEW STORY |
+| 6 | Bucks officially eliminated. Clinched: OKC (57-15), SA (54-18), DET (52-19). Play-In set both conferences. Season ends April 12. | 3 | FOLLOW-UP (ongoing playoff picture) |
+| 7 | Bronny James: 26 pts, 7 reb, 5 ast for South Bay Lakers (G League). Win 140-132 over Sioux Falls Skyforce. LeBron hypes on social. | 3 | NEW STORY |
+
+---
+
 ## 2026-03-28
 
 | # | Story | Tier | Tag |
