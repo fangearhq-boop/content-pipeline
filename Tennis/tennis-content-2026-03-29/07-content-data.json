@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-29",
+  "compiled_at": "2026-03-29T12:30:55.340536+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM ET",
+      "description": "X",
+      "type": "ATP Final result — Sinner Sunshine Double"
+    },
+    {
+      "time": "9:00 AM ET",
+      "description": "X",
+      "type": "WTA Final result — Sabalenka Sunshine Double"
+    },
+    {
+      "time": "10:00 AM ET",
+      "description": "Facebook",
+      "type": "All FB long-form posts"
+    },
+    {
+      "time": "12:30 PM ET",
+      "description": "X",
+      "type": "Monte Carlo preview + Rankings update"
+    },
+    {
+      "time": "3:00 PM ET",
+      "description": "X",
+      "type": "Italian doubles sweep"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sinner wins Miami ATP Final 6-2, 6-2 — Sunshine Double",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Sinner completes the Sunshine Double — first man to sweep Indian Wells and Miami since Roger Federer in 2017. Dominant 6-2, 6-2 final, never dropped a set all tournament. Career-defining run.",
+      "posting_window": "8:00 AM ET (2 X posts, different angles)",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Sinner wins Miami. 6-2, 6-2. Sunshine Double complete — first man to sweep Indian Wells and Miami since Federer in 2017. Never dropped a set all tournament. The season's best player just keeps going. 🏆 #TennisFanrecap #MiamiOpen #Sinner",
+          "posting_time": "8:00 AM ET (2 X posts, different angles)",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#Sinner"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Lehečka never got his serve broken once in Miami. Sinner still beat him 6-2, 6-2 in the final. H2H now 4-0 Sinner. That's how good he is right now. 🎾 #TennisFanrecap #MiamiOpen #ATP",
+          "posting_time": "8:00 AM ET (2 X posts, different angles)",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#ATP"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nJannik Sinner is the Miami Open champion — and he made history doing it.\n\nSinner beat Jiří Lehečka 6-2, 6-2 on Sunday to complete the Sunshine Double, sweeping both Indian Wells and Miami in the same season. He's the first man to pull off that feat since Roger Federer in 2017. And the manner of it was as dominant as any performance in Miami Open history: Sinner did not drop a single set across his entire six-match campaign.\n\nLehečka arrived in the final with one of the tournament's most remarkable stats — he hadn't had his serve broken once in five matches. Against most opponents, that kind of serving form would be decisive. Against Sinner right now, it wasn't enough. The Italian dismantled him 6-2, 6-2 in a display of relentless baseline control. The H2H is now 4-0 in Sinner's favor, and he hasn't dropped a set in any of their meetings.\n\nThe broader context makes this even more remarkable. Sinner has spent most of 2025 dealing with a doping case that was eventually cleared, and entered this year with something to prove. What he's produced in the first three months of 2026 — Indian Wells title, Miami title, Sunshine Double — has been the response of a champion.\n\nWhat's your take — is Sinner the best player in the world right now?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM ET\n\n```\nSinner wins Miami. 6-2, 6-2. Sunshine Double complete.\n```",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-sinner-wins-miami-sunshine-double-2026.html",
+        "headline": "Sinner Completes the Sunshine Double With 6-2, 6-2 Demolition of Lehečka",
+        "word_count": 678
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner wins Miami ATP Final — Sunshine Double\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Photo source:** imagn\n- **Search term:** \"Jannik Sinner\"\n- **Credit:** (USA TODAY Sports Images)\n- **Canva headline:** SUNSHINE DOUBLE\n- **Canva subtitle:** Sinner wins Miami — 6-2, 6-2\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Photo source:** imagn\n- **Search term:** \"Jannik Sinner\"\n- **Credit:** (USA TODAY Sports Images)\n- **Canva headline:** FIRST SINCE FEDERER 2017\n- **Canva subtitle:** Sinner completes the Sunshine Double\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Sabalenka wins WTA Miami Final 6-2, 4-6, 6-3 — Sunshine Double",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Sabalenka becomes only the 5th woman in history to win the WTA Sunshine Double (Indian Wells + Miami). 24th career title. Season record 23-1. Gauff pushed her to three sets — Sabalenka held her nerve.",
+      "posting_window": "9:00 AM ET (2 X posts)",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Sabalenka wins Miami. 6-2, 4-6, 6-3. Second straight title. Women's Sunshine Double complete — only the 5th woman in history to sweep Indian Wells and Miami. Season record: 23-1. 🏆 #TennisFanrecap #MiamiOpen #Sabalenka",
+          "posting_time": "9:00 AM ET (2 X posts)",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#Sabalenka"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Gauff took the second set and made Sabalenka work for 2 hours 9 minutes. Sabalenka answered with a 6-3 third. 0 double faults. A record crowd of 16,380 watched her win. H2H now 7-6. 🎾 #TennisFanrecap #MiamiOpen #Gauff",
+          "posting_time": "9:00 AM ET (2 X posts)",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#Gauff"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nAryna Sabalenka is the 2026 Miami Open champion — and she joined a very short list of legends to do it.\n\nSabalenka beat Coco Gauff 6-2, 4-6, 6-3 in 2 hours 9 minutes on Saturday evening to win her second consecutive Miami title and complete the WTA Sunshine Double. She's only the fifth woman in history to sweep Indian Wells and Miami in the same season, joining Steffi Graf, Kim Clijsters, Victoria Azarenka, and Iga Swiatek. It's her 24th career WTA title, and she ends the tournament 23-1 on the season.\n\nThe match had a real story to it. Sabalenka dominated the first set with trademark power, taking it 6-2. Gauff steadied herself, won the second set 6-4, and for a stretch in the third it felt like anyone's match. But Sabalenka broke early in the third and never looked back — the kind of mental resilience that separates good champions from great ones. She served zero double faults on the day; Gauff served seven. 73% first serves in for Sabalenka.\n\nThe crowd of 16,380 at Hard Rock Stadium was a record for any WTA final in North America — and they got the final they came to see. Two elite players at their best.\n\nDid you think Sabalenka would hold on after Gauff took the second set?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM ET\n\n```\nSabalenka wins Miami. 6-2, 4-6, 6-3. Second straight title. Women's Sunshine Double.\n```",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-sabalenka-wins-miami-wta-final-2026.html",
+        "headline": "Sabalenka Battles Past Gauff in Three Sets to Complete Women's Sunshine Double",
+        "word_count": 654
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sabalenka wins WTA Miami Final\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Photo source:** imagn\n- **Search term:** \"Aryna Sabalenka\"\n- **Credit:** (USA TODAY Sports Images)\n- **Canva headline:** BACK-TO-BACK MIAMI CHAMPION\n- **Canva subtitle:** Sabalenka d. Gauff 6-2, 4-6, 6-3\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Photo source:** imagn\n- **Search term:** \"Coco Gauff\"\n- **Credit:** (USA TODAY Sports Images)\n- **Canva headline:** SUNSHINE DOUBLE — 5TH WOMAN EVER\n- **Canva subtitle:** Sabalenka joins Graf, Clijsters, Azarenka, Swiatek\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Monte Carlo Masters preview — Alcaraz defends, Djokovic absent",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Clay season opens next week. Alcaraz is defending Monte Carlo champion. Sinner arrives on the best form of his career. Djokovic and Rune both absent. Wildcards include farewell appearances by Wawrinka and Monfils.",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Clay season next. Monte Carlo, April 5-12. Alcaraz defends — Sinner arrives on the best form of his career. Djokovic is out (shoulder). Wawrinka and Monfils get wildcards. The draw is wide open. 🎾 #TennisFanrecap #MonteCarlo #ATP",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MonteCarlo",
+            "#ATP"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThe hard courts are packed away. Clay season starts next week.\n\nThe Monte Carlo Masters runs April 5-12 at the Monte Carlo Country Club — a clay-court cathedral built into the hills above the Mediterranean, with the smallest and perhaps most prestigious draw on the Masters circuit. 56 players. One title. The start of the spring clay swing that leads all the way to Roland Garros.\n\nThe defending champion is Carlos Alcaraz, who has been the king of red clay for two years running — he won Monte Carlo, Rome, and Roland Garros in 2025. He enters as the man to beat, even as Sinner arrives fresh off the Sunshine Double and looking like the hottest player in the world. Their clay-court collision — if it happens — could be the defining rivalry match of the spring.\n\nNotable absences: Novak Djokovic (right shoulder, his first Monte Carlo miss since 2011) and Holger Rune (Achilles). That clears the draw meaningfully. Wildcards include Stan Wawrinka and Gaël Monfils — both tournament legends, both in the twilight of their careers, both capable of producing magic on these courts one more time.\n\nWho are you picking for Monte Carlo — Alcaraz or Sinner?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM ET\n\n```\nClay season starts April 5. Monte Carlo Masters. Alcaraz defends. Sinner arrives in the form of his life.\n```",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-monte-carlo-preview-2026.html",
+        "headline": "Monte Carlo 2026: Clay Season Opens With Alcaraz vs. Sinner as the Central Storyline",
+        "word_count": 648
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monte Carlo Masters Preview\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Photo source:** imagn\n- **Search term:** \"Carlos Alcaraz\"\n- **Credit:** (USA TODAY Sports Images)\n- **Canva headline:** CLAY SEASON STARTS\n- **Canva subtitle:** Monte Carlo Masters — April 5-12\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Photo source:** imagn\n- **Search term:** \"Jannik Sinner\"\n- **Credit:** (USA TODAY Sports Images)\n- **Canva headline:** ALCARAZ VS. SINNER ON CLAY\n- **Canva subtitle:** Monte Carlo, April 5-12\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Rankings update — Sabalenka 76th week at No. 1, Gauff rises to No. 3, Lehecka career high",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Miami produces significant ranking movement. Sabalenka passes Swiatek's all-time consecutive weeks at No. 1 record. Gauff's finalist run vaults her past Swiatek. Lehecka rockets to career-high No. 12.",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Miami rankings: Sabalenka hits 76 straight weeks at WTA No. 1 — surpassing Swiatek's all-time record. Gauff rises to No. 3, passing Swiatek. Lehečka jumps to career-high No. 12. 📊 #TennisFanrecap #WTARankings #ATPRankings",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#WTARankings",
+            "#ATPRankings"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThe 2026 Miami Open has reshuffled the rankings — and one number stands out above all others.\n\nAryna Sabalenka is now in her 76th consecutive week at WTA No. 1, surpassing Iga Swiatek's previous all-time record for the longest reign at the top. Think about that: 76 weeks of tennis, every tournament, every week, leading the rankings. Swiatek held that record for years. Sabalenka has now eclipsed it.\n\nThe rest of the top four has also shifted. Coco Gauff's run to the Miami final lifts her to No. 3, moving past Swiatek, who drops to No. 4. The American's season has been a quiet ascent — not the headlines of Sabalenka's dominance, but a consistent climb toward the summit.\n\nOn the ATP side, the headline is Jiří Lehečka. The 24-year-old Czech arrived in Miami ranked outside the top 20. He leaves as a Masters 1000 finalist, ranked at a career-high No. 12. One week transformed his standing in the game. Sinner stays No. 1; Djokovic stays No. 3 despite having barely played in 2026.\n\nThe rankings are a snapshot of a sport in motion. Who do you think ends the year at No. 1 on either tour?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM ET\n\n```\nSabalenka: 76 weeks at No. 1. Gauff rises to No. 3. Lehečka hits career-high No. 12. Miami rankings update.\n```",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-04-rankings-update-post-miami-2026.html",
+        "headline": "Post-Miami Rankings: Sabalenka Breaks All-Time No. 1 Streak, Gauff Passes Swiatek",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rankings Update\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Photo source:** imagn\n- **Search term:** \"Aryna Sabalenka\"\n- **Credit:** (USA TODAY Sports Images)\n- **Canva headline:** 76 WEEKS AT No. 1\n- **Canva subtitle:** Sabalenka breaks Swiatek's record streak\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Photo source:** imagn\n- **Search term:** \"Jiri Lehecka\"\n- **Credit:** (USA TODAY Sports Images)\n- **Canva headline:** CAREER HIGH No. 12\n- **Canva subtitle:** Lehečka — Miami finalist\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Italian doubles sweep — Bolelli/Vavassori ATP, Errani/Paolini WTA doubles",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Italy dominates Miami doubles. Bolelli/Vavassori win first Masters 1000 doubles title. Errani/Paolini (reigning Olympic gold medalists) win the WTA doubles title. A historic sweep for Italian tennis.",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Italy wins three of four Miami titles. Sinner (singles). Bolelli/Vavassori (ATP doubles). Errani/Paolini (WTA doubles). The Olympic gold medalists extending their run. An Italian weekend to remember. 🇮🇹 #TennisFanrecap #MiamiOpen #Tennis",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisFanrecap",
+            "#MiamiOpen",
+            "#Tennis"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nItaly won three of four Miami Open titles this week. Let that sink in.\n\nJannik Sinner won the men's singles. Simone Bolelli and Andrea Vavassori won the ATP doubles, beating Harri Heliövaara and Henry Patten 6-4, 6-2 to claim their first Masters 1000 doubles title. And Sara Errani and Jasmine Paolini — the reigning Olympic doubles gold medalists from Paris 2024 — won the WTA doubles crown.\n\nThree titles. One nation. One week.\n\nItalian tennis has been on an extraordinary run. Sinner has been the flag-bearer with two Grand Slam titles and now the Sunshine Double. But the depth behind him is real: Bolelli and Vavassori have quietly built one of the best doubles partnerships on the circuit, and Errani/Paolini have been dominant ever since their Olympic triumph made them the most famous doubles team in the world.\n\nFor a country that once struggled to produce singles champions, Italy is now collecting hardware at one of tennis's biggest events across all draws. A remarkable week for Italian tennis.\n\nWhich Italian player or team impressed you most this week?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM ET\n\n```\nItaly wins three of four Miami titles. Sinner. Bolelli/Vavassori. Errani/Paolini. Incredible week for Italian tennis.\n```",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-05-italy-miami-doubles-sweep-2026.html",
+        "headline": "Italy Wins Three of Four Miami Open Titles — A Historic Haul for Italian Tennis",
+        "word_count": 601
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Italian Doubles Sweep\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Photo source:** imagn\n- **Search term:** \"Jasmine Paolini\"\n- **Credit:** (USA TODAY Sports Images)\n- **Canva headline:** ITALY WINS THREE TITLES\n- **Canva subtitle:** Sinner · Bolelli/Vavassori · Errani/Paolini"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

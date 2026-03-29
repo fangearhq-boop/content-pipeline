@@ -6,13 +6,13 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-03-28 |
-| Writing | Complete (all steps) | 2026-03-28 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-03-28 |
-| Compile | Complete (07-content-data.json) | 2026-03-28 |
-| Dashboard | Complete (review-dashboard.html) | 2026-03-28 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-03-28 |
-| Publishing | Attempted — push failed (PAT lacks write access to content-dashboards repo) | 2026-03-28 |
+| Research | Complete | 2026-03-29 |
+| Writing | Complete (all steps) | 2026-03-29 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-03-29 |
+| Compile | Complete (07-content-data.json) | 2026-03-29 |
+| Dashboard | Complete (review-dashboard.html) | 2026-03-29 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-03-29 |
+| Publishing | Attempted — push failed (PAT lacks write access to content-dashboards repo) | 2026-03-29 |
 
 ## Queue
 
@@ -23,6 +23,38 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-03-29 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 2 Tier 2, 1 Tier 3)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5
+- **PostPlanner exports:** tfr-postplanner-2026-03-29.xlsx (17 posts), tfr-postplanner-tobi-2026-03-29.xlsx (12 TOBI posts)
+- **Coverage:** Sinner wins ATP Miami Final (Sunshine Double), Sabalenka wins WTA Miami Final (Sunshine Double), Monte Carlo preview, Post-Miami rankings update, Italian doubles sweep
+- **Research:** 6+ web searches covering Miami finals results, WTA/ATP rankings, Monte Carlo draw/preview, Italian doubles, Sunshine Double history
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 23 claims extracted; image warnings expected (production not yet started)
+  - compile-content-data.py: "Fact-Check no log found" note is cosmetic — fact-check log written by verify-facts.py; all content compiled successfully; 7 X posts, 5 FB posts, 5 articles
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as previous runs)
+  - Key facts: Sinner 6-2, 6-2 vs Lehečka; Sabalenka 6-2, 4-6, 6-3 vs Gauff; Sabalenka 5th woman to complete Sunshine Double (after Graf/Clijsters/Azarenka/Swiatek); Sabalenka 76th consecutive week at WTA No. 1 (record); Gauff rises to No. 3; Lehečka career-high No. 12
+- **Files created:**
+  - `tennis-content-2026-03-29/00-daily-brief.md`
+  - `tennis-content-2026-03-29/01-research-notes.md`
+  - `tennis-content-2026-03-29/02-story-analysis.md`
+  - `tennis-content-2026-03-29/03-social-posts-x.md`
+  - `tennis-content-2026-03-29/04-social-posts-facebook.md`
+  - `tennis-content-2026-03-29/05-image-concepts.md`
+  - `tennis-content-2026-03-29/06-fact-check-log.md`
+  - `tennis-content-2026-03-29/07-content-data.json`
+  - `tennis-content-2026-03-29/07-image-manifest.md`
+  - `tennis-content-2026-03-29/review-dashboard.html`
+  - `tennis-content-2026-03-29/articles/article-01-sinner-wins-miami-sunshine-double-2026.html`
+  - `tennis-content-2026-03-29/articles/article-02-sabalenka-wins-miami-wta-final-2026.html`
+  - `tennis-content-2026-03-29/articles/article-03-monte-carlo-preview-2026.html`
+  - `tennis-content-2026-03-29/articles/article-04-rankings-update-post-miami-2026.html`
+  - `tennis-content-2026-03-29/articles/article-05-italy-miami-doubles-sweep-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-03-29.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-03-29.xlsx`
 
 ### 2026-03-28 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

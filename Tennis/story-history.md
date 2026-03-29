@@ -23,3 +23,8 @@ Track previously covered stories to avoid repetition and maintain content freshn
 | 2026-03-28 | Sinner d. Zverev 6-3, 7-6(4) — Miami SF; H2H now 8-4; 15 aces | T2 | X, FB, Article | 7th consecutive win vs Zverev; 74% 1st serves |
 | 2026-03-28 | Lehecka d. Fils 6-2, 6-2 — Miami SF; 75 min; 0 breaks in 5 matches | T2 | X, FB, Article | 8th Czech to reach M1000 final; H2H 2-2 |
 | 2026-03-28 | Goffin retiring at season's end (age 35, knee); Djokovic out of Monte Carlo (shoulder) | T2 | X, FB, Article | Goffin: career No. 7, 6 titles, 1st Belgian Top 10; Djokovic: 1st MC absence since 2011 |
+| 2026-03-29 | Sinner wins Miami ATP Final 6-2, 6-2 — Sunshine Double (first man since Federer 2017) | T1 | X, FB, Article | Never dropped a set in Miami; H2H vs Lehečka now 4-0 |
+| 2026-03-29 | Sabalenka wins WTA Miami Final 6-2, 4-6, 6-3 — Women's Sunshine Double | T1 | X, FB, Article | 5th woman in history; 24th title; season record 23-1; record crowd 16,380; H2H 7-6 |
+| 2026-03-29 | Monte Carlo Masters preview — Alcaraz defends, Djokovic/Rune absent, Wawrinka/Monfils wildcards | T2 | X, FB, Article | April 5-12; 56-player draw; Sinner enters on career-best form |
+| 2026-03-29 | Rankings update — Sabalenka 76 weeks at WTA No. 1 (record), Gauff rises to No. 3, Lehečka career-high No. 12 | T2 | X, FB, Article | Gauff passes Swiatek; Sinner remains ATP No. 1 |
+| 2026-03-29 | Italy sweeps Miami doubles — Bolelli/Vavassori ATP, Errani/Paolini WTA; 3 of 4 titles to Italy | T3 | X, FB | Errani/Paolini are Paris 2024 Olympic gold medalists |
