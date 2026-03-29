@@ -1,0 +1,310 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-29",
+  "compiled_at": "2026-03-29T12:03:32.843019+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tiger Woods Arrested on DUI Suspicion — BAC Zero, Medication Suspected",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tiger Woods arrested on DUI suspicion in Jupiter Island, FL.\n\nHis BAC? 0.00. Zero alcohol.\n\nRefused urine test — medication impairment suspected.\n\nReleased after 8 hours in jail.\n\nMasters is in 2 weeks. Trump: \"He won't be playing.\"\n\n#GolfFanrecap #TigerWoods #PGATour",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#TigerWoods",
+            "#PGATour"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tiger played TGL 48 hours before his arrest.\n\nViewership hit 1M. Showed he could still compete.\n\nThen: rollover crash, 0.00 BAC, refusal charge.\n\n4th car crash since 2009. 2nd DUI in 9 years.\n\nWorst timing in golf. 😔\n\n#GolfFanrecap #TigerWoods",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#TigerWoods"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-tiger-woods-dui-arrest.html",
+        "headline": "Tiger Woods Arrested on DUI Suspicion — BAC 0.00, Medication Suspected",
+        "word_count": 723
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tiger Woods DUI Arrest — Breaking\n\n**Social Image (1080×1350)**\nVisual: Tiger Woods at tournament or press conference — neutral expression or walking; avoid celebration imagery\n\nPhoto Search Terms (Imagn):\n1. \"Tiger Woods\"\n2. \"Tiger Woods golf\"\n3. \"Tiger Woods PGA Tour\"\n\nText Overlay:\n- Headline (Bebas Neue / bold, white): TIGER WOODS ARRESTED\n- Subtitle (accent red): BAC: 0.00 • MEDICATION SUSPECTED\n- Bar: dark overlay bottom third\n\nCredit: (USA TODAY Sports Images)\n\n**Article Hero (1200×630)**\nSame Tiger image, landscape crop.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Gary Woodland Leads Houston Open Into Sunday — Seeking First Win Since 2019 U.S. Open",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Gary Woodland leads Houston Open at 18-under. ⛳\n\nLast win: 2019 U.S. Open — nearly 7 years ago.\n\nSince then: brain tumor surgery, PTSD diagnosis.\n\n1 shot clear of Højgaard. Final round now.\n\nComeback story of the year. 🏆\n\n#GolfFanrecap #HoustonOpen #PGATour",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#HoustonOpen",
+            "#PGATour"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-woodland-leads-houston-open.html",
+        "headline": "Woodland Leads Houston Open Into Sunday: Seeking First Win Since 2019 U.S. Open",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Gary Woodland Houston Open Leader\n\n**Social Image (1080×1350)**\nVisual: Gary Woodland mid-swing or celebrating on course\n\nPhoto Search Terms (Imagn):\n1. \"Gary Woodland PGA Tour\"\n2. \"Gary Woodland\"\n3. \"Gary Woodland golf\"\n\nText Overlay:\n- Headline: WOODLAND LEADS HOUSTON\n- Subtitle: 18-UNDER • FINAL ROUND\n- Bar: dark overlay bottom third\n\nCredit: (USA TODAY Sports Images)\n\n**Article Hero (1200×630)**\nSame Woodland image, landscape crop.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Masters 2026 Preview — Two Weeks Away, McIlroy Defending, Scheffler Chasing Grand Slam",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Masters is 2 weeks away. 🌿\n\nScheffler +480 (Grand Slam bid)\nMcIlroy +1000 (defending, back injury)\nRahm +1200 (hot on LIV)\nDeChambeau +1200 (back-to-back wins)\n\nAnd Tiger? Arrested 2 days ago. Trump says he won't play.\n\n#GolfFanrecap #TheMasters #Augusta",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#TheMasters",
+            "#Augusta"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-03-masters-2026-preview.html",
+        "headline": "Masters 2026 Preview: Scheffler's Grand Slam, McIlroy Defending, Tiger's Fate Unknown",
+        "word_count": 828
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Masters 2026 Preview\n\n**Social Image (1080×1350)**\nVisual: Augusta National — Amen Corner, 12th hole, or Clubhouse facade; or Scheffler/McIlroy at Augusta\n\nPhoto Search Terms (Imagn):\n1. \"Scottie Scheffler Augusta\"\n2. \"Rory McIlroy Augusta\"\n3. \"Augusta National Masters\"\n\nText Overlay:\n- Headline: MASTERS 2026\n- Subtitle: APRIL 9–12 • AUGUSTA NATIONAL\n- Bar: dark overlay bottom third\n\nCredit: (USA TODAY Sports Images)\n\n**Article Hero (1200×630)**\nSame Augusta/Masters image, landscape crop.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "DeChambeau Dominates LIV Golf — Back-to-Back Wins, 5th Career Title",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "DeChambeau in March: 🏆🏆\n\n✅ LIV Singapore (playoff win)\n✅ LIV South Africa (playoff win vs. Rahm)\n\n5 career LIV titles. Heading to Augusta.\n\nMeanwhile, Rahm leads ALL male pros in strokes gained.\n\n3 runner-ups in 5 events. Best player not winning? 🤔\n\n#GolfFanrecap #LIVGolf",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LIVGolf"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-dechambeau-liv-back-to-back.html",
+        "headline": "DeChambeau Wins Back-to-Back on LIV: 5 Career Titles After Playoff Win Over Rahm",
+        "word_count": 637
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DeChambeau LIV Back-to-Back\n\n**Social Image (1080×1350)**\nVisual: Bryson DeChambeau celebrating or holding trophy — LIV Golf or PGA Tour\n\nPhoto Search Terms (Imagn):\n1. \"Bryson DeChambeau\"\n2. \"Bryson DeChambeau golf\"\n3. \"DeChambeau LIV Golf\"\n\nText Overlay:\n- Headline: DECHAMBEAU WINS AGAIN\n- Subtitle: BACK-TO-BACK • 5 CAREER LIV TITLES\n- Bar: dark overlay bottom third\n\nCredit: (USA TODAY Sports Images)\n\n**Article Hero (1200×630)**\nSame DeChambeau image, landscape crop.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Rory McIlroy Goes Dark Before Masters — Defending Champion Sits Out All Pre-Augusta Events",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Rory won't play before the Masters.\n\nBack injury. Barely made Players cut. T-46.\n\nNew Amazon doc: \"came to resent the majors.\"\n\nDefending champion. Skipping everything. 2 weeks out.\n\nBold or reckless? ⛳\n\n#GolfFanrecap #RoryMcIlroy #Masters2026",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#RoryMcIlroy",
+            "#Masters2026"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-mcilroy-masters-prep-documentary.html",
+        "headline": "McIlroy Goes Dark: Defending Champion Skipping All Pre-Masters Events",
+        "word_count": 659
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rory McIlroy Masters Prep / Documentary\n\n**Social Image (1080×1350)**\nVisual: Rory McIlroy at Augusta — practice or competition; or on course looking focused\n\nPhoto Search Terms (Imagn):\n1. \"Rory McIlroy\"\n2. \"Rory McIlroy golf\"\n3. \"Rory McIlroy Masters\"\n\nText Overlay:\n- Headline: RORY GOES DARK\n- Subtitle: DEFENDING CHAMP • NO PRE-MASTERS EVENTS\n- Bar: dark overlay bottom third\n\nCredit: (USA TODAY Sports Images)\n\n**Article Hero (1200×630)**\nSame McIlroy image, landscape crop.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Lydia Ko Fires Career-Best 60 at LPGA Ford Championship",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Lydia Ko opened the LPGA Ford Championship with a 60. 🔥\n\n12-under. Career best. 4 straight birdies to start.\n\nTwo-time Olympic gold medalist. Former world No. 1.\n\nAnd she's still doing this. 👏\n\n#GolfFanrecap #LPGA #LydiaKo",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGA",
+            "#LydiaKo"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-06-lydia-ko-round-of-60.html",
+        "headline": "Lydia Ko Cards Career-Best 60 to Lead LPGA Ford Championship",
+        "word_count": 493
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lydia Ko Round of 60\n\n**Social Image (1080×1350)**\nVisual: Lydia Ko celebrating or mid-swing on LPGA Tour\n\nPhoto Search Terms (Imagn):\n1. \"Lydia Ko LPGA\"\n2. \"Lydia Ko golf\"\n3. \"Lydia Ko\"\n\nText Overlay:\n- Headline: LYDIA KO SHOOTS 60\n- Subtitle: CAREER BEST • 12-UNDER\n- Bar: dark overlay bottom third\n\nCredit: (USA TODAY Sports Images)\n\n**Article Hero (1200×630)**\nSame Ko image, landscape crop.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Golf Ball Rollback Now In Effect for Elite Events — 15 Yards Shorter",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Golf ball rollback is here for elite competitions. ⚡\n\nNew cap: 317 yards (2026 Model Local Rule).\n\n~15 yards shorter for the biggest hitters.\n\nRecreational golf? Unaffected.\n\nPGA Tour hasn't committed to adopting it. 👀\n\n#GolfFanrecap #Golf #Rollback",
+          "posting_time": "8:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Golf",
+            "#Rollback"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Golf Ball Rollback\n\n**Social Image (1080×1350)**\nVisual: Golfer mid-drive at tour event; or close-up of golf ball; or wide fairway aerial\n\nPhoto Search Terms (Imagn):\n1. \"Scottie Scheffler driving\"\n2. \"PGA Tour driving golf\"\n3. \"golf swing driver\"\n\nText Overlay:\n- Headline: THE ROLLBACK IS HERE\n- Subtitle: 317 YARDS • ELITE COMPETITIONS ONLY\n- Bar: dark overlay bottom third\n\nCredit: (USA TODAY Sports Images)\n\n**Article Hero (1200×630)**\nSame golf swing image, landscape crop."
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 6,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

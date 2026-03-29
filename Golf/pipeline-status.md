@@ -7,12 +7,12 @@ Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-03-28 |
-| Writing | Complete (all 7 files + 5 articles) | 2026-03-28 |
-| Fact-check | Complete (verify-facts.py run) | 2026-03-28 |
-| Scripts | Complete (all 6 scripts run) | 2026-03-28 |
-| PostPlanner | Complete (standard + TOBI exports) | 2026-03-28 |
-| Dashboard | Generated locally (push blocked — see notes) | 2026-03-28 |
+| Research | Complete | 2026-03-29 |
+| Writing | Complete (all 7 files + 6 articles) | 2026-03-29 |
+| Fact-check | Complete (verify-facts.py run) | 2026-03-29 |
+| Scripts | Complete (all 6 scripts run) | 2026-03-29 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-03-29 |
+| Dashboard | Generated locally (push blocked — see notes) | 2026-03-29 |
 | Published | Pending upload | — |
 
 ## Queue
@@ -20,6 +20,25 @@ Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 (No items in queue.)
 
 ## Notes
+
+### Pipeline Run: 2026-03-29
+- **Research:** 12 web searches covering PGA Tour (Houston Open R4), LPGA (Ford Championship final day), LIV Golf (South Africa recap), Masters preview, Tiger Woods DUI arrest, Rory McIlroy injury/documentary, Scottie Scheffler withdrawal, Jon Rahm, ball rollback
+- **Stories:** 7 stories tiered (3x T1, 3x T2, 1x T3)
+- **Coverage:** PGA Tour (2), LPGA (1), LIV Golf (1), Masters Preview (1), Tiger/breaking (1), Rules (1)
+- **X Posts:** 8 posts across 7 stories (8 AM – 8:30 PM ET), all verified under 280 chars
+- **Facebook Posts:** 14 posts (7 long-form + 7 image captions)
+- **Articles:** 6 HTML5 articles (Stories 1–6)
+- **Scripts run:**
+  - `verify-facts.py`: 24 claims, 63 HIGH confidence; image warnings expected (not_started)
+  - `compile-content-data.py`: 7 stories, 8 tweets, 6 articles compiled to JSON
+  - `generate-review-dashboard.py`: Dashboard HTML generated (28 items)
+  - `publish-unified-dashboard.py`: Push to content-dashboards failed (PAT scope limited to content-pipeline)
+  - `generate-postplanner-export.py`: `gfr-postplanner-2026-03-29.xlsx` (22 posts)
+  - `generate-postplanner-export.py --tobi`: `gfr-postplanner-tobi-2026-03-29.xlsx` (15 TOBI posts)
+- **Key facts note:** Houston Open R4 was in progress at research time; articles cover Woodland leading entering Sunday — final result not confirmed. Tiger Woods DUI arrest: all facts from ABC/NPR/CNN — HIGH confidence.
+- **Files created:**
+  - `golf-content-2026-03-29/00-daily-brief.md` through `07-image-manifest.md`
+  - `golf-content-2026-03-29/articles/article-01` through `article-06`
 
 ### Pipeline Run: 2026-03-28
 - **Research:** Web searches across PGA Tour (Houston Open), LPGA (Ford Championship, Founders Cup), LIV Golf (Singapore/South Africa)
