@@ -1,0 +1,360 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-29",
+  "compiled_at": "2026-03-29T11:45:26.045567+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "1",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "2",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "3",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "4",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "5",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "6",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "7",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Japanese GP Race Result — Antonelli Wins Round 3 at Suzuka",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Race recap — Antonelli wins from pole, Piastri P2 (first race of season), Leclerc P3, Russell P4; Bearman crash triggers SC",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "JAPANESE GP RESULT 🏁\n\nP1 Antonelli (Mercedes)\nP2 Piastri (McLaren) — first race of 2026\nP3 Leclerc (Ferrari)\nP4 Russell (Mercedes)\n\nBearman crash → safety car. Antonelli controlled it from pole to flag.\n\nTwo wins in three races. 🔥\n\n#F1Fanrecap #JapaneseGP #F1",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#JapaneseGP",
+            "#F1"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Piastri: P2 at Suzuka in his FIRST race start of 2026. 👀\n\nMissed Australia (formation lap crash) and China (electrical failure).\n\nMcLaren had 0 points from Rounds 1-2. Now P3 in constructors'.\n\nSerious statement. 🏎️\n\n#F1Fanrecap #McLaren #JapaneseGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#McLaren",
+            "#JapaneseGP"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-antonelli-wins-japanese-gp.html",
+        "headline": "Antonelli Wins Japanese GP: Second Victory in Three Races at Suzuka",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Japanese GP Race Result — Antonelli Wins Round 3\n\n**Social Image (1080×1350)**\nVisual: Kimi Antonelli celebrating race win — helmet off, arms raised, or on the podium at Suzuka\n\nPhoto Search Terms (Imagn):\n1. \"Kimi Antonelli Mercedes\"\n2. \"Antonelli F1 celebration\"\n3. \"Kimi Antonelli\"\n\nText Overlay:\n- Headline (Bebas Neue / bold, white): ANTONELLI WINS JAPAN\n- Subtitle (accent color): P2 PIASTRI • P3 LECLERC\n- Bar: dark overlay bottom third\n\nCredit: (USA TODAY Sports Images)\n\n**Article Hero (1200×630)**\nSame Antonelli celebration, landscape crop.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Youngest F1 Championship Leader in History",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Historic milestone — 19 years, 6 months, 25 days; youngest ever to lead F1 championship",
+      "posting_window": "8:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "History made at Suzuka. 🏆\n\nKimi Antonelli — 19 years, 6 months, 25 days — YOUNGEST F1 championship leader ever.\n\nBeats Hamilton's record of 22 years, 5 months, 6 days (2007).\n\nFirst teenager EVER to lead the F1 championship. 🤯\n\n#F1Fanrecap #Antonelli #F1History",
+          "posting_time": "8:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Antonelli",
+            "#F1History"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Antonelli: 3 races. 2 wins. 1 history book. 📖\n\nHe has pole in both of his race victories — China and Japan.\n\nLeads Russell by 9 points. Mercedes leads Ferrari by 45 in constructors'.\n\nThe 2026 F1 season has its first teenage championship leader. 🔥\n\n#F1Fanrecap #F1 #Antonelli",
+          "posting_time": "8:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-antonelli-youngest-championship-leader.html",
+        "headline": "History Made: Antonelli Becomes Youngest F1 Championship Leader Ever at 19",
+        "word_count": 695
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Youngest F1 Championship Leader\n\n**Social Image (1080×1350)**\nVisual: Antonelli on track or podium with championship leader board / Suzuka background\n\nPhoto Search Terms (Imagn):\n1. \"Kimi Antonelli Mercedes F1\"\n2. \"Antonelli championship leader\"\n3. \"Kimi Antonelli\"\n\nText Overlay:\n- Headline: YOUNGEST EVER\n- Subtitle: CHAMPIONSHIP LEADER • AGE 19\n- Bar: dark bottom third\n\nCredit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen/Red Bull Crisis Deepens — Eliminated Q2, \"Undriveable\"",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Verstappen eliminated in Q2 while teammate Hadjar reaches Q3; RB22 reportedly 10kg overweight",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Verstappen's 2026 so far: 👇\n\n❌ Out in Q2 at Suzuka\n❌ Calls car \"undriveable\"\n❌ Rookie Hadjar outqualified him (P8 vs P11)\n❌ 8 pts in P8 after 3 races\n❌ Car 10kg overweight\n\n\"Months\" to close the gap. This is a crisis. 😬\n\n#F1Fanrecap #RedBull #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#RedBull",
+            "#F1"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-verstappen-redbull-crisis.html",
+        "headline": "Verstappen Calls RB22 \"Undriveable\" After Suzuka — Rookie Hadjar Outqualifies Him",
+        "word_count": 696
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen/Red Bull Crisis\n\n**Social Image (1080×1350)**\nVisual: Max Verstappen in Red Bull RB22 cockpit looking frustrated, or walking away from car\n\nPhoto Search Terms (Imagn):\n1. \"Max Verstappen Red Bull Racing\"\n2. \"Verstappen Red Bull\"\n3. \"Max Verstappen\"\n\nText Overlay:\n- Headline: \"UNDRIVEABLE\"\n- Subtitle: VERSTAPPEN • P11 QUALIFYING • P8 CHAMPIONSHIP\n- Bar: dark bottom third\n\nCredit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Piastri P2 on First Race Start — McLaren Fights Back",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Piastri returns after missing Australia + China (double DNS), finishes P2 at Suzuka",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Piastri missed the first 2 races of 2026.\n\nFormation lap crash in Australia. Electrical failure in China.\n\nHe showed up at Suzuka, qualified P3, finished P2. 🏎️\n\nMcLaren: 0 points to podium in one race.\n\nWelcome back. 🏆\n\n#F1Fanrecap #McLaren #JapaneseGP",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#McLaren",
+            "#JapaneseGP"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-piastri-return-p2-suzuka.html",
+        "headline": "Piastri Skips Two Races, Then Finishes P2 at Suzuka: McLaren's Comeback Driver",
+        "word_count": 691
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Piastri P2 Return\n\n**Social Image (1080×1350)**\nVisual: Oscar Piastri in McLaren papaya, celebrating or racing position\n\nPhoto Search Terms (Imagn):\n1. \"Oscar Piastri McLaren\"\n2. \"Piastri McLaren F1\"\n3. \"Oscar Piastri\"\n\nText Overlay:\n- Headline: PIASTRI P2 — HE'S BACK\n- Subtitle: FIRST RACE OF 2026 • SECOND PLACE\n- Bar: dark bottom third\n\nCredit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Championship Standings After Japan — Antonelli 72, Russell 63",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Full standings update; Mercedes runaway lead, Verstappen 8th on 8 points",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "F1 standings after Round 3 🏆\n\nDRIVERS:\nNo. 1 Antonelli — 72\nNo. 2 Russell — 63\nNo. 3 Leclerc — 34\nNo. 4 Hamilton — 33\n\nCONSTRUCTORS:\nNo. 1 Mercedes — 135\nNo. 2 Ferrari — 90\nNo. 3 McLaren — 56\nNo. 4 Red Bull — 16\n\nVerstappen: P8, 8 pts. 😳\n\n#F1Fanrecap #F1 #Standings",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Standings"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-f1-championship-standings-round-3.html",
+        "headline": "F1 Championship Standings After Round 3: Antonelli 72, Mercedes Dominant, Verstappen Drowning",
+        "word_count": 712
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n**Social Image (1080×1350)**\nVisual: Wide shot of Suzuka podium — Antonelli, Piastri, Leclerc in post-race celebration\n\nPhoto Search Terms (Imagn):\n1. \"F1 Japanese Grand Prix Suzuka podium\"\n2. \"Suzuka circuit F1\"\n3. \"Formula 1 podium celebration\"\n\nText Overlay:\n- Headline: F1 STANDINGS ROUND 3\n- Subtitle: ANTONELLI 72 • RUSSELL 63\n- Bar: dark bottom third\n\nCredit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Hamilton at Suzuka — Five-Time Suzuka Winner, Ferrari Resurgence",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Hamilton's Japan record + SF-26 development contribution story",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Hamilton has won the Japanese GP 5 times. 🏆\n\nSunday: first time at Suzuka in Ferrari red, after 19 visits with McLaren and Mercedes.\n\n\"This car has my DNA in it\" — he worked the SF-26 simulator all winter.\n\nThe resurgence is real. 🔥\n\n#F1Fanrecap #Hamilton #Ferrari",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Hamilton",
+            "#Ferrari"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-06-hamilton-ferrari-suzuka.html",
+        "headline": "Hamilton Races Suzuka in Ferrari Red: The Five-Time Winner at His Favorite Circuit",
+        "word_count": 652
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton at Ferrari — Suzuka\n\n**Social Image (1080×1350)**\nVisual: Lewis Hamilton in Ferrari red at Suzuka, racing or in cockpit\n\nPhoto Search Terms (Imagn):\n1. \"Lewis Hamilton Ferrari\"\n2. \"Hamilton Ferrari F1\"\n3. \"Lewis Hamilton\"\n\nText Overlay:\n- Headline: HAMILTON AT SUZUKA\n- Subtitle: IN FERRARI RED • 5-TIME WINNER\n- Bar: dark bottom third\n\nCredit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "5-Week Break Begins — Miami GP May 3",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Season goes on pause after Japan; Bahrain/Saudi cancelled (Iran war); next race Miami May 3",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Japan was the last F1 race until May 3. 📅\n\nBahrain and Saudi Arabia were cancelled due to the conflict in the region.\n\nNext stop: Miami GP — 5 weeks away.\n\nMercedes leads both championships. Red Bull needs a miracle.\n\nSee you in Miami. 🌴\n\n#F1Fanrecap #MiamiGP #F1",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP",
+            "#F1"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Miami GP Preview / Break\n\n**Social Image (1080×1350)**\nVisual: Miami GP circuit or Miami skyline / F1 car on track with Miami aesthetic\n\nPhoto Search Terms (Imagn):\n1. \"F1 Miami Grand Prix Hard Rock Stadium\"\n2. \"Miami Grand Prix Formula 1\"\n3. \"F1 street circuit Miami\"\n\nText Overlay:\n- Headline: SEE YOU IN MIAMI\n- Subtitle: MAY 3 • 5 WEEKS AWAY\n- Bar: dark bottom third\n\nCredit: (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 6,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

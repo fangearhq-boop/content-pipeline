@@ -1,8 +1,8 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-28
-- **Steps Completed**: 1-10b + 12-14 (Full pipeline minus image production and dashboard push)
+- **Date**: 2026-03-29
+- **Steps Completed**: Full pipeline (1-14) minus image production and dashboard push
 - **Dashboard Published**: Local only (content-dashboards push requires PAT with write access to fangearhq-boop/content-dashboards)
 
 ## Deploy Info
@@ -10,6 +10,17 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-29
+- **Steps completed:** 1 (Research — 12 web searches), 2 (Story History), 3 (Daily Brief — 7 stories), 4 (Research Notes), 5 (Story Analysis), 6 (X Posts — 9), 7 (Facebook Posts — 14), 8 (Image Concepts), 9 (Articles — 6), 10 (Fact-Check — 25 claims, 61 HIGH), 10b (Compile — 7 stories, 9 tweets, 6 articles), 11 (Image Manifest), 12 (Story History updated), 13 (Dashboard generated — 29 items), 14 (PostPlanner exports x2)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards
+- **Stories:** 7 total (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 9, all under 280 characters
+- **Articles:** 6 articles (Stories 1-6)
+- **PostPlanner exports:** f1fr-postplanner-2026-03-29.xlsx (23 posts) + f1fr-postplanner-tobi-2026-03-29.xlsx (16 TOBI posts)
+- **Context:** Japanese GP race day — Antonelli wins from pole (2nd win in 3 races). Youngest F1 championship leader in history (19y 6m 25d, beats Hamilton 2007). Piastri P2 on first race start of 2026. Bearman DNF (safety car crash). 5-week break before Miami GP May 3.
+- **Market balance:** Mercedes (Antonelli/Russell), Ferrari (Leclerc/Hamilton), McLaren (Piastri/Norris), Red Bull (Verstappen/Hadjar), Haas (Bearman)
+- **Fact concerns:** Antonelli age calculation (HIGH — computed from birth date). Verstappen "undriveable" quote (HIGH — widely reported). RB22 10kg overweight figure (MEDIUM — paddock reports, not official FOM/FIA). Hamilton's Suzuka win count of 5 (HIGH).
 
 ### 2026-03-28
 - **Steps completed:** 1 (Research — 7 web searches), 2 (Story History), 3 (Daily Brief), 4 (Research Notes), 5 (Story Analysis), 6 (X Posts — 9), 7 (Facebook Posts — 14), 8 (Image Concepts), 9 (Articles — 5), 10 (Fact-Check — pass), 10b (Compile — pass), 11 (Image Manifest), 12 (Story History updated), 13 (Dashboard generated), 14 (PostPlanner exports x2)

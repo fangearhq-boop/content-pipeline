@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-03-29
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Antonelli wins Japanese GP — P1 from pole, second win in three races. Piastri P2 (first race of 2026), Leclerc P3, Russell P4. Bearman DNF (safety car crash). | 1 | FOLLOW-UP (3/28 Story 1 — qualifying) |
+| 2 | Antonelli youngest F1 championship leader in history — 19y 6m 25d, breaks Hamilton's 2007 record (22y 5m 6d). First teenager to lead F1 championship. | 1 | NEW STORY |
+| 3 | Verstappen/Red Bull crisis — eliminated Q2, calls RB22 "undriveable," rookie Hadjar outqualifies him (P8 vs P11). Car reportedly 10kg overweight. | 2 | FOLLOW-UP (3/28 Story 4) |
+| 4 | Piastri P2 on his first race start of 2026 — missed Australia (formation lap crash) and China (electrical failure). McLaren from 0 pts to P3 constructors. | 2 | FOLLOW-UP (3/26 Story 3) |
+| 5 | Championship standings after Round 3: Antonelli 72, Russell 63, Leclerc 34, Hamilton 33. Constructors: Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16. | 2 | FOLLOW-UP (3/28 Story 2) |
+| 6 | Hamilton at Suzuka in Ferrari red — 5-time winner, first visit in Ferrari. SF-26 has "his DNA" via winter simulator work. 33 pts, 1 behind Leclerc. | 2 | FOLLOW-UP (3/28 Story 5) |
+| 7 | F1 5-week break — Bahrain/Saudi cancelled (conflict). Miami GP May 3. Mercedes leads both championships heading into the break. | 3 | FOLLOW-UP (3/28 Story 6) |
+
+---
+
 ## 2026-03-28
 
 | # | Story | Tier | Tag |
