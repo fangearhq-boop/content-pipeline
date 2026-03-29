@@ -2,6 +2,66 @@
 
 ---
 
+## March 29, 2026
+
+### Story 1: COS Wildfire Preparedness — Fire Weather Watch + CSFD Ready, Set, Go
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW UP (March 20 Story 1 — Highway 115 Wildfire)
+- **Content Produced:** Article, X Text Post (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Follow-Up Opportunities:**
+  - Full containment announcement when "24 Fire" reaches 100%
+  - Fire season recap and peak preparedness reminder (May/June)
+  - D11/D20/D49 emergency notification system comparison
+  - Summer wildfire outlook for El Paso County
+  - First post-restriction outdoor cooking guide
+
+### Story 2: CPSC Recalls March 2026 — HALO Dream Sleepsuit + Bellabu Bear Robes + GLMZZ Magnets
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Follow-Up Opportunities:**
+  - April CPSC recall roundup (monthly series)
+  - "How to register your baby gear for recall alerts" evergreen guide
+  - Magnet toy safety explainer (button magnets vs. standard toys)
+  - Baby product safety roundup for newborn registries
+
+### Story 3: AAP 2026 Immunization Schedule + CDC Vaccine Controversy
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Follow-Up Opportunities:**
+  - CDC vaccine policy developments as they unfold
+  - COS pediatric practice vaccination rates and perspectives
+  - Back-to-school immunization reminder (July/August)
+  - RSV prevention awareness for families with newborns (fall 2026)
+
+### Story 4: COS Parks 2026 — Stratton Neighborhood Park + Starsmore Upgrades + Master Plan
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Follow-Up Opportunities:**
+  - Stratton Neighborhood Park opening announcement
+  - Starsmore programming expansion details (fall 2026)
+  - Park Master Plan community meeting coverage
+  - Summer 2026 COS family outdoor activity guide
+
+### Story 5: Affordable Childcare in COS — Zach's Place at Special Kids Special Families
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 3
+- **Follow-Up Opportunities:**
+  - CCCAP (Colorado Child Care Assistance Program) eligibility guide
+  - Other affordable/sliding-scale childcare options in COS
+  - Special Kids Special Families other programs
+  - COS childcare affordability update when new data released
+
+---
+
 ## March 28, 2026
 
 ### Story 1: D49 Fiscal Crisis — $2M Accounting Error Before $1.8M in Teacher Cuts

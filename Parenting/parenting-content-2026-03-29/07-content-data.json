@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-29",
+  "compiled_at": "2026-03-29T12:43:09.210364+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM MT",
+      "description": "X",
+      "type": "Wildfire preparedness — Fire Weather Watch + Peak Alerts"
+    },
+    {
+      "time": "10:00 AM MT",
+      "description": "X",
+      "type": "CPSC recalls — HALO sleepsuit + magnet toys"
+    },
+    {
+      "time": "10:00 AM MT",
+      "description": "Facebook",
+      "type": "All FB long-form posts"
+    },
+    {
+      "time": "12:00 PM MT",
+      "description": "X",
+      "type": "AAP immunization schedule vs. CDC"
+    },
+    {
+      "time": "3:00 PM MT",
+      "description": "X",
+      "type": "COS parks 2026 updates"
+    },
+    {
+      "time": "5:00 PM MT",
+      "description": "X",
+      "type": "Affordable childcare — Zach's Place"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "COS Wildfire Preparedness: Fire Weather Watch + CSFD Ready, Set, Go",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "The \"24 Fire\" is 86% contained but a Fire Weather Watch is now active for March 30 in El Paso County (gusts to 40 mph, humidity as low as 10%). CSFD launched the \"Ready, Set, Go\" wildfire preparedness campaign March 11. Burn Restriction Order 2026-R1 is in effect. Parents need to sign up for Peak Alerts (PeakAlerts.org) now — before the next fire event.",
+      "posting_window": "8:00 AM MT (urgent safety info)",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Fire Weather Watch for El Paso County Monday. Gusts to 40 mph, humidity as low as 10%. The \"24 Fire\" is 86% contained but conditions are still dangerous. Burning prohibited. Sign up: PeakAlerts.org 🔥 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT (urgent safety info)",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 1-2",
+          "text": "CSFD Ready, Set, Go! tip: sign up for Peak Alerts using your HOME, WORK, and kids' SCHOOL addresses — not just home. Official alerts only: PeakAlerts.org (not third-party apps). Info: ColoradoSprings.gov/ReadySetGo #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT (urgent safety info)",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nColorado Springs families — this is your reminder to sign up for Peak Alerts before Monday's fire weather arrives.\n\nA Fire Weather Watch is in effect for El Paso County on Monday, March 30. Conditions: west winds 15-25 mph with gusts up to 40 mph, and relative humidity dropping as low as 10%. Those are the kinds of numbers that let small fires grow into major emergencies fast. The City's Burn Restriction Order 2026-R1 is in effect — no outdoor burning of any kind.\n\nThe \"24 Fire\" southwest of Colorado Springs (near Highway 115) has reached 86% containment as of this week. That's good news. But fire season isn't over, and conditions like Monday's are exactly why preparedness matters year-round.\n\nThe Colorado Springs Fire Department launched its \"Ready, Set, Go!\" wildfire preparedness campaign earlier this month. The key action item for every COS family: sign up for Peak Alerts at PeakAlerts.org. Use your home address, your work address, AND your children's school addresses so you receive alerts for all locations that matter to your family. Use only official channels — not third-party apps.\n\nFull resources are at ColoradoSprings.gov/ReadySetGo.\n\nHave you signed your family up for Peak Alerts yet?\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM MT\n\n```\nFire Weather Watch active Monday. Sign up for Peak Alerts NOW. PeakAlerts.org — home, work, and school addresses.\n```",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-cos-wildfire-preparedness-fire-weather-watch-2026.html",
+        "headline": "Fire Weather Watch Monday: What COS Families Need to Do Right Now",
+        "word_count": 693
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Wildfire Preparedness\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Photo source:** gemini\n- **Gemini mode:** base_only\n- **Prompt:** \"Wide view of a Colorado Front Range neighborhood at sunset with hazy, smoky orange sky in the distance. Suburban street, mature trees, family homes. The sky glows amber-orange, suggesting wildfire smoke, but the neighborhood is calm and safe. No people, no text, no logos. Clean visual space in the bottom third for text overlay. Atmospheric, slightly ominous but not alarmist mood. Color palette: deep oranges, dusky purples, warm amber haze.\"\n- **Output file:** story-1-wildfire-watch-x.png\n- **Canva headline:** FIRE WEATHER WATCH\n- **Canva subtitle:** El Paso County — Monday, March 30\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Photo source:** gemini\n- **Gemini mode:** base_only\n- **Prompt:** \"A parent and child looking at a phone together at a kitchen table, registering for an emergency alert system. The screen is not legible. Warm home lighting, evening scene, sense of calm preparedness. The parent's expression is focused and caring. No identifiable faces clearly visible. No text on screen or elsewhere in frame. Clean bottom third for text overlay. Color palette: warm kitchen tones, soft blues and grays, cozy home atmosphere.\"\n- **Output file:** story-1-wildfire-watch-fb.png\n- **Canva headline:** SIGN UP FOR PEAK ALERTS\n- **Canva subtitle:** PeakAlerts.org — Home, Work + School Addresses\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recalls March 2026: HALO Dream Sleepsuit + More",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Three new CPSC recalls relevant to families with young children: the HALO Dream sleepsuit (45,000 units, burn hazard, March 5), Bellabu Bear children's robes (burn hazard), and GLMZZ Fidget Magnet Ball Toys (intestinal perforation hazard). A roundup format helps parents check multiple products at once.",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Three CPSC recalls: HALO Dream sleepsuits (45,000 units, burn hazard), Bellabu Bear children's robes (burn hazard, ~$60 at Saks), GLMZZ magnet ball toys (intestinal hazard — stop use now). Check cpsc.gov/Recalls 🚨 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThree CPSC recalls this month that COS families with young children should check.\n\nFirst: HALO Dream sleepsuits. About 45,000 units were recalled on March 5 for violating the mandatory flammability standard for children's sleepwear. HALO is one of the most widely used infant sleepwear brands in the country, so there's a good chance some of you have one of these. Check the CPSC website for affected model numbers.\n\nSecond: Bellabu Bear Children's Robes. Also recalled for violating the flammability standard for children's sleepwear. These were sold at Saks Fifth Avenue and boutiques from January 2024 through July 2025 for around $60. If you bought one as a gift or picked one up at a boutique, it's worth checking.\n\nThird: GLMZZ Fidget Magnet Ball Toys. This one is the most urgent. High-powered magnets, when swallowed, attract each other inside the body through intestinal walls and can cause perforation, blood poisoning, and death. If your child has these toys, stop use immediately and contact GLMZZrecall@outlook.com for a full refund.\n\nFull recall details are at cpsc.gov/Recalls.\n\nDo you check the CPSC recalls page regularly? A lot of parents don't know it exists — share this post so others can check too.\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM MT\n\n```\nThree CPSC recalls this month: HALO sleepsuits, Bellabu Bear robes, GLMZZ magnet toys. Check cpsc.gov/Recalls.\n```",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-cpsc-recalls-march-2026-halo-sleepsuit-magnets.html",
+        "headline": "March 2026 CPSC Recalls: Three Products COS Families Should Check Now",
+        "word_count": 697
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Recalls March 2026\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Photo source:** gemini\n- **Gemini mode:** base_only\n- **Prompt:** \"Flat lay of infant sleepwear items — a swaddle, a footed onesie — arranged neatly on a white surface with a small caution symbol or warning icon nearby. Soft, clean lighting. Pastel baby tones. No text, no brand logos. Clean lower third for text overlay. Informational, cautionary mood without being alarming. Color palette: soft whites, pale blues and grays, gentle pastels.\"\n- **Output file:** story-2-cpsc-recall-x.png\n- **Canva headline:** CPSC RECALL ALERT\n- **Canva subtitle:** HALO Sleepsuits · Bellabu Bear Robes · GLMZZ Magnets\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Photo source:** gemini\n- **Gemini mode:** base_only\n- **Prompt:** \"A parent carefully checking the label on a child's sleepwear item, holding it up in soft morning light. Kitchen or nursery setting. The garment is pale and nondescript — no brand logos. The parent looks attentive and caring, face partially visible. No text in frame. Clean bottom third for text overlay. Color palette: warm whites, soft grays, gentle nursery tones.\"\n- **Output file:** story-2-cpsc-recall-fb.png\n- **Canva headline:** CHECK THESE PRODUCTS NOW\n- **Canva subtitle:** Three CPSC Recalls — March 2026\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "AAP 2026 Immunization Schedule vs. CDC Vaccine Controversy",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "The AAP just released the 2026 Recommended Childhood Immunization Schedule, now formally separate from the federal CDC schedule. The AAP has publicly called the CDC's plan to reclassify childhood vaccines \"dangerous and unnecessary.\" Key updates: clesrovimab added for RSV in infants, HPV recommended starting at age 9-12, COVID-19 universally recommended for 6-23 months. COS families should talk to their pediatrician.",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "AAP released the 2026 childhood vaccine schedule — now separate from the CDC's. New: RSV option for newborns, HPV at age 9. AAP called the CDC's tiered vaccine plan \"dangerous and unnecessary.\" Ask your pediatrician. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nSomething significant happened in the world of childhood vaccines this month, and it's worth knowing about before your next well-child visit.\n\nThe American Academy of Pediatrics released its 2026 Recommended Childhood and Adolescent Immunization Schedule — and for the first time, it's formally separate from the federal CDC schedule. The AAP schedule is endorsed by 12 major medical organizations including the AMA and ACOG.\n\nKey updates in the 2026 AAP schedule: clesrovimab, a new RSV prevention option for infants (with guidance that depends on whether the mother received an RSV vaccine during pregnancy); HPV vaccination recommended starting at ages 9-12; and COVID-19 vaccination universally recommended for children ages 6-23 months.\n\nWhy the separation? The CDC announced plans to reclassify childhood vaccines into tiers — \"recommended for all,\" \"recommended for high-risk children only,\" and \"shared clinical decision-making\" — a significant departure from how the vaccine schedule has always worked. The AAP publicly called this change \"dangerous and unnecessary\" and said it upends the longstanding expert review process.\n\nFor COS families, the most important thing right now is to ask your pediatrician which schedule their practice follows. Most pediatric practices in Colorado follow the AAP's recommendations.\n\nWhat questions do you have about the 2026 vaccine schedule? Drop them below.\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM MT\n\n```\nAAP's 2026 childhood vaccine schedule is now separate from the CDC's. Ask your pediatrician which one they follow.\n```",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-03-aap-2026-immunization-schedule-cdc-controversy.html",
+        "headline": "AAP 2026 Vaccine Schedule: What Changed, and Why It's Now Separate From the CDC's",
+        "word_count": 682
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Immunization Schedule + CDC Controversy\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Photo source:** gemini\n- **Gemini mode:** base_only\n- **Prompt:** \"A pediatric health care setting — a small child sitting on an exam table with a parent nearby, doctor's office backdrop. Bright, clean clinical environment. Reassuring and positive mood. No faces clearly visible. No text, no logos. Clean lower third for text overlay. Color palette: clinical whites and light blues, warm skin tones, sunlit office.\"\n- **Output file:** story-3-vaccine-schedule-x.png\n- **Canva headline:** AAP 2026 VACCINE SCHEDULE\n- **Canva subtitle:** Now Separate From the Federal CDC Schedule\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Photo source:** gemini\n- **Gemini mode:** base_only\n- **Prompt:** \"Close-up of a child's health record or immunization booklet being reviewed, parent's hands visible. Warm, caring setting — kitchen table or doctor's waiting room. No identifiable text legible on the record. No faces. Clean bottom third for text overlay. Color palette: warm neutrals, soft pinks and blues suggesting infant/child care context.\"\n- **Output file:** story-3-vaccine-schedule-fb.png\n- **Canva headline:** TALK TO YOUR PEDIATRICIAN\n- **Canva subtitle:** AAP vs. CDC — What the 2026 Vaccine Debate Means for Your Family\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "COS Parks 2026: What's Coming for Families This Spring",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Colorado Springs Parks, Recreation and Cultural Services (PRCS) is sharing 2026 updates for families. A new 10-15-year Park System Master Plan is in progress with community input closing this spring. Stratton Neighborhood Park is in community planning with a 2026 opening goal. Starsmore Visitor Center (Cheyenne Canyon) is getting accessibility upgrades this year.",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "COS parks 2026: Stratton Neighborhood Park targets opening this year. Starsmore Visitor Center gets accessibility upgrades. New Park Master Plan — community input open now. Parks open; burning prohibited. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nCOS outdoor spaces are open this spring — and there's a lot happening to improve them for families.\n\nA few updates from Colorado Springs Parks, Recreation and Cultural Services (PRCS):\n\nThe 2026 Park System Master Plan is underway. It's the city's 10-to-15-year guide for parks, trails, open spaces, community centers, and rec programs — and it's in the community input phase right now. If you want a say in what COS parks look like for the next decade, visit coloradosprings.gov/ParkSystemMasterPlan.\n\nStratton Neighborhood Park is in active planning in 2026, with a goal of opening the site to the public this year. If you're in that part of COS, watch for updates.\n\nStarsmore Visitor Center in Cheyenne Canyon is getting accessibility upgrades and expanded programming space this year. It's one of the most family-friendly natural attractions in COS — those improvements are welcome.\n\nOne reminder while you're out there: Burn Restriction Order 2026-R1 is in effect for Colorado Springs. That means no outdoor burning, including campfires. Parks are fully open for hiking, wildlife watching, and outdoor recreation — just no fires.\n\nWhat's your family's favorite COS outdoor spot? We're always looking for new recommendations.\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM MT\n\n```\nCOS parks 2026: Stratton opening this year, Starsmore upgrades, new Master Plan with community input now open. Parks are open — outdoor burning is prohibited.\n```",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-04-cos-parks-2026-stratton-starsmore-master-plan.html",
+        "headline": "COS Parks 2026: What's Changing for Families This Spring",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Parks 2026\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Photo source:** gemini\n- **Gemini mode:** base_only\n- **Prompt:** \"A family walking on a paved trail through a Colorado city park in late March. Bare trees with early leaf buds, Colorado mountains visible in the background, bright spring sunshine. Parent and two young children, viewed from behind, walking away from camera. No identifiable faces. No text, no logos. Clean visual space in the lower third. Color palette: golden spring light, earthy greens and browns, Colorado blue sky.\"\n- **Output file:** story-4-cos-parks-2026-x.png\n- **Canva headline:** COS PARKS 2026\n- **Canva subtitle:** What's Coming for Families This Spring\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Photo source:** gemini\n- **Gemini mode:** base_only\n- **Prompt:** \"Exterior view of a rustic visitor center building nestled in a lush Colorado canyon, surrounded by rock formations and pine trees. Spring afternoon light. Welcoming, adventurous mood. No people, no signage, no text. Clean bottom third for text overlay. Could represent a canyon visitor center or nature education center. Color palette: warm stone grays and reds, pine greens, Colorado sky blue.\"\n- **Output file:** story-4-cos-parks-2026-fb.png\n- **Canva headline:** STARSMORE IS GETTING AN UPGRADE\n- **Canva subtitle:** Cheyenne Canyon — 2026 Accessibility Improvements\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Affordable Childcare in COS: Zach's Place at Special Kids Special Families",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "With full-time daycare in Colorado Springs averaging nearly $20/hour, options for families on tight budgets can feel limited. Special Kids Special Families' Zach's Place at the Laurie Hillyard Family Center operates on a sliding-fee scale and welcomes children with and without disabilities in inclusive classrooms — a rare combination in COS.",
+      "posting_window": "5:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "COS full-time daycare is averaging close to $20/hour. Zach's Place at Special Kids Special Families uses a sliding-fee scale and serves kids with and without disabilities together. More info: sksfcolorado.org #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "5:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nIf you're feeling the crunch of COS childcare costs, you're not imagining it.\n\nFull-time daycare in Colorado Springs is averaging close to $20 an hour — one of the higher rates in the state. For families without flexible workplace arrangements or a nearby grandparent, the math can get punishing fast.\n\nOne option worth knowing about: Zach's Place at the Laurie Hillyard Family Center, operated by Special Kids Special Families. It uses a sliding-fee-scale model, which means what you pay is based on your household income — not a fixed market rate. It also serves children with and without disabilities in the same inclusive classrooms, which is a rarity in the local childcare landscape.\n\nInclusive childcare has well-documented developmental benefits for all children involved, not just those with disabilities — stronger social skills, better peer modeling, and broader exposure to different ways of communicating and navigating the world.\n\nIf you're looking for more information or want to see if Zach's Place is a fit for your family, visit sksfcolorado.org.\n\nWhat other affordable childcare options have you found in COS? Share in the comments — other parents can always use the tip.\n```",
+        "image_caption": "#### Image Caption -- 10:00 AM MT\n\n```\nCOS daycare averaging ~$20/hour. Zach's Place at Special Kids Special Families: sliding-fee scale, inclusive classrooms. sksfcolorado.org\n```",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-05-affordable-childcare-cos-zachs-place.html",
+        "headline": "Affordable Childcare in Colorado Springs: What Zach's Place Offers Families",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Affordable Childcare — Zach's Place\n\n#### X Image\n- **Dimensions:** 1080x1350\n- **Photo source:** gemini\n- **Gemini mode:** base_only\n- **Prompt:** \"A warm, welcoming early childhood classroom. Small tables with chairs, colorful learning materials, bright natural light from large windows. No children or adults — just the empty, inviting space. Inclusive and cheerful atmosphere. No text, no brand logos, no identifiable signage. Clean lower third for text overlay. Color palette: warm yellows, soft blues, gentle greens, natural wood tones.\"\n- **Output file:** story-5-affordable-childcare-x.png\n- **Canva headline:** AFFORDABLE CHILDCARE IN COS\n- **Canva subtitle:** Sliding-Fee Scale · Inclusive Classrooms\n\n#### Facebook Image\n- **Dimensions:** 1080x1350\n- **Photo source:** gemini\n- **Gemini mode:** base_only\n- **Prompt:** \"A parent and small child arriving at a childcare center — the parent kneeling to hug or reassure the child at the entrance door. Warm morning light, welcoming building entrance. No identifiable faces clearly visible. No signage or logos. Clean bottom third for text overlay. Color palette: warm morning light, soft building tones, cheerful but calm mood.\"\n- **Output file:** story-5-affordable-childcare-fb.png\n- **Canva headline:** ZACH'S PLACE\n- **Canva subtitle:** Special Kids Special Families — Sliding-Fee Inclusive Care"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
