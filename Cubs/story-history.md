@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-03-29
+
+### STORY 1: Cubs 10, Nationals 2 — Horton Sets Cubs Franchise Record
+- **Angle:** NEW STORY. Cade Horton: 6.1 IP, 2 ER, 4 K, 75 pitches. 13 consecutive starts allowing ≤2 ER — new Cubs franchise record, breaking Ed Reulbach's mark of 12 from 1909. Ian Happ 3-run HR, Miguel Amaya HR. Series tied 1-1.
+- **Content Produced:** X (2 posts — 7:00 AM and 8:30 PM CT)
+- **Follow-Up:** Horton's season arc, franchise record watch
+
+### STORY 2: Horton Franchise Record — Historical Context
+- **Angle:** NEW STORY. Deep dive: who was Ed Reulbach, what does 13 consecutive ≤2 ER starts mean in context, and why Horton is the ace this rotation needs with Steele/Wicks/Hodge on IL.
+- **Content Produced:** X (1 post — 8:30 AM CT)
+- **Follow-Up:** Horton's full 2026 season arc
+
+### STORY 3: Miguel Amaya — HR and Two RBI in Game 2
+- **Angle:** NEW STORY. Amaya 2-for-4, 2 R, 2 RBI, HR. Age 25, establishing himself as the Cubs' starting catcher. Young core of PCA, Horton, and Amaya.
+- **Content Produced:** X (1 post — 10:00 AM CT)
+- **Follow-Up:** Amaya's season stats, catcher competition
+
+### STORY 4: Game 3 Today at Wrigley — Series Finale vs. Nationals
+- **Angle:** TODAY. 1:20 PM CT series finale. Cubs win = first series win of 2026. Bounce-back narrative after 10-4 Opening Day loss.
+- **Content Produced:** X (2 posts — 11:30 AM and 7:00 PM CT)
+- **Follow-Up:** Series result, Angels series beginning March 30
+
+### STORY 5: PCA Post-Extension — 2-for-4 the Day After $115M Deal
+- **Angle:** FOLLOW-UP. PCA signed $115M/6yr extension, then went 2-for-4 in Game 2. Business as usual. Humor/bold angle on the extension value.
+- **Content Produced:** X (1 post — 1:00 PM CT)
+- **Follow-Up:** PCA 2026 performance season arc
+
+### STORY 6: Justin Steele Live BP Update — "Looks Like Justin"
+- **Angle:** FOLLOW-UP. Steele threw live BP in Arizona: 19 pitches, 3 Ks, curveball back. Pitching coach Hottovy: "Looks like Justin." Target return late May or June.
+- **Content Produced:** X (1 post — 3:00 PM CT)
+- **Follow-Up:** Steele return timeline updates
+
+### STORY 7: Alex Bregman — Two Games into His Cubs Career
+- **Angle:** FOLLOW-UP. 2 games in. 1-for-4 Opening Day, standing ovation. $175M investment warming up. Bold take: Cardinals settled, Cubs didn't.
+- **Content Produced:** X (1 post — 5:30 PM CT)
+- **Follow-Up:** Bregman's April performance, first HR as a Cub
+
+---
+
 ## 2026-03-28
 
 ### STORY 1: Cubs Lose Opening Day 10-4 — Boyd Shelled in Washington

@@ -1,6 +1,13 @@
 # Cubs Pipeline Status
 
 ## Last Run
+- **Date**: 2026-03-29
+- **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, fact-check, compile, dashboard, publish, PostPlanner export (X only, no TOBI — Cubs is X-only niche)
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/cubs-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: publish-dashboard.py required git pull --rebase before push succeeded (non-fast-forward).
+
+## Previous Run
 - **Date**: 2026-03-28
 - **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, fact-check, compile, dashboard, publish, PostPlanner export (X only, no TOBI — Cubs is X-only niche)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/cubs-dashboards/
@@ -22,6 +29,15 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-29
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3) — X-only niche
+- X posts: 9 (~50% informative / ~50% bold-humor mix)
+- Fact-check: 71 claims extracted. 1 char-limit violation fixed (Story 6 tweet trimmed from 297→268 chars). 0 consistency errors.
+- Dashboard: Published, live at https://fangearhq-boop.github.io/cubs-dashboards/
+- PostPlanner: cubs-postplanner-2026-03-29.xlsx (9 posts, X only, no TOBI)
+- Key stories: Cubs 10 Nationals 2 Horton franchise record 13 consecutive ≤2 ER starts breaks Reulbach 1909 (P10), Horton historical context ace with depleted rotation (P10), Game 3 today 1:20 PM CT series finale Wrigley (P8), Amaya 2-for-4 HR 2 RBI young catcher arriving (P7), PCA 2-for-4 day after $115M extension (P7), Steele live BP "Looks like Justin" late May/June return (P6), Bregman 2 games in $175M warming up (P5)
+- Notes: Full pipeline completed. All scripts ran successfully. Story 1&2 required split into separate ### STORY N: headers.
 
 ### 2026-03-28
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)

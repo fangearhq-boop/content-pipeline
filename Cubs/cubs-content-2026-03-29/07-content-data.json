@@ -1,0 +1,258 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-29",
+  "compiled_at": "2026-03-29T10:39:45.741718+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "Informative"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 2",
+      "type": "Bold Take"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 3",
+      "type": "Informative"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 4",
+      "type": "Hype"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 5",
+      "type": "Bold/Humor"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 6",
+      "type": "Informative"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 7",
+      "type": "Bold Take"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 4",
+      "type": "Game Hype"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 1",
+      "type": "Bold/Wrap"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 10, Nationals 2 — Horton Sets Franchise Record",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs 10, Nationals 2.\n\nCade Horton: 6.1 IP, 2 ER, 75 pitches. 13 consecutive starts allowing ≤2 ER — a new Cubs FRANCHISE RECORD.\n\nThe previous mark was set by Ed Reulbach. In 1909.\n\nIan Happ 3-run HR. Miguel Amaya goes deep. Series tied 1-1. 🔥\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Horton's Brilliance — The Franchise Record in Context",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Cade Horton broke a Cubs pitching record that stood for 117 years.\n\nThat's not a hot streak. That's a different level.\n\nWhile Steele, Wicks, and Hodge sit on the IL — Horton shows up and cements himself as Chicago's ace.\n\nWe have our guy.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "8:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Miguel Amaya — HR and Two RBI, the Young Catcher Is Arriving",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Miguel Amaya: HR, 2 RBI, 2-for-4 in Game 2.\n\nThe kid is 25 years old and playing like he belongs. With 3 catchers on the roster, Amaya is making this decision easy.\n\nYoung core. PCA. Horton. Amaya. The future is right now.\n\n#Cubs #ChicagoCubs #MLB",
+          "posting_time": "10:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#ChicagoCubs",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Game 3 Today — Cubs Close the Homestand vs. Nationals at 1:20 PM",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Game 3. 1:20 PM CT. Wrigley Field.\n\nCubs and Nationals for the series win. After getting embarrassed 10-4 on Opening Day, the Cubs won 10-2 yesterday.\n\nThis is what good teams do — they bounce back. Now close it out.\n\nLet's FLY THE W. ⚾\n\n#Cubs #FlyTheW #WrigleyField",
+          "posting_time": "11:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#WrigleyField"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "PCA Post-Extension — 2 Hits the Day After Signing $115M",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Pete Crow-Armstrong signed a $115M extension.\n\nThen went 2-for-4 the next day like it was just another Sunday.\n\n$115M. Two hits. No celebration. Just baseball.\n\nThat's why you pay the man.\n\n#Cubs #GoCubs #NorthSiders",
+          "posting_time": "1:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#NorthSiders"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Justin Steele Rotation Update — Live BP, Looking Like Justin Again",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Justin Steele threw live BP in Arizona this week.\n\nResults: 19 pitches, 3 Ks, curveball back. Pitching coach Tommy Hottovy: \"Looks like Justin.\"\n\nTarget return: late May or June. Horton holds down the rotation until then.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "3:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Bregman's Early Days as a Cub — What $175M Looks Like in March",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Alex Bregman is 2 games into his Cubs career.\n\n1-for-4 on Opening Day. Standing ovation from the home crowd.\n\nHe's had better starts. He's had worse. But the $175M man has 160 more games to make his case.\n\nThe Cardinals settled. We didn't.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "5:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
