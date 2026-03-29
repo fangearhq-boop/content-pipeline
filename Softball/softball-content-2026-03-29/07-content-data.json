@@ -1,0 +1,415 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-29",
+  "compiled_at": "2026-03-29T10:30:46.660574+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2",
+      "type": "Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3",
+      "type": "Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 1",
+      "type": "Facebook"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 4",
+      "type": "Facebook"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5",
+      "type": "Facebook"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 6",
+      "type": "X"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 6",
+      "type": "Facebook"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 7",
+      "type": "X"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7",
+      "type": "Facebook"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 2",
+      "type": "Facebook"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 1",
+      "type": "Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Arkansas/Florida Rubber Match — Series Tied, Winner-Take-All Today",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Game 3. TODAY. Bogle Park.\n\nArkansas beat Florida 6-2 in Game 1. Florida fired back 12-6 in Game 2.\n\nNow it's winner-take-all at 1 PM CT — and Arkansas has won 8 of the last 10 against the Gators since 2022. 🥎\n\n#WPS #GoGators #NCAASoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WPS",
+            "#GoGators",
+            "#NCAASoftball"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The power shift in college softball is REAL.\n\nArkansas owns a 8-of-10 series advantage over Florida since 2022.\n\nNo. 3 Florida has to EARN this rubber match today. Bogle Park doesn't care about rankings.\n\n#WPS #GoGators #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WPS",
+            "#GoGators",
+            "#CollegeSoftball"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-arkansas-florida-rubber-match-game-3.html",
+        "headline": "Winner-Take-All: Arkansas and Florida Meet in Game 3 After Wild Series Split",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Arkansas/Florida Rubber Match\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Action pitcher delivering at Bogle Park or batter in an Arkansas uniform at the plate — crowd visible in the background.\n\n**Photo Search Terms (Imagn):**\n1. \"Robyn Herron Arkansas\"\n2. \"Arkansas Razorbacks softball\"\n3. \"Keagan Rothrock Florida\"\n4. \"Payton Burnham Arkansas\"\n5. \"Bogle Park Arkansas softball\"\n\n**Text Overlay Copy:**\n- Headline: GAME 3. BOGLE PARK.\n- Subtitle: ARK vs. FLA | 1 PM CT\n- Headline color: #FFFFFF (white)\n- Subtitle color: #FFD700 (Primary Gold)\n- Background bar: #1A1A2E at 45% opacity\n\n**Composition Notes:** Bottom overlay bar covering 1/3. Crowd visible in top half for atmosphere. Action shot preferred.\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Photo Search Terms:** \"Arkansas Razorbacks softball Bogle Park\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Ole Miss 2, Tennessee 1 — Boyer's Complete Game Stuns No. 4 Vols",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Ole Miss 2, Tennessee 1.\n\nEmilee Boyer went the distance — complete game, 132 pitches. Kennedy Bunker's solo homer was all the Rebels needed.\n\nNo. 4 Tennessee drops to 6-3 in SEC play. The Vols' postseason case just got complicated. 🥎\n\n#VolsSoftball #SECSoftball #NCAASoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#VolsSoftball",
+            "#SECSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Ole Miss is 0-9 in the SEC.\n\nThey just beat No. 4 Tennessee.\n\nThat's not an upset. That's a statement about Tennessee's offense. Boyer dealt, Bunker delivered, and the Vols couldn't answer.\n\n6-3 SEC. The title window is narrowing.\n\n#VolsSoftball #NCAASoftball #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#VolsSoftball",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-ole-miss-upsets-tennessee-boyer-complete-game.html",
+        "headline": "Emilee Boyer's Complete Game Stuns No. 4 Tennessee, 2-1",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ole Miss 2, Tennessee 1\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Tennessee pitcher in the circle or Tennessee batter showing frustration — conveying upset energy.\n\n**Photo Search Terms (Imagn):**\n1. \"Emilee Boyer Ole Miss\"\n2. \"Kennedy Bunker Ole Miss softball\"\n3. \"Tennessee Lady Vols softball\"\n4. \"Sage Mardjetko Tennessee\"\n5. \"Karlyn Pickens Tennessee\"\n\n**Text Overlay Copy:**\n- Headline: OLE MISS 2, TENNESSEE 1\n- Subtitle: Boyer: CG, 132 pitches | No. 4 Tennessee falls to 6-3 SEC\n- Headline color: #E53935 (Accent Red — upset/breaking)\n- Subtitle color: #FFFFFF (white)\n- Background bar: #1A1A2E at 45% opacity\n\n**Composition Notes:** Use accent red headline for the upset energy. Pitching delivery shot preferred for Boyer.\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Photo Search Terms:** \"Tennessee Lady Vols softball pitcher\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Texas 3, A&M 2 — Streak at 29, Atwood HR Clinches Series",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Texas 3, Texas A&M 2.\n\nReese Atwood with the homer. Win streak to 29. Series clinched 2-0.\n\n31-1 overall. 8-0 in SEC. Still No. 1.\n\nGame 3 is today — Texas is going for THIRTY in a row. 🔥\n\n#HookEm #NCAASoftball #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-texas-softball-29-game-win-streak.html",
+        "headline": "Texas Clinches the Lone Star Showdown — Win Streak at 29 and Counting",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas 3, A&M 2 — Streak to 29\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Reese Atwood celebrating at the plate, or Texas dugout celebration after a close win.\n\n**Photo Search Terms (Imagn):**\n1. \"Reese Atwood Texas softball\"\n2. \"Texas Longhorns softball\"\n3. \"Viviana Martinez Texas softball\"\n4. \"McCombs Field Texas\"\n5. \"Texas softball celebration\"\n\n**Text Overlay Copy:**\n- Headline: 29 STRAIGHT.\n- Subtitle: Texas 3, A&M 2 | 31-1 | 8-0 SEC | Still No. 1\n- Headline color: #FF8A00 (Primary Orange)\n- Subtitle color: #FFFFFF (white)\n- Background bar: #1A1A2E at 45% opacity\n\n**Composition Notes:** Celebration or triumphant moment preferred. Orange headline captures the excitement.\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Photo Search Terms:** \"Texas Longhorns softball McCombs Field\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "LSU 3, Oklahoma 1 — Game 2 Snaps OU's Perfect SEC Record, Game 3 Today",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LSU 3, Oklahoma 1.\n\nThe Sooners' perfect SEC record is gone. Tiger Park showed up and the Tigers evened the series.\n\nNo Kendall Wells HR in Game 2. But Game 3 is TODAY — and you know she's locked in.\n\n#BoomerSooner #GeauxTigers #NCAASoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#GeauxTigers",
+            "#NCAASoftball"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-04-lsu-oklahoma-game-2-series-tied.html",
+        "headline": "LSU Fights Back: Tigers Hand Oklahoma First SEC Loss, Set Up Rubber Match",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LSU 3, Oklahoma 1\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Oklahoma batter at the plate or LSU pitcher delivering — competitive tension.\n\n**Photo Search Terms (Imagn):**\n1. \"Kendall Wells Oklahoma softball\"\n2. \"Oklahoma Sooners softball\"\n3. \"LSU Tigers softball pitcher\"\n4. \"Tiger Park LSU softball\"\n5. \"Patty Gasso Oklahoma\"\n\n**Text Overlay Copy:**\n- Headline: LSU 3, OKLAHOMA 1\n- Subtitle: OU's perfect SEC record falls | Game 3 TODAY\n- Headline color: #E53935 (Accent Red — snapping streak)\n- Subtitle color: #FFD700 (Primary Gold)\n- Background bar: #1A1A2E at 45% opacity\n\n**Composition Notes:** The red headline signals a surprising result. OU player photo preferred.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Kendall Wells at 25 HRs — Tied SEC Freshman Record, 5 From All-Time Mark",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kendall Wells has 25 home runs.\n\nThat's the SEC freshman record. Tied. As a true freshman. Still in March.\n\nThe all-time freshman record is 30 (Alo/Chamberlain/Majam). She needs FIVE more.\n\nWith 20+ games left, the record is hers to lose. 👀\n\n#BoomerSooner #NCAASoftball #Softball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#NCAASoftball",
+            "#Softball"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-kendall-wells-25-hr-sec-freshman-record.html",
+        "headline": "25 and Counting: Kendall Wells Ties the SEC Freshman Home Run Record",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells — 25 HRs\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Wells at bat with a classic power-hitting stance, or celebrating after a home run. The image should convey pure power.\n\n**Photo Search Terms (Imagn):**\n1. \"Kendall Wells Oklahoma\"\n2. \"Oklahoma Sooners softball home run\"\n3. \"Kendall Wells softball\"\n4. \"Oklahoma softball batter\"\n5. \"Patty Gasso Oklahoma sideline\"\n\n**Text Overlay Copy:**\n- Headline: 25 HOME RUNS.\n- Subtitle: Tied SEC Freshman Record | 5 from All-Time Mark\n- Headline color: #FFD700 (Primary Gold — achievement/milestone)\n- Subtitle color: #FFFFFF (white)\n- Background bar: #1A1A2E at 45% opacity\n\n**Composition Notes:** Power pose or mid-swing moment is ideal. Gold headline for milestone achievement.\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Photo Search Terms:** \"Kendall Wells Oklahoma softball\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Erin Nuwer — 3rd Career No-Hitter, Tennessee's Pitching Depth Is Elite",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Erin Nuwer just threw her 3rd career no-hitter.\n\nShe's a SOPHOMORE.\n\nPickens. Mardjetko. Nuwer. Tennessee's rotation is as deep as any in the country.\n\nThe offense needs to catch up. 🥎\n\n#VolsSoftball #NCAASoftball #CollegeSoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#VolsSoftball",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-06-erin-nuwer-no-hitter-tennessee.html",
+        "headline": "Sophomore Phenom: Erin Nuwer's 3rd Career No-Hitter Keeps Tennessee Pitching Elite",
+        "word_count": 525
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Erin Nuwer — 3rd Career No-Hitter\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Tennessee pitcher in mid-delivery from the circle — showing elite mechanics and intensity.\n\n**Photo Search Terms (Imagn):**\n1. \"Erin Nuwer Tennessee softball\"\n2. \"Tennessee softball pitcher\"\n3. \"Karlyn Pickens Tennessee\"\n4. \"Sage Mardjetko Tennessee\"\n5. \"Tennessee Lady Vols softball 2026\"\n\n**Text Overlay Copy:**\n- Headline: 3rd CAREER NO-HITTER\n- Subtitle: Erin Nuwer | Sophomore | Tennessee\n- Headline color: #FF8A00 (Primary Orange — elite performance)\n- Subtitle color: #FFFFFF (white)\n- Background bar: #1A1A2E at 45% opacity\n\n**Composition Notes:** Pitching delivery shot — show command and form. Orange headline for elite achievement.\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Photo Search Terms:** \"Tennessee Lady Vols softball pitcher circle\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Sunday Slate — All the Rubber Matches Worth Watching Today",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Rubber Match Sunday in college softball.\n\nArkansas vs. Florida — Game 3, 1 PM CT\nOklahoma vs. LSU — Game 3, Tiger Park\nTexas going for win No. 30 vs. A&M\nNebraska hosting No. 7 UCLA\n\nPick your stream. This is what March is about. 🥎\n\n#NCAASoftball #CollegeSoftball #SECSoftball",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#CollegeSoftball",
+            "#SECSoftball"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sunday Preview\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Wide-angle shot of a packed stadium or generic college softball stadium exterior — the \"big game atmosphere\" feel.\n\n**Photo Search Terms (Imagn):**\n1. \"Bogle Park Arkansas softball crowd\"\n2. \"college softball stadium packed\"\n3. \"NCAA softball rubber match\"\n\n**Text Overlay Copy:**\n- Headline: RUBBER MATCH SUNDAY\n- Subtitle: ARK-FLA | OU-LSU | Texas for 30\n- Headline color: #FF8A00 (Primary Orange)\n- Subtitle color: #FFFFFF (white)\n- Background bar: #1A1A2E at 45% opacity"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 6,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

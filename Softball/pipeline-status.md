@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-03-29
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (17 searches), brief, analysis, X posts (9), FB posts (14), image concepts, articles (6), fact-check, compile, dashboard, PostPlanner exports (X + TOBI)
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: publish-unified-dashboard.py fails 403 on content-dashboards (same as March 28); publish-dashboard.py used instead and succeeds.
+
+## Previous Run
 - **Date**: 2026-03-28
 - **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -23,6 +30,15 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-29
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 6
+- Fact-check: 0 char-limit violations. 0 consistency errors.
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-03-29.xlsx (23 posts), ils-postplanner-tobi-2026-03-29.xlsx (16 TOBI posts)
+- Key stories: ARK/FLA rubber match winner-take-all Game 3 (P10), Ole Miss 2 Tennessee 1 Boyer CG 132 pitches (P10), Texas 3 A&M 2 streak at 29 (P8), LSU 3 OU 1 OU's perfect SEC record snapped (P8), Wells 25 HR tied SEC freshman record (P7), Nuwer 3rd career no-hitter sophomore (P6), Sunday rubber match preview (P5)
+- Notes: Full pipeline completed. All scripts ran successfully. publish-unified-dashboard.py PAT issue persists; used publish-dashboard.py.
 
 ### 2026-03-28
 - Stories: 7 (2 Tier 1, 3 Tier 2, 1 Tier 3, 1 Tier 2 injury)

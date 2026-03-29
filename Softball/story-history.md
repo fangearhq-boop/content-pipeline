@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## March 29, 2026
+
+### Story 1: Arkansas/Florida Rubber Match — Series Tied, Winner-Take-All Today
+- **Angle:** FOLLOW-UP (from March 28 — ARK 6-2 Game 1). Florida won Game 2 12-6. Rubber match today at Bogle Park, 1 PM CT. Arkansas has won 8 of last 10 vs Florida since 2022.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** Game 3 result, series winner implications for WCWS seeding
+
+### Story 2: Ole Miss 2, Tennessee 1 — Boyer's Complete Game
+- **Angle:** NEW STORY. Emilee Boyer complete game, 132 pitches. Kennedy Bunker solo HR. Tennessee drops to 6-3 SEC. Ole Miss was 0-9 in SEC entering game.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** Tennessee offensive consistency, SEC standings impact, next opponent
+
+### Story 3: Texas 3, A&M 2 — Streak to 29
+- **Angle:** FOLLOW-UP (from March 28 — Game 1 9-8). Atwood solo HR, 2 RBI. Series clinched 2-0. Streak at 29. Texas 31-1, 8-0 SEC. Game 3 today could push to 30.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Game 3 result, streak at 30, SEC title implications
+
+### Story 4: LSU 3, Oklahoma 1 — OU's Perfect SEC Record Snapped
+- **Angle:** FOLLOW-UP (from March 28 — OU won Game 1 3-2 extras). LSU wins Game 2, evens series 1-1. Rubber match today.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Game 3 rubber match result, Wells performance
+
+### Story 5: Kendall Wells — 25 HRs, Tied SEC Freshman Record
+- **Angle:** FOLLOW-UP (ongoing). 25 HRs ties SEC freshman record from 1998. Needs 5 more for all-time freshman record (30 by Alo/Chamberlain/Majam). Nation's leader.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Next HR, all-time freshman record chase, OU-LSU rubber match
+
+### Story 6: Erin Nuwer — 3rd Career No-Hitter
+- **Angle:** NEW STORY. March 26 vs Tennessee Tech, 8-0 run-rule. 3rd career no-hitter as sophomore. Tennessee rotation: Pickens + Mardjetko + Nuwer.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Nuwer's season stats, next start, Tennessee rotation depth heading into April
+
+### Story 7: Sunday Rubber Match Preview
+- **Angle:** NEW STORY (evergreen/preview). ARK/FLA Game 3, OU/LSU Game 3, Texas Game 3, Nebraska vs UCLA.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Results from all rubber matches, national picture
+
+---
+
 ## March 28, 2026
 
 ### Story 1: Texas 9, Texas A&M 8 — Win Streak to 28, Game 2 Today
