@@ -44,7 +44,7 @@ Fire Weather Watch active Monday. Sign up for Peak Alerts NOW. PeakAlerts.org â€
 ```
 Three CPSC recalls this month that COS families with young children should check.
 
-First: HALO Dream sleepsuits. About 45,000 units were recalled on March 5 for violating the mandatory flammability standard for children's sleepwear. HALO is one of the most widely used infant sleepwear brands in the country, so there's a good chance some of you have one of these. Check the CPSC website for affected model numbers.
+First: HALO Dream Magic Sleepsuits. About 45,000 units were recalled on March 5. The zipper head can detach from the sleepsuit, posing a choking hazard to infants. These were sold at Halosleep.com, Amazon, Walmart, and Target from September 2025 through February 2026 for around $50. HALO is one of the most widely used infant sleepwear brands in the country, so there's a good chance some of you have one of these. Check the CPSC website for affected model numbers.
 
 Second: Bellabu Bear Children's Robes. Also recalled for violating the flammability standard for children's sleepwear. These were sold at Saks Fifth Avenue and boutiques from January 2024 through July 2025 for around $60. If you bought one as a gift or picked one up at a boutique, it's worth checking.
 
@@ -60,7 +60,7 @@ Do you check the CPSC recalls page regularly? A lot of parents don't know it exi
 #### Image Caption -- 10:00 AM MT
 
 ```
-Three CPSC recalls this month: HALO sleepsuits, Bellabu Bear robes, GLMZZ magnet toys. Check cpsc.gov/Recalls.
+Three CPSC recalls this month: HALO Dream Magic Sleepsuits (choking hazard), Bellabu Bear robes (burn hazard), GLMZZ magnet toys (intestinal hazard). Check cpsc.gov/Recalls.
 ```
 
 ---

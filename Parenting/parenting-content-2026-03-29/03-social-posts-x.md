@@ -30,10 +30,10 @@ Char count: Both URLs normalized to 23 each. Total: 275 ✓
 #### Text Post -- 10:00 AM MT
 
 ```
-Three CPSC recalls: HALO Dream sleepsuits (45,000 units, burn hazard), Bellabu Bear children's robes (burn hazard, ~$60 at Saks), GLMZZ magnet ball toys (intestinal hazard — stop use now). Check cpsc.gov/Recalls 🚨 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting
+Three CPSC recalls: HALO Dream Magic Sleepsuits (45K units, choking hazard — zipper head detaches), Bellabu Bear robes (burn hazard), GLMZZ magnets (intestinal hazard — stop use now). Check cpsc.gov/Recalls 🚨 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting
 ```
 
-Char count: URL normalized to 23. Total: 256 ✓
+Char count: URL normalized to 23. Total: 265 ✓
 
 ---
 

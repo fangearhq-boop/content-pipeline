@@ -1,7 +1,7 @@
 # Fact-Check Log — COS Parenting — March 29, 2026
 
-**Generated:** 2026-03-29 12:43
-**Claims extracted:** 65
+**Generated:** 2026-03-29 12:47
+**Claims extracted:** 70
 
 ## Verification Priority Guide
 
@@ -35,23 +35,28 @@
 ---
 
 ## Story 2: CPSC Recalls March 2026: HALO Dream Sleepsuit + More
-**Tier 1** | **17 claims** | **6 high-priority**
+**Tier 1** | **22 claims** | **10 high-priority**
 
 | Priority | Type | Claim | Context | Source | Result | Notes |
 |----------|------|-------|---------|--------|--------|-------|
 | HIGH | Date | March 20 | CPSC Recalls March 2026: HALO Dream Sleepsuit + More -  | | | |
 | HIGH | Date | March 5 | m sleepsuit (45,000 units, burn hazard, March 5), Bella | | | |
+| HIGH | Date | September 20 | osleep.com, Amazon, Walmart, and Target September 2025– | | | |
+| HIGH | Date | February 20 | zon, Walmart, and Target September 2025–February 2026 f | | | |
 | HIGH | Date | January 20 | sold at Saks Fifth Avenue and boutiques January 2024–Ju | | | |
 | HIGH | Date | July 20 | Fifth Avenue and boutiques January 2024–July 2025 for a | | | |
+| HIGH | Date | Feb 20 | .com, Amazon, Walmart, Target Sept 2025–Feb 2026 for ~$ | | | |
+| HIGH | Price | $50 | arget September 2025–February 2026 for ~$50. (2) Bellab | | | |
 | HIGH | Price | $60 | tiques January 2024–July 2025 for about $60. (3) GLMZZ  | | | |
 | HIGH | Time | 10:00 AM MT | products at once. - **Posting window:** 10:00 AM MT **S | | | |
 | MEDIUM | Count | 45,000 units | ung children: the HALO Dream sleepsuit (45,000 units, b | | | |
-| MEDIUM | Count | approximately 45,000 units | know about. (1) HALO Dream sleepsuits — approximately 4 | | | |
-| MEDIUM | Count | About 45,000 units | d check. First: HALO Dream sleepsuits. About 45,000 uni | | | |
+| MEDIUM | Count | approximately 45,000 units | bout. (1) HALO Dream Magic Sleepsuits — approximately 4 | | | |
+| MEDIUM | Count | About 45,000 units | k. First: HALO Dream Magic Sleepsuits. About 45,000 uni | | | |
 | LOW | Organization | CPSC | CPSC Recalls March 2026: HALO Dream Sleepsui | | | |
 | LOW | Organization | cpsc | ntestinal hazard — stop use now). Check cpsc.gov/Recall | | | |
 | LOW | Product/Brand | Uuoeebb | ry focus due to less name recognition): Uuoeebb Infant  | | | |
 | LOW | Safety Claim | burn hazard | the HALO Dream sleepsuit (45,000 units, burn hazard, Ma | | | |
+| LOW | Safety Claim | choking hazard | 5; the zipper head can detach, posing a choking hazard  | | | |
 | LOW | Safety Claim | entrapment hazard | eebb Infant Walkers recalled — fall and entrapment haza | | | |
 | LOW | Safety Claim | poisoning risk | h-stakes (intestinal perforation, blood poisoning risk) | | | |
 | LOW | URL Reference | CPSC.gov | battery ingestion hazard **Sources:** CPSC.gov Recalls  | | | |

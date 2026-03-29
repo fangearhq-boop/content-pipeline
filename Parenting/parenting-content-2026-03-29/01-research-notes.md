@@ -33,7 +33,7 @@
 ## STORY 2: CPSC Recalls March 2026
 
 **Verified Facts (HIGH confidence):**
-- HALO Dream sleepsuit recall: approximately 45,000 units; issued March 5, 2026; violates mandatory flammability standards for children's sleepwear (hazard: burns); CPSC source confirmed
+- HALO Dream Magic Sleepsuit recall: approximately 45,000 units; issued March 5, 2026; zipper head can detach (hazard: CHOKING to infants); sold at Halosleep.com, Amazon, Walmart, Target Sept 2025–Feb 2026 for ~$50; CPSC source confirmed
 - Bellabu Bear Children's Robes recall: violates mandatory flammability standard for children's sleepwear (burn hazard); sold at Saks Fifth Avenue and boutiques from January 2024–July 2025 for approximately $60; CPSC source confirmed
 - GLMZZ Fidget Magnet Ball Toys recall: high-powered magnets; when swallowed, can cause intestinal perforation, blood poisoning, and death; stop use immediately; refund contact: GLMZZrecall@outlook.com; CPSC source confirmed
 - Also noted (not used as primary focus due to less name recognition): Uuoeebb Infant Walkers recalled — fall and entrapment hazards, violates mandatory standard; Cubimana Building Toy Sets (Vatos Toys/Shein) — battery ingestion hazard
