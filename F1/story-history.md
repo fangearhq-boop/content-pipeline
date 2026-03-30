@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-03-30
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Antonelli youngest F1 championship leader in history — 19y 216 days, beats Hamilton's 2007 record (22y 5m). First Italian since Fisichella 2005. Leads Russell by 9 pts (72-63) after 3 races. | 1 | FOLLOW-UP (3/29 Story 2 — Antonelli win) |
+| 2 | Bearman 50G crash at Spoon Curve — 45 km/h speed differential from 2026 energy rules. Alpine warning lights not illuminated. Escaped with bruising. FIA schedules April meetings to review regulations. Piastri had near-miss in practice. | 1 | FOLLOW-UP (3/29 Bearman DNF) |
+| 3 | Piastri P2 in first race start of 2026 — led 22 laps from P4 before safety car timing handed win to Antonelli. "Probably one of my best weekends in F1." McLaren 56 constructors pts (P3). | 1 | FOLLOW-UP (Piastri/McLaren resurgence) |
+| 4 | Verstappen/Red Bull crisis — P8 Japan, 12 pts (9th), "beyond frustrated," RB22 going from "one extreme to another." Rookie Hadjar out-qualifies him again. New bodywork upgrade didn't work. TP Mekies hasn't identified root cause. 5-week Miami break to regroup. | 2 | FOLLOW-UP (ongoing Red Bull crisis) |
+| 5 | Standings after 3/22 races: Drivers: Antonelli 72, Russell 63, Leclerc 34, Hamilton 33, Verstappen 12. Constructors: Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16. | 2 | FOLLOW-UP (standings update) |
+| 6 | F1 5-week break — Miami GP May 1-3 (Sprint weekend). Bahrain/Saudi cancelled. FIA using break for safety rule review. | 3 | FOLLOW-UP (break/Miami preview) |
+| 7 | Antonelli denied champagne at Suzuka podium — under Japan's legal drinking age of 20. Given sparkling water instead. | 3 | NEW STORY |
+
+---
+
 ## 2026-03-29
 
 | # | Story | Tier | Tag |

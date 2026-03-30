@@ -1,0 +1,410 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-30",
+  "compiled_at": "2026-03-30T11:42:05.128182+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "1",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "2",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "3",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "4",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "5",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "6",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "7",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Makes F1 History — Youngest Championship Leader Ever",
+      "tier": 1,
+      "status": "",
+      "angle": "Historic milestone deepens; championship lead after Japan; Mercedes vs. Mercedes title fight",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kimi Antonelli is 19 years old and leads the F1 World Championship.\n\nHe just broke Lewis Hamilton's record for youngest championship leader.\n\nThe driver who REPLACED Hamilton. Breaking HIS record.\n\nThe 2026 season just got interesting. #F1Fanrecap #F1",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 1-2",
+          "text": "YOUNGEST F1 CHAMPIONSHIP LEADER IN HISTORY.\n\nAntonelli: 19 years, 216 days.\nHamilton's old record: 22 years, 5 months.\n\nAlso first Italian to lead standings since 2005.\n\nThis kid is SPECIAL. #F1Fanrecap #JapaneseGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#JapaneseGP"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-antonelli-youngest-f1-championship-leader-history-japan.html",
+        "headline": "Antonelli Becomes Youngest F1 Championship Leader in History After Japanese GP Victory",
+        "word_count": 710
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Historic Record Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Antonelli on podium or celebrating in car. Text overlay: \"YOUNGEST EVER\" in massive racing red Bebas Neue. Below: \"F1 CHAMPIONSHIP LEADER\" in white. Stat bar: \"19 YEARS · 216 DAYS\" in gold. Bottom: \"BEATS HAMILTON'S 2007 RECORD\" in white Montserrat.",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Championship Lead Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Antonelli in cockpit or victory celebration. Dark overlay. Points table: \"ANTONELLI 72 · RUSSELL 63\" in white Montserrat. Title: \"LEADS THE WORLD CHAMPIONSHIP\" in racing red Bebas Neue. Subtext: \"3 RACES · 2 WINS\" in gold.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Bearman's 50G Crash Exposes Safety Crisis",
+      "tier": 1,
+      "status": "",
+      "angle": "Safety controversy; FIA response; 2026 regulations under scrutiny",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Oliver Bearman hit the barrier at OVER 300 km/h in a 50G crash.\n\nThe reason? A 45 km/h speed gap from energy harvest differences.\n\nThe Alpine warning lights weren't even on. Bearman had NO warning.\n\nThe FIA MUST fix this before Miami. #F1Fanrecap #F1Safety",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1Safety"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Piastri had a near-miss with Hulkenberg IN PRACTICE with the same issue.\n\nSainz is demanding FIA action. Drivers are furious.\n\nThe FIA has scheduled April meetings to review the 2026 energy rules.\n\nJapan was a wake-up call. #F1Fanrecap #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-bearman-crash-f1-safety-crisis-2026-regulations.html",
+        "headline": "Bearman's 50G Crash Exposes F1 Safety Crisis — FIA Schedules Urgent Review of 2026 Regulations",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Safety Warning Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Bearman car in action (pre-crash circuit shot, not crash imagery). Dark red overlay. Text: \"50G IMPACT\" in massive racing red at top. Below: \"45 KM/H CLOSING SPEED DIFFERENTIAL\" in white. Bottom dark bar: \"FIA SAFETY MEETINGS SCHEDULED — APRIL\" in gold.",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "FIA Response Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Driver in cockpit from above or helmet close-up. Dark overlay. Text: \"F1'S SAFETY PROBLEM\" in racing red Bebas Neue large. Below: \"2026 RULES UNDER REVIEW\" in white. Subtext: \"FIA TO ACT BEFORE MIAMI\" in gold Montserrat.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Piastri P2 in His First Race Start of 2026 — Safety Car Denies McLaren Shock Win",
+      "tier": 1,
+      "status": "",
+      "angle": "Piastri's unlucky result; McLaren's real pace; championship gap closing",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Oscar Piastri hadn't started a 2026 race before Sunday.\n\nHe led for 22 laps and nearly won the Japanese GP.\n\nSafety car timing denied him the win. He was beaten only by fortune.\n\nMcLaren is a genuine threat to Mercedes. #F1Fanrecap #McLaren",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#McLaren"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Piastri on Sunday:\n\n\"Probably one of my best weekends in F1.\"\n\nFirst race start of 2026. Led the race. Finished P2.\n\nMcLaren is BACK in this championship. #F1Fanrecap #JapaneseGP",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#JapaneseGP"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-piastri-p2-mclaren-race-pace-japanese-gp.html",
+        "headline": "Piastri Leads 22 Laps and Finishes P2 in First 2026 Race Start — McLaren Is Mercedes' Closest Rival",
+        "word_count": 652
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Race Performance Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Piastri on track in McLaren papaya livery. Text: \"22 LAPS LED\" in gold Bebas Neue large. Below: \"FIRST RACE OF 2026 — P2\" in white. Subtext: \"SAFETY CAR COST HIM THE WIN\" in racing red small caps.",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "McLaren Resurgence (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "McLaren pit action or both cars on track. Text: \"MCLAREN ARE BACK\" in racing red Bebas Neue. Below: \"P2 · P5 SUZUKA — 56 CONSTRUCTORS PTS\" in white. Subtext: \"PIASTRI: 'ONE OF MY BEST WEEKENDS IN F1'\" in gold Montserrat.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen/Red Bull Crisis Deepens — 5-Week Break to Regroup",
+      "tier": 2,
+      "status": "",
+      "angle": "Post-Japan reaction; what's wrong with the RB22; Miami timeline",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Max Verstappen at Suzuka:\n\nP8. 9th in the championship. 12 points from 3 races.\n\nHis rookie teammate out-qualified him AGAIN.\n\nRed Bull has 5 weeks before Miami. They need every minute. #F1Fanrecap #RedBull",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#RedBull"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-verstappen-red-bull-crisis-deepens-japan-miami-break.html",
+        "headline": "Verstappen and Red Bull's Season Keeps Getting Worse — P8 at Japan, Five Weeks to Find Answers",
+        "word_count": 711
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Red Bull Struggle (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Verstappen in RB22 on track. Dark tinted overlay. Text: \"P8. 9TH IN THE CHAMPIONSHIP.\" in white Bebas Neue. Below: \"RED BULL HAS A PROBLEM\" in racing red large. Subtext: \"12 POINTS FROM 3 RACES\" in gold.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Championship Standings After Japan — Full Picture",
+      "tier": 2,
+      "status": "",
+      "angle": "Clear picture of the season's state after 3 races",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "F1 2026 standings after 3 races:\n\nDRIVERS: Antonelli 72 · Russell 63 · Leclerc 34 · Hamilton 33\nCONSTRUCTORS: Mercedes 135 · Ferrari 90 · McLaren 56 · Red Bull 16\n\nThis is not what anyone expected. #F1Fanrecap #F1",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-f1-2026-championship-standings-after-japan.html",
+        "headline": "F1 2026 Championship Standings After Japan — Antonelli Leads, Red Bull in Crisis, McLaren Emerging",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Standings Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Aerial circuit shot as background with dark overlay. Title: \"2026 F1 STANDINGS\" in gold Bebas Neue large. Table layout: Drivers (Antonelli 72, Russell 63, Leclerc 34, Hamilton 33) in white left column. Constructors (Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16) in white right column. \"AFTER 3 OF 22 RACES\" in racing red at bottom.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "F1's 5-Week Break — Miami GP May 3 Is Next",
+      "tier": 3,
+      "status": "",
+      "angle": "The break and what teams need to solve; Miami preview",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "F1 is taking a 5-week break. Miami GP is next — May 3.\n\nRed Bull needs to fix the RB22.\nMcLaren needs to close the gap.\nFIA needs to address the safety rules.\n\nPlenty of work to do before the lights go out in Miami. #F1Fanrecap #MiamiGP",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 6A",
+          "size_desc": "Miami Preview (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Miami cityscape background with dark overlay. Text: \"NEXT STOP: MIAMI\" in racing red Bebas Neue large. Below: \"MAY 3, 2026 · SPRINT WEEKEND\" in white. Subtext: \"5 WEEKS AWAY\" in gold Montserrat.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Antonelli Denied Champagne — Under Japan's Legal Age of 20",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Human interest moment after history-making win",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Kimi Antonelli: youngest F1 championship leader in history.\n\nAlso: couldn't legally drink champagne at his own podium.\n\nJapan's legal drinking age is 20. He got sparkling water.\n\nStill the best story in motorsport. #F1Fanrecap #JapaneseGP",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#JapaneseGP"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 7A",
+          "size_desc": "Podium Moment (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Antonelli on podium. Text: \"TOO YOUNG FOR CHAMPAGNE\" in racing red Bebas Neue. Below: \"YOUNGEST F1 CHAMPIONSHIP LEADER EVER\" in gold. Subtext: \"JAPAN'S LEGAL DRINKING AGE: 20\" in white small Montserrat.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
