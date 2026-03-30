@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-03-30
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | SGA 30 pts (13/16 FT), extends NBA record to 135 consecutive 20-pt games. Thunder beat Knicks 111-100. OKC 59-16, leads SA by 2.5. | 1 | FOLLOW-UP (ongoing SGA/OKC streak narrative) |
+| 2 | Tatum 32 pts — first 30-point game since returning from torn Achilles (missed first 62 games). Youngest Celtic to reach 14,000 career pts. Celtics clinch playoff spot 114-99 over Hornets. | 1 | NEW STORY |
+| 3 | Sengun 36/13/7/3stl/3blk, 0 TO in 32 min. Rockets rout Pelicans 134-102. Since March 18 return: 24.9/9.3/7.1 on 62.1% FG in 7 games. Houston 45-29, tied for No. 5 West. | 1 | FOLLOW-UP (Rockets playoff push; Sengun surge) |
+| 4 | Nuggets 116, Warriors 93 — Denver 6th straight win. Jokic 25/15/8. Murray 20. GSW locked into Play-In. | 2 | FOLLOW-UP (Nuggets win streak, Warriors fate) |
+| 5 | Edwards upgraded to questionable for Monday vs. Mavs. Patellofemoral syndrome. 58 games played, must play all 8 remaining for All-NBA eligibility (29.5 PPG career-high). | 2 | FOLLOW-UP (Edwards knee from 3/29) |
+| 6 | Boston clinched playoff spot. OKC 59-16 (leads SA by 2.5). Detroit 53-20 No. 1 East. GSW + Portland locked into Play-In. Regular season ends April 12. | 3 | FOLLOW-UP (ongoing playoff picture) |
+| 7 | Curry knee (runner's knee) — out since late January, swelling continues, no return timeline. Warriors locked into No. 10 West Play-In. | 3 | NEW STORY |
+
+---
+
 ## 2026-03-29
 
 | # | Story | Tier | Tag |

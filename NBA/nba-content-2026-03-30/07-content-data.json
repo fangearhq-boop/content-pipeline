@@ -1,0 +1,410 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-30",
+  "compiled_at": "2026-03-30T11:31:06.269978+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "1",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "2",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "3",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "5",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "4",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "6",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "7",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "SGA 30 Pts, NBA-Record 135 Straight 20-Point Games — Thunder Top Knicks 111-100",
+      "tier": 1,
+      "status": "",
+      "angle": "Record-breaking streak + Thunder closing in on No. 1 seed clinch",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "135 STRAIGHT GAMES with 20+ points.\n\nSGA just set an NBA RECORD that may never be broken.\n\n30 pts. 13/16 FT. 9 straight points in the 4th quarter.\n\nNobody is stopping OKC. 59-16. #HoopHeroes #ThunderUp",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#ThunderUp"
+          ],
+          "char_count": 201
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Down 92-91 in the 4th. Knicks had cut it to 1.\n\nThen SGA scored 9 straight points to put OKC away.\n\n5-for-15 through 3 quarters. Doesn't matter. He SHOWS UP.\n\nThat's the record-breaker for you. #HoopHeroes #ThunderUp",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#ThunderUp"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-sga-nba-record-135-consecutive-20-point-games.html",
+        "headline": "SGA Extends NBA Record to 135 Consecutive 20-Point Games as Thunder Defeat Knicks 111-100",
+        "word_count": 659
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Record Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "SGA driving to the basket or celebration shot. Semi-transparent dark midnight bar at bottom. Large stat display: \"135\" in Bebas Neue at top, deep orange. \"STRAIGHT GAMES WITH 20+ PTS\" in white Montserrat below. Bottom bar: \"NBA RECORD\" in gold Bebas Neue. Hoop Heroes logo bottom-right.",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Game Recap (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "SGA clutch moment or in-game celebration. Text overlay: \"SGA TAKES OVER\" top-left in deep orange Bebas Neue. Stat bar below: \"30 PTS · 13/16 FT\" in white Montserrat. Score bug at bottom: \"OKC 111 · NYK 100\" in white on dark bar.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Tatum 32 Pts in Return to Form — First 30-Point Game Since Achilles Return, Celtics Win 114-99",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Tatum milestone + Celtics' postseason positioning",
+      "posting_window": "9:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jayson Tatum just dropped 32 — his first 30-point game since returning from a TORN ACHILLES.\n\nHe also became the youngest Celtic to reach 14,000 career points.\n\nThis guy is BACK. #HoopHeroes #Celtics",
+          "posting_time": "9:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Celtics"
+          ],
+          "char_count": 199
+        },
+        {
+          "label": "Post 2-2",
+          "text": "No Jaylen Brown. No Derrick White.\n\nTatum 32. Pritchard 28. Celtics WIN 114-99.\n\nBoston is 9-2 with Tatum and just clinched a playoff spot.\n\nThe Celtics are DANGEROUS. #HoopHeroes #Celtics",
+          "posting_time": "9:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Celtics"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-tatum-32-points-first-30-point-game-achilles-return-celtics.html",
+        "headline": "Tatum Drops 32 in First 30-Point Game Since Achilles Return — Celtics Clinch Playoff Spot",
+        "word_count": 615
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Comeback Milestone (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Tatum mid-game action shot — drive or 3-pointer attempt. Text overlay top: \"HE'S BACK\" in deep orange Bebas Neue, large. Below: \"32 PTS · FIRST 30-PT GAME SINCE ACHILLES RETURN\" in white Montserrat. Bottom: \"#14,000 CAREER POINTS\" in gold on dark bar.",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Team Win Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Pritchard celebratory moment or pull-up jumper. Text: \"TATUM 32 · PRITCHARD 28\" in gold Bebas Neue. Below: \"CELTICS WIN 114-99\" in white. Subtext: \"PLAYOFF SPOT CLINCHED\" in deep orange small caps.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Sengun 36/13/7 — Rockets Rout Pelicans 134-102, Houston Tied for No. 5 West",
+      "tier": 1,
+      "status": "",
+      "angle": "Sengun's dominant run since returning from injury",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Alperen Sengun tonight:\n36 PTS · 13 REB · 7 AST · 3 STL · 3 BLK · 0 TO\n\n32 minutes. Zero turnovers.\n\nRockets rout Pelicans 134-102. Houston tied for No. 5 West. #HoopHeroes #Rockets",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Rockets"
+          ],
+          "char_count": 181
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Since returning from injury March 18, Alperen Sengun has averaged:\n\n24.9 PTS / 9.3 REB / 7.1 AST on 62% shooting.\n\nSeven games. The Rockets are quietly DANGEROUS. #HoopHeroes #Rockets",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Rockets"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-sengun-36-points-rockets-rout-pelicans-playoff-push.html",
+        "headline": "Sengun's 36-Point Masterclass Rockets Past Pelicans — Houston Ties for No. 5 West",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Dominant Performance (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Sengun post move or dunk/finish at the rim. Stat block top-left on dark bar: \"36 PTS / 13 REB / 7 AST / 3 STL / 3 BLK\" each line in white Montserrat. Title above: \"SENGUN\" in massive deep orange Bebas Neue. Sub label: \"0 TURNOVERS · 32 MINUTES\" in gold italic Montserrat.",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Streak Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Sengun mid-game action. Text: \"SINCE MARCH 18:\" in white caps. Large stats on dark bar: \"24.9 PPG · 9.3 REB · 7.1 AST\" in gold Bebas Neue. Subtext: \"62.1% FIELD GOAL %\" in deep orange. Bottom: \"ROCKETS ON FIRE 🔥\" omit emoji, use \"ROCKETS SURGING\" in white.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Nuggets 116, Warriors 93 — Denver's 6th Straight Win Locks GSW Into Play-In",
+      "tier": 2,
+      "status": "",
+      "angle": "Denver's second-half dominance; Warriors' Play-In reality",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Denver outscored Golden State 70-40 in the second half.\n\nJokic: 25 pts, 15 reb, 8 ast. Murray: 20 pts.\n\n6th straight Nuggets win. Warriors locked into the Play-In. #HoopHeroes #Nuggets",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Nuggets"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-nuggets-116-warriors-93-denver-win-streak-gsw-play-in.html",
+        "headline": "Nuggets Run Past Warriors 116-93 — Denver's Sixth Straight Win, Golden State Locked Into Play-In",
+        "word_count": 525
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Jokic Dominant (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Jokic triple-double-style celebration or passing moment. Text: \"25 PTS · 15 REB · 8 AST\" in white on dark bar. Title: \"NUGGETS WIN\" in deep orange Bebas Neue large. Subtext: \"6TH STRAIGHT WIN\" in gold.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Edwards Upgraded to Questionable — All-NBA Eligibility Hangs in Balance (29.5 PPG)",
+      "tier": 2,
+      "status": "",
+      "angle": "Potential return + All-NBA games threshold at stake",
+      "posting_window": "11:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Anthony Edwards upgraded to QUESTIONABLE for tonight vs. Dallas.\n\nHe's averaging 29.5 PPG but has only played 58 games.\n\nMust play all 8 remaining to qualify for All-NBA.\n\nTonight matters. #HoopHeroes #Timberwolves",
+          "posting_time": "11:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Timberwolves"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:30 AM ET"
+      },
+      "article": {
+        "filename": "article-05-edwards-all-nba-eligibility-timberwolves-playoff-push.html",
+        "headline": "Anthony Edwards Upgraded to Questionable — All-NBA Eligibility, Wolves Seeding Both at Stake",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Return Drama (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Edwards in Wolves uniform, game-ready action shot or bench/sideline returning from injury. Text overlay: \"ANT IS BACK?\" in deep orange Bebas Neue large. Below: \"QUESTIONABLE — 29.5 PPG\" in white Montserrat. Subtext: \"NEEDS 8 GAMES FOR ALL-NBA ELIGIBILITY\" in gold small Montserrat.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Playoff Picture — Boston Clinches, OKC Leads West by 2.5 Games",
+      "tier": 3,
+      "status": "",
+      "angle": "Boston clinch as new peg; updated seeds both conferences",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "NBA Playoff Picture — March 30:\n\nWest: OKC (59-16) · SA · LAL · DEN\nEast: DET (53-20) · BOS (clinched) · NY · CLE\n\nPlay-In starts April 14. Playoffs April 18.\n\nIt's almost time. #HoopHeroes #NBA",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 6A",
+          "size_desc": "Bracket Status (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "NBA-arena overhead crowd shot at night game. Dark midnight overlay, text layout as bracket: Left side \"WEST: OKC · SA · LAL · DEN · HOU\" in white Montserrat. Right side: \"EAST: DET · BOS · NY · CLE · ATL\" in white. Title: \"PLAYOFF PICTURE\" in gold Bebas Neue at top.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Steph Curry Knee Update — No Return Date, Swelling Continues",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "GSW locked into Play-In without their franchise star",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Stephen Curry hasn't played since JANUARY.\n\nRunner's knee. Continued swelling. No timeline.\n\nWarriors locked into No. 10 Play-In spot.\n\nIf Steph can't go, their postseason run ends before it starts. #HoopHeroes #Warriors",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Warriors"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 7A",
+          "size_desc": "Absence Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Curry off-court / bench / in street clothes or warming up in tunnel. Semi-transparent red-tinted dark overlay. Text: \"CURRY UPDATE\" in deep orange Bebas Neue. Below: \"OUT SINCE JANUARY\" in white. Subtext: \"SWELLING CONTINUES · NO TIMELINE\" in white Montserrat. Bottom: \"WARRIORS LOCKED INTO PLAY-IN\" in gold.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

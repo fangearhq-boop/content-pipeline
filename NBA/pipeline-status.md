@@ -1,8 +1,8 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-28
-- **Steps Completed**: 1-10b + 12-14 (Full pipeline minus image production and dashboard push)
+- **Date**: 2026-03-30
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
 - **Dashboard Published**: Local only (content-dashboards push requires PAT with write access to fangearhq-boop/content-dashboards)
 
 ## Deploy Info
@@ -10,6 +10,19 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-30
+- **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access)
+- **Stories:** 7 total (3 Tier 1, 2 Tier 2, 2 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, 14 posts (long-form + caption each)
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-03-30.xlsx (10 posts) + hh-postplanner-tobi-2026-03-30.xlsx (10 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-03-30/review-dashboard.html
+- **Notes:** SGA extends NBA record to 135 consecutive 20-pt games, OKC 59-16. Tatum first 30-pt game since Achilles return (youngest Celtic at 14,000 pts), Celtics clinch. Sengun 36/13/7 on 62.1% FG since March 18 return. Nuggets 6-game win streak, Warriors Play-In locked. Edwards questionable with All-NBA eligibility at stake (29.5 PPG). Curry knee — no return timeline.
+- **Market balance:** West (Thunder/SGA, Rockets/Sengun+KD, Nuggets/Jokic, Timberwolves/Edwards, Warriors/Curry) + East (Celtics/Tatum, Hornets)
+- **Fact concerns:** All published facts are HIGH or MEDIUM confidence from web search sources. No LOW confidence facts used in articles.
 
 ### 2026-03-29
 - **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
