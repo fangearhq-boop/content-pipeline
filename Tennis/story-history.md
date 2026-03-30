@@ -28,3 +28,8 @@ Track previously covered stories to avoid repetition and maintain content freshn
 | 2026-03-29 | Monte Carlo Masters preview — Alcaraz defends, Djokovic/Rune absent, Wawrinka/Monfils wildcards | T2 | X, FB, Article | April 5-12; 56-player draw; Sinner enters on career-best form |
 | 2026-03-29 | Rankings update — Sabalenka 76 weeks at WTA No. 1 (record), Gauff rises to No. 3, Lehečka career-high No. 12 | T2 | X, FB, Article | Gauff passes Swiatek; Sinner remains ATP No. 1 |
 | 2026-03-29 | Italy sweeps Miami doubles — Bolelli/Vavassori ATP, Errani/Paolini WTA; 3 of 4 titles to Italy | T3 | X, FB | Errani/Paolini are Paris 2024 Olympic gold medalists |
+| 2026-03-30 | Sinner within 1,190 points of Alcaraz No. 1 — Monte Carlo title = automatic return to top ranking | T1 | X, FB, Article | Alcaraz 13,590 pts; Sinner 12,400 pts; gap was 3,150 before Miami; Sinner 0 pts to defend at MC |
+| 2026-03-30 | Clay season opens — Houston, Marrakech, Bucharest (ATP) + Charleston, Bogotá (WTA) all start today | T2 | X, FB, Article | 11 clay events through June 7; Charleston = only green clay event on tour |
+| 2026-03-30 | Houston Open Day 1 — Shelton (No. 1 seed) and Tiafoe (No. 2 seed) lead American clay push | T2 | X, FB, Article | Brooksby defending; 10 of Top 50 in draw; River Oaks Country Club |
+| 2026-03-30 | ATP Rankings March 30 — Cobolli career-high No. 13, Lehečka career-high No. 14 (+8), Italy 4 in top 20 | T2 | X, FB, Article | Alcaraz No. 1 (13,590), Sinner No. 2 (12,400), Zverev No. 3, Djokovic No. 4 |
+| 2026-03-30 | Sinner to play doubles with Zizou Bergs at Monte Carlo — clay surface adaptation strategy | T3 | X, FB | Direct entry; Sinner 0 pts to defend at MC; returns after missing 2025 due to ban |

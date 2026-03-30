@@ -6,13 +6,13 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-03-29 |
-| Writing | Complete (all steps) | 2026-03-29 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-03-29 |
-| Compile | Complete (07-content-data.json) | 2026-03-29 |
-| Dashboard | Complete (review-dashboard.html) | 2026-03-29 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-03-29 |
-| Publishing | Attempted — push failed (PAT lacks write access to content-dashboards repo) | 2026-03-29 |
+| Research | Complete | 2026-03-30 |
+| Writing | Complete (all steps) | 2026-03-30 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-03-30 |
+| Compile | Complete (07-content-data.json) | 2026-03-30 |
+| Dashboard | Complete (review-dashboard.html) | 2026-03-30 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-03-30 |
+| Publishing | Attempted — push failed (PAT lacks write access to content-dashboards repo) | 2026-03-30 |
 
 ## Queue
 
@@ -23,6 +23,38 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-03-30 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions) = 16 total
+- **Articles:** 5
+- **PostPlanner exports:** tfr-postplanner-2026-03-30.xlsx (16 posts), tfr-postplanner-tobi-2026-03-30.xlsx (11 TOBI posts)
+- **Coverage:** Sinner-Alcaraz No. 1 race (1,190-pt gap), clay season opens (5 tournaments), Houston Open Day 1 (Shelton/Tiafoe), ATP rankings (Cobolli No. 13/Lehečka No. 14 career highs), Sinner doubles at MC with Bergs
+- **Research:** 7 web searches covering ATP/WTA rankings, clay season calendar, Houston draw, Charleston draw, Monte Carlo entry list, Sinner suspension context
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 35 claims extracted; image warnings expected (production not yet started)
+  - compile-content-data.py: "Fact-Check no log found" and "no posting window" notes are cosmetic; all content compiled successfully; 6 X posts, 5 FB posts, 5 articles
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as previous runs)
+  - Key facts: Alcaraz 13,590 pts / Sinner 12,400 pts / gap = 1,190; Cobolli career-high No. 13; Lehečka career-high No. 14 (+8); Sinner confirmed MC/Madrid/Rome; Sinner+Bergs direct entry MC doubles; Houston opens with Shelton/Tiafoe top seeds; Clay season = 11 events through June 7
+- **Files created:**
+  - `tennis-content-2026-03-30/00-daily-brief.md`
+  - `tennis-content-2026-03-30/01-research-notes.md`
+  - `tennis-content-2026-03-30/02-story-analysis.md`
+  - `tennis-content-2026-03-30/03-social-posts-x.md`
+  - `tennis-content-2026-03-30/04-social-posts-facebook.md`
+  - `tennis-content-2026-03-30/05-image-concepts.md`
+  - `tennis-content-2026-03-30/06-fact-check-log.md`
+  - `tennis-content-2026-03-30/07-content-data.json`
+  - `tennis-content-2026-03-30/07-image-manifest.md`
+  - `tennis-content-2026-03-30/review-dashboard.html`
+  - `tennis-content-2026-03-30/articles/article-01-sinner-alcaraz-no1-race-monte-carlo-2026.html`
+  - `tennis-content-2026-03-30/articles/article-02-clay-season-opens-2026.html`
+  - `tennis-content-2026-03-30/articles/article-03-houston-open-day1-shelton-tiafoe-2026.html`
+  - `tennis-content-2026-03-30/articles/article-04-atp-rankings-cobolli-lehecka-march-30-2026.html`
+  - `tennis-content-2026-03-30/articles/article-05-sinner-doubles-bergs-monte-carlo-clay-prep-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-03-30.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-03-30.xlsx`
 
 ### 2026-03-29 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
