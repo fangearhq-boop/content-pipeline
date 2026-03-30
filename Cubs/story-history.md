@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-03-30
+
+### STORY 1: Nationals 6, Cubs 3 — Cubs Lose Series 1-2
+- **Angle:** NEW STORY. Wiemer 3-run HR off Imanaga in 1st inning. Jake Irvin (1-0) 5 IP, 7 K. Bregman 2 HR, Happ HR. Ruiz 2-run HR in 8th sealed it. Cubs 1-2 on season.
+- **Content Produced:** X (1 post — 7:00 AM CT)
+- **Follow-Up:** Bounce-back vs Angels, Imanaga next start vs Cleveland
+
+### STORY 2: Bregman 2-HR Game — First as a Cub
+- **Angle:** NEW STORY. HR 1: 398 ft, 100.3 mph EV, solo to center off Irvin (4th inning). HR 2: Solo to right-center off Pérez (8th inning). Ian Happ followed HR 1 for back-to-back blast. 8th multi-HR game of career.
+- **Content Produced:** X (1 post — 8:30 AM CT)
+- **Follow-Up:** Bregman season arc, first HR at Wrigley milestone passed
+
+### STORY 3: Imanaga 0-1 — Debut Context
+- **Angle:** NEW STORY. 5 IP, 4 R, 6 H, 2 BB, 7 K. 16 whiffs. Gave up 3-run HR after 2 quick Ks in 1st inning. Stuff was there, first-inning sequencing cost him. Next start: Cleveland.
+- **Content Produced:** X (1 post — 10:00 AM CT)
+- **Follow-Up:** Imanaga first win, Cleveland start results
+
+### STORY 4: Cubs vs. Angels Today — Cabrera Home Debut
+- **Angle:** TODAY. Cabrera vs Ryan Johnson, 1:20 PM CT, Wrigley. Cabrera's Wrigley home debut. Cubs looking to bounce back from series loss.
+- **Content Produced:** X (1 post — 11:30 AM CT)
+- **Follow-Up:** Cabrera series results, Angels 3-game series outcome
+
+### STORY 5: Pete Crow-Armstrong — 4-for-9, 2 SB Early
+- **Angle:** FOLLOW-UP (PCA extension covered March 26-29). 4-for-9, 2 SB through 3 games. Batting cleanup. $115M extension already showing value. 35 SB in 2025, fast start to 2026.
+- **Content Produced:** X (1 post — 1:00 PM CT)
+- **Follow-Up:** PCA season arc through April
+
+### STORY 6: Suzuki Rehab Update — Targeting Early April
+- **Angle:** FOLLOW-UP (ongoing Suzuki PCL IL). Light running + hitting work. April 1-7 window per Counsell. Final year of contract. Cubs need him back.
+- **Content Produced:** X (1 post — 3:00 PM CT)
+- **Follow-Up:** Suzuki rehab assignment, activation date
+
+### STORY 7: Cubs 1-2 Early Season Analysis
+- **Angle:** NEW STORY (bold take). 1-2 after 3 games. First-inning pitching concerns (Imanaga, Boyd both hurt). Offense showed up (Bregman, Happ, PCA). Depth being tested with IL crowded.
+- **Content Produced:** X (1 post — 7:00 PM CT)
+- **Follow-Up:** Cubs April record check-in
+
+---
+
 ## 2026-03-29
 
 ### STORY 1: Cubs 10, Nationals 2 — Horton Sets Cubs Franchise Record

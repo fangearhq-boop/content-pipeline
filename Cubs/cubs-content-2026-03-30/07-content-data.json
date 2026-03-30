@@ -1,0 +1,248 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-30",
+  "compiled_at": "2026-03-30T10:28:47.950395+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 6",
+      "type": "X"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Nationals 6, Cubs 3 — Bregman's 2 HRs Not Enough, Cubs Lose Series",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Nationals 6, Cubs 3.\n\nWiemer hit a 3-run homer off Imanaga in the first inning. Washington took the series 2-1.\n\nBregman hit TWO home runs. Happ hit one. It still wasn't enough.\n\nCubs fall to 1-2. Time to bounce back against the Angels. ⚾\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Bregman's 2-HR Game — His First as a Cub, $175M Investment Arriving",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Alex Bregman hit his first two home runs as a Cub yesterday.\n\n398 feet to center. Then one to right-center off the 8th-inning reliever.\n\nIan Happ immediately followed the first one. Back-to-back at Wrigley.\n\nThe $175M investment is showing up. 🔥\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Imanaga 0-1 — Tough Debut, But the Stuff Was There",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Imanaga lost his season debut. Also registered 7 strikeouts and 16 whiffs in five innings.\n\nThe stuff is still elite. The first inning — two singles after two strikeouts, then a 3-run homer — is what sank him.\n\nHe'll be fine. Don't panic.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cubs vs. Angels Today — Cabrera's Home Debut, 1:20 PM CT",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs baseball today. 1:20 PM CT. Wrigley Field.\n\nEdward Cabrera makes his home debut vs. the Angels.\n\nAfter dropping the series to Washington, this is the bounce-back game. Cabrera vs. a young Angels rotation.\n\nLet's get this W. ⚾\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "11:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Pete Crow-Armstrong — 4-for-9, 2 SB, Living Up to the Extension",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Pete Crow-Armstrong through 3 games:\n\n4-for-9. Two stolen bases. Playing cleanup. Acting like someone who just signed a $115M deal.\n\nIn his first three career cleanup appearances. As a 24-year-old.\n\nHe's going to be a star for a long time in Chicago. ⚾\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Suzuki Update — PCL Sprain, Targeting Early April Return",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Seiya Suzuki update: PCL sprain, right knee.\n\nHe's doing light running and hitting work. Manager Counsell says the return window is early April — possibly April 1-7.\n\nThis team needs him. He had 32 HR and 103 RBI last season. Fast return matters a lot.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "3:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Cubs 1-2 Early Season Take — It's a Long Season, But Here's What Needs Fixing",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Cubs are 1-2. Breathe.\n\nThe concern: Imanaga and Boyd both hurt by big first innings. 3 runs in Sunday's loss.\n\nThe solution: Suzuki back in early April. Steele by June.\n\nThe talent is real. This team is built to contend.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

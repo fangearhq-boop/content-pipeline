@@ -1,14 +1,14 @@
 # Cubs Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-29
-- **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, fact-check, compile, dashboard, publish, PostPlanner export (X only, no TOBI — Cubs is X-only niche)
+- **Date**: 2026-03-30
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches), brief, analysis, X posts (7), fact-check, compile, dashboard, publish, PostPlanner export (X only, no TOBI — Cubs is X-only niche)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/cubs-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
-- **Issues**: publish-dashboard.py required git pull --rebase before push succeeded (non-fast-forward).
+- **Issues**: publish-dashboard.py push rejected non-fast-forward; fixed with git pull --rebase + manual push.
 
 ## Previous Run
-- **Date**: 2026-03-28
+- **Date**: 2026-03-29
 - **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, fact-check, compile, dashboard, publish, PostPlanner export (X only, no TOBI — Cubs is X-only niche)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/cubs-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
@@ -29,6 +29,15 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-30
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3) — X-only niche
+- X posts: 7 (~50% informative / ~50% bold-take mix)
+- Fact-check: 66 claims extracted. 1 char-limit violation fixed (Story 7 from 304→under 280). 0 consistency errors.
+- Dashboard: Published, live at https://fangearhq-boop.github.io/cubs-dashboards/
+- PostPlanner: cubs-postplanner-2026-03-30.xlsx (7 posts, X only, no TOBI)
+- Key stories: Nationals 6 Cubs 3 series loss 1-2 Wiemer 3-run HR Imanaga (P10), Bregman 2 HRs first as a Cub 398 ft back-to-back with Happ (P10), Imanaga 0-1 7 K 16 whiffs stuff is there (P8), Cubs vs Angels today Cabrera home debut (P7), PCA 4-for-9 2 SB early (P7), Suzuki targeting April 1-7 return (P6), Cubs 1-2 analysis (P5)
+- Notes: Full pipeline completed. All scripts ran successfully. Push required manual rebase+push after publish-dashboard.py rejected.
 
 ### 2026-03-29
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3) — X-only niche
