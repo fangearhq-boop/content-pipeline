@@ -1,0 +1,398 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-30",
+  "compiled_at": "2026-03-30T10:21:23.261632+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 1",
+      "type": "Facebook"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 2",
+      "type": "Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "Facebook"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 4",
+      "type": "Facebook"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5",
+      "type": "Facebook"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 6",
+      "type": "X"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 6",
+      "type": "Facebook"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7",
+      "type": "X"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7",
+      "type": "Facebook"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "Story 1",
+      "type": "Facebook"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "Story 2",
+      "type": "Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Texas A&M 9, No. 1 Texas 7 — 29-Game Win Streak OVER",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Texas A&M 9, No. 1 Texas 7.\n\nThe streak is OVER.\n\n29 games. A new program record. All of it — snapped by No. 15 Texas A&M at McCombs Field on Sunday.\n\nKK Dement, a six-run sixth inning, and a coach ejection later — the Longhorns finally lost. 🥎\n\n#12thMan #HookEm #NCAASoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#12thMan",
+            "#HookEm",
+            "#NCAASoftball"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Texas lost Sunday.\n\nThey also won the series 2-1. They're 31-2, 8-1 in SEC. Defending national champions.\n\nOne game. One great A&M performance. The Longhorns are fine.\n\nDon't panic. Do appreciate the moment.\n\n#HookEm #NCAASoftball #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-texas-am-ends-texas-29-game-win-streak.html",
+        "headline": "Texas A&M Ends Texas's 29-Game Win Streak With 9-7 Upset in Austin",
+        "word_count": 640
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas A&M 9, No. 1 Texas 7 — Win Streak OVER\n\n#### Social Image (1080×1350, 4:5 vertical)\n- **Visual Description:** Action shot of a Texas A&M player celebrating — ideally a batter rounding bases or celebrating with teammates\n- **Photo Search Terms (Imagn):**\n  1. \"KK Dement Texas A&M\"\n  2. \"Texas A&M softball\"\n  3. \"Ariel Kowalewski Texas A&M\"\n- **Text Overlay:**\n  - Headline: STREAK OVER (Bebas Neue, white, large)\n  - Subtitle: A&M 9, Texas 7 — 29 Games Ends Here (#FF8A00 orange)\n- **Composition Notes:** Dark navy semi-transparent bar at bottom 1/3; Texas A&M maroon accents; action/celebration shot preferred\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n- **Photo Search Terms:** \"KK Dement Texas A&M\" or \"Texas A&M softball McCombs\"\n- **Text Overlay:** \"Texas A&M Ends Texas's 29-Game Win Streak\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Arkansas Walk-Off Stuns No. 5 Florida — Kennedy's 3-Run HR Wins Series",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Down 4-0. Bottom of the 7th. Two on. Two out.\n\nDakota Kennedy hits the first pitch she sees over the wall.\n\nArkansas 6, Florida 4. Walk-off. Series win. Fourth straight series win over Florida. 🥎\n\n#WPS #GoGators #NCAASoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WPS",
+            "#GoGators",
+            "#NCAASoftball"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-arkansas-walkoff-florida-series-win.html",
+        "headline": "Dakota Kennedy's Walk-Off Home Run Completes Arkansas's Stunning Comeback Over Florida",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Arkansas Walk-Off vs. Florida\n\n#### Social Image (1080×1350, 4:5 vertical)\n- **Visual Description:** Walk-off celebration — ideally a player mobbing scene at home plate or pitcher celebrating\n- **Photo Search Terms (Imagn):**\n  1. \"Dakota Kennedy Arkansas\"\n  2. \"Saylor Timmerman Arkansas\"\n  3. \"Arkansas softball\"\n- **Text Overlay:**\n  - Headline: WALK-OFF WIN (Bebas Neue, white)\n  - Subtitle: Arkansas 6, Florida 4 — Kennedy's 3-Run HR (#E53935 red for dramatic emphasis)\n- **Composition Notes:** Excitement/celebration framing; Razorback red accents welcome\n\n#### Article Hero (1200×630)\n- **Photo Search Terms:** \"Dakota Kennedy Arkansas\" or \"Arkansas softball walk-off\"\n- **Text Overlay:** \"Kennedy's Walk-Off HR Stuns Florida\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Oklahoma 8, LSU 4 — OU Wins Series, Wells Hits HR No. 26",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Miali Guachino. 149 pitches. Complete game. 11 strikeouts.\n\nOklahoma wins Game 3 over LSU 8-4 behind Guachino's gem — and Kendall Wells hit home run No. 26.\n\nFour away from the NCAA freshman record. With 20+ games left. 👀\n\n#BoomerSooner #GeauxTigers #NCAASoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#GeauxTigers",
+            "#NCAASoftball"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-oklahoma-wins-series-lsu-wells-hr-26.html",
+        "headline": "Guachino's Complete Game and Wells's 26th HR Power Oklahoma Past LSU in Series Finale",
+        "word_count": 600
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma 8, LSU 4 — Wells No. 26\n\n#### Social Image (1080×1350, 4:5 vertical)\n- **Visual Description:** Kendall Wells home run celebration or Miali Guachino pitching in the circle\n- **Photo Search Terms (Imagn):**\n  1. \"Kendall Wells Oklahoma\"\n  2. \"Miali Guachino Oklahoma\"\n  3. \"Oklahoma softball\"\n- **Text Overlay:**\n  - Headline: WELLS HR NO. 26 (Bebas Neue, white)\n  - Subtitle: 4 Away From the Freshman Record (#FFD700 gold)\n- **Composition Notes:** OU crimson and cream accents; power pose or swing preferred\n\n#### Article Hero (1200×630)\n- **Photo Search Terms:** \"Kendall Wells Oklahoma\"\n- **Text Overlay:** \"Oklahoma's Wells Hits No. 26, Closes in on Freshman Record\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Nebraska 8, UCLA 4 — Huskers Win Series Over No. 7 Bruins",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Nebraska hit FOUR home runs in Sunday's series finale.\n\nThree of them came in the second inning alone.\n\nNo. 9 Nebraska 8, No. 7 UCLA 4. Series win for the Huskers.\n\nThe Big Ten just keeps producing contenders. 🔥\n\n#Huskers #GoBruins #NCAASoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#GoBruins",
+            "#NCAASoftball"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-04-nebraska-upsets-ucla-series-win.html",
+        "headline": "Nebraska's Four-Homer Explosion Sends Huskers Past No. 7 UCLA in Series Finale",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska 8, UCLA 4 — Huskers Win Series\n\n#### Social Image (1080×1350, 4:5 vertical)\n- **Visual Description:** Nebraska batter in swing or Huskers celebrating\n- **Photo Search Terms (Imagn):**\n  1. \"Alexis Jensen Nebraska\"\n  2. \"Nebraska softball\"\n  3. \"Hannah Camenzind Nebraska\"\n- **Text Overlay:**\n  - Headline: HUSKERS WIN SERIES (Bebas Neue, white)\n  - Subtitle: Nebraska 8, UCLA 4 — 4 Home Runs (#FF8A00 orange)\n- **Composition Notes:** Nebraska red accents; power/swing action preferred\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Kendall Wells at 26 HRs — Four Away From the Freshman Record",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kendall Wells: 26 home runs.\n\nFour away from the NCAA freshman record of 30 (Alo/Chamberlain/Majam).\n\nLeading all of college softball. As a freshman. In March.\n\nThis record is absolutely in play. 🥎\n\n#BoomerSooner #NCAASoftball #Softball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#NCAASoftball",
+            "#Softball"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-kendall-wells-26-hr-freshman-record-chase.html",
+        "headline": "Kendall Wells Hits No. 26: Four Home Runs From the NCAA Freshman Record",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells HR Record Watch\n\n#### Social Image (1080×1350, 4:5 vertical)\n- **Visual Description:** Kendall Wells at bat or home run trot — ideally a focused close-up\n- **Photo Search Terms (Imagn):**\n  1. \"Kendall Wells Oklahoma\"\n  2. \"Wells Oklahoma softball\"\n- **Text Overlay:**\n  - Headline: 26 HOME RUNS (Bebas Neue, white, very large)\n  - Subtitle: 4 From the Freshman Record (#FFD700 gold)\n- **Composition Notes:** Clean background with player featured prominently; stat overlay should be prominent\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Washington Combined No-Hitter Over Iowa — 19-Game Streak",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Sophia Ramuno and Rylee Rehbein combined for a no-hitter over Iowa on Saturday.\n\nWashington wins 10-0. Their 12th shutout. Win streak: 19 games.\n\nThe Huskies are flying under the radar — and that should terrify everyone. 🥎\n\n#NCAASoftball #CollegeSoftball #Softball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#CollegeSoftball",
+            "#Softball"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-06-washington-no-hitter-iowa.html",
+        "headline": "Washington's Ramuno and Rehbein Combine for No-Hitter, Extend Win Streak to 19",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Washington No-Hitter\n\n#### Social Image (1080×1350, 4:5 vertical)\n- **Visual Description:** Washington pitcher or catcher celebrating after final out of no-hitter\n- **Photo Search Terms (Imagn):**\n  1. \"Sophia Ramuno Washington\"\n  2. \"Washington softball\"\n  3. \"Rylee Rehbein Washington\"\n- **Text Overlay:**\n  - Headline: NO-HITTER (Bebas Neue, white)\n  - Subtitle: Ramuno + Rehbein — Washington 10, Iowa 0 (#FF8A00 orange)\n- **Composition Notes:** Celebration moment; Washington purple accents\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "NFCA Week 8 Rankings Preview — Texas Drops, Who Rises?",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Texas drops from No. 1 on Tuesday.\n\n29-game streak over — who takes the top spot?\n\nTexas Tech untouched. Oklahoma 8-1 in SEC. Arkansas beat Florida four straight series.\n\nThe new rankings drop Tuesday. 👀\n\n#NCAASoftball #SECSoftball #CollegeSoftball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#SECSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NFCA Rankings Preview\n\n#### Social Image (1080×1350, 4:5 vertical)\n- **Visual Description:** Generic softball action — pitcher releasing ball or batter in stance\n- **Photo Search Terms (Imagn):**\n  1. \"Texas softball\" (generic)\n  2. \"Oklahoma softball pitcher\"\n  3. \"college softball pitching\"\n- **Text Overlay:**\n  - Headline: NEW No. 1? (Bebas Neue, white)\n  - Subtitle: Rankings Drop Tuesday — Everything Changed (#FF8A00 orange)\n- **Composition Notes:** Clean action shot; rankings/analysis energy, not game-specific"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 6,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

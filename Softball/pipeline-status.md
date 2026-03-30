@@ -1,14 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-29
-- **Steps Completed**: Full pipeline (Steps 1-15) — research (17 searches), brief, analysis, X posts (9), FB posts (14), image concepts, articles (6), fact-check, compile, dashboard, PostPlanner exports (X + TOBI)
+- **Date**: 2026-03-30
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches), brief, analysis, X posts (8), FB posts (14), image concepts, articles (6), fact-check, compile, dashboard, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
-- **Issues**: publish-unified-dashboard.py fails 403 on content-dashboards (same as March 28); publish-dashboard.py used instead and succeeds.
+- **Issues**: publish-dashboard.py "no changes to commit" on second run (already committed). No blocking issues.
 
 ## Previous Run
-- **Date**: 2026-03-28
+- **Date**: 2026-03-29
 - **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
@@ -30,6 +30,15 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-30
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 8 text, FB posts: 7 long-form + 7 image captions, Articles: 6
+- Fact-check: 0 char-limit violations. 0 consistency errors. 3 tweets trimmed on first pass.
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-03-30.xlsx (22 posts), ils-postplanner-tobi-2026-03-30.xlsx (15 TOBI posts)
+- Key stories: Texas A&M 9 Texas 7 29-game streak snapped first A&M win over Texas since 2009 (P10), Arkansas walk-off Dakota Kennedy 3-run HR from 4-0 down 4th straight series win over Florida (P10), Oklahoma 8 LSU 4 Guachino CG 11K Wells HR 26 four from freshman record (P8), Nebraska 8 UCLA 4 four HRs three in 2nd inning series win (P7), Wells 26 HR record chase (P7), Washington combined no-hitter 19-game streak (P6), NFCA Week 8 rankings preview (P5)
+- Notes: Full pipeline completed. All scripts ran successfully. publish-dashboard.py showed "no changes to commit" on second run (already committed on first pass).
 
 ### 2026-03-29
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)

@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## March 30, 2026
+
+### Story 1: Texas A&M 9, No. 1 Texas 7 — 29-Game Win Streak OVER
+- **Angle:** NEW STORY. A&M 9-7 upset of No. 1 Texas at McCombs Field. KK Dement HR + RBI double. 6-run 6th inning aided by errors. Coach White ejected. Back-to-back HRs by Atwood/Stewart in 7th not enough. Texas still 31-2, 8-1 SEC, won series 2-1. A&M's first regular-season win over Texas since 2009.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** NFCA Week 8 rankings (Texas drops from #1), Texas midweek action, Kavan's next start
+
+### Story 2: Arkansas Walk-Off Stuns No. 5 Florida — Dakota Kennedy 3-Run HR
+- **Angle:** FOLLOW-UP (from March 29 — rubber match preview). Trailed 4-0 through 6, Dakota Kennedy walk-off 3-run HR on first pitch in bottom 7th. Timmerman 7-0. ARK's 4th straight series win over Florida. ARK 30-5, 5-4 SEC; FLA 33-4, 9-3 SEC.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Arkansas national ranking rise, Florida's inability to beat Arkansas in series play
+
+### Story 3: Oklahoma 8, LSU 4 — OU Wins Series, Wells Hits HR No. 26
+- **Angle:** FOLLOW-UP (from March 29 — Story 4: LSU 3 OU 1 Game 2). Guachino CG 11K 149 pitches. Wells HR #26 (4 from NCAA freshman record of 30). Emerling 3-run HR. OU 34-3, 8-1 SEC.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Wells's next HR milestone, OU SEC title race
+
+### Story 4: Nebraska 8, UCLA 4 — Huskers Win Series Over No. 7 Bruins
+- **Angle:** NEW STORY (March 29 Story 7 mentioned Nebraska/UCLA as rubber match to watch). 4 HRs (Jensen 2-run, Camenzind 3-run, Kuszak solo all in 2nd inning). Nebraska wins series 2-1.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Nebraska's national ranking rise, their WCWS bid, Big Ten standings
+
+### Story 5: Kendall Wells at 26 HRs — Four From the NCAA Freshman Record
+- **Angle:** FOLLOW-UP (from March 29 — Story 5: Wells at 25 tied SEC freshman record). Now at 26, 4 from all-time NCAA freshman record (30 by Alo/Chamberlain/Majam). Leads all of college softball.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Wells HR #27, #28, #29, #30 milestones; all-time single-season record (37 by Espinoza, Arizona 1995)
+
+### Story 6: Washington Combined No-Hitter Over Iowa — 19-Game Win Streak
+- **Angle:** NEW STORY. Ramuno (5.2 IP, 6K) + Rehbein combined no-hitter. Washington 10-0 Iowa. 12th shutout of season. Win streak extended to 19 games.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Washington's continued streak, national ranking movement, Big Ten WCWS positioning
+
+### Story 7: NFCA Week 8 Rankings Preview
+- **Angle:** NEW STORY (evergreen/analysis). Texas drops from #1. Texas Tech, Oklahoma, Arkansas as candidates for top spot. Week 8 drops Tuesday March 31.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Actual Week 8 poll, Texas's new ranking, Arkansas's rise
+
+---
+
 ## March 29, 2026
 
 ### Story 1: Arkansas/Florida Rubber Match — Series Tied, Winner-Take-All Today
