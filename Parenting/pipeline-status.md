@@ -1,6 +1,37 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: March 29, 2026
+## Latest Run: March 30, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (6 searches) | COMPLETE | CMZoo centennial/giraffe center, CPSC recalls (Vevor/YCXXKJ/CreateOn/4ourKiddies), D11 hiring fair 162 positions, AAP screen time guidance update 2026, COS April weather + spring events |
+| Story History Check | COMPLETE | 5 NEW STORY |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories, tier + window assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (3 char fixes applied), all under 280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each) |
+| Fact-Check | COMPLETE | verify-facts.py passed — 5 stories present in all files (after 3 char count fixes applied) |
+| Compile | COMPLETE | 07-content-data.json (5 stories, 6 X, 5 FB, 5 articles) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started |
+| Dashboard | COMPLETE | review-dashboard.html (26 items) |
+| PostPlanner Export | COMPLETE | Standard (16 posts) + TOBI (11 posts) |
+| Publishing | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Dashboard committed locally in tmp clone |
+
+## Story Count by Pillar (2026-03-30)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 | 1-2 |
+| Local Events | 2 | 1-2 |
+| National Parenting | 2 | 1-2 |
+| Evergreen | 0 | 0-1 |
+
+---
+
+## Previous Run: March 29, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

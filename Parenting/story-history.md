@@ -2,6 +2,70 @@
 
 ---
 
+## March 30, 2026
+
+### Story 1: CMZoo Centennial — 100 Years + $40M Giraffe Center Opening Summer 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Key Facts:** Founded 1926 by Spencer Penrose; $40M International Center for Care and Conservation of Giraffe; 12,000 sq ft barn; 11 feeding zones (up from 3); 25% more outdoor space; summer 2026 opening with weeklong celebration; free Penrose Heritage Museum centennial exhibit now; ranked No. 2 in North America (USA TODAY 2025)
+- **Follow-Up Opportunities:**
+  - Exact Giraffe Center opening date announcement
+  - Summer visit guide for COS families
+  - Zoo Run Run coverage (May 9-10)
+  - Centennial anniversary events throughout 2026
+
+### Story 2: CPSC Recalls — Vevor Baby Swings + YCXXKJ Bath Seats + CreateOn Pip-Cubes + 4our Kiddies Furniture Straps
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (different products from March 29 HALO/Bellabu/GLMZZ story)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Key Facts:** Vevor baby swings = suffocation/inclined sleeper ban violation; YCXXKJ bath seats = drowning (9,000 units, Amazon); CreateOn Pip-Cubes = magnet ingestion hazard; 4our Kiddies furniture straps = 253,500 units sold 2019-2026, 150+ reports of breaking, plastic degrades
+- **Follow-Up Opportunities:**
+  - Monthly CPSC recall series
+  - How to register baby products for recall alerts
+  - Furniture tip-over safety guide
+  - Magnet toy safety explainer
+
+### Story 3: D11 Hosting Largest-Ever Hiring Fair — 162 Open Positions
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Key Facts:** Largest hiring fair in D11 history; Doherty High School venue; 162 open positions (teachers, paras, crossing guards, admin); spring break just ended March 27; last day of school May 22
+- **Follow-Up Opportunities:**
+  - D11 hiring fair results / positions filled
+  - Teacher vacancy rates across D11/D20/D49 comparison
+  - D11 budget update / compensation package details
+  - Back-to-school staffing update (August)
+
+### Story 4: AAP Updates Screen Time Guidance 2026 — Quality, Context, Conversation
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Key Facts:** AAP 2026 update: quality/context/conversation framework (not just time limits); under 18 months = no screens except video calls; ages 2-5 = 1 hr high-quality content; co-viewing largely offsets developmental risks; passive solo viewing is the risk factor
+- **Follow-Up Opportunities:**
+  - COS pediatricians' reactions to new guidance
+  - Social media age limits for teenagers (separate story)
+  - Back-to-school digital wellness tips
+  - Best educational apps for COS families (evergreen)
+
+### Story 5: COS April Outdoor Guide — Spring Events + Weather Tips
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB) — No article (Tier 3)
+- **Tier:** 3
+- **Key Facts:** April avg high 59°F, avg low 30°F, ~10 hrs sunshine/day, ~16 snowy days; Farmer's Almanac: above-normal temps; Bear Creek Nature Center Restoration Crew April 11; Cutting Garden Workshop April 11; Zoo Run Run May 9-10; Pikes Peak Birding Festival May 14-17
+- **Follow-Up Opportunities:**
+  - Summer outdoor guide (June/July)
+  - Bear Creek Nature Center program schedule
+  - Zoo Run Run race recap
+  - Garden of the Gods spring ranger programs
+
+---
+
 ## March 29, 2026
 
 ### Story 1: COS Wildfire Preparedness — Fire Weather Watch + CSFD Ready, Set, Go
