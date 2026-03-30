@@ -6,6 +6,13 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-03-30 | T1 | Gary Woodland wins Houston Open — 21-under 259 (new course record), first win since brain surgery/PTSD disclosure, earns Masters berth, 5 shots clear of Hojgaard, $1.782M | X, FB, Article | 5th career win; Jake Knapp fired 62 to tie tournament record |
+| 2026-03-30 | T1 | Tiger Woods DUI update — mugshot released, charges filed (DUI + property damage + urine test refusal), Trump says "won't be playing" Masters, legally permitted to play but very uncertain | X, FB, Article | Still scheduled for April 5 Augusta appearance (The Patch project) |
+| 2026-03-30 | T1 | Hyo Joo Kim wins LPGA Ford Championship — back-to-back titles (Founders Cup + Ford), 28-under 260, beats Korda by 2, first LPGA player to shoot two 61s in same tournament; Ko 4th | X, FB, Article | Korda runner-up 2nd straight week; Katsu 3rd at -23 |
+| 2026-03-30 | T2 | Masters 10 days out — field set (~92 players), Woodland in after Sunday win, Scheffler +480 (defending 2-time champ), McIlroy defending at +1000, Tiger status uncertain, Amazon Prime debut | X, FB, Article | Rahm/DeChambeau +1200; Knapp/Hojgaard/McCarty/Berger added via OWGR |
+| 2026-03-30 | T2 | Valero Texas Open preview — April 2-5 TPC San Antonio, 22 Masters invitees, Fleetwood leads odds, Fowler/Zalatoris chasing Augusta spots, Harman defending | X, FB, Article | No Scheffler, no McIlroy |
+| 2026-03-30 | T3 | Lydia Ko 4th at Ford Championship — career-best 60 in R1, closed with 68 Sunday, fell from lead as Kim pulled away; tops-5 in first full 2026 LPGA event | X, FB | Eyes Las Vegas next |
+| 2026-03-30 | T3 | Grand Slam chasers at Masters — Schauffele, Morikawa, Koepka (+1600) each need only Masters; last completion was McIlroy 2025; DeChambeau (+1200) surging with back-to-back LIV wins | X, FB | Historical rarity — only a handful of completions ever |
 | 2026-03-29 | T1 | Tiger Woods arrested DUI suspicion — BAC 0.00, refused urine test, medication suspected; 48 hrs after TGL return; Masters uncertain | X, FB, Article | 8 hrs in Martin County jail; Trump says "won't be playing" Masters |
 | 2026-03-29 | T1 | Gary Woodland leads Houston Open entering R4 at 18-under (brain tumor surgery 2023, PTSD disclosure) | X, FB, Article | Højgaard 1 shot back; final round underway |
 | 2026-03-29 | T1 | Masters 2026 preview — Scheffler +480 Grand Slam bid, McIlroy defending, Tiger uncertain, Amazon Prime debut | X, FB, Article | April 9–12; Rahm/DeChambeau +1200; back-to-back only 3 times in history |

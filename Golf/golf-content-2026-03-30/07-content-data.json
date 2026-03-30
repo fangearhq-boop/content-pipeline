@@ -1,0 +1,410 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-03-30",
+  "compiled_at": "2026-03-30T11:52:01.162117+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "1",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "2",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "3",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "4",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "5",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "6",
+      "type": "X + Facebook"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "7",
+      "type": "X + Facebook"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Gary Woodland Wins Houston Open — Course Record, Masters Berth",
+      "tier": 1,
+      "status": "",
+      "angle": "Emotional comeback win; career resurrection; Masters invitation",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Gary Woodland just WON the Houston Open.\n\n21-under. New course record. First tour win since brain surgery.\n\nA week after revealing his PTSD battle, he earns a Masters invitation.\n\nOne of the best comeback stories in golf. #GolfFanrecap #PGATour",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#PGATour"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Woodland by FIVE shots. 21-under 259. New Memorial Park record.\n\nFirst PGA Tour win since 2019. First since brain tumor surgery.\n\nAnd now he's going to Augusta.\n\nThis one means more than a tournament win. #GolfFanrecap #HoustonOpen",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#HoustonOpen"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-gary-woodland-wins-houston-open-masters-comeback.html",
+        "headline": "Gary Woodland Wins Houston Open — First Victory Since Brain Surgery, Masters Berth Earned",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Comeback Win Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Woodland celebrating or fist pump. Text overlay: \"WOODLAND WINS\" in primary green (or white on dark) Bebas Neue large. Below: \"21-UNDER · COURSE RECORD\" in gold. Subtext: \"FIRST WIN SINCE BRAIN SURGERY — MASTERS BOUND\" in white Montserrat.",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Masters Invitation Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Woodland on course. Dark overlay. \"SEE YOU AT AUGUSTA\" in gold Bebas Neue large. Below: \"HOUSTON OPEN CHAMPION — 5 SHOTS CLEAR\" in white. Subtext: \"HIS FIRST WIN SINCE 2019\" in light text.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Tiger Woods DUI Update — Legal Charges Filed, Masters Status in Doubt",
+      "tier": 1,
+      "status": "",
+      "angle": "New developments — mugshot, legal charges, Trump comment, Masters timeline",
+      "posting_window": "8:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Tiger Woods mugshot released. Charges filed: DUI, property damage, refusing a urine test.\n\nTrump on Fox News: \"He will be there, but he won't be playing.\"\n\nMasters status: very uncertain.\n\nThe most complicated story in golf right now. #GolfFanrecap #TigerWoods",
+          "posting_time": "8:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#TigerWoods"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Tiger is still scheduled to appear at Augusta on April 5 for The Patch project.\n\nHe is legally allowed to play the Masters.\n\nBut physically? Legally? Emotionally?\n\nThere are a lot of questions and not many answers. #GolfFanrecap #Masters2026",
+          "posting_time": "8:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters2026"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-tiger-woods-dui-charges-masters-status-uncertain.html",
+        "headline": "Tiger Woods DUI Charges Filed — Mugshot Released, Masters Status Increasingly Uncertain",
+        "word_count": 642
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "News Alert Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Tiger in golf action shot (NOT mugshot — use golf imagery). Dark overlay with slight red tint. \"TIGER UPDATE\" in gold Bebas Neue at top. Below: \"MUGSHOT RELEASED · CHARGES FILED\" in white. Subtext: \"MASTERS STATUS UNCERTAIN\" in white Montserrat small.",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Masters Question Mark (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Augusta aerial/green. Dark overlay. Text: \"TIGER & THE MASTERS\" in gold Bebas Neue. Below: \"WILL HE PLAY APRIL 9?\" in white large. Subtext: \"DUI CHARGES · PHYSICAL UNCERTAINTY\" in light text.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Hyo Joo Kim Back-to-Back LPGA Wins — Ford Championship",
+      "tier": 1,
+      "status": "",
+      "angle": "Historic back-to-back LPGA wins; historic scoring achievement",
+      "posting_window": "9:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "HYO JOO KIM wins the Ford Championship.\n\nBACK-TO-BACK LPGA titles. 28-under 260. Beats Korda by 2.\n\nShe also shot two rounds of 61 in the same tournament — first in LPGA HISTORY.\n\nShe is absolutely on FIRE. #GolfFanrecap #LPGA",
+          "posting_time": "9:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGA"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Nelly Korda: runner-up for the second straight week.\n\nLydia Ko: opened with a 60, finished T4.\n\nHyo Joo Kim: won BOTH events.\n\nThe LPGA has a new dominant force and her name is Hyo Joo Kim. #GolfFanrecap #LPGATour",
+          "posting_time": "9:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGATour"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:30 AM ET"
+      },
+      "article": {
+        "filename": "article-03-hyo-joo-kim-back-to-back-lpga-ford-championship.html",
+        "headline": "Hyo Joo Kim Claims Back-to-Back LPGA Titles at Ford Championship — Makes History in the Process",
+        "word_count": 511
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Back-to-Back Trophy (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Kim celebrating or trophy moment. \"BACK-TO-BACK\" in gold Bebas Neue massive. Below: \"HYO JOO KIM — FORD CHAMPIONSHIP\" in white. Subtext: \"FIRST IN LPGA HISTORY — TWO 61-ROUNDS IN ONE TOURNAMENT\" in light Montserrat small.",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Domination Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Kim on course. Stat block: \"28-UNDER · 2 SHOTS OVER KORDA\" in white. Title: \"HYO JOO KIM\" in gold Bebas Neue. Subtext: \"FOUNDERS CUP + FORD CHAMPIONSHIP\" in white Montserrat.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Masters 10 Days Out — Field Now Set",
+      "tier": 2,
+      "status": "",
+      "angle": "Field now finalized; Woodland's exemption; Tiger's shadow over Augusta",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Masters is 10 DAYS AWAY.\n\nField is set. Woodland is in after Sunday's win.\n\nScheffler (+480). McIlroy defending (+1000).\n\nTiger? Unclear. The biggest major of the year just got even more dramatic. #GolfFanrecap #Masters2026",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters2026"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-04-masters-2026-field-set-10-days-away.html",
+        "headline": "Masters 2026 Field Set — 10 Days to Augusta, Scheffler the Favorite, Tiger's Shadow Looms Large",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Masters Countdown (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Augusta National green/azalea background. Dark overlay. \"10 DAYS TO AUGUSTA\" in gold Bebas Neue large. Below: \"SCHEFFLER +480 · McILROY DEFENDING\" in white. Subtext: \"APRIL 9–12, 2026\" in light text.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Valero Texas Open Preview — Last Event Before Masters",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Last PGA event before Augusta; 22 Masters invitees in field; Fowler/Zalatoris chasing spots",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Valero Texas Open starts Thursday — last event before the Masters.\n\n22 Masters invitees are playing at TPC San Antonio.\n\nFleetwood leads odds. Fowler and Zalatoris fighting for Masters spots.\n\nThe Augusta countdown is on. #GolfFanrecap #PGATour",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#PGATour"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-valero-texas-open-preview-masters-tune-up.html",
+        "headline": "Valero Texas Open Preview — The Last Stop Before Augusta, With Augusta Spots Still on the Line",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Preview Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Golf course aerial. \"VALERO TEXAS OPEN\" in gold Bebas Neue. Below: \"APR 2-5 · LAST STOP BEFORE MASTERS\" in white. Subtext: \"22 MASTERS INVITEES IN THE FIELD\" in light text.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Lydia Ko Finishes 4th After Historic Opening 60",
+      "tier": 3,
+      "status": "",
+      "angle": "Fade from record-setting opening round; still a memorable week",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Lydia Ko opened the Ford Championship with a 60.\n\nClosed Sunday with a 68. Fell to 4th.\n\nIt wasn't the finish she wanted — but a career-best opening round and a top-5 finish is a great week.\n\nKo has her eyes on Las Vegas next. #GolfFanrecap #LPGA",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGA"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 6A",
+          "size_desc": "Ko Comeback Week (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Ko on course. Text: \"OPENED WITH 60\" in gold. Below: \"LYDIA KO — FORD CHAMPIONSHIP T4\" in white. Subtext: \"CAREER-BEST OPENING ROUND · EYES NEXT WEEK\" in light small text.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Masters Grand Slam Chasers — Schauffele, Morikawa, Koepka",
+      "tier": 3,
+      "status": "",
+      "angle": "Career Grand Slam within reach; historical rarity; DeChambeau also in contention",
+      "posting_window": "8:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "THREE players can complete the Career Grand Slam at Augusta in 10 days:\n\nSchauffele. Morikawa. Koepka.\n\nEach needs only the Masters.\n\nDeChambeau (back-to-back LIV wins) is also in the mix at +1200.\n\nThe most loaded Masters in years. #GolfFanrecap #Masters2026",
+          "posting_time": "8:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters2026"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 7A",
+          "size_desc": "History Waiting (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "Augusta aerial. Dark overlay. \"THREE PLAYERS. ONE GRAND SLAM.\" in gold Bebas Neue large. Below: \"SCHAUFFELE · MORIKAWA · KOEPKA\" in white. Subtext: \"ALL NEED ONLY THE MASTERS\" in light Montserrat.",
+          "usage": ""
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

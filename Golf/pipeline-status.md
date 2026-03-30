@@ -7,17 +7,28 @@ Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-03-29 |
-| Writing | Complete (all 7 files + 6 articles) | 2026-03-29 |
-| Fact-check | Complete (verify-facts.py run) | 2026-03-29 |
-| Scripts | Complete (all 6 scripts run) | 2026-03-29 |
-| PostPlanner | Complete (standard + TOBI exports) | 2026-03-29 |
-| Dashboard | Generated locally (push blocked — see notes) | 2026-03-29 |
+| Research | Complete | 2026-03-30 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-03-30 |
+| Fact-check | Complete (verify-facts.py run — 35 claims, 67 HIGH) | 2026-03-30 |
+| Scripts | Complete (all 6 scripts run) | 2026-03-30 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-03-30 |
+| Dashboard | Generated locally (push blocked — see notes) | 2026-03-30 |
 | Published | Pending upload | — |
 
 ## Queue
 
 (No items in queue.)
+
+## Pipeline Run: 2026-03-30
+- **Research:** 5 web searches covering Houston Open final results, LPGA Ford Championship final, Tiger Woods DUI charges update, Masters field update, Valero Texas Open preview
+- **Stories (7):** Woodland wins Houston (T1), Tiger DUI charges/mugshot (T1), Hyo Joo Kim back-to-back LPGA wins (T1), Masters 10 days out (T2), Valero Texas Open preview (T2), Lydia Ko 4th (T3), Grand Slam chasers (T3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 14 (long-form + caption for each of 7 stories)
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** gfr-postplanner-2026-03-30.xlsx + gfr-postplanner-tobi-2026-03-30.xlsx (10 posts each)
+- **Dashboard:** Generated at Golf/golf-content-2026-03-30/review-dashboard.html
+- **Key facts:** Woodland 21-under 259 (new course record, wins by 5). Kim first LPGA player with two 61s in same tournament. Tiger mugshot released, formal DUI charges. Masters field ~92 players, Scheffler +480. Valero Texas Open starts April 2.
+- **Fact concerns:** All published facts HIGH or MEDIUM confidence. Gary Player Grand Slam year (1965) marked MEDIUM — consistently stated in sources but single-source for this session.
 
 ## Notes
 
