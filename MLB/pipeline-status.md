@@ -1,21 +1,33 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-03-30
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches), brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
+- **Dashboard Published**: Yes (pushed to fangearhq-boop/content-pipeline via publish-dashboard.py)
+- **Issues**: publish-unified-dashboard.py 403 error (fine-grained PAT scoped to content-pipeline only). Used publish-dashboard.py instead — pushed to content-pipeline. Same non-fast-forward pattern; fixed with git pull --rebase + git push -u origin HEAD:main.
+
+## Previous Run
 - **Date**: 2026-03-29
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (14+ searches), brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes (https://fangearhq-boop.github.io/content-dashboards/)
 - **Issues**: publish-dashboard.py required git pull --rebase before push (non-fast-forward, known pattern)
-
-## Previous Run
-- **Date**: 2026-03-28
-- **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
-- **Dashboard Published**: Yes (https://fangearhq-boop.github.io/content-dashboards/)
 
 ## Deploy Info
 - **Dashboard:** Unified (fangearhq-boop/content-dashboards, subfolder: bb)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-30
+- **Steps completed:** Full pipeline 1-15
+- **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 9 (all under 280 chars; 5 char-limit violations fixed on first verify-facts pass)
+- **FB Posts:** 7 long-form + 7 image captions
+- **Articles:** 6 (Stories 1-6; Story 7 Tier 3 excluded per tier rules)
+- **PostPlanner exports:** bb-postplanner-2026-03-30.xlsx (16 posts) + bb-postplanner-tobi-2026-03-30.xlsx (9 TOBI posts)
+- **Fact-check:** 5 char-limit violations fixed (Stories 1, 2, 3, 5, 7 tweet #1). 0 consistency errors after fixes. Image manifest not_started (expected).
+- **Dashboard:** Published (pushed to content-pipeline repo; publish-unified-dashboard.py blocked by 403 on fine-grained PAT)
+- **Notes:** 10+ web searches. Key stories: Giants 20 scoreless innings franchise record 1909 (P10), Murakami HR in first 3 MLB games 4th player ever (P10), Hancock 6 no-hit innings joins Félix Hernández Mariners company (P8), Brewers sweep Yelich PH homer first career (P8), Ohtani pitching debut March 31 (P7), Gore Rangers debut 5 hitless IP (P7), Early standings Judge 400 HR chase (P5)
 
 ### 2026-03-29
 - **Steps completed:** Full pipeline 1-15

@@ -5,6 +5,20 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-03-30
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Giants go 20 straight innings without scoring to open 2026 — matches franchise record from 1909. Swept by Yankees 13-1. Finally scored in Game 3 (Jung Hoo Lee double, Matt Chapman RBI single) but lost 3-1. | 1 | NEW STORY (unusual stat) |
+| 2 | Munetaka Murakami (White Sox) homers in first 3 MLB games — only 4th player in history (Sportradar). Others: DeLauter (this week), Trevor Story (2016), Kyle Lewis (2019). Story holds record at 4. | 1 | NEW STORY (unusual stat) |
+| 3 | Emerson Hancock 6 no-hit innings, Mariners 8-0 Guardians. Career-high 9 Ks, 97 pitches. No ball left infield. Pulled after 6; DeLauter singled off Criswell in 7th. Joins Félix Hernández in Mariners company. | 2 | NEW STORY |
+| 4 | Brewers complete season-opening sweep of White Sox 9-7. Yelich pinch-hit 3-run HR (1st career PH homer), 421 ft, 111.1 mph. Trailed 7-2 after 3 innings. Murakami homered again (3rd straight) in losing cause. | 2 | NEW STORY |
+| 5 | Shohei Ohtani pitching debut preview — March 31 vs. Guardians at Dodger Stadium. Final spring: 4+ IP, 11 K, 86 pitches. Roberts: "He's ready." No restrictions going forward. Possible Cy Young contender. | 2 | PREVIEW |
+| 6 | MacKenzie Gore (Rangers debut) 5 hitless innings, 7 Ks vs. Phillies. Crawford single in 6th ended bid. Struck out Harper with bases loaded. Nimmo 2-run HR, McCutchen 3-run HR. Rangers win series 2-1. | 2 | NEW STORY |
+| 7 | Early season standings: Dodgers 3-0, Yankees 3-0, Brewers 3-0. Aaron Judge needs 32 HR for 400 — on pace to be fastest in MLB history (McGwire record: 1,412 games). Would be 4th Yankee at 400 (Ruth, Mantle, Gehrig). | 3 | NEW STORY |
+
+---
+
 ## 2026-03-29
 
 | # | Story | Tier | Tag |
