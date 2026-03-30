@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Content Pipeline — Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #1A1A2E;
+    color: #fff;
+    min-height: 100vh;
+  }
+  .header {
+    background: linear-gradient(135deg, #FF8A00 0%, #E53935 100%);
+    padding: 2.5rem 1.5rem;
+    text-align: center;
+  }
+  .header h1 {
+    font-family: 'Bebas Neue', Impact, sans-serif;
+    font-size: 2.8rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 0.3rem;
+  }
+  .header p {
+    font-size: 1rem;
+    opacity: 0.9;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+  .section-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgba(255,255,255,0.4);
+    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  .niche-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 14px;
+    padding: 2rem 1.5rem;
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.2s ease;
+    text-align: center;
+    min-height: 140px;
+  }
+  .niche-card:hover {
+    background: rgba(255,138,0,0.15);
+    border-color: #FF8A00;
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(255,138,0,0.15);
+  }
+  .niche-card .icon {
+    font-size: 2.2rem;
+    margin-bottom: 0.8rem;
+  }
+  .niche-card .brand {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+  }
+  .niche-card .folder {
+    font-size: 0.75rem;
+    color: rgba(255,255,255,0.4);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .footer {
+    text-align: center;
+    padding: 2rem;
+    color: rgba(255,255,255,0.3);
+    font-size: 0.8rem;
+  }
+  .footer a {
+    color: #FF8A00;
+    text-decoration: none;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Content Pipeline</h1>
+  <p>Daily content review dashboards across all niches</p>
+</div>
+
+<div class="container">
+
+  <div class="section-label">Sports</div>
+  <div class="grid">
+    <a href="Softball/" class="niche-card">
+      <div class="icon">🥎</div>
+      <div class="brand">I Love Softball</div>
+      <div class="folder">Softball</div>
+    </a>
+    <a href="Cubs/" class="niche-card">
+      <div class="icon">🐻</div>
+      <div class="brand">Chicago Cubs Fan HQ</div>
+      <div class="folder">Cubs</div>
+    </a>
+    <a href="MLB/" class="niche-card">
+      <div class="icon">⚾</div>
+      <div class="brand">Ballpark Banter</div>
+      <div class="folder">MLB</div>
+    </a>
+    <a href="NBA/" class="niche-card">
+      <div class="icon">🏀</div>
+      <div class="brand">Hoop Heroes</div>
+      <div class="folder">NBA</div>
+    </a>
+    <a href="F1/" class="niche-card">
+      <div class="icon">🏎️</div>
+      <div class="brand">F1 Fanrecap</div>
+      <div class="folder">F1</div>
+    </a>
+    <a href="Golf/" class="niche-card">
+      <div class="icon">⛳</div>
+      <div class="brand">Golf Fanrecap</div>
+      <div class="folder">Golf</div>
+    </a>
+    <a href="Tennis/" class="niche-card">
+      <div class="icon">🎾</div>
+      <div class="brand">Tennis Fanrecap</div>
+      <div class="folder">Tennis</div>
+    </a>
+  </div>
+
+  <div class="section-label">Lifestyle</div>
+  <div class="grid">
+    <a href="Parenting/" class="niche-card">
+      <div class="icon">👶</div>
+      <div class="brand">COS Parenting</div>
+      <div class="folder">Parenting</div>
+    </a>
+  </div>
+
+</div>
+
+<div class="footer">
+  <a href="https://github.com/fangearhq-boop/content-pipeline">GitHub Repo</a>
+</div>
+
+</body>
+</html>
