@@ -11,6 +11,7 @@
 Read: {NICHE}/pipeline-status.md
 Read: {NICHE}/niche-config.yaml
 Read: {NICHE}/seasonal-calendar.md
+Read: {NICHE}/top-posts.md (if exists — exemplar posts for voice matching)
 Read: _engine/CLAUDE.md
 ```
 - Check if today's pipeline has already been started (partially or fully)

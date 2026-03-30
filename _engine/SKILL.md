@@ -194,6 +194,11 @@ For each story, produce:
 Read `_engine/references/format-x-posts.md` for the universal structure, then
 read the niche's `brand-guide.md` and `brand-voice.md` for voice rules.
 
+**Exemplar posts:** If the niche has a `top-posts.md` file, read it now. These are real
+posts that performed well — study the tone, hooks, structure, and energy. Your goal is
+to sound like the brand's best work, not just follow rules. Match what actually connects
+with the audience.
+
 Content by tier:
 - **Tier 1**: 2 Text Posts (different angles — e.g., informative + bold take) + Image Post Concept
 - **Tier 2**: 1-2 Text Posts + Image Post Concept
@@ -219,6 +224,9 @@ each count as characters. If Step 10 reports any over 280, fix them before gener
 
 Read `_engine/references/format-facebook-posts.md` for the universal structure, then
 read the niche's `brand-guide.md` and `brand-voice.md` for voice rules.
+
+**Exemplar posts:** If the niche has a `top-posts.md` file and you haven't already read
+it in Step 6, read it now. Match the voice, structure, and hooks of proven winners.
 
 Each story gets:
 - **Long-Form Post**: 3-5 short paragraphs with blank lines between each, conversational, explains story for the niche's audience

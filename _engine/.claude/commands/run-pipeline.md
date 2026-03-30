@@ -16,6 +16,7 @@ Read these files based on the niche argument ($ARGUMENTS):
 Read: {NICHE_ROOT}/pipeline-status.md
 Read: {NICHE_ROOT}/niche-config.yaml
 Read: {NICHE_ROOT}/seasonal-calendar.md
+Read: {NICHE_ROOT}/top-posts.md (if exists — exemplar posts for voice matching)
 Read: _engine/CLAUDE.md
 Read: _engine/daily-runbook.md
 ```
