@@ -6,13 +6,13 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-03-30 |
-| Writing | Complete (all steps) | 2026-03-30 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-03-30 |
-| Compile | Complete (07-content-data.json) | 2026-03-30 |
-| Dashboard | Complete (review-dashboard.html) | 2026-03-30 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-03-30 |
-| Publishing | Attempted — push failed (PAT lacks write access to content-dashboards repo) | 2026-03-30 |
+| Research | Complete | 2026-03-31 |
+| Writing | Complete (all steps) | 2026-03-31 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-03-31 |
+| Compile | Complete (07-content-data.json) | 2026-03-31 |
+| Dashboard | Complete (review-dashboard.html) | 2026-03-31 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-03-31 |
+| Publishing | Attempted — push failed (PAT lacks write access to content-dashboards repo) | 2026-03-31 |
 
 ## Queue
 
@@ -23,6 +23,38 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-03-31 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions) = 16 total
+- **Articles:** 5
+- **PostPlanner exports:** tfr-postplanner-2026-03-31.xlsx (16 posts), tfr-postplanner-tobi-2026-03-31.xlsx (11 TOBI posts)
+- **Coverage:** Monte Carlo draw (Alcaraz No. 1 seed/defending, Sinner No. 2/zero to defend), Houston Day 2 (Etcheverry out, Blanch wins, Shelton vs. Zhang Apr 1), Charleston Open (Badosa wild card, Pegula defends), Monte Carlo wildcards (Wawrinka + Berrettini), Monte Carlo dark horses (Fonseca/Draper/Fils)
+- **Research:** Multiple web searches covering Monte Carlo draw, Houston Day 2 results, Charleston draw, wildcards confirmation
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 37 claims extracted; image warnings expected (production not yet started)
+  - compile-content-data.py: "Fact-Check no log found" and "no posting window" notes are cosmetic; all content compiled successfully; 6 X posts, 5 FB posts, 5 articles
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as previous runs)
+  - Key facts: Alcaraz No. 1 seed (13,590 pts, defending MC champion), Sinner No. 2 seed (12,400 pts, zero to defend); Etcheverry d. by Gomez after 6-0 first set; Draxl d. Basavareddy; Blanch wins; Shelton vs. Zhang Apr 1; Charleston: Badosa wild card vs. Day, Pegula defends (vs. Putintseva Apr 1); Wawrinka (42, 2014 MC champion) + Berrettini wildcards; Fonseca MC debut
+- **Files created:**
+  - `tennis-content-2026-03-31/00-daily-brief.md`
+  - `tennis-content-2026-03-31/01-research-notes.md`
+  - `tennis-content-2026-03-31/02-story-analysis.md`
+  - `tennis-content-2026-03-31/03-social-posts-x.md`
+  - `tennis-content-2026-03-31/04-social-posts-facebook.md`
+  - `tennis-content-2026-03-31/05-image-concepts.md`
+  - `tennis-content-2026-03-31/06-fact-check-log.md`
+  - `tennis-content-2026-03-31/07-content-data.json`
+  - `tennis-content-2026-03-31/07-image-manifest.md`
+  - `tennis-content-2026-03-31/review-dashboard.html`
+  - `tennis-content-2026-03-31/articles/article-01-monte-carlo-draw-sinner-alcaraz-no1-race-2026.html`
+  - `tennis-content-2026-03-31/articles/article-02-houston-day2-etcheverry-blanch-shelton-2026.html`
+  - `tennis-content-2026-03-31/articles/article-03-charleston-open-badosa-pegula-2026.html`
+  - `tennis-content-2026-03-31/articles/article-04-monte-carlo-wildcards-wawrinka-berrettini-2026.html`
+  - `tennis-content-2026-03-31/articles/article-05-monte-carlo-dark-horses-fonseca-draper-fils-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-03-31.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-03-31.xlsx`
 
 ### 2026-03-30 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
