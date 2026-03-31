@@ -2,6 +2,66 @@
 
 ---
 
+## March 31, 2026
+
+### Story 1: CPSC Safety Alert — Infant Walkers, Strollers, Travel Bassinets & Baby Monitors
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (different products from March 29 and March 30 recalls)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Key Facts:** Uuoeebb Infant Walkers (Amazon/BaoD) — triple hazard: pass through doorways, fail to stop at step edges, leg opening entrapment; AliExpress Convertible Strollers — restraint failure/fall hazard, $215-$415, sold Sep 2024-Oct 2025; Tuyedoqe Travel Bassinets — CPSC Warning (not formal recall, company refused to cooperate), ~250 units Amazon Apr-Oct 2025, ~$40; Babysense Max View Baby Monitors — overheating/sparking fire hazard when charging
+- **Follow-Up Opportunities:**
+  - Infant walker safety guide (evergreen)
+  - How to report unsafe products to CPSC (saferproducts.gov)
+  - Monthly CPSC recall roundup continuation
+  - AliExpress/Amazon third-party seller safety awareness article
+
+### Story 2: COS Easter Weekend Guide 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Key Facts:** Easter Sunday = April 5, 2026; ViewHouse Easter brunch + egg hunt + Easter Bunny photos (April 5, 9am-3pm); Easter Eve Food Festival (chocolate & cheese, April 4, Norris Penrose Event Center/Old Colorado City); Royal Gorge Sunrise Service (Easter Sunday, limited seating, dress warm); brunch reservations fill 1-2 weeks ahead
+- **Follow-Up Opportunities:**
+  - Post-Easter roundup / family recap angle
+  - Summer event planning (May/June)
+  - Mother's Day brunch guide (May 10, 2026)
+
+### Story 3: New Study — 7 Factors That Make Play Fun for Kids (Frontiers in Psychology, March 30, 2026)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (published March 30, 2026 — extremely fresh)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Key Facts:** Published March 30, 2026, Frontiers in Psychology; 7 factors: inclusion, imagination, wild atmosphere, something to do, silliness, achievable goals, "play feeling"; "play feeling" most strongly associated with fun; forcing kids to play together undermines social inclusion — makes play less fun
+- **Follow-Up Opportunities:**
+  - Follow-up on outdoor/unstructured play for COS families (summer angle)
+  - Screen time vs. free play comparison study (evergreen)
+  - COS family activity guide tying in play research
+
+### Story 4: D49 Student Success Center — 2 New Full-Day Preschool Classrooms Opening August 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Key Facts:** Student Success Center opening August 2026 (start of 2026-27 school year); 2 new full-day preschool classrooms; registration open now; D49 coverage = northeast/east COS (Falcon, Peyton, Calhan, Powers Blvd corridor); D49 earned Baldrige Excellence Best Practice Spotlight recognition
+- **Follow-Up Opportunities:**
+  - D49 Student Success Center opening coverage (August 2026)
+  - D11/D20/D49 preschool availability comparison guide
+  - Kindergarten registration deadline reminders (all districts)
+
+### Story 5: April Nature Events — Bear Creek Early Literacy (FREE), Birding Walk, Fountain Creek Habitat Hike
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (different specific events from March 30 April Outdoor Guide)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 3
+- **Key Facts:** Bear Creek Nature Center Early Literacy Event — April 17, 1:30-3pm, FREE, ages birth-8, ASL/deaf & HoH families, co-hosted with Colorado School for the Deaf and the Blind; Aiken Audubon Intermediate Birding Walk — April 9 & 11, $10/person ($8 members); Fountain Creek Habitat Exploration — April 24, 2-4pm, grades 3-6, $4/person; Bear Creek Homeschool Programs — April 23, 1-3:30pm, $4/person, preregistration required
+- **Follow-Up Opportunities:**
+  - May nature events calendar
+  - Fountain Creek Regional Park spotlight (evergreen)
+  - Aiken Audubon birding series follow-up
+
+---
+
 ## March 30, 2026
 
 ### Story 1: CMZoo Centennial — 100 Years + $40M Giraffe Center Opening Summer 2026
