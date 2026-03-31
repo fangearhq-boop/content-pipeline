@@ -5,6 +5,20 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-03-31
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Shohei Ohtani makes 2026 pitching debut tonight vs. Guardians at Uniqlo Field (7:10 PM PT). Full two-way season, no restrictions. Middle act of first-ever 3-game sequence of consecutive Japanese-born starters in MLB history (Sasaki Mon, Ohtani Tue, Yamamoto Wed per Elias). | 1 | FOLLOW-UP (3/30 Story 5 preview) |
+| 2 | Blue Jays set MLB record with 50 strikeouts in first 3 games of season (sweep of A's). Gausman 11 Ks (new Blue Jays OD record), Cease 12 Ks (new Blue Jays debut record). First teammates since 1901 to each record 11+ Ks in team's first two games. | 1 | NEW STORY |
+| 3 | Aaron Judge hits first HR of 2026 after a successful ABS challenge in the same at-bat. Enters 2026 with 368 career HRs, needs 32 to reach 400. On pace to break McGwire's record for fewest career games to reach 400 (current: 1,412 games; Judge has played 1,145). | 2 | FOLLOW-UP (3/30 Story 7 standings note) |
+| 4 | ABS challenge system debut: CB Bucknor had 8 calls challenged in one game, 6 overturned. First full slate of Opening Week games produced 6 overturned calls in a single game. System uses cameras + tracking technology; players tap cap/helmet to challenge. | 2 | NEW STORY |
+| 5 | Guardians handed Dodgers their first loss of 2026 (4-2 Monday). Parker Messick 6 scoreless IP. Dodgers had opened season 3-0 with comeback victories in each game. Three-peat bid gets its first test; Ohtani pitches tonight. | 2 | FOLLOW-UP (three-peat storyline) |
+| 6 | 2026 rookie class already unprecedented: DeLauter (2 HRs in debut), Murakami (3 HRs in first 3 games — 4th player ever), Wetherholt (OD HR + walk-off in Game 2). Murakami's 3-game HR streak ties Story (2016) and Lewis (2019). | 2 | FOLLOW-UP (3/30 Story 2) |
+| 7 | Early standings after Week 1: Yankees 3-0 (sweep SF), Blue Jays 3-0 (sweep OAK), Brewers 3-0 (sweep CWS). Dodgers 3-1 after Guardians loss Monday. | 3 | NEW STORY |
+
+---
+
 ## 2026-03-30
 
 | # | Story | Tier | Tag |

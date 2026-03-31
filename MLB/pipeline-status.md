@@ -1,22 +1,34 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-03-31
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8+ searches), brief, analysis, X posts, FB posts, image concepts, articles (5), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
+- **Dashboard Published**: Yes (pushed to fangearhq-boop/content-pipeline via publish-dashboard.py)
+- **Issues**: Non-fast-forward push (known pattern); fixed with git pull --rebase + git push -u origin HEAD:main.
+
+## Previous Run
 - **Date**: 2026-03-30
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches), brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes (pushed to fangearhq-boop/content-pipeline via publish-dashboard.py)
 - **Issues**: publish-unified-dashboard.py 403 error (fine-grained PAT scoped to content-pipeline only). Used publish-dashboard.py instead — pushed to content-pipeline. Same non-fast-forward pattern; fixed with git pull --rebase + git push -u origin HEAD:main.
-
-## Previous Run
-- **Date**: 2026-03-29
-- **Steps Completed**: Full pipeline (Steps 1-15) — research (14+ searches), brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
-- **Dashboard Published**: Yes (https://fangearhq-boop.github.io/content-dashboards/)
-- **Issues**: publish-dashboard.py required git pull --rebase before push (non-fast-forward, known pattern)
 
 ## Deploy Info
 - **Dashboard:** Unified (fangearhq-boop/content-dashboards, subfolder: bb)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-31
+- **Steps completed:** Full pipeline 1-15
+- **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 8 (all under 280 chars; 0 violations on verify-facts)
+- **FB Posts:** 7 long-form + 7 image captions
+- **Articles:** 5 (Stories 1-5; Story 6 Tier 2 optional — no article by design; Story 7 Tier 3 excluded)
+- **PostPlanner exports:** bb-postplanner-2026-03-31.xlsx (22 posts, 11:10–21:19) + bb-postplanner-tobi-2026-03-31.xlsx (15 TOBI posts)
+- **Fact-check:** 0 char-limit violations. Consistency warnings: Story 7 missing from image-concepts (intentional Tier 3 exclusion); Story 6 no article (intentional optional omission); image manifest format mismatch (cosmetic). No blocking issues.
+- **Dashboard:** Published (pushed to content-pipeline repo; non-fast-forward fixed with git pull --rebase)
+- **Notes:** 8+ web searches. Key stories: Ohtani 2026 pitching debut vs. Guardians tonight — first full 2-way season / unprecedented 3-game Japanese starter sequence (Sasaki-Ohtani-Yamamoto per Elias) (P10); Blue Jays 50 Ks in 3 games MLB record — Gausman 11 Ks OD record, Cease 12 Ks debut record, first teammates since 1901 with 11+ Ks each in first 2 games (P10); Judge first HR 2026 via ABS challenge — 368 career HRs, 32 from 400 (P8); ABS system debut — 6 overturned calls in one game, Bucknor 8 challenges (P8); Dodgers first loss to Guardians 4-2 / Messick 6 scoreless — three-peat bid (P7); 2026 rookie class DeLauter + Murakami + Wetherholt (P7); Early standings Yankees/Blue Jays/Brewers 3-0 (P5)
+- **Fact concerns:** Ohtani 2025 ERA — 2.87 used (dodgerblue.com/BB-Ref); one secondary source cited 3.34 in 67⅓ IP. Stadium rename to Uniqlo Field (March 16) confirmed via search results.
 
 ### 2026-03-30
 - **Steps completed:** Full pipeline 1-15
