@@ -1,7 +1,7 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-30
+- **Date**: 2026-03-31
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
 - **Dashboard Published**: Local only (content-dashboards push requires PAT with write access to fangearhq-boop/content-dashboards)
 
@@ -10,6 +10,19 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-31
+- **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access)
+- **Stories:** 7 total (3 Tier 1, 2 Tier 2, 2 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, 14 posts (long-form + caption each)
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-03-31.xlsx (24 posts) + hh-postplanner-tobi-2026-03-31.xlsx (17 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-03-31/review-dashboard.html
+- **Notes:** Wemby 41/16 season high (fastest DD in NBA history per reports). LeBron ties Kareem career wins record (1,228) with triple-double + first father-son assist in NBA history (Bronny). Edwards returns from 6-game absence, Wolves rout Mavs 124-94, Dosunmu 16/15/12 triple-double. Knicks clinch via Heat 119-76ers 109. Curry 25+ games missed, Warriors fate. MVP race: Wemby No. 1, SGA No. 2, Jokic triple-double averages (28/12.6/10.6).
+- **Market balance:** West (Spurs/Wemby, Thunder/SGA, Nuggets/Jokic, Timberwolves/Edwards, Lakers/LeBron+Bronny, Warriors/Curry) + East (Knicks, Celtics, Heat/Adebayo)
+- **Fact concerns:** Fastest DD claim is MEDIUM confidence — used with cautious language ("reportedly"). Father-son assist is MEDIUM — used carefully. All other core facts are HIGH confidence from ESPN, Basketball-Reference, NBA.com.
 
 ### 2026-03-30
 - **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)

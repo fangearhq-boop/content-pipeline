@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-03-31
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Wembanyama 41 pts (season high), 16 reb vs Bulls — Spurs 129-114. Fastest double-double in NBA history (per reports). Spurs 9-game win streak, 56-18. Wemby No. 1 Kia MVP Ladder (24.2/11.3/3.1 BPG). | 1 | FOLLOW-UP (3/28 Wemby No. 1 MVP; 3/29 Spurs blowout Bucks) |
+| 2 | LeBron James records career win No. 1,228 — ties Kareem Abdul-Jabbar's all-time wins record. Triple-double: 21/10/12. LeBron-to-Bronny assist reported as first father-son assist in NBA history. Bronny double figures in back-to-back games. | 1 | NEW STORY |
+| 3 | Anthony Edwards returns from 6-game absence (right knee patellofemoral syndrome), 17 pts off bench. Wolves rout Mavs 124-94. Dosunmu 16/15/12 (first triple-double since trade deadline). Randle 24. Gobert 14/10. MIN 46-29, 5th West. | 1 | FOLLOW-UP (3/30 Edwards upgraded to questionable) |
+| 4 | Knicks clinch 2026 playoff berth via proxy — Heat 119, 76ers 109. Bam Adebayo 23/16/6. NYK 48-27, join BOS and DET as confirmed East playoff teams. East seeds 5-10 separated by 3.5 games. | 2 | FOLLOW-UP (ongoing East playoff picture; 3/30 Boston clinched) |
+| 5 | Curry 25+ straight games missed (out since Jan 30 vs DET). Not cleared for 5-on-5. Warriors 35-38, 10th West (Play-In). Butler III and Moody out for season. Kerr: season shutdown a real possibility. | 2 | FOLLOW-UP (3/30 Curry no return timeline) |
+| 6 | MVP race: Wemby No. 1 (Kia Ladder 3/27). SGA No. 2 (leads league Win Shares/48). Jokic No. 3 (28/12.6/10.6 on 67.6% TS%). Luka No. 4 but suspended for 16th tech. Cade drops out (below 65-game threshold, collapsed lung). Brown No. 5. | 2 | FOLLOW-UP (3/28 Wemby No. 1; 3/29 Jokic historic efficiency) |
+| 7 | Lakers can clinch tonight (win + Phoenix loss = playoff berth + Pacific Division). Luka suspended. Season ends April 12. Play-In: April 14-17. Playoffs: April 18. West seeds 3-8 within 3 games. | 3 | FOLLOW-UP (ongoing playoff picture) |
+
+---
+
 ## 2026-03-30
 
 | # | Story | Tier | Tag |
