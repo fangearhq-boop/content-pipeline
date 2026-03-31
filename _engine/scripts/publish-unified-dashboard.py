@@ -509,6 +509,37 @@ def _extract_post_count(html_path):
 # Git / deployment helpers
 # ---------------------------------------------------------------------------
 
+def _detect_github_pat():
+    """Extract GitHub PAT from the current repo's git remote URL.
+
+    Checks GITHUB_TOKEN env var first, then falls back to parsing the PAT
+    embedded in the content-pipeline origin remote URL (format:
+    https://<pat>@github.com/...). This means any environment that can push
+    to content-pipeline can also push to content-dashboards — single source
+    of truth, no extra env var needed.
+    """
+    pat = os.environ.get('GITHUB_TOKEN', '')
+    if pat:
+        return pat
+
+    try:
+        result = subprocess.run(
+            ['git', 'remote', 'get-url', 'origin'],
+            capture_output=True, text=True, timeout=5,
+            cwd=str(find_engine_root().parent)
+        )
+        if result.returncode == 0:
+            url = result.stdout.strip()
+            # Match https://<token>@github.com/...
+            match = re.match(r'https://([^@]+)@github\.com/', url)
+            if match:
+                return match.group(1)
+    except (subprocess.TimeoutExpired, FileNotFoundError):
+        pass
+
+    return ''
+
+
 def clone_or_pull_repo(tmp_dir):
     """Clone the unified repo to tmp_dir. If it exists, pull latest."""
     repo_path = Path(tmp_dir) / 'content-dashboards'
@@ -521,7 +552,7 @@ def clone_or_pull_repo(tmp_dir):
         return repo_path
 
     print(f"  Cloning {UNIFIED_REPO}...")
-    pat = os.environ.get('GITHUB_TOKEN', '')
+    pat = _detect_github_pat()
     clone_url = f'https://{pat}@github.com/{UNIFIED_REPO}.git' if pat else f'https://github.com/{UNIFIED_REPO}.git'
     result = subprocess.run(
         ['git', 'clone', clone_url, str(repo_path)],
