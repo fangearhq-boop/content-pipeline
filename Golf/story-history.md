@@ -6,6 +6,13 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-03-31 | T1 | Tiger Woods 9 days to Augusta — listed in Masters field, status officially uncertain, Trump says won't play but no confirmed withdrawal; DUI charges pending | X, FB, Article | FOLLOW-UP from 3/30 DUI mugshot story; legal status same, tournament participation unresolved |
+| 2026-03-31 | T1 | Valero Texas Open starts Thursday — Fleetwood +1400, Aberg +1600, Fowler/Spieth in field; winner earns final Masters invitation; April 2-5 TPC San Antonio | X, FB, Article | FOLLOW-UP from 3/30 Valero preview; third-oldest PGA Tour event |
+| 2026-03-31 | T1 | Masters 2026 countdown 9 days — 90th tournament, Scheffler +480, McIlroy defending (2025 Grand Slam), Amazon Prime debut, Jim Nantz 38th year | X, FB, Article | FOLLOW-UP from 3/30 Masters 10 days out; DeChambeau/Rahm +1200 |
+| 2026-03-31 | T2 | Chevron Championship April 23-26 — Hyo Joo Kim entering as hottest player on tour after back-to-back LPGA wins; first women's major of 2026 season | X, FB, Article | NEW STORY; Kim shot two 61s at Ford Championship; Korda runner-up again |
+| 2026-03-31 | T2 | LIV Golf 2026 format change — events expand to 72 holes (from 54), no cut retained, Doral dropped, New Orleans added; DeChambeau 2 wins entering April | X, FB, Article | NEW STORY; most significant LIV format change since 2022 launch |
+| 2026-03-31 | T3 | Rickie Fowler and Jordan Spieth at Valero — unfinished Augusta business, both seeking Masters berth via Valero win | X, FB | FOLLOW-UP storyline from Valero preview |
+| 2026-03-31 | T3 | Gary Woodland Masters debut — brain surgery to Augusta, won Houston Open by 5 shots for automatic invitation | X, FB | FOLLOW-UP from Woodland win on 3/30 |
 | 2026-03-30 | T1 | Gary Woodland wins Houston Open — 21-under 259 (new course record), first win since brain surgery/PTSD disclosure, earns Masters berth, 5 shots clear of Hojgaard, $1.782M | X, FB, Article | 5th career win; Jake Knapp fired 62 to tie tournament record |
 | 2026-03-30 | T1 | Tiger Woods DUI update — mugshot released, charges filed (DUI + property damage + urine test refusal), Trump says "won't be playing" Masters, legally permitted to play but very uncertain | X, FB, Article | Still scheduled for April 5 Augusta appearance (The Patch project) |
 | 2026-03-30 | T1 | Hyo Joo Kim wins LPGA Ford Championship — back-to-back titles (Founders Cup + Ford), 28-under 260, beats Korda by 2, first LPGA player to shoot two 61s in same tournament; Ko 4th | X, FB, Article | Korda runner-up 2nd straight week; Katsu 3rd at -23 |

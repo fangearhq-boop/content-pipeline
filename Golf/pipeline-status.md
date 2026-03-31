@@ -7,17 +7,28 @@ Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-03-30 |
-| Writing | Complete (all 7 files + 5 articles) | 2026-03-30 |
-| Fact-check | Complete (verify-facts.py run — 35 claims, 67 HIGH) | 2026-03-30 |
-| Scripts | Complete (all 6 scripts run) | 2026-03-30 |
-| PostPlanner | Complete (standard + TOBI exports) | 2026-03-30 |
-| Dashboard | Generated locally (push blocked — see notes) | 2026-03-30 |
+| Research | Complete | 2026-03-31 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-03-31 |
+| Fact-check | Complete (verify-facts.py run — 42 claims, 90 HIGH) | 2026-03-31 |
+| Scripts | Complete (all 6 scripts run) | 2026-03-31 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-03-31 |
+| Dashboard | Generated locally (push blocked — see notes) | 2026-03-31 |
 | Published | Pending upload | — |
 
 ## Queue
 
 (No items in queue.)
+
+## Pipeline Run: 2026-03-31
+- **Research:** 7 web searches covering Tiger Woods Masters status/DUI update, Valero Texas Open start/field/odds, Masters 2026 countdown (9 days), Chevron Championship/Hyo Joo Kim, LIV Golf 2026 format change, Fowler/Spieth Valero storyline, Gary Woodland Masters debut
+- **Stories (7):** Tiger Masters status 9 days (T1), Valero Texas Open starts Thursday (T1), Masters countdown 9 days (T2→T1), Chevron Championship/Kim (T2), LIV Golf 72-hole format (T2), Fowler/Spieth at Valero (T3), Woodland Masters debut (T3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 14 (long-form + caption for each of 7 stories)
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** gfr-postplanner-2026-03-31.xlsx (24 posts) + gfr-postplanner-tobi-2026-03-31.xlsx (17 TOBI posts)
+- **Dashboard:** Generated at Golf/golf-content-2026-03-31/review-dashboard.html (29 items)
+- **Key facts:** Tiger in Masters field but status TBD (DUI charges pending). Valero starts Thursday, Fleetwood +1400 favorite, winner gets final Masters spot. Masters is 90th edition, Scheffler +480, McIlroy defending. Kim enters Chevron on back-to-back wins, shot two 61s at Ford Championship. LIV moves from 54 to 72 holes for 2026, Doral dropped. Woodland earns first Masters invite off Houston Open win.
+- **Fact concerns:** Tiger Masters participation (MEDIUM — conflicting signals; Trump quote sourced, official confirmation pending). All other key facts HIGH confidence.
 
 ## Pipeline Run: 2026-03-30
 - **Research:** 5 web searches covering Houston Open final results, LPGA Ford Championship final, Tiger Woods DUI charges update, Masters field update, Valero Texas Open preview
