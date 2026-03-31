@@ -1,13 +1,20 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-03-31
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (13 searches), brief, analysis, X posts (8), FB posts (14), image concepts, articles (5), fact-check (5 char violations fixed), compile, dashboard, PostPlanner exports (X + TOBI)
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: Non-fast-forward push resolved with git pull --rebase. Daily brief initially used wrong `### STORY N (Tier N):` format; fixed to `### STORY N:` pattern required by scripts.
+
+## Previous Run
 - **Date**: 2026-03-30
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches), brief, analysis, X posts (8), FB posts (14), image concepts, articles (6), fact-check, compile, dashboard, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
 - **Issues**: publish-dashboard.py "no changes to commit" on second run (already committed). No blocking issues.
 
-## Previous Run
+## Previous Previous Run
 - **Date**: 2026-03-29
 - **Steps Completed**: Full pipeline (Steps 1-15) — research, brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -30,6 +37,15 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-31
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 8 text, FB posts: 7 long-form + 7 image captions, Articles: 5
+- Fact-check: 5 char-limit violations fixed on first pass (Stories 1-4, 6). 0 consistency errors after fixes.
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-03-31.xlsx (22 posts), ils-postplanner-tobi-2026-03-31.xlsx (15 TOBI posts)
+- Key stories: NFCA Week 8 poll debate Texas likely drops after A&M loss (P10), Lonni Alameda 1000th career win FSU swept Clemson 21-game streak (P10), Kendall Wells 26 HR four from NCAA freshman record (P8), Maya Johnson 1000 career Ks Belmont turned down $200K NIL (P7), SEC standings Texas/OU both 8-1 Florida 9-3 Alabama-Texas April 2 (P7), Isa Torres .655 BA NCAA record 16 consecutive hits (P6), Texas at Alabama April 2 preview (P5)
+- Notes: Non-fast-forward push resolved with git pull --rebase. Daily brief format fixed to canonical `### STORY N:` pattern.
 
 ### 2026-03-30
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)

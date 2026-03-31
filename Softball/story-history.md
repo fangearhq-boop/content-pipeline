@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## March 31, 2026
+
+### Story 1: NFCA Week 8 Poll Drops Today — Texas Likely Falls From No. 1
+- **Angle:** NEW STORY. Poll releases today (Tue) at 10 AM ET reflecting March 29 results. Texas (31-2) lost to A&M Sunday, likely drops from No. 1. Texas Tech, FSU (21-game win streak), and OU (8-1 SEC) positioned to rise. Florida and Tennessee likely fall. NFCA has 31 coaches voting.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** Actual poll results confirmation, Week 9 preview, national seeding implications
+
+### Story 2: Lonni Alameda Earns 1,000th Career Win at Florida State
+- **Angle:** NEW STORY. FSU beat Clemson 7-3 Sunday for Alameda's 1,000th. 18 seasons at FSU. 1,000-388-3 (.720 WPct). 12th active DI coach to reach 1K wins. 843 of 1,000 at FSU. Makenna Reid win (5-1). Torres 2 HRs in sweep. FSU 32-4, 9-0 ACC, 21-game win streak.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** FSU Notre Dame series this week, Torres POY case, FSU national seed
+
+### Story 3: Kendall Wells at 26 HRs — Four Away From NCAA Freshman Record
+- **Angle:** FOLLOW-UP (from March 30 — Story 3 Wells HR #26, Story 5 standalone). Deep dive feature. At 26, needs 4 for record (Alo/Chamberlain/Majam at 30). Batting .384, 57 RBI, 1.572 OPS, zero errors. Gasso quote: "something new, something different." 18+ games remaining. Espinoza's all-time record of 37 theoretically in range.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** HR No. 27 and beyond, comparison to Alo/Chamberlain timelines, OU team HR record
+
+### Story 4: Maya Johnson Reaches 1,000 Career Strikeouts at Belmont
+- **Angle:** NEW STORY. Belmont redshirt senior reached 1,000 career Ks in Week 8. Turned down ~$200K+ in NIL to stay. Leads nation with 203 Ks (Week 7). Opened 2026 with 15-K perfect game, then upset No. 15 Georgia. MVC Pitcher of the Year 2025. 366 Ks in 207 IP last year.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Johnson's final season record chase, Belmont's postseason run, MVC standings
+
+### Story 5: SEC Standings After Week 8 — Texas and Oklahoma Lead at 8-1
+- **Angle:** NEW STORY. Texas 8-1 SEC (31-2 overall), Oklahoma 8-1 SEC (34-3 overall). Florida 9-3 SEC (33-4). Alabama 6-1 SEC (29-2). Arkansas 5-4 SEC (30-5) — 4 straight series wins. Texas at Alabama April 2 series. Big picture conference standings analysis.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Texas-Alabama series result, Oklahoma home schedule, Florida's seeding position
+
+### Story 6: Isa Torres Batting .655 — Historic NCAA Season
+- **Angle:** NEW STORY. FSU junior batting .655, .716 OBP, 13 2B (6th nationally). Set NCAA record 16 consecutive hits (March 8-21). First player in NCAA history with 14 hits in 14 consecutive ABs. 23 consecutive PAs reaching base (3rd-longest NCAA history). 33-for-40 (.825) in last 12 games. 2025: .436 BA (FSU record), unanimous 1st team All-American.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Torres POY award season, FSU deep run, continued hot streak
+
+### Story 7: Texas at Alabama April 2 Preview
+- **Angle:** FOLLOW-UP (season-long narrative). Texas 31-2 vs Alabama 29-2 starting April 2. Both top-10. Alabama rested (bye week). Texas motivated after A&M loss. First meeting in 2026.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Series result, SEC standings impact
+
+---
+
 ## March 30, 2026
 
 ### Story 1: Texas A&M 9, No. 1 Texas 7 — 29-Game Win Streak OVER
