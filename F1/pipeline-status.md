@@ -1,7 +1,7 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-30
+- **Date**: 2026-03-31
 - **Steps Completed**: Full pipeline (1-14) minus image production and dashboard push
 - **Dashboard Published**: Local only (content-dashboards push requires PAT with write access to fangearhq-boop/content-dashboards)
 
@@ -10,6 +10,17 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-03-31
+- **Steps completed:** 1 (Research — 7 web searches), 2 (Story History), 3 (Daily Brief — 7 stories), 4 (Research Notes), 5 (Story Analysis), 6 (X Posts — 10), 7 (Facebook Posts — 14), 8 (Image Concepts), 9 (Articles — 5), 10 (Fact-Check — 39 claims, 73 HIGH), 10b (Compile — pass, 7 stories, 10 tweets, 5 articles), 11 (Image Manifest), 12 (Story History updated), 13 (Dashboard — 29 items), 14 (PostPlanner exports x2)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards
+- **Stories:** 7 total (3 Tier 1, 2 Tier 2, 2 Tier 3)
+- **X Posts:** 10, all under 280 characters
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** f1fr-postplanner-2026-03-31.xlsx (24 posts) + f1fr-postplanner-tobi-2026-03-31.xlsx (17 TOBI posts)
+- **Context:** 5-week break after Japan GP. Ex-designer "potentially fatal" warning escalates energy harvesting crisis. Verstappen drops clearest F1 exit warning (9th, 12 pts, first top-5 drought since 2017). Specific PU fixes revealed (super clipping zone bans, threshold adjustments). Red Bull Mekies confident for Miami. Antonelli leads Russell 72-63, measured about championship. Miami GP preview (May 1-3, Sprint, 5.41km).
+- **Market balance:** Mercedes (Antonelli/Russell), Red Bull (Verstappen), Ferrari (Leclerc/Hamilton), McLaren (Piastri), Haas (Bearman)
+- **Fact concerns:** "First top-5 drought since 2017" is MEDIUM — used with "per reports" language. Track temps are early estimates. All other facts HIGH confidence.
 
 ### 2026-03-30
 - **Steps completed:** 1 (Research — 5 web searches), 2 (Story History), 3 (Daily Brief — 7 stories), 4 (Research Notes), 5 (Story Analysis), 6 (X Posts — 10), 7 (Facebook Posts — 14), 8 (Image Concepts), 9 (Articles — 5), 10 (Fact-Check — 25 claims, 52 HIGH), 10b (Compile — pass, 7 stories, 10 tweets, 5 articles), 11 (Image Manifest), 12 (Story History updated), 13 (Dashboard — 29 items), 14 (PostPlanner exports x2)

@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-03-31
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Ex-F1 designer warns 2026 energy rules risk "potentially fatal" crash. "Super clipping" (200kW power disparity) created 45 km/h closing speed at Suzuka (Bearman 50G). FIA April meetings scheduled. | 1 | FOLLOW-UP (3/30 Bearman crash + FIA meetings) |
+| 2 | Verstappen drops clearest warning yet about potential 2026 F1 exit. 3 straight races outside top-5 (first since 2017 per reports). 9th in championship, 12 pts. RB22 "from one extreme to another." | 1 | NEW STORY |
+| 3 | Revealed: immediate fixes for broken 2026 F1 power units — zone-based harvesting ban, threshold adjustments, warning systems. FIA April meetings will determine if fast-tracked for Miami. | 1 | NEW STORY |
+| 4 | Red Bull TP Laurent Mekies "confident" Verstappen will have faster car from Miami GP. Japan bodywork upgrade didn't deliver. 5-week break is RB22 fix window. | 2 | FOLLOW-UP (3/30 RB22 crisis / Japan upgrade failure) |
+| 5 | Antonelli reflects on youngest F1 championship lead: "Still early days to think about the championship." Japan GP his "best weekend in F1." Leads Russell 72-63. | 2 | FOLLOW-UP (3/30 youngest championship leader history) |
+| 6 | Miami GP preview — May 1-3, Sprint format, 5.41km/19 corners/3 DRS zones, 38°C track temp expected, McLaren Trophy America debut. | 3 | FOLLOW-UP (3/30 break/Miami preview) |
+| 7 | Bahrain and Saudi Arabia GP cancelled (Iran conflict). Miami becomes Round 4. FIA using break for safety review. | 3 | FOLLOW-UP (ongoing calendar context) |
+
+---
+
 ## 2026-03-30
 
 | # | Story | Tier | Tag |
