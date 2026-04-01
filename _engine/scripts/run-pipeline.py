@@ -6,7 +6,8 @@ Runs the post-content-generation pipeline steps in sequence:
   1. validate-content.py   — format gate (blocks on errors)
   2. generate-review-dashboard.py — HTML review dashboard
   3. generate-postplanner-export.py — PostPlanner XLSX
-  4. publish-dashboard.py  — push dashboard to GitHub Pages
+  4. publish-to-wordpress.py — publish articles to WordPress (fanrumor.com)
+  5. publish-dashboard.py  — push dashboard to GitHub Pages
 
 Uses the same Python interpreter for all steps (no "which python?" issues).
 Stops on first failure so you don't publish broken content.
@@ -76,6 +77,14 @@ def main():
         "--tobi", action="store_true",
         help="Pass --tobi to generate-postplanner-export.py"
     )
+    parser.add_argument(
+        "--skip-wordpress", action="store_true",
+        help="Skip the publish-to-wordpress step"
+    )
+    parser.add_argument(
+        "--wp-status", default="draft", choices=["draft", "publish"],
+        help="WordPress post status (default: draft)"
+    )
     args = parser.parse_args()
 
     date_str = args.date or datetime.now().strftime("%Y-%m-%d")
@@ -109,7 +118,12 @@ def main():
         export_args.append("--tobi")
     steps.append(("generate-postplanner-export.py", export_args, "PostPlanner Export"))
 
-    # Step 4: Publish dashboard (optional)
+    # Step 4: Publish articles to WordPress (optional)
+    if not args.skip_wordpress:
+        wp_args = ["--niche", args.niche, date_str, "--images", "--status", args.wp_status]
+        steps.append(("publish-to-wordpress.py", wp_args, "Publish to WordPress"))
+
+    # Step 5: Publish dashboard (optional)
     if not args.skip_publish:
         steps.append(("publish-dashboard.py", ["--niche", args.niche, date_str], "Publish Dashboard"))
 

@@ -38,6 +38,10 @@ default_schedule:
 # Article config
 article_word_count_min: 400
 article_word_count_max: 800
+article_bylines:
+  - "Jake Torres"
+  - "Marcus Cole"
+  - "Damon Pierce"
 article_has_quick_reference: false
 
 # GitHub Pages
