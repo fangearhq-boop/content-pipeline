@@ -1,13 +1,20 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-01
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8+ searches via agent + direct), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (2 char violations fixed), compile, dashboard, PostPlanner exports (X + TOBI)
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: 2 char-limit violations on Story 2/3 tweets fixed before compile step. Story 6 Tier 2 article optional (not written by design). IMAGE MISSING warnings expected (not_started status).
+
+## Previous Run
 - **Date**: 2026-03-31
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (13 searches), brief, analysis, X posts (8), FB posts (14), image concepts, articles (5), fact-check (5 char violations fixed), compile, dashboard, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
 - **Issues**: Non-fast-forward push resolved with git pull --rebase. Daily brief initially used wrong `### STORY N (Tier N):` format; fixed to `### STORY N:` pattern required by scripts.
 
-## Previous Run
+## Previous Previous Run
 - **Date**: 2026-03-30
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches), brief, analysis, X posts (8), FB posts (14), image concepts, articles (6), fact-check, compile, dashboard, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -37,6 +44,15 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-01
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5
+- Fact-check: 2 char-limit violations fixed on first pass (Stories 2, 3). 0 consistency errors after fixes.
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-04-01.xlsx (23 posts), ils-postplanner-tobi-2026-04-01.xlsx (16 TOBI posts)
+- Key stories: Wells HR No. 27 SEC freshman record OU beat Wichita State 12-3 (P10), Texas at Alabama preview G3 ESPN April 4 Rhoads Stadium (P10), NFCA Week 8 Texas No. 1 Tech 9pts back FSU No. 6 (P7), OU hosts Kentucky April 2-4 Wells home HR chase (P7), Florida at Stetson midweek reset after Arkansas loss (P6), FSU No. 6 21-game streak (P6), Weekend preview Texas-Bama + OU-Kentucky (P5)
+- Notes: Agent-based web research provided solid facts. All 5 articles written. 2 char violations caught by verify-facts, fixed before compile. Story 6 (Tier 2) no article by design.
 
 ### 2026-03-31
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)

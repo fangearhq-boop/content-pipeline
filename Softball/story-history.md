@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 1, 2026
+
+### Story 1: Kendall Wells HR No. 27 — Sets SEC Single-Season Freshman Record
+- **Angle:** FOLLOW-UP (Wells HR chase). Wells hit HR No. 27 Tuesday night vs. Wichita State in OU's 12-3 run-rule win. Opposite-field shot in 6th inning set SEC single-season freshman HR record. OU 35-3. Season HR total 137 through 38 games. Three away from NCAA freshman record (30, Alo/Chamberlain/Majam). OU hosts Kentucky April 2-4.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** HR No. 28/29/30, Kentucky series results, NCAA record watch, Gasso quotes
+
+### Story 2: No. 1 Texas at No. 4 Alabama — Series Preview
+- **Angle:** FOLLOW-UP (season-long narrative). Series starts Thursday at Rhoads Stadium in Tuscaloosa. G1: April 2, 6 PM CT (SEC Network+). G2: April 3, 7:30 PM CT (SEC Network). G3: April 4, 5 PM CT (ESPN). Texas 31-2, 8-1 SEC, lost 29-game streak to A&M. Alabama 33-2, 4 NC wins last week 42-1. Alabama leads all-time 7-2. First-ever SEC conference meeting. Murphy 30th season, White 8th season. Alabama beat defending champ OU at Rhoads last year.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** Series results, SEC standings impact, NFCA Week 9 poll
+
+### Story 3: NFCA Week 8 Final Poll — Texas Holds No. 1, FSU Climbs to No. 6
+- **Angle:** FOLLOW-UP (poll reaction). Texas stayed No. 1 (31-2) despite A&M loss. Texas Tech No. 2 (34-2), 9 points back. Oklahoma No. 3. Alabama No. 4 (33-2). Florida No. 5 (33-4, dropped 2). FSU elevated to No. 6 (32-4, 21-game streak). Nebraska won UCLA series, UCLA dropped to No. 10. Virginia No. 12, VT No. 11.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Week 9 poll (April 7), Texas-Alabama series outcome, Tech's path to No. 1
+
+### Story 4: Oklahoma Hosts Kentucky — SEC Home Stand Opens
+- **Angle:** NEW STORY. OU (35-3, 8-1 SEC) hosts Kentucky April 2-4 at Love's Field. G1: Thursday 6:30 PM. Kentucky led by 19th-year coach Rachel Lawson, hosts 2026 SEC Tournament. Last Kentucky visit to Norman (2023): OU won 18-0 and 7-1. Wells record chase continues at home.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Series results, Wells home run count, OU SEC record progression
+
+### Story 5: Florida at Stetson — Midweek Reset After Arkansas Loss
+- **Angle:** NEW STORY. No. 5 Florida (33-4) at Stetson, DeLand FL, 6 PM ET April 1. First game after dropping two to Arkansas (Dakota Kennedy walk-off 3-run HR in G3). Florida dropped from No. 3 to No. 5 in NFCA poll. 9-3 in SEC play.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Stetson result, Florida next weekend series, SEC standings trajectory
+
+### Story 6: Florida State Climbs to No. 6 — 21-Game Win Streak Rolling
+- **Angle:** FOLLOW-UP (FSU hot streak). FSU elevated to No. 6 in NFCA Week 8 poll. 32-4, 9-0 ACC, 21-game win streak (longest active in D1). Blanked North Florida, swept Clemson in Week 8. Torres still hitting .655. Alameda 1,000th win (Sunday). FSU now owns longest active win streak in D1.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** FSU Notre Dame series, Torres POY case, FSU national seed projection
+
+### Story 7: Weekend Preview — Texas-Alabama + Oklahoma-Kentucky
+- **Angle:** NEW STORY. Two marquee SEC series April 2-4. Texas at Alabama (Thu-Sat, ESPN Sat). Oklahoma vs Kentucky at Love's Field (Thu-Sat, 6:30 PM opener). SEC standings implications. Wells record chase at home.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** All six game results, SEC standings update
+
+---
+
 ## March 31, 2026
 
 ### Story 1: NFCA Week 8 Poll Drops Today — Texas Likely Falls From No. 1
