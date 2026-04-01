@@ -1,6 +1,38 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: March 31, 2026
+## Latest Run: April 1, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (6 searches) | COMPLETE | CPSC recalls (crib bumpers/plush toys/loungewear/mattresses), PowerSchool breach (D11/D49/SD14), AAP Vitamin K/VKDB (April 2026 Pediatrics), COS April events (Cave of Winds/Jazz/Perlman), national parenting trends (drone/velcro parenting) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories, tier + pillar assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (fixed draft/final issue — 9→7), all under 280 chars |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts) |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present in all files; 84 claims extracted |
+| Compile | COMPLETE | 07-content-data.json (5 stories, 7 X, 5 FB, 5 articles) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started |
+| Dashboard | COMPLETE | review-dashboard.html (27 items) |
+| PostPlanner Export | COMPLETE | Standard (17 posts) + TOBI (12 posts) |
+| Publishing | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Dashboard committed locally in tmp clone |
+
+## Story Count by Pillar (2026-04-01)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 | 1-2 |
+| Local Events | 1 | 1-2 |
+| National Parenting | 3 | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor/Engagement | 1 | 0-1 |
+
+---
+
+## Previous Run: March 31, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

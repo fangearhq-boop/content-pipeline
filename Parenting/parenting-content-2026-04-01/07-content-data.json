@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-01",
+  "compiled_at": "2026-04-01T12:51:46.244345+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recalls — Crib Bumpers, Hobby Lobby Plush Toys, Blossom Loungewear, Crib Mattresses [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CPSC Recall: Crib bumpers, Hobby Lobby plush toys (choking), Blossom children's loungewear (flammability) all recalled this week. Check cpsc.gov/Recalls if you have any of these. 🚨 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Little Pea Shop crib bumper recall matters: crib bumpers are federally BANNED and this seller was still selling them. If you have any crib bumper — from any brand — remove it now. 🚨 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nAnother round of CPSC recalls that Colorado Springs parents need to know about — and this batch hits a few product categories that might be sitting in your baby's room right now.\n\nLittle Pea Shop Crib Bumpers: These violate the federal crib bumper ban, which has been in effect since 2022. If you didn't know — crib bumpers of all kinds are now federally banned in the U.S. because of suffocation risk. Little Pea Shop was still selling them. If you have ANY crib bumper in your baby's crib, from any brand, remove it today.\n\nHobby Lobby Giraffe and Llama Plush Toys: The decorative legs on these stuffed animals detach and release small beads — a choking hazard for young kids. If you picked these up at Hobby Lobby, check the legs. If they pull off, the toy is a hazard.\n\nBlossom Children's Loungewear: This line fails the mandatory sleepwear flammability standard. Loungewear that doesn't meet flammability rules is a burn hazard — full stop. Check your kids' pajamas and loungewear.\n\nCriblike Mattresses (sold by Mengna on Amazon): These mattresses don't fit play yards properly, creating gaps that can trap a child. Entrapment in sleep environments is one of the leading causes of infant death.\n\nThe full recall list is at cpsc.gov/Recalls — it's worth bookmarking. Have you ever had to deal with a product recall? Drop a comment below. 🚨\n```",
+        "image_caption": "#### Image Caption -- 8:30 AM MT\n\n```\nFour more recalls: crib bumpers, Hobby Lobby plush toys, children's loungewear, and crib mattresses. Check your home. 🚨\n```",
+        "posting_time": "8:30 AM MT"
+      },
+      "article": {
+        "filename": "article-01-cpsc-recalls-crib-bumpers-plush-toys-loungewear-2026.html",
+        "headline": "CPSC Recalls: Crib Bumpers, Hobby Lobby Plush Toys, Children's Loungewear, and Crib Mattresses",
+        "word_count": 744
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Recalls — Crib Bumpers, Plush Toys, Loungewear\n\n#### Concept 01a — X Social (1200x675)\n- **Mode:** base_only\n- **Prompt:** A bright, clean product safety image — a wooden crib with empty rails and no bumpers, soft warm morning light streaming through a nursery window, clean white walls, peaceful atmosphere. Soft pastel color palette with teal and white accents. Art style: lifestyle photography aesthetic. Leave clean space in the bottom third for text overlay. No text, no watermarks, no logos.\n- **Canva text overlay:** \"CPSC Recall Alert — Check Your Baby's Room\"\n\n#### Concept 01b — Facebook (1200x630)\n- **Mode:** base_only\n- **Prompt:** Close-up flat-lay of a baby's safe sleep environment — firm mattress, empty crib, no loose bedding or bumpers. Soft natural daylight, clean nursery aesthetic. Color palette: warm white, soft teal, light wood tones. Lifestyle photography style. Clean bottom third for text. No text, no logos, no watermarks.\n- **Canva text overlay:** \"Four Products Recalled This Week\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "PowerSchool Data Breach — D11 and D49 Families: What Was (and Wasn't) At Risk [TIER 1]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "D11 + D49 families: PowerSchool data breach confirmed. Key fact: neither district stores student SSNs in PowerSchool — SSNs were not at risk. Contact your school for specifics on what data was affected. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 2-2",
+          "text": "D11 or D49 parent: check your district email about the PowerSchool breach. Contact your school office and ask what student records were included. Being informed is the starting point. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nIf you have kids in D11 or D49, here's what you need to know about the PowerSchool data breach.\n\nPowerSchool is the student information system used by both districts to manage things like attendance, grades, course schedules, and family contact information. A data breach at PowerSchool has been confirmed to have included D11, D49, and Manitou Springs SD14 among affected districts.\n\nHere's the important reassurance, which came directly from the districts: neither D11 nor D49 stores student Social Security Numbers in PowerSchool. SSNs were not at risk in this breach.\n\nThat's meaningful — SSN exposure is the highest-risk outcome of any school data breach because it enables identity theft that can affect your child for years. The confirmation that SSNs weren't stored means the most serious risk isn't present here.\n\nThat said, other student data — names, contact information, enrollment records, and potentially academic information — may have been included. The districts haven't published a full list of every field that was exposed, and the specifics can vary by how each school configured their data.\n\nWhat to do: Check your email from D11 or D49 for any official notification. Call your school office if you haven't received one. Ask specifically: \"What types of student data were included in the PowerSchool breach, and what steps is the district taking?\"\n\nYou deserve a clear answer. If you have questions, your child's school is the right first call.\n\nHave you heard from your district about this yet?\n```",
+        "image_caption": "#### Image Caption -- 10:30 AM MT\n\n```\nPowerSchool data breach confirmed in D11 + D49. Good news: no student SSNs were stored. Contact your school for specifics.\n```",
+        "posting_time": "10:30 AM MT"
+      },
+      "article": {
+        "filename": "article-02-powerschool-data-breach-d11-d49-cos-2026.html",
+        "headline": "PowerSchool Data Breach: What D11 and D49 Families in Colorado Springs Need to Know",
+        "word_count": 610
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PowerSchool Data Breach — D11 and D49\n\n#### Concept 02a — X Social (1200x675)\n- **Mode:** base_only\n- **Prompt:** Illustration-style image of a school building silhouette against a blue sky, with a subtle digital shield symbol in the foreground. Clean, professional, informative mood. Color palette: primary teal (#0097A7), dark slate, white. Art style: flat vector/illustration. Leave clean bottom third for text overlay. No text, no logos, no brand marks.\n- **Canva text overlay:** \"D11 + D49 PowerSchool Breach — What You Need to Know\"\n\n#### Concept 02b — Facebook (1200x630)\n- **Mode:** base_only\n- **Prompt:** A parent sitting at a kitchen table looking at a laptop, warm home environment, natural daylight, relaxed but focused expression. Implies checking email or school portal for information. Warm coral and teal color accents in background décor. Lifestyle photography aesthetic. Clean bottom third. No text, no logos.\n- **Canva text overlay:** \"Your District Was Affected — Here's the Good News\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "AAP Alert — Vitamin K Refusal Linked to Preventable Newborn Brain Bleeds [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "New in the April 2026 AAP journal: Vitamin K refusal at birth is causing preventable brain bleeds in newborns — and it's rising as health misinformation spreads. Talk to your pediatrician before baby arrives. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nIf you're expecting or recently had a baby, this is worth reading. The April 2026 issue of *Pediatrics* — the American Academy of Pediatrics journal — published an article called \"Vitamin K Deficiency Bleeding After Refusal: A Sentinel Event in a Misinformation Era.\"\n\nHere's what it's about: When babies are born, standard care includes a Vitamin K injection — a quick shot that prevents something called Vitamin K Deficiency Bleeding (VKDB). VKDB is a rare but serious condition where a baby's blood can't clot properly, sometimes leading to internal bleeding in the brain. The Vitamin K shot has been standard practice for decades and is extremely safe.\n\nIn recent years, a growing number of parents have declined the Vitamin K injection at birth — often because of health misinformation circulating on social media. Some posts claim the shot is unnecessary, painful, or contains harmful additives. Medical evidence doesn't support those claims. What the evidence does show: babies who don't receive Vitamin K are at significantly higher risk for VKDB, including brain bleeds that can cause permanent neurological damage or death.\n\nThe AAP has also documented in a separate study that health misinformation is now a top concern among pediatricians nationwide. When parents arrive with information they've gotten from social media, pediatricians are increasingly spending appointment time correcting false claims that can affect newborn health decisions.\n\nIf you're pregnant or have recently had a baby and have questions about the Vitamin K shot, talk to your pediatrician — not the comment section. They can walk you through the evidence and answer your specific concerns.\n\nWas this helpful? Share it with any expecting families you know.\n```",
+        "image_caption": "#### Image Caption -- 12:30 PM MT\n\n```\nThe AAP is raising alarms about Vitamin K refusal at birth. The injection prevents serious brain bleeds. Talk to your pediatrician.\n```",
+        "posting_time": "12:30 PM MT"
+      },
+      "article": {
+        "filename": "article-03-aap-vitamin-k-refusal-vkdb-2026.html",
+        "headline": "AAP Raises Alarm on Vitamin K Refusal: What Colorado Springs Parents Need to Know",
+        "word_count": 744
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Vitamin K Alert\n\n#### Concept 03a — X Social (1200x675)\n- **Mode:** base_only\n- **Prompt:** A warm, reassuring image of a newborn baby in soft hospital blankets, peaceful expression, gentle warm lighting. Medical setting but emotionally warm — not clinical or scary. Soft pastel palette: warm coral, white, gentle gold tones. Lifestyle photography style. Clean bottom third for text. No identifiable faces, no text, no logos.\n- **Canva text overlay:** \"AAP Alert: Vitamin K and Your Newborn\"\n\n#### Concept 03b — Facebook (1200x630)\n- **Mode:** base_only\n- **Prompt:** A pediatrician in a white coat consulting with new parents — warm office setting, natural light, all three figures have positive, engaged expressions. Implies an informed conversation about newborn health. Color palette: teal, warm white, soft gold. Lifestyle photography style. Clean bottom third. No identifiable faces, no text, no logos, no brands.\n- **Canva text overlay:** \"Talk to Your Pediatrician — Not Social Media\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "COS April Events — Cave of the Winds Sound Experience, Jazz Weekend, Itzhak Perlman [TIER 2]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "COS April events coming up: Cave of the Winds Sound Experience (April 17-19), Earl Klugh's Jazz Weekend (starts April 9), Itzhak Perlman at Pikes Peak Center (April 18, 7:30 PM). 🎵 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nEaster weekend is almost here — and once it's behind you, there's a solid lineup of COS events to fill out the rest of April. Here are three worth knowing about.\n\nCave of the Winds Sound Experience (April 17-19): If you've done the standard Cave of the Winds tour, this is different. The Sound Experience puts guests in the caverns with specially designed acoustic events — the geology of the cave creates sound dynamics you can't replicate anywhere else. It runs three days in mid-April and is appropriate for older kids and adults who appreciate immersive experiences.\n\nEarl Klugh's 23rd Annual Weekend of Jazz (starts April 9, 1 PM): This is one of COS's more beloved annual events — decades of live jazz in an event that has become a tradition for families who love music. It's approachable, has energy, and gives kids exposure to a live music tradition that's hard to find elsewhere.\n\nItzhak Perlman at Pikes Peak Center (April 18, 7:30 PM): Perlman is one of the greatest living violinists in the world. If you have kids in music programs or want to expose your family to extraordinary classical performance, this is a rare opportunity in Colorado Springs. Pikes Peak Center is a comfortable venue.\n\nIf you're looking for plans beyond Easter weekend, mid-April in COS has options.\n\nWhich of these would your family want to check out?\n```",
+        "image_caption": "#### Image Caption -- 3:30 PM MT\n\n```\nThree COS events worth putting on the calendar: Cave of the Winds Sound Experience, Jazz Weekend, and Itzhak Perlman. Mid-April looks good. 🎵\n```",
+        "posting_time": "3:30 PM MT"
+      },
+      "article": {
+        "filename": "article-04-cos-april-events-cave-winds-jazz-perlman-2026.html",
+        "headline": "COS April Events: Cave of the Winds, Jazz Weekend, and Perlman at Pikes Peak Center",
+        "word_count": 699
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS April Events\n\n#### Concept 04a — X Social (1200x675)\n- **Mode:** base_only\n- **Prompt:** A family of three — parent and two kids, ages 8-12 — exploring a cave lit by soft amber and blue light, expressions of wonder. Suggests an immersive underground experience. Rich textures of cave rock, dramatic lighting. Color palette: dark slate, amber gold, teal highlights. Cinematic, beautiful mood. Clean bottom third. No text, no logos, no watermarks.\n- **Canva text overlay:** \"COS April Events — Something for Every Family\"\n\n#### Concept 04b — Facebook (1200x630)\n- **Mode:** base_only\n- **Prompt:** An audience silhouette watching a live musical performance — stage lighting in warm gold and teal, feeling of a wonderful evening out. Could be jazz or classical. Intimate venue atmosphere. Dark background with vivid stage lighting. Art style: concert photography aesthetic. Clean bottom third. No text, no logos, no identifiable faces.\n- **Canva text overlay:** \"Jazz, Caves, and Classical — Mid-April in COS\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Drone Parenting and Velcro Parenting — Experts Say Hovering Is Hurting Kids [TIER 3]",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Experts are flagging \"drone parenting\" and \"velcro parenting\" as the two styles most likely to reduce kids' resilience. COS parents — where do you fall on the spectrum? #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nTwo parenting styles are getting a lot of attention from child development experts this year, and not for good reasons. \"Drone parenting\" and \"velcro parenting\" are being named as two of the approaches most likely to undermine kids' long-term resilience and independence.\n\nDrone parenting is what it sounds like: parents who use location tracking apps, monitor every digital interaction, and maintain near-constant surveillance of their kids' physical and online lives. The concern isn't awareness — it's the inability to allow any unmonitored space for kids to figure things out.\n\nVelcro parenting is the in-person version: hovering so closely that a child never experiences struggle, failure, or discomfort without an immediate adult intervention. While it comes from a loving place, experts say it prevents kids from building the coping skills they'll need when parents aren't around.\n\nWhat child development research points toward instead: empathetic boundaries. That means being present, setting clear expectations, listening to kids' feelings — while still letting them experience age-appropriate challenges without rescuing them from every difficult moment.\n\nHere's the honest truth: most parents recognize themselves in one (or both) of these descriptions. COS is a military-heavy community where many families have experienced prolonged deployment separations. The hypervigilance that can follow those experiences is understandable. But experts say the goal is to gradually expand kids' independence in a way that matches their developmental stage.\n\nYou don't have to be perfect. You just have to leave a little room for your kids to be.\n\nWhere do you fall — more drone/velcro, or more hands-off? No judgment here.\n```",
+        "image_caption": "#### Image Caption -- 5:30 PM MT\n\n```\n\"Drone parenting\" and \"velcro parenting\" are raising flags from experts. The alternative? Empathetic boundaries — and trusting your kids a little more.\n```",
+        "posting_time": "5:30 PM MT"
+      },
+      "article": {
+        "filename": "article-05-drone-velcro-parenting-experts-2026.html",
+        "headline": "Drone Parenting and Velcro Parenting: What Experts Say They're Doing to Kids",
+        "word_count": 791
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Drone and Velcro Parenting\n\n#### Concept 05a — X Social (1200x675)\n- **Mode:** base_only\n- **Prompt:** A parent watching a child play at a distance in a park — the parent is sitting on a bench reading, the child is playing independently on a climbing structure in the background. Warm sunny afternoon light, lush green grass, relaxed atmosphere. Soft coral and teal tones. Lifestyle photography aesthetic. Implies appropriate monitoring without hovering. Clean bottom third. No text, no logos.\n- **Canva text overlay:** \"Drone Parenting vs. Letting Go — What Experts Say\"\n\n#### Concept 05b — Facebook (1200x630)\n- **Mode:** base_only\n- **Prompt:** Illustration-style graphic of a child running freely across a grassy field toward a wide open horizon, warm golden hour light, joyful energy. Parent visible in the far distance, giving space. Color palette: warm gold (#F4C542), teal, soft sky blue. Optimistic, empowering mood. Clean bottom third. No text, no logos, no watermarks.\n- **Canva text overlay:** \"Kids Need Room to Grow — New Research Backs It Up\""
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

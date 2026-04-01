@@ -2,6 +2,65 @@
 
 ---
 
+## April 1, 2026
+
+### Story 1: CPSC Recalls — Crib Bumpers (Federal Ban Violation), Hobby Lobby Plush Toys, Blossom Loungewear, Criblike Mattresses
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (all products different from previous recalls)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Key Facts:** Little Pea Shop Crib Bumpers — violates federal crib bumper ban (in effect since 2022), suffocation risk; Hobby Lobby Giraffe and Llama Plush Toys — detachable legs release small beads, choking hazard; Blossom Children's Loungewear — fails mandatory sleepwear flammability standard; Criblike Mattresses (Mengna/Amazon) — ill-fitting in play yards, entrapment/suffocation risk
+- **Follow-Up Opportunities:**
+  - Federal crib bumper ban explainer (evergreen)
+  - Monthly CPSC recall roundup continuation
+  - Toy safety checklist for Easter baskets
+
+### Story 2: PowerSchool Data Breach — D11 and D49 Families: What Was (and Wasn't) At Risk
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Key Facts:** PowerSchool breach confirmed affected D11, D49, Manitou Springs SD14; neither D11 nor D49 stores student SSNs in PowerSchool — SSNs not at risk; other student data (contact info, attendance, grades) may have been included; families should contact district for specifics
+- **Follow-Up Opportunities:**
+  - District communications follow-up when more detail released
+  - "How to protect your child's data" evergreen guide
+  - Comparison of D11/D20/D49 data security practices
+
+### Story 3: AAP Alert — Vitamin K Refusal Linked to Preventable Newborn Brain Bleeds
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Key Facts:** April 2026 Pediatrics article: "Vitamin K Deficiency Bleeding After Refusal: A Sentinel Event in a Misinformation Era"; VKDB (Vitamin K Deficiency Bleeding) can cause serious brain injury or death; AAP study confirms health misinformation is top concern among pediatricians; Vitamin K injection at birth is standard care since 1960s
+- **Follow-Up Opportunities:**
+  - Vaccine hesitancy and COS families (follow-up)
+  - Newborn care decisions guide (evergreen)
+  - HealthyChildren.org resource roundup
+
+### Story 4: COS April Events — Cave of the Winds Sound Experience, Earl Klugh Jazz Weekend, Perlman
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Key Facts:** Cave of the Winds Sound Experience — April 17-19, 2026; Earl Klugh's 23rd Annual Weekend of Jazz — starts April 9, 1 PM; Itzhak Perlman at Pikes Peak Center — April 18, 7:30 PM
+- **Follow-Up Opportunities:**
+  - Post-event recaps
+  - May events preview (Zoo Run Run May 9-10, Pikes Peak Birding Festival May 14-17)
+  - COS performing arts guide (evergreen)
+
+### Story 5: Drone Parenting and Velcro Parenting — What Experts Say They're Doing to Kids
+- **Content Pillar:** National Parenting / Humor
+- **Angle:** NEW STORY (different from Feb 22 "Boundaries With Empathy" trend piece — focuses specifically on drone/velcro styles and their effects)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 3
+- **Key Facts:** Drone parenting = constant digital monitoring; velcro parenting = hovering to prevent failure; both flagged by 2026 experts as reducing resilience/independence; empathetic boundaries recommended as alternative; COS military family context relevant
+- **Follow-Up Opportunities:**
+  - Independence by age guide (evergreen)
+  - Screen time and location tracking for teens (follow-up)
+  - COS parenting support resources roundup
+
+---
+
 ## March 31, 2026
 
 ### Story 1: CPSC Safety Alert — Infant Walkers, Strollers, Travel Bassinets & Baby Monitors
