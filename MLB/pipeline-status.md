@@ -1,12 +1,18 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-01
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8+ searches via agent), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (0 violations), compile, dashboard, publish, PostPlanner exports (X + TOBI)
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **Issues**: None. Story 6 Tier 2 optional article not written by design. IMAGE MISSING warnings expected (not_started). No char-limit violations on first verify-facts pass.
+
+## Previous Run
 - **Date**: 2026-03-31
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8+ searches), brief, analysis, X posts, FB posts, image concepts, articles (5), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes (pushed to fangearhq-boop/content-pipeline via publish-dashboard.py)
 - **Issues**: Non-fast-forward push (known pattern); fixed with git pull --rebase + git push -u origin HEAD:main.
 
-## Previous Run
+## Previous Previous Run
 - **Date**: 2026-03-30
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches), brief, analysis, X posts, FB posts, image concepts, articles (6), fact-check, compile, dashboard, publish, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes (pushed to fangearhq-boop/content-pipeline via publish-dashboard.py)
@@ -17,6 +23,17 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-01
+- **Steps completed:** Full pipeline 1-15
+- **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 9 (0 char-limit violations on verify-facts)
+- **FB Posts:** 7 long-form + 7 image captions
+- **Articles:** 5 (Stories 1-5; Story 6 Tier 2 optional — no article by design; Story 7 Tier 3 excluded)
+- **PostPlanner exports:** bb-postplanner-2026-04-01.xlsx (23 posts) + bb-postplanner-tobi-2026-04-01.xlsx (16 TOBI posts)
+- **Fact-check:** 0 char-limit violations. 1 consistency note (Story 6 no article — optional). Image manifest not_started (expected).
+- **Dashboard:** Published (https://fangearhq-boop.github.io/content-dashboards/)
+- **Notes:** Agent-based web research. Key stories: Ohtani 6 scoreless IP 6 K 0 ER 98 mph debut Dodgers 4-1 (P10); Dodgers complete historic Japanese pitcher trilogy Sasaki/Ohtani/Yamamoto first in MLB history per Elias (P10); Braves 3 starters on IL Sale/Lopez carrying the load (P8); Judge 368 HRs 32 from 400 ABS challenge assist on first HR (P7); April 1 scores Astros 8-1 Rangers 8-5 Rays end Brewers' perfect start 3-2 (P7); NL East four teams at 3-1 Phillies 1-3 (P6); Blue Jays 50 Ks MLB record 50th anniversary (P5)
 
 ### 2026-03-31
 - **Steps completed:** Full pipeline 1-15

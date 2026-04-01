@@ -5,6 +5,20 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-01
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Shohei Ohtani: 6 IP, 1 H, 0 ER, 6 K, 3 BB in 2026 pitching debut — Dodgers 4-1 over Guardians. Fastball touched 98 mph. Breaking pitches responsible for all 6 Ks. 87 pitches, 54 strikes. First regular-season pitching since 2nd Tommy John recovery. Also batted (0-for-1, 2 BB). | 1 | NEW STORY |
+| 2 | Dodgers complete first-ever consecutive Japanese-born starter sequence (Sasaki Mon, Ohtani Tue, Yamamoto Wed) — per Elias Stats. First time in MLB history. Yamamoto starts tonight (April 1) vs. Guardians. Dodgers 4-1 entering the game. | 1 | NEW STORY |
+| 3 | Braves rotation crisis: Strider (oblique), Schwellenbach (IL, out until summer), Waldrep (IL, out until summer), Wentz (torn ACL). Kim (SS, torn tendon, finger). Sale and Lopez anchoring rotation. Braves still winning — beat A's 4-0 on April 1. | 2 | NEW STORY |
+| 4 | Aaron Judge: 368 career HRs entering 2026, 32 from 400. Hit first HR via ABS challenge reversal. Yankees 3-0. Goldschmidt also on 400 watch. Machado, Freeman, Harper approaching milestone. | 2 | FOLLOW-UP (3/31 Story 3) |
+| 5 | April 1 scores: Astros 8-1 over Red Sox, Rangers 8-5 over Orioles, Cubs 7-2 over Angels, Braves 4-0 over A's, Mets 4-2 over Cardinals, Rays 3-2 over Brewers (Brewers' first loss from 3-0 start), White Sox 9-4 over Marlins. | 2 | NEW STORY |
+| 6 | NL East after Week 1: Miami/Atlanta/Mets/Washington all 3-1, Phillies 1-3. Yankees 3-0 in AL. A's 0-4. Dodgers 4-1. | 2 | NEW STORY |
+| 7 | Blue Jays 50 Ks in first 3 games = MLB record (old mark: 46, 2020 Reds). Gausman 11 Ks (Blue Jays franchise OD record), Cease 12 Ks in debut. First teammates since 1901 with 11+ Ks each in team's first 2 games (Elias). 50th anniversary season, 50 Ks. | 3 | FOLLOW-UP (3/31 Story 2) |
+
+---
+
 ## 2026-03-31
 
 | # | Story | Tier | Tag |
