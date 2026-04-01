@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-01
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | FIA technical working group meeting confirmed April 9. Teams submit regulation fix proposals. GPDA Sainz: "these accidents are going to happen a lot." Focus: qualifying energy management + harvest thresholds. No changes without unanimous team agreement. | 1 | FOLLOW-UP (3/31 FIA meetings scheduled; 3/30 Bearman 50G crash) |
+| 2 | Red Bull brings modified floor fences/edges (reduces understeer per Marko) to Miami. But reverts to older Honda PU while Mercedes installs fresh one. Three-stage plan: Jeddah → Miami → Imola. Verstappen 9th, 12 pts. | 1 | FOLLOW-UP (3/31 Mekies confident Miami; 3/30 RB22 crisis) |
+| 3 | McLaren "big aerodynamic update" for Miami. Stella: "not just power issues — we can do better aerodynamically." Norris 5th (25 pts, 47 behind Antonelli). Piastri P2 Japan = first McLaren podium of 2026. Constructors: MER 135, FER 90, MCL 56, RBR 16. | 1 | FOLLOW-UP (3/29 Piastri P2 Japan; 3/31 McLaren standings) |
+| 4 | Antonelli 5-week break as youngest-ever F1 championship leader (19y 6m 25d, breaks Hamilton's 2007 record). Leads Russell 72-63. Japan "best weekend in F1." Was denied champagne at Suzuka (Japan drinking age 20 — given sparkling water). | 2 | FOLLOW-UP (3/31 Antonelli championship lead; 3/30 youngest record) |
+| 5 | Verstappen retirement hints are about regulations, not Red Bull. "Formula E on steroids." Contract runs through 2026. Three straight races outside top 5. Red Bull and FIA both responding. April 9 meeting is key test. | 2 | FOLLOW-UP (3/31 Verstappen exit warning; 3/30 RB22 frustration) |
+| 6 | Drivers unite against 2026 rules. Sainz firm GPDA warning. Bearman crash explained: harvesting vs deployment = 45 km/h closing speed. Three fix options on table. Unanimous team agreement required. | 2 | FOLLOW-UP (3/31 ex-designer warning; 3/30 Bearman crash) |
+| 7 | Miami GP (May 1-3, Sprint) preview — 5 key stories: Verstappen floor, McLaren update, FIA changes, Antonelli vs Russell, Ferrari response. 5.41km circuit, 3 DRS zones, 38°C expected. | 3 | FOLLOW-UP (ongoing Miami preview) |
+
+---
+
 ## 2026-03-31
 
 | # | Story | Tier | Tag |

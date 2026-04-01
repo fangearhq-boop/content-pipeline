@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-01",
+  "compiled_at": "2026-04-01T11:32:08.056197+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "FIA Regulation Meeting Set for April 9 — Teams Submit Proposals Before Miami",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The FIA has confirmed a technical working group meeting for April 9.\n\nTeams will submit proposals to fix F1's 2026 energy harvesting crisis before Miami.\n\nCarlos Sainz (GPDA): \"These accidents are going to happen a lot with this set of regulations.\"\n\n#F1Fanrecap #F1 #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 1-2",
+          "text": "F1 2026 regulation fixes on the table for April 9 meetings:\n\n• Qualifying energy management removal\n• Race harvest threshold adjustments\n• Super-clipping zone restrictions\n\nIf the FIA gets this right, Miami could be a completely different sport.\n\n#F1Fanrecap #F12026 #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F12026",
+            "#F1"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-fia-april-9-meeting-f1-2026-regulation-fix-miami.html",
+        "headline": "FIA Sets April 9 Meeting to Fix F1's 2026 Regulation Crisis Before Miami GP",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FIA April 9 Meeting / Regulation Crisis\n\n#### Image Concept 1A — Social (1080x1350)\n- **Search term:** \"Carlos Sainz Formula 1\"\n- **Composition:** Sainz serious expression, out of car or in paddock\n- **Text overlay:** \"CHANGE IS COMING\" (Bebas Neue, Racing Red, top) / \"FIA Regulation Meeting: April 9\" (Montserrat, White) / \"#F12026 Safety Crisis\" (small, Accent Gold)\n- **Background:** Dark Midnight overlay 40% opacity, bottom-center\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 1B — Social (1080x1350)\n- **Search term:** \"Oliver Bearman Haas Formula 1\"\n- **Composition:** Bearman in car or pit lane — NOT the crash itself\n- **Text overlay:** \"50G. 190MPH. 45 KM/H SPEED GAP.\" (Bebas Neue, Racing Red) / \"The Bearman Crash Changed F1\" (Montserrat, White)\n- **Background:** Dark overlay, high contrast\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen Gets New Floor for Miami — But Older Honda PU Could Limit Gains",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Red Bull's new floor for Verstappen at Miami reduces understeer, per Helmut Marko.\n\nCatch: Red Bull runs an OLDER Honda PU while Mercedes installs a fresh one.\n\nOne step forward, one step back.\n\n#F1Fanrecap #F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Red Bull's update plan for Verstappen:\n\n1. Jeddah — bodywork tweaks\n2. Miami — new floor\n3. Imola — further updates\n\nFrom 9th to title contender in three steps? Mekies says he'll be \"much happier\" soon.\n\n#F1Fanrecap #RedBull #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#RedBull",
+            "#F1"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-new-floor-miami-honda-pu-red-bull.html",
+        "headline": "Verstappen Gets New Floor for Miami — But Red Bull's Older Honda PU Complicates the Picture",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Floor Update / Red Bull\n\n#### Image Concept 2A — Social (1080x1350)\n- **Search term:** \"Max Verstappen Red Bull Racing\"\n- **Composition:** Verstappen in RB22 cockpit or at garage\n- **Text overlay:** \"NEW FLOOR\" (Bebas Neue, Championship Gold, oversized) / \"Verstappen — Miami Update Confirmed\" (Montserrat, White) / \"Red Bull's Plan: 3 Steps to the Front\" (small, White)\n- **Background:** Dark Midnight overlay, bottom text block\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2B — Social (1080x1350)\n- **Search term:** \"Red Bull Racing garage Formula 1\"\n- **Composition:** Red Bull mechanics working on car\n- **Text overlay:** \"STEP 1: JEDDAH. STEP 2: MIAMI. STEP 3: IMOLA.\" (Bebas Neue, Racing Red) / \"Red Bull's Road Back\" (Montserrat, White)\n- **Background:** Dark overlay\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "McLaren's Major Miami Upgrade — Aerodynamic Package Could Reset Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "McLaren has a BIG aerodynamic upgrade coming for Miami.\n\nAndrea Stella: \"We know it's not just power issues. We know we can do better aerodynamically.\"\n\nNorris is 47 points back. If the MCL40 gets fixed — this championship gets interesting FAST.\n\n#F1Fanrecap #McLaren #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#McLaren",
+            "#F1"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Reigning world champion Lando Norris: 5th in the 2026 standings, 47 points behind Antonelli after 3 races.\n\nMcLaren says a major update is coming for Miami.\n\nThe comeback story of 2026 could start May 1.\n\n#F1Fanrecap #Norris #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Norris",
+            "#McLaren"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mclaren-miami-aerodynamic-update-norris-title-defense.html",
+        "headline": "McLaren's Miami Upgrade Could Reset the 2026 Season — And Norris' Title Defense",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McLaren Miami Upgrade\n\n#### Image Concept 3A — Social (1080x1350)\n- **Search term:** \"Lando Norris McLaren Formula 1\"\n- **Composition:** Norris in MCL40, helmet on or in paddock\n- **Text overlay:** \"MAJOR UPDATE INCOMING\" (Bebas Neue, Championship Gold) / \"McLaren — Miami Aerodynamic Package\" (Montserrat, White) / \"Title Defense Begins Here\" (small, White)\n- **Background:** Dark Midnight overlay, left placement\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 3B — Social (1080x1350)\n- **Search term:** \"Oscar Piastri McLaren Formula 1\"\n- **Composition:** Piastri podium at Japan or in car\n- **Text overlay:** \"PIASTRI: BACK ON THE PODIUM\" (Bebas Neue, Racing Red) / \"P2 Japan — McLaren's Season Starts Now\" (Montserrat, White)\n- **Background:** Dark overlay, celebratory\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli Leads Championship at 19 — \"Still Early Days\"",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli. 19 years old. The youngest F1 championship leader in history.\n\nAnd he gets FIVE WEEKS to sit with that fact before the Miami GP on May 1.\n\nHis take? \"Still early days to think about the championship.\"\n\nComposed beyond his years.\n\n#F1Fanrecap #Antonelli #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Antonelli",
+            "#F1"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-youngest-f1-championship-leader-five-week-break.html",
+        "headline": "Antonelli Spends Five Weeks as F1's Youngest-Ever Championship Leader at 19",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n#### Image Concept 4A — Social (1080x1350)\n- **Search term:** \"Kimi Antonelli Mercedes Formula 1\"\n- **Composition:** Antonelli on podium or celebrating win\n- **Text overlay:** \"19 YEARS OLD.\" (Bebas Neue, Championship Gold, oversized) / \"F1's Youngest-Ever Championship Leader\" (Montserrat, White)\n- **Background:** Dark Midnight bar, emotional/powerful tone\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 4B — Social (1080x1350)\n- **Search term:** \"Kimi Antonelli sparkling water podium\"\n- **Composition:** Antonelli on podium with sparkling water\n- **Text overlay:** \"NO CHAMPAGNE. (He's 19.)\" (Bebas Neue, White + Racing Red) / \"Youngest Championship Leader in F1 History\" (Montserrat, small)\n- **Background:** Light dark overlay, humor-forward\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Verstappen's Retirement Hints — Red Bull and F1 Respond",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Verstappen's retirement hints aren't about Red Bull's car.\n\nThey're about F1's regulations.\n\n\"I just hope there is some action — it's not just me saying it.\"\n\nIf the FIA's April 9 meeting doesn't produce change, the sport may lose its best driver.\n\n#F1Fanrecap #Verstappen #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Verstappen",
+            "#F1"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-verstappen-retirement-hints-f1-2026-regulations.html",
+        "headline": "Verstappen's Retirement Hints Are About F1 Itself — Not Just Red Bull's Car",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Retirement Hints\n\n#### Image Concept 5A — Social (1080x1350)\n- **Search term:** \"Max Verstappen Formula 1 serious\"\n- **Composition:** Verstappen intense expression, out of car\n- **Text overlay:** '\"FORMULA E ON STEROIDS.\"' (Bebas Neue, Racing Red, quote marks) / \"Verstappen on F1's 2026 Regulations\" (Montserrat, White)\n- **Background:** Dark overlay, stark and dramatic\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Drivers Unite Against 2026 Rules — What Changes Are on the Table",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Why Bearman's 50G crash matters:\n\nColapinto: harvesting mode (slowing 45 km/h)\nBearman: deployment mode (full power)\n\nResult: 190mph crash, zero warning.\n\nThis is the regulation crisis the FIA must fix before Miami.\n\n#F1Fanrecap #F12026 #F1Safety",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F12026",
+            "#F1Safety"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 Regulation Problem\n\n#### Image Concept 6A — Social (1080x1350)\n- **Search term:** \"Formula 1 energy harvesting crash 2026\"\n- **Search term (alternative):** \"Franco Colapinto Formula 1\"\n- **Composition:** Colapinto in car, racing action\n- **Text overlay:** \"HARVESTING VS DEPLOYMENT\" (Bebas Neue, Racing Red) / \"The Safety Gap That Must Be Fixed\" (Montserrat, White)\n- **Background:** Dark overlay, technical tone\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Miami GP Preview — 5 Things to Watch at Round 4",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Miami GP — 30 days away. What to watch:\n\n- Verstappen new floor vs. older Honda PU\n- McLaren aerodynamic update\n- FIA regulation changes (if approved)\n- Antonelli vs. Russell vs. Leclerc\n\nMay 1-3. Sprint weekend. Buckle up.\n\n#F1Fanrecap #MiamiGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP",
+            "#F1"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Miami GP Preview\n\n#### Image Concept 7A — Social (1080x1350)\n- **Search term:** \"Miami Grand Prix Formula 1 circuit\"\n- **Composition:** Circuit aerial or race action at Miami\n- **Text overlay:** \"MIAMI GP\" (Bebas Neue, Championship Gold, massive) / \"MAY 1-3 | SPRINT WEEKEND | ROUND 4\" (Montserrat, White) / \"30 DAYS TO GO\" (small, Racing Red)\n- **Background:** Dark overlay, hype-building\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
