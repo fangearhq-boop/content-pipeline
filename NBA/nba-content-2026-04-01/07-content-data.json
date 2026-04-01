@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-01",
+  "compiled_at": "2026-04-01T11:16:03.797827+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Curry Takes Major Step — 5-on-5 Scrimmage Raises Return Hope",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "STEPH CURRY participated in a live 5-on-5 scrimmage today.\n\n26 games missed. First time cleared for full contact since January 30.\n\nSunday vs. Houston is reportedly on the table. The Warriors' Play-In fate just got interesting.\n\n#HoopHeroes #Warriors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Draymond Green: \"There's no shutdown coming for Steph at the moment. He wants to play.\"\n\nAfter 26 straight games missed, Curry practiced live today. Warriors (36-39) are holding the last Play-In spot by a thread.\n\nThe timing is everything.\n\n#HoopHeroes #Warriors #StephCurry",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Warriors",
+            "#StephCurry"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-stephen-curry-5-on-5-scrimmage-warriors-return-timeline.html",
+        "headline": "Curry Participates in 5-on-5 Scrimmage — Return Sunday vs. Houston Reportedly on the Table",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Curry 5-on-5 Scrimmage\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Stephen Curry Golden State Warriors\n- **Composition:** Curry in his jersey, mid-dribble or shooting form\n- **Text overlay:** \"STEPH IS BACK\" (top in Bebas Neue, Primary Deep Orange) / \"5-on-5 Scrimmage Cleared\" (subtitle Montserrat, White) / \"Possible Return: Sunday vs. HOU\" (bottom Montserrat, Accent Gold)\n- **Background treatment:** Dark midnight bar, 40% opacity behind text\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** Draymond Green Golden State Warriors\n- **Composition:** Green in gameplay action\n- **Text overlay:** \"No Shutdown Coming\" (Bebas Neue, White) / \"Draymond Green on Curry's Return\" (Montserrat, Accent Gold)\n- **Background treatment:** Dark overlay, bottom-center placement\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Thunder Hit 60 Wins — SGA's Scoring Streak Extends to 128+ Games",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "OKC just hit 60 WINS for the second straight season.\n\nSGA: 128+ consecutive 20-point games. 47 pts in OT vs. Detroit last game.\n\nThe Thunder are building something that doesn't happen very often. Take notice.\n\n#HoopHeroes #Thunder #SGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Thunder",
+            "#SGA"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 2-2",
+          "text": "SGA's 128-game scoring streak is the most underappreciated record in sports.\n\nEvery. Single. Night. 20+ points.\n\nAnd yet the MVP race is still a debate. He's at 31.6 PPG on 55% shooting. Let him cook.\n\n#HoopHeroes #SGA #MVP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#SGA",
+            "#MVP"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-okc-thunder-60-wins-sga-scoring-streak-record.html",
+        "headline": "Thunder Hit 60 Wins Again — SGA's NBA-Record Scoring Streak Reaches 128-Plus Games",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thunder 60 Wins / SGA Record Streak\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Shai Gilgeous-Alexander Oklahoma City Thunder\n- **Composition:** SGA celebrating or driving to basket\n- **Text overlay:** \"60 WINS\" (Bebas Neue, Accent Gold, oversized) / \"SGA: 128+ Straight 20-PT Games\" (Montserrat, White) / \"#HoopHeroes\" (small, bottom)\n- **Background treatment:** Deep orange gradient behind text block\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** Oklahoma City Thunder team\n- **Composition:** Team celebration or bench action\n- **Text overlay:** \"BACK-TO-BACK 60-WIN SEASONS\" (Bebas Neue, Primary Deep Orange) / \"OKC Thunder — 60-16\" (Montserrat, White)\n- **Background treatment:** Dark midnight overlay\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Wolves Fall in OT to Suns 110-107 — Edwards Goes Off for 29 Despite Loss",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Anthony Edwards scored 29 points on a MINUTES RESTRICTION coming off a knee injury.\n\nThe Wolves still lost 110-107 in OT. Booker hit the winner.\n\nImagine what ANT looks like at full strength. The Wolves need him NOW.\n\n#HoopHeroes #Timberwolves #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Timberwolves",
+            "#NBA"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The West 5th seed is now a coin flip.\n\nMIN leads HOU by just half a game after the OT loss to Phoenix last night.\n\nEdwards needs to play every remaining game for awards eligibility. High stakes ball the rest of the way.\n\n#HoopHeroes #Timberwolves #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Timberwolves",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-anthony-edwards-29-points-wolves-ot-loss-suns.html",
+        "headline": "Edwards Scores 29 on a Minutes Restriction — But Late Turnovers, Booker's Winner Sink Wolves in OT",
+        "word_count": 471
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Edwards 29 pts / Wolves OT Loss\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Anthony Edwards Minnesota Timberwolves\n- **Composition:** Edwards in mid-air or driving action\n- **Text overlay:** \"29 POINTS\" (Bebas Neue, Primary Deep Orange) / \"On a Minutes Restriction\" (Montserrat, White) / \"Still Not Enough. Wolves Fall in OT.\" (Montserrat, Accent Gold)\n- **Background treatment:** Dark overlay, bottom-left placement\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** Devin Booker Phoenix Suns\n- **Composition:** Booker game-winner celebration\n- **Text overlay:** \"BOOKER HITS THE DAGGER\" (Bebas Neue, Royal Blue) / \"35 PTS — OT WINNER\" (Montserrat, White)\n- **Background treatment:** Dark overlay, top-left placement\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Pistons Clinch Central Division — NBA's Greatest Turnaround Story Continues",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Two years ago, the Detroit Pistons went 14-68.\n\nToday, they clinched the Central Division title at 55-21.\n\nWithout Cade Cunningham (collapsed lung). No. 1 seed in the East within reach.\n\nThis is the NBA's greatest turnaround story — full stop.\n\n#HoopHeroes #Pistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Pistons",
+            "#NBA"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-detroit-pistons-clinch-central-division-turnaround.html",
+        "headline": "From 14-68 to Division Champions: Pistons Clinch Central Title in NBA's Greatest Turnaround",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pistons Clinch Central Division\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Detroit Pistons team celebration\n- **Composition:** Team celebration or players embracing after a win\n- **Text overlay:** \"CENTRAL DIVISION CHAMPIONS\" (Bebas Neue, Accent Gold, all caps) / \"From 14-68 to Division Title\" (Montserrat, White) / \"Detroit Pistons — 55-21\" (Montserrat, small)\n- **Background treatment:** Dark midnight overlay at 50% opacity\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** Cade Cunningham Detroit Pistons\n- **Composition:** Cunningham in action or on bench in street clothes\n- **Text overlay:** \"THE BUILDER\" (Bebas Neue, Primary Deep Orange) / \"Cade Cunningham — Division Title Won\" (Montserrat, White)\n- **Background treatment:** Dark overlay, respectful/emotional tone\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Jokic's Triple-Double Season — 31 Instances, Closing in on History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nikola Jokic has 31 triple-double games this season.\n\nSince returning March 18: 26.2 pts / 13.4 reb / 9.9 ast.\n\nHe's the most statistically complete player in NBA history — and he barely gets talked about in the MVP race.\n\n#HoopHeroes #Nuggets #Jokic",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Nuggets",
+            "#Jokic"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nikola-jokic-31-triple-doubles-historic-season-nuggets.html",
+        "headline": "Jokic Has 31 Triple-Doubles This Season — The Most Statistically Complete Player in the NBA",
+        "word_count": 500
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jokic Triple-Double Season\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Nikola Jokic Denver Nuggets\n- **Composition:** Jokic passing or in triple-threat position\n- **Text overlay:** \"31 TRIPLE-DOUBLES\" (Bebas Neue, Accent Gold) / \"Most in the NBA This Season\" (Montserrat, White) / \"Jokic: 26.2 / 13.4 / 9.9 Since March 18\" (Montserrat, small, White)\n- **Background treatment:** Dark overlay, top-left placement\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Nikola Jokic Denver Nuggets\n- **Composition:** Wide landscape shot, Jokic in action or celebrating\n- **Usage:** Article hero image\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "LeBron-Bronny Viral Backboard Story Confirmed by LeBron",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Bronny told reporters LeBron shattered a backboard dunking in 2014.\n\nLeBron confirmed it: \"I didn't mean to shatter the glass, but yeah, I shattered it.\"\n\nBryce's Arizona team just reached the Final Four. The James family is having a WEEKEND.\n\n#HoopHeroes #Lakers #LeBron",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Lakers",
+            "#LeBron"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron-Bronny James Family\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** LeBron James Los Angeles Lakers\n- **Composition:** LeBron smiling or pointing at camera/crowd\n- **Text overlay:** \"THE JAMES FAMILY\" (Bebas Neue, Accent Gold) / \"Backboard confirmed. G League No. 1 seed. Final Four.\" (Montserrat, White, smaller)\n- **Background treatment:** Dark overlay at 50% opacity, bottom-center placement\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "West Playoff Race — Lakers Clinched Pacific Division, Play-In Jostling Continues",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "West Play-In standings (April 1):\n\n7. Phoenix\n8. LA Clippers (39-37)\n9. Portland (39-38)\n10. Golden State (36-39)\n\nSteph Curry could return Sunday. 7 games left. This is going to be chaos.\n\n#HoopHeroes #NBA #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "West Play-In Race\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Stephen Curry Golden State Warriors\n- **Composition:** Curry in game action, intense expression\n- **Text overlay:** \"THE PLAY-IN IS ON\" (Bebas Neue, Primary Deep Orange) / \"Curry Returns Sunday?\" (Montserrat, White) / \"Warriors: 36-39 — Last Spot\" (Montserrat, Accent Gold, small)\n- **Background treatment:** Dark overlay, tension-building design\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-01
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Curry participates in 5-on-5 scrimmage — biggest recovery step. 26 consecutive games missed. Possible return Sunday vs. Houston. Warriors 36-39, 10th West. Kerr confirms; Green: "no shutdown." | 1 | FOLLOW-UP (3/31 Curry 25+ games, not cleared for 5-on-5) |
+| 2 | Thunder 60-16 — second straight 60-win season. SGA 128+ consecutive 20-pt games (NBA record). SGA 47 pts in OT win vs. Pistons (114-110). OKC leads SA by 2.5 for West No. 1 seed. | 1 | FOLLOW-UP (ongoing SGA/OKC milestone) |
+| 3 | Suns 110, Wolves 107 OT — Booker 35 (game-winner). Edwards 29 pts on minutes restriction in return. Late Wolves turnovers costly. MIN 5th West, half-game over HOU. Edwards must play all 7 remaining for eligibility. | 1 | FOLLOW-UP (3/31 Edwards returns 17 pts off bench) |
+| 4 | Pistons clinch Central Division, 127-116 over Raptors. DET 55-21, leads East by 4 over BOS. Magic number 5 for No. 1 seed. Was 14-68 two seasons ago. Cade (collapsed lung) watching from bench. | 2 | NEW STORY |
+| 5 | Jokic 31 triple-double games this season (most in NBA). Since March 18 return: 26.2/13.4/9.9. Nuggets 4th West, clinched. | 2 | FOLLOW-UP (3/29 Jokic 4th straight TD; 3/30 DEN 6-game streak) |
+| 6 | LeBron confirms Bronny's viral backboard story (2014 dunk). Bronny/South Bay clinch G League No. 1 seed (14-0 with Bronny). Bryce James (Arizona) reaches NCAA Final Four. LeBron: "It was just superb." | 2 | FOLLOW-UP (3/31 LeBron ties Kareem wins; Bronny double-figures) |
+| 7 | Lakers clinch Pacific Division + playoff spot (49-26). West Play-In: PHX 7th, LAC 39-37 (8th), POR 39-38 (9th), GSW 36-39 (10th). Regular season ends April 12. Play-In April 14-17. Playoffs April 18. | 3 | FOLLOW-UP (ongoing West playoff picture) |
+
+---
+
 ## 2026-03-31
 
 | # | Story | Tier | Tag |

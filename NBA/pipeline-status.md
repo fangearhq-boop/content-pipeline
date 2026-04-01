@@ -1,7 +1,7 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-31
+- **Date**: 2026-04-01
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
 - **Dashboard Published**: Local only (content-dashboards push requires PAT with write access to fangearhq-boop/content-dashboards)
 
@@ -10,6 +10,19 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-01
+- **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, 14 posts (long-form + caption each)
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-04-01.xlsx (24 posts) + hh-postplanner-tobi-2026-04-01.xlsx (17 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-01/review-dashboard.html (29 items)
+- **Notes:** Curry first 5-on-5 scrimmage (26 games missed; possible return Sunday vs HOU). OKC 60-16 (second 60-win season), SGA 128+ consecutive 20-pt game record, 47 pts vs DET OT. Suns 110 Wolves 107 OT (Booker 35 winner; Edwards 29 on restriction). DET clinches Central Division (55-21; from 14-68 two seasons ago; magic number 5 for No. 1 seed). Jokic 31 TDs this season. LeBron confirms Bronny viral backboard story; Bryce Arizona Final Four; South Bay G League No. 1 seed. Lakers clinch Pacific Division (49-26).
+- **Market balance:** West (Thunder/SGA, Spurs/Wemby, Nuggets/Jokic, Wolves/Edwards, Lakers/LeBron, Warriors/Curry) + East (Pistons/Cade, Celtics/Tatum, Knicks, Cavaliers)
+- **Fact concerns:** "Possible return Sunday vs. Houston" is MEDIUM — from reports, not team confirmation. All other core facts HIGH from ESPN, Basketball-Reference, NBA.com, ClutchPoints.
 
 ### 2026-03-31
 - **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
