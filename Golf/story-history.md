@@ -6,6 +6,14 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-04-01 | T1 | Tiger Woods withdraws from Masters 2026 and all golf indefinitely — not guilty plea entered to DUI charges; announced treatment leave; arraignment April 23; Senior Open registration remains | X, FB, Article | FOLLOW-UP from 3/31 Tiger status uncertain; 3/30 DUI charges; 3/29 DUI arrest |
+| 2026-04-01 | T1 | Valero Texas Open final preview — Morikawa withdraws; Fleetwood/Åberg co-favorites +1500; Spieth +1600 (2021 champion); Henley +1600; winner gets Masters spot; bubble players: Fowler No. 65, Horschel No. 94, Finau No. 107, Tom Kim No. 126, Zalatoris No. 299 | X, FB, Article | FOLLOW-UP from 3/31 Valero preview; 3/30 Valero preview |
+| 2026-04-01 | T1 | Masters 2026 countdown 8 days — Tiger withdrawal reshapes field; Scheffler +480 seeks 3-peat (never done); McIlroy defending; DeChambeau/Rahm ~+1200; Amazon Prime debut; 90th Masters | X, FB, Article | FOLLOW-UP from 3/31 Masters countdown 9 days; 3/30 Masters 10 days out |
+| 2026-04-01 | T2 | Jordan Spieth at Valero — 2021 champion, best course history in field, +1600 odds, building momentum toward Augusta | X, FB, Article | FOLLOW-UP from 3/31 Fowler/Spieth storyline |
+| 2026-04-01 | T2 | Masters bubble watch — Fowler No. 65, Horschel No. 94, Finau No. 107, Tom Kim No. 126, Zalatoris No. 299 all at Valero; winner earns automatic invitation | X, FB, Article | FOLLOW-UP from 3/30 Valero preview/Masters field |
+| 2026-04-01 | T2 | Grand Slam chasers at Augusta — Schauffele (U.S. Open + The Open), Morikawa (PGA + The Open), Koepka (4 majors) each need only Masters; last completed McIlroy 2025; Gary Player 1965 prior | X, FB | FOLLOW-UP from 3/30 Grand Slam chasers |
+| 2026-04-01 | T3 | Hyo Joo Kim / Chevron Championship — back-to-back LPGA wins (Founders Cup + Ford, two 61s); Chevron April 23-26; Korda runner-up consecutive weeks | X, FB | FOLLOW-UP from 3/31 Chevron Championship T2 |
+|------|------|-------|-----------|-------|
 | 2026-03-31 | T1 | Tiger Woods 9 days to Augusta — listed in Masters field, status officially uncertain, Trump says won't play but no confirmed withdrawal; DUI charges pending | X, FB, Article | FOLLOW-UP from 3/30 DUI mugshot story; legal status same, tournament participation unresolved |
 | 2026-03-31 | T1 | Valero Texas Open starts Thursday — Fleetwood +1400, Aberg +1600, Fowler/Spieth in field; winner earns final Masters invitation; April 2-5 TPC San Antonio | X, FB, Article | FOLLOW-UP from 3/30 Valero preview; third-oldest PGA Tour event |
 | 2026-03-31 | T1 | Masters 2026 countdown 9 days — 90th tournament, Scheffler +480, McIlroy defending (2025 Grand Slam), Amazon Prime debut, Jim Nantz 38th year | X, FB, Article | FOLLOW-UP from 3/30 Masters 10 days out; DeChambeau/Rahm +1200 |

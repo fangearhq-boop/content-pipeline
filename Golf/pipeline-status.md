@@ -7,17 +7,28 @@ Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-03-31 |
-| Writing | Complete (all 7 files + 5 articles) | 2026-03-31 |
-| Fact-check | Complete (verify-facts.py run — 42 claims, 90 HIGH) | 2026-03-31 |
-| Scripts | Complete (all 6 scripts run) | 2026-03-31 |
-| PostPlanner | Complete (standard + TOBI exports) | 2026-03-31 |
-| Dashboard | Generated locally (push blocked — see notes) | 2026-03-31 |
+| Research | Complete | 2026-04-01 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-04-01 |
+| Fact-check | Complete (verify-facts.py run — 36 claims, 66 HIGH) | 2026-04-01 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-01 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-04-01 |
+| Dashboard | Generated locally (push blocked — see notes) | 2026-04-01 |
 | Published | Pending upload | — |
 
 ## Queue
 
 (No items in queue.)
+
+## Pipeline Run: 2026-04-01
+- **Research:** 8 web searches covering Tiger Woods DUI not-guilty plea + Masters withdrawal + treatment announcement, Valero Texas Open field/odds/Morikawa withdrawal, Masters odds update, Spieth course history at Valero, Masters bubble players world rankings, Fleetwood TGL win, Masters Grand Slam chasers, Chevron/Kim LPGA update
+- **Stories (7):** Tiger withdraws Masters/seeks treatment (T1), Valero final preview Fleetwood/Åberg (T1), Masters 8 days out without Tiger (T1), Spieth at Valero 2021 champion (T2), Masters bubble watch Fowler/Horschel/Kim/Zalatoris (T2), Grand Slam chasers Schauffele/Morikawa/Koepka (T2), Kim/Chevron Championship (T3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 14 (long-form + caption for each of 7 stories)
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** gfr-postplanner-2026-04-01.xlsx (10 posts) + gfr-postplanner-tobi-2026-04-01.xlsx (10 TOBI posts)
+- **Dashboard:** Generated at Golf/golf-content-2026-04-01/review-dashboard.html (29 items)
+- **Key facts:** Tiger pleaded not guilty (DUI + property damage + test refusal), withdrew from Masters, announced treatment. Augusta's Ridley expressed support. Arraignment April 23. Valero: Fleetwood/Åberg +1500 co-favorites, Spieth +1600 (2021 champion), Morikawa WD. Bubble players: Fowler No. 65, Horschel No. 94, Finau No. 107, Tom Kim No. 126, Zalatoris No. 299. Masters April 9-12, Scheffler +480 (3-peat bid). Grand Slam chasers: Schauffele, Morikawa, Koepka.
+- **Fact concerns:** All core facts HIGH. DeChambeau/Rahm Masters odds MEDIUM (fluctuate daily). Tiger Senior Open registration MEDIUM (single source). Saturday Valero thunderstorm forecast MEDIUM.
 
 ## Pipeline Run: 2026-03-31
 - **Research:** 7 web searches covering Tiger Woods Masters status/DUI update, Valero Texas Open start/field/odds, Masters 2026 countdown (9 days), Chevron Championship/Hyo Joo Kim, LIV Golf 2026 format change, Fowler/Spieth Valero storyline, Gary Woodland Masters debut
