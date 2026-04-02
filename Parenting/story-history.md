@@ -673,3 +673,63 @@
   - Multi-district family survival tips series
   - Ongoing spring break chaos humor (weekly through March)
   - Summer scheduling chaos humor (July/August preview)
+
+---
+
+## April 2, 2026
+
+### Story 1: D11 Twain Elementary Lockdown — April 1, 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Key Facts:** Twain Elementary (D11) placed on lockdown Wednesday April 1; lockdown lifted before noon; police said "nothing to indicate" credible threat; Gazette: "Non-credible threat temporarily locks down Twain Elementary"; three independent sources (KKTV, Gazette, KOAA)
+- **Follow-Up Opportunities:**
+  - D11 emergency communication system review
+  - School safety protocols explainer (evergreen)
+  - Student mental health after school security incidents
+
+### Story 2: CPSC Recalls Evajoy and Blue Wave Above-Ground Pools — Drowning Hazard
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Key Facts:** Evajoy ~4,000 pools recalled Feb 26, 2026; models EJ-HF032/HF044/HF045; $550-$1,050 on Amazon; compression strap creates foothold for kids to climb in with ladder removed; 9 child drowning deaths from similar designs 2007-2022 (ages 22 months-3 years); free repair; 888-846-2988; support@evajoy.co; Blue Wave also recalled for same issue
+- **Follow-Up Opportunities:**
+  - Pool fence requirements in COS/El Paso County
+  - Full backyard pool safety guide (summer evergreen)
+  - Pool drain cover recall roundup
+
+### Story 3: US Measles Outbreak Near 1,300 Cases — MMR Vaccine Check
+- **Content Pillar:** National Parenting (Health)
+- **Angle:** NEW STORY (distinct from March 29 AAP immunization/CDC split — this covers outbreak numbers and elimination status)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Key Facts:** CIDRAP: US measles total approaches 1,300 infections; AAP News: 44 pediatric flu deaths + measles elimination status under review; US has held measles-eliminated status since 2000; MMR: 2 doses at 12-15 months and 4-6 years; AAP and CDC agree on MMR schedule; El Paso County Public Health: elpasocountyhealth.org
+- **Follow-Up Opportunities:**
+  - COS measles vaccination rates (El Paso County data)
+  - Q&A with local pediatrician on MMR questions
+  - Back-to-school immunization guide (summer)
+
+### Story 4: CPSC Recalls Pull-String Teething Toys — AiTuiTui and Yetonamr
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Key Facts:** AiTuiTui (sold by Vanfun on Amazon) — silicone strings reach back of throat, respiratory distress/choking/death; Yetonamr — same hazard + strings below permitted standard; both stop-use-immediately recalls; SaferProducts.gov or 800-638-2772 for reporting
+- **Follow-Up Opportunities:**
+  - Easter basket toy safety guide
+  - Monthly CPSC recall roundup continuation
+  - Amazon third-party seller safety checklist
+
+### Story 5: Academy District 20 — 17 Consecutive Years "Accredited with Distinction"
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 3
+- **Key Facts:** D20 Accredited with Distinction 17 consecutive years; 26,000+ students, 40 schools; some of highest graduation rates in Colorado; 1110 Chapel Hills Drive, Colorado Springs, CO 80920; asd20.org
+- **Follow-Up Opportunities:**
+  - D20 school profiles (individual school spotlights)
+  - CMAS testing spring guide for D20 families
+  - COS school district comparison (D11/D20/D49)
+
