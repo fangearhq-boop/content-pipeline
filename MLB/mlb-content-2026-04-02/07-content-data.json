@@ -1,0 +1,320 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-02",
+  "compiled_at": "2026-04-02T10:59:28.022367+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sandy Alcantara Throws a Maddux — Marlins 10-0 Over White Sox",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Sandy Alcantara just threw a MADDUX — a complete game shutout in under 100 pitches. ⚾\n\n9 IP. 3 H. 0 ER. 0 BB. 7 K. 93 pitches. Marlins win 10-0.\n\n#BallparkBanter #Marlins #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Marlins",
+            "#MLB"
+          ],
+          "char_count": 175
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Alcantara's scoreless streak is now 15 innings to start 2026.\n\nHis 2nd career Maddux. 13th career complete game. Miami is 5-1. The 2022 NL Cy Young winner is back. 🔥\n\n#BallparkBanter #Marlins #Baseball",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Marlins",
+            "#Baseball"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-sandy-alcantara-maddux-marlins-white-sox-2026.html",
+        "headline": "Sandy Alcantara Throws the First Maddux of 2026 as Marlins Rout White Sox 10-0",
+        "word_count": 705
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sandy Alcantara Throws a Maddux — Marlins 10-0 Over White Sox\n\n#### Image Concept 1A — Social (1080x1350)\n- **Photo search:** `Sandy Alcantara Marlins`\n- **Overlay text (headline):** \"First Maddux of 2026\"\n- **Overlay text (stat):** \"9 IP · 0 ER · 93 Pitches\"\n- **Overlay text (context):** \"Marlins 10, White Sox 0\"\n- **Composition:** Pitching delivery or follow-through, full-body or three-quarter shot\n- **Mood:** Dominant, clean, sharp\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Photo search:** `Sandy Alcantara Marlins`\n- **Use:** Article featured image and Open Graph\n- **Composition:** Action delivery shot, horizontal framing\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Dodgers \"Samurai Sequence\" Complete — Yamamoto Starts, Guardians Win 4-1",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Dodgers just made history. ⚾\n\nThree straight Japanese-born starters — Sasaki (Mon), Ohtani (Tue), Yamamoto (Wed). First time it's ever happened in MLB. Yamamoto: 6 IP, 2 ER today.\n\n#BallparkBanter #Dodgers #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Shohei Ohtani has 22.2 consecutive scoreless innings to open 2026 — longest active streak in MLB.\n\nHe's also reached base in 36 straight games. The two-way era has fully arrived.\n\n#BallparkBanter #Dodgers #Baseball",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Dodgers",
+            "#Baseball"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-dodgers-samurai-sequence-sasaki-ohtani-yamamoto-history.html",
+        "headline": "Sasaki, Ohtani, Yamamoto: The Dodgers' Samurai Sequence Made MLB History",
+        "word_count": 686
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dodgers \"Samurai Sequence\" Complete — Yamamoto Starts, Guardians Win 4-1\n\n#### Image Concept 2A — Social (1080x1350)\n- **Photo search:** `Yoshinobu Yamamoto Dodgers`\n- **Overlay text (headline):** \"The Samurai Sequence Is Complete\"\n- **Overlay text (detail):** \"Sasaki · Ohtani · Yamamoto\"\n- **Overlay text (context):** \"First Time in MLB History\"\n- **Composition:** Yamamoto pitching delivery or dugout portrait\n- **Mood:** Historic, cinematic\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Photo search:** `Shohei Ohtani Dodgers`\n- **Use:** Article featured image and Open Graph\n- **Composition:** Ohtani on the mound — horizontal landscape framing\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Paul Skenes Bounces Back — 5 IP, 1 ER vs Reds After Nightmare Opener",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Paul Skenes answers after a nightmare Opening Day. ⚾\n\n5 IP, 1 ER, 5 K vs. the Reds. Pirates win 8-3. Career ERA: 2.10 through 57 starts — 4th-best by any pitcher since 1920.\n\n#BallparkBanter #Pirates #MLB",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Pirates",
+            "#MLB"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-paul-skenes-bounce-back-pirates-reds-2026.html",
+        "headline": "After a Nightmare Opening Day, Paul Skenes Returns to Form Against the Reds",
+        "word_count": 618
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Paul Skenes Bounces Back — 5 IP, 1 ER vs Reds After Nightmare Opener\n\n#### Image Concept 3A — Social (1080x1350)\n- **Photo search:** `Paul Skenes Pirates`\n- **Overlay text (headline):** \"Skenes Bounces Back\"\n- **Overlay text (stat):** \"5 IP · 1 ER · 5 K\"\n- **Overlay text (context):** \"Pirates 8, Reds 3\"\n- **Composition:** Pitching motion, power delivery preferred\n- **Mood:** Redemption, intensity\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Photo search:** `Paul Skenes Pirates`\n- **Use:** Article featured image and Open Graph\n- **Composition:** Mid-windup or follow-through, horizontal\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "The 2026 Rookie Explosion — DeLauter and Stewart Win First POTWs",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The 2026 rookie class is ALREADY historic.\n\nChase DeLauter: 4 HRs in his first 3 games (only the 2nd player ever). Sal Stewart: .700 BA. Both won Player of the Week. Both 2022 first-rounders.\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-delauter-stewart-rookie-potw-2026.html",
+        "headline": "The 2026 Rookie Explosion: DeLauter and Stewart Deliver Historic Opening Week",
+        "word_count": 697
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "The 2026 Rookie Explosion — DeLauter and Stewart Win First POTWs\n\n#### Image Concept 4A — Social (1080x1350)\n- **Photo search:** `Chase DeLauter Guardians`\n- **Overlay text (headline):** \"Rookie Explosion\"\n- **Overlay text (stat):** \"DeLauter: 4 HR in 3 Games\"\n- **Overlay text (context):** \"AL & NL POTW — Week 1\"\n- **Composition:** Batting stance or home run swing\n- **Mood:** Electric, celebratory\n\n#### Image Concept 4B — Article Hero (1200x630)\n- **Photo search:** `Chase DeLauter Guardians`\n- **Use:** Article featured image and Open Graph\n- **Composition:** Home run swing or exuberant bat flip, horizontal\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Masyn Winn Walk-Off in 11 — Cardinals Edge Mets 2-1",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Masyn Winn's first career walk-off — a bloop single in the 11th — gives the Cardinals a 2-1 win over the Mets.\n\nThe Mets were 0-for-11 with RISP in the finale. 1-for-29 in the series. 😬\n\n#BallparkBanter #Cardinals #Mets",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Cardinals",
+            "#Mets"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-masyn-winn-walkoff-cardinals-mets-2026.html",
+        "headline": "Masyn Winn Delivers First Career Walk-Off as Cardinals Edge Mets 2-1 in 11 Innings",
+        "word_count": 713
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Masyn Winn Walk-Off in 11 — Cardinals Edge Mets 2-1\n\n#### Image Concept 5A — Social (1080x1350)\n- **Photo search:** `Masyn Winn Cardinals`\n- **Overlay text (headline):** \"First Career Walk-Off\"\n- **Overlay text (detail):** \"Cardinals 2, Mets 1 (11)\"\n- **Overlay text (context):** \"Winn Walk-Off Bloop Single\"\n- **Composition:** Celebration in dugout or on-field exuberance\n- **Mood:** Joyful, electric\n\n#### Image Concept 5B — Article Hero (1200x630)\n- **Photo search:** `Masyn Winn Cardinals`\n- **Use:** Article featured image and Open Graph\n- **Composition:** Batting action or celebratory moment, horizontal\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Liam Hicks Has 12 RBI in 6 Games — MLB's Hottest Start",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Liam Hicks leads ALL of MLB with 12 RBI in 6 games. 🔥\n\nRule 5 pick. Canada's backup catcher at the WBC. 26 years old. And he is absolutely raking for the 5-1 Marlins.\n\n#BallparkBanter #Marlins #MLB",
+          "posting_time": "10:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Marlins",
+            "#MLB"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Liam Hicks Has 12 RBI in 6 Games — MLB's Hottest Start\n\n#### Image Concept 6A — Social (1080x1350)\n- **Photo search:** `Liam Hicks Marlins`\n- **Overlay text (headline):** \"12 RBI in 6 Games\"\n- **Overlay text (context):** \"MLB's RBI Leader\"\n- **Overlay text (detail):** \"Marlins 5-1\"\n- **Composition:** Batting action or catcher gear portrait\n- **Mood:** Confident, spotlight\n\n#### Image Concept 6B — Article Hero (1200x630)\n- **Photo search:** `Liam Hicks Marlins`\n- **Use:** Article featured image and Open Graph\n- **Composition:** Contact at the plate or catching gear, horizontal\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Early MLB Standings Snapshot — The Overachievers and the Stragglers",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Week 1 standings check: Yankees 3-0. Blue Jays 3-0. Marlins 5-1. A's 0-3. White Sox 0-6.\n\nBaseball's early overachievers and stragglers are already making themselves known. 📊\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "10:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Early MLB Standings Snapshot — The Overachievers and the Stragglers\n\n#### Image Concept 7A — Social (1080x1350)\n- **Photo search:** `MLB baseball stadium`\n- **Overlay text (headline):** \"Week 1 Standings\"\n- **Overlay text (leaders):** \"Yankees 3-0 · Blue Jays 3-0 · Marlins 5-1\"\n- **Overlay text (trailers):** \"A's 0-3 · White Sox 0-6\"\n- **Composition:** Stadium wide shot or aerial view — no specific player\n- **Mood:** Analytical, sweeping"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

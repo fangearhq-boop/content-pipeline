@@ -5,6 +5,20 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-02
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Sandy Alcantara throws first Maddux of 2026 — 9 IP, 3 H, 0 ER, 0 BB, 7 K, 93 pitches. Marlins 10-0 over White Sox. 2nd career Maddux, 13th CG, 5th shutout. Scoreless streak now 15 IP. Marlins 5-1, best start since 2020. Liam Hicks 3-for-4, 4 RBI (12 RBI in 6 games — MLB leader). | 1 | NEW STORY |
+| 2 | Dodgers complete "Samurai Sequence" — Yamamoto starts April 2 vs. Guardians (6 IP, 2 ER). First ever in MLB history: 3 consecutive Japanese-born starters (Sasaki Mon, Ohtani Tue, Yamamoto Wed per Elias). Guardians won 4-1. Ohtani: scoreless streak 22.2 IP (active MLB leader); on-base streak 36 straight games. Dodgers 4-2. | 1 | FOLLOW-UP (3/31 Story 1 — Ohtani debut) |
+| 3 | Paul Skenes bounces back: 5 IP, 1 ER, 5 K, 77 pitches vs. Reds (April 1). Pirates 8-3. Career ERA 2.10 through 57 starts (4th-best since 1920). Skenes is 5-0, 0.53 ERA in career starts vs. Cincinnati. Oneil Cruz: 3rd HR in 2 games. | 2 | FOLLOW-UP (Skenes Opening Day disaster — 3/28 Story 1) |
+| 4 | Chase DeLauter (Guardians) wins AL POTW: 4 HRs in first 3 games (only 2nd player ever; first: Trevor Story 2016). .353/.353/1.059, 5 RBI, 17 PA. Sal Stewart (Reds) wins NL POTW: .700 BA, 1.300 SLG, 7 H, 13 PA. Both 2022 first-round picks. 2nd time ever rookies swept first AL/NL POTWs of a season. | 2 | NEW STORY |
+| 5 | Masyn Winn walk-off bloop single in 11th gives Cardinals 2-1 win over Mets (April 1). First career walk-off RBI. Matthew Liberatore 6 IP, 1 ER. Juan Soto solo HR (only Mets run). Mets 0-for-11 RISP in finale; 1-for-29 RISP in series; batting .162 RISP in 2026. Cardinals 4-2, win first 2 series. | 2 | NEW STORY |
+| 6 | Liam Hicks: 12 RBI in 6 games — leads all of MLB. Rule 5 pick (Dec 2024), Canada's WBC backup catcher. 26 years old. Career: .247/.346/.346, 6 HR, 45 RBI in 119 games in 2025. In Alcantara's Maddux game: 3-for-4, 4 RBI. Marlins 5-1. | 2 | NEW STORY |
+| 7 | Early standings after Week 1: Yankees 3-0, Blue Jays 3-0, Marlins 5-1 (best record in MLB), Cardinals 4-2, Dodgers 4-2. A's 0-3 or worse. White Sox 0-6. ABS challenge system debut: 175 challenges, limited overturn rate. | 3 | NEW STORY |
+
+---
+
 ## 2026-04-01
 
 | # | Story | Tier | Tag |
