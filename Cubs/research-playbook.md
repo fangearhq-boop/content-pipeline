@@ -56,16 +56,32 @@ Strong content that builds out the day.
 
 ### Tier 3 — Supporting Content (3:00 PM, 5:30 PM slots)
 
-Fills out the schedule with evergreen and hype content.
+Fills out the schedule with evergreen and analysis content.
 
 | Story Type | Why Tier 3 |
 |-----------|-----------|
-| Countdown/hype posts | "X days until Opening Day", "X days until Cubs-Cardinals" |
-| Historical comparisons | "Last time the Cubs started 20-10..." type features |
-| Evergreen stat breakdowns | Advanced metrics explainers, Statcast highlights |
+| Historical comparisons | "Last time the Cubs started 20-10..." type features — always anchored to a specific stat |
+| Evergreen stat breakdowns | Advanced metrics explainers, Statcast highlights, season-to-date analysis |
 | Minor league roundups (non-top prospects) | South Bend Cubs results, system-wide updates |
-| Fan culture content | Wrigley history, 7th inning stretch traditions, Bleacher Bum stories |
 | Offseason minor signings | Low-profile free agent additions, minor league deals |
+| Bold takes and season analysis | Opinion-backed takes on team trajectory, standings context |
+
+**DISABLED — Do NOT use for Tier 3:**
+- ~~Fan culture content~~ — No generic Wrigley history posts, 7th inning stretch trivia, or fan engagement filler
+- ~~Engagement questions~~ — No "What do you think?", polls, or question-based posts of any kind
+- ~~Standalone countdowns~~ — No "X days until Opening Day" posts without a real news hook attached
+
+## Slow News Day Strategies
+
+When breaking news is thin and there aren't 5 stories, fill Tier 3 slots with these — **never with engagement questions or fan polls**:
+
+- Historical stat comparisons ("Last time a Cubs pitcher did X was...")
+- Season-arc analysis (rotation health, lineup depth, standings context)
+- Prospect pipeline updates (Iowa Cubs results, minor league standouts)
+- NL Central rival analysis (what Brewers/Cardinals moves mean for the division race)
+- Upcoming series preview with specific matchup angles (pitching splits, historical H2H)
+
+**Explicitly banned on slow days:** Do NOT use "fan engagement posts", polls, questions like "Who's your favorite Cub?", or any content that asks followers for their opinion. These posts perform poorly and dilute the brand. If news is genuinely that thin, use fewer tweets that day — 4 good posts beat 7 with filler.
 
 ## Posting Priority
 

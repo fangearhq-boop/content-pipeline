@@ -130,6 +130,18 @@ What's your prediction for Horton's 2026 season?
 | Division/standings | `#NorthSiders` `#MLB` |
 | General Cubs content | `#GoCubs` `#ChicagoCubs` |
 
+## Posting Frequency Rule
+
+**Maximum 1 tweet per hour.** The only exception is breaking news (completed trade, major injury, fired manager, walkoff in extra innings, no-hitter in progress, etc.). Never post back-to-back tweets within 60 minutes for routine content — game previews, stat breakdowns, roster updates, and bold takes all count as routine.
+
+On non-game days, 4–5 posts is ideal. On game days with meaningful action, up to 7 posts is acceptable using the full default schedule.
+
+## X/Twitter: What We NEVER Post
+
+- **No engagement questions** — NEVER ask followers a question in an X post (e.g., "Who's your favorite Cubs player?", "What do you think about this trade?", "Will the Cubs make the playoffs?"). Questions are weak engagement on Twitter. State opinions and take stances instead.
+- **No evergreen filler questions** — No polls, no "Tell us your favorite Wrigley memory", no generic fan engagement prompts. Every tweet must be anchored to a specific news story, stat, or game.
+- **No generic countdowns without news hook** — "X days until Opening Day" is only acceptable if paired with a specific story angle (roster move, pitching matchup, etc.), not as standalone filler.
+
 ## Style Rules
 
 | Rule | Standard | Example |
