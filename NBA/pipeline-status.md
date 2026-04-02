@@ -1,8 +1,8 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-01
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
+- **Date**: 2026-04-02
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline minus image production, dashboard push, and WordPress publish)
 - **Dashboard Published**: Local only (content-dashboards push requires PAT with write access to fangearhq-boop/content-dashboards)
 
 ## Deploy Info
@@ -10,6 +10,19 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-02
+- **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access), WordPress publish (network tunnel blocked in this env)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, 14 posts (long-form + caption each)
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-04-02.xlsx (10 posts) + hh-postplanner-tobi-2026-04-02.xlsx (10 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-02/review-dashboard.html (29 items)
+- **Notes:** Wemby 41/18 vs Warriors — second consecutive 40-pt double-double (franchise first), Spurs 10th straight win, 58-18, within 2 of OKC (hold 4-1 tiebreaker), 23-2 since Feb 1. Murray 37pts/10 3PM/half-court buzzer — Nuggets 130 Jazz 117. Celtics 147-129 Heat — 53-pt first quarter. Curry targeting Sunday April 5 vs Houston. Pacers eliminated (were 2025 EC champs). CLE magic number 1 to clinch.
+- **Market balance:** West (Spurs/Wemby, Thunder/SGA, Nuggets/Murray+Jokic, Warriors/Curry) + East (Pistons, Celtics, Cavaliers, Knicks)
+- **Fact concerns:** 53-pt first quarter historic context is MEDIUM — used with careful language. All other core facts HIGH from ESPN, CBS Sports, NBA.com, Basketball-Reference.
 
 ### 2026-04-01
 - **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)

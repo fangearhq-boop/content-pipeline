@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-02
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Wembanyama 41 pts, 18 reb vs Warriors — second consecutive 40-pt double-double (Spurs franchise first). Spurs win 127-113, 10th straight. SA 58-18, within 2 of OKC. Spurs hold 4-1 series tiebreaker vs OKC. SA 23-2 since Feb 1. | 1 | FOLLOW-UP (3/31 Wemby 41/16; 4/1 Spurs implied 10-game streak) |
+| 2 | Jamal Murray 37 pts, 10 made 3-pointers, half-court buzzer-beater to end Q1. Nuggets 130, Jazz 117. Murray historic 3-point night. Jokic near triple-double. Denver 4th West. | 1 | NEW STORY (Murray 10 threes + half-court buzzer is standalone milestone) |
+| 3 | Celtics 147, Heat 129 — 53-point first quarter (historic). Tatum continuing return to form. Boston sending playoff warning. | 1 | FOLLOW-UP (3/30 Tatum 32-pt return; Celtics clinched 3/31) |
+| 4 | Curry targeting Sunday April 5 vs Houston (backup Tuesday vs Sac). Warriors 36-39, 10th West. 23-16 with Curry, 12-22 without. 7 games remaining. | 2 | FOLLOW-UP (4/1 Curry 5-on-5 scrimmage; Warriors Play-In situation) |
+| 5 | OKC 60-16 vs SA 58-18 — Spurs 4-1 vs OKC (hold tiebreaker). SA 23-2 since Feb 1. 7 games left in race for West No. 1 seed. | 2 | FOLLOW-UP (4/1 OKC 60-16; ongoing No. 1 seed race) |
+| 6 | Indiana Pacers officially eliminated from 2026 playoffs. Were 2025 Eastern Conference champions. First missed playoffs since 2023. | 2 | NEW STORY |
+| 7 | Cavaliers magic number 1 to clinch. Detroit magic number 2 for No. 1 East seed. East Play-In still unsettled. Regular season ends April 12. | 3 | FOLLOW-UP (ongoing East playoff picture) |
+
+---
+
 ## 2026-04-01
 
 | # | Story | Tier | Tag |
