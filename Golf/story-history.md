@@ -6,6 +6,17 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-04-02 | T1 | Valero Texas Open Round 1 underway — Fleetwood top favorite, Spieth +1600 (2021 champ), Åberg +1600 co-fave, $9.8M purse, winner gets Masters invite; bubble players: Fowler No. 65, Horschel No. 94, Finau No. 107, Kim No. 126, Zalatoris No. 299 | X, FB, Article | FOLLOW-UP from 4/1 Valero final preview |
+| 2026-04-02 | T1 | Brooks Koepka leaves LIV Golf (amicable mutual release), rejoins PGA Tour. 4-time major champion (2x PGA, 2x U.S. Open). Lifetime Masters invite as past champion. Needs only Masters for career Grand Slam. | X, FB, Article | NEW STORY |
+| 2026-04-02 | T1 | Masters 2026 countdown 7 days — 17th hole (Nandina) shortened 12 yards to 450 yards; new three-story Player Services Building debuts; $21M purse (up from $20M); McIlroy hosts Champions Dinner April 7; 22 debutants (Bridgeman, Griffin, Gotterup, Reitan); Scheffler +550, DeChambeau/Rahm +1000, McIlroy +1100, Tiger +20000 | X, FB, Article | FOLLOW-UP from 4/1 Masters 8 days out |
+| 2026-04-02 | T2 | Morikawa has best Augusta record among Grand Slam chasers — most top-5s (2), top-10s (3), top-25s (5); top-15 every year for 4 straight Masters; needs only Masters (has PGA + Open) | X, FB, Article | FOLLOW-UP (ongoing Grand Slam chasers storyline) |
+| 2026-04-02 | T2 | Fitzpatrick dark horse — consecutive bogey-free rounds at Valspar + runner-up at The Players 2026; won 2022 U.S. Open; iron play suits Augusta | X, FB, Article | NEW STORY |
+| 2026-04-02 | T2 | McIlroy back injury forces him to skip pre-Masters events; defending champion +1100; completed Grand Slam with 2025 Masters win | X, FB | FOLLOW-UP (McIlroy injury/health ongoing) |
+| 2026-04-02 | T3 | Hyo Joo Kim/Chevron Championship — back-to-back LPGA wins + two 61s in single tournament; first women's major April 23-26; Korda runner-up x2 | X, FB | FOLLOW-UP from 4/1 Kim/Chevron T3 |
+|------|------|-------|-----------|-------|
+
+| Date | Tier | Topic | Platforms | Notes |
+|------|------|-------|-----------|-------|
 | 2026-04-01 | T1 | Tiger Woods withdraws from Masters 2026 and all golf indefinitely — not guilty plea entered to DUI charges; announced treatment leave; arraignment April 23; Senior Open registration remains | X, FB, Article | FOLLOW-UP from 3/31 Tiger status uncertain; 3/30 DUI charges; 3/29 DUI arrest |
 | 2026-04-01 | T1 | Valero Texas Open final preview — Morikawa withdraws; Fleetwood/Åberg co-favorites +1500; Spieth +1600 (2021 champion); Henley +1600; winner gets Masters spot; bubble players: Fowler No. 65, Horschel No. 94, Finau No. 107, Tom Kim No. 126, Zalatoris No. 299 | X, FB, Article | FOLLOW-UP from 3/31 Valero preview; 3/30 Valero preview |
 | 2026-04-01 | T1 | Masters 2026 countdown 8 days — Tiger withdrawal reshapes field; Scheffler +480 seeks 3-peat (never done); McIlroy defending; DeChambeau/Rahm ~+1200; Amazon Prime debut; 90th Masters | X, FB, Article | FOLLOW-UP from 3/31 Masters countdown 9 days; 3/30 Masters 10 days out |

@@ -7,17 +7,28 @@ Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-01 |
-| Writing | Complete (all 7 files + 5 articles) | 2026-04-01 |
-| Fact-check | Complete (verify-facts.py run — 36 claims, 66 HIGH) | 2026-04-01 |
-| Scripts | Complete (all 6 scripts run) | 2026-04-01 |
-| PostPlanner | Complete (standard + TOBI exports) | 2026-04-01 |
-| Dashboard | Generated locally (push blocked — see notes) | 2026-04-01 |
+| Research | Complete | 2026-04-02 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-04-02 |
+| Fact-check | Complete (verify-facts.py run — 39 claims, 77 HIGH) | 2026-04-02 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-02 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-04-02 |
+| Dashboard | Generated locally (push blocked — see notes) | 2026-04-02 |
 | Published | Pending upload | — |
 
 ## Queue
 
 (No items in queue.)
+
+## Pipeline Run: 2026-04-02
+- **Research:** 8 web searches covering Valero R1 (Fleetwood/Spieth/Åberg), Masters 90th edition (17th hole shortened, $21M purse, 22 debutants, odds), Koepka LIV release/PGA Tour return, Morikawa Augusta record, Fitzpatrick form, McIlroy back injury, LIV schedule, Kim/Chevron
+- **Stories (7):** Valero R1 (T1), Koepka returns to PGA Tour (T1 NEW), Masters 7 days out/17th hole shortened (T1), Morikawa best Augusta record among Grand Slam chasers (T2), Fitzpatrick dark horse/hot form (T2 NEW), McIlroy back injury (T2), Kim/Chevron 3-in-a-row (T3)
+- **X Posts:** 10 written, all under 280 characters (2 needed fixes for char count)
+- **Facebook Posts:** 14 (long-form + caption for each of 7 stories)
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** gfr-postplanner-2026-04-02.xlsx (10 posts) + gfr-postplanner-tobi-2026-04-02.xlsx (10 TOBI posts)
+- **Dashboard:** Generated at Golf/golf-content-2026-04-02/review-dashboard.html (29 items)
+- **Key facts:** Valero starts April 2 ($9.8M, TPC San Antonio). Koepka amicable LIV release, rejoined PGA Tour, needs only Masters for Grand Slam. Masters: April 9-12, 17th hole shortened 12 yards to 450 yds, $21M purse, 22 debutants, McIlroy Champions Dinner April 7. Odds: Scheffler +550, DeChambeau/Rahm +1000, McIlroy +1100. Morikawa: most top-5s/top-10s/top-25s at Augusta among Grand Slam chasers. Fitzpatrick: consecutive bogey-free rounds Valspar + P2 The Players. McIlroy nursing back, skipping pre-Masters. Kim chasing Chevron 3-in-a-row April 23-26.
+- **Fact concerns:** All core facts HIGH. Masters odds from FanDuel Sportsbook (MEDIUM — fluctuate). LIV Koepka contract release "amicable" language from LIV/Wikipedia sources.
 
 ## Pipeline Run: 2026-04-01
 - **Research:** 8 web searches covering Tiger Woods DUI not-guilty plea + Masters withdrawal + treatment announcement, Valero Texas Open field/odds/Morikawa withdrawal, Masters odds update, Spieth course history at Valero, Masters bubble players world rankings, Fleetwood TGL win, Masters Grand Slam chasers, Chevron/Kim LPGA update
