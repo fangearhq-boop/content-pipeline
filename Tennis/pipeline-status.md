@@ -6,13 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-01 |
-| Writing | Complete (all steps) | 2026-04-01 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-01 |
-| Compile | Complete (07-content-data.json) | 2026-04-01 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-01 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-01 |
-| Publishing | Attempted — push failed (PAT lacks write access to content-dashboards repo) | 2026-04-01 |
+| Research | Complete | 2026-04-02 |
+| Writing | Complete (all steps) | 2026-04-02 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-02 |
+| Compile | Complete (07-content-data.json) | 2026-04-02 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-02 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-02 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-02 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-02 |
 
 ## Queue
 
@@ -23,6 +24,40 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-02 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 3 Tier 2, 1 Tier 3)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5
+- **PostPlanner exports:** tfr-postplanner-2026-04-02.xlsx (17 posts), tfr-postplanner-tobi-2026-04-02.xlsx (12 TOBI posts)
+- **Coverage:** Charleston Day 4 (Pegula marathon vs Cocciaretto; Keys d. Bondar; teen Jovic charms crowd), Houston QF bracket set (Shelton/Nakashima; Etcheverry/Mmoh; SF: Shelton/Etcheverry + Tiafoe/Darderi; Michelsen wins title), Monte Carlo wild card correction (4th WC = Moise Kouamé not Norrie; draw ceremony April 4), Marrakech QF Van Assche vs Griekspoor, Bencic Charleston R16 comeback
+- **Research:** Multiple web searches via research agents; Houston from tennismajors.com, tenngrand.com, vegastennis.com, oasport.it; Charleston from live5news.com (April 2), postandcourier.com, WTA official; Monte Carlo from monacolife.net, hellomonaco.com; Marrakech from sportskeeda.com, lastwordonsports.com
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 25 claims extracted; image warnings expected (production not started)
+  - compile-content-data.py: "Fact-Check no log found" and "no posting window" notes are cosmetic; all content compiled successfully; 7 X posts, 5 FB posts, 5 articles
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as all previous runs)
+  - WordPress publish failed: proxy blocks fanrumor.com (host_not_allowed) — same env restriction as all prior runs
+  - Wild card CORRECTION: April 1 pipeline stated "Norrie" as 4th MC wild card; web search on April 2 confirms 4th WC is Moise Kouamé (confirmed by monacolife.net + hellomonaco.com)
+  - Key facts (HIGH confidence): Pegula d. Cocciaretto R16 (WTA official + live5news); Keys d. Bondar (live5news April 2); Jovic charms crowd (postandcourier.com); Nakashima QF (tennismajors.com); Michelsen wins Houston (vegastennis.com); Kouamé 4th MC wild card (monacolife.net + hellomonaco.com); Van Assche vs Griekspoor Marrakech QF (multiple prediction sites); Bencic R16 advance (live5news April 1)
+- **Files created:**
+  - `tennis-content-2026-04-02/00-daily-brief.md`
+  - `tennis-content-2026-04-02/01-research-notes.md`
+  - `tennis-content-2026-04-02/02-story-analysis.md`
+  - `tennis-content-2026-04-02/03-social-posts-x.md`
+  - `tennis-content-2026-04-02/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-02/05-image-concepts.md`
+  - `tennis-content-2026-04-02/06-fact-check-log.md`
+  - `tennis-content-2026-04-02/07-content-data.json`
+  - `tennis-content-2026-04-02/07-image-manifest.md`
+  - `tennis-content-2026-04-02/review-dashboard.html`
+  - `tennis-content-2026-04-02/articles/article-01-charleston-day4-pegula-keys-jovic-2026.html`
+  - `tennis-content-2026-04-02/articles/article-02-houston-qf-bracket-set-michelsen-2026.html`
+  - `tennis-content-2026-04-02/articles/article-03-monte-carlo-kouame-wildcard-2026.html`
+  - `tennis-content-2026-04-02/articles/article-04-marrakech-qf-van-assche-griekspoor-2026.html`
+  - `tennis-content-2026-04-02/articles/article-05-bencic-charleston-comeback-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-02.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-02.xlsx`
 
 ### 2026-04-01 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
