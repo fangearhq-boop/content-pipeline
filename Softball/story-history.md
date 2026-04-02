@@ -3,6 +3,38 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 2, 2026
+
+### Story 1: No. 1 Texas Opens at No. 4 Alabama — Game Day in Tuscaloosa
+- **Angle:** FOLLOW-UP (season-long narrative). Game 1 at Rhoads Stadium tonight April 2, 6 PM CT (SECN+). G2 April 3 7:30 PM CT (SEC Network). G3 April 4 5 PM CT (ESPN). Texas 31-2, 8-1 SEC. Alabama 33-2, 7-2 SEC. Alabama leads all-time 7-2. First-ever SEC conference meeting. Alabama beat defending champion OU at Rhoads in 2025. Murphy 30th season, White 8th season.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+
+### Story 2: Oklahoma vs Kentucky Opener — Wells Eyes HR Nos. 28-30
+- **Angle:** FOLLOW-UP (Wells HR chase). OU opens 3-game home series vs Kentucky tonight at Love's Field (6:30 PM CT, SECN+). Wells at 27 HRs, needs 3 for NCAA freshman record (Alo/Chamberlain/Majam at 30). Kentucky 1-11 SEC. Kai Minor batting .490 (leads all DI freshmen). OU team 137 HRs.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+
+### Story 3: No. 6 FSU Opens vs Notre Dame — 21-Game Win Streak
+- **Angle:** NEW STORY. FSU 32-4, 9-0 ACC, nation's longest active win streak (21 games). Hosts Notre Dame at JoAnne Graf Field tonight (6 PM ET, ACC Network Extra). G3 Saturday 2 PM on ACC Network. ND 16-19, 5-7 ACC, 7-30 all-time vs FSU. Torres .615 BA. Alameda 1,000th win last week.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+
+### Story 4: Isa Torres .615 BA — Historic Season Feature
+- **Angle:** FOLLOW-UP (Torres POY case). Torres .615 BA leads all DI softball. .664 OBP (2nd). Last 15 games since injury return: 37-for-52 (.712), 5 HR, 22 RBI. NCAA record 16 consecutive hits (March 8-21). 23 straight PAs reaching base (3rd-longest NCAA history). 2025: .436 BA (FSU record), unanimous 1st team All-American.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+
+### Story 5: Washington Huskies 20-Game Win Streak — 30-6 Overall
+- **Angle:** NEW STORY. Washington 30-6, 12-0 Big Ten (only undefeated conference team). 20-game win streak (2nd-longest in country behind FSU). Combined no-hitter vs Iowa (Ramuno/Rehbein). Went 16-0 in March. No. 21 nationally. Heading to Stanford for Cardinal Classic.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+
+### Story 6: Texas Tech No. 2 Nationally — 35-2, NiJaree Canady
+- **Angle:** NEW STORY. Texas Tech 35-2, 11-1 Big 12, No. 2 NFCA. Nine points behind No. 1 Texas. 23 run-rule wins. Tracy Sellers Field renamed (March 27). NiJaree Canady college softball's highest-paid NIL player.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+### Story 7: The SEC Race — Three Teams Within One Game
+- **Angle:** NEW STORY. Texas 8-1, Oklahoma 8-1, Alabama 7-2. Texas at Alabama starts tonight. Texas hosts Oklahoma April 10-12. SEC Tournament in Lexington May 5-9.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+---
+
 ## April 1, 2026
 
 ### Story 1: Kendall Wells HR No. 27 — Sets SEC Single-Season Freshman Record

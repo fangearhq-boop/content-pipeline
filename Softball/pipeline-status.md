@@ -1,14 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-01
-- **Steps Completed**: Full pipeline (Steps 1-15) — research (8+ searches via agent + direct), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (2 char violations fixed), compile, dashboard, PostPlanner exports (X + TOBI)
+- **Date**: 2026-04-02
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (8 char violations fixed), compile, dashboard, PostPlanner exports (X + TOBI), WordPress publish (draft)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
-- **Issues**: 2 char-limit violations on Story 2/3 tweets fixed before compile step. Story 6 Tier 2 article optional (not written by design). IMAGE MISSING warnings expected (not_started status).
+- **Issues**: 8 char-limit violations in all 6 tweet blocks fixed before compile step. Story 6 (Texas Tech) Tier 2 article optional — not written by design (5 articles meet minimum). IMAGE MISSING warnings expected (not_started status). Git detached HEAD issue resolved with git checkout main + pull.
 
 ## Previous Run
-- **Date**: 2026-03-31
+- **Date**: 2026-04-01
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (13 searches), brief, analysis, X posts (8), FB posts (14), image concepts, articles (5), fact-check (5 char violations fixed), compile, dashboard, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
@@ -44,6 +44,15 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-02
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5
+- Fact-check: 8 char-limit violations fixed on first pass (Stories 1-6). 0 consistency errors after fixes. Story 6 article intentionally skipped (5 articles meet minimum).
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-04-02.xlsx (23 posts), ils-postplanner-tobi-2026-04-02.xlsx (16 TOBI posts)
+- Key stories: Texas at Alabama series opens tonight Rhoads Stadium G1 6 PM CT SECN+ (P9), Wells 27 HRs 3 from NCAA freshman record OU vs Kentucky 6:30 PM CT (P9), FSU vs Notre Dame 21-game win streak (P8), Torres .615 BA leads DI softball (P7), Washington 30-6 20-game win streak 12-0 Big Ten (P7), Texas Tech No. 2 35-2 NiJaree Canady (P6), SEC standings Texas/OU 8-1 Alabama 7-2 (P5)
+- Notes: Git detached HEAD resolved by checkout main + pull. openpyxl installed. 8 tweet char violations fixed.
 
 ### 2026-04-01
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
