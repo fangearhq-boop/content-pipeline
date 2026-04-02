@@ -1,15 +1,26 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-01
-- **Steps Completed**: Full pipeline (1-14) minus image production and dashboard push
-- **Dashboard Published**: Local only (content-dashboards push requires PAT with write access to fangearhq-boop/content-dashboards)
+- **Date**: 2026-04-02
+- **Steps Completed**: Full pipeline (1-14) minus image production, dashboard push, and WordPress publish
+- **Dashboard Published**: Local only (content-dashboards push requires PAT write access)
 
 ## Deploy Info
 - **Dashboard:** Unified (fangearhq-boop/content-dashboards, subfolder: f1fr)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-02
+- **Steps completed:** 1 (Research — 7 web searches), 2 (Story History), 3 (Daily Brief — 7 stories), 4 (Research Notes), 5 (Story Analysis), 6 (X Posts — 10), 7 (Facebook Posts — 14), 8 (Image Concepts), 9 (Articles — 5), 10 (Fact-Check — 38 claims, 85 HIGH), 10b (Compile — pass, 7 stories, 10 tweets, 5 articles), 11 (Image Manifest), 12 (Story History updated), 13 (Dashboard — 29 items), 14 (PostPlanner exports x2)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards, WordPress publish (network tunnel blocked)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10, all under 280 characters
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-02.xlsx (10 posts) + f1fr-postplanner-tobi-2026-04-02.xlsx (10 TOBI posts)
+- **Context:** Mercedes "favouritism" debate (Herbert, Motorsport Week April 1). Ferrari Monza filming day April 22 + ADUO PU update FIA-approved (mini pre-season). Red Bull Mekies confident break can fix Verstappen; ESPN confirms exit clause. Norris tells Verstappen "you can retire." FIA April 9 meeting one week away; Sainz wants Miami changes; Hamilton skeptical. Cadillac home debut at Miami; 10-year extension signed. Standings: ANT 72, RUS 63, LEC 34, HAM 33, VER 12.
+- **Market balance:** Mercedes (Antonelli/Russell), Ferrari (Hamilton/Leclerc), Red Bull (Verstappen), McLaren (Norris/Piastri), Cadillac (home race)
+- **Fact concerns:** Ferrari PU deficit "~0.5s/lap" is MEDIUM — paddock reports, used with careful language. All other facts HIGH.
 
 ### 2026-04-01
 - **Steps completed:** 1 (Research — 5 web searches), 2 (Story History), 3 (Daily Brief — 7 stories), 4 (Research Notes), 5 (Story Analysis), 6 (X Posts — 10), 7 (Facebook Posts — 14), 8 (Image Concepts), 9 (Articles — 5), 10 (Fact-Check — 35 claims, 71 HIGH), 10b (Compile — pass, 7 stories, 10 tweets, 5 articles), 11 (Image Manifest), 12 (Story History updated), 13 (Dashboard — 29 items), 14 (PostPlanner exports x2)

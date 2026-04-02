@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-02
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Johnny Herbert (Motorsport Week, April 1): Will Mercedes show "favouritism" toward Antonelli over Russell? Antonelli leads 72-63, just 9 pts. Autosport formally asks if Antonelli is title favourite. | 1 | FOLLOW-UP (4/1 Antonelli youngest-ever leader; ongoing Mercedes internal dynamic) |
+| 2 | Ferrari "mini pre-season" — Monza filming day April 22 (200km limit). ADUO PU update FIA-approved for Miami. Vasseur: "Miami = new championship." Hamilton/Leclerc targeting power gap closure. PU deficit ~0.5s/lap vs Mercedes. | 1 | NEW STORY (Monza filming day + ADUO update first reported this week) |
+| 3 | Red Bull TP Mekies: "by the time we give him a fast car, he will be a much happier Max." ESPN confirms exit clause in Verstappen contract tied to 2026 regs. VER best result P6 (AUS), 12 pts, tied 6th constructors with Alpine. No factory shutdown — full April development. | 1 | FOLLOW-UP (4/1 Verstappen regs frustration; 3/31 exit warning) |
+| 4 | Norris tells Verstappen "you can retire" if he dislikes the 2026 rules. Generational divide: Antonelli/Norris thriving; veterans struggling. Norris adds drivers who can't adapt should make way. | 2 | NEW STORY |
+| 5 | FIA April 9 meeting one week away. Sainz (GPDA) pushing for Miami changes. Hamilton skeptical: "drivers have no power with the FIA." Agenda: super-clipping, closing speed, warning systems, 2027 ratio changes. Unanimous team agreement required. | 2 | FOLLOW-UP (4/1 FIA meeting confirmed; 3/30 Bearman 50G crash) |
+| 6 | Cadillac F1 first home race at Miami. 10-year contract extension (through 2041). F1 Experiences sold out. McLaren won last 2 Miami GPs (Norris 2024, Piastri 2025). | 2 | NEW STORY |
+| 7 | Standings: ANT 72, RUS 63, LEC 34, HAM 33, VER 12. Constructors: MER 135, FER 90, MCL 56, RBR 16. Autosport: Antonelli is now the title favourite. 2 wins, 2 poles in 3 races. | 3 | FOLLOW-UP (ongoing championship analysis) |
+
+---
+
 ## 2026-04-01
 
 | # | Story | Tier | Tag |
