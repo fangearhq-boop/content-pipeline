@@ -1,6 +1,12 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-03
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (1 char violation fixed on Story 3 tweet), compile, dashboard, publish, PostPlanner exports (X + TOBI). WordPress publish blocked by proxy sandbox (fanrumor.com not in allowed_hosts).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **Issues**: Story 6 Tier 2 optional article not written by design. IMAGE MISSING warnings expected (not_started). WordPress blocked by proxy (network-level restriction — same as prior sessions).
+
+## Previous Run
 - **Date**: 2026-04-02
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (0 char violations), compile, dashboard, publish, PostPlanner exports (X + TOBI)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -29,6 +35,18 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-03
+- **Steps completed:** Full pipeline 1-15
+- **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 9 (1 char-limit violation fixed on Story 3 tweet before compile)
+- **FB Posts:** 7 long-form + 7 image captions
+- **Articles:** 5 (Stories 1-5; Story 6 Tier 2 optional — no article by design; Story 7 Tier 3 excluded)
+- **PostPlanner exports:** bb-postplanner-2026-04-03.xlsx (23 posts) + bb-postplanner-tobi-2026-04-03.xlsx (16 TOBI posts)
+- **Fact-check:** 1 char-limit violation (Story 3 tweet #1, 305 chars) fixed. 0 consistency errors after fix. Image manifest not_started (expected).
+- **Dashboard:** Published (https://fangearhq-boop.github.io/content-dashboards/)
+- **WordPress:** Blocked by proxy sandbox (fanrumor.com not in allowed_hosts)
+- **Notes:** 10+ web searches via agent. Key stories: Judge 500th career XBH + first in MLB history 5 HR/15 RBI in team's first 6 games Yankees 5-1 (P10); Griffin No. 1 prospect called up Pirates April 2 (P9); 2026 rookie class historic DeLauter + Murakami each HR in first 3 games 3rd/4th ever McGonigle 4-hit debut Wetherholt walk-off Stewart cleanup (P8); Marlins 5-1 NL East leaders Alcantara CG shutout (P7); Reds rotation Greene until July Lodolo blister rehab (P6); DeLauter + Stewart sweep first POTW as rookies 2nd time ever (P6); Standings: Yankees/Marlins/Brewers 5-1 WhiteSox/RedSox 1-5 (P5)
 
 ### 2026-04-02
 - **Steps completed:** Full pipeline 1-15

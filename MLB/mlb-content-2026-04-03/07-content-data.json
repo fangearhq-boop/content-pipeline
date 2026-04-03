@@ -1,0 +1,321 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-03",
+  "compiled_at": "2026-04-03T10:23:44.190504+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Aaron Judge Records 500th Career Extra-Base Hit — Most Historic Start in Yankees History**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Aaron Judge has now recorded 5 HRs and 15 RBIs in his first 6 games of 2026.\n\nNo player in MLB history has ever done that.\n\nHe also has his 500th career extra-base hit. The Yankees are 5-1.\n\nThe man is operating on a different level. 🏆\n\n#Yankees #MLB #AaronJudge",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB",
+            "#AaronJudge"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Aaron Judge's 999th game as a Yankee: 3-run HR. 500th career extra-base hit.\n\nThird-fastest Yankee ever (by games) to reach 500 XBH.\n\nAnd tomorrow? His 1,000th Yankee game — one HR would tie Babe Ruth's record.\n\nThis month is going to be something. 👀\n\n#Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-judge-500th-xbh-first-in-history-5hr-15rbi.html",
+        "headline": "Aaron Judge Records 500th Career Extra-Base Hit — First in MLB History With 5 HR and 15 RBI in Team's First 6 Games",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge — 500th Career Extra-Base Hit + Historic Start\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Aaron Judge New York Yankees`\n- **Rationale:** Judge is the lead story — home run swing action or celebration shot\n- **Usage:** X post (8:00 AM) + Facebook Story 1 caption\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn search\n- **Search Terms:** `Aaron Judge New York Yankees`\n- **Rationale:** Article hero for Judge feature\n- **Usage:** Article 1 hero\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Konnor Griffin Called Up — No. 1 Overall Prospect Makes MLB Debut**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Konnor Griffin is now in the majors.\n\nThe Pirates called up MLB's No. 1 overall prospect on Thursday.\n\nHe was hitting .438 in Triple-A across 5 games. They'd seen enough.\n\nSelected 9th overall in 2024. This is what you've been waiting for.\n\n#Pirates #MLB #KonnorGriffin",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pirates",
+            "#MLB",
+            "#KonnorGriffin"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Konnor Griffin: MLB Pipeline's No. 1 overall prospect.\n\nCalled up by Pittsburgh.\n\n7-for-16 in Triple-A. Called up after 5 games.\n\nThe future of the Pittsburgh Pirates is in uniform. Watch this.\n\n#Pirates #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pirates",
+            "#MLB"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-konnor-griffin-mlb-debut-pirates.html",
+        "headline": "Konnor Griffin Called Up — Baseball's No. 1 Prospect Makes His Major League Debut",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Konnor Griffin — Prospect Debut\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Konnor Griffin Pittsburgh Pirates`\n- **Rationale:** Feature image for top prospect debut\n- **Usage:** X post (10:30 AM) + Facebook Story 2 caption\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Pittsburgh Pirates shortstop`\n- **Rationale:** Team/position context for Griffin story\n- **Usage:** Facebook long-form supporting\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "**2026 Rookie Class Is Historic — DeLauter, Murakami, McGonigle, Stewart All Making Marks**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The 2026 rookie class through 6 games:\n\n🔥 DeLauter: HR in first 3 games (3rd player ever)\n🔥 Murakami: same (4th ever)\n🔥 McGonigle: 4-hit debut, .364 AVG\n🔥 Wetherholt: walk-off single\n🔥 Stewart: cleanup hitter, NL ROTW\n\nThis class is going to be remembered.\n\n#MLB #Rookies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Rookies"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-historic-2026-rookie-class.html",
+        "headline": "Five Rookies, Five Historic Moments — The 2026 MLB Rookie Class Is Already Something Special",
+        "word_count": 535
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rookie Class\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Chase DeLauter Cleveland Guardians`\n- **Rationale:** DeLauter is the most storied rookie of the opening week\n- **Usage:** X post (12:30 PM) + Facebook Story 3 caption\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Kevin McGonigle Detroit Tigers`\n- **Rationale:** McGonigle's 4-hit debut story supports the class feature\n- **Usage:** Facebook long-form supporting\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Miami Marlins Surge to 5-1 — Unexpected NL East Leaders**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Miami Marlins are 5-1.\n\nThey're leading the NL East.\n\nAlcantara just threw a 93-pitch complete game shutout in a 10-0 win.\n\nEvery projection had them rebuilding. The Marlins didn't get the memo.\n\n#Marlins #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Marlins",
+            "#MLB"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-marlins-5-1-nl-east-surprise.html",
+        "headline": "Miami Marlins Start 5-1 — The Season's Earliest and Most Unexpected Surprise",
+        "word_count": 489
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Miami Marlins\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Sandy Alcantara Miami Marlins`\n- **Rationale:** Alcantara's CG shutout is the Marlins' defining performance\n- **Usage:** X post (3:00 PM) + Facebook Story 4 caption\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Miami Marlins pitcher mound`\n- **Rationale:** Generic Marlins action shot for unexpected leader story\n- **Usage:** Facebook long-form supporting\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Reds' Rotation in Trouble — Greene Until July, Lodolo Rehabbing From Blister**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Cincinnati Reds are 3-3 and already missing their two best starting pitchers.\n\nHunter Greene: out until at least July (right elbow surgery).\nNick Lodolo: on the IL with a finger blister, rehabbing now.\n\nThe 2026 Reds rotation just got a lot shorter.\n\n#Reds #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-reds-rotation-greene-lodolo-injuries.html",
+        "headline": "Reds' Rotation Already in Trouble — Greene Out Until July, Lodolo Rehabbing Blister",
+        "word_count": 483
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Reds' Rotation\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Hunter Greene Cincinnati Reds`\n- **Rationale:** Greene is the bigger name / IL story in the Reds rotation\n- **Usage:** X post (6:00 PM) + Facebook Story 5 caption\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Nick Lodolo Cincinnati Reds`\n- **Rationale:** Lodolo supports the rotation concern story\n- **Usage:** Facebook long-form supporting\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "**DeLauter and Stewart Win First Player of Week Awards — Rookies Make History**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Chase DeLauter won the AL Player of the Week.\nSal Stewart won the NL Player of the Week.\n\nBoth rookies. Both winning the FIRST awards of the 2026 season.\n\nThat's only happened ONE other time in MLB history.\n\nThe rookie class is real. 🔥\n\n#MLB #Rookies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Rookies"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Player of Week Awards\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Sal Stewart Cincinnati Reds`\n- **Rationale:** Stewart's NL POTW award leads the story\n- **Usage:** X post (10:00 PM) + Facebook Story 6 caption\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Early Standings Snapshot — Yankees, Marlins, Brewers Lead; White Sox and Red Sox Struggling**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "MLB standings through 6 games:\n\n🏆 Yankees 5-1 | Marlins 5-1 | Brewers 5-1\n\n⚠️ White Sox 1-5 | Red Sox 1-5\n\nAaron Judge is making history. The Marlins are somehow leading the NL East.\n\nThe 2026 season is already wild.\n\n#MLB #Baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Standings Overview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `New York Yankees celebration`\n- **Rationale:** Yankees 5-1 leads the standings story\n- **Usage:** X post (10:00 PM) + Facebook Story 7 caption\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
