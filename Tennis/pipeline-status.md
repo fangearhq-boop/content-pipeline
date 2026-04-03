@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-02 |
-| Writing | Complete (all steps) | 2026-04-02 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-02 |
-| Compile | Complete (07-content-data.json) | 2026-04-02 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-02 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-02 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-02 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-02 |
+| Research | Complete | 2026-04-03 |
+| Writing | Complete (all steps) | 2026-04-03 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-03 |
+| Compile | Complete (07-content-data.json) | 2026-04-03 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-03 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-03 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-03 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-03 |
 
 ## Queue
 
@@ -24,6 +24,40 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-03 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 2 Tier 2, 1 Tier 3)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5
+- **PostPlanner exports:** tfr-postplanner-2026-04-03.xlsx (17 posts), tfr-postplanner-tobi-2026-04-03.xlsx (12 TOBI posts)
+- **Coverage:** Charleston QF Day (Pegula into SF via marathon win over Shnaider; Keys vs. Bencic QF — two former champions; Jovic vs. Kalinskaya QF — teen sensation's biggest test), Monte Carlo draw ceremony (April 3, 5 PM CEST — Alcaraz 1,000 pts to defend vs. Sinner 0 pts; Tsitsipas unseeded 3x champion; 5 withdrawals; 4 wild cards), Marrakech QF (Darderi walkover to SF — Hanfmann withdraws; Van Assche def. Griekspoor 6-4,1-6,6-3 R16), Jovic teen sensation feature
+- **Research:** Web search via research agent; Charleston from Post and Courier + Live5News + WTA official; Marrakech from TiebreakTennis.it + Lottomatica.sport + OASport.it + ATP Tour video; Monte Carlo from TennisTemple + Olympics.com + Tennis365 + Gamereactor; WTA R16 results from WTA official news/video
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 37 claims extracted; image warnings expected (production not started)
+  - compile-content-data.py: "Fact-Check no log found" and "no posting window" notes are cosmetic; all content compiled successfully; 7 X posts, 5 FB posts, 5 articles
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as all previous runs)
+  - WordPress publish failed: proxy blocks fanrumor.com (host_not_allowed) — same env restriction as all prior runs
+  - Note on draw ceremony date: previous pipeline had "draw ceremony April 4" but research confirms it was April 3 at 5 PM CEST — corrected in this pipeline
+  - Key facts (HIGH confidence): Pegula def. Shnaider QF (Post and Courier + Live5News headlines); Jovic def. Kenin 7-5,7-5 R16 (WTA official); Kalinskaya def. Badosa R16 (WTA official); Darderi walkover (TiebreakTennis.it + Lottomatica + OASport.it); Van Assche def. Griekspoor 6-4,1-6,6-3 (ATP Tour video); Monte Carlo draw ceremony April 3 5PM CEST (TennisTemple + Olympics.com)
+- **Files created:**
+  - `tennis-content-2026-04-03/00-daily-brief.md`
+  - `tennis-content-2026-04-03/01-research-notes.md`
+  - `tennis-content-2026-04-03/02-story-analysis.md`
+  - `tennis-content-2026-04-03/03-social-posts-x.md`
+  - `tennis-content-2026-04-03/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-03/05-image-concepts.md`
+  - `tennis-content-2026-04-03/06-fact-check-log.md`
+  - `tennis-content-2026-04-03/07-content-data.json`
+  - `tennis-content-2026-04-03/07-image-manifest.md`
+  - `tennis-content-2026-04-03/review-dashboard.html`
+  - `tennis-content-2026-04-03/articles/article-01-charleston-qf-pegula-sf-keys-bencic-2026.html`
+  - `tennis-content-2026-04-03/articles/article-02-monte-carlo-draw-ceremony-alcaraz-sinner-2026.html`
+  - `tennis-content-2026-04-03/articles/article-03-charleston-qf-keys-bencic-champions-clash-2026.html`
+  - `tennis-content-2026-04-03/articles/article-04-marrakech-darderi-sf-walkover-van-assche-2026.html`
+  - `tennis-content-2026-04-03/articles/article-05-jovic-charleston-qf-teen-sensation-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-03.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-03.xlsx`
 
 ### 2026-04-02 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
