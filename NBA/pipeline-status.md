@@ -1,15 +1,29 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-02
+- **Date**: 2026-04-03
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline minus image production, dashboard push, and WordPress publish)
-- **Dashboard Published**: Local only (content-dashboards push requires PAT with write access to fangearhq-boop/content-dashboards)
+- **Dashboard Published**: Local only (content-dashboards push requires PAT write access; WordPress publish blocked by proxy in this env)
 
 ## Deploy Info
 - **Dashboard:** Unified (fangearhq-boop/content-dashboards, subfolder: hh)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-03
+- **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access), WordPress publish (proxy blocks fanrumor.com in this env)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, 14 posts (long-form + caption each)
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-04-03.xlsx (10 posts) + hh-postplanner-tobi-2026-04-03.xlsx (10 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-03/review-dashboard.html (29 items)
+- **Notes:** OKC 139-96 over LAL (SGA 28 pts; OKC 61-16). CLE 118-111 over GSW (Mitchell 25, Strus 24; Cavs clinched 4th East playoff spot). DET 113-108 over MIN (Duren 22/14, Jenkins 26; DET 11-0 Q4 run; DET magic number 1 for No. 1 East seed). Curry 2nd consecutive 5-on-5 scrimmage, Kerr positive update, targeting Sunday April 5. Wemby No. 1 on NBA.com MVP Ladder — youngest EVER back-to-back 40+/15+ games, only player in 50 years with consecutive 40/15/3 lines. Edwards (MIN) and Cade (DET) both officially award-ineligible.
+- **Market balance:** West (Thunder/SGA 61-16, Spurs/Wemby 58-18, Nuggets/Jokic, Lakers, Rockets) + East (Pistons/Duren, Celtics, Cavaliers/Mitchell, Knicks)
+- **Fact concerns:** All core facts HIGH from ESPN box scores, NBA.com, NBC Sports Bay Area, Basketball-Reference. Curry return target MEDIUM (targeting Sunday, not confirmed).
+
 
 ### 2026-04-02
 - **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)

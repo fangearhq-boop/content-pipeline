@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-03",
+  "compiled_at": "2026-04-03T11:20:23.236215+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Thunder 139, Lakers 96 — SGA and OKC Roll to Blowout as No. 1 Seed Lead Grows",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Oklahoma City 139. Los Angeles 96.\n\nSGA had 28 points. The Thunder won by 43.\n\nOKC is now 61-16. San Antonio is 3 games back. The Spurs are running out of time.\n\n#HoopHeroes #Thunder #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Thunder",
+            "#NBA"
+          ],
+          "char_count": 187
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The OKC Thunder just blew out the Lakers by 43 points.\n\nSGA: 28 points. Healthy. Locked in.\n\nIf you thought the No. 1 seed race was over before — the math is getting harder for San Antonio.\n\n#HoopHeroes #SGA #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#SGA",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-thunder-139-lakers-96-okc-blowout-seed-race.html",
+        "headline": "Thunder Crush Lakers 139-96 as SGA Stars in 43-Point Blowout",
+        "word_count": 522
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thunder 139, Lakers 96\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo search:** Shai Gilgeous-Alexander Oklahoma City Thunder\n- **Text overlay:** \"OKC 139, LAKERS 96\" (top, Bebas Neue, Deep Orange #FF5722)\n- **Sub-text:** \"SGA: 28 PTS — THUNDER 61-16\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar (#1A1A2E, 45% opacity)\n- **Logo:** Bottom-right\n\n#### Image Concept 2 — Social (1080x1350)\n- **Photo search:** Shai Gilgeous-Alexander Oklahoma City Thunder\n- **Text overlay:** \"NO. 1 SEED LEADS BY 3\" (Bebas Neue, Accent Gold #FFC107)\n- **Sub-text:** \"OKC 61-16 — SA 58-18\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar\n- **Logo:** Bottom-right\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Cavaliers Clinch Playoff Spot — Mitchell 25, Strus 24 in 118-111 Win Over Warriors",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "CLEVELAND IS IN.\n\nDonovan Mitchell: 25 pts. Max Strus: 24 pts. Cavaliers beat the Warriors 118-111.\n\nCleveland officially clinched a 2026 playoff berth.\n\nThe East is nearly set.\n\n#HoopHeroes #Cavaliers #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Cavaliers",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Warriors lost to Cleveland 118-111 Thursday night — without Steph Curry.\n\nGolden State is 36-40. The Play-In spot is not guaranteed. Curry better be back Sunday.\n\n#HoopHeroes #Warriors #StephCurry",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Warriors",
+            "#StephCurry"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cavaliers-clinch-playoff-spot-mitchell-strus.html",
+        "headline": "Cavaliers Clinch 2026 Playoff Berth Behind Mitchell and Strus in 118-111 Win Over Warriors",
+        "word_count": 473
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cavaliers Clinch Playoff Spot\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo search:** Donovan Mitchell Cleveland Cavaliers\n- **Text overlay:** \"CAVS ARE IN\" (Bebas Neue, Royal Blue #1565C0)\n- **Sub-text:** \"MITCHELL 25. STRUS 24. PLAYOFFS CLINCHED.\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar\n- **Logo:** Bottom-right\n\n#### Image Concept 2 — Social (1080x1350)\n- **Photo search:** Cleveland Cavaliers celebration\n- **Text overlay:** \"CLEVELAND CLINCHED\" (Bebas Neue, Accent Gold)\n- **Sub-text:** \"118-111 OVER GOLDEN STATE — 2026 PLAYOFFS BOUND\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar\n- **Logo:** Bottom-right\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Pistons 113, Wolves 108 — Detroit Rallies in Q4 With Both Stars Out",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Detroit 113. Minnesota 108. Both Cade Cunningham AND Anthony Edwards were out.\n\nDuren: 22/14. Jenkins: 26 pts. An 11-0 run in the 4th quarter to seal it.\n\nThis Pistons team is built different.\n\n#HoopHeroes #Pistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Pistons",
+            "#NBA"
+          ],
+          "char_count": 219
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Anthony Edwards and Cade Cunningham are now both INELIGIBLE for end-of-season awards.\n\nBoth are below the 65-game threshold.\n\nEdwards (29.5 PPG). Cade (MVP watch before the injury).\n\nThe biggest individual awards story of the season.\n\n#HoopHeroes #NBA #Awards",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#Awards"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-pistons-113-wolves-108-duren-jenkins-win.html",
+        "headline": "Pistons Beat Wolves 113-108 Without Cade as Duren and Jenkins Shine; Edwards and Cunningham Award-Ineligible",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pistons 113, Wolves 108\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo search:** Jalen Duren Detroit Pistons\n- **Text overlay:** \"DUREN: 22 PTS / 14 REB\" (Bebas Neue, Deep Orange)\n- **Sub-text:** \"PISTONS WIN WITHOUT CADE — MAGIC NUMBER 1\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar\n- **Logo:** Bottom-right\n\n#### Image Concept 2 — Social (1080x1350)\n- **Photo search:** Detroit Pistons celebration\n- **Text overlay:** \"MAGIC NUMBER: 1\" (Bebas Neue, Accent Gold)\n- **Sub-text:** \"DETROIT IS ONE WIN FROM THE NO. 1 EAST SEED\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar\n- **Logo:** Bottom-right\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Curry Has 2nd 5-on-5 Scrimmage — Sunday Return vs. Houston Still the Target",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Steph Curry had his SECOND consecutive 5-on-5 scrimmage.\n\nKerr: \"Everything went well. He looked good.\"\n\nSunday vs. Houston is still the target. The Warriors need this.\n\n#HoopHeroes #StephCurry #Warriors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#StephCurry",
+            "#Warriors"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-curry-second-scrimmage-warriors-sunday-return.html",
+        "headline": "Curry Completes Second Consecutive 5-on-5 Scrimmage — Sunday Return Still the Target",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Curry 2nd 5-on-5 Scrimmage\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo search:** Stephen Curry Golden State Warriors\n- **Text overlay:** \"CURRY IS COMING BACK\" (Bebas Neue, Accent Gold #FFC107)\n- **Sub-text:** \"2ND STRAIGHT 5-ON-5 — TARGET: SUNDAY\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar\n- **Logo:** Bottom-right\n\n#### Image Concept 2 — Social (1080x1350)\n- **Photo search:** Stephen Curry Golden State Warriors\n- **Text overlay:** \"23-16 WITH CURRY. 12-22 WITHOUT.\" (Bebas Neue, Deep Orange)\n- **Sub-text:** \"WARRIORS NEED STEPH BACK — NOW\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar\n- **Logo:** Bottom-right\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Wembanyama Takes No. 1 on MVP Ladder — Historic Lines Fuel Voter Shift",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Victor Wembanyama just took over the No. 1 spot on the NBA MVP Ladder.\n\nYoungest player EVER to post back-to-back 40+ pt / 15+ reb games.\n\nOnly player in 50 years with consecutive 40/15/3 lines.\n\nWemby is making his case.\n\n#HoopHeroes #Wembanyama #MVP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Wembanyama",
+            "#MVP"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wembanyama-no1-mvp-ladder-historic-stats.html",
+        "headline": "Wembanyama Takes No. 1 on MVP Ladder With Once-in-a-Generation Statistical Run",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama MVP Ladder No. 1\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo search:** Victor Wembanyama San Antonio Spurs\n- **Text overlay:** \"WEMBY: NO. 1 MVP LADDER\" (Bebas Neue, Deep Orange)\n- **Sub-text:** \"YOUNGEST EVER BACK-TO-BACK 40/15 GAMES\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar\n- **Logo:** Bottom-right\n\n#### Image Concept 2 — Social (1080x1350)\n- **Photo search:** Victor Wembanyama San Antonio Spurs\n- **Text overlay:** \"THE MVP RACE IS REAL\" (Bebas Neue, Accent Gold)\n- **Sub-text:** \"SGA -300. WEMBY +220. SOMETHING IS SHIFTING.\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar\n- **Logo:** Bottom-right\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Edwards and Cade Both Award-Ineligible — Star Injuries Reshape Accolades Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Anthony Edwards and Cade Cunningham are both officially ineligible for NBA awards.\n\nEdwards: 29.5 PPG this season. Cade: was on MVP watch.\n\nTwo of the league's best young players — sidelined before they could make their full case.\n\n#HoopHeroes #NBA #Awards",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#Awards"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Awards Ineligibility\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo search:** Anthony Edwards Minnesota Timberwolves\n- **Text overlay:** \"AWARDS INELIGIBLE\" (Bebas Neue, Royal Blue)\n- **Sub-text:** \"EDWARDS AND CADE BELOW 65-GAME THRESHOLD\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar\n- **Logo:** Bottom-right\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "East Playoff Picture — Detroit Magic Number 1; Cavs Clinched; Play-In Heats Up",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "East update (April 3):\n\nDetroit: magic number 1 for No. 1 seed.\nCleveland: just clinched. ✓\nBoston, New York: in. ✓\nNext in line: Atlanta, Philadelphia, Orlando.\n\nRegular season ends April 12.\n\n#HoopHeroes #NBA #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "East Standings\n\n#### Image Concept 1 — Social (1080x1350)\n- **Photo search:** Detroit Pistons team\n- **Text overlay:** \"DETROIT: MAGIC NUMBER 1\" (Bebas Neue, Accent Gold)\n- **Sub-text:** \"EAST IS ALMOST SET — PLAYOFFS APRIL 18\" (Montserrat, White)\n- **Background:** Semi-transparent Dark Midnight bar\n- **Logo:** Bottom-right"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

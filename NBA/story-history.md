@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-03
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | OKC 139, LAL 96 — SGA 28 pts; 43-point blowout on Prime Video. OKC now 61-16. SA 58-18, 3 games back. Spurs hold 4-1 tiebreaker. | 1 | FOLLOW-UP (4/2 OKC 60-16; SA 58-18; ongoing No. 1 seed race) |
+| 2 | Cleveland 118, Warriors 111 — Mitchell 25, Strus 24; Cavs officially clinched playoff berth (4th East team). Warriors 36-40 without Curry. | 1 | FOLLOW-UP (4/2 CLE magic number 1; 4/2 Warriors lost to CLE; Curry ongoing) |
+| 3 | Detroit 113, Minnesota 108 — Duren 22/14, Jenkins 26; Randle 27 (MIN). Both Cade (DET) and Edwards (MIN) out. DET 11-0 Q4 run. Magic number for No. 1 East seed now 1. Both Edwards and Cade officially award-ineligible (below 65-game threshold). | 1 | FOLLOW-UP (4/2 DET magic number 2; Cade/Edwards injuries ongoing) |
+| 4 | Curry 2nd consecutive 5-on-5 scrimmage. Kerr: "Everything went well. He looked good." Day-to-day targeting Sunday April 5 vs. Houston. Warriors lost 118-111 to CLE. | 2 | FOLLOW-UP (4/2 Curry 2nd 5-on-5; Warriors Sunday target) |
+| 5 | Wembanyama No. 1 on NBA.com MVP Ladder. Youngest ever (22y 88d) back-to-back 40+/15+ games. Only player in 50 years with consecutive 40/15/3 lines. Last 10 games: 27.9/12.3. MVP odds: SGA -300, Wemby +220, Jokic +600, Luka +1500. | 2 | FOLLOW-UP (4/2 Wemby 41/18; ongoing MVP race) |
+| 6 | Edwards (MIN) and Cade (DET) both officially ineligible for NBA end-of-season awards. Below 65-game threshold. Edwards averaging 29.5 PPG. | 2 | FOLLOW-UP (4/2 Edwards ruled out; Cade ongoing) |
+| 7 | East confirmed: DET (magic number 1 for No. 1 seed), BOS, CLE (clinched April 2), NYK. ATL/PHI/ORL battling seeds 5-8. Regular season ends April 12. | 3 | FOLLOW-UP (4/2 DET magic number 2; CLE magic number 1 to clinch) |
+
+---
+
 ## 2026-04-02
 
 | # | Story | Tier | Tag |
