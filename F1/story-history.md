@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-03
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Bearman has 10 penalty points (FIA SL) after Japan crash — 2 points from automatic race ban at Miami GP (May 1-3). Haas confirmed he will race at Miami barring further incidents. | 1 | FOLLOW-UP (4/2 Bearman crash; ongoing Japan fallout) |
+| 2 | Alpine issues formal open letter to fans over "hateful messages" directed at Colapinto post-crash. Team defends Colapinto: regulatory structural failure, not driver error. 50 kph closing speed differential, no warning lights. | 1 | NEW STORY |
+| 3 | FIA April 9 meeting: 6 days away. Hamilton: "drivers have no power with the FIA." Sainz (GPDA) pushing for pre-Miami changes. Agenda: super-clipping, closing speeds, warning systems, 2027 ratio changes. Unanimous team agreement required. | 1 | FOLLOW-UP (4/2 FIA meeting one week away; 4/1 meeting confirmed; 3/31 fix proposals) |
+| 4 | Red Bull 3-stage break fix plan: floor/fences (Miami), revised PU deployment maps (Miami), full aero overhaul (Imola). No factory shutdown. Reverts to older Honda PU at Miami while rivals install fresh units. Mekies: "much happier Max" when car is fast. | 2 | FOLLOW-UP (4/2 Red Bull break; 4/1 floor updates; ongoing crisis) |
+| 5 | Verstappen race start crisis: MGU-H removal forces turbo spool on formation laps — Verstappen got it wrong in all 3 races. First 3-race stretch outside top 5 since 2017. Hadjar out-qualified him multiple times. Deployment maps being fixed in break. | 2 | FOLLOW-UP (ongoing Verstappen struggles; new technical root cause angle) |
+| 6 | Ferrari ADUO PU update FIA-approved for Miami. Target: close ~0.5s/lap deficit vs Mercedes. Vasseur: "Miami = new championship." Monza filming day April 22. | 2 | FOLLOW-UP (4/2 ADUO update NEW STORY; deepening analysis) |
+| 7 | Standings after Japan: ANT 72, RUS 63, LEC 49, HAM 41, NOR 25, PIA 21, BEA 17, VER 12. Constructors: MER 135, FER 90, MCL 56, RBR 16 (tied Alpine). | 3 | FOLLOW-UP (ongoing championship analysis; updated with Japan points) |
+
+---
+
 ## 2026-04-02
 
 | # | Story | Tier | Tag |

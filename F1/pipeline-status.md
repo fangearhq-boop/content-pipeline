@@ -1,15 +1,28 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-02
+- **Date**: 2026-04-03
 - **Steps Completed**: Full pipeline (1-14) minus image production, dashboard push, and WordPress publish
-- **Dashboard Published**: Local only (content-dashboards push requires PAT write access)
+- **Dashboard Published**: Local only (content-dashboards push requires PAT write access; WordPress blocked by proxy)
 
 ## Deploy Info
 - **Dashboard:** Unified (fangearhq-boop/content-dashboards, subfolder: f1fr)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-03
+- **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access), WordPress publish (proxy blocks fanrumor.com in this env)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, 14 posts (long-form + caption each)
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-03.xlsx (10 posts) + f1fr-postplanner-tobi-2026-04-03.xlsx (10 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-03/review-dashboard.html (29 items)
+- **Notes:** Bearman 10 penalty points, 2 from Miami race ban. Alpine open letter defending Colapinto (hateful messages, regulatory failure). FIA April 9 meeting 6 days away — Hamilton/Sainz leading pushback, unanimous team agreement required. Red Bull 3-stage break fix plan (no factory shutdown, floor+PU maps for Miami, aero overhaul for Imola, reverts to older Honda PU). Verstappen start crisis technical explanation (MGU-H removal → formation lap turbo management). Ferrari ADUO PU FIA-approved for Miami (closes ~0.5s/lap gap vs Mercedes).
+- **Standings (post-Japan):** ANT 72, RUS 63, LEC 49, HAM 41, NOR 25, PIA 21, BEA 17, VER 12. MER 135, FER 90, MCL 56, RBR 16.
+- **Fact concerns:** All core facts HIGH from GPFans, Crash.net, Sky Sports F1, Motorsport.com, Formula1.com. Ferrari PU deficit 0.5s/lap is MEDIUM (estimate). Standings updated to post-Japan correct figures (prior pipeline had pre-Japan standings).
 
 ### 2026-04-02
 - **Steps completed:** 1 (Research — 7 web searches), 2 (Story History), 3 (Daily Brief — 7 stories), 4 (Research Notes), 5 (Story Analysis), 6 (X Posts — 10), 7 (Facebook Posts — 14), 8 (Image Concepts), 9 (Articles — 5), 10 (Fact-Check — 38 claims, 85 HIGH), 10b (Compile — pass, 7 stories, 10 tweets, 5 articles), 11 (Image Manifest), 12 (Story History updated), 13 (Dashboard — 29 items), 14 (PostPlanner exports x2)
