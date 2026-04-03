@@ -2,6 +2,50 @@
 
 ---
 
+## April 3, 2026
+
+### Story 1: CPSC Water Safety Alert — "Relaxing Baby" Swim Floats (1 Death) + YCXXKJ Baby Bath Seat Recall
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (different products from all prior recalls)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** "Relaxing Baby" swim floats — CPSC urgent warning April 2, 2026; 1 toddler death; floats flip over/submerge child; sold Amazon/eBay; action = puncture and discard; no refund (seller non-cooperative). YCXXKJ baby bath seats (Model YD-1958, BenTalk/Amazon) — ~8,960 recalled; tip-over/drowning risk; full refund via email to bentalkhere@outlook.com
+- **Follow-Up Opportunities:** Summer water safety guide (evergreen); CPSCrecall roundup continuation
+
+### Story 2: AAP Breaks with CDC on 2026 Childhood Vaccine Schedule — Court Issues Injunction
+- **Content Pillar:** National Parenting (Health)
+- **Angle:** NEW STORY (Vitamin K/AAP April 1 was different; this is the vaccine schedule split)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** AAP published own 2026 schedule in Pediatrics — 18 diseases recommended. CDC revised schedule (RFK Jr. direction) = 11 routine + 6 "shared decision-making" (Hep A, Hep B, rotavirus, flu, RSV, meningococcal). U.S. District Judge Murphy issued injunction March 16, 2026 — blocked CDC changes, found ACIP "unlawfully constituted"; June 2024 CDC schedule restored. AAP was plaintiff. Practical: COS parents should ask their pediatrician which schedule they follow.
+- **Follow-Up Opportunities:** Insurance coverage for vaccines in flux (follow-up); pediatrician directory for COS (evergreen)
+
+### Story 3: D49 Budget Crisis — $2M Accounting Error, Teacher Layoffs, Fiscal Exigency
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 Student Success Center ECE classrooms on March 31 was purely positive — this is the full budget crisis context)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Fiscal exigency declared January 2026; $9–11M budget gap; causes: enrollment decline, mill levy equalization defunded, healthcare costs, inflation. KRDO investigation March 2, 2026: $2M accounting error paid to state ($2,040,128.86, June 2025) before $1.8M teacher salary cuts. ~50 positions cut total; 12 teacher positions cut February 2026. D49 still opening 2 new ECE classrooms at Student Success Center, August 2026.
+- **Follow-Up Opportunities:** D49 2026-27 budget cycle update; school-by-school impact (when published); teacher union perspective
+
+### Story 4: COS Spring Family Events — Bear Creek Toddler Class, Wickedly Broadway, ASL Literacy, Star Wars
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (covers different events from April 1 coverage of Cave of Winds/Jazz/Perlman and March 31 Easter events)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Apr 10: Bear Creek Toddler Nature Class at Fountain Creek, ages 2–3, two sessions (10–11:15am, 2–3:15pm), $3/person. Apr 10–11: CS Philharmonic "Wickedly Broadway" at Pikes Peak Center. Apr 17: FREE CSDB/Bear Creek ASL Literacy Event, ages birth–8, 1:30–3pm. May 8–9: CS Philharmonic Star Wars: Empire Strikes Back live-to-film, Pikes Peak Center.
+- **Follow-Up Opportunities:** May events guide; post-event recaps; Garden of the Gods Art Festival (May 16–17)
+
+### Story 5: Rock Island Trail New Pedestrian Bridge + Child Abuse Prevention Month Resources
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (no prior trail infrastructure coverage)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 3
+- **Key Facts:** City of Colorado Springs TOPS program — 210-foot pedestrian bridge over Sand Creek connecting east/west Rock Island Trail; also pedestrian crossing at Peterson Road; 2+ miles new trails; construction spring 2026, 10–12 months; funded by PPRTA II + CDOT grants + TOPS sales tax. April = Child Abuse Prevention Month; Childhelp hotline 1-800-422-4453 (24/7); Children's Hospital Colorado active locally.
+- **Follow-Up Opportunities:** Rock Island Trail bridge completion update (spring/summer 2027); May trail events; TOPS program 2026 priorities overview
+
+---
+
 ## April 1, 2026
 
 ### Story 1: CPSC Recalls — Crib Bumpers (Federal Ban Violation), Hobby Lobby Plush Toys, Blossom Loungewear, Criblike Mattresses
