@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-04
+
+### Story 1: Aaron Judge HR #371 — Yankees 8-2 Marlins, Now 6-1
+- **Angle:** FOLLOW-UP. Judge HR #371 (first AB of home opener, Apr 3). 2-run shot off Eury Perez, 387 ft, 101.2 mph. Passes Gil Hodges (83rd all-time). Yankees 6-1. Marlins 5-2.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** Judge HR #375, 400 HR watch, Yankees AL East race
+
+### Story 2: Chase DeLauter 5 HRs in 7 Games — Historic Rookie Start
+- **Angle:** FOLLOW-UP. DeLauter hit HR #5 in career game 7 (2-run, 402 ft, off Hunter Harvey). Only 4th player ever: Story/Quinn/Hinds. Guardians 4-1 Cubs home opener. DeLauter 3-for-4, tied AL HR lead.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** HR No. 6, record chase, Guardians season
+
+### Story 3: Ohtani First HR of 2026 — Dodgers 13-6 Nationals
+- **Angle:** FOLLOW-UP. Ohtani 3-run HR (3rd inn). Kyle Tucker first HR as a Dodger. 5 total Dodger HR. Sheehan 5.2 IP win. Ohtani 38-game OB streak. Dodgers 4-2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Ohtani pitching start, Tucker production, Dodgers outlook
+
+### Story 4: Twins 10, Rays 4 — Tristan Gray Grand Slam Home Opener
+- **Angle:** NEW STORY. Twins trailed entering 7th, erupted for 7 runs. Gray grand slam. Rays fall to 2-4. Twins home opener statement win.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Twins series result, Rays early slide
+
+### Story 5: 2026 Rookie Class Historic Week 1
+- **Angle:** FOLLOW-UP. DeLauter + Stewart = both first POTWs (2nd time ever both went to rookies). Murakami HR in first 3 games. McGonigle 4-hit debut. Wetherholt walk-off. Benge HR+SB debut.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** ROY race, DeLauter pace, April monthly awards
+
+### Story 6: Early Season Standings
+- **Angle:** NEW STORY. Yankees 6-1 AL best. Brewers 5-1 NL Central. Marlins 5-2. Atlanta 5-2. White Sox + Red Sox + A's all 1-5.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Week 2 standings, Yankees AL East gap
+
+### Story 7: Saturday Slate
+- **Angle:** EVERGREEN PREVIEW. Yankees-Marlins G3, Dodgers-Nationals G3, Guardians-Cubs G3. Various series finales.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Series results, weekend standings shift
+
+---
+
+## 2026-04-03
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Aaron Judge 500th career XBH + first in MLB history with 5 HR/15 RBI in team's first 6 games. AL POTW 6-for-11, 4 HR, 11 RBI. Yankees 5-1. | 1 | NEW |
+| 2 | Konnor Griffin (SS, Pirates) called up April 2 — MLB Pipeline No. 1 overall prospect. 7-for-16 in 5 Triple-A games. Selected 9th overall 2024. | 1 | NEW |
+| 3 | 2026 rookie class historic — DeLauter + Murakami each HR in first 3 games (3rd/4th ever). McGonigle 4-hit debut .364. Wetherholt walk-off. Stewart cleanup/NL ROTW. | 2 | NEW |
+| 4 | Miami Marlins 5-1 — leads NL East. Sandy Alcantara 93-pitch CG shutout 10-0 win. Projected rebuild team atop the division. | 2 | NEW |
+| 5 | Reds rotation trouble — Hunter Greene out until July (elbow surgery). Nick Lodolo IL (finger blister), 60-65 pitch rehab start April 2, targeting mid-April return. | 2 | NEW |
+| 6 | DeLauter (AL) + Stewart (NL) won first Player of Week awards of 2026 as rookies — only 2nd time in history. | 2 | NEW |
+| 7 | Early standings: Yankees 5-1, Marlins 5-1, Brewers 5-1, Astros 5-2. White Sox 1-5, Red Sox 1-5. | 3 | NEW |
+
+---
+
 ## 2026-04-02
 
 | # | Story | Tier | Tag |

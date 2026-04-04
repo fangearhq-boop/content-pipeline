@@ -2,6 +2,34 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-04
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Ferrari plans Monza private test (around April 21, 200km filming day). Hamilton and Leclerc trial new "Macarena" rear wing + revised PU software. Hamilton getting new race engineer Cedric Michel-Grosjean for Miami. Target: close ~0.5s/lap deficit vs Mercedes. | 1 | FOLLOW-UP (4/3 ADUO PU approved for Miami; 4/2 Monza filming day/Ferrari mini pre-season) |
+| 2 | FIA April 9 summit now 5 days away. Five-point agenda: super clipping rules, closing speed warnings, qualifying thresholds, 2027 ratio adjustments, real-time deployment notifications. Unanimous agreement required for any Miami implementation. Hamilton skeptical, Sainz pushing. | 1 | FOLLOW-UP (4/3 FIA meeting 6 days away; ongoing super clipping crisis) |
+| 3 | Bearman at 10 penalty points — 2 from automatic race ban. Earliest expiry May 23 (after Miami). Zero margin for error at Miami. Haas confirms he will race Miami barring further incidents. Points largely from Japan crash caused by regulatory flaw. | 1 | FOLLOW-UP (4/3 Bearman 10 points/Miami ban risk; 4/2 Japan crash aftermath) |
+| 4 | Red Bull TP Mekies: "no miracle turnaround" before Miami. Three-stage plan: floor/fences + PU maps at Miami, full aero Imola. Verstappen 9th, 12 pts, out-qualified by Hadjar multiple times. Expected to remain at RBR through 2026. | 2 | FOLLOW-UP (4/3 Red Bull 3-stage plan; 4/2 Verstappen exit clause; 4/1 floor updates) |
+| 5 | McLaren bringing Miami upgrade targeting wider MCL40 operating window. Won Miami 2024 (Norris) and 2025 (Piastri). Double DNS China recovery. Norris 25 pts (5th), Piastri 21 pts (6th). Third best car on grid. | 2 | FOLLOW-UP (4/1 McLaren "big aerodynamic update" Miami; 3/29 Piastri P2 Japan) |
+| 6 | Cadillac F1 first home race at Miami. Perez + Bottas. Significant upgrade package. Perez completed Japan on lead lap (first time). 0 constructors points in 3 races. Perez: "Miami will be the biggest test for the team." | 2 | FOLLOW-UP (4/2 Cadillac first home race) |
+| 7 | Standings after 3 rounds: ANT 72, RUS 63, LEC 49, HAM 41, NOR 25, PIA 21, BEA 17, VER 12. Constructors: MER 135, FER 90, MCL 56, RBR 16. Miami Round 4 begins May 1. Antonelli youngest-ever F1 championship leader. | 3 | FOLLOW-UP (ongoing championship analysis) |
+
+---
+
+## 2026-04-03
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Bearman has 10 penalty points (FIA SL) after Japan crash — 2 points from automatic race ban at Miami GP (May 1-3). Haas confirmed he will race at Miami barring further incidents. | 1 | FOLLOW-UP (4/2 Bearman crash; ongoing Japan fallout) |
+| 2 | Alpine issues formal open letter to fans over "hateful messages" directed at Colapinto post-crash. Team defends Colapinto: regulatory structural failure, not driver error. 50 kph closing speed differential, no warning lights. | 1 | NEW STORY |
+| 3 | FIA April 9 meeting: 6 days away. Hamilton: "drivers have no power with the FIA." Sainz (GPDA) pushing for pre-Miami changes. Agenda: super-clipping, closing speeds, warning systems, 2027 ratio changes. Unanimous team agreement required. | 1 | FOLLOW-UP (4/2 FIA meeting one week away; 4/1 meeting confirmed; 3/31 fix proposals) |
+| 4 | Red Bull 3-stage break fix plan: floor/fences (Miami), revised PU deployment maps (Miami), full aero overhaul (Imola). No factory shutdown. Reverts to older Honda PU at Miami while rivals install fresh units. Mekies: "much happier Max" when car is fast. | 2 | FOLLOW-UP (4/2 Red Bull break; 4/1 floor updates; ongoing crisis) |
+| 5 | Verstappen race start crisis: MGU-H removal forces turbo spool on formation laps — Verstappen got it wrong in all 3 races. First 3-race stretch outside top 5 since 2017. Hadjar out-qualified him multiple times. Deployment maps being fixed in break. | 2 | FOLLOW-UP (ongoing Verstappen struggles; new technical root cause angle) |
+| 6 | Ferrari ADUO PU update FIA-approved for Miami. Target: close ~0.5s/lap deficit vs Mercedes. Vasseur: "Miami = new championship." Monza filming day April 22. | 2 | FOLLOW-UP (4/2 ADUO update NEW STORY; deepening analysis) |
+| 7 | Standings after Japan: ANT 72, RUS 63, LEC 49, HAM 41, NOR 25, PIA 21, BEA 17, VER 12. Constructors: MER 135, FER 90, MCL 56, RBR 16 (tied Alpine). | 3 | FOLLOW-UP (ongoing championship analysis; updated with Japan points) |
+
+---
+
 ## 2026-04-02
 
 | # | Story | Tier | Tag |

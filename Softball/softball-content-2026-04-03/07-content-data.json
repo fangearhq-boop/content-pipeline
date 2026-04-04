@@ -1,0 +1,328 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-03",
+  "compiled_at": "2026-04-03T10:12:58.553576+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Texas 9, Alabama 1 — Longhorns Dominate Game 1 at Rhoads Stadium**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Texas walked into Tuscaloosa and ran away with Game 1.\n\nKavan: 7 IP, 9 Ks, CG.\n4 HR. 13 hits.\nFinal: Texas 9, Alabama 1.\n\nGame 2 TONIGHT — 7:30 PM CT on SEC Network.\n\n#HookEm #RollTide #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#RollTide",
+            "#SECSoftball"
+          ],
+          "char_count": 197
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Leighann Goode hit 2 HRs in one game for the FIRST TIME in her career.\n\nIn Tuscaloosa. In the biggest series of 2026.\n\nTexas 9, Alabama 1. Series lead: 1-0.\n\nGame 2 tonight, 7:30 PM CT on SEC Network.\n\n#HookEm #SECSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#SECSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-texas-dominates-game-1-at-alabama.html",
+        "headline": "Texas Dominates Game 1 at Alabama, 9-1 — Kavan Goes the Distance in Tuscaloosa",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas 9, Alabama 1 — Game 1 at Rhoads Stadium\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Teagan Kavan Texas Longhorns`\n- **Rationale:** Kavan threw complete game 9K — she is the story of the pitching performance\n- **Usage:** X post (9:00 AM) + Facebook caption\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Leighann Goode Texas Longhorns`\n- **Rationale:** Goode had first career multi-HR game — individual milestone worth featuring\n- **Usage:** Facebook long-form image\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Kendall Wells Hits HR No. 28 — Two Away from NCAA Freshman Record**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kendall Wells: 28 HR.\n\nTwo away from tying the NCAA freshman record.\n\nShe hit No. 28 in a 275-ft shot to center as OU run-ruled Kentucky 10-2.\n\nThe history-chasing continues TONIGHT at Love's Field.\n\n#BoomerSooner #NCAASoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The NCAA freshman HR record: 30 (Alo, Chamberlain, Majam).\n\nKendall Wells is at 28.\n\nShe has 2 home runs to make history. Tonight's Game 2 vs Kentucky starts NOW.\n\nWatch at Love's Field — this won't wait.\n\n#BoomerSooner #SECSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#SECSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-wells-hr-28-two-away-from-ncaa-freshman-record.html",
+        "headline": "Kendall Wells Hits HR No. 28 — Oklahoma Freshman Now Two Away from NCAA Record",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells HR No. 28\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Kendall Wells Oklahoma Sooners`\n- **Rationale:** Wells is the central subject — HR chase is the lead story\n- **Usage:** X post (11:00 AM) + Facebook\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Kasidi Pickering Oklahoma Sooners`\n- **Rationale:** Pickering HR #15 adds supporting visual — two-slugger angle\n- **Usage:** Facebook supporting image\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "**FSU Extends Win Streak to 22 — Beats Notre Dame 7-2**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Florida State's active win streak: 22 games.\n\nLongest in all of college softball.\n\nFSU 7, Notre Dame 2 last night. Game 2 TODAY at 6 PM ET on ACC Network Extra.\n\nThe Seminoles are not slowing down.\n\n#Noles #NCAASoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Noles",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-fsu-win-streak-extends-to-22.html",
+        "headline": "FSU Beats Notre Dame 7-2 to Extend Win Streak to 22 — Longest Active in Division I",
+        "word_count": 467
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU 22-Game Win Streak\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Isa Torres Florida State Seminoles`\n- **Rationale:** Torres .615 BA is the face of FSU's offensive dominance\n- **Usage:** X post (1:00 PM) + Facebook\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Lonni Alameda Florida State Seminoles`\n- **Rationale:** Alameda as the coach behind the streak — storyline angle\n- **Usage:** Facebook long-form secondary\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Texas-Alabama Game 2 Tonight — Crimson Tide Must Respond**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alabama got dominated in Game 1.\n\nTexas had 13 hits. 4 HR. Kavan threw a complete game.\n\nTonight Alabama MUST respond — or drop to 7-4 in SEC play.\n\nGame 2: 7:30 PM CT on SEC Network. Rhoads Stadium.\n\n#RollTide #HookEm #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#HookEm",
+            "#SECSoftball"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alabama-must-respond-game-2-texas.html",
+        "headline": "Alabama Must Respond in Game 2 Against Texas — Series Survival on the Line at Rhoads",
+        "word_count": 512
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas-Alabama Game 2 Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Patrick Murphy Alabama Crimson Tide softball`\n- **Rationale:** Murphy's 30th season — coaching storyline for the bounce-back angle\n- **Usage:** X post (3:00 PM) + Facebook\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn search\n- **Search Terms:** `Alabama Crimson Tide softball Rhoads Stadium`\n- **Rationale:** Stadium / venue shot for article hero image\n- **Usage:** Article 4 hero\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Texas Tech Run-Rules BYU 11-1 — Canady and Raiders Stay Hot**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Texas Tech run-ruled BYU 11-1 on Thursday.\n\nThe Raiders are 36-2. Still No. 2 nationally.\n\nNiJaree Canady leads one of the most dangerous rotations in college softball.\n\nTech is WAITING for Texas to stumble.\n\n#WreckEm #NCAASoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-texas-tech-stays-hot-36-2.html",
+        "headline": "Texas Tech Run-Rules BYU 11-1 — Raiders Stay at No. 2 With 36th Win",
+        "word_count": 463
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech 11, BYU 1\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `NiJaree Canady Texas Tech Red Raiders`\n- **Rationale:** Canady is the face of the program — NIL star and ace\n- **Usage:** X post (5:30 PM) + Facebook\n- **Credit:** (USA TODAY Sports Images)\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Texas Tech Red Raiders softball`\n- **Rationale:** Team celebration / action shot for run-rule win context\n- **Usage:** Facebook supporting\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "**SEC Standings Update — Texas and OU Both Move to 9-1**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "SEC softball standings after Thursday:\n\nTexas — 9-1 🤘\nOklahoma — 9-1 🙏\nAlabama — 7-3\n\nBoth Longhorns and Sooners won. Both are tied for first.\n\nThe SEC title race is the most entertaining thing in sports right now.\n\n#SECSoftball #NCAASoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SEC Standings\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `Mike White Texas Longhorns softball`\n- **Rationale:** Texas coach post-Game 1 win in SEC standings context\n- **Usage:** X post (8:00 PM) + Facebook\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Saturday's Big Three — Texas-Bama G3, OU-Kentucky G3, FSU-ND G3**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Circle your Saturday:\n\n🥎 Texas at Alabama G3 — 5 PM CT on ESPN\n🥎 OU vs Kentucky G3 — Love's Field\n🥎 FSU vs Notre Dame G3 — 2 PM ET on ACC Network\n\nThree series finales. One day. All of it matters.\n\n#NCAASoftball #CollegeSoftball #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#CollegeSoftball",
+            "#Softball"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Saturday Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn search\n- **Search Terms:** `college softball action batter`\n- **Rationale:** Generic action shot for weekend preview post\n- **Usage:** X post (8:00 PM) + Facebook\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

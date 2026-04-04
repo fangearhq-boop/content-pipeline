@@ -1,0 +1,316 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-04",
+  "compiled_at": "2026-04-04T16:44:42.383353+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Alabama Stuns No. 1 Texas 11-4 — Series Tied, Game 3 Today",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "UPSET ALERT: Alabama rallied to beat No. 1 Texas 11-4 on Friday night, evening their series 1-1 at Rhoads Stadium.\n\nGame 3 is TODAY — 12:30 PM CT on SEC Network. Winner-take-all in Tuscaloosa.\n\n#RollTide #HookEm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#HookEm"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 1-2",
+          "text": "No. 1 Texas fell 11-4 to Alabama in Game 2. It's all tied up.\n\nThe rubber match is set: TODAY, 12:30 PM CT, SEC Network.\n\nWhich team takes the series? #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball"
+          ],
+          "char_count": 163
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-alabama-stuns-no-1-texas-11-4-series-tied.html",
+        "headline": "Alabama Stuns No. 1 Texas 11-4, Series Tied Heading Into Game 3",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama 11, Texas 4 — Series Tied\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Alabama softball Rhoads Stadium\"\n- **Concept:** Alabama player celebrating after a big hit, with Rhoads Stadium crowd in background. Atmosphere of an upset win.\n- **Status:** not_started\n- **Intended Use:** X + Facebook\n\n#### Image 2 (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Term:** \"Texas softball pitcher\"\n- **Concept:** Texas pitcher in mid-delivery at Rhoads, illustrating the competitive series.\n- **Status:** not_started\n- **Intended Use:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Kendall Wells Hits HR No. 29 — One Away from NCAA Freshman Record",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "One. Home. Run.\n\nKendall Wells launched her 29th HR Friday, putting her just ONE away from tying the all-time NCAA freshman record.\n\nGame 3 vs. Kentucky is TODAY at 11 AM CT at Love's Field. Record watch is on.\n\n#BoomerSooner #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#Softball"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kendall Wells at 29 HRs.\n\nThe NCAA all-time freshman record is 30 (Lauren Chamberlain).\n\nShe could tie it TODAY.\n\nCould be one of the best moments in softball this season. #BoomerSooner",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-wells-hr-29-one-away-from-ncaa-freshman-record.html",
+        "headline": "Kendall Wells Hits HR No. 29 — One Swing Away from NCAA Freshman Record",
+        "word_count": 432
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells HR #29\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Kendall Wells Oklahoma softball\"\n- **Concept:** Wells in her home run swing or trot, arms raised, celebrating a big hit at Love's Field.\n- **Status:** not_started\n- **Intended Use:** X + Facebook\n\n#### Image 2 (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Term:** \"Oklahoma softball Love's Field\"\n- **Concept:** Wide shot of Love's Field during a game, with Oklahoma batter at the plate.\n- **Status:** not_started\n- **Intended Use:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** FSU Win Streak Reaches 23 — Run-Rules Notre Dame 10-0",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "FSU run-ruled Notre Dame 10-0 in 5 innings — win streak now at 23 games.\n\nLongest active streak in DI softball. Program's longest since 2018.\n\nTorres HR No. 8. Harp HR No. 4. 10th shutout of the year.\n\n#Noles #ACCSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Noles",
+            "#ACCSoftball"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-fsu-win-streak-reaches-23-run-rules-notre-dame.html",
+        "headline": "FSU Win Streak Reaches 23 Games After 10-0 Run-Rule of Notre Dame",
+        "word_count": 370
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU Win Streak at 23\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** \"FSU Florida State softball pitcher\"\n- **Concept:** FSU pitcher winding up or celebrating a strikeout, energy of a dominant team.\n- **Status:** not_started\n- **Intended Use:** X + Facebook\n\n#### Image 2 (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Term:** \"Isa Torres Florida State softball\"\n- **Concept:** Torres mid-swing or rounding the bases after a home run.\n- **Status:** not_started\n- **Intended Use:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Winner-Take-All: Texas vs. Alabama Game 3 — 12:30 PM CT on SEC Network",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "GAME 3 IS HERE.\n\nNo. 1 Texas vs. No. 4 Alabama — winner-take-all at Rhoads Stadium.\n\nMoved up to 12:30 PM CT today due to weather. On SEC Network.\n\nDon't miss it. #SECSoftball #HookEm #RollTide",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball",
+            "#HookEm",
+            "#RollTide"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-texas-alabama-game-3-winner-take-all.html",
+        "headline": "Texas vs. Alabama Game 3: Winner-Take-All at 12:30 PM CT on SEC Network",
+        "word_count": 405
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas-Alabama Game 3 Preview\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Alabama softball team\"\n- **Concept:** Alabama players in a huddle or dugout before a big game, conveying focus and energy.\n- **Status:** not_started\n- **Intended Use:** X + Facebook\n\n#### Image 2 (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Term:** \"Texas Longhorns softball\"\n- **Concept:** Texas players celebrating or warming up, conveying the high stakes of Game 3.\n- **Status:** not_started\n- **Intended Use:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** OU Can Sweep Kentucky Today — Wells HR #30 Watch Begins at Love's Field",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "OU leads the series 2-0 heading into Game 3.\n\nKendall Wells is one HR away from the NCAA freshman record. Love's Field. 11 AM CT today.\n\nThis could get historic. #BoomerSooner #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#SECSoftball"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ou-kentucky-game-3-wells-record-watch.html",
+        "headline": "OU vs. Kentucky Game 3: Record Watch Begins for Wells at Love's Field",
+        "word_count": 405
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "OU vs. Kentucky Game 3\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** \"Oklahoma softball batter\"\n- **Concept:** OU batter in a power swing, Love's Field visible, representing the record watch.\n- **Status:** not_started\n- **Intended Use:** X + Facebook\n\n#### Image 2 (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Term:** \"Oklahoma softball team celebrating\"\n- **Concept:** Sooners celebrating a run-rule win, conveying dominance heading into Game 3.\n- **Status:** not_started\n- **Intended Use:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** SEC Standings Snapshot — Texas/OU Tied at 10-1 After Friday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "SEC softball standings after Friday:\n\nTexas: 10-2 (lost Game 2 to Alabama)\nOklahoma: 10-1\nAlabama: 8-3 (won Game 2 vs. Texas)\n\nNFCA Week 9 poll drops Tuesday. Texas still No. 1 despite the loss? #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SEC Standings\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** \"SEC softball\"\n- **Concept:** Collage-style image representing the top SEC programs, standings race.\n- **Status:** not_started\n- **Intended Use:** Facebook\n\n#### Image 2 (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Term:** \"Texas softball batting\"\n- **Concept:** Texas batter at the plate, representing the team at the top of the standings.\n- **Status:** not_started\n- **Intended Use:** Article hero (if article written)\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Saturday Spotlight — Three Must-Watch Games on April 4",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Saturday softball slate:\n\nTX vs. AL Game 3 — 12:30 PM CT, SEC Network\nOU vs. KY Game 3 — 11 AM CT, Love's Field\nFSU vs. ND Game 3 — Sunday, April 5, 2 PM\n\nPlus: Red River Rivalry on April 10-12. #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Saturday Game Slate\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** \"college softball stadium crowd\"\n- **Concept:** Packed stadium atmosphere for a big college softball Saturday, fan energy.\n- **Status:** not_started\n- **Intended Use:** X + Facebook"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
