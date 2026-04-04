@@ -1,6 +1,12 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-04
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (1 char violation fixed on Story 5 tweet), compile, dashboard, publish, PostPlanner exports (X + TOBI). WordPress publish blocked by proxy sandbox (same as all prior sessions).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **Issues**: Story 6 Tier 2 optional article not written by design. IMAGE MISSING warnings expected (not_started). WordPress 403 (proxy sandbox). publish-unified-dashboard.py 403 (PAT) — used publish-dashboard.py.
+
+## Previous Run
 - **Date**: 2026-04-03
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (1 char violation fixed on Story 3 tweet), compile, dashboard, publish, PostPlanner exports (X + TOBI). WordPress publish blocked by proxy sandbox (fanrumor.com not in allowed_hosts).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -35,6 +41,18 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-04
+- **Steps completed:** Full pipeline 1-15
+- **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 9 (1 char-limit violation fixed on Story 5 tweet before compile)
+- **FB Posts:** 7 long-form + 7 image captions
+- **Articles:** 5 (Stories 1-5; Story 6 Tier 2 optional — no article by design; Story 7 Tier 3 excluded)
+- **PostPlanner exports:** bb-postplanner-2026-04-04.xlsx (23 posts) + bb-postplanner-tobi-2026-04-04.xlsx (16 TOBI posts)
+- **Fact-check:** 1 char-limit violation (Story 5 tweet #1, 299 chars) fixed. 0 consistency errors after fix. Image manifest not_started (expected).
+- **Dashboard:** Published (https://fangearhq-boop.github.io/content-dashboards/)
+- **WordPress:** Blocked by proxy sandbox (fanrumor.com not in allowed_hosts — known network restriction)
+- **Notes:** 10+ web searches via agent. Key stories: Judge HR 371 first AB home opener Yankees 8-2 Marlins 6-1 passes Gil Hodges 83rd all-time (P10); DeLauter 5 HRs in 7 career games only 4th player ever Guardians 4-1 Cubs home opener (P10); Ohtani first HR 2026 3-run shot Dodgers 13-6 Nationals Tucker first as Dodger 38-game OB streak (P9); Twins 10 Rays 4 home opener Gray grand slam 7-run 7th (P7); 2026 rookie class historic DeLauter+Stewart both POTWs only 2nd time ever (P8); Yankees 6-1 Brewers 5-1 Marlins 5-2 White Sox/RedSox/A's 1-5 (P6); Saturday slate preview (P5)
 
 ### 2026-04-03
 - **Steps completed:** Full pipeline 1-15

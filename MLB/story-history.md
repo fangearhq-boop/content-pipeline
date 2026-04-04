@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-04
+
+### Story 1: Aaron Judge HR #371 — Yankees 8-2 Marlins, Now 6-1
+- **Angle:** FOLLOW-UP. Judge HR #371 (first AB of home opener, Apr 3). 2-run shot off Eury Perez, 387 ft, 101.2 mph. Passes Gil Hodges (83rd all-time). Yankees 6-1. Marlins 5-2.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** Judge HR #375, 400 HR watch, Yankees AL East race
+
+### Story 2: Chase DeLauter 5 HRs in 7 Games — Historic Rookie Start
+- **Angle:** FOLLOW-UP. DeLauter hit HR #5 in career game 7 (2-run, 402 ft, off Hunter Harvey). Only 4th player ever: Story/Quinn/Hinds. Guardians 4-1 Cubs home opener. DeLauter 3-for-4, tied AL HR lead.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** HR No. 6, record chase, Guardians season
+
+### Story 3: Ohtani First HR of 2026 — Dodgers 13-6 Nationals
+- **Angle:** FOLLOW-UP. Ohtani 3-run HR (3rd inn). Kyle Tucker first HR as a Dodger. 5 total Dodger HR. Sheehan 5.2 IP win. Ohtani 38-game OB streak. Dodgers 4-2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Ohtani pitching start, Tucker production, Dodgers outlook
+
+### Story 4: Twins 10, Rays 4 — Tristan Gray Grand Slam Home Opener
+- **Angle:** NEW STORY. Twins trailed entering 7th, erupted for 7 runs. Gray grand slam. Rays fall to 2-4. Twins home opener statement win.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Twins series result, Rays early slide
+
+### Story 5: 2026 Rookie Class Historic Week 1
+- **Angle:** FOLLOW-UP. DeLauter + Stewart = both first POTWs (2nd time ever both went to rookies). Murakami HR in first 3 games. McGonigle 4-hit debut. Wetherholt walk-off. Benge HR+SB debut.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** ROY race, DeLauter pace, April monthly awards
+
+### Story 6: Early Season Standings
+- **Angle:** NEW STORY. Yankees 6-1 AL best. Brewers 5-1 NL Central. Marlins 5-2. Atlanta 5-2. White Sox + Red Sox + A's all 1-5.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Week 2 standings, Yankees AL East gap
+
+### Story 7: Saturday Slate
+- **Angle:** EVERGREEN PREVIEW. Yankees-Marlins G3, Dodgers-Nationals G3, Guardians-Cubs G3. Various series finales.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Series results, weekend standings shift
+
+---
+
 ## 2026-04-03
 
 | # | Story | Tier | Tag |
