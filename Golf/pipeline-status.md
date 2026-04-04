@@ -7,17 +7,42 @@ Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-02 |
-| Writing | Complete (all 7 files + 5 articles) | 2026-04-02 |
-| Fact-check | Complete (verify-facts.py run — 39 claims, 77 HIGH) | 2026-04-02 |
-| Scripts | Complete (all 6 scripts run) | 2026-04-02 |
-| PostPlanner | Complete (standard + TOBI exports) | 2026-04-02 |
-| Dashboard | Generated locally (push blocked — see notes) | 2026-04-02 |
-| Published | Pending upload | — |
+| Research | Complete | 2026-04-04 |
+| Writing | Complete (all 7 files + 6 articles) | 2026-04-04 |
+| Fact-check | Complete (verify-facts.py run — 52 claims, 93 HIGH) | 2026-04-04 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-04 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-04-04 |
+| Dashboard | Generated locally (push blocked — see notes) | 2026-04-04 |
+| Published | Skipped (WP credentials not in environment) | 2026-04-04 |
 
 ## Queue
 
 (No items in queue.)
+
+## Pipeline Run: 2026-04-04
+- **Research:** Web searches covering Valero final round (Bhatia leads ~-20, Fowler missed cut, Finau in contention), Masters countdown 5 days (Scheffler +550, McIlroy +1100, DeChambeau +1000, field/purse), LPGA Aramco at Shadow Creek (Coughlin -8, Kim/Korda -2), Spieth on Scheffler competitive edge
+- **Stories (7):** Valero final round preview/Fowler missed cut (T1), Masters 5-day countdown (T1), LPGA Aramco Coughlin leads (T1), Fowler misses Masters again (T2), DeChambeau back-to-back LIV wins entering Masters (T2), Spieth on Scheffler's "unusual" edge (T2), Masters field notes (T3)
+- **X Posts:** 11 written; 3 needed char limit fixes (Story 1, 3, 6 tweets trimmed to under 280)
+- **Facebook Posts:** 14 (long-form + caption for each of 7 stories)
+- **Articles:** 6 (Stories 1-6; Story 7 is social-only)
+- **PostPlanner exports:** gfr-postplanner-2026-04-04.xlsx (11 posts) + gfr-postplanner-tobi-2026-04-04.xlsx (11 TOBI posts)
+- **Dashboard:** Generated at Golf/golf-content-2026-04-04/review-dashboard.html (31 items)
+- **Key facts:** Bhatia leads Valero at ~-20; Fowler shot 75 R2 (1-over total), missed cut; Finau in contention; winner earns Masters invite. Masters: Scheffler +550, McIlroy +1100 (defending), DeChambeau +1000 (back-to-back LIV wins). 91 players, $21M purse, Amazon Prime debut, Tiger and Phil absent. LPGA: Coughlin -8, Kim/Korda -2 at Shadow Creek. Kim chasing 3rd straight win.
+- **WordPress:** Skipped — WP credentials not in environment (ongoing proxy limitation).
+- **Dashboard push:** Blocked — PAT lacks write access to content-dashboards repo (known ongoing limitation).
+
+## Pipeline Run: 2026-04-03
+- **Research:** 7+ web searches covering Valero R1 weather suspension, Masters odds/fields, McIlroy back-to-back bid, Scheffler third title history, LPGA Aramco/Korda streak, DeChambeau LIV South Africa win (beat Rahm in playoff), World Rankings entering Masters week
+- **Stories (7):** Valero R1 weather delay (T1), McIlroy back-to-back bid (T1), Scheffler third Masters title (T1), LPGA Aramco/Korda (T2), DeChambeau LIV streak (T2), Valero bubble watch (T2), World Rankings (T3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 14 (long-form + caption for each of 7 stories)
+- **Articles:** 5 (Stories 1-5; Stories 6 and 7 are social-only)
+- **PostPlanner exports:** gfr-postplanner-2026-04-03.xlsx (10 posts) + gfr-postplanner-tobi-2026-04-03.xlsx (10 TOBI posts)
+- **Dashboard:** Generated at Golf/golf-content-2026-04-03/review-dashboard.html (29 items)
+- **Key facts:** Valero R1 suspended by weather; play resumes Friday April 4; Masters April 9. Fleetwood/Åberg co-faves Valero +1400. Spieth +1600 (2021 champion). Bubble: Fowler 65, Finau 107, Kim 126, Zalatoris 299, Horschel 94. McIlroy +1100, last back-to-back was Tiger 2001-02. Scheffler +550, World No. 3, won Masters 2022 + 2024. Korda SG Total 4.00 / SG T2G 5.55, runner-up twice to Kim. DeChambeau 2 straight LIV wins (Singapore + South Africa playoff), 5th career LIV title, +1000 Masters. World Rankings: Fleetwood No. 1, McIlroy No. 2, Scheffler No. 3, Young No. 4.
+- **Fact concerns:** Fowler's 5 top-5 Augusta finishes (MEDIUM — needs official Augusta records verification). Finau 4 top-10s Augusta (MEDIUM — single-source). All other core facts HIGH.
+- **WordPress:** Skipped — WP credentials not in environment (prior sessions noted 403 proxy block).
+- **Dashboard push:** Blocked — PAT lacks write access to content-dashboards repo (known ongoing limitation).
 
 ## Pipeline Run: 2026-04-02
 - **Research:** 8 web searches covering Valero R1 (Fleetwood/Spieth/Åberg), Masters 90th edition (17th hole shortened, $21M purse, 22 debutants, odds), Koepka LIV release/PGA Tour return, Morikawa Augusta record, Fitzpatrick form, McIlroy back injury, LIV schedule, Kim/Chevron
