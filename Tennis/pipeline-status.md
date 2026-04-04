@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-03 |
-| Writing | Complete (all steps) | 2026-04-03 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-03 |
-| Compile | Complete (07-content-data.json) | 2026-04-03 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-03 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-03 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-03 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-03 |
+| Research | Complete | 2026-04-04 |
+| Writing | Complete (all steps) | 2026-04-04 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-04 |
+| Compile | Complete (07-content-data.json) | 2026-04-04 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-04 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-04 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-04 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-04 |
 
 ## Queue
 
@@ -24,6 +24,40 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-04 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 2 Tier 2, 1 Tier 3)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5
+- **PostPlanner exports:** tfr-postplanner-2026-04-04.xlsx (17 posts), tfr-postplanner-tobi-2026-04-04.xlsx (12 TOBI posts)
+- **Coverage:** Charleston SF day (Keys def. Bencic 4-6,6-3,6-2; Jovic def. Kalinskaya 6-3,6-4; SFs Pegula/Jovic + Keys/Starodubtseva), Marrakech final (Trungelliti def. Darderi 6-4,7-6(2) — oldest debut finalist Open Era; Jodar def. Carabelli; 36 vs. 19 final April 5), Bucharest SFs (Navone saved 2 match points to win 5-7,7-6,7-5; Merida Aguilar qualifier to final; both first-time finalists), Monte Carlo 9 withdrawals (Djokovic/Fritz/Draper added; Fritz may skip clay swing; qualifying underway), Argentine clay dominance feature (Trungelliti/Navone/Carabelli across 2 simultaneous finals)
+- **Research:** Web search via research agent; Charleston from WTA Official + live5news + TennisTemple + tennisuptodate + postandcourier; Marrakech from ATP Tour (ES) + vegastennis + lastwordonsports + universtennis; Bucharest from oasport.it + ATP Tour video + canaltenis + infobae; Monte Carlo from ATP Tour official + SI.com + Sky Sports + Tennis365 + profootballnetwork + puntodebreak
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 30 claims extracted; image warnings expected (production not started)
+  - compile-content-data.py: "Fact-Check no log found" and "no posting window" notes are cosmetic; all content compiled successfully; 7 X posts, 5 FB posts, 5 articles
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as all previous runs)
+  - WordPress publish failed: proxy blocks fanrumor.com (host_not_allowed) — same env restriction as all prior runs
+  - Charleston SF scores not confirmed at research time (matches in progress/scheduled April 4); article framed as QF recap + SF preview
+  - Key facts (HIGH confidence): Keys def. Bencic 4-6,6-3,6-2 (WTA Official + TennisTemple + live5news); Jovic def. Kalinskaya 6-3,6-4 (WTA Official + TennisTemple); Starodubtseva def. Kessler 6-4,6-4 (WTA Official + TennisTemple); Trungelliti def. Darderi 6-4,7-6(2) (ATP Tour + vegastennis); Jodar into Marrakech final (ATP Tour ES); Navone 5-7,7-6,7-5 saved 2 match points (oasport + ATP Tour video); Merida Aguilar 6-7,6-3,6-1 (oasport); 9 MC withdrawals (SI.com); Djokovic targeting Madrid (ATP Tour official); Fritz may skip clay swing (Tennis365); Draper targeting Barcelona (Sky Sports)
+- **Files created:**
+  - `tennis-content-2026-04-04/00-daily-brief.md`
+  - `tennis-content-2026-04-04/01-research-notes.md`
+  - `tennis-content-2026-04-04/02-story-analysis.md`
+  - `tennis-content-2026-04-04/03-social-posts-x.md`
+  - `tennis-content-2026-04-04/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-04/05-image-concepts.md`
+  - `tennis-content-2026-04-04/06-fact-check-log.md`
+  - `tennis-content-2026-04-04/07-content-data.json`
+  - `tennis-content-2026-04-04/07-image-manifest.md`
+  - `tennis-content-2026-04-04/review-dashboard.html`
+  - `tennis-content-2026-04-04/articles/article-01-charleston-sf-day-keys-jovic-starodubtseva-2026.html`
+  - `tennis-content-2026-04-04/articles/article-02-marrakech-final-trungelliti-historic-jodar-2026.html`
+  - `tennis-content-2026-04-04/articles/article-03-bucharest-sf-navone-merida-aguilar-2026.html`
+  - `tennis-content-2026-04-04/articles/article-04-monte-carlo-withdrawals-nine-players-qualifying-2026.html`
+  - `tennis-content-2026-04-04/articles/article-05-argentina-clay-season-dominance-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-04.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-04.xlsx`
 
 ### 2026-04-03 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
