@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-04
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (0 char violations), compile, dashboard, PostPlanner exports (X + TOBI). WordPress publish blocked by proxy sandbox (same as all prior sessions).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction). Story 6 no article — optional by design. IMAGE MISSING warnings expected (not_started). publish-unified-dashboard.py 403 (PAT scope) — used publish-dashboard.py.
+
+## Previous Run
 - **Date**: 2026-04-03
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (0 char violations), compile, dashboard, PostPlanner exports (X + TOBI). WordPress publish blocked by proxy sandbox (fanrumor.com not in allowed_hosts — same network restriction as previous sessions).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -44,6 +51,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-04
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5
+- Fact-check: 0 char-limit violations. 1 consistency note (Story 6 no article — optional by design). IMAGE MISSING warnings expected (not_started).
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-04-04.xlsx (23 posts), ils-postplanner-tobi-2026-04-04.xlsx (16 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com not in allowed_hosts — known network restriction)
+- Key stories: Alabama 11 Texas 4 Game 2 series tied 1-1 Game 3 today 12:30 CT SEC Network (P10); Wells HR 29 one from NCAA freshman record (30 Chamberlain) OU-KY G3 today 11 AM CT (P10); FSU win streak 23 run-rules ND 10-0 program longest since 2018 (P8); TX-AL G3 preview weather moved up (P8); OU-KY G3 Wells record watch Love's Field (P7); SEC standings TX 10-2 OU 10-1 Bama 8-3 NFCA Week 9 drops April 7 (P6); Saturday game slate Red River Rivalry April 10-12 (P5)
+- Notes: Full pipeline completed. 0 tweet char violations. publish-unified-dashboard.py 403 (known PAT restriction) — used publish-dashboard.py successfully. Detached HEAD resolved with git checkout main.
 
 ### 2026-04-03
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
