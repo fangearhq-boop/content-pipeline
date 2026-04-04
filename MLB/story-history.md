@@ -7,40 +7,40 @@ Each day's stories are appended at the top (newest first).
 
 ## 2026-04-04
 
-### Story 1: Aaron Judge HR #371 — Yankees 8-2 Marlins, Now 6-1
-- **Angle:** FOLLOW-UP. Judge HR #371 (first AB of home opener, Apr 3). 2-run shot off Eury Perez, 387 ft, 101.2 mph. Passes Gil Hodges (83rd all-time). Yankees 6-1. Marlins 5-2.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article
-- **Follow-ups:** Judge HR #375, 400 HR watch, Yankees AL East race
+### Story 1: Konnor Griffin MLB Debut — RBI Double, 105.8 mph, Pirates 5-4 Baltimore
+- **Angle:** TIER 1. No. 1 overall prospect made his MLB debut at age 19. First AB: RBI double, 105.8 mph exit velocity, 369 feet. Scored 2 runs. Youngest SS to debut since Alex Rodriguez in 1994. Pirates won home opener 5-4 in front of 38,986 fans at PNC Park.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Griffin first week stats, Pirates record, PNC Park attendance
 
-### Story 2: Chase DeLauter 5 HRs in 7 Games — Historic Rookie Start
-- **Angle:** FOLLOW-UP. DeLauter hit HR #5 in career game 7 (2-run, 402 ft, off Hunter Harvey). Only 4th player ever: Story/Quinn/Hinds. Guardians 4-1 Cubs home opener. DeLauter 3-for-4, tied AL HR lead.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article
-- **Follow-ups:** HR No. 6, record chase, Guardians season
+### Story 2: Braves 17, Diamondbacks 2 — Statement Win
+- **Angle:** TIER 1. Atlanta scored 17 runs in a dominant Saturday win over Arizona. Statement game for a Braves team with NL playoff aspirations.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Braves sweep attempt Sunday, Arizona response, NL standings impact
 
-### Story 3: Ohtani First HR of 2026 — Dodgers 13-6 Nationals
-- **Angle:** FOLLOW-UP. Ohtani 3-run HR (3rd inn). Kyle Tucker first HR as a Dodger. 5 total Dodger HR. Sheehan 5.2 IP win. Ohtani 38-game OB streak. Dodgers 4-2.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Ohtani pitching start, Tucker production, Dodgers outlook
+### Story 3: Alejandro Kirk Thumb Fracture — Blue Jays Could Lose Catcher 6-8 Weeks
+- **Angle:** TIER 2. Kirk fractured and dislocated his thumb on a foul tip. Surgery may be required (6-8 week timeline). Brandon Valenzuela recalled. Kirk is key to Toronto's pitching staff management.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Specialist consultation outcome, surgery decision, Valenzuela performance
 
-### Story 4: Twins 10, Rays 4 — Tristan Gray Grand Slam Home Opener
-- **Angle:** NEW STORY. Twins trailed entering 7th, erupted for 7 runs. Gray grand slam. Rays fall to 2-4. Twins home opener statement win.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Twins series result, Rays early slide
-
-### Story 5: 2026 Rookie Class Historic Week 1
-- **Angle:** FOLLOW-UP. DeLauter + Stewart = both first POTWs (2nd time ever both went to rookies). Murakami HR in first 3 games. McGonigle 4-hit debut. Wetherholt walk-off. Benge HR+SB debut.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** ROY race, DeLauter pace, April monthly awards
-
-### Story 6: Early Season Standings
-- **Angle:** NEW STORY. Yankees 6-1 AL best. Brewers 5-1 NL Central. Marlins 5-2. Atlanta 5-2. White Sox + Red Sox + A's all 1-5.
+### Story 4: Giants 7, Mets 2 — New York Can't Find Consistency
+- **Angle:** TIER 2. San Francisco won 7-2 in New York. Mets off to inconsistent start in NL East race.
 - **Content Produced:** X (1 post), FB (long-form + caption)
-- **Follow-ups:** Week 2 standings, Yankees AL East gap
+- **Follow-ups:** NL East standings, Mets offensive issues, Giants road form
 
-### Story 7: Saturday Slate
-- **Angle:** EVERGREEN PREVIEW. Yankees-Marlins G3, Dodgers-Nationals G3, Guardians-Cubs G3. Various series finales.
+### Story 5: Ohtani Next Pitching Start April 8 vs. Blue Jays
+- **Angle:** TIER 2. Ohtani's second pitching start of 2026 set for April 8 vs. Toronto. Went 6 scoreless IP in March 31 debut. Hit first HR April 3 (401 ft, 109.5 mph, 3-run, 2-for-5 4 RBI). Two-way season fully underway. Dodgers using 6-man rotation, targeting 6 IP / 75-80 pitches per start.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** April 8 start result, pitch count progression, Dodgers rotation pace
+
+### Story 6: Early Season Standings Check
+- **Angle:** TIER 2. Yankees 5-1 (AL East), Marlins 5-1 (NL East), Brewers 5-1 (NL Central), Dodgers 4-2 (NL West), Astros 5-2 (AL West). Miami leading NL East as a surprise.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Week 2 standings, NL East race Marlins/Braves/Phillies, Yankees dominance
+
+### Story 7: Sunday Preview — Sweeps on the Line Across the League
+- **Angle:** TIER 3 EVERGREEN. Braves go for sweep over AZ, Pirates look for back-to-back, series finales across the league. Ohtani on mound Tuesday teaser.
 - **Content Produced:** X (1 post), FB (long-form + caption)
-- **Follow-ups:** Series results, weekend standings shift
+- **Follow-ups:** Sunday results, Monday standings
 
 ---
 

@@ -3,112 +3,84 @@
 
 ---
 
-### STORY 1: Aaron Judge HR #371
+### STORY 1: Konnor Griffin Debut
 
-#### Image 1 (Social 1080x1350)
-- **Type:** imagn
-- **Search Term:** Aaron Judge New York Yankees
-- **Concept:** Judge mid-swing or celebrating a home run at Yankee Stadium, crowd cheering.
-- **Status:** not_started
-- **Intended Use:** X + Facebook
+**Social (1080x1350):**
+- Search term: `Konnor Griffin Pittsburgh Pirates`
+- Credit: (USA TODAY Sports Images)
+- Caption overlay: "GRIFFIN DEBUT — RBI DOUBLE IN FIRST AB"
 
-#### Image 2 (Article Hero 1200x630)
-- **Type:** imagn
-- **Search Term:** Aaron Judge batting
-- **Concept:** Judge in a power swing, Yankee Stadium backdrop, conveying historic milestone.
-- **Status:** not_started
-- **Intended Use:** Article hero
+**Article hero (1200x630):**
+- Search term: `Konnor Griffin Pittsburgh Pirates`
+- Credit: (USA TODAY Sports Images)
 
 ---
 
-### STORY 2: Chase DeLauter Historic Rookie Start
+### STORY 2: Braves 17, D-backs 2
 
-#### Image 1 (Social 1080x1350)
-- **Type:** imagn
-- **Search Term:** Chase DeLauter Cleveland Guardians
-- **Concept:** DeLauter following through on a swing or rounding the bases, Progressive Field visible.
-- **Status:** not_started
-- **Intended Use:** X + Facebook
+**Social (1080x1350):**
+- Search term: `Atlanta Braves`
+- Alt: `Atlanta Braves dugout celebration`
+- Credit: (USA TODAY Sports Images)
+- Caption overlay: "BRAVES 17 — D-BACKS 2"
 
-#### Image 2 (Article Hero 1200x630)
-- **Type:** imagn
-- **Search Term:** Cleveland Guardians stadium
-- **Concept:** Progressive Field home opener atmosphere, packed crowd, representing a big Cleveland moment.
-- **Status:** not_started
-- **Intended Use:** Article hero
+**Article hero (1200x630):**
+- Search term: `Atlanta Braves`
+- Credit: (USA TODAY Sports Images)
 
 ---
 
-### STORY 3: Ohtani First HR of 2026
+### STORY 3: Alejandro Kirk Injury
 
-#### Image 1 (Social 1080x1350)
-- **Type:** imagn
-- **Search Term:** Shohei Ohtani Los Angeles Dodgers
-- **Concept:** Ohtani in his home run stance or celebrating, Dodger blue visible.
-- **Status:** not_started
-- **Intended Use:** X + Facebook
+**Social (1080x1350):**
+- Search term: `Alejandro Kirk Toronto Blue Jays`
+- Credit: (USA TODAY Sports Images)
+- Caption overlay: "KIRK OUT — THUMB FRACTURE"
 
-#### Image 2 (Article Hero 1200x630)
-- **Type:** imagn
-- **Search Term:** Dodgers team batting
-- **Concept:** Wide shot of the Dodgers lineup during a high-scoring game at the plate.
-- **Status:** not_started
-- **Intended Use:** Article hero
+**Article hero (1200x630):**
+- Search term: `Alejandro Kirk Toronto Blue Jays`
+- Credit: (USA TODAY Sports Images)
 
 ---
 
-### STORY 4: Twins Home Opener
+### STORY 4: Giants 7, Mets 2
 
-#### Image 1 (Social 1080x1350)
-- **Type:** imagn
-- **Search Term:** Minnesota Twins Target Field
-- **Concept:** Target Field home opener atmosphere, fans cheering for Minnesota's win.
-- **Status:** not_started
-- **Intended Use:** X + Facebook
+**Social (1080x1350):**
+- Search term: `San Francisco Giants`
+- Credit: (USA TODAY Sports Images)
+- Caption overlay: "GIANTS 7, METS 2"
 
-#### Image 2 (Article Hero 1200x630)
-- **Type:** imagn
-- **Search Term:** Minnesota Twins batter
-- **Concept:** Twins batter in the box, representing the offensive explosion.
-- **Status:** not_started
-- **Intended Use:** Article hero
+**Article hero (1200x630):**
+- Search term: `San Francisco Giants`
+- Credit: (USA TODAY Sports Images)
 
 ---
 
-### STORY 5: 2026 Rookie Class
+### STORY 5: Ohtani Two-Way Update
 
-#### Image 1 (Social 1080x1350)
-- **Type:** imagn
-- **Search Term:** MLB rookie baseball player
-- **Concept:** A rookie batter in action, representing the historic rookie class of 2026.
-- **Status:** not_started
-- **Intended Use:** X + Facebook
+**Social (1080x1350):**
+- Search term: `Shohei Ohtani Los Angeles Dodgers`
+- Credit: (USA TODAY Sports Images)
+- Caption overlay: "OHTANI PITCHES AGAIN — APRIL 8"
 
-#### Image 2 (Article Hero 1200x630)
-- **Type:** imagn
-- **Search Term:** Chase DeLauter batting
-- **Concept:** DeLauter at the plate, representing the class of 2026.
-- **Status:** not_started
-- **Intended Use:** Article hero
+**Article hero (1200x630):**
+- Search term: `Shohei Ohtani Los Angeles Dodgers`
+- Credit: (USA TODAY Sports Images)
 
 ---
 
 ### STORY 6: MLB Standings
 
-#### Image 1 (Social 1080x1350)
-- **Type:** imagn
-- **Search Term:** New York Yankees team
-- **Concept:** Yankees celebrating or warming up, representing the AL-leading team.
-- **Status:** not_started
-- **Intended Use:** Facebook
+**Social (1080x1350):**
+- Search term: stock (baseball scoreboard overview)
+- Photo source: stock
+- Caption overlay: "MLB WEEK 1 STANDINGS"
 
 ---
 
-### STORY 7: Saturday Slate
+### STORY 7: Sunday Preview
 
-#### Image 1 (Social 1080x1350)
-- **Type:** imagn
-- **Search Term:** baseball stadium crowd
-- **Concept:** Aerial or wide shot of a packed MLB stadium on a Saturday afternoon.
-- **Status:** not_started
-- **Intended Use:** Facebook
+**Social (1080x1350):**
+- Search term: stock (baseball stadium aerial or crowd)
+- Photo source: stock
+- Caption overlay: "SUNDAY SERIES FINALES"

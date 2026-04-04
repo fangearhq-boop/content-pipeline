@@ -3,102 +3,106 @@
 **Brand Kit ID:** (MLB — no Canva brand kit ID in config)
 **Photo Source:** imagn
 
----
+```yaml
+pipeline_date: "2026-04-04"
+photo_source: "imagn"
 
-## Story 1: Aaron Judge HR #371
+images:
+  - id: "story1-social"
+    story: 1
+    type: "social"
+    dimensions: "1080x1350"
+    search_term: "Konnor Griffin Pittsburgh Pirates"
+    credit: "(USA TODAY Sports Images)"
+    status: "not_started"
 
-### Image 1 — Social (1080x1350)
-- **Search Term:** Aaron Judge New York Yankees
-- **Credit:** (USA TODAY Sports Images)
-- **Status:** not_started
-- **Use:** X + Facebook
+  - id: "story1-article"
+    story: 1
+    type: "article_hero"
+    dimensions: "1200x630"
+    search_term: "Konnor Griffin Pittsburgh Pirates"
+    credit: "(USA TODAY Sports Images)"
+    status: "not_started"
 
-### Image 2 — Article Hero (1200x630)
-- **Search Term:** Aaron Judge batting
-- **Credit:** (Imagn Images)
-- **Status:** not_started
-- **Use:** Article 01 hero
+  - id: "story2-social"
+    story: 2
+    type: "social"
+    dimensions: "1080x1350"
+    search_term: "Atlanta Braves"
+    credit: "(USA TODAY Sports Images)"
+    status: "not_started"
 
----
+  - id: "story2-article"
+    story: 2
+    type: "article_hero"
+    dimensions: "1200x630"
+    search_term: "Atlanta Braves"
+    credit: "(USA TODAY Sports Images)"
+    status: "not_started"
 
-## Story 2: Chase DeLauter Historic Rookie Start
+  - id: "story3-social"
+    story: 3
+    type: "social"
+    dimensions: "1080x1350"
+    search_term: "Alejandro Kirk Toronto Blue Jays"
+    credit: "(USA TODAY Sports Images)"
+    status: "not_started"
 
-### Image 1 — Social (1080x1350)
-- **Search Term:** Chase DeLauter Cleveland Guardians
-- **Credit:** (USA TODAY Sports Images)
-- **Status:** not_started
-- **Use:** X + Facebook
+  - id: "story3-article"
+    story: 3
+    type: "article_hero"
+    dimensions: "1200x630"
+    search_term: "Alejandro Kirk Toronto Blue Jays"
+    credit: "(USA TODAY Sports Images)"
+    status: "not_started"
 
-### Image 2 — Article Hero (1200x630)
-- **Search Term:** Cleveland Guardians stadium
-- **Credit:** (Imagn Images)
-- **Status:** not_started
-- **Use:** Article 02 hero
+  - id: "story4-social"
+    story: 4
+    type: "social"
+    dimensions: "1080x1350"
+    search_term: "San Francisco Giants"
+    credit: "(USA TODAY Sports Images)"
+    status: "not_started"
 
----
+  - id: "story4-article"
+    story: 4
+    type: "article_hero"
+    dimensions: "1200x630"
+    search_term: "San Francisco Giants"
+    credit: "(USA TODAY Sports Images)"
+    status: "not_started"
 
-## Story 3: Ohtani First HR of 2026
+  - id: "story5-social"
+    story: 5
+    type: "social"
+    dimensions: "1080x1350"
+    search_term: "Shohei Ohtani Los Angeles Dodgers"
+    credit: "(USA TODAY Sports Images)"
+    status: "not_started"
 
-### Image 1 — Social (1080x1350)
-- **Search Term:** Shohei Ohtani Los Angeles Dodgers
-- **Credit:** (USA TODAY Sports Images)
-- **Status:** not_started
-- **Use:** X + Facebook
+  - id: "story5-article"
+    story: 5
+    type: "article_hero"
+    dimensions: "1200x630"
+    search_term: "Shohei Ohtani Los Angeles Dodgers"
+    credit: "(USA TODAY Sports Images)"
+    status: "not_started"
 
-### Image 2 — Article Hero (1200x630)
-- **Search Term:** Dodgers team batting
-- **Credit:** (Imagn Images)
-- **Status:** not_started
-- **Use:** Article 03 hero
+  - id: "story6-social"
+    story: 6
+    type: "social"
+    dimensions: "1080x1350"
+    search_term: "baseball scoreboard stadium"
+    credit: ""
+    photo_source: "stock"
+    status: "not_started"
 
----
-
-## Story 4: Twins Home Opener
-
-### Image 1 — Social (1080x1350)
-- **Search Term:** Minnesota Twins Target Field
-- **Credit:** (USA TODAY Sports Images)
-- **Status:** not_started
-- **Use:** X + Facebook
-
-### Image 2 — Article Hero (1200x630)
-- **Search Term:** Minnesota Twins batter
-- **Credit:** (Imagn Images)
-- **Status:** not_started
-- **Use:** Article 05 hero
-
----
-
-## Story 5: 2026 Rookie Class
-
-### Image 1 — Social (1080x1350)
-- **Search Term:** MLB rookie baseball player
-- **Credit:** (USA TODAY Sports Images)
-- **Status:** not_started
-- **Use:** X + Facebook
-
-### Image 2 — Article Hero (1200x630)
-- **Search Term:** Chase DeLauter batting
-- **Credit:** (Imagn Images)
-- **Status:** not_started
-- **Use:** Article 04 hero
-
----
-
-## Story 6: Standings
-
-### Image 1 — Social (1080x1350)
-- **Search Term:** New York Yankees team
-- **Credit:** (USA TODAY Sports Images)
-- **Status:** not_started
-- **Use:** Facebook
-
----
-
-## Story 7: Saturday Slate
-
-### Image 1 — Social (1080x1350)
-- **Search Term:** baseball stadium crowd
-- **Credit:** (USA TODAY Sports Images)
-- **Status:** not_started
-- **Use:** Facebook
+  - id: "story7-social"
+    story: 7
+    type: "social"
+    dimensions: "1080x1350"
+    search_term: "baseball stadium aerial crowd"
+    credit: ""
+    photo_source: "stock"
+    status: "not_started"
+```

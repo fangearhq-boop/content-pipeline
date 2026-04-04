@@ -1,7 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-04
+- **Date**: 2026-04-04 (Run 2)
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief, research notes, story analysis, X posts (8), FB posts (14), image concepts, image manifest, articles (5), fact-check (0 char violations), compile, dashboard, publish, PostPlanner exports (X: 8 posts, TOBI: 8 posts). WordPress publish blocked by proxy sandbox (same as all prior sessions).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **Issues**: Story 7 Tier 3 — no article by design. IMAGE MISSING warnings expected (not_started). WordPress 403 (proxy sandbox). publish-unified-dashboard.py 403 (PAT) — used publish-dashboard.py. FB posts compile to 0 (heading format mismatch — known issue, dashboard reads markdown directly).
+
+## Previous Run
+- **Date**: 2026-04-04 (Run 1)
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (1 char violation fixed on Story 5 tweet), compile, dashboard, publish, PostPlanner exports (X + TOBI). WordPress publish blocked by proxy sandbox (same as all prior sessions).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
 - **Issues**: Story 6 Tier 2 optional article not written by design. IMAGE MISSING warnings expected (not_started). WordPress 403 (proxy sandbox). publish-unified-dashboard.py 403 (PAT) — used publish-dashboard.py.
@@ -42,7 +48,19 @@
 ## Pipeline Run Log
 <!-- Append newest at top -->
 
-### 2026-04-04
+### 2026-04-04 (Run 2)
+- **Steps completed:** Full pipeline 1-15
+- **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 8 (0 char-limit violations; ET timezone added via fix before compile)
+- **FB Posts:** 7 long-form + 7 image captions
+- **Articles:** 5 (Stories 1-5; Story 7 Tier 3 excluded)
+- **PostPlanner exports:** bb-postplanner-2026-04-04.xlsx (8 posts) + bb-postplanner-tobi-2026-04-04.xlsx (8 TOBI posts)
+- **Fact-check:** 0 char-limit violations. Image manifest not_started (expected).
+- **Dashboard:** Published (https://fangearhq-boop.github.io/content-dashboards/)
+- **WordPress:** Blocked by proxy sandbox (fanrumor.com not in allowed_hosts — known network restriction)
+- **Notes:** 10+ web searches via agent. Key stories: Konnor Griffin MLB debut RBI double 105.8 mph 369 ft youngest SS since A-Rod 1994 Pirates 5-4 Baltimore PNC Park sellout (P10); Braves 17-2 Arizona statement win (P10); Alejandro Kirk thumb fracture foul tip 6-8 weeks if surgery Valenzuela recalled (P8); Giants 7-2 Mets NL East inconsistency (P7); Ohtani April 8 pitching start vs Blue Jays 6-man rotation 6 scoreless IP debut March 31 first HR April 3 401 ft 109.5 mph (P8); Yankees 5-1 Marlins 5-1 Brewers 5-1 Dodgers 4-2 Astros 5-2 standings (P6); Sunday preview (P5)
+
+### 2026-04-04 (Run 1)
 - **Steps completed:** Full pipeline 1-15
 - **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
 - **X Posts:** 9 (1 char-limit violation fixed on Story 5 tweet before compile)

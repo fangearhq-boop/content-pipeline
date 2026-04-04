@@ -4,140 +4,118 @@
 
 ---
 
-### STORY 1: Aaron Judge HR No. 371 — Yankees 8-2 Marlins, Now 6-1
+### STORY 1:
 
 #### Text Post -- 8:00 AM ET
-
 ```
-Aaron Judge homered in the FIRST AT-BAT of the Yankees' home opener Friday.
+Konnor Griffin. First MLB at-bat. RBI double. 105.8 mph. 369 feet.
 
-HR No. 371. Passes Hall of Famer Gil Hodges (83rd all-time).
+He is 19 years old. He is the youngest shortstop to debut in MLB since Alex Rodriguez in 1994.
 
-2-run shot. 387 feet. 101 mph. Off Eury Perez.
-
-Yankees win 8-2. New York is 6-1. Best record in the AL.
-
-#Yankees #MLB
+The hype was real. #LetsGoBucs #Pirates #MLB
 ```
+**Char count:** 203 ✓
 
 #### Text Post -- 10:30 AM ET
-
 ```
-Yankees 6-1. Best record in the American League.
+Pirates home opener recap:
 
-Aaron Judge: 3 HRs in 7 games. 371 career. 29 from 400.
+🏠 PNC Park sold out (~38,986 fans)
+✅ Konnor Griffin: RBI double in 1st AB, 2 runs scored
+✅ Pirates win 5-4 over Baltimore
 
-This team is already rolling. #Yankees
+The No. 1 prospect did not disappoint. #LetsGoBucs #KonnorGriffin
 ```
+**Char count:** 238 ✓
 
 ---
 
-### STORY 2: Chase DeLauter 5 HRs in 7 Games
+### STORY 2:
 
 #### Text Post -- 12:30 PM ET
-
 ```
-Chase DeLauter has 5 HRs in 7 career MLB games.
+The Braves are awake.
 
-He's only the 4th player in history to do it — Trevor Story, Mark Quinn, Rece Hinds.
+Atlanta 17, Arizona 2.
 
-Friday: 2-run blast, 402 feet. Guardians beat the Cubs 4-1 in the home opener.
-
-This kid is different. #ClevelandGuardians #MLB
+17 runs. Saturdays are for statement games. #Braves #Atlanta #MLB
 ```
+**Char count:** 119 ✓
+
+---
+
+### STORY 3:
 
 #### Text Post -- 3:00 PM ET
-
 ```
-Guardians 4-1 over the Cubs in their home opener Friday.
+Not good news for the Blue Jays.
 
-Chase DeLauter: 3-for-4. HR No. 5. 402 feet.
+Alejandro Kirk fractured and dislocated his thumb on a foul tip. Could miss 6-8 weeks if surgery is required.
 
-Tied for the AL HR lead in just 7 career games.
-
-Cleveland is building something real. #ClevelandGuardians
+Brandon Valenzuela recalled. Toronto hoping for the best. #BlueJays #MLB
 ```
+**Char count:** 227 ✓
 
 ---
 
-### STORY 3: Ohtani First HR of 2026, Dodgers 13-6
-
-#### Text Post -- 10:30 AM ET
-
-```
-Shohei Ohtani hit his first HR of 2026 Friday.
-
-3-run shot in the 3rd inning. Dodgers score 10 straight. Win 13-6.
-
-Kyle Tucker also homered — first as a Dodger.
-
-5 total LA HRs. Ohtani's on-base streak is now at 38 straight games.
-
-#Dodgers #MLB
-```
-
----
-
-### STORY 4: Twins 10, Rays 4 — Gray Grand Slam
-
-#### Text Post -- 12:30 PM ET
-
-```
-Minnesota home opener.
-
-Twins trailed the Rays heading into the 7th, then erupted for SEVEN runs.
-
-Tristan Gray grand slam. Final: Twins 10, Rays 4.
-
-Tampa Bay falls to 2-4. Not the start they wanted. #Twins #Rays #MLB
-```
-
----
-
-### STORY 5: 2026 Rookie Class Historic Week 1
-
-#### Text Post -- 3:00 PM ET
-
-```
-The 2026 rookie class Week 1:
-
-DeLauter + Stewart won both first POTWs (only 2nd time ever both went to rookies).
-
-Murakami HR in first 3 games. McGonigle 4-hit debut. Wetherholt walk-off.
-
-The future is now. #MLB
-```
-
----
-
-### STORY 6: Early Season Standings
+### STORY 4:
 
 #### Text Post -- 6:00 PM ET
-
 ```
-Early 2026 MLB standings:
+Giants 7, Mets 2.
 
-AL: Yankees 6-1 | Astros 5-2 | Blue Jays 4-2
-NL: Brewers 5-1 | Marlins 5-2 | Braves 5-2
+San Francisco winning on Saturday. New York can't buy consistency right now.
 
-White Sox and Red Sox both at 1-5.
-A's 1-5 too.
-
-Seven games in. It's still early. But some patterns are forming. #MLB
+The NL East race is anything but settled. #SFGiants #Mets #MLB
 ```
+**Char count:** 163 ✓
 
 ---
 
-### STORY 7: Saturday Game Slate
+### STORY 5:
+
+#### Text Post -- 1:00 PM ET
+```
+Mark your calendars: Shohei Ohtani pitches again TUESDAY, April 8, vs. the Blue Jays.
+
+He went 6 scoreless innings in his 2026 debut (March 31). Then hit his first HR of the year April 3.
+
+The two-way season is absolutely happening. #Dodgers #Ohtani #MLB
+```
+**Char count:** 262 ✓
+
+---
+
+### STORY 6:
 
 #### Text Post -- 10:00 PM ET
-
 ```
-Full Saturday MLB slate today.
+Early-season MLB standings check:
 
-Yankees-Marlins G3. Dodgers-Nationals G3. Guardians-Cubs G3.
+🗽 Yankees: 5-1 (AL East)
+🐟 Marlins: 5-1 (NL East)
+🍺 Brewers: 5-1 (NL Central)
+⚾ Dodgers: 4-2 (NL West)
+🚀 Astros: 5-2 (AL West)
 
-Twins-Rays wrapping up. Red Sox-Padres series continues.
-
-38 teams. 15 games. One league. #MLB #Baseball
+Miami leading the NL East. The chaos has begun. #MLB #BaseballIsBack
 ```
+**Char count:** 255 ✓
+
+---
+
+### STORY 7:
+
+#### Text Post -- 8:00 AM ET
+```
+Sunday in baseball:
+
+• Braves go for the sweep over AZ
+• Pirates look for back-to-back behind Griffin
+• Series finales across the league
+
+And then Tuesday: Shohei Ohtani on the mound again.
+
+One of the best weeks in baseball ahead. ⚾ #MLB
+```
+**Char count:** 248 ✓

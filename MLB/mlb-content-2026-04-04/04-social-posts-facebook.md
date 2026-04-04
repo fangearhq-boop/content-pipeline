@@ -4,164 +4,138 @@
 
 ---
 
-### STORY 1: Aaron Judge HR No. 371 — Yankees 8-2 Marlins, Now 6-1
+### STORY 1:
 
-#### Long-Form Post -- 8:00 AM ET
+#### Long-Form Post -- 8:00 AM
+There are first at-bats, and then there are FIRST AT-BATS.
 
-```
-Aaron Judge wanted to make a statement at Yankee Stadium's home opener — and he delivered before most fans had finished their first hot dog.
+Konnor Griffin walked up to home plate at PNC Park on Saturday — his MLB debut, his home opener, in front of nearly 39,000 fans — and lined an RBI double 369 feet to center field on his very first big-league pitch. Exit velocity: 105.8 mph.
 
-On his very first at-bat of the home opener on Friday, Judge drove a slider from Marlins right-hander Eury Perez 387 feet to left field, 101.2 mph off the bat, for a 2-run home run. It was career home run No. 371 for the Yankees captain, moving him past Hall of Famer Gil Hodges into sole possession of 83rd place on the all-time home run list.
+He's 19 years old. He's the youngest shortstop to debut in MLB since Alex Rodriguez — who was 18 when he debuted for the Seattle Mariners back in 1994. He also became the first Pirate under 20 to reach base twice in a debut since Bobby Del Greco in 1952.
 
-Three home runs in seven games to open 2026. The Yankees beat the Marlins 8-2 to improve to 6-1 on the season — the best record in the American League. New York looks like a team that isn't just competitive but dominant, and Judge is producing exactly as advertised.
+Griffin drew a walk, scored twice, handled every defensive chance cleanly, and clocked in at 29.4 ft/sec sprint speed. The Pirates won 5-4 over the Baltimore Orioles in Pittsburgh's home opener.
 
-At 371 career home runs at age 34, Judge's path to 400 — a milestone that would cement his place among the all-time greats — is a genuine storyline to track all season. He needs 29 more to reach that mark.
-```
+MLB Pipeline had him ranked as the No. 1 overall prospect in baseball entering 2026 — after slashing .333/.942 OPS across three levels of the minors in 2025, with 21 home runs, 94 RBI, and 65 stolen bases. The question wasn't whether he'd be good. The question was when. The answer turned out to be: immediately.
 
-#### Image Caption -- 8:00 AM ET
+What do you think? Is Griffin the next great shortstop in baseball? 👇
 
-```
-HR No. 371. First at-bat of the home opener. Aaron Judge passed Hall of Famer Gil Hodges (83rd all-time) on Friday. Yankees 8-2. New York is 6-1. #Yankees #MLB
-```
+#### Image Caption -- 8:00 AM
+Konnor Griffin. MLB debut. RBI double in his FIRST at-bat. The future is here. #LetsGoBucs #Pirates
 
 ---
 
-### STORY 2: Chase DeLauter 5 HRs in 7 Games
+### STORY 2:
 
-#### Long-Form Post -- 12:30 PM ET
+#### Long-Form Post -- 12:30 PM
+The Atlanta Braves needed a statement. Saturday, they delivered one in huge fashion.
 
-```
-Chase DeLauter's start to his MLB career is not normal.
+Atlanta beat the Arizona Diamondbacks 17-2 on Saturday afternoon. 17 runs. Against a D-backs team that made the World Series in 2023 and is considered a contender. That's not just a win — that's a message.
 
-On Friday night, the Cleveland Guardians outfielder ripped his 5th home run in only his 7th career regular-season game — a 2-run blast off Hunter Harvey that traveled 402 feet, helping Cleveland beat the Cubs 4-1 in their home opener. DeLauter went 3-for-4.
+The Braves entered this season dealing with key rotation injuries, and there were legitimate questions about how far Atlanta could go without a fully healthy staff. A 17-2 blowout doesn't answer all of those questions — but it sure does silence some of the noise.
 
-Here's the historical context: only three other players in MLB history have hit 5 or more home runs in their first seven career regular-season games. The list is Trevor Story (Colorado, 2016), Mark Quinn (Kansas City, 1999), and Rece Hinds (Cincinnati, 2024). DeLauter is now in that company.
+The NL East race between Atlanta, Miami, and the rest is going to be one of baseball's best storylines this season. Saturday was a great early chapter.
 
-He is tied for the American League home run lead with five big flies in seven games. This is not a hot streak — this looks like something else entirely.
+What do you think about the Braves this year? Are they legit contenders? 👇
 
-The Guardians are 4-3 on the season, and their most electric story is just getting started.
-```
-
-#### Image Caption -- 12:30 PM ET
-
-```
-Chase DeLauter has 5 HRs in 7 career MLB games — only the 4th player in history to do it. Guardians beat the Cubs 4-1 in Friday's home opener. #ClevelandGuardians #MLB
-```
+#### Image Caption -- 12:30 PM
+Braves 17, D-backs 2. Atlanta came to play. 🪓 #Braves #ChopOn #MLB
 
 ---
 
-### STORY 3: Ohtani First HR of 2026, Dodgers 13-6
+### STORY 3:
 
-#### Long-Form Post -- 10:30 AM ET
+#### Long-Form Post -- 3:00 PM
+Some tough news out of Toronto today.
 
-```
-It took seven games, but Shohei Ohtani is officially in the home run column for 2026.
+Blue Jays catcher Alejandro Kirk suffered a fractured and dislocated thumb from a foul tip during Saturday's game. He's meeting with a specialist, and if surgery is required, Kirk could be sidelined for 6-8 weeks.
 
-Ohtani launched a 3-run shot in the third inning of the Dodgers' 13-6 demolition of Washington on Friday, sparking a 10-run response from a lineup that looks genuinely dangerous. Kyle Tucker added his first home run as a Dodger, Mookie Betts homered, and Freddie Freeman hit a 2-run shot — five total Los Angeles home runs in the rout.
+That's a significant blow for a Blue Jays team (4-2) that's off to a solid early start. Toronto recalled Brandon Valenzuela to fill the vacant roster spot.
 
-Starter Emmett Sheehan earned the win with 5.2 innings of work. On the other side, Miles Mikolas had an ugly afternoon, allowing a career-high 11 runs in just 4.1 innings.
+The Kirk injury is the kind of thing that can ripple through a roster — catching depth is thin league-wide, and Kirk has been one of the better receivers in the AL East. The Blue Jays will need to figure out a plan quickly, especially with Alejandro Kirke coming off a strong 2025 campaign.
 
-The eye-catching number? Ohtani's on-base streak now sits at 38 consecutive games, dating back to last season. His 2026 season as a two-way player is just getting started, and this is what it looks like when everything clicks offensively.
+Here's hoping he heals quickly. What do you think about the Blue Jays' catching depth now? 👇
 
-The Dodgers are 4-2 after seven games — exactly the kind of start their World Series hopes require.
-```
-
-#### Image Caption -- 10:30 AM ET
-
-```
-Ohtani's first HR of 2026. Tucker's first as a Dodger. Five total LA HRs. Dodgers 13, Nationals 6. Ohtani's on-base streak: 38 straight games. #Dodgers #MLB
-```
+#### Image Caption -- 3:00 PM
+Alejandro Kirk out 6-8 weeks (thumb fracture). Tough break for the Blue Jays. Wishing him a speedy recovery. 🙏 #BlueJays #MLB
 
 ---
 
-### STORY 4: Twins 10, Rays 4 — Gray Grand Slam
+### STORY 4:
 
-#### Long-Form Post -- 12:30 PM ET
+#### Long-Form Post -- 6:00 PM
+The Giants are quietly making their case as a legitimate contender in the NL West.
 
-```
-Minnesota fans at Target Field got exactly what they came for in the home opener on Friday.
+Saturday: San Francisco 7, New York Mets 2. A dominant win on a full slate day that saw results across the league.
 
-The Twins trailed entering the seventh inning, then exploded for seven runs in the frame — capped by a Tristan Gray grand slam — to pull away from Tampa Bay and win 10-4. It was the kind of comeback inning that gets a home crowd on its feet and sets the tone for a season.
+The Mets (3-3) have been inconsistent at the plate early, and the Giants showed they can exploit that. San Francisco is part of a tight NL West race with the Dodgers (4-2) and Diamondbacks, and Saturday's result keeps them relevant.
 
-The Rays fell to 2-4 with the loss. Tampa Bay has been one of baseball's most reliable franchises over the past decade, but this early-April slide will need to stop before the American League standings start looking ominous.
+Meanwhile, the Mets need to figure out their offense in a hurry if they're going to compete in the NL East — where Miami (5-1) and Atlanta (5-2) are already setting the pace.
 
-The Twins, meanwhile, have something to build on as they look to claw their way back to relevance in the AL Central.
-```
+Who do you think wins the NL East this year? Drop your prediction below. 👇
 
-#### Image Caption -- 12:30 PM ET
-
-```
-Tristan Gray grand slam highlights a 7-run 7th inning as the Twins top the Rays 10-4 in Friday's home opener. Tampa falls to 2-4. #Twins #Rays #MLB
-```
+#### Image Caption -- 6:00 PM
+Giants 7, Mets 2. San Francisco puts on a show Saturday. #SFGiants #MLB
 
 ---
 
-### STORY 5: 2026 Rookie Class Historic Week 1
+### STORY 5:
 
-#### Long-Form Post -- 3:00 PM ET
+#### Long-Form Post -- 1:00 PM
+Shohei Ohtani's 2026 season is already everything we hoped it would be.
 
-```
-It is fair to say that no rookie class has opened a season quite like the 2026 group.
+Let's review what's happened in the first week alone:
 
-Here's the Week 1 résumé: Chase DeLauter hit 5 home runs in his first 7 career games — only the 4th player in MLB history to do so. Munetaka Murakami (Chicago White Sox) homered in each of his first three MLB games, making him only the third or fourth player ever to accomplish that. Aaron Stewart (Cincinnati Reds) hit .700 in his first week and won the NL Player of the Week award. DeLauter claimed the AL honor.
+🏟️ March 31 — Ohtani makes his first pitching start of 2026: 6 scoreless innings, 87 pitches, dominant.
+⚾ April 3 — Ohtani hits his first home run of the season: a 3-run blast off Miles Mikolas, 401 feet, 109.5 mph exit velocity. Dodgers win 13-6. He went 2-for-5 with 4 RBIs.
+📅 April 8 — Next pitching start scheduled vs. the Toronto Blue Jays.
 
-That's only the second time in MLB history that both first weekly awards of the season went to rookies. The last time? 2016, when Trevor Story and Tyler White pulled it off.
+The Dodgers are managing him in a 6-man rotation, targeting 6 innings at 75-80 pitches per start. He's on track, healthy, and performing at an elite level in both directions.
 
-Meanwhile, Kevin McGonigle (Detroit Tigers) had four hits in his MLB debut — the third-youngest player in the past 100 years to accomplish that. Jackson Wetherholt (St. Louis Cardinals) delivered a walk-off home run. Carson Benge (New York Mets) hit a home run and stole a base in his debut.
+To put this in context: Ohtani is trying to be the best pitcher AND the best hitter on one of the best teams in baseball. And so far, he's doing exactly that.
 
-Six rookies. Six remarkable stories. All in the first seven days of the season. This class is one to watch all year.
-```
+Are you following every Ohtani start this season? This is genuinely one of the most historic athletic stories of our lifetime. 👇
 
-#### Image Caption -- 3:00 PM ET
-
-```
-DeLauter + Stewart both won Week 1 POTWs — only the 2nd time in MLB history both first awards went to rookies. Murakami HR in first 3 games. What a rookie class. #MLB #Baseball
-```
+#### Image Caption -- 1:00 PM
+First HR: done. Next pitching start: April 8. Shohei Ohtani is operating at a different level. ⚾ #Dodgers #Ohtani #MLB
 
 ---
 
-### STORY 6: Early Season Standings
+### STORY 6:
 
-#### Long-Form Post -- 6:00 PM ET
+#### Long-Form Post -- 10:00 PM
+Here's where we stand in MLB after a full Saturday slate:
 
-```
-Seven games into the 2026 MLB season, some teams are already separating themselves. Here's where things stand:
+🇺🇸 AL East: Yankees 5-1 (1st), Blue Jays 4-2 (1 GB)
+🏔️ AL Central: Cleveland 4-3 (1st)
+🌟 AL West: Astros 5-2 (1st), Rangers 4-2 (0.5 GB)
 
-American League:
-The Yankees lead the AL at 6-1 — the best record in the league. Houston (5-2) is right behind them. The Blue Jays (4-2) are quietly in the hunt. At the bottom: the White Sox and Red Sox are both at 1-5 after a week. The Athletics are 1-5 as well.
+🐟 NL East: Marlins 5-1 (1st, SURPRISING), Braves 5-2 (0.5 GB)
+🏆 NL Central: Brewers 5-1 (1st)
+🌊 NL West: Dodgers 4-2 (1st)
 
-National League:
-Milwaukee leads the NL Central at 5-1. Miami (5-2) and Atlanta (5-2) are locked in an early NL East race. The Dodgers sit at 4-2 in the NL West, having recovered from a rough series against Cleveland.
+The most surprising leader? Miami Marlins at 5-1 in the NL East. The Marlins were expected to be in rebuild mode — instead, Sandy Alcantara and company have the NL East lead after Week 1.
 
-Teams to watch: The Guardians are 4-3 but own the most electrifying hitter in the sport right now in DeLauter. Pittsburgh (3-3) is still adjusting to life with their top prospect Griffin in the lineup.
+The Yankees lead in the AL East also feels meaningful — Judge is healthy, the lineup is deep, and the pitching has been sharp.
 
-It's still early — way too early to draw conclusions. But the early-season trends are worth noting.
-```
+What's the biggest surprise to you from Week 1? 👇
 
-#### Image Caption -- 6:00 PM ET
-
-```
-Early 2026 MLB standings: Yankees 6-1 lead AL. Brewers 5-1 lead NL Central. Marlins + Braves 5-2 in NL East. White Sox + Red Sox + A's all at 1-5. #MLB #Baseball
-```
+#### Image Caption -- 10:00 PM
+Week 1 standings: Yankees 5-1. Marlins 5-1. The early-season race is heating up. 📊 #MLB #BaseballIsBack
 
 ---
 
-### STORY 7: Saturday MLB Slate
+### STORY 7:
 
-#### Long-Form Post -- 10:00 PM ET
+#### Long-Form Post -- 8:00 AM
+Before Sunday even tips off, here's what to look forward to in baseball this week:
 
-```
-After Friday's fireworks — Judge's first-AB homer, DeLauter's 5th, Ohtani's first bomb of 2026, and a Twins home opener explosion — Saturday gives us a full schedule of action to follow.
+SUNDAY: Series finales across the league. Can the Braves sweep Arizona? Do the Pirates get back-to-back wins with Griffin in the lineup? Do the Mets snap their slide?
 
-Key matchups to watch: The Yankees and Marlins wrap up their series in New York. The Dodgers and Nationals close out in Washington. The Guardians and Cubs finish their home stand in Cleveland. Plus Red Sox-Padres, Cardinals-Tigers, Reds-Rangers, and several other series finales.
+TUESDAY (April 8): Shohei Ohtani pitches again vs. the Blue Jays at Dodger Stadium. After going 6 scoreless innings in his 2026 debut and hitting his first homer on Friday, everyone is watching.
 
-After seven games, the landscape is taking shape. Starting pitching matchups get better every week, rosters settle in, and the patterns of a 162-game season begin to emerge.
+It's only the second week of the season, and baseball is already delivering.
 
-Baseball is back and it is very, very good.
-```
+What are you most looking forward to this week? 👇
 
-#### Image Caption -- 10:00 PM ET
-
-```
-Full Saturday slate: Yankees-Marlins G3. Dodgers-Nationals G3. Guardians-Cubs G3. Plus a dozen more. Week 1 wrapping up — what a start to 2026. #MLB #Baseball
-```
+#### Image Caption -- 8:00 AM
+Sunday series finales. Ohtani on Tuesday. The baseball week ahead is stacked. ⚾ #MLB #Baseball

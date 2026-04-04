@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "date": "2026-04-04",
-  "compiled_at": "2026-04-04T16:56:08.081934+00:00",
+  "compiled_at": "2026-04-04T18:09:08.412359+00:00",
   "niche": {
     "brand_name": "Ballpark Banter",
     "brand_short": "BB",
@@ -17,7 +17,7 @@
   "stories": [
     {
       "story_num": 1,
-      "title": "**Headline:** Judge HR No. 371 Opens Yankees Home Opener — New York Now 6-1",
+      "title": "**Headline:** Konnor Griffin Makes Stunning MLB Debut — RBI Double in First At-Bat, Pirates Win 5-4",
       "tier": 0,
       "status": "",
       "angle": "",
@@ -25,24 +25,26 @@
       "x_posts": [
         {
           "label": "Post 1-1",
-          "text": "Aaron Judge homered in the FIRST AT-BAT of the Yankees' home opener Friday.\n\nHR No. 371. Passes Hall of Famer Gil Hodges (83rd all-time).\n\n2-run shot. 387 feet. 101 mph. Off Eury Perez.\n\nYankees win 8-2. New York is 6-1. Best record in the AL.\n\n#Yankees #MLB",
+          "text": "Konnor Griffin. First MLB at-bat. RBI double. 105.8 mph. 369 feet.\n\nHe is 19 years old. He is the youngest shortstop to debut in MLB since Alex Rodriguez in 1994.\n\nThe hype was real. #LetsGoBucs #Pirates #MLB",
           "posting_time": "",
           "tweet_type": "",
           "hashtags": [
-            "#Yankees",
+            "#LetsGoBucs",
+            "#Pirates",
             "#MLB"
           ],
-          "char_count": 258
+          "char_count": 208
         },
         {
           "label": "Post 1-2",
-          "text": "Yankees 6-1. Best record in the American League.\n\nAaron Judge: 3 HRs in 7 games. 371 career. 29 from 400.\n\nThis team is already rolling. #Yankees",
+          "text": "Pirates home opener recap:\n\n🏠 PNC Park sold out (~38,986 fans)\n✅ Konnor Griffin: RBI double in 1st AB, 2 runs scored\n✅ Pirates win 5-4 over Baltimore\n\nThe No. 1 prospect did not disappoint. #LetsGoBucs #KonnorGriffin",
           "posting_time": "",
           "tweet_type": "",
           "hashtags": [
-            "#Yankees"
+            "#LetsGoBucs",
+            "#KonnorGriffin"
           ],
-          "char_count": 145
+          "char_count": 216
         }
       ],
       "facebook": {
@@ -51,46 +53,37 @@
         "posting_time": ""
       },
       "article": {
-        "filename": "article-01-judge-hr-371-yankees-home-opener-8-2-marlins.html",
-        "headline": "Judge HR No. 371 in First At-Bat of Home Opener — Yankees Beat Marlins 8-2, Now 6-1",
-        "word_count": 486
+        "filename": "article-01-konnor-griffin-mlb-debut-rbi-double.html",
+        "headline": "Konnor Griffin's MLB Debut Was Everything: RBI Double in First At-Bat, Pirates Win 5-4",
+        "word_count": 511
       },
       "image_concepts": [
         {
           "label": "Image",
-          "raw": "Aaron Judge HR #371\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** Aaron Judge New York Yankees\n- **Concept:** Judge mid-swing or celebrating a home run at Yankee Stadium, crowd cheering.\n- **Status:** not_started\n- **Intended Use:** X + Facebook\n\n#### Image 2 (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Term:** Aaron Judge batting\n- **Concept:** Judge in a power swing, Yankee Stadium backdrop, conveying historic milestone.\n- **Status:** not_started\n- **Intended Use:** Article hero\n\n---"
+          "raw": "Konnor Griffin Debut\n\n**Social (1080x1350):**\n- Search term: `Konnor Griffin Pittsburgh Pirates`\n- Credit: (USA TODAY Sports Images)\n- Caption overlay: \"GRIFFIN DEBUT — RBI DOUBLE IN FIRST AB\"\n\n**Article hero (1200x630):**\n- Search term: `Konnor Griffin Pittsburgh Pirates`\n- Credit: (USA TODAY Sports Images)\n\n---"
         }
       ],
       "fact_check": null
     },
     {
       "story_num": 2,
-      "title": "**Headline:** DeLauter 5 HRs in 7 Games — One of the Hottest Rookie Starts in MLB History",
+      "title": "**Headline:** Atlanta Braves Demolish Arizona 17-2 — Dominant Saturday Statement",
       "tier": 0,
       "status": "",
       "angle": "",
       "posting_window": "",
       "x_posts": [
         {
-          "label": "Post 2-1",
-          "text": "Chase DeLauter has 5 HRs in 7 career MLB games.\n\nHe's only the 4th player in history to do it — Trevor Story, Mark Quinn, Rece Hinds.\n\nFriday: 2-run blast, 402 feet. Guardians beat the Cubs 4-1 in the home opener.\n\nThis kid is different. #ClevelandGuardians #MLB",
+          "label": "Post 2",
+          "text": "The Braves are awake.\n\nAtlanta 17, Arizona 2.\n\n17 runs. Saturdays are for statement games. #Braves #Atlanta #MLB",
           "posting_time": "",
           "tweet_type": "",
           "hashtags": [
-            "#ClevelandGuardians",
+            "#Braves",
+            "#Atlanta",
             "#MLB"
           ],
-          "char_count": 262
-        },
-        {
-          "label": "Post 2-2",
-          "text": "Guardians 4-1 over the Cubs in their home opener Friday.\n\nChase DeLauter: 3-for-4. HR No. 5. 402 feet.\n\nTied for the AL HR lead in just 7 career games.\n\nCleveland is building something real. #ClevelandGuardians",
-          "posting_time": "",
-          "tweet_type": "",
-          "hashtags": [
-            "#ClevelandGuardians"
-          ],
-          "char_count": 210
+          "char_count": 112
         }
       ],
       "facebook": {
@@ -106,14 +99,14 @@
       "image_concepts": [
         {
           "label": "Image",
-          "raw": "Chase DeLauter Historic Rookie Start\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** Chase DeLauter Cleveland Guardians\n- **Concept:** DeLauter following through on a swing or rounding the bases, Progressive Field visible.\n- **Status:** not_started\n- **Intended Use:** X + Facebook\n\n#### Image 2 (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Term:** Cleveland Guardians stadium\n- **Concept:** Progressive Field home opener atmosphere, packed crowd, representing a big Cleveland moment.\n- **Status:** not_started\n- **Intended Use:** Article hero\n\n---"
+          "raw": "Braves 17, D-backs 2\n\n**Social (1080x1350):**\n- Search term: `Atlanta Braves`\n- Alt: `Atlanta Braves dugout celebration`\n- Credit: (USA TODAY Sports Images)\n- Caption overlay: \"BRAVES 17 — D-BACKS 2\"\n\n**Article hero (1200x630):**\n- Search term: `Atlanta Braves`\n- Credit: (USA TODAY Sports Images)\n\n---"
         }
       ],
       "fact_check": null
     },
     {
       "story_num": 3,
-      "title": "**Headline:** Ohtani's First HR of 2026 Sparks Dodgers to 13-6 Demolition of Nationals",
+      "title": "**Headline:** Alejandro Kirk Fractures Thumb — Blue Jays C Could Miss 6-8 Weeks",
       "tier": 0,
       "status": "",
       "angle": "",
@@ -121,14 +114,14 @@
       "x_posts": [
         {
           "label": "Post 3",
-          "text": "Shohei Ohtani hit his first HR of 2026 Friday.\n\n3-run shot in the 3rd inning. Dodgers score 10 straight. Win 13-6.\n\nKyle Tucker also homered — first as a Dodger.\n\n5 total LA HRs. Ohtani's on-base streak is now at 38 straight games.\n\n#Dodgers #MLB",
+          "text": "Not good news for the Blue Jays.\n\nAlejandro Kirk fractured and dislocated his thumb on a foul tip. Could miss 6-8 weeks if surgery is required.\n\nBrandon Valenzuela recalled. Toronto hoping for the best. #BlueJays #MLB",
           "posting_time": "",
           "tweet_type": "",
           "hashtags": [
-            "#Dodgers",
+            "#BlueJays",
             "#MLB"
           ],
-          "char_count": 246
+          "char_count": 217
         }
       ],
       "facebook": {
@@ -144,14 +137,14 @@
       "image_concepts": [
         {
           "label": "Image",
-          "raw": "Ohtani First HR of 2026\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** Shohei Ohtani Los Angeles Dodgers\n- **Concept:** Ohtani in his home run stance or celebrating, Dodger blue visible.\n- **Status:** not_started\n- **Intended Use:** X + Facebook\n\n#### Image 2 (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Term:** Dodgers team batting\n- **Concept:** Wide shot of the Dodgers lineup during a high-scoring game at the plate.\n- **Status:** not_started\n- **Intended Use:** Article hero\n\n---"
+          "raw": "Alejandro Kirk Injury\n\n**Social (1080x1350):**\n- Search term: `Alejandro Kirk Toronto Blue Jays`\n- Credit: (USA TODAY Sports Images)\n- Caption overlay: \"KIRK OUT — THUMB FRACTURE\"\n\n**Article hero (1200x630):**\n- Search term: `Alejandro Kirk Toronto Blue Jays`\n- Credit: (USA TODAY Sports Images)\n\n---"
         }
       ],
       "fact_check": null
     },
     {
       "story_num": 4,
-      "title": "**Headline:** Twins Explode for 10-4 Win — Gray Grand Slam Highlights 7-Run 7th",
+      "title": "**Headline:** Giants Stun Mets 7-2 — San Francisco Wins Saturday",
       "tier": 0,
       "status": "",
       "angle": "",
@@ -159,15 +152,15 @@
       "x_posts": [
         {
           "label": "Post 4",
-          "text": "Minnesota home opener.\n\nTwins trailed the Rays heading into the 7th, then erupted for SEVEN runs.\n\nTristan Gray grand slam. Final: Twins 10, Rays 4.\n\nTampa Bay falls to 2-4. Not the start they wanted. #Twins #Rays #MLB",
+          "text": "Giants 7, Mets 2.\n\nSan Francisco winning on Saturday. New York can't buy consistency right now.\n\nThe NL East race is anything but settled. #SFGiants #Mets #MLB",
           "posting_time": "",
           "tweet_type": "",
           "hashtags": [
-            "#Twins",
-            "#Rays",
+            "#SFGiants",
+            "#Mets",
             "#MLB"
           ],
-          "char_count": 218
+          "char_count": 159
         }
       ],
       "facebook": {
@@ -176,21 +169,21 @@
         "posting_time": ""
       },
       "article": {
-        "filename": "article-04-2026-rookie-class-historic-week-1.html",
-        "headline": "The 2026 MLB Rookie Class Had One of the Most Historic Opening Weeks in Baseball History",
-        "word_count": 454
+        "filename": "article-04-ohtani-next-pitching-start-april-8.html",
+        "headline": "Shohei Ohtani's Next Pitching Start Is April 8 — Two-Way Season on Full Display",
+        "word_count": 498
       },
       "image_concepts": [
         {
           "label": "Image",
-          "raw": "Twins Home Opener\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** Minnesota Twins Target Field\n- **Concept:** Target Field home opener atmosphere, fans cheering for Minnesota's win.\n- **Status:** not_started\n- **Intended Use:** X + Facebook\n\n#### Image 2 (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Term:** Minnesota Twins batter\n- **Concept:** Twins batter in the box, representing the offensive explosion.\n- **Status:** not_started\n- **Intended Use:** Article hero\n\n---"
+          "raw": "Giants 7, Mets 2\n\n**Social (1080x1350):**\n- Search term: `San Francisco Giants`\n- Credit: (USA TODAY Sports Images)\n- Caption overlay: \"GIANTS 7, METS 2\"\n\n**Article hero (1200x630):**\n- Search term: `San Francisco Giants`\n- Credit: (USA TODAY Sports Images)\n\n---"
         }
       ],
       "fact_check": null
     },
     {
       "story_num": 5,
-      "title": "**Headline:** 2026 Rookie Class Is Historic — The Numbers Don't Lie",
+      "title": "**Headline:** Ohtani's Next Pitching Start is April 8 vs. Blue Jays — Two-Way Machine on Track",
       "tier": 0,
       "status": "",
       "angle": "",
@@ -198,13 +191,15 @@
       "x_posts": [
         {
           "label": "Post 5",
-          "text": "The 2026 rookie class Week 1:\n\nDeLauter + Stewart won both first POTWs (only 2nd time ever both went to rookies).\n\nMurakami HR in first 3 games. McGonigle 4-hit debut. Wetherholt walk-off.\n\nThe future is now. #MLB",
+          "text": "Mark your calendars: Shohei Ohtani pitches again TUESDAY, April 8, vs. the Blue Jays.\n\nHe went 6 scoreless innings in his 2026 debut (March 31). Then hit his first HR of the year April 3.\n\nThe two-way season is absolutely happening. #Dodgers #Ohtani #MLB",
           "posting_time": "",
           "tweet_type": "",
           "hashtags": [
+            "#Dodgers",
+            "#Ohtani",
             "#MLB"
           ],
-          "char_count": 213
+          "char_count": 254
         }
       ],
       "facebook": {
@@ -220,14 +215,14 @@
       "image_concepts": [
         {
           "label": "Image",
-          "raw": "2026 Rookie Class\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** MLB rookie baseball player\n- **Concept:** A rookie batter in action, representing the historic rookie class of 2026.\n- **Status:** not_started\n- **Intended Use:** X + Facebook\n\n#### Image 2 (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Term:** Chase DeLauter batting\n- **Concept:** DeLauter at the plate, representing the class of 2026.\n- **Status:** not_started\n- **Intended Use:** Article hero\n\n---"
+          "raw": "Ohtani Two-Way Update\n\n**Social (1080x1350):**\n- Search term: `Shohei Ohtani Los Angeles Dodgers`\n- Credit: (USA TODAY Sports Images)\n- Caption overlay: \"OHTANI PITCHES AGAIN — APRIL 8\"\n\n**Article hero (1200x630):**\n- Search term: `Shohei Ohtani Los Angeles Dodgers`\n- Credit: (USA TODAY Sports Images)\n\n---"
         }
       ],
       "fact_check": null
     },
     {
       "story_num": 6,
-      "title": "**Headline:** Early Standings: Yankees 6-1, Marlins and Brewers Leading, Guardians Surging",
+      "title": "**Headline:** Weekend Standings — Yankees 5-1 Lead AL East, Marlins Atop NL East",
       "tier": 0,
       "status": "",
       "angle": "",
@@ -235,13 +230,14 @@
       "x_posts": [
         {
           "label": "Post 6",
-          "text": "Early 2026 MLB standings:\n\nAL: Yankees 6-1 | Astros 5-2 | Blue Jays 4-2\nNL: Brewers 5-1 | Marlins 5-2 | Braves 5-2\n\nWhite Sox and Red Sox both at 1-5.\nA's 1-5 too.\n\nSeven games in. It's still early. But some patterns are forming. #MLB",
+          "text": "Early-season MLB standings check:\n\n🗽 Yankees: 5-1 (AL East)\n🐟 Marlins: 5-1 (NL East)\n🍺 Brewers: 5-1 (NL Central)\n⚾ Dodgers: 4-2 (NL West)\n🚀 Astros: 5-2 (AL West)\n\nMiami leading the NL East. The chaos has begun. #MLB #BaseballIsBack",
           "posting_time": "",
           "tweet_type": "",
           "hashtags": [
-            "#MLB"
+            "#MLB",
+            "#BaseballIsBack"
           ],
-          "char_count": 234
+          "char_count": 231
         }
       ],
       "facebook": {
@@ -253,14 +249,14 @@
       "image_concepts": [
         {
           "label": "Image",
-          "raw": "MLB Standings\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** New York Yankees team\n- **Concept:** Yankees celebrating or warming up, representing the AL-leading team.\n- **Status:** not_started\n- **Intended Use:** Facebook\n\n---"
+          "raw": "MLB Standings\n\n**Social (1080x1350):**\n- Search term: stock (baseball scoreboard overview)\n- Photo source: stock\n- Caption overlay: \"MLB WEEK 1 STANDINGS\"\n\n---"
         }
       ],
       "fact_check": null
     },
     {
       "story_num": 7,
-      "title": "**Headline:** Saturday in Baseball — Weekend Roundup and Games to Watch",
+      "title": "**Headline:** Sunday Slate — Series Finales Across the League, Ohtani Watching",
       "tier": 0,
       "status": "",
       "angle": "",
@@ -268,14 +264,13 @@
       "x_posts": [
         {
           "label": "Post 7",
-          "text": "Full Saturday MLB slate today.\n\nYankees-Marlins G3. Dodgers-Nationals G3. Guardians-Cubs G3.\n\nTwins-Rays wrapping up. Red Sox-Padres series continues.\n\n38 teams. 15 games. One league. #MLB #Baseball",
+          "text": "Sunday in baseball:\n\n• Braves go for the sweep over AZ\n• Pirates look for back-to-back behind Griffin\n• Series finales across the league\n\nAnd then Tuesday: Shohei Ohtani on the mound again.\n\nOne of the best weeks in baseball ahead. ⚾ #MLB",
           "posting_time": "",
           "tweet_type": "",
           "hashtags": [
-            "#MLB",
-            "#Baseball"
+            "#MLB"
           ],
-          "char_count": 198
+          "char_count": 238
         }
       ],
       "facebook": {
@@ -287,7 +282,7 @@
       "image_concepts": [
         {
           "label": "Image",
-          "raw": "Saturday Slate\n\n#### Image 1 (Social 1080x1350)\n- **Type:** imagn\n- **Search Term:** baseball stadium crowd\n- **Concept:** Aerial or wide shot of a packed MLB stadium on a Saturday afternoon.\n- **Status:** not_started\n- **Intended Use:** Facebook"
+          "raw": "Sunday Preview\n\n**Social (1080x1350):**\n- Search term: stock (baseball stadium aerial or crowd)\n- Photo source: stock\n- Caption overlay: \"SUNDAY SERIES FINALES\""
         }
       ],
       "fact_check": null
@@ -295,7 +290,7 @@
   ],
   "pipeline_stats": {
     "total_stories": 7,
-    "x_posts_count": 9,
+    "x_posts_count": 8,
     "facebook_posts_count": 0,
     "articles_count": 5,
     "image_concepts_count": 7
