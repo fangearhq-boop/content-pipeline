@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-04
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Ferrari plans Monza private test (around April 21, 200km filming day). Hamilton and Leclerc trial new "Macarena" rear wing + revised PU software. Hamilton getting new race engineer Cedric Michel-Grosjean for Miami. Target: close ~0.5s/lap deficit vs Mercedes. | 1 | FOLLOW-UP (4/3 ADUO PU approved for Miami; 4/2 Monza filming day/Ferrari mini pre-season) |
+| 2 | FIA April 9 summit now 5 days away. Five-point agenda: super clipping rules, closing speed warnings, qualifying thresholds, 2027 ratio adjustments, real-time deployment notifications. Unanimous agreement required for any Miami implementation. Hamilton skeptical, Sainz pushing. | 1 | FOLLOW-UP (4/3 FIA meeting 6 days away; ongoing super clipping crisis) |
+| 3 | Bearman at 10 penalty points — 2 from automatic race ban. Earliest expiry May 23 (after Miami). Zero margin for error at Miami. Haas confirms he will race Miami barring further incidents. Points largely from Japan crash caused by regulatory flaw. | 1 | FOLLOW-UP (4/3 Bearman 10 points/Miami ban risk; 4/2 Japan crash aftermath) |
+| 4 | Red Bull TP Mekies: "no miracle turnaround" before Miami. Three-stage plan: floor/fences + PU maps at Miami, full aero Imola. Verstappen 9th, 12 pts, out-qualified by Hadjar multiple times. Expected to remain at RBR through 2026. | 2 | FOLLOW-UP (4/3 Red Bull 3-stage plan; 4/2 Verstappen exit clause; 4/1 floor updates) |
+| 5 | McLaren bringing Miami upgrade targeting wider MCL40 operating window. Won Miami 2024 (Norris) and 2025 (Piastri). Double DNS China recovery. Norris 25 pts (5th), Piastri 21 pts (6th). Third best car on grid. | 2 | FOLLOW-UP (4/1 McLaren "big aerodynamic update" Miami; 3/29 Piastri P2 Japan) |
+| 6 | Cadillac F1 first home race at Miami. Perez + Bottas. Significant upgrade package. Perez completed Japan on lead lap (first time). 0 constructors points in 3 races. Perez: "Miami will be the biggest test for the team." | 2 | FOLLOW-UP (4/2 Cadillac first home race) |
+| 7 | Standings after 3 rounds: ANT 72, RUS 63, LEC 49, HAM 41, NOR 25, PIA 21, BEA 17, VER 12. Constructors: MER 135, FER 90, MCL 56, RBR 16. Miami Round 4 begins May 1. Antonelli youngest-ever F1 championship leader. | 3 | FOLLOW-UP (ongoing championship analysis) |
+
+---
+
 ## 2026-04-03
 
 | # | Story | Tier | Tag |

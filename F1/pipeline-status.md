@@ -1,8 +1,8 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-03
-- **Steps Completed**: Full pipeline (1-14) minus image production, dashboard push, and WordPress publish
+- **Date**: 2026-04-04
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline minus image production, dashboard push, and WordPress publish)
 - **Dashboard Published**: Local only (content-dashboards push requires PAT write access; WordPress blocked by proxy)
 
 ## Deploy Info
@@ -10,6 +10,18 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-04
+- **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access), WordPress publish (proxy blocks fanrumor.com in this env)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 11 written, all under 280 characters
+- **Facebook Posts:** 7 stories, 14 posts (long-form + caption each)
+- **Articles:** 6 (Stories 1-6)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-04.xlsx (11 posts) + f1fr-postplanner-tobi-2026-04-04.xlsx (11 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-04/review-dashboard.html (31 items)
+- **Notes:** Ferrari Monza test planned (around April 21) + Hamilton new race engineer (Cedric Michel-Grosjean) for Miami. FIA April 9 summit 5 days away — 5-point agenda, unanimous agreement needed. Bearman at 10 penalty points, 2 from ban, zero expiry before Miami. Red Bull "no miracle turnaround" before Miami — 3-stage fix plan. McLaren Miami upgrade targets operating window (won Miami 2024/2025). Cadillac first home race at Miami with upgrade + Perez on lead lap Japan. Standings: ANT 72, RUS 63, LEC 49, HAM 41; MER 135, FER 90, MCL 56, RBR 16.
+- **Fact concerns:** Monza test date April 21 vs April 22 discrepancy between sources — used cautious language. Hamilton engineer name MEDIUM (single source). "Macarena" wing name MEDIUM. Verstappen "confirmed stay" MEDIUM (single source f1miamigp.com). All championship standings HIGH from previous pipeline.
 
 ### 2026-04-03
 - **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
