@@ -1,6 +1,6 @@
 # Fact-Check Log — F1 Fanrecap — April 04, 2026
 
-**Generated:** 2026-04-04 16:54
+**Generated:** 2026-04-04 17:56
 **Claims extracted:** 51
 
 ## Verification Priority Guide

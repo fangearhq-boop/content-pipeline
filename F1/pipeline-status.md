@@ -2,8 +2,8 @@
 
 ## Last Run
 - **Date**: 2026-04-04
-- **Steps Completed**: 1-10b, 12-14 (Full pipeline minus image production, dashboard push, and WordPress publish)
-- **Dashboard Published**: Local only (content-dashboards push requires PAT write access; WordPress blocked by proxy)
+- **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Dashboard Published**: Local only (content-dashboards push requires PAT write access)
 
 ## Deploy Info
 - **Dashboard:** Unified (fangearhq-boop/content-dashboards, subfolder: f1fr)
@@ -12,8 +12,8 @@
 <!-- Append newest at top -->
 
 ### 2026-04-04
-- **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
-- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access), WordPress publish (proxy blocks fanrumor.com in this env)
+- **Steps completed:** 1-10b, 12-15 (Full pipeline; scripts re-run; WordPress publish attempted but blocked by egress proxy; git committed and pushed)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access), WordPress publish (requires environment with fanrumor.com access)
 - **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
 - **X Posts:** 11 written, all under 280 characters
 - **Facebook Posts:** 7 stories, 14 posts (long-form + caption each)
