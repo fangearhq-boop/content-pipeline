@@ -1,11 +1,11 @@
 # Softball Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-04
-- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief, analysis, X posts (9), FB posts (14), image concepts, articles (5), fact-check (0 char violations), compile, dashboard, PostPlanner exports (X + TOBI). WordPress publish blocked by proxy sandbox (same as all prior sessions).
+- **Date**: 2026-04-04 (Run 2 — Afternoon)
+- **Steps Completed**: Full pipeline (Steps 1-15) — fresh research (10+ searches), brief (7 stories), analysis, X posts (9), FB posts (14), image concepts, articles (5 new), fact-check (0 char violations), compile, dashboard, PostPlanner exports (X + TOBI). WordPress publish blocked by proxy sandbox (same as all prior sessions).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
-- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction). Story 6 no article — optional by design. IMAGE MISSING warnings expected (not_started). publish-unified-dashboard.py 403 (PAT scope) — used publish-dashboard.py.
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction). Story 6 no article — optional by design. IMAGE MISSING warnings expected (not_started). publish-unified-dashboard.py 403 (PAT) — used publish-dashboard.py. Game 3 results (TX-AL and OU-KY) not yet indexed at pipeline time — new story angles used (A&M upset Georgia, transfer portal, Red River preview).
 
 ## Previous Run
 - **Date**: 2026-04-03
@@ -51,6 +51,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-04 (Run 2 — Afternoon)
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3) — NEW angles vs morning run
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (new)
+- Fact-check: 0 char-limit violations. Story 6 no article (optional). IMAGE MISSING expected.
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-04-04.xlsx (23 posts), ils-postplanner-tobi-2026-04-04.xlsx (16 TOBI posts)
+- WordPress: Blocked by proxy sandbox (known network restriction)
+- Key stories: A&M 2-1 series over No. 11 Georgia rubber match win (P10); Wells 29 HRs one from NCAA freshman record Red River Rivalry April 10-12 (P10); FSU streak 23 Game 3 Sunday (P8); NCAA transfer portal window June 8-22 proposal 85%+ coach support (P7); Red River Rivalry preview TX vs OU April 10-12 Austin (P7); SEC standings A&M shakeup (P6); Sunday FSU + NFCA poll preview (P5)
+- Notes: Game 3 results for TX-AL and OU-KY not yet indexed — covered new story angles. Kelly Majam name corrected (was "Kaia Majam" in prior content). Git detached HEAD resolved with stash/rebase.
 
 ### 2026-04-04
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)

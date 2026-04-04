@@ -3,7 +3,46 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
-## April 4, 2026
+## April 4, 2026 (Run 2 — Afternoon)
+
+### Story 1: No. 15 Texas A&M Upsets No. 11 Georgia — Claims Series 2-1
+- **Angle:** NEW STORY. A&M won Game 1 (3-2, April 2), lost DH opener (10-6), then won rubber match 2-1 at Davis Diamond on April 3. Sydney Lessentine 6 Ks, Maddie Sauni key RBI. SEC standings shakeup.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** NFCA Week 9 poll impact (April 7), Georgia's SEC standing
+
+### Story 2: Kendall Wells at 29 HRs — One From NCAA Freshman Record
+- **Angle:** FOLLOW-UP. Wells at 29 entering April 4 Game 3 vs Kentucky. NCAA freshman record: 30 (Kelly Majam/Hawaii/2010, Lauren Chamberlain/OU/2012, Jocelyn Alo/OU/2018). Next stage: Red River Rivalry April 10-12 in Austin.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** HR #30, Red River Rivalry, Oklahoma season
+
+### Story 3: FSU Win Streak at 23 — Game 3 Sunday vs Notre Dame
+- **Angle:** FOLLOW-UP. FSU won Game 1 (7-2) and Game 2 (10-0 run rule) over ND. Streak 23 games, nation's longest. Game 3 Sunday April 5, 2 PM ACC Network. Danley 4IP/1H/4K in Game 2. Torres HR #8.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Game 3 result, streak to 24
+
+### Story 4: NCAA Transfer Portal Window Shift — June 8-22 Post-WCWS
+- **Angle:** NEW STORY. NCAA DI Softball Oversight Committee voted to move portal window to June 8-22 (post-WCWS). 85%+ coach support, 93% participation. Pending cabinet approval. Current window: May 26-June 24.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Cabinet vote outcome, effective date
+
+### Story 5: Red River Rivalry Preview — April 10-12 in Austin
+- **Angle:** NEW STORY (preview). Texas hosts Oklahoma April 10-12. OU 10-1 SEC, Texas 10-2. Wells approaching HR record. SEC title implications.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Series result, standings, Wells record
+
+### Story 6: SEC Standings — A&M Shakeup, Red River on Deck
+- **Angle:** NEW STORY. SEC standings post-Saturday. A&M claimed Georgia series. OU 10-1, TX 10-2, Bama 8-3. NFCA Week 9 April 7.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Week 9 NFCA poll, standings after Red River
+
+### Story 7: Sunday Must-Watch / Week Preview
+- **Angle:** EVERGREEN. FSU-ND G3 Sunday 2 PM ACC Network. NFCA poll April 7. Red River Rivalry April 10-12.
+- **Content Produced:** X (2 posts), FB (long-form + caption)
+- **Follow-ups:** All week results
+
+---
+
+## April 4, 2026 (Run 1 — Morning)
 
 ### Story 1: Alabama 11, Texas 4 — Crimson Tide Even Series at Rhoads
 - **Angle:** FOLLOW-UP. Alabama stunned No. 1 Texas 11-4 in Game 2 to even the series 1-1. Game 3: April 4 at 12:30 p.m. CT on SEC Network (moved up from 5 PM due to weather). Texas 32-3, Alabama 34-4.
