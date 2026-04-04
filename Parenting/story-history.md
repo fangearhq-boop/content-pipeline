@@ -2,6 +2,50 @@
 
 ---
 
+## April 4, 2026
+
+### Story 1: CPSC Recall — Sam's Club Member's Mark Children's Pajama Sets (Burn Hazard)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Sam's Club pajamas; different retailer and product from all prior recalls)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~18,000 units recalled April 2, 2026; "Valentine SS Notch Collar" short-sleeve button-up sets; pink solid/pink hearts/cream bows prints; sizes XS (4/5)–XL (14/16); sold Samsclub.com Dec 2025–Jan 2026; ~$14; fail mandatory flammability standards; return to Sam's Club for full refund or cut in half and email photo to Supersam@Samsclub.com
+- **Follow-Up Opportunities:** Children's sleepwear safety guide (evergreen); Sam's Club recall resolution update
+
+### Story 2: CPSC Urgent Warning — Fasando Baby Lounger (Infant Death, No Recall — Uncooperative Seller)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (different product and mechanism from all prior recalls; warning not recall due to uncooperative seller)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC urgent warning (not recall — seller refused cooperation); 2-month-old infant death; Fasando baby lounger; ~6,200 units sold Amazon Aug 2024–Jul 2025; ~$35; action = remove foam, cut cover in half, dispose; do NOT donate or resell; product may still be available on resale markets
+- **Follow-Up Opportunities:** Safe infant sleep environments evergreen guide; baby lounger product category safety overview
+
+### Story 3: COS Parks Budget Cuts — What Families Notice This Summer
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (different from Rock Island Trail infrastructure story April 3; this focuses on service reductions affecting families)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** PRCS budget $3.1M reduction ($19M → $17M); 10 neighborhood restrooms closing (25% of permanent restrooms); playground repair/replacement cut 50%; surfacing budget cut 50%; damaged equipment removed not repaired; Julie Penrose Fountain not operating; Meadows Park Community Center permanently closed (Oct 2025); TOPS projects proceeding (210-ft Sand Creek bridge, Pikes Peak Greenway)
+- **Follow-Up Opportunities:** City publishes specific list of 10 closing restrooms; post-season park quality assessment; community feedback to City Council
+
+### Story 4: Easter Weekend + Switchbacks Home Game — COS Family Weekend Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (new specific events vs. previous Easter coverage on March 31 ViewHouse/Easter Eve/Royal Gorge and April 1 Cave of Winds; Switchbacks game is new)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Switchbacks vs. Lexington SC April 4 3pm, Weidner Field, tickets from $23, US Open Cup momentum (beat Spokane via PKs April 3); Cheyenne Mountain Resort Easter seatings 10am/12:30pm/3pm — live rabbit, wildlife, egg hunt; Spruce Mountain Ranch Easter Brunch 10:30am–1pm — Easter Bunny, horse carriage rides, crafts, egg hunt
+- **Follow-Up Opportunities:** Switchbacks US Open Cup Round of 32 April 14 vs. Sporting KC; May events calendar
+
+### Story 5: AAP "Digital Ecosystems" Policy — Screen Time 2-Hour Rule Officially Replaced
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP screen time policy; not covered previously — confirm: checked story history, no prior AAP screen time article found)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Published Jan 20, 2026, Pediatrics Vol. 157 No. 2; title: "Digital Ecosystems, Children, and Adolescents"; abandons strict 2-hr/day rule for ages 2-5; introduces "5 C's": Child, Content, Calming, Crowding out, Communication; recommends Family Media Plan; no screens before 18 months still holds; device-free bedrooms/mealtimes still recommended; AAP calls on tech companies to redesign platforms
+- **Follow-Up Opportunities:** Family Media Plan template (evergreen); comparison of old vs. new screen time guidance; COS pediatrician perspective on implementation
+
+---
+
 ## April 3, 2026
 
 ### Story 1: CPSC Water Safety Alert — "Relaxing Baby" Swim Floats (1 Death) + YCXXKJ Baby Bath Seat Recall

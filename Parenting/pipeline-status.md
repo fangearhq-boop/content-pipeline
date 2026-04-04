@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 3, 2026
+## Latest Run: April 4, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search via agent) | COMPLETE | Sam's Club pajama recall (CPSC.gov + nottinghammd + AOL), Fasando lounger warning (CPSC.gov + Yahoo), COS parks budget cuts (KRDO + Gazette + KOAA + City of COS), Easter events + Switchbacks (VisitCOS + KOAA + switchbacksfc.com), AAP screen time policy (AAP Pediatrics + EdSurge + FSU + CHOC + Pixelkin) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against story history, no duplicates (D49 budget crisis was April 3 — replaced with COS parks cuts) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories, tier + pillar assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (1 char fix applied — Story 5 tweet trimmed 282→261), all under 280 chars, 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts) |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next, no exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present in all files; 81 claims extracted |
+| Compile | COMPLETE | 07-content-data.json (5 stories, 7 X, 5 FB, 5 articles) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started |
+| Dashboard | COMPLETE | review-dashboard.html (27 items) |
+| PostPlanner Export | COMPLETE | Standard (17 posts) + TOBI (12 posts) |
+| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-04)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 | 1-2 |
+| Local Events | 1 | 1-2 |
+| National Parenting | 3 | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 3, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
