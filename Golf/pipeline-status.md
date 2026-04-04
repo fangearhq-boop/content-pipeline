@@ -13,7 +13,8 @@ Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 | Scripts | Complete (all 6 scripts run) | 2026-04-04 |
 | PostPlanner | Complete (standard + TOBI exports) | 2026-04-04 |
 | Dashboard | Generated locally (push blocked — see notes) | 2026-04-04 |
-| Published | Skipped (WP credentials not in environment) | 2026-04-04 |
+| Published | Attempted — blocked by egress proxy (fanrumor.com not in proxy allowlist) | 2026-04-04 |
+| Git | Committed and pushed to main | 2026-04-04 |
 
 ## Queue
 

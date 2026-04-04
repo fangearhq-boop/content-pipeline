@@ -1,6 +1,6 @@
 # Fact-Check Log — Golf Fanrecap — April 04, 2026
 
-**Generated:** 2026-04-04 17:07
+**Generated:** 2026-04-04 17:56
 **Claims extracted:** 52
 
 ## Verification Priority Guide
