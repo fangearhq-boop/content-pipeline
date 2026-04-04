@@ -1,0 +1,404 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-04",
+  "compiled_at": "2026-04-04T16:43:42.190083+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "1",
+      "type": "Curry Confirmed to Return Sunday vs Rockets"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "2",
+      "type": "West No. 1 Race: OKC vs SA — Final Stretch Begins"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "3",
+      "type": "Wemby's MVP Case Hits a New Level"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "4",
+      "type": "Pistons on the Doorstep of No. 1 East Seed"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "5",
+      "type": "Rockets Clinch — Houston Is Officially In"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "6",
+      "type": "Luka Doncic Joins Elite 15,000-Point Club"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "7",
+      "type": "West Play-In: Four Teams, Two Spots, Eight Days"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Curry Confirmed to Return Sunday vs Rockets",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "STEPH IS BACK. 🏀\n\nCurry confirmed to return Sunday vs. Houston after missing 27 straight games.\n\nTwo scrimmages. Both looked like vintage Steph.\n\nKerr: \"He looks like Steph Curry.\"\n\nThe Warriors just became dangerous again. 🔥\n\n#HoopHeroes #Warriors #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Warriors",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Warriors were a lottery team without Steph. With him?\n\nA NIGHTMARE matchup in the Play-In. 👀\n\nGSW: 23-16 with Curry. 13-25 without.\n\nOne player. Entirely different team.\n\nSunday vs. Houston can't come fast enough.\n\n#HoopHeroes #Warriors #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-curry-returns-sunday-warriors-playoff-survival.html",
+        "headline": "Stephen Curry Cleared to Return Sunday — Warriors' Playoff Survival Is On",
+        "word_count": 644
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Curry Confirmed to Return Sunday\n\n**Social Image (1080×1350, 4:5 vertical)**\n- Visual Description: Stephen Curry dribbling or shooting in a Warriors jersey — action shot, full intensity\n- Photo Search Terms (Imagn):\n  1. \"Stephen Curry Golden State Warriors\"\n  2. \"Steph Curry Warriors\"\n  3. \"Stephen Curry dribble\"\n  4. \"Curry Warriors 2026\"\n- Text Overlay Copy:\n  - Headline: STEPH IS BACK\n  - Subtitle: Returns Sunday After 27 Games\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #FFC107 (accent gold)\n  - Background bar: #1A1A2E at 45% opacity\n- Composition Notes: Player dominant in frame, action feel, top-right or bottom-center text placement\n\n**Article Hero (1200×630, landscape)**\n- Photo Search Terms: \"Stephen Curry Golden State Warriors\"\n- Text Overlay: \"Curry Cleared to Return\" | Hoop Heroes branding bottom-right\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "West No. 1 Race — OKC 61-16 vs SA 59-18: 5 Games to Go",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "OKC leads SA by 2 games with 5 left.\n\nBut the Spurs own the tiebreaker. 4-1. ⚡\n\nSA closes with FOUR straight home games.\nOKC has THREE road games vs. playoff teams.\n\nThe West No. 1 seed is NOT decided. Not even close.\n\n#HoopHeroes #Thunder #Spurs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Thunder",
+            "#Spurs"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Spurs are 23-2 since February 1.\n\nOKC is 61-16. Both are elite. But the schedule favors San Antonio.\n\nHot take: if the Spurs win the No. 1 seed, it's one of the greatest late-season runs in NBA history. 🔥\n\n#HoopHeroes #Spurs #Thunder",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs",
+            "#Thunder"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-west-no1-seed-race-okc-spurs-final-stretch.html",
+        "headline": "West No. 1 Seed Race: OKC vs. Spurs — Five Games Left and Nothing Is Settled",
+        "word_count": 661
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "West No. 1 Race — OKC vs SA\n\n**Social Image (1080×1350, 4:5 vertical)**\n- Visual Description: Shai Gilgeous-Alexander driving or shooting — dramatic angle, jersey visible\n- Photo Search Terms (Imagn):\n  1. \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n  2. \"SGA Thunder 2026\"\n  3. \"Gilgeous-Alexander driving\"\n  4. \"Oklahoma City Thunder guard\"\n- Text Overlay Copy:\n  - Headline: THE RACE IS ON\n  - Subtitle: OKC 61-16 | SA 59-18 | 5 Games Left\n  - Headline color: #FFFFFF\n  - Subtitle color: #FFC107\n  - Background bar: #1A1A2E at 45% opacity\n- Composition Notes: Jersey number and OKC branding visible; intense game moment preferred\n\n**Article Hero (1200×630, landscape)**\n- Photo Search Terms: \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- Text Overlay: \"West No. 1 Race: Five Games Left\" | Hoop Heroes branding\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Wembanyama's MVP Case Hits a New Level",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Wemby is No. 1 on the Kia MVP Ladder. 👀\n\nHis odds: +225 (was +1000 a month ago).\n\nBack-to-back 40+/15+ games — youngest player in NBA history to do it.\n\nSGA has 88 first-place votes but WEMBY is the story of the final week.\n\n#HoopHeroes #Spurs #MVP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs",
+            "#MVP"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 3-2",
+          "text": "SGA will probably win the MVP. The voters are locked in.\n\nBut the BEST player on the court most nights this season?\n\nWembanyama. No argument. 🏀🔥\n\n#HoopHeroes #Spurs #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs",
+            "#NBA"
+          ],
+          "char_count": 169
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wembanyama-mvp-case-final-week.html",
+        "headline": "Wembanyama Tops the MVP Ladder — Can He Flip the Vote in the Final Week?",
+        "word_count": 624
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama MVP Case\n\n**Social Image (1080×1350, 4:5 vertical)**\n- Visual Description: Victor Wembanyama in action — blocking, dunking, or celebrating with Spurs teammates\n- Photo Search Terms (Imagn):\n  1. \"Victor Wembanyama San Antonio Spurs\"\n  2. \"Wembanyama Spurs 2026\"\n  3. \"Wembanyama block dunk\"\n  4. \"Wemby Spurs\"\n- Text Overlay Copy:\n  - Headline: WEMBY FOR MVP\n  - Subtitle: No. 1 on the Kia Ladder — Final Week\n  - Headline color: #FFFFFF\n  - Subtitle color: #FFC107\n  - Background bar: #1A1A2E at 45% opacity\n- Composition Notes: Wemby's height and wingspan emphasized; action over posed\n\n**Article Hero (1200×630, landscape)**\n- Photo Search Terms: \"Victor Wembanyama San Antonio Spurs\"\n- Text Overlay: \"MVP Race: The Final Week\" | Hoop Heroes branding\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Pistons on the Doorstep of No. 1 East Seed",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Magic number: 1. 👀\n\nThe Detroit Pistons are ONE step from clinching No. 1 in the East.\n\nTheir last No. 1 seed? 2007.\n\nTwo seasons ago they were 14-68.\n\nThe greatest turnaround in NBA history is almost complete. 🔥\n\n#HoopHeroes #Pistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Pistons",
+            "#NBA"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 4-2",
+          "text": "The Pistons are proving they don't need Cade to win.\n\nDuren. Jenkins. A deep, disciplined roster.\n\nDetroit is the East's most dangerous team entering the playoffs. 👀\n\n#HoopHeroes #Pistons #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Pistons",
+            "#NBA"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-pistons-no1-east-seed-doorstep.html",
+        "headline": "Pistons on the Doorstep: Detroit Is One Win From Their First No. 1 East Seed Since 2007",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pistons No. 1 East Seed\n\n**Social Image (1080×1350, 4:5 vertical)**\n- Visual Description: Jalen Duren or Ausar Thompson celebrating or in mid-play — Pistons jersey prominent\n- Photo Search Terms (Imagn):\n  1. \"Jalen Duren Detroit Pistons\"\n  2. \"Ausar Thompson Pistons\"\n  3. \"Detroit Pistons celebrate\"\n  4. \"Pistons 2026\"\n- Text Overlay Copy:\n  - Headline: MAGIC NUMBER: 1\n  - Subtitle: Detroit Is One Win From No. 1 East Seed\n  - Headline color: #FFFFFF\n  - Subtitle color: #FFC107\n  - Background bar: #1A1A2E at 45% opacity\n- Composition Notes: Energy and celebration preferred; team dynamic over isolation\n\n**Article Hero (1200×630, landscape)**\n- Photo Search Terms: \"Detroit Pistons\"\n- Text Overlay: \"Pistons: One Step From History\" | Hoop Heroes branding\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Rockets Clinch — Houston Is Officially In",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "HOUSTON IS BACK. 🚀\n\nThe Rockets officially clinched a playoff spot.\n\nAlperen Sengun since March 18: 24.9 PPG / 9.3 RPG / 7.1 APG on 62.1% shooting.\n\nThat's not a rotation player. That's a SUPERSTAR. 🔥\n\n#HoopHeroes #Rockets #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Rockets",
+            "#NBA"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Nobody wants to see the Rockets in Round 1.\n\nSengun is unstoppable right now.\n\nHouston just clinched — and they might be the West's biggest wild card. 👀\n\n#HoopHeroes #Rockets #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Rockets",
+            "#NBA"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-rockets-clinch-sengun-surge.html",
+        "headline": "Houston Rockets Clinch Playoff Berth — Sengun's Surge Is Carrying Them In",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rockets Clinch\n\n**Social Image (1080×1350, 4:5 vertical)**\n- Visual Description: Alperen Sengun posting up or scoring — Rockets red jersey, intense face\n- Photo Search Terms (Imagn):\n  1. \"Alperen Sengun Houston Rockets\"\n  2. \"Sengun Rockets 2026\"\n  3. \"Houston Rockets center\"\n  4. \"Alperen Sengun post\"\n- Text Overlay Copy:\n  - Headline: HOUSTON IS BACK\n  - Subtitle: Rockets Clinch — Sengun Leads the Way\n  - Headline color: #FFFFFF\n  - Subtitle color: #FFC107\n  - Background bar: #1A1A2E at 45% opacity\n- Composition Notes: Sengun's size and physicality front and center; red Rockets jersey\n\n**Article Hero (1200×630, landscape)**\n- Photo Search Terms: \"Alperen Sengun Houston Rockets\"\n- Text Overlay: \"Rockets Clinch Playoff Berth\" | Hoop Heroes branding\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Luka Doncic Joins Elite 15,000-Point Club",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Luka Doncic crossed 15,000 career points.\n\nThird-youngest in NBA history — behind only LeBron and KD. 🏀\n\n35.8 PPG over his last 21 games. The Lakers 16-5 in that stretch.\n\nThis is not a peak. It might be the beginning. 🔥\n\n#HoopHeroes #Lakers #Luka",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Lakers",
+            "#Luka"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-06-luka-doncic-15000-career-points.html",
+        "headline": "Luka Doncic Reaches 15,000 Career Points — Third Youngest in NBA History",
+        "word_count": 518
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Luka 15,000 Points\n\n**Social Image (1080×1350, 4:5 vertical)**\n- Visual Description: Luka Doncic in Lakers jersey — dribbling or celebrating a bucket\n- Photo Search Terms (Imagn):\n  1. \"Luka Doncic Los Angeles Lakers\"\n  2. \"Luka Lakers 2026\"\n  3. \"Doncic Lakers jersey\"\n  4. \"Luka Doncic scoring\"\n- Text Overlay Copy:\n  - Headline: 15,000 POINTS\n  - Subtitle: Luka Joins Elite NBA Scoring History\n  - Headline color: #FFFFFF\n  - Subtitle color: #FFC107\n  - Background bar: #1A1A2E at 45% opacity\n- Composition Notes: Luka in Lakers purple/gold; celebratory or intensity moment preferred\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "West Play-In: Four Teams, Two Spots, Eight Days",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "West Play-In is SET. ⚡\n\nNo. 7 Phoenix vs. No. 8 Portland\nNo. 9 LA Clippers vs. No. 10 Golden State\n\nEight days until tip-off.\n\nNow that Curry's confirmed back?\n\nDon't sleep on the Warriors. 👀\n\n#HoopHeroes #NBAPlayoffs #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayoffs",
+            "#NBA"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "West Play-In Preview\n\n**Social Image (1080×1350, 4:5 vertical)**\n- Visual Description: Stephen Curry in action (tie-in with return news) or split shot of Warriors-Clippers matchup\n- Photo Search Terms (Imagn):\n  1. \"Stephen Curry Warriors\"\n  2. \"NBA playoffs basketball\"\n  3. \"Golden State Warriors play\"\n  4. \"Warriors Clippers\"\n- Text Overlay Copy:\n  - Headline: PLAY-IN IS SET\n  - Subtitle: West Seeds 7-10 | April 14-17\n  - Headline color: #FFFFFF\n  - Subtitle color: #FFC107\n  - Background bar: #1A1A2E at 45% opacity\n- Composition Notes: Energy and urgency; game-action feel over static poses"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 12,
+    "facebook_posts_count": 0,
+    "articles_count": 6,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

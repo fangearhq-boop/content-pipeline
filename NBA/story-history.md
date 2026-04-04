@@ -2,6 +2,20 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-04
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Stephen Curry confirmed to return Sunday April 6 vs Rockets after 27-game absence (right knee). Two successful scrimmages. Kerr: "He looks like Steph Curry." Warriors 23-16 with Curry, 13-25 without. GSW 36-41, 10th West, face LAC in Play-In. | 1 | FOLLOW-UP (4/3 Curry 2nd scrimmage positive; 4/1 first 5-on-5) |
+| 2 | OKC 61-16 vs SA 59-18 — 2 games back with 5 remaining. Spurs hold 4-1 tiebreaker. OKC faces 3 road games vs playoff teams; SA closes with 4 straight home games. Spurs 23-2 since Feb 1, 11-game win streak. | 1 | FOLLOW-UP (4/3 OKC 61-16 SA 58-18; ongoing No. 1 seed race) |
+| 3 | Wembanyama No. 1 on Kia MVP Ladder. Odds moved +1000 to +225. SGA leads votes 88/100 at -300. Wemby youngest (22) to post back-to-back 40+/15+ games. Last 10: 27.9/12.3. Jokic third +600. | 1 | FOLLOW-UP (4/3 Wemby No. 1 Kia Ladder; ongoing MVP race) |
+| 4 | Detroit magic number 1 for No. 1 East seed. DET leads BOS by 4.5 games with 5 remaining. First No. 1 seed since 2007. Cade (collapsed lung) out but optimistic for playoffs. Duren 22/14 in April 3 win. | 2 | FOLLOW-UP (4/3 DET magic number 1; Cade ongoing) |
+| 5 | Houston Rockets officially clinched playoff berth. Top-six West seed. Sengun since March 18: 24.9/9.3/7.1 on 62.1% FG in 7 games. First playoffs following rebuild. | 2 | NEW STORY |
+| 6 | Luka Doncic crossed 15,000 career points — reportedly 3rd youngest in NBA history behind LeBron and KD. 35.8 PPG over last 21 games. Lakers 16-5 in that stretch. LAK No. 3 West seed. | 2 | NEW STORY |
+| 7 | West Play-In set: PHX (7) vs POR (8); LAC (9) vs GSW (10). Regular season ends April 12. Play-In April 14-17. Playoffs begin April 18. Curry return transforms Warriors into genuine threat. | 3 | FOLLOW-UP (ongoing West Play-In; Curry return impact) |
+
+---
+
 ## 2026-04-03
 
 | # | Story | Tier | Tag |

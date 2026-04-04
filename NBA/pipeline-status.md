@@ -1,7 +1,7 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-03
+- **Date**: 2026-04-04
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline minus image production, dashboard push, and WordPress publish)
 - **Dashboard Published**: Local only (content-dashboards push requires PAT write access; WordPress publish blocked by proxy in this env)
 
@@ -10,6 +10,19 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-04
+- **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
+- **Steps remaining:** Image production (enrichment skill), Dashboard push to content-dashboards (needs PAT write access), WordPress publish (proxy blocks fanrumor.com in this env)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 12 written, all under 280 characters
+- **Facebook Posts:** 7 stories, 14 posts (long-form + caption each)
+- **Articles:** 6 (Stories 1-6)
+- **PostPlanner exports:** hh-postplanner-2026-04-04.xlsx (12 posts) + hh-postplanner-tobi-2026-04-04.xlsx (12 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-04/review-dashboard.html (32 items)
+- **Notes:** Curry confirmed return Sunday April 6 vs HOU (27 games missed; 23-16 with Curry, 13-25 without). OKC 61-16 vs SA 59-18 — 2 games back, Spurs own 4-1 tiebreaker, SA closes with 4 home games. Wemby No. 1 MVP Ladder, odds +225 vs SGA -300. DET magic number 1 for No. 1 East seed (first since 2007; 14-68 two seasons ago). Rockets clinch playoff berth (Sengun 24.9/9.3/7.1 on 62.1% since March 18). Luka 15,000 career points (reportedly 3rd youngest after LeBron and KD). West Play-In: PHX(7) vs POR(8), LAC(9) vs GSW(10).
+- **Market balance:** West (Thunder/SGA 61-16, Spurs/Wemby 59-18, Lakers/Luka, Rockets/Sengun, Nuggets/Jokic) + East (Pistons/Duren magic number 1, Celtics, Cavaliers, Knicks)
+- **Fact concerns:** Wemby birthday claim from research agent REJECTED (born Jan 4, 2004, already 22). Luka 15,000 pts "3rd youngest" is MEDIUM — used with "reportedly" qualifier. All other core facts HIGH from ESPN, NBA.com, Yahoo Sports.
 
 ### 2026-04-03
 - **Steps completed:** 1-10b, 12-14 (Full pipeline minus image production and dashboard push)
