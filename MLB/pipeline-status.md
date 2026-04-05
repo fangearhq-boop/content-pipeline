@@ -1,6 +1,12 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-05
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (29 claims, 0 char violations), compile, dashboard, publish, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish blocked by proxy sandbox (known network restriction).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **Issues**: Story 6 and 7 — no articles by design (5 articles meet minimum). IMAGE MISSING warnings expected (not_started). WordPress 403 (proxy sandbox). FB posts compile to 0 (heading format mismatch — known issue).
+
+## Previous Run
 - **Date**: 2026-04-04 (Run 2)
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief, research notes, story analysis, X posts (8), FB posts (14), image concepts, image manifest, articles (5), fact-check (0 char violations), compile, dashboard, publish, PostPlanner exports (X: 8 posts, TOBI: 8 posts). WordPress publish blocked by proxy sandbox (same as all prior sessions).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -47,6 +53,19 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-05
+- **Steps completed:** Full pipeline 1-15
+- **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 9 (0 char-limit violations)
+- **FB Posts:** 7 long-form + 7 image captions
+- **Articles:** 5 (Stories 1-5; Stories 6-7 excluded by design)
+- **Fact-check:** 29 claims, 0 char violations, 0 consistency errors
+- **Dashboard:** Published, live at https://fangearhq-boop.github.io/content-dashboards/
+- **PostPlanner:** bb-postplanner-2026-04-05.xlsx (9 posts), bb-postplanner-tobi-2026-04-05.xlsx (9 TOBI posts)
+- **WordPress:** Blocked by proxy sandbox (known network restriction)
+- **Key stories:** Murakami 4 HRs in 8 games breaks Ohtani's Japanese-born record (P10); Braves sweep Arizona 3-0 after 17-2 win (P9); DeLauter 4 HRs in first 3 games 2nd ever (P8); Misiorowski 11 Ks Opening Day Brewers franchise record youngest since King Felix (P8); Skenes 2/3 IP shortest career start Mets 11-7 (P7); Yankees 6-1 AL East lead (P7); Opening Week wrap (P6)
+- **Notes:** All scripts clean. Research via agent. 0 tweet char violations.
 
 ### 2026-04-04 (Run 2)
 - **Steps completed:** Full pipeline 1-15

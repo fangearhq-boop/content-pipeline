@@ -1,0 +1,316 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-05",
+  "compiled_at": "2026-04-05T10:53:33.342220+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Munetaka Murakami Sets Japanese-Born HR Record with 4 HRs in First 8 Games**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Munetaka Murakami just broke Shohei Ohtani's record.\n\n4 home runs in his first 8 MLB games — the most ever by a Japanese-born player, passing Ohtani's 3 in 2018.\n\nThe NPB champion is making quite an entrance. #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Murakami. 4 HRs. 8 games.\n\nThe White Sox' Japanese import has broken Ohtani's record for the most home runs by a Japanese-born player in their first 8 MLB games.\n\nThree-time NPB batting champion. Now MLB record holder. #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-murakami-japanese-hr-record-white-sox.html",
+        "headline": "Murakami Sets Japanese-Born HR Record With 4 HRs in First 8 MLB Games",
+        "word_count": 413
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murakami HR Record\n\n#### Image Concept 1A — Article Hero (1200x630)\n- **Search term:** Munetaka Murakami White Sox\n- **Style:** imagn\n- **Usage:** Article hero for Murakami record\n- **Status:** not_started\n\n#### Image Concept 1B — Social Graphic (1080x1350)\n- **Search term:** Munetaka Murakami Chicago\n- **Style:** imagn\n- **Usage:** Social post for Story 1\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Braves Complete Sweep of Diamondbacks — Win Third Straight After Dominant Week**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Atlanta swept the Diamondbacks.\n\nAfter a 17-2 blowout in Game 2, the Braves closed it out 6-4 on Sunday. 3-0 series win to open the home stand.\n\nThe NL is on notice. #BravosCountry #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BravosCountry",
+            "#MLB"
+          ],
+          "char_count": 185
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Braves: 17-2 one day, sweep the next.\n\nAtlanta is off to a statement start. The defending NL East contenders look like they're back and better than last year. #BravosCountry",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BravosCountry"
+          ],
+          "char_count": 177
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-braves-sweep-diamondbacks-opening-series.html",
+        "headline": "Braves Sweep Diamondbacks, Cap Dominant Home Opening Series",
+        "word_count": 407
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves Sweep Diamondbacks\n\n#### Image Concept 2A — Article Hero (1200x630)\n- **Search term:** Atlanta Braves Truist Park\n- **Style:** imagn\n- **Usage:** Article hero for Braves sweep\n- **Status:** not_started\n\n#### Image Concept 2B — Social Graphic (1080x1350)\n- **Search term:** Matt Olson Atlanta Braves\n- **Style:** imagn\n- **Usage:** Social graphic for Braves sweep\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Chase DeLauter: 4 HRs in First 3 Games — Only 2nd Player in MLB History**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Only Trevor Story in 2016 had done it before.\n\nChase DeLauter hit 4 home runs in his first 3 MLB games — off three different All-Stars.\n\nThe Guardians rookie is putting the AL on notice. #ForTheLand #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ForTheLand",
+            "#MLB"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-delauter-4-hrs-first-3-games-guardians.html",
+        "headline": "Chase DeLauter Joins Trevor Story as Only Players to Hit 4 HRs in First 3 MLB Games",
+        "word_count": 422
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chase DeLauter Historic Start\n\n#### Image Concept 3A — Article Hero (1200x630)\n- **Search term:** Chase DeLauter Cleveland Guardians\n- **Style:** imagn\n- **Usage:** Article hero for DeLauter story\n- **Status:** not_started\n\n#### Image Concept 3B — Social Graphic (1080x1350)\n- **Search term:** Cleveland Guardians Progressive Field\n- **Style:** imagn\n- **Usage:** Social graphic for DeLauter story\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Jacob Misiorowski Sets Brewers Opening Day K Record — 11 Ks, Youngest Since King Felix**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jacob Misiorowski. 11 strikeouts. 5 innings. Opening Day.\n\nThat's a new Brewers franchise record. And the youngest pitcher with 10+ Ks on Opening Day since Felix Hernandez in 2007 (who was just 20 years old).\n\nMilwaukee's rotation looks dangerous. #MilwaukeeBrewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MilwaukeeBrewers",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-misiorowski-brewers-opening-day-record.html",
+        "headline": "Misiorowski Strikes Out 11, Sets Brewers Opening Day Record — Youngest to Do It Since King Felix",
+        "word_count": 447
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Opening Day\n\n#### Image Concept 4A — Article Hero (1200x630)\n- **Search term:** Jacob Misiorowski Milwaukee Brewers\n- **Style:** imagn\n- **Usage:** Article hero for Misiorowski story\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Paul Skenes' Shortest Career Start — 2/3 IP, 5 ER on Opening Day**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Paul Skenes lasted 2 outs in his Opening Day start.\n\n5 runs. 37 pitches. 2/3 inning. The NL Cy Young runner-up was chased by the Mets before the first inning was even over.\n\nWorst career start for the reigning Pirates ace. #LetsGoBucs #Mets",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetsGoBucs",
+            "#Mets"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-paul-skenes-opening-day-short-start-mets.html",
+        "headline": "Paul Skenes Lasts 2/3 of an Inning in Opening Day Disaster Against the Mets",
+        "word_count": 469
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Paul Skenes Opening Day\n\n#### Image Concept 5A — Article Hero (1200x630)\n- **Search term:** Paul Skenes Pittsburgh Pirates\n- **Style:** imagn\n- **Usage:** Article hero for Skenes story\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Yankees Top Marlins 7-5 — New York Asserts AL East Lead in Week 1**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Yankees: 6-1 after Opening Week.\n\nNew York beat Miami 7-5 on Sunday to take the series and extend their AL East lead. Max Fried is pitching like an ace.\n\nThe Bronx is back. #RepBX #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RepBX",
+            "#MLB"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yankees Beat Marlins\n\n#### Image Concept 6A — Social Graphic (1080x1350)\n- **Search term:** Max Fried New York Yankees\n- **Style:** imagn\n- **Usage:** Social graphic for Yankees story\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Opening Week Wrap-Up — Biggest Surprises After 7 Games**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Opening Week is done.\n\nRecords broken: Murakami (Japanese HR record), DeLauter (4 HRs in 3 games), Misiorowski (Brewers OD K record).\n\nSurprises: Marlins 5-1. Skenes chased in 2/3 IP. The 2026 season is already wild. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Opening Week Wrap-Up\n\n#### Image Concept 7A — Social Graphic (1080x1350)\n- **Search term:** MLB Opening Day 2026\n- **Style:** imagn\n- **Usage:** Social graphic for Opening Week wrap\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

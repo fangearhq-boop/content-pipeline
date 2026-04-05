@@ -5,6 +5,46 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-05
+
+### Story 1: Munetaka Murakami Sets Japanese-Born HR Record (4 HRs in First 8 Games)
+- **Angle:** NEW STORY. Murakami hit his 4th HR (off Brendon Little, Blue Jays) in his first 8 MLB games in White Sox 6-3 win over Toronto. Breaks Shohei Ohtani's record of 3 HRs in first 8 games (2018). Three-time NPB batting champion making MLB debut at 31.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Murakami continued production, White Sox record, NPB-MLB comparison
+
+### Story 2: Braves Complete Sweep of Diamondbacks
+- **Angle:** FOLLOW-UP. Braves won 6-4 on April 5 to complete the series sweep 3-0 after the 17-2 blowout win April 4. NL statement early.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Braves Week 2, NL standings, Arizona response
+
+### Story 3: Chase DeLauter — 4 HRs in First 3 MLB Games (2nd Ever)
+- **Angle:** FOLLOW-UP/DEEPER DIVE. DeLauter's 4 HRs in first 3 games = only 2nd player ever (Trevor Story 2016). HRs off 3 All-Stars: Logan Gilbert, George Kirby, Andrés Muñoz. AL ROTW with Colt Stewart (NL) — first time two rookies won simultaneously.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** DeLauter season, AL ROY race
+
+### Story 4: Jacob Misiorowski — 11 Ks on Opening Day (Brewers Franchise Record)
+- **Angle:** NEW STORY. Misiorowski struck out 11 in 5 IP on Opening Day (Brewers 14-2 vs White Sox). Brewers OD K record (prev: 8, Sheets 2002/Peralta). Youngest pitcher with 10+ OD Ks since Felix Hernandez (age 20, 2007). Team combined 20 Ks — ties modern MLB 9-inning record.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Misiorowski full season, Brewers rotation, NL Central race
+
+### Story 5: Paul Skenes Opening Day — Shortest Career Start (2/3 IP, 5 ER vs Mets)
+- **Angle:** NEW STORY. Skenes lasted 2/3 inning on Opening Day, allowing 5 ER on 37 pitches. First 7 Mets batters had productive ABs. Baty 3-run triple (Cruz misplay). Mets won 11-7.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Skenes bounce-back, Pirates season
+
+### Story 6: Yankees 7, Marlins 5 — New York Leads AL East at 6-1
+- **Angle:** FOLLOW-UP. Yankees beat Marlins 7-5 on Sunday, extend AL East lead. Max Fried continues strong start. Marlins surprise 5-1 start fading somewhat.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** AL East race, Fried season, Yankees depth
+
+### Story 7: Opening Week Wrap-Up — Records and Surprises
+- **Angle:** EVERGREEN WRAP. Week 1 complete: Murakami record, DeLauter historic, Misiorowski K record, Dodgers swept AZ with comebacks in all 3 games, Marlins 5-1 surprise, White Sox 1-5.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Week 2 standings, Ohtani April 8 start
+
+
+---
+
 ## 2026-04-04
 
 ### Story 1: Konnor Griffin MLB Debut — RBI Double, 105.8 mph, Pirates 5-4 Baltimore
