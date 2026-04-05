@@ -2,6 +2,64 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-05
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | FIA April 9 summit — 6 fixes on table: super clipping 250→350kW, energy 9→7MJ, aero zones; unanimous agreement needed; Miami May 3 goal | 1 | FOLLOW-UP (4/4 — summit confirmed; 4/3 — summit announced) |
+| 2 | Bearman 50G crash Suzuka — 308km/h, 45km/h closing speed, 10 penalty points (2 from ban), 93% fans want rule changes | 1 | FOLLOW-UP (4/4 — penalty points watch; crash March 29) |
+| 3 | Ferrari 3-point Miami upgrade — revised floor, PU software, Macarena wing; Monza test April 22; ADUO awaiting approval; ~20bhp gap | 1 | FOLLOW-UP (4/4 — Monza test confirmed; 4/3 — 3-point plan) |
+| 4 | Antonelli youngest F1 championship leader ever — beats Hamilton 2007 record; 72 pts, 9 ahead of Russell; first teenager to lead | 2 | FOLLOW-UP (standings after Japan GP March 29) |
+| 5 | Aston Martin nightmare — Stroll/Alonso 21st/22nd Japan; Stroll zero finishes; GT racing at Paul Ricard April 11-12 during break | 2 | NEW STORY |
+| 6 | McLaren Miami upgrade — 10 key changes targeting operating window; Stella confirms significance; Ferrari/Mercedes on alert; won 2024+2025 | 2 | FOLLOW-UP (4/4 — McLaren upgrade confirmed) |
+| 7 | April break — 5 weeks (Bahrain/Saudi cancelled); Miami now Round 4; April 9 summit; April 22 Monza test; May 3 Miami | 3 | FOLLOW-UP (calendar disruption ongoing) |
+
+---
+
+### STORY 1: FIA April 9 Summit — Six Fixes on the Table
+- **Tier:** 1
+- **Category:** Regulation / Safety
+- **Key facts:** April 9 summit: team tech chiefs, engine reps, FIA/F1 heads. Six potential fixes: raise super clipping 250kW→350kW; reduce energy 9MJ→7MJ per lap; scrap fixed aero zones (3 others). Safety top of agenda (Bearman crash). Goal: fixes before Miami May 3. Requires unanimous agreement.
+- **Status:** FOLLOW-UP (4/4 — agenda confirmed; 4/3 — date set)
+
+### STORY 2: Bearman's 50G Crash — 10 Penalty Points, 2 From Race Ban
+- **Tier:** 1
+- **Category:** Safety / Incident
+- **Key facts:** Spoon Curve, Suzuka, March 29. 50G. 308km/h. 45km/h closing speed vs Colapinto Alpine. Caused by energy deployment differences between manufacturers. Bearman: 10 penalty points, 2 from 12-point ban. 93% fan poll: rule changes needed. Komatsu: "cannot make knee-jerk reaction."
+- **Status:** FOLLOW-UP (4/4 — penalty points; crash March 29)
+
+### STORY 3: Ferrari's Three-Point Miami Upgrade Plan
+- **Tier:** 1
+- **Category:** Technical / Team News
+- **Key facts:** Monza test April 22. Three-point plan: revised floor, PU software overhaul (super clipping), 'Macarena' wing race debut. ADUO application awaiting FIA approval (~20bhp gap to Mercedes). Miami is now Round 4 after Bahrain/Saudi cancellations.
+- **Status:** FOLLOW-UP (Monza test confirmed; 3-point plan ongoing)
+
+### STORY 4: Antonelli — Youngest Ever Championship Leader
+- **Tier:** 2
+- **Category:** Championship / Driver
+- **Key facts:** 72 pts after Japan GP. Beat Hamilton's 2007 record (youngest championship leader). First teenager to lead F1 championship. Russell 63 pts. Constructors: MER 135, FER 90, MCL 56, RBR 16.
+- **Status:** FOLLOW-UP (standings after Japan)
+
+### STORY 5: Aston Martin's Nightmare Season
+- **Tier:** 2
+- **Category:** Team News / Struggles
+- **Key facts:** Stroll/Alonso qualified 21st/22nd at Japan. Stroll: zero race finishes in 2026. GT World Challenge debut at Paul Ricard April 11-12 (Vantage GT3, Merhi, Boya).
+- **Status:** NEW STORY
+
+### STORY 6: McLaren's Massive Miami Upgrade
+- **Tier:** 2
+- **Category:** Technical / Team News
+- **Key facts:** 10 key changes to MCL40. Targeting operating window. Stella confirms significant upgrade. McLaren won Miami 2024 and 2025.
+- **Status:** FOLLOW-UP (4/4 confirmed)
+
+### STORY 7: April Break — Calendar and Preparations
+- **Tier:** 3
+- **Category:** Preview / Calendar
+- **Key facts:** 5-week gap (Bahrain/Saudi cancelled). Miami Round 4. April 9: FIA summit. April 22: Monza test. May 3: Miami GP. Calendar: 24→22 races.
+- **Status:** FOLLOW-UP (calendar disruption ongoing)
+
+---
+
 ## 2026-04-04
 
 | # | Story | Tier | Tag |

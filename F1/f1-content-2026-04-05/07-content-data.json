@@ -1,0 +1,406 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-05",
+  "compiled_at": "2026-04-05T11:27:29.987682+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "FIA April 9 Summit — 4 Days Out, Six Fixes on the Table",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The FIA F1 summit is 4 days away.\n\nSix potential rule fixes are on the table — from energy limits to aerodynamic changes.\n\nThe goal: fix the 2026 regulations before Miami.\n\nThe catch: unanimous agreement needed from all teams and manufacturers.\n\n#F1 #F1Fanrecap",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 1-2",
+          "text": "F1's April 9 summit isn't just a formality.\n\nAfter Bearman's 50G crash at Suzuka, safety is at the top of the agenda.\n\nThe dangerous speed differentials caused by energy deployment gaps are under the microscope. Change is coming.\n\n#F1 #F1Fanrecap",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:00 AM"
+      },
+      "article": {
+        "filename": "article-01-fia-april-9-summit-six-fixes-2026-rules.html",
+        "headline": "FIA April 9 Summit: Six Potential Fixes to the 2026 F1 Regulations Revealed",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 1A, FB caption"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Bearman's 50G Crash — 10 Penalty Points, 2 From Race Ban",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM, 12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Oliver Bearman hit the barrier at 308km/h after a 45km/h closing speed gap with Colapinto.\n\n50 Gs. A consequence of the 2026 energy rules.\n\nHe's now at 10 penalty points. Two away from an automatic race ban at Miami.\n\n#F1 #Haas #F1Fanrecap",
+          "posting_time": "10:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Haas",
+            "#F1Fanrecap"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 2-2",
+          "text": "93% of F1 fans want rule changes after Bearman's Suzuka crash.\n\nThe drivers have been warning about this all year. The FIA is finally listening.\n\nApril 9 summit. Everything on the table.\n\n#F1 #F1Fanrecap",
+          "posting_time": "10:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM, 12:00 PM"
+      },
+      "article": {
+        "filename": "article-02-bearman-50g-crash-penalty-points-race-ban.html",
+        "headline": "Bearman's 50G Suzuka Crash: 10 Penalty Points, 2 From a Race Ban, and a Warning F1 Cannot Ignore",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 2A, FB caption"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ferrari's Three-Point Miami Upgrade Plan — Monza Test April 22",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM, 2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Ferrari's three-point Miami upgrade plan:\n\n1️⃣ Revised floor for downforce\n2️⃣ Power unit software overhaul (limit super clipping)\n3️⃣ 'Macarena' wing — ready to race debut in Miami\n\nMonza test: April 22. Miami: May 3.\n\nFerrari is coming for Mercedes. #Ferrari #F1 #F1Fanrecap",
+          "posting_time": "10:00 AM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Ferrari",
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Ferrari estimates an ~20bhp gap to Mercedes in 2026.\n\nTheir ADUO application for extra engine development is sitting with the FIA.\n\nIf approved — and paired with the aerodynamic upgrades — Hamilton and Leclerc could be genuine title threats by summer.\n\n#Ferrari #F1 #F1Fanrecap",
+          "posting_time": "10:00 AM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Ferrari",
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM, 2:00 PM"
+      },
+      "article": {
+        "filename": "article-03-ferrari-miami-upgrade-monza-test.html",
+        "headline": "Ferrari's Three-Point Miami Upgrade Plan: Monza Test April 22, 'Macarena' Wing Ready to Race",
+        "word_count": 618
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 3A, FB caption"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli — Youngest Ever Championship Leader",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM, 2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli is the youngest driver in F1 history to lead the world championship.\n\nHe broke Lewis Hamilton's record from 2007 — at an even younger age.\n\n72 points. First place. Teenager.\n\nThe sport has a new superstar. 🌟\n\n#F1 #Mercedes #F1Fanrecap",
+          "posting_time": "12:00 PM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Mercedes",
+            "#F1Fanrecap"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM, 2:00 PM"
+      },
+      "article": {
+        "filename": "article-04-antonelli-youngest-ever-championship-leader.html",
+        "headline": "Kimi Antonelli Is the Youngest F1 Championship Leader in History — and He's Just Getting Started",
+        "word_count": 543
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 4A, FB caption"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Aston Martin's Nightmare Season — Stroll/Alonso 21st/22nd in Japan",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM, 5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Aston Martin qualified 21st and 22nd at the Japanese GP.\n\nLance Stroll has not finished a race all year.\n\nDuring the April break, Stroll is racing a GT car at Paul Ricard — because the F1 car can't stay on track.\n\n#F1 #AstonMartin #F1Fanrecap",
+          "posting_time": "12:00 PM, 5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AstonMartin",
+            "#F1Fanrecap"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM, 5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 5A, FB caption"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Additional social"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "McLaren's Massive Miami Upgrade — 10 Key Changes Targeting Operating Window",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM, 8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "McLaren is bringing 10 key changes to Miami.\n\nThey won there in 2024. They won there in 2025.\n\nThe MCL40 upgrade targets the car's operating window — and Ferrari and Mercedes are on alert.\n\nMiami is McLaren's race to lose. 🧡\n\n#McLaren #F1 #MiamiGP #F1Fanrecap",
+          "posting_time": "5:00 PM, 8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#McLaren",
+            "#F1",
+            "#MiamiGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM, 8:00 PM"
+      },
+      "article": {
+        "filename": "article-06-mclaren-miami-upgrade-10-changes.html",
+        "headline": "McLaren Reveals 10-Change Miami Upgrade Package — Norris and Piastri Eyeing Three in a Row",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image 6A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 6A, FB caption"
+        },
+        {
+          "label": "Image 6B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Additional social"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "April Break — F1 Calendar Shift and Team Preparations",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "F1 has a 5-week break before Miami — the longest gap of the 2026 season.\n\nBahrain and Saudi cancelled. Miami is now Round 4.\n\nApril 9: FIA summit. April 22: Ferrari Monza test. May 3: Miami GP.\n\nThe break is anything but quiet. ⚡\n\n#F1 #MiamiGP #F1Fanrecap",
+          "posting_time": "8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 7A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 7A, FB caption"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 13
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

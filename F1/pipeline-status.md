@@ -1,8 +1,25 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-04
+- **Date**: 2026-04-05
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+<!-- Append newest at top -->
+
+### 2026-04-05
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1, 2, 3, 4, 6)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-05.xlsx + f1fr-postplanner-tobi-2026-04-05.xlsx (10 posts each)
+- **Dashboard:** review-dashboard.html generated (29 items)
+- **Notes:** FIA April 9 summit 4 days away — 6 potential fixes to 2026 rules (super clipping 250→350kW, energy 9→7MJ, aero zones). Bearman 50G crash Suzuka: 10 penalty points, 2 from ban. Ferrari 3-point Miami upgrade: revised floor, PU software, 'Macarena' wing; Monza test April 22. Antonelli youngest F1 championship leader ever (beats Hamilton 2007). Aston Martin NEW STORY: Stroll/Alonso 21st/22nd Japan, Stroll zero race finishes. McLaren Miami upgrade 10 changes. Standings: ANT 72, RUS 63, LEC 49, HAM 41. MER 135, FER 90, MCL 56, RBR 16.
+- **Fact concerns:** 'Macarena' wing name MEDIUM (confirmed in multiple outlets, consistent with prior pipeline). ~20bhp Ferrari gap MEDIUM (estimated, hedged in article). All championship standings HIGH from Formula1.com and RacingNews365. Bearman 50G and penalty points HIGH.
+
+### 2026-04-04
+- **Steps completed:** 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Dashboard Published**: Local only (content-dashboards push requires PAT write access)
 
 ## Deploy Info
