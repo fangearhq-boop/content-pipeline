@@ -3,7 +3,28 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline
+## Current Pipeline (2026-04-05)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-05 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-04-05 |
+| Fact-check | Complete (verify-facts.py — 44 claims, 56 HIGH, char violations fixed) | 2026-04-05 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-05 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-04-05 |
+| Dashboard | Generated locally (push blocked — PAT needed) | 2026-04-05 |
+| Published | Attempted — blocked by egress proxy | 2026-04-05 |
+| Git | Committed and pushed to main | 2026-04-05 |
+
+## Notes (2026-04-05)
+- 7 stories: Masters 4-day countdown (T1), Tiger Woods treatment + no Masters (T1), Valero double-duty Sunday + Fowler missed cut (T1), LPGA Aramco Coughlin leads Korda (T2), DeChambeau back-to-back LIV (T2), Koepka returns to PGA Tour NEW (T2), Scheffler $100M NEW (T3)
+- Masters begins April 9. Tiger will NOT play (treatment after DUI arrest, not guilty plea, treatment departure authorized by court)
+- DeChambeau 5 career LIV titles, 2 consecutive 2026 wins (Singapore + South Africa over Rahm in playoff)
+- Koepka: first major LIV player to return to PGA Tour; T9/T13/T18. Rahm, DeChambeau, Smith staying LIV
+- Scheffler $100M milestone: 3rd player ever (Tiger, Rory, Scheffler)
+- Fact concerns: Tiger arrest date MEDIUM ("approximately March 28"); Valero winner TBD; LPGA Aramco winner TBD; Koepka Masters qualification MEDIUM (contextual, not primary source confirmed)
+
+## Previous Pipeline
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|

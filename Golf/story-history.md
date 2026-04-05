@@ -6,6 +6,13 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-04-05 | T1 | Masters 2026 preview — 4 days out; Scheffler +500 vs McIlroy (defending); Tiger will not play (treatment); Amazon Prime debut; LIV players (Rahm, DeChambeau, Hatton, McKibbin) in field | X, FB, Article | FOLLOW-UP from 4/4 countdown |
+| 2026-04-05 | T1 | Tiger Woods steps away for treatment — DUI arrest, not guilty plea, "stepping away to seek treatment"; won't play Masters; Augusta National full support | X, FB, Article | FOLLOW-UP from 3/29 arrest, 3/30 charges |
+| 2026-04-05 | T1 | Valero Texas Open final day — R3 suspended Saturday, double-duty Sunday (R3+R4); Fowler missed cut, Masters bid closed; winner earns final Masters invite | X, FB, Article | FOLLOW-UP from 4/4 Valero R3 preview |
+| 2026-04-05 | T2 | LPGA Aramco Championship final round — Coughlin -7 leads Korda -5 by 2; also Madsen, Yamashita -3; Shadow Creek Las Vegas | X, FB | FOLLOW-UP from Aramco tournament |
+| 2026-04-05 | T2 | DeChambeau back-to-back LIV wins 2026 — South Africa beat Rahm in playoff (final round 65); 5 career LIV titles; both heading to Masters in form | X, FB, Article | FOLLOW-UP from 3/29 DeChambeau back-to-back |
+| 2026-04-05 | T2 | Brooks Koepka returns to PGA Tour — first major LIV defector back (reinstatement program); T9/T13/T18 in 3 starts; DeChambeau/Rahm/Smith staying LIV; Masters qualified | X, FB, Article | NEW STORY |
+| 2026-04-05 | T3 | Scheffler $100M career PGA Tour earnings — 3rd player ever (after Tiger, Rory); via American Express win; co-favorite Masters +500 | X, FB | NEW STORY |
 | 2026-04-04 | T1 | Valero Texas Open final round preview — Bhatia leads at ~-20, Finau in contention, Fowler missed cut (75 in R2, 1-over total); Valero winner earns final Masters invite; TPC San Antonio | X, FB, Article | FOLLOW-UP from 4/3 Valero R1 weather delay |
 | 2026-04-04 | T1 | Masters 2026 countdown 5 days — Scheffler +550, McIlroy defending +1100, DeChambeau +1000 (back-to-back LIV wins), Fleetwood world No. 1, 91 players, $21M purse, Amazon Prime debut, Tiger out | X, FB, Article | FOLLOW-UP from 4/3 Masters countdown |
 | 2026-04-04 | T1 | LPGA Aramco Championship at Shadow Creek — Coughlin leads at -8; Kim and Korda tied at -2; final round Sunday; Kim chasing 3rd straight win; Chevron major April 23 | X, FB, Article | FOLLOW-UP from 4/3 Korda stats/Aramco context |

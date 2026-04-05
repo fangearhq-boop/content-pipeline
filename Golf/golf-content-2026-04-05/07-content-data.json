@@ -1,0 +1,414 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-05",
+  "compiled_at": "2026-04-05T11:35:15.229639+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Masters Preview — 4 Days Out, Scheffler Favored, McIlroy Defending, Tiger Won't Play",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "4 days until the Masters.\n\nScheffler (+500) vs. McIlroy (defending). No Tiger. Amazon Prime debut.\n\nThe most iconic major in golf starts Thursday at Augusta National.\n\nWho do you have winning the green jacket? 🌿\n\n#TheMasters #Augusta #GolfFanrecap",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#Augusta",
+            "#GolfFanrecap"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Rory McIlroy won the 2025 Masters to complete the career Grand Slam.\n\nNow he defends it at Augusta — as the co-favorite alongside world No. 1 Scottie Scheffler.\n\nOne of them almost certainly gets the green jacket on Sunday. 🏆\n\n#TheMasters #RoryMcIlroy #GolfFanrecap",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#RoryMcIlroy",
+            "#GolfFanrecap"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:30 AM"
+      },
+      "article": {
+        "filename": "article-01-masters-2026-preview-scheffler-mcilroy-tiger-absent.html",
+        "headline": "Masters 2026 Preview: Scheffler vs McIlroy, Tiger Absent, Amazon Prime Debut — Everything You Need to Know",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 1A, FB caption"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Tiger Woods Update — Steps Away for Treatment, Pleads Not Guilty to DUI",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Tiger Woods has stepped away to seek treatment.\n\nHe will not play the 2026 Masters.\n\n\"I am stepping away for a period of time to seek treatment and focus on my health.\"\n\nRight now, golf can wait. 🙏\n\n#TigerWoods #TheMasters #GolfFanrecap",
+          "posting_time": "8:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TigerWoods",
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Augusta National's chairman released a statement fully supporting Tiger Woods as he seeks treatment.\n\nThe Masters goes on without him this year.\n\nWe hope to see him back on the course soon. 🙏\n\n#TigerWoods #Augusta #GolfFanrecap",
+          "posting_time": "8:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TigerWoods",
+            "#Augusta",
+            "#GolfFanrecap"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 1:00 PM"
+      },
+      "article": {
+        "filename": "article-02-tiger-woods-steps-away-treatment-masters.html",
+        "headline": "Tiger Woods Steps Away From Golf for Treatment — Will Not Play 2026 Masters",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 2A, FB caption"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Valero Texas Open — Double-Duty Sunday After Weather Disruption",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM, 3:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Weather chaos at the Valero Texas Open.\n\nRound 3 was suspended Saturday — players are completing R3 AND playing R4 today.\n\nFor the players still chasing a Masters exemption, Sunday at TPC San Antonio is everything.\n\n#ValeroTexasOpen #TheMasters #PGATour #GolfFanrecap",
+          "posting_time": "10:30 AM, 3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#ValeroTexasOpen",
+            "#TheMasters",
+            "#PGATour",
+            "#GolfFanrecap"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Rickie Fowler missed the cut at the Valero Texas Open.\n\nThat closes his path to the Masters through this week's tournament.\n\nAugusta without Fowler. Again. 😔\n\n#RickieFowler #ValeroTexasOpen #TheMasters #GolfFanrecap",
+          "posting_time": "10:30 AM, 3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#RickieFowler",
+            "#ValeroTexasOpen",
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM, 3:30 PM"
+      },
+      "article": {
+        "filename": "article-03-valero-texas-open-double-round-sunday-weather.html",
+        "headline": "Valero Texas Open Plays Double-Duty Sunday After Weather Chaos — Masters Spots Still on the Line",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 3A, FB caption"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "LPGA Aramco Championship — Coughlin Leads Korda by 2 in Final Round",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM, 6:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LPGA Aramco Championship final round is underway at Shadow Creek.\n\nLauren Coughlin leads by 2 over Nelly Korda.\n\nKorda has been a runner-up machine lately. Can she flip the script today? ⛳\n\n#LPGA #AramcoChampionship #NellyKorda #GolfFanrecap",
+          "posting_time": "10:30 AM, 6:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#AramcoChampionship",
+            "#NellyKorda",
+            "#GolfFanrecap"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM, 6:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 4A, FB caption"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Additional social"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "DeChambeau's 2026 LIV Dominance — Back-to-Back Wins, 5 Titles Total",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM, 3:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Bryson DeChambeau is the hottest golfer on the planet right now.\n\nBack-to-back LIV wins in 2026. 5 career LIV titles. Beat Rahm in a playoff at South Africa.\n\nHe's heading into the Masters in form. 👀\n\n#BrysonDeChambeau #LIVGolf #TheMasters #GolfFanrecap",
+          "posting_time": "1:00 PM, 3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#BrysonDeChambeau",
+            "#LIVGolf",
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM, 3:30 PM"
+      },
+      "article": {
+        "filename": "article-05-dechambeau-back-to-back-liv-wins-masters.html",
+        "headline": "DeChambeau Is the Hottest Golfer on the Planet — Back-to-Back LIV Wins and Now He's Heading to the Masters",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 5A, FB caption"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Additional social"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Brooks Koepka Returns to PGA Tour From LIV Golf",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM, 8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Brooks Koepka is back on the PGA Tour.\n\nFirst major LIV defector to return. T9, T13, T18 in three starts back.\n\nDeChambeau, Rahm, and Smith are staying put. 🤷\n\n#BrooksKoepka #PGATour #LIVGolf #GolfFanrecap",
+          "posting_time": "1:00 PM, 8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#BrooksKoepka",
+            "#PGATour",
+            "#LIVGolf",
+            "#GolfFanrecap"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM, 8:30 PM"
+      },
+      "article": {
+        "filename": "article-06-brooks-koepka-returns-pga-tour-liv.html",
+        "headline": "Brooks Koepka Returns to the PGA Tour — First Major LIV Defector Back, Others Are Staying Put",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image 6A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 6A, FB caption"
+        },
+        {
+          "label": "Image 6B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Scheffler Joins Tiger and Rory in the $100M Club",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Scottie Scheffler has crossed $100 million in career PGA Tour earnings.\n\nOnly Tiger Woods and Rory McIlroy had done it before him.\n\nHe enters the Masters in 4 days as the co-favorite. 💰🏆\n\n#ScottieScheffler #TheMasters #PGATour #GolfFanrecap",
+          "posting_time": "8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#ScottieScheffler",
+            "#TheMasters",
+            "#PGATour",
+            "#GolfFanrecap"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 7A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X post 7A, FB caption"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 13
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
