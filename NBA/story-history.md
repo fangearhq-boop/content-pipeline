@@ -2,6 +2,64 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-05
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Cooper Flagg 51 pts — first teenager in NBA history to score 50+, 24 pts in 4th quarter, Mavs lost 127-138 to Orlando | 1 | NEW STORY |
+| 2 | Steph Curry returns vs. Houston — 27 games missed, right knee, Warriors 13-25 without him, locked 10th West | 1 | FOLLOW-UP (4/4 — return confirmed for Sunday) |
+| 3 | Pistons clinch No. 1 East seed — beat Sixers 116-93, 57 wins, first since 2007, two seasons ago 14-68 | 1 | FOLLOW-UP (4/4 — magic number 1; clinched) |
+| 4 | Jokic outduels Wembanyama in OT thriller — Wemby 34/18/7/5, Nuggets rally from 20 down, Jokic 27.7/13.0/10.8 | 2 | FOLLOW-UP (Spurs-Nuggets rivalry) |
+| 5 | SGA MVP — 88 of 100 first-place ESPN votes, 31.7 pts 55.1% FG, OKC 61-16 net rating +10.8 | 2 | FOLLOW-UP (MVP race ongoing) |
+| 6 | Luka Doncic out for rest of regular season — Grade 2 hamstring, no Reaves, Lakers need 5-0 to hold No. 3 seed | 2 | FOLLOW-UP (injury severity update) |
+| 7 | Playoff picture — 9 days left, 9 clinched, East Play-In 6 teams for 2 spots, season ends April 12 | 3 | FOLLOW-UP (ongoing tracker) |
+
+---
+
+### STORY 1: Cooper Flagg Scores 51 — First Teenager in NBA History to Reach 50 Points
+- **Tier:** 1
+- **Category:** Individual Performance / Historic Milestone
+- **Key facts:** Dallas Mavericks 127, Orlando Magic 138. Flagg 51 pts (24 in 4th quarter). First teenager in NBA history to score 50+ points. Age: 19 years, 103 days. 9th rookie in NBA history with 50-point game. Broke his own record of 49 (set Jan. 29 vs. Charlotte). Joins Michael Jordan as only players with multiple 45+ rookie games (MEDIUM — ESPN/SI).
+- **Status:** NEW STORY
+
+### STORY 2: Steph Curry Returns vs. Houston After 27-Game Absence
+- **Tier:** 1
+- **Category:** Injury Return / Player News
+- **Key facts:** Curry confirmed to return April 5 vs. Rockets. Missed 27 games since Jan. 30 (right knee). Warriors 13-25 without him, 36-41 overall, 10th in West. Pre-injury stats: 27.2 pts, 3.5 reb, 4.8 ast, 39.1% 3PT.
+- **Status:** FOLLOW-UP (4/4 — return confirmed for Sunday)
+
+### STORY 3: Pistons Clinch No. 1 East Seed
+- **Tier:** 1
+- **Category:** Standings / Milestone
+- **Key facts:** Detroit 116, Philadelphia 93 (April 4). Pistons clinch No. 1 East seed for first time since 2007. 57 wins, 4 remaining. Two seasons ago: 14-68.
+- **Status:** FOLLOW-UP (4/4 clinched; magic number had been 1)
+
+### STORY 4: Jokic Outduels Wembanyama in OT Thriller
+- **Tier:** 2
+- **Category:** Scores & Results / Individual Performance
+- **Key facts:** Nuggets beat Spurs in OT (rallied from 20 down). Wemby 34/18/7/5. Jokic: 27.7/13.0/10.8 season — on pace for 2nd player (after Westbrook) to avg triple-double in two consecutive full seasons.
+- **Status:** FOLLOW-UP (Spurs-Nuggets ongoing)
+
+### STORY 5: SGA MVP Case — 88 of 100 First-Place Votes
+- **Tier:** 2
+- **Category:** MVP Race / Analysis
+- **Key facts:** SGA 88/100 first-place ESPN poll. Stats: 31.7 pts, 6.6 ast, 55.1% FG, 38.3% 3PT. OKC 61-16. Best defensive rating (106.2) and net rating (+10.8). Wemby 8 votes. Jokic 4 votes.
+- **Status:** FOLLOW-UP (MVP race ongoing)
+
+### STORY 6: Luka Doncic Out for Rest of Regular Season
+- **Tier:** 2
+- **Category:** Injury / Standings Impact
+- **Key facts:** Grade 2 hamstring. Out for rest of regular season. Reaves also out. Lakers need 5-0 to protect No. 3 seed. Playoffs begin April 18.
+- **Status:** FOLLOW-UP (injury severity update)
+
+### STORY 7: Playoff Picture — 9 Days Left
+- **Tier:** 3
+- **Category:** Standings / Playoff Race
+- **Key facts:** Season ends April 12. Play-In April 14. Playoffs April 18. Clinched (W): OKC, SA, LAL, DEN, HOU. Clinched (E): DET, BOS, NYK, CLE. East Play-In: ATL, PHI, TOR, CHA, ORL, MIA.
+- **Status:** FOLLOW-UP (ongoing)
+
+---
+
 ## 2026-04-04
 
 | # | Story | Tier | Tag |

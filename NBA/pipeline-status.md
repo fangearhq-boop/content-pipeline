@@ -1,8 +1,25 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-04
-- **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Date**: 2026-04-05
+- **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted; git committed and pushed)
+
+## Pipeline Run Log
+<!-- Append newest at top -->
+
+### 2026-04-05
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1, 2, 3, 5, 6)
+- **PostPlanner exports:** hh-postplanner-2026-04-05.xlsx (10 posts) + hh-postplanner-tobi-2026-04-05.xlsx (10 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-05/review-dashboard.html (29 items)
+- **Notes:** Cooper Flagg 51 pts — first teenager in NBA history to score 50+ (NEW STORY, high confidence, 8+ sources including NBA.com). Steph Curry confirmed return vs. Rockets (FOLLOW-UP). Pistons clinch No. 1 East seed — Detroit 116, Philadelphia 93 (FOLLOW-UP, clinched). SGA 88/100 first-place ESPN poll votes. Jokic OT vs Wemby (Wemby 34/18/7/5). Luka out rest of regular season Grade 2 hamstring.
+- **Fact concerns:** "Flagg joins Jordan as only players with multiple 45+ games as rookies" is MEDIUM — from ESPN/SI, used with care. Jokic "first to lead league in both rebounds and assists" is MEDIUM — used with caution in article. All core facts HIGH from NBA.com, ESPN, multiple verified outlets.
+
+### 2026-04-04
+- **Steps completed:** 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Dashboard Published**: Local only (content-dashboards push requires PAT write access)
 
 ## Deploy Info
