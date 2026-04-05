@@ -821,3 +821,55 @@
   - CMAS testing spring guide for D20 families
   - COS school district comparison (D11/D20/D49)
 
+
+## 2026-04-05 Pipeline Run
+
+### Story 1: Easter Sunday 2026 — Colorado Springs Events Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Key Facts:** ViewHouse Easter brunch 9 AM–3 PM ($54.95 adults, $14.95 kids 6–12) — live bunnies, egg hunt, photo stations; Pamela's Hotel Polaris — face painting, egg hunt, "Paint Your Own Airplane"; City-wide adult Easter egg hunt 8 AM–7 PM; COS received ~15 inches snow April 1–2; Easter Sunday highs ~56°F, overnight lows near freezing
+- **Follow-Up Opportunities:**
+  - Spring break guide (all three district dates)
+  - Post-Easter outdoor activities feature
+
+### Story 2: CPSC Recalls — Baby Products from Amazon, TikTok Shop & Shein
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 1
+- **Key Facts:** Tuyedoqe Travel Bassinets (~$40 Amazon, ~250 units, strangulation + fall hazard); Uuoeebb Infant Walkers (BaoD on Amazon, fall + head entrapment); Mikario Trading Baby Gyms (TikTok Shop, suffocation); Cubimana Building Toys (Vatos Toys on Shein, button cell battery ingestion — death risk). All stop-use-immediately.
+- **Follow-Up Opportunities:**
+  - Monthly CPSC recall roundup
+  - Safe online shopping guide for baby gear
+
+### Story 3: D11 $1 Million Tutoring Investment
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Key Facts:** D11 approved $1M budget transfer January 2026 for tutoring at schools flagged by state accountability data; deployed spring 2026 semester; d11.org for calendar details; STEM Challenge running Feb–April 2026
+- **Follow-Up Opportunities:**
+  - D11 school accountability data explainer
+  - End-of-year tutoring program results follow-up
+
+### Story 4: COS Spring Outdoor Guide — Garden of the Gods + City Parks
+- **Content Pillar:** Local Events / Evergreen
+- **Angle:** NEW STORY
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 2
+- **Key Facts:** Garden of the Gods: free, open 5 AM–9 PM, guided walks $5/person, Junior Rangers daily; Cheyenne Mountain State Park: 28+ miles trails, 61 campsites, 10 min from downtown; City Parks: April 16 (Little Learners ages 3–5), April 23 (Homeschool $4/person), April 24 (Fountain Creek grades 3–6)
+- **Follow-Up Opportunities:**
+  - Cheyenne Mountain camping guide for families
+  - Garden of the Gods summer crowds / best times guide
+
+### Story 5: Late-Season Snow Recovery + April Weather Outlook
+- **Content Pillar:** Local News / Practical
+- **Angle:** NEW STORY
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (X + FB)
+- **Tier:** 3
+- **Key Facts:** COS received ~15 inches snow April 1–2; Easter Sunday highs ~56°F, overnight lows ~28°F; April averages 10.1 hours sunshine/day; above-normal temps + below-normal precip forecast for remainder of April; COS elevation 6,035 ft means snow possible all month
+- **Follow-Up Opportunities:**
+  - May weather outlook for outdoor families
+  - Trail conditions guide for spring hiking
