@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-04 |
-| Writing | Complete (all steps) | 2026-04-04 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-04 |
-| Compile | Complete (07-content-data.json) | 2026-04-04 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-04 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-04 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-04 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-04 |
+| Research | Complete | 2026-04-05 |
+| Writing | Complete (all steps) | 2026-04-05 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-05 |
+| Compile | Complete (07-content-data.json) | 2026-04-05 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-05 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-05 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-05 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-05 |
 
 ## Queue
 
@@ -24,6 +24,20 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-05 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 1 Tier 2, 1 Tier 3)
+- **Posts:** 9 X posts + 10 FB posts (5 long-form + 5 captions) = 19 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-05.xlsx (19 posts), tfr-postplanner-tobi-2026-04-05.xlsx (14 TOBI posts)
+- **Coverage:** Charleston final day (Pegula vs. Starodubtseva — Cinderella No. 89 qualifier vs. top seed), Marrakech final (Trungelliti oldest Open Era debut finalist at 36 vs. 19-year-old Jodar), Bucharest final (Navone saved 2 match points vs. qualifier Merida Aguilar — both first-time finalists), Monte Carlo preview (Alcaraz defends 1,000pts vs. Sinner's zero, Sinner made history with setless Sunshine Double, 9 withdrawals), Injury roundup (Navarro health struggles 4-9 record, Fritz knee tendinitis may need extended rest, Rune targeting Madrid after Achilles)
+- **Research:** Web search via research agent; WTA Official + Tennis Up To Date + Post and Courier (Charleston); ATP Tour Official + Last Word on Sports + Wikipedia (Marrakech/Bucharest/Monte Carlo); SI.com + Yardbarker + ATP Tour (withdrawals/injuries)
+- **Notes:**
+  - Final scores for Charleston, Marrakech, Bucharest not yet confirmed at content write time — articles framed as final-day coverage
+  - Trungelliti Open Era record (oldest debut finalist) confirmed HIGH confidence from ATP Tour
+  - Dashboard push failed: PAT lacks write permission to content-dashboards repo (same as all previous runs)
+  - WordPress publish failed: proxy blocks fanrumor.com (host_not_allowed) — same env restriction as all prior runs
 
 ### 2026-04-04 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
