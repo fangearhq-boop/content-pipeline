@@ -1,0 +1,316 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-05",
+  "compiled_at": "2026-04-05T10:41:56.338988+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Kendall Wells Ties NCAA Freshman HR Record — OU Sweeps Kentucky**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kendall Wells just tied the NCAA freshman home run record.\n\n30 home runs. Tied with Lauren Chamberlain (2013), Jocelyn Alo (2018), and Kelly Majam (2010).\n\nThe record is right there. #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners"
+          ],
+          "char_count": 191
+        },
+        {
+          "label": "Post 1-2",
+          "text": "No. 3 Oklahoma swept Kentucky and Kendall Wells hit No. 30.\n\n.383 BA. 60 RBIs. The nation's home run leader — tied for the all-time NCAA freshman record.\n\nRed River Rivalry is next. #Sooners #Big12Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#Big12Softball"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-kendall-wells-ties-ncaa-freshman-hr-record.html",
+        "headline": "Kendall Wells Ties NCAA Freshman Home Run Record at 30",
+        "word_count": 486
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells — NCAA Freshman HR Record Tied\n\n#### Image Concept 1A — Article Hero (1200x630)\n- **Search term:** Kendall Wells Oklahoma\n- **Style:** imagn\n- **Usage:** Article hero for \"Wells Ties NCAA Freshman HR Record\"\n- **Status:** not_started\n\n#### Image Concept 1B — Social Graphic (1080x1350)\n- **Search term:** Kendall Wells Oklahoma\n- **Style:** imagn\n- **Usage:** Social post for Story 1 wells record tie\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Alabama Upsets No. 1 Texas — Takes Series 2-1 at Rhoads Stadium**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Alabama just beat No. 1 Texas and took the series.\n\nKatie Stewart: 2 home runs in Game 3. Reese Atwood: another bomb. Alabama's first series win over a No. 1 since 2016.\n\nCrimson Tide is a WCWS contender. #RollTide #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#SECSoftball"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 2-2",
+          "text": "No. 1 Texas drops the Alabama series 2-1.\n\nThe Longhorns' second series loss of the year. Red River Rivalry is one week away and Oklahoma is rolling at 38-3.\n\nThe race at the top just got wide open. #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-alabama-upsets-no1-texas-series-win.html",
+        "headline": "Alabama Stuns No. 1 Texas, Takes Series 2-1 at Rhoads Stadium",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Upsets No. 1 Texas\n\n#### Image Concept 2A — Article Hero (1200x630)\n- **Search term:** Katie Stewart Alabama softball\n- **Style:** imagn\n- **Usage:** Article hero for Alabama series win\n- **Status:** not_started\n\n#### Image Concept 2B — Social Graphic (1080x1350)\n- **Search term:** Alabama softball Rhoads Stadium\n- **Style:** imagn\n- **Usage:** Social post for Story 2 Alabama upset\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "**FSU Win Streak to 24 — Comeback Over Notre Dame in Series Sweep**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Down 4-0 to Notre Dame. FSU scored in four straight innings and won 8-4.\n\nWin streak: 24 games. Nation's longest. 35-4 overall, 12-0 ACC.\n\nThe Noles are not stopping. #FSUSoftball #ACCSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#ACCSoftball"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-fsu-win-streak-24-notre-dame-sweep.html",
+        "headline": "FSU Rallies From 4-0 Down to Sweep Notre Dame, Win Streak Reaches 24",
+        "word_count": 449
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU Win Streak to 24\n\n#### Image Concept 3A — Article Hero (1200x630)\n- **Search term:** FSU Seminoles softball\n- **Style:** imagn\n- **Usage:** Article hero for FSU win streak 24\n- **Status:** not_started\n\n#### Image Concept 3B — Social Graphic (1080x1350)\n- **Search term:** Florida State softball pitcher\n- **Style:** imagn\n- **Usage:** Social graphic for FSU win streak story\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Red River Rivalry Preview — Texas vs. Oklahoma April 10-12 in Austin**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Mark your calendar.\n\nTexas vs. Oklahoma — April 10-12 in Austin.\n\nGame 1: Friday 6 PM CT on ESPN2. OU arrives 38-3 with Wells at 30 HRs. Texas just dropped the Alabama series.\n\nThis is the series of the year. #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-red-river-rivalry-preview-texas-oklahoma.html",
+        "headline": "Red River Rivalry Preview: Texas vs. Oklahoma — The Series of the Year Starts April 10",
+        "word_count": 490
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red River Rivalry Preview\n\n#### Image Concept 4A — Article Hero (1200x630)\n- **Search term:** Texas Longhorns softball McCombs\n- **Style:** imagn\n- **Usage:** Article hero for Red River Rivalry preview\n- **Status:** not_started\n\n#### Image Concept 4B — Social Graphic (1080x1350)\n- **Search term:** Oklahoma Sooners softball\n- **Style:** imagn\n- **Usage:** Social graphic for Red River Rivalry preview\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "**LSU's Kylee Edwards Hits for the Cycle — First in Program History**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kylee Edwards hit for the cycle — the first in LSU softball history.\n\nHR. Single. Double. Triple. 4-for-6, 4 RBIs in LSU's 16-4 win over Missouri.\n\nHistory made in Baton Rouge. #LSUSoftball #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LSUSoftball",
+            "#SECSoftball"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-kylee-edwards-lsu-cycle-program-history.html",
+        "headline": "Kylee Edwards Hits for the Cycle — First in LSU Softball History",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kylee Edwards Cycles\n\n#### Image Concept 5A — Article Hero (1200x630)\n- **Search term:** Kylee Edwards LSU softball\n- **Style:** imagn\n- **Usage:** Article hero for Edwards cycle story\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Texas A&M Claims Series Over No. 11 Georgia 2-1**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "No. 15 Texas A&M takes the series over No. 11 Georgia 2-1 — back-to-back series wins over the Bulldogs for the first time in program history.\n\nKennedy Powell. Sydney Lessentine. The Aggies are for real. #AggiesSoftball #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AggiesSoftball",
+            "#SECSoftball"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas A&M vs. Georgia\n\n#### Image Concept 6A — Social Graphic (1080x1350)\n- **Search term:** Texas A&M Aggies softball\n- **Style:** imagn\n- **Usage:** Social graphic for A&M series win\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "**NFCA Week 9 Poll — Expect Major Reshuffling After Alabama's Upset**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "NFCA Week 9 poll drops Tuesday.\n\nAlabama beat the No. 1 team. Oklahoma is 38-3. FSU won 24 straight. Texas dropped two series.\n\nThe rankings reshuffling is going to be wild. #SECSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NFCA Poll Preview\n\n#### Image Concept 7A — Social Graphic (1080x1350)\n- **Search term:** NFCA softball rankings board\n- **Style:** imagn\n- **Usage:** Social graphic for poll preview\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

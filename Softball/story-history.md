@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 5, 2026
+
+### Story 1: Kendall Wells Ties NCAA Freshman HR Record at 30 — OU Sweeps Kentucky
+- **Angle:** FOLLOW-UP. Wells hit HR #30 in the 4th inning of Game 3 vs. Kentucky — a three-run shot to right-center — tying the all-time NCAA single-season freshman record (Lauren Chamberlain OU 2013, Jocelyn Alo OU 2018, Kelly Majam Hawaii 2010). OU swept 3-0 (10-2, 9-1, 12-2). Kasadi Pickering walk-off grand slam. OU 38-3, 11-1 SEC. Wells: .383 BA, 30 HR, 60 RBIs.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** Wells chases outright record at Red River Rivalry April 10-12
+
+### Story 2: Alabama Upsets No. 1 Texas — Takes Series 2-1 at Rhoads Stadium
+- **Angle:** NEW STORY. Alabama 7, Texas 4 in Game 3. Alabama's first series win over a No. 1 since 2016. Katie Stewart 3-for-3, two-run HR, solo HR (20th season). Reese Atwood solo HR (15th). Attendance 3,962 Game 3, 11,000+ weekend.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+- **Follow-ups:** NFCA Week 9 poll April 7, Red River Rivalry, Texas standings
+
+### Story 3: FSU Win Streak to 24 — Comeback from 4-0 Down, Sweeps Notre Dame
+- **Angle:** FOLLOW-UP. FSU trailed Notre Dame 4-0; rallied in four straight innings to win 8-4. Beachum two-out triple tied game in 4th; Harp RBI double gave lead in 5th; Hinde 2-RBI single in 6th. Streak 24 — nation's longest. FSU 35-4, 12-0 ACC.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Week 9 poll, WCWS positioning
+
+### Story 4: Red River Rivalry Preview — Texas vs. Oklahoma April 10-12 in Austin
+- **Angle:** FOLLOW-UP (new context). Texas now licking wounds after Alabama series; OU 38-3, Wells at 30 HRs. Game 1 Friday April 10 6 PM CT ESPN2; Games 2-3 on ESPN.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** Series result, Wells record
+
+### Story 5: Kylee Edwards Hits for the Cycle — First in LSU History
+- **Angle:** NEW STORY. Edwards went 4-for-6, 4 RBIs (HR 2nd, single 3rd, double 6th, triple 7th) in LSU's 16-4 win over Missouri on April 3. First cycle in LSU softball history.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+- **Follow-ups:** LSU SEC standings
+
+### Story 6: Texas A&M Claims Series Over No. 11 Georgia 2-1
+- **Angle:** FOLLOW-UP. Kennedy Powell go-ahead RBI double; Sydney Lessentine 5.2 IP; Sidne Peters 3-out save. Back-to-back series wins over Georgia first in program history.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** A&M SEC standing, NFCA poll
+
+### Story 7: NFCA Week 9 Poll Preview — Drops April 7
+- **Angle:** EVERGREEN. Alabama rises; Texas drops; OU and FSU positioned for movement. Poll drops Tuesday 10 AM ET.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Actual poll results April 7
+
+---
+
 ## April 4, 2026 (Run 2 — Afternoon)
 
 ### Story 1: No. 15 Texas A&M Upsets No. 11 Georgia — Claims Series 2-1
