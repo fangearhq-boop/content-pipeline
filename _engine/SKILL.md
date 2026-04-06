@@ -96,8 +96,8 @@ Replace `{sport}`, `{year}`, `{month}` with the niche's sport and current date c
 
 ### Research Quality Checks
 
-- **HARD RULE: REJECT any story whose source article is more than 48 hours old.** Sports stats, standings, and streaks change daily. A story from 3+ days ago is stale and likely contains outdated numbers. Do NOT write articles about events or stats from earlier in the week unless there is a NEW development today that references them.
-- Every fact must have a source published within the last 48 hours
+- **HARD RULE: REJECT any story whose source article is more than 24 hours old.** Sports stats, standings, and streaks change daily. A story from yesterday is already stale. Do NOT write articles about events or stats from previous days unless there is a NEW development today that references them.
+- Every fact must have a source published within the last 24 hours
 - Cross-reference key stats across at least 2 sources for Tier 1 stories
 - If a story only has 1 source and cannot be verified, demote it to Tier 3 or drop it
 - Note any conflicting information between sources
