@@ -1,6 +1,12 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-06
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (27 claims, 0 char violations), compile, dashboard, publish, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish blocked by proxy sandbox (known network restriction).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **Issues**: Stories 6-7 — no articles by design (5 articles meet minimum). IMAGE MISSING warnings expected (not_started). WordPress 403 (proxy sandbox). FB posts compile to 0 (heading format mismatch — known issue).
+
+## Previous Run
 - **Date**: 2026-04-05
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (29 claims, 0 char violations), compile, dashboard, publish, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish blocked by proxy sandbox (known network restriction).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -53,6 +59,19 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-06
+- **Steps completed:** Full pipeline 1-15
+- **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 9 (0 char-limit violations)
+- **FB Posts:** 7 long-form + 7 image captions
+- **Articles:** 5 (Stories 1-5; Stories 6-7 excluded by design)
+- **Fact-check:** 27 claims, 0 char violations, 0 consistency errors
+- **Dashboard:** Published, live at https://fangearhq-boop.github.io/content-dashboards/
+- **PostPlanner:** bb-postplanner-2026-04-06.xlsx (9 posts), bb-postplanner-tobi-2026-04-06.xlsx (9 TOBI posts)
+- **WordPress:** Blocked by proxy sandbox (known network restriction)
+- **Key stories:** Joey Wiemer 10-PA reaching base streak ties Delgado 2002 live-ball era record (P10); Konnor Griffin Pirates debut RBI double first at-bat teen SS first since A-Rod 1994 PNC sellout (P10); DeLauter 5 HR in 8 games matches Story 2016 pace (P8); Betts oblique Soto calf Verlander hip early IL wave (P8); Judge HR 371 passes Gil Hodges sole 83rd all-time (P7); Murakami 4 HR 8 games Japanese-born milestone White Sox (P7); early standings Yankees 6-1 Brewers surprising (P6)
+- **Notes:** 0 tweet char violations. All scripts clean.
 
 ### 2026-04-05
 - **Steps completed:** Full pipeline 1-15

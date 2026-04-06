@@ -1,0 +1,306 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-06",
+  "compiled_at": "2026-04-06T10:57:06.292326+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Joey Wiemer Ties Carlos Delgado's MLB Record — 10 Consecutive Plate Appearances Reaching Base to Start a Season (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Joey Wiemer reached base in his first 10 plate appearances of the season.\n\n8-for-8 plus 2 walks. Averaging over 100 mph exit velocity.\n\nThat ties Carlos Delgado's 2002 record for the longest out-free start to a season in the live-ball era. #Nationals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Nationals"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Giants released Joey Wiemer before the season.\n\nHe then went 8-for-8 with 2 walks to start the year — tying a record from 2002 for the longest out-free start in the live-ball era.\n\nBaseball is something else. #Nationals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Nationals"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-joey-wiemer-live-ball-era-record-consecutive-plate-appearances.html",
+        "headline": "Joey Wiemer Ties Live-Ball Era Record With 10 Consecutive Plate Appearances Reaching Base",
+        "word_count": 473
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Joey Wiemer — Live-Ball Era Record\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Joey Wiemer Washington Nationals\"\nBatting action shot — Wiemer at the plate epitomizing the record-tying streak.\n\n**Image Concept 2 — Social (1080x1350)**\nSearch: \"Washington Nationals Nationals Park\"\nCrowd/stadium shot for the underdog narrative angle.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Konnor Griffin's MLB Debut — Teen SS Makes Pirates History at PNC Park (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Konnor Griffin. 19 years old. First MLB at-bat.\n\nRBI double.\n\nHe went 2-for-3 with a walk in front of 38,986 fans at PNC Park. The first teenager to play shortstop in MLB since Alex Rodriguez in 1994. #LetsGoBucs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetsGoBucs"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Opening week rookie class check:\n\nKonnor Griffin — RBI double on first MLB pitch seen\nChase DeLauter — 5 HR in 8 games\nMunetaka Murakami — 4 HR in 8 games\n\nThe 2026 class is not messing around.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-konnor-griffin-pirates-debut-teen-shortstop.html",
+        "headline": "Konnor Griffin's MLB Debut: RBI Double, Sellout Crowd, First Teen SS Since A-Rod in 1994",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Konnor Griffin Debut\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Konnor Griffin Pittsburgh Pirates\"\nDebut shot — ideally his double off the wall or dugout celebration.\n\n**Image Concept 2 — Article Hero (1200x630)**\nSearch: \"PNC Park Pittsburgh Pirates\"\nStadium aerial for article header.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Chase DeLauter — 5 HRs in First 8 Games, Historic Rookie Start (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Chase DeLauter has 5 home runs in his first 8 MLB games.\n\nThe last player with 4 HRs in his first 3 games? Trevor Story in 2016.\n\nDeLauter is batting .346 with an OPS above 1.290. The Guardians rookie is absolutely mashing. #Guardians",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-chase-delauter-5-hrs-8-games-historic-rookie-start.html",
+        "headline": "Chase DeLauter Has 5 HRs in His First 8 Games — One of the Most Historic Rookie Starts in Years",
+        "word_count": 499
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chase DeLauter\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Chase DeLauter Cleveland Guardians\"\nDeLauter swinging or watching a HR leave the yard.\n\n**Image Concept 2 — Article Hero (1200x630)**\nSearch: \"Chase DeLauter Cleveland Guardians\"\nAction shot for article header.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Mookie Betts Exits with Oblique Strain, Juan Soto Calf Strain — Early Injury Wave (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "One week in and the IL is already busy:\n\n❌ Mookie Betts — oblique strain, 4-6 weeks\n❌ Juan Soto — calf strain, day-to-day\n❌ Justin Verlander — hip inflammation, 2 weeks\n\nThree marquee names down in April. This is going to be a long season for a few teams.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-betts-soto-verlander-early-injury-wave-2026.html",
+        "headline": "Betts, Soto, Verlander: Three Stars on the IL Before the Season's First Week Is Over",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Injury Wave — Betts, Soto, Verlander\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Mookie Betts Los Angeles Dodgers\"\nBetts at bat or in the field — represents the biggest loss of the three.\n\n**Image Concept 2 — Social (1080x1350)**\nSearch: \"Juan Soto New York Mets\"\nSoto batting stance — Mets need him healthy.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Aaron Judge — 371st Career HR, Now Sole Owner of 83rd All-Time (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Aaron Judge hit career home run No. 371 on Opening Night at Yankee Stadium.\n\nThat moves him past Hall of Famer Gil Hodges into sole possession of 83rd on the all-time list.\n\nThe Yankees are 6-1. Judge is locked in. #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-aaron-judge-371-career-hr-gil-hodges-all-time-list.html",
+        "headline": "Aaron Judge Hits HR No. 371, Passes Gil Hodges on Baseball's All-Time List",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge — HR No. 371\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Aaron Judge New York Yankees\"\nJudge mid-swing or watching a home run — all-time list milestone shot.\n\n**Image Concept 2 — Article Hero (1200x630)**\nSearch: \"Aaron Judge New York Yankees\"\nJudge celebration for article header.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Munetaka Murakami — 4 HRs in 8 Games, Japanese-Born Milestone (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Munetaka Murakami has hit 4 home runs in his first 8 MLB games.\n\nThat is the most by a Japanese-born player in their first 8 games in major league history.\n\nNPB to MLB. No adjustment period needed. #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Munetaka Murakami\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Munetaka Murakami Chicago White Sox\"\nMurakami batting action — Japanese-born milestone story.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Early Standings / Week 1 Wrap — Yankees Lead AL East, Brewers Surge (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "MLB standings after one week:\n\n🔥 Hot: Yankees 6-1, Astros 6-3, Brewers off to a strong start\n🥶 Cold: Red Sox, A's, White Sox near the bottom early\n\nIt is a long season — but the Yankees look serious. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Early Standings\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Yankee Stadium New York Yankees\"\nPacked stadium shot — Yankees leading AL East anchor image."
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

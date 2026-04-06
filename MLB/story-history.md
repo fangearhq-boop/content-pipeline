@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-06
+
+### Story 1: Joey Wiemer — Ties Live-Ball Era Record, 10 Consecutive PAs Reaching Base
+- **Angle:** NEW STORY. Wiemer (Nationals) reached base in first 10 PAs of 2026 — 8-for-8 plus 2 walks. Ties Carlos Delgado's 2002 record (live-ball era since 1920). Avg exit velocity over 100 mph, 83.3% hard-hit rate. Was released by the Giants before the season.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Wiemer continued production, Nationals season
+
+### Story 2: Konnor Griffin MLB Debut — RBI Double in First At-Bat, First Teen SS Since A-Rod
+- **Angle:** NEW STORY. Griffin (19, Pirates) debuted April 3 at PNC Park (sellout 38,986). First at-bat: RBI double. Line: 2-for-3, 1 RBI, 1 walk. Pirates won 5-4. First teenager to play SS in MLB since A-Rod's 1994 debut (MEDIUM). First Pirate under 20 to reach base twice in debut since Del Greco 1952 (MEDIUM).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Griffin rookie season, Pirates development
+
+### Story 3: Chase DeLauter — 5 HRs in 8 Games, First Since Trevor Story 2016 Pace
+- **Angle:** NEW STORY. DeLauter (Guardians): .346, 5 HR, 8 RBI, 1.293 OPS (4th in baseball). Hit 4 HRs in first 3 games (only player since Story 2016). April 4 home opener: 2-run HR in 7th, Guardians 4-1 Cubs.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** DeLauter sustained production, Guardians AL Central race
+
+### Story 4: Betts (Oblique), Soto (Calf), Verlander (Hip) — Early IL Wave
+- **Angle:** NEW STORY. Three marquee names down in Week 1. Betts: 10-day IL, right oblique strain, Roberts said 4-6 weeks. Soto: right calf strain, day-to-day. Verlander: 15-day IL hip inflammation, retroactive April 1, eligible ~April 16.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Return timelines, team impact
+
+### Story 5: Aaron Judge HR No. 371 — Passes Gil Hodges, 83rd All-Time
+- **Angle:** NEW STORY. Judge hit 371st career HR April 3 (home opener, Yankees 8-2 Marlins) off Eury Pérez. Sole 83rd all-time past Hall of Famer Gil Hodges. His 3rd HR of 2026. Bellinger 62-foot sprint catch also notable.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Judge career HR chase, Yankees AL East lead
+
+### Story 6: Munetaka Murakami — 4 HRs in 8 Games, Most by Japanese-Born Player
+- **Angle:** FOLLOW-UP. Murakami (White Sox, 3B): 4 HR, 7 RBI through 8 games — most HRs by a Japanese-born player in first 8 MLB games. April 4: 2-run HR at Rate Field vs Blue Jays; White Sox 3-0.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Murakami continued production, White Sox season
+
+### Story 7: Early Standings — Yankees Lead AL East, Brewers Surprising
+- **Angle:** EVERGREEN. Yankees ~6-1 AL East; Astros ~6-3 AL West; Guardians ~5-3 AL Central; Brewers surprising NL at ~7-2. Bottom: Red Sox, A's at ~2-6.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Standings evolution through April
+
+---
+
 ## 2026-04-05
 
 ### Story 1: Munetaka Murakami Sets Japanese-Born HR Record (4 HRs in First 8 Games)
