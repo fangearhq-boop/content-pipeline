@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 6, 2026
+
+### Story 1: NFCA Week 9 Poll Preview — Alabama Poised to Rise, Texas to Fall
+- **Angle:** NEW STORY. NFCA Week 9 poll drops April 7 at 10 AM ET — first major poll after Alabama's series win over No. 1 Texas. Texas expected to drop significantly; Alabama to leap. Oklahoma (38-3), FSU (24-game streak) and Texas Tech (34-2) all positioned to move. Full rankings preview.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Actual Week 9 poll results April 7, rankings fallout
+
+### Story 2: Red River Rivalry Preview — Texas vs. Oklahoma April 10-12 in Austin
+- **Angle:** NEW STORY (this week's hook). Texas (32-4, 9-3 SEC) hosts No. 3 Oklahoma (38-3, 11-1 SEC) at McCombs Field. Game 1 Friday April 10, 6 PM CT ESPN2; Games 2-3 on ESPN. Texas wounded after Alabama loss. Wells at 30 HRs — one from NCAA freshman record outright. WCWS seeding stakes.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Series result, Wells record, standings impact
+
+### Story 3: Kendall Wells — One HR From Making History Outright
+- **Angle:** FOLLOW-UP. Wells still at 30 — no OU games April 5-6 weekend. Record context: Chamberlain 2012, Alo 2018, Majam 2010 all at 30. Red River Rivalry is the next stage for No. 31. Jocelyn Alo's all-time record is 34.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** HR No. 31, Red River Rivalry performance
+
+### Story 4: FSU Win Streak at 24 — Sweeps Notre Dame, Rallies from 4-0 Down
+- **Angle:** FOLLOW-UP. FSU rallied from 4-0 deficit to win 8-4 and sweep ND. Streak: 24 — nation's longest. Record: 34-4, 12-0 ACC. Beachum triple tied game; Harp RBI double gave lead; Hinde 2-RBI single. 5th-longest in FSU history.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** WCWS seeding, Week 9 poll movement
+
+### Story 5: Kylee Edwards Hits for the Cycle — First in 46 Years of LSU History
+- **Angle:** NEW STORY (April 3 game). Edwards: 4-for-6, 4 RBIs; HR (2nd), single (3rd), double (6th), triple (7th) in LSU 16-4 win over Missouri. First cycle in 46-year LSU softball program history. Edwards is a Mississippi State transfer.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** LSU SEC positioning, Edwards continued production
+
+### Story 6: Alabama's Statement — What's Next for the Tide and the SEC Race
+- **Angle:** FOLLOW-UP. Aftermath analysis post-series win. Katie Stewart 2 HRs in clincher (20th season), Atwood HR (15th). Alabama ~34-3, ~8-3 SEC. First series win over No. 1 since 2016. SEC standings in flux.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Week 9 poll position, SEC race heading into RRR week
+
+### Story 7: Week Preview / Sunday Scoreboard
+- **Angle:** EVERGREEN. SC 5, Tennessee 1 on April 3 (Jori Heard CG); Tennessee took series Game 3. Nebraska and Arkansas rose in Softball America. Preview: NFCA poll April 7, Red River Rivalry April 10-12.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** All week results
+
+---
+
 ## April 5, 2026
 
 ### Story 1: Kendall Wells Ties NCAA Freshman HR Record at 30 — OU Sweeps Kentucky

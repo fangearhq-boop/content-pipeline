@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-06
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (97 claims, 0 char violations), compile, dashboard, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish attempted (see Issues).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, same as all prior sessions). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue).
+
+## Previous Run
 - **Date**: 2026-04-05
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (93 claims, 0 char violations), compile, dashboard, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish blocked by proxy sandbox (known network restriction).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -58,6 +65,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-06
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 97 claims. 0 char-limit violations. IMAGE MISSING expected (not_started).
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-04-06.xlsx (9 posts), ils-postplanner-tobi-2026-04-06.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: NFCA Week 9 poll preview April 7 — Alabama rises, Texas drops (P10); Red River Rivalry April 10-12 McCombs Field ESPN2/ESPN Texas vs OU (P10); Wells at 30 HR one from outright NCAA freshman record Red River next (P8); FSU 24-game win streak sweeps Notre Dame came back from 4-0 12-0 ACC (P8); Kylee Edwards LSU cycle first in 46-year program history April 3 vs Missouri (P7); Alabama aftermath SEC shakeup (P7); Week preview SC upset of TN, NFCA poll, RRR (P6)
+- Notes: Git detached HEAD resolved with checkout main + pull. 0 tweet char violations.
 
 ### 2026-04-05
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
