@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-06",
+  "compiled_at": "2026-04-06T13:01:48.862902+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recall — Children's Sleepwear Burn Hazard: Bellabu Bear + Blossom Loungewear (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RECALL: Bellabu Bear children's robes + Blossom children's loungewear both recalled for burn hazard. Both fail mandatory flammability standards for kids' sleepwear. Stop use now. Check cpsc.gov/Recalls for your model. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Bellabu Bear robes and Blossom loungewear are recalled — burn hazard. Both fail required flammability standards for children's sleepwear. Stop use now and check cpsc.gov/Recalls. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-bellabu-bear-blossom-sleepwear-recall-burn-hazard-2026.html",
+        "headline": "CPSC Recalls Bellabu Bear Robes and Blossom Loungewear: Children's Sleepwear Burn Hazard",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bellabu Bear + Blossom Sleepwear Recalls\n\n#### Image 1A — Social (1200x675)\n**Gemini Prompt:** A flat-lay arrangement of children's sleepwear items — a small soft robe and folded pajama set — on a light cloud-white surface. The items look slightly out of place, as if being set aside. Warm, domestic lighting. Mood: concerned and cautionary. Color palette: soft whites, pale grays, with a subtle warm-amber accent light. Art style: clean lifestyle photography aesthetic. Leave the bottom third of the frame clear for text overlay. No people, no faces, no brand logos.\n\n#### Image 1B — Article Hero (1200x630)\n**Gemini Prompt:** A children's bedroom dresser drawer slightly open, with soft children's clothing folded inside. Scene is domestic and warm but carries a sense of caution — perhaps one item set aside on top of the dresser. Morning light coming through a window. Color palette: light cloud-white, warm tones. Art style: clean, editorial lifestyle photography. Leave the bottom third clear for text overlay. No people, no brand logos.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recall — Dangerous Infant Sleep Products: Joyful Journeys Lounger + Vevor Baby Swing (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Two infant sleep recalls: Joyful Journeys baby loungers (entrapment/fall) and Vevor baby swings (suffocation + inclined sleepers ban violation). Both pose serious injury or death risk. Check cpsc.gov/Recalls. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The inclined sleepers ban exists because babies have died in products exactly like this. Vevor baby swings just joined the recall list — suffocation hazard, violates the ban. If you own one, stop use now. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-joyful-journeys-vevor-infant-sleep-recall-2026.html",
+        "headline": "Two Infant Sleep Product Recalls: Joyful Journeys Baby Lounger and Vevor Baby Swing",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Infant Sleep Product Recalls\n\n#### Image 2A — Social (1200x675)\n**Gemini Prompt:** A clean, minimal nursery scene showing an empty baby bassinet/lounger — no baby present — with the item partially covered as if being set aside. Soft morning light. Color palette: primary teal (#0097A7) accent linens, light cloud-white walls and floor, warm-white lighting. Art style: calm, soft nursery lifestyle aesthetic. Mood: safety and awareness. Leave bottom third clear for text overlay. No people, no brand logos, no copyrighted characters.\n\n#### Image 2B — Article Hero (1200x630)\n**Gemini Prompt:** A wide-angle nursery scene, bright and airy, showing a crib with proper flat sleeping surface in the center. Nearby on the floor, a bouncer/swing sits empty and pushed to the side — representing the concept of setting aside recalled gear. Color palette: teal and white with warm natural light. Art style: editorial lifestyle. Leave bottom third clear. No people, no logos.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "This Weekend in COS — Spring Fling, RV Show, and Family Events Coming Up (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "This weekend in COS (April 10-11): Spring Fling at Pikes Peak Raceway in Fountain + free RV & Travel Show at 3960 Palmer Park Blvd. April 17: free early literacy event for families with deaf/hard-of-hearing kids at CSDB. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cos-family-events-april-spring-fling-rv-show-2026.html",
+        "headline": "COS Family Events: Spring Fling, Free RV Show, and More This April in Colorado Springs",
+        "word_count": 682
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Weekend Family Events\n\n#### Image 3A — Social (1200x675)\n**Gemini Prompt:** A joyful outdoor spring scene in Colorado — a family-style festival setting with colorful vendor tents in the background, green grass, and mountains visible on the horizon. Warm spring sunshine, blue sky with light clouds. Mood: cheerful, community-gathering energy. Color palette: warm coral (#FF6F61) accents against natural greens and blues. Art style: bright lifestyle photography. No people's faces, no brand logos, bottom third clear for text overlay.\n\n#### Image 3B — Article Hero (1200x630)\n**Gemini Prompt:** A wide, bright spring scene — an outdoor event space with large travel trailers/RVs on display under an open tent in the background, Colorado mountain peaks visible on the horizon, blue skies. Families browsing in the distance (too far to see faces). Mood: adventure, possibility, spring planning. Color palette: blue sky, mountain greens, warm coral accent elements. Art style: clean event photography aesthetic. Bottom third clear.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Garden of the Gods Is Getting Something New This Summer (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Garden of the Gods is getting a new addition this summer — water-based, family-friendly, new view of the red rocks. Construction starts this spring, opening before summer 2026. COS families, watch for this. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-garden-of-gods-new-addition-summer-2026.html",
+        "headline": "Garden of the Gods Is Getting a New Family Experience This Summer — Here's What We Know",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Garden of the Gods New Addition\n\n#### Image 4A — Social (1200x675)\n**Gemini Prompt:** An iconic view of dramatic red sandstone rock formations rising against a bright blue Colorado sky — the scene evokes Garden of the Gods with golden-hour light. In the middle distance, a small family (backs to camera, silhouettes only) looks toward the formations. A subtle, abstract water element — like a small clear stream or fountain — in the foreground suggests a new water feature. Mood: wonder, discovery. Color palette: burnt red rocks, vivid blue sky, sage green ground, teal water element. Art style: dramatic landscape photography. Bottom third clear for text overlay.\n\n#### Image 4B — Article Hero (1200x630)\n**Gemini Prompt:** Red rock formations at golden hour, wide horizontal frame. In the foreground, an abstract architectural element — stone pathway, a low modern water feature, subtle signage post — suggests new infrastructure coming to the park. No people. Sky is vivid blue with light clouds. Color palette: reds, deep blues, warm gold light. Art style: editorial landscape photography. Bottom third of frame clear for text.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "COS Spring Allergy Season — What Families Need to Know in April (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "April = peak tree pollen in Colorado Springs. Juniper, oak, cottonwood, pine — all active now. Pollen is highest in the morning. Plan outdoor time for afternoon. Check coloradoent.com for local COS counts. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cos-spring-allergy-season-guide-families-2026.html",
+        "headline": "COS Allergy Season Guide for Families: What's in the Air This April in Colorado Springs",
+        "word_count": 661
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spring Allergy Season\n\n#### Image 5A — Social (1200x675)\n**Gemini Prompt:** A close-up of cottonwood or oak tree branches with small spring buds and pollen-laden catkins against a soft blue Colorado sky. Pollen visible as a subtle golden haze in the light. Mood: gentle but with undertones of seasonal challenge. Color palette: soft greens, golden yellows, pale blue sky. Art style: nature macro photography, slightly soft focus on background. Leave bottom third clear for text overlay. No people, no logos."
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,50 @@
 
 ---
 
+## April 6, 2026
+
+### Story 1: CPSC Recall — Bellabu Bear Children's Robes + Blossom Children's Loungewear (Burn Hazard)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (two children's sleepwear brands recalled for flammability violations; neither covered previously)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Both recalled for burn hazard — fail mandatory flammability standard for children's sleepwear; stop use immediately; check cpsc.gov/Recalls for model numbers and refund instructions
+- **Follow-Up Opportunities:** Children's sleepwear safety guide (evergreen); CPSC flammability standard explainer
+
+### Story 2: CPSC Recall — Joyful Journeys Baby Loungers (Entrapment/Fall) + Vevor Baby Swings by Sanven Technology (Suffocation/Inclined Sleepers Ban)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (two infant sleep product recalls; Vevor swing violates inclined sleepers ban + mandatory sleep product standard — dual violation)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Joyful Journeys baby loungers — entrapment and fall hazard, violates mandatory infant sleep product standard; Vevor baby swings — suffocation hazard, incline exceeds 10 degrees, violates inclined sleepers ban AND mandatory standard; both: serious injury or death risk; check cpsc.gov/Recalls
+- **Follow-Up Opportunities:** Inclined sleepers ban history explainer; safe infant sleep setup guide (evergreen)
+
+### Story 3: COS April Family Events — Spring Fling, Free RV Show, Early Literacy Event April 17
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (new events not covered in prior pipelines)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Spring Fling April 10-11 at Pikes Peak International Raceway in Fountain; COS RV & Travel Show April 10-11 at 3960 Palmer Park Blvd — free admission (noon–7 PM Thu, 10 AM–6 PM Sat); Early Literacy Event for deaf/hard-of-hearing families April 17 1:30–3 PM at CSDB + Bear Creek Nature Center (free, birth–age 8); Mrs. Doubtfire musical April 28-30
+- **Follow-Up Opportunities:** May events calendar; Cañon City Blossom Festival (April 29–May 3); Switchbacks schedule update
+
+### Story 4: Garden of the Gods New Addition Coming Summer 2026 + Starsmore Accessibility Upgrades
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (city announcement not covered previously)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** City announced new water-based, family-friendly experience at Garden of the Gods — targets opening before summer 2026; construction mobilizing spring 2026; city calls it "memorable new addition" offering new vantage point of red rocks; Starsmore Visitor Center: expanded accessible parking, ADA walkways, new plaza, renovated ADA restrooms, improved school group bus parking
+- **Follow-Up Opportunities:** Garden of the Gods Waterline Project opening announcement; Starsmore reopening post-upgrades
+
+### Story 5: COS Spring Allergy Season Guide — Peak Tree Pollen in April
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY (seasonal guide, first of 2026 season)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 3
+- **Key Facts:** April is peak tree pollen season in COS (juniper, oak, cottonwood, pine — peaks March–May); pollen highest morning/midday; warm windy days worsen counts; rain reduces counts; local resource: Colorado ENT & Allergy weekly pollen count (coloradoent.com/for-patients/pollen-count/); grass pollen starts May; elevation 6,035 ft + spring winds = high spread
+- **Follow-Up Opportunities:** Grass pollen season update (May); allergy testing for kids guide (evergreen); COS-specific allergen calendar
+
+---
+
 ## April 4, 2026
 
 ### Story 1: CPSC Recall — Sam's Club Member's Mark Children's Pajama Sets (Burn Hazard)
