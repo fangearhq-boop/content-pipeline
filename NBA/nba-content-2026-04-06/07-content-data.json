@@ -1,0 +1,361 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-06",
+  "compiled_at": "2026-04-06T11:45:51.258463+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 2 — Curry Returns",
+      "type": "Morning recap: game result"
+    },
+    {
+      "time": "9:15 AM",
+      "description": "Story 2 — Curry angle 2",
+      "type": "Bold analysis take"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1 — Flagg 45 pts",
+      "type": "Morning recap"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 1 — Flagg angle 2",
+      "type": "Bold take"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 3 — Jokic History",
+      "type": "Stat deep dive"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 4 — MVP Race",
+      "type": "Analysis / hot take"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5 — Luka Europe",
+      "type": "Injury update"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — West Play-In",
+      "type": "Standings preview"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7 — Tonight's Games",
+      "type": "Game day preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cooper Flagg Scores 45 — Back-to-Back 40-Point Rookie Games, First Since Iverson 1997",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:30 AM, 10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "51 points Thursday. 45 points Saturday.\n\nCooper Flagg just became the first rookie with back-to-back 40-point games since Allen Iverson in 1997. 🔥\n\nHe's 19. He's doing it without Luka. This is HIS team now.\n\n#HoopHeroes #Mavericks",
+          "posting_time": "9:30 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Mavericks"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "45 PTS. 9 AST. 8 REB.\n\nCooper Flagg vs. LeBron James last night — and Flagg won the game. 🏀\n\nFirst rookie since Iverson with back-to-back 40-point games. The Mavs ended their 14-game home losing streak. Everything is different now.\n\n#HoopHeroes #Mavericks #NBA",
+          "posting_time": "9:30 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Mavericks",
+            "#NBA"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:30 AM, 10:00 AM"
+      },
+      "article": {
+        "filename": "article-01-cooper-flagg-45-points-back-to-back-40-rookie-history.html",
+        "headline": "Cooper Flagg Scores 45, Makes Back-to-Back 40-Point Rookie History",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cooper Flagg 45 Points\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Cooper Flagg in a Dallas Mavericks jersey mid-celebration or attacking the basket with intensity. Dark arena background with crowd blur.\n- **Photo Search Terms:**\n  1. \"Cooper Flagg Dallas Mavericks\"\n  2. \"Cooper Flagg Mavericks\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"FLAGG MAKES HISTORY\"\n  - Subtitle (Montserrat, #FFC107 Gold): \"45 PTS · 9 AST · 8 REB\"\n  - Subtext (Montserrat, white): \"Back-to-back 40-point games. First rookie since Iverson.\"\n- **Overlay Bar:** Dark Midnight (#1A1A2E, 45% opacity) bottom third\n- **Composition:** Player fills upper two-thirds; text on dark bar at bottom\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Same search terms, wider crop showing full court or celebration context\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Steph Curry Returns — Warriors Lose Heartbreaker 117-116 to Rockets",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 9:15 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Steph Curry. Off the bench. For the first time in 14 YEARS.\n\n29 points. 5-of-10 from three. In 26 minutes.\n\nWarriors still lost 117-116. Sengun hit the go-ahead with 11 seconds left. 😮\n\n#HoopHeroes #Warriors",
+          "posting_time": "9:00 AM, 9:15 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Warriors"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 2-2",
+          "text": "After 27 games and two months away, Steph Curry came back looking EXACTLY like Steph Curry.\n\n29 points on 5 threes. Warriors still lost by 1.\n\nKD with 31. Sengun with the dagger. The Rockets are READY. 🔥\n\n#HoopHeroes #Rockets #Warriors",
+          "posting_time": "9:00 AM, 9:15 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Rockets",
+            "#Warriors"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 9:15 AM"
+      },
+      "article": {
+        "filename": "article-02-steph-curry-returns-warriors-lose-rockets-117-116.html",
+        "headline": "Curry Returns With 29 Points Off the Bench — Warriors Lose 117-116 Heartbreaker to Rockets",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Steph Curry Returns\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Stephen Curry in Golden State Warriors uniform, ideally in shooting motion or celebratory pose. Signature shooting-star arms-up celebration if available.\n- **Photo Search Terms:**\n  1. \"Stephen Curry Golden State Warriors\"\n  2. \"Steph Curry Warriors\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"HE'S BACK\"\n  - Subtitle (Montserrat, #FF5722 Deep Orange): \"29 PTS · 5-10 3PT · 26 MIN\"\n  - Subtext (Montserrat, white): \"Curry returns after 27 games. Still the best shooter alive.\"\n- **Overlay Bar:** Dark Midnight (#1A1A2E, 45% opacity) bottom third\n\n**Article Hero (1200×630, landscape)**\n- Same search terms, action shot preferred\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Jokic on Pace for Back-to-Back Triple-Double Season Averages — Joins Westbrook in History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nikola Jokić is averaging 27.7 / 13.0 / 10.8 with 6 games left.\n\nOnly one player in NBA history has averaged a triple-double in back-to-back full seasons.\n\nThat player's name is Russell Westbrook. Jokić is about to join him. 👀\n\n#HoopHeroes #Nuggets",
+          "posting_time": "11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Nuggets"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM"
+      },
+      "article": {
+        "filename": "article-03-jokic-back-to-back-triple-double-season-westbrook.html",
+        "headline": "Jokic on the Verge of Joining Westbrook With Back-to-Back Triple-Double Season Averages",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jokic Historic Triple-Double Season\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Nikola Jokic in Denver Nuggets uniform, ideally with ball in hand or directing play — conveys basketball IQ rather than raw athleticism.\n- **Photo Search Terms:**\n  1. \"Nikola Jokic Denver Nuggets\"\n  2. \"Jokic Nuggets\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"HISTORIC AVERAGES\"\n  - Subtitle (Montserrat, #FFC107 Gold): \"27.7 · 13.0 · 10.8\"\n  - Subtext (Montserrat, white): \"Only Westbrook has averaged a triple-double in back-to-back seasons.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "MVP Race Final Stretch — SGA -260, Wembanyama +250 With Six Games Left",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "SGA: -260 MVP favorite. Kia Ladder: Wemby at No. 1.\n\n6 games left. The MVP race is officially NOT over. 👀\n\nSGA is one of the great guards in NBA history. Wemby is doing things nobody has seen at 22.\n\nThis is the best MVP debate in years.\n\n#HoopHeroes #MVP #NBA",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#MVP",
+            "#NBA"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-04-mvp-race-sga-wembanyama-final-six-games.html",
+        "headline": "MVP Race Final Six Games: SGA vs. Wembanyama Comes Down to the Wire",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MVP Race — SGA vs. Wemby\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Split concept — SGA on one side (OKC Thunder, intense expression), Wemby on the other (Spurs, towering frame). Or use single player if split-image isn't available.\n- **Photo Search Terms:**\n  1. \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n  2. \"Victor Wembanyama San Antonio Spurs\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"MVP RACE\"\n  - Subtitle (Montserrat, #FFC107 Gold): \"SGA -260 · WEMBY +250\"\n  - Subtext (Montserrat, white): \"6 games left. Who gets the trophy?\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Luka Doncic Reportedly Flying to Europe for Hamstring Treatment — Playoff Status Uncertain",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Luka Dončić is reportedly flying to Europe for specialized hamstring treatment.\n\nPlayoffs start April 18. That's 12 days. Grade 2 hamstring typically takes 4-8 weeks.\n\nLakers fans are holding their breath. 😬\n\n#HoopHeroes #Lakers",
+          "posting_time": "3:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Lakers"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM"
+      },
+      "article": {
+        "filename": "article-05-luka-doncic-europe-hamstring-treatment-playoffs.html",
+        "headline": "Luka Doncic Reportedly Heads to Europe for Hamstring Treatment With Playoffs 12 Days Away",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Luka Doncic Injury\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Luka Doncic in Lakers purple and gold, ideally a close-up showing focus or intensity. Avoids injury-specific imagery.\n- **Photo Search Terms:**\n  1. \"Luka Doncic Los Angeles Lakers\"\n  2. \"Luka Doncic Lakers\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"LUKA'S PLAYOFF RACE\"\n  - Subtitle (Montserrat, #FF6F61 Coral — injury context): \"Grade 2 Hamstring · 12 Days to April 18\"\n  - Subtext (Montserrat, white): \"Reportedly heading to Europe for specialized treatment.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "West Play-In Bracket Finalized — PHX vs. GSW, POR vs. LAC on April 14",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "WEST PLAY-IN BRACKET IS SET 🔥\n\n7 vs. 8: Phoenix Suns vs. Golden State Warriors\n9 vs. 10: Portland Trail Blazers vs. LA Clippers\n\nSteph Curry just came back. You do NOT want to face the Warriors in a one-game playoff.\n\nApril 14. Prime Video. 🏀\n\n#HoopHeroes #NBA #PlayIn",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#PlayIn"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "West Play-In Bracket\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Stephen Curry shooting or Warriors arena atmosphere shot.\n- **Photo Search Terms:**\n  1. \"Stephen Curry Golden State Warriors\"\n  2. \"Steph Curry Warriors\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"WEST PLAY-IN SET\"\n  - Subtitle (Montserrat, #FFC107 Gold): \"PHX vs. GSW · POR vs. LAC\"\n  - Subtext (Montserrat, white): \"April 14. Prime Video. Curry is back.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Monday NBA Slate — Spurs-76ers Headline Final-Week Action",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "MONDAY NIGHT NBA 🏀\n\nKnicks vs. Hawks — 7 PM ET (East seeding battle)\n76ers at Spurs — 8 PM ET (West seeding on the line)\nNuggets game — 9 PM ET (Jokic triple-double watch)\n\n6 days left in the regular season. Every game matters. 🔥\n\n#HoopHeroes #NBA",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monday Night Games Preview\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** NBA court atmosphere — empty arena or tip-off moment.\n- **Photo Search Terms:**\n  1. \"NBA arena basketball court\"\n  2. \"Knicks Madison Square Garden\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"MONDAY NIGHT NBA\"\n  - Subtitle (Montserrat, #1565C0 Royal Blue): \"Knicks · Spurs · Nuggets\"\n  - Subtext (Montserrat, white): \"6 days left in the regular season.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity"
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

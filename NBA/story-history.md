@@ -2,6 +2,71 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-06
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Cooper Flagg 45 pts, 9 ast, 8 reb vs. Lakers — first rookie back-to-back 40+ games since Iverson 1997; Mavs end 14-game home losing streak; Dallas 134-128 | 1 | FOLLOW-UP (4/5 — Flagg 51-pt game) |
+| 2 | Steph Curry returns off bench (first time in 14 years), 29 pts, 5/10 3PT — Warriors lose 117-116; Sengun go-ahead with 11.1 sec left; KD 31 pts | 1 | FOLLOW-UP (4/5 — return confirmed; game result new) |
+| 3 | Jokic on pace for back-to-back triple-double season avg (27.7/13.0/10.8) — joins Westbrook as only players in NBA history to do this | 2 | FOLLOW-UP (4/5 — Jokic OT duel; historical milestone angle) |
+| 4 | MVP race final 6 games: SGA -260 vs. Wemby +250; Kia Ladder has Wemby at No. 1 (March 27) | 2 | FOLLOW-UP (4/5 — SGA 88/100 votes; odds now tighter) |
+| 5 | Luka reportedly traveling to Europe for hamstring rehab; playoffs April 18, 12 days away; Lakers' title hopes hinge on his return | 2 | FOLLOW-UP (4/5 — out for rest of season; Europe travel new) |
+| 6 | West Play-In finalized: PHX (7) vs. GSW (8), POR (9) vs. LAC (10), April 14 on Prime Video; Curry's return transforms Warriors | 2 | FOLLOW-UP (4/5 — playoff picture; bracket now confirmed) |
+| 7 | Monday NBA slate: NYK vs. ATL (7 PM ET), PHI vs. SA (8 PM ET) — seeding implications; 6 days left in regular season | 3 | FOLLOW-UP (ongoing preview) |
+
+---
+
+### STORY 1: Cooper Flagg Scores 45 — Back-to-Back 40-Point Rookie Games
+- **Tier:** 1
+- **Category:** Individual Performance / Historic Milestone
+- **Key facts:** Dallas Mavericks 134, Los Angeles Lakers 128. Flagg: 45 pts, 9 ast, 8 reb. First rookie with back-to-back 40-pt games since Allen Iverson 1996-97. Mavs end 14-game home losing streak (longest in 32 years). LeBron: 30/15 ast.
+- **Status:** FOLLOW-UP (4/5 — 51-pt game; back-to-back is new milestone)
+- **Follow-Up Opportunities:** Iverson-Flagg rookie comparisons; Mavs playoff run; Flagg's all-time rookie season ranking
+
+### STORY 2: Steph Curry Returns — Warriors Lose 117-116
+- **Tier:** 1
+- **Category:** Injury Return / Game Recap
+- **Key facts:** Rockets 117, Warriors 116. Curry off bench (first time in 14 yrs): 29 pts, 5/10 3PT, 26 min. Sengun go-ahead with 11.1 sec. KD 31. Warriors at No. 8 seed; Play-In vs. PHX April 14.
+- **Status:** FOLLOW-UP (4/5 — confirmed return; actual game result new)
+- **Follow-Up Opportunities:** Warriors Play-In vs. Suns; Curry's conditioning improvement; Rockets playoff preview
+
+### STORY 3: Jokic Back-to-Back Triple-Double Season Average
+- **Tier:** 2
+- **Category:** Stat Milestone
+- **Key facts:** 27.7/13.0/10.8 with 6 games left. Only Westbrook has ever averaged TD in back-to-back full seasons. 32 TDs this season leads NBA. Passed Robertson on all-time list earlier this season.
+- **Status:** FOLLOW-UP (4/5 — Jokic OT duel; statistical milestone angle)
+- **Follow-Up Opportunities:** Westbrook-Jokic comparison; Nuggets playoff preview; Jokic MVP snub narrative
+
+### STORY 4: MVP Race — SGA -260 vs. Wemby +250
+- **Tier:** 2
+- **Category:** MVP Race / Analysis
+- **Key facts:** SGA -260, Wemby +250. Kia Ladder (3/27): Wemby No. 1. SGA: 31.6/6.5/55.3% FG. Season ends April 12.
+- **Status:** FOLLOW-UP (4/5 — SGA 88/100 votes; odds now tighter)
+- **Follow-Up Opportunities:** MVP announcement; voter reactions; OKC vs. SA No. 1 West seed race
+
+### STORY 5: Luka Doncic Heads to Europe for Treatment
+- **Tier:** 2
+- **Category:** Injury / Roster News
+- **Key facts:** Grade 2 left hamstring. Reportedly traveling to Europe for specialized rehab. Playoffs April 18 (12 days). Season stats: 33.5 PPG (NBA-high), 64 games.
+- **Status:** FOLLOW-UP (4/5 — out for rest of season; Europe travel new)
+- **Follow-Up Opportunities:** Luka return timeline updates; Lakers first-round matchup preview; LeBron carries the load
+
+### STORY 6: West Play-In Bracket Confirmed
+- **Tier:** 2
+- **Category:** Standings / Preview
+- **Key facts:** PHX (7) vs. GSW (8); POR (9) vs. LAC (10). April 14-17 on Prime Video. Curry's return transforms Warriors' outlook.
+- **Status:** FOLLOW-UP (4/5 — playoff picture; bracket confirmed)
+- **Follow-Up Opportunities:** GSW Play-In game vs. PHX; potential Warriors first-round matchup
+
+### STORY 7: Monday NBA Slate Preview
+- **Tier:** 3
+- **Category:** Preview / Lookahead
+- **Key facts:** NYK at ATL (7 PM ET), PHI at SA (8 PM ET), DEN game (9 PM ET). Six days left.
+- **Status:** FOLLOW-UP (ongoing)
+- **Follow-Up Opportunities:** Nightly game recaps; seeding lock/clinch stories
+
+---
+
 ## 2026-04-05
 
 | # | Story | Tier | Tag |
