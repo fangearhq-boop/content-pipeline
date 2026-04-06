@@ -426,6 +426,57 @@ def parse_image_concepts(content):
 
 
 # ---------------------------------------------------------------------------
+# Research Notes parser
+# ---------------------------------------------------------------------------
+
+def parse_research_notes(content_folder):
+    """Parse 01-research-notes.md into per-story verified facts.
+
+    Extracts the confidence-tagged facts ([HIGH], [MEDIUM], [LOW]) and source
+    attributions for each story. This research is the foundation for accurate
+    article generation and angle exploration in downstream tools.
+
+    Returns dict: story_num -> {facts: str, sources: str}
+    """
+    result = {}
+    path = os.path.join(content_folder, "01-research-notes.md")
+    content = read_file(path)
+    if not content:
+        return result
+
+    story_pattern = r'^### STORY\s+(\d+):\s*(.+?)(?=^### STORY|\Z)'
+    for m in re.finditer(story_pattern, content, re.MULTILINE | re.DOTALL):
+        story_num = int(m.group(1))
+        body = m.group(2).strip()
+
+        # Split body into facts and sources
+        lines = body.split('\n')
+        fact_lines = []
+        source_lines = []
+        in_sources = False
+
+        for line in lines:
+            stripped = line.strip()
+            if not stripped or stripped == '---':
+                continue
+            if stripped.lower().startswith('source') or stripped.lower().startswith('- source'):
+                in_sources = True
+                source_lines.append(stripped)
+            elif in_sources and not stripped.startswith('- **['):
+                source_lines.append(stripped)
+            else:
+                in_sources = False
+                fact_lines.append(stripped)
+
+        result[story_num] = {
+            'facts': '\n'.join(fact_lines),
+            'sources': '\n'.join(source_lines),
+        }
+
+    return result
+
+
+# ---------------------------------------------------------------------------
 # Fact-Check Log parser
 # ---------------------------------------------------------------------------
 
@@ -512,8 +563,11 @@ def scan_articles(content_folder):
 # ---------------------------------------------------------------------------
 
 def assemble_json(config, date_str, brief_stories, schedule, x_posts,
-                  fb_posts, image_concepts, fact_checks, articles):
+                  fb_posts, image_concepts, fact_checks, articles,
+                  research_notes=None):
     """Assemble all parsed data into the final JSON structure."""
+    if research_notes is None:
+        research_notes = {}
 
     platforms = config.get('platforms', ['x'])
     has_facebook = 'facebook' in platforms
@@ -538,6 +592,7 @@ def assemble_json(config, date_str, brief_stories, schedule, x_posts,
             'article': articles.get(num),
             'image_concepts': image_concepts.get(num),
             'fact_check': fact_checks.get(num),
+            'research': research_notes.get(num),
         }
         stories.append(story)
 
@@ -666,23 +721,31 @@ def main():
     else:
         print(f"  - Image Concepts: none found")
 
-    # 5. Parse fact-check log
+    # 5. Parse research notes (verified facts per story)
+    research_notes = parse_research_notes(content_folder)
+    if research_notes:
+        print(f"  ✓ Research Notes: {len(research_notes)} stories with verified facts")
+    else:
+        print(f"  - Research Notes: none found")
+
+    # 6. Parse fact-check log
     fact_checks = parse_fact_check_log(content_folder)
     if fact_checks:
         print(f"  ✓ Fact-Check: {len(fact_checks)} stories checked")
     else:
         print(f"  - Fact-Check: no log found")
 
-    # 6. Scan articles
+    # 7. Scan articles
     articles = scan_articles(content_folder)
     if articles:
         print(f"  ✓ Articles: {len(articles)} found")
     else:
         print(f"  - Articles: none found")
 
-    # 7. Assemble JSON
+    # 8. Assemble JSON
     data = assemble_json(config, date_str, brief_stories, schedule, x_posts,
-                         fb_posts, image_concepts, fact_checks, articles)
+                         fb_posts, image_concepts, fact_checks, articles,
+                         research_notes)
 
     # 8. Write output
     output_path = os.path.join(content_folder, "07-content-data.json")
