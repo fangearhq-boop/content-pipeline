@@ -2,6 +2,64 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-06
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | FIA April 9 summit — 3 days away; 6 fixes on table; unanimous required; goal before Miami May 3; Hamilton skeptical, Sainz pushing | 1 | FOLLOW-UP (4/5 — 4 days away; 4/4 — agenda confirmed; 4/3 — announced) |
+| 2 | Antonelli 72 pts — youngest F1 championship leader in history (beats Hamilton 2007); 9 ahead of Russell; 5-week break mindset | 1 | FOLLOW-UP (3/29 Japan win; established standings) |
+| 3 | Verstappen / Red Bull: "no miracle turnaround" before Miami — 3-stage plan; VER 9th/12 pts; Hadjar out-qualifying him; exit clause rumors | 1 | FOLLOW-UP (4/5 — 3-stage plan; 4/4 — Mekies no miracle) |
+| 4 | Ferrari Monza test April 22 (16 days) — Macarena wing, ADUO PU, Hamilton new race engineer Cedric Michel-Grosjean | 2 | FOLLOW-UP (4/5 — Monza test confirmed; 4/4 — Hamilton engineer) |
+| 5 | Bearman at 10 penalty points — zero margin Miami; earliest expiry May 23; Haas confirmed he races | 2 | FOLLOW-UP (4/5 — penalty point watch; 4/4 — Bearman ban risk) |
+| 6 | McLaren 10-change Miami upgrade — targeting operating window; NOR 25 pts, PIA 21 pts; won Miami 2024+2025 | 2 | FOLLOW-UP (4/5 — McLaren upgrade; 4/4 — Stella confirms) |
+| 7 | Miami GP preview — Round 4, Sprint format, May 1-3; Cadillac home race; 25 days away | 3 | FOLLOW-UP (ongoing calendar/preview) |
+
+---
+
+### STORY 1: FIA April 9 Summit — 3 Days Away
+- **Tier:** 1
+- **Key facts:** Six fixes: 250→350kW super clipping, 9→7MJ energy, aero zones, 3 others. Unanimous required. Goal: before Miami May 3. Peter Bayer presiding.
+- **Status:** FOLLOW-UP (multiple prior days; 3-day countdown)
+- **Follow-Up:** Summit outcome (April 9); any Miami implementation announced
+
+### STORY 2: Antonelli Youngest F1 Championship Leader
+- **Tier:** 1
+- **Key facts:** 72 pts, 9 ahead of Russell. Breaks Hamilton's 2007 record. MER 135, FER 90, MCL 56, RBR 16.
+- **Status:** FOLLOW-UP (established; 5-week break mindset angle)
+- **Follow-Up:** Miami practice results; how break affects Antonelli's momentum
+
+### STORY 3: Red Bull Miami 3-Stage Fix
+- **Tier:** 1
+- **Key facts:** Mekies: "no miracle before Miami." Stage 1: floor/PU maps. VER 9th/12 pts. RB22 reportedly 10kg overweight.
+- **Status:** FOLLOW-UP (3-stage plan; Miami urgency)
+- **Follow-Up:** Stage 1 results at Miami; Verstappen qualifying position
+
+### STORY 4: Ferrari Monza Test
+- **Tier:** 2
+- **Key facts:** April 22 test. Macarena wing, ADUO PU, revised floor. Hamilton/Leclerc. New engineer Cedric Michel-Grosjean.
+- **Status:** FOLLOW-UP (test confirmed; 16 days countdown)
+- **Follow-Up:** Monza test results; Ferrari Miami pace in practice
+
+### STORY 5: Bearman 10 Penalty Points
+- **Tier:** 2
+- **Key facts:** 10 pts, 2 from auto ban. Expiry May 23. Haas confirmed he races Miami.
+- **Status:** FOLLOW-UP (penalty watch; zero margin)
+- **Follow-Up:** Any Miami incidents; whether Bearman reaches threshold
+
+### STORY 6: McLaren 10-Change Upgrade
+- **Tier:** 2
+- **Key facts:** 10 changes MCL40. Targeting operating window. NOR 25 pts (5th), PIA 21 pts (6th). Won Miami 2024+2025.
+- **Status:** FOLLOW-UP (upgrade confirmed)
+- **Follow-Up:** McLaren Miami practice pace; qualifying performance
+
+### STORY 7: Miami GP Preview
+- **Tier:** 3
+- **Key facts:** May 1-3. Round 4. Sprint format. 5.412km. Previous winners: VER ×2, NOR, PIA.
+- **Status:** FOLLOW-UP (ongoing preview)
+- **Follow-Up:** Daily previews as Miami approaches
+
+---
+
 ## 2026-04-05
 
 | # | Story | Tier | Tag |
