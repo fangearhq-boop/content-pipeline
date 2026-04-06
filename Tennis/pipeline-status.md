@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-05 |
-| Writing | Complete (all steps) | 2026-04-05 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-05 |
-| Compile | Complete (07-content-data.json) | 2026-04-05 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-05 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-05 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-05 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-05 |
+| Research | Complete | 2026-04-06 |
+| Writing | Complete (all steps) | 2026-04-06 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-06 |
+| Compile | Complete (07-content-data.json) | 2026-04-06 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-06 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-06 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-06 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-06 |
 
 ## Queue
 
@@ -24,6 +24,40 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-06 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 2 Tier 2, 1 Tier 3)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-06.xlsx (8 posts), tfr-postplanner-tobi-2026-04-06.xlsx (8 TOBI posts)
+- **Coverage:** Pegula wins Charleston 6-2,6-2 (back-to-back champ, first since Serena 2013, 11th title); Jodar (19) wins Marrakech 6-3,6-2 over Trungelliti (36) — first title, youngest Marrakech champion, 5th-largest age gap ATP final since 1990; Navone wins Bucharest 6-2,4-6,7-5 — first title, trailed 1-3 in 3rd; Monte Carlo Day 1 (Monfils record win, Humbert earns Sinner R2 test, Rublev/Norrie advance, Sinner doubles win); Swiatek hires Francisco Roig (Nadal's coach 2005–2022, trained at Rafa Nadal Academy, targets Stuttgart April 13)
+- **Research:** Web search via research agent; Charleston from WTA Official + multiple wires; Marrakech from ATP Tour official; Bucharest from ATP Tour + OASport.it; Monte Carlo from ATP Tour official article + video + Olympics.com; Swiatek/Roig from WTA Official + Sky Sports + Tennis.com
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 18 claims extracted; image warnings expected (production not started)
+  - compile-content-data.py: "Fact-Check no log found" and "no posting window" notes are cosmetic; all content compiled successfully; 8 X posts, 5 articles
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as all previous runs)
+  - WordPress publish failed: proxy blocks fanrumor.com (host_not_allowed) — same env restriction as all prior runs
+  - Rublev score not confirmed in sources (only ATP video title "see-saw battle") — tagged MEDIUM confidence in research notes, excluded specific score from article
+  - Key facts (HIGH confidence): Pegula 6-2,6-2 in 82 min (WTA Official); back-to-back since Serena 2013 (WTA records); Jodar 6-3,6-2 in 69 min (ATP Official); youngest Marrakech champion (ATP Official); Navone 6-2,4-6,7-5 in 2h17m (ATP Official); Monfils 6-7(7),6-1,6-4 (ATP article); Humbert 6-3,7-5 vs. Kouame (ATP article); Sinner/Bergs 6-4,7-5 doubles (ATP Official); Swiatek/Roig hire (WTA Official)
+- **Files created:**
+  - `tennis-content-2026-04-06/00-daily-brief.md`
+  - `tennis-content-2026-04-06/01-research-notes.md`
+  - `tennis-content-2026-04-06/02-story-analysis.md`
+  - `tennis-content-2026-04-06/03-social-posts-x.md`
+  - `tennis-content-2026-04-06/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-06/05-image-concepts.md`
+  - `tennis-content-2026-04-06/06-fact-check-log.md`
+  - `tennis-content-2026-04-06/07-content-data.json`
+  - `tennis-content-2026-04-06/07-image-manifest.md`
+  - `tennis-content-2026-04-06/review-dashboard.html`
+  - `tennis-content-2026-04-06/articles/article-01-pegula-wins-charleston-back-to-back-2026.html`
+  - `tennis-content-2026-04-06/articles/article-02-jodar-wins-marrakech-first-atp-title-2026.html`
+  - `tennis-content-2026-04-06/articles/article-03-navone-wins-bucharest-first-atp-title-2026.html`
+  - `tennis-content-2026-04-06/articles/article-04-monte-carlo-day-1-monfils-humbert-sinner-2026.html`
+  - `tennis-content-2026-04-06/articles/article-05-swiatek-hires-roig-nadal-coach-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-06.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-06.xlsx`
 
 ### 2026-04-05 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
