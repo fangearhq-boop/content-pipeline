@@ -3,7 +3,32 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-05)
+## Current Pipeline (2026-04-06)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-06 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-04-06 |
+| Fact-check | Complete (verify-facts.py — 35 claims; no char violations) | 2026-04-06 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-06 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-04-06 |
+| Dashboard | Published to GitHub Pages | 2026-04-06 |
+| Published | Attempted — blocked by egress proxy (403 Forbidden) | 2026-04-06 |
+| Git | Committed and pushed to main | 2026-04-06 |
+
+## Notes (2026-04-06)
+- 7 stories: Masters 3-day preview (T1), Spaun wins Valero (T1), McIlroy defense back injury (T1), DeChambeau LIV wins + odds (T2), Coughlin wins LPGA Aramco (T2), Tiger won't play Augusta (T2), Masters by the numbers (T3)
+- Masters begins April 9 (3 days away). 91 players. $21M purse. 90th edition. Amazon Prime debut.
+- Scheffler World No. 1, +500 favorite. Son Remy born March 27 (9 days old), at Augusta.
+- McIlroy defending (2025 Grand Slam win). Back injury. 3-week layoff. Odds +1000-+1200, trending down.
+- DeChambeau: back-to-back LIV wins (Singapore + South Africa over Rahm). Odds +1000, trending up.
+- Spaun wins Valero by 1 stroke. T2: Wallace/Kim/MacIntyre. Fowler missed cut — no Masters.
+- Coughlin wire-to-wire LPGA Aramco, 5-shot win. T2: Korda + Maguire. 3rd LPGA title, first U.S. win.
+- Tiger absent 2nd straight year. Car crash March 27, DUI charges, stepped away for treatment.
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- WordPress publish: blocked by egress proxy (403 Forbidden) — known ongoing issue
+
+## Previous Pipeline (2026-04-05)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
