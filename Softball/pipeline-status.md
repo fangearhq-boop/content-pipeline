@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-07
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (web search via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (87 claims, 0 char violations), compile, dashboard, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish attempted (see Issues).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, same as all prior sessions). publish-unified-dashboard.py 403 (PAT, known) — used publish-dashboard.py. IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue).
+
+## Previous Run
 - **Date**: 2026-04-06
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (97 claims, 0 char violations), compile, dashboard, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish attempted (see Issues).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -65,6 +72,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-07
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 87 claims. 0 char-limit violations. IMAGE MISSING expected (not_started).
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-04-07.xlsx (9 posts), ils-postplanner-tobi-2026-04-07.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Alabama No. 1 Softball America Week 10 first time in 2026 after Texas series loss — poll (P10); Red River Rivalry Texas vs OU April 10-12 McCombs ESPN2/ESPN Wells at 30 HR (P10); Wells no games April 5-7 still at 30 Red River next stage for record No. 31 (P8); FSU 24-game streak heads to Stanford road trip April 10 (P7); Softball America Week 10 full breakdown Nebraska No. 5 North Alabama debut No. 18 (P7); North Alabama 27-8 10-2 Atlantic Sun historic poll debut (P6); week preview RRR + Stanford (P5)
+- Notes: Detached HEAD resolved with checkout main + pull. 0 tweet char violations. Git pulled 52 commits from other niche pipelines.
 
 ### 2026-04-06
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)

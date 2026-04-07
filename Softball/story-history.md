@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 7, 2026
+
+### Story 1: Alabama Takes the Throne — Softball America Week 10 Crowns New No. 1
+- **Angle:** NEW STORY (poll results). Alabama No. 1 in Softball America Week 10 for the first time in 2026, following their series win over Texas. Texas Tech No. 2 (34-2), Oklahoma No. 3 (38-3), Texas falls to No. 4. Nebraska surges to No. 5. FSU No. 6 (35-4, 12-0 ACC). NFCA Coaches Poll also drops today at 10 AM ET.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** NFCA Week 9 poll actual results, Red River Rivalry impact on rankings
+
+### Story 2: Red River Rivalry — Three Days Away, Texas vs. Oklahoma April 10-12
+- **Angle:** FOLLOW-UP (deeper angle). Texas (32-4, 9-3 SEC) hosts Oklahoma (38-3, 11-1 SEC) at McCombs Field. Game 1 Friday April 10, 6 PM CT ESPN2; Game 2 Saturday April 11, 7 PM CT ESPN; Game 3 Sunday ESPN. Texas wounded after Alabama series loss. Oklahoma riding high with Wells at 30 HRs. WCWS seeding on the line.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Series result, Wells record, WCWS seeding impact
+
+### Story 3: Kendall Wells — No Games, Waiting for Red River
+- **Angle:** FOLLOW-UP. No OU games April 5-7 — Wells stays at 30 HRs (tied NCAA freshman record). Red River Rivalry is the stage for No. 31. Context: reached 30 in 22 fewer games than any previous record holder. Stats: .383 BA, 60+ RBIs.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** HR No. 31 at Red River Rivalry
+
+### Story 4: FSU 24-Game Streak Heads West — Stanford Series Begins April 10
+- **Angle:** FOLLOW-UP / NEW DEVELOPMENT. FSU (35-4, 12-0 ACC) travels to face Santa Clara and No. 24 Stanford starting April 10. First major road trip west of the season. During streak: .396 BA, 9.08 R/game, 116 walks vs. 44 Ks.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Stanford series result, streak continuation
+
+### Story 5: Softball America Week 10 Full Rankings Breakdown
+- **Angle:** NEW STORY (full poll analysis). Full top 10: Alabama, Texas Tech, Oklahoma, Texas, Nebraska, FSU, Arkansas, Florida, UCLA, Tennessee. New entrants: Kansas, Louisville, SE Louisiana. North Alabama debuts at No. 18 (27-8, 10-2 Atlantic Sun Gold Division leaders).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** NFCA poll confirmation, rankings after Red River Rivalry
+
+### Story 6: North Alabama Makes the Polls — Atlantic Sun Mid-Major Historic Debut
+- **Angle:** NEW STORY. UNA 27-8, 10-2 in Atlantic Sun Gold Division. No. 18 Softball America (debut), No. 22 D1Softball. First major poll appearance in program history.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** UNA postseason bid potential
+
+### Story 7: This Week in College Softball — Red River, Stanford, NFCA Poll
+- **Angle:** EVERGREEN. Week preview: Red River Rivalry April 10-12 ESPN2/ESPN, FSU at Stanford April 10, NFCA Week 9 poll results drop today.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** All weekend results
+
+---
+
 ## April 6, 2026
 
 ### Story 1: NFCA Week 9 Poll Preview — Alabama Poised to Rise, Texas to Fall
