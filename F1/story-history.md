@@ -2,6 +2,69 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-07
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Verstappen calls 2026 formula "terrible" and "fundamentally flawed"; Red Bull reportedly discussing abandoning RB22; sabbatical being discussed; exit clause details public | 1 | FOLLOW-UP (4/6 — exit clause rumors; RB22 abandonment + details new) |
+| 2 | FIA April 9 summit 2 days away; unanimous vote required; 6 fixes: super clipping 250→350kW, energy 9→6MJ, remove zones; goal before Miami May 3 | 1 | FOLLOW-UP (4/6 — 3 days; urgency peaks at 2 days) |
+| 3 | Antonelli first Italian back-to-back F1 winner since Ascari 1953 (73 years); youngest championship leader ever; 72 pts / 9 ahead of Russell | 1 | FOLLOW-UP (4/6 — youngest leader; Ascari comparison newly highlighted) |
+| 4 | Verstappen confirmed for Nurburgring GT3 qualifiers April 18-19; Mercedes-AMG GT3 in Red Bull livery; "Verstappen Racing" car #3; partners Juncadella/Gounon/Auer | 2 | NEW STORY |
+| 5 | Ferrari ADUO PU cleared by FIA for Canadian GP; estimated 20-30bhp behind Mercedes; Monza test April 22 with Hamilton/Leclerc; Canadian GP timeline new | 2 | FOLLOW-UP (4/6 — Monza test; Canadian GP timeline + 20-30bhp detail new) |
+| 6 | Bearman at 10 penalty points; earliest expiry May 23 (after Miami); zero margin; Haas confirmed he races Miami | 2 | FOLLOW-UP (4/6 — penalty watch ongoing) |
+| 7 | Miami GP preview — Round 4, Sprint format, May 1-3, 25 days away | 3 | FOLLOW-UP (ongoing) |
+
+---
+
+### STORY 1: Verstappen Retirement/Sabbatical Speculation — RB22 Abandonment Talks
+- **Tier:** 1
+- **Category:** Driver News / Team Crisis
+- **Key facts:** Verstappen: "terrible," "fundamentally flawed." Red Bull reportedly discussing abandoning RB22. Contract exit clause details public (though Marko said modified). Sabbatical being discussed. At "beginning of the period" deciding his future.
+- **Status:** FOLLOW-UP (4/6 — rumors; now confirmed details and escalation)
+- **Follow-Up:** Summit outcome and whether rule fixes change Verstappen's calculus
+
+### STORY 2: FIA April 9 Summit — 2 Days Away
+- **Tier:** 1
+- **Category:** Regulation / Safety
+- **Key facts:** April 9, unanimous vote. Six fixes: 250→350kW super clipping, 9→6MJ energy, no zones. Goal before Miami. Peter Bayer presiding.
+- **Status:** FOLLOW-UP (4/6 — 3 days; now 2 days peak urgency)
+- **Follow-Up:** Summit outcome April 9; which changes pass; Miami implementation
+
+### STORY 3: Antonelli — First Italian Back-to-Back F1 Winner Since Ascari 1953
+- **Tier:** 1
+- **Category:** Championship / Historic
+- **Key facts:** First Italian back-to-back F1 wins since Ascari 1953 (73 years). Youngest championship leader in F1 history. 72 pts, 9 ahead of Russell. Breaks Hamilton's 2007 record.
+- **Status:** FOLLOW-UP (4/6 — youngest leader; Ascari angle newly highlighted)
+- **Follow-Up:** Miami championship standings; does the break affect his momentum?
+
+### STORY 4: Verstappen GT3 — Nurburgring April 18-19
+- **Tier:** 2
+- **Category:** Driver News / Off-Track
+- **Key facts:** Mercedes-AMG GT3 in Red Bull livery. "Verstappen Racing" car #3. Partners: Juncadella, Gounon, Auer. Qualifiers April 18-19 (four-hour races). Main 24h race May 14-17.
+- **Status:** NEW STORY
+- **Follow-Up:** Nurburgring qualifying results; whether he races main 24h event
+
+### STORY 5: Ferrari ADUO PU — Canadian GP Debut
+- **Tier:** 2
+- **Category:** Technical / Team News
+- **Key facts:** FIA cleared ADUO PU from Canadian GP. 20-30bhp gap to Mercedes. Monza test April 22. Hamilton/Leclerc share duties. Revised ICE, slightly larger batteries.
+- **Status:** FOLLOW-UP (4/6 — Monza test; Canadian GP timeline new)
+- **Follow-Up:** Monza test results April 22; Miami upgrade impact
+
+### STORY 6: Bearman — Zero Margin, 10 Points
+- **Tier:** 2
+- **Category:** Driver News
+- **Key facts:** 10 points, 2 from ban. Earliest expiry May 23. Haas confirmed Miami.
+- **Status:** FOLLOW-UP (ongoing)
+
+### STORY 7: Miami Preview
+- **Tier:** 3
+- **Category:** Preview / Calendar
+- **Key facts:** May 1-3, Round 4, Sprint. 25 days away.
+- **Status:** FOLLOW-UP (ongoing)
+
+---
+
 ## 2026-04-06
 
 | # | Story | Tier | Tag |

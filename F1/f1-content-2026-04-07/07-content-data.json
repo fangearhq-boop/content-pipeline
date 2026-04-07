@@ -1,0 +1,390 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-07",
+  "compiled_at": "2026-04-07T11:25:09.208135+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 3 — Antonelli/Ascari",
+      "type": "Historic angle"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 — FIA Summit 2 Days",
+      "type": "Countdown/preview"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 1 — Verstappen Exit",
+      "type": "Breaking analysis"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 1 — RB22 abandonment",
+      "type": "Bold take"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 4 — Verstappen GT3",
+      "type": "Off-track news"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 — Ferrari ADUO",
+      "type": "Technical deep dive"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 6 — Bearman watch",
+      "type": "Driver update"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7 — Miami preview",
+      "type": "Calendar/preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Retirement/Sabbatical Speculation Intensifies — Contract Clause Details Revealed",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM, 12:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Max Verstappen has called the 2026 F1 formula \"terrible\" and \"fundamentally flawed.\"\n\nReports say Red Bull is discussing ABANDONING the RB22 entirely.\n\nAnd a sabbatical is being discussed. At 28. One of the greatest ever.\n\n#F1Fanrecap #F1 #Verstappen",
+          "posting_time": "12:00 PM, 12:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Verstappen's contract reportedly has an exit clause.\n\nHe's been out-qualified by his rookie teammate. He hates the rules.\n\nThe 4-time world champion is at the \"beginning of the period\" that decides his future.\n\nThis is not a drill. 👀\n\n#F1Fanrecap #F1",
+          "posting_time": "12:00 PM, 12:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM, 12:30 PM"
+      },
+      "article": {
+        "filename": "article-01-verstappen-sabbatical-rb22-abandonment-exit-clause.html",
+        "headline": "Verstappen Retirement Speculation Grows as Red Bull Reportedly Debates Scrapping the RB22",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Retirement/Sabbatical Speculation\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Max Verstappen in helmet or Red Bull uniform, ideally conveying frustration or contemplation.\n- **Photo Search Terms:**\n  1. \"Max Verstappen Red Bull\"\n  2. \"Verstappen Red Bull Racing\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"AT A CROSSROADS\"\n  - Subtitle (Montserrat, #FF5722): \"'TERRIBLE.' 'FUNDAMENTALLY FLAWED.'\"\n  - Subtext (Montserrat, white): \"Verstappen's future — and Red Bull's car — in question.\"\n- **Overlay Bar:** Dark Midnight (#1A1A2E, 45% opacity) bottom third\n\n**Article Hero (1200×630, landscape)**\n- Same search terms, wider crop — helmet or cockpit shot preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen / Red Bull Crisis\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Verstappen called 2026 formula \"terrible\" and \"fundamentally flawed\" | HIGH | ESPN, GPFans |\n| Reports of Red Bull discussing abandoning RB22 | MEDIUM | F1 Oversteer |\n| Verstappen contract exit clause details now public | MEDIUM | Sportbible, Newsweek, Sportsnaut |\n| Exit clause: if not at least 2nd by end of July, can terminate | MEDIUM | Multiple outlets (but Marko said changed/removed) |\n| Verstappen at \"beginning of the period\" deciding his future | HIGH | GPFans |\n| Sabbatical being discussed | MEDIUM | GPFans, Sportbible |\n| Hadjar has out-qualified Verstappen multiple times | HIGH | Prior pipeline (established) |\nNOTE: Exit clause status is contested — Marko said it was changed/removed. Use \"reportedly\" qualifier. RB22 abandonment is MEDIUM — from F1 Oversteer. The sabbatical angle is MEDIUM. Use careful language throughout.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "FIA April 9 Summit — Two Days Away, Unanimous Agreement Required",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The FIA's emergency summit on 2026 F1 rules is TWO DAYS AWAY.\n\n6 proposed fixes. Unanimous agreement needed. Goal: implement before Miami.\n\nSuper clipping. Energy limits. No more aero zones.\n\nCan they agree? The whole sport is watching. 👀\n\n#F1Fanrecap #F1",
+          "posting_time": "10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 2-2",
+          "text": "April 9. FIA summit. Every F1 team and PU maker at the table.\n\nThey need ALL 10 teams to agree. All 10.\n\nIf they don't? Miami gets the same energy chaos that crashed Bearman at 50G in Japan.\n\nNo pressure. 😬\n\n#F1Fanrecap #F1",
+          "posting_time": "10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM"
+      },
+      "article": {
+        "filename": "article-02-fia-april-9-summit-unanimous-vote-six-fixes.html",
+        "headline": "Two Days to Fix F1: Inside the April 9 Summit That Could Save the 2026 Season",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FIA April 9 Summit\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** F1 car in pit lane or under scrutineering — technical/official atmosphere.\n- **Photo Search Terms:**\n  1. \"Formula 1 pit lane 2026\"\n  2. \"F1 car pit lane\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"2 DAYS\"\n  - Subtitle (Montserrat, #FFC107 Gold): \"6 FIXES. 10 TEAMS. ALL UNANIMOUS.\"\n  - Subtext (Montserrat, white): \"The FIA summit that could save the 2026 season.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FIA April 9 Summit\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Summit is April 9, 2 days away | HIGH | Multiple outlets |\n| Unanimous team agreement required | HIGH | Multiple outlets |\n| Six fixes on table | HIGH | The Race, Scuderia Fans, Sportsnaut |\n| Super clipping: 250kW→350kW proposed | HIGH | Multiple outlets |\n| Energy limit: 9MJ→6MJ proposed (new detail, earlier said 7MJ) | MEDIUM | Formula 1 (sportsnaut), Scuderia Fans |\n| Remove aero zones entirely proposed | HIGH | Multiple outlets |\n| Goal: implement before Miami May 3 | HIGH | Multiple outlets |\n| Peter Bayer presiding | HIGH | Prior pipeline |\n| Bearman 50G crash triggered by energy disparity | HIGH | Multiple outlets |\nNOTE: Energy limit figure varies: some sources say 9→7MJ, others say 9→6MJ. Use \"as low as 6MJ per lap\" or \"6-7MJ per lap\" to be accurate.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli First Italian Back-to-Back F1 Winner Since Ascari 1953",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Kimi Antonelli became the first Italian to win back-to-back F1 races since Alberto Ascari in 1953.\n\nThat's 73 years.\n\nHe's 19. He leads the championship. He broke Hamilton's record as the youngest title leader.\n\nItalian motorsport is having a moment. 🇮🇹\n\n#F1Fanrecap #F1",
+          "posting_time": "8:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Antonelli: youngest F1 championship leader in history.\n\n73 points. 9 ahead of Russell. Only Italian back-to-back winner since Ascari.\n\nAnd we have FIVE WEEKS before the next race. \n\nHow does a 19-year-old carry that pressure? 👀\n\n#F1Fanrecap #F1",
+          "posting_time": "8:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM"
+      },
+      "article": {
+        "filename": "article-03-antonelli-ascari-first-italian-back-to-back-f1-winner.html",
+        "headline": "Antonelli Joins Ascari: First Italian Back-to-Back F1 Winner in 73 Years",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli / Ascari Historic Comparison\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Kimi Antonelli in Mercedes uniform, ideally celebrating or in cockpit.\n- **Photo Search Terms:**\n  1. \"Kimi Antonelli Mercedes\"\n  2. \"Antonelli Mercedes F1\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"STORIA ITALIANA\"\n  - Subtitle (Montserrat, #00D2BE Mercedes Teal): \"FIRST SINCE ASCARI 1953\"\n  - Subtext (Montserrat, white): \"Antonelli wins back-to-back. History made. 73 years later.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli / Ascari Historic Comparison\n| Fact | Confidence | Source |\n|------|------------|--------|\n| First Italian back-to-back F1 race winner since Ascari 1953 | HIGH | Formula1.com (\"Weird stats\"), f1oversteer.com |\n| 73 years since Ascari achieved this | HIGH | Calculable from 1953 to 2026 |\n| Antonelli youngest championship leader ever at 19 y/o | HIGH | Formula1.com, Sky Sports, Yahoo Sports |\n| Breaks Lewis Hamilton's 2007 record | HIGH | Formula1.com, Al Jazeera |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen to Race GT3 at Nurburgring Qualifiers April 18-19 During F1 Break",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "While F1 takes a 5-week break, Max Verstappen is NOT resting.\n\nHe'll race a Mercedes-AMG GT3 in Red Bull livery at the Nurburgring qualifiers on April 18-19.\n\nCar number 3. \"Verstappen Racing\" banner.\n\nThe man just cannot stop. 🏎️\n\n#F1Fanrecap #F1 #Verstappen",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM"
+      },
+      "article": {
+        "filename": "article-04-verstappen-nurburgring-gt3-qualifiers-april-break.html",
+        "headline": "Verstappen Racing GT3 at Nurburgring April 18-19 During F1's Five-Week Break",
+        "word_count": 467
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen GT3 Nurburgring\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Verstappen in a GT3 car or Nurburgring setting (if available).\n- **Photo Search Terms:**\n  1. \"Max Verstappen racing\"\n  2. \"Verstappen GT3\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"CAN'T STOP RACING\"\n  - Subtitle (Montserrat, #3671C6 Red Bull Blue): \"NURBURGRING · APRIL 18-19\"\n  - Subtext (Montserrat, white): \"Verstappen's GT3 qualifying run during F1's April break.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen GT3 Nurburgring\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Verstappen racing Nurburgring 24h qualifiers April 18-19 | HIGH | Motorsport.com, Red Bull, GPFans |\n| Car: Mercedes-AMG GT3 in Red Bull livery | HIGH | Red Bull, GPFans |\n| Car number 3 | HIGH | Red Bull |\n| \"Verstappen Racing\" banner | HIGH | GPFans |\n| Teammates: Juncadella, Gounon, Auer | HIGH | GPFans |\n| 24h race: May 14-17 | HIGH | GPFans |\n| Previously disqualified at NLS event | HIGH | GPFans |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Ferrari ADUO Power Unit Cleared for Canadian GP — Closing the 20-30bhp Gap",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ferrari has been cleared by the FIA to introduce its ADUO power unit upgrade from the Canadian GP.\n\nThe gap to Mercedes: an estimated 20-30bhp.\n\nMonza test April 22. Hamilton and Leclerc driving.\n\nThe Ferrari comeback bid starts here. 🔴\n\n#F1Fanrecap #Ferrari #F1",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Ferrari",
+            "#F1"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": {
+        "filename": "article-05-ferrari-aduo-power-unit-cleared-canadian-gp.html",
+        "headline": "Ferrari ADUO Power Unit Cleared for Canadian GP — Closing the Gap to Mercedes",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari ADUO PU\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Ferrari SF-26 on track or Lewis Hamilton / Charles Leclerc in Ferrari uniform.\n- **Photo Search Terms:**\n  1. \"Charles Leclerc Ferrari\"\n  2. \"Lewis Hamilton Ferrari\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"ADUO APPROVED\"\n  - Subtitle (Montserrat, #DC0000 Ferrari Red): \"CLOSING THE GAP\"\n  - Subtext (Montserrat, white): \"Ferrari's PU upgrade cleared from Canadian GP. 20-30bhp to close.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari ADUO PU\n| Fact | Confidence | Source |\n|------|------------|--------|\n| FIA cleared Ferrari for ADUO PU update from Canadian GP | HIGH | Read Motorsport, Scuderia Fans |\n| Ferrari PU estimated 20-30bhp behind Mercedes | MEDIUM | GPFans, The Race (\"~20bhp\" in prior pipeline) |\n| Monza test April 22 | HIGH | GPFans, The Judge 13, Scuderia Fans |\n| Hamilton and Leclerc share driving | HIGH | Scuderia Fans |\n| Revised floor, 'Macarena' wing, PU software | HIGH | Multiple outlets (prior pipeline also HIGH) |\n| Slightly larger batteries as part of ICE update | MEDIUM | Read Motorsport |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Bearman Penalty Point Watch — Miami Is His Zero-Margin Race",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Oliver Bearman enters Miami with 10 penalty points.\n\nTwo more = automatic one-race ban.\n\nThe earliest his points expire: May 23 — AFTER Miami.\n\nOne incident. That's all it takes.\n\n#F1Fanrecap #F1 #Haas",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Haas"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bearman Penalty Watch\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Oliver Bearman in Haas uniform.\n- **Photo Search Terms:**\n  1. \"Oliver Bearman Haas\"\n  2. \"Bearman Haas F1\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"10/12 PENALTY POINTS\"\n  - Subtitle (Montserrat, #FF5722): \"ZERO MARGIN IN MIAMI\"\n  - Subtext (Montserrat, white): \"One incident could trigger an automatic ban.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Miami GP Preview — Sprint Format, 25 Days Away",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "MIAMI GRAND PRIX 🏁\n\nMay 1-3. Round 4. Sprint format.\n\n25 days away. Every major team is bringing upgrades.\n\nMcLaren won it in 2024 AND 2025. Can anyone stop them? 👀\n\n#F1Fanrecap #MiamiGP #F1",
+          "posting_time": "8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP",
+            "#F1"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Miami GP Preview\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Miami GP circuit or F1 car in Miami environment.\n- **Photo Search Terms:**\n  1. \"Miami Grand Prix F1\"\n  2. \"Formula 1 Miami\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"MIAMI GP\"\n  - Subtitle (Montserrat, #FFC107 Gold): \"25 DAYS AWAY\"\n  - Subtext (Montserrat, white): \"Sprint format. Major upgrades. May 1-3.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

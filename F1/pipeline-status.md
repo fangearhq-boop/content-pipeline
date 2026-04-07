@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-05
+- **Date**: 2026-04-07
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-07
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-07.xlsx (10 posts) + f1fr-postplanner-tobi-2026-04-07.xlsx (10 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-07/review-dashboard.html (29 items)
+- **Notes:** Verstappen retirement/sabbatical speculation intensifies — calls formula "terrible," Red Bull reportedly discussing abandoning RB22, exit clause details now public. FIA April 9 summit 2 days away — unanimous vote needed on 6 fixes. Antonelli first Italian back-to-back F1 winner since Ascari 1953 (73 years), youngest-ever championship leader. Verstappen confirmed Nurburgring GT3 qualifiers April 18-19 (Mercedes-AMG GT3, Red Bull livery, Verstappen Racing #3). Ferrari ADUO PU cleared by FIA for Canadian GP — 20-30bhp gap, Monza test April 22 with Hamilton/Leclerc.
+- **Fact concerns:** RB22 abandonment talks MEDIUM (F1 Oversteer only). Verstappen exit clause MEDIUM — Marko said changed/removed; used with "reportedly" qualifier. Energy limit 9→6MJ MEDIUM (some sources say 7MJ — used "as low as 6MJ" language). All championship standings HIGH from Formula1.com. Antonelli/Ascari milestone HIGH from Formula1.com and f1oversteer.
+- **WordPress publish:** Attempted — blocked by egress proxy
 
 ### 2026-04-05
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
