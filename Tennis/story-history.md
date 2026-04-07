@@ -6,6 +6,12 @@ Track previously covered stories to avoid repetition and maintain content freshn
 
 | Date | Story | Tier | Platforms | Notes |
 |------|-------|------|-----------|-------|
+| 2026-04-07 | Sinner def. Humbert 6-3, 6-0 — Monte Carlo R2; revenge for 2025 R1 loss; Cerundolo next | T1 | X, FB, Article | 6-0 second set; Sinner 0 pts to defend; career MC record 10-4 |
+| 2026-04-07 | Cerundolo def. Tsitsipas 7-5, 6-4 — first MC R1 loss in 8 appearances; Tsitsipas falls outside Top 60 | T1 | X, FB, Article | Cerundolo 15th win of 2026; faces Sinner in R3 |
+| 2026-04-07 | Wawrinka loses Monte Carlo farewell 7-5, 7-5 to Baez — retiring at end of 2026 | T1 | X, FB, Article | Won MC 2014 vs Federer; "hopefully I can win a few matches this year" |
+| 2026-04-07 | Tommy Paul wins Houston 6-1, 3-6, 7-5 — first clay title; saved 3 championship points when trailed 3-5 | T1 | X, FB, Article | 5th ATP title; saved 9/12 BPs; def. qualifier Burruchaga in 2h42m |
+| 2026-04-07 | Monte Carlo Day 2 — Alcaraz opens title defense vs. Baez; Fonseca "I was born on clay" debut win | T2 | X, FB, Article | Alcaraz defending 1,000 pts; Blockx also won debut; Sinner already through |
+| 2026-04-07 | Bouzkova wins Bogota 6-7(7), 6-2, 6-2 — 3rd career WTA title; Stuttgart Top 4 preview | T3 | X, FB, Article | Def. Udvardy; Stuttgart April 13-19; Sabalenka/Swiatek/Rybakina/Gauff all entered |
 | 2026-03-20 | Linette d. Swiatek 1-6, 7-5, 6-3 — ends 73-match opening win streak | T1 | X | Major upset, Miami Open R2 |
 | 2026-03-20 | Kouame (17) d. Svajda 5-7, 6-4, 6-4 — youngest Masters 1000 winner since Nadal 2003 | T1 | X | First player born 2009+ to win ATP match |
 | 2026-03-20 | Fonseca d. Marozsan 6-4, 3-6, 6-2 — sets up Alcaraz R2 clash | T2 | X | Preview angle for Friday night match |

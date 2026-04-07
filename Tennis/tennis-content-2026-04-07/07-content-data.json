@@ -1,0 +1,342 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-07",
+  "compiled_at": "2026-04-07T12:16:10.334097+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sinner Destroys Humbert 6-3, 6-0 at Monte Carlo — Clay Season Statement",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jannik Sinner at Monte Carlo: 6-3, 6-0.\n\nThat's a 6-0 second set in his first match of clay season. Humbert, who beat him here last year, barely got a look.\n\nNext up: Cerundolo, who just stunned Tsitsipas.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Sinner is playing for free at Monte Carlo — zero points to defend from 2025.\n\nEvery win is pure gain in the No. 1 race vs. Alcaraz (defending 1,000 pts here).\n\nStep 1 done: Humbert 6-3, 6-0.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-sinner-humbert-monte-carlo-6-0-2026.html",
+        "headline": "Sinner Drops Just Three Games Against Humbert at Monte Carlo in Clay-Season Opener",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner def. Humbert 6-3, 6-0 — Monte Carlo R2\n**Sources:**\n- Sky Sport Italy: \"Sinner agli ottavi all'Atp Monte-Carlo: Humbert battuto 6-3, 6-0\" (headline confirmed score)\n- Eurosport IT: confirmed 6-3, 6-0 result\n- ATP Tour (multiple articles): bracket, scheduling, Sinner career stats\n- Olympics.com: Monte Carlo 2026 full results page\n**Verified facts:**\n- Sinner def. Humbert 6-3, 6-0 — **HIGH**\n- Match played April 7 on Court Rainier III — **HIGH** (ATP scheduling article; Berrettini vs. Bautista Agut played before on same court)\n- Sinner's career Monte Carlo record: 10-4 — **HIGH** (ATP Official player page)\n- Sinner reached SF at Monte Carlo in 2023 and 2024 — **HIGH** (ATP Official)\n- Sinner's next R3 opponent: winner of Cerundolo vs. Machac — **HIGH** (bracket confirmed; Cerundolo won vs. Tsitsipas, so Cerundolo faces Sinner in R3)\n- Sinner has 0 ranking points to defend at Monte Carlo (missed 2025 due to suspension) — **HIGH** (established context from prior research)\n- Alcaraz defending 1,000 points as reigning MC champion — **HIGH** (established context)\n- Sinner arrived with ~12-match winning streak — **MEDIUM** (preview articles, not independently verified exact count)\n- Humbert won their most recent MC match (last year R1) — context mentioned in multiple previews — **MEDIUM**\n**Do NOT use:** Exact match duration (not confirmed); Sinner's double-fault count or ace count (not found).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cerundolo Upsets Tsitsipas; Wawrinka Loses Monte Carlo Farewell Match",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Tsitsipas had won his opening match at Monte Carlo in all 8 previous appearances.\n\nFrancisco Cerundolo just ended that: 7-5, 6-4.\n\nTsitsipas now projected to fall outside the ATP Top 60.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Stan Wawrinka's Monte Carlo farewell ended with a 7-5, 7-5 loss to Baez.\n\nHe won here in 2014. He's 41 now. Retiring at the end of this season.\n\n\"Hopefully I can win a few matches this year to enjoy that feeling of winning.\"\n\n#Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cerundolo-tsitsipas-wawrinka-farewell-monte-carlo-2026.html",
+        "headline": "Cerundolo Ends Tsitsipas's Perfect Monte Carlo Record; Wawrinka Says Farewell to the Tournament He Won",
+        "word_count": 668
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cerundolo def. Tsitsipas 7-5, 6-4; Wawrinka def. Baez 7-5, 7-5 (Baez wins)\n**Sources:**\n- Tennis Majors: \"Cerundolo ends Tsitsipas' Monte Carlo reign to move to 15th win of 2026\"\n- Tennis.com: \"Francisco Cerundolo hands Tsitsipas first opening Monte Carlo loss\"\n- tennisuptodate.com: Tsitsipas to fall outside Top 60 headline\n- ATP Tour Official: Wawrinka farewell article \"Stan Wawrinka bids farewell to Monte-Carlo\"\n- France24: \"Wawrinka falls in first round on Monte Carlo farewell\"\n- Multiple wire services (mdjonline, Yardbarker): Wawrinka retirement confirmed\n**Verified facts:**\n- Cerundolo def. Tsitsipas 7-5, 6-4 — **HIGH** (Tennis Majors + Tennis.com + ATP highlights)\n- First time in 8 career MC appearances Tsitsipas lost opening match — **HIGH** (Tennis.com + tennisuptodate)\n- Cerundolo's 15th win of 2026 season — **HIGH** (Tennis Majors)\n- Cerundolo let a double-break lead slip in set 2 before closing — **MEDIUM** (Tennis Majors narrative, single source)\n- Tsitsipas falls outside ATP Top 60 — **HIGH** (tennisuptodate headline)\n- Cerundolo next faces Sinner — **HIGH** (bracket)\n- Sebastian Baez def. Stan Wawrinka 7-5, 7-5 — **HIGH** (France24 + ATP Official + multiple wire services)\n- Wawrinka won MC title in 2014, defeating Roger Federer in the final — **HIGH** (ATP Official)\n- Wawrinka, 41, is retiring at end of 2026 season — **HIGH** (ATP Official + Yardbarker + mdjonline)\n- Wawrinka quote: \"Of course these days and weeks are really, really difficult, but in the end it's worth it. I know it's my last year trying to do the best I can. Hopefully I can win a few matches this year to enjoy that feeling of winning.\" — **HIGH** (multiple wire agencies carrying same quote)\n- Wawrinka is not planning a ceremonial farewell tour — **HIGH** (atptour.com)\n**Do NOT use:** Wawrinka age exactly 41 — born March 28, 1985, so he turned 41 in 2026 — verified. OK to use 41.\n- Baez age/ranking not confirmed beyond general knowledge — do NOT state specific ranking.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Tommy Paul Wins Houston Saving 3 Match Points — First Career Clay Title",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Tommy Paul trailed 3-5 in the third set of the Houston final.\n\nHe saved 3 championship points, then won four straight games.\n\nFinal: 6-1, 3-6, 7-5 over Burruchaga in 2h42m.\n\nFirst clay title of his career. Fifth ATP crown overall.\n\n#Houston #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Houston",
+            "#Tennis"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Tommy Paul is an ATP clay champion.\n\nHe's won on hardcourt and grass — now clay joins the list after a gutsy 6-1, 3-6, 7-5 win in Houston.\n\nThe man saved 9 of 12 break points faced all match. Clutch.\n\n#Tennis #HoustonOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#HoustonOpen"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-tommy-paul-wins-houston-first-clay-title-2026.html",
+        "headline": "Tommy Paul Saves Three Championship Points to Win Houston — His First ATP Clay Title",
+        "word_count": 587
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tommy Paul wins Houston 6-1, 3-6, 7-5\n**Sources:**\n- ATP Tour Official: \"Tommy Paul saves 3 championship points to win Houston\"\n- Tennis.com: \"Tommy Paul caps memorable week in Houston\"\n- ATP Tour stats centre (break points)\n- Yardbarker (confirmation)\n**Verified facts:**\n- Paul def. Burruchaga 6-1, 3-6, 7-5 — **HIGH** (ATP Official)\n- Match lasted 2 hours 42 minutes — **HIGH** (Tennis.com)\n- Paul saved 3 championship points (Burruchaga led 5-3 in third set) — **HIGH** (ATP Official video article + multiple outlets)\n- Paul saved 9 of 12 break points faced — **HIGH** (ATP Tour stats)\n- Paul's fifth ATP Tour title — **HIGH** (ATP Official)\n- Paul's first clay title — **HIGH** (ATP Official)\n- Tournament full name: Fayez Sarofim & Co. U.S. Men's Clay Court Championship, Houston — **HIGH**\n- Alex Michelsen was eliminated in QF by Alexei Popyrin 6-0, 4-6, 6-1 — **HIGH** (ATP QF report)\n- Ben Shelton and Andres Andrade won Houston doubles — **HIGH** (ATP Official)\n- Burruchaga is Argentine — **MEDIUM** (implied from coverage; full name Roman Andres Burruchaga, Argentine-sounding name; not explicitly stated as \"Argentine\" in confirmed snippet)\n- Burruchaga's first ATP final — **MEDIUM** (implied from coverage tone; not explicitly stated in confirmed snippets)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Monte Carlo Day 2 — Alcaraz's Title Defense Begins; Fonseca Dazzles on Debut",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "João Fonseca on his Monte Carlo debut win:\n\n\"I was born on clay.\"\n\n19 years old. Already looks comfortable here.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 133
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Day 2 at Monte Carlo: Carlos Alcaraz opens his title defense vs. Baez.\n\nHe's defending 1,000 ranking points here. Sinner already through — 6-3, 6-0 vs. Humbert.\n\nThe No. 1 race is on every court this week.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-monte-carlo-day-2-alcaraz-fonseca-2026.html",
+        "headline": "Monte Carlo Day 2: Alcaraz Opens Title Defense as Fonseca and Sinner Both Signal Intent",
+        "word_count": 614
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monte Carlo Day 2 — Alcaraz, Fonseca, overview\n**Sources:**\n- ATP Tour: \"Alexander Blockx, Joao Fonseca earn clutch debut wins in Monte-Carlo\" (April 7)\n- SI.com: \"Joao Fonseca: 'I Was Born on Clay'\"\n- ATP Tour: \"When will Alcaraz, Sinner play first match in Monte-Carlo?\" (schedule article)\n- puntodebreak.com: Alcaraz vs. Baez scheduled April 7\n- Olympics.com: Full draw/results list\n**Verified facts:**\n- Alcaraz scheduled to play Baez in R2 on April 7 — **HIGH** (ATP schedule + multiple preview sources)\n- Alcaraz leads Baez 3-0 in ATP H2H — **HIGH** (ATP H2H)\n- Alcaraz defending 1,000 points (last year's MC title) — **HIGH** (established)\n- Joao Fonseca won his debut Monte Carlo match — **HIGH** (ATP Official)\n- Fonseca quote: \"I was born on clay\" — **HIGH** (SI.com)\n- Alexander Blockx also won debut MC match — **HIGH** (ATP Official headline)\n- Baez def. Wawrinka 7-5, 7-5 in R1 — **HIGH** (multiple sources)\n- CAUTION: Alcaraz vs. Baez final SCORE NOT CONFIRMED — no post-match article found. Frame as \"defending champion in action\" with schedule context. DO NOT fabricate a score.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Bouzkova Wins Bogota on Comeback; Top 4 Descend on Stuttgart",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Marie Bouzkova fought back from a first-set tiebreak loss to win Bogota 6-7(7), 6-2, 6-2.\n\nHer third career WTA title.\n\nNext stop: Stuttgart, where all four of the world's top players are in the draw starting April 13.\n\n#WTA #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#Tennis"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-bouzkova-bogota-stuttgart-preview-2026.html",
+        "headline": "Bouzkova Comes Back to Win Bogota; Stuttgart Assembles Top-Four Field for Next Week",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bouzkova wins Bogota; Stuttgart preview\n**Sources:**\n- WTA Official video: \"Bouzkova takes Bogota to win 3rd career singles title\"\n- robinhoodnews wire: Bouzkova final result\n- Porsche Newsroom: \"World's Top 4 at Stuttgart Porsche Tennis Grand Prix 2026\"\n- WTA Official: Stuttgart tournament page\n**Verified facts:**\n- Bouzkova def. Udvardy 6-7(7), 6-2, 6-2 — **HIGH** (WTA Official video)\n- Bouzkova's 3rd career WTA singles title — **HIGH** (WTA Official)\n- Caroline Dolehide and Irina Khromacheva won Bogota doubles — **HIGH** (WTA Official video)\n- Stuttgart April 13-19, WTA 500, indoor clay — **HIGH** (WTA Official)\n- Top 4 all entered: Sabalenka, Swiatek, Rybakina, Gauff — **HIGH** (Porsche Newsroom)\n- Also entered: Paolini, Svitolina, Andreeva, Ostapenko (defending champion) — **HIGH** (WTA entry list)\n- German wild cards: Siegemund, Lys, Seidel — **HIGH** (WTA Official)\n- Draw: 32-player singles — **HIGH** (WTA Official)\n- Bouzkova approximate ranking: ~No. 24 — **MEDIUM** (tennisuptodate, not independently confirmed exact post-tournament ranking)\n**Do NOT use:** Exact Bouzkova ranking number in article (MEDIUM only).",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

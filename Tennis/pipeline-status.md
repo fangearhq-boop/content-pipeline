@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-06 |
-| Writing | Complete (all steps) | 2026-04-06 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-06 |
-| Compile | Complete (07-content-data.json) | 2026-04-06 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-06 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-06 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-06 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-06 |
+| Research | Complete | 2026-04-07 |
+| Writing | Complete (all steps) | 2026-04-07 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-07 |
+| Compile | Complete (07-content-data.json) | 2026-04-07 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-07 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-07 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-07 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-07 |
 
 ## Queue
 
@@ -24,6 +24,40 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-07 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 1 Tier 2, 1 Tier 3)
+- **Posts:** 9 X posts + 10 FB posts (5 long-form + 5 captions) = 19 total
+- **Articles:** 5 (bylines: Marcus Cole x2, Elena Voss x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-07.xlsx (9 posts), tfr-postplanner-tobi-2026-04-07.xlsx (9 TOBI posts)
+- **Coverage:** Sinner def. Humbert 6-3, 6-0 Monte Carlo R2 (0 pts to defend, revenge for 2025 R1 loss); Cerundolo def. Tsitsipas 7-5, 6-4 (ends 8-match MC R1 win streak; Tsitsipas falls Top 60); Wawrinka loses MC farewell to Baez 7-5, 7-5 (retiring 2026, won MC 2014); Tommy Paul wins Houston 6-1, 3-6, 7-5 saved 3 championship points (first clay title, 5th ATP crown); Monte Carlo Day 2 overview (Alcaraz title defense, Fonseca "I was born on clay"); Bouzkova wins Bogota 6-7(7),6-2,6-2 (3rd career title) + Stuttgart Top 4 preview
+- **Research:** Multi-source web search via research agent; Sinner confirmed Sky Sport Italy + Eurosport IT; Cerundolo/Tsitsipas from Tennis Majors + Tennis.com + tennisuptodate; Wawrinka from France24 + ATP Official + multiple wire services; Paul/Houston from ATP Official + Tennis.com + ATP stats; Bouzkova from WTA Official; Stuttgart from Porsche Newsroom + WTA Official
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 14 claims extracted; 35 HIGH; image warnings expected (production not started)
+  - compile-content-data.py: "Fact-Check no log found" and "no posting window" notes are cosmetic; all content compiled; 9 X posts, 5 articles
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as all previous runs)
+  - WordPress publish failed: proxy blocks fanrumor.com (host_not_allowed) — same env restriction as all prior runs
+  - Alcaraz vs. Baez score NOT confirmed at research time — no post-match article found; article framed as Day 2 coverage/schedule context only
+  - Key facts (HIGH confidence): Sinner 6-3, 6-0 (Sky Sport Italy + Eurosport IT); Cerundolo 7-5, 6-4 vs Tsitsipas (Tennis Majors + Tennis.com); Tsitsipas first R1 MC loss in 8 appearances (Tennis.com + tennisuptodate); Wawrinka retired from 7-5, 7-5 (France24 + ATP Official); Paul 6-1, 3-6, 7-5 in 2h42m saved 3 CPs (ATP Official + Tennis.com); Bouzkova 6-7(7),6-2,6-2 (WTA Official)
+- **Files created:**
+  - `tennis-content-2026-04-07/00-daily-brief.md`
+  - `tennis-content-2026-04-07/01-research-notes.md`
+  - `tennis-content-2026-04-07/02-story-analysis.md`
+  - `tennis-content-2026-04-07/03-social-posts-x.md`
+  - `tennis-content-2026-04-07/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-07/05-image-concepts.md`
+  - `tennis-content-2026-04-07/06-fact-check-log.md`
+  - `tennis-content-2026-04-07/07-content-data.json`
+  - `tennis-content-2026-04-07/07-image-manifest.md`
+  - `tennis-content-2026-04-07/review-dashboard.html`
+  - `tennis-content-2026-04-07/articles/article-01-sinner-humbert-monte-carlo-6-0-2026.html`
+  - `tennis-content-2026-04-07/articles/article-02-cerundolo-tsitsipas-wawrinka-farewell-monte-carlo-2026.html`
+  - `tennis-content-2026-04-07/articles/article-03-tommy-paul-wins-houston-first-clay-title-2026.html`
+  - `tennis-content-2026-04-07/articles/article-04-monte-carlo-day-2-alcaraz-fonseca-2026.html`
+  - `tennis-content-2026-04-07/articles/article-05-bouzkova-bogota-stuttgart-preview-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-07.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-07.xlsx`
 
 ### 2026-04-06 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
