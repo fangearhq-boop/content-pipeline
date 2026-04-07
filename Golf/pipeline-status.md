@@ -3,7 +3,33 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-06)
+## Current Pipeline (2026-04-07)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-07 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-04-07 |
+| Fact-check | Complete (verify-facts.py — char violations fixed; 3 tweets trimmed) | 2026-04-07 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-07 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-04-07 |
+| Dashboard | Generated locally (push blocked — PAT scope) | 2026-04-07 |
+| Published | Attempted — blocked by egress proxy (403 Forbidden) | 2026-04-07 |
+| Git | Committed and pushed to main | 2026-04-07 |
+
+## Notes (2026-04-07)
+- 7 stories: McIlroy Champions Dinner tonight (T1), Masters 2 days away (T1), McIlroy back "no painkillers" (T1), Scheffler/son Remy 11 days old at Augusta (T2), Par 3 Contest tomorrow (T2), Chevron LPGA preview (T2), Masters final odds board (T3)
+- Masters begins April 9 (2 days away). 91 players. $21M purse. 90th edition. Amazon Prime debut.
+- McIlroy hosts first Champions Dinner; menu: elk sliders, wagyu filet, sticky toffee pudding.
+- McIlroy: "Wasn't an issue" on back; no longer on painkillers; odds +1000-+1200 trending down; last played March 12.
+- Scheffler World No. 1, +500 favorite; son Remy (11 days old, born March 27) at Augusta with wife Meredith.
+- Par 3 Contest April 8, ESPN 2-4 PM ET; 66-year superstition intact (no winner has ever won Masters same week).
+- Chevron Championship LPGA major April 23-26 Houston; Korda leads tour stats; Coughlin has momentum (Aramco win).
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X post char violations fixed: Story 1 tweet 2 (285→225), Story 2 tweet 2 (301→244), Story 4 tweet 1 (283→229)
+- WordPress publish: blocked by egress proxy (403 Forbidden) — known ongoing issue
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+## Previous Pipeline (2026-04-06)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|

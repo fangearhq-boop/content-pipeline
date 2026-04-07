@@ -1,0 +1,390 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-07",
+  "compiled_at": "2026-04-07T11:34:00.900972+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Champions Dinner",
+      "type": "New tradition angle"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — Masters 2 Days",
+      "type": "Countdown preview"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — McIlroy Back Update",
+      "type": "Health update"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 4 — Scheffler + Son Remy",
+      "type": "Human interest"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — Par 3 Contest",
+      "type": "Tradition preview"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 6 — Chevron Preview",
+      "type": "LPGA major preview"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 7 — Odds Board",
+      "type": "Analysis"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "McIlroy Hosts Champions Dinner Tonight — Menu Revealed, Augusta Tradition Begins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Rory McIlroy is hosting the Masters Champions Dinner tonight at Augusta National.\n\nOn the menu: elk sliders, wagyu filet, sticky toffee pudding.\n\nHe earned the right to choose this menu by winning the Grand Slam in 2025. What a moment. 🍽️\n\n#GolfFanrecap #Masters #McIlroy",
+          "posting_time": "8:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#McIlroy"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Champions Dinner is tonight at Augusta.\n\nMcIlroy hosts for the first time. Back injury behind him. Two days from defending his green jacket.\n\nEvery living Masters champion at the table. 🟢\n\n#GolfFanrecap #Masters",
+          "posting_time": "8:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM"
+      },
+      "article": {
+        "filename": "article-01-mcilroy-champions-dinner-menu-augusta-tradition.html",
+        "headline": "McIlroy's Champions Dinner Menu Revealed — Elk Sliders, Wagyu Filet, and Sticky Toffee Pudding",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy Champions Dinner\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Rory McIlroy in green Masters jacket or Augusta National setting.\n- **Photo Search Terms:**\n  1. \"Rory McIlroy Augusta National\"\n  2. \"Rory McIlroy Masters\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"CHAMPIONS DINNER\"\n  - Subtitle (Montserrat, #006747 Augusta Green): \"MCILROY HOSTS TONIGHT\"\n  - Subtext (Montserrat, white): \"Elk sliders. Wagyu filet. Sticky toffee pudding.\"\n- **Overlay Bar:** Dark Midnight (#1A1A2E, 45% opacity) bottom third\n\n**Article Hero (1200×630, landscape)**\n- Same search terms, wide crop — Rory in Masters context\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McIlroy Champions Dinner\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Champions Dinner is Tuesday, April 7 | HIGH | DraftKings/Sky Sports/Yahoo Sports |\n| McIlroy hosts for first time as 2025 champion | HIGH | Multiple outlets |\n| McIlroy won 2025 Masters completing Grand Slam (beat Rose in playoff) | HIGH | Multiple outlets (established) |\n| Menu: bacon-wrapped dates, grilled elk sliders, rock shrimp tempura, peach & ricotta flatbread (appetizers) | HIGH | DraftKings Network, Golf Channel, Yahoo Sports |\n| First course: yellowfin tuna carpaccio | HIGH | DraftKings Network |\n| Main: wagyu filet mignon or seared salmon | HIGH | DraftKings Network |\n| Dessert: sticky toffee pudding | HIGH | DraftKings Network |\n| All past Masters champions on grounds invited | HIGH | Sky Sports |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Masters 2026 — Two Days Away; First Round Thursday With $21M on the Line",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "THE MASTERS STARTS IN 2 DAYS. 🟢\n\n91 players. $21M purse. 90th edition. Amazon Prime debut.\n\nMcIlroy defends alongside U.S. Amateur champ Mason Howell. Scheffler (No. 1, +500) is the favorite.\n\nAnd the Par 3 Contest is TOMORROW. 🏌️\n\n#GolfFanrecap #Masters",
+          "posting_time": "10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters"
+          ],
+          "char_count": 254
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Two days to Augusta. What to know:\n\nScheffler (+500) — World No. 1, chasing 3rd jacket\nMcIlroy (+1200) — defending, back scare behind him\nDeChambeau (+1000) — back-to-back LIV wins\n\n$21M purse. Amazon Prime debut.\n\nBest major. Best week. ⛳\n\n#GolfFanrecap #Masters",
+          "posting_time": "10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM"
+      },
+      "article": {
+        "filename": "article-02-masters-2026-two-days-pairings-schedule-preview.html",
+        "headline": "Masters 2026 Is Two Days Away: Pairings, Schedule, Key Storylines",
+        "word_count": 457
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Masters 2 Days Away\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Augusta National aerial or iconic hole (Amen Corner, 12th, etc.)\n- **Photo Search Terms:**\n  1. \"Augusta National golf course\"\n  2. \"Masters tournament Augusta\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"2 DAYS\"\n  - Subtitle (Montserrat, #FFD700 Gold): \"THE MASTERS BEGINS THURSDAY\"\n  - Subtext (Montserrat, white): \"$21M purse. 91 players. 90th edition.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Masters 2 Days Away\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Masters starts Thursday, April 9 at Augusta National | HIGH | Masters.com, PGA Tour, multiple outlets |\n| 91 players in field | HIGH | Multiple outlets (established) |\n| $21M purse | HIGH | Multiple outlets (established) |\n| 90th edition | HIGH | Multiple outlets (established) |\n| Amazon Prime Video broadcast debut | HIGH | Multiple outlets (established) |\n| McIlroy paired with U.S. Amateur champion Mason Howell | HIGH | Golf Digest, Yahoo Sports |\n| Scheffler World No. 1, +500 favorite | HIGH | CBS Sports, Yahoo Sports |\n| DeChambeau in field at +1000 | HIGH | Multiple outlets |\n| Jon Rahm in field at +950 | HIGH | CBS Sports |\n| Par 3 Contest: Wednesday April 8, 2-4 PM ET on ESPN | HIGH | Golf Channel, golf.com |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "McIlroy Says Back \"Wasn't an Issue\" — No Longer Taking Painkillers Ahead of Defense",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "McIlroy on his back injury ahead of the Masters:\n\n\"Wasn't an issue. I'm no longer taking painkillers.\"\n\nHis last tournament was March 12. He missed 3+ weeks. Now he's defending his green jacket in 2 days.\n\nAll eyes on how he moves on 13 and 18. ⛳\n\n#GolfFanrecap #Masters #McIlroy",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#McIlroy"
+          ],
+          "char_count": 279
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The market isn't convinced on McIlroy.\n\nOdds: +1000 to +1200. Trending down all week.\n\n3-week break. Back injury. Augusta's elevation changes are unforgiving for back issues.\n\nHe says he's fine. Two days to prove it. 👀\n\n#GolfFanrecap #Masters",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-mcilroy-back-injury-no-painkillers-masters-defense.html",
+        "headline": "McIlroy Says Back 'Wasn't an Issue' — But Questions Linger Heading Into Masters Defense",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy Back Injury Update\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Rory McIlroy in hitting or putting posture — athletic motion showing fitness.\n- **Photo Search Terms:**\n  1. \"Rory McIlroy golf swing\"\n  2. \"Rory McIlroy Augusta\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"McILROY: BACK'S FINE\"\n  - Subtitle (Montserrat, #006747 Augusta Green): \"NO MORE PAINKILLERS\"\n  - Subtext (Montserrat, white): \"3-week layoff. Defending champion. 2 days to prove it.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McIlroy Back Injury Update\n| Fact | Confidence | Source |\n|------|------------|--------|\n| McIlroy no longer taking painkillers | HIGH | Bleacher Report, Heavy.com |\n| McIlroy said back \"wasn't an issue\" | HIGH | Multiple outlets |\n| Last tournament: Players Championship March 12 (T46, then withdrew) | HIGH | Multiple outlets (established) |\n| Missed Arnold Palmer Invitational due to injury | HIGH | Multiple outlets |\n| Career-longest 3-week layoff | HIGH | Multiple outlets (established) |\n| Odds slipping to +1000-+1200 | HIGH | CBS Sports, SI.com |\n| Amanda Balionis: \"back issues at Augusta National are tough\" | HIGH | Heavy.com |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Scheffler Arrives at Augusta With 11-Day-Old Son Remy — \"My Wife Is a Trooper\"",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Scheffler arrived at Augusta with his wife and their 11-day-old son Remy.\n\nOlder son Bennett is also here. Both boys have attended a major as newborns.\n\n\"My wife is a trooper.\" — Scottie Scheffler 🟢\n\n#GolfFanrecap #Masters #Scheffler",
+          "posting_time": "3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#Scheffler"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM"
+      },
+      "article": {
+        "filename": "article-04-scheffler-son-remy-augusta-family-11-days-old.html",
+        "headline": "Scheffler Brings 11-Day-Old Son Remy to Augusta: 'My Wife Is a Trooper'",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler + Son Remy\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Scottie Scheffler in golf attire, ideally smiling or celebrating.\n- **Photo Search Terms:**\n  1. \"Scottie Scheffler golf\"\n  2. \"Scottie Scheffler Augusta\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"FAMILY MAN. WORLD No. 1.\"\n  - Subtitle (Montserrat, #FFD700 Gold): \"SON REMY AT AUGUSTA\"\n  - Subtext (Montserrat, white): \"Scheffler: 'My wife is a trooper.'\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler + Son Remy\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Scheffler arrived at Augusta with wife Meredith and son Remy | HIGH | ESPN, Golf Channel, Yahoo Sports |\n| Remy born March 27, 2026 | HIGH | ESPN, Golf Channel |\n| Son is ~11 days old on April 7 | HIGH | Calculable from birth date |\n| Older son Bennett also present | HIGH | ESPN |\n| Scheffler quote: \"I'm really glad they're able to travel with me this week. My wife is a trooper.\" | HIGH | ESPN, Yahoo Sports |\n| Bennett was born before the 2024 PGA Championship | HIGH | ESPN (Artvoice reference) |\n| Scheffler +500 Masters favorite | HIGH | Multiple outlets |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Par 3 Contest Tomorrow — Augusta's Beloved Pre-Tournament Tradition",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "TOMORROW: The Masters Par 3 Contest ⛳\n\nAugusta National's 9-hole Par 3 course. Family caddies. Smiles, not scorecards.\n\nAirs 2-4 PM ET on ESPN. Also on Masters.com.\n\nAnd the superstition: No Par 3 winner has EVER won the Masters that same week. 👀\n\n#GolfFanrecap #Masters",
+          "posting_time": "6:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM"
+      },
+      "article": {
+        "filename": "article-05-par-3-contest-masters-tradition-wednesday-augusta.html",
+        "headline": "Par 3 Contest Tomorrow at Augusta: Golf's Most Charming Tradition Explained",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Par 3 Contest Tomorrow\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Augusta's Par 3 course with bright colors — azaleas, players with family caddies.\n- **Photo Search Terms:**\n  1. \"Augusta National Par 3 contest\"\n  2. \"Masters par 3 hole Augusta\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"PAR 3 CONTEST\"\n  - Subtitle (Montserrat, #006747 Augusta Green): \"TOMORROW — APRIL 8\"\n  - Subtext (Montserrat, white): \"ESPN 2-4 PM. Kids caddie. Golf's best tradition.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Par 3 Contest\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Par 3 Contest: Wednesday April 8 | HIGH | Golf Channel, golf.com, Sky Sports |\n| Airs 2-4 PM ET on ESPN | HIGH | Golf Channel |\n| Also on Masters.com and Masters App 12-4 PM | HIGH | Golf Channel |\n| No Par 3 winner has ever won Masters same week | HIGH | Well-established golf lore |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Chevron Championship Preview — LPGA's First Major April 23-26 in Houston",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The LPGA's major season begins April 23-26 in Houston.\n\nChevron Championship. 16 days away.\n\nKorda leads the tour in SG Total (4.00) and SG Tee-to-Green (5.55). Coughlin just won Aramco for her first LPGA title.\n\nBig major. Big field. ⛳\n\n#GolfFanrecap #LPGA #Chevron",
+          "posting_time": "8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGA",
+            "#Chevron"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chevron Championship Preview\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Nelly Korda in LPGA action, or women's golf action shot.\n- **Photo Search Terms:**\n  1. \"Nelly Korda LPGA\"\n  2. \"Nelly Korda golf\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"CHEVRON CHAMPIONSHIP\"\n  - Subtitle (Montserrat, #FFD700 Gold): \"LPGA MAJOR — APRIL 23\"\n  - Subtext (Montserrat, white): \"Korda leads. Coughlin won Aramco. 16 days away.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Chevron Championship / LPGA\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Chevron Championship: April 23-26 in Houston | MEDIUM | Sky Sports (prior pipeline) |\n| Korda SG Total 4.00, SG Tee-to-Green 5.55 | HIGH | Prior pipeline (from April 3 notes) |\n| Lauren Coughlin won Aramco Championship April 5 | HIGH | Golf News Net, Golf Digest |\n| Coughlin's first LPGA win | HIGH | Multiple outlets |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Masters Final Odds Board — Scheffler Leads, Field Wide Open",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "MASTERS ODDS entering the final 2 days:\n\nScheffler: +500 (No. 1 in the world)\nRahm: +950\nDeChambeau: +1000 (back-to-back LIV wins)\nMcIlroy: +1000-+1200 (defending)\n\nWide open. Best week in golf. 🟢\n\n#GolfFanrecap #Masters",
+          "posting_time": "8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Masters Final Odds\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Augusta National with the scoreboard or leaderboard visible.\n- **Photo Search Terms:**\n  1. \"Augusta National leaderboard Masters\"\n  2. \"Masters scoreboard golf\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"MASTERS ODDS\"\n  - Subtitle (Montserrat, #FFD700 Gold): \"SCHEFFLER +500 · McILROY +1200\"\n  - Subtext (Montserrat, white): \"Wide open. 2 days to the first major.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Odds Board\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Scheffler +500 | HIGH | CBS Sports, Yahoo Sports |\n| McIlroy +1000-+1200 | HIGH | CBS Sports, SI.com |\n| Rahm +950 | HIGH | CBS Sports |\n| DeChambeau +1000 | HIGH | Multiple outlets |\n| Schauffele top-10 in 5 of last 7 Masters | HIGH | CBS Sports |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
