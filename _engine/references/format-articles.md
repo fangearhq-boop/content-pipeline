@@ -153,6 +153,47 @@
 - [ ] Avoids generic or marketing-speak language
 - [ ] Specific examples and data points included
 
+### Anti-AI Writing Rules (MANDATORY)
+
+These patterns make articles obviously AI-generated. Avoid all of them.
+
+**Punctuation:**
+- NO em dashes (—). Use periods, commas, or "..." instead. This is the #1 AI tell.
+
+**Filler sentences (cut these entirely):**
+- "is not lost on anyone"
+- "the stuff of legend"
+- "that's not a sentence many get to inhabit"
+- "needless to say"
+- "it goes without saying"
+- Any sentence that doesn't add a fact or a specific opinion. If you can delete it and the article still works, delete it.
+
+**Vague hype words (replace with a specific detail):**
+- "jaw-dropping" ... "remarkable" ... "elite" ... "significant" ... "genuine" ... "clearly"
+- Not "elite arms" but "three All-Stars." Not "significant buzz" but "the most hyped rookie class since 2015."
+
+**Formulaic transitions (just state the point):**
+- "What makes this even more X is..."
+- "It's worth noting that..."
+- "Perhaps most importantly..."
+- "The fact that..."
+
+**Closing cliches (end with something specific):**
+- "remains to be seen"
+- "only time will tell"
+- "but one thing is clear"
+- Instead: name the next game, the next matchup, the specific thing to watch.
+
+**Sentence variety:**
+- Mix short punches (5-8 words) with longer analysis. Real writers use fragments.
+- Start some sentences with "And" or "But."
+- Do NOT start consecutive paragraphs the same way.
+- Each section should have a different rhythm: punchy opener, stat-dense middle, conversational close.
+
+**Overall feel:**
+- Write like a beat reporter who's been covering this team for 5 years.
+- Not a press release. Not a term paper. A reporter telling you what happened and why it matters.
+
 ### Content Requirements
 
 **Specific Numbers & Stats:**
