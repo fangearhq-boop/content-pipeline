@@ -2,6 +2,50 @@
 
 ---
 
+## April 7, 2026
+
+### Story 1: CPSC Recalls — KTEBO Writing Tablets (Battery Ingestion) + Zippee Silicone Toys (Choking)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (two toy recalls not previously covered; KTEBO button cell battery hazard + Zippee choking risk)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** KTEBO: ~10,380 units Amazon Sept-Oct 2025, battery screw loosens, stop use, contact writing-tablet-recall@ktebo.com; Zippee by Mobi Games: 117,000+ units Amazon/specialty stores Nov 2019-Jan 2024, choking risk, full refund
+- **Follow-Up Opportunities:** Button cell battery safety guide (evergreen); CPSC toy safety recurring roundup
+
+### Story 2: LFTE USA Playground Swing Seats Recall + YITA Multi-Brand Dresser Recall
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (commercial playground equipment recall + STURDY Act dresser violation; unique public-equipment angle)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** LFTE USA model 999604: ~7,200 playground seats, sold to Miracle Recreation + Little Tikes Commercial Jan-Sept 2025, rivet fail/fall hazard, contact recall@lfteusa.com; YITA + 5 brands 16-drawer dresser: ~6,800 units Amazon+Walmart Sept 2023-Aug 2025 $75-$100, STURDY Act violation, contact YITA for refund
+- **Follow-Up Opportunities:** STURDY Act explainer; furniture anchoring guide (evergreen)
+
+### Story 3: D49 Fiscal Exigency — Budget Crisis, 39 Jobs Cut, $2M Admin Error
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Falcon/Powers corridor families — D49 declared fiscal exigency Jan 8; $1.8M cuts Feb; $2M admin accounting error revealed March with no admin accountability)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Board voted 4-1 Jan 8 to declare fiscal exigency; $1.8M cuts — 39 positions eliminated, 12 tenured teachers nonrenewed; state audit found incorrect FTE enrollment reporting; ~$2.66M state overpayment recovery; ~$2M fine; no administrators dismissed
+- **Follow-Up Opportunities:** D49 school board meeting coverage; D49 Student Success Center (fall 2026); D49 charter school approvals
+
+### Story 4: AAP vs. CDC 2026 Vaccine Schedule — What COS Families Need to Know
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (first time AAP and CDC recommend different childhood vaccine schedules; AAP 18 diseases vs CDC 11; COVID + HPV key differences)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** AAP 18 diseases; CDC 11; COVID-19 universal vs shared decision; HPV 2 doses age 9 vs 1 dose age 11-12; AAP backed by 12 medical orgs including AMA, ACOG, IDSA; AAP: CDC changes "depart from longstanding medical evidence"
+- **Follow-Up Opportunities:** COS pediatrician interview series; vaccine schedule Q&A guide; fall immunization prep guide
+
+### Story 5: Mueller State Park Junior Rangers + COS Spring Trail Updates
+- **Content Pillar:** Local Events + Evergreen
+- **Angle:** NEW STORY (Mueller Junior Rangers April 10 + 18 programs; TOPS 2026 trail project updates for Rock Island Trail and Pikes Peak Greenway)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** Mueller "Basic Survival for Kids" April 10; "Junior Rangers in the Forest" April 18 (badge, ages 6-12); 50+ miles/5,117 acres; Rock Island Trail 210-ft bridge construction spring 2026 (10-12 months); Pikes Peak Greenway ~0.5 miles new concrete trail spring 2026
+- **Follow-Up Opportunities:** Mueller summer programs; TOPS trail opening announcements
+
+---
+
 ## April 6, 2026
 
 ### Story 1: CPSC Recall — Bellabu Bear Children's Robes + Blossom Children's Loungewear (Burn Hazard)

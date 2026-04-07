@@ -1,0 +1,361 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-07",
+  "compiled_at": "2026-04-07T12:33:47.744159+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recall — KTEBO Writing Tablets (Battery Ingestion) + Zippee Silicone Activity Toys (Choking)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RECALL: KTEBO LCD writing tablets recalled — battery screw can loosen, exposing a button cell battery. Swallowing one can cause burns or death.\n\nStop use now. Free replacement: writing-tablet-recall@ktebo.com\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Also: Zippee silicone fidget toys (Mobi Games cylinder with ball-ended strings) recalled for choking risk. 117,000+ units sold on Amazon 2019–2024.\n\nFull refund: cpsc.gov/Recalls\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ktebo-zippee-toy-recalls-battery-choking-2026.html",
+        "headline": "Two Toy Recalls This Week: KTEBO Writing Tablets and Zippee Silicone Toys",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Recalls — KTEBO Writing Tablets + Zippee Silicone Toys\n**Sources:**\n- CPSC.gov (official): KTEBO Writing Tablet recall page\n- CPSC.gov (official): Zippee Silicone Activity Toys recall page\n- NewsNation: KTEBO recall coverage\n- ABC27: KTEBO recall coverage\n- Motherly: Zippee recall coverage\n- GrowingYourBaby.com: Zippee recall coverage\n**Verified facts:**\n- KTEBO Writing Tablet Toys: battery compartment screw does not stay attached; button/coin battery ingestion risk (chemical burns and death) — **HIGH** (CPSC.gov + NewsNation + ABC27)\n- ~10,380 units sold on Amazon (Sept-Oct 2025, $8-$30) — **HIGH** (CPSC.gov)\n- 8.5\" and 10\" sizes in multiple color combinations — **HIGH** (CPSC.gov)\n- Action: Stop use; contact writing-tablet-recall@ktebo.com for free replacement set — **HIGH** (CPSC.gov)\n- Zippee Silicone Activity Toys by Mobi Games: ball-ended silicone strings can reach back of child's throat — **HIGH** (CPSC.gov + Motherly + GrowingYourBaby)\n- ~117,000-143,000 units sold at Amazon, PlayMobi.com, specialty toy stores (Nov 2019-Jan 2024, ~$20) — **HIGH** (CPSC.gov)\n- One confirmed incident of a child gagging and vomiting — **HIGH** (CPSC.gov)\n- Date codes inside cylinder in MMDDYY format 030620–110823 — **HIGH** (CPSC.gov)\n- Action: Stop use; contact Mobi Games for full refund — **HIGH** (CPSC.gov)\n- Both violate mandatory toy safety standards — **HIGH** (CPSC.gov)\n**Do NOT use:** Exact units sold (range varies by source for Zippee — use \"more than 117,000\").",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LFTE USA Playground Swing Seats Recall + YITA Dresser Tip-Over Recall",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "COS parents: playground swing seats at parks/schools are recalled (LFTE USA, model 999604). Rivet can fail — fall hazard.\n\nIf your school or local park has these, report it to your district or parks dept.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Recall: YITA + 5 fabric-frame dresser brands — tip-over hazard, STURDY Act violation.\n\n~6,800 units on Amazon + Walmart 2023–2025. Stop use if not wall-anchored. Full refund available.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-lfte-playground-swings-yita-dresser-recalls-2026.html",
+        "headline": "Playground Swing Seats and Kids' Dressers Recalled: What COS Families Should Know",
+        "word_count": 672
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LFTE USA Playground Swings + YITA Dresser Recalls\n**Sources:**\n- CPSC.gov (official): LFTE USA Playground Swing Set Seats recall page\n- CPSC.gov (official): YITA Multi-Brand Dresser recall page\n- Yahoo/ABC27: LFTE USA coverage\n- MyParisTexas: LFTE USA coverage\n- furniture-tip-over-accidents.com: YITA coverage\n- Newsweek: YITA coverage\n**Verified facts:**\n- LFTE USA Playground Swing Set Seats: rivets supporting swing seat can fail; one confirmed child injury — **HIGH** (CPSC.gov + Yahoo/ABC27 + MyParisTexas)\n- ~7,200 units; sold to Miracle Recreation Equipment and Little Tikes Commercial (Jan-Sept 2025, $80-$95) — **HIGH** (CPSC.gov)\n- Model number 999604 ONLY; colors: black, blue, green, red, tan, yellow — **HIGH** (CPSC.gov)\n- Sold to commercial/institutional buyers, not individual consumers — affects public playgrounds and school equipment — **HIGH** (CPSC.gov)\n- Action: Stop use; contact recall@lfteusa.com for free replacement — **HIGH** (CPSC.gov)\n- YITA/Dextrus/ModFusion/Uforic/Yintatech/Yitahome 16-drawer dressers: tip-over and entrapment hazard; violate STURDY Act mandatory standard — **HIGH** (CPSC.gov + furniture-tip-over + Newsweek)\n- ~6,800 units; sold Amazon and Walmart (Sept 2023-Aug 2025, $75-$100); colors: gray, black, white, pink, brown — **HIGH** (CPSC.gov)\n- Action: Stop using if not wall-anchored; keep away from children; contact YITA for full refund — **HIGH** (CPSC.gov)\n**Do NOT use:** Claims that specific COS parks or schools have these swings (not confirmed).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "D49 Budget Crisis — Fiscal Exigency, 39 Jobs Cut, $2M Admin Error",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "D49 families: the district cut 39 positions (12 tenured teachers) after declaring fiscal exigency. Then a $2M admin accounting error was found — no one lost their job over it.\n\nHere's the full timeline: 👇\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 3-2",
+          "text": "D49 timeline: fiscal exigency (Jan), $1.8M cuts + 12 tenured teachers nonrenewed (Feb), state audit finds $2M enrollment reporting error (March).\n\n39 jobs gone. No admin accountability.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d49-fiscal-exigency-budget-crisis-teacher-cuts-2026.html",
+        "headline": "D49 Budget Crisis: What Falcon School District Families Need to Know",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Budget Crisis\n**Sources:**\n- KOAA: \"We are stripping the district down to absolute essentials\" article\n- KRDO: $2M administrative error investigation piece\n- Rocky Mountain PBS: D49 teacher cuts coverage\n- Pikes Peak Bulletin: Fiscal exigency coverage\n- Colorado Springs Gazette: Jan. 17 board decision coverage\n**Verified facts:**\n- Jan 8, 2026: D49 board voted 4-1 to declare fiscal exigency — **HIGH** (Gazette + Pikes Peak Bulletin)\n- Reasons cited: flat revenue, declining enrollment, rising healthcare/operating costs, defunding of mill levy equalization — **HIGH** (KOAA + Gazette)\n- Feb 2026: Board approved $1.8M in cuts — 39 positions eliminated, 12 tenured teacher contracts nonrenewed — **HIGH** (KOAA + RMPBS + Pikes Peak Bulletin)\n- March 2026: KRDO investigation revealed 2025 state audit found D49 incorrectly reported student FTE counts due to bell schedule errors — **HIGH** (KRDO)\n- State recovering ~$2.66M overpayment — **HIGH** (KRDO)\n- D49 faced ~$2M fine — **HIGH** (KRDO)\n- No administrators lost their jobs over the accounting error — **HIGH** (KRDO)\n**Do NOT use:**\n- Specific teacher or administrator names without direct verification\n- D49 Student Success Center (MEDIUM, separate story, not confirmed for this article)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "AAP vs. CDC: What the 2026 Vaccine Schedule Split Means for COS Families",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "The AAP and CDC now recommend DIFFERENT childhood vaccine schedules.\n\nAAP: 18 diseases. CDC: 11. Key gap — COVID-19 and HPV dosing. AAP backed by 12 medical orgs including the AMA.\n\nTalk to your pediatrician.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Your pediatrician may now follow the AAP schedule, not the CDC's.\n\nKey differences: COVID-19 (AAP recommends universally for ages 6–23 months) and HPV dosing. Ask which schedule they're using.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-aap-cdc-vaccine-schedule-2026-cos-families.html",
+        "headline": "AAP and CDC Now Have Different Vaccine Schedules: What Colorado Springs Parents Should Know",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP vs. CDC Vaccine Schedule\n**Sources:**\n- AAP News (official publication): 2026 immunization schedule article\n- AJMC: AAP breaks with CDC coverage\n- Vaccine Advisor / Clinical Advisor: AAP maintains routine recs\n- CHOC Children's Health Hub: AAP 2026 schedule summary\n- Contemporary OB/GYN: AAP schedule release coverage\n**Verified facts:**\n- AAP 2026 schedule recommends vaccinations for 18 diseases — **HIGH** (AAP + AJMC + CHOC)\n- CDC 2026 revised schedule covers 11 diseases — **HIGH** (AAP statement + AJMC)\n- CDC changes prompted by Trump administration directive to align with international standards (benchmarked against 20 peer nations) — **HIGH** (AJMC)\n- COVID-19: AAP recommends universal vaccination all children 6-23 months + risk-based ages 2-17 — **HIGH** (AAP + CHOC)\n- COVID-19: CDC places in \"shared clinical decision-making\" — **HIGH** (AJMC + CHOC)\n- HPV: AAP recommends 2 doses starting ages 9-12 — **HIGH** (AAP + CHOC)\n- HPV: CDC recommends 1 dose at ages 11-12 — **HIGH** (AJMC)\n- AAP statement: CDC changes \"depart from longstanding medical evidence and no longer offer the optimal way to prevent illnesses in children\" — **HIGH** (AAP official statement, multiple sources)\n- AAP schedule endorsed by 12 medical associations including AMA, ACOG, IDSA — **HIGH** (AAP + AJMC)\n**Do NOT use:**\n- Specific AAP spokesperson names without direct verification\n- Claims about Colorado-specific vaccine rates (not found)\n- Any strong advocacy for/against either schedule — present both sides neutrally",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Mueller State Park Junior Rangers + COS Spring Trail Guide",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Mueller State Park spring programs for kids:\n\nApril 10 — Basic Survival for Kids\nApril 18 — Junior Rangers in the Forest (ages 6–12, earn a badge)\n\nDay-use fee applies. 50+ miles of trails.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mueller-state-park-junior-rangers-spring-trails-cos-2026.html",
+        "headline": "Mueller State Park Junior Rangers Programs and COS Spring Trail Updates for Families",
+        "word_count": 657
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mueller State Park Junior Rangers + Spring Trail Guide\n**Sources:**\n- Colorado Springs Gazette (March 19, 2026): Mueller State Park spring hiking guide\n- KOAA: Colorado Parks and Wildlife Mueller spring programs\n- Colorado Parks and Wildlife (official): Mueller State Park page\n- coloradosprings.gov/TOPS2026: 2026 city trails plan\n- KRDO: TOPS 2026 trail plan coverage\n- Colorado Springs Gazette (Jan. 4): TOPS 2026 plan\n**Verified facts:**\n- Mueller State Park \"Junior Rangers in the Forest\": April 18; learn wild plants and animals; earn Jr. Ranger badge; ages 6-12 — **HIGH** (Gazette + KOAA + CPW)\n- \"Basic Survival for Kids\": April 10; safety tips; indoor/outdoor depending on weather — **HIGH** (Gazette + KOAA)\n- \"Junior Rangers on the Trail\": April 4 (past but useful context for ongoing program) — **HIGH**\n- Mueller: 50+ miles of trails; 5,117 acres — **HIGH** (CPW official)\n- Mueller approximately 35 miles from downtown COS — **MEDIUM** (general geography, not confirmed in research)\n- Rock Island Trail construction anticipated Spring 2026 (210-foot pedestrian bridge over Sand Creek; 10-12 months) — **HIGH** (coloradosprings.gov/TOPS2026 + KRDO)\n- Pikes Peak Greenway Spring 2026 improvements (~0.5 miles new concrete, improved ADA from Corporate Drive/Park and Ride) — **HIGH** (city TOPS page + Gazette)\n- Austin Bluffs Spine Trail completion planned 2026 — **HIGH** (city TOPS page)\n- Blodgett Open Space ~14 miles new trail — **HIGH** (city TOPS page)\n**Do NOT use:**\n- Mueller exact distance from downtown (MEDIUM — use \"about 35 miles west of COS\" only if widely reported; otherwise omit or use \"in Divide\")\n- Specific admission prices for Mueller (not confirmed in research — note day-use fee applies per CPW standard)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

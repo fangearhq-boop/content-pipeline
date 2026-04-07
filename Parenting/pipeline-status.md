@@ -1,34 +1,34 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 6, 2026
+## Latest Run: April 7, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search via agent) | COMPLETE | CPSC recalls (CPSC.gov official — Bellabu Bear, Blossom, Joyful Journeys, Vevor/Sanven), COS events (Gazette + VisitCOS), Garden of Gods city announcement (coloradosprings.gov), Starsmore upgrades (TOPS 2026 city page), spring allergy (Colorado Allergy & Asthma Centers + Wyndly + IQAir) |
+| Research (web search via agent) | COMPLETE | CPSC recalls (CPSC.gov — KTEBO writing tablets, Zippee toys, LFTE playground swings, YITA dresser), D49 fiscal exigency (KOAA + KRDO + RMPBS + Pikes Peak Bulletin + Gazette), AAP vs CDC vaccine schedule (AAP Official + AJMC + CHOC), Mueller State Park programs (Gazette + KOAA + CPW), TOPS 2026 trails (coloradosprings.gov + KRDO) |
 | Story History Check | COMPLETE | 5 NEW STORY — all verified against story history, no duplicates |
 | Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories |
 | Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
 | Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories, tier + pillar assignments |
-| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (char fixes applied, all under 280), 4 hashtags each |
+| X Posts | COMPLETE | 03-social-posts-x.md — 9 posts (char fixes applied x2, all under 280), 4 hashtags each |
 | Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts |
 | Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (9 concepts) |
 | Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next, no exclamation marks) |
-| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present in all files; 49 claims extracted |
-| Compile | COMPLETE | 07-content-data.json (5 stories, 7 X, 5 FB, 5 articles) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 80 claims; 119 HIGH / 42 MEDIUM / 158 LOW |
+| Compile | COMPLETE | 07-content-data.json (5 stories, 9 X, 5 FB via postplanner, 5 articles) |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 9 images, all not_started |
-| Dashboard | COMPLETE | review-dashboard.html (22 items) |
-| PostPlanner Export | COMPLETE | Standard (7 posts) + TOBI (7 posts) |
+| Dashboard | COMPLETE | review-dashboard.html (24 items) |
+| PostPlanner Export | COMPLETE | Standard (14 posts: 9 X + 5 FB) + TOBI (9 posts) |
 | Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
 | WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed) | Same environment restriction as all prior runs |
 
-## Story Count by Pillar (2026-04-06)
+## Story Count by Pillar (2026-04-07)
 
 | Pillar | Count | Target |
 |--------|-------|--------|
-| Local News | 1 | 1-2 |
-| Local Events | 1 | 1-2 |
-| National Parenting | 2 | 1-2 |
-| Evergreen | 1 | 0-1 |
+| Local News | 1 (D49 budget crisis) | 1-2 |
+| Local Events | 1 (Mueller Junior Rangers) | 1-2 |
+| National Parenting | 3 (KTEBO/Zippee recalls; LFTE/YITA recalls; AAP vs CDC vaccines) | 1-2 |
+| Evergreen | 0 | 0-1 |
 | Humor | 0 | 0-1 |
 
 ---
