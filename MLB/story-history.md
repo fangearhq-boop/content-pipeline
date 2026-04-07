@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-07
+
+### Story 1: Dodgers 14, Blue Jays 2 — Five HRs, Dalton Rushing First Career Multi-HR Game
+- **Angle:** NEW STORY (Monday April 6 result). Dodgers 14, Blue Jays 2. Dalton Rushing 4-for-4, 2 solo HRs (first career multi-HR game). Teoscar Hernandez 2-run HR (4 RBI). Freddie Freeman 2-run HR (3 RBI). Shohei Ohtani solo HR. 5 total HRs. Statement win without Betts.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Dodgers series continuation, Betts return
+
+### Story 2: Betts "Light Years Ahead" / Soto Grade 1 — Both Stars Ahead of Return Schedule
+- **Angle:** FOLLOW-UP. Betts (right oblique, 10-day IL): Roberts says faster than typical 4-6 weeks; Betts says "light years ahead." Hyeseong Kim recalled. Soto (right calf, 10-day IL ret. April 4): grade 1 strain, projected 2-3 weeks; Ronny Mauricio recalled.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Return dates, team impact
+
+### Story 3: Aaron Judge — 3 HRs in 7 Games, Home Opener, Yankees 7-2
+- **Angle:** FOLLOW-UP. Judge hit HR No. 3 in Yankees home opener (April 5) vs. Marlins: off Eury Pérez, 387 ft, 101.2 mph. Yankees won 8-2. Career HRs: 371 entering this week (needs 29 more for 400). AL East leaders.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Career HR chase, Yankees AL East run
+
+### Story 4: Konnor Griffin — 1-for-9, Dropped in Order, 19-Year-Old Adjusting
+- **Angle:** FOLLOW-UP (debut update). Griffin 1-for-9 through ~4 games. Dropped in batting order ahead of Padres series. X-rays negative (foul ball off foot). No. 1 overall prospect. Pirates committed long-term.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Griffin development, Pirates NL Central race
+
+### Story 5: Shohei Ohtani — 36-Game OBP Streak, 6 Scoreless IP Debut, Monday HR
+- **Angle:** FOLLOW-UP / NEW ANGLE. Ohtani: 36-game on-base streak (back to 2025). March 31 pitching debut: 6 scoreless IP, 1H, 3BB, 6K, 87 pitches vs. Guardians (Dodgers 4-1). April 6: solo HR in 14-2 win over Blue Jays. Two-way excellence story.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Ohtani next pitching start, 2-way season tracking
+
+### Story 6: DeLauter and Murakami — Two Historic Rookie Starts Running Simultaneously
+- **Angle:** FOLLOW-UP. DeLauter (Guardians): 5 HRs, 8 games, fastest rookie pace in years. Murakami (White Sox): 4 HRs, 8 games, most by Japanese-born player in first 8 career MLB games. Double milestone.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** AL ROY race, rookie class evaluation
+
+### Story 7: Early MLB Standings — Dodgers/Yankees Lead, Brewers Surprise, Red Sox Struggle
+- **Angle:** EVERGREEN. Dodgers and Yankees ~7-2. Brewers surprising NL. Red Sox ~2-8, early disappointment.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Standings evolution through April
+
+---
+
 ## 2026-04-06
 
 ### Story 1: Joey Wiemer — Ties Live-Ball Era Record, 10 Consecutive PAs Reaching Base

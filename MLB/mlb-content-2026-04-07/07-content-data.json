@@ -1,0 +1,321 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-07",
+  "compiled_at": "2026-04-07T10:49:20.243691+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Dodgers Hit 5 HRs in 14-2 Monday Blowout — Rushing, Ohtani, Hernandez, Freeman Unload (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Dodgers hit five home runs on Monday.\n\nDalton Rushing: 2. Teoscar Hernandez: 1. Freddie Freeman: 1. Shohei Ohtani: 1.\n\nFinal score: Dodgers 14, Blue Jays 2. The defending champs are not messing around. #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Dalton Rushing went 4-for-4 with two home runs Monday — his first career multi-HR game.\n\nThat performance came in the middle of a 14-2 Dodgers blowout over Toronto that featured five total HRs and 14 runs.\n\nThe Dodgers offense is fully awake. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-dodgers-14-blue-jays-2-five-hrs-dalton-rushing.html",
+        "headline": "Dodgers Crush Blue Jays 14-2 With Five HRs — Dalton Rushing's First Career Multi-Homer Game Headlines Blowout",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dodgers 14-2, Five HRs\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Dalton Rushing Los Angeles Dodgers\"\nAction shot at the plate or home run celebration — Rushing's first career multi-HR game is the centerpiece.\n\n**Image Concept 2 — Social (1080x1350)**\nSearch: \"Shohei Ohtani Los Angeles Dodgers\"\nOhtani swing or HR trot from the blowout win — anchors the five-HR offensive display.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Betts Update — \"Light Years Ahead,\" Dodgers Optimistic on Return Timeline (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Mookie Betts: \"light years ahead\" of where he expected to be.\n\nDodgers say his oblique strain recovery could be faster than the typical 4-6 weeks.\n\nStill on the 10-day IL — but the news is better than feared. #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Two stars, two IL stints, both with better news than expected:\n\nMookie Betts (Dodgers) — oblique, recovery ahead of schedule.\nJuan Soto (Mets) — grade 1 calf strain, back in 2-3 weeks.\n\nThe injury picture is improving. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-betts-soto-il-updates-optimistic-recovery-timelines.html",
+        "headline": "Betts and Soto Updates: \"Light Years Ahead\" and Grade 1 — Both Stars Have Better News Than Expected",
+        "word_count": 624
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Betts / Soto Injury Updates\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Mookie Betts Los Angeles Dodgers\"\nAction shot of Betts — represents the optimistic recovery story.\n\n**Image Concept 2 — Social (1080x1350)**\nSearch: \"Juan Soto New York Mets\"\nSoto at plate or in dugout — represents the IL update and 2-3 week return.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Aaron Judge Continues Career HR Chase — 3 HRs in 7 Games, Yankees Lead AL East (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Aaron Judge hit his third home run of 2026 in the Yankees home opener.\n\n387 feet. 101.2 mph exit velocity. Off Eury Pérez. New York won 8-2.\n\nHe entered 2026 with 368 career HRs. He needs 32 more to reach 400. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-aaron-judge-home-opener-hr-yankees-al-east-lead.html",
+        "headline": "Aaron Judge Homers in the Yankees Home Opener — The Career HR Chase Is On in the Bronx",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge / Yankees\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Aaron Judge New York Yankees\"\nJudge at bat or HR trot — the career HR chase and home opener story.\n\n**Image Concept 2 — Article Hero (1200x630)**\nSearch: \"Aaron Judge New York Yankees\"\nLandscape crop for article header.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Konnor Griffin — Rough Start, Long View (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Konnor Griffin is 1-for-9 in his first four MLB games.\n\nHe was dropped in the batting order. He's 19 years old and adjusting to the big leagues in real time.\n\nThe Pirates remain committed. Patience is part of the plan with the No. 1 prospect in baseball. #LetsGoBucs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetsGoBucs"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-konnor-griffin-pirates-slow-start-long-view.html",
+        "headline": "Konnor Griffin's Slow Start: What It Means and What It Doesn't Mean",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Konnor Griffin\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Konnor Griffin Pittsburgh Pirates\"\nGriffin at the plate or in the field — young prospect adjusting to MLB.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Shohei Ohtani — 36-Game On-Base Streak, Power Numbers, Two-Way Dominance (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Shohei Ohtani on April 6: solo home run, Dodgers 14-2.\n\nShohei Ohtani on March 31: 6 scoreless innings, 1 hit, 6 Ks on 87 pitches.\n\nHe's also in the middle of a 36-game on-base streak.\n\nThe best player in baseball is doing what the best player in baseball does. #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-shohei-ohtani-two-way-excellence-pitching-debut-hr-streak.html",
+        "headline": "Shohei Ohtani Is Doing Everything Again — 36-Game On-Base Streak, Dominant Pitching Debut, Monday HR",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shohei Ohtani\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Shohei Ohtani Los Angeles Dodgers\"\nOhtani pitching or batting — two-way excellence story.\n\n**Image Concept 2 — Article Hero (1200x630)**\nSearch: \"Shohei Ohtani Los Angeles Dodgers\"\nLandscape crop for article header.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "DeLauter and Murakami — Two Historic Rookie Starts in the Same Week (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Chase DeLauter: 5 HRs in 8 games.\nMunetaka Murakami: 4 HRs in 8 games (most by a Japanese-born player in their first 8 MLB games).\n\nBoth in the first two weeks of the season.\n\nThe 2026 rookie class is already one for the books. #MLB #Guardians #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Guardians",
+            "#WhiteSox"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DeLauter / Murakami\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Chase DeLauter Cleveland Guardians\"\nDeLauter swing or HR celebration — 5 HRs in 8 games.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Early MLB Standings — Dodgers, Yankees Out Front; Red Sox Struggling (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Ten days into the 2026 MLB season:\n\nDodgers and Yankees are both around 7-2 and look like the class of baseball.\nBrewers are a pleasant surprise.\nRed Sox are around 2-8 and already in trouble.\n\nThe early picture is taking shape. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Early Standings\n\n**Image Concept 1 — Social (1080x1350)**\nSearch: \"Aaron Judge Shohei Ohtani\"\nAny composite or general MLB action representing top teams early in the season."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

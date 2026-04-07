@@ -1,6 +1,12 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-07
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (web search via agent), brief (7 stories), research notes, story analysis, X posts (9 — 2 char violations fixed), FB posts (14), image concepts, image manifest, articles (5), fact-check (25 claims, 0 char violations after fix), compile, dashboard, publish, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish blocked by proxy sandbox (known network restriction).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **Issues**: publish-unified-dashboard.py 403 (PAT, known) — used publish-dashboard.py (pushed successfully). WordPress 403 (proxy sandbox). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue).
+
+## Previous Run
 - **Date**: 2026-04-06
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (27 claims, 0 char violations), compile, dashboard, publish, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish blocked by proxy sandbox (known network restriction).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -59,6 +65,19 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-07
+- **Steps completed:** Full pipeline 1-15
+- **Stories:** 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- **X Posts:** 9 (2 char violations fixed before compile; 0 violations after fix)
+- **FB Posts:** 7 long-form + 7 image captions
+- **Articles:** 5 (Stories 1-5; Stories 6-7 excluded by design)
+- **Fact-check:** 25 claims. 0 char violations after fix. IMAGE MISSING expected.
+- **Dashboard:** Published — https://fangearhq-boop.github.io/content-dashboards/
+- **PostPlanner:** bb-postplanner-2026-04-07.xlsx (9 posts), bb-postplanner-tobi-2026-04-07.xlsx (9 TOBI posts)
+- **WordPress:** Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- **Key stories:** Dodgers 14-2 Blue Jays 5 HRs Rushing first career multi-HR game (P10); Betts "light years ahead" oblique recovery Soto grade 1 calf 2-3 weeks (P10); Judge HR No. 3 home opener 387ft 101mph career chase to 400 Yankees 7-2 AL East (P8); Griffin 1-for-9 dropped in order 19yo adjustment (P7); Ohtani 36-game OBP streak 6 scoreless IP pitching debut Monday HR (P7); DeLauter 5 HR Murakami 4 HR dual rookie records (P7); early standings Dodgers Yankees lead Red Sox 2-8 (P5)
+- **Notes:** 2 char violations in Story 2 tweets trimmed. publish-unified-dashboard.py 403 (known PAT restriction) — used publish-dashboard.py successfully.
 
 ### 2026-04-06
 - **Steps completed:** Full pipeline 1-15
