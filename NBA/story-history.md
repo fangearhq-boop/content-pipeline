@@ -2,6 +2,70 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-07
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Wembanyama exits Spurs-76ers with left rib contusion; 17 pts, 5 reb, 3 blk; Spurs win 115-102; needs 20+ min in final 3 games for MVP eligibility; status unknown | 1 | NEW STORY / FOLLOW-UP (4/6 — MVP race; injury is new) |
+| 2 | Jokic 35/13/13 (33rd TD); Nuggets rally from 16 down in Q4 to win 137-132 OT vs. Blazers; Murray 20 pts (7 OT); Denver 51-28, half-game ahead of Lakers (50-28) for No. 3 | 1 | FOLLOW-UP (4/6 — Jokic TD season avg; OT comeback new) |
+| 3 | Grizzlies tie NBA record with 29 3-pointers (29/59, 49.2%); still lose 142-126 to Cavaliers; Bal and Whitehead each 6; 9 different shooters; Mobley 24, Schroder 22/11 | 1 | NEW STORY |
+| 4 | Knicks 108-105 Hawks; Brunson 30/13, KAT 21/12/6; East seeding implications with 5 days left | 2 | NEW STORY |
+| 5 | Magic 123-107 Pistons; Banchero 31, Bane 25; Orlando continues playoff push | 2 | NEW STORY |
+| 6 | OKC holds No. 1 West seed; Spurs at 60-18 (No. 2); Wemby injury complicates seeding race strategy | 2 | FOLLOW-UP (4/6 — OKC/Spurs race; Wemby injury adds new dimension) |
+| 7 | Tuesday preview — Wemby return watch; season ends April 12, playoffs April 18 | 3 | FOLLOW-UP (ongoing preview) |
+
+---
+
+### STORY 1: Wembanyama Exits With Left Rib Contusion — MVP Eligibility at Risk
+- **Tier:** 1
+- **Category:** Injury / MVP Race
+- **Key facts:** Wemby: 17 pts, 5 reb, 3 blk before exiting in 2nd quarter. Left rib contusion from Paul George foul. Spurs win 115-102 without him. 3 games left; needs 20+ min in one for MVP/DPOY/All-NBA eligibility. Status unknown. SGA -260, Wemby +250.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Wemby return timeline; Spurs playoff preparation; MVP vote impact
+
+### STORY 2: Jokic 35/13/13 — Nuggets OT Comeback vs. Blazers
+- **Tier:** 1
+- **Category:** Individual Performance / West Standings
+- **Key facts:** Jokic 35/13/13, 33rd TD. Rally from 16 down in Q4. Nuggets 137-132 OT. Murray 20 (7 OT). Denver 51-28 (half-game ahead of Lakers for No. 3 seed). Portland: franchise-record 25 threes (Camara 30, Avdija 26).
+- **Status:** FOLLOW-UP (4/6 — Jokic triple-double season avg angle)
+- **Follow-Up Opportunities:** Jokic triple-double season average lock-in; West No. 3 seed race
+
+### STORY 3: Grizzlies Tie NBA 3-Pointer Record — 29 Makes in 142-126 Loss
+- **Tier:** 1
+- **Category:** Historic / Game Recap
+- **Key facts:** 29/59 from three (49.2%). Ties record (Bucks Dec 2020, Celtics Oct 2024). Nine shooters hit at least one. Bal and Whitehead each 6. Williamson 5/12. Prosper 4/5. Cavaliers won 142-126: Mobley 24, Schroder 22/11.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Could anyone break the record outright? Grizzlies three-point culture
+
+### STORY 4: Knicks 108-105 Hawks — Brunson 30/13
+- **Tier:** 2
+- **Category:** Game Recap / East Standings
+- **Key facts:** Brunson 30 pts, 13 ast. KAT 21 pts, 12 reb, 6 ast. Knicks improve East seeding.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Knicks first-round matchup preview; Brunson All-NBA candidacy
+
+### STORY 5: Magic 123-107 Pistons — Banchero 31, Bane 25
+- **Tier:** 2
+- **Category:** Game Recap / East Standings
+- **Key facts:** Banchero 31, Bane 25. Magic win 123-107. Orlando continues playoff/Play-In push.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Orlando playoff seeding; Banchero All-Star candidacy next year
+
+### STORY 6: OKC vs. Spurs — No. 1 West Seed Race Final Week
+- **Tier:** 2
+- **Category:** Standings / Analysis
+- **Key facts:** OKC leads West (No. 1). Spurs at 60-18 (No. 2). Wemby injury complicates Spurs' final-week strategy.
+- **Status:** FOLLOW-UP (4/6 — seeding race)
+- **Follow-Up Opportunities:** No. 1 seed clinching; playoff bracket implications
+
+### STORY 7: Tuesday Preview
+- **Tier:** 3
+- **Category:** Preview
+- **Key facts:** Wemby return watch; Season ends April 12; Playoffs April 18.
+- **Status:** FOLLOW-UP (ongoing)
+
+---
+
 ## 2026-04-06
 
 | # | Story | Tier | Tag |

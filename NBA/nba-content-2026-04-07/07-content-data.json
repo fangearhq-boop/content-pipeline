@@ -1,0 +1,396 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-07",
+  "compiled_at": "2026-04-07T11:16:12.722264+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Wemby Injury",
+      "type": "Breaking update"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1 — MVP angle",
+      "type": "Bold take"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — Jokic OT",
+      "type": "Performance recap"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 — Jokic angle 2",
+      "type": "Stat deep dive"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Grizzlies Record",
+      "type": "Historic recap"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Knicks-Hawks",
+      "type": "Game recap"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 5 — Magic-Pistons",
+      "type": "Game recap"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — OKC/Spurs",
+      "type": "Analysis"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7 — Tuesday Preview",
+      "type": "Preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Wembanyama Exits Spurs-76ers Game With Rib Injury — MVP Eligibility Now in Jeopardy",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 9:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Victor Wembanyama left Monday's game in the 2nd quarter with a left rib contusion.\n\n17 pts. 5 reb. 3 blk. Then he was gone.\n\nHe needs 20+ minutes in one of his final 3 games to qualify for MVP. Status unknown.\n\n#HoopHeroes #Spurs",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Wemby is hurt. SGA is -260 for MVP.\n\nIf Wembanyama misses his last 3 games, he could be ineligible for every award he was a finalist for.\n\nThe most cruel timing in recent memory for a 22-year-old who redefined basketball.\n\n#HoopHeroes #NBA #MVP",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#MVP"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 9:30 AM"
+      },
+      "article": {
+        "filename": "article-01-wembanyama-rib-injury-mvp-eligibility-jeopardy.html",
+        "headline": "Wembanyama Exits With Rib Injury — MVP Eligibility Now in Jeopardy",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama Rib Injury — MVP Eligibility at Risk\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Victor Wembanyama in San Antonio Spurs uniform, ideally showing intensity or concern on the sideline.\n- **Photo Search Terms:**\n  1. \"Victor Wembanyama San Antonio Spurs\"\n  2. \"Wembanyama Spurs\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"WEMBY EXITS\"\n  - Subtitle (Montserrat, #FF5722 Deep Orange): \"LEFT RIB CONTUSION\"\n  - Subtext (Montserrat, white): \"MVP eligibility in jeopardy — 3 games left.\"\n- **Overlay Bar:** Dark Midnight (#1A1A2E, 45% opacity) bottom third\n- **Composition:** Player fills upper two-thirds; text on dark bar at bottom\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Same search terms, wider crop — sideline or in-game action\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama Rib Injury\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Wembanyama left Spurs-76ers game with left rib contusion | HIGH | ESPN, Yahoo Sports, SI.com, multiple outlets |\n| Injury occurred in 2nd quarter after Paul George foul | HIGH | ESPN, wsls.com |\n| Wemby finished: 17 pts, 5 reb, 3 blk | HIGH | CBS Philadelphia, SI.com |\n| Spurs won 115-102 | HIGH | ESPN, multiple outlets |\n| Spurs have 3 remaining games (Portland Wed, Dallas Fri, Denver Sun) | HIGH | click2houston.com |\n| Wemby needs 20+ minutes in one game for MVP/DPOY/All-NBA eligibility | HIGH | Yahoo Sports, SI.com |\n| SGA: -260 MVP favorite, Wemby: +250 | MEDIUM | Multiple betting outlets (from prior pipeline) |\n| Spurs coach Johnson: \"heard nothing\" on severity after game | HIGH | Multiple outlets |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Jokic 35/13/13 — Nuggets Rally From 16 Down in Q4 to Win in OT, 33rd Triple-Double",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM, 11:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Nikola Jokic: 35 points. 13 rebounds. 13 assists.\n\nDenver was down 16 in the 4th quarter. Then Jokic happened.\n\nNuggets win 137-132 in overtime. His 33rd triple-double. Denver moves ahead of the Lakers.\n\n#HoopHeroes #Nuggets",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Nuggets"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Down 16 in Q4. Won in OT. Jokic with 35/13/13.\n\nThis is his 33rd triple-double this season. He's one of the greatest players in NBA history and people are STILL sleeping on him.\n\n#HoopHeroes #Nuggets #NBA",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Nuggets",
+            "#NBA"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM, 11:30 AM"
+      },
+      "article": {
+        "filename": "article-02-jokic-35-13-13-nuggets-ot-comeback-blazers.html",
+        "headline": "Jokic 35/13/13: Nuggets Rally From 16 Down in Q4 to Win in OT",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jokic 35/13/13 — OT Comeback\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Nikola Jokic in Denver Nuggets uniform, ideally directing the offense or celebrating a big play.\n- **Photo Search Terms:**\n  1. \"Nikola Jokic Denver Nuggets\"\n  2. \"Jokic Nuggets\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"35 · 13 · 13\"\n  - Subtitle (Montserrat, #FFC107 Gold): \"COMEBACK IN OT\"\n  - Subtext (Montserrat, white): \"Down 16 in Q4. Won in overtime. Triple-double No. 33.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n**Article Hero (1200×630, landscape)**\n- Same search terms, action shot showing Jokic with the ball\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jokic 35/13/13 — Nuggets Rally\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Jokic: 35 pts, 13 reb, 13 ast | HIGH | Durango Herald, ESPN |\n| Nuggets won 137-132 in overtime | HIGH | Durango Herald, ESPN |\n| Denver rallied from 16-point Q4 deficit | HIGH | Durango Herald |\n| Jamal Murray: 20 pts (7 in OT) | HIGH | Durango Herald |\n| Denver now 51-28, half-game ahead of Lakers (50-28) for No. 3 seed | HIGH | ESPN |\n| This was Jokic's 33rd triple-double of the season | HIGH | Durango Herald |\n| Portland: franchise-record 25 3-pointers | HIGH | Durango Herald |\n| Toumani Camara: 30 pts, 8 threes | HIGH | Durango Herald |\n| Deni Avdija: 26 pts, 13-14 from FT | HIGH | Durango Herald |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Memphis Grizzlies Match NBA Record With 29 Three-Pointers — Still Lose 142-126 to Cavaliers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Memphis made 29 three-pointers Monday night.\n\nThat TIES the NBA single-game record shared by Milwaukee (2020) and Boston (2024).\n\nThey still lost 142-126. To the Cavaliers. NBA is wild.\n\n#HoopHeroes #NBA",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 3-2",
+          "text": "9 different Grizzlies made a 3-pointer last night.\n\n29 makes. 49% from deep. NBA record tied.\n\nStill lost by 16. Somewhere, analytics people are screaming into a pillow.\n\n#HoopHeroes #Grizzlies",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Grizzlies"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-grizzlies-29-three-pointers-nba-record-cavaliers.html",
+        "headline": "Grizzlies Tie NBA Record With 29 Three-Pointers — and Still Lose by 16",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Grizzlies 29 Three-Pointers NBA Record\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Memphis Grizzlies player in shooting motion — Desmond Bane or other known shooter.\n- **Photo Search Terms:**\n  1. \"Desmond Bane Memphis Grizzlies\"\n  2. \"Memphis Grizzlies\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"29 THREE-POINTERS\"\n  - Subtitle (Montserrat, #FFC107 Gold): \"TIED THE NBA RECORD\"\n  - Subtext (Montserrat, white): \"Still lost 142-126. NBA is wild.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n**Article Hero (1200×630, landscape)**\n- Grizzlies team celebration or shooting motion, wide shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Grizzlies 29 3-Pointers Record\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Grizzlies made 29-for-59 threes (49.2%) | HIGH | ABC News, Fox Sports, AP |\n| Ties NBA single-game record | HIGH | ABC News, Fox Sports, AP |\n| Previous record shared by Bucks (Dec 29, 2020, 144-97 vs Miami) | HIGH | AP |\n| Previous record tied by Celtics (Oct 22, 2024, 132-109 vs Knicks) | HIGH | AP |\n| Cavaliers won 142-126 | HIGH | Multiple outlets |\n| Nine Grizzlies made at least one 3-pointer | HIGH | AP |\n| Adama Bal made 6 threes | HIGH | AP |\n| Dariq Whitehead made 6 threes | HIGH | AP |\n| Lucas Williamson 5-for-12 from three | HIGH | AP |\n| Olivier-Maxence Prosper 4-for-5 from three | HIGH | AP |\n| Evan Mobley: 24 pts for Cavaliers | HIGH | CBS Sports |\n| Dennis Schroder: 22 pts, 11 ast for Cavaliers | HIGH | CBS Sports |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Knicks 108-105 Hawks — Brunson 30/13 in East Playoff Seeding Battle",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jalen Brunson: 30 points and 13 assists in a 108-105 Knicks win.\n\nKAT added 21 points, 12 rebounds, and 6 assists.\n\nNew York doing exactly what they need to do with one week left. 🔥\n\n#HoopHeroes #Knicks",
+          "posting_time": "3:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Knicks"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM"
+      },
+      "article": {
+        "filename": "article-04-brunson-30-13-knicks-hawks-east-seeding.html",
+        "headline": "Brunson 30/13: Knicks Edge Hawks 108-105 in East Seeding Battle",
+        "word_count": 468
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks 108-105 Hawks — Brunson 30/13\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Jalen Brunson in New York Knicks uniform, ideally in scoring motion or celebration.\n- **Photo Search Terms:**\n  1. \"Jalen Brunson New York Knicks\"\n  2. \"Brunson Knicks\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"BRUNSON DELIVERS\"\n  - Subtitle (Montserrat, #FF5722): \"30 PTS · 13 AST\"\n  - Subtext (Montserrat, white): \"Knicks 108, Hawks 105. East seeding secured.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks 108-105 Hawks\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Knicks won 108-105 | HIGH | CBS Sports Gametracker |\n| Jalen Brunson: 30 pts, 13 ast | HIGH | CBS Sports |\n| Karl-Anthony Towns: 21 pts, 12 reb, 6 ast | HIGH | CBS Sports |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Magic 123-107 Pistons — Banchero 31 Points as Orlando Fights for East Play-In Spot",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Paolo Banchero dropped 31 points on the No. 1 seed Pistons last night.\n\nDesmond Bane added 25. Magic win 123-107.\n\nOrlando is NOT going away quietly. 🔥\n\n#HoopHeroes #Magic",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Magic"
+          ],
+          "char_count": 171
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM"
+      },
+      "article": {
+        "filename": "article-05-banchero-31-magic-pistons-playoff-push.html",
+        "headline": "Banchero 31, Bane 25: Magic Rout Pistons 123-107 in Playoff Push",
+        "word_count": 423
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Magic 123-107 Pistons — Banchero 31\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Paolo Banchero in Orlando Magic uniform, ideally in attack mode or post-game celebration.\n- **Photo Search Terms:**\n  1. \"Paolo Banchero Orlando Magic\"\n  2. \"Banchero Magic\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"BANCHERO ERUPTS\"\n  - Subtitle (Montserrat, #FFC107 Gold): \"31 POINTS\"\n  - Subtext (Montserrat, white): \"Magic 123, Pistons 107. Orlando stays alive.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Magic 123-107 Pistons\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Magic won 123-107 | HIGH | CBS Sports, 95.3 The Score |\n| Paolo Banchero: 31 pts | HIGH | CBS Sports |\n| Desmond Bane: 25 pts | HIGH | CBS Sports |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "OKC vs. Spurs — No. 1 Seed Race Final Stretch With Wemby Injury Adding Drama",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "OKC holds the No. 1 seed in the West. Spurs are No. 2.\n\nNow Wemby is hurt and San Antonio faces a brutal choice: protect their star for the playoffs or chase the seed?\n\nFive games left. Every decision matters.\n\n#HoopHeroes #Spurs #NBA",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs",
+            "#NBA"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "OKC vs. Spurs — No. 1 Seed Race\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Shai Gilgeous-Alexander in OKC Thunder uniform — SGA has been the defining story of the West all season.\n- **Photo Search Terms:**\n  1. \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n  2. \"SGA Thunder\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"NO. 1 SEED RACE\"\n  - Subtitle (Montserrat, #FFC107): \"OKC vs. SPURS\"\n  - Subtext (Montserrat, white): \"5 days left. Wemby hurt. Everything matters.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "OKC vs. Spurs Seeding Race\n| Fact | Confidence | Source |\n|------|------------|--------|\n| OKC is No. 1 seed in West | HIGH | CBS Sports standings |\n| Spurs are No. 2 seed at 60-18 | HIGH | Multiple sources |\n| Spurs hold tiebreaker over OKC | HIGH | Prior pipeline (4/4 notes) |\n| Season ends April 12 | HIGH | Multiple sources |\n| Playoffs begin April 18 | HIGH | Multiple sources |\n## Story History Cross-Reference\n- STORY 1 (Wemby injury): NEW critical development — first rib injury this season, MVP eligibility risk\n- STORY 2 (Jokic OT): FOLLOW-UP from 4/6 (Jokic triple-double season avg angle); OT comeback/33rd TD new\n- STORY 3 (Grizzlies record): NEW STORY — no previous coverage\n- STORY 4 (Knicks-Hawks): NEW STORY\n- STORY 5 (Magic-Pistons): NEW STORY\n- STORY 6 (OKC/Spurs): FOLLOW-UP from 4/6 (West No. 1 seed race)\n- STORY 7 (Preview): FOLLOW-UP (ongoing)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Tuesday NBA Slate — Spurs Rest Wemby or Risk It? Final Week Games",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "TUESDAY NIGHT NBA 🏀\n\nThe question: Does Wembanyama play Wednesday vs. Portland?\n\nFive days left in the regular season. Season ends April 12. Playoffs start April 18.\n\nEverything is on the line. Don't miss a game.\n\n#HoopHeroes #NBA",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tuesday Preview\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Generic NBA arena shot — crowd, court, atmosphere.\n- **Photo Search Terms:**\n  1. \"NBA arena crowd\"\n  2. \"basketball court NBA\"\n- **Text Overlay:**\n  - Headline (Bebas Neue, white): \"FINAL STRETCH\"\n  - Subtitle (Montserrat, #FFC107 Gold): \"5 DAYS LEFT\"\n  - Subtext (Montserrat, white): \"Regular season ends April 12. Playoffs April 18.\"\n- **Overlay Bar:** Dark Midnight bottom third, 45% opacity"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

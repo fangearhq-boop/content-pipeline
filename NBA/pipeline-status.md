@@ -1,11 +1,23 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-05
-- **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted; git committed and pushed)
+- **Date**: 2026-04-07
+- **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-07
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-04-07.xlsx (10 posts) + hh-postplanner-tobi-2026-04-07.xlsx (10 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-07/review-dashboard.html (29 items)
+- **Notes:** Wembanyama left rib contusion vs. 76ers (Paul George foul, 2nd quarter); 17/5/3 before exiting; Spurs win 115-102; MVP eligibility at risk (needs 20+ min in one of final 3 games). Jokic 35/13/13 (33rd TD); Nuggets rally from 16 down in Q4 to beat Blazers 137-132 OT; Denver 51-28, half-game ahead of Lakers for No. 3 seed. Grizzlies tie NBA record with 29 three-pointers (29/59, 49.2%) in 142-126 loss to Cavaliers; Bal and Whitehead each 6; nine shooters. Knicks 108-105 Hawks (Brunson 30/13, KAT 21/12/6). Magic 123-107 Pistons (Banchero 31, Bane 25). OKC still holds No. 1 West seed; Spurs at 60-18.
+- **Fact concerns:** All core facts HIGH from ESPN, AP, Yahoo Sports, ABC News, CBS Sports, NBA.com. Jokic "half-game ahead of Lakers" is HIGH from ESPN. No LOW confidence facts used.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with previous runs)
 
 ### 2026-04-05
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
