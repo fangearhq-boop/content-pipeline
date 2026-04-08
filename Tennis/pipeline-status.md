@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-07 |
-| Writing | Complete (all steps) | 2026-04-07 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-07 |
-| Compile | Complete (07-content-data.json) | 2026-04-07 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-07 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-07 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-07 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-07 |
+| Research | Complete | 2026-04-08 |
+| Writing | Complete (all steps) | 2026-04-08 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-08 |
+| Compile | Complete (07-content-data.json) | 2026-04-08 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-08 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-08 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-08 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-08 |
 
 ## Queue
 
@@ -24,6 +24,40 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-08 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 9 X posts + 10 FB posts (5 long-form + 5 captions) = 19 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-08.xlsx (9 posts), tfr-postplanner-tobi-2026-04-08.xlsx (9 TOBI posts)
+- **Coverage:** Berrettini def. Medvedev 6-0, 6-0 in 49 min (first top-10 double bagel in 10 years; 17 points won); Alcaraz def. Báez 6-1, 6-3 MC R2 title defense (No. 1 race vs. Sinner context); Dimitrov falls outside top 100 for first time in 14 years (Etcheverry 6-4,2-6,6-3); Bergs def. Rublev 6-4,6-1 on MC main draw debut; ATP Rankings — Shelton American No. 1 (No. 8), Paul No. 18, Jodar +32 to No. 57, Trungelliti oldest Open Era top-100 debutant
+- **Research:** Multi-source web search via research agent; Berrettini/Medvedev from atptour.com + skysports.com + montecarlotennismasters.com + tennis365.com; Alcaraz from atptour.com + tennismajors.com + tennis365.com; Dimitrov/Etcheverry from tennismajors.com + Perfect Tennis Day 3 recap; Bergs/Rublev from lavenir.net (Belgian source) + snippet; Rankings from Yardbarker + tennisuptodate.com + atptour.com
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 14 claims extracted; 35 HIGH; image warnings expected (production not started)
+  - compile-content-data.py: 9 X posts, 5 articles; posting window warnings cosmetic (same as all previous runs)
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as all previous runs)
+  - WordPress publish failed: proxy blocks fanrumor.com (host_not_allowed) — same env restriction as all prior runs
+  - Sinner vs. Cerundolo R3 score NOT confirmed at research time (score cited in one ambiguous snippet, not independently verified); not covered today
+  - Key facts (HIGH confidence): Berrettini 6-0,6-0 in 49 min (5+ sources); Medvedev 17 points total (sky sports); first top-10 double bagel in 10 years (sky sports + montecarlotennismasters.com); Alcaraz 6-1,6-3 in 70 min (atptour.com + tennismajors.com); Etcheverry 6-4,2-6,6-3 (tennismajors.com + Perfect Tennis); Dimitrov outside top 100 for first time in 14 years (tennismajors.com); Bergs def. Rublev 6-4,6-1 (MEDIUM — lavenir.net); Shelton No. 8 / Paul No. 18 / Jodar No. 57 (Yardbarker + tennisuptodate)
+- **Files created:**
+  - `tennis-content-2026-04-08/00-daily-brief.md`
+  - `tennis-content-2026-04-08/01-research-notes.md`
+  - `tennis-content-2026-04-08/02-story-analysis.md`
+  - `tennis-content-2026-04-08/03-social-posts-x.md`
+  - `tennis-content-2026-04-08/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-08/05-image-concepts.md`
+  - `tennis-content-2026-04-08/06-fact-check-log.md`
+  - `tennis-content-2026-04-08/07-content-data.json`
+  - `tennis-content-2026-04-08/07-image-manifest.md`
+  - `tennis-content-2026-04-08/review-dashboard.html`
+  - `tennis-content-2026-04-08/articles/article-01-berrettini-double-bagels-medvedev-monte-carlo-2026.html`
+  - `tennis-content-2026-04-08/articles/article-02-alcaraz-monte-carlo-r2-win-no1-race-2026.html`
+  - `tennis-content-2026-04-08/articles/article-03-dimitrov-outside-top-100-etcheverry-monte-carlo-2026.html`
+  - `tennis-content-2026-04-08/articles/article-04-bergs-upsets-rublev-monte-carlo-debut-2026.html`
+  - `tennis-content-2026-04-08/articles/article-05-atp-rankings-shelton-paul-jodar-clay-season-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-08.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-08.xlsx`
 
 ### 2026-04-07 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

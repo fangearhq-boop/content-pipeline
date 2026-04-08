@@ -6,6 +6,11 @@ Track previously covered stories to avoid repetition and maintain content freshn
 
 | Date | Story | Tier | Platforms | Notes |
 |------|-------|------|-----------|-------|
+| 2026-04-08 | Berrettini def. Medvedev 6-0, 6-0 in 49 min — Monte Carlo R2; first top-10 double bagel in 10 years | T1 | X, FB, Article | Medvedev won 17 points; racket smash; Berrettini wildcard; "one of the best performances of my life" |
+| 2026-04-08 | Alcaraz def. Báez 6-1, 6-3 — Monte Carlo R2 title defense begins; No. 1 race vs. Sinner active | T1 | X, FB, Article | 70 minutes; Alcaraz defending 1,000 pts; Sinner 0 to defend; gap ~190 pts |
+| 2026-04-08 | Etcheverry def. Dimitrov 6-4, 2-6, 6-3 — Dimitrov outside top 100 for first time in 14 years | T1 | X, FB, Article | Former world No. 3; 2014 WTF champion; 14-year top-100 streak ends |
+| 2026-04-08 | Bergs def. Rublev 6-4, 6-1 — Monte Carlo main draw debut; upsets No. 15 seed | T2 | X, FB, Article | Belgian, 26; first MC main draw appearance; Rublev beaten in two sets |
+| 2026-04-08 | ATP Rankings — Shelton American No. 1 (No. 8), Paul to No. 18, Jodar +32 to career-high No. 57 | T2 | X, FB, Article | Trungelliti (36) oldest top-100 debutant in Open Era (No. 76); Burruchaga +15 to No. 52 |
 | 2026-04-07 | Sinner def. Humbert 6-3, 6-0 — Monte Carlo R2; revenge for 2025 R1 loss; Cerundolo next | T1 | X, FB, Article | 6-0 second set; Sinner 0 pts to defend; career MC record 10-4 |
 | 2026-04-07 | Cerundolo def. Tsitsipas 7-5, 6-4 — first MC R1 loss in 8 appearances; Tsitsipas falls outside Top 60 | T1 | X, FB, Article | Cerundolo 15th win of 2026; faces Sinner in R3 |
 | 2026-04-07 | Wawrinka loses Monte Carlo farewell 7-5, 7-5 to Baez — retiring at end of 2026 | T1 | X, FB, Article | Won MC 2014 vs Federer; "hopefully I can win a few matches this year" |
