@@ -1,13 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-07
-- **Steps Completed**: Full pipeline (Steps 1-15) — research (web search via agent), brief (7 stories), research notes, story analysis, X posts (9 — 2 char violations fixed), FB posts (14), image concepts, image manifest, articles (5), fact-check (25 claims, 0 char violations after fix), compile, dashboard, publish, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish blocked by proxy sandbox (known network restriction).
+- **Date**: 2026-04-08
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ web searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (23 claims, 0 char violations, 0 consistency errors), compile (validation all clear), dashboard, publish (pushed to content-dashboards), PostPlanner exports (23 posts, 16 TOBI posts). WordPress publish blocked by proxy (known).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
-- **Issues**: publish-unified-dashboard.py 403 (PAT, known) — used publish-dashboard.py (pushed successfully). WordPress 403 (proxy sandbox). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue).
+- **Issues**: WordPress 403 (proxy sandbox — known). Story 6 article skipped by design (5 articles meet minimum). IMAGE MISSING expected (not_started). FB posts compile to 0 (heading format — known issue).
 
 ## Previous Run
-- **Date**: 2026-04-06
+- **Date**: 2026-04-07
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (27 claims, 0 char violations), compile, dashboard, publish, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish blocked by proxy sandbox (known network restriction).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
 - **Issues**: Stories 6-7 — no articles by design (5 articles meet minimum). IMAGE MISSING warnings expected (not_started). WordPress 403 (proxy sandbox). FB posts compile to 0 (heading format mismatch — known issue).
@@ -65,6 +65,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-08
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Story 6-7 social only)
+- Fact-check: 23 claims. 0 char-limit violations. 0 consistency errors. IMAGE MISSING expected (not_started).
+- Dashboard: Published, live at https://fangearhq-boop.github.io/content-dashboards/
+- PostPlanner: bb-postplanner-2026-04-08.xlsx (23 posts), bb-postplanner-tobi-2026-04-08.xlsx (16 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Amed Rosario 2-HR 5-RBI comeback Yankees 5-3 A's 8-2 record (P10); Reds Burns 0.82 ERA + Lowder 1.30 ERA first 8 career starts (lowest Reds pitcher since 1913) sweeps Rangers (P10); Yankees 8 runs allowed 9 games matches 83-year-old record Fried 13.1 scoreless innings (P8); Brewers 8-2 +30 run diff PECOTA projected 81-81 (P7); Rockies sweep Astros first series win since June 2025 8-run inning + Freeland shutdown (P7); Griffin debut first teen since Soto 2018 (P6); Betts/Soto/Brown all IL same week (P5)
+- Notes: Story history conflict avoided (new date section appended at top). 0 tweet char violations. Dashboard pushed to content-dashboards repo successfully.
 
 ### 2026-04-07
 - **Steps completed:** Full pipeline 1-15
