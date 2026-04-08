@@ -2,6 +2,66 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-08
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | FIA April 9 summit today — presentation/discussion (not binding vote); super clipping 250→350kW, energy 9→6MJ; binding vote April 20; goal: before Miami; Bearman 50G crash central exhibit | 1 | FOLLOW-UP (2+ weeks tracking; summit is happening today) |
+| 2 | Verstappen exit clause Aug-Oct 2026 window; called car "terrible," "Mario Kart," "a joke"; 8th at Japan GP; David Croft: "retirement threat not empty"; sabbatical 2027 discussed | 1 | FOLLOW-UP (4/7 — exit clause details escalating; sabbatical framing new) |
+| 3 | Antonelli 72 pts (9 ahead of Russell 63); youngest-ever F1 championship leader at 19 years, 216 days; won 2 of 3 races; Mercedes leads constructors by 45 over Ferrari; is Antonelli faster than Russell? | 1 | FOLLOW-UP (4/7 — ongoing; Antonelli vs. Russell angle new per Autosport) |
+| 4 | Bahrain and Saudi GPs cancelled (Middle East war); calendar drops from 24 to 22 races; 5-week gap Japan-Miami; Ferrari preparing sizeable aero upgrade for Miami | 2 | NEW STORY (formal calendar reduction confirmed) |
+| 5 | Ferrari ADUO PU FIA-approved from Canadian GP; ~25hp gain; Monza filming day April 22 confirmed; Hamilton/Leclerc share duties; revised floor evaluated | 2 | FOLLOW-UP (4/7 — Monza date and hp detail more specific) |
+| 6 | Bearman cleared medically for Miami (bruised knee only); still at 10/12 penalty points; no intermediate race before Miami for points to expire; 50G Spoon Curve crash drove FIA summit | 2 | FOLLOW-UP (4/7 — medical clearance new; penalty situation unchanged) |
+| 7 | Miami GP preview — Sprint weekend May 1-3; first race with possible new rules (post April 20 vote); Ferrari aero package; Verstappen title math increasingly urgent | 3 | FOLLOW-UP (ongoing) |
+
+---
+
+### STORY 1: FIA April 9 Summit — Rule Changes (Happening Today)
+- **Tier:** 1
+- **Category:** Regulation / Safety
+- **Key facts:** April 9 = presentation/discussion. April 20 = binding vote (unanimous required). Super clipping 250→350kW. Energy recovery 9→6MJ. Goal: in place before Miami May 1-3. Bearman 50G crash (closing speed ~50km/h during ERS deployment) = central safety exhibit.
+- **Status:** FOLLOW-UP (2+ weeks)
+- **Follow-Up:** April 20 vote outcome; which changes pass; Miami implementation
+
+### STORY 2: Verstappen Exit Clause
+- **Tier:** 1
+- **Category:** Driver News / Team Crisis
+- **Key facts:** Exit clause active Aug-Oct 2026 if outside top 2. Car called "terrible," "Mario Kart," "a joke." Finished 8th at Japan. Sabbatical 2027 discussed. David Croft: "not empty."
+- **Status:** FOLLOW-UP (escalating)
+- **Follow-Up:** Miami championship positions; Red Bull pace recovery
+
+### STORY 3: Antonelli Championship Leader
+- **Tier:** 1
+- **Category:** Championship / Historic
+- **Key facts:** 72 pts (9 ahead of Russell 63). Leclerc 49. 19 yrs, 216 days — youngest-ever championship leader. Won 2/3 races. Mercedes 45 ahead in constructors. Is Antonelli faster than Russell? (Autosport framing).
+- **Status:** FOLLOW-UP
+
+### STORY 4: Calendar Cancellations
+- **Tier:** 2
+- **Category:** Calendar
+- **Key facts:** Bahrain and Saudi cancelled (Middle East war). 24→22 races. 5-week break Japan-Miami.
+- **Status:** NEW STORY
+
+### STORY 5: Ferrari ADUO
+- **Tier:** 2
+- **Category:** Technical
+- **Key facts:** FIA approved. ~25hp gain. Canadian GP debut. Monza April 22 (Hamilton/Leclerc). Revised floor.
+- **Status:** FOLLOW-UP
+
+### STORY 6: Bearman — 10 Points, Cleared for Miami
+- **Tier:** 2
+- **Category:** Driver News / Safety
+- **Key facts:** Medically cleared — bruised knee only. 10/12 penalty points. No race before Miami for points to expire. 50G Spoon Curve crash drove summit.
+- **Status:** FOLLOW-UP
+
+### STORY 7: Miami Preview
+- **Tier:** 3
+- **Category:** Preview
+- **Key facts:** May 1-3. Sprint weekend. Possible new rules (post April 20). Ferrari aero package. Verstappen title math urgent.
+- **Status:** FOLLOW-UP
+
+---
+
 ## 2026-04-07
 
 | # | Story | Tier | Tag |

@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-07
+- **Date**: 2026-04-08
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-08
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5: FIA summit, Verstappen exit clause, Antonelli youngest leader, calendar cancellations, Bearman clearance)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-08.xlsx (10 posts) + f1fr-postplanner-tobi-2026-04-08.xlsx (10 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-08/review-dashboard.html (29 items)
+- **Notes:** FIA April 9 summit happening today — presentation/discussion only, binding vote April 20; super clipping 250→350kW, energy 9→6MJ proposals. Verstappen exit clause (Aug-Oct 2026 window) escalating — called car "terrible," "Mario Kart"; sabbatical 2027 discussed; David Croft "not empty." Antonelli 72 pts (youngest-ever F1 championship leader, 19 yrs 216 days), Russell 63. Bahrain/Saudi GPs cancelled (NEW STORY — 24→22 races, 5-week break). Ferrari ADUO ~25hp gain, Monza April 22 test confirmed. Bearman medically cleared for Miami, still 10/12 penalty points.
+- **Fact concerns:** Ferrari ADUO ~25hp figure is MEDIUM (ReadMotorsport single source, used as "approximately"). All other facts HIGH from The Race, ESPN, Motorsport.com, Formula1.com, Sky Sports, PlanetF1.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with previous runs)
 
 ### 2026-04-07
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
