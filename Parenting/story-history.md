@@ -2,6 +2,50 @@
 
 ---
 
+## April 8, 2026
+
+### Story 1: CPSC Emergency Warning — Tuyedoqe Travel Bassinet (Stop Use + Destroy)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC emergency warning — company refused recall; Notice of Violation; ~250 units Amazon April-Oct 2025, ~$40; strangulation + fall hazard; action: stop use, cut cover in half, dispose, do not resell or donate)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~250 units sold Amazon April-Oct 2025 ~$40; strangulation risk (restraint system), fall risk (sides too low), fall risk (no stand); company refused recall → CPSC Notice of Violation; destroy before disposal
+- **Follow-Up Opportunities:** Safe infant sleep products guide (evergreen); CPSC emergency warning explainer
+
+### Story 2: COS Childcare Desert — 47K Kids Under 5, Only 18.4K Licensed Spots; June 2026 Zoning Fix
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (COS has ~47,000 children under 5 but only ~18,400 licensed childcare spots; ~29K seat gap; UCCS study: 26% of parents who would work stay home; 2023 UDC inadvertently worsened shortage; June 2026 Childcare Ordinance Update targeting reversal)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 47K children under 5; 18.4K licensed spots; ~29K seat gap; UCCS study 26%; southeast COS + Fountain-Fort Carson worst hit; 2023 UDC banned new in-home + church-based childcare; June 2026 ordinance update; Kids Strong Start campaign Jan 2026
+- **Follow-Up Opportunities:** June 2026 ordinance vote coverage; public comment sessions; childcare provider spotlight
+
+### Story 3: Cheyenne Mountain Zoo Turns 100 — Dog Days April 10, New Giraffe Center Summer 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (CMZoo 100th anniversary year; Dog Days all-day Friday April 10 + April 24; centennial history exhibit March 2026; new 12,000 sq ft giraffe center opening summer 2026; No. 2 zoo in U.S. per USA Today 2026 readers)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** CMZoo opened 1926 (100th year 2026); Dog Days April 10 + April 24 (dogs welcome, all-day); No. 2 zoo USA Today 2026; history exhibit at Penrose Heritage Museum opened March 2026; new International Center for Care and Conservation of Giraffe 12,000 sq ft summer 2026
+- **Follow-Up Opportunities:** Giraffe center opening announcement; summer CMZoo guide; centennial membership push
+
+### Story 4: Bear Creek Nature Center April Programs — Birding, Bird Banding, Homeschool
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Bear Creek Nature Center, 245 Bear Creek Rd: birding class April 9+11 with Aiken Audubon; bird banding April 18 7 AM with CSU-Pueblo researchers; homeschool programs April 23 1 PM; all affordable, local)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** April 9+11 birding class ages 14+ $10/person or $8/member; April 18 bird banding 7-9 AM ages 8+ $5/person; April 23 homeschool 1-3:30 PM multi-age $4/person pre-reg required; 245 Bear Creek Rd COS
+- **Follow-Up Opportunities:** Summer Bear Creek programs; El Paso County Parks event calendar
+
+### Story 5: CPSC Recalls — Olympia Pack-N-Stroll Utility Wagons + Uuoeebb Infant Walkers
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Olympia Pack-N-Stroll Utility Wagons recalled — head entrapment gap + no restraint; Uuoeebb Infant Walkers (Amazon/BaoD) recalled — fail doorway + step-edge standards; leg opening head entrapment)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Olympia Pack-N-Stroll: gap between tray and sidewall → head entrapment; no restraint system; violates mandatory stroller standard; Uuoeebb walker: passes through standard doorways; fails step edge stop; leg openings → head entrapment; violates mandatory walker standard
+- **Follow-Up Opportunities:** Infant walker safety guide (evergreen); utility wagon recall roundup
+
+---
+
 ## April 7, 2026
 
 ### Story 1: CPSC Recalls — KTEBO Writing Tablets (Battery Ingestion) + Zippee Silicone Toys (Choking)
