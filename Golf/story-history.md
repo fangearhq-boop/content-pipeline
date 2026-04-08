@@ -6,6 +6,16 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-04-08 | T1 | Par 3 Contest today at Augusta — noon ET; ESPN 2-4 PM; family caddies; 66-year superstition (no Par 3 winner has ever won Masters same week); Scheffler newborn at Par 3; Masters R1 tomorrow | X, FB, Article | FOLLOW-UP from 4/7 Par 3 preview |
+| 2026-04-08 | T1 | Masters R1 tee times Thursday — McIlroy 10:31 AM (Young/Howell), Scheffler 1:44 PM (MacIntyre/Woodland), DeChambeau 10:07 AM (Fitzpatrick/Schauffele), Rahm 1:08 PM (Gotterup/Åberg); back-to-back first since Tiger 2001-02 | X, FB, Article | FOLLOW-UP from 4/7 Masters countdown |
+| 2026-04-08 | T1 | DeChambeau arrives at Augusta on back-to-back LIV wins (Singapore/playoff T. Lee, South Africa/playoff Rahm); custom-built clubs (irons, driver, wedges tested in SA); 10 LIV players in field | X, FB, Article | FOLLOW-UP from 4/7 DeChambeau LIV form |
+| 2026-04-08 | T2 | McIlroy putting weakness — No. 1 SG Off-the-Tee (+0.799) but No. 102 putts per round, No. 136 one-putt %; one top-10 in 4 starts; WD Arnold Palmer; defending champion | X, FB, Article | NEW ANGLE (putting stats new from 4/7 health tracking) |
+| 2026-04-08 | T2 | Scheffler + newborn son Remy (≈10 days old) at Augusta; wife Meredith "a trooper"; son Bennett also present; 3 consecutive starts outside top 10 (worst 4-year stretch); still +500 favorite | X, FB, Article | FOLLOW-UP from 4/7 Scheffler/Remy |
+| 2026-04-08 | T2 | LPGA Chevron Championship — April 23-26; Memorial Park Golf Course Houston debut; concrete pool near 18th green; Nelly Korda SG Total 4.00/SG T2G 5.55 (tour leader); Golf Channel Thu-Fri, NBC Sat-Sun | X, FB | FOLLOW-UP from 4/7 Chevron preview |
+| 2026-04-08 | T3 | Masters odds board — Scheffler +500, McIlroy defending, DeChambeau/Rahm contenders; 91 players, $21M purse, Amazon Prime debut, 90th Masters; Par 3 superstition | X, FB | FOLLOW-UP |
+
+| Date | Tier | Topic | Platforms | Notes |
+|------|------|-------|-----------|-------|
 | 2026-04-07 | T1 | McIlroy hosts Champions Dinner tonight — first time as winner; menu: bacon-wrapped dates, elk sliders, rock shrimp tempura, peach & ricotta flatbread, yellowfin tuna carpaccio, wagyu filet or seared salmon, sticky toffee pudding; earned by 2025 Grand Slam | X, FB, Article | NEW STORY |
 | 2026-04-07 | T1 | Masters 2 days away — 91 players, $21M purse, 90th edition, Amazon Prime debut; Scheffler +500 (World No. 1), McIlroy defending (+1200), DeChambeau +1000; McIlroy paired with U.S. Amateur champ Mason Howell; Par 3 Contest April 8 | X, FB, Article | FOLLOW-UP from 4/6 Masters countdown |
 | 2026-04-07 | T1 | McIlroy back injury update — "Wasn't an issue"; off painkillers; last tournament March 12 (Players T46); career-longest 3-week layoff; odds trending down +1000-+1200; Augusta elevation concerns | X, FB, Article | FOLLOW-UP from 4/6 McIlroy injury |
