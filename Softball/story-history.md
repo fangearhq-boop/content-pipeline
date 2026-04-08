@@ -3,6 +3,38 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 8, 2026
+
+### Story 1: Kendall Wells Ties NCAA Freshman HR Record at 30 — OU Sweeps Kentucky
+- **Angle:** FOLLOW-UP (Wells HR chase). Wells hit HR No. 30 on April 4 in OU's 12-2 run-rule win over Kentucky. Tied NCAA single-season freshman HR record (Alo/Chamberlain/Majam at 30). Reached milestone in just 41 games — fewer games than any prior record-holder. OU 38-3, 11-1 SEC. Wells now 7 HRs from all-time DI record of 37 (Espinoza, Arizona, 1995).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+
+### Story 2: Alabama Upsets No. 1 Texas 2-1 in Series at Rhoads Stadium
+- **Angle:** FOLLOW-UP (series recap). Alabama beat Texas in a 3-game series April 2-4 (G1: Texas 9-1; G2: Alabama 11-4; G3: Alabama 7-4). First Alabama win over No. 1-ranked team at home since 2011. Texas dropped from No. 1 in all 4 polls; Alabama rose to No. 3 NFCA. Oklahoma now leads SEC at 11-1.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+
+### Story 3: Texas Tech Reclaims No. 1 in Three of Four Polls — NFCA Week 9
+- **Angle:** FOLLOW-UP (rankings). Texas Tech (38-2) back to No. 1 in NFCA, D1Softball, ESPN/USA Softball polls. 13-game win streak. Canady 1,000 career K's on April 2 (102nd DI pitcher). First Texas Tech pitcher with 3 career no-hitters.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+
+### Story 4: FSU Win Streak Extended to 24 — Heads to Stanford
+- **Angle:** FOLLOW-UP (FSU hot streak). FSU (35-4, 12-0 ACC) rallied from 4-0 deficit to sweep Notre Dame, extend nation-leading streak to 24. Torres .610 BA (leads DI). This week: Santa Clara (Apr 8) + No. 24 Stanford ACC series (Apr 10-12). 5th-longest streak in FSU program history.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+
+### Story 5: NiJaree Canady 1,000 Career Strikeouts — First Tech Pitcher With 3 No-Hitters
+- **Angle:** NEW STORY. Canady hit 1,000 career K's April 2 vs. BYU (102nd DI pitcher). First pitcher in Texas Tech history to throw 3 career no-hitters. 555 K's at Stanford + 449+ at Tech.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+
+### Story 6: Kylee Edwards Hits for the Cycle — First in LSU History
+- **Angle:** NEW STORY. Edwards (LSU Jr.) hit for the cycle April 3 vs. Missouri (HR, 1B, 2B, 3B), first in LSU softball program history. LSU won 16-4, set season-highs in runs/hits/HRs. LSU 6-8 SEC.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+### Story 7: SEC Standings — Oklahoma Leads by Two Games
+- **Angle:** NEW STORY. Oklahoma 11-1, Alabama 9-3, Texas 9-3. OU 2 games clear heading into Red River Showdown (Texas hosts OU April 10-12). Kentucky 1-14 at bottom.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+---
+
 ## April 7, 2026
 
 ### Story 1: Alabama Takes the Throne — Softball America Week 10 Crowns New No. 1
@@ -39,201 +71,6 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Angle:** EVERGREEN. Week preview: Red River Rivalry April 10-12 ESPN2/ESPN, FSU at Stanford April 10, NFCA Week 9 poll results drop today.
 - **Content Produced:** X (1 post), FB (long-form + caption)
 - **Follow-ups:** All weekend results
-
----
-
-## April 6, 2026
-
-### Story 1: NFCA Week 9 Poll Preview — Alabama Poised to Rise, Texas to Fall
-- **Angle:** NEW STORY. NFCA Week 9 poll drops April 7 at 10 AM ET — first major poll after Alabama's series win over No. 1 Texas. Texas expected to drop significantly; Alabama to leap. Oklahoma (38-3), FSU (24-game streak) and Texas Tech (34-2) all positioned to move. Full rankings preview.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
-- **Follow-ups:** Actual Week 9 poll results April 7, rankings fallout
-
-### Story 2: Red River Rivalry Preview — Texas vs. Oklahoma April 10-12 in Austin
-- **Angle:** NEW STORY (this week's hook). Texas (32-4, 9-3 SEC) hosts No. 3 Oklahoma (38-3, 11-1 SEC) at McCombs Field. Game 1 Friday April 10, 6 PM CT ESPN2; Games 2-3 on ESPN. Texas wounded after Alabama loss. Wells at 30 HRs — one from NCAA freshman record outright. WCWS seeding stakes.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
-- **Follow-ups:** Series result, Wells record, standings impact
-
-### Story 3: Kendall Wells — One HR From Making History Outright
-- **Angle:** FOLLOW-UP. Wells still at 30 — no OU games April 5-6 weekend. Record context: Chamberlain 2012, Alo 2018, Majam 2010 all at 30. Red River Rivalry is the next stage for No. 31. Jocelyn Alo's all-time record is 34.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
-- **Follow-ups:** HR No. 31, Red River Rivalry performance
-
-### Story 4: FSU Win Streak at 24 — Sweeps Notre Dame, Rallies from 4-0 Down
-- **Angle:** FOLLOW-UP. FSU rallied from 4-0 deficit to win 8-4 and sweep ND. Streak: 24 — nation's longest. Record: 34-4, 12-0 ACC. Beachum triple tied game; Harp RBI double gave lead; Hinde 2-RBI single. 5th-longest in FSU history.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
-- **Follow-ups:** WCWS seeding, Week 9 poll movement
-
-### Story 5: Kylee Edwards Hits for the Cycle — First in 46 Years of LSU History
-- **Angle:** NEW STORY (April 3 game). Edwards: 4-for-6, 4 RBIs; HR (2nd), single (3rd), double (6th), triple (7th) in LSU 16-4 win over Missouri. First cycle in 46-year LSU softball program history. Edwards is a Mississippi State transfer.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
-- **Follow-ups:** LSU SEC positioning, Edwards continued production
-
-### Story 6: Alabama's Statement — What's Next for the Tide and the SEC Race
-- **Angle:** FOLLOW-UP. Aftermath analysis post-series win. Katie Stewart 2 HRs in clincher (20th season), Atwood HR (15th). Alabama ~34-3, ~8-3 SEC. First series win over No. 1 since 2016. SEC standings in flux.
-- **Content Produced:** X (1 post), FB (long-form + caption)
-- **Follow-ups:** Week 9 poll position, SEC race heading into RRR week
-
-### Story 7: Week Preview / Sunday Scoreboard
-- **Angle:** EVERGREEN. SC 5, Tennessee 1 on April 3 (Jori Heard CG); Tennessee took series Game 3. Nebraska and Arkansas rose in Softball America. Preview: NFCA poll April 7, Red River Rivalry April 10-12.
-- **Content Produced:** X (1 post), FB (long-form + caption)
-- **Follow-ups:** All week results
-
----
-
-## April 5, 2026
-
-### Story 1: Kendall Wells Ties NCAA Freshman HR Record at 30 — OU Sweeps Kentucky
-- **Angle:** FOLLOW-UP. Wells hit HR #30 in the 4th inning of Game 3 vs. Kentucky — a three-run shot to right-center — tying the all-time NCAA single-season freshman record (Lauren Chamberlain OU 2013, Jocelyn Alo OU 2018, Kelly Majam Hawaii 2010). OU swept 3-0 (10-2, 9-1, 12-2). Kasadi Pickering walk-off grand slam. OU 38-3, 11-1 SEC. Wells: .383 BA, 30 HR, 60 RBIs.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article
-- **Follow-ups:** Wells chases outright record at Red River Rivalry April 10-12
-
-### Story 2: Alabama Upsets No. 1 Texas — Takes Series 2-1 at Rhoads Stadium
-- **Angle:** NEW STORY. Alabama 7, Texas 4 in Game 3. Alabama's first series win over a No. 1 since 2016. Katie Stewart 3-for-3, two-run HR, solo HR (20th season). Reese Atwood solo HR (15th). Attendance 3,962 Game 3, 11,000+ weekend.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article
-- **Follow-ups:** NFCA Week 9 poll April 7, Red River Rivalry, Texas standings
-
-### Story 3: FSU Win Streak to 24 — Comeback from 4-0 Down, Sweeps Notre Dame
-- **Angle:** FOLLOW-UP. FSU trailed Notre Dame 4-0; rallied in four straight innings to win 8-4. Beachum two-out triple tied game in 4th; Harp RBI double gave lead in 5th; Hinde 2-RBI single in 6th. Streak 24 — nation's longest. FSU 35-4, 12-0 ACC.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Week 9 poll, WCWS positioning
-
-### Story 4: Red River Rivalry Preview — Texas vs. Oklahoma April 10-12 in Austin
-- **Angle:** FOLLOW-UP (new context). Texas now licking wounds after Alabama series; OU 38-3, Wells at 30 HRs. Game 1 Friday April 10 6 PM CT ESPN2; Games 2-3 on ESPN.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Series result, Wells record
-
-### Story 5: Kylee Edwards Hits for the Cycle — First in LSU History
-- **Angle:** NEW STORY. Edwards went 4-for-6, 4 RBIs (HR 2nd, single 3rd, double 6th, triple 7th) in LSU's 16-4 win over Missouri on April 3. First cycle in LSU softball history.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** LSU SEC standings
-
-### Story 6: Texas A&M Claims Series Over No. 11 Georgia 2-1
-- **Angle:** FOLLOW-UP. Kennedy Powell go-ahead RBI double; Sydney Lessentine 5.2 IP; Sidne Peters 3-out save. Back-to-back series wins over Georgia first in program history.
-- **Content Produced:** X (1 post), FB (long-form + caption)
-- **Follow-ups:** A&M SEC standing, NFCA poll
-
-### Story 7: NFCA Week 9 Poll Preview — Drops April 7
-- **Angle:** EVERGREEN. Alabama rises; Texas drops; OU and FSU positioned for movement. Poll drops Tuesday 10 AM ET.
-- **Content Produced:** X (1 post), FB (long-form + caption)
-- **Follow-ups:** Actual poll results April 7
-
----
-
-## April 4, 2026 (Run 2 — Afternoon)
-
-### Story 1: No. 15 Texas A&M Upsets No. 11 Georgia — Claims Series 2-1
-- **Angle:** NEW STORY. A&M won Game 1 (3-2, April 2), lost DH opener (10-6), then won rubber match 2-1 at Davis Diamond on April 3. Sydney Lessentine 6 Ks, Maddie Sauni key RBI. SEC standings shakeup.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article
-- **Follow-ups:** NFCA Week 9 poll impact (April 7), Georgia's SEC standing
-
-### Story 2: Kendall Wells at 29 HRs — One From NCAA Freshman Record
-- **Angle:** FOLLOW-UP. Wells at 29 entering April 4 Game 3 vs Kentucky. NCAA freshman record: 30 (Kelly Majam/Hawaii/2010, Lauren Chamberlain/OU/2012, Jocelyn Alo/OU/2018). Next stage: Red River Rivalry April 10-12 in Austin.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article
-- **Follow-ups:** HR #30, Red River Rivalry, Oklahoma season
-
-### Story 3: FSU Win Streak at 23 — Game 3 Sunday vs Notre Dame
-- **Angle:** FOLLOW-UP. FSU won Game 1 (7-2) and Game 2 (10-0 run rule) over ND. Streak 23 games, nation's longest. Game 3 Sunday April 5, 2 PM ACC Network. Danley 4IP/1H/4K in Game 2. Torres HR #8.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Game 3 result, streak to 24
-
-### Story 4: NCAA Transfer Portal Window Shift — June 8-22 Post-WCWS
-- **Angle:** NEW STORY. NCAA DI Softball Oversight Committee voted to move portal window to June 8-22 (post-WCWS). 85%+ coach support, 93% participation. Pending cabinet approval. Current window: May 26-June 24.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Cabinet vote outcome, effective date
-
-### Story 5: Red River Rivalry Preview — April 10-12 in Austin
-- **Angle:** NEW STORY (preview). Texas hosts Oklahoma April 10-12. OU 10-1 SEC, Texas 10-2. Wells approaching HR record. SEC title implications.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Series result, standings, Wells record
-
-### Story 6: SEC Standings — A&M Shakeup, Red River on Deck
-- **Angle:** NEW STORY. SEC standings post-Saturday. A&M claimed Georgia series. OU 10-1, TX 10-2, Bama 8-3. NFCA Week 9 April 7.
-- **Content Produced:** X (1 post), FB (long-form + caption)
-- **Follow-ups:** Week 9 NFCA poll, standings after Red River
-
-### Story 7: Sunday Must-Watch / Week Preview
-- **Angle:** EVERGREEN. FSU-ND G3 Sunday 2 PM ACC Network. NFCA poll April 7. Red River Rivalry April 10-12.
-- **Content Produced:** X (2 posts), FB (long-form + caption)
-- **Follow-ups:** All week results
-
----
-
-## April 4, 2026 (Run 1 — Morning)
-
-### Story 1: Alabama 11, Texas 4 — Crimson Tide Even Series at Rhoads
-- **Angle:** FOLLOW-UP. Alabama stunned No. 1 Texas 11-4 in Game 2 to even the series 1-1. Game 3: April 4 at 12:30 p.m. CT on SEC Network (moved up from 5 PM due to weather). Texas 32-3, Alabama 34-4.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article
-- **Follow-ups:** Game 3 result, series winner, SEC standings, Texas No. 1 implications
-
-### Story 2: Kendall Wells HR No. 29 — One Away from NCAA Freshman Record
-- **Angle:** FOLLOW-UP. Wells hit HR #29 (solo, right field, 3rd inning) in OU's 9-1 run-rule of Kentucky in Game 2. She is 1 homer from tying Lauren Chamberlain's all-time NCAA freshman record of 30. OU 37-3, 10-1 SEC. Game 3 today at 11 a.m. CT Love's Field.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article
-- **Follow-ups:** HR #30, record tie, OU sweep, Red River Rivalry April 10-12
-
-### Story 3: FSU Win Streak at 23 — Run-Rules Notre Dame 10-0
-- **Angle:** FOLLOW-UP. FSU 10, ND 0 (run rule, 5 inn). Streak now 23 games — program's longest since 2018. Danley 4 IP 1H 4K. Torres HR #8. Harp HR #4. Griggs triple. 10th shutout. FSU 34-4, 11-0 ACC. Game 3: Sunday April 5 at 2 p.m.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Game 3 result April 5, streak to 24
-
-### Story 4: Texas-Alabama Game 3 Preview — 12:30 PM CT on SEC Network
-- **Angle:** NEW STORY (preview). Winner-take-all, moved to 12:30 p.m. CT due to weather (from 5 PM ESPN). SEC Network. Mowins/Smith.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Game 3 result
-
-### Story 5: OU vs. Kentucky Game 3 — Wells Record Watch at Love's Field
-- **Angle:** FOLLOW-UP. OU leads series 2-0. Wells at 29 HRs, 1 from NCAA freshman record. Game 3: 11 a.m. CT Love's Field. Lexi McDaniel 5 RBI in Game 2.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Wells HR #30, OU sweep
-
-### Story 6: SEC Standings — Texas 10-2, OU 10-1 After Friday
-- **Angle:** NEW STORY. Texas 10-2 (lost Game 2), OU 10-1, Alabama 8-3. NFCA Week 9 poll releases April 7. Red River Rivalry April 10-12.
-- **Content Produced:** X (1 post), FB (long-form + caption)
-- **Follow-ups:** Weekend results, Week 9 NFCA poll April 7
-
-### Story 7: Saturday Must-Watch Games
-- **Angle:** EVERGREEN PREVIEW. TX-AL G3 12:30 CT SEC Network, OU-KY G3 11 AM CT, FSU-ND G3 Sunday. Red River Rivalry April 10-12.
-- **Content Produced:** X (1 post), FB (long-form + caption)
-- **Follow-ups:** All series results
-
----
-
-## April 3, 2026
-
-### Story 1: Texas 9, Alabama 1 — Longhorns Dominate Game 1 at Rhoads Stadium
-- **Angle:** FOLLOW-UP (season-long narrative). Texas 9, Alabama 1 in Game 1 at Rhoads Stadium. Kavan CG 9K. 4 HR. Goode first career multi-HR game. Texas 32-2, 9-1 SEC. Alabama 33-3, 7-3 SEC. Game 2 tonight 7:30 PM CT SEC Network. Game 3 Saturday 5 PM CT ESPN.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article
-- **Follow-ups:** Game 2 result, series winner, SEC standings, Texas clinch
-
-### Story 2: Kendall Wells HR No. 28 — Two Away from NCAA Freshman Record
-- **Angle:** FOLLOW-UP (Wells HR chase). Wells HR #28 in OU's 10-2 run-rule of Kentucky (5 inn). 275-ft to center. Pickering HR #15. NCAA freshman record: 30 (Alo/Chamberlain/Majam). OU 36-3, 9-1 SEC. Game 2 tonight.
-- **Content Produced:** X (2 posts), FB (long-form + caption), Article
-- **Follow-ups:** HR #29/30, record-break game, OU-Kentucky series result
-
-### Story 3: FSU Extends Win Streak to 22 — Beats Notre Dame 7-2
-- **Angle:** FOLLOW-UP (win streak). FSU 7, ND 2. Francik 5 IP 7K. Win streak 22 games (longest active DI). FSU 33-4, 10-0 ACC. Torres .615 BA leads DI. Game 2 today 6 PM ET ACCNX. Game 3 Saturday 2 PM ACC Network.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** FSU sweep, streak to 24, ND series result
-
-### Story 4: Alabama Must Respond in Game 2 — Series Survival at Rhoads
-- **Angle:** NEW STORY (preview). After 9-1 Game 1 loss, Alabama must win Game 2 tonight to stay in series. Murphy 30th season. Game 2: 7:30 PM CT SEC Network.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Game 2 result, Alabama season trajectory
-
-### Story 5: Texas Tech Run-Rules BYU 11-1 — Raiders Stay at 36-2
-- **Angle:** NEW STORY. Tech 11, BYU 1. Raiders 36-2, No. 2 NFCA. 23rd run-rule win. Nine points behind No. 1 Texas. Canady leads rotation.
-- **Content Produced:** X (1 post), FB (long-form + caption), Article
-- **Follow-ups:** Week 9 NFCA poll (April 7), Tech-Texas gap
-
-### Story 6: SEC Standings — Texas and OU Both 9-1 After Thursday
-- **Angle:** NEW STORY. Texas 9-1, OU 9-1 (tied for first). Alabama 7-3. TX at OU April 10-12 Austin.
-- **Content Produced:** X (1 post), FB (long-form + caption)
-- **Follow-ups:** Weekend results, standings after Saturday
-
-### Story 7: Saturday's Triple-Header Preview
-- **Angle:** NEW STORY. TX-Bama G3 ESPN (5 PM CT), OU-Kentucky G3 (Love's Field), FSU-ND G3 ACC Network (2 PM ET).
-- **Content Produced:** X (1 post), FB (long-form + caption)
-- **Follow-ups:** All three series results
 
 ---
 

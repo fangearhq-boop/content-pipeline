@@ -1,14 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-07
-- **Steps Completed**: Full pipeline (Steps 1-15) — research (web search via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (87 claims, 0 char violations), compile, dashboard, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish attempted (see Issues).
+- **Date**: 2026-04-08
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ web searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (100 claims, 0 char violations, 0 consistency errors), compile (validation all clear), dashboard, PostPlanner exports (23 posts, 16 TOBI posts). WordPress publish attempted (see Issues).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
-- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, same as all prior sessions). publish-unified-dashboard.py 403 (PAT, known) — used publish-dashboard.py. IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue).
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known issue per all prior sessions). publish-unified-dashboard.py 403 (PAT, known) — used publish-dashboard.py. Story 6 article skipped by design (5 articles meet minimum). IMAGE MISSING warnings expected (not_started). Merge conflict in story-history.md resolved (kept upstream April 3-7 entries, added April 8 on top).
 
 ## Previous Run
-- **Date**: 2026-04-06
+- **Date**: 2026-04-07
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (97 claims, 0 char violations), compile, dashboard, PostPlanner exports (X: 9 posts, TOBI: 9 posts). WordPress publish attempted (see Issues).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
@@ -72,6 +72,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-08
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Story 6-7 social only)
+- Fact-check: 100 claims. 0 char-limit violations. 0 consistency errors (Story 6 article skipped by design). IMAGE MISSING expected (not_started).
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-04-08.xlsx (23 posts), ils-postplanner-tobi-2026-04-08.xlsx (16 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Wells HR No. 30 ties NCAA freshman record in 41 games OU sweeps Kentucky (P10); Alabama upsets No. 1 Texas 2-1 at Rhoads first No. 1 home win since 2011 (P10); Texas Tech No. 1 in 3 of 4 polls NFCA Week 9 after Texas fall Canady 1000K (P8); FSU 24-game win streak vs Stanford road trip (P7); Canady 1,000 career K's first Tech pitcher 3 no-hitters (P7); Kylee Edwards first cycle in LSU history 16-4 vs Missouri (P6); SEC standings OU 11-1 leads by 2 Red River Showdown Friday (P5)
+- Notes: Merge conflict in story-history.md resolved (upstream had April 3-7 entries). publish-unified-dashboard 403 PAT error — used publish-dashboard.py OK.
 
 ### 2026-04-07
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
