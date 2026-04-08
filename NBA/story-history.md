@@ -2,6 +2,68 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-08
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Jeremiah Fears 40 pts (17-29 FG, 6 ast, 3 stl); youngest guard in NBA history to score 40 (per Yahoo Sports/NBA.com); Pelicans rookie franchise record; New Orleans 156-137 Jazz; snapped 8-game losing streak | 1 | NEW STORY |
+| 2 | Stephen Curry 17 pts, 2 four-point plays; Warriors 110-105 Kings; Curry's 2nd game back from right knee injury; Melton 21, Podziemski 20; Warriors snap 4-game skid; hold No. 10 play-in spot | 1 | FOLLOW-UP (long-running Curry return saga) |
+| 3 | Houston Rockets 7th consecutive win; 119-105 over Suns; KD 24 pts, 5 threes; Rockets surge to No. 5 West seed; potential Lakers-Rockets R1 matchup | 1 | FOLLOW-UP (Rockets surge tracked in prior runs) |
+| 4 | Kawhi Leonard 34 pts, 6 threes; Clippers 116-103 Mavericks; Garland 22; Cooper Flagg 25/9 in loss; Clippers hold play-in spot | 2 | NEW STORY |
+| 5 | Timberwolves 124-104 Pacers; Dosunmu 24 pts (10-17 FG), 5 reb, 3 stl; Minnesota locking in seeding | 2 | NEW STORY |
+| 6 | West standings: OKC No. 1 (clinched), Spurs No. 2, Denver No. 3 (jumped Lakers), Lakers No. 4, Rockets No. 5; play-in: PHX, LAC, POR, GSW; Play-In April 14-17 | 2 | FOLLOW-UP (West seeding tracked continuously) |
+| 7 | Season finale preview: Wemby needs 20+ min in 1 of final 3 games for MVP/DPOY/All-NBA eligibility; East locked (DET 57-22 No. 1, BOS 51-25 No. 2, NYK 49-28 No. 3); season ends April 12 | 3 | FOLLOW-UP (ongoing) |
+
+---
+
+### STORY 1: Jeremiah Fears — 40 Points, Youngest Guard in NBA History
+- **Tier:** 1
+- **Category:** Rookie Milestone / Historic Performance
+- **Key facts:** Fears: 40 pts (17-29 FG, 1-7 3Pt, 5-5 FT), 5 reb, 6 ast, 3 stl, 38 min. Named Player of the Night. Pelicans franchise rookie scoring record. Reportedly youngest guard in NBA history to score 40 (Yahoo Sports/NBA.com). Pelicans 156-137 Jazz. Snapped 8-game losing streak. Jazz: Konchar 12/10/10 off bench.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Fears continued development; Pelicans future around him
+
+### STORY 2: Stephen Curry Returns — Warriors 110, Kings 105
+- **Tier:** 1
+- **Category:** Player Return / Play-In Race
+- **Key facts:** Curry 17 pts, 2 four-point plays (tying 3 with 2:38 left + Podziemski go-ahead assist). 2nd game back from right knee injury. Melton 21 (team-high), Podziemski 20. Warriors snapped 4-game skid. Sacramento 6-of-last-8 losses. Warriors at No. 10 play-in spot.
+- **Status:** FOLLOW-UP (long-running Curry return watch)
+- **Follow-Up Opportunities:** Warriors play-in performance; Curry health game-to-game
+
+### STORY 3: Houston Rockets 7-Game Win Streak
+- **Tier:** 1
+- **Category:** Team Surge / West Seeding
+- **Key facts:** Rockets 119-105 over Suns. 7th consecutive win. KD 24 pts, 5 threes. Rockets at No. 5 West seed. Potential Lakers R1 matchup.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Rockets R1 bracket; KD stats run
+
+### STORY 4: Kawhi Leonard 34 Points — Clippers 116, Mavericks 103
+- **Tier:** 2
+- **Category:** Game Recap / Play-In
+- **Key facts:** Kawhi 34 pts, 6 threes. Garland 22. Clippers 116-103 Mavs. Flagg 25/9 in loss.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Clippers play-in performance; Flagg development
+
+### STORY 5: Timberwolves 124, Pacers 104 — Dosunmu 24
+- **Tier:** 2
+- **Category:** Game Recap
+- **Key facts:** Dosunmu 24 pts (10-17 FG), 5 reb, 3 stl, 33 min. Wolves won 124-104.
+- **Status:** NEW STORY
+
+### STORY 6: West Play-In Picture
+- **Tier:** 2
+- **Category:** Standings / Playoff Preview
+- **Key facts:** OKC No. 1 (clinched), Spurs No. 2, Denver No. 3, Lakers No. 4, Houston No. 5, Minnesota No. 6. Play-in: PHX, LAC, POR, GSW. April 14-17 play-in, April 18 playoffs.
+- **Status:** FOLLOW-UP
+
+### STORY 7: Season Finale / Wemby Watch
+- **Tier:** 3
+- **Category:** Preview
+- **Key facts:** Wemby needs 20+ min in 1 of 3 remaining games. Detroit 57-22 (No. 1 East), Boston 51-25 (No. 2), Knicks 49-28 (No. 3). Season ends April 12.
+- **Status:** FOLLOW-UP
+
+---
+
 ## 2026-04-07
 
 | # | Story | Tier | Tag |

@@ -1,11 +1,23 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-07
+- **Date**: 2026-04-08
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-08
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-04-08.xlsx (10 posts) + hh-postplanner-tobi-2026-04-08.xlsx (10 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-08/review-dashboard.html (35 items)
+- **Notes:** Jeremiah Fears 40 pts (NEW — Pelicans rookie, youngest guard in NBA history to score 40 per Yahoo/NBA.com, snapped 8-game skid); Curry 2nd game back, 2 four-point plays, Warriors 110-105 Kings (snapped 4-game skid, play-in alive); Rockets 7-game win streak (KD 24/5 threes, 119-105 Suns, No. 5 West); Kawhi 34/6 threes, Clippers 116-103 Mavs (Flagg 25/9); Dosunmu 24, Wolves 124-104 Pacers; West bracket: OKC No. 1 clinched, Spurs No. 2, Denver No. 3 (jumped Lakers), Rockets No. 5; Wemby still needs 20+ min in 1 of final 3 games; season ends April 12.
+- **Fact concerns:** "Youngest guard in NBA history to score 40" is MEDIUM — from Yahoo Sports and NBA.com headlines, used with "reportedly" qualifier in article. All other core facts HIGH from ESPN, NBA.com, CBS Sports, Bleacher Report.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with previous runs)
 
 ### 2026-04-07
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
