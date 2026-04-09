@@ -1,0 +1,265 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-09",
+  "compiled_at": "2026-04-09T12:54:19.774733+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Fonseca Stuns Berrettini 6-3, 6-2 — First-Time Monte Carlo QF",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "João Fonseca just beat the guy who beat Medvedev 6-0, 6-0. Berrettini — who looked untouchable 24 hours ago — got taken apart 6-3, 6-2 in 75 minutes. The 19-year-old is in the Monte Carlo QF.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Fonseca: first Brazilian Masters 1000 QF since 2011. Youngest at Monte Carlo's last 8 since Nadal and Gasquet in 2005. He's 19. He faces Zverev Friday.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-fonseca-beats-berrettini-monte-carlo-qf-2026.html",
+        "headline": "Fonseca Reaches Monte Carlo Quarterfinals, Eliminates Berrettini 6-3, 6-2",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Fonseca def. Berrettini 6-3, 6-2\n\n#### Image Concept 1-A (Social — 1080×1350)\n**Photo Search Term:** `João Fonseca` (imagn) | **Credit:** (USA TODAY Sports Images)\n**Canva Text:** \"FONSECA INTO THE QF | 6-3, 6-2 | Monte Carlo R3 | First Brazilian Masters 1000 QF since 2011\"\n**Brand:** Court Green background; Tennis Ball Yellow stat callout; white headline\n\n#### Image Concept 1-B (Article Hero — 1200×630)\n**Photo Search Term:** `João Fonseca` (imagn) | **Credit:** (USA TODAY Sports Images)\n**Canva Text:** \"Fonseca Makes Monte Carlo History | Youngest QF since Nadal & Gasquet 2005\"\n**Brand:** Championship Purple left accent bar; Midnight background strip at bottom\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Sinner's No. 1 Chase — 36 Sets, Machac R3 in Monte Carlo",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jannik Sinner has won 36 consecutive sets at Masters 1000 events. Zero points to defend at Monte Carlo. Every win tightens the No. 1 gap on Alcaraz. R3 vs. Machac today.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 190
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sinner's 2026 Masters 1000 dominance in one stat: 36 straight sets without dropping one. Machac is up next — a 3-0 H2H deficit, first clay meeting. This is Sinner's title to win.\n\n#MonteCarlo #Sinner",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Sinner"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-sinner-no1-chase-monte-carlo-machac-2026.html",
+        "headline": "Sinner's Monte Carlo No. 1 Chase: 36 Consecutive Sets and Everything to Gain",
+        "word_count": 535
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner No. 1 Chase\n\n#### Image Concept 2-A (Social — 1080×1350)\n**Photo Search Term:** `Jannik Sinner` (imagn) | **Credit:** (USA TODAY Sports Images)\n**Canva Text:** \"36 STRAIGHT SETS | Masters 1000 | No. 1 gap: 1,190 pts\"\n**Brand:** Midnight background; Tennis Ball Yellow headline; Court Green stat bar\n\n#### Image Concept 2-B (Article Hero — 1200×630)\n**Photo Search Term:** `Jannik Sinner` (imagn) | **Credit:** (USA TODAY Sports Images)\n**Canva Text:** \"Sinner's No. 1 Chase at Monte Carlo | Zero points to defend. Everything to gain.\"\n**Brand:** Court Green top strip; white text on Midnight lower panel\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Zverev Into Monte Carlo QF for First Time Since 2022",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Zverev def. Bergs 6-2, 7-5. First Monte Carlo QF for Alexander Zverev since 2022. He'll face João Fonseca Friday. At his home tournament. Chasing his 8th Masters 1000 title.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 194
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The Monte Carlo QF bracket is taking shape. Fonseca vs. Zverev. 19 vs. experience. 75 minutes of clay brilliance vs. 8 Masters 1000 titles. Friday can't come soon enough.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-zverev-monte-carlo-qf-fonseca-2026.html",
+        "headline": "Zverev Into Monte Carlo Quarterfinals for First Time Since 2022, Faces Fonseca on Friday",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev def. Bergs — Monte Carlo QF\n\n#### Image Concept 3-A (Social — 1080×1350)\n**Photo Search Term:** `Alexander Zverev` (imagn) | **Credit:** (USA TODAY Sports Images)\n**Canva Text:** \"ZVEREV — MONTE CARLO QF | 6-2, 7-5 | First QF since 2022 | QF vs. Fonseca — Friday\"\n**Brand:** Court Green background; Championship Purple accent line; white text\n\n#### Image Concept 3-B (Social — 1080×1350)\n**Photo Search Term:** `João Fonseca` (imagn) | **Credit:** (USA TODAY Sports Images)\n**Canva Text:** \"FONSECA vs. ZVEREV | Monte Carlo QF | Friday | Age 19 vs. 8× Masters 1000 winner\"\n**Brand:** Split Court Green / Championship Purple background\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Alcaraz vs. Etcheverry R3 — Title Defense with an Honest Admission",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alcaraz after his Monte Carlo opener: \"I expect to lose No. 1 to Sinner.\" He's still 18-2 for the season. He defends 1,000 points today against Etcheverry. R3 is on Court Rainier III.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alcaraz-monte-carlo-r3-etcheverry-no1-2026.html",
+        "headline": "Alcaraz Defends Monte Carlo Title with Honest Admission: \"I Expect to Lose No. 1 to Sinner\"",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz vs. Etcheverry R3\n\n#### Image Concept 4-A (Social — 1080×1350)\n**Photo Search Term:** `Carlos Alcaraz` (imagn) | **Credit:** (USA TODAY Sports Images)\n**Canva Text:** \"DEFENDING CHAMPION | Alcaraz vs. Etcheverry | R3 Today | 1,000 pts to defend\"\n**Brand:** Championship Purple background; Tennis Ball Yellow callout box\n\n#### Image Concept 4-B (Article Hero — 1200×630)\n**Photo Search Term:** `Carlos Alcaraz` (imagn) | **Credit:** (USA TODAY Sports Images)\n**Canva Text:** \"Alcaraz: 'I Expect to Lose No. 1' | Monte Carlo title defense — R3 on deck\"\n**Brand:** Midnight background; Court Green accent; white text\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "WTA Stuttgart Preview — Sabalenka Seeks to Break Stuttgart Curse",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Stuttgart starts Monday. Sabalenka is the No. 1 seed — and has lost 4 Stuttgart finals without winning the title. Rybakina, Gauff, Swiatek all in the draw. Indoor clay. April 13–19.\n\n#Stuttgart #WTATennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Stuttgart",
+            "#WTATennis"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wta-stuttgart-2026-preview.html",
+        "headline": "WTA Stuttgart 2026 Preview: Can Sabalenka Finally Win the Porsche Tennis Grand Prix?",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Stuttgart Preview\n\n#### Image Concept 5-A (Social — 1080×1350)\n**Photo Search Term:** `Aryna Sabalenka` (imagn) | **Credit:** (USA TODAY Sports Images)\n**Canva Text:** \"STUTTGART STARTS MONDAY | Porsche Tennis Grand Prix | April 13–19 | Sabalenka: 4 finals, 0 titles\"\n**Brand:** Court Green background; Midnight overlay panel; Tennis Ball Yellow stat callout\n\n#### Image Concept 5-B (Social — 1080×1350)\n**Photo Search Term:** `Iga Swiatek` (imagn) | **Credit:** (USA TODAY Sports Images)\n**Canva Text:** \"STUTTGART 2026 | Sabalenka (1) | Rybakina (2) | Gauff (3) | Swiatek (4) | WTA 500 | Indoor Clay | Apr 13–19\"\n**Brand:** Championship Purple background; white text; yellow accent line"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

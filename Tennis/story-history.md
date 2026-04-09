@@ -6,6 +6,11 @@ Track previously covered stories to avoid repetition and maintain content freshn
 
 | Date | Story | Tier | Platforms | Notes |
 |------|-------|------|-----------|-------|
+| 2026-04-09 | Fonseca def. Berrettini 6-3, 6-2 — Monte Carlo R3 QF; first Brazilian Masters 1000 QF since Bellucci 2011 | T1 | X, FB, Article | 75 min; youngest at MC QF since Nadal/Gasquet 2005; 2nd player born 2006 to reach Masters QF; faces Zverev Friday |
+| 2026-04-09 | Sinner No. 1 chase — 36 consecutive sets at Masters 1000; vs. Machac R3 (led 6-1 set 1) | T1 | X, FB, Article | H2H 3-0 vs. Machac; 0 pts to defend; gap 1,190 pts vs. Alcaraz; title = return to No. 1 |
+| 2026-04-09 | Zverev def. Bergs 6-2, 7-5 — Monte Carlo QF; first MC QF since 2022; faces Fonseca Friday | T2 | X, FB, Article | Chasing 8th Masters 1000 title; Bergs had beaten Rublev day before |
+| 2026-04-09 | Alcaraz vs. Etcheverry R3 — defends 1,000 pts; "I expect to lose No. 1 to Sinner" | T2 | X, FB, Article | Alcaraz 18-2 season; H2H vs. Etcheverry 1-0; candid Eurosport comment on ranking |
+| 2026-04-09 | WTA Stuttgart (Porsche Tennis Grand Prix) preview — Sabalenka 4 finals, 0 titles; April 13-19 | T3 | X, FB | Seeds: Sabalenka (1), Rybakina (2), Gauff (3), Swiatek (4); Ostapenko defending; Swiatek won 2022+2023 |
 | 2026-04-08 | Berrettini def. Medvedev 6-0, 6-0 in 49 min — Monte Carlo R2; first top-10 double bagel in 10 years | T1 | X, FB, Article | Medvedev won 17 points; racket smash; Berrettini wildcard; "one of the best performances of my life" |
 | 2026-04-08 | Alcaraz def. Báez 6-1, 6-3 — Monte Carlo R2 title defense begins; No. 1 race vs. Sinner active | T1 | X, FB, Article | 70 minutes; Alcaraz defending 1,000 pts; Sinner 0 to defend; gap ~190 pts |
 | 2026-04-08 | Etcheverry def. Dimitrov 6-4, 2-6, 6-3 — Dimitrov outside top 100 for first time in 14 years | T1 | X, FB, Article | Former world No. 3; 2014 WTF champion; 14-year top-100 streak ends |

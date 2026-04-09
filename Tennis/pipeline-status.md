@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-08 |
-| Writing | Complete (all steps) | 2026-04-08 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-08 |
-| Compile | Complete (07-content-data.json) | 2026-04-08 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-08 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-08 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-08 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-08 |
+| Research | Complete | 2026-04-09 |
+| Writing | Complete (all steps) | 2026-04-09 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-09 |
+| Compile | Complete (07-content-data.json) | 2026-04-09 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-09 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-09 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-09 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-09 |
 
 ## Queue
 
