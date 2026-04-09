@@ -2,6 +2,68 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-09
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Chet Holmgren 30 pts/14 reb/5 ast/4 blk (10-13 FG); SGA 20/11 ast; Thunder 128-110 Clippers; OKC clinches NBA's best record at 64-16; HCA locked throughout playoffs | 1 | FOLLOW-UP (OKC/Spurs seeding race) |
+| 2 | Cade Cunningham returns from 11-game absence (collapsed lung); 13 pts/10 ast/5 reb in 26 min; Pistons 137-111 Bucks; DET 57-22, No. 1 East; 3 games before playoffs April 18 | 1 | FOLLOW-UP (Cade collapsed lung; return is new angle) |
+| 3 | Nuggets 136-119 Grizzlies; 10th consecutive win; Jokic triple-double (14/15/10); Murray 26 pts; Denver 1.5 games ahead of Lakers/Rockets for No. 3 West | 1 | FOLLOW-UP (Nuggets surge ongoing) |
+| 4 | Cavaliers 122-116 Hawks; Donovan Mitchell 31 pts (12-19 FG); Hawks miss chance to clinch playoff spot | 2 | FOLLOW-UP (East seeding ongoing) |
+| 5 | Magic 132-120 Timberwolves; 4th straight win; Banchero 20/8, Bane 18/6; Terrence Shannon Jr. career-high 33 in loss | 2 | NEW STORY (Shannon career-high; Magic 4-game streak new) |
+| 6 | Wemby rib contusion: MRI clear, day-to-day; needs 20+ min in 1 of 3 games for MVP/DPOY/All-NBA; SGA -400 MVP odds, Wemby +1800; ESPN poll 88-8 SGA | 2 | FOLLOW-UP (Wemby injury; MRI update new) |
+| 7 | Preview: Celtics vs Knicks 7:30 PM ET (Brown questionable, Achilles); Lakers vs Warriors 10 PM ET (Porzingis out illness; Richard out back); season ends April 12 | 3 | FOLLOW-UP (ongoing seeding watch) |
+
+---
+
+### STORY 1: Thunder Clinch NBA's Best Record — Holmgren 30/14/4 Blocks
+- **Tier:** 1
+- **Category:** Historic Achievement / Playoff Seeding
+- **Key facts:** Holmgren: 30 pts, 14 reb, 5 ast, 2 stl, 4 blk, 31 min, 10-13 FG, 3-4 3PT. SGA: 20 pts, 11 ast. Williams: 18 pts. Thunder 128-110 Clippers. OKC (64-16) clinches NBA's best record and HCA throughout playoffs. Spurs 61-19. OKC defending champs. Thunder shot 58.1% FG, no fast-break FGs allowed, 23 pts off 13 turnovers.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** OKC playoff bracket; SGA/Holmgren partnership heading into playoffs
+
+### STORY 2: Cade Cunningham Returns — Pistons 137-111 Bucks
+- **Tier:** 1
+- **Category:** Player Return / Playoff Preparation
+- **Key facts:** Cade: 13 pts (6-11 FG), 10 ast, 5 reb, 26 min. Missed 11 games. Injury: collapsed lung March 17 vs. Wizards (collision with Tre Johnson). Season averages: 24.5 PPG, 9.9 APG, 5.6 RPG in 61 games. First basket: alley-oop from Ausar Thompson. Pistons 137-111 Bucks. Detroit 57-22, No. 1 East. 3 games remaining before April 18 playoffs.
+- **Status:** FOLLOW-UP (collapsed lung first reported; return is new story)
+- **Follow-Up Opportunities:** Cade's game-to-game health; Pistons playoff seeding/bracket
+
+### STORY 3: Nuggets 10-Game Win Streak
+- **Tier:** 1
+- **Category:** Win Streak / West Seeding
+- **Key facts:** Denver 136-119 Grizzlies. 10th consecutive win. Jokic: 14 pts, 15 reb, 10 ast. Murray: 26 pts. Denver 1.5 games ahead of Lakers/Rockets for No. 3 West.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Denver's seed finalization; first-round bracket implications
+
+### STORY 4: Cavaliers 122-116 Hawks
+- **Tier:** 2
+- **Category:** Game Recap / East Standings
+- **Key facts:** Mitchell: 31 pts (12-19 FG). Cavs 122-116 Hawks. Hawks fail to clinch playoff spot.
+- **Status:** FOLLOW-UP
+
+### STORY 5: Magic 132-120 Timberwolves — Shannon Jr. Career-High 33
+- **Tier:** 2
+- **Category:** Game Recap / Play-In Race
+- **Key facts:** Magic 132-120 Wolves. 4th straight win. Banchero 20/8. Bane 18/6. Shannon Jr. career-high 33 for Minnesota.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Magic's playoff seeding; Shannon Jr. development
+
+### STORY 6: Wembanyama Day-to-Day — MRI Clear, SGA Locks Up MVP Race
+- **Tier:** 2
+- **Category:** Injury Update / Award Race
+- **Key facts:** Wemby rib contusion; MRI negative/clear; day-to-day. Needs 20+ min in 1 of 3 remaining games for MVP/DPOY/All-NBA eligibility. DraftKings: SGA -400, Wemby +1800. ESPN straw poll (100 voters): SGA 88, Wemby 8. Spurs 61-19.
+- **Status:** FOLLOW-UP
+
+### STORY 7: Preview — Celtics vs. Knicks, Lakers vs. Warriors
+- **Tier:** 3
+- **Category:** Preview
+- **Key facts:** Celtics vs. Knicks at MSG 7:30 PM ET. Jaylen Brown questionable (Achilles). Sam Hauser questionable (back). Lakers vs. Warriors 10 PM ET. Porzingis out (illness). Richard out (back). Season ends April 12. Play-In April 14-17. Playoffs April 18.
+- **Status:** FOLLOW-UP
+
+---
+
 ## 2026-04-08
 
 | # | Story | Tier | Tag |
