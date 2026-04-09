@@ -1,6 +1,12 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-09
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (web searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts (9), image manifest, articles (5), fact-check (25 claims, 0 char violations, 1 consistency warning: Story 6 missing article by design), compile, dashboard, publish (pushed to content-dashboards), PostPlanner exports (23 posts, 16 TOBI posts). WordPress publish skipped — credentials not in session + known proxy block on fanrumor.com.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **Issues**: WordPress credentials not set in session; proxy restriction on fanrumor.com (known). Story 6 article skipped by design (5 articles meet minimum). IMAGE MISSING expected (not_started). FB posts compile to 0 (heading format — known issue).
+
+## Previous Run
 - **Date**: 2026-04-08
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ web searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (23 claims, 0 char violations, 0 consistency errors), compile (validation all clear), dashboard, publish (pushed to content-dashboards), PostPlanner exports (23 posts, 16 TOBI posts). WordPress publish blocked by proxy (known).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -65,6 +71,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-09
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Story 6-7 social only)
+- Fact-check: 25 claims. 0 char-limit violations. 1 consistency warning (Story 6 no article — optional by design). IMAGE MISSING expected (not_started).
+- Dashboard: Published, live at https://fangearhq-boop.github.io/content-dashboards/
+- PostPlanner: bb-postplanner-2026-04-09.xlsx (23 posts), bb-postplanner-tobi-2026-04-09.xlsx (16 TOBI posts)
+- WordPress: Skipped — credentials not set in session + proxy restriction on fanrumor.com (known network block)
+- Key stories: Dodgers 9-3 MLB best record without Betts; Ohtani 3 HR 7 RBI .420 wOBA + 6 scoreless IP pitching debut (P10); Yankees 8-3 1.16 ERA 8 runs in 9 games matches 1943 Cardinals; Fried 13.1 scoreless innings first Yankee since Stottlemyre 1967 (P9); Red Sox 2-8 126-year franchise low MLB worst record Cora "unacceptable" (P8); Ramirez 1,529th game solo franchise record + chasing 300 HR/300 SB club (9th ever) + 400th double (P8); Brewers/Reds both 8-4 tied NL Central Burns 0.82 ERA Misiorowski 11 Ks OD (P7); Ohtani two-way watch Week 2 36-game OBP streak (P7); Week 2 standings overview (P6)
+- Notes: 0 tweet char violations. FB posts compile to 0 (heading format mismatch — known). Dashboard pushed successfully.
 
 ### 2026-04-08
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
