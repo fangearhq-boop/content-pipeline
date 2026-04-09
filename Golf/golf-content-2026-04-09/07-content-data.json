@@ -1,0 +1,356 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-09",
+  "compiled_at": "2026-04-09T11:37:52.046332+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Masters R1 begins / McIlroy history chase",
+      "type": "Tournament launch"
+    },
+    {
+      "time": "8:00 AM",
+      "description": "Story 2 — Par 3 Contest recap / Aaron Rai curse",
+      "type": "Tournament tradition"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1 — R1 morning wave angle",
+      "type": "Player update"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — LIV's 10 at Augusta",
+      "type": "Field feature"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 4 — Scheffler family / third jacket",
+      "type": "Player feature"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 5 — McIlroy putting vs. driving",
+      "type": "Analysis"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 6 — Chevron Championship Houston",
+      "type": "LPGA preview"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 7 — R1 late coverage guide",
+      "type": "Preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Masters Round 1 Underway — McIlroy Chases Back-to-Back History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "THE 2026 MASTERS IS UNDERWAY.\n\nMcIlroy tees off at 10:31 AM ET defending his title and chasing back-to-back history.\n\nThe last player to win back-to-back Masters: Tiger Woods. 2001-02. No one since.\n\nRory tries today.\n\n#GolfFanrecap #Masters #TheMasters",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#TheMasters"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 1-2",
+          "text": "McIlroy is ON THE COURSE at Augusta right now.\n\n10:31 AM tee time. Cameron Young and Mason Howell in the group.\n\nWorld No. 1 Scheffler tees off at 1:44 PM. DeChambeau at 10:07 AM.\n\n91 players. $21M purse. The 90th Masters. It's here.\n\n#GolfFanrecap #Masters #TheMasters",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#TheMasters"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 AM ET\n\nThe wait is finally over.\n\nRound 1 of the 2026 Masters Tournament is underway at Augusta National, and the storyline that golf fans have been waiting for is now officially in motion. Rory McIlroy, the defending champion, teed off at 10:31 AM ET alongside Cameron Young and U.S. Amateur champion Mason Howell. He is attempting something no one has done in more than two decades.\n\nMcIlroy won the 2025 Masters in a playoff over Justin Rose, completing his career Grand Slam in the process. Now, in 2026, he is chasing back-to-back Green Jackets. The last player to accomplish that was Tiger Woods — 2001 and 2002. Twenty-four years later, Rory is the man trying to match Tiger's consecutive feat.\n\nOn the other side of the draw, World No. 1 Scottie Scheffler tees off at 1:44 PM ET with Robert MacIntyre and Gary Woodland. Scheffler is the +500 favorite, bidding for his third Green Jacket (2022, 2024). Bryson DeChambeau, fresh off back-to-back LIV wins, is out at 10:07 AM.\n\n91 players. $21 million purse. Amazon Prime's debut broadcast. The 90th edition of the Masters. And a defending champion with history on the line.\n\n---",
+        "image_caption": "Window: 10:45 AM ET\n\nMcIlroy is on the course at Augusta RIGHT NOW. The back-to-back attempt begins. Can he match Tiger? The 2026 Masters is underway. 🏌️⛳",
+        "posting_time": "8:00 AM, 10:30 AM"
+      },
+      "article": {
+        "filename": "article-01-mcilroy-masters-r1-back-to-back-attempt.html",
+        "headline": "article-01-mcilroy-masters-r1-back-to-back-attempt.html",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Masters Round 1 — McIlroy Back-to-Back Attempt\n\n**Primary concept:** Rory McIlroy in action at Augusta National — mid-swing or walking the fairway in his defending champion attire. Augusta pines in background.\n**Text overlay:** \"ROUND 1 BEGINS\" / \"Can McIlroy Make History?\"\n**Mood:** Epic, historic, anticipation\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Aaron Rai Wins Par 3 Contest — Four Aces, Kevin Hart, and the Curse",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Par 3 Contest results at Augusta:\n\n🏆 Aaron Rai wins — 6-under par\n⛳ 4 aces: Fleetwood, Rose, Bradley, Clark\nKevin Hart caddied. Jason Kelce caddied for Bhatia.\n\n66 years. Zero Par 3 winners have won the Masters same week.\n\n#GolfFanrecap #Masters #Par3Contest",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#Par3Contest"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 AM ET\n\nWednesday at Augusta National brought the Par 3 Contest — and one of the more memorable editions in recent memory.\n\nEngland's Aaron Rai won the 2026 event at 6-under par, closing with four consecutive birdies to claim the title. Four players made holes-in-one on Wednesday: Tommy Fleetwood, Justin Rose, Keegan Bradley, and Wyndham Clark. Four aces in one Par 3 Contest. That is not normal.\n\nThe celebrity caddie corps was equally notable. Kevin Hart appeared as a caddie for one of the competitors, drawing the inevitable gallery chaos. And NFL legend Jason Kelce looped for Akshay Bhatia, who was apparently thrilled with the arrangement.\n\nTommy Fleetwood's son Frankie attempted to drive the No. 9 green — a moment that will live in internet highlight reels through at least next Wednesday.\n\nAnd now Aaron Rai carries the famous burden: in 66 years of Par 3 Contests, no winner has ever gone on to win the Masters in the same week. Sixty-six years. The streak is intact — and Round 1 is underway.\n\n---",
+        "image_caption": "Window: 10:00 AM ET\n\nFour holes-in-one. Kevin Hart. Jason Kelce caddying. Aaron Rai wins 6-under. The Par 3 Contest delivered Wednesday — and now the curse is officially in play. 66 years of Par 3 winners who did NOT win the Masters. Rai is next.",
+        "posting_time": "8:00 AM, 10:30 AM"
+      },
+      "article": {
+        "filename": "article-02-par3-contest-aaron-rai-four-aces-curse.html",
+        "headline": "article-02-par3-contest-aaron-rai-four-aces-curse.html",
+        "word_count": 594
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Par 3 Contest Results — Aaron Rai Wins\n\n**Primary concept:** Aaron Rai celebrating on the Par 3 course at Augusta, or generic Par 3 Contest imagery with family caddies on the famous 9-hole course.\n**Text overlay:** \"PAR 3 WINNER\" / \"Aaron Rai — 6-Under. Four Aces. The Curse Lives On.\"\n**Mood:** Celebratory but with the shadow of the 66-year curse\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf's Smallest-Ever Masters Field — DeChambeau Leads 10-Man Contingent",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Only 10 LIV players in the 2026 Masters field.\n\nThe fewest since LIV was founded.\n\nDeChambeau leads: back-to-back wins (Singapore + South Africa). Rahm also in the field.\n\nThe LIV presence at Augusta keeps shrinking.\n\n#GolfFanrecap #Masters #LIVGolf",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#LIVGolf"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 1:00 PM ET\n\nWhen the 2026 Masters field was finalized, something stood out: only 10 LIV Golf players made the cut. That is the fewest since LIV was founded in 2022.\n\nIn 2023 and 2024, LIV had managed to send 18 and 14 players to Augusta respectively. The 2026 number of 10 reflects the cumulative effect of tighter qualification criteria — Masters exemptions are heavily weighted toward recent major wins and world ranking points, and LIV players are increasingly boxed out by a points system that doesn't fully credit their tour results.\n\nLeading the LIV contingent is Bryson DeChambeau, who arrives in exceptional form. He won back-to-back LIV events — Singapore and South Africa — both in playoffs, and enters Augusta with legitimate major contender status. Jon Rahm, the 2023 Masters champion, is also in the field and tees off at 1:08 PM ET.\n\nThe rest of the LIV roster is in mixed form at best. The shrinking presence is a data point that Augusta's traditional gatekeeping still matters — and that the pathway from LIV to a major start is getting narrower.\n\n---",
+        "image_caption": "Window: 1:30 PM ET\n\nJust 10 LIV players in the 2026 Masters field. The fewest ever. DeChambeau leads them — and he's coming off back-to-back wins. Can LIV's best crack the Green Jacket?",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-liv-golf-10-players-masters-2026.html",
+        "headline": "article-03-liv-golf-10-players-masters-2026.html",
+        "word_count": 526
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV's 10 at Augusta\n\n**Primary concept:** Bryson DeChambeau in his Crushers GC gear, or a general Augusta National gate/entrance image.\n**Text overlay:** \"10 LIV PLAYERS\" / \"Fewest Since LIV Was Founded\"\n**Mood:** Analytical, news-driven\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Scheffler Eyes Third Green Jacket — History and a Newborn at His Side",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Scheffler plays for his THIRD Green Jacket today.\n\nWon in 2022. Won in 2024. World No. 1. +500 favorite.\n\nHis newborn son Remy (11 days old) and wife Meredith are at Augusta.\n\nThree in five years is historically elite territory.\n\n#GolfFanrecap #Masters #Scheffler",
+          "posting_time": "3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#Scheffler"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 3:30 PM ET\n\nScottie Scheffler has won the Masters twice. In 2022, he ran away from the field. In 2024, he did it again. Now, at 29 years old and World No. 1, he is playing for a third Green Jacket — and for a place in the conversation with Jack Nicklaus and Tiger Woods as the most dominant Masters players of their generation.\n\nThree Masters titles in five years would be the pace of a legend. Nicklaus won six. Tiger won five. Scheffler already has two before the age of 30.\n\nThere is a personal story running alongside the competitive one. Scheffler's wife Meredith gave birth to their son Remy on March 27 — just 13 days before Round 1 of the Masters. Remy is at Augusta. His older brother Bennett is there too. Meredith, described by Scheffler as \"a trooper,\" is present at Augusta National for the entire week.\n\nThe competitive picture has one asterisk: Scheffler has had three consecutive starts outside the top 10, which is unusual for a player of his consistency. He enters as the +500 favorite regardless. Augusta has a way of resetting everything.\n\n---",
+        "image_caption": "Window: 4:00 PM ET\n\nTwo Green Jackets. World No. 1. A newborn son watching from the gallery. Scottie Scheffler is playing for history this week at Augusta National. ⛳🏆",
+        "posting_time": "3:30 PM"
+      },
+      "article": {
+        "filename": "article-04-scheffler-third-green-jacket-family-masters.html",
+        "headline": "article-04-scheffler-third-green-jacket-family-masters.html",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler Family — Third Green Jacket\n\n**Primary concept:** Scottie Scheffler with his family at Augusta, or Scheffler hoisting the Green Jacket from 2022 or 2024.\n**Text overlay:** \"3RD GREEN JACKET?\" / \"Scheffler. Remy. Augusta.\"\n**Mood:** Warm, human interest, aspirational\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "McIlroy's Stat Problem — No. 1 Driver, No. 136 Putter",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "McIlroy's Masters stat sheet:\n\n✅ No. 1 in SG: Off-the-Tee (+0.799)\n❌ No. 102 in putts per round\n❌ No. 136 in one-putt percentage\n\nHe is elite off the tee and struggling on the greens.\n\nAugusta's putting surfaces will sort that out fast.\n\n#GolfFanrecap #Masters #McIlroy",
+          "posting_time": "3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#McIlroy"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 3:30 PM ET\n\nHere is the tension at the heart of Rory McIlroy's Masters defense.\n\nMcIlroy is the best driver of the golf ball on the PGA Tour right now. He ranks No. 1 in Strokes Gained: Off-the-Tee at +0.799. Off the tee, he is in a class of his own. Augusta National's wide fairways and premium on distance should play directly to his strengths.\n\nBut the putting numbers tell a different story.\n\nMcIlroy currently ranks No. 102 in putts per round and No. 136 in one-putt percentage. On Augusta's famously quick, undulating greens — the same surfaces that have broken the best players in the world for 90 years — those numbers are a legitimate concern for a man trying to defend his title.\n\nHe withdrew from the Arnold Palmer Invitational this spring and finished T46 at The Players Championship, ending what was his career-longest three-week layoff. He has just one top-10 in his last four starts. The defending champion enters Round 1 as a threat to contend — but the putter will tell the story.\n\n---",
+        "image_caption": "Window: 4:00 PM ET\n\nNo. 1 off the tee. No. 136 on one-putts. McIlroy's putter is the biggest wildcard in the 2026 Masters defense. Augusta's greens will tell us everything.",
+        "posting_time": "3:30 PM"
+      },
+      "article": {
+        "filename": "article-05-mcilroy-putting-weakness-augusta-greens.html",
+        "headline": "article-05-mcilroy-putting-weakness-augusta-greens.html",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy Putting Problem\n\n**Primary concept:** McIlroy over a putt on Augusta's notoriously fast greens — crouching, reading the line, or mid-stroke.\n**Text overlay:** \"NO. 1 DRIVER. NO. 136 PUTTER.\" / \"Can McIlroy's Putter Save the Defense?\"\n**Mood:** Analytical, tense\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Chevron Championship — LPGA's First Major Makes Houston Debut April 23",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The LPGA's first major of 2026 is coming to Houston.\n\nChevron Championship | April 23-26 | Memorial Park Golf Course\n\n$8M purse. Nelly Korda leads the tour in SG Total (4.00) AND SG T2G (5.55).\n\nGolf Channel Thu-Fri. NBC Sat-Sun.\n\n#GolfFanrecap #ChevronChampionship #LPGATour",
+          "posting_time": "6:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#ChevronChampionship",
+            "#LPGATour"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 6:00 PM ET\n\nWhile the Masters takes center stage this week, the LPGA Tour is two weeks away from its own major championship moment.\n\nThe Chevron Championship, the first women's major of the 2026 season, makes its Houston debut at Memorial Park Golf Course from April 23 to 26. After three years at The Woodlands Country Club, the event moves to Memorial Park — a public course in the heart of Houston that underwent a landmark renovation in recent years and has already hosted a PGA Tour event.\n\nThe $8 million purse is among the largest in women's golf. And the favorite heading into Houston is not a mystery.\n\nNelly Korda is leading the LPGA Tour in Strokes Gained: Total at 4.00 and Strokes Gained: Tee-to-Green at 5.55 — both tour-leading figures by a wide margin. Korda has been the sport's dominant player and arrives in Houston with the strongest statistical case for a major title of anyone in the field.\n\nTV coverage: Golf Channel on Thursday and Friday, NBC on Saturday and Sunday.\n\n---",
+        "image_caption": "Window: 6:30 PM ET\n\nLPGA's first major is 14 days away. Chevron Championship | Memorial Park | Houston | April 23-26. Korda leads the tour in SG Total AND SG T2G. The case for her is overwhelming. ⛳",
+        "posting_time": "6:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Chevron Championship Preview\n\n**Primary concept:** Nelly Korda in action on the LPGA Tour — iron shot, tee shot, or celebrating a birdie.\n**Text overlay:** \"CHEVRON CHAMPIONSHIP\" / \"Houston. April 23. Korda vs. The World.\"\n**Mood:** Preview, anticipation, LPGA showcase\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Masters Round 1 — What to Watch for Late-Day Groups",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Masters R1 afternoon update 🏌️\n\nScheffler (1:44 PM) and Rahm (1:08 PM) have finished their rounds.\n\nCBS and Amazon Prime covered the afternoon wave.\n\nNote: 17th hole shortened 12 yards to 450 this year.\n\n#GolfFanrecap #Masters #TheMasters",
+          "posting_time": "8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#TheMasters"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:30 PM ET\n\nThe afternoon wave at Augusta National brought the biggest names of Round 1.\n\nScottie Scheffler, the World No. 1 and +500 Masters favorite, teed off at 1:44 PM ET alongside Robert MacIntyre and Gary Woodland. Jon Rahm, the 2023 Masters champion and LIV Golf's most decorated name this week, went out at 1:08 PM with Chris Gotterup and Ludvig Åberg.\n\nCBS and Amazon Prime carried the afternoon coverage in what marks Amazon's debut as a Masters broadcast partner. The production quality, commentary, and streaming experience from the Prime broadcast drew immediate attention from golf fans watching for the first time on the new platform.\n\nOne course change worth noting this year: Augusta National's 17th hole has been shortened by 12 yards, now playing to 450 yards. That modification changes approach angles and club selection for several of the top players, and the early data from today's rounds will begin to reveal its strategic implications.\n\nFull Round 1 scores and a complete recap will be available tomorrow morning.\n\n---",
+        "image_caption": "Window: 9:00 PM ET\n\nRound 1 at Augusta is in the books. Scheffler, Rahm, McIlroy, DeChambeau — all played Thursday. Full recap and leaderboard analysis coming first thing tomorrow. 🏌️⛳ #Masters",
+        "posting_time": "8:30 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Masters R1 Afternoon Wave\n\n**Primary concept:** Augusta National aerial or iconic 12th hole imagery; or Scheffler on the first tee.\n**Text overlay:** \"AFTERNOON WAVE BEGINS\" / \"Scheffler. Rahm. 1:00 PM ET.\"\n**Mood:** Live-action urgency"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 8,
+    "facebook_posts_count": 7,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

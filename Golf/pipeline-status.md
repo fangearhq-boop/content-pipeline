@@ -3,7 +3,28 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-08)
+## Current Pipeline (2026-04-09)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-09 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-04-09 |
+| Fact-check | Complete (verify-facts.py — 5 tweets trimmed; Tier 2 Story 6 no article — acceptable) | 2026-04-09 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-09 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-04-09 |
+| Dashboard | Generated locally (push blocked — PAT scope) | 2026-04-09 |
+| Published | Attempted — blocked by egress proxy (403 Forbidden) | 2026-04-09 |
+| Git | Committed and pushed to main | 2026-04-09 |
+
+## Notes (2026-04-09)
+- 7 stories: Masters R1 underway/McIlroy back-to-back attempt first since Tiger 2001-02 (T1), Aaron Rai wins Par 3 Contest 6-under/4 aces (Fleetwood/Rose/Bradley/Clark)/Kevin Hart/Kelce caddie/66yr curse (T1), LIV's 10-player field fewest ever/DeChambeau leads (T2), Scheffler third jacket/newborn Remy 11 days old/+500 (T2), McIlroy No. 1 OTT/No. 136 one-putt% (T2), Chevron Championship Houston debut April 23-26/Korda (T2), R1 afternoon coverage guide (T3)
+- Masters Round 1: McIlroy 10:31 AM (Young/Howell), Scheffler 1:44 PM (MacIntyre/Woodland), DeChambeau 10:07 AM, Rahm 1:08 PM (Gotterup/Åberg). 91 players. $21M purse. 90th edition. Amazon Prime debut.
+- Par 3 Contest: Aaron Rai wins 6-under; 4 aces; Kevin Hart caddie; Jason Kelce caddied for Bhatia; Frankie Fleetwood attempted No. 9 drive.
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- WordPress publish: Attempted — blocked by egress proxy (403 Forbidden) — known ongoing issue
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+## Previous Pipeline (2026-04-08)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|

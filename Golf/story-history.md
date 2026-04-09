@@ -6,6 +6,16 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-04-09 | T1 | Masters R1 underway — McIlroy defending champion (won 2025 over Justin Rose playoff/Grand Slam); back-to-back attempt first since Tiger 2001-02; McIlroy 10:31 AM (Young/Howell), Scheffler 1:44 PM (MacIntyre/Woodland), DeChambeau 10:07 AM; 91 players, $21M purse, Amazon Prime debut, 90th Masters | X, FB, Article | FOLLOW-UP from 4/3-4/8 countdown |
+| 2026-04-09 | T1 | Aaron Rai wins Par 3 Contest 6-under (4 straight birdies); 4 aces: Tommy Fleetwood, Justin Rose, Keegan Bradley, Wyndham Clark; Kevin Hart celebrity caddie; Jason Kelce caddied for Bhatia; Frankie Fleetwood drove No. 9; 66-year Par 3 curse intact | X, FB, Article | FOLLOW-UP — Par 3 results new |
+| 2026-04-09 | T2 | LIV's 10-player Masters field — fewest since LIV founded (down from 18 in 2023, 14 in 2024, 12 in 2025); DeChambeau leads (back-to-back LIV wins Singapore/South Africa); Rahm also in field (1:08 PM ET) | X, FB, Article | NEW ANGLE — 10-player count |
+| 2026-04-09 | T2 | Scheffler third Green Jacket attempt — won 2022, 2024; World No. 1; +500 favorite; newborn son Remy (11 days old, born March 27) at Augusta; wife Meredith "a trooper"; son Bennett also present; 3 consecutive starts outside top 10 | X, FB, Article | FOLLOW-UP from 4/6-4/8 |
+| 2026-04-09 | T2 | McIlroy putting weakness — No. 1 SG:OTT (+0.799) but No. 102 putts per round, No. 136 one-putt%; one top-10 in last 4 starts; WD Arnold Palmer; T46 Players ending career-longest 3-week layoff | X, FB, Article | FOLLOW-UP from 4/8 putting stats |
+| 2026-04-09 | T2 | Chevron Championship LPGA Houston debut — Memorial Park Golf Course; April 23-26; $8M purse; Korda SG Total 4.00/SG T2G 5.55 (tour leader); Golf Channel Thu-Fri, NBC Sat-Sun | X, FB | FOLLOW-UP from 4/7-4/8 Chevron |
+| 2026-04-09 | T3 | Masters R1 afternoon coverage guide — Scheffler 1:44 PM, Rahm 1:08 PM; CBS and Amazon Prime; 17th hole shortened 12 yards to 450 | X, FB | FOLLOW-UP ongoing R1 |
+
+| Date | Tier | Topic | Platforms | Notes |
+|------|------|-------|-----------|-------|
 | 2026-04-08 | T1 | Par 3 Contest today at Augusta — noon ET; ESPN 2-4 PM; family caddies; 66-year superstition (no Par 3 winner has ever won Masters same week); Scheffler newborn at Par 3; Masters R1 tomorrow | X, FB, Article | FOLLOW-UP from 4/7 Par 3 preview |
 | 2026-04-08 | T1 | Masters R1 tee times Thursday — McIlroy 10:31 AM (Young/Howell), Scheffler 1:44 PM (MacIntyre/Woodland), DeChambeau 10:07 AM (Fitzpatrick/Schauffele), Rahm 1:08 PM (Gotterup/Åberg); back-to-back first since Tiger 2001-02 | X, FB, Article | FOLLOW-UP from 4/7 Masters countdown |
 | 2026-04-08 | T1 | DeChambeau arrives at Augusta on back-to-back LIV wins (Singapore/playoff T. Lee, South Africa/playoff Rahm); custom-built clubs (irons, driver, wedges tested in SA); 10 LIV players in field | X, FB, Article | FOLLOW-UP from 4/7 DeChambeau LIV form |
