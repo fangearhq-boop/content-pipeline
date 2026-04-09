@@ -2,6 +2,50 @@
 
 ---
 
+## April 9, 2026
+
+### Story 1: D11 Moving Orton Academy Into Trailblazer Elementary for 2026-27
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 approves moving Orton Academy — dyslexia-focused charter, grades 2-8, ~120 students — into Trailblazer Elementary for fall 2026; Trailblazer capacity ~600, enrollment ~220, ~337 open seats; parents felt blindsided)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Orton Academy D11 charter since 2024; grades 2-8; ~120 students; Trailblazer Elementary ~600 capacity, ~220 enrolled, ~337 open seats; fall 2026 start; parents described as feeling "blindsided"; D11 rationale: efficient use of underutilized building
+- **Follow-Up Opportunities:** Charter co-location outcomes; Orton and Trailblazer parent feedback; D11 board meeting coverage
+
+### Story 2: CPSC Recalls Vevor Baby Swings Over Safe Sleep Violation
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Sanven Technology recalls Vevor baby swings models BB501K, BB702A, BB005K; incline exceeds 10 degrees violating Safe Sleep for Babies Act; sold Vevor.com + Amazon Jan-Aug 2025, $65-$80; no injuries; inclined sleepers linked to 94+ infant deaths 2005-2019)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Models BB501K, BB702A, BB005K; sold Jan-Aug 2025; Vevor.com + Amazon; $65-$80; incline >10 degrees; violates Safe Sleep for Babies Act; no injuries from this product; context: 94+ infant deaths from inclined sleepers 2005-2019; refund: (855) 599-6320 or recalling@vevor.com
+- **Follow-Up Opportunities:** Safe infant sleep evergreen guide; inclined sleeper history/policy explainer
+
+### Story 3: YCXXKJ Baby Bath Seats Recalled — Tip-Over Drowning Risk
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (BenTalk recalls ~8,960 YCXXKJ bath seats model YD-1958; sold Amazon May 2024-Oct 2025, $34-$40; tip-over drowning risk; colors: blue/gray/pink/yellow; no injuries)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** Model YD-1958; ~8,960 units; Amazon only; May 2024-Oct 2025; $34-$40; blue/gray/pink/yellow; tip-over drowning hazard; no injuries; refund: bentalkhere@outlook.com or (213) 579-2588
+- **Follow-Up Opportunities:** Bath safety evergreen; CPSC recall roundup
+
+### Story 4: COS Parks Hit 22.5 Million Visits in 2025 — Budget Cuts Proposed for 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (COS Parks 2025 Annual Report: 22.5M visits; $91.6M economic impact and $73.7M healthcare savings per Trust for Public Land; Patty Jewett 119K rounds, Valley Hi 62K rounds; Garden of the Gods 8,000 ft waterline; 2026 budget $22.6M with proposed $2M cut)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 22.5M visits (parks/open spaces/trails); $91.6M economic impact; $73.7M healthcare savings; Patty Jewett 119K rounds; Valley Hi 62K rounds; Garden of the Gods 8,000 ft waterline; 2026 general fund $22.6M; proposed cut $2M
+- **Follow-Up Opportunities:** Budget hearing coverage; spring park activity guide; TOPS 2026 trail update
+
+### Story 5: AAP Screen Time Guidelines — Quality and Context Over the Clock
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP guidance: no screens under 18 months except video calls; ages 2-5 max 1 hr/day high-quality content; ages 6+ consistent limits; emphasis on co-viewing, conversation, parental modeling over strict time limits)
+- **Content Produced:** X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 3
+- **Key Facts:** Under 18 months: no screens except video chatting; 18-24 months: high-quality only with co-viewing; ages 2-5: 1 hr/day max; ages 6+: consistent limits, no displacement of sleep/exercise/face time; quality + context > clock; co-viewing and modeling essential
+- **Follow-Up Opportunities:** Family digital wellness guide (evergreen); device-free activities for COS kids
+
+---
+
 ## April 8, 2026
 
 ### Story 1: CPSC Emergency Warning — Tuyedoqe Travel Bassinet (Stop Use + Destroy)
