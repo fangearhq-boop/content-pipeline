@@ -3,6 +3,38 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 9, 2026
+
+### Story 1: No. 2 Oklahoma at No. 4 Texas — Red River Showdown Preview
+- **Angle:** NEW STORY (series preview). OU (38-3, 11-1 SEC) visits Texas (32-4, 9-3 SEC) for three-game series April 10-12, all on ESPN/ESPN2. OU leads SEC by 2 games. Wells has 30 HRs (7 from all-time record). Texas is defending national champ. OU all-time series lead 48-14. Texas won the WCWS meeting last year.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+
+### Story 2: Kendall Wells 30 HRs — Red River Showdown Context + Record Watch
+- **Angle:** FOLLOW UP (from April 8 Wells story). Now facing Texas pitching this weekend; needs 7 more to break Alo's all-time NCAA record (37). Reached 30 in just 40 games (22 fewer than any prior holder). Full season: .383 BA, 60+ RBI, named D1Softball and SEC POTW April 7.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article
+
+### Story 3: Texas Tech Reclaims No. 1 — NiJaree Canady 1,000 Career Ks
+- **Angle:** FOLLOW UP (from April 8 TTech No. 1 story). Canady reached 1,000 career Ks vs BYU (17 K in 9.1 IP), became 102nd pitcher in NCAA history. 15-2, 1.29 ERA. Big 12 POTW x3. TTech (37-2) at Utah road series April 10-12 (ESPN+).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+
+### Story 4: Alabama Wins Series Over No. 1 Texas — First Since 2016
+- **Angle:** FOLLOW UP (from April 8 Alabama series recap). Series detail recap: G1 Texas 9-1, G2 Alabama 11-4, G3 Alabama 7-4. First Alabama series win over No. 1 team since 2016 (Florida). Alabama now 35-3, 9-3 SEC (tied with Texas). Alabama heads to Auburn this weekend.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+
+### Story 5: FSU Extends Win Streak to 25, Heading to No. 24 Stanford
+- **Angle:** FOLLOW UP (from April 8 FSU 24-game streak). Beat Santa Clara April 8, streak now 25 (nation's longest active). Ranked No. 5 NFCA. Isa Torres .610 BA leads all DI. Road trip: FSU at Stanford (ACC series) April 10-12.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article
+
+### Story 6: NFCA Week 9 Rankings — TTech No. 1, Alabama Biggest Mover
+- **Angle:** NEW STORY. TTech No. 1, OU No. 2, Alabama No. 3 (biggest mover), Texas No. 4, FSU No. 5. UCF returns to rankings at No. 25.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+### Story 7: Weekend Preview — April 10-12 Full Slate
+- **Angle:** NEW STORY. Red River Showdown (OU/Texas), TTech at Utah, FSU at Stanford, Alabama at Auburn, Tennessee at Kentucky, Florida at South Carolina. WCWS implications across all series.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+---
+
 ## April 8, 2026
 
 ### Story 1: Kendall Wells Ties NCAA Freshman HR Record at 30 — OU Sweeps Kentucky

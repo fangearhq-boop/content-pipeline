@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-09
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (91 claims, 1 char violation fixed, 1 consistency warning for Story 6 Tier 2 no article — expected), compile, dashboard, PostPlanner exports (23 posts X, 16 TOBI posts). WordPress publish blocked by proxy sandbox (known network restriction).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known issue). publish-unified-dashboard.py 403 (PAT, known) — used publish-dashboard.py. Story 6 article skipped by design (5 articles meet minimum). IMAGE MISSING warnings expected (not_started). Story 1 tweet trimmed from 284 to 276 chars. FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing).
+
+## Previous Run
 - **Date**: 2026-04-08
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ web searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (100 claims, 0 char violations, 0 consistency errors), compile (validation all clear), dashboard, PostPlanner exports (23 posts, 16 TOBI posts). WordPress publish attempted (see Issues).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -72,6 +79,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-09
+- Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 91 claims. 1 char-limit violation fixed (Story 1 tweet 1: 284→276 chars). 1 consistency warning (Story 6 Tier 2 no article — expected). IMAGE MISSING expected (not_started).
+- Dashboard: Published, live at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- PostPlanner: ils-postplanner-2026-04-09.xlsx (23 posts), ils-postplanner-tobi-2026-04-09.xlsx (16 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Red River Showdown preview OU (38-3 11-1 SEC) at Texas (32-4 9-3) Apr 10-12 ESPN (P10); Wells 30 HR tying NCAA freshman record needs 7 for all-time mark Texas pitching test coming (P10); Texas Tech No. 1 Canady 1,000 career Ks 15-2 1.29 ERA at Utah (P9); Alabama wins series over No. 1 Texas first since 2016 (P8); FSU 25-game win streak Torres .610 BA at No. 24 Stanford (P8); NFCA Week 9 TTech No. 1 Alabama biggest mover (P7); Full weekend preview all on ESPN (P6)
+- Notes: publish-unified-dashboard 403 PAT error — used publish-dashboard.py OK. FB posts compile to 0 (heading format — known, dashboard uses markdown fallback).
 
 ### 2026-04-08
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
