@@ -2,6 +2,66 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-09
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | FIA April 9 crunch meeting begins — technical staff only, discussion/no binding decisions; April 20 = TP binding vote (WMSC approval needed); proposals: 250→350kW super clip, 9→6MJ energy recovery; Bearman 50G crash safety exhibit | 1 | FOLLOW-UP (summit Day 1 underway) |
+| 2 | Ole Schack (Verstappen's mechanic 20+ yrs, every GP since 2005 Australian) set to leave Red Bull; follows Horner, Marko, Courtenay, Skinner; VER 9th, 12 pts, exit clause counting | 1 | NEW STORY (Schack departure new; broader exodus angle new) |
+| 3 | ESPN sources: Verstappen leaning sabbatical over retirement; step away 2027, return when rules clear; contract allows ambassador role; expects FIA changes "marginal"; exit clause Aug-Oct 2026 | 1 | FOLLOW-UP (ESPN source upgrade escalates sabbatical narrative) |
+| 4 | Antonelli 72 pts (leads by 9 over Russell 63); Leclerc 49; Piastri Japan podium 2nd; Mercedes staff don't see Russell as title favorite; Antonelli "must be perfect"; youngest-ever F1 championship leader | 2 | FOLLOW-UP (championship tracked; Mercedes internal dynamic new) |
+| 5 | Ferrari Monza filming day April 22 confirmed; Hamilton/Leclerc alternating; testing: revised floor, ADUO PU software update, "Macarena" rear wing; mini pre-season; also Mugello/Fiorano sessions | 2 | FOLLOW-UP (Monza date confirmed 4/7; mini pre-season and Macarena wing detail new) |
+| 6 | Verstappen Nurburgring: NLS3 possible April 11; NLS qualifier races April 18-19 confirmed; Mercedes-AMG GT3 Verstappen Racing #3; 24H Nurburgring May 16 | 2 | NEW STORY (NLS3 timing new; combined April break activity angle) |
+| 7 | Miami GP May 1-3 (Sprint); post-April 20 rule change possible; Ferrari biggest upgrade package 2026; VER title math at -60 pts; Pirelli softer compounds possible | 3 | FOLLOW-UP (ongoing Miami preview) |
+
+---
+
+### STORY 1: FIA April 9 Technical Meeting
+- **Tier:** 1
+- **Category:** Regulation / Safety
+- **Key facts:** April 9 = technical reps only, discussion/no binding decisions. April 20 = team principals, potential binding vote (WMSC approval needed). Proposals: 250→350kW super clip, 9→6MJ energy recovery. Bearman 50G Spoon Curve crash: ~50km/h differential between boost and energy-saving modes. Goal: Miami May 1-3. Second technical meeting follows today's before TPs meet.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** April 20 TP meeting outcome; which proposals pass; Miami implementation
+
+### STORY 2: Ole Schack Set to Leave Red Bull
+- **Tier:** 1
+- **Category:** Team News / Driver Future
+- **Key facts:** Schack = Verstappen's front-end mechanic 20+ years. Every GP since 2005 Australian GP (sole trackside personnel). Expected departure. Follows: Horner (TP), Marko (advisor), Courtenay (lead strategist), Skinner (chief designer). Verstappen: 9th, 12 pts, 60 behind Antonelli. Exit clause: Aug-Oct 2026 if outside top 2.
+- **Status:** NEW STORY
+- **Follow-Up:** Red Bull car performance; more staff departures
+
+### STORY 3: Verstappen Sabbatical — ESPN Sources
+- **Tier:** 1
+- **Category:** Driver News / Future
+- **Key facts:** ESPN sources: leaning sabbatical over retirement. Contract allows ambassador role while not racing. Expects FIA changes "marginal." Exit clause Aug-Oct 2026. Currently 9th, 12 pts (60 behind Antonelli). Expects FIA changes are important for "life decisions."
+- **Status:** FOLLOW-UP
+
+### STORY 4: Antonelli Championship Lead / Mercedes Dynamics
+- **Tier:** 2
+- **Category:** Championship / Driver Analysis
+- **Key facts:** Antonelli 72 pts, Russell 63, Leclerc 49. Piastri: Japan podium 2nd. Mercedes staff don't see Russell as title favorite. Antonelli "must be perfect." Youngest-ever F1 championship leader (broke Hamilton's 2007 record: 22y 5m 6d; Antonelli 19y 216d). Pirelli softer compounds expected for Miami (may suit Russell).
+- **Status:** FOLLOW-UP
+
+### STORY 5: Ferrari Monza Test April 22
+- **Tier:** 2
+- **Category:** Technical / Team Preparation
+- **Key facts:** Monza filming day April 22 confirmed. Hamilton/Leclerc alternate. Testing: revised floor (Bahrain spec), ADUO PU software update, "Macarena" rear wing (Bahrain spec failed stability in China). Also: Mugello and Fiorano sessions. Goal: arrive Miami with significantly upgraded SF-26.
+- **Status:** FOLLOW-UP
+
+### STORY 6: Verstappen Nurburgring
+- **Tier:** 2
+- **Category:** Driver Activity / Feature
+- **Key facts:** NLS3 April 11 (possible, replaces Bahrain weekend). NLS qualifier April 18-19 (confirmed). Car: Mercedes-AMG GT3, Verstappen Racing #3. 24H Nurburgring: May 16. NLS2 race March 21 with Juncadella and Gounon.
+- **Status:** NEW STORY
+
+### STORY 7: Miami GP Preview
+- **Tier:** 3
+- **Category:** Preview
+- **Key facts:** Miami May 1-3 (Sprint weekend). Post-April 20 possible new rules. Ferrari biggest 2026 upgrade. Verstappen -60 pts. Russell looking to reclaim lead.
+- **Status:** FOLLOW-UP
+
+---
+
 ## 2026-04-08
 
 | # | Story | Tier | Tag |

@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-08
+- **Date**: 2026-04-09
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-09
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5: FIA meeting Day 1, Ole Schack departure, Verstappen sabbatical, Antonelli/Mercedes dynamics, Ferrari Monza test)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-09.xlsx (9 posts) + f1fr-postplanner-tobi-2026-04-09.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-09/review-dashboard.html (35 items)
+- **Notes:** FIA April 9 technical meeting underway — first crunch session (technical reps, discussion only); April 20 = TP binding vote; super clipping 250→350kW, 9→6MJ energy proposals. Ole Schack (Verstappen's mechanic 20+ years, every GP since 2005 Australian) set to leave Red Bull — follows Horner, Marko, Courtenay, Skinner. ESPN sources: Verstappen leaning sabbatical over retirement; exit clause Aug-Oct 2026; currently 9th at 12 pts (-60 from Antonelli). Antonelli 72/Russell 63 — Mercedes staff don't see Russell as title favorite. Ferrari Monza April 22 confirmed — revised floor, ADUO software, Macarena wing. Verstappen NLS3 possible April 11, qualifier April 18-19.
+- **Fact concerns:** Verstappen "expects FIA changes marginal" — PlanetF1 single source (MEDIUM); NLS3 April 11 possible but from single GPFans reference (MEDIUM). All other core facts HIGH from The Race, ESPN, RacingNews365, PlanetF1, Scuderia Fans, Sky Sports.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with previous runs)
 
 ### 2026-04-08
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
