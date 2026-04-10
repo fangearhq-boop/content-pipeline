@@ -6,6 +6,11 @@ Track previously covered stories to avoid repetition and maintain content freshn
 
 | Date | Story | Tier | Platforms | Notes |
 |------|-------|------|-----------|-------|
+| 2026-04-10 | Monte Carlo QF Day preview — Zverev-Fonseca, Sinner-FAA, Alcaraz-Bublik, Vacherot-De Minaur (all first meetings for 2 pairs) | T1 | X, FB, Article | Full QF slate; Semifinals Saturday; No. 1 race resolves or extends based on Sinner-Alcaraz results |
+| 2026-04-10 | Vacherot makes Monegasque history — first Open Era MC QF for a Monegasque; def. Hurkacz 6-7(4), 6-3, 6-4 in 2h53m | T1 | X, FB, Article | Hurkacz was 2025 MC finalist; Vacherot's half-brother Balleret is coach; Vacherot now inside top 20; faces De Minaur in QF |
+| 2026-04-10 | Sinner's 37-set Masters streak ends vs. Machac — def. 6-1, 6-7(3), 6-3; 186 days, streak began Paris Masters Nov 2025 | T1 | X, FB, Article | Machac won tiebreak 7-3; Sinner won 3rd set 6-3 without trouble; faces FAA in QF; No.1 chase continues |
+| 2026-04-10 | FAA advances via Ruud retirement — up 7-5, 2-2 when Ruud retired with injury; faces Sinner in MC QF | T2 | X, FB, Article | FAA No. 6 seed; fired 4 aces before Ruud withdrew; biggest clay opportunity of his season |
+| 2026-04-10 | WTA Linz — Ostapenko def. Eala 6-4, 7-5; Eala led 5-1, had set point; Ostapenko's first win over Eala in WTA (was 0-2) | T2 | X, FB, Article | Linz QFs: Ostapenko vs. Ruse, Vekic vs. Pliskova; Stuttgart begins April 13 |
 | 2026-04-09 | Fonseca def. Berrettini 6-3, 6-2 — Monte Carlo R3 QF; first Brazilian Masters 1000 QF since Bellucci 2011 | T1 | X, FB, Article | 75 min; youngest at MC QF since Nadal/Gasquet 2005; 2nd player born 2006 to reach Masters QF; faces Zverev Friday |
 | 2026-04-09 | Sinner No. 1 chase — 36 consecutive sets at Masters 1000; vs. Machac R3 (led 6-1 set 1) | T1 | X, FB, Article | H2H 3-0 vs. Machac; 0 pts to defend; gap 1,190 pts vs. Alcaraz; title = return to No. 1 |
 | 2026-04-09 | Zverev def. Bergs 6-2, 7-5 — Monte Carlo QF; first MC QF since 2022; faces Fonseca Friday | T2 | X, FB, Article | Chasing 8th Masters 1000 title; Bergs had beaten Rublev day before |

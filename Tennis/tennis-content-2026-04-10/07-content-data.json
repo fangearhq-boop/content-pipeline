@@ -1,0 +1,291 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-10",
+  "compiled_at": "2026-04-10T12:27:46.029505+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Monte Carlo QF Day — Four Matches That Define the Tournament",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Monte Carlo quarterfinals, all on Court Rainier III today:\n\nZverev vs. Fonseca (first-ever meeting)\nSinner vs. Auger-Aliassime (No. 1 race on the line)\nAlcaraz vs. Bublik (first-ever meeting)\nVacherot vs. De Minaur (Monegasque history already made)\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Fonseca. Vacherot. The defending champion. The guy who may become No. 1. All playing in the same quarterfinal day at Monte Carlo. This is the best single day of the clay season so far.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-monte-carlo-qf-day-preview-2026.html",
+        "headline": "Monte Carlo Quarterfinals: Four Matches, Four Storylines — The Clay Season's Biggest Day",
+        "word_count": 807
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monte Carlo QF Day\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** `Carlos Alcaraz tennis`\n- **Usage:** Social post image for QF Day story; Alcaraz as defending champion anchor\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 2 — Social (1080x1350)**\n- **Search term:** `Jannik Sinner tennis`\n- **Usage:** Secondary social option; Sinner as No. 1 chase central figure\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monte Carlo QF Day\n- **Freshness:** Today's matches. Confirmed QF matchups from multiple sources.\n- **Match schedule confirmed:** Zverev-Fonseca (first slot), Sinner-FAA (second slot), Alcaraz-Bublik, Vacherot-De Minaur (all Court Rainier III, April 10)\n- **First meetings:** Zverev-Fonseca never met before (sportsmole.co.uk); Alcaraz-Bublik never met before (lastwordonsports.com)\n- **Rankings implications:** Sinner (No. 2) defending 0 pts; Alcaraz (No. 1) defending 1,000 pts. Title = Sinner returns to No. 1",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Vacherot Makes Monegasque History — First Open Era MC Quarterfinalist From Monaco",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Valentin Vacherot def. Hurkacz 6-7(4), 6-3, 6-4 on his home courts in Monte Carlo. He's now the first Monegasque player in Open Era history to reach the quarterfinals here. His half-brother and coach held the previous record.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Vacherot grew up in Monaco watching the Monte Carlo Masters from the stands. Yesterday he beat the 2025 finalist on clay. The local hero is in the QF and faces De Minaur today.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-vacherot-monegasque-history-monte-carlo-2026.html",
+        "headline": "Vacherot Makes Monegasque History at Monte Carlo, Defeats Hurkacz to Reach Open Era First",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Vacherot Monegasque History\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** `Valentin Vacherot tennis`\n- **Usage:** Hero image for Vacherot history feature\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** `Valentin Vacherot tennis`\n- **Usage:** Article hero for Vacherot Monegasque history piece\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Vacherot Monegasque History\n- **Score verified:** 6-7(4), 6-3, 6-4 vs. Hurkacz — confirmed by atptour.com + tennismajors.com + tennisnow.com (3 independent sources → HIGH)\n- **Duration:** 2h53m (atptour.com article)\n- **Historic claim:** \"First Monegasque in Open Era to reach MC QF\" — confirmed by atptour.com + tennismajors.com (2 independent sources → HIGH)\n- **Hurkacz context:** 2025 MC finalist (atptour.com)\n- **Vacherot's half-brother / coach:** Benjamin Balleret (atptour.com)\n- **Previous Monegasque record:** Balleret reached R3 (atptour.com article context)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Sinner's 37-Set Masters Streak Ends — He Wins Anyway",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Machac just ended Jannik Sinner's 37-set Masters 1000 winning streak. It lasted 186 days — through Paris, Indian Wells, Miami. Sinner won the third set 6-3 and is through to the QF anyway.\n\n#MonteCarlo #Sinner",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Sinner"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Final: Sinner def. Machac 6-1, 6-7(3), 6-3. The streak is gone. The No. 1 chase is not. Sinner faces Auger-Aliassime in the Monte Carlo QF today. Every win now is a point back on Alcaraz.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-sinner-machac-37-set-streak-ends-monte-carlo-2026.html",
+        "headline": "Machac Ends Sinner's 37-Set Masters Streak After 186 Days — Sinner Wins 6-1, 6-7(3), 6-3 Anyway",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner 37-Set Streak Ends\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** `Jannik Sinner tennis`\n- **Usage:** Social image for Sinner streak story\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** `Tomas Machac tennis`\n- **Usage:** Article hero — Machac as the player who ended the streak\n- **Credit:** (Imagn Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner Streak Ends vs. Machac\n- **Score verified:** 6-1, 6-7(3), 6-3 — atptour.com + tennismajors.com + yardbarker.com + puntodebreak.com + geosuper.tv (5 independent sources → HIGH)\n- **Streak number:** 37 consecutive sets at Masters 1000 (tennismajors.com headline \"37 sets, 186 days\")\n- **Duration:** 186 days (tennismajors.com)\n- **Streak origin:** Paris Masters last November (multiple sources)\n- **Streak context:** Included Indian Wells + Miami (Sunshine Double) won without dropping a set\n- **Next opponent:** FAA in QF (confirmed from multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Auger-Aliassime Into Monte Carlo QF via Ruud Retirement — Faces Sinner Friday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Felix Auger-Aliassime is in the Monte Carlo QF. Casper Ruud retired injured at 7-5, 2-2 with FAA up and serving. The Canadian now faces Jannik Sinner in the quarterfinals today.\n\n#MonteCarlo #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonteCarlo",
+            "#Tennis"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-faa-ruud-retirement-monte-carlo-qf-sinner-2026.html",
+        "headline": "Auger-Aliassime Into Monte Carlo QF as Ruud Retires — Now Faces Sinner",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Auger-Aliassime via Ruud Retirement\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** `Felix Auger-Aliassime tennis`\n- **Usage:** Social post image for FAA QF story\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** `Felix Auger-Aliassime tennis`\n- **Usage:** Article hero for FAA QF advancement article\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FAA via Ruud Retirement\n- **FAA advance confirmed:** tsn.ca + cbc.ca + globeandmail.com + ctvnews.ca + castanet.net (5+ independent Canadian sources → HIGH)\n- **Scoreline at retirement:** 7-5, 2-2 (tsn.ca; cbc.ca)\n- **Why Ruud retired:** Injury (tsn.ca: \"Ruud retires with injury\")\n- **FAA ace count:** 4 aces before Ruud retired (tsn.ca)\n- **FAA seeding:** No. 6 seed (search results)\n- **Next opponent:** No. 2 seed Sinner (confirmed all sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "WTA Linz — Ostapenko Outlasts Eala From 5-1 Down; Stuttgart Beckons",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "Eala led 5-1 in the second set. Had a set point. Ostapenko won six straight games to win 6-4, 7-5. The Latvian had never beaten Eala in two prior WTA meetings. She has now.\n\n#Linz #WTATennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Linz",
+            "#WTATennis"
+          ],
+          "char_count": 190
+        },
+        {
+          "label": "Post 5-2",
+          "text": "WTA Linz QF day is live. Ostapenko vs. Ruse. Vekic vs. Pliskova. Stuttgart starts Monday with Sabalenka, Rybakina, Gauff and Swiatek all in the draw.\n\n#WTATennis #Stuttgart",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTATennis",
+            "#Stuttgart"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ostapenko-eala-linz-wta-2026.html",
+        "headline": "Ostapenko Survives Eala's 5-1 Lead to Win 6-4, 7-5 at Linz — Stuttgart Looms",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Linz — Ostapenko vs. Eala\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** `Jelena Ostapenko tennis`\n- **Usage:** Social image for Ostapenko comeback win in Linz\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** `Alexandra Eala tennis`\n- **Usage:** Article hero for Eala-Ostapenko Linz drama article\n- **Credit:** (Imagn Images)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Linz + Stuttgart\n- **Ostapenko def. Eala score:** 6-4, 7-5 (wtatennis.com + philstar.com + spin.ph → HIGH)\n- **Match duration:** 1h43m (wtatennis.com)\n- **Eala 5-1 lead in set 2:** philstar.com + wtatennis.com headline (\"erases deficits in both sets\") → HIGH\n- **Set point held by Eala:** philstar.com (\"held a set point\") → MEDIUM (single source for this specific detail)\n- **Ostapenko 0-2 vs. Eala prior:** spin.ph → MEDIUM (verify before use as definitive stat)\n- **Ostapenko next faces Ruse:** wtatennis.com → HIGH\n- **Linz QF Vekic vs. Pliskova:** wtatennis.com tournament page → HIGH\n- **Stuttgart April 13-19:** wtatennis.com official → HIGH\n## Story History Check (vs. story-history.md)\n| Story | Classification |\n|-------|----------------|\n| Monte Carlo QF Day (all 4 matchups) | NEW STORY |\n| Vacherot Monegasque history | NEW STORY (not in April 9 story history) |\n| Sinner 37-set streak ends (Machac score confirmed) | FOLLOW UP — April 9 covered as \"led 6-1 set 1\" preview; today has confirmed final score |\n| FAA advances via Ruud retirement | NEW STORY |\n| WTA Linz: Ostapenko def. Eala 6-4, 7-5 | NEW STORY |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-09 |
-| Writing | Complete (all steps) | 2026-04-09 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-09 |
-| Compile | Complete (07-content-data.json) | 2026-04-09 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-09 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-09 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-09 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-09 |
+| Research | Complete | 2026-04-10 |
+| Writing | Complete (all steps) | 2026-04-10 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-10 |
+| Compile | Complete (07-content-data.json) | 2026-04-10 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-10 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-10 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-10 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-10 |
 
 ## Queue
 
@@ -24,6 +24,40 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-10 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 9 X posts + 10 FB posts (5 long-form + 5 captions) = 19 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-10.xlsx (9 posts), tfr-postplanner-tobi-2026-04-10.xlsx (9 TOBI posts)
+- **Coverage:** Monte Carlo QF Day preview (all 4 matchups: Zverev-Fonseca, Sinner-FAA, Alcaraz-Bublik, Vacherot-De Minaur); Vacherot first Monegasque Open Era MC QF (def. Hurkacz 6-7(4), 6-3, 6-4); Sinner 37-set Masters streak ends vs. Machac (6-1, 6-7(3), 6-3; 186 days); FAA into QF via Ruud retirement (7-5, 2-2); WTA Linz Ostapenko def. Eala 6-4, 7-5 (Eala led 5-1, Ostapenko's first WTA win over Eala)
+- **Research:** Multi-source web search; QF matchups from atptour.com + multiple preview sources; Sinner-Machac streak from atptour.com + tennismajors.com + yardbarker.com + puntodebreak.com + geosuper.tv (5 sources); Vacherot history from atptour.com + tennismajors.com + tennisnow.com (3 sources); FAA-Ruud from tsn.ca + cbc.ca + globeandmail.com + ctvnews.ca (4+ sources); Ostapenko-Eala from wtatennis.com + philstar.com + spin.ph (3 sources)
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 16 claims extracted; 45 HIGH; image warnings expected (production not started)
+  - compile-content-data.py: 9 X posts, 5 articles; posting window warnings cosmetic (same as all previous runs); FB posts showing 0 (parser issue, same pattern as prior days)
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as all previous runs)
+  - WordPress publish failed: proxy blocks fanrumor.com (host_not_allowed) — same env restriction as all prior runs
+  - QF actual scores NOT confirmed at research time (matches scheduled today, April 10; AI summaries that cited specific QF scores appeared to recycle earlier round scores — not used); content frames QF day as preview/analysis
+  - Key facts (HIGH confidence): Sinner def. Machac 6-1, 6-7(3), 6-3 (5 sources); 37-set streak, 186 days (tennismajors.com); Vacherot def. Hurkacz 6-7(4), 6-3, 6-4 in 2h53m (3 sources); Ostapenko def. Eala 6-4, 7-5 in 1h43m (3 sources); FAA advanced via Ruud retirement at 7-5, 2-2 (4+ Canadian outlets)
+- **Files created:**
+  - `tennis-content-2026-04-10/00-daily-brief.md`
+  - `tennis-content-2026-04-10/01-research-notes.md`
+  - `tennis-content-2026-04-10/02-story-analysis.md`
+  - `tennis-content-2026-04-10/03-social-posts-x.md`
+  - `tennis-content-2026-04-10/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-10/05-image-concepts.md`
+  - `tennis-content-2026-04-10/06-fact-check-log.md`
+  - `tennis-content-2026-04-10/07-content-data.json`
+  - `tennis-content-2026-04-10/07-image-manifest.md`
+  - `tennis-content-2026-04-10/review-dashboard.html`
+  - `tennis-content-2026-04-10/articles/article-01-monte-carlo-qf-day-preview-2026.html`
+  - `tennis-content-2026-04-10/articles/article-02-vacherot-monegasque-history-monte-carlo-2026.html`
+  - `tennis-content-2026-04-10/articles/article-03-sinner-machac-37-set-streak-ends-monte-carlo-2026.html`
+  - `tennis-content-2026-04-10/articles/article-04-faa-ruud-retirement-monte-carlo-qf-sinner-2026.html`
+  - `tennis-content-2026-04-10/articles/article-05-ostapenko-eala-linz-wta-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-10.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-10.xlsx`
 
 ### 2026-04-08 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
