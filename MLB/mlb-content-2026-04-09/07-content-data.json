@@ -1,0 +1,328 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-09",
+  "compiled_at": "2026-04-09T11:01:20.036073+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Dodgers Lead MLB at 9-3 With Best Record in Baseball — No Betts, No Problem",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Dodgers are 9-3 and leading all of baseball.\n\nWithout Mookie Betts.\n\nOhtani: 3 HR, 7 RBI, 6 scoreless innings pitching. 5-0 on the road.\n\nImagine what happens when Betts comes back.\n\n#Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 200
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Mookie Betts is \"light years ahead\" of his injury recovery.\n\nDave Roberts says it's \"more moderate than significant.\"\n\nThe Dodgers are already 9-3 without him.\n\nWhen Betts comes back, this team gets scary. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-dodgers-best-record-ohtani-betts-injury.html",
+        "headline": "Dodgers Lead MLB at 9-3 — No Betts, No Problem",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dodgers 9-3, MLB's Best Record\n**Image Concepts: 2**\n\n#### Image Concept 1A\n- **Description:** Shohei Ohtani at the plate for the Dodgers, mid-swing or follow-through\n- **Imagn Search:** Shohei Ohtani Los Angeles Dodgers\n- **Use:** Article hero image / Facebook post\n- **Alt text:** Shohei Ohtani swings at the plate for the Los Angeles Dodgers\n\n#### Image Concept 1B\n- **Description:** Mookie Betts in a Dodgers uniform, action shot or dugout/walkoff moment\n- **Imagn Search:** Mookie Betts Los Angeles Dodgers\n- **Use:** Article secondary image / X post graphic\n- **Alt text:** Mookie Betts in his Los Angeles Dodgers uniform\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Yankees 8-3 Despite A's Loss — Still on Pace for Historic Pitching Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Yankees pitching through 9 games:\n\n1.16 ERA. 8 runs allowed.\n\nThat matches records from the 1940s.\n\nLost to the A's yesterday but this staff is still making history. Max Fried. Will Warren. All of them.\n\n#Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 2-2",
+          "text": "8 runs allowed in 9 games.\n\nThe last team to do that? The 1943 Cardinals.\n\nThe 2026 New York Yankees are having THAT kind of start.\n\nAaron Judge is also hitting. This team is different. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-yankees-historic-pitching-max-fried-era.html",
+        "headline": "Yankees 8-3 Despite A's Loss — Their Pitching Staff Is Writing History",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yankees 8-3 / Historic Pitching\n**Image Concepts: 2**\n\n#### Image Concept 2A\n- **Description:** Max Fried on the mound in pinstripes, mid-delivery or follow-through\n- **Imagn Search:** Max Fried New York Yankees\n- **Use:** Article hero image / Facebook post\n- **Alt text:** Max Fried delivers a pitch for the New York Yankees\n\n#### Image Concept 2B\n- **Description:** Aaron Judge batting or celebrating at the plate\n- **Imagn Search:** Aaron Judge New York Yankees\n- **Use:** Article secondary image / X post graphic\n- **Alt text:** Aaron Judge at the plate for the New York Yankees\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Red Sox Tie 126-Year Low — 2-8 Start is MLB's Worst Record",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Red Sox are 2-8.\n\nThat's tied for the worst nine-game start in 126 years.\n\nA.J. Cora called it \"unacceptable.\"\n\nHard to argue with that. #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 153
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-red-sox-2-8-worst-start-126-years.html",
+        "headline": "Red Sox at 2-8: Tied for the Worst Nine-Game Start in 126 Years",
+        "word_count": 704
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Sox 2-8 Start\n**Image Concepts: 1**\n\n#### Image Concept 3A\n- **Description:** Alex Cora in the dugout or on the field with a frustrated or serious expression\n- **Imagn Search:** Alex Cora Boston Red Sox\n- **Use:** Article hero image / Facebook post\n- **Alt text:** Boston Red Sox manager Alex Cora in the dugout\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Jose Ramirez Sets Guardians Games-Played Franchise Record — Chasing 300/300 Club",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jose Ramirez just set the all-time Guardians franchise record for games played.\n\nHe's never played for anyone else.\n\nNow he's chasing 300 HR and 300 SB in the same career. Only 8 players have ever done it.\n\nJo-Ram might become the 9th. #Guardians #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#MLB"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-jose-ramirez-franchise-record-300-300-chase.html",
+        "headline": "Jose Ramirez Sets Guardians All-Time Games-Played Record — Now Chasing the 300/300 Club",
+        "word_count": 729
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jose Ramirez Franchise Record / 300-300 Chase\n**Image Concepts: 1**\n\n#### Image Concept 4A\n- **Description:** Jose Ramirez swinging, running bases, or celebrating for Cleveland\n- **Imagn Search:** Jose Ramirez Cleveland Guardians\n- **Use:** Article hero image / Facebook post\n- **Alt text:** Jose Ramirez at the plate for the Cleveland Guardians\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Brewers-Reds NL Central Tie — Two Teams No One Predicted to Be Here",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NL Central power rankings after two weeks:\n\n1. Milwaukee Brewers — 8-4 (+30 run differential)\n1. Cincinnati Reds — 8-4\n\nPECOTA projected the Brewers to finish 81-81.\n\nThe Reds have a 0.82 ERA starter.\n\nNobody saw this coming. #Brewers #Reds #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-brewers-reds-nl-central-surprise-leaders.html",
+        "headline": "Brewers and Reds Are the NL Central's Surprise Co-Leaders — and the Numbers Say They're for Real",
+        "word_count": 749
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brewers/Reds NL Central\n**Image Concepts: 1**\n\n#### Image Concept 5A\n- **Description:** Brandon Misiorowski on the mound for Milwaukee, pitching motion\n- **Imagn Search:** Brandon Misiorowski Milwaukee Brewers\n- **Use:** Article hero image / Facebook post\n- **Alt text:** Brandon Misiorowski pitches for the Milwaukee Brewers\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Shohei Ohtani Two-Way Season Watch — Week 2 Stats",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Through two weeks, Shohei Ohtani is:\n\nBatting: 3 HR, 7 RBI, .420 wOBA\nPitching: 6 IP, 0 ER, 6 K in his only start\n\nHis on-base streak is at 36+ games.\n\nThe two-way season is very much alive. #Dodgers #MLB #Ohtani",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB",
+            "#Ohtani"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Two-Way Season Watch\n**Image Concepts: 1**\n\n#### Image Concept 6A\n- **Description:** Shohei Ohtani pitching for the Dodgers, on the mound in delivery\n- **Imagn Search:** Shohei Ohtani Los Angeles Dodgers\n- **Use:** Facebook post\n- **Alt text:** Shohei Ohtani pitches for the Los Angeles Dodgers\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** MLB Week 2 Standings — Dodgers Lead, Red Sox Historically Bad",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "MLB through two weeks:\n\nBest record: Dodgers 9-3\nWorst record: Red Sox 2-8\n\nYankees 8-3. Brewers + Reds tied at 8-4 in NL Central.\n\nThe two coasts are dominating. The Northeast is broken.\n\n#MLB #baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#baseball"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Week 2 Standings\n**Image Concepts: 1**\n\n#### Image Concept 7A\n- **Description:** Wide shot of a full MLB stadium or generic action shot representing the league\n- **Imagn Search:** MLB baseball stadium crowd\n- **Use:** Facebook post\n- **Alt text:** A packed Major League Baseball stadium during a game\n\n---\n\n## Image Concept Summary\n- **Total image concepts:** 9\n- **Tier 1 stories (2 each):** Stories 1, 2 = 4 concepts\n- **Tier 2 stories (1 each):** Stories 3, 4, 5, 6 = 4 concepts\n- **Tier 3 stories (1 each):** Story 7 = 1 concept"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

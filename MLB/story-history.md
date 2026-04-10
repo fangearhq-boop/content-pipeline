@@ -5,6 +5,84 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-09
+
+### Story 1: Dodgers 9-3 — MLB's Best Record Without Mookie Betts
+- **Angle:** FOLLOW-UP. Dodgers 9-3, best record in baseball. Road record 5-0. Betts on 10-day IL (right oblique); says "light years ahead" of recovery. Roberts: "more moderate than significant." Expected back before end of April. Ohtani: 3 HR, 7 RBI, .420 wOBA, 94.6 mph avg exit velocity, 55.2% hard hit. Pitching debut March 31 vs. Cleveland: 6 IP, 1 H, 3 BB, 6 K, 0 ER, 87 pitches; Dodgers won 4-1. 36-game OBP streak. Hyeseong Kim recalled.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Betts return timeline, Ohtani second pitching start
+
+### Story 2: Yankees 8-3 Despite A's Loss — Historic Pitching Continues
+- **Angle:** FOLLOW-UP. Yankees lost to Oakland A's 3-2 on April 8 (Rooker sac fly 9th), fell to 8-3. Team ERA: 1.16. 8 runs allowed in 9 games — matches 2002 Giants and 1943 Cardinals. 3 shutouts. Max Fried: 13.1 consecutive scoreless innings (first Yankee since Stottlemyre 1967). Will Warren started April 8. Yankees led 2-0 after 1st (Grisham/Judge singles, Bellinger hit). Judge: 3 HR on season (371st career, April 5). Missing Cole and Rodon.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Fried next start scoreless streak, Cole/Rodon return
+
+### Story 3: Red Sox 2-8 — 126-Year Franchise Low, MLB's Worst Record
+- **Angle:** FOLLOW-UP. Red Sox 2-8, MLB's worst record. Ties worst nine-game franchise start since 1900. Won Opening Day, then lost 5 straight. Won April 3 vs. Padres, then lost 3 more. 0-3 in one-run games. 5 losses by 2 runs or fewer. Alex Cora: "unacceptable." Bullpen and clutch hitting primary issues.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Cora roster changes, bullpen moves
+
+### Story 4: Jose Ramirez Sets Guardians Games-Played Franchise Record — Chasing 300/300 Club
+- **Angle:** NEW STORY. April 6: Ramirez appeared in 1,529th game as a Guardian — sole franchise leader all-time games played. Never played for any other team. Career: 285 HR (needs 15 for 300), 288 SB (needs 12 for 300), 399 doubles (needs 1 for 400), 951 RBIs. 300 HR/300 SB club has only 8 members: Bobby Bonds, Barry Bonds, Steve Finley, Carlos Beltran, Reggie Sanders, Jeff Bagwell, Larry Walker, Alex Rodriguez. Ramirez would be 9th. Cleveland leads AL Central at 8-5.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** 400th double (imminent), 300/300 SB/HR pace tracking
+
+### Story 5: Brewers and Reds Tied in NL Central — Two Teams No One Projected
+- **Angle:** FOLLOW-UP. Brewers 8-4, +30 run differential (2nd in MLB). Reds 8-4. Both tied atop NL Central. PECOTA projected Brewers 81-81. Misiorowski: 11 Ks Opening Day (franchise record; youngest 10+ K OD starter since Hernandez 2007). Matt Burns (Reds): 0.82 ERA, 98.3 mph avg fastball (3rd fastest MLB starters). Rhett Lowder: 1.30 ERA through 8 career starts (lowest Reds pitcher since 1913). Reds swept Rangers despite last-place OBP with RISP.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Burns/Lowder ERA tracking, Brewers run differential
+
+### Story 6: Ohtani Two-Way Season Watch — Week 2 Stats
+- **Angle:** FOLLOW-UP. Batting: 3 HR, 7 RBI, .420 wOBA, 94.6 mph exit velocity, 55.2% hard-hit rate. Pitching: March 31 vs. Cleveland 6 IP, 1 H, 3 BB, 6 K, 0 ER, 87 pitches; Dodgers 4-1. Next pitching start TBD before end of April. 36-game consecutive OBP streak carried from 2025. Second full two-way season, first in NL. Dodgers 9-3.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Second pitching start date, OBP streak continuation
+
+### Story 7: MLB Week 2 Standings Overview
+- **Angle:** NEW STORY. AL East: Yankees 8-3. AL Central: Cleveland 8-5. AL West: Texas 7-5. NL East: Atlanta 8-5. NL Central: Reds/Brewers tied 8-4. NL West: Dodgers 9-3 (best in MLB). Worst record: Red Sox 2-8 (tied worst franchise start since 1900).
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** None — standings wrap
+
+---
+
+## 2026-04-08
+
+### Story 1: Amed Rosario Two-Homer Comeback — Yankees Win 5-3, Move to 8-2
+- **Angle:** NEW STORY (April 7 game). Rosario solo HR 1st inning, 3-run go-ahead HR 8th inning off Mark Leiter Jr. Yankees trailed 3-1, were 0-for-12 with RISP. Yankees won 5-3. 3rd career multi-HR game, first since Aug 31, 2021. Cam Schlittler's 21-inning scoreless streak snapped by Kurtz double in 3rd. Yankees 8-2.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Will Warren start April 8, Yankees season-long pitching dominance
+
+### Story 2: Reds' Burns (0.82 ERA) and Lowder (1.30 ERA) Historic Numbers
+- **Angle:** NEW STORY. Burns: 0.82 ERA, 98.3 mph avg fastball (3rd fastest MLB starters), 9K vs Rangers, 21 whiffs. Lowder: 1.30 ERA through 8 career starts — lowest by Reds pitcher since 1913 official stat. Expansion era: only Valenzuela/Carlos/Imanaga/Niekro lower. Reds swept Rangers despite last-place OPS with RISP.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Reds next starts, season ERA tracking
+
+### Story 3: Yankees Allow 8 Runs Through 9 Games — Matching 83-Year-Old Record
+- **Angle:** FOLLOW-UP (Yankees pitching). 8 runs through 9 games = ties 2002 Giants/1993 Braves in modern MLB. 3 runs through 5 games = fewest since 1943 Cardinals. Max Fried: 13.1 scoreless innings across first 2 starts (first Yankee since Stottlemyre 1967). Without Cole/Rodon. 3 shutouts.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Yankees rotation health, Cole/Rodon return timeline
+
+### Story 4: Milwaukee Brewers at 8-2 — Biggest Early Surprise in Baseball
+- **Angle:** NEW STORY. 8-2, +30 run differential (2nd in MLB). PECOTA projected 81-81. Misiorowski: 11 Ks Opening Day (franchise record), youngest OD starter since Sheets 2002, youngest 10+ K OD starter since Hernandez 2007. Contreras/Yelich 6 hits each, Mitchell 8 RBI week 1, Sanchez 2 HRs.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Brewers NL Central standings, Misiorowski development
+
+### Story 5: Rockies Sweep Astros — First Series Win Since Mid-June 2025
+- **Angle:** NEW STORY. April 6: Rockies 9-7 (8-run 5th, Johnston HR+2B+1B, 12 hits). April 7: Rockies 5-1 (Freeland 6.1 IP 1R, Castro HR, Moniak HR, Senzatela 8 batters/26 pitches/1st career save). Colorado 5-6. First series win since mid-June 2025.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Rockies April schedule, Freeland season
+
+### Story 6: Konnor Griffin Debut — First Teen Since Juan Soto 2018
+- **Angle:** FOLLOW-UP. Griffin debut April 3 (Pirates home opener). RBI double 105.8 mph exit velocity. First teen position player since Soto 2018. 4th teen with walk+RBI in debut since 1920. Pirates won 5-4. Since: 1-for-9, dropped in order, adapting.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Griffin development, Pirates NL Central
+
+### Story 7: Injury Wave — Betts (Oblique), Soto (Calf), Brown (Elbow) All on IL
+- **Angle:** FOLLOW-UP. Betts: right oblique, 10-day IL, Roberts: ahead of schedule. Soto: grade 1 right calf, 2-3 week timeline. Brown: elbow discomfort, several weeks. Three playoff contenders losing top player same week.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Return timelines, impact on division races
+
+---
+
 ## 2026-04-07
 
 ### Story 1: Dodgers 14, Blue Jays 2 — Five HRs, Dalton Rushing First Career Multi-HR Game

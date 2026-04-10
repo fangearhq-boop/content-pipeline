@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-07 |
-| Writing | Complete (all steps) | 2026-04-07 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-07 |
-| Compile | Complete (07-content-data.json) | 2026-04-07 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-07 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-07 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed, same as all previous runs) | 2026-04-07 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-07 |
+| Research | Complete | 2026-04-10 |
+| Writing | Complete (all steps) | 2026-04-10 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-10 |
+| Compile | Complete (07-content-data.json) | 2026-04-10 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-10 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-10 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-10 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-10 |
 
 ## Queue
 
@@ -24,6 +24,74 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-10 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 9 X posts + 10 FB posts (5 long-form + 5 captions) = 19 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-10.xlsx (9 posts), tfr-postplanner-tobi-2026-04-10.xlsx (9 TOBI posts)
+- **Coverage:** Monte Carlo QF Day preview (all 4 matchups: Zverev-Fonseca, Sinner-FAA, Alcaraz-Bublik, Vacherot-De Minaur); Vacherot first Monegasque Open Era MC QF (def. Hurkacz 6-7(4), 6-3, 6-4); Sinner 37-set Masters streak ends vs. Machac (6-1, 6-7(3), 6-3; 186 days); FAA into QF via Ruud retirement (7-5, 2-2); WTA Linz Ostapenko def. Eala 6-4, 7-5 (Eala led 5-1, Ostapenko's first WTA win over Eala)
+- **Research:** Multi-source web search; QF matchups from atptour.com + multiple preview sources; Sinner-Machac streak from atptour.com + tennismajors.com + yardbarker.com + puntodebreak.com + geosuper.tv (5 sources); Vacherot history from atptour.com + tennismajors.com + tennisnow.com (3 sources); FAA-Ruud from tsn.ca + cbc.ca + globeandmail.com + ctvnews.ca (4+ sources); Ostapenko-Eala from wtatennis.com + philstar.com + spin.ph (3 sources)
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 16 claims extracted; 45 HIGH; image warnings expected (production not started)
+  - compile-content-data.py: 9 X posts, 5 articles; posting window warnings cosmetic (same as all previous runs); FB posts showing 0 (parser issue, same pattern as prior days)
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as all previous runs)
+  - WordPress publish failed: proxy blocks fanrumor.com (host_not_allowed) — same env restriction as all prior runs
+  - QF actual scores NOT confirmed at research time (matches scheduled today, April 10; AI summaries that cited specific QF scores appeared to recycle earlier round scores — not used); content frames QF day as preview/analysis
+  - Key facts (HIGH confidence): Sinner def. Machac 6-1, 6-7(3), 6-3 (5 sources); 37-set streak, 186 days (tennismajors.com); Vacherot def. Hurkacz 6-7(4), 6-3, 6-4 in 2h53m (3 sources); Ostapenko def. Eala 6-4, 7-5 in 1h43m (3 sources); FAA advanced via Ruud retirement at 7-5, 2-2 (4+ Canadian outlets)
+- **Files created:**
+  - `tennis-content-2026-04-10/00-daily-brief.md`
+  - `tennis-content-2026-04-10/01-research-notes.md`
+  - `tennis-content-2026-04-10/02-story-analysis.md`
+  - `tennis-content-2026-04-10/03-social-posts-x.md`
+  - `tennis-content-2026-04-10/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-10/05-image-concepts.md`
+  - `tennis-content-2026-04-10/06-fact-check-log.md`
+  - `tennis-content-2026-04-10/07-content-data.json`
+  - `tennis-content-2026-04-10/07-image-manifest.md`
+  - `tennis-content-2026-04-10/review-dashboard.html`
+  - `tennis-content-2026-04-10/articles/article-01-monte-carlo-qf-day-preview-2026.html`
+  - `tennis-content-2026-04-10/articles/article-02-vacherot-monegasque-history-monte-carlo-2026.html`
+  - `tennis-content-2026-04-10/articles/article-03-sinner-machac-37-set-streak-ends-monte-carlo-2026.html`
+  - `tennis-content-2026-04-10/articles/article-04-faa-ruud-retirement-monte-carlo-qf-sinner-2026.html`
+  - `tennis-content-2026-04-10/articles/article-05-ostapenko-eala-linz-wta-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-10.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-10.xlsx`
+
+### 2026-04-08 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 9 X posts + 10 FB posts (5 long-form + 5 captions) = 19 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-08.xlsx (9 posts), tfr-postplanner-tobi-2026-04-08.xlsx (9 TOBI posts)
+- **Coverage:** Berrettini def. Medvedev 6-0, 6-0 in 49 min (first top-10 double bagel in 10 years; 17 points won); Alcaraz def. Báez 6-1, 6-3 MC R2 title defense (No. 1 race vs. Sinner context); Dimitrov falls outside top 100 for first time in 14 years (Etcheverry 6-4,2-6,6-3); Bergs def. Rublev 6-4,6-1 on MC main draw debut; ATP Rankings — Shelton American No. 1 (No. 8), Paul No. 18, Jodar +32 to No. 57, Trungelliti oldest Open Era top-100 debutant
+- **Research:** Multi-source web search via research agent; Berrettini/Medvedev from atptour.com + skysports.com + montecarlotennismasters.com + tennis365.com; Alcaraz from atptour.com + tennismajors.com + tennis365.com; Dimitrov/Etcheverry from tennismajors.com + Perfect Tennis Day 3 recap; Bergs/Rublev from lavenir.net (Belgian source) + snippet; Rankings from Yardbarker + tennisuptodate.com + atptour.com
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 14 claims extracted; 35 HIGH; image warnings expected (production not started)
+  - compile-content-data.py: 9 X posts, 5 articles; posting window warnings cosmetic (same as all previous runs)
+  - Push to content-dashboards failed: PAT lacks write permission to fangearhq-boop/content-dashboards repo (same as all previous runs)
+  - WordPress publish failed: proxy blocks fanrumor.com (host_not_allowed) — same env restriction as all prior runs
+  - Sinner vs. Cerundolo R3 score NOT confirmed at research time (score cited in one ambiguous snippet, not independently verified); not covered today
+  - Key facts (HIGH confidence): Berrettini 6-0,6-0 in 49 min (5+ sources); Medvedev 17 points total (sky sports); first top-10 double bagel in 10 years (sky sports + montecarlotennismasters.com); Alcaraz 6-1,6-3 in 70 min (atptour.com + tennismajors.com); Etcheverry 6-4,2-6,6-3 (tennismajors.com + Perfect Tennis); Dimitrov outside top 100 for first time in 14 years (tennismajors.com); Bergs def. Rublev 6-4,6-1 (MEDIUM — lavenir.net); Shelton No. 8 / Paul No. 18 / Jodar No. 57 (Yardbarker + tennisuptodate)
+- **Files created:**
+  - `tennis-content-2026-04-08/00-daily-brief.md`
+  - `tennis-content-2026-04-08/01-research-notes.md`
+  - `tennis-content-2026-04-08/02-story-analysis.md`
+  - `tennis-content-2026-04-08/03-social-posts-x.md`
+  - `tennis-content-2026-04-08/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-08/05-image-concepts.md`
+  - `tennis-content-2026-04-08/06-fact-check-log.md`
+  - `tennis-content-2026-04-08/07-content-data.json`
+  - `tennis-content-2026-04-08/07-image-manifest.md`
+  - `tennis-content-2026-04-08/review-dashboard.html`
+  - `tennis-content-2026-04-08/articles/article-01-berrettini-double-bagels-medvedev-monte-carlo-2026.html`
+  - `tennis-content-2026-04-08/articles/article-02-alcaraz-monte-carlo-r2-win-no1-race-2026.html`
+  - `tennis-content-2026-04-08/articles/article-03-dimitrov-outside-top-100-etcheverry-monte-carlo-2026.html`
+  - `tennis-content-2026-04-08/articles/article-04-bergs-upsets-rublev-monte-carlo-debut-2026.html`
+  - `tennis-content-2026-04-08/articles/article-05-atp-rankings-shelton-paul-jodar-clay-season-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-08.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-08.xlsx`
 
 ### 2026-04-07 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

@@ -6,6 +6,21 @@ Track previously covered stories to avoid repetition and maintain content freshn
 
 | Date | Story | Tier | Platforms | Notes |
 |------|-------|------|-----------|-------|
+| 2026-04-10 | Monte Carlo QF Day preview — Zverev-Fonseca, Sinner-FAA, Alcaraz-Bublik, Vacherot-De Minaur (all first meetings for 2 pairs) | T1 | X, FB, Article | Full QF slate; Semifinals Saturday; No. 1 race resolves or extends based on Sinner-Alcaraz results |
+| 2026-04-10 | Vacherot makes Monegasque history — first Open Era MC QF for a Monegasque; def. Hurkacz 6-7(4), 6-3, 6-4 in 2h53m | T1 | X, FB, Article | Hurkacz was 2025 MC finalist; Vacherot's half-brother Balleret is coach; Vacherot now inside top 20; faces De Minaur in QF |
+| 2026-04-10 | Sinner's 37-set Masters streak ends vs. Machac — def. 6-1, 6-7(3), 6-3; 186 days, streak began Paris Masters Nov 2025 | T1 | X, FB, Article | Machac won tiebreak 7-3; Sinner won 3rd set 6-3 without trouble; faces FAA in QF; No.1 chase continues |
+| 2026-04-10 | FAA advances via Ruud retirement — up 7-5, 2-2 when Ruud retired with injury; faces Sinner in MC QF | T2 | X, FB, Article | FAA No. 6 seed; fired 4 aces before Ruud withdrew; biggest clay opportunity of his season |
+| 2026-04-10 | WTA Linz — Ostapenko def. Eala 6-4, 7-5; Eala led 5-1, had set point; Ostapenko's first win over Eala in WTA (was 0-2) | T2 | X, FB, Article | Linz QFs: Ostapenko vs. Ruse, Vekic vs. Pliskova; Stuttgart begins April 13 |
+| 2026-04-09 | Fonseca def. Berrettini 6-3, 6-2 — Monte Carlo R3 QF; first Brazilian Masters 1000 QF since Bellucci 2011 | T1 | X, FB, Article | 75 min; youngest at MC QF since Nadal/Gasquet 2005; 2nd player born 2006 to reach Masters QF; faces Zverev Friday |
+| 2026-04-09 | Sinner No. 1 chase — 36 consecutive sets at Masters 1000; vs. Machac R3 (led 6-1 set 1) | T1 | X, FB, Article | H2H 3-0 vs. Machac; 0 pts to defend; gap 1,190 pts vs. Alcaraz; title = return to No. 1 |
+| 2026-04-09 | Zverev def. Bergs 6-2, 7-5 — Monte Carlo QF; first MC QF since 2022; faces Fonseca Friday | T2 | X, FB, Article | Chasing 8th Masters 1000 title; Bergs had beaten Rublev day before |
+| 2026-04-09 | Alcaraz vs. Etcheverry R3 — defends 1,000 pts; "I expect to lose No. 1 to Sinner" | T2 | X, FB, Article | Alcaraz 18-2 season; H2H vs. Etcheverry 1-0; candid Eurosport comment on ranking |
+| 2026-04-09 | WTA Stuttgart (Porsche Tennis Grand Prix) preview — Sabalenka 4 finals, 0 titles; April 13-19 | T3 | X, FB | Seeds: Sabalenka (1), Rybakina (2), Gauff (3), Swiatek (4); Ostapenko defending; Swiatek won 2022+2023 |
+| 2026-04-08 | Berrettini def. Medvedev 6-0, 6-0 in 49 min — Monte Carlo R2; first top-10 double bagel in 10 years | T1 | X, FB, Article | Medvedev won 17 points; racket smash; Berrettini wildcard; "one of the best performances of my life" |
+| 2026-04-08 | Alcaraz def. Báez 6-1, 6-3 — Monte Carlo R2 title defense begins; No. 1 race vs. Sinner active | T1 | X, FB, Article | 70 minutes; Alcaraz defending 1,000 pts; Sinner 0 to defend; gap ~190 pts |
+| 2026-04-08 | Etcheverry def. Dimitrov 6-4, 2-6, 6-3 — Dimitrov outside top 100 for first time in 14 years | T1 | X, FB, Article | Former world No. 3; 2014 WTF champion; 14-year top-100 streak ends |
+| 2026-04-08 | Bergs def. Rublev 6-4, 6-1 — Monte Carlo main draw debut; upsets No. 15 seed | T2 | X, FB, Article | Belgian, 26; first MC main draw appearance; Rublev beaten in two sets |
+| 2026-04-08 | ATP Rankings — Shelton American No. 1 (No. 8), Paul to No. 18, Jodar +32 to career-high No. 57 | T2 | X, FB, Article | Trungelliti (36) oldest top-100 debutant in Open Era (No. 76); Burruchaga +15 to No. 52 |
 | 2026-04-07 | Sinner def. Humbert 6-3, 6-0 — Monte Carlo R2; revenge for 2025 R1 loss; Cerundolo next | T1 | X, FB, Article | 6-0 second set; Sinner 0 pts to defend; career MC record 10-4 |
 | 2026-04-07 | Cerundolo def. Tsitsipas 7-5, 6-4 — first MC R1 loss in 8 appearances; Tsitsipas falls outside Top 60 | T1 | X, FB, Article | Cerundolo 15th win of 2026; faces Sinner in R3 |
 | 2026-04-07 | Wawrinka loses Monte Carlo farewell 7-5, 7-5 to Baez — retiring at end of 2026 | T1 | X, FB, Article | Won MC 2014 vs Federer; "hopefully I can win a few matches this year" |

@@ -1,0 +1,430 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-08",
+  "compiled_at": "2026-04-08T11:56:31.159767+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Par 3 Contest",
+      "type": "Preview/Event"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — R1 Tee Times / Story 3 — DeChambeau",
+      "type": "Preview + Player"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 1 — Par 3 live / Story 3 — DeChambeau",
+      "type": "Live update + Feature"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 4 — McIlroy putting",
+      "type": "Analysis"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — Scheffler family / Story 6 — Chevron",
+      "type": "Human interest + Preview"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 7 — Odds board",
+      "type": "Evening feature"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Masters Par 3 Contest — TODAY at Augusta National",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Par 3 Contest at Augusta: TODAY. Noon ET. ESPN 2-4 PM.\n\nIn 66 years, NO Par 3 winner has EVER won the Masters that same week.\n\nA great tradition. A famous superstition. And tomorrow — the real thing begins.\n\n#GolfFanrecap #Masters",
+          "posting_time": "8:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Par 3 Contest is LIVE at Augusta right now.\n\nFamily caddies. Beautiful Par 3 holes. And somewhere out there, a superstition is about to be tested.\n\nNo Par 3 winner has ever won the Masters the same week. 66 years running.\n\n#GolfFanrecap #Masters #Augusta",
+          "posting_time": "8:00 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#Augusta"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 1:00 PM"
+      },
+      "article": {
+        "filename": "article-01-par-3-contest-masters-tradition.html",
+        "headline": "The Par 3 Contest Is Today — And a 66-Year Masters Superstition Is on the Line",
+        "word_count": 481
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Masters Round 1 Preview — Scheffler vs. McIlroy Starts Tomorrow",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "MASTERS ROUND 1 TEE TIMES (Thursday):\n\n10:07a — DeChambeau/Fitzpatrick/Schauffele\n10:31a — McIlroy/Young/Howell\n1:08p — Rahm/Gotterup/Åberg\n1:44p — Scheffler/MacIntyre/Woodland\n\nSet your alarms. The 90th Masters begins tomorrow.\n\n#GolfFanrecap #Masters #TheMasters",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#TheMasters"
+          ],
+          "char_count": 264
+        },
+        {
+          "label": "Post 2-2",
+          "text": "McIlroy shoots in the morning. Scheffler waits until afternoon.\n\nThe two players everyone is watching are on opposite ends of the tee sheet.\n\nThis is the most anticipated Masters in years. Tomorrow can't come soon enough.\n\n#GolfFanrecap #Masters #Scheffler #McIlroy",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#Scheffler",
+            "#McIlroy"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:30 AM"
+      },
+      "article": {
+        "filename": "article-02-masters-round-1-preview-tee-times.html",
+        "headline": "Masters 2026 Round 1 Preview: Tee Times, Pairings, and What to Watch Thursday",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "DeChambeau Arrives on a Roll — Back-to-Back LIV Wins, Custom Clubs",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM, 1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Bryson DeChambeau just walked into Augusta National.\n\nBack-to-back LIV wins. Custom clubs he BUILT HIMSELF.\n\nIs there a more confident golfer in the world right now?\n\n#GolfFanrecap #Masters #DeChambeau",
+          "posting_time": "10:30 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#DeChambeau"
+          ],
+          "char_count": 201
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Most players buy their clubs. Bryson DeChambeau BUILDS HIS.\n\nCustom irons. New driver design. Wedges tested in South Africa last week.\n\nBack-to-back LIV titles and a Masters to win. This guy is locked in.\n\n#GolfFanrecap #Masters #DeChambeau",
+          "posting_time": "10:30 AM, 1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#DeChambeau"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM, 1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-dechambeau-back-to-back-liv-custom-clubs.html",
+        "headline": "DeChambeau Arrives at Augusta With Back-to-Back LIV Wins — and Clubs He Built Himself",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "McIlroy's Putting Problem — The One Weakness That Could Cost a Repeat",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Rory McIlroy: No. 1 in SG Off the Tee this season.\n\nAlso: No. 102 in putts per round. No. 136 in one-putt percentage.\n\nAugusta's greens are the most demanding in golf. If Rory doesn't putt — he doesn't repeat.\n\n#GolfFanrecap #Masters #McIlroy",
+          "posting_time": "3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#McIlroy"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM"
+      },
+      "article": {
+        "filename": "article-04-mcilroy-putting-problem-masters-defense.html",
+        "headline": "McIlroy's Putting Problem: The One Stat That Could Decide His Masters Title Defense",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Scheffler's Newborn at Augusta — Remy's First Major",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Scottie Scheffler is chasing his third Green Jacket.\n\nIn the gallery: his newborn son Remy. Maybe 10 days old. His first major.\n\nThat's the kind of story you can't write.\n\nNo. 1 in the world. No. 1 as a dad.\n\n#GolfFanrecap #Masters #Scheffler",
+          "posting_time": "6:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#Scheffler"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM"
+      },
+      "article": {
+        "filename": "article-05-scheffler-remy-third-green-jacket.html",
+        "headline": "Scheffler's Third Green Jacket Quest — and the Newborn Son Who Made the Trip to Augusta",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Chevron Championship Moves to Memorial Park — Houston Debut April 23-26",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Mark your calendars: The LPGA Chevron Championship is April 23-26.\n\nNew venue: Memorial Park Golf Course, Houston. First time ever.\n\nNelly Korda leads the tour in SG Total AND SG Tee-to-Green. She is the one to beat.\n\n#GolfFanrecap #LPGA #ChevronChampionship",
+          "posting_time": "6:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGA",
+            "#ChevronChampionship"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 6A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Masters Odds Board — Who Can Stop Scheffler?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Final Masters odds before Round 1:\n\nScheffler +500\nMcIlroy defending\nDeChambeau back-to-back LIV wins\nRahm and Åberg lurking\n\n91 players. $21M purse. Amazon Prime debut.\n\nTomorrow, it all starts.\n\n#GolfFanrecap #Masters #TheMasters",
+          "posting_time": "8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Masters",
+            "#TheMasters"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 7A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 11
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

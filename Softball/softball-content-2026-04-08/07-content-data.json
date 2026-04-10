@@ -1,0 +1,309 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-08",
+  "compiled_at": "2026-04-08T10:32:27.443471+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kendall Wells Ties NCAA Freshman HR Record at 30 — OU Sweeps Kentucky",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "30.\n\nKendall Wells just tied the NCAA freshman HR record, joining Jocelyn Alo, Lauren Chamberlain, and Kelly Majam in the history books.\n\nShe did it in 41 games. Fewer than anyone before her.\n\nSeven away from the all-time DI record. 🥎 #Sooners",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kendall Wells HR watch:\n\n✅ SEC single-season freshman record (HR No. 27)\n✅ NCAA freshman record TIED (HR No. 30)\n⏳ All-time DI record: 37 (Espinoza, 1995)\n\nShe needs 7 more. OU has games left. This is happening. #OUSoftball #Sooners",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#OUSoftball",
+            "#Sooners"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-kendall-wells-ties-ncaa-freshman-hr-record.html",
+        "headline": "Kendall Wells Ties the NCAA Freshman HR Record at 30 — And She Did It Faster Than Anyone",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells Ties NCAA Freshman HR Record at 30\n\n**Concept 1A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Search:** Kendall Wells Oklahoma Sooners\n- **Prompt:** Clean graphic design on dark navy and crimson background. Large bold white text \"30 HRs\" centered. Below: \"NCAA Freshman Record TIED\" in gold. Bottom: \"#Sooners\" in white. Dramatic home run silhouette arc in background. No player likeness — pure graphic.\n- **Caption overlay:** \"History Made\"\n\n**Concept 1B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Prompt:** Softball stadium at night, bright lights, crowd cheering, batter just connected with a ball launching into the sky. Scoreboard in background shows \"HR #30.\" Warm golden glow over the field. Cinematic sports photography style.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Alabama Upsets No. 1 Texas 2-1 in Series at Rhoads Stadium",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Alabama just beat No. 1 Texas in a three-game series at Rhoads Stadium.\n\nFirst time the Tide knocked off the top-ranked team at home since 2011.\n\nThe SEC race just changed. #RollTide",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide"
+          ],
+          "char_count": 182
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Texas at Alabama final results:\n\nG1: Texas 9, Alabama 1\nG2: Alabama 11, Texas 4\nG3: Alabama 7, Texas 4 ✅ Series to Alabama\n\nTexas drops from No. 1. Alabama climbs to No. 3 nationally. OU now leads the SEC by 2 games. #SEC #RollTide",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SEC",
+            "#RollTide"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-alabama-upsets-no1-texas-series.html",
+        "headline": "Alabama Takes Down No. 1 Texas in Tuscaloosa — First Series Win Over the Top Rank at Home Since 2011",
+        "word_count": 634
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Upsets No. 1 Texas\n\n**Concept 2A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** Alabama crimson and white color scheme. Bold white block text \"UPSET\" at top. Below: \"Alabama 2 · Texas 1 (Series)\" in clean sans-serif. \"No. 1 Texas Toppled\" as subheading. Dramatic lighting, confetti effect in background. No player likeness.\n- **Caption overlay:** \"Rhoads Stadium Rocking\"\n\n**Concept 2B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Prompt:** Outdoor softball stadium at sunset, crimson banners waving, packed stands, players celebrating on the infield. Warm dramatic lighting with long shadows. Wide landscape shot evoking a historic victory.\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Texas Tech Reclaims No. 1 in Three of Four Polls — NFCA Week 9",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "NFCA Week 9 poll is out.\n\nTexas Tech is No. 1 again.\n\n38-2. 13-game win streak. NiJaree Canady just hit 1,000 career strikeouts.\n\nThe Red Raiders are rolling. #TexasTech #WreckEm",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTech",
+            "#WreckEm"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-texas-tech-reclaims-no1-nfca-week9.html",
+        "headline": "Texas Tech Reclaims No. 1 in Three Polls After Texas's Fall — Canady's 1,000 Career K's Cap the Week",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech Reclaims No. 1\n\n**Concept 3A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** Texas Tech scarlet and black design. Large bold white \"No. 1\" centered. Below: \"NFCA Week 9 Poll\" and \"Texas Tech Red Raiders\" in clean white text. Red double-T logo graphic in background (no actual logo — stylized double-T shape). High contrast sports graphic.\n- **Caption overlay:** \"Back On Top\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "FSU Extends Nation's Longest Win Streak to 24 — Heads to Stanford",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Florida State came back from 4 runs down to beat Notre Dame and push its winning streak to 24 games.\n\nNation's longest active streak. 12-0 in ACC play.\n\nNow they head to No. 24 Stanford this weekend. #FSUSoftball #Noles",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#Noles"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-fsu-win-streak-24-heads-to-stanford.html",
+        "headline": "Florida State Extends Nation's Longest Win Streak to 24 — Now Heads to Stanford",
+        "word_count": 594
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU Win Streak to 24\n\n**Concept 4A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** Florida State garnet and gold. Large white bold \"24\" centered. Below: \"Consecutive Wins\" and \"Nation's Longest Active Streak\" in clean typography. Subtle stadium lights bokeh background. No player likeness.\n- **Caption overlay:** \"The Streak Continues\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "NiJaree Canady Reaches 1,000 Career Strikeouts — First Tech Pitcher With 3 No-Hitters",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NiJaree Canady is now the 102nd pitcher in DI softball history to strike out 1,000 batters.\n\nShe's also the first pitcher in Texas Tech history to throw three no-hitters in a career.\n\nJust different. #TexasTech #WreckEm",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTech",
+            "#WreckEm"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nijaree-canady-1000-career-strikeouts.html",
+        "headline": "NiJaree Canady Reaches 1,000 Career Strikeouts — And She's the First Texas Tech Pitcher to Throw 3 No-Hitters",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NiJaree Canady 1,000 K's\n\n**Concept 5A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** Texas Tech scarlet on dark background. Large bold white \"1,000\" centered with a \"K\" below in gold. \"Career Strikeouts\" subtitle. \"NiJaree Canady — Texas Tech\" in smaller white text. Dramatic lighting, pitcher silhouette motion blur in background. No face/likeness.\n- **Caption overlay:** \"K-Thousand\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Kylee Edwards Hits for the Cycle — First in LSU Program History",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Kylee Edwards hit for the cycle on Friday — HR, single, double, and triple.\n\nShe became the first player in LSU softball history to accomplish it.\n\nTigers won 16-4. History made. #LSU #GeauxTigers",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LSU",
+            "#GeauxTigers"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kylee Edwards Hits for the Cycle\n\n**Concept 6A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** LSU purple and gold design. Four circles arranged in a diamond pattern, each labeled: \"1B\", \"2B\", \"3B\", \"HR\" — all checked off with gold checkmarks. Bold white text \"FOR THE CYCLE\" at top. \"First in LSU History\" below. Clean modern sports graphic.\n- **Caption overlay:** \"Historic First\"\n\n---"
+        }
+      ],
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "SEC Race — Oklahoma Leads by Two Games With 11-1 Mark",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "SEC softball standings after Week 9:\n\n1. Oklahoma — 11-1\n2. Alabama — 9-3\nT2. Texas — 9-3\n\nOU leads by 2 games. Texas hosts Oklahoma on Friday.\n\nThe Red River Showdown has massive stakes. #SEC #Sooners",
+          "posting_time": "10:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SEC",
+            "#Sooners"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SEC Standings\n\n**Concept 7A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** Dark blue SEC-themed background. Standings table graphic: \"1. Oklahoma 11-1 / 2. Alabama 9-3 / T2. Texas 9-3\" in clean white typography. Bold \"SEC Softball Standings\" header. Red River preview text at bottom: \"Texas vs Oklahoma — Friday.\" Clean modern sports infographic style.\n- **Caption overlay:** \"Race to the Top\""
+        }
+      ],
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

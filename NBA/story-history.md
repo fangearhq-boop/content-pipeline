@@ -2,6 +2,192 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-10
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks 112-106 Celtics; Brunson 25/10 ast, Hart 26 pts (15 in Q4); all 5 starters double figures; Knicks 52-28, one game ahead of Cavs (51-29) for No. 3 East; hold H2H tiebreaker; Celtics (54-26) No. 2 locked; Brown out Achilles tendinitis | 1 | FOLLOW-UP |
+| 2 | Lakers 119-103 Warriors; LeBron 26 pts (11-17 FG, 3 3PT), 11 ast, 8 reb; Curry out (knee management); Warriors 38-42 locked No. 10 play-in; final home game at Chase Center; Lakers 51-28 No. 4 West; Luka out season | 1 | FOLLOW-UP |
+| 3 | SGA MVP race: 2 games left; 31.6 PPG/55.3% FG/4.4 reb/6.5 ast; ESPN straw poll 88/100; DraftKings -400; Wemby (24.9/11.6/3.1) day-to-day rib contusion, needs 20+ min in 1 of 2 remaining games for MVP/DPOY/All-NBA eligibility | 1 | FOLLOW-UP |
+| 4 | Kon Knueppel (CHO) 265 3PT made; shatters NBA rookie record (Keegan Murray 206, 2022-23) by 59; 43% from deep, 7.9 att/game; broke Kemba Walker Hornets franchise record; No. 4 pick 2025 draft; No. 1 final Kia Rookie Ladder | 2 | NEW STORY |
+| 5 | East play-in race: Hawks 45-35, Raptors 44-35, Magic 44-36, Sixers 43-36, Hornets 43-37, Heat 41-38; only 2.5 games from 5 to 9; 2-3 games left; seeds 5-6 avoid play-in; seeds 7-10 enter play-in April 14 | 2 | FOLLOW-UP |
+| 6 | Regular season finale preview: ends April 12; unresolved: Knicks No. 3, West No. 3 seed (Nuggets 10-game streak), East 5-9 order, Wemby eligibility; Play-In April 14-17; Playoffs April 18 | 2 | FOLLOW-UP |
+| 7 | Projected playoff bracket: East — Pistons/Celtics top seeds; Knicks vs Raptors, Cavs vs Hawks; West — Thunder/Spurs top seeds; Nuggets vs Wolves, Lakers vs Rockets; West play-in: Suns/Clippers/Blazers/Warriors | 3 | FOLLOW-UP |
+
+---
+
+### STORY 1: Knicks 112-106 Celtics — Brunson 25/10, Hart 26
+- **Tier:** 1
+- **Category:** Game Recap / East Seeding
+- **Key facts:** Knicks 112, Celtics 106. Brunson: 25 pts, 10 ast. Hart: 26 pts (15 in Q4). All 5 starters in double figures. Celtics without Jaylen Brown (Achilles tendinitis). Knicks 52-28, one game ahead of Cavs (51-29) for No. 3 East seed. Knicks hold H2H tiebreaker — need 1 win in final 2 games to clinch No. 3.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Knicks clinching No. 3; Brown Achilles ahead of playoffs
+
+### STORY 2: Lakers 119-103 Warriors — LeBron 26/11, Curry Sits
+- **Tier:** 1
+- **Category:** Game Recap / Play-In / Playoff Seeding
+- **Key facts:** Lakers 119, Warriors 103. LeBron: 26 pts (11-17 FG, 3 threes), 11 ast, 8 reb. Curry out (right knee management). Warriors 38-42, locked No. 10 play-in. Final Chase Center home game. Lakers 51-28, No. 4 West. Luka out remainder of season (Grade 2 hamstring).
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Warriors play-in run; LeBron playoff form; Luka return timeline for playoffs
+
+### STORY 3: SGA MVP Race — Two Games Left
+- **Tier:** 1
+- **Category:** Award Race / Season Finale
+- **Key facts:** SGA: 31.6 PPG, 55.3% FG, 4.4 reb, 6.5 ast, 1.4 stl. ESPN straw poll: 88/100 first-place votes. DraftKings: -400 SGA, +1800 Wemby. Wemby: 24.9/11.6/3.1, day-to-day rib contusion, must play 20+ min in 1 of 2 remaining games for MVP/DPOY/All-NBA eligibility. Regular season ends April 12.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** MVP award announcement; Wemby's health and eligibility game
+
+### STORY 4: Kon Knueppel Breaks NBA Rookie 3PT Record
+- **Tier:** 2
+- **Category:** Rookie Achievement / Record
+- **Key facts:** Knueppel: 265 three-pointers made (with 2 games left). Keegan Murray's previous rookie record: 206 (2022-23). Margin: 59. Rate: 43% on 7.9 att/game. Also broke Kemba Walker Hornets franchise record. No. 4 overall pick, 2025 NBA Draft. No. 1 on final Kia Rookie Ladder (April 8).
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Rookie of Year award; final season total; Hornets outlook
+
+### STORY 5: East Play-In Race — Six Teams, Two Spots
+- **Tier:** 2
+- **Category:** East Standings / Play-In Race
+- **Key facts:** Hawks 45-35, Raptors 44-35, Magic 44-36, Sixers 43-36, Hornets 43-37, Heat 41-38. 2.5 games from 5 to 9. 2-3 games remaining. Seeds 5-6 avoid play-in; 7-10 enter play-in April 14.
+- **Status:** FOLLOW-UP
+
+### STORY 6: Season Finale — What's at Stake Sunday
+- **Tier:** 2
+- **Category:** Preview / Season Finale
+- **Key facts:** Regular season ends April 12. Unresolved: Knicks No. 3 East; West No. 3 (Nuggets 1.5 game lead); East 5-9 order; Wemby eligibility. Play-In April 14-17; Playoffs April 18.
+- **Status:** FOLLOW-UP
+
+### STORY 7: Playoff Bracket Preview
+- **Tier:** 3
+- **Category:** Playoffs Preview
+- **Key facts:** East: Pistons (1), Celtics (2), Knicks (3), Cavs (4) + TBD from play-in. West: Thunder (1), Spurs (2), Nuggets (3), Lakers (4), Rockets (5) + TBD from play-in. Play-in: West (Suns/Clippers/Blazers/Warriors); East TBD.
+- **Status:** FOLLOW-UP
+
+---
+
+## 2026-04-09
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Chet Holmgren 30 pts/14 reb/5 ast/4 blk (10-13 FG); SGA 20/11 ast; Thunder 128-110 Clippers; OKC clinches NBA's best record at 64-16; HCA locked throughout playoffs | 1 | FOLLOW-UP (OKC/Spurs seeding race) |
+| 2 | Cade Cunningham returns from 11-game absence (collapsed lung); 13 pts/10 ast/5 reb in 26 min; Pistons 137-111 Bucks; DET 57-22, No. 1 East; 3 games before playoffs April 18 | 1 | FOLLOW-UP (Cade collapsed lung; return is new angle) |
+| 3 | Nuggets 136-119 Grizzlies; 10th consecutive win; Jokic triple-double (14/15/10); Murray 26 pts; Denver 1.5 games ahead of Lakers/Rockets for No. 3 West | 1 | FOLLOW-UP (Nuggets surge ongoing) |
+| 4 | Cavaliers 122-116 Hawks; Donovan Mitchell 31 pts (12-19 FG); Hawks miss chance to clinch playoff spot | 2 | FOLLOW-UP (East seeding ongoing) |
+| 5 | Magic 132-120 Timberwolves; 4th straight win; Banchero 20/8, Bane 18/6; Terrence Shannon Jr. career-high 33 in loss | 2 | NEW STORY (Shannon career-high; Magic 4-game streak new) |
+| 6 | Wemby rib contusion: MRI clear, day-to-day; needs 20+ min in 1 of 3 games for MVP/DPOY/All-NBA; SGA -400 MVP odds, Wemby +1800; ESPN poll 88-8 SGA | 2 | FOLLOW-UP (Wemby injury; MRI update new) |
+| 7 | Preview: Celtics vs Knicks 7:30 PM ET (Brown questionable, Achilles); Lakers vs Warriors 10 PM ET (Porzingis out illness; Richard out back); season ends April 12 | 3 | FOLLOW-UP (ongoing seeding watch) |
+
+---
+
+### STORY 1: Thunder Clinch NBA's Best Record — Holmgren 30/14/4 Blocks
+- **Tier:** 1
+- **Category:** Historic Achievement / Playoff Seeding
+- **Key facts:** Holmgren: 30 pts, 14 reb, 5 ast, 2 stl, 4 blk, 31 min, 10-13 FG, 3-4 3PT. SGA: 20 pts, 11 ast. Williams: 18 pts. Thunder 128-110 Clippers. OKC (64-16) clinches NBA's best record and HCA throughout playoffs. Spurs 61-19. OKC defending champs. Thunder shot 58.1% FG, no fast-break FGs allowed, 23 pts off 13 turnovers.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** OKC playoff bracket; SGA/Holmgren partnership heading into playoffs
+
+### STORY 2: Cade Cunningham Returns — Pistons 137-111 Bucks
+- **Tier:** 1
+- **Category:** Player Return / Playoff Preparation
+- **Key facts:** Cade: 13 pts (6-11 FG), 10 ast, 5 reb, 26 min. Missed 11 games. Injury: collapsed lung March 17 vs. Wizards (collision with Tre Johnson). Season averages: 24.5 PPG, 9.9 APG, 5.6 RPG in 61 games. First basket: alley-oop from Ausar Thompson. Pistons 137-111 Bucks. Detroit 57-22, No. 1 East. 3 games remaining before April 18 playoffs.
+- **Status:** FOLLOW-UP (collapsed lung first reported; return is new story)
+- **Follow-Up Opportunities:** Cade's game-to-game health; Pistons playoff seeding/bracket
+
+### STORY 3: Nuggets 10-Game Win Streak
+- **Tier:** 1
+- **Category:** Win Streak / West Seeding
+- **Key facts:** Denver 136-119 Grizzlies. 10th consecutive win. Jokic: 14 pts, 15 reb, 10 ast. Murray: 26 pts. Denver 1.5 games ahead of Lakers/Rockets for No. 3 West.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Denver's seed finalization; first-round bracket implications
+
+### STORY 4: Cavaliers 122-116 Hawks
+- **Tier:** 2
+- **Category:** Game Recap / East Standings
+- **Key facts:** Mitchell: 31 pts (12-19 FG). Cavs 122-116 Hawks. Hawks fail to clinch playoff spot.
+- **Status:** FOLLOW-UP
+
+### STORY 5: Magic 132-120 Timberwolves — Shannon Jr. Career-High 33
+- **Tier:** 2
+- **Category:** Game Recap / Play-In Race
+- **Key facts:** Magic 132-120 Wolves. 4th straight win. Banchero 20/8. Bane 18/6. Shannon Jr. career-high 33 for Minnesota.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Magic's playoff seeding; Shannon Jr. development
+
+### STORY 6: Wembanyama Day-to-Day — MRI Clear, SGA Locks Up MVP Race
+- **Tier:** 2
+- **Category:** Injury Update / Award Race
+- **Key facts:** Wemby rib contusion; MRI negative/clear; day-to-day. Needs 20+ min in 1 of 3 remaining games for MVP/DPOY/All-NBA eligibility. DraftKings: SGA -400, Wemby +1800. ESPN straw poll (100 voters): SGA 88, Wemby 8. Spurs 61-19.
+- **Status:** FOLLOW-UP
+
+### STORY 7: Preview — Celtics vs. Knicks, Lakers vs. Warriors
+- **Tier:** 3
+- **Category:** Preview
+- **Key facts:** Celtics vs. Knicks at MSG 7:30 PM ET. Jaylen Brown questionable (Achilles). Sam Hauser questionable (back). Lakers vs. Warriors 10 PM ET. Porzingis out (illness). Richard out (back). Season ends April 12. Play-In April 14-17. Playoffs April 18.
+- **Status:** FOLLOW-UP
+
+---
+
+## 2026-04-08
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Jeremiah Fears 40 pts (17-29 FG, 6 ast, 3 stl); youngest guard in NBA history to score 40 (per Yahoo Sports/NBA.com); Pelicans rookie franchise record; New Orleans 156-137 Jazz; snapped 8-game losing streak | 1 | NEW STORY |
+| 2 | Stephen Curry 17 pts, 2 four-point plays; Warriors 110-105 Kings; Curry's 2nd game back from right knee injury; Melton 21, Podziemski 20; Warriors snap 4-game skid; hold No. 10 play-in spot | 1 | FOLLOW-UP (long-running Curry return saga) |
+| 3 | Houston Rockets 7th consecutive win; 119-105 over Suns; KD 24 pts, 5 threes; Rockets surge to No. 5 West seed; potential Lakers-Rockets R1 matchup | 1 | FOLLOW-UP (Rockets surge tracked in prior runs) |
+| 4 | Kawhi Leonard 34 pts, 6 threes; Clippers 116-103 Mavericks; Garland 22; Cooper Flagg 25/9 in loss; Clippers hold play-in spot | 2 | NEW STORY |
+| 5 | Timberwolves 124-104 Pacers; Dosunmu 24 pts (10-17 FG), 5 reb, 3 stl; Minnesota locking in seeding | 2 | NEW STORY |
+| 6 | West standings: OKC No. 1 (clinched), Spurs No. 2, Denver No. 3 (jumped Lakers), Lakers No. 4, Rockets No. 5; play-in: PHX, LAC, POR, GSW; Play-In April 14-17 | 2 | FOLLOW-UP (West seeding tracked continuously) |
+| 7 | Season finale preview: Wemby needs 20+ min in 1 of final 3 games for MVP/DPOY/All-NBA eligibility; East locked (DET 57-22 No. 1, BOS 51-25 No. 2, NYK 49-28 No. 3); season ends April 12 | 3 | FOLLOW-UP (ongoing) |
+
+---
+
+### STORY 1: Jeremiah Fears — 40 Points, Youngest Guard in NBA History
+- **Tier:** 1
+- **Category:** Rookie Milestone / Historic Performance
+- **Key facts:** Fears: 40 pts (17-29 FG, 1-7 3Pt, 5-5 FT), 5 reb, 6 ast, 3 stl, 38 min. Named Player of the Night. Pelicans franchise rookie scoring record. Reportedly youngest guard in NBA history to score 40 (Yahoo Sports/NBA.com). Pelicans 156-137 Jazz. Snapped 8-game losing streak. Jazz: Konchar 12/10/10 off bench.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Fears continued development; Pelicans future around him
+
+### STORY 2: Stephen Curry Returns — Warriors 110, Kings 105
+- **Tier:** 1
+- **Category:** Player Return / Play-In Race
+- **Key facts:** Curry 17 pts, 2 four-point plays (tying 3 with 2:38 left + Podziemski go-ahead assist). 2nd game back from right knee injury. Melton 21 (team-high), Podziemski 20. Warriors snapped 4-game skid. Sacramento 6-of-last-8 losses. Warriors at No. 10 play-in spot.
+- **Status:** FOLLOW-UP (long-running Curry return watch)
+- **Follow-Up Opportunities:** Warriors play-in performance; Curry health game-to-game
+
+### STORY 3: Houston Rockets 7-Game Win Streak
+- **Tier:** 1
+- **Category:** Team Surge / West Seeding
+- **Key facts:** Rockets 119-105 over Suns. 7th consecutive win. KD 24 pts, 5 threes. Rockets at No. 5 West seed. Potential Lakers R1 matchup.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Rockets R1 bracket; KD stats run
+
+### STORY 4: Kawhi Leonard 34 Points — Clippers 116, Mavericks 103
+- **Tier:** 2
+- **Category:** Game Recap / Play-In
+- **Key facts:** Kawhi 34 pts, 6 threes. Garland 22. Clippers 116-103 Mavs. Flagg 25/9 in loss.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Clippers play-in performance; Flagg development
+
+### STORY 5: Timberwolves 124, Pacers 104 — Dosunmu 24
+- **Tier:** 2
+- **Category:** Game Recap
+- **Key facts:** Dosunmu 24 pts (10-17 FG), 5 reb, 3 stl, 33 min. Wolves won 124-104.
+- **Status:** NEW STORY
+
+### STORY 6: West Play-In Picture
+- **Tier:** 2
+- **Category:** Standings / Playoff Preview
+- **Key facts:** OKC No. 1 (clinched), Spurs No. 2, Denver No. 3, Lakers No. 4, Houston No. 5, Minnesota No. 6. Play-in: PHX, LAC, POR, GSW. April 14-17 play-in, April 18 playoffs.
+- **Status:** FOLLOW-UP
+
+### STORY 7: Season Finale / Wemby Watch
+- **Tier:** 3
+- **Category:** Preview
+- **Key facts:** Wemby needs 20+ min in 1 of 3 remaining games. Detroit 57-22 (No. 1 East), Boston 51-25 (No. 2), Knicks 49-28 (No. 3). Season ends April 12.
+- **Status:** FOLLOW-UP
+
+---
+
 ## 2026-04-07
 
 | # | Story | Tier | Tag |

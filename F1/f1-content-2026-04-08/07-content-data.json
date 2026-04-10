@@ -1,0 +1,423 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-08",
+  "compiled_at": "2026-04-08T11:44:39.271046+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — FIA Summit",
+      "type": "Breaking/Update"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 1 — Summit details / Story 4 — Calendar",
+      "type": "Analysis + News"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 2 — Verstappen",
+      "type": "Driver crisis"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 2 — Exit clause / Story 6 — Bearman",
+      "type": "Bold takes"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 3 — Antonelli",
+      "type": "Championship"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 3 — Antonelli angle 2 / Story 7 — Miami",
+      "type": "Feature + Preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "FIA April 9 Summit — Rule Changes Presentation TODAY",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The FIA summit to fix the broken 2026 F1 rules is TODAY.\n\nOn the table:\n- Super clipping: 250kW → 350kW\n- Energy recovery: 9MJ → 6MJ\n\nBinding vote April 20. Changes in before Miami?\n\nThis is the most consequential meeting in years.\n\n#F1Fanrecap #F1 #FIA",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#FIA"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Bearman's 50G crash at Suzuka wasn't just scary — it's the reason the FIA is meeting TODAY.\n\n250kW → 350kW super clipping. 9MJ → 6MJ energy recovery.\n\nThese numbers could save lives.\n\n#F1Fanrecap #F1 #F12026",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#F12026"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:00 AM"
+      },
+      "article": {
+        "filename": "article-01-fia-summit-2026-rule-changes.html",
+        "headline": "FIA Summit Today: Six Proposed Fixes to F1's Broken 2026 Rules",
+        "word_count": 522
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen Exit Clause — Aug-Oct 2026 Window Opens in Four Months",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM, 2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen has an exit clause he can trigger between August and October 2026.\n\nHe's called his car \"terrible.\" \"Mario Kart.\" \"A joke.\"\n\nDavid Croft: \"The retirement threat is not empty.\"\n\nFour months until the clock really starts ticking.\n\n#F1Fanrecap #F1 #Verstappen",
+          "posting_time": "12:00 PM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The math for Verstappen's future:\n\nAug-Oct 2026 exit window → only triggered if he's OUTSIDE the top 2 in the championship.\n\nHe's currently far behind Antonelli and Russell.\n\nMiami starts the stretch that decides his future.\n\n#F1Fanrecap #F1 #Verstappen",
+          "posting_time": "12:00 PM, 2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM, 2:00 PM"
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clause-countdown.html",
+        "headline": "Verstappen's Exit Clause Countdown: The Clock on F1's Biggest Story",
+        "word_count": 488
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli at the Break — Youngest Championship Leader in F1 History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM, 8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Kimi Antonelli leads the 2026 F1 World Championship.\n\nAt 19 years, 216 days — he's the YOUNGEST championship leader in F1 history.\n\n72 points. 2 wins. 3 races.\n\nIs a teenager about to win the world title?\n\n#F1Fanrecap #F1 #Antonelli",
+          "posting_time": "5:00 PM, 8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Antonelli: 72 pts.\nRussell: 63 pts.\n\nSame team. 9 points apart.\n\nIs Antonelli actually FASTER than George Russell? That's the question no one at Mercedes wants to answer yet.\n\n#F1Fanrecap #F1 #Mercedes",
+          "posting_time": "5:00 PM, 8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Mercedes"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM, 8:00 PM"
+      },
+      "article": {
+        "filename": "article-03-antonelli-youngest-championship-leader.html",
+        "headline": "Antonelli at 19: The Youngest Championship Leader in F1 History Heads into the Break on Top",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Bahrain and Saudi GPs Cancelled — Calendar Drops to 22 Races",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "F1's 2026 season just got shorter.\n\nBahrain and Saudi Arabian GPs cancelled due to the ongoing war in the Middle East.\n\n24 races → 22 races.\n\nThat's why we have a 5-week gap between Japan and Miami.\n\n#F1Fanrecap #F1 #F12026",
+          "posting_time": "10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#F12026"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM"
+      },
+      "article": {
+        "filename": "article-04-bahrain-saudi-cancelled-calendar.html",
+        "headline": "Bahrain and Saudi GPs Cancelled: Why F1's 2026 Calendar Just Got Shorter and What It Means",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Ferrari ADUO Power Unit — Monza Test April 22 Confirmed",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ferrari's ADUO power unit upgrade is FIA-approved.\n\n~25 horsepower gain. Monza test April 22.\n\nHamilton and Leclerc take the wheel. If it works, Ferrari closes the gap to Mercedes before Canada.\n\nThis is the upgrade that changes the title fight.\n\n#F1Fanrecap #F1 #Ferrari",
+          "posting_time": "12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM"
+      },
+      "article": {
+        "filename": "article-05-bearman-cleared-miami-penalty-points.html",
+        "headline": "Bearman Cleared for Miami — But 10 of 12 Penalty Points Means One Wrong Move Could End His Season",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Bearman Cleared for Miami — Still at 10 Penalty Points",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Ollie Bearman: cleared to race in Miami. Bruised knee. Nothing broken.\n\nBut here's the thing — he's still sitting on 10 of 12 penalty points.\n\nOne incident in Miami ends his season.\n\nNo pressure, kid.\n\n#F1Fanrecap #F1 #Bearman #Haas",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Bearman",
+            "#Haas"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 6A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Miami GP Preview — Sprint Weekend, First Race After April Break",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Miami GP is 23 days away.\n\nSprint weekend. Ferrari with a new aero package. Bearman on the edge. Verstappen's title hopes already in trouble.\n\nAnd potentially — the first race under new F1 rules.\n\nMay 1-3 can't come soon enough.\n\n#F1Fanrecap #F1 #MiamiGP",
+          "posting_time": "8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 7A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

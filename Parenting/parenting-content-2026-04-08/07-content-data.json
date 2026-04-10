@@ -1,0 +1,356 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-08",
+  "compiled_at": "2026-04-08T13:12:56.590045+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Emergency Warning — Tuyedoqe Travel Bassinet (Stop Use + Destroy)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "🚨 CPSC WARNING: Stop using Tuyedoqe Travel Bassinets — strangulation + fall hazard. ~250 sold on Amazon 2025, ~$40. Cut cover in half before disposal. Company refused recall. Do not resell. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tuyedoqe bassinet company refused a recall, so CPSC issued a Notice of Violation. Consumer awareness is the only protection. Stop use and destroy it — cut the cover in half first. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-tuyedoqe-travel-bassinet-cpsc-emergency-warning-2026.html",
+        "headline": "CPSC Emergency Warning: Stop Using Tuyedoqe Travel Bassinets — Company Refused Recall",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1200x675 for X)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1200x630 for Facebook/Article)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tuyedoqe Travel Bassinet — CPSC Emergency Warning\n**Sources:**\n- CPSC.gov official warning page: \"CPSC Warns Consumers to Immediately Stop Using Tuyedoqe Travel Bassinets Due to Risk of Serious Injury or Death from Strangulation and Fall Hazards\" — CONFIRMED\n**Freshness justification:** Not previously covered in Parenting story history. CPSC emergency consumer warning (not a standard recall — company refused to cooperate). Approximately 250 units sold on Amazon April-October 2025.\n**Verified facts (HIGH — CPSC.gov official):**\n- ~250 units sold on Amazon.com, April–October 2025, ~$40\n- Hazards: restraint system poses strangulation risk; sides too low (fall/entrapment); no stand means unsafe on elevated surfaces\n- Company refused recall → CPSC issued Notice of Violation (this is unusual and newsworthy)\n- Action: Immediately stop use. Remove foam padding. Cut cover in half. Dispose both pieces. Do NOT resell or donate. Do NOT use as storage.\n**Verified facts (HIGH — CPSC.gov):**\n- This is a Notice of Violation, not a standard recall — important distinction for article",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "COS Childcare Desert — 47K Kids Under 5, Only 18.4K Spots; June 2026 Fix Coming",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "COS has 47,000 children under age 5 and only 18,400 licensed childcare spots — a gap of nearly 29,000 seats. A June 2026 city ordinance aims to fix zoning rules that made the shortage worse. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 2-2",
+          "text": "A UCCS study: 26% of COS parents who would otherwise work stay home because childcare isn't available. The city's proposed ordinance fix targets June 2026. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cos-childcare-desert-zoning-ordinance-june-2026.html",
+        "headline": "COS Has a Childcare Crisis: 47,000 Kids, 18,400 Spots, and a City Trying to Fix What Zoning Broke",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1200x675 for X)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1200x630 for Facebook/Article)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Childcare Desert — 47K Kids, 18.4K Spots\n**Sources:**\n- KOAA: \"Colorado Springs considers zoning changes to expand access to childcare\"\n- KKTV: \"'We have a big childcare crisis' — Jan. 31, 2026\"\n- KRDO: \"City proposes solution to 'childcare desert' — Feb. 4, 2026\"\n- City of Colorado Springs: coloradosprings.gov/ChildcareOrdinanceUpdate\n- Colorado Springs Gazette: Feb. 14, 2026 coverage\n**Freshness justification:** The childcare ordinance update is targeting June 2026 — approximately 8 weeks from now. This is actionable near-term news. Not previously covered in Parenting story history.\n**Verified facts (HIGH — 4+ sources):**\n- 47,000 children under age 5 in COS; 18,400 licensed spots; ~29,000 seat gap\n- UCCS study: 26% of parents who would otherwise work stay home due to childcare unavailability\n- Southeast COS and Fountain-Fort Carson face worst shortage\n- 2023 Unified Development Code inadvertently banned new in-home and church-based childcare\n- Childcare Ordinance Update targeting June 2026 implementation\n**Verified facts (MEDIUM — 1 source each):**\n- Kids Strong Start 10-week awareness campaign launched January 2026 by Joint Initiatives for Youth & Families and Family Friendly Initiative (KOAA)\n- City has held public input meetings on the ordinance update (Gazette)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cheyenne Mountain Zoo Turns 100 — Dog Days This Friday, Giraffe Center This Summer",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "🐾 Dog Days at Cheyenne Mountain Zoo is THIS FRIDAY, April 10 — bring the family and the dog. CMZoo is celebrating its 100th year in 2026, just named No. 2 zoo in the U.S. by USA Today readers. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cheyenne-mountain-zoo-centennial-dog-days-april-2026.html",
+        "headline": "Cheyenne Mountain Zoo Turns 100: Dog Days This Friday, New Giraffe Center Coming This Summer",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1200x675 for X)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1200x630 for Facebook/Article)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cheyenne Mountain Zoo Centennial\n**Sources:**\n- FOX21: \"2026 marks 100 years of Cheyenne Mountain Zoo\"\n- KRDO: \"Cheyenne Mountain Zoo history exhibit opens\" — March 18, 2026\n- Denver Gazette: \"Colorado zoo voted as 2nd best zoo in U.S. in USA Today awards\" — March 18, 2026\n- CMZoo official events page: cmzoo.org/events-programs/\n**Freshness justification:** Dog Days is FRIDAY April 10 — immediate hook. CMZoo centennial year is ongoing. New giraffe center opening this summer is forward-looking. \"No. 2 zoo in U.S.\" per USA Today 2026 is recent. Not previously covered in April 2026 story history (April 7 was Mueller State Park, April 6 was Garden of the Gods).\n**Verified facts (HIGH — 3+ sources):**\n- CMZoo 2026 is 100th anniversary year\n- Dog Days events April 10 and April 24 (dogs welcome, all-day)\n- New history exhibit at Penrose Heritage Museum opened March 2026\n- New International Center for the Care and Conservation of Giraffe: 12,000 sq ft, 25% expanded outdoor space, opening summer 2026\n- USA Today readers poll: No. 2 zoo in U.S. (2026)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Bear Creek Nature Center Spring Programs — Birding, Bird Banding, Homeschool",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "📍 Bear Creek Nature Center, COS: Birding class April 9 & 11 (ages 14+, $10). Bird banding April 18, 7 AM (ages 8+, $5). Homeschool day April 23, 1 PM ($4, pre-reg required). 245 Bear Creek Rd. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-bear-creek-nature-center-april-programs-cos-2026.html",
+        "headline": "Spring Programs at Bear Creek Nature Center: Birding, Bird Banding, and Homeschool Days This April",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1200x675 for X)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1200x630 for Facebook/Article)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bear Creek Nature Center April Programs\n**Sources:**\n- El Paso County Parks official site: communityservices.elpasoco.com/nature-centers/bear-creek-nature-center/\n**Freshness justification:** Programs start April 9 (tomorrow) — immediate hook. Not previously covered in Parenting story history.\n**Verified facts (MEDIUM — 1 official source):**\n- April 9 & 11: Intermediate birding class with Aiken Audubon, $10/person, $8/member, ages 14+\n- April 18, 7–9 AM: Bird banding station with CSU-Pueblo researchers, $5/person, ages 8+\n- April 23, 1–3:30 PM: Homeschool programs (multi-age), $4/person, pre-registration required\n- Location: Bear Creek Nature Center, 245 Bear Creek Road, Colorado Springs\n**Note:** MEDIUM confidence because single official source. All prices and times are from El Paso County Parks official programming page. Families should confirm by calling the center before attending.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "CPSC Recalls — Olympia Pack-N-Stroll Utility Wagon + Uuoeebb Infant Walkers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "🚨 RECALL: Olympia Pack-N-Stroll Utility Wagons — gap between tray and sidewall can trap a child's head, no restraint system. Stop use, contact Olympia for remedy. Check cpsc.gov for model details. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 5-2",
+          "text": "🚨 RECALL: Uuoeebb Infant Walkers (Amazon/BaoD) — can pass through doorways + fail at step edges. Leg openings allow infant to slip until head is entrapped. Stop use. Full details at cpsc.gov. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-olympia-wagon-uuoeebb-walker-cpsc-recalls-april-2026.html",
+        "headline": "2 CPSC Recalls Before Spring: Olympia Pack-N-Stroll Utility Wagons and Uuoeebb Infant Walkers",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1200x675 for X)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1200x630 for Facebook/Article)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Olympia Pack-N-Stroll + Uuoeebb Infant Walker Recalls\n**Sources:**\n- CPSC.gov: \"Olympia Tools International Recalls Pack-N-Stroll Utility Wagons Due to Risk of Serious Injury or Death from Entrapment and Falls\"\n- CPSC.gov: \"Uuoeebb Infant Walkers Recalled Due to Risk of Serious Injury or Death from Fall and Entrapment Hazards — Violate Mandatory Standard for Infant Walkers — Sold on Amazon by BaoD\"\n**Freshness justification:** Both are new CPSC recalls not previously covered in Parenting story history. Wagon recalls are timely (spring outdoor season). Walker recalls always high-priority.\n**Verified facts (HIGH — CPSC.gov official):**\n- Olympia Pack-N-Stroll: gap between organizational tray and sidewall can entrap child's head; no restraint system. Violates mandatory stroller standard. Contact Olympia for remedy.\n- Uuoeebb Infant Walkers: can pass through standard doorways; fail to stop at step edges (fall hazard); leg openings allow infant to slip, head can become entrapped. Violates mandatory standard for infant walkers. Sold on Amazon by BaoD. Contact seller for remedy.\n**Note:** Exact unit counts and sale prices not confirmed from available search data — will frame conservatively (\"sold on Amazon\") without specifying unit counts that are not confirmed.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

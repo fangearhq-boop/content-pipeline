@@ -1,6 +1,105 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 7, 2026
+## Latest Run: April 10, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | "Relaxing Baby" swim float CPSC warning (cpsc.gov + 10+ TV affiliates), Bellabu Bear robe recall (cpsc.gov + bellabubear.com), D49 ECE classrooms (d49.org), Bear Creek Nature Center April events (visitcos.com + CSDB), Outdoor play research (UConn KIDS + childmind.org + PMC) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories, tier + pillar assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (char violations fixed, all under 280), 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present in all files; 85 claims; 138 HIGH / 41 MEDIUM / 112 LOW (char violations fixed on second run) |
+| Compile | COMPLETE | 07-content-data.json (5 stories, 7 X posts, 5 articles, 5 image concepts) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started |
+| Dashboard | COMPLETE | review-dashboard.html (22 items) |
+| PostPlanner Export | COMPLETE | Standard (7 posts X) cosp-postplanner-2026-04-10.xlsx + TOBI cosp-postplanner-tobi-2026-04-10.xlsx |
+| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WP API (same environment restriction as all prior runs) | WP credentials were set; blocked by proxy |
+
+## Story Count by Pillar (2026-04-10)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 (D49 ECE classrooms) | 1-2 |
+| Local Events | 1 (Bear Creek April programs) | 1-2 |
+| National Parenting | 3 ("Relaxing Baby" warning; Bellabu Bear recall; outdoor play research) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 9, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 Orton/Trailblazer (Gazette + KOAA), Vevor recall (CPSC.gov), YCXXKJ bath seat recall (CPSC.gov), COS Parks 2025 Annual Report (Gazette + coloradosprings.gov), AAP screen time guidelines (AAP + CHOC) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories, tier + pillar assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (all under 280 chars), 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (9 concepts across 5 stories) |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present in all files; 61 claims; 105 HIGH / 26 MEDIUM / 54 LOW |
+| Compile | COMPLETE | 07-content-data.json (5 stories, 8 X posts, 5 articles, 9 image concepts) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 images, all not_started |
+| Dashboard | COMPLETE | review-dashboard.html (23 items) |
+| PostPlanner Export | COMPLETE | Standard (8 posts X) cosp-postplanner-2026-04-09.xlsx + TOBI cosp-postplanner-tobi-2026-04-09.xlsx |
+| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| WordPress Publish | Skipped — WP credentials not set in environment | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-09)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 2 (D11 Orton/Trailblazer; COS Parks Annual Report) | 1-2 |
+| Local Events | 0 | 1-2 |
+| National Parenting | 3 (Vevor recall; YCXXKJ bath seat recall; AAP screen time) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 8, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search via agent) | COMPLETE | Tuyedoqe bassinet (CPSC.gov), COS childcare desert (KOAA+KKTV+KRDO+City), CMZoo centennial (FOX21+KRDO+Denver Gazette), Bear Creek Nature Center (El Paso County Parks), Olympia wagon + Uuoeebb walker (CPSC.gov) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories, tier + pillar assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (char fixes applied, all under 280), 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts) |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next, no exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 82 claims; 164 HIGH / 33 MEDIUM / 96 LOW |
+| Compile | COMPLETE | 07-content-data.json (5 stories, 8 X, 5 FB via postplanner, 5 articles) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started |
+| Dashboard | COMPLETE | review-dashboard.html (23 items) |
+| PostPlanner Export | COMPLETE | Standard (8 posts X) + TOBI (8 posts) |
+| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (host_not_allowed) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-08)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 (COS childcare desert / June 2026 zoning fix) | 1-2 |
+| Local Events | 2 (CMZoo centennial + Dog Days; Bear Creek programs) | 1-2 |
+| National Parenting | 2 (Tuyedoqe bassinet warning; Olympia + Uuoeebb recalls) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 7, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

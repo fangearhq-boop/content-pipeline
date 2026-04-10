@@ -1,0 +1,316 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-08",
+  "compiled_at": "2026-04-08T10:52:12.014914+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Amed Rosario's Two-Homer, 5-RBI Comeback Powers Yankees' 8-2 Start",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Yankees were 0-for-12 with runners in scoring position in last night's game.\n\nThen Amed Rosario hit two home runs in the 8th inning.\n\nYankees win 5-3. New York is 8-2. The historically dominant start rolls on. #Yankees",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Amed Rosario last night:\n🏠 Solo HR in the 1st\n🏠 3-run go-ahead HR in the 8th (off Leiter Jr.)\n\n5 RBI total. First multi-homer game since 2021.\n\nThat's the most Yankees comeback possible. #Yankees #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-amed-rosario-two-homer-comeback-yankees.html",
+        "headline": "Amed Rosario Hits Two Home Runs as Yankees Rally From 3-1 Deficit to Stay at 8-2",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Amed Rosario Comeback\n\n**Concept 1A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** Dark navy and white Yankees color scheme. Large bold white text \"COMEBACK COMPLETE\" at top. Below: \"Rosario: 2 HRs · 5 RBI\" in gold. \"Yankees 5, Athletics 3\" subtitle. \"8th Inning Hero\" in smaller text. No player likeness. Stadium lights bokeh in background.\n- **Caption overlay:** \"Rosario Saves the Night\"\n\n**Concept 1B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Prompt:** Baseball stadium at night, packed crowd, batter completing home run swing, ball trajectory visible against bright stadium lights. Navy and white color palette. Cinematic wide angle. Clean composition.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Reds' Burns (0.82 ERA) and Lowder (1.30 ERA) Are Making History Together",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Cincinnati Reds have two starters simultaneously posting ERAs not seen since before Lou Gehrig.\n\nChase Burns: 0.82 ERA\nRhett Lowder: 1.30 ERA (lowest through 8 career starts by a Reds pitcher since 1913)\n\nTheir offense is last in OPS with RISP. They keep winning. #Reds #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 278
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Rhett Lowder's ERA through his first 8 career starts: 1.30.\n\nIn the expansion era, only four pitchers have started careers with a lower ERA.\n\nOne of them is Fernando Valenzuela.\n\nThe Cincinnati Reds found something special. #Reds #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-reds-burns-lowder-historic-era.html",
+        "headline": "Chase Burns (0.82 ERA) and Rhett Lowder (1.30 ERA) Are Making History for the Cincinnati Reds",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Reds' Burns and Lowder Historic ERA\n\n**Concept 2A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** Cincinnati Reds red and white color scheme. Two ERA stats displayed prominently: \"0.82 ERA\" and \"1.30 ERA\" in large bold white text on dark background. \"Chase Burns + Rhett Lowder\" header. \"Not Seen Since 1913\" subtitle in gold. Clean modern sports graphic.\n- **Caption overlay:** \"Making History in Cincinnati\"\n\n**Concept 2B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Prompt:** Overhead view of a baseball diamond, pitcher on mound in mid-delivery, stadium full of fans. Red color tones with Cincinnati feel. Dramatic low-angle stadium lighting.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Yankees Allow Just 8 Runs in First 9 Games — Matching 1943 Record",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Yankees have allowed 8 runs through their first 9 games.\n\nThat ties the 2002 Giants and 1993 Braves for the fewest in modern MLB.\n\nThey're doing this without Gerrit Cole and Carlos Rodon.\n\nThis rotation is absurd. #Yankees #MLB",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-yankees-allow-8-runs-first-9-games-historical.html",
+        "headline": "The Yankees Have Allowed 8 Runs Through 9 Games — Matching a Record From 1943",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yankees Historic Team ERA\n\n**Concept 3A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** New York Yankees pinstripes design on dark background. Large bold \"8 RUNS ALLOWED\" text. Below: \"Through 9 Games\" and \"Matching an 83-Year-Old Record\" in clean white typography. \"1943\" in faded text in background.\n- **Caption overlay:** \"Historically Dominant\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Milwaukee Brewers at 8-2 — The Biggest Early Surprise in Baseball",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "PECOTA projected the Brewers to finish 81-81 this season.\n\nThrough 10 games, Milwaukee is 8-2 with a +30 run differential — 2nd best in baseball.\n\nNobody told the Brewers they were supposed to be average. #Brewers #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-brewers-8-2-biggest-early-surprise.html",
+        "headline": "The Milwaukee Brewers Are 8-2 and Nobody Predicted This",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brewers at 8-2\n\n**Concept 4A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** Milwaukee Brewers royal blue and yellow. Large bold \"8-2\" centered. Below: \"PECOTA projected: 81-81\" crossed out, then \"+30 Run Differential\" in gold. \"Nobody Told the Brewers\" as tagline at bottom. Clean modern sports graphic.\n- **Caption overlay:** \"Milwaukee's Hot\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Rockies Sweep Astros — First Series Win Since Mid-June 2025",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Rockies scored 8 runs in the 5th inning Monday.\n\nThen Kyle Freeland allowed 1 run in 6.1 innings Tuesday.\n\nColorado swept the Astros and won their first series since mid-June 2025. #Rockies #MLB",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rockies",
+            "#MLB"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-rockies-sweep-astros-first-series-win.html",
+        "headline": "Rockies Sweep Astros — An 8-Run Inning and a Shutdown Performance for Colorado's First Series Win in Nine Months",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rockies Sweep Astros\n\n**Concept 5A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** Colorado Rockies purple and silver. Bold white text \"SWEEP\" at top with lightning bolt design. Below: \"Rockies 9, Astros 7 — Monday\" and \"Rockies 5, Astros 1 — Tuesday\" in clean list format. \"First Series Win Since June 2025\" in gold at bottom. Mountain silhouette in background.\n- **Caption overlay:** \"Rocky Mountain High\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Konnor Griffin Makes History — First Teen to Debut Since Juan Soto in 2018",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "First at-bat. 19 years old.\n\nKonnor Griffin hit a 105.8 mph RBI double in his MLB debut.\n\nHe is the first teenager to debut as a position player since Juan Soto did it in 2018.\n\nPittsburgh, your future is here. #Pirates #MLB",
+          "posting_time": "10:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pirates",
+            "#MLB"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Konnor Griffin Debut\n\n**Concept 6A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** Pittsburgh Pirates black and gold design. Bold text \"KONNOR GRIFFIN\" at top. Below: \"105.8 MPH RBI Double\" in gold. \"First Teenage Position Player Since Juan Soto (2018)\" as subtitle. \"MLB DEBUT\" badge. No player likeness — pure graphic design.\n- **Caption overlay:** \"Future Is Now\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Injury Wave — Betts, Soto, and Brown All Hit IL Early",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Three playoff contenders lost their best player this week:\n\n🔴 Mookie Betts — oblique strain, IL\n🔵 Juan Soto — calf strain, IL\n🟠 Hunter Brown — elbow, IL\n\nThe division races are already shifting. #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Injury Wave\n\n**Concept 7A — Social (1080x1350)**\n- **Type:** gemini / base_only\n- **Prompt:** Dark background with red warning indicator elements. Three rows: \"Mookie Betts — Oblique — IL\", \"Juan Soto — Calf — IL\", \"Hunter Brown — Elbow — IL\" in clean white text with red status indicators. Bold header \"INJURY ALERT\" at top. Clean modern sports design.\n- **Caption overlay:** \"Three Stars Down\""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

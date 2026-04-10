@@ -1,0 +1,430 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-08",
+  "compiled_at": "2026-04-08T11:30:38.817333+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Fears 40 pts",
+      "type": "Breaking/Historic"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1 — Fears rookie angle",
+      "type": "Bold take"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — Curry return",
+      "type": "Player return recap"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 — Warriors Play-In",
+      "type": "Seeding angle"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Rockets streak",
+      "type": "Team surge"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Kawhi/Clippers",
+      "type": "Game recap"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 5 — Wolves/Pacers",
+      "type": "Game recap"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — West seeding",
+      "type": "Standings analysis"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7 — Season finale watch",
+      "type": "Preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Jeremiah Fears Drops 40 Points — Youngest Guard in NBA History to Hit 40",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 9:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "JEREMIAH FEARS just made NBA HISTORY.\n\n40 PTS. 19 years old.\n\nThe youngest guard EVER to drop 40 in an NBA game. Pelicans rookie record. Franchise record.\n\nNew Orleans NEEDED this. 8-game losing streak? OVER. 🔥\n\n#HoopHeroes #Pelicans",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Pelicans"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jeremiah Fears at 19 just outscored half the league last night.\n\n40 points. 6 assists. 3 steals. 156-137 W.\n\nThis kid is not a prospect anymore — he's arrived.\n\n#HoopHeroes #Pelicans #NBARookies",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Pelicans",
+            "#NBARookies"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 9:00 AM ET\n\nThe New Orleans Pelicans had lost eight games in a row. The season was going sideways in the final week of the regular season. Then a 19-year-old named Jeremiah Fears decided enough was enough.\n\nOn Tuesday night, the Pelicans rookie guard erupted for 40 points against the Utah Jazz — going 17-of-29 from the field, grabbing 5 rebounds, dishing 6 assists, and snatching 3 steals in a 156-137 blowout victory. He was named NBA Player of the Night.\n\nBy the time the night was over, Fears had set the Pelicans franchise record for most points scored in a game by a rookie. He also reportedly became the youngest guard in NBA history to drop 40 points in an NBA game, according to Yahoo Sports and NBA.com.\n\nNone of that was expected when the season started. None of it was promised. But basketball has a way of revealing who people are under pressure — and Jeremiah Fears chose the biggest spotlight to show the world exactly who he is.\n\nNew Orleans ended an 8-game losing streak. The rookie history books got a new entry. Not a bad Tuesday night.\n\n---",
+        "image_caption": "Window: 9:30 AM ET\n\n19 years old. 40 points. NBA history.\n\nJeremiah Fears just put the NBA on notice.",
+        "posting_time": "9:00 AM, 9:30 AM"
+      },
+      "article": {
+        "filename": "article-01-jeremiah-fears-40-points-nba-history.html",
+        "headline": "Jeremiah Fears Drops 40 Points, Becomes Youngest Guard in NBA History to Score 40",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Curry's Clutch Return — Warriors 110, Kings 105 With Four-Point Plays",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM, 11:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Steph Curry — game 2 back from injury.\n\nTWO four-point plays. Tying 3 with 2:38 left. Go-ahead assist.\n\nWarriors 110, Kings 105. Golden State snaps a 4-game skid.\n\nPlayoff Steph is back. ⚡\n\n#HoopHeroes #Warriors #NBA",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Warriors",
+            "#NBA"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Golden State Warriors with Healthy Curry vs. the Warriors without him — two completely different teams.\n\nThey're alive in the Play-In. Don't sleep on them.\n\n#HoopHeroes #Warriors #NBAPlayIn",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Warriors",
+            "#NBAPlayIn"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 11:00 AM ET\n\nIt's only been two games since Stephen Curry returned from a right knee injury, and already he's reminding the NBA why the Golden State Warriors are never fully out of a conversation.\n\nOn Tuesday, Curry scored 17 points against the Sacramento Kings — but the box score doesn't capture the moment. With Golden State down in the final minutes, Curry hit a tying 3-pointer with 2:38 left on the clock. Then he turned and found Brandin Podziemski for the go-ahead triple. Two four-point plays. One vintage Curry performance.\n\nDe'Anthony Melton led the Warriors with 21 points. Podziemski finished with 20. Golden State won 110-105, snapping a 4-game losing streak.\n\nThe Warriors now sit in the No. 10 play-in spot in the Western Conference with the postseason window still open. Whether they advance will depend heavily on how well Curry gets his legs back under him. Tuesday night was a promising sign.\n\nSacramento has now dropped 6 of their last 8 as they slip into uncertainty.\n\n---",
+        "image_caption": "Window: 11:30 AM ET\n\nTwo four-point plays. One vintage Curry performance. Warriors stay alive.\n\nSteph Curry isn't done yet.",
+        "posting_time": "11:00 AM, 11:30 AM"
+      },
+      "article": {
+        "filename": "article-02-curry-returns-warriors-kings.html",
+        "headline": "Curry Makes His Return Count — Two Four-Point Plays Power Warriors Past Kings 110-105",
+        "word_count": 486
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Houston Rockets on Fire — 7-Game Win Streak Rockets Them to No. 5 West",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "HOUSTON ROCKETS: 7 wins in a row.\n\nKD: 24 PTS, 5 threes. Rockets 119, Suns 105.\n\nThey've surged to No. 5 in the West. A potential Lakers-Rockets first round is now VERY real.\n\nWatch out. 🚀\n\n#HoopHeroes #Rockets #NBAPlayoffs",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Rockets",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 1:00 PM ET\n\nIf you haven't been paying attention to the Houston Rockets lately, now is the time to start.\n\nHouston has won seven consecutive games, including Tuesday's 119-105 victory over the Phoenix Suns. Kevin Durant continues to pace the offense, putting up 24 points and connecting on 5 three-pointers in the latest win.\n\nThe Rockets have surged to the No. 5 seed in the Western Conference — and that number matters. Depending on how seedings shake out over the final days of the regular season, Houston could find themselves in a first-round matchup against the Los Angeles Lakers. That would be must-watch television.\n\nSeven wins in a row going into the playoffs isn't luck. It's timing. And the Rockets appear to have found theirs.\n\n---",
+        "image_caption": "Window: 1:30 PM ET\n\n7-game win streak. Kevin Durant in full force. Rockets headed for the playoffs with serious momentum.\n\nHouston is a team nobody wants to face right now.",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-rockets-7-game-win-streak.html",
+        "headline": "Rockets Run It to Seven — Kevin Durant and Houston Surge to No. 5 West Seed",
+        "word_count": 460
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Kawhi Leonard Drops 34 — Clippers 116, Mavericks 103",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kawhi Leonard just DOMINATED.\n\n34 PTS. 6 threes. Clippers 116, Mavs 103.\n\nWhen Kawhi is locked in, the Clippers are a genuine Play-In threat.\n\nCooper Flagg had 25/9 in the loss — kid never quits.\n\n#HoopHeroes #Clippers #NBA",
+          "posting_time": "3:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Clippers",
+            "#NBA"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 3:00 PM ET\n\nWhen Kawhi Leonard is locked in, the LA Clippers are a different team. Tuesday night was proof.\n\nLeonard scored 34 points and knocked down 6 three-pointers in a 116-103 Clippers victory over the Dallas Mavericks. Darius Garland contributed 22 points in support. The Clippers hold a spot in the Western Conference play-in tournament and are playing with urgency.\n\nOn the other side, Cooper Flagg gave Mavericks fans something to be proud of — the rookie posted 25 points and 9 rebounds. Dallas's season is heading toward a difficult exit, but Flagg continues to show he's the centerpiece of what comes next.\n\nFor the Clippers, Kawhi in this form is the difference between a quick play-in exit and a genuine upset threat.\n\n---",
+        "image_caption": "Window: 3:30 PM ET\n\n34 points. 6 threes. Kawhi Leonard showed up when the Clippers needed him most.",
+        "posting_time": "3:00 PM"
+      },
+      "article": {
+        "filename": "article-04-kawhi-leonard-clippers-mavericks.html",
+        "headline": "Kawhi Leonard Erupts for 34 Points, Clippers Top Mavericks 116-103 in Play-In Tune-Up",
+        "word_count": 441
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Timberwolves 124, Pacers 104 — Dosunmu Stars in Minnesota Rout",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ayo Dosunmu: 24 points on 10-17 shooting.\n\nTimberwolves 124, Pacers 104. Minnesota rolling.\n\nThe Wolves have the depth to compete deep in the playoffs.\n\n#HoopHeroes #Timberwolves #NBA",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Timberwolves",
+            "#NBA"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 4:00 PM ET\n\nAyo Dosunmu put on a show in Minnesota on Tuesday night.\n\nThe guard scored 24 points on an efficient 10-of-17 shooting, adding 5 rebounds and 3 steals as the Timberwolves cruised to a 124-104 victory over the Indiana Pacers. Minnesota continues to nail down their seeding as the regular season enters its final stretch.\n\nThe Timberwolves have built something durable this season — a deep, physical team with multiple contributors capable of stepping up on any given night. Dosunmu's performance Tuesday was the latest reminder.\n\n---",
+        "image_caption": "Window: 4:30 PM ET\n\nAyo Dosunmu: 24 points, 10-17 from the floor. Timberwolves rolling.\n\nMinnesota is quietly dangerous heading into the playoffs.",
+        "posting_time": "4:00 PM"
+      },
+      "article": {
+        "filename": "article-05-timberwolves-pacers-dosunmu.html",
+        "headline": "Dosunmu Shines as Timberwolves Dominate Pacers 124-104 in Late-Season Statement",
+        "word_count": 432
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "West Play-In Puzzle — Denver No. 3, Lakers No. 4, Warriors Hanging On",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "WEST PLAYOFF PICTURE with 4 days left:\n\nNo. 1 OKC ✅ (clinched)\nNo. 2 Spurs\nNo. 3 Denver (jumped LAL)\nNo. 4 Lakers\nNo. 5 Rockets (7-game W streak 🔥)\nNo. 10 Warriors (barely hanging on)\n\nPlay-In: April 14-17.\n\n#HoopHeroes #NBAPlayoffs",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 5:00 PM ET\n\nThe Western Conference playoff and play-in picture is taking shape with just four days left in the regular season.\n\nAt the top, Oklahoma City locked up the No. 1 seed some time ago. San Antonio holds No. 2. Denver jumped Los Angeles for No. 3 after their overtime win over Portland on Monday — a potentially huge development for the bracket.\n\nHouston has surged to No. 5 on a seven-game win streak, and Minnesota holds No. 6. The play-in spots (seeds 7 through 10) are contested among Phoenix, the LA Clippers, Portland, and Golden State.\n\nStephen Curry's return could be the difference between the Warriors surviving the play-in or being eliminated early. Denver at No. 3 avoids OKC in the first round. Houston at No. 5 facing the No. 4 Lakers would be one of the more intriguing first-round matchups possible.\n\nThe play-in tournament runs April 14-17. Playoffs tip off April 18. This week matters.\n\n---",
+        "image_caption": "Window: 5:30 PM ET\n\nWest standings with 4 days left: OKC No. 1, Spurs No. 2, Denver No. 3, Lakers No. 4, Rockets No. 5.\n\nEverything in the play-in is still up for grabs.",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 6A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Final 4 Games — Wemby Eligibility Watch and East Seeding Finales",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "3 games left for Victor Wembanyama.\n\nHe needs 20+ minutes in ONE of them to qualify for MVP, DPOY, and All-NBA.\n\nThe rib contusion clock is ticking. Status still unknown.\n\nThis is the biggest storyline of the final week. #HoopHeroes #Spurs",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 7:00 PM ET\n\nThe NBA regular season ends April 12, and there are still enormous storylines to resolve.\n\nThe biggest: Victor Wembanyama. The San Antonio Spurs star exited Monday's game against Philadelphia with a left rib contusion and has not been cleared to return. He must play at least 20 minutes in one of the Spurs' remaining three games to maintain eligibility for MVP, Defensive Player of the Year, and All-NBA voting.\n\nIn the East, the seedings are mostly locked. Detroit has clinched the No. 1 seed (57-22 — a franchise transformation story for the ages). Boston holds No. 2. New York sits at No. 3.\n\nFour days of basketball remain. Wembanyama's eligibility, final seedings, and a handful of meaningful play-in races will define them.\n\n---",
+        "image_caption": "Window: 7:30 PM ET\n\n4 days left. Wemby's eligibility on the line. West play-in still wide open.\n\nThe final chapter of the 2025-26 NBA regular season is being written right now.",
+        "posting_time": "7:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 7A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 7,
+    "articles_count": 5,
+    "image_concepts_count": 11
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

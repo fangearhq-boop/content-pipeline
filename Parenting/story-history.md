@@ -2,6 +2,138 @@
 
 ---
 
+## April 10, 2026
+
+### Story 1: CPSC Warning — "Relaxing Baby" Swim Floats (Drowning Death)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC emergency warning: stop using "Relaxing Baby" inflatable swim floats; 2-year-old drowning death confirmed; blue/green inflatable seat floats, ages 3-36 months; sold Amazon + eBay; seller Wu He/Relaxing Baby (China) unresponsive to CPSC recall requests; action: puncture and dispose, do not resell)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** One 2-year-old drowning death (cpsc.gov + 10+ TV affiliates); blue/green, ages 3-36 months; sold Amazon + eBay; seller unresponsive; puncture and dispose; do not sell/donate
+- **Follow-Up Opportunities:** Water safety guide for summer; swim lesson resources in COS; CPSC recall roundup
+
+### Story 2: Bellabu Bear Children's Sherpa Robes Recalled — Burn Hazard
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Bellabu Bear recalls bamboo sherpa robes for kids; burn hazard — fails mandatory flammability standards; PAW Patrol, Minecraft, Batman, Minions, and other character prints; sold Saks Fifth Avenue + online Jan 2024-Jul 2025; ~$60; sizes S/M and M/L; no injuries; full refund or store credit; phone 888-703-7752)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Bamboo sherpa robes; model identifier BB-NW12109 on neck label; burn hazard (flammability failure); sold Jan 2024-Jul 2025; ~$60; Saks + online; sizes S/M + M/L; no injuries; refund via 888-703-7752 or help@bellabubear.com
+- **Follow-Up Opportunities:** Children's sleepwear safety guide; CPSC recall roundup
+
+### Story 3: D49 Opening Two New ECE Classrooms at Student Success Center for Fall 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 ECE expanding: two new classrooms at Student Success Center; August 2026 start; full-day preschool available for SY 2026-27; serves east Colorado Springs, Falcon, Peyton and surrounding communities)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Two new ECE classrooms; D49 Student Success Center; August 2026; full-day preschool available; east-side COS service area
+- **Follow-Up Opportunities:** D49 enrollment/registration details; childcare desert follow-up; D11/D20 ECE expansion comparison
+
+### Story 4: Bear Creek Nature Center April 2026 Family Programs
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Three Bear Creek spring programs: April 10 Nature Tots 2-3 yr olds $3; April 17 Free Early Literacy Event for deaf/HoH families birth-8, with CSDB, register outreach@csdb.org; April 23 Homeschool programs $4/person; all require prepaid registration)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** April 10 Nature Tots (2-3 yr olds, $3, 10am/2pm); April 17 Early Literacy (birth-8, free, CSDB partnership, outreach@csdb.org); April 23 Homeschool (1pm-3:30pm, $4, ages 7+ drop-off); Bear Creek = El Paso County Parks
+- **Follow-Up Opportunities:** Bear Creek summer program guide; El Paso County Parks spring event roundup
+
+### Story 5: Outdoor Play Research Roundup — Spring Benefits for COS Kids
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (Research roundup: outdoor/green space play reduces anxiety/depression; improves focus/creativity/emotional regulation; ADHD milder in green settings; serotonin + cortisol benefits; COS-specific context with trails/parks; evergreen spring content)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 3
+- **Key Facts:** ADHD milder in green settings (PMC research + childmind.org); outdoor play reduces anxiety/depression (multiple research sources); cortisol reduction from nature time; UConn KIDS April 2026 post confirms relevance; COS has 100+ parks, 200+ miles trails
+- **Follow-Up Opportunities:** COS outdoor activity guide by age; playground guide; best spring hikes for families
+
+---
+
+## April 9, 2026
+
+### Story 1: D11 Moving Orton Academy Into Trailblazer Elementary for 2026-27
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 approves moving Orton Academy — dyslexia-focused charter, grades 2-8, ~120 students — into Trailblazer Elementary for fall 2026; Trailblazer capacity ~600, enrollment ~220, ~337 open seats; parents felt blindsided)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Orton Academy D11 charter since 2024; grades 2-8; ~120 students; Trailblazer Elementary ~600 capacity, ~220 enrolled, ~337 open seats; fall 2026 start; parents described as feeling "blindsided"; D11 rationale: efficient use of underutilized building
+- **Follow-Up Opportunities:** Charter co-location outcomes; Orton and Trailblazer parent feedback; D11 board meeting coverage
+
+### Story 2: CPSC Recalls Vevor Baby Swings Over Safe Sleep Violation
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Sanven Technology recalls Vevor baby swings models BB501K, BB702A, BB005K; incline exceeds 10 degrees violating Safe Sleep for Babies Act; sold Vevor.com + Amazon Jan-Aug 2025, $65-$80; no injuries; inclined sleepers linked to 94+ infant deaths 2005-2019)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Models BB501K, BB702A, BB005K; sold Jan-Aug 2025; Vevor.com + Amazon; $65-$80; incline >10 degrees; violates Safe Sleep for Babies Act; no injuries from this product; context: 94+ infant deaths from inclined sleepers 2005-2019; refund: (855) 599-6320 or recalling@vevor.com
+- **Follow-Up Opportunities:** Safe infant sleep evergreen guide; inclined sleeper history/policy explainer
+
+### Story 3: YCXXKJ Baby Bath Seats Recalled — Tip-Over Drowning Risk
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (BenTalk recalls ~8,960 YCXXKJ bath seats model YD-1958; sold Amazon May 2024-Oct 2025, $34-$40; tip-over drowning risk; colors: blue/gray/pink/yellow; no injuries)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** Model YD-1958; ~8,960 units; Amazon only; May 2024-Oct 2025; $34-$40; blue/gray/pink/yellow; tip-over drowning hazard; no injuries; refund: bentalkhere@outlook.com or (213) 579-2588
+- **Follow-Up Opportunities:** Bath safety evergreen; CPSC recall roundup
+
+### Story 4: COS Parks Hit 22.5 Million Visits in 2025 — Budget Cuts Proposed for 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (COS Parks 2025 Annual Report: 22.5M visits; $91.6M economic impact and $73.7M healthcare savings per Trust for Public Land; Patty Jewett 119K rounds, Valley Hi 62K rounds; Garden of the Gods 8,000 ft waterline; 2026 budget $22.6M with proposed $2M cut)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 22.5M visits (parks/open spaces/trails); $91.6M economic impact; $73.7M healthcare savings; Patty Jewett 119K rounds; Valley Hi 62K rounds; Garden of the Gods 8,000 ft waterline; 2026 general fund $22.6M; proposed cut $2M
+- **Follow-Up Opportunities:** Budget hearing coverage; spring park activity guide; TOPS 2026 trail update
+
+### Story 5: AAP Screen Time Guidelines — Quality and Context Over the Clock
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP guidance: no screens under 18 months except video calls; ages 2-5 max 1 hr/day high-quality content; ages 6+ consistent limits; emphasis on co-viewing, conversation, parental modeling over strict time limits)
+- **Content Produced:** X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 3
+- **Key Facts:** Under 18 months: no screens except video chatting; 18-24 months: high-quality only with co-viewing; ages 2-5: 1 hr/day max; ages 6+: consistent limits, no displacement of sleep/exercise/face time; quality + context > clock; co-viewing and modeling essential
+- **Follow-Up Opportunities:** Family digital wellness guide (evergreen); device-free activities for COS kids
+
+---
+
+## April 8, 2026
+
+### Story 1: CPSC Emergency Warning — Tuyedoqe Travel Bassinet (Stop Use + Destroy)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC emergency warning — company refused recall; Notice of Violation; ~250 units Amazon April-Oct 2025, ~$40; strangulation + fall hazard; action: stop use, cut cover in half, dispose, do not resell or donate)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~250 units sold Amazon April-Oct 2025 ~$40; strangulation risk (restraint system), fall risk (sides too low), fall risk (no stand); company refused recall → CPSC Notice of Violation; destroy before disposal
+- **Follow-Up Opportunities:** Safe infant sleep products guide (evergreen); CPSC emergency warning explainer
+
+### Story 2: COS Childcare Desert — 47K Kids Under 5, Only 18.4K Licensed Spots; June 2026 Zoning Fix
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (COS has ~47,000 children under 5 but only ~18,400 licensed childcare spots; ~29K seat gap; UCCS study: 26% of parents who would work stay home; 2023 UDC inadvertently worsened shortage; June 2026 Childcare Ordinance Update targeting reversal)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 47K children under 5; 18.4K licensed spots; ~29K seat gap; UCCS study 26%; southeast COS + Fountain-Fort Carson worst hit; 2023 UDC banned new in-home + church-based childcare; June 2026 ordinance update; Kids Strong Start campaign Jan 2026
+- **Follow-Up Opportunities:** June 2026 ordinance vote coverage; public comment sessions; childcare provider spotlight
+
+### Story 3: Cheyenne Mountain Zoo Turns 100 — Dog Days April 10, New Giraffe Center Summer 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (CMZoo 100th anniversary year; Dog Days all-day Friday April 10 + April 24; centennial history exhibit March 2026; new 12,000 sq ft giraffe center opening summer 2026; No. 2 zoo in U.S. per USA Today 2026 readers)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** CMZoo opened 1926 (100th year 2026); Dog Days April 10 + April 24 (dogs welcome, all-day); No. 2 zoo USA Today 2026; history exhibit at Penrose Heritage Museum opened March 2026; new International Center for Care and Conservation of Giraffe 12,000 sq ft summer 2026
+- **Follow-Up Opportunities:** Giraffe center opening announcement; summer CMZoo guide; centennial membership push
+
+### Story 4: Bear Creek Nature Center April Programs — Birding, Bird Banding, Homeschool
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Bear Creek Nature Center, 245 Bear Creek Rd: birding class April 9+11 with Aiken Audubon; bird banding April 18 7 AM with CSU-Pueblo researchers; homeschool programs April 23 1 PM; all affordable, local)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** April 9+11 birding class ages 14+ $10/person or $8/member; April 18 bird banding 7-9 AM ages 8+ $5/person; April 23 homeschool 1-3:30 PM multi-age $4/person pre-reg required; 245 Bear Creek Rd COS
+- **Follow-Up Opportunities:** Summer Bear Creek programs; El Paso County Parks event calendar
+
+### Story 5: CPSC Recalls — Olympia Pack-N-Stroll Utility Wagons + Uuoeebb Infant Walkers
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Olympia Pack-N-Stroll Utility Wagons recalled — head entrapment gap + no restraint; Uuoeebb Infant Walkers (Amazon/BaoD) recalled — fail doorway + step-edge standards; leg opening head entrapment)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Olympia Pack-N-Stroll: gap between tray and sidewall → head entrapment; no restraint system; violates mandatory stroller standard; Uuoeebb walker: passes through standard doorways; fails step edge stop; leg openings → head entrapment; violates mandatory walker standard
+- **Follow-Up Opportunities:** Infant walker safety guide (evergreen); utility wagon recall roundup
+
+---
+
 ## April 7, 2026
 
 ### Story 1: CPSC Recalls — KTEBO Writing Tablets (Battery Ingestion) + Zippee Silicone Toys (Choking)

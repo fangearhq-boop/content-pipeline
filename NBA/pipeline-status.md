@@ -1,11 +1,47 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-07
+- **Date**: 2026-04-10
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-10
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-04-10.xlsx (9 posts) + hh-postplanner-tobi-2026-04-10.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-10/review-dashboard.html (28 items)
+- **Notes:** Knicks 112-106 Celtics (Brunson 25/10, Hart 26/15 in Q4; Knicks 52-28, one game ahead of Cavs for No. 3 East; Celtics No. 2 locked; Brown out Achilles); Lakers 119-103 Warriors (LeBron 26/11 ast; Curry rested knee; Warriors 38-42 locked No. 10 play-in; final home game); SGA MVP race — 88/100 ESPN votes, -400 odds, 31.6 PPG/55.3% FG, 2 games left; Wemby day-to-day rib, needs 20+ min in 1 of 2 remaining games; Kon Knueppel 265 3PT (shatters Keegan Murray's 206 rookie record by 59); East play-in war: Hawks 45-35, Raptors 44-35, Magic 44-36, Sixers 43-36, Hornets 43-37, Heat 41-38; season ends April 12; Play-In April 14-17; Playoffs April 18.
+- **Fact concerns:** All core facts HIGH from ESPN, NBA.com, Bleacher Report, CBS Sports, Yahoo Sports. DraftKings odds MEDIUM (odds-site sourcing). All LOW confidence claims excluded.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with previous runs)
+
+### 2026-04-09
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-04-09.xlsx (9 posts) + hh-postplanner-tobi-2026-04-09.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-09/review-dashboard.html (35 items)
+- **Notes:** OKC clinches NBA's best record 64-16 (Holmgren 30/14/5 ast/4 blk, 10-13 FG; SGA 20/11 ast; Thunder 128-110 Clippers); Cade Cunningham returns from 11-game collapsed-lung absence (13/10/5 in 26 min; Pistons 137-111 Bucks; DET 57-22 No.1 East); Nuggets 10-game win streak (Jokic 14/15/10, Murray 26; 136-119 Grizzlies; Denver 1.5 games up on Lakers/Rockets for No.3 West); Mitchell 31 pts (12-19 FG), Cavs 122-116 Hawks (Hawks miss clinch); Magic 4th straight win 132-120 Wolves (Banchero 20/8, Bane 18/6; Shannon Jr. career-high 33); Wemby MRI clear/day-to-day (SGA -400 MVP, Wemby +1800; needs 20+ min in 1 of 3 remaining); Tonight: Celtics-Knicks (Brown questionable), Lakers-Warriors (Porzingis out)
+- **Fact concerns:** "Holmgren makes NBA history in Clippers game" from Yahoo Sports headline (specifics unclear); all core stats HIGH from WRAL/ABC News/ESPN. De'Aaron Fox confirmed with Spurs via NBA.com trade announcement. All other facts HIGH or MEDIUM.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with previous runs)
+
+### 2026-04-08
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 10 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-04-08.xlsx (10 posts) + hh-postplanner-tobi-2026-04-08.xlsx (10 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-08/review-dashboard.html (35 items)
+- **Notes:** Jeremiah Fears 40 pts (NEW — Pelicans rookie, youngest guard in NBA history to score 40 per Yahoo/NBA.com, snapped 8-game skid); Curry 2nd game back, 2 four-point plays, Warriors 110-105 Kings (snapped 4-game skid, play-in alive); Rockets 7-game win streak (KD 24/5 threes, 119-105 Suns, No. 5 West); Kawhi 34/6 threes, Clippers 116-103 Mavs (Flagg 25/9); Dosunmu 24, Wolves 124-104 Pacers; West bracket: OKC No. 1 clinched, Spurs No. 2, Denver No. 3 (jumped Lakers), Rockets No. 5; Wemby still needs 20+ min in 1 of final 3 games; season ends April 12.
+- **Fact concerns:** "Youngest guard in NBA history to score 40" is MEDIUM — from Yahoo Sports and NBA.com headlines, used with "reportedly" qualifier in article. All other core facts HIGH from ESPN, NBA.com, CBS Sports, Bleacher Report.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with previous runs)
 
 ### 2026-04-07
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

@@ -1,0 +1,369 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-10",
+  "compiled_at": "2026-04-10T11:53:34.244324+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Verstappen midfield admission",
+      "type": "Breaking news angle"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 1 — Red Bull wind tunnel crisis",
+      "type": "Technical deep dive"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 — FIA Day 2 meeting",
+      "type": "Regulation update"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 — Antonelli youngest leader",
+      "type": "Championship analysis"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4 — Miami GP sprint preview",
+      "type": "Race preview"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 5 — Verstappen at Nurburgring",
+      "type": "Driver feature"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — Ferrari Monza test",
+      "type": "Technical prep"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7 — Constructors' standings",
+      "type": "Standings overview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Admits Red Bull in \"Midfield Battle\" — Crisis Deepens After Japan",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Max Verstappen after the Japanese GP: Red Bull is in \"the midfield battle.\"\n\nThe FOUR-TIME world champion. 9th in the championship. 1.7 seconds per lap slower in China.\n\nThis is F1's biggest storyline of 2026. #F1 #F1Fanrecap",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Red Bull's 2026 problem? An aging wind tunnel that can't optimize the car for new regs.\n\nResult: 16 points through 3 races. -60 from the championship leader.\n\nVerstappen. Struggling. In the midfield. Let that sink in. #F1 #F1Fanrecap",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:00 AM"
+      },
+      "article": {
+        "filename": "article-01-verstappen-red-bull-midfield-battle-crisis.html",
+        "headline": "Verstappen Admits Red Bull Are in \"The Midfield Battle\" as Crisis Deepens After Japan",
+        "word_count": 642
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen/Red Bull Crisis\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"Max Verstappen Red Bull Racing\"\n- **Overlay text:** \"MIDFIELD BATTLE\" / \"Verstappen's own words. 9th in championship.\"\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms (Imagn):** \"Max Verstappen Red Bull RB22\"\n- **Overlay text:** \"RED BULL IN CRISIS\" / \"16 pts through 3 races\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen/Red Bull Crisis\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Red Bull started 2026 season worst since 2015 | HIGH | Sky Sports, The Race |\n| Red Bull 16 points through 3 races | HIGH | F1.com standings, RacingNews365 |\n| Verstappen called Red Bull in \"midfield battle\" after Japan | HIGH | F1.com (official), Motorsport.com |\n| Verstappen called car \"terrible\" and \"Mario Kart\" | HIGH | Multiple outlets, ESPN |\n| Verstappen averaging 1.7s/lap slower than race winner in China | HIGH | Sky Sports, Planet F1 |\n| Red Bull admitted \"significant shortcomings\" | HIGH | Sky Sports |\n| Issue tied to aging Red Bull wind tunnel | HIGH | GPFans, Planet F1 |\n| Verstappen ninth, 16 pts, -60 from Antonelli | HIGH | F1.com standings |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "FIA Technical Meeting Day 2 — April 20 Binding Vote in View",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The FIA's technical meeting continues today (Day 2). April 20 = binding vote.\n\nOn the table: raise super-clip from 250kW to 350kW. Cut energy recovery from 9MJ to 6MJ.\n\nThese changes could reshape the entire 2026 competitive order. #F1 #F1Fanrecap",
+          "posting_time": "10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM"
+      },
+      "article": {
+        "filename": "article-02-fia-regulation-meeting-day2-april20-vote.html",
+        "headline": "FIA's April 20 Vote Could Change the 2026 F1 Season as Technical Meetings Continue",
+        "word_count": 615
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FIA Technical Meeting\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"FIA Formula 1 meeting paddock\"\n- **Overlay text:** \"FIA VOTE: APRIL 20\" / \"Regulation changes incoming?\"\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms (Imagn):** \"Formula 1 technical regulations\"\n- **Overlay text:** \"THE RULES ARE CHANGING\" / \"April 20 binding vote\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FIA Technical Meeting Day 2\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| April 9 = Day 1, technical reps only, discussion/no binding decisions | HIGH | Multiple F1 outlets (from prior pipeline) |\n| April 10 = second technical meeting (framing April 20 agenda) | HIGH | F1.com, RacingNews365 |\n| April 20 = TP meeting, potential binding vote | HIGH | F1.com, RacingNews365 |\n| WMSC approval required | HIGH | F1.com |\n| Super clip proposal: 250kW → 350kW | HIGH | The Race, Sky Sports |\n| Energy recovery proposal: 9MJ → 6MJ | HIGH | The Race, Sky Sports |\n| Bearman crash: ~50G impact at Spoon Curve | HIGH | F1.com, ESPN |\n| 50km/h speed differential (boost vs. energy-saving modes) | HIGH | Multiple outlets |\n| Goal: implement for Miami May 1-3 if possible | HIGH | RacingNews365, GPFans |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli's Historic Championship Lead — Is the Title Already His?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli is 19 years and 216 days old.\n\nHe leads the F1 World Championship by 9 points.\n\nHe broke Lewis Hamilton's record as the youngest-ever championship leader.\n\nThe 2026 season might already belong to him. #F1 #F1Fanrecap",
+          "posting_time": "12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM"
+      },
+      "article": {
+        "filename": "article-03-antonelli-youngest-f1-championship-leader-history.html",
+        "headline": "Nineteen and Leading the World: Antonelli's Historic Championship Position Explained",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"Kimi Antonelli Mercedes\"\n- **Overlay text:** \"19 YEARS OLD. CHAMPIONSHIP LEADER.\" / \"Youngest in F1 history\"\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms (Imagn):** \"Kimi Antonelli Mercedes W17\"\n- **Overlay text:** \"ANTONELLI 72 PTS — HISTORY MADE\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Lead\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Antonelli leads with 72 points | HIGH | F1.com official standings |\n| Russell second with 63 points | HIGH | F1.com |\n| Leclerc third with 49 points | HIGH | F1.com |\n| Hamilton fourth with 41 points | HIGH | F1.com |\n| Norris fifth with 25 points | HIGH | F1.com |\n| Piastri sixth with 21 points | HIGH | F1.com |\n| Antonelli youngest-ever championship leader: 19 yrs 216 days | HIGH | F1.com, Silverstone.co.uk, Motorsport.com |\n| Previous record: Hamilton, 22 years 5 months 6 days (2007 Spanish GP) | HIGH | F1.com, RaceTrackMasters |\n| Japan win: finished 13.7s ahead of Piastri | HIGH | F1.com race report |\n| This was Antonelli's second career victory | HIGH | F1.com, Sky Sports |\n| Japan: started sixth after slow start from pole | HIGH | F1.com race report, ESPN |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Miami GP Sprint Weekend Preview — Five-Week Wait Is Almost Over",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "F1 returns to action May 1-3 in Miami. And it's a SPRINT weekend.\n\nTwo race cancellations. A 5-week break. Every team scrambling to find pace.\n\nAntonelli vs. Russell. Ferrari's upgrades. Verstappen's redemption arc.\n\nMiami cannot come fast enough. #F1 #F1Fanrecap",
+          "posting_time": "12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM"
+      },
+      "article": {
+        "filename": "article-04-miami-gp-sprint-preview-may-1-3.html",
+        "headline": "Five Weeks Away: What to Expect at the Miami GP Sprint Weekend on May 1-3",
+        "word_count": 604
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Miami GP Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"Miami Grand Prix Formula 1\"\n- **Overlay text:** \"MIAMI GP — MAY 1-3\" / \"Sprint Weekend | 5-Week Wait Is Over\"\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms (Imagn):** \"Miami International Autodrome F1\"\n- **Overlay text:** \"NEXT STOP: MIAMI\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Miami GP Preview\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Miami GP: May 1-3, 2026 | HIGH | F1.com official calendar |\n| Sprint weekend format | HIGH | F1.com, RacingNews365 |\n| Race start: Sunday May 3, 16:00 EDT | HIGH | F1.com |\n| 57 laps, 5.412km circuit | HIGH | F1.com |\n| Bahrain GP cancelled (originally April 10-12) | HIGH | F1.com official statement |\n| Saudi Arabian GP cancelled (originally April 17-19) | HIGH | F1.com official statement |\n| Reason: ongoing conflict in region | HIGH | F1.com |\n| Five-week break between Japan and Miami | HIGH | ESPN, GPFans |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Verstappen at Nurburgring — NLS3 Race Possible Saturday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "While Red Bull fixes the RB22, Verstappen is racing a Mercedes-AMG GT3 at the Nurburgring.\n\nNLS3 is tomorrow (April 11). He's also confirmed for qualifier races April 18-19 and the 24H on May 16.\n\nThe man just needs to race. Can't blame him. #F1 #F1Fanrecap",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM"
+      },
+      "article": {
+        "filename": "article-05-verstappen-nurburgring-nls3-racing-break.html",
+        "headline": "Verstappen Takes to the Nurburgring as Red Bull Regroups During F1's Five-Week Break",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Nurburgring\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"Max Verstappen sportscar racing Nurburgring\"\n- **Overlay text:** \"VERSTAPPEN AT THE RING\" / \"NLS3 — April 11\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Nurburgring\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| NLS3 race: April 11 (possible) | MEDIUM | GPFans (single source) |\n| NLS qualifier races: April 18-19 | HIGH | RacingNews365, multiple |\n| 24H Nurburgring: May 16 | HIGH | Multiple sources |\n| Mercedes-AMG GT3 | HIGH | Multiple outlets |\n| Verstappen Racing, car No. 3 | HIGH | Multiple outlets |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Ferrari's Monza Test April 22 — Everything Riding on Pre-Miami Upgrade",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Ferrari has confirmed a filming day at Monza on April 22.\n\nOn the agenda: new floor, ADUO power unit software upgrade, revised rear wing.\n\nHamilton and Leclerc will share the wheel. They're coming for Mercedes in Miami. #F1 #F1Fanrecap",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Monza Test\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"Ferrari SF-26 Formula 1 test\"\n- **Overlay text:** \"FERRARI TESTS APRIL 22\" / \"Monza | ADUO | Revised Floor | Macarena Wing\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari Monza Test\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Monza filming day: April 22 confirmed | HIGH | Scuderia Fans, multiple outlets |\n| Hamilton and Leclerc sharing driving duties | HIGH | Multiple outlets |\n| Revised floor (Bahrain spec) to be tested | HIGH | Scuderia Fans, The Race |\n| ADUO power unit software (~25hp gain) | MEDIUM | Single source estimate |\n| \"Macarena\" rear wing (China stability issues with Bahrain spec) | HIGH | Multiple F1 outlets |\n| Also: Mugello and Fiorano sessions | HIGH | Scuderia Fans |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "2026 F1 Constructors' Battle — Mercedes Lead, Ferrari/McLaren Fight for Second",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "2026 F1 Constructors after 3 races:\n\nMercedes: 135 pts\nFerrari: 90 pts\nMcLaren: 46 pts\nRed Bull: 16 pts\n\nThis is what a regulation reset looks like. 2026 is already wild. #F1 #F1Fanrecap",
+          "posting_time": "8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 186
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Constructors' Standings\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"Mercedes F1 team celebration podium\"\n- **Overlay text:** \"CONSTRUCTORS AFTER 3 RACES\" / \"Mercedes 135 | Ferrari 90 | McLaren 46 | Red Bull 16\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Constructors' Standings\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Mercedes constructors lead: Antonelli 72 + Russell 63 = 135 pts | HIGH | F1.com |\n| Ferrari second: Leclerc 49 + Hamilton 41 = 90 pts | HIGH | F1.com |\n| McLaren third: Norris 25 + Piastri 21 = 46 pts | HIGH | F1.com |\n| 2026 regs: 50% electric / 50% ICE | HIGH | F1.com official |\n| Active aerodynamics replace DRS | HIGH | F1.com official |\n| MGU-K: 350kW (up from 120kW) | HIGH | F1.com official |\n## Sources Used\n- F1.com: Official standings, race reports, regulation articles, calendar\n- ESPN: Race reports, Verstappen crisis analysis\n- Sky Sports: Red Bull shortcomings, Bearman/regulations\n- Planet F1: Verstappen wind tunnel analysis\n- GPFans: FIA meeting timeline, NLS3 reference, next race schedule\n- RacingNews365: Standings, Miami dates, Nurburgring\n- The Race: FIA proposals, Ferrari test\n- Scuderia Fans: Ferrari Monza/Mugello/Fiorano test details\n- Silverstone.co.uk: Antonelli youngest leader context\n- Motorsport.com: Japan GP results",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

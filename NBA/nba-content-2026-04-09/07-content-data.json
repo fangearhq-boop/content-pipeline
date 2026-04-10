@@ -1,0 +1,368 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-09",
+  "compiled_at": "2026-04-09T11:16:13.035988+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Holmgren/Thunder best record",
+      "type": "Historic clinching"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1 — OKC playoff dominance angle",
+      "type": "Bold take"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — Cade returns",
+      "type": "Player return news"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 — Pistons playoff angle",
+      "type": "Depth analysis"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Nuggets 10-game streak",
+      "type": "Win streak recap"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Mitchell/Cavs-Hawks",
+      "type": "Game recap"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 5 — Magic win, Shannon career-high",
+      "type": "Game recap"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — Wemby MRI, MVP race",
+      "type": "Injury/award update"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7 — Tonight's games preview",
+      "type": "Preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Chet Holmgren Drops 30/14 — Thunder Clinch NBA's Best Record at 64-16",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 9:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CHET HOLMGREN: 30 PTS. 14 REB. 5 AST. 4 BLK. Shooting 10-of-13.\n\nThe Thunder didn't just clinch the NBA's best record Wednesday night. They reminded everyone SGA isn't doing this alone.\n\nOKC. 64-16. Home court locked. #ThunderUp #HoopHeroes #NBA",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 1-2",
+          "text": "OKC clinches the NBA's best record at 64-16.\n\nDefending champs. No. 1 seed. Home court throughout the playoffs.\n\nThe Thunder are built to repeat. #ThunderUp #HoopHeroes",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp",
+            "#HoopHeroes"
+          ],
+          "char_count": 168
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 9:00 AM ET\n\nThe Oklahoma City Thunder are officially the team to beat.\n\nOn Wednesday night, Chet Holmgren delivered one of the most complete performances of his career — 30 points, 14 rebounds, 5 assists, 2 steals, and 4 blocks while shooting 10-of-13 from the field and 3-of-4 from three. Shai Gilgeous-Alexander added 20 points and 11 assists. Jalen Williams contributed 18. The Thunder handled the LA Clippers 128-110, and in doing so, clinched the NBA's best regular-season record at 64-16.\n\nThat means OKC, the defending NBA champion, has homecourt advantage locked in throughout the entire postseason. The San Antonio Spurs had pushed to within two games at 61-19 with an 18-2 run since February, but Wednesday's win put it out of reach. The No. 1 seed, and with it the right to host every playoff series, belongs to Oklahoma City.\n\nWhat made Wednesday's win notable wasn't just the clinching — it was how dominant it looked. The Thunder shot 58.1% from the field and held the Clippers to zero fast-break field goals. Oklahoma City forced 13 turnovers (nine off steals) and scored 23 points off those miscues. This is a team playing at a championship level.\n\nHolmgren, in particular, looked like the second-best player on the planet Wednesday night. After SGA, obviously. The big man is putting up the kind of two-way production that makes OKC a nightmare matchup for anyone.\n\n---",
+        "image_caption": "Window: 9:30 AM ET\n\nChet Holmgren. 30 points. 14 rebounds. 4 blocks. OKC (64-16) just clinched the NBA's best record — and homecourt advantage all the way through the Finals. The Thunder are ready to defend their title.",
+        "posting_time": "9:00 AM, 9:30 AM"
+      },
+      "article": {
+        "filename": "article-01-holmgren-thunder-clinch-best-record.html",
+        "headline": "Chet Holmgren Drops 30/14/4 Blocks as Thunder Clinch NBA's Best Record at 64-16",
+        "word_count": 621
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thunder Clinch NBA's Best Record\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** Imagn photo\n- **Search terms:** Chet Holmgren Oklahoma City Thunder\n- **Overlay text:** \"64-16. BEST IN THE NBA.\" (top banner) + \"HOLMGREN: 30 PTS · 14 REB · 4 BLK\" (bottom bar)\n- **Background color:** Dark Midnight (#1A1A2E at 45% opacity)\n- **Font:** Bebas Neue (headline), Montserrat (stat line)\n- **Usage:** X/Twitter, Facebook, Instagram\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** Imagn photo\n- **Search terms:** Oklahoma City Thunder celebration\n- **Overlay text:** \"THUNDER CLINCH HOME COURT\" (large center) + \"#1 IN THE NBA\" (sub)\n- **Usage:** Article featured image, Open Graph\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Cade Cunningham Returns — Pistons Rout Bucks 137-111",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM, 11:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "CADE IS BACK.\n\n13 pts. 10 ast. 5 reb. 26 minutes. First game back after 11 games with a collapsed lung.\n\nDetroit 137, Milwaukee 111. The Pistons are ready. #DetroitBasketball #HoopHeroes #NBA",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#DetroitBasketball",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 191
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Cade Cunningham missed 11 games with a collapsed lung.\n\nHe came back Wednesday and dropped 13 pts, 10 assists — in 26 MINUTES.\n\nDetroit is the No. 1 seed for a reason. #DetroitBasketball #HoopHeroes",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#DetroitBasketball",
+            "#HoopHeroes"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 11:00 AM ET\n\nCade Cunningham is back. And Detroit breathed a collective sigh of relief.\n\nThe Pistons' star point guard returned Wednesday night after missing 11 games with a collapsed lung — an injury he suffered March 17 while diving for a loose ball against the Washington Wizards. Cunningham's first basket back was an alley-oop dunk off a feed from Ausar Thompson, and it perfectly captured the electricity in Detroit when their franchise player returned to the floor.\n\nBy the time the final buzzer sounded, Cunningham had logged 13 points (on 6-of-11 shooting), 10 assists, and 5 rebounds in 26 minutes. Detroit routed Milwaukee 137-111. The Pistons (57-22) enter the final three games of the regular season as the No. 1 seed in the Eastern Conference.\n\nThis matters for reasons beyond the scoreboard. Cunningham is Detroit's engine — he's averaging 24.5 points, 9.9 assists, and 5.6 rebounds per game this season — and the collapsed lung forced the Pistons to find ways to win without him. They did, maintaining their top seed. But having him back, healthy and getting his legs under him before the playoffs begin April 18, is a major development.\n\nThe Bucks had no answers Wednesday. Detroit's margin of victory — 26 points — sent a message to the rest of the East. The Pistons didn't just get their star back. They flexed.\n\n---",
+        "image_caption": "Window: 11:30 AM ET\n\n13 pts. 10 ast. 5 reb. In his first game back from a collapsed lung. Cade Cunningham returned Wednesday and the Detroit Pistons (57-22, No. 1 East seed) looked every bit like a championship contender.",
+        "posting_time": "11:00 AM, 11:30 AM"
+      },
+      "article": {
+        "filename": "article-02-cade-cunningham-returns-collapsed-lung.html",
+        "headline": "Cade Cunningham Returns From Collapsed Lung, Pistons Rout Bucks 137-111",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cade Cunningham Returns\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** Imagn photo\n- **Search terms:** Cade Cunningham Detroit Pistons\n- **Overlay text:** \"CADE IS BACK\" (bold top) + \"13 PTS · 10 AST · 5 REB\" (stat line)\n- **Background color:** Dark Midnight (#1A1A2E at 40% opacity)\n- **Font:** Bebas Neue, Montserrat\n- **Usage:** X/Twitter, Facebook, Instagram\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** Imagn photo\n- **Search terms:** Cade Cunningham Detroit Pistons dribbling\n- **Overlay text:** \"THE RETURN\" (large left-aligned) + \"Pistons No. 1 East Seed\" (sub)\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Nuggets Win 10th Straight — Jokic Triple-Double, Murray 26",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Denver Nuggets have won 10 STRAIGHT.\n\nJokic: 14 pts / 15 reb / 10 ast. Murray: 26 pts. Nuggets 136, Grizzlies 119.\n\nDenver leads the Lakers AND Rockets by 1.5 games for No. 3 West. This race is real. #MileHighBasketball #HoopHeroes #NBA",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#MileHighBasketball",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 1:00 PM ET\n\nTwo months ago, people were questioning whether Denver could even make the playoffs. Wednesday, the Nuggets extended their winning streak to 10 games.\n\nNikola Jokic posted a triple-double — 14 points, 15 rebounds, 10 assists — while Jamal Murray led all scorers with 26 points in a 136-119 demolition of the Memphis Grizzlies. Denver is now 1.5 games ahead of both the Los Angeles Lakers and Houston Rockets in the race for the No. 3 seed in the Western Conference.\n\nWhy does the No. 3 seed matter? Because it keeps Denver away from OKC — the No. 1 seed and defending champion — until at least the Western Conference Finals. A team that finishes No. 3 faces the No. 6 seed in the first round, a much more navigable path. With 10 straight wins, the Nuggets have seized control of their own destiny.\n\nJokic has been his typically brilliant self throughout the streak — distributing, rebounding, and scoring with the kind of quiet efficiency that has defined his career. Murray's 26 points against Memphis showed he's operating at full health. Together, they're the scariest duo the West has to offer behind OKC's SGA-Holmgren pairing.\n\nThree games remain. Denver controls the No. 3 seed if they keep winning.\n\n---",
+        "image_caption": "Window: 1:30 PM ET\n\n10 STRAIGHT WINS. Jokic with another triple-double. Murray with 26. Denver 136, Memphis 119. The Nuggets are surging at exactly the right time. No. 3 West seed is theirs to lose.",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-nuggets-10-game-win-streak-jokic.html",
+        "headline": "Nuggets Win 10th Straight as Jokic Posts Triple-Double, Murray Scores 26",
+        "word_count": 589
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nuggets 10-Game Win Streak\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** Imagn photo\n- **Search terms:** Nikola Jokic Denver Nuggets\n- **Overlay text:** \"10 STRAIGHT WINS\" (headline) + \"JOKIC: 14/15/10\" (stat)\n- **Background color:** Dark Midnight at 45% opacity\n- **Usage:** X/Twitter, Facebook\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** Imagn photo\n- **Search terms:** Jamal Murray Denver Nuggets\n- **Overlay text:** \"NUGGETS ON A MISSION\" + \"10-Game Win Streak\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cavaliers 122, Hawks 116 — Mitchell's 31 Keep Play-In Pressure On",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Donovan Mitchell. 31 points. 12-of-19 from the floor.\n\nCleveland 122, Atlanta 116. The Hawks couldn't clinch their playoff spot tonight — Mitchell made sure of that.\n\n#LetEmKnow #HoopHeroes #NBA",
+          "posting_time": "3:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetEmKnow",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 3:00 PM ET\n\nDonovan Mitchell turned in a statement performance Wednesday, and the Atlanta Hawks are still waiting on their playoff clinch as a result.\n\nMitchell scored 31 points on 12-of-19 shooting to lead Cleveland past Atlanta 122-116. It was the kind of efficient, assertive performance that defines Mitchell at his best — not relying on volume, but converting at a high rate with the game on the line. The Cavaliers needed every bit of it.\n\nThe Hawks had a chance to clinch a playoff berth Wednesday and couldn't get it done. Atlanta's seeding drama will continue into the final days of the regular season, making the East's lower-bracket race one of the more compelling storylines remaining before April 12.\n\nCleveland's win keeps their own seeding tightly contested. With the regular season ending Sunday, every game carries maximum weight in the Eastern Conference.\n\n---",
+        "image_caption": "Window: 3:30 PM ET\n\nDonovan Mitchell. 31 points. 12-of-19. Cleveland turns back Atlanta 122-116, and the Hawks are still waiting to clinch their playoff spot.",
+        "posting_time": "3:00 PM"
+      },
+      "article": {
+        "filename": "article-04-mitchell-cavaliers-hawks.html",
+        "headline": "Donovan Mitchell Scores 31 as Cavaliers Top Hawks 122-116, Atlanta Misses Playoff Clinch",
+        "word_count": 445
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cavaliers 122-116 Hawks\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** Imagn photo\n- **Search terms:** Donovan Mitchell Cleveland Cavaliers\n- **Overlay text:** \"31 POINTS\" (top) + \"MITCHELL SHUTS THE DOOR\" (bottom)\n- **Usage:** X/Twitter, Facebook\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** Imagn photo\n- **Search terms:** Donovan Mitchell Cleveland Cavaliers game action\n- **Overlay text:** \"MITCHELL 31 · CAVS 122 HAWKS 116\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Magic Win 4th Straight — Shannon Jr. Career-High 33 in Loss",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Terrence Shannon Jr. just dropped a CAREER-HIGH 33 points for the Timberwolves.\n\nIt wasn't enough. Orlando won 132-120 for their 4th straight W.\n\nBanchero 20. Bane 18. The Magic are locked in. #MagicBasketball #HoopHeroes",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#MagicBasketball",
+            "#HoopHeroes"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 4:00 PM ET\n\nTerrence Shannon Jr. poured in a career-high 33 points for the Minnesota Timberwolves on Wednesday night. It was an impressive individual performance. The only problem: the Orlando Magic didn't care. They won anyway, 132-120.\n\nPaolo Banchero led Orlando with 20 points and 8 rebounds, while Desmond Bane added 18 points and 6 assists. The Magic's fourth consecutive win tightens their grip on a playoff position as the regular season winds down.\n\nFor Minnesota, Shannon Jr.'s big night offers a silver lining in a game they needed. The Timberwolves continue to play solid basketball, but the story Wednesday belonged to Orlando — a team quietly building real playoff momentum.\n\nThe Magic have won four in a row. They're not the loudest team in the East's postseason conversation. They might want to be.\n\n---",
+        "image_caption": "Window: 4:30 PM ET\n\nOrlando Magic win their 4th straight, 132-120 over Minnesota. Banchero 20/8. Bane 18/6. Terrence Shannon Jr. had a career-high 33 points for the Wolves — and it still wasn't enough.",
+        "posting_time": "4:00 PM"
+      },
+      "article": {
+        "filename": "article-05-magic-wolves-shannon-career-high.html",
+        "headline": "Magic Win Fourth Straight 132-120 Over Wolves; Shannon Jr. Posts Career-High 33 in Loss",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Magic 132-120 Wolves\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** Imagn photo\n- **Search terms:** Paolo Banchero Orlando Magic\n- **Overlay text:** \"4 STRAIGHT WINS\" (headline) + \"MAGIC 132 · WOLVES 120\" (sub)\n- **Usage:** X/Twitter, Facebook\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** Imagn photo\n- **Search terms:** Terrence Shannon Minnesota Timberwolves\n- **Overlay text:** \"CAREER-HIGH 33 · NOT ENOUGH\" + \"Magic Win 4th Straight\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Wemby Day-to-Day — MRI Clear, MVP Race Tilts to SGA",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Wemby's MRI came back clear. He's day-to-day with a rib contusion.\n\nBut the MVP market has spoken: SGA -400. Wemby +1800.\n\nHe just needs 20+ minutes in ONE of the Spurs' final 3 games to stay award-eligible. #GoSpursGo #HoopHeroes",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#HoopHeroes"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 5:00 PM ET\n\nVictor Wembanyama received good news on Wednesday: an MRI on his left rib contusion came back negative. No structural damage. No serious injury. The Spurs' star is listed day-to-day and is expected to play in at least one of San Antonio's three remaining games.\n\nThat matters because Wembanyama must log 20 or more minutes in at least one game to remain eligible for MVP, Defensive Player of the Year, and All-NBA consideration. At 64 games played, he's one appearance shy of the 65-game threshold required for major awards.\n\nThe MRI news is a relief. The MVP odds, though, tell a different story. DraftKings lists Shai Gilgeous-Alexander at -400 and Wembanyama at +1800 after the injury scare. ESPN's straw poll of 100 voters showed SGA with 88 first-place votes and Wembanyama with 8. The race, for all practical purposes, has been called — and the only remaining drama is whether Wemby can cement his eligibility and get his name on the awards ballot.\n\nThe Spurs are 61-19 and riding an 18-2 run since February. San Antonio has clinched the No. 2 seed in the West. The postseason awaits. They just need their franchise player healthy enough to take the floor in one of the next three regular-season games.\n\n---",
+        "image_caption": "Window: 5:30 PM ET\n\nWemby's MRI came back clear — no structural damage. He's day-to-day with a rib contusion and needs 20+ minutes in one game to keep his MVP eligibility alive. SGA -400. Wemby +1800. The race has a leader.",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wemby MRI Update\n\n**Image Concept 6A — Social (1080x1350)**\n- **Type:** Imagn photo\n- **Search terms:** Victor Wembanyama San Antonio Spurs\n- **Overlay text:** \"MRI: CLEAR\" (top bold) + \"Wemby Day-to-Day | SGA -400 MVP\" (bottom)\n- **Usage:** X/Twitter, Facebook\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Tonight's Key Games — Celtics-Knicks, Lakers-Warriors and Season's Final Push",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Two HUGE games tonight:\n\nCeltics vs. Knicks — 7:30 PM ET (Jaylen Brown questionable, Achilles)\nLakers vs. Warriors — 10:00 PM ET (Porzingis out)\n\nFinal week of the regular season. Seeding matters. #HoopHeroes #NBA",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 7:00 PM ET\n\nThursday night delivers two of the most compelling games of the final week.\n\nIn New York at 7:30 PM ET, the Boston Celtics visit the Knicks at Madison Square Garden. This is a direct seeding matchup — Boston needs the win to hold off New York in the East standings. The big story coming in: Jaylen Brown is questionable with an Achilles issue, and Sam Hauser is also questionable with a back injury. The Celtics are thin. The Knicks and their Garden crowd know it.\n\nOut West at 10 PM ET, the Los Angeles Lakers host the Golden State Warriors in a game that means a great deal more to Golden State. The Warriors (37-42) are holding a play-in spot by a thread, and they'll be doing it without Kristaps Porzingis (illness) and Will Richard (back injury). Stephen Curry has been playing through his own injury, and every game this week is a potential lifeline or elimination scenario for Golden State.\n\nTwo games. Big stakes. A regular season that ends Sunday and a playoff bracket still being written.\n\n---",
+        "image_caption": "Window: 7:30 PM ET\n\nTwo must-watch games tonight: Celtics vs. Knicks (7:30 PM ET) with Jaylen Brown questionable, and Lakers vs. Warriors (10 PM ET) with the Warriors fighting to protect their play-in spot. Final week of the NBA regular season.",
+        "posting_time": "7:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tonight's Preview\n\n**Image Concept 7A — Social (1080x1350)**\n- **Type:** Gemini AI-generated (base_only mode — clean background for text overlay)\n- **Prompt:** \"Clean dark basketball court background, deep orange and royal blue gradient, basketball texture subtle, no text, designed as background for sports social media overlay, professional quality, dark midnight atmosphere\"\n- **Overlay text:** \"TONIGHT\" (top) + \"Celtics vs Knicks 7:30 PM ET\" + \"Lakers vs Warriors 10:00 PM ET\" + \"#HoopHeroes\"\n- **Usage:** X/Twitter preview post"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 7,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
