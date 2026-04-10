@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-09
+- **Date**: 2026-04-10
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-10
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5: Verstappen/Red Bull midfield crisis, FIA Day 2 meeting/April 20 vote, Antonelli youngest-ever F1 leader, Miami GP sprint weekend preview, Verstappen Nurburgring NLS3)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-10.xlsx (8 posts) + f1fr-postplanner-tobi-2026-04-10.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-10/review-dashboard.html (27 items)
+- **Notes:** Verstappen admits Red Bull in "midfield battle" (9th, 16 pts, -60 from Antonelli; wind tunnel root cause; 1.7s/lap slower in China; exit clause Aug-Oct 2026); FIA Day 2 technical meeting (April 20 TP binding vote; super clip 250→350kW, energy 9→6MJ proposals; Bearman 50G crash driver); Antonelli championship lead analysis (72 pts, 19y 216d, youngest-ever leader, Japan 13.7s win); Miami GP sprint weekend May 1-3 (Bahrain/Saudi cancelled, 5-week break); Verstappen Nurburgring NLS3 April 11 (MEDIUM — single source); Ferrari Monza test April 22 (floor/ADUO/Macarena wing); Constructors standings (Mercedes 135, Ferrari 90, McLaren 46, Red Bull 16).
+- **Fact concerns:** NLS3 April 11 is MEDIUM confidence (single GPFans source) — flagged in story history. ADUO ~25hp figure is MEDIUM (single source estimate). All other core facts HIGH from F1.com, ESPN, Sky Sports, The Race, RacingNews365, Motorsport.com.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with previous runs)
 
 ### 2026-04-09
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

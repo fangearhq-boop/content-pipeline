@@ -2,6 +2,69 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-10
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Verstappen admits Red Bull in "midfield battle" after Japan; 16 pts through 3 races (worst since 2015); aging wind tunnel root cause; 1.7s/lap slower in China; RB22 "significant shortcomings"; 9th, -60 pts from Antonelli; exit clause Aug-Oct 2026 | 1 | FOLLOW-UP |
+| 2 | FIA technical meeting Day 2 (April 10); second technical reps session frames April 20 TP binding vote; proposals: super clip 250→350kW, energy 9→6MJ; 50G Bearman crash driving safety agenda; 50km/h speed differential; WMSC approval needed; goal: Miami May 1-3 | 1 | FOLLOW-UP |
+| 3 | Antonelli 72 pts (leads by 9 over Russell 63); youngest-ever F1 championship leader: 19 yrs 216 days; broke Hamilton's 2007 record (22y 5m 6d); Japan: pole→6th start→13.7s win; 2nd career victory; Leclerc 49, Hamilton 41, Norris 25, Piastri 21 | 1 | FOLLOW-UP |
+| 4 | Miami GP May 1-3 sprint weekend; Bahrain (Apr 10-12) and Saudi (Apr 17-19) cancelled; 5-week break; sprint qualifying Friday, sprint race Saturday, GP Sunday 16:00 EDT; 57 laps / 5.412km | 2 | FOLLOW-UP |
+| 5 | Verstappen Nurburgring NLS3 April 11 (possible); AMG GT3 Verstappen Racing #3; NLS qualifiers April 18-19 confirmed; 24H Nurburgring May 16; racing outlet during F1 break | 2 | FOLLOW-UP |
+| 6 | Ferrari Monza filming day April 22 confirmed; Hamilton/Leclerc share SF-26; test: revised floor (Bahrain spec), ADUO PU software (~25hp), Macarena rear wing; also Mugello/Fiorano sessions; goal: close gap for Miami | 2 | FOLLOW-UP |
+| 7 | Constructors after 3 races: Mercedes 135 pts (Antonelli 72, Russell 63), Ferrari 90 (Leclerc 49, Hamilton 41), McLaren 46 (Norris 25, Piastri 21), Red Bull 16 pts; 2026 regs reset competitive order | 3 | FOLLOW-UP |
+
+---
+
+### STORY 1: Verstappen/Red Bull "Midfield Battle" Crisis
+- **Tier:** 1
+- **Category:** Driver/Team News / Technical Crisis
+- **Key facts:** Verstappen post-Japan: Red Bull in "midfield battle." 16 pts through 3 races. Wind tunnel aging/inadequate for 2026 regs. China: 1.7s/lap slower than race winner. Red Bull admitted "significant shortcomings." Verstappen 9th, -60 from Antonelli. Exit clause Aug-Oct 2026. Sabbatical (not retirement) per ESPN. Called cars "terrible" and "Mario Kart." Departures: Horner, Marko, Schack (mechanic 20+ years), Courtenay, Skinner.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Red Bull Miami upgrades; exit clause clock; April 20 regulation outcome
+
+### STORY 2: FIA Technical Meeting Day 2 — April 20 Vote
+- **Tier:** 1
+- **Category:** Regulation / Safety
+- **Key facts:** Day 2 of two-day technical meeting. Yesterday: tech reps only, discussion/no binding decision. Today: second technical meeting to frame April 20 agenda. April 20: TP binding vote (WMSC approval needed). Proposals: super clip 250→350kW; energy recovery 9→6MJ. Root cause: Bearman ~50G crash Spoon Curve; 50km/h boost vs. energy-saving differential. Goal: Miami May 1-3 implementation.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** April 20 vote outcome; which proposals pass; Miami implementation
+
+### STORY 3: Antonelli Championship Lead — Youngest-Ever F1 Leader
+- **Tier:** 1
+- **Category:** Championship / Driver
+- **Key facts:** Antonelli: 72 pts (leads by 9). Russell: 63 pts. Leclerc: 49. Hamilton: 41. Norris: 25. Piastri: 21. Verstappen: 9th, 16 pts. Antonelli: youngest-ever F1 championship leader (19 yrs 216 days). Previous record: Hamilton, 22y 5m 6d (2007 Spanish GP). Japan win: pole → 6th (slow start) → 13.7s clear of Piastri. Qualifying: 1m 28.778s, 0.298s ahead of Russell.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Mercedes intra-team battle; Ferrari/McLaren gap; Miami performance
+
+### STORY 4: Miami GP Sprint Weekend — May 1-3
+- **Tier:** 2
+- **Category:** Race Preview
+- **Key facts:** Miami GP: May 1-3. Sprint weekend. Friday: sprint qualifying. Saturday: sprint race. Sunday: GP, 16:00 EDT, 57 laps, 5.412km. Bahrain (Apr 10-12) and Saudi (Apr 17-19) cancelled. 5-week break.
+- **Status:** FOLLOW-UP
+
+### STORY 5: Verstappen Nurburgring NLS3
+- **Tier:** 2
+- **Category:** Driver Activities
+- **Key facts:** NLS3 April 11 (possible — single GPFans source, MEDIUM). NLS qualifiers April 18-19 (HIGH). 24H Nurburgring May 16 (HIGH). Mercedes-AMG GT3. Verstappen Racing No. 3.
+- **Status:** FOLLOW-UP
+- **Fact note:** NLS3 April 11 is MEDIUM confidence — single source
+
+### STORY 6: Ferrari Monza Test April 22
+- **Tier:** 2
+- **Category:** Technical / Team Preparation
+- **Key facts:** Monza filming day April 22 confirmed. Hamilton/Leclerc share. Test: revised floor (Bahrain spec), ADUO PU software (~25hp, MEDIUM estimate), Macarena rear wing (China stability issues). Also Mugello/Fiorano sessions. Leclerc 49 pts, Hamilton 41 pts.
+- **Status:** FOLLOW-UP
+- **Fact note:** ADUO ~25hp gain is MEDIUM — single source estimate
+
+### STORY 7: 2026 Constructors Standings
+- **Tier:** 3
+- **Category:** Championship Standings
+- **Key facts:** Mercedes: 135 pts (Antonelli 72, Russell 63). Ferrari: 90 pts (Leclerc 49, Hamilton 41). McLaren: 46 pts (Norris 25, Piastri 21). Red Bull: 16 pts (Verstappen + Hadjar combined). 2026 regs: 50/50 electric/ICE, active aero, no DRS, MGU-K 350kW.
+- **Status:** FOLLOW-UP
+
+---
+
 ## 2026-04-09
 
 | # | Story | Tier | Tag |
