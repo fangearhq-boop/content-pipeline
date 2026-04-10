@@ -1,11 +1,23 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-09
+- **Date**: 2026-04-10
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-10
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-04-10.xlsx (9 posts) + hh-postplanner-tobi-2026-04-10.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-10/review-dashboard.html (28 items)
+- **Notes:** Knicks 112-106 Celtics (Brunson 25/10, Hart 26/15 in Q4; Knicks 52-28, one game ahead of Cavs for No. 3 East; Celtics No. 2 locked; Brown out Achilles); Lakers 119-103 Warriors (LeBron 26/11 ast; Curry rested knee; Warriors 38-42 locked No. 10 play-in; final home game); SGA MVP race — 88/100 ESPN votes, -400 odds, 31.6 PPG/55.3% FG, 2 games left; Wemby day-to-day rib, needs 20+ min in 1 of 2 remaining games; Kon Knueppel 265 3PT (shatters Keegan Murray's 206 rookie record by 59); East play-in war: Hawks 45-35, Raptors 44-35, Magic 44-36, Sixers 43-36, Hornets 43-37, Heat 41-38; season ends April 12; Play-In April 14-17; Playoffs April 18.
+- **Fact concerns:** All core facts HIGH from ESPN, NBA.com, Bleacher Report, CBS Sports, Yahoo Sports. DraftKings odds MEDIUM (odds-site sourcing). All LOW confidence claims excluded.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with previous runs)
 
 ### 2026-04-09
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

@@ -2,6 +2,68 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-10
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks 112-106 Celtics; Brunson 25/10 ast, Hart 26 pts (15 in Q4); all 5 starters double figures; Knicks 52-28, one game ahead of Cavs (51-29) for No. 3 East; hold H2H tiebreaker; Celtics (54-26) No. 2 locked; Brown out Achilles tendinitis | 1 | FOLLOW-UP |
+| 2 | Lakers 119-103 Warriors; LeBron 26 pts (11-17 FG, 3 3PT), 11 ast, 8 reb; Curry out (knee management); Warriors 38-42 locked No. 10 play-in; final home game at Chase Center; Lakers 51-28 No. 4 West; Luka out season | 1 | FOLLOW-UP |
+| 3 | SGA MVP race: 2 games left; 31.6 PPG/55.3% FG/4.4 reb/6.5 ast; ESPN straw poll 88/100; DraftKings -400; Wemby (24.9/11.6/3.1) day-to-day rib contusion, needs 20+ min in 1 of 2 remaining games for MVP/DPOY/All-NBA eligibility | 1 | FOLLOW-UP |
+| 4 | Kon Knueppel (CHO) 265 3PT made; shatters NBA rookie record (Keegan Murray 206, 2022-23) by 59; 43% from deep, 7.9 att/game; broke Kemba Walker Hornets franchise record; No. 4 pick 2025 draft; No. 1 final Kia Rookie Ladder | 2 | NEW STORY |
+| 5 | East play-in race: Hawks 45-35, Raptors 44-35, Magic 44-36, Sixers 43-36, Hornets 43-37, Heat 41-38; only 2.5 games from 5 to 9; 2-3 games left; seeds 5-6 avoid play-in; seeds 7-10 enter play-in April 14 | 2 | FOLLOW-UP |
+| 6 | Regular season finale preview: ends April 12; unresolved: Knicks No. 3, West No. 3 seed (Nuggets 10-game streak), East 5-9 order, Wemby eligibility; Play-In April 14-17; Playoffs April 18 | 2 | FOLLOW-UP |
+| 7 | Projected playoff bracket: East — Pistons/Celtics top seeds; Knicks vs Raptors, Cavs vs Hawks; West — Thunder/Spurs top seeds; Nuggets vs Wolves, Lakers vs Rockets; West play-in: Suns/Clippers/Blazers/Warriors | 3 | FOLLOW-UP |
+
+---
+
+### STORY 1: Knicks 112-106 Celtics — Brunson 25/10, Hart 26
+- **Tier:** 1
+- **Category:** Game Recap / East Seeding
+- **Key facts:** Knicks 112, Celtics 106. Brunson: 25 pts, 10 ast. Hart: 26 pts (15 in Q4). All 5 starters in double figures. Celtics without Jaylen Brown (Achilles tendinitis). Knicks 52-28, one game ahead of Cavs (51-29) for No. 3 East seed. Knicks hold H2H tiebreaker — need 1 win in final 2 games to clinch No. 3.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Knicks clinching No. 3; Brown Achilles ahead of playoffs
+
+### STORY 2: Lakers 119-103 Warriors — LeBron 26/11, Curry Sits
+- **Tier:** 1
+- **Category:** Game Recap / Play-In / Playoff Seeding
+- **Key facts:** Lakers 119, Warriors 103. LeBron: 26 pts (11-17 FG, 3 threes), 11 ast, 8 reb. Curry out (right knee management). Warriors 38-42, locked No. 10 play-in. Final Chase Center home game. Lakers 51-28, No. 4 West. Luka out remainder of season (Grade 2 hamstring).
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Warriors play-in run; LeBron playoff form; Luka return timeline for playoffs
+
+### STORY 3: SGA MVP Race — Two Games Left
+- **Tier:** 1
+- **Category:** Award Race / Season Finale
+- **Key facts:** SGA: 31.6 PPG, 55.3% FG, 4.4 reb, 6.5 ast, 1.4 stl. ESPN straw poll: 88/100 first-place votes. DraftKings: -400 SGA, +1800 Wemby. Wemby: 24.9/11.6/3.1, day-to-day rib contusion, must play 20+ min in 1 of 2 remaining games for MVP/DPOY/All-NBA eligibility. Regular season ends April 12.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** MVP award announcement; Wemby's health and eligibility game
+
+### STORY 4: Kon Knueppel Breaks NBA Rookie 3PT Record
+- **Tier:** 2
+- **Category:** Rookie Achievement / Record
+- **Key facts:** Knueppel: 265 three-pointers made (with 2 games left). Keegan Murray's previous rookie record: 206 (2022-23). Margin: 59. Rate: 43% on 7.9 att/game. Also broke Kemba Walker Hornets franchise record. No. 4 overall pick, 2025 NBA Draft. No. 1 on final Kia Rookie Ladder (April 8).
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Rookie of Year award; final season total; Hornets outlook
+
+### STORY 5: East Play-In Race — Six Teams, Two Spots
+- **Tier:** 2
+- **Category:** East Standings / Play-In Race
+- **Key facts:** Hawks 45-35, Raptors 44-35, Magic 44-36, Sixers 43-36, Hornets 43-37, Heat 41-38. 2.5 games from 5 to 9. 2-3 games remaining. Seeds 5-6 avoid play-in; 7-10 enter play-in April 14.
+- **Status:** FOLLOW-UP
+
+### STORY 6: Season Finale — What's at Stake Sunday
+- **Tier:** 2
+- **Category:** Preview / Season Finale
+- **Key facts:** Regular season ends April 12. Unresolved: Knicks No. 3 East; West No. 3 (Nuggets 1.5 game lead); East 5-9 order; Wemby eligibility. Play-In April 14-17; Playoffs April 18.
+- **Status:** FOLLOW-UP
+
+### STORY 7: Playoff Bracket Preview
+- **Tier:** 3
+- **Category:** Playoffs Preview
+- **Key facts:** East: Pistons (1), Celtics (2), Knicks (3), Cavs (4) + TBD from play-in. West: Thunder (1), Spurs (2), Nuggets (3), Lakers (4), Rockets (5) + TBD from play-in. Play-in: West (Suns/Clippers/Blazers/Warriors); East TBD.
+- **Status:** FOLLOW-UP
+
+---
+
 ## 2026-04-09
 
 | # | Story | Tier | Tag |

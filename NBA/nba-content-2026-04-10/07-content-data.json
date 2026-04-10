@@ -1,0 +1,389 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-10",
+  "compiled_at": "2026-04-10T11:44:08.875459+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Knicks over Celtics, Hart 26",
+      "type": "Game recap"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1 — Seeding implications bold take",
+      "type": "Bold take"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — LeBron carries Lakers; Curry sits",
+      "type": "Game recap"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 — Warriors play-in lock angle",
+      "type": "Analysis"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — SGA MVP coronation incoming",
+      "type": "Award race"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Knueppel rookie 3PT record",
+      "type": "Historic record"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 5 — East play-in war",
+      "type": "Standings race"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — Season finale preview",
+      "type": "Preview"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7 — Playoff bracket preview",
+      "type": "Playoff preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks 112, Celtics 106 — Brunson 25/10, Hart 26; Seeding Battle Heats Up",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 9:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "JOSH HART: 26 points. 15 in the fourth quarter.\n\nKnicks 112, Celtics 106. New York moves to 52-28 — one game ahead of Cleveland for the No. 3 seed.\n\nBrunson 25/10. The Garden was ROCKING. #NewYorkForever #HoopHeroes #NBA",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Knicks now control the No. 3 seed.\n\n52-28. Head-to-head tiebreaker over Cleveland. One win in two games clinches it.\n\nThis is NOT the team anyone should want in the first round. #NewYorkForever #HoopHeroes",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever",
+            "#HoopHeroes"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 9:30 AM"
+      },
+      "article": {
+        "filename": "article-01-knicks-beat-celtics-brunson-hart-no3-seed.html",
+        "headline": "Knicks Beat Celtics 112-106: Hart 26, Brunson 25/10, No. 3 Seed Within Reach",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks 112-106 Celtics\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"Josh Hart New York Knicks\"\n- **Overlay text:** \"HART 26 | BRUNSON 25/10 | KNICKS 112, CELTICS 106\"\n- **Sub-text:** \"No. 3 SEED IN SIGHT\"\n- **Design notes:** Action shot of Hart mid-celebration or driving. Deep orange (#FF5722) headline bar at bottom. #HoopHeroes watermark bottom-right.\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms (Imagn):** \"Jalen Brunson New York Knicks\"\n- **Overlay text:** \"KNICKS CONTROL THEIR DESTINY\"\n- **Sub-text:** \"Brunson 25 pts, 10 ast | New York 52-28\"\n- **Design notes:** Wide horizontal shot of Brunson with ball. Semi-transparent midnight bar behind text. Hoop Heroes logo corner.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks 112-106 Celtics\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Final score: Knicks 112, Celtics 106 | HIGH | ESPN game recap, NBA.com game summary |\n| Jalen Brunson: 25 points, 10 assists | HIGH | Bleacher Report, CBS Sports |\n| Josh Hart: 26 points (15 in 4th quarter) | HIGH | Bleacher Report |\n| All five Knicks starters in double figures | HIGH | Bleacher Report |\n| Jaylen Brown out: left Achilles tendinitis | HIGH | ESPN, CBS Sports |\n| Knicks record after win: 52-28 | HIGH | CBS Sports, ESPN |\n| Celtics record: 54-26 (No. 2 seed locked) | HIGH | CBS Sports |\n| Cavaliers record: 51-29 | HIGH | CBS Sports |\n| Knicks one game ahead of Cavs for No. 3 seed | HIGH | CBS Sports, Bleacher Report |\n| Knicks hold head-to-head tiebreaker over Cavs | HIGH | Bleacher Report |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LeBron Carries Lakers Past Warriors 119-103 — Curry Sits Out",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM, 11:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LeBron James. 26 points. 11 assists. 8 rebounds. Shooting 11-of-17.\n\nWithout Luka. Without Curry on the other side.\n\nLakers 119, Warriors 103. King James is READY for the playoffs. #LakeShow #HoopHeroes #NBA",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Warriors rested Steph Curry in their final home game of the regular season.\n\nGolden State is locked into the No. 10 play-in seed. Their only path to the playoffs runs through two straight wins starting April 14.\n\nNo easy road. #DubNation #HoopHeroes",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#DubNation",
+            "#HoopHeroes"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM, 11:30 AM"
+      },
+      "article": {
+        "filename": "article-02-lebron-26-11-lakers-beat-warriors-curry-sits.html",
+        "headline": "LeBron's 26 and 11 Carries Lakers Past Warriors 119-103 as Curry Sits Out",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lakers 119-103 Warriors\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"LeBron James Los Angeles Lakers\"\n- **Overlay text:** \"LEBRON: 26 PTS | 11 AST | 8 REB\"\n- **Sub-text:** \"Lakers 119, Warriors 103\"\n- **Design notes:** Vertical action shot of LeBron driving or at rim. Royal blue (#1565C0) stat bar overlay at bottom. Clean background above for brand kit application.\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms (Imagn):** \"LeBron James Lakers Chase Center\"\n- **Overlay text:** \"KING JAMES IS READY\"\n- **Sub-text:** \"26 PTS | 11 AST | Playoffs April 18\"\n- **Design notes:** Landscape celebration or post-game shot. Warm lighting preferred.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lakers 119-103 Warriors\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Final score: Lakers 119, Warriors 103 | HIGH | ESPN recap, NBA.com |\n| LeBron James: 26 points, 11 assists, 8 rebounds | HIGH | ESPN recap |\n| LeBron shooting: 11-of-17 FG, 3 threes | HIGH | ESPN recap |\n| Curry did not play (knee management) | HIGH | ESPN, Press Democrat |\n| Warriors locked into No. 10 seed play-in | HIGH | ESPN, CBS Sports |\n| Thursday was Warriors' final home game | HIGH | ESPN |\n| Lakers record: 51-28 (No. 4 West) | HIGH | CBS Sports |\n| Luka Doncic out for season (Grade 2 hamstring) | HIGH | ESPN, multiple sources |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Two Games Left — SGA's MVP Coronation Is Near",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "88 of 100 ESPN voters have SGA as MVP. DraftKings odds: -400.\n\n31.6 PPG. 55.3% shooting. OKC's 65-win season.\n\nTwo regular season games left. It's happening. #ThunderUp #HoopHeroes #NBA",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-sga-mvp-race-wemby-eligibility-two-games-left.html",
+        "headline": "SGA's Second MVP Is Two Games Away — and Wemby's Award Eligibility Hangs in the Balance",
+        "word_count": 641
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SGA MVP Race\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Overlay text:** \"SGA: 31.6 PPG | 55.3% FG\"\n- **Sub-text:** \"88 OF 100 MVP VOTES. 2 GAMES LEFT.\"\n- **Design notes:** Vertical shot of SGA scoring or dribbling. Accent gold (#FFC107) for the stat numbers. Dark midnight overlay bar.\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms (Imagn):** \"Shai Gilgeous-Alexander Thunder\"\n- **Overlay text:** \"MVP SEASON IS ALMOST OVER\"\n- **Sub-text:** \"SGA favored -400 | Season ends April 12\"\n- **Design notes:** Horizontal court shot. Clean composition.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "SGA MVP Race\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| SGA averages: 31.6 PPG, 55.3% FG, 4.4 reb, 6.5 ast, 1.4 stl | HIGH | ESPN straw poll article |\n| ESPN straw poll: SGA 88 of 100 first-place votes | HIGH | ESPN |\n| DraftKings odds: SGA -400, Wemby +1800 | MEDIUM | Heavy.com odds tracking |\n| Wemby averages: 24.9 PPG, 11.6 RPG, 3.1 APG | HIGH | NBA.com Kia MVP Ladder |\n| Wemby day-to-day with rib contusion | HIGH | Multiple sources (prior reporting) |\n| Wemby needs 20+ min in 1 of 2 remaining games | HIGH | NBA.com, ESPN |\n| NBA regular season ends Sunday April 12 | HIGH | NBA.com |\n| Two regular season games remaining | HIGH | Schedule confirmed |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Kon Knueppel Shatters NBA Rookie 3-Point Record — 265 and Counting",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kon Knueppel: 265 three-pointers this season.\n\nThe previous NBA rookie record? 206 (Keegan Murray, 2022-23).\n\n43% from deep. 3.4 makes per game. He shattered it by 59. Historic. #BuzzCity #HoopHeroes #NBA",
+          "posting_time": "3:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#BuzzCity",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM"
+      },
+      "article": {
+        "filename": "article-04-kon-knueppel-rookie-3pt-record-265.html",
+        "headline": "Kon Knueppel Obliterates NBA Rookie Three-Point Record With 265 Makes and Counting",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kon Knueppel Rookie 3PT Record\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"Kon Knueppel Charlotte Hornets\"\n- **Overlay text:** \"265 THREES. NEW ROOKIE RECORD.\"\n- **Sub-text:** \"Keegan Murray's record (206) obliterated by 59\"\n- **Design notes:** Action shot of Knueppel shooting a three. Accent gold (#FFC107) highlight. Record-breaking celebration feel.\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms (Imagn):** \"Kon Knueppel Hornets\"\n- **Overlay text:** \"HISTORY MADE IN CHARLOTTE\"\n- **Sub-text:** \"43% from deep | No. 1 Kia Rookie Ladder\"\n- **Design notes:** Landscape celebration shot or shooting form. Wide composition.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kon Knueppel Rookie 3PT Record\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Knueppel has 265 made three-pointers | HIGH | NBA.com Rookie Ladder (April 8) |\n| Keegan Murray's previous rookie record: 206 (2022-23) | HIGH | Multiple sources including NBA.com |\n| Knueppel making 3s at 43% rate | HIGH | NBA.com Rookie Ladder |\n| Averaging 3.4 makes on 7.9 attempts per game | HIGH | NBA.com Rookie Ladder |\n| Knueppel also broke Kemba Walker's Hornets franchise record | HIGH | WCNC Charlotte, Yahoo Sports |\n| Knueppel was No. 4 overall pick in 2025 NBA Draft | HIGH | NBA.com |\n| Knueppel ranks No. 1 on final Kia Rookie Ladder (April 8) | HIGH | NBA.com |\n| Cooper Flagg No. 2 on final Rookie Ladder | HIGH | NBA.com |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "East's Wild Play-In War — Six Teams, Two Spots, Two Games Left",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "East standings with 2-3 games left:\n\nNo. 5 Hawks: 45-35\nNo. 6 Raptors: 44-35\nNo. 7 Magic: 44-36\nNo. 8 Sixers: 43-36\nNo. 9 Hornets: 43-37\nNo. 10 Heat: 41-38\n\nOnly seeds 5 and 6 skip the play-in. Chaos. #HoopHeroes #NBA",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM"
+      },
+      "article": {
+        "filename": "article-05-east-play-in-race-six-teams-two-spots.html",
+        "headline": "Six Teams, Two Spots: The East's Play-In Race Comes Down to the Wire",
+        "word_count": 609
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "East Play-In War\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"Atlanta Hawks Trae Young\"\n- **Overlay text:** \"6 TEAMS. 2 SPOTS. 2 GAMES LEFT.\"\n- **Sub-text:** \"East Play-In Race | Season Ends April 12\"\n- **Design notes:** Action shot of Hawks player. Clean vertical. Stat/standings list as text overlay.\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms (Imagn):** \"NBA playoffs bracket standings\"\n- **Overlay text:** \"THE EAST PLAY-IN RACE IS ON\"\n- **Design notes:** Wide shot. Race/competition feel.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "East Play-In Race\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Atlanta Hawks: 45-35 (No. 5 East) | HIGH | CBS Sports, Yahoo Sports |\n| Toronto Raptors: 44-35 (No. 6) | HIGH | CBS Sports |\n| Orlando Magic: 44-36 (No. 7) | HIGH | CBS Sports |\n| Philadelphia 76ers: 43-36 (No. 8) | HIGH | CBS Sports |\n| Charlotte Hornets: 43-37 (No. 9) | HIGH | CBS Sports |\n| Miami Heat: 41-38 (No. 10) | HIGH | CBS Sports |\n| Only 2.5 games separate No. 5 and No. 9 | HIGH | CBS Sports, Yahoo Sports |\n| Play-In Tournament begins April 14 | HIGH | NBA.com |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "NBA Regular Season Finale — What's at Stake Sunday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The 2025-26 NBA regular season ends SUNDAY.\n\nStill TBD: No. 3 West seed. East play-in order. Wemby's award eligibility.\n\nPlay-In: April 14. Playoffs: April 18.\n\nThe race isn't over yet. #HoopHeroes #NBA",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Season Finale\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"NBA regular season finale April\"\n- **Overlay text:** \"REGULAR SEASON ENDS SUNDAY\"\n- **Sub-text:** \"Play-In: April 14 | Playoffs: April 18\"\n- **Design notes:** Dramatic arena wide shot. End-of-season countdown feel.\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Season Finale\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Regular season ends April 12 | HIGH | NBA.com |\n| Play-In Tournament: April 14-17 | HIGH | NBA.com |\n| NBA Playoffs begin April 18 | HIGH | NBA.com |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Playoff Bracket Preview — Who Plays Who April 18",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Projected NBA first-round matchups:\n\nWEST: Thunder vs. TBD | Spurs vs. TBD | Nuggets vs. Wolves | Lakers vs. Rockets\nEAST: Pistons vs. TBD | Celtics vs. TBD | Knicks vs. Raptors | Cavs vs. Hawks\n\nPlayoffs tip April 18. Which matchup are you most excited for? #HoopHeroes #NBA",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Playoff Bracket Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms (Imagn):** \"NBA playoffs 2026\"\n- **Overlay text:** \"2026 NBA PLAYOFFS\"\n- **Sub-text:** \"First Round Begins April 18\"\n- **Design notes:** Trophy or arena atmosphere shot. Bold clean text overlay.\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Playoff Bracket\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| No. 1 East: Detroit Pistons | HIGH | Multiple sources |\n| No. 2 East: Boston Celtics | HIGH | Multiple sources |\n| No. 1 West: Oklahoma City Thunder | HIGH | Multiple sources |\n| No. 2 West: San Antonio Spurs | HIGH | Multiple sources |\n| West play-in: Suns, Clippers, Trail Blazers, Warriors | HIGH | CBS Sports, Yahoo |\n| No. 3 West: Nuggets (1.5 games ahead of Lakers/Rockets) | MEDIUM | ESPN, CBS Sports (standings fluctuating) |\n## Sources Used\n- ESPN: Knicks-Celtics recap, Lakers-Warriors recap, MVP straw poll\n- NBA.com: Game summaries, Rookie Ladder, standings, MVP Ladder\n- CBS Sports: Playoff picture standings piece\n- Bleacher Report: Knicks seeding article\n- Yahoo Sports: Playoff clinching scenarios\n- Press Democrat (Santa Rosa): Curry ruled out for Lakers game\n- WCNC Charlotte / National Today: Knueppel 3PT record\n- Heavy.com: MVP odds tracking",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
