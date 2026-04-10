@@ -20,6 +20,10 @@ photo_source: "none"
 platforms:
   - x_twitter
 timezone: "CT"
+# 12 slots = MAXIMUM available windows, not a daily target.
+# Only use a slot if there is genuinely interesting/newsworthy content for it.
+# A slow day with 4-5 real stories should produce 4-5 tweets, not 12.
+# Never manufacture filler content to fill slots.
 default_schedule:
   - time: "7:00 AM"
     content_type: "Morning news / overnight recap"
@@ -28,19 +32,23 @@ default_schedule:
   - time: "9:30 AM"
     content_type: "Stat breakdown / informative"
   - time: "10:45 AM"
-    content_type: "Humor / rival jab"
+    content_type: "Analysis / rival watch"
   - time: "12:00 PM"
     content_type: "Game preview or midday update"
-  - time: "1:30 PM"
+  - time: "1:15 PM"
     content_type: "Bold take / passionate statement"
-  - time: "3:00 PM"
-    content_type: "Analysis / feature"
-  - time: "4:30 PM"
-    content_type: "Afternoon news / roster update"
-  - time: "6:00 PM"
+  - time: "2:30 PM"
+    content_type: "Roster news / injury update"
+  - time: "3:45 PM"
+    content_type: "Feature / deep-dive / prospect update"
+  - time: "5:00 PM"
     content_type: "Pre-game hype or evening news"
-  - time: "7:30 PM"
-    content_type: "Game time / in-game reaction / post-game recap"
+  - time: "6:30 PM"
+    content_type: "Game time / first pitch hype"
+  - time: "8:00 PM"
+    content_type: "In-game reaction / key moment"
+  - time: "9:30 PM"
+    content_type: "Post-game recap / witty closer"
 
 # Article config (disabled — Twitter-only pipeline)
 article_word_count_min: 0

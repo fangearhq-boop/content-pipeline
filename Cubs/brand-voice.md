@@ -132,9 +132,11 @@ What's your prediction for Horton's 2026 season?
 
 ## Posting Frequency Rule
 
+**12 tweets per day is the MAXIMUM, not a target.** Only post when there is genuinely interesting or newsworthy content. If it's a slow news day with 4–5 real stories, tweet 4–5 times and stop. Never manufacture filler content to hit a quota.
+
 **Maximum 1 tweet per hour.** The only exception is breaking news (completed trade, major injury, fired manager, walkoff in extra innings, no-hitter in progress, etc.). Never post back-to-back tweets within 60 minutes for routine content — game previews, stat breakdowns, roster updates, and bold takes all count as routine.
 
-On non-game days, 4–5 posts is ideal. On game days with meaningful action, up to 7 posts is acceptable using the full default schedule.
+**No filler.** If the only way to fill a time slot is to post something generic, skip the slot. A day with 5 great tweets beats a day with 10 tweets where half are forgettable.
 
 ## X/Twitter: What We NEVER Post
 
