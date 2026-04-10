@@ -2,6 +2,50 @@
 
 ---
 
+## April 10, 2026
+
+### Story 1: CPSC Warning — "Relaxing Baby" Swim Floats (Drowning Death)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC emergency warning: stop using "Relaxing Baby" inflatable swim floats; 2-year-old drowning death confirmed; blue/green inflatable seat floats, ages 3-36 months; sold Amazon + eBay; seller Wu He/Relaxing Baby (China) unresponsive to CPSC recall requests; action: puncture and dispose, do not resell)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** One 2-year-old drowning death (cpsc.gov + 10+ TV affiliates); blue/green, ages 3-36 months; sold Amazon + eBay; seller unresponsive; puncture and dispose; do not sell/donate
+- **Follow-Up Opportunities:** Water safety guide for summer; swim lesson resources in COS; CPSC recall roundup
+
+### Story 2: Bellabu Bear Children's Sherpa Robes Recalled — Burn Hazard
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Bellabu Bear recalls bamboo sherpa robes for kids; burn hazard — fails mandatory flammability standards; PAW Patrol, Minecraft, Batman, Minions, and other character prints; sold Saks Fifth Avenue + online Jan 2024-Jul 2025; ~$60; sizes S/M and M/L; no injuries; full refund or store credit; phone 888-703-7752)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Bamboo sherpa robes; model identifier BB-NW12109 on neck label; burn hazard (flammability failure); sold Jan 2024-Jul 2025; ~$60; Saks + online; sizes S/M + M/L; no injuries; refund via 888-703-7752 or help@bellabubear.com
+- **Follow-Up Opportunities:** Children's sleepwear safety guide; CPSC recall roundup
+
+### Story 3: D49 Opening Two New ECE Classrooms at Student Success Center for Fall 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 ECE expanding: two new classrooms at Student Success Center; August 2026 start; full-day preschool available for SY 2026-27; serves east Colorado Springs, Falcon, Peyton and surrounding communities)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Two new ECE classrooms; D49 Student Success Center; August 2026; full-day preschool available; east-side COS service area
+- **Follow-Up Opportunities:** D49 enrollment/registration details; childcare desert follow-up; D11/D20 ECE expansion comparison
+
+### Story 4: Bear Creek Nature Center April 2026 Family Programs
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Three Bear Creek spring programs: April 10 Nature Tots 2-3 yr olds $3; April 17 Free Early Literacy Event for deaf/HoH families birth-8, with CSDB, register outreach@csdb.org; April 23 Homeschool programs $4/person; all require prepaid registration)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** April 10 Nature Tots (2-3 yr olds, $3, 10am/2pm); April 17 Early Literacy (birth-8, free, CSDB partnership, outreach@csdb.org); April 23 Homeschool (1pm-3:30pm, $4, ages 7+ drop-off); Bear Creek = El Paso County Parks
+- **Follow-Up Opportunities:** Bear Creek summer program guide; El Paso County Parks spring event roundup
+
+### Story 5: Outdoor Play Research Roundup — Spring Benefits for COS Kids
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (Research roundup: outdoor/green space play reduces anxiety/depression; improves focus/creativity/emotional regulation; ADHD milder in green settings; serotonin + cortisol benefits; COS-specific context with trails/parks; evergreen spring content)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 3
+- **Key Facts:** ADHD milder in green settings (PMC research + childmind.org); outdoor play reduces anxiety/depression (multiple research sources); cortisol reduction from nature time; UConn KIDS April 2026 post confirms relevance; COS has 100+ parks, 200+ miles trails
+- **Follow-Up Opportunities:** COS outdoor activity guide by age; playground guide; best spring hikes for families
+
+---
+
 ## April 9, 2026
 
 ### Story 1: D11 Moving Orton Academy Into Trailblazer Elementary for 2026-27
