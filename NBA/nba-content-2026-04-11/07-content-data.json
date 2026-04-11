@@ -1,0 +1,369 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-11",
+  "compiled_at": "2026-04-11T11:19:05.210541+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Wemby 40 pts, locks in eligibility",
+      "type": "Game recap"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1 — Award eligibility drama resolved",
+      "type": "Analysis"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — LeBron 28/12, Lakers beat Suns",
+      "type": "Game recap"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 — Lakers West seeding locked",
+      "type": "Analysis"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Knicks clinch No. 3 East seed",
+      "type": "Clinching"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — OKC clinches No. 1 seed, best record",
+      "type": "Clinching"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 5 — East play-in race final day",
+      "type": "Standings"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — West No. 3 seed battle final day",
+      "type": "Standings"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7 — Play-In Tournament preview",
+      "type": "Preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Wembanyama Plays 40 Points, Secures Award Eligibility — Spurs Win vs. Mavs",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 9:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "WEMBY PLAYED THROUGH IT.\n\n40 points. 26 minutes. Rib contusion and all.\n\nVictor Wembanyama just played his 65th game — locking in his MVP, DPOY, and All-NBA eligibility.\n\nThe drama is over. The season is saved. #GoSpursGo #HoopHeroes #NBA",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Wembanyama postgame: \"If I had had 65 [games] before, I would, for sure, not have played.\"\n\nHe played anyway. 40 points. Award eligible.\n\nThat's a competitor. #GoSpursGo #HoopHeroes",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#HoopHeroes"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 9:30 AM"
+      },
+      "article": {
+        "filename": "article-01-wembanyama-40-points-award-eligibility-secured.html",
+        "headline": "Wembanyama Plays Through Rib Injury, Scores 40, Secures Award Eligibility",
+        "word_count": 511
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama Award Eligibility\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Victor Wembanyama San Antonio Spurs\n- **Overlay text:** \"WEMBY PLAYS THROUGH IT / 40 POINTS / AWARD ELIGIBLE\"\n- **Font:** Bebas Neue (headline), Montserrat (stats)\n- **Colors:** Spurs silver/black with Hoop Heroes orange accent\n- **Mood:** Intense, dramatic — celebrating toughness\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Victor Wembanyama San Antonio Spurs\n- **Overlay text:** \"WEMBANYAMA SECURES AWARD ELIGIBILITY\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Lakers 101, Suns 73 — LeBron 28/12 ast, Lakers Secure West Seeding",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM, 11:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LeBron James. 28 points. 12 assists. Blowout win.\n\nLakers 101, Suns 73. No Luka. Doesn't matter.\n\nAt 41, LeBron is still carrying this team into the playoffs like it's nothing. #LakeShow #HoopHeroes #NBA",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 2-2",
+          "text": "No Luka. No problem.\n\nThe Lakers just dropped 101 on the Suns without Doncic.\n\nLeBron James has this team READY for the playoffs. West seeding is locked. Let's go. #LakeShow #HoopHeroes",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow",
+            "#HoopHeroes"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM, 11:30 AM"
+      },
+      "article": {
+        "filename": "article-02-lebron-28-12-lakers-blow-out-suns-101-73.html",
+        "headline": "LeBron James Posts 28 Points, 12 Assists as Lakers Dismantle Suns 101-73",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LeBron 28/12 vs. Suns\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** LeBron James Los Angeles Lakers\n- **Overlay text:** \"LEBRON / 28 PTS · 12 AST / READY FOR THE PLAYOFFS\"\n- **Font:** Bebas Neue (headline), Montserrat (stats)\n- **Colors:** Lakers purple/gold\n- **Mood:** Powerful, confident\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** LeBron James Los Angeles Lakers\n- **Overlay text:** \"LEBRON CARRIES LAKERS — 28/12 VS. SUNS\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Knicks Clinch No. 3 Seed — New York 112, Raptors 95",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "KNICKS ARE IN.\n\nNew York clinches the No. 3 seed in the East — 112-95 over Toronto.\n\nHome-court advantage. First-round locked. The Garden is going to be ELECTRIC in the playoffs. #NewYorkForever #HoopHeroes #NBA",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-knicks-clinch-no3-east-seed-raptors.html",
+        "headline": "Knicks Clinch No. 3 East Seed with 112-95 Win Over Raptors",
+        "word_count": 500
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Clinch No. 3 Seed\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** New York Knicks Madison Square Garden\n- **Overlay text:** \"NO. 3 SEED CLINCHED / KNICKS ARE IN / PLAYOFFS APRIL 18\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Knicks blue/orange\n- **Mood:** Celebration, championship energy\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Jalen Brunson New York Knicks\n- **Overlay text:** \"KNICKS CLINCH NO. 3 EAST SEED\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Thunder Win 64th — OKC Clinches West's No. 1 Seed and Best Record",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Oklahoma City Thunder: 64 wins. No. 1 seed. Best record in the NBA.\n\nSGA: 31.1 PPG. 6.6 ast. Back-to-back MVP.\n\nThis franchise went from rebuilding to the best team in basketball. Historic. #ThunderUp #HoopHeroes #NBA",
+          "posting_time": "3:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM"
+      },
+      "article": {
+        "filename": "article-04-okc-clinches-no1-seed-best-record-64-wins.html",
+        "headline": "Oklahoma City Thunder Clinch No. 1 Seed, Best Record in NBA with 64th Win",
+        "word_count": 484
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "OKC No. 1 Seed\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Shai Gilgeous-Alexander Oklahoma City Thunder\n- **Overlay text:** \"64 WINS · NO. 1 SEED / BEST TEAM IN BASKETBALL\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Thunder blue/orange\n- **Mood:** Dominant, historic\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Shai Gilgeous-Alexander Oklahoma City Thunder\n- **Overlay text:** \"OKC CLINCHES NO. 1 SEED — 64 WINS\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "East Play-In Race — Final Day April 12 Looms",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "East play-in picture entering the FINAL day:\n\nNo. 5 Hawks: fighting to hold\nNo. 6 Raptors: hosting Nets Sunday — must win\nNo. 7-10: locked into play-in chaos\n\nThe SoFi Play-In starts Tuesday, April 14. #HoopHeroes #NBA",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM"
+      },
+      "article": {
+        "filename": "article-05-east-play-in-race-final-day-hawks-raptors.html",
+        "headline": "East Play-In Race Heads to Final Day: Hawks and Raptors Hold the Line",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "East Play-In Race\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Atlanta Hawks State Farm Arena\n- **Overlay text:** \"EAST PLAY-IN RACE / ONE DAY LEFT / EVERYTHING ON THE LINE\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Hawks red/yellow with Hoop Heroes orange\n- **Mood:** Urgent, competitive\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** NBA basketball court arena\n- **Overlay text:** \"EAST PLAY-IN RACE — FINAL DAY\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "West No. 3 Seed Battle — Nuggets vs. Lakers on Final Day",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The West No. 3 seed is STILL up for grabs.\n\nNuggets lead after a 10-game win streak — but Lakers are right behind.\n\nBoth teams play Sunday. Winner gets the No. 3 seed. #MileHighBasketball #HoopHeroes #NBA",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#MileHighBasketball",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "West No. 3 Seed Battle\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Nikola Jokic Denver Nuggets\n- **Overlay text:** \"WEST NO. 3 SEED / NUGGETS VS. LAKERS / FINAL DAY\"\n- **Font:** Bebas Neue (headline), Montserrat (stats)\n- **Colors:** Nuggets gold/navy\n- **Mood:** Competitive, tense\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** Denver Nuggets basketball\n- **Overlay text:** \"10-GAME WIN STREAK / NUGGETS LEAD THE RACE\"\n- **Font:** Bebas Neue\n- **Colors:** Nuggets gold/navy with orange accent\n- **Mood:** Momentum, confidence\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "SoFi Play-In Tournament Preview — April 14-17, All on Prime Video",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "The 2026 SoFi Play-In Tournament starts Tuesday.\n\nWest: No. 7 Suns vs. No. 8 (Blazers/Clippers) — 10 PM ET\nEast: TBD — 7:30 PM ET\n\nALL on Prime Video. Win or go home. #HoopHeroes #NBA",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SoFi Play-In Tournament Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** NBA basketball court arena playoffs\n- **Overlay text:** \"2026 PLAY-IN TOURNAMENT / APRIL 14-17 / ALL ON PRIME VIDEO\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Hoop Heroes deep orange and royal blue\n- **Mood:** Exciting, preview energy\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** Phoenix Suns basketball arena\n- **Overlay text:** \"WIN OR GO HOME / PLAY-IN STARTS TUESDAY\"\n- **Font:** Bebas Neue\n- **Colors:** Suns orange/purple with Hoop Heroes accent\n- **Mood:** Urgency, drama"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

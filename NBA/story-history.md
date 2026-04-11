@@ -2,6 +2,71 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-11
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Wembanyama 40 pts (26:13 min) vs. Mavs; plays through rib contusion; secures 65th game, awards eligibility (MVP/DPOY/All-NBA); quote: "If I had had 65 before, I would, for sure, not have played"; Spurs No. 2 West | 1 | FOLLOW-UP |
+| 2 | Lakers 101, Suns 73; LeBron 28 pts, 12 ast; Dillon Brooks 12, Royce O'Neale 11/7reb/3stl (Suns); Luka out season; Lakers West seeding nearly set | 1 | FOLLOW-UP |
+| 3 | Knicks clinch No. 3 East seed — 112-95 over Raptors; Knicks 53-28; Raptors fall to No. 6, host Nets Sunday; Knicks home court locked for playoffs April 18 | 1 | FOLLOW-UP |
+| 4 | OKC clinches No. 1 West seed and best record (64-16) with win over Clippers; SGA 31.1 PPG/6.6 ast/4.3 reb; second straight MVP near-certain | 2 | FOLLOW-UP |
+| 5 | East play-in race final day: Hawks No. 5, Raptors No. 6 (host Nets Sunday); Hornets/Heat confirmed at 9-10; Magic/Sixers 7-8; Play-In April 14 | 2 | FOLLOW-UP |
+| 6 | West No. 3 seed battle final day: Nuggets half-game ahead of Lakers (10-game win streak); both teams play Sunday April 12; No. 3 faces Wolves, No. 4 faces Rockets | 2 | FOLLOW-UP |
+| 7 | Play-In preview: April 14-17, all on Prime Video; West No. 7 Suns vs. No. 8 (Blazers/Clippers); Playoffs begin April 18 | 3 | FOLLOW-UP |
+
+---
+
+### STORY 1: Wembanyama 40 Points — Award Eligibility Secured
+- **Tier:** 1
+- **Category:** Game Recap / Awards Eligibility
+- **Key facts:** Wembanyama scored 40 points in 26:13 minutes vs. Mavericks. 65th game of season — satisfies award eligibility threshold. Needed 20+ minutes. Rib contusion suffered April 6 (Paul George foul). Postgame quote: "If I had had 65 [games] before, I would, for sure, not have played." SGA still MVP favorite (-400 DraftKings, +1800 Wemby). Spurs No. 2 West.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** DPOY results; Wemby playoffs health; Spurs first-round matchup
+
+### STORY 2: Lakers 101, Suns 73 — LeBron 28/12
+- **Tier:** 1
+- **Category:** Game Recap / West Seeding
+- **Key facts:** Lakers 101, Suns 73. LeBron: 28 pts, 12 ast. Suns: Dillon Brooks 12 pts, Royce O'Neale 11 pts/7 reb/3 stl. Luka Doncic out rest of season (Grade 2 hamstring). Lakers West seeding nearly set.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Lakers first-round matchup; LeBron playoff form; Suns offseason
+
+### STORY 3: Knicks Clinch No. 3 East Seed
+- **Tier:** 1
+- **Category:** Game Recap / East Clinching
+- **Key facts:** Knicks 112, Raptors 95. Knicks clinch No. 3 East seed. Knicks 53-28. Raptors fall to No. 6, host Nets Sunday. Knicks home-court locked for playoffs April 18.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Knicks first-round matchup; playoff preview
+
+### STORY 4: OKC Clinches No. 1 Seed — 64 Wins, Best Record
+- **Tier:** 2
+- **Category:** Season Finale / Clinching
+- **Key facts:** OKC 64-16 (best record in NBA), No. 1 West seed clinched with win over Clippers. SGA: 31.1 PPG, 6.6 ast, 4.3 reb. Second consecutive MVP near-certain.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** SGA MVP announcement; OKC first-round matchup
+
+### STORY 5: East Play-In Race — Final Day
+- **Tier:** 2
+- **Category:** East Standings / Play-In Race
+- **Key facts:** Hawks No. 5, Raptors No. 6 (host Nets Sunday). Hornets and Heat confirmed 9-10. Magic and Sixers 7-8. Play-In starts April 14.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Sunday final results; Play-In matchups confirmed
+
+### STORY 6: West No. 3 Seed — Final Day
+- **Tier:** 2
+- **Category:** West Seeding / Season Finale
+- **Key facts:** Nuggets half-game ahead of Lakers for No. 3 West. Denver 10-game win streak. Both play Sunday. No. 3 faces Wolves; No. 4 faces Rockets.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Sunday final result determines bracket
+
+### STORY 7: SoFi Play-In Tournament Preview
+- **Tier:** 3
+- **Category:** Play-In Preview
+- **Key facts:** April 14-17. All games on Prime Video. West: Suns (7) vs. Blazers/Clippers (8). East TBD after Sunday. NBA Playoffs begin April 18.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Play-In results; who earns 7-8 seeds
+
+---
+
 ## 2026-04-10
 
 | # | Story | Tier | Tag |

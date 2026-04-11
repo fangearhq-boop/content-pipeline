@@ -1,11 +1,23 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-10
+- **Date**: 2026-04-11
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-11
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-04-11.xlsx (9 posts) + hh-postplanner-tobi-2026-04-11.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-11/review-dashboard.html (28 items)
+- **Notes:** Wembanyama 40 pts vs. Mavs, plays through rib contusion, secures 65th game and awards eligibility (MVP/DPOY/All-NBA); Lakers 101-73 Suns (LeBron 28/12 ast); Knicks clinch No. 3 East seed (112-95 Raptors); OKC clinches No. 1 West seed and best record in NBA (64-16 vs. Clippers, SGA 31.1 PPG second straight MVP); East play-in race final day (Hawks No. 5, Raptors No. 6 host Nets); West No. 3 battle (Nuggets half-game ahead of Lakers); Play-In preview April 14-17 on Prime Video.
+- **Fact concerns:** All core facts HIGH from Yahoo Sports, CBS Sports, FanDuel Research box scores, ESPN, Bleacher Report. SGA DraftKings odds MEDIUM (odds-site sourcing). All LOW confidence claims excluded.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-10
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
