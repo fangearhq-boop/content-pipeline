@@ -1,25 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 10, 2026
+## Latest Run: April 11, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | "Relaxing Baby" swim float CPSC warning (cpsc.gov + 10+ TV affiliates), Bellabu Bear robe recall (cpsc.gov + bellabubear.com), D49 ECE classrooms (d49.org), Bear Creek Nature Center April events (visitcos.com + CSDB), Outdoor play research (UConn KIDS + childmind.org + PMC) |
+| Research (web search) | COMPLETE | Tuyedoqe travel bassinet CPSC warning (cpsc.gov + CPSC social), AAP screen time guidelines update (aap.org + publications.aap.org + edsurge.com), Winnie the Pooh play (koaa.com), NFSVLB/YCXXKJ bath seat recalls (cpsc.gov), COS spring outdoor guide (climate-data.org + visitcos.com) |
 | Story History Check | COMPLETE | 5 NEW STORY — all verified against story history, no duplicates |
-| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 2 Tier 2, 1 Tier 3) |
 | Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
 | Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories, tier + pillar assignments |
-| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (char violations fixed, all under 280), 4 hashtags each |
-| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (char violations fixed on 2nd pass, all verified under 280), 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts; 0 exclamation marks in posts |
 | Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
 | Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next, 0 exclamation marks) |
-| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present in all files; 85 claims; 138 HIGH / 41 MEDIUM / 112 LOW (char violations fixed on second run) |
-| Compile | COMPLETE | 07-content-data.json (5 stories, 7 X posts, 5 articles, 5 image concepts) |
+| Fact-Check | COMPLETE | verify-facts.py passed on 3rd run — all 5 stories present; 80 claims; 117 HIGH / 7 MEDIUM / 140 LOW; char violations fixed on 2nd pass |
+| Compile | COMPLETE | 07-content-data.json (5 stories, 0 X posts parsed [same cosmetic issue as all prior Parenting runs], 5 articles) |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started |
-| Dashboard | COMPLETE | review-dashboard.html (22 items) |
-| PostPlanner Export | COMPLETE | Standard (7 posts X) cosp-postplanner-2026-04-10.xlsx + TOBI cosp-postplanner-tobi-2026-04-10.xlsx |
+| Dashboard | COMPLETE | review-dashboard.html (15 items) |
+| PostPlanner Export | COMPLETE | Standard (17 posts) cosp-postplanner-2026-04-11.xlsx + TOBI (12 posts) cosp-postplanner-tobi-2026-04-11.xlsx |
 | Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
 | WordPress Publish | Attempted — proxy blocks WP API (same environment restriction as all prior runs) | WP credentials were set; blocked by proxy |
+
+## Story Count by Pillar (2026-04-11)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 0 | 1-2 |
+| Local Events | 1 (Winnie the Pooh play at Fountain Creek) | 1-2 |
+| National Parenting | 3 (Tuyedoqe bassinet warning; AAP screen time guidelines; baby bath seat recalls) | 1-2 |
+| Evergreen | 1 (COS spring outdoor guide) | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 10, 2026
 
 ## Story Count by Pillar (2026-04-10)
 

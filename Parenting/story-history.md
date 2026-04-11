@@ -2,6 +2,50 @@
 
 ---
 
+## April 11, 2026
+
+### Story 1: CPSC Warning — Tuyedoqe Travel Bassinets (Strangulation + Fall Hazard)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC warning: stop using Tuyedoqe travel bassinets; strangulation risk from restraints + fall hazard from low sides; ~250 sold Amazon April-Oct 2025 ~$40; seller refused recall; action: stop, remove foam pad, cut cover, dispose)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~250 units; sold Amazon April-Oct 2025; ~$40; mesh canopy + 3 toy bears; Tuyedoqe (China) refused recall; CPSC issued Notice of Violation; no formal remedy available
+- **Follow-Up Opportunities:** Infant sleep product safety roundup; Amazon third-party baby product recall pattern story
+
+### Story 2: New AAP Screen Time Guidelines — No More 2-Hour Limit
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (February 2026 AAP policy statement "Digital Ecosystems, Children, and Adolescents" in Pediatrics journal; drops 2-hour daily time limit; new focus on quality of content and digital ecosystems vs. quantity; algorithmic commercial content flagged as harmful; child-centered design still supported)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Pediatrics journal vol. 157, Feb 2026; no fixed time limit recommended; "digital ecosystem" framework; algorithmic content displaces sleep/movement; first major update since 2016
+- **Follow-Up Opportunities:** Local pediatrician Q&A; age-by-age screen guide; best educational apps for COS families
+
+### Story 3: Interactive Winnie the Pooh Play at Fountain Creek Nature Center
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Theatre Across Borders; April 11 + 18 at Fountain Creek Nature Center at 10:30 AM; $10/person, ages 2 and under free; includes craft + 30-min show + nature hike with characters)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** April 11 and April 18 at 10:30 AM; Fountain Creek Nature Center (El Paso County Parks); $10 per person; ages 2-under free; craft + performance + hike; Bear Creek dates TBA
+- **Follow-Up Opportunities:** Bear Creek Nature Center spring performance dates; Theatre Across Borders summer schedule
+
+### Story 4: Baby Bath Seat Recall Wave — NFSVLB + YCXXKJ (Amazon)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (NFSVLB model ZY2025 recalled Jan 8, 2026; 1,430 units, Amazon May-Oct 2025, $25-$40; YCXXKJ sold by BenTalk also recalled; both tip-over + entrapment risk; violation of mandatory ASTM F1967 standard)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** NFSVLB model ZY2025; 1,430 units; $25-$40; blue-and-white; recall Jan 8, 2026; YCXXKJ (BenTalk) also recalled; action: mark "Recalled", disassemble, cut suction cups, send photo for refund
+- **Follow-Up Opportunities:** Complete 2026 baby bath product recall roundup; safe bath time guide
+
+### Story 5: COS Spring Outdoor Guide for Families — April 2026
+- **Content Pillar:** Evergreen / Local Events
+- **Angle:** NEW STORY (April COS weather: ~62F highs, 10+ hours sunshine, ~6 snowy days; active weather weekend passed; top free outdoor spots: Garden of the Gods, Bear Creek, Fountain Creek, Stratton Open Space; Cheyenne Mountain Zoo)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 3
+- **Key Facts:** Average high 62F/17C; 10.1 hours sunshine daily (climate-data.org); ~6 snowy days in April; Garden of the Gods free; Bear Creek + Fountain Creek El Paso County Parks; Stratton Open Space 383 acres
+- **Follow-Up Opportunities:** Best COS hiking trails by age; Cheyenne Mountain Zoo spring update; summer outdoor activities guide
+
+---
+
 ## April 10, 2026
 
 ### Story 1: CPSC Warning — "Relaxing Baby" Swim Floats (Drowning Death)
