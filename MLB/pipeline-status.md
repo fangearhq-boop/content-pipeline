@@ -1,6 +1,12 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-11
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches), brief (7 stories), research notes, story analysis, X posts (10), FB posts (7), image concepts, image manifest, articles (5), fact-check (49 claims, 0 char violations, 0 consistency errors after Story 6 demoted to Tier 3), compile (JSON compiled, 0 errors), dashboard (36 items), PostPlanner exports (10 posts X, 10 TOBI posts), WordPress publish attempted.
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/ (push failed: PAT scope on content-dashboards repo, known issue)
+- **Issues**: publish-unified-dashboard.py 403 on push (PAT scope, known). WordPress 403 (proxy sandbox, known). Story 6 demoted to Tier 3 (no article — 5 articles meet minimum). IMAGE MISSING expected (not_started). FB posts compile to 0 (heading format — known issue).
+
+## Previous Run
 - **Date**: 2026-04-09
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (web searches via agent), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts (9), image manifest, articles (5), fact-check (25 claims, 0 char violations, 1 consistency warning: Story 6 missing article by design), compile, dashboard, publish (pushed to content-dashboards), PostPlanner exports (23 posts, 16 TOBI posts). WordPress publish skipped — credentials not in session + known proxy block on fanrumor.com.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

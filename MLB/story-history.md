@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-11
+
+### Story 1: Braves Power Past Guardians — Acuña, Olson, Harris All Go Deep
+- **Angle:** NEW STORY. April 10 game at Truist Park: Ronald Acuña Jr., Matt Olson, Michael Harris II all homered off Slade Cecconi. Braves improved to 9-5; Guardians fell to 8-6. Both teams entered at 8-5.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Atlanta series win vs Cleveland; Braves NL East standings; Baldwin ongoing RBI total
+
+### Story 2: Yankees Fall to Rays 5-3 — Luis Gil's Debut Struggles
+- **Angle:** FOLLOW-UP (Yankees pitching dominance). April 10 loss at Tropicana. Luis Gil's 2026 debut uneven; Yandy Díaz hit go-ahead 2-run HR off hanging slider. Ben Rice homered late. Yankees dropped to 8-4 — second consecutive loss from 8-2 start.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Gil next start; Yankees rotation without Cole/Rodon; Rays series results
+
+### Story 3: Max Muncy Hits 3 Home Runs as Dodgers Beat Rangers
+- **Angle:** NEW STORY. April 10 game at Dodger Stadium (Ohtani Bobblehead Night). Muncy slugged 3 HRs. Ohtani received intentional walk during game. Tyler Glasnow started for LA. Dodgers win over Texas.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Dodgers series vs Rangers; Muncy season HR total; Ohtani batting stats
+
+### Story 4: Jose Ramirez Named AL Player of the Month — 300/300 Club Beckons
+- **Angle:** FOLLOW-UP (Ramirez milestone from April 9). April Player of Month: .342 BA, .722 SLG, 7 HR, 28 RBI in 21 games. Now at approx. 292 career HRs (entered season at 285). Needs 13 SB for 300/300 club (8 members: Bobby Bonds, Barry Bonds, Finley, Beltran, Sanders, Bagwell, Walker, A-Rod).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** 300th HR date; 300th SB approaching; Guardians playoff contention
+
+### Story 5: Drake Baldwin's Historic Start — First Brave Since Hank Aaron (1957) to Score in 7 Straight Season Openers
+- **Angle:** NEW STORY. Baldwin through 13 games: .321/.390/.623, 5 HR, 15 RBI (leads MLB). Scored in each of Braves' first 7 games — first Brave to do that since Hank Aaron opened the 1957 season. Rookie producing at elite level.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Baldwin slump watch (league adjustments); ROY race; 20th RBI milestone
+
+### Story 6: Red Sox Depths Deepen — Historically Terrible Start Continues
+- **Angle:** FOLLOW-UP (Red Sox worst record from April 9). Now 2-8, tied for worst franchise nine-game start in 126 years. Won Opening Day then 5-game skid. Offseason additions (Suárez, Gray, Contreras) haven't clicked.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Cora roster moves; first series win of 2026; Fenway early season crowd reaction
+
+### Story 7: MLB Week 2 Power Rankings — Dodgers Lead, Pirates Rise, Red Sox at Bottom
+- **Angle:** NEW STORY (weekly wrap). Dodgers on top, Yankees sliding, Pirates surprise rise, Red Sox at bottom. Early-season landscape established.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Week 3 rankings shift; NL Central surprise teams
+
+---
+
 ## 2026-04-09
 
 ### Story 1: Dodgers 9-3 — MLB's Best Record Without Mookie Betts
