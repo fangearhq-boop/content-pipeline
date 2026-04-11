@@ -1,0 +1,364 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-11",
+  "compiled_at": "2026-04-11T11:40:47.107887+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — McIlroy historic lead, Moving Day",
+      "type": "Round recap"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1 — Bold take on McIlroy's dominance",
+      "type": "Analysis"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — Burns/Reed chase, European trio",
+      "type": "Leaderboard"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 — Final pairing preview",
+      "type": "Preview"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Scheffler struggles, outside top 20",
+      "type": "Performance"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — DeChambeau misses cut, LIV shrinks",
+      "type": "Tournament news"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 5 — Coughlin wins Aramco by five",
+      "type": "LPGA result"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — Masters Sunday preview",
+      "type": "Preview"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7 — LPGA Ford Championship preview",
+      "type": "Preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "McIlroy's Historic 36-Hole Lead — Masters Moving Day Is Here",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 9:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RORY McLROY: -12. Six shots clear. Round 2: 65.\n\nHe now holds the LARGEST 36-hole lead in Masters history. Three shots better than any defending champion at this point.\n\nMoving Day starts at 2:50 PM ET. This is historic. #TheMasters #GolfFanrecap",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Nine birdies. Two bogeys. 65.\n\nRory McIlroy's Round 2 at Augusta National was the low round of the day — and it tied Jack Nicklaus for most career Masters rounds of 65 or better.\n\nYou're watching something special. #TheMasters #GolfFanrecap",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 9:30 AM"
+      },
+      "article": {
+        "filename": "article-01-mcilroy-historic-36-hole-lead-masters-moving-day.html",
+        "headline": "McIlroy at -12: Historic 36-Hole Masters Lead Sets Stage for Moving Day Coronation",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy Historic 36-Hole Lead\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Rory McIlroy Augusta National Masters\n- **Overlay text:** \"McLROY -12 / LARGEST 36-HOLE LEAD IN MASTERS HISTORY / MOVING DAY 2:50 PM ET\"\n- **Font:** Bebas Neue (headline), Montserrat (details)\n- **Colors:** Masters green/gold with white overlay\n- **Mood:** Historic, triumphant\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Rory McIlroy Augusta Masters\n- **Overlay text:** \"McILROY HOLDS HISTORIC MASTERS LEAD — -12, SIX CLEAR\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Burns and Reed Chase McIlroy — Six Back Heading Into Saturday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM, 11:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Masters leaderboard entering Moving Day:\n\n-12: McIlroy (6 clear)\n-6: Burns, Reed (T2)\n-5: Fleetwood, Lowry, Rose (T5)\n\nFinal group: McIlroy + Burns, 2:50 PM ET. Burns' biggest stage. #TheMasters #GolfFanrecap",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 208
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sam Burns plays in the FINAL GROUP at Augusta National today.\n\nSix shots back. In the same pairing as the defending champion who just broke the 36-hole record.\n\nThis is the biggest round of Burns' career. #TheMasters #GolfFanrecap",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM, 11:30 AM"
+      },
+      "article": {
+        "filename": "article-02-burns-reed-european-trio-masters-chasers.html",
+        "headline": "Burns, Reed, and Europe's Best in Pursuit — Who Can Chase Down McIlroy at Augusta?",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Burns and Reed Chase — Final Group Saturday\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Sam Burns PGA Tour golf\n- **Overlay text:** \"BURNS IN THE FINAL GROUP / -6 / BIGGEST ROUND OF HIS CAREER\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** PGA Tour navy/gold\n- **Mood:** High-stakes, anticipatory\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Augusta National golf course Masters\n- **Overlay text:** \"THE CHASE IS ON — SATURDAY AT AUGUSTA\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Scheffler's Title Defense Fading — Outside Top 20 at Augusta",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Scottie Scheffler — World No. 1, two-time Masters champion — is outside the top 20.\n\nHe failed to break par in Round 2 for just the 3rd time in 24 Augusta rounds. Seven shots back.\n\nThe defending champion is running away from everyone. #TheMasters #GolfFanrecap",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-scheffler-struggles-masters-title-fading.html",
+        "headline": "Scheffler's Third Green Jacket Is Slipping Away at Augusta",
+        "word_count": 500
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler Struggles\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Scottie Scheffler golf Masters Augusta\n- **Overlay text:** \"SCHEFFLER OUTSIDE TOP 20 / SEVEN BACK / TITLE BID FADING\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Dark, moody; contrast with green Augusta colors\n- **Mood:** Dramatic downturn\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Scottie Scheffler Augusta National Masters\n- **Overlay text:** \"SCHEFFLER'S TITLE DEFENSE IN TROUBLE\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "DeChambeau Misses Masters Cut — LIV Golf's Augusta Presence Shrinks",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Bryson DeChambeau missed the Masters cut — 6 over par.\n\nOnly 10 LIV Golf players made the 2026 Augusta field. That's down from 18 at the circuit's peak.\n\nGolf's power shift is playing out at Augusta National. #TheMasters #GolfFanrecap",
+          "posting_time": "3:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM"
+      },
+      "article": {
+        "filename": "article-04-dechambeau-misses-cut-liv-masters-2026.html",
+        "headline": "DeChambeau Misses Masters Cut, LIV Golf's Augusta Presence at Historic Low",
+        "word_count": 426
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "DeChambeau Misses Cut — LIV at Augusta\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Bryson DeChambeau golf 2026\n- **Overlay text:** \"DECHAMBEAU MISSES CUT / LIV: 10 PLAYERS AT MASTERS / HISTORIC LOW\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Bold contrast; alert styling\n- **Mood:** Significant development\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Bryson DeChambeau golf Augusta\n- **Overlay text:** \"DECHAMBEAU MISSES CUT — LIV'S MASTERS FOOTHOLD SHRINKS\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LPGA — Lauren Coughlin Wins Aramco Championship by Five",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Lauren Coughlin won the LPGA Aramco Championship by FIVE shots.\n\n-7 total. $600,000 payday. Shadow Creek, Las Vegas.\n\nShe beat Nelly Korda and the entire field in convincing fashion. Coughlin is one to watch. #LPGA #GolfFanrecap",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#GolfFanrecap"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM"
+      },
+      "article": {
+        "filename": "article-05-coughlin-wins-lpga-aramco-championship-korda.html",
+        "headline": "Lauren Coughlin Wins LPGA Aramco Championship by Five Over Korda",
+        "word_count": 459
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Coughlin Wins Aramco Championship\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Lauren Coughlin LPGA golf\n- **Overlay text:** \"COUGHLIN WINS / 5-SHOT VICTORY / $600,000 ARAMCO CHAMPIONSHIP\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** LPGA purple/white with gold accent\n- **Mood:** Celebration, victory\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** LPGA golf tournament winner 2026\n- **Overlay text:** \"LAUREN COUGHLIN WINS ARAMCO CHAMPIONSHIP\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Masters Sunday Preview — Can Anyone Catch Rory?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Sunday at Augusta National:\n\nMcIlroy leads by 6. Burns and Reed are chasing. Scheffler needs a miracle.\n\nThe largest 36-hole lead in Masters history is hard to blow. But stranger things have happened at Augusta. #TheMasters #GolfFanrecap",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Masters Sunday Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Augusta National 18th hole Masters Sunday\n- **Overlay text:** \"SUNDAY AT AUGUSTA / CAN ANYONE CLOSE SIX SHOTS? / MASTERS FINAL ROUND\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Masters green/white\n- **Mood:** Anticipatory, dramatic\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** Rory McIlroy Masters trophy green jacket\n- **Overlay text:** \"MCILROY ON THE VERGE / BACK-TO-BACK MASTERS? / SUNDAY APRIL 12\"\n- **Font:** Bebas Neue\n- **Colors:** Green jacket green/gold\n- **Mood:** Championship moment\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "LPGA Ford Championship Preview — $3.75M Purse, April 16-19",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "LPGA action continues next week.\n\nThe Ford Championship — April 16-19 at El Caballero CC, Tarzana, CA — offers a $3.75M purse.\n\nNelly Korda was runner-up at the Aramco Championship. She'll be looking to bounce back. #LPGA #GolfFanrecap",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#GolfFanrecap"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LPGA Ford Championship Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Nelly Korda LPGA golf tournament\n- **Overlay text:** \"FORD CHAMPIONSHIP / APRIL 16-19 / $3.75M PURSE\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Ford blue/white with LPGA purple\n- **Mood:** Event preview, fresh start"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

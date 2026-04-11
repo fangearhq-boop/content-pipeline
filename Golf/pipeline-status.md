@@ -3,6 +3,24 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
+## Current Pipeline (2026-04-11)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-11 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-04-11 |
+| Fact-check | Complete (verify-facts.py — Tier 2 Story 6 no article — acceptable) | 2026-04-11 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-11 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-04-11 |
+| Dashboard | Generated locally (push blocked — PAT scope) | 2026-04-11 |
+| Published | Attempted — blocked by egress proxy (403 Forbidden) | 2026-04-11 |
+| Git | Committed and pushed to main | 2026-04-11 |
+
+## Notes (2026-04-11)
+- 7 stories: McIlroy -12 historic 36-hole Masters lead (largest ever, R2 65, T1); Burns/Reed -6 T2, European trio -5 T5 (T1); Scheffler outside top 20 (T1); DeChambeau misses cut/LIV 10-player field historic low (T2); Lauren Coughlin wins LPGA Aramco Championship 5-shot/Korda runner-up (T2, NEW); Masters Sunday preview (T2); LPGA Ford Championship preview April 16-19 (T3)
+- Fact concerns: All facts HIGH from Golf Channel, PGA Tour, Yahoo Sports, Sky Sports, CBS Sports, SI.com, RTÉ, The Golf News Net. McIlroy R2 stats HIGH from multiple outlets. LIV field count HIGH from FOX Sports/Yahoo Sports. Coughlin win HIGH from The Golf News Net official results. All LOW confidence claims excluded.
+- WordPress publish: Attempted — blocked by egress proxy (consistent with all previous runs)
+
 ## Current Pipeline (2026-04-09)
 
 | Stage | Status | Last Updated |

@@ -6,6 +6,18 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-04-11 | T1 | McIlroy -12, 6-shot lead, largest 36-hole lead in Masters history; R2 65 (9 birdies/2 bogeys, low round of day); 4th career 65 tying Nicklaus; 3 shots better than any defending champion at same stage; final group Sat 2:50 PM ET vs Burns | X, FB, Article | FOLLOW-UP — R2 performance new |
+| 2026-04-11 | T1 | Burns and Reed tied T2 at -6 (6 back); Fleetwood, Lowry, Rose at -5 (T5, 7 back); final group McIlroy+Burns 2:50 PM ET; Fleetwood+Lowry 2:28 PM ET; Reed+Rose 2:39 PM ET | X, FB, Article | FOLLOW-UP — weekend contenders |
+| 2026-04-11 | T1 | Scheffler outside top 20; failed to break par R2 (3rd time in 24 Augusta rounds); 4 bogeys; 7+ shots back; plays with Åberg 12:16 PM ET R3; third green jacket bid fading | X, FB, Article | FOLLOW-UP — Scheffler R2 struggles |
+| 2026-04-11 | T2 | DeChambeau misses cut (6-over, triple-bogey 18); 10 LIV players in 2026 Masters field (fewest since LIV founding, down from 18/14/12); Koepka rejoined PGA Tour | X, FB, Article | FOLLOW-UP — cut miss new |
+| 2026-04-11 | T2 | Lauren Coughlin wins LPGA Aramco Championship; -7, 5-shot win over Nelly Korda; $600,000; Shadow Creek Las Vegas; tournament ended April 5 | X, FB, Article | NEW STORY |
+| 2026-04-11 | T2 | Masters Sunday preview; McIlroy 6-shot lead; Burns/Reed/European trio as chasers; Sunday Round 4 CBS + Amazon Prime April 12 | X, FB | FOLLOW-UP |
+| 2026-04-11 | T3 | LPGA Ford Championship preview; April 16-19; El Caballero CC Tarzana CA; $3.75M purse; Korda runner-up at Aramco seeking bounce-back | X, FB | FOLLOW-UP |
+
+## Published Stories
+
+| Date | Tier | Topic | Platforms | Notes |
+|------|------|-------|-----------|-------|
 | 2026-04-09 | T1 | Masters R1 underway — McIlroy defending champion (won 2025 over Justin Rose playoff/Grand Slam); back-to-back attempt first since Tiger 2001-02; McIlroy 10:31 AM (Young/Howell), Scheffler 1:44 PM (MacIntyre/Woodland), DeChambeau 10:07 AM; 91 players, $21M purse, Amazon Prime debut, 90th Masters | X, FB, Article | FOLLOW-UP from 4/3-4/8 countdown |
 | 2026-04-09 | T1 | Aaron Rai wins Par 3 Contest 6-under (4 straight birdies); 4 aces: Tommy Fleetwood, Justin Rose, Keegan Bradley, Wyndham Clark; Kevin Hart celebrity caddie; Jason Kelce caddied for Bhatia; Frankie Fleetwood drove No. 9; 66-year Par 3 curse intact | X, FB, Article | FOLLOW-UP — Par 3 results new |
 | 2026-04-09 | T2 | LIV's 10-player Masters field — fewest since LIV founded (down from 18 in 2023, 14 in 2024, 12 in 2025); DeChambeau leads (back-to-back LIV wins Singapore/South Africa); Rahm also in field (1:08 PM ET) | X, FB, Article | NEW ANGLE — 10-player count |
