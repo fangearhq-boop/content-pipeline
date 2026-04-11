@@ -2,6 +2,71 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-11
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Verstappen NOT racing NLS3 April 11 (correction); #3 Winward Mercedes at Paul Ricard (GT World Challenge Europe); next Nurburgring: April 18-19 24H Qualifiers; NLS2 win stripped (7 tyre sets vs. 6 limit; infraction in qualifying; win to #99 Rowe BMW Harper/Pepper) | 1 | FOLLOW-UP/CORRECTION |
+| 2 | Verstappen NLS2 DQ details: #3 Winward Mercedes disqualified; infraction: 7 sets used vs. 6 permitted (qualifying); team boss Hohenadel: "internal error"; win to Harper/Pepper #99 Rowe Racing BMW | 1 | NEW STORY |
+| 3 | Antonelli 72 pts leads championship; youngest-ever F1 leader: 19y 7m 4d (broke Hamilton's 22y 4m 6d from 2007 Spanish GP); Russell 63, Leclerc 49, Hamilton 41, Norris 25, Piastri 21, Bearman 17, Gasly 15, Verstappen 12 | 1 | FOLLOW-UP |
+| 4 | FIA April 20 vote countdown (9 days); April 15 sporting regs meeting, April 16 technical session; energy rules: super clip 250→350kW, recovery 9→6MJ; Bearman ~50G Japan crash root cause; goal: Miami May 1-3 implementation | 2 | FOLLOW-UP |
+| 5 | Red Bull crisis deepens; Verstappen 9th/12 pts/-60 from Antonelli; RB22 "terrible"/"Mario Kart"; exit clause Aug-Oct 2026 (must be top 2); Red Bull behind Alpine on countback | 2 | FOLLOW-UP |
+| 6 | Miami GP May 1-3 sprint weekend; 20 days away; 5-week break (Bahrain/Saudi cancelled); sprint qualifying/race Saturday, GP Sunday 16:00 EDT; ADUO changes may apply | 2 | FOLLOW-UP |
+| 7 | Hamilton P4 championship (41 pts, 8 behind Leclerc); P4 Australia, P3 China (maiden Ferrari podium), P6 Japan; "pact of steel" winter; 2026 car suits his style; running even with Leclerc on performance | 3 | FOLLOW-UP |
+
+---
+
+### STORY 1: Verstappen NLS3 Skip — NLS2 Win Stripped
+- **Tier:** 1
+- **Category:** Driver News / Endurance Racing / Correction
+- **Key facts:** Verstappen NOT racing NLS3 April 11 — #3 Winward Mercedes at Paul Ricard (GT World Challenge Europe). Next Nurburgring: April 18-19 24H Qualifiers. NLS2 win stripped: 7 tyre sets used (limit 6); infraction in qualifying; win to #99 Rowe Racing BMW (Dan Harper/Jordan Pepper). Hohenadel quote: "an internal error that left the stewards with no choice."
+- **Status:** FOLLOW-UP/CORRECTION (Previous story April 10: NLS3 possible, MEDIUM confidence. Confirmed NOT racing.)
+- **Follow-Up:** April 18-19 Qualifiers; 24H Nurburgring May 16
+
+### STORY 2: Verstappen NLS2 DQ
+- **Tier:** 1
+- **Category:** Racing Penalty / Nurburgring
+- **Key facts:** #3 Winward Racing Mercedes-AMG GT3 disqualified from NLS2. 7 tyre sets used vs. 6 permitted. Breach in qualifying (morning session). Win awarded to #99 Rowe Racing BMW — Dan Harper and Jordan Pepper.
+- **Status:** NEW STORY
+- **Follow-Up:** Winward team response; impact on 24H Nurburgring program
+
+### STORY 3: Antonelli Youngest F1 Championship Leader
+- **Tier:** 1
+- **Category:** Championship / Historic Achievement
+- **Key facts:** Antonelli 72 pts. Youngest-ever F1 championship leader: 19y 7m 4d. Broke Hamilton's 2007 Spanish GP record (22y 4m 6d). Full standings: Russell 63, Leclerc 49, Hamilton 41, Norris 25, Piastri 21, Bearman 17, Gasly 15, Verstappen 12.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Miami GP championship defense; ADUO impact on Mercedes advantage
+
+### STORY 4: FIA April 20 Vote
+- **Tier:** 2
+- **Category:** Regulation / Technical
+- **Key facts:** April 20 binding FIA Commission vote. April 15: Sporting Regs meeting. April 16: Technical session. Energy proposals: super clip 250→350kW, recovery 9→6MJ. Bearman ~50G Japan crash trigger. Goal: Miami May 1-3.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Vote outcome; Miami implementation
+
+### STORY 5: Red Bull Crisis / Verstappen Exit Clause
+- **Tier:** 2
+- **Category:** Team News / Driver Contract
+- **Key facts:** Verstappen 9th, 12 pts, -60 from Antonelli. RB22: "significant shortcomings," "terrible," "Mario Kart." Wind tunnel aging root cause. Exit clause Aug-Oct 2026. Red Bull behind Alpine on countback.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Miami upgrades; exit clause timeline; Verstappen 2027 destination
+
+### STORY 6: Miami GP Preview
+- **Tier:** 2
+- **Category:** Race Preview
+- **Key facts:** Miami GP May 1-3. Sprint weekend (sprint qualifying/race Saturday, GP Sunday 16:00 EDT, 57 laps/5.412km). 20 days away. 5-week break. ADUO changes may apply.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Pre-Miami testing updates; ADUO vote outcome
+
+### STORY 7: Hamilton Ferrari
+- **Tier:** 3
+- **Category:** Driver Profile
+- **Key facts:** Hamilton: P4 Australia, P3 China, P6 Japan; 41 pts, 4th championship. Maiden Ferrari podium China. Running even with Leclerc on performance metrics. "Pact of steel" winter; 2026 car suits style.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Miami performance; Hamilton vs. Leclerc rivalry
+
+---
+
 ## 2026-04-10
 
 | # | Story | Tier | Tag |

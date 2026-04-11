@@ -1,0 +1,351 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-11",
+  "compiled_at": "2026-04-11T11:30:56.266658+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Verstappen skips NLS3, targets April 18-19 qualifiers",
+      "type": "Driver news"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — Verstappen NLS2 win stripped, tyre breach",
+      "type": "Race news"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 — Bold take on the DQ and what it means",
+      "type": "Analysis"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Antonelli youngest F1 leader ever",
+      "type": "Championship"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — FIA April 20 vote countdown",
+      "type": "Regulation"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 5 — Red Bull crisis, Verstappen exit clause",
+      "type": "Team news"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — Miami GP sprint weekend preview",
+      "type": "Preview"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7 — Hamilton's Ferrari renaissance",
+      "type": "Profile"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Skips NLS3 — Nurburgring 24H Qualifiers April 18-19 Instead",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Correction: Max Verstappen is NOT at the Nurburgring today.\n\nHis #3 Mercedes GT3 is competing at Paul Ricard (GT World Challenge Europe) this weekend.\n\nNext Nordschleife date: April 18-19 — the 24H Nurburgring qualifiers. #F1 #F1Fanrecap",
+          "posting_time": "9:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#3",
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM"
+      },
+      "article": {
+        "filename": "article-01-verstappen-nls2-dq-nls3-skip-nurburgring.html",
+        "headline": "Verstappen's Nurburgring Win Stripped, Skips NLS3 — Next Stop April 18-19 Qualifiers",
+        "word_count": 518
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Skips NLS3\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Max Verstappen Mercedes GT3 Nurburgring\n- **Overlay text:** \"NOT RACING TODAY / VERSTAPPEN SKIPS NLS3 / NEXT: APRIL 18-19\"\n- **Font:** Bebas Neue (headline), Montserrat (details)\n- **Colors:** Mercedes silver/black with red accent\n- **Mood:** Informational, anticipatory\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Max Verstappen Nurburgring racing\n- **Overlay text:** \"VERSTAPPEN NURBURGRING UPDATE\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's NLS2 Win Stripped — Tyre Rule Breach",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM, 11:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen's Nurburgring NLS2 victory has been STRIPPED.\n\nThe #3 Winward Mercedes used 7 tyre sets in the race — the limit is 6. Infraction happened in qualifying.\n\nVictory awarded to #99 Rowe Racing BMW — Harper/Pepper. #NLS #F1Fanrecap",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#3",
+            "#99",
+            "#NLS",
+            "#F1Fanrecap"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen can't catch a break in 2026.\n\nStruggling at Red Bull in F1. Now his Nurburgring win is DQ'd over a tyre counting error.\n\nAn internal mistake, according to the team. Still hurts. #F1 #F1Fanrecap",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM, 11:30 AM"
+      },
+      "article": {
+        "filename": "article-02-antonelli-youngest-f1-championship-leader-history.html",
+        "headline": "Antonelli at 19: The Youngest Championship Leader in Formula 1 History",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen NLS2 Win Stripped\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Max Verstappen Mercedes AMG GT3\n- **Overlay text:** \"WIN STRIPPED / TYRE RULE BREACH / NLS2 DQ\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Red alert styling, dark background\n- **Mood:** Dramatic, breaking news\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Nurburgring Nordschleife racing GT3\n- **Overlay text:** \"VERSTAPPEN DISQUALIFIED FROM NLS2 WIN\"\n- **Use:** Article header (combined with Story 1)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli Leads F1 — Youngest Championship Leader in History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli: 19 years old. Leads the F1 championship.\n\nHe became the youngest-ever title leader at Japan — breaking Lewis Hamilton's 19-year-old record set at the 2007 Spanish GP.\n\n72 points. 9 clear of Russell. Just getting started. #F1 #F1Fanrecap",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-fia-april-20-vote-energy-rules-f1-2026.html",
+        "headline": "The April 20 FIA Vote That Could Change F1 2026 Forever",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Leader\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Kimi Antonelli Mercedes F1\n- **Overlay text:** \"YOUNGEST IN HISTORY / 72 PTS / F1 CHAMPIONSHIP LEADER\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Mercedes silver/teal\n- **Mood:** Historic, triumphant\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Kimi Antonelli Formula 1 Mercedes\n- **Overlay text:** \"ANTONELLI — YOUNGEST F1 CHAMPIONSHIP LEADER EVER\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "FIA April 20 Vote — Countdown to Rule Change Decision",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "9 days until the most important vote in F1 2026.\n\nApril 20: FIA meets to decide on energy management rule changes — triggered by Bearman's 50G Japan crash.\n\nIf passed, the changes could be in place for Miami. The clock is ticking. #F1 #F1Fanrecap",
+          "posting_time": "3:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM"
+      },
+      "article": {
+        "filename": "article-04-verstappen-red-bull-exit-clause-crisis-2026.html",
+        "headline": "Verstappen's Exit Clause Is No Longer Hypothetical — Red Bull Crisis Explained",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FIA April 20 Vote\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Formula 1 2026 racing Bearman Haas\n- **Overlay text:** \"APRIL 20 VOTE / ENERGY RULES CHANGE? / F1 2026\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** FIA regulatory blue/white; urgency red accent\n- **Mood:** Technical urgency\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Formula 1 pit lane garage 2026\n- **Overlay text:** \"FIA APRIL 20 — CRITICAL F1 RULE VOTE\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Red Bull Crisis Deepens — Verstappen Exit Clause Clock Ticks",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Max Verstappen: 9th in the F1 championship. 12 points. 60 behind Antonelli.\n\nHis Red Bull exit clause becomes active this summer — he can leave for 2027 if he's not in the top 2.\n\nTop 2? Right now that feels impossible. #F1 #F1Fanrecap",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM"
+      },
+      "article": {
+        "filename": "article-05-hamilton-ferrari-renaissance-2026.html",
+        "headline": "Hamilton's Ferrari Renaissance: How Year Two Is Already Different",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Bull / Verstappen Crisis\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Max Verstappen Red Bull Racing F1\n- **Overlay text:** \"EXIT CLAUSE TICKING / VERSTAPPEN 9TH IN F1 / RED BULL IN CRISIS\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Red Bull navy/red; dark mood\n- **Mood:** Tense, crisis atmosphere\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search term:** Max Verstappen Red Bull Racing 2026\n- **Overlay text:** \"VERSTAPPEN EXIT CLAUSE — WHAT HAPPENS NEXT?\"\n- **Use:** Article header\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Miami GP Preview — Sprint Weekend, Five-Week Break, May 1-3",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "F1 returns in 20 days.\n\nMiami Grand Prix — May 1-3 — is a sprint weekend. Antonelli will defend his championship lead. Verstappen desperately needs points.\n\nAfter a 5-week break, it cannot come soon enough. #F1Miami #F1Fanrecap",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Miami",
+            "#F1Fanrecap"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Miami GP Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** F1 Miami Grand Prix Autodrome\n- **Overlay text:** \"MIAMI GRAND PRIX / MAY 1-3 / SPRINT WEEKEND\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Miami neon/turquoise; bright energy\n- **Mood:** Excitement, event promo\n\n#### Image Concept 2 — Social (1080x1350)\n- **Search term:** Formula 1 Miami race 2026\n- **Overlay text:** \"F1 RETURNS IN 20 DAYS / THE BREAK ENDS AT MIAMI\"\n- **Font:** Bebas Neue\n- **Colors:** Sunset orange/pink (Miami theme)\n- **Mood:** Anticipation\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Hamilton's Ferrari Renaissance — 41 Points, Fourth in Championship",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Lewis Hamilton's 2026 at Ferrari: P4 Australia, P3 China (maiden Ferrari podium), P6 Japan.\n\n41 points. 4th in the championship. Running even with Leclerc.\n\nThe winter at Fiorano is paying off. #F1 #F1Fanrecap",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Ferrari\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search term:** Lewis Hamilton Ferrari F1 2026\n- **Overlay text:** \"HAMILTON AT FERRARI / P3 CHINA · P4 CHAMPIONSHIP / THE COMEBACK IS REAL\"\n- **Font:** Bebas Neue (headline)\n- **Colors:** Ferrari red/white\n- **Mood:** Confident renaissance"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

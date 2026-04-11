@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-10
+- **Date**: 2026-04-11
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-11
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-11.xlsx (8 posts) + f1fr-postplanner-tobi-2026-04-11.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-11/review-dashboard.html (27 items)
+- **Notes:** Verstappen NOT at Nurburgring NLS3 today (correction — #3 Mercedes at Paul Ricard GT World Challenge Europe); NLS2 win stripped (7 tyre sets vs. 6 limit; breach in qualifying; win to #99 Rowe BMW Harper/Pepper); Antonelli 72 pts youngest-ever F1 leader (19y 7m 4d, broke Hamilton's 2007 record); FIA April 20 vote countdown (energy proposals: 250→350kW super clip, 9→6MJ recovery; Bearman 50G crash trigger; Miami target); Red Bull crisis (Verstappen 9th/12 pts, exit clause Aug-Oct; behind Alpine on countback); Miami GP May 1-3 sprint weekend (20 days away); Hamilton P4 championship (41 pts, maiden Ferrari podium China).
+- **Fact concerns:** All core facts HIGH from Crash.net, GPFans, Motorsport.com, The Race, NBC News, RacingNews365, Sky Sports, ESPN. Verstappen NLS3 skip HIGH (confirmed). NLS2 DQ HIGH (multiple outlets). Antonelli youngest-ever record HIGH (NBC News, F1.com official). April 20 vote details HIGH from Motorsport.com/ESPN. All LOW confidence claims excluded.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-10
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
