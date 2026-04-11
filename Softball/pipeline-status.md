@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-11
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ web searches), brief (7 stories), research notes, story analysis, X posts (10), FB posts (7), image concepts, image manifest, articles (5), fact-check (125 claims, 0 char violations, all stories pass consistency), compile (JSON compiled, 0 errors), dashboard (36 items), PostPlanner exports (10 posts X, 10 TOBI posts), WordPress publish attempted.
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/ (push to dashboards repo failed: PAT scope limitation, known issue)
+- **GitHub Pages Status**: Push failed to ilovesoftball-dashboards (PAT permissions on dashboards repo)
+- **Issues**: publish-unified-dashboard.py 403 on push (PAT scope, known issue). WordPress publish attempted. IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing).
+
+## Previous Run
 - **Date**: 2026-04-09
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (91 claims, 1 char violation fixed, 1 consistency warning for Story 6 Tier 2 no article — expected), compile, dashboard, PostPlanner exports (23 posts X, 16 TOBI posts). WordPress publish blocked by proxy sandbox (known network restriction).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/

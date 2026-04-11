@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 11, 2026
+
+### Story 1: Stanford Ends FSU's 25-Game Winning Streak
+- **Angle:** NEW STORY. No. 23 Stanford beat No. 9 FSU on April 10 to end the Seminoles' 25-game winning streak — longest active in college softball. FSU staged a comeback (Danley bases-clearing double for brief lead) but fell short. First FSU loss since February. Streak was top-5 in program history. FSU ranked No. 5 NFCA / No. 9 ESPN going in.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-Up Opportunities:** Game 2 and 3 results vs. Stanford; FSU rankings drop in Week 10 poll; Isa Torres season stats after loss; FSU ACC remaining schedule
+
+### Story 2: No. 1 Texas Tech Crushes Utah 10-2 — Road Trip Game 1
+- **Angle:** FOLLOW UP (TTech No. 1 / Canady storyline). Won 10-2 in Salt Lake City. Four HRs, 12 hits. Canady pitched and hit RBI double. TTech now 39-2, 15-1 Big 12. Six-game road trip underway.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-Up Opportunities:** Games 2 and 3 vs Utah; road trip completion; national seed conversation
+
+### Story 3: Red River Showdown — Oklahoma at Texas Game 1
+- **Angle:** FOLLOW UP (Red River series, previously previewed April 9). OU led 3-0 late in Game 1 at McCombs. Three-game series on ESPN (Fri/Sat/Sun). SEC title implications: OU 11-1, Texas 9-3. Wells brings 30 HRs into the series.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-Up Opportunities:** Game 1 final result; Games 2 and 3 results; Wells HRs against Texas; series winner and SEC standing implications
+
+### Story 4: Kendall Wells at 30 HRs — All-Time Record Chase (7 Away)
+- **Angle:** FOLLOW UP (Wells HR chase). At 30 HRs entering Texas series. Needs 7 more to break Espinoza's all-time NCAA record of 37 (set Arizona 1995). Already broke SEC record (27 HRs, March 31) and tied NCAA freshman record (30 HRs, April 4 vs Kentucky).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-Up Opportunities:** HRs in Texas series; daily HR count updates; record-breaking moment coverage
+
+### Story 5: Nebraska Blanks Wisconsin 5-0 — 10th Shutout of Season
+- **Angle:** NEW STORY. Nebraska beat Wisconsin 5-0 on April 10 in Madison. 10th shutout of the season. Improved to 31-6, 12-1 Big Ten. Freshman Alexis Jensen started in the circle.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-Up Opportunities:** Games 2 and 3 of Wisconsin series; Big Ten title race; Nebraska national seed profile; Jensen development coverage
+
+### Story 6: NFCA Week 9 Rankings — Top 5 Heading into Big Weekend
+- **Angle:** FOLLOW UP (rankings). Week 9: TTech No. 1, OU No. 2, Alabama No. 3, Texas No. 4, FSU No. 5. Weekend results will reshuffle the order significantly.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-Up Opportunities:** Week 10 rankings reaction; FSU drop; potential Alabama rise
+
+### Story 7: WCWS Watch — Weekend Stakes and Seeding Implications
+- **Angle:** NEW STORY (evergreen/preview). Multiple ranked matchups with WCWS seeding implications. Texas's brutal 13-game top-20 schedule stretch highlighted.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-Up Opportunities:** Weekend results recap; WCWS projection updates
+
+---
+
 ## April 9, 2026
 
 ### Story 1: No. 2 Oklahoma at No. 4 Texas — Red River Showdown Preview
