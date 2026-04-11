@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-10 |
-| Writing | Complete (all steps) | 2026-04-10 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-10 |
-| Compile | Complete (07-content-data.json) | 2026-04-10 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-10 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-10 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-10 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-10 |
+| Research | Complete | 2026-04-11 |
+| Writing | Complete (all steps) | 2026-04-11 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-11 |
+| Compile | Complete (07-content-data.json) | 2026-04-11 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-11 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-11 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-11 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-11 |
 
 ## Queue
 
@@ -24,6 +24,40 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-11 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-11.xlsx (17 posts), tfr-postplanner-tobi-2026-04-11.xlsx (12 TOBI posts)
+- **Coverage:** Monte Carlo SF Day preview (Sinner-Zverev H2H 8-4 + Alcaraz-Vacherot first meeting; No. 1 ranking at stake); Sinner's 20 consecutive M1000 wins (joins Big 3 as only 4th player ever; def. FAA 6-3, 6-4); Vacherot first Monegasque in Open Era MC SF (saved 13 BPs; 5h17m in last 2 matches); Sabalenka withdraws Stuttgart (Rybakina now No. 1 seed, Frech replaces, Zheng also out); WTA Linz SFs (Andreeva vs. Ruse; Potapova vs. Vekic)
+- **Research:** Multi-source web search; Sinner 20-win milestone from atptour.com + skysports.com + tennis.com + beinsports.com + yardbarker.com (5 sources); Vacherot SF from tennismajors.com + atptour.com (2 sources); H2H data from tennistonic.com + atptour.com (2 sources); Sabalenka withdrawal from wtatennis.com (official); Linz QF results from wtatennis.com official scores (2 matches)
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 36 claims; 85 HIGH
+  - compile-content-data.py: 7 X posts, 5 articles; posting window warnings cosmetic (same as all prior days)
+  - PostPlanner: 17 posts standard, 12 TOBI posts; times redistributed (today's run, 30-min spacing)
+  - Push to content-dashboards failed: PAT lacks write permission (same as all prior runs)
+  - WordPress publish failed: proxy blocks fanrumor.com (host_not_allowed) — same env restriction as all prior runs
+  - Monte Carlo SF results NOT yet available at research time (matches scheduled 1:30 PM + 3:30 PM CEST April 11); content framed as SF day preview/analysis
+- **Files created:**
+  - `tennis-content-2026-04-11/00-daily-brief.md`
+  - `tennis-content-2026-04-11/01-research-notes.md`
+  - `tennis-content-2026-04-11/02-story-analysis.md`
+  - `tennis-content-2026-04-11/03-social-posts-x.md`
+  - `tennis-content-2026-04-11/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-11/05-image-concepts.md`
+  - `tennis-content-2026-04-11/06-fact-check-log.md`
+  - `tennis-content-2026-04-11/07-content-data.json`
+  - `tennis-content-2026-04-11/07-image-manifest.md`
+  - `tennis-content-2026-04-11/review-dashboard.html`
+  - `tennis-content-2026-04-11/articles/article-01-monte-carlo-sf-day-sinner-alcaraz-no1-2026.html`
+  - `tennis-content-2026-04-11/articles/article-02-sinner-20-consecutive-masters-1000-wins-big-three-2026.html`
+  - `tennis-content-2026-04-11/articles/article-03-vacherot-monaco-historic-monte-carlo-semifinal-2026.html`
+  - `tennis-content-2026-04-11/articles/article-04-sabalenka-withdraws-stuttgart-rybakina-top-seed-2026.html`
+  - `tennis-content-2026-04-11/articles/article-05-linz-semifinals-andreeva-ruse-potapova-vekic-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-11.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-11.xlsx`
 
 ### 2026-04-10 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

@@ -6,6 +6,11 @@ Track previously covered stories to avoid repetition and maintain content freshn
 
 | Date | Story | Tier | Platforms | Notes |
 |------|-------|------|-----------|-------|
+| 2026-04-11 | Monte Carlo SF Day preview — Sinner vs. Zverev (H2H 8-4), Alcaraz vs. Vacherot (first meeting); No. 1 ranking at stake | T1 | X, FB, Article | Both have spent 66 weeks at No. 1; Sinner wins title = returns to No. 1; final Sunday if favorites hold |
+| 2026-04-11 | Sinner's 20 consecutive M1000 wins — joins Big 3; only 4th player ever; def. FAA 6-3, 6-4 in MC QF | T1 | X, FB, Article | Seventh-longest streak in series history; 3 consecutive M1000 titles (Paris, IW, Miami); SF today vs. Zverev |
+| 2026-04-11 | Vacherot's historic MC SF — first Monegasque in Open Era MC SF; saved 13 BPs; 5h17m in last 2 matches | T2 | X, FB, Article | Faces Alcaraz; No. 23 ranking; coached by half-brother Balleret; first-ever meeting vs. Alcaraz |
+| 2026-04-11 | Sabalenka withdraws from Stuttgart (April 13-19); Rybakina now No. 1 seed; Frech replaces; Zheng also out | T2 | X, FB, Article | Swiatek won Stuttgart 2022+2023; Gauff No. 2 seed; Eala enters main draw; draw revealed April 11 |
+| 2026-04-11 | WTA Linz SFs — Andreeva (No.1 seed) vs. Ruse (def. Ostapenko 4-6,6-4,6-1); Potapova vs. Vekic (def. Pliskova 7-5,6-4) | T2 | X, FB, Article | Potapova became Austrian citizen; Linz = home tournament; final Sunday April 12 |
 | 2026-04-10 | Monte Carlo QF Day preview — Zverev-Fonseca, Sinner-FAA, Alcaraz-Bublik, Vacherot-De Minaur (all first meetings for 2 pairs) | T1 | X, FB, Article | Full QF slate; Semifinals Saturday; No. 1 race resolves or extends based on Sinner-Alcaraz results |
 | 2026-04-10 | Vacherot makes Monegasque history — first Open Era MC QF for a Monegasque; def. Hurkacz 6-7(4), 6-3, 6-4 in 2h53m | T1 | X, FB, Article | Hurkacz was 2025 MC finalist; Vacherot's half-brother Balleret is coach; Vacherot now inside top 20; faces De Minaur in QF |
 | 2026-04-10 | Sinner's 37-set Masters streak ends vs. Machac — def. 6-1, 6-7(3), 6-3; 186 days, streak began Paris Masters Nov 2025 | T1 | X, FB, Article | Machac won tiebreak 7-3; Sinner won 3rd set 6-3 without trouble; faces FAA in QF; No.1 chase continues |

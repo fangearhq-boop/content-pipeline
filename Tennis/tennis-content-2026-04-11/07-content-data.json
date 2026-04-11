@@ -1,0 +1,330 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-11",
+  "compiled_at": "2026-04-11T12:43:02.582626+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Monte Carlo SF Day — Sinner vs. Zverev + Alcaraz vs. Vacherot (No. 1 Ranking At Stake)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "All four SF players confirmed; the day could set up a Sinner-Alcaraz No. 1 decider final on Sunday. Sinner leads H2H vs. Zverev 8-4 (won last 8 meetings); Alcaraz 25-1 on clay since last year's MC faces first-ever meeting vs. Vacherot. Ranking projection: Sinner wins title = returns to No. 1 (was 1,190 pts behind pre-tournament).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Monte Carlo SFs today:\n\n🎾 Sinner vs. Zverev (1:30 PM CEST) — H2H 8-4 Sinner\n🎾 Alcaraz vs. Vacherot (3:30 PM CEST) — first ever meeting\n\nWin the title, Sinner = back to No. 1.\n\nBiggest day of the clay season. 🔥\n\n#Tennis #MonteCarlo",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#MonteCarlo"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Sinner & Alcaraz are both 66 weeks into their careers as ATP No. 1.\n\nToday's SFs decide who gets closer to breaking that tie.\n\nIf they both win → Sunday is a No. 1 decider final at Monte Carlo.\n\n#Tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPTour"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-monte-carlo-sf-day-sinner-alcaraz-no1-2026.html",
+        "headline": "No. 1 on the Line: Monte Carlo's Semifinal Saturday Could Rewrite the Rankings",
+        "word_count": 785
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + FB caption post — SF day preview"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monte Carlo SF Day — Sinner vs. Zverev + Alcaraz vs. Vacherot\n**Sources:**\n- atptour.com — \"Monte-Carlo SFs: Schedule, who is playing, how to watch & more\" (April 10)\n- montecarlotennismasters.com — \"SF Preview: Vacherot v Alcaraz, Sinner v Zverev\"\n- tennistonic.com — \"PREDICTION, PREVIEW, H2H: Alcaraz, Vacherot, Sinner and Zverev to play on COURT RAINIER III on Saturday\" (April 10)\n- puntodebreak.com — \"This is how the Monte Carlo 2026 semifinals will be: Alcaraz and Sinner, with the number one at stake\" (April 10)\n- atptour.com — \"How Jannik Sinner can become World No. 1 in Monte-Carlo\"\n**Verified Facts (HIGH confidence):**\n- Sinner vs. Zverev scheduled 1:30 PM CEST; Alcaraz vs. Vacherot scheduled 3:30 PM CEST on Court Rainier III (2 sources)\n- H2H Sinner vs. Zverev: 8-4 overall, 1-1 on clay; 4th consecutive Masters 1000 SF between the pair (tennistonic.com, atptour.com)\n- Alcaraz 2026 record: 20-2, clay record 3-0 at MC (tennistonic.com)\n- Sinner 2026 record: 22-2, clay record 3-0 at MC (tennistonic.com)\n- Ranking gap pre-tournament: Sinner 1,190 pts behind Alcaraz; Sinner 0 pts to defend; Alcaraz defending 1,000 pts (atptour.com, multiple sources)\n- Sinner wins title = returns to No. 1 (atptour.com official projection)\n- Both Alcaraz and Sinner have spent exactly 66 weeks each atop ATP rankings in their careers (montecarlotennismasters.com)\n- Alcaraz path to SF: def. Báez 6-1 6-3, Etcheverry 6-1 4-6 6-3, Bublik 6-3 6-0 (tennistonic.com)\n- Sinner path to SF: def. Humbert 6-3 6-0, Machac 6-1 6-7(3) 6-3, FAA 6-3 6-4 (atptour.com)\n- Zverev path to SF: def. Garin 4-6 6-4 7-5, Bergs 6-2 7-5, Fonseca 7-5 6-7(3) 6-3 (tennistonic.com)\n**Freshness justification:** SF day coverage — matches scheduled today April 11. This is the biggest day of the tournament. The No. 1 ranking storyline is one of the defining narratives of the 2026 season. Never covered a MC SF day preview yet.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Sinner's 20 Consecutive Masters 1000 Wins — Joins Big 3 Milestone",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Only 4th player in ATP history to win 20+ consecutive Masters 1000 matches — joins Novak Djokovic, Roger Federer, Rafael Nadal. Sinner has won 3 consecutive M1000 titles (Paris, Indian Wells, Miami); 22-2 season record; streak began after 2025 ban.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Djokovic did it.\nFederer did it.\nNadal did it.\n\nNow Sinner has done it.\n\n20 consecutive Masters 1000 wins — only the 4th man in ATP history to reach that mark.\n\nAnd he's in the SF today. 🔥\n\n#Tennis #Sinner",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Sinner"
+          ],
+          "char_count": 205
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sinner's 20-match M1000 streak:\n• Paris title ✓\n• Indian Wells title ✓\n• Miami title ✓\n• Monte Carlo — SF today vs. Zverev\n\nHe's won 3 consecutive Masters titles in a row. The 4th would make him No. 1 again.\n\n#Tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPTour"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-sinner-20-consecutive-masters-1000-wins-big-three-2026.html",
+        "headline": "Djokovic. Federer. Nadal. Sinner. How Jannik Joined the 20-Win Masters Club",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "FB post — milestone/record angle"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner's 20 Consecutive Masters 1000 Wins\n**Sources:**\n- atptour.com — \"Jannik Sinner downs Auger-Aliassime in Monte-Carlo, matches 'Big 3' milestone\" (April 10)\n- skysports.com — \"Monte-Carlo Masters: Jannik Sinner matches 'big three' milestone with 20th successive Masters 1000 win\" (April 10)\n- tennis.com — \"Jannik Sinner extends Masters 1000 winning streak to 20 matches in a row, joins legendary list\" (April 10)\n- beinsports.com — \"Sinner into Monte-Carlo semis after 20th straight win at ATP Masters 1000 events\" (April 10)\n- yardbarker.com — \"'It was a step forward': Jannik Sinner extends 20-match Masters 1000 streak, sets up Zverev showdown\" (April 10)\n**Verified Facts (HIGH confidence):**\n- Sinner def. FAA 6-3, 6-4 in MC QF to extend streak to 20 (atptour.com — primary source)\n- Only 4th man to reach 20 consecutive M1000 wins — joins Djokovic, Federer, Nadal (atptour.com + skysports.com — 2 sources)\n- Sinner's streak is \"the seventh-longest in series history\" (skysports.com / beinsports.com)\n- Four preceding streaks all belonged to Djokovic (4), with one each from Federer and Nadal (skysports.com)\n- Sinner won consecutive M1000 titles in Paris, Indian Wells, and Miami (multiple sources)\n- Sinner missed 2025 Monte Carlo due to doping ban (established context, multiple sources)\n- FAA score: 6-3, 6-4 (atptour.com primary source)\n**Freshness justification:** Milestone reached April 10 in QF; context/depth article for April 11 appropriate. New STORY — not previously covered in story-history.md.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Vacherot's Historic MC Semifinal — First Monegasque in Open Era",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Valentin Vacherot (No. 23) became the first Monegasque player to reach the MC SF in the Open Era. Beat Cerundolo, Musetti (7-6(6), 7-5), Hurkacz, De Minaur. Now faces defending champ Alcaraz. Two five-set battles in a row — 5h17m combined — going into the SF.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Valentin Vacherot is the FIRST Monegasque player to reach the Monte Carlo Masters SF in the Open Era.\n\nPlaying at home. Coached by his half-brother. Beat Hurkacz and De Minaur to get here.\n\nNow he faces defending champ Alcaraz. 🇲🇨\n\n#Tennis #MonteCarlo",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#MonteCarlo"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-vacherot-monaco-historic-monte-carlo-semifinal-2026.html",
+        "headline": "Monaco's Own: Vacherot Makes History as First Monegasque MC Semifinalist in the Open Era",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "FB + X — home hero angle"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Vacherot's Historic MC Semifinal\n**Sources:**\n- tennismajors.com — \"Vacherot stuns de Minaur to become the first Monégasque in a Monte-Carlo Masters semifinal\" (April 10)\n- atptour.com — \"Valentin Vacherot continues historic run, saves 13 BPs en route to Monte-Carlo SFs\" (April 10)\n- montecarlotennismasters.com — SF Preview (April 10)\n- tennis365.com — \"Monte Carlo Masters: Valentin Vacherot makes rankings breakthrough before Carlos Alcaraz showdown\" (April 11)\n**Verified Facts (HIGH confidence):**\n- First Monegasque player to reach MC SF in the Open Era (tennismajors.com + atptour.com — 2 sources)\n- Vacherot def. De Minaur in QF (score: covered April 10 — 6-7(4), 6-3, 6-4 from prior research)\n- Vacherot def. Hurkacz 6-7(4), 6-3, 6-4 in 2h53m (story-history.md, verified April 10)\n- Vacherot's QF run: beat Cerundolo, Musetti (7-6(6), 7-5), Hurkacz, De Minaur (atptour.com)\n- Saved 13 break points en route to SFs (atptour.com primary source)\n- Two combined QF + R3 battles lasted 5h17m total (montecarlotennismasters.com)\n- Vacherot world No. 23 (tennis365.com — rankings milestone)\n- Vacherot's half-brother Balleret is his coach (story-history.md, April 10)\n- This is Vacherot's first-ever meeting with Alcaraz (tennistonic.com)\n**Freshness justification:** QF win covered April 10, but new angle is the SF confirmation + historic first for Monaco + SF matchup preview vs. defending champion.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Sabalenka Withdraws from Stuttgart — Rybakina Now No. 1 Seed",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "World No. 1 Aryna Sabalenka pulls out of the Porsche Tennis Grand Prix (Stuttgart, April 13-19) with injury sustained after Miami title. Elena Rybakina (No. 2) inherits top seed. Gauff and Swiatek also entered; Stuttgart draw to be revealed April 11. Eala got unexpected boost as Zheng Qinwen also withdrew.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Sabalenka is OUT of Stuttgart (starts April 13).\n\nInjury after winning Miami. Rybakina moves to No. 1 seed.\n\nSwiatek has won Stuttgart twice. Gauff is lurking. The draw just got wide open.\n\n#Tennis #WTA #Stuttgart",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTA",
+            "#Stuttgart"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-sabalenka-withdraws-stuttgart-rybakina-top-seed-2026.html",
+        "headline": "Sabalenka Out of Stuttgart — Rybakina Inherits Top Seed as WTA Clay Season Opens",
+        "word_count": 587
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "FB post — withdrawal news"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero — Rybakina as new No. 1 seed"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sabalenka Withdraws from Stuttgart\n**Sources:**\n- wtatennis.com — \"Sabalenka pulls out of Stuttgart with an injury\" (official WTA source)\n- tennis365.com — \"2026 WTA Stuttgart Entry List\" (April 2026)\n- sports.yahoo.com — \"Alex Eala handed unexpected Stuttgart Open boost as Qinwen Zheng pulls out\" (April 2026)\n- wtatennis.com — \"Stuttgart 411: Dates, top players, withdrawals, prize money and more\"\n**Verified Facts (HIGH confidence):**\n- Sabalenka withdrew from Stuttgart with injury (wtatennis.com — official source)\n- Injury sustained after winning Miami Open (context established)\n- Magdalena Frech replaces Sabalenka in main draw (crushrushnews.com)\n- Rybakina now No. 1 seed; Gauff No. 2; Swiatek No. 3 (tennis365.com, WTA insider tweet)\n- Actual seeds per WTA: 1-Sabalenka, 2-Rybakina, 3-Gauff, 4-Swiatek, 5-Svitolina, 6-Paolini, 7-Andreeva, 8-Muchova (entry list — now shuffled up one with Sabalenka out)\n- Stuttgart starts April 13; WTA 500 (not 1000); indoor clay at Porsche Arena (wtatennis.com)\n- Draw revealed April 11 (wtatennis.com schedule)\n- Qinwen Zheng also withdrew (yahoo sports) — Alex Eala enters main draw\n**Freshness justification:** Sabalenka withdrawal is breaking news impacting Stuttgart favorites. Major disruption to the clay season's first big WTA event.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "WTA Linz Semifinals — Andreeva vs. Ruse + Potapova vs. Vekic",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Mirra Andreeva (No. 1 seed) vs. Elena-Gabriela Ruse in SF1 — Ruse beat Ostapenko in QF (4-6, 6-4, 6-1); Andreeva beat Cirstea to reach semis. Anastasia Potapova (Austrian citizen, local angle) vs. Donna Vekic in SF2. Title match Sunday.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "WTA Linz SFs today:\n\n🎾 Andreeva vs. Ruse (3:30 PM local) — No. 1 seed vs. the woman who just beat Ostapenko\n🎾 Potapova vs. Vekic (6:00 PM local) — Austrian citizen vs. Croatian silver medalist\n\nFinal is Sunday. #Tennis #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTA"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-linz-semifinals-andreeva-ruse-potapova-vekic-2026.html",
+        "headline": "Linz Semifinals Saturday: Andreeva Eyes Title, Potapova Plays for Austria",
+        "word_count": 642
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "FB + X — SF preview"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Linz Semifinals\n**Sources:**\n- wtatennis.com — official scores page (Andreeva vs. Ruse SF1; Potapova vs. Vekic SF2)\n- lastwordonsports.com — \"WTA Linz Semifinal Predictions Including Mirra Andreeva vs Elena-Gabriela Ruse\" (April 10)\n- wtatennis.com — \"Andreeva outlasts Cirstea in three sets; to face Ruse in Linz semifinals\"\n- tennistonic.com — \"H2H, prediction of Anastasia Potapova vs Donna Vekic in Linz\" (April 11)\n- fieldlevelmedia.com — \"Mirra Andreeva tops Sorana Cirstea to reach Linz semis\"\n**Verified Facts (HIGH confidence):**\n- Ruse def. Ostapenko 4-6, 6-4, 6-1 in QF (wtatennis.com official scores)\n- Vekic def. Pliskova 7-5, 6-4 in QF (wtatennis.com official scores)\n- Andreeva def. Cirstea to reach SF (wtatennis.com official news)\n- Andreeva vs. Ruse: SF1 scheduled 3:30 PM local time Saturday\n- Potapova vs. Vekic: SF2 scheduled 6:00 PM local time Saturday\n- Potapova won Austrian citizenship — home-country angle (tennistourtalk.com)\n- Andreeva is No. 1 seed at Linz (lastwordonsports.com)\n**Freshness justification:** QFs completed April 10; SFs set for April 11. NEW STORY — Linz SFs not previously covered in story-history.md.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
