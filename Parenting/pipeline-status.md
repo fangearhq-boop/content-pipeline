@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 11, 2026
+## Latest Run: April 12, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 Orton Academy/Trailblazer (gazette.com + d11.org), HiQiLi wintergreen warning (cpsc.gov), Starsmore construction (coloradosprings.gov/PRCS), COS trail improvements (coloradosprings.gov/TOPS2026), wintergreen oil safety pattern (cpsc.gov — 3 brands) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against story history, no duplicates with April 9-11 content |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories, tier + pillar assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (char violations fixed on 2nd pass, all verified under 280), 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts; 0 exclamation marks in posts |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables where applicable, What's Next, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 60 claims; 114 HIGH / 39 MEDIUM / 74 LOW; char violations fixed on 2nd pass |
+| Compile | COMPLETE | 07-content-data.json (5 stories, 6 X posts, 5 FB posts, 5 articles, 10 images) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started |
+| Dashboard | COMPLETE | review-dashboard.html (26 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-12.xlsx (6 posts) + TOBI cosp-postplanner-tobi-2026-04-12.xlsx (6 posts) |
+| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| WordPress Publish | Skipped — WP credentials not in environment after context compaction | Same environment restriction as Tennis niche same session |
+
+## Story Count by Pillar (2026-04-12)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 3 (D11 Orton Academy/Trailblazer; Starsmore construction; COS trail improvements) | 1-2 |
+| Local Events | 0 | 1-2 |
+| National Parenting | 2 (HiQiLi warning; wintergreen oil safety pattern) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 11, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

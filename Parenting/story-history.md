@@ -2,6 +2,50 @@
 
 ---
 
+## April 12, 2026
+
+### Story 1: D11 Orton Academy Moving Into Trailblazer Elementary
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 announces Orton Academy — K-8 dyslexia-focused charter school — will co-locate at Trailblazer Elementary starting fall 2026-27 school year; Trailblazer capacity ~600, enrollment ~220; both schools operate independently; Trailblazer parents notified via Orton's website before official D11 communication; info session April 9)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Orton Academy = D11's 9th charter school; charter contract signed 2024; opened 2020; dyslexia affects ~1 in 5 students; Trailblazer built for ~600, enrolled ~220; co-location starts August 2026
+- **Follow-Up Opportunities:** Update on logistics/scheduling as fall approaches; Orton Academy enrollment process for new families; D11 charter school landscape overview
+
+### Story 2: CPSC Warning — HiQiLi Wintergreen Essential Oil
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC 2026 warning — not a recall — to stop using HiQiLi Wintergreen Essential Oil; non-child-resistant packaging violates Poison Prevention Packaging Act; methyl salicylate is toxic to young children in small doses; sold on Amazon May 2022–August 2025 ~$10; no remedy from seller; white/blue packaging with amber bottle)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Sold Amazon May 2022–Aug 2025; ~$10; white/blue packaging; amber dropper bottle; screw cap (not child-resistant); CPSC warning (not recall); Poison Control: 1-800-222-1222
+- **Follow-Up Opportunities:** Wintergreen oil safety pattern story (connects to Story 5); full essential oil safety roundup
+
+### Story 3: Starsmore Visitor Center Construction — North Cheyenne Cañon
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Starsmore Visitor and Nature Center under construction March 9 – ~May 22, 2026; Parking Lot 1 closed; use Lot 2 via Evans Ave; visitor center stays open except hazardous work periods; improvements include new outdoor plaza/classroom, ADA restrooms, bus parking, ADA walkways, native plant garden; funded by City, Office of Accessibility, LART, Mary Starsmore Fund, Friends of Cheyenne Cañon, Park Ambassadors Gift Trust)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Construction March 9 – ~May 22, 2026; Lot 1 closed; Lot 2 open via Evans Ave; park open; center open (except hazardous work); new ADA restrooms; native plant garden; outdoor classroom/plaza
+- **Follow-Up Opportunities:** Starsmore reopening story when construction wraps; North Cheyenne Cañon spring programming roundup
+
+### Story 4: COS Trail Improvements — Pikes Peak Greenway + Rock Island Trail
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Colorado Springs Parks, Recreation and Cultural Services 2026 TOPS plan: (1) ~0.5 miles new concrete trail replacing asphalt on Pikes Peak Greenway near Monument Creek in partnership with Stormwater Engineering; (2) 210-ft pedestrian bridge over Sand Creek on Rock Island Trail + pedestrian-activated flashing crossing at Peterson Road; bridge = 12-month project starting spring 2026, expected complete spring 2027)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Pikes Peak Greenway: ~0.5 mi new concrete, Monument Creek, spring 2026; Rock Island Trail: 210-ft bridge over Sand Creek, 12-month timeline, spring 2026–spring 2027; flashing crossing at Peterson Road; TOPS2026 plan; coloradosprings.gov/TOPS2026
+- **Follow-Up Opportunities:** Rock Island Trail bridge completion story (spring 2027); Pikes Peak Greenway trail completion; COS trails access for families with young children
+
+### Story 5: Wintergreen Essential Oil Safety Pattern — CPSC Actions 2025-2026
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Evergreen safety guide connecting three CPSC actions in 2025-2026: HiQiLi warning 2026, GM Gumili recall 2026, Euqee recall 2025 — all same violation; why wintergreen oil is more dangerous than other essential oils [methyl salicylate concentration]; practical home storage checklist; Poison Prevention Packaging Act context; Poison Control 1-800-222-1222)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 3 CPSC actions in 18 months; HiQiLi (2026 warning), GM Gumili (2026 recall), Euqee (2025 recall); methyl salicylate is active compound; requires child-resistant packaging under PPPA; toxic dose for young children is very small; Poison Control: 1-800-222-1222
+- **Follow-Up Opportunities:** Broader essential oil safety guide; Amazon third-party product safety pattern story
+
+---
+
 ## April 11, 2026
 
 ### Story 1: CPSC Warning — Tuyedoqe Travel Bassinets (Strangulation + Fall Hazard)
