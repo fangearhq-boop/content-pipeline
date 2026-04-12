@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-12",
+  "compiled_at": "2026-04-12T11:59:45.488267+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Masters Sunday preview",
+      "type": "Preview"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 4 — Contenders leaderboard entering Sunday",
+      "type": "Leaderboard"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 2 — Young's 65, how the lead vanished",
+      "type": "Recap"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 3 — McIlroy back-to-back history",
+      "type": "Historical"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — LPGA Ford Championship preview",
+      "type": "Preview"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6 — LIV Golf Mexico City preview",
+      "type": "Preview"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 7 — Augusta traditions",
+      "type": "Feature"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Masters Sunday — McIlroy vs. Young, Back-to-Back Title on the Line",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "MASTERS SUNDAY IS HERE.\n\nMcIlroy and Young. Tied at 11-under. Final pairing at 2:25 PM ET.\n\nCan the defending champion defend? Can Young pull off the greatest Masters comeback ever?\n\nCBS. 2-7 PM. Don't miss it. #TheMasters #GolfFanrecap",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Masters final round leaderboard entering Sunday:\n\n-11: McIlroy 🏆 / Young\n-10: Burns\n-9: Lowry\n-8: Day\n\nTwo players, one title. But Augusta will have a say in this too. #TheMasters #GolfFanrecap",
+          "posting_time": "8:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:30 AM"
+      },
+      "article": {
+        "filename": "article-01-masters-sunday-mcilroy-young-final-round.html",
+        "headline": "Masters Sunday: McIlroy and Young Tied at 11-Under — Everything On the Line",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Masters Sunday\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Rory McIlroy Augusta National Masters\"\n- **Text overlay:** \"MASTERS SUNDAY\" / \"McIlroy vs. Young — Tied at 11-Under\" / \"#TheMasters #GolfFanrecap\"\n- **Mood:** High stakes, championship Sunday\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** TOBI — leaderboard graphic\n- **Search terms:** \"Augusta National golf course azaleas\"\n- **Visual:** Augusta scenic with leaderboard overlay\n- **Text overlay:** \"FINAL ROUND LEADERBOARD\" / \"-11: McIlroy / Young | -10: Burns | -9: Lowry\" / \"#TheMasters\"\n- **Mood:** Tournament drama, leaderboard style\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Young's Historic Saturday — 65 Erases McIlroy's Six-Shot Lead",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "8 shots back. One round. TIED.\n\nCameron Young shot 7-under 65 on Saturday — 8 birdies, 1 bogey — to erase Rory McIlroy's entire 6-shot lead.\n\nThe first player in Masters history to share the 54-hole lead after starting 8 back.\n\nJust get to Sunday. #TheMasters #GolfFanrecap",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-02-cameron-young-65-masters-history.html",
+        "headline": "Young's 65 Is Already One of the Great Augusta Rounds. Now He Has to Win Sunday.",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cameron Young's Historic 65\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Cameron Young PGA Tour golf\"\n- **Text overlay:** \"7-UNDER 65\" / \"From 8 Back to Tied — Masters History\" / \"#TheMasters\"\n- **Mood:** Stunning achievement, momentum\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Imagn photo\n- **Search terms:** \"Cameron Young PGA Tour golf\"\n- **Usage:** Article hero for article-02\n- **Mood:** Action shot, Saturday charge energy\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "McIlroy's Grand Slam Window — What Back-to-Back Masters Would Mean",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The back-to-back Masters club has 3 members:\n\n• Jack Nicklaus (1965-66)\n• Nick Faldo (1989-90)\n• Tiger Woods (2001-02)\n\nRory McIlroy is trying to become No. 4 today.\n\nThat is the company he's keeping. #TheMasters #GolfFanrecap",
+          "posting_time": "3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM"
+      },
+      "article": {
+        "filename": "article-03-mcilroy-back-to-back-masters-history.html",
+        "headline": "Nicklaus. Faldo. Tiger. McIlroy Is Playing for the Fourth Spot in the Back-to-Back Club",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy Back-to-Back\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Rory McIlroy Masters green jacket\"\n- **Text overlay:** \"NICKLAUS. FALDO. TIGER.\" / \"McIlroy Plays for the 4th Spot Today\" / \"#TheMasters #GolfFanrecap\"\n- **Mood:** Historical, legendary\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** TOBI — historical graphic\n- **Search terms:** \"Augusta National Masters golf club\"\n- **Text overlay:** \"THE BACK-TO-BACK CLUB\" / \"1965-66 | 1989-90 | 2001-02 | 2025-26?\" / \"#TheMasters\"\n- **Mood:** Legacy, history\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Masters Contenders — Burns, Lowry, Day, Li Still in the Hunt",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "#### Text Post 1 — (merged into Story 1, Text Post 2 — leaderboard post at 10:30 AM)\n\n*(Combined leaderboard post serves as Story 4 coverage)*",
+          "posting_time": "10:30 AM",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 142
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM"
+      },
+      "article": {
+        "filename": "article-04-lpga-ford-championship-preview-2026.html",
+        "headline": "LPGA Ford Championship Preview: Coughlin's Momentum Meets Korda's Ambition",
+        "word_count": 419
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Masters Contenders\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Sam Burns PGA Tour golf\"\n- **Text overlay:** \"BURNS AT -10\" / \"One Back. Augusta Can Flip Fast.\" / \"#TheMasters #GolfFanrecap\"\n- **Mood:** In-contention tension\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** TOBI\n- **Search terms:** \"Augusta National golf course Amen Corner\"\n- **Text overlay:** \"AMEN CORNER AWAITS\" / \"Everything Changes at Holes 11-13\" / \"#TheMasters\"\n- **Mood:** Augusta mystique\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LPGA Ford Championship Preview — April 16-19",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "While Augusta wraps up — the LPGA rolls on.\n\nThe Ford Championship starts April 16 at El Caballero Country Club in Tarzana, CA.\n\nCoughlin just won Aramco by 5 shots. Korda is coming for her.\n\nWomen's golf is loaded right now. #LPGA #GolfFanrecap",
+          "posting_time": "6:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#GolfFanrecap"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM"
+      },
+      "article": {
+        "filename": "article-05-liv-golf-mexico-city-preview-72-holes.html",
+        "headline": "LIV Golf Mexico City Preview: New Format, New Era, Same Questions",
+        "word_count": 462
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LPGA Ford Championship\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Lauren Coughlin LPGA golf\"\n- **Text overlay:** \"FORD CHAMPIONSHIP\" / \"April 16-19 | El Caballero CC | Tarzana, CA\" / \"#LPGA #GolfFanrecap\"\n- **Mood:** Women's golf, spring event\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn photo\n- **Search terms:** \"Nelly Korda LPGA golf\"\n- **Text overlay:** \"KORDA WANTS REDEMPTION\" / \"Aramco Runner-Up → Ford Championship\" / \"#LPGA #GolfFanrecap\"\n- **Mood:** Competitive, response narrative\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "LIV Golf Mexico City — April 16-19, New 72-Hole Format",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "LIV Golf heads to Mexico City next week.\n\nApril 16-19. Club de Golf Chapultepec.\n\nNew in 2026: 72 holes (up from 54). LIV's transformation continues.\n\nAfter all 10 LIV players missed the Masters cut — can they respond? #LIVGolf #GolfFanrecap",
+          "posting_time": "8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#GolfFanrecap"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Mexico City\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** TOBI\n- **Search terms:** \"golf course Mexico City Chapultepec\"\n- **Text overlay:** \"LIV GOLF MEXICO CITY\" / \"April 16-19 | 72-Hole Format\" / \"#LIVGolf #GolfFanrecap\"\n- **Mood:** International golf, LIV brand\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Phil Mickelson LIV Golf\"\n- **Text overlay:** \"NEW FORMAT. NEW ERA.\" / \"LIV Golf Returns April 16\" / \"#LIVGolf\"\n- **Mood:** LIV evolution, new chapter\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Augusta Traditions — The Green Jacket Ceremony and Masters Lore",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "The Masters green jacket goes to the winner.\n\nIf the same player wins back-to-back, a club official presents it — not the defending champion.\n\nAlso at Augusta: pimento cheese sandwiches and volunteer scoreboards.\n\nThere's no place like it. 🌸 #TheMasters #GolfFanrecap",
+          "posting_time": "8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Augusta Traditions\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** TOBI — traditions graphic\n- **Search terms:** \"Augusta National azaleas spring flowers golf\"\n- **Text overlay:** \"MASTERS TRADITIONS\" / \"Green Jacket · Pimento Cheese · Volunteer Scoreboards\" / \"#TheMasters\"\n- **Mood:** Warm, nostalgic, fan appreciation"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

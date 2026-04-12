@@ -6,6 +6,13 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-04-12 | T1 | Masters Sunday final round — McIlroy and Young tied at -11; final pairing 2:25 PM ET; CBS 2-7 PM; Burns -10, Lowry -9, Day -8; Scheffler outside top 20 | X, FB, Article | FOLLOW-UP — Sunday championship round |
+| 2026-04-12 | T1 | Cameron Young historic R3 65 — 8 birdies/1 bogey; erased McIlroy's 6-shot lead; entered 8 shots back; first player in Masters history to share 54-hole lead after starting 8 back; McIlroy shot 73 | X, FB, Article | FOLLOW-UP — Young 65 new |
+| 2026-04-12 | T1 | McIlroy back-to-back bid — would join Nicklaus (1965-66), Faldo (1989-90), Tiger (2001-02); Career Grand Slam won 2025; defending at 37 years old | X, FB, Article | FOLLOW-UP — back-to-back history angle |
+| 2026-04-12 | T2 | Masters contenders — Burns -10 (1 back), Lowry -9 (2 back), Day -8 (3 back); Scheffler outside top 20; Amen Corner 11-13 as equalizer | X, FB | FOLLOW-UP — Sunday contenders |
+| 2026-04-12 | T2 | LPGA Ford Championship preview — April 16-19, El Caballero CC Tarzana CA; Coughlin 5-shot Aramco win; Korda runner-up seeking bounce-back | X, FB, Article | FOLLOW-UP |
+| 2026-04-12 | T2 | LIV Golf Mexico City — April 16-19, Club de Golf Chapultepec; new 72-hole format (up from 54); all 10 LIV players missed Masters cut; Mickelson/Koepka/Johnson in field | X, FB, Article | FOLLOW-UP — 72-hole format angle new |
+| 2026-04-12 | T3 | Augusta traditions — green jacket ceremony; pimento cheese sandwiches; volunteer scoreboards; back-to-back champion presented by club official not defending champion | X, FB | FOLLOW-UP |
 | 2026-04-11 | T1 | McIlroy -12, 6-shot lead, largest 36-hole lead in Masters history; R2 65 (9 birdies/2 bogeys, low round of day); 4th career 65 tying Nicklaus; 3 shots better than any defending champion at same stage; final group Sat 2:50 PM ET vs Burns | X, FB, Article | FOLLOW-UP — R2 performance new |
 | 2026-04-11 | T1 | Burns and Reed tied T2 at -6 (6 back); Fleetwood, Lowry, Rose at -5 (T5, 7 back); final group McIlroy+Burns 2:50 PM ET; Fleetwood+Lowry 2:28 PM ET; Reed+Rose 2:39 PM ET | X, FB, Article | FOLLOW-UP — weekend contenders |
 | 2026-04-11 | T1 | Scheffler outside top 20; failed to break par R2 (3rd time in 24 Augusta rounds); 4 bogeys; 7+ shots back; plays with Åberg 12:16 PM ET R3; third green jacket bid fading | X, FB, Article | FOLLOW-UP — Scheffler R2 struggles |

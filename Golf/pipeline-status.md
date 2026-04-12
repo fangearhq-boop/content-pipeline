@@ -3,7 +3,27 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-11)
+## Current Pipeline (2026-04-12)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-12 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-04-12 |
+| Fact-check | Complete (verify-facts.py — 37 claims; Story 7 tweet trimmed; Tier 2 Story 6 no article — acceptable) | 2026-04-12 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-12 |
+| PostPlanner | Complete (standard + TOBI exports) | 2026-04-12 |
+| Dashboard | Generated locally (push blocked — PAT scope) | 2026-04-12 |
+| Published | Attempted — blocked by egress proxy (403 Forbidden) | 2026-04-12 |
+| Git | Committed and pushed to main | 2026-04-12 |
+
+## Notes (2026-04-12)
+- 7 stories: Masters Sunday McIlroy/Young tied -11, final pairing 2:25 PM ET (T1); Cameron Young historic R3 65 — 8 shots back to tied, Masters first-ever (T1); McIlroy back-to-back quest joining Nicklaus/Faldo/Tiger (T1); Masters contenders Burns -10/Lowry -9/Day -8 (T2); LPGA Ford Championship April 16-19 Coughlin vs. Korda (T2); LIV Golf Mexico City April 16-19 new 72-hole format/all 10 LIV missed Masters cut (T2); Augusta traditions (T3)
+- Fact concerns: All facts HIGH — Young 65 record (Masters first player to share 54-hole lead after starting 8 back), McIlroy back-to-back history (Nicklaus 1965-66/Faldo 1989-90/Tiger 2001-02), LIV 10-player field missed cut sourced from CBS Sports/PGA Tour/Golf Channel. All LOW confidence claims excluded.
+- Pen names: Jake Torres (articles 1, 4), Ryan Calloway (article 2), Marcus Cole (articles 3, 5)
+- WordPress publish: Attempted — blocked by egress proxy (consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+## Previous Pipeline (2026-04-11)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
