@@ -1,6 +1,12 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-12
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (agent: 10+ web searches), brief (7 stories), research notes, story analysis, X posts (11), FB posts (7), image concepts, image manifest, articles (5: Ramirez franchise first, Dodgers 11-3/Ohtani, Red Sox first series win, Konnor Griffin debut/$140M, Yankees swept), fact-check (58 claims, 96% HIGH confidence), compile (JSON compiled, 11 X posts, 7 FB, 5 articles, 37 dashboard items), dashboard (37 items), PostPlanner exports (11 posts X, 11 TOBI posts), WordPress publish attempted (credentials not in env + proxy sandbox blocks fanrumor.com — known).
+- **Dashboard Published**: Local only via publish-dashboard.py fallback — https://fangearhq-boop.github.io/content-dashboards/ (publish-unified-dashboard.py 403 on content-dashboards repo push — known PAT scope issue)
+- **Issues**: publish-unified-dashboard.py 403 on push (PAT scope, known). WordPress credentials not in env + proxy sandbox blocks fanrumor.com (known). Story 6 Tier 2 no article — 5 articles meet minimum (by design). IMAGE MISSING expected (not_started, format parsing). FB posts compile to 0 (heading format — known issue).
+
+## Previous Run
 - **Date**: 2026-04-11
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches), brief (7 stories), research notes, story analysis, X posts (10), FB posts (7), image concepts, image manifest, articles (5), fact-check (49 claims, 0 char violations, 0 consistency errors after Story 6 demoted to Tier 3), compile (JSON compiled, 0 errors), dashboard (36 items), PostPlanner exports (10 posts X, 10 TOBI posts), WordPress publish attempted.
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/ (push failed: PAT scope on content-dashboards repo, known issue)

@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-12
+
+### Story 1: Jose Ramirez First Guardian Ever to HR vs. All 29 Teams
+- **Angle:** FRANCHISE FIRST. April 11 game at Truist Park — Ramirez homered off Martin Perez in the first inning, completing a HR against all 29 MLB opponents. No Guardian had done it in 125 years of franchise history. Guardians won 6-0; Parker Messick 6.2 IP shutout. Third milestone in April 2026 (also games-played record April 6).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** 300th career HR watch; 300/300 club chase; Guardians AL Central race
+
+### Story 2: Dodgers 11-3 — Ohtani Leadoff HR, Sheehan Gem
+- **Angle:** FOLLOW-UP (Dodgers best record). April 11 win over Texas: Ohtani hit leadoff HR (104.5 mph, 390 ft, 4th of season) → Teoscar Hernandez 3-run HR immediately after → Dodgers up 4-0 before Rangers recorded first out. Sheehan 6 IP, 4 H, 6 K (2-0). Dodgers 45 road runs in 4 games (most since 1900). Still without Mookie Betts (oblique IL, symptom-free, expected back by end of April).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Ohtani 3rd pitching start coming; Betts return timeline; Dodgers record chase
+
+### Story 3: Red Sox Win First Series of 2026 After Historic 2-8 Start
+- **Angle:** FOLLOW-UP (Red Sox historic futility). 7-1 win over St. Louis Saturday: Suárez 6 scoreless IP, Contreras 3 RBI. Back-to-back wins for first time since September 2025. Red Sox now 5-8. Earlier in week: Sonny Gray 6.1 shutout IP in Milwaukee series win. First series win of 2026.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Red Sox consistency test; AL East gap to close; bullpen reliability
+
+### Story 4: Konnor Griffin Debuts With RBI Double, Signs $140M Extension
+- **Angle:** NEW STORY. April 10/11 events: No. 1 overall prospect (MLB Pipeline) called up for Pirates home opener. RBI double in very first MLB at-bat. Then signed 9-year/$140M extension — largest pre-debut contract in MLB history (broke Colt Emerson's 8yr/$95M set week prior). Griffin 19 years old; posted .438/.571/.625 in 5 Triple-A games in 2026. Pirates 7-5, tied with Cardinals in NL Central.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Griffin season development; Pirates NL Central race; next pre-debut extension record
+
+### Story 5: Yankees Swept by Rays — Three-Game Losing Streak
+- **Angle:** FOLLOW-UP (Yankees Gil debut from April 11). Full Rays sweep: 3 straight losses, peak 8-2 → 8-5. Two 5-3 results over weekend at Tropicana. Ben Rice silver lining: 1.183 OPS, 4 HR, 100th percentile xwOBA, 75% hard-hit rate in 11 games. Rotation health still a concern.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Yankees homestand to stop streak; AL East standings with Baltimore; Rice development
+
+### Story 6: NL Central After Week 2 — Reds-Brewers Tied, Division Wide Open
+- **Angle:** NEW STORY (standings overview). Reds and Brewers co-leading at 8-4. Pirates 7-5, Cardinals 7-5, Cubs competitive. 5 teams within 2 games. Konnor Griffin arrival elevates Pirates; Reds have run differential advantage; Brewers consistent early.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** NL Central weekly standings; Cubs turnaround potential; Pirates Griffin factor
+
+### Story 7: Early-Season Stat Oddities Worth Watching
+- **Angle:** ROUNDUP. Altuve's 45-game on-base streak (active). Jeffrey Springs' velocity spike (87→93 mph). Ohtani's 45-game on-base streak entering 2026. Two pitchers with sub-1.00 ERA in 3+ starts. Stats that don't feel sustainable but are real through 2 weeks.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Altuve streak watch; Springs health and sustainability; ERA normalization watch
+
+---
+
 ## 2026-04-11
 
 ### Story 1: Braves Power Past Guardians — Acuña, Olson, Harris All Go Deep
