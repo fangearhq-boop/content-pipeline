@@ -1,0 +1,380 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-12",
+  "compiled_at": "2026-04-12T10:53:08.400903+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kendall Wells Breaks NCAA Freshman HR Record With No. 31",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kendall Wells just made history.\n\nHR No. 31 in Game 2 against Texas — the NCAA all-time freshman single-season home run record is now HERS.\n\nThree-run shot in the 5th clinched the Red River series for Oklahoma. 🥎\n\n#BoomerSooner #NCAASoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 1-2",
+          "text": "31 home runs. As a freshman.\n\nKendall Wells owns the NCAA all-time freshman single-season HR record. She still needs 6 more to break the ALL-TIME record of 37.\n\nThe chase isn't over. 🔥\n\n#BoomerSooner #NCAASoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "*Posting Window: 9:30 AM ET*\n\nHistory was made Saturday night in Austin.\n\nKendall Wells hit home run No. 31 in the fifth inning of Oklahoma's 4-3 win over Texas — and with that swing, she officially became the greatest freshman power hitter in NCAA softball history. The three-run shot broke the all-time freshman single-season home run record of 30, previously shared by Lauren Chamberlain, Janie Reed Espinoza, and Dejah Mulipola.\n\nThink about the stage: a back-and-forth Game 2 of the Red River Showdown, on the road against the defending national champions, with the SEC title and a postseason seed all hanging in the balance. Wells didn't just break the record — she did it in the most dramatic situation imaginable.\n\nAnd she's not done. Six more home runs would break the all-time NCAA single-season record of 37, set by Espinoza at Arizona back in 1995 — a record that has stood for 31 years. Wells is on a pace no freshman has ever approached. She has 32 regular-season games remaining.\n\nThis is one of those seasons you'll tell people you watched live.\n\nWhat do you think — can Wells get to 37 and break the all-time record too?",
+        "image_caption": "*Post with action photo*\n\nKendall Wells just made history. HR No. 31 breaks the NCAA all-time freshman single-season home run record. Six more and she's got the ALL-TIME mark too. 🥎",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-wells-breaks-ncaa-freshman-hr-record.html",
+        "headline": "History Made: Kendall Wells Breaks NCAA Freshman Home Run Record With No. 31",
+        "word_count": 651
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells Breaks NCAA Freshman HR Record\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Kendall Wells at the plate, mid-swing or completing a home run — powerful, triumphant, high-energy. Ideally catching her rounding the bases or celebrating.\n- **Photo Search Terms (Imagn):**\n  - \"Kendall Wells Oklahoma\"\n  - \"Kendall Wells Sooners\"\n  - \"Oklahoma Softball\"\n  - \"Wells Oklahoma batter\"\n- **Text Overlay Copy:**\n  - Headline (Bebas Neue, white): \"HISTORY MADE\"\n  - Subtitle (Montserrat, #FFD700 Primary Gold): \"Wells HR No. 31 — NCAA Freshman Record Broken\"\n- **Composition Notes:** Bold red and gold color treatment. Isolate Wells against clean background. Historic, triumphant energy. Large headline with record number prominent.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Kendall Wells Oklahoma\", \"Kendall Wells Sooners\"\n- **Text Overlay:** Same headline/subtitle, formatted for landscape\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kendall Wells Breaks NCAA Freshman HR Record With No. 31\n**Story Type:** FOLLOW UP (Wells HR chase — record now broken)\n**Sources:**\n- SI.com: \"Oklahoma's Kendall Wells Sets Record, Clinches Red River Rivalry With Clutch Homer\" — confirmed HR No. 31, three-run shot in 5th inning, Game 2 vs. Texas April 11\n- Just Women's Sports: \"Oklahoma softball: Kendall Wells SEC home run record 2026\" — confirmed SEC record broken earlier\n- OU Athletics / SoonerSports: \"Lowry Goes the Distance in Series-Opening Win at No. 4 Texas\" — confirmed Game 1 details\n- ESPN Game 2 box score: Oklahoma 4, Texas 3 final — confirmed score\n- News9.com: \"By the numbers: No. 2 OU softball takes Game Two over rival Texas 4-3 and claims the series\"\n**Key Facts (confidence levels):**\n- Wells hit HR No. 31 in the 5th inning of Game 2 (April 11) against Texas [HIGH — SI.com + multiple outlets]\n- The HR was a three-run shot that gave Oklahoma a 4-2 lead [HIGH — ESPN box score + News9.com]\n- This broke the NCAA all-time freshman single-season HR record (previous record: 30, shared by Chamberlain/Espinoza/Mulipola) [HIGH — SI.com record article]\n- Wells still needs 6 more HRs to break the all-time NCAA single-season record of 37 (Espinoza, Arizona, 1995) [HIGH — from prior story history, math confirmed]\n- Oklahoma won Game 2, 4-3 [HIGH — ESPN final + News9.com]\n**Freshness Verification:**\nHR hit April 11, 2026. Record broken same day. Story published April 12 — within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Oklahoma Claims Red River Showdown Series 2-0",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Oklahoma wins the Red River Showdown series.\n\nSooners took Game 1 3-0 (Lowry CG shutout) and Game 2 4-3 on Wells' record-setting three-run HR.\n\nOU leads the SEC by 2 games. 🥎\n\n#BoomerSooner #SECSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#SECSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Texas' Teagan Kavan recorded her 500th career strikeout in Game 1 of this series.\n\nAnd still lost twice.\n\nOklahoma is just built different this year. No. 2 in the country for a reason. 🥎\n\n#BoomerSooner #HookEm #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#HookEm",
+            "#NCAASoftball"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "*Posting Window: 12:00 PM ET*\n\nOklahoma didn't just win the Red River Showdown — they came into Austin and took it.\n\nGame 1 on Friday set the tone. Audrey Lowry threw a complete-game shutout, holding the defending national champions scoreless. Ella Parker homered in the first, Isabela Emerling added a solo shot in the sixth, and just like that the Sooners were up 1-0 in the series. Texas pitcher Teagan Kavan recorded her 500th career strikeout in that game — a genuine milestone — and it still wasn't enough.\n\nThen came Saturday. Oklahoma 4, Texas 3. Kendall Wells' record-breaking three-run homer in the fifth inning gave the Sooners the lead and clinched the series. McCombs Field, where Texas had gone 17-1 this season, couldn't stop what OU brought this weekend.\n\nThe SEC implications are real. Oklahoma now leads the conference by two games. A Texas sweep would have made this a race. Instead, the Sooners tighten their grip and head into the rest of the season with a statement series win behind them.\n\nGame 3 is still on Sunday at 1 p.m. CT on ESPN — but the series belongs to Oklahoma.\n\n#BoomerSooner",
+        "image_caption": "*Post with celebration photo*\n\nOklahoma. At McCombs. Series won. Audrey Lowry's shutout and Kendall Wells' record-breaking homer did the job. Sooners take the Red River Showdown 2-0.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-oklahoma-claims-red-river-series.html",
+        "headline": "Oklahoma Claims the Red River Showdown: Sooners Take Series 2-0 in Austin",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Claims Red River Showdown Series\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Oklahoma celebration or key action shot — ideally the team celebrating a series win, or Audrey Lowry pitching at McCombs Field\n- **Photo Search Terms (Imagn):**\n  - \"Oklahoma Softball\"\n  - \"Audrey Lowry Oklahoma\"\n  - \"Sooners Softball Texas\"\n  - \"Kendall Wells Oklahoma\"\n- **Text Overlay Copy:**\n  - Headline (Bebas Neue, white): \"SERIES CLINCHED\"\n  - Subtitle (Montserrat, #FF8A00 Primary Orange): \"Oklahoma Takes the Red River Showdown 2-0\"\n- **Composition Notes:** Crimson and cream colors. Rivalry energy, dominant tone. Victory feel.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Oklahoma Softball Texas\", \"Audrey Lowry Oklahoma\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Claims Red River Showdown Series 2-0\n**Story Type:** FOLLOW UP (Red River series outcome)\n**Sources:**\n- ESPN Game 1 box score: Oklahoma 3, Texas 0 (April 10)\n- OU Athletics: \"Lowry Goes the Distance in Series-Opening Win at No. 4 Texas\" — confirmed Game 1 details\n- Daily Texan: \"Texas softball drops first game of Red River Rivalry series after strong showing from Kavan\"\n- ESPN Game 2 box score: Oklahoma 4, Texas 3 (April 11)\n- News9.com: \"By the numbers: No. 2 OU softball takes Game Two over rival Texas 4-3 and claims the series\"\n- Texas Athletics: \"Kavan records 500th career strikeout — No. 4 softball falls to No. 2 Oklahoma in series opener\"\n**Key Facts (confidence levels):**\n- Game 1 final: Oklahoma 3, Texas 0 [HIGH — ESPN box score + OU Athletics, 2 independent sources]\n- Audrey Lowry threw a complete-game shutout in Game 1 [HIGH — OU Athletics official recap]\n- Ella Parker hit a two-run HR in Game 1 (1st inning) [HIGH — OU Athletics recap]\n- Isabela Emerling hit a solo HR in Game 1 (6th inning) [HIGH — OU Athletics recap]\n- Teagan Kavan recorded her 500th career strikeout in Game 1 [HIGH — Texas Athletics official]\n- Game 2 final: Oklahoma 4, Texas 3 [HIGH — ESPN final + News9.com]\n- OU clinched the series with Game 2 win [HIGH — News9.com headline explicitly states \"claims the series\"]\n- Game 3 (Sunday April 12) scheduled at 1 p.m. CT on ESPN — result not yet confirmed [LOW — game still in progress at research time]\n**Freshness Verification:**\nGames played April 10-11. Full series recap published April 12 — within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Stanford Sweeps FSU — Seminoles Fall in Two at Palo Alto",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Stanford just swept Florida State.\n\nStanford 9, FSU 8 on Friday (walk-off grand slam). Stanford 7, FSU 2 on Saturday.\n\nThe Seminoles drop two straight road games to a ranked team. 😳\n\n#Noles #NCAASoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Noles",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Addyson Sheppard's walk-off grand slam ended FSU's 25-game win streak on Friday.\n\nThen Stanford won Game 2 by five.\n\nFSU enters the Week 10 poll with back-to-back losses. Their season isn't over — but it just got harder. 🥎\n\n#Noles #ACCSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Noles",
+            "#ACCSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "*Posting Window: 1:30 PM ET*\n\nTwo days in Palo Alto, and Florida State leaves empty-handed.\n\nFriday's walk-off grand slam by Addyson Sheppard — delivered in the bottom of the seventh after FSU had mounted a remarkable comeback — ended the Seminoles' 25-game winning streak. That was stunning enough. But Saturday, Stanford came back with a 7-2 win to finish the sweep and make sure there was no doubt about what just happened.\n\nFSU now has back-to-back losses for the first time this season. Coming into the weekend, the Seminoles hadn't lost since February. Now they've dropped two road games to a ranked opponent, and the national conversation around Florida State has shifted significantly.\n\nWhat does this mean for the rankings? FSU entered the weekend at No. 5 in the NFCA poll. They'll fall — possibly out of the top 10. The Week 10 poll comes out Tuesday, and the damage could be real.\n\nWhat it doesn't mean is that FSU is no longer a tournament team. Isa Torres is still batting elite numbers, the staff is still talented, and one bad road trip doesn't define a postseason run. But the road to a top seed just got harder.\n\nWere you watching this weekend? What did you make of the Stanford sweep?",
+        "image_caption": "*Post with game photo*\n\nStanford swept Florida State — back-to-back losses end FSU's remarkable run. The walk-off grand slam ended the streak Friday. The 7-2 loss Saturday sealed the sweep. Now the Seminoles face a real rankings hit. 😳",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-stanford-sweeps-fsu.html",
+        "headline": "Stanford Completes the Sweep: FSU Falls in Two Games at Palo Alto",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Stanford Sweeps FSU\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** FSU player reacting to a tough moment OR Stanford celebrating — contrast the emotion of the upset sweep\n- **Photo Search Terms (Imagn):**\n  - \"Florida State Softball\"\n  - \"FSU Softball Stanford\"\n  - \"Isa Torres Florida State\"\n  - \"Seminoles Softball\"\n- **Text Overlay Copy:**\n  - Headline (Bebas Neue, white): \"STANFORD SWEEPS FSU\"\n  - Subtitle (Montserrat, #E53935 Accent Red): \"Two Road Losses — Streak and Series Both Gone\"\n- **Composition Notes:** Dramatic, high-contrast treatment. Convey the shock of a sweep. FSU colors but subdued (loss context).\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Florida State Softball\", \"Isa Torres Florida State\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stanford Sweeps FSU — Seminoles Fall in Two at Palo Alto\n**Story Type:** FOLLOW UP (FSU win streak ended Game 1; Game 2 loss completes sweep)\n**Sources:**\n- On3 / Cardinal Sports Report: \"Recap: No. 24 Stanford softball walks it off against No. 5 Florida State\" — confirmed walk-off grand slam by Sheppard in Game 1\n- 247Sports: Live thread for FSU at Stanford Game 1 — confirmed Stanford 9, FSU 8 final\n- Yahoo Sports: \"No. 9 FSU softball's rally falls short\" — confirmed Game 1 result\n- ESPN Game 2 box score: Stanford 7, FSU 2 (April 11)\n- FSU Official (seminoles.com): \"No. 9 Softball Falls to No. 23 Stanford\" — confirmed Game 2\n**Key Facts (confidence levels):**\n- Game 1 final: Stanford 9, FSU 8 (April 10, walk-off grand slam) [HIGH — On3 + 247Sports + Yahoo, 3 independent sources]\n- Addyson Sheppard hit the walk-off grand slam in the 7th inning [HIGH — On3 recap]\n- FSU scored 6 runs in the top of the 7th to nearly complete a comeback in Game 1 [HIGH — 247Sports thread]\n- FSU's 25-game winning streak ended in Game 1 [HIGH — widely reported across all sources]\n- Game 2 final: Stanford 7, FSU 2 (April 11) [HIGH — ESPN + FSU official, 2 independent sources]\n- Stanford swept FSU (won both Games 1 and 2) [HIGH — confirmed]\n- Game 3 scheduled Sunday; Stanford had already clinched the series [MEDIUM — series format confirmed, Game 3 result not indexed]\n- FSU record going in: approximately 36-6 [MEDIUM — inferred from season records]\n**Freshness Verification:**\nGame 2 played April 11. Sweep confirmed by FSU official release. Published April 12.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Coach Patrick Murphy Becomes First SEC Coach to 500 Conference Wins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Alabama's Patrick Murphy became the first SEC softball coach to ever reach 500 conference wins.\n\n500-205 (.709). No other SEC coach has even reached 400.\n\nAlabama sweeps Auburn. Now 38-3. 🥎\n\n#RollTide #SECSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#SECSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Patrick Murphy's 500th SEC win came in a shutout.\n\nVic Moten threw a CG shutout, allowing 1 hit. Alabama clinched the series at Auburn.\n\nThe Crimson Tide also jumped to No. 1 in the Softball America rankings. 🔥\n\n#RollTide #SECSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#SECSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "*Posting Window: 3:30 PM ET*\n\nIt happened Saturday in Auburn, and it belongs in the history books.\n\nAlabama head coach Patrick Murphy won his 500th conference game against Auburn — becoming the first softball coach in SEC history to reach that milestone. Not the first recently. The first ever. No other SEC coach has even reached 400 conference wins.\n\nHis record in the SEC now stands at 500-205, a winning percentage of .709. That's not just longevity — that's sustained excellence over decades of competition against the most talented conference in college softball.\n\nThe game itself was a fitting tribute. Pitcher Vic Moten threw a complete-game shutout against Auburn, allowing just one hit in a 4-0 Alabama win. The Crimson Tide clinched the series at Auburn and did so the way great Alabama teams do — with clean, dominant softball.\n\nAnd the context makes it even richer: Alabama swept the series, improved to 38-3 on the season, and is now the No. 1 team in the Softball America rankings for the first time this season.\n\nMurphy has been building something special in Tuscaloosa for a very long time. Saturday, it received the recognition it deserves.\n\n#RollTide",
+        "image_caption": "*Post with coach photo*\n\nPatrick Murphy: 500 SEC wins. First coach in conference history to reach that number. Alabama sweeps Auburn to get there. 🏆",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-murphy-500-sec-wins-alabama.html",
+        "headline": "Patrick Murphy Makes History: First SEC Coach to Reach 500 Conference Wins",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Coach Murphy — 500 SEC Wins Milestone\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Coach Patrick Murphy on the sideline or celebrating — ideally in Alabama red\n- **Photo Search Terms (Imagn):**\n  - \"Patrick Murphy Alabama\"\n  - \"Alabama Softball coach\"\n  - \"Alabama Softball\"\n  - \"Crimson Tide Softball\"\n- **Text Overlay Copy:**\n  - Headline (Bebas Neue, white): \"500 SEC WINS\"\n  - Subtitle (Montserrat, #FFD700 Primary Gold): \"Patrick Murphy — First Coach in SEC History to Reach the Milestone\"\n- **Composition Notes:** Respectful, historic feel. Coaching milestone energy. Alabama crimson and gold color palette.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Patrick Murphy Alabama\", \"Alabama Softball\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Coach Patrick Murphy — First SEC Coach to 500 Conference Wins\n**Story Type:** NEW STORY (historic coaching milestone)\n**Sources:**\n- SI.com: \"Patrick Murphy Reaches Milestone: Alabama Softball Secures Series at Auburn\" — confirmed 500th SEC win, Game 2 details\n- WAAYTV.com: \"Patrick Murphy becomes first SEC softball coach to earn 500 conference wins as Alabama secures...\" — confirmed milestone + Alabama series win\n- ESPN Game 2 box score: Alabama 4, Auburn 0 (April 11)\n- ESPN Game 1 box score: Alabama 1, Auburn 0 (April 10)\n**Key Facts (confidence levels):**\n- Murphy reached 500 SEC wins in Game 2 at Auburn (April 11) [HIGH — SI.com + WAAYTV, 2 independent sources]\n- Murphy is the first SEC softball coach to reach 500 conference wins [HIGH — both sources state explicitly]\n- No other SEC coach has reached 400 conference wins [HIGH — stated in sources]\n- Murphy's all-time SEC record: 500-205 (.709) [HIGH — WAAYTV article]\n- Game 2 final: Alabama 4, Auburn 0 [HIGH — ESPN box score]\n- Pitcher Vic Moten threw a complete-game shutout in Game 2, allowing 1 hit and 3 walks [HIGH — SI.com recap]\n- It was Moten's 4th shutout of the season [MEDIUM — SI.com]\n- Alabama clinched the series with Game 2 win [HIGH — both sources confirm]\n- First time since 2014 Alabama has won each of its first five conference series [MEDIUM — SI.com article]\n- Game 1 final: Alabama 1, Auburn 0 (Jocelyn Briski earned the win, 15-1 record) [HIGH — ESPN box score]\n- Alabama record: 38-3, 11-3 SEC [HIGH — confirmed]\n**Freshness Verification:**\nGame 2 played April 11. SI.com milestone article published April 11-12. Published April 12.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Nebraska Sweeps Wisconsin — 7 Straight Wins, 13-1 Big Ten",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nebraska swept Wisconsin — blanked the Badgers twice (5-0 and 6-0).\n\nSeven straight wins. Now 32-6, 13-1 in the Big Ten.\n\nThe Huskers belong in every No. 1 national seed conversation. 👀\n\n#Huskers #BigTen #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#BigTen",
+            "#NCAASoftball"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "*Posting Window: 5:30 PM ET*\n\nNebraska didn't just beat Wisconsin this weekend — they dominated them in two consecutive shutouts.\n\nFriday: Nebraska 5, Wisconsin 0. Wisconsin managed just 2 hits all night.\nSaturday: Nebraska 6, Wisconsin 0. All six runs came in a single inning.\n\nThe Huskers have now won seven straight games and own a 13-1 record in Big Ten play. At 32-6 overall, they've built one of the most impressive résumés in the country for a program that doesn't always get the national recognition it deserves.\n\nFor anyone building WCWS projections: Nebraska's run differential, Big Ten dominance, and pitching depth all point to a team capable of making a deep tournament run. The conversation about top-8 national seeds needs to include Lincoln.\n\nSeven straight wins. Two shutouts in a weekend. The Big Ten title is Nebraska's to lose.\n\nWhat do you think — does Nebraska get a top-8 national seed this year?",
+        "image_caption": "*Post with team photo*\n\nNebraska swept Wisconsin — back-to-back shutouts (5-0 and 6-0). Seven straight wins. 13-1 in the Big Ten. The Huskers are making a national seed case nobody can ignore. 👀",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nebraska-sweeps-wisconsin-big-ten.html",
+        "headline": "Seven Straight: Nebraska Sweeps Wisconsin With Back-to-Back Shutouts",
+        "word_count": 476
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska Sweeps Wisconsin\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Nebraska pitcher or team celebration — Huskers in scarlet and cream, dominant energy\n- **Photo Search Terms (Imagn):**\n  - \"Nebraska Softball\"\n  - \"Huskers Softball\"\n  - \"Nebraska pitcher softball\"\n  - \"Nebraska softball team\"\n- **Text Overlay Copy:**\n  - Headline (Bebas Neue, white): \"SWEPT. SHUTOUT. TWICE.\"\n  - Subtitle (Montserrat, #FFD700 Primary Gold): \"Nebraska 13-1 Big Ten — 7 Straight Wins\"\n- **Composition Notes:** Husker scarlet and cream accents. Dominant energy. Seven straight win streak featured prominently.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Nebraska Softball\", \"Huskers Softball\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nebraska Sweeps Wisconsin — 7 Straight Wins, 13-1 Big Ten\n**Story Type:** FOLLOW UP (Nebraska season dominance)\n**Sources:**\n- 1011now.com: \"No. 7 Nebraska routs Wisconsin, seventh straight win, 6-0\" — confirmed Game 2 details\n- Huskers.com: \"Huskers shut down Badgers on Friday\" — confirmed Game 1 details\n- Corn Nation: \"Huskers Softball recap: A no-hitter foiled; one big inning — Nebraska 5, Nebraska 6, Wisconsin 0\" — confirmed both game summaries\n**Key Facts (confidence levels):**\n- Game 1 final: Nebraska 5, Wisconsin 0 (April 10) [HIGH — Huskers.com + Corn Nation]\n- Wisconsin held to 2 hits in Game 1 [HIGH — Corn Nation recap]\n- Game 2 final: Nebraska 6, Wisconsin 0 (April 11) [HIGH — 1011now.com + Corn Nation, 2 independent sources]\n- All 6 runs came in a single inning (4th inning) in Game 2 [HIGH — 1011now.com]\n- Nebraska's seventh straight win [HIGH — 1011now.com headline]\n- Nebraska record after sweep: 32-6 overall, 13-1 Big Ten [HIGH — 1011now.com]\n- Rankings: Nebraska listed as No. 7 in 1011now.com article; No. 5 in Corn Nation — slight discrepancy between polls [MEDIUM — varies by poll source]\n**Freshness Verification:**\nGame 2 played April 11. 1011now.com published April 11. Published April 12.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Texas Tech Falls to Utah in Game 2 — Series Tied 1-1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "UPSET ALERT: Utah beats No. 1 Texas Tech 4-0 on Saturday.\n\nTwo weather delays (nearly 5 hours). The Red Raiders held scoreless.\n\nSeries tied 1-1 heading into Sunday's decider. 🥎\n\n#WreckEm #CollegeSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#CollegeSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "*Posting Window: 4:00 PM ET*\n\nNobody beats No. 1 Texas Tech easily.\n\nAnd yet, Utah did exactly that on Saturday — a 4-0 shutout of the nation's top-ranked team in a game stretched to nearly five hours by two separate weather delays. Game 1 went to Texas Tech 10-2. Game 2 went to Utah 4-0. Sunday's Game 3 is now a winner-take-all decider.\n\nThis is the kind of road test that defines seasons. Texas Tech has rolled through every opponent this year, but road play against motivated teams in unusual conditions — delays, cold, a hostile environment — tests different things. Saturday tested the Red Raiders and found a crack.\n\nFor Utah, this is a genuine program moment. Beating the nation's No. 1 team in any fashion is a statement.\n\nGame 3 is noon CT Sunday on ESPN+. NiJaree Canady will almost certainly be in the circle. The Red Raiders need to bounce back quickly.\n\nWhat happens Sunday — does Texas Tech take the series, or does Utah complete the upset?",
+        "image_caption": "*Post with game photo*\n\nUtah 4, Texas Tech 0. The nation's No. 1 team shut out on the road. Two weather delays, nearly five hours of softball, and an upset to talk about. Series tied 1-1, Game 3 is Sunday.",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech Falls to Utah in Game 2\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Utah celebrating OR Texas Tech dejected on the road — upset energy\n- **Photo Search Terms (Imagn):**\n  - \"Texas Tech Softball\"\n  - \"NiJaree Canady Texas Tech\"\n  - \"Red Raiders Softball road\"\n  - \"Utah Softball\"\n- **Text Overlay Copy:**\n  - Headline (Bebas Neue, white): \"UPSET ALERT\"\n  - Subtitle (Montserrat, #FF8A00 Primary Orange): \"Utah 4, No. 1 Texas Tech 0 — Series Tied 1-1\"\n- **Composition Notes:** Bold \"upset\" energy. Red and black contrast. Surprise/shock visual tone.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech Falls to Utah in Game 2 — Series Tied 1-1\n**Story Type:** NEW STORY (upset alert)\n**Sources:**\n- Texas Tech official (texastech.com): \"No. 1 Red Raiders fall to Utah\" — confirmed Game 2 loss\n- KCBD.com: \"No. 1 Red Raider Softball falls to Utah\" — confirmed Game 2\n- ESPN box score: Utah 4, Texas Tech 0 (April 11)\n**Key Facts (confidence levels):**\n- Game 2 final: Utah 4, Texas Tech 0 (April 11) [HIGH — ESPN + Texas Tech official + KCBD, 3 independent sources]\n- Two weather delays extended the game to nearly 5 hours [HIGH — Texas Tech official]\n- Texas Tech was held scoreless (shutout) [HIGH — score confirmed]\n- Series now tied 1-1 heading into Sunday Game 3 [HIGH — confirmed]\n- Game 1 final: Texas Tech 10, Utah 2 (April 10) [HIGH — from April 11 story history]\n- Game 3 scheduled Sunday noon CT [MEDIUM — game scheduled, result not confirmed at research time]\n**Freshness Verification:**\nGame 2 played April 11. Texas Tech official published April 11-12. Published April 12.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Softball America Week 10 Rankings — Alabama Climbs to No. 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Softball America Week 10 top five:\n\nNo. 1 Alabama\nNo. 2 Texas Tech\nNo. 3 Oklahoma\nNo. 4 Texas\nNo. 5 Nebraska\n\nAlabama sits at the top for the first time this season. 🥎\n\n#SECSoftball #NCAASoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "*Posting Window: 8:00 PM ET*\n\nAlabama is No. 1 for the first time this season.\n\nSoftball America's Week 10 composite rankings reflect a weekend of upheaval at the top of college softball. Alabama jumped to No. 1 after sweeping Auburn and completing a dominant week that included coach Murphy reaching 500 SEC wins. Texas Tech fell to No. 2 after dropping Game 2 to Utah. Oklahoma holds at No. 3, Texas at No. 4, Nebraska at No. 5.\n\nThe official NFCA Week 10 coaches' poll comes out Monday and will likely tell a similar story — though FSU's sweep by Stanford and Texas Tech's stumble at Utah may cause larger movement across the full rankings.\n\nHere's the bigger picture: We're entering the final month of the regular season, and teams are separating. Alabama, Texas Tech, and Oklahoma are all contenders. Nebraska is right there. And Stanford — having just swept FSU — made a statement about their own tournament intentions.\n\nThe road to Oklahoma City is running through a very crowded top 5 right now.\n\nWho do you think finishes as the No. 1 overall seed for the WCWS?",
+        "image_caption": "*Post with rankings graphic*\n\nSoftball America Week 10 is out. Alabama is No. 1 for the first time this season. Texas Tech No. 2, Oklahoma No. 3, Texas No. 4, Nebraska No. 5. The race to Oklahoma City is officially on. 🥎",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Softball America Week 10 Rankings\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Alabama softball action shot — Crimson Tide celebrating or player close-up\n- **Photo Search Terms (Imagn):**\n  - \"Alabama Softball\"\n  - \"Crimson Tide Softball\"\n  - \"Alabama softball pitcher\"\n  - \"Alabama Softball celebration\"\n- **Text Overlay Copy:**\n  - Headline (Bebas Neue, white): \"WEEK 10 TOP 5\"\n  - Subtitle (Montserrat, #E53935 Accent Red): \"Alabama No. 1 | TTech No. 2 | OU No. 3 | Texas No. 4 | Nebraska No. 5\"\n- **Composition Notes:** Clean rankings graphic feel. Dark navy background with white/gold rankings list. Alabama featured prominently."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Softball America Week 10 Rankings — Alabama Rises to No. 1\n**Story Type:** FOLLOW UP (rankings)\n**Sources:**\n- On3 (Softball America): \"Softball America Top 25 Rankings Week 10\" — confirmed Alabama No. 1, Texas Tech No. 2, OU No. 3\n- SI.com: \"Alabama Softball Dethrones Texas, Takes Over No. 1 Ranking 2026\" — confirmed Alabama at No. 1\n- Yahoo Sports: \"No. 1 Softball America Top 25\" — confirmed ranking\n**Key Facts (confidence levels):**\n- Alabama is No. 1 in Softball America Week 10 composite rankings [HIGH — On3 + SI.com + Yahoo, 3 sources]\n- Texas Tech dropped to No. 2 [HIGH — On3 Week 10]\n- Oklahoma No. 3, Texas No. 4, Nebraska No. 5 [HIGH — On3 Week 10]\n- Rankings reflect games through approximately April 11 [MEDIUM — exact cutoff varies]\n- Official NFCA Week 10 coaches' poll releases Monday April 13 [HIGH — NFCA standard schedule]\n**Freshness Verification:**\nSoftball America Week 10 published over weekend. NFCA poll to follow Monday April 13.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 11,
+    "facebook_posts_count": 7,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-12
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (agent, 12+ web searches), brief (7 stories), research notes, story analysis, X posts (11), FB posts (7), image concepts, image manifest, articles (5), fact-check (120 claims, 1 consistency warning: Story 6 Tier 2 no article — expected), compile (JSON compiled, 7 stories, 11 tweets, 7 FB, 5 articles), dashboard (37 items), PostPlanner exports (11 posts X, 11 TOBI posts), WordPress publish attempted.
+- **Dashboard Published**: Local only — publish-unified-dashboard.py 403 (PAT scope, known); publish-dashboard.py push failed non-fast-forward then resolved; dashboard at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: Push to content-pipeline pending final commit
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). publish-unified-dashboard.py 403 (PAT scope, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Story 6 no article — 5 articles meet minimum.
+
+## Previous Run
 - **Date**: 2026-04-11
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ web searches), brief (7 stories), research notes, story analysis, X posts (10), FB posts (7), image concepts, image manifest, articles (5), fact-check (125 claims, 0 char violations, all stories pass consistency), compile (JSON compiled, 0 errors), dashboard (36 items), PostPlanner exports (10 posts X, 10 TOBI posts), WordPress publish attempted.
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/ (push to dashboards repo failed: PAT scope limitation, known issue)
@@ -86,6 +93,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-12
+- Stories: 7 (4 Tier 1, 2 Tier 2, 1 Tier 3)
+- X posts: 11 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-4 Tier 1 + Story 5 Tier 2; Story 6 social only, Story 7 social only)
+- Fact-check: 120 claims. 0 char-limit violations. 1 consistency warning (Story 6 Tier 2 no article — expected by design). IMAGE MISSING expected (not_started).
+- Dashboard: 37 items. publish-unified-dashboard 403 (PAT scope, known). publish-dashboard non-fast-forward resolved with git pull.
+- PostPlanner: ils-postplanner-2026-04-12.xlsx (11 posts), ils-postplanner-tobi-2026-04-12.xlsx (11 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Wells HR No. 31 breaks NCAA all-time freshman record 3-run shot 5th inning vs Texas clinches Red River series (P10); OU claims Red River Showdown 2-0 (Game 1 Lowry CG shutout 3-0, Game 2 4-3 Wells HR, Kavan 500th career K in loss) (P9); Stanford sweeps FSU 9-8 walk-off GS Sheppard + 7-2 Game 2, first back-to-back FSU losses (P8); Murphy first SEC coach to 500 conference wins Moten CG shutout Alabama sweeps Auburn 38-3 (P8); Nebraska sweeps Wisconsin 5-0/6-0 seven straight wins 13-1 Big Ten 32-6 (P7); Utah upsets No. 1 TTech 4-0 Game 2 series tied 1-1 two weather delays 5 hrs (P5); Softball America Week 10 Alabama No. 1 first time this season (P4)
+- Notes: publish-unified-dashboard 403 PAT error (known). FB posts compile to 0 (heading format — known, dashboard uses markdown fallback). Git pull needed before final push.
 
 ### 2026-04-09
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)

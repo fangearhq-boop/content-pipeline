@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 12, 2026
+
+### Story 1: Kendall Wells Breaks NCAA Freshman HR Record With No. 31
+- **Angle:** FOLLOW UP (Wells HR chase). Wells hit HR No. 31 in 5th inning of Game 2 vs. Texas (April 11) — three-run shot gave OU 4-2 lead, clinched Red River series. Broke all-time NCAA freshman single-season HR record (previous: 30, shared by Chamberlain/Espinoza/Mulipola). Still needs 6 more to break all-time record of 37 (Espinoza, Arizona, 1995).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-Up Opportunities:** Wells HR No. 32+ updates; all-time record chase (37 needed); OU postseason seeding; Wells individual awards
+
+### Story 2: Oklahoma Claims Red River Showdown Series 2-0
+- **Angle:** FOLLOW UP (Red River series outcome). OU won Game 1 3-0 (Lowry CG shutout, Parker 2-run HR, Emerling solo HR) and Game 2 4-3 (Wells record-setting HR). Texas' Kavan notched 500th career K in Game 1. OU extends SEC lead. Game 3 still Sunday.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-Up Opportunities:** Game 3 result Sunday; OU SEC title implications; Lowry season stats; Kavan 500 K milestone follow-up
+
+### Story 3: Stanford Sweeps FSU — Seminoles Fall in Two at Palo Alto
+- **Angle:** FOLLOW UP (FSU win streak ended Game 1, now swept). Stanford 9 FSU 8 Friday (Sheppard walk-off grand slam, FSU scored 6 in 7th but lost). Stanford 7 FSU 2 Saturday. FSU's first back-to-back losses of season. Rankings damage expected in Week 10 poll.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-Up Opportunities:** NFCA Week 10 poll damage; FSU ACC remaining schedule; Torres stats after sweep; FSU national seed standing
+
+### Story 4: Coach Patrick Murphy — First SEC Coach to 500 Conference Wins
+- **Angle:** NEW STORY (coaching milestone). Murphy reached 500th SEC win in Game 2 at Auburn (April 11) — Moten CG shutout, 4-0 win, 1 hit allowed. First ever SEC softball coach to 500. No other SEC coach has reached 400. Murphy 500-205 (.709) all-time in SEC. Alabama first time since 2014 winning all first 5 conference series. Alabama 38-3.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-Up Opportunities:** NFCA coaching recognition; Alabama No. 1 official NFCA poll; Murphy all-time coaching legacy pieces
+
+### Story 5: Nebraska Sweeps Wisconsin — 7 Straight Wins, 13-1 Big Ten
+- **Angle:** FOLLOW UP (Nebraska dominance). Game 1: Nebraska 5-0 (2 hits allowed, near no-hitter). Game 2: Nebraska 6-0 (all 6 runs in 4th inning, 7th straight win). Now 32-6, 13-1 Big Ten.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-Up Opportunities:** Big Ten title clinch; national seed projection; Game 3 result Sunday
+
+### Story 6: Texas Tech Falls to Utah in Game 2 — Series Tied 1-1
+- **Angle:** NEW STORY (upset). Utah 4, TTech 0 on Saturday. Two weather delays (5 hrs). Red Raiders shut out. Series tied 1-1, Game 3 Sunday noon CT.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-Up Opportunities:** Game 3 result; impact on TTech national seed; Canady next start
+
+### Story 7: Softball America Week 10 Rankings — Alabama No. 1
+- **Angle:** FOLLOW UP (rankings). Alabama No. 1, TTech No. 2, OU No. 3, Texas No. 4, Nebraska No. 5. Official NFCA poll Monday April 13.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-Up Opportunities:** Official NFCA Week 10 reaction; FSU and TTech drops confirmed
+
+---
+
 ## April 11, 2026
 
 ### Story 1: Stanford Ends FSU's 25-Game Winning Streak
