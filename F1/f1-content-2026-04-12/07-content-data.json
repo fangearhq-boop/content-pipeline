@@ -1,0 +1,348 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-12",
+  "compiled_at": "2026-04-12T11:49:01.468242+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — F1 April break overview",
+      "type": "Feature"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 — Antonelli championship history",
+      "type": "Driver feature"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — Full standings update",
+      "type": "Stats"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 — FIA April 20 vote preview",
+      "type": "Technical"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 4 — Ferrari Monza test April 22",
+      "type": "Technical"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 5 — Red Bull Miami upgrade crisis",
+      "type": "Technical"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — Verstappen 24H Qualifiers preview",
+      "type": "Driver news"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7 — Miami GP race preview",
+      "type": "Preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "The F1 April Break — Five Weeks, One Goal: Beat Mercedes in Miami",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Formula 1 is on a 5-week break. But the factories aren't.\n\nRed Bull: emergency RB22 upgrades.\nFerrari: Miami aero test at Monza April 22.\nFIA: binding regulation vote April 20.\n\nThe 2026 season restarts May 1 in Miami — and nothing will look the same. #F1Fanrecap #Formula1",
+          "posting_time": "8:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Formula1"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM"
+      },
+      "article": {
+        "filename": "article-01-f1-april-break-teams-prepare-miami.html",
+        "headline": "Five Weeks to Miami: Every F1 Team Is Racing the Clock",
+        "word_count": 611
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "The F1 April Break\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** TOBI — Canva text overlay\n- **Search terms:** \"Formula 1 factory engineering\"\n- **Visual:** Modern F1 factory floor / engineers working on car\n- **Text overlay:** \"5-WEEK BREAK\" / \"Every Factory Working Overtime\" / \"#F1Fanrecap\"\n- **Mood:** Urgency, engineering, behind the scenes\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** TOBI — Canva graphic\n- **Search terms:** \"Formula 1 circuit aerial view\"\n- **Visual:** Miami circuit aerial\n- **Text overlay:** \"MIAMI IS IN 19 DAYS\" / \"The break is not a rest\" / \"#F1Fanrecap\"\n- **Mood:** Countdown, anticipation\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli at 72 Points — History Made, Miami Awaits",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM, 10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kimi Antonelli. 19 years old. Leads F1 by 9 points.\n\nAfter Japan: Antonelli 72, Russell 63, Leclerc 49, Hamilton 41.\n\nHe just became the youngest championship leader in Formula 1 history.\n\nMiami is in 19 days. #F1Fanrecap #Formula1",
+          "posting_time": "10:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Formula1"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Mercedes is running away with the 2026 constructors' title.\n\nMercedes: 135 pts\nFerrari: 90 pts\nMcLaren: 46 pts\nRed Bull: 16 pts\n\nThree races in. Antonelli is No. 1. The gap to Red Bull is staggering. #F1Fanrecap #Formula1",
+          "posting_time": "10:00 AM, 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Formula1"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM, 10:30 AM"
+      },
+      "article": {
+        "filename": "article-02-antonelli-youngest-f1-championship-leader.html",
+        "headline": "Kimi Antonelli Is Leading F1 at 19 — The Numbers Behind a Historic Season",
+        "word_count": 525
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Kimi Antonelli Mercedes Formula 1\"\n- **Text overlay:** \"YOUNGEST F1 LEADER EVER\" / \"72 pts | 19 years old\" / \"#F1Fanrecap\"\n- **Mood:** Historic, triumphant\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Imagn photo\n- **Search terms:** \"Kimi Antonelli Mercedes Formula 1\"\n- **Usage:** Article hero for article-02\n- **Mood:** Championship-celebration angle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "FIA April 20 Vote — Eight Days That Could Reshape the 2026 Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The FIA votes on April 20 — 8 days away.\n\nWhat's on the table:\n• Super clip: 250 → 350kW\n• Energy recovery: 9 → 6MJ\n• ADUO safety net for struggling PU makers\n\nIf passed, Miami (May 1) could run under NEW rules. This is huge. #F1Fanrecap #Formula1",
+          "posting_time": "12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Formula1"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM"
+      },
+      "article": {
+        "filename": "article-03-fia-april-20-vote-energy-regulations.html",
+        "headline": "The April 20 Vote: What F1's Biggest Regulation Meeting Could Change",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FIA April 20 Vote\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** TOBI — infographic style\n- **Search terms:** \"Formula 1 car ERS energy recovery\"\n- **Visual:** F1 car with ERS glow visualization\n- **Text overlay:** \"FIA VOTES APRIL 20\" / \"Super clip: 250→350kW\" / \"Recovery: 9→6MJ\" / \"#F1Fanrecap\"\n- **Mood:** Technical, informational\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** TOBI\n- **Search terms:** \"FIA Formula 1 meeting\"\n- **Text overlay:** \"8 DAYS\" / \"The Rules Could Change Before Miami\" / \"#F1Fanrecap\"\n- **Mood:** Countdown urgency\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Ferrari's Miami Blueprint — Monza Test April 22 With Hamilton and Leclerc",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ferrari. Monza. April 22.\n\nHamilton and Leclerc will test their Miami aero package — revised floor, new cooling, the \"Macarena\" rear wing.\n\n200km to find time. 45 points behind Mercedes. Ferrari is not giving up. #ScuderiaFerrari #F1Fanrecap",
+          "posting_time": "12:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#ScuderiaFerrari",
+            "#F1Fanrecap"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM"
+      },
+      "article": {
+        "filename": "article-04-red-bull-rb22-miami-upgrade-crisis.html",
+        "headline": "Red Bull's Miami Gamble: Can the RB22 Relaunch Save Verstappen's Season?",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Monza Test\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Lewis Hamilton Ferrari Formula 1\"\n- **Text overlay:** \"FERRARI MONZA\" / \"April 22 | Miami Aero Package Test\" / \"#ScuderiaFerrari #F1Fanrecap\"\n- **Mood:** Technical, red Ferrari energy\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn photo\n- **Search terms:** \"Charles Leclerc Ferrari Formula 1\"\n- **Text overlay:** \"200km to close the gap\" / \"Hamilton. Leclerc. Monza. April 22.\" / \"#F1Fanrecap\"\n- **Mood:** Partnership, determination\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Red Bull's Make-or-Break Miami Upgrade — RB22 Needs a Miracle",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Red Bull is 1 second per lap slower than Mercedes.\n\n0.8s is chassis. 0.2s is the power unit.\n\nThey're bringing a major upgrade package to Miami. This is their season on the line — and Verstappen's future at the team depends on it. #F1Fanrecap #Formula1",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Formula1"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM"
+      },
+      "article": {
+        "filename": "article-05-verstappen-nurburgring-qualifiers-april-18.html",
+        "headline": "Verstappen Returns to the Nordschleife: 24H Qualifiers Are Next",
+        "word_count": 461
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Bull Miami Upgrade\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Max Verstappen Red Bull Racing Formula 1\"\n- **Text overlay:** \"RB22 RELAUNCH\" / \"0.8s Chassis Gap | Miami Upgrade Coming\" / \"#F1Fanrecap\"\n- **Mood:** Crisis/pressure, dramatic\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** TOBI — stat graphic\n- **Search terms:** \"Red Bull Racing Formula 1\"\n- **Text overlay:** \"1 SEC/LAP BEHIND MERCEDES\" / \"0.8s chassis + 0.2s PU\" / \"Red Bull Has a Problem\" / \"#F1Fanrecap\"\n- **Mood:** Performance data, urgency\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Verstappen's Nurburgring Redemption — 24H Qualifiers April 18-19",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "NLS2: Won, then disqualified.\nNLS3: Skipped (team at Paul Ricard).\n\nNext up for Verstappen: 24H Nurburgring Qualifiers — April 18-19.\n\nHe said it himself: the Nordschleife \"brings a big smile.\" One more shot at Nurburgring glory. #F1Fanrecap #Verstappen",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Verstappen"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Nurburgring\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Max Verstappen Nurburgring racing\"\n- **Text overlay:** \"NEXT STOP: APRIL 18-19\" / \"24H Nurburgring Qualifiers\" / \"#Verstappen #F1Fanrecap\"\n- **Mood:** Racing passion, redemption\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** TOBI\n- **Search terms:** \"Nurburgring Nordschleife aerial green\"\n- **Text overlay:** \"THE GREEN HELL AWAITS\" / \"Verstappen's Nurburgring Redemption\" / \"#F1Fanrecap\"\n- **Mood:** Epic, racing heritage\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Miami Grand Prix 2026 — Everything You Need to Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "19 days until the Miami Grand Prix.\n\nMay 1-3. Sprint weekend. Round 6.\n\nAntonelli leads. Verstappen needs a miracle. Ferrari has a new aero package. The FIA might change the rules before we even get there.\n\nMiami 2026 is going to be SOMETHING. #F1Fanrecap #MiamiGP",
+          "posting_time": "8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Miami GP Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** TOBI — race preview graphic\n- **Search terms:** \"Miami International Autodrome Formula 1\"\n- **Text overlay:** \"MIAMI GRAND PRIX\" / \"May 1-3, 2026 | Sprint Weekend\" / \"Round 6 of 24\" / \"#MiamiGP #F1Fanrecap\"\n- **Mood:** Excitement, tropical, modern F1"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

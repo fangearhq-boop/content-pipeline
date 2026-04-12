@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-11
+- **Date**: 2026-04-12
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-12
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5: April break overview, Antonelli championship, FIA April 20 vote, Red Bull Miami upgrade, Verstappen Nurburgring 24H Qualifiers)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-12.xlsx (8 posts) + f1fr-postplanner-tobi-2026-04-12.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-12/review-dashboard.html (27 items)
+- **Notes:** F1 April break overview (5-week gap, Bahrain/Saudi cancelled, Iran conflict); Antonelli youngest-ever championship leader (72 pts, 19y 7m 4d, broke Hamilton's 2007 record); FIA April 20 binding vote (8 days away, super clip 250→350kW, recovery 9→6MJ, ADUO refinement); Ferrari Monza test April 22 (Hamilton/Leclerc, Miami aero package); Red Bull RB22 crisis (~1s deficit, 0.8s chassis + 0.2s Ford PU, Miami upgrade, Waché pressure); Verstappen 24H Qualifiers April 18-19 (NLS2 DSQ, NLS3 skip, Nurburgring redemption).
+- **Fact concerns:** All core facts HIGH from F1.com, Sky Sports, ESPN, Motorsport.com, Crash.net, RacingNews365, GPFans, ScuderiaFans. Antonelli age (19y 7m 4d) HIGH — verified against pipeline-status April 11 (NBC News cited); "21 years old" from one search result excluded as LOW (AI distortion). Waché departure MEDIUM — cited as rumor, used with qualifier. Red Bull 1s deficit (0.8+0.2 breakdown) HIGH from multiple outlets. Exact Miami upgrade spec MEDIUM.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-11
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

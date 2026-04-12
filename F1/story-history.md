@@ -2,6 +2,71 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-12
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | F1 April Break — 5-week gap (Bahrain/Saudi cancelled, Iran conflict); factories in overdrive; Red Bull emergency RB22 upgrades; Ferrari Monza test April 22; FIA April 20 vote; Miami May 1-3 | 1 | NEW STORY (break overview) |
+| 2 | Antonelli leads championship at 72 pts (youngest F1 leader ever: 19y 7m 4d, broke Hamilton's 2007 record 22y 4m 6d); Russell 63, Leclerc 49, Hamilton 41, Norris 25, Piastri 21, Bearman 17, Gasly 15, Verstappen 12; Constructors: Mercedes 135, Ferrari 90, McLaren 46, Red Bull 16 | 1 | FOLLOW-UP |
+| 3 | FIA April 20 binding vote (8 days away); proposals: super clip 250→350kW, recovery 9→6MJ; April 15 sporting regs, April 16 technical; Ocon ~50G crash trigger; ADUO refinement; target Miami May 1-3 | 1 | FOLLOW-UP |
+| 4 | Ferrari Monza filming day April 22 (200km); Hamilton/Leclerc alternating; testing revised floor (Bahrain spec), "Macarena" rear wing, cooling; halo aero compliance issue from China; aims to close 45pt Constructors gap | 2 | FOLLOW-UP |
+| 5 | Red Bull RB22 Miami upgrade — ~1s/lap deficit (0.8s chassis + 0.2s Ford PU); aggressive sidepod reconfiguration; Waché under pressure (MEDIUM); Verstappen exit clause Aug-Oct; team 6th/16 pts | 2 | FOLLOW-UP |
+| 6 | Verstappen 24H Nurburgring Qualifiers April 18-19; missed NLS3 (Paul Ricard conflict); NLS2 win stripped (tyre breach); April 18-19 is key qualifying race for 24H May; quote: "brings a big smile" | 2 | FOLLOW-UP |
+| 7 | Miami GP preview — May 1-3, Round 6, sprint weekend; 57 laps/5.412km, GP Sunday 4pm EDT; Antonelli as championship leader entering first sprint test | 3 | FOLLOW-UP |
+
+---
+
+### STORY 1: F1 April Break — Five Weeks to Miami
+- **Tier:** 1
+- **Category:** Team Preparation / Season Break
+- **Key facts:** 5-week break (Bahrain/Saudi cancelled, Iran conflict). Mercedes consolidating advantage. Ferrari: Monza filming day April 22. Red Bull: aggressive RB22 upgrade for Miami. FIA April 20 binding vote may change rules before Miami.
+- **Status:** NEW STORY (break overview compiled for first time)
+- **Follow-Up:** Miami GP round-up; which teams made the most of the break
+
+### STORY 2: Antonelli Championship Lead
+- **Tier:** 1
+- **Category:** Championship / Driver Feature
+- **Key facts:** Antonelli 72 pts, youngest F1 leader ever (19y 7m 4d). Broke Hamilton's 2007 Spanish GP record. Russell 63, Leclerc 49, Hamilton 41. Constructors: Mercedes 135, Ferrari 90, McLaren 46, Red Bull 16.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Miami championship defense; Antonelli vs. Russell dynamics
+
+### STORY 3: FIA April 20 Vote
+- **Tier:** 1
+- **Category:** Regulations / Technical
+- **Key facts:** April 20 binding vote. Proposals: super clip 250→350kW, recovery 9→6MJ. April 15 sporting regs, April 16 technical session. Ocon ~50G crash trigger. ADUO framework. Target: Miami.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Vote outcome; Miami implementation confirmed/denied
+
+### STORY 4: Ferrari Monza Test April 22
+- **Tier:** 2
+- **Category:** Technical / Team Development
+- **Key facts:** April 22 filming day (200km). Hamilton and Leclerc alternating. Testing: revised floor, "Macarena" rear wing, cooling components. Halo aero compliance issue from China needs resolution.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Test results; Miami package confirmation
+
+### STORY 5: Red Bull Miami Upgrade
+- **Tier:** 2
+- **Category:** Technical / Crisis
+- **Key facts:** ~1s/lap deficit (0.8s chassis, 0.2s Ford PU). Aggressive sidepod reconfiguration for Miami. Verstappen 12 pts, 9th. Red Bull 16 pts, 6th Constructors. Exit clause Aug-Oct 2026.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Miami upgrade on-car; Verstappen performance at Miami
+
+### STORY 6: Verstappen 24H Nurburgring Qualifiers
+- **Tier:** 2
+- **Category:** Driver News / Endurance Racing
+- **Key facts:** NLS2 win stripped (tyre breach). NLS3 skipped (Paul Ricard conflict). April 18-19: 24H Qualifiers. Quote: "brings a big smile." Key prep race for 24H Nurburgring.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Qualifiers result; 24H Nurburgring main event
+
+### STORY 7: Miami GP Preview
+- **Tier:** 3
+- **Category:** Race Preview
+- **Key facts:** May 1-3, Round 6, sprint weekend. 57 laps, 5.412km, GP Sunday 4pm EDT. Sprint qualifying Friday, sprint race Saturday, GP Sunday.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Actual race weekend coverage
+
+---
+
 ## 2026-04-11
 
 | # | Story | Tier | Tag |
