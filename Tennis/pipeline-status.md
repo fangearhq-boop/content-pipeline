@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-11 |
-| Writing | Complete (all steps) | 2026-04-11 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-11 |
-| Compile | Complete (07-content-data.json) | 2026-04-11 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-11 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-11 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-11 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-11 |
+| Research | Complete | 2026-04-12 |
+| Writing | Complete (all steps) | 2026-04-12 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-12 |
+| Compile | Complete (07-content-data.json) | 2026-04-12 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-12 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-12 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-12 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-12 |
 
 ## Queue
 
@@ -24,6 +24,38 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-12 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total (FB long-forms compiled via JSON; separate captions in file)
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-12.xlsx (7 posts), tfr-postplanner-tobi-2026-04-12.xlsx (7 TOBI posts)
+- **Coverage:** Monte Carlo Final Day preview (Sinner vs. Alcaraz; H2H 10-6 Alcaraz; 66 weeks each at No. 1; 26 titles each; 1,651 pts each; No. 1 on the line); Sinner 4th man to reach first 3 M1000 finals in a season (Federer 2006/Nadal 2011/Djokovic 2015); Linz WTA Final (Andreeva vs. Potapova; Potapova first Austrian woman in Linz final; Andreeva beat Ruse 6-4,6-1; Potapova beat Vekic 6-4,6-2 in 79 min); Stuttgart WTA draw (Rybakina No.1 seed; Swiatek in same half; Gauff bottom half; Eala vs. Fernandez all-southpaw R1); Barcelona ATP draw (Alcaraz No.1 seed, 14-3 career record; Draper vs. Etcheverry R1)
+- **Research:** Multi-source web search; Sinner SF milestone from sundayguardianlive.com + lastwordonsports.com (2 sources); H2H stats from atptour.com; Linz SF scores from skysports.com + yardbarker.com (2 sources); Stuttgart draw from wtatennis.com + tennis365.com (2 sources); Barcelona draw from tennistonic.com + tennis365.com (2 sources)
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 43 claims; 102 HIGH
+  - compile-content-data.py: 7 X posts, 5 articles; posting window warnings cosmetic (same as all prior days)
+  - PostPlanner: 7 posts standard, 7 TOBI posts; times redistributed (today's run)
+  - Push to content-dashboards failed: PAT lacks write permission (same as all prior runs)
+  - WordPress publish failed: proxy blocks fanrumor.com — same env restriction as all prior runs
+  - Monte Carlo final result NOT yet confirmed at research time (match scheduled 3:00 PM CEST April 12); content framed as Final Day preview
+- **Files created:**
+  - `tennis-content-2026-04-12/00-daily-brief.md`
+  - `tennis-content-2026-04-12/01-research-notes.md`
+  - `tennis-content-2026-04-12/02-story-analysis.md`
+  - `tennis-content-2026-04-12/03-social-posts-x.md`
+  - `tennis-content-2026-04-12/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-12/05-image-concepts.md`
+  - `tennis-content-2026-04-12/06-fact-check-log.md`
+  - `tennis-content-2026-04-12/07-content-data.json`
+  - `tennis-content-2026-04-12/07-image-manifest.md`
+  - `tennis-content-2026-04-12/review-dashboard.html`
+  - `tennis-content-2026-04-12/articles/article-01-monte-carlo-final-sinner-alcaraz-no1-2026.html`
+  - `tennis-content-2026-04-12/articles/article-02-sinner-joins-federer-nadal-djokovic-m1000-finals-2026.html`
+  - `tennis-content-2026-04-12/articles/article-03-andreeva-potapova-linz-final-2026.html`
+  - `tennis-content-2026-04-12/articles/article-04-stuttgart-wta-draw-rybakina-2026.html`
+  - `tennis-content-2026-04-12/articles/article-05-barcelona-open-draw-alcaraz-2026.html`
 
 ### 2026-04-11 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

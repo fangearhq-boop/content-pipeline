@@ -6,6 +6,11 @@ Track previously covered stories to avoid repetition and maintain content freshn
 
 | Date | Story | Tier | Platforms | Notes |
 |------|-------|------|-----------|-------|
+| 2026-04-12 | Monte Carlo Final Day preview — Sinner vs. Alcaraz (H2H 10-6 Alcaraz); both 66 weeks at No. 1, 26 titles, 1,651 H2H pts each; 3 PM CEST | T1 | X, FB, Article | First Sinner-Alcaraz meeting of 2026; winner becomes No. 1 on Monday; Sinner 0 pts to defend |
+| 2026-04-12 | Sinner joins Federer/Nadal/Djokovic — 4th man to reach first 3 M1000 finals in same season; beat Zverev 6-1, 6-4; 21 consecutive M1000 wins | T1 | X, FB, Article | 80% first-serve pts won in Set 1 vs. Zverev; first career MC final; Federer 2006, Nadal 2011, Djokovic 2015 |
+| 2026-04-12 | WTA Linz Final — Andreeva (No.1 seed, def. Ruse 6-4,6-1) vs. Potapova (def. Vekic 6-4,6-2 in 79 min); Potapova first Austrian in Linz final | T2 | X, FB, Article | Potapova Austrian citizen; first Austrian woman to reach Linz Open final; Andreeva targeting 2nd 2026 title |
+| 2026-04-12 | Stuttgart WTA 500 draw released — Rybakina No. 1 seed; Gauff No. 2; Swiatek No. 3; Rybakina/Swiatek in same half; Eala vs. Fernandez R1 (all-southpaw) | T2 | X, FB, Article | Starts April 13-19; Swiatek 2x Stuttgart champion (2022/2023); Eala entered after Sabalenka WD |
+| 2026-04-12 | Barcelona Open Banc Sabadell draw — Alcaraz No. 1 seed (14-3 career record); Musetti (2), De Minaur (3), Khachanov (4); Draper vs. Etcheverry R1 | T2 | X, FB, Article | Starts April 13-19; projected Alcaraz QF vs. Rublev; two notable WDs; ATP 500 |
 | 2026-04-11 | Monte Carlo SF Day preview — Sinner vs. Zverev (H2H 8-4), Alcaraz vs. Vacherot (first meeting); No. 1 ranking at stake | T1 | X, FB, Article | Both have spent 66 weeks at No. 1; Sinner wins title = returns to No. 1; final Sunday if favorites hold |
 | 2026-04-11 | Sinner's 20 consecutive M1000 wins — joins Big 3; only 4th player ever; def. FAA 6-3, 6-4 in MC QF | T1 | X, FB, Article | Seventh-longest streak in series history; 3 consecutive M1000 titles (Paris, IW, Miami); SF today vs. Zverev |
 | 2026-04-11 | Vacherot's historic MC SF — first Monegasque in Open Era MC SF; saved 13 BPs; 5h17m in last 2 matches | T2 | X, FB, Article | Faces Alcaraz; No. 23 ranking; coached by half-brother Balleret; first-ever meeting vs. Alcaraz |

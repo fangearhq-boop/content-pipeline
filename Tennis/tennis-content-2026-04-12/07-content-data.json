@@ -1,0 +1,351 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-12",
+  "compiled_at": "2026-04-12T12:52:14.088963+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Monte Carlo Final Day — Sinner vs. Alcaraz, No. 1 Ranking at Stake",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "The first Sinner-Alcaraz clash of 2026 unfolds in the Monte Carlo final. Both players carry the most symmetrical rivalries in tennis: H2H 10-6 Alcaraz, but both have spent exactly 66 weeks at No. 1, both hold exactly 26 tour titles, and both have scored exactly 1,651 tour-level points against each other. Sinner extends M1000 streak to 21 with 6-1, 6-4 destruction of Zverev. Winner becomes No. 1 on Monday.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Both have spent exactly 66 weeks at No. 1.\nBoth hold exactly 26 titles.\nBoth scored exactly 1,651 H2H points against each other.\n\nSinner vs. Alcaraz. Monte Carlo final. 3 PM CEST.\n\nSomething has to give today.\n\n#Tennis #MonteCarlo",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#MonteCarlo"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Monte Carlo final day. Sinner vs. Alcaraz — their first meeting of 2026.\n\nH2H sits 10-6 Alcaraz. Sinner arrives on a 21-match M1000 win streak.\n\nWinner leaves Monaco as world No. 1 on Monday.\n\n#Tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPTour"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "THE FINAL IS HERE.\n\nJannik Sinner vs. Carlos Alcaraz — the match we have all been waiting for since January. And it is happening in Monte Carlo, on clay, with the world No. 1 ranking on the line.\n\nHere is the number that makes this final unlike anything we have seen before: both players have spent exactly 66 weeks as world No. 1. Both hold exactly 26 tour-level titles. And in their head-to-head, each player has accumulated exactly 1,651 ranking points against the other. Perfect symmetry — until today.\n\nAlcaraz leads the overall H2H 10-6. But Sinner has been the most dominant player at Masters 1000 level all season. He arrives in Monte Carlo on a 21-match Masters 1000 winning streak. Alcaraz is defending 1,000 ranking points as the 2025 Monte Carlo champion; Sinner is defending zero. If Sinner wins this title, he returns to No. 1 on Monday.\n\nThe final is set for 3:00 PM CEST on Court Rainier III. Who do you have? Sinner or Alcaraz?",
+        "image_caption": "Monte Carlo final day. 66 weeks each at No. 1. 26 titles each. Exactly 1,651 H2H points apiece. Something has to give today — Sinner vs. Alcaraz for the world No. 1 ranking.",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-01-monte-carlo-final-sinner-alcaraz-no1-2026.html",
+        "headline": "The Symmetry of Rivals: Sinner and Alcaraz Meet in Monte Carlo Final With Everything Tied — Except the No. 1 Ranking",
+        "word_count": 786
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Jannik Sinner tennis"
+          ],
+          "text_overlay": [],
+          "composition": "Portrait or mid-action shot of Sinner on clay, intense focus",
+          "usage": "X Post 1A, FB Image Caption 8 AM"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Carlos Alcaraz tennis"
+          ],
+          "text_overlay": [],
+          "composition": "Alcaraz celebrating or in mid-stroke, clay surface preferred",
+          "usage": "FB Long-Form 3 PM hero image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monte Carlo Final Day — Sinner vs. Alcaraz, No. 1 on the Line\n**Sources:**\n- atptour.com — \"Carlos Alcaraz vs Jannik Sinner: A winner-takes-all showdown for World No. 1 in Monte-Carlo\"\n- atptour.com — \"Carlos Alcaraz & Sinner will try to break a remarkable tie in the Monte-Carlo final…\"\n- atptour.com — \"Carlos Alcaraz & Jannik Sinner reignite remarkable rivalry in Monte-Carlo final: 'It's the dream'\"\n- montecarlotennismasters.com — \"Alcaraz Sets Sinner Final After Tough Vacherot Victory\"\n- skysports.com — \"Jannik Sinner cruises into Monte-Carlo Masters final where he could face great rival Carlos Alcaraz with world No 1 on the line\"\n- gbnews.com — \"Jannik Sinner heaps pressure on Carlos Alcaraz ahead of Monte Carlo Masters final and first 2026 meeting\"\n- atptour.com — \"What time is the Carlos Alcaraz vs. Jannik Sinner Monte-Carlo final?\"\n**Verified Facts (HIGH confidence):**\n- H2H Alcaraz leads Sinner 10-6 overall in their career head-to-head (atptour.com)\n- Both players have spent exactly 66 weeks as world No. 1 in their careers (confirmed April 11 article; montecarlotennismasters.com)\n- Both hold exactly 26 tour-level titles entering the final (atptour.com final preview)\n- Both have scored exactly 1,651 tour-level points against each other — a remarkable statistical tie (atptour.com \"remarkable tie\" article)\n- Alcaraz beat Vacherot 6-4, 6-4 in the SF (atptour.com, montecarlotennismasters.com — 2 sources)\n- Sinner beat Zverev 6-1, 6-4 in the SF (multiple sources — see Story 2)\n- Final scheduled at 3:00 PM CEST on Court Rainier III on Sunday, April 12 (atptour.com schedule article)\n- Sinner has 0 ranking points to defend at Monte Carlo; Alcaraz defends 1,000 pts (established, multiple sources)\n- Sinner must win the title to return to No. 1 on Monday (atptour.com)\n**Freshness justification:** First Sinner-Alcaraz meeting of 2026; MC final day is the biggest story of the fortnight. New angle: remarkable statistical symmetry (66 weeks, 26 titles, 1,651 pts each). Not previously covered.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Sinner Joins Federer/Nadal/Djokovic — 4th Man to Reach First Three M1000 Finals in a Season",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "With his MC final berth, Sinner becomes only the 4th man in ATP history to reach the first three Masters 1000 finals of the same season — joining Roger Federer (2006), Rafael Nadal (2011), and Novak Djokovic (2015). He's also at 21 consecutive M1000 wins. In the SF, he won 80% (12/15) of points on Zverev's first serve in Set 1.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Roger Federer did it in 2006.\nRafael Nadal did it in 2011.\nNovak Djokovic did it in 2015.\n\nJannik Sinner is now the 4th man to reach the first three Masters 1000 finals in the same season.\n\n21 M1000 wins in a row. In the final today.\n\n#Tennis #Sinner",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Sinner"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 2-2",
+          "text": "In Saturday's MC SF, Sinner won 80% of points on Zverev's first serve in Set 1.\n\nFinal score: 6-1, 6-4. In 1h23m.\n\nZverev is the world No. 3.\n\nThis is what 21 consecutive M1000 wins looks like.\n\n#Tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPTour"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "A stat worth sitting with this Sunday morning.\n\nWhen Jannik Sinner defeated Alexander Zverev 6-1, 6-4 in Saturday's Monte Carlo semifinal, he joined an elite club of three: Roger Federer, Rafael Nadal, and Novak Djokovic — the only players in ATP history to reach the first three Masters 1000 finals of the same season.\n\nFederer did it in 2006. Nadal in 2011. Djokovic in 2015. Sinner in 2026.\n\nHe also extended his Masters 1000 winning streak to 21 matches. In the SF, he won 80 percent of points when Zverev landed his first serve in the opening set. Zverev, ranked No. 3 in the world, was helpless.\n\nThis is not a hot streak anymore. This is a level. And this afternoon, Sinner faces Alcaraz — the one player with more career wins against him than anyone else, 10-6 — in the Monte Carlo final.\n\nWhat is your prediction?",
+        "image_caption": "Federer. Nadal. Djokovic. Sinner. The only four players to reach the first three Masters 1000 finals in the same season. That club just got its fourth member.",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-sinner-joins-federer-nadal-djokovic-m1000-finals-2026.html",
+        "headline": "Sinner Joins Federer, Nadal and Djokovic: Only Four Players Have Reached the First Three Masters 1000 Finals of a Season",
+        "word_count": 762
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Jannik Sinner tennis"
+          ],
+          "text_overlay": [],
+          "composition": "Sinner raising fist or celebrating a point, dominant energy",
+          "usage": "X Post 2A, FB Image Caption 10:30 AM"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Jannik Sinner tennis"
+          ],
+          "text_overlay": [],
+          "composition": "Horizontal landscape shot of Sinner in action on clay",
+          "usage": "article-02 hero image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner Joins Federer/Nadal/Djokovic — First Three M1000 Finals in a Season\n**Sources:**\n- sundayguardianlive.com — \"Monte-Carlo Masters 2026: Jannik Sinner Dismantles Alexander Zverev to Storm Into Third ATP Masters 1000 Final in Row\" (April 11)\n- lastwordonsports.com — \"Jannik Sinner Pursues #1 Spot All The Way Into Monte-Carlo Final\" (April 11)\n- yardbarker.com — \"Jannik Sinner Beats Alexander Zverev To Advance To Monte-Carlo Masters Finals\" (April 11)\n- il Sole 24 ORE — \"Monte Carlo, Sinner beats Zverev and goes to the final\" (April 11)\n- tennismajors.com — \"Sinner dismantles Zverev again to reach his first Monte Carlo final\" (April 11)\n- tennisnerd.net — \"Monte Carlo Masters 2026 Final: Sinner vs Alcaraz, Preview and Predictions\"\n**Verified Facts (HIGH confidence):**\n- Sinner def. Zverev 6-1, 6-4 in 1 hour 23 minutes in MC SF (multiple sources)\n- Sinner won 80% (12/15) of points on Zverev's first serve in Set 1 (sundayguardianlive.com, yardbarker.com — 2 sources)\n- Sinner is the 4th man to reach the first three Masters 1000 finals of a season, after Roger Federer (2006), Rafael Nadal (2011), and Novak Djokovic (2015) (sundayguardianlive.com, lastwordonsports.com — 2 sources)\n- This is Sinner's first career Monte Carlo final (tennismajors.com)\n- Sinner now at 21 consecutive M1000 wins (sundayguardianlive.com, multiple sources)\n- Sinner won Paris (Nov 2025), Indian Wells, and Miami M1000 titles leading into this final (established multiple sources)\n- Sinner's eighth tour-level win in a row against Zverev (yardbarker.com)\n**Freshness justification:** The \"first three M1000 finals in a season\" milestone was not covered on April 11 (April 11 covered the 20-win streak milestone). This is a new angle confirmed by SF win. Not in story-history.md.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "WTA Linz Final — Andreeva vs. Potapova (An Austrian at Home)",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Mirra Andreeva (No. 1 seed) beat Ruse 6-4, 6-1 in the SF; Anastasia Potapova beat Vekic 6-4, 6-2 in 79 minutes. Potapova is an Austrian citizen — the first Austrian to reach the Upper Austria Ladies Linz final. Andreeva targets her second title of 2026. Final is today, Sunday April 12.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Linz WTA final today:\n\n🎾 Andreeva (beat Ruse 6-4, 6-1) vs. Potapova (beat Vekic 6-4, 6-2 in 79 min)\n\nPotapova is an Austrian citizen — the first Austrian woman in the Linz final.\n\n#Tennis #WTA #Linz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTA",
+            "#Linz"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "The Upper Austria Ladies Linz final has a storyline you could not write.\n\nAnastasia Potapova is an Austrian citizen. That means today — as she steps onto the court in Linz for the WTA 500 final — she is playing a home tournament. She is the first Austrian woman to reach this final in the Open Era.\n\nShe earned it. Potapova beat Donna Vekic 6-4, 6-2 in just 79 minutes in the semifinal — dominant and controlled. Standing across the net is Mirra Andreeva, the No. 1 seed, who took apart Elena-Gabriela Ruse 6-4, 6-1 in her own SF. Andreeva is targeting her second title of 2026.\n\nIt is a quality final. It is a historic one. Upper Austria has a home finalist for the first time ever.\n\nWho wins — Andreeva or Potapova?",
+        "image_caption": "Anastasia Potapova is an Austrian citizen playing the Linz final today — the first Austrian woman to reach this title match. Mirra Andreeva stands in her way, chasing title No. 2 in 2026.",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-andreeva-potapova-linz-final-2026.html",
+        "headline": "The Austrian at Home: Potapova Makes History as Linz Final Pits Her Against Andreeva",
+        "word_count": 688
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Mirra Andreeva tennis"
+          ],
+          "text_overlay": [],
+          "composition": "Andreeva in action or post-point celebration",
+          "usage": "X Post 3A, FB Image Caption 8 AM"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Anastasia Potapova tennis"
+          ],
+          "text_overlay": [],
+          "composition": "Potapova in match play or celebrating",
+          "usage": "FB Long-Form 8 AM hero image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Linz Final — Andreeva vs. Potapova\n**Sources:**\n- skysports.com — \"Mirra Andreeva and Anastasia Potapova make Upper Austria Ladies Linz final after comfortable straight-set wins\" (April 11)\n- yardbarker.com — \"Upper Austria Ladies Linz Semi-finals Round-up\" (April 11)\n- wtatennis.com — \"Who has the advantage in Linz? Andreeva, Potapova to decide Sunday's title\" (April 11)\n- tennisuptodate.com — \"Preview Upper Austria Ladies Linz Final\" (April 11)\n- tennistonic.com — \"Mirra Andreeva exterminates Gabriela Ruse in the semifinal at the Upper Austria Ladies Linz\" (April 11)\n- tennistonic.com — \"Anastasia Potapova beats Vekic in the semifinal – LINZ RESULTS\" (April 11)\n**Verified Facts (HIGH confidence):**\n- Andreeva def. Ruse 6-4, 6-1 in the SF (skysports.com, wtatennis.com — 2 sources)\n- Potapova def. Vekic 6-4, 6-2 in 79 minutes in the SF (skysports.com, yardbarker.com — 2 sources)\n- Potapova is an Austrian citizen (established in story-history.md April 11 entry; multiple sources)\n- Potapova is the first Austrian to reach the Upper Austria Ladies Linz final (implied by story-history.md \"Austrian citizen, local angle\"; confirmed wtatennis.com article)\n- Andreeva was the No. 1 seed in Linz (wtatennis.com)\n- Andreeva is targeting her second title of the 2026 season (wtatennis.com preview)\n- Final is scheduled for Sunday, April 12 (wtatennis.com)\n**Note:** Potapova winning Linz would be historically significant — first Austrian champion at Linz.\n**Freshness justification:** April 11 story covered SF results at the brief/preview level; final day deserves its own article with confirmed scores and full context.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "WTA Stuttgart Draw — Rybakina Tops Talent-Rich Field Starting Monday",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "The Porsche Tennis Grand Prix in Stuttgart (April 13-19) draw is set. Elena Rybakina is No. 1 seed (replacing withdrawn Sabalenka); Coco Gauff is No. 2 seed; Iga Swiatek is No. 3 seed. Rybakina and Swiatek share the top half; Gauff is in the bottom half. Alex Eala, who entered the main draw after Sabalenka's withdrawal, faces Leylah Fernandez in a first-round all-southpaw matchup.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Stuttgart draw is set (starts Monday):\n\n🎾 Rybakina (No. 1 seed) + Swiatek (No. 3, 2x champion) in the same half\n🎾 Gauff (No. 2) in the bottom half\n🎾 Eala vs. Fernandez — all-southpaw R1 clash\n\nClay season begins.\n\n#Tennis #WTA #Stuttgart",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTA",
+            "#Stuttgart"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "The clay swing is officially here. Stuttgart's Porsche Tennis Grand Prix draw is set, and the field is loaded.\n\nElena Rybakina is the No. 1 seed after Aryna Sabalenka withdrew with injury. Coco Gauff is seeded No. 2 and lands in the bottom half of the draw — a potentially cleaner path to the final. Iga Swiatek, who won Stuttgart in 2022 and 2023, is No. 3 seed and finds herself in the same half as Rybakina. That top half is extremely loaded.\n\nThe first-round matchup to watch: Alex Eala vs. Leylah Fernandez — two lefties in an all-southpaw clay-court clash.\n\nThe tournament runs April 13-19 at the Porsche Arena in Stuttgart. Clay season starts Monday.\n\nWho do you have winning Stuttgart this year?",
+        "image_caption": "Stuttgart draw is set. Rybakina (No. 1 seed) and Swiatek (No. 3, two-time champion) are in the same half. Gauff (No. 2) has the bottom half. Eala vs. Fernandez is R1. Clay season begins Monday.",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-stuttgart-wta-draw-rybakina-2026.html",
+        "headline": "Stuttgart WTA 500 Draw: Rybakina Tops a Field That Includes Swiatek, Gauff and an All-Southpaw First Round",
+        "word_count": 673
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Elena Rybakina tennis"
+          ],
+          "text_overlay": [],
+          "composition": "Rybakina in match play or holding trophy, confident expression",
+          "usage": "X Post 4A, FB Image Caption 10:30 AM"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Iga Swiatek tennis"
+          ],
+          "text_overlay": [],
+          "composition": "Swiatek on clay court, determined expression",
+          "usage": "FB Long-Form 12:30 PM secondary image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Stuttgart Draw — Rybakina Headlines\n**Sources:**\n- wtatennis.com — \"Stuttgart draw: Rybakina and Swiatek lead top half loaded with former champions\" (April 11)\n- tennis365.com — \"WTA Stuttgart draw: Alex Eala, Elena Rybakina, Coco Gauff, Iga Swiatek learn their fate\" (April 11)\n- tennisuptodate.com — \"Porsche Tennis Grand Prix Stuttgart Open: Draw, Schedule, Entry List, Prize Money and Predictions\" (April 11)\n- tennistourtalk.com — \"Rybakina, Gauff Top Seeds In Talent-Rich Stuttgart Field\" (April 11)\n- puntodebreak.com — \"WTA 500 Stuttgart: Rybakina, Swiatek, and Gauff land on clay court\" (April 11)\n- gmanetwork.com — \"Alex Eala enters main draw of Stuttgart Open\" (April 10)\n**Verified Facts (HIGH confidence):**\n- Tournament: Porsche Tennis Grand Prix, Stuttgart, April 13-19 (multiple sources)\n- Rybakina is No. 1 seed (Sabalenka withdrew with injury from Miami, established April 11) (wtatennis.com)\n- Gauff is No. 2 seed (wtatennis.com, tennis365.com — 2 sources)\n- Swiatek is No. 3 seed (wtatennis.com, tennis365.com — 2 sources)\n- Rybakina and Swiatek are in the top half of the draw (wtatennis.com)\n- Gauff is in the bottom half of the draw (wtatennis.com, first search result)\n- Eala vs. Fernandez is an all-southpaw first-round matchup (tennis365.com)\n- Eala entered the main draw after Sabalenka's withdrawal (gmanetwork.com, established context)\n- Rybakina faces Korpatsch or Shnaider in R1 (first search AI summary, wtatennis.com draw)\n- Swiatek faces Siegemund or Frech in R1 (first search AI summary, wtatennis.com draw)\n**Note:** Swiatek won Stuttgart in 2022 and 2023 (established in story-history.md from April 9 entry).\n**Freshness justification:** Draw was released April 11. First full breakdown of Stuttgart field and matchups. Not previously covered in story-history.md.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Barcelona Open Draw — Alcaraz Headlines ATP 500 Starting Monday",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "The Barcelona Open Banc Sabadell (April 13-19) draw is set. Carlos Alcaraz is top seed at a tournament where he holds a 14-3 career record and has won 3 times. Seeds: Alcaraz (1), Musetti (2), De Minaur (3), Khachanov (4). Draper vs. Etcheverry is a marquee first-round clash. Alcaraz is projected to face Rublev in QF and De Minaur or Draper in SF.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Barcelona draw is set (starts Monday):\n\nAlcaraz (No. 1 seed, 14-3 career record there) headlines.\nMusetti (2), De Minaur (3), Khachanov (4), Rublev (5).\nDraper vs. Etcheverry in R1.\n\nProjected Alcaraz path: Rublev in QF. #Tennis #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATP"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "While Monte Carlo ends, Barcelona begins — and Carlos Alcaraz arrives as the overwhelming favorite.\n\nThe Barcelona Open Banc Sabadell draw is set for the ATP 500 event running April 13-19 at the Real Club de Tenis Barcelona. Alcaraz is the top seed — he holds a 14-3 career record in Barcelona and has won the tournament multiple times. This is home clay.\n\nThe seeds: Musetti (2), De Minaur (3), Khachanov (4), Rublev (5), Draper (8). Jack Draper opens against Thomas Martin Etcheverry in a heavyweight clay-court first round clash. Alcaraz's projected path runs through Rublev in the quarterfinals and De Minaur or Draper in the semis.\n\nThe clay double-header of Stuttgart and Barcelona kicks off simultaneously on Monday. What an exciting week.\n\nWho lifts the Barcelona trophy?",
+        "image_caption": "Barcelona draw is set. Alcaraz (14-3 career record, multiple champion) tops the field. Draper vs. Etcheverry in R1 is the must-watch opener. Clay double-header week begins Monday — Stuttgart AND Barcelona.",
+        "posting_time": "9:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-barcelona-open-draw-alcaraz-2026.html",
+        "headline": "Barcelona Open Draw: Alcaraz Returns to His Favorite Clay Stage as Draper and De Minaur Lurk",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Carlos Alcaraz tennis"
+          ],
+          "text_overlay": [],
+          "composition": "Alcaraz in action on clay, preferably with crowd in background",
+          "usage": "X Post 5A, FB Image Caption 12:30 PM"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Jack Draper tennis"
+          ],
+          "text_overlay": [],
+          "composition": "Draper in match play, clay court",
+          "usage": "FB Long-Form 9 PM secondary image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Barcelona Open Draw — Alcaraz Eyes Home Comfort on Clay\n**Sources:**\n- tennis365.com — \"Barcelona Open draw: Alcaraz could face De Minaur or Draper as tournament suffers double pullout\" (April 11)\n- tennistonic.com — \"ATP BARCELONA DRAW, PRIZE MONEY. Alcaraz, Musetti, De Minaur, Khachanov are the top seeds\" (April 11)\n- tennisuptodate.com — \"Barcelona Open 2026: Draw, Schedule, Entry List, Prize Money and Predictions\" (April 11)\n- yardbarker.com — \"Barcelona Open 2026: Draw, Schedule, Entry List, Prize Money and Predictions\" (April 11)\n- atptour.com — \"Barcelona Open Banc Sabadell 2026: Draws, Dates, History & All You Need To Know\"\n**Verified Facts (HIGH confidence):**\n- Tournament: Barcelona Open Banc Sabadell, Real Club de Tenis Barcelona, April 13-19 (multiple sources)\n- Seeds: Alcaraz (1), Musetti (2), De Minaur (3), Khachanov (4) (tennistonic.com, tennis365.com — 2 sources)\n- Draper is No. 8 seed (tennisuptodate.com)\n- Draper vs. Etcheverry in Round 1 (tennis365.com)\n- Musetti vs. wildcard Martin Landaluce in Round 1 (tennisuptodate.com)\n- De Minaur opens vs. a qualifier in Round 1 (tennis365.com)\n- Alcaraz projected path: Rublev in QF, De Minaur or Draper in SF (tennisuptodate.com, tennis365.com — 2 sources)\n- Alcaraz holds a 14-3 career record in Barcelona (crush and rush news, prior search result)\n- Tournament has suffered two notable withdrawals (tennis365.com)\n**Note:** Rublev is No. 5 seed (from projection Alcaraz vs. Rublev QF).\n**Note:** Arthur Fils is also in the field (ATP 500 entry list article).\n**Note:** If Alcaraz wins Monte Carlo today (April 12), he would arrive in Barcelona as world No. 1.\n**Freshness justification:** Draw released April 11, tournament starts Monday. Not previously covered. New event angle.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
