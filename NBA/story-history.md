@@ -2,6 +2,71 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-12
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | NBA Regular Season Final Day — 15 games; West No. 3 seed: Nuggets (53-28) half-game ahead of Lakers (52-28); both play Sunday; East 5-10 seeds unsettled; Play-In April 14-17 (Prime Video); Playoffs April 18 | 1 | FOLLOW-UP |
+| 2 | SGA back-to-back MVP season review — 31.6 PPG, 6.5 ast, 4.4 reb, 1.4 stl; OKC 64-16 best record in NBA; 88/100 ESPN straw poll votes; DraftKings -400 | 1 | FOLLOW-UP |
+| 3 | 2026 NBA Playoff Bracket preview — East: Pistons 1, Celtics 2, Knicks 3, Cavs 4; West: Thunder 1, Spurs 2; Play-In: East (Magic/76ers/Hornets/Heat), West (Suns/Blazers-Clippers/Warriors) | 1 | FOLLOW-UP |
+| 4 | Wembanyama DPOY locked — eligibility secured April 11 (65th game, 40 pts/26 min); BetMGM -5000 DPOY odds (98%+ implied); leads league in blocks; 22 years old | 2 | FOLLOW-UP |
+| 5 | Kon Knueppel shatters NBA rookie 3-point record — 265 3-pointers (old record: Keegan Murray 206, 2022-23); +59 margin; 43% from three, 7.9 att/game; also broke Kemba Walker Hornets franchise record; ROY frontrunner | 2 | NEW STORY (full context) |
+| 6 | SoFi Play-In Tournament preview — April 14-17; all on Prime Video; West: Suns (7) vs Blazers/Clippers (8) 10 PM ET Tue; East: Magic (7) vs 76ers (8) 7:30 PM ET Tue | 2 | FOLLOW-UP |
+| 7 | NBA Awards Season preview — ROY: Knueppel; DPOY: Wemby; MVP: SGA; COY: Daigneault (OKC) frontrunner | 3 | NEW STORY |
+
+---
+
+### STORY 1: NBA Regular Season Finale — West No. 3 Seed on the Line
+- **Tier:** 1
+- **Category:** Season Finale / Playoff Seeding
+- **Key facts:** 15-game final day slate. Nuggets (53-28) half-game ahead of Lakers (52-28) for No. 3 West. Denver hosts Spurs; Lakers host Jazz. East seeds 5-10 unsettled: Hawks No. 5, Raptors No. 6 (host Nets), Magic 7, Sixers 8, Hornets 9, Heat 10. Play-In starts April 14 (all Prime Video). Playoffs April 18.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Final seedings after today's games; Play-In matchups confirmed
+
+### STORY 2: SGA Back-to-Back MVP Season Review
+- **Tier:** 1
+- **Category:** Award Race / Season Wrap-Up
+- **Key facts:** 31.6 PPG, 6.5 APG, 4.4 RPG, 1.4 SPG — second straight scoring title. OKC 64-16 best record in NBA. 88/100 ESPN first-place votes. DraftKings -400. Back-to-back MVP near-unanimous.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Official MVP announcement during playoffs
+
+### STORY 3: 2026 NBA Playoff Bracket Preview
+- **Tier:** 1
+- **Category:** Playoff Preview / Bracket
+- **Key facts:** East: Pistons 1, Celtics 2, Knicks 3, Cavs 4. West: Thunder 1 (64-16), Spurs 2. No. 3 West TBD (Nuggets/Lakers). Play-In: East (Magic 7, Sixers 8, Hornets 9, Heat 10); West (Suns 7, Blazers/Clippers 8, Clippers/Suns 9, Warriors 10). Playoffs April 18.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** First-round results; bracket upset tracking
+
+### STORY 4: Wembanyama DPOY Locked Up
+- **Tier:** 2
+- **Category:** Award Race / Defensive Season Review
+- **Key facts:** Eligibility secured April 11 (65th game, 40 pts, 26:13 min). BetMGM -5000 DPOY. Leads league in blocks. Age 22. DPOY would be first individual award.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Official DPOY announcement; Spurs playoff performance
+
+### STORY 5: Kon Knueppel Rookie 3-Point Record
+- **Tier:** 2
+- **Category:** Rookie Record / Season Milestone
+- **Key facts:** 265 three-pointers — shattered Keegan Murray's record of 206 (2022-23) by 59. Also broke Kemba Walker's Hornets franchise record. 43% from three on 7.9 att/game. 18.8 PPG, 5.4 RPG, 3.4 APG. No. 4 pick 2025 draft. ROY frontrunner.
+- **Status:** NEW STORY (full context — franchise record noted April 10; rookie record context fully compiled)
+- **Follow-Up Opportunities:** ROY announcement; Hornets Play-In run
+
+### STORY 6: SoFi Play-In Tournament Preview
+- **Tier:** 2
+- **Category:** Play-In Preview
+- **Key facts:** April 14-17, all Prime Video. West: Suns (7) vs Blazers/Clippers (8) at 10 PM ET Tuesday. East: Magic (7) vs 76ers (8) at 7:30 PM ET Tuesday. 9-vs-10 games Wednesday. Winners of 7-8 advance as No. 7 seeds. Playoffs April 18.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Play-In results; who earns 7-8 seeds
+
+### STORY 7: NBA Awards Season Preview
+- **Tier:** 3
+- **Category:** Award Season / Season Wrap-Up
+- **Key facts:** MVP: SGA (near-unanimous). DPOY: Wembanyama (-5000). ROY: Knueppel (265 rookie 3s). COY frontrunner: Mark Daigneault (OKC, 64-16). Other awards (MIP, Comeback, Executive) TBD.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** All award announcements during playoffs
+
+---
+
 ## 2026-04-11
 
 | # | Story | Tier | Tag |

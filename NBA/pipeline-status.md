@@ -1,11 +1,23 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-11
-- **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Date**: 2026-04-12
+- **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-12
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 7 total (3 Tier 1, 3 Tier 2, 1 Tier 3)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 7 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5)
+- **PostPlanner exports:** hh-postplanner-2026-04-12.xlsx (9 posts) + hh-postplanner-tobi-2026-04-12.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-12/review-dashboard.html (28 items)
+- **Notes:** NBA Regular Season Final Day (15 games, West No. 3 Nuggets 53-28 vs Lakers 52-28); SGA back-to-back MVP season wrap (31.6 PPG/6.5 ast/64-16 OKC record/88/100 ESPN votes/-400 odds); Full playoff bracket preview (Pistons/Celtics/Knicks/Cavs East top 4; Thunder/Spurs West top 2); Wembanyama DPOY locked (-5000 BetMGM, 98%+ implied); Kon Knueppel rookie 3-point record obliterated (265 vs. Keegan Murray's 206, margin of 59); Play-In preview (April 14-17 Prime Video); NBA Awards season preview.
+- **Fact concerns:** All core facts HIGH from ESPN, CBS Sports, Yahoo Sports, NBA.com, Bleacher Report, DraftKings. Kon Knueppel 265 3PT figure HIGH from pipeline-status April 10 cross-checked with search results. The "403 threes breaking Curry's all-time record" claim from one source (Sunday Guardian Live) was excluded as LOW confidence — implausible given 265 total as of April 10 with 2 games remaining. SGA MVP announcement not yet official but award race effectively concluded. DraftKings/BetMGM odds MEDIUM per policy.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-11
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

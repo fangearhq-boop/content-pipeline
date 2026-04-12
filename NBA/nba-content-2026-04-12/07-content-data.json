@@ -1,0 +1,369 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-12",
+  "compiled_at": "2026-04-12T11:38:47.681306+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Season finale, West No. 3 at stake",
+      "type": "Game preview"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1 — 15 final games, playoff seeding drama",
+      "type": "Analysis"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — SGA back-to-back MVP season wrap",
+      "type": "Analysis"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 — Thunder 64-16, franchise history",
+      "type": "Stats"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Full playoff bracket preview",
+      "type": "Preview"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Wembanyama DPOY locked",
+      "type": "Award"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 5 — Knueppel rookie 3-point record",
+      "type": "Milestone"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6 — Play-In preview",
+      "type": "Preview"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7 — NBA awards season preview",
+      "type": "Feature"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NBA Regular Season Finale — 15 Games, West No. 3 Seed on the Line",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 9:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "THE FINAL DAY IS HERE.\n\n15 NBA games. One day. Everything still to play for.\n\nWest No. 3 seed: Nuggets (53-28) vs. Lakers (52-28) — separated by HALF a game.\n\nPlay-In starts Tuesday. Playoffs start April 18. #HoopHeroes #NBA",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Nuggets host the Spurs. Lakers host Utah.\n\nHalf a game. One day. The No. 3 seed in the West — and the playoff bracket — gets decided TODAY.\n\nThe regular season goes out with a bang. #MileHighBasketball #LakeShow #HoopHeroes",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#MileHighBasketball",
+            "#LakeShow",
+            "#HoopHeroes"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 9:30 AM"
+      },
+      "article": {
+        "filename": "article-01-nba-regular-season-finale-west-seed-battle.html",
+        "headline": "NBA Regular Season Finale: West No. 3 Seed Goes Down to the Wire",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Regular Season Finale\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Text-on-image (TOBI) — Canva overlay\n- **Search terms:** \"NBA basketball court\"\n- **Visual:** Wide-angle NBA arena shot, full court visible, packed crowd\n- **Text overlay:** \"FINAL DAY\" / \"15 Games. Everything on the Line.\" / \"#HoopHeroes\"\n- **Mood:** Electric, urgent, high stakes\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Text-on-image (TOBI) — standings graphic\n- **Search terms:** \"basketball scoreboard arena\"\n- **Visual:** Scoreboard/stats board aesthetic\n- **Text overlay:** \"WEST No. 3 SEED\" / \"Nuggets 53-28 vs Lakers 52-28\" / \"Decided TODAY\" / \"#HoopHeroes\"\n- **Mood:** Competitive, head-to-head\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "SGA's Case for Back-to-Back MVP — A Season for the Record Books",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM, 11:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "31.6 PPG. 6.5 ast. 64 wins.\n\nShai Gilgeous-Alexander just finished one of the great seasons in NBA history.\n\nBack-to-back scoring titles. Back-to-back MVP. The Thunder are the best team in basketball. #ThunderUp #HoopHeroes #NBA",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 228
+        },
+        {
+          "label": "Post 2-2",
+          "text": "88 of 100 first-place MVP votes for SGA.\n\nThe Thunder went from rebuilding to No. 1 seed in 3 seasons.\n\nThis is one of the best individual and team turnarounds in NBA history. #ThunderUp #HoopHeroes",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp",
+            "#HoopHeroes"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM, 11:30 AM"
+      },
+      "article": {
+        "filename": "article-02-sga-back-to-back-mvp-season-review.html",
+        "headline": "Back-to-Back: SGA's Historic Season Makes Him the Obvious MVP Choice",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SGA MVP\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Text overlay:** \"BACK-TO-BACK MVP\" / \"31.6 PPG · 64-16\" / \"Shai Gilgeous-Alexander\" / \"#ThunderUp\"\n- **Mood:** Triumphant, iconic, championship feel\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Imagn photo\n- **Search terms:** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Usage:** Article hero image for article-02\n- **Mood:** Action shot, mid-season highlight\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "2026 NBA Playoff Bracket — Complete First-Round Preview",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The 2026 NBA Playoffs start April 18.\n\nEast: Pistons, Celtics, Knicks, Cavs locked in.\nWest: Thunder, Spurs locked. Nuggets/Lakers fighting for No. 3.\n\nThis bracket is LOADED. No easy out. #HoopHeroes #NBAPlayoffs",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-wembanyama-dpoy-historic-defensive-season.html",
+        "headline": "Wembanyama's DPOY Is a Lock — And It's Only the Beginning",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Playoff Bracket\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Custom graphic (Canva bracket)\n- **Search terms:** N/A — original bracket graphic\n- **Visual:** Clean bracket design, East and West sides, team names filled in\n- **Text overlay:** \"2026 NBA PLAYOFFS\" / \"April 18 • Tips Off\" / \"#NBAPlayoffs #HoopHeroes\"\n- **Mood:** Professional, clean, informational\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn photo\n- **Search terms:** \"NBA basketball crowd arena playoff\"\n- **Text overlay:** \"THE PLAYOFFS ARE HERE\" / \"16 Teams. One Champion.\" / \"#HoopHeroes\"\n- **Mood:** Grand, celebratory\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wembanyama Locks Up DPOY — A Historic Defensive Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Victor Wembanyama's DPOY odds: -5000.\n\nThat's not a lock. That's a formality.\n\nHe played through a rib injury to stay eligible. Leads the league in blocks. Changed how we think about rim protection. #GoSpursGo #HoopHeroes #NBA",
+          "posting_time": "3:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM"
+      },
+      "article": {
+        "filename": "article-04-kon-knueppel-rookie-3-point-record.html",
+        "headline": "265 Threes: Kon Knueppel's Rookie Record Season Changes the Conversation",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama DPOY\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Victor Wembanyama San Antonio Spurs\"\n- **Text overlay:** \"DPOY LOCKED\" / \"-5000 ODDS\" / \"Victor Wembanyama\" / \"#GoSpursGo\"\n- **Mood:** Dominant, imposing, elite\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn photo\n- **Search terms:** \"Victor Wembanyama San Antonio Spurs block\"\n- **Text overlay:** \"The best defender in basketball. By far.\" / \"#HoopHeroes\"\n- **Mood:** Awe-inspiring, highlight reel\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Kon Knueppel Shatters NBA Rookie 3-Point Record — 265 and Counting",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kon Knueppel: 265 three-pointers made as a ROOKIE.\n\nThe old record? 206 — set by Keegan Murray in 2022-23.\n\nKnueppel didn't just break it. He shattered it by 59. 43% from three. ROY. #BuzzCity #HoopHeroes #NBA",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#BuzzCity",
+            "#HoopHeroes",
+            "#NBA"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM"
+      },
+      "article": {
+        "filename": "article-05-2026-nba-playoff-bracket-preview.html",
+        "headline": "2026 NBA Playoffs: Your Complete First-Round Bracket Guide",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kon Knueppel Record\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn photo + TOBI\n- **Search terms:** \"Kon Knueppel Charlotte Hornets\"\n- **Text overlay:** \"265 THREES AS A ROOKIE\" / \"Old Record: 206\" / \"Kon Knueppel\" / \"#BuzzCity\"\n- **Mood:** Milestone, record-breaking, exciting\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Stat graphic\n- **Search terms:** \"basketball three pointer shooting\"\n- **Text overlay:** \"ROOKIE RECORD OBLITERATED\" / \"265 > 206\" / \"Knueppel. Historic.\" / \"#HoopHeroes\"\n- **Mood:** Statistical dominance\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "SoFi Play-In Tournament Preview — April 14-17 on Prime Video",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The 2026 SoFi Play-In Tournament starts TUESDAY.\n\nWest: No. 7 Suns vs. No. 8 (Blazers/Clippers) — 10 PM ET on Prime Video\nEast: No. 7 vs. No. 8 — 7:30 PM ET on Prime Video\n\nWin or go home. Let's go. #HoopHeroes #NBAPlayoffs",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Play-In Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** TOBI — schedule graphic\n- **Search terms:** \"NBA basketball arena court aerial\"\n- **Text overlay:** \"2026 SoFi PLAY-IN TOURNAMENT\" / \"April 14-17 | Prime Video\" / \"Win or Go Home\" / \"#HoopHeroes\"\n- **Mood:** High stakes, tournament excitement\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn team collage\n- **Search terms:** \"NBA basketball playoff action\"\n- **Text overlay:** \"8 TEAMS. 2 SPOTS.\" / \"Play-In Starts Tuesday\" / \"#NBAPlayoffs\"\n- **Mood:** Multiple story angles\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "NBA Awards Season — ROY, Sixth Man, Coach of the Year",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Regular season ends TODAY. Award season begins NOW.\n\nMVP: SGA (back-to-back)\nDPOY: Wembanyama (-5000)\nROY: Kon Knueppel (265 rookie 3s)\nCOY: Mark Daigneault (OKC, 64 wins)\n\nAgree? Disagree? #HoopHeroes #NBA #NBAawards",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#NBAawards"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Awards Season\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Award graphic collage\n- **Search terms:** \"NBA trophy basketball award ceremony\"\n- **Text overlay:** \"MVP · DPOY · ROY · COY\" / \"2026 NBA Award Season Begins\" / \"#HoopHeroes #NBA\"\n- **Mood:** Prestigious, celebratory"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
