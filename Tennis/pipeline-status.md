@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-12 |
-| Writing | Complete (all steps) | 2026-04-12 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-12 |
-| Compile | Complete (07-content-data.json) | 2026-04-12 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-12 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-12 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-12 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-12 |
+| Research | Complete | 2026-04-13 |
+| Writing | Complete (all steps) | 2026-04-13 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-13 |
+| Compile | Complete (07-content-data.json) | 2026-04-13 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-13 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-13 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-13 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-13 |
 
 ## Queue
 
@@ -24,6 +24,37 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-13 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-13.xlsx (7 posts), tfr-postplanner-tobi-2026-04-13.xlsx (7 TOBI posts)
+- **Coverage:** Sinner wins Monte Carlo 2026 (def. Alcaraz 7-6(5) 6-3, 2h15m, 45 UE Alcaraz, reclaims No. 1 at 67 weeks/13,350 pts); Sinner sweeps first 3 M1000 of season (only 2nd ever with Djokovic 2015) + 4 consecutive M1000 titles (joins Djokovic + Nadal); Andreeva wins Linz (def. Potapova 1-6, 6-4, 6-3 in 1h54m, 5th career title, 2nd of 2026); Stuttgart WTA 500 opens (Rybakina No.1 seed, Swiatek 2x champion same half, Gauff bottom half, Siegemund opens home draw); Barcelona Open Day 1 (Draper vs. Etcheverry, Wawrinka vs. Norrie, Jodar Barcelona debut)
+- **Research:** Multi-source; Sinner MC win from atptour.com + ESPN + Yardbarker + Outlook India (4 sources); Sinner historic sweep from atptour.com + MonteCarlo site + TennisMajors (3 sources); Andreeva Linz from WTA official + Tennis.com + Yardbarker (3 sources); Stuttgart from WTA official + Tennis365 (2 sources); Barcelona from ATP Tour + puntodebreak (2 sources)
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 32 claims; 59 HIGH; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 7 X posts, 5 FB posts, 5 articles; posting window warnings cosmetic (same as all prior days)
+  - PostPlanner: 7 posts standard, 7 TOBI posts
+  - Push to content-dashboards failed: PAT lacks write permission (same as all prior runs)
+  - WordPress publish failed: proxy blocks fanrumor.com — same env restriction as all prior runs
+- **Files created:**
+  - `tennis-content-2026-04-13/00-daily-brief.md`
+  - `tennis-content-2026-04-13/01-research-notes.md`
+  - `tennis-content-2026-04-13/02-story-analysis.md`
+  - `tennis-content-2026-04-13/03-social-posts-x.md`
+  - `tennis-content-2026-04-13/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-13/05-image-concepts.md`
+  - `tennis-content-2026-04-13/06-fact-check-log.md`
+  - `tennis-content-2026-04-13/07-content-data.json`
+  - `tennis-content-2026-04-13/07-image-manifest.md`
+  - `tennis-content-2026-04-13/review-dashboard.html`
+  - `tennis-content-2026-04-13/articles/article-01-sinner-wins-monte-carlo-beats-alcaraz-no1-2026.html`
+  - `tennis-content-2026-04-13/articles/article-02-sinner-historic-sweep-three-masters-djokovic-2015.html`
+  - `tennis-content-2026-04-13/articles/article-03-andreeva-wins-linz-2026-potapova-comeback.html`
+  - `tennis-content-2026-04-13/articles/article-04-stuttgart-wta-500-rybakina-swiatek-gauff-2026.html`
+  - `tennis-content-2026-04-13/articles/article-05-barcelona-open-day1-draper-wawrinka-jodar-2026.html`
 
 ### 2026-04-12 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

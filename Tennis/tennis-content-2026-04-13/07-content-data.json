@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-13",
+  "compiled_at": "2026-04-13T12:31:10.874811+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sinner Wins Monte Carlo 2026 — Beats Alcaraz, Reclaims No. 1",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Jannik Sinner defeated Carlos Alcaraz 7-6(5), 6-3 in windy conditions to win his first clay Masters 1000 title. Sinner reclaims the ATP world No. 1 ranking beginning Monday (67th week vs. Alcaraz's 66). Alcaraz committed 45 unforced errors in the 2h15m match. Sinner saved a 3-1 deficit in set 2 and served out the match. Sinner now 13,350 ranking points; Alcaraz 13,240.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Sinner def. Alcaraz 7-6(5), 6-3.\n\nFirst clay Masters 1000 title of his career.\nWorld No. 1 reclaimed. 22 M1000 wins in a row.\n\nAlcaraz: 45 unforced errors. His own worst enemy today.\n\n#Tennis #MonteCarlo",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#MonteCarlo"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Monte Carlo final recap:\n\nSinner led 3-2 in set 1, Alcaraz broke back. Then the tiebreak: 7-5 Sinner.\nSecond set: Sinner was down 1-3, broke back, won 6-3.\n\n2h15m. Straight sets. On clay.\n\nWorld No. 1 returns to Sinner. #Tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPTour"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "Jannik Sinner is the 2026 Monte Carlo champion — and the new world No. 1.\n\nIn one of the most anticipated matches of the clay season, Sinner defeated Carlos Alcaraz 7-6(5), 6-3 in 2 hours and 15 minutes to claim his first clay Masters 1000 title. Alcaraz, the defending champion and the man who had won his previous 17 clay matches, was undermined by 45 unforced errors on a windy afternoon in Monaco.\n\nThe scoreline tells part of the story. The match told another. Alcaraz opened strongly and had the first set on serve before Sinner seized the tiebreak 7-5. In the second set, Alcaraz broke to lead 3-1 and appeared to be finding his rhythm — but Sinner broke back, won four straight games, and closed out the match on his first match point when Alcaraz pushed a forehand return long.\n\nSinner now begins his 67th week as world No. 1, moving one clear of Alcaraz (66 weeks). His ranking points stand at 13,350 against Alcaraz's 13,240.\n\nMore than the ranking, this title carries symbolic weight. Sinner has been dominant on hard courts but has always faced questions about clay. Sunday's win in Monte Carlo — against Alcaraz, on clay, in a major final — answered those questions directly.\n\nThe clay season is his too.",
+        "image_caption": "Sinner def. Alcaraz 7-6(5), 6-3. Monte Carlo 2026 champion. World No. 1 reclaimed. First clay Masters 1000 title of his career. On Alcaraz's best surface. In straight sets.",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-sinner-wins-monte-carlo-beats-alcaraz-no1-2026.html",
+        "headline": "Sinner Beats Alcaraz in Straight Sets to Win Monte Carlo, Reclaim World No. 1",
+        "word_count": 677
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner Wins Monte Carlo — Beats Alcaraz, Reclaims No. 1\n\n#### Image Concept A — Social (1080x1350)\n- **Type:** Player photo + text overlay\n- **Search Terms:** `Jannik Sinner` (ATP player — Imagn)\n- **Visual Direction:** Sinner mid-celebration or raised fist, clay court visible\n- **Text Overlay:** \"MONTE CARLO CHAMPION\" / \"7-6(5), 6-3\" / \"World No. 1\"\n- **Mood:** Triumphant, dominant, clay dust aesthetic\n- **Status:** not_started\n\n#### Image Concept B — Article Hero (1200x630)\n- **Type:** Match action photo\n- **Search Terms:** `Carlos Alcaraz` (ATP player — Imagn)\n- **Visual Direction:** Alcaraz in match play position, forehand or serve, Monaco clay\n- **Text Overlay:** None (article hero)\n- **Mood:** Action, competition\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner Wins Monte Carlo 2026 — Beats Alcaraz, Reclaims No. 1\n**Sources:**\n- atptour.com/en/news/alcaraz-sinner-monte-carlo-2026-final (PRIMARY — official ATP match report)\n- yardbarker.com/tennis/articles/monte_carlo_masters_2026_final_sinner_beats_alcaraz_in_straight_sets_reclaims_no_1_ranking (SECONDARY — independent confirmation)\n- espn.com/tennis/story/_/id/48466880/jannik-sinner-returns-no-1-monte-carlo-win-alcaraz (SECONDARY — ESPN confirmation)\n- outlookindia.com/sports/tennis/jannik-sinner-vs-carlos-alcaraz-monte-carlo-masters-2026-final-match-report-world-no-1-ranking-updates (SECONDARY — full match report)\n**Verified Facts (HIGH confidence — 2+ sources):**\n- Score: 7-6(5), 6-3 [ATP Tour + Yardbarker + ESPN + Outlook India]\n- Match duration: 2 hours, 15 minutes [ATP Tour + Yardbarker + Outlook India]\n- Alcaraz unforced errors: 45 [ATP Tour + Yardbarker + Outlook India]\n- Sinner reclaims World No. 1 beginning Monday (67th week) [ATP Tour + ESPN + Yardbarker]\n- Alcaraz at 66 weeks at No. 1 [ATP Tour (from prior confirmed data 04-12)]\n- Sinner ranking points: 13,350; Alcaraz: 13,240 [Yahoo Sports + Outlook India]\n- Sinner won from 3-1 down in second set [ATP Tour + Yardbarker]\n- Sinner won on first match point (Alcaraz forehand return long) [ATP Tour + Yardbarker]\n- Conditions: windy [ATP Tour primary]\n- Sinner 22-match M1000 win streak at time of win [ATP Tour + Yahoo Sports]\n- Sinner: 3 tour titles in 2026 (Tour-leading) [ATP Tour + ESPN]\n- First clay Masters 1000 title for Sinner [ATP Tour + multiple]\n**Verified Facts (MEDIUM confidence — single source):**\n- First-set tiebreak duration ~74 minutes (opening stanza) [ATP Tour]\n- Sinner served out in second set after breaks midway through [ATP Tour]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Sinner's Historic Triple — First to Sweep Three M1000 Titles to Open Season Since Djokovic 2015",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "By winning Monte Carlo, Sinner became the first player since Novak Djokovic in 2015 to win the first three Masters 1000 tournaments of a calendar year (Indian Wells, Miami, Monte Carlo). He also joins Djokovic and Nadal as the only players to win four consecutive Masters 1000 titles. His M1000 win streak extends to 22 matches. First clay Masters 1000 title of his career.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Indian Wells. Miami. Monte Carlo.\n\nThe last player to win all three to open a season was Novak Djokovic in 2015.\n\nJannik Sinner just did it too.\n\n22 M1000 wins in a row. 4 consecutive M1000 titles. Tour-leading 3 in 2026.\n\n#Tennis #Sinner",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Sinner"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Players with 4 consecutive Masters 1000 titles:\n\nRafael Nadal ✓\nNovak Djokovic ✓\nJannik Sinner ✓\n\nThat's the list.\n\n#Tennis #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ATPTour"
+          ],
+          "char_count": 132
+        }
+      ],
+      "facebook": {
+        "long_form": "Novak Djokovic did it in 2015. Before that, no one had done it in the Open Era. Now, in 2026, Jannik Sinner has joined him.\n\nBy winning the Monte Carlo Masters on Sunday, Sinner completed the sweep of the first three Masters 1000 tournaments of the calendar year — Indian Wells, Miami, and Monte Carlo. It is one of the rarest achievements in modern men's tennis, requiring sustained excellence across three different surfaces, three different continents, across more than two months of competition.\n\nHe also became only the third player in history to win four consecutive Masters 1000 titles, joining Rafael Nadal and Novak Djokovic. His streak began at the Paris Masters in November 2025 and has now extended to 22 consecutive Masters 1000 wins.\n\nSinner won the first-set tiebreak 7-5, then came back from 1-3 in the second set to seal the match 6-3. First match point. No drama needed.\n\nThe clay season is just starting. Madrid and Roland Garros are ahead. But Sinner has already written the first chapter of what may be one of the most dominant seasons in modern men's tennis.",
+        "image_caption": "Indian Wells. Miami. Monte Carlo. The first three Masters 1000 titles of the season — for the second time in history. The last player to do it was Novak Djokovic in 2015. Sinner has now joined that company.",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-sinner-historic-sweep-three-masters-djokovic-2015.html",
+        "headline": "Sinner Sweeps Indian Wells, Miami and Monte Carlo — Only the Second Player Since Djokovic in 2015 to Win the Season's First Three Masters 1000 Titles",
+        "word_count": 665
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner's Historic Triple — First Three M1000 Titles Since Djokovic 2015\n\n#### Image Concept A — Social (1080x1350)\n- **Type:** Player photo + trophy graphic\n- **Search Terms:** `Jannik Sinner` (ATP player — Imagn)\n- **Visual Direction:** Sinner with trophy or on clay, looking upward\n- **Text Overlay:** \"Indian Wells. Miami. Monte Carlo.\" / \"First since Djokovic 2015\"\n- **Mood:** Historic, reverent, milestone\n- **Status:** not_started\n\n#### Image Concept B — Article Hero (1200x630)\n- **Type:** Player photo\n- **Search Terms:** `Jannik Sinner` (ATP player — Imagn)\n- **Visual Direction:** Portrait or serving motion, clay court background\n- **Text Overlay:** None (article hero)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner's Historic Triple — First Three M1000 Titles in a Season Since Djokovic 2015\n**Sources:**\n- atptour.com/en/news/sinner-monte-carlo-2026-big-titles (PRIMARY — ATP Big Titles article)\n- atptour.com/en/news/alcaraz-sinner-monte-carlo-2026-final (PRIMARY — same article confirms sweep)\n- montecarlotennismasters.com/en/sinner-alcaraz-rolex-monte-carlo-masters-final-2026/ (SECONDARY)\n- tennismajors.com/atp/sinner-seizes-the-throne-world-no-1-after-defeating-alcaraz-in-monte-carlo-final-848324.html (SECONDARY)\n**Verified Facts (HIGH confidence — 2+ sources):**\n- Only 2nd player to win first 3 M1000 titles of a season — Djokovic 2015 was the last [ATP Tour + Monte Carlo site + TennisMajors]\n- Sinner's 3 M1000 titles in 2026: Indian Wells, Miami, Monte Carlo [ATP Tour + multiple]\n- Joins Djokovic (2015) as only players to achieve this [ATP Tour confirmed]\n- 4 consecutive Masters 1000 titles: Paris (Nov 2025) + Indian Wells + Miami + Monte Carlo [ATP Tour + multiple]\n- Only Djokovic and Nadal had previously won 4 consecutive M1000 titles [ATP Tour + MonteCarlo site]\n- 22 consecutive M1000 match wins at time of title [ATP Tour + Yahoo Sports]\n**Verified Facts (MEDIUM confidence — single source):**\n- Djokovic's 2015 first 3 M1000 wins were also Indian Wells + Miami + Monte Carlo [TennisMajors — needs cross-ref, plausible]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Andreeva Wins Linz — Beats Potapova 1-6, 6-4, 6-3 for 2nd 2026 Title",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Mirra Andreeva (18) defeated Anastasia Potapova 1-6, 6-4, 6-3 in 1h54m to win the Upper Austria Ladies Linz. After losing the first set decisively, Andreeva recalibrated and capitalized on 42 unforced errors from Potapova in sets 2 and 3. Andreeva's 5th career title and 2nd of 2026 (joins Pegula and Sabalenka as multi-title winners this year). Record improves to 5-1 in career finals.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Andreeva wins Linz: 1-6, 6-4, 6-3.\n\nLost the first set 1-6. Won the next two. Both players won 86 total points.\n\n5th career title. 2nd of 2026. She's 18 years old.\n\n#Tennis #WTA #Linz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTA",
+            "#Linz"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "Mirra Andreeva is the 2026 Upper Austria Ladies Linz champion — and her title didn't come easy.\n\nThe No. 1 seed was dominated early by Anastasia Potapova, losing the opening set 1-6 as Potapova's aggressive game clicked in front of a home crowd (Potapova holds Austrian citizenship). But Andreeva recalibrated between sets, sharpened her returns, and patiently exposed the errors that would eventually define the match. Potapova committed 42 unforced errors in total. Andreeva capitalized on them in the second and third sets to close out a 1-6, 6-4, 6-3 victory in 1 hour 54 minutes.\n\nThe final statistics tell a telling story: both players won exactly 86 total points. But Andreeva found her moments when they mattered — in the second and third sets, her conversion rate on break opportunities and her ability to extend rallies shifted the match's momentum entirely.\n\nAt 18 years old, Andreeva now has 5 career WTA titles and a record of 5-1 in singles finals. She is now a multi-title winner in 2026, joining Pegula and Sabalenka in that company.",
+        "image_caption": "Mirra Andreeva won the 2026 Linz Open final 1-6, 6-4, 6-3. Lost the first set. Won the last two. Both players won 86 total points. Andreeva is 18 years old and now has 5 career WTA titles.",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-andreeva-wins-linz-2026-potapova-comeback.html",
+        "headline": "Andreeva Rallies From 1-6 Down to Win Linz, Claim 2nd Title of 2026",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Andreeva Wins Linz\n\n#### Image Concept A — Social (1080x1350)\n- **Type:** Player photo + text overlay\n- **Search Terms:** `Mirra Andreeva` (WTA player — Imagn)\n- **Visual Direction:** Andreeva celebrating or serving, clay court\n- **Text Overlay:** \"LINZ CHAMPION 2026\" / \"1-6, 6-4, 6-3\" / \"5th Career Title\"\n- **Mood:** Youthful triumph, clay court, celebratory\n- **Status:** not_started\n\n#### Image Concept B — Article Hero (1200x630)\n- **Type:** Match action\n- **Search Terms:** `Anastasia Potapova` (WTA player — Imagn)\n- **Visual Direction:** Potapova in match play, clay surface visible\n- **Text Overlay:** None (article hero)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Andreeva Wins Linz — Beats Potapova 1-6, 6-4, 6-3\n**Sources:**\n- wtatennis.com/news/4486392/andreeva-rallies-past-potapova-to-win-linz-title (PRIMARY — official WTA)\n- wtatennis.com/tournaments/528/linz/2026/scores/LS001 (PRIMARY — official WTA scores page)\n- tennis.com/news/articles/mirra-andreeva-joins-pegula-sabalenka-as-multi-wta-title-winner-in-2026-after-linz-comeback (SECONDARY)\n- yardbarker.com/tennis/articles/mirra_andreeva_outlasts_anastasia_potapova_in_linz_for_2nd_2026_title (SECONDARY)\n**Verified Facts (HIGH confidence — 2+ sources):**\n- Score: 1-6, 6-4, 6-3 [WTA official + Yardbarker + Tennis.com + GMA News]\n- Match duration: 1 hour 54 minutes [WTA official + Yardbarker]\n- Potapova unforced errors: 42 [WTA official + Yardbarker]\n- 5th career title for Andreeva [WTA + Tennis.com + Yardbarker]\n- 2nd WTA title of 2026 for Andreeva [WTA + Tennis.com + Yardbarker]\n- First 2026 title was Adelaide (January) [Tennis.com + Yardbarker]\n- Andreeva career finals record: 5-1 [WTA + Yardbarker]\n- Andreeva joins Pegula and Sabalenka as multi-WTA title winners in 2026 [Tennis.com + Yardbarker]\n- Andreeva is 18 years old [WTA + multiple background]\n- Both players won same total points (86 apiece) [WTA official stats]\n- Andreeva converted 5/12 break points (42%); Potapova converted 5/5 (100%) [WTA official stats]\n- Andreeva 9-0 in 2026 against players ranked outside top 50 [WTA + Tennis.com]\n- Potapova career finals record: 3-4 [Yardbarker + WTA]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Stuttgart WTA 500 Opens — Rybakina Tops Field, Siegemund Opens Main Draw",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "The 2026 Porsche Tennis Grand Prix in Stuttgart (April 13-19) is underway. Elena Rybakina is the No. 1 seed following Sabalenka's withdrawal. Laura Siegemund is the sentimental home favorite opening the main draw. Gauff (No. 2), Swiatek (No. 3, 2x Stuttgart champion 2022-23) also in draw. Eala vs. Fernandez (all-southpaw R1 matchup) is a marquee opening clash. Top half: Rybakina + Swiatek. Bottom half: Gauff.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Stuttgart starts today (Porsche Tennis Grand Prix):\n\n🎾 Rybakina — No. 1 seed\n🎾 Swiatek — No. 3 seed, 2x Stuttgart champion, same half as Rybakina\n🎾 Gauff — No. 2 seed, bottom half\n🎾 Siegemund — opens on home clay\n\nApril 13-19. #Tennis #WTA #Stuttgart",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#WTA",
+            "#Stuttgart"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "The European clay season is officially underway, and Stuttgart is setting the stage.\n\nThe 2026 Porsche Tennis Grand Prix at the Porsche Arena (April 13-19) opened Monday with a star-studded field and a draw that promises compelling tennis throughout the week. Elena Rybakina is the No. 1 seed after Aryna Sabalenka withdrew with an injury following her Miami Open run. Coco Gauff is the No. 2 seed and occupies the bottom half of the draw. Iga Swiatek — a two-time Stuttgart champion (2022, 2023) — is the No. 3 seed and finds herself in the same half as Rybakina, setting up a potential semifinal between two of the best clay-court players in the world.\n\nLaura Siegemund opened the main draw on home soil Monday, playing to a crowd that was loudly behind the German fan favorite. Alex Eala and Leylah Fernandez meet in a rare all-southpaw first-round match that tennis aficionados have been circling since the draw came out.\n\nStuttgart is a WTA 500 event that typically punches above its weight in terms of the quality of tennis played. With Rybakina, Gauff, and Swiatek all in the field, this year should be no different.",
+        "image_caption": "Stuttgart is live. Rybakina (No. 1 seed) and Swiatek (No. 3, 2x champion) share the top half. Gauff (No. 2) has the bottom half to herself. Siegemund opened on home clay Monday. Porsche Tennis Grand Prix, April 13-19.",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-stuttgart-wta-500-rybakina-swiatek-gauff-2026.html",
+        "headline": "Stuttgart Opens: Rybakina Tops Draw as Swiatek, Gauff Begin WTA Clay Season",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Stuttgart WTA 500 Opens\n\n#### Image Concept A — Social (1080x1350)\n- **Type:** Player photo + text overlay\n- **Search Terms:** `Elena Rybakina` (WTA player — Imagn)\n- **Visual Direction:** Rybakina in action or serve position, preferably clay\n- **Text Overlay:** \"STUTTGART 2026\" / \"Porsche Tennis Grand Prix\" / \"April 13-19\"\n- **Mood:** Preview, clean, authoritative\n- **Status:** not_started\n\n#### Image Concept B — Social (1080x1350)\n- **Type:** Player photo + text overlay\n- **Search Terms:** `Iga Swiatek` (WTA player — Imagn)\n- **Visual Direction:** Swiatek on clay, forehand in motion\n- **Text Overlay:** \"Stuttgart 2x Champion\" / \"No. 3 Seed\"\n- **Mood:** Championship pedigree, clay specialist\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stuttgart WTA 500 Opens (Porsche Tennis Grand Prix)\n**Sources:**\n- wtatennis.com/tournaments/1051/stuttgart/2026 (PRIMARY — official WTA tournament overview)\n- wtatennis.com/tournaments/1051/stuttgart/2026/draws (PRIMARY — official draws)\n- wtatennis.com/news/4483768/stuttgart-411-dates-top-players-withdrawals-prize-money-and-more (PRIMARY — WTA 411 article)\n- tennis365.com/tennis-features/wta-porsche-tennis-grand-prix-stuttgart-entry-list-sabalenka-rybakina-gauff-swiatek-eala (SECONDARY)\n**Verified Facts (HIGH confidence — 2+ sources):**\n- Tournament dates: April 13-19, 2026 [WTA official + Tennis365]\n- Venue: Porsche Arena, Stuttgart, Germany [WTA official + Tennis365]\n- Surface: Indoor clay [WTA official + Tennis365]\n- Rybakina No. 1 seed (Sabalenka withdrew) [WTA official + Tennis365 + prior confirmed data]\n- Gauff No. 2 seed [WTA official + Tennis365]\n- Swiatek No. 3 seed [WTA official + Tennis365]\n- Swiatek won Stuttgart in 2022 and 2023 [WTA + Tennis365 + prior confirmed data]\n- Sabalenka withdrew (injury after Sunshine Double) [Tennis.com + WTA + prior confirmed data]\n- Laura Siegemund opens main draw Monday [WTA official + puntodebreak.com]\n- Rybakina and Swiatek in same draw half [WTA draws + Tennis365]\n- Eala vs. Fernandez in R1 (all-southpaw matchup) [WTA draws + prior confirmed data]\n**Verified Facts (MEDIUM confidence — single source):**\n- Siegemund opponent: Viktoriya Tomova [puntodebreak.com + lastwordonsports.com bets article]\n- Frech replaced Zheng (withdrawal) [Prior 04-11 confirmed data — cross-check needed]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Barcelona Open Day 1 — Draper, Wawrinka, Jodar Headline Opening Round",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "The Barcelona Open Banc Sabadell (ATP 500, April 13-19) opened Monday with 7 first-round matches. Jack Draper faces Tomas Martin Etcheverry in the most anticipated R1 matchup. Stan Wawrinka plays Cameron Norrie in what could be one of Wawrinka's final career appearances on clay. Rafael Jodar (career-high No. 57) makes his Barcelona debut vs. Jaume Munar. Carlos Alcaraz (No. 1 seed, 14-3 career record) enters in R2.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Barcelona opens today (ATP 500):\n\nDraper vs. Etcheverry — R1 headline\nWawrinka vs. Norrie — farewell clay season continues\nJodar (career-high No. 57) vs. Munar — Barcelona debut\n\nAlcaraz (14-3 career record here) enters in R2.\n\n#Tennis #BarcelonaOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#BarcelonaOpen"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "Two cities, two tournaments, one day. The clay double-header that marks the true start of the spring tennis season began Monday with both Stuttgart (WTA 500) and Barcelona (ATP 500) opening their main draws simultaneously.\n\nAt the Real Club de Tenis Barcelona, seven first-round matches were scheduled for Day 1. The marquee clash was Jack Draper against Tomas Martin Etcheverry — two clay specialists with contrasting games, both with something to prove heading into the spring swing. Stan Wawrinka, who announced his retirement at the end of the 2026 season, played Cameron Norrie in a match that carried the quiet emotional weight of a farewell tour. And Rafael Jodar — who reached a career-high No. 57 in the rankings this week — made his Barcelona debut against local player Jaume Munar on the Rafa Nadal Court in what was the Day 1 highlight match.\n\nCarlos Alcaraz, the No. 1 seed with a 14-3 career record at this tournament, enters in R2.\n\nBarcelona is where Alcaraz announced himself to the world as a teenager. It remains his most comfortable hunting ground outside the Grand Slams. The clay season is here.",
+        "image_caption": "Barcelona opens Monday. Draper vs. Etcheverry. Wawrinka vs. Norrie. Jodar's home debut. Alcaraz (14-3 career record) enters in R2. ATP 500, April 13-19. Clay season is here.",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-barcelona-open-day1-draper-wawrinka-jodar-2026.html",
+        "headline": "Barcelona Open Day 1: Draper-Etcheverry Headline as Wawrinka's Farewell Clay Season Continues",
+        "word_count": 651
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Barcelona ATP 500 Opens\n\n#### Image Concept A — Social (1080x1350)\n- **Type:** Player photo + text overlay\n- **Search Terms:** `Carlos Alcaraz` (ATP player — Imagn)\n- **Visual Direction:** Alcaraz on clay, forehand grip or baseline stance\n- **Text Overlay:** \"BARCELONA 2026\" / \"14-3 Career Record\" / \"ATP 500\"\n- **Mood:** Home-court authority, clay season energy\n- **Status:** not_started\n\n#### Image Concept B — Social (1080x1350)\n- **Type:** Player photo + text overlay\n- **Search Terms:** `Jack Draper` (ATP player — Imagn)\n- **Visual Direction:** Draper serving or backhand, aggressive body language\n- **Text Overlay:** \"R1 TODAY\" / \"Draper vs. Etcheverry\"\n- **Mood:** Match-day urgency, clay court\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Barcelona Open Day 1\n**Sources:**\n- atptour.com/en/news/barcelona-2026-schedule (PRIMARY — official ATP)\n- atptour.com/en/scores/current/barcelona/425/draws (PRIMARY — official ATP draws)\n- puntodebreak.com/en/2026/04/12/monday-april-13-barcelona-open-2026-order-of-play-jodars-debut-the-highlight-of-the-day (SECONDARY)\n- tennistonic.com/tennis-news/984319/prediction-preview-h2h-draper-norrie-wawrinka-and-opelka-to-play-on-monday-barcelona-open-banc-sabadell (SECONDARY)\n**Verified Facts (HIGH confidence — 2+ sources):**\n- Tournament: Barcelona Open Banc Sabadell, ATP 500, April 13-19 [ATP Tour + puntodebreak]\n- Venue: Real Club de Tenis Barcelona [ATP Tour + Wikipedia]\n- Alcaraz No. 1 seed, enters R2 (as top seed receives bye) [ATP Tour + prior confirmed data]\n- 7 R1 matches scheduled Monday; 9 more on Tuesday [puntodebreak + 10sballs.com]\n- Jack Draper vs. Tomas Martin Etcheverry in R1 [ATP Tour draws + puntodebreak + Yahoo Sports]\n- Cameron Norrie vs. Stan Wawrinka in R1 [ATP Tour draws + puntodebreak + lastwordonsports.com]\n- Rafael Jodar vs. Jaume Munar in R1 (highlight match of Day 1) [puntodebreak + ATP draws]\n- Jodar reached career-high No. 57 this week [Prior 04-08 confirmed data]\n- Alcaraz 14-3 career record at Barcelona [Prior 04-12 confirmed data — ATP official]\n- Wawrinka announced retirement at end of 2026 season [Prior 04-07 confirmed data]\n**Verified Facts (MEDIUM confidence — single source):**\n- Draper-Etcheverry R1 scheduled 12:05 PM local time [tennistonic.com]\n- Jodar-Munar on Rafa Nadal Court, last shift ~5:00 PM [puntodebreak]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
