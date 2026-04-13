@@ -1,0 +1,456 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-13",
+  "compiled_at": "2026-04-13T11:21:56.381723+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Play-In tips off tomorrow, full matchup breakdown",
+      "type": "Preview"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — Bracket locked, Nuggets clinch No. 3",
+      "type": "Standings"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 5 — NBA Awards preview (SGA, Wemby, Knueppel)",
+      "type": "Feature"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Clippers-Warriors win-or-go-home preview",
+      "type": "Preview"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 6 — Spurs enter playoffs at 62-20",
+      "type": "Feature"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 1 — Bold Play-In prediction",
+      "type": "Engagement"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 4 — 76ers-Magic, Embiid out",
+      "type": "Preview"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7 — 5 playoff storylines",
+      "type": "Feature"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NBA Play-In Tournament Preview — Starts Tomorrow on Prime Video",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "🚨 PLAY-IN TIPS OFF TOMORROW 🚨\n\nThe 2026 NBA Play-In Tournament:\n\n• Hornets vs. Heat — Tue 7:30 PM ET\n• Suns vs. Blazers — Tue 10 PM ET\n• 76ers vs. Magic — Wed 7:30 PM ET\n• Clippers vs. Warriors — Wed 10 PM ET\n\nAll on Prime Video. All must-watch.\n\n#HoopHeroes #NBAPlayIn #NBA",
+          "posting_time": "9:00 AM, 4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayIn",
+            "#NBA"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 1-2",
+          "text": "BOLD TAKE: Kawhi drops 30 tonight and the Clippers END the Curry era in the Play-In.\n\nWarriors are beat up. Kawhi is at a CAREER HIGH 27.9 PPG.\n\nPrime Video. Wednesday. 10 PM ET.\n\nWho you got? 🏀\n\n#HoopHeroes #NBAPlayIn",
+          "posting_time": "9:00 AM, 4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayIn"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 4:00 PM"
+      },
+      "article": {
+        "filename": "article-01-nba-play-in-tournament-2026-preview.html",
+        "headline": "Eight Teams, Four Spots: Your Complete 2026 NBA Play-In Tournament Preview",
+        "word_count": 790
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Play-In Tournament Preview\n**Sources:**\n1. NBA.com — \"2026 Play-In Tournament\" official page (matchups, schedule, rules confirmed)\n2. NBC Sports — \"NBA Play-In Tournament 2026: Schedule, how does it work, which teams are in, how to watch\" (April 13, 2026)\n3. Yahoo Sports — \"NBA Play-In Tournament 2026: Schedule, matchups, how it works\" (April 13, 2026)\n4. Fox Sports — \"NBA play-in games are set: Heat-Hornets, Magic-76ers, Suns-Blazers, Clippers-Warriors\" (April 13, 2026)\n5. ABC News wire — Same Fox Sports report confirmed\n**Verified Facts (HIGH):**\n- Play-In Tournament runs April 14-17, 2026\n- All games exclusive on Prime Video\n- East matchups: Hornets (No. 9) vs. Heat (No. 10) — Tuesday April 14, 7:30 PM ET; 76ers (No. 7) vs. Magic (No. 8) — Wednesday April 15, 7:30 PM ET\n- West matchups: Suns (No. 7) vs. Blazers (No. 8) — Tuesday April 14, 10 PM ET; Clippers (No. 9) vs. Warriors (No. 10) — Wednesday April 15, 10 PM ET\n- Final games (loser of 7/8 vs. winner of 9/10): Friday April 17, 7:30 PM ET (East), 10 PM ET (West)\n- NBA Playoffs begin Saturday April 18\n- Winners of 7/8 games advance as No. 7 seeds; losers get second chance vs. 9/10 winner\n**Freshness:** Tournament starts tomorrow — maximum relevance",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "NBA Final Standings Locked — Nuggets Clinch No. 3 West Seed",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "THE 2026 NBA BRACKET IS SET.\n\nEAST:\n1 Pistons | 2 Celtics\n3 Knicks vs 6 Raptors\n4 Cavs vs 5 Hawks\n\nWEST:\n1 Thunder | 2 Spurs\n3 Nuggets vs 6 Wolves\n4 Lakers vs 5 Rockets\n\nPlay-In decides seeds 7/8. Playoffs: April 18. 🏆\n\n#HoopHeroes #NBAPlayoffs #NBA",
+          "posting_time": "11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayoffs",
+            "#NBA"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM"
+      },
+      "article": {
+        "filename": "article-02-nba-playoff-bracket-2026-set.html",
+        "headline": "2026 NBA Playoff Bracket Is Set: Nuggets Clinch No. 3, Full First-Round Matchups Confirmed",
+        "word_count": 702
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Final NBA Standings / Bracket\n**Sources:**\n1. Yahoo Sports — \"NBA playoffs: Nuggets secure No. 3 seed with win over Spurs, sending Lakers to No. 4\" (April 12-13, 2026)\n2. Eurohoops — \"NBA results and final standings: Denver Nuggets clinch third seed\" (April 13, 2026)\n3. CBS Sports — \"2026 NBA playoff picture: standings, tiebreakers\" (April 13, 2026)\n4. NBA.com — \"2026 NBA Playoffs: Standings, bracket and clinching updates\"\n5. SI.com — \"2026 NBA Playoffs: Full Bracket Ahead of Play-In Tournament\"\n**Verified Facts (HIGH):**\n- Nuggets beat Spurs 128-118 on April 12 (regular season finale); Nuggets resting starters, Wemby out for Spurs\n- Denver Nuggets finish 54-28 (No. 3 West seed)\n- Los Angeles Lakers finish 53-29 (No. 4 West seed)\n- OKC Thunder: No. 1 West (best record in NBA, ~64 wins)\n- San Antonio Spurs: No. 2 West (62-20)\n- East final: Pistons No. 1, Celtics No. 2, Knicks No. 3, Cavs No. 4\n- East No. 5: Hawks; No. 6: Raptors; Play-In: 76ers, Magic, Hornets, Heat\n- West No. 5: Rockets; No. 6: Wolves; Play-In: Suns, Blazers, Clippers, Warriors\n- Confirmed first-round (non-Play-In): Knicks (3) vs Raptors (6); Cavs (4) vs Hawks (5); Nuggets (3) vs Wolves (6); Lakers (4) vs Rockets (5)\n**MEDIUM confidence:**\n- OKC exact final record 64-18 (Eurohoops — confirmed post-season finale; pipeline had 64-16 through April 11, which is pre-final-day)\n**Freshness:** Final standings confirmed yesterday — directly relevant to Play-In preview",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Clippers-Warriors Win-or-Go-Home Play-In Preview",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kawhi Leonard. Career-high 27.9 PPG.\nSteph Curry. Two-time MVP. Depleted Warriors.\n\nWednesday. 10 PM ET. Prime Video.\n\nClippers beat the Warriors on Sunday 115-110.\n\nKawhi is LOCKED IN. This is his moment.\n\n#HoopHeroes #NBAPlayIn #Warriors #Clippers",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayIn",
+            "#Warriors",
+            "#Clippers"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-kawhi-leonard-clippers-warriors-play-in-preview.html",
+        "headline": "Kawhi vs. Curry: Clippers-Warriors Play-In Is the Best Game Nobody Is Talking About",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Clippers-Warriors Play-In Preview\n**Sources:**\n1. Press Democrat — \"Warriors-Clippers play-in preview: Breaking down keys in familiar matchup\" (April 12, 2026)\n2. SI.com — \"Kawhi Leonard Game Status Revealed for Sunday's Warriors-Clippers Game\" (April 12, 2026)\n3. VAVEL — \"Warriors 110-115 Clippers in NBA 04/12/2026\" (season finale score confirmed)\n4. Yardbarker — \"Warriors vs Clippers Injury Report\" (April 12, 2026)\n**Verified Facts (HIGH):**\n- Kawhi Leonard averaging career-high 27.9 PPG this season\n- Darius Garland (acquired from Cavaliers in trade) averaging 20.2 PPG, 6.7 APG with Clippers\n- Stephen Curry averaging 26.6 PPG, 3.5 RPG, 4.8 APG\n- Clippers won season series 3-1 (won season finale 115-110 on April 12)\n- Warriors injuries: Jimmy Butler out for season (knee); Moses Moody out\n- Clippers-Warriors Play-In game: Intuit Dome, Wednesday April 15, 10 PM ET on Prime Video\n- Clippers: No. 9 West; Warriors: No. 10 West\n**Freshness:** Game is Wednesday — preview is timely",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "76ers vs. Magic Play-In Preview — Embiid Out Indefinitely",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Joel Embiid is OUT indefinitely.\n\nThe 76ers must survive Play-In without their franchise player.\n\nMagic are -1.5 favorites.\n\nWednesday. 7:30 PM ET. Prime Video.\n\nWinner gets No. 7 seed and faces the Celtics.\n\nNo pressure. 😬\n\n#HoopHeroes #NBAPlayIn #Sixers",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayIn",
+            "#Sixers"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": {
+        "filename": "article-04-76ers-magic-play-in-embiid-out.html",
+        "headline": "Embiid Out: Can the 76ers Survive the Play-In Without Their Franchise Center?",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "76ers-Magic Play-In Preview\n**Sources:**\n1. 97.5 The Fanatic — \"Sixers To Face Magic in NBA Play-In Tournament\" (April 12, 2026)\n2. DraftKings Network — \"Opening odds for Magic vs. 76ers 2026 NBA Play-In Tournament game\" (April 12, 2026)\n3. SI.com (Philadelphia) — Game overview for April 15 Play-In game\n4. ClutchPoints — \"76ers' dream seeding, matchup scenarios for 2026 NBA Playoffs\"\n**Verified Facts (HIGH):**\n- 76ers host Magic on Wednesday April 15 at 7:30 PM ET, Prime Video\n- Joel Embiid out indefinitely (major injury)\n- Magic are -1.5 favorites, -122 ML (DraftKings)\n- 76ers won regular-season series 2-1\n- Winner faces Celtics (No. 2 seed) in first round\n- Desmond Bane was acquired by Orlando from Memphis for draft capital\n**MEDIUM confidence:**\n- Orlando Magic \"fell short of expectations\" this season (from search summary, qualitative)\n**Freshness:** Game is Wednesday — preview is timely",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "2026 NBA Awards Preview — SGA, Wemby, Knueppel, Daigneault",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "88 out of 100 ESPN first-place MVP votes.\n\n31.6 PPG. Best record in the NBA.\n\nSGA's second MVP is coming.\n\nWemby unanimous DPOY. Knueppel ROY with 265 threes.\n\nAwards season is HERE. 🏆\n\nWho's your pick?\n\n#HoopHeroes #NBAMVP #NBA",
+          "posting_time": "11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAMVP",
+            "#NBA"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM"
+      },
+      "article": {
+        "filename": "article-05-nba-awards-2026-preview-sga-wemby-knueppel.html",
+        "headline": "The 2026 NBA Awards Are Coming: SGA's Back-to-Back, Wemby's DPOY, and the Year's Best Rookie",
+        "word_count": 695
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 NBA Awards Preview\n**Sources:**\n1. Yahoo Sports — \"2026 NBA Awards Ballot: SGA for MVP, Kon Knueppel for Rookie of the Year\"\n2. NBC Sports — \"2026 NBA DPOY predictions: It's Victor Wembanyama. Duh.\"\n3. Air Alamo — \"Victor Wembanyama will officially join elite Spurs DPOY list with historic twist\" (unanimous expected)\n4. NGSCS Sports — \"2026 NBA Awards Preview: SGA's Repeat Quest and the Wemby Era of Defense\" (April 11, 2026)\n5. Yahoo Sports — \"When are the NBA's MVP, DPOY, MIP and other 2025-26 season award winners announced?\"\n**Verified Facts (HIGH):**\n- SGA: 31.6 PPG (scoring title), 6.5 APG, 4.4 RPG, 1.4 SPG; 88/100 ESPN first-place votes; OKC best record in NBA\n- Wemby: leads league in blocks (3.1 BPG); DPOY expected unanimous; -5000 BetMGM odds; age 22\n- Kon Knueppel: 265 three-pointers (obliterated Keegan Murray's 206 record); 43% from 3; ROY frontrunner\n- Awards announced late April through May (based on historical precedent; first award ~April 22)\n**MEDIUM confidence:**\n- Daigneault as COY frontrunner (multiple sources say this but not from official voting)\n**Freshness:** Playoff season = awards season — highly relevant",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Spurs Enter Playoffs as No. 2 Seed with Historic 62-20 Record",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Spurs are BACK.\n\n62-20. No. 2 seed. First Southwest Division title since 2017.\n\nVictor Wembanyama. Age 22. First NBA Playoff run incoming.\n\nNo team in the West wants to face San Antonio right now.\n\n#HoopHeroes #Spurs #NBAPlayoffs",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM"
+      },
+      "article": {
+        "filename": "article-06-spurs-62-20-playoffs-wembanyama.html",
+        "headline": "Spurs Back in the Playoffs at 62-20 — And Wembanyama's First Postseason Run Begins April 18",
+        "word_count": 543
+      },
+      "image_concepts": [
+        {
+          "label": "Image 6A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spurs Enter Playoffs\n**Sources:**\n1. CBS Sports — \"Spurs letting Victor Wembanyama play 65th game was a risk, but a better playoff path could be their reward\"\n2. Heavy Sports — \"Spurs Reveal Final Victor Wembanyama Injury Status vs Nuggets\"\n3. NBC Washington — \"2026 NBA playoffs bracket is set. See the first-round matchups\"\n**Verified Facts (HIGH):**\n- Spurs finish 62-20 (No. 2 West seed)\n- First Southwest Division title since 2017\n- Wemby sat out April 12 finale (sore left ribcage)\n- Wemby secured award eligibility April 11 (65th game, 40 pts in 26:13 min vs Mavs)\n- Spurs await Play-In winner (7th seed from Suns/Blazers game) for first-round opponent\n- Spurs' first playoff appearance since 2019\n**Freshness:** Playoffs start April 18 — context piece",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "NBA Playoffs 2026 — Five Storylines to Watch",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "The 2026 NBA Playoffs storylines you NEED to watch:\n\n🏀 Wemby's playoff debut\n🏀 Cade Cunningham's Pistons — No. 1 East\n🏀 LeBron's championship chase\n🏀 Luka-less Lakers\n🏀 SGA's OKC juggernaut\n\nWho wins it all? 👇\n\n#HoopHeroes #NBAPlayoffs",
+          "posting_time": "8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 7A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Playoffs Storylines\n**Sources:**\n1. ESPN — \"NBA playoffs 2026: Previewing all 20 teams still vying for the title\" (April 13, 2026)\n2. Yahoo Sports — \"2026 NBA playoffs: matchups, schedule, play-in bracket\"\n**Verified Facts (HIGH):**\n- Luka Doncic out entire postseason (Grade 2 hamstring; confirmed out rest of season April 8)\n- 20 teams remain (16 playoff + 4 play-in)\n- OKC is the favorite with best record; Pistons top East seed\n- Wemby's first-ever NBA playoff series\n**Freshness:** Opening night angle — evergreen leading into playoffs",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 6,
+    "image_concepts_count": 13
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

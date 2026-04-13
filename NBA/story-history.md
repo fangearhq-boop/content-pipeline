@@ -2,6 +2,71 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-13
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | NBA Play-In Tournament preview — April 14-17 on Prime Video; East: Hornets-Heat (Tue 7:30 ET), 76ers-Magic (Wed 7:30 ET); West: Suns-Blazers (Tue 10 ET), Clippers-Warriors (Wed 10 ET); finals April 17; Playoffs April 18 | 1 | FOLLOW-UP |
+| 2 | NBA final standings confirmed — Nuggets 128-118 over Spurs on April 12; Denver 54-28 (No. 3 West), Lakers 53-29 (No. 4 West); full bracket set; OKC No. 1, Spurs 62-20 No. 2; East: Pistons 1, Celtics 2, Knicks 3, Cavs 4 | 1 | FOLLOW-UP |
+| 3 | Clippers-Warriors Play-In preview — Kawhi Leonard career-high 27.9 PPG; Garland 20.2/6.7 ast (via Cavs trade); Curry 26.6 PPG; Warriors depleted (Butler/Moody out); Clippers won season series 3-1 including 115-110 finale; Wed April 15 10 PM ET Intuit Dome | 1 | NEW STORY |
+| 4 | 76ers vs. Magic Play-In preview — Embiid out indefinitely; Magic -1.5 DraftKings favorites; 76ers host Magic Wed April 15 7:30 PM ET; winner faces Celtics; Banchero leads Magic | 2 | FOLLOW-UP |
+| 5 | 2026 NBA Awards preview — SGA MVP (31.6 PPG, 88/100 ESPN votes); Wemby unanimous DPOY (3.1 BPG, -5000 BetMGM); Knueppel ROY (265 threes); Daigneault COY frontrunner; announcements begin late April | 2 | NEW STORY |
+| 6 | Spurs enter playoffs as No. 2 seed (62-20) — first Southwest Division title since 2017; first playoff appearance since 2019; Wemby rests finale after clinching eligibility April 11 (40 pts, 26:13 vs Mavs); await Suns/Blazers Play-In winner for first-round opponent | 2 | FOLLOW-UP |
+| 7 | 2026 NBA Playoffs storylines preview — Wemby's first playoffs; Cade's Pistons No. 1 East; LeBron championship chase; Luka-less Lakers; SGA's OKC juggernaut | 3 | NEW STORY |
+
+---
+
+### STORY 1: Play-In Tournament Preview
+- **Tier:** 1
+- **Category:** Play-In Preview
+- **Key facts:** April 14-17, all Prime Video. East: Hornets (9) vs Heat (10) Tue 7:30 ET; 76ers (7) vs Magic (8) Wed 7:30 ET. West: Suns (7) vs Blazers (8) Tue 10 ET; Clippers (9) vs Warriors (10) Wed 10 ET. Finals April 17. Playoffs April 18. Winners of 7/8 advance as No. 7 seeds.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Play-In results (April 14-17); complete bracket picture April 17
+
+### STORY 2: NBA Final Standings / Bracket Set
+- **Tier:** 1
+- **Category:** Season Finale / Bracket
+- **Key facts:** Nuggets beat Spurs 128-118 (April 12), clinch No. 3 West (54-28). Lakers No. 4 (53-29). West: OKC No. 1 (best record), Spurs No. 2 (62-20), Nuggets No. 3 (54-28), Lakers No. 4 (53-29). East: Pistons 1, Celtics 2, Knicks 3, Cavs 4. Non-Play-In first round: Knicks-Raptors, Cavs-Hawks, Nuggets-Wolves, Lakers-Rockets.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** First-round results
+
+### STORY 3: Clippers-Warriors Play-In
+- **Tier:** 1
+- **Category:** Play-In Preview / Star Matchup
+- **Key facts:** Clippers (9) vs Warriors (10), April 15, 10 PM ET, Prime Video, Intuit Dome. Kawhi Leonard 27.9 PPG career high. Garland 20.2 PPG/6.7 APG (via Cavs trade). Curry 26.6 PPG. Butler/Moody out for Warriors. Clippers won season series 3-1 (including 115-110 finale April 12).
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Game result April 15; winner's first-round series
+
+### STORY 4: 76ers-Magic Play-In
+- **Tier:** 2
+- **Category:** Play-In Preview / Injury Impact
+- **Key facts:** 76ers host Magic, April 15, 7:30 PM ET, Prime Video. Embiid out indefinitely. Magic -1.5 DraftKings favorites. Winner faces Celtics. Loser has second chance April 17.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Game result April 15
+
+### STORY 5: 2026 NBA Awards Preview
+- **Tier:** 2
+- **Category:** Award Season Preview
+- **Key facts:** SGA MVP (31.6 PPG, 88/100 ESPN votes, OKC best record). Wemby DPOY (3.1 BPG, unanimous expected, -5000 BetMGM). Knueppel ROY (265 threes, record by 59). Daigneault COY frontrunner. Announcements begin late April.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Each award announcement during playoffs
+
+### STORY 6: Spurs 62-20 Playoff Preview
+- **Tier:** 2
+- **Category:** Season Review / Playoff Preview
+- **Key facts:** Spurs 62-20 (No. 2 West). Southwest Division title first since 2017. First Spurs playoffs since 2019. Wemby sat out finale (sore ribs) after clinching eligibility April 11 (40 pts, 65th game). Await Suns/Blazers Play-In winner (No. 7 seed).
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** First-round opponent announced April 14; Spurs playoff run
+
+### STORY 7: 2026 NBA Playoffs Storylines
+- **Tier:** 3
+- **Category:** Playoff Preview / Evergreen
+- **Key facts:** Wemby's first playoffs. Cade's Pistons (No. 1 East from 14-68 two seasons ago). LeBron's title chase. Luka out all postseason (Grade 2 hamstring). SGA's OKC with best record.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Playoff results throughout
+
+---
+
 ## 2026-04-12
 
 | # | Story | Tier | Tag |
