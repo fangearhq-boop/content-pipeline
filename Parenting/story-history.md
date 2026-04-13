@@ -2,6 +2,48 @@
 
 ---
 
+## April 13, 2026
+
+### Story 1: D49 Early Childhood Education Expansion + Purple Star Schools
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 opening 2 new ECE classrooms at Student Success Center in August 2026; 9 D49 campuses earn Purple Star School designation for supporting military-connected families; Fort Carson/Schriever/Peterson context)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 2 new ECE classrooms at D49 Student Success Center opening August 2026; 9 campuses (7 operated + 2 charter) earn Purple Star recognition; d49.org
+- **Follow-Up Opportunities:** D49 ECE enrollment windows; Student Success Center opening details; full D49 Purple Star Schools list
+
+### Story 2: Bellabu Bear Children's Robes CPSC Recall
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC recall — Bellabu Bear bamboo sherpa children's robes violate flammability standards; burn hazard; sold Jan 2024–July 2025 at Saks + online ~$60; popular character prints; full refund available; no injuries reported; 888-703-7752)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Sizes S/M and M/L; Saks Fifth Avenue + Bellabubear.com + boutiques; $60; prints include PAW Patrol, Minecraft, Minions, Batman; full refund + prepaid return label; 888-703-7752 / help@bellabubear.com
+- **Follow-Up Opportunities:** Broader children's sleepwear safety roundup; CPSC recall alert signup
+
+### Story 3: COS Spring Outdoor Activity Guide (Bear Creek + Fountain Creek)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Spring nature programming: Bear Creek Early Literacy Event April 17 1:30-3 PM for deaf/hard-of-hearing families birth-8; Bird Banding April 18 ages 8+; Fountain Creek habitat exploration April 24 2-4 PM; ~59°F highs, 9-11 hrs sunshine)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** April 17 (1:30-3 PM Bear Creek — ASL literacy, ages birth-8); April 18 (Bear Creek bird banding, ages 8+); April 24 (Fountain Creek 2-4 PM, all ages); city parks calendar at coloradosprings.gov/parks
+- **Follow-Up Opportunities:** Summer nature programming roundup; North Cheyenne Cañon wildflower hike guide
+
+### Story 4: AAP Screen Time Guidelines 2026 — Quality Over Quantity
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP updated screen time framework January 2026: moved from 2-hour limit to 3-question quality framework; framed around AAP Advocacy Conference April 12-14; no screens under 18 months still applies; device-free bedrooms/mealtimes still recommended)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP guidance updated January 2026; 3 questions: quality, interactive, replacing better activities; no screens under 18 months (except video chat); family media plans recommended; aap.org/media-and-children
+- **Follow-Up Opportunities:** Specific app/content recommendations for COS families; social media and teens (AAP guidance)
+
+### Story 5: D11 Kindergarten Enrollment Checklist Fall 2026
+- **Content Pillar:** Local News / Evergreen
+- **Angle:** NEW STORY (Spring = D11 kindergarten roundup season; eligibility cutoff Oct 1, 2026; required docs: birth certificate, immunization records, proof of address; Westside families should verify school assignment given Trailblazer changes; d11.org)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Eligibility: must turn 5 by October 1, 2026; 3 required docs; Trailblazer co-location context for Westside families; specialty programs (dual language, Montessori) require separate inquiry; d11.org
+- **Follow-Up Opportunities:** D11 specialty program guide; first week of kindergarten tips
+
 ## April 12, 2026
 
 ### Story 1: D11 Orton Academy Moving Into Trailblazer Elementary
