@@ -1,6 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-13
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (8), FB posts (14), image concepts, image manifest, articles (5), fact-check (27 claims, 0 char violations, all stories present), compile (7 stories, 8 tweets, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (22 posts X, 15 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy sandbox blocks fanrumor.com — known). IMAGE MISSING expected (not_started, format parsing). FB posts compile to 0 (heading format — known). Story 6/7 Tier 3 no articles — 5 articles meet minimum (by design).
+
+## Previous Run
 - **Date**: 2026-04-12
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (agent: 10+ web searches), brief (7 stories), research notes, story analysis, X posts (11), FB posts (7), image concepts, image manifest, articles (5: Ramirez franchise first, Dodgers 11-3/Ohtani, Red Sox first series win, Konnor Griffin debut/$140M, Yankees swept), fact-check (58 claims, 96% HIGH confidence), compile (JSON compiled, 11 X posts, 7 FB, 5 articles, 37 dashboard items), dashboard (37 items), PostPlanner exports (11 posts X, 11 TOBI posts), WordPress publish attempted (credentials not in env + proxy sandbox blocks fanrumor.com — known).
 - **Dashboard Published**: Local only via publish-dashboard.py fallback — https://fangearhq-boop.github.io/content-dashboards/ (publish-unified-dashboard.py 403 on content-dashboards repo push — known PAT scope issue)

@@ -1,0 +1,314 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-13",
+  "compiled_at": "2026-04-13T10:48:20.272208+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Jose Ramirez Becomes First Guardian to Homer Against All 29 Teams — Two Milestones in Six Days",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "José Ramírez is now the ONLY Guardian to hit a home run against all 29 MLB teams.\n\nSaturday at Truist Park, he took an 82 mph pitch 403 feet off the Braves — completing a career feat no Cleveland player had ever pulled off.\n\nRare. #ForTheLand #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ForTheLand",
+            "#MLB"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 1-2",
+          "text": "José Ramírez — two milestones in six days:\n\n→ April 6: Set Guardians all-time games played record (1,620 games)\n→ April 11: First Guardian to HR against all 29 teams\n\nCareer: ~286 HR, 288 SB. All as a Guardian.\n\nThe Hall of Fame case writes itself. #MLB #Guardians",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Guardians"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ramirez-29-team-hr-challenge-franchise-records.html",
+        "headline": "Jose Ramirez Becomes First Guardian to Homer Against All 29 Teams — Two Franchise Records in Six Days",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jose Ramirez — 29-Team HR Challenge\n\n#### Image Concept 1 — X/Twitter Post (1080x1350)\n- **Photo search terms:** `Jose Ramirez Cleveland Guardians`\n- **Headline text:** ALL 29 TEAMS\n- **Subtext:** Ramirez First Guardian to HR vs. Every Opponent\n- **Brand colors:** Primary Orange headline, White subtext on dark navy bar\n- **Mood:** Historic milestone, legacy moment\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Photo search terms:** `Jose Ramirez Cleveland Guardians`\n- **Headline text:** THE COMPLETE SET\n- **Subtext:** Ramírez | 29-Team HR Challenge | Hall of Fame Case\n- **Brand colors:** Primary Orange headline, White subtext\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Konnor Griffin Signs 9-Year, $140 Million Extension — Largest Ever for a Rookie-Season Player",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Konnor Griffin is 19 years old and just signed a 9-year, $140 million extension with Pittsburgh.\n\nLargest guarantee in Pirates history. Largest for any player in their rookie season — ever.\n\nHe's played fewer than 10 MLB games. #LetsGoBucs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetsGoBucs",
+            "#MLB"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-konnor-griffin-140m-extension-pirates.html",
+        "headline": "Konnor Griffin Signs $140M Extension — The Largest Contract Ever for a Rookie-Season Player",
+        "word_count": 618
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Konnor Griffin — $140M Extension\n\n#### Image Concept 3 — X/Twitter Post (1080x1350)\n- **Photo search terms:** `Konnor Griffin Pittsburgh Pirates`\n- **Headline text:** $140 MILLION\n- **Subtext:** Largest Contract for Any Player in Their Rookie Season\n- **Brand colors:** Primary Gold (#FFD700) headline (contract/achievement), White subtext on dark navy\n- **Mood:** Bold, franchise-defining moment\n- **Status:** not_started\n\n#### Image Concept 4 — Article Hero (1200x630)\n- **Photo search terms:** `Konnor Griffin Pittsburgh Pirates`\n- **Headline text:** LOCKED IN\n- **Subtext:** Griffin | 9 Years | $140 Million | 19 Years Old\n- **Brand colors:** Primary Gold headline, White subtext\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Aaron Judge at 371 Career HRs — Chasing 400 While Yankees Rotation Pitches Like 1940s",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Aaron Judge has 371 career home runs.\n\nHe needs 29 more to reach 400 this season — and he just hit 53 last year.\n\nIf Judge stays healthy, that milestone is a when, not an if. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-aaron-judge-400-hr-chase-yankees-rotation.html",
+        "headline": "Aaron Judge Is 29 Home Runs From 400 — And the Yankees' Rotation Is Historic Without Cole or Rodón",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge / Yankees Rotation\n\n#### Image Concept 5 — X/Twitter Post (1080x1350)\n- **Photo search terms:** `Aaron Judge New York Yankees`\n- **Headline text:** 371 AND COUNTING\n- **Subtext:** Judge Chasing 400 Career HRs | Yankees 1.81 ERA\n- **Brand colors:** Primary Orange headline, White subtext on dark navy bar\n- **Mood:** Power, dominance, historic pursuit\n- **Status:** not_started\n\n#### Image Concept 6 — Article Hero (1200x630)\n- **Photo search terms:** `Aaron Judge New York Yankees`\n- **Headline text:** THE MARCH TO 400\n- **Subtext:** Aaron Judge | 371 HRs | Chasing History\n- **Brand colors:** Primary Orange headline, White subtext\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Ohtani Batting Resurgence — 5 HRs in Last 9 Games, .996 OPS Through 73 Plate Appearances",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Shohei Ohtani through his first ~20 games as a two-way player in 2026:\n\n5 home runs in his last 9 games. .996 OPS over 73 plate appearances.\n\nThe slow start? Ancient history. He's locked in. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ohtani-batting-resurgence-2026.html",
+        "headline": "Ohtani's Batting Resurgence: Five Home Runs in Nine Games, .996 OPS — The Two-Way Experiment Is Working",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Batting Resurgence\n\n#### Image Concept 7 — X/Twitter Post (1080x1350)\n- **Photo search terms:** `Shohei Ohtani Los Angeles Dodgers`\n- **Headline text:** LOCKED IN\n- **Subtext:** 5 HRs in Last 9 Games | .996 OPS | Two-Way Domination\n- **Brand colors:** Primary Orange headline, White subtext on dark navy bar\n- **Status:** not_started\n\n#### Image Concept 8 — Article Hero (1200x630)\n- **Photo search terms:** `Shohei Ohtani Los Angeles Dodgers`\n- **Headline text:** THE TWO-WAY RESURGENCE\n- **Subtext:** Ohtani | Batting Back | 2026 Season Update\n- **Brand colors:** Primary Orange headline, White subtext\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Red Sox Showing Signs of Life — Five-Run 9th Inning Rally on Saturday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Red Sox scored five runs in the 9th inning Saturday to win.\n\nThey've been baseball's worst team this month. But at least this is a sign of life.\n\nAlex Cora's squad still has time to turn this around. #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-red-sox-signs-of-life-2026.html",
+        "headline": "Red Sox Five-Run 9th Inning Rally: Signs of Life After Baseball's Worst Start in 126 Years",
+        "word_count": 587
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Sox Signs of Life\n\n#### Image Concept 9 — X/Twitter Post (1080x1350)\n- **Photo search terms:** `Boston Red Sox`\n- **Headline text:** SIGNS OF LIFE\n- **Subtext:** Red Sox Score 5 in 9th | Still Time to Turn It Around\n- **Brand colors:** Accent Red (#E53935) headline (team color context), White subtext on dark navy\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Braves Rout Guardians 13-1 — Atlanta Making NL East Statement",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Braves scored 13 runs against Cleveland on Sunday.\n\nAtlanta is making a statement in the NL East. When their lineup gets going, watch out.\n\nMatt Olson is locked in. The Braves are awake. #BravesCountry #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BravesCountry",
+            "#MLB"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves 13-1\n\n#### Image Concept 10 — X/Twitter Post (1080x1350)\n- **Photo search terms:** `Matt Olson Atlanta Braves`\n- **Headline text:** 13-1\n- **Subtext:** Braves Make NL East Statement | Offense Fully Awake\n- **Brand colors:** Primary Orange headline, White subtext on dark navy bar\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** MLB Week 3 Standings — Dodgers, Yankees, Brewers on Top; Marlins the Surprise; Red Sox the Disaster",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "MLB Week 3 snapshot:\n\nDodgers and Yankees are the class of baseball. Brewers a legitimate No. 3. Marlins the NL East surprise. Red Sox baseball's worst team.\n\nAbout two weeks of real data now. The picture is forming. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Week 3 Standings\n\n#### Image Concept 11 — X/Twitter Post (1080x1350)\n- **Photo search terms:** `baseball stadium crowd`\n- **Headline text:** WEEK 3 STANDINGS\n- **Subtext:** Dodgers | Yankees | Brewers Lead the Pack\n- **Brand colors:** Primary Gold headline (standings/overview context), White subtext on dark navy\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

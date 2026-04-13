@@ -5,6 +5,43 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-13
+
+### Story 1: Jose Ramirez — First Guardian to HR vs. All 29 Teams (April 11 at Braves)
+- **Angle:** FOLLOW UP (from April 9 Story 4 — games played record). Ramirez hit 403-ft solo HR off Martin Perez at Truist Park (April 11) — 1st Guardian ever to HR vs. all 29 teams. Also set franchise games played record April 6 (1,620 games, broke Terry Turner's 108-year mark). Career: ~286 HR, 288 SB, chasing 300/300 club. Hall of Fame case building.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** 300/300 HR/SB chase, 400th double milestone
+
+### Story 2: Konnor Griffin Signs 9-Year, $140M Extension
+- **Angle:** FOLLOW UP (from April 8 Story 6 — debut). Signed $140M, 9-year extension just days after debut. Largest in Pirates history. Largest guarantee for any player in their rookie season. 19 years old, first teen since Soto. 1-for-9 since debut.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Griffin development, Pirates NL Central outlook
+
+### Story 3: Aaron Judge Approaching 400 Career HRs / Yankees Rotation Dominance
+- **Angle:** NEW STORY. Judge at 371 career HRs (passed Gil Hodges, 83rd all-time). Needs 29 more. Yankees rotation 5-0 with MLB-best 1.81 ERA without Cole/Rodon. Schlittler: 15 Ks, 0 BB, 2 scoreless starts. Allowed 8 runs in first 9 games (tied 2002 Giants/1993 Braves).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Judge 400 HR chase tracking, Cole/Rodon return timeline
+
+### Story 4: Ohtani Batting Resurgence — 5 HRs in Last 9 Games, .996 OPS
+- **Angle:** FOLLOW UP (from April 9 Story 6). Cold start then 5 HRs in last 9 games; .996 OPS through 73 PAs. Pitching debut March 31 vs Cleveland was 6 scoreless IP. Second start TBD (tentatively April 6 at Toronto). Leadoff for Dodgers among MLB's best.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Ohtani second pitching start stats, Dodgers NL West standings
+
+### Story 5: Red Sox Five-Run 9th Inning — Any Signs of Turnaround?
+- **Angle:** FOLLOW UP (from April 9 Story 3 — Red Sox 2-8). Scored 5 runs in 9th inning April 11 to win. Still baseball's worst record (historically bad start in 126 years). Suárez, Gray, Contreras acquisitions underperforming. Cora: "unacceptable."
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Red Sox roster moves, trade deadline conversation beginning
+
+### Story 6: Braves Rout Guardians 13-1 (April 12)
+- **Angle:** NEW STORY. 13-1 win at Truist Park. Matt Olson driving in runs. Braves positioning as NL East contenders.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+### Story 7: MLB Week 3 Standings Overview
+- **Angle:** NEW STORY. Dodgers/Yankees/Brewers class of baseball. Marlins NL East surprise. Red Sox worst record. Brewers beating preseason projections.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+---
+
 ## 2026-04-12
 
 ### Story 1: Jose Ramirez First Guardian Ever to HR vs. All 29 Teams
