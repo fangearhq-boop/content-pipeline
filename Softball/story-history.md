@@ -3,6 +3,43 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 13, 2026
+
+### Story 1: Kendall Wells Breaks NCAA Freshman HR Record — 31st HR at Texas
+- **Angle:** FOLLOW UP (from April 9 Wells 30 HR story). Wells hit HR #31 (go-ahead 3-run blast in 5th inning) in OU's 4-3 Game 2 win at Texas, breaking the NCAA single-season freshman HR record outright. Previous mark of 30 shared by Alo, Chamberlain, Majam. Now 8th all-time single season; needs 6 more for Lauren Espinoza's all-time record (37, Arizona, 1995). OU clinched Red River series 2-1.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Wells HR record chase (6 from all-time), OU SEC title race
+
+### Story 2: Stanford Ends FSU's 25-Game Win Streak
+- **Angle:** FOLLOW UP (from April 9 FSU streak story). No. 24 Stanford swept No. 5 FSU in Palo Alto (G1: 9-8 Sheppard walk-off grand slam, G2: 7-2, G3: 6-5 walk-off). Ended nation's longest active win streak at 25 games. Big ACC implications.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** FSU drop in Week 10 poll, FSU ACC race recovery
+
+### Story 3: Alabama Sweeps Auburn 3-0 — Briski Two CG Shutouts
+- **Angle:** FOLLOW UP (from April 9 Alabama No. 3 story). Alabama swept Auburn: G1 1-0, G2 4-0, G3 9-1 run rule. Briski threw 2 complete-game shutouts in same series. Outscored Auburn 14-1. First Auburn sweep since 2021. Alabama now ~12-3 SEC.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Alabama SEC title race, Briski season stats
+
+### Story 4: Red River Rivalry Series Recap — OU 2-1, Texas Walk-Off in Game 3
+- **Angle:** FOLLOW UP (from April 9 Red River preview). G1: OU 3-0; G2: OU 4-3 (Wells record); G3: Texas 8-6 (Stewart 3-run walk-off HR in 8th, Texas hit 5 HRs). ESPN bumped coverage mid-game. OU extends SEC lead to ~3 games over Texas.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** ESPN coverage controversy, Texas SEC recovery, OU path to title
+
+### Story 5: Texas Tech Stays No. 1, Canady AUSL Golden Ticket, Beat Utah 10-2
+- **Angle:** FOLLOW UP (from April 9 TTech No. 1 story). TTech beat Utah 10-2 in G1. Canady 16-2, 7 Ks in 5.2 IP. Received first AUSL Golden Ticket of 2026 (presented by Kim Ng and Patrick Mahomes).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** TTech Utah series completion, Week 10 rankings
+
+### Story 6: NFCA Week 10 Rankings Preview
+- **Angle:** NEW STORY. Poll drops Tuesday April 14 at 11 AM ET. Expected: OU rises to No. 1, FSU drops significantly, Alabama holds, TTech stays top-2.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+### Story 7: SEC Standings Update — OU 13-1, Alabama 12-3, Texas 10-5
+- **Angle:** NEW STORY. Post-weekend standings snapshot. OU leads SEC by 1 game over Alabama, 3 over Texas. WCWS seeding implications.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+---
+
 ## April 12, 2026
 
 ### Story 1: Kendall Wells Breaks NCAA Freshman HR Record With No. 31

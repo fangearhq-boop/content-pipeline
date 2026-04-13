@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-13
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (8), FB posts (14), image concepts, image manifest, articles (5), fact-check (85 claims, 0 char violations, all stories present in all files), compile (7 stories, 8 tweets, 5 articles), dashboard (27 items), PostPlanner exports (22 posts X, 15 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Merge conflict on __pycache__ file resolved with git rm.
+
+## Previous Run
 - **Date**: 2026-04-12
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (agent, 12+ web searches), brief (7 stories), research notes, story analysis, X posts (11), FB posts (7), image concepts, image manifest, articles (5), fact-check (120 claims, 1 consistency warning: Story 6 Tier 2 no article — expected), compile (JSON compiled, 7 stories, 11 tweets, 7 FB, 5 articles), dashboard (37 items), PostPlanner exports (11 posts X, 11 TOBI posts), WordPress publish attempted.
 - **Dashboard Published**: Local only — publish-unified-dashboard.py 403 (PAT scope, known); publish-dashboard.py push failed non-fast-forward then resolved; dashboard at https://fangearhq-boop.github.io/ilovesoftball-dashboards/
