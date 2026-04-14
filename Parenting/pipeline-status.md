@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 13, 2026
+## Latest Run: April 14, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Garden of the Gods water feature (coloradosprings.gov), Vevor swing recall (cpsc.gov + mother.ly), Zippee toy recall (cpsc.gov + mother.ly + boston25news), COS April events (parksandrec.wsd3.org + coloradosprings.gov), D20 school choice (asd20.org) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 13 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories, tier + pillar assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (1 char violation fixed on 2nd pass, all verified under 280), 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 71 claims; 121 HIGH / 58 MEDIUM / 103 LOW |
+| Compile | COMPLETE | 07-content-data.json (5 stories, 6 X posts, 5 FB posts, 5 articles, 10 images) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started |
+| Dashboard | COMPLETE | review-dashboard.html (26 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-14.xlsx (6 posts) + TOBI cosp-postplanner-tobi-2026-04-14.xlsx (6 posts) |
+| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-14)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 2 (Garden of the Gods water feature; D20 school choice) | 1-2 |
+| Local Events | 1 (April family events: Sensory Inclusion Night/art/skating) | 1-2 |
+| National Parenting | 2 (Vevor swing recall; Zippee toy recall) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 13, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

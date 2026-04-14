@@ -2,6 +2,48 @@
 
 ---
 
+## April 14, 2026
+
+### Story 1: Garden of the Gods Family Water Feature Coming Summer 2026
+- **Content Pillar:** Local Events / Local News
+- **Angle:** NEW STORY (City of Colorado Springs announces lazy river-style water feature at Garden of the Gods; construction spring 2026; opening before summer 2026; family-friendly with designated entry points and scenic floating areas; response to rising temperatures; coloradosprings.gov/parks)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Lazy river-style attraction through red rock formations; construction begins spring 2026; summer 2026 target opening; official city announcement
+- **Follow-Up Opportunities:** Pricing and reservation details; opening date confirmation; opening day coverage
+
+### Story 2: Vevor Baby Swing CPSC Recall — Suffocation Hazard
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Sanven Technology recalls ~1,020 Vevor Baby Swings; inclined sleeper ban violation; suffocation risk; models BB501K/BB702A/BB005K; sold Jan-Aug 2025 on Amazon/Vevor.com; $65-$80; full refund 855-599-6320)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~1,020 units; models BB501K, BB702A, BB005K; Amazon/Vevor.com; Jan-Aug 2025; $65-$80; Safe Sleep for Babies Act violation; full refund 855-599-6320 (9AM-5PM PT Mon-Fri)
+- **Follow-Up Opportunities:** Safe sleep product roundup; inclined sleeper awareness guide
+
+### Story 3: Zippee Silicone Activity Toy Recall — Choking Hazard
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Mobi Games recalls ~117,500 Zippee silicone toys; choking hazard — spherical ends can reach throat; 1 incident reported; sold Nov 2019-Jan 2024 on Amazon/PlayMobi/toy stores; ~$20; full refund)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** ~117,500 US units; teal silicone cylinder with colorful string pulls; date codes 030620-110823 inside cylinder; sold ~$20; cpsc.gov + playmobi.com/pages/product-recall
+- **Follow-Up Opportunities:** Broader toy safety audit guide; silicone toy safety roundup
+
+### Story 4: COS April Family Events — Sensory Inclusion Night + Spring Activities
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Sensory Inclusion Night April 16, 5-6:30 PM at Widefield Parks & Recreation; Family Painting P-Art-Y April 22, 6:30-8:30 PM; Sertich Ice Center spring Learn to Skate registration open; parksandrec.wsd3.org)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** April 16 Sensory Inclusion Night (5-6:30 PM, Widefield); April 22 Family Painting (6:30-8:30 PM, Widefield); Sertich spring skating registration open; coloradosprings.gov/recreation
+- **Follow-Up Opportunities:** Post-event Sensory Inclusion Night recap; summer skating session preview
+
+### Story 5: D20 Spring 2026 — School Choice Open for 2026-27
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Academy District 20 school choice applications open now for non-resident families; 2026-27 year; 26,000+ students, 40 schools; 17-year Accredited with Distinction streak; asd20.org)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** School Choice open for non-resident families 2026-27; apply at asd20.org; 17 consecutive years Accredited with Distinction; 26,000+ students, 40 schools; calendar.asd20.org for spring dates
+- **Follow-Up Opportunities:** D20 specialty program guide; end-of-year calendar reminder
+
 ## April 13, 2026
 
 ### Story 1: D49 Early Childhood Education Expansion + Purple Star Schools
