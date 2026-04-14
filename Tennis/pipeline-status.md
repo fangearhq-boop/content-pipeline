@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-13 |
-| Writing | Complete (all steps) | 2026-04-13 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-13 |
-| Compile | Complete (07-content-data.json) | 2026-04-13 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-13 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-13 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-13 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-13 |
+| Research | Complete | 2026-04-14 |
+| Writing | Complete (all steps) | 2026-04-14 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-14 |
+| Compile | Complete (07-content-data.json) | 2026-04-14 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-14 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-14 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-14 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-14 |
 
 ## Queue
 
@@ -24,6 +24,37 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-14 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-14.xlsx (7 posts), tfr-postplanner-tobi-2026-04-14.xlsx (7 TOBI posts)
+- **Coverage:** ATP Rankings update (Sinner Week 67 No. 1 / 13,350 pts; Alcaraz Week 66 No. 2 / 13,240 pts; Vacherot top-20 debut; Tsitsipas outside top 60); Draper retires Barcelona R1 vs. Etcheverry (right knee, 3-6 6-3 4-1 retired, 4th tournament back from 5-month absence); Barcelona Day 2 (Alcaraz vs. Virtanen, De Minaur/Ofner, Musetti/Landaluce, Rublev/Navone); Munich BMW Open Day 2 (Zverev vs. Kecmanovic, Fonseca vs. Tabilo, Shelton through 7-6/3-6/6-3, 14 aces, 21-1 record); Stuttgart WTA Day 2 (Siegemund wins 4-6 7-6(4) 6-1 vs. Tomova; Swiatek/Gauff entering)
+- **Research:** Multi-source; Rankings from atptour.com + yardbarker + tennis365 (3 sources); Draper from atptour.com + skysports + espn + beinsports (4 sources); Barcelona from atptour.com + tennisconnected (2 sources); Munich from atptour.com + puntodebreak (2 sources); Stuttgart from wtatennis.com + tennisconnected (2 sources)
+- **Notes:**
+  - verify-facts.py: all 5 stories present in all content files; 38 claims; 60 HIGH; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 7 X posts, 5 FB posts, 5 articles; posting window warnings cosmetic (same as all prior days)
+  - PostPlanner: 7 posts standard, 7 TOBI posts
+  - Push to content-dashboards failed: PAT lacks write permission (same as all prior runs)
+  - WordPress publish failed: proxy blocks fanrumor.com — same env restriction as all prior runs
+- **Files created:**
+  - `tennis-content-2026-04-14/00-daily-brief.md`
+  - `tennis-content-2026-04-14/01-research-notes.md`
+  - `tennis-content-2026-04-14/02-story-analysis.md`
+  - `tennis-content-2026-04-14/03-social-posts-x.md`
+  - `tennis-content-2026-04-14/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-14/05-image-concepts.md`
+  - `tennis-content-2026-04-14/06-fact-check-log.md`
+  - `tennis-content-2026-04-14/07-content-data.json`
+  - `tennis-content-2026-04-14/07-image-manifest.md`
+  - `tennis-content-2026-04-14/review-dashboard.html`
+  - `tennis-content-2026-04-14/articles/article-01-sinner-returns-world-no1-atp-rankings-update-april-2026.html`
+  - `tennis-content-2026-04-14/articles/article-02-draper-retires-barcelona-knee-injury-2026.html`
+  - `tennis-content-2026-04-14/articles/article-03-barcelona-open-day2-alcaraz-etcheverry-2026.html`
+  - `tennis-content-2026-04-14/articles/article-04-munich-bmw-open-2026-zverev-shelton-fonseca.html`
+  - `tennis-content-2026-04-14/articles/article-05-stuttgart-wta-siegemund-wins-swiatek-gauff-2026.html`
 
 ### 2026-04-13 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
