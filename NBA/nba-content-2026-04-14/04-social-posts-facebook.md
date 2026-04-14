@@ -4,7 +4,7 @@
 
 ---
 
-## STORY 1: Play-In Tournament Night 1 — Tonight's Elimination Games
+### STORY 1: Play-In Tournament Night 1 — Tonight's Elimination Games
 
 #### Long-Form Post — 11:00 AM ET
 
@@ -26,7 +26,7 @@ Two elimination games. Two teams going home tonight. The 2026 SoFi NBA Play-In T
 
 ---
 
-## STORY 2: SGA Breaks Wilt's Record — History in Every Game
+### STORY 2: SGA Breaks Wilt's Record — History in Every Game
 
 #### Long-Form Post — 9:00 AM ET
 
@@ -48,7 +48,7 @@ The comparison to the all-time greats is no longer premature. At 27 years old, S
 
 ---
 
-## STORY 3: Wembanyama's Dominance — Unanimous DPOY and Spurs' 24-3 Historic Run
+### STORY 3: Wembanyama's Dominance — Unanimous DPOY and Spurs' 24-3 Historic Run
 
 #### Long-Form Post — 1:00 PM ET
 
@@ -70,7 +70,7 @@ Wembanyama said he would be "surprised" if the DPOY vote isn't unanimous. He won
 
 ---
 
-## STORY 4: Cade Cunningham's Comeback — Pistons Reach 60 Wins and No. 1 East Seed
+### STORY 4: Cade Cunningham's Comeback — Pistons Reach 60 Wins and No. 1 East Seed
 
 #### Long-Form Post — 4:00 PM ET
 
@@ -90,7 +90,7 @@ From 14-68 to 60-22 and the No. 1 East seed. Cade Cunningham and the Detroit Pis
 
 ---
 
-## STORY 5: Cleveland's Harden-Mitchell Duo — Ready for Playoff Glory
+### STORY 5: Cleveland's Harden-Mitchell Duo — Ready for Playoff Glory
 
 #### Long-Form Post — 7:00 PM ET
 

@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-14",
+  "compiled_at": "2026-04-14T11:29:29.206174+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "FIA April 20 Vote — Six Days to Shape Miami",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "6 days until the FIA votes on fixing F1 2026 energy management.\n\nSuper clip: 250kW → 350kW. Straight mode opened up. ICE contribution increase.\n\nIf it passes, Miami becomes the most technically unpredictable race of the decade. #F1Fanrecap #F1 #Formula1",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 1-2",
+          "text": "F1's energy problem explained:\n\nCars are \"confusing themselves.\" Leclerc came off throttle in China qualifying and burned energy in the wrong place.\n\nApril 20 vote. Miami deadline. This is the most important regulation meeting of the 2026 season. #F1Fanrecap #F12026",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F12026"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:00 AM"
+      },
+      "article": {
+        "filename": "article-01-fia-april-20-vote-six-fixes-miami.html",
+        "headline": "Six Days, Six Fixes: The FIA Vote That Could Transform F1 2026 Before Miami",
+        "word_count": 730
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "FIA Countdown Graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Race action / energy management (1200x630 article hero)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FIA April 20 Vote\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| April 20 FIA binding vote on 2026 regulation tweaks | HIGH | Multiple sources: Sky Sports, Motorsport.com, ScuderiaFans |\n| Super clip: increase from 250kW to 350kW proposal | HIGH | The Race (six fixes article), pipeline April 12 |\n| April 15 sporting regs session, April 16 technical session | HIGH | ReadMotorsport, ScuderiaFans |\n| E-vote results expected a few days after meeting | MEDIUM | ReadMotorsport single-source |\n| Goal: implemented before Miami GP May 1-3 | HIGH | Multiple sources |\n| Leclerc's China qualifying as \"regulation confusing itself\" example | MEDIUM | The Race article |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli Expects Ferrari to Close the Gap Via ADUO Tweak",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM, 12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kimi Antonelli told Autosport he EXPECTS Ferrari to close on Mercedes in Miami.\n\nThe reason? The ADUO regulation tweak from the April 20 vote.\n\nWhen the championship LEADER warns the title's getting tighter — pay attention. #F1Fanrecap #F12026 #Formula1",
+          "posting_time": "10:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F12026",
+            "#Formula1"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Antonelli on Miami: \"It's going to be a restart for me.\"\n\nHe's 9 points clear of Russell. Leads Ferrari's Leclerc by 23.\n\nBut he knows the ADUO rule changes could shift the balance. This title isn't decided yet. #F1Fanrecap #Formula1",
+          "posting_time": "10:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Formula1"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM, 12:00 PM"
+      },
+      "article": {
+        "filename": "article-02-antonelli-ferrari-aduo-title-warning.html",
+        "headline": "Antonelli's Warning: The Championship Leader Expects Ferrari to Close in Miami",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Antonelli Feature (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Championship standings graphic (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli ADUO / Championship\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Antonelli leads drivers' championship 72 pts | HIGH | Multiple sources confirmed (pipeline, F1-fansite, GPFans) |\n| Russell 63 pts, Leclerc 49, Hamilton 41 | HIGH | Multiple sources confirmed |\n| Mercedes Constructors 135, Ferrari 90 | HIGH | Multiple sources confirmed |\n| Antonelli expects Ferrari to close via ADUO tweak | MEDIUM | Autosport single-source |\n| Antonelli: \"Miami is going to be, for me, also a restart\" | MEDIUM | Multiple sources referencing the quote |\n| Antonelli won Bahrain and Australian GP (2 wins) | HIGH | Multiple sources (National Today Miami, Wikipedia) |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Red Bull's 'Make or Break' Miami Upgrade — What Mekies Is Promising",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM, 5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Red Bull's situation heading into Miami:\n\n• ~1 second per lap deficit\n• 16 Constructors points (6th)\n• Major RB22 upgrade QUESTIONED after Suzuka\n• Verstappen exit clause: August-October\n\nMekies says they'll go deeper in data. It has to work. #F1Fanrecap #RedBull #F12026",
+          "posting_time": "2:00 PM, 5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#RedBull",
+            "#F12026"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Red Bull went from 4x champion to 6th in the Constructors in ONE season.\n\nThe April break is their last real chance before Verstappen's exit window opens.\n\nMiami has to be different. #F1Fanrecap #Verstappen #Formula1",
+          "posting_time": "2:00 PM, 5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Verstappen",
+            "#Formula1"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM, 5:00 PM"
+      },
+      "article": {
+        "filename": "article-03-red-bull-miami-upgrade-mekies.html",
+        "headline": "Red Bull's Final Gamble: Everything Rides on the Miami RB22 Package",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Verstappen / Red Bull (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "RB22 Technical Close-up (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Red Bull / Mekies\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Red Bull RB22 deficit ~1s/lap (0.8s chassis + 0.2s Ford PU) | HIGH | Pipeline April 12 (confirmed from multiple sources) |\n| Red Bull 16 pts, 6th Constructors | HIGH | Multiple sources confirmed |\n| Verstappen 12 pts | HIGH | Multiple sources confirmed |\n| Mekies: \"go deeper into data, tunnel and simulator\" | MEDIUM | PlanetF1 single source |\n| Sidepod changes introduced at Suzuka | MEDIUM | RacingNews365 \"major upgrade questioned\" |\n| Verstappen exit clause Aug-Oct 2026 | HIGH | Pipeline April 11-12 confirmed from multiple sources |\n| ADUO upgrade eligibility for Red Bull | MEDIUM | PlanetF1 single source |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen's Nurburgring Redemption — Four Days to the 24H Qualifiers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Max Verstappen is back at the Nurburgring in 4 days.\n\nTwo four-hour races. Verstappen Racing Mercedes GT3. Lucas Auer as co-driver.\n\nLast time he was there his NLS2 win was stripped. Time for redemption. #F1Fanrecap #Verstappen #Nurburgring",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Verstappen",
+            "#Nurburgring"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": {
+        "filename": "article-04-verstappen-nurburgring-24h-qualifiers.html",
+        "headline": "Verstappen Returns to the Ring: Redemption Runs Begin Saturday at the 24H Qualifiers",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Verstappen GT Racing (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Nurburgring (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Nurburgring Qualifiers\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| April 18-19 24H Nurburgring Qualifiers | HIGH | Multiple sources: RacingNews365, Motorsport.com, GPBlog |\n| Two four-hour races (Sat 17:30, Sun) | HIGH | RacingNews365 schedule |\n| Qualifying Sat April 18 at 8:30-10:00 | MEDIUM | RacingNews365 |\n| Co-driver Lucas Auer in Verstappen Racing Mercedes GT3 | HIGH | Multiple sources |\n| NLS2 win stripped (tyre breach: 7 sets vs 6 limit) | HIGH | Pipeline April 11 confirmed, GPFans |\n| Verstappen quote: \"brings a big smile\" | MEDIUM | Pipeline April 12 source |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Miami GP Preview — 17 Days That Will Define the 2026 Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "17 days until Miami GP. The race where:\n\n• F1's first sprint weekend of 2026\n• New energy rules debut (if FIA vote passes)\n• Red Bull MUST deliver\n• Antonelli defends under real pressure\n\nMay 1-3. The 2026 season truly begins again. #F1Fanrecap #MiamiGP #Formula1",
+          "posting_time": "8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP",
+            "#Formula1"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM"
+      },
+      "article": {
+        "filename": "article-05-miami-gp-preview-17-days.html",
+        "headline": "17 Days to Miami: The Race That Will Define the Real 2026 F1 Season",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Miami GP preview (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Antonelli at speed (Social 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Miami GP Preview\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Miami GP May 1-3, 2026 | HIGH | F1.com, multiple sources |\n| Sprint weekend format | HIGH | Heavy.com confirmed sprint weekend |\n| Circuit: 5.412km, 57 laps | HIGH | Pipeline April 12 (from F1.com) |\n| First sprint of 2026 season | HIGH | Multiple sources |\n| Ferrari Monza filming day April 22 | HIGH | Pipeline April 12 confirmed |\n## Flags\n- Mekies quotes: from PlanetF1/single source — include with attribution rather than direct quotes\n- Antonelli ADUO quote: Autosport single source — present as \"told Autosport\" attribution\n- Verstappen exit clause: treat as HIGH (multiple prior pipeline sessions confirmed)\n- Red Bull 1s deficit breakdown: HIGH (confirmed across multiple sessions and sources)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

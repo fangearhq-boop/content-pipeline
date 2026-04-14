@@ -4,7 +4,7 @@
 
 ---
 
-## STORY 1: Play-In Tournament Night 1 — Tonight's Elimination Games
+### STORY 1: Play-In Tournament Night 1 — Tonight's Elimination Games
 
 #### Text Post 1 — 9:00 AM ET
 
@@ -30,7 +30,7 @@ Suns vs. Blazers. 10 PM ET on Prime Video tonight. This one matters. #HoopHeroes
 
 ---
 
-## STORY 2: SGA Breaks Wilt's Record — History in Every Game
+### STORY 2: SGA Breaks Wilt's Record — History in Every Game
 
 #### Text Post 1 — 11:00 AM ET
 
@@ -58,7 +58,7 @@ Back-to-back MVP isn't a question anymore. It's a formality. #HoopHeroes #OKCThu
 
 ---
 
-## STORY 3: Wembanyama's Dominance — Unanimous DPOY and Spurs' 24-3 Historic Run
+### STORY 3: Wembanyama's Dominance — Unanimous DPOY and Spurs' 24-3 Historic Run
 
 #### Text Post 1 — 1:00 PM ET
 
@@ -86,7 +86,7 @@ Wemby's era has officially arrived. #HoopHeroes #Spurs #NBAPlayoffs
 
 ---
 
-## STORY 4: Cade Cunningham's Comeback — Pistons Reach 60 Wins and No. 1 East Seed
+### STORY 4: Cade Cunningham's Comeback — Pistons Reach 60 Wins and No. 1 East Seed
 
 #### Text Post 1 — 4:00 PM ET
 
@@ -101,7 +101,7 @@ Cade Cunningham is the reason. First 60-win season since 2005-06. #HoopHeroes #P
 
 ---
 
-## STORY 5: Cleveland's Harden-Mitchell Duo — Ready for Playoff Glory
+### STORY 5: Cleveland's Harden-Mitchell Duo — Ready for Playoff Glory
 
 #### Text Post 1 — 7:00 PM ET
 

@@ -2,6 +2,55 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-14
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | FIA April 20 binding vote — 6 days away; six proposals: super clip 250→350kW, straight mode freed, ICE fuel flow increase, ADUO refinement, qualifying energy allocation, regulation simplification; April 15 sporting/April 16 technical sessions precede vote; ratification then Miami implementation | 1 | FOLLOW-UP |
+| 2 | Antonelli (72 pts) tells Autosport he expects Ferrari to close on Mercedes via ADUO tweak; Mercedes leads Constructors 135-90; Antonelli 9 pts over Russell; flags start issues as improvement area; describes Miami as "a restart" | 1 | NEW STORY |
+| 3 | Red Bull Miami upgrade — Mekies promises deeper data dive, tunnel and simulator; ~1s/lap deficit (0.8s chassis + 0.2s Ford PU); Suzuka upgrade questioned; ADUO eligibility factor; Verstappen exit clause Aug-Oct; 16 pts/6th Constructors | 1 | FOLLOW-UP |
+| 4 | Verstappen 24H Nurburgring Qualifiers April 18-19 — two four-hour races (Sat 17:30, Sun); co-driver Lucas Auer; Mercedes GT3; qualifying Sat 8:30-10:00; redemption after NLS2 DSQ (7 tyres vs 6 limit) | 2 | FOLLOW-UP |
+| 5 | Miami GP preview — 17 days; May 1-3; sprint weekend (first of 2026); 5.412km/57 laps; new energy rules debut if April 20 vote passes; Red Bull must perform; championship standings: Antonelli 72, Russell 63, Leclerc 49, Hamilton 41, Verstappen 12 | 2 | FOLLOW-UP |
+
+---
+
+### STORY 1: FIA April 20 Vote — Six Proposals for Miami
+- **Tier:** 1
+- **Category:** Regulations / Technical
+- **Key facts:** April 20 binding vote. Six proposals: (1) super clip 250→350kW; (2) straight mode open; (3) ICE fuel flow increase (2027 concern flagged); (4) qualifying energy allocation; (5) ADUO refinement; (6) regulation simplification. Leclerc China qualifying example of "car confusing itself." April 15 sporting, April 16 technical. E-vote follows. World Motor Sport Council ratification. Miami May 1-3 deadline.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Vote outcome April 20; Miami regulation implementation confirmed
+
+### STORY 2: Antonelli Expects Ferrari ADUO Advantage at Miami
+- **Tier:** 1
+- **Category:** Championship / Technical Analysis
+- **Key facts:** Antonelli tells Autosport Ferrari will close via ADUO tweak. Antonelli 72 pts, Russell 63, Leclerc 49. Mercedes Constructors 135-90 over Ferrari. Antonelli won Bahrain opener and Australian GP. Flags suboptimal starts. Quote: "Miami is going to be a restart for me." Miami is first sprint weekend.
+- **Status:** NEW STORY
+- **Follow-Up:** ADUO vote outcome; Miami qualifying performance vs. Ferrari
+
+### STORY 3: Red Bull Miami Upgrade — Mekies Promises
+- **Tier:** 1
+- **Category:** Technical / Team Crisis
+- **Key facts:** ~1s/lap deficit (0.8s chassis + 0.2s Ford PU). Red Bull 16 pts/6th. Verstappen 12 pts. Mekies: "deeper data dive, tunnel, simulator." Sidepod reconfiguration at Suzuka questioned. Verstappen exit clause Aug-Oct. ADUO eligibility potential avenue.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Miami upgrade delivery; Verstappen performance
+
+### STORY 4: Verstappen 24H Nurburgring Qualifiers
+- **Tier:** 2
+- **Category:** Driver News / Endurance
+- **Key facts:** April 18-19. Two 4-hr races. Lucas Auer co-driver. Mercedes GT3. Qualifying Sat 8:30-10:00, Race 1 17:30. NLS2 win stripped (7 tyres vs 6). NLS3 skipped (Paul Ricard conflict). Quote: "brings a big smile."
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Qualifier results April 18-19; 24H Nurburgring main event (May)
+
+### STORY 5: Miami GP 17-Day Preview
+- **Tier:** 2
+- **Category:** Race Preview
+- **Key facts:** Miami GP May 1-3 (sprint weekend). 5.412km/57 laps. First sprint of 2026. If April 20 passes, new energy rules debut at Miami. 10 days from regulation ratification to practice. Championship: Antonelli 72, Russell 63, Leclerc 49, Hamilton 41, Verstappen 12.
+- **Status:** FOLLOW-UP
+- **Follow-Up:** Miami GP race weekend
+
+---
+
 ## 2026-04-12
 
 | # | Story | Tier | Tag |

@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-12
+- **Date**: 2026-04-14
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-14
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (2 Tier 1, 2 Tier 2, 1 Tier 3)
+- **X Posts:** 8 written, all under 280 characters (Story 5 tweet fixed from 286→270 chars)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5: FIA April 20 vote six-fix package, Antonelli Ferrari ADUO title warning, Red Bull make-or-break Miami upgrade, Verstappen Nurburgring 24H qualifiers, Miami GP 17-day preview)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-14.xlsx (13 posts) + f1fr-postplanner-tobi-2026-04-14.xlsx (13 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-14/review-dashboard.html (23 items)
+- **Notes:** FIA April 20 binding vote (6 days away — super clip 250→350kW, straight mode expansion, ICE fuel flow increase, qualifying energy allocation, ADUO refinements, simplify threshold rules; Leclerc China qualifying as canonical confusion example); Antonelli warns Ferrari closing via ADUO tweak (leads by 9 over Russell, 45-pt Constructors lead, Miami sprint format adds start complexity); Red Bull RB22 crisis (~1s deficit: 0.8s chassis + 0.2s Ford PU, sidepod reconfiguration at Suzuka underdelivering, Mekies deep dive promised, Verstappen exit clause Aug-Oct 2026); Verstappen Nurburgring 24H qualifiers April 18-19 (two 4-hour races, Lucas Auer co-driver, NLS2 win stripped — 7 tyre sets vs 6 limit, NLS3 skip Paul Ricard, Bahrain/Saudi cancellations created calendar gap); Miami GP May 1-3 (first sprint weekend 2026, 57 laps, 5.412km, new regs debut if FIA vote passes).
+- **Fact concerns:** All core facts HIGH from Autosport, Sky Sports, ESPN, Motorsport.com, GPFans, RacingNews365. Antonelli age corrected in Facebook post (was "21-year-old" — fixed to "19-year-old"; he is 19y 7m per pipeline history). Exact Miami lap count (57) HIGH. Red Bull 0.8s chassis / 0.2s Ford PU breakdown HIGH from multiple outlets. Verstappen 7-tyre-set DSQ HIGH (multiple sources confirmed). ADUO refinement details MEDIUM (specifics vary by outlet).
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-12
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
