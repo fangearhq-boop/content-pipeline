@@ -3,6 +3,43 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 14, 2026
+
+### Story 1: NFCA Week 10 Poll — Oklahoma at No. 1 for First Time in 2026
+- **Angle:** FOLLOW UP (from April 13 Week 10 preview). NFCA Week 10 Coaches Poll released April 14 at 11 AM ET — Oklahoma at No. 1 for the first time in 2026. Softball America Week 11 (April 13) also had Oklahoma No. 1. Alabama No. 2, Texas Tech No. 3, Texas No. 4, Nebraska No. 5. FSU dropped sharply, Stanford re-entered Top 25, Virginia Tech entered top 10.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** OU first poll defense, Week 11 NFCA
+
+### Story 2: Kendall Wells HR Chase — 31 HRs, 6 from All-Time Record
+- **Angle:** FOLLOW UP (from April 13 Wells record story). Wells at 31 HRs, needs 6 more to break Espinoza's all-time NCAA record (37, Arizona, 1995). OU has 12+ regular season games remaining. HR pace unprecedented for a freshman.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** HR No. 32-37 milestone updates; all-time record break
+
+### Story 3: Stanford Re-Enters Rankings, FSU Drops — ACC Shakeup
+- **Angle:** FOLLOW UP (from April 13 Stanford sweep story). Poll consequences: Stanford re-entered Softball America Top 25, FSU dropped sharply from No. 5, Virginia Tech entered top 10. ACC race is now multi-team.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** FSU ranking recovery, Stanford continued rise
+
+### Story 4: Texas Tech Wins Utah Series 2-1 — Canady 17-2
+- **Angle:** FOLLOW UP (from April 13 TTech Utah series). Canady won Game 3 (7-1) with 11 Ks, improved to 17-2. TTech 40-3, 16-2 Big 12. Series win 2-1 after Game 2 loss (0-4).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Canady individual award conversations, TTech national seed chase
+
+### Story 5: Nebraska Leads Big Ten at 14-1 — First Title Since 2011 in Reach
+- **Angle:** NEW STORY. Nebraska 33-6, 14-1 Big Ten, swept Wisconsin. Chasing first Big Ten regular season title since joining in 2011. Head coach Rhonda Revelle. Race features Washington, Ohio State, Michigan.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Big Ten title clinch, Nebraska national seed
+
+### Story 6: WCWS Seeding Picture — 4 Weeks Out
+- **Angle:** NEW STORY. Top 8 national seeds host regionals. Projected hosts: Oklahoma, Texas Tech, Alabama, Nebraska. Bubble teams: Texas, Arizona, Virginia Tech, Stanford.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+### Story 7: Mid-Week Matchups to Watch
+- **Angle:** NEW STORY. Wells HR record watch any game. Alabama at Samford. Preview.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+---
+
 ## April 13, 2026
 
 ### Story 1: Kendall Wells Breaks NCAA Freshman HR Record — 31st HR at Texas

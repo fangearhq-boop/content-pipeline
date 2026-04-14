@@ -1,0 +1,325 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-14",
+  "compiled_at": "2026-04-14T10:18:21.903811+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** NFCA Week 10 Poll Official — Oklahoma Reaches No. 1 for First Time in 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "OFFICIAL: Oklahoma is No. 1 in the NFCA Week 10 Coaches Poll — the Sooners' first No. 1 of 2026.\n\nRed River series win + Kendall Wells' historic season = poll position earned.\n\nThe road to Oklahoma City runs through Norman. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 1-2",
+          "text": "NFCA Week 10 top 5:\n\nNo. 1 Oklahoma\nNo. 2 Alabama\nNo. 3 Texas Tech\nNo. 4 Texas\nNo. 5 Nebraska\n\nFSU drops out of the top 5 after Stanford swept them. What a shift in college softball. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-oklahoma-reaches-no-1-nfca-week-10-poll.html",
+        "headline": "Oklahoma Reaches No. 1 in NFCA Week 10 Coaches Poll for First Time in 2026",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NFCA Week 10 Poll — Oklahoma at No. 1\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Search Term (Imagn):** N/A\n- **Prompt:** Clean graphic background with crimson and cream colors (Oklahoma colors). Bold number \"1\" centered on the frame in large stylized text. Subtle confetti or streamers in the background. Space at top for \"NFCA WEEK 10\" headline text overlay in Canva. Space at bottom for \"OKLAHOMA IS No. 1\" text. Bright, celebratory mood. College softball aesthetic.\n- **Usage:** Story 1 social post (X + FB caption)\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Imagn\n- **Search Term:** \"Oklahoma softball Patty Gasso\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero for Story 1\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Kendall Wells Is 6 Away — OU Freshman Chases NCAA All-Time HR Record",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kendall Wells has 31 home runs.\n\nLauren Espinoza's all-time NCAA record is 37 (Arizona, 1995).\n\nThat's 6 away with 12+ games to play.\n\nThis might be the most watched record chase in college softball history. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Put it in perspective: Kendall Wells hit No. 31 in her 43rd game as a freshman.\n\nLauren Espinoza's all-time record of 37 took a full season in 1995.\n\nWells is doing it at a pace the sport has never seen. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kendall-wells-6-from-all-time-hr-record.html",
+        "headline": "Kendall Wells Is 6 Home Runs from NCAA History — and She's Just Getting Started",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells HR Chase\n\n#### Image Concept 3 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** Dark dramatic background with a glowing stat counter graphic. Style like an ESPN countdown graphic. Center shows \"31\" in large bold numerals with \"KENDALL WELLS\" above. Below shows \"6 AWAY FROM NCAA HISTORY.\" Use golden/amber accent colors on dark navy. Space for text overlay. Athletic achievement aesthetic.\n- **Usage:** Story 2 social (X + FB caption)\n\n#### Image Concept 4 — Article Hero (1200x630)\n- **Type:** Imagn\n- **Search Term:** \"Kendall Wells Oklahoma\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero for Story 2\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Stanford Shakes Up the ACC — Seminoles Drop, Cardinal Re-Enter Top 25",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Stanford swept FSU — and the polls noticed.\n\nThe Cardinal re-entered the Top 25. FSU dropped sharply. Virginia Tech cracked the top 10.\n\nThe ACC race just got a lot more interesting. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-stanford-acc-shakeup-fsu-drops.html",
+        "headline": "Stanford's Sweep of Florida State Reshapes the ACC Race and the National Rankings",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Stanford / ACC Shakeup\n\n#### Image Concept 5 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** Split-design graphic. Left half: Cardinal red (Stanford colors), \"STANFORD\" in bold. Right half: Garnet and gold fade (FSU colors), downward-pointing arrow. Center: \"RANKINGS SHAKEUP\" text space. Clean geometric design. College softball aesthetics. Neutral background at top/bottom for Canva text.\n- **Usage:** Story 3 social (X + FB caption)\n\n#### Image Concept 6 — Article Hero (1200x630)\n- **Type:** Imagn\n- **Search Term:** \"Stanford softball pitcher\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article hero for Story 3\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Texas Tech Wins Utah Series — Canady Improves to 17-2, Raiders Rebound Strong",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "No. 1 Texas Tech takes the Utah series 2-1. NiJaree Canady bounced back in Game 3 — 11 Ks, improved to 17-2.\n\nRed Raiders are 40-3, 16-2 in Big 12. Still the measuring stick. #TexasTech #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTech",
+            "#CollegeSoftball"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-texas-tech-wins-utah-series-canady-17-2.html",
+        "headline": "Texas Tech Wins Utah Series 2-1 — Canady Bounces Back With 11 Strikeouts in Game 3",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech / Canady\n\n#### Image Concept 7 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** Scarlet and black color scheme (Texas Tech). Bold stat graphic: \"17-2\" in oversized numbers. \"NIJAREE CANADY\" text space above. \"TEXAS TECH TAKES UTAH SERIES\" text space below. Clean, modern sports graphic aesthetic. Good contrast for text overlay in Canva.\n- **Usage:** Story 4 social (X + FB caption)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Nebraska Leads Big Ten at 14-1 — Chasing First Conference Title Since Joining in 2011",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nebraska is 14-1 in the Big Ten and has swept 4 of 5 conference series.\n\nThey have never won a Big Ten regular season title since joining in 2011.\n\nThis year might be the one. #Huskers #BigTen #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#BigTen",
+            "#CollegeSoftball"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nebraska-big-ten-title-chase-2026.html",
+        "headline": "Nebraska Leads the Big Ten at 14-1 — Could 2026 Finally Be the Year?",
+        "word_count": 522
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska Big Ten Chase\n\n#### Image Concept 8 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** Cornhusker red and white (Nebraska colors) background. Bold text space showing \"14-1\" record stat. Wheat or cornfield silhouette element at bottom for Nebraska identity. \"BIG TEN TITLE CHASE\" text space overlay area. Clean modern design. Celebratory but understated — showing a team on a mission.\n- **Usage:** Story 5 social (X + FB caption)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** WCWS Seeding Picture — Who's in Position to Host Regionals With 4 Weeks to Play",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "WCWS seeding watch — 4 weeks out:\n\nTop hosting contenders:\n• Oklahoma (40-4)\n• Texas Tech (40-3)\n• Alabama (38-3)\n• Nebraska (33-6)\n\nTop 8 seeds host. The race is on. #CollegeSoftball #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#WCWS"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCWS Seeding\n\n#### Image Concept 9 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** Clean bracket/rankings graphic style. White on dark background. Title text area \"WCWS SEEDING WATCH\" at top. Body area shows list-style layout with bullet points (blank — for text overlay). \"TOP 8 SEEDS HOST REGIONALS\" text space at bottom. Professional, news-graphic aesthetic.\n- **Usage:** Story 6 social (X + FB caption)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Mid-Week Matchups to Watch — Tuesday/Wednesday Softball Schedule",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Mid-week softball: keep your eyes on Kendall Wells in Oklahoma's next game.\n\nShe's 6 homers from the NCAA all-time record. Any game, any at-bat could be history.\n\nThat's must-watch softball. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mid-Week Preview\n\n#### Image Concept 10 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** Stadium lights in the evening. Softball diamond from elevated angle, dusk lighting, no people. Warm amber field lights against darkening sky. Atmospheric, cinematic. Space at top and bottom for text overlay. Mid-week game-day preview feel.\n- **Usage:** Story 7 social (X + FB caption)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
