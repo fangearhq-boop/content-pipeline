@@ -2,6 +2,55 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-14
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Play-In Night 1 — Hornets (44-38) vs Heat (43-39) 7:30 PM ET; Suns (45-37) vs Blazers (42-40) 10 PM ET; LaMelo Ball 20.1 PPG/7.1 APG; Tyler Herro 20.5 PPG; Devin Booker 26.1 PPG; Deni Avdija 24.2 PPG; all Prime Video; loser of Hornets-Heat eliminated; winner of Suns-Blazers gets No. 7 seed vs Spurs | 1 | FOLLOW-UP |
+| 2 | SGA breaks Wilt Chamberlain's consecutive 20-point games record; finishes 31.6 PPG/6.5 APG/4.4 RPG on 55% FG; OKC 64-16; 88/100 ESPN MVP straw poll; back-to-back MVP expected | 1 | FOLLOW-UP |
+| 3 | Wembanyama unanimous DPOY (-5000 BetMGM); 25 PPG/11.5 RPG/3.1 BPG on 51.2% FG; first player since Shaq (1999-2000) to average those numbers; Spurs 24-3 since ASB; 62-20 No. 2 West | 1 | FOLLOW-UP |
+| 4 | Pistons 60-22 No. 1 East seed; first 60-win season since 2005-06 (only third in franchise history); Cade Cunningham returned from collapsed lung (missed 11 games), posted 14 ast/8 reb/7 pts in finale vs Pacers; franchise went 14-68 just two seasons ago | 2 | FOLLOW-UP |
+| 5 | Cavaliers 52-30 No. 4 East; Harden in 25 games: 20.6 PPG/7.8 APG/career-high 46.6% FG/43.8% 3P; Mitchell 25.5 PPG over last 10 games; Cavs 16-6 with both in lineup; face No. 5 Raptors (Scottie Barnes, top-5 defense) in first round April 18 | 2 | NEW STORY |
+
+---
+
+### STORY 1: Play-In Night 1 — Hornets vs Heat, Suns vs Blazers
+- **Tier:** 1
+- **Category:** Play-In Tournament / Game Preview
+- **Key facts:** Hornets (No. 9, 44-38) host Heat (No. 10, 43-39) at 7:30 PM ET, Spectrum Center. Suns (No. 7, 45-37) host Blazers (No. 8, 42-40) at 10 PM ET, PHX Arena. All Prime Video. Loser of Heat-Hornets eliminated. Winner of Suns-Blazers gets No. 7 seed vs Spurs (April 18). LaMelo Ball ~20.1 PPG/7.1 APG. Tyler Herro 20.5 PPG. Charlotte 11-23 on Jan. 2, finished 44-38. Heat allowed 120+ pts 13 times in final month. Devin Booker 26.1 PPG. Deni Avdija 24.2 PPG (MIP candidate). Donovan Clingan 11.6 RPG. Suns 4.5-pt favorites.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** Results tonight; 76ers-Magic and Clippers-Warriors tomorrow (April 15); final Play-In games April 17; full bracket set April 17
+
+### STORY 2: SGA Breaks Wilt's Consecutive 20-Point Games Record
+- **Tier:** 1
+- **Category:** Player Feature / Record
+- **Key facts:** SGA averaged 31.6 PPG/6.5 APG/4.4 RPG/1.4 SPG on ~55% FG. Broke Wilt Chamberlain's NBA record for consecutive games with 20+ points. OKC 64-16 (best record in NBA, No. 1 West). 88/100 ESPN straw poll. Back-to-back MVP expected. March: 5 30-point games and 3 40-point games. MVP announcement expected late April/early May.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** MVP award announcement late April; OKC playoff run
+
+### STORY 3: Wembanyama Unanimous DPOY / Spurs 24-3 Run
+- **Tier:** 1
+- **Category:** Player Feature / Award Season
+- **Key facts:** Wemby 25 PPG/11.5 RPG/3.1 BPG on 51.2% FG. First player since Shaq (1999-2000) to hit those numbers. Unanimous DPOY expected (-5000 BetMGM). Spurs 24-3 since ASB — best stretch run in NBA. Spurs 62-20 (No. 2 West). SW Division title (first since 2017). First Spurs playoffs since 2019. Await Play-In winner for first-round opponent.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** DPOY announcement late April; Spurs first-round series April 18+
+
+### STORY 4: Cade Cunningham Return / Pistons 60-Win Turnaround
+- **Tier:** 2
+- **Category:** Team Feature / Franchise Story
+- **Key facts:** Pistons 60-22 (No. 1 East). First 60-win season since 2005-06, only third in franchise history. Cade returned from collapsed lung (missed 11 games). Finale vs Pacers: 14 ast, 8 reb, 7 pts. Team was 14-68 just two seasons ago. Await Play-In winner for first-round opponent.
+- **Status:** FOLLOW-UP
+- **Follow-Up Opportunities:** First-round opponent revealed; Pistons playoff run
+
+### STORY 5: Cleveland Cavaliers Harden-Mitchell Playoff Preview
+- **Tier:** 2
+- **Category:** Team Preview / Star Pairing
+- **Key facts:** Cavs 52-30 (No. 4 East). Harden in 25 games: 20.6 PPG/7.8 APG/career-high 46.6% FG/43.8% 3P. Mitchell 25.5 PPG over last 10 games. Cavs 16-6 with both in lineup. First-round opponent: No. 5 Raptors (Scottie Barnes, top-5 defense). Series April 18.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Cavs-Raptors first-round results; second-round potential matchups
+
+---
+
 ## 2026-04-13
 
 | # | Story | Tier | Tag |

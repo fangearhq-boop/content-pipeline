@@ -1,0 +1,342 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-14",
+  "compiled_at": "2026-04-14T11:15:58.752020+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Play-In Tournament Night 1 — Tonight's Elimination Games (FOLLOW-UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LaMelo Ball and the Hornets were 11-23 on Jan. 2.\n\nTonight they HOST Miami in an elimination Play-In game.\n\n33 wins in 57 games to get here. LaMelo's moment. 7:30 PM ET on Prime Video. #HoopHeroes #Hornets #NBAPlayIn",
+          "posting_time": "9:00 AM, 11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Hornets",
+            "#NBAPlayIn"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Devin Booker (26.1 PPG) vs. Deni Avdija (24.2 PPG).\n\nWinner faces the No. 2 Spurs in the first round.\n\nSuns vs. Blazers. 10 PM ET on Prime Video tonight. This one matters. #HoopHeroes #Suns #NBAPlayIn",
+          "posting_time": "9:00 AM, 11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Suns",
+            "#NBAPlayIn"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 11:00 AM ET\n\nThe 2026 NBA Play-In Tournament tips off tonight, and two elimination games are on the schedule that could reshape the playoff landscape heading into the first round.\n\nFirst up at 7:30 p.m. ET from Charlotte's Spectrum Center: the No. 9 Charlotte Hornets host the No. 10 Miami Heat. For the loser, the season is over. For the winner, there's another chance Wednesday against either Philadelphia or Orlando. The Hornets' story this season is remarkable — they were 11-23 entering the new year, as far from the postseason picture as any team in the league. Then LaMelo Ball got healthy and the team caught fire, going on a run that brought them all the way to 44-38. Tonight is the culmination of that comeback.\n\nMiami's Tyler Herro has been one of the more consistent scorers in the East down the stretch, but the Heat's defense was a problem late in the season — allowing 120-plus points in 13 of their final games. Against a Hornets squad that can light it up, that could be costly.\n\nThen at 10 p.m. ET from Phoenix, the No. 7 Suns host the No. 8 Portland Trail Blazers. This one carries even higher stakes — the winner goes straight to the first round as the No. 7 seed, where they'll face the No. 2 San Antonio Spurs. Devin Booker (26.1 PPG) has been Phoenix's engine all season, but Portland's Deni Avdija has emerged as one of the most improved players in the entire league, averaging 24.2 points per game. The Blazers' Donovan Clingan (11.6 rebounds per game) gives them an interior presence that could give the Suns fits.\n\nAll games exclusively on Amazon Prime Video. Tune in — the road to the NBA championship starts tonight.",
+        "image_caption": "Window: 11:00 AM ET\n\nTwo elimination games. Two teams going home tonight. The 2026 SoFi NBA Play-In Tournament is here, and Hoop Heroes has all the storylines you need to know before tip-off.",
+        "posting_time": "9:00 AM, 11:00 AM"
+      },
+      "article": {
+        "filename": "article-01-play-in-night-one-hornets-heat-suns-blazers.html",
+        "headline": "Play-In Night 1: LaMelo's Hornets Host Heat, Suns Face Blazers in Elimination Showdowns",
+        "word_count": 759
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "LaMelo Ball Action (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Devin Booker Feature (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Play-In Tournament Night 1\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Hornets (No. 9, 44-38) vs Heat (No. 10, 43-39) at 7:30 PM ET, Spectrum Center | HIGH | Multiple sources: Yahoo Sports, NBA.com, CBS Sports |\n| Suns (No. 7, 45-37) vs Blazers (No. 8, 42-40) at 10 PM ET, PHX Arena | HIGH | Yahoo Sports, NBA.com, CBS Sports |\n| All Play-In games on Amazon Prime Video | HIGH | Multiple sources (NBA.com, Yahoo Sports, SI.com) |\n| Loser of Heat-Hornets eliminated | HIGH | NBA.com Play-In rules |\n| Winner of Suns-Blazers gets No. 7 seed vs. No. 2 Spurs | HIGH | CBS Sports bracket confirmation |\n| LaMelo Ball ~20.1 PPG, 7.1 APG | MEDIUM | Yahoo Sports preview article |\n| Tyler Herro 20.5 PPG | MEDIUM | Yahoo Sports Play-In preview |\n| Hornets went 11-23 on Jan. 2, finished 44-38 | MEDIUM | Yahoo Sports Play-In preview |\n| Heat allowed 120+ points 13 times in final month | MEDIUM | Yahoo Sports Play-In preview |\n| Devin Booker 26.1 PPG for Suns | MEDIUM | Yahoo Sports Suns-Blazers preview |\n| Deni Avdija 24.2 PPG for Blazers (MIP candidate) | MEDIUM | Yahoo Sports Suns-Blazers preview |\n| Donovan Clingan 11.6 RPG for Blazers | MEDIUM | Yahoo Sports Suns-Blazers preview |\n| Suns 4.5-point favorites | MEDIUM | Covers.com / OddsShark |\n| Suns won 45 games despite losing Kevin Durant last offseason | MEDIUM | Yahoo Sports Suns preview |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "SGA Breaks Wilt's Record — History in Every Game (FOLLOW-UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Shai Gilgeous-Alexander broke Wilt Chamberlain's record for consecutive games with 20+ points this season.\n\n31.6 PPG. 55% FG. 64-16 OKC.\n\nSome seasons just belong in a different conversation. #HoopHeroes #Thunder #NBA",
+          "posting_time": "9:00 AM, 11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Thunder",
+            "#NBA"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 2-2",
+          "text": "SGA's 2025-26 season by the numbers:\n\n31.6 PPG | 55% FG | 6.5 APT | 88/100 ESPN MVP votes\n\nOKC went 64-16 — BEST record in the NBA.\n\nBack-to-back MVP isn't a question anymore. It's a formality. #HoopHeroes #OKCThunder #NBAMVP",
+          "posting_time": "9:00 AM, 11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#OKCThunder",
+            "#NBAMVP"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 9:00 AM ET\n\nThere are great seasons, and then there are seasons that rewrite the record books. Shai Gilgeous-Alexander just had one of the latter.\n\nThe Oklahoma City Thunder superstar finished the 2025-26 regular season averaging 31.6 points, 6.5 assists, and 4.4 rebounds per game while shooting 55 percent from the floor. The Thunder went 64-16 — the best record in the NBA — and SGA was the heartbeat of every single game.\n\nAlong the way, he broke a record that had stood for decades: Wilt Chamberlain's mark for consecutive games scoring 20 or more points. In March alone, SGA had five 30-point games and three 40-point performances. He received 88 of 100 votes in ESPN's NBA MVP straw poll. The award, for the second consecutive season, is his.\n\nThe comparison to the all-time greats is no longer premature. At 27 years old, Shai Gilgeous-Alexander is in the middle of one of the most dominant individual stretches the league has seen in a generation.",
+        "image_caption": "Window: 9:00 AM ET\n\n31.6 points. 55% shooting. A record that once belonged to Wilt Chamberlain. Shai Gilgeous-Alexander's 2025-26 season is historic — and he's just getting started in the playoffs.",
+        "posting_time": "9:00 AM, 11:00 AM"
+      },
+      "article": {
+        "filename": "article-02-sga-breaks-wilt-record-back-to-back-mvp.html",
+        "headline": "SGA Breaks Wilt Chamberlain's Record — A Season That Belongs in History",
+        "word_count": 609
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "SGA Record Graphic (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "MVP Graphic (Article Hero 1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "SGA Breaks Wilt's Record\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| SGA 31.6 PPG, 6.5 APG, 4.4 RPG, 1.4 SPG, ~55% FG | HIGH | ESPN, pipeline-status confirmed |\n| OKC finished 64-16, No. 1 West seed | HIGH | Multiple sources confirmed (NBA.com, CBS Sports, ESPN) |\n| SGA received 88/100 ESPN MVP straw poll votes | HIGH | Prior pipeline sessions confirmed from ESPN |\n| Broke Wilt Chamberlain's consecutive 20+ point games record | MEDIUM | Heavy.com / Thunderous Intentions single source — needs cross-verification |\n| Five 30-point games and three 40-point performances in March | MEDIUM | Heavy.com article |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wembanyama's Dominance — Unanimous DPOY and San Antonio's 24-3 Surge (FOLLOW-UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Victor Wembanyama this season:\n\n25 PPG | 11.5 RPG | 3.1 BPG | 51% FG\n\nThe first unanimous DPOY in NBA history is basically locked. -5000 odds. #HoopHeroes #Spurs #NBA",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs",
+            "#NBA"
+          ],
+          "char_count": 166
+        },
+        {
+          "label": "Post 3-2",
+          "text": "San Antonio Spurs since the All-Star break:\n\n24-3.\n\nA 62-20 team. No. 2 in the West. First Spurs playoffs since 2019.\n\nWemby's era has officially arrived. #HoopHeroes #Spurs #NBAPlayoffs",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 186
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 1:00 PM ET\n\nVictor Wembanyama did something this season that no player has done since Shaquille O'Neal in 1999-2000: average 25 points, 11.5 rebounds, and 3.1 blocks per game over a full season. And he did it at 22 years old, in just his third year in the league.\n\nThe expected unanimous Defensive Player of the Year recognition is almost a footnote to the broader story. Wembanyama is the reason the San Antonio Spurs went 24-3 since the All-Star break and finished at 62-20 — the No. 2 seed in the Western Conference. That 24-3 stretch was the best run of any team in the NBA over that span.\n\nFor a franchise that last made the playoffs in 2019, and last won the Southwest Division title in 2017, this turnaround carries enormous weight. There are Spurs fans who have waited years for a moment like this. Now they wait to see who emerges from tonight's Suns-Blazers Play-In game as San Antonio's first-round opponent.\n\nWembanyama called himself \"surprised\" if the DPOY vote isn't unanimous. He won't be surprised.",
+        "image_caption": "Window: 1:00 PM ET\n\n25 points. 11.5 rebounds. 3.1 blocks. Victor Wembanyama is rewriting what's possible at his age — and he's about to experience his first NBA playoffs.",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-wembanyama-dpoy-spurs-24-3-historic-run.html",
+        "headline": "Wembanyama's Dominant Season: Unanimous DPOY and the Spurs' Historic 24-3 Surge",
+        "word_count": 664
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Wemby Block/Defense (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Spurs 24-3 Graphic (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama DPOY / Spurs\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Wembanyama 25 PPG, 11.5 RPG, 3.1 BPG | HIGH | CBS Sports, prior pipeline |\n| 51.2% FG, 34.9% 3P, 82.7% FT | MEDIUM | CBS Sports single-source |\n| First player since Shaq (1999-2000) to average 25/11/3 | MEDIUM | CBS Sports single-source — needs second source |\n| Unanimous DPOY expected (-5000 BetMGM) | HIGH | Multiple sources confirmed |\n| Spurs 24-3 since All-Star break | MEDIUM | Heavy.com / Clutch Points |\n| Spurs 62-20, No. 2 West, Southwest Division title (first since 2017) | HIGH | Pipeline confirmed from prior sessions |\n| First Spurs playoff since 2019 | HIGH | Pipeline confirmed from prior sessions |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cade Cunningham's Comeback — Pistons Reach No. 1 East (FOLLOW-UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Detroit Pistons two seasons ago: 14-68 (worst in NBA).\n\nDetroit Pistons this season: 60-22. No. 1 seed in the East.\n\nCade Cunningham is the reason. First 60-win season since 2005-06. #HoopHeroes #Pistons #NBAPlayoffs",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Pistons",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 4:00 PM ET\n\nTwo seasons ago, the Detroit Pistons finished 14-68 — one of the worst records in NBA history. This season, they finished 60-22. No. 1 seed in the Eastern Conference. Their first 60-win campaign since 2005-06.\n\nAt the center of this remarkable transformation is Cade Cunningham, who has emerged as one of the most complete guards in the NBA. He showed his value in a different way in the regular-season finale — returning from a collapsed lung that had forced him to miss 11 games, Cunningham posted 14 assists, eight rebounds, and seven points in the win over Indiana that clinched the 60th win.\n\nDetroit now waits to find out their first-round opponent once the Play-In Tournament concludes. Regardless of who it is, the Pistons enter as the No. 1 seed with home-court advantage. The rebuild is complete. The championship window is open.",
+        "image_caption": "Window: 4:00 PM ET\n\nFrom 14-68 to 60-22 and the No. 1 East seed. Cade Cunningham and the Detroit Pistons have pulled off one of the great franchise turnarounds in recent NBA history.",
+        "posting_time": "4:00 PM"
+      },
+      "article": {
+        "filename": "article-04-cade-cunningham-pistons-60-wins-turnaround.html",
+        "headline": "Cade Cunningham's Comeback: How the Pistons Went From 14-68 to the No. 1 East Seed",
+        "word_count": 661
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Cade Cunningham Feature (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Pistons Team Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cade Cunningham / Pistons\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Pistons finished 60-22, No. 1 East seed | HIGH | Detroit News, Fadeaway World, ESPN |\n| First 60-win season since 2005-06 | HIGH | Fadeaway World, Detroit News |\n| Only third 60-win season in franchise history | MEDIUM | Detroit News single-source |\n| Cade returned from collapsed lung (missed 11 games) | HIGH | Multiple sources |\n| Cade finale stats: 14 ast, 8 reb, 7 pts vs Pacers | MEDIUM | Detroit News |\n| Pistons were 14-68 two seasons ago | HIGH | Pipeline confirmed, publicly known |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cleveland's Harden-Mitchell Duo — Ready for Playoff Glory (NEW STORY)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "James Harden in 25 games as a Cavalier:\n\n20.6 PPG | 7.8 APG | career-high 46.6% FG | 43.8% from three\n\nCleveland is 16-6 with both Harden and Mitchell. The No. 4 seed is DANGEROUS. #HoopHeroes #Cavaliers #NBAPlayoffs",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Cavaliers",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 7:00 PM ET\n\nWhen the Cleveland Cavaliers traded for James Harden midseason, the question was whether the combination of him and Donovan Mitchell could translate into real playoff contention.\n\nAfter 25 games together, the answer looks like a resounding yes.\n\nHarden is posting 20.6 points and 7.8 assists per game as a Cavalier, and he's doing it on what appears to be a career-high 46.6 percent shooting from the field and 43.8 percent from three-point range. With Mitchell averaging 25.5 points over his last 10 regular-season games, the Cavs went 16-6 when both stars played together.\n\nThe first-round test comes from the No. 5 Toronto Raptors, led by Scottie Barnes and one of the top-five rated defenses in the entire NBA. Cleveland's spacing — the shooters surrounding Harden and Mitchell — will be tested immediately. If it holds up, the Cavaliers could be the most dangerous sleeper pick in the Eastern Conference bracket.",
+        "image_caption": "Window: 7:00 PM ET\n\nJames Harden shooting career-high percentages. Donovan Mitchell on a 25-PPG run. Cleveland's No. 4 seed pairing is clicking at the right time — and the Raptors know it.",
+        "posting_time": "7:00 PM"
+      },
+      "article": {
+        "filename": "article-05-cavaliers-harden-mitchell-playoff-preview.html",
+        "headline": "Cleveland's Dangerous Duo: How Harden and Mitchell Are Rewriting the Cavaliers' Ceiling",
+        "word_count": 690
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Mitchell or Harden Feature (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Harden Feature (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cavaliers Harden-Mitchell\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Cavs finished 52-30, No. 4 East seed | HIGH | Multiple sources confirmed |\n| Harden in 25 games: 20.6 PPG, 7.8 APG | MEDIUM | NBA.com game notes, Yardbarker |\n| Harden career-high 46.6% FG, 43.8% 3P | MEDIUM | Yardbarker single-source |\n| Mitchell 25.5 PPG, 4.5 RPG, 5.0 APG (last 10 games) | MEDIUM | NBA.com game notes |\n| Cavs 16-6 with both Mitchell and Harden | MEDIUM | CBS Sports bracket summary |\n| First-round opponent: No. 5 Toronto Raptors | HIGH | CBS Sports bracket, multiple sources |\n| Raptors led by Scottie Barnes, top-5 defense | MEDIUM | CBS Sports summary |\n## Notes / Flags\n- SGA's Wilt Chamberlain record claim: confirmed from single source (Heavy.com). Label MEDIUM. Present in article carefully — \"reportedly broke\" language or omit specific Wilt reference if no cross-source.\n- Wemby's \"first since Shaq 1999-2000\" stat: CBS Sports-type summary, treat as MEDIUM, include with caveat language.\n- Play-In game results not yet available — games tip off tonight. Content is preview/anticipation angle, not recap.\n- Harden career-high FG% claim: single source; present as notable achievement, not absolute certainty without a second source.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

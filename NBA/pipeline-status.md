@@ -1,11 +1,23 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-13
+- **Date**: 2026-04-14
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-14
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce rotating)
+- **PostPlanner exports:** hh-postplanner-2026-04-14.xlsx (13 posts) + hh-postplanner-tobi-2026-04-14.xlsx (13 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-14/review-dashboard.html (28 items)
+- **Notes:** Play-In Tournament Night 1 (games tonight on Prime Video); Hornets (44-38) vs Heat (43-39) 7:30 PM ET; Suns (45-37) vs Blazers (42-40) 10 PM ET; LaMelo Ball ~20.1 PPG/7.1 APG; Charlotte went 11-23 then finished 44-38; Tyler Herro 20.5 PPG; Devin Booker 26.1 PPG; Deni Avdija 24.2 PPG; SGA broke Wilt Chamberlain's consecutive 20-pt games record; 31.6 PPG/55% FG/64-16 OKC/88/100 ESPN votes; Wemby 25/11.5/3.1 on 51.2% FG (first since Shaq 1999-2000); Spurs 24-3 since ASB; Pistons 60-22 No. 1 East (first 60-win since 2005-06, only third in franchise history); Cade returned from collapsed lung (11 games missed), 14 ast/8 reb in finale; Cavs 52-30 No. 4 East; Harden 20.6 PPG/7.8 APG/career-high 46.6% FG in 25 games; Cavs 16-6 with both Mitchell+Harden.
+- **Fact concerns:** SGA's Wilt record MEDIUM (single source Heavy.com) — presented as "reportedly broke" in article body. Wemby "first since Shaq" MEDIUM (single CBS-type source) — included with care. Harden career-high FG% MEDIUM (Yardbarker single source). All other core facts HIGH from multiple sources (Yahoo Sports, CBS Sports, ESPN, NBA.com, Detroit News, Fadeaway World).
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-13
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
