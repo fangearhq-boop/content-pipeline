@@ -3,7 +3,29 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-12)
+## Current Pipeline (2026-04-14)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-14 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-04-14 |
+| Fact-check | Complete (verify-facts.py — 20 claims, 51 HIGH; Story 1 tweet trimmed from 295→269 chars; image-concepts fixed to ### STORY headers) | 2026-04-14 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-14 |
+| PostPlanner | Complete (standard + TOBI exports — 11 posts each) | 2026-04-14 |
+| Dashboard | Generated locally (push blocked — PAT scope) | 2026-04-14 |
+| Published | Skipped — WordPress credentials not configured (egress proxy blocks) | 2026-04-14 |
+| Git | Committed and pushed to main | 2026-04-14 |
+
+## Notes (2026-04-14)
+- 5 stories: McIlroy back-to-back Masters win -12 / Scheffler runner-up -11 sets up RBC Heritage (T1×2); RBC Heritage April 16-19 Harbour Town preview (T2); LIV Golf Mexico City 72-hole debut April 16-19 (T2); LPGA JM Eagle LA Championship April 16-19 without Korda (T2)
+- Key corrections from April 12 pipeline: (1) LPGA event renamed from "Ford Championship" to correct "JM Eagle LA Championship presented by Plastpro"; (2) Korda entry corrected — she withdrew (not in field as previously expected)
+- Masters final result confirmed: McIlroy -12 champion, Scheffler -11 runner-up, T3 at -10 (Young/Henley/Rose/Hatton), $22.5M record purse ($4.5M to winner)
+- Fact concerns: All facts HIGH confidence. McIlroy age not stated in articles to avoid error (he's 36, not 37 — turns 37 May 4). Scheffler odds (+350) sourced from Golf.com/multiple books — current at time of publication.
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- WordPress publish: Skipped — credentials not configured (egress proxy blocks access, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+## Previous Pipeline (2026-04-12)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|

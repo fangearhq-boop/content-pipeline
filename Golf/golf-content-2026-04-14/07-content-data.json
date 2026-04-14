@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-14",
+  "compiled_at": "2026-04-14T11:43:19.423534+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — McIlroy Masters back-to-back recap",
+      "type": "Recap"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — Scheffler RBC Heritage favorite",
+      "type": "Analysis"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — RBC Heritage preview",
+      "type": "Preview"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 4 — LIV Golf Mexico City",
+      "type": "Preview"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — LPGA JM Eagle LA Championship",
+      "type": "Preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "McIlroy Wins Back-to-Back Masters — Joins the All-Time Club",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Rory McIlroy won the 2026 Masters at -12.\n\nBack-to-back champion. Joining Nicklaus (1965-66), Faldo (1989-90), Tiger (2001-02).\n\nHe double-bogeyed 4, bogeyed 6 — then birdied 7, 8, 12, 13.\n\n18th hole: trees, bunker, chip, 2-putt. One-shot win. #TheMasters #GolfFanrecap",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Masters 2026 final leaderboard:\n\n-12: McIlroy 🏆\n-11: Scheffler\n-10: Young / Henley / Rose / Hatton\n\nYoung and Rose both held 2-shot leads on Sunday. Augusta had other plans. #TheMasters #GolfFanrecap",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TheMasters",
+            "#GolfFanrecap"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-mcilroy-masters-back-to-back-champion.html",
+        "headline": "McIlroy Wins Back-to-Back Masters, Joins Nicklaus, Faldo, Tiger in Exclusive Club",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy Wins Back-to-Back Masters — Joins the All-Time Club\n\n**X Image (1080×1350):**\nSearch term: `Rory McIlroy Augusta National`\nCredit: (USA TODAY Sports Images)\nConcept: McIlroy celebrating or receiving green jacket at Augusta — reaction shot from final round\n\n**Facebook Image (1200×630):**\nSearch term: `Rory McIlroy`\nCredit: (USA TODAY Sports Images)\nConcept: McIlroy with green jacket — wide celebratory image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Scheffler's Bogey-Free 68 Makes Him RBC Heritage Favorite",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Scottie Scheffler shot a bogey-free 68 on Masters Sunday.\n\nFinished runner-up at -11. One shot back.\n\nHe is now the +350 favorite at the RBC Heritage this week — a significant gap ahead of the rest.\n\nIn 2024, he won BOTH the Masters AND RBC Heritage. #RBCHeritage #GolfFanrecap",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RBCHeritage",
+            "#GolfFanrecap"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-scheffler-rbc-heritage-favorite-masters-runner-up.html",
+        "headline": "Scheffler's Bogey-Free Masters Sunday Makes Him Clear RBC Heritage Favorite",
+        "word_count": 426
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler's Bogey-Free 68 Makes Him RBC Heritage Favorite\n\n**X Image (1080×1350):**\nSearch term: `Scottie Scheffler`\nCredit: (USA TODAY Sports Images)\nConcept: Scheffler on Augusta National — strong final-round pose or reaction\n\n**Facebook Image (1200×630):**\nSearch term: `Scottie Scheffler Harbour Town`\nCredit: (USA TODAY Sports Images)\nConcept: Scheffler at Harbour Town Golf Links — from 2024 RBC Heritage win if available\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "RBC Heritage Preview — Harbour Town Without McIlroy",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The RBC Heritage starts Thursday at Harbour Town Golf Links.\n\nNo Rory McIlroy — he's resting after the Masters.\n\nBut the field is loaded: Scheffler (+350), Thomas, Spieth, Young, Morikawa, Henley.\n\n82 players. $20M purse. No cut. #RBCHeritage #GolfFanrecap",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RBCHeritage",
+            "#GolfFanrecap"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-rbc-heritage-preview-harbour-town.html",
+        "headline": "RBC Heritage Preview: Scheffler Leads a Star Field at Harbour Town Without McIlroy",
+        "word_count": 472
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "RBC Heritage Preview — Harbour Town Without McIlroy\n\n**X Image (1080×1350):**\nSearch term: `Justin Thomas Harbour Town`\nCredit: (USA TODAY Sports Images)\nConcept: Thomas at Harbour Town Golf Links — defending champion image\n\n**Facebook Image (1200×630):**\nSearch term: `Harbour Town Golf Links`\nCredit: (USA TODAY Sports Images)\nConcept: Harbour Town lighthouse and final hole — iconic course imagery\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "LIV Golf Mexico City — 72-Hole Format Debuts at Chapultepec",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LIV Golf goes to Mexico City this week.\n\nApril 16-19. Club de Golf Chapultepec. Over 7,300 feet of elevation.\n\nNew for 2026: 72 holes. The first LIV event ever to go the full distance.\n\nAll 10 LIV players missed the Masters cut. Something has to give. #LIVGolf #GolfFanrecap",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#GolfFanrecap"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-liv-golf-mexico-city-72-hole-debut.html",
+        "headline": "LIV Golf Goes 72 Holes for First Time at High-Altitude Mexico City",
+        "word_count": 443
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Mexico City — 72-Hole Format Debuts at Chapultepec\n\n**X Image (1080×1350):**\nSearch term: `Phil Mickelson LIV Golf`\nCredit: (USA TODAY Sports Images)\nConcept: Mickelson at a LIV Golf event — prominent name in Mexico City field\n\n**Facebook Image (1200×630):**\nSearch term: `Dustin Johnson LIV Golf`\nCredit: (USA TODAY Sports Images)\nConcept: Johnson at LIV Golf event — high-recognition player in Mexico City field\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LPGA JM Eagle LA Championship — Korda Withdraws Before Final Major Tune-Up",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nelly Korda withdrew from this week's LPGA event in Los Angeles.\n\nThe JM Eagle LA Championship (April 16-19, El Caballero CC) continues without the World No. 2.\n\nLauren Coughlin enters fresh off her 5-shot Aramco win. Last stop before the Chevron major. #LPGA #GolfFanrecap",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#GolfFanrecap"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-lpga-jm-eagle-la-championship-korda-out.html",
+        "headline": "LPGA JM Eagle LA Championship: Korda Withdraws as Tour Eyes Chevron",
+        "word_count": 440
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LPGA JM Eagle LA Championship — Korda Withdraws Before Final Major Tune-Up\n\n**X Image (1080×1350):**\nSearch term: `Lauren Coughlin LPGA`\nCredit: (USA TODAY Sports Images)\nConcept: Coughlin celebrating — fresh off Aramco win, entering JM Eagle as hot player\n\n**Facebook Image (1200×630):**\nSearch term: `Miyu Yamashita LPGA`\nCredit: (USA TODAY Sports Images)\nConcept: Yamashita in action — World No. 6 and AIG Women's Open champion in field"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
