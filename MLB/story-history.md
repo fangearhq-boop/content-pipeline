@@ -5,6 +5,43 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-14
+
+### Story 1: Jackie Robinson Day Preview — April 15, 2026
+- **Angle:** NEW STORY. Jackie Robinson Day preview — 79th anniversary of April 15, 1947 debut. All players wear No. 42. Celebration game at Jackie Robinson Training Complex in Vero Beach (Jupiter vs. Palm Beach Cardinals).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Post-game Jackie Robinson Day coverage April 15
+
+### Story 2: José Ramírez — HR vs. All 29 Teams + Games Played Franchise Record
+- **Angle:** NEW STORY (building on April 13 preview). Ramírez hit HR off Martín Pérez April 11 at Truist Park — 408 ft, 108.1 mph EV, completes 29-team set (franchise first). Also set franchise games played record (1,620) on April 6, breaking Terry Turner's ~108-year mark.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Ramírez continued milestone chase (career HR totals)
+
+### Story 3: Shohei Ohtani 2026 Pitching Return — 6 Scoreless, Scoreless Streak at 28.2 IP
+- **Angle:** NEW STORY. 2026 pitching debut: 6 IP, 0 R, 6 K, 3 BB, 1 H. Scoreless innings streak: 28 2/3 IP (longest active MLB, longest career). On-base streak: 43 games tying 2009 Ichiro for Japanese-born MLB record.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Ohtani next pitching start, OB streak continuation
+
+### Story 4: Konnor Griffin Debut Follow-Up — Reached Base in First 3 MLB Games
+- **Angle:** FOLLOW UP (from April 12 Griffin debut). 5th teenager in divisional era to reach base safely in each of first 3+ MLB games. First teenage position player since Soto 2018. RBI double in first at-bat.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Griffin's continued development, first HR, first month stats
+
+### Story 5: Aaron Judge 400 HR Chase — At 371 Career HRs
+- **Angle:** FOLLOW UP (from April 13 Judge content). At 371 career HRs, 29 from the 400 club (59 members in MLB history). Back-to-back MVPs 2024-25, 4 seasons of 50+ HRs. Slow start in 2026 but HR in home opener.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Judge HR milestone updates throughout season
+
+### Story 6: Jordan Walker Leads MLB in HRs at 8 — Cardinals Hot Start
+- **Angle:** NEW STORY. Walker hit MLB-leading 8th HR through 16 games, 5th Cardinals player in history to do so. Cardinals making NL Central noise.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+### Story 7: Early MLB Power Rankings — Dodgers, Twins, Phillies, Cardinals Lead
+- **Angle:** NEW STORY. Two-week snapshot: Dodgers clearly best. Twins 7-of-8 winners, demolished Crochet (11 R in 1.2 IP). Phillies 13-7 over Cubs April 13. Cardinals slugging.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+---
+
 ## 2026-04-13
 
 ### Story 1: Jose Ramirez — First Guardian to HR vs. All 29 Teams (April 11 at Braves)

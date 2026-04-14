@@ -1,0 +1,335 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-14",
+  "compiled_at": "2026-04-14T10:25:20.495743+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Jackie Robinson Day Eve — How MLB Will Honor No. 42 on April 15",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tomorrow is Jackie Robinson Day.\n\nOn April 15, 1947, Robinson took the field for the Brooklyn Dodgers — and changed the game, the country, and the meaning of courage forever.\n\nEvery player in MLB will wear No. 42. Every game is a tribute. #Jackie42 #MLBTogether",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Jackie42",
+            "#MLBTogether"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 1-2",
+          "text": "79 years ago tomorrow, a man put on a Dodgers uniform and walked into history.\n\nJackie Robinson didn't just break a barrier. He carried the weight of a nation — and played some of the best baseball anyone has ever seen.\n\nApril 15. No. 42. Respect. #Jackie42",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Jackie42"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-jackie-robinson-day-2026-preview.html",
+        "headline": "Jackie Robinson Day 2026 — Baseball Celebrates Its Greatest Legacy on April 15",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jackie Robinson Day\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** Respectful tribute graphic. Blue and white (Brooklyn/Dodgers era colors). Large number \"42\" centered in bold typeface. Subtle vintage baseball texture in background. \"APRIL 15\" text space at top. \"JACKIE ROBINSON DAY\" text space at bottom. Dignified, classic design aesthetic. Space for text overlay in Canva.\n- **Usage:** Story 1 social post\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Imagn\n- **Search Term:** \"Jackie Robinson\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article 1 hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** José Ramírez Makes Franchise History — HR Against All 29 Teams, Games Played Record",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "José Ramírez just homered against his 29th different MLB team.\n\nFirst Guardians player EVER to do it. 408 feet. 108.1 mph off the bat.\n\nHe also became Cleveland's all-time games played leader earlier this month.\n\nTwo franchise records in 10 days. #ForTheLand #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ForTheLand",
+            "#MLB"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Terry Turner held the Cleveland franchise record for most games played.\n\nHe set it nearly 108 years ago.\n\nJosé Ramírez broke it April 6. Then hit a HR off every single MLB team's pitching.\n\nAt 33, Ramírez is still building his legacy. #ForTheLand #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ForTheLand",
+            "#MLB"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-jose-ramirez-franchise-records-2026.html",
+        "headline": "José Ramírez Rewrites the Cleveland Record Books — Again",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "José Ramírez Milestones\n\n#### Image Concept 3 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** Cleveland Guardians colors (navy blue and red). Large \"29/29\" stat graphic with JOSE RAMIREZ text space above. \"ALL 29 TEAMS\" text space. Stadium lights in background, atmospheric. Bold achievement aesthetic.\n- **Usage:** Story 2 social post\n\n#### Image Concept 4 — Article Hero (1200x630)\n- **Type:** Imagn\n- **Search Term:** \"Jose Ramirez Cleveland Guardians\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article 2 hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Shohei Ohtani Makes 2026 Pitching Return — 6 Scoreless Innings, On-Base Streak at 43 Games",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Shohei Ohtani. 2026 pitching debut.\n\n6 innings. 0 runs. 6 strikeouts. 1 hit.\n\nHe now has a 28 2/3 scoreless innings streak dating to last year — longest active in MLB.\n\nAlso: 43-game on-base streak. Tying 2009 Ichiro for longest by a Japanese-born player. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 3-2",
+          "text": "No pitcher has thrown more consecutive scoreless innings in the majors right now than Shohei Ohtani.\n\nAt the plate, his 43-game on-base streak ties Ichiro Suzuki (2009) for the all-time mark among Japanese-born players.\n\nHe's not human. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-shohei-ohtani-2026-pitching-return.html",
+        "headline": "Shohei Ohtani Is Back on the Mound — and Matching Ichiro's Records at the Plate",
+        "word_count": 599
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shohei Ohtani\n\n#### Image Concept 5 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** Dodger blue and white. Split design showing pitcher's mound silhouette on left, batter silhouette on right. \"TWO-WAY LEGEND\" text space center. \"OHTANI 2026\" text space. Dynamic, modern sports graphic aesthetic.\n- **Usage:** Story 3 social post\n\n#### Image Concept 6 — Article Hero (1200x630)\n- **Type:** Imagn\n- **Search Term:** \"Shohei Ohtani Los Angeles Dodgers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Usage:** Article 3 hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Konnor Griffin Is the Real Deal — 19-Year-Old Pirates Phenom Reaches Base in First 3+ MLB Games",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Konnor Griffin reached base safely in each of his first 3 MLB games.\n\nHe's 19.\n\nHe's the first teenage position player in MLB since Juan Soto debuted in 2018.\n\nThe Pirates may have found their franchise player. #Pirates #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pirates",
+            "#MLB"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-konnor-griffin-pirates-debut-2026.html",
+        "headline": "Konnor Griffin Is the Pirates' Future — and He's Already Proving It",
+        "word_count": 587
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Konnor Griffin\n\n#### Image Concept 7 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** Pittsburgh Pirates black and gold. \"AGE: 19\" in bold stat style. \"KONNOR GRIFFIN\" text space above. Star burst or spark effect behind the stats. Young energy, bright and electric. Space for text overlay.\n- **Usage:** Story 4 social post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Aaron Judge and the 400 Home Run Clock — The Yankees' MVP Inches Toward a Historic Mark",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Aaron Judge had 371 career home runs as of early April.\n\nThat's 29 from 400 — a club with only 59 members in MLB history.\n\nThree-time AL MVP. Four 50-HR seasons. The chase for 400 has officially begun. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-aaron-judge-400-hr-chase-2026.html",
+        "headline": "Aaron Judge Is 29 Home Runs From a Historic Milestone — The 400 HR Chase Begins",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge 400 HR\n\n#### Image Concept 8 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** New York Yankees navy pinstripes background. Large countdown-style graphic: \"371\" with \"TO 400: 29\" text space below. AARON JUDGE text space at top. Elegant, classic Yankees aesthetic. Space for text overlay.\n- **Usage:** Story 5 social post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Jordan Walker Leads MLB in Home Runs at 8 — Cardinals Off to Hot Start",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Jordan Walker leads MLB with 8 home runs through 16 games.\n\nHe's only the 5th Cardinals player in history to hit that many homers in the first 16 games of a season.\n\nThe Cardinals are swinging hot bats early. #STLCards #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#STLCards",
+            "#MLB"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jordan Walker\n\n#### Image Concept 9 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** St. Louis Cardinals red and white. Bold \"8 HR\" stat at center. \"MLB LEADER\" badge above. JORDAN WALKER text space. Early season energy, bright and bold. Clean modern sports graphic.\n- **Usage:** Story 6 social post\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Early MLB Power Rankings — Dodgers, Yankees, Twins Lead the Pack After 2 Weeks",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Two weeks in, the MLB picture:\n\nThe Dodgers are the clear favorite. The Twins have won 7 of 8. The Cardinals are slugging. The Phillies beat the Cubs 13-7 Monday.\n\nAnd Garrett Crochet gave up 11 runs in 1 2/3 innings.\n\nEarly vibes only. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Power Rankings\n\n#### Image Concept 10 — Social (1080x1350)\n- **Type:** Gemini AI\n- **Mode:** base_only\n- **Prompt:** Clean sports rankings graphic. Dark background with gradient. \"MLB POWER RANKINGS\" title text space at top. Numbered list spaces 1-5 in the center. \"WEEK 2\" badge. Professional sports media aesthetic.\n- **Usage:** Story 7 social post"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
