@@ -1,0 +1,192 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-15",
+  "compiled_at": "2026-04-15T21:30:00+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {"time": "7:00 AM", "description": "Story 1", "type": "X"},
+    {"time": "8:30 AM", "description": "Story 2", "type": "X"},
+    {"time": "10:00 AM", "description": "Story 3", "type": "X"},
+    {"time": "11:30 AM", "description": "Story 4", "type": "X"},
+    {"time": "1:00 PM", "description": "Story 5", "type": "X"},
+    {"time": "5:30 PM", "description": "Story 6", "type": "X"},
+    {"time": "7:00 PM", "description": "Story 7", "type": "X"}
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 10, Phillies 4 — Carson Kelly's 9th-Inning Dagger Evens the Series",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs 10, Phillies 4.\n\nCarson Kelly's 3-run blast in the 9th put it out of reach. Colin Rea was unreal in long relief — gave up the early HR, then 6 innings of zeros.\n\nSeries tied 1-1. Rubber game tonight in Philly.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 232
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Carson Kelly Is THAT Guy — Clutch Three-Run Bomb in the 9th",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Carson Kelly is THAT guy.\n\n3-run dagger off Tanner Banks in the 9th. The kind of swing that ends a game.\n\nQuietly one of the best clutch catchers in the NL. Absolutely.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:30 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#FlyTheW"],
+          "char_count": 196
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Colin Rea Wrote the Bullpen-Game Blueprint",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Colin Rea wrote the blueprint.\n\nCame in cold in the 2nd. Surrendered a 3-run Sosa shot. Then absolutely locked it down for 6 innings of zeros.\n\nWith 3 starters on the IL, this is the formula until June. Bullpen games or bust.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:00 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "The Cubs IL Is Getting Absurd — 8 Pitchers Out",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Cubs IL is getting absurd.\n\nRotation: Boyd, Horton, Steele\nBullpen: Maton, Harvey, Hodge, Wicks, Roberts\n\nLittle and Rolison up from Iowa. Barnes optioned. Iowa is basically the real Cubs pitching staff right now.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "11:30 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Imanaga Gets the Ball Tonight — Bounce-Back Spot Against Philly",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Imanaga gets the ball tonight. 0-1 with a 2.81 ERA and 20 K through 2 starts.\n\nThe numbers say he's been better than the record. Tonight against a Phillies lineup that hung 13 on this team Monday — chance to flip the narrative.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:00 PM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Rubber Game Tonight in Philly — Imanaga vs Luzardo",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Cubs at Phillies tonight. 5:40 PM CT first pitch.\n\nImanaga vs Jesús Luzardo. Two of the best lefties in the NL.\n\nRubber game. Series on the line. The Cubs need this one.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "5:30 PM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 196
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Game Time — First Pitch Coming, Imanaga on the Hill",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Imanaga's been dealing in Philly. The Cubs have his back tonight.\n\nWent toe-to-toe with this Phillies lineup yesterday and won 10-4. Tonight: rubber game, lefty vs lefty, real April baseball.\n\nLet's go. ⚾\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 PM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#FlyTheW"],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
