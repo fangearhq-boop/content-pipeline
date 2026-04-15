@@ -2,6 +2,50 @@
 
 ---
 
+## April 15, 2026
+
+### Story 1: D11 Orton Academy to Co-Locate at Trailblazer Elementary (2026-27)
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 approves Orton Academy K-8 dyslexia-specialized school to share space with Trailblazer Elementary starting 2026-27; Trailblazer capacity ~600, enrollment ~220; parents express concern about communication and shared spaces with older students; d11.org)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Orton Academy K-8 (dyslexia-focused, opened 2020) approved for Trailblazer; effective 2026-27; Trailblazer cap ~600, enrollment ~220; parents learned from Orton website before district email; source: Gazette April 8 + KOAA (2 articles)
+- **Follow-Up Opportunities:** Transition plan details for 2026-27; Orton Academy enrollment info; parent feedback follow-up
+
+### Story 2: CPSC Recalls Multiple Amazon Baby Bath Seats — Drowning Risk
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC recalls YCXXKJ (~9,000 units, $34-40, May 2024–Oct 2025), CheerKid, Trankerloop, NFSVLB baby bath seats — all violate mandatory standard, tip hazard, drowning risk; sold on Amazon; stop use immediately; request full refund from seller; cpsc.gov)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 4 brands recalled (YCXXKJ, CheerKid, Trankerloop, NFSVLB); all unstable/tip hazard/drowning risk; YCXXKJ: ~9,000 units, $34-40, sold May 2024–Oct 2025 (Amazon); no injuries reported for YCXXKJ; full refund available; cpsc.gov for details
+- **Follow-Up Opportunities:** Baby bath safety guide; CPSC recall roundup; safe bathing without a seat guide
+
+### Story 3: Free Corral Bluffs + Jimmy Camp Creek Guided Tours Open for Registration
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (City of Colorado Springs PRCS opens 2026 tour season registration for Corral Bluffs Open Space and Jimmy Camp Creek; free, limited-access guided hikes; registration required; season May–October; first/last Saturdays; 8 AM–noon; coloradosprings.gov/corralbluffs; registration just opened April 13)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Registration opened April 13, 2026; free tours; Corral Bluffs: first Saturday/month; Jimmy Camp Creek: last Saturday/month; 8 AM–noon; May–October; registration at coloradosprings.gov/corralbluffs; 700+ acres, 66M-year-old fossils
+- **Follow-Up Opportunities:** May tour recap; fossil discovery feature for families; seasonal guide to COS nature programs
+
+### Story 4: AAP Maintains 2026 Immunization Schedule — No Changes
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (American Academy of Pediatrics confirms its 2026 childhood immunization schedule unchanged; all routine vaccine recommendations maintained despite federal advisory process changes; aap.org; source: AAP official)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP 2026 schedule unchanged; all routine vaccines maintained; full schedule at aap.org; encourages HPV vaccination starting at 11-12; talk to COS pediatrician for questions
+- **Follow-Up Opportunities:** Local vaccine resource roundup; El Paso County Public Health connection; pediatrician finder guide for COS families
+
+### Story 5: COS Spring Youth Sports Registration Now Open
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (City of Colorado Springs PRCS spring 2026 youth and adult sports registration now open; programs at neighborhood parks; youth soccer $86/participant; limited space; ColoradoSprings.gov; Sports Office 1315 E. Pikes Peak Ave, (719) 385-5981)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Registration open now; youth soccer $86/participant; space limited, early registration encouraged; Sports Office: 1315 E. Pikes Peak Ave., Memorial Park; phone (719) 385-5981; register at ColoradoSprings.gov
+- **Follow-Up Opportunities:** Summer sports registration preview; fall sports preview; park spotlight for Memorial Park
+
+---
+
 ## April 14, 2026
 
 ### Story 1: Garden of the Gods Family Water Feature Coming Summer 2026
