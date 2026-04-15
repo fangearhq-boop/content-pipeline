@@ -1,0 +1,393 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-15",
+  "compiled_at": "2026-04-15T10:33:46.207738+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Jackie Robinson Day)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 4 (Brewers Injuries)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 (Judge-Trout Duel)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Albernaz)",
+      "type": "X + FB"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 5 (Ohtani)",
+      "type": "X + FB"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "Story 7 (Leaderboards)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 2 (Judge angle 2)",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 6 (Stat Curiosities)",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:30 PM",
+      "description": "Story 1 (Game recap after ESPN)",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Jackie Robinson Day 2026 — Dodgers Host Mets Tonight on ESPN, All Players Wear No. 42",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Today is Jackie Robinson Day. ⚾\n\nEvery player, coach, and umpire across Major League Baseball wears No. 42.\n\nApril 15, 1947. One man changed everything.\n\nTonight: Dodgers vs. Mets on ESPN at 10 PM ET — the perfect stage for today. #Jackie42 #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Jackie42",
+            "#MLB"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Dodgers vs. Mets — Jackie Robinson Day — ESPN, 10 PM ET. ⚾\n\nJoe Buck. Ron Darling. Orel Hershiser.\n\nThe Dodgers are 17-4 on April 15 since this became a league-wide holiday.\n\nThat's not luck. #Jackie42 #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Jackie42",
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-jackie-robinson-day-2026-dodgers-mets-espn.html",
+        "headline": "Jackie Robinson Day 2026 — The 79th Anniversary and Why No. 42 Still Matters",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jackie Robinson Day 2026\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Player wearing No. 42 jersey at home plate or in dugout, reverent atmosphere\n- **Photo Search Terms:**\n  1. \"Freddie Freeman Dodgers\"\n  2. \"Francisco Lindor Mets\"\n  3. \"Mookie Betts Dodgers\"\n  4. \"Dodger Stadium crowd night\"\n  5. \"Shohei Ohtani Dodgers\"\n- **Text Overlay:**\n  - Headline: \"JACKIE ROBINSON DAY\" (white, Poppins Bold)\n  - Subtitle: \"April 15, 1947 — 79 Years Later\" (gold #F4C542, Nunito)\n- **Composition Notes:** Emotional, meaningful image; reverent framing\n\n**Article Hero (1200x630)**\n- **Photo Search Terms:** \"Freddie Freeman Dodgers\" or \"Dodger Stadium\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jackie Robinson Day 2026\n**Status:** FOLLOW UP (April 14 preview)\n**Tier:** 1\n**Sources:**\n- espnpressroom.com (2026): Confirmed ESPN exclusive, 10 PM ET, Joe Buck/Hershiser/Darling booth\n- truebluela.com: \"Dodgers news: Jackie Robinson Day vs. Mets exclusively on ESPN\"\n- dodgersbeat.com: Dodgers 17-4 on April 15 since 2004; preview piece\n- sportsvideo.org (April 14, 2026): \"MLB on ESPN Begins 1080p HDR Distribution on Jackie Robinson Day in Los Angeles\"\n- mlb.com: \"See a game at Jackie Robinson's old stomping grounds on Jackie Robinson Day\" — celebration game in Vero Beach\n**Key Facts (HIGH confidence — multiple sources):**\n- Jackie Robinson's MLB debut: April 15, 1947 (79 years ago today)\n- 2026 game: Mets at Dodgers, 10 PM ET, ESPN exclusive\n- Booth: Joe Buck, Ron Darling, Orel Hershiser\n- Dodgers record on April 15 since 2004: 17-4\n- All players/coaches/umpires wear No. 42\n- ESPN launches 1080p HDR on this game",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Judge vs. Trout — The Greatest HR Duel of the Modern Era",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "April 13 gave us one of the best games of 2026.\n\nJudge hit two. Trout hit two. Both are 3-time MVPs. ⚾\n\nIt was only the 4th time in MLB history two multiple-MVP winners hit 2+ home runs in the same game.\n\nThe last time? Roger Maris and Mickey Mantle in July 1962. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Aaron Judge's 47th career multi-homer game passed Mickey Mantle (46) for 2nd in Yankees history. ⚾\n\nOnly Babe Ruth has more (68).\n\nHe's at 6 HRs through 16 games. That's a 60-homer pace. And we're in mid-April.\n\nJudge is playing out of his mind. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-judge-trout-home-run-duel-april-13-2026-yankees-angels.html",
+        "headline": "Judge vs. Trout: Two Three-Time MVPs, Four Home Runs, and One Historic Game",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Judge-Trout HR Duel\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Aaron Judge mid-swing or home run trot, Yankee pinstripes\n- **Photo Search Terms:**\n  1. \"Aaron Judge Yankees\"\n  2. \"Aaron Judge home run swing\"\n  3. \"Mike Trout Angels\"\n  4. \"Aaron Judge pinstripes batting\"\n  5. \"Yankee Stadium night\"\n- **Text Overlay:**\n  - Headline: \"JUDGE VS. TROUT\" (white, Poppins Bold)\n  - Subtitle: \"4 HRs. 2 MVPs. 1 Historic Game.\" (gold #F4C542, Nunito)\n- **Composition Notes:** Power shot; dramatic stadium lighting preferred\n\n**Article Hero (1200x630)**\n- **Photo Search Terms:** \"Aaron Judge Yankees swing\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Judge-Trout HR Duel April 13\n**Status:** NEW STORY\n**Tier:** 1\n**Sources:**\n- mlb.com (April 13, 2026): \"Aaron Judge, Trent Grisham both hit two homers in Yankees' win\"\n- foxnews.com: \"Aaron Judge, Mike Trout's home run duel enters MLB history books\"\n- nbcsports.com: \"Aaron Judge vs. Mike Trout turns into starry slugfest of 3-time MVPs as Yankees edge Angels 11-10\"\n- mlb.com video: \"Aaron Judge hammers two home runs vs. Angels | 04/13/2026\" and \"Aaron Judge's second home run of the game (6)\"\n**Key Facts (HIGH confidence — multiple sources):**\n- Game: Yankees 11-10 Angels, April 13, 2026\n- Judge: 2 HRs (first: 456-ft 2-run HR in 1st; second: in 6th inning — HR No. 6 of season)\n- Trout: 2 HRs (3-run in 6th; solo in 8th)\n- Walk-off: Grisham 2-run HR in 9th tied game; Caballero scored on wild pitch for walk-off\n- Historic context: 4th time in MLB history two multiple-MVP winners hit 2+ HRs each\n- Previous: Campanella/Musial June 1956; Maris/Mantle twice July 1962\n- Judge's 47th career multi-HR game (2nd in Yankees history, surpasses Mantle's 46)\n- Judge 2026: 6 HRs through 16 games\n- Both Judge and Trout: 3-time MVPs\n**Verification note:** Historical claim (4th time) sourced from foxnews.com and nbcsports.com. HIGH confidence with multiple major outlets.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Orioles Manager Craig Albernaz Manages With Broken Jaw — The Toughest Man in Baseball",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Orioles manager Craig Albernaz was hit by a 70.6 mph line drive on Monday. ⚾\n\nResult: broken jaw, 7 facial fractures.\nNo surgery. On baby food.\n\nHe managed the rest of that same game.\nThen came back the next day — same spot.\n\nThat's a different kind of manager. #Orioles #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Orioles",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-orioles-manager-craig-albernaz-broken-jaw-manages.html",
+        "headline": "Broken Jaw, Seven Fractures, Still Managing — Craig Albernaz Is a Different Kind of Manager",
+        "word_count": 493
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Orioles Manager Albernaz\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Craig Albernaz in dugout, managing, Camden Yards atmosphere\n- **Photo Search Terms:**\n  1. \"Craig Albernaz Orioles\"\n  2. \"Craig Albernaz manager dugout\"\n  3. \"Baltimore Orioles dugout manager\"\n  4. \"Brandon Hyde Orioles\"\n  5. \"Camden Yards dugout\"\n- **Text Overlay:**\n  - Headline: \"THE TOUGHEST MAN IN BASEBALL\" (white, Poppins Bold)\n  - Subtitle: \"Broken jaw. 7 fractures. Still managing.\" (gold #F4C542, Nunito)\n- **Composition Notes:** Manager in action; authoritative pose\n\n**Article Hero (1200x630)**\n- **Photo Search Terms:** \"Craig Albernaz Orioles\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Orioles Manager Craig Albernaz Injury\n**Status:** NEW STORY\n**Tier:** 1\n**Sources:**\n- mlb.com (April 14-15, 2026): \"Orioles manager Craig Albernaz returns with broken jaw, multiple cheek fractures\"\n- foxnews.com: \"Orioles manager Craig Albernaz takes line drive to face in terrifying scene\"\n- yahoo sports: \"Orioles manager Craig Albernaz has broken jaw, 7 facial fractures after getting hit by Jeremiah Jackson line drive\"\n- baltimoresun.com (April 14): \"Orioles manager Craig Albernaz broke 7 bones and jaw on line drive to cheek\"\n- ESPN: \"Orioles' Albernaz has cheek fractures, broken jaw from liner\"\n**Key Facts (HIGH confidence — multiple sources):**\n- Hit by: Jeremiah Jackson's line drive during game vs. Diamondbacks\n- Ball speed: 70.6 mph\n- Injuries: Broken jaw, 7 facial fractures (right cheek)\n- Did not need surgery; jaw not wired shut\n- Diet: Baby food/liquid\n- Returned to dugout DURING same game; Baltimore won 9-7\n- Returned next day to manage, stood in same spot",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Brewers' Injury Crisis Deepens — Yelich Out a Month, Chourio and Vaughn Also Sidelined",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Milwaukee's April injury report: ⚾\n\nYelich — adductor strain, out 1+ month\nChourio — broken hand, out until May\nVaughn — broken hand, out until mid-May\nPriester — thoracic outlet\nKoenig — elbow\n\nSix-game losing streak. Longest since 2003. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-brewers-injury-crisis-yelich-chourio-vaughn-il-2026.html",
+        "headline": "Yelich, Chourio, Vaughn — The Brewers' April Injury Crisis Is Getting Worse",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brewers Injury Crisis\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Brewers player on the field, team imagery\n- **Photo Search Terms:**\n  1. \"Christian Yelich Brewers\"\n  2. \"Jackson Chourio Brewers\"\n  3. \"Milwaukee Brewers American Family Field\"\n  4. \"Willy Adames Brewers\"\n  5. \"Milwaukee Brewers dugout\"\n- **Text Overlay:**\n  - Headline: \"BREWERS IN CRISIS\" (white, Poppins Bold)\n  - Subtitle: \"Yelich, Chourio, Vaughn all on IL\" (warm coral #FF6F61, Nunito)\n- **Composition Notes:** Coral subtitle signals urgency/crisis tone\n\n**Article Hero (1200x630)**\n- **Photo Search Terms:** \"Christian Yelich Brewers\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers Injury Crisis\n**Status:** NEW STORY\n**Tier:** 2\n**Sources:**\n- mlb.com: \"How Christian Yelich, Jackson Chourio injuries affect Brewers\"\n- foxsports.com: \"Brewers' Christian Yelich likely to miss at least a month with adductor strain\"\n- wbay.com (April 15, 2026): \"Brewers' Christian Yelich likely miss at least a month with adductor strain\"\n- clutchpoints.com: \"When will Christian Yelich, Jackson Chourio return from injuries?\"\n- reviewingthebrew.com: \"Brewers' fifth-consecutive loss compounded by Christian Yelich's hamstring injury\"\n**Key Facts (MEDIUM confidence — mostly single sources for specifics):**\n- Yelich: Adductor strain, IL, expected return mid-to-late May (at least one month)\n- Yelich stats before injury: .314 BA, 10 RBIs through 15 games\n- Chourio: Hand fracture, expected return early May\n- Vaughn: Hand fracture, expected return mid-May\n- Priester (SP): Thoracic outlet syndrome\n- Koenig (RP): Elbow\n- Losing streak: 6 straight (longest since 2003)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Ohtani Is Unscored Upon in 28.2 Innings — The 2026 Pitching Dominance Continues",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Shohei Ohtani: 28.2 scoreless innings as a pitcher. ⚾\n\nTwo 2026 starts. Both 6 IP, 0 ER.\n\nOn-base streak: 43 games — ties Ichiro's 2009 record for Japanese-born MLB players.\n\nPitching and hitting at the same time. #Dodgers #Ohtani #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Ohtani",
+            "#MLB"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-shohei-ohtani-scoreless-streak-on-base-streak-2026.html",
+        "headline": "28.2 Scoreless Innings and Matching Ichiro — Ohtani's 2026 Start Is Historic on Both Sides",
+        "word_count": 518
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Pitching\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Ohtani in pitching motion, Dodgers white home uniform\n- **Photo Search Terms:**\n  1. \"Shohei Ohtani Dodgers pitching\"\n  2. \"Shohei Ohtani wind up\"\n  3. \"Shohei Ohtani pitching delivery\"\n  4. \"Shohei Ohtani Dodger Stadium\"\n  5. \"Shohei Ohtani mound\"\n- **Text Overlay:**\n  - Headline: \"28.2 SCORELESS INNINGS\" (white, Poppins Bold)\n  - Subtitle: \"Ohtani's 2026 pitching run is historic\" (gold #F4C542, Nunito)\n- **Composition Notes:** Pitching form is the key visual\n\n**Article Hero (1200x630)**\n- **Photo Search Terms:** \"Shohei Ohtani Dodgers pitching\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ohtani Pitching Dominance\n**Status:** FOLLOW UP (April 14)\n**Tier:** 2\n**Sources:**\n- mlb.com: \"Shohei Ohtani goes 6 scoreless innings in 2026 pitching debut\" (April 1 start)\n- espn.com: Ohtani game log showing two starts, both 6 IP, 0 ER\n- nationaltoday.com (April 13, 2026): \"Shohei Ohtani Continues Unprecedented MLB Dominance\"\n- Baseball Savant: Career scoreless streak data\n**Key Facts (MEDIUM confidence — some stats from single source):**\n- 2026 pitching: 2 starts, 12 IP total, 0 earned runs\n- Career scoreless IP streak: 28.2 innings (longest active in MLB)\n- On-base streak: 43 consecutive games (matches Ichiro 2009 — Japanese-born MLB record)\n- Dodgers record: 12-4 (MLB best)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** MLB Stat Curiosities — Altuve's Monster Start, Gausman Strikeout Spree, Ben Rice Destroying Pitching",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Three absurd April stat lines to know: ⚾\n\n• Jose Altuve: 265 wRC+ through 27 plate appearances\n• Kevin Gausman: 21 Ks in his first 12 innings\n• Ben Rice (Yankees): .362/.508/.745, 246 wRC+\n\nThese won't last. But for right now, they're real.\n\nEarly April is wild. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Stat Curiosities\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Jose Altuve at bat, Houston Astros\n- **Photo Search Terms:**\n  1. \"Jose Altuve Astros batting\"\n  2. \"Ben Rice Yankees\"\n  3. \"Kevin Gausman Blue Jays\"\n  4. \"Kevin Gausman pitching\"\n  5. \"Jose Altuve swing\"\n- **Text Overlay:**\n  - Headline: \"ABSURD APRIL NUMBERS\" (white, Poppins Bold)\n  - Subtitle: \"Altuve 265 wRC+. Gausman 21 Ks in 12 IP.\" (gold #F4C542, Nunito)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "MLB Stat Curiosities\n**Status:** NEW STORY\n**Tier:** 3\n**Sources:**\n- mlb.com/news/mlb-stats-of-the-week-ending-april-9-2026\n- espn.com (Ben Rice stats)\n**Key Facts (MEDIUM confidence):**\n- Jose Altuve: 265 wRC+ through 27 PAs\n- Kevin Gausman: 21 strikeouts in first 12 innings\n- Ben Rice (Yankees): .362/.508/.745, 246 wRC+",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Early MLB Leaderboards — Who Leads HR, Batting Average, ERA Through Week 3",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "2026 MLB leaders through 3 weeks: ⚾\n\nHRs: Jordan Walker (8), Aaron Judge (6)\nBest record: Dodgers (12-4)\nLeading everything: Andy Pages (hits, RBI, BA, fWAR)\nERA: Yankees staff (1.01 through first 6 games)\n\nThe Dodgers and Yankees are both playing like it's October already. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Early MLB Leaderboards\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Andy Pages batting, Dodgers blue, Dodger Stadium\n- **Photo Search Terms:**\n  1. \"Andy Pages Dodgers\"\n  2. \"Aaron Judge Yankees batting\"\n  3. \"Jordan Walker Cardinals\"\n  4. \"Los Angeles Dodgers batting\"\n  5. \"Jordan Walker Cardinals swing\"\n- **Text Overlay:**\n  - Headline: \"2026 MLB WEEK 3 LEADERS\" (white, Poppins Bold)\n  - Subtitle: \"Dodgers 12-4 | Walker 8 HRs | Judge on pace for 60\" (gold #F4C542, Nunito)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Early MLB Leaderboards\n**Status:** FOLLOW UP (from April 14 Jordan Walker/power rankings)\n**Tier:** 3\n**Sources:**\n- mlb.com: Power Rankings April 12\n- foxsports.com: 2026 MLB Milestones tracker\n- Various season stat pages\n**Key Facts (MEDIUM confidence):**\n- Dodgers: 12-4, MLB-best record\n- Judge: 6 HRs through 16 games (60-HR pace)\n- Jordan Walker: 8 HRs (MLB lead entering this week)\n- Andy Pages: Leading in hits, RBI, BA, fWAR through 16 games\n## Research Quality Check\n- Searches completed: 10+ (Jackie Robinson Day, MLB standings, Ohtani, MLB milestones, Brewers injuries, MLB power rankings, Albernaz injury, Judge-Trout duel, Dodgers-Mets preview, Judge stats)\n- Categories covered: Scores & Results, Rankings, Individual Performances, Injury/Roster Updates, Milestone Stats, Preview\n- Stories identified: 7 (meets minimum)\n- All Tier 1 stories: 3+ sources each",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

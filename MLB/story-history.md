@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-15
+
+### Story 1: Jackie Robinson Day 2026 — Dodgers vs. Mets on ESPN
+- **Angle:** FOLLOW UP (from April 14 preview). The day itself — every player wears No. 42, 79th anniversary of April 15, 1947. Feature game: Dodgers vs. Mets on ESPN at 10 PM ET. Dodgers 17-4 all-time on April 15. Joe Buck, Ron Darling, Orel Hershiser on call.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Post-game coverage, No. 42 ceremony highlights
+
+### Story 2: Aaron Judge vs. Mike Trout HR Duel — April 13, 2026
+- **Angle:** NEW STORY. Yankees 11-10 Angels. Both Judge and Trout hit 2 HRs — only 4th time in MLB history two multiple-MVP winners each homered twice in same game. Last time: Maris and Mantle, July 1962. Judge's 47th career multi-HR game passes Mickey Mantle (46) for 2nd in Yankees history behind Babe Ruth (68). Judge at 6 HRs through 16 games, 60-HR pace.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Judge HR pace tracking, Judge vs. Ruth multi-HR comparison
+
+### Story 3: Craig Albernaz Broken Jaw — Manages Through Injury
+- **Angle:** NEW STORY. Orioles manager hit by 70.6 mph line drive Monday vs. Arizona. Broken jaw, 7 facial fractures, no surgery. On baby food. Managed rest of that game, returned next day to same dugout step. First-year manager.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Albernaz recovery timeline, Orioles season arc
+
+### Story 4: Brewers April Injury Crisis — Yelich, Chourio, Vaughn All on IL
+- **Angle:** NEW STORY. Christian Yelich: adductor strain, out 1+ month (mid-to-late May). Jackson Chourio: broken hand, early May return. Andrew Vaughn: broken hand, mid-May. Quinn Priester: thoracic outlet. Jared Koenig: elbow. Six-game losing streak — longest since 2003.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Chourio/Vaughn return timelines (early May), Yelich (Memorial Day), Brewers NL Central standing
+
+### Story 5: Shohei Ohtani — 28.2 Scoreless IP + 43-Game On-Base Streak (Ties Ichiro)
+- **Angle:** FOLLOW UP (from April 14 pitching debut). Two starts in 2026: both 6 IP, 0 ER. Scoreless streak: 28.2 IP (longest active MLB). On-base streak: 43 games — ties Ichiro Suzuki's 2009 record for Japanese-born MLB players. Third start upcoming.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Ohtani third start, on-base streak record attempt
+
+### Story 6: MLB Stat Curiosities — Altuve, Gausman, Ben Rice
+- **Angle:** NEW STORY. Three absurd early-April stat lines: Altuve 265 wRC+ (27 PA), Gausman 21 Ks in 12 IP, Ben Rice .362/.508/.745 with 246 wRC+. Small-sample April theater.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Whether these lines stabilize or regress
+
+### Story 7: 2026 MLB Week 3 Leaderboards
+- **Angle:** NEW STORY. HRs: Jordan Walker (8), Aaron Judge (6). Best record: Dodgers (12-4). Leading hits/RBI/BA/fWAR: Andy Pages. ERA leader: Yankees staff (1.01 through first 6 games).
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Walker HR chase, Pages breakout, Dodgers/Yankees record pace
+
+---
+
 ## 2026-04-14
 
 ### Story 1: Jackie Robinson Day Preview — April 15, 2026
