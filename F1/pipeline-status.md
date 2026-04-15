@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-14
+- **Date**: 2026-04-15
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-15
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5: FIA April 15 sporting regs meeting, Verstappen Nürburgring qualifiers weekend preview, Ferrari Monza filming day April 22, Red Bull Miami "second season launch," 2026 championship standings at April break midpoint)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-15.xlsx (12 posts) + f1fr-postplanner-tobi-2026-04-15.xlsx (12 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-15/review-dashboard.html (22 items)
+- **Notes:** FIA meetings happening April 15 (sporting regs) → April 16 (tech follow-up) → April 20 (high-level vote); energy management issue — current 9MJ qualifying recovery limit, Suzuka reduced to 8MJ, discussions targeting 6MJ; super clipping 250→350kW proposal; ADUO refinements; Bearman crash Japan strengthened safety case. Verstappen Nürburgring qualifiers April 18-19 — won NLS2 but DSQ'd (7 tyres vs 6 limit), redemption mission with Lucas Auer co-driver; full 25.378km Nordschleife. Ferrari Monza filming day April 22 — revised floor (Bahrain-designed), halo wings compliance fix, Hamilton + Leclerc; Monza chosen for energy management demands. Red Bull "second season launch" in Miami — ~1s deficit (~0.8s chassis + 0.2s Ford), ADUO eligibility expected, Verstappen P6/DNF/P8 in 3 races. Championship: Antonelli 72, Russell 63, Leclerc 49, Hamilton 41; Mercedes 135pts (constructors), Ferrari 90pts (45pt gap), McLaren 56, Red Bull 16; Antonelli youngest championship leader in F1 history.
+- **Fact concerns:** Halo wings material compliance issue MEDIUM (F1 Oversteer single source). Red Bull 0.8s chassis / 0.2s Ford PU split MEDIUM (multiple outlets but estimates). ADUO eligibility for Red Bull MEDIUM (PlanetF1 single source). All championship standings HIGH (Formula1.com official). FIA meeting schedule HIGH (FIA.com official statement). Verstappen NLS2 DSQ and tyre set count HIGH (multiple confirmed).
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-14
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

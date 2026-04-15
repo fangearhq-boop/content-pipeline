@@ -2,6 +2,18 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-15
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | FIA sporting regulations meeting April 15 (second of three pre-vote sessions) → April 16 tech follow-up → April 20 high-level binding vote; energy management focus — 9MJ qualifying baseline, Suzuka cut to 8MJ last-minute, discussions target 6MJ; Bearman crash strengthened safety case; super clipping, ADUO refinements also on table | 1 | FOLLOW-UP |
+| 2 | Verstappen returns to Nürburgring Nordschleife April 18-19 for 24H Qualifiers (two 4-hour races, full 25.378km circuit); co-driver Lucas Auer; Race 1 Sat 17:30, Race 2 Sun 13:00; previously won NLS2 but DSQ'd (7 tyre sets vs 6-set limit); redemption mission and 24H main event prep | 1 | FOLLOW-UP |
+| 3 | Ferrari filming day confirmed Monza April 22 — Hamilton + Leclerc test Miami aero package; revised floor (originally built for Bahrain, race cancelled); halo wings compliance fix; Monza chosen for 2026 energy management demands; Leclerc 49pts P3, Hamilton 41pts P4; constructors trail Mercedes by 45pts | 2 | NEW STORY |
+| 4 | Red Bull "second season launch" at Miami — Mekies label; RB22 fundamental concept error (low drag over downforce); ~1s deficit to Mercedes (~0.8s chassis + 0.2s Ford PU); Verstappen P6/DNF/P8 in 3 races (12pts, 9th); ADUO eligibility expected; Miami target: meaningful step toward front | 2 | FOLLOW-UP |
+| 5 | 2026 championship at April break midpoint: Antonelli 72 (youngest leader in F1 history), Russell 63, Leclerc 49, Hamilton 41, Bearman 17, Norris 15, Verstappen 12; Constructors: Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16; Mercedes 45pts clear; Miami May 3 sprint weekend; 21 rounds remain | 2 | FOLLOW-UP |
+
+---
+
 ## 2026-04-14
 
 | # | Story | Tier | Tag |

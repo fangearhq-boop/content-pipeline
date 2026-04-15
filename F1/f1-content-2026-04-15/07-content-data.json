@@ -1,0 +1,314 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-15",
+  "compiled_at": "2026-04-15T11:26:41.458579+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "FIA Sporting Regulations Meeting Today — Countdown to April 20 Vote (FOLLOW-UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The FIA is meeting TODAY on 2026 F1 sporting regulations.\n\nApril 15 → Sporting regs.\nApril 16 → Technical follow-up.\nApril 20 → High-level vote with all teams.\n\n5 days until F1's biggest regulatory decision since 2022. #F1Fanrecap #Formula1 #F1",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Formula1",
+            "#F1"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The energy recovery debate in F1 right now:\n\nCurrently: 9 MJ per lap in qualifying\nSuzuka: cut to 8 MJ at the last minute\nUnder discussion: as low as 6 MJ\n\nThat would be a 33% cut. The April 20 vote decides everything. #F1Fanrecap #Formula1 #F1",
+          "posting_time": "8:00 AM, 10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Formula1",
+            "#F1"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 10:00 AM"
+      },
+      "article": {
+        "filename": "article-01-fia-sporting-regulations-meeting-april-20-vote.html",
+        "headline": "FIA Meets Today as Formula 1's Most Critical Regulatory Week Builds to April 20 Vote",
+        "word_count": 654
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "FIA/Regulation Graphic (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Energy Management Technical (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's Nordschleife Redemption — 24H Qualifiers Start This Weekend (FOLLOW-UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM, 12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen won the NLS2 at the Nürburgring this year.\n\nThen his team was disqualified for a tyre infringement.\n\nThis weekend: he's back at the Nordschleife for the 24H Qualifiers — two 4-hour races, April 18-19. #F1Fanrecap #Nurburgring #Verstappen",
+          "posting_time": "8:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Nurburgring",
+            "#Verstappen"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 2-2",
+          "text": "25.378km. The most demanding circuit on Earth.\n\nMax Verstappen returns to the Nürburgring this weekend — April 18 & 19 — with Lucas Auer as co-driver.\n\nTwo four-hour races. Redemption mission. No F1 pressure. This is the Verstappen we don't often see. #F1Fanrecap #Nurburgring",
+          "posting_time": "8:00 AM, 12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Nurburgring"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM, 12:00 PM"
+      },
+      "article": {
+        "filename": "article-02-verstappen-nurburgring-qualifiers-preview.html",
+        "headline": "Verstappen Returns to the Nordschleife This Weekend — Redemption and Preparation at the 24H Qualifiers",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Verstappen GT3 Feature (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Nürburgring Race Feature (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ferrari's Monza Filming Day — Hamilton and Leclerc Test Miami Aero Package (NEW STORY)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ferrari has confirmed a filming day at Monza on April 22.\n\nBoth Hamilton AND Leclerc will drive.\n\nThe package: a revised floor built for Bahrain (then cancelled) and halo wing components. Miami target: close the 45-point gap to Mercedes. #F1Fanrecap #Ferrari #Formula1",
+          "posting_time": "12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Ferrari",
+            "#Formula1"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM"
+      },
+      "article": {
+        "filename": "article-03-ferrari-monza-filming-day-miami-aero-package.html",
+        "headline": "Ferrari Heads to Monza Next Week — Hamilton and Leclerc to Test Miami Aero Package",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Hamilton Ferrari Feature (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Ferrari SF-26 Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Red Bull's Miami \"Second Season Launch\" — RB22 Overhaul Incoming (FOLLOW-UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Red Bull team principal Laurent Mekies is calling Miami a \"second season launch.\"\n\nThat's the level of upgrade they're bringing.\n\nVerstappen has a P6, a DNF, and a P8 from 3 races. The RB22 is ~1 second off Mercedes' pace. Something has to change. #F1Fanrecap #RedBull #Formula1",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#RedBull",
+            "#Formula1"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM"
+      },
+      "article": {
+        "filename": "article-04-red-bull-miami-second-season-launch.html",
+        "headline": "Red Bull's \"Second Season Launch\": Inside the Miami Overhaul That Must Rescue Verstappen's 2026",
+        "word_count": 656
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Verstappen Red Bull Feature (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "RB22 Technical Feature (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "2026 F1 Championship Check — Antonelli Leads April Break at Record-Young 19 (FOLLOW-UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "2026 F1 Championship at the April break midpoint:\n\n🏁 Antonelli — 72 pts (youngest leader in F1 history)\n🏁 Russell — 63 pts\n🏁 Leclerc — 49 pts\n🏁 Hamilton — 41 pts\n\nMercedes leads constructors by 45 pts. Miami May 3. #F1Fanrecap #Formula1 #F1",
+          "posting_time": "8:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Formula1",
+            "#F1"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM"
+      },
+      "article": {
+        "filename": "article-05-2026-f1-championship-standings-april-break.html",
+        "headline": "Where the 2026 F1 Championship Stands at the April Break Midpoint — Antonelli's Historic Lead",
+        "word_count": 627
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Antonelli Feature (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Championship Standings Graphic (Social)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
