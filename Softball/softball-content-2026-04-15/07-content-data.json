@@ -1,0 +1,388 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-15",
+  "compiled_at": "2026-04-15T10:20:26.106511+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Bedlam Preview)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 7 (Duke Hot Streak)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Wells HR Chase)",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 4 (Virginia Tech)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5 (WCWS Expanded)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 2 (Wells — angle 2)",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 3 (Weekend Preview)",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:30 PM",
+      "description": "Story 1 (Bedlam Live)",
+      "type": "X"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "Story 6 (FSU Bounce Back)",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Bedlam Softball Is Back — No. 1 Oklahoma Hosts Oklahoma State at Devon Park Tonight",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Bedlam Softball is TONIGHT. 🥎\n\nNo. 1 Oklahoma vs. No. 21 Oklahoma State\nDevon Park, Oklahoma City | 8 PM CT | ESPN2\n\nThe same venue hosting the WCWS in May.\nKendall Wells on the field. 31 HRs. 6 from the all-time record.\n\nThis is must-watch softball. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Bedlam Softball is LIVE on ESPN2. 🥎\n\nNo. 1 Oklahoma vs. No. 21 Oklahoma State — Devon Park, OKC.\n\nKendall Wells steps in against a Cowgirl pitching staff that knows exactly what she can do.\n\nSix from history. Every at-bat matters. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-bedlam-softball-oklahoma-oklahoma-state-devon-park.html",
+        "headline": "Bedlam Softball Returns to Devon Park — Oklahoma vs. Oklahoma State Tonight on ESPN2",
+        "word_count": 457
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bedlam Softball at Devon Park\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Action shot at Devon Park, OKC — packed stadium, green grass, batter at the plate under lights\n- **Photo Search Terms:**\n  1. \"Alyssa Brito Oklahoma\"\n  2. \"Jordyn Sides Oklahoma State\"\n  3. \"Devon Park Oklahoma City softball\"\n  4. \"Tiare Jennings Oklahoma\"\n  5. \"Rylee Bowen Oklahoma State\"\n- **Text Overlay:**\n  - Headline: \"BEDLAM IS TONIGHT\" (white, Poppins Bold)\n  - Subtitle: \"OU vs. OSU | Devon Park | ESPN2\" (gold #F4C542, Nunito)\n- **Composition Notes:** Stadium atmosphere preferred; night-game lighting adds drama\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Tiare Jennings Oklahoma\" or \"Devon Park softball\"\n- **Text Overlay:** \"Bedlam Softball Returns to Devon Park\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bedlam Softball — No. 1 Oklahoma vs. Oklahoma State at Devon Park\n**Status:** NEW STORY\n**Tier:** 1\n**Sources:**\n- okstate.com (April 14, 2026): \"Cowgirls set for a pair of Top 25 clashes\" — confirmed game time 8 PM CT, Devon Park OKC, ESPN2\n- seatgeek.com: \"Oklahoma vs Oklahoma State tickets in Oklahoma City (Devon Park) — Apr 15, 2026 at 8:00pm\"\n- oudaily.com: \"University of Oklahoma Softball vs Oklahoma State — Bedlam Game\" — confirmed venue and date\n- okstate.com: Oklahoma State 27-11 overall, 9-6 Big 12; Oklahoma 40-4, 13-2 SEC; series record OU leads 101-69; 19-16 neutral-site edge for OU; 171st edition of Bedlam\n**Key Facts (MEDIUM confidence — single sources):**\n- Game time: April 15, 2026 at 8 PM CT / 9 PM ET\n- Venue: Devon Park, Oklahoma City (same as WCWS)\n- Network: ESPN2\n- Oklahoma record: 40-4 overall, 13-2 SEC\n- Oklahoma State record: 27-11 overall, 9-6 Big 12\n- Bedlam series history: OU leads 101-69 all-time\n- Neutral site record: OU 19-16\n**Freshness:** Game is tonight (April 15). Highly timely.\n**Why it matters:** Bedlam on national TV with Wells' HR watch. Two of the top 25 programs in the sport. Devon Park hosts the WCWS in May — prime time showcase.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Kendall Wells, 6 Away From History — Every At-Bat Is Must-Watch TV",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lauren Espinoza set the all-time NCAA single-season HR record in 1995.\n\n37 home runs. Arizona. It has stood for 31 years.\n\nKendall Wells has 31. She needs 6 more.\n\nOklahoma has 12+ games left. Do the math. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Just to frame tonight's Bedlam game:\n\nKendall Wells is batting .383 with 60 RBIs.\nShe leads the nation in home runs.\nShe's a freshman. 🥎\n\nIf she goes yard on ESPN2 tonight, that's HR No. 32 toward an all-time record.\n\nNo pressure or anything. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kendall-wells-six-from-all-time-ncaa-hr-record.html",
+        "headline": "Six From History: Kendall Wells and the All-Time NCAA Home Run Record",
+        "word_count": 500
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells HR Chase\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Wells in the batter's box, mid-swing, catching drive\n- **Photo Search Terms:**\n  1. \"Kendall Wells Oklahoma\"\n  2. \"Kendall Wells Oklahoma catcher\"\n  3. \"Alyssa Brito Oklahoma bat\"\n  4. \"Oklahoma softball batter swing\"\n  5. \"Tiare Jennings Oklahoma batting\"\n- **Text Overlay:**\n  - Headline: \"6 FROM HISTORY\" (white, Poppins Bold)\n  - Subtitle: \"Wells chasing all-time NCAA HR record\" (gold #F4C542, Nunito)\n- **Composition Notes:** Power swing moment; ball in frame if possible\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Kendall Wells Oklahoma\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kendall Wells All-Time HR Chase\n**Status:** FOLLOW UP (April 14 — Wells at 31 HRs)\n**Tier:** 1\n**Sources:**\n- soonersports.com (April 12, 2026): Wells hit 31st HR vs. Texas — \"Wells Sets NCAA Freshman Home Run Record in 4-3 Win at No. 4 Texas\"\n- justwomenssports.com (2026): \"Oklahoma Softball Star Kendall Wells Breaks SEC Home Run Record\" — also confirmed 31 HRs, .383 BA, 60 RBIs, leads nation in HRs\n- oudaily.com (April 12, 2026): \"OU softball's Kendall Wells blasts 31st vs. Texas, breaks freshman single-season home run record\"\n- NiJaree Canady Wikipedia page (for reference on all-time record holder): Lauren Espinoza, Arizona, 37 HRs, 1995\n**Key Facts (HIGH confidence — multiple sources):**\n- Kendall Wells current HR total: 31\n- Previous NCAA freshman record: 30 (shared by Lauren Chamberlain, Jocelyn Alo, Kelly Majam)\n- All-time NCAA single-season record: 37 by Lauren Espinoza, Arizona, 1995\n- Wells HRs needed to break all-time record: 6\n- Wells batting average: .383\n- Wells RBIs: 60\n- Wells leads nation in home runs\n- Oklahoma has 12+ regular season games remaining\n**Freshness:** Story continues from April 14 coverage. Every game is a new development. Tonight's Bedlam on ESPN2 is the next chapter.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Weekend Showdown Preview — No. 1 Oklahoma vs. No. 6 Arkansas Headlines April 17-19",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "This weekend in college softball 👀\n\nNo. 1 Oklahoma hosts No. 6 Arkansas — April 17-19 on ESPN2.\n\nPlus Texas at Georgia, A&M vs. Miss. State, FSU vs. UNC.\n\nEvery result shapes the national seed picture.\n\nWhat series are you watching? #CollegeSoftball #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#WCWS"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-oklahoma-arkansas-weekend-preview-april-17-19.html",
+        "headline": "Weekend Preview: Oklahoma Hosts Arkansas in Top-10 SEC Showdown With WCWS Stakes",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Weekend Preview\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** OU player on field at Love's Field, Norman\n- **Photo Search Terms:**\n  1. \"Tiare Jennings Oklahoma\"\n  2. \"Grace Lyons Oklahoma\"\n  3. \"Jocelyn Alo Oklahoma\"\n  4. \"Oklahoma softball Love's Field\"\n  5. \"Alyssa Brito Oklahoma fielding\"\n- **Text Overlay:**\n  - Headline: \"THIS WEEKEND IN SOFTBALL\" (white, Poppins Bold)\n  - Subtitle: \"No. 1 OU vs. No. 6 Arkansas | April 17-19\" (gold #F4C542, Nunito)\n- **Composition Notes:** Love's Field exterior or game action preferred\n\n**Article Hero:** Same search terms, landscape orientation\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Weekend Preview — OU vs. Arkansas April 17-19\n**Status:** NEW STORY\n**Tier:** 2\n**Sources:**\n- ESPN.com (Week 10 rankings article, 2026): No. 6 Arkansas confirmed in top 25; Week 10 rankings show OU No. 1, Arkansas No. 6\n- soonersports.com schedule: OU hosts Arkansas April 17-19 at Love's Field, Norman\n- ESPN article (2026): Arkansas has won series vs. Mississippi State and Florida in April\n**Key Facts (MEDIUM confidence):**\n- OU vs. Arkansas: April 17-19 at Love's Field, Norman, OK\n- Network: ESPN2 (per search results)\n- Oklahoma No. 1 NFCA, Arkansas approximately No. 6\n- Other weekend series: Texas at Georgia; Texas A&M vs. Mississippi State; FSU vs. North Carolina\n**Freshness:** Weekend series starts Friday April 17. Two days away. Highly timely preview.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Virginia Tech Is a Legit WCWS Contender Now — The Hokies Are Here",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Virginia Tech is 35-6, 10-4 in the ACC, and ranked No. 12.\n\nThey beat No. 21 Virginia 5-2 last weekend.\nThey're in the national seed conversation.\n\nNobody saw this coming in February. The Hokies are a WCWS contender. 🥎 #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-virginia-tech-hokies-wcws-contender-2026.html",
+        "headline": "Virginia Tech Is a Legit WCWS Contender — The Hokies' 35-6 Season Demands Attention",
+        "word_count": 468
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Virginia Tech Contender\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** VT player in maroon uniform, game action, energetic pose\n- **Photo Search Terms:**\n  1. \"Bre Peck Virginia Tech\"\n  2. \"Emma Lemley Virginia Tech\"\n  3. \"Keely Rochard Virginia Tech\"\n  4. \"Meredith Slaw Virginia Tech\"\n  5. \"Virginia Tech softball player\"\n- **Text Overlay:**\n  - Headline: \"THE HOKIES ARE FOR REAL\" (white, Poppins Bold)\n  - Subtitle: \"35-6 | No. 12 | WCWS Contender\" (gold #F4C542, Nunito)\n- **Composition Notes:** Maroon uniform action is strong brand image\n\n**Article Hero:** Same search terms\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Virginia Tech Emerging as WCWS Contender\n**Status:** NEW STORY\n**Tier:** 2\n**Sources:**\n- virginiatech.sportswar.com (April 12, 2026): \"No. 12 Virginia Tech Softball Handles No. 21 Virginia 5-2\" — confirmed 5-2 win on April 12\n- hokiesports.com: VT 35-6 overall, 10-4 ACC\n- gobblercountry.com: \"Virginia Tech softball: Hokies move up in top 25 again\"\n- Search result from Week 10 poll: VT ranked in top 10-12 range\n**Key Facts (MEDIUM confidence):**\n- Virginia Tech record: 35-6 overall, 10-4 ACC\n- NFCA ranking: No. 12 (confirmed from search summary)\n- Beat No. 21 Virginia 5-2 on April 12\n- VT is in the national seed picture after FSU stumble\n**Freshness:** Fresh ranking data from Week 10 poll (April 14). Beat Virginia April 12. Timely.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** 2026 WCWS Goes to 32 Teams — What the Expanded Field Means for the Race to OKC",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The 2026 WCWS expands to a 32-team field. 🥎\n\nMore bids. More paths to Oklahoma City.\nDevon Park. May 28–June 4/5.\n\nBubble teams like Stanford, Virginia Tech, and Duke now have more room.\n\nThe race to OKC just opened up. #CollegeSoftball #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#WCWS"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wcws-2026-expanded-32-team-field-devon-park.html",
+        "headline": "The 2026 WCWS Expands to 32 Teams — What the New Field Means for the Road to OKC",
+        "word_count": 500
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCWS 32-Team Field\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Devon Park aerial or exterior, OKC skyline visible\n- **Photo Search Terms:**\n  1. \"Devon Park Oklahoma City\"\n  2. \"Women's College World Series 2025\"\n  3. \"Oklahoma City softball stadium\"\n  4. \"WCWS Devon Park exterior\"\n  5. \"Oklahoma softball stadium crowd\"\n- **Text Overlay:**\n  - Headline: \"32 TEAMS. ONE TITLE.\" (white, Poppins Bold)\n  - Subtitle: \"WCWS 2026 | Devon Park | May 28–June 5\" (gold #F4C542, Nunito)\n- **Composition Notes:** Stadium wide shot with sky; landmark power image\n\n**Article Hero:** Devon Park exterior preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 WCWS Expands to 32 Teams\n**Status:** NEW STORY\n**Tier:** 2\n**Sources:**\n- si.com/onsi/softball: \"SEC, ACC Lead WCWS Field in First Softball America Bracketology Projection\" — confirmed expanded field\n- visitokc.com: \"2026 NCAA Women's College World Series\" — Devon Park, May 28-June 4/5\n- ncaa.com/championships/softball/d1: Confirmed format change\n**Key Facts (MEDIUM confidence):**\n- 2026 WCWS location: Devon Park, Oklahoma City\n- Dates: May 28 - June 4/5, 2026\n- Field size: 32 teams (expanded from previous format)\n- New seeding format: \"buckets\" to prevent early conference matchups\n- Conferences with most projected hosts: SEC (most), then ACC (3), Big 12, Big Ten\n**Freshness:** This is the 2026 tournament format — directly relevant throughout the season. The \"expanded field\" angle gives it fresh news value in April.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** FSU's Bounce-Back Window Opens This Weekend — North Carolina, Then Florida on Deck",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "#### Text Post — 9:00 PM ET (FB only, X post moved)",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 51
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU Bounce Back\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** FSU player in garnet-and-gold, game action\n- **Photo Search Terms:**\n  1. \"Kaley Mudge Florida State\"\n  2. \"Kathryn Sandercock Florida State\"\n  3. \"Michaela Edenfield Florida State\"\n  4. \"Florida State softball pitcher\"\n  5. \"Jessica Burroughs Florida State\"\n- **Text Overlay:**\n  - Headline: \"FSU'S BOUNCE-BACK STARTS FRIDAY\" (white, Poppins Bold)\n  - Subtitle: \"Hosts UNC | Senior Weekend | April 17-19\" (gold #F4C542, Nunito)\n\n**Article Hero:** Not required (Story 6 Tier 3)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FSU Bounce-Back Window — UNC and Florida on Deck\n**Status:** FOLLOW UP (April 13 Stanford-FSU sweep story)\n**Tier:** 3\n**Sources:**\n- seminoles.com: 2026 schedule shows \"hosts North Carolina on April 17-19 before hosting rival Florida on April 22\"\n- NFCA Week 10 poll context (from daily brief April 14): FSU dropped sharply after Stanford sweep\n**Key Facts (MEDIUM confidence):**\n- FSU hosts North Carolina: April 17-19 (Senior Weekend)\n- FSU hosts Florida: April 22 (regular season home finale)\n- FSU national seed status under threat after Stanford sweep\n**Freshness:** Weekend series starts Friday. Bounce-back opportunity is imminent.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Duke's Hot Streak Making the ACC Race Wider Than Ever",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Duke softball has won 19 of its last 21 games.\n\n15-3 in the ACC. Swept No. 17 Virginia. Wins over Virginia Tech and Stanford this season.\n\nThe Blue Devils are quietly one of the best teams in the country. 🥎\n\nThe ACC race is nothing like the preseason predicted. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Duke Hot Streak\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Duke player in blue uniform, batting or pitching\n- **Photo Search Terms:**\n  1. \"Shelby Walters Duke\"\n  2. \"Dani Kennedy Duke\"\n  3. \"Tess Worrell Duke\"\n  4. \"Duke softball player blue\"\n  5. \"Duke softball Smith Family Stadium\"\n- **Text Overlay:**\n  - Headline: \"DUKE IS HOT\" (white, Poppins Bold)\n  - Subtitle: \"19 of last 21 wins | 15-3 ACC\" (gold #F4C542, Nunito)\n\n**Article Hero:** Not required (Story 7 Tier 3)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Duke's Hot Streak in the ACC\n**Status:** NEW STORY\n**Tier:** 3\n**Sources:**\n- goduke.com: Duke record 31-12, 15-3 ACC; schedule shows Charlotte on April 19\n- Search result summary: \"Duke swept No. 17 Virginia, and after winning series against both Virginia Tech and Stanford, they have been on a hot streak with 19 wins in their last 21 games\"\n**Key Facts (MEDIUM confidence — single source for win streak stat):**\n- Duke record: 31-12 overall, 15-3 ACC\n- Win streak context: 19 wins in last 21 games\n- Beat No. 17 Virginia (sweep)\n- Won series vs. Virginia Tech and Stanford this season\n- Next game: vs. Charlotte, April 19\n**Freshness:** Week 10 data. Duke's rise is a fresh angle that hasn't been covered. Timely with final month of season.\n## Research Quality Check\n- Searches completed: 10 (scores/results, rankings, Wells HRs, midweek games, Canady stats, Alabama midweek, Bedlam, Duke/Virginia, Nebraska Big Ten, FSU schedule, WCWS preview, VT standings, weekend schedule)\n- Categories covered: Scores & Results, Rankings & Polls, Individual Performances, Preview & Lookahead, Tournament/Event Coverage, Coaching & Program News\n- Stories identified: 7 (meets minimum of 5, targets 7)",
+        "sources": "- Sources per Tier 1 story: 3+ (meets minimum of 2)\n- All stories verified to be fresh (within 24-48 hours or imminent upcoming)"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

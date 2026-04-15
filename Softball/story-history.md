@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 15, 2026
+
+### Story 1: Bedlam Softball — No. 1 Oklahoma vs. Oklahoma State at Devon Park
+- **Angle:** NEW STORY. 171st Bedlam Softball, Devon Park OKC, ESPN2, April 15 at 8 PM CT. Oklahoma 40-4, 13-2 SEC; Oklahoma State 27-11, 9-6 Big 12. OU leads all-time series 101-69. Wells HR record watch on national TV.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Game result, Wells HR in Bedlam
+
+### Story 2: Kendall Wells All-Time HR Chase — 6 from Espinoza's Record
+- **Angle:** FOLLOW UP (from April 14 Wells 31 HR story). Wells at 31, needs 6 more for Lauren Espinoza's all-time NCAA record (37, Arizona, 1995). Batting .383, 60 RBIs, leads nation in HRs. Tonight's Bedlam on ESPN2 is prime time opportunity. Oklahoma 12+ games remaining.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Wells HR milestones 32-37; all-time record break alert
+
+### Story 3: Weekend Preview — No. 1 Oklahoma vs. No. 6 Arkansas at Love's Field
+- **Angle:** NEW STORY. OU hosts Arkansas April 17-19 at Love's Field on ESPN2. Arkansas won series vs. Miss. State and Florida in April. National seed implications for both. Also: Texas at Georgia, A&M vs. Miss. State, FSU vs. UNC.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** OU-Arkansas series result, national seed updates
+
+### Story 4: Virginia Tech Is a WCWS Contender — 35-6, No. 12 National Ranking
+- **Angle:** NEW STORY. VT 35-6, 10-4 ACC, ranked No. 12. Beat No. 21 Virginia 5-2 April 12. National seed bubble contender. In top-8 conversation. ACC race wider than expected.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** VT final ACC series results, national seed confirmation
+
+### Story 5: 2026 WCWS Expands to 32-Team Field — New Bracket Format
+- **Angle:** NEW STORY. 2026 WCWS at Devon Park, May 28-June 4/5, expands to 32 teams. New "bucket" seeding format prevents early conference matchups. SEC leads projected hosting spots. Benefit for bubble teams.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** NCAA selection show, bracket reveal
+
+### Story 6: FSU Bounce-Back Window — Hosts UNC April 17-19, Then Florida April 22
+- **Angle:** FOLLOW UP (from April 13 Stanford-FSU sweep). FSU dropped in polls. Senior Weekend vs. UNC at JoAnne Graf (April 17-19), then rival Florida April 22. Critical stretch for national seed.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** FSU-UNC series result, FSU-Florida rivalry
+
+### Story 7: Duke's Hot Streak — 15-3 ACC, 19 of Last 21 Wins
+- **Angle:** NEW STORY. Duke 31-12, 15-3 ACC. Won 19 of last 21 games. Swept No. 17 Virginia. Wins over Virginia Tech and Stanford. Emerging ACC title factor and WCWS contender.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Duke final ACC standings, national seed positioning
+
+---
+
 ## April 14, 2026
 
 ### Story 1: NFCA Week 10 Poll — Oklahoma at No. 1 for First Time in 2026
