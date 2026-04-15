@@ -2,6 +2,53 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-15
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Hornets 127-126 Heat OT — LaMelo Ball 30pts/10ast, go-ahead layup 4.7s left in OT; Miles Bridges 28pts/block at buzzer; Coby White turnaround 3 (10.8s left) forces OT; Heat: Mitchell 28, Wiggins 27, Herro 23; Hornets first playoffs since 2016 (10-yr drought ends); Charlotte 11-23 on Jan. 2, finished 44-38 | 1 | NEW STORY |
+| 2 | Blazers 114-110 Suns — Deni Avdija 41pts/12ast/7reb (5th highest play-in scoring game; first postseason appearance); go-ahead 3-pt play 16.1s left; Blazers outscored Suns 17-5; Jrue Holiday 21; Jerami Grant 16 (2 clutch 3s); Jalen Green 35, Booker 22, Brooks 20; Blazers No. 7 seed, face No. 2 Spurs R1; first playoffs since 2021 | 1 | NEW STORY |
+| 3 | Tonight Play-In Night 2 — East: 76ers vs Magic 7:30 ET (Embiid OUT/appendicitis surgery; Maxey leads; 76ers slight home favorites); West: Warriors vs Clippers 10 ET (loser eliminated; Kawhi 27.9 PPG career high, 50.5% FG; Curry 26.6 PPG; Clippers 42-40/Warriors 37-45; Clippers -5.5) | 1 | NEW STORY |
+| 4 | 2026 playoff bracket: 12/16 teams set; East confirmed — Knicks vs Hawks (3v6), Cavs vs Raptors (4v5); West confirmed — Spurs vs Blazers (2v7), Nuggets vs Wolves (3v6), Lakers vs Rockets (4v5); Thunder (1) and Celtics/Pistons await play-in winners; first round April 18 | 2 | FOLLOW-UP |
+| 5 | NBA Awards preview — SGA back-to-back MVP (88/100 ESPN votes, 31.6 PPG, 64-16 OKC); Wemby near-unanimous DPOY (-5000 BetMGM, 25/11.5/3.1); no player has ever won unanimous DPOY; announcements expected late April | 2 | FOLLOW-UP |
+
+---
+
+### STORY 1: Hornets 127-126 Heat OT — LaMelo Ball Ends 10-Year Drought
+- **Tier:** 1
+- **Category:** Play-In Tournament / Game Recap
+- **Key facts:** Hornets 127, Heat 126 (OT). LaMelo Ball 30pts/10ast; go-ahead layup with 4.7 sec left in OT. Miles Bridges 28pts/9reb; blocked Mitchell at buzzer. Coby White 19pts; turnaround 3 with 10.8 sec left forced OT. Heat: Davion Mitchell 28, Andrew Wiggins 27, Tyler Herro 23. Charlotte's first postseason since 2016 — 10-year drought. Charlotte was 11-23 on Jan. 2, finished 44-38 (33-16 run).
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Hornets vs 76ers or Magic loser on Friday April 17 for No. 8 East seed
+
+### STORY 2: Blazers 114-110 Suns — Deni Avdija 41pts in Play-In Debut
+- **Tier:** 1
+- **Category:** Play-In Tournament / Game Recap / Individual Performance
+- **Key facts:** Blazers 114, Suns 110. Avdija 41pts (15-22 FG, 3-8 3PT, 8-13 FT), 12ast, 7reb, 2blk — 5th highest scoring game in play-in history. Go-ahead 3-point play with 16.1 sec left. Blazers down 11 in 4Q, outscored Suns 17-5 to close. Holiday 21, Grant 16 (2 late 3s). Suns: Green 35 (14-29), Booker 22, Brooks 20. Blazers No. 7 seed — face No. 2 Spurs in R1 (April 18). First Blazers playoffs since 2021.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Blazers vs Spurs R1 (April 18); Avdija vs Wemby matchup narrative
+
+### STORY 3: Play-In Night 2 Preview — 76ers-Magic + Warriors-Clippers
+- **Tier:** 1
+- **Category:** Play-In Tournament / Game Preview
+- **Key facts:** East: Magic (7) at 76ers (8), 7:30 PM ET — Embiid OUT (appendicitis surgery), Maxey leads, 76ers slight home favorites, winner gets No. 7 seed. West: Warriors (10) at Clippers (9), 10 PM ET, Intuit Dome — loser eliminated; Kawhi 27.9 PPG career-high season, 50.5% FG; Curry 26.6 PPG, 41.7% 3PT last 4 games; Clippers 42-40, Warriors 37-45; Clippers -5.5. All Prime Video.
+- **Status:** NEW STORY
+- **Follow-Up Opportunities:** Results tonight; Friday Play-In (April 17); bracket finalized April 17
+
+### STORY 4: 2026 NBA Playoff Bracket — 12 of 16 Teams Locked
+- **Tier:** 2
+- **Category:** Standings / Playoff Race
+- **Key facts:** East bracket — (3) Knicks vs (6) Hawks; (4) Cavs vs (5) Raptors; (1) Pistons and (2) Celtics await play-in winners. West bracket — (2) Spurs vs (7) Blazers confirmed; (3) Nuggets vs (6) Timberwolves; (4) Lakers vs (5) Rockets; (1) Thunder await. First round starts April 18.
+- **Status:** FOLLOW-UP
+
+### STORY 5: SGA and Wemby — NBA Awards Season Preview
+- **Tier:** 2
+- **Category:** NBA Awards / Analysis
+- **Key facts:** SGA: 31.6 PPG/6.5 APG/4.4 RPG/1.4 SPG/55% FG; 64-16 OKC; 88/100 ESPN MVP votes; back-to-back MVP expected. Wemby: 25 PPG/11.5 RPG/3.1 BPG/51.2% FG; near-unanimous DPOY (-5000); no player in history has won unanimous DPOY. Awards announcements expected late April/early May.
+- **Status:** FOLLOW-UP
+
+---
+
 ## 2026-04-14
 
 | # | Story | Tier | Tag |

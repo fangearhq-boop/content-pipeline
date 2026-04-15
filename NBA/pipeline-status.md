@@ -1,11 +1,23 @@
 # Hoop Heroes Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-14
+- **Date**: 2026-04-15
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-15
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce rotating)
+- **PostPlanner exports:** hh-postplanner-2026-04-15.xlsx (13 posts) + hh-postplanner-tobi-2026-04-15.xlsx (13 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-15/review-dashboard.html (23 items)
+- **Notes:** Play-In Night 1 results — Hornets 127-126 Heat OT (LaMelo 30pts/10ast, go-ahead layup with 4.7s left; Bridges block at buzzer; Hornets first playoffs since 2016, 10-year drought ends; Heat: Mitchell 28, Wiggins 27, Herro 23); Blazers 114-110 Suns (Avdija 41pts/12ast/7reb — 5th highest scoring play-in game ever; erased 11-pt 4Q deficit; Blazers No. 7 seed, face Spurs R1); Tonight Play-In Night 2 — 76ers vs Magic 7:30 ET (Embiid out/appendicitis surgery; Maxey leads), Warriors vs Clippers 10 ET (Kawhi 27.9 PPG career high, Curry 26.6 PPG, loser eliminated); Playoff bracket: 12/16 teams set; SGA back-to-back MVP (88/100 votes, 31.6 PPG); Wemby near-unanimous DPOY (-5000 odds).
+- **Fact concerns:** All game scores/stats HIGH (ESPN, Yahoo Sports, NBA.com, Al Jazeera, Fox Sports). Embiid return timeline MEDIUM (single source projections). Wemby DPOY odds MEDIUM (odds sourcing policy). Wemby "surprised" quote MEDIUM (Basketball Network single source). Avdija 5th play-in scorer claim HIGH (Yahoo Sports listed historical comparisons).
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-14
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
