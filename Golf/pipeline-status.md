@@ -3,7 +3,28 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-14)
+## Current Pipeline (2026-04-15)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-15 |
+| Writing | Complete (all 7 files + 5 articles) | 2026-04-15 |
+| Fact-check | Complete (verify-facts.py — 25 claims, 46 HIGH; Story 3 tweet trimmed 282→268 chars; Story 5 tweet trimmed 283→279 chars) | 2026-04-15 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-15 |
+| PostPlanner | Complete (standard + TOBI exports — 12 posts each) | 2026-04-15 |
+| Dashboard | Generated locally (push blocked — PAT scope) | 2026-04-15 |
+| Published | Failed — 403 Host not in allowlist (egress proxy, consistent with all previous runs) | 2026-04-15 |
+| Git | Committed and pushed to main | 2026-04-15 |
+
+## Notes (2026-04-15)
+- 5 stories: RBC Heritage preview — Scheffler +350 favorite, McIlroy skips (T1); McIlroy back-to-back Masters 2025-26, first since Tiger 2001-02 (T1); LIV Golf Mexico City — DeChambeau chasing 3rd straight title (T2); LPGA JM Eagle LA Championship — Korda and Thitikul out, Hyo Joo Kim leads (T2); Scheffler RBC Heritage feature — Masters runner-up, 4 top-4s, won Harbour Town 2024 (T2)
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- Character limit fixes: Story 3 tweet removed "(7,350 feet)" text; Story 5 tweet removed leading "The" from final line
+- WordPress publish: Failed — 403 Host not in allowlist (egress proxy blocks access, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+- Justin Thomas noted as defending RBC Heritage champion (won 2025 playoff over Andrew Novak)
+
+## Previous Pipeline (2026-04-14)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
