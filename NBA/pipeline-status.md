@@ -1,11 +1,21 @@
-# Hoop Heroes Pipeline Status
-
 ## Last Run
-- **Date**: 2026-04-15
+- **Date**: 2026-04-16
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-16
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce rotating)
+- **PostPlanner exports:** hh-postplanner-2026-04-16.xlsx (13 posts) + hh-postplanner-tobi-2026-04-16.xlsx (13 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-16/review-dashboard.html (23 items)
+- **Notes:** Play-In Night 2 results — 76ers 109-97 Magic (Maxey 31 pts/7 consecutive in 4th; Edgecombe 19/11 reb/tech for taunting Suggs; Bane 34 for Orlando; no Embiid/appendicitis); Warriors 126-121 Clippers (Curry 35 pts/27 in 2nd half/7 3Ps/dagger at 50.4s; erased 13-pt deficit; Horford 4 3Ps; Porzingis 20; Kawhi 21/scoreless 4th; Mathurin 23/Garland 21-8 ast); Tonight Play-In Night 3 — Magic vs Hornets 7:30 ET, Warriors vs Suns 10 ET (final 2 seeds); Embiid injury deep-dive: ~April 9 surgery, avg 23-day recovery, Coach Nurse "not around at all", no timeline; Full R1 bracket: Pistons/Celtics/Knicks/Cavs East; Thunder/Spurs/Nuggets/Lakers West; starts April 18.
+- **Fact concerns:** All Play-In game scores/stats HIGH (NBA.com, ESPN, NBC Sports, Sky Sports, Yahoo Sports — multiple sources). Edgecombe tech foul taunt MEDIUM (Yardbarker single source). Embiid surgery date ~April 9 MEDIUM (inferred from CBS Sports article date, cross-referenced with multiple reports). 23-day avg recovery MEDIUM (Jeff Stotts/In Street Clothes via Philadelphia Inquirer — single reference). Full bracket matchups HIGH (multiple sources confirmed).
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-15
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

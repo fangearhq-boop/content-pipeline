@@ -1,0 +1,262 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-16",
+  "compiled_at": "2026-04-16T11:14:26.010625+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Maxey's 31-Point Masterclass Lifts Sixers Past Magic, 109-97 (FOLLOW-UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM, 9:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "MAXEY DELIVERS.\n\n31 PTS. Seven straight in the 4th to seal it.\n\nNo Embiid. No problem.\n\n76ers 109, Magic 97 — Philly is PLAYOFF BOUND. Celtics are next. #HoopHeroes #Sixers #NBAPlayoffs",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Sixers",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 185
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Rookie VJ Edgecombe wasn't just good Wednesday night — he was FEARLESS.\n\n19 PTS. 11 REB. Talked trash to Jalen Suggs and earned a tech.\n\nPhilly's future showed up in the biggest game of the season. #HoopHeroes #Sixers",
+          "posting_time": "9:00 AM, 9:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Sixers"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM, 9:30 AM"
+      },
+      "article": {
+        "filename": "article-01-maxey-sixers-beat-magic-play-in.html",
+        "headline": "Maxey's 31-Point Masterclass Lifts Sixers Past Magic, 109-97",
+        "word_count": 605
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Maxey 31 pts, Sixers beat Magic\n\n**Social Image (1080x1350)**\n- **Imagn Search Term:** \"Tyrese Maxey Philadelphia 76ers\"\n- **Concept:** Maxey in full drive or mid-release jumper; teal/navy uniform\n- **Text Overlay:** \"MAXEY DELIVERS\" (Bebas Neue, large, Deep Orange #FF5722) / \"31 PTS | NO EMBIID\" (Montserrat, white) / \"76ERS ADVANCE\" (Montserrat, gold #FFC107)\n- **Bar:** Dark midnight semi-transparent bar across bottom 35%\n- **Credit:** (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- **Imagn Search Term:** \"Tyrese Maxey Philadelphia 76ers\"\n- **Concept:** Celebration or determined driving action shot, horizontal crop\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Curry Erupts for 35, Warriors Stun Clippers in Epic Comeback (FOLLOW-UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM, 11:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "STEPHEN CURRY. DOWN 13 IN THE 4TH.\n\n35 PTS. 27 in the second half. 7 threes.\n\nWarriors erased a 13-point deficit and ENDED the Clippers' season.\n\nThat man is not normal. #HoopHeroes #Warriors #NBAPlayIn",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Warriors",
+            "#NBAPlayIn"
+          ],
+          "char_count": 202
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kawhi Leonard had 21 points Wednesday.\n\nThen went SILENT in the fourth quarter.\n\nCurry's dagger three at 50.4 seconds. Kawhi watching.\n\nThe Clippers' season is over. #HoopHeroes #Warriors",
+          "posting_time": "11:00 AM, 11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Warriors"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM, 11:30 AM"
+      },
+      "article": {
+        "filename": "article-02-curry-warriors-stun-clippers-comeback.html",
+        "headline": "Curry Erupts for 35, Warriors Stun Clippers in Epic Second-Half Comeback",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Curry 35 pts, Warriors beat Clippers\n\n**Social Image (1080x1350)**\n- **Imagn Search Term:** \"Stephen Curry Golden State Warriors\"\n- **Concept:** Curry in trademark shooting follow-through, mouth guard out, eyes on basket\n- **Text Overlay:** \"CURRY TAKES OVER\" (Bebas Neue, Deep Orange) / \"35 PTS | 7 THREES\" (Montserrat, white) / \"WARRIORS STAY ALIVE\" (Montserrat, gold)\n- **Bar:** Dark midnight semi-transparent bar across bottom 30%\n- **Credit:** (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- **Imagn Search Term:** \"Stephen Curry Golden State Warriors\"\n- **Concept:** Curry walking off court with fist raised, or celebrating after three-pointer\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Play-In Night 3 Tonight — Magic vs. Hornets and Warriors vs. Suns (NEW STORY)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM, 4:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "TONIGHT. Two games. Two playoff seeds on the line.\n\nMagic vs. Hornets — 7:30 PM ET\nWarriors vs. Suns — 10:00 PM ET\n\nOne loss and your season is OVER.\n\nWho survives Play-In Night 3? #HoopHeroes #NBAPlayIn #NBA",
+          "posting_time": "4:00 PM, 4:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayIn",
+            "#NBA"
+          ],
+          "char_count": 208
+        },
+        {
+          "label": "Post 3-2",
+          "text": "LaMelo Ball had a go-ahead layup with 4.7 seconds left in OT earlier this week.\n\nTonight Charlotte plays Orlando for the No. 8 East seed.\n\nThe Hornets are ending a 10-YEAR playoff drought. 7:30 ET. #HoopHeroes #Hornets",
+          "posting_time": "4:00 PM, 4:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Hornets"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM, 4:30 PM"
+      },
+      "article": {
+        "filename": "article-03-play-in-night-3-preview-magic-hornets-warriors-suns.html",
+        "headline": "Play-In Night 3 Preview: Magic, Suns Playing For Their Playoff Lives Tonight",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Play-In Night 3 Preview\n\n**Social Image (1080x1350)**\n- **Imagn Search Term:** \"LaMelo Ball Charlotte Hornets\"\n- **Concept:** LaMelo in full speed, teal uniform, arena lights\n- **Text Overlay:** \"TONIGHT\" (Bebas Neue, large, Deep Orange) / \"MAGIC vs HORNETS — 7:30 ET\" / \"WARRIORS vs SUNS — 10:00 ET\" (Montserrat, white) / \"WHO SURVIVES?\" (Montserrat, gold)\n- **Bar:** Dark midnight semi-transparent bar across entire bottom 40%\n- **Credit:** (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- **Imagn Search Term:** \"LaMelo Ball Charlotte Hornets\"\n- **Concept:** LaMelo mid-celebration or dribbling up court, landscape crop\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "The Embiid Question — Will Philly's Star Return For the Playoffs? (FOLLOW-UP)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The 76ers beat Orlando WITHOUT Joel Embiid.\n\nBut Coach Nurse says Embiid hasn't been near the team \"AT ALL\" since surgery.\n\nNo timeline set. Celtics series starts April 19.\n\nThe clock is ticking for Philly. #HoopHeroes #Sixers",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Sixers"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-04-embiid-appendectomy-recovery-timeline-playoffs.html",
+        "headline": "The Embiid Question: Inside the Recovery Timeline That Could Define the 76ers' Season",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Embiid injury update\n\n**Social Image (1080x1350)**\n- **Imagn Search Term:** \"Joel Embiid Philadelphia 76ers\"\n- **Concept:** Embiid walking, sitting, or serious expression — sideline or bench setting\n- **Text Overlay:** \"EMBIID UPDATE\" (Bebas Neue, Deep Orange) / \"NO TIMELINE SET\" (Montserrat, white) / \"PLAYOFFS START APRIL 19\" (Montserrat, gold)\n- **Bar:** Dark midnight semi-transparent overlay across lower 35%\n- **Credit:** (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- **Imagn Search Term:** \"Joel Embiid Philadelphia 76ers\"\n- **Concept:** Embiid portrait or sideline moment, landscape crop\n- **Credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "2026 NBA Playoffs Bracket Preview — All Eight First-Round Matchups (NEW STORY)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The 2026 NBA Playoffs start SATURDAY.\n\nEight first-round matchups. Pure drama:\n\nCeltics vs. Sixers (no Embiid)\nLakers vs. Rockets (LeBron's records)\nSpurs vs. Blazers\nPistons vs. TBD\n\nWho are you taking? #HoopHeroes #NBAPlayoffs",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": {
+        "filename": "article-05-2026-nba-playoffs-first-round-bracket-preview.html",
+        "headline": "2026 NBA Playoffs First Round Preview: Breaking Down Every Matchup",
+        "word_count": 857
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Playoff bracket preview\n\n**Social Image (1080x1350)**\n- **Imagn Search Term:** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Concept:** SGA celebrating or driving, OKC uniform, deep blue/orange arena\n- **Text Overlay:** \"NBA PLAYOFFS\" (Bebas Neue, large, Deep Orange) / \"FIRST ROUND STARTS SAT\" (Montserrat, white) / \"2026 BRACKET PREVIEW\" (Montserrat, gold)\n- **Bar:** Dark midnight semi-transparent bar bottom 30%\n- **Credit:** (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- **Imagn Search Term:** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Concept:** SGA horizontal action or celebration\n- **Credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

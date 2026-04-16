@@ -895,3 +895,16 @@
 - **Category:** Analysis / Stat Deep Dive
 - **Key facts:** Best net rating since January. LaMelo Ball +13.3 on-off offensive rating (NBA best). 30-13-6 vs Heat on March 17.
 - **Status:** NEW STORY
+
+---
+
+## 2026-04-16
+
+| # | Title | Tier | Status |
+|---|-------|------|--------|
+| 1 | Maxey's 31-Point Masterclass Lifts Sixers Past Magic, 109-97 — Edgecombe 19/11 in fearless debut; 76ers face Celtics R1 April 19 | 1 | FOLLOW-UP (April 15 Night 2 preview) |
+| 2 | Curry Erupts for 35, Warriors Stun Clippers 126-121 — 27 in 2nd half, dagger 3 at 50.4s, erased 13-pt deficit; Warriors visit Suns Friday | 1 | FOLLOW-UP (April 15 Night 2 preview) |
+| 3 | Play-In Night 3 Tonight — Magic vs. Hornets 7:30 ET, Warriors vs. Suns 10 ET; LaMelo carried Hornets vs Heat; final 2 seeds decided | 1 | NEW STORY |
+| 4 | The Embiid Question — appendectomy recovery ~23 days; Nurse says "not around at all"; Celtics series starts April 19; no return timeline | 2 | FOLLOW-UP (April 15 noted Embiid out — this is deep-dive) |
+| 5 | 2026 NBA Playoffs First Round Bracket Preview — All 8 matchups: Pistons/Celtics/Knicks/Cavs East; Thunder/Spurs/Nuggets/Lakers West | 2 | NEW STORY |
+
