@@ -1,0 +1,192 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-16",
+  "compiled_at": "2026-04-16T14:45:00+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {"time": "7:00 AM", "description": "Story 1", "type": "X"},
+    {"time": "8:30 AM", "description": "Story 2", "type": "X"},
+    {"time": "10:00 AM", "description": "Story 3", "type": "X"},
+    {"time": "11:30 AM", "description": "Story 4", "type": "X"},
+    {"time": "1:00 PM", "description": "Story 5", "type": "X"},
+    {"time": "3:00 PM", "description": "Story 6", "type": "X"},
+    {"time": "5:30 PM", "description": "Story 7", "type": "X"}
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 11, Phillies 2 — Series Win in Philly Behind Imanaga's 11 Ks",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs 11, Phillies 2.\n\nImanaga went 6 and struck out 11. Hoerner drove in 5. Swanson homered. Shaw had 3 doubles. 15 hits.\n\nSeries win in Philly. Off-day today, Mets in town tomorrow.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 207
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Nico Hoerner — Career-High 5 RBIs in Series-Clincher",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Nico Hoerner drove in 5 runs last night. Career high.\n\nThe quiet one keeps doing it. No flash, just hit after hit in the spots that matter.\n\nBest contact hitter on this roster. It's not even close.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:30 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#FlyTheW"],
+          "char_count": 226
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "Imanaga's Bounce-Back — 11 Strikeouts in 6 Innings",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Imanaga last night: 6 IP, 3 H, 1 BB, 11 K.\n\nThis is who he is. The 0-1 start with a 2.81 ERA was never the problem. The stuff is elite, and now the results caught up.\n\nDon't overreact to a record. Watch the whiffs.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:00 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 234
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Off-Day Takeaways — Cubs Roster Is Finding Its Shape",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Off-day thought: through 17 games the shape of this Cubs team is real.\n\nHoerner and PCA dominate at-bats. Swanson is locked in. Imanaga is the ace. The bullpen is duct-taped but surviving.\n\nThis is a playoff roster.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "11:30 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 240
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Mets Series Preview — Three Games at Wrigley Starting Friday",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Mets come to Wrigley tomorrow for three. First homestand opener of the season.\n\nFriday night lights on the North Side. After the road series win in Philly, this is the chance to stack some momentum at home.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:00 PM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 231
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "The Bullpen Situation — Still Short, Still Winning",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The bullpen is missing Maton, Harvey, Hodge, Wicks, and Roberts.\n\nAnd somehow the Cubs are winning series on the road. Little and Rolison have been thrown into real spots. Nothing's blown up.\n\nCredit Counsell. Credit the depth.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "3:00 PM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Evening Take — This Team Hits in the 9th",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Late-inning Cubs:\n\n• Tuesday: Kelly 3-run HR in the 9th\n• Wednesday: Hoerner 5 RBIs, blow it open late\n• Series win secured with 10+ runs in back-to-back games\n\nThis offense doesn't quit. That's a real identity.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:30 PM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#FlyTheW"],
+          "char_count": 240
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
