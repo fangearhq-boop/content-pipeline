@@ -1,0 +1,371 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-16",
+  "compiled_at": "2026-04-16T10:28:14.041267+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 3 (Jackie Robinson Day recap)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1 (Ohtani 10K)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 2 (Jordan Walker)",
+      "type": "X + FB"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 7 (Judge HR chase)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 4 (Giolito FA)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 (Brewers spiral)",
+      "type": "X + FB"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 6 (ABS challenge system)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Ohtani's Jackie Robinson Day Masterpiece — 10 Strikeouts, Pitcher Only, Dodgers Sweep Mets",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Shohei Ohtani on Jackie Robinson Day:\n\n6 IP. 1 R. 10 Ks. 95 pitches.\nStruck out the side in the 6th on 14 pitches.\n\nDidn't bat — HBP kept him out of the lineup.\nFirst time since May 2021.\n\nBest player in baseball. #Dodgers #BallparkBanter #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#BallparkBanter",
+            "#MLB"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 1-2",
+          "text": "For context on Ohtani's Jackie Robinson Day start:\n\nHe pitched and didn't bat for the first time since 2021.\nHis manager said: \"If not for the HBP, he'd have been DHing too.\"\n\nDodgers 8, Mets 2. Swept.\n\nPitcher-only Ohtani is still a problem. #Dodgers #BallparkBanter #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#BallparkBanter",
+            "#MLB"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ohtani-jackie-robinson-day-10-strikeouts-dodgers-mets.html",
+        "headline": "Ohtani's Jackie Robinson Day Masterpiece — 10 Ks, Pitcher Only, Dodgers Sweep Mets",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Jackie Robinson Day Start\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Ohtani on the mound, full pitching delivery, Dodger Stadium crowd visible\n- **Photo Search Terms:**\n  1. \"Shohei Ohtani Los Angeles Dodgers\"\n  2. \"Shohei Ohtani pitching Dodgers\"\n  3. \"Shohei Ohtani mound\"\n  4. \"Shohei Ohtani delivery\"\n  5. \"Teoscar Hernandez Dodgers\"\n- **Text Overlay:**\n  - Headline: \"10 STRIKEOUTS\" (white, Bebas Neue)\n  - Subtitle: \"Ohtani | 6 IP | Jackie Robinson Day\" (Montserrat)\n- **Composition Notes:** Full pitching delivery preferred; white home uniform\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Shohei Ohtani pitching Dodgers\"\n- **Text Overlay:** \"Ohtani Dominates on Jackie Robinson Day — 10 Ks, Dodgers Sweep\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Jordan Walker Is Doing Something No Cardinal Has Done Since Mark McGwire",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jordan Walker leads MLB with 8 HRs in 16 games.\n\nHe hit 11 homers in his first 2 seasons combined.\nExit velocity: 97.1 mph — leads the majors.\nwRC+: 219.\n\nOnly Pujols, Rolen, and McGwire did this in Cardinals history. #Cardinals #BallparkBanter #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cardinals",
+            "#BallparkBanter",
+            "#MLB"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 2-2",
+          "text": "In 2024-25, Jordan Walker hit .211/.270/.324 in 527 at-bats.\nJust 11 home runs.\n\nThrough 16 games in 2026: .333/.394/.767 with 8 HRs.\n\nThis is not a hot streak. Something changed.\n\nThe Cardinals might have a superstar. #Cardinals #BallparkBanter #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cardinals",
+            "#BallparkBanter",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-jordan-walker-cardinals-8-home-runs-16-games-2026.html",
+        "headline": "Jordan Walker Is Doing Something No Cardinal Has Done Since Mark McGwire",
+        "word_count": 483
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jordan Walker Cardinals\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Walker at the plate, big swing, ideally a home run swing\n- **Photo Search Terms:**\n  1. \"Jordan Walker St. Louis Cardinals\"\n  2. \"Jordan Walker Cardinals bat\"\n  3. \"Jordan Walker Cardinals home run\"\n  4. \"Jordan Walker outfield Cardinals\"\n  5. \"St. Louis Cardinals outfielder\"\n- **Text Overlay:**\n  - Headline: \"8 HRS IN 16 GAMES\" (white, Bebas Neue)\n  - Subtitle: \"Walker Joins Pujols, McGwire, Rolen in Cardinals History\" (Montserrat)\n- **Composition Notes:** Power swing or bat flip; Cardinals red uniform\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Jordan Walker Cardinals\" or \"Jordan Walker St. Louis Cardinals\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Jackie Robinson Day 2026 — 79th Anniversary, Dodger Stadium Ceremony, All 30 Teams Wear No. 42",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yesterday was Jackie Robinson Day. All 30 teams wore No. 42.\n\nRobinson's granddaughters and the Negro Leagues Museum president honored his legacy at Dodger Stadium.\n\n79 years since April 15, 1947. #JackieRobinsonDay #BallparkBanter #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#JackieRobinsonDay",
+            "#BallparkBanter",
+            "#MLB"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-jackie-robinson-day-2026-79th-anniversary-dodgers-ceremony.html",
+        "headline": "Jackie Robinson Day 2026 — 79 Years, No. 42, and a Ceremony at Dodger Stadium",
+        "word_count": 445
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jackie Robinson Day\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Player in No. 42 jersey, wide shot of Dodger Stadium, ceremonial atmosphere\n- **Photo Search Terms:**\n  1. \"Jackie Robinson Day 2025\"\n  2. \"No. 42 Jackie Robinson MLB\"\n  3. \"Dodger Stadium Jackie Robinson\"\n  4. \"MLB Jackie Robinson ceremony\"\n  5. \"Hyeseong Kim Dodgers\"\n- **Text Overlay:**\n  - Headline: \"APRIL 15. NO. 42.\" (white, Bebas Neue)\n  - Subtitle: \"79 Years of Jackie Robinson's Legacy\" (Montserrat)\n- **Composition Notes:** Wide stadium shot or ceremony atmosphere preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Jackie Robinson Day MLB\" or \"Dodger Stadium ceremony\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Lucas Giolito Still Available — Cubs and Padres Circle as Pitching Injuries Mount",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lucas Giolito is still a free agent in mid-April 2026.\n\n3.41 ERA in 145 IP last season for the Red Sox.\nCubs and Padres are circling. Pitching injuries are mounting.\n\nGiolito: just wants to be paid close to his market value.\n\nA deal is coming. #BallparkBanter #MLB #FreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#FreeAgency"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-lucas-giolito-free-agent-cubs-padres-2026.html",
+        "headline": "Lucas Giolito Still Available — Cubs and Padres Circle as Pitching Injuries Mount",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lucas Giolito\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Giolito pitching in action, delivering mid-game\n- **Photo Search Terms:**\n  1. \"Lucas Giolito pitcher\"\n  2. \"Lucas Giolito Boston Red Sox\"\n  3. \"Lucas Giolito Chicago White Sox\"\n  4. \"Lucas Giolito mound delivery\"\n  5. \"Lucas Giolito pitching\"\n- **Text Overlay:**\n  - Headline: \"GIOLITO: STILL AVAILABLE\" (white, Bebas Neue)\n  - Subtitle: \"Cubs & Padres Circling | 3.41 ERA Last Season\" (Montserrat)\n- **Composition Notes:** Pitching delivery or dugout look\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Lucas Giolito pitcher\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Brewers Spiral Reaches 6-Game Losing Streak — Their Longest Since 2003",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Milwaukee Brewers have lost 6 in a row. Their longest skid since 2003.\n\nOn the IL: Yelich, Chourio, Vaughn, Priester, Koenig.\n\nThat's your entire projected core — gone.\n\nThe NL Central race just got a lot more interesting. #Brewers #BallparkBanter #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#BallparkBanter",
+            "#MLB"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-brewers-six-game-losing-streak-yelich-chourio-injuries.html",
+        "headline": "Brewers Spiral — Six-Game Skid, Three Starters on IL, Longest Losing Streak Since 2003",
+        "word_count": 453
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brewers Losing Streak\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Brewers dugout or player in blue uniform\n- **Photo Search Terms:**\n  1. \"Christian Yelich Milwaukee Brewers\"\n  2. \"Jackson Chourio Brewers\"\n  3. \"Milwaukee Brewers dugout\"\n  4. \"Brewers American Family Field\"\n  5. \"Andrew Vaughn Brewers\"\n- **Text Overlay:**\n  - Headline: \"6-GAME SKID\" (white, Bebas Neue)\n  - Subtitle: \"Longest Brewers Losing Streak Since 2003\" (Montserrat)\n- **Composition Notes:** Dejected dugout moment preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Christian Yelich Brewers\" or \"Milwaukee Brewers\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** MLB Players Sound Off on the New Automated Ball-Strike Challenge System",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "MLB players on the new ball-strike challenge system:\n\n\"It's harder than it looks on TV.\"\n\nSome love it. Some miss the gray area. All figuring it out.\n\nBaseball's biggest rule change in years is live. #BallparkBanter #MLB #BaseballRules",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#BaseballRules"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ABS Challenge System (Social Only)\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Home plate umpire making a call, catcher in frame\n- **Photo Search Terms:**\n  1. \"MLB home plate umpire call\"\n  2. \"catcher umpire home plate\"\n  3. \"baseball umpire strike call\"\n  4. \"MLB umpire close play plate\"\n  5. \"baseball catcher batter pitch\"\n- **Text Overlay:**\n  - Headline: \"CHALLENGE ACCEPTED\" (white, Bebas Neue)\n  - Subtitle: \"MLB's ABS System — What Players Really Think\" (Montserrat)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Aaron Judge at 7 HRs — Tracking Toward 400 Career Home Runs",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Aaron Judge's 47th career multi-home run game passed Mickey Mantle (46)\nfor 2nd in Yankees history.\n\nOnly Babe Ruth (68) has more.\n\nJudge is tracking toward 400 career home runs — a club with 59 members.\n\nStill in April. Still historic. #Yankees #BallparkBanter #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#BallparkBanter",
+            "#MLB"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge (Social Only)\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Judge in full swing or home run trot, Yankees uniform\n- **Photo Search Terms:**\n  1. \"Aaron Judge New York Yankees\"\n  2. \"Aaron Judge home run swing\"\n  3. \"Aaron Judge bat Yankees\"\n  4. \"Aaron Judge Yankee Stadium\"\n  5. \"Aaron Judge outfield Yankees\"\n- **Text Overlay:**\n  - Headline: \"JUDGE IN HISTORY\" (white, Bebas Neue)\n  - Subtitle: \"47th Multi-HR Game | Passes Mickey Mantle\" (Montserrat)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

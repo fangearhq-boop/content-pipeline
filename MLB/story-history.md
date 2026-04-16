@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-16
+
+### Story 1: Ohtani Jackie Robinson Day Masterpiece — 6 IP, 1 R, 10 Ks
+- **Angle:** FOLLOW UP (from April 15 Jackie Robinson Day). Ohtani pitched 6 IP, 1 R, 10 Ks on 95 pitches. Struck out the side in the 6th on 14 pitches. Did not bat due to HBP — first time since May 2021. Dodgers completed Mets sweep 8-2.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Ohtani next start, on-base streak continuation
+
+### Story 2: Jordan Walker Cardinals Historic Start — 8 HRs in 16 Games
+- **Angle:** FOLLOW UP (from April 15 Week 3 leaderboards). Walker now has 8 HRs in 16 games — leads MLB. Hit only 11 HRs combined in first 2 MLB seasons (2024-25). Average exit velocity 97.1 mph leads majors. wRC+ of 219. Joins Pujols, Rolen, McGwire as Cardinals to start this hot.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Walker HR pace, Cardinals season arc
+
+### Story 3: Jackie Robinson Day 2026 — 79th Anniversary Ceremony Recap
+- **Angle:** FOLLOW UP (from April 15). Recap of Jackie Robinson Day ceremony at Dodger Stadium — Robinson's granddaughters Sonya Pankey Robinson and Ayo Robinson participated, along with Bob Kendrick (Negro Leagues Baseball Museum president). ESPN broadcast with Joe Buck, Ron Darling, Orel Hershiser.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** 80th anniversary preview (2027)
+
+### Story 4: Lucas Giolito Still Available — Cubs and Padres Circle
+- **Angle:** NEW STORY. Giolito remains unsigned mid-April 2026. Posted 3.41 ERA in 145 IP for Red Sox in 2025. Cubs and Padres generating most interest per The Athletic. Giolito maintaining readiness with 75-pitch bullpen sessions. Wants market-value deal (~$20.4M/yr per Spotrac). UCL history is concern.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Giolito signing, Cubs/Padres rotation needs
+
+### Story 5: Brewers 6-Game Losing Streak — Longest Since 2003
+- **Angle:** FOLLOW UP (from April 15 Brewers injury crisis). Streak now at 6 — longest since 2003. IL: Yelich (adductor, mid-to-late May), Chourio (broken hand, early May), Vaughn (broken hand, mid-May), Priester (thoracic outlet), Koenig (elbow). NL Central race shifting.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Brewers NL Central standing, Chourio/Vaughn return (early May)
+
+### Story 6: ABS Challenge System — What Players Really Think
+- **Angle:** NEW STORY. MLB's automated ball-strike challenge system in its first weeks of 2026 play. Player reactions: mixed — some love it, some miss the gray area, all adjusting. Baseball's biggest rule change in years.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** ABS system adoption rate, umpire usage data
+
+### Story 7: Aaron Judge Multi-HR Game History
+- **Angle:** FOLLOW UP (from April 15 Judge HR chase). Judge's 47th career multi-HR game passes Mickey Mantle (46) for 2nd in Yankees history. Only Babe Ruth (68) has more. On track for 400 career HRs. Still in April 2026.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Judge career HR milestone pace, 400 HR tracker
+
+---
+
 ## 2026-04-15
 
 ### Story 1: Jackie Robinson Day 2026 — Dodgers vs. Mets on ESPN

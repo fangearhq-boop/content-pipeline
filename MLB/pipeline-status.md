@@ -1,6 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-16
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 4 char violations fixed before compile), FB posts (14), image concepts, image manifest, articles (5), fact-check (34 claims, 0 char violations after fixes, all stories present), compile (7 stories, 9 tweets, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish skipped (credentials not in env + proxy sandbox known). Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress credentials not set + proxy 403 (known). IMAGE MISSING expected (not_started). FB posts compile to 0 (heading format — known). publish-unified-dashboard.py 403 (PAT scope — known). 4 char violations in X posts fixed before compile.
+
+## Previous Run
 - **Date**: 2026-04-15
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (34 claims, 0 char violations after fixes, all stories present), compile (7 stories, 9 tweets, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -104,6 +111,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-16
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 34 claims. 4 char-limit violations fixed. 0 violations after fixes. IMAGE MISSING expected (not_started).
+- Dashboard: Published, live at https://fangearhq-boop.github.io/content-dashboards/
+- PostPlanner: bb-postplanner-2026-04-16.xlsx (9 posts), bb-postplanner-tobi-2026-04-16.xlsx (9 TOBI posts)
+- WordPress: Skipped — credentials not set in session + proxy restriction on fanrumor.com (known)
+- Key stories: Ohtani JRD masterpiece 6 IP 1 R 10 Ks Dodgers sweep Mets 8-2 (P10); Walker 8 HRs 16 games joins Pujols/Rolen/McGwire Cardinals history 97.1 mph EV 219 wRC+ (P10); Jackie Robinson Day 79th anniversary ceremony Dodger Stadium granddaughters + Negro Leagues Museum (P8); Giolito still available Cubs/Padres circling 3.41 ERA 145 IP Red Sox 2025 (P8); Brewers 6-game skid longest since 2003 Yelich/Chourio/Vaughn/Priester/Koenig all IL (P7); ABS challenge system player reaction mixed (P6); Judge 47th multi-HR game passes Mantle 2nd in Yankees history behind Ruth (P6)
+- Notes: 4 tweet char violations fixed (Stories 1/2/3/6). FB posts compile to 0 (heading format — known). publish-unified-dashboard.py 403 (PAT — known). Dashboard pushed via publish-dashboard.py.
 
 ### 2026-04-09
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3)
