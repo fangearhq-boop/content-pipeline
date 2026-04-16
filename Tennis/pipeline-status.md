@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-15 |
-| Writing | Complete (all steps) | 2026-04-15 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-15 |
-| Compile | Complete (07-content-data.json) | 2026-04-15 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-15 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-15 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-15 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-15 |
+| Research | Complete | 2026-04-16 |
+| Writing | Complete (all steps) | 2026-04-16 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-16 |
+| Compile | Complete (07-content-data.json) | 2026-04-16 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-16 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-16 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-16 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-16 |
 
 ## Queue
 
@@ -24,6 +24,41 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-16 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Ryan Calloway x2, Elena Voss x2, Marcus Cole x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-16.xlsx (7 posts), tfr-postplanner-tobi-2026-04-16.xlsx (7 TOBI posts)
+- **Coverage:** Alcaraz withdraws Barcelona right wrist injury (French Open fears, Machac walkover QF); Munich QF set Fonseca vs Shelton (Fonseca def. Rinderknech 6-3, 6-2; first Brazilian Munich QF in 12 years; Shelton def. Blockx 6-4, 7-6(8) saving 2 SPs); Swiatek opens clay season Stuttgart def. Siegemund 6-2, 6-3 (first Roig-coached match); Barcelona R16 Day (Machac walkover, Rublev/Sonego/Fils/Musetti in action); Stuttgart QF chase (Gauff vs Samsonova, Rybakina in action)
+- **Research:** Multi-source; Alcaraz withdrawal from atptour.com + skysports.com + olympics.com + freemalaysiatoday.com + si.com (5 sources); Fonseca from atptour.com + beinsports.com + cricketnmore.com + tennishead.net (4 sources); Swiatek from wtatennis.com + tennistonic.com + yournews.com (3 sources)
+- **Notes:**
+  - verify-facts.py: all 5 stories present; 35 claims; 53 HIGH; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 7 X posts, 5 articles; posting window warnings cosmetic
+  - PostPlanner: 7 posts standard, 7 TOBI posts
+  - Push to content-dashboards failed: PAT lacks write permission (same as all prior runs)
+  - WordPress publish failed: proxy blocks fanrumor.com — same env restriction as all prior runs
+  - Barcelona R16 match results (Rublev/Sonego, Musetti/Moutet, Fils/Nakashima) not confirmed at research time — framed as Day 4 action
+  - Gauff vs Samsonova result not confirmed at research time — framed as R16 preview/context
+- **Files created:**
+  - `tennis-content-2026-04-16/00-daily-brief.md`
+  - `tennis-content-2026-04-16/01-research-notes.md`
+  - `tennis-content-2026-04-16/02-story-analysis.md`
+  - `tennis-content-2026-04-16/03-social-posts-x.md`
+  - `tennis-content-2026-04-16/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-16/05-image-concepts.md`
+  - `tennis-content-2026-04-16/06-fact-check-log.md`
+  - `tennis-content-2026-04-16/07-content-data.json`
+  - `tennis-content-2026-04-16/07-image-manifest.md`
+  - `tennis-content-2026-04-16/review-dashboard.html`
+  - `tennis-content-2026-04-16/articles/article-01-alcaraz-withdraws-barcelona-wrist-injury-french-open-2026.html`
+  - `tennis-content-2026-04-16/articles/article-02-fonseca-shelton-munich-qf-first-brazilian-2026.html`
+  - `tennis-content-2026-04-16/articles/article-03-swiatek-stuttgart-win-roig-clay-debut-2026.html`
+  - `tennis-content-2026-04-16/articles/article-04-barcelona-r16-day-machac-walkover-rublev-fils-2026.html`
+  - `tennis-content-2026-04-16/articles/article-05-stuttgart-gauff-samsonova-rybakina-qf-picture-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-16.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-16.xlsx`
 
 ### 2026-04-15 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
