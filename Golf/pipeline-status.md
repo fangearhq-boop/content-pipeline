@@ -3,7 +3,27 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-15)
+## Current Pipeline (2026-04-16)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-16 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-16 |
+| Fact-check | Complete (verify-facts.py — 31 claims, 45 HIGH; 2 tweets trimmed: Story 1 tweet 2 284→278 chars, Story 2 tweet 1 290→204 chars) | 2026-04-16 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-16 |
+| PostPlanner | Complete (standard + TOBI exports — 12 posts each) | 2026-04-16 |
+| Dashboard | Generated locally (push blocked — PAT scope) | 2026-04-16 |
+| Published | Failed — WordPress credentials not in environment (egress proxy blocks anyway, consistent with all previous runs) | 2026-04-16 |
+| Git | Committed and pushed to main | 2026-04-16 |
+
+## Notes (2026-04-16)
+- 5 stories: RBC Heritage R1 underway — Scheffler +390, Thomas defending, Henley T3 Masters + 67.42 avg (T1); LIV Golf Mexico City opens + PIF funding crisis — Sportico $5B+, emergency meeting, CEO O'Neil "uninterrupted", DeChambeau chasing 3rd straight win (T1); McIlroy back-to-back Masters legacy — joins Nicklaus/Faldo/Tiger, 12-under 276, 71 final round, $4.5M (T1); LPGA JM Eagle LA Championship opens — Hyo Joo Kim 2 wins/two 61s, one week before Chevron major (T2); Russell Henley contender case — T3 Masters, led field SG:Approach, 67.42 avg over 12 rounds (T2)
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- Character limit fixes: Story 1 tweet 2 shortened Henley line; Story 2 tweet 1 condensed to 204 chars
+- WordPress publish: Failed — credentials not in environment (egress proxy blocks access, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+## Previous Pipeline (2026-04-15)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
