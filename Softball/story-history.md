@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 16, 2026
+
+### Story 1: Oklahoma State Upsets No. 1 Oklahoma 6-4 in Bedlam
+- **Angle:** FOLLOW UP (from April 15 Bedlam preview). Ruby Meylan CG (133 pitches, 9 K). OSU first upset of No. 1 since 2022 Big 12 Championship. Tornado warning ended game after 7th. Abby Dayton 2-run double for OU. OSU improves to 28-11. OU falls to 40-5.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** OSU postseason positioning, OU bounce-back vs Arkansas
+
+### Story 2: NFCA Poll Fallout — OU's No. 1 in Jeopardy
+- **Angle:** NEW STORY. NFCA Week 11 poll had OU No. 1 by 2 pts over TTech (747-745). OU now 40-5. TTech 40-3. Alabama No. 3. Week 12 poll drops April 21.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Week 12 NFCA poll April 21
+
+### Story 3: Kendall Wells at 31 HRs — 6 from Espinoza's All-Time Record
+- **Angle:** FOLLOW UP (from April 15 Wells story). Wells at 31, needs 6 for Espinoza's all-time record (37, Arizona, 1995). .383 BA, 60 RBIs. OU hosts Arkansas April 17-19 is next opportunity.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Wells HR milestones 32-37; all-time record break alert
+
+### Story 4: OU vs. Arkansas Weekend Preview
+- **Angle:** FOLLOW UP (from April 15 weekend preview). OU needs bounce-back after two losses. Arkansas 31-6, 10-4 SEC, won series vs Miss. State and Florida in April. April 17-19, Love's Field, ESPN2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** OU-Arkansas series result, national seed updates
+
+### Story 5: Nebraska at Minnesota — Big Ten Title Chase
+- **Angle:** NEW STORY. Nebraska 33-6, 14-1 Big Ten, 8-game win streak, at Minnesota April 17-19. Coach Rhonda Revelle. No. 6 nationally.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Nebraska Big Ten title clinch, national seed
+
+### Story 6: Texas Tech Positioned to Take No. 1
+- **Angle:** NEW STORY. TTech 40-3, Canady 17-2. Was 2 pts from No. 1 before OU's Bedlam loss. Week 12 poll April 21.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** TTech at No. 1 in Week 12
+
+### Story 7: FSU Senior Weekend vs. UNC
+- **Angle:** FOLLOW UP (from April 15 FSU story). FSU hosts UNC April 17-19 at JoAnne Graf. Then Florida April 22. National seed on the line.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** FSU-UNC series result, FSU-Florida rivalry
+
+---
+
 ## April 15, 2026
 
 ### Story 1: Bedlam Softball — No. 1 Oklahoma vs. Oklahoma State at Devon Park

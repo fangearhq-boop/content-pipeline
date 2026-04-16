@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-16
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9, 0 char violations), FB posts (14), image concepts, image manifest, articles (5), fact-check (116 claims, 0 char violations, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 X posts, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Detached HEAD resolved with git checkout main + pull before publish. Story 6 changed to Tier 3 (social only, no article).
+
+## Previous Run
 - **Date**: 2026-04-15
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9), FB posts (14), image concepts, image manifest, articles (5), fact-check (94 claims, 2 char violations fixed, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (8 X posts, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -114,6 +121,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-16
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 116 claims. 0 char-limit violations. 0 consistency errors. IMAGE MISSING expected (not_started).
+- Dashboard: 28 items. publish-unified-dashboard 403 (PAT, known). publish-dashboard success after git checkout main + pull.
+- PostPlanner: ils-postplanner-2026-04-16.xlsx (9 posts), ils-postplanner-tobi-2026-04-16.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: OSU 6-4 OU Bedlam upset Meylan CG 133 pitches 9K tornado warning ended game (P10); NFCA Week 11 fallout OU 40-5 TTech 40-3 Week 12 poll April 21 (P10); Wells 31 HRs 6 from Espinoza all-time record OU-Arkansas next stage (P9); OU vs Arkansas weekend preview April 17-19 ESPN2 (P8); Nebraska 33-6 14-1 Big Ten 8-game streak at Minnesota (P7); TTech positioned for No. 1 (P7); FSU Senior Weekend vs UNC April 17-19 (P6)
+- Notes: Detached HEAD on publish-dashboard resolved with git checkout main + pull. 0 tweet char violations. Story 6 changed to Tier 3 (social only).
 
 ### 2026-04-12
 - Stories: 7 (4 Tier 1, 2 Tier 2, 1 Tier 3)
