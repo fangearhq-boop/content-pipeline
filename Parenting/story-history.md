@@ -2,6 +2,50 @@
 
 ---
 
+## April 16, 2026
+
+### Story 1: CSDB Free Early Literacy Event at Bear Creek — April 17
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (CSDB hosts free Early Literacy Event at Bear Creek Nature Center, April 17, 1:30–3 PM; for families with deaf/hard-of-hearing children birth to age 8; free admission, ASL interpreter provided; ASL book reading, wildlife learning, nature walk; register: outreach@csdb.org; collaboration with El Paso County Parks; csdb.colorado.gov confirmed)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Date/time: April 17, 1:30–3 PM MT; location: Bear Creek Nature Center; free; ASL interpreter; birth–8; register at outreach@csdb.org; CSDB + El Paso County Parks collaboration
+- **Follow-Up Opportunities:** CSDB outreach program feature; early literacy for D/HH children guide; Bear Creek family nature guide
+
+### Story 2: Goregent Infant Walker CPSC Recall — Amazon Sale January 2026
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC recalls ~90 Goregent infant walkers sold on Amazon in January 2026 for ~$90; green plastic walker with animal-print seat; fits through doorways, won't stop at step edge — fall/injury risk; no injuries reported; refund: disassemble, write "Recalled," email GoregentInfantWalkersRecall@outlook.com; recall date March 19, 2026; cpsc.gov)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Recall March 19, 2026; ~90 units; Amazon/Goregent Official Store; January 2026 sale; ~$90; green, animal-print fabric seat, activity tray, lights/music, round base, 6 wheels; no injuries; refund: GoregentInfantWalkersRecall@outlook.com
+- **Follow-Up Opportunities:** Infant walker safety roundup; alternative to infant walkers guide; CPSC recall tracker
+
+### Story 3: Colorado Education Budget 2026-27 — School Funding Protected
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Colorado 2026-27 state budget proposal released early April 2026; education largely spared from major cuts despite state revenue shortfall; affects D11/D20/D49 funding; heading to Governor for signature; ChalkBeat April 6 + CPR April 7)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Budget released early April 2026; education protected despite shortfall; affects D11/D20/D49; heading to Governor for signature; sources: ChalkBeat (April 6), CPR News (April 7)
+- **Follow-Up Opportunities:** D11/D20/D49 local budget implications; Governor signature follow-up; state vs. local education funding explainer
+
+### Story 4: AAP Recommends HPV Vaccine Starting at Age 9
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP blog "The Time Is Now — Starting HPV Protection Early" published April 7, 2026; AAP recommends 2-dose HPV series starting age 9-12; different from CDC updated 1-dose at 11-12; earlier start improves series completion by age 13; HPV vaccine prevents cancers; aap.org + PMC peer-reviewed research)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP blog April 7, 2026; AAP recommends 2 doses starting 9-12; CDC updated to 1 dose at 11-12; earlier start improves completion by 13; vaccine prevents cancers; 2 doses if started before 15, 3 doses if 15+
+- **Follow-Up Opportunities:** Pediatrician Q&A on HPV vaccine; Colorado vaccine schedule explainer; teen cancer prevention feature
+
+### Story 5: D11 Budget Season — Admin Cuts, Classroom Support Boost
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 cutting central administration for third consecutive year; budget discussions ongoing for 2026-27; more support/resources directed to classrooms; school-level staffing/programs not affected; teacher starting pay $51,510 in 2025-26; double-digit compensation increases; KOAA + d11.org)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Third consecutive year of D11 admin cuts; school programs/staffing not affected; 2025-26: double-digit teacher pay increase; starting pay $51,510; budget discussions for 2026-27 ongoing; sources: KOAA, d11.org
+- **Follow-Up Opportunities:** Final 2026-27 D11 budget; teacher compensation comparison (D11 vs. D20/D49); D11 admin right-sizing impact study
+
+---
+
 ## April 15, 2026
 
 ### Story 1: D11 Orton Academy to Co-Locate at Trailblazer Elementary (2026-27)

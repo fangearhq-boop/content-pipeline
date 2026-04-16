@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 15, 2026
+## Latest Run: April 16, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CSDB event (csdb.colorado.gov + visitcos.com), Goregent recall (cpsc.gov + myparistexas.com), CO education budget (chalkbeat.org April 6 + cpr.org April 7), AAP HPV blog (aap.org + pubmed + PMC), D11 budget (koaa.com + d11.org) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 15 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories, tier + pillar assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (all verified under 280), 4 hashtags each |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions = 10 posts; 0 exclamation marks |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 58 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json (5 stories, 7 X posts, 5 articles) |
+| Dashboard | COMPLETE | review-dashboard.html (10 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-16.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-04-16.xlsx (7 posts) |
+| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (403 Forbidden) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-16)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 2 (Colorado education budget; D11 budget/admin cuts) | 1-2 |
+| Local Events | 1 (CSDB Early Literacy Event at Bear Creek) | 1-2 |
+| National Parenting | 2 (Goregent infant walker recall; AAP HPV vaccine age 9) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 15, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

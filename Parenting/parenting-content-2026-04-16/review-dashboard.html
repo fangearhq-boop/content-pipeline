@@ -1,0 +1,2968 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COS Parenting — Content Review Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #1a1a2e;
+            color: white;
+            padding: 30px 20px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            z-index: 10;
+        }
+
+        .sidebar h1 { font-size: 18px; margin-bottom: 10px; color: #FF8A00; font-weight: 700; }
+        .sidebar-date { font-size: 12px; color: #aaa; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar-section-title { font-size: 12px; text-transform: uppercase; color: #999; margin-bottom: 12px; font-weight: 600; letter-spacing: 1px; }
+
+        .nav-item {
+            display: block; padding: 12px 15px; margin-bottom: 8px; border-radius: 6px;
+            cursor: pointer; transition: all 0.3s ease; font-size: 14px; color: #ddd; user-select: none;
+        }
+        .nav-item:hover { background: #2d2d44; color: #FF8A00; }
+        .nav-item.active { background: #FF8A00; color: white; }
+        .nav-item-count { float: right; background: rgba(255, 107, 53, 0.3); padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .nav-item.active .nav-item-count { background: rgba(0, 0, 0, 0.2); }
+
+        .main-content { margin-left: 280px; flex: 1; display: flex; flex-direction: column; }
+
+        .header {
+            background: white; padding: 25px 40px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-bottom: 3px solid #FF8A00;
+        }
+        .header h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 10px; }
+        .header-meta { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; }
+        .progress-bar { flex: 1; min-width: 200px; }
+        .progress-label { font-size: 13px; color: #666; margin-bottom: 8px; font-weight: 500; }
+        .progress-container { width: 100%; height: 8px; background: #ddd; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #FF8A00, #E53935); transition: width 0.3s ease; }
+        .header-actions { display: flex; gap: 10px; }
+
+        .btn {
+            padding: 10px 16px; border: none; border-radius: 6px; font-size: 14px;
+            font-weight: 600; cursor: pointer; transition: all 0.3s ease; white-space: nowrap;
+        }
+        .btn-primary { background: #FF8A00; color: white; }
+        .btn-primary:hover { background: #E53935; }
+        .btn-secondary { background: #f0f0f0; color: #333; }
+        .btn-secondary:hover { background: #e0e0e0; }
+
+        .filter-bar {
+            background: white; padding: 20px 40px; display: flex;
+            gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #eee;
+        }
+        .filter-btn {
+            padding: 8px 14px; border: 1px solid #ddd; background: white;
+            border-radius: 5px; cursor: pointer; font-size: 13px; transition: all 0.3s ease;
+        }
+        .filter-btn:hover { border-color: #FF8A00; color: #FF8A00; }
+        .filter-btn.active { background: #FF8A00; color: white; border-color: #FF8A00; }
+
+        .content { flex: 1; padding: 30px 40px; overflow-y: auto; }
+
+        .cards-container { display: flex; flex-direction: column; gap: 20px; max-width: 900px; }
+
+        .card {
+            background: white; border-radius: 8px; padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: all 0.3s ease;
+            border-left: 5px solid #ccc; display: none;
+        }
+        .card.show { display: block; }
+        .card.approved { border-left-color: #22c55e; }
+        .card.needs-edit { border-left-color: #eab308; }
+        .card.rejected { border-left-color: #ef4444; }
+        .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+
+        .card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 15px; }
+        .card-title { font-size: 16px; font-weight: 600; color: #1a1a2e; flex: 1; margin-right: 10px; }
+
+        .card-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .badge-x-post { background: #1da1f2; color: white; }
+        .badge-facebook { background: #4267b2; color: white; }
+        .badge-article { background: #9333ea; color: white; }
+        .badge-image { background: #06b6d4; color: white; }
+        .badge-brief { background: #10b981; color: white; }
+
+        .fact-check-badge {
+            display: inline-block; padding: 3px 8px; border-radius: 4px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            margin-left: 6px;
+        }
+        .fact-check-verified { background: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .fact-check-warning { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+        .fact-check-unverified { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+
+        /* Content area — preview (collapsed) and full (expanded) */
+        .card-content {
+            background: #f9f9f9; padding: 15px; border-radius: 6px;
+            margin-bottom: 15px; font-size: 13px; line-height: 1.6; color: #555;
+            position: relative;
+        }
+        .card-content-text {
+            white-space: pre-wrap; word-break: break-word;
+        }
+
+        /* Collapsed state: limit height with fade */
+        .card-content.collapsed {
+            max-height: 200px; overflow: hidden;
+        }
+        .card-content.collapsed::after {
+            content: '';
+            position: absolute; bottom: 0; left: 0; right: 0; height: 60px;
+            background: linear-gradient(transparent, #f9f9f9);
+            pointer-events: none;
+        }
+
+        /* Expanded state: no limit */
+        .card-content.expanded {
+            max-height: none; overflow: visible;
+        }
+        .card-content.expanded::after { display: none; }
+
+        .expand-toggle {
+            display: inline-block; margin-bottom: 12px; padding: 6px 14px;
+            background: #eee; border: 1px solid #ddd; border-radius: 4px;
+            cursor: pointer; font-size: 12px; font-weight: 600; color: #555;
+            transition: all 0.2s ease;
+        }
+        .expand-toggle:hover { background: #ddd; color: #333; }
+
+        /* Inline editing */
+        .edit-textarea {
+            width: 100%; padding: 15px; border: 2px solid #FF8A00;
+            border-radius: 6px; font-size: 13px; font-family: inherit;
+            line-height: 1.6; resize: vertical; min-height: 200px;
+            background: #fffef5; color: #333; display: none;
+        }
+        .edit-textarea:focus {
+            outline: none; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.15);
+        }
+        .card.editing .card-content { display: none; }
+        .card.editing .edit-textarea { display: block; }
+        .card.editing .expand-toggle { display: none; }
+
+        .edit-bar {
+            display: none; gap: 8px; margin-bottom: 12px; padding: 10px;
+            background: #fff8f0; border: 1px solid #ffcc99; border-radius: 6px;
+            align-items: center;
+        }
+        .card.editing .edit-bar { display: flex; }
+        .edit-bar-label { font-size: 12px; font-weight: 600; color: #cc6600; flex: 1; }
+        .edit-bar .btn { padding: 7px 14px; font-size: 12px; }
+
+        .tweet-meta-bar {
+            display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; padding: 0;
+        }
+        .tweet-meta-badge {
+            display: inline-block; padding: 4px 10px; border-radius: 4px;
+            font-size: 11px; font-weight: 600; letter-spacing: 0.3px;
+        }
+        .tweet-meta-label { background: #e0e7ff; color: #3730a3; }
+        .tweet-meta-time { background: #fef3c7; color: #92400e; }
+        .tweet-meta-type { background: #d1fae5; color: #065f46; }
+        .tweet-meta-tier { background: #f3e8ff; color: #6b21a8; }
+        .tweet-meta-hashtags { background: #dbeafe; color: #1e40af; font-family: monospace; }
+
+        .char-count {
+            font-size: 12px; margin: 0 0 10px 0; padding: 8px;
+            background: #f0f0f0; border-radius: 4px;
+        }
+        .char-count.warning { background: #fee2e2; color: #991b1b; }
+
+        .card-actions { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1; padding: 10px; border: none; border-radius: 5px;
+            cursor: pointer; font-size: 13px; font-weight: 600;
+            transition: all 0.3s ease; white-space: nowrap; min-width: 100px;
+        }
+        .btn-approve { background: #e8f5e9; color: #22c55e; border: 1px solid #22c55e; }
+        .btn-approve:hover { background: #22c55e; color: white; }
+        .btn-edit { background: #fff3e0; color: #e65100; border: 1px solid #ff9800; }
+        .btn-edit:hover { background: #ff9800; color: white; }
+        .btn-reject { background: #fee2e2; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-reject:hover { background: #ef4444; color: white; }
+        .btn-copy { background: #f0f0f0; color: #333; border: 1px solid #ddd; }
+        .btn-copy:hover { background: #e0e0e0; }
+
+        .notes-section { display: none; margin-bottom: 12px; }
+        .notes-section.show { display: block; }
+        .notes-label { font-size: 12px; font-weight: 600; color: #666; margin-bottom: 6px; }
+        .notes-textarea {
+            width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;
+            font-size: 13px; font-family: inherit; resize: vertical; min-height: 60px;
+        }
+        .notes-textarea:focus { outline: none; border-color: #FF8A00; box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1); }
+
+        .status-label {
+            font-size: 11px; font-weight: 600; text-transform: uppercase;
+            padding: 4px 8px; border-radius: 3px; margin-top: 10px; display: inline-block;
+        }
+        .status-approved { background: #e8f5e9; color: #22c55e; }
+        .status-needs-edit { background: #fffbeb; color: #f59e0b; }
+        .status-rejected { background: #fee2e2; color: #ef4444; }
+        .status-edited { background: #e3f2fd; color: #1565c0; }
+
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .empty-state-icon { font-size: 48px; margin-bottom: 15px; }
+
+        /* Approval stats bar */
+        .approval-stats {
+            display: flex; gap: 16px; margin-top: 12px; flex-wrap: wrap;
+        }
+        .stat-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600;
+        }
+        .stat-approved { background: #dcfce7; color: #16a34a; }
+        .stat-rejected { background: #fee2e2; color: #dc2626; }
+        .stat-unreviewed { background: #f3f4f6; color: #6b7280; }
+        .stat-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .stat-approved .stat-dot { background: #22c55e; }
+        .stat-rejected .stat-dot { background: #ef4444; }
+        .stat-unreviewed .stat-dot { background: #9ca3af; }
+
+        /* PostPlanner XLSX button */
+        .btn-csv { background: #7c3aed; color: white; }
+        .btn-csv:hover { background: #6d28d9; }
+        .btn-csv:disabled { background: #c4b5fd; cursor: not-allowed; }
+
+        /* Schedule settings panel */
+        .schedule-panel {
+            display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            background: white; border-radius: 12px; padding: 30px; z-index: 1000;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3); width: 500px; max-width: 90vw; max-height: 80vh; overflow-y: auto;
+        }
+        .schedule-panel.show { display: block; }
+        .schedule-overlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 999; }
+        .schedule-overlay.show { display: block; }
+        .schedule-panel h3 { color: #1a1a2e; margin-bottom: 20px; font-size: 18px; }
+        .schedule-section { margin-bottom: 20px; }
+        .schedule-section label { display: block; font-size: 13px; font-weight: 600; color: #555; margin-bottom: 6px; }
+        .schedule-section input { width: 100%; padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        .schedule-section input:focus { outline: none; border-color: #7c3aed; }
+        .time-slots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+        .time-slot {
+            display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+            background: #f3f0ff; border: 1px solid #c4b5fd; border-radius: 20px; font-size: 13px;
+        }
+        .time-slot .remove-slot { cursor: pointer; color: #999; font-weight: bold; }
+        .time-slot .remove-slot:hover { color: #ef4444; }
+        .add-slot-btn {
+            padding: 6px 14px; background: #f3f0ff; border: 1px dashed #7c3aed; border-radius: 20px;
+            cursor: pointer; font-size: 13px; color: #7c3aed;
+        }
+        .add-slot-btn:hover { background: #ede9fe; }
+        .schedule-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
+
+        /* Photo search links for image concepts */
+        .photo-section {
+            margin-bottom: 15px; padding: 12px; background: #f0f9ff;
+            border: 1px solid #bae6fd; border-radius: 6px;
+        }
+        .photo-section-title {
+            font-size: 12px; font-weight: 700; color: #0369a1; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 8px;
+        }
+        .photo-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .photo-link {
+            display: inline-block; padding: 6px 12px; background: #0ea5e9;
+            color: white; border-radius: 4px; font-size: 12px; font-weight: 500;
+            text-decoration: none; transition: all 0.2s ease; cursor: pointer;
+        }
+        .photo-link:hover { background: #0284c7; }
+
+        /* Image URL input and preview for image concepts */
+        .image-url-section {
+            margin-bottom: 15px; padding: 12px; background: #f0fdf4;
+            border: 1px solid #bbf7d0; border-radius: 6px;
+        }
+        .image-url-section label {
+            display: block; font-size: 12px; font-weight: 700; color: #166534;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+        }
+        .image-url-input {
+            width: 100%; padding: 8px 10px; border: 1px solid #86efac;
+            border-radius: 4px; font-size: 13px; font-family: monospace;
+            background: white; box-sizing: border-box;
+        }
+        .image-url-input:focus { outline: none; border-color: #22c55e; box-shadow: 0 0 0 2px rgba(34,197,94,0.2); }
+        .image-url-hint {
+            font-size: 11px; color: #6b7280; margin-top: 4px;
+        }
+        .image-preview {
+            margin-top: 8px; text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%; max-height: 200px; border-radius: 4px;
+            border: 1px solid #d1d5db; display: none;
+        }
+        .image-preview img.loaded { display: inline-block; }
+
+        /* Image production status badges */
+        .image-badge {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-left: 6px;
+        }
+        .image-exported { background: #dcfce7; color: #166534; }
+        .image-in-progress { background: #fef3c7; color: #92400e; }
+        .image-not-started { background: #f3f4f6; color: #6b7280; }
+
+        /* Text overlay preview for image concepts */
+        .overlay-section {
+            margin-bottom: 15px; padding: 15px; background: #1a1a2e;
+            border-radius: 6px; text-align: center;
+        }
+        .overlay-line {
+            font-family: 'Bebas Neue', Impact, 'Arial Black', sans-serif;
+            color: #ffd700; font-size: 18px; font-weight: 700; line-height: 1.4;
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+        .overlay-line.sub { color: #ffffff; font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+        /* Article content rendered as HTML */
+        .article-frame {
+            width: 100%; border: 1px solid #ddd; border-radius: 6px;
+            background: white; min-height: 300px;
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; height: auto; position: relative; padding: 20px; }
+            .main-content { margin-left: 0; }
+            .content { padding: 20px; }
+            .header { padding: 15px 20px; }
+            .header h1 { font-size: 20px; }
+            .filter-bar { padding: 15px 20px; }
+            .header-meta { flex-direction: column; align-items: stretch; }
+            .progress-bar { min-width: auto; }
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h1>COS Parenting</h1>
+        <div class="sidebar-date">Review Dashboard<br>2026-04-16</div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Content Types</div>
+            <div class="nav-item" onclick="filterByType('daily_brief')">
+                Daily Brief
+                <span class="nav-item-count">5</span>
+            </div>
+            <div class="nav-item" onclick="filterByType('article')">
+                Articles
+                <span class="nav-item-count">5</span>
+            </div>
+
+            <div class="nav-item" onclick="filterByType('all')">
+                All Items
+                <span class="nav-item-count">10</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Status Filter</div>
+            <div class="nav-item" onclick="filterByStatus('all')">All</div>
+            <div class="nav-item" onclick="filterByStatus('unreviewed')">Unreviewed</div>
+            <div class="nav-item" onclick="filterByStatus('approved')">Approved</div>
+            <div class="nav-item" onclick="filterByStatus('needs-edit')">Needs Edit</div>
+            <div class="nav-item" onclick="filterByStatus('rejected')">Rejected</div>
+        </div>
+
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Actions</div>
+            <div class="nav-item" onclick="approveAll()" style="color: #22c55e;">
+                Approve All
+            </div>
+            <div class="nav-item" onclick="exportApprovals()" style="color: #FF8A00;">
+                Export Results JSON
+            </div>
+            <div class="nav-item" onclick="downloadPostPlannerCSV()" style="color: #a78bfa;">
+                PostPlanner Upload
+            </div>
+            <div class="nav-item" onclick="downloadTOBIExport()" style="color: #f472b6;">
+                TOBI Upload
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>COS Parenting — Content Review Dashboard</h1>
+            <div class="header-meta">
+                <div class="progress-bar">
+                    <div class="progress-label">
+                        <span id="reviewed-count">0</span> of <span id="total-count">10</span> items reviewed
+                    </div>
+                    <div class="progress-container">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                    <div class="approval-stats" id="approval-stats">
+                        <span class="stat-chip stat-approved"><span class="stat-dot"></span> <span id="stat-approved-count">0</span> approved</span>
+                        <span class="stat-chip stat-rejected"><span class="stat-dot"></span> <span id="stat-rejected-count">0</span> rejected</span>
+                        <span class="stat-chip stat-unreviewed"><span class="stat-dot"></span> <span id="stat-unreviewed-count">0</span> unreviewed</span>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="resetAll()">Reset All</button>
+                    <button class="btn btn-csv" id="btn-csv" onclick="downloadPostPlannerCSV()" disabled>PostPlanner Upload (0 approved)</button>
+                    <button class="btn btn-csv" id="btn-tobi" onclick="downloadTOBIExport()" disabled style="background: #831843; border-color: #f472b6;">TOBI Upload (0 approved)</button>
+                    <button class="btn btn-primary" onclick="exportApprovals()">Export JSON</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All</button>
+            <button class="filter-btn" onclick="filterByStatus('unreviewed')">Unreviewed</button>
+            <button class="filter-btn" onclick="filterByStatus('approved')">Approved</button>
+            <button class="filter-btn" onclick="filterByStatus('needs-edit')">Needs Edit</button>
+            <button class="filter-btn" onclick="filterByStatus('rejected')">Rejected</button>
+        </div>
+
+
+        <div class="content">
+            <div class="cards-container" id="cards-container">
+                <div class="card" data-id="story-1-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Free CSDB Early Literacy Event at Bear Creek — Tomorrow, April 17</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-1-daily_brief">
+                        <div class="card-content-text">Free CSDB Early Literacy Event at Bear Creek — Tomorrow, April 17</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-1-daily_brief" placeholder="Edit content here...">Free CSDB Early Literacy Event at Bear Creek — Tomorrow, April 17</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-1-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-1-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-1-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-1-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-1-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-1-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-1-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-1-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-1-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-1-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-1-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-2-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">CPSC Recalls Goregent Infant Walkers Over Fall Hazard — Sold on Amazon</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-2-daily_brief">
+                        <div class="card-content-text">CPSC Recalls Goregent Infant Walkers Over Fall Hazard — Sold on Amazon</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-2-daily_brief" placeholder="Edit content here...">CPSC Recalls Goregent Infant Walkers Over Fall Hazard — Sold on Amazon</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-2-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-2-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-2-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-2-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-2-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-2-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-2-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-2-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-2-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-2-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-2-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-3-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Colorado Lawmakers Protect School Funding in 2026-27 Budget</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-3-daily_brief">
+                        <div class="card-content-text">Colorado Lawmakers Protect School Funding in 2026-27 Budget</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-3-daily_brief" placeholder="Edit content here...">Colorado Lawmakers Protect School Funding in 2026-27 Budget</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-3-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-3-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-3-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-3-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-3-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-3-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-3-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-3-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-3-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-3-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-3-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-4-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">AAP Says Start HPV Vaccination at Age 9 — What COS Families Should Know</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-4-daily_brief">
+                        <div class="card-content-text">AAP Says Start HPV Vaccination at Age 9 — What COS Families Should Know</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-4-daily_brief" placeholder="Edit content here...">AAP Says Start HPV Vaccination at Age 9 — What COS Families Should Know</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-4-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-4-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-4-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-4-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-4-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-4-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-4-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-4-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-4-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-4-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-4-daily_brief"></div>
+                </div>
+                <div class="card" data-id="story-5-daily_brief" data-type="daily_brief" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">D11 Budget Season — Cutting Admin, Boosting Classroom Support</div>
+                        <div><span class="fact-check-badge fact-check-unverified" title="No fact-check log found — content not verified">NOT VERIFIED</span><span class="card-badge badge-brief">BRIEF</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-story-5-daily_brief">
+                        <div class="card-content-text">D11 Budget Season — Cutting Admin, Boosting Classroom Support</div>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-story-5-daily_brief" placeholder="Edit content here...">D11 Budget Season — Cutting Admin, Boosting Classroom Support</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-story-5-daily_brief">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('story-5-daily_brief')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('story-5-daily_brief')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-story-5-daily_brief">
+                        <button class="action-btn btn-approve" onclick="approveCard('story-5-daily_brief')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('story-5-daily_brief')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('story-5-daily_brief')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('story-5-daily_brief')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-story-5-daily_brief">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-story-5-daily_brief" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-story-5-daily_brief"></div>
+                </div>
+                <div class="card" data-id="article-article-01-csdb-early-literacy-bear-creek-april-2026" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Free CSDB Early Literacy Event at Bear Creek — Friday, April 17</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-01-csdb-early-literacy-bear-creek-april-2026">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+  <meta charset=&quot;UTF-8&quot;>
+  <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+  <title>Free CSDB Early Literacy Event at Bear Creek — April 17 | COS Parenting</title>
+  <meta name=&quot;description&quot; content=&quot;The Colorado School for the Deaf and the Blind is hosting a free Early Literacy Event at Bear Creek Nature Center on April 17 for families with deaf and hard-of-hearing children, birth to age 8.&quot;>
+</head>
+<body>
+
+<article>
+
+<header>
+  <h1>Free CSDB Early Literacy Event at Bear Creek — Friday, April 17</h1>
+  <p class=&quot;byline&quot;>By Jenna Park | COS Parenting | April 16, 2026</p>
+</header>
+
+<section>
+  <p>The Colorado School for the Deaf and the Blind is hosting a free Early Literacy Event this Friday, April 17, at Bear Creek Nature Center in Colorado Springs. The event runs from 1:30 to 3:00 PM and is designed for families with deaf and hard-of-hearing children from birth to age 8.</p>
+
+  <p>Registration is required and spots are limited. Families can sign up by emailing outreach@csdb.org.</p>
+</section>
+
+<section>
+  <h2>What to Expect at the Event</h2>
+  <p>The afternoon is built around three core activities: an American Sign Language book reading, a wildlife learning session, and a short nature walk through the Bear Creek area. An ASL interpreter will be on site throughout the event.</p>
+
+  <p>Beyond the structured activities, the event is designed as a gathering space. Families will have the opportunity to connect with other parents raising deaf and hard-of-hearing children, and to meet deaf and hard-of-hearing adults in the Colorado Springs community. That kind of peer connection can be meaningful for both children and caregivers navigating communication and education decisions early in a child's life.</p>
+
+  <p>The event is a collaboration between CSDB and El Paso County Parks, which manages the Bear Creek Nature Center. Admission is free.</p>
+</section>
+
+<section>
+  <h2>Why Early Literacy Matters for Deaf and Hard-of-Hearing Children</h2>
+  <p>Research consistently shows that early language exposure — whether spoken, signed, or both — is critical for literacy development. For deaf and hard-of-hearing children, access to rich language environments in the first years of life shapes long-term reading, communication, and learning outcomes.</p>
+
+  <p>Events like this one give families tools and community support at the moment they're most useful: during the birth-to-8 window when the foundations for literacy are being built. The combination of ASL storytelling, nature-based learning, and adult community connection offers a practical and low-barrier entry point for families who may be early in their journey.</p>
+</section>
+
+<section>
+  <h2>About CSDB</h2>
+  <p>The Colorado School for the Deaf and the Blind is a Colorado state agency that provides educational services to students who are deaf, hard of hearing, blind, or visually impaired. CSDB's outreach programs extend beyond its campus in Colorado Springs to serve families across the region, including through community events like this one.</p>
+</section>
+
+<section>
+  <h2>Quick Reference</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Detail</th>
+        <th>Info</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Date</td>
+        <td>Friday, April 17, 2026</td>
+      </tr>
+      <tr>
+        <td>Time</td>
+        <td>1:30–3:00 PM MT</td>
+      </tr>
+      <tr>
+        <td>Location</td>
+        <td>Bear Creek Nature Center, Colorado Springs</td>
+      </tr>
+      <tr>
+        <td>Who It's For</td>
+        <td>Families with deaf/hard-of-hearing children, birth to age 8</td>
+      </tr>
+      <tr>
+        <td>Cost</td>
+        <td>Free</td>
+      </tr>
+      <tr>
+        <td>ASL Interpreter</td>
+        <td>Provided</td>
+      </tr>
+      <tr>
+        <td>Register</td>
+        <td>outreach@csdb.org</td>
+      </tr>
+      <tr>
+        <td>Organizers</td>
+        <td>CSDB + El Paso County Parks</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <h2>What's Next</h2>
+  <p>If this event is a fit for your family, email outreach@csdb.org to register before Friday. Space is limited, so earlier is better. If you miss this event, CSDB's outreach team can be a resource for learning about future community programming for families with deaf and hard-of-hearing children in Colorado Springs.</p>
+</section>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-01-csdb-early-literacy-bear-creek-april-2026" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+  &lt;title&gt;Free CSDB Early Literacy Event at Bear Creek — April 17 | COS Parenting&lt;/title&gt;
+  &lt;meta name=&quot;description&quot; content=&quot;The Colorado School for the Deaf and the Blind is hosting a free Early Literacy Event at Bear Creek Nature Center on April 17 for families with deaf and hard-of-hearing children, birth to age 8.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+
+&lt;header&gt;
+  &lt;h1&gt;Free CSDB Early Literacy Event at Bear Creek — Friday, April 17&lt;/h1&gt;
+  &lt;p class=&quot;byline&quot;&gt;By Jenna Park | COS Parenting | April 16, 2026&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+  &lt;p&gt;The Colorado School for the Deaf and the Blind is hosting a free Early Literacy Event this Friday, April 17, at Bear Creek Nature Center in Colorado Springs. The event runs from 1:30 to 3:00 PM and is designed for families with deaf and hard-of-hearing children from birth to age 8.&lt;/p&gt;
+
+  &lt;p&gt;Registration is required and spots are limited. Families can sign up by emailing outreach@csdb.org.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What to Expect at the Event&lt;/h2&gt;
+  &lt;p&gt;The afternoon is built around three core activities: an American Sign Language book reading, a wildlife learning session, and a short nature walk through the Bear Creek area. An ASL interpreter will be on site throughout the event.&lt;/p&gt;
+
+  &lt;p&gt;Beyond the structured activities, the event is designed as a gathering space. Families will have the opportunity to connect with other parents raising deaf and hard-of-hearing children, and to meet deaf and hard-of-hearing adults in the Colorado Springs community. That kind of peer connection can be meaningful for both children and caregivers navigating communication and education decisions early in a child&#x27;s life.&lt;/p&gt;
+
+  &lt;p&gt;The event is a collaboration between CSDB and El Paso County Parks, which manages the Bear Creek Nature Center. Admission is free.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Why Early Literacy Matters for Deaf and Hard-of-Hearing Children&lt;/h2&gt;
+  &lt;p&gt;Research consistently shows that early language exposure — whether spoken, signed, or both — is critical for literacy development. For deaf and hard-of-hearing children, access to rich language environments in the first years of life shapes long-term reading, communication, and learning outcomes.&lt;/p&gt;
+
+  &lt;p&gt;Events like this one give families tools and community support at the moment they&#x27;re most useful: during the birth-to-8 window when the foundations for literacy are being built. The combination of ASL storytelling, nature-based learning, and adult community connection offers a practical and low-barrier entry point for families who may be early in their journey.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;About CSDB&lt;/h2&gt;
+  &lt;p&gt;The Colorado School for the Deaf and the Blind is a Colorado state agency that provides educational services to students who are deaf, hard of hearing, blind, or visually impaired. CSDB&#x27;s outreach programs extend beyond its campus in Colorado Springs to serve families across the region, including through community events like this one.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Quick Reference&lt;/h2&gt;
+  &lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Detail&lt;/th&gt;
+        &lt;th&gt;Info&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Date&lt;/td&gt;
+        &lt;td&gt;Friday, April 17, 2026&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Time&lt;/td&gt;
+        &lt;td&gt;1:30–3:00 PM MT&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Location&lt;/td&gt;
+        &lt;td&gt;Bear Creek Nature Center, Colorado Springs&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Who It&#x27;s For&lt;/td&gt;
+        &lt;td&gt;Families with deaf/hard-of-hearing children, birth to age 8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Cost&lt;/td&gt;
+        &lt;td&gt;Free&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;ASL Interpreter&lt;/td&gt;
+        &lt;td&gt;Provided&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Register&lt;/td&gt;
+        &lt;td&gt;outreach@csdb.org&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Organizers&lt;/td&gt;
+        &lt;td&gt;CSDB + El Paso County Parks&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+  &lt;p&gt;If this event is a fit for your family, email outreach@csdb.org to register before Friday. Space is limited, so earlier is better. If you miss this event, CSDB&#x27;s outreach team can be a resource for learning about future community programming for families with deaf and hard-of-hearing children in Colorado Springs.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-01-csdb-early-literacy-bear-creek-april-2026">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-01-csdb-early-literacy-bear-creek-april-2026')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-01-csdb-early-literacy-bear-creek-april-2026')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-01-csdb-early-literacy-bear-creek-april-2026">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-01-csdb-early-literacy-bear-creek-april-2026')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-01-csdb-early-literacy-bear-creek-april-2026')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-01-csdb-early-literacy-bear-creek-april-2026')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-01-csdb-early-literacy-bear-creek-april-2026')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-01-csdb-early-literacy-bear-creek-april-2026">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-01-csdb-early-literacy-bear-creek-april-2026" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-01-csdb-early-literacy-bear-creek-april-2026"></div>
+                </div>
+                <div class="card" data-id="article-article-02-goregent-infant-walker-recall-cpsc-2026" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">CPSC Recalls Goregent Infant Walkers Sold on Amazon — Stop Use Immediately</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-02-goregent-infant-walker-recall-cpsc-2026">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+  <meta charset=&quot;UTF-8&quot;>
+  <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+  <title>CPSC Recalls Goregent Infant Walkers Over Fall Hazard | COS Parenting</title>
+  <meta name=&quot;description&quot; content=&quot;The CPSC has recalled approximately 90 Goregent infant walkers sold on Amazon in January 2026. The walker can fit through doorways and won't stop at a step edge, posing a fall risk to infants.&quot;>
+</head>
+<body>
+
+<article>
+
+<header>
+  <h1>CPSC Recalls Goregent Infant Walkers Sold on Amazon — Stop Use Immediately</h1>
+  <p class=&quot;byline&quot;>By Sofia Reyes | COS Parenting | April 16, 2026</p>
+</header>
+
+<section>
+  <p>The U.S. Consumer Product Safety Commission issued a recall on March 19, 2026, for approximately 90 Goregent infant walkers sold on Amazon. If you purchased one of these walkers in January 2026 for around $90, stop using it now and follow the refund process outlined by the CPSC.</p>
+
+  <p>No injuries have been reported, but the commission is urging immediate action because of a significant fall hazard.</p>
+</section>
+
+<section>
+  <h2>What's the Hazard</h2>
+  <p>The Goregent infant walker is narrow enough to fit through standard doorways and does not have a stopping mechanism that activates at the edge of a step. This means an infant in the walker can reach a staircase or step and continue forward, creating a serious fall and injury risk.</p>
+
+  <p>Infant walkers have a long-documented safety history with the CPSC. Fall-related injuries involving walkers have led to hundreds of hospitalizations over the years, which is why the commission closely monitors products that don't meet current safety standards.</p>
+</section>
+
+<section>
+  <h2>How to Identify the Recalled Walker</h2>
+  <p>The recalled Goregent infant walker has the following characteristics:</p>
+  <ul>
+    <li>Green plastic frame</li>
+    <li>Fabric seat with animal-print pattern</li>
+    <li>Activity tray with lights and music</li>
+    <li>Round base with six wheels</li>
+  </ul>
+
+  <p>These walkers were sold exclusively through the Goregent Official Store on Amazon.com during January 2026 at a price of approximately $90. If you're unsure whether you purchased this item, check your Amazon order history for January 2026.</p>
+</section>
+
+<section>
+  <h2>How to Get a Full Refund</h2>
+  <p>The CPSC has outlined a specific process for the refund. Consumers should:</p>
+  <ol>
+    <li>Stop using the walker immediately.</li>
+    <li>Disassemble the walker.</li>
+    <li>Write &quot;Recalled&quot; on the product.</li>
+    <li>Email GoregentInfantWalkersRecall@outlook.com with purchase information to initiate the refund.</li>
+  </ol>
+
+  <p>The CPSC has published the recall at cpsc.gov, where the official notice includes full product details and contact information.</p>
+</section>
+
+<section>
+  <h2>A Note on Infant Walkers Generally</h2>
+  <p>The American Academy of Pediatrics has discouraged the use of wheeled infant walkers for years, citing fall risks — particularly on stairs — as well as the risk that walkers can delay standing and walking development in some infants. If you're considering an alternative, stationary activity centers offer similar engagement without the mobility risk.</p>
+
+  <p>This recall is specific to the Goregent brand and the approximately 90 units sold in January 2026. It is a separate recall from other infant walker recalls that have occurred in recent years.</p>
+</section>
+
+<section>
+  <h2>Quick Reference</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Detail</th>
+        <th>Info</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Recall Date</td>
+        <td>March 19, 2026</td>
+      </tr>
+      <tr>
+        <td>Units Recalled</td>
+        <td>~90</td>
+      </tr>
+      <tr>
+        <td>Hazard</td>
+        <td>Fits through doorways; won't stop at step edge</td>
+      </tr>
+      <tr>
+        <td>Product Description</td>
+        <td>Green plastic walker, animal-print fabric seat, activity tray, lights/music, round base, 6 wheels</td>
+      </tr>
+      <tr>
+        <td>Where Sold</td>
+        <td>Amazon.com — Goregent Official Store</td>
+      </tr>
+      <tr>
+        <td>Sale Period</td>
+        <td>January 2026</td>
+      </tr>
+      <tr>
+        <td>Price</td>
+        <td>~$90</td>
+      </tr>
+      <tr>
+        <td>Injuries Reported</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td>Refund Contact</td>
+        <td>GoregentInfantWalkersRecall@outlook.com</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <h2>What's Next</h2>
+  <p>If you have this walker, stop use immediately and follow the refund steps above. The CPSC's official recall notice is available at cpsc.gov for full details. If you're a family member, caregiver, or friend who may have gifted this product, pass along this notice. Given the limited sales window, it's a small and specific group of consumers affected — sharing this information directly is the most effective way to reach them.</p>
+</section>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-02-goregent-infant-walker-recall-cpsc-2026" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+  &lt;title&gt;CPSC Recalls Goregent Infant Walkers Over Fall Hazard | COS Parenting&lt;/title&gt;
+  &lt;meta name=&quot;description&quot; content=&quot;The CPSC has recalled approximately 90 Goregent infant walkers sold on Amazon in January 2026. The walker can fit through doorways and won&#x27;t stop at a step edge, posing a fall risk to infants.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+
+&lt;header&gt;
+  &lt;h1&gt;CPSC Recalls Goregent Infant Walkers Sold on Amazon — Stop Use Immediately&lt;/h1&gt;
+  &lt;p class=&quot;byline&quot;&gt;By Sofia Reyes | COS Parenting | April 16, 2026&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+  &lt;p&gt;The U.S. Consumer Product Safety Commission issued a recall on March 19, 2026, for approximately 90 Goregent infant walkers sold on Amazon. If you purchased one of these walkers in January 2026 for around $90, stop using it now and follow the refund process outlined by the CPSC.&lt;/p&gt;
+
+  &lt;p&gt;No injuries have been reported, but the commission is urging immediate action because of a significant fall hazard.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What&#x27;s the Hazard&lt;/h2&gt;
+  &lt;p&gt;The Goregent infant walker is narrow enough to fit through standard doorways and does not have a stopping mechanism that activates at the edge of a step. This means an infant in the walker can reach a staircase or step and continue forward, creating a serious fall and injury risk.&lt;/p&gt;
+
+  &lt;p&gt;Infant walkers have a long-documented safety history with the CPSC. Fall-related injuries involving walkers have led to hundreds of hospitalizations over the years, which is why the commission closely monitors products that don&#x27;t meet current safety standards.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;How to Identify the Recalled Walker&lt;/h2&gt;
+  &lt;p&gt;The recalled Goregent infant walker has the following characteristics:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Green plastic frame&lt;/li&gt;
+    &lt;li&gt;Fabric seat with animal-print pattern&lt;/li&gt;
+    &lt;li&gt;Activity tray with lights and music&lt;/li&gt;
+    &lt;li&gt;Round base with six wheels&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;These walkers were sold exclusively through the Goregent Official Store on Amazon.com during January 2026 at a price of approximately $90. If you&#x27;re unsure whether you purchased this item, check your Amazon order history for January 2026.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;How to Get a Full Refund&lt;/h2&gt;
+  &lt;p&gt;The CPSC has outlined a specific process for the refund. Consumers should:&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Stop using the walker immediately.&lt;/li&gt;
+    &lt;li&gt;Disassemble the walker.&lt;/li&gt;
+    &lt;li&gt;Write &quot;Recalled&quot; on the product.&lt;/li&gt;
+    &lt;li&gt;Email GoregentInfantWalkersRecall@outlook.com with purchase information to initiate the refund.&lt;/li&gt;
+  &lt;/ol&gt;
+
+  &lt;p&gt;The CPSC has published the recall at cpsc.gov, where the official notice includes full product details and contact information.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;A Note on Infant Walkers Generally&lt;/h2&gt;
+  &lt;p&gt;The American Academy of Pediatrics has discouraged the use of wheeled infant walkers for years, citing fall risks — particularly on stairs — as well as the risk that walkers can delay standing and walking development in some infants. If you&#x27;re considering an alternative, stationary activity centers offer similar engagement without the mobility risk.&lt;/p&gt;
+
+  &lt;p&gt;This recall is specific to the Goregent brand and the approximately 90 units sold in January 2026. It is a separate recall from other infant walker recalls that have occurred in recent years.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Quick Reference&lt;/h2&gt;
+  &lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Detail&lt;/th&gt;
+        &lt;th&gt;Info&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Recall Date&lt;/td&gt;
+        &lt;td&gt;March 19, 2026&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Units Recalled&lt;/td&gt;
+        &lt;td&gt;~90&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Hazard&lt;/td&gt;
+        &lt;td&gt;Fits through doorways; won&#x27;t stop at step edge&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Product Description&lt;/td&gt;
+        &lt;td&gt;Green plastic walker, animal-print fabric seat, activity tray, lights/music, round base, 6 wheels&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Where Sold&lt;/td&gt;
+        &lt;td&gt;Amazon.com — Goregent Official Store&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Sale Period&lt;/td&gt;
+        &lt;td&gt;January 2026&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Price&lt;/td&gt;
+        &lt;td&gt;~$90&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Injuries Reported&lt;/td&gt;
+        &lt;td&gt;None&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Refund Contact&lt;/td&gt;
+        &lt;td&gt;GoregentInfantWalkersRecall@outlook.com&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+  &lt;p&gt;If you have this walker, stop use immediately and follow the refund steps above. The CPSC&#x27;s official recall notice is available at cpsc.gov for full details. If you&#x27;re a family member, caregiver, or friend who may have gifted this product, pass along this notice. Given the limited sales window, it&#x27;s a small and specific group of consumers affected — sharing this information directly is the most effective way to reach them.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-02-goregent-infant-walker-recall-cpsc-2026">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-02-goregent-infant-walker-recall-cpsc-2026')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-02-goregent-infant-walker-recall-cpsc-2026')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-02-goregent-infant-walker-recall-cpsc-2026">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-02-goregent-infant-walker-recall-cpsc-2026')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-02-goregent-infant-walker-recall-cpsc-2026')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-02-goregent-infant-walker-recall-cpsc-2026')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-02-goregent-infant-walker-recall-cpsc-2026')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-02-goregent-infant-walker-recall-cpsc-2026">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-02-goregent-infant-walker-recall-cpsc-2026" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-02-goregent-infant-walker-recall-cpsc-2026"></div>
+                </div>
+                <div class="card" data-id="article-article-03-colorado-education-budget-2026-27-school-funding" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">Colorado Lawmakers Protect School Funding in the 2026-27 Budget</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-03-colorado-education-budget-2026-27-school-funding">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+  <meta charset=&quot;UTF-8&quot;>
+  <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+  <title>Colorado Lawmakers Protect School Funding in 2026-27 Budget | COS Parenting</title>
+  <meta name=&quot;description&quot; content=&quot;Colorado's 2026-27 state budget proposal shields education from major cuts despite a broader revenue shortfall — good news for D11, D20, and D49 families in Colorado Springs.&quot;>
+</head>
+<body>
+
+<article>
+
+<header>
+  <h1>Colorado Lawmakers Protect School Funding in the 2026-27 Budget</h1>
+  <p class=&quot;byline&quot;>By Keisha Williams | COS Parenting | April 16, 2026</p>
+</header>
+
+<section>
+  <p>Colorado lawmakers released the 2026-27 state budget proposal in early April, and despite a statewide revenue shortfall, education funding was largely protected from major cuts. The proposal now heads to the Governor for signature, and its passage would mean stable school funding for Colorado Springs families heading into next school year.</p>
+</section>
+
+<section>
+  <h2>What Was at Stake</h2>
+  <p>Colorado's state budget funds public education through a formula that distributes dollars to districts based on enrollment and other factors. When state revenues fall short of projections — as happened with the 2026-27 planning cycle — lawmakers face pressure to cut spending across agencies. Education, as one of the largest line items in the state budget, is often a focus of those discussions.</p>
+
+  <p>ChalkBeat Colorado reported on April 6 that the budget proposal avoids major education cuts. CPR News confirmed the same picture on April 7, noting that the budget addresses a broader state revenue shortfall without imposing significant reductions on school funding.</p>
+</section>
+
+<section>
+  <h2>What It Means for Colorado Springs Families</h2>
+  <p>For families in D11, D20, and D49 — the three main school districts serving Colorado Springs — state funding stability means local district budgets are less likely to face sudden gaps. Colorado's school finance formula ties district funding levels directly to state appropriations, so what happens in Denver affects classrooms here.</p>
+
+  <p>This doesn't mean district budgets are settled. Local factors, including enrollment trends, federal funding, and individual district priorities, still shape how resources are allocated at the school level. But a state budget that holds education funding steady removes a significant variable from the equation.</p>
+</section>
+
+<section>
+  <h2>The Broader Budget Picture</h2>
+  <p>Colorado is managing a revenue shortfall, which means other parts of the state budget face tighter constraints. Education's relatively protected status in the 2026-27 proposal reflects a bipartisan political consensus in Colorado around K-12 funding, as well as advocacy from districts and education organizations during the budget process.</p>
+
+  <p>The proposal must be signed by the Governor before it takes effect. Once signed, it sets the fiscal framework that local districts use to build their own 2026-27 budgets.</p>
+</section>
+
+<section>
+  <h2>Quick Reference</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Detail</th>
+        <th>Info</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Budget Year</td>
+        <td>2026-27 fiscal year</td>
+      </tr>
+      <tr>
+        <td>Budget Release</td>
+        <td>Early April 2026</td>
+      </tr>
+      <tr>
+        <td>Education Funding</td>
+        <td>Largely protected despite state revenue shortfall</td>
+      </tr>
+      <tr>
+        <td>Next Step</td>
+        <td>Governor signature</td>
+      </tr>
+      <tr>
+        <td>Affected COS Districts</td>
+        <td>D11, D20, D49</td>
+      </tr>
+      <tr>
+        <td>Sources</td>
+        <td>ChalkBeat Colorado (April 6); CPR News (April 7)</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <h2>What's Next</h2>
+  <p>The 2026-27 budget proposal is now awaiting the Governor's signature. Once that happens, Colorado Springs school districts will use the confirmed state funding figures to finalize their own local budgets for next year. COS Parenting will continue tracking how state budget decisions translate into district-level impacts for D11, D20, and D49 families.</p>
+</section>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-03-colorado-education-budget-2026-27-school-funding" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+  &lt;title&gt;Colorado Lawmakers Protect School Funding in 2026-27 Budget | COS Parenting&lt;/title&gt;
+  &lt;meta name=&quot;description&quot; content=&quot;Colorado&#x27;s 2026-27 state budget proposal shields education from major cuts despite a broader revenue shortfall — good news for D11, D20, and D49 families in Colorado Springs.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+
+&lt;header&gt;
+  &lt;h1&gt;Colorado Lawmakers Protect School Funding in the 2026-27 Budget&lt;/h1&gt;
+  &lt;p class=&quot;byline&quot;&gt;By Keisha Williams | COS Parenting | April 16, 2026&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+  &lt;p&gt;Colorado lawmakers released the 2026-27 state budget proposal in early April, and despite a statewide revenue shortfall, education funding was largely protected from major cuts. The proposal now heads to the Governor for signature, and its passage would mean stable school funding for Colorado Springs families heading into next school year.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What Was at Stake&lt;/h2&gt;
+  &lt;p&gt;Colorado&#x27;s state budget funds public education through a formula that distributes dollars to districts based on enrollment and other factors. When state revenues fall short of projections — as happened with the 2026-27 planning cycle — lawmakers face pressure to cut spending across agencies. Education, as one of the largest line items in the state budget, is often a focus of those discussions.&lt;/p&gt;
+
+  &lt;p&gt;ChalkBeat Colorado reported on April 6 that the budget proposal avoids major education cuts. CPR News confirmed the same picture on April 7, noting that the budget addresses a broader state revenue shortfall without imposing significant reductions on school funding.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What It Means for Colorado Springs Families&lt;/h2&gt;
+  &lt;p&gt;For families in D11, D20, and D49 — the three main school districts serving Colorado Springs — state funding stability means local district budgets are less likely to face sudden gaps. Colorado&#x27;s school finance formula ties district funding levels directly to state appropriations, so what happens in Denver affects classrooms here.&lt;/p&gt;
+
+  &lt;p&gt;This doesn&#x27;t mean district budgets are settled. Local factors, including enrollment trends, federal funding, and individual district priorities, still shape how resources are allocated at the school level. But a state budget that holds education funding steady removes a significant variable from the equation.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;The Broader Budget Picture&lt;/h2&gt;
+  &lt;p&gt;Colorado is managing a revenue shortfall, which means other parts of the state budget face tighter constraints. Education&#x27;s relatively protected status in the 2026-27 proposal reflects a bipartisan political consensus in Colorado around K-12 funding, as well as advocacy from districts and education organizations during the budget process.&lt;/p&gt;
+
+  &lt;p&gt;The proposal must be signed by the Governor before it takes effect. Once signed, it sets the fiscal framework that local districts use to build their own 2026-27 budgets.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Quick Reference&lt;/h2&gt;
+  &lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Detail&lt;/th&gt;
+        &lt;th&gt;Info&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Budget Year&lt;/td&gt;
+        &lt;td&gt;2026-27 fiscal year&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Budget Release&lt;/td&gt;
+        &lt;td&gt;Early April 2026&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Education Funding&lt;/td&gt;
+        &lt;td&gt;Largely protected despite state revenue shortfall&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Next Step&lt;/td&gt;
+        &lt;td&gt;Governor signature&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Affected COS Districts&lt;/td&gt;
+        &lt;td&gt;D11, D20, D49&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Sources&lt;/td&gt;
+        &lt;td&gt;ChalkBeat Colorado (April 6); CPR News (April 7)&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+  &lt;p&gt;The 2026-27 budget proposal is now awaiting the Governor&#x27;s signature. Once that happens, Colorado Springs school districts will use the confirmed state funding figures to finalize their own local budgets for next year. COS Parenting will continue tracking how state budget decisions translate into district-level impacts for D11, D20, and D49 families.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-03-colorado-education-budget-2026-27-school-funding">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-03-colorado-education-budget-2026-27-school-funding')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-03-colorado-education-budget-2026-27-school-funding')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-03-colorado-education-budget-2026-27-school-funding">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-03-colorado-education-budget-2026-27-school-funding')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-03-colorado-education-budget-2026-27-school-funding')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-03-colorado-education-budget-2026-27-school-funding')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-03-colorado-education-budget-2026-27-school-funding')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-03-colorado-education-budget-2026-27-school-funding">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-03-colorado-education-budget-2026-27-school-funding" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-03-colorado-education-budget-2026-27-school-funding"></div>
+                </div>
+                <div class="card" data-id="article-article-04-aap-hpv-vaccination-age-9-recommendation-2026" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">The AAP Wants Kids to Start HPV Vaccination at Age 9 — Here&#x27;s What Families Should Know</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-04-aap-hpv-vaccination-age-9-recommendation-2026">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+  <meta charset=&quot;UTF-8&quot;>
+  <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+  <title>The AAP Wants Kids to Start HPV Vaccination at Age 9 — Here's Why | COS Parenting</title>
+  <meta name=&quot;description&quot; content=&quot;The American Academy of Pediatrics published a new blog post recommending that pediatricians offer the HPV vaccine starting at age 9, earlier than CDC guidance. Here's what Colorado Springs families should know.&quot;>
+</head>
+<body>
+
+<article>
+
+<header>
+  <h1>The AAP Wants Kids to Start HPV Vaccination at Age 9 — Here's What Families Should Know</h1>
+  <p class=&quot;byline&quot;>By Marta Kim | COS Parenting | April 16, 2026</p>
+</header>
+
+<section>
+  <p>The American Academy of Pediatrics published a blog post on April 7, 2026, titled &quot;The Time Is Now — Starting HPV Protection Early,&quot; reinforcing its recommendation that pediatricians offer the HPV vaccine to children as early as age 9. If your child is approaching that age and you haven't had a conversation with your pediatrician about HPV vaccination yet, this is a good moment to start.</p>
+</section>
+
+<section>
+  <h2>AAP vs. CDC: What's the Difference</h2>
+  <p>There's currently a notable difference between how two leading medical authorities approach HPV vaccination timing. The AAP recommends a two-dose series beginning at ages 9 to 12. The CDC, in an updated recommendation, moved to a one-dose schedule for children vaccinated at ages 11 to 12.</p>
+
+  <p>Both organizations agree that HPV vaccination is important. The difference is in the approach: the AAP favors starting earlier and completing a two-dose series, while the CDC's updated guidance simplifies the schedule for adolescents who start the vaccine at the recommended age.</p>
+
+  <p>If a child starts the HPV series before age 15, two doses are typically sufficient. Children who begin at age 15 or older need three doses. This is why the age at initiation matters — starting earlier allows the series to be completed with fewer doses.</p>
+</section>
+
+<section>
+  <h2>Why Starting at Age 9 Matters</h2>
+  <p>The AAP's argument for starting at age 9 comes down to flexibility and completion rates. Research published in peer-reviewed journals has found that initiating the HPV series at age 9 or 10 significantly improves the likelihood that children complete the series by age 13. When the vaccine is introduced at puberty — around age 11 or 12 — it can get tied up in conversations about sexual health that some families find uncomfortable, reducing completion rates.</p>
+
+  <p>Starting at age 9 separates the vaccination from those discussions. It's framed simply as a cancer-prevention measure, which is accurate: the HPV vaccine protects against several cancers, including cervical, throat, anal, and penile cancers. Protection is strongest when the series is completed before any exposure to HPV, which is why early vaccination is medically preferred.</p>
+</section>
+
+<section>
+  <h2>How to Approach This With Your Pediatrician</h2>
+  <p>If your child is 9 or older, you can bring up HPV vaccination at any wellness visit. Pediatricians who follow AAP guidance will typically raise it proactively, but not all do — especially with younger patients in the 9-to-10 range. It's completely appropriate to ask.</p>
+
+  <p>You don't need to have a detailed conversation about HPV transmission at that age. The conversation can be as simple as: &quot;Our pediatrician mentioned we could start the HPV series now. What should we know about timing?&quot; From there, you and your child's provider can decide on the approach that fits your family's schedule and preferences.</p>
+</section>
+
+<section>
+  <h2>Quick Reference</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Detail</th>
+        <th>AAP Guidance</th>
+        <th>CDC Guidance</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Recommended Start Age</td>
+        <td>9–12 years</td>
+        <td>11–12 years</td>
+      </tr>
+      <tr>
+        <td>Doses (started before age 15)</td>
+        <td>2 doses</td>
+        <td>1 dose (updated)</td>
+      </tr>
+      <tr>
+        <td>Doses (started age 15+)</td>
+        <td>3 doses</td>
+        <td>3 doses</td>
+      </tr>
+      <tr>
+        <td>Key Benefit of Earlier Start</td>
+        <td>Improves completion by age 13; separates from puberty discussions</td>
+        <td>Simplified schedule at standard well-visit age</td>
+      </tr>
+      <tr>
+        <td>Source</td>
+        <td>AAP blog, April 7, 2026 (aap.org)</td>
+        <td>CDC updated guidance</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <h2>What's Next</h2>
+  <p>If your child is 9 or older, ask your pediatrician about the HPV vaccine at your next visit. If you haven't scheduled a wellness visit recently, this is a reasonable prompt to do so. For families who want to read the AAP's full guidance, the April 7 blog post is available at aap.org. Your child's pediatrician can review your family's specific situation and help determine the right timing and dose schedule.</p>
+</section>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-04-aap-hpv-vaccination-age-9-recommendation-2026" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+  &lt;title&gt;The AAP Wants Kids to Start HPV Vaccination at Age 9 — Here&#x27;s Why | COS Parenting&lt;/title&gt;
+  &lt;meta name=&quot;description&quot; content=&quot;The American Academy of Pediatrics published a new blog post recommending that pediatricians offer the HPV vaccine starting at age 9, earlier than CDC guidance. Here&#x27;s what Colorado Springs families should know.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+
+&lt;header&gt;
+  &lt;h1&gt;The AAP Wants Kids to Start HPV Vaccination at Age 9 — Here&#x27;s What Families Should Know&lt;/h1&gt;
+  &lt;p class=&quot;byline&quot;&gt;By Marta Kim | COS Parenting | April 16, 2026&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+  &lt;p&gt;The American Academy of Pediatrics published a blog post on April 7, 2026, titled &quot;The Time Is Now — Starting HPV Protection Early,&quot; reinforcing its recommendation that pediatricians offer the HPV vaccine to children as early as age 9. If your child is approaching that age and you haven&#x27;t had a conversation with your pediatrician about HPV vaccination yet, this is a good moment to start.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;AAP vs. CDC: What&#x27;s the Difference&lt;/h2&gt;
+  &lt;p&gt;There&#x27;s currently a notable difference between how two leading medical authorities approach HPV vaccination timing. The AAP recommends a two-dose series beginning at ages 9 to 12. The CDC, in an updated recommendation, moved to a one-dose schedule for children vaccinated at ages 11 to 12.&lt;/p&gt;
+
+  &lt;p&gt;Both organizations agree that HPV vaccination is important. The difference is in the approach: the AAP favors starting earlier and completing a two-dose series, while the CDC&#x27;s updated guidance simplifies the schedule for adolescents who start the vaccine at the recommended age.&lt;/p&gt;
+
+  &lt;p&gt;If a child starts the HPV series before age 15, two doses are typically sufficient. Children who begin at age 15 or older need three doses. This is why the age at initiation matters — starting earlier allows the series to be completed with fewer doses.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Why Starting at Age 9 Matters&lt;/h2&gt;
+  &lt;p&gt;The AAP&#x27;s argument for starting at age 9 comes down to flexibility and completion rates. Research published in peer-reviewed journals has found that initiating the HPV series at age 9 or 10 significantly improves the likelihood that children complete the series by age 13. When the vaccine is introduced at puberty — around age 11 or 12 — it can get tied up in conversations about sexual health that some families find uncomfortable, reducing completion rates.&lt;/p&gt;
+
+  &lt;p&gt;Starting at age 9 separates the vaccination from those discussions. It&#x27;s framed simply as a cancer-prevention measure, which is accurate: the HPV vaccine protects against several cancers, including cervical, throat, anal, and penile cancers. Protection is strongest when the series is completed before any exposure to HPV, which is why early vaccination is medically preferred.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;How to Approach This With Your Pediatrician&lt;/h2&gt;
+  &lt;p&gt;If your child is 9 or older, you can bring up HPV vaccination at any wellness visit. Pediatricians who follow AAP guidance will typically raise it proactively, but not all do — especially with younger patients in the 9-to-10 range. It&#x27;s completely appropriate to ask.&lt;/p&gt;
+
+  &lt;p&gt;You don&#x27;t need to have a detailed conversation about HPV transmission at that age. The conversation can be as simple as: &quot;Our pediatrician mentioned we could start the HPV series now. What should we know about timing?&quot; From there, you and your child&#x27;s provider can decide on the approach that fits your family&#x27;s schedule and preferences.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Quick Reference&lt;/h2&gt;
+  &lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Detail&lt;/th&gt;
+        &lt;th&gt;AAP Guidance&lt;/th&gt;
+        &lt;th&gt;CDC Guidance&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Recommended Start Age&lt;/td&gt;
+        &lt;td&gt;9–12 years&lt;/td&gt;
+        &lt;td&gt;11–12 years&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Doses (started before age 15)&lt;/td&gt;
+        &lt;td&gt;2 doses&lt;/td&gt;
+        &lt;td&gt;1 dose (updated)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Doses (started age 15+)&lt;/td&gt;
+        &lt;td&gt;3 doses&lt;/td&gt;
+        &lt;td&gt;3 doses&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Key Benefit of Earlier Start&lt;/td&gt;
+        &lt;td&gt;Improves completion by age 13; separates from puberty discussions&lt;/td&gt;
+        &lt;td&gt;Simplified schedule at standard well-visit age&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Source&lt;/td&gt;
+        &lt;td&gt;AAP blog, April 7, 2026 (aap.org)&lt;/td&gt;
+        &lt;td&gt;CDC updated guidance&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+  &lt;p&gt;If your child is 9 or older, ask your pediatrician about the HPV vaccine at your next visit. If you haven&#x27;t scheduled a wellness visit recently, this is a reasonable prompt to do so. For families who want to read the AAP&#x27;s full guidance, the April 7 blog post is available at aap.org. Your child&#x27;s pediatrician can review your family&#x27;s specific situation and help determine the right timing and dose schedule.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-04-aap-hpv-vaccination-age-9-recommendation-2026">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-04-aap-hpv-vaccination-age-9-recommendation-2026')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-04-aap-hpv-vaccination-age-9-recommendation-2026')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-04-aap-hpv-vaccination-age-9-recommendation-2026">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-04-aap-hpv-vaccination-age-9-recommendation-2026')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-04-aap-hpv-vaccination-age-9-recommendation-2026')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-04-aap-hpv-vaccination-age-9-recommendation-2026')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-04-aap-hpv-vaccination-age-9-recommendation-2026')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-04-aap-hpv-vaccination-age-9-recommendation-2026">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-04-aap-hpv-vaccination-age-9-recommendation-2026" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-04-aap-hpv-vaccination-age-9-recommendation-2026"></div>
+                </div>
+                <div class="card" data-id="article-article-05-d11-budget-admin-cuts-classroom-support-2026" data-type="article" data-status="unreviewed">
+                    <div class="card-header">
+                        <div class="card-title">D11 Is Cutting Central Administration Again — and Directing More Resources to Classrooms</div>
+                        <div><span class="card-badge badge-article">ARTICLE</span></div>
+                    </div>
+                    
+
+                    <div class="card-content expanded" id="content-article-article-05-d11-budget-admin-cuts-classroom-support-2026">
+                        <iframe class="article-frame" srcdoc="<!DOCTYPE html>
+<html lang=&quot;en&quot;>
+<head>
+  <meta charset=&quot;UTF-8&quot;>
+  <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+  <title>D11 Is Cutting Central Administration Again — and Directing More Resources to Classrooms | COS Parenting</title>
+  <meta name=&quot;description&quot; content=&quot;Colorado Springs School District 11 is trimming central administration for the third consecutive year while protecting school-level programs and staffing. Here's what it means for D11 families.&quot;>
+</head>
+<body>
+
+<article>
+
+<header>
+  <h1>D11 Is Cutting Central Administration Again — and Directing More Resources to Classrooms</h1>
+  <p class=&quot;byline&quot;>By Marcus Rivera | COS Parenting | April 16, 2026</p>
+</header>
+
+<section>
+  <p>Colorado Springs School District 11 is heading into its 2026-27 budget season with a clear philosophy: reduce the size of central administration and put more resources directly into classrooms and teacher compensation. This is the third consecutive year D11 has taken this approach.</p>
+
+  <p>KOAA confirmed that budget discussions ongoing this spring include continued cuts to district-level administrative departments, while keeping school-level programs and staffing intact. For families with students in D11 schools, that means the changes at the district office shouldn't translate into fewer teachers, reduced programs, or cuts to school resources.</p>
+</section>
+
+<section>
+  <h2>What &quot;Cutting Central Administration&quot; Actually Means</h2>
+  <p>When a school district refers to cutting central administration, it's typically talking about the departments housed at the district office — human resources, communications, curriculum development, finance, and other support functions that don't directly involve classroom instruction. Reducing those departments frees up funding that can be redirected to schools.</p>
+
+  <p>D11's approach over the past three years has been to right-size those district-level operations, both by consolidating functions and by not backfilling positions when they turn over. The result is a leaner central office that routes more dollars to where students and teachers can directly benefit from them.</p>
+</section>
+
+<section>
+  <h2>Teacher Compensation in 2025-26</h2>
+  <p>Part of what that philosophy has funded in recent years is teacher pay. In the 2025-26 school year, D11 delivered what it described as &quot;double-digit compensation increases&quot; for teachers — the largest compensation package in the Pikes Peak region. Starting teacher pay for 2025-26 was set at $51,510, according to the D11 salary schedule.</p>
+
+  <p>This is notable context for a district that went through a contentious stretch in its labor relations after ending its master bargaining agreement. The shift toward competitive compensation has been a stated priority for district leadership, and the budget approach of cutting administration to fund classrooms is part of how D11 has backed that up.</p>
+</section>
+
+<section>
+  <h2>What It Means for D11 Families</h2>
+  <p>For families with children in D11 schools, the key takeaway from this year's budget season is that classroom-level programs and school staffing are not targets of these reductions. The cuts are at the administrative tier, not the school tier.</p>
+
+  <p>Budget discussions for 2026-27 are ongoing through the spring. Final budget numbers for D11 won't be set until later in the year, but the direction is consistent with what families have seen over the past two years: administration shrinks, classrooms stay funded.</p>
+</section>
+
+<section>
+  <h2>Quick Reference</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Detail</th>
+        <th>Info</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Admin Cuts</td>
+        <td>Third consecutive year cutting central administration</td>
+      </tr>
+      <tr>
+        <td>School-Level Impact</td>
+        <td>Programs and staffing not affected</td>
+      </tr>
+      <tr>
+        <td>Teacher Pay Increase (2025-26)</td>
+        <td>Double-digit compensation increase</td>
+      </tr>
+      <tr>
+        <td>Starting Teacher Pay (2025-26)</td>
+        <td>$51,510</td>
+      </tr>
+      <tr>
+        <td>Budget Year</td>
+        <td>2026-27 (discussions ongoing)</td>
+      </tr>
+      <tr>
+        <td>Sources</td>
+        <td>KOAA; d11.org salary schedule</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <h2>What's Next</h2>
+  <p>D11's 2026-27 budget process will continue through the spring and into early summer. Families can follow budget updates through the district at d11.org, where public budget meetings and documents are typically posted. COS Parenting will track developments as the 2026-27 budget is finalized.</p>
+</section>
+
+</article>
+
+</body>
+</html>
+" style="width:100%;min-height:400px;border:1px solid #ddd;border-radius:6px;"></iframe>
+                    </div>
+                    <textarea class="edit-textarea" id="editor-article-article-05-d11-budget-admin-cuts-classroom-support-2026" placeholder="Edit content here...">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+  &lt;title&gt;D11 Is Cutting Central Administration Again — and Directing More Resources to Classrooms | COS Parenting&lt;/title&gt;
+  &lt;meta name=&quot;description&quot; content=&quot;Colorado Springs School District 11 is trimming central administration for the third consecutive year while protecting school-level programs and staffing. Here&#x27;s what it means for D11 families.&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;article&gt;
+
+&lt;header&gt;
+  &lt;h1&gt;D11 Is Cutting Central Administration Again — and Directing More Resources to Classrooms&lt;/h1&gt;
+  &lt;p class=&quot;byline&quot;&gt;By Marcus Rivera | COS Parenting | April 16, 2026&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section&gt;
+  &lt;p&gt;Colorado Springs School District 11 is heading into its 2026-27 budget season with a clear philosophy: reduce the size of central administration and put more resources directly into classrooms and teacher compensation. This is the third consecutive year D11 has taken this approach.&lt;/p&gt;
+
+  &lt;p&gt;KOAA confirmed that budget discussions ongoing this spring include continued cuts to district-level administrative departments, while keeping school-level programs and staffing intact. For families with students in D11 schools, that means the changes at the district office shouldn&#x27;t translate into fewer teachers, reduced programs, or cuts to school resources.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What &quot;Cutting Central Administration&quot; Actually Means&lt;/h2&gt;
+  &lt;p&gt;When a school district refers to cutting central administration, it&#x27;s typically talking about the departments housed at the district office — human resources, communications, curriculum development, finance, and other support functions that don&#x27;t directly involve classroom instruction. Reducing those departments frees up funding that can be redirected to schools.&lt;/p&gt;
+
+  &lt;p&gt;D11&#x27;s approach over the past three years has been to right-size those district-level operations, both by consolidating functions and by not backfilling positions when they turn over. The result is a leaner central office that routes more dollars to where students and teachers can directly benefit from them.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Teacher Compensation in 2025-26&lt;/h2&gt;
+  &lt;p&gt;Part of what that philosophy has funded in recent years is teacher pay. In the 2025-26 school year, D11 delivered what it described as &quot;double-digit compensation increases&quot; for teachers — the largest compensation package in the Pikes Peak region. Starting teacher pay for 2025-26 was set at $51,510, according to the D11 salary schedule.&lt;/p&gt;
+
+  &lt;p&gt;This is notable context for a district that went through a contentious stretch in its labor relations after ending its master bargaining agreement. The shift toward competitive compensation has been a stated priority for district leadership, and the budget approach of cutting administration to fund classrooms is part of how D11 has backed that up.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What It Means for D11 Families&lt;/h2&gt;
+  &lt;p&gt;For families with children in D11 schools, the key takeaway from this year&#x27;s budget season is that classroom-level programs and school staffing are not targets of these reductions. The cuts are at the administrative tier, not the school tier.&lt;/p&gt;
+
+  &lt;p&gt;Budget discussions for 2026-27 are ongoing through the spring. Final budget numbers for D11 won&#x27;t be set until later in the year, but the direction is consistent with what families have seen over the past two years: administration shrinks, classrooms stay funded.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Quick Reference&lt;/h2&gt;
+  &lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Detail&lt;/th&gt;
+        &lt;th&gt;Info&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Admin Cuts&lt;/td&gt;
+        &lt;td&gt;Third consecutive year cutting central administration&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;School-Level Impact&lt;/td&gt;
+        &lt;td&gt;Programs and staffing not affected&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Teacher Pay Increase (2025-26)&lt;/td&gt;
+        &lt;td&gt;Double-digit compensation increase&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Starting Teacher Pay (2025-26)&lt;/td&gt;
+        &lt;td&gt;$51,510&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Budget Year&lt;/td&gt;
+        &lt;td&gt;2026-27 (discussions ongoing)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Sources&lt;/td&gt;
+        &lt;td&gt;KOAA; d11.org salary schedule&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What&#x27;s Next&lt;/h2&gt;
+  &lt;p&gt;D11&#x27;s 2026-27 budget process will continue through the spring and into early summer. Families can follow budget updates through the district at d11.org, where public budget meetings and documents are typically posted. COS Parenting will track developments as the 2026-27 budget is finalized.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/article&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</textarea>
+                    
+                    
+                    <div class="edit-bar" id="editbar-article-article-05-d11-budget-admin-cuts-classroom-support-2026">
+                        <span class="edit-bar-label">Editing mode — make your changes above</span>
+                        <button class="btn btn-primary" onclick="saveAndApprove('article-article-05-d11-budget-admin-cuts-classroom-support-2026')">Save &amp; Approve</button>
+                        <button class="btn btn-secondary" onclick="cancelEdit('article-article-05-d11-budget-admin-cuts-classroom-support-2026')">Cancel</button>
+                    </div>
+                    
+                    
+
+                    <div class="card-actions" id="actions-article-article-05-d11-budget-admin-cuts-classroom-support-2026">
+                        <button class="action-btn btn-approve" onclick="approveCard('article-article-05-d11-budget-admin-cuts-classroom-support-2026')">Approve</button>
+                        <button class="action-btn btn-edit" onclick="startEdit('article-article-05-d11-budget-admin-cuts-classroom-support-2026')">Edit</button>
+                        <button class="action-btn btn-reject" onclick="rejectCard('article-article-05-d11-budget-admin-cuts-classroom-support-2026')">Reject</button>
+                        <button class="action-btn btn-copy" onclick="copyContent('article-article-05-d11-budget-admin-cuts-classroom-support-2026')">Copy</button>
+                    </div>
+
+                    <div class="notes-section" id="notes-article-article-05-d11-budget-admin-cuts-classroom-support-2026">
+                        <div class="notes-label">Reviewer Notes:</div>
+                        <textarea class="notes-textarea" id="textarea-article-article-05-d11-budget-admin-cuts-classroom-support-2026" placeholder="Add reviewer notes..."></textarea>
+                    </div>
+
+                    <div class="status-label" id="status-article-article-05-d11-budget-admin-cuts-classroom-support-2026"></div>
+                </div>
+            </div>
+
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-state-icon">No items match your filter</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Schedule settings modal -->
+    <div class="schedule-overlay" id="schedule-overlay" onclick="closeSchedulePanel()"></div>
+    <div class="schedule-panel" id="schedule-panel">
+        <h3>Posting Schedule Settings</h3>
+        <div class="schedule-section">
+            <label>Post Date (defaults to content date)</label>
+            <input type="date" id="schedule-date" />
+        </div>
+        <div class="schedule-section">
+            <label>X / Twitter Time Slots</label>
+            <div class="time-slots" id="x-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-x-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('x')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section">
+            <label>Facebook Time Slots</label>
+            <div class="time-slots" id="fb-time-slots"></div>
+            <div style="margin-top:8px;">
+                <input type="time" id="new-fb-time" style="width:auto;display:inline-block;margin-right:8px;" />
+                <span class="add-slot-btn" onclick="addTimeSlot('fb')">+ Add Slot</span>
+            </div>
+        </div>
+        <div class="schedule-section" style="background:#f9f9f9;padding:12px;border-radius:6px;font-size:12px;color:#666;">
+            Posts will be assigned to time slots in order. If you have more posts than slots, they wrap around. After downloading, upload the file directly to PostPlanner via Bulk Upload.
+        </div>
+        <div class="schedule-actions">
+            <button class="btn btn-secondary" onclick="closeSchedulePanel()">Cancel</button>
+            <button class="btn btn-csv" onclick="generateAndDownload()">Generate &amp; Download XLSX</button>
+        </div>
+    </div>
+
+    <!-- SheetJS for XLSX generation (loaded async so it doesn't block) -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+
+        const DATE = '2026-04-16';
+        const BRAND_NAME = 'COS Parenting';
+        const REVIEW_STORAGE_KEY = 'parenting-content-review';
+        const SCHEDULE_STORAGE_KEY = 'parenting-content-schedule-config';
+        const PHOTO_SOURCE = 'gemini';
+        let reviewData = {};
+        const allStories = [{"id": "story-1-daily_brief", "title": "Free CSDB Early Literacy Event at Bear Creek \u2014 Tomorrow, April 17", "content": "Free CSDB Early Literacy Event at Bear Creek \u2014 Tomorrow, April 17", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-2-daily_brief", "title": "CPSC Recalls Goregent Infant Walkers Over Fall Hazard \u2014 Sold on Amazon", "content": "CPSC Recalls Goregent Infant Walkers Over Fall Hazard \u2014 Sold on Amazon", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-3-daily_brief", "title": "Colorado Lawmakers Protect School Funding in 2026-27 Budget", "content": "Colorado Lawmakers Protect School Funding in 2026-27 Budget", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-4-daily_brief", "title": "AAP Says Start HPV Vaccination at Age 9 \u2014 What COS Families Should Know", "content": "AAP Says Start HPV Vaccination at Age 9 \u2014 What COS Families Should Know", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "story-5-daily_brief", "title": "D11 Budget Season \u2014 Cutting Admin, Boosting Classroom Support", "content": "D11 Budget Season \u2014 Cutting Admin, Boosting Classroom Support", "type": "daily_brief", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-01-csdb-early-literacy-bear-creek-april-2026", "title": "Free CSDB Early Literacy Event at Bear Creek \u2014 Friday, April 17", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Free CSDB Early Literacy Event at Bear Creek \u2014 April 17 | COS Parenting<\/title>\n  <meta name=\"description\" content=\"The Colorado School for the Deaf and the Blind is hosting a free Early Literacy Event at Bear Creek Nature Center on April 17 for families with deaf and hard-of-hearing children, birth to age 8.\">\n<\/head>\n<body>\n\n<article>\n\n<header>\n  <h1>Free CSDB Early Literacy Event at Bear Creek \u2014 Friday, April 17<\/h1>\n  <p class=\"byline\">By Jenna Park | COS Parenting | April 16, 2026<\/p>\n<\/header>\n\n<section>\n  <p>The Colorado School for the Deaf and the Blind is hosting a free Early Literacy Event this Friday, April 17, at Bear Creek Nature Center in Colorado Springs. The event runs from 1:30 to 3:00 PM and is designed for families with deaf and hard-of-hearing children from birth to age 8.<\/p>\n\n  <p>Registration is required and spots are limited. Families can sign up by emailing outreach@csdb.org.<\/p>\n<\/section>\n\n<section>\n  <h2>What to Expect at the Event<\/h2>\n  <p>The afternoon is built around three core activities: an American Sign Language book reading, a wildlife learning session, and a short nature walk through the Bear Creek area. An ASL interpreter will be on site throughout the event.<\/p>\n\n  <p>Beyond the structured activities, the event is designed as a gathering space. Families will have the opportunity to connect with other parents raising deaf and hard-of-hearing children, and to meet deaf and hard-of-hearing adults in the Colorado Springs community. That kind of peer connection can be meaningful for both children and caregivers navigating communication and education decisions early in a child's life.<\/p>\n\n  <p>The event is a collaboration between CSDB and El Paso County Parks, which manages the Bear Creek Nature Center. Admission is free.<\/p>\n<\/section>\n\n<section>\n  <h2>Why Early Literacy Matters for Deaf and Hard-of-Hearing Children<\/h2>\n  <p>Research consistently shows that early language exposure \u2014 whether spoken, signed, or both \u2014 is critical for literacy development. For deaf and hard-of-hearing children, access to rich language environments in the first years of life shapes long-term reading, communication, and learning outcomes.<\/p>\n\n  <p>Events like this one give families tools and community support at the moment they're most useful: during the birth-to-8 window when the foundations for literacy are being built. The combination of ASL storytelling, nature-based learning, and adult community connection offers a practical and low-barrier entry point for families who may be early in their journey.<\/p>\n<\/section>\n\n<section>\n  <h2>About CSDB<\/h2>\n  <p>The Colorado School for the Deaf and the Blind is a Colorado state agency that provides educational services to students who are deaf, hard of hearing, blind, or visually impaired. CSDB's outreach programs extend beyond its campus in Colorado Springs to serve families across the region, including through community events like this one.<\/p>\n<\/section>\n\n<section>\n  <h2>Quick Reference<\/h2>\n  <table>\n    <thead>\n      <tr>\n        <th>Detail<\/th>\n        <th>Info<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td>Date<\/td>\n        <td>Friday, April 17, 2026<\/td>\n      <\/tr>\n      <tr>\n        <td>Time<\/td>\n        <td>1:30\u20133:00 PM MT<\/td>\n      <\/tr>\n      <tr>\n        <td>Location<\/td>\n        <td>Bear Creek Nature Center, Colorado Springs<\/td>\n      <\/tr>\n      <tr>\n        <td>Who It's For<\/td>\n        <td>Families with deaf/hard-of-hearing children, birth to age 8<\/td>\n      <\/tr>\n      <tr>\n        <td>Cost<\/td>\n        <td>Free<\/td>\n      <\/tr>\n      <tr>\n        <td>ASL Interpreter<\/td>\n        <td>Provided<\/td>\n      <\/tr>\n      <tr>\n        <td>Register<\/td>\n        <td>outreach@csdb.org<\/td>\n      <\/tr>\n      <tr>\n        <td>Organizers<\/td>\n        <td>CSDB + El Paso County Parks<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n<\/section>\n\n<section>\n  <h2>What's Next<\/h2>\n  <p>If this event is a fit for your family, email outreach@csdb.org to register before Friday. Space is limited, so earlier is better. If you miss this event, CSDB's outreach team can be a resource for learning about future community programming for families with deaf and hard-of-hearing children in Colorado Springs.<\/p>\n<\/section>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-02-goregent-infant-walker-recall-cpsc-2026", "title": "CPSC Recalls Goregent Infant Walkers Sold on Amazon \u2014 Stop Use Immediately", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>CPSC Recalls Goregent Infant Walkers Over Fall Hazard | COS Parenting<\/title>\n  <meta name=\"description\" content=\"The CPSC has recalled approximately 90 Goregent infant walkers sold on Amazon in January 2026. The walker can fit through doorways and won't stop at a step edge, posing a fall risk to infants.\">\n<\/head>\n<body>\n\n<article>\n\n<header>\n  <h1>CPSC Recalls Goregent Infant Walkers Sold on Amazon \u2014 Stop Use Immediately<\/h1>\n  <p class=\"byline\">By Sofia Reyes | COS Parenting | April 16, 2026<\/p>\n<\/header>\n\n<section>\n  <p>The U.S. Consumer Product Safety Commission issued a recall on March 19, 2026, for approximately 90 Goregent infant walkers sold on Amazon. If you purchased one of these walkers in January 2026 for around $90, stop using it now and follow the refund process outlined by the CPSC.<\/p>\n\n  <p>No injuries have been reported, but the commission is urging immediate action because of a significant fall hazard.<\/p>\n<\/section>\n\n<section>\n  <h2>What's the Hazard<\/h2>\n  <p>The Goregent infant walker is narrow enough to fit through standard doorways and does not have a stopping mechanism that activates at the edge of a step. This means an infant in the walker can reach a staircase or step and continue forward, creating a serious fall and injury risk.<\/p>\n\n  <p>Infant walkers have a long-documented safety history with the CPSC. Fall-related injuries involving walkers have led to hundreds of hospitalizations over the years, which is why the commission closely monitors products that don't meet current safety standards.<\/p>\n<\/section>\n\n<section>\n  <h2>How to Identify the Recalled Walker<\/h2>\n  <p>The recalled Goregent infant walker has the following characteristics:<\/p>\n  <ul>\n    <li>Green plastic frame<\/li>\n    <li>Fabric seat with animal-print pattern<\/li>\n    <li>Activity tray with lights and music<\/li>\n    <li>Round base with six wheels<\/li>\n  <\/ul>\n\n  <p>These walkers were sold exclusively through the Goregent Official Store on Amazon.com during January 2026 at a price of approximately $90. If you're unsure whether you purchased this item, check your Amazon order history for January 2026.<\/p>\n<\/section>\n\n<section>\n  <h2>How to Get a Full Refund<\/h2>\n  <p>The CPSC has outlined a specific process for the refund. Consumers should:<\/p>\n  <ol>\n    <li>Stop using the walker immediately.<\/li>\n    <li>Disassemble the walker.<\/li>\n    <li>Write \"Recalled\" on the product.<\/li>\n    <li>Email GoregentInfantWalkersRecall@outlook.com with purchase information to initiate the refund.<\/li>\n  <\/ol>\n\n  <p>The CPSC has published the recall at cpsc.gov, where the official notice includes full product details and contact information.<\/p>\n<\/section>\n\n<section>\n  <h2>A Note on Infant Walkers Generally<\/h2>\n  <p>The American Academy of Pediatrics has discouraged the use of wheeled infant walkers for years, citing fall risks \u2014 particularly on stairs \u2014 as well as the risk that walkers can delay standing and walking development in some infants. If you're considering an alternative, stationary activity centers offer similar engagement without the mobility risk.<\/p>\n\n  <p>This recall is specific to the Goregent brand and the approximately 90 units sold in January 2026. It is a separate recall from other infant walker recalls that have occurred in recent years.<\/p>\n<\/section>\n\n<section>\n  <h2>Quick Reference<\/h2>\n  <table>\n    <thead>\n      <tr>\n        <th>Detail<\/th>\n        <th>Info<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td>Recall Date<\/td>\n        <td>March 19, 2026<\/td>\n      <\/tr>\n      <tr>\n        <td>Units Recalled<\/td>\n        <td>~90<\/td>\n      <\/tr>\n      <tr>\n        <td>Hazard<\/td>\n        <td>Fits through doorways; won't stop at step edge<\/td>\n      <\/tr>\n      <tr>\n        <td>Product Description<\/td>\n        <td>Green plastic walker, animal-print fabric seat, activity tray, lights/music, round base, 6 wheels<\/td>\n      <\/tr>\n      <tr>\n        <td>Where Sold<\/td>\n        <td>Amazon.com \u2014 Goregent Official Store<\/td>\n      <\/tr>\n      <tr>\n        <td>Sale Period<\/td>\n        <td>January 2026<\/td>\n      <\/tr>\n      <tr>\n        <td>Price<\/td>\n        <td>~$90<\/td>\n      <\/tr>\n      <tr>\n        <td>Injuries Reported<\/td>\n        <td>None<\/td>\n      <\/tr>\n      <tr>\n        <td>Refund Contact<\/td>\n        <td>GoregentInfantWalkersRecall@outlook.com<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n<\/section>\n\n<section>\n  <h2>What's Next<\/h2>\n  <p>If you have this walker, stop use immediately and follow the refund steps above. The CPSC's official recall notice is available at cpsc.gov for full details. If you're a family member, caregiver, or friend who may have gifted this product, pass along this notice. Given the limited sales window, it's a small and specific group of consumers affected \u2014 sharing this information directly is the most effective way to reach them.<\/p>\n<\/section>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-03-colorado-education-budget-2026-27-school-funding", "title": "Colorado Lawmakers Protect School Funding in the 2026-27 Budget", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Colorado Lawmakers Protect School Funding in 2026-27 Budget | COS Parenting<\/title>\n  <meta name=\"description\" content=\"Colorado's 2026-27 state budget proposal shields education from major cuts despite a broader revenue shortfall \u2014 good news for D11, D20, and D49 families in Colorado Springs.\">\n<\/head>\n<body>\n\n<article>\n\n<header>\n  <h1>Colorado Lawmakers Protect School Funding in the 2026-27 Budget<\/h1>\n  <p class=\"byline\">By Keisha Williams | COS Parenting | April 16, 2026<\/p>\n<\/header>\n\n<section>\n  <p>Colorado lawmakers released the 2026-27 state budget proposal in early April, and despite a statewide revenue shortfall, education funding was largely protected from major cuts. The proposal now heads to the Governor for signature, and its passage would mean stable school funding for Colorado Springs families heading into next school year.<\/p>\n<\/section>\n\n<section>\n  <h2>What Was at Stake<\/h2>\n  <p>Colorado's state budget funds public education through a formula that distributes dollars to districts based on enrollment and other factors. When state revenues fall short of projections \u2014 as happened with the 2026-27 planning cycle \u2014 lawmakers face pressure to cut spending across agencies. Education, as one of the largest line items in the state budget, is often a focus of those discussions.<\/p>\n\n  <p>ChalkBeat Colorado reported on April 6 that the budget proposal avoids major education cuts. CPR News confirmed the same picture on April 7, noting that the budget addresses a broader state revenue shortfall without imposing significant reductions on school funding.<\/p>\n<\/section>\n\n<section>\n  <h2>What It Means for Colorado Springs Families<\/h2>\n  <p>For families in D11, D20, and D49 \u2014 the three main school districts serving Colorado Springs \u2014 state funding stability means local district budgets are less likely to face sudden gaps. Colorado's school finance formula ties district funding levels directly to state appropriations, so what happens in Denver affects classrooms here.<\/p>\n\n  <p>This doesn't mean district budgets are settled. Local factors, including enrollment trends, federal funding, and individual district priorities, still shape how resources are allocated at the school level. But a state budget that holds education funding steady removes a significant variable from the equation.<\/p>\n<\/section>\n\n<section>\n  <h2>The Broader Budget Picture<\/h2>\n  <p>Colorado is managing a revenue shortfall, which means other parts of the state budget face tighter constraints. Education's relatively protected status in the 2026-27 proposal reflects a bipartisan political consensus in Colorado around K-12 funding, as well as advocacy from districts and education organizations during the budget process.<\/p>\n\n  <p>The proposal must be signed by the Governor before it takes effect. Once signed, it sets the fiscal framework that local districts use to build their own 2026-27 budgets.<\/p>\n<\/section>\n\n<section>\n  <h2>Quick Reference<\/h2>\n  <table>\n    <thead>\n      <tr>\n        <th>Detail<\/th>\n        <th>Info<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td>Budget Year<\/td>\n        <td>2026-27 fiscal year<\/td>\n      <\/tr>\n      <tr>\n        <td>Budget Release<\/td>\n        <td>Early April 2026<\/td>\n      <\/tr>\n      <tr>\n        <td>Education Funding<\/td>\n        <td>Largely protected despite state revenue shortfall<\/td>\n      <\/tr>\n      <tr>\n        <td>Next Step<\/td>\n        <td>Governor signature<\/td>\n      <\/tr>\n      <tr>\n        <td>Affected COS Districts<\/td>\n        <td>D11, D20, D49<\/td>\n      <\/tr>\n      <tr>\n        <td>Sources<\/td>\n        <td>ChalkBeat Colorado (April 6); CPR News (April 7)<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n<\/section>\n\n<section>\n  <h2>What's Next<\/h2>\n  <p>The 2026-27 budget proposal is now awaiting the Governor's signature. Once that happens, Colorado Springs school districts will use the confirmed state funding figures to finalize their own local budgets for next year. COS Parenting will continue tracking how state budget decisions translate into district-level impacts for D11, D20, and D49 families.<\/p>\n<\/section>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-04-aap-hpv-vaccination-age-9-recommendation-2026", "title": "The AAP Wants Kids to Start HPV Vaccination at Age 9 \u2014 Here's What Families Should Know", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>The AAP Wants Kids to Start HPV Vaccination at Age 9 \u2014 Here's Why | COS Parenting<\/title>\n  <meta name=\"description\" content=\"The American Academy of Pediatrics published a new blog post recommending that pediatricians offer the HPV vaccine starting at age 9, earlier than CDC guidance. Here's what Colorado Springs families should know.\">\n<\/head>\n<body>\n\n<article>\n\n<header>\n  <h1>The AAP Wants Kids to Start HPV Vaccination at Age 9 \u2014 Here's What Families Should Know<\/h1>\n  <p class=\"byline\">By Marta Kim | COS Parenting | April 16, 2026<\/p>\n<\/header>\n\n<section>\n  <p>The American Academy of Pediatrics published a blog post on April 7, 2026, titled \"The Time Is Now \u2014 Starting HPV Protection Early,\" reinforcing its recommendation that pediatricians offer the HPV vaccine to children as early as age 9. If your child is approaching that age and you haven't had a conversation with your pediatrician about HPV vaccination yet, this is a good moment to start.<\/p>\n<\/section>\n\n<section>\n  <h2>AAP vs. CDC: What's the Difference<\/h2>\n  <p>There's currently a notable difference between how two leading medical authorities approach HPV vaccination timing. The AAP recommends a two-dose series beginning at ages 9 to 12. The CDC, in an updated recommendation, moved to a one-dose schedule for children vaccinated at ages 11 to 12.<\/p>\n\n  <p>Both organizations agree that HPV vaccination is important. The difference is in the approach: the AAP favors starting earlier and completing a two-dose series, while the CDC's updated guidance simplifies the schedule for adolescents who start the vaccine at the recommended age.<\/p>\n\n  <p>If a child starts the HPV series before age 15, two doses are typically sufficient. Children who begin at age 15 or older need three doses. This is why the age at initiation matters \u2014 starting earlier allows the series to be completed with fewer doses.<\/p>\n<\/section>\n\n<section>\n  <h2>Why Starting at Age 9 Matters<\/h2>\n  <p>The AAP's argument for starting at age 9 comes down to flexibility and completion rates. Research published in peer-reviewed journals has found that initiating the HPV series at age 9 or 10 significantly improves the likelihood that children complete the series by age 13. When the vaccine is introduced at puberty \u2014 around age 11 or 12 \u2014 it can get tied up in conversations about sexual health that some families find uncomfortable, reducing completion rates.<\/p>\n\n  <p>Starting at age 9 separates the vaccination from those discussions. It's framed simply as a cancer-prevention measure, which is accurate: the HPV vaccine protects against several cancers, including cervical, throat, anal, and penile cancers. Protection is strongest when the series is completed before any exposure to HPV, which is why early vaccination is medically preferred.<\/p>\n<\/section>\n\n<section>\n  <h2>How to Approach This With Your Pediatrician<\/h2>\n  <p>If your child is 9 or older, you can bring up HPV vaccination at any wellness visit. Pediatricians who follow AAP guidance will typically raise it proactively, but not all do \u2014 especially with younger patients in the 9-to-10 range. It's completely appropriate to ask.<\/p>\n\n  <p>You don't need to have a detailed conversation about HPV transmission at that age. The conversation can be as simple as: \"Our pediatrician mentioned we could start the HPV series now. What should we know about timing?\" From there, you and your child's provider can decide on the approach that fits your family's schedule and preferences.<\/p>\n<\/section>\n\n<section>\n  <h2>Quick Reference<\/h2>\n  <table>\n    <thead>\n      <tr>\n        <th>Detail<\/th>\n        <th>AAP Guidance<\/th>\n        <th>CDC Guidance<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td>Recommended Start Age<\/td>\n        <td>9\u201312 years<\/td>\n        <td>11\u201312 years<\/td>\n      <\/tr>\n      <tr>\n        <td>Doses (started before age 15)<\/td>\n        <td>2 doses<\/td>\n        <td>1 dose (updated)<\/td>\n      <\/tr>\n      <tr>\n        <td>Doses (started age 15+)<\/td>\n        <td>3 doses<\/td>\n        <td>3 doses<\/td>\n      <\/tr>\n      <tr>\n        <td>Key Benefit of Earlier Start<\/td>\n        <td>Improves completion by age 13; separates from puberty discussions<\/td>\n        <td>Simplified schedule at standard well-visit age<\/td>\n      <\/tr>\n      <tr>\n        <td>Source<\/td>\n        <td>AAP blog, April 7, 2026 (aap.org)<\/td>\n        <td>CDC updated guidance<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n<\/section>\n\n<section>\n  <h2>What's Next<\/h2>\n  <p>If your child is 9 or older, ask your pediatrician about the HPV vaccine at your next visit. If you haven't scheduled a wellness visit recently, this is a reasonable prompt to do so. For families who want to read the AAP's full guidance, the April 7 blog post is available at aap.org. Your child's pediatrician can review your family's specific situation and help determine the right timing and dose schedule.<\/p>\n<\/section>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}, {"id": "article-article-05-d11-budget-admin-cuts-classroom-support-2026", "title": "D11 Is Cutting Central Administration Again \u2014 and Directing More Resources to Classrooms", "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>D11 Is Cutting Central Administration Again \u2014 and Directing More Resources to Classrooms | COS Parenting<\/title>\n  <meta name=\"description\" content=\"Colorado Springs School District 11 is trimming central administration for the third consecutive year while protecting school-level programs and staffing. Here's what it means for D11 families.\">\n<\/head>\n<body>\n\n<article>\n\n<header>\n  <h1>D11 Is Cutting Central Administration Again \u2014 and Directing More Resources to Classrooms<\/h1>\n  <p class=\"byline\">By Marcus Rivera | COS Parenting | April 16, 2026<\/p>\n<\/header>\n\n<section>\n  <p>Colorado Springs School District 11 is heading into its 2026-27 budget season with a clear philosophy: reduce the size of central administration and put more resources directly into classrooms and teacher compensation. This is the third consecutive year D11 has taken this approach.<\/p>\n\n  <p>KOAA confirmed that budget discussions ongoing this spring include continued cuts to district-level administrative departments, while keeping school-level programs and staffing intact. For families with students in D11 schools, that means the changes at the district office shouldn't translate into fewer teachers, reduced programs, or cuts to school resources.<\/p>\n<\/section>\n\n<section>\n  <h2>What \"Cutting Central Administration\" Actually Means<\/h2>\n  <p>When a school district refers to cutting central administration, it's typically talking about the departments housed at the district office \u2014 human resources, communications, curriculum development, finance, and other support functions that don't directly involve classroom instruction. Reducing those departments frees up funding that can be redirected to schools.<\/p>\n\n  <p>D11's approach over the past three years has been to right-size those district-level operations, both by consolidating functions and by not backfilling positions when they turn over. The result is a leaner central office that routes more dollars to where students and teachers can directly benefit from them.<\/p>\n<\/section>\n\n<section>\n  <h2>Teacher Compensation in 2025-26<\/h2>\n  <p>Part of what that philosophy has funded in recent years is teacher pay. In the 2025-26 school year, D11 delivered what it described as \"double-digit compensation increases\" for teachers \u2014 the largest compensation package in the Pikes Peak region. Starting teacher pay for 2025-26 was set at $51,510, according to the D11 salary schedule.<\/p>\n\n  <p>This is notable context for a district that went through a contentious stretch in its labor relations after ending its master bargaining agreement. The shift toward competitive compensation has been a stated priority for district leadership, and the budget approach of cutting administration to fund classrooms is part of how D11 has backed that up.<\/p>\n<\/section>\n\n<section>\n  <h2>What It Means for D11 Families<\/h2>\n  <p>For families with children in D11 schools, the key takeaway from this year's budget season is that classroom-level programs and school staffing are not targets of these reductions. The cuts are at the administrative tier, not the school tier.<\/p>\n\n  <p>Budget discussions for 2026-27 are ongoing through the spring. Final budget numbers for D11 won't be set until later in the year, but the direction is consistent with what families have seen over the past two years: administration shrinks, classrooms stay funded.<\/p>\n<\/section>\n\n<section>\n  <h2>Quick Reference<\/h2>\n  <table>\n    <thead>\n      <tr>\n        <th>Detail<\/th>\n        <th>Info<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td>Admin Cuts<\/td>\n        <td>Third consecutive year cutting central administration<\/td>\n      <\/tr>\n      <tr>\n        <td>School-Level Impact<\/td>\n        <td>Programs and staffing not affected<\/td>\n      <\/tr>\n      <tr>\n        <td>Teacher Pay Increase (2025-26)<\/td>\n        <td>Double-digit compensation increase<\/td>\n      <\/tr>\n      <tr>\n        <td>Starting Teacher Pay (2025-26)<\/td>\n        <td>$51,510<\/td>\n      <\/tr>\n      <tr>\n        <td>Budget Year<\/td>\n        <td>2026-27 (discussions ongoing)<\/td>\n      <\/tr>\n      <tr>\n        <td>Sources<\/td>\n        <td>KOAA; d11.org salary schedule<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n<\/section>\n\n<section>\n  <h2>What's Next<\/h2>\n  <p>D11's 2026-27 budget process will continue through the spring and into early summer. Families can follow budget updates through the district at d11.org, where public budget meetings and documents are typically posted. COS Parenting will track developments as the 2026-27 budget is finalized.<\/p>\n<\/section>\n\n<\/article>\n\n<\/body>\n<\/html>\n", "type": "article", "posting_window": "", "tweet_type": "", "hashtags": "", "tweet_label": ""}];
+        const imageManifest = {};
+        let imageURLs = {}; // Runtime store: {'1_x_image': 'url', '1_facebook_image': 'url', ...}
+
+        // Image URL management
+        function updateImageURL(inputEl) {
+            var story = inputEl.dataset.story;
+            var platform = inputEl.dataset.platform;
+            var url = inputEl.value.trim();
+            var key = story + '_' + platform;
+            imageURLs[key] = url;
+
+            // Update preview thumbnail
+            var preview = document.getElementById('img-preview-' + story + '-' + platform);
+            if (preview) {
+                if (url) {
+                    preview.src = url;
+                    preview.classList.add('loaded');
+                    preview.onerror = function() { this.classList.remove('loaded'); };
+                } else {
+                    preview.src = '';
+                    preview.classList.remove('loaded');
+                }
+            }
+        }
+
+        function getImageURLForStory(storyTitle, platform) {
+            // Try runtime imageURLs first (user-pasted)
+            // Extract story number from title
+            for (var key in imageURLs) {
+                if (imageURLs[key] && key.endsWith('_' + platform)) {
+                    var storyNum = key.split('_')[0];
+                    // Check if this story matches by looking at allStories
+                    for (var i = 0; i < allStories.length; i++) {
+                        if (allStories[i].title === storyTitle &&
+                            allStories[i].id.indexOf('story-' + storyNum) !== -1) {
+                            return imageURLs[key];
+                        }
+                    }
+                }
+            }
+
+            // Try manifest data
+            for (var num in imageManifest) {
+                var mdata = imageManifest[num];
+                if (mdata && mdata[platform] && mdata[platform].exported_url) {
+                    // Check if this story number matches
+                    for (var j = 0; j < allStories.length; j++) {
+                        if (allStories[j].title === storyTitle &&
+                            allStories[j].id.indexOf('story-' + num) !== -1) {
+                            return mdata[platform].exported_url;
+                        }
+                    }
+                }
+            }
+
+            return '';
+        }
+
+        function initializeApp() {
+            const saved = localStorage.getItem(REVIEW_STORAGE_KEY + '-' + DATE);
+            if (saved) {
+                try {
+                    reviewData = JSON.parse(saved);
+                } catch (e) {
+                    reviewData = {};
+                }
+            }
+
+            allStories.forEach(function(story) {
+                if (!reviewData[story.id]) {
+                    reviewData[story.id] = {
+                        id: story.id,
+                        type: story.type,
+                        status: 'unreviewed',
+                        notes: '',
+                        content: story.content,
+                        editedContent: null
+                    };
+                }
+                // Migrate old data: ensure editedContent field exists
+                if (reviewData[story.id].editedContent === undefined) {
+                    reviewData[story.id].editedContent = null;
+                }
+            });
+
+            // Restore UI state
+            Object.keys(reviewData).forEach(function(storyId) {
+                var data = reviewData[storyId];
+                var card = document.querySelector('[data-id="' + storyId + '"]');
+                if (card) {
+                    card.setAttribute('data-status', data.status);
+                    var textarea = document.getElementById('textarea-' + storyId);
+                    if (textarea) textarea.value = data.notes || '';
+                    // If content was edited, update the display and editor
+                    if (data.editedContent) {
+                        var contentText = card.querySelector('.card-content-text');
+                        if (contentText) contentText.textContent = data.editedContent;
+                        var editor = document.getElementById('editor-' + storyId);
+                        if (editor) editor.value = data.editedContent;
+                    }
+                    updateCardVisuals(storyId, data.status, !!data.editedContent);
+                }
+            });
+
+            updateProgress();
+            filterByStatus('all');
+        }
+
+        function toggleExpand(storyId) {
+            var content = document.getElementById('content-' + storyId);
+            var toggle = document.getElementById('toggle-' + storyId);
+            if (content.classList.contains('collapsed')) {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                toggle.textContent = 'Collapse';
+            } else {
+                content.classList.remove('expanded');
+                content.classList.add('collapsed');
+                toggle.textContent = 'Show Full Content';
+            }
+        }
+
+        function startEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+            card.classList.add('editing');
+            var editor = document.getElementById('editor-' + storyId);
+            if (editor) {
+                // If previously edited, load edited content; otherwise load original
+                var data = reviewData[storyId];
+                if (data && data.editedContent) {
+                    editor.value = data.editedContent;
+                }
+                editor.focus();
+                // Auto-resize for articles
+                editor.style.minHeight = Math.max(300, editor.scrollHeight) + 'px';
+            }
+        }
+
+        function saveAndApprove(storyId) {
+            var editor = document.getElementById('editor-' + storyId);
+            if (!editor) return;
+            var newContent = editor.value;
+
+            // Save the edited content
+            if (!reviewData[storyId]) {
+                reviewData[storyId] = { id: storyId, status: 'approved', notes: '', content: '', editedContent: null };
+            }
+            reviewData[storyId].editedContent = newContent;
+
+            // Update the display text
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            var contentText = card ? card.querySelector('.card-content-text') : null;
+            if (contentText) contentText.textContent = newContent;
+
+            // Exit edit mode
+            if (card) card.classList.remove('editing');
+
+            // Approve
+            setStatus(storyId, 'approved');
+            updateCardVisuals(storyId, 'approved', true);
+
+            // Update char count for X posts
+            updateCharCount(storyId, newContent);
+        }
+
+        function cancelEdit(storyId) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.classList.remove('editing');
+        }
+
+        function updateCharCount(storyId, text) {
+            var el = document.getElementById('charcount-' + storyId);
+            if (!el) return;
+            // Strip metadata tags before counting
+            var clean = text.replace(/\[CHARACTER COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[CHAR COUNT:.*?\]/gi, '');
+            clean = clean.replace(/\[\d+\/280\]/g, '');
+            // Remove URLs for Twitter count
+            var textNoUrls = clean.replace(/https?:\/\/\S+/g, '');
+            var count = textNoUrls.trim().length;
+            el.textContent = 'Characters: ' + count + '/280' + (count > 280 ? '  OVER LIMIT' : '');
+            el.className = count > 280 ? 'char-count warning' : 'char-count';
+        }
+
+        function approveCard(storyId) {
+            setStatus(storyId, 'approved');
+            document.getElementById('notes-' + storyId).classList.remove('show');
+        }
+
+        function rejectCard(storyId) {
+            setStatus(storyId, 'rejected');
+            document.getElementById('notes-' + storyId).classList.add('show');
+        }
+
+        function setStatus(storyId, status) {
+            if (!reviewData[storyId]) {
+                var story = allStories.find(function(s) { return s.id === storyId; });
+                reviewData[storyId] = {
+                    id: storyId,
+                    type: story ? story.type : '',
+                    status: status,
+                    notes: '',
+                    content: story ? story.content : '',
+                    editedContent: null
+                };
+            }
+
+            reviewData[storyId].status = status;
+
+            var textarea = document.getElementById('textarea-' + storyId);
+            if (textarea) reviewData[storyId].notes = textarea.value;
+
+            localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (card) card.setAttribute('data-status', status);
+            updateCardVisuals(storyId, status, !!(reviewData[storyId] && reviewData[storyId].editedContent));
+            updateProgress();
+        }
+
+        function updateCardVisuals(storyId, status, wasEdited) {
+            var card = document.querySelector('[data-id="' + storyId + '"]');
+            if (!card) return;
+
+            card.classList.remove('approved', 'needs-edit', 'rejected');
+            if (status !== 'unreviewed') card.classList.add(status);
+
+            var statusLabel = document.getElementById('status-' + storyId);
+            if (statusLabel) {
+                statusLabel.className = 'status-label';
+                if (status === 'approved' && wasEdited) {
+                    statusLabel.textContent = 'APPROVED (EDITED)';
+                    statusLabel.classList.add('status-edited');
+                } else if (status === 'approved') {
+                    statusLabel.textContent = 'APPROVED';
+                    statusLabel.classList.add('status-approved');
+                } else if (status === 'needs-edit') {
+                    statusLabel.textContent = 'NEEDS EDIT';
+                    statusLabel.classList.add('status-needs-edit');
+                } else if (status === 'rejected') {
+                    statusLabel.textContent = 'REJECTED';
+                    statusLabel.classList.add('status-rejected');
+                } else {
+                    statusLabel.textContent = '';
+                }
+            }
+        }
+
+        function updateProgress() {
+            var approved = 0, rejected = 0, unreviewed = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status === 'unreviewed') unreviewed++;
+                else if (data.status === 'approved') approved++;
+                else if (data.status === 'rejected') rejected++;
+                else unreviewed++;
+            });
+            var reviewed = approved + rejected;
+            var total = allStories.length;
+            var percentage = total > 0 ? (reviewed / total * 100) : 0;
+            document.getElementById('reviewed-count').textContent = reviewed;
+            document.getElementById('total-count').textContent = total;
+            document.getElementById('progress-fill').style.width = percentage + '%';
+            // Update stat chips
+            document.getElementById('stat-approved-count').textContent = approved;
+            document.getElementById('stat-rejected-count').textContent = rejected;
+            document.getElementById('stat-unreviewed-count').textContent = unreviewed;
+            // Update CSV button
+            var csvBtn = document.getElementById('btn-csv');
+            var tobiBtn = document.getElementById('btn-tobi');
+            var socialApproved = countApprovedSocialPosts();
+            if (csvBtn) {
+                if (socialApproved > 0) {
+                    csvBtn.disabled = false;
+                    csvBtn.textContent = 'PostPlanner Upload (' + socialApproved + ' posts)';
+                } else {
+                    csvBtn.disabled = true;
+                    csvBtn.textContent = 'PostPlanner Upload (0 approved)';
+                }
+            }
+            // Update TOBI button (counts only X/Twitter text posts)
+            if (tobiBtn) {
+                var xApproved = countApprovedXPosts();
+                if (xApproved > 0) {
+                    tobiBtn.disabled = false;
+                    tobiBtn.textContent = 'TOBI Upload (' + xApproved + ' posts)';
+                } else {
+                    tobiBtn.disabled = true;
+                    tobiBtn.textContent = 'TOBI Upload (0 approved)';
+                }
+            }
+        }
+
+        function countApprovedSocialPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && (story.type === 'x_post' || story.type === 'facebook')) {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function countApprovedXPosts() {
+            var count = 0;
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (data && data.status === 'approved' && story.type === 'x_post') {
+                    count++;
+                }
+            });
+            return count;
+        }
+
+        function escapeCSVField(text) {
+            if (!text) return '';
+            // If field contains comma, quote, or newline, wrap in quotes and escape inner quotes
+            if (text.indexOf(',') !== -1 || text.indexOf('"') !== -1 || text.indexOf('\n') !== -1) {
+                return '"' + text.replace(/"/g, '""') + '"';
+            }
+            return text;
+        }
+
+        function extractHashtags(text) {
+            if (!text) return '';
+            var matches = text.match(/#\w+/g);
+            return matches ? matches.join(' ') : '';
+        }
+
+        // ========== POSTING SCHEDULE SYSTEM ==========
+        var defaultXSlots = ['09:00', '12:00', '15:00', '18:00', '21:00'];
+        var defaultFBSlots = ['10:00', '13:00', '17:00'];
+
+        function getScheduleConfig() {
+            var saved = localStorage.getItem(SCHEDULE_STORAGE_KEY);
+            if (saved) {
+                try { return JSON.parse(saved); } catch(e) {}
+            }
+            return { xSlots: defaultXSlots.slice(), fbSlots: defaultFBSlots.slice() };
+        }
+
+        function saveScheduleConfig(config) {
+            localStorage.setItem(SCHEDULE_STORAGE_KEY, JSON.stringify(config));
+        }
+
+        function renderTimeSlots() {
+            var config = getScheduleConfig();
+            var xContainer = document.getElementById('x-time-slots');
+            var fbContainer = document.getElementById('fb-time-slots');
+
+            xContainer.innerHTML = config.xSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27x\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+
+            fbContainer.innerHTML = config.fbSlots.map(function(t, i) {
+                return '<span class="time-slot">' + t + ' <span class="remove-slot" onclick="removeTimeSlot(\x27fb\x27,' + i + ')">&times;</span></span>';
+            }).join('');
+        }
+
+        function addTimeSlot(platform) {
+            var inputId = platform === 'x' ? 'new-x-time' : 'new-fb-time';
+            var val = document.getElementById(inputId).value;
+            if (!val) return;
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            if (arr.indexOf(val) === -1) {
+                arr.push(val);
+                arr.sort();
+            }
+            saveScheduleConfig(config);
+            renderTimeSlots();
+            document.getElementById(inputId).value = '';
+        }
+
+        function removeTimeSlot(platform, index) {
+            var config = getScheduleConfig();
+            var arr = platform === 'x' ? config.xSlots : config.fbSlots;
+            arr.splice(index, 1);
+            saveScheduleConfig(config);
+            renderTimeSlots();
+        }
+
+        function downloadPostPlannerCSV() {
+            // Open schedule panel instead of direct download
+            openSchedulePanel();
+        }
+
+        function openSchedulePanel() {
+            document.getElementById('schedule-date').value = DATE;
+            renderTimeSlots();
+            document.getElementById('schedule-panel').classList.add('show');
+            document.getElementById('schedule-overlay').classList.add('show');
+        }
+
+        function closeSchedulePanel() {
+            document.getElementById('schedule-panel').classList.remove('show');
+            document.getElementById('schedule-overlay').classList.remove('show');
+        }
+
+        function formatTimeForPostPlanner(time24, dateStr) {
+            // Output PostPlanner V2 format: MM/DD/YYYY  HH:MM (24hr)
+            var parts = dateStr.split('-');
+            return parts[1] + '/' + parts[2] + '/' + parts[0] + '  ' + time24;
+        }
+
+        function redistributeTimes(rows) {
+            // Ensure all post times are at least 30 min from now,
+            // evenly spaced through the rest of the day.
+            if (rows.length === 0) return rows;
+
+            var now = new Date();
+            var nowMinutes = now.getHours() * 60 + now.getMinutes();
+            var floorMinutes = nowMinutes + 30;
+            var endMinutes = 22 * 60; // 10:00 PM cutoff
+
+            // Check if ANY post times have already passed
+            var anyPast = rows.some(function(row) {
+                var parts = row.time.split(':');
+                var rowMin = parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+                return rowMin < floorMinutes;
+            });
+
+            if (!anyPast) return rows; // all times are in the future, keep them
+
+            if (floorMinutes >= endMinutes) {
+                alert('It is past 9:30 PM — not enough time remaining to schedule all posts today. Posts will use original times.');
+                return rows;
+            }
+
+            var availableMinutes = endMinutes - floorMinutes;
+            var spacing = Math.floor(availableMinutes / rows.length);
+            if (spacing < 15) spacing = 15; // minimum 15 min gap
+            if (spacing > 90) spacing = 90; // maximum 90 min gap
+
+            rows.forEach(function(row, i) {
+                var postMinutes = floorMinutes + (i * spacing);
+                if (postMinutes >= 24 * 60) postMinutes = 23 * 60 + 45;
+                var h = Math.floor(postMinutes / 60);
+                var m = postMinutes % 60;
+                row.time = (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+            });
+
+            var firstTime = rows[0].time;
+            var lastTime = rows[rows.length - 1].time;
+            console.log('PostPlanner export: redistributed ' + rows.length + ' posts from ' + firstTime + ' to ' + lastTime + ' (' + spacing + ' min apart)');
+            return rows;
+        }
+
+        // Parse actual time from posting_window string like "7:00 AM CT" -> "07:00"
+        function parsePostingTime(timeStr) {
+            if (!timeStr) return null;
+            var m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+            if (!m) return null;
+            var h = parseInt(m[1], 10);
+            var min = m[2];
+            var ampm = m[3].toUpperCase();
+            if (ampm === 'PM' && h !== 12) h += 12;
+            if (ampm === 'AM' && h === 12) h = 0;
+            return (h < 10 ? '0' : '') + h + ':' + min;
+        }
+
+        // Generic window name fallback
+        var windowToTime = {
+            'Morning': '09:00',
+            'Midday': '12:00',
+            'Afternoon': '15:00',
+            'Evening': '18:00',
+            'Late Night': '21:00'
+        };
+
+        function generateAndDownload() {
+            var config = getScheduleConfig();
+            var postDate = document.getElementById('schedule-date').value || DATE;
+
+            var xRows = [];
+            var fbRows = [];
+
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                var finalContent = data.editedContent || story.content;
+
+                if (story.type === 'x_post') {
+                    // If this is an individual tweet card (has tweet_label), use directly
+                    if (story.tweet_label) {
+                        xRows.push({
+                            content: finalContent,
+                            type: story.tweet_type || 'text',
+                            hashtags: story.hashtags || extractHashtags(finalContent),
+                            story: story.title,
+                            posting_window: story.posting_window || ''
+                        });
+                    } else {
+                        // Legacy: parse full story markdown for individual tweets
+                        var sections = parseXPostContent(finalContent, story.title);
+                        sections.forEach(function(post) {
+                            xRows.push({
+                                content: post.text,
+                                type: post.type,
+                                hashtags: extractHashtags(post.text),
+                                story: story.title
+                            });
+                        });
+                    }
+                } else if (story.type === 'facebook') {
+                    var fbPost = parseFacebookContent(finalContent, story.title);
+                    if (fbPost) {
+                        fbRows.push(fbPost);
+                    }
+                }
+            });
+
+            if (xRows.length === 0 && fbRows.length === 0) {
+                alert('No approved social posts to export.');
+                return;
+            }
+
+            // Assign times: use posting_window property first, then content tag, then round-robin
+            function assignTimes(rows, slots, label) {
+                if (slots.length === 0) slots = ['12:00'];
+                var timeFallbacks = [];
+                return rows.map(function(row, i) {
+                    row.date = postDate;
+                    // 1. Try posting_window property (e.g., "7:00 AM CT")
+                    var parsed = parsePostingTime(row.posting_window);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                    // 2. Try [POSTING WINDOW: ...] tag in content
+                    var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                    if (windowMatch) {
+                        parsed = parsePostingTime(windowMatch[1]);
+                        if (parsed) {
+                            row.time = parsed;
+                            return row;
+                        }
+                        if (windowToTime[windowMatch[1].trim()]) {
+                            row.time = windowToTime[windowMatch[1].trim()];
+                            return row;
+                        }
+                    }
+                    // 3. Fall back to round-robin
+                    row.time = slots[i % slots.length];
+                    timeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                    return row;
+                });
+                // Warn if any posts had to use fallback times
+                if (timeFallbacks.length > 0) {
+                    console.warn('TIME WARNING (' + label + '): ' + timeFallbacks.length + ' post(s) had no parsed posting time:\n' + timeFallbacks.join('\n'));
+                }
+            }
+
+            xRows = assignTimes(xRows, config.xSlots, 'X/Twitter');
+            fbRows = assignTimes(fbRows, config.fbSlots, 'Facebook');
+
+            // Generate XLSX in PostPlanner Bulk Upload V2 format
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Falling back to CSV download.');
+                fallbackCSVDownload(xRows, fbRows, postDate);
+                return;
+            }
+
+            // Combine all rows and sort by original time
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) {
+                return a.time.localeCompare(b.time);
+            });
+
+            // Smart time redistribution
+            allRows = redistributeTimes(allRows);
+
+            var wb = XLSX.utils.book_new();
+
+            // PostPlanner V3.1 format: Row 1 = version marker, Row 2 = headers, Row 3+ = data
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            allRows.forEach(function(row) {
+                var caption = cleanMarkdownForPost(row.content);
+                var mediaUrl = '';
+                if (row.type === 'image' || row.type === 'IMAGE') {
+                    mediaUrl = getImageURLForStory(row.story, row.platform === 'facebook' ? 'facebook_image' : 'x_image') || '';
+                }
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    caption,
+                    '',
+                    mediaUrl,
+                    '', '', '', '', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 30}, {wch: 30}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            // Download
+            XLSX.writeFile(wb, 'postplanner-upload-' + postDate + '.xlsx');
+            closeSchedulePanel();
+
+            var msg = 'Downloaded postplanner-upload-' + postDate + '.xlsx with ';
+            var parts = [];
+            if (xRows.length > 0) parts.push(xRows.length + ' X posts');
+            if (fbRows.length > 0) parts.push(fbRows.length + ' Facebook posts');
+            alert(msg + parts.join(' and ') + '.\n\nUpload this file to PostPlanner via Bulk Upload.');
+        }
+
+        function cleanMarkdownForPost(text) {
+            // Strip markdown formatting and metadata that shouldn't appear in social posts
+            if (!text) return '';
+            return text
+                .replace(/\[CHARACTER COUNT:.*?\]/gi, '')
+                .replace(/\[CHAR COUNT:.*?\]/gi, '')
+                .replace(/\[\d+\/280\]/g, '')
+                .replace(/\*\*\[POSTING WINDOW:.*?\]\*\*/g, '')
+                .replace(/\[POSTING WINDOW:.*?\]/g, '')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/^#+\s+/gm, '')
+                .replace(/^[-*]\s+/gm, '')
+                .replace(/```[\s\S]*?```/g, '')
+                .replace(/\n{3,}/g, '\n\n')
+                .trim();
+        }
+
+        function fallbackCSVDownload(xRows, fbRows, postDate) {
+            // Fallback if SheetJS fails to load — generates CSV in V2-like format
+            var allRows = xRows.concat(fbRows);
+            allRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+            if (allRows.length === 0) {
+                alert('No approved posts to export.');
+                closeSchedulePanel();
+                return;
+            }
+            // Smart time redistribution (same as XLSX path)
+            allRows = redistributeTimes(allRows);
+            var csv = '## ' + BRAND_NAME + ' -- PostPlanner Bulk Upload,' + escapeCSVField('BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.') + ',,,,,,,\n';
+            csv += '## POSTING TIME,CAPTION,LINK,MEDIA,TITLE,FIRST COMMENT,FIRST COMMENT DELAY,TOBI BACKGROUND,REEL OR STORY\n';
+            allRows.forEach(function(row) {
+                csv += escapeCSVField(formatTimeForPostPlanner(row.time, postDate)) + ',' +
+                       escapeCSVField(cleanMarkdownForPost(row.content)) + ',' +
+                       ',,,,,,\n';
+            });
+            downloadFile(csv, 'postplanner-upload-' + postDate + '.csv', 'text/csv');
+            closeSchedulePanel();
+        }
+
+        function downloadTOBIExport() {
+            // Generate TOBI XLSX directly (no schedule panel needed — uses same times)
+            generateAndDownloadTOBI();
+        }
+
+        function stripHashtags(text) {
+            // Remove lines that are entirely hashtags, and trailing blank lines
+            var lines = text.split('\n');
+            var cleaned = [];
+            for (var i = 0; i < lines.length; i++) {
+                var stripped = lines[i].trim();
+                if (stripped && stripped.split(/\s+/).every(function(w) { return w.charAt(0) === '#'; })) {
+                    continue;
+                }
+                cleaned.push(lines[i]);
+            }
+            while (cleaned.length > 0 && !cleaned[cleaned.length - 1].trim()) {
+                cleaned.pop();
+            }
+            return cleaned.join('\n');
+        }
+
+        function generateAndDownloadTOBI() {
+            var postDate = document.getElementById('schedule-date') ?
+                document.getElementById('schedule-date').value || DATE : DATE;
+
+            // Collect approved X/Twitter text posts only
+            var xRows = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id];
+                if (!data || data.status !== 'approved') return;
+                if (story.type !== 'x_post') return;
+
+                var finalContent = data.editedContent || story.content;
+                if (story.tweet_label) {
+                    xRows.push({
+                        content: finalContent,
+                        posting_window: story.posting_window || '',
+                        story: story.title
+                    });
+                }
+            });
+
+            if (xRows.length === 0) {
+                alert('No approved X/Twitter posts for TOBI export.');
+                return;
+            }
+
+            // Assign times — use same logic as regular export (posting_window → content tag → round-robin)
+            var tobiSlots = defaultXSlots.slice();
+            if (tobiSlots.length === 0) tobiSlots = ['12:00'];
+            var tobiTimeFallbacks = [];
+            xRows = xRows.map(function(row, i) {
+                row.date = postDate;
+                // 1. Try posting_window property (e.g., "7:00 AM CT")
+                var parsed = parsePostingTime(row.posting_window);
+                if (parsed) {
+                    row.time = parsed;
+                    return row;
+                }
+                // 2. Try [POSTING WINDOW: ...] tag in content
+                var windowMatch = row.content ? row.content.match(/\[POSTING WINDOW:\s*([^\]]+)\]/) : null;
+                if (windowMatch) {
+                    parsed = parsePostingTime(windowMatch[1]);
+                    if (parsed) {
+                        row.time = parsed;
+                        return row;
+                    }
+                }
+                // 3. Fall back to round-robin through time slots (NOT 12:00)
+                row.time = tobiSlots[i % tobiSlots.length];
+                tobiTimeFallbacks.push('Post ' + (i + 1) + ': no parsed time, using ' + row.time);
+                return row;
+            });
+            // Warn if any posts had to use fallback times
+            if (tobiTimeFallbacks.length > 0) {
+                console.warn('TOBI TIME WARNING: ' + tobiTimeFallbacks.length + ' post(s) had no parsed posting time:\n' + tobiTimeFallbacks.join('\n'));
+            }
+
+            // Sort by time
+            xRows.sort(function(a, b) { return a.time.localeCompare(b.time); });
+
+            // Smart time redistribution
+            xRows = redistributeTimes(xRows);
+
+            // TOBI processing: preserve hashtags + emojis as much as possible
+            var TOBI_LIMIT = 130;
+
+            function extractHashtags(text) {
+                var matches = text.match(/#\w+/g);
+                return matches || [];
+            }
+
+            function extractTrailingEmoji(text) {
+                var m = text.match(/\s*([\u{1F300}-\u{1FAFF}\u2600-\u27BF\u2B50\u26A0-\u26FF]+)\s*$/u);
+                if (m) {
+                    return { emoji: m[1], text: text.substring(0, m.index).trimEnd() };
+                }
+                return { emoji: null, text: text };
+            }
+
+            function truncateAtSentence(text, limit) {
+                var sentences = text.split(/(?<=[.!?])\s+/);
+                // Merge standalone emoji fragments into preceding sentence
+                var merged = [];
+                for (var s = 0; s < sentences.length; s++) {
+                    var trimmed = sentences[s].trim();
+                    if (!trimmed) continue;
+                    if (merged.length > 0 && !/[A-Za-z0-9]/.test(trimmed)) {
+                        merged[merged.length - 1] = merged[merged.length - 1] + ' ' + trimmed;
+                    } else {
+                        merged.push(trimmed);
+                    }
+                }
+                var truncated = '';
+                for (var s = 0; s < merged.length; s++) {
+                    var candidate = truncated ? truncated + ' ' + merged[s] : merged[s];
+                    if (candidate.length <= limit) {
+                        truncated = candidate;
+                    } else {
+                        break;
+                    }
+                }
+                // Clean up trailing abbreviation fragments (Dr., Mr., vs.)
+                if (truncated) {
+                    var parts = truncated.split(' ');
+                    var last = parts[parts.length - 1];
+                    if (parts.length > 1 && last.length <= 4 && /^[A-Za-z]+\.$/.test(last)) {
+                        parts.pop();
+                        truncated = parts.join(' ');
+                    }
+                }
+                return truncated || text.substring(0, limit - 3) + '...';
+            }
+
+            function fitHashtagsWithinLimit(text, hashtags, limit) {
+                if (!hashtags.length) return text;
+                // Try all hashtags, then progressively fewer
+                for (var n = hashtags.length; n > 0; n--) {
+                    var tagBlock = '\n\n' + hashtags.slice(0, n).join(' ');
+                    if ((text + tagBlock).length <= limit) {
+                        return text + tagBlock;
+                    }
+                }
+                return text;
+            }
+
+            if (typeof XLSX === 'undefined') {
+                alert('SheetJS library not loaded. Cannot generate TOBI XLSX.');
+                return;
+            }
+
+            var wb = XLSX.utils.book_new();
+            var data = [
+                ['## ' + BRAND_NAME + ' -- PostPlanner TOBI Bulk Upload', 'BULK UPLOAD VERSION 3.1 – Please DO NOT EDIT this cell.', '', '', '', '', '', '', ''],
+                ['## POSTING TIME', 'CAPTION', 'LINK', 'MEDIA', 'TITLE', 'FIRST COMMENT', 'FIRST COMMENT DELAY', 'TOBI BACKGROUND', 'REEL OR STORY']
+            ];
+
+            var keptHashtags = 0;
+            var strippedHashtags = 0;
+
+            xRows.forEach(function(row, i) {
+                var caption = cleanMarkdownForPost(row.content);
+
+                // If full caption fits under limit, use as-is — ALL hashtags + emojis preserved
+                if (caption.length <= TOBI_LIMIT) {
+                    if (extractHashtags(caption).length > 0) keptHashtags++;
+                    data.push([
+                        formatTimeForPostPlanner(row.time, postDate),
+                        caption, '', '', '', '', '', 'true-black', ''
+                    ]);
+                    return;
+                }
+
+                // Over limit — decompose and rebuild intelligently
+                var hashtags = extractHashtags(caption);
+                var coreText = stripHashtags(caption).trimEnd();
+                var emojiResult = extractTrailingEmoji(coreText);
+                var trailing_emoji = emojiResult.emoji;
+                var coreNoEmoji = emojiResult.text.trimEnd();
+
+                // Step 1: Get core text under limit
+                var result;
+                if (coreNoEmoji.length <= TOBI_LIMIT) {
+                    result = coreNoEmoji;
+                } else {
+                    result = truncateAtSentence(coreNoEmoji, TOBI_LIMIT);
+                }
+
+                // Step 2: Try to add back trailing emoji
+                if (trailing_emoji) {
+                    var withEmoji = result + ' ' + trailing_emoji;
+                    if (withEmoji.length <= TOBI_LIMIT) {
+                        result = withEmoji;
+                    }
+                }
+
+                // Step 3: Try to add back as many hashtags as possible
+                if (hashtags.length > 0) {
+                    var before = result;
+                    result = fitHashtagsWithinLimit(result, hashtags, TOBI_LIMIT);
+                    if (result !== before) keptHashtags++;
+                    else strippedHashtags++;
+                }
+
+                data.push([
+                    formatTimeForPostPlanner(row.time, postDate),
+                    result, '', '', '', '', '', 'true-black', ''
+                ]);
+            });
+
+            var sheet = XLSX.utils.aoa_to_sheet(data);
+            sheet['!cols'] = [
+                {wch: 20}, {wch: 80}, {wch: 10}, {wch: 10}, {wch: 10}, {wch: 20}, {wch: 18}, {wch: 18}, {wch: 14}
+            ];
+            XLSX.utils.book_append_sheet(wb, sheet, 'Sheet1');
+
+            XLSX.writeFile(wb, 'postplanner-tobi-upload-' + postDate + '.xlsx');
+
+            alert('Downloaded TOBI export with ' + xRows.length + ' posts.\n\n' +
+                  keptHashtags + ' posts kept hashtags, ' + strippedHashtags + ' had hashtags removed for length.\n\n' +
+                  'Background: true-black (Column H).\nUpload to PostPlanner for Facebook TOBI posts.');
+        }
+
+        function parseXPostContent(content, storyTitle) {
+            var posts = [];
+            var lines = content.split('\n');
+
+            var inTextPost = false;
+            var inThread = false;
+            var currentTweetNum = 0;
+            var currentText = [];
+
+            for (var i = 0; i < lines.length; i++) {
+                var line = lines[i];
+                var trimmed = line.trim();
+
+                if (trimmed.match(/^###\s+Text Post/i)) {
+                    flushPost();
+                    inTextPost = true;
+                    inThread = false;
+                    currentText = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Thread Concept/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = true;
+                    currentText = [];
+                    currentTweetNum = 0;
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post/i)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/)) {
+                    flushPost();
+                    inTextPost = false;
+                    inThread = false;
+                    continue;
+                }
+
+                if (inThread && trimmed.match(/^\*\*Tweet\s+\d+/i)) {
+                    flushPost();
+                    currentTweetNum++;
+                    currentText = [];
+                    continue;
+                }
+
+                if (inTextPost || (inThread && currentTweetNum > 0)) {
+                    if (trimmed !== '') {
+                        currentText.push(line);
+                    }
+                }
+            }
+            flushPost();
+
+            function flushPost() {
+                if (currentText.length === 0) return;
+                var text = currentText.join('\n').trim();
+                if (!text) return;
+
+                if (inTextPost) {
+                    posts.push({ text: text, type: 'text' });
+                } else if (inThread && currentTweetNum > 0) {
+                    posts.push({
+                        text: text,
+                        type: currentTweetNum === 1 ? 'thread_start' : 'thread_reply'
+                    });
+                }
+                currentText = [];
+            }
+
+            return posts;
+        }
+
+        function parseFacebookContent(content, storyTitle) {
+            var lines = content.split('\n');
+            var inLongForm = false;
+            var inImagePost = false;
+            var longFormLines = [];
+            var imageCaption = '';
+
+            for (var i = 0; i < lines.length; i++) {
+                var trimmed = lines[i].trim();
+
+                if (trimmed.match(/^###\s+Long-Form Post/i)) {
+                    inLongForm = true;
+                    inImagePost = false;
+                    longFormLines = [];
+                    continue;
+                }
+                if (trimmed.match(/^###\s+Image Post Caption/i) || trimmed.match(/^###\s+Image Post/i)) {
+                    inLongForm = false;
+                    inImagePost = true;
+                    continue;
+                }
+                if (trimmed.match(/^###\s/) || trimmed.match(/^---/)) {
+                    inLongForm = false;
+                    inImagePost = false;
+                    continue;
+                }
+
+                if (inLongForm) {
+                    longFormLines.push(lines[i]);
+                }
+                if (inImagePost && trimmed !== '') {
+                    imageCaption = trimmed;
+                    inImagePost = false;
+                }
+            }
+
+            var longForm = longFormLines.join('\n').trim();
+            if (!longForm) return null;
+
+            return {
+                content: longForm,
+                image_caption: imageCaption,
+                story: storyTitle
+            };
+        }
+
+        function downloadFile(content, filename, mimeType) {
+            var blob = new Blob([content], { type: mimeType });
+            var url = URL.createObjectURL(blob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        var currentStatusFilter = 'all';
+        var currentTypeFilter = 'all';
+
+        function filterByStatus(status) {
+            currentStatusFilter = status;
+            applyFilters();
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim().toLowerCase().replace(/\s+/g, '') === status.replace('-', '').toLowerCase() ||
+                    (status === 'all' && btn.textContent.trim() === 'All') ||
+                    (status === 'needs-edit' && btn.textContent.trim() === 'Needs Edit')) {
+                    btn.classList.add('active');
+                }
+            });
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+        }
+
+        function filterByType(type) {
+            currentTypeFilter = type;
+            currentStatusFilter = 'all';
+            applyFilters();
+            document.querySelectorAll('.sidebar .nav-item').forEach(function(item) { item.classList.remove('active'); });
+            document.querySelectorAll('.filter-btn').forEach(function(btn) {
+                btn.classList.remove('active');
+                if (btn.textContent.trim() === 'All') btn.classList.add('active');
+            });
+        }
+
+        function applyFilters() {
+            var cards = document.querySelectorAll('.card');
+            var visibleCount = 0;
+            cards.forEach(function(card) {
+                var cardStatus = card.getAttribute('data-status');
+                var cardType = card.getAttribute('data-type');
+                var matchesStatus = (currentStatusFilter === 'all') || (cardStatus === currentStatusFilter);
+                var matchesType = (currentTypeFilter === 'all') || (cardType === currentTypeFilter);
+                if (matchesStatus && matchesType) {
+                    card.classList.add('show');
+                    visibleCount++;
+                } else {
+                    card.classList.remove('show');
+                }
+            });
+            document.getElementById('empty-state').style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        function approveAll() {
+            if (!confirm('Approve all ' + allStories.length + ' items?')) return;
+            allStories.forEach(function(story) { setStatus(story.id, 'approved'); });
+        }
+
+        function resetAll() {
+            if (confirm('Reset all reviews? This cannot be undone.')) {
+                localStorage.removeItem(REVIEW_STORAGE_KEY + '-' + DATE);
+                location.reload();
+            }
+        }
+
+        function copyContent(storyId) {
+            var data = reviewData[storyId];
+            var story = allStories.find(function(s) { return s.id === storyId; });
+            var text = (data && data.editedContent) ? data.editedContent : (story ? story.content : '');
+            navigator.clipboard.writeText(text).then(function() {
+                var btn = document.querySelector('[data-id="' + storyId + '"] .btn-copy');
+                if (btn) { var orig = btn.textContent; btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = orig; }, 1500); }
+            });
+        }
+
+        function exportApprovals() {
+            var items = [];
+            allStories.forEach(function(story) {
+                var data = reviewData[story.id] || {};
+                items.push({
+                    id: story.id,
+                    type: story.type,
+                    title: story.title,
+                    status: data.status || 'unreviewed',
+                    notes: data.notes || '',
+                    content: story.content,
+                    editedContent: data.editedContent || null,
+                    finalContent: data.editedContent || story.content
+                });
+            });
+
+            var exportData = {
+                date: DATE,
+                reviewed_by: '',
+                reviewed_at: new Date().toISOString(),
+                items: items
+            };
+
+            var dataStr = JSON.stringify(exportData, null, 2);
+            var dataBlob = new Blob([dataStr], { type: 'application/json' });
+            var url = URL.createObjectURL(dataBlob);
+            var link = document.createElement('a');
+            link.href = url;
+            link.download = 'approvals-' + DATE + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Auto-save notes as you type
+        document.addEventListener('input', function(e) {
+            if (e.target.classList.contains('notes-textarea')) {
+                var storyId = e.target.id.replace('textarea-', '');
+                if (reviewData[storyId]) {
+                    reviewData[storyId].notes = e.target.value;
+                    localStorage.setItem(REVIEW_STORAGE_KEY + '-' + DATE, JSON.stringify(reviewData));
+                }
+            }
+        });
+
+        initializeApp();
+
+    </script>
+</body>
+</html>
