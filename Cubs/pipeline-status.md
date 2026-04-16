@@ -1,11 +1,37 @@
 # Cubs Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-30
+- **Date**: 2026-03-30 (last FULL pipeline run)
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches), brief, analysis, X posts (7), fact-check, compile, dashboard, publish, PostPlanner export (X only, no TOBI — Cubs is X-only niche)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/cubs-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
 - **Issues**: publish-dashboard.py push rejected non-fast-forward; fixed with git pull --rebase + manual push.
+
+## Pipeline Gap (2026-03-31 → 2026-04-16)
+
+No full pipeline runs executed during this window. During the gap, a new
+auto-posting architecture went live:
+
+- **cubs-x-bot** (Railway `Cubs X Bot`) — cron every 15 min, ingests brief
+  JSON from GitHub raw + falls back to RSS
+- **game-monitor** (Railway `lucid-essence`) — polls MLB StatsAPI, posts
+  Cubs home runs, lead-changes, game previews, and finals
+
+See `AUTOMATION.md` for the current architecture. The xlsx PostPlanner
+workflow is deprecated — no manual upload needed anymore.
+
+Three hand-curated briefs were pushed directly to cover the gap and smoke-test
+the new brief-ingestion path. Each bypassed the full 15-step pipeline (no
+daily brief, research notes, story analysis, fact-check log, or dashboard):
+
+- **2026-04-15** (commit `5f22756`) — 7 posts, all slots past grace by push time, used only as a historical record
+- **2026-04-16** (commit `67d3e25`) — 7 posts for an off-day; story 4 onward were real candidates to fire but the daily cap from RSS backlog blocked them
+- **2026-04-17** (commit `92746f9`) — 7 posts for the home opener vs Mets; first brief scheduled to fire the full 7-slot day from 7:00 AM CT
+
+**Next full pipeline run** should resume normal operation. Story-history
+is intentionally NOT updated for these recovery briefs — the next real run
+should treat the covered stories as already-known context, but doesn't need
+to mark them as pipeline-produced.
 
 ## Previous Run
 - **Date**: 2026-03-29
