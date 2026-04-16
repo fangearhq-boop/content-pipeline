@@ -1,0 +1,192 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-17",
+  "compiled_at": "2026-04-16T16:45:00+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {"time": "7:00 AM", "description": "Story 1", "type": "X"},
+    {"time": "8:30 AM", "description": "Story 2", "type": "X"},
+    {"time": "10:00 AM", "description": "Story 3", "type": "X"},
+    {"time": "11:30 AM", "description": "Story 4", "type": "X"},
+    {"time": "1:00 PM", "description": "Story 5", "type": "X"},
+    {"time": "5:30 PM", "description": "Story 6", "type": "X"},
+    {"time": "7:00 PM", "description": "Story 7", "type": "X"}
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Home Opener vs Mets — First Weekend at Wrigley",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Home opener day.\n\nMets in town for three. Wrigley ready. 1:20 PM first pitch.\n\nAfter a series win in Philly, this is the real start of the season for the North Side.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 191
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 2,
+      "title": "Pitching Crisis — Horton and Hodge Both Lost for the Season",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The rotation and bullpen just got gutted.\n\nCade Horton: season-ending UCL surgery yesterday.\nPorter Hodge: season-ending UCL surgery next week.\nJustin Steele: still months away.\n\nThree arms gone. And this team is still winning series.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:30 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 3,
+      "title": "The Offense Is Humming — Hoerner, Swanson, Shaw All Clicking",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Cubs offense is humming.\n\nHoerner: career-high 5 RBIs Wednesday.\nSwanson: HR + clutch at-bats.\nShaw: 3 doubles in one game.\n\nWhen this lineup clicks, the pitching losses become survivable. Right now they're clicking.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "10:00 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 246
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 4,
+      "title": "Game Preview — Cabrera vs Senga at Wrigley",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Home opener vs the Mets. 1:20 PM CT at Wrigley.\n\nEdward Cabrera vs Kodai Senga. Two guys with electric stuff.\n\nCabrera's quietly been the most reliable arm in this rotation. Pitcher's duel on paper.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "11:30 AM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 221
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 5,
+      "title": "Game Time Hype — First Pitch at Wrigley",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Game time at Wrigley in 20 minutes.\n\nCabrera on the hill vs Senga and the Mets. Homestand opens with a bang.\n\nComing off a series win in Philly. Offense rolling. Bullpen duct-taped together. Let's go.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "1:00 PM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#FlyTheW"],
+          "char_count": 229
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 6,
+      "title": "Minor League Watch — Wiggins on the MiLB IL",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Jaxon Wiggins: 7-day Minor League IL, right elbow inflammation.\n\nThe top Cubs pitching prospect last threw April 4 for Iowa. Counsell says it's precautionary — arm just needed rest.\n\nAnother Cubs arm to monitor.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "5:30 PM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 237
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    },
+    {
+      "story_num": 7,
+      "title": "Evening Perspective — The Cubs Keep Winning Anyway",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Slow down and zoom out on the Cubs:\n\nThree starters gone. Four relievers on the IL. And they keep winning series.\n\nThat's not luck. That's a roster built to grind through the hard weeks.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 PM CT",
+          "tweet_type": "",
+          "hashtags": ["#Cubs", "#GoCubs", "#MLB"],
+          "char_count": 216
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
