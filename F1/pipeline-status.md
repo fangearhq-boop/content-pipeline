@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-15
+- **Date**: 2026-04-16
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-16
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5: FIA April 16 technical meeting, Mansell+Marko on Antonelli-Russell battle, Russell race starts Nürburgring test, Ferrari Monza filming day April 22, McLaren Miami comeback mission)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-16.xlsx (12 posts) + f1fr-postplanner-tobi-2026-04-16.xlsx (12 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-16/review-dashboard.html (22 items)
+- **Notes:** FIA April 16 technical session (2nd in series: energy mgmt, ADUO, super clip 250→350kW); April 20 high-level vote next; Mansell: "everyone rooting for Antonelli" / Marko warns of European slump risk; Antonelli 72 pts, Russell 63 pts (youngest leader 19y 216d); Russell "huge amount behind the scenes" on starts — Nürburgring tyre test April 14-15 — Ferrari smaller turbo advantage; Ferrari Monza filming day April 22 (aero+weight reduction+cooling for Miami); McLaren Stella: "fight for more important positions" — aero efficiency upgrades confirmed for Miami; Norris 25 / Piastri 21 pts.
+- **Fact concerns:** Super clipping 250→350kW figure HIGH (multiple sources). Antonelli youngest leader 19y 216d HIGH (NBC News, Al Jazeera, F1.com). Marko slump quote MEDIUM (Motorsport.com single source — paraphrase not direct quote for slump). Russell "huge amount" quote HIGH (Sky Sports, Crash.net). Ferrari turbo spin-up advantage MEDIUM (technical explanation from Sky Sports single source). Stella "more important positions" quote HIGH (Formula1.com official).
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-15
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

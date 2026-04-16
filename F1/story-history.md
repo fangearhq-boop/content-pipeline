@@ -724,3 +724,16 @@
 - **Tier:** 3
 - **Key facts:** Round 3, Suzuka, March 29. Standard weekend (no sprint). Race 2:00 PM local / 1:00 AM ET. Five-week gap to Miami after Japan.
 - **Status:** NEW STORY
+
+---
+
+## 2026-04-16
+
+| # | Story | Tier | Status |
+|---|-------|------|--------|
+| 1 | FIA April 16 Technical Meeting — Energy management, ADUO, super clip 250→350kW discussed; April 20 high-level vote; changes finalized before Miami May 3 | 1 | FOLLOW-UP (April 14 covered April 20 vote; April 15 covered sporting regs; today is technical session) |
+| 2 | Mansell: "Everyone Rooting for Antonelli" + Marko warning — external observers weigh in on Russell vs Antonelli intra-Mercedes title battle; Antonelli youngest champion leader at 19y 216d; Marko warns of European slump risk | 1 | NEW STORY |
+| 3 | Russell "Behind the Scenes" starts work — Nürburgring tyre test April 14-15; Mercedes can't hold race lead after launch; Ferrari smaller turbo advantage; simulator analysis underway | 2 | NEW STORY |
+| 4 | Ferrari Monza filming day April 22 — aero, weight reduction, cooling upgrades for Miami; "mini pre-season" framing; 45-pt Constructors' deficit to close | 2 | FOLLOW-UP (April 15 mentioned Monza day; today's angle is upgrade significance + context) |
+| 5 | McLaren Miami comeback — Stella: "fight for more important positions"; aero efficiency upgrades confirmed for Miami and beyond; Norris 25 pts, Piastri 21 pts; double DNS China still painful | 2 | NEW STORY |
+
