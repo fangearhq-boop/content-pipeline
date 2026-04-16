@@ -1,0 +1,360 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-16",
+  "compiled_at": "2026-04-16T10:14:35.006168+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (Bedlam Upset)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 6 (TTech No. 1 chase)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2 (Poll Fallout)",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 (Wells HR Chase)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5 (Nebraska Title)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 4 (OU vs Arkansas preview)",
+      "type": "X + FB"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7 (FSU Senior Weekend)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Oklahoma State Stuns No. 1 Oklahoma 6-4 — Ruby Meylan Delivers in Bedlam",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "No. 21 Oklahoma State 6, No. 1 Oklahoma 4. 🥎\n\nRuby Meylan: complete game, 133 pitches, 9 K.\nOSU's first upset of a No. 1 team since the 2022 Big 12 Championship.\n\nBedlam delivered. #OKState #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OKState",
+            "#CollegeSoftball"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Bedlam details: 🥎\n\nMeylan: 133 pitches, CG, 9 K\nOU's Dayton: 2-run double in 7th — too little\nTornado warning ended play after the 7th\nOklahoma falls to 40-5. Two losses in four days.\n\nThe No. 1 spot is suddenly up for grabs. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-oklahoma-state-upsets-no-1-oklahoma-bedlam-6-4-meylan.html",
+        "headline": "Oklahoma State Upsets No. 1 Oklahoma 6-4 — Meylan Delivers in Bedlam",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma State 6-4 Bedlam Upset\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Oklahoma State pitcher in action or Cowgirls celebrating at Devon Park\n- **Photo Search Terms:**\n  1. \"Ruby Meylan Oklahoma State\"\n  2. \"Jordyn Sides Oklahoma State\"\n  3. \"Rylee Bowen Oklahoma State\"\n  4. \"Oklahoma State softball player\"\n  5. \"Cowgirls softball Devon Park\"\n- **Text Overlay:**\n  - Headline: \"BEDLAM UPSET\" (white, Poppins Bold)\n  - Subtitle: \"OSU 6, No. 1 OU 4 | Meylan CG 9K\" (gold #F4C542, Nunito)\n- **Composition Notes:** Celebration moment preferred; pitcher delivery also works\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Ruby Meylan Oklahoma State\" or \"Oklahoma State softball pitcher\"\n- **Text Overlay:** \"Cowgirls Stun No. 1 Oklahoma 6-4 in Bedlam\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Bedlam Fallout — OU's No. 1 Ranking in Jeopardy as Texas Tech Eyes the Top",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Before the Bedlam loss, OU was No. 1 in the NFCA poll by 2 POINTS.\n\nOklahoma: 747 pts. Texas Tech: 745 pts.\n\nOU is now 40-5. Tech is 40-3.\n\nWeek 12 poll drops April 21. The top just reshuffled. #CollegeSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Texas Tech is 40-3. NiJaree Canady is 17-2.\nZero losses since mid-March.\n\nOklahoma just lost Bedlam and fell to 40-5.\n\nNFCA Week 12 poll drops April 21. The No. 1 ranking is Texas Tech's to lose. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nfca-poll-fallout-ou-no-1-ranking-texas-tech-2026.html",
+        "headline": "NFCA Poll Fallout — OU's No. 1 Ranking in Jeopardy After Bedlam Loss",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NFCA Week 11 Poll Fallout\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Texas Tech pitcher or batter in black and red uniform, dominant game action\n- **Photo Search Terms:**\n  1. \"NiJaree Canady Texas Tech\"\n  2. \"NiJaree Canady Texas Tech pitcher\"\n  3. \"Texas Tech softball pitcher\"\n  4. \"Hailey Toney Texas Tech\"\n  5. \"Texas Tech softball batter\"\n- **Text Overlay:**\n  - Headline: \"RANKINGS SHAKEUP\" (white, Poppins Bold)\n  - Subtitle: \"TTech 40-3 | OU 40-5 | Poll Drops April 21\" (gold #F4C542, Nunito)\n- **Composition Notes:** TTech uniforms are strong visual; Canady delivery shot preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"NiJaree Canady Texas Tech\"\n- **Text Overlay:** \"Rankings Shakeup — OU's No. 1 in Jeopardy After Bedlam Loss\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Kendall Wells at 31 HRs — 6 from Espinoza's All-Time Record, Next Stage Is Arkansas",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kendall Wells needs 6 more home runs to break a record that has stood since 1995.\n\nLauren Espinoza hit 37 for Arizona. Wells is at 31. 🥎\n\nOklahoma hosts No. 6 Arkansas this weekend — three more games, three more chances.\n\nThe record chase continues. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-kendall-wells-31-home-runs-espinoza-record-chase-2026.html",
+        "headline": "Kendall Wells Is 6 From History — Chasing the All-Time NCAA HR Record",
+        "word_count": 522
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells HR Chase\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Wells in the batter's box, mid-swing or post-swing celebration\n- **Photo Search Terms:**\n  1. \"Kendall Wells Oklahoma\"\n  2. \"Kendall Wells Oklahoma catcher\"\n  3. \"Alyssa Brito Oklahoma bat\"\n  4. \"Tiare Jennings Oklahoma batting\"\n  5. \"Oklahoma softball batter swing\"\n- **Text Overlay:**\n  - Headline: \"6 FROM HISTORY\" (white, Poppins Bold)\n  - Subtitle: \"Wells needs 6 HRs for the all-time record\" (gold #F4C542, Nunito)\n- **Composition Notes:** Power swing or HR trot preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Kendall Wells Oklahoma\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** OU vs. Arkansas This Weekend — Bounce-Back Bid After Back-to-Back Losses",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Oklahoma (40-5) hosts No. 6 Arkansas this weekend.\nApril 17-19. Love's Field. ESPN2.\n\nTwo losses in four days. This is not a soft landing.\n\nArkansas won series over Miss. State and Florida in April.\n\nOU needs this one. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-oklahoma-arkansas-weekend-preview-sec-bounce-back.html",
+        "headline": "Oklahoma vs. Arkansas Preview — Sooners Need a Bounce-Back After Back-to-Back Losses",
+        "word_count": 460
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "OU vs. Arkansas Weekend Preview\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** OU batter or fielder at Love's Field, Norman; energized game action\n- **Photo Search Terms:**\n  1. \"Tiare Jennings Oklahoma\"\n  2. \"Grace Lyons Oklahoma\"\n  3. \"Oklahoma softball Love's Field\"\n  4. \"Alyssa Brito Oklahoma\"\n  5. \"Oklahoma Sooners softball Norman\"\n- **Text Overlay:**\n  - Headline: \"BOUNCE-BACK TIME\" (white, Poppins Bold)\n  - Subtitle: \"No. 1 OU vs. No. 6 Arkansas | April 17-19 | ESPN2\" (gold #F4C542, Nunito)\n- **Composition Notes:** Love's Field exterior or game atmosphere preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Oklahoma softball Love's Field\" or \"Tiare Jennings Oklahoma\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Nebraska Heads to Minnesota — No. 6 Huskers Chase First Big Ten Title Since 2011",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "No. 6 Nebraska is at Minnesota this weekend. 🥎\n\n33-6. 14-1 Big Ten. 8-game win streak.\nThe Huskers are chasing a Big Ten regular-season title.\n\nCoach Rhonda Revelle's program is one of college softball's best stories in 2026. #Huskers #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#CollegeSoftball"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nebraska-big-ten-title-chase-minnesota-series.html",
+        "headline": "Nebraska Chases Big Ten Title at Minnesota — Huskers on an 8-Game Win Streak",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska at Minnesota\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Nebraska player in red uniform, batting or fielding\n- **Photo Search Terms:**\n  1. \"Courtney Wallace Nebraska\"\n  2. \"Brooke Andrews Nebraska\"\n  3. \"Billie Andrews Nebraska\"\n  4. \"Nebraska softball pitcher\"\n  5. \"Nebraska softball red uniform\"\n- **Text Overlay:**\n  - Headline: \"HUSKERS ON A MISSION\" (white, Poppins Bold)\n  - Subtitle: \"No. 6 Nebraska | 33-6 | 14-1 Big Ten\" (gold #F4C542, Nunito)\n- **Composition Notes:** Nebraska red uniform with action shot preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Nebraska softball player\" or \"Billie Andrews Nebraska\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Texas Tech Primed to Take No. 1 — Red Raiders Win While OU Stumbles",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Texas Tech was 2 points from No. 1 before Oklahoma lost Bedlam.\n\nThe Red Raiders are 40-3. NiJaree Canady is 17-2.\n\nOU is now 40-5.\n\nApril 21 NFCA poll is going to be interesting. #CollegeSoftball #TexasTech",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#TexasTech"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech Positioned for No. 1\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** NiJaree Canady pitching in Texas Tech uniform\n- **Photo Search Terms:**\n  1. \"NiJaree Canady Texas Tech\"\n  2. \"NiJaree Canady pitching\"\n  3. \"Texas Tech softball pitcher red\"\n  4. \"Hailey Toney Texas Tech\"\n  5. \"Texas Tech softball Red Raiders\"\n- **Text Overlay:**\n  - Headline: \"TECH TO NO. 1?\" (white, Poppins Bold)\n  - Subtitle: \"Red Raiders 40-3 | Poll Drops April 21\" (gold #F4C542, Nunito)\n\n**Article Hero:** Not required (Story 6 social only)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** FSU Senior Weekend — Seminoles Host UNC to Begin Post-Stanford Rebuild",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "FSU hosts North Carolina this weekend for Senior Weekend.\n\nThe Seminoles lost their 25-game win streak to Stanford last week.\n\nThree games vs. UNC. Then Florida April 22.\n\nFSU's national seed depends on these 10 days. #FSUSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU Senior Weekend vs. UNC\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** FSU player in garnet-and-gold uniform, game action at JoAnne Graf Field\n- **Photo Search Terms:**\n  1. \"Kaley Mudge Florida State\"\n  2. \"Kathryn Sandercock Florida State\"\n  3. \"Michaela Edenfield Florida State\"\n  4. \"Florida State softball pitcher\"\n  5. \"Jessica Burroughs Florida State\"\n- **Text Overlay:**\n  - Headline: \"SENIOR WEEKEND STARTS NOW\" (white, Poppins Bold)\n  - Subtitle: \"FSU vs. UNC | April 17-19 | JoAnne Graf Field\" (gold #F4C542, Nunito)\n\n**Article Hero:** Not required (Story 7 social only)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
