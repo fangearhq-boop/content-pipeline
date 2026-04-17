@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-17
+
+### Story 1: Ohtani On-Base Streak at 48 Games
+- **Angle:** FOLLOW UP (from April 16 Ohtani story). Streak at 48 games (as of April 14); broke Ichiro's Japanese-born MLB record (44 games, April 11); passed Ron Cey (47) for 3rd in Dodgers franchise history. Next: Keeler (50). Also 0.00 ERA in two 2026 pitching starts (12 IP).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Streak milestones (50, 53, 58); Ohtani next pitching start
+
+### Story 2: Walker vs. Judge — April HR Race, Both at 8
+- **Angle:** FOLLOW UP (from April 16 Walker + Judge stories). Walker extended hitting streak to 11 games (Cardinals 5-3 Guardians, April 16). Both tied at 8 HRs for MLB lead. Walker ties Cardinals franchise record for HRs in first 16 games (McGwire, Musial, Rolen, Pujols). wRC+ 219, exit velo 97.1 mph (MLB-best). Judge on 60-HR pace.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Walker/Judge HR pace, Walker adjustment to opposing scouting
+
+### Story 3: Giolito Signs with Braves — 1 yr / $6M
+- **Angle:** FOLLOW UP (from April 16 Giolito unsigned story). Signed 1-year $6M deal with Atlanta Braves (12-7, NL East). Cubs and Padres missed out. Giolito 10-4 3.41 ERA 2025 Red Sox. UCL history had caused delay; was throwing 75-pitch sessions to stay ready.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Giolito first Braves start date, Cubs rotation alternatives
+
+### Story 4: Brewers Skid at 6 — NL Central Race Reshuffled
+- **Angle:** FOLLOW UP (from April 16 Brewers story). 6-game losing streak (longest since 2003). Yelich (mid-late May), Chourio (early May), Vaughn (mid-May), Priester, Koenig on IL. Pittsburgh and Cincinnati both 11-7, tied for NL Central lead.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Chourio/Vaughn return (early May), NL Central standings through May
+
+### Story 5: Trevor Story — HR + 5 RBIs vs Twins (April 14)
+- **Angle:** NEW STORY. Story homered and drove in 5 runs in Red Sox win over Twins (April 14). After UCL surgery and limited seasons, Story (age 32) is showing full power in 2026. Red Sox in AL East mix.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Story sustained health, Red Sox AL East standing
+
+### Story 6: MLB Standings After 18 Games
+- **Angle:** NEW STORY. Dodgers 14-4 (best in baseball). Braves 12-7 NL East. Twins 11-8 AL Central. Pirates/Reds 11-7 tied NL Central. Tampa Bay 10-7 AL East. A's 10-8 AL West.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Division races in May
+
+### Story 7: ABS Challenge System — Player Reactions Three Weeks In
+- **Angle:** FOLLOW UP (from April 16 ABS story). ESPN April 16 feature: "harder than it looks on TV." Mixed player reactions — hitters love accountability, pitchers miss gray area. Baseball's biggest rules change in years.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** ABS system usage data, challenge totals
+
+---
+
 ## 2026-04-16
 
 ### Story 1: Ohtani Jackie Robinson Day Masterpiece — 6 IP, 1 R, 10 Ks

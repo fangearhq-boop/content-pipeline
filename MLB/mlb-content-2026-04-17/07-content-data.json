@@ -1,0 +1,361 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-17",
+  "compiled_at": "2026-04-17T10:35:25.044842+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Ohtani streak)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 6 (Standings)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 2 (Walker vs Judge)",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:30 PM",
+      "description": "Story 7 (ABS system)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Brewers)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 3 (Giolito)",
+      "type": "X + FB"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 5 (Trevor Story)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Ohtani On-Base Streak Passes 48 Games — Chasing Dodgers Franchise History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Shohei Ohtani's on-base streak: 48 games. 🔥\n\nAlready broke Ichiro's Japanese-born MLB record (44).\nAlready passed Ron Cey (47) for 3rd in Dodgers franchise history.\n\nNext milestone: Willie Keeler at 50.\n\nHe also has a 0.00 ERA through two starts this year. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 1-2",
+          "text": "For context on Ohtani's 48-game streak: 🔥\n\nAll-time MLB record: Ted Williams, 84 games (1949).\nDodgers franchise leaders ahead: Keeler (50), Green (53), Snider (58).\n\nAnd he's also posting a 0.00 ERA as a pitcher.\n\nBaseball doesn't have a better story. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ohtani-on-base-streak-48-games.html",
+        "headline": "Ohtani's On-Base Streak Reaches 48 Games — Chasing Dodgers Franchise History",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani On-Base Streak\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Ohtani at bat or celebrating reaching base, Dodger Blue uniform\n- **Photo Search Terms:**\n  1. \"Shohei Ohtani Dodgers\"\n  2. \"Shohei Ohtani batting\"\n  3. \"Shohei Ohtani pitching\"\n  4. \"Shohei Ohtani Los Angeles Dodgers\"\n  5. \"Shohei Ohtani follow-through\"\n- **Text Overlay:**\n  - Headline: \"48 GAMES\" (white, Poppins Bold)\n  - Subtitle: \"Ohtani's On-Base Streak | 3rd in Dodgers History | 0.00 ERA Pitching\" (gold #F4C542, Nunito)\n- **Composition Notes:** Ohtani swing or pitching delivery; Dodger Blue uniform preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Shohei Ohtani Dodgers\" or \"Shohei Ohtani batting\"\n- **Text Overlay:** \"Ohtani On-Base Streak Hits 48 Games — Chasing Dodgers History\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Walker vs. Judge — Baseball's Best April HR Race, Both at 8",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "MLB home run leaderboard through April 16: 🔥\n\n1. Jordan Walker (Cardinals) — 8 HRs, 11-game hit streak\n1. Aaron Judge (Yankees) — 8 HRs\n\nJudge is on a 60-HR pace.\nWalker had 11 total HRs in his first TWO MLB seasons combined.\n\nApril is wild. #Cardinals #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cardinals",
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Jordan Walker ties a Cardinals franchise record. 🔥\n\n8 home runs in the first 16 games.\nOnly McGwire, Musial, Rolen, and Pujols had done it before him.\n\nThen Aaron Judge hit his 8th on Thursday and pulled even.\n\nWalker: wRC+ 219, 97.1 mph exit velo — MLB-best. #Cardinals #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cardinals",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-walker-judge-april-hr-race.html",
+        "headline": "Walker vs. Judge — Baseball's April Home Run Race You Weren't Expecting",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Walker vs. Judge HR Race\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Jordan Walker in Cardinals red uniform or Aaron Judge in Yankees pinstripes, home run celebration\n- **Photo Search Terms:**\n  1. \"Jordan Walker Cardinals\"\n  2. \"Jordan Walker St. Louis\"\n  3. \"Aaron Judge Yankees\"\n  4. \"Aaron Judge home run\"\n  5. \"Aaron Judge New York Yankees\"\n- **Text Overlay:**\n  - Headline: \"APRIL HR RACE\" (white, Poppins Bold)\n  - Subtitle: \"Walker 8 HRs | Judge 8 HRs | Tied for MLB Lead\" (gold #F4C542, Nunito)\n- **Composition Notes:** Power swing or HR trot; split-frame concept (Walker/Judge) works if feasible\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Jordan Walker Cardinals\" or \"Aaron Judge Yankees\"\n- **Text Overlay:** \"Walker vs. Judge — April's Best Home Run Race\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Giolito Signs with Braves — One-Year, $6M Deal Ends Mid-Spring Free Agency",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lucas Giolito has signed with the Atlanta Braves. 1 year, $6 million.\n\nThe Cubs and Padres were the last teams linked to him.\nThe Braves (12-7, NL East leaders) get a proven arm.\n\nGiolito went 10-4, 3.41 ERA in 26 starts for the Red Sox in 2025. #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-giolito-braves-signing.html",
+        "headline": "Giolito Signs with Braves — One-Year, $6M Deal Closes the Mid-Spring Free Agent Saga",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giolito Signs with Braves\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Lucas Giolito in pitching stance or delivery\n- **Photo Search Terms:**\n  1. \"Lucas Giolito pitcher\"\n  2. \"Lucas Giolito Boston Red Sox\"\n  3. \"Lucas Giolito pitching\"\n  4. \"Lucas Giolito windup\"\n  5. \"Atlanta Braves pitcher\"\n- **Text Overlay:**\n  - Headline: \"GIOLITO TO ATLANTA\" (white, Poppins Bold)\n  - Subtitle: \"1 yr / $6M | 10-4, 3.41 ERA in 2025\" (gold #F4C542, Nunito)\n- **Composition Notes:** Pitcher delivery shot; uniform doesn't matter since he's joining Braves\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Lucas Giolito pitcher\" or \"Lucas Giolito Red Sox\"\n- **Text Overlay:** \"Giolito Signs with Braves — One-Year Deal Ends Free Agent Saga\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Brewers Skid Continues — How NL Central Race Changed in Two Weeks",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Brewers have lost 6 straight — their longest skid since 2003. 🔥\n\nOn the IL: Yelich (May), Chourio (early May), Vaughn (mid-May), Priester, Koenig.\n\nPittsburgh and Cincinnati: both 11-7, tied for NL Central lead.\n\nThe division just flipped. #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-brewers-skid-nl-central-race.html",
+        "headline": "Brewers Skid Hits Six Games — How the NL Central Race Changed in Two Weeks",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brewers Injury Update\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Milwaukee Brewers player or empty dugout atmosphere\n- **Photo Search Terms:**\n  1. \"Christian Yelich Brewers\"\n  2. \"Jackson Chourio Brewers\"\n  3. \"Andrew Vaughn Milwaukee\"\n  4. \"Milwaukee Brewers dugout\"\n  5. \"Brewers baseball\"\n- **Text Overlay:**\n  - Headline: \"INJURY CRISIS\" (white, Poppins Bold)\n  - Subtitle: \"Brewers 6-Game Skid | 5 Key Players on IL\" (gold #F4C542, Nunito)\n- **Composition Notes:** Yelich or Chourio in action; Brewers color (navy/gold) is distinctive\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Christian Yelich Brewers\" or \"Jackson Chourio Brewers\"\n- **Text Overlay:** \"Brewers Skid Hits 6 — How the NL Central Race Changed\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Trevor Story's Return — 5 RBIs, Homer, Red Sox Rout Twins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Trevor Story: home run + 5 RBIs as the Red Sox beat the Twins on Tuesday. 🔥\n\nAfter UCL surgery, limited seasons, and question marks — Story looks healthy and dangerous in 2026.\n\nThis is what a real comeback looks like. #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-trevor-story-red-sox-return.html",
+        "headline": "Trevor Story Is Back — Homer, 5 RBIs, and a Comeback Nobody Saw Coming",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Trevor Story Red Sox\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Trevor Story at bat or running the bases in Red Sox uniform\n- **Photo Search Terms:**\n  1. \"Trevor Story Red Sox\"\n  2. \"Trevor Story Boston\"\n  3. \"Trevor Story batting\"\n  4. \"Trevor Story shortstop\"\n  5. \"Boston Red Sox infielder\"\n- **Text Overlay:**\n  - Headline: \"STORY IS BACK\" (white, Poppins Bold)\n  - Subtitle: \"HR + 5 RBIs vs. Twins | Red Sox Win\" (gold #F4C542, Nunito)\n- **Composition Notes:** Story in Red Sox navy; batting or celebration preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Trevor Story Red Sox\" or \"Trevor Story batting\"\n- **Text Overlay:** \"Trevor Story's Return — 5 RBIs, Homer, Red Sox Rout Twins\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** The 2026 Standings After 18 Games — Who's Running Away",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Three weeks into the 2026 MLB season: 🔥\n\nDodgers: 14-4 (best in baseball)\nBraves: 12-7 (NL East)\nTwins: 11-8 (AL Central)\nPirates/Reds: 11-7 tied (NL Central)\nTampa Bay: 10-7 (AL East)\n\nBiggest surprise: Pittsburgh and Cincinnati running the NL Central. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Standings After 18 Games\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Shohei Ohtani or Dodgers game atmosphere (as best-record anchor)\n- **Photo Search Terms:**\n  1. \"Shohei Ohtani Dodgers game\"\n  2. \"Dodger Stadium crowd\"\n  3. \"Pittsburgh Pirates batter\"\n  4. \"Cincinnati Reds batter\"\n  5. \"MLB standings graphic\"\n- **Text Overlay:**\n  - Headline: \"EARLY SEASON LEADERS\" (white, Poppins Bold)\n  - Subtitle: \"Dodgers 14-4 | Pirates/Reds 11-7 | Braves 12-7\" (gold #F4C542, Nunito)\n\n**Article Hero:** N/A — Story 6 social only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** ABS Challenge System — Three Weeks In, Players Still Figuring It Out",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Three weeks in, players are still adjusting to MLB's automated ball-strike system. 🔥\n\nESPN: \"It's harder than it looks on TV.\"\n\nSome hitters love the accountability. Some pitchers miss the gray area.\n\nBaseball's biggest rules change in years. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ABS Challenge System\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Home plate umpire or batter-catcher-umpire interaction, game atmosphere\n- **Photo Search Terms:**\n  1. \"MLB home plate umpire\"\n  2. \"baseball home plate call\"\n  3. \"MLB batter plate\"\n  4. \"baseball umpire strikeout call\"\n  5. \"MLB game baseball\"\n- **Text Overlay:**\n  - Headline: \"BASEBALL'S NEW RULES\" (white, Poppins Bold)\n  - Subtitle: \"ABS Challenge System | 3 Weeks In | Players Weigh In\" (gold #F4C542, Nunito)\n\n**Article Hero:** N/A — Story 7 social only"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
