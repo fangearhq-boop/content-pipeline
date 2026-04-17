@@ -1,9 +1,21 @@
 ## Last Run
-- **Date**: 2026-04-16
+- **Date**: 2026-04-17
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-17
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-04-17.xlsx (14 posts) + hh-postplanner-tobi-2026-04-17.xlsx (14 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-17/review-dashboard.html (24 items)
+- **Notes:** Play-In Night 3 preview (tonight) — East: Magic vs Hornets 7:30 ET (winner = No. 8 East, faces Pistons April 19 6:30 PM NBC; Magic lost to 76ers Night 2; Hornets beat Heat 127-126 OT Night 1/LaMelo 30 pts); West: Warriors vs Suns 10 ET (winner = No. 8 West, faces Thunder April 19 3:30 PM; Suns lost to Blazers Night 1; Warriors beat Clippers 126-121 Night 2/Curry 35 pts); Lakers injury crisis: Luka Doncic Grade 2 hamstring (in Madrid, out R1) + Austin Reaves Grade 2 oblique (out R1), both suffered April 2 vs Thunder, coach Redick confirmed both indefinite April 14; Lakers vs Rockets Game 1 April 18 8:30 PM; Full 2026 playoffs bracket: East — Pistons (1) vs TBD (8), Celtics (2) vs 76ers (7) April 19 1 PM, Knicks (3) vs Hawks (6) April 18 6 PM, Cavs (4) vs Raptors (5) April 18 1 PM; West — Thunder (1) vs TBD (8), Spurs (2) vs Blazers (7) April 19 9 PM NBC, Nuggets (3) vs Wolves (6) TBD, Lakers (4) vs Rockets (5) April 18 8:30 PM; LaMelo + Knueppel: 272+273 threes (first 1-2 NBA duo since Curry/Klay, achieved 2015-16 and 2022-23); Curry at 38: 26.6 PPG, $62.6M contract, 35 pts/7 3PT vs Clippers Night 2.
+- **Fact concerns:** All play-in/bracket facts HIGH (multiple sources: CBS Sports, NBA.com, ESPN, Yahoo Sports, NBC Sports). Luka/Reaves injury facts HIGH (CBS Sports, ESPN Shams, Heavy.com, Fox Sports, Washington Post). Knueppel 273/Ball 272 threes HIGH (NBC Sports Bay Area, Yardbarker, Yahoo Sports, Washington Post). Curry 35 pts vs Clippers HIGH (prior pipeline confirmed, ESPN). Booker 26.1 PPG HIGH (Press Democrat). Curry age 38 HIGH (Basketball-Reference, Wikipedia). Curry $62.6M HIGH (Britannica). Pistons 60-22 HIGH (prior pipeline). Thunder 64-18 HIGH (prior pipeline).
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-16
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

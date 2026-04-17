@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-17
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Play-In Night 3 Preview — Magic vs Hornets 7:30 ET (East 8 seed; Charlotte first playoffs since 2016; LaMelo 30pts Night 1); Warriors vs Suns 10 ET (West 8 seed; Curry 35pts/7 3PT Night 2; Booker 26.1 PPG); winners face Pistons/Thunder in R1 on April 19 | 1 | NEW STORY |
+| 2 | Lakers injury crisis — Luka Doncic Grade 2 hamstring (Madrid stem cell treatment, out R1, return target R2 early May) + Austin Reaves Grade 2 oblique (out likely all R1, "earliest first week of May" per Shams); both suffered April 2 vs Thunder; coach Redick confirmed both indefinite April 14; Lakers vs Rockets Game 1 April 18 8:30 PM | 1 | NEW STORY |
+| 3 | 2026 NBA Playoffs First Round Preview — East: Pistons (1) vs TBD, Celtics (2) vs 76ers April 19, Knicks (3) vs Hawks April 18, Cavs (4) vs Raptors April 18; West: Thunder (1) vs TBD, Spurs (2) vs Blazers April 19, Nuggets (3) vs Wolves TBD, Lakers (4) vs Rockets April 18; playoffs start April 18 | 1 | NEW STORY |
+| 4 | LaMelo Ball (272 3s) + Kon Knueppel (273 3s) — first NBA teammates to finish 1st + 2nd in league in three-pointers since Curry + Klay Thompson (did it in 2015-16 and 2022-23); Knueppel age 20, rookie, strong ROY case | 2 | NEW STORY |
+| 5 | Steph Curry at 38 — 35 pts (7-12 3PT) vs Clippers Night 2; 27 pts in 2nd half; dagger 3 at 50.4s; 26.6 PPG season avg; $62.6M contract; faces Suns tonight in do-or-die | 2 | FOLLOW-UP |
+
+---
+
+### STORY 1: Play-In Night 3 — Magic vs Hornets / Warriors vs Suns
+- **Tier:** 1
+- **Category:** Play-In Tournament Preview
+- **Key facts:** East: Charlotte Hornets (44-38, 9 seed) vs Orlando Magic (8 seed) at 7:30 PM ET Amazon Prime; West: Golden State Warriors (10 seed) vs Phoenix Suns (7 seed) at 10 PM ET Amazon Prime. Magic lost to 76ers 97-109 on April 16 (Night 2, 7v8 East); Hornets beat Heat 127-126 OT on April 15 (Night 1, 9v10 East). Warriors beat Clippers 126-121 on April 16 (Night 2, 9v10 West); Suns lost to Blazers 110-114 on April 15 (Night 1, 7v8 West). East winner faces No. 1 Pistons April 19 6:30 PM NBC. West winner faces No. 1 Thunder April 19 3:30 PM.
+
+### STORY 2: Lakers Injury Crisis — Luka + Reaves Out
+- **Tier:** 1
+- **Category:** Injury Report / Playoff Implications
+- **Key facts:** Luka Doncic: Grade 2 hamstring strain, suffered April 2 vs Thunder, traveled to Madrid for stem cell treatment, out entire R1, realistic return R2 early May. Austin Reaves: Grade 2 oblique strain, same game, out likely all R1, "earliest first week of May" (Shams Charania/ESPN). JJ Redick confirmed both out indefinitely April 14. Game 1 vs Rockets April 18 8:30 PM ET. Anthony Davis leads depleted roster.
+
+### STORY 3: 2026 NBA Playoffs First Round Preview
+- **Tier:** 1
+- **Category:** Playoff Preview / Bracket
+- **Key facts:** East bracket: Pistons (60-22) vs TBD April 19 6:30 PM NBC; Celtics vs 76ers (no Embiid) April 19 1 PM; Knicks vs Hawks April 18 6 PM; Cavs vs Raptors April 18 1 PM. West bracket: Thunder (64-18, SGA 31.6 PPG) vs TBD April 19 3:30 PM; Spurs (62-20) vs Blazers April 19 9 PM NBC; Nuggets vs Wolves TBD; Lakers (no Luka/Reaves) vs Rockets April 18 8:30 PM.
+
+### STORY 4: LaMelo + Knueppel — New Splash Brothers
+- **Tier:** 2
+- **Category:** Season Stats / Historical Achievement
+- **Key facts:** Kon Knueppel 273 three-pointers (1st in NBA); LaMelo Ball 272 (2nd in NBA). First teammates to finish 1-2 in NBA 3s since Curry + Klay Thompson (2015-16 and 2022-23). Knueppel is 20 years old, rookie season. Charlotte finished 44-38.
+
+### STORY 5: Steph Curry at 38 — Warriors Play-In Legend
+- **Tier:** 2
+- **Category:** Player Feature / Play-In Tournament
+- **Key facts:** Curry born March 14, 1988, age 38. 2025-26 avg: 26.6 PPG, 3.6 RPG, 4.7 APG. April 16 vs Clippers: 35 pts (12-23 FG, 7-12 3PT), 27 pts in 2nd half, dagger 3 at 50.4s, 4 ast, 1 reb in 36 min. Warriors 126-121. $62.6M contract, first NBA player to earn $60M in single season. Faces Suns tonight at 10 PM ET.
+
+---
+
 ## 2026-04-15
 
 | # | Story | Tier | Tag |
