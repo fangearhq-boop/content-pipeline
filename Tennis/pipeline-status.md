@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-16 |
-| Writing | Complete (all steps) | 2026-04-16 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-16 |
-| Compile | Complete (07-content-data.json) | 2026-04-16 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-16 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-16 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-16 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-16 |
+| Research | Complete | 2026-04-17 |
+| Writing | Complete (all steps) | 2026-04-17 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-17 |
+| Compile | Complete (07-content-data.json) | 2026-04-17 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-17 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-17 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-17 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-17 |
 
 ## Queue
 
@@ -24,6 +24,42 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-17 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Marcus Cole x2, Elena Voss x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-17.xlsx (8 posts), tfr-postplanner-tobi-2026-04-17.xlsx (8 TOBI posts)
+- **Coverage:** Barcelona QF Day (Machac vs Rublev, Medjedovic vs Borges, Musetti vs Fils, Norrie vs Jodar — wide-open draw after Alcaraz exit); Munich QF Day (Fonseca vs Shelton first clay meeting, Zverev vs Cerundolo clay curse 0-3, Shapovalov/Molčan + Cobolli/Kopřiva); Stuttgart WTA QF Day (Swiatek vs Andreeva first clay clash, Rybakina vs Fernandez, Gauff vs Muchova, Noskova vs Svitolina); Jodar 19-year-old home hero feature (8-match streak, Marrakech title, Barcelona QF); Alcaraz wrist injury follow-up ("more serious than expected," no timeline, French Open 37 days)
+- **Research:** Multi-source; Barcelona from atptour.com + tennistonic.com + puntodebreak.com + beinsports.com + lastwordonsports.com (5+ sources); Munich from tennistonic.com + tennissignals.com + tennistemple.com + atptour.com (4 sources); Stuttgart from wtatennis.com + tennistonic.com + tennistemple.com (3 sources); Jodar from lastwordonsports.com + atptour.com (2 sources); Alcaraz injury from skysports.com + atptour.com + gbnews.com (3 sources)
+- **Notes:**
+  - verify-facts.py: all 5 stories present; 40 claims; 72 HIGH; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 8 X posts, 5 articles; posting window warnings cosmetic
+  - PostPlanner: 8 posts standard, 8 TOBI posts
+  - Push to content-dashboards failed: PAT lacks write permission (same as all prior runs)
+  - WordPress publish failed: proxy blocks fanrumor.com — same env restriction as all prior runs
+  - Most QF match results NOT yet confirmed at research time (matches scheduled April 17); content framed as QF day preview/analysis
+  - Jodar career-high No. 57 confirmed from April 8 rankings story; first ATP 500 QF framed as MEDIUM (inference)
+  - Zverev 0-3 vs Cerundolo on clay: MEDIUM confidence (tennistonic.com preview)
+- **Files created:**
+  - `tennis-content-2026-04-17/00-daily-brief.md`
+  - `tennis-content-2026-04-17/01-research-notes.md`
+  - `tennis-content-2026-04-17/02-story-analysis.md`
+  - `tennis-content-2026-04-17/03-social-posts-x.md`
+  - `tennis-content-2026-04-17/04-social-posts-facebook.md`
+  - `tennis-content-2026-04-17/05-image-concepts.md`
+  - `tennis-content-2026-04-17/06-fact-check-log.md`
+  - `tennis-content-2026-04-17/07-content-data.json`
+  - `tennis-content-2026-04-17/07-image-manifest.md`
+  - `tennis-content-2026-04-17/review-dashboard.html`
+  - `tennis-content-2026-04-17/articles/article-01-barcelona-qf-day-machac-rublev-jodar-norrie-musetti-fils-2026.html`
+  - `tennis-content-2026-04-17/articles/article-02-munich-qf-day-fonseca-shelton-zverev-cerundolo-2026.html`
+  - `tennis-content-2026-04-17/articles/article-03-stuttgart-wta-qf-day-swiatek-andreeva-rybakina-gauff-2026.html`
+  - `tennis-content-2026-04-17/articles/article-04-jodar-barcelona-home-hero-eight-match-streak-2026.html`
+  - `tennis-content-2026-04-17/articles/article-05-alcaraz-wrist-injury-update-french-open-madrid-2026.html`
+  - `postplanner-imports/tfr-postplanner-2026-04-17.xlsx`
+  - `postplanner-imports/tfr-postplanner-tobi-2026-04-17.xlsx`
 
 ### 2026-04-16 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
