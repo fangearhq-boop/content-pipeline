@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-17
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (7 stories), research notes, story analysis (format fixed for verify-facts compatibility), X posts (9, 0 char violations), FB posts (14), image concepts, image manifest, articles (5), fact-check (80 claims, 0 char violations, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 X posts, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). publish-unified-dashboard.py 403 (PAT scope — known) — used publish-dashboard.py.
+
+## Previous Run
 - **Date**: 2026-04-16
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9, 0 char violations), FB posts (14), image concepts, image manifest, articles (5), fact-check (116 claims, 0 char violations, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 X posts, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -121,6 +128,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-17
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 80 claims. 0 char-limit violations. 0 consistency errors. IMAGE MISSING expected (not_started).
+- Dashboard: 28 items. publish-unified-dashboard 403 (PAT, known). publish-dashboard success.
+- PostPlanner: ils-postplanner-2026-04-17.xlsx (9 posts), ils-postplanner-tobi-2026-04-17.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: OU (40-5) vs Arkansas (35-6) Game 1 tonight ESPN2 5:30 PM CT game moved due to weather (P10); Wells 31 HRs 6 from Espinoza all-time record (37 Arizona 1995) (P10); Nebraska (33-6, 14-1 Big Ten) at Minnesota 3 PM CT B1G+ (P8); FSU Senior Weekend vs UNC JoAnne Graf 6 PM ACCNX national seed (P7); Alabama (No. 3) hosts Kentucky ESPN2 5 PM CT SEC race (P7); NFCA Week 12 poll April 21 TTech 40-3 vs OU 40-5 (P7); WCWS seed projections top 8 (P6)
+- Notes: 0 tweet char violations. story-analysis.md format fixed (### STORY N: headers required for verify-facts). FB posts compile to 0 (heading format — known, dashboard uses markdown fallback).
 
 ### 2026-04-16
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)

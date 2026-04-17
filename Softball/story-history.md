@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 17, 2026
+
+### Story 1: Oklahoma vs. No. 6 Arkansas — Game 1 Tonight on ESPN2
+- **Angle:** FOLLOW UP (from April 16 OU-ARK preview). Game 1 moved to 5:30 PM CT (from 7 PM, weather). OU 40-5 (13-2 SEC), Arkansas 35-6 (10-5 SEC). ESPN2 broadcast. OU leads series 29-2, 15-1 at home. Bounce-back game after two straight losses.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** OU-ARK series result (Games 2-3), Wells HR totals
+
+### Story 2: Kendall Wells — Six HRs from Espinoza's All-Time Record
+- **Angle:** FOLLOW UP (from April 16 Wells story). Wells at 31 HRs, needs 6 for Espinoza's all-time record (37, Arizona, 1995). .383 BA, 60 RBIs. Arkansas series is next prime opportunity. Espinoza's record has stood since 1995.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Wells HR milestones 32-37; all-time record break alert
+
+### Story 3: Nebraska at Minnesota — Big Ten Title Chase
+- **Angle:** FOLLOW UP (from April 16 Nebraska story). No. 4 Nebraska (33-6, 14-1 Big Ten) at Minnesota, game moved to 3 PM CT. Back-to-back sweeps of Wisconsin and Rutgers. Coach Rhonda Revelle. B1G+.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Nebraska Big Ten title clinch, national seed update
+
+### Story 4: FSU Senior Weekend vs. UNC
+- **Angle:** FOLLOW UP (from April 16 FSU story). No. 10 FSU opens Senior Weekend vs UNC at JoAnne Graf Field, 6 PM ACCNX. After Stanford ended 25-game win streak. National seed implications; Florida April 22 follows.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** FSU-UNC series result, FSU-Florida April 22
+
+### Story 5: Alabama Hosts Kentucky — SEC Race
+- **Angle:** NEW STORY. No. 3 Alabama vs Kentucky, 5 PM CT ESPN2. Alabama 734 pts NFCA (13 pts behind No. 1). Swept Auburn + won Texas series in April. SEC standings implications.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Alabama series result, Week 12 NFCA poll April 21
+
+### Story 6: NFCA Week 12 Countdown — TTech Primed for No. 1
+- **Angle:** FOLLOW UP (from April 16 TTech/poll story). OU was No. 1 (747 pts) by 2 over TTech (745 pts) before Bedlam loss. TTech 40-3, Canady 17-2. Week 12 drops April 21.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** NFCA Week 12 poll April 21
+
+### Story 7: 2026 WCWS National Seed Projections
+- **Angle:** NEW STORY. Projected top 8: OU, TTech, Alabama, Nebraska, Texas, Arkansas, FSU, Tennessee. Bubble: UCLA, Virginia Tech, Duke, Washington. Three weeks of regular season remain.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** NCAA selection show (mid-May)
+
+---
+
 ## April 16, 2026
 
 ### Story 1: Oklahoma State Upsets No. 1 Oklahoma 6-4 in Bedlam

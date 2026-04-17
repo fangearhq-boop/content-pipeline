@@ -1,0 +1,362 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-17",
+  "compiled_at": "2026-04-17T10:23:17.945944+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (OU-ARK opener)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 6 (NFCA Week 12)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 2 (Wells record)",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:30 PM",
+      "description": "Story 7 (Seed race)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 3 (Nebraska)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 (Alabama)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 4 (FSU)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Oklahoma vs. No. 6 Arkansas — Game 1 Tonight on ESPN2, Wells HR Watch Begins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Oklahoma (40-5) hosts No. 6 Arkansas tonight at Love's Field. 🥎\n\nGame 1 moved to 5:30 PM CT — weather forced the early start.\nESPN2. Matt Schumacker and Amanda Scarborough on the call.\n\nTwo losses in four days. Bounce-back time for the Sooners. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 1-2",
+          "text": "One hour to first pitch. 🥎\n\nNo. 1 Oklahoma vs. No. 6 Arkansas.\nLove's Field. Norman.\nESPN2 — 5:30 PM CT.\n\nOklahoma leads the all-time series 29-2 and is 15-1 at home.\n\nWells is at 31. Arkansas pitching is up next. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-oklahoma-arkansas-game-1-espn2.html",
+        "headline": "Oklahoma Hosts No. 6 Arkansas in Game 1 Tonight — Sooners Seek Bounce-Back on ESPN2",
+        "word_count": 674
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "OU vs. Arkansas Game 1 Tonight\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Oklahoma batter at the plate at Love's Field, power swing moment, Norman crowd in background\n- **Photo Search Terms:**\n  1. \"Tiare Jennings Oklahoma\"\n  2. \"Kendall Wells Oklahoma\"\n  3. \"Grace Lyons Oklahoma\"\n  4. \"Alyssa Brito Oklahoma\"\n  5. \"Oklahoma softball Love's Field\"\n- **Text Overlay:**\n  - Headline: \"BOUNCE-BACK TIME\" (white, Poppins Bold)\n  - Subtitle: \"No. 1 OU vs. No. 6 ARK | Tonight 5:30 PM CT | ESPN2\" (gold #F4C542, Nunito)\n- **Composition Notes:** Game-day energy; Norman crowd atmosphere preferred; power hitter angle\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Tiare Jennings Oklahoma\" or \"Oklahoma softball Norman\"\n- **Text Overlay:** \"No. 1 Oklahoma vs. No. 6 Arkansas — Game 1 Tonight on ESPN2\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Kendall Wells — Six HRs from Immortality, Arkansas Weekend Is Next Chapter",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kendall Wells needs 6 home runs to become the all-time NCAA single-season HR leader. 🥎\n\nLauren Espinoza: 37. Arizona. 1995.\nThat record has stood for 31 years.\n\nWells is at 31. Oklahoma hosts Arkansas tonight.\n\nHistory is watching every at-bat. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kendall Wells HR watch update: 🥎\n\n31 down. 6 to go.\n\nShe's batting .383 with 60 RBIs.\nTonight's opponent: Arkansas.\n\nEspinoza's 37-HR record from 1995 is within reach. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kendall-wells-six-hrs-from-history.html",
+        "headline": "Kendall Wells Is Six Home Runs from Rewriting College Softball History",
+        "word_count": 704
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wells Record Chase\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Kendall Wells in home run trot or batter's box, Oklahoma red uniform\n- **Photo Search Terms:**\n  1. \"Kendall Wells Oklahoma\"\n  2. \"Kendall Wells Oklahoma catcher\"\n  3. \"Kendall Wells Oklahoma batting\"\n  4. \"Oklahoma softball home run\"\n  5. \"Tiare Jennings Oklahoma batting\"\n- **Text Overlay:**\n  - Headline: \"6 FROM HISTORY\" (white, Poppins Bold)\n  - Subtitle: \"Wells at 31 HRs | Espinoza's all-time record: 37\" (gold #F4C542, Nunito)\n- **Composition Notes:** Home run swing or celebration moment preferred; Oklahoma red stands out\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Kendall Wells Oklahoma\" or \"Oklahoma softball batter\"\n- **Text Overlay:** \"Kendall Wells — Six HRs from the All-Time NCAA Record\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Nebraska at Minnesota — Huskers Chase Big Ten Title in Friday Opener",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "No. 4 Nebraska is at Minnesota right now. 🥎\n\n33-6. 14-1 Big Ten.\nBack-to-back sweeps of Wisconsin and Rutgers.\nCoach Rhonda Revelle.\n\nThe Huskers are chasing their first Big Ten regular-season title and it's hard to bet against them. #Huskers #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#CollegeSoftball"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-nebraska-minnesota-big-ten-title-chase.html",
+        "headline": "Nebraska Heads to Minnesota — Huskers One Step Closer to Big Ten Title",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska at Minnesota\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Nebraska player in scarlet and cream uniform, batting or fielding action\n- **Photo Search Terms:**\n  1. \"Billie Andrews Nebraska\"\n  2. \"Courtney Wallace Nebraska\"\n  3. \"Brooke Andrews Nebraska\"\n  4. \"Nebraska softball pitcher\"\n  5. \"Nebraska softball red uniform\"\n- **Text Overlay:**\n  - Headline: \"HUSKERS ON THE ROAD\" (white, Poppins Bold)\n  - Subtitle: \"No. 4 Nebraska | 33-6 | 14-1 Big Ten | At Minnesota\" (gold #F4C542, Nunito)\n- **Composition Notes:** Nebraska's red uniform looks sharp against outdoor stadium; action shot preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Billie Andrews Nebraska\" or \"Nebraska softball\"\n- **Text Overlay:** \"Nebraska at Minnesota — Huskers Chase Big Ten Title\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** FSU Senior Weekend Opens vs. UNC — National Seed on the Line at JoAnne Graf",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "FSU Senior Weekend starts tonight at JoAnne Graf Field. 🥎\n\nThe Seminoles lost their 25-game win streak to Stanford last week.\nTonight vs. North Carolina. 6 PM. ACCNX.\n\nThen Florida April 22.\n\nThe national seed race just got real for FSU. #FSUSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-fsu-senior-weekend-unc-national-seed.html",
+        "headline": "FSU Senior Weekend — Seminoles Host UNC with National Seed on the Line",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU Senior Weekend\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** FSU player in garnet-and-gold, emotional celebration or game action at JoAnne Graf Field\n- **Photo Search Terms:**\n  1. \"Kaley Mudge Florida State\"\n  2. \"Kathryn Sandercock Florida State\"\n  3. \"Jessica Burroughs Florida State\"\n  4. \"Michaela Edenfield Florida State\"\n  5. \"Florida State softball pitcher\"\n- **Text Overlay:**\n  - Headline: \"SENIOR WEEKEND\" (white, Poppins Bold)\n  - Subtitle: \"FSU vs. UNC | Tonight 6 PM | JoAnne Graf Field\" (gold #F4C542, Nunito)\n- **Composition Notes:** Garnet and gold uniforms; emotion of senior day moment preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Florida State softball pitcher\" or \"Kaley Mudge Florida State\"\n- **Text Overlay:** \"FSU Senior Weekend — Seminoles Host UNC with National Seed on the Line\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Alabama Hosts Kentucky — Crimson Tide Eyeing Series Win in SEC Race",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "No. 3 Alabama hosts Kentucky tonight at 5 PM CT on ESPN2. 🥎\n\nThe Crimson Tide swept Auburn and won a series over Texas this month.\nAlabama has 734 points in the NFCA poll — just 13 behind No. 1 Oklahoma.\n\nSEC race is wide open. #RollTide #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#CollegeSoftball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-alabama-kentucky-sec-standings.html",
+        "headline": "No. 3 Alabama Opens Home Series vs. Kentucky — Crimson Tide Surging in April",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama vs. Kentucky\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Alabama batter or pitcher in crimson uniform, game action\n- **Photo Search Terms:**\n  1. \"Montana Fouts Alabama\"\n  2. \"Bailey Dowling Alabama\"\n  3. \"Ally Shipman Alabama\"\n  4. \"Alabama softball pitcher\"\n  5. \"Alabama softball batter\"\n- **Text Overlay:**\n  - Headline: \"TIDE ON THE RISE\" (white, Poppins Bold)\n  - Subtitle: \"No. 3 Alabama vs. Kentucky | Tonight 5 PM CT | ESPN2\" (gold #F4C542, Nunito)\n- **Composition Notes:** Alabama crimson uniform provides strong visual; power stance or delivery preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- **Photo Search Terms:** \"Montana Fouts Alabama\" or \"Alabama softball pitcher\"\n- **Text Overlay:** \"No. 3 Alabama Hosts Kentucky — SEC Standings Race Continues\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** NFCA Week 12 Countdown — Texas Tech Primed to Take No. 1 on April 21",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Before the Bedlam loss, Oklahoma was No. 1 by 2 points. 🥎\n\nOU: 747 pts. Texas Tech: 745 pts.\nOU is now 40-5. TTech is 40-3.\nCanady is 17-2.\n\nNFCA Week 12 poll drops April 21.\n\nWho takes No. 1? #CollegeSoftball #TexasTech",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#TexasTech"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NFCA Week 12 Countdown\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** NiJaree Canady pitching in Texas Tech black-and-red, mid-delivery power pose\n- **Photo Search Terms:**\n  1. \"NiJaree Canady Texas Tech\"\n  2. \"NiJaree Canady pitching\"\n  3. \"Texas Tech softball pitcher\"\n  4. \"Hailey Toney Texas Tech\"\n  5. \"Texas Tech softball Red Raiders\"\n- **Text Overlay:**\n  - Headline: \"WHO TAKES NO. 1?\" (white, Poppins Bold)\n  - Subtitle: \"TTech 40-3 | OU 40-5 | NFCA Week 12 Poll: April 21\" (gold #F4C542, Nunito)\n- **Composition Notes:** Canady delivery is the money shot for TTech; red-and-black uniform dominant\n\n**Article Hero:** Not required (Story 6 — social only)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** 2026 WCWS National Seed Race — The Projected Top 8 Entering Week 12",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "2026 WCWS national seed race — who's in the top 8? 🥎\n\n1. Oklahoma (40-5)\n2. Texas Tech (40-3)\n3. Alabama\n4. Nebraska (33-6)\n5. Texas\n6. Arkansas (35-6)\n7. FSU\n8. Tennessee\n\nBubble: UCLA, Virginia Tech, Duke, Washington\n\nThis weekend reshuffles everything. #CollegeSoftball #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#WCWS"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "National Seed Race\n\n**Social Image (1080x1350, 4:5 vertical)**\n- **Visual Description:** Wide game shot at a major college softball venue, stadium atmosphere\n- **Photo Search Terms:**\n  1. \"Tiare Jennings Oklahoma batting\"\n  2. \"Oklahoma softball stadium crowd\"\n  3. \"NiJaree Canady Texas Tech\"\n  4. \"Billie Andrews Nebraska\"\n  5. \"College softball stadium\"\n- **Text Overlay:**\n  - Headline: \"TOP 8 SEED RACE\" (white, Poppins Bold)\n  - Subtitle: \"3 Weeks Left | Who Hosts? | #CollegeSoftball\" (gold #F4C542, Nunito)\n- **Composition Notes:** Stadium atmosphere or power batter; universal softball visual works\n\n**Article Hero:** Not required (Story 7 — social only)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
