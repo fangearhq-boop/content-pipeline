@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-16
+- **Date**: 2026-04-17
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-17
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5: FIA April 20 energy management vote, Aston Martin horror show, Verstappen Nürburgring 24h Qualifiers, Hamilton reinvigorated/Mansell, 2026 championship standings)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-17.xlsx (13 posts) + f1fr-postplanner-tobi-2026-04-17.xlsx (13 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-17/review-dashboard.html (23 items)
+- **Notes:** FIA April 20 high-level vote on energy management tweaks (super clipping 250→350kW, qualifying energy target possibly 6MJ from 8MJ at Suzuka, ADUO refinements, Bearman Japan crash safety case; e-vote after meeting, changes for Miami May 1-3); Aston Martin zero points, Stroll "4.5 seconds off," Honda vibrations cause nerve damage risk for Alonso (25 lap max) and Stroll (15 lap max), 80% vibration fix trialled in Japan then shelved for reliability, Brundle "horror show," Stroll escaped to GT racing during break; Verstappen racing 24h Nürburgring Qualifiers this weekend April 18-19 in Mercedes-AMG GT3 with Juncadella + Gounon, NOT in NLS3; Hamilton ends 477-day podium drought at Chinese GP (P3, first Ferrari podium), Mansell "reinvigorated"/"fired up again," Hamilton called it "most enjoyable race"; Championship: Antonelli 72 (youngest leader 19y 216d, Italy's first since Ascari 1953), Russell 63, Leclerc 49, Hamilton 41; Constructors: Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16.
+- **Fact concerns:** All FIA meeting facts HIGH (Motorsport.com, Sky Sports, ESPN, RaceFans, Formula1.com). Aston Martin zero points HIGH (verifiable). Stroll "4.5 seconds" quote HIGH (Formula1.com official). Brundle "horror show" HIGH (Sky Sports). Alonso 25-lap/Stroll 15-lap nerve damage MEDIUM (Speedcafe.com single source). 80% Japan improvement shelved HIGH (multiple sources). Hamilton 477 days HIGH (multiple). Mansell "reinvigorated" HIGH (Sky Sports direct quote). Championship standings HIGH (Formula1.com official). Antonelli youngest leader 19y 216d HIGH (NBC News, F1.com). Ascari 1953 HIGH (established historical fact).
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-16
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-17
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | FIA April 20 high-level vote on energy management — super clipping 250→350kW, qualifying energy possibly 6MJ (from 8MJ Suzuka), ADUO refinements, Bearman Japan safety case; e-vote after meeting; changes target Miami May 1-3 | 1 | FOLLOW-UP |
+| 2 | Aston Martin "horror show" — zero points 2026; Stroll "4.5 seconds off"; Honda vibrations risk nerve damage (Alonso ~25 lap max, Stroll ~15 lap max); 80% Japan vibration fix shelved; Brundle "horror show"; Stroll GT racing during break; Newey can't help 2026 car | 1 | NEW STORY |
+| 3 | Verstappen Nürburgring 24h Qualifiers April 18-19 — Mercedes-AMG GT3, co-drivers Juncadella + Gounon; NOT in NLS3; redemption after NLS2 win DSQ'd (7 tyres vs 6 limit); prep for 24h Nürburgring May 14-17 | 1 | FOLLOW-UP |
+| 4 | Hamilton "reinvigorated" — Mansell: "Lewis is fired up again"; Hamilton Chinese GP P3 (first podium 477 days/16 months, first Ferrari podium); "most enjoyable race"; P4 championship 41 pts, 31 behind Antonelli | 2 | FOLLOW-UP |
+| 5 | 2026 championship snapshot — Antonelli 72 pts (youngest F1 leader 19y 216d, Italy's first since Ascari 1953); Russell 63; Leclerc 49; Hamilton 41; Constructors: Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16; Miami next May 1-3 | 2 | FOLLOW-UP |
+
+---
+
+### STORY 1: FIA April 20 Energy Management Vote
+- **Tier:** 1
+- **Category:** Regulations / Governance
+- **Key facts:** April 20 high-level meeting — team principals, power unit manufacturers, FIA, F1 management. Super clipping 250→350kW proposal. Qualifying energy: Suzuka already on 8MJ; targeting 6MJ. ADUO refinements. Bearman Japan crash safety case. E-vote after meeting. Changes target Miami May 1-3. Prior meetings: April 15 (sporting), April 16 (technical heads).
+
+### STORY 2: Aston Martin Horror Show
+- **Tier:** 1
+- **Category:** Team News / Technical
+- **Key facts:** Zero points in 3 races. Stroll "four-and-a-half seconds off" (Formula1.com). Honda vibrations: Alonso ~25 lap max, Stroll ~15 lap max before nerve damage risk. 80% improvement trialled Japan, shelved for reliability. Brundle: "horror show." Stroll GT racing during April break. Adrian Newey can't help 2026 car. Alonso best result: P18 Japan.
+
+### STORY 3: Verstappen Nürburgring 24h Qualifiers
+- **Tier:** 1
+- **Category:** Driver News / Endurance
+- **Key facts:** April 18-19, ADAC 24h Nürburgring Qualifiers. Mercedes-AMG GT3. Co-drivers: Dani Juncadella, Jules Gounon. NOT in NLS3 (same weekend, different race). NLS2 win DSQ'd for 7 tyres (limit = 6). Full 24h Nürburgring May 14-17. Verstappen's F1 2026: P6, DNF, P8 (Red Bull ~1s deficit).
+
+### STORY 4: Hamilton "Reinvigorated"
+- **Tier:** 2
+- **Category:** Driver Feature
+- **Key facts:** Chinese GP P3 = first podium in 477 days. First Ferrari podium. Mansell quotes: "Lewis is fired up again" + "reinvigorated" + "come on Lewis, let's finish it off" (Sky Sports). Hamilton: "one of the most enjoyable races I've had" (Formula1.com). P4 championship, 41 pts, 31 behind Antonelli.
+
+### STORY 5: 2026 Championship Standings
+- **Tier:** 2
+- **Category:** Championship Standings
+- **Key facts:** Drivers: Antonelli 72, Russell 63, Leclerc 49, Hamilton 41. Antonelli youngest F1 leader 19y 216d. Italy's first leader since Ascari 1953. Constructors: Mercedes 135, Ferrari 90 (45-pt gap), McLaren 56, Red Bull 16, Aston Martin 0. Three races completed. Next: Miami Sprint May 1-3.
+
+---
+
 ## 2026-04-15
 
 | # | Story | Tier | Tag |
