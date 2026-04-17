@@ -3,7 +3,29 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-16)
+## Current Pipeline (2026-04-17)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-17 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-17 |
+| Fact-check | Complete (verify-facts.py — 20 claims, 47 HIGH confidence; no tweets over 280 chars; image not_started status is expected) | 2026-04-17 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-17 |
+| PostPlanner | Complete (standard + TOBI exports — 12 posts each) | 2026-04-17 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-17 |
+| Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent with all previous runs) | 2026-04-17 |
+| Git | Committed and pushed to main | 2026-04-17 |
+
+## Notes (2026-04-17)
+- 5 stories: RBC Heritage R1 recap — Åberg 63 leads, Hovland/English T2, Scheffler 68 after OB opener (T1); McIlroy back-to-back Masters legacy — 6 majors/ties Faldo, confirmed week off, $1.9M US tax bill, "I want more" (T1); Scheffler OB opener subplot (T2); LIV Golf Mexico City R1 — Perez 62 leads by 3 over Rahm (T2); LPGA JM Eagle LA Championship R1 — Chizzy Iwai 63 leads, Yu Liu ace on 15th (T2)
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X posts: 7 total, all under 280 characters
+- WordPress publish: Failed — egress proxy blocks access (Host not in allowlist, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+---
+
+## Previous Pipeline (2026-04-16)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
