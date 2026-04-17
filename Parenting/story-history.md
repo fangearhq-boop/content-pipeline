@@ -2,6 +2,50 @@
 
 ---
 
+## April 17, 2026
+
+### Story 1: Fasando Baby Lounger — CPSC Urgent Warning, Infant Death Reported
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC urgent warning — Fasando Baby Lounger linked to 2025 infant death; 2-month-old placed on adult bed found unresponsive; ~6,200 units sold on Amazon Aug 2024–Jul 2025 for ~$35; grey elephant, baby blue animals, blue animals, gold elephant, pink lion, yellow elephant; sides too low, foot openings too wide — violates mandatory Infant Sleep Products standard; Fasando refuses recall; stop use, remove foam, cut cover in half, dispose; cpsc.gov + yahoo.com)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Infant death 2025; 2-month-old; placed on adult bed; ~6,200 units; Amazon; Aug 2024–Jul 2025; ~$35; grey elephant/baby blue animals/blue animals/gold elephant/pink lion/yellow elephant; sides too low; foot openings too wide; Fasando refuses recall; stop use + remove foam + cut cover + dispose; cpsc.gov
+- **Follow-Up Opportunities:** Fasando recall (if company changes position); infant sleep safety roundup; CPSC enforcement actions against Amazon sellers
+
+### Story 2: ATOYUS Activity Cubes + Sanlebi Pet Vet Playsets — Two Amazon Toy Recalls (April 16)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC announced two toy recalls April 16, 2026; ATOYUS Activity Cubes — choking hazard, xylophone screws and clock hands detach, mallet spherical ends violate small parts ban, intended under 3, sold by Melofaver US on Amazon, refund via ATOYUSActivityCubeRecall@outlook.com; Sanlebi Pet Vet Playsets — button cell battery access in nail grinder and otoscope, sold by Letokids on Amazon, $5 refund or replacement via letorecall@outlook.com; cpsc.gov April 16)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ATOYUS recall April 16, 2026; choking; under-3; Melofaver US/Amazon; ATOYUSActivityCubeRecall@outlook.com; Sanlebi recall April 16, 2026; button cell battery; nail grinder/otoscope; Letokids/Amazon; $5 refund; letorecall@outlook.com; cpsc.gov
+- **Follow-Up Opportunities:** Button cell battery safety guide; ongoing CPSC toy recall tracker; small parts ban explainer
+
+### Story 3: Elevate Trampoline Park — New Colorado Springs Location Opens April 18
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Elevate Trampoline Park opens new Colorado Springs location April 18, 2026; 31,000 sq ft indoor activity center; first 250 guests get guaranteed prizes; discounted founders memberships + promotional birthday party packages at opening; globenewswire.com April 16, 2026)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Elevate Trampoline Park; Colorado Springs; April 18, 2026; 31,000 sq ft; first 250 guests guaranteed prizes; founders memberships; birthday party packages; source: GlobeNewswire April 16, 2026
+- **Follow-Up Opportunities:** COS indoor activity venue roundup; trampoline park safety guide
+
+### Story 4: AAP "Safe Passage" — Neighborhoods Shape Pediatric Pedestrian Crash Risk
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP Pediatrics blog "Safe Passage: How Neighborhoods Influence Pediatric Crash Risk" published April 16, 2026; examines neighborhood-level factors in child pedestrian crash risk — walkability, traffic density, lighting, socioeconomic conditions; research shows structural factors create unequal safety environments independent of individual behavior; aap.org)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP Pediatrics blog; "Safe Passage: How Neighborhoods Influence Pediatric Crash Risk"; published April 16, 2026; walkability/traffic density/lighting/socioeconomic factors; aap.org
+- **Follow-Up Opportunities:** COS pedestrian safety infrastructure roundup; neighborhood walkability guide; D11/D20/D49 safe routes to school programs
+
+### Story 5: D20 Approves Across-the-Board Teacher Pay Raises — Starting Pay $52,020
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Academy School District 20 approves across-the-board pay raises for all teachers; minimum starting salary $52,020 per asd20.org salary schedules; D11 comparison $51,510; raises aimed at recruitment/retention in competitive COS market; koaa.com + asd20.org)
+- **Content Produced:** Article, X Text Post (x1), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** D20 teacher pay raises approved; minimum starting salary $52,020 (asd20.org); D11 comparison $51,510 (d11.org); northern Colorado Springs; recruitment/retention goal; koaa.com
+- **Follow-Up Opportunities:** D49 teacher salary comparison; Colorado school district pay equity roundup; teacher shortage/retention feature
+
+---
+
 ## April 16, 2026
 
 ### Story 1: CSDB Free Early Literacy Event at Bear Creek — April 17
