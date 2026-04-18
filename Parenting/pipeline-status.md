@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 17, 2026
+## Latest Run: April 18, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | cpsc.gov (YCXXKJ + NFSVLB bath seat recalls + Vevor swing recall), chalkbeat.org/coloradosun.com (D11 chronic absenteeism), aap.org (food allergy school guidelines 2025), cpsc.gov/El Paso County Parks (Fountain Creek spring events) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 17 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with `### STORY N:` headers, tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts; char violations fixed (5 posts rewritten after initial pass); all verified under 280; 4 hashtags each; max 1 exclamation mark |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; no hashtags; dual-format headings |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no kiddos/mama bear/hubby) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (22 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-18.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-04-18.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (host_not_allowed) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-18)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 (D11 chronic absenteeism surge — 16.6 point spike, over 50% Black/Hispanic students) | 1-2 |
+| Local Events | 1 (Fountain Creek Habitat Exploration Apr 24 + Earth Day Apr 25) | 1-2 |
+| National Parenting | 3 (CPSC YCXXKJ+NFSVLB bath seat recalls; Vevor baby swing recall; AAP food allergy school guidelines) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 17, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -528,6 +561,40 @@
 | 2026-02-22 | 7 | X + FB | Complete |
 
 ## Pipeline Run Log
+
+### 2026-04-18 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5
+- **Bylines:** Jenna Park (D11 absenteeism), Sofia Reyes (bath seat recalls), Keisha Williams (Vevor swing recall), Marta Kim (Fountain Creek events), Marcus Rivera (AAP food allergy)
+- **PostPlanner exports:** cosp-postplanner-2026-04-18.xlsx (7 posts), cosp-postplanner-tobi-2026-04-18.xlsx (7 TOBI posts)
+- **Coverage:** D11 chronic absenteeism surge (16.6-point spike, worst among large CO districts; over 50% Black/Hispanic students chronically absent), CPSC recalls (YCXXKJ by BenTalk + NFSVLB ZY2025 baby bath seats — drowning/entrapment hazard), Vevor baby swing recall (BB501K/BB702A/BB005K — inclined sleeper ban violation, suffocation risk), Fountain Creek spring programs (Habitat Exploration Apr 24 + Earth Day Apr 25), AAP 2025 school food allergy/anaphylaxis guidelines update (first since 2010, stock epinephrine recommendation)
+- **Research:** Web searches covering CO chronic absenteeism data, CPSC bath seat/swing recall pages, El Paso County Parks events calendar, AAP clinical guidance
+- **Notes:**
+  - X post char violations: all 5 story posts exceeded 280 chars on initial draft; completely rewritten to be much more concise; all verified on 2nd pass (199–277 chars)
+  - verify-facts.py passed on 2nd run (after X post fix)
+  - Push to content-dashboards failed: PAT lacks write permission (same as all previous runs)
+  - WordPress publish blocked by proxy (host_not_allowed) — same as all previous runs
+  - Gemini image generation not run (base_only mode prompts written; generation requires GEMINI_API_KEY)
+- **Files created:**
+  - `parenting-content-2026-04-18/00-daily-brief.md`
+  - `parenting-content-2026-04-18/01-research-notes.md`
+  - `parenting-content-2026-04-18/02-story-analysis.md`
+  - `parenting-content-2026-04-18/03-social-posts-x.md`
+  - `parenting-content-2026-04-18/04-social-posts-facebook.md`
+  - `parenting-content-2026-04-18/05-image-concepts.md`
+  - `parenting-content-2026-04-18/06-fact-check-log.md`
+  - `parenting-content-2026-04-18/07-content-data.json`
+  - `parenting-content-2026-04-18/07-image-manifest.md`
+  - `parenting-content-2026-04-18/review-dashboard.html`
+  - `parenting-content-2026-04-18/articles/article-01-d11-chronic-absenteeism-surge-colorado-schools-2026.html`
+  - `parenting-content-2026-04-18/articles/article-02-ycxxkj-nfsvlb-baby-bath-seat-recall-amazon-drowning-2026.html`
+  - `parenting-content-2026-04-18/articles/article-03-vevor-baby-swing-recall-suffocation-inclined-sleeper-2026.html`
+  - `parenting-content-2026-04-18/articles/article-04-fountain-creek-earth-day-spring-events-cos-2026.html`
+  - `parenting-content-2026-04-18/articles/article-05-aap-food-allergy-school-guidelines-cos-families-2026.html`
+  - `postplanner-imports/cosp-postplanner-2026-04-18.xlsx`
+  - `postplanner-imports/cosp-postplanner-tobi-2026-04-18.xlsx`
 
 ### 2026-03-29 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

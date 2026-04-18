@@ -2,6 +2,48 @@
 
 ---
 
+## April 18, 2026
+
+### Story 1: D11 Chronic Absenteeism Surge — Largest Jump Among Large Colorado Districts
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 chronic absenteeism surged 16.6 percentage points in one year — largest increase among any large Colorado district; >50% of Black and Hispanic students now chronically absent; CDE goal 17.8% by 2026-27; d11.org)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** +16.6 percentage points in one year; largest among large CO districts; >50% Black/Hispanic students chronically absent; CDE target 17.8% by 2026-27; d11.org
+- **Follow-Up Opportunities:** D11 district response/plan; racial equity in attendance; CDE accountability data for D11
+
+### Story 2: CPSC Recalls Two Amazon Baby Bath Seats — YCXXKJ and NFSVLB Drowning Risk
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (YCXXKJ by BenTalk: unstable, tips over, drowning; NFSVLB Model ZY2025 ~1,430 units: tips + leg openings too wide, entrapment + drowning; both Amazon; stop use immediately; NFSVLB refund via amzmaihuayd@163.com)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** YCXXKJ by BenTalk on Amazon; NFSVLB Model ZY2025 ~1,430 units sold May–Oct 2025; refund: amzmaihuayd@163.com; both violate infant bath seat standard; cpsc.gov
+- **Follow-Up Opportunities:** Bath time safety tips; ongoing Amazon third-party recall roundup
+
+### Story 3: Vevor Baby Swings Recalled — Suffocation Risk (Models BB501K, BB702A, BB005K)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (~1,020 units; models BB501K/BB702A/BB005K; Sanven Technology; sold Vevor.com + Amazon Jan–Aug 2025; $65–$80; inclined sleeper ban violation; recalling@vevor.com or 855-599-6320)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** ~1,020 units; BB501K/BB702A/BB005K; $65–$80; Jan–Aug 2025; recalling@vevor.com; 855-599-6320; Safe Sleep for Babies Act violation
+- **Follow-Up Opportunities:** Safe sleep product guide; ongoing Vevor/Sanven watch
+
+### Story 4: COS Fountain Creek Earth Day + Spring Programs
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (April 24: Habitat Exploration, 2–4 PM, grades 3–6, $4/person; April 25: Earth Day program, 10 AM–12 PM, $5/person; Fountain Creek Nature Center; 719-520-6745; prepaid required)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Apr 24 Habitat Exploration $4/person grades 3–6; Apr 25 Earth Day $5/person; 719-520-6745; prepaid registration required
+- **Follow-Up Opportunities:** Summer programs at Fountain Creek; El Paso County Parks roundup
+
+### Story 5: AAP Food Allergy School Guidelines 2025 Update
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (September 2025 AAP clinical report — first update since 2010; food allergy up to 10% of kids; anaphylaxis 1 in 15 schools/year; stock epinephrine recommendation; D11/D20/D49 policy check)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP report Sept 2025; food allergy up to 10% of kids; anaphylaxis 1 in 15 schools/year; stock EAI recommendation; aap.org
+- **Follow-Up Opportunities:** Colorado school epinephrine law status; end-of-year 504 plan review guide
+
 ## April 17, 2026
 
 ### Story 1: Fasando Baby Lounger — CPSC Urgent Warning, Infant Death Reported
