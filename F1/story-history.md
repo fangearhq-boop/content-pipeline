@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-18
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Verstappen Nürburgring NLS4 race today (17:30-21:30 CEST) with Lucas Auer; qualifying red-flagged (Aston Martin crash); Verstappen not on pole; Auer incident under investigation (potential grid penalty); 132 cars/37 GT3s; NLS2 DSQ context (7 tyres, limit 6); NLS5 Sunday | 1 | FOLLOW-UP |
+| 2 | Ferrari "Macarena" wing — named by Vasseur; rotates upper flap completely upside down; Bahrain pre-season + China (rear instability when braking); revised version ~6 kW power gain; Monza filming day April 22; Ferrari 45-pt deficit to Mercedes (90 vs 135) | 1 | NEW STORY |
+| 3 | Hamilton race engineer U-turn — Carlo Santi (ex-Räikkönen engineer) stays Miami instead of Cédric Michel-Grosjean (McLaren gardening leave, no official date); Hamilton: "detrimental to me" — short-term caretaker creates mid-season disruption | 1 | NEW STORY |
+| 4 | FIA April 20 vote — super clipping 250→350kW, qualifying energy 6MJ, ADUO refinements; vote results days after; changes go live Miami May 1-3; Bearman Japan crash strengthened safety case | 2 | FOLLOW-UP |
+| 5 | Championship at April break — Antonelli 72 (youngest F1 leader 19y 216d), Russell 63, Leclerc 49, Hamilton 41; Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16; Bahrain+Saudi cancelled; Miami next May 1-3; Red Bull hoping ADUO eligibility | 2 | FOLLOW-UP |
+
+---
+
+### STORY 1: Verstappen Nürburgring 24h Qualifiers NLS4
+- **Tier:** 1
+- **Category:** Driver News / GT Racing
+- **Key facts:** NLS4 race April 18 (17:30-21:30 CEST), NLS5 April 19 (Race 2 12:30 CEST). Car: #3 Mercedes-AMG GT3 Evo (Red Bull-livered), co-driver Lucas Auer. Qualifying red-flagged (Aston Martin Vantage AMR GT3 crash, driver unhurt). Verstappen not on pole. Auer incident under investigation, potential grid penalty. 132 cars total, 37 in SP9 (GT3) class. NLS2 DSQ earlier: 7 tyre sets used (limit 6), BMW inherited victory. Counts toward 24h Nürburgring grid May 16-17.
+
+### STORY 2: Ferrari "Macarena" Wing Miami Upgrade
+- **Tier:** 1
+- **Category:** Technical / Team News
+- **Key facts:** "Macarena" named by Vasseur; rotates upper flap completely upside down when activated. First tested Bahrain pre-season; Hamilton+Leclerc used briefly in China but caused rear instability under braking while turning. Revised version targets ~6 kW power gain, higher top speeds, better energy distribution. Monza filming day April 22 for on-track verification. Ferrari 45-pt behind Mercedes (90 vs 135). Package also includes revised floor (Bahrain design), weight savings.
+
+### STORY 3: Hamilton Race Engineer U-Turn — Santi Stays Miami
+- **Tier:** 1
+- **Category:** Driver News / Team News
+- **Key facts:** Ferrari U-turn: Carlo Santi (Kimi Räikkönen's former engineer) continues at Miami, not Cédric Michel-Grosjean. Michel-Grosjean on gardening leave from McLaren, no official handover date. Hamilton quote: "It's only going to be a few races...switching up again — that's detrimental to me." Ferrari opted for continuity. Hamilton 4th in championship (41 pts), 31 behind leader Antonelli.
+
+### STORY 4: FIA April 20 Energy Management Vote
+- **Tier:** 2
+- **Category:** Regulation / Technical
+- **Key facts:** April 20 high-level FIA meeting. Three proposals: super clipping 250→350kW; qualifying energy target ~6MJ (from 8-9MJ); ADUO refinements. Bearman Japan crash strengthened safety case. E-vote days after meeting. FIA World Motor Sport Council ratification needed. Changes go live Miami May 1-3. Follows April 15-16 technical meetings.
+
+### STORY 5: 2026 Championship Standings at April Break
+- **Tier:** 2
+- **Category:** Standings / Analysis
+- **Key facts:** Drivers: Antonelli 72 (youngest F1 leader ever, 19y 216d, Italy's first since Ascari 1953), Russell 63, Leclerc 49, Hamilton 41, Norris 25, Piastri 21. Constructors: Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16. Bahrain+Saudi cancelled (Middle East conflict). Miami next May 1-3. Red Bull hoping ADUO eligibility closes ~0.8s chassis + ~0.2s PU gap.
+
+---
+
 ## 2026-04-17
 
 | # | Story | Tier | Tag |

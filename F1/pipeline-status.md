@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-17
+- **Date**: 2026-04-18
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-18
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters (Story 2 tweet 1 fixed from 286→254 chars)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5: Verstappen Nürburgring NLS4 Qualifiers, Ferrari Macarena wing Miami upgrade, Hamilton race engineer U-turn, FIA April 20 energy vote, 2026 championship standings)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-18.xlsx (13 posts) + f1fr-postplanner-tobi-2026-04-18.xlsx (13 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-18/review-dashboard.html (23 items)
+- **Notes:** Verstappen racing NLS4 today (17:30-21:30 CEST) + NLS5 tomorrow at Nürburgring 24h Qualifiers in Mercedes-AMG GT3 Evo with Lucas Auer; qualifying red-flagged (Aston Martin crash); Verstappen not on pole; Auer incident under investigation (potential grid penalty); NLS2 DSQ context (7 tyres, limit 6); 132 cars entered, 37 GT3s SP9 class. Ferrari "Macarena" rear wing (named by Vasseur): rotates upper flap completely upside down; tested Bahrain pre-season + China briefly (rear instability when braking while turning); revised version targets ~6 kW power gain; Monza filming day April 22 Hamilton+Leclerc testing revised aero; Ferrari 45-pt behind Mercedes (90 vs 135). Hamilton race engineer U-turn: Carlo Santi (ex-Räikkönen engineer) stays for Miami instead of Cédric Michel-Grosjean (McLaren gardening leave, no official date); Hamilton says "detrimental to me" — unstable short-term caretaker arrangement. FIA April 20 vote: super clipping 250→350kW, qualifying energy target 6MJ, ADUO refinements; vote results expected days after, changes go live Miami. Championship: Antonelli 72 (youngest F1 leader ever, 19y 216d), Russell 63, Leclerc 49, Hamilton 41; Constructors: Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16.
+- **Fact concerns:** Verstappen NLS4 race time/format HIGH (multiple sources). Qualifying red flag + Auer investigation MEDIUM (single GPFans article; GPBlog article also references). NLS2 DSQ (7 tyres) HIGH (confirmed multiple sources prior pipeline + crash.net, gpfans). Lucas Auer co-driver HIGH (Sky Sports, GPFans). Verstappen "I'm not afraid, I like it" HIGH (ESPN direct quote). Ferrari Macarena wing description HIGH (Scuderia Fans + F1 Oversteer + ESPN). China stability issues HIGH (multiple sources). ~6 kW power gain MEDIUM (single Scuderia Fans estimate). Monza April 22 filming day HIGH (multiple sources). Hamilton quote "detrimental to me" HIGH (Planet F1 direct quote). Carlo Santi staying Miami HIGH (Planet F1, GPFans). Cédric Michel-Grosjean gardening leave HIGH (multiple sources). FIA April 20 vote HIGH (Autosport official FIA statement). Super clipping 250→350kW HIGH (multiple). Championship standings HIGH (Formula1.com official). Antonelli 19y 216d HIGH (NBC News + prior pipeline). Ascari 1953 HIGH.
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-17
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
