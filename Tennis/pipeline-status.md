@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-17 |
-| Writing | Complete (all steps) | 2026-04-17 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-17 |
-| Compile | Complete (07-content-data.json) | 2026-04-17 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-17 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-17 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-17 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-17 |
+| Research | Complete | 2026-04-18 |
+| Writing | Complete (all steps) | 2026-04-18 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-18 |
+| Compile | Complete (07-content-data.json) | 2026-04-18 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-18 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-18 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-18 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-18 |
 
 ## Queue
 
@@ -24,6 +24,14 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-18 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-18.xlsx (7 posts), tfr-postplanner-tobi-2026-04-18.xlsx (7 TOBI posts)
+- **Coverage:** Barcelona SF Day (Jodar vs. Fils at 4 PM, Rublev vs. Medjedovic at 1:30 PM; Jodar 5th Spanish teen in Open Era to reach Barcelona SF joining Corretja/Moya/Nadal/Alcaraz); Stuttgart WTA SF Day (Rybakina vs. Andreeva, Svitolina vs. Muchova — after Andreeva beat Swiatek H2H now 3-1, Muchova first win over Gauff in 7 tries); Munich SF Day (Zverev vs. Cobolli, Shelton vs. Molcan); Medjedovic qualifier journey feature; Jodar history feature
 
 ### 2026-04-17 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
