@@ -1,9 +1,21 @@
 ## Last Run
-- **Date**: 2026-04-17
+- **Date**: 2026-04-18
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-18
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-04-18.xlsx (13 posts) + hh-postplanner-tobi-2026-04-18.xlsx (13 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-18/review-dashboard.html (23 items)
+- **Notes:** Play-In Night 3 results — Suns 111, Warriors 96 (Jalen Green 36 pts, 14/20 FG, 8 3PM tying Keegan Murray's all-time play-in record; Jordan Goodwin 19/9reb/6stl; Curry 4/16 FG/17 pts/4 TO; Suns 30 pts off 20 Warriors TOs; Suns earned No. 8 West, face defending champ Thunder April 19 3:30 PM ABC, Thunder -3000); Magic 121, Hornets 90 (Banchero 25/5/6/2stl, Wagner 18/7/6, Carter Jr 16/6; led 38-16 after Q1; 64-28 paint; 20 TOs/26 pts; LaMelo 23 pts; Hornets miss playoffs 10th straight season — longest active drought NBA; Magic face No. 1 Pistons); Lakers without Luka (Grade 2 hamstring, out R1) + Reaves (Grade 2 oblique, out majority R1); combined 56.8 PPG; LeBron (41, ill) expected to play; KD expected for Rockets; Lakers +550 underdogs; Game 1 tonight 8:30 PM ABC; Playoffs Day 1 schedule: Cavs-Raptors 1 PM, Nuggets-Wolves 3:30 PM, Knicks-Hawks 6 PM, Lakers-Rockets 8:30 PM; Full bracket set — Thunder defending champs (SGA back-to-back MVP 31.6 PPG), Pistons 60-22, Knicks +600 East.
+- **Fact concerns:** All play-in scores HIGH (ESPN, NBA.com, Yahoo Sports, ABC News, Lethbridge Herald, AL Jazeera). Jalen Green 8 3PM play-in record tie HIGH (multiple outlets confirmed, YouTube title "Play-In Record Tying 8 Three Pointers Made"). Goodwin 19/9/6stl MEDIUM (single AI summary; ESPN box score link confirmed game exists). Banchero 25/5/6 HIGH (NBA.com recap, Yahoo Sports, ABC News). Hornets 10th straight miss HIGH (multiple sources). Magic 38-16 Q1 lead MEDIUM (single AI summary of stats). Luka/Reaves injuries HIGH (NBA.com, ESPN, SI, Heavy.com, Silver Screen and Roll). Combined 56.8 PPG HIGH (Silver Screen and Roll confirmed). Lakers +550 HIGH (multiple betting sources). KD knee contusion/expected to play HIGH (Yahoo Sports game preview). Raptors 3-0 vs Cavs regular season MEDIUM (SI.com series preview, single source). Cavs 13-3 home last 16 MEDIUM (single source). Mitchell 27.9 PPG HIGH (ESPN player page). KAT 28.5/15.5 vs Hawks HIGH (preview confirmed). Trae Young to Wizards MEDIUM (single preview source, plausible per trade rumors confirmed in preview content). Thunder -3000 HIGH (DraftKings cited). Suns +1300 HIGH. Pistons 60-22 HIGH (prior pipeline). Knicks +600 HIGH (FanDuel cited).
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-17
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

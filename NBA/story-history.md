@@ -2,6 +2,45 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-18
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Suns 111, Warriors 96 — Jalen Green 36 pts, 8 3PM (tied play-in record, matching Keegan Murray), 14/20 FG; Jordan Goodwin 19 pts/9 reb/6 stl; Curry 4/16 FG/17 pts/4 TO; Suns scored 30 off 20 Warriors TOs; Suns face defending champ Thunder April 19 3:30 PM ABC | 1 | NEW STORY |
+| 2 | Magic 121, Hornets 90 — Banchero 25/5/6/2stl, Wagner 18/7/6, Carter Jr 16/6; led 38-16 after Q1 (67% FG), 35-pt halftime lead; 64-28 paint advantage, 20 TOs/26 pts; LaMelo 23 pts; Hornets miss playoffs 10th straight season (longest active drought); Magic face No. 1 Pistons R1 | 1 | NEW STORY |
+| 3 | Lakers without Luka Doncic (Grade 2 hamstring, out R1, R2 target) + Austin Reaves (Grade 2 oblique, out majority R1, earliest return first week of May); combined 56.8 PPG gone; LeBron (41, ill) expected to play; KD (knee contusion) expected for Rockets; Lakers +550 underdogs; Game 1 April 18 8:30 PM ET ABC | 1 | FOLLOW-UP (April 17 Story 2) |
+| 4 | NBA Playoffs Day 1 preview — Cavs-Raptors 1 PM, Nuggets-Wolves 3:30 PM, Knicks-Hawks 6 PM, Lakers-Rockets 8:30 PM; Raptors 3-0 vs Cavs regular season; Mitchell 27.9 PPG; KAT 28.5/15.5 reb vs Hawks; Knicks 53-29, Hawks 46-36, Trae Young traded to Wizards; Knicks -205 Game 1 | 2 | NEW STORY |
+| 5 | Full 2026 NBA Playoffs bracket preview — all 16 teams set; East: Pistons (1) vs Magic (8), Celtics (2) vs 76ers (7), Knicks (3) vs Hawks (6), Cavs (4) vs Raptors (5); West: Thunder (1, defending champs) vs Suns (8), Spurs (2) vs Blazers (7), Nuggets (3) vs Wolves (6), Lakers (4) vs Rockets (5); Thunder -3000 vs Suns; Knicks +600 East | 2 | NEW STORY |
+
+---
+
+### STORY 1: Suns 111, Warriors 96 — Jalen Green Ties Play-In Record
+- **Tier:** 1
+- **Category:** Play-In Results / Individual Performance
+- **Key facts:** Suns 111, Warriors 96 (April 17). Jalen Green: 36 pts, 14/20 FG, 8 3PM (tied Keegan Murray's play-in record). Jordan Goodwin: 19 pts, 9 reb, 6 stl. Curry: 17 pts, 4/16 FG, 4 TO. Suns 30 pts off 20 GSW TOs. Suns No. 8 West, face Thunder April 19 3:30 PM. Thunder -3000. Green acquired from Rockets (KD traded to Rockets) last summer.
+
+### STORY 2: Magic 121, Hornets 90 — Banchero, Playoff Clinch
+- **Tier:** 1
+- **Category:** Play-In Results / Scores & Results
+- **Key facts:** Magic 121, Hornets 90 (April 17). Banchero: 25 pts, 5 reb, 6 ast, 2 stl. Wagner: 18 pts, 7 reb, 6 ast. Carter Jr.: 16 pts, 6 reb. Led 38-16 after Q1, 35-pt halftime lead. Magic 64-28 in paint, 20 TOs/26 pts off TOs. LaMelo: 23 pts. Hornets: 10th consecutive missed playoffs (longest active drought in NBA). Magic face No. 1 Pistons R1.
+
+### STORY 3: Lakers Without Luka and Reaves — LeBron Game 1 Tonight
+- **Tier:** 1
+- **Category:** Injury / Breaking News / Preview
+- **Key facts:** Luka: Grade 2 left hamstring (April 2), out R1, 2nd round target. Reaves: Grade 2 left oblique (April 2), out majority R1, earliest first week of May. Combined 56.8 PPG. LeBron (41, ill) expected to play. KD (knee contusion) expected for HOU. Steven Adams + Fred VanVleet also out for HOU. Lakers +550 underdogs. Game 1 April 18 8:30 PM ET ABC.
+
+### STORY 4: NBA Playoffs Day 1 Preview
+- **Tier:** 2
+- **Category:** Preview / Schedule
+- **Key facts:** 4 Game 1s: Raptors at Cavs 1 PM (Prime); Wolves at Nuggets 3:30 PM (Prime); Hawks at Knicks 6 PM (Prime); Rockets at Lakers 8:30 PM (ABC). Raptors 3-0 vs Cavs regular season (avg 11 pts). Cavs 13-3 at home last 16. Mitchell 27.9 PPG, 24.0 PPG vs TOR. KAT 28.5 pts, 15.5 reb vs ATL. Knicks 53-29 (-205 Game 1). Trae Young traded to Wizards, Hawks added CJ McCollum.
+
+### STORY 5: Full 2026 Bracket Preview
+- **Tier:** 2
+- **Category:** Analysis / Bracket Preview
+- **Key facts:** East: Pistons (1) vs Magic (8); Celtics (2) vs 76ers (7) April 19 1 PM; Knicks (3) vs Hawks (6); Cavs (4) vs Raptors (5). West: Thunder (1) vs Suns (8) April 19 3:30 PM; Spurs (2) vs Blazers (7) April 19 9 PM NBC; Nuggets (3) vs Wolves (6); Lakers (4) vs Rockets (5). Thunder defending champs, 3 straight No. 1 West, SGA back-to-back MVP 31.6 PPG. Pistons 60-22. Knicks +600 East Finals. Thunder -3000.
+
+---
+
 ## 2026-04-17
 
 | # | Story | Tier | Tag |
