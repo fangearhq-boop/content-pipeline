@@ -3,7 +3,29 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-17)
+## Current Pipeline (2026-04-18)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-18 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-18 |
+| Fact-check | Complete (verify-facts.py — 20 claims, 42 HIGH confidence; no tweets over 280 chars; image not_started status is expected) | 2026-04-18 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-18 |
+| PostPlanner | Complete (standard 17 posts + TOBI 12 posts) | 2026-04-18 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-18 |
+| Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent with all previous runs) | 2026-04-18 |
+| Git | Committed and pushed to main | 2026-04-18 |
+
+## Notes (2026-04-18)
+- 5 stories: RBC Heritage R2 — Fitzpatrick 63 leads at -14, Bhatia 63/11 birdies ties record, Hovland T2 -13 (T1); McIlroy 6 majors all-time ranking — back-to-back Masters, ties Faldo as top European, Open/Ryder Cup ahead (T1); LIV Golf Mexico City R2 — Rahm leads at -10, Perez 73 falls to T6, Wolff/McKibbin/Varner III at -9 (T2); LPGA JM Eagle LA Championship R2 — Sei Young Kim 65-65 leads at -14, Iwai -13, final event before Chevron (T2); LIV Golf Masters reckoning — 10 players/1 top-30 (Hatton T3), Rahm T-38, PIF reconsidering $5B+ investment (T2)
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X posts: 7 total, all under 280 characters
+- WordPress publish: Failed — egress proxy blocks access (Host not in allowlist, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+---
+
+## Previous Pipeline (2026-04-17)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
