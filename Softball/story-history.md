@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 22, 2026
+
+### Story 1: FSU vs. Florida Tonight on ESPN2 — Top-15 Rivalry, National Seeds
+- **Angle:** FOLLOW UP (from April 17 FSU Senior Weekend story). No. 5 Florida (43-6) at No. 12 FSU (39-7), 6 PM ET ESPN2. Both teams undefeated vs in-state opponents (FL 11-0, FSU 6-0). Statistically near-identical (.366 vs .365 BA). National seed implications.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Game result, national seed implications, NFCA Week 13
+
+### Story 2: NFCA Week 12 Poll — Oklahoma No. 1 Despite Wild Week, Alabama Surges
+- **Angle:** NEW STORY. Oklahoma retains No. 1 (12 FPVs) despite Bedlam + ARK home streak losses. Every top-5 team lost. Alabama rises to No. 3 with 7 first-place votes (more than No. 2 TTech's 4). Nebraska No. 4.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** NFCA Week 13 poll April 28
+
+### Story 3: Oklahoma Wins Series Over Arkansas 2-1 — Wells at 32 HRs
+- **Angle:** FOLLOW UP (April 17). OU won series 2-1. ARK snapped OU's 31-game home win streak in Game 2 (3-2). Game 3: OU 11-1 run-rule (Parker CG, 4 HRs). Wells hit HR No. 32, needs 5 to tie Espinoza all-time record (37).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Wells HR milestones 33-37; all-time record break alert
+
+### Story 4: Nebraska Sweeps Minnesota — Rises to No. 1 in Softball America (36-6, 17-1 Big Ten)
+- **Angle:** FOLLOW UP (April 17 Nebraska at Minnesota preview). Nebraska swept 17-2, 11-2. First No. 1 in Softball America in 2026. 17-1 Big Ten. Non-conf wins: Texas, LSU, TTech, A&M, SC.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Nebraska Big Ten title clinch, national seed
+
+### Story 5: Alabama Sweeps Kentucky — 6th Straight SEC Series Win
+- **Angle:** FOLLOW UP (April 17). Sweep: 9-0 (Vandagriff game-ending HR), 5-4 walk-off, 4-0 shutout. Six consecutive SEC series wins. No. 3 NFCA with 7 first-place votes.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Alabama national seed, Week 13 poll position
+
+### Story 6: 2026 WCWS Bracketology — Stanford and A&M New Host Favorites, 32-Team Seeding
+- **Angle:** NEW STORY. Stanford and Texas A&M replace FSU and Arizona as host favorites. 32-team seeding debuts. Selection show May 10; regionals May 15.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** NCAA selection show May 10
+
+### Story 7: Texas Tech Final Road Trip — Canady 17-3, Red Raiders Eye Big 12 Title
+- **Angle:** FOLLOW UP (TTech Texas State loss April 15). TTech 42-4, heading into last road trip. Canady 17-3 after Texas State 3-0 shutout. Stays No. 2 NFCA Week 12 with 4 FPVs.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** TTech Big 12 title, national seed positioning
+
+---
+
 ## April 17, 2026
 
 ### Story 1: Oklahoma vs. No. 6 Arkansas — Game 1 Tonight on ESPN2

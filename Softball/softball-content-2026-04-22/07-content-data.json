@@ -1,0 +1,343 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-22",
+  "compiled_at": "2026-04-22T10:13:37.988664+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (FSU-Florida tonight)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (NFCA Week 12 poll)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (OU wins series, Wells 32)",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:30 PM",
+      "description": "Story 4 (Nebraska sweeps, No. 1 SA)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5 (Alabama sweeps Kentucky)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 6 (WCWS bracketology)",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7 (Texas Tech road trip)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** No. 5 Florida at No. 12 FSU Tonight — Top-15 Rivalry on ESPN2, National Seeds on the Line",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "No. 5 Florida is in Tallahassee tonight. 🥎\n\nFlorida (43-6) at No. 12 FSU (39-7).\nESPN2. 6 PM ET.\n\nTwo top-15 teams. Both undefeated vs in-state opponents.\nOne streak ends tonight.\n\nNational seeds are on the line. #FSUSoftball #GatorsSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#GatorsSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 1-2",
+          "text": "90 minutes to first pitch. 🥎\n\nNo. 5 Florida vs. No. 12 FSU.\nJoAnne Graf Field, Tallahassee. ESPN2 at 6 PM ET.\n\nFlorida: .366 team BA. FSU: .365 team BA.\nThis one is going to be close.\n\n#GatorsSoftball #FSUSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GatorsSoftball",
+            "#FSUSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-fsu-florida-top-15-rivalry-espn2.html",
+        "headline": "No. 5 Florida at No. 12 FSU: Top-15 Rivalry Tonight on ESPN2 with National Seeds on the Line",
+        "word_count": 636
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU vs. Florida\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Florida State softball JoAnne Graf Field\"\n- **Alt Search:** \"FSU softball pitcher\"\n- **Usage:** Story 1 social post (9:00 AM X + Facebook)\n- **Caption credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn search\n- **Search Term:** \"Florida Gators softball batter\"\n- **Alt Search:** \"Florida softball pitcher\"\n- **Usage:** Article 1 hero image\n- **Caption credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** NFCA Week 12 Poll: Oklahoma Holds No. 1 Despite Wild Week — Alabama Surges",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Every top-5 team in college softball lost this week. 🥎\n\nOklahoma still holds No. 1 (12 first-place votes).\nAlabama rises to No. 3 — with 7 first-place votes.\nTexas Tech stays at No. 2. Nebraska at No. 4.\n\nThe No. 1 race is as open as it's been all season. #CollegeSoftball #NFCA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#NFCA"
+          ],
+          "char_count": 278
+        },
+        {
+          "label": "Post 2-2",
+          "text": "NFCA Week 12 poll breakdown: 🥎\n\nNo. 1 — Oklahoma (12 FPVs)\nNo. 2 — Texas Tech (4 FPVs)\nNo. 3 — Alabama (7 FPVs)\nNo. 4 — Nebraska\n\nAlabama has MORE first-place votes than TTech but is ranked lower.\nThat gap will not last. #CollegeSoftball #RollTide",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#RollTide"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-nfca-week-12-poll-oklahoma-no-1.html",
+        "headline": "NFCA Week 12 Poll: Oklahoma Holds No. 1 After Chaotic Week — Alabama Surges with 7 First-Place Votes",
+        "word_count": 667
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NFCA Week 12 Poll\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Oklahoma softball pitcher\"\n- **Alt Search:** \"Oklahoma Sooners softball\"\n- **Usage:** Story 2 social post (10:30 AM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn search\n- **Search Term:** \"Alabama softball batter\"\n- **Alt Search:** \"Alabama Crimson Tide softball\"\n- **Usage:** Article 2 hero\n- **Caption credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Oklahoma Wins Series Over Arkansas 2-1 — Wells Hits HR No. 32, Now 5 From Record",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kendall Wells is at 32 home runs. 🥎\n\nShe needs 5 more to tie Lauren Espinoza's all-time NCAA record of 37.\nThat record has stood since 1995.\n\nOU won the ARK series 2-1. Wells hit No. 32 this weekend.\nHistory is getting closer. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-oklahoma-wins-arkansas-series-wells-32-hrs.html",
+        "headline": "Oklahoma Wins Series Over Arkansas 2-1 — Wells Hits No. 32, Now Five Home Runs From All-Time Record",
+        "word_count": 594
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma / Wells HR Chase\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Kendall Wells Oklahoma softball\"\n- **Alt Search:** \"Oklahoma Sooners softball batter\"\n- **Usage:** Story 3 social post (12:30 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn search\n- **Search Term:** \"Oklahoma softball home run celebration\"\n- **Alt Search:** \"Oklahoma Sooners softball dugout\"\n- **Usage:** Article 3 hero\n- **Caption credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Nebraska Sweeps Minnesota, Rises to No. 1 in Softball America — 17-1 Big Ten",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Nebraska swept Minnesota 17-2 and 11-2 this weekend. 🥎\n\n36-6. 17-1 Big Ten. No. 1 in Softball America.\n\nWins over Texas, LSU, TTech, A&M, and SC already on the resume.\n\nNebraska is a national seed. Period. #Huskers #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#CollegeSoftball"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-nebraska-sweeps-minnesota-no-1-softball-america.html",
+        "headline": "Nebraska Sweeps Minnesota, Rises to No. 1 in Softball America — Huskers Build National Seed Case",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska Softball\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Nebraska Cornhuskers softball\"\n- **Alt Search:** \"Nebraska softball pitcher\"\n- **Usage:** Story 4 social post (1:30 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Alabama Sweeps Kentucky for 6th Straight SEC Series Win — Crimson Tide Surging",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Alabama just swept Kentucky. 9-0. 5-4 walk-off. 4-0. 🥎\n\nThat's six straight SEC series wins.\n\nAlabama has 7 first-place votes in the NFCA Week 12 poll.\nThe Crimson Tide are rolling at exactly the right time.\n\n#RollTide #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#CollegeSoftball"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-alabama-sweeps-kentucky-six-straight-sec-series.html",
+        "headline": "Alabama Sweeps Kentucky for Sixth Straight SEC Series Win — Crimson Tide Surging at the Right Time",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Softball\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Alabama Crimson Tide softball\"\n- **Alt Search:** \"Alabama softball batter\"\n- **Usage:** Story 5 social post (3:00 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** 2026 WCWS Bracketology — 32-Team Seeding, Stanford and A&M New Host Favorites",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The 2026 WCWS bracket is taking shape. 🥎\n\nStanford and A&M are new projected host favorites.\n32-team seeding debuts this year.\n\nSelection show: May 10. Regionals: May 15.\n\nTonight's FSU-Florida game shapes the seeds. #CollegeSoftball #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#WCWS"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCWS Bracketology\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Women's College World Series softball Oklahoma City\"\n- **Alt Search:** \"NCAA softball tournament\"\n- **Usage:** Story 6 social post (5:30 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Texas Tech's Final Road Trip — Canady and the Red Raiders Eye Big 12 Title Run",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Texas Tech (42-4) heads out on its final road trip of the regular season. 🥎\n\nNiJaree Canady is 17-3 after a midweek loss to Texas State.\nShe's still No. 2 in the NFCA Week 12 poll.\n\nThis team has one more month to make its case for a national seed. #TexasTech #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTech",
+            "#CollegeSoftball"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech Softball\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"NiJaree Canady Texas Tech softball\"\n- **Alt Search:** \"Texas Tech Red Raiders softball pitcher\"\n- **Usage:** Story 7 social post (8:00 PM)\n- **Caption credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified",
+      "Story 6: No Facebook posts found",
+      "Story 6: No posting window specified",
+      "Story 7: No Facebook posts found",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
