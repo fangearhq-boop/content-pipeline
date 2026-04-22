@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-22
+
+### Story 1: Mets 12-Game Losing Streak — Historic Collapse
+- **Angle:** NEW STORY. Mets 7-16 after Devin Williams blew 3-0 lead vs Twins 5-3 on April 21 for 12th straight loss. First team in MLB history to finish prior season with winning record and lose 12 straight in April. 22 runs in 12 games. FanGraphs odds dropped 79.5%→41.3%. Franchise 7th time with 12+ game skid.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Mets recovery, roster moves, managerial decisions
+
+### Story 2: Ohtani Two-Way Season — 52-Game OB Streak, 0.50 ERA
+- **Angle:** FOLLOW UP (April 17 Ohtani 48-game OB streak + 0.00 ERA 2 starts). OB streak now 52 games (3rd Dodgers history). .402 OBP, .908 OPS, 5 HRs. 0.50 ERA 3 starts, 0.72 WHIP, 18:6 K:BB in 18 IP. Dodgers 16-6 MLB-best.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Ohtani next pitching start, OB streak continuation
+
+### Story 3: Dodgers Franchise HR Record — 42 in 22 Games
+- **Angle:** NEW STORY. 42 HRs in first 22 games, franchise record. Muncy 8, Rushing 7, Ohtani 5, Pages 5. 12 different players HR. 12-3 win over Colorado April 20. Betts out (oblique) much of stretch. Lead MLB in BA (.287), OBP (.364), SLG (.499), opp BA (.193), WHIP (1.05).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Dodgers continued HR pace, Betts return
+
+### Story 4: Jordan Walker — NL-Leading 8 HRs, Cardinals Breakout
+- **Angle:** FOLLOW UP (April 17 Walker 8 HRs). Walker confirmed NL leader .315/.375/.685. First Cardinals player since Ray Lankford 1997 to have GS + SB + 3+ hits + OF assist in same game. 3-for-4, HR, 5 RBIs, SB.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Walker sustained production, Cardinals outlook
+
+### Story 5: Aaron Judge — 9 HRs Leads MLB, Career Milestones
+- **Angle:** FOLLOW UP (April 17 Walker-Judge HR race). Judge leads MLB with 9 HRs. Career 377 HRs. 90th career first-inning HR (3rd Yankees history behind Ruth 126, Mantle 103). 47 multi-HR games (2nd Yankees behind Ruth). Turns 34 April 26.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Judge 400 career HR milestone, 500 HR trajectory
+
+### Story 6: Reds Lead NL Central — Best Start Since 2006
+- **Angle:** NEW STORY. Reds 15-8, NL Central lead. Best start since 2006. Burns 2.42 ERA, 22 Ks in 22.1 IP, 98.5 mph FB, 56.3% slider whiff. Reds beat Rays 11-2 April 21.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Burns development, NL Central race
+
+### Story 7: MLB Week 3 Power Rankings
+- **Angle:** NEW STORY. Dodgers No. 1 (16-6), Padres/Braves rising, Yankees No. 4, Mets No. 30. MLB.com official April 20 rankings.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Week 4 power rankings, standings shifts
+
+---
+
 ## 2026-04-17
 
 ### Story 1: Ohtani On-Base Streak at 48 Games

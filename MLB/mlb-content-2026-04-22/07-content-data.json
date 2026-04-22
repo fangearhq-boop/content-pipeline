@@ -1,0 +1,342 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-22",
+  "compiled_at": "2026-04-22T10:24:35.733735+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Mets streak)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Ohtani)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 4 (Walker Cardinals)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5 (Judge milestones)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 3 (Dodgers HR record)",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6 (Reds NL Central)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 7 (power rankings)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Mets' 12-Game Losing Streak — Historic Collapse for a Team That Won Last Year",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Mets just lost their 12th straight game. ⚾\n\nDevin Williams blew a 3-0 lead. None retired. Final 5-3.\n\nNew York is 7-16. They've scored 22 runs in those 12 losses.\n\nFirst team in MLB history to start with a winning year and do this. #Mets #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 1-2",
+          "text": "139 teams in the World Series era have lost 12 straight games. ⚾\n\nNone of them reached the postseason that year.\n\nThe Mets are now 7-16. FanGraphs has their playoff odds at 41.3%.\n\nThey were at 79.5% before opening day. #Mets #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-mets-12-game-losing-streak-historic-collapse.html",
+        "headline": "Mets' 12-Game Losing Streak Is Historic — First Team to Follow a Winning Season with an April Collapse This Long",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mets 12-Game Losing Streak\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"New York Mets dugout\"\n- **Alt Search:** \"Devin Williams Mets pitcher\"\n- **Usage:** Story 1 social post (8:00 AM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn search\n- **Search Term:** \"New York Mets batter\"\n- **Alt Search:** \"Mets ballpark crowd\"\n- **Usage:** Article 1 hero\n- **Caption credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Ohtani's Two-Way Dominance Continues — 52-Game On-Base Streak, 0.50 ERA Through Three Starts",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Shohei Ohtani in 2026: ⚾\n\n🔴 52-game on-base streak (3rd in Dodgers history)\n🔴 .402 OBP / .908 OPS / 5 HR at the plate\n🔴 0.50 ERA through 3 starts on the mound\n🔴 Dodgers: 16-6, No. 1 in MLB\n\nThere is no one else like him. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Dodgers are first in the majors in: ⚾\n\nBA (.287) · OBP (.364) · SLG (.499)\nOpponents' BA (.193) · WHIP (1.05)\n\nThe guy carrying this team is also pitching to a 0.50 ERA.\n\nOhtani is doing things no one has ever done. #Dodgers #ShoheiOhtani #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#ShoheiOhtani",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-ohtani-two-way-dominance-52-game-ob-streak.html",
+        "headline": "Ohtani Is Doing the Impossible Again — 52-Game On-Base Streak, 0.50 ERA, and the Best Team in Baseball",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shohei Ohtani\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Shohei Ohtani Dodgers pitcher\"\n- **Alt Search:** \"Shohei Ohtani Dodgers batting\"\n- **Usage:** Story 2 social post (10:30 AM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn search\n- **Search Term:** \"Shohei Ohtani Los Angeles Dodgers\"\n- **Alt Search:** \"Dodgers pitcher mound\"\n- **Usage:** Article 2 hero\n- **Caption credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Dodgers Set Franchise HR Record — 42 Home Runs in First 22 Games",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Dodgers have 42 home runs through 22 games. ⚾\n\nThat's a franchise record.\n\nMuncy: 8. Rushing: 7. Ohtani: 5. Pages: 5.\n12 different Dodgers have gone deep.\n\nMookie Betts hasn't even played most of this stretch. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-dodgers-franchise-hr-record-42-in-22-games.html",
+        "headline": "Dodgers Set Franchise Home Run Record — 42 in First 22 Games, Power Coming from Every Corner of the Lineup",
+        "word_count": 567
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dodgers HR Record\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Max Muncy Dodgers home run\"\n- **Alt Search:** \"Los Angeles Dodgers batter\"\n- **Usage:** Story 3 social post (6:00 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Jordan Walker Is the NL's Hottest Hitter — Cardinals Outfielder Leads with 8 HRs",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jordan Walker leads the NL with 8 home runs. ⚾\n\nHe's slashing .315/.375/.685 for the Cardinals.\n\nThis month: grand slam, stolen base, 3+ hits, AND an outfield assist in one game. First Cardinals player since Ray Lankford in 1997.\n\nWalker is for real. #Cardinals #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cardinals",
+            "#MLB"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-jordan-walker-cardinals-nl-hr-leader-breakout.html",
+        "headline": "Jordan Walker Is the NL's Hottest Hitter — Cardinals Outfielder Leads the League with 8 Home Runs",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jordan Walker Cardinals\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Jordan Walker Cardinals\"\n- **Alt Search:** \"St. Louis Cardinals batter\"\n- **Usage:** Story 4 social post (12:30 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn search\n- **Search Term:** \"Jordan Walker St. Louis Cardinals\"\n- **Alt Search:** \"Cardinals outfielder\"\n- **Usage:** Article 4 hero\n- **Caption credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Aaron Judge Leads MLB with 9 HRs — Career Milestones Piling Up",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Aaron Judge leads MLB with 9 home runs. ⚾\n\nHe's also climbing Yankees history at age 33:\n\n→ 90th career first-inning HR (3rd in franchise history)\n→ 47 multi-HR games (2nd in Yankees history, behind Babe Ruth)\n\nHe turns 34 on Saturday. #Yankees #AaronJudge #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#AaronJudge",
+            "#MLB"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-aaron-judge-leads-mlb-9-hrs-career-milestones.html",
+        "headline": "Aaron Judge Leads MLB with 9 Home Runs — Career Milestones Accumulating as He Climbs Yankees History",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Aaron Judge Yankees home run\"\n- **Alt Search:** \"Aaron Judge New York Yankees batter\"\n- **Usage:** Story 5 social post (3:00 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn search\n- **Search Term:** \"Aaron Judge Yankees\"\n- **Alt Search:** \"New York Yankees batter\"\n- **Usage:** Article 5 hero\n- **Caption credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Reds Lead NL Central — Best Start Since 2006, Chase Burns Emerges as Ace",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Cincinnati Reds are 15-8. First in the NL Central. ⚾\n\nTheir best start since 2006.\n\nChase Burns: 2.42 ERA · 22 Ks in 22.1 IP · 56.3% slider whiff rate.\n\nThe Reds beat the Rays 11-2 last night. They're for real. #Reds #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cincinnati Reds\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Chase Burns Cincinnati Reds pitcher\"\n- **Alt Search:** \"Cincinnati Reds pitcher\"\n- **Usage:** Story 6 social post (8:00 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** MLB Week 3 Power Rankings — Dodgers 1, Mets 30, Reds Rising",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "MLB Week 3 power rankings: ⚾\n\nNo. 1 — Dodgers (16-6)\nNo. 4 — Yankees\nRising — Reds, Braves, Padres\nNo. 30 — Mets (7-16)\n\nThree weeks in. The picture is getting clearer. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 173
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Power Rankings\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Los Angeles Dodgers celebration\"\n- **Alt Search:** \"Dodgers Ohtani dugout\"\n- **Usage:** Story 7 social post (10:00 PM)\n- **Caption credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified",
+      "Story 6: No Facebook posts found",
+      "Story 6: No posting window specified",
+      "Story 7: No Facebook posts found",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

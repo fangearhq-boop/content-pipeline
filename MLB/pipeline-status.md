@@ -1,6 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-22
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 2 char violations fixed before compile), FB posts (14), image concepts, image manifest, articles (5), fact-check (29 claims, 0 char violations after fixes, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). FB posts compile to 0 (heading format — known). 2 char violations fixed (Story 1 tweet 290→247, Story 4 tweet 287→277).
+
+## Previous Run
 - **Date**: 2026-04-17
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 3 char violations fixed before save), FB posts (14), image concepts, image manifest, articles (5), fact-check (30 claims, 0 char violations, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -118,6 +125,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-22
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 29 claims. 2 char violations fixed (Story 1 tweet 290→under 280, Story 4 tweet 287→under 280). 0 violations after fix. All stories present. IMAGE MISSING expected (not_started).
+- Dashboard: 28 items. publish-dashboard success.
+- PostPlanner: bb-postplanner-2026-04-22.xlsx (9 posts), bb-postplanner-tobi-2026-04-22.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Mets 12-game losing streak 7-16 first MLB team with winning record prior year to lose 12 straight in April FanGraphs odds 41.3% Williams blown save (P10); Ohtani 52-game OB streak 0.50 ERA 3 starts .908 OPS Dodgers 16-6 MLB-best (P10); Dodgers franchise HR record 42 in 22 games Muncy 8 Rushing 7 (P8); Walker Cardinals NL-leading 8 HRs .315/.375/.685 (P8); Judge leads MLB 9 HRs career 377 90th first-inning HR 3rd Yankees history (P7); Reds 15-8 NL Central lead best since 2006 Burns 2.42 ERA 98.5 mph (P7); MLB power rankings Dodgers No. 1 Mets No. 30 (P6)
+- Notes: 2 tweet char violations caught and fixed by verify-facts. FB posts compile to 0 (heading format — known, dashboard uses markdown fallback).
 
 ### 2026-04-17
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
