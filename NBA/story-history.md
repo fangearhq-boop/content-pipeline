@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-22
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Wembanyama 35 pts in playoff debut (Spurs 111, Blazers 98, Game 1 April 19) — franchise record (broke Tim Duncan's 32), 13/21 FG, 5/6 3PT, 21 pts first half (league record since 1997), Castle 17, Fox 17; Blazers bounced back in Game 2 106-103 (Henderson 31); series tied 1-1 | 1 | NEW STORY |
+| 2 | Lakers 2-0 vs Rockets — LeBron 28/8/7 in Game 2 (101-94); Kennard 23 pts; Smart key 4Q 3PT; KD returned (23 pts, 6/9 FG) not enough; Lakers held Houston to 40.4% FG; both Luka (hamstring) and Reaves (oblique) out | 1 | FOLLOW-UP (April 18 Story 3) |
+| 3 | Magic stun No. 1 Pistons wire-to-wire 112-101 Game 1 (April 19) — Banchero 23/9/4, 17 pts first half; all 5 starters scored 16+; Cade Cunningham 39 pts (13/27); Detroit 11 straight home playoff losses since 2008; Magic first road playoff W since 2020 | 1 | NEW STORY |
+| 4 | Hawks stun Knicks at MSG Game 2 107-106 — CJ McCollum 32 pts (12/22); trailed by 12 after 3Q; 28-15 4Q run; series tied 1-1 | 2 | NEW STORY |
+| 5 | Round 1 roundup — Cavs 2-0 vs Raptors (126-113, 115-105); Celtics-76ers tied 1-1 (PHI won G2 111-97; Edgecombe 30/10 reb, Brown 36 in loss); Thunder 1-0 vs Suns (119-84 G1); Thunder-Suns G2 tonight 9:30 PM ET | 2 | NEW STORY |
+
+### STORY 1: Wembanyama Historic Playoff Debut — Spurs 111, Blazers 98
+- **Tier:** 1
+- **Category:** Playoff Game Results / Individual Performance
+- **Key facts:** Spurs 111, Blazers 98 (Game 1, April 19). Wembanyama: 35 pts, 13/21 FG, 5/6 3PT, 5 reb, 2 blk. Franchise record for points in playoff debut (broke Tim Duncan's 32). 21 pts first half: league record since 1997. Supporting: Castle 17, Fox 17, Vassell 15. Blazers: Avdija 30/10. First Spurs playoff without Popovich since 1999. First Spurs playoff win since 2019. Game 2: Blazers 106, Spurs 103 (Henderson 31). Series tied 1-1.
+
+### STORY 2: Lakers 2-0 vs Rockets — LeBron Leads Shorthanded Squad
+- **Tier:** 1
+- **Category:** Playoff Game Results / Injury Impact
+- **Key facts:** Game 1: Lakers 107, Rockets 98. Game 2: Lakers 101, Rockets 94. LeBron: 28 pts, 8 reb, 7 ast (Game 2). Kennard: 23 pts. Smart key 4Q three. KD returned: 23 pts, 6 reb, 4 ast (6/9 FG). Lakers held Houston to 40.4% FG, under 100 pts. Luka (Grade 2 hamstring) and Reaves (Grade 2 oblique) both out.
+
+### STORY 3: Magic 112, Pistons 101 — Wire-to-Wire Game 1 Upset
+- **Tier:** 1
+- **Category:** Playoff Upset / Game Results
+- **Key facts:** Magic 112, Pistons 101 (Game 1, April 19). Magic never trailed (wire-to-wire). Banchero: 23 pts, 9 reb, 4 ast (17 pts first half). All starters 16+: Carter Jr 17, Bane 17, Suggs 16. Cade: 39 pts, 13/27. Detroit: 11 straight home playoff losses since 2008. Magic first road playoff win since 2020. Magic lead series 1-0.
+
+### STORY 4: Hawks 107, Knicks 106 — McCollum 32 Pts in 4Q Comeback at MSG
+- **Tier:** 2
+- **Category:** Playoff Game Results / Comeback
+- **Key facts:** Knicks won Game 1: 113-102. Hawks won Game 2: 107-106. McCollum: 32 pts, 12/22 FG. Hawks trailed by 12 after 3Q, outscored Knicks 28-15 in 4Q. Series tied 1-1.
+
+### STORY 5: Round 1 Roundup — Cavs 2-0, 76ers Even It, Thunder Dominant
+- **Tier:** 2
+- **Category:** Playoff Series Standings / Roundup
+- **Key facts:** Cavs lead Raptors 2-0 (G1: 126-113, G2: 115-105). Celtics-76ers tied 1-1 (G1: BOS 123-91; G2: PHI 111-97 — Edgecombe 30/10 reb, Brown 36 for BOS in loss). Thunder lead Suns 1-0 (G1: 119-84). Thunder-Suns G2 tonight April 22, 9:30 PM ET ESPN.
+
+---
+
 ## 2026-04-18
 
 | # | Story | Tier | Tag |

@@ -1,9 +1,21 @@
 ## Last Run
-- **Date**: 2026-04-18
+- **Date**: 2026-04-22
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-22
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-04-22.xlsx (8 posts) + hh-postplanner-tobi-2026-04-22.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-22/review-dashboard.html (23 items)
+- **Notes:** NBA Playoffs Round 1 — Wembanyama 35 pts in playoff debut (Spurs 111, Blazers 98 G1; broke Tim Duncan's franchise record of 32; 5/6 3PT; 21 first half pts = league record since 1997; first Spurs playoff without Popovich since 1999; Blazers bounced back G2 106-103, Henderson 31, series tied 1-1); Lakers 2-0 vs Rockets (LeBron 28/8/7 G2 101-94; Kennard 23; KD returned 23 pts; Lakers held HOU to 40.4% FG; both Luka hamstring and Reaves oblique out); Magic stun No. 1 Pistons wire-to-wire 112-101 G1 (Banchero 23/9/4; all 5 starters 16+; Cade 39 pts; Detroit 11 straight home playoff L since 2008); Hawks stun Knicks 107-106 at MSG G2 (McCollum 32; down 12 after 3Q; 28-15 4Q; series tied 1-1); Round 1 roundup (Cavs 2-0 Raptors; Celtics-76ers 1-1, PHI won G2 111-97, Edgecombe 30/10, Brown 36 loss; Thunder 1-0 Suns 119-84 blowout; Thunder-Suns G2 tonight 9:30 PM ET).
+- **Fact concerns:** Wembanyama 35 pts debut HIGH (ESPN, NBA.com, Al Jazeera, Washington Post, Yahoo Sports, SI). Duncan record of 32 HIGH (ESPN, NBA.com). 21 first-half pts record since 1997 HIGH (ESPN). Castle/Fox 17 each HIGH (NBA.com). Avdija 30/10 HIGH (multiple). Blazers G2 Henderson 31 HIGH (NBA.com, GMA News). LeBron 28/8/7 HIGH (ESPN, NBC Sports). Kennard 23 HIGH (ESPN). KD 23 (6/9 FG) HIGH (ESPN). 40.4% FG allowed HIGH (ESPN). Magic 112, Pistons 101 HIGH (ESPN, NBA.com, Yahoo Sports). Wire-to-wire HIGH (Yahoo Sports, NBA.com). Banchero 23/9/4 HIGH (multiple). All 5 starters 16+ HIGH (NBA.com). Cade 39 pts HIGH (ESPN, NBA.com). Detroit 11 straight home playoff L HIGH (Yahoo Sports, ESPN). McCollum 32 pts HIGH (ESPN East takeaways). 28-15 4Q HIGH (ESPN). Cavs 2-0 scores HIGH (CBS Sports). Celtics 123-91 G1 HIGH (CBS Sports). 76ers 111-97 G2 HIGH (GMA News Online, ESPN). Edgecombe 30/10 HIGH (ESPN). Brown 36 HIGH (ESPN). Thunder 119-84 HIGH (CBS Sports).
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-18
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
