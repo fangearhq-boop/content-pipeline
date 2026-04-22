@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-18 |
-| Writing | Complete (all steps) | 2026-04-18 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-18 |
-| Compile | Complete (07-content-data.json) | 2026-04-18 |
-| Dashboard | Complete (review-dashboard.html) | 2026-04-18 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-18 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-18 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-18 |
+| Research | Complete | 2026-04-22 |
+| Writing | Complete (all steps) | 2026-04-22 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-22 |
+| Compile | Complete (07-content-data.json) | 2026-04-22 |
+| Dashboard | Complete (review-dashboard.html) | 2026-04-22 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-22 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-22 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-22 |
 
 ## Queue
 
@@ -24,6 +24,20 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-22 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 9 X posts + 5 FB posts (5 long-form + 5 captions) = 14 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-22.xlsx (9 posts), tfr-postplanner-tobi-2026-04-22.xlsx (9 TOBI posts)
+- **Coverage:** Arthur Fils wins Barcelona 6-2, 7-6(2) over Rublev — 4th career title, 1st since 7-month injury return; Ben Shelton wins Munich 6-2, 7-5 over Cobolli — first American since Agassi 2002 to win ATP 500+ on clay (24-year drought); Rybakina wins Stuttgart 7-5, 6-1 over Muchova — 13th career WTA title, first repeat title of career (12 cities in 12 titles); Alcaraz arm cast / French Open doubt — Feliciano Lopez fears 2-month layoff; Madrid Open 2026 opens — Sinner No. 1 hunting 5th straight Masters 1000 title
+- **Notes:**
+  - verify-facts.py: all 5 stories present; 47 claims; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 9 X posts, 5 FB posts, 5 articles
+  - PostPlanner: 9 posts standard, 9 TOBI posts
+  - Dashboard push failed: PAT lacks write permission (same as all prior runs)
+  - WordPress publish failed: proxy blocks fanrumor.com — same env restriction as all prior runs
 
 ### 2026-04-18 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

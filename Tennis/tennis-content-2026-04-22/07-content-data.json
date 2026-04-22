@@ -1,0 +1,303 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-22",
+  "compiled_at": "2026-04-22T12:45:26.614138+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Arthur Fils Wins Barcelona — First Title Since Injury Comeback",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Arthur Fils is BACK. 🎾\n\nWins Barcelona, defeating Rublev 6-2, 7-6(2) — his 4th career title and 1st since returning from a 7-month injury absence.\n\nSaved 2 match points in R1. Now he's champion.\n\n#TennisRecap #Barcelona2026 #TennisFanrecap fanrumor.com",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#Barcelona2026",
+            "#TennisFanrecap"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Fils served for the Barcelona title at 5-3 in the 2nd set. Rublev broke back. Then Fils reeled off 7 straight tiebreak points.\n\nThat's a Roland Garros contender. 🇫🇷\n\n#Fils #Barcelona2026 #RolandGarros #TennisFanrecap fanrumor.com",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Fils",
+            "#Barcelona2026",
+            "#RolandGarros",
+            "#TennisFanrecap"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "Arthur Fils Is Back — And He Sent the ATP Tour a Message\n\nSeven months. A stress fracture. A long road through rehab. And then Arthur Fils arrived in Barcelona, the clay-court city where the greats have played since 1953, and he won the whole thing.\n\nThe 21-year-old Frenchman defeated Andrey Rublev 6-2, 7-6(2) on Sunday to claim his 4th career ATP title and 3rd on clay. But the final scoreline doesn't capture how close it came to being a very different story. In Round 1, Fils faced fellow Frenchman Terence Atmane and stared down two match points before fighting back to win 4-6, 6-4, 7-6(7). He had barely touched European clay in 2026 before that match.\n\nFrom there, Fils took flight. He beat Rafael Jodar 3-6, 6-3, 6-2 in the semifinals, then raced through the opening set of the final against Rublev 6-2. When Rublev staged a late rally in the second set — breaking to lead 6-5 after Fils had served for the title — it looked like the match might slip away. But Fils claimed seven straight tiebreak points to close out the title 7-2.\n\nFor Fils, this title is much more than a trophy. It's confirmation that he belongs at the top of the game — and that Roland Garros should take notice.\n\nWhat do you think — is Fils a genuine French Open contender in 2026? 🎾\n\n---\n\n#### Image Caption Post (12:30 PM ET)\n\nBarcelona is done. Arthur Fils wins the title — his 4th career ATP crown and first since his injury return. Saved match points in Round 1. Beat Jodar. Outlasted Rublev in a tiebreak.\n\nThe Frenchman is back. 🏆🇫🇷\n\n---",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-01-fils-wins-barcelona-injury-comeback.html",
+        "headline": "Arthur Fils Claims Barcelona Crown in Emotional Return From Injury",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Arthur Fils Wins Barcelona\n\n#### Image Concept 1A — Social (1080x1350)\n**Type:** Social (4:5 vertical)\n**Imagn Search Terms:** `Arthur Fils`\n**Caption/Overlay Text:** \"BARCELONA CHAMPION — Arthur Fils | ATP 500\"\n**Notes:** Full-frame action shot or celebration. Barcelona clay courts visible if possible.\n\n#### Image Concept 1B — Article Hero (1200x630)\n**Type:** Article hero (1.91:1 landscape)\n**Imagn Search Terms:** `Arthur Fils`\n**Caption/Overlay Text:** \"FILS WINS BARCELONA — First Title Since Injury Return\"\n**Notes:** Celebration or match-point moment. Wide crop for landscape hero.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Arthur Fils Wins Barcelona\n**Sources:**\n- ATP Tour (atptour.com/en/news/fils-rublev-barcelona-2026-final) — official match recap\n- Olympics.com — \"2026 Barcelona Open: Arthur Fils claims fourth career title\"\n- Malay Mail — \"Fils fires Roland Garros warning with Barcelona title after injury comeback\"\n- Tennis Majors — \"Fils conquers Barcelona to signal he is back among the best\"\n**Verified Facts (HIGH confidence):**\n- Fils def. Rublev 6-2, 7-6(2) in the Barcelona Open final (Sunday, April 19, 2026) [HIGH]\n- This is Fils' 4th career ATP title and 3rd clay title [HIGH]\n- Fils' first title since his injury comeback (seven-month absence, returned February 2026) [HIGH]\n- Fils saved two match points vs. Terence Atmane in R1 (score: 4-6, 6-4, 7-6(7)) [HIGH]\n- Fils def. Jodar 3-6, 6-3, 6-2 in the SF [HIGH]\n- Rublev led 6-5 in the second set after breaking back but Fils won the tiebreak 7-2 [HIGH]\n- Fils is 21 years old, French [HIGH]\n- Fils is the 4th 2026 title winner to have saved match points en route (joining Shelton-Dallas, Navone-Bucharest, Paul-Houston) [MEDIUM — from single source]\n**Verified Facts (MEDIUM confidence):**\n- Fils returned after a stress fracture in his lower back [MEDIUM — \"stress fracture in his lower back\" per single source; others say \"lengthy injury absence\"]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Ben Shelton Wins Munich — First American Since Agassi to Win ATP 500+ on Clay",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Ben Shelton wins Munich, 6-2, 7-5 over Cobolli.\n\nHis 5th ATP title. His biggest clay win. First American to win an ATP 500+ on clay since Andre Agassi in Rome — 2002.\n\n24 years. Worth the wait. 🇺🇸\n\n#Shelton #Munich2026 #TennisFanrecap fanrumor.com",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Shelton",
+            "#Munich2026",
+            "#TennisFanrecap"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 2-2",
+          "text": "In 2002, Andre Agassi won the Rome Masters on clay.\n\nNo American man won an ATP 500+ event on clay again — for 24 years.\n\nOn Sunday, Ben Shelton ended that drought in Munich.\n\nNow ranked No. 6 in the world. 🎾🇺🇸\n\n#Shelton #AmericanTennis #Clay #TennisFanrecap fanrumor.com",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Shelton",
+            "#AmericanTennis",
+            "#Clay",
+            "#TennisFanrecap"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "Ben Shelton Just Did Something No American Has Done on Clay in 24 Years\n\nTo understand what Ben Shelton accomplished on Sunday in Munich, you have to go back to Rome in 2002. That was the last time an American man won an ATP 500-level or higher event on clay. The champion? Andre Agassi. A Hall of Famer with eight Grand Slam titles.\n\nTwenty-four years later, the American clay drought is over.\n\nShelton defeated Flavio Cobolli 6-2, 7-5 in the BMW Open final to claim his 5th ATP title and his second on clay — and to write his name into the history books alongside Agassi. It's a significant achievement in a country that has historically struggled to produce clay-court specialists.\n\nShelton came into Munich riding strong form. Cobolli had famously beaten Zverev in the semis, but in the final, Shelton's power game proved too much. He won the first set 6-2 with authority, then navigated a tighter 7-5 second set to secure the title and a career-high No. 6 ranking.\n\n\"I have big ambitions on clay,\" Shelton said after his victory. With Roland Garros approaching, the tennis world is taking note.\n\nWho do you think is America's best shot at a French Open title — Shelton, or someone else? 🇺🇸🎾\n\n---\n\n#### Image Caption Post (3:00 PM ET)\n\n24 years since an American man won an ATP 500+ event on clay.\n\nBen Shelton. Munich. 2026. Done. 🏆\n\nSix matches. One historic title. No. 6 in the world. The drought is over.\n\n---",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-02-shelton-munich-american-clay-history.html",
+        "headline": "Ben Shelton Wins Munich — First American to Win ATP 500+ on Clay Since Agassi in 2002",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ben Shelton Wins Munich\n\n#### Image Concept 2A — Social (1080x1350)\n**Type:** Social (4:5 vertical)\n**Imagn Search Terms:** `Ben Shelton`\n**Caption/Overlay Text:** \"MUNICH CHAMPION — Ben Shelton | ATP 500 | First American Since Agassi\"\n**Notes:** Victory pose or trophy lift moment. Clay court setting.\n\n#### Image Concept 2B — Article Hero (1200x630)\n**Type:** Article hero (1.91:1 landscape)\n**Imagn Search Terms:** `Ben Shelton`\n**Caption/Overlay Text:** \"SHELTON ENDS 24-YEAR AMERICAN CLAY DROUGHT\"\n**Notes:** Wide action or celebration shot. Landscape crop.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ben Shelton Wins Munich\n**Sources:**\n- ATP Tour (atptour.com/en/news/shelton-cobolli-munich-2026-final) — official match recap\n- Tennis.com — \"Ben Shelton wins Munich, biggest clay-court title for an American man since Agassi in 2002\"\n- Puntodebreak.com — \"Shelton ends a 24-year drought and joins Agassi on this historic list\"\n- Tennis Temple (en.tennistemple.com) — \"Munich: Shelton Claims Title, Ends 24-Year American Drought\"\n**Verified Facts (HIGH confidence):**\n- Shelton def. Cobolli 6-2, 7-5 in the Munich BMW Open final (Sunday, April 19, 2026) [HIGH]\n- This is Shelton's 5th ATP title [HIGH]\n- First American to win ATP 500+ on clay since Agassi won in Rome in 2002 (24-year drought) [HIGH — multiple sources]\n- Shelton's ranking moves to No. 6 (career-high) [HIGH]\n- Cobolli beat Zverev in the SF [HIGH]\n**Verified Facts (MEDIUM confidence):**\n- Shelton is one of just five Americans to win a tour event on clay outside the US since 2000 (Agassi, Roddick, Querrey, Korda) [MEDIUM — from single source]\n- \"I have big ambitions on clay\" — Shelton quote [MEDIUM — attributed in Tennis.com]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Rybakina Wins Stuttgart — First Repeat Title of Career",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Elena Rybakina wins Stuttgart, 7-5, 6-1 over Muchova in 78 min.\n\nHer 13th WTA title — and the first repeat of her career. She had previously won 12 trophies in 12 different cities.\n\nStuttgart is now hers. 🏆\n\n#Rybakina #Stuttgart2026 #TennisFanrecap fanrumor.com",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rybakina",
+            "#Stuttgart2026",
+            "#TennisFanrecap"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 3-2",
+          "text": "12 WTA titles in 12 different tournaments.\n\nThen Elena Rybakina went back to Stuttgart — where she won in 2024 — and won it again.\n\nTitle No. 13. First repeat of her career. 🎾\n\n#Rybakina #WTA #Stuttgart2026 #TennisFanrecap fanrumor.com",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rybakina",
+            "#WTA",
+            "#Stuttgart2026",
+            "#TennisFanrecap"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "Rybakina Rewrites Her Own Record — Stuttgart Belongs to Her Again\n\nBefore Sunday, Elena Rybakina had won 12 WTA titles. And here was the remarkable part: every single one of those 12 trophies came in a different city. Different country, different court, different week — and Rybakina found a way to win.\n\nThe first repeat was always going to be special. On Sunday in Stuttgart, it arrived.\n\nRybakina defeated Karolina Muchova 7-5, 6-1 in just 1 hour and 18 minutes to claim her 13th WTA title and her second Porsche Tennis Grand Prix crown — the first repeat title of her career. She had won Stuttgart in 2024, and she came back in 2026 and did it again.\n\nIn the final, Muchova — who had beaten Coco Gauff in the quarterfinals — simply couldn't find a way past Rybakina once the world No. 2 found her rhythm. The second set was 6-1 in dominant fashion.\n\nHer prize? A Porsche 911 Carrera S Cabriolet — the second one she's driven away from Stuttgart.\n\nIs Rybakina the player to beat on clay this spring? 🎾\n\n---\n\n#### Image Caption Post (6:00 PM ET)\n\n12 titles in 12 cities. Then Elena Rybakina went back to Stuttgart — and won it again.\n\nTitle No. 13. First repeat of her career. A Porsche in the trophy room. 🏆🚗\n\nStuttgart belongs to Rybakina.\n\n---",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-rybakina-stuttgart-repeat-title.html",
+        "headline": "Rybakina Claims 13th WTA Title in Stuttgart — and Her First Repeat",
+        "word_count": 484
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rybakina Wins Stuttgart\n\n#### Image Concept 3A — Social (1080x1350)\n**Type:** Social (4:5 vertical)\n**Imagn Search Terms:** `Elena Rybakina`\n**Caption/Overlay Text:** \"STUTTGART CHAMPION — Elena Rybakina | WTA 500 | 13th Career Title\"\n**Notes:** Trophy lift or victory moment. Stuttgart Porsche branding venue if visible.\n\n#### Image Concept 3B — Article Hero (1200x630)\n**Type:** Article hero (1.91:1 landscape)\n**Imagn Search Terms:** `Elena Rybakina`\n**Caption/Overlay Text:** \"RYBAKINA'S FIRST REPEAT TITLE — Stuttgart 2026\"\n**Notes:** Wide landscape crop. Celebration or on-court moment.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rybakina Wins Stuttgart\n**Sources:**\n- WTA (wtatennis.com) — official \"Rybakina returns to winner's circle in Stuttgart\"\n- Porsche Newsroom — \"Elena Rybakina crowned Stuttgart's tennis queen once again\"\n**Verified Facts (HIGH confidence):**\n- Rybakina def. Muchova 7-5, 6-1 in the Stuttgart final (Sunday, April 19, 2026) [HIGH]\n- Match duration: 1 hour 18 minutes [HIGH]\n- This is Rybakina's 13th WTA title [HIGH]\n- First repeat title of Rybakina's career (had won 12 titles in 12 different tournaments previously) [HIGH — per WTA official site]\n- Rybakina won Stuttgart previously in 2024 [HIGH]\n- Main prize: Porsche 911 Carrera S Cabriolet [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Alcaraz Spotted in Arm Cast — French Open in Serious Doubt",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Alcaraz photographed in an arm cast after his Barcelona wrist injury.\n\nFeliciano Lopez fears a 2-month layoff. French Open defense is now in serious doubt.\n\nHis quote: \"I'd rather return later in top condition.\"\n\n#Alcaraz #FrenchOpen #TennisFanrecap fanrumor.com",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Alcaraz",
+            "#FrenchOpen",
+            "#TennisFanrecap"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Alcaraz is out of Barcelona. Out of Madrid. Possibly out of Rome.\n\nA photo of him in an arm cast has the tennis world worried about Roland Garros.\n\nThe defending champion may not be there to defend. 😟\n\n#Alcaraz #RolandGarros #TennisFanrecap fanrumor.com",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Alcaraz",
+            "#RolandGarros",
+            "#TennisFanrecap"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "Carlos Alcaraz Is Spotted in an Arm Cast. The Tennis World Is Worried.\n\nAfter withdrawing from Barcelona before his Round of 16 match, then pulling out of the Madrid Open — his home Masters — Carlos Alcaraz has now been photographed wearing an arm cast following his wrist injury. And the concerns for his French Open participation are growing by the day.\n\nFeliciano Lopez, a former top-10 player who experienced a similar wrist injury, didn't sugarcoat his assessment. He said it's \"impossible\" for Alcaraz to play the Italian Open and fears he could be out for approximately two months. A two-month timeline from the Barcelona injury would put the French Open — beginning in late May — in serious jeopardy.\n\nAlcaraz himself was cautious at the Laureus Sports Awards. \"I would rather come back later and in top condition than return too soon and not be ready,\" he said. He'll undergo further medical tests, with no firm return timeline given.\n\nThe stakes couldn't be higher. Alcaraz is the defending Roland Garros champion, was 14-3 on the season before the injury, and ranked No. 2 in the world. Missing Roland Garros would be an extraordinary turn for a player who was expected to be Sinner's main rival on clay.\n\nHow do you see this playing out for Alcaraz and the French Open? 💙\n\n---\n\n#### Image Caption Post (12:30 PM ET)\n\nArm cast. Madrid withdrawal. French Open in doubt.\n\nCarlos Alcaraz said: \"I would rather come back later and in top condition.\"\n\nThe defending Roland Garros champion may not be there to defend. Tennis is holding its breath.\n\n---",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-04-alcaraz-injury-french-open-doubt.html",
+        "headline": "Alcaraz Photographed in Arm Cast — French Open Defense Now in Serious Doubt",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alcaraz Injury — French Open Doubt\n\n#### Image Concept 4A — Social (1080x1350)\n**Type:** Social (4:5 vertical)\n**Imagn Search Terms:** `Carlos Alcaraz`\n**Caption/Overlay Text:** \"ALCARAZ INJURY UPDATE — French Open in Doubt\"\n**Notes:** Neutral/pensive Alcaraz portrait or medical timeout image. Not celebratory.\n\n#### Image Concept 4B — Article Hero (1200x630)\n**Type:** Article hero (1.91:1 landscape)\n**Imagn Search Terms:** `Carlos Alcaraz`\n**Caption/Overlay Text:** \"ALCARAZ WRIST INJURY — Roland Garros Defense at Risk\"\n**Notes:** Wide crop. Neutral/reflective pose preferred.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alcaraz Injury / French Open Doubt\n**Sources:**\n- ATP Tour — \"Carlos Alcaraz gives injury update\" (Laureus Awards)\n- Olympics.com — \"Tennis: Carlos Alcaraz casts doubt over French Open 2026\"\n- Tennis Temple — \"Lopez fears two-month layoff for Alcaraz's wrist\"\n- NBC Sports — \"Injured Carlos Alcaraz waits on wrist tests\"\n- Yahoo Sports — \"Carlos Alcaraz could miss 2026 French Open\"\n**Verified Facts (HIGH confidence):**\n- Alcaraz photographed in an arm cast [HIGH]\n- Alcaraz withdrew from both Barcelona (before R16) and Madrid [HIGH]\n- Alcaraz quote: \"I would rather come back later and in top condition than return too soon and not be ready\" [HIGH — per ATP Tour/Olympics.com]\n- Feliciano Lopez stated it's \"impossible\" for Alcaraz to play Italian Open, fears ~2-month layoff [HIGH — multiple sources]\n- French Open begins approximately late May 2026; Roland Garros defense at stake [HIGH]\n- Alcaraz is the defending Roland Garros champion [HIGH]\n**Verified Facts (MEDIUM confidence):**\n- Alcaraz quote: \"From today's tests, it's a slightly more serious injury than we all expected\" [MEDIUM — cited across multiple articles but unclear original context]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Madrid Open 2026 Opens — Sinner Leads a Field Missing Alcaraz, Djokovic, and More",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Madrid Open is underway at the Caja Mágica. 🎾\n\nNo Alcaraz. No Djokovic. No Fritz. No Draper.\n\nJannik Sinner (No. 1 seed) is hunting a record 5th straight Masters 1000 title. Zverev (No. 2) is ready to pounce.\n\n#Madrid2026 #MadridOpen #TennisFanrecap fanrumor.com",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Madrid2026",
+            "#MadridOpen",
+            "#TennisFanrecap"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "Madrid Open 2026 Is Here — and the Draw Has Never Been More Open\n\nThe Mutua Madrid Open opens today at the Caja Mágica, and the field looks very different from what we expected just two weeks ago.\n\nCarlos Alcaraz — Spain's own — has withdrawn due to his wrist injury, meaning the home crowd won't have their hero to cheer. Novak Djokovic is out. Taylor Fritz is out. Jack Draper is out. Frances Tiafoe is out. A stunning wave of withdrawals has left the draw wide open.\n\nInto that vacuum steps Jannik Sinner, the No. 1 seed and the man who has won four consecutive Masters 1000 titles. A win in Madrid would give him five in a row — an extraordinary feat. He opens against a qualifier and has Tommy Paul as a potential quarterfinal test.\n\nAlexander Zverev is the No. 2 seed, hungry after his semifinal loss in Munich. On the WTA side, Aryna Sabalenka starts as the No. 1 seed and defending champion. She could face Iga Swiatek in a blockbuster semifinal if the seeds hold — Swiatek has a new coach and something to prove.\n\nIt's a wide-open fortnight. Who do you think wins Madrid in 2026? 🎾\n\n---\n\n#### Image Caption Post (9:00 PM ET)\n\nMadrid is open for business. 🎾\n\nNo Alcaraz. No Djokovic. No Fritz. Sinner (No. 1 seed) is hunting a 5th straight Masters 1000 title. Zverev (No. 2) wants it badly.\n\nOn the WTA side: Sabalenka, Rybakina, Gauff, and Swiatek. May the best player win.",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-05-madrid-open-2026-preview.html",
+        "headline": "Madrid Open 2026 Opens: Sinner Targets History in a Draw Reshaped by Withdrawals",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Madrid Open Opens\n\n#### Image Concept 5A — Social (1080x1350)\n**Type:** Social (4:5 vertical)\n**Imagn Search Terms:** `Jannik Sinner`\n**Caption/Overlay Text:** \"MADRID OPEN 2026 — Sinner Hunts 5th Straight Masters Title\"\n**Notes:** Sinner on clay. Strong action or serve motion shot.\n\n#### Image Concept 5B — Article Hero (1200x630)\n**Type:** Article hero (1.91:1 landscape)\n**Imagn Search Terms:** `Jannik Sinner`\n**Caption/Overlay Text:** \"MADRID OPEN 2026 — No Alcaraz. No Djokovic. Sinner's Moment?\"\n**Notes:** Wide landscape crop. Action or portrait."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Madrid Open Opens\n**Sources:**\n- ATP Tour — Madrid draw preview (atptour.com/en/news/madrid-2026-draw-preview)\n- WTA — Madrid draw (tennistonic.com, tennis365.com)\n- Tennisuptodate.com — Entry list/draw analysis\n**Verified Facts (HIGH confidence):**\n- Madrid Open runs April 22–May 3, 2026 at Caja Mágica, Madrid [HIGH]\n- ATP seeds: Sinner (1), Zverev (2) [HIGH]\n- WTA seeds: Sabalenka (1), Rybakina (2), Gauff (3), Swiatek (4) [HIGH]\n- Notable withdrawals: Alcaraz, Djokovic, Fritz, Draper, Tiafoe, Raducanu [HIGH]\n- Defending ATP champion: Casper Ruud [HIGH — 2025 winner]\n- Defending WTA champion: Aryna Sabalenka [HIGH]\n- Sinner seeks 5th consecutive Masters 1000 title [HIGH]\n**Verified Facts (MEDIUM confidence):**\n- Potential Sabalenka vs. Swiatek semifinal if seeds hold [MEDIUM — projected by draw analysts]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
