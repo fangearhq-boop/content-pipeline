@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-22
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Antonelli 72 pts leads championship (youngest ever, 19y 216d); 9 pts ahead of Russell (63); Mercedes won all 3 races (Russell Australia, Antonelli China + Japan back-to-back); Wolff managing intra-team battle; staff favor Antonelli; Russell told to "erode" confidence; Mercedes weakness: race starts — 4 front-row lockouts, neither leads Lap 1 | 1 | NEW STORY |
+| 2 | Ferrari major SF-26 upgrade package for Miami — new floor (Sakhir-intended), Macarena rear wing (revised); Monza private filming day test: Hamilton + Leclerc; Ferrari 45 pts behind Mercedes constructors (90 vs 135); Leclerc 23 pts behind Antonelli; Vasseur calls Miami the "reset" moment | 1 | FOLLOW-UP (April 18 Story 2 — Ferrari Macarena wing) |
+| 3 | FIA rule changes agreed April 21 (all stakeholders) for Miami: super clipping 250→350kW; recharge 8→7MJ; MGU-K 250kW outside key zones; "low power start detection system" trialed Miami — addresses Verstappen concerns; all changes from Miami onward | 1 | FOLLOW-UP (April 18 Story 4 — FIA energy vote) |
+| 4 | McLaren first major MCL40 upgrades arriving Miami + Montreal; April break used for simulator/engineering; Piastri DNS Melbourne, both DNF China, P2 Japan; 56 pts 3rd constructors; Red Bull 6th (16 pts, 119 behind Mercedes); Waterhouse promoted chief performance+design engineer; Racing Bulls technical hire | 2 | NEW STORY |
+| 5 | Miami Grand Prix preview — Round 5; Sprint weekend; SQ Fri May 1 4:30 PM EDT, Sprint Sat midday, GP Sun May 3 4 PM EDT; first race after 5-week break (Bahrain+Saudi cancelled war in Iran); new rules + Ferrari upgrade + McLaren upgrade all debut; fan festival Lummus Park Miami Beach | 2 | NEW STORY |
+
+### STORY 1: Antonelli Championship Lead + Mercedes Intra-Team Battle
+- **Tier:** 1
+- **Category:** Championship Standings / Team Dynamics
+- **Key facts:** Antonelli 72 pts, youngest ever F1 title leader (19y 216d). Russell 63. Leclerc 49. Hamilton 41. Norris 25. Piastri 21. Mercedes constructors 135. Ferrari 90. McLaren 56. Red Bull 16. Russell won Australia (March 8). Antonelli maiden win China (March 15). Antonelli P1 Japan (March 29). Hamilton P3 China (first Ferrari podium). Piastri P2 Japan. Wolff: "We just need to continue to be authentic." Mercedes staff lean Antonelli. Russell told to "erode" confidence. Neither leads Lap 1 despite front-row lockouts. Russell confirms start fix work "behind the scenes."
+
+### STORY 2: Ferrari Miami Upgrade Package
+- **Tier:** 1
+- **Category:** Technical Upgrade / Championship Battle
+- **Key facts:** New floor (Sakhir-intended) debuts Miami. Macarena rear wing (rotates upper flap upside down) in Miami package. Private Monza filming day test: Hamilton + Leclerc. Ferrari 45 pts behind Mercedes constructors (90 vs 135). Leclerc 23 pts behind Antonelli (49 vs 72). Vasseur: Miami = championship "reset." Technical hires: Cédric Grosjean, Guillaume Dezetoux, Frank Sanchez.
+
+### STORY 3: FIA Rule Changes for Miami
+- **Tier:** 1
+- **Category:** Regulation Change / FIA
+- **Key facts:** April 21 online meeting — all stakeholders agreed. Super clipping: 250kW → 350kW (from Miami). Recharge: 8MJ → 7MJ. MGU-K: 350kW key zones, 250kW elsewhere. "Low power start detection system" trialed Miami. Changes go live Miami round.
+
+### STORY 4: McLaren Miami Upgrades + Red Bull Technical Reshuffle
+- **Tier:** 2
+- **Category:** Team Development / Technical
+- **Key facts:** McLaren first major upgrades: Miami + Montreal (phased aero). April break: simulator + engineering sessions. Piastri DNS Melbourne, both DNF China (electrical), Piastri P2 Japan. McLaren 56 pts, 3rd constructors. Red Bull 6th (16 pts, 119 behind Mercedes). Waterhouse: chief performance and design engineer (promoted). Racing Bulls technical hire.
+
+### STORY 5: Miami Grand Prix Preview
+- **Tier:** 2
+- **Category:** Race Preview / Schedule
+- **Key facts:** Round 5, Miami International Autodrome. Sprint weekend: SQ Fri May 1 4:30 PM EDT; Sprint Sat midday; GP Sun May 3 4 PM EDT. 5-week break (Bahrain + Saudi cancelled, war in Iran). FIA new rules debut. Ferrari upgrade debut. McLaren first package. Fan festival Lummus Park Miami Beach.
+
+---
+
 ## 2026-04-18
 
 | # | Story | Tier | Tag |

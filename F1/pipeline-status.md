@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-18
+- **Date**: 2026-04-22
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-22
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5: Antonelli championship/Mercedes battle, Ferrari Miami upgrade, FIA rule changes, McLaren+Red Bull, Miami GP preview — pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-22.xlsx (8 posts) + f1fr-postplanner-tobi-2026-04-22.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-22/review-dashboard.html (23 items)
+- **Notes:** Antonelli 72 pts, youngest F1 championship leader (19y 216d), 9 pts ahead of Russell (63); Mercedes won all 3 races (Russell Australia, Antonelli China+Japan back-to-back); constructors Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16; Hamilton first Ferrari podium China P3; Russell told to "erode" confidence; Mercedes start weakness (4 front-row lockouts, neither leads Lap 1); Ferrari major SF-26 upgrade for Miami (new floor + Macarena wing) — Monza private test, Vasseur "reset" moment; FIA agreed rule changes April 21 (super clipping 250→350kW, recharge 8→7MJ, MGU-K 250kW outside key zones, start detection system trialed Miami); McLaren first aero upgrades arriving Miami+Montreal; Red Bull 6th (16 pts), Ben Waterhouse promoted chief performance+design engineer; Miami Round 5, Sprint weekend, May 1-3, GP Sunday May 3 4 PM EDT.
+- **Fact concerns:** Antonelli 72 pts HIGH (Formula1.com official). Russell 63 HIGH. All standings HIGH (Formula1.com official). Youngest ever 19y 216d HIGH (NBC News, prior pipeline). Russell Australia win HIGH (multiple). Antonelli China maiden win HIGH (Formula1.com race report). Antonelli Japan back-to-back HIGH (Formula1.com). Hamilton P3 China HIGH (Formula1.com race report). Piastri P2 Japan HIGH (Formula1.com). Mercedes 4 front-row lockouts MEDIUM (Sky Sports, single article; plausible given 3 races). Mercedes start weakness HIGH (Sky Sports Russell interview). Wolff quote HIGH (Formula1.com). Staff lean Antonelli HIGH (F1 Oversteer, Motorsport Week). Russell "erode" HIGH (Motorsport.com). Ferrari floor Sakhir-intended HIGH (Scuderia Fans, Sport Bible). Macarena wing HIGH (multiple). Monza private test HIGH (F1 Oversteer, Scuderia Fans). Ferrari 45 pts behind Mercedes HIGH (calculated from official standings). FIA rule changes HIGH (FIA.com official statement, Formula1.com). Super clipping 250→350kW HIGH (multiple). Recharge 8→7MJ HIGH (FIA.com, The Race, Motorsport.com). MGU-K 250kW outside zones HIGH. Start detection system HIGH (FIA.com, PlanetF1). McLaren upgrades Miami+Montreal HIGH (Stella/Formula1.com). Piastri DNS Melbourne HIGH. Both DNF China HIGH. Piastri P2 Japan HIGH. Red Bull 6th 16 pts HIGH (official). Waterhouse promotion HIGH (Sky Sports Red Bull announcement). Racing Bulls hire HIGH (Sky Sports). Miami Sprint weekend schedule HIGH (Formula1.com). 5-week break (Bahrain+Saudi cancelled) HIGH (ESPN, multiple).
+- **WordPress publish:** Attempted — blocked by egress proxy (consistent with all previous runs)
 
 ### 2026-04-18
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
