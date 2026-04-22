@@ -6,6 +6,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-04-22 | T1 | McIlroy wins 2026 Masters back-to-back — -12 (276), 1 shot over Scheffler; first to defend since Tiger 2001-02; joins Nicklaus/Faldo/Tiger; nearly blew 6-shot lead; Cameron Young briefly led; final round 71; 6 majors total | X, FB, Article | FOLLOW-UP — final results |
+| 2026-04-22 | T1 | Fitzpatrick wins RBC Heritage playoff over Scheffler — 4-iron 204 yards to 13 feet, birdie putt first sudden-death hole; 2nd RBC Heritage title (also 2023); 2nd win in last 3 starts (also Valspar); runner-up The Players; $3.6M from $20M purse; World No. 3 | X, FB, Article | NEW STORY |
+| 2026-04-22 | T1 | Rahm wins LIV Golf Mexico City — 7-under 64 bogey-free final round; 6-shot win over Puig; all-Spanish podium (Rahm/Puig/Ballester); Rahm 2nd LIV win 2026; Legion XIII 3rd consecutive team title | X, FB, Article | FOLLOW-UP |
+| 2026-04-22 | T2 | Zurich Classic preview — April 23-26, TPC Louisiana, $9.5M; Griffin/Novak defend (first back-to-back ever attempt); Fitzpatrick brothers notable pair; Koepka/Lowry pair | X, FB, Article | NEW STORY |
+| 2026-04-22 | T2 | Chevron Championship preview — April 23-26, Memorial Park Houston, $8M; LPGA first major 2026; 132 players, 48 of top 50; Korda 5-to-1 favorite | X, FB, Article | FOLLOW-UP |
+|------|------|-------|-----------|-------|
 | 2026-04-18 | T1 | RBC Heritage R2 — Fitzpatrick 63 leads at -14 (1 ahead of Hovland -13); Bhatia also 63 with 11 birdies tying tournament record; English -10 T3; Cantlay/Straka/Åberg -9 T4; Fitzpatrick lucky at par-3 14th; Scheffler still in (no cut — Signature Event) | X, FB, Article | FOLLOW-UP — R2 complete |
 | 2026-04-18 | T1 | McIlroy place in golf history — 6 majors, ties Faldo as most by any European; back-to-back since Tiger 2001-02; 7 would tie Palmer/Snead/Jones; Open at St Andrews + Ryder Cup Ireland ahead; LIV's poor Masters (Hatton T3 only top-30, Rahm T-38) as contrast | X, FB, Article | FOLLOW-UP — one week post-Masters all-time ranking angle |
 | 2026-04-18 | T2 | LIV Golf Mexico City R2 — Rahm leads at -10 (67 R2 despite rocky front nine); Wolff/McKibbin/Varner III at -9 T2; Masaveu -8 solo 5th; Perez shot 73 to fall from lead to T6 at -6; Hatton also T6 | X, FB, Article | FOLLOW-UP — R2 complete |

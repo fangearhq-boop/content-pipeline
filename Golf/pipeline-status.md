@@ -3,7 +3,28 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-18)
+## Current Pipeline (2026-04-22)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-22 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-22 |
+| Fact-check | Complete (verify-facts.py — 30 claims, 37 HIGH confidence; image warnings expected) | 2026-04-22 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-22 |
+| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-04-22 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-22 |
+| Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent with all previous runs) | 2026-04-22 |
+| Git | Committed and pushed to main | 2026-04-22 |
+
+## Notes (2026-04-22)
+- 5 stories: McIlroy Masters back-to-back (-12/276, 1 shot over Scheffler, first since Tiger 2001-02, joins Nicklaus/Faldo/Tiger, nearly blew 6-shot lead, Young + Rose briefly led, final round 71, 6 majors total — T1); Fitzpatrick RBC Heritage playoff win over Scheffler (4-iron 204 yards to 13 feet, birdie putt first sudden-death hole, 2nd RBC Heritage title, 2nd win in last 3 PGA Tour starts, runner-up Players, $3.6M, World No. 3 — T1); Rahm LIV Mexico City win (7-under 64 bogey-free, 6-shot margin over Puig, all-Spanish podium, Rahm 2nd LIV win 2026, Legion XIII 3rd consecutive team title — T1); Zurich Classic preview (April 23-26 TPC Louisiana, $9.5M, Griffin/Novak defend back-to-back attempt, Fitzpatrick brothers, Koepka/Lowry — T2); Chevron Championship preview (April 23-26 Memorial Park Houston, $8M, LPGA first major 2026, Korda 5-to-1 — T2)
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X posts: 8 total, all under 280 characters
+- Fact concerns: McIlroy -12 (276) HIGH (ESPN, Sky Sports, Yahoo Sports, NBC News). First since Tiger 2001-02 HIGH (ESPN headline). Joins Nicklaus/Faldo/Tiger HIGH (ESPN). Had 6-shot lead HIGH (NBC News). Young briefly led HIGH (NBC News, Sky Sports). Rose led briefly HIGH (NBC News). Final round 71 HIGH (Sky Sports, ESPN). Scheffler -11 HIGH (multiple). Young/Henley/Rose/Hatton -10 HIGH (ESPN, Golf Channel). 6 majors total HIGH (ESPN). Fitzpatrick playoff over Scheffler HIGH (PGA Tour, Yahoo Sports, Golf Monthly). 4-iron 204 yards to 13 feet HIGH (PGA Tour video, CBS Sports). 13-foot birdie putt HIGH (Golf Monthly). 2nd RBC Heritage HIGH (247Sports). 2nd win in last 3 starts HIGH (Yahoo Sports). Valspar win HIGH. Players runner-up HIGH (CBS Sports). $3.6M HIGH (Newsweek, NBC Sports). World No. 3 HIGH (CBS Sports). Scheffler erased 3-shot deficit HIGH. Rahm LIV Mexico City win HIGH (LIV Golf official). Final round 7-under 64 bogey-free HIGH. 6-shot margin HIGH. Spanish podium sweep HIGH (LIV official). Rahm 2nd LIV win 2026 HIGH. Legion XIII 3rd consecutive HIGH (LIV official). Zurich Classic April 23-26 HIGH. TPC Louisiana HIGH. $9.5M HIGH. 74 teams HIGH. Griffin/Novak defending HIGH. Back-to-back never done HIGH. Koepka/Lowry pairing HIGH. Fitzpatrick brothers HIGH. Chevron April 23-26 HIGH. Memorial Park Houston HIGH. $8M purse HIGH. 132 players HIGH. 48 of top 50 HIGH. Korda 5-to-1 HIGH (thegolfnewsnet.com).
+- WordPress publish: Failed — egress proxy blocks access (Host not in allowlist, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+## Previous Pipeline (2026-04-18)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
