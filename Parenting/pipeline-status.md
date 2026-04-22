@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 18, 2026
+## Latest Run: April 22, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC.gov (Bellabu Bear bamboo sherpa robes burn hazard), Colorado Springs Gazette + KOAA (D11 Orton Academy / Trailblazer Elementary), AAP/EdSurge/CHOC (screen time policy overhaul 2026), El Paso County Parks / visitcos.com (Bear Creek homeschool April 23), visitcos.com / k99.com (Cañon City Blossom Festival April 29–May 3) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 18 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts; all verified under 280; 4 hashtags each; 0 exclamation marks in articles |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; no hashtags; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 74 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (27 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-22.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-04-22.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (host_not_allowed) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-22)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 (D11 Orton Academy moving into Trailblazer — parent concerns) | 1-2 |
+| Local Events | 2 (Bear Creek homeschool April 23; Cañon City Blossom Festival April 29–May 3) | 1-2 |
+| National Parenting | 2 (Bellabu Bear robes recall; AAP screen time overhaul) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 18, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -2,6 +2,48 @@
 
 ---
 
+## April 22, 2026
+
+### Story 1: D11 Orton Academy Moving Into Trailblazer Elementary — Parent Concerns
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 board approved moving Orton Academy K-8 dyslexia charter, 120 students, into Trailblazer Elementary — 220 students, 600-capacity building — for 2026-27; Trailblazer parents say they weren't consulted; operations remain separate; Gazette April 8, KOAA)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Orton Academy 120 students K-8; Trailblazer 220 students PreK-5; building capacity 600; 337 open seats listed; starting fall 2026; d11.org
+- **Follow-Up Opportunities:** Community meetings; logistics of shared spaces; Orton Academy enrollment update
+
+### Story 2: CPSC Recalls Bellabu Bear Bamboo Sherpa Children's Robes — Burn Hazard
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Bamboo sherpa kids' robes fail flammability standards; sold Saks Fifth Avenue + boutiques + bellabubear.com Jan 2024–Jul 2025; ~$60; S/M + M/L; prints: PAW Patrol, Minecraft, Garfield, Minions, Batman, etc.; stop use; 888-703-7752 or help@bellabubear.com for full refund; cpsc.gov)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Label: "Bellabu Bear" + "BB-NW12109"; sold Jan 2024–Jul 2025; $60; call 888-703-7752 M-F 9am-4pm PT; email help@bellabubear.com; cpsc.gov
+- **Follow-Up Opportunities:** Broader children's sleepwear flammability safety roundup
+
+### Story 3: AAP 2026 Screen Time Policy Overhaul — No More Strict Hour Limit for Ages 6+
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP "Digital Ecosystems" policy 2026 — major shift from 2016 2-hour rule; ages 6+ focus on quality/context not time; under 18 months no screens; 18-24 months educational + caregiver; ages 2-5 max 1 hour quality content; EdSurge Feb 2026, CHOC, CHLA)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP policy published early 2026; "Digital Ecosystems, Children, and Adolescents" in Pediatrics; major shift from 2016 guidelines; device-free bedrooms + mealtimes still recommended; aap.org
+- **Follow-Up Opportunities:** Family media plan tools at aap.org; local pediatrician panel on screen time
+
+### Story 4: Bear Creek Nature Center Homeschool Day — April 23 in Colorado Springs
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Tomorrow April 23, 1–3:30 pm; $4/person prepaid; kids 8+ drop-off, younger with caregiver; El Paso County Parks; 719-520-6387; different from Fountain Creek April 24 covered April 18)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** April 23, 1–3:30 pm; $4/person; prepaid required; 719-520-6387; Bear Creek Nature Center, Colorado Springs
+- **Follow-Up Opportunities:** El Paso County nature center summer programs; homeschool resource guide
+
+### Story 5: Cañon City Blossom Festival — Family Day Trip from Colorado Springs
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (April 29–May 3; ~45 miles south of COS; rodeo, live music, 5K, family activities; Cañon City's largest festival; easy day trip from Colorado Springs)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** April 29–May 3, 2026; Cañon City CO; ~45 miles from COS; Royal Gorge Blossom Festival
+- **Follow-Up Opportunities:** Post-festival recap; other spring day trips from COS
+
 ## April 18, 2026
 
 ### Story 1: D11 Chronic Absenteeism Surge — Largest Jump Among Large Colorado Districts
