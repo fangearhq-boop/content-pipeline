@@ -3,18 +3,28 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-22)
+## Current Pipeline (2026-04-23)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-22 |
-| Writing | Complete (all 8 files + 5 articles) | 2026-04-22 |
-| Fact-check | Complete (verify-facts.py — 30 claims, 37 HIGH confidence; image warnings expected) | 2026-04-22 |
-| Scripts | Complete (all 6 scripts run) | 2026-04-22 |
-| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-04-22 |
-| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-22 |
-| Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent with all previous runs) | 2026-04-22 |
-| Git | Committed and pushed to main | 2026-04-22 |
+| Research | Complete | 2026-04-23 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-23 |
+| Fact-check | Complete (verify-facts.py — 31 claims, 56 HIGH confidence; image warnings expected) | 2026-04-23 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-23 |
+| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-04-23 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-23 |
+| Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent with all previous runs) | 2026-04-23 |
+| Git | Committed and pushed to main | 2026-04-23 |
+
+## Notes (2026-04-23)
+- 5 stories: Zurich Classic opens (Fitzpatrick brothers co-favorites +1175; Matt won RBC Heritage April 19, World No. 3; Koepka/Lowry team from Hobe Sound FL partnership; Novak/Griffin defending back-to-back attempt — T1); Chevron Championship opens (LPGA first major 2026, Memorial Park Houston, $8M, Korda +500, 2:39 PM ET R1 tee time with Saigo + Vu; 132 players, 48 of top 50 — T1); Scheffler runner-up streak (T2 Masters, T2 RBC Heritage playoff loss — fanned 6-iron 37 yards short; Fitzpatrick 4-iron to 13 feet, birdie; Scheffler quote: "Any time Fitzy needed something to happen"; remains No. 1 — T1); Koepka LIV return (4 seasons LIV; 4 top-20s in 7 Tour starts; T12 Masters; first alternate RBC Heritage; Koepka/Lowry partnership formed Grove XXIII Hobe Sound; quote on combo — T2); LIV Golf Virginia preview (Rahm/Legion XIII Mexico City win: 7-under 64, 6-shot margin, all-Spanish podium, 3rd consecutive team title; LIV Virginia May 7-10 Trump National DC — T2)
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X posts: 8 total, all under 280 characters
+- Fact concerns: Zurich Classic format/purse HIGH (CBS Sports, PGA Tour official). Fitzpatrick brothers +1175 HIGH (multiple betting sources). Matt World No. 3 HIGH (prior pipeline, ESPN). Koepka 4 top-20s in 7 starts HIGH (CBS Sports preview). Koepka T12 Masters HIGH (Masters official). Koepka first alternate RBC Heritage HIGH (CBS Sports, Golf Channel, PGA Tour First Look). Koepka/Lowry partnership origin HIGH (Golf Channel, PGA Tour, CBS Sports). Koepka quote HIGH (CBS Sports, Golf Channel). Novak/Griffin defending HIGH (prior pipeline). Chevron $8M/132 players/48 of top 50 HIGH (prior pipeline). Korda +500 HIGH (prior pipeline). Korda 2:39 PM tee time HIGH (golf.com). Scheffler T2 Masters HIGH (prior pipeline — McIlroy won by 1). Scheffler T2 RBC Heritage playoff HIGH (PGA Tour, ESPN, Golf Channel). Fitzpatrick 4-iron 204 yards to 13 feet HIGH (prior pipeline). Scheffler fanned 6-iron 37 yards short HIGH (The Mirror US, PGA Tour official recap). Scheffler quote HIGH (PGA Tour official video/interview). Scheffler World No. 1 remains HIGH. Rahm Mexico City win (7-under 64, 6-shot, Spanish podium, 2nd LIV 2026 win, Legion XIII 3rd consecutive team title) HIGH (prior pipeline). LIV Virginia May 7-10 HIGH (LIV Golf official). Trump National DC Sterling VA HIGH (LIV Golf official).
+- WordPress publish: Failed — egress proxy blocks access (Host not in allowlist, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+## Previous Pipeline (2026-04-22)
 
 ## Notes (2026-04-22)
 - 5 stories: McIlroy Masters back-to-back (-12/276, 1 shot over Scheffler, first since Tiger 2001-02, joins Nicklaus/Faldo/Tiger, nearly blew 6-shot lead, Young + Rose briefly led, final round 71, 6 majors total — T1); Fitzpatrick RBC Heritage playoff win over Scheffler (4-iron 204 yards to 13 feet, birdie putt first sudden-death hole, 2nd RBC Heritage title, 2nd win in last 3 PGA Tour starts, runner-up Players, $3.6M, World No. 3 — T1); Rahm LIV Mexico City win (7-under 64 bogey-free, 6-shot margin over Puig, all-Spanish podium, Rahm 2nd LIV win 2026, Legion XIII 3rd consecutive team title — T1); Zurich Classic preview (April 23-26 TPC Louisiana, $9.5M, Griffin/Novak defend back-to-back attempt, Fitzpatrick brothers, Koepka/Lowry — T2); Chevron Championship preview (April 23-26 Memorial Park Houston, $8M, LPGA first major 2026, Korda 5-to-1 — T2)
