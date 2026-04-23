@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-23",
+  "compiled_at": "2026-04-23T10:27:52.112026+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Ohtani streak ends)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Mets snap streak)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Judge 9 HRs)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Dodgers franchise HR record)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5 (Murakami Japanese-born record)",
+      "type": "X + FB"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 6 (Reds NL Central)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 7 (NL Central power rankings)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Ohtani's 53-Game On-Base Streak Ends — He Pitched 6 Scoreless Innings in the Same Game",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Shohei Ohtani's 53-game on-base streak is over. ⚾\n\nHe went 0-for-4 against the Giants on Wednesday.\nHe also pitched 6 scoreless innings in the same game.\n\nThe streak dated to August 24, 2025.\nLongest ever by a Japanese-born MLB player.\n\n#Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 1-2",
+          "text": "53 games. Ohtani's on-base streak just ended. ⚾\n\n2nd longest in Dodgers history.\nLongest ever by a Japanese-born player.\n\nRoberts is mulling more rest on pitching days.\n6 scoreless IP pitched in the same loss.\n\n#Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-ohtani-53-game-on-base-streak-ends.html",
+        "headline": "Shohei Ohtani's 53-Game On-Base Streak Ends — He Also Threw 6 Scoreless Innings That Night",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani's 53-Game On-Base Streak Ends\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Shohei Ohtani Los Angeles Dodgers pitcher\"\n- **Alt Search:** \"Shohei Ohtani Dodgers batter\"\n- **Usage:** Story 1 social post (8:00 AM X + Facebook)\n- **Caption credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn search\n- **Search Term:** \"Shohei Ohtani Dodgers dugout\"\n- **Alt Search:** \"Los Angeles Dodgers pitcher\"\n- **Usage:** Article 1 hero image\n- **Caption credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Mets Snap 12-Game Losing Streak 3-2 Over Twins — But Lose Lindor to Calf Tightness",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Mets won. ⚾\n\n3-2 Twins. 12-game losing streak: over.\n\nMark Vientos: go-ahead RBI single in the 8th.\nLuke Weaver: got the final out.\nJuan Soto returned.\n\nMets are 8-16. Francisco Lindor: left with calf tightness.\nNothing is simple in Flushing. #Mets #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Mets haven't won since April 7. They just won. ⚾\n\n12-game losing streak — the longest in 24 years in Flushing.\n\nHistoric stat: no team has ever made the postseason after a\n12-game losing streak in April.\n\nThe Mets are 8-16. The climb starts now. #Mets #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-mets-snap-12-game-losing-streak-lindor-injury.html",
+        "headline": "Mets Snap 12-Game Losing Streak with 3-2 Win Over Twins — But Lose Lindor to Calf Injury",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mets Snap 12-Game Losing Streak\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Mark Vientos New York Mets\"\n- **Alt Search:** \"New York Mets celebration\"\n- **Usage:** Story 2 social post (10:30 AM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn search\n- **Search Term:** \"New York Mets Citi Field\"\n- **Alt Search:** \"Mets batter\"\n- **Usage:** Article 2 hero\n- **Caption credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Aaron Judge Leads MLB with 9 Home Runs — 5 in the First Inning, On Pace for 66",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Aaron Judge in the first inning this season: ⚾\n\n.450 average. 1.726 OPS. 5 home runs.\n\n5 of his MLB-leading 9 HRs have come before\nthe lineup turns over once.\n\nHe's on pace for 66 home runs.\nThe Yankees are 11-3 when they score first.\n\n#Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-aaron-judge-9-hrs-first-inning-dominance.html",
+        "headline": "Aaron Judge Leads MLB with 9 Home Runs — 5 in the First Inning, On Pace for 66",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge 9 HRs\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Aaron Judge New York Yankees\"\n- **Alt Search:** \"Aaron Judge home run\"\n- **Usage:** Story 3 social post (12:30 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Dodgers Set Franchise HR Record — 42 Home Runs Through 22 Games",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Dodgers hit a franchise record 42 home runs in their first 22 games. ⚾\n\nMax Muncy: 8. Dalton Rushing: 7.\n\nThey set the record in a loss Wednesday.\nThat's how deep the power lineup is.\n\nDodgers: 16-7. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-dodgers-franchise-hr-record-42-in-22-games.html",
+        "headline": "Dodgers Set Franchise Home Run Record with 42 in First 22 Games — Even in a Loss",
+        "word_count": 584
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dodgers Franchise HR Record\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Max Muncy Los Angeles Dodgers\"\n- **Alt Search:** \"Dodgers home run celebration\"\n- **Usage:** Story 4 social post (3:00 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Yoshinobu Murakami at 7 HRs Through 21 Games — Sets Record for Japanese-Born Players",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Yoshinobu Murakami has 7 home runs through 21 MLB games. ⚾\n\nThat's more than any Japanese-born player through their first 21.\nHe surpassed Shohei Ohtani (5 HRs in first 21 games).\n\nThe 2026 season has been a Japanese baseball showcase.\nNow add Murakami to the list. #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-murakami-japanese-born-hr-record.html",
+        "headline": "Yoshinobu Murakami Sets Japanese-Born HR Record with 7 in First 21 Games",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murakami Japanese-Born Record\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Chicago White Sox batter\"\n- **Alt Search:** \"White Sox home run\"\n- **Usage:** Story 5 social post (5:30 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Cincinnati Reds Lead NL Central at 16-8 — Chase Burns Anchors the Surprise",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Reds are 16-8. ⚾\n\nNL Central leaders. Best start since 2006.\nChase Burns is anchoring the rotation.\n\nCincinnati wasn't on anyone's radar entering the season.\nThey don't care. They're winning. #Reds #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Reds NL Central Leaders\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Cincinnati Reds pitcher\"\n- **Alt Search:** \"Reds Great American Ballpark\"\n- **Usage:** Story 6 social post (7:00 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** MLB Power Rankings Surprise: NL Central's 5 Teams All Above .500",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "All five NL Central teams have winning records. ⚾\n\nThe Padres went from 2-5 to 10-6.\nThe Mets were supposed to win the NL East.\nThe Red Sox were supposed to be back.\n\nThe standings don't look like the preseason picks.\nThat's why they play the games. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Central Power Rankings\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"MLB scoreboard standings\"\n- **Alt Search:** \"baseball dugout celebration\"\n- **Usage:** Story 7 social post (10:00 PM)\n- **Caption credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified",
+      "Story 6: No Facebook posts found",
+      "Story 6: No posting window specified",
+      "Story 7: No Facebook posts found",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

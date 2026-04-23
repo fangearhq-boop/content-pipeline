@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-23
+
+### Story 1: Ohtani 53-Game On-Base Streak Ends
+- **Angle:** FOLLOW UP (April 22 Ohtani 52-game OB streak). Streak ends at 53 games in 3-0 loss to Giants at Oracle Park. Crossed offseason (started Aug 24, 2025). Record for Japanese-born player (surpasses Ichiro's 43). Tied Shawn Green for 2nd in Dodgers history (Green 2000). Only Duke Snider's 58 (1954) is higher. Ohtani went 0-for-4 but also threw 6 scoreless innings same night. Roberts considering resting Ohtani on pitching days.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Ohtani next OB streak, Roberts workload decisions, Dodgers pitching rotation
+
+### Story 2: Mets Snap 12-Game Losing Streak
+- **Angle:** FOLLOW UP (April 22 Mets 12-game streak). Mets beat Twins 3-2 on April 22. Mark Vientos go-ahead RBI single in 8th, Luke Weaver closes it out. Juan Soto returned to lineup. Streak was 4th-longest in franchise history, longest since 2002. No team in World Series era made postseason after 12-game losing streak in April. BUT Francisco Lindor exited in 4th inning with left calf tightness. Mets now 8-16.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Lindor injury timeline, Mets recovery trajectory
+
+### Story 3: Aaron Judge 9 HRs, 5 in First Inning
+- **Angle:** FOLLOW UP (April 22 Judge 9 HRs). Judge leads MLB with 9 HRs through 22 games. 5 of 9 HRs came in the first inning. .450 BA in first-inning PAs, 1.726 OPS. 8 RBIs before lineup turns over. Yankees 11-3 when scoring first. On pace for 66 HRs. Barrel rate 28.3%, avg exit velo 91.3-91.7 mph.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Judge HR pace, first-inning splits, Yankees AL East position
+
+### Story 4: Dodgers Franchise HR Record — 42 in 22 Games
+- **Angle:** FOLLOW UP (April 22 Dodgers 42 HRs). Dodgers hit 42nd HR of 2026 season on April 22 in a 3-0 loss to Giants — franchise record through 22 games. Muncy leads with 8 HRs, Rushing 7. Record set on same night Ohtani's OB streak ended and Ohtani went 0-for-4. Dodgers 16-7, second-best record in baseball.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Dodgers HR pace, Ohtani return to form
+
+### Story 5: Murakami Sets Japanese-Born HR Record
+- **Angle:** NEW STORY. Yoshinobu Murakami (Chicago White Sox, DH) hit 7 HRs through first 21 MLB games — most by any Japanese-born player through that threshold, surpassing Ohtani's 5 HRs through first 21 games. Pure DH, no pitching workload.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Murakami adjustment period, White Sox rebuild asset
+
+### Story 6: Reds Lead NL Central at 16-8
+- **Angle:** FOLLOW UP (April 22 Reds 15-8 NL Central). Reds now 16-8, NL Central leaders. Best record among teams in the division. Burns continues as ace anchor.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Reds continued division lead, NL Central standings race
+
+### Story 7: NL Central Power Rankings
+- **Angle:** NEW STORY. NL Central standings analysis: Reds 16-8 at top, Cubs/Cardinals/Brewers in tight race, Pirates trailing. Division competitiveness overview for late April.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Division standings through May
+
+---
+
 ## 2026-04-22
 
 ### Story 1: Mets 12-Game Losing Streak — Historic Collapse
