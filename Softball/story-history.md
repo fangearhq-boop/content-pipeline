@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 23, 2026
+
+### Story 1: FSU Defeats Florida 3-1 — Isa Torres Homers Twice
+- **Angle:** FOLLOW UP (from April 22 FSU-Florida preview). No. 12 FSU 3, No. 5 Florida 1. Torres answered Florida's leadoff HR with a solo shot in 1st, added 2nd solo HR in 3rd inning. McKenzie RBI single made it 3-1. Danley (9-1) 4 scoreless IP in relief. FSU 40-7, 8 of last 9 vs Florida. National seed case strengthened.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** NFCA Week 13 poll April 28, FSU final regular season series, national seed finalization May 10
+
+### Story 2: Oklahoma State 5-0 Texas — Ruby Meylan 2-Hitter
+- **Angle:** NEW STORY. Ruby Meylan CG 2-hitter, 7 IP, 0 ER. Davis + Hoffman 2-run HRs. Texas held to 2 hits all game. Gutierrez loss (7-2). OSU improves to ~30-11. Texas falls to 35-8 (11-6 SEC). Meylan beat OU in Bedlam and now Texas in same week. Texas national seed picture complicates.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Texas final SEC series, OSU postseason positioning, RPI implications
+
+### Story 3: Kendall Wells at 32 HRs — OU Staff No-Hitter
+- **Angle:** FOLLOW UP (April 22 Wells/OU story). Wells at 32 HRs needs 5 to tie Espinoza all-time record (37, Arizona, 1995). OU threw staff no-hitter 9-0 vs UAPB on April 21. OU 42-6 (15-3 SEC), tied with Alabama at top.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Wells HR milestones 33-37; all-time record break alert
+
+### Story 4: Texas Tech Sweeps UTEP 16-0, 11-1 (Doubleheader)
+- **Angle:** FOLLOW UP (April 22 TTech road trip). Both run-rules, 5 innings each. TTech improves to ~44-4. No. 2 nationally. Canady road trip continues strong.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** TTech Big 12 title, NFCA Week 13 poll April 28
+
+### Story 5: Nebraska 12-Game Win Streak — Beats Omaha, No. 1 Softball America
+- **Angle:** FOLLOW UP (April 22 Nebraska story). Nebraska beat Omaha April 22 (4 HRs, record crowd). 12-game win streak. 37-6, 17-1 Big Ten. No. 1 Softball America. Historic top-4 national seed conversation.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Nebraska Big Ten title, national seed confirmation May 10
+
+### Story 6: SEC Race — Oklahoma and Alabama Tied at 15-3
+- **Angle:** NEW STORY. OU 42-6 and Alabama 42-4 both 15-3 in SEC. Texas slips to 11-6 after OSU loss. Final 3-4 series have enormous stakes. SEC Tournament seeding implications.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** SEC Tournament bracket, final conference series
+
+### Story 7: WCWS Selection Countdown — 17 Days to May 10
+- **Angle:** NEW STORY. 17 days to WCWS selection show (May 10). Regionals May 15. 32-team seeding debuts. FSU win + Texas loss reshaped bracket. Stanford and A&M bracketology host favorites.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** NCAA selection show May 10
+
+---
+
 ## April 22, 2026
 
 ### Story 1: FSU vs. Florida Tonight on ESPN2 — Top-15 Rivalry, National Seeds

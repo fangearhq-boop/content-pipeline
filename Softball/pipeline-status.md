@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-23
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 3 char violations fixed before compile), FB posts (14), image concepts, image manifest, articles (5), fact-check (103 claims, 0 char violations after fixes, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Detached HEAD resolved with git checkout main + pull + cherry-pick. 3 char violations (Story 1 tweet 2 281→280, Story 2 tweet 2 286→280, Story 7 tweet 280→280 exact) fixed before compile.
+
+## Previous Run
 - **Date**: 2026-04-22
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9, 2 char violations fixed before save), FB posts (14), image concepts, image manifest, articles (5), fact-check (111 claims, 0 char violations, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 X posts, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -135,6 +142,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-23
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 103 claims. 3 char violations fixed (Story 1 tweet 2 281→280, Story 2 tweet 2 286→280, Story 7 tweet 288→280). 0 violations after fixes. All stories present. IMAGE MISSING expected (not_started).
+- Dashboard: 28 items. Detached HEAD resolved (cherry-pick after checkout main + pull). Dashboard published.
+- PostPlanner: ils-postplanner-2026-04-23.xlsx (9 posts), ils-postplanner-tobi-2026-04-23.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: FSU 3-1 Florida (Torres 2 HRs, Danley 4 scoreless IP, FSU 8 of 9 vs Gators, 40-7 national seed) (P10); OSU 5-0 Texas (Meylan CG 2-hitter, Davis+Hoffman 2-run HRs, Texas 11-6 SEC) (P10); Wells 32 HRs needs 5 for Espinoza all-time record, OU staff no-hitter 9-0 UAPB (P9); TTech sweeps UTEP 16-0 11-1 both run-rules 44-4 No. 2 (P8); Nebraska beats Omaha 12-game streak 37-6 17-1 Big Ten No. 1 Softball America (P8); OU-Alabama tied 15-3 SEC Texas 11-6 (P6); WCWS 17 days to May 10 selection show 32-team seeding (P6)
+- Notes: 3 tweet char violations fixed before compile. Detached HEAD (publish-dashboard on old HEAD) resolved via git checkout main + pull + cherry-pick. FB posts compile to 0 (heading format — known, dashboard uses markdown fallback).
 
 ### 2026-04-22
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)

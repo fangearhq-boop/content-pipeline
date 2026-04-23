@@ -1,0 +1,342 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-23",
+  "compiled_at": "2026-04-23T10:15:55.347936+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (FSU beats Florida)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (OSU upsets Texas)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Wells HR chase / OU no-hitter)",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:30 PM",
+      "description": "Story 4 (Texas Tech sweeps UTEP)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5 (Nebraska 12-game streak)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 6 (SEC race tied)",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7 (WCWS selection countdown)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** No. 12 FSU Defeats No. 5 Florida 3-1 — Isa Torres Homers Twice, Seminoles Win Rivalry",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Isa Torres hit TWO home runs. 🥎\n\nNo. 12 FSU 3, No. 5 Florida 1.\n\nTorres tied it in the 1st, took the lead in the 3rd.\nAshtyn Danley locked it down with 4 scoreless innings.\n\nFSU now 8 of last 9 vs Florida. 40-7. National seed.\n\n#FSUSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Florida scored first. Then Isa Torres happened. 🥎\n\nFSU 3-1 Florida. Final.\n\nTorres answered a leadoff HR with a solo shot.\nThen homered again in the 3rd inning.\n\nNo. 12 FSU beats No. 5 Florida. National seed picture gets interesting.\n\n#FSUSoftball #GatorsSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#GatorsSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-fsu-defeats-florida-torres-two-home-runs.html",
+        "headline": "Isa Torres Homers Twice as No. 12 FSU Defeats No. 5 Florida 3-1 in Rivalry Showdown",
+        "word_count": 637
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU Defeats Florida 3-1 — Torres Homers Twice\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Isa Torres Florida State softball\"\n- **Alt Search:** \"FSU softball batter\"\n- **Usage:** Story 1 social post (9:00 AM X + Facebook)\n- **Caption credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn search\n- **Search Term:** \"Florida State softball pitcher\"\n- **Alt Search:** \"FSU softball JoAnne Graf Field\"\n- **Usage:** Article 1 hero image\n- **Caption credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** No. 17 Oklahoma State Shuts Out No. 4 Texas 5-0 — Ruby Meylan's 2-Hitter",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Ruby Meylan: 7 innings. 2 hits. 5-0 shutout. 🥎\n\nNo. 17 Oklahoma State just beat No. 4 Texas in Austin.\n\nDavis and Hoffman hit 2-run HRs. Texas couldn't touch her.\n\nMeylan beat OU in Bedlam. Now she beats Texas. Someone stop her.\n\n#OKStateSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OKStateSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Texas held to 2 hits. No. 4 upset. 🥎\n\nOklahoma State 5, Texas 0.\n\nRuby Meylan is the most dangerous pitcher you're sleeping on.\nBack-to-back wins over OU and Texas in the same week.\n\nTexas falls to 11-6 in the SEC. Seeding implications are real.\n\n#OKStateSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OKStateSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-oklahoma-state-shuts-out-texas-meylan.html",
+        "headline": "Ruby Meylan Masterclass: Oklahoma State Shuts Out No. 4 Texas 5-0 on Just 2 Hits",
+        "word_count": 616
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma State 5-0 Texas — Ruby Meylan\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Ruby Meylan Oklahoma State softball\"\n- **Alt Search:** \"Oklahoma State Cowgirls softball pitcher\"\n- **Usage:** Story 2 social post (10:30 AM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Type:** imagn search\n- **Search Term:** \"Texas Longhorns softball batter\"\n- **Alt Search:** \"Texas softball pitcher\"\n- **Usage:** Article 2 hero\n- **Caption credit:** (Imagn Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Kendall Wells at 32 HRs — OU Throws Staff No-Hitter, Record Chase Builds Steam",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kendall Wells: 32 home runs. 🥎\n\n5 away from tying Lauren Espinoza's all-time NCAA record (37, Arizona, 1995).\n\nOU also threw a staff no-hitter Monday: 9-0 vs UAPB.\n\nOklahoma is locked in. Tied with Alabama at 15-3 in the SEC.\n\nHistory is close. #Sooners #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-kendall-wells-32-hrs-ou-no-hitter.html",
+        "headline": "Five Away: Kendall Wells at 32 Home Runs as OU Throws Staff No-Hitter and Eyes the Record",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kendall Wells HR Chase\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Kendall Wells Oklahoma softball\"\n- **Alt Search:** \"Oklahoma Sooners softball batter\"\n- **Usage:** Story 3 social post (12:30 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Texas Tech Dominates UTEP 16-0, 11-1 in April 23 Doubleheader — Canady Road Trip Rolls",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Texas Tech ran UTEP off the field. Twice. 🥎\n\n16-0. 11-1. Both 5-inning run-rules.\n\nThe Red Raiders are 44-4. No. 2 nationally.\n\nThe Texas State loss looks like a blip. This team is rolling.\n\n#TexasTech #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTech",
+            "#CollegeSoftball"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-texas-tech-sweeps-utep-doubleheader.html",
+        "headline": "Texas Tech Runs It Up: Red Raiders Sweep UTEP 16-0, 11-1 in Doubleheader to Move to 44-4",
+        "word_count": 632
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech Sweeps UTEP\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"NiJaree Canady Texas Tech softball\"\n- **Alt Search:** \"Texas Tech Red Raiders softball pitcher\"\n- **Usage:** Story 4 social post (1:30 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Nebraska's 12-Game Win Streak Extends — Huskers Beat Omaha Before Record Crowd",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nebraska has won 12 straight. 🥎\n\n37-6. 17-1 Big Ten. No. 1 in Softball America.\n\nHit 4 home runs Wednesday against Omaha — in front of a record crowd.\n\nResume: wins over Texas, LSU, TTech, A&M, and South Carolina.\n\nThe Huskers are for real. #Huskers #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#CollegeSoftball"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-nebraska-12-game-win-streak-softball-america-no-1.html",
+        "headline": "Nebraska Extends Win Streak to 12, Remains No. 1 in Softball America at 37-6",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska Win Streak\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Nebraska Cornhuskers softball\"\n- **Alt Search:** \"Nebraska softball batter\"\n- **Usage:** Story 5 social post (3:00 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** SEC Race: Oklahoma and Alabama Tied at 15-3 — SEC Tournament Seeding in Focus",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Oklahoma and Alabama are TIED at 15-3 in the SEC. 🥎\n\nOU: 42-6. Alabama: 42-4.\n\nTexas has fallen to 11-6 in the conference after the OSU loss.\n\nThree weeks left. Every game counts.\n\nThe SEC race is as tight as it gets. #CollegeSoftball #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#SECSoftball"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SEC Race Tied\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Alabama Crimson Tide softball\"\n- **Alt Search:** \"Oklahoma Sooners softball\"\n- **Usage:** Story 6 social post (5:30 PM)\n- **Caption credit:** (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** WCWS Selection Countdown — 17 Days to May 10, 32-Team Seeding Reshapes the Field",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "17 days until the 2026 WCWS selection show. 🥎\n\n32-team seeding debuts this year.\nTop 16 seeds earn regional hosting rights.\nSelection show: May 10. Regionals: May 15.\n\nFSU's win over Florida just moved the needle.\n\nThe bracket is being written in real time. #CollegeSoftball #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#WCWS"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCWS Selection Countdown\n\n**Image Concept 1 — Social (1080x1350)**\n- **Type:** imagn search\n- **Search Term:** \"Women's College World Series softball Oklahoma City\"\n- **Alt Search:** \"NCAA softball tournament\"\n- **Usage:** Story 7 social post (8:00 PM)\n- **Caption credit:** (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified",
+      "Story 6: No Facebook posts found",
+      "Story 6: No posting window specified",
+      "Story 7: No Facebook posts found",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
