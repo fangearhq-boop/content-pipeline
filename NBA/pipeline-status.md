@@ -1,9 +1,21 @@
 ## Last Run
-- **Date**: 2026-04-22
-- **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted; git committed and pushed)
+- **Date**: 2026-04-23
+- **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-23
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-04-23.xlsx (8 posts) + hh-postplanner-tobi-2026-04-23.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-23/review-dashboard.html (28 items)
+- **Notes:** Thunder 120, Suns 107 (Game 2, April 22) — SGA 37 pts (13/25 FG, 9 ast), Clutch Player of the Year award pregame; Holmgren 19; Jalen Williams exits Q3 with left hamstring injury (missed 30 games earlier with right hamstring; Grade 2 = 3-6 weeks out per sports doctor); OKC leads 2-0; Brooks 30 (fouled out Q4), Booker 22, Green 21. Pistons 98, Magic 83 (Game 2, April 22) — Cade 27/11/6; Detroit dominated Q3 38-16; ended 11-game home playoff losing streak since 2008; series tied 1-1; Banchero 18, Suggs 19. Timberwolves 119, Nuggets 114 (Game 2, April 20) — Edwards 30/10 reb (10/25, 7/9 FT); trailed 19 pts; DiVincenzo 16 (clutch 3 with 1:05 left); Jokić 24/15/8 (8/20); Jokić+Murray 2/12 in Q4; Murray 30; series tied 1-1. Game 3 Thursday preview (Knicks-Hawks 7 ET, Cavs-Raptors 8 ET, Wolves-Nuggets 9:30 ET). Round 1 standings (Thunder/Lakers/Cavs all 2-0; 5 series tied 1-1).
+- **Fact concerns:** SGA 37 pts HIGH (Washington Post, NBC Sports, CBS Sports, NBA.com). Holmgren/Williams 19 each HIGH (multiple). Williams hamstring injury HIGH (Washington Post, Heavy.com, News9, Yahoo Sports, Fadeaway World). Williams 30 games missed HIGH (Heavy.com). Brooks 30 fouled out HIGH (multiple). Booker 22/Green 21 HIGH (multiple). Thunder 2-0 series HIGH. Cade 27/11/6 HIGH (CBS Detroit, Detroit News, CBS Sports). Q3 38-16 HIGH (multiple). Ended 11-game home losing streak HIGH (CBS Detroit, CBS Sports). Banchero 18/Suggs 19 HIGH. Edwards 30/10 HIGH (GMA News, Hawaii Tribune, yournews.com, Washington Post). Trailed 19 HIGH (multiple). DiVincenzo 16/clutch 3 HIGH (multiple). Jokić 24/15/8 HIGH. Jokić+Murray 2/12 Q4 HIGH (multiple). Murray 30 HIGH.
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, consistent with all previous runs)
 
 ### 2026-04-22
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

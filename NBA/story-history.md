@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-23
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Thunder 120, Suns 107 (Game 2, April 22) — SGA 37 pts (13/25 FG, 9 ast), Clutch Player of the Year award pregame; Holmgren 19; Jalen Williams 19 pts then exited Q3 with left hamstring injury (MRI pending; already missed 30 games this season); OKC leads 2-0; Brooks 30 (fouled out), Booker 22, Green 21 | 1 | NEW STORY |
+| 2 | Pistons 98, Magic 83 (Game 2, April 22) — Cade Cunningham 27/11 ast/6 reb; Detroit dominated 3Q 38-16; ended 11-game home playoff losing streak since 2008; series tied 1-1; Banchero 18, Suggs 19 (ORL) | 1 | FOLLOW-UP (April 22 Story 3) |
+| 3 | Timberwolves 119, Nuggets 114 (Game 2, April 20) — Anthony Edwards 30 pts (10/25 FG, 7/9 FT), 10 reb; trailed by 19 pts; DiVincenzo 16 pts (clutch 3 with 1:05 left); Jokić 24/15/8 (8/20 FG); Jokić+Murray 2/12 in Q4; Murray 30 pts; series tied 1-1 | 1 | NEW STORY |
+| 4 | Game 3 Thursday preview — Knicks at Hawks 7 PM ET, Cavs at Raptors 8 PM ET, Wolves at Nuggets 9:30 PM ET; all series context | 2 | NEW STORY |
+| 5 | Round 1 standings snapshot — Thunder/Lakers/Cavs all 2-0; Pistons-Magic, Wolves-Nuggets, Hawks-Knicks, Celtics-76ers, Spurs-Blazers all tied 1-1 | 2 | NEW STORY |
+
+### STORY 1: Thunder 120, Suns 107 — SGA 37 + Williams Hamstring
+- **Tier:** 1
+- **Category:** Playoff Game Results / Injury
+- **Key facts:** Thunder 120, Suns 107 (Game 2, April 22). OKC leads 2-0. SGA: 37 pts, 13/25 FG, 9 ast; received NBA Clutch Player of the Year award pregame. Holmgren: 19 pts. Jalen Williams: 19 pts before exiting Q3 with left hamstring injury. Williams missed 30 games earlier this season with right hamstring; doctor estimates Grade 2 = 3-6 weeks. Suns: Brooks 30 (fouled out Q4), Booker 22, Green 21. Game 3: Sunday at Phoenix.
+
+### STORY 2: Pistons 98, Magic 83 — Cade Bounce-Back, Home Streak Ends
+- **Tier:** 1
+- **Category:** Playoff Game Results / Historic Streak
+- **Key facts:** Pistons 98, Magic 83 (Game 2, April 22). Series tied 1-1. Cade Cunningham: 27 pts, 11 ast, 6 reb. Detroit dominated Q3 38-16. Ended 11-game home playoff losing streak (since 2008). Banchero: 18 pts; Suggs: 19 pts. Game 3 Friday in Orlando.
+
+### STORY 3: Timberwolves 119, Nuggets 114 — Edwards 30/10 Comeback
+- **Tier:** 1
+- **Category:** Playoff Game Results / Comeback
+- **Key facts:** Wolves 119, Nuggets 114 (Game 2, April 20). Series tied 1-1. Edwards: 30 pts (10/25 FG, 7/9 FT), 10 reb. Trailed 44-25 (19 pts) early Q2. DiVincenzo: 16 pts (clutch 3, 1:05 left). McDaniels: 14; Hyland: 13; Reid: 11. Jokić: 24 pts (8/20 FG), 15 reb, 8 ast. Jokić+Murray: 2/12 in Q4. Murray: 30 pts. Game 1: Nuggets 116-105.
+
+### STORY 4: Game 3 Thursday Night Preview
+- **Tier:** 2
+- **Category:** Preview / Schedule
+- **Key facts:** Knicks at Hawks, 7 PM ET ESPN (Atlanta, series 1-1). Cavs at Raptors, 8 PM ET Prime Video (Toronto, Cavs 2-0). Wolves at Nuggets, 9:30 PM ET ESPN (Denver, series 1-1).
+
+### STORY 5: Round 1 Standings Snapshot
+- **Tier:** 2
+- **Category:** Analysis / Series Update
+- **Key facts:** 2-0: Thunder vs Suns, Lakers vs Rockets, Cavs vs Raptors. 1-1: Pistons-Magic, Wolves-Nuggets, Hawks-Knicks, Celtics-76ers, Spurs-Blazers.
+
+---
+
 ## 2026-04-22
 
 | # | Story | Tier | Tag |
