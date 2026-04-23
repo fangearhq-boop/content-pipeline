@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-23
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Ferrari Monza filming day (April 22) — Leclerc morning (~19 laps, 1:27.138 best), Hamilton afternoon; Macarena rear wing + revised floor tested; Vasseur "package and a half" for Miami; Ferrari 90 pts constructors (Mercedes 135) | 1 | FOLLOW-UP (April 22 Story 2) |
+| 2 | Red Bull Silverstone test (April 22) — Verstappen sole driver; new floor, redesigned sidepods, adjusted front+rear wings; Mekies: "a bit like a second season launch" for Miami; RBR 6th, 16 pts | 1 | NEW STORY |
+| 3 | Gianpiero Lambiase (Verstappen's engineer since 2016, 4 titles) leaves Red Bull for McLaren in 2028 as Chief Racing Officer; Verstappen: "stupid not to take it"; McLaren talent raid: Marshall (2024), Courtenay (2026), Lambiase (2028) | 1 | NEW STORY |
+| 4 | Antonelli 72 vs Russell 63 — 9-point lead heading into Miami; youngest championship leader (19y 216d); Wolff managing "intra-team battle"; Coulthard "not confident"; Antonelli "unfazed" | 2 | FOLLOW-UP (April 22 Story 1) |
+| 5 | Miami GP 10-day preview — Sprint weekend May 1-3, race May 3 4 PM ET; all teams bring upgrades; FIA rule changes (super-clipping 250→350 kW, recharge 8→7 MJ) take effect | 2 | FOLLOW-UP (April 22 Story 5) |
+
+### STORY 1: Ferrari Monza Filming Day — Macarena Wing + New Floor Tested
+- **Tier:** 1
+- **Category:** Technical / Pre-Race Testing
+- **Key facts:** Ferrari filming day at Autodromo Nazionale Monza, April 22. Leclerc: morning, ~19 laps, 1:27.138 best. Hamilton: afternoon. Upgrades: Macarena rear wing + revised floor. Both earmarked for Miami debut. Vasseur: "a package and a half." Ferrari: 90 pts constructors; Mercedes: 135 (gap 45 pts). Miami GP May 1-3 Sprint weekend, race May 3.
+
+### STORY 2: Red Bull Silverstone Test — Verstappen + Revamped RB22
+- **Tier:** 1
+- **Category:** Technical / Development
+- **Key facts:** Red Bull filming day at Silverstone, April 22. Verstappen sole driver (2nd filming day of 2026). New floor, redesigned sidepods (acute kink profile), adjusted front+rear wings, new rear wing pivot point. Mekies: Miami is "a bit like a second season launch." Red Bull: 6th constructors, 16 pts.
+
+### STORY 3: Lambiase to McLaren — Red Bull Exodus Continues
+- **Tier:** 1
+- **Category:** Paddock News / Personnel
+- **Key facts:** Gianpiero Lambiase (Verstappen's race engineer since 2016) announced departure from Red Bull; joins McLaren in 2028 as Chief Racing Officer. Together for all 4 Verstappen titles. Career: Jordan (2005 data engineer), Force India, Red Bull (2015-). Verstappen: "You'd be stupid not to take it." McLaren talent raid: Rob Marshall (TD, 2024), Will Courtenay (SD, 2026), Lambiase (2028). Analysts: signals Verstappen may also leave before 2028.
+
+### STORY 4: Antonelli vs Russell — Championship Update
+- **Tier:** 2
+- **Category:** Championship / Analysis
+- **Key facts:** Antonelli 72 pts (wins: China, Japan), Russell 63 (win: Australia), gap 9 pts. Youngest championship leader (19y 216d). All 3 races won by Mercedes. Wolff managing intra-team battle (Formula1.com). Coulthard "not confident" (F1 Oversteer). Antonelli "unfazed" (Motorsport Week). Russell "not thinking about it" (GrandPrix247).
+
+### STORY 5: Miami GP Preview — 10 Days Out
+- **Tier:** 2
+- **Category:** Preview / Schedule
+- **Key facts:** Miami GP May 3, Miami International Autodrome, 5.41 km, 57 laps. Sprint weekend: FP1 May 1 4:30 PM ET, SQ May 1 8:30 PM ET, Sprint May 2 4 PM ET, Q May 2 8 PM ET, Race May 3 4 PM ET. FIA rule changes: super-clipping 250→350 kW, recharge 8→7 MJ, MGU-K 250 kW outside zones, start detection trial. Constructors: Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16.
+
+---
+
 ## 2026-04-22
 
 | # | Story | Tier | Tag |

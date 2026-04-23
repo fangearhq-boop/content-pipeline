@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-22
+- **Date**: 2026-04-23
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-23
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5: Ferrari Monza filming day, Red Bull Silverstone test, Lambiase to McLaren, Antonelli/Russell championship, Miami GP preview — pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-23.xlsx (8 posts) + f1fr-postplanner-tobi-2026-04-23.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-23/review-dashboard.html (28 items)
+- **Notes:** Ferrari Monza filming day April 22 — Leclerc morning (~19 laps, 1:27.138), Hamilton afternoon; Macarena rear wing + revised floor tested; Vasseur "package and a half"; Ferrari 45 pts behind Mercedes (90 vs 135). Red Bull Silverstone test April 22 — Verstappen sole driver; new floor, redesigned sidepods (acute kink), adjusted wings, new rear wing pivot; Mekies calls Miami "second season launch"; RBR 6th, 16 pts. Gianpiero Lambiase (Verstappen's engineer since 2016, all 4 titles) leaving Red Bull for McLaren in 2028 as Chief Racing Officer; Verstappen "stupid not to take it"; McLaren raid: Marshall TD (2024), Courtenay SD (2026), Lambiase (2028). Antonelli 72, Russell 63, 9-pt gap; youngest leader (19y 216d); Coulthard "not confident"; Antonelli "unfazed"; Wolff managing carefully. Miami GP Sprint weekend May 1-3, race May 3 4 PM ET; FIA changes (super-clipping 250→350 kW, recharge 8→7 MJ) take effect.
+- **Fact concerns:** Ferrari Monza filming day HIGH (GPFans, ScuderiaFans, PlanetF1, F1inGenerale, Monzanet.it). Leclerc 19 laps/1:27.138 HIGH (F1inGenerale, Monzanet.it). Macarena wing/floor tested HIGH (GPFans, ScuderiaFans, blog.f1livepulse.com). Vasseur "package and a half" HIGH (confirmed from April 22 pipeline). RBR Silverstone test HIGH (GPFans, ReadMotorsport, RacingNews365). New floor/sidepods/wings HIGH (multiple). Mekies "second season launch" HIGH (confirmed multiple English sources). Lambiase to McLaren HIGH (Formula1.com official). McLaren Chief Racing Officer HIGH (Formula1.com). Lambiase with Verstappen since 2016 HIGH (Wikipedia, Formula1.com). Verstappen "stupid not to take it" HIGH (ESPN). Marshall/Courtenay precede Lambiase HIGH (Formula1.com). Antonelli 72/Russell 63 HIGH (Formula1.com official). Antonelli youngest leader (19y 216d) HIGH (prior pipeline). 3 races all Mercedes HIGH (confirmed). Wolff quote HIGH (Formula1.com). Coulthard skeptical HIGH (F1 Oversteer). Antonelli "unfazed" HIGH (Motorsport Week). Miami Sprint schedule HIGH (Formula1.com official). FIA rule changes HIGH (FIA.com, prior pipeline).
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, consistent with all previous runs)
 
 ### 2026-04-22
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
