@@ -2,6 +2,50 @@
 
 ---
 
+## April 23, 2026
+
+### Story 1: Sabin Middle School D11 Students Head to VEX Robotics World Championship
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Three D11 eighth graders — Declan Martin, Riley Snyder, Jaxon Wright — from Sabin Middle School qualified for VEX Robotics World Championship in St. Louis; VEX V5 Middle School division April 25-27 at America's Center; 600 teams from 55 countries; 15 awards this season; KRDO April 20)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Students: Declan Martin, Riley Snyder, Jaxon Wright (8th graders, Sabin MS, D11); Venue: America's Center, St. Louis; Dates: April 25-27, 2026; ~600 middle school teams; 55 countries; 15 awards this season
+- **Follow-Up Opportunities:** VEX Worlds results follow-up (April 28+); D11/D20 robotics programs roundup
+
+### Story 2: Taylor Schreiner Named 2026 Military Child of the Year (Space Force)
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Discovery Canyon HS senior Taylor Schreiner, 17, named 2026 Military Child of the Year for Space Force by Operation Homefront; gala April 23 in Arlington VA; CNA certified at 17; 13 PCS moves; father Brig. Gen. Robert Schreiner; sister Hayley was 2023 MCOY same branch; KOAA, Gazette, Fox21, KKTV)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Taylor Schreiner, Discovery Canyon HS senior, age 17; 2026 MCOY Space Force; Operation Homefront; gala April 23, Arlington VA; $10,000 educational grant; father Brig. Gen. Robert Schreiner (28 years, Space Force); mother Nicole Schreiner (retired AF/SF civil servant); sister Hayley 2023 MCOY; 13 PCS moves; CNA license; University of Wisconsin-Madison fall 2026 (pre-med, pediatric oncology goal); operationhomefront.org
+- **Follow-Up Opportunities:** Operation Homefront scholarship/grant program; Discovery Canyon achievements roundup
+
+### Story 3: Bear Creek Earth Day Story Walk and Upcycled Craft
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Free Earth Day Story Walk + upcycled craft at Bear Creek Nature Center; TODAY April 23, 10 AM-1 PM; self-guided trail story walk then take-home upcycled craft; VisitCOS / Bear Creek Nature Center event listing)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Date: April 23, 2026; Time: 10 AM-1 PM MT; Location: Bear Creek Nature Center, 245 Bear Creek Rd, Colorado Springs; Cost: Free; All ages
+- **Follow-Up Opportunities:** Bear Creek spring/summer programming calendar
+
+### Story 4: PPYMCA Summer Outdoor Pools Open Memorial Day
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (PPYMCA opens Monument Valley and Wilson Ranch outdoor pools Memorial Day through Labor Day in partnership with City of COS; day passes $10 youth/$15 adults/$45 family/free age 2 and under; season passes available; ppymca.org)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Locations: Monument Valley Pool + Wilson Ranch Pool; Season: Memorial Day–Labor Day; Day passes: $10 youth (3-17) / $15 adults / $45 family (2 adults + up to 4 children) / free age 2 and under; credit card or exact cash only; season passes available; ppymca.org/pool-status/; Note: day pass prices MEDIUM confidence (ppymca.org returned 403 during research — verify before next run)
+- **Follow-Up Opportunities:** Pool opening day coverage (Memorial Day); full COS summer swim guide
+
+### Story 5: Money Museum National Coin Week Free Open House
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Edward C. Rochette Money Museum free open house April 25; National Coin Week 2026 theme "Striking Independence: 250 Years of American Numismatics"; games, exhibits, family activities; 818 N. Cascade Ave; PeakRadar + America250.org + money.org)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Date: April 25, 2026 (Saturday); Time: 10:30 AM-5 PM MT; Address: 818 N. Cascade Ave, Colorado Springs; Cost: Free; more info: money.org/national-coin-week
+- **Follow-Up Opportunities:** Money Museum full programming calendar; museum visit guide for families
+
+---
+
 ## April 22, 2026
 
 ### Story 1: D11 Orton Academy Moving Into Trailblazer Elementary — Parent Concerns

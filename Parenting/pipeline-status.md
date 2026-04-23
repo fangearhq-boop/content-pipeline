@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 22, 2026
+## Latest Run: April 23, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | KRDO (Sabin MS VEX Robotics Worlds), KOAA/Gazette/Fox21/KKTV (Taylor Schreiner MCOY), VisitCOS/Bear Creek (Earth Day Story Walk), PPYMCA (summer pools), PeakRadar/America250/ANA (Money Museum Coin Week) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 22 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts; all verified under 280 chars; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; no hashtags; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 all images |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 49 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (27 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-23.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-04-23.xlsx (7 TOBI posts); Facebook long-form posts not exported (postplanner requires code block format; compile uses bold format — known format mismatch) |
+| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-23)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 2 (Sabin VEX Robotics Worlds; Taylor Schreiner MCOY Space Force) | 1-2 |
+| Local Events | 3 (Bear Creek Earth Day Story Walk; PPYMCA Summer Pools; Money Museum Coin Week) | 1-2 |
+| National Parenting | 0 | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 22, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -594,6 +627,21 @@
 | 2026-02-22 | 7 | X + FB | Complete |
 
 ## Pipeline Run Log
+
+### 2026-04-23 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marta Kim [VEX Robotics], Sofia Reyes [MCOY], Keisha Williams [Bear Creek], Jenna Park [PPYMCA Pools], Marcus Rivera [Money Museum])
+- **PostPlanner exports:** cosp-postplanner-2026-04-23.xlsx (7 posts), cosp-postplanner-tobi-2026-04-23.xlsx (7 TOBI posts)
+- **Coverage:** Sabin Middle School (D11) eighth graders Declan Martin, Riley Snyder, Jaxon Wright head to VEX Robotics World Championship in St. Louis April 25-27 (15 awards, 600 teams, 55 countries); Taylor Schreiner (Discovery Canyon HS) named 2026 Military Child of the Year for Space Force at gala today in Arlington VA (CNA certified at 17, 13 PCS moves, sister Hayley was 2023 MCOY); Bear Creek Earth Day Story Walk + Upcycled Craft (today April 23, 10 AM-1 PM, free, 245 Bear Creek Rd); PPYMCA summer pools open Memorial Day–Labor Day at Monument Valley and Wilson Ranch ($10/$15/$45/free); Money Museum National Coin Week Open House April 25, 10:30 AM-5 PM, free, 818 N. Cascade Ave
+- **Notes:**
+  - verify-facts.py passed on first run — no char violations or consistency issues
+  - Image manifest warnings are cosmetic (not_started is expected at this stage)
+  - Facebook long-form posts not exported by PostPlanner (known format mismatch: postplanner expects code blocks + `####` headers, compile uses bold text — same behavior as all prior runs)
+  - WordPress proxy error: same environment restriction as all prior runs (Host not in allowlist)
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - PPYMCA day pass prices are MEDIUM confidence (ppymca.org returned 403 during research); verify at ppymca.org before publish
 
 ### 2026-04-18 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
