@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-24
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Hawks 109, Knicks 108 (Game 3, April 23) — McCollum game-winning fadeaway 12.3s left (23 pts); Jalen Johnson 24/10/8; Kuminga 21; Anunoby 29 (NYK); Brunson 26; KAT 21; ATL opened 11-0 run, leads series 2-1 | 1 | FOLLOW-UP (April 20 G2 McCollum 107-106 winner) |
+| 2 | Raptors 126, Cavaliers 104 (Game 3, April 23) — Barnes 33, Barrett 33 (23-for-36, 9/13 3PT); Murray-Boyles 22/8 off bench; Battle 14 (5/5); 19 straight scoring possessions → 47-23 run; CLE leads 2-1 | 1 | FOLLOW-UP (Cavs 2-0 going in) |
+| 3 | Wolves 113, Nuggets 96 (Game 3, April 23) — Edwards left Q4 with knee injury (17 pts/24 min); McDaniels 20/10; Dosunmu 25/9 (bench); DiVincenzo 15/4stl; Jokic reportedly 7/26; held DEN to 11 Q1 (franchise record); 68-34 paint; MIN leads 2-1 | 1 | FOLLOW-UP (April 20 G2 Wolves tied 1-1) |
+| 4 | Tonight's triple-header preview — Thunder-Suns G3 3:30 PM NBC (OKC 2-0); Celtics-76ers G3 7 PM Prime (1-1); Lakers-Rockets G3 8 PM Prime (LAL 2-0, Reaves/KD questionable) | 2 | NEW STORY |
+| 5 | Jokic 7-for-26 analysis — Denver in crisis, down 2-1; pattern of Q4 struggles vs Minnesota defense; Edwards knee adds uncertainty for Game 4 | 2 | FOLLOW-UP (ongoing Nuggets thread) |
+
+### STORY 1: McCollum Does It Again — Hawks 109, Knicks 108 (Game 3)
+- **Tier:** 1
+- **Category:** Playoff Game Results / Clutch Performance
+- **Key facts:** Hawks 109, Knicks 108. McCollum game-winning fadeaway with 12.3s left. McCollum 23 pts. Jalen Johnson 24/10/8. Kuminga 21. OG Anunoby 29 (NYK high). Brunson 26. KAT 21. Atlanta opened with 11-0 run. NYK led 108-105 on Brunson three-point play with 1:03 left before McCollum answered. ATL leads series 2-1.
+
+### STORY 2: Raptors 126, Cavaliers 104 (Game 3)
+- **Tier:** 1
+- **Category:** Playoff Game Results / Individual Performance
+- **Key facts:** Raptors 126, Cavaliers 104. Barnes 33, Barrett 33. Combined 23-for-36, 9-for-13 from 3. Murray-Boyles 22/8 off bench. Battle 14 (5/5). 19 consecutive scoring possessions spanning Q3/Q4. 47-23 run. CLE leads series 2-1.
+
+### STORY 3: Wolves 113, Nuggets 96 (Game 3) — Edwards Knee Injury
+- **Tier:** 1
+- **Category:** Playoff Game Results / Injury
+- **Key facts:** Wolves 113, Nuggets 96. Edwards left Q4 with knee injury, 17 pts in 24 min (6/15 FG). Edwards questionable pre-game (right knee maintenance). Had missed 11 of last 14 regular season games with knee. Dosunmu 25/9 (bench). McDaniels 20/10. DiVincenzo 15/4stl. Jokic reportedly 7/26. Held DEN to 11 Q1 (franchise postseason record). 68-34 in paint. 27-pt lead Q3. MIN leads 2-1.
+
+### STORY 4: Tonight's Triple-Header Preview
+- **Tier:** 2
+- **Category:** Preview / Tonight's Slate
+- **Key facts:** Thunder vs. Suns G3 3:30 PM ET NBC (OKC 2-0, SGA 31.6 PPG, Williams still out). Celtics vs. 76ers G3 7 PM ET Prime Video (1-1, Philadelphia). Lakers vs. Rockets G3 8 PM ET Prime Video (LAL 2-0, Reaves questionable oblique, LeBron 28/8/7 G2, KD questionable ankle).
+
+### STORY 5: Jokic 7-for-26 — Nuggets' Crisis
+- **Tier:** 2
+- **Category:** Analysis / Stat Deep Dive
+- **Key facts:** Jokic reportedly 7/26 in G3. DEN outscored 68-34 in paint. Held to 11 pts Q1 (franchise record). Pattern: Jokic 2/12 in Q4 of G2 (24/15/8 overall). Edwards knee adds uncertainty for G4. MIN leads 2-1. DEN must win G4.
+
 ## 2026-04-23
 
 | # | Story | Tier | Tag |

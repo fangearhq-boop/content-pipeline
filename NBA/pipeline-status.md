@@ -1,9 +1,21 @@
 ## Last Run
-- **Date**: 2026-04-23
+- **Date**: 2026-04-24
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-24
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-04-24.xlsx (8 posts) + hh-postplanner-tobi-2026-04-24.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-24/review-dashboard.html (28 items)
+- **Notes:** Hawks 109, Knicks 108 (Game 3, April 23) — McCollum game-winning fadeaway 12.3s left, 23 pts; Jalen Johnson 24/10/8; Kuminga 21; Anunoby 29 (NYK high); Brunson 26; KAT 21; ATL opened 11-0 run; ATL leads series 2-1. Raptors 126, Cavaliers 104 (Game 3, April 23) — Barnes 33, Barrett 33 (23-for-36, 9-for-13 from 3); Murray-Boyles 22/8 off bench; Battle 14 (5/5); 19 straight scoring possessions spanning Q3/Q4 = 47-23 run; CLE leads 2-1. Wolves 113, Nuggets 96 (Game 3, April 23) — Edwards 17 pts (6/15) in 24 min, left Q4 with knee injury (11 of last 14 reg season games missed); McDaniels 20/10; Dosunmu 25/9 off bench; DiVincenzo 15/4stl; Jokic reportedly 7/26; held DEN to 11 Q1 (franchise postseason record); 68-34 paint; 27-pt lead Q3; MIN leads 2-1. Tonight's triple-header: Thunder-Suns G3 3:30 NBC (OKC 2-0, SGA 31.6 PPG); Celtics-76ers G3 7 PM Prime (1-1); Lakers-Rockets G3 8 PM Prime (LAL 2-0, Reaves questionable, KD questionable ankle).
+- **Fact concerns:** Hawks 109-108 HIGH (Threads, NBA.com, CBS Sports, Yahoo Sports). McCollum 23/Johnson 24-10-8/Kuminga 21 HIGH (NBA.com box). Anunoby 29/Brunson 26/KAT 21 HIGH (NBA.com box). McCollum game-winner 12.3s HIGH (NBA.com, Yahoo Sports). Raptors 126-104 HIGH (Threads, CBS Sports, VAVEL). Barnes 33/Barrett 33 HIGH (NBA.com recap, VAVEL). 23/36 and 9/13 from 3 HIGH (NBA.com). Murray-Boyles 22/8 HIGH (NBA.com). Battle 14 (5/5) HIGH (NBA.com). 19 straight possessions/47-23 run HIGH (NBA.com). Wolves 113-96 HIGH (Threads, CBS Sports). Edwards 17 pts/24 min/Q4 knee exit HIGH (DraftKings Network, College Sports Network, Yahoo Sports, Clutch Points). Edwards 11 of 14 regular season games missed HIGH (College Sports Network). McDaniels 20/10 MEDIUM (single source). Dosunmu 25/9 MEDIUM (single source). DiVincenzo 15/4stl MEDIUM (single source). Jokic 7/26 MEDIUM (single source). Held to 11 Q1 MEDIUM (single source). 68-34 paint/27-pt lead MEDIUM (single source). MIN leads 2-1 HIGH (multiple). Tonight's schedule HIGH (CBS Sports, NESN, FOX Sports, Sports Brackets).
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, consistent with all previous runs)
 
 ### 2026-04-23
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
