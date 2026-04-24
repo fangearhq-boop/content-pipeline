@@ -6,6 +6,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-04-24 | T1 | Korda 65 leads Chevron Championship R1 by 2 — bogey-free (first bogey-free major since 2024 WBHO R2); 2nd-lowest opening major round career; Tavatanakit+Somi Lee -5 T2; Liu/O'Keefe -4 T4; Mimi Rhodes -3 T8 rookie debut; Hull even par 72 T26; $9M purse | X, FB, Article | FOLLOW-UP — R1 results |
+| 2026-04-24 | T1 | Smalley/Springer fire record-tying 58 (14-under) at Zurich Classic R1 — 12 birdies + eagle in best ball; tied tournament record; Thompson/Eckroat -13 2nd; Stevens/Bouchou + Cole/Lebioda -12 T3; Fitzpatricks -8 T? (6 back); Koepka/Lowry -6 T49 (8 back) | X, FB, Article | FOLLOW-UP — R1 results |
+| 2026-04-24 | T1 | Fitzpatrick brothers 64 — 6 shots back; Matt World No. 3 (won RBC Heritage April 19); co-favorites +1175; entering alternate shot R2 Friday; need to climb big board | X, FB, Article | FOLLOW-UP — brothers storyline |
+| 2026-04-24 | T2 | Koepka/Lowry T49 after 66 — 8 shots back; Koepka 1 birdie; Lowry 5 birdies front 9 stalled back; cut line pressure in alternate shot R2 | X, FB, Article | FOLLOW-UP — Koepka/Lowry team |
+| 2026-04-24 | T2 | Chevron Championship R2 preview — Korda leads by 2; Tavatanakit hunts at -5; Rhodes impressive rookie -3; Hull 7 back; $9M purse; Memorial Park | X, FB, Article | FOLLOW-UP — R2 setup |
+|------|------|-------|-----------|-------|
 | 2026-04-23 | T1 | Zurich Classic opens — Fitzpatrick brothers (Matt + Alex) co-favorites at +1175 (Matt won RBC Heritage 4 days ago, World No. 3); Brooks Koepka / Shane Lowry team (Koepka back from LIV, 4 top-20s in 7 starts, T12 Masters, missed RBC Heritage as first alternate); Novak/Griffin defending (back-to-back never done) | X, FB, Article | FOLLOW-UP — tournament open |
 | 2026-04-23 | T1 | Chevron Championship opens — LPGA first major 2026, Memorial Park Houston, $8M, par-71 6455 yds; Korda +500 favorite; tees off 2:39 PM ET R1 with Saigo + Vu; 132 players, 48 of top 50 | X, FB, Article | FOLLOW-UP — tournament open |
 | 2026-04-23 | T1 | Scheffler's back-to-back runner-up spring — T2 Masters (12 back entering wknd, 1 behind McIlroy); T2 RBC Heritage (playoff loss, fanned 6-iron 37 yards short); Fitzpatrick made 4-iron to 13 feet, birdie to win; Scheffler quote: "Any time Fitzy needed something to happen, he made something happen"; remains World No. 1; not playing Zurich | X, FB, Article | NEW STORY |

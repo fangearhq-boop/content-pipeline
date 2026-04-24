@@ -3,16 +3,28 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-23)
+## Current Pipeline (2026-04-24)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-23 |
-| Writing | Complete (all 8 files + 5 articles) | 2026-04-23 |
-| Fact-check | Complete (verify-facts.py — 31 claims, 56 HIGH confidence; image warnings expected) | 2026-04-23 |
-| Scripts | Complete (all 6 scripts run) | 2026-04-23 |
-| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-04-23 |
-| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-23 |
+| Research | Complete | 2026-04-24 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-24 |
+| Fact-check | Complete (verify-facts.py — 26 claims, 41 HIGH confidence; image warnings expected) | 2026-04-24 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-24 |
+| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-04-24 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-24 |
+| Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent with all previous runs) | 2026-04-24 |
+| Git | Committed and pushed to main | 2026-04-24 |
+
+## Notes (2026-04-24)
+- 5 stories: Korda 65 leads Chevron Championship by 2 (bogey-free, first bogey-free major round since 2024 WBHO R2; second lowest opening major round in career; Tavatanakit+Somi Lee at -5; Mimi Rhodes -3 rookie debut T8; Hull even par 72 T26; $9M purse — T1); Smalley/Springer fire record-tying 58 (14-under, 12 birdies + eagle in best ball, matches Zurich Classic tournament record; Thompson/Eckroat -13 second; Stevens/Bouchou + Cole/Lebioda -12 T3; format switches to alternate shot R2 — T1); Fitzpatrick brothers open 6 shots back (64, -8 best ball; Matt World No. 3 won RBC Heritage April 19; co-favorites +1175; need big alternate shot R2 — T1); Koepka/Lowry shot 66 (-6) T49, 8 shots back (Koepka 1 birdie; Lowry 5 birdies front 9, stalled back; alternate shot R2 is cut line survival — T2); Chevron Championship R2 preview (Korda leads by 2; Tavatanakit most dangerous at -5; Rhodes impressive rookie debut; Hull 7 back — T2)
+- Pen names: Marcus Cole (articles 1, 4), Ryan Calloway (articles 2, 5), Jake Torres (article 3)
+- X posts: 8 total, all under 280 characters (2 tweets in Story 3 shortened after script flagged violations)
+- Fact concerns: Korda 65 HIGH (GolfDigest, LPGA.com, Sky Sports, multiple outlets). Bogey-free round HIGH (GolfDigest — "first bogey-free major since 2024 Women's British Open R2"). Second-lowest opening major round HIGH (GolfDigest). Tavatanakit 67 HIGH (LPGA.com, Sky Sports). Somi Lee 67 HIGH (LPGA.com). Liu/O'Keefe 68 MEDIUM (single AI summary). Rhodes 69 T8 HIGH (Sky Sports). Hull 72 even T26 HIGH (Sky Sports). Chevron $9M HIGH (LPGA.com official). Korda seeking 3rd major HIGH (GolfDigest). Smalley/Springer 58 HIGH (Golfmagic, CBS Sports). Tied tournament record HIGH (Golfmagic). 12 birdies + eagle HIGH (Golfmagic). Thompson/Eckroat -13 MEDIUM (single summary). Stevens/Bouchou + Cole/Lebioda -12 MEDIUM (single summary). Fitzpatrick brothers 64 (-8) HIGH (CBS Sports, Golfmagic). Six shots back HIGH (calculated). Matt World No. 3 HIGH (prior pipelines). Matt won RBC Heritage April 19 HIGH (prior pipelines). Fitzpatricks +1175 co-favorites HIGH (April 23 pipeline). Koepka/Lowry 66 T49 HIGH (CBS Sports). Koepka 1 birdie HIGH (CBS Sports). Lowry 5 birdies front 9 HIGH (CBS Sports). $9.5M Zurich purse HIGH (prior pipeline).
+- WordPress publish: Failed — egress proxy blocks access (Host not in allowlist, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+## Previous Pipeline (2026-04-23)
 | Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent with all previous runs) | 2026-04-23 |
 | Git | Committed and pushed to main | 2026-04-23 |
 
