@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-24
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 3 char violations fixed before save), FB posts (14), image concepts, image manifest, articles (5), fact-check (112 claims, 0 char violations after fixes, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish attempted. Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Detached HEAD resolved with git checkout main + pull + cherry-pick. 3 char violations (S1T2 303→276, S2T1 306→277, S3T1 285→273) fixed before save.
+
+## Previous Run
 - **Date**: 2026-04-23
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 3 char violations fixed before compile), FB posts (14), image concepts, image manifest, articles (5), fact-check (103 claims, 0 char violations after fixes, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -142,6 +149,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-24
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 112 claims. 3 char violations fixed (S1T2 303→276, S2T1 306→277, S3T1 285→273). 0 violations after fixes. All stories present. IMAGE MISSING expected (not_started).
+- Dashboard: 28 items. Detached HEAD resolved (cherry-pick after checkout main + pull). Dashboard published.
+- PostPlanner: ils-postplanner-2026-04-24.xlsx (9 posts), ils-postplanner-tobi-2026-04-24.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Wells 32 HRs needs 5 for Espinoza all-time record, OU opens Georgia series (15-3 SEC tied with Alabama for No. 1 seed) (P10); Canady AUSL Golden Ticket first 2026 recipient ceremony at Rocky Johnson, TTech beats Iowa State 9-1 run-rule (45-4 No. 2 NFCA) (P9); Nebraska DH vs Iowa today 12-game win streak 37-6 17-1 Big Ten No. 2 Power 10 (P8); FSU at Georgia Tech final ACC road series (40-7 15-3) (P7); SEC Tournament May 5-9 Kentucky OU-Alabama tied 15-3 top-4 double bye (P7); WCWS selection show 16 days May 10 32-team (P6); Power 10 Nebraska No. 2 program history (P6)
+- Notes: 3 tweet char violations fixed before save. Detached HEAD from publish-dashboard resolved via git checkout main + pull + cherry-pick.
 
 ### 2026-04-23
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)

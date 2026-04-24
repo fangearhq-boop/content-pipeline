@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 24, 2026
+
+### Story 1: Kendall Wells / OU Opens Georgia Series — HR Record Chase
+- **Angle:** FOLLOW UP (April 23 Wells/OU SEC standings story). Wells at 32 HRs, needs 5 to tie Espinoza all-time NCAA record (37, Arizona, 1995). OU (42-6, 15-3 SEC) opens 3-game home series vs. No. 11 Georgia (34-13, 10-8 SEC) at Love's Field. OU tied with Alabama for No. 1 SEC Tournament seed. Double bye critical for tournament.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Wells HR milestones 33-37; all-time record watch; SEC standings final weeks
+
+### Story 2: NiJaree Canady AUSL Golden Ticket — First 2026 Draft Pick
+- **Angle:** NEW STORY. Canady received first AUSL Golden Ticket of 2026 in surprise on-field ceremony at Rocky Johnson Field April 23. Commissioner Kim Ng presented. TTech beat Iowa State 9-1 run-rule; Canady 5 IP, 2 H, 1 ER. TTech now 45-4, No. 2 NFCA. Historic professional softball visibility moment.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** AUSL draft process, TTech Big 12 title/WCWS, Canady professional debut
+
+### Story 3: Nebraska Doubleheader vs Iowa — Huskers' 12-Game Win Streak
+- **Angle:** NEW STORY. Weather-driven DH at Bowlin Stadium, 3 PM CT. Nebraska 37-6, 17-1 Big Ten, 12-game win streak. No. 4 NFCA / No. 2 Power 10 (highest in program history). Iowa 24-17, 5-13 Big Ten. Two wins push streak to 14.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Big Ten title clinch, national seed confirmation May 10
+
+### Story 4: FSU at Georgia Tech — Final ACC Road Series
+- **Angle:** FOLLOW UP (April 23 FSU beats Florida story). FSU (40-7, 15-3 ACC) at Georgia Tech (29-23, 10-8 ACC), 6 PM ET ACCNX. Final ACC road series. FSU riding momentum from Florida win. National seed positioning.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** FSU series result, ACC standings finalization, national seed
+
+### Story 5: SEC Tournament Bracket — OU and Alabama Tied for No. 1 Seed
+- **Angle:** NEW STORY. SEC Tournament May 5-9 at Kentucky (John Cropp Stadium). Top 4 get double bye. OU 15-3, Alabama 15-3, Texas 11-6. Race for No. 1 seed between OU and Alabama going to final weekend.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** SEC Tournament bracket finalization, tiebreaker scenarios
+
+### Story 6: WCWS Selection Show 16 Days Away — 32-Team Bracket
+- **Angle:** FOLLOW UP (April 23 WCWS countdown). 16 days to May 10 selection show (7 PM ET ESPN2). Regionals May 15. WCWS May 28 Devon Park OKC. All top 16 seeds host regionals. Weekend results shaping the bracket.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** NCAA selection show May 10
+
+### Story 7: Softball America Power 10 — Nebraska No. 2, Program History
+- **Angle:** NEW STORY. Nebraska No. 2 in Softball America Power 10 (week of April 21), highest in program history. OU No. 1. Nebraska's non-conf wins over TX, LSU, TTech, A&M, SC. National seed contender.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Power 10 final week updates, Nebraska national seed case
+
+---
+
 ## April 23, 2026
 
 ### Story 1: FSU Defeats Florida 3-1 — Isa Torres Homers Twice

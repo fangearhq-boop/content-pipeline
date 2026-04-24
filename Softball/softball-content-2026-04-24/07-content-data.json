@@ -1,0 +1,409 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-24",
+  "compiled_at": "2026-04-24T10:19:28.832674+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 (OU-Georgia / Wells record chase)",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 (Canady AUSL Golden Ticket)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Nebraska doubleheader vs Iowa)",
+      "type": "X + FB"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Story 4 (FSU at Georgia Tech)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:30 PM",
+      "description": "Story 5 (SEC Tournament bracket)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 6 (WCWS countdown 16 days)",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7 (Power 10 Nebraska No. 2)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Kendall Wells and No. 1 Oklahoma Open Critical Georgia Series — Record Chase Enters Final Chapter",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kendall Wells: 32 home runs. 🥎\n\n5 away from tying Lauren Espinoza's all-time NCAA record (37, Arizona, 1995).\n\nNo. 1 Oklahoma opens a home series vs. No. 11 Georgia TODAY at Love's Field.\n\nEvery Wells at-bat is appointment softball.\n\n#OUSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OUSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "No. 1 OU (42-6, 15-3 SEC) vs. No. 11 Georgia — this weekend matters. 🥎\n\nWin and the Sooners hold the No. 1 SEC Tournament seed.\n\nPlus: Kendall Wells needs 5 more HRs to tie the all-time NCAA single-season record.\n\nLove's Field is the place to be.\n\n#OUSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OUSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-kendall-wells-ou-georgia-series-hr-record-chase.html",
+        "headline": "Kendall Wells Needs 5 More HRs as No. 1 Oklahoma Opens Georgia Series — Record Chase Enters Final Chapter",
+        "word_count": 668
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** NiJaree Canady Receives AUSL Golden Ticket — First Player Selected in 2026 Draft",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "NiJaree Canady received the first AUSL Golden Ticket of 2026. 🥎\n\nCommissioner Kim Ng walked onto the field at Rocky Johnson Field.\n\nThen Canady threw Texas Tech to a 9-1 run-rule win over Iowa State.\n\nThe future of pro softball starts here.\n\n#TexasTechSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTechSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Tech 45-4. Canady has the Golden Ticket. 🥎\n\nShe pitched 5 innings Thursday, allowed 2 hits, 1 run.\n\nNo. 2 Texas Tech is rolling into the final stretch of the season.\n\nBetween the AUSL draft and the WCWS, NiJaree Canady is everywhere right now.\n\n#TexasTechSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTechSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-nijaree-canady-ausl-golden-ticket-texas-tech.html",
+        "headline": "NiJaree Canady Receives AUSL Golden Ticket — First Player Chosen in 2026 Draft",
+        "word_count": 665
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Nebraska's Doubleheader vs. Iowa Today — Huskers Chasing 14-Game Win Streak",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nebraska (37-6, 17-1 Big Ten) plays a doubleheader vs Iowa TODAY. 🥎\n\nFirst pitch: 3 PM CT. Game 2 starts 30 min after.\n\nThe Huskers are riding a 12-game win streak and gunning for 14.\n\nNational seed race. Big Ten title. Big day in Lincoln.\n\n#HuskerSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HuskerSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-nebraska-doubleheader-iowa-win-streak.html",
+        "headline": "Nebraska Plays Weather-Driven Doubleheader vs. Iowa — Huskers Riding 12-Game Win Streak",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** No. 12 FSU Opens ACC Road Finale at Georgia Tech — Seminoles Close Regular Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "No. 12 FSU (40-7) travels to Georgia Tech tonight — final ACC road series. 🥎\n\nTwo days after Isa Torres hit TWO home runs to beat No. 5 Florida.\n\nGame 1 on ACCNX at 6 PM ET.\n\nSeminoles are locked in for the national seed stretch run.\n\n#FSUSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-fsu-georgia-tech-acc-road-series-national-seed.html",
+        "headline": "No. 12 FSU Opens Final ACC Road Series at Georgia Tech — Seminoles' National Seed in Focus",
+        "word_count": 599
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** SEC Tournament Bracket Set — Oklahoma and Alabama Race for No. 1 Seed in Lexington",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "SEC Tournament is May 5-9 in Lexington. 🥎\n\nTop 4 seeds get a double bye — that's a huge advantage in single-elimination.\n\nRight now? Oklahoma and Alabama are TIED at 15-3 in the SEC.\n\nFinal three weekends decide who gets the No. 1 seed.\n\n#SECSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-sec-tournament-bracket-ou-alabama-no1-seed-race.html",
+        "headline": "SEC Tournament Bracket Taking Shape — Oklahoma and Alabama Tied in No. 1 Seed Race",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image 9",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 10",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** WCWS Selection Show 16 Days Away — 32-Team Bracket, Regional Hosting at Stake",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "16 days until the WCWS selection show. 🥎\n\nMay 10 • 7 PM ET • ESPN2\n\n32-team bracket. All top 16 seeds host regionals.\n\nThis weekend's results — OU-Georgia, Nebraska-Iowa, FSU-Georgia Tech — are shaping the bracket right now.\n\n#WCWS #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WCWS",
+            "#CollegeSoftball"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 11",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Softball America Power 10 — Nebraska No. 2, Oklahoma Holds No. 1 Entering Final Weekends",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Nebraska is No. 2 in the Softball America Power 10 🥎 — the highest ranking in program history.\n\n37-6. 17-1 Big Ten. Wins over Texas, LSU, Texas Tech, A&M, and South Carolina.\n\nThe Huskers are a legit national seed contender.\n\n#HuskerSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HuskerSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 12",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 12
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified",
+      "Story 6: No Facebook posts found",
+      "Story 6: No posting window specified",
+      "Story 7: No Facebook posts found",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
