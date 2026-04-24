@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 23, 2026
+## Latest Run: April 24, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC.gov (Wiifo tower stool LT005 + HappyGira baby lounger recalls April 23), Colorado Springs Parks Dept (3 Days 3 Parks April 24-26), KOAA/D49.org (Jack Ryan D49 board appointment), U-M Mott Children's Hospital/CNN (outdoor play + sleep research), El Paso County Parks (Fox Run Trailability Program May 1) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 23 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging, 14 sources |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts; 4 char violations fixed (posts 1A, 2A, 4B, 5A); all verified under 280 chars; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; no hashtags; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 74 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (27 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-24.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-04-24.xlsx (7 TOBI posts); Facebook long-form posts not exported (known format mismatch) |
+| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-24)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 (D49 Jack Ryan board appointment) | 1-2 |
+| Local Events | 2 (3 Days 3 Parks April 24-26; Fox Run Trailability Program May 1) | 1-2 |
+| National Parenting | 2 (CPSC Wiifo + HappyGira recalls; Outdoor play + sleep research) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 23, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -627,6 +660,20 @@
 | 2026-02-22 | 7 | X + FB | Complete |
 
 ## Pipeline Run Log
+
+### 2026-04-24 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sofia Reyes [CPSC recalls], Keisha Williams [3 Days 3 Parks], Jenna Park [D49 Jack Ryan], Marcus Rivera [outdoor play + sleep], Marta Kim [Fox Run Trailability])
+- **PostPlanner exports:** cosp-postplanner-2026-04-24.xlsx (7 posts), cosp-postplanner-tobi-2026-04-24.xlsx (7 TOBI posts)
+- **Coverage:** CPSC April 23 recalls (Wiifo Children's Tower Stool LT005, ~9,700 units, Amazon ~$60, entrapment/collapse hazard; HappyGira Sweetie Baby + Style Life Eleven loungers, $69.99–$99.99, suffocation/fall risk); 3 Days 3 Parks 5th annual Earth Day volunteer weekend April 24-26 at Blodgett/Palmer Park/Ute Valley (free, 3days3parks.org); D49 unanimously appointed Jack Ryan (retired Army Sergeant Major + IT Project Manager, Peyton, 5 years) to Board of Education April 20; U-M Mott poll (1 in 10 toddlers outside once/week or less) + outdoor play improves sleep (30-60 min/day, circadian rhythms, COS 22.5M park visits); Fox Run Regional Park Trailability Program launching May 1 (Terrain Hopper, 3-mile hikes, Saturdays May 1–Oct 31, free, parks.elpasoco.com)
+- **Notes:**
+  - verify-facts.py flagged 4 char violations on first run (1A: 329, 2A: 282, 4B: 284, 5A: 314); all fixed and re-verified under 280 on second run
+  - Image manifest warnings are cosmetic (not_started is expected at this stage)
+  - Facebook long-form posts not exported by PostPlanner (known format mismatch)
+  - WordPress proxy error: same environment restriction as all prior runs (Host not in allowlist)
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-04-23 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

@@ -2,6 +2,50 @@
 
 ---
 
+## April 24, 2026
+
+### Story 1: CPSC Recalls — Wiifo Children's Tower Stool + HappyGira Baby Lounger
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC April 23 recall batch: Wiifo Children's Tower Stool model LT005 (~9,700 units, Amazon, ~$60) — can collapse; child's torso can fit through sides; entrapment hazard. HappyGira baby loungers (Sweetie Baby + Style Life Eleven, $69.99–$99.99) — side walls too short, seat pad too thick; suffocation + fall risk. Stop use immediately; full refund available; cpsc.gov)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Wiifo: model LT005, ~9,700 units, sold on Amazon ~$60, stop use + request full refund; HappyGira: Sweetie Baby + Style Life Eleven models, $69.99–$99.99, stop use + request full refund; both recalled April 23, 2026; cpsc.gov
+- **Follow-Up Opportunities:** Broader infant sleep safety roundup; CPSC recall tracking guide for parents
+
+### Story 2: "3 Days 3 Parks" Earth Day Volunteer Weekend — Blodgett, Palmer Park, Ute Valley
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Colorado Springs Parks Dept. 5th annual "3 Days 3 Parks" volunteer event April 24-26 at Blodgett Open Space, Palmer Park, and Ute Valley Park; trail repair, invasive plant removal, reseeding, erosion control; free for all ages; 3days3parks.org)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Dates: April 24-26, 2026; Sites: Blodgett Open Space (NW COS), Palmer Park (central-east COS), Ute Valley Park (NW COS); Cost: Free; Registration: 3days3parks.org; 5th annual event
+- **Follow-Up Opportunities:** Post-event volunteer totals/recap; Blodgett/Palmer/Ute Valley trail condition updates
+
+### Story 3: D49 Appoints Jack Ryan to Board of Education
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 special meeting April 20 unanimously appointed Jack Ryan (6-0) to fill vacant Board of Education seat; retired U.S. Army Sergeant Major; Senior IT Project Manager; 5-year Peyton resident; d49.org)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Appointed: Jack Ryan; Date: April 20, 2026; Vote: 6-0 unanimous; Background: retired U.S. Army Sergeant Major + Senior IT Project Manager; Residence: Peyton, 5 years; District: D49 (Falcon/Peyton corridor); d49.org
+- **Follow-Up Opportunities:** D49 board priorities/2026-27 budget cycle; D49 post-fiscal-exigency updates
+
+### Story 4: Research Roundup — Outdoor Play Helps Kids Sleep Better
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (U-M Mott Children's Hospital national poll: 1 in 10 toddlers/preschoolers plays outside once a week or less. Research: natural light regulates circadian rhythms; 30-60 min/day improves sleep quality/duration. COS angle: 22.5M park visits in 2025; local resources. CNN March 2026 framing: kids' sleep = parents' sleep)
+- **Content Produced:** Article, X Text Posts (x2), Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** U-M Mott poll: 1 in 10 toddlers/preschoolers outside once/week or less; 30-60 min/day outdoor time recommended; COS parks: 22.5M visits in 2025; CNN report March 2026
+- **Follow-Up Opportunities:** COS summer outdoor programming round-up; sleep tips for school-age kids
+
+### Story 5: Fox Run Regional Park Trailability Program Launches May 1
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (El Paso County Parks launching Trailability Program at Fox Run Regional Park May 1; free guided hikes using Terrain Hopper (off-road mobility vehicle); up to 3 miles through ponderosa pine forest; Saturdays (mornings + afternoons) May 1–Oct 31; registration at parks.elpasoco.com; grant from Colorado Disability Funding Committee)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Location: Fox Run Regional Park, 2110 Stella Drive, Colorado Springs; Launch: May 1, 2026; Season: May 1–Oct 31; Days: Saturdays; Distance: up to 3 miles; Cost: Free; Register: parks.elpasoco.com; grant from Colorado Disability Funding Committee
+- **Follow-Up Opportunities:** Program season recap; inclusive outdoor recreation guide for COS families
+
+---
+
 ## April 23, 2026
 
 ### Story 1: Sabin Middle School D11 Students Head to VEX Robotics World Championship
