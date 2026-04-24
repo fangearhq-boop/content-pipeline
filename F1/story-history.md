@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-24
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | FIA extends Miami FP1 to 90 min (12:00-13:30 local, May 1) — 5-week gap + regulatory tweaks (8MJ→7MJ, super-clip increase) + Sprint format = no FP2; first live test of new rules | 1 | NEW STORY |
+| 2 | Red Bull RB22 "terrible" (Hadjar quote) — chassis lurches understeer→oversteer; Verstappen first time out of Q3 since 2015 rookie season; RBR 6th/16pts/0 wins; fundamental concept error (drag over downforce); Silverstone revisions for Miami | 1 | FOLLOW-UP (RBR crisis thread) |
+| 3 | Cadillac 3-race update — 0 pts, no Q2 appearances, Bottas P13 best; China Perez-Bottas collision (racing incident); Bottas AUS DNF fuel; both finished China+Japan; upgrades planned Miami; Perez "lot of progress"; Bottas "much cleaner" | 1 | NEW STORY (first Cadillac season review) |
+| 4 | Miami GP preview — Sprint weekend May 1-3, race May 3 4 PM ET; FP1 90 min; rules in effect; Ferrari floor+Macarena wing; McLaren upgrades; Antonelli 72/Russell 63 (9-pt gap); championship standings | 2 | FOLLOW-UP (Miami preview continuation) |
+| 5 | Williams FW48 "slimming program" — reportedly 26-30kg over 768kg minimum; Mercedes 0.4kg over, Ferrari 2kg over; Ralf Schumacher "biggest flop 2026"; Vowles running weight reduction program during April break; Aston Martin also pointless | 2 | NEW STORY |
+
+### STORY 1: FP1 Extended to 90 Minutes — Miami GP
+- **Tier:** 1
+- **Category:** Regulation / Race Weekend Format
+- **Key facts:** FIA extended Miami FP1 to 90 minutes. Session: May 1, 12:00-13:30 local. Other sessions shifted 30 min forward. Reasons: 5-week gap since Japan, new energy rules (8MJ→7MJ recharge, higher super-clip power), Sprint format (no FP2). Teams must re-map software for new regs. FP1 is only extended practice before Sprint qualifying.
+
+### STORY 2: Red Bull RB22 "Terrible" — Verstappen's Worst Start Since 2015
+- **Tier:** 1
+- **Category:** Team Performance / Driver Analysis
+- **Key facts:** Hadjar called RB22 chassis "terrible" (engine competitive, chassis lurches understeer→oversteer). Verstappen failed Q3 at Suzuka for first time since 2015 rookie year. RBR "significant shortcomings" acknowledged. Fundamental concept error: drag reduction over downforce. RBR 6th constructors/16 pts/0 wins. Mekies says Miami is "second season launch." Silverstone filming day: new floor, sidepods, wings.
+
+### STORY 3: Cadillac After 3 Races — Zero Points, One Crash
+- **Tier:** 1
+- **Category:** Team Profile / Season Review
+- **Key facts:** 0 pts, no Q2 appearances. Bottas P13 best result. Perez-Bottas China collision (racing incident, both apologized). Bottas AUS DNF (fuel). Both finished China and Japan. Perez: "lot of progress in a short space of time." Bottas: Japan "much cleaner." Upgrades planned Miami. Graeme Lowdon leading team.
+
+### STORY 4: Miami GP Preview
+- **Tier:** 2
+- **Category:** Race Preview
+- **Key facts:** Miami GP Sprint weekend May 1-3, race May 3 4 PM ET. FP1 90 min. New rules: super-clip 250→350kW, recharge 8→7MJ. Ferrari floor+Macarena wing tested Monza. McLaren aero upgrades. Antonelli 72 pts, Russell 63 pts (9-pt gap, youngest leader 19y 216d). Mercedes 135 pts, Ferrari 90 pts constructors.
+
+### STORY 5: Williams FW48 "Slimming Program"
+- **Tier:** 2
+- **Category:** Team Analysis / Technical
+- **Key facts:** Williams FW48 reportedly 26-30kg over 768kg FIA minimum. Mercedes W17 ~0.4kg over. Ferrari SF-26 ~2kg over. Last-minute structural reinforcements caused the excess. Ralf Schumacher: "biggest flop of 2026." Vowles running "slimming program" during April break. Williams 0 pts, no Q2. Aston Martin also 0 pts.
+
 ## 2026-04-23
 
 | # | Story | Tier | Tag |

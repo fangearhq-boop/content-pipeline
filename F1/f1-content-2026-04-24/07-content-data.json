@@ -1,0 +1,343 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-24",
+  "compiled_at": "2026-04-24T11:24:27.394149+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "FIA Extends Miami FP1 to 90 Minutes — First Chance to Test New Rules in Race Conditions",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "BREAKING: Miami FP1 has been extended to 90 minutes.\n\nWith the 2026 rules tweaked and a 5-week gap since Japan, teams need the extra time. Sprint weekend = no FP2. This is their only real practice before Sprint qualifying.\n\n#F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Why does 90-minute FP1 in Miami matter?\n\nNew energy rules (less recharge, more peak power) require software re-mapping. No one truly knows who's fastest until they run under race conditions.\n\nMiami could flip the whole championship picture.\n\n#F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 AM ET\n\nFormula 1 fans got an important scheduling update this week: the sole Free Practice session at the Miami Grand Prix has been extended from 60 to 90 minutes, running from 12:00 to 13:30 local time on Friday May 1.\n\nThe FIA confirmed three reasons for the extension. First, teams haven't had competitive track time since the Japanese Grand Prix in late March — a five-week gap that leaves everyone a step behind on setup. Second, the revised 2026 technical regulations take effect in Miami, requiring teams to re-map their energy management software under real race conditions. Third, because Miami operates under the Sprint weekend format, there's no FP2 — meaning the 90-minute FP1 session is essentially teams' only extended practice window before Sprint qualifying kicks off Saturday.\n\nThe regulatory changes themselves are significant: the maximum energy recharge over a lap has been reduced (from 8MJ to 7MJ in qualifying), while peak super-clip power has been increased, allowing drivers to maintain full throttle on straights for longer. The tweaks were designed to produce more consistent \"flat-out driving\" — but every team will need to optimize their software before it shows up in lap times.\n\nMiami could be the session that reshuffles the entire competitive order. Set your alarms.\n\n#F1Fanrecap | #F1 | #MiamiGP",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-miami-fp1-extended-90-minutes-new-rules.html",
+        "headline": "Miami FP1 Extended to 90 Minutes: How F1's New Rules Make This the Most Important Practice Session of 2026",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Miami International Autodrome Formula 1"
+          ],
+          "text_overlay": [
+            "90-MINUTE FP1\" (Bebas Neue, white, large) | \"Miami GP • New Rules • First Real Test | May 1\" (Montserrat, gold)"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Formula 1 garage pit lane 2026"
+          ],
+          "text_overlay": [
+            "NEW ENERGY RULES\" (Bebas Neue, deep orange) | \"Software Maps Reset • Miami is the First Test\" (Montserrat, white)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Red Bull RB22 Branded \"Terrible\" by Hadjar — Verstappen's Worst Start Since 2015",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Isack Hadjar, who co-drives the RB22 with Verstappen, called the chassis \"terrible.\"\n\nEngine: fine. Chassis: \"lurches from understeer to oversteer.\"\n\nMax Verstappen has never had a worse start to a season than 2026. Not once.\n\n#F1 #MaxVerstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MaxVerstappen"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Max Verstappen failed to reach Q3 at Suzuka — for the first time since his ROOKIE YEAR in 2015.\n\nRed Bull are 6th in constructors with 16 pts. No wins. A \"fundamental concept error.\"\n\nCan Miami change anything? #F1 #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 10:00 AM ET\n\nWhen your own driver calls your car \"terrible,\" it's hard to spin that as a positive.\n\nRed Bull's Isack Hadjar — who shares the RB22 with four-time world champion Max Verstappen — used exactly that word to describe the chassis after Japan. His verdict: the engine is competitive, but the car lurches from understeer to oversteer in a way that's fundamentally difficult to manage. Red Bull's own acknowledgment of \"significant shortcomings\" with the RB22 isn't far from Hadjar's assessment.\n\nFor Verstappen, the numbers paint an equally bleak picture. He failed to reach Q3 at Suzuka — the first time that's happened since his 2015 rookie season. Through three rounds, Red Bull sit sixth in the constructors' championship with just 16 points and zero race wins. The team's analysis points to a fundamental concept error: the RB22 was designed with an extreme focus on drag reduction at the expense of downforce, which has proven catastrophic in 2026's revised aerodynamic environment.\n\nNew Red Bull team principal Laurent Mekies faces his biggest test since taking over from Christian Horner. The team conducted extensive filming-day work at Silverstone in April, introducing a new floor, redesigned sidepods, and adjusted wings. Whether those upgrades are enough to close the gap to Mercedes and Ferrari will begin to show in Miami.\n\n#F1Fanrecap | #F1 | #MaxVerstappen | #RedBull",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-red-bull-rb22-terrible-verstappen-worst-start.html",
+        "headline": "Hadjar Calls RB22 \"Terrible\" — Verstappen's Worst Start to a Season Since His Rookie Year",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Max Verstappen Red Bull Racing"
+          ],
+          "text_overlay": [
+            "'\"TERRIBLE\"' (Bebas Neue, huge, deep orange) | \"Hadjar on the RB22 Chassis | Worst Start Since 2015\" (Montserrat, white)"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Isack Hadjar Red Bull"
+          ],
+          "text_overlay": [
+            "ZERO WINS IN 2026\" (Bebas Neue, white) | \"Red Bull — 6th in Constructors | 16 pts\" (Montserrat, gold)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Cadillac's Rough Start — Zero Points, Perez-Bottas Crash, But Optimism Remains",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Cadillac's 2026 season so far:\n• 0 points\n• 0 cars into Q2\n• Perez and Bottas collided in China\n• Bottas's best result: P13\n\nAnd yet... both drivers say they're proud of the progress. Genuine team-building or brave face?\n\n#F1 #Cadillac",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Cadillac"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Cadillac's Perez on 3 races: \"We've made a lot of progress in a short space of time.\"\n\nThey're pointless. But debut seasons are brutal, and their reliability (mostly) has held. Miami upgrades are coming.\n\n#F1 #Cadillac #SerioPerez",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Cadillac",
+            "#SerioPerez"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 12:00 PM ET\n\nFormula 1's newest team has completed three races without a championship point to show for it. But listening to Sergio Perez and Valtteri Bottas talk about Cadillac's debut season, you wouldn't know it.\n\nThrough Australia, China, and Japan, the American-backed 11th team has faced every challenge a debut squad can encounter. No cars have reached Q2 in qualifying. Bottas' P13 in China represents their best race finish. In that same race, Perez and Bottas collided — a moment that could have turned ugly, but the stewards ruled it a racing incident and both drivers were quick to apologize to each other. Bottas also retired in Australia with a fuel systems issue, though both cars crossed the finish line in China and Japan.\n\nYet the broader picture from both drivers is genuinely optimistic. Perez said the team has \"made a lot of progress in a short space of time.\" Bottas noted that Japan was \"much cleaner\" than the bumpy races before it. Both have publicly committed to putting the team's development ahead of any personal ambitions — something that's notable given Perez's long career as a race winner and Bottas' experience as a multiple champion-in-waiting.\n\nUpgrades are planned for Miami and beyond. Cadillac's debut season was never going to be easy. The question now is how quickly Graeme Lowdon's team can turn rate of development into actual pace. Miami is the first real test of that.\n\n#F1Fanrecap | #F1 | #Cadillac",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cadillac-f1-debut-season-update-three-races.html",
+        "headline": "Cadillac's F1 Debut After Three Races: Zero Points, One Teammate Clash, and Genuine Progress",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Sergio Perez Cadillac Formula 1"
+          ],
+          "text_overlay": [
+            "3 RACES. 0 POINTS.\" (Bebas Neue, white, top-left) | \"Cadillac F1 Season Report | Miami Next\" (Montserrat, gold)"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Valtteri Bottas Cadillac"
+          ],
+          "text_overlay": [
+            "P13 — Best of Season\" (Bebas Neue, deep orange) | \"Bottas: 'Japan Was Much Cleaner'\" (Montserrat, white)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "What Every Team Needs for Miami — Regulation Changes, Upgrades, and the Sprint Surprise",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Miami GP is May 1-3 🏁\n\nSprint weekend. New energy rules. Ferrari bringing upgrades. McLaren too.\n\nAntonelli leads Russell by 9 pts (72 vs 63). FP1 is 90 minutes. This weekend could reshape the championship.\n\n#F1 #MiamiGP #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 2:00 PM ET\n\nAfter five weeks away, Formula 1 returns in Miami — and there's a lot to look forward to.\n\nThe Miami Grand Prix runs May 1-3 at Miami International Autodrome. It's a Sprint weekend, meaning a compressed schedule with Sprint qualifying on Saturday, the Sprint race, then full qualifying, then Sunday's Grand Prix. Practice time is limited — which is why the FIA extended FP1 to 90 minutes.\n\nThe 2026 regulatory changes take effect in Miami: more peak power in the super-clip zones, less energy recovery in qualifying. Teams have been spending the April break re-mapping their software, tuning their setups, and bringing new parts to the track. Ferrari tested their new floor and the Macarena wing at Monza. McLaren's first proper aero upgrades arrive in Miami and Montreal. Red Bull hopes their Silverstone filming-day revisions translate to lap time.\n\nOn the championship side, Andrea Kimi Antonelli continues to lead as the youngest driver in history to hold the top spot in the standings. The 19-year-old Italian has a nine-point cushion over Mercedes teammate George Russell heading into Miami. Ferrari's Charles Leclerc and Lewis Hamilton sit third and fourth.\n\nFive weeks is a long time in Formula 1. Miami will tell us who used the break most wisely.\n\n#F1Fanrecap | #F1 | #MiamiGP",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-miami-gp-preview-sprint-weekend-championship.html",
+        "headline": "Miami Grand Prix Preview: New Rules, Sprint Format, and a Championship That's Wide Open",
+        "word_count": 481
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Formula 1 Miami Grand Prix"
+          ],
+          "text_overlay": [
+            "MIAMI GP — MAY 1-3\" (Bebas Neue, white) | \"Sprint Weekend • New Rules • Championship Renewed\" (Montserrat, gold)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Williams \"Slimming Program\" — FW48 Overweight Crisis Is F1's Strangest 2026 Story",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Williams FW48 is reportedly 26-30kg over the FIA minimum weight of 768kg.\n\nBy comparison, Mercedes is 0.4kg over. Ferrari is 2kg over.\n\nJames Vowles is running a \"slimming program\" during the April break. Ralf Schumacher called Williams the \"biggest flop of 2026.\"\n\n#F1 #Williams",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Williams"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 5:00 PM ET\n\nFormula 1 has had its share of technical oddities in the 2026 season, but perhaps none more unusual than the situation inside Williams Racing.\n\nThe FW48 is reportedly carrying significantly more weight than its competitors — multiple industry reports estimate the car is somewhere between 26 and 30 kilograms above the FIA's 768kg minimum weight limit. For context, Mercedes' W17 is understood to be just 0.4kg over the limit, and Ferrari's SF-26 sits around 2kg over. The gap between Williams and the field in this category is extraordinary.\n\nThe excess weight traces back to late design changes: last-minute structural reinforcements added to the FW48 before the season began made the car heavier than originally planned. Williams team principal James Vowles has described an ongoing \"slimming program\" — a technical drive during the April break to strip kilograms wherever possible without compromising safety or structural integrity. Former F1 world champion Ralf Schumacher was less diplomatic, calling Williams the \"biggest flop of 2026.\"\n\nWilliams and Aston Martin are both pointless through three races. For Vowles and his team, Miami represents a chance to show the development direction is real — even if the points haven't come yet. In a season where regulations have upended the entire grid order, nothing is permanent.\n\n#F1Fanrecap | #F1 | #Williams",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-williams-fw48-overweight-slimming-program.html",
+        "headline": "Williams' \"Slimming Program\": How the Heaviest Car on the F1 Grid Is Fighting to Stay Relevant",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Williams Racing FW48 Formula 1"
+          ],
+          "text_overlay": [
+            "26-30KG OVERWEIGHT\" (Bebas Neue, huge, deep orange) | \"Williams 'Slimming Program' — April Break Mission\" (Montserrat, white)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

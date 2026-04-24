@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-23
+- **Date**: 2026-04-24
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-24
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5 — FP1 extension, RB22 "terrible", Cadillac 3-race update, Miami preview, Williams weight — pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-24.xlsx (8 posts) + f1fr-postplanner-tobi-2026-04-24.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-24/review-dashboard.html (28 items)
+- **Notes:** FP1 extended to 90 min for Miami (12:00-13:30 local) — FIA announced April 23; reasons: 5-week gap + regulatory tweaks + Sprint format. Red Bull RB22 branded "terrible" by Hadjar (chassis lurches understeer→oversteer; engine "good"); Verstappen failed Q3 Suzuka first time since 2015 rookie year; RBR 6th/16 pts/0 wins; Silverstone filming day upgrades (new floor, sidepods, wings); Mekies calls Miami "second season launch." Cadillac 3-race update: 0 pts, no Q2 appearances, Bottas P13 best result, Perez-Bottas China collision (racing incident, both apologized), Bottas Australia DNF (fuel), both finished China+Japan, upgrades coming Miami. Miami Sprint weekend May 1-3, race May 3 4 PM ET. Antonelli 72 pts, Russell 63 pts (9-pt gap). FIA rules: super-clip 250→350kW, recharge 8→7MJ. Ferrari Monza floor+Macarena wing. McLaren upgrades Miami+Montreal. Williams FW48 reportedly 26-30kg over 768kg minimum; Mercedes 0.4kg over; Ferrari 2kg over; Ralf Schumacher "biggest flop of 2026"; Vowles "slimming program" during April break; Aston Martin also pointless.
+- **Fact concerns:** FP1 extension HIGH (Formula1.com, FIA.com, PlanetF1, GPFans, Crash.net, Motorsport Week). 8MJ→7MJ/super-clip changes HIGH (FIA.com, Formula1.com). RB22 "terrible" (Hadjar) HIGH (PlanetF1, Sky Sports). Chassis understeer/oversteer HIGH (PlanetF1). Verstappen Q3 fail Suzuka first since 2015 HIGH (PlanetF1, Motorsport Week). RBR 6th/16pts HIGH (prior pipelines). RBR "significant shortcomings" HIGH (Sky Sports). Fundamental concept error MEDIUM (f1oversteer.com single analyst). Cadillac 0pts/0 Q2/Bottas P13 HIGH (Formula1.com official). Perez-Bottas China collision/racing incident HIGH (Formula1.com). Bottas AUS DNF fuel HIGH (Formula1.com). Both finished China+Japan HIGH (Formula1.com). Perez quote HIGH (Formula1.com). Bottas "much cleaner" HIGH (Formula1.com). Antonelli 72/Russell 63 HIGH (prior pipelines, formula1.com). Williams 26-30kg overweight MEDIUM (Last Word On Sports range; multiple outlets, using "reportedly"). Mercedes 0.4kg/Ferrari 2kg MEDIUM (single PlanetF1 article). Ralf Schumacher "biggest flop" HIGH (PlanetF1). Vowles "slimming program" HIGH (Sky Sports). Williams 0 pts HIGH.
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, consistent with all previous runs)
 
 ### 2026-04-23
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
