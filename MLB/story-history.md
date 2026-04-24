@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-24
+
+### Story 1: Yordan Alvarez Leads MLB in 8 Offensive Categories
+- **Angle:** NEW STORY. Alvarez leads MLB in HRs (11), RBIs (26), hits (33), XBH (19), TB (74), OBP (.466), SLG (.779), OPS (1.245). 11th HR: 108.8 mph, 422 ft, 2-run shot vs Guardians. Tied Lance Berkman for most Astros franchise HRs through 26 games. BA .347, 8-game hit streak. Carlos Correa: "2026 Yordan is the closest I've seen to Barry Bonds."
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Alvarez HR pace, intentional walk frequency, Astros division race
+
+### Story 2: Murakami 10 HRs in 24 Career Games — 5-Game HR Streak
+- **Angle:** FOLLOW UP (April 23 Murakami 7-HR/21-game story). 10th HR in 24th career game — most by Japanese-born player through 24 games (surpasses Ohtani 6). 5-game HR streak tied longest ever by MLB rookie. Joins Ohtani/Suzuki as only Japanese-born to HR in 4 straight. Combined with Montgomery (6 HRs) for historic White Sox rookie tandem.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Murakami 6-game streak record attempt, Montgomery development, White Sox rebuild
+
+### Story 3: Yankees Sweep Red Sox at Fenway — AL-Best 16-9
+- **Angle:** FOLLOW UP (April 22 Yankees 5-game streak). Swept 3 games at Fenway April 21-23. Game 1 4-0 (Stanton HR + 2-run double). Game 2 4-1 (Max Fried 8 scoreless IP). Game 3 complete. Yankees 16-9 (AL-best), 5-game win streak. Red Sox 9-16, 7 GB, AL East last.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Yankees AL East lead, AL playoff race, Red Sox recovery
+
+### Story 4: Ohtani 53-Game On-Base Streak — Historical Context
+- **Angle:** FOLLOW UP (April 23 Ohtani streak ending). Historical ranking: tied Shawn Green (2000) 2nd in Dodgers history. Fell 5 short of Duke Snider record (58, 1954). Longest by Japanese-born player (surpasses Ichiro 43). Started Aug 24, 2025, crossed offseason. Same night pitched 6 IP, 7 K. Most unique streak in baseball history.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Ohtani next pitching start, OBP going forward, Roberts workload decisions
+
+### Story 5: NL Central — All 5 Teams Over .500
+- **Angle:** FOLLOW UP (April 23 NL Central story). All 5 teams over .500: Reds 15-8 (lead), Pirates/Cubs/Cardinals 13-9, Brewers 12-9 (last but winning). Brewers 97-65 in 2025 (MLB-best). No team more than 3 GB. Most balanced division in baseball.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** NL Central race through May/June, Reds Burns Cy Young watch
+
+### Story 6: Nick Kurtz Walk Streak — 13 Straight, 4th in A's History
+- **Angle:** NEW STORY. Kurtz drawn walk in 13 consecutive games; tied Mickey Cochrane (1929) for 4th in A's franchise history. 2024 No. 2 overall pick. Patient approach, power + discipline combination.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Kurtz development, A's young core watch
+
+### Story 7: MLB Power Rankings — Dodgers No. 1, NL Central Top 10
+- **Angle:** NEW STORY. Dodgers No. 1 (16-7) in April 20 power rankings. 4 of 5 NL Central in top 10 (historic). Yankees rising (16-9 AL-best). Astros (Alvarez) and White Sox (Murakami-Montgomery) generating attention.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Weekly power rankings updates
+
+---
+
 ## 2026-04-23
 
 ### Story 1: Ohtani 53-Game On-Base Streak Ends

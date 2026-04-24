@@ -1,6 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-24
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 3 char violations fixed before save), FB posts (14), image concepts, image manifest, articles (5), fact-check (35 claims, 0 char violations after fixes, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). FB posts compile to 0 (heading format — known). 3 char violations fixed (S1T2 288→265, S4T1 352→276, S7T1 283→253) before save.
+
+## Previous Run
 - **Date**: 2026-04-23
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 3 char violations fixed before compile), FB posts (14), image concepts, image manifest, articles (5), fact-check (32 claims, all HIGH, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -133,7 +140,17 @@
 ## Pipeline Run Log
 <!-- Append newest at top -->
 
-### 2026-04-22
+### 2026-04-24
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 35 claims. 3 char violations fixed (S1T2 288→265, S4T1 352→276, S7T1 283→253). 0 violations after fixes. All stories present. IMAGE MISSING expected (not_started).
+- Dashboard: 28 items. Published to GitHub Pages.
+- PostPlanner: bb-postplanner-2026-04-24.xlsx (9 posts), bb-postplanner-tobi-2026-04-24.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Yordan Alvarez leads MLB in 8 offensive categories (11 HR, .466 OBP, 1.245 OPS, Correa "Barry Bonds" quote) (P10); Murakami 10 HRs in 24 career games (Japanese-born record), 5-game HR streak (tied MLB rookie record), Montgomery 6 HRs (P9); Yankees sweep Fenway (16-9 AL-best, Fried 8 scoreless) (P8); Ohtani 53-game OB streak historical context (2nd Dodgers history, surpasses Ichiro) (P7); NL Central all 5 teams over .500 (Reds 15-8 lead, Brewers 12-9 last) (P7); Nick Kurtz 13 consecutive walks (4th A's franchise history, 2024 No. 2 pick) (P6); MLB Power Rankings Dodgers No. 1, 4 of 5 NL Central top 10 (P6)
+- Notes: 3 tweet char violations fixed before save. FB posts compile to 0 (heading format — known, dashboard uses markdown fallback).
+
+### 2026-04-23
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
 - X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
 - Fact-check: 29 claims. 2 char violations fixed (Story 1 tweet 290→under 280, Story 4 tweet 287→under 280). 0 violations after fix. All stories present. IMAGE MISSING expected (not_started).

@@ -1,0 +1,410 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-24",
+  "compiled_at": "2026-04-24T10:30:16.713127+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Alvarez MLB leader 8 categories)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Murakami 5-game HR streak)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Yankees sweep Red Sox)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Ohtani streak historical context)",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 (NL Central all over .500)",
+      "type": "X + FB"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 6 (Nick Kurtz walk streak)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 7 (MLB Power Rankings)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Yordan Alvarez Leads MLB in 8 Offensive Categories — \"The Closest I've Seen to Barry Bonds\"",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Yordan Alvarez leads MLB in: ⚾\n\nHRs (11) • RBIs (26) • Hits (33)\nXBH (19) • Total Bases (74)\nOBP (.466) • SLG (.779) • OPS (1.245)\n\nThat's 8 offensive categories.\n\nHis teammate Carlos Correa: \"2026 Yordan is the closest I've seen to Barry Bonds.\"\n\n#Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Yordan Alvarez's 11th HR: 108.8 mph. 422 feet. 2-run shot. ⚾\n\nTied Lance Berkman for most HRs in Astros franchise history through 26 games.\n\nBatting .347 on an 8-game hit streak. Leads MLB in 8 categories.\n\nThe best start to an MLB season in a decade.\n\n#Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-yordan-alvarez-leads-mlb-8-categories-barry-bonds.html",
+        "headline": "Yordan Alvarez Leads MLB in 8 Offensive Categories — Teammate Compares Him to Barry Bonds",
+        "word_count": 567
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Murakami Hits 10th HR in 24th Career Game — 5-Game Streak Tied for Longest by MLB Rookie All-Time",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Munetaka Murakami just hit his 10th HR of 2026. ⚾\n\nIn his 24th career MLB game.\n\nMost by any Japanese-born player through that threshold.\nSurpassing Ohtani, who had 6 through his first 24.\n\n5 straight games with a HR — tied for the longest ever by an MLB rookie.\n\n#WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 278
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Chicago's new rookie tandem is historic. ⚾\n\nMurakami: 10 HRs (24 career games)\nMontgomery: 6 HRs\n\nNo White Sox rookie duo has looked like this in decades.\n\nThe rebuild is showing up in the box score.\n\n#WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-murakami-10-hrs-24-games-white-sox-rookie-history.html",
+        "headline": "Murakami Hits 10th HR in 24th Career Game — White Sox Rookie Sets Japanese-Born MLB Record",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Yankees Complete Fenway Sweep — Improve to 16-9 as AL East's Best",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yankees just swept Fenway. ⚾\n\n4-0 (Stanton HR + 2-run double)\n4-1 (Max Fried 8 scoreless innings)\nGame 3 complete.\n\nNew York: 16-9. AL-best. 5-game win streak.\nBoston: 9-16. 7 games back. AL East last.\n\nStatement series.\n\n#Yankees #RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-yankees-sweep-red-sox-fenway-al-best.html",
+        "headline": "Yankees Sweep Red Sox at Fenway — Improve to AL-Best 16-9 on Five-Game Win Streak",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Shohei Ohtani's 53-Game On-Base Streak Ended — Where Does It Rank in History?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ohtani's 53-game on-base streak ended Tuesday. ⚾\n\nStarted Aug 24, 2025 — crossed an offseason.\nTied Shawn Green for 2nd in Dodgers history.\n5 short of Duke Snider's record (58, 1954).\nLongest ever by a Japanese-born player.\n\nHe pitched 6 IP, 7 K the same night.\n\n#Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-ohtani-53-game-onbase-streak-historical-context.html",
+        "headline": "Ohtani's 53-Game On-Base Streak Ends — Where Does It Rank in MLB History?",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** NL Central: All Five Teams Over .500 — MLB's Most Competitive Division",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Every team in the NL Central is above .500. ⚾\n\nReds: 15-8\nPirates: 13-9\nCubs: 13-9\nCardinals: 13-9\nBrewers: 12-9\n\nThe Brewers are in LAST PLACE with a winning record.\nThey'd lead most other divisions right now.\n\nBest division in baseball.\n\n#MLB #NLCentral",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#NLCentral"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-nl-central-all-five-teams-over-500.html",
+        "headline": "All Five NL Central Teams Are Over .500 — Baseball's Most Competitive Division Has No Floor",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image 9",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 10",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Nick Kurtz Draws Walk in 13 Straight Games — Tied for 4th in A's History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Nick Kurtz has drawn a walk in 13 straight games. ⚾\n\nThat ties Mickey Cochrane (1929) for the 4th-longest such streak in A's franchise history.\n\nThe 2024 No. 2 overall pick is quietly one of the best stories in baseball right now.\n\n#Athletics #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Athletics",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 11",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** MLB Power Rankings April 24 — Dodgers Hold No. 1, NL Central Dominance Recognized",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "MLB Power Rankings (April 20): ⚾\n\nNo. 1: Dodgers (16-7)\n4 of 5 NL Central teams in the top 10.\n\nMost complete division in baseball.\nDodgers are the class of the league.\n\nBut the Astros offense and White Sox rookies are making noise.\n\n#MLB #PowerRankings",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#PowerRankings"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 12",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 12
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified",
+      "Story 6: No Facebook posts found",
+      "Story 6: No posting window specified",
+      "Story 7: No Facebook posts found",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
