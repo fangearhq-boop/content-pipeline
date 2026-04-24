@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-23 |
-| Writing | Complete (all steps) | 2026-04-23 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-23 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles) | 2026-04-23 |
-| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-04-23 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-23 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-23 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-23 |
+| Research | Complete | 2026-04-24 |
+| Writing | Complete (all steps) | 2026-04-24 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-24 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles) | 2026-04-24 |
+| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-04-24 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-24 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-24 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-24 |
 
 ## Queue
 
@@ -24,6 +24,19 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-24 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-24.xlsx (8 posts), tfr-postplanner-tobi-2026-04-24.xlsx (8 TOBI posts)
+- **Coverage:** Sabalenka 7-5 6-3 over Stearns + Swiatek 6-1 6-2 over Snigur in 61 min (both Madrid R3); Sinner vs Bonzi today — 5th consecutive Masters 1000 title on the line (H2H 3-0, Bonzi def. Droguet in qualifying); Madrid ATP Day 2: Tsitsipas survived 3-6 7-6 7-6 vs Kypson, Dimitrov lost to Vallejo 6-4 6-4 (6 straight losses), Monfils (40) fell to Ugo Carabelli 6-3 6-4; Jódar (19) won Madrid debut vs de Jong 2-6 7-5 6-4 (3rd Spaniard under 20 after Nadal + Alcaraz); Djokovic joins Alcaraz in French Open doubt (shoulder injury, skipped Miami/MC/Madrid)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 24 claims; 60 HIGH confidence
+  - Image warnings are cosmetic (not_started is expected at this stage)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-04-23 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
