@@ -6,13 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-04-24 |
-| Writing | Complete (all steps) | 2026-04-24 |
-| Fact-check | Complete (verify-facts.py passed) | 2026-04-24 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles) | 2026-04-24 |
-| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-04-24 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-04-24 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-24 |
+| Research | Complete | 2026-04-25 |
+| Writing | Complete (all steps) | 2026-04-25 |
+| Fact-check | Complete (verify-facts.py passed) | 2026-04-25 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles) | 2026-04-25 |
+| Dashboard | Complete (review-dashboard.html, 28 items) | 2026-04-25 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-04-25 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-04-25 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-04-25 |
 | Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | 2026-04-24 |
 
 ## Queue
@@ -24,6 +25,20 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-04-25 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss x1, Marcus Cole x2, Ryan Calloway x1, Elena Voss x1)
+- **PostPlanner exports:** tfr-postplanner-2026-04-25.xlsx (8 posts), tfr-postplanner-tobi-2026-04-25.xlsx (8 TOBI posts)
+- **Coverage:** Alcaraz officially OUT of Roland Garros 2026 (right wrist, confirmed April 24 — also skipping Rome); Sinner def. Bonzi 6-7(6) 6-1 6-4 (18th straight win, 23 consecutive Masters 1000 wins, faces qualifier Møller R3); Jódar (19) stuns No. 8 de Minaur 6-3 6-1 (first career top-10 win, faces Fonseca R3); Prizmic (qualifier, 21) def. No. 4 Shelton 6-4 6-7(4) 7-6(5) in 3hrs; WTA Day 4: Rybakina survives Ruse 4-6 6-3 7-5, Gauff def. Jeanjean 6-3 6-0, Keys withdraws ill, Mertens def. Eala 6-2 6-1
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 20 claims; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 5 stories, 8 X posts, 5 FB posts, 5 articles, 10 images
+  - review-dashboard.html generated (28 items)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-04-24 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
