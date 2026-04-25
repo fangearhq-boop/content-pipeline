@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-25
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Celtics 108, 76ers 100 (Game 3, April 24) — Tatum 25 (5/9 3PT), Brown 25 (8 straight in Q4); Pritchard 15 (5 3PT) off bench; Maxey 31; No Embiid; Boston leads 2-1 | 1 | FOLLOW-UP (PHI won G2 111-97 in Boston) |
+| 2 | Lakers 112, Rockets 108 OT (Game 3, April 24) — LeBron 29/13/6, tying 3 with 13s left; Smart 21/10ast/5stl/2blk (first since Jordan 1991); Hachimura 22; KD out left ankle; Lakers lead 3-0 | 1 | FOLLOW-UP (LAL 2-0 entering G3) |
+| 3 | Spurs 120, Blazers 108 (Game 3, April 24) — Wembanyama OUT (concussion protocol); Castle 33, Harper 27/10, Kornet 14/10; Blazers led 82-67 in Q3; Spurs 21-5 run; Spurs lead 2-1 | 1 | FOLLOW-UP (series tied 1-1 after BLA G2 win) |
+| 4 | Saturday slate preview — Pistons-Magic G3 1 PM NBC (1-1); Thunder-Suns G3 3:30 NBC (OKC 2-0, Williams out); Hawks-Knicks G4 6 PM NBC (ATL 2-1); Wolves-Nuggets G4 8:30 ABC (MIN 2-1, Edwards knee uncertain) | 2 | NEW STORY |
+| 5 | Wembanyama concussion analysis — fell G2 (Holiday foul), missed G3; Castle+Harper 60 pts; G4 Sunday uncertain; series implications | 2 | FOLLOW-UP (Wemby DPOY winner) |
+
+### STORY 1: Celtics 108, 76ers 100 — Game 3
+- **Tier:** 1
+- **Category:** Playoff Game Results / Clutch Performance
+- **Key facts:** Celtics 108, 76ers 100. Celtics lead 2-1. Tatum 25 (5/9 3PT). Brown 25 (8 straight in Q4 for 96-92). Pritchard 15 (5 3PT). Maxey 31. George 18. No Embiid (appendectomy April 9). Celtics 20/47 from 3. Brown+Tatum combined 19 of 29 Q4 pts. Game in Philadelphia.
+
+### STORY 2: Lakers 112, Rockets 108 OT — Game 3
+- **Tier:** 1
+- **Category:** Playoff Game Results / Historic Performance
+- **Key facts:** Lakers 112, Rockets 108 OT. Lakers lead 3-0. LeBron 29/13/6, 45+ min; tying 3 with 13s left in regulation. Smart 21/10ast/5stl/2blk — first since Jordan 1991. Smart 8 of 11 OT pts. Hachimura 22. KD out left ankle sprain (also missed G1 bruised right knee). Lakers trailed by 6 with <30s left. Game at Toyota Center, Houston.
+
+### STORY 3: Spurs 120, Blazers 108 — Game 3
+- **Tier:** 1
+- **Category:** Playoff Game Results / Depth / Injury
+- **Key facts:** Spurs 120, Blazers 108. Spurs lead 2-1. Wembanyama OUT (concussion, jaw hit floor in G2 after Holiday foul). Castle 33. Harper 27/10. Kornet 14/10 (started). Holiday 29 (Portland, MEDIUM). Blazers led 65-59 halftime, 82-67 Q3 (MEDIUM). Spurs 21-5 run for 88-87 Q4 lead (MEDIUM). Castle+Harper combined 60 pts. G4 Sunday SA. Wemby status uncertain.
+
+### STORY 4: Saturday Slate Preview
+- **Tier:** 2
+- **Category:** Preview / Schedule
+- **Key facts:** Pistons-Magic G3 1 PM NBC (1-1); Thunder-Suns G3 3:30 NBC (OKC 2-0, Williams out hamstring); Hawks-Knicks G4 6 PM NBC (ATL 2-1 after McCollum G3 winner); Wolves-Nuggets G4 8:30 ABC (MIN 2-1; Edwards knee uncertain; Jokic 7/26 in G3).
+
+### STORY 5: Wembanyama Concussion Analysis
+- **Tier:** 2
+- **Category:** Injury Analysis / Series Impact
+- **Key facts:** Concussion protocol from G2 fall (Holiday foul). Missed G3. Traveled to Portland but could not play. Did cardio/shooting Thursday pre-departure SA. Must complete full return-to-participation protocol. G4 Sunday SA. Castle+Harper combined 60 pts without him. Regular season: 25/11.5/3.1, near-unanimous DPOY, Spurs 24-3 post-ASB.
+
+---
+
 ## 2026-04-24
 
 | # | Story | Tier | Tag |

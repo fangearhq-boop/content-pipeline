@@ -1,9 +1,21 @@
 ## Last Run
-- **Date**: 2026-04-24
+- **Date**: 2026-04-25
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-25
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-04-25.xlsx (8 posts) + hh-postplanner-tobi-2026-04-25.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-25/review-dashboard.html (28 items)
+- **Notes:** Celtics 108, 76ers 100 (Game 3, April 24) — Tatum 25 (5/9 3PT), Brown 25 (8 straight in Q4 for 96-92); Pritchard 15 (5 3PT) off bench; Maxey 31; George 18; No Embiid (appendectomy April 9); Celtics 20/47 from 3; Boston leads 2-1. Lakers 112, Rockets 108 OT (Game 3, April 24) — LeBron 29/13/6 (45+ min); tying 3 with 13s left; Smart 21/10ast/5stl/2blk (first since Jordan 1991); Smart 8 of 11 OT pts; Hachimura 22; KD out left ankle sprain; Lakers lead 3-0. Spurs 120, Blazers 108 (Game 3, April 24) — Wembanyama OUT concussion protocol (jaw hit floor G2, Holiday foul); Castle 33, Harper 27/10, Kornet 14/10; Holiday 29 (MEDIUM); Blazers led 65-59 half, 82-67 Q3 (MEDIUM); Spurs 21-5 run (MEDIUM); Spurs lead 2-1; G4 Sunday SA. Today's slate: Pistons-Magic G3 1PM NBC; Thunder-Suns G3 3:30 NBC (OKC 2-0); Hawks-Knicks G4 6PM NBC (ATL 2-1); Wolves-Nuggets G4 8:30 ABC (MIN 2-1, Edwards knee uncertain).
+- **Fact concerns:** Celtics 108-100 HIGH (NBC Sports, Boston Globe, WaPo, CBS, VAVEL). Tatum 25/Brown 25 HIGH (multiple). Pritchard 15 HIGH. Maxey 31 HIGH. George 18 HIGH. Embiid out HIGH. Celtics 20/47 HIGH. Lakers 112-108 OT HIGH (ESPN, WaPo, Fox Sports, CBS). LeBron 29/13/6 HIGH. LeBron tying 3 with 13s HIGH. Smart 21/10/5stl/2blk HIGH (Yahoo Sports). Smart since Jordan 1991 HIGH. Hachimura 22 HIGH. KD out left ankle HIGH (CBS, Yahoo, Bleacher). Spurs 120-108 HIGH (VAVEL, Fox, Blazer's Edge). Wemby concussion protocol HIGH (ESPN, CBS, Yahoo, NBA.com). Castle 33 HIGH (Blazer's Edge). Harper 27/10 HIGH. Kornet 14/10 HIGH. Holiday 29 MEDIUM (single AI). Blazers led halftime/Q3 MEDIUM. Spurs 21-5 run MEDIUM. G4 schedule HIGH (ESPN).
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, consistent with all previous runs)
 
 ### 2026-04-24
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
