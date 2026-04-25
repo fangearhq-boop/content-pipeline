@@ -6,6 +6,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-04-25 | T1 | Korda back-to-back 65s, Chevron Championship lead grows to 7 — two rounds of 65 each, -14 total, 7-shot lead over Tavatanakit and Somi Lee at -7; bogey-free both rounds; seeking 3rd major title; Memorial Park Houston; $9M purse | X, FB, Article | FOLLOW-UP — R2 results |
+| 2026-04-25 | T1 | Fitzpatrick brothers shoot 65 alternate shot, T2 Zurich Classic — 7-under 65 (6 birdies + eagle, 1 bogey); climbed from -8 to -15; 1 back of Smalley/Springer at -16; Matt chip-in eagle on 18th to close; Matt World No. 3 won RBC Heritage last week | X, FB, Article | FOLLOW-UP — R2 results |
+| 2026-04-25 | T1 | Koepka and Lowry miss Zurich Classic cut by 1 — finished -9 (cut -10); Friday alt shot: 5 birdies but bogeys on par-3 holes 3 and 17 cost them; Thursday best ball: Koepka 1 birdie, Lowry 5 birdies front 9 stalled; pairing formed at Grove XXIII Hobe Sound FL | X, FB, Article | FOLLOW-UP — missed cut |
+| 2026-04-25 | T2 | Zurich Classic R3 preview — Smalley/Springer lead at -16 (1 ahead of field); Fitzpatricks/Thompson+Eckroat/Horschel+Hoge all at -15; best ball R3 format Saturday; $9.5M purse | X, FB | FOLLOW-UP — R3 preview |
+| 2026-04-25 | T2 | LIV Golf Virginia preview — Rahm/Legion XIII won Mexico City (7-under 64, 6-shot margin, 3rd consecutive team title); LIV Virginia May 8-10 Trump National DC Sterling VA; Niemann defending individual; DeChambeau/Crushers defending team title | X, FB, Article | FOLLOW-UP — event preview |
+|------|------|-------|-----------|-------|
 | 2026-04-24 | T1 | Korda 65 leads Chevron Championship R1 by 2 — bogey-free (first bogey-free major since 2024 WBHO R2); 2nd-lowest opening major round career; Tavatanakit+Somi Lee -5 T2; Liu/O'Keefe -4 T4; Mimi Rhodes -3 T8 rookie debut; Hull even par 72 T26; $9M purse | X, FB, Article | FOLLOW-UP — R1 results |
 | 2026-04-24 | T1 | Smalley/Springer fire record-tying 58 (14-under) at Zurich Classic R1 — 12 birdies + eagle in best ball; tied tournament record; Thompson/Eckroat -13 2nd; Stevens/Bouchou + Cole/Lebioda -12 T3; Fitzpatricks -8 T? (6 back); Koepka/Lowry -6 T49 (8 back) | X, FB, Article | FOLLOW-UP — R1 results |
 | 2026-04-24 | T1 | Fitzpatrick brothers 64 — 6 shots back; Matt World No. 3 (won RBC Heritage April 19); co-favorites +1175; entering alternate shot R2 Friday; need to climb big board | X, FB, Article | FOLLOW-UP — brothers storyline |

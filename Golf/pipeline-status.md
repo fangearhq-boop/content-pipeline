@@ -3,7 +3,28 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-24)
+## Current Pipeline (2026-04-25)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-25 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-25 |
+| Fact-check | Complete (verify-facts.py — 30 claims, 41 HIGH confidence; no tweets over 280 chars) | 2026-04-25 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-25 |
+| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-04-25 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-25 |
+| Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent with all previous runs) | 2026-04-25 |
+| Git | Committed and pushed to main | 2026-04-25 |
+
+## Notes (2026-04-25)
+- 5 stories: Korda back-to-back 65s leads Chevron Championship by 7 (two rounds of 65, -14 total; 7-shot lead over Tavatanakit + Somi Lee at -7; bogey-free both rounds; seeking 3rd major title; $9M purse Memorial Park Houston — T1); Fitzpatrick brothers 65 alternate shot T2 Zurich Classic (7-under 65, 6 birdies + eagle, 1 bogey; climbed from -8 to -15; 1 back of leaders Smalley/Springer; Matt chip-in eagle 18th; Matt World No. 3 won RBC Heritage last week — T1); Koepka/Lowry miss Zurich cut by 1 stroke (-9, cut -10; alt shot: 5 birdies but bogeys on par-3 holes 3 and 17; best ball: Koepka 1 birdie, Lowry 5 front 9; pairing from Grove XXIII Hobe Sound FL — T1); Zurich Classic R3 preview (Smalley/Springer lead at -16; Fitzpatricks/Thompson+Eckroat/Horschel+Hoge all at -15; best ball R3 Saturday; $9.5M — T2); LIV Golf Virginia preview (Rahm/Legion XIII won Mexico City: 7-under 64, 6-shot margin, 3rd straight team title; LIV Virginia May 8-10 Trump National DC; Niemann defending individual; DeChambeau/Crushers defending team — T2)
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X posts: 8 total, all under 280 characters
+- Fact concerns: Korda back-to-back 65s HIGH (CBS Sports, LPGA.com, Sky Sports). -14 total HIGH (LPGA.com, Golf Channel). 7-shot lead HIGH (LPGA.com, Sky Sports). Tavatanakit + Somi Lee at -7 HIGH (Sky Sports, CBS Sports). Bogey-free both rounds HIGH (Sky Sports, multiple). Fitzpatricks 65 alt shot HIGH (PGA Tour official, CBS Sports, Golfmagic). 6 birdies + eagle HIGH (CBS Sports). 1 bogey HIGH (CBS Sports). Matt chip-in eagle 18th HIGH (Golfmagic). Smalley/Springer -16 HIGH (PGA Tour official, CBS Sports). Fitzpatricks/Thompson+Eckroat/Horschel+Hoge -15 HIGH (PGA Tour official). Smalley/Springer record-tying 58 R1 HIGH (prior pipeline). Koepka/Lowry -9 (cut -10) missed by 1 HIGH (CBS Sports, PGA Tour official, RTE). Alt shot 5 birdies HIGH (CBS Sports). Par-3 bogeys holes 3 and 17 HIGH (CBS Sports). Best ball Koepka 1 birdie HIGH (CBS Sports). Lowry 5 birdies front 9 HIGH (CBS Sports). Grove XXIII Hobe Sound HIGH (Golf Channel, CBS Sports). Rahm Mexico City win details HIGH (prior pipeline). LIV Virginia May 8-10 HIGH (LIV Golf official). Trump National DC Sterling VA HIGH (LIV Golf official). Niemann defending individual HIGH (prior pipeline check). DeChambeau/Crushers defending team HIGH (LIV Golf official).
+- WordPress publish: Failed — egress proxy blocks access (Host not in allowlist, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+## Previous Pipeline (2026-04-24)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
