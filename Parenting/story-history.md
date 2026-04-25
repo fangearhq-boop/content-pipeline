@@ -1569,3 +1569,47 @@
 - **Follow-Up Opportunities:**
   - May weather outlook for outdoor families
   - Trail conditions guide for spring hiking
+
+---
+
+## April 25, 2026
+
+### Story 1: Hammer Fire 100% Contained — Wildfire Preparedness for COS Families
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW UP (Hammer Fire near Hanover; first wildfires of 2026 fire season covered previously were Highway 115 area; this is separate, new fire)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 1
+- **Key Facts:** Hammer Fire started April 22 southeast of COS near Hammer/Hanover Roads; ~4,900 acres; 100% contained April 23; evacuation orders lifted April 23; Hanover School District 28 closed schools April 23 (reopened); no structures lost; emergency shelters at Hanover Jr/Sr High School (people/small animals) and Norris Penrose (large animals); Ready, Set, Go program at coloradosprings.gov; CodeRED at elpasoco.com
+- **Follow-Up Opportunities:** Summer wildfire season outlook; fire-resistant landscaping guide for COS; family emergency kit checklist
+
+### Story 2: Colorado Cosmic Con at Norris Penrose — April 25-26
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 2
+- **Key Facts:** Norris Penrose Event Center, 1045 Lower Gold Camp Road; Sat April 25 10 AM–6 PM, Sun April 26 10 AM–5 PM; $12.51 admission; coloradocosmiccon.com; 3,500+ expected; celebrity guests from The Sopranos and Goodfellas; One Piece voice actors; 100+ vendors; 2026 theme "the mafia era"; best for older kids/tweens/teens
+- **Follow-Up Opportunities:** Post-event roundup; spring/summer COS events calendar
+
+### Story 3: Pew Research — Teens' Experiences on TikTok, Instagram, and Snapchat
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (Pew Research Center study released April 15, 2026)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 2
+- **Key Facts:** 1,458 teen-parent pairs; teens 13-17; survey Sept 25–Oct 9, 2025; most teens say platforms don't hurt mental health (9-11% say hurt); 37% TikTok users say hurts sleep (vs 26% Snapchat, 24% Instagram); 44% parents think teen uses TikTok too much vs 28% teens; entertainment main reason for use across all platforms
+- **Follow-Up Opportunities:** Practical screen time conversation guide for parents; device-free bedroom guide
+
+### Story 4: CPSC April 23 Recalls — Lil Pick Up Youth ATVs + Autobrush Sonic Pro Children's Toothbrush Boxes
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 1
+- **Key Facts:** Lil Pick Up Youth ATVs — crash and burn hazards, mandatory ATV standard violation, 1 death reported, stop use; Autobrush Sonic Pro Children's Toothbrush Boxes — lithium coin battery accessible, Reese's Law violation, ingestion hazard; both sold on Amazon; CPSC hotline 1-800-638-2772; cpsc.gov/Recalls
+- **Follow-Up Opportunities:** Reese's Law awareness; coin battery safety guide; ATV safety for COS outdoor families
+
+### Story 5: Colorado Catholic Preschools vs. UPK — Supreme Court to Hear Case
+- **Content Pillar:** Local News / National Parenting
+- **Angle:** NEW STORY (CPR News April 20, 2026)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 2
+- **Key Facts:** Two Colorado Catholic preschools sued state 2023; excluded from UPK for restricting LGBTQ family enrollment; First Amendment argument; Supreme Court agreed to hear; UPK = 15 free hours/week for 4-year-olds; Colorado Springs has multiple UPK sites; ruling would affect future enrollment; no ruling timeline set; coloradouniversalpreschool.com
+- **Follow-Up Opportunities:** Case oral arguments; ruling impact on COS UPK providers; UPK enrollment guide for COS families

@@ -1,24 +1,24 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 24, 2026
+## Latest Run: April 25, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | CPSC.gov (Wiifo tower stool LT005 + HappyGira baby lounger recalls April 23), Colorado Springs Parks Dept (3 Days 3 Parks April 24-26), KOAA/D49.org (Jack Ryan D49 board appointment), U-M Mott Children's Hospital/CNN (outdoor play + sleep research), El Paso County Parks (Fox Run Trailability Program May 1) |
-| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 23 story history, no duplicates |
-| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2) |
-| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging, 14 sources |
+| Research (web search) | COMPLETE | CBS/KRDO/Gazette (Hammer Fire 100% contained April 23); FOX21/FanCons (Colorado Cosmic Con April 25-26 at Norris Penrose); Pew Research Center (April 15 study on teens and TikTok/Instagram/Snapchat); CPSC.gov (Lil Pick Up Youth ATVs + Autobrush Sonic Pro Children's Toothbrush Boxes, April 23); CPR News (Colorado Catholic preschool vs. UPK Supreme Court case, April 20) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 24 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging, sources noted |
 | Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
-| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts; 4 char violations fixed (posts 1A, 2A, 4B, 5A); all verified under 280 chars; 4 hashtags each; 0 exclamation marks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all verified under 280 chars; 4 hashtags each; 0 exclamation marks |
 | Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; no hashtags; engagement questions |
 | Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
 | Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
-| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 74 claims; image manifest warnings cosmetic (not_started expected) |
-| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
-| Dashboard | COMPLETE | review-dashboard.html (27 items) |
-| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-24.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-04-24.xlsx (7 TOBI posts); Facebook long-form posts not exported (known format mismatch) |
-| Dashboard Push | Attempted — push failed (PAT lacks write access to content-dashboards repo) | Same as all previous runs |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 54 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 10 images |
+| Dashboard | COMPLETE | review-dashboard.html (25 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-25.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-04-25.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same as all previous runs |
 | WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
 
 ## Story Count by Pillar (2026-04-24)
