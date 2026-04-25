@@ -1,6 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-25
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 3 char violations fixed before save: S1T2 308→253, S2T1 284→244, S6T1 312→214), FB posts (14), image concepts, image manifest, articles (5), fact-check (39 claims, 0 char violations after fixes, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). FB posts compile to 0 (heading format — known). 3 char violations fixed (S1T2 308→253, S2T1 284→244, S6T1 312→214) before save.
+
+## Previous Run
 - **Date**: 2026-04-24
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 3 char violations fixed before save), FB posts (14), image concepts, image manifest, articles (5), fact-check (35 claims, 0 char violations after fixes, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -139,6 +146,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-25
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 39 claims. 3 char violations fixed (S1T2 308→253, S2T1 284→244, S6T1 312→214). 0 violations after fixes. All stories present. IMAGE MISSING expected (not_started).
+- Dashboard: 28 items. Published to GitHub Pages.
+- PostPlanner: bb-postplanner-2026-04-25.xlsx (9 posts), bb-postplanner-tobi-2026-04-25.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Murakami HR 11 tied with Alvarez for MLB lead (White Sox 5-4 Nationals); first Japanese-born with 11 HRs in 25 games; first rookie with 10 HRs before May 1 (P10); Ramirez feature: 33 y/o leads MLB in SBs (11), broke 108-year Guardians games played record, first Guardian to HR vs all 29 teams, AL Player of Week (P9); Ohtani 2-0/0.50 ERA/18 Ks, Dodgers 21-6 (MLB-best), three straight Japanese-born starters first in MLB history (P8); Judge 9 HRs/5 in first inning, Yankees 16-9 AL-best host Astros (P8); NL Central all 5 over .500 — 66-44 cumulative, never done in Divisional Era history (P8); MLB early-season trends: walk rate down, HR up, Pages .409 BA (P6); Dodgers dynasty: lead MLB in 6+ categories (P7)
+- Notes: 3 tweet char violations caught and fixed before compile. No detached HEAD issues.
 
 ### 2026-04-24
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)

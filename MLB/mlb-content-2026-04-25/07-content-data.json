@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-25",
+  "compiled_at": "2026-04-25T10:30:44.670304+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 (Murakami HR 11)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 (Ramírez feature)",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 (Ohtani two-way)",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 (Yankees/Judge vs Astros)",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 (NL Central all .500+)",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6 (Early-season trends)",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 7 (Dodgers dynasty)",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Munetaka Murakami Hits HR No. 11 — White Sox Rookie Tied for MLB Lead",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Munetaka Murakami hit his 11th HR last night. ⚾\n\nThat ties Yordan Alvarez for the MLB lead.\n\nA Japanese-born White Sox rookie is tied for the home run title in late April. That is not something you've ever written before.\n\n#WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Murakami's 11 HRs in 25 games: ⚾\n\n• Most by any Japanese-born player through 25 MLB games\n• Tied the MLB rookie record: HR in 5 straight games\n• First rookie with 10 HRs before May 1 — ever\n\n$34M for 2 years may be the steal of the decade.\n\n#WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-murakami-hr-11-white-sox-tied-mlb-lead.html",
+        "headline": "Munetaka Murakami Hits HR No. 11, White Sox Rookie Tied for MLB Lead With Alvarez",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murakami HR No. 11\n\n**Concept 1 — Social (1080x1350)**\n- **Search Terms:** Munetaka Murakami Chicago White Sox\n- **Caption overlay:** \"HR No. 11 — Tied for MLB Lead\"\n- **Mood:** Power, celebration, historic moment\n- **Status:** not_started\n\n**Concept 2 — Article Hero (1200x630)**\n- **Search Terms:** Munetaka Murakami Chicago White Sox\n- **Caption overlay:** None (article hero)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** José Ramírez at 33 — Why the Guardians' Legend Is Playing the Best Baseball of His Life",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "José Ramírez is 33. He leads MLB in stolen bases. ⚾\n\nHe also broke a 108-year-old franchise games played record, became the first Guardian to HR vs all 29 MLB teams, and won AL Player of the Week.\n\nHow is he still getting better?\n\n#Guardians #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#MLB"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 2-2",
+          "text": "In just April 2026, José Ramírez has: ⚾\n\n• Set a 108-year-old franchise games played record\n• Become the 1st Guardian to HR vs every MLB team\n• Collected 11 stolen bases — at age 33\n\nCleveland baseball is good right now. And Ramírez is the reason.\n\n#Guardians #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#MLB"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-jose-ramirez-guardians-feature-franchise-history.html",
+        "headline": "José Ramírez at 33 — How the Guardians' Legend Is Making Franchise History While Playing His Best Baseball",
+        "word_count": 669
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "José Ramírez Feature\n\n**Concept 3 — Social (1080x1350)**\n- **Search Terms:** Jose Ramirez Cleveland Guardians\n- **Caption overlay:** \"33 Years Old. Still the Best.\"\n- **Mood:** Veteran excellence, pride, franchise legacy\n- **Status:** not_started\n\n**Concept 4 — Article Hero (1200x630)**\n- **Search Terms:** Jose Ramirez Cleveland Guardians\n- **Caption overlay:** None (article hero)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Shohei Ohtani's Two-Way 2026 — Pitching at 0.50 ERA While Batting at an .854 OPS",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Shohei Ohtani: 2026 pitching stats ⚾\n\n2-0 record\n0.50 ERA\n18 strikeouts in 18 innings\n\nAnd then he goes back to batting .258 with an .854 OPS.\n\nThe Dodgers are 21-6. This is what a dynasty defending its title looks like.\n\n#Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-ohtani-two-way-2026-dodgers-pitching.html",
+        "headline": "Shohei Ohtani's Two-Way 2026: Pitching at 0.50 ERA While Batting Every Day — The Dodgers Are Doing It Again",
+        "word_count": 621
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ohtani Two-Way\n\n**Concept 5 — Social (1080x1350)**\n- **Search Terms:** Shohei Ohtani Los Angeles Dodgers\n- **Caption overlay:** \"0.50 ERA. .854 OPS. Both.\"\n- **Mood:** Dominance, uniqueness, otherworldly talent\n- **Status:** not_started\n\n**Concept 6 — Article Hero (1200x630)**\n- **Search Terms:** Shohei Ohtani Los Angeles Dodgers\n- **Caption overlay:** None (article hero)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Aaron Judge and the Yankees Host the Astros — AL's Best Team Has the Lineup to Prove It",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Aaron Judge has 9 home runs in 22 games. ⚾\n\n5 of them came in the first inning.\n\nHe's batting .450 with a 1.726 OPS in first-inning plate appearances.\n\nThe Yankees (16-9, AL-best) host the Astros this weekend. First-inning Judge is must-watch baseball.\n\n#Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-aaron-judge-yankees-first-inning-dominance-astros.html",
+        "headline": "Aaron Judge's First-Inning Dominance Is the Yankees' Secret Weapon — New York Hosts the Astros This Weekend",
+        "word_count": 671
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yankees/Judge\n\n**Concept 7 — Social (1080x1350)**\n- **Search Terms:** Aaron Judge New York Yankees\n- **Caption overlay:** \"9 HRs — 5 in the First Inning\"\n- **Mood:** Power, clutch, early-game dominance\n- **Status:** not_started\n\n**Concept 8 — Article Hero (1200x630)**\n- **Search Terms:** Aaron Judge New York Yankees\n- **Caption overlay:** None (article hero)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** NL Central: All 5 Teams Above .500 — Baseball Is Watching Something It's Never Seen Before",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Every team in the NL Central has a winning record. ⚾\n\nReds: 15-8 | Cubs: 13-9 | Cardinals: 13-9 | Pirates: 13-9 | Brewers: 12-9\n\nIn MLB history since 1969, no division has EVER finished with all teams over .500.\n\nWe may be watching that happen in real time.\n\n#MLB #NLCentral",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#NLCentral"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-nl-central-all-over-500-historic-2026.html",
+        "headline": "Every NL Central Team Has a Winning Record — Baseball Has Never Seen a Division Like This",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Central\n\n**Concept 9 — Social (1080x1350)**\n- **Search Terms:** NL Central baseball standings\n- **Caption overlay:** \"All 5 Teams Over .500 — Never Done Before\"\n- **Mood:** Historic, competitive, remarkable\n- **Status:** not_started\n\n**Concept 10 — Article Hero (1200x630)**\n- **Search Terms:** Cincinnati Reds baseball\n- **Caption overlay:** None (article hero)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** MLB's Surprising Early-Season Trends — Walk Rate Down, HR Pace Up, Astros Adjusted",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Through 25 MLB games in 2026: ⚾\n\nWalk rate is down. HR pace is up. Andy Pages leads MLB at .409 BA.\n\nThe Mets are 8-16. The Royals are struggling.\n\nEarly April tells you a lot. And 2026 is already telling a story.\n\n#MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Early-Season Trends\n\n**Concept 11 — Social (1080x1350)**\n- **Search Terms:** MLB baseball statistics scoreboard\n- **Caption overlay:** \"25 Games In — What the Numbers Say\"\n- **Mood:** Data-forward, analytical\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Dodgers Building a Dynasty — Back-to-Back Champions Are MLB's Best Team Again",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Through April 25, the Dodgers lead MLB in: ⚾\n\nHRs • BA • OBP • SLG • WHIP • Opponent BA\n\nThey're 21-6. They have Ohtani, Yamamoto, and Sasaki in the rotation.\n\nThe defending back-to-back World Series champions are the best team in baseball. Again.\n\n#Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dodgers Dynasty\n\n**Concept 12 — Social (1080x1350)**\n- **Search Terms:** Los Angeles Dodgers Shohei Ohtani\n- **Caption overlay:** \"21-6. Back-to-Back Champions. Again.\"\n- **Mood:** Dynasty, dominance, championship confidence\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified",
+      "Story 6: No Facebook posts found",
+      "Story 6: No posting window specified",
+      "Story 7: No Facebook posts found",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

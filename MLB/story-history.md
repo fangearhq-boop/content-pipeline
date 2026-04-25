@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-25
+
+### Story 1: Murakami HR No. 11 — Tied for MLB Lead With Alvarez
+- **Angle:** FOLLOW UP (April 24 Murakami 10 HRs/5-game streak story). Murakami hit his 11th HR in White Sox 5-4 win vs Nationals on April 24. Now tied with Yordan Alvarez for MLB HR lead. 11 HRs in 25 games most by Japanese-born player through 25 MLB games (passes Ohtani). Tied MLB rookie record with HR in 5 straight games. First rookie with 10 HRs before May 1 in MLB history. $34M/2-year deal looking like best contract in baseball.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Murakami HR pace, Alvarez-Murakami HR race, White Sox rebuild
+
+### Story 2: José Ramírez Feature — 33-Year-Old Making Franchise History
+- **Angle:** NEW STORY. Ramirez leads MLB in SBs (11) at age 33. Broke Guardians all-time games played record April 6 (1,620 games, breaking Terry Turner's 108-year-old mark). First Guardian to HR vs all 29 teams (April 11 vs Braves). Named AL Player of the Week. Guardians beat Blue Jays 8-6 April 24.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Guardians playoff positioning, Ramirez Hall of Fame case
+
+### Story 3: Ohtani Two-Way 2026 — 0.50 ERA While Batting Daily
+- **Angle:** FOLLOW UP (April 24 Ohtani OB streak story). Ohtani 2-0, 0.50 ERA, 18 Ks in 18 IP. Batting .258/.854 OPS. Dodgers 21-6 (MLB-best). Three consecutive Japanese-born starters (Sasaki/Ohtani/Yamamoto) — first in MLB history. Plan: 25 starts every 6-7 days. Dodgers lead MLB in WHIP (1.05), opponent BA (.193).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Ohtani next pitching start, Dodgers division lead, Japanese rotation performance
+
+### Story 4: Aaron Judge First-Inning Dominance — Yankees Host Astros
+- **Angle:** FOLLOW UP (April 23 Judge story). 9 HRs in 22 games, 5 in first inning. .450 BA, 1.726 OPS in first-inning PAs. Yankees 16-9 (AL-best) after sweeping Red Sox at Fenway April 21-23. Host Astros (Alvarez 11 HRs) this weekend. Yankees 11-3 when scoring first. On pace for 66 HRs.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Yankees-Astros series result, Judge HR pace, AL East race
+
+### Story 5: NL Central — All 5 Teams Over .500, Never Done in MLB Divisional Era
+- **Angle:** FOLLOW UP (April 24 NL Central story). All 5 NL Central teams over .500: Reds 15-8, Pirates/Cubs/Cardinals 13-9, Brewers 12-9. Cumulative 66-44 (.600). Never happened in MLB Divisional Era history (since 1969). The 2005 NL East was closest (all at .500 or better, not all winning).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** NL Central standings race through May, first team to lose winning record
+
+### Story 6: MLB Early-Season Trends — Walk Rate Down, HR Pace Up
+- **Angle:** NEW STORY. Walk rate down league-wide. HR pace up (Murakami, Alvarez, Judge on 50+ trajectories). Andy Pages leads MLB at .409 BA. Mets 8-16 after 12-game losing streak. Royals struggling early. Statistical context for the 2026 season's shape.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Monthly trend updates, Mets recovery, Royals reset
+
+### Story 7: Dodgers Dynasty — Back-to-Back Champions MLB's Best Again
+- **Angle:** FOLLOW UP (April 24 Power Rankings story). Dodgers 21-6 (best in MLB). Lead in HRs, BA, OBP, SLG, WHIP (1.05), opponent BA (.193). Ohtani 0.50 ERA. Sasaki new pitch. Yamamoto consistent. Three-Japanese-rotation making history. Defending back-to-back WS champions building toward third.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Dodgers NL West race, Ohtani two-way season arc
+
+---
+
 ## 2026-04-24
 
 ### Story 1: Yordan Alvarez Leads MLB in 8 Offensive Categories
