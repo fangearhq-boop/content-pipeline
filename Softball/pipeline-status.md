@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-25
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 1 char violation fixed before save: S1T1 284→238), FB posts (14), image concepts, image manifest, articles (5), fact-check (117 claims, 0 char violations after fix, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish attempted. Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Detached HEAD resolved via git checkout main + pull + cherry-pick skip (empty). 1 char violation (S1T1 284→238) fixed before save.
+
+## Previous Run
 - **Date**: 2026-04-24
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 3 char violations fixed before save), FB posts (14), image concepts, image manifest, articles (5), fact-check (112 claims, 0 char violations after fixes, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish attempted. Dashboard published to GitHub Pages.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -149,6 +156,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-25
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 117 claims. 1 char violation fixed (S1T1 284→238). 0 violations after fix. All stories present. IMAGE MISSING expected (not_started).
+- Dashboard: 28 items. Detached HEAD resolved (checkout main + pull + cherry-pick --skip). Dashboard published.
+- PostPlanner: ils-postplanner-2026-04-25.xlsx (9 posts), ils-postplanner-tobi-2026-04-25.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Wells HR No. 35 breaks OU program record (Alo 34), team sets NCAA HR record (165), 2 HRs from Espinoza all-time mark, OU 10-2 Georgia Game 2 today (P10); Francik no-hitter (2nd of 2026/3rd career) FSU 4-0 GTech Torres 2 HRs (4 HRs in 3 days), Game 2 tonight 5 PM ACCN (P9); Nebraska sweeps Iowa DH 9-1 5-2 program record crowd 3396 14-game streak 39-6 19-1 Big Ten series finale today 1 PM (P8); Alabama at Tennessee Game 1 today 3 PM CT 43-4 15-3 SEC vs 38-7 12-6 SEC — OU/Bama tied No. 1 seed race (P8); TTech at Arizona State final road series 45-4 Canady 18-3 national seed push (P7); WCWS 15 days May 10 selection show 64 teams 31 AQs tracked (P6); NFCA Week 12 OU-1 TTech-2 Bama-3 NEB-4 Week 13 drops Monday (P6)
+- Notes: 1 tweet char violation caught by verify-facts and fixed. Detached HEAD from publish-dashboard resolved via git checkout main + pull + cherry-pick --skip.
 
 ### 2026-04-24
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)

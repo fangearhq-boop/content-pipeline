@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 25, 2026
+
+### Story 1: Kendall Wells HR No. 35 / OU Sets NCAA Team HR Record
+- **Angle:** FOLLOW UP (April 24 Wells/OU-Georgia series story). Wells hit her 35th HR in Game 1 (April 24), breaking the OU program record (Alo, 34) AND pushing team to 165 HRs (new NCAA single-season team record). OU beat Georgia 10-2. Gabbie Garcia 6 RBI. Wells needs 2 more to tie Espinoza's all-time mark (37, Arizona, 1995). Game 2 today at 1:30 PM ESP+.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Wells HR 36-37; all-time record tie/break; OU-Georgia series result
+
+### Story 2: Jazzy Francik No-Hitter / Isa Torres 4 HRs in 3 Days
+- **Angle:** NEW STORY. Francik threw her 2nd no-hitter of 2026 (3rd career) in FSU's 4-0 win vs Georgia Tech on April 24. Torres hit 2 HRs (including leadoff blast off Madalyn Johnson) — her second multi-HR game of the week (she also hit 2 vs Florida on Wednesday). FSU 41-7, 16-3 ACC. Game 2 today at 5 PM ACCN.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** FSU series result, Francik 2026 no-hitter stats, Torres BA/HR totals, national seed positioning
+
+### Story 3: Nebraska Sweeps Iowa Doubleheader — 14-Game Win Streak, Program Record Crowd
+- **Angle:** FOLLOW UP (April 24 Nebraska DH story). Nebraska swept Iowa 9-1, 5-2 on April 24. Program-record crowd 3,396 at Bowlin Stadium. Now 39-6, 19-1 Big Ten, 14-game win streak. Series finale today at 1 PM CT B1G+. Win No. 40 within reach.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Nebraska series finale result, 40-win milestone, national seed confirmation
+
+### Story 4: Alabama at Tennessee — Penultimate SEC Weekend
+- **Angle:** NEW STORY. No. 3/2 Alabama (43-4, 15-3 SEC) at No. 8/9 Tennessee (38-7, 12-6 SEC). Game 1 today at 3 PM CT. Alabama and OU tied 15-3 in SEC — SEC Tournament No. 1 seed race. Tennessee on home turf. Games 2-3 Sunday/Monday ESPN2/SECN.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Alabama-Tennessee series result, SEC seed race final picture
+
+### Story 5: Texas Tech at Arizona State — Final Road Series
+- **Angle:** NEW STORY. No. 2/5 TTech (45-4, 17-2 Big 12) at No. 24/RV Arizona State (35-13, 8-10 Big 12). Red Raiders' final road series of regular season. Canady 18-3, 1.29 ERA. National seed positioning at stake.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** TTech series result, national seed positioning, Big 12 Tournament
+
+### Story 6: WCWS Countdown — 15 Days to Selection Show
+- **Angle:** FOLLOW UP (April 24 WCWS 16-day story). 15 days to May 10 selection show (7 PM ET ESPN2). 64 teams, 31 AQ bids tracked. Regionals May 15. WCWS May 28 Devon Park OKC. Today's games shaping the bracket.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Selection show May 10
+
+### Story 7: NFCA Week 12 Poll Context / Week 13 Preview
+- **Angle:** FOLLOW UP (April 24 Power 10/NFCA standings story). NFCA Week 12 (April 21): OU No. 1 (12 FPVs), TTech No. 2 (4 FPVs), Alabama No. 3 (7 FPVs), Nebraska No. 4 (program history). Week 13 drops April 28. This weekend's results could shake top 4.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** NFCA Week 13 poll April 28
+
+---
+
 ## April 24, 2026
 
 ### Story 1: Kendall Wells / OU Opens Georgia Series — HR Record Chase
