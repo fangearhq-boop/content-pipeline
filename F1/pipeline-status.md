@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-24
+- **Date**: 2026-04-25
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-25
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters (Story 3 tweet 1 fixed from 286→275 chars)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5 — RB22 upgrade, Verstappen exit clause, Ferrari SF-26 overhaul, Miami preview, Williams weight — pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-25.xlsx (8 posts) + f1fr-postplanner-tobi-2026-04-25.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-25/review-dashboard.html (28 items)
+- **Notes:** Red Bull RB22 major upgrade tested at Silverstone filming day (April 22): new floor, reworked sidepods (acute angle), new front wing, Macarena rear wing (Ferrari-inspired); Mekies "car where drivers can push again" + caution it's not a "miracle"; +5-10 km/h top speed est (MEDIUM); RBR 6th/16pts, Verstappen P9/12pts. Verstappen exit clause: reportedly activates if not top-2 by summer; van der Garde: leaves before Lambiase; Brown confirmed early Lambiase release talks (GPFans); Verstappen "quit when Lambiase leaves"; Lambiase with Verstappen since 2016/4 titles. Ferrari Miami SF-26 overhaul: new floor, aero, Macarena wing full debut; Monza test April 22-23, Leclerc+Hamilton positive; ~50% redesigned (MEDIUM); Ferrari 90 pts, 45 behind Mercedes. Miami Sprint preview: May 1-3; Antonelli 72/Russell 63 (9-pt gap); youngest leader; FP1 90 min; FIA rules effective. Williams weight: reportedly 26-30kg over min (MEDIUM); Vowles "slimming program" (HIGH); Ralf "biggest flop" (HIGH); 0 pts.
+- **Fact concerns:** Silverstone filming day/upgrades HIGH (GPFans, ReadMotorsport, GPBlog). Macarena wing HIGH (multiple). Mekies quote HIGH. +5-10 km/h MEDIUM (technical estimate). Exit clause activates MEDIUM (reported, not official). Lambiase to McLaren HIGH (Formula1.com official). Brown talks HIGH (GPFans). Van der Garde prediction HIGH (RacingNews365). Verstappen "quit" quote HIGH (Sky Sports). Lambiase since 2016 HIGH (Formula1.com). Ferrari upgrade HIGH (ScuderiaFans, TJ13, multiple). ~50% redesigned MEDIUM (analyst). Monza test HIGH. Leclerc/Hamilton positive HIGH. Mercedes 135/Ferrari 90 HIGH (from prior pipeline). Williams weight 26-30kg MEDIUM (reported). Vowles "slimming" HIGH. Ralf quote HIGH. 0 pts HIGH.
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, consistent with all previous runs)
 
 ### 2026-04-24
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

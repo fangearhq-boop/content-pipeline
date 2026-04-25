@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-25
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Red Bull RB22 Miami upgrade — new floor, sidepods, front wing, Macarena rear wing; Verstappen tested at Silverstone; Mekies "car where drivers can push"; +5-10 km/h top speed est; RBR 6th/16pts | 1 | FOLLOW-UP (RB22 "terrible" April 24; Silverstone test April 23) |
+| 2 | Verstappen exit clause — reportedly activates if not top-2 by summer (currently P9); van der Garde: leaves before Lambiase; McLaren's Brown talks for early Lambiase release; Verstappen "quit when Lambiase leaves" | 1 | FOLLOW-UP (Lambiase to McLaren announced April 23) |
+| 3 | Ferrari Miami SF-26 overhaul — ~50% redesigned; new floor, aero package, Macarena wing full debut; Monza test positive; Ferrari 45 pts behind Mercedes | 1 | FOLLOW-UP (Ferrari Monza filming day April 22-23) |
+| 4 | Miami Sprint Weekend preview — Round 5, May 1-3; Antonelli 72 Russell 63 (9-pt gap); FP1 extended 90 min; FIA rules effective; McLaren upgrades | 2 | NEW STORY |
+| 5 | Williams FW48 "slimming program" — reportedly 26-30kg over 768kg min; Vowles program during break; Ralf "biggest flop"; 0 pts in 3 races | 2 | FOLLOW-UP (Williams weight reported April 24) |
+
+### STORY 1: Red Bull Macarena Upgrade — Miami RB22 Overhaul
+- **Tier:** 1
+- **Category:** Technical Analysis / Team Update
+- **Key facts:** Verstappen tested updated RB22 at Silverstone filming day April 22. New floor, reworked sidepods (acute angle), new front wing, Macarena rear wing (Ferrari-inspired). Estimated +5-10 km/h top speed (MEDIUM). Mekies: "car where drivers can push again." Caution: not a "miracle." RBR 6th/16 pts. Verstappen 9th/12 pts.
+
+### STORY 2: Verstappen Exit Clause / Lambiase McLaren Drama
+- **Tier:** 1
+- **Category:** Driver News / Team Drama
+- **Key facts:** Exit clause reportedly activates if not top-2 by summer (MEDIUM — reported, not official). Verstappen P9. Lambiase to McLaren 2028 (official). Brown confirmed early-release talks (GPFans). Van der Garde: Verstappen leaves Red Bull before Lambiase. Verstappen said "quit when Lambiase leaves." Lambiase: Verstappen's engineer since 2016, all 4 titles.
+
+### STORY 3: Ferrari Major Miami SF-26 Upgrade
+- **Tier:** 1
+- **Category:** Technical Analysis / Team Update
+- **Key facts:** Major SF-26 upgrade for Miami: revised lighter floor, new aero package, Macarena rear wing full competitive debut. Tested at Monza (April 22-23). Leclerc+Hamilton positive feedback. ~50% car redesigned (MEDIUM — analyst description). Ferrari 90 pts, Mercedes 135 (45-pt gap). Vasseur: "reset" moment.
+
+### STORY 4: Miami Sprint Weekend Preview
+- **Tier:** 2
+- **Category:** Race Preview / Championship
+- **Key facts:** Miami GP Sprint weekend May 1-3. Race May 3 4 PM ET. Antonelli 72 pts, Russell 63 pts (9-pt gap). Youngest championship leader (19y 216d). FP1 extended to 90 min. FIA rule changes effective: super-clip 250→350kW, recharge 8→7MJ. McLaren upgrades arriving. Mercedes won all 3 races. Constructors: Mercedes 135, Ferrari 90, McLaren 56, RBR 16.
+
+### STORY 5: Williams Weight Crisis — "Slimming Program"
+- **Tier:** 2
+- **Category:** Team News / Technical
+- **Key facts:** FW48 reportedly 26-30kg over 768kg minimum (MEDIUM — reported). Vowles "slimming program" during April break (HIGH — Sky Sports). Ralf Schumacher: "biggest flop of 2026" (HIGH). Williams 0 pts. Aston Martin 0 pts. Mercedes ~0.4kg over (MEDIUM). Ferrari ~2kg over (MEDIUM).
+
+---
+
 ## 2026-04-24
 
 | # | Story | Tier | Tag |
