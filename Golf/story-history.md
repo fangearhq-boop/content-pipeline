@@ -6,6 +6,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-04-26 | T1 | Korda leads Chevron Championship by 5 entering final round (-16 over Tavatanakit -11, Yin/Roussin-Bouchard -10, Yoon -8); seeking 3rd major (won Chevron 2021, USWO 2024); Memorial Park Houston; $9M purse | X, FB, Article | FOLLOW-UP — final round preview |
+| 2026-04-26 | T1 | Fitzpatrick brothers 4-shot lead entering Zurich Classic final round (30-under); R3 tournament-record 57 (15-under better ball); Smalley/Springer and Thompson/Eckroat T2 at -26; Ghim/Kang -25; foursomes final round; Matt World No. 3 | X, FB, Article | FOLLOW-UP — final round preview |
+| 2026-04-26 | T1 | Korda third major legacy — career context: Chevron 2021, USWO 2024; seeking 3rd major at 27; back-to-back bogey-free 65s; World No. 1; LPGA dominant era career analysis | X, FB, Article | FOLLOW-UP — player feature/legacy |
+| 2026-04-26 | T2 | Zurich Classic foursomes final round preview — can Smalley/Springer or Thompson/Eckroat (4 back) catch Fitzpatricks in alt shot? Ghim/Kang 5 back; format analysis | X, FB, Article | FOLLOW-UP — format/race preview |
+| 2026-04-26 | T2 | LIV Virginia preview (May 8-10) — Rahm hot (Mexico City: 7-under 64, 6-shot win); Niemann defending individual; Crushers GC defending team; Ripper GC leads 2026 standings 89.75pts; 4Aces 88pts; Legion XIII 3rd | X, FB, Article | FOLLOW-UP — LIV event preview |
+|------|------|-------|-----------|-------|
 | 2026-04-25 | T1 | Korda back-to-back 65s, Chevron Championship lead grows to 7 — two rounds of 65 each, -14 total, 7-shot lead over Tavatanakit and Somi Lee at -7; bogey-free both rounds; seeking 3rd major title; Memorial Park Houston; $9M purse | X, FB, Article | FOLLOW-UP — R2 results |
 | 2026-04-25 | T1 | Fitzpatrick brothers shoot 65 alternate shot, T2 Zurich Classic — 7-under 65 (6 birdies + eagle, 1 bogey); climbed from -8 to -15; 1 back of Smalley/Springer at -16; Matt chip-in eagle on 18th to close; Matt World No. 3 won RBC Heritage last week | X, FB, Article | FOLLOW-UP — R2 results |
 | 2026-04-25 | T1 | Koepka and Lowry miss Zurich Classic cut by 1 — finished -9 (cut -10); Friday alt shot: 5 birdies but bogeys on par-3 holes 3 and 17 cost them; Thursday best ball: Koepka 1 birdie, Lowry 5 birdies front 9 stalled; pairing formed at Grove XXIII Hobe Sound FL | X, FB, Article | FOLLOW-UP — missed cut |

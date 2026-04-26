@@ -3,7 +3,28 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-25)
+## Current Pipeline (2026-04-26)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-26 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-26 |
+| Fact-check | Complete (verify-facts.py — 18 claims, 30 HIGH confidence; tweet fixes applied) | 2026-04-26 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-26 |
+| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-04-26 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-26 |
+| Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent with all previous runs) | 2026-04-26 |
+| Git | Committed and pushed to main | 2026-04-26 |
+
+## Notes (2026-04-26)
+- 5 stories: Korda leads Chevron by 5 entering final round (-16 over Tavatanakit -11, Yin/Roussin-Bouchard -10, Yoon -8; seeking 3rd major: Chevron 2021 + USWO 2024; Memorial Park Houston; $9M purse — T1); Fitzpatrick brothers 4-shot lead entering Zurich Classic final round (30-under after R3 tournament-record 15-under 57 in fourball; Smalley/Springer + Thompson/Eckroat T2 at -26; Ghim/Kang -25; final round foursomes; Matt World No. 3 — T1); Korda career legacy/third major analysis (career context, bogey-free record, LPGA dominance — T1); Zurich Classic foursomes final round preview (format analysis, who can catch Fitzpatricks — T2); LIV Virginia preview May 8-10 (Rahm hot from Mexico City 6-shot win; Niemann defending individual; Crushers defending team; Ripper GC leads 2026 standings 89.75pts — T2)
+- Pen names: Marcus Cole (articles 1, 4), Jake Torres (articles 2, 5), Ryan Calloway (article 3)
+- X posts: 8 total, all under 280 characters (2 tweets on Story 2 required fix — initial versions 290 and 306 chars, corrected to 222 and 233)
+- Fact concerns: Korda -16 lead HIGH (LPGA.com). Tavatanakit -11 HIGH (LPGA.com). Yin/Roussin-Bouchard -10 HIGH. Yoon -8 HIGH. Korda bogey-free 2 rounds HIGH (prior pipeline, CBS Sports). Korda won Chevron 2021 HIGH. Korda won USWO 2024 HIGH. Fitzpatricks 30-under 4-shot lead HIGH. R3 57 tournament record HIGH (WaPo, PGA Tour, CBS Sports, Golfmagic, multiple). Smalley/Springer + Thompson/Eckroat 26-under HIGH (CBS Sports). Ghim/Kang 25-under HIGH. Final round foursomes HIGH. Matt World No. 3 HIGH. Rahm Mexico City win (7-under 64, 6 shots) HIGH (prior pipeline, multiple). Niemann defending Virginia HIGH. Crushers GC defending team Virginia HIGH. Ripper GC leads 89.75pts HIGH (LIV Golf standings search). 4Aces 88pts HIGH.
+- WordPress publish: Failed — egress proxy blocks access (Host not in allowlist, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+## Previous Pipeline (2026-04-25)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
