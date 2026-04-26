@@ -1,8 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-25
+- **Date**: 2026-04-26
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+<!-- Append newest at top -->
+
+### 2026-04-26
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5 — Hamilton/Leclerc Monza test, RB22 second launch, Antonelli youngest leader, Miami preview, Norris returns — pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-26.xlsx (8 posts) + f1fr-postplanner-tobi-2026-04-26.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-26/review-dashboard.html (28 items)
+- **Notes:** Hamilton 15 laps/1:26.585, Leclerc 19 laps — Hamilton faster in Ferrari Monza test. Red Bull "second season launch" confirmed — Silverstone filming day April 25; new floor/sidepods/front wing/Macarena wing; Mekies quote; Verstappen 9th/12pts/0 wins/Q3 miss Suzuka first since 2015. Antonelli youngest F1 championship leader (72pts); broke Hamilton 2007 Spanish GP record; won China+Japan; Mercedes 3/3 races. Miami Sprint weekend May 1-3; FP1 90 min; super-clip 250→350kW; all teams with upgrades. Norris returns to Miami (won 2024 maiden win); McLaren 5th/56pts; upgrades planned.
+- **Fact concerns:** Hamilton 1:26.585 HIGH (Sport Bible). Leclerc 19 laps HIGH. Hamilton faster HIGH. Both positive HIGH. Leclerc 3rd/49 HIGH. Hamilton 4th/41 HIGH. Silverstone test HIGH (multiple). Upgrade parts HIGH (multiple). Mekies "second season launch" HIGH. +5-10 km/h MEDIUM (estimate). Verstappen 9th/12pts HIGH. 0 wins HIGH. Q3 miss Suzuka first since 2015 HIGH. Antonelli 72pts HIGH. Russell 63pts HIGH. Hamilton record 2007 Spanish GP HIGH. Antonelli won China+Japan HIGH. Mercedes 3/3 HIGH. Miami Sprint May 1-3 HIGH. FP1 90 min HIGH. Super-clip change HIGH. Norris 2024 Miami win HIGH. 110-race drought HIGH. McLaren 2025 champion HIGH. McLaren upgrades planned HIGH.
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, consistent with all previous runs)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->

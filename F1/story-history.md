@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-26
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Hamilton faster than Leclerc at Monza filming day — 15 laps, 1:26.585; Leclerc 19 laps; both positive; Ferrari Miami upgrade package test; Hamilton 4th/41pts, Leclerc 3rd/49pts | 1 | FOLLOW-UP (Ferrari SF-26 overhaul announced April 25) |
+| 2 | Red Bull "second season launch" — Silverstone filming day April 25; new floor, sidepods, front wing, Macarena wing; Mekies quote; Verstappen 9th/12pts; RBR 6th/16pts, 0 wins; Q3 miss Suzuka | 1 | FOLLOW-UP (RB22 crisis / Silverstone test April 25) |
+| 3 | Antonelli youngest F1 championship leader ever — 72 pts, 9-pt lead over Russell; broke Hamilton 2007 Spanish GP record (22y 5m 6d); won China + Japan; Mercedes won all 3 races | 1 | FOLLOW-UP (standings finalized after Japan GP) |
+| 4 | Miami GP final preview — Sprint weekend May 1-3; race May 3 4PM ET; 5-week break; FP1 90 min; super-clip 250→350kW; all major teams with upgrades; full championship standings | 2 | FOLLOW-UP (Miami preview) |
+| 5 | Norris returns to Miami — won 2024 Miami GP (maiden win, 110-race drought); Norris 5th/25pts; McLaren 3rd constructors'/56pts; upgrades planned Miami + Montreal | 2 | NEW STORY |
+
+### STORY 1: Hamilton Faster Than Leclerc — Ferrari Monza Test
+- **Tier:** 1
+- **Category:** Driver News / Team Dynamics
+- **Key facts:** Hamilton: 15 laps, 1:26.585 (HIGH — Sport Bible). Leclerc: 19 laps (HIGH). Hamilton faster overall. Both positive feedback. Ferrari Monza filming day for Miami upgrade package. Leclerc 3rd/49pts. Hamilton 4th/41pts. Ferrari 45 pts behind Mercedes constructors'.
+
+### STORY 2: Red Bull "Second Season Launch" — RB22 Miami Overhaul
+- **Tier:** 1
+- **Category:** Technical Analysis / Race Preview
+- **Key facts:** Verstappen tested at Silverstone filming day April 25 (HIGH). New floor, reworked sidepods, revised front wing, two Halo winglets, Macarena wing (HIGH — multiple). Mekies "second season launch" (HIGH). +5-10 km/h top speed est (MEDIUM). Verstappen 9th/12pts, RBR 6th/16pts, 0 wins. Q3 miss Suzuka first since 2015 rookie season.
+
+### STORY 3: Antonelli — Youngest F1 Championship Leader Ever
+- **Tier:** 1
+- **Category:** Championship Analysis / Driver Feature
+- **Key facts:** Antonelli 72 pts, Russell 63 pts, 9-pt gap (HIGH). Broke Hamilton's record: youngest championship leader, Hamilton set at 2007 Spanish GP (22y 5m 6d) (HIGH — Sky Sports, Racing News 365). Won China and Japan consecutively (HIGH). Mercedes won all 3 races (HIGH).
+
+### STORY 4: Miami GP Final Preview
+- **Tier:** 2
+- **Category:** Race Preview / Championship
+- **Key facts:** Sprint weekend May 1-3; race May 3 4PM ET (HIGH). 5-week break (Bahrain + Saudi cancelled) (HIGH). FP1 90 min (HIGH). Super-clip 250→350kW; recharge 8→7MJ (HIGH). Championship: Antonelli 72, Russell 63, Leclerc 49, Hamilton 41, Norris 25, Piastri 21 (HIGH). Constructors: Mercedes 135, Ferrari 90, McLaren 56, RBR 16 (HIGH).
+
+### STORY 5: Norris Returns to Miami
+- **Tier:** 2
+- **Category:** Driver Feature / Race Preview
+- **Key facts:** Norris won 2024 Miami GP (maiden F1 win, 110-race drought) (HIGH). Norris 5th/25pts (HIGH). McLaren 3rd constructors'/56pts (HIGH). McLaren 2025 constructors' champion (HIGH). McLaren upgrades planned Miami + Montreal (HIGH).
+
+---
+
 ## 2026-04-25
 
 | # | Story | Tier | Tag |
