@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 25, 2026
+## Latest Run: April 26, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC.gov (Blossom Blanks, Silks, Andy & Evan sleepwear recalls April 2026); D49.org (2026 graduation schedule — City Hub May 15, Broadmoor World Arena May 23); VisitCOS + Royal Gorge Route Railroad + Gather Mountain Blooms + Colorado Wolf and Wildlife Center + The Broadmoor (Mother's Day COS guide May 10); KOAA + Eventbrite + rockymountainhighway.org (MeadowGrass Music Festival May 22-24, Black Forest); Touch-A-Truck event (May 16 at 1045 Lower Gold Camp Rd) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 24+25 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging, sources noted |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; 1 char fix applied (Story 1 tweet A: 285→258 chars, removed parenthetical size ranges); all verified under 280 chars; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; no hashtags; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 85 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 10 images |
+| Dashboard | COMPLETE | review-dashboard.html (25 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-26.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-04-26.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-26)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 (D49 Graduation 2026 schedule) | 1-2 |
+| Local Events | 3 (Mother's Day COS Guide; MeadowGrass Music Festival; Touch-A-Truck May 16) | 1-2 |
+| National Parenting | 1 (CPSC Sleepwear Recall — Blossom Blanks, Silks, Andy & Evan) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 25, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -660,6 +693,21 @@
 | 2026-02-22 | 7 | X + FB | Complete |
 
 ## Pipeline Run Log
+
+### 2026-04-26 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jenna Park [sleepwear recall], Sofia Reyes [D49 graduation], Keisha Williams [Mother's Day guide], Marcus Rivera [MeadowGrass], Marta Kim [Touch-A-Truck])
+- **PostPlanner exports:** cosp-postplanner-2026-04-26.xlsx (5 posts), cosp-postplanner-tobi-2026-04-26.xlsx (5 TOBI posts)
+- **Coverage:** CPSC sleepwear recall wave (Blossom Blanks ~630 loungewear sets 12M-12Y Sept 2023-May 2025; Silks 2T-13/14 $40-$50 Jan 2024-Sept 2025; Andy & Evan pajama sets — all violate federal flammability standards; no injuries; full refund via email + photo of destroyed garment); D49 2026 graduation schedule (May 15 at COS City Hub — PPEC 8:30 AM, Springs Studio 11:30 AM, Patriot 3 PM; May 23 at Broadmoor World Arena — Sand Creek 9 AM, Falcon 1 PM, Vista Ridge 5 PM; Liberty Tree/Banning Lewis/Power Technical TBD); Mother's Day COS guide May 10 (Royal Gorge Route Railroad May 9-10, Gather Mountain Blooms $50/$40 May 9-10, Colorado Wolf and Wildlife Center $40/$20 May 10, Broadmoor Hall Brunch $135/$50 May 10); MeadowGrass Music Festival May 22-24 La Foret Black Forest (kids 12 and under free, Faricy Boys Kid Zone, headliners Kyle Hollingsworth Band + Nershi Hann Trio + ALO + Shook Twins, camping available); Touch-A-Truck May 16 9:30 AM at 1045 Lower Gold Camp Rd (free, no registration)
+- **Notes:**
+  - Story 1 tweet A was 285 chars on first verify-facts.py run; fixed by removing parenthetical size ranges from tweet body (285→258 chars); verify-facts.py passed on second run
+  - Image manifest warnings are cosmetic (not_started is expected at this stage)
+  - WordPress proxy error: same environment restriction as all prior runs (Host not in allowlist)
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - compile-content-data.py "no log found" warning is cosmetic (known issue from all prior runs)
+  - posting window warnings in compile are cosmetic (posting windows defined in story analysis; compile looks in daily brief)
 
 ### 2026-04-24 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

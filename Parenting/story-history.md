@@ -2,6 +2,50 @@
 
 ---
 
+## April 26, 2026
+
+### Story 1: CPSC Children's Sleepwear Recall — Blossom Blanks, Silks, Andy & Evan
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC recall wave: Blossom Blanks LLC ~630 loungewear sets sizes 12M-12Y sold Sept 2023-May 2025; Silks 2-piece sets sizes 2T-13/14 sold Jan 2024-Sept 2025 for $40-$50; Andy & Evan pajama sets — all violate mandatory flammability standards; burn hazard; stop use, cut in half, photograph, email brand for full refund; cpsc.gov)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Blossom Blanks: ~630 units, 12M-12Y, Sept 2023-May 2025, sales@blossomocc.com; Silks: 2T-13/14, $40-$50, Jan 2024-Sept 2025, silkssupport@silksdesign.com; Andy & Evan: contact brand directly; no injuries reported; remedy: cut in half + photo + email
+- **Follow-Up Opportunities:** Broader children's sleepwear safety guide; how to check pajama labels for compliance
+
+### Story 2: D49 Graduation 2026 — Full Schedule Released
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 released 2026 graduation schedule: May 15 at COS City Hub (4304 Austin Bluffs Pkwy) — PPEC 8:30 AM, Springs Studio 11:30 AM, Patriot Applied Learning 3 PM; May 23 at Broadmoor World Arena (3185 Venetucci Blvd) — Sand Creek 9 AM, Falcon 1 PM, Vista Ridge 5 PM; Liberty Tree Academy, Banning Lewis Prep, Power Technical Early Colleges TBD; d49.org)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 15 venue: COS City Hub, 4304 Austin Bluffs Pkwy; May 23 venue: Broadmoor World Arena, 3185 Venetucci Blvd; 3 programs still TBD (Liberty Tree, Banning Lewis, Power Technical); d49.org for updates
+- **Follow-Up Opportunities:** TBD ceremony date announcements for remaining 3 programs; graduation restaurant reservation roundup
+
+### Story 3: Mother's Day 2026 COS — 4 Family-Friendly Plans
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Mother's Day May 10; 4 COS-area options: Royal Gorge Route Railroad May 9-10 (9 AM-6:30 PM, multiple departures, Canon City); Gather Mountain Blooms Garden Party May 9-10 10 AM-12:30 PM ($50 adult/$40 child 12 and under); Colorado Wolf and Wildlife Center May 10 9-11 AM ($40 ages 12+/$20 kids 6-11, Divide); Broadmoor Hall Brunch May 10 10 AM-3 PM ($135 adult/$50 child, reservations required))
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Mother's Day: May 10, 2026; Royal Gorge RR: Canon City, ~45 min from COS; Gather Mountain Blooms: $50/$40 child; Wolf Center: Divide, ~30 min NW of COS, $40/$20; Broadmoor Hall: $135/$50, reservations required
+- **Follow-Up Opportunities:** Free outdoor Mother's Day options roundup; post-event recap
+
+### Story 4: MeadowGrass Music Festival 2026 — Kids Under 12 Free, Memorial Day Weekend
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (17th annual MeadowGrass Music Festival May 22-24, 2026 at La Foret Conference and Retreat Center, Black Forest; kids 12 and under free with paid adult; Faricy Boys Kid Zone (bubbles, crafts, hay wagon, yoga, art); headliners Kyle Hollingsworth Band, Nershi Hann Trio, ALO, Shook Twins; camping in Ponderosa Forest; Lapp Lodge 15 rooms; tickets at eventbrite.com and rockymountainhighway.org)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Dates: May 22-24, 2026; Venue: La Foret, Black Forest (~20-25 min from COS); Kids: 12 and under free with paid adult; Headliners: Kyle Hollingsworth Band, Nershi Hann Trio, ALO, Shook Twins; Tickets: eventbrite.com + rockymountainhighway.org
+- **Follow-Up Opportunities:** Post-festival recap; camping tips for first-timers at La Foret
+
+### Story 5: Touch-A-Truck May 16 — Free Family Event at 1045 Lower Gold Camp Rd
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Touch-A-Truck free family event Saturday May 16, 2026 at 9:30 AM at 1045 Lower Gold Camp Rd, Colorado Springs; kids climb into fire trucks, construction vehicles, police cars; no tickets, no registration; ear protection recommended; best for toddlers through early elementary)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Date: Saturday, May 16, 2026; Time: 9:30 AM; Location: 1045 Lower Gold Camp Rd, Colorado Springs; Admission: Free; No tickets or registration required
+- **Follow-Up Opportunities:** Post-event photo recap; other free COS family summer events roundup
+
+---
+
 ## April 24, 2026
 
 ### Story 1: CPSC Recalls — Wiifo Children's Tower Stool + HappyGira Baby Lounger
