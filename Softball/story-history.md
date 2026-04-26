@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 26, 2026
+
+### Story 1: Kendall Wells HR No. 36 / OU Sweeps Georgia
+- **Angle:** FOLLOW UP (April 25 Wells/OU series story). Wells hit HR #36 in OU's 3-1 series-clinching win over No. 12 Georgia on April 26. OU sweeps the series. Now 45-6, 17-3 SEC. Guachino wins (13-1). Wells ONE home run from tying Espinoza's all-time NCAA record (37, Arizona, 1995). Two-run shot opened scoring; Ellison RBI single closed gap; solo shot in third extended lead.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Wells HR #37 tying all-time record; record-breaking HR #38; SEC Tournament No. 1 seed
+
+### Story 2: Alabama 12-0 Tennessee / SEC No. 1 Seed Race
+- **Angle:** NEW STORY. Alabama run-ruled Tennessee 12-0 in five innings Saturday on Senior Night — first time TN was run-ruled all season. Briski CG shutout. Pickens chased in 2.2 IP. Alabama leads series 1-0, Game 2 today at 3 PM CT ESPN2. Alabama 44-4, 16-3 SEC — one game behind OU (45-6, 17-3 SEC).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Alabama-Tennessee series result; SEC No. 1 seed race final picture; SEC Tournament seeding
+
+### Story 3: FSU Sweeps Georgia Tech / Torres Powers Series Win
+- **Angle:** FOLLOW UP (April 25 FSU-Georgia Tech series story). FSU wins Game 3 at Georgia Tech April 26 with Torres hitting 2 HRs — her third multi-HR game this week (also vs Florida Thursday, vs GTech Friday). FSU sweeps the series, builds national seed case.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** FSU national seed positioning; ACC Tournament; Torres final stats
+
+### Story 4: Texas Tech Wins Series at Arizona State
+- **Angle:** FOLLOW UP (April 25 TTech-ASU series story). TTech clinches series at Arizona State. Canady dominant (9 Ks, 3 ER). Red Raiders 9-1 on road in Big 12 play. Marching toward Big 12 title and No. 2 national seed.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Big 12 title clinch; TTech national seed; WCWS seeding
+
+### Story 5: Nebraska's Sunday Game Cancelled / Huskers Still 39-6
+- **Angle:** NEW STORY. Sunday series finale vs Iowa cancelled due to severe weather. Nebraska had already swept Friday DH 9-1, 5-2. 39-6, 19-1 Big Ten, 14-game win streak. Program-record crowd 3,396 watched Friday DH.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Win No. 40; Big Ten title clinch; national seed announcement May 10
+
+### Story 6: WCWS Countdown — 14 Days to May 10 Selection Show
+- **Angle:** FOLLOW UP (April 25 WCWS countdown). 14 days to May 10 selection show (7 PM ET ESPN2). 64 teams, 31 AQ bids. 32-team seeding new for 2026. Regionals May 15. WCWS May 28 Devon Park OKC.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Selection show May 10
+
+### Story 7: Wells All-Time Record Chase / NFCA Week 13 Preview
+- **Angle:** FOLLOW UP. Wells at 36 HRs, one from tying Espinoza all-time record (37). NFCA Week 13 drops Monday April 28. OU No. 1 expected to hold; TTech-Alabama No. 2/3 battle ongoing.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** NFCA Week 13 Monday; Wells HR No. 37 watch
+
+---
+
 ## April 25, 2026
 
 ### Story 1: Kendall Wells HR No. 35 / OU Sets NCAA Team HR Record

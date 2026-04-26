@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-26
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (14), image concepts, image manifest, articles (5), fact-check (67 claims, 0 char violations, consistency warnings for S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Non-fast-forward push resolved via git checkout main + pull + cherry-pick. S6/S7 not in image-concepts (Tier 3 social-only — expected). 0 char violations.
+
+## Previous Run
 - **Date**: 2026-04-25
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 1 char violation fixed before save: S1T1 284→238), FB posts (14), image concepts, image manifest, articles (5), fact-check (117 claims, 0 char violations after fix, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish attempted. Dashboard published to GitHub Pages.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -156,6 +163,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-26
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 67 claims. 0 char violations. S6/S7 not in image-concepts (Tier 3 social-only — expected). IMAGE MISSING expected (not_started).
+- Dashboard: 26 items. Non-fast-forward resolved (checkout main + pull + cherry-pick). Dashboard published.
+- PostPlanner: ils-postplanner-2026-04-26.xlsx (9 posts), ils-postplanner-tobi-2026-04-26.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Wells HR No. 36 one from tying Espinoza all-time record (37), OU sweeps Georgia 3-1 series clincher now 45-6 17-3 SEC (P10); Alabama 12-0 TN run-rule first TN run-rule of 2026 Briski CG shutout Pickens chased 2.2 IP Alabama leads series 1-0 Game 2 today 3 PM ESPN2 44-4 16-3 SEC (P10); FSU sweeps GTech Torres 2 HRs (3rd multi-HR game this week) FSU national seed case (P8); TTech series win at ASU Canady 9Ks dominates Big 12 title march (P8); Nebraska Sunday game cancelled weather but 39-6 19-1 Big Ten 14-game streak intact (P7); WCWS 14 days May 10 selection show 32-team seeding new (P6); Wells all-time record one away NFCA Week 13 drops Monday April 28 (P6)
+- Notes: 0 tweet char violations. FB posts compile to 0 (heading format — known, dashboard uses markdown fallback). Non-fast-forward push resolved via checkout main + pull + cherry-pick.
 
 ### 2026-04-25
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
