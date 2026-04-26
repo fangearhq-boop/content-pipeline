@@ -1,6 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-26
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (14), image concepts, image manifest, articles (5), fact-check (27 claims, 0 char violations, S6/S7 missing image-concepts — expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). FB posts compile to 0 (heading format — known). S6/S7 not in image-concepts (Tier 3 social-only — expected). 0 char violations.
+
+## Previous Run
 - **Date**: 2026-04-25
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 3 char violations fixed before save: S1T2 308→253, S2T1 284→244, S6T1 312→214), FB posts (14), image concepts, image manifest, articles (5), fact-check (39 claims, 0 char violations after fixes, all stories present), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published to GitHub Pages.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -146,6 +153,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-26
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 27 claims. 0 char violations. S6/S7 missing from image-concepts (Tier 3 — expected). IMAGE MISSING expected (not_started).
+- Dashboard: 26 items. Published to GitHub Pages.
+- PostPlanner: bb-postplanner-2026-04-26.xlsx (9 posts), bb-postplanner-tobi-2026-04-26.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Cubs 10-game win streak (beat Dodgers 6-4, rallied from 4-0, Swanson clutch, 58-20 run diff in 8-game stretch, game 3 tonight) (P10); Yordan Alvarez leads MLB in 8 categories (11 HRs tied lead, .347 BA, 26 RBIs, .466 OBP, 1.245 OPS, 33 hits, ties Berkman Astros franchise record through 26 games, Astros 10-16) (P10); NL Central all 5 over .500 first in Divisional Era history (Reds/Cubs 16-9, Cardinals 14-10, Pirates 14-11, Brewers 13-11) (P8); Elly De La Cruz steals home vs Rangers 2nd career (2nd career, 5th Reds player since 1974, Reds win 2-1) (P8); Judge turns 34 today 9 HRs 22 games Yankees 16-9 AL East lead ~23 HRs from 400 career (P7); Dodgers bullpen blew 4-0 lead Sheehan season-best Ohtani missed start (P6); Washington beats Braves 11-4 Wood HR García 4 hits snaps 6-game Braves streak (P6)
+- Notes: 0 tweet char violations. Dashboard pushed directly to content-dashboards (no non-fast-forward issue). FB posts compile to 0 (heading format — known, dashboard uses markdown fallback).
 
 ### 2026-04-25
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)

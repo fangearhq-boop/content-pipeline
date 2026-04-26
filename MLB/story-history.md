@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-26
+
+### Story 1: Cubs 10-Game Win Streak / Beat Dodgers 6-4
+- **Angle:** NEW STORY. Cubs rallied from 4-0 deficit to beat Dodgers 6-4 on April 24 for 10th straight win. Dansby Swanson clutch. Cubs 16-9, tied for NL Central 1st with Reds. During 8-game stretch: outscored 58-20, 2.22 ERA. Portion of streak not seen in ~100 years. Game 3 vs Dodgers tonight (April 26, 8:10 PM).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Cubs-Dodgers series result; Cubs streak continuation
+
+### Story 2: Yordan Alvarez Leads MLB in 8 Categories
+- **Angle:** NEW STORY. Through 26 games: 11 HRs (tied for MLB lead), .347 BA, 26 RBIs (MLB leader), .466 OBP, 1.245 OPS, 33 hits (MLB leader). Ties Lance Berkman Astros franchise record for HRs through 26 games. Astros 10-16. Individual dominance vs team struggle.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Alvarez pace; Astros climbing; HR race vs Murakami
+
+### Story 3: NL Central All 5 Over .500 — Historic First
+- **Angle:** FOLLOW UP (April 25 pipeline). All 5 NL Central teams over .500 for first time in Divisional Era history (1969). Reds 16-9, Cubs 16-9, Cardinals 14-10, Pirates 14-11, Brewers 13-11. Combined 73-48.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Division race; end of April standings
+
+### Story 4: Elly De La Cruz Steals Home / Reds Win 2-1
+- **Angle:** NEW STORY. De La Cruz steals home vs Rangers April 26 — 2nd career steal of home (1st: July 8, 2023 vs Brewers). 5th Reds player since 1974 to do it twice (Joe Morgan, Driessen, Redus, Steer). Reds win 2-1, De La Cruz 2-for-5 with RBI. Reds 16-9, tied for NL Central 1st.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Reds division race; De La Cruz SB/HR totals 2026
+
+### Story 5: Aaron Judge Turns 34 / Yankees 16-9 / 400 HR Watch
+- **Angle:** NEW STORY. Judge turns 34 on April 26. 9 HRs in 22 games (~66 pace). Yankees 16-9, leading AL East. Needs ~23 HRs for 400 career (around career HR #377). Could reach 400 by late summer.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Judge 400th HR; Yankees AL East race
+
+### Story 6: Dodgers Bullpen / Cubs Series Context
+- **Angle:** FOLLOW UP. Sheehan season-best start wasted by bullpen in Cubs loss. Dodgers still MLB-best record. Ohtani missed Giants series finale. Game 3 tonight.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Cubs-Dodgers series result; Dodgers bullpen rest of year
+
+### Story 7: Washington Nationals Snap Braves 6-Game Win Streak
+- **Angle:** NEW STORY. Nationals 11-4 Braves, James Wood HR, Luis García Jr. 4 hits. Braves' 6-game win streak snapped. Nationals' young core making impact.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Nationals' rebuild trajectory; Braves response
+
+---
+
 ## 2026-04-25
 
 ### Story 1: Murakami HR No. 11 — Tied for MLB Lead With Alvarez

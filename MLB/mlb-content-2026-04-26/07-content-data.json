@@ -1,0 +1,357 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-26",
+  "compiled_at": "2026-04-26T10:37:36.396374+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Chicago Cubs 10-Game Win Streak — Beating the World Champion Dodgers**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Cubs are on a 10-game win streak. And they just beat the defending champions.\n\nChicago rallied from 4 runs down to beat the Dodgers 6-4 on Friday. Swanson clutch. Again.\n\nCubs 16-9. Tied for first in the NL Central. Game 3 vs LA is TONIGHT.\n\n#Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 1-2",
+          "text": "During the Cubs' 8-game stretch of their win streak:\n\n• 58 runs scored\n• 20 runs allowed\n• 2.22 team ERA\n\nA portion of this streak hadn't been seen in nearly 100 years.\n\nLongest active win streak in the majors. Game 3 vs Dodgers tonight.\n\n#Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-cubs-10-game-win-streak-beat-dodgers.html",
+        "headline": "Chicago Cubs Beat the Defending Champions for 10th Straight Win — The Best Streak in Baseball Right Now",
+        "word_count": 632
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Yordan Alvarez Dominates MLB — Leads in 8 Offensive Categories**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Yordan Alvarez is leading MLB in 8 offensive categories.\n\n11 HRs. .347 BA. 26 RBIs. .466 OBP. 1.245 OPS. 33 hits.\n\nHis 11 HRs through 26 games ties the Astros franchise record (Berkman).\n\nThe Astros are 10-16. The irony is real.\n\n#Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Name a better hitter than Yordan Alvarez right now.\n\n26 RBIs. 11 HRs. .347 BA. 1.245 OPS.\n\nHe leads MLB in every major offensive category. His team is 10-16.\n\nThis is not how it's supposed to work.\n\n#Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-yordan-alvarez-leads-mlb-8-categories-astros.html",
+        "headline": "Yordan Alvarez Is Leading MLB in 8 Offensive Categories — and His Team Is 10-16",
+        "word_count": 587
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**NL Central All 5 Teams Over .500 — First Time in Divisional Era History**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Every team in the NL Central is over .500.\n\nReds: 16-9\nCubs: 16-9\nCardinals: 14-10\nPirates: 14-11\nBrewers: 13-11\n\nFirst time in Divisional Era history. The best division in baseball right now isn't a debate.\n\n#MLB #NLCentral",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#NLCentral"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-nl-central-all-5-teams-over-500-divisional-era-history.html",
+        "headline": "All 5 NL Central Teams Are Over .500 — The First Time in Divisional Era History",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Elly De La Cruz Steals Home / Reds Win 2-1 Over Rangers**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Elly De La Cruz stole home today vs the Rangers.\n\nSecond time in his career. Second time in 3 years.\n\n5th Reds player since 1974 to do it twice. Reds win 2-1. De La Cruz is 23 years old.\n\n#Reds #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-elly-de-la-cruz-steals-home-reds-rangers.html",
+        "headline": "Elly De La Cruz Steals Home for 2nd Career Time, Reds Win 2-1 Over Rangers",
+        "word_count": 653
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Aaron Judge Turns 34 — Yankees 16-9, 9 HRs, AL East Lead**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Aaron Judge turns 34 today.\n\n9 HRs in 22 games. Yankees 16-9, leading the AL East.\n\nHe needs 23 more to reach 400 career HRs. At this pace, he could get there before the All-Star break.\n\nHappy birthday to the best slugger in baseball.\n\n#Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-judge-34th-birthday-yankees-400-hr-watch.html",
+        "headline": "Aaron Judge Turns 34 — 9 HRs, Yankees Lead AL East, and 400 Career HRs Are in Sight",
+        "word_count": 605
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Dodgers Bullpen Blows 4-Run Lead / Cubs Series Context**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Dodgers led 4-0 behind Emmet Sheehan's season-best start on Friday.\n\nThe bullpen gave it all back. Cubs won 6-4. 10th straight win for Chicago.\n\nGame 3 tonight. Dodgers are still MLB's best record — but the pen is a question.\n\n#Dodgers #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Washington Nationals Snap Atlanta's Winning Streak, James Wood Powers 11-4 Win**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "James Wood homered. Luis García Jr. went 4-for-4.\n\nWashington beat Atlanta 11-4 to snap the Braves' 6-game win streak.\n\nThe Nationals' rebuild is producing real players.\n\n#Nationals #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Nationals",
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified",
+      "Story 6: No Facebook posts found",
+      "Story 6: No posting window specified",
+      "Story 7: No Facebook posts found",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
