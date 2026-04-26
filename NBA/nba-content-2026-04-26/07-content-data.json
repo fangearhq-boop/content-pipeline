@@ -1,0 +1,272 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-26",
+  "compiled_at": "2026-04-26T11:22:38.987036+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "SGA Playoff Career-High 42 — Thunder Crush Suns 121-109, Lead Series 3-0",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "SGA. 42 POINTS. 15-OF-18 FROM THE FIELD.\n\nThat's not just a playoff career high — it's one of the most efficient 40-point games in NBA playoff history. Thunder win 121-109. Suns face elimination.\n\nOKC is rolling.\n\n#HoopHeroes #Thunder #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Thunder",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 1-2",
+          "text": "42 pts. 15/18 FG. 11/12 FT. 8 ast.\n\nShai Gilgeous-Alexander just joined TERRY PORTER as the only players to score 40+ in the playoffs while shooting 83%+ from the field.\n\nThunder lead 3-0. This is an MVP performance.\n\n#HoopHeroes #Thunder #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Thunder",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 9:00 AM ET\n\nShai Gilgeous-Alexander put on the kind of performance that defines a player's legend. The Thunder guard finished with a playoff career-high 42 points Saturday afternoon, shooting 15-of-18 from the field and 11-of-12 from the free throw line to go with eight assists, as Oklahoma City demolished the Phoenix Suns 121-109 and took a commanding 3-0 series lead.\n\nThe efficiency alone made history. SGA became only the second player in NBA playoff history to score 40 or more points while shooting at least 83.3 percent from the field — joining Terry Porter. It wasn't just an individual performance; it was a systematic demolition. The Thunder, already playing without Jalen Williams (left hamstring), did not need him against a Suns team that had no answer for SGA's relentless pressure.\n\nPhoenix now faces elimination in Game 4. No team in NBA history has come back from a 3-0 deficit to win a playoff series. The Suns' offseason — and perhaps the futures of Kevin Durant's former teammates — now hinges on a game they need but statistically cannot win.\n\n#HoopHeroes | #NBAPlayoffs",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-sga-42-thunder-suns-game-3.html",
+        "headline": "SGA Scores Playoff Career-High 42 as Thunder Rout Suns 121-109, Take 3-0 Series Lead",
+        "word_count": 589
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SGA Playoff Career-High 42 — Thunder Crush Suns 121-109\n\n#### Concept 1A — Social (1080x1350)\n- **Search:** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Text overlay:** \"SGA 42 PTS\" / \"15-of-18 FG\" / \"THUNDER LEAD 3-0\"\n- **Style:** Deep midnight background bar over action shot; deep orange \"42\" stat callout; gold accent lines\n\n#### Concept 1B — Article Hero (1200x630)\n- **Search:** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Text overlay:** None (article hero is clean image)\n- **Use:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Dosunmu 43 Points — Wolves Beat Nuggets 112-96 (G4), Lead 3-1",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "AYO DOSUNMU. 43 POINTS. OFF THE BENCH.\n\n13-of-17 from the field. 5-of-5 from 3. 12-of-12 from the line.\n\nThat's the best reserve scoring game in the NBA playoffs in 50 YEARS. Wolves win 112-96. Denver is on the brink.\n\n#HoopHeroes #Wolves #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Wolves",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Edwards hurt. DiVincenzo hurt. Minnesota needed someone.\n\nAyo Dosunmu answered with 43 POINTS off the bench — the best reserve playoff performance since 1976.\n\nNuggets are down 3-1. Jokic and Denver are in serious trouble.\n\n#HoopHeroes #Wolves #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Wolves",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 11:00 AM ET\n\nAyo Dosunmu was not supposed to be the hero. With Anthony Edwards sidelined by a knee injury and Donte DiVincenzo also unavailable, the Minnesota Timberwolves needed someone to step into the void against the defending champion Denver Nuggets in Game 4. What they got was one of the most remarkable reserve performances in playoff history.\n\nDosunmu scored 43 points off the bench — shooting 13-of-17 from the field, going a perfect 5-of-5 from beyond the arc and 12-of-12 from the free throw line in 42 minutes. According to NBA records, it is the highest-scoring playoff game by a reserve in 50 years, since Fred Brown poured in 45 for Seattle against Phoenix on April 15, 1976. Minnesota won 112-96 and now leads 3-1, placing Denver one loss from an early exit.\n\nNaz Reid supported with 17 points and 9 rebounds, but this was Dosunmu's night. The Nuggets, who have leaned on Nikola Jokic all season, could not manufacture enough offense to keep pace. Denver must now win three straight — starting with Game 5 — to stay alive.\n\n#HoopHeroes | #NBAPlayoffs",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-dosunmu-43-wolves-nuggets-game-4.html",
+        "headline": "Dosunmu Scores 43 Off the Bench — Best Reserve Playoff Performance in 50 Years — as Wolves Beat Nuggets 112-96",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dosunmu 43 Points — Wolves Beat Nuggets 112-96\n\n#### Concept 2A — Social (1080x1350)\n- **Search:** \"Ayo Dosunmu Minnesota Timberwolves\"\n- **Text overlay:** \"DOSUNMU 43\" / \"BEST BENCH GAME IN 50 YEARS\" / \"WOLVES LEAD 3-1\"\n- **Style:** Dark overlay; stat block in bold Bebas Neue; gold accent for \"50 years\" callout\n\n#### Concept 2B — Article Hero (1200x630)\n- **Search:** \"Anthony Edwards Minnesota Timberwolves\"\n- **Text overlay:** None\n- **Use:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "KAT's Triple-Double Leads Knicks Past Hawks 114-98, Series Tied 2-2",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "KAT with a TRIPLE-DOUBLE in Atlanta.\n\n20 pts. 10 reb. 10 ast. Anunoby added 22/10. Knicks won 114-98 and evened the series at 2-2.\n\nNew York went to Atlanta after a gut-punch Game 3 loss and answered with force.\n\n#HoopHeroes #Knicks #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Knicks",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Series tied 2-2. KAT triple-double. Anunoby double-double.\n\nThe Knicks showed up in Atlanta and dominated. 114-98. No drama this time — just straight physicality and ball movement.\n\nGame 5 is coming. This series is locked in.\n\n#HoopHeroes #Knicks #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Knicks",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 1:00 PM ET\n\nThe New York Knicks arrived in Atlanta with a chip on their shoulder and left with the series tied. After absorbing a gut-punch Game 3 loss to C.J. McCollum's game-winner, New York responded with authority — winning 114-98 behind Karl-Anthony Towns' triple-double and OG Anunoby's dominant two-way performance.\n\nTowns finished with 20 points, 10 rebounds, and 10 assists, anchoring both ends for a Knicks team that imposed its physical style on the Hawks from the opening tip. Anunoby added 22 points and 10 rebounds, giving New York two genuine frontcourt weapons that Atlanta struggled to contain. The Knicks' defense was the story — stifling the same offense that had produced McCollum's miracle shot the game before.\n\nThe series is now tied 2-2 heading back to New York for Game 5. The Knicks have restored home court and momentum. After losing that Game 3 on a wild shot, New York made sure Game 4 would be decided long before the final seconds.\n\n#HoopHeroes | #NBAPlayoffs",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-knicks-hawks-game-4-kat-triple-double.html",
+        "headline": "KAT's Triple-Double Carries Knicks to 114-98 Win in Atlanta, Evens Series 2-2",
+        "word_count": 511
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "KAT Triple-Double — Knicks Even Series 2-2\n\n#### Concept 3A — Social (1080x1350)\n- **Search:** \"Karl-Anthony Towns New York Knicks\"\n- **Text overlay:** \"KAT 20/10/10\" / \"KNICKS TIE SERIES 2-2\"\n- **Style:** Royal blue background bar; action shot mid-post or passing; clean stat line in white\n\n#### Concept 3B — Article Hero (1200x630)\n- **Search:** \"OG Anunoby New York Knicks\"\n- **Text overlay:** None\n- **Use:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Magic Outlast Pistons 113-105, Take 2-1 Series Lead",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Banchero 25. Bane 25. Magic hold on, 113-105.\n\nOrlando outfought Detroit in the final minutes to take a 2-1 series lead. Two young teams. One is starting to pull ahead.\n\nGame 4 up next for the Pistons.\n\n#HoopHeroes #Magic #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Magic",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 3:30 PM ET\n\nThe Orlando Magic passed their latest test. On Saturday morning, Paolo Banchero and Desmond Bane each scored 25 points as Orlando held off the Detroit Pistons 113-105 in Game 3, giving the Magic a 2-1 series lead and a moment of validation for a team that has been battle-tested all season.\n\nThe game was close down the stretch, and Detroit pushed hard to take the series lead. But the Magic made the plays they needed to when it mattered most. Banchero, the 2022 No. 1 overall pick, continues to grow into his role as a playoff performer. Bane's 25 points off the floor alongside him gave Orlando two reliable threats that the Pistons couldn't shut down.\n\nCade Cunningham and the Pistons still have the firepower to get back in this series. Detroit won Game 2 and has not been blown out. But Orlando now has the advantage, and Game 4 gives the Magic a chance to go up 3-1 and put this series away.\n\n#HoopHeroes | #NBAPlayoffs",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-magic-pistons-game-3-banchero-bane.html",
+        "headline": "Banchero and Bane Each Score 25 as Magic Hold Off Pistons 113-105, Take 2-1 Series Lead",
+        "word_count": 483
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Magic 113, Pistons 105 — Orlando Leads 2-1\n\n#### Concept 4A — Social (1080x1350)\n- **Search:** \"Paolo Banchero Orlando Magic\"\n- **Text overlay:** \"BANCHERO 25 / BANE 25\" / \"MAGIC LEAD 2-1\"\n- **Style:** Deep midnight overlay; dual stat callout; orange accent lines\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Sunday's Playoff Slate — Lakers Can Sweep, Celtics/Spurs/Cavs in Action",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "SUNDAY NBA PLAYOFF SCHEDULE\n\n1 PM – Cavs at Raptors G4 (CLE 2-1) ESPN\n3:30 PM – Spurs at Blazers G4 (SA 2-1) ESPN\n7 PM – Celtics at 76ers G4 (BOS 2-1) NBC\n9:30 PM – Lakers at Rockets G4 (LAL 3-0 — SWEEP CHANCE) NBC\n\nLeBron could close it out tonight.\n\n#HoopHeroes #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 AM ET\n\nSunday's NBA playoff schedule has everything: a possible sweep, three series hanging in the balance, and Wembanyama's potential return looming over one of the most-watched games of the first round.\n\nThe afternoon tips off with Cleveland visiting Toronto at 1 p.m. ET (ESPN) with the Cavaliers holding a 2-1 lead. Then at 3:30 p.m. ET, the Spurs and Blazers meet in Portland for Game 4 with San Antonio ahead 2-1 — and Victor Wembanyama's availability still uncertain after his concussion protocol stint. The Boston Celtics look to extend their 2-1 advantage over Philadelphia at 7 p.m. ET on NBC.\n\nThe night closer: LeBron James and the Lakers can complete a first-round sweep of the Houston Rockets at 9:30 p.m. ET on NBC. Los Angeles leads 3-0, and LeBron hit a tying 3-pointer with 13 seconds left in regulation of Game 3 to force overtime. A sweep would give the Lakers an extra week of rest before the second round and send a message to the rest of the West.\n\n#HoopHeroes | #NBAPlayoffs",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-sunday-nba-playoffs-preview-sweep-chance.html",
+        "headline": "Sunday NBA Playoffs Preview: Lakers Can Sweep, Three Series at Pivotal Moments",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sunday Playoff Slate Preview\n\n#### Concept 5A — Social (1080x1350)\n- **Search:** \"LeBron James Los Angeles Lakers\"\n- **Text overlay:** \"LAKERS CAN SWEEP\" / \"9:30 PM ET NBC\" / \"#NBAPlayoffs\"\n- **Style:** Game schedule graphic; LeBron action; gold and midnight palette"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-26
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Thunder 121, Suns 109 (Game 3, April 25) — SGA playoff career-high 42 (15/18 FG, 11/12 FT, 8 ast); 2nd player to score 40+ at 83.3%+ in playoffs (joins Terry Porter); Williams still out hamstring; OKC leads 3-0 | 1 | FOLLOW-UP (OKC led 2-0 entering G3) |
+| 2 | Wolves 112, Nuggets 96 (Game 4, April 25) — Dosunmu 43 off bench (13/17, 5/5 3PT, 12/12 FT) in 42 min; best reserve playoff game in 50 yrs (since Fred Brown 45 for Seattle vs. PHX, April 15, 1976); Edwards and DiVincenzo injured; Reid 17/9; MIN leads 3-1 | 1 | FOLLOW-UP (Edwards knee injury G3) |
+| 3 | Knicks 114, Hawks 98 (Game 4, April 25) — KAT 20/10/10 triple-double; Anunoby 22/10; NY won with defense and physicality in Atlanta; series tied 2-2 | 1 | FOLLOW-UP (ATL 2-1 after McCollum game-winner G3) |
+| 4 | Magic 113, Pistons 105 (Game 3, April 25) — Banchero 25, Bane 25; Magic held on in final moments; ORL leads 2-1 | 2 | FOLLOW-UP (series tied 1-1 after DET won G2) |
+| 5 | Sunday slate preview — Cavs-Raptors G4 1PM ESPN (CLE 2-1); Spurs-Blazers G4 3:30 ESPN (SA 2-1, Wemby status uncertain); Celtics-76ers G4 7PM NBC (BOS 2-1); Lakers-Rockets G4 9:30PM NBC (LAL 3-0 — sweep chance) | 2 | NEW STORY |
+
+### STORY 1: Thunder 121, Suns 109 — Game 3 (SGA 42)
+- **Tier:** 1
+- **Category:** Playoff Game Results / Dominant Performance
+- **Key facts:** Thunder 121, Suns 109. OKC leads 3-0. SGA 42 pts (15/18 FG, 11/12 FT, 8 ast) — playoff career high. 2nd player in NBA playoff history to score 40+ at 83.3%+ FG efficiency (joins Terry Porter). Jalen Williams out (hamstring). Suns face elimination.
+
+### STORY 2: Wolves 112, Nuggets 96 — Game 4 (Dosunmu 43)
+- **Tier:** 1
+- **Category:** Playoff Game Results / Historic Reserve Performance
+- **Key facts:** Wolves 112, Nuggets 96. MIN leads 3-1. Dosunmu 43 pts off bench (13/17, 5/5 3PT, 12/12 FT, 42 min). Best reserve playoff game in 50 years (since Fred Brown 45, Seattle vs PHX, April 15, 1976). Edwards and DiVincenzo both injured. Reid 17/9. Nuggets on brink.
+
+### STORY 3: Knicks 114, Hawks 98 — Game 4 (KAT Triple-Double)
+- **Tier:** 1
+- **Category:** Playoff Game Results / Individual Performance
+- **Key facts:** Knicks 114, Hawks 98. Series tied 2-2. KAT 20/10/10 triple-double. Anunoby 22/10. Knicks won with defense and physicality in Atlanta. Series goes to Game 5.
+
+### STORY 4: Magic 113, Pistons 105 — Game 3
+- **Tier:** 2
+- **Category:** Playoff Game Results / Clutch Execution
+- **Key facts:** Magic 113, Pistons 105. ORL leads 2-1. Banchero 25. Bane 25. Magic held on in final moments. Detroit's comeback bid fell short.
+
+### STORY 5: Sunday Playoff Slate Preview
+- **Tier:** 2
+- **Category:** Preview / Schedule
+- **Key facts:** Cavs-Raptors G4 1PM ESPN (CLE 2-1); Spurs-Blazers G4 3:30PM ESPN (SA 2-1, Wemby status uncertain); Celtics-76ers G4 7PM NBC (BOS 2-1, Embiid still out); Lakers-Rockets G4 9:30PM NBC (LAL 3-0, sweep chance, KD still out).
+
+---
+
 ## 2026-04-25
 
 | # | Story | Tier | Tag |

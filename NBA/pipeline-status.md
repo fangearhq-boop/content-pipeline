@@ -1,8 +1,22 @@
 ## Last Run
-- **Date**: 2026-04-25
+- **Date**: 2026-04-26
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-04-26
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-04-26.xlsx (8 posts) + hh-postplanner-tobi-2026-04-26.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-26/review-dashboard.html (28 items)
+- **Notes:** Thunder 121, Suns 109 (Game 3, April 25) — SGA playoff career-high 42 (15/18 FG, 11/12 FT, 8 ast); 2nd in NBA playoff history to score 40+ at 83.3%+ FG (joins Terry Porter); OKC leads 3-0; Williams out hamstring. Wolves 112, Nuggets 96 (Game 4, April 25) — Dosunmu 43 off bench (13/17, 5/5 3PT, 12/12 FT) in 42 min; best reserve playoff game in 50 yrs (Fred Brown 45, April 15, 1976); Edwards and DiVincenzo injured; Reid 17/9; MIN leads 3-1. Knicks 114, Hawks 98 (Game 4, April 25) — KAT 20/10/10 triple-double; Anunoby 22/10; NY defense/physicality; series tied 2-2. Magic 113, Pistons 105 (Game 3, April 25) — Banchero 25, Bane 25; ORL leads 2-1. Sunday: Cavs-Raptors G4 1PM ESPN; Spurs-Blazers G4 3:30PM (SA 2-1, Wemby uncertain); Celtics-76ers G4 7PM NBC (BOS 2-1); Lakers-Rockets G4 9:30PM NBC (LAL 3-0 — sweep chance).
+- **Fact concerns:** Thunder 121-109 HIGH (Bleacher Report, NBA.com, ESPN, ClutchPoints, VAVEL, SWOKNews). SGA 42 pts HIGH (multiple). SGA 15/18 FG HIGH (multiple). SGA 11/12 FT HIGH (multiple). SGA playoff career high HIGH (multiple). Terry Porter comp HIGH (Yahoo Sports game recap). Wolves 112-96 HIGH (Washington Post, ESPN, CBS Sports). Dosunmu 43 HIGH (Washington Post, Fadeaway World, NBA.com). Fred Brown 45 comparison HIGH (Washington Post). Dosunmu shooting stats (13/17, 5/5, 12/12) HIGH (Washington Post). Reid 17/9 MEDIUM (single source). Knicks 114-98 HIGH (VAVEL, NBC Sports, NBA.com). KAT 20/10/10 HIGH (NBC Sports context). Anunoby 22/10 HIGH. Magic 113-105 HIGH (NBA.com, ESPN, Detroit News, NBC Sports, WaPo). Banchero 25 MEDIUM (single summary). Bane 25 MEDIUM (single summary). Sunday schedule HIGH (multiple).
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, consistent with all previous runs)
+
+
 <!-- Append newest at top -->
 
 ### 2026-04-25
