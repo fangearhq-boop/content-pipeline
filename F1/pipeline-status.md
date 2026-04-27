@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-26
+- **Date**: 2026-04-27
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-27
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5 — Vasseur new championship, Norris/Piastri on Verstappen, McLaren new car, Ferrari SF-26 debut, Miami preview — pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-27.xlsx (8 posts) + f1fr-postplanner-tobi-2026-04-27.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-27/review-dashboard.html (28 items)
+- **Notes:** Vasseur "a new championship will start" at Miami — Ferrari ~50% SF-26 changed, McLaren "completely new car" aerodynamically (Stella), Red Bull Macarena wing debut, Mercedes defending 135 constructors' pts. Norris: "shame and miss for sport" if Verstappen retires; believes he'll stay for 5th title; Piastri: "not a great look." McLaren Stella confirms "completely new car from aerodynamic standpoint" for North American races (Miami + Canada); McLaren 3rd/56pts, 79 behind Mercedes; Norris 5th/25pts, Piastri 6th/21pts. Ferrari full SF-26 spec debut — Macarena wing, new floor, ~50% changed since Japan; Monza test positive. Miami Sprint weekend May 1-3: FP1 90 min Fri; Sprint Sat; Race Sun 4PM ET; Antonelli leads 72/Russell 63; FIA rule changes take effect (super-clip 250→350kW, recharge 8→7MJ).
+- **Fact confidence:** Vasseur "new championship" quote HIGH (Sky Sports, GPFans, multiple). Every team upgrading HIGH (multiple). Ferrari ~50% MEDIUM (analyst estimate, widely reported). McLaren "completely new car" Stella quote HIGH (GPFans, PlanetF1). Red Bull Macarena wing debut HIGH (GPFans). Mercedes stats HIGH. Norris quotes HIGH (Motorsport Week, ReadMotorsport, Sport Bible). Piastri "not a great look" HIGH (RACER). Verstappen 9th/12pts HIGH. Exit clause MEDIUM. Lambiase to McLaren HIGH. Ferrari SF-26 debut HIGH (f1oversteer, ScuderiaFans). Monza stats HIGH (prior pipeline). Ferrari 45pts behind HIGH. Miami schedule HIGH. FIA rule changes HIGH. Championship standings HIGH.
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, consistent with all previous runs)
 
 ### 2026-04-26
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

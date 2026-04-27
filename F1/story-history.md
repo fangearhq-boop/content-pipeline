@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-27
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Vasseur declares "A new championship will start" at Miami — Ferrari ~50% SF-26 changed; McLaren "completely new car" (Stella); Red Bull Macarena wing debut; Mercedes defending 135pts; 5-week break ends | 1 | NEW STORY |
+| 2 | Norris & Piastri respond to Verstappen retirement talk — Norris: "shame and miss for sport," believes he'll stay (wants 5th title); Piastri: "not a great look"; Verstappen 9th/12pts, exit clause concerns | 1 | FOLLOW-UP (Verstappen exit clause April 25) |
+| 3 | McLaren "completely new car" for Miami — Stella: "completely new car from aerodynamic standpoint" for North American races (Miami + Canada); McLaren 3rd/56pts; 79 pts behind Mercedes; precedent set by 2024 Miami win | 1 | FOLLOW-UP (McLaren upgrades mentioned April 26) |
+| 4 | Ferrari full SF-26 spec debuts Miami — Macarena wing full debut; ~50% car changed since Japan; Monza test positive (Hamilton 1:26.585/15 laps, Leclerc 19 laps); Ferrari 45 pts behind Mercedes | 2 | FOLLOW-UP (Ferrari SF-26 overhaul April 25, Monza test April 26) |
+| 5 | Miami Sprint Weekend watching guide — FP1 Fri May 1 (90 min); Sprint Sat May 2; Race Sun May 3 4PM ET; Antonelli leads 72pts, Russell 63; FIA rule changes (super-clip 250→350kW, recharge 8→7MJ) take effect | 2 | FOLLOW-UP (Miami preview ongoing) |
+
+### STORY 1: Vasseur "New Championship" — Miami Upgrade Race
+- **Tier:** 1
+- **Category:** Race Preview / Technical Analysis / Championship
+- **Key facts:** Vasseur: "a new championship will start" at Miami (HIGH — Sky Sports, GPFans, multiple). Every team bringing major upgrades. Ferrari ~50% SF-26 changed (MEDIUM — analyst estimate). McLaren "completely new car" aerodynamically (HIGH — Stella quote). Red Bull Macarena wing debut (HIGH). Mercedes defending all wins (HIGH). 5-week break due to Bahrain + Saudi cancellations (HIGH). Software improvements also key per Vasseur. Mekies: no miracles expected but meaningful step for RBR (HIGH — News.GP).
+
+### STORY 2: Norris & Piastri on Verstappen Retirement
+- **Tier:** 1
+- **Category:** Driver News / Team Drama
+- **Key facts:** Norris: "It would be a shame and a miss for the sport" — "one of the best drivers you'll ever see in Formula 1" (HIGH — Motorsport Week, ReadMotorsport, Sport Bible). Norris believes he'll stay — "He wants a fifth world championship" (HIGH). Piastri: departure "not a great look" (HIGH — RACER direct). Verstappen 9th/12pts (HIGH). Exit clause if not top-2 by summer (MEDIUM — reported). Lambiase leaving for McLaren 2028 (HIGH). Verstappen critical of 2026 regs at FIA meetings (HIGH).
+
+### STORY 3: McLaren "Completely New Car" Miami
+- **Tier:** 1
+- **Category:** Technical Analysis / Team Update
+- **Key facts:** Stella: "completely new car from aerodynamic upgrades point of view" for North American races (HIGH — GPFans, PlanetF1). McLaren 3rd constructors'/56pts (HIGH). Norris 5th/25pts, Piastri 6th/21pts (HIGH). 79 pts behind Mercedes (HIGH). Norris won 2024 Miami (maiden win, 110-race drought) (HIGH). McLaren used 2024 Miami historically for major upgrade (HIGH). North American swing = Miami + Montreal.
+
+### STORY 4: Ferrari Full SF-26 Spec Miami
+- **Tier:** 2
+- **Category:** Technical Analysis / Race Preview
+- **Key facts:** Ferrari "finally unleash complete 2026 car" at Miami (HIGH — f1oversteer, ScuderiaFans). ~50% changed since Japan (MEDIUM — analyst estimate). Macarena wing full debut (HIGH). New floor + aero overhaul (HIGH). Hamilton 1:26.585/15 laps Monza (HIGH — prior pipeline). Leclerc 19 laps Monza (HIGH). Both positive (HIGH). Ferrari 45 pts behind Mercedes constructors' (90 vs 135) (HIGH).
+
+### STORY 5: Miami Sprint Weekend Watching Guide
+- **Tier:** 2
+- **Category:** Preview / Schedule
+- **Key facts:** FP1 Friday May 1 (90 min) (HIGH). Sprint Qualifying + Sprint Saturday May 2 (HIGH). Race Sunday May 3 4PM ET (HIGH). Championship: Antonelli 72, Russell 63, Leclerc 49, Hamilton 41, Norris 25, Piastri 21 (HIGH). FIA rule changes: super-clip 250→350kW, recharge 8→7MJ (HIGH). 5-week break (Bahrain + Saudi cancelled) (HIGH). Antonelli youngest championship leader (HIGH).
+
+---
+
 ## 2026-04-26
 
 | # | Story | Tier | Tag |
