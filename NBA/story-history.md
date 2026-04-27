@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-27
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spurs 114, Trail Blazers 93 (Game 4, April 26) — Wembanyama returns from concussion: 27/11/7blk/4stl; Fox 28 (11/17, 7ast, 2blk — Spurs guard franchise record); first team in NBA playoff history to trail 15+ at half and win by 15+ (down 17 → won by 21); Spurs lead 3-1 | 1 | FOLLOW-UP (Wemby missed G3; Spurs 2-1) |
+| 2 | Celtics 128, 76ers 96 (Game 4, April 26) — Pritchard 32 off bench (career playoff high); Tatum 30/11ast; Brown 20; franchise-record 24/53 threes; Embiid returns 17 days post-appendectomy (26/10/6, 34 min) — not enough; Celtics lead 3-1 | 1 | FOLLOW-UP (BOS led 2-1 entering G4) |
+| 3 | Raptors 93, Cavaliers 89 (Game 4, April 26) — Barnes 23 (go-ahead FTs in final minute), Ingram 23; CLE 18 turnovers; Mitchell 20 (12 in Q4); Harden 19; series tied 2-2 | 1 | FOLLOW-UP (CLE led 2-1 entering G4) |
+| 4 | Rockets 115, Lakers 96 (Game 4, April 26) — Amen Thompson 23, Eason 20, Sengun 19, Sheppard 17 (all starters 16+); LeBron 10 pts (2/9 FG), 9ast, 8 TOs; Ayton ejected Q3 (Flagrant 2); Rockets led 90-65 in Q4; LA made 5 threes; series 3-1 Lakers; G5 Wednesday in LA | 2 | FOLLOW-UP (LAL led 3-0 entering G4) |
+| 5 | Monday playoff preview — Magic-Pistons G4 8PM NBC (ORL 2-1); Thunder-Suns G4 9:30PM Peacock (OKC 3-0 — sweep attempt; SGA averaging 35+ PPG in series); Nuggets-Wolves G5 10:30PM NBC (MIN 3-1 — DEN elimination game; Edwards/DiVincenzo injury status unclear) | 2 | NEW STORY |
+
+### STORY 1: Spurs 114, Trail Blazers 93 — Game 4 (Wembanyama Returns, Historic Comeback)
+- **Tier:** 1
+- **Category:** Playoff Game Results / Historic Comeback / Wemby Return
+- **Key facts:** Spurs 114, Trail Blazers 93. Spurs lead 3-1. Wembanyama returned from concussion (missed G3); posted 27 pts/11 reb/7 blk/4 stl/3 ast — youngest player ever (10th total) with that playoff stat line. Fox 28 pts (11/17 FG)/6 reb/7 ast/1 stl/2 blk — first guard in Spurs franchise history with that combo. Spurs trailed 58-41 at half (down 17), outscored Portland 73-35 in 2nd half. First team in NBA playoff history to trail 15+ at half and win by 15+.
+
+### STORY 2: Celtics 128, 76ers 96 — Game 4 (Pritchard 32, Franchise 3PT Record)
+- **Tier:** 1
+- **Category:** Playoff Game Results / Shooting Record / Embiid Return
+- **Key facts:** Celtics 128, 76ers 96. Celtics lead 3-1. Pritchard 32 off bench (career playoff high, 6/24 threes). Tatum 30/11ast. Brown 20. Franchise playoff record: 24-of-53 from three. 22-5 run to close Q1; led by 14+ rest of game. Embiid returned 17 days post-appendectomy (26/10/6 in 34 min) — missed 7 games.
+
+### STORY 3: Raptors 93, Cavaliers 89 — Game 4 (18 TOs, Series Tied 2-2)
+- **Tier:** 1
+- **Category:** Playoff Game Results / Turnover Story
+- **Key facts:** Raptors 93, Cavaliers 89. Series tied 2-2. Barnes 23 (go-ahead FTs in final minute). Ingram 23. Mitchell 20 (12 in Q4). Harden 19. CLE 18 turnovers — decisive factor. Game 5 in Cleveland.
+
+### STORY 4: Rockets 115, Lakers 96 — Game 4 (HOU Avoids Sweep)
+- **Tier:** 2
+- **Category:** Playoff Game Results / Series Story
+- **Key facts:** Rockets 115, Lakers 96. Series 3-1 Lakers. Amen Thompson 23, Tari Eason 20, Sengun 19, Sheppard 17 (all starters 16+). LeBron 10 pts (2/9 FG)/9ast/8 TOs. Ayton ejected Q3 (Flagrant 2). Rockets led 90-65 in Q4. LA made 5 threes (vs. 35 combined in G1-G3). KD still out left ankle. G5 Wednesday in LA.
+
+### STORY 5: Monday Playoff Preview (April 27)
+- **Tier:** 2
+- **Category:** Preview / Schedule
+- **Key facts:** Magic-Pistons G4 8PM NBC (ORL 2-1); Thunder-Suns G4 9:30PM Peacock (OKC 3-0, sweep attempt, SGA 35+ PPG series avg); Nuggets-Wolves G5 10:30PM NBC (MIN 3-1, DEN elimination, Edwards/DiVincenzo injury status unclear after G4 exits).
+
+---
+
 ## 2026-04-26
 
 | # | Story | Tier | Tag |

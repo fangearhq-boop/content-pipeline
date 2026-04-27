@@ -1,8 +1,20 @@
 ## Last Run
-- **Date**: 2026-04-26
+- **Date**: 2026-04-27
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-04-27
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-04-27.xlsx (8 posts) + hh-postplanner-tobi-2026-04-27.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-27/review-dashboard.html (28 items)
+- **Notes:** Spurs 114, Blazers 93 (Game 4, April 26) — Wemby returns from concussion: 27/11/7blk/4stl; Fox 28 (11/17, 7ast, 2blk — Spurs guard franchise record); first team in NBA playoff history to trail 15+ at half and win by 15+ (trailed 58-41, outscored 73-35 in 2nd half); Spurs lead 3-1. Celtics 128, 76ers 96 (Game 4, April 26) — Pritchard 32 off bench (career playoff high); franchise-record 24/53 threes; Tatum 30/11ast; Brown 20; Embiid returned 17 days post-appendectomy (26/10/6, 34 min) — not enough; Celtics lead 3-1. Raptors 93, Cavaliers 89 (Game 4, April 26) — Barnes 23 (go-ahead FTs), Ingram 23; CLE 18 TOs; Mitchell 20 (12 in Q4); Harden 19; series tied 2-2. Rockets 115, Lakers 96 (Game 4, April 26) — Amen Thompson 23, Eason 20, Sengun 19, Sheppard 17; LeBron 10 (2/9 FG), 8 TOs; Ayton ejected Q3; Rockets led 90-65 Q4; LA 5 threes; series 3-1 Lakers; G5 Wednesday in LA. Monday: Magic-Pistons G4 8PM NBC (ORL 2-1); Thunder-Suns G4 9:30PM Peacock (OKC 3-0 sweep attempt); Nuggets-Wolves G5 10:30PM NBC (MIN 3-1 — DEN elimination).
+- **Fact confidence:** Spurs 114-93 HIGH (NBC Sports, SI.com, news4jax, rappler, Yahoo Sports). Wemby 27/11/7blk/4stl HIGH (SI.com, Yahoo Sports, NBC Sports). Wemby 10th player ever with that playoff stat line MEDIUM (single AI summary — Yahoo Sports). Fox 28 (11/17)/6/7ast/2blk HIGH (ClutchPoints, NBA.com, NBC Sports). Fox Spurs guard record MEDIUM (ClutchPoints single source). Down 17 at half (58-41) HIGH (NBC Sports, SI.com, Yahoo Sports). Outscored 73-35 in 2nd half HIGH (NBC Sports, Yahoo Sports). First team trail 15+ at half win by 15+ HIGH (NBC Sports, SI.com, Yahoo Sports — multiple). Celtics 128-96 HIGH (ESPN, CBS Sports, FOX Sports, Boston Globe, NESN, multiple). Pritchard 32 career playoff high HIGH (multiple). 24/53 franchise record HIGH (NESN, NBC Sports Boston, multiple). Tatum 30/11ast HIGH. Brown 20 HIGH. Embiid 26/10/6 in 34 min HIGH. Embiid 17 days post-surgery HIGH. Raptors 93-89 HIGH (ESPN, CBS Sports, VAVEL, NBA.com). Barnes 23/Ingram 23 HIGH (ESPN, NBA.com). Go-ahead FTs Barnes HIGH. Mitchell 20 (12 Q4) HIGH. Harden 19 HIGH. CLE 18 TOs HIGH. Rockets 115-96 HIGH (ESPN, VAVEL, CBS Sports, FOX Sports). Thompson 23/Eason 20/Sengun 19/Sheppard 17 HIGH (multiple). LeBron 10 (2/9)/9ast/8 TOs HIGH. Ayton Flagrant 2 ejection HIGH. Rockets led 90-65 Q4 HIGH. LA 5 threes HIGH. Monday schedule HIGH (Bleacher Report, CBS Sports, ESPN).
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, consistent with all previous runs)
 
 ### 2026-04-26
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
