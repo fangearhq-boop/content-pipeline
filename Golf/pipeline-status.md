@@ -3,7 +3,28 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-04-26)
+## Current Pipeline (2026-04-27)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-27 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-27 |
+| Fact-check | Complete (verify-facts.py — 25 claims, 51 HIGH confidence; tweet fixes applied) | 2026-04-27 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-27 |
+| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-04-27 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-27 |
+| Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent) | 2026-04-27 |
+| Git | Committed and pushed to main | 2026-04-27 |
+
+## Notes (2026-04-27)
+- 5 stories: Korda wins Chevron — 3rd major, wire-to-wire, 18-under 270 (65-65-70-70), 5-shot win over Yin Ruoning/Tavatanakit, 36-hole total 130 lowest LPGA major history, $1.35M winner, retakes World No. 1 (first since Aug 2025), 17th LPGA title, 2nd 2026 win — T1; Fitzpatrick brothers win Zurich Classic — 31-under 257 tournament record, 72nd hole birdie (Matt bunker to 14 inches, Alex tap-in), won by 1 over Smalley/Springer + Reitan/Ventura, squandered 4-shot lead (double 12th), $2.745M team, Alex earns 2-year PGA Tour card through 2028 + next 4 Sig Events + PGA Champ + 2027 Players — T1; Alex Fitzpatrick cinderella story — outside top 280 DP Tour Oct 2024, competed Zurich on sponsor exemption, leaves with full 2-year PGA Tour card — T1; Korda career analysis (3-major arc, 36-hole LPGA record, career context) — T2; What's next (LIV Virginia May 8-10 Trump National DC, Rahm hot, Niemann defending individual, Crushers team, Ripper GC standings leader, PGA Tour Cadillac Champ, LPGA Korda) — T2
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X posts: 8 total, all under 280 characters (4 tweets required fix: Story 2 tweet 1 282→250, Story 2 tweet 2 294→248, Story 3 tweet 1 297→256, Story 5 tweet 1 282→248)
+- Fact concerns: Korda 18-under 270 HIGH (CBS Sports, Olympics.com, multiple). Win by 5 HIGH (multiple). Yin/Tavatanakit 2nd HIGH. Wire-to-wire HIGH. 65-65-70-70 HIGH. 36-hole 130 lowest LPGA major history HIGH (Golf Digest ME, multiple). 3rd major HIGH. Prior majors Chevron 2021/USWO 2024 HIGH. Winner $1.35M/$9M purse HIGH (Golf Channel, Golf Monthly). World No. 1 reclaimed (first Aug 2025) HIGH (CBS Sports, Olympics.com, multiple). 17th LPGA title HIGH. 2nd 2026 win HIGH. Fitzpatricks 31-under 257 HIGH (PGA Tour, multiple). Won by 1 HIGH. Smalley/Springer + Reitan/Ventura T2 HIGH (multiple). 72nd hole birdie HIGH. Matt bunker to 14 inches HIGH. Double at 12 (drive right, punch hits tree) HIGH (CBS Sports). $2.745M team prize HIGH (Yahoo Sports, multiple). Alex 2-year PGA Tour card through 2028 HIGH (PGA Tour official, Golf Channel). Next 4 Sig Events + PGA Champ + 2027 Players HIGH (PGA Tour official). Alex sponsor exemption HIGH (multiple). Alex outside top 280 Oct 2024 HIGH (PGA Tour/Yahoo Sports). 7th Race to Dubai heading to Zurich HIGH (PGA Tour official). Wake Forest alumnus Alex HIGH (Wake Forest Athletics). Korda "locked in" quote HIGH (Golf Channel). LIV Virginia May 8-10 Trump National DC HIGH (prior pipelines confirmed). Rahm Mexico City 6-shot win HIGH (prior pipeline). Niemann defending individual HIGH. Crushers defending team HIGH. Ripper GC leads 89.75pts HIGH (prior pipeline). Cadillac Championship next PGA Tour MEDIUM (single AI summary).
+- WordPress publish: Failed — egress proxy blocks access (Host not in allowlist, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
+## Previous Pipeline (2026-04-26)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
