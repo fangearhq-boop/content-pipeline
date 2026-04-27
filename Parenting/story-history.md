@@ -2,6 +2,50 @@
 
 ---
 
+## April 27, 2026
+
+### Story 1: SEGMART Mini Toddler Trampoline Recall — Strangulation Hazard from Accessory Straps
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC recall: SEGMART 55" mini round toddler trampolines with enclosure nets — models SOSTT051BR, SOSTT051CR, SOSTT051YP; sold Walmart.com and TikTok Shop, Dec 2025-Feb 2026, ~$140; hazard: strangulation from hammock, punching bag, and hand ring accessory straps; 1 injury report (rope burn); remedy: remove and destroy 4 accessories, photograph, submit to SEGMART for $30 refund; trampoline base safe to continue using; cpsc.gov)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Models: SOSTT051BR/CR/YP; Sold: Walmart.com, TikTok Shop; Price: ~$140; Period: Dec 2025-Feb 2026; Remedy: destroy accessories + photo = $30 refund; Trampoline base: unaffected
+- **Follow-Up Opportunities:** General indoor trampoline safety guide; CPSC recall follow-up if more incidents
+
+### Story 2: D11/D20/D49 Formally Ask CHSAA to Ban Transgender Athletes from Girls' Sports
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (April 14, 2026 letter signed by 60+ Colorado school board members including D11, Academy D20, D49, Widefield D-3, Woodland Park RE-2, and D49 Superintendent Peter Hilts; demands CHSAA adopt rules banning transgender athletes from girls' sports; cites Trump executive order "Keeping Men out of Women's Sports" and Title IX; CHSAA response: issue belongs with courts, maintaining neutral stance)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Letter date: April 14, 2026; COS districts: D11, D20, D49; Also signed: Widefield D-3, Woodland Park RE-2; Superintendent Hilts (D49) also signed; CHSAA: deferring to courts; No immediate policy change
+- **Follow-Up Opportunities:** CHSAA board meeting coverage; court ruling updates; district board meeting coverage
+
+### Story 3: Garden of the Gods Art Festival Returns May 16-17 — Kids 11 and Under Free
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Annual Garden of the Gods Art Festival at Rock Ledge Ranch Historic Site, Colorado Springs; May 16-17, 2026, 10 AM-5 PM both days; 150+ juried fine artists; pottery, jewelry, textiles, paintings, sculpture, glass art; live music, food trucks, kids' activities; children 11 and under free; adult admission ticketed; May 16 same day as Touch-A-Truck at Lower Gold Camp Rd — natural double-header; dashevents.com/garden-of-the-gods-art-festival)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Dates: May 16-17, 2026; Hours: 10 AM-5 PM both days; Location: Rock Ledge Ranch, COS; Artists: 150+; Kids: 11 and under free; Info: dashevents.com/garden-of-the-gods-art-festival
+- **Follow-Up Opportunities:** Post-event recap; artist spotlight
+
+### Story 4: 11th Pikes Peak Birding & Nature Festival — 73+ Field Trips, May 14-17
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (11th annual Pikes Peak Birding & Nature Festival, May 14-17, 2026, Colorado Springs; 73+ field trips during peak spring migration; 14 seminars (3 virtual), 5 workshops; 273 species identified in 10 years; "Birds, Brews & Bites" happy hour Saturday May 16, 5-7 PM at Bear Creek Regional Park pavilions, 1850 21st St — free for registrants; low registration fee covers most activities; pikespeakbirdingandnaturefestival.org)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Dates: May 14-17, 2026; Field trips: 73+; Seminars: 14; Workshops: 5; 273 species in 10 years; Birds Brews & Bites: Sat May 16, 5-7 PM, Bear Creek, 1850 21st St, free for registrants; Registration: pikespeakbirdingandnaturefestival.org
+- **Follow-Up Opportunities:** Festival recap; beginner birding guide for COS families
+
+### Story 5: New Research — Evening TV Timing Disrupts Preschooler Sleep More Than Total Screen Time
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (2026 Frontiers in Sleep study: evening TV viewing disrupts preschooler sleep more than daytime screen time; timing matters independently of total volume; children 8 and under avg 2h27m/day; ages 2-4 avg 2h8m (double AAP recommendation of 1 hour for ages 2-5); AAP 2026 guidance shift: away from strict time limits toward quality, context, and timing; practical takeaway: screen-free window 1-2 hours before bedtime)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Study: Frontiers in Sleep 2026; Key finding: evening timing matters, not just total count; Ages 2-4 avg: 2h8m/day; AAP recommendation: 1 hour for ages 2-5; AAP 2026 shift: quality and context over strict limits
+- **Follow-Up Opportunities:** Practical screen wind-down routine guide; follow-up on AAP policy updates
+
+---
+
 ## April 26, 2026
 
 ### Story 1: CPSC Children's Sleepwear Recall — Blossom Blanks, Silks, Andy & Evan

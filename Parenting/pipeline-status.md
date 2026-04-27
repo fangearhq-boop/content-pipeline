@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 26, 2026
+## Latest Run: April 27, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC.gov (SEGMART mini trampoline recall — strangulation hazard from accessory straps, models SOSTT051BR/CR/YP, Walmart.com + TikTok Shop, Dec 2025-Feb 2026, ~$140, $30 refund for destroyed accessories); Gazette + 9News + Union-Bulletin (D11/D20/D49 + Superintendent Hilts letter to CHSAA April 14 demanding transgender athlete ban from girls' sports — 60+ signatories statewide; CHSAA deferring to courts); dashevents.com + visitcos.com (Garden of the Gods Art Festival May 16-17 at Rock Ledge Ranch — 150+ artists, kids 11 under free, 10 AM-5 PM); pikespeakbirdingandnaturefestival.org + visitcos.com (11th Pikes Peak Birding & Nature Festival May 14-17 — 73+ field trips, 273 species in 10 years, Birds Brews & Bites Sat May 16 5-7 PM Bear Creek Regional Park); Frontiers in Sleep 2026 + AAP Digital Ecosystems Policy (evening TV timing disrupts preschooler sleep more than total screen time; ages 2-4 avg 2h8m vs AAP 1-hour limit) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 25-26 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging, sources noted |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; 2 char fixes applied (Story 1: removed detailed accessory list 302→275; Story 4: removed Family-friendly clause + URL line 311→255 chars); all verified under 280; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; no hashtags; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 53 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (25 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-27.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-04-27.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-27)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 (D11/D20/D49 CHSAA transgender sports letter) | 1-2 |
+| Local Events | 2 (Garden of the Gods Art Festival; Pikes Peak Birding Festival) | 1-2 |
+| National Parenting | 2 (SEGMART trampoline recall; Evening screens + preschool sleep research) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 26, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -693,6 +726,21 @@
 | 2026-02-22 | 7 | X + FB | Complete |
 
 ## Pipeline Run Log
+
+### 2026-04-27 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Sofia Reyes [SEGMART recall], Marta Kim [CHSAA letter], Marcus Rivera [Garden of Gods Art Festival], Keisha Williams [Pikes Peak Birding Festival], Jenna Park [evening screens research])
+- **PostPlanner exports:** cosp-postplanner-2026-04-27.xlsx (5 posts), cosp-postplanner-tobi-2026-04-27.xlsx (5 TOBI posts)
+- **Coverage:** SEGMART 55" mini toddler trampoline recall (models SOSTT051BR/CR/YP, sold Walmart.com + TikTok Shop Dec 2025-Feb 2026 ~$140, strangulation hazard from hammock/punching bag/hand ring accessory straps, 1 injury report, remedy: destroy accessories + photo = $30 refund, trampoline base unaffected); D11/D20/D49 + D49 Superintendent Peter Hilts + Widefield D-3 + Woodland Park RE-2 signed April 14 letter to CHSAA demanding ban on transgender athletes in girls' sports (60+ signatories statewide; cites Trump EO + Title IX; CHSAA deferring to courts); Garden of the Gods Art Festival May 16-17 at Rock Ledge Ranch (150+ juried artists, 10 AM-5 PM, kids 11 and under free, live music + food trucks, May 16 double-header with Touch-A-Truck at Lower Gold Camp Rd); 11th annual Pikes Peak Birding & Nature Festival May 14-17 (73+ field trips, 14 seminars, 5 workshops, 273 species in 10 years, Birds Brews & Bites Sat May 16 5-7 PM Bear Creek Regional Park 1850 21st St free for registrants, pikespeakbirdingandnaturefestival.org); 2026 Frontiers in Sleep study: evening TV disrupts preschooler sleep more than daytime use; ages 2-4 avg 2h8m/day (double AAP limit); AAP 2026 guidance shift from time limits to quality/context/timing
+- **Notes:**
+  - Story 1 X tweet was 302 chars on first verify-facts.py run; trimmed detailed accessories line to shorter form (302→275); passed on second run
+  - Story 4 X tweet was 311 chars on first run; removed URL line and "Family-friendly" clause (311→255); passed on second run
+  - Image manifest warnings are cosmetic (not_started is expected at this stage)
+  - WordPress proxy error: same environment restriction as all prior runs (Host not in allowlist)
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - compile-content-data.py "no log found" warning is cosmetic (known issue from all prior runs)
 
 ### 2026-04-26 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
