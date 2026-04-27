@@ -1,0 +1,412 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-27",
+  "compiled_at": "2026-04-27T10:51:15.447905+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Dodgers Shut Out Cubs 6-0 — Win Series, End Cubs' 10-Game Streak**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Cubs' 10-game win streak: OVER.\n\nDodgers shut out Chicago 6-0 Sunday night. Wrobleski 6 scoreless. Ohtani HR No. 6 at 109.8 mph.\n\nCubs left 12 on base. 0-for-8 with RISP. The defending World Series champs reminded them who runs the NL.\n\n#LetsGoDodgers #FlyTheW",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetsGoDodgers",
+            "#FlyTheW"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Shohei Ohtani: 6 home runs in 26 games.\n\nSunday's shot off the Dodger Stadium scoreboard went 109.8 mph exit velocity.\n\nThe Cubs' 10-game win streak is over. The Dodgers won the series 2-1.\n\n#Dodgers #Ohtani #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Ohtani",
+            "#MLB"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-dodgers-shut-out-cubs-end-10-game-streak.html",
+        "headline": "Dodgers Shut Out Cubs 6-0, End 10-Game Win Streak — Ohtani Delivers the Exclamation Point",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dodgers Shut Out Cubs 6-0\n- **[HIGH]** Dodgers beat Cubs 6-0 on April 26, 2026 at Dodger Stadium\n- **[HIGH]** Justin Wrobleski pitched 6 scoreless innings\n- **[HIGH]** Shohei Ohtani hit his 6th HR of the season in the 7th inning off the scoreboard (109.8 mph)\n- **[HIGH]** Cubs left 12 runners on base, went 0-for-8 with RISP\n- **[HIGH]** Dodgers win the three-game series 2-1\n- **[HIGH]** Cubs' 10-game win streak ended (was longest active in NL)\n- **[HIGH]** Cubs record entering the series: 16-9\n- **[HIGH]** Dodgers record after win: approximately 18-8",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "**Murakami at 11 HRs — Tied for MLB Lead, Trade Extension Talks Looming**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Munetaka Murakami: 11 HRs. .394 OBP. .992 OPS. 19 RBIs.\n\nThrough 25 games. As a first-year MLB player.\n\nHe's TIED with Yordan Alvarez for the MLB HR lead.\n\nThe White Sox have NOT started extension talks yet.\n\n#WhiteSox #Murakami #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#Murakami",
+            "#MLB"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The MLB HR race through 25 games:\n\nYordan Alvarez: 11 HRs\nMunetaka Murakami: 11 HRs\n\nBoth sluggers are carrying struggling teams (Astros 10-16, White Sox 10-15) almost entirely on their backs.\n\nThis is the best HR race baseball has had in years.\n\n#MLB #Astros #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Astros",
+            "#WhiteSox"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-murakami-historic-start-white-sox-extension.html",
+        "headline": "Murakami Is Making History Every Week — and the White Sox Don't Have an Extension Deal Yet",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Murakami HR Lead / Extension\n- **[HIGH]** Murakami tied with Alvarez at 11 HRs through ~25 games\n- **[HIGH]** Murakami made MLB debut March 26, 2026 with home run\n- **[HIGH]** Most HRs by Japanese-born player through 24 MLB games (all-time)\n- **[HIGH]** Murakami first Japanese-born player to Homer in 5 consecutive games (tying MLB rookie record for consecutives)\n- **[HIGH]** Murakami + Montgomery first teammates each to homer in 4 straight games in MLB history\n- **[HIGH]** Murakami 2-year/$34M contract (signed before 2026 season)\n- **[HIGH]** White Sox have NOT initiated extension talks with Murakami (per reports)\n- **[HIGH]** Murakami 2026 stats (through April 24): .394 OBP, .992 OPS, 19 RBIs, 19 runs\n- **[HIGH]** White Sox record: 10-15",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "**Mason Miller's Scoreless Streak: 34.2 IP — 6.1 Away From All-Time Reliever Record**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Mason Miller (Padres) has now thrown 34 2/3 consecutive scoreless innings.\n\nThe all-time MLB reliever record: 41 innings (Gregg Olson, 1988).\n\nMiller is 6 1/3 innings away.\n\nNobody is talking about this. But they should be.\n\n#Padres #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Padres",
+            "#MLB"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mason-miller-scoreless-innings-record-chase.html",
+        "headline": "Mason Miller Is 6 Innings From Rewriting History — and Almost Nobody Is Talking About It",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mason Miller Scoreless Streak\n- **[HIGH]** Mason Miller now pitches for San Diego Padres (traded from Oakland A's July 31, 2025)\n- **[HIGH]** Scoreless streak: 34 2/3 innings, Padres franchise record\n- **[HIGH]** 2026 stats: 0.00 ERA, 0.35 WHIP, 27 Ks in 11.1 IP\n- **[HIGH]** Streak dates back to 2025 season\n- **[HIGH]** All-time MLB reliever scoreless innings record: 41 innings, Gregg Olson, Baltimore Orioles (1988)\n- **[MEDIUM]** Miller is 6 1/3 innings from Olson's record",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "**Paul Skenes Takes Perfect Game Into 7th — Pirates' Ace Is Back**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Paul Skenes took a perfect game into the 7th inning on Friday.\n\n20 consecutive batters retired. Jake Bauers singled with 2 outs in the 7th to break it.\n\n7 IP, 1 H, 0 R, 7 K. Pirates won 6-0.\n\nThe reigning NL Cy Young winner is back. 🔥\n\n#LetsGoBucs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetsGoBucs",
+            "#MLB"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-paul-skenes-near-perfect-game-pirates.html",
+        "headline": "Paul Skenes Went 20-Up, 20-Down Before Jake Bauers Spoiled It — The Cy Young Winner Is Back",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook"
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Paul Skenes Near-Perfect Game\n- **[HIGH]** April 24, 2026 — Skenes vs Milwaukee Brewers at PNC Park\n- **[HIGH]** Perfect game bid ended in 7th inning, two outs — Jake Bauers singled\n- **[HIGH]** First 20 batters retired before Bauers broke it up\n- **[HIGH]** Skenes final line: 7 IP, 1 H, 0 R, 0 BB, 7 K, 93 pitches\n- **[HIGH]** Pirates won 6-0 (one-hit shutout combined)\n- **[HIGH]** Skenes 2026 record: 3-1, 3.27 ERA\n- **[HIGH]** Skenes is reigning NL Cy Young Award winner\n- **[HIGH]** Opening Day 2026: Skenes allowed 5 runs in first inning vs Mets (2 outs before removed)\n- **[HIGH]** Pittsburgh Pirates 2026 record: 14-11, alive in NL Central race",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "**MLB Power Rankings Week 4 — Dodgers Lead, NL Central Is Historically Good**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "MLB Standings: Week 4 snapshot.\n\n🔵 Dodgers/Padres tied: 17-8 (NL West)\n🍑 Braves: 18-8 (NL's best)\n🐻 Reds/Cubs tied: 16-9 (NL Central)\n🏟️ Yankees: 16-9 (AL East)\n\nThe NL Central has all 5 teams over .500 — first time in Divisional Era history.\n\n#MLB #MLBStandings",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#MLBStandings"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mlb-week-4-standings-power-rankings.html",
+        "headline": "MLB Week 4 Standings: The NL Central Is Doing Something It's Never Done Before",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Facebook"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "MLB Power Rankings / Standings\n- **[HIGH]** Dodgers and Padres tied for NL West lead: both 17-8\n- **[HIGH]** Atlanta Braves: 18-8, best record in the NL (18-8 entering Monday)\n- **[HIGH]** NL Central standings (all over .500 — first time in Divisional Era): Reds 16-9, Cubs 16-9, Cardinals 14-10, Pirates 14-11, Brewers 13-11\n- **[HIGH]** Yankees: 16-9, leading AL East\n- **[HIGH]** MLB Power Rankings week of April 27 published on MLB.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "**Alvarez vs Murakami: MLB's Best HR Race in Years**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Yordan Alvarez carries the Astros (10-16).\nMunetaka Murakami carries the White Sox (10-15).\n\nBoth: 11 home runs. Historic numbers.\n\nThe best two hitters in baseball are playing for the two worst teams in their divisions.\n\nMake it make sense.\n\n#MLB #Astros #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Astros",
+            "#WhiteSox"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alvarez vs Murakami HR Race\n- **[HIGH]** Yordan Alvarez 2026 stats through 26 games: 11 HRs, .347 BA, 26 RBIs, .466 OBP, 1.245 OPS\n- **[HIGH]** Murakami 2026 stats through ~25 games: 11 HRs, .394 OBP, .992 OPS, 19 RBIs\n- **[HIGH]** Alvarez ties Lance Berkman for Astros franchise record of HRs through 26 games\n- **[HIGH]** Houston Astros record: 10-16\n- **[HIGH]** White Sox record: 10-15",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "**Braves 18-8 — Still MLB's Hottest NL Team Despite Nationals Loss**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Forget the Saturday blip vs the Nationals.\n\nAtlanta is 18-8. NL's best record. 5.5 games ahead in the NL East.\n\nThe Chop is very much back in 2026.\n\n#ChopOn #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ChopOn",
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 169
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X + Facebook"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Braves 18-8\n- **[HIGH]** Atlanta Braves 2026 record: approximately 18-8 (18-9 entering Monday after Nationals loss Saturday)\n- **[HIGH]** Nationals beat Braves 11-4 on Saturday April 25 — James Wood HR, Luis García Jr. 4 hits\n- **[HIGH]** Braves lead NL East by 5.5 games over Marlins (12-13)\n- **[MEDIUM]** Braves' hot April described as \"chop is back\" by analysts",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 11
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

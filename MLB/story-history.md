@@ -5,6 +5,46 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-27
+
+### Story 1: Dodgers Shut Out Cubs 6-0 — Win Series, End 10-Game Streak
+- **Angle:** FOLLOW UP (April 26 Cubs 10-game streak story). Dodgers won Game 3 6-0, Cubs left 12 runners on base, 0-for-8 RISP. Wrobleski 6 scoreless IP. Ohtani HR No. 6 (109.8 mph). Cubs' streak ends at 10. Dodgers win series 2-1. Dodgers 18-8.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Cubs bounce back; NL standings; Dodgers bullpen health
+
+### Story 2: Murakami 11 HRs / Extension Situation
+- **Angle:** FOLLOW UP (April 25 Murakami story). Tied with Alvarez at 11 HRs for MLB lead. White Sox (10-15) have NOT started extension talks. Historic Japanese-player debut (most HRs in 24 MLB games ever). 2-yr/$34M contract looks like bargain.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Extension timeline; HR race vs Alvarez; White Sox rebuild pace
+
+### Story 3: Mason Miller Scoreless Streak — 34.2 IP, 6.1 From Record
+- **Angle:** NEW. Padres closer Miller at 34 2/3 consecutive scoreless innings — Padres franchise record. All-time reliever record: 41 IP (Gregg Olson, Baltimore, 1988). 0.00 ERA, 0.35 WHIP, 27 Ks in 11.1 IP in 2026. Traded from Oakland July 2025.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Record watch; next Padres save; NL West standings
+
+### Story 4: Paul Skenes Near-Perfect Game / Pirates 14-11
+- **Angle:** FOLLOW UP (April 24 Skenes start). Perfect game bid into 7th (20 up, 20 down). Jake Bauers single ended it. 7 IP 1 H 0 R 7 K 93 pitches. Pirates won 6-0. Skenes 3-1, 3.27 ERA. NL Cy Young winner's best 2026 start.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Skenes next start; Pirates NL Central position
+
+### Story 5: MLB Week 4 Standings / Power Rankings
+- **Angle:** NEW. Dodgers/Padres tied 17-8. Braves 18-8 NL's best. NL Central all 5 over .500 (first time in Divisional Era). Yankees lead AL East 16-9. AL West muddled (Oakland/Texas tied 13-12).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Divisional races; Wild Card projections; NL Central dominance
+
+### Story 6: Alvarez vs Murakami HR Race
+- **Angle:** FOLLOW UP (April 26 Alvarez story). Both at 11 HRs. Alvarez: .347/.466/1.245, 26 RBIs. Murakami: .394 OBP, .992 OPS, 19 RBIs. Both carrying struggling teams (Astros 10-16, White Sox 10-15). Best HR race in years.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Who pulls ahead; Alvarez/Murakami June pace
+
+### Story 7: Braves 18-8 — NL's Best Despite Nationals Loss
+- **Angle:** FOLLOW UP (April 26 Nationals-Braves story). Braves still best in NL at 18-8, 5.5-game NL East lead. Nationals young core (James Wood, García Jr.) developing.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Braves NL East dominance; Nationals rebuild timeline
+
+
+---
+
 ## 2026-04-26
 
 ### Story 1: Cubs 10-Game Win Streak / Beat Dodgers 6-4
