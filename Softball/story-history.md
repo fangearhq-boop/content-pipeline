@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 27, 2026
+
+### Story 1: Alabama-Tennessee Game 3 Tonight — SEC Title Race
+- **Angle:** FOLLOW UP (April 26 Alabama-Tennessee series). After Alabama 12-0 Game 1 and Tennessee 2-0 Game 2 shutout, decisive Game 3 previewed. Game 3 at 7 PM ET SEC Network. Alabama (44-5, 16-4 SEC) trails OU (45-6, 17-3 SEC) by 1.5 games. Tennessee's Mardjetko (11-1) threw the shutout in Game 2. Alabama's first shutout of 2026 season.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Game 3 result; SEC title race final picture; national seed implications
+
+### Story 2: Kendall Wells One HR From NCAA All-Time Record
+- **Angle:** FOLLOW UP (April 26 Wells HR No. 36 story). Wells needs one more HR to tie Espinoza's 31-year all-time record (37, Arizona, 1995). Already broke NCAA freshman record. OU 45-6, 17-3 SEC.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Wells HR No. 37 tying record; record-breaking HR; OU remaining schedule
+
+### Story 3: Katie Stewart Breaks Texas Program HR Record
+- **Angle:** NEW STORY. Stewart hit HR No. 23 (grand slam, 7th inning) Saturday then No. 24 Sunday to break Reese Atwood's Texas program record (23, 2025). Texas swept Kentucky 3-0 at John Cropp Stadium (6-1, 11-2). Texas approximately 40-9, 14-7 SEC. Mike White ejected during series.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Stewart SEC HR leader; Texas national seed; record extended in postseason
+
+### Story 4: Nebraska 14-Game Win Streak / One Win From 40
+- **Angle:** FOLLOW UP (April 26 Nebraska story). Sunday game vs Iowa cancelled (weather). Swept Friday DH 9-1, 5-2. 39-6, 19-1 Big Ten, 14-game win streak. Program-record crowd 3,396 Friday. One win from 40.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Win No. 40 milestone; Big Ten title clinch; national seed
+
+### Story 5: UCLA Hot Streak — 12 of 13
+- **Angle:** FOLLOW UP (UCLA rising). UCLA (No. 6) beat No. 25 Washington 7-2 Sunday in Seattle to clinch series. 12 wins in last 13 games. Top-8 national seed case building.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** UCLA national seed positioning; conference standings
+
+### Story 6: NFCA Week 13 Poll Preview
+- **Angle:** NEW. Week 13 NFCA poll drops today (Monday). Last: OU No. 1, TTech No. 2, Alabama No. 3. Alabama shutout by Tennessee, Nebraska 14-game streak, Texas sweep — movement expected at Nos. 2-5.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Actual poll numbers; Alabama's drop; Nebraska's rise
+
+### Story 7: 2026 WCWS Road Map / Conference Tournament Countdown
+- **Angle:** EVERGREEN. SEC tournament May 5-10 Lexington KY. Selection Show May 10 7 PM ESPN2. WCWS May 28 Devon Park OKC. First year seeding 32 teams. 31 auto bids + 33 at-large.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Conference tournament results; Selection Show; WCWS bracket
+
+---
+
 ## April 26, 2026
 
 ### Story 1: Kendall Wells HR No. 36 / OU Sweeps Georgia
