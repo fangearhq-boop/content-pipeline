@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 28, 2026
+
+### Story 1: Tennessee Wins Series Over Alabama 4-1
+- **Angle:** FOLLOW UP (April 27 Game 3 preview). Tennessee defeated No. 3 Alabama 4-1 in Monday's rubber match at Knoxville. TN scored 3 in 4th, 1 in 5th. Alabama's Mari Hubbard pinch-hit solo HR in 7th. Three straight Ks ended rally. Alabama drops first conference series of 2026 (44-6, 16-5 SEC). TN wins series 2-1. Oklahoma's No. 1 seed effectively locked.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Alabama national seed re-evaluation; TN tournament seeding; SEC Tournament May 5 bracket
+
+### Story 2: Kendall Wells Still at 36 — One From All-Time NCAA Record
+- **Angle:** FOLLOW UP (ongoing record chase). Wells at 36 HRs, one from tying Lauren Espinoza's 31-year NCAA all-time single-season record (37, Arizona 1995). Already holds: NCAA freshman record, OU program record, SEC all-time HR record. OU 45-6, 17-3 SEC, 5 games remaining.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Wells HR No. 37 tying record; potential No. 38 breaking it outright; OU regular season finale
+
+### Story 3: Texas Tech Clinches Second Straight Big 12 Regular Season Title
+- **Angle:** NEW STORY (clinched April 26). TTech (47-4, 19-2 Big 12) clinches back-to-back Big 12 regular season title. No. 1 seed in Big 12 Tournament (opens April 30). Top-2 national seed case.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Big 12 Tournament results; national seed announcement May 10; WCWS path
+
+### Story 4: UCLA Woolery Breaks 26-Year RBI Record / Grant Ties HR Record
+- **Angle:** FOLLOW UP (UCLA hot streak). Jordan Woolery broke Stacey Nuveman's single-season UCLA RBI record (91, 1999). Megan Grant tied Nuveman's 31 HR mark. UCLA 12-of-13, run-ruled Washington 9-1 Sunday. No. 6 nationally.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Grant solo HR record; UCLA national seed; Big Ten conference tournament
+
+### Story 5: Nebraska at 39-6 — Win No. 40 Imminent
+- **Angle:** FOLLOW UP (weather cancelled Sunday's game). Huskers 39-6, 19-1 Big Ten, 14-game win streak. Sunday Iowa game rained out — milestone 40th win still pending.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Win No. 40; Big Ten Tournament; national seed
+
+### Story 6: NFCA Week 13 Poll
+- **Angle:** NEW. Week 13 drops today. Last: Oklahoma No. 1, TTech No. 2, Alabama No. 3. After Alabama's series loss and TTech title clinch — movement expected at Nos. 2-5.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Actual poll numbers when released
+
+### Story 7: Conference Tournament Week Begins
+- **Angle:** EVERGREEN. Big 12 opens April 30. SEC May 5-9 Lexington KY. ACC May 6-9 Charlottesville VA. Selection Show May 10 7 PM ESPN2. Regionals May 15. WCWS May 28 Devon Park OKC.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Conference tournament results; Selection Show May 10
+
+---
+
 ## April 27, 2026
 
 ### Story 1: Alabama-Tennessee Game 3 Tonight — SEC Title Race

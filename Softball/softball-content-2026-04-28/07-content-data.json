@@ -1,0 +1,386 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-28",
+  "compiled_at": "2026-04-28T10:24:56.431353+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Tennessee Wins Series Over Alabama 4-1 — Tide Drop First Conference Series of 2026**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tennessee 4, Alabama 1. The Lady Vols take Game 3 and the series over No. 3 Alabama — the Tide's first conference series loss of 2026. SEC title race is settled: Oklahoma's No. 1 seed is all but locked up. #VolsSoftball #RollTide",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#VolsSoftball",
+            "#RollTide"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Mari Hubbard's pinch-hit HR in the 7th was the lone bright spot as Alabama falls 4-1 to Tennessee in Game 3. The Tide drop their first SEC series of 2026 and fall to 44-6, 16-5 SEC. #RollTide #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#SECSoftball"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-tennessee-wins-series-alabama-game-3.html",
+        "headline": "Tennessee Wins Series Over Alabama, Hands Tide First Conference Loss of 2026",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Kendall Wells Still at 36 — The Nation Waits for HR No. 37**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "One home run away. Kendall Wells sits at 36 on the season — one swing from tying Lauren Espinoza's 31-year NCAA all-time record (37, Arizona 1995). Oklahoma has 5 games left. The record chase is must-watch softball. #OUSoftball #KendallWells",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OUSoftball",
+            "#KendallWells"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 2-2",
+          "text": "She already broke the NCAA freshman record, the OU program record, and the SEC all-time HR record. Now Kendall Wells needs just ONE more to tie the NCAA single-season record that's stood since 1995. This is history in real time. #OUSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#OUSoftball"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kendall-wells-one-hr-from-ncaa-record.html",
+        "headline": "Kendall Wells Is One Home Run From the NCAA All-Time Record — And the World Is Watching",
+        "word_count": 499
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Texas Tech Clinches Second Straight Big 12 Regular Season Title**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Texas Tech clinches their second straight Big 12 regular season softball title, finishing 47-4, 19-2. Back-to-back conference champions — and the No. 1 seed in the Big 12 Tournament is theirs. #WreckEm #Big12Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#Big12Softball"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 3-2",
+          "text": "47-4, 19-2 in Big 12 play, back-to-back conference champions, and a top-2 national seed case that's only getting stronger. Texas Tech softball is having a season for the ages. #WreckEm #Big12Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#Big12Softball"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-texas-tech-clinches-big-12-title.html",
+        "headline": "Texas Tech Claims Second Straight Big 12 Regular Season Title, Eyes National Seed",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**UCLA's Woolery and Grant Rewrite Bruin Record Books**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jordan Woolery broke Stacey Nuveman's 26-year UCLA RBI record (91, 1999) and Megan Grant tied Nuveman's 31 HR mark. The Bruins are 12-of-13 and rewriting Westwood history. #GoBruins #UCLASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoBruins",
+            "#UCLASoftball"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ucla-woolery-grant-break-program-records.html",
+        "headline": "UCLA's Woolery and Grant Rewrite Bruin Record Books in Record-Breaking Season",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Nebraska Still at 39-6 — Win No. 40 Awaits**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nebraska sits at 39-6 and 19-1 in Big Ten play with a 14-game win streak. Sunday's game vs Iowa was rained out — so Win No. 40 is still waiting. Huskers are one step away from a milestone. #Huskers #Big10Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#Big10Softball"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nebraska-39-6-win-40-imminent.html",
+        "headline": "Nebraska Sits at 39-6 as the Huskers Close In on Win No. 40",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**NFCA Week 13 Poll Released Today**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The NFCA Week 13 poll is out today. After Alabama's series loss to Tennessee and Texas Tech clinching the Big 12 title — does the No. 2 spot change hands? Nebraska and UCLA both have strong cases to rise. #SoftballRankings #NCAAsoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballRankings",
+            "#NCAAsoftball"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Conference Tournament Week Is Here — Road to WCWS Begins Thursday**",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Conference tournament week is HERE. Big 12 opens Thursday. SEC starts May 5 in Lexington. ACC starts May 6 in Charlottesville. Selection Show May 10 on ESPN2. WCWS May 28 in OKC. The road to Devon Park begins now. #NCAAsoftball #WCWS2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAAsoftball",
+            "#WCWS2026"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
