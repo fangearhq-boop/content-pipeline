@@ -2,6 +2,14 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+| Date | Tier | Topic | Platforms | Notes |
+|------|------|-------|-----------|-------|
+| 2026-04-28 | T1 | Korda now 5 points from LPGA HOF — 22 of 27 points; Chevron win = 2 pts (major); 4th American since 1990 with 3+ majors (Mallon, King, Sheehan); needs 5 more (e.g. 2 majors or 1 major + 3 wins); next: Riviera Maya Open April 30 | X, FB, Article | NEW STORY — HOF milestone |
+| 2026-04-28 | T1 | PGA Tour schedule under fire — Scheffler+McIlroy never share Sig Event field across 3 consecutive $20M events (Heritage, Cadillac, Truist); McIlroy skips Heritage + Cadillac (2 consecutive); Scheffler skips Truist; no fines | X, FB, Article | NEW STORY |
+| 2026-04-28 | T1 | Cadillac Championship preview — April 30-May 3, Trump Doral Blue Monster (first PGA Tour event since 2016); $20M Sig Event; Scheffler in; McIlroy/Åberg/Schauffele/Fitzpatrick out | X, FB, Article | NEW STORY |
+| 2026-04-28 | T2 | LPGA Riviera Maya Open preview — Korda plays April 30-May 3 at Mayakoba, Playa del Carmen; going for back-to-back wins; World No. 1; 2 wins + 3 majors in 2026 | X, FB, Article | FOLLOW-UP |
+| 2026-04-28 | T2 | LIV Golf Virginia preview — May 7-10, Trump National DC Sterling VA; Rahm hot (Mexico City 6-shot win); Niemann defending; Ripper GC leads standings; Legion XIII (Rahm) seeking back-to-back | X, FB, Article | FOLLOW-UP (more detailed than April 27 "what's next") |
+
 ## Published Stories
 
 | Date | Tier | Topic | Platforms | Notes |

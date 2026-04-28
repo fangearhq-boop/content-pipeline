@@ -3,6 +3,27 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
+## Current Pipeline (2026-04-28)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-28 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-28 |
+| Fact-check | Complete (verify-facts.py — 22 claims, 40 HIGH confidence; tweet fixes applied) | 2026-04-28 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-28 |
+| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-04-28 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-28 |
+| Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent) | 2026-04-28 |
+| Git | Committed and pushed to main | 2026-04-28 |
+
+## Notes (2026-04-28)
+- 5 stories: Korda HOF countdown (22 of 27 pts, 5 away, 4th American since 1990 with 3+ majors) — T1; PGA Tour schedule controversy (Scheffler+McIlroy never share Sig Event field across Heritage/Cadillac/Truist, no fines, $20M events depleted) — T1; Cadillac Championship preview (Trump Doral returns first since 2016, $20M, Scheffler in, McIlroy/Åberg/Schauffele/Fitzpatrick out, April 30-May 3) — T1; LPGA Riviera Maya Open (Korda back-to-back attempt, Mayakoba April 30-May 3) — T2; LIV Virginia preview (May 7-10, Rahm hot, Niemann defending, Ripper GC leads) — T2
+- Pen names: Marcus Cole (articles 1, 4), Ryan Calloway (articles 2, 5), Jake Torres (article 3)
+- X posts: 8 total, all under 280 characters (Story 2 tweet 1 fixed 296→236; Story 3 tweet 1 fixed 287→245)
+- Fact confidence: Korda 22 of 27 HOF pts HIGH (LPGA official, justwomenssports.com, multiple). 4th American since 1990 with 3+ majors HIGH (LPGA official, Olympics.com). Chevron win = 2 HOF pts HIGH (LPGA official). Three $20M Sig Events + 25 days HIGH (Yahoo Sports). McIlroy skip RBC Heritage HIGH (prior pipeline). McIlroy skip Cadillac HIGH (SI.com, multiple). Scheffler skip Truist HIGH (Golfmagic, SI.com, Yardbarker). No fines HIGH (Yahoo Sports). Cadillac April 30-May 3 HIGH (PGA Tour official). Trump Doral first since 2016 HIGH (SI.com, multiple). $20M purse HIGH (PGA Tour official). McIlroy/Åberg/Schauffele/Fitzpatrick out of Cadillac HIGH (SI.com). Riviera Maya Open April 30-May 3 Mayakoba HIGH (LPGA official). LIV Virginia May 7-10 Trump National DC HIGH (livgolf.com + prior pipeline). Rahm Mexico City 6-shot win HIGH (prior pipeline). Ripper GC leads standings HIGH (prior pipeline — labeled MEDIUM for exact points but HIGH for leads). Niemann defending HIGH (prior pipeline).
+- WordPress publish: Failed — egress proxy blocks access (Host not in allowlist, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
 ## Current Pipeline (2026-04-27)
 
 | Stage | Status | Last Updated |
