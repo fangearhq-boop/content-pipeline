@@ -2,6 +2,50 @@
 
 ---
 
+## April 28, 2026
+
+### Story 1: CPSC Warns Parents to Destroy "Relaxing Baby" Swim Floats — One Child Has Died
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC safety warning April 2, 2026: "Relaxing Baby" brand inflatable swim floats, ages 3-36 months, sold Amazon/eBay; can flip and submerge child, drowning risk; 1 confirmed child death (2-year-old); seller Wu He/Relaxing Baby of China unresponsive to CPSC — warning issued directly to consumers instead of formal recall; action: puncture and destroy immediately, do not donate or sell)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Product: "Relaxing Baby" blue and green inflatable swim float; Ages: 3-36 months; Sold: Amazon.com, eBay; Hazard: can flip and submerge child; Deaths: 1 (2-year-old); Seller status: unresponsive; Action: puncture and destroy immediately
+- **Follow-Up Opportunities:** Summer pool safety guide; review of compliant infant swim products
+
+### Story 2: Elevate Trampoline Park Opens in Colorado Springs — First in Colorado
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Elevate Trampoline Park opened April 18, 2026 at 2512 Airport Rd., COS — 31,000 sq ft, first Colorado location, 14th nationally; features trampolines, basketball, dodgeball, and pixel floor (interactive AR display in floor surface); year-round, birthday parties, group events; in business 11+ years)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Address: 2512 Airport Rd., COS; Opened: April 18, 2026; Size: 31,000 sq ft; First Colorado location; Website: elevatetrampolinepark.com/colorado-springs
+- **Follow-Up Opportunities:** Review/visit recap; birthday party guide for COS
+
+### Story 3: D11 Howbert Elementary Students Release Trout Into Fountain Creek
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Howbert Elementary 5th graders, D11 Outdoor Education school, released trout into Fountain Creek at Manitou Springs Memorial Park April 27, 10:15 AM; fish raised from eggs since October 2025 via Trout in the Classroom program with Colorado Trout Unlimited; learning: ecosystems, conservation, water stewardship)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** School: Howbert Elementary, D11; Grade: 5th; Program: TIC / Colorado Trout Unlimited; Start: Oct 2025; Release: April 27, 2026; Location: Manitou Springs Memorial Park, Fountain Creek
+- **Follow-Up Opportunities:** Broader TIC program coverage; environmental ed in COS schools guide
+
+### Story 4: Colorado Springs Parks Spring Updates — Rock Island Trail Bridge + Garden of the Gods Water Feature
+- **Content Pillar:** Local News / Evergreen
+- **Angle:** NEW STORY (City of COS 2026 TOPS projects: Rock Island Trail 210-ft pedestrian bridge over Sand Creek + flashing crossing at Peterson Rd., spring 2026 start (10-12 months); Pikes Peak Greenway 0.5 miles new concrete + ADA improvements; Garden of the Gods water feature before Summer 2026; coloradosprings.gov/TOPS2026)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Rock Island Trail bridge: 210 ft, over Sand Creek, spring 2026; Pikes Peak Greenway: 0.5 miles new trail + ADA; Garden of the Gods water feature: before Summer 2026; Source: coloradosprings.gov/TOPS2026
+- **Follow-Up Opportunities:** Garden of the Gods water feature opening coverage; Rock Island Trail project updates
+
+### Story 5: Consistent Bedtime Routine Tied to 1+ Hour More Sleep Per Night for Children
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (Multinational study per AASM: children with nightly bedtime routine sleep 1+ hour more per night vs no routine; dose-dependent — more consistent = more sleep; outcomes include earlier bedtime, faster sleep onset, fewer wakings, longer duration; start in infancy; AAP 2026 framework shift: screen-free wind-down window before bed, timing over quantity; routine elements: dim lights, close blinds, read stories)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Finding: 1+ hr/night more sleep with consistent routine; Effect: dose-dependent; Source: AASM multinational study; AAP 2026: quality/timing over strict limits; Routine: dim lights, close blinds, read stories, same time nightly
+- **Follow-Up Opportunities:** Age-specific bedtime routine guides; sleep tracker tool for families
+
+---
+
 ## April 27, 2026
 
 ### Story 1: SEGMART Mini Toddler Trampoline Recall — Strangulation Hazard from Accessory Straps

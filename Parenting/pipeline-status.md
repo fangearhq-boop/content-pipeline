@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 27, 2026
+## Latest Run: April 28, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC.gov ("Relaxing Baby" swim float warning — Amazon/eBay, 1 infant death, seller won't recall, parents urged to destroy); GlobeNewswire (Elevate Trampoline Park open at 2512 Airport Rd — 31,000 sq ft, trampolines, basketball, dodgeball, pixel AR floor); D11 FlashAlert (Howbert Elementary 5th graders released trout into Fountain Creek April 27 — raised from eggs since October); coloradosprings.gov/TOPS2026 (Rock Island Trail 210-ft pedestrian bridge over Sand Creek + Peterson Rd crossing; Pikes Peak Greenway 0.5 mi new concrete + ADA; Garden of the Gods water feature before summer 2026); AASM (multinational study: kids with nightly bedtime routine sleep 1+ hour more; dose-dependent; AAP 2026 media framework: screen-free wind-down window) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 27 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging, sources noted |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; 2 char fixes applied (Story 1: 281→218 chars, shortened warning lead; Story 4: 293→248 chars, converted to list format); all verified under 280; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; no hashtags; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 43 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 10 images |
+| Dashboard | COMPLETE | review-dashboard.html (25 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-28.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-04-28.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-28)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 2 (D11 Howbert Elementary trout release; COS Parks 2026 upgrades) | 1-2 |
+| Local Events | 1 (Elevate Trampoline Park opens at 2512 Airport Rd) | 1-2 |
+| National Parenting | 2 ("Relaxing Baby" swim float CPSC warning; bedtime routine sleep research) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 27, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -726,6 +759,20 @@
 | 2026-02-22 | 7 | X + FB | Complete |
 
 ## Pipeline Run Log
+
+### 2026-04-28 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Jenna Park [swim float warning], Sofia Reyes [Elevate Trampoline Park], Marcus Rivera [D11 trout release], Keisha Williams [COS parks upgrades], Marta Kim [bedtime routine research])
+- **PostPlanner exports:** cosp-postplanner-2026-04-28.xlsx (5 posts), cosp-postplanner-tobi-2026-04-28.xlsx (5 TOBI posts)
+- **Coverage:** CPSC warning on "Relaxing Baby" infant swim floats sold on Amazon/eBay (can flip and submerge infants, 1 two-year-old death, seller refusing voluntary recall, parents urged to destroy immediately); Elevate Trampoline Park opens at 2512 Airport Rd COS (31,000 sq ft, trampolines, basketball, dodgeball, "pixel floor" AR game); D11 Howbert Elementary 5th graders released trout into Fountain Creek April 27 (raised from eggs since October, Manitou Springs release site, part of COS/Trout Unlimited conservation ed program); COS 2026 parks upgrades (Rock Island Trail 210-ft pedestrian bridge over Sand Creek + Peterson Rd flashing crossing, spring start ~10-12 months; Pikes Peak Greenway 0.5 mi new concrete + ADA improvements, spring 2026; Garden of the Gods water feature before summer 2026; coloradosprings.gov/TOPS2026); AASM multinational study — nightly bedtime routine = 1+ hour more sleep/night, dose-dependent; AAP 2026 media framework screen-free wind-down window; start in infancy for best long-term outcomes
+- **Notes:**
+  - Story 1 X tweet was 281 chars on first verify-facts.py run; trimmed warning lead to shorter form (218 chars)
+  - Story 4 X tweet was 293 chars on first run; converted to compact list format (248 chars)
+  - Image manifest warnings are cosmetic (not_started is expected at this stage)
+  - WordPress proxy error: same environment restriction as all prior runs (Host not in allowlist)
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-04-27 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
