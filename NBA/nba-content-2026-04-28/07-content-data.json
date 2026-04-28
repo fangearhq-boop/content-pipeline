@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-28",
+  "compiled_at": "2026-04-28T11:29:02.809308+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Thunder Sweep Suns, First Team Into Round 2 (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "SWEPT. Thunder 131, Suns 122.\n\nSGA: 31 PTS, 8 AST. HOLMGREN: 24/12. HARTENSTEIN: 18/12.\n\nOKC shoots 50% from three. FIRST team into Round 2.\n\n12-0 in Round 1 over three straight seasons. DYNASTY. ⚡\n\n#HoopHeroes #OKCThunder #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#OKCThunder",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Three straight seasons. TWELVE first-round wins. ZERO losses.\n\nThe Thunder are the most dominant playoff machine in the NBA right now.\n\nSGA and OKC await the Lakers-Rockets winner. The West is on notice. ⚡\n\n#HoopHeroes #OKCThunder",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#OKCThunder"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-thunder-sweep-suns-okc-round-2.html",
+        "headline": "Thunder Sweep Suns, Become First Team Into Round 2",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thunder Sweep Suns\n\n**Image Concept A — Social (1080x1350)**\n- **Imagn search terms:** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Scene:** SGA celebrating, arms raised, crowd behind him in OKC gear\n- **Text overlay:** \"SWEPT\" (Bebas Neue, all-caps, #FF5722 orange) / \"OKC 12-0 IN ROUND 1\" (Montserrat, #FFC107 gold)\n- **Bar:** Dark midnight #1A1A2E at 45% opacity, bottom-center\n- **Status:** not_started\n\n**Image Concept B — Article Hero (1200x630)**\n- **Imagn search terms:** \"Chet Holmgren Oklahoma City Thunder\"\n- **Scene:** Holmgren dunking or celebration with teammates\n- **Text overlay:** \"THUNDER SWEEP\" + \"131-122\" at top-left\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Jokic Triple-Double Saves Nuggets — Series Now 3-2 (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "JOKIĆ WON'T LET DENVER DIE.\n\n27 PTS. 12 REB. 16 AST.\n\nMurray 24. Jones 20 off the bench.\n\nNuggets win 125-113. Series: MIN 3-2. Game 6 in Minneapolis Thursday. 🎲\n\n#HoopHeroes #Nuggets #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Nuggets",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 196
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Minnesota had a 3-1 series lead. DEN faced elimination.\n\nThen Nikola Jokić posted 16 ASSISTS and willed Denver to a win.\n\nSeries is 3-2. Game 6 is Thursday in Minnesota. The Joker is not done. 🎲\n\n#HoopHeroes #Nuggets",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Nuggets"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-jokic-triple-double-nuggets-survive-game5.html",
+        "headline": "Jokic's 27/12/16 Triple-Double Keeps Nuggets Alive in Game 5",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jokic Triple-Double Saves Nuggets\n\n**Image Concept A — Social (1080x1350)**\n- **Imagn search terms:** \"Nikola Jokic Denver Nuggets\"\n- **Scene:** Jokic with ball in hand, mid-play or celebrating with teammates\n- **Text overlay:** \"27 PTS / 12 REB / 16 AST\" (Bebas Neue, #FF5722) / \"JOKER KEEPS DENVER ALIVE\" (Montserrat, white)\n- **Bar:** Dark midnight #1A1A2E at 45% opacity, bottom-center\n- **Status:** not_started\n\n**Image Concept B — Article Hero (1200x630)**\n- **Imagn search terms:** \"Jamal Murray Denver Nuggets\"\n- **Scene:** Murray in game action or huddle\n- **Text overlay:** \"NUGGETS SURVIVE\" + \"Series 3-2\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "8-Seed Magic Take 3-1 Lead Over Top-Seeded Pistons (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "UPSET ALERT. 🚨\n\nNo. 8 Magic beat No. 1 Pistons 94-88. ORL leads 3-1.\n\nBane: 22 pts, 5 threes. Cade: 25 pts and 8 TURNOVERS.\n\nOrlando is ONE WIN from eliminating the top seed in the East.\n\n#HoopHeroes #MagicNBA #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#MagicNBA",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Cade Cunningham: 25 pts. Also 8 turnovers.\n\nDetroit's No. 1 seed season is on life support. One loss from going home in Round 1.\n\nThe Magic are coming for everything. 🎩\n\n#HoopHeroes #Pistons",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Pistons"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-magic-3-1-lead-pistons-upset-alert.html",
+        "headline": "8-Seed Magic One Win Away From Eliminating No. 1 Pistons",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Magic 3-1 vs Pistons\n\n**Image Concept A — Social (1080x1350)**\n- **Imagn search terms:** \"Desmond Bane Orlando Magic\"\n- **Scene:** Bane shooting three-pointer or celebrating\n- **Text overlay:** \"UPSET ALERT\" (Bebas Neue, #FF5722) / \"MAGIC 3-1 PISTONS\" (Montserrat, #FFC107)\n- **Bar:** Dark midnight #1A1A2E at 45% opacity, bottom-center\n- **Status:** not_started\n\n**Image Concept B — Article Hero (1200x630)**\n- **Imagn search terms:** \"Cade Cunningham Detroit Pistons\"\n- **Scene:** Cade in game action\n- **Text overlay:** \"DETROIT IN TROUBLE\" + \"Magic Lead 3-1\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Tuesday Triple-Header — Elimination Games Everywhere (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "TONIGHT'S PLAYOFF SLATE 🏀\n\n7 PM: Celtics vs 76ers — BOS can clinch (3-1)\n8 PM: Knicks vs Hawks at MSG — tied 2-2\n9:30 PM: Spurs vs Blazers — SA can clinch (3-1)\n\nThree Game 5s. Someone's season ends tonight.\n\n#HoopHeroes #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-tuesday-three-game5s-celtics-knicks-spurs.html",
+        "headline": "Three Game 5s Tuesday Night: Celtics, Knicks and Spurs All in Action",
+        "word_count": 673
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tuesday Triple-Header Preview\n\n**Image Concept A — Social (1080x1350)**\n- **Imagn search terms:** \"Jayson Tatum Boston Celtics\"\n- **Scene:** Tatum in celebration or pre-game warmup\n- **Text overlay:** \"GAME 5 TONIGHT\" (Bebas Neue, #FF5722) / \"CELTICS • KNICKS • SPURS\" (Montserrat, white)\n- **Bar:** Dark midnight #1A1A2E at 50% opacity, bottom-center\n- **Status:** not_started\n\n**Image Concept B — Article Hero (1200x630)**\n- **Imagn search terms:** \"Victor Wembanyama San Antonio Spurs\"\n- **Scene:** Wemby in game action — blocks or scoring\n- **Text overlay:** \"3 GAME 5s TONIGHT\" + \"Who Advances?\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Rest of Week Playoff Outlook (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The NBA playoffs don't stop.\n\nWed: Lakers-Rockets G5 + Cavs-Raptors G5\nThu: Magic-Pistons G5 + Nuggets-Wolves G6\n\nOnly the Thunder are through. Everyone else is still fighting. ⚡\n\n#HoopHeroes #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-playoff-week-outlook-wednesday-thursday.html",
+        "headline": "Playoff Week Ahead: Lakers, Cavs, Magic, Nuggets All in Action Wednesday-Thursday",
+        "word_count": 567
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rest of Week Outlook\n\n**Image Concept A — Social (1080x1350)**\n- **Imagn search terms:** \"LeBron James Los Angeles Lakers\"\n- **Scene:** LeBron dribbling or in game action\n- **Text overlay:** \"ROUND 1 CLOSING\" (Bebas Neue, #FF5722) / \"WEEK AHEAD: 4 GAMES\" (Montserrat, white)\n- **Bar:** Dark midnight #1A1A2E at 40% opacity, bottom-left\n- **Status:** not_started\n\n**Image Concept B — Article Hero (1200x630)**\n- **Imagn search terms:** \"Scottie Barnes Toronto Raptors\"\n- **Scene:** Barnes in game action\n- **Text overlay:** \"PLAYOFFS WEEK AHEAD\" + \"Wed/Thu Slate\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

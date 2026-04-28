@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-28
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Thunder 131, Suns 122 (Game 4, April 27) — OKC complete 4-0 sweep; SGA 31 pts/8 ast; Holmgren 24/12; Hartenstein 18/12 (7 OREB); OKC shoots 17/34 (50%) from three; first team into Round 2; Thunder 12-0 in Round 1 over three straight seasons | 1 | FOLLOW-UP (OKC was 3-0 entering G4) |
+| 2 | Nuggets 125, Wolves 113 (Game 5, April 27) — Jokic 27/12/16 ast triple-double to stave off elimination; Murray 24; Spencer Jones 20 off bench; Dosunmu 18 for MIN; series MIN 3-2; Game 6 Thursday in Minneapolis | 1 | FOLLOW-UP (MIN led 3-1 entering G5) |
+| 3 | Magic 94, Pistons 88 (Game 4, April 27) — 8-seed ORL leads 3-1; Bane 22/5 3PM; Cade 25/9reb/6ast/8 TOs; Tobias Harris 20; Game 5 Thursday in Orlando | 1 | FOLLOW-UP (ORL 2-1 entering G4) |
+| 4 | Tuesday triple-header preview — Celtics-76ers G5 7PM ESPN (BOS 3-1); Knicks-Hawks G5 at MSG 8PM NBC (tied 2-2); Spurs-Blazers G5 9:30PM ESPN (SA 3-1) | 2 | NEW STORY |
+| 5 | Rest of week outlook — Lakers-Rockets G5 Wed in LA (LAL 3-1); Cavs-Raptors G5 Wed in CLE (tied 2-2); Magic-Pistons G5 Thu in ORL (ORL 3-1); Nuggets-Wolves G6 Thu in MIN (MIN 3-2) | 2 | NEW STORY |
+
+### STORY 1: Thunder 131, Suns 122 — Game 4 (Sweep Completed)
+- **Tier:** 1
+- **Category:** Playoff Series Clincher / Sweep / Dynasty
+- **Key facts:** Thunder 131, Suns 122. OKC sweeps 4-0, first team into Round 2. SGA: 31 pts, 8 ast. Holmgren: 24 pts, 12 reb (9/16 FG). Hartenstein: 18 pts, 12 reb, 7 offensive rebounds. OKC 17/34 (50%) from three. Thunder 12-0 in Round 1 over three straight seasons. OKC awaits Lakers-Rockets winner.
+
+### STORY 2: Nuggets 125, Wolves 113 — Game 5 (Jokic Saves Denver)
+- **Tier:** 1
+- **Category:** Individual Dominance / Series Survival
+- **Key facts:** Nuggets 125, Wolves 113. Series MIN 3-2. Jokic: 27 pts, 12 reb, 16 ast (triple-double). Murray: 24 pts. Spencer Jones: 20 pts off bench (subbing for injured Aaron Gordon). Dosunmu: 18 for MIN. Game 6 Thursday in Minneapolis.
+
+### STORY 3: Magic 94, Pistons 88 — Game 4 (ORL 3-1)
+- **Tier:** 1
+- **Category:** Potential Major Upset / 8-seed vs 1-seed
+- **Key facts:** Magic 94, Pistons 88. ORL leads 3-1. Bane: 22 pts, 5 3PM. Cade Cunningham: 25 pts, 9 reb, 6 ast, 8 TOs. Tobias Harris: 20 for DET. Game 5 Thursday in Orlando.
+
+### STORY 4: Tuesday Triple-Header (April 28)
+- **Tier:** 2
+- **Category:** Preview / Schedule
+- **Key facts:** Celtics-76ers G5 7PM ESPN (BOS 3-1); Knicks-Hawks G5 8PM NBC (tied 2-2, at MSG); Spurs-Blazers G5 9:30PM ESPN (SA 3-1).
+
+### STORY 5: Rest of Week Playoff Outlook
+- **Tier:** 2
+- **Category:** Roundup / Preview
+- **Key facts:** Lakers-Rockets G5 Wednesday in LA (LAL 3-1); Cavs-Raptors G5 Wednesday in Cleveland (tied 2-2); Magic-Pistons G5 Thursday in Orlando (ORL 3-1); Nuggets-Wolves G6 Thursday in Minneapolis (MIN 3-2). Thunder only team through to Round 2.
+
+---
+
 ## 2026-04-27
 
 | # | Story | Tier | Tag |
