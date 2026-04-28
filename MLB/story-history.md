@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-28
+
+### Story 1: Mason Miller Scoreless Streak Ends on Controversial Call
+- **Angle:** FOLLOW UP (April 27 Miller record-watch story). 34⅔-inning scoreless streak ended Monday vs Cubs — umpire Dan Merzel called foul ball fair, awarding Matt Shaw an infield hit. Padres franchise record (passed Cla Meredith's 33⅔ from 2006). Was 6⅓ IP from Gregg Olson's all-time MLB reliever record (41 IP, 1988). 2026: 1.26 ERA, 0.56 WHIP, 28:2 K:BB, 10 saves. Padres still won.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Miller bounce-back; NL West standings; Padres playoff position
+
+### Story 2: Spencer Torkelson Ties Detroit Tigers HR Streak Record (5 Straight)
+- **Angle:** NEW STORY. Torkelson homered in 5 consecutive games, tying Tigers franchise record (Greenberg, York, Wertz, Horton, Thames). Was under .200 with 0 HRs 7 days prior. 421-foot blast vs Reds, Detroit 8-3 win. One more HR = new Tigers record AND longest streak in MLB since Devers (2024).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Torkelson HR No. 6 breaking sole Tigers record; Detroit standings
+
+### Story 3: Red Sox Fire Alex Cora (10-17 Record)
+- **Angle:** NEW STORY. Red Sox fired Cora + 5 coaches with 10-17 record. First in-season firing since Jimy Williams (August 2001). Chad Tracy (Triple-A Worcester) named interim. Players in tears. Cora won 2018 World Series with Boston. Craig Breslow called decision "necessary."
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Tracy's debut as interim; Red Sox next moves; AL East implications
+
+### Story 4: Braves First Team in MLB to Reach 20 Wins
+- **Angle:** FOLLOW UP (April 27 Braves 18-8 story). Braves first to 20 wins after beating Phillies 2-of-3 weekend. NL East lead 5+ games. Walt Weiss first season as ML manager. Rebounded from 76-86 (2025).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Braves NL East lead; Phillies underperformance; NL standings picture
+
+### Story 5: Ohtani 3-for-3, HR as Dodgers Shut Out Cubs 6-0
+- **Angle:** FOLLOW UP (April 27 Dodgers-Cubs series finale). Ohtani 3-for-3, walk, HR (first in 13 games, 109.8 mph EV), 2 runs, 1 RBI. Wrobleski 6 scoreless IP. Dodgers 6-0, win series 2-1. Dodgers 19-9.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Dodgers NL West lead; Cubs recovery; Ohtani 2026 pace
+
+### Story 6: Mets Managerial Situation / Mendoza Hot Seat
+- **Angle:** FOLLOW UP (Mets 12-game losing streak). Mets went 7-16 during streak (worst in baseball). Franchise worst since 2004. Mendoza job under scrutiny. Entered 2026 with 79.5% FanGraphs playoff odds.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Mets record recovery; Mendoza job status; NL Wild Card race
+
+### Story 7: Monday Recap / Standings Overview
+- **Angle:** EVERGREEN. Braves 20-8, Dodgers 19-9, Yankees 18-10. NL Central all 5 over .500. Alvarez/Murakami HR race at 11 apiece.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Tuesday games; standings update
+
+---
+
 ## 2026-04-27
 
 ### Story 1: Dodgers Shut Out Cubs 6-0 — Win Series, End 10-Game Streak
