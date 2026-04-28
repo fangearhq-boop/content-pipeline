@@ -1,0 +1,370 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-28",
+  "compiled_at": "2026-04-28T11:36:59.168122+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Miami GP Sunday Faces Thunderstorm Threat (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "⛈️ WEATHER ALERT: The Miami GP is at risk.\n\nSunday's race faces potential THUNDERSTORMS. If lightning is forecast, Miami's safety plan could force a postponement or suspension.\n\nFriday and Saturday look fine — but race day is a 37% rain probability. 🌧️\n\n#F1Fanrecap #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 278
+        },
+        {
+          "label": "Post 1-2",
+          "text": "If thunderstorms hit Miami on Sunday, the F1 race must STOP.\n\nThat's not just strategy chaos — it could mean abandoning the race entirely.\n\nAll that upgrade firepower from Ferrari, McLaren, and Red Bull... vs. Florida weather. ⛈️\n\n#F1Fanrecap #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-miami-gp-thunderstorm-weather-threat.html",
+        "headline": "Miami GP Faces Thunderstorm Threat on Race Day Sunday",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Formula 1 Miami International Autodrome"
+          ],
+          "text_overlay": [
+            "WEATHER WARNING\" (Bebas Neue, #FF5722) / \"THUNDERSTORM THREAT SUNDAY\" (Montserrat, white)"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Formula 1 Miami race"
+          ],
+          "text_overlay": [
+            "MIAMI GP: STORM WARNING\" at top-left"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton Needs Miami — Brundle Analysis (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Martin Brundle: \"If there's a sniff of a victory, I think Lewis is still very much capable of taking that.\"\n\nHamilton: 1 Ferrari podium (Shanghai). Then P6 in Japan.\n\nNow Ferrari brings their BIGGEST upgrade of 2026 to Miami. 🏎️\n\n#F1Fanrecap #F1 #LewisHamilton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#LewisHamilton"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Brundle says the 2026 cars suit Hamilton much more than the ground effect era.\n\nHe won 7 titles. He's 4th in the standings. He has a world-class car upgrade arriving Friday.\n\nMiami could be Lewis Hamilton's moment. 🏆\n\n#F1Fanrecap #LewisHamilton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#LewisHamilton"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hamilton-ferrari-miami-brundle-analysis.html",
+        "headline": "Brundle: Hamilton Still Capable of Victory as Ferrari Brings Miami Upgrade",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Lewis Hamilton Ferrari"
+          ],
+          "text_overlay": [
+            "MIAMI MOMENT?\" (Bebas Neue, #FF5722) / \"HAMILTON READY FOR VICTORY\" (Montserrat, white)"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Lewis Hamilton Ferrari Formula 1"
+          ],
+          "text_overlay": [
+            "HAMILTON AT FERRARI — 2026"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen \"Fundamentally Wrong\" — FIA Changes Not Enough (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "The FIA tweaked the 2026 rules for Miami. Verstappen is not impressed.\n\n\"The problem is simply that you can tweak these regulations a bit, but fundamentally something is wrong.\"\n\nHe wants V10s or V8s. He's 9th in the standings. 😤\n\n#F1Fanrecap #F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Verstappen wants V10 or V8 engines.\n\nHe has an exit clause if Red Bull underperforms.\n\nHe's 9th in the championship with 12 points.\n\nDomenicali is in private talks with him. The clock is ticking. ⏱️\n\n#F1Fanrecap #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Verstappen"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-fundamentally-wrong-fia-regulation-dispute.html",
+        "headline": "Verstappen: FIA Rule Tweaks Not Enough — \"Fundamentally Something Is Wrong\"",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Max Verstappen Red Bull"
+          ],
+          "text_overlay": [
+            "FUNDAMENTALLY WRONG\" (Bebas Neue, #FF5722) / \"VERSTAPPEN vs. THE RULES\" (Montserrat, white)"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Max Verstappen Red Bull Racing"
+          ],
+          "text_overlay": [
+            "THE REGULATION WAR"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "FP1 Extended to 90 Minutes — What Teams Need to Learn (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "FIA has extended FP1 at Miami to 90 MINUTES.\n\nWhy? 5-week gap. New reg changes. Sprint format = this is the ONLY practice before qualifying.\n\nTeams have one session to figure out the new rules. Starts Friday noon local / 1PM ET. ⏱️\n\n#F1Fanrecap #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-miami-fp1-extended-90-minutes-sprint-format.html",
+        "headline": "Why Miami's 90-Minute FP1 Matters More Than Any Practice Session This Season",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Formula 1 practice session pit lane"
+          ],
+          "text_overlay": [
+            "90 MIN FP1\" (Bebas Neue, #FF5722) / \"FRIDAY MAY 1 — 1PM ET\" (Montserrat, white)"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes Formula 1"
+          ],
+          "text_overlay": [
+            "MIAMI: ONE SHOT AT SETUP"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Constructors' Championship Snapshot — Miami is the Reset (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "F1 2026 Constructors' standings heading into Miami:\n\n🥇 Mercedes: 135 pts (3 wins from 3)\n🥈 Ferrari: 90 pts\n🥉 McLaren: 56 pts\n4. Red Bull: 16 pts\n\nEveryone brings their biggest upgrades THIS WEEKEND. The order could flip. 🔥\n\n#F1Fanrecap #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-constructors-championship-miami-reset.html",
+        "headline": "Constructors' Championship Snapshot: Can Anyone Close the Gap to Mercedes at Miami?",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes Formula 1"
+          ],
+          "text_overlay": [
+            "CHAMPIONSHIP STANDINGS\" (Bebas Neue, #FF5722) / \"MIAMI CHANGES EVERYTHING?\" (Montserrat, white)"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Lando Norris McLaren Formula 1"
+          ],
+          "text_overlay": [
+            "2026 CONSTRUCTORS' BATTLE"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-28
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Miami GP Sunday faces thunderstorm threat — 37% rain probability, 100% cloud cover at race start, lightning safety plan could force postponement; Friday/Saturday dry 30-32°C | 1 | NEW STORY |
+| 2 | Brundle: Hamilton "still capable of victory" — Ferrari SF-26 full upgrade for Miami; Shanghai podium + Suzuka P6; "sniff of a victory" possible; Hamilton 4th/41pts | 1 | NEW STORY |
+| 3 | Verstappen: FIA tweaks "not enough" — "fundamentally something is wrong"; wants V10/V8; FIA changed super-clip 250→350kW, recharge 8→7MJ; Verstappen 9th/12pts; exit clause looming | 1 | FOLLOW-UP (exit clause April 25, Norris/Piastri response April 27) |
+| 4 | FP1 extended to 90 minutes — only practice session of Sprint weekend; new regs debut; starts noon local / 1PM ET Friday May 1; one shot before Sprint Qualifying | 2 | FOLLOW-UP (FP1 mentioned April 27 watching guide) |
+| 5 | Constructors' championship snapshot — Mercedes 135pts, Ferrari 90pts, McLaren 56pts, Red Bull 16pts; Miami upgrades could reshape standings | 2 | FOLLOW-UP (standings updated April 27) |
+
+### STORY 1: Miami GP Thunderstorm Threat
+- **Tier:** 1
+- **Category:** Weather / Race Preview
+- **Key facts:** Sunday race 4PM local, 37% rain probability, 100% cloud cover, thunderstorm possible (HIGH — GPFans, GPBlog, PlanetF1, The Race). Lightning safety plan = possible suspension/postponement (HIGH — The Race). Friday/Saturday dry 30-32°C (HIGH — Sky Sports, f1ingenerale). Sprint format makes Sunday rain particularly damaging.
+
+### STORY 2: Hamilton Ferrari / Brundle Analysis
+- **Tier:** 1
+- **Category:** Driver Feature / Analysis
+- **Key facts:** Brundle: "If there's a sniff of a victory, I think Lewis is still very much capable of taking that" (HIGH — Sky Sports, multiple syndicated). Hamilton first Ferrari podium at Shanghai, P6 at Suzuka (HIGH — multiple). Hamilton 4th/41pts (HIGH). Ferrari full SF-26 upgrade for Miami (HIGH). Brundle: "Lewis clearly enjoys these cars much more" (HIGH).
+
+### STORY 3: Verstappen "Fundamentally Wrong"
+- **Tier:** 1
+- **Category:** Regulation Controversy / Driver News
+- **Key facts:** Verstappen: "fundamentally something is wrong" (HIGH — PlanetF1, GPFans). Wants V10/V8 return (HIGH). FIA tweaks: super-clip 250→350kW, recharge 8→7MJ (HIGH). Verstappen 9th/12pts (HIGH). Exit clause performance-related (MEDIUM — widely reported). Domenicali private talks (HIGH).
+
+### STORY 4: FP1 Extended to 90 Minutes
+- **Tier:** 2
+- **Category:** Technical / Race Weekend
+- **Key facts:** FP1 extended to 90 min officially (HIGH — formula1.com). Only practice in Sprint weekend (HIGH). FIA reasons: 5-week gap, reg changes, Sprint format (HIGH). Starts noon local / 1PM ET Friday May 1 (HIGH).
+
+### STORY 5: Constructors' Championship Snapshot
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Mercedes 135pts (HIGH), Ferrari 90pts (HIGH), McLaren 56pts (HIGH), Red Bull 16pts (HIGH). All confirmed from April 27 pipeline. Miami as upgrade inflection point.
+
+---
+
 ## 2026-04-27
 
 | # | Story | Tier | Tag |

@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-27
+- **Date**: 2026-04-28
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-28
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-28.xlsx (8 posts) + f1fr-postplanner-tobi-2026-04-28.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-28/review-dashboard.html (23 items)
+- **Notes:** Miami GP Sunday thunderstorm threat — 37% rain probability, lightning safety plan possible postponement; Friday/Saturday dry 30-32°C. Hamilton Ferrari Brundle analysis — "sniff of a victory" possible, enjoyed new car regs, Shanghai podium + Suzuka P6, Hamilton 4th/41pts. Verstappen "fundamentally something is wrong" — FIA super-clip/recharge tweaks insufficient; wants V10/V8; 9th/12pts; exit clause; Domenicali private talks. FP1 extended to 90 minutes — only practice in Sprint weekend, new regs debut, noon local / 1PM ET Friday May 1. Constructors': Mercedes 135, Ferrari 90, McLaren 56, Red Bull 16.
+- **Fact confidence:** Miami weather: 37% rain/100% cloud HIGH (GPFans, The Race, PlanetF1, GPBlog, multiple). Lightning safety plan HIGH (The Race). Dry Fri/Sat HIGH. Brundle quotes HIGH (Sky Sports, Motorsport.com, multiple syndicated). Hamilton Shanghai podium/Suzuka P6 HIGH (prior pipelines). Hamilton 4th/41pts HIGH. Ferrari full SF-26 HIGH. Verstappen "fundamentally wrong" quote HIGH (PlanetF1, GPFans, multiple). V10/V8 demand HIGH. FIA tweaks HIGH (confirmed April 27 pipeline). Verstappen 9th/12pts HIGH. Exit clause MEDIUM (widely reported, exact triggers unconfirmed). FP1 90 min HIGH (formula1.com official). All standings figures HIGH (prior pipeline).
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, consistent with all previous runs)
 
 ### 2026-04-27
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
