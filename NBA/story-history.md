@@ -1243,3 +1243,37 @@
 | 4 | The Embiid Question — appendectomy recovery ~23 days; Nurse says "not around at all"; Celtics series starts April 19; no return timeline | 2 | FOLLOW-UP (April 15 noted Embiid out — this is deep-dive) |
 | 5 | 2026 NBA Playoffs First Round Bracket Preview — All 8 matchups: Pistons/Celtics/Knicks/Cavs East; Thunder/Spurs/Nuggets/Lakers West | 2 | NEW STORY |
 
+
+---
+
+## 2026-04-29
+
+### STORY 1: Embiid 33 — 76ers Stun Celtics at TD Garden to Stay Alive
+- **Tier:** 1
+- **Category:** Playoff Results / Individual Performance
+- **Key facts:** 76ers 113, Celtics 97 (Game 5, April 28). Embiid 33 pts (18 in 2nd half), Maxey 25/10 reb, Grimes 18, George 16. Celtics led 63-50 in 3rd. 76ers outscored Boston 28-11 in 4th. Tatum 24/16 reb. Celtics lead series 3-2. Game 6 Thursday in Philly.
+- **Status:** NEW STORY
+
+### STORY 2: Spurs Advance — Wembanyama and Fox Sweep Trail Blazers Out of Round 1
+- **Tier:** 1
+- **Category:** Playoff Results / Series Clincher
+- **Key facts:** Spurs 114, Trail Blazers 95 (Game 5, April 28). Wembanyama 17/14 reb/6 blk. Fox 21 pts. Spurs led by 28. SA wins series 4-1. SA vs OKC in Western Semis.
+- **Status:** NEW STORY (follow-up on SA's 3-1 lead from April 28)
+
+### STORY 3: Brunson 39 — Knicks Rout Hawks 126-97 to Take 3-2 Series Lead
+- **Tier:** 1
+- **Category:** Playoff Results / Individual Performance
+- **Key facts:** Knicks 126, Hawks 97 (Game 5, April 28). Brunson 39 pts. Knicks shot 58.5% first half. Led 35-22 Q1, 64-48 HT. Knicks lead 3-2. Game 6 Thursday Atlanta.
+- **Status:** NEW STORY
+
+### STORY 4: Tonight's Must-Watch Triple-Header — Three Series On the Line
+- **Tier:** 2
+- **Category:** Preview / Game Day
+- **Key facts:** Magic-Pistons G5 7PM ET (ORL leads 3-1); Cavs-Raptors G5 7:30PM ET (tied 2-2); Rockets-Lakers G5 10PM ET (LAL leads 3-1).
+- **Status:** NEW STORY
+
+### STORY 5: Raptors Upset Bid — Can Toronto Pull Off the Ultimate Upset?
+- **Tier:** 2
+- **Category:** Series Analysis / Upset Watch
+- **Key facts:** Cavs-Raptors tied 2-2; road team won all 4 games; Raptors 93-89 Game 4 (April 26); NBA admitted 7 missed calls end of Game 4; Quickley led Raptors; Game 5 tonight 7:30PM ET.
+- **Status:** NEW STORY
