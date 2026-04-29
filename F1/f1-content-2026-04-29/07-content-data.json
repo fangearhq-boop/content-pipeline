@@ -1,0 +1,300 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-29",
+  "compiled_at": "2026-04-29T11:30:11.952111+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Bombshell — Lambiase Leaving Red Bull for McLaren at End of 2027",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "BOMBSHELL. Gianpiero Lambiase — Max Verstappen's race engineer since 2016 — is leaving Red Bull for McLaren at the end of 2027.\n\nLambiase asked Verstappen for his blessing first. Verstappen: \"You would be stupid not to do that.\"\n\nThe end of an era. 🏎️ #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Lambiase is joining McLaren as Chief Racing Officer after the 2027 season.\n\nHe's been Verstappen's engineer for all four of his world championships.\n\nIf Max's closest ally is already planning his exit... what does Max do? 🤔 #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-lambiase-leaving-red-bull-mclaren-verstappen.html",
+        "headline": "Gianpiero Lambiase Is Leaving Red Bull for McLaren — and the Verstappen Question Grows Louder",
+        "word_count": 708
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X Post 1A, Facebook Post 1A"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Facebook Post 1B image caption"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lambiase Leaving Red Bull for McLaren\n**Sources:**\n- Formula1.com: \"Max Verstappen's race engineer Gianpiero Lambiase to leave Red Bull in 2028\"\n- ESPN: \"Max Verstappen's trusted Red Bull engineer to join McLaren as chief racing officer\"\n- ESPN: \"Max Verstappen on Gianpiero Lambiase's exit: 'You would be stupid not to do that'\"\n- GPBlog.com: \"Mekies lifts lid on Lambiase exit as McLaren pull off major coup\"\n- Formula1.com: \"Analysis: What we know about Gianpiero Lambiase's move from Red Bull to McLaren\"\n**Verified Facts (HIGH confidence):**\n- Lambiase will leave Red Bull at end of 2027 contract — multiple sources (formula1.com official)\n- Lambiase joining McLaren as Chief Racing Officer — multiple sources\n- Lambiase has worked with Verstappen since 2016 Toro Rosso promotion — multiple sources\n- Verstappen quote: \"You would be stupid not to do that\" — multiple sources (ESPN, GPFans)\n- Lambiase sought Verstappen's blessing before deciding — multiple sources\n- Red Bull team boss Laurent Mekies broke silence on departure — multiple sources\n**Freshness:** Announced April 28-29, 2026 — fully fresh for April 29 content.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Miami Race Week — Sprint Format, Upgrade War, and Antonelli's Title Defence",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "IT'S MIAMI RACE WEEK. 🇺🇸\n\nF1 returns after a 5-week gap with a Sprint weekend:\n📅 FP1 + Sprint Quali: Friday May 1\n🏎️ Sprint: Saturday May 2\n🏁 Race: Sunday May 3, 4 PM ET\n\nAntonelli leads by 9 pts. Every team has a major upgrade. #F1Miami",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Miami"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-miami-race-week-preview-sprint-championship.html",
+        "headline": "Miami Race Week Is Here — Antonelli's Championship Lead Meets Its Biggest Test Yet",
+        "word_count": 610
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X Post 2A, Facebook Post 2A"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Miami Race Week Preview\n**Sources:**\n- Formula1.com: Race week 5 storylines article\n- RacingNews365: 2026 Miami GP time schedule\n- Sky Sports: Miami GP 2026 Sprint weekend dates, schedule, weather, UK start time\n**Verified Facts (HIGH confidence):**\n- Sprint weekend format: FP1 May 1 (Friday), Sprint Quali May 1, Sprint May 2 (Saturday), Qualifying May 2, Race May 3 (Sunday) — formula1.com\n- FP1 extended to 90 minutes (only practice session in Sprint weekend) — prior pipelines + confirmed\n- Race: May 3 at 4PM ET — prior pipeline + confirmed\n- Antonelli championship lead: 72 pts (Russell 63 pts, 9-point gap) — prior pipeline status\n- Mercedes constructors' lead: 135 pts (Ferrari 90, McLaren 56, Red Bull 16) — prior pipeline status\n- 5-week gap due to Bahrain/Saudi cancellations — prior pipeline\n- Cadillac special livery announced — formula1.com, The Race, Motorsport.com\n**Freshness:** Race week officially underway — highly timely preview content.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ferrari vs McLaren — Miami Upgrade War Is the Real Championship Battle",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Ferrari: full SF-26 debut. Macarena wing. Revised software. ~50% of car changed since Japan.\n\nMcLaren: \"completely new car from aerodynamic standpoint.\" (Stella's words.)\n\nMercedes has a 45-pt constructors' lead.\n\nMiami is an upgrade-off. 🔥 #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 3-2",
+          "text": "McLaren had a \"double DNS\" in China. Now they're bringing a COMPLETELY NEW CAR to Miami.\n\nFerrari tested at Monza and their results were positive.\n\nThe 2026 constructors' title race could look very different by Sunday. 👀 #F1Miami",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Miami"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ferrari-mclaren-upgrade-war-miami.html",
+        "headline": "Ferrari vs McLaren: Miami Is an Upgrade War With Championship Stakes",
+        "word_count": 636
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X Post 3A, Facebook Post 3A"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X Post 3B, Facebook Post 3B"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari vs McLaren Upgrade War\n**Sources:**\n- Scuderia Fans: \"Ferrari prepare full-spec 2026 Formula 1 car debut in Miami to challenge Mercedes dominance\"\n- Formula1.com: \"Stella confirms McLaren are set to deliver a 'completely new car' for Miami and Canadian Grands Prix\"\n- F1 Oversteer: \"Ferrari will finally unleash their 'complete' 2026 car at Miami Grand Prix after successful test\"\n- GPFans: \"Ferrari F1 test at Monza as huge upgrades expected for Miami Grand Prix\"\n- Motorsport Week: \"McLaren and Ferrari upgrade-off\" (Jolyon Palmer quote)\n- Sky Sports: \"F1 returns at Miami GP with talk of 'new championship' starting\"\n**Verified Facts (HIGH confidence):**\n- Ferrari full SF-26 debut in Miami — multiple sources\n- McLaren \"completely new car from aerodynamic standpoint\" (Stella quote) — formula1.com direct quote\n- Ferrari Macarena wing + revised software + revised floor — multiple sources\n- Ferrari ~50% changed since Japan — prior pipeline + multiple sources\n- Ferrari tested at Monza before Miami — multiple sources\n- Jolyon Palmer \"upgrade-off\" framing — Motorsport Week / prior pipeline\n- Ferrari 90 pts constructors', McLaren 56 pts — prior pipeline\n**Freshness:** Upgrade previews fresh with race week now underway.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cadillac's Stars and Stripes — An American Team's First Home Race",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "🇺🇸 Cadillac has unveiled a Stars & Stripes livery for the Miami Grand Prix.\n\n50 stars on the front wing. One for every US state.\n\nThe only American F1 team, racing at home, in red, white and blue. 🏁 #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cadillac-stars-stripes-miami-home-race.html",
+        "headline": "Stars, Stripes, and 50 Stars: Cadillac's Miami Livery Is Everything Their First Home Race Deserves",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X Post 4A, Facebook Post 4A"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cadillac Miami Livery\n**Sources:**\n- Formula1.com: \"Cadillac unveil special Miami Grand Prix livery for first home race\" (gallery article)\n- The Race: \"Cadillac first to reveal special F1 livery for Miami GP\"\n- RaceFans.net: \"Cadillac reveals special one-off livery for first home race in Miami\"\n- Motorsport.com: \"Cadillac F1 team reveals special Miami GP livery\"\n**Verified Facts (HIGH confidence):**\n- Stars & Stripes motif livery — multiple sources\n- 50 stars on front wing (one per US state) — formula1.com\n- Red/white/blue rear wing with \"USA\" — multiple sources\n- Presented by TWG AI (primary partner) — formula1.com\n- One-off design for Miami only — multiple sources\n- Cadillac drivers: Valtteri Bottas and Sergio Perez — formula1.com team page\n**Freshness:** Announced April 28, 2026 — fresh for April 29.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "What Does Lambiase's Exit Mean for Verstappen's Red Bull Future?",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Red Bull boss Mekies on Lambiase leaving for McLaren: \"The campus is on fire trying to turn things around.\"\n\nMeanwhile, Verstappen has a reported exit clause. Red Bull is 4th in constructors' with just 16 points.\n\nHow much longer does Max stay? 🤔 #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-verstappen-redbull-future-lambiase-exit.html",
+        "headline": "After Lambiase's Departure, Verstappen's Red Bull Future Hangs in the Balance",
+        "word_count": 649
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X Post 5A, Facebook Post 5A"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen's Future After Lambiase Exit\n**Sources:**\n- Yahoo Sports: \"Max Verstappen's Red Bull Future After Race Engineer Departure\"\n- RacingNews365: \"Max Verstappen handed 'nothing is forever' verdict over shock F1 exit\"\n- GPFans: \"Max Verstappen makes remarkable Lambiase statement\"\n- The Race: \"Everything Red Bull's doing to convince Verstappen to stay\"\n- GPBlog: \"F1 Today: Cadillac debuts bold Miami livery as Mekies lifts lid on Lambiase\"\n**Verified Facts (HIGH confidence):**\n- Verstappen-Lambiase partnership dates to 2016 Toro Rosso — multiple sources\n- Mekies \"campus is on fire\" quote — multiple sources (GPBlog, The Race)\n- Red Bull P4 in constructors' (16 pts) — prior pipeline\n**Facts (MEDIUM confidence — single source):**\n- Whether Lambiase exit influences Verstappen exit clause trigger — analytical claim, not factual",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

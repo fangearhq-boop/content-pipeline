@@ -1072,3 +1072,37 @@
 | 4 | Ferrari Monza filming day April 22 — aero, weight reduction, cooling upgrades for Miami; "mini pre-season" framing; 45-pt Constructors' deficit to close | 2 | FOLLOW-UP (April 15 mentioned Monza day; today's angle is upgrade significance + context) |
 | 5 | McLaren Miami comeback — Stella: "fight for more important positions"; aero efficiency upgrades confirmed for Miami and beyond; Norris 25 pts, Piastri 21 pts; double DNS China still painful | 2 | NEW STORY |
 
+
+---
+
+## 2026-04-29
+
+### STORY 1: Lambiase Leaving Red Bull for McLaren — Verstappen's Trusted Engineer Defects
+- **Tier:** 1
+- **Category:** Breaking Personnel News
+- **Key facts:** Gianpiero Lambiase (Verstappen's race engineer since 2016) leaving Red Bull at end of 2027 to join McLaren as Chief Racing Officer. Verstappen: "You would be stupid not to do that." Mekies breaks silence.
+- **Status:** NEW STORY
+
+### STORY 2: Miami Race Week — Sprint Format, Championship Update
+- **Tier:** 1
+- **Category:** Race Preview
+- **Key facts:** Sprint weekend: FP1+SQ May 1, Sprint May 2, Race May 3 4PM ET. Antonelli leads 72 pts (Russell 63). Mercedes 135 constructors', Ferrari 90, McLaren 56. All teams with major upgrades.
+- **Status:** FOLLOW-UP (Miami previewed April 26-28; Race Week angle new)
+
+### STORY 3: Ferrari vs McLaren — Miami Upgrade War
+- **Tier:** 1
+- **Category:** Technical Analysis
+- **Key facts:** Ferrari full SF-26 (Macarena wing, revised software, ~50% changed). McLaren "completely new car from aerodynamic standpoint" (Stella). Jolyon Palmer: "upgrade-off." Mercedes defending 135 constructors' lead.
+- **Status:** FOLLOW-UP (upgrades telegraphed; now race week and concrete)
+
+### STORY 4: Cadillac Stars and Stripes Miami Livery — First Home Race
+- **Tier:** 2
+- **Category:** Team Feature / Special Livery
+- **Key facts:** One-off Stars & Stripes livery for Miami. 50 stars on front wing (one per US state). Red/white/blue rear wing "USA". Bottas and Perez. Cadillac's first home race.
+- **Status:** NEW STORY
+
+### STORY 5: Verstappen's Red Bull Future After Lambiase Exit
+- **Tier:** 2
+- **Category:** Analysis / Driver Futures
+- **Key facts:** Lambiase departing end 2027; Verstappen-Lambiase since Toro Rosso 2016. Mekies "campus is on fire." Red Bull P4 (16 pts). Verstappen's reported exit clause; question marks about his future.
+- **Status:** FOLLOW-UP (Verstappen/Red Bull covered April 28; Lambiase angle new)
