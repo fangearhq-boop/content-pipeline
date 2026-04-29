@@ -3,6 +3,26 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
+## Current Pipeline (2026-04-29)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-29 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-29 |
+| Fact-check | Complete (verify-facts.py — 23 claims, 62 HIGH confidence) | 2026-04-29 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-29 |
+| PostPlanner | Complete (standard 6 posts + TOBI 6 posts) | 2026-04-29 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-29 |
+| Published | Failed — egress proxy blocks WordPress access (Host not in allowlist, consistent) | 2026-04-29 |
+| Git | Committed and pushed to main | 2026-04-29 |
+
+## Notes (2026-04-29)
+- 5 stories: Cadillac Championship preview (Scheffler No. 1, $20M, Blue Monster, Round 1 Thursday, McIlroy/Schauffele/M. Fitzpatrick absent, Cameron Young/Fleetwood/Hovland/A. Fitzpatrick in) — T1; Korda at Riviera Maya Open (HOF 5 pts away = 22/27, Chevron 3rd major by 5 shots, Mayakoba April 30-May 3) — T1; Rahm wins LIV Mexico City by 6 (7-under 64, 2nd win/4th individual LIV win, 16 trophies, Legion XIII team title, DeChambeau WD wrist) — T1; Scheffler runner-up streak (first since Norman 1986 runner-up at Masters+Heritage, 1 win 5 top-5s in 8 starts, McIlroy/Fitzpatrick absent from Doral) — T2; Fitzpatrick beats Scheffler in playoff wins RBC Heritage (2nd PGA title of 2026, one-hole playoff Harbour Town April 19, not at Cadillac) — T2
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (article 2), Marcus Cole (articles 3, 5)
+- X posts: 6 total, all under 280 characters
+- WordPress publish: Failed — egress proxy blocks access (Host not in allowlist, consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
 ## Current Pipeline (2026-04-28)
 
 | Stage | Status | Last Updated |

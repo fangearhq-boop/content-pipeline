@@ -205,3 +205,15 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 | 2026-03-20 | T2 | Withdrawal wave — Bhatia, Morikawa, 6 WDs at Valspar | X, FB | Morikawa back injury reportedly minor |
 | 2026-03-20 | T2 | LPGA Fortinet Founders Cup R1 — Hyo Joo Kim -9 | X, FB | Two-shot lead at Sharon Heights |
 | 2026-03-20 | T3 | OWGR update — Young to No. 4, Scheffler reclaims No. 1 | X, FB | 141-week streak snapped then restored, Masters 3 weeks out |
+
+---
+
+## 2026-04-29
+
+| # | Story | Tier | Status |
+|---|-------|------|--------|
+| 1 | Cadillac Championship opens tomorrow — Scheffler (World No. 1) leads 72-player no-cut field at Blue Monster, Trump National Doral. $20M. Round 1 Thursday April 30. McIlroy/Schauffele/M. Fitzpatrick out. Cameron Young, Fleetwood, Hovland, A. Fitzpatrick in. | 1 | FOLLOW-UP (previewed April 28; Round 1 eve angle) |
+| 2 | Korda at LPGA Riviera Maya Open — 5 HOF pts away (22 of 27); won Chevron (3rd major, 17th LPGA title) by 5 shots; at El Camaleón Golf Course, Mayakoba, April 30-May 3; $2.5M; 9 Mexican golfers in field | 1 | FOLLOW-UP (HOF countdown ongoing; Riviera Maya previewed April 28; Chevron win as context) |
+| 3 | Rahm wins LIV Mexico City by 6 — closed 7-under 64 at Chapultepec; 2nd win of 2026, 4th individual LIV title; 16 LIV trophies (1 ahead of DeChambeau); Legion XIII sweeps team title by 9. DeChambeau WDs wrist. LIV Virginia next May 7-10. | 1 | NEW STORY |
+| 4 | Scheffler's runner-up streak — first since Greg Norman in 1986 to be runner-up at Masters AND RBC Heritage. Lost to McIlroy by 1 (Masters) and Fitzpatrick in playoff (Heritage). 1 win, 5 top-5s in 8 starts. McIlroy/Fitzpatrick absent from Doral field. | 2 | NEW STORY (Norman 1986 historical stat angle) |
+| 5 | Fitzpatrick beats Scheffler in playoff, wins RBC Heritage — Matt Fitzpatrick's 2nd PGA Tour win of 2026 before May. One-hole playoff at Harbour Town Golf Links April 19. Not in Cadillac field this week. | 2 | NEW STORY (not covered directly in prior pipelines) |
