@@ -1,6 +1,41 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 28, 2026
+## Latest Run: April 29, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC.gov (Wiifo tower stool recall — 9,700 units, Amazon June 2022–March 2026, 22 incidents, 6 injuries; Vevor baby swing recall Sanven Technology — inclined sleeper ban violation, BB501K/BB702A/BB005K, Amazon/Vevor.com Jan–Aug 2025); Colorado Springs Gazette (May Faire at Mountain Song May 2; Star Party Cheyenne Mountain; Old COS Memorial Day street fest May 23-25); ABC News/AAP (screen time limits not enough — quality and co-viewing matter more; updated 2026 framework); D11 FlashAlert (Hoopster Basketball Championship Saturday May 9, North Middle School, 96 of 115+ athletes selected; D11 last day May 22) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 28 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging, sources noted |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; 4 char fixes applied (Stories 1/2/3/4 all exceeded 280 on first draft); all verified under 280; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; no hashtags; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 76 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 10 images |
+| Dashboard | COMPLETE | review-dashboard.html (25 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-29.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-04-29.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-29)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 (D11 Hoopster Basketball Championship Saturday May 9) | 1-2 |
+| Local Events | 1 (COS family events: May Faire + Star Party + Memorial Day) | 1-2 |
+| National Parenting | 3 (Wiifo tower stool recall; Vevor baby swing recall; AAP screen time quality) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+Note: 3 National Parenting stories slightly over target, but 2 are critical safety recalls and the 3rd is timely AAP guidance update.
+
+---
+
+## Previous Run: April 28, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -2,6 +2,43 @@
 
 ---
 
+## April 29, 2026
+
+### Story 1: CPSC Recalls Wiifo Children's Tower Stools — Collapse and Entrapment Hazard
+- **Content Pillar:** National Parenting (Safety/Recall)
+- **Angle:** NEW STORY (Wiifo LT005, ~9,700 units on Amazon June 2022–March 2026, ~$60; can collapse/tip, child's torso fits through side openings; 22 incidents, 6 injuries; remedy: full refund, destroy and photo to support@wiifo.net)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Brand: Wiifo; Model: LT005; Colors: white/natural/light wood; Sold: Amazon; Units: ~9,700; Incidents: 22; Injuries: 6; Contact: support@wiifo.net
+
+### Story 2: CPSC Recalls Vevor Baby Swings — Inclined Sleeper Ban Violation
+- **Content Pillar:** National Parenting (Safety/Recall)
+- **Angle:** NEW STORY (Sanven Technology Vevor swings BB501K/BB702A/BB005K; violates Safe Sleep for Babies Act; incline >10 degrees, suffocation risk; sold Vevor.com + Amazon Jan–Aug 2025, $65-80; refund via recalling@vevor.com or 855-599-6320)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Models: BB501K (white/white), BB702A (white/gray), BB005K (black/black); Sold: Jan–Aug 2025; Price: $65–$80; Violation: Safe Sleep for Babies Act; Contact: recalling@vevor.com, 855-599-6320
+
+### Story 3: COS Family Events — May Faire, Star Party, Memorial Day Street Festival
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (3-event roundup: May Faire at Mountain Song Community School May 2 11 AM-2 PM, 2904 W. Kiowa St.; Star Party at Cheyenne Mountain State Park Limekiln Trailhead this week; Old Colorado City Memorial Day street festival May 23-25)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+
+### Story 4: AAP 2026 Screen Time Guidance — Quality and Co-Viewing Matter More Than Minutes
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (ABC News/AAP: limits alone no longer enough; quality, context, adult presence matter more; co-viewing dramatically improves learning transfer; still no screens <18mo, 1hr high-quality for ages 2-5; low-quality/autoplay disrupts sleep/attention)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Note:** Different angle from April 27 (evening TV and sleep) — that was about timing; this is about quality/co-viewing
+
+### Story 5: D11 Hoopster Basketball Championship Saturday — May 9 at North Middle School
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (96 of 115+ students selected; 4th and 5th grade boys and girls; divisional play April 18–May 2; championship May 9 at North Middle School 9 AM–3 PM; D11 last day of school May 22)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+
+---
+
 ## April 28, 2026
 
 ### Story 1: CPSC Warns Parents to Destroy "Relaxing Baby" Swim Floats — One Child Has Died
