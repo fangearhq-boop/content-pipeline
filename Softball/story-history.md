@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## April 30, 2026
+
+### Story 1: Wells at 36 HR — One From Tying All-Time NCAA Record, OU Opens at A&M
+- **Angle:** FOLLOW UP (ongoing record chase + final regular season series). Wells at 36 HRs, one from tying Lauren Espinoza's 31-year all-time NCAA single-season record (37, Arizona 1995). OU (45-6, 17-3 SEC) opens final regular season series at No. 12 Texas A&M tonight (8 PM CT SEC Network). One OU win clinches at least a share of the SEC title; two wins = outright SEC crown back-to-back. First-ever SEC meeting between OU and A&M.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Wells HR No. 37 tying record; record-breaking No. 38; OU SEC title clinch; series results
+
+### Story 2: Alabama National Seed at Risk After First Conference Series Loss to Tennessee
+- **Angle:** FOLLOW UP. Alabama (44-6, 16-5 SEC) dropped first conference series of 2026 to Tennessee 2-1 (Game 2 shutout 2-0 — first shutout of season; Game 3 4-1). Fell from No. 3 to No. 4 in NFCA Week 13 poll (Nebraska jumped them). National seed implications for SEC Tournament (May 5-9 Lexington KY).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Alabama's close to regular season; SEC Tournament performance; national seed positioning
+
+### Story 3: NFCA Week 13 Poll — Nebraska Rises to No. 3
+- **Angle:** NEW. Week 13 (released April 28): OU No. 1, TTech No. 2, Nebraska No. 3 (first time all season over Alabama), Alabama No. 4. Nebraska 40-6, 20-1 Big Ten, 13-game win streak. Receiving votes: Washington (24), Clemson (21), SC (21), SE Louisiana (18), Belmont (12), Omaha (10), Kansas (1).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Conference tournament performances; Selection Show May 10
+
+### Story 4: Nebraska Closes Regular Season at Penn State
+- **Angle:** FOLLOW UP. Nebraska (40-6, 20-1 Big Ten) closes at Penn State May 1-3 (Big Ten Network). 13-game win streak, No. 3 NFCA, No. 4 NCAA RPI. Penn State (32-17, 11-10 Big Ten) on 4-game win streak.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Penn State series results; Nebraska national seed; Big Ten Tournament
+
+### Story 5: Texas Tech Hosts Baylor in Regular Season Finale / Big 12 Tournament Preview
+- **Angle:** FOLLOW UP. TTech (47-4, 19-2 Big 12) already clinched back-to-back Big 12 regular season title. No. 2 NFCA. Canady dominant ace. Big 12 Tournament May 6-9 Devon Park OKC (TTech No. 1 seed, faces No. 8 on May 7 at 1:30 PM CT).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Big 12 Tournament; national seed; WCWS path
+
+### Story 6: Florida at Georgia — Top-25 Regular Season Finale Tonight
+- **Angle:** EVERGREEN. No. 8 Florida (46-7, 16-5 SEC) at No. 14 Georgia (34-16, 10-11 SEC). Game 1 tonight 6 PM SECN+. Florida in national seed conversation. Regular season finale for both.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Series results; Florida national seed; Georgia tournament outlook
+
+### Story 7: Conference Tournament Road Map / WCWS Countdown
+- **Angle:** EVERGREEN. SEC Tournament May 5-9 Lexington KY. Big 12 Tournament May 6-9 Devon Park OKC. ACC Tournament May 6-9 Charlottesville VA. Selection Show May 10 7 PM ESPN2. WCWS May 28–June 3 Devon Park OKC.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Conference tournament results; Selection Show; WCWS bracket
+
+---
+
 ## April 28, 2026
 
 ### Story 1: Tennessee Wins Series Over Alabama 4-1
