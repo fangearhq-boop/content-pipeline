@@ -1,6 +1,39 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: April 29, 2026
+## Latest Run: April 30, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC.gov (Tuyedoqe Travel Bassinet warning — ~250 units Amazon Apr–Oct 2025, ~$40, strangulation + fall hazard, company refused recall); KRDO/FOX21/CDE (Purple Star Schools: D49 leads Colorado, D20 second, 21 of 22 new designations in Southern Colorado, April 7); norrispenrose.com (3rd Annual Touch-a-Truck, May 16, FREE, timed entry, norrispenrose.com tickets); D49.org calendar (last day May 22 3-hr early release, World Arena graduations May 23); Newswise/AAP (2026 PAS meeting Boston April 24-27, firearm safety QI study, AAP well-child screening recommendation) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 29 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging, sources noted |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; 2 char fixes applied (Story 1: 282→270; Story 3: 294→214); all verified under 280; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; no hashtags; engagement questions |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 72 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 10 images |
+| Dashboard | COMPLETE | review-dashboard.html (25 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-04-30.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-04-30.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same as all previous runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-04-30)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 2 (Purple Star Schools; D49 end-of-year calendar) | 1-2 |
+| Local Events | 1 (Touch-a-Truck May 16) | 1-2 |
+| National Parenting | 2 (Tuyedoqe bassinet warning; firearm safety screening) | 1-2 |
+| Evergreen | 0 | 0-1 |
+| Humor | 0 | 0-1 |
+
+---
+
+## Previous Run: April 29, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

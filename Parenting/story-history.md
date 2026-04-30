@@ -2,6 +2,45 @@
 
 ---
 
+## April 30, 2026
+
+### Story 1: CPSC Warning — Tuyedoqe Travel Bassinets (Strangulation + Fall Hazard)
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (CPSC urgent warning, NOT a recall; company refused; ~250 units on Amazon Apr–Oct 2025, ~$40; strangulation from internal restraints + fall from low sides/no stand; parents must cut cover in half and discard; no refund)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Brand: Tuyedoqe; sold Amazon; Colors: pink, green, gray, sky blue, wine red; foam pad + mesh canopy + 3 toy bears; CPSC Notice of Violation issued; company refused to cooperate
+
+### Story 2: D49 Leads Colorado, D20 Ranks Second in Purple Star School Designations
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (April 7, 2026 ceremony; 22 new Purple Star Schools in Colorado; 21 in Southern Colorado; D49 most in state, D20 second; honors military family support programs; Fort Carson/NORAD/Peterson/Schriever context; 3-year designation)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Date: April 7, 2026; Total CO: 22; Southern CO: 21; Top district: D49; Second: D20; Program created by HB24-1076; requires military liaison + website resources + student-led transition program
+
+### Story 3: 3rd Annual Touch-a-Truck FREE Event — May 16, Norris Penrose
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Free; timed entry new this year; 9:30am–2pm; Norris Penrose, 1045 Lower Gold Camp Rd; fire trucks, military vehicles, helicopters; 11,000 attended 2025; 15,000 expected 2026; free tickets at norrispenrose.com)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Date: May 16; Time: 9:30am–2pm; Location: Norris Penrose, 1045 Lower Gold Camp Rd; Cost: FREE; Tickets: norrispenrose.com
+
+### Story 4: D49 End-of-Year Calendar — Graduation at World Arena May 23
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 key dates: May 15 PPEC/SSAE/Patriot graduation at COS City Hub; May 20 last day preschool; May 22 last day K-12 with 3-hr early release; May 23 FHS/SCHS/VRHS graduation at World Arena; May 25 Memorial Day closed; May 28 last day teachers)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** May 22 = last day K-12, 3-hr early release; May 23 = World Arena graduations for FHS/SCHS/VRHS; May 15 = COS City Hub graduations
+
+### Story 5: Pediatricians Now Screening for Firearm Safety at Well-Child Visits
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (2026 PAS meeting Boston, April 24-27; QI study showing increased firearm screening in pediatric well-child checks; AAP recommendation; relevant for COS military-connected families; safe storage options: safes, trigger locks, separate ammo)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 2026 PAS meeting April 24-27 Boston; study presented April 27; AAP recommends asking about firearms at all well-child visits; safe storage = locked safes, trigger locks, ammo stored separately
+
+---
+
 ## April 29, 2026
 
 ### Story 1: CPSC Recalls Wiifo Children's Tower Stools — Collapse and Entrapment Hazard
