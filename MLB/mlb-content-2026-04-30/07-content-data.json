@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-30",
+  "compiled_at": "2026-04-30T10:39:33.663707+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Murakami's 12 Home Runs Lead MLB — Historic Start for Japanese-Born Slugger",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Munetaka Murakami has 12 home runs in 29 MLB games.\n\nHe leads the majors.\nHe's hit 454 feet.\nHe tied the White Sox franchise record for consecutive games with a HR.\n\nThe most surprising slugger in baseball right now is playing on the South Side.\n\n#WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Murakami's first 12 MLB extra-base hits have ALL been home runs.\n\nThat's a record dating back to at least 1900 — surpassing Dae-ho Lee's 10 in 2016.\n\nA Japanese slugger is leading MLB in home runs. And it's not even close.\n\n#WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-murakami-mlb-hr-leader-historic-start.html",
+        "headline": "Murakami Has 12 Home Runs in 29 Games — And His Start Is One of the Most Historic in Modern Baseball",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept B (Article Hero — 1200x630)\n\n**Story:** Murakami Historic Start\n**Platform:** Article 01 featured image\n**Dimensions:** 1200x630 (1.91:1 landscape)\n\n**Imagn Search Term:** `Munetaka Murakami Chicago White Sox`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE: \"THE MOST SURPRISING SLUGGER IN BASEBALL\"\n- SUBTEXT: \"Murakami Leads MLB with 12 HRs in 29 Games\"\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Yordan Alvarez Leads MLB in 11 Offensive Categories — On Pace for Historic Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Yordan Alvarez leads the AL in 11 different offensive categories.\n\nHits. HR. RBIs. BA. OBP. SLG. OPS. OPS+. Total bases. rOBA. IBBs.\n\nALL 11.\n\nThe Astros are 11-18.\n\nHe is carrying a roster while putting together one of the best offensive Aprils in recent memory.\n\n#Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Since 2022, the OPS+ leaders in MLB:\n\n1. Aaron Judge — 206\n2. Yordan Alvarez — 174\n3. Shohei Ohtani — 173\n\nAlvarez is in the company of the two greatest hitters of this generation.\n\nAnd he's on pace for 68 home runs this year.\n\n#Astros #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Astros",
+            "#MLB"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-alvarez-april-dominance-11-categories.html",
+        "headline": "Yordan Alvarez Leads the AL in 11 Offensive Categories — One of the Most Dominant Aprils in Modern Baseball",
+        "word_count": 484
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept B (Article Hero — 1200x630)\n\n**Story:** Alvarez April Dominance\n**Platform:** Article 02 featured image\n**Dimensions:** 1200x630\n\n**Imagn Search Term:** `Yordan Alvarez Houston Astros`\n**Credit:** (USA TODAY Sports Images)\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** NL Central Is Only MLB Division with All 5 Teams Over .500 — Historic Situation",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Every single NL Central team is over .500.\n\nThat has happened this late in a season exactly once since baseball went to divisions in 1969.\n\nOnly 3 of these 5 teams make the playoffs.\n\nThe most brutal race in baseball is happening RIGHT NOW.\n\n#Cubs #Cardinals #Reds #Brewers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#Cardinals",
+            "#Reds",
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-nl-central-all-five-over-500.html",
+        "headline": "Every NL Central Team Is Winning — And If It Stays That Way, It Would Be an MLB First",
+        "word_count": 526
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept A (Social — 1080x1350)\n\n**Story:** NL Central All 5 Teams Over .500\n**Platform:** X/Twitter + Facebook + Instagram\n**Dimensions:** 1080x1350 (4:5 vertical)\n\n**Imagn Search Term:** `NL Central baseball Cubs Cardinals Reds`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue, all caps): \"ALL 5 OVER .500\"\n- SUBTEXT (Montserrat): \"NL Central • Historic Situation • 2nd Time Since 2004\"\n- ACCENT BAR (Accent Red #E53935)\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** April in Baseball — Braves and Dodgers MLB-Best 20-9, Yankees Right Behind at 19-10",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "April is over. Here's where things stand:\n\n🔥 Braves: 20-9 (MLB-best, first to 20 wins)\n🔥 Dodgers: 20-9 (tied ML-best)\n🔥 Yankees: 19-10 (AL East leaders)\n\n❄️ Mets: 9-19\n❄️ Phillies: 9-19\n❄️ Astros: 11-18 (despite Alvarez)\n\nMay baseball starts now. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-april-mlb-report-card-braves-dodgers.html",
+        "headline": "The April MLB Report Card: Braves and Dodgers Lead the Way, Mets and Phillies Already in Trouble",
+        "word_count": 466
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept A (Social — 1080x1350)\n\n**Story:** April MLB Month-End Report\n**Platform:** X/Twitter + Facebook + Instagram\n**Dimensions:** 1080x1350 (4:5 vertical)\n\n**Imagn Search Term:** `Atlanta Braves baseball`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue, all caps): \"APRIL REPORT CARD\"\n- SUBTEXT (Montserrat): \"Braves • Dodgers • 20-9 • MLB Best\"\n- ACCENT BAR (Primary Orange #FF8A00)\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Aaron Judge Has 12 Home Runs — Chasing Career 400 with Historic First-Inning Output",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Aaron Judge has 5 of his first 9 home runs in the FIRST INNING.\n\nIn first-inning at-bats this season: .450 BA, 1.726 OPS.\n\nHe's at 380+ career HRs and the 400 milestone is on the horizon.\n\nDon't overlook the best hitter in the AL. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-judge-hr-chase-first-inning-dominance.html",
+        "headline": "Aaron Judge Has 12 Home Runs and a 1.726 First-Inning OPS — The Career 400 Chase Is Real",
+        "word_count": 495
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept A (Social — 1080x1350)\n\n**Story:** Aaron Judge HR Chase\n**Platform:** X/Twitter + Facebook + Instagram\n**Dimensions:** 1080x1350 (4:5 vertical)\n\n**Imagn Search Term:** `Aaron Judge New York Yankees`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue, all caps): \"12 HRs. 380+ CAREER. CHASING 400.\"\n- SUBTEXT (Montserrat): \"Judge • First Inning OPS 1.726 • Yankees 19-10\"\n- ACCENT BAR (Primary Gold #FFD700)\n\n**Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Ohtani's April Masterclass — 0.38 ERA Pitching, .996 OPS Hitting, 46-Game On-Base Streak",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Shohei Ohtani's April by the numbers:\n\n⚾ Pitching: 0.38 ERA — leads all MLB qualified starters\n🏏 Hitting: .996 OPS, 5 HR\n📊 On-base streak: 46 games (longest active in MLB)\n\nThe Dodgers are 20-9.\n\nHe's playing a different sport. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** April Players to Watch in May — The Stars Setting the Tone for 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "5 names to watch as May begins:\n\n1. Murakami — 12 HR, MLB lead\n2. Alvarez — 11 HR, .347 BA, 11 categories led\n3. Judge — 12 HR, chasing career 400\n4. Ohtani — 0.38 ERA + .996 OPS\n5. Henderson — 9 HR, career-high barrel rate\n\nBuckle up. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

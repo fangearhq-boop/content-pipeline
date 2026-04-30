@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-04-30
+
+### Story 1: Murakami MLB HR Leader — 12 HRs in 29 Games, Historic Start
+- **Angle:** NEW STORY. Munetaka Murakami leads all of MLB with 12 home runs in 29 games. His first 12 MLB extra-base hits have ALL been home runs — a record dating back to at least 1900, surpassing Dae-ho Lee's 10 in 2016. Hit a 454-foot blast and tied the White Sox franchise record for consecutive games with a home run. Japanese slugger leading MLB in HRs on the South Side.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Extension talks; HR pace vs. record holders; White Sox rebuild
+
+### Story 2: Alvarez April Dominance — Leads 11 AL Categories, Astros 11-18
+- **Angle:** NEW STORY. Yordan Alvarez leads the AL in 11 different offensive categories simultaneously: hits, HR (11), RBIs (26), BA (.347), OBP (.466), SLG (.779), OPS, OPS+, total bases, rOBA, IBBs. Astros still 11-18 despite one of the best individual offensive Aprils in recent memory. Since 2022: Judge 206 OPS+, Alvarez 174, Ohtani 173. On pace for 68 HRs.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Astros bullpen/pitching failures; Alvarez award case; Houston roster moves
+
+### Story 3: NL Central — All 5 Teams Over .500, Historic Race
+- **Angle:** FOLLOW UP (ongoing NL Central storyline). As of April 28, all 5 NL Central teams remain above .500 — second-latest date ever (trailing only May 29, 2004). Reds lead at 16-9. Only 3 of 5 make the playoffs. If it holds through season, would be the first time in divisional era history (since 1969) that a full division finished above .500. Two teams with winning records will miss the postseason.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Intra-division series May; which 2 teams miss out; Reds sustaining lead
+
+### Story 4: April MLB Report Card — Braves/Dodgers 20-9, Mets/Phillies 9-19
+- **Angle:** EVERGREEN/FOLLOW UP. End-of-April report card. Braves and Dodgers tied at 20-9 (MLB best); Braves first to 20 wins. Yankees 19-10 AL East leaders. Oakland A's surprising at 15-13 atop AL West (negative run diff). Astros 11-18 worst AL West despite Alvarez. Mets and Phillies both 9-19, worst NL records. NL Central: Reds 16-9 lead.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** May standings evolution; Mets/Phillies turnaround attempts; Braves rotation depth
+
+### Story 5: Judge HR Chase — 12 HRs, First-Inning Dominance, Chasing Career 400
+- **Angle:** FOLLOW UP (Judge ongoing storyline). Judge has 12 HRs, career total above 380. 5 of first 9 HRs came in the first inning; .450 BA, 1.726 OPS in first-inning at-bats. Yankees 19-10 AL East leaders. At current pace projects to reach 400 career HRs before September. OPS+ since 2022: Judge 206, first by wide margin.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** 400-HR milestone; career HR leaderboard; Yankees May schedule
+
+### Story 6: Ohtani Two-Way April — 0.38 ERA, .996 OPS, 46-Game On-Base Streak
+- **Angle:** FOLLOW UP (Ohtani two-way watch). Ohtani ends April with 0.38 ERA (leads all MLB qualified starters), .996 OPS, 5 HRs hitting, and the longest active on-base streak in MLB at 46 games. Dodgers 20-9 tied ML-best. Two-way performance unmatched in baseball history.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** ERA leaders comparison; Dodgers NL West lead; Ohtani Cy Young case
+
+### Story 7: May Watch List — 5 Names to Follow
+- **Angle:** EVERGREEN. Season transition wrap: Murakami (12 HR MLB lead), Alvarez (11 HR, .347 BA, 11 categories), Judge (12 HR, chasing 400 career), Ohtani (0.38 ERA + .996 OPS), Henderson (9 HR, career-high barrel rate). Buckle up for May.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** All ongoing season storylines
+
+---
+
 ## 2026-04-28
 
 ### Story 1: Mason Miller Scoreless Streak Ends on Controversial Call

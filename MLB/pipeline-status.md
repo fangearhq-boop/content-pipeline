@@ -1,6 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-04-30
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations — all verified at ≤280, ET timezone added via sed), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (0 char violations, S6/S7 no image-concepts expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish skipped — credentials not in session + proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known); publish-dashboard.py fallback succeeded.
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress credentials not set in session + proxy blocks fanrumor.com (known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). S6/S7 no article — Tier 3 social-only by design (5 articles meet minimum). 0 char violations. ET timezone added to X post headers after initial creation (sed fix).
+
+## Previous Run
 - **Date**: 2026-04-28
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (10; 0 char violations — all verified at ≤280), FB posts (14), image concepts, image manifest, articles (5), fact-check (41 claims, 0 char violations, S6/S7 no image-concepts expected Tier 2/3 social-only), compile (7 stories, 10 tweets, 0 FB parsed — known, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (10 posts X, 10 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
