@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-30
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Verstappen absent from Miami media day — first child with Kelly Piquet expected imminently; not on FIA press conference list; 9th in championship (12 pts) | 1 | NEW STORY |
+| 2 | Mercedes reveals special purple Nu livery for Miami — Antonelli and Russell in 3 purple race suit designs; House of Nu in Wynwood; first major special livery of 2026 | 1 | NEW STORY |
+| 3 | McLaren "entirely new MCL40" arrives in Miami — new floor, bodywork, rear wing, brake ducts; Stella "completely new car from aerodynamic standpoint"; McLaren won Miami 2024+2025 | 1 | FOLLOW-UP (McLaren upgrade confirmed April 29; specific parts revealed) |
+| 4 | Hamilton faces critical Ferrari test at Miami — 4th (41 pts), 8 behind Leclerc (49); Ferrari at full SF-26 spec; Brundle "still very much capable" of a win | 2 | FOLLOW-UP (Hamilton/Ferrari covered April 28; Miami arrival new context) |
+| 5 | Miami Sprint Weekend viewer's guide — FP1 90 min Fri May 1 1PM ET; Sprint Sat; Race Sun May 3 4PM ET; new FIA power rules debut | 2 | FOLLOW-UP (schedule confirmed; pulling together as fan resource) |
+
+### STORY 1: Verstappen Absent from Miami Media Day
+- **Tier:** 1
+- **Category:** Breaking Driver News
+- **Key facts:** Verstappen not on FIA press conference list for Thursday April 30. Reason: Kelly Piquet expected to give birth imminently (HIGH — GPFans, GPBlog). FIA roster: Hulkenberg, Perez, Piastri (slot 1); Hadjar, Sainz, Antonelli (slot 2). Verstappen currently 9th/12 pts in championship. Expected to participate in FP1 Friday.
+
+### STORY 2: Mercedes Purple Nu Livery
+- **Tier:** 1
+- **Category:** Team News / Special Livery
+- **Key facts:** Mercedes unveils special purple livery for Miami (HIGH — GPFans, Motorsport.com, Nu official). Nu partnership established January 2026. Antonelli and Russell wear 3 different purple suits across Sprint weekend. House of Nu fan experience in Miami's Wynwood. First major special livery of 2026 season.
+
+### STORY 3: McLaren MCL40 "Entirely New" Upgrade
+- **Tier:** 1
+- **Category:** Technical / Upgrade War
+- **Key facts:** McLaren brings new front/rear brake ducts, bodywork, floor, rear wing (HIGH — Crash.net, F1 Oversteer). Stella confirmed "completely new car from aerodynamic standpoint" for Miami + Canada (HIGH — Formula1.com). Primary goal: pace. Bonus: make car "easier to understand." McLaren won Miami 2024 (Norris) and 2025 (Piastri). McLaren 3rd/56pts.
+
+### STORY 4: Hamilton Critical Ferrari Test
+- **Tier:** 2
+- **Category:** Driver Feature / Analysis
+- **Key facts:** Hamilton 4th/41pts; Leclerc 3rd/49pts; Antonelli leads 72pts. Only Ferrari podium: Shanghai P3. Ferrari brings full SF-26 (Macarena wing, floor, software). Brundle: "still very much capable" of winning. Hamilton described Shanghai as "most enjoyable race." Game 6 Thursday in Houston (NBA error — F1 context only).
+
+### STORY 5: Miami Sprint Weekend Guide
+- **Tier:** 2
+- **Category:** Fan Guide / Preview
+- **Key facts:** FP1: May 1, 1PM ET, 90 min. Sprint Quali: May 1. Sprint: May 2. Qualifying: May 2. Race: May 3, 4PM ET, ESPN/Peacock. MGU-K 250kW outside acceleration zones, 350kW in zones. Low-power start detection debuts. 57 laps, 5.41km.
+
+---
+
 ## 2026-04-28
 
 | # | Story | Tier | Tag |

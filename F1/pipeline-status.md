@@ -1,11 +1,23 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-29
+- **Date**: 2026-04-30
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-04-30
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-04-30.xlsx (9 posts) + f1fr-postplanner-tobi-2026-04-30.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-04-30/review-dashboard.html (24 items)
+- **Notes:** Verstappen absent from Miami media day — first child with Kelly Piquet expected imminently (GPFans, GPBlog confirmed); NOT on FIA press conference list; 9th/12pts. Mercedes reveals special purple Nu livery — Antonelli and Russell in 3 purple race suit designs; House of Nu in Wynwood; Nu partnership since January 2026. McLaren "entirely new MCL40" for Miami — new floor, bodywork, rear wing, front/rear brake ducts; Stella "completely new car from aerodynamic standpoint"; Norris+Piastri: simulator + Nürburgring tyre test; McLaren won Miami 2024+2025. Hamilton 4th/41pts (Leclerc 49, Antonelli 72); Ferrari at full SF-26; Brundle "still very much capable" of winning. Miami Sprint: FP1 90min Fri May 1 1PM ET; Sprint Sat; Race Sun May 3 4PM ET; new FIA MGU-K rules debut.
+- **Fact confidence:** Verstappen baby news HIGH (GPFans, GPBlog). Press conference roster HIGH (GPBlog official). Mercedes livery HIGH (GPFans, Motorsport.com, Nu official). McLaren upgrade parts HIGH (Crash.net, F1 Oversteer). Stella quote HIGH (Formula1.com). Miami history HIGH. All standings HIGH. Hamilton podium/quote HIGH. Brundle quote HIGH (April 28 pipeline). Schedule HIGH (Formula1.com). FIA rules HIGH.
+- **WordPress publish:** Attempted — blocked by egress proxy (Host not in allowlist, persistent infrastructure issue)
 
 ### 2026-04-28
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

@@ -1,0 +1,295 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-30",
+  "compiled_at": "2026-04-30T11:21:23.302204+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Absent from Miami Media Day — Baby Expected with Kelly Piquet",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "BREAKING: Max Verstappen will miss Thursday's FIA press conference at Miami.\n\nReason: Kelly Piquet is expected to give birth to their first child imminently.\n\nThe championship leader hunt continues — without Max. 🍼 #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Verstappen is No. 9 in the championship with just 12 points.\n\nHe's absent from Miami media day due to his baby's imminent arrival.\n\nThe Red Bull exit clock keeps ticking. #F1 #Verstappen #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#MiamiGP"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-absent-miami-baby-kelly-piquet.html",
+        "headline": "Verstappen Skips Miami Media Day as First Child with Kelly Piquet Arrives",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Miami Absence\n\n#### Image Concept 1A — Social (1080x1350)\n- **Photo search:** \"Max Verstappen Red Bull Racing\"\n- **Overlay text:** \"MAX IS ABSENT. / BABY ON THE WAY.\" (Bebas Neue, all caps)\n- **Subtext:** \"Verstappen misses Miami media day — first child with Kelly Piquet expected\" (Montserrat)\n- **Color:** Dark midnight bar, primary deep orange text\n\n#### Image Concept 1B — Social (1080x1350)\n- **Photo search:** \"Max Verstappen Red Bull\"\n- **Overlay text:** \"9TH IN CHAMPIONSHIP. / 12 POINTS. / NOT IN MIAMI TODAY.\" (Bebas Neue)\n- **Subtext:** \"Red Bull's exit clock ticks on\" (Montserrat)\n- **Color:** Dark midnight bar, secondary royal blue accents\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Absent from Miami Media Day\n**Verified Facts:**\n- Verstappen will not attend Thursday FIA press conference — confirmed absent from FIA's official list [HIGH — GPBlog, GPFans]\n- Reason: expected imminent arrival of first child with partner Kelly Piquet [HIGH — GPFans]\n- FIA press conference roster confirmed: Hulkenberg, Perez, Piastri (slot 1); Hadjar, Sainz, Antonelli (slot 2) [HIGH — GPBlog]\n- Verstappen currently No. 9 in championship with 12 pts [HIGH — Formula1.com standings]\n- Hamilton also NOT on FIA press list (initial reports; Hamilton status clarified as \"attending media duties\" separately) [MEDIUM — conflicting reports: some say Hamilton missing, some say attending separately]\n**Note on Hamilton:** Initial GPBlog report listed both as absent; GPFans article specifically cited baby as Verstappen's reason. Hamilton's exact Thursday schedule is MEDIUM confidence — using conservative language.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Mercedes Reveals Special Purple Nu Livery for Miami Weekend",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "PURPLE Mercedes. 🟣\n\nAntonelli and Russell will wear THREE different purple race suits this weekend in Miami — all as part of the Nu fintech partnership.\n\nFirst major special livery of 2026. Go bold or go home. #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Nu x Mercedes at Miami:\n🟣 Purple livery\n🟣 3 custom race suit designs\n🟣 House of Nu in Miami's Wynwood neighborhood\n\nKimi Antonelli arrives as championship leader. He'll look good doing it. #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-mercedes-purple-nu-livery-miami-antonelli-russell.html",
+        "headline": "Mercedes Goes Purple: Special Nu Livery Unveiled for Miami Grand Prix",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes Purple Livery\n\n#### Image Concept 2A — Social (1080x1350)\n- **Photo search:** \"Kimi Antonelli Mercedes\"\n- **Overlay text:** \"PURPLE. / NU x MERCEDES. MIAMI 2026.\" (Bebas Neue)\n- **Subtext:** \"Championship leader Antonelli goes purple this weekend\" (Montserrat)\n- **Color:** Dark midnight bar, accent gold for brand name\n\n#### Image Concept 2B — Social (1080x1350)\n- **Photo search:** \"George Russell Mercedes\"\n- **Overlay text:** \"3 SUITS. 3 DAYS. ONE MIAMI.\" (Bebas Neue)\n- **Subtext:** \"Nu x Mercedes — special livery debut at the 2026 Miami GP\" (Montserrat)\n- **Color:** Dark midnight bar, accent gold\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes Purple Nu Livery\n**Verified Facts:**\n- Mercedes unveils purple livery for Miami GP [HIGH — GPFans, Motorsport.com, F1inGenerale, Nu official release]\n- Partnership with Nu (Brazilian fintech company) established January 2026 [HIGH — Nu official release]\n- Antonelli and Russell wear three different purple suit designs across Miami weekend [HIGH — Nu international release, Motorsport.com]\n- \"House of Nu\" fan experience in Miami's Wynwood neighborhood [HIGH — Nu official release]\n- First major special livery activation of 2026 season [HIGH — context from prior pipelines]\n- Antonelli 72 pts, Russell 63 pts [HIGH — Formula1.com official]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "McLaren's \"Entirely New MCL40\" Arrives in Miami — Full Upgrade List Revealed",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "McLaren's Miami upgrade list:\n✅ Front brake ducts\n✅ Rear brake ducts\n✅ Bodywork\n✅ Floor\n✅ Rear wing\n\nStella: \"completely new car from aerodynamic standpoint.\"\n\nMcLaren won here in 2024 AND 2025. They're coming for it. 🧡 #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 3-2",
+          "text": "McLaren won the Miami GP in 2024 (Norris) and 2025 (Piastri).\n\nNow they've brought their biggest upgrade of 2026.\n\nMercedes has won every race this year. This is where it gets interesting.\n\n#F1 #McLaren #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#McLaren",
+            "#MiamiGP"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mclaren-mcl40-upgrade-miami-norris-piastri.html",
+        "headline": "McLaren's \"Entirely New MCL40\" Is Here — And Miami Is Their Best Chance Yet",
+        "word_count": 616
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McLaren Upgrade\n\n#### Image Concept 3A — Social (1080x1350)\n- **Photo search:** \"Lando Norris McLaren\"\n- **Overlay text:** \"ENTIRELY NEW CAR. / MIAMI 2026.\" (Bebas Neue)\n- **Subtext:** \"Floor. Bodywork. Rear Wing. Brake Ducts. All new.\" (Montserrat)\n- **Color:** Dark midnight bar, primary deep orange\n\n#### Image Concept 3B — Social (1080x1350)\n- **Photo search:** \"Oscar Piastri McLaren\"\n- **Overlay text:** \"WON MIAMI 2025. / CAN THEY DO IT AGAIN?\" (Bebas Neue)\n- **Subtext:** \"McLaren brings biggest upgrade of 2026 to their home circuit\" (Montserrat)\n- **Color:** Dark midnight bar, accent gold\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McLaren MCL40 Upgrade Package\n**Verified Facts:**\n- McLaren bringing new front brake ducts, rear brake ducts, bodywork, floor, rear wing [HIGH — Crash.net, F1 Oversteer, auto-mania]\n- Andrea Stella confirmed \"completely new car from aerodynamic standpoint\" for Miami + Canada [HIGH — Formula1.com official, widely reproduced]\n- Primary goal: improve pace. Bonus goal: make car \"easier to understand\" [HIGH — F1 Oversteer]\n- McLaren currently shortest car on 2026 grid — smaller floor, less downforce [HIGH — F1 Oversteer]\n- Norris + Piastri: simulator time during break + Nürburgring tyre test (with Mercedes) [HIGH — McLaren official, Motorsport Week]\n- McLaren won Miami 2024 (Norris maiden win) and 2025 (Piastri) [HIGH — established results]\n- McLaren 3rd/56pts, 79 behind Mercedes [HIGH — Formula1.com standings]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Hamilton Faces Critical Ferrari Test at Miami — \"Hard Part\" Begins",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Lewis Hamilton is 4th in the F1 championship with 41 points.\n\nHis Ferrari teammate Leclerc has 49.\n\nMiami is a massive test. Ferrari brings its biggest upgrade yet. Lewis needs a result.\n\nBrundle says he's \"still very much capable\" of a win. 🟡 #F1 #Hamilton #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Hamilton",
+            "#MiamiGP"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Hamilton on the Shanghai podium (his only Ferrari podium so far):\n\n\"Most enjoyable race I've had in a long time.\"\n\nNow he faces McLaren's biggest upgrade of 2026 at a track they've won two years straight.\n\nTime to prove it. #F1 #Ferrari #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari",
+            "#MiamiGP"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-hamilton-ferrari-critical-miami-test.html",
+        "headline": "Hamilton's Ferrari Honeymoon Is Over — Miami Is Where It Gets Real",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Ferrari\n\n#### Image Concept 4A — Social (1080x1350)\n- **Photo search:** \"Lewis Hamilton Ferrari\"\n- **Overlay text:** \"THE HARD PART STARTS NOW.\" (Bebas Neue)\n- **Subtext:** \"Hamilton 4th (41 pts), 8 behind Leclerc — Ferrari at full SF-26 spec in Miami\" (Montserrat)\n- **Color:** Dark midnight bar, Ferrari red (secondary royal blue)\n\n#### Image Concept 4B — Social (1080x1350)\n- **Photo search:** \"Lewis Hamilton Ferrari\"\n- **Overlay text:** \"MOST ENJOYABLE RACE. NOW DO IT AGAIN.\" (Bebas Neue)\n- **Subtext:** \"Hamilton's first Ferrari podium was China. Miami is the next test.\" (Montserrat)\n- **Color:** Dark midnight bar, primary deep orange\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton at Ferrari — Critical Miami Test\n**Verified Facts:**\n- Hamilton 4th in championship: 41 pts [HIGH — Formula1.com]\n- Leclerc 3rd: 49 pts [HIGH — Formula1.com]\n- Antonelli leads: 72 pts [HIGH — Formula1.com]\n- Hamilton's only Ferrari podium: Shanghai GP, P3 [HIGH — prior pipelines]\n- Hamilton described Shanghai as \"most enjoyable race\" [HIGH — prior pipelines]\n- Ferrari brings full SF-26 spec for Miami (Macarena wing, floor, revised software) [HIGH — prior pipelines, Vasseur confirmed]\n- Brundle: \"If there's a sniff of a victory, I think Lewis is still very much capable\" [HIGH — Sky Sports, April 28 pipeline]\n- Hamilton 31 pts behind Antonelli with 19 races remaining [HIGH — calculated from standings]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Sprint Weekend Viewer's Guide — Miami GP Schedule, TV Times, and What to Watch",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "MIAMI GP WEEKEND:\n📅 FP1 (90 min): Fri May 1 — 1PM ET\n📅 Sprint Quali: Fri May 1 — after FP1\n📅 Sprint Race: Sat May 2\n📅 Qualifying: Sat May 2\n📅 Race: Sun May 3 — 4PM ET\n\nNew FIA power rules start THIS weekend. #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-miami-gp-sprint-weekend-guide-schedule-times.html",
+        "headline": "Miami GP Sprint Weekend Guide: Full Schedule, TV Times, and What to Watch",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sprint Weekend Guide\n\n#### Image Concept 5A — Social (1080x1350)\n- **Photo search:** \"Miami Grand Prix F1 track\"\n- **Overlay text:** \"MIAMI GP WEEKEND / FRI • SAT • SUN\" (Bebas Neue)\n- **Subtext:** \"Race: Sunday May 3 — 4PM ET | Sprint Weekend Format\" (Montserrat)\n- **Color:** Dark midnight bar, accent gold"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Miami Sprint Weekend Schedule\n**Verified Facts:**\n- FP1: Friday May 1, 90 minutes, 12:00-13:30 local time (1PM ET) [HIGH — Formula1.com, FIA official]\n- Sprint Qualifying: Friday May 1 (after FP1) [HIGH — Formula1.com]\n- Sprint Race: Saturday May 2 [HIGH — Formula1.com]\n- Main Qualifying: Saturday May 2 [HIGH — Formula1.com]\n- Race: Sunday May 3, 4PM ET [HIGH — Formula1.com, NBC Miami]\n- FIA rule changes: MGU-K 250kW outside key zones, 350kW in key zones [HIGH — Motorsport.com FIA confirm]\n- Low-power start detection system debuts Miami [HIGH — Sky Sports, FIA confirm]\n- US coverage: ESPN/ESPN2 and Peacock [MEDIUM — multiple outlet mentions, consistent]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
