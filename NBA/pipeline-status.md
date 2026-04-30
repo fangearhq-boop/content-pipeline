@@ -1,8 +1,19 @@
 ## Last Run
-- **Date**: 2026-04-29
+- **Date**: 2026-04-30
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-04-30
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-04-30.xlsx (9 posts) + hh-postplanner-tobi-2026-04-30.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-30/review-dashboard.html (24 items)
+- **Notes:** Pistons 116, Magic 109 (Game 5, April 29) — Cade 45 (franchise record, 14/14 FT, 27 in 1st half), Banchero 45 (17/31, 6/11 3PM, 9reb/7ast); first pair of No.1 picks with 40+ in same playoff game since Iverson/Shaq in 2001 Finals; ORL leads series 3-2, G6 Friday. Cavaliers 125, Raptors 120 (Game 5, April 29) — CLE leads 3-2; road team had won all 4 prior games; Ingram left with right heel inflammation; Barrett 25, Walter 20, Shead 18. Rockets 99, Lakers 93 (Game 5, April 29) — HOU alive, LAL leads 3-2; Jabari Smith 22, Eason 18; LeBron 25; KD still out. Tonight (April 30): Knicks-Hawks G6 7PM (NYK leads 3-2); 76ers-Celtics G6 8PM (BOS leads 3-2); Nuggets-Wolves G6 9:30PM (MIN leads 3-2).
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-04-29
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

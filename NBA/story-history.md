@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-04-30
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Pistons 116, Magic 109 (Game 5, April 29) — Cade 45 pts (franchise record, 14/14 FT, 27 in 1st half); Banchero 45 pts (17/31, 6/11 3PM, 9reb, 7ast); first pair of No. 1 picks with 40+ in same playoff game since Iverson/Shaq (2001 Finals); Magic lead 3-2, G6 Friday Orlando | 1 | FOLLOW-UP (ORL led 3-1 entering G5) |
+| 2 | Cavaliers 125, Raptors 120 (Game 5, April 29) — CLE takes 3-2 lead; first home win of series (road team won all 4 prior games); Barrett 25, Walter 20, Shead 18 for TOR; Ingram left with right heel inflammation; Game 6 Saturday Toronto | 1 | FOLLOW-UP (series tied 2-2 entering G5) |
+| 3 | Rockets 99, Lakers 93 (Game 5, April 29) — HOU wins 2nd straight; Jabari Smith Jr. 22, Eason 18; LeBron 25; KD still out left ankle; series 3-2 Lakers; Game 6 Thursday Houston | 1 | FOLLOW-UP (LAL led 3-1 entering G5) |
+| 4 | Triple-header tonight (April 30) — Knicks-Hawks G6 7PM ET ESPN (NYK leads 3-2); 76ers-Celtics G6 8PM ET Peacock (BOS leads 3-2); Nuggets-Wolves G6 9:30PM ET ESPN (MIN leads 3-2) | 2 | NEW STORY |
+| 5 | Nuggets face elimination — Denver trails MIN 3-2; Jokic had 27/12/16 ast in G5 to save season; G6 tonight at Ball Arena, 9:30PM ET ESPN | 2 | NEW STORY |
+
+### STORY 1: Pistons 116, Magic 109 — Game 5 (Cade 45, Banchero 45, Historic Duel)
+- **Tier:** 1
+- **Category:** Playoff Game Results / Historic Individual Performance
+- **Key facts:** Pistons 116, Magic 109. Cade Cunningham: 45 pts (franchise record), 13/23 FG, 14/14 FT, 5 3PM, 27 pts in first half (highest by Pistons player in a postseason half in play-by-play era). Banchero: 45 pts, 17/31 FG, 6/11 3PM, 9 reb, 7 ast, 2 stl. First pair of No. 1 overall picks to each score 40+ in same playoff game since Iverson/O'Neal in 2001 Finals. Orlando still leads series 3-2. Game 6 Friday in Orlando.
+
+### STORY 2: Cavaliers 125, Raptors 120 — Game 5 (CLE leads 3-2)
+- **Tier:** 1
+- **Category:** Playoff Game Results / Injury Update
+- **Key facts:** Cavaliers 125, Raptors 120. CLE takes 3-2 lead. Road team had won all 4 prior games in series; Cleveland wins at home for first time. Barrett 25 for TOR, Walter 20, Shead 18 off bench. Brandon Ingram left Q2 with right heel inflammation; status uncertain for G6. TOR shot 7/28 from field in Q4; CLE made 9/19 in Q4. Game 6 Saturday in Toronto.
+
+### STORY 3: Rockets 99, Lakers 93 — Game 5 (HOU alive, LAL 3-2)
+- **Tier:** 1
+- **Category:** Playoff Game Results / Comeback Narrative
+- **Key facts:** Rockets 99, Lakers 93. HOU wins back-to-back after trailing series 3-1. Jabari Smith Jr.: 22 pts. Tari Eason: 18 pts. LeBron James: 25 pts. KD still out, left ankle. Series 3-2 Lakers. Game 6 Thursday in Houston.
+
+### STORY 4: April 30 Triple-Header Preview
+- **Tier:** 2
+- **Category:** Preview / Schedule
+- **Key facts:** Knicks-Hawks G6 7PM ET ESPN (NYK leads 3-2); 76ers-Celtics G6 8PM ET Peacock (BOS leads 3-2); Nuggets-Wolves G6 9:30PM ET ESPN (MIN leads 3-2). All three potential series-enders.
+
+### STORY 5: Nuggets Face Elimination — Can Jokic Save Denver Again?
+- **Tier:** 2
+- **Category:** Feature / Series Analysis
+- **Key facts:** Denver trails MIN 3-2. Jokic posted 27/12/16 ast in G5. Murray 24, Spencer Jones 20 off bench. Denver has lost 3 of last 4. G6 at Ball Arena Denver, 9:30 PM ET ESPN.
+
+---
+
 ## 2026-04-28
 
 | # | Story | Tier | Tag |

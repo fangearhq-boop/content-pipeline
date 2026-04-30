@@ -1,0 +1,293 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-04-30",
+  "compiled_at": "2026-04-30T11:11:39.247598+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cade 45, Banchero 45 — Historic Duel as Pistons Survive Magic in Game 5",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CADE CUNNINGHAM: 45 PTS. Franchise record. 14-of-14 from the line.\nPAOLO BANCHERO: 45 PTS. 6 threes.\n\nTwo No. 1 picks. Two 40-point games. One night.\n\nLast time that happened? Iverson vs. Shaq. 2001 Finals.\n\n#Pistons #MagicNation #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pistons",
+            "#MagicNation",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Cade dropped 27 in the FIRST HALF alone.\n\nMost points by a Pistons player in a postseason half — ever.\n\nHe finished with 45. Magic still lead 3-2. Game 6 Friday in Orlando. 🔥\n\n#Pistons #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pistons",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cade-45-banchero-45-historic-playoff-duel-game-5.html",
+        "headline": "Cade 45, Banchero 45: The Most Historic Playoff Duel of 2026",
+        "word_count": 614
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cade 45, Banchero 45 — Historic Duel\n\n#### Image Concept 1A — Social (1080x1350)\n- **Photo search:** \"Cade Cunningham Detroit Pistons\"\n- **Overlay text:** \"45 PTS EACH / CADE. BANCHERO. HISTORIC.\" (Bebas Neue, all caps)\n- **Subtext:** \"First pair of No. 1 picks with 40+ in same playoff game since Iverson/Shaq\" (Montserrat)\n- **Color:** Dark midnight background bar (#1A1A2E 45% opacity), primary deep orange text\n- **Brand element:** Hoop Heroes logo bottom right\n\n#### Image Concept 1B — Social (1080x1350)\n- **Photo search:** \"Paolo Banchero Orlando Magic\"\n- **Overlay text:** \"45 POINTS. FRANCHISE RECORD NIGHT.\" (Bebas Neue)\n- **Subtext:** \"Pistons survive in Game 5 — Magic lead 3-2\" (Montserrat)\n- **Color:** Dark midnight bar, accent gold for stat numbers\n- **Brand element:** Hoop Heroes logo bottom right\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pistons 116, Magic 109 — Game 5 (April 29)\n**Verified Facts:**\n- Final score: Detroit Pistons 116, Orlando Magic 109\n- Cade Cunningham: 45 points (FRANCHISE RECORD for Pistons in playoffs), 13-of-23 FG, 14-of-14 FT (perfect), 5 three-pointers, 27 pts in first half\n- 27 pts in first half = highest scoring postseason half by a Pistons player in the play-by-play era [HIGH — multiple sources]\n- Paolo Banchero: 45 points, 17-of-31 FG, 6-of-11 3PT, 9 rebounds, 7 assists, 2 steals\n- Cade and Banchero: first pair of No. 1 overall picks to each score 40+ in same playoff game since Allen Iverson vs. Shaquille O'Neal in 2001 NBA Finals [HIGH — multiple sources confirm]\n- Series status: Orlando Magic lead 3-2; Game 6 Friday in Orlando\n- Detroit was the No. 1 seed; Orlando was the No. 8 seed\n**Confidence Tags:**\n- Cade 45 pts, franchise record: HIGH (multiple outlets, including Washington Post, Yahoo, Detroit News)\n- Banchero 45 pts: HIGH (multiple outlets)\n- Iverson/O'Neal 2001 comparator: HIGH (multiple outlets confirm)\n- Series 3-2 ORL, G6 Friday: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cavaliers Take 3-2 Lead Over Raptors — Home Team Finally Wins, Ingram Hurt",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Road team had won all 4 games in this series.\n\nThen Cleveland came home… and finally won one.\n\nCavs 125, Raptors 120. CLE leads 3-2.\n\nAnd Brandon Ingram left with a heel injury. 😬\n\n#Cavs #Raptors #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cavs",
+            "#Raptors",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 208
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Brandon Ingram left Game 5 with right heel inflammation.\n\nHis status for Game 6 in Toronto is uncertain.\n\nThe Raptors already trail 3-2. This could be devastating. 👀\n\n#Raptors #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Raptors",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cavaliers-raptors-game-5-ingram-injury-series-lead.html",
+        "headline": "Cavaliers Take 3-2 Series Lead as Raptors Lose Ingram to Injury",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cavaliers 125, Raptors 120\n\n#### Image Concept 2A — Social (1080x1350)\n- **Photo search:** \"Donovan Mitchell Cleveland Cavaliers\"\n- **Overlay text:** \"CAVS WIN. SERIES 3-2. HOME TEAM FINALLY WINS.\" (Bebas Neue)\n- **Subtext:** \"Cavaliers 125, Raptors 120 — Game 6 Saturday in Toronto\" (Montserrat)\n- **Color:** Dark midnight bar, secondary royal blue accents\n- **Brand element:** Hoop Heroes logo bottom right\n\n#### Image Concept 2B — Social (1080x1350)\n- **Photo search:** \"Brandon Ingram Toronto Raptors\"\n- **Overlay text:** \"INGRAM OUT? / RIGHT HEEL INFLAMMATION\" (Bebas Neue, caps)\n- **Subtext:** \"Raptors down 3-2 — Game 6 Saturday in Toronto\" (Montserrat)\n- **Color:** Dark midnight bar, white text on overlay\n- **Brand element:** Hoop Heroes logo bottom right\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cavaliers 125, Raptors 120 — Game 5 (April 29)\n**Verified Facts:**\n- Final score: Cleveland Cavaliers 125, Toronto Raptors 120\n- CLE takes 3-2 series lead\n- Road team had won all four prior games in series (CLE won G1/G2 on road; TOR won G3/G4 on road) — home team wins for first time [MEDIUM — confirmed from series pattern in pipeline-status notes, consistent with search results]\n- RJ Barrett (TOR): 25 points\n- Ja'Kobe Walter (TOR): 20 points\n- Jamal Shead (TOR): 18 points off bench\n- Brandon Ingram: left in second quarter with right heel inflammation; status unknown for Game 6\n- Cavaliers won despite TOR leading 74-67 at halftime; CLE outscored TOR in Q3 and Q4\n- Toronto missed first 11 shots and was 7-of-28 from field in Q4; Cleveland made 9-of-19 in Q4\n- Game 6: Saturday in Toronto\n**Confidence Tags:**\n- Final score, CLE 3-2 lead: HIGH\n- Barrett/Walter/Shead stats: HIGH\n- Ingram right heel injury: HIGH (multiple sources)\n- Road team had won all 4 prior games: MEDIUM (consistent across sources; check for any discrepancy)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Rockets 99, Lakers 93 — Houston Stays Alive, Series 3-2",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Lakers led this series 3-1.\n\nRockets have won two straight.\n\nKD is still out. LeBron had 25 but it wasn't enough.\n\nRockets 99, Lakers 93. Series is 3-2. Game 6 in Houston Thursday.\n\n#Rockets #Lakers #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rockets",
+            "#Lakers",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Jabari Smith Jr: 22 PTS.\nTari Eason: 18 PTS.\n\nHouston is down 3-2 but is NOT going away. Back-to-back wins to keep their season alive.\n\nGame 6 Thursday in Houston. 🚀 #Rockets #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rockets",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-rockets-stay-alive-lakers-series-32-game-6.html",
+        "headline": "Rockets Win Again, Trim Lakers Lead to 3-2 — Is an Upset Brewing?",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rockets 99, Lakers 93\n\n#### Image Concept 3A — Social (1080x1350)\n- **Photo search:** \"Jabari Smith Houston Rockets\"\n- **Overlay text:** \"ROCKETS ALIVE. 2 STRAIGHT WINS.\" (Bebas Neue)\n- **Subtext:** \"Smith Jr. 22 PTS | Eason 18 PTS — Series 3-2 Lakers\" (Montserrat)\n- **Color:** Dark midnight bar, primary deep orange text\n- **Brand element:** Hoop Heroes logo bottom right\n\n#### Image Concept 3B — Social (1080x1350)\n- **Photo search:** \"LeBron James Los Angeles Lakers\"\n- **Overlay text:** \"LEBRON: 25 PTS. NOT ENOUGH.\" (Bebas Neue)\n- **Subtext:** \"Rockets win 99-93. Game 6 Thursday in Houston.\" (Montserrat)\n- **Color:** Dark midnight bar, accent gold highlights\n- **Brand element:** Hoop Heroes logo bottom right\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rockets 99, Lakers 93 — Game 5 (April 29)\n**Verified Facts:**\n- Final score: Houston Rockets 99, Los Angeles Lakers 93\n- Jabari Smith Jr.: 22 points (HOU)\n- Tari Eason: 18 points (HOU)\n- LeBron James: 25 points (LAL)\n- Kevin Durant: still out, left ankle injury\n- Series: Los Angeles leads 3-2. Game 6 Thursday in Houston.\n- Houston has won back-to-back games after trailing 3-1\n**Confidence Tags:**\n- Final score, series 3-2 LAL: HIGH\n- Jabari Smith 22, Eason 18: HIGH\n- LeBron 25: HIGH\n- KD out: HIGH (multiple sources confirm)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tonight's Triple-Header — Three Series Could Be Over by Midnight",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "TONIGHT — Three series could end:\n\n🏀 Knicks-Hawks G6 — 7 PM ET (NYK leads 3-2)\n🏀 76ers-Celtics G6 — 8 PM ET (BOS leads 3-2)\n🏀 Nuggets-Wolves G6 — 9:30 PM ET (MIN leads 3-2)\n\nBuckle up. #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBAPlayoffs"
+          ],
+          "char_count": 197
+        },
+        {
+          "label": "Post 4-2",
+          "text": "The Denver Nuggets need a WIN tonight or their season is done.\n\nJokic. Ball Arena. Elimination game.\n\nHe's done this before. 9:30 PM ET on ESPN. 👀 #NBAPlayoffs #Nuggets",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBAPlayoffs",
+            "#Nuggets"
+          ],
+          "char_count": 168
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-thursday-triple-header-knicks-celtics-nuggets-preview.html",
+        "headline": "Thursday Triple-Header: Three Series Could End Tonight",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tonight's Triple-Header\n\n#### Image Concept 4A — Social (1080x1350)\n- **Photo search:** \"NBA playoffs basketball court arena\"\n- **Overlay text:** \"3 SERIES. 1 NIGHT. / TONIGHT 7PM ET\" (Bebas Neue)\n- **Subtext:** \"Knicks-Hawks | 76ers-Celtics | Nuggets-Wolves\" (Montserrat)\n- **Color:** Dark midnight bar, accent gold text for times\n- **Brand element:** Hoop Heroes logo bottom right\n\n#### Image Concept 4B — Social (1080x1350)\n- **Photo search:** \"Nikola Jokic Denver Nuggets\"\n- **Overlay text:** \"JOKIC. ELIMINATION GAME. TONIGHT.\" (Bebas Neue)\n- **Subtext:** \"Nuggets vs. Timberwolves — 9:30 PM ET ESPN\" (Montserrat)\n- **Color:** Dark midnight bar, primary deep orange\n- **Brand element:** Hoop Heroes logo bottom right\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "April 30 Triple-Header Preview\n**Verified Facts:**\n- Knicks-Hawks G6: 7 PM ET, ESPN/fubo (New York leads 3-2)\n- 76ers-Celtics G6: 8 PM ET, Peacock (Boston leads 3-2)\n- Nuggets-Wolves G6: 9:30 PM ET, ESPN/fubo (Minnesota leads 3-2)\n**Confidence Tags:**\n- Times, networks, series records: HIGH (CBS Sports, ESPN, NBA.com confirm)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Nuggets Face Elimination — Can Jokic Save Denver Again?",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nikola Jokic in Game 5: 27 PTS / 12 REB / 16 AST.\n\nDenver came back from 3-1 down to make it 3-2.\n\nTonight is an elimination game at home.\n\nYou know Jokic is coming for it. 9:30 PM ET ESPN. #Nuggets #NBAPlayoffs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Nuggets",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nuggets-jokic-elimination-game-wolves-game-6.html",
+        "headline": "Jokic vs. Elimination: Denver's Season Depends on Another Miracle Tonight",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nuggets Elimination\n\n#### Image Concept 5A — Social (1080x1350)\n- **Photo search:** \"Nikola Jokic Denver Nuggets\"\n- **Overlay text:** \"DO IT AGAIN, JOKER. / ELIMINATION GAME TONIGHT\" (Bebas Neue)\n- **Subtext:** \"Game 5: 27 PTS / 12 REB / 16 AST — Ball Arena 9:30 PM ET\" (Montserrat)\n- **Color:** Dark midnight bar, accent gold for stats\n- **Brand element:** Hoop Heroes logo bottom right"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nuggets Elimination Context\n**Verified Facts:**\n- Minnesota leads Nuggets 3-2 after Jokic triple-double (27/12/16 ast) saved Denver in G5\n- Murray had 24 pts in G5; Spencer Jones 20 off bench (covering for injured Aaron Gordon)\n- Denver has lost three of last four in this series\n- G6 tonight at Ball Arena, Denver, 9:30 PM ET ESPN\n**Confidence Tags:**\n- Series status, G6 location: HIGH\n- Jokic G5 stats: HIGH (from April 29 pipeline-status)\n- Jokic elimination game averages (\"30+ pts, 13+ reb, 12+ ast\"): MEDIUM — this is a stated narrative, needs verification; use cautiously",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
