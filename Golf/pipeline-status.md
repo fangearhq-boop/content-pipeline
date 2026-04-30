@@ -3,6 +3,26 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
+## Current Pipeline (2026-04-30)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-04-30 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-04-30 |
+| Fact-check | Complete (verify-facts.py — 26 claims, 59 HIGH confidence; Story 2 tweet 1 fixed 281→274) | 2026-04-30 |
+| Scripts | Complete (all 6 scripts run) | 2026-04-30 |
+| PostPlanner | Complete (standard 7 posts + TOBI 7 posts) | 2026-04-30 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-04-30 |
+| Published | Failed — WordPress credentials not in environment (consistent with all previous runs) | 2026-04-30 |
+| Git | Committed and pushed to main | 2026-04-30 |
+
+## Notes (2026-04-30)
+- 5 stories: Cadillac Championship R1 opens — Blue Monster returns to PGA Tour after 10 years ($20M, 72 players, no cut, Scheffler No. 1, Golf Channel 3 PM ET) — T1; Korda at LPGA Riviera Maya Open — HOF 5 pts away (22/27), goes for back-to-back wins after Chevron Championship 3rd major — T1; Blue Monster history feature (Dick Wilson design, 1962-2016 Tour run, Tiger 4 wins + -19 course record, Hanse/Wagner renovation, new lakes 15+16) — T1; Star power gap at Doral — McIlroy, Schauffele, Åberg, MacIntyre, Fitzpatrick all skip $20M event — T2; LIV Virginia preview — Rahm hot (6-shot Mexico City win), DeChambeau returns, Niemann defends, May 7-10 Trump National DC — T2
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X posts: 7 total, all under 280 characters
+- WordPress publish: Failed — credentials not in environment (consistent with all previous runs)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
 ## Current Pipeline (2026-04-29)
 
 | Stage | Status | Last Updated |
