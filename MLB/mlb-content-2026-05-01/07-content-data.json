@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-01",
+  "compiled_at": "2026-05-01T10:21:51.349509+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Ramirez Wins AL Player of the Month for April — .342 BA, 7 HR, 28 RBI in 21 Games",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "José Ramírez won AL Player of the Month for April.\n\n.342 BA. .722 SLG. 7 HR. 28 RBI. 9 walks. 21 games.\n\nHe set the Cleveland franchise record for games played (1,620) on April 6.\n\nThe most underrated superstar in baseball.\n\n#Guardians #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#MLB"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "José Ramírez is tracking for his THIRD consecutive 30-30 season.\n\nThat would make him the ninth player in major league history to record at least two consecutive 30-30 seasons.\n\nHe is 35 years old and somehow getting better.\n\n#Guardians #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#MLB"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ramirez-al-player-month-april.html",
+        "headline": "José Ramírez Wins AL Player of the Month: .342, 7 HR, 28 RBI — and a Third 30-30 Season in Sight",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept B (Article Hero — 1200x630)\n\n**Story:** Ramirez AL Player of Month / 30-30 Chase\n**Platform:** Article featured image\n**Dimensions:** 1200x630 (1.91:1 landscape)\n\n**Imagn Search Term:** `José Ramirez Cleveland`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue): \"AL PLAYER OF THE MONTH: RAMÍREZ\"\n- SUBTEXT: \"Third 30-30 Season in Sight\"\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Red Sox Go 2-0 Under Chad Tracy — Is the Turnaround Real?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Chad Tracy's first two games as Red Sox interim manager:\n\n— 5-3 win over Baltimore\n— 5-0 shutout of defending AL champion Toronto\n\nBoston was 10-17 under Alex Cora.\n\nEarly returns are promising. But there's a lot of ground to make up.\n\n#RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Red Sox fired Alex Cora. Named a Triple-A manager to replace him.\n\nAnd somehow — so far — it's working.\n\nChad Tracy is 2-0. That's not a turnaround yet.\n\nBut it's something.\n\n#RedSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedSox",
+            "#MLB"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-red-sox-chad-tracy-2-0.html",
+        "headline": "Red Sox Go 2-0 Under Chad Tracy — Can a Managerial Change Actually Save Boston's Season?",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept A (Social — 1080x1350)\n\n**Story:** Red Sox 2-0 Under Chad Tracy\n**Platform:** X/Twitter + Facebook + Instagram\n**Dimensions:** 1080x1350 (4:5 vertical)\n\n**Imagn Search Term:** `Boston Red Sox`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue, white, all caps): \"TRACY: 2-0\"\n- SUBTEXT (Montserrat): \"Red Sox Bounce Back • 5-3 • 5-0 • Boston Rising\"\n- ACCENT BAR (Primary Red #E53935)\n\n**Mood/Composition:** Red Sox players celebrating or dugout energy. Boston brand colors.\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Murakami's Unique Plate Profile — MLB HR Leader Walks, Strikes Out, or Homers — Nothing Else",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Munetaka Murakami walks, strikes out, or hits a monster homer.\n\nThat's the whole plate appearance.\n\nHis first 12 MLB extra-base hits were ALL home runs — record since 1900.\n\nHe leads MLB in HRs. The White Sox have found something special.\n\n#WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-murakami-unique-plate-profile.html",
+        "headline": "Walk, Strikeout, or Monster Homer: The Fascinating Plate Profile of MLB's Home Run Leader",
+        "word_count": 632
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept A (Social — 1080x1350)\n\n**Story:** Murakami MLB HR Leader — Unique Profile\n**Platform:** X/Twitter + Facebook + Instagram\n**Dimensions:** 1080x1350 (4:5 vertical)\n\n**Imagn Search Term:** `Munetaka Murakami White Sox`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue, all caps): \"WALK. K. HOME RUN. REPEAT.\"\n- SUBTEXT (Montserrat): \"Murakami • 12+ HR • MLB Leader • .992 OPS\"\n- ACCENT BAR (Primary Gold #FFD700)\n\n**Mood/Composition:** Murakami mid-swing or post-HR celebration. Dramatic action shot.\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** NL Central All Five Teams Still Above .500 Entering May — Historic Race",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Every single NL Central team is above .500 entering May.\n\nThis is the second-latest date in baseball history that's happened in any division.\n\nThree playoff spots. Five contenders.\n\nSomeone's going to miss the postseason with a winning record. 😬\n\n#MLB #NLCentral",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#NLCentral"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nl-central-all-five-above-500.html",
+        "headline": "The NL Central Has Five Teams Above .500 Entering May — This Has Almost Never Happened",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept A (Social — 1080x1350)\n\n**Story:** NL Central All Five Teams Above .500\n**Platform:** X/Twitter + Facebook + Instagram\n**Dimensions:** 1080x1350 (4:5 vertical)\n\n**Imagn Search Term:** `Cincinnati Reds`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue, all caps): \"ALL 5 TEAMS ABOVE .500\"\n- SUBTEXT (Montserrat): \"NL Central • Historic Race • 3 Playoff Spots • 5 Contenders\"\n- ACCENT BAR (Primary Orange #FF8A00)\n\n**Mood/Composition:** Reds or NL Central team celebration shot. Dynamic energy.\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Judge's 400-HR Chase — On Pace to Make History in 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Aaron Judge entered 2026 needing ~32 HRs to join the 400-home run club.\n\nHe has 12 through April.\n\n5 of his first 9 HRs came in the FIRST INNING — with a .450 BA and 1.726 OPS in that slot.\n\nHe could reach 400 before September.\n\n#Yankees #MLB #AaronJudge",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB",
+            "#AaronJudge"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-judge-400-hr-chase.html",
+        "headline": "Aaron Judge Is Chasing 400 Career Home Runs — and He Could Get There Before Summer Ends",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept A (Social — 1080x1350)\n\n**Story:** Judge 400-HR Club Chase\n**Platform:** X/Twitter + Facebook + Instagram\n**Dimensions:** 1080x1350 (4:5 vertical)\n\n**Imagn Search Term:** `Aaron Judge New York Yankees`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue, all caps): \"CHASING 400\"\n- SUBTEXT (Montserrat): \"Judge • 12 HR in April • On Pace for the Club\"\n- ACCENT BAR (Primary Navy)\n\n**Mood/Composition:** Judge mid-swing or post-HR celebration at Yankees Stadium.\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Ohtani's On-Base Streak at 48 Games — Two-Way April Ends with Elite Numbers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Shohei Ohtani's on-base streak is at 48 consecutive games — the third-longest in Dodgers franchise history.\n\nApril wrap: sub-0.40 ERA pitching. .996 OPS hitting. 5 HR. Dodgers 20-9, tied for ML-best.\n\nNo historical comparison exists for what he's doing.\n\n#Dodgers #Ohtani #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Ohtani",
+            "#MLB"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** May Watch List — Five Names to Track as Summer Heats Up",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Five MLB storylines to watch in May:\n\n🔹 Murakami's HR pace (60+?)\n🔹 Judge's 400-HR chase\n🔹 Ramírez's 3rd consecutive 30-30\n🔹 NL Central's 5-team race (3 playoff spots)\n🔹 Red Sox under Tracy — turnaround or collapse?\n\nMay is going to be 🔥\n\n#MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

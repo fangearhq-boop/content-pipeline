@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-01
+
+### Story 1: Ramirez Wins AL Player of Month — .342 BA, 7 HR, 28 RBI in April, Third 30-30 in Sight
+- **Angle:** NEW. AL Player of Month Award for April 2026. 21 games: .342 BA, .722 SLG, 7 HR, 28 RBI, 7 doubles, triple, 12 runs, 9 walks. Set Guardians franchise games-played record (1,620) on April 6, passing Terry Turner's century-old mark. On pace for 3rd consecutive 30-30 (would make him 9th player in ML history with 2+ consecutive 30-30 seasons).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** 30-30 milestone tracking; Guardians standings; award season
+
+### Story 2: Red Sox 2-0 Under Chad Tracy — Turnaround or Paper-Over?
+- **Angle:** FOLLOW UP (Cora firing covered April 28). Tracy went 2-0 (5-3 vs Baltimore, 5-0 vs Toronto). Red Sox were 10-17 under Cora. Tracy spent 5 years as Worcester Triple-A manager (324-296). Roman Anthony said team "can still win."
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Red Sox record under Tracy; AL East standings recovery
+
+### Story 3: The Murakami Profile — Walks, Ks, or Monster HRs — Nothing Else
+- **Angle:** FOLLOW UP (Murakami HR leadership story ongoing). Unique three-true-outcomes profile. First 12 MLB extra-base hits ALL HRs (record since at least 1900, surpasses Dae-ho Lee's 10 from 2016). 21 walks (98th percentile), .394 OBP, .598 SLG, .992 OPS. On pace for 63-67 HR.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Murakami HR pace; White Sox standings; sustainability
+
+### Story 4: NL Central All Five Teams Above .500 Entering May — Historic Race
+- **Angle:** FOLLOW UP (ongoing NL Central storyline). Second-latest date ever for all 5 teams in a division to be above .500 (trailing only May 29, 2004). Three playoff spots, five contenders. Reds leading. Rookie Sal Stewart breakout.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Division standings evolution; who misses playoffs with winning record
+
+### Story 5: Judge's 400-HR Club Chase — Could Arrive Before September
+- **Angle:** FOLLOW UP (Judge ongoing). Entered 2026 needing ~32 HR for 400-career milestone. Has 12 through April, on pace for 60+. 5 of first 9 HRs in first inning; .450 BA, 1.726 OPS in first-inning at-bats. Yankees 19-10, AL East leaders.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Next HR milestones; 400 timing; Yankees standings
+
+### Story 6: Ohtani 48-Game On-Base Streak — Two-Way April Wrap
+- **Angle:** FOLLOW UP (Ohtani two-way watch). On-base streak extended to 48 games (3rd-longest Dodgers franchise history). Sub-0.40 ERA pitching, .996 OPS hitting, 5 HRs. Dodgers 20-9 tied ML-best. Seven pitch types.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Streak extension; ERA comparison; Dodgers NL West lead
+
+### Story 7: May Watch List — Five Storylines to Define the Season
+- **Angle:** EVERGREEN. Murakami HR pace, Judge 400-HR chase, Ramirez 3rd 30-30, NL Central historic 5-team race, Red Sox under Tracy. Season wrap entering May.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** All ongoing season storylines
+
+---
+
 ## 2026-04-30
 
 ### Story 1: Murakami MLB HR Leader — 12 HRs in 29 Games, Historic Start

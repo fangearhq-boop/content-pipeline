@@ -1,6 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-01
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 2 char violations fixed before compile — S1T1 291→244, S3T1 294→255 — 0 violations after fix), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (24 claims, 0 char violations after fixes, S6/S7 no image-concepts expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known); publish-dashboard.py fallback succeeded.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). S6/S7 no article — Tier 3 social-only by design (5 articles meet minimum). 2 char violations fixed (S1T1 291→244, S3T1 294→255).
+
+## Previous Run
 - **Date**: 2026-04-30
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations — all verified at ≤280, ET timezone added via sed), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (0 char violations, S6/S7 no image-concepts expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish skipped — credentials not in session + proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known); publish-dashboard.py fallback succeeded.
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
@@ -174,6 +181,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-01
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 24 claims. 2 char violations fixed (S1T1 291→244, S3T1 294→255). 0 violations after fixes. S6/S7 missing from image-concepts (Tier 3 — expected). IMAGE MISSING expected (not_started).
+- Dashboard: 26 items. Published to GitHub Pages via publish-dashboard.py.
+- PostPlanner: bb-postplanner-2026-05-01.xlsx (9 posts), bb-postplanner-tobi-2026-05-01.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Ramirez AL Player of Month April (.342, .722 SLG, 7 HR, 28 RBI in 21 games), franchise games record 1,620 (April 6), 3rd consecutive 30-30 in sight (P10); Red Sox 2-0 under Chad Tracy (5-3 vs Orioles, 5-0 vs Blue Jays), Red Sox were 10-17 under Cora (P9); Murakami unique profile — walks, Ks, or HRs only, first 12 MLB extra-base hits all HRs (record since 1900), leads MLB HRs, .992 OPS (P8); NL Central all 5 teams above .500 entering May — 2nd-latest date ever, 3 playoff spots 5 contenders, Reds leading (P8); Judge 400-HR chase — entered 2026 needing ~32, has 12 through April, on pace for 60+, 5 of first 9 HRs in 1st inning, .450 BA 1.726 OPS in 1st inning (P7); Ohtani 48-game on-base streak (3rd-longest Dodgers franchise history), sub-0.40 ERA, .996 OPS, Dodgers 20-9 (P6); May watch list: Murakami pace, Judge 400, Ramirez 30-30, NL Central race, Red Sox turnaround (P6)
+- Notes: 2 tweet char violations caught by verify-facts and fixed before compile. FB posts compile to 0 (heading format — known, dashboard uses markdown fallback). publish-unified-dashboard 403 (PAT, known) — used publish-dashboard.py successfully.
 
 ### 2026-04-26
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
