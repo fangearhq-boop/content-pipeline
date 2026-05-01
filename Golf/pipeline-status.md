@@ -3,6 +3,26 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
+## Current Pipeline (2026-05-01)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-05-01 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-01 |
+| Fact-check | Complete (verify-facts.py — 20 claims, 45 HIGH confidence; Story 4 tweet fixed 281→277) | 2026-05-01 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-01 |
+| PostPlanner | Complete (standard 9 posts + TOBI 9 posts) | 2026-05-01 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-05-01 |
+| Published | Failed — WordPress credentials blocked by egress proxy (persistent) | 2026-05-01 |
+| Git | Committed and pushed to main | 2026-05-01 |
+
+## Notes (2026-05-01)
+- 5 stories: Cameron Young leads Cadillac R1 at -8 (64, bogey-free), Spieth T2 (-7/65, new equipment), Scheffler stumbles to -1 (71); LIV Golf Saudi funding ends (PIF ending after 2026, new board, players calling PGA Tour); Korda LPGA Riviera Maya R1 at T4 (-4), Do/Green lead at -6, Green had hole-in-one; Scheffler R1 analysis; Spieth 65 + LIV quotes
+- Pen names: Marcus Cole (articles 1, 4), Ryan Calloway (articles 2, 5), Jake Torres (article 3)
+- X posts: 9 total (1 fixed from 281→277 chars), all under 280
+- WordPress publish: Failed — credentials blocked by egress proxy (Host not in allowlist — persistent infrastructure issue)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
 ## Current Pipeline (2026-04-30)
 
 | Stage | Status | Last Updated |
