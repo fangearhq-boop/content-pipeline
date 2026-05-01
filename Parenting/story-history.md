@@ -2,6 +2,45 @@
 
 ---
 
+## May 1, 2026
+
+### Story 1: CPSC Recalls Roundup 2026 — Baby Bath Seats, Swings, Walkers, Robes
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (Multiple CPSC recalls in 2026 affecting Amazon-sold baby products: NFSVLB + YCXXKJ bath seats, Vevor baby swings, Uuoeebb walkers, Bellabu Bear robes)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** NFSVLB/YCXXKJ bath seats = drowning risk; Vevor swings = suffocation/inclined sleeper ban; Uuoeebb walkers = fall + entrapment; Bellabu Bear robes = burn hazard/flammability; all on Amazon; cpsc.gov 800-638-2772
+
+### Story 2: AAP 2026 Screen Time Guidelines
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP shifts from strict time limits to quality/context/conversation framework; no set limit for ages 6+; "5 C's" approach; bedrooms screen-free at night)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** No screens under 18 months; ages 2-5 up to 1 hour high-quality content; older kids: balance with sleep (8-12hrs), activity (1hr), family time; old guideline was 2-hour limit for ages 6+
+
+### Story 3: Mother's Day Events in Colorado Springs — May 9-17
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Mother's Day May 10; Wolf & Wildlife Center tour, Venetucci Farm Garden Party, Lumen8 Rooftop, Farmers Market opening day, Garden of the Gods Art Festival May 16-17)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Wolf tour May 10, 9-11am, $40/$20; Venetucci May 9-10, 10am-12pm; Lumen8 May 10, $70/$35/free under 5; Farmers Market opens May 10 Acacia Park (Sundays through Oct 25); GoG Art Festival May 16-17 Rock Ledge Ranch
+
+### Story 4: D11 End-of-Year 2026 — Last Day May 22, Graduations May 19-21
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 last day May 22; graduations at Ed Robson Arena; ~15 school days remaining; summer planning)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** May 19: Palmer 9am, Mitchell 3pm; May 20: Coronado 9am, Doherty 3pm; May 21: Achieve/Tesla/Bijou/Odyssey TBD; May 28: Adult Ed at RJWAC; D49 last day also May 22 (3-hr early release)
+
+### Story 5: Colorado Springs 2026 Parks and Trails Updates
+- **Content Pillar:** Evergreen / Local Events
+- **Angle:** NEW STORY (Blodgett ~14 miles new trails + 90 parking stalls; Rock Island Trail bridge over Sand Creek; Pikes Peak Greenway resurfacing; Starsmore Visitor Center improvements; coloradosprings.gov/TOPS2026)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Blodgett: ~14mi trails, 90 new parking stalls, Quarry + North trailheads; Rock Island: 210-ft bridge over Sand Creek, spring 2026 ~12 months; Greenway: ~0.5mi new concrete trail + ADA; Starsmore: parking/walkways/restrooms/plaza
+
+---
+
 ## April 30, 2026
 
 ### Story 1: CPSC Warning — Tuyedoqe Travel Bassinets (Strangulation + Fall Hazard)
