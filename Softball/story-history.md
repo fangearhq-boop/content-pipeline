@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 1, 2026
+
+### Story 1: OU at A&M Game 2 Tonight — Wells at 36 HR, One From Tying NCAA Record
+- **Angle:** FOLLOW UP (ongoing record chase + OU-A&M series in progress). Wells at 36 HR, one from tying Lauren Espinoza's all-time NCAA record (37, Arizona, 1995). OU won Game 1 of the series. Game 2 tonight at 5 PM CT on SEC Network (Davis Diamond, College Station). A second win clinches the SEC regular season title outright. First-ever SEC series between OU and A&M.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Wells HR No. 37 tying record; OU series result; SEC title clinch
+
+### Story 2: SEC Tournament Seeding — Final Weekend Stakes for OU, Florida, Alabama
+- **Angle:** FOLLOW UP. SEC Tournament begins May 5 (Lexington KY). Oklahoma leads at 18-3 SEC. Florida 16-5, Alabama 15-5 (after Tennessee series loss). Top 4 get double byes. National seeds host regionals. 
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Final regular season results; SEC Tournament bracket; Selection Show May 10
+
+### Story 3: Nebraska Closes at Penn State — 13-Game Streak, Big Ten Tournament Ahead
+- **Angle:** FOLLOW UP. Nebraska (40-6, 20-1 Big Ten, 13-game win streak) at Penn State May 1-3 (Big Ten Network). Big Ten Tournament May 6-9 College Park MD. Chasing top-4 national seed to host regional at Bowlin Stadium.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Penn State series results; Big Ten Tournament; Selection Show
+
+### Story 4: Texas Tech 47-4 Ready for Big 12 Tournament in Oklahoma City
+- **Angle:** FOLLOW UP. Texas Tech (47-4, back-to-back Big 12 champions) is the No. 1 seed at Big 12 Tournament (May 7-9, Devon Park OKC). NiJaree Canady leads rotation. Faces No. 8 seed on May 7 at 1:30 PM CT.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Big 12 Tournament results; national seed positioning
+
+### Story 5: Oklahoma Leads Nation with Four USA Softball Player of Year Finalists
+- **Angle:** NEW. USA Softball Collegiate Player of the Year Top 25 finalists (announced April 29): Kendall Wells (.377 BA, 36 HR, 79 RBI, 1.113 SLG), Gabbie Garcia (22 HR, 66 RBI), Kai Minor, Ella Parker. Only program with 4 players. Wells and Minor only two freshmen on list.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Top 10 finalists May 13; Top 3 May 18; winner announced before WCWS
+
+### Story 6: Conference Tournament Schedule — All Roads Lead to Postseason
+- **Angle:** EVERGREEN. SEC May 5-9 Lexington. Big Ten May 6-9 College Park. Big 12 May 7-9 Devon Park OKC. ACC May 6-9 Charlottesville. Selection Show May 10 7 PM ET ESPN2. Regionals May 15. WCWS May 28-June 3.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Conference tournament results; Selection Show
+
+### Story 7: WCWS Countdown — 27 Days to Devon Park
+- **Angle:** EVERGREEN. 27 days to WCWS (May 28-June 3, Devon Park OKC). Selection Show May 10. 16 national seeds host regionals. 32-team WCWS seeding new in 2026. Projected national seeds: OU, TTech, Nebraska, Florida, Alabama, FSU.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Selection Show bracket reveal
+
+---
+
 ## April 30, 2026
 
 ### Story 1: Wells at 36 HR — One From Tying All-Time NCAA Record, OU Opens at A&M

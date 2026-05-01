@@ -1,0 +1,320 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-01",
+  "compiled_at": "2026-05-01T10:11:36.803321+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** OU at A&M Game 2 Tonight — Wells at 36 HR, One From Tying 31-Year NCAA Record",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kendall Wells is at 36 HOME RUNS.\n\nOne from tying a 31-year-old NCAA record.\nTwo from breaking it outright.\n\nGame 2 at Texas A&M is tonight — 5 PM CT on SEC Network.\n\nEvery at-bat is a history lesson in progress.\n\n#Softball #NCAASoftball #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#NCAASoftball",
+            "#Sooners"
+          ],
+          "char_count": 246
+        },
+        {
+          "label": "Post 1-2",
+          "text": "No. 1 Oklahoma vs. No. 12 Texas A&M — TONIGHT 5 PM CT on SEC Network.\n\nOne more OU win = outright SEC title.\nKendall Wells needs ONE homer to tie the all-time NCAA record.\n\nCollege Park. College Station. History waits for no one.\n\n#NCAASoftball #Softball #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#Softball",
+            "#Sooners"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-wells-ncaa-record-chase-ou-agm-game2.html",
+        "headline": "Wells at 36: One Swing From NCAA Immortality as OU Visits A&M in Game 2",
+        "word_count": 632
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept B (Article Hero — 1200x630)\n\n**Story:** Wells at 36 HR / OU at A&M Game 2\n**Platform:** Article featured image\n**Dimensions:** 1200x630 (1.91:1 landscape)\n\n**Imagn Search Term:** `Kendall Wells Oklahoma`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue): \"WELLS WATCH: 36 AND COUNTING\"\n- SUBTEXT: \"Game 2 at A&M — One Swing From Tying the All-Time Record\"\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** SEC Tournament Seeding Battle — Final Weekend Decides Double Byes, National Seeds",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "SEC Tournament is 4 days away.\n\nWhere things stand:\n\nNo. 1 Oklahoma — 18-3 SEC (double bye)\nNo. 2 Florida — 16-5 SEC (double bye)\nNo. 3 Alabama — 15-5 SEC (in range)\n\nTop 4 = no play until Thursday.\n\n#Softball #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#SECSoftball"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The top 4 NCAA seeds get to HOST their own regional.\n\nOklahoma is a lock.\nTexas Tech is in the conversation.\nNebraska is knocking.\nFlorida and Alabama are fighting for position.\n\nMay 10 (ESPN2, 7 PM ET) can't get here fast enough.\n\n#NCAASoftball #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#Softball"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-sec-tournament-seeding-final-weekend.html",
+        "headline": "SEC Tournament Seeding: What the Final Weekend Means for Oklahoma, Florida, and Alabama",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept A (Social — 1080x1350)\n\n**Story:** SEC Tournament Seeding — Final Weekend Stakes\n**Platform:** X/Twitter + Facebook + Instagram\n**Dimensions:** 1080x1350 (4:5 vertical)\n\n**Imagn Search Term:** `Oklahoma softball`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue, white, all caps): \"SEC TOURNAMENT: 4 DAYS AWAY\"\n- SUBTEXT (Montserrat, stacked): \"No. 1 Oklahoma • No. 2 Florida • No. 3 Alabama\"\n- ACCENT BAR (Primary Orange #FF8A00)\n\n**Mood/Composition:** OU dugout celebration or pitcher action. Strong visual identity.\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Nebraska Closes Regular Season at Penn State — 13-Game Streak, National Seed Chase",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nebraska softball steps into Penn State TODAY.\n\n40 wins. 20-1 Big Ten. 13-game win streak.\n\nGame 1 is at 4 PM CT on Big Ten Network.\n\nThe Huskers are rolling toward a Big Ten Tournament title and a home regional. Don't sleep on Lincoln.\n\n#Huskers #BigTen #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#BigTen",
+            "#NCAASoftball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-nebraska-penn-state-final-weekend.html",
+        "headline": "Huskers Head to Penn State for Final Regular-Season Test Before Big Ten Tournament",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept A (Social — 1080x1350)\n\n**Story:** Nebraska Closes at Penn State — 13-Game Streak, National Seed Chase\n**Platform:** X/Twitter + Facebook + Instagram\n**Dimensions:** 1080x1350 (4:5 vertical)\n\n**Imagn Search Term:** `Nebraska softball`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue, all caps): \"40 WINS. 13-GAME STREAK.\"\n- SUBTEXT (Montserrat): \"Nebraska • No. 3 NFCA • Penn State This Weekend\"\n- ACCENT BAR (Primary Gold #FFD700)\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Texas Tech Ready for Oklahoma City — 47-4 Red Raiders Enter Big 12 Tournament",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Texas Tech softball. 47-4. Back-to-back Big 12 champions.\n\nNiJaree Canady. 1,000+ career K's. Most dominant pitcher in the country.\n\nBig 12 Tournament opens May 7 in Oklahoma City.\n\nThe Red Raiders are hunting.\n\n#TexasTech #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTech",
+            "#NCAASoftball"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-texas-tech-big12-tournament-canady.html",
+        "headline": "Texas Tech Is Ready: The 47-4 Red Raiders Set Sights on Oklahoma City",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept A (Social — 1080x1350)\n\n**Story:** Texas Tech Big 12 Tournament Preview\n**Platform:** X/Twitter + Facebook + Instagram\n**Dimensions:** 1080x1350 (4:5 vertical)\n\n**Imagn Search Term:** `NiJaree Canady Texas Tech`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue, all caps): \"BACK-TO-BACK BIG 12 CHAMPS\"\n- SUBTEXT (Montserrat): \"Texas Tech • 47-4 • No. 2 NFCA • May 7-9 OKC\"\n- ACCENT BAR (Primary Gold #FFD700)\n\n**Mood/Composition:** Canady pitching or Red Raiders celebrating. Action preferred.\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** OU Paces Nation with Four USA Softball Player of the Year Finalists",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Four Sooners. One list.\n\nOklahoma leads the nation with FOUR players on the USA Softball Collegiate Player of the Year Top 25:\n\n🔹 Kendall Wells — 36 HR, .377 BA, 79 RBI\n🔹 Gabbie Garcia — 22 HR, 66 RBI\n🔹 Kai Minor\n🔹 Ella Parker\n\nTop 10 announced May 13.\n\n#Sooners #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#NCAASoftball"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ou-usa-softball-poy-finalists.html",
+        "headline": "Oklahoma Leads Nation with Four USA Softball Player of the Year Finalists",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Image Concept A (Social — 1080x1350)\n\n**Story:** OU Has 4 USA Softball Player of the Year Finalists\n**Platform:** X/Twitter + Facebook + Instagram\n**Dimensions:** 1080x1350 (4:5 vertical)\n\n**Imagn Search Term:** `Oklahoma softball`\n**Credit:** (USA TODAY Sports Images)\n\n**Text Overlay:**\n- HEADLINE (Bebas Neue, all caps): \"4 SOONERS. PLAYER OF THE YEAR WATCH.\"\n- SUBTEXT (Montserrat): \"Wells • Garcia • Minor • Parker — Top 25 Finalists\"\n- ACCENT BAR (Primary Orange #FF8A00)\n\n**Mood/Composition:** Team celebration or multi-player shot from OU. Vibrant, energetic feel.\n\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Conference Tournament Schedule — All Roads Lead to Postseason",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Conference tournament week is HERE.\n\n📅 SEC: May 5-9 (Lexington, KY)\n📅 Big Ten: May 6-9 (College Park, MD)\n📅 Big 12: May 7-9 (Devon Park, OKC)\n📅 ACC: May 6-9 (Charlottesville, VA)\n\nSelection Show: May 10, 7 PM ET on ESPN2.\n\nWho are you watching?\n\n#NCAASoftball #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#Softball"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** WCWS Countdown — 27 Days to Oklahoma City",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "27 days until the Women's College World Series.\n\nDevon Park. Oklahoma City. May 28.\n\nThe Selection Show drops May 10 at 7 PM ET on ESPN2.\n\n16 national seeds will HOST their own regional.\n\nThe bracket is almost here. Get ready.\n\n#WCWS #NCAASoftball #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WCWS",
+            "#NCAASoftball",
+            "#Softball"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

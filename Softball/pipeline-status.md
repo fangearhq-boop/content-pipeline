@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-01
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 2 char violations fixed before compile — S2T1 298→231, S4T1 286→238 — 0 violations after fix), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (91 claims, 0 char violations after fixes, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known). Dashboard published via publish-dashboard.py + cherry-pick (non-fast-forward resolved).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Story 6/7 not in image-concepts (Tier 3 social-only — expected). 2 char violations fixed before compile (S2T1 298→231, S4T1 286→238).
+
+## Previous Run
 - **Date**: 2026-04-30
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 4 char violations fixed before compile — 0 violations after fix), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (139 claims, 0 char violations after fix, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known). Dashboard published via publish-dashboard.py + cherry-pick (non-fast-forward resolved).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -184,6 +191,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-01
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 91 claims. 2 char violations fixed (S2T1 298→231, S4T1 286→238). 0 violations after fixes. S6/S7 not in image-concepts (Tier 3 — expected). IMAGE MISSING expected (not_started).
+- Dashboard: 26 items. Non-fast-forward resolved (git pull + cherry-pick). Dashboard published.
+- PostPlanner: ils-postplanner-2026-05-01.xlsx (9 posts), ils-postplanner-tobi-2026-05-01.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Wells at 36 HR one from tying Espinoza all-time NCAA record (37, Arizona 1995), OU won Game 1 at A&M, Game 2 tonight 5 PM CT SEC Network, one win clinches SEC regular season title outright (P10); SEC Tournament seeding final weekend — OU 18-3 double bye locked, Florida 16-5, Alabama 15-5 post-Tennessee series loss, top 4 get double byes, May 5-9 Lexington KY (P9); Nebraska 40-6 20-1 Big Ten 13-game streak closes at Penn State May 1-3 Big Ten Network, Big Ten Tournament May 6-9 College Park MD (P8); Texas Tech 47-4 Big 12 No. 1 seed, Big 12 Tournament May 7-9 Devon Park OKC, Canady 1000+ career K's (P7); OU leads nation with 4 USA Softball POY Top 25 finalists — Wells Garcia Minor Parker — Top 10 announced May 13 (P7); Conference tournament schedule: SEC 5/5-9, Big Ten 5/6-9, Big 12 5/7-9, ACC 5/6-9, Selection Show May 10 7 PM ESPN2 (P6); WCWS 27 days to Devon Park OKC, 16 national seeds host regionals (P6)
+- Notes: 2 tweet char violations caught by verify-facts and fixed before compile. FB posts compile to 0 (heading format — known, dashboard uses markdown fallback). publish-unified-dashboard 403 (PAT, known) — used publish-dashboard.py + cherry-pick.
 
 ### 2026-04-30
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
