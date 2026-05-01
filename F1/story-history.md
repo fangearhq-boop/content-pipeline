@@ -2,6 +2,18 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-01
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Antonelli (Mercedes, 19) leads 2026 Drivers' Championship with 72 pts (9 ahead of Russell, 23 ahead of Leclerc, 31 ahead of Hamilton); won China + Japan; youngest championship leader in F1 history; bids for hat-trick at Miami sprint weekend; Mercedes leads Constructors' 135-90 (Ferrari) | 1 | FOLLOW-UP (April 30) |
+| 2 | Miami GP race day (May 3) thunderstorm threat — 88% rain probability, 53% thunderstorms (AccuWeather); US law requires suspension if lightning within 8 miles; FIA contingency plan in place; Friday+Saturday hot and dry (33-34°C); Race Sunday 4PM ET | 1 | NEW STORY |
+| 3 | FIA MGU-K rule changes debut at Miami — 350kW in key acceleration zones (straights), 250kW elsewhere; addresses "superclip" complaints; all stakeholders agreed; 350kW→200kW proposal was rejected; Verstappen: "bigger changes needed for 2027" | 1 | FOLLOW-UP (April 28 rule changes) |
+| 4 | Honda brings hardware countermeasures to Miami for Aston Martin — inspected chassis at Sakura HQ after Japan GP; targeting vibration issues; Honda: "no visible performance impact"; Newey had warned of "permanent nerve damage" risk | 2 | FOLLOW-UP (April 28 Aston Martin story) |
+| 5 | Mercedes internal title fight — Russell (63 pts) vs Antonelli (72 pts); Russell: lead "not even a consideration"; Wolff issues warning about intra-team battle; Wolff: Senna comparisons "will not help" Antonelli win title; Antonelli fixing "fundamental" start issue | 2 | FOLLOW-UP (ongoing 2026 season story) |
+
+---
+
 ## 2026-04-30
 
 | # | Story | Tier | Tag |

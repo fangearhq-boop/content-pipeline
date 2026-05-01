@@ -1,8 +1,22 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-04-30
+- **Date**: 2026-05-01
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+<!-- Append newest at top -->
+
+### 2026-05-01
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-01.xlsx (9 posts) + f1fr-postplanner-tobi-2026-05-01.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-01/review-dashboard.html (29 items)
+- **Notes:** Miami GP sprint weekend (FP1+Sprint Q today, Sprint+Q Saturday, Race Sunday May 3 4PM ET). Antonelli (19, Mercedes) leads championship 72 pts, youngest leader in F1 history, bids for hat-trick. Race day: 88% rain + 53% thunderstorms — FIA contingency plan; US law requires suspension if lightning within 8 miles. FIA MGU-K rules debut: 350kW on straights/250kW elsewhere, replaces "superclip" concerns; Verstappen wants more changes for 2027. Honda countermeasures for Aston Martin vibration issues — chassis inspected at Sakura; no performance impact expected. Russell (63 pts) vs Antonelli (72 pts) intra-Mercedes fight; Wolff warning; Russell: "not even a consideration."
+- **WordPress publish:** Blocked by egress proxy (Host not in allowlist — persistent infrastructure issue)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->

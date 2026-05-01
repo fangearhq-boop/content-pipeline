@@ -1,0 +1,351 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-01",
+  "compiled_at": "2026-05-01T11:39:26.209198+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Bids for Miami Hat-Trick — 19-Year-Old Leads Championship as F1 Returns",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kimi Antonelli arrives in Miami at 19 years old leading the F1 World Championship.\n\nTwo wins (China + Japan). Nine points clear of team-mate Russell.\n\nThe youngest championship leader in F1 history wants a hat-trick this weekend. 🏆\n\n#F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Antonelli on his 2026 season so far: \"I feel more in control.\"\n\nHe's 19. He's led the championship since Japan. He's chasing a third straight win.\n\nHis biggest rival? His own team-mate.\n\n#F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "Formula 1 is back, and it's returning to one of its most spectacular venues with one of the most spectacular storylines the sport has produced in years.\n\nKimi Antonelli — 19 years old, in his second F1 season — arrives in Miami as the World Championship leader. He has 72 points to his name, won back-to-back races in China and Japan, and stands nine clear of his Mercedes team-mate George Russell. At 19, he is the youngest championship leader in Formula 1 history.\n\nTo put that in perspective: Michael Schumacher didn't lead the championship at 19. Ayrton Senna didn't lead the championship at 19. Max Verstappen was still learning when he was 19. Antonelli is doing it in his second year.\n\nHeading into Miami — a Sprint weekend, with FP1 and Sprint Qualifying today — Antonelli is chasing his third consecutive Grand Prix victory, which would effectively give him a commanding lead in a title that many believed belonged to his team-mate entering the season.\n\nMercedes leads the Constructors' Championship with 135 points, 45 ahead of Ferrari (90), with McLaren third at 56 and Red Bull a distant fourth at 16.\n\nFormula 1 has a new superstar. He wears a silver suit. And he's just getting started.",
+        "image_caption": "Kimi Antonelli: 19 years old. 72 championship points. Two race wins. The youngest championship leader in F1 history is chasing a hat-trick this weekend in Miami. #F1 #MiamiGP",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-antonelli-championship-leader-miami-hat-trick.html",
+        "headline": "Antonelli Arrives in Miami Leading the World Championship at 19 — F1's New Star Chases Hat-Trick",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship Lead / Miami Preview\n**Source:** Formula1.com, Sportsnaut, Sky Sports, GPFans (April 30 — May 1, 2026)\n**Key Facts (Confidence):**\n- Kimi Antonelli, 19, leads 2026 Drivers' Championship with 72 pts [HIGH — multiple sources]\n- George Russell second at 63 pts (9-pt gap) [HIGH]\n- Charles Leclerc (Ferrari) third at 49 pts [HIGH]\n- Lewis Hamilton (Ferrari) fourth at 41 pts [HIGH]\n- Antonelli won China and Japan GPs; Russell won Australia [HIGH]\n- Antonelli at 19 is youngest championship leader in F1 history [HIGH — Sportsnaut, Formula1.com]\n- Mercedes Constructors' lead: 135 pts [HIGH — prior pipeline confirmed]\n- Ferrari second at 90 pts, McLaren third at 56 pts, Red Bull fourth at 16 pts [HIGH]\n- Russell on Antonelli's lead: \"not even a consideration\" [HIGH — Sky Sports direct quote]\n- Antonelli: \"I feel more in control\" in 2026 [HIGH — Formula1.com direct quote]\n- Antonelli has \"fundamental\" start issue working to fix [HIGH — Formula1.com]\n- Toto Wolff: Senna comparisons \"will not help Antonelli win F1 title\" [HIGH — beIN SPORTS]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Thunderstorm Alert — 88% Chance of Rain Could Disrupt Miami Race",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The 2026 Miami Grand Prix might not survive Sunday.\n\nAccuWeather: 88% chance of rain. 53% chance of thunderstorms.\n\nUS law requires cancellation of outdoor events if lightning approaches. The FIA has a plan. But this is a real threat. 😬\n\n#F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Reminder: Miami is a Sprint weekend.\n\nFP1 (90 min) today. Sprint Qualifying today. Sprint + Qualifying Saturday. Race Sunday.\n\nRain is expected Sunday (88%). Four sessions before the weather arrives. ⛈️\n\n#F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Miami Grand Prix could be facing a dramatic disruption on race day — and not the kind that comes from wheel-to-wheel combat.\n\nAccording to AccuWeather's latest forecast, Sunday's race faces an 88% chance of rain and a 53% probability of thunderstorms. That combination is more than just weather talk — it carries genuine legal implications. Florida law mandates that major outdoor public events must be halted when lightning approaches within eight miles. There is no discretion in that rule: if lightning is close, the race stops.\n\nThe FIA has acknowledged the threat and confirmed a contingency plan is in place, promising to minimize disruption to the on-track programme. But minimizing disruption and eliminating it are two very different things when tropical thunderstorms are in the forecast.\n\nThe good news is the rest of the weekend looks glorious: Friday and Saturday are expected to be hot and dry, with temperatures reaching 33-34°C and track temperatures potentially exceeding 56°C during FP1. Teams will get their running in before the storm arrives.\n\nThe Miami Grand Prix sprint weekend schedule: FP1 (90 minutes) today, Sprint Qualifying today, Sprint and Qualifying on Saturday, Grand Prix on Sunday. Three sessions and a sprint race before the clouds roll in.",
+        "image_caption": "88% chance of rain. 53% chance of thunderstorms. Florida law could legally suspend the race if lightning strikes within 8 miles. The 2026 Miami Grand Prix has a bigger rival than any driver: the weather. ⛈️ #F1 #MiamiGP",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-miami-gp-thunderstorm-threat-88-percent-rain.html",
+        "headline": "88% Rain, 53% Thunderstorms: Miami Grand Prix Race Day Could Face Legal Cancellation",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Miami Weather Threat\n**Source:** Formula1.com, GPFans, Motorsport.com, PlanetF1 (May 1, 2026)\n**Key Facts (Confidence):**\n- AccuWeather: 88% chance of rain Sunday [HIGH — multiple sources cite this figure]\n- 53% chance of thunderstorms Sunday [HIGH — PlanetF1, GPFans]\n- Friday hot and dry; track temps expected 56.8°C [HIGH — formula1.com weather article]\n- Saturday hot and dry, peak ~34°C [HIGH]\n- FIA issued statement acknowledging weather concerns; contingency plan in place [HIGH — RacingNews365]\n- US law: outdoor events must suspend if lightning within 8 miles [HIGH — Motorsport.com confirmed this is Florida law]\n- Race: Sunday May 3, 4PM ET [HIGH — official schedule]\n- FP1 (90 min): Friday; Sprint Qualifying: Friday; Sprint: Saturday; Qualifying: Saturday [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "FIA's New MGU-K Rules Debut in Miami — F1's Most Controversial Regs Get a Fix",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "The FIA's big mid-season fix debuts in Miami today.\n\nNew MGU-K rules: 350kW deployment on straights and overtaking zones. 250kW everywhere else.\n\nVerstappen says it's not enough and wants bigger changes for 2027.\n\nFirst real test starts NOW. ⚡\n\n#F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The proposal to cut F1 2026 MGU-K output from 350kW to 200kW was rejected.\n\nAll stakeholders agreed on the compromise: full power on straights, reduced elsewhere.\n\nThis weekend tells us if it works. #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "The most debated aspect of the 2026 Formula 1 season gets its first official fix this weekend in Miami.\n\nAfter months of driver criticism — led most loudly by Max Verstappen, who called the new regulations fundamentally broken and said there was \"something wrong\" at every race weekend — the FIA has implemented new MGU-K deployment rules that take effect from the Miami Grand Prix.\n\nThe changes work like this: the electric motor can still deploy at its full 350 kilowatts in key acceleration zones — the straights and main overtaking opportunities — but is limited to 250 kilowatts on other parts of the circuit. The goal is to reduce the uneven harvesting behavior, particularly the controversial \"superclip\" effect that has created sudden power variations mid-corner.\n\nA more aggressive proposal — to cut from 350kW down to 200kW — was rejected by stakeholders. What emerged is a compromise that aims to preserve the spectacular acceleration while smoothing out the moments that made cars feel unpredictable.\n\nVerstappen has signaled that he views these tweaks as insufficient, saying he hopes for \"bigger changes\" for 2027. For now, the Miami Sprint weekend is the first live test of whether the revised rules improve the racing product.\n\nThe FIA says all teams and stakeholders agreed to the changes.",
+        "image_caption": "F1's most controversial regulations get their first mid-season fix in Miami. New MGU-K rules: full 350kW on straights, limited to 250kW elsewhere. Verstappen wants more. The racing will decide. ⚡ #F1 #MiamiGP",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-fia-mgu-k-rule-changes-debut-miami-2026.html",
+        "headline": "FIA's Mid-Season MGU-K Fix Debuts in Miami — F1's Most Controversial Rules Get Their First Patch",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FIA MGU-K Rule Changes\n**Source:** Formula1.com, Motorsport.com, GPFans, ESPN (confirmed multi-source)\n**Key Facts (Confidence):**\n- MGU-K deployment: 350kW in key acceleration zones (straights), 250kW elsewhere [HIGH — Formula1.com official + ESPN]\n- Rules take effect at Miami GP [HIGH]\n- Addresses \"superclip\" harvesting complaints [HIGH]\n- \"All stakeholders\" agreed to changes [HIGH — Formula1.com]\n- Proposal to cut from 350kW to 200kW was rejected [HIGH — PlanetF1]\n- Verstappen: hopes for \"bigger changes\" for 2027 [HIGH — multiple sources]\n- New rules are first FIA mid-season tweak to 2026 power unit regs [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Honda Brings \"Countermeasures\" to Miami for Aston Martin",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Honda brought hardware countermeasures to Miami after inspecting Aston Martin's chassis at their Sakura HQ.\n\nTarget: the severe vibrations that prompted Newey to warn of \"permanent nerve damage.\"\n\nCaution: performance impact expected to be minimal. #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "Honda is in Miami with hardware, and for the Aston Martin team, that represents at least a glimmer of hope after one of the most challenging starts to a season the team has ever experienced.\n\nAfter the Japan Grand Prix, Honda engineers inspected the Aston Martin chassis at their Sakura headquarters in Japan, specifically targeting the severe vibration issues that have plagued Fernando Alonso and Lance Stroll throughout the opening races of the 2026 season. The problem became so serious that team principal Adrian Newey warned in Melbourne that drivers risked \"permanent nerve damage\" if they completed too many consecutive laps with the current vibration levels.\n\nHonda has brought what it calls \"countermeasures\" to Miami — hardware changes designed to reduce the vibrations and improve reliability. However, the Japanese manufacturer is managing expectations carefully. A Honda spokesperson cautioned that while some progress has been made, the changes \"will not have a visible impact on power unit performance\" on track.\n\nIn other words: Alonso and Stroll may have a more comfortable ride. But they won't suddenly be fighting for podiums.\n\nThis is a foundational step in Aston Martin's recovery, not a breakthrough. The important thing is that Honda is responding, the communication channels between manufacturer and constructor are open, and the two parties have a clear diagnosis of the problem. Solutions take time.",
+        "image_caption": "Honda brings hardware countermeasures to Miami after Aston Martin's nightmare start to 2026. Newey warned of \"permanent nerve damage.\" This weekend is a small but meaningful step forward. #F1 #MiamiGP #AstonMartin",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-honda-countermeasures-aston-martin-vibration-miami.html",
+        "headline": "Honda Brings \"Countermeasures\" to Miami After Aston Martin's Horror Start to 2026",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Honda Countermeasures for Aston Martin\n**Source:** Motorsport.com, PlanetF1, Motorsport Week (April 28 — May 1, 2026)\n**Key Facts (Confidence):**\n- Honda inspected Aston Martin chassis at Sakura HQ after Japan GP [HIGH — Motorsport.com]\n- Hardware changes targeting vibration issues brought to Miami [HIGH]\n- Honda: changes \"will not have visible impact on power unit performance\" [HIGH — direct quote, Motorsport Week]\n- Aston Martin's Newey warned of \"permanent nerve damage\" risk from vibrations in Melbourne [HIGH — prior pipeline April 28]\n- Alonso and Stroll hampered by reliability issues in first three races [HIGH]\n- Honda: \"some progress\" and \"enhancing countermeasures\" [HIGH — PlanetF1]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Mercedes Internal Title Fight — Wolff Issues Warning, Russell vs Antonelli Storyline Builds",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "George Russell on Kimi Antonelli's 9-point championship lead: \"Not even a consideration.\"\n\nToto Wolff has already issued a warning about the intra-team battle.\n\nBoth can win this weekend. Eventually, someone has to give way. 👀\n\n#F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Toto Wolff's exact words on Senna comparisons for Antonelli:\n\n\"It will not help him win the F1 title.\"\n\nThe Mercedes boss is managing expectations carefully. The teenager leads the championship. #F1 #MiamiGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "Mercedes has a problem most teams dream of: two drivers genuinely capable of winning the World Championship, separated by nine points.\n\nGeorge Russell arrived in Miami having won the season opener in Australia. Kimi Antonelli has won the two races since. Now they head into a sprint weekend in Florida with both men in the conversation for the 2026 title — and the team's strategy department about to face some very difficult decisions.\n\nRussell, for his part, is playing it cool. Asked about Antonelli's nine-point lead, he said it is \"not even a consideration\" for him right now. His focus is on maximizing his own performance at each race weekend, not watching over his shoulder.\n\nToto Wolff, however, has been somewhat less casual. The Mercedes team principal has already issued a public warning about the prospect of an intra-team title battle, and took a pointed swipe at the Senna comparisons being made about Antonelli in the media, stating that such comparisons \"will not help him win the F1 title.\"\n\nAntonelli, for his part, has identified a key weakness he's working to correct: a \"fundamental\" issue with his race starts that has cost him positions at the beginning of several races. Fix that, and the points advantage grows.\n\nThis is what F1 looks like when it's working perfectly: a team that's built two champions, letting them race, and watching the championship consequences unfold one sprint at a time.",
+        "image_caption": "George Russell on Kimi Antonelli's championship lead: \"Not even a consideration.\" Toto Wolff says Senna comparisons \"will not help\" the teenager. One team. Two title contenders. This is going to get interesting. #F1 #MiamiGP",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-mercedes-russell-antonelli-title-fight-wolff-warning.html",
+        "headline": "Russell Says Antonelli's Lead \"Not a Consideration\" — But Wolff's Warning Tells a Different Story",
+        "word_count": 643
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes Internal Title Fight\n**Source:** Sky Sports, GPFans, Toto Wolff / F1.com (May 1, 2026)\n**Key Facts (Confidence):**\n- Toto Wolff issued warning about potential intra-team battle [HIGH — Sky Sports]\n- Russell says rivalry \"not even a consideration\" [HIGH — Sky Sports]\n- Both Russell and Antonelli podium/win capable at Miami per analysis [HIGH — GPFans]\n- First time both Mercedes drivers have been legitimate championship contenders [MEDIUM — editorial characterization, not a direct quote]\n- Wolff: \"Senna comparisons will not help Antonelli win F1 title\" [HIGH — beIN SPORTS, April 30]\n- Antonelli: working to fix \"fundamental\" start issue [HIGH — Formula1.com]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
