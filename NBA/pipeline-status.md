@@ -1,8 +1,19 @@
 ## Last Run
-- **Date**: 2026-04-30
+- **Date**: 2026-05-01
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-01
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (4 Tier 1, 1 Tier 2)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-05-01.xlsx (9 posts) + hh-postplanner-tobi-2026-05-01.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-01/review-dashboard.html (29 items)
+- **Notes:** Knicks 140-89 Hawks (G6 April 30) — NBA playoff record 47-pt halftime lead (83-36); OG 29 (26 in 1H), Bridges 24 (10-12), KAT 12/11/10; NY wins series 4-2. Timberwolves 110-98 Nuggets (G6 April 30) — without Edwards (knee), DiVincenzo (Achilles), Dosunmu (calf), Anderson (ill); McDaniels 32, Shannon 24; MIN wins 4-2, faces Spurs in West Semis. 76ers 106-93 Celtics (G6 April 30) — series 3-3; Maxey 30, Embiid 19/10/8, George 23; Tatum exits with left calf discomfort; Game 7 Saturday TD Garden 7:30PM ET. Tonight (May 1): Magic-Pistons G6 7PM (ORL 3-2); Cavs-Raptors G6 7:30PM (CLE 3-2); Rockets-Lakers G6 9:30PM (LAL 3-2).
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-04-30
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

@@ -2,6 +2,18 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-01
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks 140, Hawks 89 (Game 6, April 30) — NY wins series 4-2; NBA playoff record 47-pt halftime lead (83-36); first-quarter lead 40-15 (largest of shot clock era); OG Anunoby 29 pts (26 in 1st half, 4-4 from 3); Bridges 24 (10-12 FG); KAT triple-double 12/11/10 | 1 | NEW STORY |
+| 2 | Timberwolves 110, Nuggets 98 (Game 6, April 30) — MIN wins series 4-2; missing Edwards (knee), DiVincenzo (Achilles), Dosunmu (calf), Anderson (illness); McDaniels 32/4/5; Shannon Jr. 24/6; 2nd time in 3 years Wolves eliminated Nuggets; MIN faces Spurs in Western Semis | 1 | NEW STORY |
+| 3 | 76ers 106, Celtics 93 (Game 6, April 30) — series tied 3-3; Game 7 Saturday TD Garden 7:30PM ET; Maxey 30 (11-22 FG, 5-5 FT, 3-5 3PM); Embiid 19/10/8; George 23; Tatum 17 pts, left with left calf discomfort in 3rd quarter; said "I wasn't overly concerned" | 1 | NEW STORY |
+| 4 | Tonight (May 1) triple-header: Magic at Pistons G6 7PM ET Prime (ORL leads 3-2); Raptors at Cavaliers G6 7:30PM ET Prime (CLE leads 3-2); Rockets at Lakers G6 9:30PM ET Prime (LAL leads 3-2) — all series on line | 1 | NEW STORY |
+| 5 | Anthony Edwards week-to-week — left knee bone bruise + hyperextension suffered Game 4 vs Nuggets; missed Games 5-6; Wolves went 2-0 without him; faces Spurs in Western Semis; timeline uncertain | 2 | FOLLOW-UP (April 30 noted Edwards out) |
+
+---
+
 ## 2026-04-30
 
 | # | Story | Tier | Tag |
