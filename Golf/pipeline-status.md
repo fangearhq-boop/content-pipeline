@@ -3,6 +3,26 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
+## Current Pipeline (2026-05-02)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-05-02 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-02 |
+| Fact-check | Complete (verify-facts.py — 27 claims, 43 HIGH confidence; image warnings expected/non-blocking) | 2026-05-02 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-02 |
+| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-05-02 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-05-02 |
+| Published | Failed — WordPress credentials blocked by egress proxy (persistent) | 2026-05-02 |
+| Git | Committed and pushed to main | 2026-05-02 |
+
+## Notes (2026-05-02)
+- 5 stories: Cameron Young 13-under, 5-shot lead at Doral entering R3 (64-67, 14 birdies, lone bogey hole 14 recovered hole 16; Spieth/Taylor/Smalley T2 at -8; Scheffler -6 T6; R3 Golf Channel 1 PM ET) — T1; Korda/Do co-lead LPGA Riviera Maya Open at -9 (135, Korda bogey-free 67 in R2; Do world No. 345; Green -8; Katsu -7) — T1; LIV Golf PIF funding ends after 2026 (Rumayyan steps down, new board Davis+Zinman, 40% sponsor growth, 129% ticket growth, player reps calling PGA Tour) — T1; Scheffler Doral charge from R1 stumble (71→67, -6 T6, 7 back of Young, Brian Harman R3 partner) — T2; Brianna Do cinderella story (world No. 345 shares LPGA lead, 344-position gap from co-leader Korda) — T2
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X posts: 8 total, all under 280 characters
+- WordPress publish: Failed — credentials blocked by egress proxy (Host not in allowlist — persistent infrastructure issue)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
 ## Current Pipeline (2026-05-01)
 
 | Stage | Status | Last Updated |
