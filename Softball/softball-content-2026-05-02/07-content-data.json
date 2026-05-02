@@ -1,0 +1,310 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-02",
+  "compiled_at": "2026-05-02T10:33:26.914903+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** A&M Stuns No. 1 OU in Game 1 — Series Finale (Games 2 & 3) Decides SEC Title Today",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "No. 12 A&M erased a 5-3 OU lead with a 5-run 6th to stun No. 1 Oklahoma 8-5 in Game 1. Games 2 AND 3 are TODAY in College Station. Kendall Wells at 36 HRs — one from the all-time NCAA record. #Sooners #GigEm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#GigEm"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Two games. One series. Massive SEC title implications. #Sooners need a sweep in College Station today to clinch. Can Kendall Wells tie Lauren Espinoza's 31-year NCAA HR record (37) in the process? Watch on ESPN2 at 4 PM CT. #GigEm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#GigEm"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-am-stuns-ou-series-finale-today.html",
+        "headline": "A&M Stuns No. 1 Oklahoma 8-5 — Games 2 and 3 Decide Series and SEC Title Today",
+        "word_count": 478
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** A&M Stuns OU — Series Finale Today\n**Visual:** Split graphic — left side shows Oklahoma crimson batter in power stance, right side shows A&M maroon crowd in celebration. Bold headline text: \"SERIES NOT OVER\" in white on dark overlay. Sub-text: \"Games 2 & 3 Today | College Station\". Dramatic lighting, dynamic energy. ILS brand colors in footer.\n**Mood:** High drama, urgency, must-watch\n**Text overlay:** \"SERIES NOT OVER — Games 2 & 3 Today\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** A&M Stuns OU\n**Visual:** Softball diamond aerial view with A&M and OU helmets on either dugout side, scoreboard showing 8-5 A&M, dramatic sunset lighting over Davis Diamond. Text overlay: \"GAME 1: A&M 8, OU 5 — PLAY RESUMES TODAY\"\n**Mood:** Tension, rivalry, high stakes\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Nebraska's Big Ten Title Doubleheader — 13-Game Streak on the Line at Penn State",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Nebraska (40-6, 20-1 Big Ten) plays a DOUBLEHEADER at Penn State today — 10 AM and 1:30 PM CT on BTN. Win two and clinch the Big Ten regular season title. 13-game win streak on the line. #Huskers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers"
+          ],
+          "char_count": 195
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Huskers need this one. Nebraska at Penn State, doubleheader today on Big Ten Network. A Big Ten title + national seed to host a regional at Bowlin Stadium is in sight for 40-6 Nebraska. #Huskers #BigTen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#BigTen"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nebraska-doubleheader-penn-state-big-ten.html",
+        "headline": "Nebraska Faces Penn State Doubleheader — Big Ten Title and National Seed on the Line",
+        "word_count": 463
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** Nebraska Doubleheader at Penn State\n**Visual:** Nebraska softball player at bat in Cornhusker red, crowd blurred in background, bold text overlay: \"BIG TEN TITLE ON THE LINE\" with \"Nebraska 40-6 | Doubleheader Today\" in sub-text. Gold accent border. Clean, powerful composition.\n**Mood:** Championship energy, momentum\n**Text overlay:** \"BIG TEN TITLE ON THE LINE — Nebraska at Penn State\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** Nebraska Doubleheader\n**Visual:** Nebraska infield celebration photo style with Big Ten logo graphic element and \"13-Game Win Streak\" badge. Landscape composition with \"HUSKERS DOUBLEHEADER — PENN STATE, TODAY\" in bold.\n**Mood:** Confident, on a roll, championship-ready\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** SEC Tournament Seeding Battle — Double Byes at Stake as Regular Season Closes",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "SEC Tournament seedings are almost set. Top 4 get double byes in Lexington starting Tuesday. OU leads at 18-4. Florida 16-5. Alabama 15-5. Today's OU-A&M finale finishes it off. May 5-9 at John Cropp Stadium. #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-sec-tournament-seeding-preview-2026.html",
+        "headline": "SEC Tournament Seedings Take Shape — Double Byes at Stake as Regular Season Ends",
+        "word_count": 442
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** SEC Tournament Seeding\n**Visual:** Clean graphic with SEC Tournament logo, five team logos stacked (OU, Florida, Alabama, A&M, Texas) with corresponding conference records. Header: \"SEC TOURNAMENT SEEDINGS — FINAL WEEKEND\". Green/gold/blue color scheme. ILS brand footer.\n**Mood:** Informational, clean, premium feel\n**Text overlay:** \"SEC TOURNAMENT SEEDINGS — FINAL WEEKEND\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Texas Tech 47-4 Heads to Oklahoma City — Big 12 Tournament Preview",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Texas Tech (47-4) heads to Devon Park, OKC as the No. 1 seed in the Big 12 Tournament (May 7-9). NiJaree Canady has 1,000+ career Ks and is the most dominant pitcher in the country. #WreckEm #Big12Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#Big12Softball"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-texas-tech-big-12-tournament-preview.html",
+        "headline": "Texas Tech 47-4 Enters Big 12 Tournament as No. 1 Seed — NiJaree Canady Leads the Way",
+        "word_count": 440
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** Texas Tech Big 12 Tournament\n**Visual:** Red Raiders pitcher (representing NiJaree Canady style) in dramatic windmill release, stadium lights glowing in background, overlaid text: \"BIG 12 TOURNAMENT — NO. 1 SEED\" with \"Texas Tech 47-4\" below. Red and black color scheme with Devon Park, OKC reference.\n**Mood:** Dominant, fearless, record-setting\n**Text overlay:** \"TEXAS TECH — BIG 12 TOURNAMENT NO. 1 SEED\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** No. 10 FSU Closes Regular Season at Boston College — ACC Title and National Seed Push",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "No. 10 Florida State (43-8) closes the regular season at Boston College this weekend. With the ACC Tournament set for May 6-9 in Charlottesville, the Seminoles are pushing for a national seed. #FSUSoftball #ACCSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#ACCSoftball"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-fsu-acc-tournament-preview-national-seed.html",
+        "headline": "No. 10 FSU Closes Regular Season — ACC Tournament and National Seed Push Dead Ahead",
+        "word_count": 418
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** FSU Final Weekend\n**Visual:** Florida State softball player celebrating with garnet and gold color scheme, ACC logo in corner, text overlay: \"ACC TOURNAMENT BOUND — FSU 43-8\" with \"National Seed Push | Charlottesville Next Week\" sub-text. Clean modern design.\n**Mood:** Confident, season-closing, championship push\n**Text overlay:** \"FSU — ACC TOURNAMENT BOUND\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Conference Tournament Roadmap — All Five Major Leagues Tip Off Next Week",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Conference tournament week is almost here. SEC: May 5-9 Lexington. Big Ten: May 6-9 College Park. Big 12: May 7-9 OKC. ACC: May 6-9 Charlottesville. Selection Show: May 10, 7 PM ET on ESPN2. WCWS: May 28. 🥎",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** WCWS Countdown — 26 Days to Devon Park",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "26 days to the WCWS. Devon Park, OKC. May 28–June 3. The Selection Show on May 10 reveals 64 teams. New in 2026: 32-team WCWS seeding. Projected national seeds include OU, TTech, Nebraska, Florida, Alabama and FSU. 🥎 #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WCWS"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

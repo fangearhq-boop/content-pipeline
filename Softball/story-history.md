@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 2, 2026
+
+### Story 1: A&M Stuns No. 1 OU 8-5 in Game 1 — Series Finale (Games 2 & 3) Today
+- **Angle:** FOLLOW UP. A&M rallied from 5-3 down to beat No. 1 Oklahoma 8-5 in weather-resumed Game 1 (May 1). Games 2 and 3 both moved to Saturday (May 2) — Game 2 at 12:15 PM CT, Game 3 at 4 PM CT on ESPN2 at Davis Diamond. OU (18-4 SEC) still controls its destiny. Wells at 36 HR, one from tying Lauren Espinoza's all-time NCAA record (37, Arizona, 1995).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Wells HR No. 37 tying record; series result; SEC title clinch
+
+### Story 2: Nebraska Doubleheader at Penn State — Big Ten Title and National Seed Chase
+- **Angle:** FOLLOW UP. Nebraska (40-6, 20-1 Big Ten, 13-game win streak) plays weather-forced doubleheader at Penn State today (10 AM CT, 1:30 PM CT on BTN). Win two of three = Big Ten regular season title. Chasing top-4 national seed to host Regional at Bowlin Stadium.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** Penn State series results; Big Ten Tournament May 6-9; Selection Show
+
+### Story 3: SEC Tournament Seeding Battle — Double Byes at Stake
+- **Angle:** FOLLOW UP. SEC Tournament begins May 5 (John Cropp Stadium, Lexington KY). OU 18-4 leads. Florida 16-5. Alabama 15-5. Top 4 get double byes. National seeds host regionals. Today's OU-A&M finale finalizes seedings.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Final regular season results; SEC Tournament bracket; Selection Show May 10
+
+### Story 4: Texas Tech 47-4 Enters Big 12 Tournament as No. 1 Seed
+- **Angle:** FOLLOW UP. TTech (47-4, back-to-back Big 12 champions) is No. 1 seed at Big 12 Tournament (May 7-9, Devon Park OKC). NiJaree Canady (1,000+ career Ks) anchors rotation.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Big 12 Tournament results; national seed positioning
+
+### Story 5: No. 10 FSU Closes Regular Season at Boston College — ACC Tournament Push
+- **Angle:** FOLLOW UP. FSU (43-8, 18-3 ACC) at Boston College (13-35). ACC Tournament May 6-9 Charlottesville VA. National seed conversation. Isa Torres dominant offensive season.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** ACC Tournament results; national seed; Selection Show
+
+### Story 6: Conference Tournament Schedule — All Roads Lead to Postseason
+- **Angle:** EVERGREEN. SEC May 5-9 Lexington. Big Ten May 6-9 College Park. Big 12 May 7-9 Devon Park OKC. ACC May 6-9 Charlottesville. Selection Show May 10, 7 PM ET ESPN2.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Conference tournament results; Selection Show
+
+### Story 7: WCWS Countdown — 26 Days to Devon Park
+- **Angle:** EVERGREEN. 26 days to WCWS (May 28-June 3, Devon Park OKC). Selection Show May 10. 32-team WCWS seeding new in 2026. Projected seeds: OU, TTech, Nebraska, Florida, Alabama, FSU.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Selection Show bracket reveal
+
+---
+
 ## May 1, 2026
 
 ### Story 1: OU at A&M Game 2 Tonight — Wells at 36 HR, One From Tying NCAA Record
