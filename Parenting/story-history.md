@@ -2,6 +2,45 @@
 
 ---
 
+## May 2, 2026
+
+### Story 1: Territory Days 2026 — 50th Anniversary, May 23-25
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Territory Days celebrates 50th anniversary Memorial Day weekend; free admission; Kid Zone; 180+ booths; 3 stages; 25+ bands; free shuttle from downtown)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 23-25, Old Colorado City; free admission; Kid Zone: train, gold panning, inflatables, bungee trampolines; Memorial Day Remembrance Ceremony Monday; free shuttle from C.A.B. Garage downtown
+
+### Story 2: D49 Graduation Season 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 graduation dates: PPEC/SSAE/Patriot May 15; FHS/SCHS/VRHS May 23 at World Arena; board appointed Jack Ryan; new ECE classrooms August 2026)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** PPEC/SSAE/Patriot: May 15; FHS/SCHS/VRHS: May 23, World Arena; Jack Ryan appointed Director District 2; D49 repealed policy JBAA; 2 new ECE classrooms opening August 2026 at Student Success Center
+
+### Story 3: Pikes Peak Birding Festival + Touch-A-Truck
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Two free family events: Pikes Peak Birding Festival May 14-17, 30+ field trips; Touch-A-Truck 3rd Annual May 16, 9:30 AM)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Pikes Peak Birding Festival May 14-17, free, 30+ field trips; Touch-A-Truck May 16, 9:30 AM, free
+
+### Story 4: AAP Car Seat Safety Guidelines 2026 Update
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (AAP updated Feb 2026: removed age-2 guideline for rear-facing; now based on car seat manufacturer's height/weight limit; booster until 4ft 9in)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Updated February 12, 2026; no more "rear-face until 2"; rear-face until max height/weight per seat; forward-facing harness as long as possible; booster until 4ft 9in (ages 8-12 typically); aap.org
+
+### Story 5: COS Outdoor Family Guide for May
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY (May weather in COS: highs 60s-70s; Garden of the Gods, North Cheyenne Cañon, Seven Bridges trails; altitude UV tips; afternoon thunderstorm warning)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** COS elevation ~6,035 ft; UV increases ~4% per 1,000 ft; avg May high 68°F, avg low 43°F; Garden of the Gods free; afternoon thunderstorms common; Seven Bridges popular but crowded weekends
+
+---
+
 ## May 1, 2026
 
 ### Story 1: CPSC Recalls Roundup 2026 — Baby Bath Seats, Swings, Walkers, Robes

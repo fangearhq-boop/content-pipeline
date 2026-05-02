@@ -1,24 +1,24 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: May 1, 2026
+## Latest Run: May 2, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | CPSC.gov (multiple 2026 recalls: NFSVLB/YCXXKJ bath seats, Vevor swings, Uuoeebb walkers, Bellabu Bear robes); AAP/EdSurge 2026 (screen time guideline update); VisitCOS.com (Mother's Day events May 9-17); D11.org calendar (last day May 22, graduations Ed Robson Arena May 19-21); coloradosprings.gov/TOPS2026 + KOAA (parks/trails 2026 plan) |
-| Story History Check | COMPLETE | 5 NEW STORY — all verified against April 30 story history, no duplicates |
+| Research (web search) | COMPLETE | visitcos.com (Territory Days 50th, Touch-A-Truck, Birding Festival); d49.org + Rocky Mountain PBS (D49 graduations, board news); aap.org (car seat guidelines Feb 2026); weather25.com (COS May weather) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against May 1 story history, no duplicates |
 | Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
 | Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging, sources noted |
 | Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
-| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all verified under 280 chars; 4 hashtags each; 0 exclamation marks |
-| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; engagement questions; no hashtags |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all verified under 280 chars (fixed 2 violations); 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; max 1 exclamation mark per post; engagement questions; no hashtags in articles |
 | Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
 | Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
-| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 80 claims; image manifest warnings cosmetic (not_started expected) |
-| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 10 images |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 64 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images |
 | Dashboard | COMPLETE | review-dashboard.html (25 items) |
-| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-01.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-05-01.xlsx (5 TOBI posts) |
-| Dashboard Push | Complete — pushed to cos-parenting repo | Dashboard live at https://fangearhq-boop.github.io/cos-parenting |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-02.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-05-02.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
 | WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
 
 ## Story Count by Pillar (2026-05-01)
