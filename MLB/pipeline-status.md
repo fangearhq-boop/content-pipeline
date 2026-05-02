@@ -1,6 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-02
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations — headers fixed to ### for compile then ## for PostPlanner), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (27 claims, 0 char violations, S6/S7 no image-concepts expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards via publish-dashboard.py succeeded.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). S6/S7 no article — Tier 3 social-only by design. 0 char violations.
+
+## Previous Run
 - **Date**: 2026-05-01
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 2 char violations fixed before compile — S1T1 291→244, S3T1 294→255 — 0 violations after fix), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (24 claims, 0 char violations after fixes, S6/S7 no image-concepts expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known); publish-dashboard.py fallback succeeded.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -181,6 +188,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-02
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 27 claims. 0 char violations. S6/S7 missing from image-concepts (Tier 3 — expected). IMAGE MISSING expected (not_started).
+- Dashboard: 26 items. Published to GitHub Pages via publish-dashboard.py.
+- PostPlanner: bb-postplanner-2026-05-02.xlsx (9 posts), bb-postplanner-tobi-2026-05-02.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (known network restriction)
+- Key stories: Murakami (White Sox) sole MLB HR leader at 13, surpassing Judge (12) and Alvarez (12), on 65-HR pace, first 12 XBH all HRs (record since 1900) (P10); Vargas (D-backs) extends to 27-game hit streak May 1 breaking Venezuela-born record, 24-game season-opening streak 2nd longest since 1940, leads NL at .378 BA (P9); Judge (12 HR) + Rice (10 HR) = 2nd Yankees duo at 10+ HRs before game 30 since Mantle-Berra 1956, Yankees 19-10 AL East leaders (P8); Braves 20-9 largest division lead in baseball at 6.5 games, 3rd-largest entering May since 1969, first to 20 wins, best ERA and most runs (P8); NL Central all 5 teams above .500 entering May, 2nd-latest date ever, only 3 playoff spots for 5 contenders (P7); Walker Cardinals biggest surprise .547 SLG 8 HR 28 games voted by execs (P7); May milestones watch — Murakami 65-HR pace, Vargas streak, Judge 400-career, Ramirez 30-30, NL Central history (P6)
+- Notes: 0 tweet char violations. X posts headers changed ### for compile then ## for PostPlanner (known workaround). FB posts compile to 0 (heading format — known). S6/S7 no article — Tier 3 social-only. Dashboard published via publish-dashboard.py.
 
 ### 2026-05-01
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)

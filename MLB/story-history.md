@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-02
+
+### Story 1: Murakami Surges to Sole MLB HR Lead at 13 — On 65-Homer Pace
+- **Angle:** FOLLOW UP. Murakami (White Sox) took sole MLB HR lead at 13, passing Judge (12) and Alvarez (12). On pace for 65 HRs. First 12 extra-base hits all HRs (record since 1900). White Sox franchise record for HRs before May.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** HR pace sustainability; Judge 400-career chase; White Sox rebuild narrative
+
+### Story 2: Vargas Extends Hit Streak to 27 — Breaks Venezuela-Born Record
+- **Angle:** NEW. Ildemaro Vargas (Diamondbacks) extended to 27-game hitting streak on May 1, breaking Venezuela-born MLB record. 24-game season-opening streak = 2nd longest since 1940 (behind LeFlore's 30 in 1976). Leads NL in BA (.378).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Streak continuation toward LeFlore's 30-game record
+
+### Story 3: Judge + Rice = Yankees' Modern Mantle-Berra Duo
+- **Angle:** FOLLOW UP. Judge (12 HR) + Rice (10 HR) = second Yankees duo with 10+ HRs before game 30 (joining Mantle/Berra 1956). Yankees 19-10, AL East leaders.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** Judge 400-career HR milestone; Yankees standings; Rice emergence
+
+### Story 4: Braves Lead Baseball with 6.5-Game Division Lead Entering May
+- **Angle:** NEW. Braves (20-9) hold 6.5-game NL East lead — tied with 2012 Rangers for 3rd-largest division lead entering May since 1969. First to 20 wins. Best ERA + most runs in baseball.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Braves sustaining lead through May; Dodgers/Yankees comparison
+
+### Story 5: NL Central — All Five Teams Above .500 Entering May
+- **Angle:** FOLLOW UP. Second-latest date ever for full division above .500 (only 2004 lasted longer). Reds lead. Three playoff spots, five contenders. Could be first division above .500 all season in divisional era.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Division standings evolution; which teams fade first
+
+### Story 6: Jordan Walker Cardinals Breakout — MLB's Biggest Surprise
+- **Angle:** FOLLOW UP. Walker voted MLB's biggest surprise by execs. .547 SLG, 8 HR, 19 RBI in 28 games. Hit 2-run HR vs Pittsburgh April 30. Was negative-bWAR 3 straight seasons.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Walker season arc; Cardinals playoff race
+
+### Story 7: May Milestones Watch — Five Numbers That Could Rewrite MLB History
+- **Angle:** EVERGREEN. Tracking: Murakami 65-HR pace (Bonds record: 73); Vargas 3 hits from LeFlore's record; Judge ~20 HRs from 400-career; Ramirez 3rd straight 30-30; NL Central first all-.500+ division.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** All ongoing milestone stories
+
+---
+
 ## 2026-05-01
 
 ### Story 1: Ramirez Wins AL Player of Month — .342 BA, 7 HR, 28 RBI in April, Third 30-30 in Sight

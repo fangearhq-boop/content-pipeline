@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-02",
+  "compiled_at": "2026-05-02T10:46:14.735600+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Murakami Surges to Sole MLB HR Lead at 13 — On 65-Homer Pace",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Munetaka Murakami just passed Aaron Judge and Yordan Alvarez to take SOLE possession of the MLB home run lead. Murakami: 13 HRs. Judge: 12. Alvarez: 12. The White Sox rookie is on pace for 65 home runs. This is historic. #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Murakami's first 12 MLB extra-base hits were ALL home runs. A record going back to at least 1900. The previous record was 10, set by Dae-ho Lee in 2016. Now he's at 13 HRs and leading the league alone. The White Sox may have found something special. #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-murakami-sole-mlb-hr-leader-13.html",
+        "headline": "Murakami Surges to Sole MLB HR Lead at 13 — White Sox Rookie on Historic Pace",
+        "word_count": 482
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1A — Social (1080x1350)\n**Type:** imagn\n**Story:** Murakami MLB HR Leader\n**Imagn Search Term:** `Munetaka Murakami Chicago White Sox`\n**Credit:** (USA TODAY Sports Images)\n**Text Overlay:** \"MLB HR LEADER — 13 HRs\" / \"On 65-Homer Pace | White Sox\"\n**Mood:** Powerful, historic, explosive\n**Status:** not_started\n\n#### Image Concept 1B — Article Hero (1200x630)\n**Type:** imagn\n**Story:** Murakami MLB HR Leader\n**Imagn Search Term:** `Munetaka Murakami Chicago White Sox`\n**Credit:** (USA TODAY Sports Images)\n**Text Overlay:** \"MURAKAMI — SOLE MLB HR LEADER\"\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Vargas Extends Historic Streak to 27 Games — Breaks Venezuela-Born Record",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Ildemaro Vargas just broke the MLB record for Venezuela-born players with a 27-game hitting streak. His 24-game season-opening run is the 2nd longest since 1940. He leads the NL in batting average at .378. One of the best stories in baseball right now. #Dbacks #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dbacks",
+            "#MLB"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Vargas is now 3 hits from matching Ron LeFlore's 30-game season-opening streak from 1976 — one of the most obscure records in baseball. The D-backs second baseman leads the NL at .378 BA. Arizona is 6-2 with four home runs last night. #Dbacks #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dbacks",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-vargas-27-game-hit-streak-venezuela-record.html",
+        "headline": "Ildemaro Vargas Extends Streak to 27 Games — Breaks Venezuela Record, Chases LeFlore's 1976 Mark",
+        "word_count": 404
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 2A — Social (1080x1350)\n**Type:** imagn\n**Story:** Vargas 27-Game Hit Streak\n**Imagn Search Term:** `Ildemaro Vargas Arizona Diamondbacks`\n**Credit:** (USA TODAY Sports Images)\n**Text Overlay:** \"27-GAME HIT STREAK\" / \"2nd Longest Season-Opening Streak Since 1940\"\n**Mood:** Historic, momentum, persistence\n**Status:** not_started\n\n#### Image Concept 2B — Article Hero (1200x630)\n**Type:** imagn\n**Story:** Vargas Hit Streak\n**Imagn Search Term:** `Ildemaro Vargas Arizona Diamondbacks`\n**Credit:** (USA TODAY Sports Images)\n**Text Overlay:** \"VARGAS — 27 STRAIGHT\"\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Judge + Rice = Yankees' Modern Mantle-Berra — Two at 10+ HRs Before Game 30",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Aaron Judge (12 HR) + Ben Rice (10 HR) = the first Yankees duo since Mickey Mantle and Yogi Berra in 1956 to both reach 10 HRs before game 30. New York is 19-10 and leading the AL East. The Bronx is back. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-judge-rice-yankees-mantle-berra-duo.html",
+        "headline": "Judge and Rice Join Mantle-Berra: First Yankees Duo With 10+ HRs Each Before Game 30 Since 1956",
+        "word_count": 444
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 3A — Social (1080x1350)\n**Type:** imagn\n**Story:** Judge + Rice Yankees Duo\n**Imagn Search Term:** `Aaron Judge New York Yankees`\n**Credit:** (USA TODAY Sports Images)\n**Text Overlay:** \"JUDGE + RICE — YANKEES POWER DUO\" / \"First Since Mantle & Berra, 1956\"\n**Mood:** Pinstripe power, historic comparison, Yankees pride\n**Status:** not_started\n\n#### Image Concept 3B — Article Hero (1200x630)\n**Type:** imagn\n**Story:** Judge + Rice\n**Imagn Search Term:** `Aaron Judge New York Yankees`\n**Credit:** (USA TODAY Sports Images)\n**Text Overlay:** \"JUDGE & RICE — MODERN MANTLE-BERRA\"\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Braves Lead Baseball with 6.5-Game Division Lead Entering May — First to 20 Wins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Atlanta Braves (20-9) enter May with a 6.5-game lead — tied for the 3rd-largest division lead entering May since 1969. They were the first team to 20 wins. Best ERA AND most runs in baseball. They look like the real deal. #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-braves-best-in-baseball-6-5-game-lead.html",
+        "headline": "Braves Enter May With 6.5-Game Lead — Third-Largest Division Lead at This Point Since 1969",
+        "word_count": 440
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 4A — Social (1080x1350)\n**Type:** imagn\n**Story:** Braves Best Division Lead\n**Imagn Search Term:** `Atlanta Braves`\n**Credit:** (USA TODAY Sports Images)\n**Text Overlay:** \"BEST IN BASEBALL\" / \"Braves 20-9 | 6.5-Game Lead\"\n**Mood:** Dominant, championship-level, confident\n**Status:** not_started\n\n#### Image Concept 4B — Article Hero (1200x630)\n**Type:** imagn\n**Story:** Braves Dominance\n**Imagn Search Term:** `Atlanta Braves`\n**Credit:** (USA TODAY Sports Images)\n**Text Overlay:** \"ATLANTA BRAVES — FIRST TO 20 WINS\"\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** NL Central — All Five Teams Still Above .500 Entering May, Historic Race",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "ALL FIVE NL Central teams are above .500 entering May. Only the second time in the last 90 years for a full division to reach this point still all winning. Three playoff spots. Five contenders. Something historic may be happening in the NL Central. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nl-central-all-five-teams-above-500.html",
+        "headline": "NL Central Enters May With All Five Teams Above .500 — Baseball Has Never Seen This Before",
+        "word_count": 431
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 5A — Social (1080x1350)\n**Type:** imagn\n**Story:** NL Central Historic Race\n**Imagn Search Term:** `Cincinnati Reds`\n**Credit:** (USA TODAY Sports Images)\n**Text Overlay:** \"ALL 5 ABOVE .500\" / \"NL Central — Historic Race\"\n**Mood:** Historic, competition, five-team battle\n**Status:** not_started\n\n#### Image Concept 5B — Article Hero (1200x630)\n**Type:** imagn\n**Story:** NL Central Race\n**Imagn Search Term:** `Cincinnati Reds`\n**Credit:** (USA TODAY Sports Images)\n**Text Overlay:** \"NL CENTRAL — EVERY TEAM WINNING\"\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Jordan Walker is MLB's Biggest Surprise — Cardinals 23-Year-Old Arriving in 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Jordan Walker, 23, was a Top 5 prospect in 2023. Then posted a negative bWAR three years in a row. In 2026: .547 SLG, 8 HR, 19 RBI in 28 games. League execs voted him MLB's \"biggest surprise.\" What a turnaround story. #Cardinals #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cardinals",
+            "#MLB"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** May Milestones Watch — Five Numbers That Could Rewrite the 2026 MLB Record Book",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Five numbers to chase in May: Murakami is on a 65-HR pace (Bonds record: 73). Vargas is 3 hits from LeFlore's 1976 streak record. Judge needs ~20 HRs for 400 career. Ramirez chasing rare 3rd straight 30-30. NL Central could make history. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
