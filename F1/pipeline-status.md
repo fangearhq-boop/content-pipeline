@@ -1,11 +1,22 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-01
+- **Date**: 2026-05-02
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-02
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-02.xlsx (8 posts) + f1fr-postplanner-tobi-2026-05-02.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-02/review-dashboard.html (23 items)
+- **Notes:** Miami Sprint weekend. Sprint QF (May 1): Norris P1 1:27.869 (first non-Mercedes pole of 2026); Antonelli P2 +0.222s; Piastri P3 +0.239s; Russell P6 +0.624s. McLaren brought entirely new MCL40 (floor, bodywork, rear wing, brake ducts); Stella: "completely new from aerodynamic standpoint." Championship: Antonelli 72 pts, Russell 63. Today: Sprint noon ET, Qualifying 5 PM ET. Race Sunday 4 PM ET. Weather risk: 88% rain, 53% thunderstorm Sunday; US law requires halt if lightning within 8 miles; FIA contingency active.
+- **WordPress publish:** Blocked by egress proxy (Host not in allowlist — persistent infrastructure issue)
 
 ### 2026-05-01
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

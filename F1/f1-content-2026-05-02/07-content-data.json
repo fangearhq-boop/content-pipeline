@@ -1,0 +1,322 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-02",
+  "compiled_at": "2026-05-02T11:26:25.764606+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Norris Ends Mercedes' 2026 Qualifying Streak — Sprint Pole in Miami as McLaren Upgrades Bite",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "NORRIS ENDS MERCEDES' QUALIFYING RUN.\n\nMcLaren's first pole of 2026. Miami Sprint QF:\n\n1. Norris — 1:27.869\n2. Antonelli — +0.222s\n3. Piastri — +0.239s\n\nUpgraded McLaren. New floor. New aero. It's working.\n\n#F1Fanrecap #MiamiGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 1-2",
+          "text": "McLaren brought an ENTIRELY NEW CAR to Miami.\n\nNew floor. New bodywork. New rear wing. New brake ducts.\n\nStella called it \"completely new from an aerodynamic standpoint.\"\n\nThe result? Their first pole of 2026. #F1Fanrecap #MiamiGP #McLaren",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP",
+            "#McLaren"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-norris-sprint-pole-mclaren-upgrade.html",
+        "headline": "Norris Ends Mercedes' 2026 Qualifying Streak — McLaren's Sprint Pole Signals Real Title Threat",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Miami Sprint Weekend Today — Sprint at Noon, Qualifying Tonight, Race Sunday Under Storm Clouds",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "MIAMI F1 SPRINT WEEKEND IS HERE.\n\nSprint Race: Noon ET today\nQualifying: 5 PM ET tonight\nGrand Prix: Sunday 4 PM ET\n\nNorris on sprint pole. Antonelli chasing. McLaren vs Mercedes vs storm clouds.\n\nLet's go. #F1Fanrecap #MiamiGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sunday's Miami GP forecast: 88% rain. 53% thunderstorm chance.\n\nUnder US law, the race MUST be halted if lightning gets within 8 miles.\n\nFIA has contingency plans. This could be the most dramatic Miami race ever.\n\n#F1Fanrecap #MiamiGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-miami-gp-sprint-weekend-preview.html",
+        "headline": "Miami Sprint Weekend Preview — Sprint at Noon, Qualifying Tonight, Race Sunday Under Storm Clouds",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "McLaren Fires Back With Revolutionary Miami Upgrade — Is This Their 2026 Title Push?",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "McLaren won Miami in 2024. They won it in 2025.\n\nNow they're back with the biggest upgrade of 2026 — new floor, bodywork, rear wing, brake ducts — and Norris just took sprint pole.\n\nThree in a row? #F1Fanrecap #McLaren #MiamiGP",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#McLaren",
+            "#MiamiGP"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 3-2",
+          "text": "If McLaren's Miami upgrade works on Sunday as well as it did in sprint qualifying, Antonelli's championship lead is in danger.\n\nGap: Antonelli 72 pts. McLaren (Norris + Piastri) have the pace.\n\nTitle fight just got real. #F1Fanrecap #MiamiGP",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-mclaren-miami-upgrade-explained.html",
+        "headline": "McLaren's Miami Revolution — The Upgrade Package That Could Change the 2026 Championship",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli Leads Russell 72-63 — Can Mercedes' Miami Weekend Survive the McLaren Storm?",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Antonelli: 72 pts. Russell: 63 pts.\n\nBut in Miami sprint qualifying, Antonelli was 2nd. Russell was 6th — 0.6 seconds off Norris.\n\nMercedes still leads but the gap to McLaren is closing fast.\n\nChampionship lives on Sunday. #F1Fanrecap #MiamiGP #Mercedes",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP",
+            "#Mercedes"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-antonelli-russell-miami-championship.html",
+        "headline": "Antonelli 72, Russell 63 — The Miami Sprint Revealed Cracks in Mercedes' Perfect Season",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Sunday Storm Watch — Will Rain Define the Miami Grand Prix Outcome?",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Rain. Thunderstorms. US law that can STOP the race.\n\nSunday's Miami GP is already shaping up as the most chaotic of the year.\n\n88% rain chance. FIA contingency plan. 4 PM ET start.\n\nIf it gets wild, ANYTHING can happen. #F1Fanrecap #MiamiGP",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-miami-gp-weather-storm-watch.html",
+        "headline": "Miami Storm Watch — 88% Rain, Thunderstorms, and a US Law That Could Stop the Race",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

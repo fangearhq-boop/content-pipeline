@@ -1155,3 +1155,37 @@
 - **Category:** Analysis / Driver Futures
 - **Key facts:** Lambiase departing end 2027; Verstappen-Lambiase since Toro Rosso 2016. Mekies "campus is on fire." Red Bull P4 (16 pts). Verstappen's reported exit clause; question marks about his future.
 - **Status:** FOLLOW-UP (Verstappen/Red Bull covered April 28; Lambiase angle new)
+
+---
+
+## 2026-05-02
+
+### STORY 1: Norris Ends Mercedes' 2026 Qualifying Streak — Sprint Pole in Miami as McLaren Upgrades Bite
+- **Tier:** 1
+- **Category:** Qualifying / Technical
+- **Key facts:** Sprint QF (May 1): Norris P1 1:27.869; Antonelli P2 +0.222s; Piastri P3 +0.239s; Leclerc P4, Verstappen P5, Russell P6. First non-Mercedes pole of 2026 season. McLaren brought entirely new MCL40: new floor, bodywork, rear wing, front/rear brake ducts. Stella: "completely new from aerodynamic standpoint."
+- **Status:** NEW STORY
+
+### STORY 2: Miami Sprint Weekend Today — Sprint at Noon, Qualifying Tonight, Race Sunday
+- **Tier:** 1
+- **Category:** Preview / Race Day
+- **Key facts:** Sprint race noon ET Sat; Qualifying 5 PM ET Sat; Race Sun 4 PM ET. Miami International Autodrome 57 laps. Dry Saturday; Sunday 88% rain, 53% thunderstorm chance. FIA contingency plans. US law: halt if lightning within 8 miles. McLaren won 2024 and 2025 here.
+- **Status:** NEW STORY
+
+### STORY 3: McLaren Fires Back With Revolutionary Miami Upgrade
+- **Tier:** 1
+- **Category:** Technical Analysis
+- **Key facts:** New floor, bodywork, rear wing, front/rear brake ducts. Stella "completely new from aerodynamic standpoint." Norris+Piastri: Nürburgring tyre test + simulator. Sprint QF: McLaren P1+P3. Championship: Antonelli 72 pts leads.
+- **Status:** NEW STORY
+
+### STORY 4: Antonelli Leads Russell 72-63 — Can Mercedes Survive the McLaren Storm?
+- **Tier:** 2
+- **Category:** Championship Battle
+- **Key facts:** Antonelli 72 pts, Russell 63 pts (9-pt gap). Youngest championship leader in F1 history. Russell: "not even a consideration." Wolff warning. Sprint QF: Antonelli P2, Russell P6 (-0.624s from Norris, -0.402s from Antonelli). Antonelli has "fundamental" start issue being worked on.
+- **Status:** NEW STORY
+
+### STORY 5: Sunday Storm Watch — 88% Rain, Thunderstorms, US Law Could Stop the Race
+- **Tier:** 2
+- **Category:** Race Preview / Weather
+- **Key facts:** Sunday Miami forecast: 88% rain, 53% thunderstorm. US law: must halt if lightning within 8 miles. FIA contingency plans confirmed. Race 4 PM ET. Wet conditions could neutralize McLaren upgrade; help Mercedes.
+- **Status:** NEW STORY
