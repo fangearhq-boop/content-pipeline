@@ -1326,3 +1326,37 @@
 - **Category:** Series Analysis / Upset Watch
 - **Key facts:** Cavs-Raptors tied 2-2; road team won all 4 games; Raptors 93-89 Game 4 (April 26); NBA admitted 7 missed calls end of Game 4; Quickley led Raptors; Game 5 tonight 7:30PM ET.
 - **Status:** NEW STORY
+
+---
+
+## 2026-05-02
+
+### STORY 1: Lakers Eliminate Rockets 98-78 — LeBron 28, Reaves Back, LA Heads to West Semis vs. Thunder
+- **Tier:** 1
+- **Category:** Playoff Results / Series Clincher
+- **Key facts:** Lakers 98, Rockets 78 (Game 6, May 1). Lakers win series 4-2. LeBron 28 pts/8 ast/7 reb. Reaves 15 (back from oblique). Ayton 16 reb. 27-3 first-half run; led 49-31 at half. Next: vs. No. 1 OKC Thunder, G1 Tuesday in OKC.
+- **Status:** NEW STORY
+
+### STORY 2: Cade's 19-Point 4th Quarter Lifts Pistons From 24 Down to Force Game 7
+- **Tier:** 1
+- **Category:** Playoff Results / Epic Comeback
+- **Key facts:** Pistons 93, Magic 79 (Game 6, May 1 at ORL). Series tied 3-3. DET trailed 62-38. Cade 32 pts/10 reb (24 in 2H, 19 in Q4). Harris 22. Magic missed 23 straight shots; DET 35-5 run; outscored ORL 55-19 in 2H. Magic first team since 1996-97 to blow 24+ lead at home with chance to close. Cade first Piston since Isiah Thomas with 30+/10+ in elim game. G7 Sunday Detroit 3:30PM ABC.
+- **Status:** NEW STORY
+
+### STORY 3: Barrett Hits 29-Foot OT Buzzer-Beater to Push Raptors-Cavaliers to Game 7
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Shot
+- **Key facts:** Raptors 112, Cavaliers 110 OT (Game 6, May 1 at CLE). Series tied 3-3. Barrett 24 pts — 29-foot 3-pointer with 1.2 sec left in OT; first player in NBA history to hit game-winner in final 2 sec of OT to avoid elimination. Barnes 25/14 ast. Harden 16/9/9. Mobley 26/14 reb. Mitchell 24. G7 Sunday Cleveland 7:30PM NBC.
+- **Status:** NEW STORY
+
+### STORY 4: Game 7 Tonight — Celtics vs. 76ers, 7:30 PM ET, Embiid Probable, Tatum Cleared
+- **Tier:** 1
+- **Category:** Preview / Game Day
+- **Key facts:** Celtics vs. 76ers G7 tonight 7:30PM ET NBC at TD Garden. Series tied 3-3. Celtics 8.5-pt favorites. Embiid probable (abdomen); Tatum cleared (calf); Maxey probable (finger). Winner faces Knicks in East Semis.
+- **Status:** NEW STORY
+
+### STORY 5: Second Round Picture Taking Shape — Thunder-Lakers Tuesday, Spurs-Wolves Set
+- **Tier:** 2
+- **Category:** Playoffs / Bracket Preview
+- **Key facts:** West R2 confirmed: No. 1 Thunder vs. No. 4 Lakers (G1 Tue OKC); No. 2 Spurs vs. No. 6 Wolves. East: Knicks waiting. Game 7s Sunday: Pistons-Magic 3:30PM ABC; Cavs-Raptors 7:30PM NBC.
+- **Status:** NEW STORY

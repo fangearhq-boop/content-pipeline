@@ -1,8 +1,19 @@
 ## Last Run
-- **Date**: 2026-05-01
+- **Date**: 2026-05-02
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-02
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (4 Tier 1, 1 Tier 2)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-05-02.xlsx (9 posts) + hh-postplanner-tobi-2026-05-02.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-02/review-dashboard.html (24 items)
+- **Notes:** Lakers 98, Rockets 78 (G6 May 1) — Lakers advance 4-2; LeBron 28/8/7, Reaves 15, Ayton 16 reb; 27-3 run, led 49-31 at half; vs Thunder G1 Tue OKC. Pistons 93, Magic 79 (G6 May 1) — DET rallied from 24 down; Cade 32/10 (24 in 2H, 19 in Q4), Harris 22; Magic missed 23 straight, DET 35-5 run, outscored ORL 55-19 in 2H; G7 Sunday Detroit 3:30PM ABC. Raptors 112, Cavs 110 OT (G6 May 1) — Barrett 29-foot 3 with 1.2s OT (1st in NBA history to hit game-winner in final 2s of OT to avoid elim); Barnes 25/14 ast, Mobley 26/14; G7 Sunday Cleveland 7:30PM NBC. Tonight: Celtics-76ers G7 7:30PM NBC at TD Garden (Embiid probable, Tatum cleared, Celtics 8.5-pt favs).
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-01
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
