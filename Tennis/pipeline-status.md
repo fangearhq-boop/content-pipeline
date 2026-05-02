@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-05-01 |
-| Writing | Complete (all steps) | 2026-05-01 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 28 claims, image warnings cosmetic) | 2026-05-01 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles) | 2026-05-01 |
-| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-05-01 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-05-01 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-01 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-01 |
+| Research | Complete | 2026-05-02 |
+| Writing | Complete (all steps) | 2026-05-02 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 26 claims, image warnings cosmetic) | 2026-05-02 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles) | 2026-05-02 |
+| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-05-02 |
+| PostPlanner Export | Complete (standard + TOBI) | 2026-05-02 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-02 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-02 |
 
 ## Queue
 
@@ -24,6 +24,20 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-05-02 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-02.xlsx (7 posts), tfr-postplanner-tobi-2026-05-02.xlsx (7 TOBI posts)
+- **Coverage:** Sinner def. Fils 6-2, 6-4 (85 min, 350th win, youngest to reach finals at all 9 M1000 events, 27-match M1000 streak, no BPs faced); Zverev def. Blockx 6-2, 7-5 (1h35m, 35 winners, 30th Madrid win, 4th Madrid final — 3rd man after Federer/Nadal); WTA Final today 5 PM CEST — Andreeva (12-1 clay) vs Kostyuk (10-0 clay), first clay meeting, H2H Kostyuk won Brisbane HC; ATP Final preview Sinner-Zverev — 5 consecutive M1000 titles on the line (never achieved), Sinner 8-0 last 8 H2H; Roland Garros 16 days away — Alcaraz out, Djokovic doubtful, entry lists released
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 26 claims; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images; posting-window warnings cosmetic
+  - review-dashboard.html generated (27 items)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-05-01 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
