@@ -2,6 +2,50 @@
 
 ---
 
+## May 3, 2026
+
+### Story 1: Mother's Day in Colorado Springs — 2026 Guide (May 10)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Mother's Day guide for COS families: Colorado Wolf & Wildlife Center wolf tour ($40 adults/$20 kids 6–11), Lumen8 Rooftop Social brunch ($70/$35/free), Fine Arts Center brunch ($115/$25), Painting with a Twist May 9, Royal Gorge Route Railroad, Downtown Farmers Market opening day May 10 at Acacia Park — free)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Mother's Day = May 10; Wolf & Wildlife $40 adults/$20 kids 6–11, reservations required; Lumen8 $70/$35/free under 5; Fine Arts Center $115/$25 (12 and under); Painting with a Twist $45–$70; Downtown Farmers Market free, Acacia Park 9 AM–2 PM Sundays (opening day)
+- **Follow-Up Opportunities:** Post-Mother's Day roundup; summer outdoor family guide
+
+### Story 2: CPSC Recall — 227,500 Stephan Baby Boo Bunnie Plush Toys (Choking/Laceration Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CBC Group recalls Stephan Baby Boo Bunnie and Friends plush toys; water-filled plastic cube breaks into sharp pieces; 20 reports, 1 child swallowed pieces; sold Amazon/Target/Walmart Aug 2017–Jan 2026)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 227,500 units recalled in US, 1,400 Canada; sold Aug 2017–Jan 2026 at Amazon, Target, Walmart, independent stores; full refund with receipt; $10 check or $20 store credit without; cpsc.gov/Recalls; 1-800-638-2772
+- **Follow-Up Opportunities:** CPSC ongoing recall roundup; safe toy purchasing guide
+
+### Story 3: D11 Graduation Season 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 graduation ceremonies: Palmer/Mitchell May 19, Coronado/Doherty May 20, Achieve/Tesla/Bijou/Odyssey May 21; all at Ed Robson Arena, Colorado College; last day school May 22)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Palmer HS: May 19, 9:00 AM; Mitchell HS: May 19, 3:00 PM; Coronado HS: May 20, 9:00 AM; Doherty HS: May 20, 3:00 PM; Achieve/Tesla/Bijou/Odyssey: May 21 times TBD; venue Ed Robson Arena at Colorado College; last day May 22; Adult & Family Ed: May 28 at RJWAC
+- **Follow-Up Opportunities:** Post-graduation family celebration guide; end-of-year D11 coverage
+
+### Story 4: AAP Screen Time Guidelines 2026 — New Framework (Not 2-Hour Rule)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP released updated screen time guidelines Feb 2026; key shift: no more 2-hour limit for ages 6+; now focuses on quality/context/habits via "5 Cs" framework; ages under 18 months still no screens; ages 2–5 still 1 hour/day)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Released Feb 2026; under 18 months: no screens (unchanged); ages 2–5: 1 hr/day high-quality (unchanged); ages 6+: no set limit, focus on 5 Cs; device-free bedrooms/mealtimes; co-viewing encouraged; aap.org/HealthyChildren.org
+- **Follow-Up Opportunities:** Practical 5 Cs guide for COS families; device-free bedroom tips
+
+### Story 5: Garden of the Gods Art Festival — May 16–17, Rock Ledge Ranch
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (3rd Annual Garden of the Gods Art Festival; 150 juried artists; 10 AM–5 PM; $10 adults, $8 seniors/military, free under 12 and Rock Ledge members; free shuttle from Coronado HS; live music, food trucks, kids activities; proceeds benefit Rock Ledge Ranch)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** May 16–17, 10 AM–5 PM MT; Rock Ledge Ranch Historic Site; $10 adults; $8 seniors 65+/military; free under 12; free shuttle from Coronado HS 1590 W. Fillmore St. 9:30 AM–5 PM; 150 juried artists; rockledgeranch.com
+- **Follow-Up Opportunities:** Post-event photo roundup; May 2026 family events roundup
+
+---
+
 ## May 2, 2026
 
 ### Story 1: Territory Days 2026 — 50th Anniversary, May 23-25

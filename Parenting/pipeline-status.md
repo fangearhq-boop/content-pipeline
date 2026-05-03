@@ -1,23 +1,23 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: May 2, 2026
+## Latest Run: May 3, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | visitcos.com (Territory Days 50th, Touch-A-Truck, Birding Festival); d49.org + Rocky Mountain PBS (D49 graduations, board news); aap.org (car seat guidelines Feb 2026); weather25.com (COS May weather) |
-| Story History Check | COMPLETE | 5 NEW STORY — all verified against May 1 story history, no duplicates |
-| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research (web search) | COMPLETE | visitcos.com (Mother's Day, Garden of Gods Art Festival); cpsc.gov (Stephan Baby recall); AAP/CHOC/EdSurge (screen time 2026); d11.org (graduation schedule) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against May 2 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
 | Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging, sources noted |
 | Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
-| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all verified under 280 chars (fixed 2 violations); 4 hashtags each; 0 exclamation marks |
-| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; max 1 exclamation mark per post; engagement questions; no hashtags in articles |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts; verified under 280 chars (fixed 2 violations over 2 rounds); 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; max 1 exclamation mark per post; engagement questions; no hashtags |
 | Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
 | Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
-| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 64 claims; image manifest warnings cosmetic (not_started expected) |
-| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images |
-| Dashboard | COMPLETE | review-dashboard.html (25 items) |
-| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-02.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-05-02.xlsx (5 TOBI posts) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 99 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (27 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-03.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-05-03.xlsx (7 TOBI posts) |
 | Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
 | WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
 
@@ -860,6 +860,20 @@ Note: 3 National Parenting stories slightly over target, but 2 are critical safe
 | 2026-02-22 | 7 | X + FB | Complete |
 
 ## Pipeline Run Log
+
+### 2026-05-03 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions)
+- **Articles:** 5 (bylines: Marcus Rivera [Mother's Day guide], Sofia Reyes [CPSC recall], Jenna Park [D11 graduation], Marta Kim [AAP screen time], Keisha Williams [Garden of Gods Art Festival])
+- **PostPlanner exports:** cosp-postplanner-2026-05-03.xlsx (7 posts), cosp-postplanner-tobi-2026-05-03.xlsx (7 TOBI posts)
+- **Coverage:** Mother's Day COS 2026 guide (May 10; Wolf & Wildlife $40/$20, Lumen8 $70/$35/free, Fine Arts Center $115/$25, Painting with a Twist May 9 $45–$70, Farmers Market opening day free); CPSC Stephan Baby Boo Bunnie recall (227,500 units, water-filled plastic cube choking/laceration hazard, 20 reports + 1 swallowed pieces, sold Amazon/Target/Walmart Aug 2017–Jan 2026, full refund or $10/$20 credit); D11 Graduation 2026 (Palmer/Mitchell May 19, Coronado/Doherty May 20, Achieve/Tesla/Bijou/Odyssey May 21 TBD, all Ed Robson Arena, last day May 22); AAP screen time guidelines 2026 (dropped 2-hr rule for ages 6+, "5 Cs" framework, under 18 months no screens unchanged, ages 2–5 1hr unchanged); Garden of the Gods Art Festival May 16–17 (Rock Ledge Ranch, $10 adults, free under 12, free shuttle from Coronado HS, 150 artists)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 99 claims; char violations fixed (2 rounds — Story 1 tweet B, Story 2 tweet A); image manifest warnings cosmetic (not_started expected)
+  - compile-content-data.py: 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images; posting-window warnings cosmetic
+  - review-dashboard.html generated (27 items)
+  - WordPress proxy error: same environment restriction as all prior runs (Host not in allowlist)
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-04-28 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
