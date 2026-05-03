@@ -1053,3 +1053,55 @@ Each day's stories are appended at the top (newest first).
 | 7 | Spring training pitching standouts — Burns (CIN), Warren (NYY), Senga (NYM) | 3 | NEW STORY |
 
 ---
+
+## May 3, 2026
+
+### Story 1: Imanaga and Cubs End Vargas' 27-Game Hitting Streak — Cubs Blank D-backs 2-0
+- **Angle:** FOLLOW UP (from May 2 Vargas 27-game streak) — Streak ended May 2. Imanaga: 7 IP, 4 H, 1 BB, 5 K, 87 pitches, ERA 2.40. Ian Happ: HR/triple/double, 2 RBI. Vargas 0-for-4. Cubs' 10th straight Wrigley win (longest since 2008). Cubs 21-12, 14-3 since April 14. Vargas' 24-game season-opener second-longest since 1940; 27-game overall streak Venezuela-born MLB record.
+- **Content Produced:** X (2 posts), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Vargas next game — can he start a new streak?
+  - Imanaga full-season stats and Cy Young case
+  - Cubs NL Central race positioning
+
+### Story 2: Murakami Stays at 13 HRs, MLB Lead — On 65-HR Pace, Historic Start
+- **Angle:** FOLLOW UP (from May 2 Murakami story) — Murakami HR vs Padres (13th), 2 BB, 3 RBI. MLB HR leader. On 65-HR pace. First 12 extra-base hits all HRs (MLB record since at least 1900, surpasses Dae-ho Lee's 10 in 2016). Earlier tied White Sox franchise record and MLB rookie record with 5-game HR streak.
+- **Content Produced:** X (2 posts), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Murakami HR chase — will he reach 20 HRs in May?
+  - White Sox team win-loss record
+  - When does he get another extra-base hit that isn't a HR?
+
+### Story 3: Cubs' 10-Game Wrigley Win Streak — Imanaga Leading the Charge
+- **Angle:** FOLLOW UP — Cubs 10 straight home wins (longest at Wrigley since 2008). 21-12, 14-3 since April 14. Imanaga ERA 2.40. NL Central race — all 5 teams above .500.
+- **Content Produced:** X (1 post), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Can the home win streak reach 15 or 20?
+  - Cubs vs NL Central leaders (Reds, Cardinals)
+  - Imanaga Cy Young candidacy
+
+### Story 4: Jordan Walker Cardinals Breakout — 97.1 mph Exit Velo Leads MLB
+- **Angle:** FOLLOW UP (from May 2 Walker biggest surprise) — .283/.358/.547, ~8 HRs, 19 RBI, 5 SBs. 97.1 mph exit velocity leads MLB. 70% hard-hit rate (2nd). Fly ball rate doubled (22% to 40%). From negative bWAR to five-tool star.
+- **Content Produced:** X (1 post), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Walker sustained performance through May
+  - Cardinals NL Central standing
+  - All-Star case building
+
+### Story 5: Judge + Rice Match Mantle + Berra (1956) — Yankees 19-10, AL East Leaders
+- **Angle:** FOLLOW UP (from May 2 Judge+Rice story) — Only 2nd Yankees pair with 10+ HRs in team's first 29 games (Mantle/Berra 1956). Judge: 12 HRs, OPS 1.010. Rice: 10+ HRs, OPS 1.192. Yankees 19-10. Judge needs ~20 more for career 400.
+- **Content Produced:** X (1 post), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Judge's path to career 400 HR milestone
+  - Rice sustained performance / All-Star case
+  - Yankees AL East lead
+
+### Story 6: NL Central All Five Teams Above .500 — Historic Race
+- **Angle:** EVERGREEN — All 5 teams above .500 entering May. Second time in divisional era. Three will miss playoffs. Cubs (21-12) and Cardinals leading heading into May.
+- **Content Produced:** X (1 post), FB long-form + caption
+
+### Story 7: May Milestones Watch — Murakami, Vargas, Judge, Walker
+- **Angle:** EVERGREEN — Updated tracker. Murakami 13 HRs/65-HR pace. Vargas streak ended (27/24). Judge needs ~20 for career 400. Walker 97.1 mph exit velo leads MLB. NL Central historic all-.500.
+- **Content Produced:** X (1 post), FB long-form + caption
+
+---
