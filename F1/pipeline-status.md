@@ -1,11 +1,22 @@
 # F1 Fanrecap Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-02
+- **Date**: 2026-05-03
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-03
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-03.xlsx (8 posts) + f1fr-postplanner-tobi-2026-05-03.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated (23 items)
+- **Notes:** Miami Sprint (May 2): Norris wins McLaren 1-2 (Piastri P2, Leclerc P3); Antonelli demoted P4→P6 (track limits 5s penalty); Bortoleto DSQ P11 (engine infringement). Qualifying: Antonelli pole (1m27.798s), Verstappen P2 (+0.166s), Leclerc P3 (+0.345s), Norris P4, Russell P5. Race today moved to 1PM ET due to thunderstorm threat. Championship: Antonelli leads Russell by 7 pts (was 9); Leclerc 3rd with 55 pts.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-02
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

@@ -2,6 +2,38 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-03
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Miami Sprint (May 2): Norris wins McLaren 1-2 (Piastri P2, Leclerc P3); Antonelli demoted from P4 to P6 (track limits 5s penalty); Bortoleto (Audi) DSQ from P11 (engine tech infringement); Norris's first win of 2026 | 1 | NEW STORY |
+| 2 | Miami GP qualifying: Antonelli P1 (1m27.798s), Verstappen P2 (+0.166s), Leclerc P3 (+0.345s), Norris P4 (+0.385s), Russell P5 (+0.399s) | 1 | NEW STORY |
+| 3 | Miami GP race today moved to 1 PM ET (from 4 PM) due to thunderstorm threat — Antonelli on pole, Verstappen P2, Leclerc P3, Norris P4 | 1 | NEW STORY |
+| 4 | Championship after Miami Sprint: Antonelli leads Russell by 7 pts (was 9 pre-sprint); Leclerc 3rd with 55 pts | 2 | FOLLOW-UP (standings update) |
+| 5 | McLaren sprint 1-2 validates Miami upgrade — Stella: "completely new car from aerodynamic standpoint"; Norris P1 in sprint qualifying (first non-Mercedes pole of 2026) | 2 | FOLLOW-UP (McLaren upgrade story) |
+
+### STORY 1: Miami Sprint — Norris McLaren 1-2, Antonelli Penalty
+- **Tier:** 1
+- **Key facts:** Norris P1, Piastri P2 (+3.766s), Leclerc P3 (+6.251s), Russell P4 (+12.951s), Verstappen P5 (+13.639s). Antonelli on road P4 → demoted to P6 (5s track limits penalty). Bortoleto DSQ from P11 (engine tech infringement). Norris's first win of 2026. McLaren ran new floor/bodywork/rear wing/brake ducts.
+
+### STORY 2: Miami GP Qualifying
+- **Tier:** 1
+- **Key facts:** Antonelli P1 (1m27.798s). Verstappen P2 (+0.166s). Leclerc P3 (+0.345s). Norris P4 (+0.385s). Russell P5 (+0.399s). Top 5 covered by 0.399s.
+
+### STORY 3: Miami GP Race Day (May 3)
+- **Tier:** 1
+- **Key facts:** Start moved to 1 PM ET from 4 PM ET due to thunderstorm threat. 57 laps, Miami International Autodrome. Antonelli on pole, Verstappen P2, Leclerc P3.
+
+### STORY 4: Championship Standings After Sprint
+- **Tier:** 2
+- **Key facts:** Antonelli leads Russell by 7 pts (was 9 before sprint cost him P4→P6). Leclerc 3rd with 55 pts.
+
+### STORY 5: McLaren Sprint 1-2 Warning Shot
+- **Tier:** 2
+- **Key facts:** McLaren ran new MCL40 (floor, bodywork, rear wing, brake ducts). Stella: "completely new car from aerodynamic standpoint." Norris sprint pole (first non-Mercedes pole of 2026). McLaren won Miami 2024, 2025.
+
+---
+
 ## 2026-05-01
 
 | # | Story | Tier | Tag |
