@@ -3,6 +3,26 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
+## Current Pipeline (2026-05-03)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-05-03 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-03 |
+| Fact-check | Complete (verify-facts.py — 17 claims, 33 HIGH confidence; image warnings expected/non-blocking) | 2026-05-03 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-03 |
+| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-05-03 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-05-03 |
+| Published | Failed — WordPress credentials not configured (WP_FANRUMOR_USERNAME / WP_FANRUMOR_APP_PASSWORD not set; persistent) | 2026-05-03 |
+| Git | Committed and pushed to main | 2026-05-03 |
+
+## Notes (2026-05-03)
+- 5 stories: Cameron Young 6-shot lead at 15-under entering Cadillac Championship R4 (Scheffler/Kim T2 at -9; Adam Scott 66 in R3 despite wrong ball penalty; final round moved up due to rain) — T1; Nelly Korda leads Riviera Maya Open by 3 at 14-under (eagle on 18 in R3 for 67; Yubol 2nd at -11; HOF 22/27 pts) — T1; Stewart Cink wins Regions Tradition (4th win of 2026, 2nd major of season; led by 3 entering R4; Greystone G&CC Birmingham AL) — T2; LIV Golf Virginia preview (May 7-10 Trump National DC; Rahm hot from Mexico City 6-shot win; DeChambeau returns from wrist WD; Niemann defends) — T2; Scheffler Doral comeback analysis (71 R1 → 9-under T2 through 3 rounds; World No. 1 resilience) — T2
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X posts: 8 total, all under 280 characters
+- WordPress publish: Failed — WP_FANRUMOR_USERNAME / WP_FANRUMOR_APP_PASSWORD not set (environment not configured; persistent issue)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
 ## Current Pipeline (2026-05-02)
 
 | Stage | Status | Last Updated |
