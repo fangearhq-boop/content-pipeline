@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-03
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | 76ers 109, Celtics 100 (Game 7, May 2, TD Garden) — 76ers complete 3-1 comeback; Embiid 34 pts (post-appendectomy, played through pain); Maxey 30 pts closes game; Celtics 8.5-pt favorites; 76ers advance to face Knicks in East Semis | 1 | NEW STORY |
+| 2 | Pistons host Magic, Game 7 today 3:30 PM ET ABC — Pistons came back from 3-1 deficit and 24 down in G6; Cade 32/10 (19 in Q4); Magic missed 23 consecutive shots; DET outscored ORL 55-19 in 2H; Harris 22; first Pistons player since Isiah Thomas with 30+/10+ in elimination game | 1 | FOLLOW-UP (DET forced G7 from 24 down in G6) |
+| 3 | Cavaliers host Raptors, Game 7 tonight 7:30 PM ET NBC — home team won all 6 prior games; CLE 8.5-pt favorites; RJ Barrett hit 29-ft buzzer-beater in OT to force G7 (first in NBA history to hit game-winner in final 2s of OT to avoid elimination); Barnes 25/14 ast; Mobley 26/14; Mitchell 24 | 1 | FOLLOW-UP (Barrett OT miracle forced G7) |
+| 4 | West Semis set: Thunder (No. 1) vs. Lakers (No. 4) G1 Tuesday OKC; Spurs (No. 2) vs. Wolves (No. 6) — LeBron vs. SGA; Wembanyama vs. Edwards (if healthy) | 2 | NEW STORY |
+| 5 | East Semis: 76ers vs. Knicks confirmed — Game 1 TBD; other side determined by today's G7s (Pistons-Magic 3:30, Cavs-Raptors 7:30) | 2 | NEW STORY |
+
+### STORY 1: 76ers Eliminate Celtics 109-100 in Game 7
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Comeback
+- **Key facts:** 76ers 109, Celtics 100 (Game 7, May 2, TD Garden). Series: 76ers win 4-3. Embiid: 34 pts (post-appendectomy April 9; listed probable; played). Maxey: 30 pts to close. Celtics were 8.5-pt favorites. 76ers complete 3-1 comeback. Next: 76ers face No. 3 Knicks in East Semis.
+
+### STORY 2: Pistons vs. Magic — Game 7 Preview (May 3, 3:30 PM ET)
+- **Tier:** 1
+- **Category:** Game 7 Preview / Elimination Game
+- **Key facts:** Game 7, Little Caesars Arena, Detroit. 3:30 PM ET on ABC. Series tied 3-3. Pistons came back from 3-1 deficit. G6: DET 93, ORL 79 — DET trailed by 24; Cade 32/10 (19 in Q4); Harris 22; Magic missed 23 consecutive shots; DET outscored ORL 55-19 in 2H. Cade first Pistons player since Isiah Thomas with 30+/10+ in elimination game.
+
+### STORY 3: Cavaliers vs. Raptors — Game 7 Preview (May 3, 7:30 PM ET)
+- **Tier:** 1
+- **Category:** Game 7 Preview / Home-Court Storyline
+- **Key facts:** Game 7, Rocket Mortgage FieldHouse, Cleveland. 7:30 PM ET on NBC. Home team won all 6 prior games. CLE 8.5-pt favorites. G6: TOR 112, CLE 110 OT — Barrett hit 29-ft 3 with 1.2s left in OT (first in NBA history to hit game-winner in final 2s of OT to avoid elimination); Barnes 25/14 ast; Mobley 26/14; Mitchell 24.
+
+### STORY 4: West Semis Set
+- **Tier:** 2
+- **Category:** Second Round Preview
+- **Key facts:** Thunder vs. Lakers (G1 Tue, OKC); Spurs vs. Wolves (TBD). OKC swept Suns; LAL beat HOU 4-2; SA eliminated Portland; MIN eliminated Denver (without Edwards).
+
+### STORY 5: East Semis Bracket
+- **Tier:** 2
+- **Category:** Second Round Preview
+- **Key facts:** 76ers vs. Knicks confirmed; other East Semi = winner of Pistons-Magic (G7 today 3:30) vs. winner of Cavs-Raptors (G7 today 7:30).
+
+---
+
 ## 2026-05-01
 
 | # | Story | Tier | Tag |

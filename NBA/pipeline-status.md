@@ -1,8 +1,19 @@
 ## Last Run
-- **Date**: 2026-05-02
+- **Date**: 2026-05-03
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-03
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-05-03.xlsx (8 posts) + hh-postplanner-tobi-2026-05-03.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-03/review-dashboard.html (23 items)
+- **Notes:** 76ers 109, Celtics 100 (G7 May 2) — Embiid 34, Maxey 30; 76ers complete 3-1 comeback; advance to face Knicks in East Semis. Pistons-Magic G7 today 3:30PM ABC at Detroit. Cavaliers-Raptors G7 today 7:30PM NBC at Cleveland. West Semis set: Thunder vs. Lakers (G1 Tue OKC), Spurs vs. Wolves. East Semis: 76ers vs. Knicks confirmed; other side TBD.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-02
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
