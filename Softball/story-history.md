@@ -1628,3 +1628,53 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Updated rankings implications
 
 ---
+
+## May 3, 2026
+
+### Story 1: Oklahoma Sweeps A&M Games 2 & 3, Clinches 14th Straight SEC Title — Wells Ends Regular Season at 36 HRs
+- **Angle:** FOLLOW UP (from May 2 A&M stuns OU Game 1) — OU swept Games 2 & 3. G2: 4-3, Kai Minor walk-off triple in 6th. G3: 6-4, Minor HR on 4th pitch, Parker HR, Pickering HR. Wells stayed at 36 HRs — one from tying Espinoza's 31-year NCAA record (37). OU claims 14th consecutive SEC/conf title.
+- **Content Produced:** X (2 posts), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Wells ties/breaks all-time NCAA record (37) in SEC Tournament
+  - SEC Tournament results for OU
+  - OU national seed and regional host bid
+
+### Story 2: Nebraska Sweeps Penn State Doubleheader, Wins First Outright Big Ten Title
+- **Angle:** FOLLOW UP (from May 2 Nebraska doubleheader preview) — G1: 5-1, Frahm 7IP/7K, Farrell HR. G2: Trailed 4-1 before 6th-inning rally (Hoffman 2 RBI, Frahm RBI single, Coor 2-RBI double), won 10-4. First outright Big Ten title in program history. 42-6, 22-1 Big Ten. First reg-season title since 2014.
+- **Content Produced:** X (2 posts), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Nebraska Big Ten Tournament (May 6-9, College Park, MD) — No. 1 seed
+  - National seed and Bowlin Stadium regional host bid
+  - Frahm POY case
+
+### Story 3: NiJaree Canady Throws First Career Perfect Game on Senior Day — Texas Tech First to 50 Wins
+- **Angle:** FOLLOW UP (from May 2 Canady/TTech preview) — Canady perfect game vs Baylor, 8-0 (5 inn), 9 K, 62 pitches. First career PG. Texas Tech 50-4, first team nationally to 50 wins. Canady 21st win of senior year. No. 1 seed in Big 12 Tournament (May 7-9, Devon Park, OKC).
+- **Content Produced:** X (2 posts), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Big 12 Tournament (May 7-9) — TTech vs No. 8 seed
+  - Canady final season farewell
+  - National seed / OKC path
+
+### Story 4: SEC Tournament Bracket Set — OU No. 1, Alabama No. 2, Florida No. 3, Texas No. 4 All Earn Double Byes
+- **Angle:** FOLLOW UP (from May 2 SEC seeding story) — Full bracket locked. OU 20-4 SEC No. 1, Alabama 19-5 No. 2, Florida 17-7 No. 3, Texas 16-8 No. 4. All four get double byes. John Cropp Stadium, Lexington, KY. May 5-9.
+- **Content Produced:** X (1 post), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - SEC Tournament game results (starts Tuesday)
+  - National seed picture after SEC Tournament
+
+### Story 5: Florida State Clinches Share of 19th ACC Title, Targets National Seed
+- **Angle:** FOLLOW UP (from May 2 FSU at BC preview) — FSU 45-8, 20-3 ACC clinches 19th ACC regular season title (share). Projected Tallahassee Regional host. ACC Tournament May 6-9, Charlottesville, VA.
+- **Content Produced:** X (1 post), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - ACC Tournament performance (May 6-9)
+  - FSU national seed confirmation on May 10 Selection Show
+
+### Story 6: Conference Tournament Week Schedule
+- **Angle:** EVERGREEN — All five tournament dates/venues. SEC: May 5-9 Lexington. Big Ten: May 6-9 College Park. Big 12: May 7-9 OKC. ACC: May 6-9 Charlottesville. Selection: May 10.
+- **Content Produced:** X (1 post), FB long-form + caption
+
+### Story 7: Wells Needs 2 HRs to Break All-Time NCAA Record in SEC Tournament
+- **Angle:** EVERGREEN — Wells at 36. Needs 1 to tie (37, Espinoza, Arizona, 1995), needs 2 to break outright. Multiple games in SEC Tournament to make history.
+- **Content Produced:** X (1 post), FB long-form + caption
+
+---

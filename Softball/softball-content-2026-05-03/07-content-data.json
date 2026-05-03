@@ -1,0 +1,335 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-03",
+  "compiled_at": "2026-05-03T10:18:49.532197+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Oklahoma Sweeps A&M Games 2 & 3, Clinches 14th Consecutive SEC Title — Wells Ends Regular Season at 36 HRs",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "No. 1 Oklahoma swept A&M in Games 2 & 3 to clinch the SEC title for the 14th straight year. Kai Minor hit a walk-off triple (G2) and homered to open G3. Kendall Wells ends the regular season at 36 HRs — one from tying the all-time NCAA record. #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kai Minor was the hero this weekend in College Station. Triple. Homer. Two clutch moments that saved OU's season series. Now Kendall Wells gets the SEC Tournament to chase Lauren Espinoza's 31-year NCAA record of 37 HRs. History is close. #Sooners #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#SECSoftball"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ou-sweeps-am-sec-title-wells-36-hrs.html",
+        "headline": "Oklahoma Sweeps A&M, Clinches 14th Straight SEC Title — Wells Ends Regular Season at 36 HRs",
+        "word_count": 614
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Sweeps A&M, Clinches SEC Title\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** Kai Minor Oklahoma\n- **Caption overlay:** \"14 STRAIGHT SEC TITLES\"\n- **Mood:** Triumphant, celebration\n- **Notes:** Action shot of Minor rounding bases or celebrating in the dugout\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** Kendall Wells Oklahoma\n- **Caption overlay:** \"36 HRs. ONE FROM THE RECORD.\"\n- **Mood:** Focused, anticipatory\n- **Notes:** Wells at the plate or celebrating; clean stadium background\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Sweeps A&M, Clinches SEC Title — Wells at 36 HRs\n**Key Facts (HIGH confidence):**\n- OU won Game 2, 4-3 over No. 12 Texas A&M at Davis Diamond, College Station\n- Kai Minor's two-out triple in the sixth inning was the go-ahead hit in Game 2\n- OU won Game 3, 6-4 over Texas A&M\n- Kai Minor homered on the fourth pitch of Game 3\n- Ella Parker also homered in Game 3\n- Kasidi Pickering homered in Game 3\n- Oklahoma clinched the SEC regular season title — 14th consecutive year with conference title\n- Kendall Wells ended regular season with 36 home runs (no HR in A&M series)\n- Lauren Espinoza all-time NCAA record: 37 HRs (Arizona, 1995)\n- Wells holds NCAA freshman record, SEC single-season record, OU program record\n**Source:** oudaily.com, saturdaydownsouth.com, espn.com (box score), soonersports.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Nebraska Sweeps Penn State Doubleheader, Wins First Outright Big Ten Title in Program History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Nebraska swept Penn State 5-1 and 10-4 to win the Big Ten regular season title OUTRIGHT — the first time in program history. 42-6. 22-1 in conference. Jordy Frahm and the offense both showed up when it mattered. #Huskers #BigTen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#BigTen"
+          ],
+          "char_count": 228
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Nebraska trailed Penn State 4-1 in Game 2. Then Kacie Hoffman, Jordy Frahm, and Hannah Coor all drove in runs in the 6th. 10-4 final. Big Ten title. Program history. No. 1 seed in the Big Ten Tournament next week. #Huskers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nebraska-big-ten-title-penn-state-sweep.html",
+        "headline": "Nebraska Makes History: First Outright Big Ten Title After Penn State Sweep",
+        "word_count": 575
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska Wins Outright Big Ten Title\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** Jordy Frahm Nebraska\n- **Caption overlay:** \"OUTRIGHT BIG TEN CHAMPS\"\n- **Mood:** Celebratory, historic\n- **Notes:** Frahm pitching or celebrating on mound\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** Nebraska Cornhuskers softball\n- **Caption overlay:** \"42-6. PROGRAM HISTORY.\"\n- **Mood:** Team celebration, triumphant\n- **Notes:** Team celebrating on field or dugout\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nebraska Wins Outright Big Ten Title — Penn State Sweep\n**Key Facts (HIGH confidence):**\n- Nebraska swept Penn State doubleheader (Game 1: 5-1, Game 2: 10-4) on May 2\n- Nebraska final record: 42-6 overall, 22-1 Big Ten\n- Jordy Frahm: Game 1 — 7 IP, 7 strikeouts, earned win\n- Jesse Farrell: Game 1 — 2-for-3, double, solo HR\n- Game 2: Nebraska trailed 4-1 entering 6th\n- Kacie Hoffman: 2 RBI in 6th-inning rally\n- Frahm RBI single tied the game\n- Hannah Coor: 2-RBI double gave Nebraska the lead\n- First outright Big Ten regular season title in program history\n- First regular season title since 2014\n- No. 1 seed in Big Ten Tournament (May 6-9, College Park, MD)\n**Source:** huskers.com, wowt.com, si.com/college/nebraska, on3.com, cornnation.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** NiJaree Canady Throws First Career Perfect Game on Senior Day — Texas Tech First Team to 50 Wins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "NiJaree Canady on Senior Day: 5 perfect innings, 9 strikeouts, 62 pitches, her FIRST career perfect game. Texas Tech beats Baylor 8-0 and becomes the first team in the country to reach 50 wins (50-4). What a send-off. #WreckEm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Texas Tech enters the Big 12 Tournament (May 7-9, OKC) at 50-4 with NiJaree Canady — who just threw a perfect game — leading the staff. The Red Raiders are the No. 1 seed. And they look like the real deal. #WreckEm #Big12Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#Big12Softball"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-canady-perfect-game-texas-tech-50-wins.html",
+        "headline": "Canady's Farewell: Perfect Game on Senior Day as Texas Tech Becomes First to 50 Wins",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NiJaree Canady Perfect Game\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** NiJaree Canady Texas Tech\n- **Caption overlay:** \"PERFECT. SENIOR DAY.\"\n- **Mood:** Dominant, fierce, emotional\n- **Notes:** Canady in pitching motion or celebrating; Senior Day ceremony backdrop\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** NiJaree Canady Texas Tech\n- **Caption overlay:** \"FIRST CAREER PERFECT GAME\"\n- **Mood:** Power, legacy\n- **Notes:** Canady mid-windup or post-strikeout celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Canady Perfect Game — Texas Tech First to 50 Wins\n**Key Facts (HIGH confidence):**\n- NiJaree Canady pitched perfect game vs Baylor on Senior Day, May 2, 2026\n- Score: Texas Tech 8, Baylor 0 (5 innings, run rule)\n- Canady: 9 strikeouts, 62 pitches, first career perfect game\n- Sixth perfect game in Texas Tech program history\n- Texas Tech record: 50-4 (first team in nation to reach 50 wins in 2026)\n- Canady's 21st win of senior season\n- Canady crossed 1,000 career strikeouts earlier in 2026 season\n- Texas Tech is No. 1 seed in Big 12 Tournament (May 7-9, Devon Park, OKC)\n**Source:** ncaa.com, kcbd.com, roundtable.io",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** SEC Tournament Bracket Set — Oklahoma No. 1 Seed, Alabama No. 2, Florida No. 3, Texas No. 4 All Earn Double Byes",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "SEC Tournament bracket is set. Seeds 1-4 (double byes): No. 1 Oklahoma, No. 2 Alabama, No. 3 Florida, No. 4 Texas. Tournament starts Tuesday in Lexington, KY. OU plays Thursday. This field is absolutely stacked. #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-sec-tournament-bracket-ou-alabama-double-bye.html",
+        "headline": "SEC Tournament Bracket Set: Oklahoma No. 1, Alabama No. 2, Florida and Texas Round Out Double Byes",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SEC Tournament Bracket\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** gemini\n- **Mode:** base_only\n- **Prompt:** Aerial view of John Cropp Stadium at dusk, field lit up, SEC logo on pitcher's mound, clean dramatic sky, tournament bracket graphic overlay space, cinematic softball atmosphere\n- **Caption overlay:** \"SEC TOURNAMENT — MAY 5 | LEXINGTON, KY\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** gemini\n- **Mode:** complete\n- **Prompt:** Vibrant tournament bracket graphic with SEC softball branding, showing four double-bye seeds (Oklahoma No. 1, Alabama No. 2, Florida No. 3, Texas No. 4), crisp white and SEC blue color scheme, stadium background\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "SEC Tournament Bracket Set\n**Key Facts (HIGH confidence):**\n- No. 1 seed: Oklahoma (20-4 SEC)\n- No. 2 seed: Alabama (19-5 SEC)\n- No. 3 seed: Florida (17-7 SEC)\n- No. 4 seed: Texas (16-8 SEC)\n- Seeds 1-4 earn double byes (play Thursday)\n- Tournament location: John Cropp Stadium, Lexington, KY\n- Tournament dates: May 5-9, 2026\n- Seeds 5-8 play Tuesday and Wednesday\n- Selection Show: May 10 at 7 PM ET on ESPN2\n**Source:** ncaa.com, secsports.com, si.com, saturdaydownsouth.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** No. 10 Florida State Clinches Share of 19th ACC Title, Positioning for National Seed",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "No. 10 Florida State (45-8, 20-3 ACC) clinched a share of its 19th ACC regular season title. The Seminoles are projecting to host the Tallahassee Regional. ACC Tournament starts May 6 in Charlottesville. #FSUSoftball #ACCSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#ACCSoftball"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-fsu-acc-title-share-national-seed-push.html",
+        "headline": "Florida State Clinches Share of 19th ACC Title, Sets Sights on National Seed",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU Clinches ACC Title Share\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** Florida State Seminoles softball\n- **Caption overlay:** \"19TH ACC TITLE SHARE\"\n- **Mood:** Celebratory, proud\n- **Notes:** FSU players or team celebrating; garnet and gold colors prominent\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** FSU softball pitcher\n- **Caption overlay:** \"45-8. ACC CHAMPIONS.\"\n- **Mood:** Determined, championship\n- **Notes:** FSU pitcher in action or post-game celebration"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FSU Clinches Share of 19th ACC Title\n**Key Facts (HIGH confidence — from seminoles.com press release):**\n- No. 10 FSU final record: 45-8, 20-3 ACC\n- Clinched share of 19th ACC regular season championship\n- Projected regional host: Tallahassee Regional\n- ACC Tournament: May 6-9, Charlottesville, VA (Palmer Park)\n- Selection Show: May 10 at 7 PM ET on ESPN2\n**Source:** seminoles.com, si.com/onsi/softball",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Conference Tournament Week Is Here — Five Leagues, One Goal",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Conference tournament week begins TUESDAY. SEC: May 5 Lexington. Big Ten: May 6 College Park. Big 12: May 7 OKC. ACC: May 6 Charlottesville. Selection Show: May 10, 7 PM ET on ESPN2. WCWS: May 28–June 3. 🥎",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Wells Needs 2 HRs to Break the All-Time NCAA Record — The Chase Continues in SEC Tournament",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Kendall Wells. 36 home runs. Regular season over. The all-time NCAA record (37, Lauren Espinoza, Arizona, 1995) is ONE home run away from being tied. She gets the SEC Tournament to write history. 🥎 #Sooners #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#SECSoftball"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
