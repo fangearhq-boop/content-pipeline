@@ -1,25 +1,35 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: May 3, 2026
+## Latest Run: May 4, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | visitcos.com (Mother's Day, Garden of Gods Art Festival); cpsc.gov (Stephan Baby recall); AAP/CHOC/EdSurge (screen time 2026); d11.org (graduation schedule) |
-| Story History Check | COMPLETE | 5 NEW STORY — all verified against May 2 story history, no duplicates |
+| Research (web search) | COMPLETE | cpsc.gov (CreateOn Pip-Cubes recall, ~9,400 units, Michaels+Amazon); pikespeakbirdingandnaturefestival.org (May 14-17, 73 field trips); visitcos.com (Farmers Market opens May 10, Acacia Park); d49.org (Student Success Center, 2 new ECE classrooms Aug 2026); d11.org+d49.org (last day May 22 both districts) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against May 3 story history, no duplicates |
 | Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
 | Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging, sources noted |
 | Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
-| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts; verified under 280 chars (fixed 2 violations over 2 rounds); 4 hashtags each; 0 exclamation marks |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts; verified under 280 chars (1 violation fixed); 4 hashtags each; 0 exclamation marks |
 | Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; max 1 exclamation mark per post; engagement questions; no hashtags |
 | Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
 | Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
-| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 99 claims; image manifest warnings cosmetic (not_started expected) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 67 claims; image manifest warnings cosmetic (not_started expected) |
 | Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images |
 | Dashboard | COMPLETE | review-dashboard.html (27 items) |
-| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-03.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-05-03.xlsx (7 TOBI posts) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-04.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-05-04.xlsx (7 TOBI posts) |
 | Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
 | WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
+
+## Story Count by Pillar (2026-05-04)
+
+| Pillar | Count | Target |
+|--------|-------|--------|
+| Local News | 1 (D49 Student Success Center ECE) | 1-2 |
+| Local Events | 2 (Pikes Peak Birding Festival; Downtown Farmers Market) | 1-2 |
+| National Parenting | 1 (CPSC CreateOn Pip-Cubes recall) | 1-2 |
+| Evergreen | 1 (COS end of school / summer planning) | 0-1 |
+| Humor | 0 | 0-1 |
 
 ## Story Count by Pillar (2026-05-01)
 

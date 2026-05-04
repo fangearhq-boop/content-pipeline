@@ -2,6 +2,48 @@
 
 ---
 
+## May 4, 2026
+
+### Story 1: CPSC Recall — CreateOn Crayola Pip-Cube Magnetic Sets (~9,400 units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (magnet ingestion hazard; ~9,400 sets recalled; Bold Colors and Glitter 24-set and 27-set; sold at Michaels + Amazon; magnets separate from seams → intestinal perforations + death if swallowed; free replacement from CreateOn; 800-333-0549; pipcuberecall@CreateOn.com; no injuries reported)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~9,400 units; Michaels + Amazon; 800-333-0549 (M-F 9:30 AM-4 PM CT); pipcuberecall@CreateOn.com; createon.com/recall/; no injuries yet; free replacement set
+- **Follow-Up:** Monitor for injury reports; share CPSC recall page link
+
+### Story 2: Pikes Peak Birding and Nature Festival — May 14–17, 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (11th annual; May 14–17, Thursday–Sunday; 73 field trips; Garden of the Gods, Paint Mines, Fountain Creek Nature Center, Bear Creek Nature Center; 14 seminars (3 virtual); 5 workshops; "Birds, Brews and Bites" social; low-cost registration covered most activities; pre-registration closed April 26 — check site for day-of options; pikespeakbirdingandnaturefestival.org)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 14–17, 2026; 73 field trips; Garden of the Gods + Paint Mines + Fountain Creek + Bear Creek; pre-registration closed April 26
+- **Follow-Up:** Post-festival recap; year-round nature center programming
+
+### Story 3: COS Downtown Farmers Market Opens Sunday May 10 at Acacia Park
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (opening day Sunday May 10 = Mother's Day; 9 AM–2 PM every Sunday; Acacia Park 115 E Platte Ave; free admission, no reservations; runs through October 25, 2026)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Opens May 10; Acacia Park 115 E Platte Ave; 9 AM–2 PM Sundays; through October 25, 2026; free
+- **Note:** Farmers Market briefly mentioned in May 3 Mother's Day story — this is a dedicated, standalone story for the season opening
+
+### Story 4: D49 Student Success Center — 2 New ECE Classrooms Opening August 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 Student Success Center opens August 2026; 2 new early childhood education classrooms; northeast COS expansion; families approaching kindergarten age should visit d49.org now for enrollment timelines)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Opening August 2026 (start of 2026–27 school year); 2 new ECE classrooms; d49.org for enrollment
+
+### Story 5: COS End of School Year 2026 — Last Days + Summer Planning
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY (D11 + D49 last day May 22; D11 graduations May 19–21 Ed Robson Arena; D49 graduations May 23 World Arena; summer resources: COS Parks Recreation, PPLD summer reading, YMCA Pikes Peak camps)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** May 22 last day (both D11 + D49); D49 3-hr early release; D11 grads May 19–21 Ed Robson Arena; D49 grads May 23 World Arena; cosparkfoundation.org, ppld.org, ymcapikes.org
+
+---
+
 ## May 3, 2026
 
 ### Story 1: Mother's Day in Colorado Springs — 2026 Guide (May 10)
