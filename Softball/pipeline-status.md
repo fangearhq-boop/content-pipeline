@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-04
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (93 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Story 6/7 not in image-concepts (Tier 3 social-only — expected). 0 char violations.
+
+## Previous Run
 - **Date**: 2026-05-03
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (10; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (93 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 10 tweets, 0 FB parsed — known, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (10 posts X, 10 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -205,6 +212,24 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-04
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 9 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 93 claims. 0 char violations. S6/S7 not in image-concepts (Tier 3 — expected). IMAGE MISSING expected (not_started).
+- Dashboard: 26 items. Non-fast-forward resolved (git pull + cherry-pick). Dashboard published.
+- PostPlanner: ils-postplanner-2026-05-04.xlsx (9 posts), ils-postplanner-tobi-2026-05-04.xlsx (9 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: Wells at 36 HRs entering SEC Tournament — one from tying Espinoza all-time NCAA record (37, Arizona, 1995), OU No. 1 seed plays Thursday vs. LSU/Georgia winner (P10); SEC Tournament opens Tuesday Lexington KY, seeds 1-4 (OU, Bama, FL, TX) have double byes, Selection Show May 10 (P9); Nebraska 42-6 22-1 Big Ten No. 1 seed Big Ten Tournament May 6-9 College Park MD first outright B1G title program history (P8); TTech 50-4 Canady perfect game Senior Day No. 1 seed Big 12 Tournament May 7-9 Devon Park OKC (P7); FSU 45-8 20-3 ACC No. 1 seed ACC Tournament May 6-9 Charlottesville VA (P7); Conference tournament schedule roundup (P6); 24 days to WCWS Devon Park (P5)
+- Notes: 0 tweet char violations. FB posts compile to 0 (heading format — known, dashboard uses markdown fallback). publish-unified-dashboard 403 (PAT, known) — used publish-dashboard.py + cherry-pick.
+
+### 2026-05-03
+- Stories: 7 (3 Tier 1, 2 Tier 2, 2 Tier 3)
+- X posts: 10 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 93 claims. 0 char violations. S6/S7 not in image-concepts (Tier 3 — expected). IMAGE MISSING expected (not_started).
+- Dashboard: 27 items. PostPlanner: ils-postplanner-2026-05-03.xlsx (10 posts), ils-postplanner-tobi-2026-05-03.xlsx (10 TOBI posts)
+- WordPress: Blocked by proxy sandbox. Dashboard: Local only.
+- Key stories: OU sweeps A&M Games 2&3 clinches SEC title 14th year (P10); Nebraska sweeps Penn State wins first outright Big Ten title 42-6 (P9); Canady perfect game TTech 50-4 first to 50 wins (P9); SEC Tournament bracket set OU No. 1 Bama No. 2 FL No. 3 TX No. 4 (P8); FSU 45-8 19th ACC title share (P7); Conference tournament week schedule (P6); Wells 36 HRs one from record (P7)
 
 ### 2026-05-02
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)

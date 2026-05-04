@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 4, 2026
+
+### Story 1: Wells at 36 HRs Enters SEC Tournament — One From Tying All-Time NCAA Record
+- **Angle:** FOLLOW UP. Kendall Wells closes the regular season at 36 HRs, one from tying Lauren Espinoza's all-time NCAA record (37, Arizona, 1995). OU No. 1 seed, double bye, plays Thursday vs. LSU/Georgia winner at John Cropp Stadium, Lexington KY. Every at-bat in tournament is a potential history moment.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Wells HR No. 37 tying record; HR No. 38 breaking record outright; OU tournament results
+
+### Story 2: SEC Tournament Opens Tuesday — Full Bracket Preview
+- **Angle:** FOLLOW UP. SEC Tournament May 5-9, John Cropp Stadium, Lexington KY. Seeds 1-4 (OU, Alabama, Florida, Texas) have double byes and play Thursday. Seeds 5-14 open Tuesday/Wednesday. SEC champion earns automatic NCAA bid. Selection Show May 10.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** First round results; quarterfinal matchups; championship game
+
+### Story 3: Nebraska Big Ten Tournament Preview — No. 1 Seed, First Outright Title
+- **Angle:** FOLLOW UP. Nebraska 42-6, 22-1 Big Ten. First outright Big Ten title in program history. No. 1 seed at Big Ten Tournament May 6-9, College Park MD. Plays Thursday vs. Michigan/Ohio State winner. National seed implications.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves)
+- **Follow-ups:** Big Ten Tournament results; national seed announcement May 10
+
+### Story 4: Texas Tech No. 1 Seed — Canady Perfect Game on Senior Day, Big 12 Tournament Preview
+- **Angle:** FOLLOW UP. TTech 50-4, No. 1 seed Big 12 Tournament May 7-9, Devon Park OKC. Canady threw perfect game vs. Baylor on Senior Day (8-0, 5 inn, 9 Ks, 62 pitches, first career PG). Opens Thursday vs. No. 8 Baylor.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell)
+- **Follow-ups:** Big 12 Tournament results; Canady legacy; national seed positioning
+
+### Story 5: FSU No. 1 Seed at ACC Tournament — National Seed Push
+- **Angle:** FOLLOW UP. FSU 45-8, 20-3 ACC, No. 1 seed ACC Tournament May 6-9 Palmer Park Charlottesville VA. Clinched share of 19th ACC title. Torres dominant offensive season. Plays Thursday quarterfinals. Tournament title strengthens national seed case.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings)
+- **Follow-ups:** ACC Tournament results; national seed; Selection Show May 10
+
+### Story 6: Conference Tournament Week Schedule
+- **Angle:** EVERGREEN. SEC May 5-9 Lexington. Big Ten May 6-9 College Park. Big 12 May 7-9 OKC. ACC May 6-9 Charlottesville. Selection Show May 10 7 PM ET ESPN2. Regionals May 15-18. WCWS May 28–June 3 Devon Park OKC.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Tournament results; Selection Show
+
+### Story 7: WCWS Countdown — 24 Days to Devon Park
+- **Angle:** EVERGREEN. 24 days to WCWS May 28. Selection Show May 10. Projected top national seeds: OU, TTech, Nebraska. Conference tournaments begin this week.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Selection Show bracket reveal
+
+---
+
 ## May 2, 2026
 
 ### Story 1: A&M Stuns No. 1 OU 8-5 in Game 1 — Series Finale (Games 2 & 3) Today
