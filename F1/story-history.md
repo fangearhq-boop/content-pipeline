@@ -1221,3 +1221,37 @@
 - **Category:** Race Preview / Weather
 - **Key facts:** Sunday Miami forecast: 88% rain, 53% thunderstorm. US law: must halt if lightning within 8 miles. FIA contingency plans confirmed. Race 4 PM ET. Wet conditions could neutralize McLaren upgrade; help Mercedes.
 - **Status:** NEW STORY
+
+---
+
+## 2026-05-04
+
+### STORY 1: Antonelli Makes History — Third Straight Win From Third Pole at Miami GP
+- **Tier:** 1
+- **Category:** Race Result / Historic Achievement
+- **Key facts:** Antonelli (Mercedes) wins 2026 Miami GP — 3rd consecutive victory; first driver in F1 history to convert first 3 poles into wins. Norris P2 (+3.264s), Piastri P3, Russell P4, Verstappen P5 (5-sec penalty), Hamilton P6, Colapinto P7, Leclerc P8 (20-sec penalty). Antonelli leads championship 100 pts, Russell 80 pts. Mercedes Constructors 180 pts.
+- **Status:** NEW STORY
+
+### STORY 2: Miami Race Chaos — Gasly Flipped Upside Down, Verstappen Spins, Multiple Penalties
+- **Tier:** 1
+- **Category:** Race Incidents / Drama
+- **Key facts:** Gasly's Alpine flipped upside down at Turn 17 after contact with Lawson (Lawson had gearbox failure, not penalized). Verstappen spun T1 (contact with Leclerc); +5-sec penalty pit exit breach. Leclerc +20-sec penalty track limits. Race moved from 3PM to 6PM local due to thunderstorm threat.
+- **Status:** NEW STORY
+
+### STORY 3: Norris Claims Miami Sprint Win — McLaren Shows Title Fight Is On
+- **Tier:** 1
+- **Category:** Sprint Result / Team Analysis
+- **Key facts:** Norris wins Miami Sprint (first McLaren win of 2026); Piastri P2; Leclerc P3. Antonelli P6 after 5-sec track limits penalty. Bortoleto DSQ, Hulkenberg DNS (engine). McLaren sprint win + double podium in race.
+- **Status:** NEW STORY
+
+### STORY 4: Championship Update — Antonelli 100 Points, Russell 80, Norris Climbs
+- **Tier:** 2
+- **Category:** Standings Analysis
+- **Key facts:** Antonelli 100 pts; Russell 80 pts (-20); Leclerc P3; Norris ahead of Hamilton. Mercedes 180 Constructors. Next: Canadian GP May 22-24.
+- **Status:** NEW STORY
+
+### STORY 5: Canada Preview — Circuit Gilles Villeneuve, May 22-24
+- **Tier:** 2
+- **Category:** Race Preview / Lookahead
+- **Key facts:** Round 5 of 24. Circuit Gilles Villeneuve, Montreal. Three-week break. Wall of Champions. Can anyone stop Antonelli?
+- **Status:** NEW STORY
