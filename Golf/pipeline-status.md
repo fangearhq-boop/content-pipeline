@@ -3,6 +3,26 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
+## Current Pipeline (2026-05-04)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-05-04 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-04 |
+| Fact-check | Complete (verify-facts.py — 21 claims, 48 HIGH confidence; image warnings expected/non-blocking) | 2026-05-04 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-04 |
+| PostPlanner | Complete (standard 8 posts + TOBI 8 posts) | 2026-05-04 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-05-04 |
+| Published | Failed — WordPress credentials blocked by egress proxy (persistent) | 2026-05-04 |
+| Git | Committed and pushed to main | 2026-05-04 |
+
+## Notes (2026-05-04)
+- 5 stories: Cameron Young wins Cadillac Championship wire-to-wire (19-under 269, 6-shot win over Scheffler, 2nd win of 2026, $3.6M, final round moved up for weather; Griffin 3rd at -12, Si Woo Kim/Straka/Scott T4 at -11) — T1; Nelly Korda wins Riviera Maya Open (17-under, 4-shot win over Yubol; 3rd LPGA win of 2026 in 6 starts; 3 wins + 3 runner-ups; ties Sorenstam consistency per Sky Sports) — T1; PGA Championship 2026 preview at Aronimink Golf Club May 14-17 (Scheffler +350 defending, McIlroy +650, DeChambeau +1000, Rahm +1400; first PGA at Aronimink since 1962; Donald Ross design) — T1; Truist Championship preview at Quail Hollow May 6-10 (McIlroy seeks record 5th title; Young in field; $20M; Green Mile closer) — T2; LIV Golf Washington DC preview May 7-10 at Trump National Sterling VA (Rahm seeks back-to-back after Mexico City 21-under 6-shot win) — T2
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X posts: 8 total, all under 280 characters
+- WordPress publish: Failed — credentials blocked by egress proxy (Host not in allowlist — persistent infrastructure issue)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
 ## Current Pipeline (2026-05-03)
 
 | Stage | Status | Last Updated |
