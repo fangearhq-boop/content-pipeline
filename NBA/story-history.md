@@ -1397,3 +1397,37 @@
 - **Category:** Playoffs / Bracket Preview
 - **Key facts:** West R2 confirmed: No. 1 Thunder vs. No. 4 Lakers (G1 Tue OKC); No. 2 Spurs vs. No. 6 Wolves. East: Knicks waiting. Game 7s Sunday: Pistons-Magic 3:30PM ABC; Cavs-Raptors 7:30PM NBC.
 - **Status:** NEW STORY
+
+---
+
+## 2026-05-04
+
+### STORY 1: Pistons Complete Historic 3-1 Comeback — Cade 32/12, Harris 30, First Series Win Since 2008
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Comeback
+- **Key facts:** Detroit Pistons 116, Orlando Magic 94 (Game 7, May 3). Pistons win series 4-3 — 15th team in NBA history to rally from 3-1 deficit. First Pistons series win since 2008 (18 years). Cade 32 pts/12 ast; Tobias Harris 30 pts (career playoff-high, 11-18 FG, 5-7 3PM); first Detroit teammates to each score 30+ in playoff game since Bob Lanier/Howard Porter (1977). Duren 15/15. Banchero 38 pts. Advance to East Semis vs. Cavaliers.
+- **Status:** NEW STORY
+
+### STORY 2: Allen 22/19 Powers Cavaliers Past Raptors 114-102 in Game 7
+- **Tier:** 1
+- **Category:** Playoff Results / Individual Performance
+- **Key facts:** Cleveland Cavaliers 114, Toronto Raptors 102 (Game 7, May 3). Cavs win series 4-3. Jarrett Allen 22 pts/19 reb (tied career playoff-high); 14 pts/10 reb in Q3; Cavs outscored Toronto 38-19 in Q3. Mitchell 22, Harden 18. Barnes 24/Barnes/9, Barrett 23 for TOR. Cavs advance as No. 4 seed to face No. 1 Pistons.
+- **Status:** NEW STORY
+
+### STORY 3: Second Round Opens Tonight — Knicks vs. 76ers G1 at MSG, 8PM ET; Embiid Probable
+- **Tier:** 1
+- **Category:** Game Day Preview
+- **Key facts:** Knicks vs. 76ers G1 at MSG tonight 8PM ET. Embiid probable (right hip contusion). Brunson 26.3 pts R1 avg; KAT 18.7; Embiid 28/9/7 in playoff games. Both teams completed 3-1 comebacks to advance.
+- **Status:** NEW STORY
+
+### STORY 4: West Semis Preview — Spurs-Wolves G1 Tonight, Thunder-Lakers G1 Tuesday
+- **Tier:** 2
+- **Category:** Preview / Lookahead
+- **Key facts:** Spurs vs. Wolves G1 tonight May 4, 9:30PM ET in SA. Thunder vs. Lakers G1 Tue May 5, 8:30PM ET in OKC. Lakers 16-pt underdogs vs. Thunder. Wembanyama 17/14 in R1; Fox 21 in R1.
+- **Status:** NEW STORY
+
+### STORY 5: Cavs vs. Pistons Series Preview — Two Game 7 Warriors Meet in Round 2
+- **Tier:** 2
+- **Category:** Series Analysis / Preview
+- **Key facts:** No. 4 Cavs at No. 1 Pistons; G1 Tue May 5, 7PM ET at Little Caesars Arena, Peacock/NBC. Both teams came from Game 7 wins same day. Mitchell, Mobley, Allen, Harden for Cavs; Cade, Harris, Duren for Pistons.
+- **Status:** NEW STORY
