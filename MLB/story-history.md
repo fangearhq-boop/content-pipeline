@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-04
+
+### Story 1: Ramírez Steals 300th Career Base — 9 HRs from the 300/300 Club
+- **Angle:** NEW. Ramírez stole 300th career base May 2 in Cleveland's 14-6 win vs Oakland. Joined Kenny Lofton as only Guardians players with 300+ SBs. Now 9 HRs from 300/300 club (only 8 members in MLB history: Bonds, ARod, Mays, Dawson, Beltrán, Bobby Bonds, Sanders, Finley). Also chasing 3rd consecutive 30-30 season.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Ramírez HR No. 300; 30-30 milestone tracking; Guardians AL Central race
+
+### Story 2: Nick Kurtz Walk Streak Ends at 20 — Tied Bonds, 2 Shy of Cullenbine's 1947 Record
+- **Angle:** NEW. Kurtz's walk streak ended May 2 in Oakland's 14-6 loss to Cleveland. Tied Barry Bonds (20 games), passed Ted Williams (19 games), fell 2 short of Roy Cullenbine's all-time record (22, 1947). Leads MLB with 33 walks entering May — most before May since Bryce Harper's 38 in 2018. On-base streak 25 games.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Kurtz on-base streak; OBP sustainability; A's offensive development
+
+### Story 3: Pirates Walk 7 Times in One Inning — Ties MLB Record from 1909 and 1983
+- **Angle:** NEW. Pittsburgh Pirates walked 7 times in single inning vs Reds on May 2. Ties MLB record for most walks by team in one inning — only prior occurrences: 1909 and 1983. Statistical rarity spanning 117 years of MLB.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** None — one-time occurrence
+
+### Story 4: James Wood HR Snaps Braves' 6-Game Win Streak — Nationals 11-4
+- **Angle:** NEW. Wood HR (412-ft opp-field, 8th of season, MLB-leading 5th opp-field HR), Garcia 4-for-5. Nationals won 11-4 on May 3, snapped Braves' 6-game winning streak. Braves still hold 8.5-game NL East lead.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Wood season arc; Braves NL East dominance; Nationals rebuild progress
+
+### Story 5: Murakami 13 HRs — On Pace for One of Greatest Rookie Seasons in MLB History
+- **Angle:** FOLLOW UP. Murakami at 13 HRs, leading MLB, on 65-HR pace. 3rd most HRs in first 32 career games ever. First 12 career extra-base hits all HRs (record since 1900). .967 OPS. White Sox rebuild context.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Murakami HR pace sustainability; White Sox record; HR race vs Judge/Alvarez
+
+### Story 6: Vargas Still Leads MLB at .388 After 27-Game Streak Ends
+- **Angle:** FOLLOW UP. Vargas' streak ended Saturday (Imanaga/Cubs 2-0). Still leads MLB at .388. What the streak's legacy means, what's next for Vargas and the D-backs.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Vargas BA sustainability; D-backs contention
+
+### Story 7: Milestone Monday — Five Numbers That Could Define 2026 MLB Season
+- **Angle:** EVERGREEN. Murakami 65-HR pace, Ramirez 9 HRs from 300/300 club, Judge approaching 400 career HRs, Vargas .388 after streak, Rice 1.214 OPS leads baseball.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** All milestone stories ongoing
+
+---
+
 ## 2026-05-02
 
 ### Story 1: Murakami Surges to Sole MLB HR Lead at 13 — On 65-Homer Pace
