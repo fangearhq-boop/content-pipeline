@@ -1,0 +1,336 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-05",
+  "compiled_at": "2026-05-05T10:19:34.664130+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** No. 1 Oklahoma Enters SEC Tournament — 48-7, SEC Title Wrapped Up, Wells at 36 HR",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "No. 1 Oklahoma swept A&M, won the SEC title outright, and enters the SEC Tournament at 48-7. Kendall Wells still at 36 HRs — one from Espinoza's 31-year-old all-time NCAA record. The record chase moves to Lexington. #Sooners #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#SECSoftball"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Oklahoma: 48-7. SEC regular season CHAMPIONS. No. 1 seed. Double bye. And Wells at 36 HRs — one swing from history. The SEC Tournament starts TODAY. Who's watching? #Sooners #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#NCAASoftball"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ou-no1-seed-sec-tournament-wells-36hr.html",
+        "headline": "Oklahoma Enters SEC Tournament as No. 1 Seed — Wells at 36 HR, One From All-Time NCAA Record",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** Oklahoma No. 1 Seed — Wells at 36 HR\n**Visual:** Oklahoma softball batter in power pose at the plate, crimson and cream, dramatic stadium lighting at night. Bold white text overlay on dark navy bar: \"SEC CHAMPIONS\" above, \"Wells: 36 HRs — One From History\" below. ILS brand orange accent stripe at bottom. High contrast, championship energy.\n**Mood:** Dominant, historic, on the edge of something legendary\n**Text overlay:** \"SEC CHAMPIONS — Wells at 36 HRs\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** Oklahoma No. 1 Seed\n**Visual:** Celebration scene — Oklahoma softball players in dugout with \"SEC CHAMPIONS\" banner in background. Text overlay bar at bottom: \"OKLAHOMA — 48-7 — SEC REGULAR SEASON CHAMPIONS\". Dark navy semi-transparent bar behind text. Landscape composition for article hero.\n**Mood:** Victory, momentum, postseason ready\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** NiJaree Canady Throws First Career Perfect Game — Texas Tech 50-5, First Team to 50 Wins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "NiJaree Canady threw a PERFECT GAME on Senior Day. 8-0 over Baylor. First career perfecto. Texas Tech now 50-5 — first team in the country to reach 50 wins. Big 12 Tournament starts Wednesday in OKC. #WreckEm #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Texas Tech. 50-5. No. 1 seed at Devon Park. NiJaree Canady: 1,000+ career Ks, multiple no-hitters, and now a PERFECT GAME on Senior Day. Is she the best pitcher in college softball history? Asking for a friend. #WreckEm #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#Softball"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-canady-perfect-game-texas-tech-50-wins.html",
+        "headline": "NiJaree Canady Throws First Career Perfect Game on Senior Day — Texas Tech First Program to 50 Wins",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** Canady Perfect Game — Texas Tech 50-5\n**Visual:** Dramatic windmill pitcher in mid-release, Texas Tech red uniform, stadium lights illuminating the mound. Text overlay: \"PERFECT GAME\" in massive Bebas Neue white letters. Sub-text: \"NiJaree Canady | Senior Day | TTU 50-5\". Dark overlay, red accent elements, ILS brand footer.\n**Mood:** Legendary, dominant, once-in-a-career moment\n**Text overlay:** \"PERFECT GAME — NiJaree Canady | Texas Tech 50-5\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** Canady Perfect Game\n**Visual:** Pitcher walking off mound triumphantly, teammates sprinting in from the field to celebrate. Scoreboard in background shows 8-0. Text overlay: \"CANADY'S PERFECT GAME — TEXAS TECH REACHES 50 WINS\". Landscape, jubilant atmosphere.\n**Mood:** Senior Day magic, perfection, celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Nebraska Sweeps Penn State, Wins Big Ten Regular Season Title Outright — 43-6",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Nebraska swept Penn State to win the Big Ten regular season title OUTRIGHT. 43-6. 23-1 in conference — tying the Big Ten record for most conference wins. Big Ten Tournament starts TOMORROW in College Park. #Huskers #BigTen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#BigTen"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 3-2",
+          "text": "A program that didn't even have softball a generation ago now has the Big Ten regular season title. Nebraska 43-6. Big Ten Tournament tomorrow. National seed conversation is real. #Huskers #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#NCAASoftball"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-nebraska-big-ten-title-43-6-tournament.html",
+        "headline": "Nebraska Claims First-Ever Big Ten Regular Season Title — 43-6, No. 1 Seed for Tournament",
+        "word_count": 464
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** Nebraska Wins Big Ten Title\n**Visual:** Nebraska softball player in red jersey raising arms in celebration at Penn State's field, Big Ten Championship graphic element in corner. Text overlay: \"BIG TEN CHAMPIONS\" in gold on navy bar. Sub-text: \"Nebraska 43-6 | 23-1 Big Ten | Program's First Title\". Clean, powerful, championship feel.\n**Mood:** Historic, landmark achievement, quiet confidence\n**Text overlay:** \"BIG TEN CHAMPIONS — Nebraska 43-6\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** Nebraska Wins Big Ten Title\n**Visual:** Team celebration on field, Nebraska Cornhuskers red and white, confetti or champagne element. Landscape composition. Text bar: \"HUSKERS — FIRST-EVER BIG TEN REGULAR SEASON TITLE\". Confident, historic moment.\n**Mood:** Program milestone, championship pride\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** SEC Tournament Opens Today — First Round at John Cropp Stadium in Lexington",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "IT'S HERE. The 2026 SEC Softball Tournament opens TODAY in Lexington. First round: No. 11 Missouri vs. No. 14 Auburn (1 PM ET, SEC Network). No. 10 Mississippi State vs. No. 15 Kentucky right after. Let the madness begin. #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 4-2",
+          "text": "SEC Tournament bracket reminder: No. 1 OU and No. 2 Alabama have double byes — they enter Thursday. Today is about the bubble teams fighting for survival. Watch on SEC Network. #SECSoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-sec-tournament-2026-first-round-bracket-guide.html",
+        "headline": "2026 SEC Softball Tournament Opens Today — First Round Guide, Bracket, and What to Watch",
+        "word_count": 525
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** SEC Tournament First Round Opens\n**Visual:** John Cropp Stadium wide shot from the field, green diamond, Kentucky/Lexington backdrop. Text overlay at top: \"SEC TOURNAMENT — GAME ON\" in white block letters. Bottom bar: \"Day 1 | Lexington, KY | Today on SEC Network\". Dark navy overlay, SEC branding accent, ILS footer.\n**Mood:** Tournament excitement, opening day energy\n**Text overlay:** \"SEC TOURNAMENT STARTS TODAY — Lexington, KY\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** SEC Tournament First Round\n**Visual:** Umpire's dramatic \"play ball\" gesture over home plate at John Cropp Stadium, packed stands in background. Landscape format. Text overlay: \"2026 SEC SOFTBALL TOURNAMENT — FIRST ROUND TODAY\".\n**Mood:** Anticipation, official start, here we go\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** FSU Enters ACC Tournament as No. 1 Seed — National Seed Stakes at Palmer Park",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "No. 10 Florida State (43-8) is the No. 1 seed in the ACC Tournament, which starts TOMORROW in Charlottesville. Isa Torres. National seed on the line. Selection Show is in 5 days. #FSUSoftball #ACCSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#ACCSoftball"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-fsu-acc-tournament-no1-seed-national-seed.html",
+        "headline": "Florida State Enters ACC Tournament as No. 1 Seed — National Seed and WCWS Hosting Rights on the Line",
+        "word_count": 496
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** FSU ACC Tournament — National Seed at Stake\n**Visual:** Florida State softball player mid-swing, garnet and gold uniform, determination on face. Dark background with gold/garnet color scheme. Text overlay: \"ACC TOURNAMENT — NO. 1 SEED\" with \"National Seed on the Line\" sub-text. ILS brand footer.\n**Mood:** High stakes, focused, playoff intensity\n**Text overlay:** \"FSU — ACC TOURNAMENT NO. 1 SEED\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** FSU ACC Tournament\n**Visual:** Palmer Park in Charlottesville from behind home plate, stadium ready for game day. FSU logo graphic element. Text: \"FLORIDA STATE — ACC TOURNAMENT BEGINS TOMORROW\". Landscape, bright afternoon lighting.\n**Mood:** Anticipation, road to the WCWS\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** WCWS Countdown — 23 Days to Devon Park, Selection Show in 5 Days",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The WCWS is 23 days away. Devon Park. May 28. Selection Show is THIS SUNDAY at 7 PM ET on ESPN2. Conference tournaments decide everything. Who's your pick to cut down the nets in OKC? #Softball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#NCAASoftball"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Conference Tournament Week — Every Bracket, Time, and Channel You Need",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Conference tournament week starts TODAY. SEC: May 5-9 Lexington. Big Ten: May 6-9 College Park. Big 12: May 7-9 OKC. ACC: May 6-9 Charlottesville. Selection Show: May 10, 7 PM ET ESPN2. Save this. 🥎 #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 11,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

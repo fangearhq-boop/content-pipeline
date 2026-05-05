@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 5, 2026
+
+### Story 1: No. 1 Oklahoma Enters SEC Tournament as No. 1 Seed — Wells at 36 HR
+- **Angle:** FOLLOW UP. OU swept A&M doubleheader (4-3, 6-4) on May 2 to claim outright SEC title. 48-7, 20-4 SEC. No. 1 seed with double bye in SEC Tournament (starts today, Lexington KY). Wells at 36 HR, one shy of Espinoza's all-time NCAA record (37, Arizona, 1995) — had 6 walks in A&M series.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Wells HR No. 37 tying record; Wells HR No. 38 breaking record; OU SEC Tournament results; SEC Tournament bracket progression
+
+### Story 2: NiJaree Canady Perfect Game — Texas Tech 50-5, First Team to 50 Wins
+- **Angle:** NEW STORY. Canady threw first career perfect game vs Baylor on May 2 (Senior Day), 8-0, sixth in TTU program history. Texas Tech became first team in country to reach 50 wins (50-5). No. 1 seed at Big 12 Tournament (May 7-9, Devon Park OKC).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Canady Big 12 Tournament performance; TTU national seed; Big 12 Tournament results
+
+### Story 3: Nebraska Sweeps Penn State, Wins Big Ten Title — 43-6, No. 1 Seed
+- **Angle:** FOLLOW UP. Nebraska swept Penn State series, clinched first-ever Big Ten regular season title. 43-6 overall, 23-1 Big Ten (ties Big Ten record for most conference wins). No. 1 seed, Big Ten Tournament May 6-9 College Park MD.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Big Ten Tournament results; Nebraska national seed; Selection Show seeding
+
+### Story 4: SEC Tournament First Round Opens Today in Lexington
+- **Angle:** NEW STORY. Day 1 of SEC Tournament at John Cropp Stadium. First round: No. 11 Missouri vs No. 14 Auburn (1 PM ET), No. 10 Mississippi State vs No. 15 Kentucky. Top 4 seeds (OU, Alabama, Florida, Tennessee) have double byes, enter Thursday. Tournament May 5-9.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** First round results; quarterfinal matchups; SEC Tournament champion
+
+### Story 5: FSU No. 1 Seed in ACC Tournament — National Seed at Palmer Park
+- **Angle:** FOLLOW UP. FSU (43-8, 18-3 ACC) is No. 1 seed in ACC Tournament at Palmer Park, Charlottesville VA. Starts May 6. National seed in play (RPI ~13). Selection Show May 10.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** ACC Tournament results; FSU national seed; Selection Show placement
+
+### Story 6: WCWS Countdown — 23 Days to Devon Park
+- **Angle:** EVERGREEN. 23 days to WCWS (May 28-June 3, Devon Park OKC). Selection Show May 10, 7 PM ET ESPN2. 32-team WCWS format new in 2026. Projected national seeds: OU, TTech, Nebraska, Florida, Alabama, FSU.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Selection Show bracket reveal; national seed final assignments
+
+### Story 7: Conference Tournament Week — Every Bracket, Time, and Channel
+- **Angle:** EVERGREEN. SEC May 5-9 Lexington. Big Ten May 6-9 College Park. Big 12 May 7-9 Devon Park OKC. ACC May 6-9 Charlottesville. Selection Show May 10 7 PM ET ESPN2.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Conference tournament results; Selection Show
+
+---
+
 ## May 4, 2026
 
 ### Story 1: Wells at 36 HRs Enters SEC Tournament — One From Tying All-Time NCAA Record

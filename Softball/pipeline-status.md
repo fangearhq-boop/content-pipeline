@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-05
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (11; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (93 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 11 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (11 posts X, 11 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Story 6/7 not in image-concepts (Tier 3 social-only — expected). 0 char violations.
+
+## Previous Run
 - **Date**: 2026-05-04
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (93 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
