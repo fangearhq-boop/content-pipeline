@@ -1,8 +1,21 @@
 ## Last Run
-- **Date**: 2026-05-04
+- **Date**: 2026-05-05
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-05
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-05.xlsx (6 posts) + f1fr-postplanner-tobi-2026-05-05.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-05/review-dashboard.html (26 items)
+- **Notes:** Post-Miami analysis. Antonelli 128 pts, Russell 80 (-48), 3 wins from 3 poles (first ever), youngest championship leader. Verstappen/Red Bull crisis: RB22 "significant shortcomings," rear instability, tire graining, start problems, exit clause looms. Hamilton at Ferrari "back to my best," P3 China, P6 Miami. Norris/McLaren won sprint, P2 race, massive aero upgrade, not giving up on title. 2026 reg report card: Mercedes A+, Ferrari B+, McLaren B, Red Bull F.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+
 
 ### 2026-05-04
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

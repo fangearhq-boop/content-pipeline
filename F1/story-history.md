@@ -1255,3 +1255,37 @@
 - **Category:** Race Preview / Lookahead
 - **Key facts:** Round 5 of 24. Circuit Gilles Villeneuve, Montreal. Three-week break. Wall of Champions. Can anyone stop Antonelli?
 - **Status:** NEW STORY
+
+---
+
+## 2026-05-05
+
+### STORY 1: Antonelli's Championship Grip — 128 Points, 48 Clear of Russell, History Already Made
+- **Tier:** 1
+- **Category:** Championship Analysis
+- **Key facts:** After 4 rounds: Antonelli 128 pts, Russell 80, Leclerc 59, Norris 51, Hamilton 51. First driver in F1 history to win first 3 GPs from pole. Youngest championship leader in F1 history. Mercedes all 4 wins.
+- **Status:** NEW STORY
+
+### STORY 2: Verstappen and Red Bull's 2026 Technical Crisis
+- **Tier:** 1
+- **Category:** Driver/Team Analysis
+- **Key facts:** RB22 admitted "significant shortcomings" — rear instability, tire graining, high-speed energy harvest weakness. Start problems every race (MGU-H removal made launch harder). Exit clause if falls outside top 2 in championship. Verstappen P5 in Miami (after 5-sec penalty). Says doesn't "enjoy" new cars.
+- **Status:** NEW STORY
+
+### STORY 3: Hamilton Ferrari Resurgence — "Back to My Best"
+- **Tier:** 1
+- **Category:** Driver Analysis
+- **Key facts:** Hamilton P6 Miami, P3 China. "Back to my best — both mentally and physically." Second season at Ferrari easier (in simulator from mid-2025). Heaviest winter training ever. Mansell: "reinvigorated." Ferrari P2 constructors. Hamilton estimates Mercedes ~0.5s/lap advantage.
+- **Status:** NEW STORY
+
+### STORY 4: Norris/McLaren Not Giving Up — Sprint Win, Race P2
+- **Tier:** 2
+- **Category:** Team Analysis
+- **Key facts:** Norris P2 Miami race, won Miami Sprint. 51 pts, 77 behind Antonelli. Massive Miami upgrade: new floor, bodywork, rear wing, brake ducts ("completely new from aerodynamic standpoint"). Won't switch to 2027 car focus yet. 2024 comeback blueprint.
+- **Status:** NEW STORY
+
+### STORY 5: 2026 Regulation Report Card
+- **Tier:** 2
+- **Category:** Technical Analysis
+- **Key facts:** Mercedes A+ (4 wins, both cars dominant). Ferrari B+ (P2 constructors, competitive own PU). McLaren B (fought back with Miami upgrade). Red Bull F (rear instability, tire graining, energy issues, "significant shortcomings"). Full grid reshuffle from 2022-2025 order.
+- **Status:** NEW STORY
