@@ -242,3 +242,15 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 | 3 | Rahm wins LIV Mexico City by 6 — closed 7-under 64 at Chapultepec; 2nd win of 2026, 4th individual LIV title; 16 LIV trophies (1 ahead of DeChambeau); Legion XIII sweeps team title by 9. DeChambeau WDs wrist. LIV Virginia next May 7-10. | 1 | NEW STORY |
 | 4 | Scheffler's runner-up streak — first since Greg Norman in 1986 to be runner-up at Masters AND RBC Heritage. Lost to McIlroy by 1 (Masters) and Fitzpatrick in playoff (Heritage). 1 win, 5 top-5s in 8 starts. McIlroy/Fitzpatrick absent from Doral field. | 2 | NEW STORY (Norman 1986 historical stat angle) |
 | 5 | Fitzpatrick beats Scheffler in playoff, wins RBC Heritage — Matt Fitzpatrick's 2nd PGA Tour win of 2026 before May. One-hole playoff at Harbour Town Golf Links April 19. Not in Cadillac field this week. | 2 | NEW STORY (not covered directly in prior pipelines) |
+
+---
+
+## 2026-05-05
+
+| # | Story | Tier | Status |
+|---|-------|------|--------|
+| 1 | Scheffler 3 consecutive runner-ups — Masters (lost McIlroy by 1), RBC Heritage (lost Fitzpatrick in playoff), Cadillac Championship (lost Young by 6). First since Sergio Garcia 2014. Career earnings past $110M. Taking week off before PGA Championship defense at Aronimink May 14-17. | 1 | NEW STORY |
+| 2 | McIlroy returns at Quail Hollow Truist Championship (May 6-10) — first start since back-to-back Masters win (Apr 12, 12-under, edged Scheffler by 1). 4-time winner at Quail Hollow (2010, 2015, 2021, 2024), seeks record 5th. 6 career majors (tied Trevino/Faldo/Mickelson, 12th all-time). First back-to-back Masters since Tiger (2001-02). $20M Signature Event. | 1 | NEW STORY |
+| 3 | Cameron Young moves to World No. 3 (career best) after Cadillac Championship win (+61 OWGR pts). Was outside top 60 a year ago. 2 wins in 4 starts in 2026: Players Championship (Mar) + Cadillac Championship (May). Only Gotterup and Fitzpatrick also have multiple 2026 wins. | 1 | NEW STORY |
+| 4 | Nelly Korda 2026 LPGA dominance — 3 wins (AIG Women's Open, Chevron Championship, Riviera Maya Open) + 3 runner-ups in 6 starts. Six events, six top-2 finishes. 17th career LPGA win. 22 of 27 HOF pts (5 away from eligibility). | 2 | NEW STORY |
+| 5 | Rahm vs DeChambeau LIV Virginia preview — both co-leading 2026 LIV individual standings with 2 wins each. LIV Golf Virginia May 7-10, Trump National Sterling VA, $30M purse. 7th event of season, roughly halfway point. Field: Smith, Hatton, Anthony Kim. | 2 | NEW STORY |
