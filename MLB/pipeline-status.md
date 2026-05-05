@@ -1,6 +1,13 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-05
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (11; 0 char violations), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (35 claims, 0 char violations, S6/S7 no image-concepts expected Tier 2/3 social-only, S6 no article — 5 articles meets minimum), compile (7 stories, 11 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (11 posts X, 11 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). S6 no article — Tier 2 social-only by design (5 articles meet minimum). S6/S7 no image-concepts — Tier 2-3 social-only. 0 char violations.
+
+## Previous Run
 - **Date**: 2026-05-04
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (28 claims, 0 char violations, S6/S7 no image-concepts expected Tier 2/3 social-only, S6 no article — 5 articles meets minimum), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

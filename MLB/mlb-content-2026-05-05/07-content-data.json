@@ -1,0 +1,339 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-05",
+  "compiled_at": "2026-05-05T10:28:21.442459+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Murakami's 5-Game HR Streak — Tied with Judge at 14, Both Making History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Munetaka Murakami hit his 14th HR Monday — a 429-foot blast off a 98 mph fastball — and is now TIED with Aaron Judge for the MLB lead. His 5-game HR streak ties the White Sox franchise record. Davis Martin: 7 IP, 10 K, 0 BB, 1.64 ERA. #BallparkBanter #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#WhiteSox"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Murakami's first 12 MLB extra-base hits have ALL been HRs — a record dating back to 1900. He's tied with Judge at 14. The HR race is ON. Who gets to 15 first? #BallparkBanter #WhiteSox #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#WhiteSox",
+            "#Yankees"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-murakami-5game-hr-streak-tied-judge-14.html",
+        "headline": "Murakami's 5-Game HR Streak Ties White Sox Record — Tied with Judge at 14 for MLB Lead",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** Murakami 5-Game HR Streak — Tied with Judge at 14\n**Visual:** Split-screen graphic: left side shows a Japanese slugger mid-swing in White Sox gear (black and silver), right side shows a tall batter in Yankees pinstripes. Center text: \"HR RACE\" in massive block letters. Bottom bar: \"Murakami 14 • Judge 14 — TIED FOR MLB LEAD\". Classic baseball stadium lighting, dramatic shadows. BB brand colors (classic red + navy) in footer.\n**Mood:** Rivalry, competition, historic matchup\n**Text overlay:** \"HR RACE — Murakami 14 • Judge 14 — TIED\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** Murakami 5-Game HR Streak\n**Visual:** Batter completing a massive home run swing with ball soaring into the outfield stands, batting helmet logo suggesting White Sox colors, stadium crowd blurred in background. Landscape composition. Text bar: \"MURAKAMI'S 5-GAME HR STREAK — TIED WITH JUDGE AT 14\". Dark midnight overlay with BB brand red accent.\n**Mood:** Power, historic streak, dominant performance\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** John Sterling Dies — Judge's HR Honors the Voice of the Yankees",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "John Sterling passed away Monday. Hours later, Aaron Judge hit a 1st-inning HR vs. the Orioles — and Michael Kay honored him with Sterling's iconic call. Baseball lost a legend. The Yankees won 12-1. The timing was perfect. #BallparkBanter #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Yankees"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 2-2",
+          "text": "\"THEEEE YANKEES WIN!\" — John Sterling's words. Michael Kay's tribute. Aaron Judge's HR. Baseball at its most human. RIP, John Sterling. #BallparkBanter #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Yankees"
+          ],
+          "char_count": 160
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-john-sterling-tribute-judge-hr-yankees.html",
+        "headline": "John Sterling Dies — Aaron Judge's Homer and Michael Kay's Tribute Honored a Yankees Legend",
+        "word_count": 439
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** John Sterling Tribute — Judge HR\n**Visual:** Classic broadcast booth aesthetic — a microphone on a desk in a darkened broadcast booth, soft stadium lights visible through the window in background. Text overlay center: \"RIP JOHN STERLING\" in white serif font on dark navy. Sub-text: \"The Voice of the Yankees | 1989–2024\". Elegant, reverent, understated. BB footer.\n**Mood:** Memorial, reverence, baseball history\n**Text overlay:** \"RIP JOHN STERLING — The Voice of the Yankees\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** John Sterling Tribute\n**Visual:** Yankees stadium at night, lights gleaming, crowd standing. Scoreboard shows YANKEES WIN. Soft golden light overlay. Text: \"IN MEMORY: JOHN STERLING — 'THEEEE YANKEES WIN!'\" in elegant typography. A moment between baseball and memory.\n**Mood:** Tribute, legacy, bittersweet celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Skubal Elbow Surgery — Tigers Ace Out 2-3 Months, Free Agency Implications",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Tarik Skubal will have elbow surgery to remove loose bodies from his left arm. The back-to-back AL Cy Young winner is expected to miss 2-3 months. Timeline to return: before the end of August. Free agency implications are massive. #BallparkBanter #Tigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Tigers"
+          ],
+          "char_count": 254
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Skubal: 2-3 months. The Tigers' ace goes down just as the season heats up. He was on track for the biggest pitcher contract in MLB history this winter. What does this mean for Detroit's 2026? #BallparkBanter #Tigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Tigers"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-skubal-elbow-surgery-tigers-free-agency.html",
+        "headline": "Tarik Skubal Needs Elbow Surgery — Tigers Ace Out 2-3 Months as Free Agency Year Begins",
+        "word_count": 522
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** Skubal Elbow Surgery\n**Visual:** Pitcher holding elbow with grimace, stadium blur in background, dramatic dark overlay. Overlaid text: \"SKUBAL OUT\" in bold white block letters. Sub-text: \"Elbow Surgery | 2-3 Month Timeline\". Tigers navy blue accent, injury report aesthetic. BB brand footer.\n**Mood:** Breaking injury news, concern, impact\n**Text overlay:** \"SKUBAL OUT — Elbow Surgery | 2-3 Months\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** Skubal Elbow Surgery\n**Visual:** Pitching mound at Comerica Park, empty pitcher's rubber visible under stadium lights. Clean, symbolic. Text overlay: \"SKUBAL: ELBOW SURGERY — 2-3 MONTHS\". Landscape, somber atmosphere suggesting an absence.\n**Mood:** Injury news, Tigers season implications\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Vargas Hit Streak Ends at 27 — Season's Longest Run Is Over",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Ildemaro Vargas went 0-for-4 vs. the Cubs on May 2 — ending his 27-game hit streak. It was baseball's longest since Trea Turner in 2021-22 and a Venezuela-born MLB record. What a run. #BallparkBanter #Dbacks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Dbacks"
+          ],
+          "char_count": 207
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Let's appreciate what Vargas did: a 27-game streak, NL Player of Month, .404 BA at one point — for a utility man almost nobody picked to matter this season. Baseball is something else. #BallparkBanter #Dbacks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Dbacks"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-vargas-27game-hit-streak-ends-diamondbacks.html",
+        "headline": "Ildemaro Vargas's 27-Game Hitting Streak Ends — A Season-Defining Run Comes to a Close",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** Vargas Hit Streak Ends at 27\n**Visual:** Baseball batter walking back to the dugout, bat at his side, strikeout or flyout aftermath — head slightly down but dignified. D-backs uniform colors (purple and teal). Overlaid text: \"27 GAMES — STREAK OVER\" with sub-text \"Vargas | Venezuela-Born MLB Record | Season's Longest\". Respectful tribute feel. BB footer.\n**Mood:** Reflection, achievement, respectful sendoff\n**Text overlay:** \"27 GAMES — VARGAS STREAK ENDS\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** Vargas Hit Streak Ends\n**Visual:** Chase Field outfield at night with the retractable roof visible, empty field after a game. Text overlay: \"VARGAS — 27 GAMES — THE STREAK IS OVER\". Landscape, quiet stadium atmosphere.\n**Mood:** Reflective, season moment, analytics\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Braves 25-10 — MLB's Best Record, 8.5-Game NL East Lead Entering May",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Braves are 25-10 with an 8.5-game NL East lead. Olson, Baldwin, Albies, and Harris II are all off to MVP-caliber starts. Best ERA. Most runs scored. Is Atlanta already running away with this? #BallparkBanter #Braves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Braves"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-braves-25-10-mlb-best-record-nl-east.html",
+        "headline": "Braves 25-10 With MLB's Best Record — Atlanta Is Building Something Special in May",
+        "word_count": 488
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1 — Social (1080x1350)\n**Type:** gemini / complete\n**Story:** Braves 25-10 — MLB's Best Record\n**Visual:** Atlanta Braves dugout celebration — multiple players pumping fists, vibrant energy. Chop motion suggested. Text overlay: \"BEST IN BASEBALL — 25-10\" with sub-text \"Braves | 8.5-Game NL East Lead\". Braves blue/red color scheme, vibrant championship energy. BB footer.\n**Mood:** Dominance, team chemistry, best team in baseball\n**Text overlay:** \"BRAVES — 25-10 — BEST RECORD IN BASEBALL\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n**Type:** gemini / complete\n**Story:** Braves 25-10\n**Visual:** Truist Park exterior or interior grand shot under lights, Braves colors, scoreboard showing another win. Text: \"ATLANTA BRAVES — MLB'S BEST RECORD — 25-10\". Landscape, confident and grand.\n**Mood:** Championship caliber, best team, sustained excellence\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Ohtani Named NL Pitcher of Month — 0.60 ERA, Starts Tuesday vs. Astros",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Shohei Ohtani is the NL Pitcher of the Month for March/April. 0.60 ERA. 34 Ks. 0.87 WHIP in 5 starts. He starts Tuesday vs. the Astros. There is no comparison in baseball history. #BallparkBanter #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Dodgers"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Giants Call Up Prospect Bryce Eldridge — Last in MLB in Runs and HR",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "The Giants called up Bryce Eldridge — their No. 1 prospect — after ranking LAST in MLB in runs scored and HRs. Eldridge hit .333 with 5 HRs in 30 Triple-A games. San Francisco needs a spark. #BallparkBanter #SFGiants",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#SFGiants"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 11,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

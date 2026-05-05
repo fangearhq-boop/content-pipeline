@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-05
+
+### Story 1: Murakami 5-Game HR Streak — Tied with Judge at 14 for MLB Lead
+- **Angle:** FOLLOW UP. Murakami (White Sox) hit 14th HR vs Angels (429 ft, 6-0 win), extending 5-game HR streak (ties White Sox franchise record). Tied with Judge at 14 for MLB lead. First 12 MLB extra-base hits all HRs — record since 1900. Davis Martin: 7 IP, 10 K, 0 BB, 1.64 ERA, 5-1.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Murakami vs Judge HR race; White Sox standings; 65-HR pace sustainability
+
+### Story 2: John Sterling Dies — Judge HR and Kay Tribute Honor a Yankees Legend
+- **Angle:** NEW STORY. Legendary Yankees broadcaster John Sterling died Monday May 5. Judge hit 14th HR in 1st inning vs Orioles; Michael Kay delivered tribute call. Yankees won 12-1, swept Orioles (4-0 series, outscored by 29 runs). Yankees 24-11, AL East leaders.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Sterling tribute coverage; Yankees 24-11 standings; Judge HR pace
+
+### Story 3: Skubal Elbow Surgery — Tigers Ace Out 2-3 Months, Free Agency Year Clouded
+- **Angle:** NEW STORY. Tarik Skubal (Tigers, back-to-back AL Cy Young) needs arthroscopic surgery for loose bodies in left elbow. Arm locked up Sunday during bullpen. Expected out 2-3 months; possible return before end of August. Free agency implications: was projected for largest pitcher contract in history.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Skubal surgery recovery updates; Tigers rotation depth; free agency market shift
+
+### Story 4: Vargas Hit Streak Ends at 27 — Venezuela-Born Record, Season's Longest
+- **Angle:** FOLLOW UP. Vargas went 0-for-4 vs Cubs at Wrigley on May 2. 27-game streak ends — longest since Turner's 27 in 2021-22, Venezuela-born MLB record, 2nd-longest in D-backs history. NL Player of Month March/April (.378 BA, 6 HR). Final streak game (May 1): 4-for-4, .404 BA.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Vargas season narrative; D-backs standings; batting average normalization
+
+### Story 5: Braves 25-10 — MLB's Best Record, 8.5-Game NL East Lead
+- **Angle:** FOLLOW UP. Braves 25-10, MLB's best record, 8.5-game NL East lead. First to 25 wins, best ERA, most runs scored. Olson, Baldwin, Albies, Harris II all off to MVP-caliber starts. Dodgers 20-9 comparison — Braves 5 wins ahead of pace.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Braves NL East lead evolution; sustained dominance through May
+
+### Story 6: Ohtani Named NL Pitcher of Month — 0.60 ERA, Starts Tuesday vs Astros
+- **Angle:** FOLLOW UP. Ohtani NL Pitcher of Month March/April (first time). 0.60 ERA, 34 K, 0.87 WHIP in 5 starts. Starts vs Astros Tuesday. Pitching-only policy on start days may be abandoned. 48+ game on-base streak, .996 OPS hitting.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Ohtani Astros start result; Dodgers NL West standing; on-base streak continuation
+
+### Story 7: Giants Call Up Prospect Bryce Eldridge — Last in MLB in Runs and HR
+- **Angle:** NEW STORY. Giants called up Eldridge (No. 19 overall prospect per MLB Pipeline) and Jesús Rodríguez on May 4. Giants last in MLB in runs (106) and HR (19). Eldridge: .333 BA, .963 OPS, 5 HR, 22 RBI in 30 Triple-A games. Posey quote confirmed.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Eldridge MLB debut performance; Giants offensive turnaround
+
+---
+
 ## 2026-05-04
 
 ### Story 1: Ramírez Steals 300th Career Base — 9 HRs from the 300/300 Club
