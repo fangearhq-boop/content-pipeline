@@ -2,6 +2,45 @@
 
 ---
 
+## May 5, 2026
+
+### Story 1: CPSC Recall — Vevor Baby Swings (~1,020 units) — Suffocation/Death Hazard
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (Sanven Technology recalls ~1,020 Vevor baby swings; models BB501K/BB702A/BB005K; incline >10 degrees violates Safe Sleep for Babies Act; marketed for infant sleep = suffocation risk; sold Vevor.com + Amazon Jan-Aug 2025; $65-$80; destroy cover, mark base, call 855-599-6320 M-F 9 AM-5 PM PT for full refund; no injuries reported)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~1,020 units; Vevor.com + Amazon; BB501K/BB702A/BB005K models; 855-599-6320 (M-F 9 AM-5 PM PT); no injuries yet; full refund
+
+### Story 2: Garden of the Gods Art Festival — May 16–17, 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (3rd Annual; May 16-17, Saturday-Sunday; Rock Ledge Ranch Historic Site; 10 AM-5 PM both days; 150 juried fine artists; pottery/jewelry/textiles/paintings/sculpture/glass art; live music; kid activities; food trucks; $10 adults/$8 seniors+military/FREE under 12/free Rock Ledge members; free shuttle from Coronado High School 9:30 AM-5 PM; dogs on leash OK)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 16-17; Rock Ledge Ranch; 10 AM-5 PM; $10/$8/FREE under 12; free shuttle Coronado High School; rockledgeranch.com
+
+### Story 3: CPSC Recall — Bellabu Bear Children's Bamboo Sherpa Robes — Burn Hazard
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (bamboo sherpa robes violate mandatory flammability standards; PAW Patrol/Minecraft/Garfield/Minions/Batman/etc. licensed designs; Saks Fifth Avenue + bellabubear.com + letthembelittleboutique.com + saksfifthavenue.com; Jan 2024–Jul 2025; ~$60; sizes S/M and M/L; label = "Bellabu Bear" + "BB-NW12109"; call 888-703-7752 M-F 9 AM-4 PM PT or help@bellabubear.com; full refund + prepaid return label)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** ~$60; Saks Fifth Avenue nationwide; BB-NW12109 label; 888-703-7752 (M-F 9 AM-4 PM PT); help@bellabubear.com; bellabubear.com/recall; full refund
+
+### Story 4: Summer Swim Safety — COS Families Before Memorial Day
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY (Memorial Day May 23-25; drowning = #1 unintentional death ages 1-4; AAP: swim lessons from age 1; 4-sided pool fencing; touch supervision within arm's length; USCG life jackets for open water; YMCA Pikes Peak swim programs; COS Parks & Rec pools open late May; YMCA urging safety May 4-5, 2026)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP swim lessons from age 1; 4-sided pool fence required; YMCA Pikes Peak (ymcapikes.org); Memorial Day May 23-25
+
+### Story 5: D11 Enrollment Increases for First Time in 12 Years
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 counted 86 more students than prior year; first increase in 12 years; nearly $1M additional state+federal funding; ~3,000 D11-boundary students attend D20, ~2,000 attend D49; open enrollment for 2026-27 ongoing; d11.org)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 86 more students vs. prior year; ~$1M additional funding; first increase in 12 years; d11.org for enrollment/choice info
+
+---
+
 ## May 4, 2026
 
 ### Story 1: CPSC Recall — CreateOn Crayola Pip-Cube Magnetic Sets (~9,400 units)
