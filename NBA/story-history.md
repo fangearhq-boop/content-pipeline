@@ -1431,3 +1431,37 @@
 - **Category:** Series Analysis / Preview
 - **Key facts:** No. 4 Cavs at No. 1 Pistons; G1 Tue May 5, 7PM ET at Little Caesars Arena, Peacock/NBC. Both teams came from Game 7 wins same day. Mitchell, Mobley, Allen, Harden for Cavs; Cade, Harris, Duren for Pistons.
 - **Status:** NEW STORY
+
+---
+
+## 2026-05-05
+
+### STORY 1: Knicks Make History — First Team in NBA History to Win Three Straight Playoff Games by 25+ Points
+- **Tier:** 1
+- **Category:** Game Result / Historic Performance
+- **Key facts:** New York Knicks 137, Philadelphia 76ers 98 (Game 1, East Conference Semifinals, May 4). Brunson 35 pts (27 in 1H). Anunoby 18 pts (7-for-8 FG). KAT 17, Bridges 17. Embiid 3-for-11, 14 pts. Knicks first team in NBA history to win 3 straight playoff games by 25+ pts. Three-game combined margin: 119 pts — largest any 3-game span in NBA playoff history. Knicks shot 63% from field, led by 40.
+- **Status:** NEW STORY
+
+### STORY 2: Wembanyama Sets NBA Playoff Blocks Record With 12, But Timberwolves Steal Game 1
+- **Tier:** 1
+- **Category:** Game Result / Historic Individual Performance
+- **Key facts:** Minnesota Timberwolves 104, San Antonio Spurs 102 (Game 1, West Conference Semifinals, May 4). Wembanyama 11/15/12 blk — shatters all-time NBA playoff blocks record (old: 10). Matched old record in 3 quarters. Anthony Edwards returns from hyperextended knee ahead of schedule (10 days early), scores 18 pts (8-of-12, 11 in Q4) off bench. Randle 21/10. Spurs second home-opener loss in last 17 such games.
+- **Status:** NEW STORY
+
+### STORY 3: Luka Doncic Ruled Out for Game 1 — Lakers Face Thunder Without Their Star
+- **Tier:** 1
+- **Category:** Injury News / Game Day Preview
+- **Key facts:** Luka Doncic ruled out for Thunder-Lakers Game 1 (tonight May 5, 8:30 PM ET). Grade 2 hamstring, 32+ days since last game, hasn't started contact ramp-up. JJ Redick: "not close." Thunder 15.5-pt favorites. Thunder beat LAL by avg 29.3 pts/game in regular season. Potential return: Game 3 or Game 4.
+- **Status:** NEW STORY
+
+### STORY 4: Pistons vs Cavaliers Game 1 Tonight — Two Game 7 Survivors Meet in Detroit
+- **Tier:** 2
+- **Category:** Game Day Preview
+- **Key facts:** No. 4 Cavs at No. 1 Pistons, Game 1, May 5, 7PM ET, Little Caesars Arena (NBC/Peacock). Both teams won Game 7s on May 3. Pistons: Cade, Harris, Duren. Cavs: Mitchell, Allen, Harden, Garland, Mobley.
+- **Status:** NEW STORY
+
+### STORY 5: Second Round Is Set — All Four Conference Semifinals Series Underway
+- **Tier:** 2
+- **Category:** Analysis / Overview
+- **Key facts:** East: Knicks lead 76ers 1-0; Pistons-Cavs Game 1 tonight. West: Wolves lead Spurs 1-0; Thunder-Lakers Game 1 tonight (no Luka). Knicks and Wolves won Game 1 on the road/as lower seed.
+- **Status:** NEW STORY

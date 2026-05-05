@@ -1,8 +1,21 @@
 ## Last Run
-- **Date**: 2026-05-04
+- **Date**: 2026-05-05
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-05
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-05-05.xlsx (7 posts) + hh-postplanner-tobi-2026-05-05.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-05/review-dashboard.html (27 items)
+- **Notes:** Knicks 137, 76ers 98 (G1 May 4) — Brunson 35 pts (27 in 1H); first team ever to win 3 straight playoff games by 25+ pts; 119-pt combined margin in 3 games. Wolves 104, Spurs 102 (G1 May 4) — Wembanyama 11/15/12 blk (all-time NBA playoff blocks record); Edwards returns 10 days early, 18 pts (11 in Q4). Luka Doncic ruled out for Thunder-Lakers G1 tonight (Grade 2 hamstring, 32+ days out; Thunder 15.5-pt favorites). Pistons-Cavs G1 tonight 7PM ET Detroit. Thunder-Lakers G1 tonight 8:30PM ET OKC.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+
 
 ### 2026-05-04
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
