@@ -1,6 +1,13 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-06
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (10; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (131 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 10 tweets, 0 FB parsed — known, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (10 posts X, 10 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known); publish-dashboard.py cherry-pick succeeded.
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Story 6/7 not in image-concepts (Tier 3 social-only — expected). 0 char violations. Detached HEAD resolved via git checkout main + pull + cherry-pick.
+
+## Previous Run
 - **Date**: 2026-05-05
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (11; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (93 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 11 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (11 posts X, 11 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -219,6 +226,16 @@
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-06
+- Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)
+- X posts: 10 text, FB posts: 7 long-form + 7 image captions, Articles: 5 (Stories 1-5; Stories 6-7 social only)
+- Fact-check: 131 claims. 0 char violations. S6/S7 not in image-concepts (Tier 3 — expected). IMAGE MISSING expected (not_started).
+- Dashboard: 27 items. Detached HEAD resolved (git checkout main + pull + cherry-pick). Dashboard published.
+- PostPlanner: ils-postplanner-2026-05-06.xlsx (10 posts), ils-postplanner-tobi-2026-05-06.xlsx (10 TOBI posts)
+- WordPress: Blocked by proxy sandbox (fanrumor.com — known network restriction)
+- Key stories: SEC Tournament Day 2 — 4 second-round games today (A&M/Auburn, ARK/MSU, UT/Ole Miss, LSU/GA) all SECN; top 4 seeds enter Thursday (P10); Wells still at 36 HR OU rests on double bye one from tying Espinoza all-time record (37, Arizona 1995) — four days of record watch (P10); Big Ten Tournament opens College Park MD — Nebraska 43-6 No. 1 seed waits with bye; 4 first-round games today BTN (P8); ACC Championship opens Charlottesville — FSU 43-8 No. 1 seed rests; first round today ACCN/ACCNX (P7); Big 12 Tournament preview — TTech 50-5 vs Baylor at Devon Park Thursday; Canady coming off perfect game (P7); Final NFCA poll OU No. 1 Nebraska No. 2 TTech No. 3 Alabama No. 4 (P6); WCWS 22 days Selection Show Sunday May 10 7 PM ET ESPN2 (P5)
+- Notes: 0 tweet char violations. FB posts compile to 0 (heading format — known, dashboard uses markdown fallback). publish-unified-dashboard 403 (PAT, known) — used publish-dashboard.py + cherry-pick after git checkout main + pull.
 
 ### 2026-05-04
 - Stories: 7 (2 Tier 1, 3 Tier 2, 2 Tier 3)

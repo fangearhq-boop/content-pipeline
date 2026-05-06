@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 6, 2026
+
+### Story 1: SEC Tournament Day 2 — Second Round Games Set Quarterfinal Bracket
+- **Angle:** FOLLOW UP. Day 2 in Lexington: Texas A&M vs Auburn (10 AM SECN), Arkansas vs MSU (1 PM SECN), Ole Miss vs Tennessee (4 PM SECN), LSU vs Georgia (7 PM SECN). May 5 results: Auburn beat Missouri 6-2; MSU beat Kentucky 4-3; Ole Miss beat South Carolina 2-0. Top 4 seeds (OU, Alabama, Florida, Tennessee) hold double byes, enter Thursday.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Second-round results; Thursday quarterfinal matchups; Wells HR No. 37 in tournament
+
+### Story 2: Wells at 36 HR — Oklahoma's Double Bye Extends the Record Watch
+- **Angle:** FOLLOW UP. Wells still at 36 HR, one from tying Espinoza's all-time NCAA record (37, Arizona, 1995). OU (48-7, 20-4 SEC) holds double bye, doesn't play until Thursday. Record hanging over entire SEC Tournament week. NFCA poll: OU No. 1 for fourth consecutive week.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Wells HR No. 37 tying record; Wells HR No. 38 outright record; OU SEC Tournament path
+
+### Story 3: Big Ten Tournament Opens Today — Nebraska Watches as No. 1 Seed
+- **Angle:** NEW STORY. Big Ten Tournament May 6-9, Maryland Softball Stadium, College Park MD. Nebraska 43-6, 23-1 Big Ten, No. 1 seed with bye into Thursday quarterfinals. First-round games: Minnesota vs Washington (11 AM BTN), Michigan vs Ohio State (1:30 PM BTN), Purdue vs Wisconsin (4:30 PM BTN), Penn State vs Northwestern (7 PM BTN).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** First-round results; Thursday quarterfinal matchups; Nebraska national seed positioning
+
+### Story 4: ACC Tournament First Round — FSU Rests, Palmer Park Hosts Eight Teams
+- **Angle:** FOLLOW UP. ACC Championship May 6-9, Palmer Park, Charlottesville VA. FSU (43-8, 18-3 ACC) No. 1 seed, double bye into Thursday. Duke No. 2 seed also rests. First-round: Notre Dame vs GTech (11 AM ACCN), Louisville vs NCSU (1:30 PM ACCN), Clemson vs UNC (5 PM ACCN), Virginia vs Pitt (7:30 PM ACCNX). FSU national seed in play (RPI ~13).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** ACC first-round results; FSU quarterfinal entry; national seed implications
+
+### Story 5: Big 12 Tournament Opens Tomorrow — Texas Tech/Canady Ready for Devon Park
+- **Angle:** FOLLOW UP. Big 12 Tournament May 7-9, Devon Park OKC. Texas Tech 50-5, 21-3 Big 12, No. 1 seed. Opens Thursday vs No. 8 Baylor (4th meeting in 7 days). Canady threw perfect game vs Baylor May 2 (1st career PG, 6th in TTU history). OSU vs Utah, Arizona vs Arizona State also Thursday.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Big 12 Thursday results; Canady tournament performance; Big 12 champion
+
+### Story 6: Final NFCA Poll — Oklahoma No. 1, Nebraska Rises to No. 2
+- **Angle:** FOLLOW UP. Final NFCA/GoRout DI Top 25 regular season poll (May 5): OU No. 1 (4th week), Nebraska No. 2 (career high), TTech No. 3, Alabama No. 4. Also: Florida No. 7, FSU No. 8, Arkansas No. 9, Texas No. 10. Last poll before Selection Show May 10.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Selection Show national seeds; conference tournament result impacts
+
+### Story 7: WCWS in 22 Days — Selection Show This Sunday
+- **Angle:** EVERGREEN. 22 days to WCWS (May 28-June 3, Devon Park OKC). Selection Show May 10, 7 PM ET ESPN2. 32-team format new in 2026. 16 national seeds host regionals May 15-18. Super Regionals May 22-24.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Selection Show bracket reveal; national seed assignments
+
+---
+
 ## May 5, 2026
 
 ### Story 1: No. 1 Oklahoma Enters SEC Tournament as No. 1 Seed — Wells at 36 HR
