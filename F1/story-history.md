@@ -1289,3 +1289,42 @@
 - **Category:** Technical Analysis
 - **Key facts:** Mercedes A+ (4 wins, both cars dominant). Ferrari B+ (P2 constructors, competitive own PU). McLaren B (fought back with Miami upgrade). Red Bull F (rear instability, tire graining, energy issues, "significant shortcomings"). Full grid reshuffle from 2022-2025 order.
 - **Status:** NEW STORY
+
+---
+
+## 2026-05-06
+
+### STORY 1: Canadian GP Preview — Sprint Format at Circuit Gilles Villeneuve, McLaren Eyes Win
+- **Tier:** 1
+- **Category:** Race Preview / Circuit Guide
+- **Key facts:** Round 5, May 22-24, Circuit Gilles Villeneuve, Montreal. Sprint format at Canada for first time in 2026. McLaren's Miami aero upgrade (new floor, bodywork, rear wing, brake ducts) suits low-drag Montreal circuit. Antonelli seeks 4th win. Championship: Antonelli 100, Russell 80, Leclerc 59, Norris 51.
+- **Status:** FOLLOW UP (from 2026-05-04 brief Canada preview)
+- **Follow-up ideas:** Canada qualifying/race results; McLaren pace comparison
+
+### STORY 2: Red Bull RB22 Weight Crisis — 30kg Over Target, Fix May Wait Until 2027
+- **Tier:** 1
+- **Category:** Technical Analysis / Team Crisis
+- **Key facts:** RB22 approximately 30kg over 768kg minimum target. ~0.03s/lap per kg = ~0.9s/lap deficit. Cost cap prevents simultaneous 2026 fix + 2027 car development. Miami weight-reduction upgrades insufficient. Fix expected at 2027 chassis earliest. Verstappen 26 pts, 7th in standings.
+- **Status:** FOLLOW UP (deeper angle on 2026-05-05 Red Bull story)
+- **Follow-up ideas:** In-season weight reductions; 2027 car announcement
+
+### STORY 3: Hamilton Ditches Ferrari Simulator — "Sending Me in the Wrong Direction"
+- **Tier:** 1
+- **Category:** Driver News / Team Strategy
+- **Key facts:** Hamilton will skip Ferrari simulator for 3-week Canada break. Best 2026 race (P3 China) = no sim prep (back-to-back weekend). Miami = heavy sim prep then struggled. Ferrari "giving up 3-4 tenths straight-line speed." Still attending factory meetings. Hamilton 51 pts, P5 standings.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Canada result vs sim-free approach; Ferrari correlation fix
+
+### STORY 4: Leclerc's Quiet Title Threat — 59 Points, Third in Championship
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Leclerc 3rd in standings, 59 pts, 41 behind Antonelli. Ferrari 2nd in Constructors (110 pts vs 180 Mercedes). P8 Miami race (20-sec track limits penalty), P3 Miami Sprint. Ferrari own PU — circuit-specific advantages. Monaco June 5-7 suits Leclerc historically.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Leclerc win chance; Monaco; title math
+
+### STORY 5: Norris Title Math — 49 Points Behind, Canada Could Compress Championship
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Norris 51 pts, 49 behind Antonelli. Sprint weekend = max ~34 pts. One good Canada + one bad Antonelli weekend drops gap to ~25 pts. Miami upgrade "completely new aerodynamics." Norris explicitly targeting title (2024 McLaren comeback blueprint).
+- **Status:** FOLLOW UP (from 2026-05-05 Norris analysis)
+- **Follow-up ideas:** Canada qualifying/race; championship gap movement

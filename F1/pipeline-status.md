@@ -1,8 +1,20 @@
 ## Last Run
-- **Date**: 2026-05-05
+- **Date**: 2026-05-06
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-06
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 5 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-06.xlsx (5 posts) + f1fr-postplanner-tobi-2026-05-06.xlsx (5 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-06/review-dashboard.html (25 items)
+- **Notes:** Canadian GP Preview (May 22-24, sprint format, Montreal, McLaren well positioned post-Miami upgrade). Red Bull RB22 weight crisis (approx 30kg over 768kg target, ~0.9s/lap deficit, cost cap traps fix until 2027). Hamilton ditches Ferrari sim for Canada ("sending me in wrong direction" — best 2026 race China came without sim, new approach for Canada). Leclerc 3rd in standings (59 pts, 41 behind Antonelli, P8 Miami after 20-sec penalty). Norris title math (51 pts, 49 behind, sprint weekend in Canada could compress gap to 25 pts).
+- **Championship standings (after Miami, R4):** Antonelli 100, Russell 80, Leclerc 59, Norris 51, Hamilton 51, Verstappen 26. Mercedes 180 constructors, Ferrari 110, McLaren ~94.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-05
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
@@ -14,25 +26,3 @@
 - **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-05/review-dashboard.html (26 items)
 - **Notes:** Post-Miami analysis. Antonelli 128 pts, Russell 80 (-48), 3 wins from 3 poles (first ever), youngest championship leader. Verstappen/Red Bull crisis: RB22 "significant shortcomings," rear instability, tire graining, start problems, exit clause looms. Hamilton at Ferrari "back to my best," P3 China, P6 Miami. Norris/McLaren won sprint, P2 race, massive aero upgrade, not giving up on title. 2026 reg report card: Mercedes A+, Ferrari B+, McLaren B, Red Bull F.
 - **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
-
-
-
-### 2026-05-04
-- **Steps completed:** 1-10b, 12-15 (Full pipeline)
-- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
-- **X Posts:** 8 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (Stories 1-5, pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
-- **PostPlanner exports:** f1fr-postplanner-2026-05-04.xlsx (8 posts) + f1fr-postplanner-tobi-2026-05-04.xlsx (8 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-04/review-dashboard.html (28 items)
-- **Notes:** Antonelli (Mercedes) wins Miami GP (3rd straight); first driver in F1 history to win first 3 GPs from first 3 poles; Norris P2 (+3.264s), Piastri P3, Russell P4, Verstappen P5 (5-sec penalty), Hamilton P6, Leclerc P8 (20-sec penalty). Chaos: Gasly flipped by Lawson (gearbox failure), Verstappen T1 spin. Sprint: Norris wins (McLaren 1-2), Antonelli penalized to P6. Championship: Antonelli 100, Russell 80 (-20). Next: Canadian GP May 22-24.
-- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
-
-### 2026-03-31
-- **Steps completed:** 1-10b, 12-15 (Full pipeline)
-- **Stories:** 7 total (3 Tier 1, 2 Tier 2, 2 Tier 3)
-- **X Posts:** 10, all under 280 characters
-- **Articles:** 5 (Stories 1-5)
-- **PostPlanner exports:** f1fr-postplanner-2026-03-31.xlsx (24 posts) + f1fr-postplanner-tobi-2026-03-31.xlsx (17 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-03-31/review-dashboard.html (29 items)
-- **Context:** FIA April 9 regulation meeting confirmed. Red Bull new floor for Miami. McLaren aerodynamic update. Norris 47 pts behind Antonelli. Antonelli 5-week break as youngest-ever championship leader (19y 6m 25d). Miami Sprint format May 1-3, Round 4.
