@@ -1,0 +1,328 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-06",
+  "compiled_at": "2026-05-06T12:22:11.321415+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "ATP Rome Day 1 — First Round Underway at Foro Italico",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The ATP Italian Open main draw is underway in Rome. First round action begins at the Foro Italico today. Sinner, Djokovic and the seeds enter in Round 2. #TennisTwitter #ItalianOpen #Rome2026 #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisTwitter",
+            "#ItalianOpen",
+            "#Rome2026",
+            "#ATPTour"
+          ],
+          "char_count": 200
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Sinner faces Michelsen/Ofner in R2. Djokovic faces Fucsovics/Prizmic in R2. Both get byes today as first-round matches determine who they will face. Rome is officially live. #ItalianOpen #Sinner #Djokovic #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ItalianOpen",
+            "#Sinner",
+            "#Djokovic",
+            "#ATPTour"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-atp-rome-2026-day-one-main-draw-opens.html",
+        "headline": "ATP Rome 2026: Main Draw Opens at the Foro Italico as First-Round Action Gets Underway",
+        "word_count": 731
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Sinner's Career Golden Masters Quest: Only Rome Stands in the Way",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Only one player has ever completed the Career Golden Masters — winning all 9 Masters 1000 events. That player is Novak Djokovic. Jannik Sinner has won 8 of 9. Rome is the only one left. It starts today. #Sinner #ItalianOpen #ATPTour #TennisHistory",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sinner",
+            "#ItalianOpen",
+            "#ATPTour",
+            "#TennisHistory"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 2-2",
+          "text": "No. 1 Sinner, 5 consecutive Masters 1000 titles, chasing history on Italian clay in front of home fans. The Career Golden Masters. Only Djokovic has done it. Rome begins now. #Sinner #ItalianOpen #ATPTour #TennisTwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sinner",
+            "#ItalianOpen",
+            "#ATPTour",
+            "#TennisTwitter"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-sinner-career-golden-masters-rome-quest.html",
+        "headline": "The Last Piece: Sinner's Career Golden Masters Quest Reaches Home Clay in Rome",
+        "word_count": 829
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Djokovic's Rome Return — Six-Time Champion Battles Back from Shoulder Injury",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Djokovic is back. Six-time Rome champion. First tournament since right shoulder injury at Indian Wells in March. He faces Fucsovics or qualifier Prizmic in R2. All roads lead to Roland Garros. #Djokovic #ItalianOpen #ATPTour #TennisTwitter",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Djokovic",
+            "#ItalianOpen",
+            "#ATPTour",
+            "#TennisTwitter"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-djokovic-rome-2026-comeback-six-titles.html",
+        "headline": "Djokovic Returns to Rome: Six-Time Champion's Comeback Begins on Familiar Clay",
+        "word_count": 783
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "WTA Rome Day 3 — Krejcikova Into Round of 32, Seeds Prepare to Enter",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Krejcikova def. Jacquemot 6-2, 6-4 in Rome. She now faces No. 1 Sabalenka in the round of 32. Sabalenka has never won the Italian Open — that changes this week or it does not. #WTATennis #ItalianOpen #Rome2026 #Sabalenka",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTATennis",
+            "#ItalianOpen",
+            "#Rome2026",
+            "#Sabalenka"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wta-rome-2026-day-three-krejcikova-sabalenka.html",
+        "headline": "WTA Rome Day 3: Krejcikova Sets Up Sabalenka Clash as Top Seeds Enter the Draw",
+        "word_count": 663
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Roland Garros 2026 Without Alcaraz — 12 Days to Qualifying",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "12 days to Roland Garros qualifying. Alcaraz out (right wrist). Djokovic uncertain. Sinner is the overwhelming favourite — and Roland Garros is the only Grand Slam missing from his collection. #RolandGarros #Sinner #TennisTwitter #ATPTour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RolandGarros",
+            "#Sinner",
+            "#TennisTwitter",
+            "#ATPTour"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-roland-garros-2026-without-alcaraz-preview.html",
+        "headline": "Roland Garros 2026: The Men's Field Without Alcaraz — 12 Days to Qualifying",
+        "word_count": 843
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
