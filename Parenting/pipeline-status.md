@@ -1,6 +1,44 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: May 5, 2026
+## Latest Run: May 6, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | d11.org+d49.org (D11 graduations May 19-21 Ed Robson Arena; D49 May 23 Broadmoor World Arena); rockymountainhighway.org (MeadowGrass May 22-24, La Foret, kids 12 free); cpsc.gov (Joyful Journeys baby loungers 9,300 units Recall 26-181); krdo.com+coloradosprings.gov (parks budget cuts ~25% restrooms closed; Rock Island Trail bridge; Starsmore upgrades); aap.org (sun safety: no sunscreen <6mo, SPF 15-50, avoid oxybenzone, 1oz apply, reapply 2hr) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against May 5 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging, sources noted |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts; all verified under 280 chars; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; 0 exclamation marks; no banned words |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 79 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 10 FB posts, 5 articles, 10 images |
+| Dashboard | COMPLETE | review-dashboard.html (22 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-06.xlsx (17 posts) + TOBI cosp-postplanner-tobi-2026-05-06.xlsx (12 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-06)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5 (bylines: Sarah Morales x2, Jamie Rivera x3)
+- **PostPlanner exports:** cosp-postplanner-2026-05-06.xlsx (17 posts), cosp-postplanner-tobi-2026-05-06.xlsx (12 TOBI posts)
+- **Coverage:** D11 graduation guide (Palmer/Mitchell May 19, Coronado/Doherty May 20, Achieve/Tesla/Bijou/Odyssey May 21, all Ed Robson Arena; D49 May 23 Broadmoor World Arena: Sand Creek 9AM, Falcon 1PM, Vista Ridge 5PM; last day D11 May 22); MeadowGrass Festival May 22-24 (La Foret, 17th annual, kids 12 free, Kid Zone, camping); Joyful Journeys baby lounger recall (9,300 units, CPSC 26-181, Amazon+Walmart Dec 2023-Oct 2025 $40-60, entrapment+fall hazard, destroy+email for refund); COS parks 2026 (~25% restrooms closed, Rock Island Trail bridge over Sand Creek, Starsmore improvements, GoG wayfinding); Sun safety AAP (no sunscreen <6mo, SPF 15-50, avoid oxybenzone, 1oz+reapply 2hr, COS 6000ft UV)
+- **Notes:**
+  - verify-facts.py passed — 5 stories, 79 claims; image warnings cosmetic
+  - compile-content-data.py: 5 stories, 7 X posts, 10 FB posts, 5 articles, 10 images
+  - review-dashboard.html generated (22 items)
+  - PostPlanner exports: both standard (17) and TOBI (12) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access (same as all prior runs)
+
+---
+
+## Previous Run: May 5, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

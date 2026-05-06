@@ -2024,3 +2024,43 @@
 - **Tier:** 2
 - **Key Facts:** Two Colorado Catholic preschools sued state 2023; excluded from UPK for restricting LGBTQ family enrollment; First Amendment argument; Supreme Court agreed to hear; UPK = 15 free hours/week for 4-year-olds; Colorado Springs has multiple UPK sites; ruling would affect future enrollment; no ruling timeline set; coloradouniversalpreschool.com
 - **Follow-Up Opportunities:** Case oral arguments; ruling impact on COS UPK providers; UPK enrollment guide for COS families
+
+### Story 1: D11 Graduation Season Begins May 19 — Complete COS Family Guide
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 end-of-year covered April 30 at high level; D11 specifics and combined guide new)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 1
+- **Key Facts:** D11 last day May 22, 2026; D11 graduations at Ed Robson Arena (CC): May 19 Palmer 9AM + Mitchell 3PM; May 20 Coronado 9AM + Doherty 3PM; May 21 Achieve/Tesla/Bijou 9AM + Odyssey 3PM; May 28 Adult+Family Ed 7PM; D49 graduations May 23 at Broadmoor World Arena 3185 Venetucci Blvd: Sand Creek 9AM, Falcon 1PM, Vista Ridge 5PM
+- **Follow-Up Opportunities:** Graduation celebration restaurant guide for COS families; post-graduation summer plans roundup
+
+### Story 2: MeadowGrass Music Festival May 22-24 — Kids 12 and Under Free
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 2
+- **Key Facts:** 17th Annual; May 22-24 2026, Memorial Day Weekend; La Foret Conference and Retreat Center, 6145 Shoup Road, COS CO 80908; kids 12 and under FREE with paid adult; Faricy Boys Kid Zone (giant bubbles-Milibo Art Theater, crafts-Concrete Couch, hay wagon, kid yoga, art); camping in Ponderosa Forest; Beer Festival Friday; food trucks all weekend; Rocky Mountain Highway Music Collaborative
+- **Follow-Up Opportunities:** Post-festival roundup; Memorial Day Weekend COS guide
+
+### Story 3: Joyful Journeys Baby Loungers Recalled — 9,300 Units
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CPSC Recall No. 26-181, January 8 2026)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 1
+- **Key Facts:** ~9,300 units; Sarnia Sales LLC d/b/a Joyful Journeys, Issaquah WA; Amazon + Walmart Dec 2023–Oct 2025, $40-$60; sides too low, foot openings too wide (entrapment), no stand (fall hazard); styles: green avocado, blue dinosaur, blue lambs, blue zoo, green minky, neutral elephants, pink zoo, white minky; action: stop use, destroy (cut in half), email photos to joyfuljourneysrecalls@myjoyfuljourneys.com for full refund; no injuries reported; CPSC hotline 1-800-638-2772
+- **Follow-Up Opportunities:** Baby sleep product safety roundup; infant sleep safety guide
+
+### Story 4: COS Parks Summer 2026 — New Trails Coming, Budget Cuts Affect Restrooms
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 2
+- **Key Facts:** ~25% neighborhood park permanent restrooms closed for 2026 season (budget cuts); Rock Island Trail: 210-ft pedestrian bridge over Sand Creek (Spring 2026) + pedestrian-activated flashing crossing at Peterson Road; Starsmore Visitor Center: expanded accessible parking, ADA walkways, new plaza, renovated restrooms; Garden of the Gods Park: systemwide wayfinding improvements; coloradosprings.gov/PRCS
+- **Follow-Up Opportunities:** Rock Island Trail completion update; Starsmore Visitor Center opening
+
+### Story 5: Summer Sun Safety for COS Kids — AAP Recommendations at 6,000 Feet
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (swim safety covered May 5 separately; sun safety distinct topic)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 2
+- **Key Facts:** No sunscreen under 6 months (shade + cover); broad-spectrum SPF 15-50 for 6+ months; avoid oxybenzone (hormonal concerns); zinc oxide or titanium dioxide for sensitive skin; apply 1 oz, reapply every 2 hours (40-80 min after swimming); COS elevation ~6,000 ft; UV ~4-5% stronger per 1,000 ft elevation; peak UV 10 AM–4 PM; multi-layer approach: sunscreen + clothing + shade + timing
+- **Follow-Up Opportunities:** Best COS splash pads and outdoor pools guide; UV protective clothing roundup for kids
