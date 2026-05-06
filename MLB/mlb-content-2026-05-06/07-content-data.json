@@ -1,0 +1,336 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-06",
+  "compiled_at": "2026-05-06T10:26:27.917393+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** De La Cruz 2-HR Night Sets Reds Switch-Hitter Record — Cincinnati Beats Rays 12-6",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Elly De La Cruz: 2 HR, 5 RBI, 1 SB last night. His 6th career multi-HR game passed Pete Rose for the most by a switch-hitter in Reds history. Cincinnati scored the first 9 runs, won 12-6 over the Rays. The Reds are in first place. #Reds",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Elly De La Cruz just broke a Pete Rose record and barely anyone is talking about it. Six career multi-homer games — more than any switch-hitter in Reds history. And he added a stolen base. The Reds are COOKING. #Reds #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-de-la-cruz-2hr-reds-beat-rays-pete-rose-record.html",
+        "headline": "Elly De La Cruz Hits Two Home Runs, Passes Pete Rose in Reds History — Cincinnati Beats Tampa Bay 12-6",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Elly De La Cruz Cincinnati Reds\"\n- **Usage:** X + Facebook image post — De La Cruz 2-HR night\n- **Caption Overlay:** \"FRANCHISE RECORD | 2 HR, 5 RBI | #Reds\"\n- **Status:** not_started\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Elly De La Cruz Reds\"\n- **Usage:** Article header\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Ohtani Pitches Best Start of the Year, Dodgers Lose Anyway — 2-1 to Astros",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Shohei Ohtani: 7 IP, 8 K, 0 walks, 89 pitches. His longest start as a Dodger. The offense managed 1 run. Final: Astros 2, Dodgers 1. Even a historically good start couldn't save LA's bats. His ERA is still 0.97. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Ohtani went 122 batters without allowing a home run this season. Then Christian Walker and Braden Shewmake took him deep in the same game. Still gave up 2 runs in 7 innings. Still lost 2-1. The Dodgers offense needs to show up. #Dodgers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ohtani-7ip-dodgers-lose-astros-2-1.html",
+        "headline": "Ohtani Gives Everything — 7 IP, 8 K, 0 BB — and the Dodgers Lose 2-1 to Houston Anyway",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 2A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Shohei Ohtani Los Angeles Dodgers\"\n- **Usage:** X + Facebook — Ohtani vs Astros\n- **Caption Overlay:** \"7 IP | 8 K | 0 BB | ERA: 0.97\"\n- **Status:** not_started\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Shohei Ohtani Dodgers pitching\"\n- **Usage:** Article header\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Nationals End Atlanta's 6-Game Win Streak — James Wood, García Jr. Power 11-4 Rout",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "The Washington Nationals ended the Braves' 6-game win streak Tuesday — 11-4. James Wood homered. Luis García Jr. had 4 hits. Atlanta is still 25-11 with an 8-game NL East lead. But nobody is unbeatable. #Braves #Nationals #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#Nationals",
+            "#MLB"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Washington beat Atlanta 11-4 to snap a 6-game Braves win streak. James Wood is playing like a star. The Nats may be building something. #Nationals #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Nationals",
+            "#MLB"
+          ],
+          "char_count": 151
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-nationals-snap-braves-win-streak-james-wood.html",
+        "headline": "Washington Ends Atlanta's 6-Game Winning Streak — James Wood Homers in 11-4 Nationals Win",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 3A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"James Wood Washington Nationals\"\n- **Usage:** X + Facebook — Nationals upset Braves\n- **Caption Overlay:** \"STREAK SNAPPED | Nationals 11, Braves 4\"\n- **Status:** not_started\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Atlanta Braves\"\n- **Usage:** Article header\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Sal Stewart Named NL Rookie of the Month — Reds' Infielder Leads ROY Race",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Sal Stewart was just named NL Rookie of the Month. Through April: .281, 9 HR, 29 RBI in just 31 games. He also leads the NL Rookie of the Year race. The Reds didn't just get good — they got a generational rookie. #Reds #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-sal-stewart-nl-rookie-month-reds-roy-race.html",
+        "headline": "Sal Stewart Named NL Rookie of the Month — Reds Third Baseman Is Running Away With the ROY Race",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 4A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Sal Stewart Cincinnati Reds\"\n- **Usage:** X + Facebook — Stewart Rookie of Month\n- **Caption Overlay:** \"NL ROOKIE OF THE MONTH | Sal Stewart | #Reds\"\n- **Status:** not_started\n\n#### Image Concept 4B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Sal Stewart Reds\"\n- **Usage:** Article header\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Judge and Murakami Tied at 14 HRs — The AL Home Run Race Heats Up",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "Aaron Judge: 14 HR. Munetaka Murakami: 14 HR. Tied for the MLB lead. Both on pace for 60+ homers over a full season. The home run race of 2026 is officially on. Who wins it? #Yankees #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 197
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Murakami's first 12 extra-base hits this season have all been home runs. That's a record since 1900. Judge has 11 HRs in his last 21 games. They're both at 14. This is going to be a fun race to watch. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-judge-murakami-hr-race-tied-14.html",
+        "headline": "Tied at 14: Aaron Judge and Munetaka Murakami Are Racing Toward History",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 5A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Aaron Judge New York Yankees\"\n- **Usage:** X + Facebook — HR race\n- **Caption Overlay:** \"JUDGE 14 | MURAKAMI 14 | The Race Is On\"\n- **Status:** not_started\n\n#### Image Concept 5B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Aaron Judge Yankees\"\n- **Usage:** Article header\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Tigers Rotation in Crisis — Skubal Out, Mize Out, Verlander Out",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Detroit Tigers are now without Tarik Skubal (2-3 months), Casey Mize (IL), Justin Verlander (IL), and Reese Olson (season). Their rotation is Framber Valdez, Jack Flaherty, and hope. #Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** The Early Season MLB Landscape — Four Divisions, Four Stories",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Six weeks in, here's the MLB landscape: Braves lead baseball (25-11). Yankees leading the AL East (24-11). Reds surging in the NL Central. Ohtani ERA: 0.97. Judge and Murakami tied at 14 HR. It's been a great early season. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 11,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

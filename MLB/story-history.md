@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-06
+
+### Story 1: De La Cruz 2-HR Night Sets Reds Switch-Hitter Record — Beats Rays 12-6
+- **Angle:** NEW STORY. De La Cruz 3-for-6, 2 HR, 5 RBI, 1 SB, 3 R. 6th career multi-HR game surpasses Pete Rose for most by a switch-hitter in Reds history. Reds scored first 9 runs, won 12-6. Reds: 5-game win streak, 7-of-last-8, first place NL Central, MLB-best 10-2 road record. Stewart added 3 RBI (24 on season).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Reds first-place standing; De La Cruz season pace; Stewart ROY race
+
+### Story 2: Ohtani 7 IP, 8 K, 0 BB — Dodgers Lose 2-1 to Astros
+- **Angle:** FOLLOW UP. Ohtani's longest Dodgers start this season: 7 IP, 89 pitches, 8 K, 0 BB. First HRs allowed in 2026 (Walker + Shewmake, both solo) after 122 batters. ERA still 0.97. Dodgers scored 0 in 7 IP off Peter Lambert; 1 run in 8th. Final: Astros 2, Dodgers 1.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Ohtani next start; Dodgers offensive consistency; NL West standings
+
+### Story 3: Nationals Snap Braves' 6-Game Win Streak — James Wood HR, García Jr. 4 Hits, 11-4
+- **Angle:** FOLLOW UP. Washington 11, Atlanta 4. James Wood HR. Luis García Jr. 4 hits. Braves 6-game win streak snapped. Braves still MLB's best record (~25-11, 8+ game NL East lead).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Braves NL East lead; Washington's emergence; James Wood trajectory
+
+### Story 4: Sal Stewart Named NL Rookie of Month — Reds Third Baseman Leads ROY Race
+- **Angle:** NEW STORY. Stewart NL Rookie of Month March/April (announced May 4). Stats: .281, 9 HR, 29 RBI in 31 April games. 24 RBI on season entering May 6. Leading NL ROY race.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** ROY race rivals; Reds first-place chase; Stewart season trajectory
+
+### Story 5: Judge and Murakami Tied at 14 HRs — MLB Home Run Race Heats Up
+- **Angle:** FOLLOW UP. Judge: 14 HR, 11 in last 21 games. Murakami: 14 HR, first 12 extra-base hits all HRs (record since 1900). Both on 60+ HR pace. Yankees swept Orioles 4-0 (outscored 29 runs); Yankees 24-11, AL East leaders.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Judge vs Murakami pace; 62-HR record implications; Yankees record
+
+### Story 6: Tigers Rotation in Crisis — Skubal Out, Mize Out, Verlander Out
+- **Angle:** FOLLOW UP. Full picture: Skubal out 2-3 months (arthroscopic elbow surgery). Mize on IL. Verlander unavailable. Olson out for season (shoulder). Remaining: Framber Valdez, Jack Flaherty, Keider Montero, Ty Madden. Skubal's free agency implications.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Tigers AL Central standing; Skubal recovery timeline; pitching market impact
+
+### Story 7: Six Weeks In — The 2026 MLB Season Landscape
+- **Angle:** EVERGREEN. Braves MLB-best record (25-11, 8.5-game NL East lead). Yankees 24-11, AL East leaders. Reds first place NL Central. Ohtani ERA 0.97. Judge/Murakami at 14 HR. Tigers in rotation crisis.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Division races through May
+
+---
+
 ## 2026-05-05
 
 ### Story 1: Murakami 5-Game HR Streak — Tied with Judge at 14 for MLB Lead
