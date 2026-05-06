@@ -1465,3 +1465,42 @@
 - **Category:** Analysis / Overview
 - **Key facts:** East: Knicks lead 76ers 1-0; Pistons-Cavs Game 1 tonight. West: Wolves lead Spurs 1-0; Thunder-Lakers Game 1 tonight (no Luka). Knicks and Wolves won Game 1 on the road/as lower seed.
 - **Status:** NEW STORY
+
+---
+
+## 2026-05-06
+
+### STORY 1: Thunder 108, Lakers 90 — Holmgren 24/12/3 Carries OKC to Game 1 Win
+- **Tier:** 1
+- **Category:** Game Result / Individual Performance
+- **Key facts:** Oklahoma City Thunder 108, Los Angeles Lakers 90 (Game 1, West Conference Semifinals, May 5). Chet Holmgren: 24 pts (9-17 FG, 2-2 3P, 4-4 FT), 12 reb, 3 blk in 31 min. SGA: 18 pts, 6 ast (rare off night). Ajay Mitchell: 18 pts. LeBron James: 27 pts (12-17 FG), 6 ast. Thunder 5-0 in 2026 playoffs, won without Jalen Williams (3rd straight game missed, Grade 1 hamstring). Lakers without Luka Doncic.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 2 result; Luka return; series outcome
+
+### STORY 2: Pistons 111, Cavaliers 101 — Cade 23/7, Harris 20/8 Power Detroit to Game 1 Win
+- **Tier:** 1
+- **Category:** Game Result / Series Momentum
+- **Key facts:** Detroit Pistons 111, Cleveland Cavaliers 101 (Game 1, East Conference Semifinals, May 5). Cade Cunningham: 23 pts, 7 ast. Tobias Harris: 20 pts, 8 reb. Mitchell: 23 pts; Harden: 22 pts (13 in Q4). Pistons ended 12-game playoff losing streak vs Cavaliers. First Pistons Game 1 playoff win since May 2008. Game 2: May 7, 7PM ET, Prime Video.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 2 result; Cade Cunningham series evolution
+
+### STORY 3: Luka Watch — ESPN Target May 7, Sources Say Game 4 (May 11) More Realistic
+- **Tier:** 2
+- **Category:** Injury Update
+- **Key facts:** Luka Doncic (Grade 2 left hamstring) out since April 2 — 33+ days. ESPN updated return target to May 7. Sources near Doncic point to Game 4 (May 11). Still no full-speed running or contact work. Lakers trail 0-1 to Thunder.
+- **Status:** FOLLOW UP (from 2026-05-05)
+- **Follow-up ideas:** Luka return game; Lakers recovery path
+
+### STORY 4: Knicks vs. 76ers Game 2 Preview — Embiid Must Bounce Back at MSG
+- **Tier:** 1
+- **Category:** Game Preview
+- **Key facts:** Knicks lead 1-0 (137-98 Game 1). Game 2: May 6, 7:10PM ET, MSG, ESPN. Embiid 3-11, 14 pts in G1. 76ers 41% FG, 19 turnovers. Brunson 35 in G1 (27 in 1H). Knicks won 4 straight playoff games by 16, 29, 51, 39 pts. Knicks -6.5.
+- **Status:** FOLLOW UP (from 2026-05-05)
+- **Follow-up ideas:** Game 2 result; Embiid bounce-back narrative
+
+### STORY 5: Wolves vs. Spurs Game 2 Preview — San Antonio Needs Answers for Edwards
+- **Tier:** 2
+- **Category:** Game Preview
+- **Key facts:** Wolves lead 1-0 (104-102 thriller G1). Edwards 18 pts (11 Q4) off bench. Wemby 12-block all-time record. Game 2: May 6, 9:30PM ET, ESPN, AT&T Center.
+- **Status:** FOLLOW UP (from 2026-05-05)
+- **Follow-up ideas:** Game 2 result; Wemby offensive development
