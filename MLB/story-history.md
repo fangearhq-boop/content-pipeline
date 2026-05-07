@@ -5,6 +5,39 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-07
+
+### Story 1: Cubs Walk-Off 3-Peat — 8-Game Streak, 14 Straight at Wrigley
+- **Angle:** FOLLOW UP. Cubs 7, Reds 6 (10 inn.) May 6. Busch bases-loaded walk off Burke in 10th. 8-game overall win streak. 14-game Wrigley streak (longest since 2008). 3 consecutive walk-offs vs Reds (first since 1943). 24-12 record, NL Central leaders 2.5 GB Cardinals. 18-3 in last 21 games. 6 walk-offs in 37 games (30-year franchise first).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Wrigley streak record chase; Cubs NL Central lead
+
+### Story 2: HR Race — Judge and Murakami at 14, Álvarez and Rice at 12
+- **Angle:** FOLLOW UP (May 6 Story 5). Judge (NYY) 14 HR; Murakami (CWS) 14 HR; Álvarez (HOU) 12 HR; Rice (NYY) 12 HR. Murakami: all 14 XBH are HRs (MLB record since 1900; prev. 10 by Dae-ho Lee 2016). Álvarez: MLB-best OPS 1.245, leading RBIs. Rice: 12 HRs, 4th in MLB.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Who takes the lead this week?; Judge path to career 400 HRs
+
+### Story 3: Cardinals Surge — Jordan Walker Breakout, NL Central Chase
+- **Angle:** FOLLOW UP (May 6 Story 4, May 3 Story 4). Walker: .308 BA, 10 HR, 27 RBI, 97.1 mph exit velo (MLB No. 1), 70% hard-hit rate (2nd). Cardinals 2nd NL Central, 2.5 GB Cubs. Won 4 straight heading into May 6.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Walker All-Star case; Cardinals NL Central tightening
+
+### Story 4: Tarik Skubal Recovery — Best-Case August, Tigers Rotation Depleted
+- **Angle:** FOLLOW UP (May 6 Story 6). Best-case: early August return. More likely: late August/early September. Rotation: Valdez, Flaherty, Montero, Madden. Also out: Mize (IL), Verlander (unavailable), Olson (out for season). Two-time Cy Young winner.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Trade deadline rotation target; Tigers record without Skubal
+
+### Story 5: Braves 25-11 — MLB's Best Record, Deep MVP-Level Lineup
+- **Angle:** FOLLOW UP. Lost to Nationals 11-4 on May 6 but 25-11, NL East lead 8+ games. Olson, Baldwin, Albies, Harris II all MVP-caliber. Rotation/bullpen both top-5 NL ERA. MLB No. 1 power ranking.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Braves pitching sustainability; NL playoff seeding; Baldwin breakout
+
+### Story 6: May Milestone Watch
+- **Angle:** EVERGREEN. Schwarber 350 HRs (April 30). Judge ~20 from career 400. Chapman passed Gossage for 2nd all-time relief Ks (1,341 on April 26). Murakami 14 XBH all HRs (record).
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+---
+
 ## 2026-05-06
 
 ### Story 1: De La Cruz 2-HR Night Sets Reds Switch-Hitter Record — Beats Rays 12-6
