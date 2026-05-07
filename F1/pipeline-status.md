@@ -1,6 +1,20 @@
 ## Last Run
-- **Date**: 2026-05-06
+- **Date**: 2026-05-07
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-05-07
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 5 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-07.xlsx (5 posts) + f1fr-postplanner-tobi-2026-05-07.xlsx (5 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-07/review-dashboard.html (25 items)
+- **Notes:** Antonelli 100 pts leads championship (3 wins from 3 poles — unprecedented in F1 history; youngest champion leader at 19). Red Bull Miami upgrade halved weight deficit (~30kg to ~15kg over 768kg min); staff "smiling" again; full fix expected summer. Canada GP (May 22-24) sprint format — first sprint of 2026; McLaren's Miami upgrade suits low-drag Montreal; Antonelli 49-pt lead over Norris, sprint could compress. Hamilton confirmed no simulator for Canada (best result P3 China = no sim prep; correlation poor). Verstappen 7th/26 pts/74 behind; exit clause widely reported; summer fix his best hope.
+- **Championship standings (after Miami, R4):** Antonelli 100, Russell 80, Leclerc 59, Norris 51, Hamilton 51, Verstappen 26. Mercedes 180 constructors, Ferrari 110, McLaren ~94.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ## Pipeline Run Log
 

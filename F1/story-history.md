@@ -1328,3 +1328,42 @@
 - **Key facts:** Norris 51 pts, 49 behind Antonelli. Sprint weekend = max ~34 pts. One good Canada + one bad Antonelli weekend drops gap to ~25 pts. Miami upgrade "completely new aerodynamics." Norris explicitly targeting title (2024 McLaren comeback blueprint).
 - **Status:** FOLLOW UP (from 2026-05-05 Norris analysis)
 - **Follow-up ideas:** Canada qualifying/race; championship gap movement
+
+---
+
+## 2026-05-07
+
+### STORY 1: Antonelli at 19 — The Historic Season Stunning Formula 1
+- **Tier:** 1
+- **Category:** Championship Analysis / Feature
+- **Key facts:** Antonelli 100 pts after 4 races. Three wins from three poles — first in F1 history. Youngest championship leader in F1 history (19 years, 7 months, 4 days at Japan GP). Matched Senna and Schumacher: consecutive poles in first three starts. Held off Norris at Miami. Russell 80 pts (2nd). Mercedes 180 constructors.
+- **Status:** FOLLOW UP (from 2026-05-05)
+- **Follow-up ideas:** First career setback; Canada performance
+
+### STORY 2: Red Bull Miami Upgrade "Halved" Weight Deficit
+- **Tier:** 1
+- **Category:** Technical Analysis
+- **Key facts:** Miami upgrade package "halved" RB22 excess weight (from ~30kg to ~15kg over 768kg minimum). New parts look identical, weigh less. Red Bull staff "smiling" again. Full fix still summer/new chassis. Verstappen 26 pts, 74 behind Antonelli. Cost cap complicates 2026 fix + 2027 development.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Summer chassis update; Canada result
+
+### STORY 3: Canada Sprint Weekend — Championship Compression Opportunity
+- **Tier:** 1
+- **Category:** Race Preview / Strategy
+- **Key facts:** Canadian GP May 22-24, Circuit Gilles Villeneuve, sprint format. ~34 pts available. Antonelli leads Norris by 49. McLaren's Miami upgrade (new floor/bodywork/rear wing/brake ducts) suits low-drag Montreal. Verstappen historically strong at Montreal.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Canada qualifying/race results; McLaren pace vs Mercedes
+
+### STORY 4: Hamilton Goes Sim-Free for Canada
+- **Tier:** 2
+- **Category:** Driver Strategy
+- **Key facts:** Hamilton confirmed: no Ferrari simulator before Canadian GP. Correlation between sim and real track is poor. Best result P3 China = no sim prep (back-to-back weekend). Miami = heavy sim, struggled. "Car feels different when you get to the track." Hamilton 51 pts, joint P4.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Canada result vs sim-free approach
+
+### STORY 5: Verstappen's Title Math — 74 Points Back, Exit Clause Question
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Verstappen 26 pts, 7th in championship, 74 behind Antonelli after R4. Miami upgrades halved weight deficit. Summer fix remains target. Exit clause widely reported if too far outside top 2. Currently 5 places outside that threshold.
+- **Status:** FOLLOW UP (from 2026-05-05)
+- **Follow-up ideas:** Canada result; exit clause activation; summer chassis

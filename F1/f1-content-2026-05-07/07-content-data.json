@@ -1,0 +1,240 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-07",
+  "compiled_at": "2026-05-07T11:20:42.767375+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli at 19 — The Historic Season That Is Stunning Formula 1",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Three races. Three poles. Three wins.\n\nNo driver in F1 history had ever done that before Kimi Antonelli — not Senna, not Schumacher, not Hamilton.\n\nHe's 19 years old. He leads the championship by 20 points. This season is something special. #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "No driver in the history of Formula 1 had ever won each of their first three pole positions as race victories — until this year.\n\nKimi Antonelli, 19 years old, has won in China, Japan, and Miami. All three from pole position. All three converted into wins. He matched Ayrton Senna and Michael Schumacher by taking consecutive poles in his first three F1 starts — and then he went one further and did what neither of them ever did.\n\nHe's also the youngest championship leader in Formula 1 history, having claimed that record at the Japanese Grand Prix. His 100 points lead the championship by 20 over Mercedes teammate George Russell.\n\nIn Miami, Antonelli faced a genuine challenge from Lando Norris — the reigning world champion, a proven race closer, and someone who knows exactly how to hunt down a leader late in a race. Antonelli held firm.\n\nThis 2026 season is three months old. Kimi Antonelli is already 19 years into his life and already rewriting the record books.\n\nWhat record do you think he'll break next?",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-antonelli-historic-f1-season.html",
+        "headline": "Three Wins, Three Poles, History at 19: Why Kimi Antonelli Is Already Rewriting F1's Record Books",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Historic Season\n\n**Image 1 (Social — 1080x1350)**\n- imagn_search: \"Kimi Antonelli Mercedes\"\n- Usage: X post + Facebook long-form\n- Status: not_started\n\n**Image 2 (Article Hero — 1200x630)**\n- imagn_search: \"Kimi Antonelli Mercedes\"\n- Usage: Article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Historic Season\n**Sources:**\n- Formula1.com: \"Antonelli overjoyed with record-breaking Miami win but knows 'the road is still long'\"\n- Al Jazeera: \"Kimi Antonelli wins Miami GP to extend F1 title lead\"\n- NBC News: \"Kimi Antonelli becomes youngest Formula 1 championship leader in history\"\n- Formula1.com: \"From World Champions to title contenders — 10 youngest drivers to lead F1 championship\"\n- Roundtable.io: \"Every F1 Record Kimi Antonelli Has Broken Since His Debut — Updated After Miami 2026\"\n**Verified Facts (HIGH confidence — multiple sources):**\n- Antonelli leads 2026 F1 championship with 100 points after 4 races\n- Three consecutive wins: Chinese GP, Japanese GP, Miami GP\n- First driver in F1 history to win each of first three career pole positions as victories\n- Youngest championship leader in F1 history: 19 years, 7 months, 4 days (at Japan GP)\n- Matched Senna and Schumacher: consecutive pole positions in first three F1 starts\n- Russell second in championship at 80 points\n- Held off Norris in late Miami race battle\n**Freshness:** Ongoing championship narrative; new record context added at Miami (May 3-4, 2026).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Red Bull Miami Upgrade \"Halved\" the Weight Problem — Verstappen Sees Summer Hope",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Red Bull staff are reportedly \"smiling\" again after Miami upgrades halved their excess weight problem.\n\nFrom ~30kg overweight to ~15kg. Progress. But still a significant gap to the minimum.\n\nVerstappen is 74 points back. Summer can't come fast enough. #F1 #RedBull",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "There are finally signs of life at Red Bull.\n\nHeading into the Miami Grand Prix, the RB22 was reportedly carrying approximately 30 kilograms of excess weight — well over the 768kg minimum set by F1's 2026 regulations. That translated to an estimated 0.9 seconds per lap of pure performance deficit. It was a crisis.\n\nThen came the Miami upgrades. Red Bull brought a significant package of components designed to look identical to the outgoing parts but weigh substantially less. The result? Sources report the excess weight was roughly halved — bringing the deficit down to an estimated 15kg range.\n\nRed Bull staff, by multiple accounts, have been \"smiling\" again inside the paddock since Miami.\n\nBut here's the honest truth: halved is not solved. At roughly 0.03 seconds per kilogram of excess weight, the gap is still measurable and meaningful. A full resolution isn't expected until summer — possibly a new chassis.\n\nFor Max Verstappen, currently seventh in the championship with 26 points and 74 behind Antonelli, summer can't come soon enough.\n\nAre you hopeful for Verstappen, or has this season already slipped away?",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-02-red-bull-miami-upgrade-weight-halved.html",
+        "headline": "Red Bull's Miami Upgrade Halved Their Weight Problem — But the War Isn't Won",
+        "word_count": 557
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Bull Miami Upgrade\n\n**Image 1 (Social — 1080x1350)**\n- imagn_search: \"Max Verstappen Red Bull\"\n- Usage: X post + Facebook long-form\n- Status: not_started\n\n**Image 2 (Article Hero — 1200x630)**\n- imagn_search: \"Max Verstappen Red Bull\"\n- Usage: Article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Red Bull Miami Upgrade Update\n**Sources:**\n- F1Oversteer: \"Red Bull are 'smiling' as Miami Grand Prix upgrades 'halved' weight issues\"\n- F1Oversteer: \"Red Bull ready 'central' Miami Grand Prix upgrades to address 'fundamental' RB22 weight disadvantage\"\n- GPFans: \"Red Bull car is 30kg overweight? F1 fan 'exposes FIA data' in shocking images\"\n- ReadMotorsport: \"Why Red Bull Racing upgrade lifeline may not arrive in 2026\"\n- F1Oversteer: \"Verstappen may have to wait 'until summer' for Red Bull to fix RB22 weight issue\"\n**Verified Facts (HIGH confidence — multiple sources):**\n- Red Bull brought significant upgrade package to Miami specifically to address weight\n- Upgrades \"halved\" the excess weight deficit (from ~30kg to approximately ~15kg range)\n- New components designed to look \"identical\" to previous parts but weigh significantly less\n- Red Bull staff described as \"smiling\" after Miami upgrades\n- Full weight resolution (complete fix) expected at summer / possible new chassis\n- Verstappen 26 pts, 7th in championship, 74 behind Antonelli\n- Cost cap creates challenge for simultaneous 2026 fix + 2027 development\n**MEDIUM confidence:**\n- The \"30kg\" original overweight figure came via fan leak of FIA data, not officially confirmed (though Red Bull's technical director Pierre Wache did confirm \"weight challenges\")\n**Freshness:** Miami upgrade results are new post-Race 4 development.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Canada's Sprint Weekend — How the Format Could Compress the Championship",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Canada is a sprint weekend. Max points available: 34+.\n\nAntonelli leads Norris by 49. A perfect Canada for McLaren and a bad one for Mercedes could cut that in half.\n\nCircuit Gilles Villeneuve. May 22-24. The championship could look very different by Sunday. #F1 #CanadianGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Canadian Grand Prix is set for May 22-24 at Circuit Gilles Villeneuve in Montreal — and it's a sprint weekend.\n\nThat matters enormously for the championship.\n\nIn a sprint weekend, a maximum of around 34 points are available — 25 for the Grand Prix, 8 for the sprint, plus fastest lap bonuses. Kimi Antonelli leads Lando Norris by 49 points. A perfect sprint weekend for McLaren — Norris wins the GP, wins the Sprint — combined with a poor weekend for Mercedes could cut that gap by 25+ points in a single event.\n\nMcLaren have reason for genuine optimism at Montreal. The massive upgrade package they debuted in Miami — new floor, bodywork, rear wing, and brake ducts — is ideally suited to Circuit Gilles Villeneuve's low-drag profile. The circuit rewards straight-line efficiency and braking confidence, two areas where McLaren believe their improved package excels.\n\nMercedes will still be favorites. The Circuit Gilles Villeneuve suits their power unit deployment too. But this is the first sprint weekend of 2026, and it's also the first time someone might meaningfully challenge Antonelli's lead.\n\nWho wins the Canadian Grand Prix — Antonelli or Norris?",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-canada-sprint-format-championship.html",
+        "headline": "Canada's Sprint Weekend Is the First Big Chance to Shake Up the 2026 F1 Championship",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canada Sprint Format\n\n**Image 1 (Social — 1080x1350)**\n- imagn_search: \"Lando Norris McLaren\"\n- Usage: Facebook post\n- Status: not_started\n\n**Image 2 (Article Hero — 1200x630)**\n- imagn_search: \"Circuit Gilles Villeneuve Formula 1\"\n- Usage: Article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Canada Sprint Format\n**Sources:**\n- Formula1.com: Canadian GP 2026 race page\n- GPFans: \"Next F1 race: Updated 2026 schedule with dates and times for the Canadian Grand Prix\"\n- F1-fansite.com: \"Canadian GP 2026 Preview: Odds, Stats and Main Contenders\"\n- Sky Sports: \"Lando Norris: McLaren driver says champions won't give up on F1 2026 title push\"\n- Sky Sports: \"Miami GP: Kimi Antonelli holds off Lando Norris to claim third successive win\"\n**Verified Facts (HIGH confidence — multiple sources):**\n- Canadian GP: May 22-24, 2026, Circuit Gilles Villeneuve, Montreal — Sprint format\n- Sprint weekend format: Sprint Qualifying Friday, Sprint Race Saturday, Grand Prix Sunday\n- McLaren's Miami upgrade includes new floor, bodywork, rear wing, brake ducts (described as \"completely new from aerodynamic standpoint\")\n- Circuit Gilles Villeneuve: low-drag characteristics, long straights, heavy braking zones\n- Antonelli leads championship 100-80 over Russell; Norris 51 pts, 49 behind\n**MEDIUM confidence:**\n- Sprint weekend max points = ~34 pts (25 race + 8 sprint + FL). Need to verify exact 2026 sprint point allocations — format may vary. Using conservative range.\n**Freshness:** Canada is the next race (May 22-24); sprint format confirmed for this round.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Hamilton Goes Sim-Free for Canada — His Biggest Gamble Yet",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lewis Hamilton will skip the Ferrari simulator before the Canadian GP.\n\nHis reasoning: China (no sim prep) was his best 2026 race. Miami (heavy sim prep) was not.\n\n\"The car feels different when you get to the track.\" He's betting the sim is the problem. #F1 #Ferrari",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "Lewis Hamilton has made a radical decision ahead of the Canadian Grand Prix: he won't be using the Ferrari simulator.\n\nThis isn't a casual choice in modern Formula 1, where teams rely heavily on simulation data to plan setups, practice starts, and refine strategy. For Hamilton to explicitly say \"I won't do it\" before a race weekend is a significant signal.\n\nHis reasoning is data-driven. Hamilton says the correlation between Ferrari's simulator and what he experiences on the real track is poor — the car behaves differently than the sim suggests it will. The clearest example? His best 2026 race result was P3 in China — which came in a back-to-back weekend with no simulator prep available. Then at Miami, he went in heavily prepared via the simulator. His words: \"We go on it and then get to the track and the car feels different.\"\n\nThe implication is that the sim prep has actually been working against him — building muscle memory and setups that don't translate.\n\nHamilton is still attending factory meetings and staying involved in technical discussions. He's just stepping away from the sim specifically.\n\nIf this approach works in Canada, it asks a deeper question: what does it mean for Ferrari's overall simulator program?\n\nDo you think this gamble will pay off for Hamilton?",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-hamilton-sim-free-canada-gamble.html",
+        "headline": "Hamilton's Simulator Gamble: Skipping Ferrari Prep for Canada in Hopes of Replicating China",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Sim-Free Canada\n\n**Image 1 (Social — 1080x1350)**\n- imagn_search: \"Lewis Hamilton Ferrari\"\n- Usage: Facebook post\n- Status: not_started\n\n**Image 2 (Article Hero — 1200x630)**\n- imagn_search: \"Lewis Hamilton Ferrari\"\n- Usage: Article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton Sim-Free Canada\n**Sources:**\n- MotorsportWeek: \"Lewis Hamilton confirms radical Ferrari F1 decision for Canadian GP\"\n- PlanetF1: \"Lewis Hamilton ditches Ferrari simulator as new plan revealed\"\n- The-Race: \"Why Hamilton thinks Ferrari simulator is hurting him right now\"\n- Crash.net: \"Why Lewis Hamilton is ditching Ferrari F1 simulator after worrying claim\"\n- GPFans: \"Lewis Hamilton takes issue with Ferrari F1 preparation: 'It's not helping'\"\n**Verified Facts (HIGH confidence — multiple sources):**\n- Hamilton confirmed he will not use Ferrari simulator in preparation for Canadian GP\n- His stated reason: simulator correlation with real track behavior is poor (\"sending me in the wrong direction\")\n- His best 2026 race result was P3 in China — which was a back-to-back weekend with no simulator prep time\n- Hamilton acknowledged the correlation issue: \"ultimately it's always a matter of correlation — we go on it and then get to the track and the car feels different\"\n- Hamilton 51 pts, joint P4 in standings\n**MEDIUM confidence:**\n- \"Ferrari are giving up 3-4 tenths straight-line speed\" — single source reference; specific figure unverified but widely reported direction of Ferrari vs Mercedes gap\n**Freshness:** Hamilton's statement came May 6, 2026 — day before this pipeline.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Verstappen's Title Math — 74 Points Back and the Exit Clause Question",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Max Verstappen is 7th in the 2026 F1 championship with 26 points.\n\nHe's 74 points behind the leader after just 4 races.\n\nRed Bull halved their weight problem at Miami — but the summer fix may be Verstappen's last real hope of saving this season. #F1 #RedBull",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "After four races of the 2026 Formula 1 season, Max Verstappen sits seventh in the Drivers' Championship with 26 points.\n\nKimi Antonelli has 100. The gap is 74 points. The reigning three-time world champion is, by any measure, off the pace.\n\nThe RB22's weight problem was always going to make the early season difficult. Red Bull brought upgrades to Miami that halved the deficit. But halved still means a significant disadvantage — and the full solution isn't expected until summer, possibly requiring a new chassis that's constrained by F1's cost cap rules.\n\nVerstappen reportedly has a performance-based exit clause in his Red Bull contract — an option to leave if his championship position falls too far outside the top two. He's currently seven places outside that threshold. While the clause's specific terms remain private, the general parameters have been widely reported.\n\nThe questions around Verstappen in 2026 have become surprisingly serious: Can he reach the summer break with enough points to mount a realistic title challenge? Does Red Bull deliver on their upgrade promises? And if neither happens, what does Max do next?\n\nThe four-time champion is not done. But this season has already tested his patience in ways that the dominant 2022-2025 era never did.\n\nWhat do you think happens with Verstappen and Red Bull after this season?",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-verstappen-exit-clause-title-math.html",
+        "headline": "74 Points Back and the Exit Clause Question: Where Does Verstappen's 2026 Season Go from Here?",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n**Image 1 (Social — 1080x1350)**\n- imagn_search: \"Max Verstappen Red Bull\"\n- Usage: Facebook post\n- Status: not_started\n\n**Image 2 (Article Hero — 1200x630)**\n- imagn_search: \"Max Verstappen Red Bull\"\n- Usage: Article hero\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause and Title Math\n**Sources:**\n- F1Oversteer: \"Verstappen may have to wait 'until summer' for Red Bull to fix RB22 weight issue\"\n- ReadMotorsport: \"Why Red Bull Racing upgrade lifeline may not arrive in 2026\"\n- Total Motorsport: \"F1 2026 Championship Standings after Miami GP\"\n- RacingNews365: \"Adjusted 2026 F1 championship standings after huge Miami Grand Prix penalty\"\n**Verified Facts (HIGH confidence — multiple sources):**\n- Verstappen 26 pts, 7th in Drivers' Championship after 4 races\n- 74 points behind championship leader Antonelli after R4\n- Red Bull Miami upgrades halved weight deficit; full fix still summer at earliest\n**MEDIUM confidence:**\n- Verstappen \"exit clause\" if outside top 2 — widely reported but specific terms not officially disclosed; treating as MEDIUM\n- \"Verstappen doesn't enjoy\" new 2026 cars — reported from single source\n**Freshness:** Standings are post-Miami (R4); ongoing championship narrative.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
