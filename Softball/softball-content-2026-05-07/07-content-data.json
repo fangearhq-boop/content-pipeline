@@ -1,0 +1,350 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-07",
+  "compiled_at": "2026-05-07T10:13:23.906411+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ole Miss 4, Tennessee 1 — Lady Vols Eliminated in SEC Tournament Upset",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "UPSET ALERT 🚨\n\nNo. 13 Ole Miss just eliminated No. 5 Tennessee from the SEC Tournament.\n\nFinal: Ole Miss 4, Tennessee 1.\n\nTwo days after Karlyn Pickens went No. 1 overall in the AUSL Draft.\n\n#SECSoftball #NCAASoftball #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Karlyn Pickens: No. 1 AUSL Draft pick on Monday.\nEliminated from the SEC Tournament on Wednesday.\n\nThat's college softball for you. Nobody is safe.\n\nTennessee's season is over. Ole Miss plays on. 🥎\n\n#SECSoftball #NCAASoftball #TennesseeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball",
+            "#NCAASoftball",
+            "#TennesseeSoftball"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThe 2026 SEC Tournament just delivered its biggest shock yet.\n\nOn Wednesday, No. 13 seed Ole Miss eliminated No. 5 Tennessee 4-1 in the second round. The Lady Vols — one of the SEC's marquee softball programs — are going home early. Tennessee had earned a first-round bye as the No. 5 seed, but Ole Miss was relentless. Pitcher Emilee Boyer had been dominant all tournament, throwing a complete-game shutout in the first round against South Carolina and then limiting Tennessee in a 4-1 statement win.\n\nThe timing makes this one sting even more for Tennessee. Karlyn Pickens — the ace who built herself into one of the most dominant pitchers in the country with a 1.44 ERA and 154 strikeouts this season — was selected No. 1 overall in the AUSL Draft by the Carolina Blaze just two days before the loss. Her college career ends not with a championship run, but with an upset elimination.\n\nOle Miss advances to the quarterfinals. Tennessee heads home.\n\nDoes this change where you think Tennessee lands in the NCAA Tournament bracket? Should they still be a top-16 national seed?\n```",
+        "image_caption": "```\nNo. 13 Ole Miss eliminates No. 5 Tennessee 4-1 at the SEC Tournament. Karlyn Pickens' college career is over. 🥎\n```",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-ole-miss-eliminates-tennessee-sec-tournament.html",
+        "headline": "Ole Miss Stuns Tennessee 4-1 — Lady Vols Eliminated at SEC Tournament",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ole Miss 4, Tennessee 1 — SEC Tournament Upset\n\n**Social Image (1080×1350)**\n- Visual Description: Tennessee pitcher in the circle, or Tennessee batter looking dejected post-game\n- Photo Search Terms:\n  1. Karlyn Pickens Tennessee\n  2. Tennessee Lady Vols softball\n  3. Emilee Boyer Ole Miss\n  4. Ole Miss Rebels softball\n- Text Overlay Copy:\n  - Headline: \"UPSET\"\n  - Subtitle: \"Ole Miss Eliminates No. 5 Tennessee, 4-1\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #CE1126 (Ole Miss red)\n- Composition Notes: Dramatic, slightly dark mood. Headline \"UPSET\" in large bold white text dominant. Subtitle in Ole Miss red to signal the upset brand color.\n\n**Article Hero (1200×630)**\n- Photo Search Terms: Karlyn Pickens Tennessee\n- Text: \"Ole Miss Stuns Tennessee 4-1 — Lady Vols Eliminated at SEC Tournament\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ole Miss 4, Tennessee 1 — SEC Tournament Upset\n**Decision:** NEW STORY\n**Tier:** 1\n**Freshness:** Game played May 6, 2026 (second round, SEC Tournament, Lexington, KY)\n**Sources:**\n- Rocky Top Insider: https://www.rockytopinsider.com/2026/05/06/tennessee-softball-bounced-from-sec-tournament-in-upset-second-round-loss/\n- Yahoo Sports / MSN: https://www.msn.com/en-us/sports/mlb/sec-softball-tournament-2026-ole-miss-faces-tennessee-in-the-second-round/ar-AA22wD5P\n- NCAA.com: https://www.ncaa.com/news/softball/article/2026-05-06/2026-sec-softball-tournament-bracket-schedule-scores\n- Rocky Top Insider (Pickens draft): https://www.rockytopinsider.com/2026/05/04/tennessee-softball-pitcher-karlyn-pickens-selected-no-1-overall-in-ausl-draft/\n**Key Facts (HIGH confidence):**\n- Ole Miss (No. 13 seed) defeated No. 5 Tennessee 4-1 on May 6, 2026\n- This is the second round of the SEC Tournament (Tennessee earned a bye from first round)\n- Tennessee eliminated; this ends their season in the SEC Tournament\n- Pitcher Emilee Boyer had a complete-game shutout for Ole Miss in first round vs. South Carolina (2-0); carried momentum into Tennessee matchup\n- Karlyn Pickens was drafted No. 1 overall by Carolina Blaze in AUSL Draft on May 4, 2026 (just 2 days before the loss)\n- Pickens 2026 stats: 1.44 ERA, 154 strikeouts, 13-7 record",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Auburn 11, Texas A&M 8 — Tigers Stun Aggies With 5 HRs, Ratliff Walk-Off",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Auburn went 4-20 in SEC play this season.\n\nThen they went to the SEC Tournament and hit FIVE HOME RUNS against Texas A&M.\n\nFinal: Auburn 11, A&M 8.\n\nAva Ratliff — 3-run walk-off in the 7th. 🔥\n\n#AuburnSoftball #SECSoftball #NCAASoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#AuburnSoftball",
+            "#SECSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Two outs. Bottom — wait, TOP of the 7th. Game tied at 8.\n\nFreshman Ava Ratliff steps up.\n\nTHREE-RUN HOME RUN. GAME OVER.\n\nAuburn stuns Texas A&M 11-8 at the SEC Tournament. 🥎\n\n#AuburnSoftball #SECSoftball #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#AuburnSoftball",
+            "#SECSoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nYou cannot write a better tournament storyline than this.\n\nAuburn finished the 2026 SEC regular season at 4-20 in conference play — a brutal stretch that left the Tigers far outside the at-large conversation for the NCAA Tournament. But come tournament time in Lexington? Auburn showed up as a completely different team.\n\nOn Wednesday against Texas A&M, Auburn hit five home runs. McKaela Walker, AnnaLea Adams, Ma'Nia Womack, and Haven Roebuck all went deep. The Aggies clawed back to tie the game at 8-8 across the fifth and sixth innings — and then freshman Ava Ratliff stepped to the plate in the top of the seventh with two outs and the game on the line.\n\nThree-run home run. Ballgame. Final: Auburn 11, Texas A&M 8.\n\nFor A&M, this loss is genuinely painful. Their hopes for hosting an NCAA Regional take a hit when the selection committee reviews the bracket. For Auburn, this is the kind of moment that defines a team's year — regardless of what came before it.\n\nAuburn faces No. 3 Florida in the quarterfinals. The Tigers are not done yet.\n\nWho wins: Auburn or Florida? 🐯🐊\n```",
+        "image_caption": "```\nAuburn (4-20 in conference) just beat Texas A&M 11-8 with FIVE home runs. Ava Ratliff's walk-off 3-run shot in the 7th ended it. 🔥\n```",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-auburn-five-hr-upset-texas-am-sec-tournament.html",
+        "headline": "Auburn's 5-HR Explosion Stuns A&M 11-8 — Ratliff Walk-Off Sends Tigers to SEC Quarterfinals",
+        "word_count": 535
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Auburn 11, Texas A&M 8 — Five HRs, Ratliff Walk-Off\n\n**Social Image (1080×1350)**\n- Visual Description: Auburn batter mid-swing or celebrating a home run\n- Photo Search Terms:\n  1. Ava Ratliff Auburn\n  2. Auburn Tigers softball\n  3. Texas A&M softball\n  4. McKaela Walker Auburn\n- Text Overlay Copy:\n  - Headline: \"5 HOME RUNS\"\n  - Subtitle: \"Auburn Stuns A&M 11-8 at SEC Tournament\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #E87722 (Auburn orange)\n- Composition Notes: Batter at peak of swing. High-energy shot. Bold stat \"5 HOME RUNS\" should be the visual hook.\n\n**Article Hero (1200×630)**\n- Photo Search Terms: Auburn Tigers softball\n- Text: \"Auburn's 5-HR Explosion Stuns A&M 11-8 — Ratliff Walk-Off Caps SEC Upset\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Auburn 11, Texas A&M 8 — Five HRs, Ratliff Walk-Off\n**Decision:** NEW STORY\n**Tier:** 1\n**Freshness:** Game played May 6, 2026 (second round, SEC Tournament)\n**Sources:**\n- The Auburn Plainsman: https://www.theplainsman.com/article/2026/05/auburn-upsets-texas-am-advances-to-sec-quarterfinals\n- WAFF: https://www.waff.com/2026/05/06/auburn-softball-stuns-aggies-advances-sec-tournament-quarterfinals/\n- AOL Sports: https://www.aol.com/articles/auburn-upsets-texas-m-sec-182143541.html\n- Yahoo Sports: https://sports.yahoo.com/articles/texas-m-softball-regional-hosting-202738373.html\n**Key Facts (HIGH confidence):**\n- Auburn defeated Texas A&M 11-8 on May 6, 2026\n- Auburn hit five home runs: McKaela Walker, AnnaLea Adams, Ma'Nia Womack, Haven Roebuck, Ava Ratliff\n- Ava Ratliff hit a two-out, three-run home run in the top of the 7th inning to put Auburn ahead for good (after A&M tied game at 8-8)\n- Auburn finished conference play 4-20 but advanced to SEC quarterfinals\n- A&M's loss hurts their super regional hosting hopes for NCAA Tournament\n- Auburn next faces No. 3 Florida in quarterfinals",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Oklahoma SEC Quarterfinal Preview — No. 1 Sooners vs. Georgia Tonight at 7 PM CT",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "No. 1 Oklahoma (48-7) opens the SEC Tournament quarterfinals TONIGHT.\n\nOpponent: No. 9 Georgia — who just knocked off LSU 7-3.\n\nTime: 7 PM CT | Lexington, KY\n\nThe Sooners are the top seed. Tournament time. 🥎\n\n#BoomerSooner #SECSoftball #NCAASoftball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#SECSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThe No. 1 team in the country takes the field tonight — and it matters.\n\nOklahoma (48-7) enters the 2026 SEC Tournament quarterfinals as the top overall seed after winning the SEC Regular Season Championship with a 20-4 conference record. The Sooners earned a bye through the first two rounds. Tonight, they face No. 9 Georgia at 7 PM CT at John Cropp Stadium in Lexington, Kentucky.\n\nGeorgia got here by beating No. 8 LSU 7-3 in the first round. They are not a pushover. But this is still Oklahoma — the team that has been the country's No. 1 squad for the past four weeks running.\n\nThe storyline here is simple: Can anyone slow Oklahoma down as we approach the NCAA Tournament? The Sooners are built for this — deep lineup, proven pitching, and the experience of having navigated the SEC in their second year. Tonight is their first real test in Lexington.\n\nWatch at 7 PM CT. This is what tournament softball is all about.\n\nDo you think Oklahoma runs the table in Lexington?\n```",
+        "image_caption": "```\nNo. 1 Oklahoma opens SEC Tournament quarterfinals tonight vs. Georgia — 7 PM CT. Sooners are the top overall seed. 🥎 #BoomerSooner\n```",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-oklahoma-sec-quarterfinal-preview-georgia.html",
+        "headline": "No. 1 Oklahoma Opens SEC Quarterfinals Tonight vs. Georgia — What to Watch",
+        "word_count": 511
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma SEC Quarterfinal Preview\n\n**Social Image (1080×1350)**\n- Visual Description: Oklahoma pitcher in full wind-up or team celebrating\n- Photo Search Terms:\n  1. Oklahoma Sooners softball\n  2. Oklahoma softball pitcher\n- Text Overlay Copy:\n  - Headline: \"TONIGHT: 7 PM CT\"\n  - Subtitle: \"No. 1 Oklahoma vs. Georgia — SEC Quarterfinals\"\n  - Headline color: #FFD700 (gold)\n  - Subtitle color: #FFFFFF (white)\n- Composition Notes: Clean, game-day preview energy. Time prominently displayed.\n\n**Article Hero (1200×630)**\n- Photo Search Terms: Oklahoma Sooners softball\n- Text: \"No. 1 Oklahoma Opens SEC Quarterfinals Tonight vs. Georgia\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma SEC Quarterfinal Preview\n**Decision:** PREVIEW\n**Tier:** 2\n**Freshness:** Game scheduled today (May 7) at 7 PM CT, Lexington, KY\n**Sources:**\n- Oklahoma Athletics: https://soonersports.com/news/2026/5/6/sec-softball-tournament-primer\n- NFCA rankings: https://nfca.org/divnews/ncaa1/di-top-25-coaches-poll-5-5-26\n- Just Women's Sports: https://justwomenssports.com/reads/texas-softball-sec-softball-tournament-tennessee-karlyn-pickens-ncaa-seed-2026/\n**Key Facts (HIGH confidence):**\n- Oklahoma: No. 1 overall seed, 48-7, 2026 SEC Regular Season Champions\n- Oklahoma vs. No. 9 Georgia tonight at 7 PM CT, John Cropp Stadium, Lexington, KY\n- Georgia beat No. 8 LSU 7-3 in the first round\n- This is Oklahoma's second-ever SEC Tournament\n- Oklahoma won the SEC Regular Season title with a 20-4 conference record",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Nebraska 18-Game Win Streak — Huskers Enter Big Ten Tournament as No. 1 Seed",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Nebraska: 18-game win streak.\nNebraska: First-ever Big Ten Regular Season Champions.\nNebraska: No. 2 nationally. 43-6 on the season.\n\nThe Huskers open Big Ten Tournament play TODAY as the No. 1 seed.\n\nIs Nebraska a WCWS darkhorse? 👀\n\n#Huskers #BigTenSoftball #NCAASoftball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#BigTenSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nLet's talk about the hottest team in college softball right now.\n\nNebraska has won 18 consecutive games. That's the longest active win streak in Division I softball — and the second-longest in Huskers program history. Over this stretch, Nebraska (43-6) claimed the program's first-ever Big Ten Regular Season Championship, tied the Big Ten record for most conference wins in a single season, and climbed to No. 2 in the NFCA Top 25.\n\nNow they enter the Big Ten Tournament as the No. 1 seed in Bloomington. Nebraska has a first-round bye and opens Thursday in the quarterfinals. If you haven't been watching the Huskers this spring, it's time to start.\n\nThe conversation around this team is real: Nebraska is not just a Big Ten power — they are a legitimate WCWS contender. An 18-game win streak at the end of the regular season is the kind of momentum that carries programs deep into the postseason.\n\nCan Nebraska make a run at Oklahoma City? 🌽\n```",
+        "image_caption": "```\nNebraska: 18-game win streak. First-ever Big Ten Champs. No. 2 nationally. The Huskers open the Big Ten Tournament TODAY as the top seed. 🌽\n```",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-nebraska-18-game-win-streak-big-ten-tournament.html",
+        "headline": "Nebraska's 18-Game Win Streak Rolls Into the Big Ten Tournament",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska 18-Game Win Streak\n\n**Social Image (1080×1350)**\n- Visual Description: Nebraska batter or pitcher in action, Huskers uniform\n- Photo Search Terms:\n  1. Nebraska Huskers softball\n  2. Nebraska softball pitcher\n- Text Overlay Copy:\n  - Headline: \"18-GAME WIN STREAK\"\n  - Subtitle: \"Nebraska: No. 2 Nationally, Big Ten Champs\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #E41C38 (Huskers red)\n- Composition Notes: Big number \"18\" as a visual anchor. Confident, momentum energy.\n\n**Article Hero (1200×630)**\n- Photo Search Terms: Nebraska Huskers softball\n- Text: \"Nebraska's 18-Game Win Streak Headlines the Huskers' Historic Season\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nebraska 18-Game Win Streak\n**Decision:** NEW STORY\n**Tier:** 2\n**Freshness:** Win streak as of May 3 (swept Penn State doubleheader); Big Ten Tournament starts today\n**Sources:**\n- Nebraska Athletics: https://huskers.com/news/2026/05/6/huskers-open-postseason-at-big-ten-tournament\n- Big Ten: https://bigten.org/sb/article/59964/\n- SI.com: https://www.si.com/college/nebraska/softball/nebraska-softball-sweeps-penn-state-doubleheader-to-capture-big-ten-title-2026\n**Key Facts (HIGH confidence):**\n- Nebraska: 43-6 overall, 23-1 Big Ten (record conference wins in a season)\n- 18-game win streak — longest active in D-I, second-longest in program history\n- First-ever Big Ten Regular Season Title\n- No. 2 national ranking (NFCA Week 14)\n- Big Ten Tournament No. 1 seed; opens Thursday in quarterfinals vs. winner of Ohio State/Michigan",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Texas Tech 50-5 — First Team in D-I to 50 Wins Plays Big 12 Tournament Today",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Texas Tech has 50 wins.\n\nThat's the first D-I team to reach 50 in 2026.\n\nRecord: 50-5. Big 12 Regular Season Champs. No. 3 in the country.\n\nCanady threw a perfect game on Senior Day.\n\nToday: No. 1 seed in the Big 12 Tournament. 🔴⚫\n\n#TexasTechSoftball #Big12Softball #NCAASoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTechSoftball",
+            "#Big12Softball",
+            "#NCAASoftball"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nFifty wins. In May.\n\nTexas Tech is the first program in Division I softball to reach 50 wins in 2026 — finishing the regular season at 50-5 with a second consecutive Big 12 Regular Season Championship. At No. 3 nationally, the Red Raiders have been one of the three best teams in the country all year long.\n\nThe story of Texas Tech's season is built around elite pitching. Ace Canady — already one of the nation's premier arms — threw a complete-game perfect game on Senior Day last Saturday (May 2). That kind of dominance from your staff's best arm heading into the postseason is as encouraging a sign as any.\n\nTexas Tech enters the Big 12 Tournament as the No. 1 seed and defending champion, facing No. 8 Baylor today at 1:30 PM CT at Devon Park in Oklahoma City. If the Red Raiders run the table this week, they'll be one of the top national seeds when the NCAA Tournament bracket drops.\n\nCan Texas Tech complete the season with a Big 12 title and a deep NCAA Tournament run?\n```",
+        "image_caption": "```\nTexas Tech is the first D-I team to reach 50 wins in 2026. 50-5. Big 12 Champs. Big 12 Tournament No. 1 seed. Today: vs. Baylor. 🔴⚫\n```",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-texas-tech-50-wins-big-12-tournament.html",
+        "headline": "Texas Tech Reaches 50 Wins — First D-I Team to the Milestone in 2026",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech 50-5\n\n**Social Image (1080×1350)**\n- Visual Description: Texas Tech pitcher mid-delivery or batter celebrating\n- Photo Search Terms:\n  1. Texas Tech Red Raiders softball\n  2. Canady Texas Tech\n- Text Overlay Copy:\n  - Headline: \"50 WINS\"\n  - Subtitle: \"Texas Tech: First D-I Team to 50 Wins in 2026\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #CC0000 (Tech red)\n- Composition Notes: Big number \"50\" as the visual centerpiece. Milestone energy.\n\n**Article Hero (1200×630)**\n- Photo Search Terms: Texas Tech Red Raiders softball\n- Text: \"Texas Tech Hits 50 Wins — First D-I Program to the Milestone in 2026\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech 50-5\n**Decision:** NEW STORY\n**Tier:** 2\n**Freshness:** First team to 50 wins; tournament starts today\n**Sources:**\n- Big 12 Conference: https://big12sports.com/news/2026/5/3/2026-big-12-softball-tournament-presented-by-allstate-bracket-unveiled.aspx\n- Texas Tech Athletics: https://texastech.com/news/2026/5/2/softball-no-2-4-red-raiders-shine-on-senior-day-behind-canady-perfect-game\n- KCBD: https://www.kcbd.com/2026/05/06/no-1-seeded-red-raiders-ready-defend-big-12-softball-title/\n**Key Facts (HIGH confidence):**\n- Texas Tech: 50-5 overall, 21-3 Big 12 — first team in D-I to reach 50 wins in 2026\n- Big 12 Regular Season Champions (second straight title)\n- No. 3 national ranking (NFCA Week 14)\n- Big 12 Tournament No. 1 seed; faces No. 8 Baylor at 1:30 PM CT today, Devon Park, Oklahoma City\n- Ace pitcher Canady threw a perfect game on Senior Day (May 2)\n- Defending Big 12 Tournament champions",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "NFCA Week 14 Rankings — Oklahoma No. 1, Nebraska No. 2, Texas Tech No. 3",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "NFCA Top 25 — Week 14:\n\nNo. 1 Oklahoma (48-7) — 4th straight week\nNo. 2 Nebraska (43-6)\nNo. 3 Texas Tech (50-5)\nNo. 4 Alabama\n\nConference tournament week. The board is about to get shuffled. 🥎\n\n#NCAASoftball #NFCARankings #CollegeSoftball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#NFCARankings",
+            "#CollegeSoftball"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThe NFCA Week 14 Coaches Poll is out — and the top of the rankings looks like a preview of what matters come Oklahoma City.\n\nNo. 1: Oklahoma (48-7) — fourth consecutive week at the top\nNo. 2: Nebraska (43-6) — riding an 18-game win streak into the Big Ten Tournament\nNo. 3: Texas Tech (50-5) — first team in D-I to 50 wins this year\nNo. 4: Alabama\n\nThese rankings reflect games through May 3 — so conference tournament results this week will shake things up before the NCAA Tournament bracket is revealed. Tennessee's second-round SEC Tournament loss will raise questions about their seeding. Alabama's position could shift depending on their run in Lexington.\n\nBookmark this: The 2026 Women's College World Series is coming, and the teams above are the ones most likely to see you there.\n\nWhere do you see Oklahoma, Nebraska, and Texas Tech landing in the NCAA Tournament bracket?\n```",
+        "image_caption": "```\nNFCA Week 14: Oklahoma No. 1 (4th week), Nebraska No. 2, Texas Tech No. 3. Conference tournament week will shake it all up. 🥎\n```",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NFCA Week 14 Rankings\n\n**Social Image (1080×1350)**\n- Visual Description: Generic college softball action — batter or pitcher in national-level competition\n- Photo Search Terms:\n  1. Oklahoma Sooners softball\n  2. Nebraska Huskers softball\n- Text Overlay Copy:\n  - Headline: \"WEEK 14 RANKINGS\"\n  - Subtitle: \"Oklahoma No. 1 | Nebraska No. 2 | Texas Tech No. 3\"\n  - Headline color: #FFFFFF (white)\n  - Subtitle color: #F4C542 (gold)\n- Composition Notes: Clean rankings-list layout. Bold headline with simple ranking breakdown in subtitle. Poll energy.\n\n**Article Hero (1200×630)**\n- Photo Search Terms: Oklahoma Sooners softball\n- Text: \"NFCA Week 14: Oklahoma Holds No. 1 for Fourth Straight Week\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NFCA Week 14 Rankings\n**Decision:** FOLLOW-UP\n**Tier:** 3\n**Freshness:** Released May 5, 2026\n**Sources:**\n- NFCA: https://nfca.org/divnews/ncaa1/di-top-25-coaches-poll-5-5-26\n- Line Drive Media: https://linedrivemedia.com/news/college-news-week-13s-nfca-d1-d2-d3-top-25-team-rankings-players-of-the-week-may-5-2026/\n- NCAA.com: https://www.ncaa.com/rankings/softball/d1/nfca/gorout-coaches\n**Key Facts (HIGH confidence):**\n- No. 1 Oklahoma (48-7) — fourth straight week at No. 1\n- No. 2 Nebraska (43-6)\n- No. 3 Texas Tech (50-5)\n- No. 4 Alabama\n- Rankings reflect games through May 3, 2026",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 6,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

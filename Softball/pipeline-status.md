@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-07
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (12), image concepts (6 including Story 6), image manifest, articles (5), fact-check (88 claims, 0 char violations, all stories in image-concepts), compile (6 stories, 8 tweets, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (14 posts X, 14 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known); publish-dashboard.py succeeded locally.
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). 0 char violations.
+- **Key Stories**: Ole Miss 4, Tennessee 1 SEC Tournament upset/elimination of Karlyn Pickens (P10), Auburn 11 A&M 8 five-HR Ratliff walk-off (P9), Oklahoma No. 1 SEC QF vs Georgia 7pm CT (P8), Nebraska 18-game streak Big Ten top seed (P7), Texas Tech 50-5 first D-I to 50 wins Big 12 Tournament (P7), NFCA Week 14 rankings (P4)
+
+## Previous Run
 - **Date**: 2026-05-06
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (10; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (131 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 10 tweets, 0 FB parsed — known, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (10 posts X, 10 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known); publish-dashboard.py cherry-pick succeeded.
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
