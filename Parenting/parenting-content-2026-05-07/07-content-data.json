@@ -1,0 +1,264 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-07",
+  "compiled_at": "2026-05-07T12:43:17.432310+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Educators and Parents to Picket — 300+ Days Since Master Contract Severed",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D11 educators and parents plan to picket the Board of Education. It has been more than 300 days since the district ended its 56-year master agreement with the teachers union. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 1-2",
+          "text": "More than 300 days of labor disputes in D11 — and now parents are joining the picket line. What this means for classroom stability and COS families heading into 2026-27. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-d11-parents-teachers-picket-300-days.html",
+        "headline": "D11 Parents Join Teachers at Picket Line: 300+ Days Into Colorado Springs' Labor Dispute",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Educators and Parents to Picket — 300+ Days Since Master Contract Severed\n\n#### Social Image (1200x675)\n- **Gemini prompt:** A diverse group of adults — teachers and parents of various ages and ethnicities — standing together outside a school building on a sunny Colorado morning. They hold simple handwritten signs in supportive, non-confrontational poses. Clean blue sky with Rocky Mountain hints in the background. Warm natural lighting. The bottom third is uncluttered to allow text overlay. Photorealistic style. No text, no logos, no branded signs visible. Base-only image.\n- **Mood:** Community solidarity, concern, calm civic action\n- **Color palette:** Sky blue, warm neutrals, school brick\n\n#### Article Hero (1200x630)\n- **Gemini prompt:** A wide exterior shot of a public school building in Colorado with a clear blue sky. The building has brick and glass architecture typical of Colorado Springs K-12 schools. Early morning light. No people, no signs, no text. Clean composition with open sky for text overlay. Photorealistic base image.\n- **Mood:** Institutional, community, calm\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Educator/Parent Picket\n| Claim | Confidence | Source |\n|-------|-----------|--------|\n| Educators and parents plan to picket D11 Board of Education | HIGH | krdo.com May 6, 2026 article — published 15 hours before today |\n| 300+ days since master contract was severed | HIGH | krdo.com article headline confirms \"300+ days\" |\n| Board severed master agreement in December 2025 | HIGH | krdo.com article; coloradosun.com strike context |\n| 56-year-old master agreement ended | HIGH | search result AI summary (\"56-year-old master agreement\" confirmed in multiple sources) |\n| Teachers struck in October 2025 | HIGH | coloradosun.com Oct 2025 article; kktv.com confirms |\n| Board stripped CSEA of collective bargaining rights | HIGH | krdo.com article |\n| Colorado Springs Education Association (CSEA) is the teachers' union | HIGH | Multiple sources |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "AAP Updates Screen Time Guidance — Quality Over Time Limits for Kids 6+",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The American Academy of Pediatrics updated its screen time guidance in 2026. For kids 6 and older: quality and conversation matter more than strict time limits. Under 18 months: still no screens. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-aap-screen-time-guidance-2026-cos-families.html",
+        "headline": "AAP Changed Its Screen Time Guidance: Here's What It Means for COS Families",
+        "word_count": 605
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Updates Screen Time Guidance — Quality Over Time Limits for Kids 6+\n\n#### Social Image (1200x675)\n- **Gemini prompt:** A parent of mixed ethnicity sitting comfortably with a child (ages 7-9) on a couch, both looking at a tablet together with engaged expressions. Warm home lighting, cozy living room setting with soft Colorado mountain landscape visible through a window. The parent has a thoughtful, present expression. Bottom third clear for text overlay. No brand logos visible on the tablet. Photorealistic, warm-toned base image.\n- **Mood:** Intentional, connected, relaxed\n- **Color palette:** Warm beige, soft gold, natural wood tones\n\n#### Article Hero (1200x630)\n- **Gemini prompt:** A flatlay of a family tablet on a clean wooden table surrounded by children's items — a book, a small toy, a glass of water — soft Colorado sunlight coming through a window. No text or screen content visible on the tablet. Clean, editorial-style food/lifestyle photography aesthetic. Warm tones. Base image only.\n- **Mood:** Balanced, modern, thoughtful\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP Screen Time Guidance Update\n| Claim | Confidence | Source |\n|-------|-----------|--------|\n| AAP updated screen time recommendations, January 2026 | HIGH | choc.org; wired-parents.com; AAP publications |\n| No screens before 18 months (unchanged) | HIGH | Multiple sources |\n| Ages 2-5: up to 1 hour/day of high-quality content (unchanged) | HIGH | Multiple sources |\n| Ages 6+: quality over time limits (NEW change) | HIGH | choc.org (\"Updated AAP recommendations for screen time\") |\n| Social media: delay as long as possible (unchanged) | HIGH | Multiple sources |\n| Published in Pediatrics journal | MEDIUM | AAP publications search result |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PAW Patrol Live! Comes to Pikes Peak Center May 23-24",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "PAW Patrol Live is coming to Pikes Peak Center in Colorado Springs on May 23-24. Chase, Marshall, Skye and the Mighty Pups — great for toddlers and up. Tickets at AXS.com or the box office. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-paw-patrol-live-pikes-peak-center-may-23-24.html",
+        "headline": "PAW Patrol Live! Comes to Pikes Peak Center May 23-24: What COS Families Need to Know",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PAW Patrol Live! Comes to Pikes Peak Center May 23-24\n\n#### Social Image (1200x675)\n- **Gemini prompt:** A joyful young child (age 3-4) wearing a PAW Patrol-themed red and blue outfit sitting in an audience seat at a theater, face lit up with excitement and wonder. Colorful stage lights in the background create a magical atmosphere. Bokeh effect on background. Clear space in the bottom third for text overlay. No trademarked characters or logos visible — only the child's expression and theater atmosphere. Photorealistic, vibrant colors.\n- **Mood:** Joy, wonder, excitement, family entertainment\n- **Color palette:** Warm theater reds and blues, spotlight gold\n\n#### Article Hero (1200x630)\n- **Gemini prompt:** Wide interior shot of an empty performing arts theater from the audience perspective, looking toward a brightly lit stage with colorful stage lighting in blue, red, and yellow. Theater seats visible, no people. Clean composition with the stage centered. Photorealistic. No text, no logos. Base image only.\n- **Mood:** Anticipation, family event venue, bright and welcoming\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PAW Patrol Live! May 23-24\n| Claim | Confidence | Source |\n|-------|-----------|--------|\n| PAW Patrol Live! at Pikes Peak Center, Colorado Springs | HIGH | pikespeakcenter.com event listing |\n| Dates: May 23-24, 2026 (Saturday-Sunday) | HIGH | pikespeakcenter.com; visitcos.com; stereoboard.com |\n| Show name: \"A Mighty Adventure\" | HIGH | pawpatrollive.com/tickets |\n| Characters: Chase, Marshall, Skye + Mighty Pups | HIGH | pawpatrollive.com show description |\n| Tickets at AXS.com or Pikes Peak Center box office | HIGH | pikespeakcenter.com listing |\n| Suitable for toddlers and up | HIGH | pawpatrollive.com show description |\n| Possible meet-and-greet after show | MEDIUM | Single source (pawpatrollive.com show description \"many shows feature a meet-up afterwards\") |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "CPSC Recall — NFSVLB Baby Bath Seats (Drowning/Entrapment Risk)",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "CPSC RECALL: NFSVLB baby bath seats (model ZY2025) sold on Amazon. About 1,430 units. Can tip over and trap infants — drowning and entrapment risk. Stop using immediately. Email amzmaihuayd@163.com for a full refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "5:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-nfsvlb-baby-bath-seats-recall-drowning.html",
+        "headline": "CPSC Recall: NFSVLB Baby Bath Seats Pose Drowning and Entrapment Risk — Get Your Refund",
+        "word_count": 667
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NFSVLB Baby Bath Seats (Drowning/Entrapment Risk)\n\n#### Social Image (1200x675)\n- **Gemini prompt:** A clean, minimal bathroom scene showing an empty bathtub from a slightly elevated angle. The bathtub is clean white with clear water. A yellow rubber duck sits on the edge. No bath seat or child visible. Soft natural bathroom lighting. Clean, bright, and simple. Clear bottom third for text overlay. Base image only, no text.\n- **Mood:** Safety-focused, clean, parental awareness\n- **Color palette:** White, soft yellow, clean bathroom neutrals\n\n#### Article Hero (1200x630)\n- **Gemini prompt:** An overhead view of a clean white bathtub partially filled with clear water, with gentle ripples. A few bath toys (rubber duck, foam shapes) float in the water. Bright, natural lighting. No child, no bath seat, no person. Clean editorial style. Photorealistic base image.\n- **Mood:** Clean, alert, safety reminder\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NFSVLB Baby Bath Seats Recall\n| Claim | Confidence | Source |\n|-------|-----------|--------|\n| ~1,430 units recalled | HIGH | cpsc.gov recall page |\n| Model ZY2025, blue/white, detachable arms, four suction cups | HIGH | cpsc.gov recall page |\n| Sold on Amazon by NFSVLB | HIGH | cpsc.gov recall page title |\n| Recall date January 8, 2026 | HIGH | cpsc.gov |\n| Can tip over while in use; leg opening entrapment risk | HIGH | cpsc.gov hazard description |\n| Risk of drowning and entrapment | HIGH | cpsc.gov recall title |\n| Remedy: write \"Recalled\" on front, disassemble, cut suction cups, photo, email amzmaihuayd@163.com | HIGH | cpsc.gov instructions |\n| Full refund | HIGH | cpsc.gov |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "CPSC Recall — Blossom Children's Loungewear (Burn Hazard)",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "CPSC RECALL: Blossom children's loungewear sets, sizes 12M to 12Y. Fails flammability standards — burn hazard. Stop using. Cut in half, photograph, email sales@blossomocc.com. No receipt required for a full refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-blossom-childrens-loungewear-recall-burn-hazard.html",
+        "headline": "Blossom Children's Loungewear Recalled: Burn Hazard for Kids Sizes 12M to 12Y",
+        "word_count": 666
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Blossom Children's Loungewear Recall (Burn Hazard)\n\n#### Social Image (1200x675)\n- **Gemini prompt:** A neatly folded children's matching pajama set (button-up top and pants) in pastel colors on a clean white surface. Soft studio lighting. The clothing is generic — no brand names, no logos, no specific licensed designs. Warm natural light from the side. Bottom third of the image is clear for text overlay. Photorealistic, lifestyle photo style.\n- **Mood:** Safety alert, careful, informative\n- **Color palette:** Soft pastels (lavender, mint, white)\n\n#### Article Hero (1200x630)\n- **Gemini prompt:** A folded children's clothing set — a button-up long-sleeved top and matching pants in a soft pastel color — on a light wooden dresser surface. Clean natural light from a window. No text, no logos. Neutral background. Editorial flatlay style. Photorealistic base image.\n- **Mood:** Gentle safety alert, children's clothing context\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Blossom Children's Loungewear Recall\n| Claim | Confidence | Source |\n|-------|-----------|--------|\n| Blossom-branded two-piece loungewear sets recalled | HIGH | cpsc.gov recall page |\n| Sizes 12M through 12Y | HIGH | cpsc.gov product description |\n| Button-up shirt (short or long sleeve) with matching shorts or pants | HIGH | cpsc.gov product description |\n| Sold at children's boutiques and online (Sept 2023-May 2025) | HIGH | cpsc.gov |\n| Fails mandatory flammability standard for children's sleepwear | HIGH | cpsc.gov recall title |\n| Burn hazard | HIGH | cpsc.gov |\n| Remedy: cut in half, photo, email sales@blossomocc.com | HIGH | cpsc.gov remedy instructions |\n| Contact: 256-481-8838, 8 AM-3 PM CT, M-F | HIGH | cpsc.gov |\n| No proof of purchase required for refund | HIGH | cpsc.gov + blossomocc.com/pages/recall |\n## Freshness Justification\n- Story 1 (D11 picket): Published May 6, 2026 — fresh, 15-hour-old news at time of content creation\n- Story 2 (AAP screen time): January 2026 update — timely national guidance update not yet covered\n- Story 3 (PAW Patrol): Event on May 23-24 — 16 days out, timely advance notice for families\n- Story 4 (NFSVLB recall): January 2026 recall — ongoing CPSC alert, not previously covered in pipeline\n- Story 5 (Blossom recall): Not previously covered; ongoing CPSC recall active through 2026\n## HIGH Priority Claims to Verify Before Dashboard\n- 300+ days count from D11 contract severing (HIGH — KRDO headline exact phrasing)\n- ~1,430 units for NFSVLB (HIGH — cpsc.gov confirmed)\n- No proof of purchase required for Blossom refund (HIGH — blossomocc.com confirms)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

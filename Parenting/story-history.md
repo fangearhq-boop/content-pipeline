@@ -2,6 +2,45 @@
 
 ---
 
+## May 7, 2026
+
+### Story 1: D11 Educators and Parents to Picket — 300+ Days Since Master Contract Severed
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 Board of Education ended 56-year CSEA master agreement December 2025; stripped union of collective bargaining rights; triggered one-day teacher strike October 2025; now 300+ days later educators + parents plan to picket the board; affects enrollment decisions for 2026-27; d11.org for board meeting schedules)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 300+ days since contract severed; one-day strike October 2025; CSEA master agreement dated to late 1960s; parents joining picket is notable escalation; d11.org
+
+### Story 2: AAP Updates Screen Time Guidance — Quality Over Time Limits for Kids 6+
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP updated screen time guidance January 2026; under 18 months: no screens except video calls unchanged; 18-24 months: high-quality only + watch together unchanged; ages 2-5: up to 1 hr/day unchanged; ages 6+: NEW — focus on quality/context/conversation not strict time limits; social media: delay as long as possible reinforced; healthychildren.org Family Media Plan tool)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** January 2026 update; under-18-month rule unchanged; ages 6+ = quality+context+conversation framework; social media delay unchanged; healthychildren.org
+
+### Story 3: PAW Patrol Live! Comes to Pikes Peak Center May 23-24
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY ("A Mighty Adventure" touring show; Pikes Peak Center for the Performing Arts; May 23 Saturday + May 24 Sunday; toddlers through early elementary; Chase/Marshall/Skye/Mighty Pups; interactive + music; meet-and-greet at select performances; tickets at AXS.com + box office; D49 graduation May 23 at Broadmoor World Arena; Memorial Day weekend starts May 25)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** May 23-24; Pikes Peak Center; AXS.com tickets; best ages 2-7; D49 graduation conflict May 23; Memorial Day weekend starts May 25
+
+### Story 4: CPSC Recall — NFSVLB Baby Bath Seats (Drowning/Entrapment Risk)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CPSC recalls ~1,430 NFSVLB baby bath seats model ZY2025; blue-and-white seat with detachable arm restraints and 4 suction cups; can tip over + leg openings allow torso entrapment = drowning risk; sold Amazon by NFSVLB; remedy: full refund; write "Recalled," disassemble, cut suction cups, photo, email amzmaihuayd@163.com; no injuries reported)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** ~1,430 units; model ZY2025; Amazon only; email amzmaihuayd@163.com for refund; no receipt needed; no injuries reported
+
+### Story 5: CPSC Recall — Blossom Children's Loungewear (Burn Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (Blossom two-piece loungewear sets sizes 12M–12Y fail mandatory flammability standard for children's sleepwear; button-up shirt + matching shorts or pants; sold at children's boutiques + online retailers Sept 2023–May 2025; remedy: full refund (original payment or store credit); no receipt required; cut in half + photo + email sales@blossomocc.com or call 256-481-8838 M-F 8AM-3PM CT; no injuries reported)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Sizes 12M–12Y; Sept 2023–May 2025 sale period; boutiques + online; sales@blossomocc.com; 256-481-8838 (M-F 8AM-3PM CT); no receipt needed; no injuries reported
+
+---
+
 ## May 5, 2026
 
 ### Story 1: CPSC Recall — Vevor Baby Swings (~1,020 units) — Suffocation/Death Hazard

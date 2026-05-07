@@ -1,6 +1,44 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: May 6, 2026
+## Latest Run: May 7, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 picket (300+ days since CSEA master agreement severed Dec 2025; one-day strike Oct 2025; parents joining picket); aap.org (screen time update Jan 2026; ages 6+ quality/context/conversation; under 18mo unchanged); axs.com (PAW Patrol Live! May 23-24 Pikes Peak Center); cpsc.gov (NFSVLB bath seats ~1,430 units ZY2025 drowning/entrapment; Blossom loungewear 12M-12Y burn hazard) |
+| Story History Check | COMPLETE | 5 NEW STORY — all verified against May 6 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging, sources noted |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts; all verified under 280 chars; 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions in triple-backtick code blocks; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1200x675 social, 1200x630 article hero |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 73 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB stories, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (21 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-07.xlsx (16 posts) + TOBI cosp-postplanner-tobi-2026-05-07.xlsx (11 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-07)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions) = 16 total
+- **Articles:** 5 (bylines: Sarah Morales x3, Jamie Rivera x2)
+- **PostPlanner exports:** cosp-postplanner-2026-05-07.xlsx (16 posts), cosp-postplanner-tobi-2026-05-07.xlsx (11 TOBI posts)
+- **Coverage:** D11 picket (300+ days since CSEA master agreement severed; one-day teacher strike Oct 2025; parents joining picket line); AAP screen time update Jan 2026 (ages 6+ quality/context/conversation framework; social media delay reinforced; healthychildren.org); PAW Patrol Live! "A Mighty Adventure" May 23-24 Pikes Peak Center (AXS.com, meet-and-greet select shows, toddlers+up); NFSVLB baby bath seat recall (~1,430 units, model ZY2025, Amazon, tip-over + entrapment = drowning risk, amzmaihuayd@163.com refund); Blossom children's loungewear recall (sizes 12M-12Y, fails flammability standard, Sept 2023-May 2025, sales@blossomocc.com + 256-481-8838, no receipt needed)
+- **Notes:**
+  - verify-facts.py passed — 5 stories, 73 claims; image warnings cosmetic
+  - compile-content-data.py: 5 stories, 6 X posts, 5 FB stories, 5 articles, 5 images
+  - review-dashboard.html generated (21 items)
+  - PostPlanner exports: both standard (16) and TOBI (11) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access (same as all prior runs)
+
+---
+
+## Previous Run: May 6, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
