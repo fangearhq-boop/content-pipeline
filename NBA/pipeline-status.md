@@ -1,6 +1,19 @@
 ## Last Run
-- **Date**: 2026-05-06
+- **Date**: 2026-05-07
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-05-07
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-05-07.xlsx (6 posts) + hh-postplanner-tobi-2026-05-07.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-07/review-dashboard.html (26 items)
+- **Notes:** Knicks 108, 76ers 102 (G2 May 6) — Brunson 26, Anunoby 24, KAT 20/10/7; Maxey 26 PHI; Embiid OUT (ankle+hip); 25 lead changes; Knicks lead 2-0. Spurs 133, Wolves 95 (G2 May 6) — Wembanyama 19/15/2blk; Castle 21, Fox 16; 38-pt margin = worst playoff loss in Wolves history; series tied 1-1. Pistons-Cavs G2 TONIGHT 7PM ET Prime Video (Pistons lead 1-0). Thunder-Lakers G2 TONIGHT 9:30PM ET Amazon Prime (Thunder lead 1-0). Luka 8-week recovery timeline confirmed by Doncic; no contact clearance; flew to Spain for treatment.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ## Pipeline Run Log
 

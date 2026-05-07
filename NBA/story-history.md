@@ -1504,3 +1504,42 @@
 - **Key facts:** Wolves lead 1-0 (104-102 thriller G1). Edwards 18 pts (11 Q4) off bench. Wemby 12-block all-time record. Game 2: May 6, 9:30PM ET, ESPN, AT&T Center.
 - **Status:** FOLLOW UP (from 2026-05-05)
 - **Follow-up ideas:** Game 2 result; Wemby offensive development
+
+---
+
+## 2026-05-07
+
+### STORY 1: Knicks 108, 76ers 102 — Brunson, Anunoby Lead New York to 2-0 Series Lead
+- **Tier:** 1
+- **Category:** Game Result / Series Momentum
+- **Key facts:** New York Knicks 108, Philadelphia 76ers 102 (Game 2, East Conference Semifinals, May 6). Brunson 26 pts (9-21 FG), Anunoby 24, KAT 20/10/7. Maxey 26 for PHI. Embiid OUT (right ankle + hip soreness). Game had 25 lead changes, 14 ties. Knicks closed with 9-0 run. Knicks lead 2-0. Game 3: May 9 in Philadelphia.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Embiid return for Game 3; Knicks sweep bid
+
+### STORY 2: Spurs 133, Timberwolves 95 — Wembanyama Leads Historic Blowout to Tie Series
+- **Tier:** 1
+- **Category:** Game Result / Individual Performance
+- **Key facts:** San Antonio Spurs 133, Minnesota Timberwolves 95 (Game 2, West Conference Semifinals, May 6). Wembanyama 19/15/2blk. Castle 21, Fox 16. Spurs 50% FG, 41% 3P. 38-pt margin = worst playoff loss in Timberwolves history. Highest-scoring Spurs playoff game since 1983. Series tied 1-1.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Game 3 in San Antonio; Edwards offensive response
+
+### STORY 3: Pistons vs. Cavaliers Game 2 Preview — Detroit Chases 2-0 Series Lead
+- **Tier:** 1
+- **Category:** Game Preview
+- **Key facts:** Pistons lead 1-0 (G1: 111-101). Game 2: May 7, 7 PM ET, Prime Video. Cade 23/7, Harris 20/8 in G1. Mitchell 23, Harden 22 (13 Q4) for CLE. Pistons had 35 FTA vs 16; forced 19 CLE TOs. Huerter (hip) QUESTIONABLE.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Game 2 result; Cade series evolution
+
+### STORY 4: Thunder vs. Lakers Game 2 Preview — OKC Looks to Double Lead
+- **Tier:** 2
+- **Category:** Game Preview
+- **Key facts:** Thunder lead 1-0 (G1: 108-90). Game 2: May 7, 9:30 PM ET, Amazon Prime. Holmgren 24/12/3, SGA 18/6 in G1. LeBron 27 (12-17) for LAL. Thunder 15.5-pt favorites. Luka still not cleared for contact drills.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Game 2 result; Holmgren emerging role
+
+### STORY 5: Luka Doncic 8-Week Timeline — Unlikely to Return vs. Thunder
+- **Tier:** 2
+- **Category:** Injury Update
+- **Key facts:** Luka revealed 8-week recovery timeline given at April 2 injury. Eight weeks = late May. No contact clearance yet. Flew to Spain for cell therapy with Dr. Javier Barrio (Real Madrid). Lakers trail 0-1 vs Thunder.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Luka return timing; Lakers season outcome
