@@ -3,6 +3,26 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
+## Current Pipeline (2026-05-07)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-05-07 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-07 |
+| Fact-check | Complete (verify-facts.py — 16 claims, 49 HIGH confidence; image warnings expected/non-blocking) | 2026-05-07 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-07 |
+| PostPlanner | Complete (standard 5 posts + TOBI 5 posts) | 2026-05-07 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-05-07 |
+| Published | Failed — WordPress credentials blocked by egress proxy (persistent) | 2026-05-07 |
+| Git | Committed and pushed to main | 2026-05-07 |
+
+## Notes (2026-05-07)
+- 5 stories: Truist R1 underway (McIlroy seeks record 5th Quail Hollow title, 4 wins/2010/2015/2021/2024, back-to-back Masters champion) T1; LIV Virginia R1 underway (Rahm 779 pts leads individual standings by 302 over DeChambeau, 2 2026 wins, Trump National 7,679 yds) T1; Scheffler 3 straight runner-ups (Masters to McIlroy, Heritage playoff to Fitzpatrick, Cadillac to Young — first since Garcia 2014, Aronimink PGA Champ May 14-17) T1; Nelly Korda HOF countdown (23/27 pts, 4 away, 3 wins + 3 runner-ups, Sorenstam 2001 comparison) T2; Aronimink deep dive (Donald Ross "masterpiece" 1928, first PGA since Gary Player 1962, 3 par-3s over 210 yds, Scheffler +350) T2
+- Pen names: Ryan Calloway (articles 1, 4), Jake Torres (articles 2, 5), Marcus Cole (article 3)
+- X posts: 5 total, all under 280 characters
+- WordPress publish: Failed — credentials blocked by egress proxy (Host not in allowlist — persistent infrastructure issue)
+- Dashboard push: blocked — PAT lacks write access to content-dashboards repo
+
 ## Current Pipeline (2026-05-06)
 
 | Stage | Status | Last Updated |

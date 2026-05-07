@@ -293,3 +293,42 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Korda 23/27 HOF points (4 away). 3 wins (incl Chevron major) + 3 runner-ups in 6 starts. 18 career LPGA wins. Youngest American with 18 titles since Nancy Lopez at 23 (1980). First since Annika Sorenstam 2001 with no finish outside top 2 through 6 starts.
 - **Status:** FOLLOW UP (from 2026-05-05 Korda story — HOF milestone angle)
 - **Follow-up ideas:** Next win/HOF milestone; midseason HOF induction news
+
+---
+
+## 2026-05-07
+
+### STORY 1: Truist Championship Round 1 — McIlroy Seeks Unprecedented 5th Quail Hollow Title
+- **Tier:** 1
+- **Category:** Tournament Coverage
+- **Key facts:** Truist Championship R1 underway at Quail Hollow, Charlotte, NC (May 7-10). McIlroy returning after back-to-back Masters wins. 4 Quail Hollow wins (2010, 2015, 2021, 2024); seeking 5th (unprecedented). Set course record 62 in 2010, broke with 61 in 2015. No player has defended at this event. Field includes signature-event format with world rankings.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** R1/R2 scores; leaderboard; McIlroy performance
+
+### STORY 2: LIV Golf Virginia Opens — Rahm Leads by 302 Points, Seeks Third 2026 Win
+- **Tier:** 1
+- **Category:** Tournament Coverage / LIV Golf
+- **Key facts:** LIV Virginia (May 7-10) at Trump National Golf Club, Potomac Falls, VA (par 72, 7,679 yards, Tom Fazio). Rahm leads individual standings with 779 pts; DeChambeau 2nd at 476.90 (302-pt gap). Rahm 2 wins in 2026 (Hong Kong + Mexico City). DeChambeau cleared after wrist injury withdrawal at Mexico City.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** R1 scores; Rahm win; individual standings update
+
+### STORY 3: Scheffler's Three Runner-Ups — Aronimink Is the Answer
+- **Tier:** 1
+- **Category:** Feature / Championship Preview
+- **Key facts:** Scheffler runner-up at Masters (to McIlroy), RBC Heritage (playoff to Fitzpatrick), Cadillac Championship (6 back to Young). First since Sergio Garcia 2014 to have 3 straight runner-ups. PGA Championship May 14-17, Aronimink. Scheffler world No. 1, ~+350 favorite. Aronimink's precision demands suit his ball-striking.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** PGA Championship R1; Scheffler result
+
+### STORY 4: Nelly Korda Four Points from LPGA Hall of Fame
+- **Tier:** 2
+- **Category:** Player Feature / LPGA
+- **Key facts:** Korda 23/27 HOF points (4 away). 3 wins in 2026 (TOC, Chevron, Riviera Maya). First since Annika Sorenstam 2001 to start season with nothing worse than runner-up through 6 events (3W/3R). Youngest since Nancy Lopez 1980 to reach 18 career LPGA wins.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** HOF qualifying event; next win
+
+### STORY 5: Aronimink Deep Dive for PGA Championship
+- **Tier:** 2
+- **Category:** Course Analysis / Major Preview
+- **Key facts:** PGA Championship May 14-17, Aronimink, Newtown Square, PA. Donald Ross designed 1928 ("my masterpiece"). First PGA there since Gary Player 1962. 3 par-3s over 210 yards. Most elaborate bunkering of any Ross design. 200,000 expected. Scheffler +350.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** PGA Championship first round; field analysis
