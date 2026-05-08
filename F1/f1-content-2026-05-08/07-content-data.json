@@ -1,0 +1,305 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-08",
+  "compiled_at": "2026-05-08T11:23:55.069897+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ferrari's Miami Upgrade Package Flops — 11 Changes, But Only 0.07s/Lap Gain",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Ferrari brought 11 upgrades to Miami.\n\nThe improvement: 0.07 seconds per lap.\n\nHamilton P6. Leclerc P8 + a time penalty.\n\nLeclerc: \"I would like to understand.\"\n\nSo does everyone else. 🔴 #F1 #Ferrari",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 199
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Ferrari's 2026 problems in one stat:\n\n11 new parts. 30HP engine deficit still there.\nTyre management still broken. Deployment bug discovered.\n\nP6 and P8 in Miami. Fred Vasseur called it \"mega tough.\"\n\nIt was. #F1 #Ferrari",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-ferrari-miami-upgrade-failure-leclerc-hamilton.html",
+        "headline": "Ferrari's Miami Upgrade Package Flops — 11 Changes, 0.07s Gained, Leclerc Demands Answers",
+        "word_count": 684
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Leclerc in car or post-race frustration"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Hamilton in SF-26 cockpit or garage"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari Miami Upgrade Failure\n- **HIGH**: Ferrari brought 11 new components to Miami — most of any team\n- **HIGH**: Improvement vs prior race deficit was only 0.07s/lap (race pace deficit reduced from 0.53s to 0.46s)\n- **HIGH**: Hamilton finished P6, Leclerc P8 (Leclerc had 20-sec penalty for track limits)\n- **HIGH**: Vasseur post-race quote: race was \"mega tough\"\n- **HIGH**: First race in 2026 Ferrari failed to have a car in top 3 of any race or sprint\n- **MEDIUM**: \"Deployment bug\" in energy recovery affecting both cars (reported, confirmed by multiple outlets)\n- **HIGH**: Ferrari reportedly running 30HP deficit vs. Mercedes engines\n- **HIGH**: Leclerc called for internal investigation: \"I would like to understand\" (multiple sources confirm)\n- **HIGH**: Tyre management on hard compound identified as core weakness (Vasseur confirmed)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Adrian Newey Hospitalized With Pneumonia — The Legend Misses Miami",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Adrian Newey was hospitalized with pneumonia before the Miami GP.\n\nHe hasn't attended a race since the Australian Grand Prix in March.\n\nAston Martin says he's \"working from home.\"\n\nF1's greatest designer — and Aston Martin's greatest hope — sidelined. #F1",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Aston Martin's AMR26 is struggling. Their Honda power unit is underperforming.\n\nAnd now their key design hire, Adrian Newey, has missed three straight GPs.\n\nThe timing couldn't be worse for the team. #F1 #AstonMartin",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AstonMartin"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-newey-hospitalized-aston-martin-crisis.html",
+        "headline": "Adrian Newey Hospitalized — F1's Greatest Designer Misses Miami, Working From Home During Recovery",
+        "word_count": 695
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Newey trackside or in garage"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "AMR26 on track"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Adrian Newey / Aston Martin\n- **HIGH**: Newey was hospitalized (multiple sources — Daily Mail report, Aston Martin response)\n- **MEDIUM**: Hospitalized with pneumonia (Daily Mail reported; Aston Martin declined to confirm specifics)\n- **HIGH**: Has not attended a race since Australian GP in March\n- **HIGH**: Aston Martin statement: \"Adrian is working and was on campus last week\"\n- **HIGH**: Aston Martin declined to discuss personal matters\n- **HIGH**: Newey contracted to attend 10-14 races per season\n- **HIGH**: Andy Cowell is team principal; Newey focused on car design\n- **MEDIUM**: Working from home during recovery (reported by multiple outlets, corroborated by AM statement)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Red Bull's New Aero Concept Has Rivals Talking — McLaren Boss Admits It's \"Drawing Attention\"",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "McLaren boss Andrea Stella admitted Red Bull's new aero concept is\n\"drawing attention across the grid.\"\n\nVerstappen is P7 in the championship.\n\nBut Red Bull is quietly building something. And the rivals have noticed. #F1 #RedBull",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-red-bull-aero-concept-rivals-watching.html",
+        "headline": "Red Bull's New Aero Concept Has Rivals Watching — McLaren Boss Says Direction 'Drawing Attention'",
+        "word_count": 718
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Verstappen in RB22 cockpit or walking pit lane"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Norris in cockpit or celebrating P2 Miami"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Red Bull Aero Concept / Verstappen Situation\n- **HIGH**: McLaren TP Andrea Stella: Red Bull's new aero concept \"drawing attention across the grid\"\n- **HIGH**: Red Bull's Miami upgrade halved weight deficit (prior ~30kg over; after Miami ~15kg over 768kg minimum)\n- **HIGH**: Red Bull boss Mekies: team \"must keep improving to keep Verstappen\"\n- **HIGH**: Verstappen 26 pts (7th), 74 behind Antonelli after R4 (May 7 pipeline confirmed standings)\n- **HIGH**: Exit clause requires Verstappen to be inside top 3 at summer break",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ferrari's Hamilton Problem — P6 After Huge Upgrade, Sim-Free Canada Experiment Looms",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lewis Hamilton is skipping the Ferrari simulator for Canada.\n\nHis logic: best 2026 result (P3 China) came with no sim prep.\nMiami's P6 came with heavy simulator work.\n\nHe's running an experiment. And it might just work. #F1 #Ferrari",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-hamilton-sim-free-canada-experiment.html",
+        "headline": "Hamilton Goes Sim-Free for Canada — The Seven-Time Champion's Bold Ferrari Experiment",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Hamilton in helmet/cockpit"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton / Ferrari Strategy\n- **HIGH**: Hamilton finished P6 in Miami\n- **HIGH**: Hamilton's best 2026 result: P3 in China\n- **HIGH**: Hamilton confirmed no Ferrari simulator preparation for Canadian GP (multiple sources)\n- **HIGH**: Hamilton reasoning: best result came without sim; correlation poor; \"car feels different at track\"\n- **HIGH**: Hamilton 51 pts, joint P4 with Norris\n- **MEDIUM**: \"Inadequate acceleration\" affecting Hamilton specifically (Oversteer article, corroborated by engine deficit reports)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "McLaren Races to Close Gap — Norris Targets Canada Sprint as Compression Opportunity",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Norris is 49 points behind Antonelli.\n\nCanada (May 22-24) is a sprint weekend — up to ~34 pts available.\n\nMcLaren's Miami upgrade suits Circuit Gilles Villeneuve's low-drag profile.\n\nThis is McLaren's best window to compress the title fight. #F1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-mclaren-canada-sprint-championship-compression.html",
+        "headline": "McLaren Eyes Canada Sprint as Championship Compression Window — Norris 49 Points Behind Antonelli",
+        "word_count": 684
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Norris celebrating P2 or driving MCL39"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McLaren / Norris / Canada\n- **HIGH**: McLaren upgrade at Miami included new floor, bodywork, rear wing, and brake ducts\n- **HIGH**: Norris finished P2 in Miami (+3.264s behind Antonelli)\n- **HIGH**: Canada GP: May 22-24, Circuit Gilles Villeneuve, sprint format\n- **HIGH**: Canada's low-drag profile suits McLaren's upgrade direction\n- **MEDIUM**: Up to ~34 pts available in sprint weekend (sprint + race)\n- **HIGH**: Norris 51 pts, 49 behind Antonelli\n- **HIGH**: McLaren ~94 constructors pts, ~86 behind Mercedes 180\n## Confidence Notes\n- Newey pneumonia diagnosis is MEDIUM — Daily Mail reported it, Aston Martin acknowledged illness but did not confirm the specific diagnosis\n- Hamilton's \"deployment bug\" link specifically to his car is MEDIUM — reported widely but not officially confirmed",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

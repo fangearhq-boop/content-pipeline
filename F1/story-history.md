@@ -1367,3 +1367,37 @@
 - **Key facts:** Verstappen 26 pts, 7th in championship, 74 behind Antonelli after R4. Miami upgrades halved weight deficit. Summer fix remains target. Exit clause widely reported if too far outside top 2. Currently 5 places outside that threshold.
 - **Status:** FOLLOW UP (from 2026-05-05)
 - **Follow-up ideas:** Canada result; exit clause activation; summer chassis
+
+---
+
+## 2026-05-08
+
+### STORY 1: Ferrari's Miami Upgrade Package Flops — 11 Changes, But Only 0.07s/Lap Gain
+- **Tier:** 1
+- **Category:** Technical Analysis / Team Update
+- **Key facts:** Ferrari brought 11 new components to Miami — largest upgrade package on grid. Improvement only 0.07s/lap (deficit went from 0.53s to 0.46s). Hamilton P6, Leclerc P8 (+ 20-sec penalty). First race Ferrari failed to have car in top 3. Leclerc: "I would like to understand." Vasseur: "mega tough." Reported 30HP engine deficit and "deployment bug" in energy recovery. Tyre management on hard compound as core weakness.
+- **Status:** NEW STORY
+
+### STORY 2: Adrian Newey Hospitalized With Pneumonia — Missing Miami, Working From Home
+- **Tier:** 1
+- **Category:** Team News / Personnel
+- **Key facts:** Newey hospitalized before Miami GP (reportedly with pneumonia). Has not attended race since Australian GP in March. Aston Martin: "Adrian is working and was on campus last week." Contracted to attend 10-14 races per season. Andy Cowell is team principal; Newey role = car design. AMR26/Honda struggling in 2026.
+- **Status:** NEW STORY
+
+### STORY 3: Red Bull's New Aero Concept Has Rivals Talking — McLaren Boss Admits It's 'Drawing Attention'
+- **Tier:** 1
+- **Category:** Technical / Team Development
+- **Key facts:** McLaren TP Stella: Red Bull's new aero direction "drawing attention across the grid." Miami upgrade halved Red Bull weight deficit (~30kg to ~15kg over 768kg). Mekies: team "must keep improving to keep Verstappen." Verstappen 26 pts (7th), 74 behind Antonelli. Exit clause: must be top-3 at summer break.
+- **Status:** FOLLOW UP (from 2026-05-07)
+
+### STORY 4: Ferrari's Hamilton Problem — Sim-Free Canada Experiment
+- **Tier:** 2
+- **Category:** Driver Strategy
+- **Key facts:** Hamilton confirmed no Ferrari simulator prep for Canada GP (May 22-24). Best 2026 result P3 China came without sim; Miami P6 came with heavy sim. "Car feels different at track." 51 pts, joint P4. Reported "inadequate acceleration" affecting his car specifically.
+- **Status:** FOLLOW UP (from 2026-05-07)
+
+### STORY 5: McLaren Races to Close Gap — Norris Targets Canada Sprint
+- **Tier:** 2
+- **Category:** Championship / Race Preview
+- **Key facts:** McLaren's Miami upgrade (new floor/bodywork/rear wing/brake ducts) suits Canada's low-drag Circuit Gilles Villeneuve. Norris P2 Miami. 51 pts, 49 behind Antonelli. Canada May 22-24, sprint format, first sprint of 2026, ~34 pts available. McLaren 94 constructors pts, ~86 behind Mercedes.
+- **Status:** FOLLOW UP (from 2026-05-06)
