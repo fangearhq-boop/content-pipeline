@@ -1,0 +1,310 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-08",
+  "compiled_at": "2026-05-08T10:19:17.469323+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Georgia 10, Oklahoma 5 — Sooners Eliminated in SEC Tournament Shock",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "UPSET ALERT 🚨 No. 9 Georgia takes down No. 1 Oklahoma 10-5 in the SEC Tournament quarterfinals.\n\nThe largest comeback win in SEC Softball Tournament history. The Sooners are ELIMINATED.\n\n#GoDawgs #Softball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoDawgs",
+            "#Softball"
+          ],
+          "char_count": 205
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kendall Wells entered the SEC Tournament one home run shy of the all-time NCAA record.\n\nShe never got there. Georgia's 10-5 upset ends Wells' record chase — and Oklahoma's season.\n\n#Softball #ILoveSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#ILoveSoftball"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nNobody saw this coming.\n\nNo. 9 seed Georgia walked into John Cropp Stadium in Lexington on Thursday night and walked out with the biggest upset of the 2026 college softball season — a 10-5 win over No. 1 Oklahoma in the SEC Tournament quarterfinals.\n\nIt wasn't just a win. It was the largest comeback win in SEC Softball Tournament history. Georgia trailed but Bulldogs outfielder Jayda Harrison had a career night, sparking a run that the Sooners simply couldn't stop.\n\nFor Oklahoma, the sting goes beyond the loss. Kendall Wells — the freshman phenom who entered the SEC Tournament with 36 home runs, one shy of the all-time NCAA single-season record (37, set by Lisa Espinoza at Arizona in 1995) — never got her shot at history. The Sooners are done. Wells finishes her remarkable freshman year at 36 home runs, a figure that will stand as one of the greatest single-season performances in the sport's history, even without the record.\n\nOklahoma ends the season 48-8. They won the SEC regular season title, ranked No. 1 in the country for weeks, and were among the favorites to reach the Women's College World Series. But in the tournament, anything can happen — and Georgia just proved it.\n\nWhat's your reaction to the biggest upset of the year? Drop a comment below! ⬇️\n```",
+        "image_caption": "```\nNo. 9 Georgia just sent No. 1 Oklahoma home 😱 The largest comeback win in SEC Softball Tournament history — and the end of Kendall Wells' record chase. What a moment. #Softball #GoDawgs #OUSoftball\n```",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-georgia-upsets-oklahoma-sec-tournament.html",
+        "headline": "Georgia Stuns No. 1 Oklahoma 10-5, Sooners Eliminated in Biggest SEC Tournament Upset",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Georgia 10, Oklahoma 5 — Sooners Eliminated\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** `Georgia Bulldogs softball`\n- **Caption overlay:** \"UPSET: Georgia 10, Oklahoma 5 — Largest Comeback Win in SEC Tournament History\"\n- **Status:** not_started\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search term:** `Georgia Bulldogs softball`\n- **Caption overlay:** None (article hero, no text overlay)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "SEC Semifinals Today — Florida vs. Alabama, Georgia vs. Texas at Lexington",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "SEC Softball semifinals are TODAY in Lexington.\n\n🔹 No. 3 Florida vs. No. 2 Alabama — 5 PM ET ESPN\n🔹 No. 9 Georgia vs. No. 6 Texas — ~7:30 PM ET ESPN\n\nCan Georgia keep the magic going? #Softball #SECSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#SECSoftball"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThursday's quarterfinals delivered all the drama — and now it's semifinal Friday in Lexington.\n\nHere's how the bracket shook out after some stunning results:\n\n🟡 No. 3 Florida survived a wild one, edging No. 14 Auburn 10-9. A nine-run thriller that went the distance.\n🔴 No. 2 Alabama controlled No. 7 Arkansas, rolling to a 7-1 win and looking like one of the hottest teams in the country.\n🔴 No. 6 Texas shut down No. 13 Ole Miss 6-0 behind ace Teagan Kavan. The Longhorns look dangerous.\n🐾 No. 9 Georgia — the Cinderella of this tournament — knocked out No. 1 Oklahoma 10-5 in the biggest upset of the season.\n\nToday's semifinal matchups:\n\n🔹 No. 3 Florida vs. No. 2 Alabama — 5:00 PM ET on ESPN\n🔹 No. 9 Georgia vs. No. 6 Texas — ~7:30 PM ET on ESPN\n\nWhich game are you most excited to watch?\n```",
+        "image_caption": "```\nSemifinal Friday in Lexington! 🏟️ Florida vs. Alabama and Georgia vs. Texas — two incredible SEC matchups today. Who advances to Saturday's final? #SECSoftball #Softball\n```",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-sec-softball-semifinals-preview.html",
+        "headline": "SEC Softball Semifinals: Florida Faces Alabama, Cinderella Georgia Takes On Texas",
+        "word_count": 483
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SEC Semifinals — Florida vs. Alabama, Georgia vs. Texas\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** `SEC softball tournament`\n- **Caption overlay:** \"SEC SEMIS TODAY: Florida vs. Alabama | Georgia vs. Texas\"\n- **Status:** not_started\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search term:** `Florida Gators softball`\n- **Caption overlay:** None\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Nebraska 4, Michigan 2 — Huskers Advance to Big Ten Semis on 19-Game Win Streak",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nebraska softball rolls on. The Huskers beat Michigan 4-2 Thursday — win streak now 19 games, longest active streak in D-I.\n\nJordy Frahm: 7 innings, 9 strikeouts. Dominant.\n\nUp next: Indiana in the Big Ten semis. #Huskers #Softball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#Softball"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nNebraska softball isn't slowing down for anyone.\n\nThe No. 2 Huskers survived a gritty Michigan squad Thursday in the Big Ten Tournament quarterfinals, winning 4-2 to extend their win streak to 19 games — the longest active streak in Division I softball.\n\nThe hero was pitcher Jordy Frahm, who went all seven innings, striking out nine and allowing just four hits. Nebraska grabbed a 3-1 lead in the first inning and never looked back.\n\nThe Huskers (44-6) are now in the Big Ten Tournament semifinals, where they'll face No. 4 Indiana on Friday at 5 PM ET on the Big Ten Network. Win that, and they're in the conference final — and with Oklahoma now eliminated, Nebraska has an even stronger argument for the No. 1 national seed when the NCAA Selection Show airs Sunday.\n\nA Big Ten title would be the cherry on top of one of the greatest regular seasons in program history.\n\nGo Big Red! 🌽\n```",
+        "image_caption": "```\n19 games. That's how long Nebraska's win streak is now. 🔥 Huskers beat Michigan 4-2 and keep rolling toward a Big Ten title. #Huskers #GoBigRed #Softball\n```",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-nebraska-big-ten-semifinals-win-streak.html",
+        "headline": "Nebraska Beats Michigan 4-2, Extends Win Streak to 19 Games Before Big Ten Semifinals",
+        "word_count": 431
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska 4, Michigan 2\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagin\n- **Search term:** `Nebraska Cornhuskers softball`\n- **Caption overlay:** \"19-GAME WIN STREAK: Nebraska 4, Michigan 2 — Big Ten Semis Bound\"\n- **Status:** not_started\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search term:** `Nebraska Cornhuskers softball`\n- **Caption overlay:** None\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Texas Tech 7, Baylor 0 — Canady Dominant, Red Raiders 51-5 and in Big 12 Semis",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "NiJaree Canady. 5 innings. 1 hit. 6 strikeouts. 7-0 shutout.\n\nTexas Tech is 51-5 and cruising into the Big 12 semifinals. She's just different.\n\n#TexasTech #Softball #WreckEm",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TexasTech",
+            "#Softball",
+            "#WreckEm"
+          ],
+          "char_count": 174
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nNiJaree Canady did it again.\n\nThe Texas Tech ace — who threw a perfect game on Senior Day just five days ago — came out Thursday in the Big 12 Tournament quarterfinals and made Baylor look completely overmatched. Five innings. One hit. Six strikeouts. A 7-0 shutout.\n\nThe Red Raiders are now 51-5, and they're headed to the Big 12 Tournament semifinals, where they'll face No. 5 Kansas today at 3 PM CT (4 PM ET). A win there would put Texas Tech in the Big 12 final — and keep their case for a top national seed very much alive heading into Sunday's Selection Show.\n\nCanady hasn't just been good this season. She's been historic. Between the perfect game and this dominant quarterfinal performance, she's making the strongest case of anyone for Pitcher of the Year.\n\nCan Texas Tech go all the way in Oklahoma City? 🤠\n```",
+        "image_caption": "```\n51-5. One hit allowed. NiJaree Canady is ON. 🔥 Texas Tech shuts out Baylor 7-0 and rolls into the Big 12 semis. #TexasTech #WreckEm #Softball\n```",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-texas-tech-canady-big-12-semifinals.html",
+        "headline": "Canady Dominant Again: Texas Tech Shuts Out Baylor 7-0, Red Raiders Advance to Big 12 Semifinals at 51-5",
+        "word_count": 448
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech 7, Baylor 0\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** `NiJaree Canady Texas Tech`\n- **Caption overlay:** \"51-5: Canady 5 IP, 1 H, 6 K — Texas Tech Rolls Into Big 12 Semis\"\n- **Status:** not_started\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search term:** `NiJaree Canady Texas Tech`\n- **Caption overlay:** None\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "FSU and Duke Advance — ACC Softball Semifinals Set for Today",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "ACC Softball semifinals are ON today at Palmer Park in Charlottesville.\n\n🔹 No. 1 FSU vs. Stanford/Louisville winner — 1 PM ET ACCN\n🔹 No. 2 Duke vs. VaTech/Virginia winner — 3:30 PM ET ACCN\n\n#FSUSoftball #DukeSoftball #ACCSoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#FSUSoftball",
+            "#DukeSoftball",
+            "#ACCSoftball"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThe ACC Softball Tournament is down to its final four, and two powerhouses are in the mix.\n\nThursday's quarterfinal results from Charlottesville:\n\n🏈 No. 1 Florida State (43-8) held off No. 9 Georgia Tech 2-1 in a tight defensive battle. The Seminoles are locked in.\n🔵 No. 2 Duke had no such trouble — the Blue Devils blew out No. 10 North Carolina 16-8. Duke was relentless offensively.\n\nBoth teams are still alive for the automatic ACC Tournament bid, and today's semifinals will determine who plays in Saturday's championship:\n\n🔹 No. 1 FSU vs. Stanford/Louisville winner — 1:00 PM ET on ACC Network\n🔹 No. 2 Duke vs. Virginia Tech/Virginia winner — 3:30 PM ET on ACC Network\n\nFSU is one of the better stories in the country: 43-8 and trying to secure a strong national seed before Sunday's Selection Show. A conference title would only help their resume.\n\nAre you watching? 🥎\n```",
+        "image_caption": "```\nACC Softball semis are today in Charlottesville! 🏟️ No. 1 FSU vs. the field — can the Seminoles punch their ticket to the final? #FSUSoftball #ACCSoftball #Softball\n```",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-fsu-duke-acc-softball-semifinals.html",
+        "headline": "FSU and Duke Both Advance, Set for ACC Softball Semifinals in Charlottesville",
+        "word_count": 394
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU and Duke Advance — ACC Semis\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** `Florida State Seminoles softball`\n- **Caption overlay:** \"ACC SEMIS TODAY: FSU and Duke Advance in Charlottesville\"\n- **Status:** not_started\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search term:** `Florida State Seminoles softball`\n- **Caption overlay:** None\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Selection Show Sunday — Oklahoma's Upset Reshapes No. 1 National Seed Race",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Selection Show is this Sunday at 7 PM ET on ESPN2.\n\nAfter Oklahoma's stunning upset today, who gets the No. 1 national seed?\n\nNebraska (44-6)? Texas Tech (51-5)? Alabama? Tune in Sunday to find out.\n\n#Softball #WCWS",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#WCWS"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "```\nThe wait is almost over.\n\nThe 2026 NCAA Softball Selection Show is this Sunday, May 10, at 7 PM ET on ESPN2 — and after Thursday's stunning results, nobody knows exactly how the bracket will shake out.\n\nOklahoma was widely projected as the No. 1 national seed entering tournament week. Then Georgia happened. Now Nebraska (44-6, 19-game win streak), Texas Tech (51-5, Big 12 Tournament still alive), and Alabama (dominant in SEC quarterfinals) are all making their cases for the top spot.\n\nHere's how the bracket works for those new to the tournament:\n- 64-team field (31 automatic bids + 33 at-large)\n- 16 national seeds host regionals May 15-18\n- Super Regionals May 22-24\n- Women's College World Series: May 28-June 3 at Devon Park in Oklahoma City\n\nSet your alarm for Sunday at 7 PM. One of the most dramatic Selection Show reveals in years is on deck.\n\nWho do you think gets the No. 1 seed? Comment below! ⬇️\n```",
+        "image_caption": "```\nSelection Show is SUNDAY at 7 PM ET on ESPN2. 🎯 Oklahoma is out — who gets the No. 1 national seed? Nebraska? Texas Tech? Alabama? The bracket drops in 2 days. #Softball #WCWS #SelectionShow\n```",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Selection Show Sunday\n\n**Image Concept 6A — Social (1080x1350)**\n- **Type:** imagn\n- **Search term:** `NCAA softball tournament`\n- **Caption overlay:** \"SELECTION SHOW: Sunday 7 PM ET ESPN2 — Who Gets the No. 1 Seed?\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 7,
+    "facebook_posts_count": 6,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

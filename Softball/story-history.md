@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 8, 2026
+
+### Story 1: Georgia 10, Oklahoma 5 — Sooners Eliminated in SEC Tournament Shock
+- **Angle:** NEW STORY. No. 9 seed Georgia eliminated No. 1 Oklahoma 10-5 in SEC Tournament quarterfinals at John Cropp Stadium, Lexington KY. Largest comeback win in SEC Softball Tournament history. Harrison career night for Georgia. Oklahoma finishes 48-8; Kendall Wells ends at 36 HR (one shy of all-time record of 37, Espinoza, Arizona, 1995).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Georgia semifinal vs Texas; national seed implications for OU's RPI; Wells HR record attempt in 2027
+
+### Story 2: SEC Softball Semifinals — Florida vs. Alabama, Georgia vs. Texas
+- **Angle:** FOLLOW UP. Semifinal preview May 8 in Lexington. Florida beat Auburn 10-9; Alabama beat Arkansas 7-1; Texas beat Ole Miss 6-0; Georgia beat Oklahoma 10-5. Semis: FL vs AL (5 PM ET ESPN), GA vs TX (~7:30 PM ET ESPN).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** SEC semifinal results; SEC Championship game Saturday
+
+### Story 3: Nebraska 4, Michigan 2 — Huskers Advance, Win Streak Reaches 19
+- **Angle:** FOLLOW UP. Nebraska beat Michigan 4-2 in Big Ten Tournament quarterfinal at College Park MD. Win streak 19 games (longest active in D-I). Jordy Frahm 7 IP, 9 K. Advances to Big Ten semis vs Indiana (Friday 5 PM ET BTN). Record 44-6.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Nebraska Big Ten semifinal vs Indiana; Nebraska national seed case with OU eliminated
+
+### Story 4: Texas Tech 7, Baylor 0 — Canady Dominant Again, Red Raiders 51-5
+- **Angle:** FOLLOW UP. Canady 5 IP, 1 H, 6 K vs Baylor in Big 12 quarterfinal at Devon Park OKC. TTU improves to 51-5. Advances to Big 12 semis vs No. 5 Kansas (Friday 3 PM CT). Canady threw perfect game vs Baylor on May 2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** TTU Big 12 semifinal vs Kansas; Big 12 championship; national seed implications
+
+### Story 5: FSU and Duke Advance — ACC Softball Semifinals Set
+- **Angle:** FOLLOW UP. FSU beat Georgia Tech 2-1; Duke beat North Carolina 16-8 in ACC quarterfinals at Palmer Park, Charlottesville VA. ACC semis: FSU vs Stanford/Louisville (1 PM ET ACCN), Duke vs VaTech/Virginia (3:30 PM ET ACCN).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** ACC semifinal results; ACC championship; FSU national seed case
+
+### Story 6: Selection Show Sunday — Oklahoma's Upset Reshapes No. 1 Seed Race
+- **Angle:** FOLLOW UP. Selection Show May 10, 7 PM ET ESPN2. 64-team field. OU's elimination reshapes No. 1 national seed picture — Nebraska (44-6), TTU (51-5), Alabama are leading candidates. Regionals May 15-18, Super Regionals May 22-24, WCWS May 28-June 3.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Selection Show bracket reveal; national seed assignments; regional host announcements
+
+---
+
 ## May 6, 2026
 
 ### Story 1: SEC Tournament Day 2 — Second Round Games Set Quarterfinal Bracket
@@ -1743,55 +1777,5 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Conference standings after Week 2
   - Upsets or surprises
   - Updated rankings implications
-
----
-
-## May 3, 2026
-
-### Story 1: Oklahoma Sweeps A&M Games 2 & 3, Clinches 14th Straight SEC Title — Wells Ends Regular Season at 36 HRs
-- **Angle:** FOLLOW UP (from May 2 A&M stuns OU Game 1) — OU swept Games 2 & 3. G2: 4-3, Kai Minor walk-off triple in 6th. G3: 6-4, Minor HR on 4th pitch, Parker HR, Pickering HR. Wells stayed at 36 HRs — one from tying Espinoza's 31-year NCAA record (37). OU claims 14th consecutive SEC/conf title.
-- **Content Produced:** X (2 posts), FB long-form + caption, Article, Image concepts
-- **Follow-Up Opportunities:**
-  - Wells ties/breaks all-time NCAA record (37) in SEC Tournament
-  - SEC Tournament results for OU
-  - OU national seed and regional host bid
-
-### Story 2: Nebraska Sweeps Penn State Doubleheader, Wins First Outright Big Ten Title
-- **Angle:** FOLLOW UP (from May 2 Nebraska doubleheader preview) — G1: 5-1, Frahm 7IP/7K, Farrell HR. G2: Trailed 4-1 before 6th-inning rally (Hoffman 2 RBI, Frahm RBI single, Coor 2-RBI double), won 10-4. First outright Big Ten title in program history. 42-6, 22-1 Big Ten. First reg-season title since 2014.
-- **Content Produced:** X (2 posts), FB long-form + caption, Article, Image concepts
-- **Follow-Up Opportunities:**
-  - Nebraska Big Ten Tournament (May 6-9, College Park, MD) — No. 1 seed
-  - National seed and Bowlin Stadium regional host bid
-  - Frahm POY case
-
-### Story 3: NiJaree Canady Throws First Career Perfect Game on Senior Day — Texas Tech First to 50 Wins
-- **Angle:** FOLLOW UP (from May 2 Canady/TTech preview) — Canady perfect game vs Baylor, 8-0 (5 inn), 9 K, 62 pitches. First career PG. Texas Tech 50-4, first team nationally to 50 wins. Canady 21st win of senior year. No. 1 seed in Big 12 Tournament (May 7-9, Devon Park, OKC).
-- **Content Produced:** X (2 posts), FB long-form + caption, Article, Image concepts
-- **Follow-Up Opportunities:**
-  - Big 12 Tournament (May 7-9) — TTech vs No. 8 seed
-  - Canady final season farewell
-  - National seed / OKC path
-
-### Story 4: SEC Tournament Bracket Set — OU No. 1, Alabama No. 2, Florida No. 3, Texas No. 4 All Earn Double Byes
-- **Angle:** FOLLOW UP (from May 2 SEC seeding story) — Full bracket locked. OU 20-4 SEC No. 1, Alabama 19-5 No. 2, Florida 17-7 No. 3, Texas 16-8 No. 4. All four get double byes. John Cropp Stadium, Lexington, KY. May 5-9.
-- **Content Produced:** X (1 post), FB long-form + caption, Article, Image concepts
-- **Follow-Up Opportunities:**
-  - SEC Tournament game results (starts Tuesday)
-  - National seed picture after SEC Tournament
-
-### Story 5: Florida State Clinches Share of 19th ACC Title, Targets National Seed
-- **Angle:** FOLLOW UP (from May 2 FSU at BC preview) — FSU 45-8, 20-3 ACC clinches 19th ACC regular season title (share). Projected Tallahassee Regional host. ACC Tournament May 6-9, Charlottesville, VA.
-- **Content Produced:** X (1 post), FB long-form + caption, Article, Image concepts
-- **Follow-Up Opportunities:**
-  - ACC Tournament performance (May 6-9)
-  - FSU national seed confirmation on May 10 Selection Show
-
-### Story 6: Conference Tournament Week Schedule
-- **Angle:** EVERGREEN — All five tournament dates/venues. SEC: May 5-9 Lexington. Big Ten: May 6-9 College Park. Big 12: May 7-9 OKC. ACC: May 6-9 Charlottesville. Selection: May 10.
-- **Content Produced:** X (1 post), FB long-form + caption
-
-### Story 7: Wells Needs 2 HRs to Break All-Time NCAA Record in SEC Tournament
-- **Angle:** EVERGREEN — Wells at 36. Needs 1 to tie (37, Espinoza, Arizona, 1995), needs 2 to break outright. Multiple games in SEC Tournament to make history.
-- **Content Produced:** X (1 post), FB long-form + caption
 
 ---
