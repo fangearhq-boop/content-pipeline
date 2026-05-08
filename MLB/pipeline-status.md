@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-08
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (13), image concepts (6 for all stories), image manifest, articles (5), fact-check (25 claims, 0 char violations, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (14 posts X, 14 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). 0 char violations.
+- **Key Stories**: Paul Skenes 8 IP 0 ER 7 K vs AZ (P10), Murakami 14 HR before first double/triple MLB record tied Judge HR lead (P9), Cubs 24-12 14 home win streak franchise record (P8), Jordan Walker .308/10HR/.962 OPS Cardinals (P8), Travis Bazzana first MLB hit Guardians No.1 pick (P7), Braves 26-12 MLB best despite Mariners loss (P4)
+
+## Previous Run
 - **Date**: 2026-05-07
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 2 char violations fixed before compile — S4T1 324→245, S6T1 331→248; 0 after fix), FB posts (12), image concepts (6 for all stories), image manifest, articles (5), fact-check (0 char violations, 0 consistency issues), compile (6 stories, 8 tweets, 0 FB parsed — known, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (14 posts X, 14 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py (direct push succeeded).
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

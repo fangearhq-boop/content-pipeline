@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-08
+
+### Story 1: Paul Skenes 8 Shutout Innings vs. Diamondbacks
+- **Angle:** NEW STORY. Defending NL Cy Young winner threw 8 IP, 0 ER, 2 H, 7 K vs Arizona on May 7. Described as his best start of the 2026 season.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Skenes Cy Young 2026 race; next start
+
+### Story 2: Murakami — 14 HRs Before First Extra-Base Hit (MLB Record)
+- **Angle:** NEW STORY. White Sox rookie Munetaka Murakami set MLB record with 14 career HRs before recording first double or triple (first double came May 4). Tied with Aaron Judge (Yankees) for MLB HR lead at 14. Signed $34M/2-year deal. Debut March 26, 2026.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** HR race Murakami vs Judge; 50+ HR pace watch; White Sox season
+
+### Story 3: Cubs 24-12 — Franchise Home Win Record, NL Central Lead
+- **Angle:** FOLLOW UP. Cubs 24-12, 7-game win streak (18 of last 21), 14 straight home wins (franchise record), 3.5 game NL Central lead. Walk-off 3-peat vs Reds covered May 7 — this story zooms out to season record.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Cubs NL Central lead vs Cardinals; Wrigley Field streak
+
+### Story 4: Jordan Walker Cardinals — .308/10HR/.962 OPS
+- **Angle:** FOLLOW UP. Walker .308 BA, 10 HR, 27 RBI, .962 OPS in 34 games. Jumped from .584 OPS in 2025. Cardinals beat Dodgers in series. 24-year-old RF as Cardinals cornerstone.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Cardinals NL Central race; Walker All-Star candidacy
+
+### Story 5: Travis Bazzana First MLB Hit — No. 1 Pick Arrives
+- **Angle:** NEW STORY. Travis Bazzana (No. 1 overall pick, 2024 MLB Draft, Australian) recorded first career MLB hit for Cleveland Guardians in early May 2026. Debut was 0-2, 2 BB vs Rays. Hit came vs Oakland Athletics.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Bazzana continued development; Guardians outlook
+
+### Story 6: Braves 26-12 — Still MLB Best Despite Mariners Loss
+- **Angle:** FOLLOW UP. Braves lost to Mariners 3-1 on May 7. Still 26-12, MLB's best record. MLB-leading 5.61 RPG in 38 games.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Braves NL pennant race; continued run production
+
+---
+
 ## 2026-05-07
 
 ### Story 1: Cubs Walk-Off 3-Peat — 8-Game Streak, 14 Straight at Wrigley
