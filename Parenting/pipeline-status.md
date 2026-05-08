@@ -1,6 +1,44 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: May 7, 2026
+## Latest Run: May 8, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Touch-A-Truck May 16 (norrispenrose.com, free tickets, timed entry, 15k expected, helicopters + kids entrepreneur market); Garden of Gods Art Festival May 16-17 (Rock Ledge Ranch, kids under 12 free, 150 artists, free shuttle from Coronado HS); Uuoeebb infant walker recall (CPSC 26-xxx, BaoD/Amazon, gray/black/pink, 2024-2025, fits through doorways + stair + head entrapment risk, no fix, dispose); D49 Student Success Center preschool Aug 2026 (2 classrooms, M-Thu, Falcon Elementary of Technology, Base49 before/after + Friday care, d49.org); AAP 2026 immunization schedule (clesrovimab RSV newborns, HPV ages 9-12 vs CDC 11-12, COVID-19 6-23mo, 12 org endorsements, HealthyChildren.org) |
+| Story History Check | COMPLETE | 5 NEW STORIES — all verified against May 7 story history, no duplicates |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging, sources noted |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments, byline assignments |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts; all verified under 280 chars (after fixing 5 violations); 4 hashtags each; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions in bold syntax; engagement questions; no hashtags |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories); 1080x1350 social, 1200x630 article hero |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles in articles/ folder (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no banned words) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present, no char violations; 88 claims; image manifest warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB stories, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (28 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-08.xlsx (8 posts) + TOBI cosp-postplanner-tobi-2026-05-08.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — proxy blocks WordPress API (Host not in allowlist) | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-08)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total
+- **Articles:** 5 (bylines: Sarah Morales x3, Jamie Rivera x2)
+- **PostPlanner exports:** cosp-postplanner-2026-05-08.xlsx (8 posts), cosp-postplanner-tobi-2026-05-08.xlsx (8 TOBI posts)
+- **Coverage:** Touch-A-Truck 3rd Annual May 16 (FREE, Norris Penrose, 9:30 AM-2 PM, timed entry, fire trucks + military vehicles + helicopters + kids entrepreneur market, up to 15,000 expected, norrispenrose.com); Garden of Gods Art Festival May 16-17 (Rock Ledge Ranch, 10 AM-5 PM, kids under 12 free, dogs welcome, 150 artists, live music, food trucks, free shuttle from Coronado HS); Uuoeebb infant walker recall CPSC alert (BaoD/Amazon 2024-2025, gray/black/pink, Production Batch 7654, fits through doorways + stair hazard + head entrapment, manufacturer won't fix, dispose immediately, SaferProducts.gov); D49 Student Success Center preschool Aug 2026 (2 classrooms M-Thu, Falcon Elementary of Technology, Base49 before/after school + Friday childcare, d49.org); AAP 2026 immunization schedule (clesrovimab added for RSV newborns, HPV now 9-12 AAP vs CDC 11-12, COVID-19 for ages 6-23mo, 12 org endorsements, HealthyChildren.org)
+- **Notes:**
+  - verify-facts.py initially found 5 char violations in X posts (S1-A 311, S1-B 287, S3-A 287, S5-A 325, S5-B 288); all fixed; second run passed
+  - compile-content-data.py: 5 stories, 8 X posts, 5 FB stories, 5 articles, 5 images
+  - review-dashboard.html generated (28 items)
+  - PostPlanner exports: both standard (8) and TOBI (8) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access (same as all prior runs)
+
+---
+
+## Previous Run: May 7, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

@@ -2,6 +2,45 @@
 
 ---
 
+## May 8, 2026
+
+### Story 1: 3rd Annual Touch-A-Truck — FREE Colorado Springs Family Event, May 16
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (3rd Annual Touch-A-Truck at Norris Penrose Event Center, 1045 Lower Gold Camp Rd; May 16, 9:30 AM-2 PM; FREE; timed entry; 15,000 expected; first responders/military/construction/helicopters; Children's Entrepreneur Market; free tickets norrispenrose.com)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** FREE; May 16 9:30 AM-2 PM; Norris Penrose; timed entry; 15,000 expected; helicopters weather permitting; Children's Entrepreneur Market; norrispenrose.com
+
+### Story 2: Garden of the Gods Art Festival Returns May 16-17 — Kids Free, Dogs Welcome
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (3rd Annual; Rock Ledge Ranch Historic Site; May 16-17, 10 AM-5 PM; $10 adults/$8 seniors+military/FREE under 12; 150 juried artists; live music; food trucks; kids activities; free shuttle from Coronado HS 1590 W. Fillmore St., 9:30 AM-5 PM both days; dogs welcome on leash; dashevents.com)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 16-17; Rock Ledge Ranch; $10/$8/free under 12; 150 artists; free shuttle from Coronado HS; dogs welcome
+
+### Story 3: CPSC Alert — Stop Using Uuoeebb Infant Walkers (Fall + Entrapment Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CPSC Recall + Warning; ~2,650 units; BaoD on Amazon Dec 2024-Sept 2025; $60-90; gray/black/pink; "Production Batch: 7654" under seat; fits through doorways + step failure (fall hazard) + head entrapment hazard; manufacturer unresponsive; stop use + dispose; do not sell/donate; cpsc.gov)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~2,650 units; Amazon BaoD; Dec 2024-Sept 2025; $60-90; "Production Batch: 7654" under seat; no remedy available; dispose only
+
+### Story 4: D49 to Open Student Success Center Preschool Classrooms in August 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 opens 2 full-time preschool classrooms at Student Success Center Aug 2026; M-Th schedule; permanent home at Falcon Elementary of Technology; Base49 partnership for before/after school + Friday childcare; applications at d49.org)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** August 2026; 2 classrooms; M-Th; Falcon Elementary of Technology; Base49 care; d49.org
+
+### Story 5: AAP Releases 2026 Immunization Schedule — Key Changes for COS Families
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP 2026 immunization schedule; key changes: clesrovimab added for RSV; HPV age range 9-12 AAP vs 11-12 CDC; COVID-19 for 6-23 months + risk groups; endorsed by 12 orgs; HealthyChildren.org for full schedule)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** clesrovimab for RSV (new); HPV 9-12 AAP vs 11-12 CDC; COVID-19 6-23 months; 12 endorsers; HealthyChildren.org
+
+---
+
 ## May 7, 2026
 
 ### Story 1: D11 Educators and Parents to Picket — 300+ Days Since Master Contract Severed

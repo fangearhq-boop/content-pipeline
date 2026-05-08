@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-08",
+  "compiled_at": "2026-05-08T12:35:22.105896+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "3rd Annual Touch-A-Truck — FREE Colorado Springs Family Event, May 16",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "FREE this Saturday in COS: Touch-A-Truck, May 16 at Norris Penrose, 9:30 AM-2 PM. Fire trucks, military vehicles, helicopters + a kids entrepreneur market. Up to 15,000 expected. Get free tickets at norrispenrose.com. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 1-2",
+          "text": "COS parents: Touch-A-Truck is Saturday May 16 at Norris Penrose. Timed entry this year — get your free tickets at norrispenrose.com. Fire trucks, military vehicles, helicopters and more, all free. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "Colorado Springs families, mark Saturday, May 16 on your calendar.\n\nThe 3rd Annual Touch-A-Truck is back at the Norris Penrose Event Center (1045 Lower Gold Camp Rd), running from 9:30 AM to 2 PM — and it's completely free.\n\nThis year, organizers are expecting up to 15,000 people (more than 11,000 showed up in 2025), so they're using timed entry to keep things moving. You'll want to grab your free tickets in advance at norrispenrose.com.\n\nKids of all ages can sit in, explore, and interact with vehicles from all corners of Colorado Springs: first responders, military, sanitation, construction, and community vehicles. Helicopters are expected to be there as well, weather permitting.\n\nThere's also a Children's Entrepreneur Market running alongside the event, where kids from the community sell their own handmade items. It's one of those events where kids get to see what's out there in the world and come home with a whole new set of career ideas.\n\nNo charge, no hidden fees. Just a big, accessible Saturday morning for COS families.\n\nWhich vehicles do your kids always go straight for at events like this?\n\n---",
+        "image_caption": "FREE this Saturday, May 16 in Colorado Springs: Touch-A-Truck at Norris Penrose, 9:30 AM-2 PM. First responders, military vehicles, helicopters (weather permitting), and a kids entrepreneur market. Up to 15,000 expected — get free tickets at norrispenrose.com",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-touch-a-truck-colorado-springs-may-16-2026.html",
+        "headline": "3rd Annual Touch-A-Truck Is Free This Saturday in Colorado Springs — Here's What to Know",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Touch-A-Truck May 16\n\n#### Social Image (1080x1350)\n- **Gemini prompt:** A bright outdoor family event scene featuring a large red fire truck parked in a sunny parking lot. A group of diverse children aged 3-8 are excitedly climbing into the cab of the truck with the help of a uniformed firefighter. Blue Colorado sky and mountains visible in the background. Warm, joyful mood. Vibrant primary colors. The bottom third of the image is a clean, slightly blurred or gradient area with no subjects, suitable for text overlay. Photorealistic style, natural daylight.\n- **Mode:** base_only\n- **Usage:** Social post 1080x1350\n\n#### Article Hero (1200x630)\n- **Gemini prompt:** A wide outdoor scene of a sunny Saturday family event with multiple large vehicles parked in a row — a fire truck, a construction loader, and a military jeep. Colorado mountain backdrop. Families and children of diverse backgrounds exploring the vehicles. Warm cheerful morning light. Clean composition, photorealistic. No text or signage in the image.\n- **Mode:** base_only\n- **Usage:** Article hero 1200x630\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Garden of the Gods Art Festival Returns May 16-17 — Kids Free, Dogs Welcome",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Garden of the Gods Art Festival is May 16-17 at Rock Ledge Ranch, 10 AM-5 PM. Kids under 12 get in FREE. 150 artists, live music, food trucks, and Pikes Peak as your backdrop. Free shuttle from Coronado HS both days. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Two outdoor family events in COS this weekend, May 16: Touch-A-Truck (FREE, Norris Penrose, 9:30 AM) AND Garden of the Gods Art Fest (kids free under 12, Rock Ledge Ranch, 10 AM). Pick one — or do both. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "If your family is looking for a way to spend next weekend outside in Colorado Springs, the Garden of the Gods Art Festival has a lot going for it.\n\nThe 3rd Annual festival runs Saturday and Sunday, May 16-17 at Rock Ledge Ranch Historic Site, from 10 AM to 5 PM both days. The backdrop is the Garden of the Gods rock formations with Pikes Peak in the distance — one of the best outdoor settings in all of Colorado for an event like this.\n\nHere's what we like for families: children under 12 get in free. Adults are $10, seniors and military pay $8 (with ID). If driving and parking sounds stressful, there's a free shuttle running both days from Coronado High School at 1590 W. Fillmore St., departing 9:30 AM and running through 5 PM.\n\nThe festival features 150 juried artists from across the country — pottery, jewelry, textiles, paintings, sculpture, glass work, and more. There's live music, food trucks, and activities for kids. If your dog is well-behaved and on a leash, they're welcome too.\n\nIt's the kind of weekend event that's easy to make a full morning or afternoon out of without spending a lot.\n\nAre you planning to head out to Garden of the Gods this weekend?\n\n---",
+        "image_caption": "Garden of the Gods Art Festival, May 16-17 at Rock Ledge Ranch. 150 artists, live music, food trucks, and kids under 12 get in free. Free shuttle from Coronado HS both days. Dogs welcome on leash.",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-garden-of-gods-art-festival-may-16-17-2026.html",
+        "headline": "Garden of the Gods Art Festival Is This Weekend: Free for Kids, Free Shuttle, Dogs Welcome",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Garden of the Gods Art Festival\n\n#### Social Image (1080x1350)\n- **Gemini prompt:** A family of three — two parents and a young child around age 5 — walking along a grassy outdoor art festival path. Behind them in the distance are the dramatic red sandstone rock formations of the Garden of the Gods against a clear Colorado blue sky. Art booth canopies visible along the path. Pikes Peak with snow visible in the far background. Warm late-morning light, golden hour feel. The bottom third of the image is a clean open grassy path area suitable for text overlay. Photorealistic.\n- **Mode:** base_only\n- **Usage:** Social post 1080x1350\n\n#### Article Hero (1200x630)\n- **Gemini prompt:** A wide shot of an outdoor art festival at a historic Colorado ranch site. Rows of white art booth canopies stretch across a green lawn. The Garden of the Gods red rock formations rise dramatically behind the festival. Snow-capped Pikes Peak visible against a blue sky. Visitors including families with children browsing artwork. Warm sunny day, landscape orientation. No text or branded signage.\n- **Mode:** base_only\n- **Usage:** Article hero 1200x630\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "CPSC Alert — Stop Using Uuoeebb Infant Walkers Immediately (Fall + Entrapment Hazard)",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "CPSC safety alert: Uuoeebb infant walkers (sold on Amazon by BaoD) are recalled. They fit through doorways, fail at steps, and trap babies' heads. Stop using immediately. Do not sell or donate. Dispose of them. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 3-2",
+          "text": "If you have Uuoeebb infant walkers at home — gray, black, or pink, sold on Amazon 2024-2025 — the CPSC says stop using and dispose. The manufacturer won't fix them. Check for \"Production Batch: 7654\" under the seat. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "Parents and caregivers: if you have an Uuoeebb brand infant walker at home, please stop using it right now.\n\nThe Consumer Product Safety Commission has issued both a Recall and a Warning for these walkers, which were sold on Amazon (by a seller called BaoD) between December 2024 and September 2025 for $60 to $90. About 2,650 were sold.\n\nThe walkers come in gray, black, and pink. They're collapsible with a round base and eight wheels. To check if yours is the affected product, look for a label under the seat that reads \"Production Batch: 7654.\"\n\nThere are two serious safety problems with these walkers. First, they can fit through standard doorways and do not stop at the edge of steps, meaning a baby can roll right off a stair. Second, the leg openings are large enough that a baby can slip downward until their head becomes trapped.\n\nThe manufacturer has not responded to the CPSC's requests to offer a fix or refund. That means there's no recall remedy available from the company.\n\nThe CPSC's guidance is direct: stop using immediately, and do not sell or donate this product. Dispose of it.\n\nIf you've already given one of these to another family or sold it secondhand, please let them know.\n\nHave you ever purchased baby gear on Amazon and later found out it had safety issues?\n\n---",
+        "image_caption": "CPSC safety alert: Uuoeebb infant walkers (sold on Amazon, 2024-2025) are recalled for fall and entrapment hazards. Stop using immediately. Do not sell or donate. Dispose of them. Look for \"Production Batch: 7654\" under the seat.",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-uuoeebb-infant-walker-recall-cpsc-2026.html",
+        "headline": "CPSC Alert: Stop Using Uuoeebb Infant Walkers Immediately — Fall and Entrapment Hazards",
+        "word_count": 718
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Uuoeebb Infant Walker Recall\n\n#### Social Image (1080x1350)\n- **Gemini prompt:** A photorealistic close-up of a baby infant walker — round base, eight wheels, collapsible frame in light gray — sitting on a hardwood floor at the top of a staircase. The stairs are visible in the background, creating a sense of the fall hazard. Neutral home interior setting. Slightly serious, informational mood. No baby in the image. Clean composition with the walker as the central subject. The bottom third has clean floor space for text overlay.\n- **Mode:** base_only\n- **Usage:** Social post 1080x1350\n\n#### Article Hero (1200x630)\n- **Gemini prompt:** A photorealistic product-style image of a collapsible baby walker with a round base and eight wheels, in a light gray color, on a plain white or light-colored background. The walker is centered. Neutral, clean, informational aesthetic. No text or branding. Landscape orientation.\n- **Mode:** base_only\n- **Usage:** Article hero 1200x630\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "D49 to Open Student Success Center Preschool Classrooms in August 2026",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D49 families: the Student Success Center opens two new preschool classrooms in August 2026. Mon-Thu program at Falcon Elementary of Technology, with Base49 care before/after school and Fridays. Apply at d49.org. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "D49 families looking for preschool options for the 2026-27 school year, here's something to know about.\n\nFalcon School District 49 is opening two new full-time preschool classrooms at the D49 Student Success Center starting in August 2026. The center's permanent home will be at what is currently the Falcon Elementary School of Technology campus.\n\nThe preschool program runs Monday through Thursday. And for families who need more coverage, D49 is partnering with Base49 to provide before- and after-school care, plus childcare on Fridays. That's a meaningful expansion of access for working families who couldn't use the district's previous part-day programming.\n\nApplications are open now at d49.org.\n\nEarly childhood education spots in Colorado Springs tend to fill quickly. If this is on your radar for fall, it's worth checking out sooner rather than later.\n\nIs preschool access a challenge for families in your part of COS?\n\n---",
+        "image_caption": "D49 is opening two new preschool classrooms at the Student Success Center this August. Monday-Thursday program, Base49 care before/after school and Fridays. Applications at d49.org.",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-d49-student-success-center-preschool-2026.html",
+        "headline": "D49 Opens Two New Preschool Classrooms This August at Student Success Center",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Student Success Center Preschool\n\n#### Social Image (1080x1350)\n- **Gemini prompt:** A bright, cheerful preschool classroom interior. Small round tables with colorful chairs, educational posters on the walls, a reading corner with picture books on low shelves, natural light coming through large windows. The room is inviting but empty of children — a fresh, new classroom waiting for students. Warm, welcoming color palette of yellows and light blues. The bottom third of the image shows clean classroom floor suitable for text overlay. Photorealistic.\n- **Mode:** base_only\n- **Usage:** Social post 1080x1350\n\n#### Article Hero (1200x630)\n- **Gemini prompt:** A warm photorealistic image of a young child around age 4 sitting at a small table in a colorful preschool classroom, focused on an art project. Crayons and paper on the table. Bookshelves and educational materials visible in the background. Natural window light. No other identifiable children or adults. Cheerful, educational atmosphere. Landscape orientation.\n- **Mode:** base_only\n- **Usage:** Article hero 1200x630\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "AAP Releases 2026 Immunization Schedule — Key Changes for COS Families",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "AAP 2026 immunization schedule is out. Key changes: clesrovimab added for RSV protection; HPV now ages 9-12; COVID-19 for children 6-23 months. Ask your COS pediatrician at the next well-child visit. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "5:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "The American Academy of Pediatrics has published its 2026 recommended immunization schedule for children and adolescents, and there are a few changes worth knowing before your next pediatrician visit.\n\nHere are the three most relevant updates for Colorado Springs families:\n\nRSV protection: clesrovimab has been added to the schedule as an option for protecting newborns and young infants against respiratory syncytial virus.\n\nHPV vaccine: the AAP now recommends starting the HPV vaccine series at ages 9 to 12 — earlier than the CDC's recommendation of ages 11 to 12. If your child is in that age range, it's worth asking your pediatrician when they think is the right time to start.\n\nCOVID-19: the AAP recommends vaccination for all children ages 6 to 23 months, as well as older children who have underlying health conditions that put them at higher risk.\n\nThe schedule has been endorsed by 12 medical organizations, including the American Medical Association and the American College of Obstetricians and Gynecologists. The full schedule is available at HealthyChildren.org.\n\nColorado Springs pediatricians follow the AAP schedule. If you have questions about the changes or where your child stands, your child's doctor is the right starting point.\n\nDoes your family follow the AAP immunization schedule, or do you have a different approach with your pediatrician?\n\n---",
+        "image_caption": "AAP released the 2026 immunization schedule for kids. Key updates: RSV protection (clesrovimab) added; HPV now recommended ages 9-12; COVID-19 for children 6-23 months. Full schedule at HealthyChildren.org.",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-aap-2026-immunization-schedule-cos-families.html",
+        "headline": "AAP Released the 2026 Immunization Schedule: What Colorado Springs Families Need to Know",
+        "word_count": 747
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP 2026 Immunization Schedule\n\n#### Social Image (1080x1350)\n- **Gemini prompt:** A warm, reassuring medical scene: a friendly pediatrician in a white coat talking with a parent (gender-neutral, diverse) who is holding a baby of about 9 months old in a bright, clean medical office. The doctor is holding a printed schedule and pointing to it in a helpful gesture. Soft clinical lighting, welcoming atmosphere. The bottom third of the image shows a clean office floor or counter area suitable for text overlay. Photorealistic.\n- **Mode:** base_only\n- **Usage:** Social post 1080x1350\n\n#### Article Hero (1200x630)\n- **Gemini prompt:** A warm photorealistic image of a healthcare provider's hands holding a child vaccination record booklet open on a clean white desk. A stethoscope is partially visible. Bright medical office setting. No identifiable people. Simple, informational visual. Landscape orientation. Clean and professional.\n- **Mode:** base_only\n- **Usage:** Article hero 1200x630\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
