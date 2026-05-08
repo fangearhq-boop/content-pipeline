@@ -1360,3 +1360,37 @@
 - **Category:** Playoffs / Bracket Preview
 - **Key facts:** West R2 confirmed: No. 1 Thunder vs. No. 4 Lakers (G1 Tue OKC); No. 2 Spurs vs. No. 6 Wolves. East: Knicks waiting. Game 7s Sunday: Pistons-Magic 3:30PM ABC; Cavs-Raptors 7:30PM NBC.
 - **Status:** NEW STORY
+
+---
+
+## 2026-05-08
+
+### STORY 1: Thunder Roll Lakers 125-107 in Game 2 — OKC Takes 2-0 Series Lead
+- **Tier:** 1
+- **Category:** Playoff Results / Series Dominance
+- **Key facts:** Thunder 125, Lakers 107 (Game 2, May 7 at OKC). OKC leads 2-0. SGA 22 pts. Holmgren 22/9 reb/4 stl/3 ast/2 blk. Mitchell 20. McCain 18. Reaves 31 (10-16 FG). LeBron 23. OKC 32-15 3rd-quarter run with SGA on bench. Lakers cut lead to 5 in 4th before OKC pulled away.
+- **Status:** NEW STORY
+
+### STORY 2: Pistons Lock Down Cavaliers 107-97 — Cade's Clutch Fourth Quarter Seals 2-0 Series Lead
+- **Tier:** 1
+- **Category:** Playoff Results / Clutch Performance
+- **Key facts:** Pistons 107, Cavaliers 97 (Game 2, May 7 at DET). DET leads 2-0. Cade 25/10 (12 pts in 4th, 8-8 FT). Harris 21. Jenkins 14 off bench. Mitchell 31. Allen 22. Cavs 0-11 from three in 4th quarter.
+- **Status:** NEW STORY
+
+### STORY 3: Wembanyama and Spurs Obliterate Wolves 133-95 — Minnesota's Worst Playoff Loss in Franchise History
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Blowout
+- **Key facts:** Spurs 133, Wolves 95 (Game 2, May 6 at SA). Series tied 1-1. Wemby 19/15/2 blk (26 min). Castle 21. Fox 16. Spurs 50% FG, 41% 3P. Wolves shot 29.8% 1st half, 2-15 from three 1st half. Trailed 25 at HT. 35 pts in 1st half — worst postseason loss in Wolves franchise history.
+- **Status:** NEW STORY
+
+### STORY 4: Knicks Survive 76ers Scare 108-102 — Brunson, KAT, and OG Power New York to 2-0 Series Lead
+- **Tier:** 1
+- **Category:** Playoff Results / Gritty Win
+- **Key facts:** Knicks 108, 76ers 102 (Game 2, May 6 at NYK). NYK leads 2-0. Brunson 26 (9-21). OG 24. KAT 20/10/7 (27 min, foul trouble). Maxey 26. George 19. Oubre 19. Edgecombe 17. Embiid out (ankle/hip). 25 lead changes; Knicks 9-0 closing run.
+- **Status:** NEW STORY
+
+### STORY 5: Tonight's Double-Header — Knicks-76ers G3 (Embiid Questionable) + Spurs-Wolves G3
+- **Tier:** 2
+- **Category:** Preview / Game Day
+- **Key facts:** Knicks at 76ers G3 7PM ET Prime Video (NYK leads 2-0). Embiid QUESTIONABLE (ankle + hip). OG Anunoby questionable. Josh Hart questionable. Spurs at Wolves G3 9:30PM ET Prime Video (tied 1-1).
+- **Status:** NEW STORY

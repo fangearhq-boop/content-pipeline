@@ -1,8 +1,19 @@
 ## Last Run
-- **Date**: 2026-05-02
+- **Date**: 2026-05-08
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-08
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (4 Tier 1, 1 Tier 2)
+- **X Posts:** 8 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-05-08.xlsx (8 posts) + hh-postplanner-tobi-2026-05-08.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-08/review-dashboard.html (23 items)
+- **Notes:** Thunder 125, Lakers 107 (G2 May 7) — OKC leads 2-0; SGA 22, Holmgren 22/9/4stl, Mitchell 20, McCain 18; Reaves 31, LeBron 23; OKC 32-15 run in 3rd w/SGA out. Pistons 107, Cavaliers 97 (G2 May 7) — DET leads 2-0; Cade 25/10 (12 in 4th, 8-8 FT), Harris 21, Jenkins 14; Mitchell 31, Allen 22; Cavs 0-11 3P in 4th. Spurs 133, Wolves 95 (G2 May 6) — series tied 1-1; Wemby 19/15 (26 min), Castle 21, Fox 16; MIN's worst-ever postseason loss (38-pt margin). Knicks 108, 76ers 102 (G2 May 6) — NYK leads 2-0; Brunson 26, OG 24, KAT 20/10/7 (27 min); Maxey 26, George 19, Oubre 19, Edgecombe 17; Embiid out (ankle/hip); 25 lead changes, NYK 9-0 closing run. Tonight G3: Knicks at Philly 7PM ET Prime (Embiid QUESTIONABLE); Spurs at MIN 9:30PM ET Prime.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-02
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
@@ -25,35 +36,3 @@
 - **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-01/review-dashboard.html (29 items)
 - **Notes:** Knicks 140-89 Hawks (G6 April 30) — NBA playoff record 47-pt halftime lead (83-36); OG 29 (26 in 1H), Bridges 24 (10-12), KAT 12/11/10; NY wins series 4-2. Timberwolves 110-98 Nuggets (G6 April 30) — without Edwards (knee), DiVincenzo (Achilles), Dosunmu (calf), Anderson (ill); McDaniels 32, Shannon 24; MIN wins 4-2, faces Spurs in West Semis. 76ers 106-93 Celtics (G6 April 30) — series 3-3; Maxey 30, Embiid 19/10/8, George 23; Tatum exits with left calf discomfort; Game 7 Saturday TD Garden 7:30PM ET. Tonight (May 1): Magic-Pistons G6 7PM (ORL 3-2); Cavs-Raptors G6 7:30PM (CLE 3-2); Rockets-Lakers G6 9:30PM (LAL 3-2).
 - **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
-
-### 2026-04-30
-- **Steps completed:** 1-10b, 12-15 (Full pipeline)
-- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
-- **X Posts:** 9 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (Stories 1-5, pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
-- **PostPlanner exports:** hh-postplanner-2026-04-30.xlsx (9 posts) + hh-postplanner-tobi-2026-04-30.xlsx (9 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-30/review-dashboard.html (24 items)
-- **Notes:** Pistons 116, Magic 109 (Game 5, April 29) — Cade 45 (franchise record, 14/14 FT, 27 in 1st half), Banchero 45 (17/31, 6/11 3PM, 9reb/7ast); first pair of No.1 picks with 40+ in same playoff game since Iverson/Shaq in 2001 Finals; ORL leads series 3-2, G6 Friday. Cavaliers 125, Raptors 120 (Game 5, April 29) — CLE leads 3-2; road team had won all 4 prior games; Ingram left with right heel inflammation; Barrett 25, Walter 20, Shead 18. Rockets 99, Lakers 93 (Game 5, April 29) — HOU alive, LAL leads 3-2; Jabari Smith 22, Eason 18; LeBron 25; KD still out. Tonight (April 30): Knicks-Hawks G6 7PM (NYK leads 3-2); 76ers-Celtics G6 8PM (BOS leads 3-2); Nuggets-Wolves G6 9:30PM (MIN leads 3-2).
-- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
-
-### 2026-04-29
-- **Steps completed:** 1-10b, 12-15 (Full pipeline)
-- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (Stories 1-5, pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
-- **PostPlanner exports:** hh-postplanner-2026-04-29.xlsx (7 posts) + hh-postplanner-tobi-2026-04-29.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-29/review-dashboard.html (22 items)
-- **Notes:** 76ers 113, Celtics 97 (Game 5, April 28) — Embiid 33 pts (18 in 2nd half), Maxey 25/10, Celtics lead series 3-2, Game 6 Thursday Philly. Spurs 114, Trail Blazers 95 (Game 5, April 28) — Wembanyama 17/14/6 blk, Fox 21, SA advances 4-1, Western Semis vs OKC. Knicks 126, Hawks 97 (Game 5, April 28) — Brunson 39, Knicks lead 3-2, closeout Thursday Atlanta. Tonight (April 29): Magic-Pistons G5 7PM (ORL leads 3-1); Cavs-Raptors G5 7:30PM (tied 2-2 — road team won all 4); Rockets-Lakers G5 10PM (LAL leads 3-1).
-- **WordPress:** Blocked by egress proxy (Host not in allowlist) — same issue as April 28
-
-### 2026-04-28
-- **Steps completed:** 1-10b, 12-15 (Full pipeline)
-- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
-- **X Posts:** 8 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (Stories 1-5, pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
-- **PostPlanner exports:** hh-postplanner-2026-04-28.xlsx (8 posts) + hh-postplanner-tobi-2026-04-28.xlsx (8 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-04-28/review-dashboard.html (23 items)
-- **Notes:** Thunder 131, Suns 122 (Game 4, April 27) — OKC sweep 4-0; first team into Round 2; SGA 31/8 ast; Holmgren 24/12; Hartenstein 18/12 (7 OREB); 17/34 (50%) from three; Thunder 12-0 in Round 1 over 3 straight seasons. Nuggets 125, Wolves 113 (Game 5, April 27) — Jokic 27/12/16 ast triple-double to stave off elimination; Murray 24; Spencer Jones 20 off bench; series MIN 3-2; Game 6 Thu in MIN. Magic 94, Pistons 88 (Game 4, April 27) — 8-seed ORL leads 3-1; Bane 22/5 3PM; Cade 25/8 TOs; Tobias Harris 20; Game 5 Thu in ORL. Tuesday triple-header: Celtics-76ers G5 7PM ESPN (BOS 3-1); Knicks-Hawks G5 8PM NBC (tied 2-2 at MSG); Spurs-Blazers G5 9:30PM ESPN (SA 3-1). Rest of week: Lakers-Rockets G5 Wed LA (LAL 3-1); Cavs-Raptors G5 Wed CLE (tied 2-2).
