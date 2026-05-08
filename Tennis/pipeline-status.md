@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-05-07 |
-| Writing | Complete (all steps) | 2026-05-07 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 21 claims, image warnings cosmetic) | 2026-05-07 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 10 FB posts, 5 articles) | 2026-05-07 |
-| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-05-07 |
-| PostPlanner Export | Complete (standard 16 posts + TOBI 11 posts) | 2026-05-07 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-07 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-07 |
+| Research | Complete | 2026-05-08 |
+| Writing | Complete (all steps) | 2026-05-08 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 20 claims, image warnings cosmetic) | 2026-05-08 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB (format), 5 articles) | 2026-05-08 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-05-08 |
+| PostPlanner Export | Complete (standard 7 posts + TOBI 7 posts) | 2026-05-08 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-08 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-08 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-05-08 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-08.xlsx (7 posts), tfr-postplanner-tobi-2026-05-08.xlsx (7 TOBI posts)
+- **Coverage:** Sabalenka def. Krejcikova 6-2, 6-3 (R2 result, 84 min, 26 winners, 28-1 season, R3 vs Cirstea, still chasing first Rome title in 8 appearances); Paolini def. Jeanjean 6-7(4), 6-2, 6-4 (defending champ survives nearly 3 hours, 57 UE + 54 winners, R3 vs Mertens); Swiatek def. McNally 6-2, 6-3 (clay return after Madrid virus, four-time RG champion back in form, 17 days to RG main draw); Djokovic vs Prizmic + Sinner vs Ofner R2 evening preview (Djokovic first clay since IW March 12, 6-time Rome champ; Sinner 28-match M1000 streak; Zverev vs Altmaier afternoon); Sinner Career Golden Masters feature (8 of 9 M1000 titles, Rome the last piece, 2nd after Djokovic to complete if wins, SF = pass Djokovic 2011 31-win streak record, no Italian winner since Panatta 1976)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 20 claims; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 5 stories, 7 X posts, 0 FB (format parse issue, same as all prior runs), 5 articles, 5 images
+  - review-dashboard.html generated (22 items)
+  - PostPlanner exports: both standard (7) and TOBI (7) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-05-07 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
