@@ -1,0 +1,325 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-06",
+  "compiled_at": "2026-05-06T10:16:09.310157+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** SEC Tournament Day 2 — Second Round Clears the Path to Top Seeds",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Four games. One bracket. Today at the SEC Tournament in Lexington: Texas A&M vs Auburn (10 AM), Arkansas vs MSU (1 PM), Tennessee vs Ole Miss (4 PM), LSU vs Georgia (7 PM). All on SEC Network. The survivors meet Oklahoma, Alabama, Florida, and Tennessee Thursday. #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The SEC Tournament bracket is being sorted in Lexington right now. By tonight we'll know who faces No. 1 Oklahoma on Thursday — and who gets to pitch to Kendall Wells. #SECSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SECSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-sec-tournament-day-2-second-round-bracket.html",
+        "headline": "SEC Tournament Day 2: Four Second-Round Games Clear the Path to Top Seeds in Lexington",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 1A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Texas A&M softball\"\n- **Usage:** X + Facebook image post — SEC Tournament Day 2\n- **Caption Overlay:** \"SEC TOURNAMENT DAY 2 | Lexington, KY | May 6, 2026\"\n- **Status:** not_started\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"SEC softball tournament Lexington\"\n- **Usage:** Article header — SEC Tournament bracket piece\n- **Caption Overlay:** None (article hero)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Wells at 36 — Oklahoma Rests and Waits as NCAA Record Hangs in the Air",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kendall Wells: 36 HRs. The NCAA all-time record: 37 (Lauren Espinoza, Arizona, 1995). Oklahoma doesn't play until Thursday. The record is just… sitting there. #Sooners #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#NCAASoftball"
+          ],
+          "char_count": 181
+        },
+        {
+          "label": "Post 2-2",
+          "text": "No. 1 Oklahoma earned the double bye. No games until Thursday. Kendall Wells is one home run from tying the greatest individual record in college softball history. 31 years. One swing. #Sooners #SECSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#SECSoftball"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-wells-36-hr-ou-double-bye-record-watch.html",
+        "headline": "Kendall Wells at 36 HRs: Oklahoma's Double Bye Turns the Record Watch Into a National Vigil",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 2A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Kendall Wells Oklahoma softball\"\n- **Usage:** X + Facebook image post — Wells HR record watch\n- **Caption Overlay:** \"36 HRs | ONE FROM HISTORY | #Sooners\"\n- **Status:** not_started\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Oklahoma softball\"\n- **Usage:** Article header — Wells/OU double bye piece\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Big Ten Tournament Opens Today — Nebraska Watches as the Bracket Sets",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "The Big Ten Softball Tournament is LIVE in College Park. Four first-round games today on BTN. Nebraska (43-6, 23-1) waits as the No. 1 seed — they earned a bye into Thursday's quarterfinals with the program's first-ever Big Ten regular season title. #Huskers #BigTen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#BigTen"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Nebraska watches. Washington, Ohio State, Wisconsin, Northwestern all have to earn their Thursday shot at the No. 1 Huskers. Big Ten Tournament. College Park. All day on BTN. #Huskers #BigTenSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#BigTenSoftball"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-big-ten-tournament-nebraska-college-park.html",
+        "headline": "Big Ten Tournament Opens in College Park — Nebraska Waits as the No. 1 Seed",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 3A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Nebraska softball\"\n- **Usage:** X + Facebook image post — Big Ten Tournament opening\n- **Caption Overlay:** \"BIG TEN TOURNAMENT | College Park, MD | No. 1 Nebraska\"\n- **Status:** not_started\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Nebraska softball\"\n- **Usage:** Article header — Big Ten Tournament Nebraska piece\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** ACC Championship First Round Today — FSU Rests as Challengers Battle in Charlottesville",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The ACC Softball Championship is underway in Charlottesville. No. 1 seed FSU rests and watches today — the Seminoles don't play until Thursday. A title run strengthens their national seed case. #Noles #ACCSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Noles",
+            "#ACCSoftball"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-acc-tournament-fsu-charlottesville-national-seed.html",
+        "headline": "ACC Tournament Opens in Charlottesville — FSU's National Seed Bid Runs Through This Week",
+        "word_count": 550
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 4A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Florida State softball\"\n- **Usage:** X + Facebook — ACC Tournament FSU\n- **Caption Overlay:** \"ACC CHAMPIONSHIP | Palmer Park | FSU No. 1 Seed\"\n- **Status:** not_started\n\n#### Image Concept 4B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Florida State softball\"\n- **Usage:** Article header — ACC Tournament FSU piece\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Big 12 Tournament Starts Tomorrow — Texas Tech and Canady Return to Devon Park",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Big 12 Tournament at Devon Park opens TOMORROW. No. 1 Texas Tech (50-5) faces Baylor at 1:30 PM CT — the fourth time in seven days. NiJaree Canady just threw a perfect game. She's ready. #WreckEm #Big12Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#Big12Softball"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-big-12-tournament-texas-tech-canady-devon-park-preview.html",
+        "headline": "Big 12 Tournament Preview: Texas Tech and a Post-Perfect-Game Canady Open at Devon Park Thursday",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "#### Image Concept 5A — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"NiJaree Canady Texas Tech softball\"\n- **Usage:** X + Facebook — Big 12 Tournament preview\n- **Caption Overlay:** \"BIG 12 TOURNAMENT | Devon Park | Texas Tech No. 1 Seed\"\n- **Status:** not_started\n\n#### Image Concept 5B — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Texas Tech softball\"\n- **Usage:** Article header — Big 12 Tournament TTech preview\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Final NFCA Poll — Oklahoma No. 1, Nebraska Rises to No. 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Final NFCA poll before Selection Sunday: No. 1 Oklahoma. No. 2 Nebraska. No. 3 Texas Tech. No. 4 Alabama. Conference tournament week starts NOW — by Sunday, the bracket picture will look very different. #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** WCWS in 22 Days — Four More Sleeps to Selection Show",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "22 days to the WCWS. Selection Show is THIS SUNDAY — May 10, 7 PM ET on ESPN2. 32 teams. 16 national seeds. The bracket that determines it all drops in four days. Who's your No. 1 overall seed? #WCWS #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WCWS",
+            "#NCAASoftball"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 10,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -4,6 +4,16 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-05-04 | T1 | Cameron Young wins 2026 Cadillac Championship wire-to-wire at Trump National Doral — 19-under 269, 6-shot win over Scheffler; wire-to-wire; led by 1/5/6 after each round; 2nd win of 2026; $3.6M; final round moved up for weather; Scheffler 13-under; Griffin 3rd at -12; $20M Signature Event | X, FB, Article | NEW STORY — final result |
+| 2026-05-04 | T1 | Nelly Korda wins Riviera Maya Open at Mayakoba — 17-under, 4-shot win over Arpichaya Yubol (Thailand); Yu Liu 3rd at -12; Tavatanakit 4th at -10; 3rd LPGA win of 2026 in 6 starts; 3 wins + 3 runner-ups (no finish worse than 2nd); ties Annika Sorenstam consistency record per Sky Sports | X, FB, Article | FOLLOW-UP — final result |
+| 2026-05-04 | T1 | 2026 PGA Championship preview — Aronimink Golf Club, Newtown Square PA, May 14-17; 108th edition; Donald Ross design; Scheffler defending (won 2025 at Quail Hollow by 5); Scheffler +350; McIlroy +650 (defending Masters, back-to-back Augusta); DeChambeau +1000; Rahm +1400; first PGA Championship at Aronimink since 1962 | X, FB, Article | NEW STORY |
+| 2026-05-04 | T2 | Truist Championship preview — Quail Hollow Club Charlotte NC, May 6-10; McIlroy seeks record 5th title (won 2010, 2015, 2021, 2024); Cameron Young in field (won Cadillac wire-to-wire); final Signature Event before PGA Championship; $20M, 700 FedExCup pts; Green Mile (16-18) most demanding closing stretch on PGA Tour | X, FB, Article | NEW STORY |
+| 2026-05-04 | T2 | LIV Golf Washington DC preview — Trump National Golf Club, Sterling VA, May 7-10; Jon Rahm seeks back-to-back after Mexico City 21-under 6-shot win; concurrent with PGA Tour Truist Championship; final tune-up before PGA Championship for eligible players (Rahm, Johnson, Reed) | X, FB, Article | FOLLOW-UP |
+| 2026-05-03 | T1 | Cameron Young enters Cadillac Championship R4 with 6-shot lead (15-under); Scheffler and Kim T2 at -9; Adam Scott 66 in R3 despite wrong ball penalty; final round moved up to 7:30-9:40 AM ET due to rain; $20M Signature Event Blue Monster Trump Doral | X, FB, Article | FOLLOW-UP |
+| 2026-05-03 | T1 | Nelly Korda leads Riviera Maya Open by 3 entering R4 (14-under/202); eagle on 18 in R3 for 67; Arpichaya Yubol 2nd at 11-under; World No. 1, 22 of 27 HOF points; seeking back-to-back Riviera Maya title + 3rd win of 2026 | X, FB, Article | FOLLOW-UP |
+| 2026-05-03 | T2 | Stewart Cink wins Regions Tradition (PGA Tour Champions major); 4th win of 2026 (Mitsubishi Electric + Hoag Classic + Senior PGA + Regions Tradition); led by 3 entering R4; Greystone G&CC Birmingham AL | X, FB, Article | NEW STORY |
+| 2026-05-03 | T2 | LIV Golf Virginia preview — May 7-10 Trump National DC Sterling VA; $30M; Rahm arrives hot (6-shot win Mexico City 21-under); DeChambeau returns from wrist WD; Niemann defends 2025 individual title; Ripper GC leads team standings | X, FB, Article | FOLLOW-UP |
+| 2026-05-03 | T2 | Scheffler Doral comeback — opened R1 with 71 (7 back), climbed to 9-under T2 through 3 rounds; paired with Young/Kim in final group; analysis of World No. 1's resilience and response to opening stumble | X, FB, Article | FOLLOW-UP |
 | 2026-05-02 | T1 | Cameron Young R2 Cadillac Championship — 13-under (-13/127, 64-67), bogey-free R1, 14 birdies over 2 rounds, lone bogey R2 hole 14 recovered with birdie hole 16; 5-shot lead over Spieth/Taylor/Smalley at -8; Scheffler -6 T6; R3 Golf Channel 1 PM ET, Young/Taylor final pairing 1:35 PM ET | X, FB, Article | FOLLOW-UP |
 | 2026-05-02 | T1 | Korda and Do co-lead LPGA Riviera Maya Open R2 at -9 (135); Korda opened T4 -4 (68) then bogey-free 67 (5 birdies); Do world No. 345 leads alongside Korda; Green -8 (T3); Katsu -7; El Camaleon Playa del Carmen; R3 today | X, FB, Article | FOLLOW-UP |
 | 2026-05-02 | T1 | LIV Golf existential crisis — PIF ends funding after 2026 season; Yasir Al-Rumayyan steps down as board chairman; new independent board (Gene Davis + Jon Zinman); CEO says "funded through season"; 40% sponsorship growth, 129% ticket growth, 4 events profitable; multiple player reps contact PGA Tour re: returns; no Returning Member Program expected; New Orleans event postponed | X, FB, Article | FOLLOW-UP |
@@ -232,3 +242,93 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 | 3 | Rahm wins LIV Mexico City by 6 — closed 7-under 64 at Chapultepec; 2nd win of 2026, 4th individual LIV title; 16 LIV trophies (1 ahead of DeChambeau); Legion XIII sweeps team title by 9. DeChambeau WDs wrist. LIV Virginia next May 7-10. | 1 | NEW STORY |
 | 4 | Scheffler's runner-up streak — first since Greg Norman in 1986 to be runner-up at Masters AND RBC Heritage. Lost to McIlroy by 1 (Masters) and Fitzpatrick in playoff (Heritage). 1 win, 5 top-5s in 8 starts. McIlroy/Fitzpatrick absent from Doral field. | 2 | NEW STORY (Norman 1986 historical stat angle) |
 | 5 | Fitzpatrick beats Scheffler in playoff, wins RBC Heritage — Matt Fitzpatrick's 2nd PGA Tour win of 2026 before May. One-hole playoff at Harbour Town Golf Links April 19. Not in Cadillac field this week. | 2 | NEW STORY (not covered directly in prior pipelines) |
+
+---
+
+## 2026-05-05
+
+| # | Story | Tier | Status |
+|---|-------|------|--------|
+| 1 | Scheffler 3 consecutive runner-ups — Masters (lost McIlroy by 1), RBC Heritage (lost Fitzpatrick in playoff), Cadillac Championship (lost Young by 6). First since Sergio Garcia 2014. Career earnings past $110M. Taking week off before PGA Championship defense at Aronimink May 14-17. | 1 | NEW STORY |
+| 2 | McIlroy returns at Quail Hollow Truist Championship (May 6-10) — first start since back-to-back Masters win (Apr 12, 12-under, edged Scheffler by 1). 4-time winner at Quail Hollow (2010, 2015, 2021, 2024), seeks record 5th. 6 career majors (tied Trevino/Faldo/Mickelson, 12th all-time). First back-to-back Masters since Tiger (2001-02). $20M Signature Event. | 1 | NEW STORY |
+| 3 | Cameron Young moves to World No. 3 (career best) after Cadillac Championship win (+61 OWGR pts). Was outside top 60 a year ago. 2 wins in 4 starts in 2026: Players Championship (Mar) + Cadillac Championship (May). Only Gotterup and Fitzpatrick also have multiple 2026 wins. | 1 | NEW STORY |
+| 4 | Nelly Korda 2026 LPGA dominance — 3 wins (AIG Women's Open, Chevron Championship, Riviera Maya Open) + 3 runner-ups in 6 starts. Six events, six top-2 finishes. 17th career LPGA win. 22 of 27 HOF pts (5 away from eligibility). | 2 | NEW STORY |
+| 5 | Rahm vs DeChambeau LIV Virginia preview — both co-leading 2026 LIV individual standings with 2 wins each. LIV Golf Virginia May 7-10, Trump National Sterling VA, $30M purse. 7th event of season, roughly halfway point. Field: Smith, Hatton, Anthony Kim. | 2 | NEW STORY |
+
+---
+
+## 2026-05-06
+
+### STORY 1: Truist Championship Preview — McIlroy Seeks Record 5th Quail Hollow Title
+- **Tier:** 1
+- **Category:** Tournament Preview / PGA Tour
+- **Key facts:** Truist Championship, Quail Hollow Club, Charlotte NC, May 7-10. McIlroy has 4 wins at Quail Hollow (2010, 2015, 2021, 2024) — no one else has more than 2. First start since defending Masters title. Green Mile (holes 16-18) decides the tournament. $20M purse. Scheffler in field (3 consecutive runner-ups). McIlroy is betting favorite.
+- **Status:** FOLLOW UP (from 2026-05-05)
+- **Follow-up ideas:** Round 1-2 leaders; final result; McIlroy win or loss
+
+### STORY 2: PGA Championship at Aronimink — Donald Ross's Masterpiece, First PGA There Since 1962
+- **Tier:** 1
+- **Category:** Major Championship Preview
+- **Key facts:** PGA Championship May 14-17, Aronimink GC, Newtown Square PA. Ross designed 1928, called it his "masterpiece." Last PGA there: 1962 (Gary Player). Precision course — rewards shotmaking. Field of 154. Scheffler +350, McIlroy +650, DeChambeau +1200, Rahm +1200, Young +1400. US 250th anniversary Philadelphia connection.
+- **Status:** FOLLOW UP (from 2026-05-04/05 brief references)
+- **Follow-up ideas:** PGA Championship R1 leaders; winner; Ross course performance
+
+### STORY 3: LIV Golf Virginia Preview — Rahm Seeks 3rd Win, DeChambeau Co-Leads
+- **Tier:** 1
+- **Category:** LIV Golf Preview
+- **Key facts:** Maaden LIV Golf Virginia, May 7-10, Trump National Sterling VA. Rahm 2 wins (Mexico City most recent: 21-under, 6-shot win). DeChambeau 2 wins. Both co-lead individual standings. First LIV event after Miami. Both entered in PGA Championship May 14-17.
+- **Status:** FOLLOW UP (from 2026-05-05 LIV preview)
+- **Follow-up ideas:** Virginia results; LIV standings after; who leads heading into PGA
+
+### STORY 4: Scheffler Runner-Up Streak — PGA Championship Could Be Where It Ends
+- **Tier:** 2
+- **Category:** Player Analysis
+- **Key facts:** Scheffler runner-up 3 consecutive times (Masters -1, Hilton Head playoff, Cadillac -6). First since Garcia 2014. PGA Tour officially recognized. Defending PGA champion. Aronimink precision design suits his game. +350 PGA favorite.
+- **Status:** FOLLOW UP (from 2026-05-05 Scheffler runner-up streak story — new Aronimink angle)
+- **Follow-up ideas:** Truist result; PGA result; streak end
+
+### STORY 5: Nelly Korda HOF Countdown — 4 Points Away After Historic 6-Start Run
+- **Tier:** 2
+- **Category:** LPGA / Player Milestone
+- **Key facts:** Korda 23/27 HOF points (4 away). 3 wins (incl Chevron major) + 3 runner-ups in 6 starts. 18 career LPGA wins. Youngest American with 18 titles since Nancy Lopez at 23 (1980). First since Annika Sorenstam 2001 with no finish outside top 2 through 6 starts.
+- **Status:** FOLLOW UP (from 2026-05-05 Korda story — HOF milestone angle)
+- **Follow-up ideas:** Next win/HOF milestone; midseason HOF induction news
+
+---
+
+## 2026-05-07
+
+### STORY 1: Truist Championship Round 1 — McIlroy Seeks Unprecedented 5th Quail Hollow Title
+- **Tier:** 1
+- **Category:** Tournament Coverage
+- **Key facts:** Truist Championship R1 underway at Quail Hollow, Charlotte, NC (May 7-10). McIlroy returning after back-to-back Masters wins. 4 Quail Hollow wins (2010, 2015, 2021, 2024); seeking 5th (unprecedented). Set course record 62 in 2010, broke with 61 in 2015. No player has defended at this event. Field includes signature-event format with world rankings.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** R1/R2 scores; leaderboard; McIlroy performance
+
+### STORY 2: LIV Golf Virginia Opens — Rahm Leads by 302 Points, Seeks Third 2026 Win
+- **Tier:** 1
+- **Category:** Tournament Coverage / LIV Golf
+- **Key facts:** LIV Virginia (May 7-10) at Trump National Golf Club, Potomac Falls, VA (par 72, 7,679 yards, Tom Fazio). Rahm leads individual standings with 779 pts; DeChambeau 2nd at 476.90 (302-pt gap). Rahm 2 wins in 2026 (Hong Kong + Mexico City). DeChambeau cleared after wrist injury withdrawal at Mexico City.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** R1 scores; Rahm win; individual standings update
+
+### STORY 3: Scheffler's Three Runner-Ups — Aronimink Is the Answer
+- **Tier:** 1
+- **Category:** Feature / Championship Preview
+- **Key facts:** Scheffler runner-up at Masters (to McIlroy), RBC Heritage (playoff to Fitzpatrick), Cadillac Championship (6 back to Young). First since Sergio Garcia 2014 to have 3 straight runner-ups. PGA Championship May 14-17, Aronimink. Scheffler world No. 1, ~+350 favorite. Aronimink's precision demands suit his ball-striking.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** PGA Championship R1; Scheffler result
+
+### STORY 4: Nelly Korda Four Points from LPGA Hall of Fame
+- **Tier:** 2
+- **Category:** Player Feature / LPGA
+- **Key facts:** Korda 23/27 HOF points (4 away). 3 wins in 2026 (TOC, Chevron, Riviera Maya). First since Annika Sorenstam 2001 to start season with nothing worse than runner-up through 6 events (3W/3R). Youngest since Nancy Lopez 1980 to reach 18 career LPGA wins.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** HOF qualifying event; next win
+
+### STORY 5: Aronimink Deep Dive for PGA Championship
+- **Tier:** 2
+- **Category:** Course Analysis / Major Preview
+- **Key facts:** PGA Championship May 14-17, Aronimink, Newtown Square, PA. Donald Ross designed 1928 ("my masterpiece"). First PGA there since Gary Player 1962. 3 par-3s over 210 yards. Most elaborate bunkering of any Ross design. 200,000 expected. Scheffler +350.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** PGA Championship first round; field analysis

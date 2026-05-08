@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-05-01 |
-| Writing | Complete (all steps) | 2026-05-01 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 28 claims, image warnings cosmetic) | 2026-05-01 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles) | 2026-05-01 |
-| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-05-01 |
-| PostPlanner Export | Complete (standard + TOBI) | 2026-05-01 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-01 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-01 |
+| Research | Complete | 2026-05-07 |
+| Writing | Complete (all steps) | 2026-05-07 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 21 claims, image warnings cosmetic) | 2026-05-07 |
+| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 10 FB posts, 5 articles) | 2026-05-07 |
+| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-05-07 |
+| PostPlanner Export | Complete (standard 16 posts + TOBI 11 posts) | 2026-05-07 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-07 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-07 |
 
 ## Queue
 
@@ -24,6 +24,92 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-05-07 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions) = 16 total
+- **Articles:** 5 (bylines: Ryan Calloway x2, Elena Voss x2, Marcus Cole x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-07.xlsx (16 posts), tfr-postplanner-tobi-2026-05-07.xlsx (11 TOBI posts)
+- **Coverage:** Andreeva def. Ruzic 6-1, 6-0 (WTA Rome R2 — bounced back from Madrid final; tour-leading 13 clay wins; first-time RG seeding); WTA Rome Day 3 (Sabalenka vs Krejcikova headliner — Sabalenka eyes first Rome title vs 2-time Grand Slam champ; Gauff vs Valentova; Paolini defends vs Jeanjean); Djokovic vs qualifier Prizmic R2 preview (Prizmic beat Fucsovics; Djokovic first clay match since IW March 12; Sinner also enters R2); ATP Rome Day 2 (Berrettini vs Popyrin; Sonego vs Buse; Tsitsipas vs Machac; Day 1 upset Hanfmann def. Hurkacz); WTA Roland Garros form guide (Rome last WTA 1000 before RG May 25; Gauff defending; Sabalenka No. 1; Andreeva 13 clay wins; Swiatek needs form; Rybakina targets AO-RG double)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 21 claims; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 5 stories, 6 X posts, 10 FB posts, 5 articles, 5 images
+  - review-dashboard.html generated (21 items)
+  - PostPlanner exports: both standard (16) and TOBI (11) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+### 2026-05-06 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5 (bylines: Marcus Cole x2, Elena Voss x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-06.xlsx (17 posts), tfr-postplanner-tobi-2026-05-06.xlsx (12 TOBI posts)
+- **Coverage:** ATP Rome Day 1 main draw opens (Sinner/Djokovic byes into R2; Sinner vs Michelsen/Ofner, Djokovic vs Fucsovics/Prizmic; Zverev+Djokovic in bottom half); Sinner Career Golden Masters quest (8 of 9 M1000s won, Rome is last piece, would join Djokovic as only 2 players to complete it, also 3rd after Djokovic+Federer to win 8 different M1000s); Djokovic Rome comeback (6-time champion returns from shoulder injury, first tournament since Indian Wells, goals "at least RG ready"); WTA Rome Day 3 (Krejcikova def Jacquemot 6-2 6-4, faces Sabalenka No.1 who has never won Rome; Paolini defending 9th seed; Gauff/Paolini potential QF); Roland Garros 12 days away (Alcaraz out with wrist: tendon inflammation+cartilage damage; Sinner overwhelming favourite for Career Grand Slam; Djokovic uncertain; Zverev 2024 finalist; Gauff defends WTA)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 28 claims; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 5 stories, 7 X posts, 10 FB posts, 5 articles, 10 images
+  - review-dashboard.html generated (27 items)
+  - PostPlanner exports: both standard (17 posts) and TOBI (12 posts) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+### 2026-05-05 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-05.xlsx (8 posts), tfr-postplanner-tobi-2026-05-05.xlsx (8 TOBI posts)
+- **Coverage:** WTA Rome Day 1 opens (Sabalenka No. 1, Rybakina No. 2, Gauff No. 3, Swiatek No. 4, defending champ Paolini seeded 9th; Gauff projected QF vs. Andreeva/Paolini); Sinner eyes 6th consecutive M1000 title (28-match streak, opens vs. Michelsen/Ofner, home crowd Foro Italico); Djokovic returns from 6-week shoulder injury absence (drew Fucsovics/qualifier, same quarter as Musetti/Lehecka/Ruud, targets Roland Garros); ATP Rome draw analysis (Sinner opposite half from Djokovic, FAA/Shelton/Medvedev in Sinner's half, Alcaraz/Fritz/Draper/Rune withdrew); Roland Garros 13 days to qualifying (May 18 qualifying, May 25 main draw, Alcaraz out, Sinner clear favourite, Djokovic uncertain, Gauff defends WTA)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 26 claims; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images; posting-window warnings cosmetic
+  - review-dashboard.html generated (28 items)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+### 2026-05-04 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Marcus Cole x2, Ryan Calloway x2, Elena Voss x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-04.xlsx (8 posts), tfr-postplanner-tobi-2026-05-04.xlsx (8 TOBI posts)
+- **Coverage:** Sinner def. Zverev 6-1, 6-2 (57 min) — 5th consecutive M1000 title (unprecedented, record beats Federer/Nadal/Djokovic), 19W/5UE, 0 BPs faced, 93% first serve, 30-2 on season, 28 M1000 win streak; WTA Rankings shake-up (Kostyuk career-best No. 15, Andreeva to No. 7 youngest in top 10, Swiatek passes Gauff to No. 3); Rome Italian Open preview (starts Tue May 5 WTA / Wed May 6 ATP, Sinner leads, Djokovic targeting return, Paolini defends, Alcaraz/Fritz/Draper out); ATP Rankings (Sinner 14,350 pts, 1,390 ahead of Alcaraz, 1,000 fresh points); Roland Garros 14 days away (Wawrinka 21st/final RG, Monfils/Garcia honored, Alcaraz out, Djokovic targeting Rome-then-Paris return)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 23 claims; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images; posting-window warnings cosmetic
+  - review-dashboard.html generated (28 items)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+### 2026-05-03 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-03.xlsx (8 posts), tfr-postplanner-tobi-2026-05-03.xlsx (8 TOBI posts)
+- **Coverage:** Kostyuk def. Andreeva 6-3, 7-5 (1h21m, first WTA 1000 title, 12-0 clay, first Ukrainian to win Madrid, backflip viral); Sinner vs Zverev ATP Final today (11 AM ET, Sinner chasing 5th consecutive M1000 title, H2H 9-4 Sinner, won last 8, €1M to winner); Roland Garros 15 days away (Alcaraz out, Djokovic doubtful, Sinner heavy favourite, Gauff defends); ATP Rankings (Sinner extends lead to 1,040+ pts over Alcaraz, Fils rises to No. 17 up 8 spots); Italian Open entry lists (Sinner/Djokovic ATP, Sabalenka/Rybakina/Gauff/Swiatek/Eala WTA, Alcaraz out, Raducanu uncertain)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 14 claims; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images; posting-window warnings cosmetic
+  - review-dashboard.html generated (28 items)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+### 2026-05-02 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-02.xlsx (7 posts), tfr-postplanner-tobi-2026-05-02.xlsx (7 TOBI posts)
+- **Coverage:** Sinner def. Fils 6-2, 6-4 (85 min, 350th win, youngest to reach finals at all 9 M1000 events, 27-match M1000 streak, no BPs faced); Zverev def. Blockx 6-2, 7-5 (1h35m, 35 winners, 30th Madrid win, 4th Madrid final — 3rd man after Federer/Nadal); WTA Final today 5 PM CEST — Andreeva (12-1 clay) vs Kostyuk (10-0 clay), first clay meeting, H2H Kostyuk won Brisbane HC; ATP Final preview Sinner-Zverev — 5 consecutive M1000 titles on the line (never achieved), Sinner 8-0 last 8 H2H; Roland Garros 16 days away — Alcaraz out, Djokovic doubtful, entry lists released
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 26 claims; image warnings cosmetic (not_started expected)
+  - compile-content-data.py: 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images; posting-window warnings cosmetic
+  - review-dashboard.html generated (27 items)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-05-01 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

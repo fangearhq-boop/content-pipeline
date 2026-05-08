@@ -2,6 +2,38 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-03
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Miami Sprint (May 2): Norris wins McLaren 1-2 (Piastri P2, Leclerc P3); Antonelli demoted from P4 to P6 (track limits 5s penalty); Bortoleto (Audi) DSQ from P11 (engine tech infringement); Norris's first win of 2026 | 1 | NEW STORY |
+| 2 | Miami GP qualifying: Antonelli P1 (1m27.798s), Verstappen P2 (+0.166s), Leclerc P3 (+0.345s), Norris P4 (+0.385s), Russell P5 (+0.399s) | 1 | NEW STORY |
+| 3 | Miami GP race today moved to 1 PM ET (from 4 PM) due to thunderstorm threat — Antonelli on pole, Verstappen P2, Leclerc P3, Norris P4 | 1 | NEW STORY |
+| 4 | Championship after Miami Sprint: Antonelli leads Russell by 7 pts (was 9 pre-sprint); Leclerc 3rd with 55 pts | 2 | FOLLOW-UP (standings update) |
+| 5 | McLaren sprint 1-2 validates Miami upgrade — Stella: "completely new car from aerodynamic standpoint"; Norris P1 in sprint qualifying (first non-Mercedes pole of 2026) | 2 | FOLLOW-UP (McLaren upgrade story) |
+
+### STORY 1: Miami Sprint — Norris McLaren 1-2, Antonelli Penalty
+- **Tier:** 1
+- **Key facts:** Norris P1, Piastri P2 (+3.766s), Leclerc P3 (+6.251s), Russell P4 (+12.951s), Verstappen P5 (+13.639s). Antonelli on road P4 → demoted to P6 (5s track limits penalty). Bortoleto DSQ from P11 (engine tech infringement). Norris's first win of 2026. McLaren ran new floor/bodywork/rear wing/brake ducts.
+
+### STORY 2: Miami GP Qualifying
+- **Tier:** 1
+- **Key facts:** Antonelli P1 (1m27.798s). Verstappen P2 (+0.166s). Leclerc P3 (+0.345s). Norris P4 (+0.385s). Russell P5 (+0.399s). Top 5 covered by 0.399s.
+
+### STORY 3: Miami GP Race Day (May 3)
+- **Tier:** 1
+- **Key facts:** Start moved to 1 PM ET from 4 PM ET due to thunderstorm threat. 57 laps, Miami International Autodrome. Antonelli on pole, Verstappen P2, Leclerc P3.
+
+### STORY 4: Championship Standings After Sprint
+- **Tier:** 2
+- **Key facts:** Antonelli leads Russell by 7 pts (was 9 before sprint cost him P4→P6). Leclerc 3rd with 55 pts.
+
+### STORY 5: McLaren Sprint 1-2 Warning Shot
+- **Tier:** 2
+- **Key facts:** McLaren ran new MCL40 (floor, bodywork, rear wing, brake ducts). Stella: "completely new car from aerodynamic standpoint." Norris sprint pole (first non-Mercedes pole of 2026). McLaren won Miami 2024, 2025.
+
+---
+
 ## 2026-05-01
 
 | # | Story | Tier | Tag |
@@ -1189,3 +1221,149 @@
 - **Category:** Race Preview / Weather
 - **Key facts:** Sunday Miami forecast: 88% rain, 53% thunderstorm. US law: must halt if lightning within 8 miles. FIA contingency plans confirmed. Race 4 PM ET. Wet conditions could neutralize McLaren upgrade; help Mercedes.
 - **Status:** NEW STORY
+
+---
+
+## 2026-05-04
+
+### STORY 1: Antonelli Makes History — Third Straight Win From Third Pole at Miami GP
+- **Tier:** 1
+- **Category:** Race Result / Historic Achievement
+- **Key facts:** Antonelli (Mercedes) wins 2026 Miami GP — 3rd consecutive victory; first driver in F1 history to convert first 3 poles into wins. Norris P2 (+3.264s), Piastri P3, Russell P4, Verstappen P5 (5-sec penalty), Hamilton P6, Colapinto P7, Leclerc P8 (20-sec penalty). Antonelli leads championship 100 pts, Russell 80 pts. Mercedes Constructors 180 pts.
+- **Status:** NEW STORY
+
+### STORY 2: Miami Race Chaos — Gasly Flipped Upside Down, Verstappen Spins, Multiple Penalties
+- **Tier:** 1
+- **Category:** Race Incidents / Drama
+- **Key facts:** Gasly's Alpine flipped upside down at Turn 17 after contact with Lawson (Lawson had gearbox failure, not penalized). Verstappen spun T1 (contact with Leclerc); +5-sec penalty pit exit breach. Leclerc +20-sec penalty track limits. Race moved from 3PM to 6PM local due to thunderstorm threat.
+- **Status:** NEW STORY
+
+### STORY 3: Norris Claims Miami Sprint Win — McLaren Shows Title Fight Is On
+- **Tier:** 1
+- **Category:** Sprint Result / Team Analysis
+- **Key facts:** Norris wins Miami Sprint (first McLaren win of 2026); Piastri P2; Leclerc P3. Antonelli P6 after 5-sec track limits penalty. Bortoleto DSQ, Hulkenberg DNS (engine). McLaren sprint win + double podium in race.
+- **Status:** NEW STORY
+
+### STORY 4: Championship Update — Antonelli 100 Points, Russell 80, Norris Climbs
+- **Tier:** 2
+- **Category:** Standings Analysis
+- **Key facts:** Antonelli 100 pts; Russell 80 pts (-20); Leclerc P3; Norris ahead of Hamilton. Mercedes 180 Constructors. Next: Canadian GP May 22-24.
+- **Status:** NEW STORY
+
+### STORY 5: Canada Preview — Circuit Gilles Villeneuve, May 22-24
+- **Tier:** 2
+- **Category:** Race Preview / Lookahead
+- **Key facts:** Round 5 of 24. Circuit Gilles Villeneuve, Montreal. Three-week break. Wall of Champions. Can anyone stop Antonelli?
+- **Status:** NEW STORY
+
+---
+
+## 2026-05-05
+
+### STORY 1: Antonelli's Championship Grip — 128 Points, 48 Clear of Russell, History Already Made
+- **Tier:** 1
+- **Category:** Championship Analysis
+- **Key facts:** After 4 rounds: Antonelli 128 pts, Russell 80, Leclerc 59, Norris 51, Hamilton 51. First driver in F1 history to win first 3 GPs from pole. Youngest championship leader in F1 history. Mercedes all 4 wins.
+- **Status:** NEW STORY
+
+### STORY 2: Verstappen and Red Bull's 2026 Technical Crisis
+- **Tier:** 1
+- **Category:** Driver/Team Analysis
+- **Key facts:** RB22 admitted "significant shortcomings" — rear instability, tire graining, high-speed energy harvest weakness. Start problems every race (MGU-H removal made launch harder). Exit clause if falls outside top 2 in championship. Verstappen P5 in Miami (after 5-sec penalty). Says doesn't "enjoy" new cars.
+- **Status:** NEW STORY
+
+### STORY 3: Hamilton Ferrari Resurgence — "Back to My Best"
+- **Tier:** 1
+- **Category:** Driver Analysis
+- **Key facts:** Hamilton P6 Miami, P3 China. "Back to my best — both mentally and physically." Second season at Ferrari easier (in simulator from mid-2025). Heaviest winter training ever. Mansell: "reinvigorated." Ferrari P2 constructors. Hamilton estimates Mercedes ~0.5s/lap advantage.
+- **Status:** NEW STORY
+
+### STORY 4: Norris/McLaren Not Giving Up — Sprint Win, Race P2
+- **Tier:** 2
+- **Category:** Team Analysis
+- **Key facts:** Norris P2 Miami race, won Miami Sprint. 51 pts, 77 behind Antonelli. Massive Miami upgrade: new floor, bodywork, rear wing, brake ducts ("completely new from aerodynamic standpoint"). Won't switch to 2027 car focus yet. 2024 comeback blueprint.
+- **Status:** NEW STORY
+
+### STORY 5: 2026 Regulation Report Card
+- **Tier:** 2
+- **Category:** Technical Analysis
+- **Key facts:** Mercedes A+ (4 wins, both cars dominant). Ferrari B+ (P2 constructors, competitive own PU). McLaren B (fought back with Miami upgrade). Red Bull F (rear instability, tire graining, energy issues, "significant shortcomings"). Full grid reshuffle from 2022-2025 order.
+- **Status:** NEW STORY
+
+---
+
+## 2026-05-06
+
+### STORY 1: Canadian GP Preview — Sprint Format at Circuit Gilles Villeneuve, McLaren Eyes Win
+- **Tier:** 1
+- **Category:** Race Preview / Circuit Guide
+- **Key facts:** Round 5, May 22-24, Circuit Gilles Villeneuve, Montreal. Sprint format at Canada for first time in 2026. McLaren's Miami aero upgrade (new floor, bodywork, rear wing, brake ducts) suits low-drag Montreal circuit. Antonelli seeks 4th win. Championship: Antonelli 100, Russell 80, Leclerc 59, Norris 51.
+- **Status:** FOLLOW UP (from 2026-05-04 brief Canada preview)
+- **Follow-up ideas:** Canada qualifying/race results; McLaren pace comparison
+
+### STORY 2: Red Bull RB22 Weight Crisis — 30kg Over Target, Fix May Wait Until 2027
+- **Tier:** 1
+- **Category:** Technical Analysis / Team Crisis
+- **Key facts:** RB22 approximately 30kg over 768kg minimum target. ~0.03s/lap per kg = ~0.9s/lap deficit. Cost cap prevents simultaneous 2026 fix + 2027 car development. Miami weight-reduction upgrades insufficient. Fix expected at 2027 chassis earliest. Verstappen 26 pts, 7th in standings.
+- **Status:** FOLLOW UP (deeper angle on 2026-05-05 Red Bull story)
+- **Follow-up ideas:** In-season weight reductions; 2027 car announcement
+
+### STORY 3: Hamilton Ditches Ferrari Simulator — "Sending Me in the Wrong Direction"
+- **Tier:** 1
+- **Category:** Driver News / Team Strategy
+- **Key facts:** Hamilton will skip Ferrari simulator for 3-week Canada break. Best 2026 race (P3 China) = no sim prep (back-to-back weekend). Miami = heavy sim prep then struggled. Ferrari "giving up 3-4 tenths straight-line speed." Still attending factory meetings. Hamilton 51 pts, P5 standings.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Canada result vs sim-free approach; Ferrari correlation fix
+
+### STORY 4: Leclerc's Quiet Title Threat — 59 Points, Third in Championship
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Leclerc 3rd in standings, 59 pts, 41 behind Antonelli. Ferrari 2nd in Constructors (110 pts vs 180 Mercedes). P8 Miami race (20-sec track limits penalty), P3 Miami Sprint. Ferrari own PU — circuit-specific advantages. Monaco June 5-7 suits Leclerc historically.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Leclerc win chance; Monaco; title math
+
+### STORY 5: Norris Title Math — 49 Points Behind, Canada Could Compress Championship
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Norris 51 pts, 49 behind Antonelli. Sprint weekend = max ~34 pts. One good Canada + one bad Antonelli weekend drops gap to ~25 pts. Miami upgrade "completely new aerodynamics." Norris explicitly targeting title (2024 McLaren comeback blueprint).
+- **Status:** FOLLOW UP (from 2026-05-05 Norris analysis)
+- **Follow-up ideas:** Canada qualifying/race; championship gap movement
+
+---
+
+## 2026-05-07
+
+### STORY 1: Antonelli at 19 — The Historic Season Stunning Formula 1
+- **Tier:** 1
+- **Category:** Championship Analysis / Feature
+- **Key facts:** Antonelli 100 pts after 4 races. Three wins from three poles — first in F1 history. Youngest championship leader in F1 history (19 years, 7 months, 4 days at Japan GP). Matched Senna and Schumacher: consecutive poles in first three starts. Held off Norris at Miami. Russell 80 pts (2nd). Mercedes 180 constructors.
+- **Status:** FOLLOW UP (from 2026-05-05)
+- **Follow-up ideas:** First career setback; Canada performance
+
+### STORY 2: Red Bull Miami Upgrade "Halved" Weight Deficit
+- **Tier:** 1
+- **Category:** Technical Analysis
+- **Key facts:** Miami upgrade package "halved" RB22 excess weight (from ~30kg to ~15kg over 768kg minimum). New parts look identical, weigh less. Red Bull staff "smiling" again. Full fix still summer/new chassis. Verstappen 26 pts, 74 behind Antonelli. Cost cap complicates 2026 fix + 2027 development.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Summer chassis update; Canada result
+
+### STORY 3: Canada Sprint Weekend — Championship Compression Opportunity
+- **Tier:** 1
+- **Category:** Race Preview / Strategy
+- **Key facts:** Canadian GP May 22-24, Circuit Gilles Villeneuve, sprint format. ~34 pts available. Antonelli leads Norris by 49. McLaren's Miami upgrade (new floor/bodywork/rear wing/brake ducts) suits low-drag Montreal. Verstappen historically strong at Montreal.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Canada qualifying/race results; McLaren pace vs Mercedes
+
+### STORY 4: Hamilton Goes Sim-Free for Canada
+- **Tier:** 2
+- **Category:** Driver Strategy
+- **Key facts:** Hamilton confirmed: no Ferrari simulator before Canadian GP. Correlation between sim and real track is poor. Best result P3 China = no sim prep (back-to-back weekend). Miami = heavy sim, struggled. "Car feels different when you get to the track." Hamilton 51 pts, joint P4.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Canada result vs sim-free approach
+
+### STORY 5: Verstappen's Title Math — 74 Points Back, Exit Clause Question
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Verstappen 26 pts, 7th in championship, 74 behind Antonelli after R4. Miami upgrades halved weight deficit. Summer fix remains target. Exit clause widely reported if too far outside top 2. Currently 5 places outside that threshold.
+- **Status:** FOLLOW UP (from 2026-05-05)
+- **Follow-up ideas:** Canada result; exit clause activation; summer chassis

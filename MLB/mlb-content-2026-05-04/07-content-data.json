@@ -1,0 +1,306 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-04",
+  "compiled_at": "2026-05-04T10:32:32.387635+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Ramírez Steals 300th Career Base — Now 9 HRs from the Exclusive 300/300 Club",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "José Ramírez stole his 300th career base Saturday in Cleveland's 14-6 win over Oakland.\n\nHe now needs just 9 more home runs to join the exclusive 300 HR/300 SB club. Only 8 players in MLB history have done it.\n\nHe might make it this season. #Guardians",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The 300/300 club: Bonds, A-Rod, Willie Mays, Dawson, Beltrán, Bobby Bonds, Sanders, Finley.\n\nJosé Ramírez is 9 home runs away from becoming the 9th member.\n\nNot bad for one of the most underrated players in baseball. #Guardians",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ramirez-300-steals-300-300-club-chase.html",
+        "headline": "José Ramírez Steals No. 300 — Now 9 HRs From Joining Baseball's Most Exclusive Club",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ramírez 300th Career Stolen Base\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** Jose Ramirez Cleveland Guardians\n- **Caption overlay:** \"300 CAREER STEALS. 9 FROM THE 300/300 CLUB.\"\n- **Mood:** Explosive, iconic, milestone\n- **Notes:** Ramirez mid-slide or celebrating; Guardians navy uniform\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** Jose Ramirez Cleveland Guardians\n- **Caption overlay:** \"JOINING MAYS, BONDS, A-ROD... SOON\"\n- **Mood:** Historic, powerful\n- **Notes:** Ramirez at-bat or celebrating a hit; clean stadium background\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Nick Kurtz Walk Streak Ends at 20 — Tied Bonds, 2 Shy of Roy Cullenbine's 1947 MLB Record",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Nick Kurtz's walk streak ended at 20 consecutive games Saturday.\n\nHe tied Barry Bonds. He passed Ted Williams. He needed just TWO more to break Roy Cullenbine's 1947 all-time record.\n\nThe A's first baseman leads MLB with 33 walks. Historic. #Athletics",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Athletics"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Roy Cullenbine walked in 22 straight games in 1947. No one had matched it in 79 years.\n\nNick Kurtz got to 20 before his streak ended Saturday. He joined Bonds and Williams in the record books.\n\nBaseball history gets made in the quietest ways. #Athletics",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Athletics"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kurtz-walk-streak-20-bonds-cullenbine-record.html",
+        "headline": "Nick Kurtz Walk Streak Ends at 20 — Tied Barry Bonds, Two Short of the 1947 All-Time Record",
+        "word_count": 617
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nick Kurtz Walk Streak Ends\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** Nick Kurtz Athletics\n- **Caption overlay:** \"20 STRAIGHT GAMES WITH A WALK. TIED BONDS.\"\n- **Mood:** Composed, elite plate discipline\n- **Notes:** Kurtz in batting stance or at first base; Oakland green and gold\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** Nick Kurtz Athletics\n- **Caption overlay:** \"33 WALKS BEFORE MAY. HISTORIC.\"\n- **Mood:** Patient hitter in the box; focus\n- **Notes:** Kurtz taking a pitch or watching ball four; first base visible\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Pirates Walk 7 Times in One Inning — Ties MLB Record from 1909 and 1983",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Pittsburgh Pirates walked SEVEN times in one inning against the Reds on Saturday.\n\nThat ties the MLB record for most walks in a single inning by one team. The only other times it happened: 1909 and 1983.\n\nBaseball is weird. And wonderful. #Pirates",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pirates"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-pirates-7-walks-one-inning-mlb-record.html",
+        "headline": "Pittsburgh Pirates Walk Seven Times in One Inning — Ties MLB Record from 1909 and 1983",
+        "word_count": 484
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pirates Walk 7 Times in One Inning\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** gemini\n- **Mode:** base_only\n- **Prompt:** Dramatic baseball scoreboard graphic showing single inning, seven walk symbols, retro MLB aesthetic, baseball diamond silhouette, deep navy blue and gold color palette, bold vintage typography\n- **Caption overlay:** \"7 WALKS. ONE INNING. TIES THE MLB RECORD.\"\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** Pittsburgh Pirates batting\n- **Caption overlay:** \"THE RECORD THAT STOOD SINCE 1909\"\n- **Mood:** Historic, dramatic\n- **Notes:** Pirates player walking to first base; PNC Park background if possible\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** James Wood HR, García's 4 Hits Snap Braves' 6-Game Win Streak — Nationals Win 11-4",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "James Wood hit a 412-foot opposite-field HR and reached base 5 times as the Nationals snapped Atlanta's 6-game winning streak 11-4 on Sunday.\n\nWood has the MLB-leading 5th opposite-field homer of the year. The kid is for real. #Nationals #Braves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Nationals",
+            "#Braves"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-james-wood-hr-nationals-braves-streak-snapped.html",
+        "headline": "James Wood HR, García's 4 Hits Snap Braves' 6-Game Streak — Washington 11, Atlanta 4",
+        "word_count": 543
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "James Wood / Nationals vs Braves\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** James Wood Washington Nationals\n- **Caption overlay:** \"412-FOOT HR. MLB-LEADING 5TH OPPO SHOT.\"\n- **Mood:** Power, explosive, triumphant\n- **Notes:** Wood following through on a swing or jogging the bases\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** James Wood Washington Nationals\n- **Caption overlay:** \"WOOD: 8 HRS. NATIONALS 11, BRAVES 4.\"\n- **Mood:** Confident young star\n- **Notes:** Wood at the plate or celebrating; Nationals red uniform\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Murakami at 13 HRs — On Track for One of the Greatest Rookie Seasons in MLB History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Munetaka Murakami leads MLB with 13 home runs in his first 32 career games.\n\nThat's 3rd-most ever in the first 32 games of an MLB career.\n\nHis first 12 career extra-base hits were ALL home runs. A record since at least 1900.\n\n65-HR pace. #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-murakami-13-hrs-historic-rookie-65-pace.html",
+        "headline": "Murakami at 13 HRs — The White Sox Rookie on Pace for One of the Greatest Power Seasons in MLB History",
+        "word_count": 637
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murakami HR Lead\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** Munetaka Murakami White Sox\n- **Caption overlay:** \"13 HRs. 65-HR PACE. WHITE SOX ROOKIE.\"\n- **Mood:** Explosive power, historic pace\n- **Notes:** Murakami in follow-through or celebrating a home run\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** Munetaka Murakami White Sox\n- **Caption overlay:** \"MLB'S MOST DANGEROUS ROOKIE HITTER\"\n- **Mood:** Dominant, fearless\n- **Notes:** Murakami at the plate; White Sox uniform visible"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** Vargas Hits .388 After 27-Game Streak — The Legacy of Baseball's Most Surprising Story",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Ildemaro Vargas went 0-for-4 Saturday. The streak is over.\n\nHe still leads MLB with a .388 batting average.\n\nThe 27-game hit streak ended. The story of one of baseball's most surprising seasons in years is just beginning. #Dbacks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dbacks"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** Milestone Monday — Five Numbers That Could Define the 2026 MLB Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "5 MLB numbers worth tracking this week:\n\n📊 Murakami — 13 HRs, on 65-HR pace\n📊 Ramírez — 9 HRs from the 300/300 club\n📊 Judge — approaching career HR No. 400\n📊 Vargas — .388 BA, streak gone but bat isn't\n📊 Rice — 1.214 OPS leads all of baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

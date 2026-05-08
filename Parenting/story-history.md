@@ -2,6 +2,209 @@
 
 ---
 
+## May 7, 2026
+
+### Story 1: D11 Educators and Parents to Picket — 300+ Days Since Master Contract Severed
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 Board of Education ended 56-year CSEA master agreement December 2025; stripped union of collective bargaining rights; triggered one-day teacher strike October 2025; now 300+ days later educators + parents plan to picket the board; affects enrollment decisions for 2026-27; d11.org for board meeting schedules)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 300+ days since contract severed; one-day strike October 2025; CSEA master agreement dated to late 1960s; parents joining picket is notable escalation; d11.org
+
+### Story 2: AAP Updates Screen Time Guidance — Quality Over Time Limits for Kids 6+
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP updated screen time guidance January 2026; under 18 months: no screens except video calls unchanged; 18-24 months: high-quality only + watch together unchanged; ages 2-5: up to 1 hr/day unchanged; ages 6+: NEW — focus on quality/context/conversation not strict time limits; social media: delay as long as possible reinforced; healthychildren.org Family Media Plan tool)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** January 2026 update; under-18-month rule unchanged; ages 6+ = quality+context+conversation framework; social media delay unchanged; healthychildren.org
+
+### Story 3: PAW Patrol Live! Comes to Pikes Peak Center May 23-24
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY ("A Mighty Adventure" touring show; Pikes Peak Center for the Performing Arts; May 23 Saturday + May 24 Sunday; toddlers through early elementary; Chase/Marshall/Skye/Mighty Pups; interactive + music; meet-and-greet at select performances; tickets at AXS.com + box office; D49 graduation May 23 at Broadmoor World Arena; Memorial Day weekend starts May 25)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** May 23-24; Pikes Peak Center; AXS.com tickets; best ages 2-7; D49 graduation conflict May 23; Memorial Day weekend starts May 25
+
+### Story 4: CPSC Recall — NFSVLB Baby Bath Seats (Drowning/Entrapment Risk)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CPSC recalls ~1,430 NFSVLB baby bath seats model ZY2025; blue-and-white seat with detachable arm restraints and 4 suction cups; can tip over + leg openings allow torso entrapment = drowning risk; sold Amazon by NFSVLB; remedy: full refund; write "Recalled," disassemble, cut suction cups, photo, email amzmaihuayd@163.com; no injuries reported)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** ~1,430 units; model ZY2025; Amazon only; email amzmaihuayd@163.com for refund; no receipt needed; no injuries reported
+
+### Story 5: CPSC Recall — Blossom Children's Loungewear (Burn Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (Blossom two-piece loungewear sets sizes 12M–12Y fail mandatory flammability standard for children's sleepwear; button-up shirt + matching shorts or pants; sold at children's boutiques + online retailers Sept 2023–May 2025; remedy: full refund (original payment or store credit); no receipt required; cut in half + photo + email sales@blossomocc.com or call 256-481-8838 M-F 8AM-3PM CT; no injuries reported)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Sizes 12M–12Y; Sept 2023–May 2025 sale period; boutiques + online; sales@blossomocc.com; 256-481-8838 (M-F 8AM-3PM CT); no receipt needed; no injuries reported
+
+---
+
+## May 5, 2026
+
+### Story 1: CPSC Recall — Vevor Baby Swings (~1,020 units) — Suffocation/Death Hazard
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (Sanven Technology recalls ~1,020 Vevor baby swings; models BB501K/BB702A/BB005K; incline >10 degrees violates Safe Sleep for Babies Act; marketed for infant sleep = suffocation risk; sold Vevor.com + Amazon Jan-Aug 2025; $65-$80; destroy cover, mark base, call 855-599-6320 M-F 9 AM-5 PM PT for full refund; no injuries reported)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~1,020 units; Vevor.com + Amazon; BB501K/BB702A/BB005K models; 855-599-6320 (M-F 9 AM-5 PM PT); no injuries yet; full refund
+
+### Story 2: Garden of the Gods Art Festival — May 16–17, 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (3rd Annual; May 16-17, Saturday-Sunday; Rock Ledge Ranch Historic Site; 10 AM-5 PM both days; 150 juried fine artists; pottery/jewelry/textiles/paintings/sculpture/glass art; live music; kid activities; food trucks; $10 adults/$8 seniors+military/FREE under 12/free Rock Ledge members; free shuttle from Coronado High School 9:30 AM-5 PM; dogs on leash OK)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 16-17; Rock Ledge Ranch; 10 AM-5 PM; $10/$8/FREE under 12; free shuttle Coronado High School; rockledgeranch.com
+
+### Story 3: CPSC Recall — Bellabu Bear Children's Bamboo Sherpa Robes — Burn Hazard
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (bamboo sherpa robes violate mandatory flammability standards; PAW Patrol/Minecraft/Garfield/Minions/Batman/etc. licensed designs; Saks Fifth Avenue + bellabubear.com + letthembelittleboutique.com + saksfifthavenue.com; Jan 2024–Jul 2025; ~$60; sizes S/M and M/L; label = "Bellabu Bear" + "BB-NW12109"; call 888-703-7752 M-F 9 AM-4 PM PT or help@bellabubear.com; full refund + prepaid return label)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** ~$60; Saks Fifth Avenue nationwide; BB-NW12109 label; 888-703-7752 (M-F 9 AM-4 PM PT); help@bellabubear.com; bellabubear.com/recall; full refund
+
+### Story 4: Summer Swim Safety — COS Families Before Memorial Day
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY (Memorial Day May 23-25; drowning = #1 unintentional death ages 1-4; AAP: swim lessons from age 1; 4-sided pool fencing; touch supervision within arm's length; USCG life jackets for open water; YMCA Pikes Peak swim programs; COS Parks & Rec pools open late May; YMCA urging safety May 4-5, 2026)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP swim lessons from age 1; 4-sided pool fence required; YMCA Pikes Peak (ymcapikes.org); Memorial Day May 23-25
+
+### Story 5: D11 Enrollment Increases for First Time in 12 Years
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 counted 86 more students than prior year; first increase in 12 years; nearly $1M additional state+federal funding; ~3,000 D11-boundary students attend D20, ~2,000 attend D49; open enrollment for 2026-27 ongoing; d11.org)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 86 more students vs. prior year; ~$1M additional funding; first increase in 12 years; d11.org for enrollment/choice info
+
+---
+
+## May 4, 2026
+
+### Story 1: CPSC Recall — CreateOn Crayola Pip-Cube Magnetic Sets (~9,400 units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (magnet ingestion hazard; ~9,400 sets recalled; Bold Colors and Glitter 24-set and 27-set; sold at Michaels + Amazon; magnets separate from seams → intestinal perforations + death if swallowed; free replacement from CreateOn; 800-333-0549; pipcuberecall@CreateOn.com; no injuries reported)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~9,400 units; Michaels + Amazon; 800-333-0549 (M-F 9:30 AM-4 PM CT); pipcuberecall@CreateOn.com; createon.com/recall/; no injuries yet; free replacement set
+- **Follow-Up:** Monitor for injury reports; share CPSC recall page link
+
+### Story 2: Pikes Peak Birding and Nature Festival — May 14–17, 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (11th annual; May 14–17, Thursday–Sunday; 73 field trips; Garden of the Gods, Paint Mines, Fountain Creek Nature Center, Bear Creek Nature Center; 14 seminars (3 virtual); 5 workshops; "Birds, Brews and Bites" social; low-cost registration covered most activities; pre-registration closed April 26 — check site for day-of options; pikespeakbirdingandnaturefestival.org)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 14–17, 2026; 73 field trips; Garden of the Gods + Paint Mines + Fountain Creek + Bear Creek; pre-registration closed April 26
+- **Follow-Up:** Post-festival recap; year-round nature center programming
+
+### Story 3: COS Downtown Farmers Market Opens Sunday May 10 at Acacia Park
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (opening day Sunday May 10 = Mother's Day; 9 AM–2 PM every Sunday; Acacia Park 115 E Platte Ave; free admission, no reservations; runs through October 25, 2026)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Opens May 10; Acacia Park 115 E Platte Ave; 9 AM–2 PM Sundays; through October 25, 2026; free
+- **Note:** Farmers Market briefly mentioned in May 3 Mother's Day story — this is a dedicated, standalone story for the season opening
+
+### Story 4: D49 Student Success Center — 2 New ECE Classrooms Opening August 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 Student Success Center opens August 2026; 2 new early childhood education classrooms; northeast COS expansion; families approaching kindergarten age should visit d49.org now for enrollment timelines)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Opening August 2026 (start of 2026–27 school year); 2 new ECE classrooms; d49.org for enrollment
+
+### Story 5: COS End of School Year 2026 — Last Days + Summer Planning
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY (D11 + D49 last day May 22; D11 graduations May 19–21 Ed Robson Arena; D49 graduations May 23 World Arena; summer resources: COS Parks Recreation, PPLD summer reading, YMCA Pikes Peak camps)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** May 22 last day (both D11 + D49); D49 3-hr early release; D11 grads May 19–21 Ed Robson Arena; D49 grads May 23 World Arena; cosparkfoundation.org, ppld.org, ymcapikes.org
+
+---
+
+## May 3, 2026
+
+### Story 1: Mother's Day in Colorado Springs — 2026 Guide (May 10)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Mother's Day guide for COS families: Colorado Wolf & Wildlife Center wolf tour ($40 adults/$20 kids 6–11), Lumen8 Rooftop Social brunch ($70/$35/free), Fine Arts Center brunch ($115/$25), Painting with a Twist May 9, Royal Gorge Route Railroad, Downtown Farmers Market opening day May 10 at Acacia Park — free)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Mother's Day = May 10; Wolf & Wildlife $40 adults/$20 kids 6–11, reservations required; Lumen8 $70/$35/free under 5; Fine Arts Center $115/$25 (12 and under); Painting with a Twist $45–$70; Downtown Farmers Market free, Acacia Park 9 AM–2 PM Sundays (opening day)
+- **Follow-Up Opportunities:** Post-Mother's Day roundup; summer outdoor family guide
+
+### Story 2: CPSC Recall — 227,500 Stephan Baby Boo Bunnie Plush Toys (Choking/Laceration Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CBC Group recalls Stephan Baby Boo Bunnie and Friends plush toys; water-filled plastic cube breaks into sharp pieces; 20 reports, 1 child swallowed pieces; sold Amazon/Target/Walmart Aug 2017–Jan 2026)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 227,500 units recalled in US, 1,400 Canada; sold Aug 2017–Jan 2026 at Amazon, Target, Walmart, independent stores; full refund with receipt; $10 check or $20 store credit without; cpsc.gov/Recalls; 1-800-638-2772
+- **Follow-Up Opportunities:** CPSC ongoing recall roundup; safe toy purchasing guide
+
+### Story 3: D11 Graduation Season 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 graduation ceremonies: Palmer/Mitchell May 19, Coronado/Doherty May 20, Achieve/Tesla/Bijou/Odyssey May 21; all at Ed Robson Arena, Colorado College; last day school May 22)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Palmer HS: May 19, 9:00 AM; Mitchell HS: May 19, 3:00 PM; Coronado HS: May 20, 9:00 AM; Doherty HS: May 20, 3:00 PM; Achieve/Tesla/Bijou/Odyssey: May 21 times TBD; venue Ed Robson Arena at Colorado College; last day May 22; Adult & Family Ed: May 28 at RJWAC
+- **Follow-Up Opportunities:** Post-graduation family celebration guide; end-of-year D11 coverage
+
+### Story 4: AAP Screen Time Guidelines 2026 — New Framework (Not 2-Hour Rule)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP released updated screen time guidelines Feb 2026; key shift: no more 2-hour limit for ages 6+; now focuses on quality/context/habits via "5 Cs" framework; ages under 18 months still no screens; ages 2–5 still 1 hour/day)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Released Feb 2026; under 18 months: no screens (unchanged); ages 2–5: 1 hr/day high-quality (unchanged); ages 6+: no set limit, focus on 5 Cs; device-free bedrooms/mealtimes; co-viewing encouraged; aap.org/HealthyChildren.org
+- **Follow-Up Opportunities:** Practical 5 Cs guide for COS families; device-free bedroom tips
+
+### Story 5: Garden of the Gods Art Festival — May 16–17, Rock Ledge Ranch
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (3rd Annual Garden of the Gods Art Festival; 150 juried artists; 10 AM–5 PM; $10 adults, $8 seniors/military, free under 12 and Rock Ledge members; free shuttle from Coronado HS; live music, food trucks, kids activities; proceeds benefit Rock Ledge Ranch)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** May 16–17, 10 AM–5 PM MT; Rock Ledge Ranch Historic Site; $10 adults; $8 seniors 65+/military; free under 12; free shuttle from Coronado HS 1590 W. Fillmore St. 9:30 AM–5 PM; 150 juried artists; rockledgeranch.com
+- **Follow-Up Opportunities:** Post-event photo roundup; May 2026 family events roundup
+
+---
+
+## May 2, 2026
+
+### Story 1: Territory Days 2026 — 50th Anniversary, May 23-25
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Territory Days celebrates 50th anniversary Memorial Day weekend; free admission; Kid Zone; 180+ booths; 3 stages; 25+ bands; free shuttle from downtown)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 23-25, Old Colorado City; free admission; Kid Zone: train, gold panning, inflatables, bungee trampolines; Memorial Day Remembrance Ceremony Monday; free shuttle from C.A.B. Garage downtown
+
+### Story 2: D49 Graduation Season 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 graduation dates: PPEC/SSAE/Patriot May 15; FHS/SCHS/VRHS May 23 at World Arena; board appointed Jack Ryan; new ECE classrooms August 2026)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** PPEC/SSAE/Patriot: May 15; FHS/SCHS/VRHS: May 23, World Arena; Jack Ryan appointed Director District 2; D49 repealed policy JBAA; 2 new ECE classrooms opening August 2026 at Student Success Center
+
+### Story 3: Pikes Peak Birding Festival + Touch-A-Truck
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Two free family events: Pikes Peak Birding Festival May 14-17, 30+ field trips; Touch-A-Truck 3rd Annual May 16, 9:30 AM)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Pikes Peak Birding Festival May 14-17, free, 30+ field trips; Touch-A-Truck May 16, 9:30 AM, free
+
+### Story 4: AAP Car Seat Safety Guidelines 2026 Update
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY (AAP updated Feb 2026: removed age-2 guideline for rear-facing; now based on car seat manufacturer's height/weight limit; booster until 4ft 9in)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Updated February 12, 2026; no more "rear-face until 2"; rear-face until max height/weight per seat; forward-facing harness as long as possible; booster until 4ft 9in (ages 8-12 typically); aap.org
+
+### Story 5: COS Outdoor Family Guide for May
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY (May weather in COS: highs 60s-70s; Garden of the Gods, North Cheyenne Cañon, Seven Bridges trails; altitude UV tips; afternoon thunderstorm warning)
+- **Content Produced:** Article, X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** COS elevation ~6,035 ft; UV increases ~4% per 1,000 ft; avg May high 68°F, avg low 43°F; Garden of the Gods free; afternoon thunderstorms common; Seven Bridges popular but crowded weekends
+
+---
+
 ## May 1, 2026
 
 ### Story 1: CPSC Recalls Roundup 2026 — Baby Bath Seats, Swings, Walkers, Robes
@@ -1860,3 +2063,43 @@
 - **Tier:** 2
 - **Key Facts:** Two Colorado Catholic preschools sued state 2023; excluded from UPK for restricting LGBTQ family enrollment; First Amendment argument; Supreme Court agreed to hear; UPK = 15 free hours/week for 4-year-olds; Colorado Springs has multiple UPK sites; ruling would affect future enrollment; no ruling timeline set; coloradouniversalpreschool.com
 - **Follow-Up Opportunities:** Case oral arguments; ruling impact on COS UPK providers; UPK enrollment guide for COS families
+
+### Story 1: D11 Graduation Season Begins May 19 — Complete COS Family Guide
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 end-of-year covered April 30 at high level; D11 specifics and combined guide new)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 1
+- **Key Facts:** D11 last day May 22, 2026; D11 graduations at Ed Robson Arena (CC): May 19 Palmer 9AM + Mitchell 3PM; May 20 Coronado 9AM + Doherty 3PM; May 21 Achieve/Tesla/Bijou 9AM + Odyssey 3PM; May 28 Adult+Family Ed 7PM; D49 graduations May 23 at Broadmoor World Arena 3185 Venetucci Blvd: Sand Creek 9AM, Falcon 1PM, Vista Ridge 5PM
+- **Follow-Up Opportunities:** Graduation celebration restaurant guide for COS families; post-graduation summer plans roundup
+
+### Story 2: MeadowGrass Music Festival May 22-24 — Kids 12 and Under Free
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 2
+- **Key Facts:** 17th Annual; May 22-24 2026, Memorial Day Weekend; La Foret Conference and Retreat Center, 6145 Shoup Road, COS CO 80908; kids 12 and under FREE with paid adult; Faricy Boys Kid Zone (giant bubbles-Milibo Art Theater, crafts-Concrete Couch, hay wagon, kid yoga, art); camping in Ponderosa Forest; Beer Festival Friday; food trucks all weekend; Rocky Mountain Highway Music Collaborative
+- **Follow-Up Opportunities:** Post-festival roundup; Memorial Day Weekend COS guide
+
+### Story 3: Joyful Journeys Baby Loungers Recalled — 9,300 Units
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CPSC Recall No. 26-181, January 8 2026)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 1
+- **Key Facts:** ~9,300 units; Sarnia Sales LLC d/b/a Joyful Journeys, Issaquah WA; Amazon + Walmart Dec 2023–Oct 2025, $40-$60; sides too low, foot openings too wide (entrapment), no stand (fall hazard); styles: green avocado, blue dinosaur, blue lambs, blue zoo, green minky, neutral elephants, pink zoo, white minky; action: stop use, destroy (cut in half), email photos to joyfuljourneysrecalls@myjoyfuljourneys.com for full refund; no injuries reported; CPSC hotline 1-800-638-2772
+- **Follow-Up Opportunities:** Baby sleep product safety roundup; infant sleep safety guide
+
+### Story 4: COS Parks Summer 2026 — New Trails Coming, Budget Cuts Affect Restrooms
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 2
+- **Key Facts:** ~25% neighborhood park permanent restrooms closed for 2026 season (budget cuts); Rock Island Trail: 210-ft pedestrian bridge over Sand Creek (Spring 2026) + pedestrian-activated flashing crossing at Peterson Road; Starsmore Visitor Center: expanded accessible parking, ADA walkways, new plaza, renovated restrooms; Garden of the Gods Park: systemwide wayfinding improvements; coloradosprings.gov/PRCS
+- **Follow-Up Opportunities:** Rock Island Trail completion update; Starsmore Visitor Center opening
+
+### Story 5: Summer Sun Safety for COS Kids — AAP Recommendations at 6,000 Feet
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (swim safety covered May 5 separately; sun safety distinct topic)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 2
+- **Key Facts:** No sunscreen under 6 months (shade + cover); broad-spectrum SPF 15-50 for 6+ months; avoid oxybenzone (hormonal concerns); zinc oxide or titanium dioxide for sensitive skin; apply 1 oz, reapply every 2 hours (40-80 min after swimming); COS elevation ~6,000 ft; UV ~4-5% stronger per 1,000 ft elevation; peak UV 10 AM–4 PM; multi-layer approach: sunscreen + clothing + shade + timing
+- **Follow-Up Opportunities:** Best COS splash pads and outdoor pools guide; UV protective clothing roundup for kids

@@ -1,0 +1,105 @@
+# Image Manifest — F1 Fanrecap — 2026-05-06
+
+```yaml
+pipeline_date: "2026-05-06"
+brand_kit_id: "f1-fanrecap"
+photo_source: "imagn"
+
+stories:
+  - story_number: 1
+    title: "Canadian GP Preview Sprint Format McLaren"
+    images:
+      - id: "s1-social-a"
+        type: "social"
+        dimensions: "1080x1350"
+        search_term: "Lando Norris McLaren"
+        credit: "(USA TODAY Sports Images)"
+        overlay: "CANADA NEXT / MAY 22-24 · SPRINT WEEKEND"
+        status: "not_started"
+      - id: "s1-social-b"
+        type: "social"
+        dimensions: "1080x1350"
+        search_term: "Kimi Antonelli Mercedes"
+        credit: "(USA TODAY Sports Images)"
+        overlay: "CAN ANYONE STOP ANTONELLI IN MONTREAL?"
+        status: "not_started"
+      - id: "s1-hero"
+        type: "article_hero"
+        dimensions: "1200x630"
+        search_term: "Circuit Gilles Villeneuve Formula One"
+        credit: "(USA TODAY Sports Images)"
+        overlay: "CANADIAN GP PREVIEW"
+        status: "not_started"
+
+  - story_number: 2
+    title: "Red Bull RB22 Weight Crisis 30kg Over"
+    images:
+      - id: "s2-social-a"
+        type: "social"
+        dimensions: "1080x1350"
+        search_term: "Max Verstappen Red Bull Racing"
+        credit: "(USA TODAY Sports Images)"
+        overlay: "30KG OVER TARGET / FIX MAY WAIT UNTIL 2027"
+        status: "not_started"
+      - id: "s2-hero"
+        type: "article_hero"
+        dimensions: "1200x630"
+        search_term: "Max Verstappen Red Bull Racing"
+        credit: "(USA TODAY Sports Images)"
+        overlay: "RED BULL WEIGHT CRISIS"
+        status: "not_started"
+
+  - story_number: 3
+    title: "Hamilton Ditches Ferrari Simulator Canada"
+    images:
+      - id: "s3-social-a"
+        type: "social"
+        dimensions: "1080x1350"
+        search_term: "Lewis Hamilton Ferrari"
+        credit: "(USA TODAY Sports Images)"
+        overlay: "SKIPPING THE SIM / HAMILTON'S BOLD CANADA PLAN"
+        status: "not_started"
+      - id: "s3-hero"
+        type: "article_hero"
+        dimensions: "1200x630"
+        search_term: "Lewis Hamilton Ferrari"
+        credit: "(USA TODAY Sports Images)"
+        overlay: "HAMILTON DITCHES SIMULATOR"
+        status: "not_started"
+
+  - story_number: 4
+    title: "Leclerc Quiet Championship Contender"
+    images:
+      - id: "s4-social-a"
+        type: "social"
+        dimensions: "1080x1350"
+        search_term: "Charles Leclerc Ferrari"
+        credit: "(USA TODAY Sports Images)"
+        overlay: "3RD IN POINTS · 59 PTS / THE SILENT CONTENDER"
+        status: "not_started"
+      - id: "s4-hero"
+        type: "article_hero"
+        dimensions: "1200x630"
+        search_term: "Charles Leclerc Ferrari"
+        credit: "(USA TODAY Sports Images)"
+        overlay: "LECLERC'S QUIET TITLE CASE"
+        status: "not_started"
+
+  - story_number: 5
+    title: "Norris Title Math Canada McLaren"
+    images:
+      - id: "s5-social-a"
+        type: "social"
+        dimensions: "1080x1350"
+        search_term: "Lando Norris McLaren"
+        credit: "(USA TODAY Sports Images)"
+        overlay: "49 POINTS BEHIND / THE MATH STILL WORKS"
+        status: "not_started"
+      - id: "s5-hero"
+        type: "article_hero"
+        dimensions: "1200x630"
+        search_term: "Lando Norris McLaren"
+        credit: "(USA TODAY Sports Images)"
+        overlay: "NORRIS TITLE MATH"
+        status: "not_started"
+```

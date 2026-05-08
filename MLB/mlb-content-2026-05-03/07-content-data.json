@@ -1,0 +1,329 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-03",
+  "compiled_at": "2026-05-03T10:26:52.363609+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "**Headline:** Imanaga and Cubs End Vargas' 27-Game Hitting Streak — 10 Straight Home Wins at Wrigley",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Ildemaro Vargas' 27-game hit streak is over. Shota Imanaga blanked the D-backs 2-0 Saturday, and Vargas went 0-for-4. Ian Happ went HR/triple/double for the only offense. Cubs' 10th straight win at Wrigley — longest home streak since 2008. #Cubs #Dbacks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#Dbacks"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Vargas' 27-game streak ends but the legacy is real: Venezuela-born MLB record, second-longest season-opening streak since 1940 (24 games to start 2026). He raised his average to .404 at the peak. 27 games of appointment baseball. #Dbacks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dbacks"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-vargas-27-game-streak-ends-imanaga-cubs.html",
+        "headline": "Imanaga and Cubs End Vargas' 27-Game Hitting Streak, Blank Diamondbacks 2-0",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Vargas' Streak Ends — Cubs Blank D-backs 2-0\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** Shota Imanaga Chicago Cubs\n- **Caption overlay:** \"STREAK OVER. CUBS WIN.\"\n- **Mood:** Dominant, triumphant\n- **Notes:** Imanaga in pitching motion or celebrating; Wrigley atmosphere preferred\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** Ildemaro Vargas Arizona Diamondbacks\n- **Caption overlay:** \"27 GAMES. A RECORD. OVER.\"\n- **Mood:** Reflective, respectful\n- **Notes:** Vargas at the plate or walking away; Arizona uniform\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Vargas' Streak Ends — Cubs Blank D-backs 2-0\n**Key Facts (HIGH confidence):**\n- Cubs defeated Diamondbacks 2-0 on May 2, 2026\n- Shota Imanaga: 7 IP, 4 H, 1 BB, 5 K, 87 pitches — lowered ERA to 2.40\n- Ian Happ: 3-for-4, HR, triple, double — drove in both Cubs runs\n- Ildemaro Vargas: 0-for-4 (final out: groundout vs Ben Brown)\n- Vargas' hitting streak ended at 27 games\n- 27-game streak: 24 games to open 2026 + 3 games at end of 2025 season\n- Vargas' 24-game season-opening streak: second-longest season-opening streak since 1940\n- 27-game overall streak: record for Venezuela-born players in MLB\n- Cubs' 10th consecutive home win at Wrigley — longest home streak since 2008\n- Cubs record: 21-12 overall\n- D-backs lost their third straight\n- Cubs had gone 14-3 since April 14\n**Source:** tsn.ca (AP wire), washingtonpost.com, bleedcubbieblue.com, nbcchicago.com, knbr.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "**Headline:** Murakami Stays at 13 HRs, Pads MLB Lead vs Padres — Historic First-Extras-All-Homers Streak",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Munetaka Murakami homered again vs the Padres Saturday — 13 for the year, still the MLB leader, still on pace for 65. His first 12 extra-base hits in the majors were ALL home runs. That's a MLB record since at least 1900. #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Murakami in 2026: 13 HR (MLB lead), 26 RBI, on a 65-HR pace. He previously tied the White Sox franchise record and MLB rookie record by homering in 5 straight games. When does someone stop being a surprise and start being a phenomenon? #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-murakami-13-hrs-mlb-leader-historic-pace.html",
+        "headline": "Murakami's 13th HR Extends MLB Lead — A Historic Start Nobody Saw Coming",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murakami MLB HR Leader at 13\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** Munetaka Murakami Chicago White Sox\n- **Caption overlay:** \"13 HRs. MLB LEADER.\"\n- **Mood:** Power, explosive\n- **Notes:** Murakami mid-swing or trotting bases; Guaranteed Rate Field\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** Munetaka Murakami White Sox\n- **Caption overlay:** \"ON PACE FOR 65\"\n- **Mood:** Historic, powerful\n- **Notes:** Tight crop on swing; White Sox uniform prominent\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Murakami MLB HR Leader at 13\n**Key Facts (HIGH confidence):**\n- Murakami: 1-for-3, 1 HR, 2 BB, 3 RBI vs Padres on May 2\n- Current HR total: 13 (MLB leader)\n- On pace for approximately 65 home runs\n- First 12 extra-base hits in MLB were ALL home runs — record since at least 1900 (surpassing Dae-ho Lee's 10 in 2016)\n- Earlier in 2026: homered in 5 consecutive games — tied White Sox franchise record and MLB rookie record\n- White Sox franchise record for HRs before May\n- Also: 26 RBI (5th in MLB through May 2)\n**Source:** mlb.com, espn.com, cbssports.com, yahoo sports",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "**Headline:** Cubs Riding 10-Game Wrigley Win Streak — Imanaga (2.40 ERA) is the Key",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Cubs are 21-12 and riding 10 straight wins at Wrigley — longest home streak since 2008. Shota Imanaga has a 2.40 ERA. Chicago has gone 14-3 since April 14. The NL Central is wide open and the Cubs are the hottest team in it. #Cubs #NLCentral",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NLCentral"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cubs-10-home-wins-imanaga-wrigley-surge.html",
+        "headline": "10 Straight at Wrigley: How Imanaga and the Cubs Have Become One of Baseball's Best Teams",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cubs 10 Straight Home Wins\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** Ian Happ Chicago Cubs\n- **Caption overlay:** \"10 STRAIGHT AT WRIGLEY\"\n- **Mood:** Celebratory, momentum\n- **Notes:** Happ celebrating home run or at the plate at Wrigley\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** Chicago Cubs Wrigley Field\n- **Caption overlay:** \"21-12. CUBS ON A TEAR.\"\n- **Mood:** Electric, home-crowd energy\n- **Notes:** Wrigley Field crowd shot or team dugout celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 10-Game Wrigley Win Streak\n**Key Facts (HIGH confidence):**\n- Cubs' 10 consecutive home wins: longest at Wrigley since 2008\n- Cubs overall record: 21-12\n- Imanaga ERA: 2.40 (after May 2 start)\n- Cubs went 14-3 since April 14\n- Cubs sit in NL Central race — all 5 teams above .500\n**Source:** nbcchicago.com, bleedcubbieblue.com, chicago.suntimes.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "**Headline:** Jordan Walker Is Sustaining His Breakout — Cardinals' Former Top Prospect Finally Arriving",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jordan Walker leads MLB with a 97.1 mph average exit velocity. His hard-hit rate (70%) is second in baseball. He was a negative WAR player for three straight seasons. Now at 23 he looks like a five-tool star. Cardinals are for real. #STLCards #NLCentral",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#STLCards",
+            "#NLCentral"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-jordan-walker-cardinals-breakout-97-exit-velo.html",
+        "headline": "Jordan Walker's Breakout Is Real: Cardinals' Former Prospect Leads MLB in Exit Velocity",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jordan Walker Breakout\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** Jordan Walker St. Louis Cardinals\n- **Caption overlay:** \"97.1 MPH EXIT VELO. MLB NO. 1.\"\n- **Mood:** Breakout, power\n- **Notes:** Walker mid-swing showing power; Cardinals red prominent\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** Jordan Walker Cardinals\n- **Caption overlay:** \"THE BREAKOUT IS REAL.\"\n- **Mood:** Arrival, confidence\n- **Notes:** Walker celebrating or running bases\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jordan Walker Cardinals Breakout\n**Key Facts (HIGH confidence):**\n- Walker through ~30 games: .283/.358/.547, ~8 HRs, 19 RBIs, 5 SBs, 22 runs\n- Average exit velocity: 97.1 mph — leads all of MLB\n- Hard-hit rate: 70.0% — second-highest among qualified batters\n- Fly ball rate doubled: 22.3% (2025) → 40.0% (2026)\n- Popup rate: 9.2% (2025) → 3.3% (2026)\n- Swing path tilt: 31° (2025) → 33° (2026)\n- Previously a negative bWAR player 2024-25 across 162 games (11 HRs in 527 AB)\n- MLB execs voted Walker \"biggest surprise\" entering May\n**Source (MEDIUM — AI summary but multiple articles consistent):** mlb.com, cbssports.com, si.com, yardbarker.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "**Headline:** Judge and Rice Keep Matching Yankees Legends — A Dynamic Duo Leading the AL East",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Aaron Judge (12 HR, OPS 1.010) + Ben Rice (10+ HR, OPS 1.192) are only the second Yankees pair with 10+ HRs in the team's first 29 games — joining Mantle and Berra in 1956. The 2026 Yankees might be the most powerful lineup in baseball. #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-judge-rice-yankees-mantle-berra-power.html",
+        "headline": "Judge and Rice Join Mantle and Berra in the Yankees Record Book",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Judge + Rice Yankees Duo\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Term:** Aaron Judge New York Yankees\n- **Caption overlay:** \"MANTLE + BERRA. JUDGE + RICE.\"\n- **Mood:** Historic, powerful\n- **Notes:** Judge home run trot or celebrating with teammates\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Term:** Ben Rice New York Yankees\n- **Caption overlay:** \"THE YANKS' NEW THUNDER DUO\"\n- **Mood:** Power, legacy\n- **Notes:** Rice celebrating or at the plate; pinstripes prominent"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Judge and Rice Yankees\n**Key Facts (HIGH confidence):**\n- Judge: 12 HRs, .252 BA, OPS 1.010, 19 RBIs\n- Rice: 10 HRs, .322 BA, OPS 1.192, 23 RBIs\n- Second pair of Yankees teammates with 10+ HRs in team's first 29 games — joined Mantle/Berra (1956)\n- This happened on approximately April 27, 2026 (Rice hit 10th HR; Judge had 11th)\n- Yankees record: 19-10, AL East leaders\n**Source:** foxnews.com, wsls.com, heavy.com, pinstripealley.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "**Headline:** All Five NL Central Teams Above .500 — Historic May Race Taking Shape",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "All five NL Central teams are above .500 entering May. Cincinnati leads, but Cubs (21-12), Cardinals, Pirates, and Brewers are all in the hunt. Three of these teams will miss the playoffs. The most chaotic division in baseball. #NLCentral",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NLCentral"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Central All Above .500\n**Key Facts (MEDIUM — from aggregated standings data):**\n- All 5 NL Central teams above .500 as of early May\n- Cincinnati leads division\n- Cubs 21-12 (per May 2 result)\n- Pittsburgh, St. Louis, Milwaukee all above .500\n- Only second time in MLB history a full division was above .500 this late in the season\n- Cardinals' Jordan Walker a key factor\n- Reds' Sal Stewart (rookie) contributing\n**Source:** baseball-reference.com, yahoo sports, mlb.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "**Headline:** May Milestones Watch Update — Murakami, Vargas, Judge, Walker on History's Radar",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "May milestones watch: Murakami on a 65-HR pace (13 HRs). Vargas' 27-game streak ended but his season-opener streak of 24 games was second-longest since 1940. Judge needs ~20 more HRs for career 400. Walker leads MLB in exit velocity. What a season. ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "May Milestones Watch\n**Key Facts (HIGH confidence):**\n- Murakami: 13 HRs, on 65-HR pace. All-time record: 73 (Bonds, 2001)\n- Vargas: 27-game streak ended (24 to open 2026, second-longest season opener since 1940)\n- Judge: 12 HRs, needs ~20 more for 400-career HR milestone\n- Walker: 97.1 mph exit velocity leads MLB\n- NL Central: potential historic all-above-.500 deep run\n**Source:** mlb.com, baseball-reference.com",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

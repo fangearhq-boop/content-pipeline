@@ -1,6 +1,50 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-08
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (13), image concepts (6 for all stories), image manifest, articles (5), fact-check (25 claims, 0 char violations, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (14 posts X, 14 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). 0 char violations.
+- **Key Stories**: Paul Skenes 8 IP 0 ER 7 K vs AZ (P10), Murakami 14 HR before first double/triple MLB record tied Judge HR lead (P9), Cubs 24-12 14 home win streak franchise record (P8), Jordan Walker .308/10HR/.962 OPS Cardinals (P8), Travis Bazzana first MLB hit Guardians No.1 pick (P7), Braves 26-12 MLB best despite Mariners loss (P4)
+
+## Previous Run
+- **Date**: 2026-05-07
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 2 char violations fixed before compile — S4T1 324→245, S6T1 331→248; 0 after fix), FB posts (12), image concepts (6 for all stories), image manifest, articles (5), fact-check (0 char violations, 0 consistency issues), compile (6 stories, 8 tweets, 0 FB parsed — known, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (14 posts X, 14 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py (direct push succeeded).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 2 char violations fixed before compile.
+- **Key Stories**: Cubs walk-off 3-peat 8-game streak 14 Wrigley wins (P10), HR race Judge/Murakami 14 Álvarez/Rice 12 (P9), Cardinals Walker .308/10HR/97.1mph (P8), Skubal recovery August timeline (P7), Braves 25-11 MLB best Olson/Baldwin/Albies/Harris (P7), May milestones Schwarber/Judge/Murakami (P4)
+
+## Previous Run
+- **Date**: 2026-05-06
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (11; 0 char violations), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (23 claims, 0 char violations, S6/S7 no image-concepts — Tier 2/3 social-only by design), compile (7 stories, 11 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (11 posts X, 11 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py (direct push succeeded).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). S6/S7 social-only by design (5 articles meet minimum). 0 char violations.
+
+## Previous Run
+- **Date**: 2026-05-05
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (11; 0 char violations), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (35 claims, 0 char violations, S6/S7 no image-concepts expected Tier 2/3 social-only, S6 no article — 5 articles meets minimum), compile (7 stories, 11 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (11 posts X, 11 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). S6 no article — Tier 2 social-only by design (5 articles meet minimum). S6/S7 no image-concepts — Tier 2-3 social-only. 0 char violations.
+
+## Previous Run
+- **Date**: 2026-05-04
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (28 claims, 0 char violations, S6/S7 no image-concepts expected Tier 2/3 social-only, S6 no article — 5 articles meets minimum), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). S6 no article — Tier 2 social-only by design (5 articles meet minimum). 0 char violations.
+
+## Previous Run
+- **Date**: 2026-05-03
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (29 claims, 0 char violations, S6/S7 no image-concepts expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). S6/S7 no article — Tier 3 social-only by design. 0 char violations.
+
+## Previous Run
 - **Date**: 2026-05-02
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations — headers fixed to ### for compile then ## for PostPlanner), FB posts (14), image concepts (5 concepts, Stories 1-5), image manifest, articles (5), fact-check (27 claims, 0 char violations, S6/S7 no image-concepts expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards via publish-dashboard.py succeeded.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

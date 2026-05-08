@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-03
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | 76ers 109, Celtics 100 (Game 7, May 2, TD Garden) — 76ers complete 3-1 comeback; Embiid 34 pts (post-appendectomy, played through pain); Maxey 30 pts closes game; Celtics 8.5-pt favorites; 76ers advance to face Knicks in East Semis | 1 | NEW STORY |
+| 2 | Pistons host Magic, Game 7 today 3:30 PM ET ABC — Pistons came back from 3-1 deficit and 24 down in G6; Cade 32/10 (19 in Q4); Magic missed 23 consecutive shots; DET outscored ORL 55-19 in 2H; Harris 22; first Pistons player since Isiah Thomas with 30+/10+ in elimination game | 1 | FOLLOW-UP (DET forced G7 from 24 down in G6) |
+| 3 | Cavaliers host Raptors, Game 7 tonight 7:30 PM ET NBC — home team won all 6 prior games; CLE 8.5-pt favorites; RJ Barrett hit 29-ft buzzer-beater in OT to force G7 (first in NBA history to hit game-winner in final 2s of OT to avoid elimination); Barnes 25/14 ast; Mobley 26/14; Mitchell 24 | 1 | FOLLOW-UP (Barrett OT miracle forced G7) |
+| 4 | West Semis set: Thunder (No. 1) vs. Lakers (No. 4) G1 Tuesday OKC; Spurs (No. 2) vs. Wolves (No. 6) — LeBron vs. SGA; Wembanyama vs. Edwards (if healthy) | 2 | NEW STORY |
+| 5 | East Semis: 76ers vs. Knicks confirmed — Game 1 TBD; other side determined by today's G7s (Pistons-Magic 3:30, Cavs-Raptors 7:30) | 2 | NEW STORY |
+
+### STORY 1: 76ers Eliminate Celtics 109-100 in Game 7
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Comeback
+- **Key facts:** 76ers 109, Celtics 100 (Game 7, May 2, TD Garden). Series: 76ers win 4-3. Embiid: 34 pts (post-appendectomy April 9; listed probable; played). Maxey: 30 pts to close. Celtics were 8.5-pt favorites. 76ers complete 3-1 comeback. Next: 76ers face No. 3 Knicks in East Semis.
+
+### STORY 2: Pistons vs. Magic — Game 7 Preview (May 3, 3:30 PM ET)
+- **Tier:** 1
+- **Category:** Game 7 Preview / Elimination Game
+- **Key facts:** Game 7, Little Caesars Arena, Detroit. 3:30 PM ET on ABC. Series tied 3-3. Pistons came back from 3-1 deficit. G6: DET 93, ORL 79 — DET trailed by 24; Cade 32/10 (19 in Q4); Harris 22; Magic missed 23 consecutive shots; DET outscored ORL 55-19 in 2H. Cade first Pistons player since Isiah Thomas with 30+/10+ in elimination game.
+
+### STORY 3: Cavaliers vs. Raptors — Game 7 Preview (May 3, 7:30 PM ET)
+- **Tier:** 1
+- **Category:** Game 7 Preview / Home-Court Storyline
+- **Key facts:** Game 7, Rocket Mortgage FieldHouse, Cleveland. 7:30 PM ET on NBC. Home team won all 6 prior games. CLE 8.5-pt favorites. G6: TOR 112, CLE 110 OT — Barrett hit 29-ft 3 with 1.2s left in OT (first in NBA history to hit game-winner in final 2s of OT to avoid elimination); Barnes 25/14 ast; Mobley 26/14; Mitchell 24.
+
+### STORY 4: West Semis Set
+- **Tier:** 2
+- **Category:** Second Round Preview
+- **Key facts:** Thunder vs. Lakers (G1 Tue, OKC); Spurs vs. Wolves (TBD). OKC swept Suns; LAL beat HOU 4-2; SA eliminated Portland; MIN eliminated Denver (without Edwards).
+
+### STORY 5: East Semis Bracket
+- **Tier:** 2
+- **Category:** Second Round Preview
+- **Key facts:** 76ers vs. Knicks confirmed; other East Semi = winner of Pistons-Magic (G7 today 3:30) vs. winner of Cavs-Raptors (G7 today 7:30).
+
+---
+
 ## 2026-05-01
 
 | # | Story | Tier | Tag |
@@ -1363,31 +1400,177 @@
 
 ---
 
+## 2026-05-04
+
+### STORY 1: Pistons Complete Historic 3-1 Comeback — Cade 32/12, Harris 30, First Series Win Since 2008
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Comeback
+- **Key facts:** Detroit Pistons 116, Orlando Magic 94 (Game 7, May 3). Pistons win series 4-3 — 15th team in NBA history to rally from 3-1 deficit. First Pistons series win since 2008 (18 years). Cade 32 pts/12 ast; Tobias Harris 30 pts (career playoff-high, 11-18 FG, 5-7 3PM); first Detroit teammates to each score 30+ in playoff game since Bob Lanier/Howard Porter (1977). Duren 15/15. Banchero 38 pts. Advance to East Semis vs. Cavaliers.
+- **Status:** NEW STORY
+
+### STORY 2: Allen 22/19 Powers Cavaliers Past Raptors 114-102 in Game 7
+- **Tier:** 1
+- **Category:** Playoff Results / Individual Performance
+- **Key facts:** Cleveland Cavaliers 114, Toronto Raptors 102 (Game 7, May 3). Cavs win series 4-3. Jarrett Allen 22 pts/19 reb (tied career playoff-high); 14 pts/10 reb in Q3; Cavs outscored Toronto 38-19 in Q3. Mitchell 22, Harden 18. Barnes 24/Barnes/9, Barrett 23 for TOR. Cavs advance as No. 4 seed to face No. 1 Pistons.
+- **Status:** NEW STORY
+
+### STORY 3: Second Round Opens Tonight — Knicks vs. 76ers G1 at MSG, 8PM ET; Embiid Probable
+- **Tier:** 1
+- **Category:** Game Day Preview
+- **Key facts:** Knicks vs. 76ers G1 at MSG tonight 8PM ET. Embiid probable (right hip contusion). Brunson 26.3 pts R1 avg; KAT 18.7; Embiid 28/9/7 in playoff games. Both teams completed 3-1 comebacks to advance.
+- **Status:** NEW STORY
+
+### STORY 4: West Semis Preview — Spurs-Wolves G1 Tonight, Thunder-Lakers G1 Tuesday
+- **Tier:** 2
+- **Category:** Preview / Lookahead
+- **Key facts:** Spurs vs. Wolves G1 tonight May 4, 9:30PM ET in SA. Thunder vs. Lakers G1 Tue May 5, 8:30PM ET in OKC. Lakers 16-pt underdogs vs. Thunder. Wembanyama 17/14 in R1; Fox 21 in R1.
+- **Status:** NEW STORY
+
+### STORY 5: Cavs vs. Pistons Series Preview — Two Game 7 Warriors Meet in Round 2
+- **Tier:** 2
+- **Category:** Series Analysis / Preview
+- **Key facts:** No. 4 Cavs at No. 1 Pistons; G1 Tue May 5, 7PM ET at Little Caesars Arena, Peacock/NBC. Both teams came from Game 7 wins same day. Mitchell, Mobley, Allen, Harden for Cavs; Cade, Harris, Duren for Pistons.
+- **Status:** NEW STORY
+
+---
+
+## 2026-05-05
+
+### STORY 1: Knicks Make History — First Team in NBA History to Win Three Straight Playoff Games by 25+ Points
+- **Tier:** 1
+- **Category:** Game Result / Historic Performance
+- **Key facts:** New York Knicks 137, Philadelphia 76ers 98 (Game 1, East Conference Semifinals, May 4). Brunson 35 pts (27 in 1H). Anunoby 18 pts (7-for-8 FG). KAT 17, Bridges 17. Embiid 3-for-11, 14 pts. Knicks first team in NBA history to win 3 straight playoff games by 25+ pts. Three-game combined margin: 119 pts — largest any 3-game span in NBA playoff history. Knicks shot 63% from field, led by 40.
+- **Status:** NEW STORY
+
+### STORY 2: Wembanyama Sets NBA Playoff Blocks Record With 12, But Timberwolves Steal Game 1
+- **Tier:** 1
+- **Category:** Game Result / Historic Individual Performance
+- **Key facts:** Minnesota Timberwolves 104, San Antonio Spurs 102 (Game 1, West Conference Semifinals, May 4). Wembanyama 11/15/12 blk — shatters all-time NBA playoff blocks record (old: 10). Matched old record in 3 quarters. Anthony Edwards returns from hyperextended knee ahead of schedule (10 days early), scores 18 pts (8-of-12, 11 in Q4) off bench. Randle 21/10. Spurs second home-opener loss in last 17 such games.
+- **Status:** NEW STORY
+
+### STORY 3: Luka Doncic Ruled Out for Game 1 — Lakers Face Thunder Without Their Star
+- **Tier:** 1
+- **Category:** Injury News / Game Day Preview
+- **Key facts:** Luka Doncic ruled out for Thunder-Lakers Game 1 (tonight May 5, 8:30 PM ET). Grade 2 hamstring, 32+ days since last game, hasn't started contact ramp-up. JJ Redick: "not close." Thunder 15.5-pt favorites. Thunder beat LAL by avg 29.3 pts/game in regular season. Potential return: Game 3 or Game 4.
+- **Status:** NEW STORY
+
+### STORY 4: Pistons vs Cavaliers Game 1 Tonight — Two Game 7 Survivors Meet in Detroit
+- **Tier:** 2
+- **Category:** Game Day Preview
+- **Key facts:** No. 4 Cavs at No. 1 Pistons, Game 1, May 5, 7PM ET, Little Caesars Arena (NBC/Peacock). Both teams won Game 7s on May 3. Pistons: Cade, Harris, Duren. Cavs: Mitchell, Allen, Harden, Garland, Mobley.
+- **Status:** NEW STORY
+
+### STORY 5: Second Round Is Set — All Four Conference Semifinals Series Underway
+- **Tier:** 2
+- **Category:** Analysis / Overview
+- **Key facts:** East: Knicks lead 76ers 1-0; Pistons-Cavs Game 1 tonight. West: Wolves lead Spurs 1-0; Thunder-Lakers Game 1 tonight (no Luka). Knicks and Wolves won Game 1 on the road/as lower seed.
+- **Status:** NEW STORY
+
+---
+
+## 2026-05-06
+
+### STORY 1: Thunder 108, Lakers 90 — Holmgren 24/12/3 Carries OKC to Game 1 Win
+- **Tier:** 1
+- **Category:** Game Result / Individual Performance
+- **Key facts:** Oklahoma City Thunder 108, Los Angeles Lakers 90 (Game 1, West Conference Semifinals, May 5). Chet Holmgren: 24 pts (9-17 FG, 2-2 3P, 4-4 FT), 12 reb, 3 blk in 31 min. SGA: 18 pts, 6 ast (rare off night). Ajay Mitchell: 18 pts. LeBron James: 27 pts (12-17 FG), 6 ast. Thunder 5-0 in 2026 playoffs, won without Jalen Williams (3rd straight game missed, Grade 1 hamstring). Lakers without Luka Doncic.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 2 result; Luka return; series outcome
+
+### STORY 2: Pistons 111, Cavaliers 101 — Cade 23/7, Harris 20/8 Power Detroit to Game 1 Win
+- **Tier:** 1
+- **Category:** Game Result / Series Momentum
+- **Key facts:** Detroit Pistons 111, Cleveland Cavaliers 101 (Game 1, East Conference Semifinals, May 5). Cade Cunningham: 23 pts, 7 ast. Tobias Harris: 20 pts, 8 reb. Mitchell: 23 pts; Harden: 22 pts (13 in Q4). Pistons ended 12-game playoff losing streak vs Cavaliers. First Pistons Game 1 playoff win since May 2008. Game 2: May 7, 7PM ET, Prime Video.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 2 result; Cade Cunningham series evolution
+
+### STORY 3: Luka Watch — ESPN Target May 7, Sources Say Game 4 (May 11) More Realistic
+- **Tier:** 2
+- **Category:** Injury Update
+- **Key facts:** Luka Doncic (Grade 2 left hamstring) out since April 2 — 33+ days. ESPN updated return target to May 7. Sources near Doncic point to Game 4 (May 11). Still no full-speed running or contact work. Lakers trail 0-1 to Thunder.
+- **Status:** FOLLOW UP (from 2026-05-05)
+- **Follow-up ideas:** Luka return game; Lakers recovery path
+
+### STORY 4: Knicks vs. 76ers Game 2 Preview — Embiid Must Bounce Back at MSG
+- **Tier:** 1
+- **Category:** Game Preview
+- **Key facts:** Knicks lead 1-0 (137-98 Game 1). Game 2: May 6, 7:10PM ET, MSG, ESPN. Embiid 3-11, 14 pts in G1. 76ers 41% FG, 19 turnovers. Brunson 35 in G1 (27 in 1H). Knicks won 4 straight playoff games by 16, 29, 51, 39 pts. Knicks -6.5.
+- **Status:** FOLLOW UP (from 2026-05-05)
+- **Follow-up ideas:** Game 2 result; Embiid bounce-back narrative
+
+### STORY 5: Wolves vs. Spurs Game 2 Preview — San Antonio Needs Answers for Edwards
+- **Tier:** 2
+- **Category:** Game Preview
+- **Key facts:** Wolves lead 1-0 (104-102 thriller G1). Edwards 18 pts (11 Q4) off bench. Wemby 12-block all-time record. Game 2: May 6, 9:30PM ET, ESPN, AT&T Center.
+- **Status:** FOLLOW UP (from 2026-05-05)
+- **Follow-up ideas:** Game 2 result; Wemby offensive development
+
+---
+
+## 2026-05-07
+
+### STORY 1: Knicks 108, 76ers 102 — Brunson, Anunoby Lead New York to 2-0 Series Lead
+- **Tier:** 1
+- **Category:** Game Result / Series Momentum
+- **Key facts:** New York Knicks 108, Philadelphia 76ers 102 (Game 2, East Conference Semifinals, May 6). Brunson 26 pts (9-21 FG), Anunoby 24, KAT 20/10/7. Maxey 26 for PHI. Embiid OUT (right ankle + hip soreness). Game had 25 lead changes, 14 ties. Knicks closed with 9-0 run. Knicks lead 2-0. Game 3: May 9 in Philadelphia.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Embiid return for Game 3; Knicks sweep bid
+
+### STORY 2: Spurs 133, Timberwolves 95 — Wembanyama Leads Historic Blowout to Tie Series
+- **Tier:** 1
+- **Category:** Game Result / Individual Performance
+- **Key facts:** San Antonio Spurs 133, Minnesota Timberwolves 95 (Game 2, West Conference Semifinals, May 6). Wembanyama 19/15/2blk. Castle 21, Fox 16. Spurs 50% FG, 41% 3P. 38-pt margin = worst playoff loss in Timberwolves history. Highest-scoring Spurs playoff game since 1983. Series tied 1-1.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Game 3 in San Antonio; Edwards offensive response
+
+### STORY 3: Pistons vs. Cavaliers Game 2 Preview — Detroit Chases 2-0 Series Lead
+- **Tier:** 1
+- **Category:** Game Preview
+- **Key facts:** Pistons lead 1-0 (G1: 111-101). Game 2: May 7, 7 PM ET, Prime Video. Cade 23/7, Harris 20/8 in G1. Mitchell 23, Harden 22 (13 Q4) for CLE. Pistons had 35 FTA vs 16; forced 19 CLE TOs. Huerter (hip) QUESTIONABLE.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Game 2 result; Cade series evolution
+
+### STORY 4: Thunder vs. Lakers Game 2 Preview — OKC Looks to Double Lead
+- **Tier:** 2
+- **Category:** Game Preview
+- **Key facts:** Thunder lead 1-0 (G1: 108-90). Game 2: May 7, 9:30 PM ET, Amazon Prime. Holmgren 24/12/3, SGA 18/6 in G1. LeBron 27 (12-17) for LAL. Thunder 15.5-pt favorites. Luka still not cleared for contact drills.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Game 2 result; Holmgren emerging role
+
+### STORY 5: Luka Doncic 8-Week Timeline — Unlikely to Return vs. Thunder
+- **Tier:** 2
+- **Category:** Injury Update
+- **Key facts:** Luka revealed 8-week recovery timeline given at April 2 injury. Eight weeks = late May. No contact clearance yet. Flew to Spain for cell therapy with Dr. Javier Barrio (Real Madrid). Lakers trail 0-1 vs Thunder.
+- **Status:** FOLLOW UP (from 2026-05-06)
+- **Follow-up ideas:** Luka return timing; Lakers season outcome
+
+---
+
 ## 2026-05-08
 
 ### STORY 1: Thunder Roll Lakers 125-107 in Game 2 — OKC Takes 2-0 Series Lead
 - **Tier:** 1
 - **Category:** Playoff Results / Series Dominance
-- **Key facts:** Thunder 125, Lakers 107 (Game 2, May 7 at OKC). OKC leads 2-0. SGA 22 pts. Holmgren 22/9 reb/4 stl/3 ast/2 blk. Mitchell 20. McCain 18. Reaves 31 (10-16 FG). LeBron 23. OKC 32-15 3rd-quarter run with SGA on bench. Lakers cut lead to 5 in 4th before OKC pulled away.
-- **Status:** NEW STORY
+- **Key facts:** Thunder 125, Lakers 107 (Game 2, May 7 at OKC). OKC leads 2-0. SGA 22 pts. Holmgren 22/9 reb/4 stl/3 ast/2 blk. Mitchell 20. McCain 18. Reaves 31 (10-16 FG). LeBron 23. OKC 32-15 3rd-quarter run with SGA on bench. Lakers cut lead to 5 in 4th.
+- **Status:** FOLLOW UP (from 2026-05-07)
 
 ### STORY 2: Pistons Lock Down Cavaliers 107-97 — Cade's Clutch Fourth Quarter Seals 2-0 Series Lead
 - **Tier:** 1
 - **Category:** Playoff Results / Clutch Performance
 - **Key facts:** Pistons 107, Cavaliers 97 (Game 2, May 7 at DET). DET leads 2-0. Cade 25/10 (12 pts in 4th, 8-8 FT). Harris 21. Jenkins 14 off bench. Mitchell 31. Allen 22. Cavs 0-11 from three in 4th quarter.
-- **Status:** NEW STORY
+- **Status:** FOLLOW UP (from 2026-05-06)
 
 ### STORY 3: Wembanyama and Spurs Obliterate Wolves 133-95 — Minnesota's Worst Playoff Loss in Franchise History
 - **Tier:** 1
 - **Category:** Playoff Results / Historic Blowout
-- **Key facts:** Spurs 133, Wolves 95 (Game 2, May 6 at SA). Series tied 1-1. Wemby 19/15/2 blk (26 min). Castle 21. Fox 16. Spurs 50% FG, 41% 3P. Wolves shot 29.8% 1st half, 2-15 from three 1st half. Trailed 25 at HT. 35 pts in 1st half — worst postseason loss in Wolves franchise history.
-- **Status:** NEW STORY
+- **Key facts:** Spurs 133, Wolves 95 (Game 2, May 6 at SA). Series tied 1-1. Wemby 19/15/2 blk (26 min). Castle 21. Fox 16. Spurs 50% FG, 41% 3P. Wolves shot 29.8% 1st half, 2-15 from three 1st half. 35 pts in 1st half — worst postseason loss in Wolves franchise history.
+- **Status:** FOLLOW UP (from 2026-05-07)
 
 ### STORY 4: Knicks Survive 76ers Scare 108-102 — Brunson, KAT, and OG Power New York to 2-0 Series Lead
 - **Tier:** 1
 - **Category:** Playoff Results / Gritty Win
 - **Key facts:** Knicks 108, 76ers 102 (Game 2, May 6 at NYK). NYK leads 2-0. Brunson 26 (9-21). OG 24. KAT 20/10/7 (27 min, foul trouble). Maxey 26. George 19. Oubre 19. Edgecombe 17. Embiid out (ankle/hip). 25 lead changes; Knicks 9-0 closing run.
-- **Status:** NEW STORY
+- **Status:** FOLLOW UP (from 2026-05-07)
 
 ### STORY 5: Tonight's Double-Header — Knicks-76ers G3 (Embiid Questionable) + Spurs-Wolves G3
 - **Tier:** 2

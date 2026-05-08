@@ -1,0 +1,308 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-03",
+  "compiled_at": "2026-05-03T11:43:29.098473+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Norris Wins Miami Sprint in McLaren 1-2 — Antonelli Hit With Penalty, Drops to P6",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "NORRIS WINS. McLAREN 1-2 IN MIAMI SPRINT.\n\nPiastri right behind him. Leclerc P3. Antonelli gets a 5-second penalty for track limits — drops to P6.\n\nFirst McLaren win of 2026. The upgrade WORKS. #F1Fanrecap #MiamiGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Bortoleto (Audi) DISQUALIFIED from Miami Sprint P11 — engine technical infringement.\n\nMeanwhile Norris's McLaren was the class of the field. Piastri P2. Leclerc P3.\n\nMcLaren won Miami in 2024 and 2025. Now a sprint title too? #F1Fanrecap #MiamiGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-norris-wins-miami-sprint-mclaren-1-2-antonelli-penalty.html",
+        "headline": "Norris Wins Miami Sprint in McLaren 1-2 as Antonelli Hit With Penalty and Drops to P6",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Qualifying: Antonelli Poles Miami GP — Verstappen P2, Leclerc P3, Norris P4",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "ANTONELLI ON POLE. Miami GP qualifying:\n\nP1 Antonelli 1:27.798\nP2 Verstappen +0.166s\nP3 Leclerc +0.345s\nP4 Norris +0.385s\nP5 Russell +0.399s\n\nChampionship leader starts from the front. Race starts 1 PM ET. #F1Fanrecap #MiamiGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Antonelli took sprint humiliation (penalty, P6) — then went straight back out and put it on POLE.\n\nThat's the mindset of a championship leader.\n\nVerstappen P2 — best qualifying of his difficult 2026. Race: 1 PM ET. #F1Fanrecap",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-antonelli-miami-gp-pole-verstappen-leclerc-front-row.html",
+        "headline": "Antonelli Takes Miami GP Pole as Verstappen Lines Up Second and Leclerc Third",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Miami GP Today — Race Moved to 1 PM ET Due to Thunderstorm Threat",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Miami GP STARTS AT 1 PM ET TODAY.\n\nRace moved up 3 hours to beat the thunderstorms. 57 laps. Championship on the line.\n\nAntonelli on pole. Verstappen P2. Leclerc P3. Norris P4.\n\nDon't miss it. #F1Fanrecap #MiamiGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 3-2",
+          "text": "MIAMI GP RACE DAY REMINDER:\n\n🏁 Start: 1 PM ET (moved due to storms)\n🏆 Pole: Antonelli (Mercedes)\n📺 Live on Apple TV+ / ESPN\n\n57 laps around the Miami International Autodrome. Who wins? #F1Fanrecap #MiamiGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MiamiGP"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-miami-gp-race-day-moved-1pm-antonelli-pole.html",
+        "headline": "Miami GP Race Day: Start Moved to 1 PM ET to Beat Thunderstorms — Antonelli on Pole, McLaren Lurking",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Championship Update: Antonelli Leads Russell by 7 Points Heading Into Miami Race",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Championship standings heading into the Miami GP:\n\n1. Antonelli — leads Russell by SEVEN points (was 9 before sprint penalty)\n3. Leclerc — 55 pts\n\nMcLaren just won the sprint. The title fight is NOT over. #F1Fanrecap",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-04-f1-championship-standings-antonelli-russell-leclerc.html",
+        "headline": "F1 Championship Standings: Antonelli Leads Russell by 7 Points as McLaren Hunts Heading Into Miami Race",
+        "word_count": 512
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "McLaren's Sprint 1-2 Sends Warning Shot — Norris and Piastri Ready to Hunt",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "McLaren brought an entirely new MCL40 to Miami — new floor, bodywork, rear wing, brake ducts.\n\nResult: Sprint 1-2. Norris P4 on the grid.\n\nStella called it a \"completely new car.\" It clearly is. Is the title fight about to get messier? #F1Fanrecap",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-mclaren-sprint-upgrade-title-threat-norris-piastri.html",
+        "headline": "McLaren's Sprint 1-2 Sends Warning to Mercedes: The Title Fight Is No Longer a Two-Team Story",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

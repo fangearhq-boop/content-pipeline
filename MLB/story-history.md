@@ -5,6 +5,190 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-08
+
+### Story 1: Paul Skenes 8 Shutout Innings vs. Diamondbacks
+- **Angle:** NEW STORY. Defending NL Cy Young winner threw 8 IP, 0 ER, 2 H, 7 K vs Arizona on May 7. Described as his best start of the 2026 season.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Skenes Cy Young 2026 race; next start
+
+### Story 2: Murakami — 14 HRs Before First Extra-Base Hit (MLB Record)
+- **Angle:** NEW STORY. White Sox rookie Munetaka Murakami set MLB record with 14 career HRs before recording first double or triple (first double came May 4). Tied with Aaron Judge (Yankees) for MLB HR lead at 14. Signed $34M/2-year deal. Debut March 26, 2026.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** HR race Murakami vs Judge; 50+ HR pace watch; White Sox season
+
+### Story 3: Cubs 24-12 — Franchise Home Win Record, NL Central Lead
+- **Angle:** FOLLOW UP. Cubs 24-12, 7-game win streak (18 of last 21), 14 straight home wins (franchise record), 3.5 game NL Central lead. Walk-off 3-peat vs Reds covered May 7 — this story zooms out to season record.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Cubs NL Central lead vs Cardinals; Wrigley Field streak
+
+### Story 4: Jordan Walker Cardinals — .308/10HR/.962 OPS
+- **Angle:** FOLLOW UP. Walker .308 BA, 10 HR, 27 RBI, .962 OPS in 34 games. Jumped from .584 OPS in 2025. Cardinals beat Dodgers in series. 24-year-old RF as Cardinals cornerstone.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Cardinals NL Central race; Walker All-Star candidacy
+
+### Story 5: Travis Bazzana First MLB Hit — No. 1 Pick Arrives
+- **Angle:** NEW STORY. Travis Bazzana (No. 1 overall pick, 2024 MLB Draft, Australian) recorded first career MLB hit for Cleveland Guardians in early May 2026. Debut was 0-2, 2 BB vs Rays. Hit came vs Oakland Athletics.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Bazzana continued development; Guardians outlook
+
+### Story 6: Braves 26-12 — Still MLB Best Despite Mariners Loss
+- **Angle:** FOLLOW UP. Braves lost to Mariners 3-1 on May 7. Still 26-12, MLB's best record. MLB-leading 5.61 RPG in 38 games.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Braves NL pennant race; continued run production
+
+---
+
+## 2026-05-07
+
+### Story 1: Cubs Walk-Off 3-Peat — 8-Game Streak, 14 Straight at Wrigley
+- **Angle:** FOLLOW UP. Cubs 7, Reds 6 (10 inn.) May 6. Busch bases-loaded walk off Burke in 10th. 8-game overall win streak. 14-game Wrigley streak (longest since 2008). 3 consecutive walk-offs vs Reds (first since 1943). 24-12 record, NL Central leaders 2.5 GB Cardinals. 18-3 in last 21 games. 6 walk-offs in 37 games (30-year franchise first).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Wrigley streak record chase; Cubs NL Central lead
+
+### Story 2: HR Race — Judge and Murakami at 14, Álvarez and Rice at 12
+- **Angle:** FOLLOW UP (May 6 Story 5). Judge (NYY) 14 HR; Murakami (CWS) 14 HR; Álvarez (HOU) 12 HR; Rice (NYY) 12 HR. Murakami: all 14 XBH are HRs (MLB record since 1900; prev. 10 by Dae-ho Lee 2016). Álvarez: MLB-best OPS 1.245, leading RBIs. Rice: 12 HRs, 4th in MLB.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Who takes the lead this week?; Judge path to career 400 HRs
+
+### Story 3: Cardinals Surge — Jordan Walker Breakout, NL Central Chase
+- **Angle:** FOLLOW UP (May 6 Story 4, May 3 Story 4). Walker: .308 BA, 10 HR, 27 RBI, 97.1 mph exit velo (MLB No. 1), 70% hard-hit rate (2nd). Cardinals 2nd NL Central, 2.5 GB Cubs. Won 4 straight heading into May 6.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Walker All-Star case; Cardinals NL Central tightening
+
+### Story 4: Tarik Skubal Recovery — Best-Case August, Tigers Rotation Depleted
+- **Angle:** FOLLOW UP (May 6 Story 6). Best-case: early August return. More likely: late August/early September. Rotation: Valdez, Flaherty, Montero, Madden. Also out: Mize (IL), Verlander (unavailable), Olson (out for season). Two-time Cy Young winner.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Trade deadline rotation target; Tigers record without Skubal
+
+### Story 5: Braves 25-11 — MLB's Best Record, Deep MVP-Level Lineup
+- **Angle:** FOLLOW UP. Lost to Nationals 11-4 on May 6 but 25-11, NL East lead 8+ games. Olson, Baldwin, Albies, Harris II all MVP-caliber. Rotation/bullpen both top-5 NL ERA. MLB No. 1 power ranking.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Braves pitching sustainability; NL playoff seeding; Baldwin breakout
+
+### Story 6: May Milestone Watch
+- **Angle:** EVERGREEN. Schwarber 350 HRs (April 30). Judge ~20 from career 400. Chapman passed Gossage for 2nd all-time relief Ks (1,341 on April 26). Murakami 14 XBH all HRs (record).
+- **Content Produced:** X (1 post), FB (long-form + caption)
+
+---
+
+## 2026-05-06
+
+### Story 1: De La Cruz 2-HR Night Sets Reds Switch-Hitter Record — Beats Rays 12-6
+- **Angle:** NEW STORY. De La Cruz 3-for-6, 2 HR, 5 RBI, 1 SB, 3 R. 6th career multi-HR game surpasses Pete Rose for most by a switch-hitter in Reds history. Reds scored first 9 runs, won 12-6. Reds: 5-game win streak, 7-of-last-8, first place NL Central, MLB-best 10-2 road record. Stewart added 3 RBI (24 on season).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Reds first-place standing; De La Cruz season pace; Stewart ROY race
+
+### Story 2: Ohtani 7 IP, 8 K, 0 BB — Dodgers Lose 2-1 to Astros
+- **Angle:** FOLLOW UP. Ohtani's longest Dodgers start this season: 7 IP, 89 pitches, 8 K, 0 BB. First HRs allowed in 2026 (Walker + Shewmake, both solo) after 122 batters. ERA still 0.97. Dodgers scored 0 in 7 IP off Peter Lambert; 1 run in 8th. Final: Astros 2, Dodgers 1.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Ohtani next start; Dodgers offensive consistency; NL West standings
+
+### Story 3: Nationals Snap Braves' 6-Game Win Streak — James Wood HR, García Jr. 4 Hits, 11-4
+- **Angle:** FOLLOW UP. Washington 11, Atlanta 4. James Wood HR. Luis García Jr. 4 hits. Braves 6-game win streak snapped. Braves still MLB's best record (~25-11, 8+ game NL East lead).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Braves NL East lead; Washington's emergence; James Wood trajectory
+
+### Story 4: Sal Stewart Named NL Rookie of Month — Reds Third Baseman Leads ROY Race
+- **Angle:** NEW STORY. Stewart NL Rookie of Month March/April (announced May 4). Stats: .281, 9 HR, 29 RBI in 31 April games. 24 RBI on season entering May 6. Leading NL ROY race.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** ROY race rivals; Reds first-place chase; Stewart season trajectory
+
+### Story 5: Judge and Murakami Tied at 14 HRs — MLB Home Run Race Heats Up
+- **Angle:** FOLLOW UP. Judge: 14 HR, 11 in last 21 games. Murakami: 14 HR, first 12 extra-base hits all HRs (record since 1900). Both on 60+ HR pace. Yankees swept Orioles 4-0 (outscored 29 runs); Yankees 24-11, AL East leaders.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Judge vs Murakami pace; 62-HR record implications; Yankees record
+
+### Story 6: Tigers Rotation in Crisis — Skubal Out, Mize Out, Verlander Out
+- **Angle:** FOLLOW UP. Full picture: Skubal out 2-3 months (arthroscopic elbow surgery). Mize on IL. Verlander unavailable. Olson out for season (shoulder). Remaining: Framber Valdez, Jack Flaherty, Keider Montero, Ty Madden. Skubal's free agency implications.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Tigers AL Central standing; Skubal recovery timeline; pitching market impact
+
+### Story 7: Six Weeks In — The 2026 MLB Season Landscape
+- **Angle:** EVERGREEN. Braves MLB-best record (25-11, 8.5-game NL East lead). Yankees 24-11, AL East leaders. Reds first place NL Central. Ohtani ERA 0.97. Judge/Murakami at 14 HR. Tigers in rotation crisis.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Division races through May
+
+---
+
+## 2026-05-05
+
+### Story 1: Murakami 5-Game HR Streak — Tied with Judge at 14 for MLB Lead
+- **Angle:** FOLLOW UP. Murakami (White Sox) hit 14th HR vs Angels (429 ft, 6-0 win), extending 5-game HR streak (ties White Sox franchise record). Tied with Judge at 14 for MLB lead. First 12 MLB extra-base hits all HRs — record since 1900. Davis Martin: 7 IP, 10 K, 0 BB, 1.64 ERA, 5-1.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Murakami vs Judge HR race; White Sox standings; 65-HR pace sustainability
+
+### Story 2: John Sterling Dies — Judge HR and Kay Tribute Honor a Yankees Legend
+- **Angle:** NEW STORY. Legendary Yankees broadcaster John Sterling died Monday May 5. Judge hit 14th HR in 1st inning vs Orioles; Michael Kay delivered tribute call. Yankees won 12-1, swept Orioles (4-0 series, outscored by 29 runs). Yankees 24-11, AL East leaders.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Sterling tribute coverage; Yankees 24-11 standings; Judge HR pace
+
+### Story 3: Skubal Elbow Surgery — Tigers Ace Out 2-3 Months, Free Agency Year Clouded
+- **Angle:** NEW STORY. Tarik Skubal (Tigers, back-to-back AL Cy Young) needs arthroscopic surgery for loose bodies in left elbow. Arm locked up Sunday during bullpen. Expected out 2-3 months; possible return before end of August. Free agency implications: was projected for largest pitcher contract in history.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Skubal surgery recovery updates; Tigers rotation depth; free agency market shift
+
+### Story 4: Vargas Hit Streak Ends at 27 — Venezuela-Born Record, Season's Longest
+- **Angle:** FOLLOW UP. Vargas went 0-for-4 vs Cubs at Wrigley on May 2. 27-game streak ends — longest since Turner's 27 in 2021-22, Venezuela-born MLB record, 2nd-longest in D-backs history. NL Player of Month March/April (.378 BA, 6 HR). Final streak game (May 1): 4-for-4, .404 BA.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Vargas season narrative; D-backs standings; batting average normalization
+
+### Story 5: Braves 25-10 — MLB's Best Record, 8.5-Game NL East Lead
+- **Angle:** FOLLOW UP. Braves 25-10, MLB's best record, 8.5-game NL East lead. First to 25 wins, best ERA, most runs scored. Olson, Baldwin, Albies, Harris II all off to MVP-caliber starts. Dodgers 20-9 comparison — Braves 5 wins ahead of pace.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Braves NL East lead evolution; sustained dominance through May
+
+### Story 6: Ohtani Named NL Pitcher of Month — 0.60 ERA, Starts Tuesday vs Astros
+- **Angle:** FOLLOW UP. Ohtani NL Pitcher of Month March/April (first time). 0.60 ERA, 34 K, 0.87 WHIP in 5 starts. Starts vs Astros Tuesday. Pitching-only policy on start days may be abandoned. 48+ game on-base streak, .996 OPS hitting.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Ohtani Astros start result; Dodgers NL West standing; on-base streak continuation
+
+### Story 7: Giants Call Up Prospect Bryce Eldridge — Last in MLB in Runs and HR
+- **Angle:** NEW STORY. Giants called up Eldridge (No. 19 overall prospect per MLB Pipeline) and Jesús Rodríguez on May 4. Giants last in MLB in runs (106) and HR (19). Eldridge: .333 BA, .963 OPS, 5 HR, 22 RBI in 30 Triple-A games. Posey quote confirmed.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Eldridge MLB debut performance; Giants offensive turnaround
+
+---
+
+## 2026-05-04
+
+### Story 1: Ramírez Steals 300th Career Base — 9 HRs from the 300/300 Club
+- **Angle:** NEW. Ramírez stole 300th career base May 2 in Cleveland's 14-6 win vs Oakland. Joined Kenny Lofton as only Guardians players with 300+ SBs. Now 9 HRs from 300/300 club (only 8 members in MLB history: Bonds, ARod, Mays, Dawson, Beltrán, Bobby Bonds, Sanders, Finley). Also chasing 3rd consecutive 30-30 season.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Ramírez HR No. 300; 30-30 milestone tracking; Guardians AL Central race
+
+### Story 2: Nick Kurtz Walk Streak Ends at 20 — Tied Bonds, 2 Shy of Cullenbine's 1947 Record
+- **Angle:** NEW. Kurtz's walk streak ended May 2 in Oakland's 14-6 loss to Cleveland. Tied Barry Bonds (20 games), passed Ted Williams (19 games), fell 2 short of Roy Cullenbine's all-time record (22, 1947). Leads MLB with 33 walks entering May — most before May since Bryce Harper's 38 in 2018. On-base streak 25 games.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Kurtz on-base streak; OBP sustainability; A's offensive development
+
+### Story 3: Pirates Walk 7 Times in One Inning — Ties MLB Record from 1909 and 1983
+- **Angle:** NEW. Pittsburgh Pirates walked 7 times in single inning vs Reds on May 2. Ties MLB record for most walks by team in one inning — only prior occurrences: 1909 and 1983. Statistical rarity spanning 117 years of MLB.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway)
+- **Follow-ups:** None — one-time occurrence
+
+### Story 4: James Wood HR Snaps Braves' 6-Game Win Streak — Nationals 11-4
+- **Angle:** NEW. Wood HR (412-ft opp-field, 8th of season, MLB-leading 5th opp-field HR), Garcia 4-for-5. Nationals won 11-4 on May 3, snapped Braves' 6-game winning streak. Braves still hold 8.5-game NL East lead.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole)
+- **Follow-ups:** Wood season arc; Braves NL East dominance; Nationals rebuild progress
+
+### Story 5: Murakami 13 HRs — On Pace for One of Greatest Rookie Seasons in MLB History
+- **Angle:** FOLLOW UP. Murakami at 13 HRs, leading MLB, on 65-HR pace. 3rd most HRs in first 32 career games ever. First 12 career extra-base hits all HRs (record since 1900). .967 OPS. White Sox rebuild context.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres)
+- **Follow-ups:** Murakami HR pace sustainability; White Sox record; HR race vs Judge/Alvarez
+
+### Story 6: Vargas Still Leads MLB at .388 After 27-Game Streak Ends
+- **Angle:** FOLLOW UP. Vargas' streak ended Saturday (Imanaga/Cubs 2-0). Still leads MLB at .388. What the streak's legacy means, what's next for Vargas and the D-backs.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Vargas BA sustainability; D-backs contention
+
+### Story 7: Milestone Monday — Five Numbers That Could Define 2026 MLB Season
+- **Angle:** EVERGREEN. Murakami 65-HR pace, Ramirez 9 HRs from 300/300 club, Judge approaching 400 career HRs, Vargas .388 after streak, Rice 1.214 OPS leads baseball.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** All milestone stories ongoing
+
+---
+
 ## 2026-05-02
 
 ### Story 1: Murakami Surges to Sole MLB HR Lead at 13 — On 65-Homer Pace
@@ -1051,5 +1235,57 @@ Each day's stories are appended at the top (newest first).
 | 5 | Pirates' offseason overhaul — Ozuna, Lowe, O'Hearn trades + Skenes/Griffin core | 2 | NEW STORY |
 | 6 | Braves rotation decimated — Schwellenbach, Murphy, Kim, Waldrep all on IL | 2 | NEW STORY |
 | 7 | Spring training pitching standouts — Burns (CIN), Warren (NYY), Senga (NYM) | 3 | NEW STORY |
+
+---
+
+## May 3, 2026
+
+### Story 1: Imanaga and Cubs End Vargas' 27-Game Hitting Streak — Cubs Blank D-backs 2-0
+- **Angle:** FOLLOW UP (from May 2 Vargas 27-game streak) — Streak ended May 2. Imanaga: 7 IP, 4 H, 1 BB, 5 K, 87 pitches, ERA 2.40. Ian Happ: HR/triple/double, 2 RBI. Vargas 0-for-4. Cubs' 10th straight Wrigley win (longest since 2008). Cubs 21-12, 14-3 since April 14. Vargas' 24-game season-opener second-longest since 1940; 27-game overall streak Venezuela-born MLB record.
+- **Content Produced:** X (2 posts), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Vargas next game — can he start a new streak?
+  - Imanaga full-season stats and Cy Young case
+  - Cubs NL Central race positioning
+
+### Story 2: Murakami Stays at 13 HRs, MLB Lead — On 65-HR Pace, Historic Start
+- **Angle:** FOLLOW UP (from May 2 Murakami story) — Murakami HR vs Padres (13th), 2 BB, 3 RBI. MLB HR leader. On 65-HR pace. First 12 extra-base hits all HRs (MLB record since at least 1900, surpasses Dae-ho Lee's 10 in 2016). Earlier tied White Sox franchise record and MLB rookie record with 5-game HR streak.
+- **Content Produced:** X (2 posts), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Murakami HR chase — will he reach 20 HRs in May?
+  - White Sox team win-loss record
+  - When does he get another extra-base hit that isn't a HR?
+
+### Story 3: Cubs' 10-Game Wrigley Win Streak — Imanaga Leading the Charge
+- **Angle:** FOLLOW UP — Cubs 10 straight home wins (longest at Wrigley since 2008). 21-12, 14-3 since April 14. Imanaga ERA 2.40. NL Central race — all 5 teams above .500.
+- **Content Produced:** X (1 post), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Can the home win streak reach 15 or 20?
+  - Cubs vs NL Central leaders (Reds, Cardinals)
+  - Imanaga Cy Young candidacy
+
+### Story 4: Jordan Walker Cardinals Breakout — 97.1 mph Exit Velo Leads MLB
+- **Angle:** FOLLOW UP (from May 2 Walker biggest surprise) — .283/.358/.547, ~8 HRs, 19 RBI, 5 SBs. 97.1 mph exit velocity leads MLB. 70% hard-hit rate (2nd). Fly ball rate doubled (22% to 40%). From negative bWAR to five-tool star.
+- **Content Produced:** X (1 post), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Walker sustained performance through May
+  - Cardinals NL Central standing
+  - All-Star case building
+
+### Story 5: Judge + Rice Match Mantle + Berra (1956) — Yankees 19-10, AL East Leaders
+- **Angle:** FOLLOW UP (from May 2 Judge+Rice story) — Only 2nd Yankees pair with 10+ HRs in team's first 29 games (Mantle/Berra 1956). Judge: 12 HRs, OPS 1.010. Rice: 10+ HRs, OPS 1.192. Yankees 19-10. Judge needs ~20 more for career 400.
+- **Content Produced:** X (1 post), FB long-form + caption, Article, Image concepts
+- **Follow-Up Opportunities:**
+  - Judge's path to career 400 HR milestone
+  - Rice sustained performance / All-Star case
+  - Yankees AL East lead
+
+### Story 6: NL Central All Five Teams Above .500 — Historic Race
+- **Angle:** EVERGREEN — All 5 teams above .500 entering May. Second time in divisional era. Three will miss playoffs. Cubs (21-12) and Cardinals leading heading into May.
+- **Content Produced:** X (1 post), FB long-form + caption
+
+### Story 7: May Milestones Watch — Murakami, Vargas, Judge, Walker
+- **Angle:** EVERGREEN — Updated tracker. Murakami 13 HRs/65-HR pace. Vargas streak ended (27/24). Judge needs ~20 for career 400. Walker 97.1 mph exit velo leads MLB. NL Central historic all-.500.
+- **Content Produced:** X (1 post), FB long-form + caption
 
 ---

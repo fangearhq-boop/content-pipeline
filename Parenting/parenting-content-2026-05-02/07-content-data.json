@@ -1,0 +1,242 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-02",
+  "compiled_at": "2026-05-02T12:31:43.719099+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Territory Days 2026 — 50th Anniversary, May 23-25 in Old Colorado City",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Territory Days turns 50 this year. 🎉\n\nMay 23-25 in Old Colorado City. Free admission, Kid Zone, 180+ booths, 25+ bands, and a gold panning area for kids.\n\nShuttle from downtown — parking is very limited.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "If you've never been to Territory Days in Old Colorado City, this is the year to change that. 🎉\n\nColorado Springs's beloved Memorial Day weekend festival turns 50 in 2026, and it's running May 23-25 with everything families love about it: free admission, over 180 food and craft booths, three music stages hosting 25+ bands, Wild West gunfight re-enactments, Native American dance performances, and a Kid Zone packed with inflatables, bungee trampolines, gold panning, and a train ride.\n\nMonday afternoon features a Memorial Day Remembrance Ceremony — a really meaningful way to wrap up the long weekend with your kids.\n\nOne thing to know: street parking in Old Colorado City is extremely limited. Use the free shuttle from the Colorado Springs C.A.B. Garage downtown and save yourself the headache. VIP parking with a luxury shuttle is also available if that's more your style.\n\nIt's free. It's fun. It's been a Colorado Springs tradition for half a century. Are your families going this year?",
+        "image_caption": "Territory Days turns 50 this year. 🎉 Free admission, Kid Zone, 180+ booths, three music stages — May 23-25 in Old Colorado City. #COSParenting #ColoradoSprings",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-territory-days-2026-cos-memorial-day.html",
+        "headline": "Territory Days 2026: Colorado Springs's Free Family Festival Turns 50 This Memorial Day Weekend",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Territory Days 2026\n\n#### Image Concept 1A — Social X (1200x675)\n**Mode:** base_only\n**Prompt:** A vibrant outdoor festival scene in a historic Western-style town district on a sunny late May afternoon. Colorful vendor booths line a wide street with families and children browsing. Warm golden sunlight, cheerful atmosphere, red brick buildings in background. Art style: bright, inviting editorial illustration. Clean visual space in bottom third for text overlay. No text, no watermarks, no logos.\n\n#### Image Concept 1B — Article Hero / Facebook (1200x630)\n**Mode:** base_only\n**Prompt:** Children playing in a festive outdoor Kid Zone area — inflatables, a small petting zoo, and a vintage train ride in the background. Sunny blue sky, green trees, joyful mood. Mountain silhouette faintly visible in distance. Art style: warm, family-friendly illustration. Clean bottom third for text overlay. No text, no watermarks.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "D49 Graduation Season — May 15 and May 23 Ceremonies",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "D49 families: graduation season is almost here.\n\nPPEC, SSAE, and Patriot: May 15.\nFHS, SCHS, and VRHS: May 23 at the World Arena.\n\nNew early childhood classrooms open at the Student Success Center in August.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "D49 families, your end-of-year calendar just got a little clearer.\n\nGraduation ceremonies for PPEC, SSAE, and Patriot are coming up on Friday, May 15. High school graduations for FHS, SCHS, and VRHS are set for Saturday, May 23, at the World Arena. If you're sending a graduate off this spring, those are the dates to lock in.\n\nThere's also been some news from the D49 Board of Education. Jack Ryan was appointed to fill the vacant Director District 2 seat, replacing Deb Schmidt who stepped down earlier this year. And the board voted to repeal Policy JBAA, which previously required students to use the bathroom corresponding to their biological sex. The policy repeal passed by vote.\n\nOn the growth side: D49 Early Childhood Education announced two new classrooms opening at the D49 Student Success Center in August 2026 — good news for families looking for early childhood options this fall.\n\nWhat are D49 families most looking forward to this end of year?",
+        "image_caption": "D49 families: graduation season is here. May 15 (PPEC, SSAE, Patriot) and May 23 at the World Arena (FHS, SCHS, VRHS). Plus new early childhood classrooms opening in August. #COSParenting #ColoradoSprings",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-02-d49-graduation-2026.html",
+        "headline": "D49 Graduation 2026: Ceremony Dates, Board Updates, and What's Ahead for Fall",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Graduation Season\n\n#### Image Concept 2A — Social X (1200x675)\n**Mode:** base_only\n**Prompt:** High school graduates in caps and gowns walking across a large arena stage, diverse group of students smiling, holding diplomas. Soft warm lighting, proud and celebratory mood. Art style: clean editorial photorealistic illustration. Clean bottom third for text. No text, no watermarks.\n\n#### Image Concept 2B — Article Hero / Facebook (1200x630)\n**Mode:** base_only\n**Prompt:** A mortar board graduation cap and diploma resting on a wooden surface with wildflowers — bright, celebratory, Colorado spring setting. Art style: warm editorial illustration. Clean bottom third. No text, no watermarks.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Pikes Peak Birding Festival + Touch-A-Truck: Two Free Family Events This Month",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Two free family events this month in Colorado Springs:\n\n🐦 Pikes Peak Birding Festival — May 14-17, 30+ field trips and nature activities\n🚛 Touch-A-Truck — May 16, 9:30 AM, free for all ages\n\nNo tickets. Just show up.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "Looking for things to do with your kids this month that won't cost anything? We've got two on the calendar right now.\n\nThe Pikes Peak Birding and Nature Festival runs May 14-17 and offers more than 30 guided field trips and nature activities focused on local wildlife and conservation. It's a great way to get kids outside and curious about the natural world — and Colorado Springs is honestly one of the best places in the country for it.\n\nThen on Saturday, May 16, the 3rd Annual Touch-A-Truck returns. It starts at 9:30 AM and it's free for all ages. Kids get up close with fire trucks, construction equipment, emergency vehicles, and more. It's one of those events where even the parents get into it.\n\nTwo free weekends. No excuses to stay home. 😄 Are your families planning to check either of these out?",
+        "image_caption": "Two free May events for COS families: Pikes Peak Birding Festival (May 14-17) and Touch-A-Truck (May 16, 9:30 AM). No tickets required. #COSParenting #ColoradoSprings",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-03-pikes-peak-birding-festival-touch-a-truck-2026.html",
+        "headline": "Two Free Family Events in COS This May: Pikes Peak Birding Festival and Touch-A-Truck",
+        "word_count": 592
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pikes Peak Birding Festival + Touch-A-Truck\n\n#### Image Concept 3A — Social X (1200x675)\n**Mode:** base_only\n**Prompt:** A young child with binoculars birdwatching in a sunny Colorado meadow, mountains in the background, parent kneeling beside them pointing at the sky. Vibrant colors, fresh spring morning light, educational and joyful mood. Art style: bright editorial illustration. Clean bottom third for text overlay. No text, no watermarks.\n\n#### Image Concept 3B — Article Hero / Facebook (1200x630)\n**Mode:** base_only\n**Prompt:** A group of excited young children climbing on and exploring a large red fire truck at an outdoor community event on a clear sunny day. Wide smiles, cheerful crowd in background, blue sky. Art style: warm, energetic editorial illustration. Clean bottom third. No text, no watermarks.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "AAP Car Seat Guidelines — What Changed in 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The AAP updated car seat guidelines in February 2026.\n\nThe old \"rear-face until 2\" rule is gone. Keep kids rear-facing until they hit the weight or height limit on their seat.\n\nBetter for your kid. Worth knowing.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "Here's a car seat update worth knowing about.\n\nIn February 2026, the American Academy of Pediatrics updated its child passenger safety recommendations and removed the age-based guideline for rear-facing car seats. The old guidance said: keep kids rear-facing until age 2. The new guidance says: keep kids rear-facing until they hit the weight or height limit on their specific car seat — no age cutoff.\n\nThis is actually a step forward for safety. The reason the age guideline existed was to give parents a simple rule of thumb, but the real answer has always been about physical fit. Rear-facing is safer for young children in a frontal collision because the seat absorbs more crash energy across the child's entire body. Age 2 was just an approximation.\n\nWhen your child does outgrow their rear-facing seat, move to a forward-facing seat with a harness and keep them there as long as the seat allows. Then use a belt-positioning booster until the lap and shoulder belt fits properly — typically when they're at least 4 feet 9 inches tall, which is often somewhere between ages 8 and 12.\n\nHas your family been following the new rear-facing guidance, or did you hear about this update for the first time today?",
+        "image_caption": "AAP updated car seat guidelines in 2026: no more \"rear-face until 2.\" Keep kids rear-facing until they max out the height or weight limit on their specific seat. Safer for everyone. #COSParenting #ColoradoSprings",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-aap-car-seat-guidelines-2026.html",
+        "headline": "AAP Car Seat Guidelines Updated in 2026: What Colorado Springs Parents Need to Know",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Car Seat Safety 2026\n\n#### Image Concept 4A — Social X (1200x675)\n**Mode:** base_only\n**Prompt:** A toddler securely buckled in a rear-facing car seat in the back of a vehicle, viewed from the side. Parent's hand visible adjusting strap. Soft, natural lighting, calm and caring mood. Art style: clean editorial photorealistic illustration. Clean bottom third for text overlay. No text, no watermarks.\n\n#### Image Concept 4B — Article Hero / Facebook (1200x630)\n**Mode:** base_only\n**Prompt:** Close-up of a child car seat harness being properly buckled, neutral vehicle interior background, warm soft light. Safety-focused but approachable mood. Art style: editorial photorealistic illustration. Clean bottom third. No text, no watermarks.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "COS Outdoor Family Guide for May — Trails, Tips, and Altitude Awareness",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "May in Colorado Springs: highs in the 60s-70s, wildflowers, and trails that are made for families.\n\nGarden of the Gods. North Cheyenne Cañon. Seven Bridges.\n\nSunscreen is not optional at 6,000 feet.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "May might be the best outdoor month in Colorado Springs, and we want to make sure your family actually gets outside to enjoy it.\n\nTemperatures typically hit the 60s and 70s during the day, mornings start cool (layers are your friend), and the wildflowers are blooming. A few family-friendly trail picks if you're not sure where to start:\n\n**Garden of the Gods** — Free, paved and dirt trail options, dramatic red rock scenery, great for strollers and littles. Mornings are much quieter.\n\n**North Cheyenne Cañon** — A little more rugged, beautiful canyon walls. The Seven Bridges trail is a fan favorite — just know it gets busy on weekends.\n\nA couple of COS-specific things to keep in mind with kids:\n- At roughly 6,000 feet elevation, UV exposure is meaningfully higher than at sea level. Sunscreen is a must, even on cloudy days.\n- Afternoon thunderstorms are common in May — plan to head down from any exposed trail by early afternoon.\n\nWhat's your family's favorite COS trail for spring? Drop it in the comments!",
+        "image_caption": "May in Colorado Springs = wildflowers, 70-degree afternoons, and world-class trails right out the door. Garden of the Gods. North Cheyenne Cañon. Seven Bridges. Get outside, COS. #COSParenting #PikesPeakParenting",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-cos-outdoor-family-guide-may-2026.html",
+        "headline": "COS Outdoor Family Guide for May: Best Trails, Sun Safety, and Altitude Tips",
+        "word_count": 749
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Outdoor Family Guide\n\n#### Image Concept 5A — Social X (1200x675)\n**Mode:** base_only\n**Prompt:** A family hiking together on a scenic Colorado red rock trail — two adults and two children, wearing daypacks and sunglasses, surrounded by dramatic sandstone formations. Bright blue Colorado sky, warm afternoon light, wildflowers along the trail. Art style: vibrant editorial illustration, realistic. Clean bottom third for text overlay. No text, no watermarks.\n\n#### Image Concept 5B — Article Hero / Facebook (1200x630)\n**Mode:** base_only\n**Prompt:** Sweeping view of Garden of the Gods Colorado Springs — red rock formations against a blue sky with Pikes Peak snow-capped in the background. A family walking on the paved path below, colorful spring wildflowers in the foreground. Art style: bright, inviting landscape editorial illustration. Clean bottom third. No text, no watermarks."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

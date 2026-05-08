@@ -1,6 +1,50 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-08
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (13), image concepts (6 for all stories), image manifest, articles (5), fact-check (113 claims, 0 char violations, IMAGE MISSING expected not_started), compile (6 stories, 7 tweets, 6 FB posts, 5 articles, 30 items), dashboard (30 items), PostPlanner exports (13 posts X, 13 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). 0 char violations.
+- **Key Stories**: Georgia 10, Oklahoma 5 — No. 1 Sooners eliminated SEC Tournament (largest comeback in SEC Tournament history, P10), SEC semis FL vs AL/GA vs TX (P9), Nebraska 4-2 Michigan 19-game streak Big Ten semis (P8), Texas Tech 51-5 Canady 7-0 shutout Baylor Big 12 semis (P8), FSU/Duke ACC semis (P7), Selection Show Sunday May 10 ESPN2 (P4)
+
+## Previous Run
+- **Date**: 2026-05-07
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (12), image concepts (6 including Story 6), image manifest, articles (5), fact-check (88 claims, 0 char violations, all stories in image-concepts), compile (6 stories, 8 tweets, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (14 posts X, 14 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known); publish-dashboard.py succeeded locally.
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). 0 char violations.
+- **Key Stories**: Ole Miss 4, Tennessee 1 SEC Tournament upset/elimination of Karlyn Pickens (P10), Auburn 11 A&M 8 five-HR Ratliff walk-off (P9), Oklahoma No. 1 SEC QF vs Georgia 7pm CT (P8), Nebraska 18-game streak Big Ten top seed (P7), Texas Tech 50-5 first D-I to 50 wins Big 12 Tournament (P7), NFCA Week 14 rankings (P4)
+
+## Previous Run
+- **Date**: 2026-05-06
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (10; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (131 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 10 tweets, 0 FB parsed — known, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (10 posts X, 10 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known); publish-dashboard.py cherry-pick succeeded.
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Story 6/7 not in image-concepts (Tier 3 social-only — expected). 0 char violations. Detached HEAD resolved via git checkout main + pull + cherry-pick.
+
+## Previous Run
+- **Date**: 2026-05-05
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (11; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (93 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 11 tweets, 0 FB parsed — known, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (11 posts X, 11 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Story 6/7 not in image-concepts (Tier 3 social-only — expected). 0 char violations.
+
+## Previous Run
+- **Date**: 2026-05-04
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (93 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Story 6/7 not in image-concepts (Tier 3 social-only — expected). 0 char violations.
+
+## Previous Run
+- **Date**: 2026-05-03
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (10; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (93 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 10 tweets, 0 FB parsed — known, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (10 posts X, 10 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — network-level sandbox restriction, known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format mismatch — known issue, dashboard falls back to markdown parsing). Story 6/7 not in image-concepts (Tier 3 social-only — expected). 0 char violations.
+
+## Previous Run
 - **Date**: 2026-05-02
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (14), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (80 claims, 0 char violations, S6/S7 not in image-concepts — expected Tier 3 social-only), compile (7 stories, 9 tweets, 0 FB parsed — known, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known). Dashboard published via publish-dashboard.py + cherry-pick (non-fast-forward resolved via git pull --rebase).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/ilovesoftball-dashboards/

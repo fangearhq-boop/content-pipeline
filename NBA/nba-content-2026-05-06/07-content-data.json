@@ -1,0 +1,305 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-06",
+  "compiled_at": "2026-05-06T11:18:16.200017+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Thunder 108, Lakers 90 — Holmgren 24/12/3 Carries OKC to Game 1 Win",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Chet Holmgren: 24 PTS, 12 REB, 3 BLK.\n\nOKC without Jalen Williams. Lakers without Luka Doncic.\n\nThunder still win by 18. They are 5-and-0 in the 2026 playoffs. The depth on this team is something else. #ThunderUp #NBAPlayoffs",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 1-2",
+          "text": "SGA had 18 points last night. That's considered a quiet night for him.\n\nAjay Mitchell added 18. Holmgren went for 24/12/3.\n\nThunder won by 18. LeBron scored 27 and it wasn't close. Oklahoma City is the class of the West. #ThunderUp #LakeShow #NBAPlayoffs",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp",
+            "#LakeShow",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "Oklahoma City had an \"off night\" from Shai Gilgeous-Alexander — just 18 points by his standards — and they still won by 18.\n\nThat's how deep this Thunder team is.\n\nChet Holmgren was the story in Game 1 against the Lakers on Tuesday: 24 points on 9-of-17 shooting, 12 rebounds, and 3 blocks in 31 minutes. He was dominant at both ends, giving OKC a weapon to lean on when SGA's output wasn't at his usual MVP level.\n\nAjay Mitchell chipped in 18 points as well, proving once again that this roster goes 10 deep.\n\nFor the Lakers, LeBron James did everything in his power — 27 points on 12-of-17 from the field, 6 assists — but without Luka Doncic (Grade 2 hamstring, out since April 2), there simply wasn't enough firepower around him.\n\nThe Thunder are now 5-0 in the 2026 playoffs, and they haven't had Jalen Williams in the lineup for three straight games.\n\nOklahoma City is the class of the Western Conference. Period.",
+        "image_caption": "OKC wins Game 1 without two All-Stars in the lineup. Holmgren: 24 PTS, 12 REB, 3 BLK. The Thunder depth machine is something else. #ThunderUp #NBAPlayoffs",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-holmgren-thunder-game1-win-lakers.html",
+        "headline": "Holmgren's 24/12/3 Carries Thunder to Game 1 Win Over Shorthanded Lakers",
+        "word_count": 624
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (X + FB)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (X + FB)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thunder 108, Lakers 90 — Game 1\n**Sources:**\n1. NBC Sports: \"Holmgren has 24 points to help Thunder top Lakers 108-90 in Game 1 of Western Conference semifinals\" (nbcsports.com)\n2. Al Jazeera Sports: \"NBA Playoffs: OKC Thunder overpower LA Lakers to take 1-0 lead\" (aljazeera.com)\n3. NBA.com: \"4 takeaways: Thunder's bigs balance rare off night for SGA in Game 1 win\"\n4. LoveNBA: \"Chet Holmgren DOMINATES Game 1 (24 PTS, 12 REB, & 3 BLK!) | Game 1 vs Lakers | May 5, 2026\"\n5. ESPN: \"Thunder 108-90 Lakers (May 5, 2026) Final Score\"\n**Verified Facts:**\n- Final score: Thunder 108, Lakers 90 [HIGH — multiple sources]\n- Chet Holmgren: 24 pts (9-17 FG, 2-2 3P, 4-4 FT), 12 reb, 3 blk, 31 min [HIGH — confirmed CBS Sports boxscore + multiple outlets]\n- SGA: 18 pts, 6 ast [HIGH — multiple sources]\n- Ajay Mitchell: 18 pts [HIGH — multiple sources]\n- LeBron James: 27 pts (12-17 FG), 6 ast [HIGH — multiple sources]\n- Thunder record: 5-0 in 2026 playoffs [HIGH — confirmed via Al Jazeera + NBC Sports]\n- Jalen Williams: Grade 1 left hamstring, missed 3rd straight game [HIGH — multiple injury reports]\n- Luka Doncic: out for Game 1 (Grade 2 hamstring) [HIGH — confirmed previously]\n**Freshness:** Game played May 5, 2026 — overnight result, same-day relevance HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Pistons 111, Cavaliers 101 — Cade 23/7, Harris 20/8 Power Detroit to Series Lead",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Cade: 23 pts, 7 ast. Harris: 20 pts, 8 reb.\n\nDetroit 111, Cleveland 101 in Game 1. Pistons snap a 12-game playoff losing streak against the Cavs — and earn their first Game 1 playoff win since 2008.\n\nThis team keeps making history. #DetroitBasketball #NBAPlayoffs",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#DetroitBasketball",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "The Detroit Pistons aren't done making history.\n\nOn Tuesday, they beat the Cleveland Cavaliers 111-101 in Game 1 of the Eastern Conference Semifinals — snapping a 12-game playoff losing streak against the Cavs and earning their first Game 1 playoff win since May 2008 against the Orlando Magic.\n\nCade Cunningham was sharp: 23 points and 7 assists. Tobias Harris continued his exceptional playoff run with 20 points and 8 rebounds. The Pistons' balanced attack made it incredibly difficult for Cleveland to key in on any single scorer.\n\nThe Cavaliers had their moments — Donovan Mitchell scored 23 and James Harden poured in 22, including 13 in the fourth quarter. But Detroit's depth and home-court energy proved to be too much.\n\nThis Pistons team keeps finding ways to win. They came back from 3-1 against Milwaukee. They beat Orlando in Game 7. And now they're controlling the Cavaliers from the opening tip.\n\nGame 2 is Thursday, May 7, at 7:00 PM ET on Prime Video at Little Caesars Arena.",
+        "image_caption": "Pistons 111, Cavs 101. Cade: 23 pts. Harris: 20 pts. Detroit ends a 12-game playoff skid against Cleveland and grabs the Game 1 advantage. #DetroitBasketball #NBAPlayoffs",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-pistons-111-cavaliers-101-game1.html",
+        "headline": "Pistons Beat Cavaliers 111-101 in Game 1, Snap 12-Game Playoff Losing Streak vs. Cleveland",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (X + FB)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (X + FB)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pistons 111, Cavaliers 101 — Game 1\n**Sources:**\n1. ESPN: \"Pistons 111-101 Cavaliers (May 5, 2026) Final Score\" (espn.com)\n2. Athlon Sports: \"Cavaliers vs Pistons Final Score: Cade Cunningham's 23-Point Game Secures Game 1\"\n3. GMA News Online: \"NBA: Pistons use balanced effort to take Game 1 vs. Cavaliers\"\n4. NBA.com: \"4 takeaways: Pistons muscle -- and shoot -- their way to Game 1 win over the Cavs\"\n5. ClickOnDetroit: \"Tobias Harris highlights Cunningham, Duren, Robinson in Detroit Pistons' Game 1 victory vs. Cavs\" (May 6)\n**Verified Facts:**\n- Final score: Pistons 111, Cavaliers 101 [HIGH — ESPN + multiple sources]\n- Cade Cunningham: 23 pts, 7 ast [HIGH — ESPN + Athlon Sports]\n- Tobias Harris: 20 pts, 8 reb [HIGH — ESPN + Athlon Sports]\n- Donovan Mitchell: 23 pts [HIGH — Athlon Sports]\n- James Harden: 22 pts (13 in Q4) [HIGH — Athlon Sports]\n- Pistons ended 12-game playoff losing streak vs Cavaliers [HIGH — confirmed]\n- First Pistons Game 1 playoff win since May 2008 vs Orlando [HIGH — confirmed]\n- Game 2 schedule: May 7, 7PM ET, Prime Video [HIGH — schedule confirmed]\n**Freshness:** Game played May 5 — overnight result, same-day HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Luka Watch — Return Could Come as Early as May 7, Game 4 (May 11) More Realistic",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Luka update: ESPN listed May 7 as a possible return. Sources closer to camp point to Game 4 (May 11) as more realistic.\n\nHe hasn't started full-speed running yet. Out since April 2. Lakers trail 0-1. #LakeShow #NBAPlayoffs",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "The most important injury update in the NBA right now: where is Luka Doncic?\n\nThe Lakers star has been sidelined since April 2 with a Grade 2 left hamstring strain — that's 33-plus days out. ESPN recently updated their return target to as early as May 7, which sent some hope through Laker Nation. But sources closer to the situation point to Game 4 (May 11) at Crypto.com Arena as the more realistic target.\n\nThe reason for caution is simple: Doncic still hasn't begun full-speed running or one-on-one contact drills. That's the gap that takes time to close safely — especially with a Grade 2 strain, where rushing the process risks re-injury.\n\nIn the meantime, LeBron James dropped 27 points on 12-of-17 shooting in Game 1's 90-108 loss — heroic, but not enough against a Thunder team that is 5-0 in these playoffs and won by 18 without their own All-Star in the lineup.\n\nEvery game Luka misses is a game the Lakers may not get back.",
+        "image_caption": "Luka update: ESPN says May 7 possible. Sources near camp point to Game 4 (May 11). Lakers trail 0-1. The clock is ticking. #LakeShow #NBAPlayoffs",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-luka-doncic-injury-update-lakers-thunder.html",
+        "headline": "Luka Doncic Injury Update: ESPN Targets May 7, But Sources Point to Game 4 or Later",
+        "word_count": 624
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (X + FB)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Luka Doncic Injury Update\n**Sources:**\n1. Heavy.com: \"ESPN Updates Luka Doncic Return Timeline With Earlier Target Date\"\n2. Sports Illustrated (via si.com): \"Luka Doncic Injury Update And Return Timeline For The Los Angeles Lakers In Round 2\"\n3. Basketnews.com: \"Realistic Luka Doncic return date revealed by doctor\"\n4. Yahoo Sports: \"Luka Dončić making slow progress, not close to return from injury\"\n**Verified Facts:**\n- Luka Doncic: Grade 2 left hamstring strain [HIGH]\n- Last game played: April 2 (33+ days out by May 6) [HIGH — multiple sources]\n- ESPN updated return target to May 7 [MEDIUM — one outlet, ESPN via Heavy]",
+        "sources": "- Source close to Doncic: hopeful for Game 4 (May 11) at Crypto.com Arena [MEDIUM — single Slovenian outlet report]\n- Still not doing full-speed running or contact work [HIGH — multiple reports]\n- Shams Charania quoted on slow progress [HIGH]\n**Freshness:** Ongoing developing story. Last update May 5-6."
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Can Embiid Bounce Back? Knicks vs. 76ers Game 2 Tonight at MSG — 7:10 PM ET",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "TONIGHT at MSG: Knicks vs. 76ers, Game 2. 7:10 PM ET, ESPN.\n\nNew York has won 4 straight playoff games by 16, 29, 51 and 39 points. Embiid shot 3-for-11 in Game 1.\n\nCan Philly find a way? Or does the Knicks express keep rolling? #NewYorkForever #NBAPlayoffs",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "Tonight at Madison Square Garden, the New York Knicks have a chance to go up 2-0 against the Philadelphia 76ers. And they have every reason to believe they can do it again.\n\nIn Game 1, New York won 137-98. Jalen Brunson scored 35 — 27 in the first half. The Knicks shot 63 percent from the field and led by 40 at one point. It was a complete obliteration.\n\nFor Philadelphia to respond, Joel Embiid simply must be better. He shot 3-for-11 in Game 1 for just 14 points — far below what the Sixers need. The 76ers also turned the ball over 19 times and shot 41 percent from the field.\n\nThe Knicks have now won four straight playoff games by margins of 16, 29, 51, and 39 points. They are the most dominant team in the Eastern Conference right now, and they're doing it with elite defense and Brunson playing at the peak of his career.\n\nCan Philly stop the bleeding? Game 2 tips off tonight at 7:10 PM ET on ESPN.",
+        "image_caption": "The Knicks are on a historic roll. Can the 76ers bounce back in Game 2 at MSG? 7:10 PM ET, ESPN. #NewYorkForever #NBAPlayoffs",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-knicks-76ers-game2-preview.html",
+        "headline": "Knicks vs. 76ers Game 2 Preview: Embiid Needs a Statement Performance at MSG",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (X + FB)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (X + FB)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks vs. 76ers Game 2 Tonight\n**Sources:**\n1. NBC Sports: \"Jalen Brunson puts up an easy 35, sparks Knicks to dominant 39-point win over 76ers in Game 1\"\n2. Yardbarker: \"76ers vs. Knicks- 2026 NBA Playoffs: Game Preview, Odds, and Injury Updates (May 6)\"\n3. Yahoo Sports: Knicks vs 76ers Game 2 prediction article\n**Verified Facts:**\n- Game time: 7:10 PM ET, May 6, at MSG, ESPN [HIGH]\n- Knicks lead series 1-0 [HIGH]\n- Knicks -6.5 in Game 2 [MEDIUM — betting odds]\n- Embiid: 14 pts, 3-11 FG in Game 1 [HIGH — multiple sources]\n- 76ers: 41% FG, 19 turnovers in Game 1 [HIGH — Yardbarker/Yahoo]\n- Brunson: 35 pts (27 in 1H) in Game 1 [HIGH]\n- Knicks won 4 straight playoff games by 16, 29, 51, 39 pts [HIGH — confirmed across sources]\n- 76ers shot 34 FT to Knicks' 17 in Game 1 [HIGH — Yardbarker]\n**Freshness:** Tonight's game — same-day preview, HIGH relevance.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wolves vs. Spurs Game 2 Tonight — San Antonio Must Slow Edwards, 9:30 PM ET",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Wembanyama had 12 BLOCKS in Game 1. An all-time NBA playoff record.\n\nThe Spurs still lost by 2.\n\nGame 2 tonight — Wolves vs. Spurs, 9:30 PM ET, ESPN. San Antonio needs answers for Anthony Edwards. #GoSpursGo #NBAPlayoffs",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "Victor Wembanyama blocked 12 shots in Game 1. That's an all-time NBA playoff record — shattering the previous mark of 10. The Spurs still lost by two.\n\nThat tells you everything you need to know about the challenge San Antonio faces tonight.\n\nAnthony Edwards — who came back from a hyperextended knee 10 days ahead of schedule — scored 18 points off the bench in the Timberwolves' 104-102 Game 1 victory, including 11 in the fourth quarter. His clutch plays were the difference.\n\nNow the series shifts to San Antonio for Game 2 tonight at 9:30 PM ET on ESPN. The Spurs face a critical question: how do you stop Anthony Edwards? He looked fully healthy, fully engaged, and fully dangerous in Game 1.\n\nWembanyama's historic defensive performance showed the world his ceiling. But his team needs more offensive production to capitalize on it.",
+        "image_caption": "Wemby had 12 blocks — an all-time playoff record. Spurs still lost. Game 2 tonight at 9:30 PM ET on ESPN. Can San Antonio find offensive answers? #GoSpursGo #NBAPlayoffs",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-wolves-spurs-game2-preview-edwards.html",
+        "headline": "Wolves-Spurs Game 2 Preview: Wembanyama's Record-Breaking Performance Wasn't Enough — Now What?",
+        "word_count": 605
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (X + FB)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Social (X + FB)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wolves vs. Spurs Game 2 Tonight\n**Sources:**\n1. ESPN: Series schedule info\n2. NBA.com: \"Recap: 2026 NBA Playoffs, Conference Semifinals | Knicks, Timberwolves win as Wemby sets all-time Playoff blocks record\"\n**Verified Facts:**\n- Wolves lead 1-0 (104-102 Game 1 win, May 4) [HIGH]\n- Game 2: 9:30 PM ET, May 6, ESPN, AT&T Center [HIGH — schedule confirmed]\n- Wembanyama: 12 blocks in Game 1 (all-time NBA playoff record) [HIGH]\n- Anthony Edwards: 18 pts (11 in Q4) off bench in Game 1 [HIGH]\n- Edwards returned 10 days early from hyperextended knee [HIGH]\n**Freshness:** Tonight's game — same-day preview, HIGH relevance.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
