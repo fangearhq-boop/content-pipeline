@@ -1,0 +1,262 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-09",
+  "compiled_at": "2026-05-09T12:20:39.612316+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Djokovic Stunned by Prizmic — First Rome Opening-Round Loss in 18 Appearances",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "SHOCKING. Dino Prizmic (20, qualifier) defeats Novak Djokovic 2-6, 6-2, 6-4 in Rome. First time in 18 appearances Djokovic has lost in the opening round. A visibly hampered 6-time champion exits early. #tennis #ItalianOpen",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#tennis",
+            "#ItalianOpen"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Djokovic after Rome exit: \"I'm pleased at least that I fought 'til the end.\" First clay match in 57 days. Right shoulder not right. Roland Garros in 15 days. The question now: is Paris still realistic? #Djokovic #RolandGarros",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Djokovic",
+            "#RolandGarros"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-djokovic-prizmic-rome-upset.html",
+        "headline": "Djokovic Falls to Prizmic in Rome — First Opening-Round Loss in 18 Appearances",
+        "word_count": 768
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Djokovic Upset by Prizmic\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search:** \"Novak Djokovic\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption text overlay:** \"DJOKOVIC OUT. Rome opening round loss — first in 18 appearances.\"\n- **Mood:** Somber, dramatic, end of an era feeling\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search:** \"Dino Prizmic\"\n- **Credit:** (Imagn Images)\n- **Use:** Article header for match report\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Djokovic Stunned by Prizmic in Rome\n**Source 1:** ATP Tour official — \"Dino Prizmic stuns Novak Djokovic in Rome\" (atptour.com/en/news/djokovic-prizmic-rome-2026-friday) — HIGH confidence\n**Source 2:** Olympics.com — \"Italian Open 2026: Dino Prižmić secures biggest win of his career against Novak Djokovic in three-set thriller\" — HIGH confidence\n**Verified facts:**\n- Score: 2-6, 6-2, 6-4 — HIGH (2 sources)\n- Duration: 2 hours 15-17 minutes — MEDIUM (slight variance between sources, ATP says 2:17, Olympics says 2:15)\n- Prizmic is 20 years old, Croatian, came through qualifying — HIGH\n- Djokovic's first-ever opening round loss in Rome (was 18-0 in Rome openers) — HIGH (ATP official)\n- Djokovic had not played in 57 days (right shoulder injury, last played Indian Wells) — HIGH\n- Djokovic physically hampered: hands on knees between points, slow to chair at changeovers — HIGH\n- Djokovic quote: \"I'm pleased at least that I fought 'til the end\" — HIGH (ATP)\n- Djokovic pre-match: \"I'm not completely happy with my physical condition\" — HIGH\n- Djokovic is 6-time Rome champion — HIGH (from prior pipeline history)\n- Prizmic advanced through qualifying — HIGH (multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Sinner's Home Debut Tonight — Foro Italico and the Golden Masters Hunt",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jannik Sinner steps onto Foro Italico TONIGHT vs Sebastian Ofner. 30-2 in 2026. Five straight Masters 1000 titles. Eight of nine won. The only M1000 missing: Rome. Home crowd. Golden Masters. Let's go. #Sinner #ItalianOpen",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sinner",
+            "#ItalianOpen"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 2-2",
+          "text": "No Italian man has won Rome since Adriano Panatta in 1976. Tonight Jannik Sinner faces Sebastian Ofner at Foro Italico — home crowd roaring, Career Golden Masters on the line. The stage is set. #Sinner #tennis",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sinner",
+            "#tennis"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-sinner-rome-debut-golden-masters.html",
+        "headline": "Sinner Steps onto Foro Italico Stage — The Golden Masters Mission Begins",
+        "word_count": 643
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner Rome Debut\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search:** \"Jannik Sinner\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption text overlay:** \"TONIGHT. Sinner. Foro Italico. Golden Masters Hunt.\"\n- **Mood:** Energetic, anticipatory, home crowd atmosphere\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search:** \"Jannik Sinner\"\n- **Credit:** (Imagn Images)\n- **Use:** Article header — Sinner in action on clay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner vs Ofner Rome R2\n**Source 1:** ATP Tour — \"When will Jannik Sinner play his first match in Rome?\" — HIGH\n**Source 2:** Puntodebreak — \"Schedule and where to watch Jannik Sinner's debut at ATP Rome 2026 against Sebastian Ofner\" — HIGH\n**Verified facts:**\n- Sinner match scheduled not before 19:00 local time on May 9 — HIGH\n- Sinner record in 2026: 30-2 — HIGH (multiple prior pipeline sources, confirmed)\n- Sinner has won 5 consecutive Masters 1000 titles — HIGH (prior pipeline coverage)\n- Sinner has 8 of 9 Masters 1000 titles (Career Golden Masters quest) — HIGH (ATP Tour official)\n- Rome is the only M1000 Sinner hasn't won — HIGH\n- Ofner defeated Michelsen in R1 to set up the match — HIGH (Puntodebreak)\n- Sinner H2H vs Ofner: no prior matches found — MEDIUM (not independently verified)\n- Sinner 28-match Masters 1000 win streak entering Rome — MEDIUM (was 28 per May 8 pipeline, needs confirmation this is current)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "WTA Rome R3 — Sabalenka, Gauff, Paolini, Andreeva All in Action Saturday",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "WTA Rome R3 — Saturday is stacked: Sabalenka vs Cirstea. Gauff vs Sierra. Paolini vs Mertens (defending champ). Andreeva vs Golubic. Projected QF: Sabalenka vs Gauff. Clay season's best day yet. #WTA #ItalianOpen",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA",
+            "#ItalianOpen"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-wta-rome-r3-saturday-showcase.html",
+        "headline": "WTA Rome R3: Sabalenka, Gauff, Paolini, Andreeva — Saturday Is Must-Watch Tennis",
+        "word_count": 669
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WTA Rome R3\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search:** \"Aryna Sabalenka\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption text overlay:** \"WTA ROME R3. Sabalenka, Gauff, Paolini, Andreeva — Saturday showdown.\"\n- **Mood:** Power, dominance, clay season energy\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search:** \"Coco Gauff\"\n- **Credit:** (Imagn Images)\n- **Use:** Article header for WTA R3 day preview\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Rome R3 Day\n**Source 1:** WTA Official (wtatennis.com) — R3 schedule — HIGH\n**Source 2:** Tennis Tonic — \"Sabalenka, Gauff, Jovic and Townsend to play on Saturday\" — HIGH\n**Verified facts:**\n- Sabalenka (No. 1) vs Cirstea (No. 26) — R3 scheduled May 9 at 3:30 PM — HIGH\n- Gauff (No. 3) vs Solana Sierra (ARG) — R3 scheduled May 9 — HIGH\n- Paolini (No. 9) vs Mertens (No. 21) — R3 scheduled May 9 — HIGH\n- Andreeva (No. 7 or 8) vs Golubic — R3 scheduled May 9 — HIGH\n- Sabalenka def. Krejcikova 6-2, 6-3 in R2 — HIGH (from May 8 pipeline/WTA)\n- Gauff def. Valentova 6-3, 6-4 in R2 — HIGH (Tennis Tonic)\n- Paolini def. Jeanjean 6-7(4), 6-2, 6-4 in R2 — HIGH (from May 8 pipeline)\n- Sabalenka and Gauff projected to meet in QF — MEDIUM (draw projection, not confirmed)\n- Paolini is defending champion — HIGH (pipeline history)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "ATP Rome R2 Day — Medvedev, Zverev and the Race to Stop Sinner",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "ATP Rome R2 is live. Medvedev vs Machac on Campo Centrale. Zverev looking to back up Friday's 7-5, 6-3 win over Altmaier. Djokovic is out. The draw is Sinner's to lose. #ATPRome #tennis",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPRome",
+            "#tennis"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-04-atp-rome-r2-medvedev-zverev.html",
+        "headline": "ATP Rome R2: Medvedev, Zverev, and the Race to Challenge Sinner",
+        "word_count": 645
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ATP Rome R2 Day\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search:** \"Daniil Medvedev\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption text overlay:** \"ATP ROME R2. Medvedev. Zverev. The race to stop Sinner begins.\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Rome R2 Day\n**Source 1:** ATP Tour schedule — HIGH\n**Source 2:** Puntodebreak May 9 order of play — HIGH\n**Verified facts:**\n- Medvedev (No. 7) vs Machac on Campo Centrale — HIGH\n- Zverev def. Altmaier 7-5, 6-3 on May 8 after 90-minute rain delay — HIGH (ATP Tour)\n- Zverev is a 2-time former Rome champion (not 3-time — CORRECTING from earlier) — MEDIUM (need to verify number of Rome titles)\n- With Djokovic out, Sinner's path to home title cleaner — HIGH (logical inference from confirmed draw)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Roland Garros in 15 Days — Djokovic Exit Reshapes the Paris Picture",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "15 days to Roland Garros. Alcaraz: OUT (wrist). Djokovic: doubtful after Rome exit. Sinner: 30-2, five consecutive M1000 titles, chasing Career Grand Slam. The path to Paris has never looked clearer for No. 1. #RolandGarros",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RolandGarros"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-roland-garros-2026-preview.html",
+        "headline": "Roland Garros 2026: With Alcaraz Out and Djokovic Doubtful, Sinner's Path to Paris Has Never Been Clearer",
+        "word_count": 744
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Roland Garros Preview\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search:** \"Roland Garros tennis clay court\"\n- **Credit:** (USA TODAY Sports Images)\n- **Caption text overlay:** \"15 DAYS TO PARIS. Alcaraz out. Djokovic doubtful. Sinner's moment.\"\n- **Mood:** Grand, sweeping, anticipatory"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Roland Garros Preview\n**Source 1:** Roland Garros official site — HIGH\n**Source 2:** LTA UK preview — HIGH\n**Verified facts:**\n- Roland Garros qualifying starts May 18 — HIGH\n- Roland Garros main draw starts May 24 (Sunday) — HIGH\n- Tournament ends June 7 — HIGH\n- Alcaraz out with wrist injury — HIGH (confirmed multiple prior pipelines)\n- Swiatek is 4-time Roland Garros champion — HIGH (prior pipeline)\n- Sinner has never won Roland Garros (Career Grand Slam pursuit) — HIGH\n- Djokovic has 3 Roland Garros titles (2016, 2021, 2023) — HIGH\n- Gauff won Roland Garros 2023 — MEDIUM (verify — she won it in 2023, confirmed)\n- Sabalenka has not won Roland Garros — HIGH",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
