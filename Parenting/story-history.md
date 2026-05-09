@@ -2,6 +2,45 @@
 
 ---
 
+## May 9, 2026
+
+### Story 1: D11 Teachers and Parents Picket Board — 300+ Days Without a Contract
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (CSEA organized picket at D11 Board of Education meeting May 6; 300+ days since Board ended 56-year master agreement; key demands: smaller class sizes, more counselors/social workers, special ed staffing; teachers now governed by "live mode" online handbook changeable anytime; parents joined educators; strike occurred October 2025)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 300+ days without master contract; 56-year agreement; CSEA picket; live handbook; d11.org Board meeting; Source: KRDO May 6 2026
+
+### Story 2: Territory Days 2026 — 50th Anniversary, Memorial Day Weekend
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (50th anniversary; May 23-25 Memorial Day Weekend; Old Colorado City; FREE; 180+ booths; live music; petting zoo; kids play area; gold panning; Indigenous dancers; gunfight reenactments; blacksmith demos; two beer gardens; free shuttle from C.A.B. Garage; no dogs; ADA compliant)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 50th anniversary; May 23-25; free; Old Colorado City; free shuttle; no dogs; 180+ booths; visitcos.com + shopoldcoloradocity.com
+
+### Story 3: CPSC Recall — ZMC Group Light-Up Toys (Button Battery Ingestion Risk)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CPSC recall May 7 2026; 124,560 units; yo-yos, maracas, Halloween wands, glow sticks; sold at discount stores $1 May 2023-April 2026; button cell batteries easily accessible; ingestion risk — severe internal burns, potentially fatal; no injuries reported; refund: destroy toy, email photo to recallzmctoy@gmail.com; call 888-407-3225 M-F 9:30AM-5:30PM PT)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 124,560 units; $1 discount stores 2023-2026; button batteries; recallzmctoy@gmail.com; 888-407-3225; cpsc.gov official
+
+### Story 4: AAP Updates Screen Time Guidance 2026 — Quality Over Limits
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP 2026 screen time update — different from May 8 immunization story; drops "2 hours max" hard limit for school-age kids; new focus: quality, co-viewing, family habits; unchanged: no screens under 18mo, 1hr/day ages 2-5; new: device-free bedrooms/mealtimes, model good habits; HealthyChildren.org; EdSurge Feb 2026)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** No hard limit school-age+; 1hr for 2-5yo unchanged; no screens under 18mo unchanged; device-free bedrooms/mealtimes; co-viewing emphasized; Source: EdSurge 2026-02-05
+
+### Story 5: Downtown Farmers Market Opens May 10 — Acacia Park Season Start
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Downtown COS Farmers Market opens Sunday May 10 at Acacia Park, 115 E. Pikes Peak Ave.; 9AM-2PM every Sunday through October 25; free to attend; local produce, baked goods, artisan items)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Acacia Park; May 10 - October 25; Sundays 9AM-2PM; free; visitcos.com confirmed
+
+---
+
 ## May 8, 2026
 
 ### Story 1: 3rd Annual Touch-A-Truck — FREE Colorado Springs Family Event, May 16

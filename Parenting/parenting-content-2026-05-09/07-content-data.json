@@ -1,0 +1,290 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-09",
+  "compiled_at": "2026-05-09T12:31:31.052828+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Teachers and Parents Picket Board — 300+ Days Without a Contract",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D11 families: it's been 300+ days since the District 11 Board ended a 56-year teacher contract. Educators and parents picketed this week, asking for smaller classes, more counselors, and stable working conditions. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        },
+        {
+          "label": "Post 1-2",
+          "text": "D11 teachers are working without a master contract — guided by an online \"handbook\" that can be updated anytime without notice. Parents joined the picket this week. The impasse continues to affect COS classrooms. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM MT"
+      },
+      "article": {
+        "filename": "article-01-d11-teacher-picket-contract.html",
+        "headline": "D11 Teachers and Parents Picket Board Meeting — 300 Days Without a Contract",
+        "word_count": 570
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Teachers and Parents Picket Board\n\n**Image Concept 1A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** A school hallway in warm afternoon light, empty desks visible through an open classroom door. Soft blue-and-gold color palette. Clean, slightly desaturated, thoughtful mood. No people, no text, no logos. Leave the bottom third of the frame clean and open for text overlay. Wide angle, warm but subdued.\n- **Mood:** Reflective, hopeful-yet-concerned, community-focused\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** Overhead flat-lay of school supplies on a light wood desk — pencils, a notebook, an apple, a ruler — in a teal and coral color palette. Soft natural lighting. No people, no text, no logos. Landscape orientation with clear space on the right side for text overlay.\n- **Mood:** Educational, grounded, warm\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Teacher/Parent Picket\n**Source 1:** KRDO.com — \"Educators, parents to picket D11 after 300+ days since master contract was severed\" (2026-05-06) — HIGH\n**Source 2:** Colorado Sun — \"Hundreds of Colorado Springs teachers strike over loss of collective bargaining\" (2025-10-08) — HIGH (background/context)\n**Source 3:** Pikes Peak Bulletin — \"District 11 responds to potential teacher strike\" — MEDIUM (background)\n**Verified facts:**\n- Master contract was a 56-year agreement — HIGH (multiple sources confirm)\n- Contract severed/ended in December (implied; 300+ days back from May 2026 = approx Dec 2024/early 2025) — MEDIUM (calculate: 300 days before May 6 = approx July 2025; but Colorado Sun says strike was Oct 2025 \"over loss of collective bargaining\" — contract appears severed late 2024 or early 2025) — using \"300+ days\" as given by KRDO — HIGH\n- Picket at D11 Board of Education meeting — HIGH (KRDO)\n- CSEA (Colorado Springs Education Association) organized the picket — HIGH (KRDO)\n- Key demands: smaller class sizes, more counselors, social workers, special ed support — HIGH (KRDO)\n- Teachers guided by \"live mode\" online handbook that can be changed anytime — HIGH (KRDO detail)\n- Parents joined educators at picket — HIGH (KRDO headline confirms)\n- Strike occurred October 2025 — HIGH (Colorado Sun)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Territory Days 2026 — 50th Anniversary Festival, Memorial Day Weekend",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM MT",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Territory Days turns 50. COS's biggest FREE festival: May 23-25 in Old Colorado City. 180+ booths, live music, petting zoo, kids play area, gold panning. Free shuttle from downtown. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 2-2",
+          "text": "COS families: parking is rough at Territory Days. Use the FREE shuttle from the Colorado Springs C.A.B. Garage downtown. The festival is free, ADA compliant, and runs May 23-25 in Old Colorado City. No dogs this year. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM MT"
+      },
+      "article": {
+        "filename": "article-02-territory-days-50th-anniversary.html",
+        "headline": "Territory Days Turns 50 — COS's Biggest Free Festival is Back for Memorial Day Weekend",
+        "word_count": 467
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Territory Days 2026\n\n**Image Concept 2A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** A festive outdoor street fair scene in late afternoon golden light: colorful craft booth banners, bunting flags in warm red, white, and blue, cobblestone street visible below. No people, no text, no logos or brand names. Shallow depth of field with background softly blurred. Leave bottom third open for text overlay. Western American small-town feel.\n- **Mood:** Festive, celebratory, all-American\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** A children's play area at an outdoor festival in golden afternoon light: colorful carnival-style tents, grass underfoot, the blue Colorado sky above. No people or faces visible, no text, no logos. Warm, inviting, wide shot. Landscape orientation with clear space on left side.\n- **Mood:** Joyful, open-air, community celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Territory Days 2026\n**Source 1:** visitcos.com — Territory Days 2026 official listing — HIGH\n**Source 2:** shopoldcoloradocity.com — Territory Days schedule and details — HIGH\n**Source 3:** lake.com — Territory Days 2026 event listing — HIGH\n**Verified facts:**\n- Territory Days is the 50th anniversary in 2026 — HIGH (multiple sources confirm)\n- Dates: May 23-25, 2026 (Memorial Day Weekend) — HIGH\n- Location: Old Colorado City, Colorado Springs — HIGH\n- Free admission, ADA compliant — HIGH\n- Over 180 food and craft booths — HIGH (visitcos.com)\n- Live music, kids' play area, petting zoo — HIGH\n- Gold panning, Indigenous dancers, Wild West gunfight reenactments, blacksmith demos — HIGH (shopoldcoloradocity.com)\n- Free shuttle from Colorado Springs C.A.B. Garage downtown — HIGH (visitcos.com)\n- No dogs allowed — HIGH\n- Two beer gardens with live music — HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "CPSC Recall — ZMC Group Light-Up Toys (Button Battery Ingestion Risk)",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "CPSC recall: 124,560 ZMC Group light-up toys (yo-yos, maracas, wands, sticks — about $1 at discount stores). Button batteries inside are easily swallowed by kids. Stop use now. Email recallzmctoy@gmail.com for a refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 279
+        },
+        {
+          "label": "Post 3-2",
+          "text": "ZMC light-up toy recall: yo-yos, maracas, Halloween wands, glow sticks — $1 at discount stores. Accessible button batteries can cause fatal internal burns if swallowed. Call 888-407-3225. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM MT"
+      },
+      "article": {
+        "filename": "article-03-zmc-light-up-toy-recall.html",
+        "headline": "CPSC Recalls 124,560 Light-Up Toys — Button Battery Risk in $1 Discount Store Items",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ZMC Group Light-Up Toys Recall\n\n**Image Concept 3A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Close-up flat lay of small colorful light-up novelty toys — a yo-yo, a small maraca, a glow wand — on a clean white surface. Dramatic side lighting. Slightly ominous, amber-red accent color highlights the battery compartment area of one toy. No text, no logos, no people. Leave bottom third open for text overlay.\n- **Mood:** Alert, safety-focused, urgent but not alarming\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** A small round button cell battery on a white surface next to a tiny toy component — emphasized in crisp macro detail. Red and white color palette suggesting caution. Clinical, clean background. No text, no people, no logos. Landscape orientation.\n- **Mood:** Safety warning, clinical, informative\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ZMC Group Light-Up Toys Recall\n**Source 1:** CPSC.gov — Official recall notice (ZMC Group Recalls Multiple Light Up Toys) — HIGH\n**Source 2:** WSOC TV / Action News Jax — \"Safety Recall: 124,560 Light-Up Toys by ZMC Group\" — HIGH (national coverage)\n**Source 3:** ConsumerAffairs.com — \"Consumer product safety recall roundup: May 8, 2026\" — HIGH\n**Verified facts:**\n- 124,560 units recalled — HIGH (CPSC + multiple news sources)\n- Products: yo-yos, maracas, Halloween wands, light-up sticks — HIGH (CPSC)\n- Hazard: button cell batteries easily accessible, ingestion risk (severe internal burns, potentially fatal) — HIGH (CPSC)\n- Sold at discount stores May 2023 through April 2026 — HIGH (CPSC)\n- Price: approximately $1 — HIGH (CPSC)\n- No injuries reported as of recall date — HIGH (CPSC)\n- Recall announced May 7, 2026 — HIGH (CPSC)\n- Contact: 888-407-3225 M-F 9:30 AM-5:30 PM PT — HIGH (CPSC)\n- Email: recallzmctoy@gmail.com — HIGH (CPSC)\n- To get refund: destroy toy, email photo to recallzmctoy@gmail.com — HIGH (CPSC)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "AAP Updates Screen Time Guidance — Quality Over Limits in 2026",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "AAP updated screen time guidance in 2026. The \"2 hours max\" rule for older kids is gone. New focus: quality content, co-viewing, no screens at meals or bedrooms. Under-18-month and under-5 limits still apply. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM MT"
+      },
+      "article": {
+        "filename": "article-04-aap-screen-time-2026-update.html",
+        "headline": "The AAP Just Changed Screen Time Guidelines — Here's What COS Families Need to Know",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Screen Time Update\n\n**Image Concept 4A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** A cozy family living room scene: a tablet resting on a coffee table, surrounded by soft furnishings in teal, coral, and warm beige. Natural light from a window. No faces or people. No text. Clean and inviting. Leave bottom third open and uncluttered for text overlay.\n- **Mood:** Warm, balanced, modern home life\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** A kitchen table with a bowl of fruit, a glass of juice, and a smartphone face-down — suggesting mindful mealtime. Soft morning light. Warm color palette of cream, teal, and gold. No people, no text, no logos. Landscape with clear right-side space.\n- **Mood:** Balanced, intentional, family-focused\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP Screen Time 2026\n**Source 1:** EdSurge — \"New AAP Screen Time Recommendations Focus Less on Screens, More on Family Time\" (2026-02-05) — HIGH\n**Source 2:** CHOC Children's Health — \"Updated AAP recommendations for screen time\" — HIGH\n**Verified facts:**\n- AAP updated screen time guidelines published early 2026 — HIGH\n- No screens before 18 months (video chat exception) — HIGH (maintained from prior guidelines)\n- Ages 2-5: 1 hour/day high-quality content — HIGH (maintained)\n- Previous guideline for older kids: 2 hours max/day — HIGH\n- New approach: no hard limit for school-age kids; focus on quality, context, family habits — HIGH\n- Device-free bedrooms and mealtimes emphasized — HIGH\n- Co-viewing and talking about content recommended — HIGH\n- Screens shouldn't replace sleep, physical activity, family time, or free play — HIGH\n- Shift reflects screens are now ubiquitous in modern life — HIGH (AAP statement per EdSurge)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Downtown Farmers Market Opens Sunday — Season Starts at Acacia Park",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM MT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Downtown COS Farmers Market opens TOMORROW. Every Sunday at Acacia Park, 9 AM-2 PM, through October 25. Fresh local produce, baked goods, artisan items — free to attend. Great Sunday habit for COS families. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "5:00 PM MT",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM MT"
+      },
+      "article": {
+        "filename": "article-05-downtown-farmers-market-opens.html",
+        "headline": "Downtown Farmers Market Returns to Acacia Park Sunday — Free, Local, and Family-Friendly",
+        "word_count": 476
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Farmers Market Opens\n\n**Image Concept 5A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** A farmers market stall in bright morning sunlight: colorful vegetables and flowers arranged in wooden crates, white canvas tent canopy, dappled light. Colorado blue sky visible in background. No people, no text, no logos or brand names. Vibrant, saturated produce colors — red tomatoes, orange carrots, purple kale. Leave bottom third open.\n- **Mood:** Fresh, vibrant, community abundance\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Prompt:** Wide shot of an outdoor market at a downtown park in morning light: rows of white vendor tents, green grass, trees, clear blue sky. Landscape orientation. Warm golden morning light. No people visible, no text, no logos. Clear left-side space for text overlay.\n- **Mood:** Open, inviting, community gathering"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Downtown Farmers Market May 10\n**Source 1:** visitcos.com — 2026 Spring Events listing — HIGH\n**Source 2:** Axios Colorado Springs — Spring events guide 2026 — MEDIUM (secondary confirmation)\n**Verified facts:**\n- Farmers Market at Acacia Park, Downtown Colorado Springs — HIGH\n- Starts May 10, 2026 (first Sunday of the season) — HIGH\n- Every Sunday, 9 AM to 2 PM — HIGH\n- Season runs through October 25 — HIGH\n- Free to attend — HIGH (implied; standard farmers market)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
