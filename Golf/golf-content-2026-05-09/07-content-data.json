@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-09",
+  "compiled_at": "2026-05-09T11:36:15.879603+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Truist Championship R2 — Sungjae Im Leads at 9-Under, McIlroy 4 Back",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Sungjae Im leads the Truist Championship at 9-under after 36 holes.\n\nRory McIlroy shot 67 to get within 4 shots.\nRickie Fowler's 63 (9 birdies!) puts him in the mix.\n\nRound 3 today at Quail Hollow. Wide open. #TruistChampionship",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TruistChampionship"
+          ],
+          "char_count": 228
+        },
+        {
+          "label": "Post 1-2",
+          "text": "McIlroy was 7 shots back after Round 1. Shot 67 in Round 2 to trim it to 4.\n\nIf ANYONE can charge up a leaderboard, it's Rory.\n\nSeeking his 5th Quail Hollow title. This weekend just got interesting. #TruistChampionship",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TruistChampionship"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-truist-championship-r2-sungjae-im-leads-mcilroy-in-hunt.html",
+        "headline": "Truist Championship R2 — Sungjae Im Surges to Lead, McIlroy Fires 67 to Get Back in It",
+        "word_count": 684
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Truist Championship R2 — Sungjae Im Leads\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Sungjae Im PGA Tour\n- **Canva overlay text:** \"TRUIST R2 LEADER — IM 9-UNDER | McLLROY 4 BACK\"\n- **Mood:** Championship tension, leaderboard energy\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Rory McIlroy PGA Tour\n- **Canva overlay text:** \"SUNGJAE IM LEADS TRUIST — MCILROY FIRES 67 TO GET IN THE HUNT\"\n- **Mood:** Saturday charge, in-contention drama\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Truist Championship R2 — Sungjae Im Leads at 9-Under\n**Sources consulted:** WBTV/NBC affiliate Charlotte, Golf Channel/GolfChannel.com, Heavy.com, CBS Sports\n**Verified Facts (HIGH confidence):**\n- Sungjae Im leads at 9-under 133 after 36 holes [HIGH — WBTV NBC Charlotte]\n- Rory McIlroy shot 4-under 67 in R2; now at 5-under, 4 shots back of Im [HIGH — WBTV NBC Charlotte]\n- Rickie Fowler shot 8-under 63 (day's low round; 9 birdies) in R2, T8 [HIGH — Heavy.com]\n- Matt McCarty led after R1 with 63 (-8) [HIGH — multiple sources from May 8 pipeline]\n- Round 3 on Saturday (today); Final Round on Sunday May 10 [HIGH — PGA Tour schedule]\n- Event at Quail Hollow Club, Charlotte, NC [HIGH]\n**MEDIUM confidence:**\n- Fowler's T8 position after R2 [MEDIUM — Heavy.com summary]\n**Story angle:** Im surged to the lead while McIlroy climbed back into contention after an inconsistent R1.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf Virginia — Herbert's Historic 36-Hole Dominance, 6-Shot Lead After R2",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lucas Herbert at LIV Golf Virginia:\nRound 1: 64 (-8)\nRound 2: 63 (-9, bogey-free)\nTotal: -17. 6-shot lead.\n\nHis Strokes Gained Total is a LIV Golf 36-hole RECORD. Final round today. #LIVGolf",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 190
+        },
+        {
+          "label": "Post 2-2",
+          "text": "While Rahm and DeChambeau are nowhere near the lead, a 30-year-old Australian named Lucas Herbert is about to claim his first LIV Golf win.\n\n-17 through 36 holes. 6-shot lead. Historic round-by-round consistency. #LIVGolf",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-liv-golf-virginia-herbert-17-under-historic-lead-r2.html",
+        "headline": "LIV Golf Virginia — Herbert's Historic 17-Under Lead Is One Round From History",
+        "word_count": 668
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Virginia — Herbert 17-Under, 6-Shot Lead\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Lucas Herbert LIV Golf\n- **Canva overlay text:** \"HERBERT 17-UNDER — 6-SHOT LEAD | LIV RECORD PERFORMANCE\"\n- **Mood:** Dominant, historic, standout\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** LIV Golf tournament\n- **Canva overlay text:** \"64-63 BOGEY-FREE — HERBERT ON VERGE OF FIRST LIV WIN\"\n- **Mood:** Record-setting, inspired\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Virginia — Herbert's Historic 36-Hole Lead\n**Sources consulted:** LIV Golf official site R1 and R2 recaps, Washington Times (two articles), Fox Sports, infinitysport.asia\n**Verified Facts (HIGH confidence):**\n- Herbert R1: 8-under 64, 2-shot lead [HIGH — LIV.com R1 recap + Washington Times May 7]\n- Herbert R2: 9-under 63, bogey-free [HIGH — Washington Times May 8 + LIV.com R2 recap]\n- Herbert leads at -17 through 36 holes [HIGH — multiple sources]\n- Herbert's lead: 6 shots [HIGH — Washington Times headline + LIV.com R2 recap]\n- Second place: Sergio Garcia [HIGH — LIV.com R2 recap]\n- Herbert's Strokes Gained Total: +7.82 per round = LIV Golf 36-hole record [HIGH — LIV.com R2 recap]\n- Largest 36-hole lead this season; tied for second-largest in LIV history [HIGH — LIV.com R2 recap]\n- Rahm and DeChambeau both at -3 after R1, struggling [HIGH — from previous research]\n- Event at Trump National Golf Club, Potomac Falls/Washington DC area [HIGH]\n- LIV Golf Virginia is a 3-round event; Final round R3 is today (Saturday May 9) [HIGH]\n**Story angle:** Herbert's historic 36-hole performance puts him on the verge of his first LIV Golf win.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PGA Championship Preview — Aronimink, May 14-17, Scheffler's Redemption Bid",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "One week until the PGA Championship.\n\nScottie Scheffler skipped the Truist Championship JUST to prepare for Aronimink.\n\nHe's had 3 straight runner-ups. He's hungry. Aronimink suits him perfectly. May 14-17. #PGAChampionship",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-03-pga-championship-preview-aronimink-scheffler-mcilroy.html",
+        "headline": "PGA Championship Preview — Scheffler's Bold Preparation, McIlroy's Momentum, and the Aronimink Test",
+        "word_count": 752
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGA Championship Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Scottie Scheffler PGA Tour\n- **Canva overlay text:** \"1 WEEK AWAY — PGA CHAMPIONSHIP | ARONIMINK MAY 14-17\"\n- **Mood:** Anticipation, major championship excitement\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Rory McIlroy PGA Tour\n- **Canva overlay text:** \"PGA CHAMPIONSHIP PREVIEW — SCHEFFLER, McLLROY, AND THE ARONIMINK TEST\"\n- **Mood:** Major championship prestige\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGA Championship Preview\n**Sources consulted:** Pipeline research from May 7-8; PGA Tour official; USGA data\n**Verified Facts (HIGH confidence):**\n- PGA Championship at Aronimink Golf Club, Newtown Square, PA, May 14-17 [HIGH]\n- 154-player field [HIGH — from May 8 pipeline]\n- Scheffler skipped Truist Championship to prepare for Aronimink [HIGH — multiple sources]\n- Scheffler world No. 1, ~+350 favorite [HIGH — from May 8 pipeline]\n- Three consecutive runner-ups: Masters (to McIlroy), RBC Heritage (playoff to Fitzpatrick), Cadillac Championship [HIGH]\n- McIlroy defending major champion (won Masters April 12) [HIGH]\n- Donald Ross design; last PGA Championship at Aronimink: 1962, Gary Player won [HIGH — from May 8 pipeline]\n- LIV stars confirmed: DeChambeau, Rahm, Dustin Johnson [HIGH — from May 8 pipeline]\n- Two spots still available for Myrtle Beach + Truist winners [HIGH — from May 8 pipeline]\n**Story angle:** With a week until tee-time, the major chess match is playing out — Scheffler prepping, McIlroy in-form at Truist, Rahm/DeChambeau using LIV Virginia as warm-up.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "McIlroy's Quail Hollow Record Quest — Five Under, Alive Heading Into Round 3",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Rory McIlroy wants a 5th Quail Hollow title — no one has ever won 5 at this course.\n\nHe was 7 shots back. Shot 67. Now 4 shots back heading into Round 3.\n\nThe record is still very much alive. #TruistChampionship",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TruistChampionship"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-mcilroy-quail-hollow-record-bid-67-back-in-contention.html",
+        "headline": "McIlroy's 67 Keeps Quail Hollow Record Bid Alive — Four Shots Back With Two Rounds to Play",
+        "word_count": 740
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy's Quail Hollow Record Quest\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Rory McIlroy PGA Tour\n- **Canva overlay text:** \"4 SHOTS BACK — McLLROY'S RECORD 5TH QUAIL HOLLOW TITLE STILL ALIVE\"\n- **Mood:** Comeback charge, record chase\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Rory McIlroy PGA Tour\n- **Canva overlay text:** \"MCILROY FIRES 67 IN R2 — CHASING HISTORIC 5TH QUAIL HOLLOW WIN\"\n- **Mood:** Historic pursuit, determination\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McIlroy's Quail Hollow Record Quest\n**Sources consulted:** Previous pipeline research; WBTV R2 update\n**Verified Facts (HIGH confidence):**\n- McIlroy's 4 Quail Hollow titles: 2010, 2015, 2021, 2024 [HIGH]\n- R1 at Truist: 70 (1-under) [HIGH — from May 8 pipeline]\n- R2 at Truist: 67 (4-under) [HIGH — WBTV NBC Charlotte]\n- Current total: 5-under [HIGH — WBTV NBC Charlotte]\n- 4 shots back of Im [HIGH — WBTV NBC Charlotte]\n- Scheffler skipped event [HIGH — multiple sources]\n**Story angle:** McIlroy's quiet comeback — from 1-under R1 to genuinely in contention at 5-under — sets up a weekend record chase.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Nelly Korda HOF Countdown — Four Points Away, Kroger Queen City Is Next",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nelly Korda needs 4 points to reach the LPGA Hall of Fame.\n\nShe has 18 career wins at 27 years old. The youngest American to get there since Nancy Lopez in 1980.\n\nNext event: Kroger Queen City, May 14-17. History is watching. #LPGA",
+          "posting_time": "8:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nelly-korda-lpga-hall-of-fame-four-points-away.html",
+        "headline": "Nelly Korda Is Four Points From the LPGA Hall of Fame — Kroger Queen City Is Next",
+        "word_count": 651
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nelly Korda HOF Countdown\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Nelly Korda LPGA\n- **Canva overlay text:** \"4 POINTS FROM LPGA HALL OF FAME — KORDA CLOSES IN ON HISTORY\"\n- **Mood:** Historic milestone, inspirational\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Nelly Korda LPGA\n- **Canva overlay text:** \"NELLY KORDA — 18 WINS. 27 YEARS OLD. 4 POINTS FROM THE LPGA HOF.\"\n- **Mood:** Legendary, milestone, celebratory\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nelly Korda HOF Countdown\n**Sources consulted:** LPGA.com official HOF countdown articles, Yahoo Sports, GolfChannel.com, JustWomensSports\n**Verified Facts (HIGH confidence):**\n- Korda at 23/27 LPGA HOF points [HIGH — LPGA.com official article]\n- 4 away from qualification [HIGH — LPGA.com headline]\n- Next event: Kroger Queen City Championship, Cincinnati, May 14-17 [HIGH — search result]\n- 18 career LPGA wins [HIGH — multiple sources]\n- Youngest American to 18 wins since Nancy Lopez in 1980 [HIGH — LPGA.com + multiple sources]\n**MEDIUM confidence:**\n- LPGA HOF point values: win = +2 pts, major win = +3 pts [MEDIUM — calculated from known HOF progression]\n**Story angle:** Four points to golf immortality — the Kroger Queen City is Korda's next shot at history.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
