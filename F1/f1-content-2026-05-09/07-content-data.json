@@ -1,0 +1,258 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-09",
+  "compiled_at": "2026-05-09T11:26:59.506940+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "F1 2027 Engine Direction Shift — All Stakeholders Agree to Boost ICE Power, Reduce ERS",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "BREAKING: F1 is shifting away from electric power in 2027.\n\nICE up ~50kW. ERS down ~50kW.\nAll 5 PU manufacturers agreed.\n\nLess super clipping. More racing. This is huge. #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 173
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The 2026 F1 regs require drivers to \"harvest energy\" more than \"race.\"\n\nIn 2027, that changes. Less ERS, more combustion — unanimously agreed by every team and manufacturer.\n\nReal racing is coming back. #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-f1-2027-engine-ice-ers-shift-all-stakeholders-agree.html",
+        "headline": "F1 2027 Engine Revolution — All Stakeholders Agree to Boost ICE Power and Reduce ERS",
+        "word_count": 649
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "F1 2027 Engine Direction Shift\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** FIA Formula 1 team principals\n- **Canva overlay text:** \"2027 F1: ICE UP 50kW | ERS DOWN 50kW — ALL STAKEHOLDERS AGREE\"\n- **Mood:** Decisive, industry-changing, authoritative\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Formula 1 power unit engine\n- **Canva overlay text:** \"F1 SHIFTS AWAY FROM ELECTRIC POWER IN 2027\"\n- **Mood:** Technical, landmark decision\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "F1 2027 Engine Direction Shift\n**Sources consulted:** FIA.com announcement, Formula1.com, Sky Sports, Motorsport.com, Yahoo Sports\n**Verified Facts (HIGH confidence):**\n- FIA, all team principals, FOM, and all 5 PU manufacturers agreed in principle to 2027 rule changes [HIGH — FIA official announcement]\n- ICE power will increase by approximately 50kW [HIGH — FIA official announcement]\n- ERS deployment power will reduce by approximately 50kW [HIGH — FIA official announcement]\n- Goal: reduce super clipping, lifting and coasting — making driving more natural [HIGH — FIA statement]\n- Current 2026 regulations have near 50:50 ICE/ERS split [HIGH — multiple sources]\n- 2027 changes shift to approximately 60:40 ICE/ERS [HIGH — Motorsport.com]\n- Still requires WMSC rubber stamp + technical group discussion [HIGH — FIA statement]\n**Story angle:** Unanimous consensus on walking back the electric power emphasis — a direct response to driver criticism of unnatural driving styles in 2026.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Honda Gets a Lifeline — ADUO Rule Change Gives Aston Martin's Engine Partner Critical R&D Boost",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Aston Martin just got a massive lifeline.\n\nFIA's ADUO rule gives Honda 40 extra R&D hours and an $11M cost cap reduction. That's the kind of help a last-place team needs.\n\nNow Newey just needs to get back trackside. #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-honda-aston-martin-aduo-lifeline-fia-rule-change.html",
+        "headline": "Honda Gets an FIA Lifeline — Can Aston Martin's ADUO Development Boost Change Their 2026?",
+        "word_count": 667
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Honda/Aston Martin ADUO Lifeline\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Adrian Newey Aston Martin\n- **Canva overlay text:** \"ASTON MARTIN GETS $19M LIFELINE — HONDA GRANTED R&D BOOST\"\n- **Mood:** Hopeful, turning point, determined\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Aston Martin Formula 1 car\n- **Canva overlay text:** \"ADUO RULE CHANGE: HONDA GETS 40 EXTRA R&D HOURS\"\n- **Mood:** Technical development, recovery\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Honda/Aston Martin ADUO Lifeline\n**Sources consulted:** GPFans.com, PlanetF1.com, Motorsport.com, MotorBiscuit, SundayGuardianLive\n**Verified Facts (HIGH confidence):**\n- FIA's ADUO system expanded with new tier: more than 10% behind best performer gets extra allocation [HIGH — multiple sources]\n- Honda granted 230 hours of test bench time (up from 190) [HIGH — GPFans, sundayguardianlive]\n- $11 million cost cap downward adjustment approved [HIGH — GPFans headline]\n- $8 million one-off bonus for inaugural 2026 season [HIGH — MotorBiscuit]\n- Aston Martin last in constructors' championship [HIGH — from championship data]\n- Newey hospitalized (illness reported as pneumonia); working from home [HIGH — multiple sources]\n- Aston Martin confirmed \"Adrian is working and was on campus last week\" [HIGH — Aston Martin statement]\n- Andy Cowell is team principal [HIGH — from previous research]\n**Story angle:** Honda's R&D lifeline could change Aston Martin's trajectory — but Newey needs to be trackside to implement what he's designing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Canadian GP Preview — Sprint Weekend Debut, Antonelli Eyes Fourth Straight Win",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "2 weeks until Canada. 🇨🇦\n\nCircuit Gilles Villeneuve. Sprint weekend. ~34 pts available.\nAntonelli leads by 49 over Norris.\n\nFirst sprint of 2026. McLaren and Mercedes both bringing upgrades. #F1 #CanadianGP",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The Canadian GP is a power-sensitive, low-drag circuit.\n\nMcLaren's setup should suit it perfectly. Mercedes is bringing a big aero package too.\n\nAntonelli has won every race this season. But can he win in Montreal? #F1 #CanadianGP",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-canada-gp-preview-sprint-weekend-antonelli-fourth-win.html",
+        "headline": "Canada GP Preview — Sprint Weekend Debut, Championship Stakes, and Antonelli's Shot at History",
+        "word_count": 690
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canadian GP Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Kimi Antonelli Mercedes Formula 1\n- **Canva overlay text:** \"CANADA GP — MAY 22-24 | SPRINT WEEKEND | 34 PTS AVAILABLE\"\n- **Mood:** Excitement, anticipation, race weekend energy\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Circuit Gilles Villeneuve Formula 1\n- **Canva overlay text:** \"CANADIAN GRAND PRIX 2026 — ANTONELLI EYES FOURTH STRAIGHT WIN\"\n- **Mood:** Race preview, championship intensity\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Canadian GP Preview\n**Sources consulted:** Formula1.com, GPFans, Motorsport.com, Montreal Grand Prix website\n**Verified Facts (HIGH confidence):**\n- Canadian Grand Prix: May 22-24, 2026 [HIGH — Formula1.com official timetable]\n- Circuit Gilles Villeneuve, Montreal [HIGH — official site]\n- First sprint weekend of the 2026 season [HIGH — multiple sources]\n- 70-lap race over 4.361-km circuit [HIGH — Formula1.com]\n- Race starts Sunday May 24 at 16:00 local time (ET) [HIGH — Formula1.com]\n- McLaren bringing upgrade package to Canada [HIGH — Sky Sports]\n- Mercedes targeting major aero upgrade for Canada [HIGH — Sky Sports]\n- Ferrari may delay next major package [HIGH — Sky Sports]\n**MEDIUM confidence:**\n- ~34 total pts available at sprint weekend (8 sprint + 26 race max) [MEDIUM — calculated from F1 scoring]\n**Story angle:** Canada's sprint format makes it the most points-dense single event of 2026 so far — maximum pressure on championship rivals to deliver.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Championship Math — Can Norris and Hamilton Close the Gap at Canada's Sprint Weekend?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Antonelli leads Norris by 49 points.\n\nCanada is a sprint weekend — 34 pts available in one weekend.\n\nIf Norris sweeps the sprint + race and Antonelli scores nothing, the gap goes from 49 to 15.\n\nCanada matters. A LOT. #F1",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-championship-math-norris-hamilton-canada-sprint.html",
+        "headline": "Championship Math — Why Canada's Sprint Weekend Is Norris and Hamilton's Best Chance to Make This a Title Fight",
+        "word_count": 713
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Math\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Lando Norris McLaren Formula 1\n- **Canva overlay text:** \"49 POINTS BEHIND — NORRIS NEEDS CANADA TO GO PERFECTLY\"\n- **Mood:** Urgent, championship stakes\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** McLaren Formula 1 team\n- **Canva overlay text:** \"CANADA SPRINT: CAN NORRIS CLOSE THE 49-PT GAP?\"\n- **Mood:** Analysis, championship math\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Math at Canada Sprint\n**Sources consulted:** Championship standings (after Miami); F1 calendar\n**Verified Facts (HIGH confidence):**\n- Antonelli: 100 pts; Russell: 80 pts; Leclerc: 59 pts; Norris: 51 pts; Hamilton: 51 pts; Verstappen: 26 pts [HIGH — multiple standings sources post-Miami]\n- Sprint maximum points: 8 (winner); Race maximum: 25 (winner) + 1 (fastest lap) [HIGH — F1 official rules]\n- McLaren's low-drag setup suits Circuit Gilles Villeneuve [HIGH — multiple technical sources]\n- Circuit Gilles Villeneuve is a low-drag, power-sensitive street circuit [HIGH — circuit characteristics]\n**Story angle:** The sprint format gives Norris and Hamilton double the chances to compress the championship — if Antonelli has any off weekend, the title picture changes quickly.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Verstappen's Summer Deadline — Exit Clause Window Narrows After Miami",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Max Verstappen is 74 points behind Antonelli, sitting 7th in the championship.\n\nHis reported exit clause requires a top-3 position at summer break.\n\nCanada's sprint format gives him a chance to score extra points — but he needs podiums, not just points. #F1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-verstappen-exit-clause-summer-deadline-canada.html",
+        "headline": "Verstappen's Exit Clause — The Summer Deadline Is Approaching and the Numbers Don't Lie",
+        "word_count": 725
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Max Verstappen Red Bull Racing\n- **Canva overlay text:** \"74 POINTS BACK — VERSTAPPEN'S SUMMER DEADLINE LOOMS\"\n- **Mood:** Tension, urgency, pressure\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Max Verstappen Red Bull Racing\n- **Canva overlay text:** \"THE EXIT CLAUSE CLOCK IS TICKING FOR VERSTAPPEN\"\n- **Mood:** Dramatic, countdown, uncertainty\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Summer Exit Clause\n**Sources consulted:** Previous pipeline research (highly confirmed); GPFans; motorsport.com\n**Verified Facts (HIGH confidence):**\n- Verstappen 7th in championship, 26 pts, 74 behind Antonelli after 4 races [HIGH]\n- Red Bull Miami upgrade halved weight deficit (~30kg to ~15kg over 768kg minimum) [HIGH — multiple sources including McLaren's Stella commenting on it]\n- Exit clause widely reported: must be top-3 at summer break [MEDIUM — widely reported, not officially confirmed by Red Bull]\n- Full weight/chassis solution expected for summer 2026 [HIGH — reported by multiple technical sources]\n**Story angle:** Verstappen needs podiums in Canada's sprint format to realistically close the 74-point gap before the summer deadline.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -1401,3 +1401,42 @@
 - **Category:** Championship / Race Preview
 - **Key facts:** McLaren's Miami upgrade (new floor/bodywork/rear wing/brake ducts) suits Canada's low-drag Circuit Gilles Villeneuve. Norris P2 Miami. 51 pts, 49 behind Antonelli. Canada May 22-24, sprint format, first sprint of 2026, ~34 pts available. McLaren 94 constructors pts, ~86 behind Mercedes.
 - **Status:** FOLLOW UP (from 2026-05-06)
+
+---
+
+## 2026-05-09
+
+### STORY 1: F1 2027 Engine Direction Shift — All Stakeholders Agree to Boost ICE Power, Reduce ERS
+- **Tier:** 1
+- **Category:** Regulatory / Technical News
+- **Key facts:** FIA, team principals, FOM, and all 5 PU manufacturers agreed in principle to 2027 changes. ICE +~50kW. ERS -~50kW. Shifts 50:50 split to ~60:40 ICE/ERS. Reduces super clipping and lifting/coasting — more natural driving. Still needs WMSC rubber stamp and technical group discussion.
+- **Status:** NEW STORY
+- **Follow-up ideas:** WMSC vote; driver reaction; final package details
+
+### STORY 2: Honda Gets a Lifeline — ADUO Rule Change Gives Aston Martin's Engine Partner Critical R&D Boost
+- **Tier:** 1
+- **Category:** Technical / Team News
+- **Key facts:** FIA ADUO system expanded for manufacturers >10% behind best performer. Honda gets 230 hours bench time (up from 190). $11M cost cap reduction + $8M one-off bonus ($19M total). Aston Martin last in constructors. Newey hospitalized, working from home; confirmed "on campus last week."
+- **Status:** FOLLOW UP (from 2026-05-08)
+- **Follow-up ideas:** Aston Martin trackside performance; Honda engine progress; Newey return
+
+### STORY 3: Canadian GP Preview — Sprint Weekend Debut, Antonelli Eyes Fourth Straight Win
+- **Tier:** 1
+- **Category:** Race Preview / Championship
+- **Key facts:** Canadian GP May 22-24, Circuit Gilles Villeneuve, Montreal. First sprint of 2026. ~34 total pts. Antonelli 100 pts leads; Russell 80; Leclerc 59; Norris 51; Hamilton 51. McLaren bringing upgrades; Mercedes targeting major aero package. Ferrari may wait.
+- **Status:** FOLLOW UP (from 2026-05-07)
+- **Follow-up ideas:** Canada qualifying; sprint result; race result
+
+### STORY 4: Championship Math — Can Norris and Hamilton Close the Gap at Canada's Sprint Weekend?
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Norris/Hamilton both 49 behind Antonelli. Sprint = 8 extra pts. Perfect sprint+race weekend = 33 pts vs. 19 if Antonelli goes P2 both = gap compresses from 49 to 35. McLaren's low-drag suits Montreal. Mercedes bringing major upgrade.
+- **Status:** FOLLOW UP (from 2026-05-07)
+- **Follow-up ideas:** Canada result; updated standings
+
+### STORY 5: Verstappen's Summer Exit Clause — Clock Is Ticking After Miami
+- **Tier:** 2
+- **Category:** Driver / Team News
+- **Key facts:** Verstappen 7th/26 pts/74 behind Antonelli. Exit clause reported: top-3 at summer break. Red Bull halved weight deficit at Miami (~30kg to ~15kg over 768kg min). Full fix targeted for summer. Canada sprint = extra pts opportunity.
+- **Status:** FOLLOW UP (from 2026-05-07)
+- **Follow-up ideas:** Canada performance; summer chassis update; exit clause activation
