@@ -1577,3 +1577,42 @@
 - **Category:** Preview / Game Day
 - **Key facts:** Knicks at 76ers G3 7PM ET Prime Video (NYK leads 2-0). Embiid QUESTIONABLE (ankle + hip). OG Anunoby questionable. Josh Hart questionable. Spurs at Wolves G3 9:30PM ET Prime Video (tied 1-1).
 - **Status:** NEW STORY
+
+---
+
+## 2026-05-09
+
+### STORY 1: Knicks 108-94 76ers Game 3 — Brunson 33, Bridges 23 Power New York to 3-0 Series Lead
+- **Tier:** 1
+- **Category:** Playoff Results / Series Dominance
+- **Key facts:** New York Knicks 108, Philadelphia 76ers 94 (Game 3, May 8 in Philadelphia). Knicks lead 3-0. Brunson 33 pts/9 ast. Bridges 23 pts (8-14 FG). Shamet 15 pts off bench (+20). KAT 8/12/7. Hart 12/11. Embiid returned: 18 pts/35 min. OG Anunoby out (hamstring strain). Knicks one win from first playoff sweep since 1999. Game 4: May 10, 3:30 PM ET, ABC.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Knicks sweep bid Game 4 May 10; Embiid injury future; OG Anunoby hamstring
+
+### STORY 2: Wembanyama Historic 39/15/5 — Spurs 115-108 Timberwolves Game 3, Spurs Lead 2-1
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Individual Performance
+- **Key facts:** Spurs 115, Timberwolves 108 (Game 3, May 8). Spurs lead 2-1. Wembanyama: 39 pts (13-18 FG), 15 reb, 5 blk (18 pts in 4th quarter). Castle: 13 pts/12 ast. Edwards: 32 pts/14 reb/6 ast for MIN. Wemby 4th player in NBA playoff history with 35+pts/15+reb/5+blk in single game (joins Kareem, Hakeem, Shaq).
+- **Status:** FOLLOW UP (from 2026-05-08)
+- **Follow-up ideas:** Game 4 in San Antonio; Wemby GOAT conversation; Edwards response
+
+### STORY 3: Sixers at the Brink — Embiid Returns but Philadelphia Faces Historic Sweep
+- **Tier:** 1
+- **Category:** Series Analysis / Elimination Threat
+- **Key facts:** 76ers trail Knicks 0-3. No team in NBA history has come back from 0-3 to win. Embiid returned: 18 pts in 35 min. OG Anunoby missed with hamstring. Game 4: May 10, 3:30 PM ET, ABC.
+- **Status:** FOLLOW UP (from 2026-05-08)
+- **Follow-up ideas:** 76ers offseason; Embiid future; Game 4 result
+
+### STORY 4: Pistons-Cavaliers Game 3 Preview — Cleveland's Must-Win Moment
+- **Tier:** 2
+- **Category:** Game Preview
+- **Key facts:** Pistons lead 2-0. Game 3: May 9, 3:00 PM ET, NBC, Rocket Mortgage FieldHouse. Cade 23/7 G1, 25/10 G2 (12 in Q4, 8-8 FT). Harris 21 G2. Mitchell 31 G2. Allen 22 G2. Cavs 0-11 3P in Q4 G2.
+- **Status:** FOLLOW UP (from 2026-05-08)
+- **Follow-up ideas:** Game 3 result tonight
+
+### STORY 5: Thunder-Lakers Game 3 Preview — Los Angeles Fights for Survival Tonight
+- **Tier:** 2
+- **Category:** Game Preview / Survival Game
+- **Key facts:** Thunder lead 2-0. Game 3: May 9, 8:30 PM ET, ABC, Crypto.com Arena. SGA 18 G1/22 G2. Holmgren 24/12/3 G1, 22/9/4stl G2. LeBron 27 G1, 23 G2. Reaves 31 G2 (10-16 FG). Luka Doncic still no contact clearance.
+- **Status:** FOLLOW UP (from 2026-05-08)
+- **Follow-up ideas:** Game 3 result tonight

@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-09",
+  "compiled_at": "2026-05-09T11:17:53.246544+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks 108-94 76ers Game 3 — Brunson 33, Bridges 23 Push New York to 3-0 Series Lead",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jalen Brunson: 33 pts, 9 ast.\nMikal Bridges: 23 pts.\nOG Anunoby: didn't play.\n\nKnicks still won by 14. 3-0 series lead. Sweep incoming. #NewYorkForever",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever"
+          ],
+          "char_count": 151
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Embiid came back. Scored 18 in 35 minutes.\n\nIt didn't matter. The Knicks are one win from their first playoff sweep since 1999.\n\nGame 4: Monday 3:30 PM ET on ABC. #NewYorkForever",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-knicks-76ers-game-3-brunson-33-3-0-series-lead.html",
+        "headline": "Knicks 108-94 76ers Game 3 — Brunson 33, Bridges 23 Put New York One Win From Sweep",
+        "word_count": 677
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks 108-94 76ers Game 3 — Brunson 33, Bridges 23\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Jalen Brunson New York Knicks\n- **Canva overlay text:** \"33 PTS | 9 AST — BRUNSON TAKES OVER PHILLY\"\n- **Mood:** Triumphant, celebratory, energetic\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Mikal Bridges New York Knicks\n- **Canva overlay text:** \"KNICKS LEAD 3-0 — ONE WIN FROM THE SWEEP\"\n- **Mood:** Confident, dominant, playoff intensity\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks 108-94 76ers Game 3 — Brunson 33, Bridges 23\n**Sources consulted:** NBC Sports, ClutchPoints, Yahoo Sports, NBA.com takeaways\n**Verified Facts (HIGH confidence):**\n- Final score: Knicks 108, 76ers 94 (Game 3, May 8, 2026, Philadelphia)\n- Knicks lead series 3-0\n- Jalen Brunson: 33 pts, 9 ast [HIGH — NBC Sports headline]\n- Mikal Bridges: 23 pts, 8-14 FG [HIGH — multiple sources]\n- Landry Shamet: 15 pts in 26 min off bench, +20 [HIGH — multiple sources]\n- Karl-Anthony Towns: 8 pts, 12 reb, 7 ast [HIGH — multiple sources]\n- Josh Hart: 12 pts, 11 reb [HIGH — multiple sources]\n- Joel Embiid returned (missed G2): 18 pts in 35 min [HIGH — multiple sources]\n- OG Anunoby missed game with hamstring strain [HIGH — multiple sources]\n- Game 4: May 10, 3:30 PM ET, ABC [HIGH — ClutchPoints/CBS Sports]\n**Verified Facts (MEDIUM confidence):**\n- Knicks one win from first best-of-seven sweep since 1999 [MEDIUM — NBC Sports]\n- Knicks have won 6 straight postseason games [MEDIUM — implied from series record]\n**Story angle:** Brunson-Bridges one-two punch too much for even a returning Embiid; OG's absence tested the depth and they passed.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Wembanyama Historic 39/15/5 — Spurs 115-108 Timberwolves Game 3, Lead Series 2-1",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Victor Wembanyama last night:\n39 pts (13-18 FG)\n15 rebounds\n5 blocks\n18 pts in the 4th quarter alone.\n\nHe joins Kareem, Hakeem, and Shaq in NBA playoff history. #GoSpursGo",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo"
+          ],
+          "char_count": 171
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Anthony Edwards had 32 pts, 14 reb, 6 ast last night.\n\nWembanyama still outplayed him and the Spurs won.\n\nWe are witnessing something extraordinary. Spurs lead 2-1. #GoSpursGo",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo"
+          ],
+          "char_count": 175
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-wembanyama-39-15-5-spurs-115-108-wolves-game-3.html",
+        "headline": "Wembanyama's Historic 39/15/5 Night Lifts Spurs Past Timberwolves 115-108 in Game 3",
+        "word_count": 684
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama Historic 39/15/5 — Spurs 115-108 Timberwolves Game 3\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Victor Wembanyama San Antonio Spurs\n- **Canva overlay text:** \"39 PTS | 15 REB | 5 BLK — WEMBY MAKES HISTORY\"\n- **Mood:** Awe-inspiring, historic, electrifying\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Victor Wembanyama San Antonio Spurs\n- **Canva overlay text:** \"HE JOINS KAREEM, HAKEEM & SHAQ — WEMBY'S HISTORIC NIGHT\"\n- **Mood:** Legendary, powerful, iconic\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama Historic 39/15/5 — Spurs 115-108 Timberwolves Game 3\n**Sources consulted:** Washington Post (2 articles), Yahoo Sports, Pro Football Network, KSAT.com, StartTribune live blog\n**Verified Facts (HIGH confidence):**\n- Final score: Spurs 115, Timberwolves 108 (Game 3, May 8, 2026, Minnesota)\n- Spurs lead series 2-1\n- Victor Wembanyama: 39 pts (13-18 FG), 15 reb, 5 blk [HIGH — multiple major sources]\n- Wemby scored 18 of his 39 pts in 4th quarter [HIGH — multiple sources]\n- Anthony Edwards: 32 pts, 14 reb, 6 ast [HIGH — multiple sources]\n- Stephon Castle: 13 pts, 12 ast [HIGH — multiple sources]\n- Wemby is 4th player in NBA playoff history with 35+pts/15+reb/5+blk in single game [HIGH — WaPo, KSAT]\n- The three others: Shaquille O'Neal, Hakeem Olajuwon, Kareem Abdul-Jabbar [HIGH — WaPo headline]\n**Story angle:** Wemby's fourth-quarter takeover and historical stat line joins the all-time greats in NBA playoff lore.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Sixers at the Brink — Embiid Returns but Philadelphia Faces Historic Sweep",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "No team in NBA history has ever come back from 0-3 to win a series.\n\nThe 76ers are 0-3.\n\nEmbiid came back. Still lost. Philadelphia's season is hanging by a thread. #Sixers",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sixers"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-sixers-0-3-embiid-returns-sweep-looms.html",
+        "headline": "Embiid Returns, 76ers Still Fall — Philadelphia Down 0-3 and Facing the Impossible",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sixers at the Brink — Embiid Returns but Sweep Looms\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Joel Embiid Philadelphia 76ers\n- **Canva overlay text:** \"EMBIID BACK. SIXERS STILL DOWN 0-3. SWEEP ON MONDAY.\"\n- **Mood:** Somber, tense, uncertain\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Philadelphia 76ers bench\n- **Canva overlay text:** \"NO TEAM HAS EVER COME BACK FROM 0-3\"\n- **Mood:** Dramatic, serious, playoff stakes\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sixers at the Brink — Embiid Returns, Faces Sweep\n**Sources consulted:** NBC Sports, NBA.com, ClutchPoints\n**Verified Facts (HIGH confidence):**\n- 76ers trail series 0-3\n- No NBA team has ever come back from 0-3 deficit to win a series [HIGH — historical record]\n- Embiid returned after missing G2: 18 pts in 35 min [HIGH — from Story 1 research]\n- OG Anunoby missed G3 with hamstring strain [HIGH]\n- Game 4: May 10, 3:30 PM ET, ABC, in Philadelphia [HIGH]\n**MEDIUM confidence:**\n- Knicks seeking first playoff sweep since 1999 [MEDIUM — NBC Sports]\n**Story angle:** Philadelphia's season-ending loss is near-certain; how did it come to this when Embiid is back?",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Pistons-Cavaliers Game 3 Preview — Cleveland's Must-Win Moment",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "9:00 AM ET (today)",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Game 3 TODAY: Pistons at Cavaliers — 3:00 PM ET on NBC.\n\nCade Cunningham is playing the best basketball of his life. Detroit leads 2-0.\n\nCan Cleveland's crowd wake up Mitchell and company? #CavsNation",
+          "posting_time": "9:00 AM ET (today)",
+          "tweet_type": "",
+          "hashtags": [
+            "#CavsNation"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET (today)"
+      },
+      "article": {
+        "filename": "article-04-pistons-cavaliers-game-3-preview-cleveland-must-win.html",
+        "headline": "Pistons-Cavaliers Game 3 Preview — Cleveland Needs a Win Before Cade Cunningham Takes Over the Series",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pistons-Cavaliers Game 3 Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** Cade Cunningham Detroit Pistons\n- **Canva overlay text:** \"GAME 3 TODAY — DET vs. CLE | 3 PM ET on NBC\"\n- **Mood:** Intense, game-day energy\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Donovan Mitchell Cleveland Cavaliers\n- **Canva overlay text:** \"PISTONS LEAD 2-0 — CAVALIERS FIGHT FOR THEIR SEASON\"\n- **Mood:** Desperate, playoff urgency\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pistons-Cavaliers Game 3 Preview\n**Sources consulted:** NBA.com takeaways, Yahoo Sports, Lineups.com preview\n**Verified Facts (HIGH confidence):**\n- Pistons lead series 2-0\n- Game 3: May 9, 3:00 PM ET, NBC, at Rocket Mortgage FieldHouse [HIGH]\n- Cade Cunningham: 23 pts/7 ast in G1; 25 pts/10 ast in G2 (12 pts in Q4, 8-8 FT) [HIGH]\n- Tobias Harris: 21 pts in G2 [HIGH]\n- Donovan Mitchell: 31 pts in G2 [HIGH]\n- Jarrett Allen: 22 pts in G2 [HIGH]\n- Cavaliers 0-11 from three in 4th quarter of G2 [HIGH]\n**Story angle:** Cleveland's veteran core faces a must-win at home or near-elimination; can Mitchell break out?",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Thunder-Lakers Game 3 Preview — Los Angeles Fights for Survival Tonight",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "TONIGHT: Lakers vs. Thunder — Game 3.\n8:30 PM ET on ABC. Los Angeles. 0-2 series.\n\nLeBron needs a statement game. Reaves had 31 last time and it wasn't close.\n\nCan the Lakers save their season? #LakeShow",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-thunder-lakers-game-3-preview-los-angeles-survival.html",
+        "headline": "Thunder-Lakers Game 3 Preview — Can Los Angeles Survive an OKC Team Playing Its Best Basketball?",
+        "word_count": 777
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thunder-Lakers Game 3 Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Search terms:** LeBron James Los Angeles Lakers\n- **Canva overlay text:** \"GAME 3 TONIGHT — OKC vs. LAL | 8:30 PM ET on ABC\"\n- **Mood:** Urgent, survival mode, must-win\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Search terms:** Shai Gilgeous-Alexander Oklahoma City Thunder\n- **Canva overlay text:** \"THUNDER DOMINATING 2-0 — CAN LAKERS RESPOND AT HOME?\"\n- **Mood:** Dominant, playoff intensity\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thunder-Lakers Game 3 Preview\n**Sources consulted:** NBA.com, Yardbarker, ESPN\n**Verified Facts (HIGH confidence):**\n- Thunder lead series 2-0\n- Game 3: May 9, 8:30 PM ET, ABC, at Crypto.com Arena (Los Angeles) [HIGH]\n- SGA: 18 pts G1, 22 pts G2 [HIGH]\n- Holmgren: 24/12/3 G1; 22 pts/9 reb/4 stl/2 blk G2 [HIGH]\n- LeBron James: 27 pts G1 (12-17 FG), 23 pts G2 [HIGH]\n- Austin Reaves: 31 pts G2 (10-16 FG) [HIGH]\n- OKC won G1 108-90, G2 125-107 [HIGH]\n- Luka Doncic still not cleared for contact work [HIGH]\n**MEDIUM confidence:**\n- Lakers have lost both games by 18 points [MEDIUM — calculated from scores: G1 margin=18, G2 margin=18]\n**Story angle:** Lakers must show life in front of home crowd; OKC can close out series with a road win tonight.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

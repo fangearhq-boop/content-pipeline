@@ -1,8 +1,19 @@
 ## Last Run
-- **Date**: 2026-05-08
+- **Date**: 2026-05-09
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-09
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-05-09.xlsx (7 posts) + hh-postplanner-tobi-2026-05-09.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-09/review-dashboard.html (22 items)
+- **Notes:** Knicks 108-94 76ers G3 (May 8) — Brunson 33/9ast, Bridges 23, Shamet 15 off bench (+20), KAT 8/12/7, Hart 12/11; Embiid returned 18 pts; OG out (hamstring); NYK leads 3-0, one win from sweep since 1999, G4 May 10 3:30PM ET ABC. Spurs 115-108 Wolves G3 (May 8) — Wemby 39/15/5blk (13-18FG, 18pts in Q4), Castle 13/12ast, Edwards 32/14/6; Wemby 4th player ever in playoff history with 35+pts/15+reb/5+blk (joins Kareem, Hakeem, Shaq); Spurs lead 2-1. Pistons-Cavs G3 TODAY 3PM ET NBC (DET leads 2-0; Cade 25/10 in G2). Thunder-Lakers G3 TONIGHT 8:30PM ET ABC (OKC leads 2-0; LeBron/Reaves fighting).
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-08
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
