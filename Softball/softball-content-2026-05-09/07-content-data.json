@@ -1,0 +1,306 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-09",
+  "compiled_at": "2026-05-09T10:17:56.479958+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Nebraska Claims Big Ten Championship — Huskers Win Streak Reaches 21",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Nebraska is your 2026 Big Ten Softball Champion! The Huskers beat UCLA to claim the title, extending their win streak to 21 games — the longest active in D-I. Alexis Jensen has been nearly untouchable all week. What a season. #Huskers #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#CollegeSoftball"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Nebraska wins the Big Ten and now has one of the strongest national seed resumes in the country. 21-game win streak. Conference champion. No. 1 contender with OU out of the picture. Selection Show Sunday, 7 PM ET on ESPN2. #Huskers #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#CollegeSoftball"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-nebraska-wins-big-ten-championship.html",
+        "headline": "Nebraska Claims 2026 Big Ten Softball Championship, Win Streak Reaches 21",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska Claims Big Ten Championship\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Alexis Jensen Nebraska`\n- **Caption overlay:** \"BIG TEN CHAMPIONS / Nebraska / 21-Game Win Streak\"\n- **Usage:** X + Facebook\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Nebraska softball team celebration`\n- **Caption overlay:** \"HUSKERS WIN THE BIG TEN / 2026 Conference Champions\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Alabama Run-Rules Florida 9-1 — Tide in SEC Championship vs. Texas Today",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Alabama RUN-RULED Florida 9-1 in just 5 innings in the SEC semis. Vic Moten: 5 IP, 4 K, 19th win. Ambrey Taylor went deep. Now 49-6, the Tide face Texas in the SEC Championship TODAY. #RollTide #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#CollegeSoftball"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-alabama-run-rules-florida-sec-championship.html",
+        "headline": "Alabama Run-Rules Florida 9-1, Reaches SEC Championship vs. Texas",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Run-Rules Florida — SEC Championship vs. Texas\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Vic Moten Alabama`\n- **Caption overlay:** \"SEC CHAMPIONSHIP BOUND / Alabama Softball / 49-6\"\n- **Usage:** X + Facebook\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Alabama softball pitcher`\n- **Caption overlay:** \"TIDE ROLL — 9-1 RUN RULE OVER FLORIDA / SEC Final Today\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Texas Tech 14-0 Over Kansas — Red Raiders in Big 12 Championship",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Texas Tech SCORCHED Kansas 14-0 in the Big 12 softball semis. That is dominance. The Red Raiders are in the Big 12 Championship today. One more win to add a conference title. #WreckEm #CollegeSoftball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-texas-tech-14-0-kansas-big-12-championship.html",
+        "headline": "Texas Tech Blasts Kansas 14-0, Advances to Big 12 Softball Championship",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech 14-0 Over Kansas — Big 12 Championship\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `NiJaree Canady Texas Tech`\n- **Caption overlay:** \"14-0 / Texas Tech in the Big 12 Final\"\n- **Usage:** X + Facebook\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Texas Tech softball`\n- **Caption overlay:** \"RED RAIDERS ROLL / 14-0 vs. Kansas / Big 12 Championship\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "FSU vs. Virginia Tech — ACC Championship Today After Hokies Stun Duke",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Virginia Tech stunned No. 2 seed Duke 5-0 in the ACC semis. Now the Hokies face No. 1 Florida State in the ACC Championship today at 2:30 PM ET on ESPN. The upset story of tournament week meets the conference's best team. #Hokies #CollegeSoftball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Hokies",
+            "#CollegeSoftball"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-fsu-virginia-tech-acc-championship.html",
+        "headline": "Virginia Tech Stuns Duke, Sets Up ACC Championship Clash With FSU",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU vs. Virginia Tech — ACC Championship\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Florida State softball pitcher`\n- **Caption overlay:** \"ACC CHAMPIONSHIP / FSU vs. Virginia Tech / Today 2:30 PM ET\"\n- **Usage:** X + Facebook\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Virginia Tech softball`\n- **Caption overlay:** \"HOKIES STUN DUKE / ACC Final vs. FSU\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Selection Show Sunday — National Seed Race Wide Open Heading Into Championship Saturday",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Selection Show is TOMORROW — Sunday, 7 PM ET on ESPN2. Nebraska is Big Ten champion on a 21-game win streak. Alabama or Texas will be SEC champion. Texas Tech is in the Big 12 final. The No. 1 national seed race is wide open. #CollegeSoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-selection-show-national-seed-preview.html",
+        "headline": "Selection Show Sunday: The National Seed Race Is Wide Open — Here's What to Watch",
+        "word_count": 681
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Selection Show Sunday Preview\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `NCAA softball WCWS tournament`\n- **Caption overlay:** \"SELECTION SHOW / Sunday 7 PM ET ESPN2 / Who Gets No. 1?\"\n- **Usage:** X + Facebook\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Championship Saturday — All Four Conference Finals Today",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Championship Saturday in softball: Big Ten, SEC, Big 12, and ACC titles all on the line today. Four champions. Four automatic bids. One Selection Show tomorrow night. This is the best day in softball before the bracket drops. #CollegeSoftball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Saturday Overview (Social Only — Tier 3)\n\n**Image Concept 6A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `college softball championship celebration`\n- **Caption overlay:** \"CHAMPIONSHIP SATURDAY / Four Titles Today / Selection Show Tomorrow\"\n- **Usage:** Facebook"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

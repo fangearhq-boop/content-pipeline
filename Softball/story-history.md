@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 9, 2026
+
+### Story 1: Nebraska Claims Big Ten Championship — Win Streak Reaches 21
+- **Angle:** NEW STORY. Nebraska defeated UCLA to win the 2026 Big Ten Softball Tournament championship at College Park, MD. Win streak reaches 21 games — longest active in D-I. Alexis Jensen (22-2) threw a complete-game shutout vs Indiana (12 K) in the semis; game vs UCLA moved to 1 PM ET due to weather. Nebraska is a top national seed contender for Sunday's Selection Show.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Nebraska national seed assignment at Selection Show; regional host draw; WCWS run
+
+### Story 2: Alabama Run-Rules Florida 9-1 — SEC Championship vs. Texas
+- **Angle:** FOLLOW UP. Alabama beat Florida 9-1 (run rule, 5 innings) in SEC semis on May 8. Pitcher Vic Moten: 5 IP, 4 K, 19th win. Ambrey Taylor HR. Alabama 49-6, faces Texas (beat Georgia 5-4 in semis) in SEC Championship today. First SEC final for Tide since 2021.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** SEC championship result; Alabama national seed case; Selection Show
+
+### Story 3: Texas Tech 14-0 Over Kansas — Red Raiders in Big 12 Championship
+- **Angle:** FOLLOW UP. Texas Tech blasted Kansas 14-0 in Big 12 semis at Devon Park OKC. Red Raiders in Big 12 championship today (vs. Oklahoma State per bracket). Record north of 52 wins. Big 12 final 11 AM CT.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Big 12 championship result; TTU national seed assignment; Selection Show
+
+### Story 4: FSU vs. Virginia Tech — ACC Championship Today After Hokies Stun Duke
+- **Angle:** FOLLOW UP. Virginia Tech (No. 3 seed) upset No. 2 Duke 5-0 in ACC semis. Florida State (No. 1 seed) also advanced. ACC Championship: FSU vs. VT, May 9, 2:30 PM ET on ESPN at Palmer Park, Charlottesville VA.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** ACC championship result; FSU or VT national seed implications; Selection Show
+
+### Story 5: Selection Show Sunday — National Seed Race Wide Open
+- **Angle:** FOLLOW UP. Selection Show: Sunday May 10, 7 PM ET on ESPN2. 64-team field. 16 national seeds host regionals May 15-18. With OU eliminated, frontrunners: Nebraska (Big Ten champ, 21-game streak), SEC champion (Alabama or Texas), Texas Tech, FSU. Super Regionals May 22-24, WCWS May 28-June 3 at Devon Park OKC.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Selection Show bracket reveal; regional host assignments; national seed seedings
+
+### Story 6: Championship Saturday — All Four Conference Finals Today
+- **Angle:** FOLLOW UP. Championship Saturday overview: Big Ten (Nebraska won), SEC (Alabama vs. Texas), Big 12 (Texas Tech in final), ACC (FSU vs. VT). Social-only Tier 3.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** All championship results; Selection Show implications
+
+---
+
 ## May 8, 2026
 
 ### Story 1: Georgia 10, Oklahoma 5 — Sooners Eliminated in SEC Tournament Shock
