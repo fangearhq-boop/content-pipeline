@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-09
+
+### Story 1: Aaron Judge — First to 15 HR, Chasing Career 400 Milestone
+- **Angle:** FOLLOW UP. Judge leads MLB with 15 HR (first to reach 15 in 2026), on pace for 64. Approaching 400 career HRs — would be only 4th Yankee to do so (Ruth 659, Mantle 536, Gehrig 493). Yankees 26-12. HR race vs Murakami (14 HR).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Judge career 400 HR watch; HR race Judge vs Murakami; Yankees AL East
+
+### Story 2: Cubs Historic Second 10-Game Win Streak — 26-12, First Since 1955 Dodgers
+- **Angle:** FOLLOW UP. Cubs completed 2nd 10-game win streak of 2026 season, first team since 1955 Brooklyn Dodgers to do so through 40 games. Now 26-12, 15-game Wrigley home win streak, won 20 of 23. First Chicago team since 1935 to have 2 separate win streaks of 9+ in same season.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Cubs NL Central lead; Wrigley streak continuation; Imanaga/rotation depth
+
+### Story 3: Travis Bazzana First MLB Home Run
+- **Angle:** FOLLOW UP. Bazzana (No. 1 overall pick, 2024 draft; first Australian No. 1 pick; first 2B taken No. 1) hit first career MLB HR on May 8 in Guardians win over Twins. First hit was vs Athletics. Made MLB debut April 28.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Bazzana continued development; Guardians season
+
+### Story 4: MLB Milestones Roundup — Moniak Multi-HR Record, Yankees Sweep History
+- **Angle:** NEW STORY. Roundup of week's unusual/historic stats: Mickey Moniak (Rockies) 4 multi-HR games through team's 35th game (2nd most in MLB history, behind 1959 Killebrew 5). Yankees swept Orioles by 5+ runs every game (3rd time in franchise history). Nick Kurtz walk streak ended at 20 (tied Barry Bonds for 2nd all-time, behind Cullenbine 22 in 1947). Pirates walked 7 times in one inning vs Reds, tying MLB record.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Moniak multi-HR season chase; Kurtz plate discipline watch
+
+### Story 5: Braves Lead NL at 26-12 — Sustained Excellence
+- **Angle:** FOLLOW UP. Braves 26-12, NL East leaders, MLB-best 5.61 RPG. Matched Cubs and Yankees for best record in baseball. Building case as NL pennant contender.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Braves NL pennant race; offense sustainability
+
+### Story 6: Weekend MLB Preview / HR Race Check
+- **Angle:** FOLLOW UP. Weekend preview: Judge 15 HR leads race, Murakami at 14. Cubs 15-game Wrigley streak, Braves 26-12, Yankees 26-12. Division standings overview. Social-only Tier 3.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Weekly standing updates; division races
+
+---
+
 ## 2026-05-08
 
 ### Story 1: Paul Skenes 8 Shutout Innings vs. Diamondbacks

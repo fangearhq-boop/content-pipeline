@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-09
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 1 char violation fixed before compile — S4T1 309→269; 0 after fix), FB posts (6 stories), image concepts (6), image manifest, articles (5), fact-check (IMAGE MISSING expected not_started), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 1 char violation fixed before compile (S4T1 bulleted list had newlines pushing to 309, rewritten as single paragraph 269 chars).
+- **Key Stories**: Aaron Judge first to 15 HR 2026/chasing career 400 HRs (P10), Cubs historic second 10-game win streak 26-12 first since 1955 Dodgers/15-game Wrigley streak (P9), Bazzana first MLB HR vs Twins (P8), MLB milestones roundup: Moniak 4 multi-HR games/Yankees sweep/Kurtz walk streak tied Bonds (P8), Braves 26-12 NL best 5.61 RPG (P7), Weekend HR race preview (P4)
+
+## Previous Run
 - **Date**: 2026-05-08
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (13), image concepts (6 for all stories), image manifest, articles (5), fact-check (25 claims, 0 char violations, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (14 posts X, 14 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
