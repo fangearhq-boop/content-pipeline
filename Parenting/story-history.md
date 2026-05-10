@@ -2,6 +2,45 @@
 
 ---
 
+## May 10, 2026
+
+### Story 1: CPSC Recall — Bellabu Bear Children's Sherpa Robes (Burn Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CPSC recall; Bellabu Bear bamboo sherpa children's robes; burn hazard — fails mandatory federal flammability standards for children's sleepwear; licensed prints: PAW Patrol, Garfield, Minecraft, Minions, Batman, Justice League, Wonder Woman, Blaze, Trolls, Dora, and others; sizes S/M and M/L; sold at Saks Fifth Avenue + boutiques + bellabubear.com Jan 2024-Jul 2025; ~$60; no injuries reported; full refund or store credit; 888-703-7752 or help@bellabubear.com)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Burn hazard; flammability failure; Jan 2024-Jul 2025; ~$60; 888-703-7752; help@bellabubear.com; Source: cpsc.gov + bellabubear.com recall page
+
+### Story 2: Mother's Day Colorado Springs — Family Events for May 10
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Mother's Day May 10; Colorado Wolf and Wildlife Center wolf tour 9-11 AM $40/$20; Hillside Gardens free 9 AM-2 PM; ViewHouse brunch 9 AM-3 PM $54.95/$14.95; Lumen8 Rooftop brunch 10 AM-2 PM $70/$35 ages 6-12; Broadmoor Hall brunch 10 AM-3 PM $135/$50; Do Portugal Circus Park Union through May 24)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Mother's Day May 10; wolf tour 9-11 AM; Hillside Gardens free; multiple brunch options; circus through May 24; Sources: visitcos.com, Denver7 weekend guide, KOAA events
+
+### Story 3: Colorado Springs 2026 Summer Camp Guide
+- **Content Pillar:** Local Events / Evergreen
+- **Angle:** NEW STORY (D11 last day May 22; 12 days away; key programs: Colorado Tinkering School STEAM Jul 6-10/20-24/Aug 3-7 9 AM-4:30 PM; Go West Camps outdoor ages 5-14; CYT theater ages 5-13 payment plans; Catamount Institute ages 5-12 June-July scholarships available; It's FUNdamental Multisport ages 3-11 M-Thu 9-11:30 AM $120/child 25% sibling; Resources: coloradosprings.macaronikid.com, coloradospringssummercamps.com)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Last day May 22; Go West Camps ages 5-14; Catamount ages 5-12; CYT ages 5-13; It's FUNdamental $120/child; Source: coloradospringskids.com, coloradospringssummercamps.com
+
+### Story 4: D11 Graduation Dates + Last Day of School
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 high school graduation ceremonies May 19-20; Palmer HS 9 AM May 19; Coronado HS 9 AM May 19; Mitchell HS 3 PM May 20; Doherty HS 3 PM May 20; Achieve/Tesla/Bijou/Odyssey May 21 TBD; Last day of school May 22; Memorial Day May 25 district closed; Adult/Family Ed graduation May 28 7 PM Roy J. Wasson Academic Campus Auditorium)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Last day May 22; graduation May 19-20; Adult Ed graduation May 28 7 PM Wasson; Source: schoolcalendarinfo.com, D11 official calendar
+
+### Story 5: Outdoor Play Benefits for Kids — Summer Research Roundup
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (Research-backed benefits of outdoor play: lower obesity, stronger bones, vitamin D, stress reduction, ADHD symptom reduction, improved focus, social skills; AAP + CHOP + UCLA Health + Sanford Health sources; unstructured outdoor play emphasis; COS outdoor resources: Palmer Park, Cheyenne Mountain SP, Garden of the Gods, Monument Valley Park, Pikes Peak trails)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP-backed; stress drops within minutes outdoors; ADHD symptom reduction; COS outdoor spaces listed; Sources: HealthyChildren.org, CHOP, UCLA Health, Sanford Health
+
+---
+
 ## May 9, 2026
 
 ### Story 1: D11 Teachers and Parents Picket Board — 300+ Days Without a Contract
