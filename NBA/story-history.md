@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-10
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Thunder 131-108 Lakers G3 (May 9) — Ajay Mitchell 24/10ast/3stl/0TO (joins Magic, CP3, Haliburton as only players since 1990 with 20+/10+/3stl/0TO in playoffs); SGA 23/9; Holmgren 18/9reb; LeBron 7-19; Lakers led at half +2 (11 3PM) then OKC outscored LA by 25 in 2H; Thunder 7-0, lead 3-0 | 1 | FOLLOW-UP |
+| 2 | Cavaliers 116-109 Pistons G3 (May 9) — Mitchell 35 pts + 2,000 career playoff pts milestone (73rd game, 3rd-fastest active, 9th NBA history); Harden clutch in final 3 min; Strus contributed; Pistons still lead 2-1 | 1 | FOLLOW-UP |
+| 3 | Knicks-76ers G4 TODAY 3:30 PM ET ABC — Knicks lead 3-0, seeking first best-of-7 sweep since 1999; OG hamstring uncertain; Embiid questionable; Brunson 33/9, Bridges 23, KAT 8/12/7, Shamet +20 in G3 | 1 | FOLLOW-UP |
+| 4 | Spurs-Wolves G4 TONIGHT 7:30 PM ET NBC — Spurs lead 2-1; Wemby 39/15/5blk in G3; Edwards 32/14/6; Spurs -4.5 in Minneapolis | 2 | FOLLOW-UP |
+| 5 | Lakers 0-3 hole — historical analysis: 0-for-150+ all time; LeBron 7-19 FG in G3; Luka still uncleared; OKC can close Game 4 | 2 | FOLLOW-UP |
+
+### STORY 1: Thunder 131-108 Lakers Game 3 — Ajay Mitchell Historic Line
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Performance
+- **Key facts:** Thunder 131, Lakers 108 (G3, May 9, Crypto.com Arena). OKC leads 3-0. Ajay Mitchell: 24/10ast/3stl/0TO (10-17 FG) — joins Magic Johnson, Chris Paul, Tyrese Haliburton as only players since 1990 with 20+/10+/3stl/0TO in playoff game. SGA 23/9ast. Holmgren 18/9reb. Wallace 16. LeBron 7-19 (19pts). Hachimura 21. Reaves 17/9ast. Kennard 18. Lakers led +2 at half (11 3PM in 1H); OKC outscored LA by 25 in 2H. Thunder 7-0 in 2026 playoffs.
+
+### STORY 2: Cavaliers 116-109 Pistons Game 3 — Mitchell 2,000 Playoff Points
+- **Tier:** 1
+- **Category:** Playoff Results / Milestone
+- **Key facts:** Cavaliers 116, Pistons 109 (G3, May 9, Cleveland). Pistons still lead 2-1. Mitchell 35 pts — reached 2,000 career postseason points in 73rd game (tied 3rd-fastest active players, 9th NBA history). Harden clutch in final 3 minutes. Strus off bench.
+
+### STORY 3: Knicks-76ers Game 4 Preview — Sweep Alert
+- **Tier:** 1
+- **Category:** Game Preview / Potential Sweep
+- **Key facts:** G4 May 10, 3:30 PM ET, ABC, Wells Fargo Center, Philadelphia. Knicks lead 3-0. No team has ever come back from 0-3. Knicks seeking first best-of-7 sweep since 1999. OG (hamstring) uncertain; Embiid questionable.
+
+### STORY 4: Spurs-Wolves Game 4 Preview
+- **Tier:** 2
+- **Category:** Game Preview / Series Control
+- **Key facts:** G4 May 10, 7:30 PM ET, NBC/Peacock, Target Center, Minneapolis. Spurs lead 2-1. Wemby 39/15/5blk in G3. Edwards 32/14/6. Spurs -4.5.
+
+### STORY 5: Lakers 0-3 Historical Analysis
+- **Tier:** 2
+- **Category:** Series Analysis / LeBron Legacy
+- **Key facts:** 0-3 in series; no NBA team has ever come back from 0-3 (0-for-150+). Thunder 7-0. LeBron 7-19 in G3. Luka still uncleared for contact.
+
+---
+
 ## 2026-05-03
 
 | # | Story | Tier | Tag |
