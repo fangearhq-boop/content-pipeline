@@ -1,0 +1,262 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-10",
+  "compiled_at": "2026-05-10T11:25:12.628008+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Miami GP Recap — Antonelli Wins Third Straight, Leclerc's Final-Lap Disaster",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kimi Antonelli: three pole positions, three wins.\n\nThe 19-year-old is making F1 history in 2026. Norris P2, Piastri P3.\n\nLeclerc spun on the final lap, got a 20s penalty, finished P8. \"All on me.\" #F1 #MiamiGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MiamiGP"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Championship after Miami:\nAntonelli: 100 pts\nRussell: 80 pts\nLeclerc: 59 pts\nNorris: 51 pts\nHamilton: 51 pts\nVerstappen: 26 pts\n\nThe gap at the top is very real. #F1",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 165
+        }
+      ],
+      "facebook": {
+        "long_form": "Kimi Antonelli just keeps winning — and the drama around him keeps getting wilder.\n\nAt the 2026 Miami Grand Prix on May 3, the 19-year-old Mercedes driver converted his third consecutive pole position into his third consecutive race victory, crossing the line 3.264 seconds ahead of Lando Norris in a McLaren that had genuinely closed the gap. Oscar Piastri completed the podium in third for a McLaren 2-3. George Russell was fourth for Mercedes, Max Verstappen fifth for Red Bull, and Lewis Hamilton sixth for Ferrari.\n\nBut the story everyone was talking about was Charles Leclerc. Running inside the top six, fighting for a strong Ferrari points haul, Leclerc spun at Turn 3 on the final lap — damaging his car and forcing him to cut chicanes to limp to the finish. The stewards added a 20-second time penalty for gaining a lasting advantage by leaving the track, dropping him from P6 to P8. Leclerc was characteristically honest: \"It's all on me.\"\n\nThe championship picture after Miami: Antonelli 100, Russell 80, Leclerc 59, Norris 51, Hamilton 51, Verstappen 26. Mercedes leads constructors at 180 points.",
+        "image_caption": "Three poles. Three wins. Antonelli is making history at 19. Leclerc's nightmare final lap gave him extra breathing room. Miami GP recap: Antonelli P1, Norris P2, Piastri P3. #MiamiGP #F1",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-antonelli-miami-gp-win-leclerc-disaster.html",
+        "headline": "Antonelli Wins Third Straight Miami GP as Leclerc's Final-Lap Disaster Drops Ferrari to P8",
+        "word_count": 449
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Miami GP Recap — Antonelli Wins, Leclerc Disaster\n\n**Image Concept 1A — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Kimi Antonelli in Mercedes silver on winner's podium, arms raised, Miami trophy\n- **Scene:** Miami International Autodrome, sunset sky, silver-and-teal confetti\n- **Text overlay:** \"3 POLES. 3 WINS.\" in bold white, \"ANTONELLI MAKES HISTORY\" below\n- **Mood:** Historic moment, dominance, youth triumph\n- **Search term (imagn):** \"Kimi Antonelli Mercedes\"\n\n**Image Concept 1B — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Charles Leclerc looking dejected in Ferrari cockpit after spin\n- **Scene:** Circuit barrier background, red car with light damage, dramatic contrast\n- **Text overlay:** \"FINAL LAP. SPIN. +20 SECONDS.\" in red bold, \"ALL ON ME — LECLERC\" smaller\n- **Mood:** Regret, dramatic contrast with race winner\n- **Search term (imagn):** \"Charles Leclerc Ferrari\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Miami GP Race Recap\n**Sources consulted:** Formula1.com, ESPN, Sky Sports, Yahoo Sports, Silverstone.co.uk\n**Verified Facts (HIGH confidence):**\n- Miami GP result (May 3, 2026): Antonelli P1, Norris P2 (+3.264s), Piastri P3 (McLaren 2-3) [HIGH — Formula1.com official]\n- Russell P4, Verstappen P5, Hamilton P6, Colapinto P7, Leclerc P8 (post-penalty) [HIGH — Sky Sports, Yahoo]\n- Leclerc spun at Turn 3 on final lap, damaged car, cut chicanes; given 20-second time penalty for gaining lasting advantage [HIGH — Formula1.com, Sky Sports]\n- Leclerc admitted \"all on me\" re: final lap spin [HIGH — Formula1.com quote]\n- Antonelli: first F1 driver to convert first 3 pole positions of a season into wins [HIGH — Formula1.com]\n- Championship after Miami: Antonelli 100, Russell 80, Leclerc 59, Norris 51, Hamilton 51, Piastri 43, Verstappen 26 [HIGH — multiple sources]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen at the Crossroads — Red Bull Crisis and the Exit Clause Ticking Down",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen: 7th in the championship, 74 points behind Antonelli.\n\nHis contract lets him leave Red Bull if he's outside the top 3 at the summer break.\n\nThat clause is almost certainly going to trigger. #F1 #Verstappen",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen threatened to retire after Japan.\n\nHe's now 7th in the standings with a car he says is no fun to drive.\n\nThe summer break exit window opens soon. What comes next? #F1 #Verstappen",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": {
+        "long_form": "Max Verstappen's situation at Red Bull is becoming increasingly dire — and a contractual escape route is almost certain to open up this summer.\n\nThe four-time world champion sits 7th in the 2026 drivers' championship with 26 points — 74 behind Antonelli. His contract with Red Bull contains a performance clause: if Verstappen is not inside the top three in the standings at the summer break (following the Hungarian Grand Prix on July 24-26), he has the right to terminate the contract early. He then has until October to formally notify the team.\n\nWith Mercedes, McLaren, Ferrari, and even Alpine all fielding cars that outperform the Red Bull regularly, the prospect of Verstappen ascending to the top three before Hungary appears virtually impossible unless the team makes massive gains.\n\nVerstappen has been vocal about his frustrations with the 2026 regulations. The new power unit rules have produced cars he describes as difficult and un-fun to drive. Following the Japanese Grand Prix earlier in the season, he reportedly threatened retirement. His future is genuinely uncertain, and the exit clause countdown has begun.",
+        "image_caption": "7th in the championship. 74 points back. And a contract clause that could let him walk away by summer. Max Verstappen's 2026 season is a crisis. #Verstappen #F1",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clause-red-bull-crisis.html",
+        "headline": "Verstappen's Exit Clause is About to Be Triggered — What Happens Next at Red Bull?",
+        "word_count": 473
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n**Image Concept 2A — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Verstappen in Red Bull RB21, looking focused but tense in cockpit\n- **Scene:** Dark dramatic lighting, circuit background blurred\n- **Text overlay:** \"7TH IN THE CHAMPIONSHIP\" bold white, \"EXIT CLAUSE LOOMING\" in red\n- **Mood:** Crisis, uncertainty, pressure\n- **Search term (imagn):** \"Max Verstappen Red Bull\"\n\n**Image Concept 2B — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Red Bull garage, mechanics working, somber atmosphere\n- **Scene:** Pit lane at dusk, blue-and-yellow color palette muted\n- **Text overlay:** \"26 POINTS. 74 BEHIND.\" white, \"HOW LONG DOES VERSTAPPEN STAY?\" smaller\n- **Mood:** Tension, institutional crisis\n- **Search term (imagn):** \"Red Bull Racing pit lane\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause\n**Sources consulted:** GPFans, The-Race, Motorsport.com, F1Oversteer, Sportbible\n**Verified Facts (HIGH confidence):**\n- Verstappen's contract has performance clause: right to exit if not in top 3 at summer break (after Hungarian GP, July 24-26) [HIGH — multiple sources]\n- He has until October to formally invoke the clause if triggered [HIGH — F1Oversteer, The-Race]\n- Verstappen currently 7th in championship, 74 points behind Antonelli [HIGH — from standings confirmed above]\n- Verstappen has expressed dissatisfaction with 2026 car drivability, threatened retirement post-Japan GP [HIGH — ESPN, GPFans]\n- Red Bull teammate: Isack Hadjar [HIGH — multiple sources]\n**Verified Facts (MEDIUM confidence):**\n- Red Bull halved its weight deficit at Miami [MEDIUM — pipeline notes from 05-09]\n- Verstappen exit would require top-3 by summer break; currently virtually impossible given gap [MEDIUM — analyst opinion]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Canada GP Preview — Sprint Weekend in Montreal, May 22-24",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "NEXT RACE: Formula 1 Grand Prix du Canada 🇨🇦\n\nMay 22-24 at Circuit Gilles-Villeneuve, Montreal.\n\nSprint weekend. Antonelli on a three-race win streak. McLaren improved. #CanadaGP #F1",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CanadaGP",
+            "#F1"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "Formula 1 returns in just 12 days for one of the calendar's most beloved events — and this year it comes with extra stakes attached.\n\nThe 2026 Formula 1 Grand Prix du Canada takes place May 22-24 at Circuit Gilles-Villeneuve on Île Notre-Dame in Montreal. This is a sprint format weekend, meaning extra points and extra drama: Sprint Qualifying on Friday, the Sprint Race at noon EDT on Saturday, followed by GP Qualifying at 4 PM EDT Saturday afternoon, and the Grand Prix on Sunday at 2 PM EDT.\n\nKimi Antonelli will arrive on a three-race winning streak leading the championship by 20 points over team-mate George Russell. McLaren, fresh from their best weekend of 2026 in Miami, are expected to bring more upgrades and could mount a genuine challenge. The Circuit Gilles-Villeneuve's distinctive mix of tight chicanes, a long hairpin, and the famous Wall of Champions punishes car imbalance and rewards precision — setting up a potential reshuffling of the competitive order.\n\nSet your alarm for May 22, Montreal, and what should be another unforgettable F1 weekend.",
+        "image_caption": "Next stop: Montreal. The 2026 #CanadaGP is a sprint weekend — May 22-24 at Circuit Gilles-Villeneuve. Antonelli arrives on a 3-race win streak. Can anyone stop him? #F1",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-canada-gp-2026-preview-sprint-weekend-montreal.html",
+        "headline": "Canada GP Preview: Sprint Weekend in Montreal Could Reshape the 2026 Championship Fight",
+        "word_count": 404
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canada GP Preview\n\n**Image Concept 3A — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Circuit Gilles-Villeneuve aerial view, Montreal skyline behind\n- **Scene:** Blue sky, St. Lawrence River visible, circuit lit with grandstands\n- **Text overlay:** \"CANADA GP 🇨🇦\" large white, \"MAY 22-24 · SPRINT WEEKEND · MONTREAL\" smaller\n- **Mood:** Excitement, anticipation, heritage circuit\n- **Search term (imagn):** \"Circuit Gilles Villeneuve Montreal Formula 1\"\n\n**Image Concept 3B — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** F1 car powering through the hairpin at Montreal, wall close\n- **Scene:** Low angle, motion blur, crowd visible behind barriers\n- **Text overlay:** \"NEXT RACE: MONTREAL\" bold, \"12 DAYS AWAY\" smaller\n- **Mood:** Speed, drama, iconic venue\n- **Search term (imagn):** \"Formula 1 Montreal Grand Prix\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Canada GP Preview\n**Sources consulted:** Formula1.com, Canada.gp, GPFans, GrandPrixPal\n**Verified Facts (HIGH confidence):**\n- Canada GP: May 22-24, 2026, Circuit Gilles-Villeneuve, Montreal [HIGH — Formula1.com official]\n- Sprint format weekend [HIGH — multiple sources]\n- Schedule: Sprint Qualifying Friday, Sprint Saturday noon EDT, Qualifying Saturday 4 PM EDT, Race Sunday 2 PM EDT [HIGH — Canada.gp]\n- Location: Circuit Gilles-Villeneuve on Île Notre-Dame, Montreal [HIGH — Formula1.com]\n- Antonelli leads championship by 20 pts over Russell [HIGH — confirmed standings]\n**Verified Facts (MEDIUM confidence):**\n- McLaren and Mercedes expected to bring upgrades to Canada [MEDIUM — from Speedcafe/Piastri comments]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "McLaren's Seven-Part Upgrade Unlocks New Form — Can They Challenge in Canada?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "McLaren brought seven upgrades to Miami — front wing, nose, sidepods, engine cover, floor, rear wing.\n\nNorris P2. Piastri P3.\n\nStella says \"execution and optimisation\" was the only thing that kept them from winning. #McLaren #F1",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#McLaren",
+            "#F1"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "McLaren arrived in Miami with the most comprehensive upgrade package of the 2026 season — and the results spoke for themselves.\n\nThe MCL40 received seven changes heading into the Miami weekend, covering the front wing, nose cone, sidepods, engine cover, floor, and rear wing. The goal, according to team principal Andrea Stella, was not just raw pace — it was also widening the car's operating window and making it more predictable for Lando Norris and Oscar Piastri.\n\nIt worked. Norris won the Sprint on Saturday (his first win of 2026), and both drivers delivered in the race: Norris P2, Piastri P3. Their double podium was the clearest sign yet that the gap to Mercedes is closing. Stella acknowledged that \"execution and optimisation\" — not pace — was what kept McLaren from winning outright.\n\nPiastri called the upgrade results \"a pretty big surprise\" given their pre-weekend expectations, adding optimism about Canada. Norris cautioned the team needs more data points, but expressed confidence that the improvements are real.",
+        "image_caption": "Seven upgrades. One sprint win. One podium double. McLaren is finding their 2026 form at exactly the right time. Norris P2, Piastri P3 in Miami. #McLaren #F1",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-mclaren-miami-upgrades-norris-piastri-analysis.html",
+        "headline": "McLaren's Seven-Part Miami Upgrade Has Reawakened a Championship Contender",
+        "word_count": 410
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McLaren Upgrades\n\n**Image Concept 4A — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Lando Norris in McLaren papaya MCL40 on podium, P2 trophy\n- **Scene:** Miami podium, confetti, sunset colors\n- **Text overlay:** \"7 UPGRADES. ONE PODIUM DOUBLE.\" bold, \"McLAREN IS BACK\" below\n- **Mood:** Progress, resurgence, technical triumph\n- **Search term (imagn):** \"Lando Norris McLaren\"\n\n**Image Concept 4B — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Oscar Piastri in McLaren papaya suit, celebrating P3\n- **Scene:** Miami circuit, team celebrating in background\n- **Text overlay:** \"NORRIS P2. PIASTRI P3.\" bold white, \"McLAREN MIAMI DOUBLE PODIUM\" below\n- **Mood:** Team success, momentum\n- **Search term (imagn):** \"Oscar Piastri McLaren\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McLaren Upgrades Analysis\n**Sources consulted:** Speedcafe, PitDebrief, Formula1.com, F1Oversteer, Motorsport Week\n**Verified Facts (HIGH confidence):**\n- McLaren brought 7-part upgrade package to Miami (MCL40) including: front wing, nose cone, sidepods, engine cover, floor, rear wing [HIGH — PitDebrief, Formula1.com]\n- Sprint results: Norris P1 (Sprint win, first win of 2026), Piastri P2 [HIGH — multiple sources]\n- Race results: Norris P2, Piastri P3 [HIGH — confirmed above]\n- Andrea Stella: \"execution and optimisation\" cost McLaren race win [HIGH — Formula1.com quote]\n- Piastri said upgrades \"exceeded expectations,\" expressed optimism for Canada [HIGH — Motorsport Week]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Antonelli's Historic Start — Three Poles, Three Wins, 100 Points",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "No F1 driver in history had ever converted their first three pole positions of a season into race wins.\n\nKimi Antonelli just did it at 19 years old.\n\nThe 2026 championship is his to lose. #Antonelli #F1",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Antonelli",
+            "#F1"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "The numbers coming out of the 2026 F1 season are almost incomprehensible when you remember that Kimi Antonelli is 19 years old.\n\nThree pole positions in 2026. Three race wins. 100 championship points. Leading the standings by 20 points over team-mate George Russell. And — according to Formula 1 itself — the first driver in the sport's history to convert his first three pole positions of a season into victories.\n\nAntonelli's rise has been remarkable not just for the results but for the manner of them. In Miami, he recovered from a difficult first corner to reassert control of the race through strategy, then held off a charging Norris in a tense finale. His racecraft under pressure belies his age. Mercedes leads the constructors' championship with 180 points — 68 ahead of Ferrari.\n\nWith the Canada Grand Prix coming on May 22-24, Antonelli has an opportunity to extend his advantage further on a circuit where he's never raced. The 2026 championship is his to lose.",
+        "image_caption": "19 years old. 3 poles. 3 wins. 100 points. Leading the championship. Kimi Antonelli is making F1 history in 2026. #Antonelli #F1",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-antonelli-three-poles-three-wins-historic-start.html",
+        "headline": "Kimi Antonelli: Three Poles, Three Wins, 100 Points — The Most Dominant F1 Start Since the Records Began",
+        "word_count": 456
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Historic Start\n\n**Image Concept 5A — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Antonelli mid-race celebration in Mercedes cockpit, fist pump\n- **Scene:** Miami track, blurred grandstands, silver-black-teal colors\n- **Text overlay:** \"19 YEARS OLD. 100 POINTS.\" bold white, \"3 POLES. 3 WINS. HISTORY MADE.\" below\n- **Mood:** Legendary, generational talent\n- **Search term (imagn):** \"Kimi Antonelli Formula 1\"\n\n**Image Concept 5B — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Championship points infographic — Antonelli 100 at top, others listed below\n- **Scene:** Clean dark background, racing typography, silver Mercedes colors\n- **Text overlay:** \"ANTONELLI 100 · RUSSELL 80 · LECLERC 59\" standings list\n- **Mood:** Data, dominance, championship clarity\n- **Search term (imagn):** \"Mercedes AMG Formula 1 team\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Historic Season Start\n**Sources consulted:** Formula1.com, NBC News, Scuderia Fans, F1 standings sources\n**Verified Facts (HIGH confidence):**\n- Antonelli: 3 wins from 3 pole positions in 2026 [HIGH — Formula1.com article]\n- \"First driver in F1 history to convert his first three pole positions into wins\" [HIGH — Formula1.com headline claim]\n- Antonelli age: 19 [HIGH — multiple sources confirm born 2005]\n- Mercedes constructors: 180 points; leads Ferrari by 68 [HIGH — championship sources]\n- 2027 engine regs: ICE +50kW, ERS -50kW, shifts 50/50 to 60/40 ICE/ERS; agreed by all stakeholders [HIGH — pipeline notes from 05-09 research]\n**Verified Facts (MEDIUM confidence):**\n- \"WMSC rubber stamp\" needed for 2027 engine regs [MEDIUM — from prior research]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

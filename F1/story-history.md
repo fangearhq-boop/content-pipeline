@@ -2,6 +2,43 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-10
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Miami GP recap (May 3): Antonelli P1 (3rd win/pole in a row), Norris P2 (+3.264s), Piastri P3; Russell P4, Verstappen P5, Hamilton P6, Colapinto P7, Leclerc P8 (final-lap spin + 20s penalty, "all on me"); championship: Antonelli 100, Russell 80, Leclerc 59, Norris 51, Hamilton 51, Piastri 43, Verstappen 26 | 1 | FOLLOW-UP |
+| 2 | Verstappen exit clause analysis: 7th/26pts/74 behind Antonelli; clause activates if not top-3 at summer break (after Hungary July 24-26); has until Oct to invoke; virtually certain to trigger; threatened retirement post-Japan | 1 | FOLLOW-UP |
+| 3 | Canada GP preview: May 22-24 Circuit Gilles-Villeneuve, Montreal; sprint weekend; Sprint Sat noon EDT, Qualifying Sat 4PM EDT, Race Sun 2PM EDT; McLaren/Mercedes bringing upgrades | 1 | NEW STORY |
+| 4 | McLaren 7-part Miami upgrade: front wing, nose, sidepods, engine cover, floor, rear wing; Norris Sprint win + P2 race; Piastri P3; Stella: "execution/optimisation" cost them win; Piastri upbeat for Canada | 2 | FOLLOW-UP |
+| 5 | Antonelli historic start: first F1 driver ever to convert first 3 pole positions of season into wins; 19 yrs old; 100 pts; Mercedes leads constructors 180pts (+68 over Ferrari) | 2 | NEW STORY |
+
+### STORY 1: Miami GP Recap — Antonelli Wins Third Straight, Leclerc Disaster
+- **Tier:** 1
+- **Category:** Race Recap / Championship
+- **Key facts:** Miami GP May 3. P1 Antonelli, P2 Norris (+3.264s), P3 Piastri (McLaren 2-3). Russell P4, Verstappen P5, Hamilton P6, Colapinto P7, Leclerc P8 (20s penalty for final-lap spin and track limits). Leclerc: "all on me." First F1 driver to win from first 3 pole positions of a season. Championship: Antonelli 100, Russell 80, Leclerc 59, Norris 51, Hamilton 51, Piastri 43, Verstappen 26. Mercedes constructors 180pts.
+
+### STORY 2: Verstappen Exit Clause
+- **Tier:** 1
+- **Category:** Driver News / Contract
+- **Key facts:** 7th in championship, 26 pts, 74 behind Antonelli. Performance clause: if not top-3 at summer break (after Hungary July 24-26), can terminate contract; has until Oct to invoke. Virtually certain to trigger given gap. Threatened retirement post-Japan. RB teammate Isack Hadjar.
+
+### STORY 3: Canada GP Preview
+- **Tier:** 1
+- **Category:** Race Preview
+- **Key facts:** May 22-24, Circuit Gilles-Villeneuve, Montreal. Sprint weekend. Sprint Sat noon EDT, Qual Sat 4PM EDT, Race Sun 2PM EDT. McLaren/Mercedes upgrades expected. Antonelli leads Russell by 20pts.
+
+### STORY 4: McLaren Miami Upgrades
+- **Tier:** 2
+- **Category:** Technical Analysis
+- **Key facts:** 7-part MCL40 upgrade: front wing, nose cone, sidepods, engine cover, floor, rear wing. Norris Sprint P1 (first 2026 win), Race P2. Piastri Race P3. Stella: "execution/optimisation" cost win. Piastri optimistic for Canada.
+
+### STORY 5: Antonelli Historic Start
+- **Tier:** 2
+- **Category:** Championship Analysis / Historic
+- **Key facts:** 3 poles → 3 wins (first ever in F1 history); 100 pts; age 19; Mercedes 180 constructors pts; 2027 engine rules (60/40 ICE/ERS, from 50/50) agreed all stakeholders, WMSC rubber stamp pending.
+
+---
+
 ## 2026-05-03
 
 | # | Story | Tier | Tag |
