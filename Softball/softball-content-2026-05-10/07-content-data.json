@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-10",
+  "compiled_at": "2026-05-10T10:10:42.528671+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Texas Wins First-Ever SEC Softball Championship — Teagan Kavan's 12-K Masterpiece",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "TEXAS IS YOUR 2026 SEC SOFTBALL CHAMPION — for the first time ever. Teagan Kavan went the distance with 12 strikeouts. Katie Stewart (SEC POY) went 3-for-5 with a homer and 2 RBI. Longhorns beat Alabama 7-1. Historic. #HookEm #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Texas beat Alabama 7-1 for the SEC title, and now the Longhorns lead D-I with 20 Quad 1 wins at 42-10. The No. 1 national seed is theirs to lose. Selection Show tonight, 7 PM ET on ESPN2. #HookEm #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-texas-wins-first-sec-softball-championship.html",
+        "headline": "Texas Wins First-Ever SEC Softball Championship, Kavan Strikes Out 12 in 7-1 Rout of Alabama",
+        "word_count": 644
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Wins First-Ever SEC Softball Championship\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Teagan Kavan Texas`\n- **Caption overlay:** \"FIRST EVER / SEC CHAMPIONS / Texas Softball\"\n- **Usage:** X + Facebook\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Texas Longhorns softball pitcher`\n- **Caption overlay:** \"TEXAS WINS 2026 SEC CHAMPIONSHIP / 7-1 Over Alabama\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Megan Grant Breaks All-Time NCAA HR Record — 38th Homer in Big Ten Title Game",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "HISTORY. Megan Grant just hit her 38th home run of the season — the most in NCAA softball history. She broke Laura Espinoza's 31-year-old record (37 HR, Arizona, 1995) in the Big Ten championship game against Nebraska. 38 HRs in 55 games. Unreal. #GoBruins #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoBruins",
+            "#CollegeSoftball"
+          ],
+          "char_count": 273
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Put it in perspective: Espinoza's record of 37 HRs stood since 1995 and took 72 games to set. Megan Grant did it in 55 games. Even in a loss, she made softball history. The most prolific power season the sport has ever seen. #GoBruins #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoBruins",
+            "#CollegeSoftball"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-megan-grant-breaks-ncaa-home-run-record.html",
+        "headline": "Megan Grant Shatters 31-Year NCAA Single-Season Home Run Record With Her 38th",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Megan Grant Breaks NCAA Single-Season HR Record\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Megan Grant UCLA`\n- **Caption overlay:** \"38 HOME RUNS / All-Time NCAA Record / Megan Grant\"\n- **Usage:** X + Facebook\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `UCLA softball batter`\n- **Caption overlay:** \"NCAA HISTORY / Grant Breaks 31-Year Record / 38 HRs\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Arizona State Stuns Texas Tech 4-0 — Kenzie Brown's Shutout Wins Big 12 Title",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "UPSET. No. 6 seed Arizona State blanked Texas Tech 4-0 to win the Big 12 Softball Championship. Kenzie Brown: 9 K, 2 hits allowed, complete-game shutout. Sun Devils hit 3 HRs in one inning. ASU's first Big 12 Tournament title. #ForksUp #CollegeSoftball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#ForksUp",
+            "#CollegeSoftball"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-arizona-state-upsets-texas-tech-big-12-championship.html",
+        "headline": "Arizona State Stuns Texas Tech 4-0 to Win Big 12 Softball Championship — Kenzie Brown's Masterclass",
+        "word_count": 601
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Arizona State Wins Big 12 Championship\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Kenzie Brown Arizona State`\n- **Caption overlay:** \"BIG 12 CHAMPIONS / Arizona State Softball / 4-0 Shutout\"\n- **Usage:** X + Facebook\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Arizona State softball pitcher`\n- **Caption overlay:** \"UPSET WIN / ASU TAKES THE BIG 12 TITLE / Brown Shuts Out TTU\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "FSU Wins 20th ACC Championship 2-1 Over Virginia Tech — Jazzy Francik MVP",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Florida State wins its 20th ACC Softball Championship, beating Virginia Tech 2-1. Jazzy Francik: 10 K, 1 ER in 11.2 tournament innings — named tournament MVP. The 20th ACC title for FSU. Program excellence on full display. #Noles #CollegeSoftball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Noles",
+            "#CollegeSoftball"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-fsu-wins-20th-acc-softball-championship.html",
+        "headline": "Florida State Wins 20th ACC Softball Championship — Jazzy Francik Named Tournament MVP in 2-1 Win Over Virginia Tech",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU Wins 20th ACC Championship\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Jazzy Francik Florida State`\n- **Caption overlay:** \"20 ACC TITLES / Florida State Softball / Francik MVP\"\n- **Usage:** X + Facebook\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Florida State softball celebration`\n- **Caption overlay:** \"DYNASTY / FSU Wins 20th ACC Championship / 2-1 Over VT\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Selection Show Tonight — Four Champions, One Bracket, 7 PM ET on ESPN2",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Championship Weekend is DONE. Four conference champions: Texas (SEC), Nebraska (Big Ten), FSU (ACC), Arizona State (Big 12). The bracket drops TONIGHT — Selection Show, 7 PM ET on ESPN2. Texas is the projected No. 1 national seed. Don't miss it. #CollegeSoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-ncaa-softball-selection-show-preview.html",
+        "headline": "NCAA Softball Selection Show Preview: Texas Favored for No. 1 Seed as 64-Team Bracket Drops Tonight",
+        "word_count": 657
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Selection Show Preview\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `NCAA softball tournament bracket`\n- **Caption overlay:** \"SELECTION SHOW TONIGHT / 7 PM ET on ESPN2 / 64 Teams. One Bracket.\"\n- **Usage:** X + Facebook\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `softball WCWS Devon Park`\n- **Caption overlay:** \"BRACKET DROPS TONIGHT / Selection Show 7 PM ET ESPN2\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Championship Weekend Wrap — All Four Conference Titles Decided",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Your 2026 conference softball champions: Texas (SEC, first ever). Nebraska (Big Ten, 21-game win streak). Florida State (ACC, 20th title). Arizona State (Big 12, biggest upset of the week). NCAA bracket on ESPN2 right now. #CollegeSoftball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

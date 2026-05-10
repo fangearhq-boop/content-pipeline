@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 10, 2026
+
+### Story 1: Texas Wins First-Ever SEC Softball Championship — Teagan Kavan's 12-K Masterpiece
+- **Angle:** NEW STORY. Texas defeated Alabama 7-1 in the SEC Softball Tournament championship at John Cropp Stadium, Lexington KY. Teagan Kavan: CG, 12 K (2nd-most ever in SEC title game). Katie Stewart (2026 SEC POY) went 3-for-5, HR, 2 RBI. Texas improved to 42-10. Alexis Pupillo (Alabama) hit solo HR in 1st inning; Texas answered with 2 runs and never trailed. Texas's first-ever SEC Tournament title. Texas enters Selection Show as projected No. 1 national seed with 20 Quad 1 wins (most in D-I).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** NCAA regional host draw at Selection Show; Texas's road through the bracket; WCWS
+
+### Story 2: Megan Grant Breaks All-Time NCAA Single-Season HR Record — 38th in Big Ten Championship
+- **Angle:** NEW STORY. UCLA's Megan Grant hit her 38th home run of the season during the Big Ten championship game vs Nebraska on May 9, breaking the all-time NCAA D-I single-season record previously held by Laura Espinoza (Arizona, 1995 — 37 HR in 72 games). Grant broke it in 55 games. She hit her 37th (tying record) vs Wisconsin in the semis. The record-breaking HR was a solo shot to left-center off Jordy Frahm in the 3rd inning, giving UCLA a 2-0 lead; Nebraska still won 7-2. Grant homered in all three of UCLA's Big Ten Tournament games.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Grant's season totals; UCLA at-large bid; national coverage of record
+
+### Story 3: Arizona State Stuns Texas Tech 4-0 — Kenzie Brown's Shutout Wins Big 12 Title
+- **Angle:** NEW STORY. No. 6 seed Arizona State defeated No. 3/4 Texas Tech 4-0 in the Big 12 Softball Championship at Devon Park OKC. Kenzie Brown: CG 2-hit shutout, 9 K, named Big 12 Tournament MVP (1 ER in 14 tournament innings). Three ASU HRs in 3rd inning: Tanya Windle, Emily Schepp, Katie Chester. ASU swept by TTU in regular season; reversed it in the championship. ASU's first Big 12 title; 4th conference championship overall (2008/2011/2022 Pac-12 + 2026 Big 12). Texas Tech still expected high national seed despite loss.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** ASU national seed assignment; Texas Tech at-large seed; regional matchups
+
+### Story 4: FSU Wins 20th ACC Championship 2-1 Over Virginia Tech — Jazzy Francik MVP
+- **Angle:** FOLLOW UP. Florida State defeated Virginia Tech 2-1 in the ACC Championship at Palmer Park, Charlottesville VA. Jazzy Francik: 10 K, 1 ER in 11.2 tournament innings, named ACC Tournament MVP. FSU's 20th ACC Tournament title; 10th under Lonni Alameda. VT (No. 3 seed) scored first; FSU answered in 2nd: Bella Ruggiero walked, Kennedy Harp doubled, Ruggiero scored, Harp scored on passed ball. FSU 49-8, top-7 RPI, guaranteed top-16 national seed (regional host).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** FSU national seed assignment; regional host draw; Francik in NCAA Tournament
+
+### Story 5: Selection Show Tonight — 64-Team Bracket at 7 PM ET ESPN2
+- **Angle:** FOLLOW UP. Selection Show Sunday May 10, 7 PM ET ESPN2. Beth Mowins, Jessica Mendoza, Michele Smith, Amanda Scarborough, Holly Rowe in studio. 64 teams (31 auto bids + 33 at-large). Texas projected No. 1 national seed (42-10, 20 Quad 1 wins). Nebraska projected No. 4 (45-6, Big Ten champ, No. 3 RPI). FSU guaranteed top-16 seed. Regionals May 15-18, Super Regionals May 22-24, WCWS May 28-June 3 Devon Park OKC.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Bracket reveal results; regional host assignments; national seed seedings
+
+### Story 6: Championship Weekend Wrap — All Four Conference Titles Decided
+- **Angle:** FOLLOW UP. Weekend recap: Texas (SEC, first ever), Nebraska (Big Ten, 21-game streak), FSU (ACC, 20th), Arizona State (Big 12, No. 6 seed upset). Social-only Tier 3.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Selection Show bracket results
+
+---
+
 ## May 9, 2026
 
 ### Story 1: Nebraska Claims Big Ten Championship — Win Streak Reaches 21

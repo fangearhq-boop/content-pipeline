@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-10
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (93 claims, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 0 char violations.
+- **Key Stories**: Texas wins first-ever SEC title 7-1/Kavan 12 K/Stewart SEC POY (P10), Megan Grant breaks all-time NCAA HR record with 38th (P10), Arizona State upsets Texas Tech 4-0/Brown shuts out TTU Big 12 title (P8), FSU wins 20th ACC championship 2-1/Francik MVP (P7), Selection Show tonight 7 PM ET ESPN2/Texas projected No. 1 seed (P8), Championship weekend wrap (P4)
+
+## Previous Run
 - **Date**: 2026-05-09
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 0 char violations after format fix — initial format wrong, corrected to code-block style), FB posts (6 stories), image concepts (6), image manifest, articles (5), fact-check (IMAGE MISSING expected not_started), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
