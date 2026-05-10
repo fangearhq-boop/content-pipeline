@@ -1,0 +1,262 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-10",
+  "compiled_at": "2026-05-10T11:32:45.992988+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Truist Championship Final Round — Fitzpatrick Leads, Young Lurking, McIlroy Implodes",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "FINAL ROUND TODAY at Quail Hollow — $20M Signature Event.\n\nAlex Fitzpatrick leads at 14-under.\nKristoffer Reitan 13-under.\nCameron Young fired a 63 — now 12-under, two back.\n\nRory McIlroy? Shot 75 in R3. Out of it. #TruistChampionship #PGATour",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TruistChampionship",
+            "#PGATour"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Cameron Young already won the Players and the Cadillac Championship this year.\n\nNow he's 2 back at Quail Hollow with 18 holes left.\n\nCan he make it three wins? #TruistChampionship #PGATour",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#TruistChampionship",
+            "#PGATour"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "The final round of the 2026 Truist Championship is underway at Quail Hollow Club in Charlotte — and the leaderboard heading into Sunday is about as exciting as it gets.\n\nAlex Fitzpatrick enters the day as the 54-hole leader at 14-under par after firing a 7-under 64 in Saturday's round. Sitting one shot behind him at 13-under is Norway's Kristoffer Reitan, who also shot 64 on Saturday. And lurking just two back at 12-under is Cameron Young — who came in hot with a 63 and knows exactly how to close on a Sunday. Sungjae Im, who led through 36 holes, sits at 11-under and is three back.\n\nThe story nobody wanted but everybody expected: Rory McIlroy completely unraveled in Round 3. The Northern Irishman had been four shots back and in the mix entering Saturday but shot a 4-over 75 — six bogeys against only two birdies — to effectively end his bid for a record fifth Truist title.\n\nAt stake today: $20M and 700 FedExCup points. And for Cameron Young, potentially a third PGA Tour win in the same spring.",
+        "image_caption": "Fitzpatrick leads. Young is lurking with a 63. McIlroy shot 75 and is out. Final round at Quail Hollow today. #TruistChampionship #PGATour",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-truist-championship-final-round-fitzpatrick-young.html",
+        "headline": "Truist Championship Final Round: Fitzpatrick Leads as Young, Reitan Give Chase and McIlroy Exits",
+        "word_count": 400
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Truist Championship Final Round\n\n**Image Concept 1A — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Alex Fitzpatrick in mid-swing at Quail Hollow, focused expression\n- **Scene:** Quail Hollow Club, Charlotte NC, green fairway, gallery in background\n- **Text overlay:** \"FINAL ROUND: FITZPATRICK LEADS 14-UNDER\" bold, \"TRUIST CHAMPIONSHIP TODAY\" smaller\n- **Mood:** Competition, decisive moment, championship pressure\n- **Search term (imagn):** \"Alex Fitzpatrick PGA Tour\"\n\n**Image Concept 1B — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Cameron Young fist-pumping after birdie, Quail Hollow\n- **Scene:** Green with gallery around, blue sky\n- **Text overlay:** \"YOUNG FIRES 63 — 2 BACK ENTERING FINAL ROUND\" bold white\n- **Mood:** Momentum, charge, winner's mindset\n- **Search term (imagn):** \"Cameron Young PGA Tour\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Truist Championship R3 / Final Round Preview\n**Sources consulted:** CBS Sports, PGA Tour, MSN, WBTV Charlotte\n**Verified Facts (HIGH confidence):**\n- Truist Championship at Quail Hollow Club, Charlotte NC; $20M Signature Event [HIGH]\n- After R3 (Saturday May 9): Alex Fitzpatrick leads at 14-under (shot 7-under 64) [HIGH — CBS Sports, MSN]\n- Kristoffer Reitan at 13-under (shot 64), one back [HIGH — CBS Sports]\n- Cameron Young at 12-under (shot 63), two back [HIGH — CBS Sports, PGA Tour]\n- Sungjae Im at 11-under, three back [HIGH — MSN leaderboard]\n- Rory McIlroy shot 4-over 75 in R3 (six bogeys, two birdies), dropped from contention [HIGH — CBS Sports]\n- Final round on Sunday May 10 [HIGH — tournament schedule]\n- $20M purse, 700 FedExCup points [HIGH — from prior research]\n- McIlroy seeking record 5th Truist title (won 2010, 2015, 2021, 2024) [HIGH — from prior research]\n**Verified Facts (MEDIUM confidence):**\n- Alex Fitzpatrick and Cameron Young were college teammates at Wake Forest [MEDIUM — PGA Tour article headline reference]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Virginia Final Round — Herbert 3 Clear, Ballester's Stunning 60 Creates Drama",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Final round of LIV Virginia is TODAY.\n\nLucas Herbert leads at 21-under (-3 ahead of Garcia).\n\nJosele Ballester shot a BOGEY-FREE 60 in R3 and is 13-under.\n\nThis is going to be wild. #LIVGolf #LIVVirginia",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#LIVVirginia"
+          ],
+          "char_count": 203
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Bryson DeChambeau and Jon Rahm are both within 9 shots of Lucas Herbert at LIV Virginia.\n\nGarcia is at 18-under, 3 back.\n\nAnd someone shot a 60 yesterday.\n\nLIV Sunday golf is on right now. #LIVGolf",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "Sunday golf at LIV Virginia promises fireworks — and Lucas Herbert better have his game face ready.\n\nThe Australian leads the Maaden LIV Golf Virginia tournament at Trump National Golf Club in Sterling, Virginia at 21-under par, three shots ahead of Sergio Garcia (18-under) heading into the final round. But the story of Saturday was Josele Ballester, who fired an absolutely stunning bogey-free 60 in Round 3 — a 12-under round — to move into the group at 13-under. He shares that position with Scott Vincent, Bryson DeChambeau, and Dean Burmester. Jon Rahm lurks at 12-under.\n\nFor Herbert, a first LIV individual title would be a significant career milestone. He has been dominant through three rounds — through 36 holes he set a LIV 36-hole Strokes Gained record — but a three-shot lead is not safe when Garcia is the closest challenger and someone is firing 60s. This $30M event could produce one of the most dramatic finishes of the LIV season.",
+        "image_caption": "Herbert leads at 21-under. Garcia 3 back. Ballester shot a BOGEY-FREE 60 to get within 8. Final round TODAY at LIV Virginia. #LIVGolf",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-liv-virginia-final-round-herbert-ballester-60.html",
+        "headline": "LIV Virginia Final Round: Herbert Leads at 21-Under as Ballester's Stunning 60 Tightens the Field",
+        "word_count": 363
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Virginia Final Round\n\n**Image Concept 2A — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Lucas Herbert in Ripper GC kit, arms raised after birdie\n- **Scene:** Trump National Virginia, parkland course, clear sky\n- **Text overlay:** \"HERBERT LEADS LIV VIRGINIA AT 21-UNDER\" bold, \"3 CLEAR ENTERING FINAL ROUND\" smaller\n- **Mood:** Dominance, leadership, pressure moment\n- **Search term (imagn):** \"Lucas Herbert LIV Golf\"\n\n**Image Concept 2B — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Sergio Garcia smiling, focused, mid-competition\n- **Scene:** LIV Virginia course, dramatic shadows\n- **Text overlay:** \"GARCIA 18-UNDER — 3 BACK IN LIV VIRGINIA\" bold, \"CAN HE CATCH HERBERT?\" smaller\n- **Mood:** Veteran cunning, comeback energy\n- **Search term (imagn):** \"Sergio Garcia LIV Golf\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Virginia R3 / Final Round Preview\n**Sources consulted:** LIV Golf official, Fox Sports, Washington Post, Infinity Sport\n**Verified Facts (HIGH confidence):**\n- LIV Virginia at Trump National Golf Club, Sterling VA; $30M purse [HIGH]\n- After R3 (Saturday May 9): Lucas Herbert (Ripper GC) leads at 21-under (shot R3 68) [HIGH — LIV Golf official, Fox Sports]\n- Sergio Garcia at 18-under, 3 shots back [HIGH — LIV Golf, Fox Sports]\n- Josele Ballester shot 60 (12-under, bogey-free) in R3, moved to 13-under [HIGH — YourNews, LIV Golf]\n- Also at 13-under: Scott Vincent, Bryson DeChambeau, Dean Burmester [HIGH — LIV Golf leaderboard]\n- Jon Rahm at 12-under [HIGH — multiple sources]\n- Herbert through 36 holes set a LIV 36-hole Strokes Gained record (from prior pipeline research) [HIGH — from 05-09 notes]\n- Final round May 10 [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PGA Championship Preview — Aronimink, Spieth's Grand Slam Quest, and the World's Best Field",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "4 days until the PGA Championship.\n\nScheffler defends. McIlroy chases major No. 7. Jordan Spieth hunts the career Grand Slam.\n\nAronimink Golf Club. May 14-17. ESPN/CBS.\n\nGet ready. #PGAChampionship #Aronimink",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#Aronimink"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "One of the most anticipated second majors in recent memory is just four days away — and the storylines at Aronimink Golf Club are stacking up.\n\nThe 108th PGA Championship runs May 14-17 at Aronimink in Newtown Square, Pennsylvania. It's the first PGA Championship held at this historic Donald Ross design since 1962, when Gary Player lifted the Wanamaker Trophy. The course will demand precision and patience — and the world's best players will be tested from day one.\n\nHere are the four biggest storylines heading in:\n\n**Scheffler defends.** The World No. 1 and 2025 PGA champion skipped the Truist Championship to prepare for Aronimink. He's been runner-up three times running in recent weeks — the competitive hunger is clearly there.\n\n**McIlroy's career at the crossroads.** Rory has won this event twice (2012, 2014) and a third would take his career major total to seven — putting him in truly elite company. After his R3 75 at Truist, he'll arrive at Aronimink with plenty of motivation.\n\n**Spieth's Grand Slam quest.** Jordan Spieth has everything — Masters, US Open, Open Championship — except the PGA. This is his 10th attempt at completing the career Grand Slam. No one in history has won their final Grand Slam leg at the PGA Championship, but Spieth doesn't care about that stat.\n\n**Cameron Young's triple threat.** Young has already won the Players and the Cadillac Championship. A PGA title would make him one of the most decorated single-season performers in modern golf.\n\nTV: ESPN handles Thursday-Friday, CBS takes Saturday-Sunday. Tee times begin May 14.",
+        "image_caption": "Scheffler defends. McIlroy chases No. 7. Spieth hunts the Grand Slam. The PGA Championship begins May 14 at Aronimink. #PGAChampionship",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-03-pga-championship-preview-aronimink-2026.html",
+        "headline": "PGA Championship Preview: Aronimink Returns to Major Golf With Scheffler, McIlroy, Spieth's Grand Slam, and Young's Historic Run",
+        "word_count": 473
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGA Championship Preview\n\n**Image Concept 3A — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Scottie Scheffler celebrating with Wanamaker Trophy\n- **Scene:** Stadium atmosphere, dark background, golden lighting on trophy\n- **Text overlay:** \"PGA CHAMPIONSHIP BEGINS MAY 14\" bold, \"SCHEFFLER DEFENDS AT ARONIMINK\" smaller\n- **Mood:** Defending champion, legendary trophy, prestige\n- **Search term (imagn):** \"Scottie Scheffler PGA Championship\"\n\n**Image Concept 3B — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Jordan Spieth looking determined, walking fairway\n- **Scene:** Major championship atmosphere, crowd lining fairway\n- **Text overlay:** \"GRAND SLAM ON THE LINE\" bold red text, \"SPIETH NEEDS ONLY THE PGA — HIS 10TH ATTEMPT\" smaller\n- **Mood:** Quest, determination, historic stakes\n- **Search term (imagn):** \"Jordan Spieth PGA Tour\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGA Championship Preview\n**Sources consulted:** Golf Channel, CBS Sports, Bleacher Report, El Dorado News, Golf.com\n**Verified Facts (HIGH confidence):**\n- 108th PGA Championship, May 14-17, Aronimink Golf Club, Newtown Square PA [HIGH — multiple sources]\n- First PGA Championship at Aronimink since 1962 (Gary Player won) [HIGH — Golf Channel]\n- Scheffler defending champion (+440 current odds FanDuel) [HIGH — CBS Sports]\n- McIlroy +750 (won PGA Championship 2012, 2014; this would be 3rd) [HIGH — CBS Sports, search]\n- Jordan Spieth seeking career Grand Slam — only PGA missing; 10th attempt [HIGH — Golf Channel, Yahoo Sports]\n- Cameron Young in field — won Players Championship + Cadillac Championship in 2026 [HIGH — prior research]\n- Jon Rahm eligible and in field [HIGH — Sky Sports]\n- TV: ESPN Thursday-Friday, CBS Saturday-Sunday [HIGH — Golf.com, CBS]\n**Verified Facts (MEDIUM confidence):**\n- Scheffler coming off three consecutive runner-up finishes [MEDIUM — search result text]\n- McIlroy successfully defended Masters in April 2026 [MEDIUM — referenced in search context]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Korda Hall of Fame Countdown — Four Points Away, Kroger Queen City Next",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Nelly Korda: 23 of 27 LPGA Hall of Fame points.\n\n4 away from automatic qualification.\n\nShe tees it up next week at the Kroger Queen City Championship in Cincinnati (May 14-17).\n\nCan she close it out? #LPGA #NellyKorda",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#NellyKorda"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "Nelly Korda is four points from golfing immortality — and her next chance to add them comes in just four days.\n\nThe World No. 1 sits at 23 of the 27 LPGA Hall of Fame points required for automatic qualification heading into the 2026 Kroger Queen City Championship at Maketewah Country Club in Cincinnati, Ohio (May 14-17). An event win earns two Hall of Fame points. Win twice in the coming weeks and Korda earns her spot in the Hall of Fame on her own terms, as the most dominant active player in the women's game.\n\nThe context is remarkable. Korda already has three LPGA victories in 2026 — including the Chevron Championship major — and has not finished outside the top 5 in any of her 2026 starts. Seven of the world's top 10 are entered in Cincinnati for what should be a stacked field.\n\nKorda is already a generational talent. The Hall of Fame would make it official. Cincinnati could be where it happens.",
+        "image_caption": "23 of 27 LPGA Hall of Fame points. Just 4 away from automatic qualification. Nelly Korda goes to Cincinnati next week. Can she close it out? #LPGA #NellyKorda",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-korda-hall-of-fame-countdown-kroger-queen-city.html",
+        "headline": "Korda Is Four Points From the LPGA Hall of Fame — Can She Seal It in Cincinnati?",
+        "word_count": 383
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Korda HOF Countdown\n\n**Image Concept 4A — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Nelly Korda holding trophy, celebrating LPGA win\n- **Scene:** Course celebration, confetti/flowers, LPGA backdrop\n- **Text overlay:** \"23/27 HALL OF FAME POINTS\" bold gold text, \"KORDA: 4 AWAY FROM IMMORTALITY\" smaller\n- **Mood:** Imminent greatness, milestone achievement\n- **Search term (imagn):** \"Nelly Korda LPGA\"\n\n**Image Concept 4B — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Korda walking fairway, World No. 1 badge visible\n- **Scene:** Cincinnati LPGA course, bright green turf, blue sky\n- **Text overlay:** \"KROGER QUEEN CITY — MAY 14-17\" bold, \"KORDA 4 HOF POINTS AWAY\" smaller\n- **Mood:** Anticipation, Hall of Fame countdown\n- **Search term (imagn):** \"Nelly Korda LPGA Tour\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Korda HOF Countdown\n**Sources consulted:** LPGA.com, Yahoo Sports, Golf Channel, Just Women's Sports\n**Verified Facts (HIGH confidence):**\n- Korda at 23/27 LPGA HOF points — 4 points away [HIGH — LPGA.com, Golf Channel]\n- Kroger Queen City Championship: May 14-17, Maketewah CC, Cincinnati OH [HIGH — Golf Wire, LPGA.com]\n- Korda World No. 1, 3 LPGA wins in 2026 [HIGH — multiple sources]\n- 7 of top 10 OWGR entered in Kroger Queen City [HIGH — Golf Wire]\n**Verified Facts (MEDIUM confidence):**\n- Win = 2 HOF points, major win = 2 points [MEDIUM — HOF point system general knowledge]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "McIlroy's Truist Implosion — R3 75 Ends Quail Hollow Record Bid",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Rory McIlroy was 4 shots back entering Round 3.\n\nThen he shot a 75. Six bogeys. Two birdies.\n\nOut of contention at Quail Hollow. A record 5th title will have to wait.\n\nNext target: PGA Championship, May 14. #RoryMcIlroy #PGATour",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RoryMcIlroy",
+            "#PGATour"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "Twenty-four hours can change everything in golf — and rarely in a worse way than what Rory McIlroy experienced Saturday at Quail Hollow.\n\nMcIlroy entered Round 3 of the 2026 Truist Championship four shots off the lead after a solid 67 in Round 2. He had the course history — four wins at Quail Hollow — and the motivation to chase a record fifth title. Then came Saturday's round: a 4-over 75, featuring six bogeys and only two birdies, that erased him from contention entirely.\n\nIt's the kind of round that happens to every professional eventually — but the timing stings. McIlroy was building momentum toward a major week and instead takes a confidence blow heading into the PGA Championship at Aronimink (May 14-17). He won this tournament in 2010, 2015, 2021, and 2024. The record fifth title will have to wait until 2027 at the earliest.\n\nThe silver lining: there's no better way to reset than chasing a major championship. McIlroy won the PGA twice (2012, 2014) and knows Aronimink presents a genuine opportunity for redemption.",
+        "image_caption": "Four shots back entering R3. Then a 75 with six bogeys. McIlroy's Quail Hollow record bid is over. Next stop: Aronimink and the PGA Championship, May 14. #RoryMcIlroy",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-05-mcilroy-truist-r3-collapse-pga-motivation.html",
+        "headline": "McIlroy's 75 at Quail Hollow Ends Truist Title Bid — Now He Heads to Aronimink With Something to Prove",
+        "word_count": 396
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy R3 Implosion\n\n**Image Concept 5A — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** Rory McIlroy looking dejected or walking away from a missed putt\n- **Scene:** Quail Hollow Club, overcast mood, empty-looking fairway\n- **Text overlay:** \"R3: 75. SIX BOGEYS.\" bold red text, \"McILROY'S QUAIL HOLLOW BID IS OVER\" smaller\n- **Mood:** Disappointment, momentum shift, adversity\n- **Search term (imagn):** \"Rory McIlroy PGA Tour\"\n\n**Image Concept 5B — Social (1080x1350)**\n- **Mode:** complete\n- **Subject:** McIlroy looking ahead, determined expression\n- **Scene:** Golf course, bright background, forward-looking\n- **Text overlay:** \"NEXT STOP: ARONIMINK\" bold white, \"PGA CHAMPIONSHIP · MAY 14\" smaller\n- **Mood:** Resolve, moving forward, redemption\n- **Search term (imagn):** \"Rory McIlroy golf\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McIlroy R3 Implosion Analysis\n**Sources consulted:** CBS Sports, WBTV\n**Verified Facts (HIGH confidence):**\n- McIlroy shot 4-over 75 in R3 (six bogeys, two birdies) [HIGH — CBS Sports]\n- McIlroy was 4 shots back entering R3 after 67 in R2 [HIGH — from 05-09 pipeline notes]\n- He's now out of contention for Truist title [HIGH — implied by score]\n- McIlroy seeking 5th Truist/Quail Hollow title (wins: 2010, 2015, 2021, 2024) [HIGH — prior research]\n- PGA Championship at Aronimink is his next target (May 14-17) [HIGH — multiple sources]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
