@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-10
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (6 stories), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (25 claims, IMAGE MISSING expected not_started), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 23 items), dashboard (23 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 0 char violations.
+- **Key Stories**: Misiorowski 103.6 mph fastest-ever starter pitches/11 K 6 scoreless vs Yankees (P10), Aaron Judge 383 career HR/15 this season/5th 50-HR season possible/400 club (P9), Cubs 2nd 10-game streak ends Rangers 6-0/still 27-13 NL Central leaders (P8), Braves 26-12 NL East 8.5 games up (P7), Blue Jays 14-1 Angels/Valenzuela 4-for-5 near cycle (P6), Weekend MLB roundup (P4)
+
+## Previous Run
 - **Date**: 2026-05-09
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 1 char violation fixed before compile — S4T1 309→269; 0 after fix), FB posts (6 stories), image concepts (6), image manifest, articles (5), fact-check (IMAGE MISSING expected not_started), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/

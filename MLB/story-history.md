@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-10
+
+### Story 1: Misiorowski Throws Fastest Pitches in MLB History for a Starter — 103.6 MPH
+- **Angle:** NEW STORY. Jacob Misiorowski (Brewers, 24) threw 103.6 mph vs Yankees on May 8 — the fastest pitches ever by a starting pitcher in Statcast era (since 2008). He now owns the 7 fastest pitches by a starter, all in this game. Previous record: Jordan Hicks 103.2 mph (Cardinals, 2022). Line: 6 IP, 0 ER, 2 H, 2 BB, 11 K. Threw 43 pitches at 100+ mph (3rd-most ever in one game, behind Greene's 47 and 44).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Misiorowski next start; Brewers rotation depth; NL Central
+
+### Story 2: Aaron Judge at 383 Career HRs — 400 Club in Sight, 5th 50-HR Season Possible
+- **Angle:** FOLLOW UP. Judge has 15 HRs this season (383 career), on pace for ~64 — would be unprecedented 5th 50-HR season. Needs 17 more for 400 club (60th player ever). Reached 15 HRs in 37 games — fastest Yankee since A-Rod in 2007. Paul Goldschmidt (Yankees 1B) also tracking to 400 this season. Next milestone: HR 384 to tie Harold Baines (69th all-time).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Judge career HR 400; Goldschmidt 400; HR race leaders
+
+### Story 3: Cubs Win Streak Ends — Rangers Shutout 6-0, But Cubs Still 27-13
+- **Angle:** FOLLOW UP. Texas Rangers beat Cubs 6-0 on May 9 at Arlington, ending Chicago's 2nd 10-game win streak of 2026. Jung HR in 2nd; Foscue first career HR in 5th. Cubs held scoreless 4th time. Still 27-13, NL Central leaders. Wrigley 15-game home streak intact (road game). 2nd 10-game streak: first team since 1955 Brooklyn Dodgers to do so through ~40 games.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Cubs home winning streak; NL Central race; rotation depth
+
+### Story 4: Braves 26-12 — NL East Lead at 8.5 Games, Division May Already Be Over
+- **Angle:** FOLLOW UP. Braves 26-12, 8.5-game NL East lead. No other division team above .500. Run differential +79. Expected W-L 27-11. FanGraphs: 95% playoff probability, 81% division. Only NL East team with positive run differential. MLB-leading 5.61 RPG.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Braves NL East title clinch timeline; playoff seeding race
+
+### Story 5: Blue Jays 14-1 Angels — Luis Valenzuela Career-High 4-Hit Game, Near Cycle
+- **Angle:** NEW STORY. Toronto Blue Jays defeated Angels 14-1 on May 9. Luis Valenzuela 4-for-5, 4 RBI, first career four-hit game — one triple short of the cycle. Blue Jays offensive explosion.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Blue Jays AL East positioning; Valenzuela continued development
+
+### Story 6: Weekend MLB Roundup
+- **Angle:** FOLLOW UP. Weekend recap social post: Misiorowski velocity record, Judge 400 HR march, Cubs streak ends, Braves dominance, Blue Jays 14-1. Tier 3 social-only.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Monday MLB action
+
+---
+
 ## 2026-05-09
 
 ### Story 1: Aaron Judge — First to 15 HR, Chasing Career 400 Milestone

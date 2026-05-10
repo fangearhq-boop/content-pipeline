@@ -1,0 +1,302 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-10",
+  "compiled_at": "2026-05-10T10:19:55.886073+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Misiorowski Throws Fastest Pitches in MLB History for a Starter — 103.6 MPH vs. Yankees",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jacob Misiorowski just threw the fastest pitches ever recorded by a starting pitcher in MLB history. 103.6 mph. Seven pitches at 103.2+ mph — all in one game vs the Yankees. 11 K, 6 scoreless innings. That is not human. #Brewers #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 1-2",
+          "text": "For context: the fastest pitch ever by a starter was 103.2 mph (Jordan Hicks, 2022). Misiorowski just threw SEVEN pitches faster than that in a single game. He also threw 43 pitches at 100+ mph — 3rd most ever in one game. #Brewers #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Brewers",
+            "#MLB"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-misiorowski-breaks-starter-velocity-record.html",
+        "headline": "Misiorowski Throws Fastest Pitches in MLB History for a Starter — 103.6 MPH in Dominant Gem vs. Yankees",
+        "word_count": 655
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misiorowski Throws Fastest Pitches in MLB History for a Starter\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Jacob Misiorowski Brewers`\n- **Caption overlay:** \"103.6 MPH / Fastest Pitch by a Starter Ever / Jacob Misiorowski\"\n- **Usage:** X + Facebook\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Milwaukee Brewers pitcher mound`\n- **Caption overlay:** \"HISTORY / Misiorowski Breaks the Velocity Record / 103.6 MPH\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Aaron Judge at 383 Career HRs — On Pace for Historic 2026 Season, 400 Club in Sight",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Aaron Judge has 383 career home runs and 15 already this season. At his current pace, he hits No. 400 sometime this summer — and a 5th career 50-HR season (never been done) is within reach. Oh, and Goldschmidt is also chasing 400 this year. Yankees history incoming. #Yankees #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-aaron-judge-383-career-homers-400-club.html",
+        "headline": "Aaron Judge at 383 Career Home Runs — The 400 Club Is a 2026 Achievement Waiting to Happen",
+        "word_count": 656
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge — 383 Career HRs, 400 Club in Sight\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Aaron Judge Yankees`\n- **Caption overlay:** \"383 AND COUNTING / Aaron Judge / 400 Career HRs This Season?\"\n- **Usage:** X + Facebook\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Aaron Judge home run swing`\n- **Caption overlay:** \"JUDGE MARCHES TO 400 / On Pace for 5th 50-HR Season\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs Win Streak Ends — Rangers Shut Out Chicago 6-0, But Wrigley Wonders Continue",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Rangers held the Cubs scoreless 6-0 on Saturday, ending Chicago's 2nd 10-game win streak of 2026. But the Cubs are still 27-13 and leading the NL Central. The Wrigley streak? Still alive. Hard to be too upset about that. #Cubs #MLB",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-cubs-win-streak-ends-rangers-shutout.html",
+        "headline": "Rangers Shut Out Cubs 6-0, Ending Chicago's Second 10-Game Win Streak — But the Season Story Holds",
+        "word_count": 592
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cubs Win Streak Ends — Rangers 6-0\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Chicago Cubs dugout`\n- **Caption overlay:** \"STREAK OVER / Cubs 27-13 / Still Leading the NL Central\"\n- **Usage:** X + Facebook\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Chicago Cubs Wrigley Field`\n- **Caption overlay:** \"CUBS STILL 27-13 / Streak Ends, Season Continues\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Braves 26-12 — NL East Lead Swells to 8.5 Games, Division May Already Be Over",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Atlanta Braves are 26-12 with an 8.5-game lead in the NL East, and nobody else in the division is above .500. Run differential: +79. FanGraphs gives them a 95% shot at the postseason. The NL East race may already be over. #Braves #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-braves-nl-east-dominance-8-5-game-lead.html",
+        "headline": "Braves Lead the NL East by 8.5 Games — Is the Division Race Already Over in Mid-May?",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves 26-12 — NL East Dominance\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Atlanta Braves celebration`\n- **Caption overlay:** \"8.5 GAMES AHEAD / Atlanta Braves / Is the NL East Already Over?\"\n- **Usage:** X + Facebook\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Atlanta Braves Truist Park`\n- **Caption overlay:** \"BRAVES 26-12 / NL East Runaway / +79 Run Differential\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Blue Jays Rout Angels 14-1 — Valenzuela's Four-Hit Game, Near Cycle",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Toronto Blue Jays dropped 14 runs on the Angels on Saturday. Luis Valenzuela went 4-for-5 with 4 RBI in his first career four-hit game — and came within a triple of the cycle. That's a day at the ballpark. #BlueJays #MLB",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays",
+            "#MLB"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-blue-jays-14-1-angels-valenzuela-four-hit-game.html",
+        "headline": "Blue Jays Rout Angels 14-1 — Valenzuela's Four-Hit Game Nearly Includes a Cycle",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Blue Jays 14-1 Angels — Valenzuela Near Cycle\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Toronto Blue Jays batter`\n- **Caption overlay:** \"14-1 / Blue Jays Explode / Valenzuela 4-for-5 Near Cycle\"\n- **Usage:** X + Facebook\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Blue Jays Rogers Centre`\n- **Caption overlay:** \"OFFENSIVE EXPLOSION / 14-1 Blowout / Valenzuela's Career Night\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Weekend MLB Roundup — Streaks, Records, and Sunday Baseball",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "What a week of baseball: Misiorowski breaks the velocity record for starters (103.6 mph). Judge marches toward 400 career HRs. Cubs hit two 10-game win streaks. Braves run away with the NL East. Blue Jays drop 14 runs on LA. See you Monday. #MLB",
+          "posting_time": "10:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
