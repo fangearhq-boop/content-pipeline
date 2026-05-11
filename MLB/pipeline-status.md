@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-11
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (6 stories), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (27 claims, IMAGE MISSING expected not_started), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 23 items), dashboard (23 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 0 char violations.
+- **Key Stories**: Elly De La Cruz leads all SS in WAR 1.9/10 HR 8 SB first SS since 1900 with early 5HR-5SB (P10), Braves 28-13/6-game streak/NL best (P9), Murakami 15 HR 40 games/White Sox record-breaker (P8), Ramírez 300 SB/291 HR/9 from 300-300 club (P9), Abbott 6 IP shutout Reds 5-0 Astros end 8-game skid (P10), MLB Monday standings roundup (P4)
+
+## Previous Run
 - **Date**: 2026-05-10
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (6 stories), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (25 claims, IMAGE MISSING expected not_started), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 23 items), dashboard (23 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
