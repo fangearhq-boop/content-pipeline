@@ -2220,3 +2220,47 @@
 - **Tier:** 2
 - **Key Facts:** No sunscreen under 6 months (shade + cover); broad-spectrum SPF 15-50 for 6+ months; avoid oxybenzone (hormonal concerns); zinc oxide or titanium dioxide for sensitive skin; apply 1 oz, reapply every 2 hours (40-80 min after swimming); COS elevation ~6,000 ft; UV ~4-5% stronger per 1,000 ft elevation; peak UV 10 AM–4 PM; multi-layer approach: sunscreen + clothing + shade + timing
 - **Follow-Up Opportunities:** Best COS splash pads and outdoor pools guide; UV protective clothing roundup for kids
+
+---
+
+## May 11, 2026
+
+### Story 1: D20 $42.7M DoD Grant — New Douglass Valley K-8 at Air Force Academy
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D20 awarded $42.7M DoD grant for new Douglass Valley K-8 school on USAFA grounds; total project $54.1M; 787 students PK-8; 92,000 sq ft; natural light classrooms, outdoor learning connections; replaces aging facility; serves military families on-base + surrounding community)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** $42.7M DoD grant; $54.1M total project; Academy District 20; Douglass Valley K-8; USAFA (Air Force Academy); 787 students PK-8; 92,000 sq ft; Sources: D20 press release, Colorado Springs Gazette May 11
+- **Follow-Up Opportunities:** Groundbreaking ceremony; school design reveal; military family enrollment guide
+
+### Story 2: CPSC Recall — EEMB USA Lithium Coin Battery Packs (Not Child-Resistant)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CPSC Recall No. 26-465; EEMB USA; ~312,100 lithium coin battery packs; sold on Amazon Aug 2023–Apr 2026; $3-$9; pouches violate Reese's Law — no child-resistant packaging; models: CR2025, CR2032, CR2450, CR2477, CR2016, CR1220, CR1225, CR1616, CR1620, CR1632, CR2025-10; no injuries reported; full refund at eemb.com/recall or info@a2batt.com; coin battery ingestion causes burns within 2 hours)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC Recall No. 26-465; 312,100 units; Amazon Aug 2023–Apr 2026; $3-$9; Reese's Law violation; models CR2025/CR2032/CR2450/CR2477/CR2016/CR1220/CR1225/CR1616/CR1620/CR1632/CR2025-10; refund: eemb.com/recall or info@a2batt.com; Poison Control 1-800-222-1222; Source: cpsc.gov/Recalls
+- **Follow-Up Opportunities:** Coin battery home safety audit guide; Reese's Law explainer
+
+### Story 3: El Paso County Schools Co-Location 2026-27 — James Irwin, East Hills, Orton Academy
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Multiple El Paso County schools relocating or co-locating for 2026-27; James Irwin Elementary [D11 charter] moves to D49 Canada Drive campus for 1-year asbestos abatement renovation; East Hills Academy [new D11 charter] co-occupies Horace Mann Middle School Jul 1, 2026–Jun 30, 2031; Orton Academy [D11 dyslexia charter] moves to Trailblazer Elementary; reported by Colorado Springs Gazette May 11)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts
+- **Tier:** 2
+- **Key Facts:** James Irwin Elementary → D49 Canada Drive campus (remodel year, asbestos abatement); East Hills Academy → Horace Mann MS (co-location Jul 2026–Jun 2031); Orton Academy → Trailblazer Elementary; D11 and D49; d11.org, d49.org; Source: Colorado Springs Gazette May 11
+- **Follow-Up Opportunities:** East Hills Academy enrollment info; Orton Academy Orton-Gillingham method explainer
+
+### Story 4: PPLD Summer Adventure 2026 — "Unearth a Story" Free Reading Program
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Pikes Peak Library District Summer Adventure 2026; free all-ages program; national CSLP theme "Unearth a Story" — dinosaurs, paleontology, archaeology; 30 days of Read/Explore/Create activities; track via game card or Beanstack app at ppld.beanstack.org; milestones + rewards; D11 last day May 22; register at ppld.org)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** PPLD Summer Adventure 2026; free; all ages; "Unearth a Story" theme; 30 days; Read/Explore/Create; ppld.org; Beanstack app; ppld.beanstack.org; D11 last day May 22; Sources: ppld.org, CSLP 2026 theme announcement
+- **Follow-Up Opportunities:** PPLD summer branch events calendar; dinosaur-themed extension activity guide
+
+### Story 5: AAP 2026 Children's Mental Health Framework — 5 Protective Foundations
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (different report from May 9 AAP screen time update; this is AAP clinical report "Framework for Approaching Healthy Mental and Emotional Development in Pediatrics" 2026; proactive vs. reactive approach; 5 protective factors: strong parent-child bond, consistent routines, physical activity, sleep [9-11 hrs elem / 8-10 hrs teens], community connection; children's mental health at "unprecedented high"; COS angle: large military family population, altitude/vitamin D, post-pandemic anxiety/depression)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP 2026 clinical report "Framework for Approaching Healthy Mental and Emotional Development in Pediatrics"; 5 protective factors; sleep: 9-11 hrs elem, 8-10 hrs teens; COS military family population; Sources: AAP clinical report 2026, HealthyChildren.org
+- **Follow-Up Opportunities:** COS mental health resources guide for families; community connection opportunities in Colorado Springs

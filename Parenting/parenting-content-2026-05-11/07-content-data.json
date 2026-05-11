@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-11",
+  "compiled_at": "2026-05-11T12:58:45.708921+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D20 Lands $42.7M Federal Grant — New Douglass Valley K8 Coming to Air Force Academy (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D20 is getting a new school.\n\nThe DoD awarded D20 a $42.7M grant for a new Douglass Valley K-8 at the Air Force Academy. 787 students. 92,000 sq ft. Natural light, outdoor connections.\n\nBig win for COS families. 🏫 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The new Douglass Valley K-8 at the Air Force Academy is a $54.1M project — $42.7M from the DoD, the rest from D20.\n\n787 students PK-8. Modern design. Expected to serve families on base and in the community.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d20-dod-grant-douglass-valley-k8-school.html",
+        "headline": "D20 Wins $42.7M Federal Grant for New Douglass Valley K-8 School at Air Force Academy",
+        "word_count": 464
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 New School Grant\n\n**S1-IMG-A** | Social 1200x675 | Gemini base_only\n- Prompt: Modern elementary school building exterior bathed in bright Colorado morning light, surrounded by snow-capped mountains in the background. Clean architecture with large windows, green landscaping, a welcoming entrance, warm natural colors. Clear blue Rocky Mountain sky. School feels bright, modern, and hopeful. Clean visual space in the bottom third for text overlay.\n- Mood: Hopeful, civic pride, bright future\n- Style: Photorealistic, architectural photography aesthetic\n\n**S1-IMG-B** | Article Hero 1200x675 | Gemini base_only\n- Prompt: Two elementary-school-aged children (diverse, one girl, one boy) sitting at desks in a sunlit classroom with large windows overlooking mountains. Kids are engaged in a project, smiling. Warm natural light fills the room. Clean modern classroom design with natural wood accents. Bottom third has open desk surface space for text overlay.\n- Mood: Academic, community, bright future\n- Style: Lifestyle photography, warm and inviting\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recall — EEMB USA Battery Packs (312,100 Units, Amazon) (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "⚠️ RECALL: 312,100 EEMB coin battery packs sold on Amazon lack child-resistant packaging.\n\nCoin batteries swallowed by kids cause severe burns within 2 hours.\n\nStop using. Refund at eemb.com/recall. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Check your junk drawer.\n\nBought EEMB coin batteries on Amazon? Recalled — 312,100 packs. Not child-resistant.\n\nFull refund: info@a2batt.com #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-eemb-usa-coin-battery-recall-cpsc.html",
+        "headline": "CPSC Recall: EEMB USA Coin Battery Packs — 312,100 Units Sold on Amazon Not Child-Safe",
+        "word_count": 460
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "EEMB Battery Recall\n\n**S2-IMG-A** | Social 1200x675 | Gemini base_only\n- Prompt: Close-up of a variety of small silver coin/button batteries scattered on a white surface, clearly visible with no child-resistant packaging. One small child's hand (age 2-3) reaching toward the batteries from the left edge — parent's hand stopping the child gently. Urgent, safety-focused composition. Clean white background with plenty of space in the bottom third for text overlay. No logos or branding.\n- Mood: Safety alert, urgent but not panic\n- Style: Clean, editorial product safety photography\n\n**S2-IMG-B** | Social 1200x675 | Gemini base_only\n- Prompt: A home junk drawer open showing various household batteries, remotes, and small items. A parent's hand reaching in, picking up a small coin battery package. Soft home interior lighting. Warm, lived-in kitchen setting. Bottom third is the drawer surface — clear space for text. No branding visible on products.\n- Mood: Relatable home safety awareness\n- Style: Lifestyle photography, warm household setting\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Schools on the Move in El Paso County — Co-Location News for 2026-27 (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "COS school shuffle for 2026-27:\n\n📍 James Irwin Elem → D49 campus (remodel year)\n📍 East Hills Academy → Horace Mann MS (co-location)\n📍 Orton Academy → Trailblazer Elem\n\nContact your school for details. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cos-schools-co-location-2026-27.html",
+        "headline": "COS Schools Shift: Charter and District Schools Co-Locating Across El Paso County in 2026-27",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Co-Location Schools\n\n**S3-IMG-A** | Social 1200x675 | Gemini base_only\n- Prompt: A diverse group of elementary school children with backpacks walking through a school hallway, seen from behind. Bright, clean school corridor with lockers and doors. Warm autumn sunlight streaming through windows. Children of various ages and backgrounds. Clean visual space along the floor of the hallway for text overlay.\n- Mood: Community, transition, optimistic\n- Style: Editorial school photography, documentary feel\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "PPLD Summer Adventure 2026 — \"Unearth a Story\" Starting Soon (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "PPLD's 2026 Summer Adventure is free — theme: \"Unearth a Story\" 🦕\n\n30 days of Read, Explore, or Create. Register at ppld.org or the Beanstack app.\n\nD11's last day is May 22. Sign up now. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ppld-summer-adventure-2026-unearth-story.html",
+        "headline": "PPLD Summer Adventure 2026: Free \"Unearth a Story\" Program — Register at ppld.org",
+        "word_count": 508
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PPLD Summer Reading\n\n**S4-IMG-A** | Social 1200x675 | Gemini base_only\n- Prompt: A young child (age 6-8, diverse) lying on grass in a sunny Colorado backyard reading a picture book about dinosaurs. The book has illustrated dinosaurs visible on the cover — no words or logos. Summer sunshine, lush green grass, and blue Colorado sky. Child looks completely absorbed and happy. Clear visual space in the bottom right corner for text overlay.\n- Mood: Joyful, summer, curiosity, literacy\n- Style: Warm lifestyle photography\n\n**S4-IMG-B** | Social 1200x675 | Gemini base_only\n- Prompt: Friendly illustrated scene of a cartoon dinosaur sitting in a library chair reading a large book, surrounded by bookshelves full of colorful books. Bright, playful colors — purples, oranges, teals. No text or logos anywhere in the image. The dinosaur looks delighted and curious. Clean space at the bottom for text overlay.\n- Mood: Playful, educational, kid-friendly\n- Style: Flat illustration, children's book art aesthetic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "AAP 2026 — New Guidance on Children's Mental and Emotional Health (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The AAP's 2026 framework is clear: build kids' mental health before the crisis.\n\nFive foundations: parent-child bond, routines, physical activity, sleep, community.\n\nCOS parents — which feels strongest for your family? #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-aap-2026-childrens-mental-health-framework.html",
+        "headline": "AAP's 2026 Blueprint for Kids' Mental Health: Build the Foundation Before the Crisis",
+        "word_count": 720
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Mental Health\n\n**S5-IMG-A** | Social 1200x675 | Gemini base_only\n- Prompt: A parent (gender-neutral adult) and a school-age child (age 8-10) sitting side by side on a front porch step, looking out at a neighborhood street together. Both are relaxed and comfortable. Early evening warm light. Diverse representation. Child leans slightly toward the adult. No phones or devices visible. Clean visual space on the porch surface in the bottom third for text overlay.\n- Mood: Connection, warmth, present-moment parenting\n- Style: Lifestyle photography, authentic and unposed\n\n**S5-IMG-B** | Social 1200x675 | Gemini base_only\n- Prompt: A family of four (parents and two children, diverse) walking together on a Colorado mountain trail surrounded by pine trees and wildflowers. Everyone is smiling and energized. Morning light. The children are running slightly ahead of the parents, full of energy. Clean open sky in the background upper third, open path in the bottom third for text overlay.\n- Mood: Joyful family, active, Colorado outdoor lifestyle\n- Style: Active lifestyle photography"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
