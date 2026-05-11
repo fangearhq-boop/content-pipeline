@@ -1,8 +1,19 @@
 ## Last Run
-- **Date**: 2026-05-10
+- **Date**: 2026-05-11
 - **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-11
+- **Steps completed:** 1-10b, 12-15 (Full pipeline)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-05-11.xlsx (7 posts) + hh-postplanner-tobi-2026-05-11.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-11/review-dashboard.html (27 items)
+- **Notes:** Knicks 144-114 76ers G4 SWEEP — McBride 25 pts (7-9 3P), 4 3s in Q1 (first Knick since 1997 play-by-play), 11 3s in Q1 (tied NBA playoff record), Brunson 22/Hart 17/KAT 17, Knicks advance to ECF. Wemby first career ejection (Flagrant 2 elbow to Naz Reid face/neck, early Q2, earliest All-Star ejected in playoffs since 1997), Wolves 114-109 Spurs, series tied 2-2, Edwards 36/16 in Q4. Tonight (May 11): Pistons-Cavs G4 8pm ET NBC (DET leads 2-1) + Thunder-Lakers G4 10:30pm ET Prime (OKC leads 3-0, 7-0 overall). Wemby suspension watch for G5.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-10
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)

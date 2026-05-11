@@ -1653,3 +1653,42 @@
 - **Key facts:** Thunder lead 2-0. Game 3: May 9, 8:30 PM ET, ABC, Crypto.com Arena. SGA 18 G1/22 G2. Holmgren 24/12/3 G1, 22/9/4stl G2. LeBron 27 G1, 23 G2. Reaves 31 G2 (10-16 FG). Luka Doncic still no contact clearance.
 - **Status:** FOLLOW UP (from 2026-05-08)
 - **Follow-up ideas:** Game 3 result tonight
+
+---
+
+## 2026-05-11
+
+### STORY 1: Knicks 144-114 76ers Game 4 — McBride's Record Quarter, New York Sweeps Series 4-0
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Sweep
+- **Key facts:** Knicks 144, 76ers 114 (Game 4, May 10, Wells Fargo Center). SWEEP 4-0. McBride 25 pts (7-9 from 3), 4 3s in Q1 (first Knick since 1997 play-by-play era). Knicks tied NBA playoff record: 11 3s in Q1. 25 total 3s. Brunson 22. Hart 17. KAT 17. 7th double-digit playoff win. Knicks advance to ECF.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** ECF matchup vs. Cavs/Pistons winner; McBride breakout analysis
+
+### STORY 2: Wembanyama Ejected First Career, Wolves Rally to Win 114-109, Series Tied 2-2
+- **Tier:** 1
+- **Category:** Playoff Results / Controversy / Comeback
+- **Key facts:** Wolves 114, Spurs 109 (Game 4, May 11, Target Center). Series tied 2-2. Wemby: Flagrant 2 ejection (elbow to Naz Reid face/neck), 4 pts 13 min — earliest All-Star ejected in playoff since 1997 (ESPN Research). Edwards: 36 pts (13-22 FG, 3-5 3P, 7-8 FT), 6 reb — 16 in Q4. Spurs led by 8 in Q4; Wolves outscored SA 28-15 final 8:51. Wemby suspension watch for G5 in San Antonio.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** Wemby suspension ruling; Game 5 result; Edwards scoring list milestone
+
+### STORY 3: Pistons vs. Cavaliers Game 4 Tonight — Cleveland Fights to Even Series
+- **Tier:** 2
+- **Category:** Game Preview
+- **Key facts:** Game 4: May 11, 8:00 PM ET, NBC/Peacock, Rocket Mortgage FieldHouse. Pistons lead 2-1. Mitchell 35/2000 pts in G3 for CLE. Harden clutch late. Cade 23/7 G1, 25/10 G2 for DET.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** Game 4 result
+
+### STORY 4: Thunder vs. Lakers Game 4 Tonight — OKC One Win From Sweep
+- **Tier:** 2
+- **Category:** Game Preview / Series Clincher
+- **Key facts:** Game 4: May 11, 10:30 PM ET, Prime Video, Crypto.com Arena. OKC leads 3-0, 7-0 overall in 2026 playoffs. LeBron averaging 21 pts. Luka uncleared (Grade 2 hamstring). OKC won G1 108-90, G2 125-107, G3 131-108.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** Sweep confirmation; LeBron final game?
+
+### STORY 5: 2026 Playoff Bracket Update — Knicks Waiting, Wemby Suspension Watch, WCF Taking Shape
+- **Tier:** 2
+- **Category:** Playoff Landscape / Analysis
+- **Key facts:** Knicks in ECF, waiting. Wolves-Spurs tied 2-2 + Wemby suspension cloud. OKC favored to sweep tonight. Edwards surpassed Dwyane Wade on postseason scoring list (G4 performance).
+- **Status:** NEW STORY
+- **Follow-up ideas:** WCF matchup confirmed; Wemby ruling
