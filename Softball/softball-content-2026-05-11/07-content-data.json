@@ -1,0 +1,318 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-11",
+  "compiled_at": "2026-05-11T10:21:28.968622+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Alabama Earns No. 1 Overall Seed — First Time in 16 Years, Despite Losing SEC Final to Texas",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Alabama is the No. 1 overall seed in the 2026 NCAA Softball Tournament. Yes — even after losing to Texas 7-1 in the SEC title game. A 49-7 record, 22 shutouts, and the nation's 2nd-best ERA lock in the top spot. First No. 1 seed in 16 years. #RollTide #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#CollegeSoftball"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The committee's message: one loss doesn't define a 49-7 season. Alabama beat Top 10 opponents in back-to-back tournament days before the title game. The No. 1 seed was theirs before Saturday's final even started. Body of work wins. #RollTide #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#CollegeSoftball"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-alabama-earns-no-1-overall-seed-ncaa-softball-tournament.html",
+        "headline": "Alabama Earns No. 1 Overall Seed in NCAA Softball Tournament — First Time in 16 Years Despite SEC Final Loss",
+        "word_count": 647
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Earns No. 1 Overall Seed Despite SEC Title Loss\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Alabama Crimson Tide softball pitcher`\n- **Caption overlay:** \"NO. 1 OVERALL / NCAA Tournament 2026 / Alabama Softball\"\n- **Usage:** X + Facebook\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Alabama softball team celebration`\n- **Caption overlay:** \"NO. 1 SEED / Alabama Earns Top Spot / First Time in 16 Years\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "SEC Lands 6 of Top 8 Seeds — Conference Dominance Reshapes Entire Bracket",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "SEC softball just took over the bracket. Six of the top 8 national seeds are from the SEC: Alabama (1), Texas (2), Oklahoma (3), Arkansas (5), Florida (6), Tennessee (7). The conference is not done. #CollegeSoftball #SECSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#SECSoftball"
+          ],
+          "char_count": 228
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The SEC put 12 of its 15 programs into the 2026 NCAA Softball Tournament field. That's not dominance — that's a takeover. Six of the top 8 seeds. All the top four host sites are in the SEC footprint. #CollegeSoftball #SECSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#SECSoftball"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-sec-dominates-ncaa-softball-bracket-six-top-eight-seeds.html",
+        "headline": "SEC Lands Six of Top 8 Seeds in 2026 NCAA Softball Bracket — Conference Dominance Reshapes Tournament",
+        "word_count": 615
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SEC Lands 6 of Top 8 Seeds\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `SEC softball tournament players`\n- **Caption overlay:** \"6 OF TOP 8 / SEC Dominates / 2026 NCAA Bracket\"\n- **Usage:** X + Facebook\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `softball players batting SEC`\n- **Caption overlay:** \"SEC TAKEOVER / 6 of Top 8 National Seeds / Conference Dominance\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Oklahoma Is No. 3 Seed — Sooners' Historic Offense Earns Home Seed, Norman Regional Set",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Oklahoma earned the No. 3 national seed and hosts the Norman Regional. The Sooners enter the tournament with the nation's best batting average (.389) and 174 team home runs. 48-8 on the season. The most dangerous offense in college softball is hosting. #Sooners #CollegeSoftball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-oklahoma-no-3-seed-norman-regional-ncaa-softball-2026.html",
+        "headline": "Oklahoma Earns No. 3 Seed, Hosts Norman Regional — Sooners Enter NCAA Tournament With Nation's Most Dangerous Offense",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma No. 3 Seed — Norman Regional\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Oklahoma Sooners softball batter`\n- **Caption overlay:** \"NO. 3 SEED / Norman Regional Hosts / .389 Team Batting Average\"\n- **Usage:** X + Facebook\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Oklahoma softball celebration`\n- **Caption overlay:** \"SOONERS HOST / No. 3 Seed Norman Regional / Nation's Best Offense\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "2026 NCAA Softball Regionals Preview — 16 Sites, All Plays Start Friday May 15",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "16 regional sites. 64 teams. The road to OKC starts Friday. 2026 NCAA Softball Tournament regionals open May 15-17 at all 16 host sites. Top seeds at home: Alabama (Tuscaloosa), Texas (Austin), Oklahoma (Norman), Nebraska (Lincoln). Let's go. #CollegeSoftball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-2026-ncaa-softball-regionals-preview-16-sites-road-to-wcws.html",
+        "headline": "2026 NCAA Softball Regionals Preview — 16 Sites, All Play Starts Friday, Road to Devon Park Begins Now",
+        "word_count": 742
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Full 2026 NCAA Softball Regionals Preview\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `NCAA softball tournament stadium`\n- **Caption overlay:** \"ROAD TO OKC / 16 Regionals Open Friday / 2026 NCAA Tournament\"\n- **Usage:** X + Facebook\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `softball WCWS Devon Park crowd`\n- **Caption overlay:** \"REGIONALS PREVIEW / 64 Teams, 16 Sites / May 15-17\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Texas Is No. 2 Seed, Hosts Austin Regional — SEC Champions Rewarded With Home Field",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Texas is the No. 2 national seed and hosts the Austin Regional. After winning the first SEC Tournament title in program history, the Longhorns get to play May 15-17 in front of their home crowd. Texas vs. Wagner | Wisconsin vs. Baylor. #HookEm #CollegeSoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-texas-no-2-seed-hosts-austin-regional-ncaa-softball-2026.html",
+        "headline": "Texas Earns No. 2 Seed, Hosts Austin Regional — SEC Champions Get Home-Field Reward for Historic Season",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas No. 2 Seed — Austin Regional\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Texas Longhorns softball batting`\n- **Caption overlay:** \"NO. 2 SEED / Austin Regional Hosts / Texas Softball\"\n- **Usage:** X + Facebook\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Texas softball team dugout`\n- **Caption overlay:** \"SEC CHAMPS HOST / Texas Is No. 2 Seed / Austin Regional May 15\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Nebraska's No. 4 Seed — Big Ten Champions Host Lincoln Regional After Historic Season",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Nebraska is the No. 4 national seed. The Huskers go 45-6, win the Big Ten title, host a WCWS record home-run moment from Megan Grant — and earn home games in Lincoln to start NCAA play. Big Ten's best is ready. #Huskers #CollegeSoftball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#CollegeSoftball"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
