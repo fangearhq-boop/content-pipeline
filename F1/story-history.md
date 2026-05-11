@@ -1477,3 +1477,42 @@
 - **Key facts:** Verstappen 7th/26 pts/74 behind Antonelli. Exit clause reported: top-3 at summer break. Red Bull halved weight deficit at Miami (~30kg to ~15kg over 768kg min). Full fix targeted for summer. Canada sprint = extra pts opportunity.
 - **Status:** FOLLOW UP (from 2026-05-07)
 - **Follow-up ideas:** Canada performance; summer chassis update; exit clause activation
+
+---
+
+## 2026-05-11
+
+### STORY 1: Antonelli at 100 Points — First Driver in F1 History to Win First 3 Starts From Pole
+- **Tier:** 1
+- **Category:** Championship Analysis / Historic Record
+- **Key facts:** Antonelli (19) leads WDC with 100 pts — 20 ahead of Russell (80). Won China, Japan, Miami from pole. First driver ever to win first 3 starts from pole. Youngest WDC leader in F1 history. Canada GP (May 22-24) next — sprint weekend. Standings: Antonelli 100, Russell 80, Leclerc 59, Norris 51, Hamilton 51, Piastri 43.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** Canada GP result; title gap analysis
+
+### STORY 2: Red Bull Crisis Deepens — RB22 Chassis the Problem, Verstappen Exit Clause Ticking
+- **Tier:** 1
+- **Category:** Team Crisis / Driver Contract
+- **Key facts:** Verstappen 7th (26 pts), 74 behind Antonelli. RB22 chassis "primary weakness." Horner sacked after 2025 British GP. Mintzlaff now in charge. Verstappen exit clause: not top-2 by Hungarian GP (July 24-26) = departure window. Sources: leans toward sabbatical not retirement. Potential Mercedes deal: $80-90M/yr. Red Bull halved weight deficit at Miami.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** Hungary GP threshold; Verstappen announcement
+
+### STORY 3: Canada GP Sprint Weekend Preview — May 22-24 Circuit Gilles-Villeneuve
+- **Tier:** 2
+- **Category:** Race Preview
+- **Key facts:** Circuit Gilles-Villeneuve Montreal. Sprint race Sat 12:00 PM, qualifying Sat 16:00, race Sun 70 laps/4.361 km. McLaren and Mercedes bringing upgrades. Championship context: Antonelli leading, Verstappen needs points.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** Canada GP result
+
+### STORY 4: Cadillac F1 Debut — Four Races In, Zero Points, Maximum Effort
+- **Tier:** 2
+- **Category:** Team Analysis / New Entrant
+- **Key facts:** 11th team, customer Ferrari PU. Bottas + Perez. No points after 4 rounds. Bottas P13 best. Perez finished all 4 races + sprint (P16 Miami). Development race vs. Aston Martin. Perez targeting points by summer break.
+- **Status:** NEW STORY
+- **Follow-up ideas:** First points milestone
+
+### STORY 5: F1 2027 Driver Market — Norris/Piastri Set, Verstappen the Wildcard
+- **Tier:** 2
+- **Category:** Driver Market Feature
+- **Key facts:** Norris contracted McLaren through 2027. Piastri through 2028. Verstappen exit clause summer break = domino effect. Mercedes-Verstappen deal: $80-90M/yr. Wolff has publicly pursued 2+ seasons.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Verstappen announcement post-Hungary
