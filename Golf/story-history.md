@@ -349,3 +349,42 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 | 2026-05-09 | T1 | PGA Championship Preview — Aronimink Golf Club, Newtown Square PA, May 14-17; Scheffler skipped Truist to prep; McIlroy (defending Masters champ) firing well at Truist; Rahm/DeChambeau in field; Donald Ross design, last PGA there 1962 (Gary Player); 154-player field, 29 major champions | X, FB, Article | FOLLOW-UP from May 8 |
 | 2026-05-09 | T2 | McIlroy Quail Hollow record bid — now 5-under, 4 shots back after 67 in R2; 4 wins at Quail Hollow (2010/2015/2021/2024); no player has won 5 times; gap cut from 7 to 4 shots overnight; Scheffler absent means wide-open field | X, FB, Article | FOLLOW-UP from May 8 |
 | 2026-05-09 | T2 | Nelly Korda HOF Countdown — 23/27 LPGA HOF points (4 away); 18 career wins; youngest American to 18 wins since Nancy Lopez 1980; next event Kroger Queen City Cincinnati May 14-17; win = +2 pts (reaches 25); major win = +3 pts | X, FB, Article | FOLLOW-UP from May 8 |
+
+---
+
+## 2026-05-11
+
+### STORY 1: Kristoffer Reitan Wins 2026 Truist Championship — First PGA Tour Win in 15th Start
+- **Tier:** 1
+- **Category:** Tournament Results / Breakthrough Win
+- **Key facts:** Reitan (28, Norway) wins at 15-under 269 (final round 2-under 69). Beat Rickie Fowler and Nicolai Hojgaard by 2. Alex Fitzpatrick 4th. $3.6M prize from $20M purse. McIlroy shot final-round 67 to rebound (finished ~T19). Cameron Young shot 63 in R3 but couldn't catch Reitan.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** PGA Championship field; Young major bid
+
+### STORY 2: Lucas Herbert Wins LIV Golf Virginia Wire-to-Wire — 4 Aces GC Third Team Title
+- **Tier:** 1
+- **Category:** Tournament Results / LIV Golf
+- **Key facts:** Herbert wins wire-to-wire at 24-under (final 69), fighting flu all week, beats field by 4. Garcia T2. Team: 4 Aces GC wins playoff over Fireballs (both 49-under); Anthony Kim shoots bogey-free 10-under 62 to force playoff; 4 Aces win on first hole. Third team title of 2026 for 4 Aces.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** LIV standings update
+
+### STORY 3: PGA Championship 2026 Preview — McIlroy Grand Slam Bid, Scheffler Defends at Aronimink
+- **Tier:** 1
+- **Category:** Major Championship Preview
+- **Key facts:** Aronimink Golf Club, Newton Square PA, May 14-17. Par 70, 7600 yds, Donald Ross design, 75 bunkers. McIlroy: defended Masters (first since Tiger 2002), ONLY Grand Slam shot. Scheffler: defending PGA champ, 3 runner-ups in 2026, skipped Truist to prep. Cameron Young: Players + Doral wins, yet to win major. Fitzpatrick: 3 wins in 4 starts. LIV (DeChambeau, Rahm, Johnson) in field.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** Round 1 results; McIlroy Grand Slam narrative
+
+### STORY 4: Brandt Snedeker Wins Myrtle Beach Classic — First Win in Nearly 8 Years
+- **Tier:** 2
+- **Category:** Tournament Results / Comeback Story
+- **Key facts:** Snedeker wins 2026 ONEflight Myrtle Beach Classic at 18-under 266 (closing 66). 43 years old. First win since ~2018 (~8 years). 10th career PGA Tour win. Earns PGA Championship spot at Aronimink this week. Aaron Rai led after R2. Hossler + Roy T3.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Snedeker PGA Championship result
+
+### STORY 5: Nelly Korda HOF Countdown — 4 Points Away, Queen City Championship This Week
+- **Tier:** 2
+- **Category:** LPGA Preview / HOF Watch
+- **Key facts:** Korda 23/27 HOF points (4 away). Kroger Queen City Championship May 14-17 at Maketewah CC Cincinnati. Jeeno Thitikul (No. 1) and Korda (No. 2) both in field. Korda has 3 LPGA wins in 2026. Charley Hull + Lydia Ko also in field.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** Queen City result; HOF milestone
