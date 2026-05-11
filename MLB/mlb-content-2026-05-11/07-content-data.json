@@ -1,0 +1,301 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-11",
+  "compiled_at": "2026-05-11T10:33:07.864232+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Elly De La Cruz's Historic 5-Tool Emergence — Leading All MLB Shortstops in WAR",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Elly De La Cruz leads all MLB shortstops in WAR this season. He's 24, slashing .265/.337/.510 with 10 HR and 8 stolen bases — and was the first SS since 1900 to reach 5 HR + 5 SB in 16 games. Sunday: 3 hits, 2 runs scored in a 5-0 Reds win. The emergence is real. #Reds",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The case for Elly De La Cruz as the NL's best shortstop: 10 HR, 8 SB, 94.4 mph avg exit velocity, 1.9 WAR (leads all SS). He's ahead of Bobby Witt Jr. in WAR. At 24, he may not have peaked yet. #Reds #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-elly-de-la-cruz-historic-5-tool-season-reds-2026.html",
+        "headline": "Elly De La Cruz Is Becoming a 5-Tool Force — Leading All MLB Shortstops in WAR in 2026",
+        "word_count": 659
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Elly De La Cruz — Historic 5-Tool Emergence\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Elly De La Cruz Cincinnati Reds`\n- **Caption overlay:** \"BEST SS IN THE NL / Elly De La Cruz / 10 HR · 8 SB · 1.9 WAR\"\n- **Usage:** X + Facebook\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Elly De La Cruz batting`\n- **Caption overlay:** \"5-TOOL EMERGENCE / De La Cruz Leads All SS in WAR / .265/.337/.510\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Braves Win 6th Straight, Lead NL East at 28-13 — Elder Strikes Out Six, Olson Three RBI",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Braves just won their 6th in a row. Bryce Elder: 6 K in 6.2 IP. Matt Olson: 3 RBI. Atlanta is now 28-13 — the best record in the NL. They're not slowing down. #Braves #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 175
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-braves-28-13-six-game-win-streak-nl-east-dominance.html",
+        "headline": "Braves Win 6th Straight, Reach 28-13 — Atlanta Running Away With NL East Behind Elder, Olson",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves Win 6th Straight, 28-13\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Matt Olson Atlanta Braves`\n- **Caption overlay:** \"6-GAME WIN STREAK / Atlanta Braves / 28-13, Best in NL\"\n- **Usage:** X + Facebook\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Atlanta Braves celebration team`\n- **Caption overlay:** \"BRAVES ROLL / 28-13, NL's Best / Six Wins in a Row\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Munetaka Murakami's Record-Breaking HR Season Continues — 15 HRs in 40 Games",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Munetaka Murakami has 15 home runs in his first 40 MLB games. He set the record for most career HRs before hitting a first double or triple. He's hit HRs in the first game of multiple consecutive series. The White Sox signed him for $34M. They got a bargain. #WhiteSox #MLB",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-munetaka-murakami-15-home-runs-white-sox-record-season.html",
+        "headline": "Munetaka Murakami Has 15 Home Runs in 40 Games — The White Sox's Record-Breaking Rookie Is Just Getting Started",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murakami — Record HR Season\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Munetaka Murakami Chicago White Sox`\n- **Caption overlay:** \"15 HOME RUNS / 40 Games / Murakami Makes History\"\n- **Usage:** X + Facebook\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Chicago White Sox batter`\n- **Caption overlay:** \"THE RECORD BREAKER / Murakami's Historic HR Pace / White Sox 2026\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "José Ramírez Has 300 Stolen Bases — Now 9 HRs From Joining 300-300 Club",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "José Ramírez now has 300 career stolen bases — only the 2nd player in Cleveland history to do it (after Kenny Lofton). He also has 291 career home runs. Nine more HRs and he joins Willie Mays, Barry Bonds, and Alex Rodriguez in the 300-300 club. #Guardians #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#MLB"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-jose-ramirez-300-stolen-bases-300-300-club.html",
+        "headline": "José Ramírez Steals No. 300 — Nine Home Runs Away From Baseball's Elite 300-300 Club",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ramírez — 300-300 Club Chase\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Jose Ramirez Cleveland Guardians`\n- **Caption overlay:** \"300 STEALS / 291 HR / Nine Away From 300-300 Club\"\n- **Usage:** X + Facebook\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Jose Ramirez third base`\n- **Caption overlay:** \"HISTORY CALLS / Ramírez Approaching 300-300 Club / 9 HRs Away\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Andrew Abbott Shuts Out Astros 5-0 — Reds End 8-Game Skid, Win Houston Series",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Andrew Abbott: 6 IP, 3 H, 5 K, 1 BB. The Reds shut out the Astros 5-0 Sunday, ending an 8-game losing streak. Three perfect innings to close from the bullpen. Elly De La Cruz went 3-for-3. Spencer Steer homered. Cincinnati is back in business. #Reds #MLB",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-andrew-abbott-reds-shut-out-astros-5-0-end-losing-streak.html",
+        "headline": "Andrew Abbott Shuts Out Astros as Reds End 8-Game Losing Streak — De La Cruz Goes 3-for-3 in 5-0 Win",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Reds 5-0 Astros — Abbott Gem\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Andrew Abbott Cincinnati Reds pitcher`\n- **Caption overlay:** \"SHUTOUT GEM / Andrew Abbott / Reds 5-0 Astros\"\n- **Usage:** X + Facebook\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Cincinnati Reds pitcher mound`\n- **Caption overlay:** \"8-GAME SKID OVER / Abbott Delivers / Reds Shut Out Astros 5-0\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "MLB Monday Check-In — Power Rankings, Standings Snapshot, Week Ahead",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Monday MLB snapshot: Braves 28-13 (NL East, 6-game streak). Cubs 27-13 (NL Central, first team since 1935 with two 10-game win streaks in one season). AL remains historically tight. It's the NL's world right now. #MLB",
+          "posting_time": "10:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
