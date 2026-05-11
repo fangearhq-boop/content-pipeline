@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-11
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations after S1-T1 fix 287→268), FB posts (6 stories), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (97 claims, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 0 char violations after fix (S1-T1 287→268).
+- **Key Stories**: Alabama No. 1 overall seed first time in 16 years despite SEC title loss to Texas (P10), SEC gets 6 of top 8 seeds/12 of 15 teams in field (P10), Oklahoma No. 3 seed Norman Regional/.389 BA leads nation (P9), Full 2026 NCAA regionals preview 16 sites May 15-17 (P10), Texas No. 2 seed hosts Austin Regional first time (P9), Nebraska No. 4 seed Lincoln Regional (P4)
+
+## Previous Run
 - **Date**: 2026-05-10
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (93 claims, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
