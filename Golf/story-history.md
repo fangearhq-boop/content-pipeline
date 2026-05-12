@@ -388,3 +388,42 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Korda 23/27 HOF points (4 away). Kroger Queen City Championship May 14-17 at Maketewah CC Cincinnati. Jeeno Thitikul (No. 1) and Korda (No. 2) both in field. Korda has 3 LPGA wins in 2026. Charley Hull + Lydia Ko also in field.
 - **Status:** FOLLOW UP (from 2026-05-10)
 - **Follow-up ideas:** Queen City result; HOF milestone
+
+---
+
+## 2026-05-12
+
+### STORY 1: PGA Championship Preview — McIlroy Chases Back-to-Back Majors, Scheffler Defends
+- **Tier:** 1
+- **Category:** Major Championship Preview
+- **Key facts:** PGA Championship May 14-17, Aronimink Golf Club, Newtown Square PA. Par 70, ~7,394 yds, Donald Ross design (176 bunkers, bentgrass). McIlroy won 2026 Masters (6th major) — seeking first two majors of year since Spieth 2015. Scheffler defending champion (3 runner-ups in 2026). Cameron Young World No. 3. 154 players, 29 major champs, 11 LIV players.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** R1 results Thursday; McIlroy rounds
+
+### STORY 2: Cameron Young's PGA Championship Moment — World No. 3, Two Wins, Zero Majors
+- **Tier:** 1
+- **Category:** Player Feature / Major Championship
+- **Key facts:** Won Players Championship (dramatic 17th birdie, Fitzpatrick bogey 18th) + Cadillac Championship at Doral (wire-to-wire, 19-under, 6 clear of Scheffler). World No. 3. Zero major wins. PGA Championship is best chance yet. Approach play projected key stat at Aronimink.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** Young's PGA Championship result
+
+### STORY 3: Nelly Korda 4 Points From LPGA Hall of Fame — Queen City Preview
+- **Tier:** 2
+- **Category:** LPGA / HOF Watch
+- **Key facts:** Korda 23/27 HOF points (4 away). Kroger Queen City Championship May 14-17, Maketewah CC, Cincinnati. 3 wins in 2026 (TOC + Chevron + Riviera Maya). Youngest American to 18 LPGA wins since Nancy Lopez 1980. Win = +1 pt (24/27). Thitikul, Hull, Ko also in field.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** Queen City result; HOF milestone
+
+### STORY 4: Reitan's Truist Win Opens PGA Field — From Quail Hollow to Aronimink
+- **Tier:** 2
+- **Category:** Tournament Recap / PGA Championship Context
+- **Key facts:** Reitan (28, Norway) wins Truist Championship at 15-under 269, final round 2-under 69. Beat Fowler and Hojgaard by 2. First win in 15th start. $3.6M. McIlroy T19 (final-round 67). Young shot 63 in R3. Earned PGA Championship spot.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** Reitan Aronimink debut result
+
+### STORY 5: LIV's PGA Championship Contingent — Rahm, DeChambeau, Herbert, Johnson
+- **Tier:** 2
+- **Category:** LIV Golf / Major Championship
+- **Key facts:** 11 LIV players at PGA Championship. Rahm leads LIV standings (779 pts, 2 wins). DeChambeau 476.90 pts (cleared after wrist injury). Herbert won LIV Virginia last week (24-under fighting flu), earned US Open spot at Shinnecock Hills. DJ in field.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** LIV player results at PGA Championship
