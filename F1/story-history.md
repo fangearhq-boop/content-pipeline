@@ -1516,3 +1516,42 @@
 - **Key facts:** Norris contracted McLaren through 2027. Piastri through 2028. Verstappen exit clause summer break = domino effect. Mercedes-Verstappen deal: $80-90M/yr. Wolff has publicly pursued 2+ seasons.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Verstappen announcement post-Hungary
+
+---
+
+## 2026-05-12
+
+### STORY 1: Antonelli on Course for Youngest F1 Champion — History in His Hands
+- **Tier:** 1
+- **Category:** Championship Analysis / Historic Record
+- **Key facts:** Antonelli (19) leads WDC 100 pts. Russell 80, Leclerc 59, Norris 51, Hamilton 51, Piastri 43, Verstappen 26. First driver to win first 3 starts from pole. Youngest WDC leader ever. Strongest points-scoring start in 10 years. On pace to be first teenager to win F1 title. Vettel record: 23 yr 134 days (2010).
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** Canada GP result; title gap at summer break
+
+### STORY 2: Red Bull Eyes Piastri as Verstappen Replacement — Biggest Driver Market Domino
+- **Tier:** 1
+- **Category:** Driver Market / Team Strategy
+- **Key facts:** Red Bull shortlisted Piastri as preferred Verstappen replacement. Verstappen 7th (26 pts), 74 behind Antonelli. Exit clause triggers if not top-2 by Hungarian GP July 24-26. Piastri contracted McLaren through 2027. Laurent Mekies open to non-junior programme drivers. Mark Webber (Piastri's manager) ex-Red Bull.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Piastri/McLaren response; Verstappen summer announcement
+
+### STORY 3: Verstappen-Mercedes Deal Dead — Antonelli Changed Everything
+- **Tier:** 2
+- **Category:** Driver Market / Storyline
+- **Key facts:** Verstappen-to-Mercedes deal dead, per insiders. Antonelli winning all 4 races from pole = Mercedes doesn't need Verstappen. Deal reported at $80-90M/yr. Mercedes 1-2 in standings (Antonelli/Russell).
+- **Status:** NEW STORY
+- **Follow-up ideas:** Verstappen next move; Mercedes renewal
+
+### STORY 4: Canada GP 10 Days Out — Sprint Debut, Antonelli's Perfect Run Under Threat
+- **Tier:** 2
+- **Category:** Race Preview
+- **Key facts:** Canadian GP May 22-24, Circuit Gilles-Villeneuve. First sprint of 2026. 70 laps, 4.361km. McLaren and Mercedes bringing upgrades. Hamilton no simulator prep. ~34 pts available including sprint.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** Canada qualifying; sprint result; race result
+
+### STORY 5: Hamilton's Radical Canada Approach — No Simulator, Ferrari Bets on Feel
+- **Tier:** 2
+- **Category:** Driver/Team Strategy
+- **Key facts:** Hamilton confirmed no simulator work between Miami and Canada. P6 Miami (collision Colapinto lap 1, floor/sidepod damage). Ferrari 11 upgrades in Miami. Ferrari constructors lead shrunk: 44 pts (after Japan) → 16 pts (after Miami). Leclerc 20s penalty in Miami.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Hamilton Canada result; Ferrari Montreal pace

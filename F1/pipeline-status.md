@@ -1,8 +1,20 @@
 ## Last Run
-- **Date**: 2026-05-11
-- **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Date**: 2026-05-12
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-12
+- **Steps completed:** 1-10b, 12-14 (Full pipeline)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-12.xlsx (6 posts) + f1fr-postplanner-tobi-2026-05-12.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-12/review-dashboard.html (26 items)
+- **Notes:** Antonelli (19) leads WDC 100 pts, first driver to win first 3 starts from pole, youngest WDC leader ever, on pace for youngest F1 champion (breaking Vettel 2010 record). Red Bull shortlists Piastri as Verstappen replacement — exit clause triggers if not top-2 by Hungarian GP July 24-26. Verstappen-Mercedes mega-deal dead (Antonelli made Mercedes redundant). Canada GP May 22-24 sprint weekend preview. Hamilton no simulator prep for Canada (P6 Miami after lap-1 collision with Colapinto). Ferrari constructors lead shrunk to 16 pts over McLaren.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
 
 ### 2026-05-11
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
