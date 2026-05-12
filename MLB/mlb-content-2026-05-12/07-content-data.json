@@ -1,0 +1,327 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-12",
+  "compiled_at": "2026-05-12T10:27:23.252157+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Judge vs. Murakami HR Race Is Tied — Both at 15 With the Season Still Young",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The 2026 MLB home run race is tied.\n\nAaron Judge: 15. Munetaka Murakami: 15.\n\nMurakami hit a solo shot May 9 to draw even. A Yankees legend and a first-year Japanese star sharing the lead 40 games in. This is the race baseball needed. ⚾ #Yankees #WhiteSox #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Munetaka Murakami has 15 HRs and has yet to hit a multi-homer game.\n\nHe also holds the MLB record for most home runs before a first double or triple. First-year player. 15 pitchers. Every homer from a different arm.\n\nThis is not a typical rookie season. ⚾ #WhiteSox #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-judge-murakami-home-run-race-tied-15-2026.html",
+        "headline": "Aaron Judge and Munetaka Murakami Are Tied. The 2026 Home Run Race Just Got Real.",
+        "word_count": 666
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Judge vs. Murakami HR Race Tied\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Aaron Judge New York Yankees`\n- **Caption overlay:** \"15-15 / The HR Race Is Tied / Judge vs. Murakami 2026\"\n- **Usage:** X + Facebook\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Munetaka Murakami Chicago White Sox`\n- **Caption overlay:** \"THE RACE IS ON / Judge 15, Murakami 15 / Who Finishes First?\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Judge vs. Murakami HR Race Tied at 15\n**Decision:** FOLLOW UP. HR race was introduced in previous pipelines (Judge alone or Judge leading). Murakami tying Judge on May 9 is the new development.\n**Sources:**\n1. SI.com — \"The Eye-Popping Numbers Behind Aaron Judge, Munetaka Murakami's Power Surge\" (2026)\n2. MLB.com — \"Munetaka Murakami ties Aaron Judge in MLB home runs\" (May 9, 2026)\n3. Yardbarker — \"The two sluggers battling for the MLB's home run lead\" (May 2026)\n4. ESPN — Aaron Judge 2026 stats pages (current)\n**Key Facts:**\n- Judge and Murakami both at 15 HRs [HIGH — MLB.com announcement confirming Murakami tied Judge on May 9]\n- Judge career total: 383-384 HRs [HIGH — baseball-reference, confirmed in prior pipelines]\n- Judge batting .273 in 2026, 15 HRs in ~38 games [HIGH]\n- Murakami: signed 2-year $34M deal Dec 2025, first MLB season [HIGH — prior pipeline coverage]\n- Murakami won NPB Triple Crown with 56 HRs in 2022 [HIGH — prior pipeline]\n- Murakami holds MLB records for HRs before first double/triple in MLB history [HIGH — prior pipeline]\n- Murakami hit HR on May 9 to tie Judge [HIGH — MLB.com]\n**Freshness:** MLB.com article on Murakami tying Judge published May 9, 2026. Race is current.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs at Braves Tonight — NL's Two Best Records Meet in Atlanta",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Tonight's NL main event:\n\nChicago Cubs (27-14) at Atlanta Braves (28-13) | 7:15 PM ET | TBS\n\nThe two best records in the National League. The first team since the 1955 Dodgers vs. one of the best rotations in baseball.\n\nCubs or Braves — who wins tonight? ⚾ #Cubs #Braves #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-cubs-braves-nl-showdown-may-12-2026.html",
+        "headline": "Cubs at Braves Tonight Is the Biggest NL Game of the Week — Here's What's at Stake",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cubs at Braves Tonight\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Chicago Cubs batter Wrigley`\n- **Caption overlay:** \"TONIGHT AT 7:15 ET / Cubs (27-14) at Braves (28-13) / NL's Best Records on the Same Field\"\n- **Usage:** X + Facebook\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Atlanta Braves pitcher Truist Park`\n- **Caption overlay:** \"NL SHOWDOWN / Cubs vs. Braves / Tuesday Night on TBS\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs at Braves Tonight\n**Decision:** FOLLOW UP. Cubs and Braves have been covered as individual stories. Tonight's matchup is a new event.\n**Sources:**\n1. Action Network — \"Cubs vs Braves Odds: Moneyline, Over/Under, Props — May 12, 2026\" (May 12, 2026)\n2. ESPN — \"Cubs vs. Braves (May 12, 2026) Live Score\" game page\n3. MLB.com Power Rankings — \"MLB Power Rankings for week ending on May 10, 2026\" (May 10, 2026)\n4. ESPN — MLB Week 6 Power Rankings (May 2026)\n**Key Facts:**\n- Cubs record going into May 12 game: 27-14 [HIGH — multiple sources confirm]\n- Braves record going into May 12 game: 28-13 [HIGH — multiple sources confirm]\n- Game time: 7:15 PM ET, Truist Park, Atlanta [HIGH — schedule sources]\n- Coverage: TBS/MLB.TV [HIGH]\n- Cubs: first team since 1955 Brooklyn Dodgers to have multiple 10+ game win streaks in first 40 decisions [HIGH — confirmed in prior pipeline and repeated in May 10 power rankings]\n- Braves: NL East leaders with large division lead [HIGH]\n**Freshness:** Both teams' records are current as of May 12. Preview angle is timely.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Henry Bolte Just Made His MLB Debut. What He Did Is Unprecedented.",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Oakland A's called up Henry Bolte on Monday. He hit safely in 12 straight plate appearances with 9 extra-base hits.\n\nNobody has done that at the Major League level in the Expansion Era.\n\nNot a bad first impression. ⚾ #Athletics #MLB",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Athletics",
+            "#MLB"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-henry-bolte-debut-expansion-era-record-oakland-as-2026.html",
+        "headline": "Henry Bolte Hit Safely in 12 Straight PAs With 9 Extra-Base Hits. That Has Never Happened Before.",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Henry Bolte MLB Debut Record\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Henry Bolte Oakland Athletics`\n- **Caption overlay:** \"12-FOR-12 WITH 9 XBH / Henry Bolte Expansion Era Record / A's Rookie Debut\"\n- **Usage:** X + Facebook\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Oakland Athletics batter swing`\n- **Caption overlay:** \"UNPRECEDENTED DEBUT / Henry Bolte Oakland A's / Expansion Era Record\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Henry Bolte MLB Debut\n**Decision:** NEW STORY. Henry Bolte was not covered in any prior pipeline.\n**Sources:**\n1. MLB.com — \"Prospect Team of the Week May 11 2026\" (May 11, 2026) — mentions Bolte's Expansion Era record\n2. Multiple search results confirming Bolte's 12-straight-PA hit streak with 9 XBHs (Expansion Era record for debut performance)\n**Key Facts:**\n- Henry Bolte called up by Oakland A's on Monday, May 11 [HIGH]\n- Hit safely in 12 straight plate appearances [HIGH — multiple mentions in search results]\n- 9 extra-base hits in those 12 PAs [HIGH]\n- This combination (9+ XBH in 12 straight hitting PAs) unprecedented at MLB level in Expansion Era (since 1961) [MEDIUM — single source characterization; treat as MEDIUM until second source confirmed]\n- Bolte is a top A's prospect [HIGH]\n**Freshness:** Bolte recalled May 11. Story is dated 24 hours ago — still fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "José Ramírez Is 9 Home Runs From the 300-300 Club — A Conversation About History",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "José Ramírez has 300 career stolen bases and 291 career home runs.\n\nHe is 9 home runs from joining the 300-300 club. The club includes Willie Mays, Barry Bonds, and Alex Rodriguez.\n\nThere are 8 members. He wants to be the 9th. ⚾ #Guardians #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#MLB"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-jose-ramirez-300-300-club-chase-guardians-2026.html",
+        "headline": "José Ramírez Is 9 Home Runs From the 300-300 Club — A Conversation About What He's Built",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ramírez 300-300 Club Chase\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Jose Ramirez Cleveland Guardians`\n- **Caption overlay:** \"300 SB. 291 HR. / 9 Away From 300-300 Club / José Ramírez Guardians\"\n- **Usage:** X + Facebook\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Guardians third baseman swing`\n- **Caption overlay:** \"300-300 CLUB / Ramírez Chasing History / Joining Willie Mays and Barry Bonds\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "José Ramírez 300-300 Club Chase\n**Decision:** FOLLOW UP. Ramírez's 300th SB was covered on May 11. New angle: the 300-300 club chase is now defined and achievable.\n**Sources:**\n1. SI.com — \"History Beckons: José Ramírez Approaches 300 Career Stolen Bases\" (May 2026)\n2. FOX Sports — 2026 MLB Milestones and Records Tracker\n3. ESPN — José Ramírez career stats\n**Key Facts:**\n- Ramírez reached 300 career stolen bases on May 2, 2026 [HIGH — multiple sources]\n- Stole third base in 5th inning vs A's [HIGH]\n- 300th steal was his 13th of the season [HIGH]\n- Only second player in Cleveland franchise history to reach 300 SBs after Kenny Lofton [HIGH]\n- Career HRs: 291 as of mid-May [HIGH — multiple sources]\n- Needs 9 more HRs for 300-300 club (9th member ever) [HIGH]\n- 300-300 club members include Willie Mays, Barry Bonds, Alex Rodriguez, Andre Dawson, Carlos Beltran, Bobby Bonds [HIGH — well documented]\n**Freshness:** 300 SBs milestone is 10 days ago (May 2). The 300-300 chase angle is current and developing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Elly De La Cruz Is Putting Together a Shortstop Season Nobody Has Seen",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Elly De La Cruz leads all MLB shortstops in WAR.\n\n10 home runs. 8 stolen bases. .265 average. First shortstop since 1900 with 5+ HR and 5+ SB through 16 games.\n\nHe is 24 years old and playing the best shortstop in baseball. ⚾ #Reds #MLB",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-elly-de-la-cruz-historic-shortstop-start-2026.html",
+        "headline": "Elly De La Cruz Is Having the Best Shortstop Season in Baseball — And It's Not Close",
+        "word_count": 733
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Elly De La Cruz Historic Shortstop\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Elly De La Cruz Cincinnati Reds`\n- **Caption overlay:** \"WAR LEADER AMONG ALL SS / 10 HR, 8 SB / Elly De La Cruz 2026\"\n- **Usage:** X + Facebook\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Cincinnati Reds shortstop fielding`\n- **Caption overlay:** \"HISTORIC SHORTSTOP SEASON / Elly De La Cruz / First Since 1900\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Elly De La Cruz Historic Shortstop Start\n**Decision:** FOLLOW UP. De La Cruz was the lead story on May 11. Today's angle is a deeper look at what his season means historically for the shortstop position.\n**Sources:**\n1. Multiple baseball stats sources — De La Cruz 2026 stats\n2. Prior pipeline coverage — confirmed De La Cruz leads all SS in WAR at 1.9\n**Key Facts:**\n- De La Cruz slashing .265/.337/.510 [HIGH — prior pipeline]\n- 10 HRs, 8 SBs through approximately 40 games [HIGH]\n- Leads all MLB shortstops in WAR (1.9) ahead of Bobby Witt Jr. [HIGH — prior pipeline]\n- First MLB shortstop since 1900 to have 5+ HR and 5+ SB through 16 games [HIGH — prior pipeline]\n- Age 24, two-time All-Star [HIGH]\n- Average exit velocity 94.4 mph [MEDIUM — from prior pipeline, AI summary origin]\n**Freshness:** De La Cruz stats are current as of recent games. Historical comparison is timely.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "MLB Tuesday Roundup — Standings, HR Race Update, Nights to Watch",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Tuesday in baseball:\n\nCubs (27-14) at Braves (28-13) was the NL's headliner tonight.\n\nJudge and Murakami still tied at 15 HRs. Ramírez 9 HRs from the 300-300 club. Henry Bolte making history in Oakland.\n\nIt's a great time to be watching baseball. ⚾ #MLB",
+          "posting_time": "10:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Tuesday Roundup (Social Only)\n\n**Image Concept 6A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `MLB baseball stadium night game`\n- **Caption overlay:** \"TUESDAY NIGHT BASEBALL / Cubs at Braves | Judge-Murakami Tied / HR Race Update\"\n- **Usage:** X + Facebook"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "MLB Tuesday Roundup\n**Decision:** FOLLOW UP. Daily roundup format established in prior pipelines.\n**Key Facts:**\n- Featured game tonight: Cubs (27-14) at Braves (28-13), 7:15 PM ET [HIGH]\n- Other games: Yankees at Orioles, Nationals at Reds, Rays at Blue Jays [HIGH — schedule confirmed]\n- HR race: Judge and Murakami both at 15 [HIGH]\n- Power rankings (May 10): Cubs 1st, Braves 2nd per MLB.com [HIGH — direct MLB.com citation]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

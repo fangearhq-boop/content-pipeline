@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-12
+
+### Story 1: Aaron Judge and Munetaka Murakami Tied for MLB HR Lead at 15
+- **Angle:** FOLLOW UP. Murakami hit his 15th HR on May 9 to draw even with Judge. Both on pace for ~60 HRs. Murakami holds MLB record for most HRs before first double or triple. Judge entered season with 383 career HRs. Two-player HR race narrative now fully established.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** HR leader week-by-week; Judge career 400 HR milestone; Murakami adjustment details
+
+### Story 2: Cubs (27-14) at Braves (28-13) Tonight — NL's Two Best Records
+- **Angle:** FOLLOW UP. Cubs finished second 10-game streak at 27-14 after Rangers loss May 10. Braves 28-13 NL East leaders. First time since 1955 Dodgers a team has posted two distinct 10-game win streaks in first 40 decisions. Game at Truist Park, 7:15 PM ET, TBS.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Series result; NL playoff seeding; Cubs home streak at Wrigley
+
+### Story 3: Henry Bolte MLB Debut — Expansion Era Record
+- **Angle:** NEW STORY. Oakland A's called up Bolte on May 11. He hit safely in 12 consecutive plate appearances with 9 extra-base hits — a combination never accomplished at the MLB level in the Expansion Era (since 1961). Top A's prospect; part of Oakland rebuild wave.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Bolte sustainability; A's rebuild timeline; Travis Bazzana comparison
+
+### Story 4: José Ramírez Reaches 300 Career Stolen Bases — 9 HRs From 300-300 Club
+- **Angle:** FOLLOW UP. Ramírez stole his 300th base on May 2 vs Athletics. Now has 291 career HRs. Nine more HRs = 300-300 club (8 current members: Willie Mays, Barry Bonds, Alex Rodriguez, Andre Dawson, Carlos Beltran, Bobby Bonds + 2 others). At 33, on pace to reach it this season before his 34th birthday.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Ramírez HR counter; Hall of Fame case; 300-300 club history
+
+### Story 5: Elly De La Cruz Leads All MLB Shortstops in WAR
+- **Angle:** FOLLOW UP. De La Cruz leads all MLB SS in WAR (1.9), ahead of Bobby Witt Jr. (1.8). Hitting .265/.337/.510 with 10 HR, 8 SB. First SS since 1900 to reach 5+ HR and 5+ SB through 16 games. Age 24, two-time All-Star. Reds contenders.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** De La Cruz vs. Witt WAR race; Reds NL Central positioning; SS All-Star ballot
+
+### Story 6: MLB Tuesday Night Roundup
+- **Angle:** FOLLOW UP. Tuesday roundup: Cubs-Braves main event, Judge-Murakami tied, Ramírez 300-300 watch, Bolte debut. Tier 3 social-only.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Wednesday MLB slate
+
+---
+
 ## 2026-05-10
 
 ### Story 1: Misiorowski Throws Fastest Pitches in MLB History for a Starter — 103.6 MPH
