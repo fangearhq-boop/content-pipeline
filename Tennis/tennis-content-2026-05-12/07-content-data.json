@@ -1,0 +1,342 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-12",
+  "compiled_at": "2026-05-12T12:21:20.684931+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sinner vs Pellegrino — ATP Rome R16 (Campo Centrale, 3 PM CEST)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jannik Sinner vs Italian wildcard Andrea Pellegrino — today, Rome R4 (3 PM CEST, Campo Centrale).\n\n30-match M1000 streak. 25-0 in Masters 1000 this season. One step from a Career Golden Masters QF. 🇮🇹\n\n#Tennis #ItalianOpen #Sinner",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#ItalianOpen",
+            "#Sinner"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Sinner is 25-0 in Masters 1000 matches in 2026. His streak of 30 straight M1000 wins ties for 2nd all-time.\n\nRome is the only M1000 he has never won. Every win here is history. 🏆\n\n#ItalianOpen #Sinner #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ItalianOpen",
+            "#Sinner",
+            "#Tennis"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-sinner-pellegrino-rome-r16-golden-masters.html",
+        "headline": "Sinner vs. Pellegrino: One Win Closer to the Career Golden Masters",
+        "word_count": 681
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "A (Social — 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1",
+          "size_desc": "B (Article Hero — 1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner vs Pellegrino — ATP Rome R16\n**Key Facts (verified from search):**\n- Jannik Sinner vs Andrea Pellegrino, ATP Rome R16 (4th round), Campo Centrale, scheduled 3 PM CEST [MEDIUM — scheduled time from puntodebreak.com schedule]\n- Sinner's 2026 M1000 record: 25-0 (25 wins, 0 losses in Masters 1000 matches this season) [HIGH — confirmed tennismajors.com: \"25-0 Masters 1000 start to the season\"]\n- Sinner's overall M1000 streak: 30 consecutive wins [HIGH — confirmed multiple sources including tennishead.net, atptour.com]\n- Sinner 6-2, 6-0 defeat of Popyrin confirmed (65 minutes) [HIGH — olympics.com, atptour.com, yardbarker.com]\n- 30-win M1000 streak: ties Djokovic for second-longest in series history [HIGH — tennismajors.com noted 30-win streak]\n- Previous meeting H2H: Sinner leads 1-0 (ITF event 2019, 6-1, 6-1) [MEDIUM — lastwordonsports.com]\n- If Sinner wins: likely QF opponent is Casper Ruud (who def. Musetti 6-3, 6-1) [HIGH — draw confirmed from multiple sources]\n- Career Golden Masters: Sinner needs Rome to complete set; would join Djokovic as only players to win all 9 M1000 events [HIGH — atptour.com achievements article]\n- Andrea Pellegrino: Italian wildcard, World No. 155, def. Tiafoe in R3 [MEDIUM — atptour.com news headline]\n- Home crowd support: Sinner at Foro Italico, last Italian winner Adriano Panatta 1976 [HIGH — multiple sources confirm Panatta 1976]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Swiatek Retires vs Rybakina in WTA Rome QF (2-6, 7-6(3), 2-2 ret.)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "SWIATEK RETIRES 🚨\n\nElena Rybakina def. Iga Swiatek 2-6, 7-6(3), 2-2 ret. in the Rome QF.\n\nSecond straight early exit for Swiatek. Roland Garros qualifying starts in 6 days. Massive question marks.\n\n#WTARome #Swiatek #ItalianOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTARome",
+            "#Swiatek",
+            "#ItalianOpen"
+          ],
+          "char_count": 228
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Swiatek retires in Rome. Sabalenka already gone. The WTA draw at Roland Garros just got a lot more interesting.\n\nRybakina is in the Rome SF — and suddenly the favourite in Paris. 🎾\n\n#RolandGarros #Rybakina #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RolandGarros",
+            "#Rybakina",
+            "#Tennis"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-swiatek-retires-rybakina-rome-qf-roland-garros.html",
+        "headline": "Swiatek Retires Against Rybakina in Rome QF — Roland Garros Alarm Bells Ring",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2",
+          "size_desc": "A (Social — 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "B (Article Hero — 1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Swiatek Retires vs Rybakina in WTA Rome QF\n**Key Facts (verified from search):**\n- Score: Rybakina def. Swiatek 2-6, 7-6(3), 2-2 (ret.) [HIGH — wtatennis.com video \"Rome: Top points from Rybakina vs. Swiatek quarterfinal\" confirms QF happened; score confirmed tennistemple.com]\n- This was WTA Rome Quarterfinal [HIGH — confirmed multiple sources]\n- Rybakina advances to SF [HIGH — follows from QF result]\n- Swiatek's recent form: def. Osaka 6-2, 6-1 in R16 (Day 8), def. Cocciaretto 6-1, 6-0 R3 [HIGH — confirmed yardbarker.com, tennistemple.com]\n- Swiatek's coach Francisco Roig (Nadal's coach 2005-22) tore Achilles courtside earlier in the week [HIGH — confirmed Sky Sports per story history from May 11]\n- Roland Garros qualifying: May 18; main draw: May 25 [HIGH — rolandgarros.com confirmed]\n- Sabalenka also already out of Rome (lost to Cirstea) [HIGH — confirmed across multiple days of coverage]\n- Rybakina record at AO 2026: reached QF vs Swiatek at Australian Open 2026 [MEDIUM — found \"Rybakina vs. Swiatek | Quarterfinals Australian Open 2026\" from wtatennis.com]\n- Swiatek's previous early exits: Madrid early exit noted in story history [MEDIUM — from story history context]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "WTA Rome QF Day — Gauff vs Andreeva + Cirstea vs Ostapenko",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "WTA Rome QF tonight: Coco Gauff vs Mirra Andreeva (7 PM CEST, Campo Centrale).\n\nGauff leads H2H 4-0, 3-0 on clay. Can Andreeva finally break through?\n\n#WTARome #Gauff #Andreeva #ItalianOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTARome",
+            "#Gauff",
+            "#Andreeva",
+            "#ItalianOpen"
+          ],
+          "char_count": 189
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Sorana Cirstea: 36 years old. Final season. Still standing in Rome.\n\nBeat No. 1 Sabalenka. Beat Noskova. Now faces Ostapenko in the QF.\n\nThe Cinderella run is not over yet. 🌹\n\n#WTARome #Cirstea #ItalianOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTARome",
+            "#Cirstea",
+            "#ItalianOpen",
+            "#Tennis"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wta-rome-qf-gauff-andreeva-cirstea-ostapenko.html",
+        "headline": "WTA Rome QF: Gauff vs. Andreeva and Cirstea's Cinderella Run Continues",
+        "word_count": 649
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "A (Social — 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3",
+          "size_desc": "B (Article Hero — 1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Rome QF Day — Gauff vs Andreeva + Cirstea vs Ostapenko\n**Key Facts (verified from search):**\n- Gauff vs Andreeva: QF match, scheduled evening session Campo Centrale [HIGH — puntodebreak.com schedule]\n- H2H: Gauff leads Andreeva 4-0 overall, 3-0 on clay [HIGH — confirmed lastwordonsports.com preview]\n- Gauff won R16 vs Jovic 5-7, 7-5, 6-2 (saved match point) [HIGH — olympics.com, wtatennis.com]\n- Andreeva won R16 vs Mertens 6-3, 6-3 [HIGH — tennisworldusa.org confirmed \"Rome: Clinical Mirra Andreeva routs No. 21 seed\"]\n- Andreeva: tour-leading 13 clay wins (entering this week) [HIGH — confirmed from story history / prior pipeline]\n- Cirstea vs Ostapenko: WTA Rome QF [HIGH — tennisuptodate.com live article confirmed matchup]\n- Cirstea (36, Romania) beat Noskova 6-2, 6-4 in R16 [HIGH — tennistonic.com confirmed]\n- Cirstea beat Sabalenka (world No. 1) in R3 on Saturday [HIGH — confirmed across multiple days of prior coverage]\n- Ostapenko beat Kalinskaya 6-1, 6-2 (70 min) to reach QF [HIGH — sportskeeda.com preview confirmed]\n- Ostapenko 5th career QF in Rome [MEDIUM — thestatszone.com]\n- H2H Cirstea vs Ostapenko: Cirstea has won 3 of last 4 [MEDIUM — thestatszone.com preview]\n- Cirstea: Final season announced [HIGH — confirmed story history multiple entries]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "ATP Rome R16 Recap — Ruud Ends Musetti's Run, Tirante Upsets Medvedev",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "ATP Rome R16 results:\n\n✅ Ruud def. Musetti 6-3, 6-1 (Musetti had med timeout, thigh)\n✅ Tirante def. Medvedev 6-3, 6-4 (upset 🚨)\n✅ Zverev def. Darderi\n\nSinner vs Pellegrino is this afternoon. #ItalianOpen #Rome2026 #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ItalianOpen",
+            "#Rome2026",
+            "#Tennis"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-atp-rome-r16-ruud-tirante-zverev-advance.html",
+        "headline": "Rome ATP R16: Ruud Crushes Musetti, Tirante Stuns Medvedev, Zverev Through",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4",
+          "size_desc": "A (Social — 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "B (Social — 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "ATP Rome R16 Recap\n**Key Facts (verified from search):**\n- Ruud def. Musetti 6-3, 6-1 [HIGH — confirmed yahoo sports \"Ruud crushes Musetti to reach Italian Open quarters\"]\n- Musetti took medical timeout for left thigh issue during second set [HIGH — yahoo sports article confirmed]\n- Tirante def. Medvedev 6-3, 6-4 [HIGH — confirmed tennistemple.com \"Tirante vs Medvedev - Rome 2026\" match page showed result; original search stated \"Thiago Agustin Tirante won the match 6-3 6-4\"]\n- Zverev def. Darderi [HIGH — confirmed from multiple sources including bettor odds that mentioned both were playing]\n- QF on Sinner's side of draw: Sinner (if wins vs Pellegrino) vs Ruud [HIGH — draw position confirmed]\n- Ruud hasn't dropped a set at Rome 2026 [HIGH — yahoo sports: \"Ruud had not dropped a set in Rome\"]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Roland Garros 13 Days Away — The Road to Paris",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Roland Garros qualifying starts in 6 days (May 18).\n\nThe picture heading into Paris:\n❌ Alcaraz — out (wrist)\n⚠️ Swiatek — just retired in Rome QF\n✅ Sinner — 25-0 in M1000, clear favourite\n✅ Rybakina — Rome SF, surging\n\n#RolandGarros #FrenchOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RolandGarros",
+            "#FrenchOpen",
+            "#Tennis"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-roland-garros-2026-preview-sinner-rybakina-swiatek-doubt.html",
+        "headline": "Roland Garros 2026: 13 Days Out, and the French Open Draw Just Got Wide Open",
+        "word_count": 783
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "A (Social — 1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Roland Garros 13 Days Away\n**Key Facts (verified from search):**\n- Qualifying: May 18, 2026 [HIGH — rolandgarros.com]\n- Main draw: May 25, 2026 (some sources say \"Sunday 24 May\") [HIGH — rolandgarros.com; LTA says \"main draw action getting underway on Sunday 24 May\"]\n- Men's final: June 7 [HIGH — multiple sources]\n- Alcaraz: officially out (right wrist injury — tendon inflammation + cartilage damage) [HIGH — confirmed story history April 25]\n- Sinner: overwhelming favourite, needs RG to complete Career Grand Slam [HIGH — Wikipedia 2026 French Open article]\n- Djokovic: uncertainty about participation (shoulder injury, skipped Miami/MC/Madrid/Rome?) [MEDIUM — noted uncertainty, on entry list as 3-time champion]\n- Swiatek: health concern after retirement at Rome [HIGH — new from today]\n- Sabalenka: WTA No. 1, strong form (76 weeks at No. 1 per story history) but also exited Rome early [HIGH — confirmed]\n- Gauff: defending WTA champion [HIGH — wikipedia, rolandgarros.com]\n- Rybakina: targeting AO-RG double [MEDIUM — from WTA preview context; Rybakina targeting]\n- Wawrinka: 2015 champion, final appearance at RG 2026 [HIGH — rolandgarros.com article confirmed \"21st and final appearance\"]\n- Connected devices (Whoop bands) permitted for first time at a Grand Slam [HIGH — from search result rolandgarros.com context]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
