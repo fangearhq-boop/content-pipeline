@@ -2264,3 +2264,12 @@
 - **Tier:** 2
 - **Key Facts:** AAP 2026 clinical report "Framework for Approaching Healthy Mental and Emotional Development in Pediatrics"; 5 protective factors; sleep: 9-11 hrs elem, 8-10 hrs teens; COS military family population; Sources: AAP clinical report 2026, HealthyChildren.org
 - **Follow-Up Opportunities:** COS mental health resources guide for families; community connection opportunities in Colorado Springs
+
+### 2026-05-12
+| Date | Story | Tier | Platforms | Key Facts |
+|------|-------|------|-----------|-----------|
+| 2026-05-12 | D11 End-of-Year Family Guide — last day May 22, D20 May 21; graduations Ed Robson Arena May 19-21 (Palmer 9AM, Mitchell 3PM May 19; Coronado 9AM, Doherty 3PM May 20); labor dispute context for fall | T1 | X, FB, Article | D11 last day May 22 confirmed; graduation schedule from d11.org |
+| 2026-05-12 | CPSC Recall: CreateOn Crayola Pip-Cubes magnetic building cubes (9,400 units; Michaels + Amazon May-Jul 2025; approx $20-$35; magnets detach = fatal ingestion risk; call 1-800-333-0549 or pipcuberecall@CreateOn.com; free replacement) | T1 | X, FB, Article | CPSC.gov confirmed recall; no injuries as of recall announcement |
+| 2026-05-12 | Blodgett Open Space 14 new miles of trails opening summer 2026 — hiking-only north, bike-only south; phased openings; NW Colorado Springs; coloradosprings.gov/TOPS2026 | T2 | X, FB, Article | gazette.com Jan 2026 + coloradosprings.gov confirmed |
+| 2026-05-12 | D11 labor dispute fall implications — 300+ days without master contract; class sizes, teacher retention, CSEA updates; what parents should ask now | T2 | X, FB, Article | Different angle from May 9 picket story; focused on fall implications |
+| 2026-05-12 | Mental Health Awareness Month — AAP whole health model (emotional health as routine pediatric care); COS resources: Colorado Crisis Services 1-844-493-8255, Military OneSource; military family context | T2 | X, FB, Article | AAP psychiatryadvisor.com; Military OneSource confirmed |
