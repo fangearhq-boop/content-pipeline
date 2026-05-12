@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-12
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 2 char violations fixed S2-T2 285→278, S5-T1 282→278; 0 after fix), FB posts (6 stories), image concepts (6 for all stories), image manifest, articles (5), fact-check (111 claims, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 25 items), dashboard (25 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 2 char violations fixed before compile.
+- **Key Stories**: Virginia Tech 46-10 ineligible to host/heads to Baton Rouge Regional vs LSU (P10), Texas title defense Kavan Austin Regional No. 2 seed (P10), Georgia hot momentum No. 10 seed Athens Regional after Oklahoma upset (P8), Megan Grant 38 HRs into UCLA L.A. Regional No. 8 seed (P8), Texas Tech Canady Lubbock Regional second straight year 50+ wins (P7), WCWS Final Four predictions (P4)
+
+## Previous Run
 - **Date**: 2026-05-11
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations after S1-T1 fix 287→268), FB posts (6 stories), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (97 claims, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/

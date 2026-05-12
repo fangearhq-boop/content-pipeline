@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-12",
+  "compiled_at": "2026-05-12T10:14:50.457464+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Virginia Tech Is 46-10 and Can't Host a Regional — Hokies Head to Baton Rouge With a Score to Settle",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Virginia Tech went 46-10. Won the ACC runner-up spot. And still can't host a regional.\n\nThe NCAA ruled VT ineligible to host, so the Hokies travel to Baton Rouge to face No. 16 LSU. Game 1 vs. South Alabama, Friday 4 PM ET.\n\nTop upset pick in the bracket. 🥎 #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Virginia Tech beat Duke 5-0 in the ACC semis. Finished 46-10. NCAA says they can't host.\n\nSo they pack up and head to Baton Rouge. The Hokies are angry, and angry teams do damage in May. 🥎 #CollegeSoftball #Hokies",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#Hokies"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-virginia-tech-46-10-ineligible-to-host-baton-rouge-regional-2026.html",
+        "headline": "Virginia Tech Is 46-10 and Heading to Baton Rouge — The Hokies Can't Host but They Can Upset",
+        "word_count": 691
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Virginia Tech 46-10, Heads to Baton Rouge Regional\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Virginia Tech Hokies softball pitcher`\n- **Caption overlay:** \"UPSET ALERT / 46-10 and Heading to Baton Rouge / Virginia Tech #CollegeSoftball\"\n- **Usage:** X + Facebook\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Virginia Tech softball batter`\n- **Caption overlay:** \"46-10 TEAM / Can't Host — But Can Upset / Baton Rouge Regional\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Virginia Tech 46-10, Ineligible to Host Regional\n**Decision:** NEW STORY. VT's hosting ineligibility is a new development with fresh coverage from May 10-11, 2026.\n**Sources:**\n1. TechSideline.com — \"Virginia Tech Softball Won't Host NCAA Regional, Heads To LSU\" (May 10, 2026)\n2. SI.com — \"NCAA Explains Why Virginia Tech Ineligible To Host A Regional\" (May 10, 2026)\n3. LSUsports.net — \"LSU Secures No. 16 National Seed, Hosts Baton Rouge Regional\" (May 10, 2026)\n4. Marco News / USA TODAY Network — \"NCAA Softball Tournament predictions: Unseeded teams who can spring bracket surprise\" (May 11, 2026)\n**Key Facts (confidence levels):**\n- Virginia Tech record: 46-10 [HIGH — multiple sources confirm]\n- VT reached ACC championship game (lost to FSU 2-1) [HIGH — covered May 10 pipeline]\n- VT ineligible to host an NCAA regional [HIGH — NCAA official explanation published]\n- VT placed as No. 2 seed in Baton Rouge Regional [HIGH — multiple bracket sources]\n- Baton Rouge Regional: LSU (No. 16 national seed/host), Virginia Tech, South Alabama (Sun Belt champ), Akron (MAC champ) [HIGH — LSU athletics announcement]\n- VT vs. South Alabama, Friday May 15, 4 PM ET [HIGH — regional schedule sources]\n- LSU vs. Akron, Friday May 15, 6:30 PM ET [HIGH — regional schedule]\n- VT listed as top upset pick to escape Baton Rouge Regional [MEDIUM — analyst opinion, not fact]\n**Freshness verification:** Both source articles date to May 10-11, 2026. Tournament begins May 15. Story is directly timely.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Texas Enters Austin Regional as Defending Champion — Kavan's Title Defense Begins Friday",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Texas enters the 2026 NCAA Tournament as the defending national champion and No. 2 seed.\n\nTeagan Kavan, last year's WCWS MVP, just threw a 12-K gem to win the SEC title. The Austin Regional starts Friday.\n\nTitle defense begins now. 🤘 #HookEm #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Back-to-back titles in softball is rare. Oklahoma won four straight from 2021-2024. Florida did it in 2013-14.\n\nNow Texas is chasing their second in a row. Kavan returns. 42-10 record. First SEC title in program history.\n\nThe blueprint is there. #HookEm #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-texas-title-defense-kavan-austin-regional-2026.html",
+        "headline": "Teagan Kavan and Texas Are Going for Back-to-Back — The Title Defense Begins Friday in Austin",
+        "word_count": 637
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Title Defense, Teagan Kavan, Austin Regional\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Teagan Kavan Texas Longhorns`\n- **Caption overlay:** \"TITLE DEFENSE BEGINS / Teagan Kavan Leads No. 2 Texas / Austin Regional May 15\"\n- **Usage:** X + Facebook\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Texas Longhorns softball pitcher celebration`\n- **Caption overlay:** \"DEFENDING CHAMPIONS / Texas Longhorns 2026 / Can They Repeat?\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Title Defense — Kavan, Austin Regional\n**Decision:** FOLLOW UP. Texas's No. 2 seed and Austin Regional were covered on May 11. Today's angle is the title defense and Kavan specifically, which hasn't been featured as a standalone article.\n**Sources:**\n1. Texas Longhorns Athletics — \"No. 5 Softball wins first SEC Tournament Championship\" (May 9, 2026)\n2. SI.com — \"A Teagan Kavan Masterpiece Earns Texas Softball Its First SEC Title\" (May 9, 2026)\n3. On3/Yahoo Sports — \"2026 NCAA softball preview: Can Texas Tech, NiJaree Canady bounce back?\" (May 2026)\n4. ESPN — Full bracket/schedule coverage (May 10-11, 2026)\n**Key Facts:**\n- Texas is the 2025 national champion [HIGH]\n- Texas record in 2026: 42-10 [HIGH]\n- Teagan Kavan was 2025 WCWS Most Outstanding Player [HIGH]\n- Kavan threw a complete-game, 12-strikeout performance in the 2026 SEC championship win over Alabama 7-1 [HIGH — covered in prior pipeline]\n- Texas earned the No. 2 overall national seed [HIGH]\n- Texas hosts the Austin Regional [HIGH]\n- Austin Regional teams: Texas vs. Wagner; Wisconsin vs. Baylor [HIGH — bracket sources]\n**Freshness verification:** Bracket sources date to May 10-11. Texas's SEC title was May 9. Kavan's SEC championship performance is recent. Story is current.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Georgia Carries Upset Momentum Into Athens Regional as No. 10 Seed",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Georgia beat No. 1 Oklahoma 10-5 in the biggest comeback in SEC Tournament history. Now they're the No. 10 seed hosting the Athens Regional.\n\nThe Dawgs are hot heading into May 15. Clemson, UNCG, and Charleston in the field.\n\nUpset alert is already on. 🐾 #GoDawgs #CollegeSoftball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoDawgs",
+            "#CollegeSoftball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-georgia-hot-momentum-athens-regional-2026.html",
+        "headline": "Georgia Upset Oklahoma. Now They're the No. 10 Seed Hosting in Athens. This Is a Problem for the Field.",
+        "word_count": 634
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Georgia Athens Regional\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Georgia Bulldogs softball batter`\n- **Caption overlay:** \"HOT TEAM ALERT / No. 10 Georgia Hosts Athens Regional / Upset Oklahoma 10-5\"\n- **Usage:** X + Facebook\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Georgia softball pitcher`\n- **Caption overlay:** \"DAWGS ARE DANGEROUS / No. 10 Seed Hosts Athens Regional / May 15\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Georgia Momentum, Athens Regional\n**Decision:** FOLLOW UP. Georgia's Oklahoma upset was covered on May 8. Today's angle is their momentum heading into the Athens Regional as No. 10 seed — a new angle with fresh regional preview coverage.\n**Sources:**\n1. Georgia Athletics — \"No. 10-Seed Georgia Selected to Host 2026 NCAA Athens Regional\" (May 10, 2026)\n2. Georgia Athletics — \"2026 NCAA Athens Regional Ticket Information\" (May 11, 2026)\n3. Clemson Athletics — \"Softball Punches Postseason Ticket to Athens Regional\" (May 10, 2026)\n4. Field Street Forum — \"UGA Softball: Georgia is the #10 Overall Seed and Will Host the Athens Regional Starting Friday\" (May 11, 2026)\n**Key Facts:**\n- Georgia is the No. 10 overall seed [HIGH]\n- Georgia upset No. 1 Oklahoma 10-5 in SEC Tournament quarterfinals [HIGH — previously covered]\n- Athens Regional: Georgia vs. College of Charleston, Clemson vs. UNC Greensboro [HIGH]\n- Games begin May 15: Clemson vs. UNCG at 4:30 PM, Georgia vs. Charleston at 7 PM, ESPN+ [HIGH]\n- 14th consecutive NCAA Softball Regional hosted in Athens [HIGH — Georgia athletics]\n- Athens Regional winner vs. Knoxville Regional winner in super regionals [HIGH — bracket structure]\n**Freshness verification:** Georgia regional announcement dates to May 10-11, 2026. Story is current.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Megan Grant Takes Her 38 HRs Into the L.A. Regional — UCLA's Final Run Starts Friday",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Megan Grant: 38 home runs. NCAA single-season record, all-time.\n\nNow she takes that bat into the L.A. Regional at Easton Stadium as No. 8 UCLA hosts Friday. South Carolina, Cal State Fullerton, Cal Baptist in the field.\n\nCan she close her career with a title? 🥎 #CollegeSoftball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-megan-grant-ucla-la-regional-ncaa-tournament-2026.html",
+        "headline": "Megan Grant Has 38 Home Runs. Now She Wants a Title. UCLA's L.A. Regional Starts Friday.",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Megan Grant, UCLA L.A. Regional\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `Megan Grant UCLA Bruins`\n- **Caption overlay:** \"38 HOME RUNS / NCAA All-Time Single-Season Record / L.A. Regional May 15\"\n- **Usage:** X + Facebook\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `UCLA softball home run celebration`\n- **Caption overlay:** \"RECORD BREAKER / Megan Grant UCLA / 38 HRs and Counting\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Megan Grant / UCLA L.A. Regional\n**Decision:** FOLLOW UP. Grant's record was covered May 10. Today's new angle: entering the NCAA Regional as the all-time single-season HR leader in her final college run.\n**Sources:**\n1. UCLA Athletics — \"UCLA to Host NCAA Regionals as No. 8 National Seed\" (May 10, 2026)\n2. ESPN — \"UCLA's Megan Grant sets NCAA softball record with 38th homer\" (May 9, 2026)\n3. AOL/USC wire — \"South Carolina softball to play Cal State Fullerton in NCAA Tournament Los Angeles regional\" (May 2026)\n**Key Facts:**\n- Megan Grant hit 38th HR in Big Ten championship game vs. Nebraska [HIGH]\n- Previous NCAA single-season HR record: 37, Laura Espinoza, Arizona, 1995 [HIGH — previously verified]\n- Grant broke the record in 55 games (Espinoza took 72 games) [HIGH — previously covered]\n- UCLA is the No. 8 national seed [HIGH]\n- UCLA hosts L.A. Regional at Easton Stadium for 12th straight year [HIGH — UCLA athletics]\n- L.A. Regional: UCLA vs. Cal State Fullerton, South Carolina vs. California Baptist [HIGH]\n- Grant is a senior/final-year player [MEDIUM — stated in roster sources]\n**Freshness verification:** UCLA's regional announcement dates to May 10, 2026. Story is current.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Texas Tech Hosts Lubbock Regional Again — NiJaree Canady Leads Red Raiders Into May",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Texas Tech hosts the Lubbock Regional for the second straight year. NiJaree Canady leads a 50+ win team with unfinished business after last year's national runner-up finish.\n\nOle Miss, Boston U, and Marist in the field. Friday at Tracy Sellers Field. 🤘 #WreckEm #CollegeSoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#CollegeSoftball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-texas-tech-canady-lubbock-regional-2026.html",
+        "headline": "NiJaree Canady and Texas Tech Have Unfinished Business — The Lubbock Regional Starts Friday",
+        "word_count": 661
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech Lubbock Regional, NiJaree Canady\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `NiJaree Canady Texas Tech`\n- **Caption overlay:** \"UNFINISHED BUSINESS / NiJaree Canady Texas Tech / Lubbock Regional May 15\"\n- **Usage:** X + Facebook\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** imagn\n- **Search Term:** `Texas Tech Red Raiders softball pitcher`\n- **Caption overlay:** \"RUNNER-UP TO CHAMPION? / Texas Tech Hosts Lubbock Regional / Second Straight Year\"\n- **Usage:** Article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech / NiJaree Canady, Lubbock Regional\n**Decision:** NEW STORY. Texas Tech's regional host status and NiJaree Canady's role haven't been a standalone story.\n**Sources:**\n1. Texas Tech Athletics — \"Red Raiders set to host NCAA Regional for second-straight year\" (May 10, 2026)\n2. Fox 34 — \"Softball regional now set for Red Raiders\" (May 10, 2026)\n3. SI.com — \"Lubbock Regional: Schedule & Updates\" (May 11, 2026)\n4. HottyToddy.com — \"Ole Miss Softball Carries Late Momentum Into NCAA Tournament\" (May 11, 2026)\n**Key Facts:**\n- Texas Tech hosts Lubbock Regional for second consecutive year [HIGH — Texas Tech athletics]\n- Tracy Sellers Field is the host venue [HIGH]\n- Texas Tech finished 2026 regular season with 50-plus wins [HIGH — story history confirms 52 wins at Big 12 tournament]\n- Texas Tech was 2025 national runner-up (lost to Texas in WCWS finals) [HIGH — story history context]\n- NiJaree Canady leads the pitching staff [HIGH — covered in previous pipelines; 2024 national POY]\n- Lubbock Regional teams: Texas Tech, Ole Miss, Boston University, Marist [HIGH — multiple bracket sources]\n- Game times May 15: Ole Miss vs. Boston University at 1 PM (ESPNU), Texas Tech vs. Marist at 3:30 PM (ESPN+) [HIGH]\n**Freshness verification:** Texas Tech regional announcement dates to May 10-11, 2026. Story is current.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "WCWS Final Four Predictions — Who Wins the 2026 National Title?",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "64 teams. 3 days until regionals. One champion on June 3 in OKC.\n\nWho wins the 2026 WCWS? No. 1 Alabama (49-7, 22 shutouts). No. 2 Texas (defending champ). No. 3 Oklahoma (.389 BA, 174 HRs). Dark horse: Georgia.\n\nDrop your pick below. 🥎 #CollegeSoftball #WCWS",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#WCWS"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCWS Predictions (Social Only)\n\n**Image Concept 6A — Social (1080x1350)**\n- **Type:** imagn\n- **Search Term:** `NCAA softball WCWS trophy championship`\n- **Caption overlay:** \"WHO WINS IT ALL? / 2026 WCWS Predictions / Regionals Start Friday\"\n- **Usage:** X + Facebook"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WCWS Final Four Predictions\n**Decision:** NEW STORY. Fresh preview content with the tournament 3 days away.\n**Sources:**\n1. NCAA.com — \"Round-by-round predictions for the 2026 DI softball tournament\" (May 11, 2026)\n2. Sportsjone.com — \"NCAA Softball Tournament 2026: Full Bracket, Selection Show Highlights and Women's College World Series Preview\" (May 11, 2026)\n3. Sports-competition.news-articles.net — \"2026 Tournament Preview: Seeding Volatility and the Path to the WCWS\" (May 10, 2026)\n**Key Facts:**\n- Top seeds: Alabama (1, 49-7), Texas (2, 42-10), Oklahoma (3, 48-8), Nebraska (4, 45-6) [HIGH]\n- Analyst dark horse picks: Georgia (hot), Virginia Tech (motivated), Arizona State, Mississippi State [MEDIUM — analyst opinions]\n- WCWS at Devon Park, Oklahoma City, May 28-June 5 [HIGH]\n- Texas is the only team trying to repeat as champions in 2026 [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

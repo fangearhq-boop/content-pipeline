@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 12, 2026
+
+### Story 1: Virginia Tech 46-10, Ineligible to Host Regional, Heads to Baton Rouge
+- **Angle:** NEW STORY. Virginia Tech finished 46-10, reached the ACC championship game (lost to FSU 2-1), and was ruled ineligible to host an NCAA regional by the NCAA. Placed as No. 2 seed in Baton Rouge Regional behind No. 16 LSU. First-round game vs. South Alabama, May 15, 4 PM ET. Bracket also includes Akron. VT is the top upset pick to escape the Baton Rouge Regional.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** VT first-round result vs. South Alabama (May 15); Baton Rouge Regional results (May 15-17)
+
+### Story 2: Texas Title Defense Begins — Kavan and the No. 2 Longhorns Enter Austin Regional
+- **Angle:** FOLLOW UP. Texas (42-10, No. 2 seed) enters the 2026 NCAA Tournament as the defending national champion. Teagan Kavan (2025 WCWS MVP) just threw a 12-K gem in the SEC title win over Alabama. Austin Regional: Texas vs. Wagner, Wisconsin vs. Baylor, May 15. Title defense / back-to-back possibility angle.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Austin Regional results; Texas's path to WCWS; Kavan's postseason stats
+
+### Story 3: Georgia Carries Upset Momentum Into Athens Regional as No. 10 Seed
+- **Angle:** FOLLOW UP. Georgia (No. 10 seed) hosts Athens Regional after beating No. 1 Oklahoma 10-5 in the SEC Tournament (largest comeback in SEC Tournament history). Athens Regional: Georgia vs. Charleston, Clemson vs. UNCG, May 15. Athens Regional winner vs. Knoxville Regional winner (Tennessee) in super regionals.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Athens Regional first-round results; Georgia vs. Tennessee super regional possibility
+
+### Story 4: Megan Grant Takes 38 HRs Into UCLA's L.A. Regional — Final College Run Starts Friday
+- **Angle:** FOLLOW UP. Megan Grant (38 HRs, all-time NCAA single-season record) leads No. 8 UCLA into the L.A. Regional at Easton Stadium (12th straight year hosting). L.A. Regional: UCLA vs. Cal State Fullerton, South Carolina vs. Cal Baptist, May 15-17.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** L.A. Regional results; Grant's HR total if she advances; UCLA's path in bracket
+
+### Story 5: NiJaree Canady and Texas Tech Host Lubbock Regional for Second Straight Year
+- **Angle:** NEW STORY. Texas Tech (50+ wins, 2025 national runner-up) hosts Lubbock Regional at Tracy Sellers Field for second consecutive year. NiJaree Canady (2024 Player of the Year) leads pitching staff. Regional: Texas Tech vs. Marist (3:30 PM ESPN+), Ole Miss vs. Boston U (1 PM ESPNU), May 15.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Lubbock Regional first-round results; Texas Tech's path to WCWS rematch vs. Texas
+
+### Story 6: WCWS Final Four Predictions — Three Days Until Regionals
+- **Angle:** NEW STORY. Pre-tournament final four predictions with regionals 3 days away. Top contenders: Alabama (No. 1, 49-7), Texas (No. 2, defending champ), Oklahoma (No. 3), Nebraska (No. 4). Dark horses: Georgia, Virginia Tech, Arizona State.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Regional results to compare against predictions
+
+---
+
 ## May 10, 2026
 
 ### Story 1: Texas Wins First-Ever SEC Softball Championship — Teagan Kavan's 12-K Masterpiece
