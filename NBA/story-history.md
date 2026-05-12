@@ -1692,3 +1692,42 @@
 - **Key facts:** Knicks in ECF, waiting. Wolves-Spurs tied 2-2 + Wemby suspension cloud. OKC favored to sweep tonight. Edwards surpassed Dwyane Wade on postseason scoring list (G4 performance).
 - **Status:** NEW STORY
 - **Follow-up ideas:** WCF matchup confirmed; Wemby ruling
+
+---
+
+## 2026-05-12
+
+### STORY 1: Thunder Sweep Lakers — OKC Advances to WCF Perfect 8-0
+- **Tier:** 1
+- **Category:** Playoff Results / Sweep / Series Clincher
+- **Key facts:** Thunder 115, Lakers 110 (Game 4, May 11, Crypto.com Arena). OKC sweeps 4-0. SGA 35 pts. Holmgren tiebreaking dunk with 32.8 seconds left. Ajay Mitchell 28 pts (10 in Q4). OKC 8-0 in 2026 playoffs. LeBron 24/14, missed bank shot with 20 seconds left. Thunder advance to WCF.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** WCF matchup (vs. Spurs/Wolves winner); LeBron retirement watch
+
+### STORY 2: Donovan Mitchell 43-Point Half — Cavs Even Series 2-2
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Individual Performance
+- **Key facts:** Cavs 112, Pistons 103 (Game 4, May 11, Rocket Mortgage FieldHouse). Series tied 2-2. Mitchell 43 pts (4 in 1H, 39 in 2H — ties Eric Floyd's 1987 NBA playoff record for most pts in a half). Cavs 24-0 run spanning halftime. Mitchell 12-18 FG, 3-7 3P, 12-13 FT in 2H.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** Game 5 in Detroit (May 13); Pistons response
+
+### STORY 3: Spurs vs. Timberwolves Game 5 Tonight — Wemby Returns to San Antonio
+- **Tier:** 2
+- **Category:** Game Preview / Wemby Storyline
+- **Key facts:** Game 5: May 12, 8:00 PM ET, NBC/Peacock, AT&T Center, San Antonio. Series tied 2-2. Wemby eligible to play (Flagrant 2 ejection in G4 did not auto-trigger suspension). Edwards 36/16 in G4.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** Game 5 result; potential Game 6 in Minnesota
+
+### STORY 4: Cavaliers-Pistons Game 5 in Detroit — Momentum Battle Wednesday
+- **Tier:** 2
+- **Category:** Game Preview
+- **Key facts:** Game 5: May 13, Little Caesars Arena, Detroit. Series tied 2-2. Cleveland riding 24-0 momentum swing. Cade 23/7 G1, 25/10 G2. Mitchell 43 in G4.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** Game 5 result
+
+### STORY 5: LeBron James After Sweep — A 23rd Season Ends, Questions Begin
+- **Tier:** 2
+- **Category:** Feature / Legacy
+- **Key facts:** LeBron 41, 23rd NBA season ends. Finals stats: 24 pts/14 reb in G4. All-time leading scorer. Missed bank shot with 20 seconds left. No retirement announcement.
+- **Status:** NEW STORY
+- **Follow-up ideas:** LeBron retirement announcement or return decision

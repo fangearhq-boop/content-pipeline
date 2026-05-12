@@ -1,8 +1,20 @@
 ## Last Run
-- **Date**: 2026-05-11
-- **Steps Completed**: 1-10b, 12-15 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Date**: 2026-05-12
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-12
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-05-12.xlsx (7 posts) + hh-postplanner-tobi-2026-05-12.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-12/review-dashboard.html (27 items)
+- **Notes:** Thunder 115-110 Lakers G4 SWEEP — SGA 35 pts, Holmgren tiebreaking dunk 32.8s left, Ajay Mitchell 28 (10 in Q4), OKC 8-0 in playoffs, LeBron 24/14 (missed bank shot with 20s left). Mitchell 43 pts (39 in 2H — ties Eric Floyd's 1987 playoff record) + Cavs 24-0 run spanning halftime → CLE 112-103 DET, series tied 2-2. Tonight (May 12): Spurs-Wolves G5 8pm ET NBC (tied 2-2). Wednesday (May 13): Cavs-Pistons G5 in Detroit (tied 2-2). Knicks await ECF opponent (start May 17 or 19).
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
 
 ### 2026-05-11
 - **Steps completed:** 1-10b, 12-15 (Full pipeline)
