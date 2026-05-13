@@ -427,3 +427,40 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** 11 LIV players at PGA Championship. Rahm leads LIV standings (779 pts, 2 wins). DeChambeau 476.90 pts (cleared after wrist injury). Herbert won LIV Virginia last week (24-under fighting flu), earned US Open spot at Shinnecock Hills. DJ in field.
 - **Status:** FOLLOW UP (from 2026-05-11)
 - **Follow-up ideas:** LIV player results at PGA Championship
+
+## 2026-05-13
+
+### STORY 1: PGA Championship Begins Tomorrow at Aronimink — Full Preview
+- **Tier:** 1
+- **Category:** Major Championship Preview
+- **Key facts:** 108th PGA Championship, Round 1 starts May 14, Aronimink Golf Club, Newtown Square PA. First PGA at Aronimink since 1962 (Gary Player won). Scheffler defending +480 favorite. McIlroy +850, Young +1200, Rahm +1500. Course favors iron accuracy. TV: ESPN.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** R1-R4 leaderboard updates; winner recap
+
+### STORY 2: Scheffler Seeks Back-to-Back — Can He End His Runner-Up Streak?
+- **Tier:** 1
+- **Category:** Player Feature / Major Championship
+- **Key facts:** Scheffler: 3 consecutive runner-up finishes (Masters to McIlroy, RBC Heritage playoff loss to Fitzpatrick). First with 3 solo runner-ups in a row since Sergio Garcia 2014. Back-to-back PGA would join Koepka 2018-19 and Tiger. Course suits his iron game.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** Scheffler R1-R4 performance; whether streak ends
+
+### STORY 3: Spieth's Grand Slam Quest — Aronimink Is His Latest Chance
+- **Tier:** 1
+- **Category:** Player Feature / Grand Slam Quest
+- **Key facts:** Spieth 32, won Masters 2015, US Open 2015, Open 2017. Needs PGA Championship. Best result: T3 2019 PGA at Bethpage. Quote: "feels closer than ever." Would be 7th in modern era to complete Grand Slam. Aronimink's precision demands suit his game.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Spieth R1-R4 performance; Grand Slam outcome
+
+### STORY 4: Nelly Korda 4 Points From LPGA Hall of Fame — Queen City Starts Tomorrow
+- **Tier:** 2
+- **Category:** LPGA / HOF Watch
+- **Key facts:** Korda 23/27 HOF points, 4 away. Queen City Championship: May 14-17, Maketewah CC, Cincinnati, $2M purse. Win = +1 pt. Korda has 3 wins in 2026 (TOC, Chevron, Riviera Maya). Thitikul in field (won Mizuho Americas Open May 10).
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** Queen City result; Korda HOF pt update
+
+### STORY 5: LIV Golf's Eleven at Aronimink — Rahm and DeChambeau Have Something to Prove
+- **Tier:** 2
+- **Category:** LIV Golf / Major Championship
+- **Key facts:** 11 LIV players in PGA field (Rahm, DeChambeau, DJ, Cam Smith, Hatton, Niemann, McKibbin, Detry, Kaymer, Puig, Smylie). Rahm T38 Masters, DeChambeau MC at Masters. Rahm leads LIV standings 779 pts. DeChambeau cleared from wrist injury. Rahm +1500, DeChambeau +2000.
+- **Status:** FOLLOW UP (from 2026-05-11)
+- **Follow-up ideas:** Rahm/DeChambeau PGA Championship results

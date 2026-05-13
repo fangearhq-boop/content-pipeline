@@ -46,3 +46,14 @@ Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 - Pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres
 - WordPress publish failed (egress proxy — persistent across all three niches today)
 - Dashboard push failed (PAT lacks write access to content-dashboards repo — consistent with all previous runs)
+
+### 2026-05-13
+- **Steps completed:** 1-10b, 11, 12, 13, 14 (Full pipeline; WordPress blocked)
+- **Stories:** 5 total (3 Tier 1, 2 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-05-13.xlsx (6 posts) + gfr-postplanner-tobi-2026-05-13.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-05-13/review-dashboard.html (26 items)
+- **Notes:** PGA Championship preview (R1 starts May 14 at Aronimink, first PGA there since 1962); Scheffler defending with 3 runner-up streak; Spieth Grand Slam quest (T3 best PGA result, "feels closer than ever"); Korda 23/27 HOF pts + Queen City starts tomorrow; LIV Golf 11 players at Aronimink (Rahm/DeChambeau hungry after Masters failures).
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
