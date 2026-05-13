@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-13
+
+### Story 1: Schwarber Seizes MLB HR Lead — 17th Homer, Phillies Franchise Record 5 Straight Games
+- **Angle:** NEW STORY. Kyle Schwarber hit his 17th HR on May 12 (2-1 Phillies win over Red Sox) to take the MLB HR lead (passing Judge/Murakami). Tied Phillies franchise record with HRs in 5 consecutive games — joins Mike Schmidt, Dick Allen, Bobby Abreu, Chase Utley, Trea Turner, Rhys Hoskins, Odúbel Herrera. 6 HRs in 5-game span personal best. Phillies 20-22, 11-3 under Mattingly.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Phillies series vs Red Sox game 2; Schwarber's HR total if streak extends
+
+### Story 2: Braves Combined 1-Hitter Over Cubs 5-2 — Holmes, Yastrzemski, Riley
+- **Angle:** FOLLOW UP. Braves held Cubs to one hit in 5-2 opener (3-game series at Truist Park). Grant Holmes combined with 3 relievers. Austin Riley HR. Mike Yastrzemski 2-for-2, 2-run HR 5th inning, 3 RBI. Braves 29-13 (NL's best), Cubs 27-15. Braves lead MLB in fewest runs allowed per game (3.44). Cubs had TWO 10-game win streaks in first 40 decisions (first since 1955 Dodgers).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Braves-Cubs Game 2 result (May 13); series outcome
+
+### Story 3: Don Mattingly's Phillies Go 11-3 Since Thomson Firing
+- **Angle:** NEW STORY. Rob Thomson fired April 28 after 9-19 start. Don Mattingly named interim (65, previously managed Dodgers 5 yrs, Marlins 7 yrs; son Preston Mattingly is Phillies GM). Phillies 11-3 under Mattingly. Thomson record: 355-270, back-to-back NL East titles, 4 straight postseasons. Now 20-22 and trending up.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Phillies record through May; whether Mattingly gets permanent offer
+
+### Story 4: Henry Bolte Makes His MLB Debut With Oakland
+- **Angle:** FOLLOW UP. Henry Bolte called up by A's for Tuesday May 12. 22 years old. Triple-A 2026: .348/.418/.658, 12 HR, 7 2B, 3 3B, 17 SB in 37 games (157 wRC+). Had 12-for-12 consecutive hit streak (9 XBH). Born Aug 4, 2003. 2022 2nd round pick (56th overall). No. 5 A's prospect per MLB.com.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Bolte's first MLB stats; Oakland's 2026 development trajectory
+
+### Story 5: Elly De La Cruz Leads All Shortstops in WAR — Mid-May Reality Check
+- **Angle:** FOLLOW UP. De La Cruz .288/.356+/.571+, 10 HR, 29 R, 29 RBI, 9 SB. Leads all SS in WAR. First SS since 1900 with 5+ HR and 5+ SB in team's first 16 games. Avg exit velo 93.9, hard-hit% 50.9, barrel% 15.5, wOBA .383. Season-level MVP argument even without national attention (Reds market size).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** De La Cruz final season totals; Reds' playoff positioning
+
+### Story 6: Tuesday Night Recap — Braves 5-2, Phillies 2-1, Yankees 6-2
+- **Angle:** NEW STORY (Roundup). Full Tuesday night recap: Braves 5-2 Cubs (1-hitter), Phillies 2-1 Red Sox (Schwarber No. 17), Yankees 6-2 Orioles (ended 4-game losing streak). Wednesday preview: Cubs-Braves Game 2 at Truist Park.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Wednesday game results
+
+---
+
 ## 2026-05-12
 
 ### Story 1: Aaron Judge and Munetaka Murakami Tied for MLB HR Lead at 15

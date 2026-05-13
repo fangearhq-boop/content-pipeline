@@ -1,0 +1,337 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-13",
+  "compiled_at": "2026-05-13T10:30:38.078348+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Schwarber Seizes the MLB HR Lead — 17th Homer Ties Phillies Record of 5 Straight HR Games",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kyle Schwarber hit his 17th home run Tuesday, passing Judge and Murakami to take the MLB lead.\n\nHe's now homered in 5 straight games — tying a Phillies franchise record held by Mike Schmidt, Chase Utley, and others.\n\nThe HR race has a new frontrunner. 💪 #Phillies #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Schwarber has hit 6 HRs in 5 games for the first time in his career.\n\nHis 17th HR gave the Phillies a 2-1 win over the Red Sox on Tuesday. The Phillies are now 11-3 under Don Mattingly since firing Rob Thomson.\n\nEverything is clicking in Philadelphia right now. ⚾ #Phillies #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-schwarber-17-hrs-mlb-lead-phillies-record.html",
+        "headline": "Schwarber Seizes MLB HR Lead With 17th, Ties Phillies Franchise Record of 5 Straight Homer Games",
+        "word_count": 476
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber HR Lead / 5-Straight Games\n\n#### Image Concept 1A — Social (1080x1350)\n- **Type:** gemini / mode: base_only\n- **Scene:** Power hitter mid-swing follow-through, stadium lights illuminating a just-launched home run ball arcing against a dark sky, red and white uniform colors, crowd in background erupting\n- **Mood:** Explosive, electric, home run power\n- **Overlay text (Canva):** \"17 HOME RUNS.\" / \"MLB LEAD. PHILLIES RECORD.\" / \"#Phillies\"\n- **Status:** not_started\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** \"Kyle Schwarber Philadelphia Phillies\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber HR Record / HR Race Leader\n**Source:** Washington Post, SI.com, DownBeach/Breaking AC, CBS Sports\n- Kyle Schwarber hit his 17th HR of the season on May 12 (HIGH)\n- HR was the game-winning hit in Phillies 2-1 win over Red Sox (HIGH — ESPN final score confirmed)\n- Schwarber is now the MLB HR leader (HIGH — from HR race overview, 17 ahead of Judge/Murakami ~15-16)\n- Schwarber tied Phillies franchise record: HRs in 5 consecutive games (HIGH — Washington Post, SI.com)\n- List of Phillies who previously held this record: Bobby Abreu, Dick Allen, Odúbel Herrera, Rhys Hoskins, Mike Schmidt, Trea Turner, Chase Utley (HIGH — SI.com confirms)\n- 6 HRs in a 5-game span for Schwarber is a personal first (HIGH — WaPo)\n- Phillies overall record: 20-22 (HIGH)\n- Phillies record under Mattingly: 11-3 (HIGH — multiple sources)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Braves Stifle Cubs on Combined One-Hitter, 5-2 — Holmes Anchors NL's Best Pitching Staff",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Braves held the Cubs to ONE hit Tuesday night.\n\nHolmes combined with 3 relievers in a 5-2 win. Yastrzemski went 2-for-2 with a 2-run HR and 3 RBI. Austin Riley also went deep.\n\nAtlanta (29-13) leads baseball in runs allowed per game. Built differently. ⚾ #Braves #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Cubs (27-15) have had TWO 10-game win streaks this season. First team since the 1955 Dodgers to do it in first 40 decisions.\n\nBut Tuesday in Atlanta? The Braves' pitching staff allowed 1 hit.\n\nNL's top two teams. Series continues tonight. ⚾ #Cubs #Braves #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-braves-combined-one-hitter-cubs-nls-best.html",
+        "headline": "Braves Hold Cubs to One Hit in 5-2 Win — Holmes' Dominant Start Opens NL's Marquee Series",
+        "word_count": 452
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves Combined 1-Hitter over Cubs\n\n#### Image Concept 2A — Social (1080x1350)\n- **Type:** gemini / mode: base_only\n- **Scene:** Baseball pitcher in red and navy uniform mid-delivery, Truist Park stadium visible in background, intense focused expression, dramatic night game lighting\n- **Mood:** Dominant, precise, shutdown pitching\n- **Overlay text (Canva):** \"BRAVES HOLD CUBS TO 1 HIT\" / \"5-2 WIN\"\n- **Status:** not_started\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** \"Atlanta Braves Truist Park pitching\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Braves 5-2 over Cubs, Combined One-Hitter\n**Source:** ESPN box score, MLB.com game story, Bleacher Nation\n- Braves beat Cubs 5-2 on May 12 (HIGH — ESPN final confirmed)\n- Grant Holmes started and combined with three relievers on a one-hitter (HIGH — multiple sources)\n- Austin Riley homered (HIGH)\n- Mike Yastrzemski: 2-for-2, 2-run HR in 5th inning (landed in front of Chop House restaurant in right field), 3 RBI (HIGH)\n- Braves record: 29-13 (HIGH)\n- Cubs record: 27-15 (HIGH)\n- Braves' staff leads MLB in fewest runs allowed per game at 3.44 (HIGH — from power rankings data)\n- Cubs have had TWO 10-game win streaks this season (HIGH — CBS Sports article cited)\n- Cubs feat: first team since 1955 Brooklyn Dodgers to have two 10-game win streaks in first 40 decisions (HIGH — CBS Sports)\n- Series opener of a 3-game set; game 2 May 13 (HIGH)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Mattingly's Phillies Keep Rolling — 11-3 Since Thomson Firing Has Philadelphia Believing",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Phillies were 9-19 when they fired Rob Thomson on April 28.\n\nDon Mattingly took over. Since then: 11-3. Schwarber has gone nuclear. Philly believes again.\n\nFrom worst record in baseball to back in the race — all in 14 games. ⚾ #Phillies #MLB",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-phillies-mattingly-11-3-turnaround.html",
+        "headline": "Mattingly's Phillies Are 11-3 Since Thomson Firing — One of the Best Managerial Turnarounds in Years",
+        "word_count": 505
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Phillies / Mattingly Turnaround\n\n#### Image Concept 3A — Social (1080x1350)\n- **Type:** gemini / mode: base_only\n- **Scene:** Baseball dugout with a manager in red pinstripes conferring with players, stadium stands visible in background, collaborative atmosphere of a team rallying together\n- **Mood:** Leadership, momentum, team belief\n- **Overlay text (Canva):** \"PHILLIES: 11-3 UNDER MATTINGLY\" / \"FROM 9-19 TO BELIEVERS\"\n- **Status:** not_started\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** \"Don Mattingly Philadelphia Phillies dugout\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Phillies / Mattingly Turnaround\n**Source:** Philadelphia Inquirer, NBC Sports Philadelphia, MLBTradeRumors, NBC10 Philadelphia\n- Rob Thomson fired April 28, 2026 (HIGH)\n- Thomson's record at time of firing: 9-19 (HIGH — multiple sources)\n- Don Mattingly named interim manager April 28 (HIGH — multiple sources)\n- Mattingly previously managed LA Dodgers (5 years) and Miami Marlins (7 years) (HIGH)\n- Mattingly age: 65 (HIGH)\n- Mattingly's son Preston Mattingly is Phillies GM (HIGH — CBS Philadelphia)\n- Thomson's overall Phillies managerial record: 355-270 (HIGH — per search)\n- Thomson managed Phillies since June 3, 2022 (HIGH)\n- Under Thomson Phillies went to World Series first time since 2009, four straight postseasons, back-to-back NL East titles (HIGH)\n- Phillies record under Mattingly: 11-3 (HIGH)\n- Phillies overall record: 20-22 (HIGH)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Henry Bolte Makes His MLB Debut — Oakland's Top Prospect Arrives in the Big Leagues",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Henry Bolte made his MLB debut Tuesday for the A's.\n\nHe forced the call-up with a 12-for-12 streak in the minors — yes, 12 consecutive hits with 9 extra-base hits. At Triple-A this year: .348 BA, 12 HR, 17 SB in 37 games.\n\nOakland's best prospect is here. 📈 #Athletics #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Athletics",
+            "#MLB"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-henry-bolte-mlb-debut-athletics.html",
+        "headline": "Henry Bolte Makes His MLB Debut — Oakland's Hottest Prospect Forced His Way to the Show",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Henry Bolte MLB Debut\n\n#### Image Concept 4A — Social (1080x1350)\n- **Type:** gemini / mode: base_only\n- **Scene:** Young outfielder in green and gold uniform in batting stance, Oakland Coliseum stadium in background, bright day game lighting, anticipation before the pitch\n- **Mood:** Fresh, exciting, new chapter\n- **Overlay text (Canva):** \"HENRY BOLTE — MLB DEBUT\" / \".348 BA. 12 HR. 17 SB. NOW IT'S FOR REAL.\"\n- **Status:** not_started\n\n#### Image Concept 4B — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** \"Henry Bolte Oakland Athletics\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Henry Bolte MLB Debut\n**Source:** MLB Trade Rumors, BVM Sports, Athletics Nation, Baseball Biographies\n- Oakland Athletics called up Henry Bolte for Tuesday May 12 game (HIGH)\n- Triple-A stats 2026 (37 games): .348/.418/.658, 12 HR, 7 2B, 3 3B, 17 SB (19 attempts) (HIGH)\n- Had 12-for-12 streak in consecutive plate appearances (12 straight hits) (HIGH — Baseball Biographies, BVM Sports)\n- That streak included 9 extra-base hits (9 XBH in 12 straight) (HIGH — from MLB May 12 pipeline reference)\n- Born August 4, 2003 (HIGH — mlb.com player profile)\n- Drafted 2022, 2nd round, 56th overall pick (HIGH)\n- No. 5 A's prospect per MLB.com (HIGH)\n- Wrc+ of 157 at Triple-A (HIGH)\n- Walk rate 9.6%, strikeout rate 22% at Triple-A (HIGH)\n**Confidence:** HIGH for all Triple-A stats. MLB debut performance stats UNKNOWN (game played May 12 but results not confirmed in search — will note as pending).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Elly De La Cruz Is Baseball's Best Shortstop Right Now — A Mid-May Reality Check",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Elly De La Cruz: .288 BA, 10 HR, 29 RBI, 9 SB. Leads all SS in WAR.\n\nHe's the first shortstop since 1900 to hit 5+ HRs and steal 5+ bases in a team's first 16 games.\n\nThe best shortstop in baseball right now might not even be getting his due. ⚾ #Reds #MLB",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-elly-de-la-cruz-best-shortstop-mid-may.html",
+        "headline": "Elly De La Cruz Is Baseball's Best Shortstop Right Now — A Mid-May Reality Check",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Elly De La Cruz\n\n#### Image Concept 5A — Social (1080x1350)\n- **Type:** gemini / mode: base_only\n- **Scene:** Dynamic shortstop in mid-sprint stealing a base, red uniform, Great American Ball Park in background, crowd exploding, dust kicking up around the bag\n- **Mood:** Speed, energy, elite athlete making the game look easy\n- **Overlay text (Canva):** \"ELLY DE LA CRUZ\" / \"LEADS ALL SS IN WAR\" / \".288 • 10 HR • 9 SB\"\n- **Status:** not_started\n\n#### Image Concept 5B — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** \"Elly De La Cruz Cincinnati Reds\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Elly De La Cruz\n**Source:** ESPN, FanGraphs, Statcast/Baseball Savant, CBS Sports\n- De La Cruz 2026 stats (approximately through May 12): .288 BA, 10 HR, 29 R, 29 RBI, 9 SB (HIGH — ESPN/CBS Sports)\n- Hard hit %: 50.9 (HIGH — Baseball Savant)\n- Average exit velocity: 93.9 mph (HIGH — Baseball Savant)\n- Barrel %: 15.5 (HIGH — Baseball Savant)\n- wOBA: .383 (HIGH — Baseball Savant)\n- Leads all shortstops in WAR (HIGH — from prior pipeline and search results)\n- First SS since 1900 to hit 5+ HRs and steal 5+ bases in first 16 games of a season (HIGH — from prior story history confirmation, research backing)\n- Reds' position player, 24 years old (HIGH)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Tuesday Night Recap and Wednesday Preview — MLB Mid-Week Update",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Tuesday MLB recap:\n\n⚾ Braves 5, Cubs 2 — combined 1-hitter (Holmes)\n⚾ Phillies 2, Red Sox 1 — Schwarber walk-off HR No. 17\n⚾ Yankees 6, Orioles 2 — ended 4-game NY skid\n\nWednesday: Cubs-Braves Game 2 tonight at Truist Park. ⚾ #MLB",
+          "posting_time": "10:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Tuesday Roundup\n**Source:** ESPN scoreboard, CBS Sports\n- Yankees 6-2 over Orioles (May 12) — ended Yankees' 4-game losing streak (HIGH)\n- Phillies 2-1 over Red Sox (May 12) — Schwarber HR (HIGH)\n- Braves 5-2 over Cubs (May 12) — combined one-hitter (HIGH)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

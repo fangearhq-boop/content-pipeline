@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-13
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 1 char violation fixed S2-T1 288→273; 0 after fix), FB posts (6 stories), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (36 claims, IMAGE MISSING expected not_started, S6 missing from image-concepts expected Tier 3 social-only), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 1 char violation fixed before compile (S2-T1 288→273). S6 no image concept — Tier 3 social-only by design.
+- **Key Stories**: Schwarber 17 HRs/MLB lead/tied Phillies franchise record 5-straight HR games (P10), Braves combined 1-hitter 5-2 over Cubs/Yastrzemski 3 RBI/Braves 29-13 (P10), Phillies 11-3 under Mattingly since Thomson firing on 9-19 record (P8), Henry Bolte MLB debut with A's after 12-for-12 minor league streak (P8), De La Cruz leads all SS WAR .288/10HR/9SB (P8), Tuesday MLB roundup Braves-Phillies-Yankees (P4)
+
+## Previous Run
 - **Date**: 2026-05-12
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 1 char violation fixed S2T1 284→280; 0 after fix), FB posts (6 stories), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (43 claims, IMAGE MISSING expected not_started), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
