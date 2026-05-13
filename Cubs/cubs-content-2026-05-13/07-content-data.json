@@ -1,0 +1,305 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-13",
+  "compiled_at": "2026-05-13T22:27:49.406341+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 6",
+      "type": "X"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 7",
+      "type": "X"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 8",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Braves 5, Cubs 2 — Grant Holmes Combines on One-Hitter",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Braves combined on a one-hitter against the Cubs last night. 😬\n\nBregman's solo shot in the 4th was the ONLY hit off Grant Holmes and three relievers. Colin Rea gave up 5 runs on 7 hits.\n\nCubs fall to 27-15, losers of 3 straight.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Braves 5, Cubs 2 — Grant Holmes Combines on One-Hitter\n**Decision:** NEW STORY — last pipeline ran March 30, 2026. This is the first game recap since then (though 45 days have passed, this is today's morning recap of last night's game).\n**Sources:**\n- ESPN game recap: https://www.espn.com/mlb/recap?gameId=401815305 (published May 12, 2026)\n- Bleacher Nation enhanced box score: https://www.bleachernation.com/cubs/2026/05/12/enhanced-box-score-braves-5-cubs-2-may-12-2026/ (May 12, 2026)\n- Bleed Cubbie Blue recap: https://www.bleedcubbieblue.com/chicago-cubs-scores/217809/cubs-braves-score-alex-bregman-colin-rea-mlb (May 12, 2026)\n- Chicago Sun-Times: https://chicago.suntimes.com/cubs/2026/05/12/offensively-challenged-cubs-only-can-muster-one-hit-against-braves-in-loss (May 12, 2026)\n- Bleacher Nation Bregman HR note: https://www.bleachernation.com/cubs/2026/05/12/alex-bregman-slugs-homer-number-four-on-the-season/ (May 12, 2026)\n**Verified Facts (HIGH — multiple sources confirm):**\n- Final score: Braves 5, Cubs 2 ✓\n- Cubs hit total: 1 (one-hitter by Grant Holmes + 3 relievers) ✓\n- Bregman hit: Solo HR, 374 ft to left field, 4th inning ✓\n- Bregman stat line: 1-for-4, 1 RBI, 1 R ✓\n- Bregman HR number: #4 on the season ✓ (confirmed by BN article title)\n- Cubs starter: Colin Rea, 4-2 on season, gave up 5 runs on 7 hits ✓\n- Braves HRs: Austin Riley and Mike Yastrzemski ✓\n- Yastrzemski: 2-for-2, 3 RBI, 2-run HR in 5th ✓\n- Dominic Smith: 4-for-4, 2 runs for Braves ✓\n- Raisel Iglesias: 9th inning, save #7 ✓\n- Dylan Lee: Perfect 8th ✓\n- Braves record: 29-13, major league best ✓\n- Cubs record: 27-15 ✓\n**Verified Facts (MEDIUM — single-source or AI summary):**\n- Ballesteros RBI groundout (not a hit) — accounted for 2nd Cubs run (MEDIUM — single summary)\n- Cubs outscored 14-2 in 3-game losing streak (MEDIUM — single betting preview source)\n- Cubs had 10-game winning streak before this skid (MEDIUM — single betting preview; plausible given 27-15 record but not independently confirmed)\n**Freshness:** Published May 12-13, 2026 — within 24 hours ✓\n**Relevance:** Game recap is mandatory Tier 1 content — always leads. This is the #1 story of the day.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Offense Flatlines — Three Straight Losses After 10-Game Win Streak",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Three straight losses. One hit last night. 😤\n\nThe offense flatlined against the best team in baseball. That's not a cold streak — that's a problem.\n\nImanaga has to stop this tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Liam Hendriks Signs Minor League Deal with Cubs\n**Decision:** NEW STORY — reported today May 13, 2026. Not in prior story history.\n**Sources:**\n- MLB.com official news: https://www.mlb.com/news/liam-hendriks-cubs-deal-2026 (May 13, 2026)\n- MLB Trade Rumors: https://www.mlbtraderumors.com/2026/05/cubs-sign-liam-hendriks.html (May 13, 2026)\n- NBC Chicago: https://www.nbcchicago.com/mlb/chicago-cubs/cubs-sign-free-agent-pitcher-liam-hendriks-to-minor-league-deal-report/3935481/ (May 13, 2026)\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/05/13/now-thats-a-fun-move-the-cubs-are-bringing-in-former-closer-liam-hendriks/ (May 13, 2026)\n**Verified Facts (HIGH — 3+ sources):**\n- Hendriks signed minor league deal with Cubs ✓\n- Will report to Triple-A Iowa ✓\n- Age: 37 ✓\n- Was with Twins in spring 2026, released before Opening Day ✓\n- 3-time All-Star ✓\n- 2-time AL Reliever of the Year ✓\n- Non-Hodgkin's lymphoma diagnosis (post-2022) ✓\n**Verified Facts (MEDIUM — single source or summary):**\n- ERA 2019-2022: 2.26 (from search summary — MEDIUM)\n- Averaged 13.5 K/9 during All-Star years (from search summary — MEDIUM)\n- Only 18 2/3 IP in last 3 seasons (MEDIUM — single summary)\n- All-Star years: 2019, 2020, 2021 (MEDIUM — confirm but consistent across summaries)\n- Reliever of the Year years: 2019, 2020 (MEDIUM — consistent across summaries)\n**Freshness:** Reported May 13, 2026 — same day ✓\n**Relevance:** Breaking roster move, Cubs fans familiar with Hendriks from his White Sox years. Human interest angle (cancer comeback). Tier 2.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Liam Hendriks Signs Minor League Deal with Cubs",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Liam Hendriks is a Cub. Minor league deal, headed to Iowa. 💪\n\n3-time All-Star. 2-time AL Reliever of the Year. Non-Hodgkin's lymphoma survivor.\n\nHe's 37, been through more than most, and he's not done yet.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Exploring Starting Pitcher Trade Market\n**Decision:** NEW STORY — not in prior story history. Sources from May 11-13, 2026.\n**Sources:**\n- Bleacher Nation trade rumor deep dive: https://www.bleachernation.com/cubs/2026/05/11/cubs-trade-rumors-sp/ (May 11, 2026)\n- SI/Cubs: https://www.si.com/mlb/cubs/onsi/cubs-trade-rumors-a-lot-of-starting-pitchers-to-keep-an-eye-on-01krc0y3zea7 (May 2026)\n- MLB Trade Rumors: https://www.mlbtraderumors.com/2026/05/mets-trade-rumors-freddy-peralta-cubs.html (May 2026)\n**Verified Facts (MEDIUM — trade rumors are inherently unconfirmed):**\n- Cubs inquired about Freddy Peralta (Mets) — MEDIUM (MLBTR source, but single report)\n- Trade with Mets \"not likely anytime soon\" per report — MEDIUM\n- Sandy Alcantara (Marlins): $17M/2026, $21M club option 2027 — MEDIUM (contract data, verify Spotrac)\n- Sonny Gray (Red Sox): 3yr/$75M — MEDIUM (consistent with known contract)\n- Names also mentioned: Robbie Ray, Logan Webb (Giants), Clay Holmes (Mets) — LOW (speculation articles)\n**Freshness:** May 11, 2026 — within 48 hours ✓ (2 days old but ongoing rumor cycle)\n**Relevance:** Critical context given Horton out for 2026, Steele returning late May. Cubs need rotation help. Fan-relevant trade speculation.\n**NOTE:** Do NOT present rumored trades as confirmed. Frame as \"Cubs exploring\" and \"linked to\" — these are rumors only.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cubs Exploring Starting Pitcher Trade Market",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Cubs are shopping for a starting pitcher. 🔍\n\nFreddy Peralta, Sandy Alcantara, and Sonny Gray are among the names linked.\n\nCounsell managed Peralta in Milwaukee. With Horton out for 2026, this isn't optional.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Bullpen & Rotation Injury Roundup\n**Decision:** NEW STORY for this pipeline run — last pipeline was March 30. Multiple injury developments since then.\n**Sources:**\n- FanGraphs RosterResource: https://www.fangraphs.com/roster-resource/injury-report/cubs\n- Total Pro Sports: https://www.totalprosports.com/mlb/chicago-cubs/chicago-cubs-injury-update-suzuki-steele-wicks-timeline/\n- FanSided: https://fansided.com/mlb/tracking-every-cubs-pitching-injury-return-timeline-after-matthew-boyd\n- Sports Mockery: https://www.sportsmockery.com/chicago-cubs/justin-steeles-return-date-becomes-clearer-after-roster-update/\n- MLB.com Cubs transactions: https://www.mlb.com/cubs/roster/transactions\n**Verified Facts (HIGH — confirmed across multiple sources):**\n- Cade Horton: UCL revision surgery April 16, out for 2026 ✓ (confirmed from multiple sources including \"15-16 month timetable\")\n- Justin Steele: 60-day IL, left elbow, facing live hitters, late May return ✓\n- Daniel Palencia: 15-day IL retroactive to April 14, left oblique ✓\n- Hunter Harvey: Stress reaction in triceps, out another month from May 9 ✓\n**Verified Facts (MEDIUM — single summary):**\n- Jordan Wicks: On IL at start of season, possible return coming weeks (MEDIUM)\n- Ethan Roberts: 15-day IL retroactive to April 13, right middle finger (MEDIUM)\n- Shelby Miller: 60-day IL, torn UCL + flexor, out to 2027 (MEDIUM)\n- Matthew Boyd: Returned around April 22 from 15-day IL (bicep strain) (MEDIUM)\n**Freshness:** Multiple sources dated May 7-13, 2026 ✓\n**Relevance:** Directly explains Cubs' need for pitching depth and Hendriks signing. Fans need the full picture.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cubs Pitching Injury Update — Horton Out for 2026, Harvey Setback, Steele Close",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs pitching injuries, because you deserve the full picture: 🩹\n\nHorton: UCL revision, out until 2027\nPalencia: Oblique, IL since April\nHarvey: Triceps setback, out another month\nSteele: Late May return, throwing live\n\nStill 27-15. Wild.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Prospects — Hartshorn Impresses, Knoxville & South Bend Win\n**Decision:** NEW STORY — not in prior story history in this form.\n**Sources:**\n- Bleacher Nation prospects report: https://www.bleachernation.com/cubs/2026/05/13/cubs-prospects-513/ (May 13, 2026)\n- Cubs Central draft class check: https://cubscentral.wordpress.com/2026/05/04/draft-class-check-in-hartshorn-snell-kepley-and-jerzembeck-lead-the-way/ (May 4, 2026)\n- North Side Baseball prospect profile: https://northsidebaseball.com/news-rumors/cubs-minor-league/chicago-cubs-2026-top-20-prospects-9-josiah-hartshorn-r2587/\n**Verified Facts (MEDIUM — BN site returned 403, data from search summaries):**\n- Knoxville (Double-A, Tennessee Smokies): Won May 12 game ✓ (from May 12-13 search results)\n- South Bend (High-A Cubs): Won May 12 game ✓ (from May 12-13 search results)\n- Iowa Cubs: Lost to Nashville May 12 ✓ (from search summary)\n- Josiah Hartshorn, OF (Myrtle Beach): .446 OBP, .907 OPS, 3 HRs, 13 RBIs (MEDIUM — from search summary only)\n- Hartshorn is ranked as Cubs' No. 9 prospect per North Side Baseball 2026 prospect list ✓\n**Freshness:** BN report dated May 13, 2026 ✓\n**Relevance:** Farm system health is important context when MLB rotation is decimated by injuries. Tier 3 content.\n**NOTE:** Hartshorn stats are MEDIUM confidence — from search summaries only, not verified against box scores. Use stats conservatively (no superlative claims).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Prospects — Hartshorn Rakes, Knoxville & South Bend Win",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Cubs' farm delivered Tuesday. 🌱\n\nKnoxville (Double-A) and South Bend (High-A) both won. Josiah Hartshorn is slashing .907 OPS in Myrtle Beach — the Cubs' No. 9 prospect is locked in.\n\nWhile the MLB pen burns, the pipeline keeps producing.\n\n#Cubs #CubsBaseball #GoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#GoCubs"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Tonight — Imanaga vs. Ritchie, 6:15 PM CT at Truist Park\n**Decision:** NEW STORY — game preview for today's second game of the series.\n**Sources:**\n- MLB Gameday: https://www.mlb.com/gameday/cubs-vs-braves/2026/05/13/824928/preview (May 13, 2026)\n- ESPN pregame: https://www.espn.com/mlb/preview?gameId=401815320 (May 13, 2026)\n- NBC Sports prediction: https://www.nbcsports.com/betting/mlb/news/cubs-vs-braves-prediction-odds-recent-stats-trends-and-best-bets-for-may-13\n**Verified Facts (MEDIUM-HIGH — multiple preview sources):**\n- Game time: 7:15 PM ET / 6:15 PM CT ✓ (confirmed multiple preview sites)\n- Venue: Truist Park, Atlanta ✓\n- Cubs SP: Shota Imanaga, 4-2, 2.28 ERA, 0.93 WHIP, 53 K ✓ (confirmed by MLB Gameday)\n- Braves SP: JR Ritchie, 1-0, 3.63 ERA, 1.50 WHIP, 13 K ✓ (confirmed by MLB Gameday)\n- Imanaga's team record: 4-1 in his last 5 starts ✓ (MEDIUM — single source)\n- Ritchie BB/9: 6.23 (MEDIUM — single betting source)\n- Cubs walk rate: MLB-best 13.2% last 2 weeks (LOW-MEDIUM — single betting source, plausible)\n- Cubs favored: -136 moneyline (MEDIUM — betting site)\n**Freshness:** May 13, 2026 — same day ✓\n**Relevance:** Tonight's game is the natural anchor for afternoon/evening tweets. Tier 1 for a key series vs. best team in baseball.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Tonight — Imanaga vs. Ritchie, 6:15 PM CT at Truist Park",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Shota Imanaga on the mound tonight in Atlanta. 🔥\n\n4-2, 2.28 ERA. The Cubs need a stopper after 3 straight losses, and they've got their best guy going.\n\nJR Ritchie has a 6.23 BB/9. Cubs lead the majors in walk rate. The matchup couldn't set up better.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 8,
+      "title": "IT'S GAME TIME — Cubs at Braves",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 8",
+          "text": "IT'S GAME TIME. ⚾🌙\n\nCubs vs. Braves. Truist Park. 6:15 PM CT.\n\nImanaga's going. The offense needs to wake up. Let's get a W.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 148
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 8,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

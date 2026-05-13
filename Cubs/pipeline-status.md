@@ -1,7 +1,14 @@
 # Cubs Pipeline Status
 
 ## Last Run
-- **Date**: 2026-03-30 (last FULL pipeline run)
+- **Date**: 2026-05-13 (full pipeline run)
+- **Steps Completed**: Research (15 searches), daily brief (8 stories), research notes, story analysis, X posts (8 tweets), fact-check log, compile-content-data.py, generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — separate repo not in PAT scope)
+- **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-13/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
+- **GitHub Pages Status**: N/A for this run (push rejected)
+- **Issues**: publish-unified-dashboard.py push rejected 403 (content-dashboards is a separate repo). Core deliverable (07-content-data.json) is committed to content-pipeline repo and ready for cubs-x-bot.
+
+## Previous Full Run
+- **Date**: 2026-03-30
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10+ searches), brief, analysis, X posts (7), fact-check, compile, dashboard, publish, PostPlanner export (X only, no TOBI — Cubs is X-only niche)
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/cubs-dashboards/
 - **GitHub Pages Status**: built (workflow deployment)
@@ -55,6 +62,16 @@ to mark them as pipeline-produced.
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-13
+- Stories: 8 (Tier 1: recap, slump take, game preview, game time; Tier 2: Hendriks signing, SP trade market, injury roundup; Tier 3: prospects) — X-only niche
+- X posts: 8 (4 informative / 4 bold-take = 50/50 mix)
+- Char counts: all 8 under 280 (248/206/231/237/263/271/275/148)
+- Fact-check: Manual verification. Key verified facts: Braves 5 Cubs 2, one-hitter, Bregman HR #4, Rea 4-2, Cubs 27-15, Braves 29-13, Imanaga 4-2/2.28 ERA, Ritchie 1-0/3.63 ERA, game 6:15 PM CT, Hendriks MiLB deal confirmed. Flagged: Hartshorn .907 OPS (MEDIUM — search summary only), 10-game win streak (MEDIUM — single source).
+- Dashboard: Generated locally (Cubs/cubs-content-2026-05-13/review-dashboard.html). Publish to content-dashboards FAILED (403 — not in PAT scope).
+- 07-content-data.json: ✓ Compiled, 8 stories, 8 x_posts with posting_time in "H:MM AM/PM CT" format
+- Key stories: Braves 5 Cubs 2 one-hitter Bregman solo HR only hit (P10), Slump take 3 losses after 10-game run (P9), Liam Hendriks MiLB deal Iowa 3x All-Star lymphoma survivor (P8), SP trade market Peralta/Alcantara/Gray linked (P7), Injury roundup Horton 2027 Harvey setback Steele close (P7), Hartshorn .907 OPS Knoxville South Bend win (P6), Imanaga vs Ritchie tonight 6:15 PM CT (P8), Game time (P5)
+- Notes: Full pipeline completed except dashboard remote publish (PAT doesn't include content-dashboards repo). cubs-x-bot will read 07-content-data.json from this repo. No PostPlanner xlsx needed (cubs-x-bot reads JSON directly).
 
 ### 2026-03-30
 - Stories: 7 (2 Tier 1, 4 Tier 2, 1 Tier 3) — X-only niche

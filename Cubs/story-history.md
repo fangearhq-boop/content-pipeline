@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-13
+
+### STORY 1: Braves 5, Cubs 2 — Grant Holmes Combines on One-Hitter
+- **Angle:** NEW STORY. One-hit loss: Bregman's 374-ft solo HR in 4th (HR #4) was the ONLY hit off Holmes + 3 relievers. Rea gave up 5 R on 7 H. Braves 29-13 vs Cubs 27-15. 3-game losing streak after 10-game win streak.
+- **Content Produced:** X (1 post — 7:00 AM CT)
+- **Follow-Up:** Imanaga stops the skid tonight; offense wake-up watch; Braves series outcome
+
+### STORY 2: Cubs Offense Flatlines — Three Straight Losses After 10-Game Run
+- **Angle:** NEW STORY (bold take). Outscored 14-2 in 3 games. Offense went cold vs. best team in baseball.
+- **Content Produced:** X (1 post — 8:15 AM CT)
+- **Follow-Up:** Offense bounceback, Imanaga result tonight
+
+### STORY 3: Liam Hendriks Signs Minor League Deal with Cubs
+- **Angle:** NEW STORY. 3-time All-Star, 2-time AL Reliever of the Year. Non-Hodgkin's lymphoma survivor. 37 years old, reporting to Triple-A Iowa. Low-risk bullpen depth amid multiple injuries (Palencia, Harvey, Roberts).
+- **Content Produced:** X (1 post — 9:30 AM CT)
+- **Follow-Up:** Hendriks progress in Iowa, potential MLB activation timeline
+
+### STORY 4: Cubs Exploring Starting Pitcher Trade Market
+- **Angle:** NEW STORY. Peralta (Mets), Alcantara (Marlins), Gray (Red Sox), Webb/Ray (Giants) linked. Cubs inquired on Peralta per reports. Counsell-Peralta connection from Milwaukee. Not confirmed/imminent.
+- **Content Produced:** X (1 post — 10:45 AM CT)
+- **Follow-Up:** Any completed trade, deadline approach, Steele return impact on need
+
+### STORY 5: Cubs Pitching Injury Update — Horton Out for 2026, Harvey Setback, Steele Close
+- **Angle:** NEW STORY (season arc). Horton: UCL revision April 16, out until 2027. Harvey: triceps stress reaction setback May 9, out another month. Palencia: oblique, IL since April 14. Steele: facing live hitters, late May return.
+- **Content Produced:** X (1 post — 2:30 PM CT)
+- **Follow-Up:** Steele activation date, Harvey recovery, any additional moves
+
+### STORY 6: Prospects — Hartshorn Rakes, Knoxville & South Bend Win
+- **Angle:** NEW STORY. Hartshorn (Myrtle Beach, Single-A): .446 OBP, .907 OPS, 3 HR, 13 RBI — Cubs No. 9 prospect. Knoxville (Double-A) and South Bend (High-A) both won May 12. Iowa lost to Nashville.
+- **Content Produced:** X (1 post — 3:45 PM CT)
+- **Follow-Up:** Hartshorn promotion watch, Knoxville/South Bend series results
+
+### STORY 7: Tonight — Imanaga vs. Ritchie, 6:15 PM CT at Truist Park
+- **Angle:** TODAY. Imanaga (4-2, 2.28 ERA) vs. Ritchie (1-0, 3.63 ERA, 6.23 BB/9). Cubs favored at -136.
+- **Content Produced:** X (1 post — 5:00 PM CT)
+- **Follow-Up:** Game result, Imanaga's line, offense response
+
+### STORY 8: Game Time — Cubs at Braves
+- **Angle:** TODAY (game time energy).
+- **Content Produced:** X (1 post — 6:30 PM CT)
+- **Follow-Up:** Game result for next pipeline
+
+---
+
 ## 2026-03-30
 
 ### STORY 1: Nationals 6, Cubs 3 — Cubs Lose Series 1-2
