@@ -1555,3 +1555,40 @@
 - **Key facts:** Hamilton confirmed no simulator work between Miami and Canada. P6 Miami (collision Colapinto lap 1, floor/sidepod damage). Ferrari 11 upgrades in Miami. Ferrari constructors lead shrunk: 44 pts (after Japan) → 16 pts (after Miami). Leclerc 20s penalty in Miami.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Hamilton Canada result; Ferrari Montreal pace
+
+## 2026-05-13
+
+### STORY 1: Canadian Grand Prix Preview — Antonelli Eyeing Fourth Straight Win
+- **Tier:** 1
+- **Category:** Race Preview
+- **Key facts:** Round 5, May 22-24, Circuit Gilles-Villeneuve, Montreal, 70 laps. Antonelli leads with 100 pts (20 ahead of Russell). McLaren P2-P3 in Miami. Ferrari struggling. Verstappen P7 with 26 pts.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Canadian GP qualifying/race result
+
+### STORY 2: Kimi Antonelli Historic Championship Lead — Youngest Ever at 19
+- **Tier:** 1
+- **Category:** Driver Spotlight / Championship
+- **Key facts:** Antonelli 100 pts, youngest F1 championship leader in history at 19. First driver to win first 3 GPs from pole. Wins in China, Japan, Miami. Leads Russell by 20, Leclerc by 41.
+- **Status:** FOLLOW UP (from 2026-05-03)
+- **Follow-up ideas:** Canada result; championship gap after Round 5
+
+### STORY 3: Hamilton at Ferrari — Struggling Behind Leclerc
+- **Tier:** 1
+- **Category:** Driver News / Team Dynamics
+- **Key facts:** Hamilton P5 (51 pts), 8 behind Leclerc (P3, 59 pts). Quote: "The way we're preparing at the moment is not helping." Ferrari upgrades at Miami brought minimal pace. Leclerc penalized 20s in Miami (P8 after penalty). Hamilton vowed different approach for Canada.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Hamilton Canada result; Ferrari pace update
+
+### STORY 4: McLaren Miami Resurgence — Norris P2, Piastri P3
+- **Tier:** 2
+- **Category:** Team Analysis
+- **Key facts:** Norris P2, Piastri P3 in Miami. Norris P4 standings (51 pts). Piastri P6 (43 pts). McLaren fixed package issues. Reigning champion Norris 49 pts behind Antonelli.
+- **Status:** NEW STORY
+- **Follow-up ideas:** McLaren Canada performance
+
+### STORY 5: Verstappen and Red Bull's Nightmare Season
+- **Tier:** 2
+- **Category:** Team Analysis / Driver News
+- **Key facts:** Verstappen P7, 26 pts, 74 behind Antonelli. 2026 regs not suiting Red Bull. Canada may be test of progress.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Red Bull Canada result; any sign of competitive recovery

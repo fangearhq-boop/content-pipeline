@@ -1,0 +1,278 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-13",
+  "compiled_at": "2026-05-13T11:46:11.650592+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Canadian Grand Prix Preview — Antonelli Eyeing a Fourth Straight Win",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The Canadian GP is just 9 days away.\n\nKimi Antonelli arrives in Montreal on a 3-race winning streak, having won his first 3 GPs from pole.\n\nCan anyone stop him at Circuit Gilles-Villeneuve? #F1 #CanadianGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "The next Formula 1 Grand Prix is less than two weeks away — and the sport is heading to one of the most iconic venues on the calendar.\n\nThe 2026 Canadian Grand Prix runs May 22-24 at the Circuit Gilles-Villeneuve in Montreal, a track famous for its unique rhythm, tight walls, and the notorious \"Wall of Champions.\" It's Round 5 of a 22-race season that has already been defined by a single name: Kimi Antonelli.\n\nThe 19-year-old Mercedes driver arrives at Circuit Gilles-Villeneuve having won his first three grands prix from pole position — a feat that has never been done before in Formula One history. He leads the championship by 20 points over teammate George Russell.\n\nBut Montreal is a circuit that tends to produce drama. Safety cars are common, strategies matter enormously, and the weather can turn a race upside-down in minutes. If there's a place where the chasing pack can find an upset, this is it.\n\nMcLaren had a strong Miami result with Norris second and Piastri third. Ferrari needs to find pace. Red Bull needs to find anything. And Antonelli needs to keep being Antonelli.\n\nWhat are your predictions for Montreal?",
+        "image_caption": "Montreal next. Round 5. Circuit Gilles-Villeneuve. Antonelli arrives with 3 wins from 3 poles. Can the Wall of Champions stop the unstoppable? 🏎️ #F1 #CanadianGP",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-canadian-gp-2026-preview.html",
+        "headline": "Canada Grand Prix Preview: Can Anyone Stop Kimi Antonelli's Historic Winning Streak?",
+        "word_count": 483
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Kimi Antonelli's Historic Championship Lead — Youngest Ever at 19",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kimi Antonelli leads the 2026 F1 championship at 19 years old.\n\nNot just leading — he's the youngest championship leader in F1 history.\n\nFirst driver ever to win his first 3 grands prix from pole position. The records keep falling. #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Antonelli: 100 pts\nRussell: 80 pts\nLeclerc: 59 pts\nNorris: 51 pts\nHamilton: 51 pts\nVerstappen: 26 pts\n\nTwo races into being a frontrunner, Antonelli has a 20-pt lead. Wild. #F1 #Formula1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 186
+        }
+      ],
+      "facebook": {
+        "long_form": "Let's put Kimi Antonelli's start to the 2026 Formula 1 season into perspective.\n\nHe's 19 years old. He replaced Lewis Hamilton at Mercedes. And in his first four Formula 1 grands prix, he has won three of them — from pole position, every single time — becoming the first driver in the sport's history to win his first three races from his first three pole positions.\n\nAfter winning in China, Japan, and Miami, Antonelli leads the 2026 drivers' championship with 100 points. That 20-point gap over second-place George Russell doesn't fully capture how dominant he has been. At Suzuka, he became the youngest driver in F1 history to lead the world championship standings.\n\nWhat makes it even more remarkable is the context. He's a teenager in his debut season at the sport's most iconic team, in a year defined by massive regulation changes that have reshuffled the grid. And while other teams scramble to understand the new era, Antonelli is already at the front — and pulling away.\n\nIs he already the favorite for the 2026 world championship?",
+        "image_caption": "100 points. 3 wins. 3 poles. 19 years old. Kimi Antonelli is the youngest F1 championship leader in history. 🏆 #F1 #Formula1",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-antonelli-youngest-f1-championship-leader.html",
+        "headline": "Youngest Ever, 3-for-3: Why Kimi Antonelli's F1 Start Is Already Historic",
+        "word_count": 450
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Hamilton at Ferrari — Struggling in the Shadow of Leclerc",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lewis Hamilton after Miami: \"I'm going to have a different approach in the next race because the way we're preparing at the moment is not helping.\"\n\nHe's 8 points behind Leclerc and 49 behind Antonelli. Ferrari needs answers. #F1",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "One of the most compelling storylines of the 2026 Formula 1 season is unfolding at Ferrari — and it's not playing out the way Lewis Hamilton imagined.\n\nAfter leaving Mercedes to join Ferrari in what was billed as the beginning of a storybook championship quest, Hamilton finds himself fifth in the standings with 51 points, eight behind his own teammate Charles Leclerc. Ferrari's upgrades at Miami were supposed to close the gap to the front, but the car pace wasn't there and Leclerc picked up a 20-second post-race penalty for corner cutting after spinning.\n\nHamilton's post-Miami comment said it clearly: \"I'm going to have a different approach in the next race because the way we're preparing at the moment is not helping.\"\n\nThat's not a throwaway comment from a seven-time world champion. That's an admission that something isn't working — and a vow to change it. Whether it's simulator preparation, setup philosophy, or something else, Hamilton is clearly not yet fully aligned with the SF-26.\n\nFerrari needs both cars fighting at the front to challenge Mercedes. Hamilton needs to find his feet. Canada could be the circuit where things click — or where the gap widens further.\n\nWhat do you think Ferrari needs to do to unlock Hamilton's pace?",
+        "image_caption": "Hamilton after Miami: \"The way we're preparing is not helping.\" He's 8 points behind Leclerc and 49 behind the leader. The Ferrari reset button gets pressed in Montreal. 🔴 #F1",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-hamilton-ferrari-struggles-2026.html",
+        "headline": "The Ferrari Reality Check: Hamilton Trails Leclerc and Vows a New Approach for Canada",
+        "word_count": 468
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "McLaren's Miami Resurgence — Norris/Piastri Give Ferrari Something to Fear",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "McLaren looked like contenders again in Miami.\n\nNorris P2. Piastri P3. The papaya cars fixed their package issues and the pace is back.\n\nReigning champion Norris is only 49 points behind Antonelli. #F1 #CanadianGP",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "The papaya cars are back.\n\nAfter a frustrating start to the 2026 season, McLaren delivered their best result of the year at the Miami Grand Prix — Lando Norris in second place, Oscar Piastri in third, and a clear signal that the MCL40 has found meaningful pace.\n\nThe team had struggled through the opening rounds to understand their package under the new 2026 regulations, but Miami showed they had cracked the code. Norris, the reigning world champion from 2025, now sits fourth in the standings with 51 points — 49 behind Antonelli — while Piastri is sixth with 43.\n\nFor the Canadian Grand Prix, McLaren should be a genuine threat for podiums, if not victory. Circuit Gilles-Villeneuve rewards technical setups and driver feel, both of which have historically suited McLaren.\n\nThe title fight is still early, but Norris closing the gap from this point onward would make for an extraordinary storyline: the defending champion fighting back against his own former teammate's replacement.\n\nCan McLaren sustain the Montreal form and make it a real three-way fight?",
+        "image_caption": "P2 Norris. P3 Piastri. McLaren is back. The papaya cars are coming for you in Montreal. 🏎️🧡 #F1 #McLaren",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-mclaren-miami-resurgence-norris-piastri.html",
+        "headline": "McLaren Is Back: Norris-Piastri P2-P3 in Miami Signals Real Title Threat",
+        "word_count": 424
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Verstappen and Red Bull's Nightmare — P7, 74 Points Behind the Leader",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Max Verstappen — four-time F1 world champion — is 7th in the 2026 standings.\n\nHe has 26 points. Antonelli has 100.\n\nThe 2026 regulations have been brutal for Red Bull. Canada can't come soon enough for them. #F1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "This time last year, Max Verstappen was the undisputed king of Formula One.\n\nFour world championships. A dominant Red Bull car. No end in sight.\n\nNow in 2026? Verstappen sits seventh in the championship with just 26 points — 74 behind Antonelli — and Red Bull is struggling to make their car competitive in the new regulatory era.\n\nThe issue is fundamental. The 2026 regulations introduced an entirely new aerodynamic and powertrain framework, and Red Bull simply haven't gotten to grips with it. While Mercedes has dominated and McLaren has recovered, Red Bull's car appears to be fighting the regulations rather than working with them.\n\nThe Canadian Grand Prix could be an interesting test. Montreal has historically favored different car characteristics than the high-speed tracks where Mercedes has excelled this season. It's not a guarantee Red Bull can find the setup here, but the hunt for a turning point is real.\n\nWhat would it take for Verstappen to get back to his best in 2026?",
+        "image_caption": "Four-time world champion. 26 points. P7. The 2026 regulations have been brutal for Verstappen and Red Bull. Canada is a chance to turn the corner. 👀 #F1 #Verstappen",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-verstappen-red-bull-2026-struggles.html",
+        "headline": "From Four-Time Champion to P7: The Brutal Reality of Verstappen's 2026 Season",
+        "word_count": 466
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
