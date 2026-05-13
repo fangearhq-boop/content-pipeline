@@ -1,0 +1,336 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-13",
+  "compiled_at": "2026-05-13T10:21:08.876134+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Alabama Opens Title Run at Tuscaloosa Regional — No. 1 Seed's 21-Year Hosting Streak Meets Friday",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Alabama is 49-7. Second-best ERA in college softball at 1.60. 22 shutouts this season.\n\nThe No. 1 seed opens the Tuscaloosa Regional Friday vs. USC Upstate at Rhoads Stadium.\n\nThis is the most dominant team in the country, and they know it. 🥎 #RollTide #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#CollegeSoftball"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Alabama has hosted 21 straight NCAA regionals. That's not just consistency — that's a dynasty standard.\n\nNo. 1 seed. 49-7 record. The Tide's title window doesn't get much bigger than 2026.\n\nTuscaloosa Regional starts Friday. 🥎 #RollTide #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#CollegeSoftball"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-alabama-tuscaloosa-regional-no1-seed.html",
+        "headline": "Alabama Opens Title Run at Tuscaloosa Regional — The No. 1 Seed's 21-Year Hosting Streak Continues Friday",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Tuscaloosa Regional\n\n#### Image Concept 1A — Social (1080x1350)\n- **Type:** gemini / mode: base_only\n- **Scene:** Aerial-style view of a college softball stadium at golden hour, crowd filling the stands, crimson and white team colors visible in dugout area, dramatic stadium lighting warming the infield\n- **Mood:** Dominant, authoritative, championship expectation\n- **Overlay text (Canva):** \"NO. 1 SEED — TUSCALOOSA REGIONAL\" / \"ALABAMA SOFTBALL\"\n- **Status:** not_started\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** \"Alabama Crimson Tide softball Rhoads Stadium\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alabama No. 1 Seed, Tuscaloosa Regional\n**Source:** Alabama Athletics (rolltide.com), SI.com Tuscaloosa Regional Schedule\n- Alabama earned No. 1 national seed in 2026 NCAA DI Softball Tournament (HIGH)\n- Alabama record: 49-7 (HIGH — multiple sources)\n- ERA: 1.60 (2nd-best in country) (HIGH)\n- Shutouts: 22 (HIGH)\n- 27th consecutive NCAA Tournament appearance (HIGH — Alabama Athletics official)\n- 21st consecutive regional hosting / 21st straight top-16 national seed (HIGH — Alabama Athletics official)\n- Rhoads Stadium, Tuscaloosa, AL (HIGH)\n- Tuscaloosa Regional field: Alabama, USC Upstate, Belmont, Southeastern Louisiana (HIGH)\n- Alabama vs. USC Upstate: Friday May 15, 12 PM CT / 1 PM ET, SEC Network (HIGH)\n- Belmont vs. Southeastern Louisiana: Friday May 15, 2:30 PM CT, ESPN+ (HIGH)\n- USC Upstate record: 36-21, 12-6 Big South (HIGH — USC Upstate official news)\n**Confidence:** All facts HIGH. No uncertain claims.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Oklahoma Goes for Nine — Sooners Bring .389 Offense and Dynasty History to Norman Regional",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Oklahoma won 4 straight national titles (2021–2024). They want No. 9 overall.\n\nThe Sooners bring a .389 batting average — best in the nation — and 174 HRs into the Norman Regional. First pitch Friday vs. Binghamton.\n\nThe dynasty isn't done. 🥎 #Sooners #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 268
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Oklahoma is hosting their 15th straight regional. 15 years showing up in May.\n\nNow they're at Love's Field with Michigan, Kansas, and Binghamton standing between them and a super regional.\n\nThey've done it 8 times before. They know how to win in May. 🥎 #Sooners #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners",
+            "#CollegeSoftball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-oklahoma-dynasty-nine-titles-norman-regional.html",
+        "headline": "Oklahoma Goes for Nine: Sooners Launch Norman Regional Bid for Fifth Title in Six Years",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Dynasty, Norman Regional\n\n#### Image Concept 2A — Social (1080x1350)\n- **Type:** gemini / mode: base_only\n- **Scene:** A softball player mid-swing with explosive contact, crimson uniform, packed stadium in blurred background, dramatic side-lighting creating a powerful silhouette effect\n- **Mood:** Dominant, powerful, dynasty energy\n- **Overlay text (Canva):** \"OKLAHOMA SOFTBALL\" / \"FOUR STRAIGHT TITLES. GOING FOR FIVE.\"\n- **Status:** not_started\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** \"Oklahoma Sooners softball Love's Field\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Dynasty, Norman Regional\n**Source:** Oklahoma Athletics (soonersports.com), 247Sports, Sports Illustrated\n- Oklahoma No. 3 national seed (HIGH)\n- Oklahoma record: 48-8, 20-4 in SEC (HIGH — OU official press release)\n- Won consecutive SEC Regular Season Championships (HIGH)\n- .389 batting average — leads the nation (HIGH — from NCAA tournament field announcement)\n- 174 home runs — one of two teams to set or tie NCAA single-season team HR record (HIGH)\n- Norman Regional at Love's Field: Oklahoma vs. Binghamton (2:30 PM Friday), Michigan vs. Kansas (HIGH)\n- 15th consecutive season hosting a regional (HIGH — OU official)\n- Oklahoma won four straight national titles 2021–2024 (HIGH — well-documented)\n- Eyes set on 9th national title overall (HIGH — from NCAA bracketology sources)\n- 9 consecutive College World Series appearances (HIGH — OU official)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Nebraska's Lincoln Regional — Big Ten Champs Host for First Time Since 2013",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nebraska won its 11th Big Ten championship and earned the No. 4 national seed.\n\nFriday they host a regional for the first time since 2013. Opener vs. South Dakota at 5:30 PM ET on ESPN+.\n\nThe Lincoln Regional is back, Husker fans. 🌽 #Huskers #CollegeSoftball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#CollegeSoftball"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-nebraska-lincoln-regional-first-time-2013.html",
+        "headline": "Nebraska's Long-Awaited Return: Big Ten Champs Host Lincoln Regional for First Time Since 2013",
+        "word_count": 472
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska Lincoln Regional\n\n#### Image Concept 3A — Social (1080x1350)\n- **Type:** gemini / mode: base_only\n- **Scene:** College softball stadium from behind home plate, late afternoon sun casting long shadows across the infield, red and white pennants visible in the stands, green turf gleaming\n- **Mood:** Homecoming, anticipation, Big Ten pride\n- **Overlay text (Canva):** \"NEBRASKA SOFTBALL\" / \"FIRST REGIONAL HOST SINCE 2013\"\n- **Status:** not_started\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** \"Nebraska Huskers softball\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nebraska Lincoln Regional\n**Source:** Nebraska Athletics (huskers.com), Sports Illustrated Lincoln Regional page\n- Nebraska No. 4 national seed (HIGH)\n- Won 11th Big Ten championship in program history (HIGH — huskers.com official)\n- First time hosting a regional since 2013 (HIGH — huskers.com official)\n- Lincoln Regional field: Nebraska, South Dakota, Louisville, Grand Canyon (HIGH)\n- Nebraska vs. South Dakota: Friday May 15, 5:30 PM ET / 4:30 PM CT, ESPN+ (HIGH)\n- Louisville vs. Grand Canyon: Friday May 15, 3:00 PM CT (HIGH)\n- Nebraska won Big Ten championship 7-2 over UCLA on May 9 (HIGH — from story history/multiple sources)\n- Megan Grant hit record-breaking 38th HR in that game off Jordy Frahm, 3rd inning, but Nebraska still won 7-2 (HIGH)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Megan Grant's Final Run — 38 HRs and a Shot at a Championship Finale for UCLA",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Megan Grant hit 38 home runs this season. All-time NCAA record.\n\nShe's a senior. This L.A. Regional could be her last games in a UCLA uniform. No. 8 seed at Easton Stadium, first pitch Friday.\n\nShe broke the record. Now can she win a title? 🥎 #UCLA #CollegeSoftball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#UCLA",
+            "#CollegeSoftball"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-megan-grant-final-run-ucla-la-regional.html",
+        "headline": "Megan Grant's Final Run: 38 HRs and a Shot at a Championship Finale at the L.A. Regional",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Megan Grant, UCLA L.A. Regional\n\n#### Image Concept 4A — Social (1080x1350)\n- **Type:** gemini / mode: base_only\n- **Scene:** A softball player in blue and gold uniform celebrating after rounding home plate, arms raised, teammate waiting at the plate, bright California sunshine and stadium crowd in background\n- **Mood:** Joy, celebration, historic achievement\n- **Overlay text (Canva):** \"38 HOME RUNS.\" / \"NCAA SINGLE-SEASON RECORD.\" / \"#CollegeSoftball\"\n- **Status:** not_started\n\n#### Image Concept 4B — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** \"Megan Grant UCLA softball\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Megan Grant, UCLA L.A. Regional\n**Source:** NCAA.com, ESPN, MLBNews, multiple outlets\n- UCLA No. 8 national seed (HIGH)\n- Megan Grant: 38 home runs, NCAA single-season record (HIGH — multiple major outlets)\n- Previous record: 37, Laura Espinoza, Arizona, 1995 (HIGH)\n- Grant broke record in 55 games (vs. Espinoza's 72 games) (HIGH)\n- Grant is a senior (HIGH — UCLA roster/multiple references to \"senior\" season)\n- Jordan Woolery: 33 HRs (HIGH — from research)\n- First teammates in NCAA softball history both with 30+ HRs in same season (HIGH)\n- L.A. Regional at Easton Stadium, UCLA's 12th straight year hosting (HIGH — from story history)\n- L.A. Regional field: UCLA, Cal State Fullerton, South Carolina, Cal Baptist (HIGH)\n- Games begin Friday May 15–17 (HIGH)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Virginia Tech in Baton Rouge — The Bracket's Best Upset Pick Targets No. 16 LSU",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Virginia Tech went 46-10. The NCAA said they can't host. So the Hokies head to Baton Rouge as No. 2 seed behind No. 16 LSU.\n\nFirst game vs. South Alabama, Friday 4 PM ET on ESPN+.\n\nUpset alert: VT is the top dark horse to escape this regional. 🥎 #Hokies #CollegeSoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Hokies",
+            "#CollegeSoftball"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-virginia-tech-baton-rouge-top-upset-pick.html",
+        "headline": "Virginia Tech in Baton Rouge: Why the Hokies Are the Bracket's Best Upset Pick",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Virginia Tech, Baton Rouge\n\n#### Image Concept 5A — Social (1080x1350)\n- **Type:** gemini / mode: base_only\n- **Scene:** A softball player in maroon and orange uniform focused at bat, stadium lights creating a halo effect, the silhouette of a team bench visible in the dugout behind her, determined expression\n- **Mood:** Defiant, motivated, ready to prove a point\n- **Overlay text (Canva):** \"VIRGINIA TECH SOFTBALL\" / \"46-10. NO HOST. NO PROBLEM.\"\n- **Status:** not_started\n\n#### Image Concept 5B — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** \"Virginia Tech Hokies softball\"\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Virginia Tech, Baton Rouge Regional\n**Source:** Virginia Tech Athletics (hokiesports.com), SI.com Baton Rouge Regional page\n- Virginia Tech record: 46-10, 18-6 ACC (HIGH)\n- Virginia Tech ineligible to host a regional (HIGH — NCAA explained publicly)\n- Placed as No. 2 seed in Baton Rouge Regional behind No. 16 LSU (HIGH)\n- Baton Rouge Regional field: LSU (1), Virginia Tech (2), South Alabama (3), Akron (4) (HIGH)\n- Virginia Tech vs. South Alabama: Friday May 15, 4 PM ET, ESPN+ (HIGH)\n- LSU vs. Akron: Friday May 15, 6:30 PM ET (HIGH — consistent with story history brief)\n- South Alabama record: 32-25, 13-11 Sun Belt, Sun Belt Conference automatic bid (HIGH)\n- Virginia Tech is broadly picked as top upset candidate in bracket (MEDIUM — analyst consensus)\n- Virginia Tech is 7th straight regional appearance (HIGH — hokiesports.com official)\n**Confidence:** HIGH for all facts; MEDIUM for \"top upset candidate\" characterization (analyst consensus, not a single verifiable source).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "2026 Softball Regionals TV Guide — Full Schedule, Networks, and Streaming Info",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "2026 NCAA Softball Regionals start Friday. Where to watch:\n\n🟠 Alabama vs. USC Upstate — 1 PM ET, SEC Network\n🟠 Oklahoma vs. Binghamton — 2:30 PM ET\n🟠 VT vs. South Alabama — 4 PM ET, ESPN+\n🟠 Nebraska vs. South Dakota — 5:30 PM ET, ESPN+\n\nAll 16 sites. 48 hours. 🥎 #CollegeSoftball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "TV Guide\n**Source:** ESPN/NCAA schedule\n- All 16 regionals run May 15–17 (HIGH)\n- Networks: ESPN, ESPN2, ESPNU, ESPN+, SEC Network, Big Ten Network (HIGH)\n- WCWS Super Regionals: May 22–24 (HIGH)\n- Women's College World Series: May 28–June 4/5 at Devon Park, Oklahoma City (HIGH)\n- Key regional game times: Alabama vs. USC Upstate (1 PM ET Fri, SEC Network), Nebraska vs. South Dakota (5:30 PM ET Fri, ESPN+), Oklahoma vs. Binghamton (2:30 PM ET Fri), VT vs. South Alabama (4 PM ET Fri, ESPN+), Texas Tech vs. Marist (3:30 PM ET Fri, ESPN+) (HIGH)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

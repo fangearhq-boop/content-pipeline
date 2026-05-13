@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 13, 2026
+
+### Story 1: Alabama Opens Title Run at Tuscaloosa Regional — No. 1 Seed's 21-Year Hosting Streak Continues Friday
+- **Angle:** NEW STORY. Alabama (49-7, No. 1 national seed) enters the Tuscaloosa Regional at Rhoads Stadium for the 21st straight year as a top-16 national seed. 1.60 ERA (2nd-best in country), 22 shutouts. 27th consecutive NCAA Tournament appearance. Field: Alabama vs. USC Upstate (Friday 12 PM CT, SEC Network), Belmont vs. Southeastern Louisiana (2:30 PM CT, ESPN+).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Tuscaloosa Regional results May 15–17; Alabama's path to super regionals
+
+### Story 2: Oklahoma Goes for Nine — Sooners Bring .389 Offense and Dynasty History to Norman Regional
+- **Angle:** NEW STORY. Oklahoma (48-8, No. 3 seed) has won 4 straight national titles (2021–2024) and seeks a 9th overall. .389 BA leads nation; 174 HRs. 15th straight regional hosting season. Norman Regional at Love's Field: Oklahoma vs. Binghamton (2:30 PM Friday), Michigan vs. Kansas. 9 consecutive CWS appearances.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Norman Regional results; whether Georgia's SEC Tournament upset will fuel OU's run
+
+### Story 3: Nebraska's Lincoln Regional — Big Ten Champs Host for First Time Since 2013
+- **Angle:** NEW STORY. Nebraska (No. 4 seed, 11th Big Ten title in program history) hosts Lincoln Regional for first time since 2013. Field: Nebraska vs. South Dakota (5:30 PM ET Friday, ESPN+), Louisville vs. Grand Canyon (3 PM CT Friday). Nebraska gave up Megan Grant's record-breaking 38th HR in Big Ten championship but still won 7-2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Lincoln Regional results; Nebraska's path through super regionals
+
+### Story 4: Megan Grant's Final Run — 38 HRs and a Shot at a Championship Finale
+- **Angle:** FOLLOW UP. Grant (38 HRs, NCAA record, broke in 55 games vs. Espinoza's 72) enters L.A. Regional as senior with title ambitions. Jordan Woolery (33 HRs) = first teammates in NCAA history both with 30+ HRs in same season. UCLA No. 8 seed at Easton Stadium (12th straight hosting). Field: UCLA vs. Cal State Fullerton, South Carolina vs. Cal Baptist.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** L.A. Regional results; Grant's HR total if UCLA advances
+
+### Story 5: Virginia Tech in Baton Rouge — The Bracket's Best Upset Pick Targets No. 16 LSU
+- **Angle:** FOLLOW UP. New angle: VT's match-up breakdown and why they're the consensus top upset pick. VT 46-10 (18-6 ACC), 7th straight regional, opening vs. South Alabama (32-25, Sun Belt), Friday 4 PM ET ESPN+. LSU vs. Akron Friday 6:30 PM ET. VT as No. 2 seed in No. 16 LSU's pod.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** VT result vs. South Alabama; VT-LSU potential regional final
+
+### Story 6: 2026 Softball Regionals TV Guide — Full Schedule, Networks, and Streaming Info
+- **Angle:** NEW STORY (Evergreen). Fan service: how to watch all 16 regionals. Networks: ESPN, ESPN2, ESPNU, ESPN+, SEC Network, Big Ten Network. WCWS Super Regionals May 22–24. WCWS May 28–June 5, Devon Park, Oklahoma City.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Ongoing throughout tournament
+
+---
+
 ## May 12, 2026
 
 ### Story 1: Virginia Tech 46-10, Ineligible to Host Regional, Heads to Baton Rouge

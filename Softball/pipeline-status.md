@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-13
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 3 char violations fixed S2-T1 285→271, S2-T2 281→279, S6-T1 286→278; 0 after fix), FB posts (6 stories), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (105 claims, IMAGE MISSING expected not_started, S6 missing from image-concepts expected Tier 3 social-only), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 3 char violations fixed before compile. S6 no image concept — Tier 3 social-only by design.
+- **Key Stories**: Alabama No. 1 seed 49-7/1.60 ERA/22 shutouts/21st straight regional host/Tuscaloosa Regional (P10), Oklahoma dynasty quest 48-8/.389 BA/174 HRs/4 straight titles (2021-2024)/9th title overall/Norman Regional (P10), Nebraska No. 4 seed hosts Lincoln Regional first time since 2013/11th Big Ten title (P8), Megan Grant final run 38 HRs senior/UCLA No. 8 seed L.A. Regional (P8), Virginia Tech top upset pick in Baton Rouge/46-10/7th straight regional (P7), TV Guide how to watch all 16 regionals (P4)
+
+## Previous Run
 - **Date**: 2026-05-12
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 2 char violations fixed S2-T2 285→278, S5-T1 282→278; 0 after fix), FB posts (6 stories), image concepts (6 for all stories), image manifest, articles (5), fact-check (111 claims, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 25 items), dashboard (25 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
