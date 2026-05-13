@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-13",
+  "compiled_at": "2026-05-13T13:01:30.332702+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Vevor Baby Swing Recall — Suffocation Hazard (CPSC)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RECALL: Vevor baby swings (BB501K, BB702A, BB005K) recalled for suffocation risk — violates the inclined sleeper ban. Stop use immediately. Refund: cut cover in half, email recalling@vevor.com. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 1-2",
+          "text": "About 1,020 Vevor baby swings sold on Amazon (Jan–Aug 2025, $65–$80) recalled. Inclined sleepers cause suffocation risk. Families: destroy cover, photo it, email recalling@vevor.com for full refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-vevor-baby-swing-recall-suffocation.html",
+        "headline": "Vevor Baby Swing Recall: What Colorado Springs Families Need to Do Now",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Vevor Baby Swing Recall\n\n**Image 1-A** (Social 1200x675)\n- **Mode:** base_only\n- **Prompt:** A clean, minimalist safety warning graphic. Warm but serious red-orange gradient background. A baby swing silhouette with a clear red X symbol over it. Bold white text space at bottom: \"SAFETY RECALL\". Simple, immediate, alarming but not terrifying. No text baked in. Studio lighting quality, flat lay style.\n- **Usage:** Primary social post for S1-A and S1-B\n- **Notes:** COS Parenting brand colors (Teal #0097A7, Coral #FF6F61); safety/urgent tone\n\n**Image 1-B** (Article Hero 1200x675)\n- **Mode:** base_only\n- **Prompt:** Overhead view of a parent looking at a product label, warm natural lighting, living room setting. Soft focus on baby items in the background. Conveys careful product safety checking. Diverse representation — could be any family. No text, no specific product branding visible.\n- **Usage:** Article hero for article-01\n- **Notes:** COS Parenting: authentic, warm, practical tone\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Vevor Baby Swing Recall\n**Source 1:** CPSC official (cpsc.gov/Recalls/2026/Sanven-Technology-Recalls-Vevor-Baby-Swings...)\n- Sanven Technology recalls Vevor baby swings\n- Violation: mandatory standard for Infant Sleep Products + inclined sleepers ban\n- ~1,020 units; sold Jan–Aug 2025 on vevor.com and Amazon; $65–$80\n- Models: BB501K, BB702A, BB005K\n- **Confidence: HIGH**\n**Source 2:** Motherly (mother.ly/parenting/safety/vevor-baby-swing-recall/)\n- \"Parents urged to stop using these Vevor baby swings after federal safety recall\"\n- Incline angle >10 degrees; head-forward suffocation mechanism confirmed\n- Remedy: destroy cover, email recalling@vevor.com; call 855-599-6320 Mon–Fri 9 AM–5 PM PT\n- **Confidence: HIGH**\n**Source 3:** vevor.com/pages/vevor-baby-swing-recall (brand recall page)\n- Full refund available; destroy product before refund\n- **Confidence: HIGH**\n**Verified Facts (STORY 1):**\n- [HIGH] ~1,020 units recalled\n- [HIGH] Sold Jan–Aug 2025 on vevor.com and Amazon; price $65–$80\n- [HIGH] Models: BB501K, BB702A, BB005K\n- [HIGH] Violation: Safe Sleep for Babies Act (inclined sleeper ban)\n- [HIGH] Hazard: suffocation from incline >10 degrees\n- [HIGH] Remedy: full refund; contact recalling@vevor.com or 855-599-6320 (M–F, 9 AM–5 PM PT)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "COS Parks to Close 25% of Restrooms and Remove Playground Equipment — Budget Cuts",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Colorado Springs families: ~25% of neighborhood park restrooms will be closed all summer due to budget cuts. Damaged playground equipment will also be removed, not repaired. Check before your next park day. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 2-2",
+          "text": "COS parks this summer: 10 neighborhood restrooms closed, playground equipment removed instead of replaced, Julie Penrose Fountain maintenance halted. Know before you go. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cos-parks-budget-cuts-summer-2026.html",
+        "headline": "COS Parks Budget Cuts: What Families Should Know Before Summer 2026",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Parks Budget Cuts\n\n**Image 2-A** (Social 1200x675)\n- **Mode:** base_only\n- **Prompt:** A wide park scene with an empty swing set, a \"Closed\" sign on a restroom building, and a warm afternoon sky in the background. Colorado mountains visible in the distance. Natural colors, slight melancholy but not alarming. Realistic photography style. Open text area at bottom.\n- **Usage:** Primary social posts S2-A and S2-B\n- **Notes:** Local feel; COS Rocky Mountain backdrop\n\n**Image 2-B** (Article Hero 1200x675)\n- **Mode:** base_only\n- **Prompt:** A family — adults and children — approaching a park gate on a sunny day. One adult notices a posted notice/sign. Children look up curiously. Warm light, Colorado mountains background. Realistic family scene. Diverse representation.\n- **Usage:** Article hero for article-02\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Parks Budget Cuts\n**Source 1:** KRDO (krdo.com/news/2026/02/12/...)\n- \"What Colorado Springs City budget cuts could mean for your family this summer\"\n- Parks, Recreation and Cultural Services Advisory Board confirmed cuts\n- ~25% (10) of neighborhood park permanent restrooms closed for 2026 season\n- Playground equipment: damaged/vandalized equipment will be removed, not replaced\n- Julie Penrose Fountain at America the Beautiful Park: no cleaning/restoration 2026, 2027, 2029, 2030\n- **Confidence: HIGH**\n**Source 2:** City of Colorado Springs (coloradosprings.gov/recreation, coloradosprings.gov/parks)\n- PRCS operates 3 community centers, 7 sports complexes, 5 program areas\n- Serves 300,000+ COS residents\n- **Confidence: HIGH**\n**Verified Facts (STORY 2):**\n- [HIGH] ~25% (10) of neighborhood park permanent restrooms closed 2026 season\n- [HIGH] Playground equipment: removal rather than repair/replacement\n- [HIGH] Julie Penrose Fountain: halted cleaning/restoration 2026, 2027, 2029, 2030\n- [HIGH] Source: Parks, Recreation and Cultural Services Advisory Board (KRDO Feb 2026)\n- [MEDIUM] Specific list of which parks/restrooms are closed (not confirmed; general stat only)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "D49 Graduation 2026 — Full Schedule for District 49 Families",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "D49 families: graduation season starts THIS Friday, May 15 — Springs Studio and Patriot Applied Learning both graduate at COS City Hub. Sand Creek HS at Broadmoor World Arena on May 23. Full schedule at d49.org. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d49-graduation-2026-schedule.html",
+        "headline": "D49 Graduation 2026: Complete Schedule and Tips for Families",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Graduation 2026\n\n**Image 3-A** (Social 1200x675)\n- **Mode:** base_only\n- **Prompt:** Joyful graduation scene: students in caps and gowns throwing caps in the air against a bright Colorado blue sky. Cheerful, celebratory. Wide shot, diverse group. No specific school names. Warm golden hour light.\n- **Usage:** Primary social post for S3-A\n- **Notes:** Celebratory tone; broad graduation imagery\n\n**Image 3-B** (Article Hero 1200x675)\n- **Mode:** base_only\n- **Prompt:** A single graduate in cap and gown smiling with family members embracing on either side. Colorado mountain vista in background. Warm afternoon light. Authentic, emotional celebration.\n- **Usage:** Article hero for article-03\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Graduation 2026\n**Source 1:** D49 official (d49.org/discover-d49/2024-graduation redirect to 2026 info)\n- Springs Studio for Academic Excellence: May 15, 11:30 AM, COS City Hub (4304 Austin Bluffs Pkwy)\n- Patriot Applied Learning Campus: May 15, 3:00 PM, COS City Hub\n- Banning Lewis Preparatory Academy: May 19, 3:00 PM, BLPA Stadium\n- Power Technical Early College HS: May 19, 4:00 PM\n- Liberty Tree Academy: May 22, 6:00 PM\n- Sand Creek High School: May 23, 9:00 AM, Broadmoor World Arena\n- **Confidence: HIGH**\n**Source 2:** D11 official (d11.org/calendars/graduations)\n- Palmer HS: May 19, 9:00 AM, Ed Robson Arena, Colorado College\n- Mitchell HS: May 19, 3:00 PM, Ed Robson Arena\n- Coronado HS: May 20, 9:00 AM, Ed Robson Arena\n- Doherty HS: May 20, 3:00 PM, Ed Robson Arena\n- Achieve/Tesla/Bijou/Odyssey: May 21\n- **Confidence: HIGH**\n**Verified Facts (STORY 3):**\n- [HIGH] D49 graduation dates: May 15, 19, 22, 23 — venues as above\n- [HIGH] D11 graduation dates: May 19-21 at Ed Robson Arena, Colorado College\n- [MEDIUM] Parking/traffic specifics for Broadmoor World Arena (not separately confirmed)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "AAP 2026 Car Seat Safety — Rear-Facing as Long as Possible",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Updated AAP guidance (Feb 2026): keep children rear-facing until the car seat manufacturer's max height OR weight — not age. Summer road trips are coming. Is your COS family's setup up to date? #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-aap-car-seat-safety-rear-facing-2026.html",
+        "headline": "AAP 2026 Car Seat Update: Keep Children Rear-Facing Longer Than You Think",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP Car Seat Safety\n\n**Image 4-A** (Social 1200x675)\n- **Mode:** base_only\n- **Prompt:** A rear-facing infant car seat properly installed in a vehicle back seat. Clean, well-lit interior. A small plush toy next to the seat suggests a baby's space. No child in seat (safety imagery). Bright, reassuring light.\n- **Usage:** Primary social post S4-A\n- **Notes:** Practical, safety-focused\n\n**Image 4-B** (Article Hero 1200x675)\n- **Mode:** base_only\n- **Prompt:** A parent carefully securing a child into a car seat, checking the harness. The child is smiling and looking up at the parent. Warm interior light. Authentic, loving moment. Side view showing rear-facing orientation clearly.\n- **Usage:** Article hero for article-04\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP Car Seat Safety 2026\n**Source 1:** AAP (aap.org/en/policy/) and search results confirming update\n- Child passenger safety guidance updated Feb 12, 2026\n- Rear-facing: as long as possible until max height/weight per car seat manufacturer\n- Updated guidance moves away from age-based milestones\n- **Confidence: HIGH**\n**Source 2:** Multiple AAP policy pages and healthychildren.org (standard AAP dissemination channel)\n- Next stage: forward-facing with harness\n- Following stage: high-back booster or booster with seatbelt\n- **Confidence: HIGH**\n**Verified Facts (STORY 4):**\n- [HIGH] AAP car seat safety guidance updated Feb 12, 2026\n- [HIGH] Rear-facing: until max height/weight dictated by car seat manufacturer\n- [HIGH] Sequence: rear-facing → forward-facing with harness → booster → seat belt only\n- [MEDIUM] Exact AAP document title — confirmed updated Feb 12, 2026 but exact policy title not confirmed in two sources",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "May Is National Bike Month — COS Trails Safety Guide for Families",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "May is National Bike Month. Colorado Springs has 100+ miles of family trails — Pikes Peak Greenway, Bear Creek, Monument Valley Park. Check the helmet fits two fingers above the eyebrow and is CPSC certified. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-national-bike-month-cos-family-trails.html",
+        "headline": "National Bike Month: A Colorado Springs Family Safety and Trails Guide",
+        "word_count": 676
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "National Bike Month\n\n**Image 5-A** (Social 1200x675)\n- **Mode:** base_only\n- **Prompt:** A family cycling together on a paved trail. Colorado mountains and blue sky in background. Two children wearing bright helmets riding alongside an adult. Sunny May afternoon light. Cheerful, active, safe. Flat text area at bottom.\n- **Usage:** Primary social post S5-A\n- **Notes:** COS outdoors feel; celebratory/active\n\n**Image 5-B** (Article Hero 1200x675)\n- **Mode:** base_only\n- **Prompt:** A child putting on a bicycle helmet with an adult helping fit it. Wide smile. Colorful, warm light. Green park grass background, hint of mountains. Action-oriented but calm.\n- **Usage:** Article hero for article-05"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "National Bike Month / COS Trails Safety\n**Source 1:** League of American Bicyclists (bikeleague.org)\n- May = National Bike Month (established annually)\n- **Confidence: HIGH**\n**Source 2:** AAP and CPSC general safety guidance\n- Helmets recommended for all ages cycling\n- CPSC: properly fitted helmet reduces head injury risk significantly (commonly cited as \"up to 85%\")\n- Helmet standards: CPSC certified required for sale in US\n- **Confidence: HIGH (CPSC standard), MEDIUM (85% stat — widely cited, recommend verifying in article)**\n**Source 3:** City of Colorado Springs parks (coloradosprings.gov/parks)\n- COS has extensive multi-use trail system\n- Pikes Peak Greenway, Bear Creek Regional Park, Monument Valley Park are known family trails\n- **Confidence: HIGH**\n**Verified Facts (STORY 5):**\n- [HIGH] May = National Bike Month\n- [HIGH] Helmets are CPSC certified; required for sale in US\n- [HIGH] COS has extensive multi-use trail system\n- [MEDIUM] \"Up to 85% reduction in head injury\" — widely cited stat; note as MEDIUM, flag in article\n- [MEDIUM] 100+ miles of multi-use trails in COS — general city reference, not separately verified today",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

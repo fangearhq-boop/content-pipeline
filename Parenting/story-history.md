@@ -2264,3 +2264,47 @@
 - **Tier:** 2
 - **Key Facts:** AAP 2026 clinical report "Framework for Approaching Healthy Mental and Emotional Development in Pediatrics"; 5 protective factors; sleep: 9-11 hrs elem, 8-10 hrs teens; COS military family population; Sources: AAP clinical report 2026, HealthyChildren.org
 - **Follow-Up Opportunities:** COS mental health resources guide for families; community connection opportunities in Colorado Springs
+
+---
+
+## 2026-05-13
+
+### Story 1: Vevor Baby Swing Recall — Suffocation Hazard
+- **Date:** 2026-05-13
+- **Angle:** NEW STORY (CPSC recall; Sanven Technology; ~1,020 Vevor baby swings; sold Jan–Aug 2025 on vevor.com/Amazon; $65–$80; models BB501K, BB702A, BB005K; violates Safe Sleep for Babies Act inclined sleeper ban; incline >10°; suffocation risk; full refund at recalling@vevor.com or 855-599-6320 M–F 9AM–5PM PT)
+- **Content Produced:** Article, 2 X Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** CPSC recall; ~1,020 units; Amazon Jan–Aug 2025; $65–$80; models BB501K/BB702A/BB005K; Safe Sleep for Babies Act violation; recalling@vevor.com; 855-599-6320; Source: cpsc.gov, mother.ly, vevor.com/pages/vevor-baby-swing-recall
+- **Follow-Up Opportunities:** Full inclined sleeper product round-up; safe sleep guide for COS families
+
+### Story 2: COS Parks Budget Cuts Summer 2026
+- **Date:** 2026-05-13
+- **Angle:** NEW STORY (~25% of neighborhood park restrooms closed all season; damaged playground equipment removed not replaced; Julie Penrose Fountain maintenance halted 2026/2027/2029/2030; PRCS Advisory Board confirmed; Source: KRDO Feb 12, 2026)
+- **Content Produced:** Article, 2 X Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** ~25% (10) restrooms closed; playground equipment removal not replacement; Julie Penrose Fountain halted; PRCS Advisory Board; KRDO Feb 2026; coloradosprings.gov/PRCS
+- **Follow-Up Opportunities:** Full COS parks resource guide; community center programming guide
+
+### Story 3: D49 Graduation 2026 — Complete Schedule
+- **Date:** 2026-05-13
+- **Angle:** NEW STORY (D49 graduation ceremonies May 15–23; Springs Studio May 15 11:30AM COS City Hub; Patriot Applied Learning May 15 3PM COS City Hub; BLPA May 19 3PM; Power Technical May 19 4PM; Liberty Tree May 22 6PM; Sand Creek HS May 23 9AM Broadmoor World Arena; D11 ceremonies May 19–21 Ed Robson Arena Colorado College)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** D49 schedule confirmed d49.org; D11 schedule d11.org; Sand Creek HS at Broadmoor World Arena May 23 at 9AM
+- **Follow-Up Opportunities:** Post-graduation COS summer resources guide
+
+### Story 4: AAP 2026 Car Seat Safety — Rear-Facing Update
+- **Date:** 2026-05-13
+- **Angle:** NEW STORY (AAP child passenger safety guidance updated Feb 12, 2026; rear-facing until car seat manufacturer's max height/weight — not age-based milestone; sequence: rear-facing → forward-facing with harness → booster → seat belt; COS summer road trips angle)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** AAP guidance updated Feb 12, 2026; rear-facing: manufacturer max height/weight governs timing; Source: AAP HealthyChildren.org
+- **Follow-Up Opportunities:** COS car seat inspection location guide
+
+### Story 5: National Bike Month — COS Family Trails Safety Guide
+- **Date:** 2026-05-13
+- **Angle:** NEW STORY (May = National Bike Month; COS 100+ miles multi-use trails; Pikes Peak Greenway, Bear Creek, Monument Valley Park; helmet safety: CPSC certified, two-finger fit test, replace after impact; AAP recommends helmets for all ages)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** May = National Bike Month (League of American Bicyclists); CPSC certified helmets; COS trail system; Sources: AAP, CPSC, coloradosprings.gov/parks
+- **Follow-Up Opportunities:** COS bike shop guide; trail map for beginners
