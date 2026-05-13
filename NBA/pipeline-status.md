@@ -4,6 +4,18 @@
 
 ## Pipeline Run Log
 
+### 2026-05-13
+- **Steps completed:** 1-10b, 11, 12, 13, 14 (Full pipeline; WordPress blocked)
+- **Stories:** 5 total (4 Tier 1, 1 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-05-13.xlsx (6 posts) + hh-postplanner-tobi-2026-05-13.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-13/review-dashboard.html (26 items)
+- **Notes:** Thunder sweep Lakers (OKC 8-0, Game 4: 115-110 May 11) — SGA 35, Holmgren 18.6/9.1/60% for series. Wemby 27/17/5/3 in Spurs 126-97 Game 5 win (18 pts in Q1, 3rd-youngest 25/15/5 in playoff history); Spurs lead 3-2, G6 Fri in MIN. Knicks sweep PHI (G4: 144-114); Brunson 29 ppg, McBride 25/7 3s (tied NBA playoff 3PT record); 19.4-pt margin largest since 1984. Cavs-Pistons G5 TONIGHT 8PM ET ESPN, series 2-2, Mitchell 43 in G4, Cade 31.8/8.2 at home. Spurs-Wolves G6 Fri May 15 at Target Center.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+
 ### 2026-05-12
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

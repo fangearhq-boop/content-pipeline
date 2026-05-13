@@ -1731,3 +1731,40 @@
 - **Key facts:** LeBron 41, 23rd NBA season ends. Finals stats: 24 pts/14 reb in G4. All-time leading scorer. Missed bank shot with 20 seconds left. No retirement announcement.
 - **Status:** NEW STORY
 - **Follow-up ideas:** LeBron retirement announcement or return decision
+
+## 2026-05-13
+
+### STORY 1: Thunder Complete Sweep of Lakers, Advance to Western Conference Finals
+- **Tier:** 1
+- **Category:** Series Result / Playoff Advancement
+- **Key facts:** Thunder sweep Lakers 4-0; Game 4: OKC 115-110 (May 11). SGA 35 pts. Holmgren series: 18.6 ppg/9.1 reb/60% FG. Thunder 8-0 in 2026 playoffs. Await Spurs-Wolves winner in WCF.
+- **Status:** NEW STORY
+- **Follow-up ideas:** WCF opponent confirmation; Holmgren as series MVP narrative; LeBron retirement
+
+### STORY 2: Wembanyama 27/17/5/3 Leads Spurs to 3-2 Series Lead Over Timberwolves
+- **Tier:** 1
+- **Category:** Game Result / Player Performance
+- **Key facts:** Spurs 126-97 Wolves (May 12). Wemby: 27 pts (9-16 FG), 17 reb, 5 ast, 3 blk; 18 pts in Q1. Third-youngest player with 25+pts/15+reb/5+ast in playoff game (behind Magic, Luka). Spurs 68-36 in paint. Spurs lead 3-2. Game 6 Fri May 15 at Target Center.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** Game 6 result; WCF matchup if Spurs win
+
+### STORY 3: Knicks Sweep 76ers, Return to Eastern Conference Finals
+- **Tier:** 1
+- **Category:** Series Result / Playoff Advancement
+- **Key facts:** Knicks sweep PHI (G4: 144-114, May 10). Brunson 29.0 ppg/6.0 apg series average. McBride 25 pts/7 threes in G4 (tied NBA playoff record for 3s). 19.4-pt avg margin, largest since 1984. Await Cavs/DET winner in ECF.
+- **Status:** NEW STORY
+- **Follow-up ideas:** ECF opponent; McBride breakout narrative
+
+### STORY 4: Cavaliers-Pistons Game 5 Tonight — Mitchell vs. Cunningham in Detroit
+- **Tier:** 1
+- **Category:** Game Preview
+- **Key facts:** Game 5: May 13, 8:00 PM ET, ESPN, Little Caesars Arena. Series tied 2-2. Mitchell 43 pts in G4. Cade 31.8 pts/8.2 ast in home playoff games. Cavs erased deficit with 24-0 run.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** Game 5 result; Game 6 date if needed
+
+### STORY 5: Spurs-Timberwolves Game 6 Preview — Wolves Face Elimination
+- **Tier:** 2
+- **Category:** Game Preview
+- **Key facts:** Game 6: Fri May 15, Target Center, Minneapolis. Spurs lead 3-2. Edwards 36/16 in G4, limited in G5. Wolves 2-1 at home this series.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** Game 6 result; potential Game 7
