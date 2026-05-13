@@ -1,0 +1,289 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-13",
+  "compiled_at": "2026-05-13T12:50:18.007152+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sinner vs Rublev — ATP Rome QF (Record on the Line)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Sinner has 31 consecutive Masters 1000 wins — tied with Djokovic for the all-time record.\n\nOne more today vs. Rublev and he owns it alone.\n\nThe Career Golden Masters quest continues at Rome. 🎾\n\n#TennisRecap #ItalianOpen #Sinner #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#Sinner",
+            "#ATP"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Win No. 32 today = sole owner of the all-time Masters 1000 winning streak.\n\nRome is the ONLY Masters title Sinner hasn't won.\n\nHistory on two fronts in one match. 🏆 #TennisRecap #ItalianOpen #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#ATP"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-sinner-rublev-rome-qf-record.html",
+        "headline": "Sinner Chases Sole Masters Record in Rome Quarterfinal vs. Rublev",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner vs Rublev QF\n\n**Image 1-A** (Social 1080x1350)\n- **Type:** imagn\n- **Search Terms:** Jannik Sinner Internazionali BNL d'Italia\n- **Usage:** Primary social post for S1-A and S1-B\n- **Credit:** (Imagn Images)\n- **Notes:** Portrait orientation; clay court; Sinner in action/celebrating\n\n**Image 1-B** (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Terms:** Jannik Sinner tennis\n- **Usage:** Article hero for article-01\n- **Credit:** (Imagn Images)\n- **Notes:** Landscape; strong forehand or celebration shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner vs Rublev — ATP Rome QF\n**Source 1:** ATP Tour official (atptour.com/en/news/sinner-pellegrino-rome-2026-tuesday)\n- Sinner def. Pellegrino 6-2, 6-3 on May 12 — 31st consecutive M1000 win, tying Djokovic all-time record\n- **Confidence: HIGH**\n**Source 2:** ESPN (espn.com/tennis/story/_/id/48751002)\n- \"Sinner prevails in Rome, matches Djokovic's Masters win streak\"\n- 31-match M1000 streak confirmed\n- **Confidence: HIGH**\n**Source 3:** TASS (tass.com/sports/2130037)\n- Rublev (No. 12 seed) advanced; set up QF clash with Sinner\n- Rublev def. Basilashvili 3-6, 7-6(5), 6-2\n- **Confidence: HIGH**\n**Source 4:** atptour.com/en/news/sinner-rome-2026-results-stats-titles-records-draw\n- Career Golden Masters context: Sinner won 8 of 9 M1000 titles; Rome the only one remaining\n- Win would also be record 5th consecutive M1000 title (Open Era first)\n- **Confidence: HIGH**\n**Verified Facts (STORY 1):**\n- [HIGH] Sinner's M1000 streak entering QF: 31 wins (tied Djokovic)\n- [HIGH] Win vs Rublev = 32nd = sole all-time record\n- [HIGH] Rublev def. Basilashvili 3-6, 7-6(5), 6-2\n- [HIGH] Sinner has won 8 of 9 M1000 titles; Rome is the only one remaining\n- [HIGH] Career Golden Masters: only Djokovic has previously achieved it\n- [MEDIUM] Sinner H2H vs Rublev — Sinner strongly leads (exact count not double-sourced today)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Swiatek Dominates Pegula 6-1, 6-2 — Into Rome SF",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Iga Swiatek dropped just 3 games against Pegula (6-1, 6-2) to reach the Rome semifinals.\n\nPegula had won their last 2 meetings. Not today.\n\nRoland Garros is 12 days away and Swiatek looks ready. 🎾 #TennisRecap #ItalianOpen #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#WTA"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 2-2",
+          "text": "New coach. Dominant tennis.\n\nSwiatek obliterated Pegula 6-1, 6-2 in Rome.\n\nUnder Francisco Roig, the four-time Roland Garros champion is building the form she needs — and the clay Slam is 12 days out. 🔥 #TennisRecap #WTA #ItalianOpen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#WTA",
+            "#ItalianOpen"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-swiatek-dominates-pegula-rome-sf.html",
+        "headline": "Swiatek Drops Just 3 Games Against Pegula, Surges Into Rome Semifinals",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Swiatek def. Pegula\n\n**Image 2-A** (Social 1080x1350)\n- **Type:** imagn\n- **Search Terms:** Iga Swiatek Internazionali BNL d'Italia\n- **Usage:** Primary social post for S2-A and S2-B\n- **Credit:** (Imagn Images)\n- **Notes:** Swiatek fist pump or dominant backhand on clay\n\n**Image 2-B** (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Terms:** Iga Swiatek tennis\n- **Usage:** Article hero for article-02\n- **Credit:** (Imagn Images)\n- **Notes:** Clay court; celebration or intense focus\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Swiatek def. Pegula 6-1, 6-2\n**Source 1:** WTA official (wtatennis.com/videos/4503164)\n- \"Swiatek concedes only three games against Pegula to reach Rome semifinals\"\n- Score: 6-1, 6-2 confirmed\n- **Confidence: HIGH**\n**Source 2:** readers.id/en/swiatek-dominates-pegula-rome-quarterfinals\n- \"Iga Swiatek Dominates Opening Set Against Jessica Pegula in Rome\"\n- Swiatek surged to 5-0 lead; Pegula held at 5-1; closed 6-1\n- **Confidence: HIGH**\n**Source 3:** sofascore.com (WTA QF preview/stats)\n- H2H: Swiatek leads 6-5; Pegula won last 2 meetings in straight sets\n- Swiatek sole clay head-to-head meeting: Roland Garros 2022 (Swiatek won)\n- **Confidence: HIGH**\n**Verified Facts (STORY 2):**\n- [HIGH] Score: Swiatek def. Pegula 6-1, 6-2\n- [HIGH] Total games dropped: 3 (1 in first set + 2 in second)\n- [HIGH] Pegula had won last 2 meetings in straight sets\n- [HIGH] Swiatek new coach: Francisco Roig (Nadal's coach 2005-2022)\n- [HIGH] Roland Garros main draw: May 25 (12 days from May 13)\n- [MEDIUM] Swiatek SF opponent (Rybakina or Svitolina — match not yet played)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Gauff Survives Andreeva on 5th Match Point — Into Rome SF",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Gauff def. Andreeva 4-6 6-2 6-4 in 2h17m — needed five match points to close it.\n\nThe Rome semifinal is set: defending RG champion Gauff vs. 36-year-old fairy tale Cirstea.\n\nThis is unmissable. 🎾 #TennisRecap #ItalianOpen #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#WTA"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Coco Gauff was up 5-1 in the third. Got broken. Needed 5 match points. Still won.\n\nThat's a Roland Garros champion. She's through to the Rome SF vs. Cirstea (4-6, 6-2, 6-4). 🏆 #TennisRecap #ItalianOpen #Gauff",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#Gauff"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-gauff-survives-andreeva-five-match-points.html",
+        "headline": "Gauff Survives Andreeva on Fifth Match Point to Reach Rome Semifinals",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Gauff def. Andreeva\n\n**Image 3-A** (Social 1080x1350)\n- **Type:** imagn\n- **Search Terms:** Coco Gauff Internazionali BNL d'Italia\n- **Usage:** Primary social post for S3-A and S3-B\n- **Credit:** (Imagn Images)\n- **Notes:** Gauff celebrating on clay; intense emotion\n\n**Image 3-B** (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Terms:** Coco Gauff tennis\n- **Usage:** Article hero for article-03\n- **Credit:** (Imagn Images)\n- **Notes:** Dominant action shot; clay surface\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Gauff def. Andreeva 4-6, 6-2, 6-4\n**Source 1:** Olympics.com\n- \"Italian Open 2026: Coco Gauff converts fifth match point to beat Mirra Andreeva and reach Rome semifinals\"\n- Score: 4-6, 6-2, 6-4 confirmed; five match points needed; 2h17m\n- **Confidence: HIGH**\n**Source 2:** tennistemple.com (match page)\n- SF opponent: Sorana Cirstea confirmed\n- **Confidence: HIGH**\n**Source 3:** yournews.com\n- \"On fifth match point, Coco Gauff advances to semifinals in Rome\"\n- Gauff had 5-1 lead in third, broken before converting 5th match point\n- **Confidence: HIGH**\n**Verified Facts (STORY 3):**\n- [HIGH] Score: 4-6, 6-2, 6-4 (Gauff wins)\n- [HIGH] Duration: 2h17m\n- [HIGH] 5 match points needed\n- [HIGH] Gauff led 5-1 in third, was broken before closing\n- [HIGH] SF opponent: Cirstea\n- [HIGH] Gauff is defending Roland Garros champion",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cirstea's Fairytale — Into First Career Rome SF at 36",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Sorana Cirstea is 36. In her final season. Just reached her FIRST career Rome semifinal.\n\nShe beat Sabalenka (No. 1) and Ostapenko to get here.\n\nThe Cinderella story of clay season continues. ✨ #TennisRecap #ItalianOpen #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#WTA"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cirstea-first-career-rome-semifinal.html",
+        "headline": "Cirstea Reaches First Career Rome Semifinal at 36, Capping a Week That Defies Belief",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cirstea Rome SF\n\n**Image 4-A** (Social 1080x1350)\n- **Type:** imagn\n- **Search Terms:** Sorana Cirstea tennis\n- **Usage:** Primary social post for S4-A\n- **Credit:** (Imagn Images)\n- **Notes:** Emotional celebration; clay court preferred\n\n**Image 4-B** (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Terms:** Sorana Cirstea tennis\n- **Usage:** Article hero for article-04\n- **Credit:** (Imagn Images)\n- **Notes:** Portrait or action; warm/positive expression\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cirstea first career Rome SF\n**Source 1:** WTA official (wtatennis.com/news/4502804)\n- \"By the Numbers: Cirstea reaches first Rome semifinal at 36\"\n- Confirmed first career Rome SF\n- **Confidence: HIGH**\n**Source 2:** tennistemple.com video\n- \"Sorana Cirstea defeats Jelena Ostapenko at Rome 2026 – Quarter-Final\"\n- QF win confirmed\n- **Confidence: HIGH**\n**Source 3:** WTA official (wtatennis.com/videos/4502258)\n- \"Cirstea defeats Noskova to reach first career quarterfinal in Rome\"\n- R16 win over Noskova confirmed\n- **Confidence: HIGH**\n**Source 4:** WTA official news (wtatennis.com/news/4502315)\n- \"Week in review: Cirstea's storybook Rome run, Aryna's earliest exit in 15 months\"\n- R3 upset of Sabalenka (world No. 1) confirmed\n- **Confidence: HIGH**\n**Verified Facts (STORY 4):**\n- [HIGH] Cirstea def. Ostapenko 6-1, 7-6(7) in QF\n- [HIGH] Previously def. Noskova (R16) — first career Rome QF\n- [HIGH] Previously def. Sabalenka (No. 1) in R3\n- [HIGH] First career Rome SF — age 36\n- [HIGH] Cirstea announced this is her final season\n- [HIGH] SF opponent: Gauff",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Jodar vs Darderi — All-Youth ATP Rome QF",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tonight in Rome: 19yo Jodar (youngest QFer here since Djokovic in 2007) vs. Darderi, who stunned Zverev from 4 match points down.\n\nWinner faces Sinner in the semis.\n\nThis is the match. 🎾 #TennisRecap #ItalianOpen #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#ATP"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-jodar-darderi-rome-qf-preview.html",
+        "headline": "Jodar vs. Darderi: Youth, Home Crowds, and a Semifinal Berth on the Line in Rome",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jodar vs Darderi\n\n**Image 5-A** (Social 1080x1350)\n- **Type:** imagn\n- **Search Terms:** Rafael Jodar tennis\n- **Usage:** Primary social post for S5-A\n- **Credit:** (Imagn Images)\n- **Notes:** Young Spanish player in action; clay court\n\n**Image 5-B** (Article Hero 1200x630)\n- **Type:** imagn\n- **Search Terms:** Luciano Darderi tennis\n- **Usage:** Article hero for article-05\n- **Credit:** (Imagn Images)\n- **Notes:** Darderi celebrating or intense action on clay"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jodar vs Darderi QF\n**Source 1:** ATP official (atptour.com/en/news/jodar-tien-rome-2026-tuesday)\n- \"Rafael Jodar becomes youngest Rome quarter-finalist in 21 years\"\n- Jodar def. Tien 6-1, 6-4; youngest Rome QFer since Djokovic 2007\n- **Confidence: HIGH**\n**Source 2:** ATP official (atptour.com/en/news/zverev-darderi-rome-2026-tuesday)\n- \"Luciano Darderi saves 4 MPs, upsets Alexander Zverev in Rome thriller\"\n- Score: 1-6, 7-6(10), 6-0 confirmed; 4 match points saved in 2nd set TB\n- **Confidence: HIGH**\n**Source 3:** tennistonic.com\n- \"ROME RESULTS. Jannik Sinner, Daniil Medvedev, Rafael Jodar win, Alexander Zverev was upset\"\n- Both results confirmed\n- **Confidence: HIGH**\n**Verified Facts (STORY 5):**\n- [HIGH] Jodar def. Tien 6-1, 6-4\n- [HIGH] Jodar youngest Rome QFer since Djokovic 2007 (19 years old)\n- [HIGH] Darderi def. Zverev 1-6, 7-6(10), 6-0 (saved 4 match points in 2nd set TB)\n- [HIGH] Jodar career-high No. 42; won Marrakech 2026; reached Barcelona SF\n- [HIGH] Darderi Italian — first Masters 1000 QF\n- [HIGH] Match scheduled May 13, 8:30 PM Campo Centrale",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
