@@ -1,0 +1,344 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-14",
+  "compiled_at": "2026-05-14T12:22:11.702084+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Sinner vs Rublev — QF Record Day at Rome",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Sinner enters today's Rome QF vs Rublev at 31 consecutive M1000 wins — tied with Djokovic for the all-time record.\n\nA win = sole history-maker AND his only missing Masters title.\n\nHistoric day at the Foro Italico. 🎾 #TennisRecap #ItalianOpen #Sinner #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#Sinner",
+            "#ATP"
+          ],
+          "char_count": 254
+        },
+        {
+          "label": "Post 1-2",
+          "text": "31 straight Masters wins for Sinner heading into Rome QF.\n\nA win today = 32 and sole ownership of the greatest M1000 streak in history.\n\nCareer Golden Masters also on the line. 🏆 #TennisRecap #ItalianOpen #Sinner #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#Sinner",
+            "#ATP"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-sinner-rome-qf-masters-record.html",
+        "headline": "Sinner Chases Sole Masters Record in Rome Quarterfinal Against Rublev",
+        "word_count": 711
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social post (X + Facebook)"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [
+            "None — featured image handled by WordPress"
+          ],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner vs Rublev — QF Record Day\n**Verified Facts:**\n- [HIGH] Sinner def. Andrea Pellegrino 6-2, 6-3 in Rome R4 (R16) on May 12 — 31st consecutive M1000 win (Source: olympics.com headline \"Sinner ties Novak Djokovic's all-time Masters 1000 win streak\")\n- [HIGH] 31 consecutive M1000 wins = ties Djokovic's all-time record (Source: atptour.com, olympics.com, ESPN — multiple independent sources)\n- [HIGH] Sinner has won 8 of 9 M1000 titles; Rome is the only title missing (Career Golden Masters) — established fact from previous pipelines, confirmed ongoing\n- [HIGH] QF opponent: Andrey Rublev, No. 12 seed (Source: atptour.com draws)\n- [MEDIUM] Sinner leading 6-2 in Set 1 at time of writing (Source: single source — sky sport Italy live score; match in progress)\n- [HIGH] Win would = 32nd consecutive M1000 win = sole all-time record\n- [MEDIUM] Sinner H2H advantage over Rublev: leads heavily (exact record not independently verified in this session, but well-established; prior pipelines cited 7-3)\n**Notes:** Match in progress. Write as preview/day-of coverage with record stakes clearly framed. Do NOT report final score as confirmed.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Svitolina Shocks Rybakina — Saves 16 Break Points in Rome QF",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Svitolina saved 16 break points to upset No. 2 seed Rybakina in Rome — into her first SF at the Foro Italico since winning the title in 2018.\n\nThe veterans are refusing to go quietly. 🎾 #TennisRecap #ItalianOpen #WTA #Svitolina",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#WTA",
+            "#Svitolina"
+          ],
+          "char_count": 227
+        },
+        {
+          "label": "Post 2-2",
+          "text": "16 break points saved. No. 2 seed Rybakina beaten. First Rome SF since 2018.\n\nSvitolina didn't just beat Rybakina — she outfought her.\n\nThe Ukrainian veteran is back. #TennisRecap #ItalianOpen #Svitolina #WTA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#Svitolina",
+            "#WTA"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-svitolina-upsets-rybakina-rome-qf.html",
+        "headline": "Svitolina Saves 16 Break Points, Upsets Rybakina to Reach First Rome Semifinal Since 2018",
+        "word_count": 700
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social post"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article (if Svitolina image not available)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Svitolina def. Rybakina\n**Verified Facts:**\n- [HIGH] Svitolina defeated Rybakina in Rome QF (Source: wtatennis.com headline \"Svitolina saves 16 break points, stuns Rybakina to reach first Rome semifinal since 2018\")\n- [HIGH] Svitolina saved 16 break points (Source: wtatennis.com article title — direct; lobandsmash.com confirms upset)\n- [MEDIUM] Score: 2-6, 6-4, 6-4 in 2h23m (Source: AI summary of wtatennis.com; single source for exact score — use with care)\n- [HIGH] First Rome SF since 2018 (Source: wtatennis.com headline)\n- [HIGH] Svitolina won Rome in 2018 — established fact\n- [HIGH] Rybakina was No. 2 seed at Rome 2026\n- [HIGH] Svitolina faces Swiatek in today's WTA SF (Source: multiple preview sources)\n**Confidence notes:** Score (2-6, 6-4, 6-4) tagged MEDIUM — wtatennis.com AI summary; use cautiously in articles.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "WTA Rome SF Day — Swiatek vs Svitolina + Gauff vs Cirstea",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Thursday's WTA Rome SFs: Swiatek vs Svitolina + Gauff vs Cirstea.\n\nTwo former Rome champions, two defending Grand Slam legends, and a 36-year-old in her first career SF.\n\nRoland Garros is 10 days away. 🎾 #TennisRecap #ItalianOpen #WTA #RolandGarros",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#WTA",
+            "#RolandGarros"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wta-rome-sf-day-swiatek-gauff.html",
+        "headline": "WTA Rome Semifinal Day: Four Champions, Two Matches, Ten Days to Roland Garros",
+        "word_count": 837
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social post"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WTA Rome SF Day\n**Verified Facts:**\n- [HIGH] WTA SF 1: Swiatek vs Svitolina (Source: wtatennis.com WTA official draws, multiple preview sources)\n- [HIGH] WTA SF 2: Gauff vs Cirstea (Source: wtatennis.com article \"Cirstea and Gauff set up Rome semifinal clash\"; tennistonic.com H2H preview)\n- [HIGH] Swiatek def. Pegula 6-1, 6-2 in QF (Source: wtatennis.com \"Swiatek concedes only three games against Pegula to reach Rome semifinals\")\n- [HIGH] Swiatek new coach: Francisco Roig (Nadal's coach 2005-2022) — confirmed in prior pipelines (May 13)\n- [HIGH] Gauff def. Andreeva 4-6, 6-2, 6-4 on 5th match point — confirmed prior pipeline May 13\n- [HIGH] Cirstea def. Ostapenko 6-1, 7-6(7) in QF — confirmed prior pipeline May 13\n- [HIGH] Cirstea def. Sabalenka (No. 1) in R3 — confirmed prior pipeline May 13\n- [HIGH] Roland Garros main draw starts May 24 (Source: rolandgarros.com)\n- [MEDIUM] Swiatek H2H vs Svitolina 4-2 (Source: one preview article; not independently verified this session)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Darderi Def. Jodar, Ruud Advances — ATP QF Results",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Darderi def. Jodar 6-7, 7-5, 6-0 in a Rome QF for the ages — played through a smoke suspension from the Coppa Italia final, then bageled the third.\n\nRuud also beat Khachanov 6-1, 1-6, 6-2. ATP SFs set. #TennisRecap #ItalianOpen #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#ItalianOpen",
+            "#ATP"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-darderi-jodar-ruud-rome-qf-results.html",
+        "headline": "Darderi Survives Smoke Suspension, Bagels Jodar in Third; Ruud Also Advances in Rome QF",
+        "word_count": 802
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social post"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Darderi def. Jodar, Ruud advances\n**Verified Facts:**\n- [HIGH] Darderi def. Jodar (Source: atptour.com headline \"Luciano Darderi claws past Rafael Jodar in memorable Rome QF rumble\"; tennisuptodate.com roundup)\n- [HIGH] Score: 6-7, 7-5, 6-0 (Source: atptour.com article + multiple roundup sources — confirmed)\n- [HIGH] Match suspended: smoke from Coppa Italia final drifted over Campo Centrale (Source: atptour.com headline \"Rafael Jodar-Luciano Darderi Rome QF temporarily suspended by smoke; Play has resumed\")\n- [HIGH] Ruud def. Khachanov 6-1, 1-6, 6-2 (Source: tennisuptodate.com, yardbarker.com roundup headlines — both confirm score and result)\n- [HIGH] Darderi and Ruud into ATP SF (confirmed)\n- [HIGH] Darderi previously defeated Zverev (No. 2) in R4, confirmed prior pipeline May 13\n- [HIGH] Jodar (19) youngest Rome QFer since Djokovic 2007 — confirmed prior pipeline May 13\n- [MEDIUM] Darderi is Italian-Argentinian (23 years old) — well-known fact but not independently verified this session",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Roland Garros 2026 — 10 Days Out, Qualifying Starts May 18",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Roland Garros qualifying starts Sunday. Main draw May 24.\n\nSinner on a 31-match Masters winning streak. Swiatek in form. Wawrinka and Monfils get wild card farewells.\n\nThe clay Grand Slam is almost here. 🎾 #TennisRecap #RolandGarros #Tennis #ATP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TennisRecap",
+            "#RolandGarros",
+            "#Tennis",
+            "#ATP"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-roland-garros-2026-preview-countdown.html",
+        "headline": "Roland Garros 2026: Qualifying Starts Sunday, What Rome Is Telling Us Before Paris",
+        "word_count": 824
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Social post"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article (Wawrinka farewell angle for RG piece)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Roland Garros 2026 Countdown\n**Verified Facts:**\n- [HIGH] RG qualifying begins May 18 (Source: rolandgarros.com provisional schedule; AI search confirmed)\n- [HIGH] RG draw: May 21, 2 PM Paris local time (Source: multiple sources cite this date and time)\n- [HIGH] RG main draw begins May 24 (Source: rolandgarros.com, multiple sources)\n- [HIGH] Wild cards: Stan Wawrinka + Gaël Monfils (Source: tennisuptodate.com \"Stan Wawrinka and Gael Monfils granted Roland Garros wild cards as retirement looms\"; tennismajors.com confirms)\n- [HIGH] Wawrinka won RG 2015 (established fact)\n- [HIGH] Alcaraz out (wrist — confirmed in prior pipelines)\n- [HIGH] Djokovic participation uncertain — confirmed in prior pipelines\n- [HIGH] Sinner never won Roland Garros — established fact\n- [HIGH] Swiatek is a 4x Roland Garros champion — established fact\n- [HIGH] Gauff is defending Roland Garros champion — established fact\n- [MEDIUM] 17-year-old wildcard recipients (women's qualifying) — mentioned in tennismajors.com article title; not fully verified",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
