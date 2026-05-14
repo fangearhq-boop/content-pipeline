@@ -427,3 +427,40 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** 11 LIV players at PGA Championship. Rahm leads LIV standings (779 pts, 2 wins). DeChambeau 476.90 pts (cleared after wrist injury). Herbert won LIV Virginia last week (24-under fighting flu), earned US Open spot at Shinnecock Hills. DJ in field.
 - **Status:** FOLLOW UP (from 2026-05-11)
 - **Follow-up ideas:** LIV player results at PGA Championship
+
+## 2026-05-14
+
+### STORY 1: PGA Championship Round 1 Underway — McIlroy Grand Slam Bid at Aronimink
+- **Tier:** 1
+- **Category:** Major Championship / Round 1 Coverage
+- **Key facts:** 108th PGA Championship, May 14-17, Aronimink Golf Club, Newtown Square PA. Par 70, ~7,394 yds, Donald Ross design. McIlroy (6 majors, 2026 Masters winner) tees off 8:40 AM ET with Spieth/Rahm. Scheffler (defending) at 2:05 PM with Fitzpatrick/Rose. Cameron Young (World No. 3, 2 wins, 0 majors). 154-player field, 11 LIV players.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** R1 leaderboard; McIlroy/Young opening rounds
+
+### STORY 2: Lucas Herbert Wins LIV Virginia Wire-to-Wire — Earns US Open Spot
+- **Tier:** 1
+- **Category:** LIV Golf Results / Tournament Winner
+- **Key facts:** Herbert wins at 24-under par, 4 shots clear of Garcia, at Trump National. Opened 64-63 despite flu. Closed 69. Prize: $4M. Earned US Open exemption at Shinnecock Hills (3rd in LIV standings, highest-ranked non-exempt). 4Aces GC won team competition in playoff over Fireballs; Anthony Kim bogey-free 10-under 62.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** Herbert at PGA Championship; US Open preparation
+
+### STORY 3: Nelly Korda HOF Countdown — Queen City Championship Round 1 Today
+- **Tier:** 2
+- **Category:** LPGA Coverage / HOF Watch
+- **Key facts:** Korda 23/27 HOF points (4 away). Kroger Queen City Championship starts today May 14-17 at Maketewah CC, Cincinnati OH. Korda has 3 wins in 2026. Thitikul (World No. 1) also in field after Mizuho Americas Open win (-13, May 7-10 Mountain Ridge CC NJ). A win = 24/27.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** Queen City results; HOF milestone update
+
+### STORY 4: Aronimink Golf Club Course Profile — PGA Championship
+- **Tier:** 2
+- **Category:** Course Profile / Major Championship Context
+- **Key facts:** Donald Ross design 1926-1928. Par 70, 7,394 yds. No intermediate rough (fairway 3/8" or fescue 3.5"). 75 bunkers. Avg greens 8,100 sq ft (1/3 larger than typical Ross). Last hosted PGA Championship 1962 (Gary Player). First course to host all 3 PGA of America majors. 250th anniversary of America's founding context (13 miles from Philadelphia).
+- **Status:** NEW STORY
+- **Follow-up ideas:** Course scoring trends through the week
+
+### STORY 5: McIlroy Grand Slam Bid Historical Context
+- **Tier:** 2
+- **Category:** Feature / Historical Context
+- **Key facts:** McIlroy 6 majors (incl 2026 Masters). Win at Aronimink = 7 majors (past Arnold Palmer, 7 total). Last player to win year's first 2 majors: Spieth 2015 (Masters + US Open). Tiger Slam was 4 consecutive majors across 2000-2001 (not calendar year). Calendar Grand Slam never accomplished. McIlroy would need: Aronimink + Shinnecock Hills (US Open) + Royal St. Andrews (Open Championship).
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** McIlroy PGA Championship performance; R2/R3/R4 updates
