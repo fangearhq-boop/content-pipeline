@@ -1555,3 +1555,40 @@
 - **Key facts:** Hamilton confirmed no simulator work between Miami and Canada. P6 Miami (collision Colapinto lap 1, floor/sidepod damage). Ferrari 11 upgrades in Miami. Ferrari constructors lead shrunk: 44 pts (after Japan) → 16 pts (after Miami). Leclerc 20s penalty in Miami.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Hamilton Canada result; Ferrari Montreal pace
+
+## 2026-05-14
+
+### STORY 1: Russell at the Crossroads — Canada Is Make-or-Break
+- **Tier:** 1
+- **Category:** Championship Analysis / Driver Storyline
+- **Key facts:** Russell 80 pts, trails Antonelli (100) by 20. Won Canada 2025. Wolff quote: "George is a killer. We know he'll return, starting from Canada, very competitive and ready to make life difficult for his opponents." Mercedes bringing major upgrade package to Canada. Canadian GP May 22-24.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** Canada qualifying/sprint/race results; title gap after Montreal
+
+### STORY 2: Antonelli's Historic Pursuit — Youngest F1 Champion in History
+- **Tier:** 1
+- **Category:** Championship Analysis / Historic Record
+- **Key facts:** Antonelli 19 years old, 100 pts, leads WDC. First driver ever to win first 3 starts from pole. Youngest WDC leader in F1 history. Vettel youngest champion record: 23 yrs 134 days (2010). Canada GP 8 days away.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** Canada GP result; title picture at summer break
+
+### STORY 3: Mercedes Monster Canada Upgrade Package Revealed
+- **Tier:** 2
+- **Category:** Technical / Race Preview
+- **Key facts:** Mercedes bringing significant upgrade package to Canada (more than the 2 brought to Miami). Leads constructors' championship. Ferrari constructors lead: 44 pts (Japan) → 16 pts (Miami). Canada May 22-24 sprint weekend.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Canada pace comparisons; constructors gap after Montreal
+
+### STORY 4: Ferrari Post-Miami Crisis — Leclerc Demands Investigation
+- **Tier:** 2
+- **Category:** Team Storyline / Post-Race Analysis
+- **Key facts:** Leclerc Miami final-lap spin at Turn 3; 20-second post-race penalty (Article B1.8.6 — repeatedly cut circuit); dropped to P8 from potential podium. Quote: "The last-lap mistake is all on me." Demanded Ferrari investigation. Hamilton P6 (lap-1 collision with Colapinto, floor/sidepod damage). Ferrari constructors lead: 16 pts over Mercedes.
+- **Status:** FOLLOW UP (from 2026-05-10)
+- **Follow-up ideas:** Ferrari Canada pace; constructors battle Montreal
+
+### STORY 5: Canada GP Sprint Debut — Circuit Gilles-Villeneuve First Sprint Ever
+- **Tier:** 2
+- **Category:** Race Preview / Format Feature
+- **Key facts:** Canadian GP May 22-24, Circuit Gilles-Villeneuve. First-ever sprint race at this circuit. Third sprint of 2026 season. ~34 points available across sprint + race. Championship standings at stake.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** Sprint qualifying/race results; Canada GP outcome
