@@ -1,0 +1,336 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-14",
+  "compiled_at": "2026-05-14T10:20:52.740072+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Arkansas — The Only Host Without a WCWS Berth — Fayetteville Regional Preview",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Every regional host this weekend has been to the Women's College World Series. Except one.\n\nArkansas. Nine straight NCAA Tournaments. Zero WCWS appearances.\n\nThat changes in Fayetteville — or it doesn't. Regionals start Friday. 🥎 #Razorbacks #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Razorbacks",
+            "#CollegeSoftball"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Courtney Deifel has taken Arkansas to nine straight NCAA Tournaments. She's lost three home super regionals (2021, 2022, 2025).\n\nThe only thing missing: Oklahoma City. Fayetteville Regional tips off Friday vs. Fordham. 🥎 #Razorbacks #CollegeSoftball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Razorbacks",
+            "#CollegeSoftball"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-arkansas-wcws-quest-fayetteville-regional.html",
+        "headline": "The Last Host Standing: Arkansas Is the Only 2026 Regional Host Without a WCWS Berth",
+        "word_count": 695
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Arkansas — Only Host Without a WCWS Berth\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Courtney Deifel Arkansas`\n- **Caption overlay:** \"9 STRAIGHT TOURNAMENTS / STILL CHASING OKLAHOMA CITY\"\n- **Usage:** X post 9:00 AM + Facebook long-form\n- **Alt text:** Coach Courtney Deifel in Arkansas dugout during NCAA tournament game\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Arkansas Razorbacks softball`\n- **Caption overlay:** \"THE ONLY HOST / WITHOUT A WCWS BERTH\"\n- **Usage:** Facebook image caption post\n- **Alt text:** Arkansas softball players celebrating during game\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Arkansas — The Only Host Without a WCWS Berth\n**Sources:** Whole Hog Sports (wholehogsports.com), Arkansas Democrat-Gazette, NCAA.com selection announcement\n- Arkansas is the No. 5 national seed (HIGH — NCAA.com selection show)\n- Arkansas hosts the Fayetteville Regional (HIGH)\n- Fayetteville Regional field: Arkansas, Washington, South Florida, Fordham (HIGH — multiple sources)\n- Arkansas vs. Fordham: Friday May 15, 4:30 PM ET, ESPN+ (HIGH)\n- Washington vs. South Florida: Friday May 15, 7:00 PM ET, ESPNU (HIGH)\n- Arkansas has made the NCAA Tournament in nine consecutive seasons under head coach Courtney Deifel (HIGH — Whole Hog Sports)\n- Arkansas is the ONLY regional host in the 2026 field without a WCWS appearance (HIGH — Whole Hog Sports, confirmed in multiple articles)\n- Arkansas was eliminated in home super regionals in 2021, 2022, and 2025 (HIGH — Whole Hog Sports coverage)\n- All other 15 regional hosts have at least one WCWS appearance (HIGH — implied by above)\n- Arkansas returned 99.7% of their innings pitched from the 2025 team (HIGH — Whole Hog Sports)\n- Arkansas averaging 2 runs per game over their last six games — hitting slump entering tournament (HIGH — Whole Hog Sports May 13 article)\n- Courtney Deifel's tenure: 17 postseason victories, more than double the program total before she arrived (HIGH — Whole Hog Sports)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Alabama's Pitching Machine — How the No. 1 Seed Crushes Regionals",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Alabama is 67-6 (.918) at Rhoads Stadium in NCAA Regional play. 1.60 ERA. 22 shutouts this season.\n\nThe No. 1 seed doesn't just show up to regionals. They put teams away. First pitch Friday vs. USC Upstate. 🥎 #RollTide #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#CollegeSoftball"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Alabama's all-time regional record: 74-12. That's an .860 winning percentage — across 27 straight NCAA Tournaments.\n\nUSC Upstate, Belmont, and SLU are in Tuscaloosa this weekend. Good luck. 🥎 #RollTide #CollegeSoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#CollegeSoftball"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-alabama-pitching-tuscaloosa-regional.html",
+        "headline": "Why Alabama Is Built to Win in May: The Pitching Machine Behind the No. 1 Seed",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Pitching, Tuscaloosa Regional\n\n#### Image Concept 3 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Alabama Crimson Tide softball pitcher`\n- **Caption overlay:** \"74-12 ALL-TIME IN REGIONALS / 1.60 ERA / THEY OWN MAY\"\n- **Usage:** X post 11:00 AM + Facebook long-form\n- **Alt text:** Alabama softball pitcher delivering in a game\n\n#### Image Concept 4 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Alabama softball Rhoads Stadium`\n- **Caption overlay:** \"NO. 1 SEED / TUSCALOOSA REGIONAL STARTS FRIDAY\"\n- **Usage:** Facebook image caption post\n- **Alt text:** Rhoads Stadium packed with fans for Alabama softball regional\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alabama Pitching & Regional Record\n**Sources:** Alabama Athletics (rolltide.com), SI.com Tuscaloosa Regional guide, The Cullman Tribune\n- Alabama No. 1 national seed (HIGH)\n- Alabama record: 49-7 (HIGH — rolltide.com official)\n- ERA: 1.60 (2nd-best in country) (HIGH — rolltide.com)\n- Shutouts: 22 (HIGH — rolltide.com)\n- All-time NCAA Regional record at Rhoads Stadium: 67-6 (.918) (HIGH — rolltide.com)\n- Overall all-time NCAA Regional record: 74-12 (.860) (HIGH — rolltide.com)\n- 27th consecutive NCAA Tournament appearance (HIGH — rolltide.com)\n- 21st consecutive regional hosting / 21st straight top-16 national seed (HIGH)\n- Tuscaloosa Regional field: Alabama, USC Upstate (36-21), Belmont (40-11), Southeastern Louisiana (46-14) (HIGH)\n- Alabama vs. USC Upstate: Friday May 15, 12 PM CT / 1 PM ET, SEC Network (HIGH)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Megan Grant's Last Chance — Can She Win a Ring Before Her Senior Season Ends?",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Megan Grant set the NCAA softball HR record (38). She won the NCAA basketball title. Now she wants a softball championship.\n\nUCLA is the No. 8 seed. The L.A. Regional starts Friday. This is her last shot. 🥎 #UCLA #CollegeSoftball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#UCLA",
+            "#CollegeSoftball"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-megan-grant-ucla-wcws-ring.html",
+        "headline": "One Record Broken. One Title Won. Now Megan Grant Wants the Ring That Matters Most.",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Megan Grant / UCLA\n\n#### Image Concept 5 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Megan Grant UCLA`\n- **Caption overlay:** \"38 HOME RUNS / NCAA RECORD / HER LAST SHOT AT A RING\"\n- **Usage:** X post 1:00 PM + Facebook long-form\n- **Alt text:** Megan Grant celebrating after hitting home run in UCLA uniform\n\n#### Image Concept 6 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `UCLA Bruins softball`\n- **Caption overlay:** \"NCAA HR RECORD. NCAA BASKETBALL CHAMPION. ONE GOAL LEFT.\"\n- **Usage:** Facebook image caption post\n- **Alt text:** UCLA softball players celebrating at Easton Stadium\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Megan Grant, UCLA L.A. Regional\n**Sources:** NCAA.com, UCLA Athletics (uclabruins.com), Washington Post, Just Women's Sports, Detroit News\n- UCLA No. 8 national seed (HIGH)\n- Megan Grant hit 38 HRs this season — sets all-time NCAA single-season individual HR record (HIGH — NCAA.com official)\n- Previous record was 37, set in 1995 by Arizona's Laura Espinoza (HIGH — NCAA.com, multiple confirming sources)\n- Grant broke the 31-year-old record (HIGH)\n- Record-breaking HR came in 55 games, 17 fewer than Espinoza needed (HIGH — NCAA.com)\n- Teammate Jordan Woolery has 33 HRs (HIGH — UCLA Athletics official roster)\n- Grant and Woolery are first teammates in NCAA softball history both with 30+ HRs in same season (HIGH — NCAA.com)\n- Megan Grant is a senior (HIGH — UCLA Athletics roster)\n- Grant also won the 2026 NCAA basketball championship with UCLA (HIGH — Just Women's Sports)\n- L.A. Regional at Easton Stadium — 12th straight year UCLA hosts (HIGH — UCLA Athletics)\n- L.A. Regional field: UCLA, Cal State Fullerton, South Carolina, Cal Baptist (HIGH — ESPN bracket)\n- Record-breaking HR came against Nebraska in Big Ten championship game on May 9 (HIGH — NCAA.com / UCLA Athletics)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Virginia Tech's Fuel — How the Hosting Snub Made the Hokies Dangerous",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Virginia Tech went 46-10. The NCAA said they can't host due to eligibility rules. So the Hokies travel to Baton Rouge as No. 2 seed.\n\nAngry teams are dangerous teams. Every analyst has VT as the top upset pick. 🥎 #Hokies #CollegeSoftball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Hokies",
+            "#CollegeSoftball"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-virginia-tech-hosting-snub-baton-rouge.html",
+        "headline": "Denied a Host Site, Virginia Tech Arrives in Baton Rouge as the Bracket's Most Dangerous Team",
+        "word_count": 674
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Virginia Tech\n\n#### Image Concept 7 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Virginia Tech Hokies softball`\n- **Caption overlay:** \"46-10. DENIED A HOST SITE. THE TOP UPSET PICK.\"\n- **Usage:** X post 3:00 PM + Facebook long-form\n- **Alt text:** Virginia Tech softball players in game action\n\n#### Image Concept 8 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Virginia Tech softball player`\n- **Caption overlay:** \"FUEL THE FIRE / BATON ROUGE REGIONAL / FRIDAY\"\n- **Usage:** Facebook image caption post\n- **Alt text:** Virginia Tech softball player at bat during 2026 season\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Virginia Tech Hosting Ineligibility\n**Sources:** TechSideline.com, SI.com (Virginia Tech), FightingGobbler.com, BroBible.com, WDBJ7.com\n- Virginia Tech record: 46-10, 18-6 ACC (HIGH — multiple sources)\n- Virginia Tech ruled ineligible to host by NCAA due to graduation eligibility criteria (HIGH — NCAA official statement per SI.com)\n- Virginia Tech sent to Baton Rouge as No. 2 seed in LSU's Baton Rouge Regional (HIGH)\n- Virginia Tech's first game: vs. South Alabama, Friday May 15, 4:00 PM ET, ESPN+ (HIGH)\n- Baton Rouge Regional: LSU (No. 16 seed host), Virginia Tech, South Alabama, Akron (HIGH)\n- 7th straight regional appearance for Virginia Tech (HIGH — TechSideline.com)\n- VT fell to Florida State in ACC Tournament final (HIGH — FightingGobbler.com)\n- Multiple analysts predict VT to upset LSU and win Baton Rouge Regional (HIGH — multiple bracket prediction articles)\n- VT was in the No. 17–20 range nationally — just outside hosting cutoff (MEDIUM — bracket prediction articles)\n**Confidence:** All HIGH except VT's exact national ranking (MEDIUM — inferred from analyst commentary).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Nebraska's Homecoming — First Regional at Home Since 2013",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nebraska won the Big Ten. Earned the No. 4 national seed. And gets to host a regional for the first time since 2013.\n\nThirteen years in the making. Opener vs. South Dakota, Friday 5:30 PM ET on ESPN+. 🌽 #Huskers #CollegeSoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#CollegeSoftball"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nebraska-lincoln-regional-homecoming.html",
+        "headline": "Nebraska Hosts a Regional for the First Time Since 2013 — And the Wait Has Only Made It Sweeter",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska Lincoln Regional\n\n#### Image Concept 9 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Nebraska Huskers softball`\n- **Caption overlay:** \"FIRST HOME REGIONAL SINCE 2013 / LINCOLN IS READY\"\n- **Usage:** X post 5:30 PM + Facebook long-form\n- **Alt text:** Nebraska softball players celebrating Big Ten championship\n\n#### Image Concept 10 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Nebraska softball stadium`\n- **Caption overlay:** \"NO. 4 SEED / BIG TEN CHAMPS / WELCOME HOME 🌽\"\n- **Usage:** Facebook image caption post\n- **Alt text:** Nebraska softball stadium atmosphere for home game\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nebraska Lincoln Regional\n**Sources:** Nebraska Athletics (huskers.com), Big Ten official (bigten.org), KSNB Local 4\n- Nebraska No. 4 national seed (HIGH)\n- Won 11th Big Ten championship in program history (HIGH — huskers.com official)\n- First time hosting a regional since 2013 (HIGH — huskers.com official)\n- Lincoln Regional field: Nebraska, South Dakota, Louisville, Grand Canyon (HIGH)\n- Nebraska vs. South Dakota: Friday May 15, 5:30 PM ET / 4:30 PM CT, ESPN+ (HIGH)\n- Louisville vs. Grand Canyon: Friday May 15, 3:00 PM CT (HIGH)\n- Nebraska won 2026 Big Ten Tournament — defeating UCLA 7-2 in the championship (HIGH — KSNB Local 4, BigTen.org)\n- Nebraska heads into tournament on a 21-game winning streak (MEDIUM — mentioned in multiple preview articles; may need single-source verification)\n**Confidence:** Most facts HIGH. 21-game win streak is MEDIUM (mentioned across multiple sources but no single authoritative source found — use with caveat).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Five Bracket Upsets to Watch in the 2026 Regionals",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Five upsets to watch in the 2026 regionals:\n\n🔥 Virginia Tech over LSU\n🔥 Mississippi State over Oregon\n🔥 Arizona State over Texas A&M\n🔥 Oklahoma State at Nebraska\n🔥 Arkansas State — Cinderella pick\n\nRegionals start Friday. 🥎 #CollegeSoftball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Bracket Upset Picks\n**Sources:** NCAA.com round-by-round predictions, Marco News, AOL Sports bracket predictions, Whole Hog Sports\n- VT over LSU (Baton Rouge) — consensus upset pick (HIGH — multiple analysts)\n- Mississippi State over Oregon — analysts cite Peja Goold and Alyssa Faircloth pitching (MEDIUM — NCAA.com prediction)\n- Arizona State over Texas A&M — Kenzie Brown cited (MEDIUM — NCAA.com prediction)\n- Oklahoma State as upset threat to Nebraska (MEDIUM — round-by-round NCAA prediction)\n**Confidence:** Upset picks are analyst opinions (MEDIUM by nature) — appropriate for Tier 3 fan analysis content. Mark as predictions, not facts.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

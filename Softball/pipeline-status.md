@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-14
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 noted), image manifest, articles (5), fact-check (91 claims, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). S6 no image concept — Tier 3 social-only by design.
+- **Key Stories**: Arkansas only host without WCWS/9 straight tournaments/Fayetteville Regional/Deifel quest (P10), Alabama pitching/74-12 all-time regional record/1.60 ERA/22 shutouts (P10), Megan Grant senior ring/38 HRs/UCLA No. 8 seed (P8), Virginia Tech hosting snub explained/46-10/Baton Rouge/upset pick (P8), Nebraska first home regional since 2013/No. 4 seed (P7), Bracket upset picks (P4)
+
+## Previous Run
 - **Date**: 2026-05-13
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 3 char violations fixed S2-T1 285→271, S2-T2 281→279, S6-T1 286→278; 0 after fix), FB posts (6 stories), image concepts (5 for Stories 1-5), image manifest, articles (5), fact-check (105 claims, IMAGE MISSING expected not_started, S6 missing from image-concepts expected Tier 3 social-only), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/

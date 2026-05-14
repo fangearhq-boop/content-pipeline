@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 14, 2026
+
+### Story 1: Arkansas — The Only Host Without a WCWS Berth
+- **Angle:** NEW STORY. Arkansas (No. 5 seed) is the only regional host in the 2026 field without a WCWS appearance despite 9 straight NCAA Tournaments under Courtney Deifel. Eliminated in home super regionals 2021, 2022, 2025. Only host without WCWS. Fayetteville Regional field: Arkansas vs. Fordham (4:30 PM ET Friday, ESPN+), Washington vs. South Florida (7 PM ET Friday, ESPNU). Averaging 2 runs/game over last 6. Returned 99.7% of innings pitched from 2025.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Fayetteville Regional results; Arkansas's path to super regionals; whether the WCWS drought ends
+
+### Story 2: Alabama's Pitching Machine — How the No. 1 Seed Crushes Regionals
+- **Angle:** FOLLOW UP. Different angle from May 13 (seed/streak): focus on 1.60 ERA, 22 shutouts, 74-12 all-time regional record, 67-6 (.918) at Rhoads Stadium. The pitching depth that makes Alabama dangerous in double-elimination format.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Tuscaloosa Regional results; Alabama pitching performances May 15–17
+
+### Story 3: Megan Grant's Last Chance — Can She Win a Ring?
+- **Angle:** FOLLOW UP. Different angle from May 13 (record-breaking): focus on legacy and senior final shot. 38 HRs, NCAA record. NCAA basketball champion too. UCLA No. 8 seed at Easton Stadium. Jordan Woolery 33 HRs (first teammates both 30+ HRs in NCAA history). The one thing left: a softball championship.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** L.A. Regional results; Grant's individual performance in tournament
+
+### Story 4: Virginia Tech's Fuel — How the Hosting Snub Made the Hokies Dangerous
+- **Angle:** FOLLOW UP. Different angle from May 12 (introduction to snub): deep dive into WHY they couldn't host (graduation eligibility criteria), how the motivation fuels danger. 46-10, 18-6 ACC, 7th straight regional, sent to Baton Rouge as No. 2 seed behind No. 16 LSU. Consensus top upset pick.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** VT-South Alabama result; VT-LSU potential matchup
+
+### Story 5: Nebraska's Homecoming — First Lincoln Regional Since 2013
+- **Angle:** FOLLOW UP. Different angle from May 13 (Big Ten title): focus on the 13-year wait for home hosting, what it means to fans and program. No. 4 seed, 11th Big Ten championship, hosting Lincoln Regional for first time since 2013.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Lincoln Regional results; Nebraska's path through super regionals
+
+### Story 6: Five Bracket Upsets to Watch in the 2026 Regionals
+- **Angle:** NEW STORY (fan analysis). Analyst consensus upset picks: VT over LSU (Baton Rouge), Mississippi State over Oregon (Goold/Faircloth), Arizona State over Texas A&M (Kenzie Brown), Oklahoma State threat to Nebraska, Arkansas State as Cinderella.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Check results after regionals May 15–17
+
+---
+
 ## May 13, 2026
 
 ### Story 1: Alabama Opens Title Run at Tuscaloosa Regional — No. 1 Seed's 21-Year Hosting Streak Continues Friday
