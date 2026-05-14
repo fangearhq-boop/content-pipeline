@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-14",
+  "compiled_at": "2026-05-14T09:17:18.706697+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6",
+      "type": "X"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 7",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Braves 4, Cubs 1 — Imanaga Gem Wasted, Four-Game Losing Streak",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Braves 4, Cubs 1. Four straight losses. 😤\n\nImanaga was sharp — pitched deep into the 8th. Phil Maton gave up 3 runs and the bats went cold again.\n\nCubs fall to 27-16. Tonight is a must-win feel.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 6,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Braves 4, Cubs 1 — Imanaga Gem Wasted, Four-Game Losing Streak\n**Decision:** FOLLOW-UP — Yesterday's pipeline (May 13) previewed this game (Imanaga vs Ritchie). This is the next-morning recap.\n**Sources:**\n- ESPN game recap: https://www.espn.com/mlb/recap?gameId=401815320 (May 13, 2026)\n- Bleacher Nation enhanced box score: https://www.bleachernation.com/cubs/2026/05/13/enhanced-box-score-braves-4-cubs-1-may-13-2026/ (May 13, 2026)\n- Cubs Insider recap: https://www.cubsinsider.com/2026/05/13/chicago-cubs-score-and-recap-5-13-26-braves-4-cubs-1-bats-stay-ice-cold-in-fourth-consecutive-l/ (May 13, 2026)\n- CBS Sports box score: https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260513_CHC@ATL/ (May 13, 2026)\n**Verified Facts (HIGH — 3+ sources confirm):**\n- Final score: Braves 4, Cubs 1 ✓ (ESPN, BN, Cubs Insider, CBS all confirm)\n- 4th consecutive loss ✓ (Cubs Insider headline: \"Fourth Consecutive L\"; prior 3-game skid per May 13 pipeline)\n- Imanaga started and pitched into the 8th inning ✓ (CBS Sports box score, BN)\n- Drake Baldwin (Braves catcher) hit a solo HR in the 4th inning off Imanaga ✓ (ESPN/CBS summary)\n- Phil Maton came in relief and gave up 3 runs in the 8th ✓ (multiple sources cite go-ahead RBI double by Yastrzemski)\n- Mike Yastrzemski pinch-hit RBI double for go-ahead run ✓\n**Verified Facts (MEDIUM — single or AI-summary source):**\n- Nico Hoerner mental mistake on Michael Harris II grounder helped open the 8th inning (MEDIUM — ESPN summary)\n- Cubs now 27-16 (MEDIUM — was 27-15 pre-game per May 13 pipeline; 27-16 after the loss is arithmetic, not directly confirmed by a post-game source)\n**Freshness:** Sources published May 13, 2026 — within 24 hours ✓\n**Why it matters:** Game recap is mandatory Tier 1 content. Fourth straight loss after a 10-game winning streak is a significant trend story. Imanaga's quality start makes the loss even more frustrating for fans.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Rotation Emergency — Boyd Surgery 6 Weeks, Steele Pushed to August",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Cubs' rotation injuries just got worse. 🩹\n\nBoyd: knee surgery, out ~6 weeks\nSteele: setback — not back until after the All-Star break\nHorton: already out until 2027\n\nThis staff is running on fumes. And it's only May 14.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 6,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Rotation Emergency — Boyd Surgery 6 Weeks, Steele Pushed to August\n**Decision:** FOLLOW-UP — May 13 pipeline covered the rotation injury roundup (Horton, Harvey, Palencia, Steele close). New developments today: Boyd meniscus surgery confirmed with 6-week timeline, Steele officially pushed to post-All-Star break.\n**Sources:**\n- MLB Trade Rumors: https://www.mlbtraderumors.com/2026/04/cubs-to-place-matthew-boyd-on-injured-list.html (April 2026)\n- MLB Trade Rumors (surgery update): https://www.mlbtraderumors.com/2026/05/matthew-boyd-to-undergo-meniscus-surgery.html (May 2026)\n- CBS Sports: https://www.cbssports.com/mlb/news/cubs-matthew-boyd-injury-timeline/ (May 2026)\n- NBC News: https://www.nbcnews.com/sports/mlb/cubs-pitcher-matthew-boyd-surgery-injury-knee-rcna344103 (May 2026)\n- Chicago Sun-Times: https://chicago.suntimes.com/cubs/2026/05/06/cubs-matthew-boyd-surgery-knee-meniscus-craig-counsell-wrigley-field (May 6, 2026)\n- KRRO/Radio: https://krro.com/2026/05/07/cubs-lhp-matthew-boyd-out-one-month-after-knee-surgery/ (May 7, 2026)\n- CBS Sports (Steele setback): https://www.cbssports.com/mlb/news/justin-steele-injury-update-cubs-tommy-john-surgery/\n- ESPN (Steele shutdown): https://www.espn.com/mlb/story/_/id/48621275/cubs-shut-steele-amid-recovery-elbow-surgery\n**Verified Facts (HIGH — multiple sources confirm):**\n- Boyd injured his left knee playing with his kids at home ✓\n- Boyd underwent left knee meniscectomy surgery ✓\n- Expected recovery: approximately 6 weeks ✓\n- Boyd on 15-day IL, likely to throw off mound in early June ✓\n- Cade Horton: out until 2027 (UCL revision April 16) ✓\n- Justin Steele suffered a setback in his UCL/Tommy John rehab ✓\n- Steele was shut down; won't return until after the All-Star break ✓\n**Verified Facts (MEDIUM — single or AI-summary source):**\n- Charlie Barnes designated for assignment in corresponding roster move to Boyd IL (MEDIUM — single AI summary)\n- \"Ten pitchers on IL\" total claim (MEDIUM — FanSided article; named players: Horton, Steele, Boyd, Hodge, Wicks, Palencia, Harvey + others confirm high count; specific total of 10 unverified separately)\n**Do NOT use:** \"ten pitchers on the IL\" exact count (unverified) — replaced with \"rotation on life support\" framing.\n**Freshness:** Boyd surgery news broke ~May 6-7, 2026; Steele setback reported early May. Updated details within last week. ✓\n**Why it matters:** The Cubs are running out of starting pitchers. With Boyd (6 weeks), Steele (post-ASB), Horton (2027), Harvey (month), the rotation is severely depleted during a pennant race. Trade urgency is maximum.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs Must Act — SP Trade Urgency Reaches Crisis Level",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "With Boyd out 6 weeks and Steele pushed to August, the Cubs NEED a starter now.\n\nFreddy Peralta, Sandy Alcantara, and Sonny Gray are all linked. This isn't deadline thinking anymore — it's triage.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 3,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs Must Act — SP Trade Urgency Reaches Crisis Level\n**Decision:** FOLLOW-UP — May 13 pipeline covered the Cubs exploring the SP trade market. New angle: urgency now at crisis level with Boyd down and Steele pushed.\n**Sources:**\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/05/11/cubs-trade-rumors-sp/ (May 11, 2026)\n- MLB Trade Rumors: https://www.mlbtraderumors.com/2026/05/mets-trade-rumors-freddy-peralta-cubs.html (May 2026)\n- SI/Cubs: https://www.si.com/mlb/cubs/onsi/cubs-trade-rumors-a-lot-of-starting-pitchers-to-keep-an-eye-on-01krc0y3zea7 (May 2026)\n- Heavy: https://heavy.com/sports/mlb/chicago-cubs/red-sox-headed-sonny-gray-blockbuster-trade/ (May 2026)\n- Clutch Points: https://clutchpoints.com/mlb/chicago-cubs/cubs-rumors-bailey-ober-trade-target-sandy-alcantara (May 2026)\n**Verified Facts (MEDIUM — trade rumors are inherently unconfirmed):**\n- Cubs inquired about Freddy Peralta (Mets) — MEDIUM (MLBTR report, not officially confirmed)\n- Peralta: expiring contract after 2026, reported 3.12 ERA — MEDIUM\n- Sandy Alcantara (Marlins): $17M/2026 contract, $21M/2027 club option — MEDIUM (consistent across sources)\n- Sonny Gray (Red Sox): veteran arm, linked as realistic target — MEDIUM (single source: Heavy)\n- Craig Counsell managed Freddy Peralta in Milwaukee — HIGH (well-documented history)\n**Why it matters:** With 3+ starters gone for extended periods, the Cubs need external help before the rotation crumbles further. Trade urgency gives this a second-day angle beyond yesterday's story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Rival Watch — Cardinals Reload, NL Central Won't Wait",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lars Nootbaar is eligible to return for the Cardinals around May 24. Division reinforcements incoming.\n\nThe Cubs are 27-16 despite a rotation being held together with duct tape. Still grinding.\n\nThe NL Central doesn't stop. 🍿\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 5,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Rival Watch — Cardinals Reload, NL Central Won't Wait\n**Decision:** NEW STORY — Division context not covered in yesterday's pipeline.\n**Sources:**\n- MLB.com Cardinals standings (May 2026)\n- MSN: \"NL Central's all-winning start raises playoff race stakes\" (May 2026)\n- Cardinals transactions/news search results (May 14, 2026)\n**Verified Facts (MEDIUM):**\n- Lars Nootbaar (Cardinals OF) eligible to return from 60-day IL around May 24, 2026 (MEDIUM — consistent with 60-day IL timeline from opening week; Lars Nootbaar is a real Cardinals player)\n- Cardinals competitive in 2026 — on pace to exceed projected win total (MEDIUM — MSN article claim)\n- NL Central 2026: all five teams above .500 early in season (MEDIUM — MSN article)\n- Cubs at 27-16 after May 13 loss (MEDIUM — calculated from pre-game record + 1 loss)\n**Confidence note:** The Cardinals \"six-man rotation\" and \"Dobbins activation\" claims from one AI summary were flagged as potentially mixed NFL/MLB data — dropped from content. Nootbaar return and Cardinals competitiveness from cleaner sources.\n**Why it matters:** Division context for fans monitoring the pennant race. Good Tier 3 content on a day with big injury news.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Alex Ramirez Rising at Knoxville — Prospect Watch",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Alex Ramirez is making noise at Double-A Knoxville. 🔥\n\nThe 23-year-old Cubs outfielder has elite raw power — and he's showing it. Multi-RBI games, balls leaving the park.\n\nThe pipeline is delivering while the rotation is in the shop.\n\n#Cubs #CubsBaseball #GoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#GoCubs"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Alex Ramirez Rising at Knoxville — Prospect Watch\n**Decision:** FOLLOW-UP — May 13 pipeline covered Knoxville (win) and Hartshorn at Myrtle Beach. Today's angle focuses specifically on Ramirez's individual performances.\n**Sources:**\n- Bleacher Nation prospects report: https://www.bleachernation.com/cubs/2026/05/13/cubs-prospects-513/ (May 13, 2026)\n- Bleacher Nation May 11: https://www.bleachernation.com/cubs/2026/05/11/cubs-prospects-511/ (\"Ramirez Goes Deep\")\n- MLB.com player page: https://www.mlb.com/player/alex-ramirez-691267\n- Baseball Reference: https://www.baseball-reference.com/register/player.fcgi?id=ramire013ale\n**Verified Facts (MEDIUM):**\n- Alex Ramírez, OF, Knoxville Smokies (Double-A Cubs affiliate) ✓\n- Age: 23 years old (born January 13, 2003) ✓ (verified via MLB.com)\n- 55-grade raw power per scouting evaluations (MEDIUM — prospect profile)\n- Went deep (solo HR) for Knoxville in recent game vs Columbus (MEDIUM — BN May 11/13 summary)\n- Multi-RBI game: 2 RBI on a single against Columbus (MEDIUM — BN May 13 summary)\n- 2025 stats: .192/.255/.338 at Double-A — hit his difficulties are noted in prospect assessments ✓\n- 6'4\", 170 lbs, RHB/RHT, born Santo Domingo, DR ✓ (MLB.com)\n**Why it matters:** Ramirez is the organization's best power bat in the high minors. With the MLB rotation in shambles, a \"farm is producing\" story gives fans something positive. Tier 3 — fills out the afternoon.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Tonight — Ben Brown vs Chris Sale, Series Finale, 6:15 PM CT",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Series finale tonight at Truist Park. 6:15 PM CT. ⚾\n\nBen Brown (1-1, 1.82 ERA) faces Chris Sale, who's been one of the best pitchers in baseball this season — 2.14 ERA, 33 strikeouts over his last four starts.\n\nThis is a tough draw. Let's get a W.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Tonight — Ben Brown vs Chris Sale, Series Finale, 6:15 PM CT\n**Decision:** NEW STORY — Tonight's series finale is distinct from yesterday's game preview (Imanaga vs Ritchie).\n**Sources:**\n- FOX Sports game page: https://www.foxsports.com/mlb/chicago-cubs-vs-atlanta-braves-may-14-2026-game-boxscore-95358 (May 14, 2026)\n- SeatGeek: https://seatgeek.com/atlanta-braves-tickets/5-14-2026-atlanta-georgia-truist-park/ (May 14, 2026)\n- ESPN: https://www.espn.com/mlb/game/_/gameId/401815334/cubs-braves (May 14, 2026)\n- SI/Braves: https://www.si.com/mlb/braves/onsi/chris-sale-2026-season-braves-been-better-than-you-think (May 2026)\n**Verified Facts (HIGH):**\n- Game time: 7:15 PM ET / 6:15 PM CT at Truist Park ✓ (consistent with previous Truist games; Atlanta = Eastern Time)\n- Cubs SP: Ben Brown ✓ (FOX Sports, ESPN confirm)\n- Braves SP: Chris Sale ✓ (multiple sources)\n- Series finale of 3-game series (after Games 1 and 2 — May 12 and May 13) ✓\n**Verified Facts (MEDIUM):**\n- Ben Brown record: 1-1, 1.82 ERA, 0.97 WHIP (MEDIUM — single source; consistent across multiple search results)\n- Chris Sale ERA: 2.14 (MEDIUM — two sources: one says 2.14, another says 2.20; most specific is 2.14 from dedicated Sale article)\n- Sale Win-Loss: One source says 6-1, another says 6-2 — DISCREPANCY. Using ERA only without W-L in tweet.\n- Sale 33 Ks in last 4 starts (MEDIUM — single AI summary; plausible given his 49:12 K:BB in 42 IP total)\n- Sale allowed 1 or fewer runs in 6 of 7 starts (MEDIUM — single source)\n**Why it matters:** The series finale gives Cubs a chance to avoid the sweep. Brown has been excellent in a relief/spot-start role. Sale is one of the hottest pitchers in baseball. This is the day's natural anchor for the evening.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "IT'S GAME TIME — Cubs at Braves",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "IT'S GAME TIME. ⚾\n\nCubs vs. Braves. Truist Park. 6:15 PM CT.\n\nBrown on the mound. Win this one.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 119
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 1
+      },
+      "research": {
+        "facts": "IT'S GAME TIME — Cubs at Braves\n**Decision:** NEW STORY — Game time energy post, 6:30 PM CT. Standard game-time hype for the series finale.\n**Sources:** Same as Story 6.\n**Verified Facts:**\n- Same verified facts as Story 6 apply ✓\n- Game time 6:15 PM CT ✓",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

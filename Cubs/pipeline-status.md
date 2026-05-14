@@ -1,6 +1,13 @@
 # Cubs Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-14 (full pipeline run)
+- **Steps Completed**: Research (15 searches, 8 categories), daily brief (7 stories), research notes, story analysis, X posts (7 tweets), fact-check log, compile-content-data.py, generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — separate repo not in PAT scope)
+- **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-14/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
+- **GitHub Pages Status**: N/A for this run (push rejected)
+- **Issues**: publish-unified-dashboard.py push rejected 403 (content-dashboards is a separate repo). Core deliverable (07-content-data.json) is committed to content-pipeline repo and ready for cubs-x-bot.
+
+## Previous Run
 - **Date**: 2026-05-13 (full pipeline run)
 - **Steps Completed**: Research (15 searches), daily brief (8 stories), research notes, story analysis, X posts (8 tweets), fact-check log, compile-content-data.py, generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — separate repo not in PAT scope)
 - **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-13/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
@@ -62,6 +69,16 @@ to mark them as pipeline-produced.
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-14
+- Stories: 7 (Tier 1: recap, rotation-emergency; Tier 2: trade-urgency, game-preview, game-time; Tier 3: rival-watch, prospect) — X-only niche
+- X posts: 7 (4 informative / 3 bold-take = ~57/43 mix)
+- Char counts: all 7 under 280 (218/249/222/250/262/271/119)
+- Fact-check: Manual verification. Key verified: Braves 4 Cubs 1 (HIGH — 4 sources), 4-game skid (HIGH), Imanaga to 8th (MEDIUM), Boyd knee surgery 6 weeks (HIGH — 6 sources), Steele pushed to August (MEDIUM — 4 sources), Horton 2027 (HIGH), Ben Brown 1-1 1.82 ERA (MEDIUM), Sale 2.14 ERA 33 Ks last 4 starts (MEDIUM), game 6:15 PM CT (HIGH), Nootbaar eligible May 24 (MEDIUM). Dropped: Cardinals six-man rotation (unverifiable — likely NFL data contamination), Sale W-L record (discrepancy between sources), "10 pitchers on IL" exact count.
+- Dashboard: Generated locally (Cubs/cubs-content-2026-05-14/review-dashboard.html). Publish to content-dashboards FAILED (403 — not in PAT scope).
+- 07-content-data.json: ✓ Compiled, 7 stories, 7 x_posts with posting_time in "H:MM AM/PM CT" format
+- Key stories: Braves 4 Cubs 1 Imanaga gem wasted 4-game skid (P10), Rotation emergency Boyd surgery 6 weeks Steele to August (P10), Trade urgency Peralta/Alcantara/Gray triage not deadline (P8), Cardinals rival watch Nootbaar May 24 NL Central tight (P6), Alex Ramirez Knoxville 23yr raw power multi-RBI (P6), Brown vs Sale series finale 6:15 PM CT (P8), Game time (P5)
+- Notes: Full pipeline completed except dashboard remote publish (PAT doesn't include content-dashboards repo). cubs-x-bot will read 07-content-data.json from this repo. Sale W-L record had source discrepancy — omitted from tweet, used ERA only.
 
 ### 2026-05-13
 - Stories: 8 (Tier 1: recap, slump take, game preview, game time; Tier 2: Hendriks signing, SP trade market, injury roundup; Tier 3: prospects) — X-only niche

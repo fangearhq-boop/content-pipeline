@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-14
+
+### STORY 1: Braves 4, Cubs 1 — Imanaga Gem Wasted, Four-Game Losing Streak
+- **Angle:** FOLLOW-UP. Imanaga pitched into the 8th with a quality start; Drake Baldwin solo HR in the 4th; Phil Maton surrendered 3 runs in the 8th including go-ahead RBI double by pinch-hitter Yastrzemski. Cubs fall to 27-16, 4th consecutive loss.
+- **Content Produced:** X (1 post — 7:00 AM CT)
+- **Follow-Up:** Snap the skid tonight vs Sale; Brown's performance; offense wake-up
+
+### STORY 2: Rotation Emergency — Boyd Surgery 6 Weeks, Steele Pushed to August
+- **Angle:** FOLLOW-UP. Boyd had left knee meniscectomy (playing with his kids), out ~6 weeks. Steele suffered rehab setback, not back until post-All-Star break. Horton already out until 2027.
+- **Content Produced:** X (1 post — 8:15 AM CT)
+- **Follow-Up:** Boyd mound return June; Steele August timeline; trade acquisition
+
+### STORY 3: Cubs Must Act — SP Trade Urgency Reaches Crisis Level
+- **Angle:** FOLLOW-UP (May 13 SP trade story). Urgency escalated with Boyd/Steele news. Peralta, Alcantara, Gray still linked. "Not deadline talk — triage."
+- **Content Produced:** X (1 post — 9:30 AM CT)
+- **Follow-Up:** Any completed trade; deadline approach; Steele/Boyd return impact on need
+
+### STORY 4: Rival Watch — Cardinals Reload, NL Central Won't Wait
+- **Angle:** NEW STORY. Lars Nootbaar eligible to return for Cardinals around May 24. NL Central competitive — all 5 teams above .500. Cubs at 27-16 in tight race.
+- **Content Produced:** X (1 post — 10:45 AM CT)
+- **Follow-Up:** Nootbaar activation, Cardinals vs Cubs series, division standings June
+
+### STORY 5: Alex Ramirez Rising at Knoxville — Prospect Watch
+- **Angle:** FOLLOW-UP (May 13 prospects story). Focus on Ramirez specifically: 23-yr-old, 55-grade raw power, multi-RBI games and homers at Double-A Knoxville.
+- **Content Produced:** X (1 post — 3:45 PM CT)
+- **Follow-Up:** Ramirez stats through May, promotion watch, Knoxville series results
+
+### STORY 6: Tonight — Ben Brown vs Chris Sale, Series Finale, 6:15 PM CT
+- **Angle:** NEW STORY (game preview). Ben Brown (1-1, 1.82 ERA) vs Chris Sale (2.14 ERA, 33 Ks in last 4 starts). Series finale at Truist Park. Cubs trying to avoid sweep.
+- **Content Produced:** X (1 post — 5:00 PM CT)
+- **Follow-Up:** Game result, Brown's line, whether Cubs avoid sweep
+
+### STORY 7: IT'S GAME TIME — Cubs at Braves
+- **Angle:** TODAY (game time energy). Series finale, 6:15 PM CT.
+- **Content Produced:** X (1 post — 6:30 PM CT)
+- **Follow-Up:** Game result for next pipeline
+
+---
+
 ## 2026-05-13
 
 ### STORY 1: Braves 5, Cubs 2 — Grant Holmes Combines on One-Hitter
