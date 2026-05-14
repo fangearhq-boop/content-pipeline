@@ -1731,3 +1731,40 @@
 - **Key facts:** LeBron 41, 23rd NBA season ends. Finals stats: 24 pts/14 reb in G4. All-time leading scorer. Missed bank shot with 20 seconds left. No retirement announcement.
 - **Status:** NEW STORY
 - **Follow-up ideas:** LeBron retirement announcement or return decision
+
+## 2026-05-14
+
+### STORY 1: Cavaliers 117-113 OT Pistons (Game 5) — Cavs Lead Series 3-2
+- **Tier:** 1
+- **Category:** Playoff Results / OT Thriller / Controversial No-Call
+- **Key facts:** Cavs 117, Pistons 113 OT (May 13, Little Caesars Arena, Detroit). Cavs lead 3-2. Harden 30 pts (11-14 FT), 8 reb, 6 ast. Mitchell 21 pts. Cade 39 pts, 9 ast. Pistons led 103-94 with <3 min left. Cavs 13-0 run late Q4 to mid-OT. No-call on Ausar Thompson (appeared tripped by Jarrett Allen as clock expired). Tony Brothers stood firm on no-call. Game 6 May 15 at Cleveland.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** G6 result; potential ECF Knicks vs Cavs; LeBron retirement news
+
+### STORY 2: Wemby 27/17/5/3 — Spurs Rout Wolves 126-97, Lead 3-2
+- **Tier:** 1
+- **Category:** Playoff Results / Dominant Performance
+- **Key facts:** Spurs 126, Wolves 97 (Game 5, May 12, AT&T Center, San Antonio). Wemby 27 pts (18 in Q1), 17 reb, 5 ast, 3 blk, 9-16 FG, 2-5 3P. Spurs lead 3-2. Game 6 May 15 at Target Center, 9:30 PM ET, Prime Video.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** G6 result; WCF vs OKC (if Spurs win)
+
+### STORY 3: Cade Cunningham 39-Point War — Pistons Face Elimination
+- **Tier:** 2
+- **Category:** Feature / Player Performance / Elimination Pressure
+- **Key facts:** Cade 39 pts, 9 ast in G5 loss. Pistons led 103-94 with <3 min left. Controversial no-call on Ausar Thompson. Pistons trail 2-3. Game 6 May 15 at Cleveland.
+- **Status:** FOLLOW UP (from 2026-05-12)
+- **Follow-up ideas:** G6 elimination result; Cade 2026 playoff evaluation
+
+### STORY 4: Conference Finals Landscape — Knicks and OKC Waiting
+- **Tier:** 2
+- **Category:** Playoff Landscape / Conference Finals Preview
+- **Key facts:** Knicks (No. 1 East, swept 76ers) waiting. OKC (8-0, swept Lakers) waiting. Two G6s May 15: Cavs-Pistons at Cleveland + Spurs-Wolves at Minnesota (9:30 PM ET). ECF as early as May 17; WCF as early as May 18 at OKC.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Conference Finals matchups confirmed
+
+### STORY 5: Harden Joins LeBron, Kobe, MJ in Elite Playoff Club
+- **Tier:** 2
+- **Category:** Feature / Historic Achievement
+- **Key facts:** Harden (age 36) joined LeBron James, Kobe Bryant, Michael Jordan in rare playoff club with 30 pts/8 reb/6 ast OT performance. Harden +11 in G5.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Harden's continued playoff impact; Cavs ECF run
