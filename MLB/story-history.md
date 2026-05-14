@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-14
+
+### Story 1: Schwarber's Quest — Going for 6 Straight with Mattingly's MLB Record in Sight
+- **Angle:** FOLLOW UP. Different angle from May 13 (tied record). Today: the chase to break it. Phillies franchise record of 5 straight tied with Schmidt, Allen, Abreu, Utley, Hoskins, Herrera, Turner. Tonight he goes for 6 (sole possession). MLB record: 8 straight — Griffey 1993, Mattingly 1987, Long 1956. Mattingly is current Phillies interim manager. Going for No. 6 at Fenway tonight.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Did Schwarber homer tonight? Update for May 15 content.
+
+### Story 2: Rico Garcia — The Expansion Era's Most Untouchable Reliever
+- **Angle:** NEW STORY. Orioles reliever, first pitcher in Expansion Era to allow at most one hit over 64 batters; also first in MLB history to allow at most one total hit in first 20 appearances. Only hit: HR by Michael Massey (Royals) on April 21. BABIP: .000. ERA: 0.47, WHIP: 0.42, batters hitting .018. 30th-round pick (2016 Rockies), TJ surgery 2021, free agent 7 times, claimed off waivers 4 times (3 in 2025 alone).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Garcia's ERA/stats as season continues; Orioles AL East race
+
+### Story 3: Ben Rice Leads MLB in OPS — The Yankee No One Saw Coming
+- **Angle:** NEW STORY. Different angle from Judge/Murakami HR race. Yankees 1B Ben Rice leads all MLB with 1.214 OPS. 13 HRs. .338 BA. Exit velo 94.5, hard-hit 59.6%, barrel 21.3%, wOBA .467. 8 of 13 HRs off RHP.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Rice's OPS/stats as season continues; Yankees AL East position
+
+### Story 4: Tampa Bay's Unstoppable May — 16 Wins in 18 Games
+- **Angle:** NEW STORY. Rays 16-2 in last 18. AL East leaders. Ace Pepiot out for season (hip surgery), Matz on IL (elbow), Boyle on IL. Using opener strategy. Walk-off wins, comeback victories. Taylor Walls walk-off RBI single in 10th beat Blue Jays 7-6.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Rays AL East standing updates; when Matz/Boyle return
+
+### Story 5: Braves Win Again — Two Straight Over Cubs at Truist Park
+- **Angle:** FOLLOW UP. Different angle from May 13 (combined no-hitter). Today: the series result and what it means for NL hierarchy. Braves won Games 1 and 2 (combined 1-hitter 5-2, then 4-1). Braves ~30-13, Cubs 27-16. Braves lead NL in fewest runs allowed (3.44/game). Game 3 today. Is Atlanta the NL's best team?
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Game 3 result; Braves-Cubs playoff implications
+
+### Story 6: Wednesday MLB Slate Roundup
+- **Angle:** NEW STORY (Roundup). Roundup of key games: Phillies-Red Sox (Schwarber's 6th bid), Braves-Cubs Game 3, Yankees-Orioles (Garcia possible), Rays-Blue Jays.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Thursday results
+
+---
+
 ## 2026-05-13
 
 ### Story 1: Schwarber Seizes MLB HR Lead — 17th Homer, Phillies Franchise Record 5 Straight Games

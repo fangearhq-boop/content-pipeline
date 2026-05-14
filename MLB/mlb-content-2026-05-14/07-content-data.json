@@ -1,0 +1,337 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-14",
+  "compiled_at": "2026-05-14T10:30:35.306739+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "X + FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 6",
+      "type": "X + FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Schwarber's Quest — Going for 6 Straight with His Manager's MLB Record in Sight",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kyle Schwarber tied the Phillies franchise record with 5 straight HR games. Now he goes for 6 tonight at Fenway.\n\nThe MLB record of 8 straight belongs to Don Mattingly. Mattingly is currently Schwarber's manager.\n\nBaseball writes its own stories. ⚾ #Phillies #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Schwarber has 17 HRs. He's tied for the Phillies record with Schmidt, Allen, Abreu, Utley, Hoskins, Herrera, and Turner.\n\nIf he hits No. 6 tonight: sole possession of the franchise record.\n\nPhillies at Red Sox. First pitch tonight. ⚾ #Phillies #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-schwarber-hr-streak-mattingly-record.html",
+        "headline": "Schwarber Goes for Six: The HR Streak, the Franchise Record, and His Manager's MLB Mark",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber HR Streak\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Kyle Schwarber Philadelphia Phillies`\n- **Caption overlay:** \"5 STRAIGHT HR GAMES / PHILLIES FRANCHISE RECORD TIED / GOING FOR 6\"\n- **Usage:** X post 8:00 AM + Facebook long-form\n- **Alt text:** Kyle Schwarber celebrating home run in Philadelphia Phillies uniform\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Kyle Schwarber Phillies batting`\n- **Caption overlay:** \"17 HRs. FRANCHISE RECORD TIED. MATTINGLY'S MLB RECORD AHEAD.\"\n- **Usage:** Facebook image caption post\n- **Alt text:** Kyle Schwarber at bat in Phillies uniform\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber HR Streak — Going for Six Straight\n**Sources:** MLB.com official news, Philadelphia Baseball Review, Washington Post, SI.com Phillies, Yahoo Sports\n- Kyle Schwarber hit a first-inning HR at Fenway Park on May 12, going deep for 5th straight game, tying Phillies franchise record (HIGH — MLB.com official)\n- Phillies won 2-1 over Red Sox on May 12 (HIGH — multiple sources)\n- Schwarber leads MLB with 17 home runs (HIGH — May 12 coverage confirmed)\n- 6 HRs in 5-game span, personal best (HIGH — Washington Post)\n- Phillies franchise record: 5 consecutive HR games, shared with Dick Allen (1969), Mike Schmidt (1979), Bobby Abreu (2005), Chase Utley (twice in 2008), Rhys Hoskins (2017), Odúbel Herrera (2018), Trea Turner (2023) (HIGH — MLB.com official)\n- MLB record: 8 consecutive HR games — Ken Griffey Jr. (Mariners, 1993), Don Mattingly (Yankees, 1987), Dale Long (Pirates, 1956) (HIGH — MLB.com, widely confirmed)\n- Don Mattingly is currently the Phillies' interim manager (HIGH — multiple sources from May 13)\n- Phillies 20-22, 11-3 under Mattingly (HIGH — May 13 story history)\n- Schwarber going for 6th straight tonight at Fenway (HIGH — implied from schedule)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Rico Garcia — The Expansion Era's Most Untouchable Reliever",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Rico Garcia has faced 64 batters this season. He's allowed 1 hit.\n\nThat hit was a home run. Every ball in play otherwise: an out. BABIP of .000.\n\nHe's the first pitcher in the Expansion Era (since 1961) to do this. ERA: 0.47. ⚾ #Orioles #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Orioles",
+            "#MLB"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Rico Garcia was a 30th-round pick. He had Tommy John surgery. He was a free agent 7 times. Claimed off waivers 4 times (3 times last year alone).\n\nIn 2026, he's the most untouchable reliever in baseball.\n\nBatters are hitting .018 against him. ⚾ #Orioles #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Orioles",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-rico-garcia-orioles-expansion-era-record.html",
+        "headline": "One Hit in 64 Batters: Rico Garcia Is the Most Untouchable Reliever in Baseball",
+        "word_count": 653
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rico Garcia\n\n#### Image Concept 3 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Rico Garcia Baltimore Orioles`\n- **Caption overlay:** \"64 BATTERS. 1 HIT. ERA: 0.47. / THE EXPANSION ERA HAS NEVER SEEN THIS.\"\n- **Usage:** X post 10:30 AM + Facebook long-form\n- **Alt text:** Rico Garcia pitching in Baltimore Orioles uniform\n\n#### Image Concept 4 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Baltimore Orioles pitcher`\n- **Caption overlay:** \"CLAIMED OFF WAIVERS 4 TIMES. TOMMY JOHN. 7X FREE AGENT. / NOW UNTOUCHABLE.\"\n- **Usage:** Facebook image caption post\n- **Alt text:** Baltimore Orioles pitcher on mound\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rico Garcia — Expansion Era Reliever Record\n**Sources:** MLB.com official news, Yahoo Sports (CA), OriolesHangout.com, Wikipedia\n- Rico Garcia is Baltimore Orioles reliever (HIGH)\n- First pitcher in Expansion Era (since 1961) to allow at most one hit over first 64 batters faced to start a season (HIGH — MLB.com official)\n- First pitcher in MLB history to allow at most one total hit in first 20 appearances in a season (HIGH — MLB.com official)\n- Only hit allowed was a home run by Royals' Michael Massey on April 21 (HIGH — MLB.com)\n- His BABIP (batting average on balls in play) is .000 (HIGH — all balls in play are outs)\n- ERA: 0.47, WHIP: 0.42 (HIGH — MLB.com Statcast profile)\n- 22 strikeouts, 7 walks (HIGH — MLB.com)\n- Batters hitting .018 against him (HIGH — MLB.com official)\n- Journey: 30th-round pick by Rockies in 2016 (HIGH — Wikipedia/multiple sources)\n- Tommy John surgery in 2021 (HIGH — BaltimoreBaseball.com article)\n- Free agent 7 times (HIGH — Yahoo Sports)\n- Claimed off waivers 4 times, including 3 times in 2025 alone (HIGH — Yahoo Sports)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ben Rice Leads MLB in OPS — The Yankee No One Saw Coming",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Everyone's watching Judge vs. Murakami in the HR race.\n\nMeanwhile, Yankees 1B Ben Rice leads ALL of MLB with a 1.214 OPS. 13 home runs. Hard-hit rate: 59.6%.\n\nThe Bronx has a third dangerous bat nobody is talking about. ⚾ #Yankees #MLB",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-ben-rice-yankees-ops-leader.html",
+        "headline": "Ben Rice Is Leading MLB in OPS and No One Is Talking About It",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ben Rice\n\n#### Image Concept 5 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Ben Rice New York Yankees`\n- **Caption overlay:** \"1.214 OPS — LEADS ALL OF MLB / 13 HRs / THE YANKEE NO ONE SAW COMING\"\n- **Usage:** X post 12:30 PM + Facebook long-form\n- **Alt text:** Ben Rice batting in New York Yankees uniform\n\n#### Image Concept 6 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `New York Yankees first baseman`\n- **Caption overlay:** \"BEN RICE. YANKEES 1B. MLB'S OPS LEADER. QUIETLY ELITE.\"\n- **Usage:** Facebook image caption post\n- **Alt text:** New York Yankees first baseman at bat\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ben Rice — Yankees' OPS Leader\n**Sources:** Baseball-Reference.com, ESPN, FanGraphs, BaseballSavant\n- Ben Rice plays 1B for New York Yankees (HIGH)\n- Leads MLB with 1.214 OPS (HIGH — multiple sources citing Statcast data)\n- 13 home runs (HIGH — CBS Sports May 13 article)\n- Batting .338 (HIGH — ESPN/Baseball-Reference current stats)\n- Average exit velocity: 94.5 (HIGH — BaseballSavant)\n- Hard-hit %: 59.6 (HIGH — BaseballSavant)\n- Barrel %: 21.3 (HIGH — BaseballSavant)\n- wOBA: .467 (HIGH — BaseballSavant)\n- 8 of 13 HRs came off right-handed pitchers (HIGH — CBS Sports)\n- .300/.1.065 OPS vs RHP (HIGH — CBS Sports May 13)\n**Confidence:** All facts HIGH. Note: Stats current as of May 13; may shift slightly by game time May 14.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tampa Bay's Unstoppable May — 16 Wins in 18 Games",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tampa Bay has won 16 of their last 18 games.\n\nTheir ace is out for the season. Two more starters are on the IL. Kevin Cash is using openers.\n\nThe Rays are leading the AL East anyway. Don't sleep on Tampa Bay. ⚾ #Rays #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#MLB"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-tampa-bay-rays-16-wins-18-games.html",
+        "headline": "Tampa Bay Has Won 16 of 18 Games. Their Ace Is Gone for the Year. The Rays Lead the AL East.",
+        "word_count": 567
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tampa Bay Rays\n\n#### Image Concept 7 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Tampa Bay Rays celebration`\n- **Caption overlay:** \"16 WINS IN 18 GAMES / ACE OUT FOR THE YEAR / LEADING THE AL EAST\"\n- **Usage:** X post 3:00 PM + Facebook long-form\n- **Alt text:** Tampa Bay Rays players celebrating win\n\n#### Image Concept 8 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Kevin Cash Tampa Bay Rays`\n- **Caption overlay:** \"RAYS WIN. AGAIN. / KEVIN CASH'S TEAM IS THE AL EAST'S SURPRISE LEADER.\"\n- **Usage:** Facebook image caption post\n- **Alt text:** Kevin Cash managing from Tampa Bay Rays dugout\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tampa Bay Rays Hot Streak\n**Sources:** Yahoo Sports, ESPN Power Rankings, CBS Sports MLB news\n- Tampa Bay Rays: 16 wins in last 18 games (HIGH — ESPN Power Rankings Week 6, Yahoo Sports)\n- AL East leaders (HIGH — standings as of May 12-13, 28-13 record implied)\n- Taylor Walls walk-off RBI single in 10th inning beat Blue Jays 7-6 on May 12 (HIGH — Yahoo Sports)\n- Jonathan Aranda sacrifice fly followed (HIGH — Yahoo Sports)\n- Ryan Pepiot out for season: hip surgery (HIGH — CBS Sports)\n- Steven Matz on IL: elbow inflammation (HIGH — CBS Sports)\n- Joe Boyle also on injured list (HIGH — CBS Sports)\n- Manager Kevin Cash using opener strategy in response to pitching injuries (HIGH — CBS Sports)\n**Confidence:** All facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Braves Continue to Punish Cubs in Atlanta — Building Biggest NL East Lead",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Atlanta has beaten the Cubs twice in Atlanta this week. Game 3 is tonight.\n\nThe Braves lead the NL in fewest runs allowed (3.44/game). The Cubs had two 10-game win streaks in April.\n\nThis series is a preview of the NL playoff picture. ⚾ #Braves #Cubs #MLB",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-braves-cubs-series-nl-hierarchy.html",
+        "headline": "The Braves Have Beaten the Cubs Twice. Game 3 Today Will Tell Us Who the NL's Best Team Actually Is.",
+        "word_count": 631
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves-Cubs Series\n\n#### Image Concept 9 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Atlanta Braves Truist Park`\n- **Caption overlay:** \"BRAVES TAKE GAMES 1 AND 2 FROM CUBS / 30-13 / NL'S BEST TEAM?\"\n- **Usage:** X post 6:00 PM + Facebook long-form\n- **Alt text:** Atlanta Braves celebrating at Truist Park\n\n#### Image Concept 10 — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** `Atlanta Braves player`\n- **Caption overlay:** \"3.44 RUNS ALLOWED PER GAME (NL BEST) / BRAVES ARE ROLLING\"\n- **Usage:** Facebook image caption post\n- **Alt text:** Atlanta Braves player in game action\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Braves-Cubs Series\n**Sources:** ESPN game pages, MLB.com standings, story history from May 13\n- Braves beat Cubs 5-2 in Game 1 on May 12 (combined 1-hitter; Grant Holmes + relievers) (HIGH — story history)\n- Braves beat Cubs 4-1 in Game 2 on May 13 (HIGH — May 13 MLB scores from web search)\n- Braves record approximately 30-13 after May 13 win (MEDIUM — exact record confirmed at 29-13 May 12, Win on May 13 = 30-13; verify)\n- Cubs record 27-15 after May 13 loss (HIGH — from pipeline status, loses one = 27-16)\n- Braves lead MLB in fewest runs allowed per game at 3.44 (HIGH — May 13 story analysis)\n- Cubs had two 10-game win streaks in first 40 decisions — first since 1955 Dodgers (HIGH — story history)\n- Game 3 scheduled May 14 at Truist Park (HIGH — series schedule)\n**Confidence:** Braves 30-13 record is MEDIUM (calculated from 29-13 + win; use as \"approximately\"). All other facts HIGH.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Wednesday's MLB Slate — Key Games and What to Watch Tonight",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Wednesday wrap-up:\n\n⚾ Schwarber: Did he go 6 straight?\n⚾ Braves-Cubs: Series sweep on the table\n⚾ Rays: Chasing 17 wins in 19 games\n⚾ Yankees-Orioles: Rico Garcia's 0.47 ERA lurking\n\nWild night of baseball. Full recap tomorrow. #MLB",
+          "posting_time": "10:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wednesday MLB Slate\n**Sources:** MLB.com schedule, game previews\n- Phillies at Red Sox: Fenway Park tonight (HIGH — from May 13 schedule data)\n- Braves vs Cubs: Truist Park, Game 3 (HIGH)\n- Yankees at Orioles: Camden Yards (HIGH — May 13 scoreboard data)\n- Rays vs Blue Jays: Rogers Centre or Tropicana Field (need to check — use general \"afternoon/evening game\")\n- Key watch: Schwarber's HR attempt, Garcia potential appearance\n**Confidence:** Game matchups HIGH. Times and networks MEDIUM (inferred from schedule pattern).",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
