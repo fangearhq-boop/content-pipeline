@@ -2,6 +2,45 @@
 
 ---
 
+## May 14, 2026
+
+### Story 1: D20 Honors Cora Fogle at Rampart Graduation
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (Cora Fogle, Rampart HS senior, died of cancer December 2025; classmates raised $50K+ for cancer research; petitioned D20 to honor her at graduation; D20 reversed posthumous recognition policy; family walked the stage May 12 at Clune Arena)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Rampart HS; died December 2025; $50K+ raised; D20 policy reversal; family walked stage May 12; Source: KKTV/KOAA local reporting
+
+### Story 2: CPSC Warning — Baby Bath Seats (Multiple Brands)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CPSC urgent safety warning; baby bath seats — YCXXKJ, NFSVLB, CheerKid, Trankerloop brands sold on Amazon; unstable design can tip during bath, posing drowning risk; stop use immediately; report: SaferProducts.gov or 800-638-2772; unit count NOT published — conflation risk with unrelated Joyful Journeys recall)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** YCXXKJ, NFSVLB, CheerKid, Trankerloop; Amazon; drowning risk; SaferProducts.gov; 800-638-2772; NO unit count used; Source: cpsc.gov
+
+### Story 3: Pikes Peak Area Graduation Guide 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Multi-district graduation guide: D11 May 19-20 at school venues — Palmer/Coronado May 19, Mitchell/Doherty May 20, last day May 22; D20 May 12-16 mostly at Clune Arena USAFA, Aspen Valley at Pine Creek May 15; D49 May 15-23 — Springs Studio/Patriot May 15, BLPA May 19, Sand Creek HS May 23 at Broadmoor World Arena; PPSC commencement separate at pikespeak.edu)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** D11 last day May 22; D20 Clune Arena; D49 Sand Creek May 23 Broadmoor World Arena; asd20.org, d49.org, d11.org for livestreams; Source: district websites
+
+### Story 4: COS Summer Pool Opening Guide — Memorial Day 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (COS outdoor pools open Memorial Day weekend: Monument Valley Pool + Wilson Ranch Pool May 24 weather permitting, operated by PPYMCA; Panorama Park Splash Pad May 25 free, 10AM-6PM daily through Sept 2; Deerfield Hills Sprayground June 1 hours vary; season passes at ppymca.org; 10 days to Memorial Day)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Monument Valley + Wilson Ranch May 24; Panorama Splash Pad May 25 free; Deerfield Hills June 1; ppymca.org; Source: ppymca.org, city recreation
+
+### Story 5: National Water Safety Month — AAP Drowning Prevention Guide
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (May is National Water Safety Month; AAP guidance: drowning is No. 1 injury-related death cause ages 1-4; touch supervision (within arm's reach) for infants/toddlers; active supervision + Water Watcher designation for older kids; swim lessons from age 1; four-sided pool isolation fence with self-closing/latching gate; Coast Guard-approved life jackets for open water (not floaties); SPF 15+ broad-spectrum water-resistant sunscreen; COS pools open 10 days away)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** No. 1 injury death cause ages 1-4 (AAP); touch supervision; Water Watcher; swim lessons from age 1; four-sided isolation fence; Coast Guard-approved life jackets only; SPF 15+; HealthyChildren.org; Source: AAP/HealthyChildren.org
+
+---
+
 ## May 10, 2026
 
 ### Story 1: CPSC Recall — Bellabu Bear Children's Sherpa Robes (Burn Hazard)

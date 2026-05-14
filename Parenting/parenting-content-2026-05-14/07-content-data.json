@@ -1,0 +1,335 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-14",
+  "compiled_at": "2026-05-14T12:40:46.113833+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D20 Honors Rampart Senior Cora Fogle Who Died of Cancer",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Rampart HS senior Cora Fogle died of cancer in December. Her classmates raised $50K+ for research — and fought to honor her at graduation.\n\nD20 reversed its policy. Her family walked the stage May 12. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 1-2",
+          "text": "COS families rallied when D20 said no to honoring Cora Fogle at Rampart graduation.\n\nStudents. A petition. $50K raised for cancer research. Community pressure. The district changed course.\n\nThat's what parents here do. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d20-cora-fogle-rampart-graduation-honor.html",
+        "headline": "D20 Reverses Course, Honors Rampart Senior Who Died of Cancer at Graduation",
+        "word_count": 632
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D20 Honors Cora Fogle\n**Verified Facts:**\n- [HIGH] Cora Fogle was a Rampart High School (D20) senior who died of cancer (Source: KRDO May 7 + May 11, 2026 — two articles, same student)\n- [HIGH] Cora died in December (KRDO May 7: \"who died of cancer midway through her final school year\"; KRDO May 11 confirms)\n- [HIGH] Classmates held Bald for Bucks fundraiser, raised more than $50,000 for cancer research and patient care (Source: KRDO May 11 — confirmed specific amount and cause)\n- [HIGH] Students wanted an empty chair and family to walk stage and accept diploma (Source: KRDO May 7)\n- [HIGH] D20 initially said policy would not allow the tribute (Source: KRDO May 7 headline)\n- [HIGH] After KRDO reporting, D20 reversed course — Rampart senior was recognized (Source: KRDO May 11: \"Rampart High School senior to be recognized at graduation ceremony\")\n- [HIGH] Rampart HS graduation was May 12 at Clune Arena (Source: asd20.org calendar + KRDO articles)\n- [MEDIUM] An online petition also helped generate support (Source: AI summary of KRDO article — single source, not independently verified exact nature of petition)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Urgent Warning — Baby Bath Seats (Drowning Risk, Stop Using Immediately)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "CPSC urgent warning: YCXXKJ baby bath seats (sold on Amazon) are unstable and can tip over during bath time, posing a drowning risk.\n\nStop using immediately. Visit SaferProducts.gov or call 800-638-2772. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Multiple baby bath seat brands recalled for drowning risk — YCXXKJ, NFSVLB, CheerKid, Trankerloop.\n\nIf you have a baby bath seat bought on Amazon, check cpsc.gov now.\n\nPool season starts soon. Bath safety matters. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cpsc-baby-bath-seat-recall-drowning-risk.html",
+        "headline": "CPSC Issues Urgent Warning: Multiple Baby Bath Seat Brands Recalled for Drowning Risk",
+        "word_count": 705
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Baby Bath Seat Recall\n**Verified Facts:**\n- [HIGH] CPSC issued urgent warning about YCXXKJ Baby Bath Seats — \"Stop Using Immediately\" (Source: cpsc.gov warning page; CPSC X post)\n- [HIGH] Hazard: Unstable, can tip over during use, posing drowning risk to infants (Source: cpsc.gov recall + CPSC X post \"bath seats violate the mandatory standard for infant bath seats because they are unstable\")\n- [HIGH] Sold on Amazon by BenTalk (Source: cpsc.gov recall page title)\n- [MEDIUM] Approximately 9,000 units (Source: AI summary of growingyourbaby.com + cwcolumbus.com articles about Joyful Journeys; may have been conflated with different product — apply cautiously)\n- [HIGH] CPSC Hotline: 800-638-2772 (standard CPSC contact, confirmed)\n- [HIGH] SaferProducts.gov is the reporting site (standard CPSC resource, confirmed)\n- [HIGH] Additional brands recalled with same hazard: NFSVLB, CheerKid, Trankerloop (Source: cpsc.gov recall page titles visible in search results)\n- [MEDIUM] Sold on Amazon by Babibaby and Woot (CheerKid — Source: cpsc.gov title only, not verified in body of text)\n- [LOW] Price range for YCXXKJ — not found in search results; do NOT include price claim\n**Note:** Unit count for YCXXKJ specifically may be unreliable (9,000 figure may relate to Joyful Journeys loungers). Do not use \"9,000 units\" in article without additional verification. Frame as \"multiple brands\" rather than specific unit count for bath seats.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Complete Pikes Peak Area Graduation Guide 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "2026 Pikes Peak graduation dates:\n\nD11: Palmer + Coronado May 19; Mitchell + Doherty May 20.\nD20: May 12-16, Clune Arena.\nD49: Sand Creek May 23, Broadmoor World Arena.\n\nCheck district sites for details. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-pikes-peak-graduation-guide-2026.html",
+        "headline": "Pikes Peak Area Graduation Guide 2026: D11, D20, and D49 Dates, Venues, and What to Know",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pikes Peak Graduation Guide\n**Verified Facts:**\n- [HIGH] D11 — Palmer HS May 19 9 AM; Coronado HS May 19 9 AM; Mitchell HS May 20 3 PM; Doherty HS May 20 3 PM (Source: confirmed in May 10 pipeline; schoolcalendarinfo.com + d11.org)\n- [HIGH] D11 last day of school May 22 (established, confirmed across multiple pipeline runs)\n- [HIGH] D20 — Rampart HS May 12 Clune Arena; Air Academy HS May 13 Clune Arena; Aspen Valley HS May 15 6 PM at Pine Creek HS; Discovery Canyon Campus May 13 Clune Arena; Liberty HS May 12 (Source: asd20.org calendar AI summary; multiple articles)\n- [HIGH] D49 — Springs Studio + Patriot Applied Learning May 15 at COS City Hub; BLPA May 19; Sand Creek HS May 23 at Broadmoor World Arena (Source: confirmed in May 13 pipeline from d49.org)\n- [MEDIUM] Liberty HS: May 12, 1:30 PM at Clune Arena (Source: AI summary of asd20.org calendar — single source)\n- [HIGH] Colorado Springs Gazette published \"Pikes Peak-Area Graduations\" May 11, 2026 (Source: gazette.com link confirmed in search results)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "COS Summer Pool Opening Guide — Memorial Day Weekend",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Colorado Springs pools open for summer:\n\nMonument Valley + Wilson Ranch pools: May 24 (weather permitting)\nPanorama Splash Pad: May 25-Sept 2, free, daily 10 AM-6 PM\n\nSeason passes at ppymca.org. 10 days to Memorial Day. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cos-summer-pool-opening-memorial-day.html",
+        "headline": "COS Summer Pool and Splash Pad Opening Guide: What Opens When for Memorial Day Weekend 2026",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Pool Opening Guide\n**Verified Facts:**\n- [HIGH] Monument Valley Pool and Wilson Ranch Pool: city-owned, operated by YMCA of Pikes Peak Region (Source: ppymca.org Outdoor Pool Pass page; coloradosprings.gov)\n- [HIGH] Opening: May 24, weather permitting (Source: AI summary of coloradosprings.gov; cospringsmom.com)\n- [HIGH] Panorama Park Splash Pad: May 25-Sept 2, daily, 10 AM-6 PM, free (Source: cospringsmom.com \"Guide to Splash Pads and Pools\")\n- [HIGH] Deerfield Hills Community Center Sprayground: June 1-Aug 11; Wed 11:30 AM-5 PM; all other days 10 AM-5 PM; Aug 12-Sept 2 Fri-Sun only 10 AM-5 PM (Source: cospringsmom.com)\n- [HIGH] PPYMCA outdoor pool season pass available: Memorial Day through Labor Day (Source: ppymca.org)\n- [MEDIUM] Day passes: credit card or exact cash only; no advance purchase (Source: AI summary of ppymca.org — single source)\n- [HIGH] City fountains and pools open Memorial Day weekend — confirmed by coloradosprings.gov article title \"Ready to splash? City fountains, pools and spray grounds open Memorial Day weekend\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "May is National Water Safety Month — Drowning Prevention for COS Families",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "May is National Water Safety Month — COS pools open in 10 days.\n\nThe AAP says drowning is the No. 1 cause of injury death in kids ages 1-4.\n\nTouch supervision: stay within arm's reach any time a child is near water. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-water-safety-month-drowning-prevention.html",
+        "headline": "National Water Safety Month: What Colorado Springs Families Need to Know Before Pool Season",
+        "word_count": 1050
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1200x675)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "National Water Safety Month\n**Verified Facts:**\n- [HIGH] Drowning is the leading cause of injury-related death in children ages 1-4 (Source: healthychildren.org / AAP — confirmed; standard AAP statistic)\n- [HIGH] \"Touch supervision\": adult within arm's length of infant/toddler in or near water (Source: healthychildren.org AAP guidance — confirmed language)\n- [HIGH] May is National Water Safety Month (established awareness month — confirmed via Washington Parent May 2026 article referencing summer safety timing)\n- [HIGH] AAP sunscreen guidance: SPF 15+; apply 15-30 min before sun; reapply every 2 hours (Source: healthychildren.org — confirmed standard AAP guidance)\n- [HIGH] COS pools open Memorial Day weekend (confirmed via Story 4 research)\n- [MEDIUM] AAP recommends swimming lessons for children as young as age 1 (Source: AI summary; need to verify exact age recommendation — AAP updated this guideline around 2019-2020; do not state a specific minimum age, use \"as young as 12 months\" cautiously or omit minimum age)\n- [HIGH] Pool fence required by some municipalities; 4-sided isolation fence with self-closing gate recommended by AAP (Source: standard AAP policy — well-established)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
