@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-15
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 noted), image manifest, articles (5), fact-check (34 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 23 items), dashboard (23 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). S6 no image concept — Tier 3 social-only by design. 0 char violations.
+- **Key Stories**: Schwarber 18th HR/6 straight games/Mattingly ML record chase/Phillies 12-4 (Tier 1), Ben Brown 8 IP 0 ER as Cubs starter/Ian Happ 424-ft HR/Cubs 2-0 Braves (Tier 2), Rivalry Weekend opens/Yankees-Mets/Cubs-White Sox (Tier 2), NL standings check Braves-Cubs-Phillies (Tier 2), Rays 28-13 AL East without rotation (Tier 2), Thursday MLB roundup (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-14
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 noted), image manifest, articles (5), fact-check (38 claims, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/

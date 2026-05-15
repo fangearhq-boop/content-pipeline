@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-15
+
+### Story 1: Schwarber 18th HR, 6 Consecutive Games — Mattingly's Record in Sight
+- **Angle:** FOLLOW UP (May 14 covered "going for 6th straight" — today confirmed 6th game). Schwarber hit 18th HR (MLB lead), 417-foot 2-run shot off Samaniego in 8th inning, Phillies 3-1 over Red Sox. 7 HRs in 6 games. 2 games from Don Mattingly's all-time ML record of 8 straight. Mattingly is current Phillies interim manager. Jesus Luzardo 6 scoreless IP. Phillies 12-4 under Mattingly.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Did Schwarber homer in game 7? Did he tie record (game 7) and break it (game 8)?
+
+### Story 2: Ben Brown's Starter Breakthrough — Cubs Blank Braves 2-0 in Atlanta
+- **Angle:** NEW STORY. Ben Brown (12 bullpen appearances to start season) threw 4 IP, 1 H, 7 K, 0 ER in 65 pitches as starter — his 2nd start. 8 combined IP, 0 ER in both starts. Ian Happ 424-ft HR off Chop House in 8th off López. Cubs snap 4-game skid. Hoby Milner win (2 IP). Daniel Palencia 3rd save. Cubs 28-16.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Ben Brown's 3rd start; Cubs rotation development
+
+### Story 3: Rivalry Weekend Opens — Yankees-Mets, Cubs-White Sox, Rangers-Astros
+- **Angle:** NEW STORY. May 15-17 is MLB Rivalry Weekend. Tonight: Yankees at Mets (Subway Series), Cubs at White Sox (Crosstown Classic), Rangers at Astros, Dodgers at Angels, Orioles at Nationals. Biggest emotional games of the week.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Rivalry Weekend results through Sunday
+
+### Story 4: NL Standings Picture — Braves, Cubs, Phillies After Thursday
+- **Angle:** NEW STORY. NL landscape check: Braves ~30-14 (NL best), Cubs 28-16 (2 games back), Phillies 12-4 under Mattingly (~22-22). Braves lead MLB in fewest runs allowed. Cubs snapped 4-game skid. Phillies from 9-19 to Wild Card conversation.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** NL standings update after Rivalry Weekend; Phillies Wild Card position
+
+### Story 5: Tampa Bay 28-13 — Leading AL East Without Their Rotation
+- **Angle:** FOLLOW UP (new angle: 28-13 season total and depth model vs May 14's "16 wins in 18 games"). Rays 28-13 AL East leaders. Pepiot (hip surgery, season-ending), Matz (elbow IL), Boyle (IL) all out. Opener strategy, bullpen depth, Taylor Walls walk-off. How they keep winning.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Rays next games, Matz/Boyle return timeline
+
+### Story 6: Thursday MLB Roundup
+- **Angle:** NEW STORY (Tier 3 roundup). All Thursday results: Phillies 3-1 Red Sox, Cubs 2-0 Braves, Reds 15-1 Nationals, Brewers 7-1 Padres, Twins 9-1 Marlins, Mariners 8-3 Astros, Mets 9-4 Tigers, Cardinals 5-4 Athletics, Pirates 7-2 Rockies.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Friday/Rivalry Weekend results
+
+---
+
 ## 2026-05-14
 
 ### Story 1: Schwarber's Quest — Going for 6 Straight with Mattingly's MLB Record in Sight

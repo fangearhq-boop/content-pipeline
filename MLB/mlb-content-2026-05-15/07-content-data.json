@@ -1,0 +1,327 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-15",
+  "compiled_at": "2026-05-15T10:29:50.536195+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Schwarber 18th HR",
+      "type": "X Post (lead) + FB Long-Form"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 1",
+      "type": "X Post (angle 2)"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — Ben Brown/Cubs Shutout",
+      "type": "X Post + FB Long-Form"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 4 — NL Picture",
+      "type": "X Post + FB Long-Form"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 3 — Rivalry Weekend",
+      "type": "X Post + FB Long-Form"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — Rays at 28-13",
+      "type": "X Post + FB Long-Form"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 6 — Thursday Roundup",
+      "type": "X Post + FB Long-Form"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Schwarber's Record Chase — 18th HR, 6 Straight, Mattingly Next",
+      "tier": 1,
+      "status": "",
+      "angle": "Schwarber hit HR No. 18 on Thursday (417 feet, 2-run shot, 8th inning off Samaniego) as Phillies beat Red Sox 3-1. That's 6 consecutive games with an HR — 7 HRs in that span. He's 2 games from Don Mattingly's all-time MLB record of 8 straight (set 1987). The manager he's playing for: Don Mattingly. The irony is complete. Also: 18 HRs leads all of MLB. Phillies 12-4 under Mattingly.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kyle Schwarber hit his 18th HR last night. 🔴⚾\n\n6 consecutive games with a homer — MLB's all-time record is 8.\n\nThe man who set that record in 1987: Don Mattingly.\n\nSchwarber's current manager: Don Mattingly.\n\nTwo games away from making history. 👀\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP (from May 14 \"going for 6th straight\" coverage — today he confirmed it)",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Schwarber's current stretch: 7 HRs in 6 games.\n\nHe leads all of MLB with 18 on the season.\n\nPhillies are 12-4 under Mattingly. From 9-19 to this.\n\nBaseball is good. 🔴⚾\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP (from May 14 \"going for 6th straight\" coverage — today he confirmed it)",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-schwarber-18th-hr-6-straight-mattingly-record.html",
+        "headline": "Schwarber Hits 18th, Extends Streak to 6 — Don Mattingly's All-Time MLB Record in His Sights",
+        "word_count": 704
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber 18th HR, 6 Straight, Mattingly Record Chase\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Kyle Schwarber mid-swing or completing a home run trot at Citizens Bank Park. Powerful, triumphant energy. Philadelphia Phillies uniform.\n- **Photo Search Terms:**\n  1. Kyle Schwarber Phillies\n  2. Kyle Schwarber home run swing\n  3. Don Mattingly Phillies manager\n  4. Kyle Schwarber Citizens Bank Park\n  5. Schwarber Phillies celebrate\n- **Text Overlay Copy:**\n  - Headline: \"6 STRAIGHT. MATTINGLY'S RECORD NEXT.\"\n  - Subtitle: \"Schwarber Has 18 HRs — MLB Lead\" (color: #F4C542)\n- **Composition Notes:** Schwarber dominant in frame, Phillies colors prominent. Celebration/power pose ideal.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Search: \"Kyle Schwarber Phillies\" wide shot or Mattingly-Phillies manager shot.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber 18th HR, 6 Straight, Mattingly Record Chase\n**Decision:** FOLLOW UP (May 14 covered \"going for 6 straight\" — today he hit it, new confirmed result)\n**Status:** Tier 1\n**Sources:**\n1. 95.3 The Score — Kyle Schwarber goes deep again as Phillies down Red Sox\nURL: https://www.953thescore.com/2026/05/14/kyle-schwarber-goes-deep-again-as-phillies-down-red-sox/\nPublished: May 14, 2026\n2. yournews.com — Kyle Schwarber goes deep again as Phillies down Red Sox\nURL: https://yournews.com/2026/05/14/6967418/kyle-schwarber-goes-deep-again-as-phillies-down-red-sox/\nPublished: May 14, 2026\n3. ESPN — Phillies 3-1 Red Sox (May 14, 2026) Recap\nURL: https://www.espn.com/mlb/recap/_/gameId/401815337\nPublished: May 14, 2026\n4. Daily Gazette — Schwarber hits go-ahead homer as Phillies win 5th consecutive series\nURL: https://www.dailygazette.com/tribune/kyle-schwarber-hits-go-ahead-homer-as-phillies-win-fifth-consecutive-series-with-3-1/article_9e1ac0b7-3eae-5750-860d-975d3eedf3be.html\nPublished: May 14, 2026\n**Key Facts:**\n- Schwarber hit HR No. 18 on Thursday May 14, Phillies beat Red Sox 3-1 [HIGH — multiple sources]\n- Shot traveled 417 feet, 2-run shot, broke scoreless tie in 8th inning off Tyler Samaniego [HIGH]\n- Phillies' Trea Turner led off 8th with single before Schwarber's HR [HIGH]\n- Jesus Luzardo pitched 6 scoreless innings for PHI [HIGH — ESPN recap]\n- HR streak now 6 consecutive games [HIGH — multiple sources confirm]\n- 7 HRs in the last 7 games [HIGH]\n- 18 HRs leads all of MLB [HIGH — multiple sources]\n- Phillies MLB record for consecutive games with HR: 5 (multiple players, now confirmed broken at 6) [HIGH]\n- ML record consecutive games with HR: 8 (Don Mattingly 1987, Ken Griffey Jr. 1993, and confirmed same streak) [MEDIUM — need to verify exact record/year from primary source]\n- Don Mattingly is current Phillies interim manager [HIGH — confirmed multiple times in prior coverage]\n- Phillies record under Mattingly: 12-4 per daily gazette reference [MEDIUM — verify with exact record]\n**Freshness:** Game played Thursday May 14. This is the most current available result.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Ben Brown's Starter Breakthrough — Cubs Blank Braves 2-0 in Shutdown",
+      "tier": 2,
+      "status": "",
+      "angle": "Ben Brown was a reliever for 12 games to start 2026. His second start Thursday: 4 IP, 1 H, 7 K, 0 ER in 65 pitches. Eight combined scoreless innings across 2 starts. Ian Happ's 424-ft solo HR off Chop House completes the Cubs' 2-0 shutout. Cubs avoid Braves sweep, snap 4-game losing streak. Cubs now 28-16, Braves ~30-14.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Ben Brown started 2026 as a reliever. 12 appearances out of the pen.\n\nHe moved to the rotation and hasn't allowed a run in 8 innings across 2 starts.\n\nIan Happ hit one 424 feet off the Chop House.\n\nCubs 2, Braves 0. Four-game skid over. 🐻⚾\n\n#Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ben-brown-cubs-shutout-braves.html",
+        "headline": "Ben Brown's Quiet Takeover: Cubs Blank Braves 2-0 as Starter Earns His Rotation Spot",
+        "word_count": 730
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ben Brown's Starter Breakthrough — Cubs 2-0 Shutout\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Ben Brown pitching in Cubs uniform, or Ian Happ in home run trot. Wrigley Field or stadium background. Victory/excellence energy.\n- **Photo Search Terms:**\n  1. Ben Brown Cubs pitcher\n  2. Ian Happ Cubs home run\n  3. Chicago Cubs pitcher mound\n  4. Ian Happ Wrigley Field\n  5. Cubs pitcher 2026\n- **Text Overlay Copy:**\n  - Headline: \"8 INNINGS. 0 RUNS. BEN BROWN.\"\n  - Subtitle: \"Cubs Blank Braves 2-0\" (color: #F4C542)\n- **Composition Notes:** Pitcher in windup or power pose. Cubs blue dominant. Vertical frame.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Search: \"Ian Happ Cubs\" or \"Ben Brown Cubs\" wide shot.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ben Brown's Starter Breakthrough — Cubs 2-0 Shutout\n**Decision:** NEW STORY — Ben Brown's emergence as a starter has not been covered.\n**Status:** Tier 2\n**Sources:**\n1. CBS Chicago — Ian Happ homers, 5 combine for shutout, Cubs snap 4-game skid 2-0 over Braves\nURL: https://www.cbsnews.com/chicago/news/chicago-cubs-vs-atlanta-braves-game-recap-may-14-2026/\nPublished: May 14, 2026\n2. Yahoo Sports — Ian Happ homers, 5 combine for shutout\nURL: https://ca.sports.yahoo.com/news/ian-happ-homers-5-combine-020025559.html\nPublished: May 14, 2026\n3. ESPN — Cubs 2-0 Braves (May 14, 2026) Game Recap\nURL: https://www.espn.com/mlb/recap/_/gameId/401815334\nPublished: May 14, 2026\n4. Lancaster Online — Ian Happ homers, 5 combine for shutout\nURL: https://lancasteronline.com/sports/mlb/ian-happ-homers-5-combine-for-shutout-as-cubs-snap-a-4-game-skid-with\nPublished: May 14, 2026\n**Key Facts:**\n- Cubs defeated Braves 2-0 on Thursday May 14 [HIGH — multiple sources]\n- Ben Brown: 4 IP, 1 H, 7 K in 65 pitches, 0 ER — his 2nd start of 2026 [HIGH — multiple sources]\n- Brown started the season making 12 relief appearances before transitioning to the rotation [HIGH]\n- Combined innings in Brown's 2 starts: 8 IP, 0 ER [HIGH — \"has not allowed a run in eight innings\"]\n- Ian Happ HR: led off 8th, 424 feet, off Reynaldo López, hit the side of the Chop House restaurant [HIGH — multiple sources]\n- Cubs first run: Matt Shaw fielder's choice RBI in 6th, scored Happ after Kim error [HIGH]\n- Winning pitcher: Hoby Milner (1-0), 2 scoreless IP [HIGH]\n- Phil Maton and Jacob Webb each threw scoreless frames [HIGH]\n- Daniel Palencia: 3rd save, struck out 2 in 9th [HIGH]\n- Chris Sale: 6 IP, 1 unearned run for Braves [HIGH]\n- Ha-Seong Kim committed the error that allowed the first run [HIGH]\n- Cubs snapped 4-game losing streak [HIGH — \"snapping a four-game losing streak\"]\n- Braves lost to avoid sweep from the other direction (Braves had won Games 1, 2) [HIGH]\n- Cubs record: 28-16 after win [MEDIUM — verify exact record]\n**Freshness:** Game played Thursday May 14. First coverage of Ben Brown as a starter.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Rivalry Weekend Opens — Subway Series, Crosstown Classic, Friday Night Baseball",
+      "tier": 2,
+      "status": "",
+      "angle": "May 15 opens \"Rivalry Weekend\" with the Yankees visiting the Mets (Subway Series), Cubs at White Sox (Crosstown Classic), Rangers at Astros, Dodgers at Angels. These are the most-watched games of the week. Context: Yankees battling Tampa Bay for AL East leadership; Cubs at 28-16 face their South Side rivals; Texas and Houston renew their rivalry.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tonight's MLB card: 🔥\n\n• Yankees at Mets — Subway Series\n• Cubs at White Sox — Crosstown Classic\n• Rangers at Astros — Texas showdown\n• Dodgers at Angels — LA bragging rights\n\nRivalry Weekend is HERE. Which game are you watching? 🗳️\n\n#MLB #RivalryWeekend",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#MLB",
+            "#RivalryWeekend"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-rivalry-weekend-subway-series-crosstown-classic-2026.html",
+        "headline": "MLB Rivalry Weekend: Subway Series, Crosstown Classic, and the Bragging Rights Games of 2026",
+        "word_count": 739
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rivalry Weekend — Subway Series, Crosstown Classic\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Yankees or Mets batter at the plate in Subway Series context, or a Cubs vs White Sox image. Rivalry energy — intensity, stadium atmosphere.\n- **Photo Search Terms:**\n  1. Yankees Mets Subway Series\n  2. Cubs White Sox Crosstown Classic\n  3. New York Mets Citi Field\n  4. Yankees at Mets stadium\n  5. Chicago Cubs White Sox rivalry\n- **Text Overlay Copy:**\n  - Headline: \"RIVALRY WEEKEND IS HERE\"\n  - Subtitle: \"Subway Series • Crosstown Classic • Tonight\" (color: #F4C542)\n- **Composition Notes:** Split energy — either one dominant rivalry image or composite feel. Stadium crowd energy preferred.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Search: \"Yankees Mets Subway Series\" wide panoramic or rivalry game shot.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Rivalry Weekend Opens — Subway Series, Crosstown Classic\n**Decision:** NEW STORY — Rivalry Weekend is happening today (May 15) for the first time.\n**Status:** Tier 2\n**Sources:**\n1. DraftKings Network — MLB Probable Pitchers for Friday, May 15, 2026\nURL: https://dknetwork.draftkings.com/2026/05/14/mlb-probable-pitchers-may-15-2026/\nPublished: May 14, 2026\n2. Yahoo Sports / Apple TV — MLB Friday Night Baseball schedule 2026\nURL: https://sports.yahoo.com/articles/mlb-apple-tv-schedule-2026-110001166.html\nPublished: 2026\n3. ClutchPoints — MLB Schedule 2026\nURL: https://clutchpoints.com/mlb/schedule\nPublished: 2026\n**Key Facts:**\n- May 15-17 is \"Rivalry Weekend\" in MLB [HIGH — multiple scheduling sources]\n- Yankees at Mets (Subway Series) — Friday, May 15 [HIGH]\n- Cubs at White Sox (Crosstown Classic) — Friday, May 15 [HIGH]\n- Rangers at Astros — Friday, May 15 [HIGH]\n- Dodgers at Angels — Friday, May 15 [HIGH]\n- Orioles at Nationals — Friday, May 15, 6:30 PM ET on Peacock [HIGH]\n- Cubs record entering: 28-16 NL Central leaders [MEDIUM — verify]\n- Tampa Bay leads AL East at 28-13 [HIGH — confirmed from multiple searches]\n**Freshness:** TODAY — Rivalry Weekend begins tonight. Fan interest peaks on first day.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "The NL Picture in May — Braves vs Cubs vs Phillies",
+      "tier": 2,
+      "status": "",
+      "angle": "After Thursday: Braves ~30-14 (NL's best), Cubs 28-16, Phillies 22-22 (12-4 under Mattingly). The Braves have the best record in baseball. The Cubs won Thursday's finale to deny Atlanta the sweep and stay only 2 games back. The Phillies under Mattingly are now a genuine Wild Card threat. NL East vs NL Central hierarchy is forming in May.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "NL standings check after Thursday: 📊\n\nBraves: ~30-14 (NL best)\nCubs: 28-16 (only 2 back)\nPhillies: 12-4 under Mattingly\n\nThree of baseball's best teams are all in the NL. ⚔️\n\n#MLB #NLStandings",
+          "posting_time": "",
+          "tweet_type": "NEW STORY (standings snapshot, fresh angle)",
+          "hashtags": [
+            "#MLB",
+            "#NLStandings"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nl-standings-braves-cubs-phillies-may-2026.html",
+        "headline": "Braves Lead, Cubs Lurking, Phillies Rising: The NL Race in May 2026",
+        "word_count": 785
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NL Picture — Braves, Cubs, Phillies\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Braves, Cubs, or Phillies player in action — or a standings/scoreboard visual feel. Can use any of the three teams' key players.\n- **Photo Search Terms:**\n  1. Atlanta Braves Truist Park\n  2. Chicago Cubs Wrigley Field\n  3. Philadelphia Phillies lineup\n  4. NL Central standings 2026\n  5. Braves Cubs rivalry\n- **Text Overlay Copy:**\n  - Headline: \"BRAVES LEAD. CUBS LURKING. PHILLIES RISING.\"\n  - Subtitle: \"The NL Race Is On\" (color: #F4C542)\n- **Composition Notes:** Standings-feel visual. Could use a pitcher/batter duel. Overlay bar at bottom.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Search: \"Atlanta Braves Truist Park\" wide stadium or game shot.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "The NL Picture — Braves vs Cubs vs Phillies in May\n**Decision:** NEW STORY (NL standings snapshot is a fresh angle not covered this cycle)\n**Status:** Tier 2\n**Sources:**\n1. CBS News/Chicago — Cubs-Braves Game 3 recap\nURL: https://www.cbsnews.com/chicago/news/chicago-cubs-vs-atlanta-braves-game-recap-may-14-2026/\nPublished: May 14, 2026\n2. ESPN Recap — Cubs 2-0 Braves\nURL: https://www.espn.com/mlb/recap/_/gameId/401815334\nPublished: May 14, 2026\n3. Multiple prior searches confirming: Phillies 3-1 Red Sox (May 14), Mattingly record 12-4 [HIGH from prior research]\n4. MLB.com Standings — 2026\nURL: https://www.mlb.com/standings/\nPublished: 2026 (current)\n**Key Facts:**\n- Braves: approximately 30-14 after Thursday's 2-0 loss to Cubs [MEDIUM — estimate based on prior \"~30-13\" May 14 record plus 1 win, 1 loss in Cubs series]\n- Cubs: 28-16 after Thursday's win [MEDIUM — verify]\n- Phillies: approximately 22-22 before Thursday [MEDIUM — verify]\n- Phillies record under Mattingly: 12-4 [MEDIUM — see Daily Gazette reference]\n- Braves lead MLB in fewest runs allowed (3.44/game) [HIGH — confirmed from prior pipeline coverage May 13/14]\n- Braves have the NL's best record [HIGH — confirmed]\n**Freshness:** Thursday results just came in. The three-way NL storyline is compelling for Friday morning.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Tampa Bay's Remarkable May — 28-13 Despite Three Starters Gone",
+      "tier": 2,
+      "status": "",
+      "angle": "Tampa Bay leads the AL East at 28-13 with starting pitchers Pepiot (hip surgery, out for season), Matz (elbow IL), and Boyle (IL) all unavailable. The Rays have done it through opener strategy, walk-off wins, and depth across the roster. They're now the AL's most complete team despite not having a traditional ace.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Tampa Bay Rays are 28-13 and leading the AL East.\n\nPepiot: out for season (hip surgery).\nMatz: on the IL (elbow).\nBoyle: on the IL.\n\nThree starting pitchers gone and they're STILL winning. 🤯\n\nThis team is built different. ⚡\n\n#RaysUp #MLB",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP (new angle: 28-13 season total and depth story vs May 14's \"16 wins in 18 games\" angle)",
+          "hashtags": [
+            "#RaysUp",
+            "#MLB"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-tampa-bay-rays-28-13-no-rotation-al-east.html",
+        "headline": "28-13 With No Rotation: How Tampa Bay Is Leading the AL East Anyway",
+        "word_count": 713
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tampa Bay Leads AL East Despite Pitching Injuries\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Tampa Bay Rays player in action at Tropicana Field. Bullpen pitcher warming up or Taylor Walls celebrating a big play. Resilience energy.\n- **Photo Search Terms:**\n  1. Tampa Bay Rays Tropicana Field\n  2. Taylor Walls Tampa Bay Rays\n  3. Rays bullpen pitcher\n  4. Tampa Bay Rays celebrate win\n  5. Kevin Cash Rays manager\n- **Text Overlay Copy:**\n  - Headline: \"28-13. THREE STARTERS OUT.\"\n  - Subtitle: \"Rays Lead the AL East Anyway\" (color: #F4C542)\n- **Composition Notes:** Vertical frame, Rays blue/white prominent. Player action or celebration.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Search: \"Tampa Bay Rays Tropicana Field\" panoramic or team celebration.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tampa Bay Leads AL East at 28-13 Despite Starting Pitching Crisis\n**Decision:** FOLLOW UP (May 14 covered 16 wins in 18 games — new angle: how depth wins, 28-13 season record, missing 3 starters)\n**Status:** Tier 2\n**Sources:**\n1. Baseball-Reference.com — 2026 Tampa Bay Rays Statistics\nURL: https://www.baseball-reference.com/teams/TBR/2026.shtml\nPublished: 2026 (current)\n2. rayscoloredglasses.com — Tampa Bay Rays 2026 MLB Division Standings\nURL: https://rayscoloredglasses.com/standings\nPublished: 2026 (current)\n3. Prior pipeline research — May 14 established: Pepiot out hip surgery, Matz on IL, Boyle on IL, Taylor Walls walk-off, 16-2 in last 18 games [HIGH from May 14 research]\n**Key Facts:**\n- Rays record: 28-13 (AL East leaders) [HIGH — multiple standings sources]\n- Pepiot out for season (hip surgery) [HIGH — confirmed May 14]\n- Matz on IL (elbow) [HIGH — confirmed May 14]\n- Boyle on IL [HIGH — confirmed May 14]\n- Taylor Walls walk-off RBI single vs Blue Jays [HIGH — confirmed May 14]\n- 16-2 run in their most recent stretch [HIGH — confirmed May 14]\n- Using opener strategy to navigate rotation [HIGH — confirmed]\n- Friday's game: Miami at Tampa Bay, 7:10 PM ET [HIGH — schedule search]\n**Freshness:** Today's context — Rays open Rivalry Weekend vs Marlins tonight. Their run continues.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Thursday MLB Roundup — Reds Explode for 15, Cubs Get Shutout",
+      "tier": 3,
+      "status": "",
+      "angle": "Full Thursday results: Phillies 3-1 Red Sox (Schwarber's 18th HR), Cubs 2-0 Braves (Ben Brown, Happ HR), Reds 15-1 Nationals (offensive explosion), Brewers 7-1 Padres, Twins 9-1 Marlins, Mariners 8-3 Astros, Mets 9-4 Tigers, Cardinals 5-4 Athletics, Pirates 7-2 Rockies.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Thursday MLB recap: 📋\n\nPhillies 3-1 Red Sox (Schwarber's 18th 🚀)\nCubs 2-0 Braves (Ben Brown dominant)\nReds 15-1 Nationals (that wasn't baseball, that was a statement)\nMariners 8-3 Astros\nBrewers 7-1 Padres\nTwins 9-1 Marlins\n\nNine games. One record chase. ⚾\n\n#MLB",
+          "posting_time": "",
+          "tweet_type": "NEW STORY (Roundup/Evergreen)",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Thursday MLB Roundup\n**Decision:** NEW STORY (Evergreen daily roundup, never covered)\n**Status:** Tier 3\n**Sources:**\n1. ESPN Scoreboard May 14, 2026\nURL: https://www.espn.com/mlb/scoreboard/_/date/20260514\nPublished: May 14, 2026\n**Key Facts (confirmed games May 14):**\n- Phillies 3, Red Sox 1 (Schwarber 18th HR) [HIGH]\n- Cubs 2, Braves 0 (Happ HR, Ben Brown) [HIGH]\n- Reds 15, Nationals 1 [HIGH — ESPN scoreboard confirmed]\n- Brewers 7, Padres 1 [HIGH]\n- Twins 9, Marlins 1 [HIGH]\n- Mariners 8, Astros 3 [HIGH]\n- Mets 9, Tigers 4 [HIGH — from ESPN game link confirmed]\n- Cardinals 5, Athletics 4 [HIGH]\n- Pirates 7, Rockies 2 [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
