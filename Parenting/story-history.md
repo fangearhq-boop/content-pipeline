@@ -2,6 +2,45 @@
 
 ---
 
+## May 15, 2026
+
+### Story 1: 3rd Annual Touch-A-Truck — Tomorrow, Free, Norris Penrose
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (3rd Annual Touch-A-Truck, Saturday May 16, 9:30 AM–2 PM, Norris Penrose Event Center, 945 Lower Gold Camp Road; FREE; timed entry required at norrispenrose.ticketspice.com; horn-free for sensory sensitivity; Children's Entrepreneur Market; helicopters weather permitting; donations benefit Friends of the Children)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 16, 9:30 AM–2 PM; free; norrispenrose.ticketspice.com; horn-free; 945 Lower Gold Camp Rd; Source: Norris Penrose official, visitcos.com, CS Gazette May 13 2026
+
+### Story 2: Colorado SUN Bucks — $120 Per Eligible Child Arriving This Month
+- **Content Pillar:** Local News / National Parenting
+- **Angle:** NEW STORY (Colorado SUN Bucks / Summer EBT; $120 per eligible child; benefits issued May 2026; returning participants added to existing EBT end of May; new participants card mailed; auto-enrolled via NSLP free/reduced meals, SNAP, or Colorado Works; valid 122 days at any EBT-accepting retailer; cdhs.colorado.gov/summer-ebt; 1-888-328-2656; cdhs_sebt_supportcenter@state.co.us)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** $120/child; end of May issue; cdhs.colorado.gov/summer-ebt; 1-888-328-2656; 122-day validity; Source: cdhs.colorado.gov/summer-ebt, fns.usda.gov/summer/sunbucks
+
+### Story 3: MeadowGrass Music Festival 2026 — Memorial Day Weekend, Kids Free
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (17th Annual MeadowGrass Music Festival; May 22–24; La Foret Conference & Retreat Center, 6145 Shoup Road; kids 12 & under free with paid adult; weekend passes from $55; camping; Faricy Boys Kid Zone: giant bubbles, crafts, hay wagon, kid yoga; 30 min from downtown COS)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** May 22–24; La Foret 6145 Shoup Rd; kids 12 & under free; $55+ adult weekend; Source: Eventbrite, visitcos.com, musicfestivalwizard.com
+
+### Story 4: D11 Last Week of School — May 22 End Date, Practical Summer Prep
+- **Content Pillar:** Local News
+- **Angle:** NEW ANGLE (one-week countdown to D11 last day May 22; graduation May 19-20; summer childcare/camp registration urgent; D49 Sand Creek graduation May 23 Broadmoor World Arena; school meals end May 22; PPLD Summer Adventure June 1; Note: graduation dates and summer camp guide covered May 10 — this is the practical "act now" summer prep angle)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** D11 last day May 22; Palmer/Coronado May 19; Mitchell/Doherty May 20; D49 Sand Creek May 23 Broadmoor; meals end May 22; Source: D11.org, D49.org, D20.org
+
+### Story 5: PPLD Summer Adventure 2026 — Free Reading Program, Sign-Up June 1
+- **Content Pillar:** Local Events / Evergreen
+- **Angle:** NEW STORY (PPLD Summer Adventure 2026; presented by Friends of PPLD; free; all ages; sign-up June 1 at any PPLD branch; read + activities = earn prizes; library card required; 14 PPLD locations; ppld.org; (719) 531-6333)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** June 1 sign-up; free; all ages; library card required; 14 locations; ppld.org; Source: ppld.org
+
+---
+
 ## May 14, 2026
 
 ### Story 1: D20 Honors Cora Fogle at Rampart Graduation
