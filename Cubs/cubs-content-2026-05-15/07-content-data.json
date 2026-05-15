@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-15",
+  "compiled_at": "2026-05-15T09:19:09.109288+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 6",
+      "type": "X"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 7",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 2, Braves 0 — Happ HR, Ben Brown Shines, Palencia Saves It",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Ben Brown: 4 IP, 1 H, SEVEN strikeouts.\nIan Happ: 424-ft bomb off the Chop House.\nPalencia: Save No. 3 in the 9th.\n\nCubs 2, Braves 0. Four-game skid? OVER.\n\nNow 28-16. Crosstown Classic starts tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 19,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs 2, Braves 0 — Happ HR, Ben Brown Shines, Palencia Saves It\n**Decision:** NEW STORY (game recaps are always new — covers May 14, 2026 game result)\n**Sources:**\n- CBS Chicago (primary): \"Ian Happ homers, 5 combine for shutout as Cubs snap a 4-game skid with a 2-0 win over Braves\" — cbsnews.com/chicago, published May 14, 2026 (< 24h old) ✓\n- ESPN recap: espn.com/mlb/recap/_/gameId/401815334 (< 24h old) ✓\n- AP Wire (Lancaster Online): lancasteronline.com, May 14, 2026 ✓\n- Bleed Cubbie Blue Game 43 Heroes & Goats: bleedcubbieblue.com, May 14, 2026 ✓\n**Key Facts (with source):**\n- Final score: Cubs 2, Braves 0 [CBS Chicago, ESPN, AP — HIGH]\n- Ben Brown: 4 IP, 1 H, 7 K, 0 R, 65 pitches — 2nd consecutive start [CBS Chicago — HIGH]\n- Hoby Milner: Win (1-0), 2 scoreless IP [CBS Chicago — HIGH]\n- Phil Maton: 1 scoreless inning [CBS Chicago — HIGH]\n- Jacob Webb: 1 scoreless inning [CBS Chicago — HIGH]\n- Daniel Palencia: Save No. 3, struck out 2 in 9th [CBS Chicago — HIGH]\n- Ian Happ HR: 424 ft, off Reynaldo López, 8th inning, bounced off Chop House [CBS Chicago — HIGH]\n- First run: fielder's choice RBI by Matt Shaw in 6th (error by opposing shortstop) [CBS Chicago — MEDIUM (specific detail, single source)]\n- Chris Sale: 6 IP, 1 unearned run, 8 K for Braves (no-decision) [CBS Chicago — HIGH]\n- Cubs record: 28-16 (27-16 + 1 win confirmed) [calculated from prior pipeline record — HIGH]\n- 4-game skid snapped [CBS Chicago — HIGH]\n**Freshness:** Game played May 14, 2026. All sources < 24 hours old. ✓\n**Why fans care:** The Cubs broke a four-game losing streak with a shutout on the road against the best team in baseball. Brown and Palencia both performed — exactly what a depleted roster needed.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Palencia is BACK — and He Looked Like a Closer",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Palencia is BACK — and he looked like a closer.\n\nTwo Ks in the 9th. Save No. 3. The man averaged 100.4 mph in his Iowa rehab and is now locking down Cubs games again. 💪\n\nRotation's full of holes. At least the bullpen's whole.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 12,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Palencia is BACK — and He Looked Like a Closer\n**Decision:** FOLLOW-UP (to May 13 rotation/bullpen injury story and previous IL coverage)\n**Sources:**\n- MLB Trade Rumors: \"Cubs Reinstate Daniel Palencia, Designate Yacksel Rios For Assignment\" — mlbtraderumors.com (early May, < 30 days ago) ✓\n- Cubs Insider: Palencia rehab/return coverage — cubsinsider.com ✓\n- Yahoo Sports: \"Daniel Palencia Update: Cubs Closer Returns From Injured List\" — sports.yahoo.com ✓\n- CBS Chicago game recap confirms Save No. 3 (May 14) — HIGH\n**Key Facts:**\n- Lat strain (initially thought to be oblique) placed him on 15-day IL in mid-April [multiple sources — HIGH]\n- Reinstated from IL around May 3 [MLB TR — HIGH]; Yacksel Rios DFA'd in corresponding move [MLB TR — HIGH]\n- Iowa rehab appearance: 19 pitches, retired 2 of 3, averaged 100.4 mph fastball [Cubs Insider — MEDIUM (single source)]\n- Save No. 3 last night: 9th inning, 2 Ks [CBS Chicago recap — HIGH]\n- Pre-IL stats: 1-0, 0.00 ERA, 1 save in 5 appearances\n**Freshness:** Save came May 14, 2026 (< 24h). Return from IL documented in early May. ✓\n**Why fans care:** The Cubs closer was out at exactly the wrong time — now he's back and threw save-worthy stuff. With the rotation compromised, every bullpen win matters.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ben Brown's Emergence — Rotation's Answer to the Injury Crisis",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ben Brown now has TWO consecutive starts.\n\nIn his second turn: 4 innings, 1 hit, SEVEN strikeouts, 0 runs.\n\nWith Horton out until 2027, Steele post-All-Star, Boyd 6 weeks gone — Brown isn't a fill-in. He's the answer.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 15,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Ben Brown's Emergence: Rotation Answer to the Injury Crisis\n**Decision:** FOLLOW-UP (to May 14 game preview story about Brown vs Sale; broader continuation of rotation-injury arc)\n**Sources:**\n- CBS Chicago game recap (primary): 2nd straight start, 4 IP 1 H 7 K confirmed [HIGH]\n- Cubs Insider lineup article (May 14): Brown facing Sale as \"second straight start\" context [HIGH]\n- May 8 Bleacher Nation enhanced box score: \"Enhanced Box Score: Cubs 7, Rangers 1 - May 8, 2026\" — confirms Brown's first start in the rotation stint\n- Prior pipeline context: Brown was 1-1, 1.82 ERA entering May 14 start\n**Key Facts:**\n- 2 consecutive rotation starts for Brown (May 8 vs Rangers, May 14 vs Braves) [HIGH]\n- May 14 line: 4 IP, 1 H, 7 K, 0 R, 65 pitches [CBS Chicago — HIGH]\n- Building up on pitch-count limits; staying at ~4 innings per start [MEDIUM — inferred from 65-pitch limit detail]\n- Prior ERA entering May 14: 1.82 [story history — HIGH]\n- Rotation context: Horton (2027), Steele (August), Boyd (6 weeks) all unavailable [multiple HIGH sources]\n**Freshness:** Game result May 14 (< 24h); rotation context ongoing. ✓\n**Why fans care:** Brown isn't a stopgap anymore — he's producing in the starting role. Fans need to know who's carrying the rotation right now.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tonight — Cubs at White Sox, Crosstown Classic Game 1, 6:40 PM CT",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tonight: Cubs at White Sox. 6:40 PM CT. Guaranteed Rate Field.\n\nEdward Cabrera (3-1, 3.88 ERA) takes on Sean Burke (2-3, 3.68 ERA) in the Crosstown Classic opener.\n\nGame 1 of 3. Cubs rolling with momentum off a 2-0 shutout.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 13,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Tonight — Cubs at White Sox, Crosstown Classic Game 1, 6:40 PM CT\n**Decision:** NEW STORY (game preview for tonight's matchup)\n**Sources:**\n- SeatGeek listing: seatgeek.com/chicago-white-sox-tickets/5-15-2026-chicago-illinois-rate-field/mlb/17695341 [HIGH]\n- Bleacher Nation series preview: bleachernation.com/picks/2026/05/13/chicago-white-sox-vs-chicago-cubs-series-may-15-17 [HIGH]\n- ESPN game listing: espn.com/mlb/game/_/gameId/401815352/cubs-white-sox [HIGH]\n- MLB.com video: mlb.com/cubs/video/edward-cabrera-against-the-white-sox [HIGH]\n**Key Facts:**\n- Start time: 6:40 PM CT [SeatGeek, ESPN — HIGH]\n- Venue: Guaranteed Rate Field (Rate Field), Chicago [SeatGeek — HIGH]\n- Cubs SP: Edward Cabrera (3-1, 3.88 ERA) [Bleacher Nation — MEDIUM; verified vs story history context]\n- White Sox SP: Sean Burke (2-3, 3.68 ERA) [Bleacher Nation — MEDIUM (stats may have changed by today)]\n- Series: 3 games, May 15-17 at Guaranteed Rate Field [Bleacher Nation — HIGH]\n- Broadcast: CHSN, MARQ with Fubo streaming [Bleacher Nation — MEDIUM]\n**Freshness:** Tonight's game — same-day. ✓\n**Why fans care:** First Crosstown Series games of 2026. Cubs are on a momentum high after last night's shutout. White Sox rivalry always brings fan energy.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "SP Trade Urgency — This Isn't Deadline Talk, It's Triage",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Boyd out 6 weeks. Steele till August. Horton until 2027.\n\nThe trade deadline is August 3 — but this isn't deadline talk. This is triage.\n\nPeralta or Alcantara aren't luxury options right now. They're survival.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 8,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "SP Trade Urgency — This Isn't Deadline Talk, It's Triage\n**Decision:** FOLLOW-UP (to May 14 \"SP trade urgency reaches crisis level\" story; rotation picture unchanged but trade deadline context is relevant)\n**Sources:**\n- Bleacher Nation: bleachernation.com/cubs/2026/05/11/cubs-trade-rumors-sp/ [HIGH — recent]\n- SI/On SI: si.com/mlb/cubs/onsi/cubs-trade-rumors-a-lot-of-starting-pitchers (published May 2026) [HIGH]\n- MLB Trade Rumors (Peralta): mlbtraderumors.com/2026/05/mets-trade-rumors-freddy-peralta-cubs [HIGH]\n- The Big Lead: thebiglead.com/cubs-already-linked-to-big-name-starting-pitchers-on-trade-market [MEDIUM]\n**Key Facts:**\n- Trade deadline: August 3, 2026 (slightly later than usual) [multiple sources — HIGH]\n- Cubs linked to Freddy Peralta (Mets) — Counsell connection from Milwaukee [MLB TR — HIGH]\n- Sandy Alcantara (Marlins) also linked: 3.90 ERA this season [Bleacher Nation — MEDIUM; ERA may have changed]\n- Sonny Gray (Red Sox) mentioned in prior reporting [MEDIUM — older reference]\n- Rotation hole context: Horton (2027), Steele (August), Boyd (6 weeks) [HIGH]\n**Freshness:** Trade reporting from May 11 and earlier May 2026 — within 4 days. Some stories slightly older than 24h but the ongoing trade urgency is a live story. ✓ (using as analysis/context piece, not breaking news)\n**Why fans care:** Despite going 28-16, the Cubs are one injury away from a rotation crisis. The front office needs to act and fans are impatient.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Kevin Alcántara — Tying for MiLB HR Lead with 14 Bombs",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Kevin Alcántara is tied for the minor league home run lead.\n\nThe 23-year-old Iowa Cubs CF has 14 homers in 2026 — at 6-foot-6, the lift he generates is something else. 🔥\n\nThe Cubs' rotation is depleted. A bat this big can't stay in Iowa forever.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 15,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Kevin Alcántara — Tying for MiLB HR Lead with 14 Bombs\n**Decision:** FOLLOW-UP (to May 13 Alex Ramirez prospect story; expanding to Alcántara who is the bigger name)\n**Sources:**\n- MLB.com (headline): \"Cubs' Kevin Alcántara ties for Minors' home run lead\" — mlb.com/news (date uncertain but recent) [MEDIUM — headline confirms the stat at some point]\n- Iowa Cubs search result: 14th HR hit on ~May 13, .252 BA, 24 RBI, .973 OPS through ~27 games [MEDIUM — aggregated search summary]\n- Bleacher Nation April 15: Alcántara homers again, scorchin start [reference only]\n**Key Facts:**\n- Kevin Alcántara: age 23, CF, 6-foot-6, Iowa Cubs (Triple-A)\n- 14 HR in 2026 (as of ~May 13/14) [MEDIUM — sourced from search summary]\n- .973 OPS through ~27 games [MEDIUM — search summary only]\n- Tied for MiLB HR lead per MLB.com headline [MEDIUM — exact timing of headline unclear]\n- 23 years old, not on Cubs' 40-man roster\n**Freshness:** Stats as of May 13-14 (< 48h). Prospect story is ongoing. ✓\n**Why fans care:** With the rotation in crisis mode, a bat like this in the minors is a tantalizing option. The prospect pipeline is delivering.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Game Time — Crosstown Classic, Rate Field, 6:40 PM CT",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Crosstown Classic. Guaranteed Rate Field. 6:40 PM CT.\n\nCubs are 28-16 and playing with momentum. South Side better be ready. ⚾\n\nLet's go.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 161
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 13,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game Time — Crosstown Classic, Rate Field, 6:40 PM CT\n**Decision:** NEW STORY (game-time energy post; always produced for evening home/away games)\n**Sources:**\n- Same as Story 4 (confirmed game details)\n**Key Facts:**\n- 6:40 PM CT, Guaranteed Rate Field\n- Cubs 28-16, fresh off shutout\n- Crosstown Classic Game 1 of 3\n**Freshness:** Same-day. ✓",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

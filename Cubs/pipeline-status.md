@@ -1,13 +1,20 @@
 # Cubs Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-15 (full pipeline run)
+- **Steps Completed**: Research (12 searches, 7 categories), daily brief (7 stories), research notes, story analysis, X posts (7 tweets), fact-check log, compile-content-data.py, generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — separate repo not in PAT scope)
+- **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-15/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
+- **GitHub Pages Status**: N/A for this run (push rejected)
+- **Issues**: publish-unified-dashboard.py push rejected 403 (same recurring issue — content-dashboards not in PAT scope). Core deliverable (07-content-data.json) compiled and pushed to content-pipeline repo for cubs-x-bot.
+
+## Previous Run
 - **Date**: 2026-05-14 (full pipeline run)
 - **Steps Completed**: Research (15 searches, 8 categories), daily brief (7 stories), research notes, story analysis, X posts (7 tweets), fact-check log, compile-content-data.py, generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — separate repo not in PAT scope)
 - **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-14/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
 - **GitHub Pages Status**: N/A for this run (push rejected)
 - **Issues**: publish-unified-dashboard.py push rejected 403 (content-dashboards is a separate repo). Core deliverable (07-content-data.json) is committed to content-pipeline repo and ready for cubs-x-bot.
 
-## Previous Run
+## Two Runs Ago
 - **Date**: 2026-05-13 (full pipeline run)
 - **Steps Completed**: Research (15 searches), daily brief (8 stories), research notes, story analysis, X posts (8 tweets), fact-check log, compile-content-data.py, generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — separate repo not in PAT scope)
 - **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-13/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
@@ -69,6 +76,16 @@ to mark them as pipeline-produced.
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-15
+- Stories: 7 (Tier 1: game-recap, crosstown-preview; Tier 2: palencia-return, brown-starter, trade-urgency, game-time; Tier 3: alcantara-prospect) — X-only niche
+- X posts: 7 (4 informative / 3 bold-hype = ~57/43 mix)
+- Char counts: all 7 under 280 (225/251/245/243/235/274/161)
+- Fact-check: Manual verification. Key verified (HIGH): Cubs 2-0 (4 sources), Brown 4 IP 1 H 7 K (CBS+AP), Happ 424-ft HR Chop House (CBS), Palencia Save No. 3 (CBS), 28-16 record, 4-game skid snapped, Brown 2nd consecutive start, Cabrera 3-1 3.88 ERA, game 6:40 PM CT at Rate Field (3 sources), August 3 deadline, Peralta/Alcantara linked (multiple). MEDIUM: Palencia 100.4 mph Iowa rehab (Cubs Insider only), Alcántara 14 HR MiLB lead (MLB.com headline), Cabrera/Burke ERA (Bleacher Nation May 13 — <48h). Dropped: Ha-Seong Kim Braves roster (entity risk — unverified roster move), Happ hitting streak length (headline only).
+- Dashboard: Generated locally (Cubs/cubs-content-2026-05-15/review-dashboard.html). Publish to content-dashboards FAILED (403 — not in PAT scope, same recurring issue).
+- 07-content-data.json: ✓ Compiled, 7 stories, 7 x_posts with posting_time in "H:MM AM/PM CT" format
+- Key stories: Cubs 2-0 Happ 424-ft HR Chop House Brown 7 K Palencia Save 3 (P10), Palencia BACK 100.4 mph Iowa rehab Save No. 3 (P9), Brown 2 straight starts rotation answer Horton/Steele/Boyd all out (P8), Crosstown Classic Cabrera vs Burke Rate Field 6:40 PM CT (P8), SP trade triage Peralta/Alcantara August 3 deadline survival not deadline (P7), Alcantara 14 HR tied MiLB lead Iowa .973 OPS (P6), Game time hype (P5)
+- Notes: Full pipeline completed except dashboard remote publish (PAT doesn't include content-dashboards repo). cubs-x-bot will read 07-content-data.json from this repo.
 
 ### 2026-05-14
 - Stories: 7 (Tier 1: recap, rotation-emergency; Tier 2: trade-urgency, game-preview, game-time; Tier 3: rival-watch, prospect) — X-only niche

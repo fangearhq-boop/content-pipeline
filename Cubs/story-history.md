@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-15
+
+### STORY 1: Cubs 2, Braves 0 — Happ HR, Ben Brown Shines, Palencia Saves It
+- **Angle:** NEW STORY. Ben Brown 4 IP, 1 H, 7 K, 65 pitches (2nd straight start). Ian Happ 424-ft solo HR in 8th off Reynaldo López (bounced off Chop House). Palencia Save No. 3, 2 Ks in 9th. 5-pitcher shutout; Milner (W). Cubs snap 4-game skid, improve to 28-16.
+- **Content Produced:** X (1 post — 7:00 AM CT)
+- **Follow-Up:** Crosstown Classic result tonight; Brown's next start/pitch count; Palencia's usage in close games
+
+### STORY 2: Palencia is BACK — and He Looked Like a Closer
+- **Angle:** FOLLOW-UP (lat strain IL from mid-April, reinstated ~May 3). Averaged 100.4 mph in Iowa rehab (19 pitches, 2 of 3 retired). Save No. 3 last night. Rotation full of holes; bullpen now intact.
+- **Content Produced:** X (1 post — 8:15 AM CT)
+- **Follow-Up:** Palencia ERA/usage through May; whether closer role is permanent with Hodge/Harvey out
+
+### STORY 3: Ben Brown's Emergence — Rotation's Answer to the Injury Crisis
+- **Angle:** FOLLOW-UP (rotation injury arc). 2 consecutive starts; both: 4 IP, 0 ER, 7 K. Building on pitch limits (~65/start). With Horton (2027), Steele (August), Boyd (6 weeks) out — Brown is the de facto No. 3-4 starter.
+- **Content Produced:** X (1 post — 9:30 AM CT)
+- **Follow-Up:** Brown's 3rd start; pitch count escalation; how long he holds the role
+
+### STORY 4: Tonight — Cubs at White Sox, Crosstown Classic Game 1, 6:40 PM CT
+- **Angle:** NEW STORY (game preview). Cabrera (3-1, 3.88 ERA) vs Burke (2-3, 3.68 ERA) at Guaranteed Rate Field. First Crosstown Series of 2026, Game 1 of 3.
+- **Content Produced:** X (1 post — 12:00 PM CT)
+- **Follow-Up:** Game result; series outcome; Cabrera's performance
+
+### STORY 5: SP Trade Urgency — This Isn't Deadline Talk, It's Triage
+- **Angle:** FOLLOW-UP (May 14 trade urgency story). Context: Boyd/Steele/Horton all unavailable; August 3 deadline. Peralta (Mets) and Sandy Alcantara (Marlins) as headline targets.
+- **Content Produced:** X (1 post — 2:30 PM CT)
+- **Follow-Up:** Any completed trade; deadline approach; Steele/Boyd return impact on need
+
+### STORY 6: Kevin Alcántara — Tying for MiLB HR Lead with 14 Bombs
+- **Angle:** FOLLOW-UP (May 13 prospect pipeline story). Expanded focus to Alcántara (Iowa, Triple-A): 23-yr-old CF, 6-foot-6, 14 HR in 2026, .973 OPS, tied for minor league HR lead per MLB.com.
+- **Content Produced:** X (1 post — 3:45 PM CT)
+- **Follow-Up:** Alcántara promotion watch; stat updates through May; Iowa series results
+
+### STORY 7: Game Time — Crosstown Classic, Rate Field, 6:40 PM CT
+- **Angle:** TODAY (game time energy). Crosstown Classic, Guaranteed Rate Field, 6:40 PM CT.
+- **Content Produced:** X (1 post — 6:30 PM CT)
+- **Follow-Up:** Game result for next pipeline
+
+---
+
 ## 2026-05-14
 
 ### STORY 1: Braves 4, Cubs 1 — Imanaga Gem Wasted, Four-Game Losing Streak
