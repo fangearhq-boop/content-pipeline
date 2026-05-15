@@ -1,0 +1,246 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-15",
+  "compiled_at": "2026-05-15T11:25:41.879086+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Lambiase Confirmed for McLaren — Verstappen's Engineer Drops a Bomb",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "BREAKING: Gianpiero Lambiase is leaving Red Bull for McLaren at the end of 2027.\n\nVerstappen said he'd retire when Lambiase leaves.\n\nThe clock is now ticking. This changes everything. #F1",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 187
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Lambiase to McLaren. Marshall already at McLaren. Courtenay already at McLaren.\n\nRed Bull is losing its best people.\n\nAnd Verstappen said he'd stop racing when his engineer leaves. What happens now? #F1 #RedBull",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-lambiase-leaves-red-bull-mclaren-verstappen-future.html",
+        "headline": "Lambiase to McLaren: The Engineer Bombshell That Could End Verstappen's Red Bull Era",
+        "word_count": 657
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Lambiase / Red Bull to McLaren\n\n#### Image Concept 1A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Max Verstappen Red Bull Racing\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"LAMBIASE TO McLAREN / VERSTAPPEN'S FUTURE UNCERTAIN / #F1 BOMBSHELL\"\n- **Status:** not_started\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Purpose:** Article featured image\n- **Photo search:** \"Red Bull Racing Formula One\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"THE LAMBIASE BOMBSHELL / RED BULL'S WORLD CHANGES\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's Future in Free Fall — Piastri-Red Bull Swap Talk Intensifies",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen: 7th in the championship, 74 points behind Antonelli.\n\nExit clause: leave Red Bull if not top-2 by the Hungarian GP.\n\nPiastri linked to Red Bull. Verstappen linked to McLaren.\n\nThe biggest F1 swap in years might be coming. #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Imagine: Verstappen at McLaren. Piastri at Red Bull.\n\nIt's not as crazy as it sounds.\n\nVerstappen's engineer just signed with McLaren. His exit clause triggers in July. And insiders say talks have started. #F1 #Verstappen",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-verstappen-piastri-red-bull-mclaren-swap.html",
+        "headline": "The Verstappen-Piastri Swap: Is Formula 1's Biggest Driver Deal Actually Happening?",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Future\n\n#### Image Concept 2A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Max Verstappen Formula One\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"VERSTAPPEN TO McLAREN? / THE BIGGEST SWAP IN F1 HISTORY / #F1\"\n- **Status:** not_started\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Purpose:** Article featured image\n- **Photo search:** \"Oscar Piastri McLaren\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"THE PIASTRI-VERSTAPPEN DOMINO\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Canada Countdown — 7 Days to the First Sprint at Gilles-Villeneuve",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "One week until Montreal.\n\nFirst-ever F1 sprint at Circuit Gilles-Villeneuve. Russell's home circuit (won here in 2025). Antonelli chasing a 4th straight win.\n\n34 championship points on the table. Canada could change everything. #F1 #CanadianGP",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-canada-gp-preview-sprint-debut-russell-antonelli.html",
+        "headline": "Canada GP Preview: First Sprint at Gilles-Villeneuve and Russell's Last Stand",
+        "word_count": 648
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canada GP Preview\n\n#### Image Concept 3A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Kimi Antonelli Mercedes Formula One\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"🇨🇦 CANADA GP — 7 DAYS / FIRST-EVER SPRINT AT GILLES-VILLENEUVE\"\n- **Status:** not_started\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Purpose:** Article featured image\n- **Photo search:** \"George Russell Mercedes\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"CANADA COUNTDOWN / RUSSELL'S MUST-WIN CIRCUIT\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Norris's Championship Window Is Open — McLaren's Dark Horse",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lando Norris is 49 points behind Antonelli.\n\nP2 in Miami. McLaren's car is improving. And he's the defending world champion.\n\nDon't write him off. Canada is a Norris circuit. #F1 #LandoNorris",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LandoNorris"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-norris-dark-horse-championship-2026.html",
+        "headline": "Lando Norris Is 49 Points Back and Closing — Don't Count Out the Champion",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Norris Championship Chase\n\n#### Image Concept 4A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Lando Norris McLaren\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"NORRIS. 49 PTS BACK. / THE DARK HORSE IS STILL WATCHING.\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Ferrari Under Pressure — Leclerc Needs a Bounce-Back in Montreal",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ferrari's constructors' lead: 44 points after Japan → 16 points after Miami.\n\nLeclerc's final-lap spin and 20-second penalty cost them dearly.\n\nCanada is a reset opportunity. But the pressure is rising at Maranello. #F1 #Ferrari",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-ferrari-constructors-lead-under-siege.html",
+        "headline": "Ferrari's Constructors Lead Has Collapsed — Canada Must Be a Reset",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Constructors Pressure\n\n#### Image Concept 5A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Charles Leclerc Ferrari\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"FERRARI LEAD: 44 PTS → 16 PTS / CANADA CAN'T COME SOON ENOUGH\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

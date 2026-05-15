@@ -1592,3 +1592,40 @@
 - **Key facts:** Canadian GP May 22-24, Circuit Gilles-Villeneuve. First-ever sprint race at this circuit. Third sprint of 2026 season. ~34 points available across sprint + race. Championship standings at stake.
 - **Status:** FOLLOW UP (from 2026-05-12)
 - **Follow-up ideas:** Sprint qualifying/race results; Canada GP outcome
+
+## 2026-05-15
+
+### STORY 1: Lambiase Confirmed for McLaren — Verstappen's Engineer Drops a Bomb
+- **Tier:** 1
+- **Category:** Team Personnel / Driver Market Bombshell
+- **Key facts:** Gianpiero Lambiase leaving Red Bull for McLaren end 2027, joining as team principal. Has been Verstappen's engineer since 2016. Verstappen said he'd retire when Lambiase leaves. McLaren also has Marshall (TD, 2024) and Courtenay (Sporting Dir, 2026). Red Bull confirmed Lambiase sees out contract.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Verstappen retirement announcement; Red Bull succession; Piastri-Red Bull implications
+
+### STORY 2: Verstappen's Future in Free Fall — Piastri-Red Bull Swap Talk Intensifies
+- **Tier:** 1
+- **Category:** Driver Market / Verstappen Future
+- **Key facts:** Verstappen 7th in WDC (26 pts, 74 behind Antonelli). Exit clause: leave Red Bull if not top-2 by Hungarian GP (July 24-26). Red Bull shortlisting Piastri as replacement (Piastri through McLaren 2027). Verstappen-McLaren talks reported by Joe Saward. Piastri's manager Mark Webber = ex-Red Bull.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Verstappen exit clause outcome; Piastri/McLaren response; July announcement
+
+### STORY 3: Canada Countdown — 7 Days to First Sprint at Gilles-Villeneuve
+- **Tier:** 2
+- **Category:** Race Preview / Sprint Weekend
+- **Key facts:** Canadian GP May 22-24, Circuit Gilles-Villeneuve. First-ever sprint at this circuit. 70 laps, 4.361km. 34 pts available sprint+race. Antonelli leads 100pts, Russell 80pts (gap 20). Russell won Canada 2025. Mercedes bringing major upgrade. McLaren second part of Miami upgrades.
+- **Status:** FOLLOW UP (from 2026-05-14)
+- **Follow-up ideas:** Canada sprint/race results; standings after Montreal
+
+### STORY 4: Norris Championship Window Is Open — McLaren Dark Horse
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Norris P2 Miami (51 pts total), 49 behind Antonelli. 2025 World Champion. McLaren car improving. Mercedes splitting points internally (Antonelli/Russell). Canada is strong Norris circuit. Math still works for title.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Canada results; title picture at summer break
+
+### STORY 5: Ferrari Constructors Lead Under Siege — Canada Must Be a Reset
+- **Tier:** 2
+- **Category:** Team Storyline / Post-Race Analysis
+- **Key facts:** Ferrari constructors lead: 44 pts (Japan) → 16 pts (Miami). Leclerc P8 after 20s penalty (final lap spin/cutting circuit). Hamilton P6 (lap-1 Colapinto collision). McLaren collected 33 pts Miami (Norris 18 + Piastri 15). Leclerc quote: "all on me." Canada must be clean.
+- **Status:** FOLLOW UP (from 2026-05-14)
+- **Follow-up ideas:** Canada performance; constructors standings after Montreal
