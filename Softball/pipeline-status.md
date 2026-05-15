@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-15
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 4 char violations fixed S2/S3/S5/S6 via reformat; also reformatted to #### Text Post heading style; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest, articles (5), fact-check (78 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 23 items), dashboard (23 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 4 char violations fixed + X post heading format corrected. S6 no image concept — Tier 3 social-only by design.
+- **Key Stories**: WCWS Day 1 Opens/64 teams 16 regionals today (Tier 1), South Dakota first-ever NCAA Tournament appearance/20-34-1/founded 1978/Summit League/Nebraska natives (Tier 2), Oklahoma Norman Regional/Gasso 9th title/redemption/2:30 PM CT (Tier 2), FSU 12th straight regional hosting/49-8/No. 9 seed/Tallahassee (Tier 2), Texas title defense/No. 2 seed/Austin Regional/Kavan/defending champs (Tier 2), Regionals watch guide/Day 1 games (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-14
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 noted), image manifest, articles (5), fact-check (91 claims, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/

@@ -1,0 +1,335 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-15",
+  "compiled_at": "2026-05-15T10:19:54.979685+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Regionals Open",
+      "type": "X Post (lead) + FB Long-Form"
+    },
+    {
+      "time": "9:15 AM",
+      "description": "Story 1",
+      "type": "X Post (angle 2)"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — South Dakota Cinderella",
+      "type": "X Post + FB Long-Form"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 3 — Oklahoma Norman Regional",
+      "type": "X Post + FB Long-Form"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 4 — FSU Tallahassee Regional",
+      "type": "X Post + FB Long-Form"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5 — Texas Defends",
+      "type": "X Post + FB Long-Form"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 6 — Weekend Watch Guide",
+      "type": "X Post + FB Long-Form"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "WCWS Road Opens — Day 1 of 2026 NCAA Regionals",
+      "tier": 1,
+      "status": "",
+      "angle": "The 2026 NCAA Tournament field of 64 opens today at 16 regional sites. Top seeds Alabama (No. 1), Texas (No. 2), Oklahoma (No. 3), Nebraska (No. 4) all open play. Key games include Alabama vs USC Upstate at Noon CT (SEC Network), Oklahoma vs Binghamton at 2:30 PM CT, Texas vs Wagner at 3 PM CT (ESPN+), Nebraska vs South Dakota at 5:30 PM ET. Super Regionals May 21–24; WCWS May 28–June 5 in OKC.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "It's tournament day. 🥎\n\n64 teams. 16 regionals. One dream — Oklahoma City.\n\nAlabama, Texas, Oklahoma, Nebraska all take the field TODAY.\n\nThe road to the WCWS starts right now. 🏆\n\n#NCAAsoftball #WCWS2026 #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "NEW STORY (Breaking)",
+          "hashtags": [
+            "#NCAAsoftball",
+            "#WCWS2026",
+            "#CollegeSoftball"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Every year someone says a top seed is \"safe.\"\n\nEvery year a regional shocks everyone.\n\nToday starts the chaos. 👀\n\nWho gets upset in the first round? Let us know. 👇\n\n#NCAAsoft #WCWS #Softball",
+          "posting_time": "",
+          "tweet_type": "NEW STORY (Breaking)",
+          "hashtags": [
+            "#NCAAsoft",
+            "#WCWS",
+            "#Softball"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-wcws-road-opens-day-1-ncaa-regionals-2026.html",
+        "headline": "The Road to OKC Begins: Day 1 of the 2026 NCAA Softball Regionals Is Here",
+        "word_count": 802
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCWS Road Opens — Day 1 of 2026 NCAA Regionals\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** A softball field at golden hour with stadium lights illuminated, signaling the start of tournament season. Ideally an aerial or wide shot of a full stadium during opening ceremonies or a packed crowd.\n- **Photo Search Terms:**\n  1. NCAA softball tournament\n  2. WCWS Oklahoma City softball\n  3. softball stadium crowd tournament\n  4. Alabama Rhoads Stadium softball\n  5. softball regionals opening day\n- **Text Overlay Copy:**\n  - Headline: \"THE ROAD TO OKC STARTS NOW\"\n  - Subtitle: \"2026 NCAA Regionals — Day 1\" (color: #F4C542)\n- **Composition Notes:** Wide landscape crop of a packed stadium. Overlay bar at bottom. Leave upper 2/3 for crowd/field visual impact.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Same search terms; select a wide panoramic shot of a softball tournament setting.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WCWS Road Opens — Day 1 of 2026 NCAA Regionals\n**Decision:** NEW STORY — The tournament opening is a major annual event with no prior coverage today.\n**Status:** Tier 1\n**Sources:**\n1. ESPN — College softball 2026: NCAA tournament scores, schedule, how to watch\nURL: https://www.espn.com/college-sports/story/_/id/48734760/college-softball-2026-wcws-ncaa-tournament-watch-schedule-scores\nPublished: May 2026 (current)\n2. NCAA.com — 2026 Division I Softball Official Bracket\nURL: https://www.ncaa.com/brackets/softball/d1/2026\nPublished: May 2026 (current)\n3. Yahoo Sports — NCAA softball tournament 2026: Full regionals bracket, TV schedule, scores\nURL: https://sports.yahoo.com/articles/ncaa-softball-tournament-2026-full-123248702.html\nPublished: May 2026 (current)\n**Key Facts:**\n- 64 teams across 16 regional sites open play May 15–17, 2026 [HIGH — multiple sources]\n- Top 4 seeds: Alabama (No. 1), Texas (No. 2), Oklahoma (No. 3), Nebraska (No. 4) [HIGH]\n- Super Regionals: May 21–24 on 8 campus sites (best of 3) [HIGH]\n- WCWS: May 28–June 5 in Oklahoma City, Okla., Devon Park [HIGH]\n- Alabama vs USC Upstate: Noon CT, SEC Network [HIGH — rolltide.com]\n- Oklahoma vs Binghamton: 2:30 PM CT [HIGH — soonersports.com]\n- Texas vs Wagner: 3 PM CT, ESPN+ [HIGH — texaslonghorns.com]\n- Nebraska vs South Dakota: 5:30 PM ET [HIGH — huskers.com]\n**Freshness:** TODAY — Regionals opened this morning. This is the most timely story of the day.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "South Dakota Makes History — Cinderella Faces Nebraska in Lincoln",
+      "tier": 2,
+      "status": "",
+      "angle": "South Dakota (20-34-1) is making their first-ever NCAA Tournament appearance in program history (DI or DII) since the program launched in 1978. They won four games in four days at the Summit League Tournament, including two consecutive wins over top seed Omaha. Madison Evans was the All-Tournament MVP. Seven Nebraska natives on the roster return home for the Lincoln Regional. They open vs No. 4 seed Nebraska tonight (6:30 PM ET).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "South Dakota's first-ever NCAA Tournament game is TONIGHT. 🐾\n\nFounded 1978. Never made the NCAAs until now.\n\nThey won the Summit League Tournament to get here.\n\nTonight: No. 4 Nebraska in Lincoln. 5:30 PM ET.\n\n#SouthDakota #LincolnRegional #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#SouthDakota",
+            "#LincolnRegional",
+            "#CollegeSoftball"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-south-dakota-historic-ncaa-tournament-2026.html",
+        "headline": "48 Years in the Making: South Dakota Makes History at the 2026 NCAA Tournament",
+        "word_count": 722
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "South Dakota Makes History — Cinderella Faces Nebraska\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** A pitcher in competitive wind-up with intensity; can be any pitcher if SD-specific images aren't available. Emotion is key — determination, grittiness.\n- **Photo Search Terms:**\n  1. Madison Evans South Dakota softball\n  2. South Dakota Coyotes softball pitcher\n  3. Summit League softball pitcher\n  4. underdog softball pitcher windup\n  5. Nebraska softball Bowlin Stadium\n- **Text Overlay Copy:**\n  - Headline: \"HISTORY STARTS TONIGHT\"\n  - Subtitle: \"South Dakota's First-Ever NCAA Tournament Game\" (color: #F4C542)\n- **Composition Notes:** Vertical 4:5 frame with pitcher in lower half. Dark overlay bar at bottom. Clean background if possible for text legibility.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Search: \"Nebraska softball Bowlin Stadium\" or wide shot with stadium context.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "South Dakota Makes History in Lincoln Regional\n**Decision:** NEW STORY — Never covered. South Dakota's first-ever tournament appearance is a genuinely fresh and compelling Cinderella angle.\n**Status:** Tier 2\n**Sources:**\n1. Sports Illustrated — South Dakota Softball's Historic NCAA Tournament Berth Creates Emotional Homecoming for Nebraska Natives\nURL: https://www.si.com/onsi/softball/college/south-dakota-softball-s-historic-ncaa-tournament-berth-creates-emotional-homecoming-for-nebraska-natives-2026\nPublished: May 2026 (current)\n2. University of South Dakota Athletics — Yotes selected to the Lincoln Regional\nURL: https://goyotes.com/news/2026/5/10/softball-yotes-selected-to-the-lincoln-regional.aspx\nPublished: May 10, 2026\n3. KCCR Radio — USD Faces Nebraska to Open Lincoln Region\nURL: https://www.kccrradio.com/2026/05/14/usd-faces-nebraska-to-open-lincoln-region/\nPublished: May 14, 2026\n4. b1027.com — Augie and USD Softball are on to the NCAA Tournament\nURL: https://b1027.com/ixp/535/p/augustana-south-dakota-softball-ncaa-tournament/\nPublished: May 2026\n**Key Facts:**\n- South Dakota (20-34-1) — first-ever NCAA Tournament appearance since program launched in 1978 [HIGH — multiple sources]\n- Won four games in four days at Summit League Tournament [HIGH — goyotes.com]\n- Beat top-seed Omaha twice in consecutive one-run games [HIGH — goyotes.com]\n- Madison Evans named All-Tournament Team MVP [HIGH — goyotes.com]\n- Seven Nebraska natives on the roster [HIGH — SI.com]\n- Faces No. 4 Nebraska in Lincoln Regional opener, Friday 5:30 PM ET (ESPN+) [HIGH — huskers.com/schedule]\n- Lincoln Regional also includes Louisville and Grand Canyon [HIGH — huskers.com]\n**Freshness:** This story peaked May 10 (selection) but is fresh today as they actually play their first game.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Oklahoma Opens Norman Regional — Gasso Hunts 9th Championship",
+      "tier": 2,
+      "status": "",
+      "angle": "Oklahoma (48-8, No. 3 national seed) opens at Love's Field today (2:30 PM CT) vs Binghamton. Patty Gasso has 8 national titles; pursuing 9th. Sooners lead nation in BA (.389) and have 174 HRs. 9 consecutive CWS appearances since 2015. Lost in 2025 WCWS to Texas — today is about redemption.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Oklahoma lost the 2025 WCWS to Texas.\n\nPatty Gasso's Sooners open at Love's Field today — and they want that title BACK.\n\n8 national championships. .389 team BA — best in the nation.\n\nRedemption starts now. 🌪️\n\n#OUSoftball #NormanRegional #WCWS2026",
+          "posting_time": "",
+          "tweet_type": "FOLLOW UP (new game-day angle from May 13 Dynasty coverage)",
+          "hashtags": [
+            "#OUSoftball",
+            "#NormanRegional",
+            "#WCWS2026"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-oklahoma-opens-norman-regional-gasso-9th-title.html",
+        "headline": "Redemption Starts Today: Oklahoma Opens Norman Regional in Hunt for 9th National Title",
+        "word_count": 726
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Opens Norman Regional — Gasso Hunts 9th Championship\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Oklahoma Sooners batter mid-swing, or a powerful action shot at Love's Field. Dynasty feel — confident, powerful, championship energy.\n- **Photo Search Terms:**\n  1. Patty Gasso Oklahoma softball\n  2. Oklahoma Sooners softball Love's Field\n  3. Oklahoma softball batter swing\n  4. Oklahoma softball 2026 tournament\n  5. OU softball Norman Regional\n- **Text Overlay Copy:**\n  - Headline: \"GASSO WANTS 9\"\n  - Subtitle: \"Oklahoma Opens Norman Regional\" (color: #F4C542)\n- **Composition Notes:** Action-forward image — batter, coach, or crowd celebration shot. Overlay bar at bottom with strong contrast.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Search: \"Patty Gasso Oklahoma\" or wide shot of Love's Field.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Opens Norman Regional — Gasso Hunts 9th Championship\n**Decision:** FOLLOW UP (last covered May 13 with dynasty/seeding angle — today's game-day angle is fresh)\n**Status:** Tier 2\n**Sources:**\n1. D1Softball — 2026 Norman Regional Preview: Sooners, Jayhawks, Wolverines, and Bearcats\nURL: https://d1softball.com/2026-norman-regional-preview/\nPublished: May 2026\n2. University of Oklahoma — Softball to Host Norman Regional May 15–17\nURL: https://soonersports.com/news/2026/5/10/softball-to-host-the-norman-regional-may-15-17\nPublished: May 10, 2026\n3. stormininnorman.com — No team has a sweeter or deeper postseason softball history this century than Oklahoma\nURL: https://stormininnorman.com/no-team-has-sweeter-or-deeper-postseason-softball-history-this-century-than-oklahoma-sooners\nPublished: 2026\n4. ESPN — Best pitchers? Hitters to watch? We preview the 2026 softball regionals\nURL: https://www.espn.com/college-sports/story/_/id/48758068/2026-college-softball-regionals-wcws-favorites-pitchers-stats-hitters\nPublished: May 2026\n**Key Facts:**\n- Oklahoma (48-8, No. 3 national seed) opens at Love's Field today (2:30 PM CT) vs Binghamton [HIGH — soonersports.com]\n- Patty Gasso has 8 national titles, seeking 9th [MEDIUM — verify exact count; 8 confirmed per Wikipedia/stormininnorman]\n- Nation-leading .389 batting average, 174 home runs [HIGH — prior research from May 13]\n- 9 consecutive CWS appearances since 2015 [HIGH — stormininnorman.com]\n- 15th consecutive season hosting a regional [HIGH — prior research]\n- Lost to Texas in 2025 WCWS — seeking redemption [HIGH — extrainningsoftball.com]\n- Norman Regional: Oklahoma vs Binghamton, Michigan vs Kansas [HIGH — soonersports.com]\n**Freshness:** New angle today: actual game-day context, vs Binghamton, redemption theme.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "FSU's 12th Straight Regional — Noles Open as No. 9 Seed in Tallahassee",
+      "tier": 2,
+      "status": "",
+      "angle": "Florida State (49-8, No. 9 national seed) hosts their 12th consecutive regional in Tallahassee, opening vs Stetson (36-20) at Noon ET Friday. FSU won their 20th ACC championship this year (2-1 over Virginia Tech), went 21-3 in ACC play, and are one of the deepest programs in America. Hosting 12th straight despite being only the No. 9 seed — rare.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Florida State: 49-8.\n\n20th ACC Tournament championship.\n\n12th consecutive NCAA Regional host.\n\nAnd they're only the No. 9 national seed?\n\nThe Noles open vs Stetson today at noon ET and they've got something to prove. 🍢\n\n#FSUSoftball #TallahasseeRegional #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#FSUSoftball",
+            "#TallahasseeRegional",
+            "#CollegeSoftball"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-fsu-12th-straight-regional-tallahassee-2026.html",
+        "headline": "12 Straight and Still Hungry: Florida State Opens Tallahassee Regional as No. 9 Seed",
+        "word_count": 724
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FSU's 12th Straight Regional — Noles Open as No. 9 Seed\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Florida State pitcher or batter in FSU crimson and gold at JoAnne Graf Field. Championship energy — confident pose, mid-play action.\n- **Photo Search Terms:**\n  1. Florida State Seminoles softball\n  2. FSU softball JoAnne Graf Field pitcher\n  3. Florida State softball batter\n  4. FSU softball ACC championship\n  5. Seminoles softball Tallahassee Regional\n- **Text Overlay Copy:**\n  - Headline: \"12 STRAIGHT. STILL HUNGRY.\"\n  - Subtitle: \"FSU Opens Tallahassee Regional\" (color: #F4C542)\n- **Composition Notes:** Strong vertical shot. Player in action with FSU colors prominent. Overlay bar covers bottom third.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Search: \"Florida State softball\" wide stadium shot or team celebration.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "FSU's 12th Straight Regional — Noles Open as No. 9 Seed\n**Decision:** NEW STORY — FSU's hosting streak and No. 9 seeding context have not been covered.\n**Status:** Tier 2\n**Sources:**\n1. Florida State University — Noles Begin Road to OKC with Tallahassee Regional\nURL: https://seminoles.com/news/2026/5/14/softball-noles-begin-road-to-okc-with-tallahassee-regional\nPublished: May 14, 2026\n2. Florida State University — Softball Selected to Host 12th-Consecutive NCAA Regional\nURL: https://seminoles.com/news/2026/5/10/softball-selected-to-host-12th-consecutive-ncaa-regional\nPublished: May 10, 2026\n3. Florida State University — No. 20! Softball Wins 20th ACC Tournament Championship\nURL: https://seminoles.com/news/2026/5/9/no-20-softball-wins-20th-acc-tournament-championship\nPublished: May 9, 2026\n4. 247Sports — FSU Softball set to get Tallahassee Regional underway vs Stetson Friday\nURL: https://247sports.com/college/florida-state/longformarticle/fsu-softball-stetson-tallahassee-regional-game-1-preview-285290998/\nPublished: May 14, 2026\n**Key Facts:**\n- FSU record: 49-8, No. 9 national seed [MEDIUM — verify vs seminoles.com]\n- 12th consecutive NCAA Regional hosting [HIGH — seminoles.com]\n- 21-3 ACC regular season record [MEDIUM — verify]\n- Won 20th ACC Tournament championship, 2-1 over Virginia Tech [HIGH — seminoles.com, confirmed May 8]\n- Open vs Stetson (36-20, 18-6 ASUN/Atlantic Sun) on Friday, Noon ET [HIGH — seminoles.com]\n- Tallahassee Regional field includes FSU, Stetson, plus two others [MEDIUM — needs confirmation]\n**Freshness:** Opening game TODAY. First coverage of FSU this season.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Texas Defends — Longhorns Open Austin Regional vs Wagner",
+      "tier": 2,
+      "status": "",
+      "angle": "Texas (No. 2 seed, 26th NCAA Tournament appearance) defends their 2025 national title opening vs NEC champion Wagner at McCombs Field, 3 PM CT, on ESPN+. Pitcher Citlaly Kavan (who struck out 12 in the SEC title game) leads a staff that won the 2025 national championship and the first-ever SEC title. Texas enters having won the 2025 WCWS and the 2026 SEC championship — entering today as the hunted, not the hunter.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Texas walks into 2026 as defending national champions.\n\nThey're the No. 2 seed. They won the SEC title.\n\nCitlaly Kavan struck out 12 in the championship game. 🤘\n\nTitle defense begins today in Austin.\n\n#TexasSoftball #AustinRegional #WCWS2026",
+          "posting_time": "",
+          "tweet_type": "NEW STORY (defending champion angle)",
+          "hashtags": [
+            "#TexasSoftball",
+            "#AustinRegional",
+            "#WCWS2026"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-texas-title-defense-austin-regional-2026.html",
+        "headline": "The Hunt Is On: Texas Opens Title Defense at the 2026 Austin Regional",
+        "word_count": 780
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Defends — Longhorns Open Austin Regional vs Wagner\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Texas Longhorns pitcher or batter in burnt orange at McCombs Field. Championship trophies or celebration in background if available. \"Defending champions\" visual energy.\n- **Photo Search Terms:**\n  1. Citlaly Kavan Texas softball\n  2. Texas Longhorns softball McCombs Field\n  3. Texas softball pitcher 2026\n  4. Texas softball WCWS 2025 champion\n  5. Texas softball batter Austin Regional\n- **Text Overlay Copy:**\n  - Headline: \"TITLE DEFENSE BEGINS\"\n  - Subtitle: \"Texas Opens Austin Regional\" (color: #F4C542)\n- **Composition Notes:** Vertical portrait format, player dominant in frame. Championship-quality visual — burnt orange prominent.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- Search: \"Texas softball McCombs Field\" panoramic or team shot.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Defends — Longhorns Open Austin Regional vs Wagner\n**Decision:** NEW STORY — Texas's title defense arc has not been covered this pipeline cycle.\n**Status:** Tier 2\n**Sources:**\n1. University of Texas Athletics — No. 3 Softball preview: NCAA Austin Regional\nURL: https://texaslonghorns.com/news/2026/5/14/no-3-softball-preview-ncaa-austin-regional\nPublished: May 14, 2026\n2. Axios Austin — Texas softball gears up for title defense\nURL: https://www.axios.com/local/austin/2026/05/14/texas-softball-gears-up-for-title-defense\nPublished: May 14, 2026\n3. University of Texas — Softball earns No. 2 national seed\nURL: https://texaslonghorns.com/news/2026/5/10/softball-earns-no-2-national-seed\nPublished: May 10, 2026\n4. ESPN — Texas crowned 2026 SEC softball tournament champions\nURL: https://www.ncaa.com/news/softball/article/2026-05-08/texas-crowned-2026-sec-softball-tournament-champions\nPublished: May 8, 2026\n**Key Facts:**\n- Texas is No. 2 national seed, 26th NCAA Tournament appearance [HIGH — texaslonghorns.com]\n- Opens vs Wagner (NEC Tournament champion) at McCombs Field, 3 PM CT, ESPN+ [HIGH — texaslonghorns.com]\n- Pitcher Citlaly Kavan: 12 strikeouts in SEC Tournament championship win [HIGH — confirmed May 8, 2026 from prior coverage]\n- Texas won 2025 WCWS national championship [HIGH — confirmed from prior coverage]\n- Texas won 2026 SEC Tournament championship (May 8, 2026) [HIGH — confirmed]\n- Austin Regional: Texas vs Wagner, Baylor vs Wisconsin at 12:30 PM CT [HIGH — Austin Regional schedule]\n**Freshness:** Title defense opener TODAY is new angle — last covered was SEC title (May 8). This is the first tournament piece on Texas.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Weekend Watch Guide — Best Regional Matchups May 15–17",
+      "tier": 3,
+      "status": "",
+      "angle": "Fan engagement guide highlighting best first-round games of the weekend: Virginia Tech vs South Alabama (Baton Rouge, 4 PM ET, ESPN+), UCLA vs Cal Baptist (L.A. Regional, 7 PM PT, ESPN2), Arkansas vs Fordham (Fayetteville, 4:30 PM ET, ESPN+), FSU vs Stetson (Tallahassee, 12 PM ET, ESPN+). Upset watch: VT at LSU's regional, Mississippi State vs Oregon in Austin, Indiana at Tennessee Regional.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Tonight's must-watch games: 📺🥎\n\n3 PM CT — Texas vs Wagner (ESPN+)\n4 PM ET — Virginia Tech vs South Alabama (ESPN+)\n5:30 PM ET — Nebraska vs South Dakota (ESPN+)\n10 PM ET — UCLA vs Cal Baptist (ESPN2)\n\nAll on Day 1 of 2026 Regionals. 🥎\n\n#NCAAsoft #CollegeSoftball #WCWS2026",
+          "posting_time": "",
+          "tweet_type": "NEW STORY (Evergreen/Fan Service)",
+          "hashtags": [
+            "#NCAAsoft",
+            "#CollegeSoftball",
+            "#WCWS2026"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Weekend Watch Guide — Best Regional Matchups May 15–17\n**Decision:** NEW STORY (Fan service/Evergreen). No prior watch guide this tournament weekend.\n**Status:** Tier 3\n**Sources:**\n1. ESPN — Best pitchers? Hitters to watch? We preview the 2026 softball regionals\nURL: https://www.espn.com/college-sports/story/_/id/48758068/2026-college-softball-regionals-wcws-favorites-pitchers-stats-hitters\nPublished: May 2026\n2. SI.com — 2026 NCAA Division I Softball Tournament: Bracket, Schedule & Updates\nURL: https://www.si.com/onsi/softball/college/2026-ncaa-division-i-softball-tournament-bracket-schedule-updates\nPublished: May 2026\n3. On3 — 2026 NCAA Softball Regional Central\nURL: https://www.on3.com/softball/news/2026-ncaa-softball-regional-central/\nPublished: May 2026\n**Key Facts:**\n- 16 regionals running simultaneously May 15–17 [HIGH]\n- Virginia Tech (46-10) vs South Alabama (Baton Rouge, Friday 4 PM ET, ESPN+) — top upset pick [HIGH — prior coverage confirmed]\n- UCLA (No. 8 seed) vs Cal Baptist (L.A. Regional, 7 PM PT, ESPN2) — Megan Grant debut [HIGH — confirmed]\n- Arkansas (No. 5 seed) vs Fordham (Fayetteville Regional, 4:30 PM ET, ESPN+) [HIGH]\n- FSU vs Stetson (Tallahassee, Noon ET, ESPN+) [HIGH]\n- Nebraska vs South Dakota (Lincoln, 5:30 PM ET, ESPN+) [HIGH]\n**Freshness:** Day 1 game guide is timely/evergreen today. Useful for fans planning their viewing.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

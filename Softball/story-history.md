@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 15, 2026
+
+### Story 1: WCWS Road Opens — Day 1 of 2026 NCAA Regionals
+- **Angle:** NEW STORY. Day 1 of the 2026 NCAA Tournament opens across 16 regional sites. Top 4 seeds all play today: Alabama (No. 1, Tuscaloosa vs USC Upstate, Noon CT), Texas (No. 2, Austin vs Wagner, 3 PM CT), Oklahoma (No. 3, Norman vs Binghamton, 2:30 PM CT), Nebraska (No. 4, Lincoln vs South Dakota, 5:30 PM ET). WCWS Devon Park, OKC, May 28–June 5.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Day 1 results and upsets; Day 2 Saturday coverage; Super Regional bids
+
+### Story 2: South Dakota's Historic NCAA Tournament Debut
+- **Angle:** NEW STORY. South Dakota (20-34-1) making their first-ever NCAA Tournament appearance since program founded 1978. Won Summit League Tournament (4 games in 4 days), beat Omaha twice. Pitcher Madison Evans All-Tournament MVP. 7 Nebraska natives on roster returning to Lincoln. Opening vs No. 4 Nebraska tonight, 5:30 PM ET (ESPN+).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** South Dakota result vs Nebraska; whether Cinderella story extends to Game 2
+
+### Story 3: Oklahoma Opens Norman Regional — Gasso Hunts 9th Championship
+- **Angle:** FOLLOW UP (new game-day angle from May 13 dynasty coverage). Oklahoma (48-8, No. 3 seed) opens at Love's Field today (2:30 PM CT) vs Binghamton. Patty Gasso has 8 national titles, seeking 9th. Nation-leading .389 BA, 174 HRs. Redemption after 2025 WCWS loss to Texas. 9 straight WCWS appearances since 2015.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Norman Regional results; OU pitching performance vs Binghamton and Michigan/Kansas
+
+### Story 4: FSU Hosts 12th Straight Regional as No. 9 Seed in Tallahassee
+- **Angle:** NEW STORY. Florida State (49-8, No. 9 seed) hosts 12th consecutive regional in Tallahassee, opening vs Stetson (36-20) at Noon ET. Won 20th ACC Tournament championship (2-1 over Virginia Tech). 21-3 ACC record. Perceived underseeding (No. 9 despite elite resume) adds motivation.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** FSU vs Stetson result; Tallahassee Regional bracket progress
+
+### Story 5: Texas Opens Title Defense at Austin Regional
+- **Angle:** NEW STORY. Texas (No. 2 seed, defending national champions) opens Austin Regional vs Wagner (NEC champion) at 3 PM CT. Pitcher Citlaly Kavan (12 K in SEC title game). Won 2025 WCWS and 2026 SEC Tournament. Austin Regional includes Baylor vs Wisconsin at 12:30 PM CT. Entering as most hunted team in field.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Texas vs Wagner result; Austin Regional bracket progress; title defense narrative
+
+### Story 6: Weekend Watch Guide — Best Regional Matchups May 15–17
+- **Angle:** NEW STORY (Fan service). Guide to Day 1 games worth watching: Texas vs Wagner (3 PM CT), VT vs South Alabama (4 PM ET), Nebraska vs South Dakota (5:30 PM ET), UCLA vs Cal Baptist (10 PM ET). Key games across all 16 regionals this weekend.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Results from all highlighted games; update guide for Day 2
+
+---
+
 ## May 14, 2026
 
 ### Story 1: Arkansas — The Only Host Without a WCWS Berth
