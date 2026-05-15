@@ -1,0 +1,244 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-15",
+  "compiled_at": "2026-05-15T11:17:15.617836+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game 6 Tonight — Cavaliers vs. Pistons, Cavs One Win From ECF",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Cleveland survived an OT war in Detroit.\n\nNow they come home.\n\nCavs vs. Pistons — Game 6. Tonight, 7 PM ET on Prime Video. Harden + Mitchell vs. Cade's last stand. One game to decide it. #LetEmKnow #DetroitBasketball",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetEmKnow",
+            "#DetroitBasketball"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Pistons led 103-94 with 3 minutes left in Game 5.\n\nThen the Cavs went on a 13-0 run.\n\nOT. Cleveland wins. Detroit goes home... unless they win tonight.\n\nGame 6. 7 PM ET. Prime Video. #LetEmKnow",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetEmKnow"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-cavaliers-pistons-game6-preview.html",
+        "headline": "Cavaliers vs. Pistons Game 6: Cleveland One Win From Conference Finals",
+        "word_count": 699
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cavaliers vs. Pistons Game 6\n\n#### Image Concept 1A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Donovan Mitchell Cleveland Cavaliers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"GAME 6 TONIGHT / CAVS vs. PISTONS / 7 PM ET — PRIME VIDEO\"\n- **Status:** not_started\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Purpose:** Article featured image\n- **Photo search:** \"James Harden Cleveland Cavaliers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"HARDEN'S CLUTCH RUN / CAVS TAKE 3-2 SERIES LEAD\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Game 6 Tonight — Spurs vs. Timberwolves, Wemby Chases WCF Berth",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Wemby dropped 18 points in the FIRST QUARTER of Game 5.\n\nThe Wolves got blasted 126-97.\n\nGame 6 is tonight at Minnesota. 9:30 PM ET on Prime. Wemby one win away from the Conference Finals. #Spurs #Timberwolves",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Spurs",
+            "#Timberwolves"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Anthony Edwards scored 36 points in Game 4 to save Minnesota's season.\n\nHe needs another one tonight.\n\nWolves face elimination. Wemby's coming to town.\n\nGame 6 — 9:30 PM ET, Prime Video. #Timberwolves #Spurs",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Timberwolves",
+            "#Spurs"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-spurs-timberwolves-game6-wemby-wfc.html",
+        "headline": "Spurs vs. Timberwolves Game 6: Wemby One Win From the WCF",
+        "word_count": 645
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spurs vs. Timberwolves Game 6\n\n#### Image Concept 2A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Victor Wembanyama San Antonio Spurs\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"GAME 6 TONIGHT / WEMBY CHASES WCF / 9:30 PM ET — PRIME VIDEO\"\n- **Status:** not_started\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Purpose:** Article featured image\n- **Photo search:** \"Anthony Edwards Minnesota Timberwolves\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"ELIMINATION NIGHT / WOLVES MUST RESPOND\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Conference Finals Almost Set — Knicks and Thunder Waiting",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tonight could set BOTH Conference Finals.\n\nKnicks (waiting). OKC (8-0, waiting).\n\nCavs-Pistons G6 @ 7 PM ET + Spurs-Wolves G6 @ 9:30 PM ET.\n\nTwo elimination games. Two Conference Finals spots. Let's go. #NBA",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-conference-finals-knicks-okc-waiting.html",
+        "headline": "Conference Finals Countdown: Knicks and OKC Waiting as Two Elimination Games Loom",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Conference Finals Preview\n\n#### Image Concept 3A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Jalen Brunson New York Knicks\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"CONFERENCE FINALS / ALMOST SET / TWO GAMES. TONIGHT.\"\n- **Status:** not_started\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Purpose:** Article featured image\n- **Photo search:** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"KNICKS & OKC AWAIT / CONFERENCE FINALS ON THE HORIZON\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Anthony Edwards Has One Game to Save the Timberwolves",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Minnesota's season is in Anthony Edwards' hands tonight.\n\n36 points in Game 4.\n\nBlowout loss in Game 5 — Wemby went OFF in Q1.\n\nCan Ant bring it back? Game 6 at Target Center. 9:30 PM ET. #Timberwolves",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Timberwolves"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-anthony-edwards-elimination-game6.html",
+        "headline": "Anthony Edwards and the Moment Minnesota Has Been Waiting For",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Anthony Edwards\n\n#### Image Concept 4A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Anthony Edwards Minnesota Timberwolves\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"ANT'S MOMENT / GAME 6 TONIGHT AT TARGET CENTER\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Pistons' Remarkable Run — Cade Cunningham's Breakout Moment",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cade Cunningham: 39 pts & 9 ast in a Game 5 loss.\n\nHe's been ELITE this series.\n\nWin or lose tonight — Cade has made a statement. Detroit's future is bright. #DetroitBasketball",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#DetroitBasketball"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-cade-cunningham-pistons-star-has-arrived.html",
+        "headline": "Cade Cunningham's Breakout Playoff Run Has Redefined Detroit's Future",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cade Cunningham / Pistons Season Feature\n\n#### Image Concept 5A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Cade Cunningham Detroit Pistons\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"39 POINTS. 9 ASSISTS. / THE STAR HAS ARRIVED. / #DETROITBASKETBALL\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

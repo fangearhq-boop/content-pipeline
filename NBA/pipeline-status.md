@@ -1,11 +1,22 @@
 ## Last Run
-- **Date**: 2026-05-14
+- **Date**: 2026-05-15
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
 
-### 2026-05-14
+### 2026-05-15
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-05-15.xlsx (7 posts) + hh-postplanner-tobi-2026-05-15.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-15/review-dashboard.html (22 items)
+- **Notes:** Two Game 6 elimination games tonight: Cavs-Pistons at Cleveland 7 PM ET (Cavs lead 3-2, Harden 30/Cade 39 in G5 OT); Spurs-Wolves at Minnesota 9:30 PM ET (Spurs lead 3-2, Wemby 27/17/5/3 in G5 blowout); Knicks + OKC (8-0) awaiting Conference Finals opponents. ECF starts May 17 if Cavs win; WCF starts May 18 at OKC if Spurs win.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+### 2026-05-14
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 6 written, all under 280 characters
 - **Facebook Posts:** 5 stories, long-form + caption each

@@ -1768,3 +1768,40 @@
 - **Key facts:** Harden (age 36) joined LeBron James, Kobe Bryant, Michael Jordan in rare playoff club with 30 pts/8 reb/6 ast OT performance. Harden +11 in G5.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Harden's continued playoff impact; Cavs ECF run
+
+## 2026-05-15
+
+### STORY 1: Cavaliers vs. Pistons Game 6 Preview — Cavs One Win From ECF
+- **Tier:** 1
+- **Category:** Game Preview / Elimination Game
+- **Key facts:** Game 6 May 15, 7:00 PM ET, Prime Video, Rocket Mortgage FieldHouse. Cavs lead 3-2. Harden 30 pts (11-14 FT) G5, Cade 39/9 G5. Cavs comeback from 103-94 deficit with <3 min left. 13-0 run. No-call controversy (Ausar Thompson/Allen). Cavs win → ECF vs Knicks.
+- **Status:** FOLLOW UP (from 2026-05-14)
+- **Follow-up ideas:** G6 result; ECF Knicks vs Cavs schedule; Pistons season evaluation
+
+### STORY 2: Spurs vs. Timberwolves Game 6 Preview — Wemby One Win From WCF
+- **Tier:** 1
+- **Category:** Game Preview / Elimination Game
+- **Key facts:** Game 6 May 15, 9:30 PM ET, Prime Video, Target Center. Spurs lead 3-2. Wemby G5: 27 pts (18 in Q1)/17 reb/5 ast/3 blk. Spurs won 126-97. Edwards G4: 36 pts. Spurs win → WCF vs OKC (8-0).
+- **Status:** FOLLOW UP (from 2026-05-14)
+- **Follow-up ideas:** G6 result; WCF OKC vs Spurs schedule; Edwards/Wolves season evaluation
+
+### STORY 3: Conference Finals Almost Set — Knicks and OKC Waiting
+- **Tier:** 2
+- **Category:** Playoff Landscape / Conference Finals Preview
+- **Key facts:** Both Game 6s tonight. Knicks (swept 76ers, resting) + OKC (8-0, swept Lakers, resting) await. ECF starts May 17 if Cavs win; WCF starts May 18 at OKC if Spurs win.
+- **Status:** FOLLOW UP (from 2026-05-14)
+- **Follow-up ideas:** Both Conference Finals matchups confirmed
+
+### STORY 4: Anthony Edwards — Last Stand Game 6
+- **Tier:** 2
+- **Category:** Player Spotlight / Elimination Pressure
+- **Key facts:** Edwards 36 pts G4 (kept Wolves alive), but G5 blowout (Wemby 18 in Q1). Edwards needs dominant G6 to extend series. Age 24, playing biggest game of career.
+- **Status:** NEW STORY
+- **Follow-up ideas:** G6 result; Edwards' 2026 playoff legacy evaluation
+
+### STORY 5: Cade Cunningham's Breakout Playoff Moment — Detroit's Future Bright
+- **Tier:** 2
+- **Category:** Feature / Emerging Star
+- **Key facts:** Cade 39 pts/9 ast G5 loss. Pistons won G1+G2 on road. Young core: Cade (26), A. Thompson (22), Duren (21). Franchise-altering playoff emergence regardless of series outcome.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Pistons elimination reflection; Cade's offseason expectations
