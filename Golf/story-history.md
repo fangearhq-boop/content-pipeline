@@ -464,3 +464,40 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** McIlroy 6 majors (incl 2026 Masters). Win at Aronimink = 7 majors (past Arnold Palmer, 7 total). Last player to win year's first 2 majors: Spieth 2015 (Masters + US Open). Tiger Slam was 4 consecutive majors across 2000-2001 (not calendar year). Calendar Grand Slam never accomplished. McIlroy would need: Aronimink + Shinnecock Hills (US Open) + Royal St. Andrews (Open Championship).
 - **Status:** FOLLOW UP (from 2026-05-12)
 - **Follow-up ideas:** McIlroy PGA Championship performance; R2/R3/R4 updates
+
+## 2026-05-15
+
+### STORY 1: PGA Championship Round 1 Recap — Scheffler Leads Seven-Way Jam at Aronimink
+- **Tier:** 1
+- **Category:** Major Championship / Round 1 Recap
+- **Key facts:** Seven co-leaders at -3 (67): Scheffler, Potgieter, Hisatsune, Min Woo Lee, Jaeger + 2 others. Scheffler birdied holes 6, 7, 10, 11; first time he co-led after R1 at a major. Aronimink: par 70, 7,394 yds, firm greens, gusty wind. Spieth/Koepka/Rahm/Thomas at -2. McIlroy at +4. Cut projected around E or +1.
+- **Status:** FOLLOW UP (from 2026-05-14)
+- **Follow-up ideas:** R2 results; cut survivors; weekend leaderboard
+
+### STORY 2: McIlroy's Grand Slam Bid Wobbles — +4 After Round 1 at Aronimink
+- **Tier:** 1
+- **Category:** Grand Slam Storyline / Player Feature
+- **Key facts:** McIlroy 74 (+4) R1. Five bogeys in final six holes. Foot discomfort. Needs historic R2 to make cut and keep Grand Slam alive. Last to win year's first two majors: Spieth 2015 (Masters+US Open). Projected cut ~E or +1.
+- **Status:** FOLLOW UP (from 2026-05-14)
+- **Follow-up ideas:** McIlroy R2 score; cut or miss cut; Grand Slam status
+
+### STORY 3: Lucas Herbert Wins LIV Virginia Wire-to-Wire — The Flu Couldn't Stop Him
+- **Tier:** 2
+- **Category:** LIV Golf / Tournament Result
+- **Key facts:** Herbert 64-63-68-69 = 24-under, won by 4 over Garcia (20-under). DeChambeau 3rd (-19, R4 66). Herbert fought flu all week. $4M prize. US Open exemption (Shinnecock Hills). Anthony Kim bogey-free 62 (R4) → 4Aces GC team win in playoff over Fireballs GC (Kim/Detry vs Ballester/Puig). 4Aces 3rd team title of 2026.
+- **Status:** FOLLOW UP (from 2026-05-14)
+- **Follow-up ideas:** Herbert US Open prep; Anthony Kim's continued form; LIV Korea (May 28-31)
+
+### STORY 4: Queen City Classic Round 1 — Korda Three Back as HOF Countdown Ticks
+- **Tier:** 2
+- **Category:** LPGA / Hall of Fame Storyline
+- **Key facts:** R1 leaders at -4 (66): Ina Yoon, Chella Choi, Rio Takeda. Korda at -1 (69), 3 shots back. 23/27 HOF pts. Charley Hull defending, fast start. Lydia Ko in contention. Tournament May 14-17, Cincinnati, Maketewah CC.
+- **Status:** FOLLOW UP (from 2026-05-14)
+- **Follow-up ideas:** R2/R3 results; Korda HOF update; final round outcome
+
+### STORY 5: Scheffler's PGA Defense Begins — Defending Champion in Prime Position
+- **Tier:** 2
+- **Category:** Major Championship / Player Spotlight
+- **Key facts:** Scheffler co-leads at -3 (67), defending 2025 PGA champion. First time co-leading after R1 at a major. Birdied 6, 7, 10, 11. Aronimink suits his game (precision over power, course management rewards patience).
+- **Status:** FOLLOW UP (from 2026-05-14)
+- **Follow-up ideas:** R2 result; Scheffler weekend position

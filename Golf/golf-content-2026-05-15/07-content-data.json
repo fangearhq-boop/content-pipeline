@@ -1,0 +1,246 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-15",
+  "compiled_at": "2026-05-15T11:34:18.931780+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PGA Championship Round 1 Recap — Scheffler Leads Seven-Way Jam at Aronimink",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Seven players share the Round 1 lead at the PGA Championship.\n\nScheffler. Potgieter. Hisatsune. Min Woo Lee. Jaeger. All tied at 3-under after Thursday.\n\nAronimink is playing TOUGH. Round 2 begins now. #PGAChampionship #Golf",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#Golf"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The cut line at Aronimink is going to be brutal.\n\nSeven co-leaders at -3. 30+ players within 3 shots of the lead.\n\nAronimink: firm greens, tight pins, gusty wind. This major championship is wide open. #PGAChampionship",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-pga-championship-r1-recap-scheffler-leads.html",
+        "headline": "PGA Championship Round 1: Scheffler Shares Lead With Six Others as Aronimink Bites Back",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PGA Championship R1 Recap\n\n#### Image Concept 1A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Scottie Scheffler PGA Championship\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"7-WAY TIE / SCHEFFLER CO-LEADS AT -3 / ROUND 1 PGA CHAMPIONSHIP\"\n- **Status:** not_started\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Purpose:** Article featured image\n- **Photo search:** \"Aronimink Golf Club PGA Championship\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"ROUND 1 COMPLETE / CROWDED LEADERBOARD AT ARONIMINK\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "McIlroy's Grand Slam Bid Wobbles — +4 After Round 1 at Aronimink",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Rory McIlroy shot 74 (+4) in Round 1 at Aronimink.\n\nFive bogeys in his final six holes. Foot discomfort. Driver struggles.\n\nThe 2026 Grand Slam bid is on life support. He needs a stunning Round 2 to even make the cut. #RoryMcIlroy #PGAChampionship",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RoryMcIlroy",
+            "#PGAChampionship"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 2-2",
+          "text": "McIlroy won the Masters. He could've been halfway to the Grand Slam.\n\nInstead: +4 after Round 1 at Aronimink. He needs one of the great comebacks in major history just to make the cut.\n\nGolf is cruel. #PGAChampionship #RoryMcIlroy",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#RoryMcIlroy"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-mcilroy-grand-slam-bid-r1-struggles.html",
+        "headline": "McIlroy's Grand Slam Bid Is on Life Support After a +4 First Round at Aronimink",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy Grand Slam Wobbles\n\n#### Image Concept 2A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Rory McIlroy PGA Championship\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"GRAND SLAM ON LIFE SUPPORT / McILROY +4 AFTER ROUND 1\"\n- **Status:** not_started\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Purpose:** Article featured image\n- **Photo search:** \"Rory McIlroy\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"CAN McILROY SURVIVE THE CUT?\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Lucas Herbert Wins LIV Virginia Wire-to-Wire — The Flu Couldn't Stop Him",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lucas Herbert just won LIV Golf Virginia while fighting the flu all week.\n\nWire-to-wire. 24-under. 4-shot win over Sergio Garcia. $4M prize.\n\nAnd Anthony Kim shot a 62 on Sunday to win the team event for 4Aces GC. #LIVGolf",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-lucas-herbert-wins-liv-virginia-flu.html",
+        "headline": "Lucas Herbert's Flu-Fueled Wire-to-Wire Win Is the LIV Golf Story of the Season",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Virginia — Herbert\n\n#### Image Concept 3A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Lucas Herbert LIV Golf\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"WIRE-TO-WIRE / LUCAS HERBERT WINS LIV VIRGINIA / 24-UNDER\"\n- **Status:** not_started\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Purpose:** Article featured image\n- **Photo search:** \"Anthony Kim LIV Golf\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"KIM SHOOTS 62 / 4ACES WIN TEAM PLAYOFF\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Queen City Classic Round 1 — Korda Three Back as HOF Countdown Ticks",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Nelly Korda has 23 of the 27 LPGA Hall of Fame points she needs.\n\nShe's 3 shots back after Round 1 at the Queen City Championship in Cincinnati.\n\n4 more points to history. The HOF countdown is real. #LPGA #NellyKorda",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#NellyKorda"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-korda-queen-city-lpga-hof-countdown.html",
+        "headline": "Korda Three Back at Queen City as Hall of Fame Countdown Reaches the Home Stretch",
+        "word_count": 637
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Queen City Classic — Korda\n\n#### Image Concept 4A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Nelly Korda LPGA\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"23/27 HOF POINTS / KORDA CHASING HISTORY AT QUEEN CITY\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Scheffler's PGA Defense Begins — Defending Champion in Prime Position",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Defending champion Scottie Scheffler is RIGHT where he wants to be.\n\n67 in Round 1. Tied for the lead. First time he's led a major after Round 1.\n\nAronimink suits him. The weekend could belong to the world No. 1. #PGAChampionship #ScottieScheffler",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#ScottieScheffler"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-scheffler-defending-pga-championship.html",
+        "headline": "Scottie Scheffler Is Defending His PGA Championship — and He's in the Perfect Position to Do It",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler Defending PGA Championship\n\n#### Image Concept 5A — Social (1080x1350)\n- **Purpose:** X/Facebook post image\n- **Photo search:** \"Scottie Scheffler\"\n- **Credit:** (USA TODAY Sports Images)\n- **Text overlay (Canva):** \"DEFENDING CHAMPION / SCHEFFLER TIED FOR THE LEAD / -3 ROUND 1\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
