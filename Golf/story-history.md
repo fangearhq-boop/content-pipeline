@@ -4,6 +4,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-05-16 | T1 | PGA Championship R3 preview — McNealy/Smalley co-lead at -4; Scheffler -2; McIlroy +1 (bogey-free 67 R2); final pairing 2:40 PM ET; Koepka/McIlroy 11 AM; DeChambeau missed cut | X, FB, Article | FOLLOW-UP |
+| 2026-05-16 | T1 | McIlroy Grand Slam bid — R1 "s***" 74; R2 bogey-free 67 to +1; 5 back entering R3; Grand Slam completion if wins (has Masters, US Open, Open Championship) | X, FB, Article | FOLLOW-UP |
+| 2026-05-16 | T2 | LIV Golf Saudi PIF ending funding after 2026 — $6B+ spent; PIF statement "no longer consistent with strategy"; chairman Al-Rumayyan stepping down; new board (Gene Davis, Jon Zinman); seeking alternative investors | X, FB, Article | NEW STORY |
+| 2026-05-16 | T2 | Smalley/McNealy as unlikely PGA Championship co-leaders — Smalley no Tour wins (5th major, best T23 PGA '23); McNealy one FedEx Fall win (best T18 at '26 Masters); final pairing Saturday 2:40 PM ET | X, FB, Article | FOLLOW-UP |
+| 2026-05-16 | T2 | LPGA Kroger Queen City Championship final — Yamashita (Japan) wins at -17; Korda T5 at -15; Maketewah CC Cincinnati OH; May 14-17 | X, FB, Article | FOLLOW-UP |
+|------|------|-------|-----------|-------|
 | 2026-05-10 | T1 | Truist Championship final round preview: Fitzpatrick leads 14-under (R3 64), Reitan 13-under (64), Young 12-under (63); Im 11-under; McIlroy shot 75 in R3 (6 bogeys/2 birdies), out of contention; $20M/700 FedExCup pts; final round today | X, FB, Article | NEW — final round preview |
 | 2026-05-10 | T1 | LIV Golf Virginia final round: Herbert (Ripper GC) leads 21-under, Garcia 18-under (3 back); Ballester bogey-free 60 in R3 (13-under); DeChambeau/Vincent/Burmester 13-under; Rahm 12-under; $30M final round today | X, FB, Article | FOLLOW-UP |
 | 2026-05-10 | T1 | PGA Championship preview: Aronimink Golf Club May 14-17 (ESPN Thu-Fri, CBS Sat-Sun); first PGA at Aronimink since 1962 (Gary Player); Scheffler defends; McIlroy seeks No. 7 major; Spieth career Grand Slam 10th attempt; Young in red-hot form (Players + Cadillac wins); LIV players eligible | X, FB, Article | FOLLOW-UP |

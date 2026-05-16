@@ -3,18 +3,24 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
-## Current Pipeline (2026-05-15)
+## Current Pipeline (2026-05-16)
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-05-15 |
-| Writing | Complete (all 8 files + 5 articles) | 2026-05-15 |
-| Fact-check | Complete (verify-facts.py — 18 claims, 37 HIGH confidence) | 2026-05-15 |
-| Scripts | Complete (all 6 scripts run) | 2026-05-15 |
-| PostPlanner | Complete (7 X posts + TOBI 7 posts) | 2026-05-15 |
-| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-05-15 |
-| Published | Failed — WordPress credentials blocked by egress proxy (persistent infrastructure issue) | 2026-05-15 |
-| Git | Committed and pushed to main | 2026-05-15 |
+| Research | Complete | 2026-05-16 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-16 |
+| Fact-check | Complete (verify-facts.py — 26 claims, 36 HIGH confidence) | 2026-05-16 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-16 |
+| PostPlanner | Complete (7 X posts + TOBI 7 posts) | 2026-05-16 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-05-16 |
+| Published | Failed — WordPress credentials blocked by egress proxy (persistent infrastructure issue) | 2026-05-16 |
+| Git | Committed and pushed to main | 2026-05-16 |
+
+## Notes (2026-05-16)
+- 5 stories: PGA Championship R3 preview (McNealy/Smalley co-lead -4; Scheffler -2; McIlroy +1; DeChambeau MC; R3 final pairing 2:40 PM ET) T1; McIlroy Grand Slam comeback (R1 74 "s***" → R2 bogey-free 67 to +1; 5 back; Grand Slam completion if wins; has Masters/US Open/Open Championship) T1; LIV Golf Saudi PIF funding ending after 2026 ($6B+ spent; chairman stepping down; future uncertain) T2; Smalley/McNealy unlikely major leaders (Smalley no wins, 5th major; McNealy one FedEx Fall win) T2; LPGA Queen City Championship final (Yamashita wins -17; Korda T5 -15) T2
+- Pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole
+- WordPress publish failed (egress proxy — persistent across all three niches)
+- Dashboard push failed (PAT lacks write access to content-dashboards repo — consistent with all previous runs)
 
 ## Notes (2026-05-15)
 - 5 stories: PGA Championship R1 recap (108th, Aronimink, 7-way tie -3: Scheffler/Potgieter/Hisatsune/Lee/Jaeger, McIlroy +4 / Grand Slam bid on life support / foot discomfort / 5 bogeys final 6 holes) T1; McIlroy Grand Slam wobbles (needs historic R2 to make cut, last to win year's first 2 majors was Spieth 2015) T1; LIV Virginia recap (Herbert 24-under wire-to-wire, flu game, $4M, US Open exemption; Anthony Kim 62 → 4Aces GC team win in playoff) T2; Queen City Classic R1 (Korda -1 at 23/27 HOF pts, 3 shots back, leaders Yoon/Choi/Takeda at -4, Hull defending) T2; Scheffler defending PGA (co-leads -3, first time led R1 at major in career) T2

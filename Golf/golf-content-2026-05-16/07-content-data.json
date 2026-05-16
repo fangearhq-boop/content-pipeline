@@ -1,0 +1,297 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-16",
+  "compiled_at": "2026-05-16T11:31:16.106697+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PGA Championship R3 Preview — McNealy, Smalley Lead at -4; Scheffler, McIlroy Lurk (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The PGA Championship heading into Round 3:\n\nSmalley (-4) 🏆\nMcNealy (-4) 🏆\nScheffler (-2)\nMcIlroy (+1) — 5 back, bogey-free 67 in R2\n\nTwo first-time major leaders. A weekend full of stars in pursuit.\n\nThis is what the major season is made for. #PGAChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Round 3 final pairing at the PGA Championship: Smalley and McNealy at 2:40 PM ET.\n\nNeither has ever won on Tour (McNealy has one Fall event).\n\nOne of them might be wearing the Wanamaker Trophy Sunday. #PGAChampionship #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#Golf"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pga-championship-r3-smalley-mcnealy-lead.html",
+        "headline": "PGA Championship Round 3: Smalley and McNealy Lead at -4 as Scheffler, McIlroy Lurk",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "McIlroy's Grand Slam Quest — From Disaster to \"Right in the Tournament\" (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Rory McIlroy called his Round 1 \"s***.\"\n\nHe then went out and shot a bogey-free 67 in Round 2.\n\nHe's at +1, five back. \"At five back I do feel like I'm right in the tournament.\"\n\nGrand Slam dream still alive. #RoryMcIlroy #PGAChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RoryMcIlroy",
+            "#PGAChampionship"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 2-2",
+          "text": "If Rory McIlroy wins the PGA Championship this week, he completes the career Grand Slam.\n\nHe's five back entering Round 3. He's done more with less.\n\nThe most compelling story in golf is still happening. #RoryMcIlroy #PGAChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RoryMcIlroy",
+            "#PGAChampionship"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-mcilroy-grand-slam-comeback-round-2.html",
+        "headline": "McIlroy Grand Slam Dream Still Alive After Bogey-Free Round 2 at PGA Championship",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf's Future in Doubt — Saudi PIF Ending Funding After 2026 (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Saudi Arabia's PIF is pulling LIV Golf funding at end of 2026.\n\n$6 billion spent. Chairman stepping down. New investment bankers on board.\n\nThe league that changed golf forever is now searching for a future.\n\nWhat happens next? #LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-liv-golf-saudi-funding-ending-future.html",
+        "headline": "Saudi PIF Pulls LIV Golf Funding After 2026 — The League's Future Is Now in Question",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Smalley and McNealy — The Unlikely Major Leaders (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alex Smalley has never won on Tour.\nIt's only his 5th major.\nHe leads the PGA Championship.\n\nMaverick McNealy has one Fall event win.\nHe leads the PGA Championship.\n\nGolf is incredible. #PGAChampionship #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#Golf"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-smalley-mcnealy-unlikely-pga-leaders.html",
+        "headline": "Smalley and McNealy: Two Unlikely Co-Leaders at the PGA Championship",
+        "word_count": 499
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LPGA Queen City — Yamashita Wins at -17; Korda Finishes T5 (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Moka Yamashita wins the Kroger Queen City Championship at -17.\n\nNelly Korda finishes T5 at -15, falling short of her 23rd LPGA title.\n\nYamashita goes wire-to-wire in Cincinnati. A brilliant performance. #LPGA #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#Golf"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-yamashita-wins-lpga-queen-city.html",
+        "headline": "Moka Yamashita Wins Kroger Queen City Championship at -17; Korda Finishes T5",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
