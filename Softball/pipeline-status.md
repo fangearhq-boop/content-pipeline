@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-16
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 4 char violations fixed S1/S2/S4/S5 via rewrite; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest, articles (5), fact-check (103 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 23 items), dashboard (23 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 4 char violations fixed before compile. S6 no image concept — Tier 3 social-only by design.
+- **Key Stories**: Stetson 8-3 upset of No. 9 FSU/Tallahassee Regional/biggest Day 1 upset (Tier 1), Nebraska 4-1 comeback over South Dakota/Cinderella ends/Frahm-Coor-Hoffmann (Tier 2), Virginia Tech 6-0 South Alabama/Aldridge grand slam/VT vs LSU Saturday 1 PM (Tier 2), Alabama 8-0 USC Upstate/freshman Pallozzi complete game/Briski held in reserve (Tier 2), Oklahoma 11-0 Binghamton 4 HRs/Kansas 1-0 Michigan 8 inn walk-off Wallace (Tier 2), UCLA 12-11 CBU thriller/Texas 9-1/Day 1 roundup (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-15
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 4 char violations fixed S2/S3/S5/S6 via reformat; also reformatted to #### Text Post heading style; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest, articles (5), fact-check (78 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 23 items), dashboard (23 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/

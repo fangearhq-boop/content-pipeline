@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 16, 2026
+
+### Story 1: Stetson Shocks No. 9 Florida State 8-3 — Biggest Upset of Day 1
+- **Angle:** NEW STORY. Stetson 8, Florida State 3 in Tallahassee Regional opener. Hayley Arnold (11-3) earned the win; Stetson had 12 hits including 2 HRs. FSU (49-9), No. 9 national seed, dropped to elimination bracket. Faces Jacksonville State Saturday at 2:30 PM must-win. UCF 2, Jacksonville State 1 (8 inn) in other opener. FSU hosting 12th straight regional.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** FSU elimination game result vs Jacksonville State; Stetson vs UCF winners' bracket; Tallahassee Regional Sunday final
+
+### Story 2: Nebraska Rallies Past South Dakota 4-1 — Cinderella Run Ends
+- **Angle:** FOLLOW UP (South Dakota debut covered May 15). Nebraska came from behind 1-0 deficit. Jordy Frahm doubled, Hannah Coor tripled to tie, Hannah Camenzind doubled for lead, Kacie Hoffmann doubled in two more in 6th. Final: 4-1. Freshman Alexis Jensen (now 23-2) went 5 innings, 2 hits. South Dakota (first-ever NCAA Tournament, 20-34-1) exits at 0-1.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Lincoln Regional Day 2 — Nebraska vs next opponent; South Dakota program future after historic first-ever appearance
+
+### Story 3: Virginia Tech 6, South Alabama 0 — VT vs LSU Set for Saturday
+- **Angle:** FOLLOW UP (VT Baton Rouge Regional covered May 13-15). Kylie Aldridge two-out grand slam in 3rd broke scoreless tie. VT shutout 6-0. LSU beat Akron 8-0 (Heavener 11 K). VT vs LSU Saturday 1 PM — the top regional upset pick vs host.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** VT vs LSU result Saturday; Baton Rouge Regional Sunday
+
+### Story 4: Alabama 8-0 Over USC Upstate; Freshman Pallozzi Shines
+- **Angle:** FOLLOW UP (Alabama covered May 13-15). Alabama run-ruled USC Upstate 8-0 in 5 inn. Freshman Kaitlyn Pallozzi complete-game shutout (4 hits). Ace Jocelyn Briski held in reserve. Belmont upset SLU 2-0. Alabama vs Belmont Saturday 2 PM.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Alabama vs Belmont result Saturday; Tuscaloosa Regional Sunday
+
+### Story 5: Oklahoma 11-0 Over Binghamton; Kansas Upsets Michigan 1-0 in 8
+- **Angle:** FOLLOW UP (Oklahoma/Norman Regional covered May 13-15). Oklahoma blasted Binghamton 11-0 in 5 inn with 4 HRs. Kansas stunned Michigan 1-0 in 8 inn — Ava Wallace walk-off, Lila Partridge 8 scoreless innings. Oklahoma vs Kansas Saturday 3 PM.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Oklahoma vs Kansas result Saturday; Norman Regional Sunday
+
+### Story 6: UCLA 12-11 Thriller; Texas Rolls; Day 1 Round-Up
+- **Angle:** NEW STORY (round-up). UCLA survived Cal Baptist 12-11 (CBU scored 10 in the 5th inning). Texas beat Wagner 9-1. Wisconsin upset Baylor 2-1 in 9 innings. South Florida beat No. 7 Washington 3-1 (four 7th-inning singles).
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** L.A. Regional Day 2 — UCLA vs South Carolina; Austin Regional Day 2 — Texas vs Wisconsin
+
+---
+
 ## May 15, 2026
 
 ### Story 1: WCWS Road Opens — Day 1 of 2026 NCAA Regionals
