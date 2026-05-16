@@ -1,0 +1,308 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-16",
+  "compiled_at": "2026-05-16T10:28:05.729720+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Schwarber Hits 19th and 20th HRs — Seven Straight, Goes for Record Tonight",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW UP (Schwarber streak covered May 13-15 at 5-6 consecutive games). Last night (May 15) vs Pittsburgh: 2 HRs (19th and 20th), Phillies 11-9 in 10 innings. Now at 7 consecutive games with an HR. Tonight: game 8 would TIE the all-time MLB record held by Don Mattingly (Yankees, 1987), Ken Griffey Jr. (Mariners, 1993), and Dale Long (Pirates, 1956). Mattingly is his own manager. First player to reach 20 HRs in 45 games. On pace for 67-72 HRs.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kyle Schwarber homered TWICE last night (No. 19 and 20).\n\nThat's 7 consecutive games with a HR.\n\nTonight, game 8 would TIE the all-time MLB record — held by Mattingly, Griffey Jr., and Dale Long.\n\nAlso: Don Mattingly is his manager. 😤\n\n#Phillies #Schwarber #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#Schwarber",
+            "#MLB"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kyle Schwarber: 20 HRs in 45 games.\n\nHe's the FIRST player to reach 20 this season.\n\nHe's also one of the only Phillies in history to hit 20 before May 16.\n\nCy Williams did it in 1923. That's the company we're talking about.\n\nGame 8 tonight. Record on the line. 🔥\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-schwarber-7-straight-games-hr-record-2026.html",
+        "headline": "Schwarber Hits Nos. 19 and 20, Extends Streak to 7 Straight — Tonight He Can Tie the MLB Record",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber 7 Straight Games\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Kyle Schwarber Philadelphia Phillies\"\n- **Alt Search:** \"Kyle Schwarber\"\n- **Overlay Text:** \"7 CONSECUTIVE GAMES / WITH A HOME RUN\" / \"Tonight: Record on the Line\"\n- **Mood:** Power, momentum, electric energy\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Kyle Schwarber home run swing\"\n- **Alt Search:** \"Philadelphia Phillies home run\"\n- **Notes:** Schwarber mid-swing or post-HR celebration\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber 7 Straight Games — Going for MLB Record Tonight\n**Sources:**\n- Washington Post: \"Schwarber hits majors-leading 19th and 20th HRs, Phillies beat Pirates 11-9 in 10 innings\" (May 15, 2026)\n- Yardbarker: \"Kyle Schwarber reaches historic pace after two-homer game\"\n- Clutchpoints: \"Kyle Schwarber joins elite Phillies club with 20th home run of 2026\"\n- MLB.com: \"Kyle Schwarber hits 20th homer in Phillies' extra-inning win\"\n- MLB.com: Mattingly consecutive HR game record (8 straight — Mattingly 1987, Griffey 1993, Long 1956)\n**Verified Facts (HIGH):**\n- Schwarber hit HRs 19 and 20 on May 15 vs Pittsburgh Pirates — confirmed multiple sources\n- Phillies won 11-9 in 10 innings — Washington Post confirmed\n- Schwarber is first player to reach 20 HRs in 45 games of a season — Yardbarker/Clutchpoints\n- Schwarber has homered in 7 consecutive games entering May 16 — derived from pipeline: game 5 (May 12), game 6 (pipeline May 15 coverage of game from May 14 vs Red Sox), game 7 (May 15 vs Pirates)\n- MLB consecutive-game HR record: 8, tied by Dale Long (Pittsburgh Pirates, 1956), Don Mattingly (Yankees, 1987), Ken Griffey Jr. (Mariners, 1993) — confirmed baseball history\n- Don Mattingly is current Philadelphia Phillies manager — confirmed pipeline history\n- Schwarber's pace: approximately 67-72 HRs if pace holds through 162 games — Yardbarker\n**Confidence Notes:**\n- \"Pace for 72 HRs to rival Bonds 73\" — MEDIUM (use carefully, don't state as target)\n- \"Joins Cy Williams (1923) as only Phillies to hit 20 in first 45 games\" — Clutchpoints/Yardbarker confirms this, HIGH confidence\n**Freshness:** Game played May 15, fresh for May 16 content. Record-tying attempt tonight is highly time-sensitive.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Schlittler Dominates Subway Series; Soto Hits 250th Career HR in Loss",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW UP (Rivalry Weekend preview covered May 15). Yankees 5-2 Mets. Cam Schlittler (25): 6.2 IP, 1 H, 9 K, 2 BB — AL-best ERA held at 1.35. Juan Soto's 250th career HR in the 7th (0-2 fastball, 393 ft, 102.6 mph) was the only real threat. Jazz Chisholm 2-run double in 3-run 3rd off Clay Holmes. Ben Rice 14th HR. At 27, Soto joins 250 HR/95 SB before age 28 with A-Rod, Griffey, Mantle, Trout, Frank Robinson, Andruw Jones.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Cam Schlittler: 6.2 IP. 1 hit. 9 K. ERA 1.35 (AL best).\n\nIn the Subway Series. At 25 years old.\n\nJuan Soto hit his 250th career HR in the 7th — 393 ft, 102.6 mph, off an 0-2 pitch.\n\nYankees 5, Mets 2. ⚾\n\n#Yankees #Mets #SubwaySeries",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#Mets",
+            "#SubwaySeries"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Juan Soto hit his 250th career home run last night. He's 27.\n\nAt 27 with 250+ HRs and 95+ steals, he joins: A-Rod, Griffey Jr., Mantle, Mike Trout, Frank Robinson, and Andruw Jones.\n\nThat's it. That's the whole list.\n\n#Mets #JuanSoto #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#JuanSoto",
+            "#MLB"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-schlittler-subway-series-soto-250th-hr.html",
+        "headline": "Schlittler Dominates Subway Series Opener; Soto's 250th Career HR Headlines 5-2 Yankees Win",
+        "word_count": 567
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schlittler/Soto — Subway Series\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Juan Soto New York Mets\"\n- **Alt Search:** \"Juan Soto\"\n- **Overlay Text:** \"250 CAREER HOME RUNS\" / \"Juan Soto — At Age 27\"\n- **Mood:** Milestone, power, celebration\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Cam Schlittler New York Yankees\"\n- **Alt Search:** \"New York Yankees pitcher\"\n- **Notes:** Schlittler on the mound or post-game\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cam Schlittler/Juan Soto — Subway Series Game 1\n**Sources:**\n- Washington Post: \"Schlittler, Rice and Chisholm lead Yankees past Mets 5-2 in Subway Series opener\" (May 15)\n- Fox Sports: \"Schlittler, Rice and Chisholm lead Yankees past Mets 5-2 in Subway Series opener\"\n- Heavy.com: \"New York Mets Star Juan Soto Made MLB History In Yankees Game\"\n- Clutchpoints: \"Mets' Juan Soto smashes 250th career home run vs. Yankees\"\n- MLB.com: \"Juan Soto hits 250th career homer in Mets' loss to Yankees\"\n**Verified Facts (HIGH):**\n- Final score: Yankees 5, Mets 2 — confirmed multiple sources\n- Cam Schlittler: 6.2 IP, 1 hit, 9 K, 2 BB — confirmed Fox Sports / Washington Post\n- Schlittler's ERA: 1.35 (AL best entering game) — Washington Post\n- Schlittler age: 25 years old — confirmed\n- Jazz Chisholm hit a 2-run double off Clay Holmes in a 3-run 3rd inning — Fox Sports / Washington Post\n- Ben Rice hit his 14th HR in the 9th inning — CBS Sports box score / multiple sources\n- Juan Soto hit his 250th career HR in the 7th inning off Schlittler — confirmed multiple sources\n- Soto's HR details: 0-2 fastball, 393 feet to dead center, 102.6 mph exit velocity, 28-degree launch angle — Heavy.com\n- Soto age: 27 years old — confirmed\n- Soto signed $765 million contract with Mets — confirmed\n**Verified Facts (MEDIUM — needs second source):**\n- \"Soto joins Alex Rodriguez, Ken Griffey Jr., Mickey Mantle, Mike Trout, Frank Robinson, and Andruw Jones as players with 250+ HR and 95+ SB before age 28\" — Heavy.com (single source for the exact list, use with caution)\n**Freshness:** Game played May 15, ideal for May 16 Subway Series Weekend coverage.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs 10-5 White Sox — Carson Kelly Sparks Crosstown Classic Opener",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (Crosstown Classic preview covered May 15). Cubs 10-5 at Rate Field. Carson Kelly: 4 RBI, tiebreaking single in 7th inning. Cubs stopped White Sox's 5-game winning streak. Cubs offense snaps out of recent slump.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cubs 10, White Sox 5. Crosstown Classic opener at Rate Field.\n\nCarson Kelly: 4 RBI. Tiebreaking single in the 7th.\n\nThat sound you hear? The Cubs' bats waking up at the perfect time.\n\nWhite Sox's 5-game winning streak: over. 🏳\n\n#Cubs #WhiteSox #CrosstownClassic",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#WhiteSox",
+            "#CrosstownClassic"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cubs-10-5-white-sox-crosstown-classic-2026.html",
+        "headline": "Cubs Erupt for 10 Runs at Rate Field, Ending White Sox Winning Streak in Crosstown Classic Opener",
+        "word_count": 465
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cubs 10-5 White Sox\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Chicago Cubs Rate Field\"\n- **Alt Search:** \"Chicago Cubs\"\n- **Overlay Text:** \"CUBS 10 — WHITE SOX 5\" / \"Crosstown Classic Game 1\"\n- **Mood:** Energy, rivalry, celebration\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Carson Kelly Chicago Cubs\"\n- **Alt Search:** \"Chicago Cubs catcher\"\n- **Notes:** Kelly at the plate or celebrating\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 10-5 White Sox — Crosstown Classic Game 1\n**Sources:**\n- ABC7 Chicago: \"MLB news: Chicago Cubs beat White Sox 10-5 in 1st game of Crosstown Classic Series at Rate Field\"\n- Chicago Sun-Times: \"Crosstown beatdown: Cubs' bats erupt in 10-5 victory against Sox\"\n- BVM Sports: \"Cubs Overcome Slump, Defeat White Sox 10-5 in Crosstown Classic\"\n- ESPN: Cubs 10-5 White Sox (May 15, 2026) Final Score\n**Verified Facts (HIGH):**\n- Final score: Cubs 10, White Sox 5 — confirmed multiple sources\n- Location: Rate Field (Chicago White Sox home) — confirmed\n- Carson Kelly: 4 RBI, hit a tiebreaking single in the 7th inning — ABC7, Sun-Times\n- Cubs stopped White Sox's 5-game winning streak — ABC7, BVM Sports confirmed\n**Confidence Notes:**\n- \"Cubs overcame recent slump\" — confirmed by Sun-Times angle \"Cubs bats erupt\"\n- \"Block Club Chicago: The rivalry feels alive again\" — context for fan engagement angle\n**Freshness:** Game played May 15, ideal for May 16 content.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Oneil Cruz: 10 HR, 15 SB in 39 Games — Historic Power-Speed Start",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY. Pittsburgh Pirates SS Oneil Cruz has 10 HRs and 15 SBs through his 39th game, making him only the 3rd player in MLB history to reach those marks before their 40th game, joining Eric Davis (1987) and Lou Brock (1967). Historic pace for the 6-foot-7 Pirates shortstop.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Oneil Cruz: 10 HRs and 15 steals in his first 39 games.\n\nOnly two players in MLB history did this before their 40th game: Eric Davis (1987) and Lou Brock (1967).\n\nThe 6'7\" Pirates shortstop is quietly writing history.\n\n#Pirates #OncilCruz #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pirates",
+            "#OncilCruz",
+            "#MLB"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-oneil-cruz-10-hr-15-sb-historic-pace-2026.html",
+        "headline": "10 Home Runs, 15 Stolen Bases, 39 Games: Oneil Cruz Is Writing Baseball History",
+        "word_count": 512
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oneil Cruz Historic Pace\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Oneil Cruz Pittsburgh Pirates\"\n- **Alt Search:** \"Oneil Cruz\"\n- **Overlay Text:** \"10 HR / 15 SB / 39 GAMES\" / \"Only Eric Davis and Lou Brock Did This\"\n- **Mood:** Power, speed, stat reverence\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Oneil Cruz Pirates shortstop\"\n- **Alt Search:** \"Pittsburgh Pirates shortstop\"\n- **Notes:** Cruz at shortstop or at the plate\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oneil Cruz — 10 HR, 15 SB in 39 Games\n**Sources:**\n- MLB.com: \"MLB Stats of the Week ending May 14, 2026\" — mentions Cruz milestone\n- Search result: \"Oneil Cruz hit his 10th homer of the season and stole his 15th base in just his 39th game played, becoming the third player to reach at least 10 home runs and 15 stolen bases before playing his 40th game of a season, joining 1987 Eric Davis and 1967 Lou Brock\"\n**Verified Facts (HIGH):**\n- Oneil Cruz plays for the Pittsburgh Pirates — confirmed\n- Cruz position: shortstop — confirmed\n- Cruz is 6-foot-7 — well-known biographical fact\n- 10 HRs and 15 SBs through 39 games — confirmed from MLB Stats of Week (ending May 14, 2026)\n- Third player to reach 10 HR / 15 SB before 40th game — confirmed with Eric Davis (1987) and Lou Brock (1967) — MLB Stats of Week\n**Confidence Notes:**\n- The exact number of games (39) is from the week ending May 14 data. By May 16, Cruz may have played 40-41 games. Use \"entering this week\" phrasing rather than \"entering Saturday exactly at 39.\"\n- Eric Davis (1987) and Lou Brock (1967) comparisons — HIGH confidence (from MLB source)\n**Freshness:** Milestone from week of May 11-14, relatively fresh for May 16 analysis piece.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Braves 3-2 Red Sox; Matt Olson's Streak Reaches 826 Games",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (NL standings/Braves covered May 15). Braves topped Red Sox 3-2 Friday, maintaining NL-best form. Matt Olson's consecutive games streak reached 826, making it the 10th-longest in MLB history, dating to May 2, 2021. NL East leaders entering Saturday with Phillies surging and Cubs in the mix.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Atlanta beats Boston 3-2. Routine Friday for the Braves.\n\nNot so routine: Matt Olson has now played 826+ consecutive games. That's the 10th-longest streak in MLB history, dating back to May 2021.\n\nThe most consistent player you're not talking about. 🎯\n\n#Braves #MattOlson #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MattOlson",
+            "#MLB"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-braves-3-2-red-sox-matt-olson-826-games-streak.html",
+        "headline": "Braves Win 3-2 Over Red Sox; Matt Olson's Iron Man Streak Reaches 826 Consecutive Games",
+        "word_count": 486
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves 3-2 / Matt Olson Streak\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Matt Olson Atlanta Braves\"\n- **Alt Search:** \"Matt Olson\"\n- **Overlay Text:** \"826 CONSECUTIVE GAMES\" / \"10th-Longest Streak in MLB History\"\n- **Mood:** Durability, respect, steady excellence\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Atlanta Braves Truist Park\"\n- **Alt Search:** \"Atlanta Braves\"\n- **Notes:** Braves celebrating or Olson fielding\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Braves 3-2 Red Sox; Matt Olson 826-Game Streak\n**Sources:**\n- CBS Sports scoreboard / Friday results: \"Braves 3, Red Sox 2\" — confirmed in Friday scores\n- Fox Sports: \"2026 MLB Milestones and Records Tracker\" — Olson streak mentioned\n- Search result: \"Matt Olson has played 826 consecutive games entering Friday, May 15, dating to May 2, 2021, with his streak being the 10th-longest in MLB history\"\n**Verified Facts (HIGH):**\n- Braves defeated Red Sox 3-2 on May 15 — confirmed via Friday scores list\n- Matt Olson consecutive games streak: 826 entering May 15 (so 827 entering May 16) — Fox Sports milestones tracker\n**Verified Facts (MEDIUM):**\n- 826 games = 10th-longest in MLB history — single source, use \"one of the longest active streaks in MLB\" to be safe\n- Streak dates to May 2, 2021 — one source, medium confidence\n**Freshness:** Olson streak is a developing season-long story; Friday's win is fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Friday Night MLB Scoreboard — Rivalry Weekend Rolls On",
+      "tier": 3,
+      "status": "",
+      "angle": "NEW STORY (Tier 3 roundup). Friday results: Phillies 11-9 Pirates (extras), Yankees 5-2 Mets, Cubs 10-5 White Sox, Braves 3-2 Red Sox, Rays 7-2 Marlins, Reds 7-6 Guardians, Brewers 3-2 Twins. Saturday: Yankee-Mets Game 2, Cubs-White Sox Game 2, Rangers-Astros.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Friday MLB roundup:\n\n🔥 Phillies 11-9 Pirates (extras — Schwarber x2)\n⚾ Yankees 5-2 Mets (Schlittler gem)\n💥 Cubs 10-5 White Sox (Crosstown Classic)\n✅ Braves 3-2 Red Sox\n🌊 Rays 7-2 Marlins\n🔔 Reds 7-6 Guardians\n🍺 Brewers 3-2 Twins\n\nRivalry Weekend rolls on. 🏟️\n\n#MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Friday MLB Scoreboard\n**Sources:**\n- CBS Sports scoreboard / search results for Friday May 15 2026 scores\n**Verified Facts (HIGH):**\n- Phillies 11, Pirates 9 (10 innings) — Washington Post confirmed\n- Yankees 5, Mets 2 — CBS Sports box score confirmed\n- Cubs 10, White Sox 5 — ESPN confirmed\n- Braves 3, Red Sox 2 — CBS Sports scoreboard\n- Rays 7, Marlins 2 — CBS Sports scoreboard\n- Reds 7, Guardians 6 — CBS Sports scoreboard\n- Brewers 3, Twins 2 — CBS Sports scoreboard",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

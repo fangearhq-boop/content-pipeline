@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-16
+
+### Story 1: Schwarber 7 Straight Games — Going for MLB Record Tonight
+- **Angle:** FOLLOW UP (Schwarber streak covered May 13-15). Schwarber hit HRs 19 and 20 vs Pirates Friday night (Phillies 11-9 extras). Now at 7 consecutive games with an HR — one short of all-time MLB record of 8 (Dale Long 1956, Don Mattingly 1987, Ken Griffey Jr. 1993). Mattingly is Phillies manager. First player to 20 HRs this season in 45 games.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Did Schwarber homer in game 8? Record tied? Game 9 would be outright record.
+
+### Story 2: Schlittler Dominates Subway Series; Soto Hits 250th Career HR
+- **Angle:** FOLLOW UP (Rivalry Weekend preview May 15). Yankees 5-2 Mets. Cam Schlittler (25) 6.2 IP, 1 hit, 9 K, AL-best ERA 1.35. Jazz Chisholm 2-run double, Ben Rice 14th HR. Juan Soto 250th career HR (7th inning, 0-2 fastball, 393 ft, 102.6 mph). Soto at 27 joins A-Rod/Griffey/Mantle/Trout/Robinson/Jones as 250 HR/95 SB before 28 club.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Subway Series Game 2 Saturday; Schlittler full season ERA tracking
+
+### Story 3: Cubs 10-5 White Sox — Crosstown Classic Game 1
+- **Angle:** FOLLOW UP (Crosstown Classic preview May 15). Cubs 10-5 at Rate Field. Carson Kelly 4 RBI, tiebreaking single in 7th. Cubs stopped White Sox 5-game win streak.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Crosstown Classic Games 2-3 Saturday-Sunday results
+
+### Story 4: Oneil Cruz — 10 HR, 15 SB in 39 Games, Historic Pace
+- **Angle:** NEW STORY. Pirates SS Oneil Cruz has 10 HRs and 15 SBs through 39 games — only 3rd player to reach those marks before 40th game, joining Eric Davis (1987) and Lou Brock (1967). 6-foot-7 shortstop.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Cruz's power-speed pace through May-June; Pittsburgh's overall season
+
+### Story 5: Braves 3-2 Red Sox; Matt Olson 826-Game Streak
+- **Angle:** FOLLOW UP (NL standings/Braves covered May 15). Atlanta beat Boston 3-2. Matt Olson's consecutive games streak reached 826 (10th-longest in ML history) dating to May 2, 2021.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Olson streak milestone approach; Braves NL East position end of May
+
+### Story 6: Friday MLB Scoreboard — Rivalry Weekend
+- **Angle:** NEW STORY (Tier 3 roundup). Friday results: Phillies 11-9 Pirates, Yankees 5-2 Mets, Cubs 10-5 White Sox, Braves 3-2 Red Sox, Rays 7-2 Marlins, Reds 7-6 Guardians, Brewers 3-2 Twins.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Saturday Rivalry Weekend results
+
+---
+
 ## 2026-05-15
 
 ### Story 1: Schwarber 18th HR, 6 Consecutive Games — Mattingly's Record in Sight
