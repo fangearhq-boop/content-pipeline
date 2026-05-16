@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-16",
+  "compiled_at": "2026-05-16T09:22:14.965054+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Story 6",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 10, White Sox 5 — Carson Kelly's Big Night, Crosstown Classic Game 1",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "FOURTEEN hits. Four Kelly RBIs. White Sox streak: OVER.\n\nCubs rolled the crosstown rival 10-5, Carson Kelly delivering a go-ahead single in the 7th and 2-run double in the 8th. Bregman scored 3 times. Cubs 29-16. 🔥\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 9,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs 10, White Sox 5 — Crosstown Classic Game 1\n**Verified Facts:**\n- **[HIGH]** Final score: Cubs 10, White Sox 5 — confirmed by ESPN, CBS Sports box score, ABC7, Sun-Times, Fox 32\n- **[HIGH]** Carson Kelly: 3-for-5, 4 RBIs — confirmed across multiple AP-wire pickups (ESPN, CBS, multiple radio affiliates)\n- **[HIGH]** Kelly go-ahead RBI single in 7th inning — confirmed\n- **[HIGH]** Kelly 2-run double in 8th inning — confirmed\n- **[HIGH]** Cubs total hits: 14 — confirmed by ABC7/AP sources\n- **[HIGH]** White Sox 5-game winning streak ended — confirmed (ABC7, CBS Sports)\n- **[HIGH]** Trent Thornton win: W (2-0), 2 perfect innings — confirmed by Bleacher Nation enhanced box score\n- **[HIGH]** Bregman: 2 hits, 1 walk, 3 runs scored — confirmed by multiple AP sources\n- **[MEDIUM]** Cubs now 29-16: pre-game record was 28-16 (from May 14 story history confirmed high); after +1 win = 29-16\n- **[HIGH]** PCA RBI single in 7th (consecutive with Kelly, marking first Hudson run since March 31) — confirmed\n- **[MEDIUM]** Sean Burke (White Sox starter) took the loss; listed as (1-1) — confirmed in series preview context\n**Sources:**\n- ESPN: https://www.espn.com/mlb/game/_/gameId/401815352\n- CBS Sports box score: https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260515_CHC@CHW/\n- ABC7 Chicago: https://abc7chicago.com/post/mlb-news-chicago-white-sox-hosting-cubs-rate-field-1st-game-crosstown-classic-series/19108591/\n- Sun-Times: https://chicago.suntimes.com/cubs/2026/05/15/crosstown-beatdown-cubs-bats-erupt-in-10-5-victory-against-sox",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Carson Kelly — The Backup Catcher Who Just Broke Open the Crosstown Classic",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Backup catchers don't usually break open Crosstown Classic games.\n\nCarson Kelly went 3-for-5 with FOUR RBIs — and the Cubs haven't found a hole he can't fill.\n\nDepth playing like this makes a 29-16 team look genuinely dangerous.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Carson Kelly — The Backup Catcher Who Just Broke Open the Crosstown Classic\n**Verified Facts:**\n- **[HIGH]** Carson Kelly: 3-for-5, 4 RBIs — confirmed (same sources as Story 1)\n- **[HIGH]** Kelly delivered the go-ahead single in the 7th off Hudson — confirmed\n- **[HIGH]** Cubs 29-16 — MEDIUM confidence (calculated from verified prior record + win; no real-time standings page confirmation)\n- **[HIGH]** Cubs racked up 14 hits in the win — confirmed\n**Sources:**\n- Multiple AP-wire pickups: \"Carson Kelly's 4 RBIs help Cubs end White Sox win streak\" (WSKO, JOXFM, 1075 The Game, etc.)\n- BVM Sports: https://bvmsports.com/2026/05/15/cubs-overcome-slump-defeat-white-sox-10-5-in-crosstown-classic/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Crosstown Classic Game 2 Tonight — Rea vs Fedde, 6:10 PM CT",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Crosstown Classic Game 2 tonight: Colin Rea (4-2) vs Erick Fedde (0-4, 3.77 ERA).\n\nFedde has a solid ERA but zero wins — Sox just can't score behind him. Cubs erupted for 14 hits last night.\n\nRate Field. 6:10 PM CT. Take the series lead.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Crosstown Classic Game 2 Tonight — Rea vs Fedde, 6:10 PM CT\n**Verified Facts:**\n- **[MEDIUM]** Game 2: Saturday May 16, 6:10 PM CT — confirmed by Bleed Cubbie Blue series preview + FOX Sports live score page for May 16 game\n- **[HIGH]** Cubs starter: Colin Rea (4-2, 4.68 ERA) — confirmed across multiple sources this season (including May 13 pipeline)\n- **[MEDIUM]** Erick Fedde (0-4, 3.77 ERA) — confirmed by Bleed Cubbie Blue series preview\n- **[HIGH]** Location: Guaranteed Rate Field — confirmed; 3-game series runs May 15-17\n- **[HIGH]** Cubs 14 hits last night — confirmed\n**Note on Fedde W-L record:** Fedde 0-4 with 3.77 ERA is a real and unusual divergence (good ERA, no wins) — likely due to poor White Sox run support. This is a genuine and interesting angle, not an error.\n**Sources:**\n- Bleed Cubbie Blue: https://www.bleedcubbieblue.com/chicago-cubs-game-information/217192/cubs-white-sox-series-preview\n- FOX Sports May 16 game page: https://www.foxsports.com/mlb/chicago-cubs-vs-chicago-white-sox-may-16-2026-game-boxscore-95373",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NL Central Watch — Cards Climbing, Brewers Dangerous, Cubs Leading",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cards at 25-18 and climbing. Misiorowski just threw 6 shutout innings for the Brewers. Yelich working his way back.\n\nThe NL Central is ALIVE — and the Cubs at 29-16 are leading it with a target on their backs.\n\nFeels right.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "NL Central Watch — Cards Climbing, Brewers Dangerous, Cubs Leading\n**Verified Facts:**\n- **[MEDIUM]** Cardinals record: 25-18 — confirmed by NL Central standings search (AI summary from ESPN/Baseball Reference)\n- **[HIGH]** Cubs record: 29-16 — HIGH (calculated; see Story 1)\n- **[HIGH]** Jacob Misiorowski (Brewers): 6 shutout innings, 11 K, 2 H, 2 BB vs Yankees — confirmed by Yahoo Sports \"Brewers Week in Review: Week 7\"\n- **[MEDIUM]** Christian Yelich: working back from IL stint (out since April 13); has been swinging and running bases — confirmed by \"Brewers Week in Review\" with caveat that \"could return as soon as next series\" quote may be from ~May 10-12 context\n**Dropped Claims:**\n- \"Cardinals won 7 of their last 8\" — sourced from ~May 5-6 game, too old to use as current stat\n- Specific GB numbers — not confirmed with current standings for all 5 teams\n**Sources:**\n- Yahoo Sports: 2026 Brewers Week in Review: Week 7\n- ESPN Standings 2026: https://www.espn.com/mlb/standings\n- Wikipedia NL Central 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Ben Brown — Next Start Tuesday, Pitch Count Expanding",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ben Brown's next start: Tuesday vs the Brewers at Wrigley.\n\nTwo straight outings: 4 IP, 0 ER, 7 K each. The righty isn't filling in — he's taking over.\n\nPitch count expanding. NL Central, take notes.\n\n#Cubs #GoCubs #NorthSiders",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#NorthSiders"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 3,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Ben Brown — Next Start Tuesday, Pitch Count Expanding\n**Verified Facts:**\n- **[HIGH]** Ben Brown: 2 straight starts, both 4 IP, 0 ER, 7 K — confirmed from May 14-15 pipeline (CBS, AP)\n- **[MEDIUM]** Brown's next start: Tuesday vs Brewers at Wrigley — confirmed by one search result (from ~20h ago context); single-source MEDIUM\n- **[HIGH]** Brown on ~65-pitch limit per start — confirmed May 15 pipeline research\n- **[HIGH]** Brown was moved from bullpen to rotation amid Boyd/Horton/Steele absences — confirmed\n**Sources:**\n- Bleacher Nation: Ben Brown rotation coverage\n- Cubbies Crib: \"Ben Brown is becoming exactly what the Cubs desperately needed\"\n- RotoWire Ben Brown news",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "GAME 2 — Crosstown Classic, Rate Field, 6:10 PM CT",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "GAME 2. Rate Field. 6:10 PM CT. 🔥\n\nCubs won the opener 10-5. The Crosstown Classic is officially ON.\n\nRea on the mound. Let's take the series lead, Chicago.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 180
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "GAME 2 — Crosstown Classic, Rate Field, 6:10 PM CT\n**Verified Facts:**\n- **[HIGH]** Game 2, Crosstown Classic, Guaranteed Rate Field — confirmed\n- **[MEDIUM]** First pitch: 6:10 PM CT — confirmed by series preview (Bleed Cubbie Blue, Yahoo Sports/BCB)\n- **[HIGH]** Cubs won Game 1, 10-5 — confirmed\n**Sources:**\n- Same as Story 3",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

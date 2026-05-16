@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-16
+
+### STORY 1: Cubs 10, White Sox 5 — Crosstown Classic Game 1
+- **Angle:** NEW STORY. Carson Kelly 3-for-5, 4 RBIs (go-ahead single in 7th, 2-run double in 8th). Bregman 2H/3R. PCA RBI single. Cubs 14-hit attack snapped White Sox's 5-game winning streak. Trent Thornton W (2-0), 2 perfect IP. Cubs improve to 29-16.
+- **Content Produced:** X (1 post — 7:00 AM CT)
+- **Follow-Up:** Game 2 result tonight; series outcome; Rea's line vs Fedde
+
+### STORY 2: Carson Kelly — The Backup Catcher Who Just Broke Open the Crosstown Classic
+- **Angle:** FOLLOW-UP (bold take on depth performance). Kelly 3-for-5, 4 RBIs in Game 1. Backup catcher producing at a high level, adding to Cubs' offensive depth story.
+- **Content Produced:** X (1 post — 8:15 AM CT)
+- **Follow-Up:** Kelly's offensive arc through May; how long Cubs can rely on depth production
+
+### STORY 3: Crosstown Classic Game 2 Tonight — Rea vs Fedde, 6:10 PM CT
+- **Angle:** NEW STORY (game preview). Colin Rea (4-2, 4.68 ERA) vs Erick Fedde (0-4, 3.77 ERA) at Rate Field. Fedde's zero wins despite solid ERA is the analytical hook — White Sox run support failing him.
+- **Content Produced:** X (1 post — 12:00 PM CT)
+- **Follow-Up:** Game 2 result; Rea's performance; series status going into Sunday
+
+### STORY 4: NL Central Watch — Cards Climbing, Brewers Dangerous, Cubs Leading
+- **Angle:** FOLLOW-UP (rival watch). Cardinals at 25-18. Brewers' Misiorowski threw 6 shutout innings/11 K vs Yankees. Yelich working back. Cubs at 29-16 lead the NL Central with a target on their backs.
+- **Content Produced:** X (1 post — 2:30 PM CT)
+- **Follow-Up:** Cardinals/Brewers records weekly; Yelich activation; Misiorowski continued development
+
+### STORY 5: Ben Brown — Next Start Tuesday, Pitch Count Expanding
+- **Angle:** FOLLOW-UP (rotation arc). Brown lined up Tuesday vs Brewers at Wrigley. Two straight starts: both 4 IP, 0 ER, 7 K. Pitch count building from ~65/outing.
+- **Content Produced:** X (1 post — 3:45 PM CT)
+- **Follow-Up:** Tuesday's start line; pitch count escalation; Brewers matchup result
+
+### STORY 6: GAME 2 — Crosstown Classic, Rate Field, 6:10 PM CT
+- **Angle:** TODAY (game time energy). Crosstown Classic Game 2, Rate Field, 6:10 PM CT.
+- **Content Produced:** X (1 post — 6:30 PM CT)
+- **Follow-Up:** Game 2 result for next pipeline
+
+---
+
 ## 2026-05-15
 
 ### STORY 1: Cubs 2, Braves 0 — Happ HR, Ben Brown Shines, Palencia Saves It

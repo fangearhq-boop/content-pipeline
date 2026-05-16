@@ -1,6 +1,14 @@
 # Cubs Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-16 (full pipeline run)
+- **Steps Completed**: Research (10 searches, 6 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log, compile-content-data.py, generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — separate repo not in PAT scope)
+- **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-16/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
+- **GitHub Pages Status**: N/A for this run (push rejected)
+- **Issues**: (1) Series-context API returned 403 → fallback `off_day: true` was incorrect; web research confirmed Game 2 of Crosstown Classic today at 6:10 PM CT. (2) Insights API returned 403 → tweet_count=0 fallback; brand-voice.md defaults applied. (3) publish-unified-dashboard.py push rejected 403 (same recurring issue — content-dashboards not in PAT scope). Core deliverable (07-content-data.json) compiled and pushed to content-pipeline repo for cubs-x-bot.
+- **Insights applied**: API unavailable (403/tweet_count=0). Fell through to brand-voice.md defaults. No format adjustments. 50/50 informative/bold split applied (3/3).
+
+## Previous Run
 - **Date**: 2026-05-15 (full pipeline run)
 - **Steps Completed**: Research (12 searches, 7 categories), daily brief (7 stories), research notes, story analysis, X posts (7 tweets), fact-check log, compile-content-data.py, generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — separate repo not in PAT scope)
 - **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-15/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
@@ -76,6 +84,16 @@ to mark them as pipeline-produced.
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-16
+- Stories: 6 (Tier 1: crosstown-recap; Tier 2: kelly-bold-take, game2-preview, rival-watch, game-time; Tier 3: brown-rotation) — X-only niche
+- X posts: 6 (3 informative / 3 bold-hype = 50/50 mix)
+- Char counts: all 6 under 280 (238/256/261/248/227/180)
+- Fact-check: Manual verification. Key verified (HIGH): Cubs 10-5 White Sox (5+ sources), Kelly 3-for-5 4 RBIs (AP wire multi-source), 14 hits (ABC7/AP), White Sox 5-game streak ended (multiple), Thornton W 2-0 2 perfect IP (Bleacher Nation), Bregman 2H 3R (AP), Brown 4 IP 0 ER 7 K ×2 consecutive (pipeline carryover HIGH). MEDIUM: Cubs 29-16 (calculated from 28-16 +1 win), Rea 4-2 4.68 ERA (Bleed Cubbie Blue), Fedde 0-4 3.77 ERA (BCB), 6:10 PM CT game time (BCB series preview), Cardinals 25-18 (AI summary standings), Misiorowski 6 IP 11 K vs Yankees (Yahoo Sports HIGH actually), Yelich working back (Yahoo Sports), Brown next start Tue vs Brewers (Bleacher Nation single source). Dropped: "Cardinals 7 of 8" stat (May 5 era, stale).
+- Dashboard: Generated locally (Cubs/cubs-content-2026-05-16/review-dashboard.html). Publish to content-dashboards FAILED (403 — not in PAT scope, same recurring issue).
+- 07-content-data.json: ✓ Compiled, 6 stories, 6 x_posts with posting_time in "H:MM AM/PM CT" format
+- Key stories: Cubs 10-5 White Sox Kelly 4 RBI 14 hits streak-buster (P10), Kelly backup catcher hero depth 29-16 (P8), Game 2 Rea vs Fedde 6:10 PM CT Rate Field (P9), NL Central Alive Cards 25-18 Misiorowski Yelich (P7), Ben Brown Tue vs Brewers 4-0-7 twice (P8), Game 2 hype (P5)
+- Notes: API double failure (series-context 403 returned off_day=true INCORRECT; insights 403 tweet_count=0). Web research overrode series-context fallback — Cubs playing Game 2 tonight. No performance tuning from insights (cold start). 07-content-data.json ready for cubs-x-bot.
 
 ### 2026-05-15
 - Stories: 7 (Tier 1: game-recap, crosstown-preview; Tier 2: palencia-return, brown-starter, trade-urgency, game-time; Tier 3: alcantara-prospect) — X-only niche
