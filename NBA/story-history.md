@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-16
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Pistons 115-94 Cavs G6 (May 15) — Detroit's first home loss of 2026 playoffs for Cleveland; Cade 21 pts (5-of-10 from 3); Mitchell 18 on 6-of-20; Harden 21; Duren 15/11reb/3blk; Jenkins 15; series tied 3-3; Game 7 Sunday in Detroit | 1 | NEW STORY |
+| 2 | Spurs 139-109 Wolves G6 (May 15) — Castle 32 pts/11reb/6ast (11-of-16, 5-of-7 from 3) closeout game; Fox 21/9ast; Harper 15 off bench; Wemby 19 in 27 min; Edwards 24 on 9-of-26; Spurs clinch 4-2, advance to WCF vs OKC | 1 | FOLLOW-UP |
+| 3 | Thunder-Spurs WCF preview — OKC (8-0) hosts Game 1 Monday May 18, 7:30 PM ET NBC/Peacock; SGA vs Wemby storyline | 2 | NEW STORY |
+| 4 | Cavs-Pistons Game 7 — Sunday May 17 in Detroit; winner faces Knicks in ECF starting May 19 | 2 | FOLLOW-UP |
+| 5 | Stephon Castle breakout feature — 32/11/6 in G6 closeout, second-year player; joined Wemby/Fox as Spurs' young trifecta | 2 | FOLLOW-UP |
+
+### STORY 1: Pistons 115-94 Cavaliers — Game 6, Series Tied 3-3
+- **Tier:** 1
+- **Category:** Playoff Results / Upset
+- **Key facts:** Pistons 115, Cavaliers 94 (G6, May 15, Rocket Mortgage FieldHouse). Cleveland's first home loss of 2026 playoffs. Series tied 3-3. Cade Cunningham: 21 pts, 5-of-10 from three. Donovan Mitchell: 18 pts, 6-of-20 FG, 2-of-6 3P. James Harden: 21 pts. Daniss Jenkins: 15 pts. Jalen Duren: 15 pts, 11 reb, 3 blk. Game 7: Sunday May 17, Detroit. Winner faces Knicks in ECF.
+
+### STORY 2: Spurs 139-109 Timberwolves — Game 6 Clincher, WCF Bound
+- **Tier:** 1
+- **Category:** Playoff Results / Series Clincher
+- **Key facts:** Spurs 139, Timberwolves 109 (G6, May 15). Spurs clinch series 4-2. Stephon Castle: 32 pts, 11-of-16 FG, 5-of-7 3P, 11 reb, 6 ast. De'Aaron Fox: 21 pts, 9 ast. Dylan Harper: 15 pts off bench. Victor Wembanyama: 19 pts in 27 min. Anthony Edwards: 24 pts, 9-of-26 FG. Spurs face OKC Thunder in WCF starting May 18.
+
+### STORY 3: Thunder vs. Spurs WCF Preview
+- **Tier:** 2
+- **Category:** Playoff Preview / Conference Finals
+- **Key facts:** OKC Thunder 8-0 in 2026 playoffs. Game 1: Monday May 18, 7:30 PM ET, OKC, NBC/Peacock. SGA vs. Wemby is headline matchup. Thunder swept R1 opponent and Lakers (R2 4-0, SGA 35 in clincher). Spurs coming off 30-point blowout closeout win.
+
+### STORY 4: Cavs-Pistons Game 7 Preview
+- **Tier:** 2
+- **Category:** Game Preview / Game 7
+- **Key facts:** Game 7 Sunday May 17, Detroit. Cavs were No. 1 seed in East. Detroit won 3 of 6, including blowout on road in G6. Winner faces Knicks in ECF. ECF Game 1: May 19. Knicks swept 76ers in first round.
+
+### STORY 5: Stephon Castle Breakout Feature
+- **Tier:** 2
+- **Category:** Player Feature / Playoff Performance
+- **Key facts:** Castle 32 pts, 11 reb, 6 ast on 11-of-16 (5-of-7 from 3) in G6. Second-year player. 2024 NBA Draft pick. Part of Spurs' trio with Wemby and Fox. WCF starts Monday vs OKC.
+
 ## 2026-05-10
 
 | # | Story | Tier | Tag |

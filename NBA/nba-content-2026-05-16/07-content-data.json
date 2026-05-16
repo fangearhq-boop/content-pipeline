@@ -1,0 +1,306 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-16",
+  "compiled_at": "2026-05-16T11:15:42.163638+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pistons Stun Cavs 115-94 in Game 6, Force Decisive Game 7 (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Detroit walked into Cleveland and ended the Cavs' perfect home record.\n\nPistons 115, Cavs 94. Cleveland's first home loss of the 2026 playoffs.\n\nGame 7. Sunday. In Detroit.\n\nCade 21 pts (5-of-10 from 3). Mitchell 18 on 6-of-20. #Pistons #Cavaliers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pistons",
+            "#Cavaliers"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Donovan Mitchell: 18 pts, 6-of-20 shooting at home in an elimination game.\n\nCade Cunningham: 21 pts, 5-of-10 from three in a road blowout win.\n\nGame 7. Sunday. Detroit has all the momentum. #Pistons #Cavaliers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Pistons",
+            "#Cavaliers"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pistons-stun-cavs-game-6-force-game-7.html",
+        "headline": "Pistons Stun Cavs 115-94 in Game 6, Force Decisive Game 7 in Detroit",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Spurs Blow Out Wolves 139-109, Advance to WCF Behind Castle's 32 (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "STEPHON CASTLE. 32 points. 11 rebounds. 6 assists. On 11-of-16 shooting.\n\nIn a closeout game.\n\nThe Spurs are going to the Western Conference Finals. 139-109. #Spurs #Timberwolves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Spurs",
+            "#Timberwolves"
+          ],
+          "char_count": 178
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Wemby. Fox. Castle.\n\nThe San Antonio Spurs are sending a young trifecta to the Western Conference Finals — and they are not messing around. #Spurs #GoSpursGo",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Spurs",
+            "#GoSpursGo"
+          ],
+          "char_count": 157
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-spurs-advance-wcf-castle-32-points.html",
+        "headline": "Spurs Blow Out Wolves 139-109, Advance to WCF Behind Castle's 32-Point Masterpiece",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Thunder-Spurs WCF Begins Monday — OKC's 8-0 Playoff Streak on the Line (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "OKC Thunder: 8-0 in the 2026 playoffs. The wait is over.\n\nSan Antonio Spurs come to town Monday for Game 1 of the Western Conference Finals.\n\n7:30 PM ET on NBC. #Thunder #Spurs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Thunder",
+            "#Spurs"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-thunder-spurs-wcf-preview.html",
+        "headline": "Thunder vs. Spurs Western Conference Finals Preview: SGA Meets Wemby in Monday's Game 1",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cavs-Pistons Game 7 Sunday: Winner Faces Knicks in ECF (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "No. 1 seed. Home court. First home loss of the playoffs.\n\nThe Cavaliers now must win Game 7 on the road in Detroit on Sunday.\n\nHigh stakes doesn't begin to cover it. #Cavaliers #Pistons",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cavaliers",
+            "#Pistons"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cavs-pistons-game-7-sunday-detroit.html",
+        "headline": "Cavs-Pistons Game 7 Is Set: Everything on the Line Sunday in Detroit",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Stephon Castle's Breakout — Is the Spurs' Sophomore Guard the Playoffs' Surprise Star? (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Stephon Castle scored 32 in a closeout game at 20 years old and made it look routine.\n\nKeep watching this kid. The future in San Antonio is very bright. #Spurs #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Spurs",
+            "#NBA"
+          ],
+          "char_count": 164
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-stephon-castle-breakout-spurs-star.html",
+        "headline": "Stephon Castle's 32-Point Breakout: The Spurs' Emerging Star Is Ready for the WCF",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

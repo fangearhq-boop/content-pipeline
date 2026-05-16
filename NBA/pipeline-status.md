@@ -1,8 +1,19 @@
 ## Last Run
-- **Date**: 2026-05-15
+- **Date**: 2026-05-16
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-16
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-05-16.xlsx (7 posts) + hh-postplanner-tobi-2026-05-16.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-16/review-dashboard.html (22 items)
+- **Notes:** Pistons 115-94 Cavs Game 6 (Cleveland's first home loss of 2026 playoffs, series tied 3-3, Game 7 Sunday in Detroit). Spurs 139-109 Wolves Game 6 (Castle 32/11/6, Spurs clinch 4-2, advance to WCF vs OKC). WCF Game 1: Monday May 18 at OKC, 7:30 PM ET NBC/Peacock. ECF: Knicks wait for Cavs-Pistons Game 7 winner, starts May 19.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-15
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
