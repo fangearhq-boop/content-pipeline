@@ -1,0 +1,306 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-16",
+  "compiled_at": "2026-05-16T11:23:17.327614+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Races at Nürburgring 24 Hours on F1 Off-Weekend (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Max Verstappen isn't racing in Formula 1 this weekend.\n\nHe's doing something even harder.\n\nThe Nürburgring 24 Hours started today. Verstappen's team qualified fourth. 24 hours. The Nordschleife. Let's see if he can pull it off. #Verstappen #N24H",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Verstappen",
+            "#N24H"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Verstappen at the Nürburgring 24 Hours: qualified 4th in the Mercedes-AMG GT3.\n\nNo pressure — just 24 hours around the most dangerous racetrack in the world while his F1 future is under the microscope.\n\nNo big deal. #N24H #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#N24H",
+            "#F1"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-nurburgring-24-hours-debut.html",
+        "headline": "Verstappen Makes Nürburgring 24 Hours Debut in Mercedes-AMG GT3",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Lambiase-McLaren Saga Deepens — Verstappen's Future Hangs in the Balance (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Gianpiero Lambiase — Verstappen's race engineer since 2016, the man behind all four championships — is leaving for McLaren.\n\nVerstappen has an exit clause. McLaren have the cash.\n\nThis is the biggest transfer story in F1 right now. #F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen gave Lambiase his blessing: \"The chemistry works really well. That's very rare in racing.\"\n\nZak Brown on signing Verstappen: \"Zero intention in changing our driver lineup.\"\n\nSure. We'll see. #F1 #Verstappen #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#McLaren"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-lambiase-mclaren-verstappen-future.html",
+        "headline": "Lambiase to McLaren: What Verstappen's Engineer's Departure Means for the Four-Time Champion's Future",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Kimi Antonelli Leads F1 2026 Championship — Canada Up Next (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli: 100 points. 3 wins. 3 poles.\n\nFirst driver ever to win from pole in three consecutive events.\n\nCanada is next (May 22-24). Can anyone stop him? #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 174
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-antonelli-championship-lead-canada-preview.html",
+        "headline": "Antonelli Leads F1 2026 Championship at 100 Points — Canada Is Next",
+        "word_count": 451
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Canadian Grand Prix Preview — First-Ever Sprint at Gilles-Villeneuve (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Canadian Grand Prix is ONE WEEK away.\n\nCircuit Gilles-Villeneuve. May 22-24. The first-ever sprint weekend at this legendary track.\n\nWall of Champions. Low downforce. Anything can happen. 🏎️ #F1 #CanadianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-canadian-gp-2026-preview-sprint-weekend.html",
+        "headline": "Canadian Grand Prix 2026: First-Ever Sprint Weekend at Circuit Gilles-Villeneuve",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "F1 2026 Midseason Picture — Mercedes Dominance and Ferrari's Comeback Bid (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "F1 2026 midseason standings:\n\nAntonelli — 100 pts\nRussell — 80 pts\nLeclerc — 59 pts\nNorris — 51 pts\nHamilton — 51 pts\nVerstappen — 26 pts (7th)\n\nMercedes pulling away. Ferrari scrambling. Canada next. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-2026-midseason-standings-mercedes-ferrari.html",
+        "headline": "F1 2026 Midseason Check: Mercedes Pulling Away as Ferrari Scrambles and Verstappen Struggles",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

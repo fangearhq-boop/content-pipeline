@@ -1,6 +1,19 @@
 ## Last Run
-- **Date**: 2026-05-15
+- **Date**: 2026-05-16
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-05-16
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-16.xlsx (7 posts) + f1fr-postplanner-tobi-2026-05-16.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-16/review-dashboard.html (22 items)
+- **Notes:** Verstappen Nürburgring 24 Hours debut (Mercedes-AMG GT3, qualified 4th, race started May 16). Lambiase confirmed leaving Red Bull for McLaren; Verstappen exit clause at Hungarian GP July 24-26. Antonelli leads championship 100 pts (3 wins, 3 poles), first ever 3-from-3 pole-to-win consecutive. Canada GP next (May 22-24, first-ever sprint at Gilles-Villeneuve). Mercedes constructors dominant at 180 pts.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ## Pipeline Run Log
 

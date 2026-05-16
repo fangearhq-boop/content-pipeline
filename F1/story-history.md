@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-16
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Verstappen Nürburgring 24 Hours debut — Mercedes-AMG GT3, qualified 4th, race started May 16 2 PM BST, 24-hour endurance on F1 off-weekend | 1 | NEW STORY |
+| 2 | Lambiase-McLaren saga — Verstappen's engineer since 2016 leaving for McLaren; exit clause at Hungarian GP (July 24-26); Zak Brown denies Verstappen pursuit | 1 | FOLLOW-UP |
+| 3 | Antonelli 100 pts leads championship — first driver ever 3-from-3 pole-to-win consecutive; Russell 80; Canada (May 22-24) next sprint weekend | 2 | FOLLOW-UP |
+| 4 | Canadian GP preview — first ever sprint at Gilles-Villeneuve; May 22-24; first May race; Wall of Champions; 70 laps | 2 | NEW STORY |
+| 5 | F1 2026 midseason — Mercedes dominant (180 pts combined); Ferrari lead 44→16 pts after Miami Leclerc penalty; Verstappen 7th (26 pts) | 2 | FOLLOW-UP |
+
+### STORY 1: Verstappen at Nürburgring 24 Hours
+- **Tier:** 1
+- **Category:** Off-Championship Racing / Endurance
+- **Key facts:** Verstappen debut at Nürburgring 24 Hours. Mercedes-AMG GT3. Team qualified 4th. Race started May 16 2 PM BST (ends May 17). Qualifying described as "super difficult." Nordschleife ~26 km, 100+ corners.
+
+### STORY 2: Lambiase-McLaren Saga
+- **Tier:** 1
+- **Category:** Transfer News / Team Personnel
+- **Key facts:** Lambiase confirmed leaving Red Bull for McLaren. Role disputed (Red Bull: team principal; McLaren: chief racing officer). Contract to end 2027 per Red Bull. Verstappen gave blessing; McLaren used "a lot of money." Verstappen on chemistry: "very rare in racing." Exit clause: Hungarian GP (July 24-26). Zak Brown: "Zero intention of changing driver lineup."
+
+### STORY 3: Antonelli Championship Lead
+- **Tier:** 2
+- **Category:** Championship Standings / Preview
+- **Key facts:** Antonelli (Mercedes) leads 100 pts. Russell 2nd 80 pts. First driver ever 3-from-3 pole-to-win consecutive. Youngest WDC leader in history. Canada next (May 22-24).
+
+### STORY 4: Canadian Grand Prix Preview
+- **Tier:** 2
+- **Category:** Race Preview
+- **Key facts:** May 22-24, Circuit Gilles-Villeneuve, Montreal. First ever sprint at this circuit. First time in May (traditionally June since 1982). 70 laps, 4.361 km. Wall of Champions. Low-downforce.
+
+### STORY 5: F1 2026 Midseason Standings
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Antonelli 100, Russell 80, Leclerc 59, Norris 51, Hamilton 51, Piastri 43, Verstappen 26 (7th). Mercedes 180 pts constructors. Ferrari lead dropped 44→16 pts after Miami Leclerc 20s penalty.
+
 ## 2026-05-10
 
 | # | Story | Tier | Tag |
