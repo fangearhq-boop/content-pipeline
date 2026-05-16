@@ -2,6 +2,45 @@
 
 ---
 
+## May 16, 2026
+
+### Story 1: CPSC Recall — Cosyland Children's Tower Stools (125,200 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CPSC recall May 14, 2026; 125,200 Cosyland tower stools models CS0003 and CS0092-4; sold Amazon April 2021–November 2025 ~$70; platform loosens over time → fall + entrapment hazard; 25 incidents, 8 injuries including 1 fractured arm; stop use immediately; free repair kit: 866-677-3889 / cosyland.com/pages/recall)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 125,200 units; models CS0003 and CS0092-4; Amazon Apr 2021–Nov 2025; ~$70; 866-677-3889; cosyland.com/pages/recall; Source: CPSC.gov, KIRO7, NBCWashington
+
+### Story 2: D11 Labor Dispute — 300+ Days Without Master Contract, Impact on COS Families
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D11 Board voted 7-1 June 2025 to end 50-year master agreement with CSEA; replaced with employee handbook; teachers struck October 2025; educators/parents picketed May 6, 2026 at 300+ day mark; implications for teacher retention and fall 2026; school year ends May 22)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Board voted 7-1; master agreement in place 50+ years; strike October 2025; picket May 6; 300+ days; last day May 22; Source: KRDO May 6 2026, Colorado Sun Oct 2025, FOX21
+
+### Story 3: Territory Days 2026 — 50th Anniversary, Free, Memorial Day Weekend
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (50th Annual Territory Days; May 23–25; Old Colorado City, Colorado Ave 23rd–27th St; free admission; 180+ food and craft booths; 25+ live bands; petting zoo; toy train rides; kids' play area; mechanical bull; gold panning; birds of prey; Indigenous dancers; gunfight re-enactments; blacksmith demos; parking C.A.B. Garage 130 S. Nevada Ave $1/hr; free shuttle)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 23–25; 50th anniversary; Old Colorado City; free; C.A.B. Garage $1/hr; free shuttle; Source: visitcos.com, shopoldcoloradocity.com
+
+### Story 4: CPSC Recall — BabyBond Retractable Safety Gates (280 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (CPSC recall; Infant Innovations BabyBond retractable mesh gates; ~280 units; model SH20.006DB; sold Target.com Nov 2024–Oct 2025 ~$50; child's torso fits through floor gap → entrapment; return to any Target for full refund; 844-406-3569; elsie@BabyBond-global.com)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** ~280 units; model SH20.006DB; Target.com; Nov 2024–Oct 2025; ~$50; 844-406-3569; Source: CPSC.gov, Target Help Center
+
+### Story 5: COS Summer Camp Guide 2026 — Registration Open, Spots Filling
+- **Content Pillar:** Local Events / Evergreen
+- **Angle:** FOLLOW UP to May 15 PPLD Summer Adventure (broader camp guide across all categories); D11 ends May 22; CYT theater, Go West outdoor, First Tee golf, Peaks & Paint art, Life Time multi-sport, Steve & Kate's flexible; full directory coloradospringskids.com/summer-camp-directory
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** D11 last day May 22; coloradospringskids.com/summer-camp-directory; coloradosprings.macaronikid.com; Source: coloradospringssummercamps.com, individual camp sites
+
+---
+
 ## May 15, 2026
 
 ### Story 1: 3rd Annual Touch-A-Truck — Tomorrow, Free, Norris Penrose
