@@ -2,6 +2,45 @@
 
 ---
 
+## May 17, 2026
+
+### Story 1: D20 Board Parts Ways With Superintendent Jinger Haberer
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D20 Board unanimously voted to part ways with Superintendent Jinger Haberer, effective May 15, 2026; Board President Amy Shandy quote: "unanimously determined that we do not have confidence" in her leadership; no public reason given; contractually allowable hearing; Haberer: 35 years experience, selected March 2023, prior: Ellensburg WA, Aurora, Fort Collins; district says stable; search for replacement coming)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Board unanimous; Board President Amy Shandy; "no confidence" quote; vacated May 15; 35 years experience; selected March 2023; Source: KRDO May 15 2026, Colorado Springs Gazette, KKTV, KOAA, FOX21
+
+### Story 2: CMZoo Centennial + New Giraffe Center Opening Summer 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (Cheyenne Mountain Zoo turns 100 in 2026, founded 1926 by Spencer Penrose; new International Center for Care and Conservation of Giraffe opening summer 2026; $40 million project; 12,000 sq ft giraffe barn; ETFE clear roof — largest of its kind over animal exhibit in North America; 11 feeding zones up from 3; 25% more outdoor space; weeklong opening celebration; new President & CEO; funded zoo revenue + donations)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Founded 1926; 100 years 2026; $40M; 12,000 sq ft barn; ETFE roof; 11 vs 3 feeding zones; 25% outdoor expansion; summer 2026 opening; weeklong celebration; cmzoo.org; Source: CMZoo official, FOX21, A-Z Animals, KKTV, KRDO, Yahoo
+
+### Story 3: Safe Streets COS — 22 New School Zones Citywide
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (City of Colorado Springs launched Safe Streets COS May 13, 2026; 22 new school zones added; Mann Middle School launch site; Sierra High flashers operational fall 2026-27; Panorama Middle improvements underway; goal: 35% crash reduction by 2035; combines data, infrastructure, enforcement, public education)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Launch May 13 2026; Mann Middle; 22 new zones; Sierra High flashers fall 2026-27; 35% reduction by 2035; coloradosprings.gov/SafeStreetsCOS; Source: City of Colorado Springs official, KOAA, FOX21, KKTV
+
+### Story 4: AAP Digital Ecosystems Policy — New Screen Time Guidance 2026
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (AAP January 2026 Digital Ecosystems policy in Pediatrics Vol. 157; shift from strict hour limits to quality/context/displacement framework; under 18 months: no screens except video calls; ages 2-5: 1 hour high-quality; ages 6+: quality and displacement key; family media plans recommended; warning about commercial digital ecosystems designed for engagement over children's wellbeing; HealthyChildren.org template)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Pediatrics Vol. 157, Issue 2; January 2026; under 18 mo no screens; ages 2-5 1hr; ages 6+ quality/context/displacement; Family Media Plan; HealthyChildren.org; Source: CHOC, AAP/Pediatrics, HeyOtto
+
+### Story 5: D49 Student Success Center Opening August 2026 — New Preschool Spots
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (D49 opening Student Success Center August 2026; 2 full-time preschool classrooms; Mon-Thu schedule; Base49 partnership for before/after school + Friday childcare; quote from Stacey Powell, Director ECE: "allows our program to expand access to high-quality early childhood education for families who have not been able to take advantage of our part-day programming"; also: Elevates program 18-21, Motor Team, AT Team, SWAP, homebound SpEd teacher)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** August 2026 opening; 2 full-time preschool classrooms; Mon-Thu; Base49 partnership; Stacey Powell, Director ECE; d49.org; Source: D49 official website
+
+---
+
 ## May 16, 2026
 
 ### Story 1: CPSC Recall — Cosyland Children's Tower Stools (125,200 Units)

@@ -1,5 +1,42 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: May 17, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D20 superintendent Haberer parted ways May 15 (unanimous, KRDO/Gazette/KKTV/KOAA/FOX21); CMZoo 100th anniversary + $40M Giraffe Center summer 2026 (CMZoo official, multiple sources); Safe Streets COS launched May 13 — 22 new school zones (City official, KOAA, FOX21); AAP Digital Ecosystems policy Jan 2026 screen time shift (CHOC, AAP/Pediatrics); D49 Student Success Center August 2026 new ECE classrooms (D49 official) |
+| Story History Check | COMPLETE | 5 NEW STORIES — all confirmed not previously covered |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging; all key facts source-attributed |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar assignments; bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts; all under 280 chars (char violations fixed); 4 hashtags each; 0 exclamation marks; COS voice rules applied |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (9 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 59 claims; char violations resolved; image warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 9 images |
+| Dashboard | COMPLETE | review-dashboard.html (27 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-17.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-05-17.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-17)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5 (bylines: Sarah Morales x3, Jamie Rivera x2)
+- **PostPlanner exports:** cosp-postplanner-2026-05-17.xlsx (7 posts), cosp-postplanner-tobi-2026-05-17.xlsx (7 TOBI posts)
+- **Coverage:** D20 Board unanimously parts ways with Superintendent Jinger Haberer (effective May 15, "no confidence" vote, no public reason, district stable, search coming); CMZoo 100th Anniversary + Giraffe Center opening summer 2026 ($40M, 12,000 sq ft, ETFE clear roof, 11 feeding zones up from 3, 25% outdoor expansion, weeklong celebration); Safe Streets COS launched May 13 — 22 new school zones, Mann Middle, Sierra High flashers fall 2026-27 (35% crash reduction goal by 2035); AAP Digital Ecosystems policy Jan 2026 — screen time shift from hours to quality/context/displacement (under 18mo no screens, ages 2-5 1hr, 6+ quality framework, Family Media Plan, HealthyChildren.org); D49 Student Success Center August 2026 — 2 full-time preschool classrooms, Mon-Thu, Base49 partnership for Fri + before/after care
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 59 claims; image warnings cosmetic (not_started expected)
+  - X post char violations fixed (5 violations corrected in first pass, all resolved in second verify run)
+  - compile: 5 stories, 7 X posts, 5 FB posts, 5 articles, 9 images
+  - dashboard: 27 items
+  - PostPlanner exports: both standard (7) and TOBI (7) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo
+
 ## Latest Run: May 16, 2026
 
 | Step | Status | Notes |
