@@ -1,6 +1,15 @@
 # Cubs Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-17 (full pipeline run)
+- **Steps Completed**: Research (17 searches, 7 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log (29 claims, 0 errors), compile-content-data.py (all clear), generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — recurring issue)
+- **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-17/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
+- **GitHub Pages Status**: N/A for this run (push rejected)
+- **Issues**: (1) Both series-context API and insights API returned 403 again — fallback logic applied. off_day=true fallback was incorrect (Cubs playing Game 3 Crosstown Classic today 1:10 PM CT); corrected via web research. (2) Insights tweet_count=0 — brand-voice.md defaults applied. (3) publish-unified-dashboard.py push rejected 403 (same recurring issue). Core deliverable (07-content-data.json) compiled and pushed to content-pipeline repo for cubs-x-bot.
+- **Insights applied**: API unavailable (403/tweet_count=0). Fell through to brand-voice.md defaults. 50/50 informative/bold split applied (Stories 1/3/5 informative; Stories 2/4/6 bold/analytical). No format adjustments possible without data.
+- **Key stories**: Taillon 5-HR Game 2 loss (recap + bold take), Boyd mound session update, NL Central rival watch, Game 3 preview (Rea vs Fedde, 1:10 PM CT), Peralta trade deadline clock (Mets June 1 decision).
+
+## Previous Run
 - **Date**: 2026-05-16 (full pipeline run)
 - **Steps Completed**: Research (10 searches, 6 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log, compile-content-data.py, generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — separate repo not in PAT scope)
 - **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-16/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.

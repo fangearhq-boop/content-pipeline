@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-17
+
+### STORY 1: White Sox 8, Cubs 3 — Taillon's Five-HR Nightmare, Series Tied 1-1
+- **Angle:** NEW STORY. Taillon surrendered career-high 5 HRs in 5+ IP (Murakami x2, Vargas, Montgomery, Benintendi). Davis Martin: 6 IP, 1 ER, 7 Ks (W, 6-1). Murakami: first career multi-HR game, 428-ft blast, 3 RBIs. PCA and Amaya homered for Cubs. Series tied 1-1.
+- **Content Produced:** X (1 post — 7:00 AM CT)
+- **Follow-Up:** Game 3 result today; Taillon ERA and rotation role going forward
+
+### STORY 2: Five Home Runs in Five Innings — The Rotation Can't Keep This Up
+- **Angle:** NEW STORY (bold take). Taillon's career-high disaster framed against the full rotation crisis: Horton (2nd TJ, season-ending), Steele (setback, past All-Star break), Boyd (on the mend, late June). The Cubs need a starter urgently.
+- **Content Produced:** X (1 post — 8:15 AM CT)
+- **Follow-Up:** Any completed trade; Ben Brown's Tuesday start; Taillon's next outing
+
+### STORY 3: Boyd Threw Off the Mound Saturday — Help Is Coming
+- **Angle:** FOLLOW-UP (rotation arc). Boyd's mound session May 16 — a bullpen session expected next week; late June return target (week of June 22). Positive news amid rotation crisis.
+- **Content Produced:** X (1 post — 9:30 AM CT)
+- **Follow-Up:** Boyd bullpen session result; activation date update; formal return
+
+### STORY 4: NL Central Pulse — Cubs Lead, Cardinals Lurking, Brewers Rolling
+- **Angle:** FOLLOW-UP (rival watch). Cubs lead NL Central; Cardinals within striking distance; Brewers on four-game win streak with Misiorowski emerging. Rotation risk framed as the key variable.
+- **Content Produced:** X (1 post — 10:45 AM CT)
+- **Follow-Up:** Weekly standings update; Cardinals/Brewers series results; Yelich activation watch
+
+### STORY 5: Series Decider — Rea vs Fedde, 1:10 PM CT
+- **Angle:** TODAY (game preview, series decider). Colin Rea (4-2, 4.68 ERA) vs Erick Fedde (0-4, 3.77 ERA). Rate Field, 1:10 PM CT. Series tied 1-1.
+- **Content Produced:** X (1 post — 12:00 PM CT)
+- **Follow-Up:** Game 3 result; Rea's line; series outcome
+
+### STORY 6: The Peralta Clock Is Ticking
+- **Angle:** NEW STORY (trade analysis). Mets set June 1 as decision point on Freddy Peralta (3.12 ERA, pending FA). Cubs exploring early SP market. Counsell connection. Taillon meltdown adds urgency.
+- **Content Produced:** X (1 post — 3:45 PM CT)
+- **Follow-Up:** Peralta trade/extension news; Cubs roster move; any other SP targets
+
+---
+
 ## 2026-05-16
 
 ### STORY 1: Cubs 10, White Sox 5 — Crosstown Classic Game 1

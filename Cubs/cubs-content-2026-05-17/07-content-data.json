@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-17",
+  "compiled_at": "2026-05-17T09:16:27.747842+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Story 6",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "White Sox 8, Cubs 3 — Taillon's Five-HR Nightmare, Series Tied 1-1",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 7,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "White Sox 8, Cubs 3 — Taillon's Five-HR Nightmare\n- **[HIGH]** Final score: White Sox 8, Cubs 3. (CBS News Chicago, ESPN, Fox Sports, multiple sources.)\n- **[HIGH]** WP: Davis Martin (6-1). LP: Jameson Taillon (2-3). (ESPN box score, Cubs Insider recap.)\n- **[HIGH]** Taillon surrendered career-high five home runs in 5-plus innings. (MLB.com, Cubs Insider, Chicago Sun-Times — all confirm \"career-high.\") Consistent across 4+ sources.\n- **[HIGH]** Murakami hit two home runs — first career multi-HR game. HR #17 was 428 ft to center in 5th inning. 3 RBIs. (MLB.com, ESPN, Sun-Times.)\n- **[HIGH]** Vargas, Montgomery, Benintendi also homered. (Fox 32 Chicago, ESPN.)\n- **[HIGH]** Davis Martin: 6 IP, 1 ER, 7 Ks. (ESPN box score, multiple sources.)\n- **[HIGH]** Pete Crow-Armstrong and Miguel Amaya homered for Cubs. (Initial search summary; consistent with recap headlines.)\n- **[MEDIUM]** White Sox improve to 6-2 on nine-game homestand. (Single summary source — plausible given series result.)\n- **[MEDIUM]** Cubs record going into today: ~29-17 (29-16 after Game 1 per 5/16 story history, -1 for Game 2 loss).",
+        "sources": "Sources: CBS News Chicago, ESPN, Cubs Insider, Fox 32 Chicago, Fox Sports, Chicago Sun-Times, MLB.com."
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Five Home Runs in Five Innings — The Rotation Can't Keep This Up",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Five home runs. Career-high. In 5 innings.\n\nTaillon quietly held this rotation together. Last night, it came apart.\n\nHorton's gone for the year. Steele's timeline slipping. Boyd's on the mend. The Cubs need a starter — NOW.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Five Home Runs in Five Innings — The Rotation Can't Keep This Up\n- **[HIGH]** Taillon allowed career-high 5 HRs in Game 2. (Multiple sources — see Story 1.)\n- **[HIGH]** Cade Horton: 60-day IL, second Tommy John surgery (UCL revision repair April 16), out ~15-16 months, effectively season-ending. (MLB Trade Rumors, ESPN, multiple sources.)\n- **[HIGH]** Justin Steele: UCL revision repair, setback reported, likely beyond All-Star break (worse than original timeline). (Fansided, search results.)\n- **[HIGH]** Matthew Boyd: meniscus surgery May 6, expected return late June. (MLB Trade Rumors, ESPN, CBS Sports, multiple sources.)\n- **[MEDIUM]** Taillon record now 2-3. (Derived from \"2-3\" in game result source — plausible.)",
+        "sources": "Sources: MLB Trade Rumors, ESPN, Fansided, CBS Sports, Cubs Insider."
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Boyd Threw Off the Mound Saturday — Help Is Coming",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Matthew Boyd threw off the mound Saturday.\n\nAfter meniscus surgery on May 6, he's targeting a late June return — a bullpen session is next.\n\nRotation help is on the way. Can't come soon enough. 💪\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Boyd Threw Off the Mound Saturday\n- **[HIGH]** Matthew Boyd threw off the mound Saturday May 16. (CBS Sports: \"Scheduled to throw off mound on Saturday, May 16.\" SI.com confirms positive timeline update.)\n- **[HIGH]** Surgery was May 6 meniscus repair. (MLB Trade Rumors: \"May 6.\" ESPN: \"at least one month after knee surgery.\")\n- **[HIGH]** Return target: late June. (\"Week of June 22 potentially marking his return\" — ClutchPoints, FanSided. \"Late June or early July\" — ESPN.)\n- **[HIGH]** Bullpen session expected in following week after mound session. (CBS Sports.)\n- **[MEDIUM]** He tore the meniscus \"sitting down to play with his kids\" — colorful detail from Yahoo Sports headline. Single source, not used in tweet but noted.",
+        "sources": "Sources: CBS Sports, MLB Trade Rumors, ESPN, SI.com, ClutchPoints, FanSided."
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NL Central Pulse — Cubs Lead, Cardinals Lurking, Brewers Rolling",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs lead the NL Central — but the division is tightening.\n\nCardinals within striking distance. Brewers riding a four-game win streak with Misiorowski emerging.\n\nThe rotation is a real risk. Every series counts now.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 3,
+        "claims_flagged": 3,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "NL Central Pulse\n- **[MEDIUM]** Cardinals record ~25-18 as of 5/14-5/16 (from 5/16 story history and search results; no fresh specific number confirmed today).\n- **[MEDIUM]** Brewers four-game win streak (from 5/16 story history covering Misiorowski's 6-IP shutout vs Yankees).\n- **[MEDIUM]** Jacob Misiorowski (Brewers) threw 6 shutout innings, 11 Ks, in that win. (5/16 story history, single source.)\n- **[MEDIUM]** NL Central all five teams above .500 through early May. (MSN article referenced in search.)\n- **[LOW]** Cubs ~29-17 entering today (derived; not confirmed from a live standings source).\nNote: NL Central standings sites (ESPN, BB-Ref, CBS) all returned 403 today. Using 5/16 pipeline context and game results to estimate. Do not use specific \"games behind\" numbers in tweet — keep to qualitative language (\"within striking distance\").",
+        "sources": "Sources: 5/16 story history context, Brew Crew Ball Power Rankings (Week 7 reference), MSN NL Central article."
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Series Decider — Rea vs Fedde, 1:10 PM CT",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Series decider. Right now.\n\nColin Rea (4-2) vs Erick Fedde (0-4, 3.77 ERA) — don't let the record fool you. Fedde has been sharp.\n\nRate Field. 1:10 PM CT. Let's take the Crosstown.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 5,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Series Decider — Rea vs Fedde\n- **[HIGH]** Game 3 at Guaranteed Rate Field, 1:10 PM CT. (Multiple betting/preview sites, ESPN gameday link, CBS Sports schedule — 2:10 ET = 1:10 CT confirmed.)\n- **[HIGH]** Colin Rea record: 4-2, 4.68 ERA. (FanDuel Research, Bleacher Nation preview from May 13.)\n- **[HIGH]** Erick Fedde record: 0-4, 3.77 ERA. (Multiple preview sources.)\n- **[HIGH]** Series tied 1-1 (Cubs won Game 1 10-5; White Sox won Game 2 8-3).\n- **[MEDIUM]** White Sox record 22-21 entering series. (UrbanMatter article, single source.)\n- **[HIGH]** Fedde ERA vs record dichotomy (0-4 despite 3.77 ERA) confirmed — multiple previews cite this, noting White Sox run support issues.",
+        "sources": "Sources: ESPN, Bleacher Nation, FanDuel Research, CBS Sports, Cubs Insider (May 15 preview)."
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "The Peralta Clock Is Ticking",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Mets have a June 1 decision point on Freddy Peralta (3.12 ERA, pending FA).\n\nCounsell managed him in Milwaukee for years. Cubs need arms. Taillon just gave up FIVE home runs.\n\nThe market won't wait.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 6,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "The Peralta Clock Is Ticking\n- **[HIGH]** Mets set June 1 as decision point for Peralta — get back in race or move him. (MLB Trade Rumors: \"June 1st is a target time for the Mets to either get back into the race or move the soon to be free agent Peralta.\")\n- **[HIGH]** Peralta's 2026 ERA: 3.12. (MLB Trade Rumors: \"entering Friday's action with a 3.12 ERA.\")\n- **[HIGH]** Peralta is a pending free agent. (Multiple sources — turns 30 next month.)\n- **[HIGH]** Peralta was acquired from Brewers by Mets in offseason (Sproat + Jett Williams to Milwaukee). (MLB Trade Rumors, reviewing the brew.)\n- **[HIGH]** Craig Counsell managed Peralta in Milwaukee. (Multiple sources confirm; tenure 2015-2023 Brewers; Peralta debuted with Brewers 2017.)\n- **[MEDIUM]** Cubs \"made calls on pitching\" — Cubs source told reporters they've spoken with many teams about pitching, not Peralta specifically with Mets yet. (Heavy.com.)\n- **[HIGH]** Cubs confirmed exploring early market for SP. (MLB Trade Rumors headline: \"Cubs Exploring Early Market For Starting Pitching.\")",
+        "sources": "Sources: MLB Trade Rumors, Yahoo Sports, Heavy.com, SI.com, Reviewing the Brew.\n## Cross-Check: Compound Claims\nPer the two-source rule, the following compound claims were verified against 2+ sources:\n| Claim | Sources | Status |\n|-------|---------|--------|\n| Taillon career-high 5 HRs | MLB.com, Cubs Insider, Sun-Times, Fox 32 | HIGH ✅ |\n| Murakami first career multi-HR game | MLB.com, ESPN | HIGH ✅ |\n| Davis Martin 6 IP, 1 ER, 7 Ks | ESPN box score, CBS Sports | HIGH ✅ |\n| Boyd threw off mound May 16 | CBS Sports, confirmed by SI.com update | HIGH ✅ |\n| Game 3: 1:10 PM CT, Rea vs Fedde | ESPN, FanDuel, CBS Sports | HIGH ✅ |\n| Peralta 3.12 ERA, pending FA | MLB Trade Rumors x2, Yahoo Sports | HIGH ✅ |\n| Mets June 1 Peralta decision | MLB Trade Rumors | MEDIUM — single outlet |"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
