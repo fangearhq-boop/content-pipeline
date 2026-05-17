@@ -2,6 +2,16 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-17
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Canada GP sprint weekend preview — first-ever sprint at Gilles-Villeneuve, May 22-24; 70 laps 4.361km; first May GP since 1982; sprint: FP1+SQ Fri, Sprint+Quali Sat, Race Sun; Antonelli 100 pts heading in; ADUO unlocks after this race | 1 | NEW STORY |
+| 2 | Antonelli historic start — first driver in F1 history to win first 3 races from pole; wins: China, Japan, Miami; 100 pts, 20-pt lead Russell; youngest championship leader ever (19y 7m 4d); strongest points start in 10 years per F1.com | 1 | FOLLOW-UP |
+| 3 | Verstappen on Lambiase departure: "You'd be crazy not to take it. We've achieved so much together"; Mekies: Lambiase serves out contract to 2027; Ford: "commitment not based on one person"; Verstappen exit clause at Hungarian GP July 24-26; VER 7th 26 pts | 2 | FOLLOW-UP |
+| 4 | FIA confirms mid-season ADUO (Accelerated Development and Update Option) after Canadian GP (5th race); Honda (Aston Martin) and Audi to benefit; FIA also tweaked qualifying format | 2 | NEW STORY |
+| 5 | Ferrari Canada preview — Hamilton 6 wins at Gilles-Villeneuve; Leclerc 59 pts (41 back), Hamilton 51 pts (49 back); low-downforce circuit; must close gap before European leg begins in June | 2 | NEW STORY |
+
 ## 2026-05-16
 
 | # | Story | Tier | Tag |
