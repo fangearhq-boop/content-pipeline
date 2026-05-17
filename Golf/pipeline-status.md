@@ -3,6 +3,25 @@
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 
+## Current Pipeline (2026-05-17)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-05-17 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-17 |
+| Fact-check | Complete (verify-facts.py — 38 claims, 64 HIGH confidence) | 2026-05-17 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-17 |
+| PostPlanner | Complete (7 X posts + TOBI 7 posts) | 2026-05-17 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-05-17 |
+| Published | Failed — WordPress credentials blocked by egress proxy (persistent infrastructure issue) | 2026-05-17 |
+| Git | Committed and pushed to main | 2026-05-17 |
+
+## Notes (2026-05-17)
+- 5 stories: PGA Championship final round (Smalley leads -6, 22 players within 4 shots, McIlroy 3 back chasing Grand Slam, Scheffler 5 back defending) T1 x2; Alex Smalley profile (0 wins, 10th player in 30 years to lead major at 54 holes sans win) T2; Charley Hull wins LPGA Kroger Queen City Championship -20, beats Thitikul by 1 T2; Scheffler defending champion bid T2
+- Pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres
+- WordPress publish failed (egress proxy — persistent across all three niches)
+- Dashboard push failed (PAT lacks write access to content-dashboards repo — consistent with all previous runs)
+
 ## Current Pipeline (2026-05-16)
 
 | Stage | Status | Last Updated |

@@ -4,6 +4,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-05-17 | T1 | PGA Championship final round — Smalley leads -6 (solo), T2 at -4: Schmid/Taylor/Rahm/Rai/Åberg; McIlroy/Schauffele/McNealy/Reed at -3; Scheffler -1 (5 back); 22 players within 4 shots; final pairing 2:35 PM ET | X, FB, Article | FOLLOW-UP |
+| 2026-05-17 | T1 | McIlroy Grand Slam chase — fired R3 66 (6 birdies, no bogeys) to get to -3; 3 shots from completing Career Grand Slam (has Masters/US Open/Open Championship); "I have a chance"; tees off 2:05 PM ET with Schauffele; mirrors 2025 Masters comeback | X, FB, Article | FOLLOW-UP |
+| 2026-05-17 | T2 | Alex Smalley profile — 29, Rochester NY, Duke grad (3.6 GPA, EnvSci, All-American), Walker Cup 2019, Korn Ferry grad 2021, 15 top-10s but 0 wins; 10th player in 30 years to lead major at 54 holes without tour win | X, FB, Article | NEW STORY |
+| 2026-05-17 | T2 | Charley Hull wins LPGA Kroger Queen City Championship at -20; beats Thitikul by 1 shot (-19); Maketewah CC, Cincinnati OH; Hull's first LPGA win since 2022 Ascendant | X, FB, Article | NEW STORY |
+| 2026-05-17 | T2 | Scheffler defending champion bid — -1 heading into R4, 5 back of Smalley; putter went cold R3; tees 12:05 PM ET with Puig; defending 2025 PGA title; early tee time could set target number | X, FB, Article | FOLLOW-UP |
+|------|------|-------|-----------|-------|
 | 2026-05-16 | T1 | PGA Championship R3 preview — McNealy/Smalley co-lead at -4; Scheffler -2; McIlroy +1 (bogey-free 67 R2); final pairing 2:40 PM ET; Koepka/McIlroy 11 AM; DeChambeau missed cut | X, FB, Article | FOLLOW-UP |
 | 2026-05-16 | T1 | McIlroy Grand Slam bid — R1 "s***" 74; R2 bogey-free 67 to +1; 5 back entering R3; Grand Slam completion if wins (has Masters, US Open, Open Championship) | X, FB, Article | FOLLOW-UP |
 | 2026-05-16 | T2 | LIV Golf Saudi PIF ending funding after 2026 — $6B+ spent; PIF statement "no longer consistent with strategy"; chairman Al-Rumayyan stepping down; new board (Gene Davis, Jon Zinman); seeking alternative investors | X, FB, Article | NEW STORY |

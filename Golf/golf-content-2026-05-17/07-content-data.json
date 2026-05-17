@@ -1,0 +1,303 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-17",
+  "compiled_at": "2026-05-17T11:30:20.037837+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PGA Championship Final Round — Smalley Leads by 2, 22 Players Within 4 Shots (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "22 players within 4 shots of the lead.\n\nAlex Smalley leads the PGA Championship at -6. Final round is TODAY at Aronimink.\n\nThis Sunday is going to be chaos. In the best possible way. #PGAChampionship #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#Golf"
+          ],
+          "char_count": 205
+        },
+        {
+          "label": "Post 1-2",
+          "text": "PGA Championship final round tee times:\n\n12:05 PM — Scheffler (defending champ, -1)\n2:05 PM — McIlroy/Schauffele (-3)\n2:35 PM — Smalley/Schmid (leaders, -6 and -4)\n\nHistory could be made in this final pairing. #PGAChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pga-championship-final-round-preview-smalley-leads.html",
+        "headline": "PGA Championship Final Round Preview: Smalley Leads By Two in Historically Bunched Field",
+        "word_count": 645
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "PGA Championship Final Round Preview\n**Key Facts (HIGH confidence):**\n- 108th PGA Championship at Aronimink Golf Club, Newtown Square, Pennsylvania\n- Final round: Sunday May 17\n- R3 leader: Alex Smalley at -6 (solo, 2 strokes clear)\n- T2 at -4: Matti Schmid, Nick Taylor, Jon Rahm, Aaron Rai, Ludvig Åberg\n- T7 at -3: McNealy, McIlroy, Schauffele, Reed\n- Scheffler: -1 (5 back of lead)\n- 22 players within 4 shots of the lead per Yahoo Sports headline\n- Final pairings: Smalley/Schmid 2:35 PM ET; McIlroy/Schauffele 2:05 PM ET; Scheffler/Puig 12:05 PM ET\n- Smalley had early R3 bogeys (3 of first 4 holes) but recovered with 4 birdies in final 6 holes, carded 68",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "McIlroy's Grand Slam Chase — One Round Away (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Rory McIlroy is 3 shots from completing the Career Grand Slam.\n\nHe fired a 66 on Saturday to get into contention.\n\nA year ago, he came from behind to win the Masters the same way.\n\nCan he do it again? #PGAChampionship #McIlroy",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#McIlroy"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Rory McIlroy has:\n✅ The Masters\n✅ The US Open  \n✅ The Open Championship\n⬜ The PGA Championship\n\nHe tees off in the penultimate pairing at 2:05 PM ET today. #PGAChampionship #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#Golf"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-mcilroy-career-grand-slam-pga-championship-final-round.html",
+        "headline": "McIlroy Three Shots from Career Grand Slam After Brilliant Round 3 Charge",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "McIlroy Grand Slam Chase\n**Key Facts (HIGH confidence — PGA Tour, ESPN, Golf Channel, CNN, Sky Sports):**\n- McIlroy shot R3 66 (4-under, 6 birdies, no bogeys per search results)\n- McIlroy quote: \"I have a chance\" (PGA Tour article)\n- McIlroy missing major for Career Grand Slam: PGA Championship (has Masters, US Open, Open Championship per yesterday's pipeline notes)\n- Golf Channel: \"Rory McIlroy's 2026 PGA Championship progression reminds of 2025 Masters\"\n- In 2025 Masters, McIlroy came from behind in final round to win (implied by comparison)\n- R3 highlights: birdies at par-3 5th and 6th holes, under par at the turn; birdies at 11 and 13\n- On 6th hole: McIlroy drove the green, towering draw clearing bunkers more than 315 yards\n- Tees off at 2:05 PM ET Sunday, paired with Schauffele\n- Entered R3 at +1 (after R1 74 \"s***\" / R2 67) — confirmed from yesterday's notes",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Alex Smalley Profile — First-Time Major Contender Leads By Two (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Alex Smalley heads into the final round of the PGA Championship as the leader.\n\nHe has ZERO wins on the PGA Tour.\n\nOnly the 10th player in 30 years to hold the 54-hole major lead without a tour victory.\n\nThe stage is set. #PGAChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alex-smalley-profile-pga-lead-no-tour-wins.html",
+        "headline": "Zero Wins, Two-Shot Lead: Who Is Alex Smalley, the Man Atop the PGA Championship?",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alex Smalley Profile\n**Key Facts (HIGH confidence — PGA Tour feature, Golf Digest, NBC Sports, CBS Sports):**\n- Age: 29\n- Hometown: Rochester, NY\n- College: Duke University (Environmental Science, 3.6 GPA, All-American honors, 3 collegiate wins)\n- 2019 USA Walker Cup team member\n- Turned professional: 2019\n- Earned PGA Tour card via Korn Ferry Tour 2021\n- Record: 15 top-10 finishes in last 5 seasons, ZERO professional wins\n- Only 10th player in 30 years to hold 54-hole lead at a major without a PGA Tour win\n- Missed just 1 cut in 13 starts in 2026\n- R3 recap: bogeyed 3 of first 4 holes, then rallied with 4 birdies in final 6 holes, card 68\n- Final round pairing: Matti Schmid at 2:35 PM ET",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Charley Hull Wins Kroger Queen City Championship — LPGA (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Charley Hull wins the Kroger Queen City Championship at -20, her first LPGA win since 2022.\n\nShe edged Jeeno Thitikul by one shot in Cincinnati.\n\nBig day for women's golf — and it's just the beginning. #LPGA #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#Golf"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-charley-hull-wins-kroger-queen-city-lpga.html",
+        "headline": "Charley Hull Wins Kroger Queen City Championship at -20, First LPGA Title Since 2022",
+        "word_count": 409
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Charley Hull Wins Kroger QCC\n**Key Facts (HIGH confidence — search result from FlashScore/ESPN):**\n- Tournament: 2026 Kroger Queen City Championship presented by P&G\n- Dates: May 14-17, 2026\n- Course: Maketewah Country Club, Cincinnati, Ohio\n- Purse: $2.00 million\n- Winner: Charley Hull (England) at -20\n- Runner-up: Jeeno Thitikul (Thailand) at -19 (one shot back)\n- Third: L. Woad\n- Hull's previous win: 2022 Ascendant LPGA benefiting Volunteers of America\n- Hull's third career LPGA title (implied by \"third career title in Hamilton Township, Ohio\" — note: needs care)\n- Actually: \"her third career title in Hamilton Township, Ohio\" — this likely means this is the 3rd title for SOMEONE (could be the tournament's third running), not necessarily Hull's 3rd career win. Be careful.\n- Use: \"Hull's first LPGA win since 2022\" (confirmed HIGH) but not \"third career title\" without more verification.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Scheffler Chases Second Straight PGA Title — Five Back with History on the Line (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Scottie Scheffler, the defending PGA Champion, is 5 shots back heading into Sunday.\n\nHe tees off at 12:05 PM ET and has a chance to set a target.\n\nThe world No. 1 isn't done yet. #PGAChampionship #Scheffler",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#Scheffler"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-scheffler-defending-champion-pga-championship-comeback.html",
+        "headline": "Scheffler Seeks Back-to-Back PGA Titles with Early Tee Time and Five-Shot Mountain to Climb",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler Defending Champion Bid\n**Key Facts (HIGH confidence):**\n- Scheffler is defending PGA Championship champion (2025 PGA Championship winner)\n- Seeking back-to-back PGA Championship titles\n- R4 position: -1 (5 shots behind R3 leader Smalley at -6)\n- \"Scheffler's putter goes cold, forcing big comeback for shot at 2nd straight PGA Championship\" — Golf Channel headline\n- Described R3 as \"a bit of a ho-hum round\" per ESPN\n- Tees off at 12:05 PM ET Sunday, paired with David Puig (LIV Golf)\n- World No. 1 player (HIGH confidence)\n- From search: \"PGA Challenge 'different,' maybe not 'best'\" — suggesting he doesn't feel the course is showing his best game",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
