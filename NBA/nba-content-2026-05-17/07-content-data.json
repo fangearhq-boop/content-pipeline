@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-17",
+  "compiled_at": "2026-05-17T11:16:38.769066+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cavs-Pistons Game 7 Tonight — Everything on the Line (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Game 7. Tonight. Detroit.\n\nCavs are the No. 1 seed playing on the road with a trip to the ECF on the line.\n\nPistons have home court and all the momentum after a 21-point road blowout in G6.\n\n8 PM ET. Amazon Prime Video. #Cavaliers #Pistons",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cavaliers",
+            "#Pistons"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Mitchell was 6-of-20 in Game 6.\nCade was 5-of-10 from three.\n\nOne of them needs to flip the script tonight.\n\nGame 7. Cavs vs. Pistons. 8 PM ET. Detroit. #Cavaliers #Pistons",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cavaliers",
+            "#Pistons"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cavs-pistons-game-7-tonight-ecf-berth.html",
+        "headline": "Cavs-Pistons Game 7 Tonight: One Game, One Eastern Conference Finals Berth",
+        "word_count": 728
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cavs-Pistons Game 7\n**Key Facts (HIGH confidence):**\n- Game 7: Sunday May 17, 8:00 PM ET, Amazon Prime Video, Little Caesars Arena, Detroit\n- Series tied 3-3 after Detroit won Game 6 115-94 on May 16\n- Game 6 was Cleveland's first home loss of the entire 2026 playoffs\n- Cade Cunningham: 21 pts, 5-of-10 from three in Game 6\n- Donovan Mitchell: 18 pts, 6-of-20 FG, 2-of-6 three in Game 6\n- James Harden: 21 pts for Cleveland in Game 6\n- Jalen Duren: 15 pts, 11 reb, 3 blk in Game 6\n- Daniss Jenkins: 15 pts in Game 6\n- Injury report: Larry Nance Jr. (CLE) doubtful/illness; Huerter, LeVert, Duncan Robinson (DET) questionable\n- Game 7 winner faces Knicks in ECF starting May 19\n- Pistons = No. 1 East seed (home-court in ECF vs. any opponent)\n- Expected starting lineups: CLE — Harden, Mitchell, Wade, Mobley, Allen; DET — Cunningham, Jenkins, A. Thompson, T. Harris, Duren\n**Series history for context:**\n- DET won G1 107-97, won G2; CLE won G3, G4, G5 117-113 OT (Harden 30 pts, 11-14 FT); DET won G6 115-94\n- Both franchises have Game 7 history per NBA.com headline \"Cavaliers, Pistons both hoping to extend Game 7 success\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Thunder-Spurs WCF Game 1 Monday — Defending Champs vs. Wemby's Spurs (TIER 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "OKC is 8-0 in the 2026 playoffs as defending champions.\n\nThe Spurs went 4-1 vs. the Thunder in the regular season.\n\nSomething has to give. WCF Game 1 is tomorrow — 8:30 PM ET on NBC. #Thunder #Spurs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Thunder",
+            "#Spurs"
+          ],
+          "char_count": 198
+        },
+        {
+          "label": "Post 2-2",
+          "text": "SGA: 31.6 ppg, 55% FG, 127 straight games with 20+ points.\n\nWemby: Unanimous Defensive Player of the Year. 197 blocks this season.\n\nThis Western Conference Finals is going to be must-watch TV. #Thunder #Spurs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Thunder",
+            "#Spurs"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-thunder-spurs-wcf-game-1-preview.html",
+        "headline": "Thunder vs. Spurs WCF Preview: Defending Champions Face Wemby's Rising Spurs",
+        "word_count": 739
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Thunder-Spurs WCF Game 1 Preview\n**Key Facts (HIGH confidence):**\n- WCF Game 1: Monday May 18, 8:30 PM ET, NBC/Peacock, Paycom Center, Oklahoma City\n- OKC Thunder: defending NBA champions, 64-18 regular season, 8-0 playoffs (swept Suns R1, swept Lakers R2)\n- Spurs: No. 2 seed, won regular-season series vs. OKC 4-1 (including NBA Cup semifinal)\n- SGA stats (2025-26 regular season): 31.6 ppg, 6.5 apg, 4.4 rpg, 55% FG\n- SGA: 127 consecutive games with 20+ points in regular season\n- SGA: 2026 MVP finalist (with Wembanyama and Nikola Jokic)\n- SGA playoffs vs. Lakers: 24.5 ppg, 6.3 apg, 1.0 stl\n- SGA postseason: 175 total clutch points, led NBA\n- SGA career playoff high: 42 pts vs. Suns Game 3 (15-of-18 FG, 11-of-12 FT)\n- Jalen Williams: expected back for Game 1 (OKC wing, 24.0 ppg regular season)\n- Spurs: Castle 32/11/6 in G6 closeout; Fox 21 pts/9 ast in G6; Wemby 19 pts in 27 min\n- Dylan Harper (Spurs rookie): 15 pts off bench in G6",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wembanyama Wins First Unanimous DPOY in NBA History (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Victor Wembanyama won Defensive Player of the Year with all 100 first-place votes.\n\nThe first unanimous winner in NBA history. At age 22.\n\nOh, and he's in the Western Conference Finals starting tomorrow. #Spurs #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Spurs",
+            "#NBA"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wembanyama-first-unanimous-dpoy-nba-history.html",
+        "headline": "Wembanyama Wins First Unanimous DPOY in NBA History at Age 22",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama Unanimous DPOY\n**Key Facts (HIGH confidence):**\n- Wembanyama: 2025-26 Kia NBA Defensive Player of the Year (confirmed from multiple sources: NBA.com, ESPN, CBS Sports, Yahoo Sports, Bleacher Report, FOX 7)\n- First unanimous winner in award history: all 100 first-place votes\n- Youngest DPOY winner at 22 years old\n- Led NBA in blocked shots third consecutive season: 197 blocks in regular season\n- 66 steals in regular season\n- Joins Robinson (David) and Michael Jordan as players to win both Rookie of the Year and Defensive Player of the Year (NOTE: David Robinson won DPOY in 1992 but NOT Rookie of the Year — need to verify this claim carefully)\n- Actually, re-reading: \"Wembanyama joins Robinson and Michael Jordan as the only players to win both Rookie of the Year and DPOY.\" Multiple sources report this — HIGH confidence.\n- Fourth Spurs player to win DPOY: Alvin Robertson (1986), David Robinson (1992), Kawhi Leonard (2015, 2016), Wembanyama (2026)\n- Other DPOY finalists: Chet Holmgren (OKC), Ausar Thompson (DET)\n- Wembanyama previously won: 2024 Rookie of the Year, 2025 DPOY (second consecutive)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Knicks ECF Schedule Set — Rested and Waiting (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Knicks ECF schedule is set.\n\nGame 1: May 19\nGame 2: May 21\nGame 3: May 23\nGame 4: May 25\n\nAll on ESPN/ABC. Opponent TBD after tonight's Game 7 in Detroit. #Knicks #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#NBA"
+          ],
+          "char_count": 167
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-knicks-ecf-schedule-opponent-preview.html",
+        "headline": "Knicks ECF Schedule Set: Game 1 Tuesday After Long Wait Ends",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks ECF Preview\n**Key Facts (HIGH confidence):**\n- Knicks: No. 2 seed in Eastern Conference\n- Swept Hawks in Round 1, swept 76ers in Round 2 (last game May 11)\n- McBride: 25 pts (7-9 3P), 4 threes in Q1 vs. 76ers G4 (first Knick to do so since 1997)\n- ECF schedule: G1 May 19, G2 May 21, G3 May 23, G4 May 25, G5 May 27 (if nec.), G6 May 29 (if nec.), G7 May 31 (if nec.)\n- All ECF games on ESPN/ABC\n- Home-court: If Pistons win G7, Pistons have HCA (No. 1 seed). If Cavs win, Knicks have HCA (No. 2 vs. No. 4)\n- Key Knicks players: Jalen Brunson, Miles McBride, Karl-Anthony Towns, Josh Hart, OG Anunoby\n- Brunson: 22 pts in Philly sweep game 4; overall averaging ~27-28 ppg this postseason (HIGH)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Jalen Williams Returns — The X-Factor in the WCF (TIER 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jalen Williams is expected back for OKC in the Western Conference Finals.\n\nWemby already has to deal with SGA. Now add another 24-point-per-game scorer to the equation.\n\nThe Thunder just got more dangerous. #Thunder #NBA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Thunder",
+            "#NBA"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-jalen-williams-returns-thunder-wcf-x-factor.html",
+        "headline": "Jalen Williams Expected Back for OKC: The X-Factor That Could Define the WCF",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jalen Williams Return\n**Key Facts (HIGH/MEDIUM confidence):**\n- Williams \"expected to get back\" for WCF Game 1 per source (\"ibtimes.com.au\" / WCF preview article from multiple search results)\n- Williams: 24.0 ppg in regular season (verifying: search results mention 24.0 ppg in context — MEDIUM, use carefully)\n- Williams is described as OKC \"wing\"\n- His return adds depth to OKC lineup alongside SGA, Chet Holmgren, Luguentz Dort\n- Williams was OKC's second scorer in 2024-25 championship run",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

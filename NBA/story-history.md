@@ -2,6 +2,16 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-17
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Cavs-Pistons Game 7 tonight (May 17) — 8 PM ET Amazon Prime Video, Detroit; series tied 3-3; DET won G6 115-94 (Cleveland's first home loss of 2026 playoffs); Cade 21/8ast, Mitchell 18 on 6-20, Harden 21, Duren 15/11reb/3blk; winner vs Knicks ECF May 19; injury: Nance Jr. doubtful, Huerter/LeVert/Robinson questionable | 1 | FOLLOW-UP |
+| 2 | Thunder-Spurs WCF Game 1 Monday (May 18) — 8:30 PM ET NBC/Peacock, Paycom Center; OKC defending champs 64-18 regular season, 8-0 playoffs (swept Suns, Lakers); SGA 31.6ppg/6.5apg/55% FG/127 straight 20+pt games; Spurs won reg season series 4-1; Jalen Williams expected back for G1; Wemby unanimous DPOY | 1 | NEW STORY |
+| 3 | Wembanyama wins first unanimous DPOY in NBA history — all 100 votes; youngest ever at 22; led NBA in blocks 3rd straight season (197 blk, 66 stl); joins Jordan/Robinson as ROY+DPOY winners; 4th Spurs DPOY (Robertson 86, D. Robinson 92, Leonard 15-16) | 2 | NEW STORY |
+| 4 | Knicks ECF schedule set — G1 May 19, G2 May 21, G3 May 23, G4 May 25, all ESPN/ABC; Knicks off since May 11 sweep of 76ers; HCA: Pistons hold if they win G7 (No. 1 seed), Knicks hold if Cavs win (No. 2 vs No. 4) | 2 | FOLLOW-UP |
+| 5 | Jalen Williams returns for OKC WCF G1 — 24.0 ppg regular season; adds second elite scorer alongside SGA; changes defensive calculus for Wemby and Spurs | 2 | NEW STORY |
+
 ## 2026-05-16
 
 | # | Story | Tier | Tag |

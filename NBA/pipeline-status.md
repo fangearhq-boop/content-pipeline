@@ -1,8 +1,19 @@
 ## Last Run
-- **Date**: 2026-05-16
+- **Date**: 2026-05-17
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-17
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-05-17.xlsx (7 posts) + hh-postplanner-tobi-2026-05-17.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-17/review-dashboard.html (22 items)
+- **Notes:** Cavs-Pistons Game 7 tonight (May 17, 8 PM ET, Amazon Prime Video, Detroit); Thunder-Spurs WCF Game 1 Monday May 18, 8:30 PM ET NBC/Peacock; Wembanyama unanimous DPOY (first ever, all 100 votes, age 22); Knicks ECF schedule set (G1 May 19, ESPN/ABC); Jalen Williams expected back for OKC in WCF.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-16
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
