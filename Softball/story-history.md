@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 17, 2026
+
+### Story 1: FSU Sweeps Saturday Doubleheader — Tallahassee Regional Final vs. UCF
+- **Angle:** FOLLOW UP (Stetson upset of FSU covered May 16). FSU swept a Saturday doubleheader (11-0 over Jacksonville State, 11-3 over Stetson) to reach Sunday's Tallahassee Regional Final vs. unbeaten UCF at noon. Brianna Danley career day in Stetson rematch. UCF went unbeaten including 10-1 over Stetson Saturday.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** FSU vs UCF regional final result; Tallahassee Regional champion; Super Regional draw
+
+### Story 2: LSU 8-0 Virginia Tech — Tigers Undefeated, One Win from Super Regionals
+- **Angle:** FOLLOW UP (VT Baton Rouge Regional covered May 16). Cece Cellura career-first complete-game shutout. LSU run-ruled VT 8-0 in 6 innings Saturday. Maci Bergeron 3 hits, 2-run HR in 2nd. Char Lorenz RBI single in 6th. LSU (No. 16 seed) enters Sunday final undefeated; outscored opponents 16-0 in two games.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** LSU vs VT Baton Rouge Regional Final result; LSU Super Regional opponent
+
+### Story 3: Saint Mary's Shocks No. 14 Oregon 5-4 — Program's First Postseason Win
+- **Angle:** NEW STORY. Saint Mary's (CA) defeated No. 14 Oregon 5-4 in Eugene Regional, first postseason win in program history. Trailed 3-0 after Elon Butler leadoff HR; rallied with 4-run 4th inning. 9 hits. Faces Mississippi State in Sunday's Eugene Regional Final.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Saint Mary's vs Mississippi State regional final; GWS historic run story if they advance
+
+### Story 4: Alabama Wins Tuscaloosa Regional — Briski Delivers, Tide Advance to Super Regionals
+- **Angle:** FOLLOW UP (Alabama covered May 13-17). Alabama wins Tuscaloosa Regional championship. Saturday: Jocelyn Briski (SEC POY) one-hit shutout, 3-0 over Belmont. Alabama advances to Super Regionals to host. Faced USC Upstate in Sunday championship.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Alabama Super Regional opponent; Super Regional dates (May 21-24)
+
+### Story 5: Michigan and Grand Canyon Reach Regional Finals — Two Cinderella Runs
+- **Angle:** NEW STORY. Michigan: beat Binghamton 6-0 then Kansas 12-10 Saturday to reach Norman Regional Final vs. No. 3 Oklahoma. Grand Canyon: Jada Cooper walk-off single (8th inn) beat South Dakota 5-4 in Lincoln Regional to reach Lincoln Regional Final vs. No. 4 Nebraska (who had beaten GCU 2-0 in Saturday winners' bracket).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Oklahoma vs Michigan result; Nebraska vs GCU result; Super Regional fields
+
+### Story 6: Regional Sunday Preview — Super Regionals Almost Set
+- **Angle:** NEW STORY (round-up/preview). Regional Sunday wraps up first weekend. Key finals: FSU vs UCF (noon ET), LSU vs VT (1 PM CT), Oklahoma vs Michigan (3 PM CT), Nebraska vs GCU (3 PM CT). Super Regionals May 21-24, WCWS at Devon Park OKC May 28.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** All Super Regional matchups; WCWS bracket
+
+---
+
 ## May 16, 2026
 
 ### Story 1: Stetson Shocks No. 9 Florida State 8-3 — Biggest Upset of Day 1

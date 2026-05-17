@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-17
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 1 char violation fixed S5 tweet 1 282→252 via rewrite; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest, articles (5), fact-check (98 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 1 char violation fixed (S5 tweet 1 282→252). S6 no image concept — Tier 3 social-only by design.
+- **Key Stories**: FSU sweeps doubleheader (11-0 JSU, 11-3 Stetson)/Danley career day/Sunday final vs UCF (Tier 1), LSU 8-0 VT run rule/Cellura career-first shutout/Bergeron 2-run HR/Tigers undefeated Sunday final (Tier 1), Saint Mary's 5-4 Oregon/first postseason win ever/4-run 4th comeback/Eugene final vs Mississippi State (Tier 2), Alabama wins Tuscaloosa Regional/Briski one-hit shutout/Super Regionals bound (Tier 2), Michigan beat KU 12-10+BU 6-0/GCU Cooper walk-off 5-4 SD/both in regional finals (Tier 2), Regional Sunday preview (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-16
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 4 char violations fixed S1/S2/S4/S5 via rewrite; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest, articles (5), fact-check (103 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 23 items), dashboard (23 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
