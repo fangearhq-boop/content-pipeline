@@ -1,0 +1,274 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-17",
+  "compiled_at": "2026-05-17T10:32:28.287579+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Phillies 14-4 Under Mattingly — Sanchez Shutout, Harper 457-Foot HR Power Philly to .500",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY. Cristopher Sánchez struck out a career-high 13 batters while throwing the second complete-game shutout of his career as the Phillies beat Pittsburgh 6-0 on Saturday. Bryce Harper crushed a 457-foot three-run HR in the first inning off Bubba Chandler — his longest since 2022. Philadelphia improved to 14-4 under interim manager Don Mattingly and reached .500 for the first time since mid-April. Sánchez has now thrown 29⅔ consecutive scoreless innings. The Phillies are a completely different team under Mattingly.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Cristopher Sánchez: career-high 13 Ks. Second career shutout. 29⅔ scoreless innings.\n\nBryce Harper: 457-foot 3-run bomb. First inning.\n\nPhillies 6-0 Pirates. 14-4 under Mattingly. Back to .500.\n\nThis team is different now. 🔥\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Don Mattingly replaced Rob Thomson as Phillies manager.\n\nSince then: 14-4.\n\nThat's a .778 winning percentage. With the same roster.\n\nSaturday was the showcase: Sanchez fans 13, Harper goes 457 feet.\n\nWhat a turnaround. 📈\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-phillies-sanchez-harper-mattingly-14-4-reach-500.html",
+        "headline": "Sanchez Fans 13, Harper Bombs 457 Feet: Phillies 6-0 Pirates and 14-4 Under Mattingly",
+        "word_count": 688
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Phillies 6-0 Pirates — Sanchez/Harper/Mattingly\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Bryce Harper Philadelphia Phillies\"\n- **Alt Search:** \"Bryce Harper home run\"\n- **Overlay Text:** \"PHILLIES 6, PIRATES 0\" / \"14-4 Under Mattingly — Philly Is Back\"\n- **Mood:** Power, celebration, momentum\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Cristopher Sanchez Philadelphia Phillies\"\n- **Alt Search:** \"Phillies pitcher mound\"\n- **Overlay Text:** None (article hero)\n- **Notes:** Sanchez on mound, strikeout celebration, or Phillies dugout atmosphere\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Schwarber's 7-Game HR Streak Ends — But 20 HRs on Earliest Date in MLB History",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (Schwarber 7-game streak covered May 16). Kyle Schwarber's consecutive-games HR streak ended at 7 Saturday without tying Don Mattingly's MLB record of 8. But the milestone remains extraordinary: Schwarber's 20th homer (hit May 15) set the MLB record for earliest date to reach 20 HRs in a season, breaking Luis Gonzalez's mark from May 17, 2001. He still leads all of baseball with 20 HRs.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Schwarber's 7-game HR streak ended Saturday.\n\nHe never tied Mattingly's 8-game MLB record — which his own manager holds. 😅\n\nBut the history was already made:\n\n20 HRs by May 15 = earliest date in MLB history. Ever.\n\nStill leads baseball with 20. 💣\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-schwarber-7-game-hr-streak-ends-20-hr-earliest-ever.html",
+        "headline": "Schwarber's 7-Game HR Streak Ends — But He Already Made the Most Historic Record of All",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber HR Streak Ends / Earliest 20 HRs\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Kyle Schwarber Philadelphia Phillies\"\n- **Alt Search:** \"Kyle Schwarber home run\"\n- **Overlay Text:** \"20 HRs — EARLIEST IN MLB HISTORY\" / \"Schwarber's Historic Pace Continues\"\n- **Mood:** Power, achievement, historical\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Kyle Schwarber swing\"\n- **Alt Search:** \"Phillies left fielder\"\n- **Overlay Text:** None (article hero)\n- **Notes:** Schwarber at bat or celebrating; profile/action shot\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Juan Soto's 250th HR Enters MLB History — But Mets Worried About His Wrist",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (Soto 250th HR covered May 16). More detail on Soto's historic milestone: at 27 years old, he's the youngest player to reach 250 career HRs since Albert Pujols, and joins Alex Rodriguez, Ken Griffey Jr., Mickey Mantle and Mike Trout as the only players in history with 250+ HRs and 95+ SBs before turning 28. But he was grimacing with wrist discomfort in the same game, raising health concerns for the Mets' franchise player. Mets lost 5-2 to the Yankees in Game 1 of the Subway Series.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Juan Soto hit his 250th career HR Friday.\n\n393 feet. 102.6 mph exit velocity. Off Schlittler in the 7th.\n\nYoungest since Pujols to reach 250 HRs.\n\nHe was also grimacing with wrist discomfort three innings earlier.\n\nTwo stories in one. 😬\n\n#Mets #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mets",
+            "#MLB"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-juan-soto-250th-hr-youngest-pujols-wrist-concern.html",
+        "headline": "Soto's 250th HR Joins Baseball's Most Elite History — But Mets Are Watching His Wrist",
+        "word_count": 722
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Juan Soto 250th HR + Wrist Concern\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Juan Soto New York Mets\"\n- **Alt Search:** \"Juan Soto home run swing\"\n- **Overlay Text:** \"SOTO'S 250th CAREER HR\" / \"Historic Milestone — But Wrist Concerns Grow\"\n- **Mood:** Achievement mixed with concern, dramatic\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Juan Soto batting Citi Field\"\n- **Alt Search:** \"Juan Soto Mets outfield\"\n- **Overlay Text:** None (article hero)\n- **Notes:** Soto at bat, swing follow-through, or home run trot\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cam Schlittler's Walter Johnson Start — The Most Historic Pitching Season in Over 100 Years",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (Schlittler AL ERA leader covered May 16). Through his first 9 starts, Cam Schlittler is posting numbers not seen since Walter Johnson in 1913: 1.35 ERA, 5-1 record, 59 strikeouts, just 9 walks, and only 1 HR allowed. WHIP of 0.81. He is the first pitcher in over 110 years to combine those metrics through the first 9 starts of a season. The 25-year-old Yankees starter is in the middle of one of the most historically dominant pitching seasons in modern baseball.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cam Schlittler through 9 starts:\n\n1.35 ERA. 5-1. 59 Ks. 9 BB. 1 HR allowed. 0.81 WHIP.\n\nThe last pitcher to match those numbers through his first 9 starts?\n\nWalter Johnson. 1913.\n\nThat was 113 years ago. 😳\n\n#Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cam-schlittler-walter-johnson-1913-yankees-historic-start.html",
+        "headline": "Cam Schlittler's Numbers Haven't Been Seen Since Walter Johnson in 1913",
+        "word_count": 731
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cam Schlittler — Walter Johnson Numbers\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Cam Schlittler New York Yankees\"\n- **Alt Search:** \"Yankees pitcher mound\"\n- **Overlay Text:** \"1.35 ERA / 59 Ks / 9 BB in 9 Starts\" / \"Schlittler: Best Start Since Walter Johnson\"\n- **Mood:** Dominance, historical, awe\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Cam Schlittler pitching Yankees\"\n- **Alt Search:** \"New York Yankees starting pitcher\"\n- **Overlay Text:** None (article hero)\n- **Notes:** Schlittler in mid-delivery or celebrating a strikeout\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Braves (30-14) Own MLB's Best Record — Weekend Standings Check",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY. The Atlanta Braves (30-14) have the best record in baseball as the weekend wraps up, leading the NL East by a wide margin. The Chicago Cubs (28-16) lead the NL Central. In the AL, the Tampa Bay Rays (29-14) lead the AL East. The Phillies' surge under Mattingly (14-4) has brought them to .500 — the biggest managerial impact story of the 2026 season. A look at the league landscape as teams head into the final weeks of May.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Weekend MLB standings check:\n\n🔴 Braves: 30-14 (best in baseball)\n🔵 Cubs: 28-16 (NL Central)\n🍋 Rays: 29-14 (AL East)\n🔴 Phillies: at .500 (14-4 under Mattingly)\n\nThe races are forming. Who do you have winning their division? 👇\n\n#MLB #Baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-braves-30-14-cubs-rays-standings-nl-al-may-17.html",
+        "headline": "Braves Lead Baseball at 30-14, Cubs and Rays Own Their Divisions: Weekend Standings Check",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MLB Standings Check — Braves Lead\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn photo\n- **Search Terms:** \"Atlanta Braves Truist Park\"\n- **Alt Search:** \"Braves team celebration\"\n- **Overlay Text:** \"BRAVES: 30-14 — BEST IN BASEBALL\" / \"Weekend Standings Check\"\n- **Mood:** Dominance, top-of-the-league energy\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn photo\n- **Search Terms:** \"Atlanta Braves dugout players\"\n- **Alt Search:** \"MLB standings leaders celebration\"\n- **Overlay Text:** None (article hero)\n- **Notes:** Braves team or individual star celebrating; Truist Park atmosphere\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "MLB Sunday Round-Up — Subway Series Finale and a Packed Weekend in Review",
+      "tier": 3,
+      "status": "",
+      "angle": "NEW STORY. Sunday's MLB slate features the Subway Series finale (Yankees vs. Mets at Citi Field, 1:40 PM ET), plus action across all divisions. Weekend highlights: Phillies 6-0 Pirates (Sanchez/Harper); Cubs won Crosstown Classic over White Sox; Braves strong in NL East. A recap of what the weekend brought and what to watch Sunday.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "MLB weekend wrap:\n\n🗽 Subway Series finale at Citi Field today\n💣 Phillies 6-0 Pirates (Sanchez 13 Ks / Harper 457 ft)\n💍 Schwarber's 7-game HR streak ended — but 20 HRs fastest ever\n🏟️ Soto 250th HR — with wrist concerns\n\nSunday baseball waits for no one. ⚾\n\n#MLB #Baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

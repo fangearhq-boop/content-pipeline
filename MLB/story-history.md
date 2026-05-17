@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-17
+
+### Story 1: Phillies 14-4 Under Mattingly — Sanchez 13 Ks, Harper 457-Foot HR, Philly Reaches .500
+- **Angle:** NEW STORY. Phillies beat Pirates 6-0 Saturday. Cristopher Sanchez: career-high 13 Ks, second career shutout, 29⅔ scoreless innings. Bryce Harper: 457-foot 3-run HR in 1st (longest since 2022) off Bubba Chandler. Phillies 14-4 under Don Mattingly (replaced Thomson), reached .500 for first time since mid-April.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Phillies continue surge; NL East standings vs Braves
+
+### Story 2: Schwarber's 7-Game HR Streak Ends — But 20 HRs Was Earliest in MLB History
+- **Angle:** FOLLOW UP (Schwarber streak covered May 16). Streak ended at 7 consecutive games with HR (did not reach 8 to tie Mattingly/Long/Griffey MLB record). BUT: 20th HR on May 15 was earliest date ever in MLB history to reach 20 HRs (breaks Gonzalez's 2001 record). Still leads MLB at 20 HRs.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Schwarber's 2026 HR pace; Phillies offensive production
+
+### Story 3: Juan Soto 250th Career HR — But Mets Worried About His Wrist
+- **Angle:** FOLLOW UP (Soto 250th HR covered May 16, adding depth). 250 HR off Schlittler in 7th, 102.6 mph exit velo, 393 ft. Youngest since Pujols to reach 250 HR. Joins ARod/Griffey/Mantle/Trout in 250 HR + 95 SB before 28 club. Playing through wrist discomfort (grimaced on missed swing earlier in game). Mets lost 5-2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Soto wrist health; Mets Subway Series finale Sunday
+
+### Story 4: Cam Schlittler's Walter Johnson Start — 1.35 ERA Since 1913
+- **Angle:** FOLLOW UP (Schlittler AL ERA leader covered May 16, expanded context). Through 9 starts: 1.35 ERA, 5-1, 59 K, 9 BB, 1 HR, 0.81 WHIP. First pitcher since Walter Johnson (1913) to post those combined metrics through first 9 starts. 25 years old. 
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Schlittler's next start; Yankees AL East position vs Rays
+
+### Story 5: Braves (30-14) Lead Baseball — Weekend Standings Check
+- **Angle:** NEW STORY. Braves 30-14 best record in baseball and NL East. Cubs 28-16 lead NL Central. Rays 29-14 lead AL East. Phillies at .500 under Mattingly — biggest managerial turnaround story. NL/AL landscape going into late May.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Division races as Memorial Day approaches; trade deadline implications
+
+### Story 6: MLB Sunday Round-Up — Subway Series Finale and Weekend in Review
+- **Angle:** NEW STORY (round-up). Sunday Subway Series finale at Citi Field (1:40 PM ET). Weekend highlights: Phillies 6-0, Soto milestone, Schwarber streak end, Cubs beat White Sox Crosstown Classic.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Sunday MLB results; Monday action
+
+---
+
 ## 2026-05-16
 
 ### Story 1: Schwarber 7 Straight Games — Going for MLB Record Tonight

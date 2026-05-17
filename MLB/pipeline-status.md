@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-17
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 1 char violation fixed S1 tweet 1 288→245 via rewrite; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest, articles (5), fact-check (35 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 23 items), dashboard (23 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 1 char violation fixed (S1 tweet 1 288→245). S6 no image concept — Tier 3 social-only by design.
+- **Key Stories**: Phillies 6-0 Pirates/Sanchez career-high 13 Ks shutout 29⅔ scoreless/Harper 457-ft HR/14-4 under Mattingly/.500 (Tier 1), Schwarber 7-game streak ends/20 HRs earliest in MLB history/still leads at 20 (Tier 2 follow-up), Soto 250th HR 27yo youngest since Pujols/wrist discomfort concern/Mets 5-2 loss (Tier 2 follow-up), Schlittler 1.35 ERA 5-1 9 starts first since Walter Johnson 1913 (Tier 2 follow-up), Braves 30-14 MLB best/Cubs 28-16 NL Central/Rays 29-14 AL East standings (Tier 2), Sunday round-up Subway Series finale (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-16
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 1 char violation fixed S2 tweet 1 — extra code block removed; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 noted), image manifest, articles (5), fact-check (36 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
