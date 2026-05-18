@@ -1850,3 +1850,40 @@
 - **Key facts:** Cade 39 pts/9 ast G5 loss. Pistons won G1+G2 on road. Young core: Cade (26), A. Thompson (22), Duren (21). Franchise-altering playoff emergence regardless of series outcome.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Pistons elimination reflection; Cade's offseason expectations
+
+## 2026-05-18
+
+### STORY 1: Cavaliers 125-94 Game 7 — Cleveland Advances to ECF
+- **Tier:** 1
+- **Category:** Playoff Results / Game 7 Blowout
+- **Key facts:** Cavs 125, Pistons 94 (Game 7, May 17, Little Caesars Arena, Detroit). Cleveland wins series 4-3. Mitchell 26 pts/8 ast, Allen 23 pts, Merrill 23 pts, Mobley 21 pts/12 reb. Led 64-47 at half, 31-point margin. Cavs advance to ECF vs Knicks. Game 1 May 19, MSG, 8 PM ET ESPN.
+- **Status:** NEW STORY
+- **Follow-up ideas:** ECF Game 1 result; Mitchell ECF performance; Mobley emerging as two-way force
+
+### STORY 2: Thunder vs. Spurs WCF Game 1 Preview — Tonight
+- **Tier:** 1
+- **Category:** Game Preview / Conference Finals
+- **Key facts:** Game 1: May 18, 8:30 PM ET, Paycom Center, OKC. NBC/Peacock. OKC 64-18, 8-0 in playoffs (swept Suns + Lakers). Spurs 62-20, beat Wolves 4-2. SGA 2x MVP (31.1 ppg, 55.3% FG, 68 games, 20+ in all). Jalen Williams returning (Grade 1 hamstring, missed 6 games). De'Aaron Fox questionable (right ankle). Spurs went 4-1 vs OKC regular season.
+- **Status:** NEW STORY
+- **Follow-up ideas:** WCF G1 result; SGA vs Wemby head-to-head performance; Fox status
+
+### STORY 3: SGA Wins Back-to-Back MVP
+- **Tier:** 2
+- **Category:** Awards / Historic Achievement
+- **Key facts:** SGA named 2025-26 NBA MVP for 2nd consecutive season. 83 of 100 first-place votes. 14th player in NBA history to win back-to-back MVPs. 31.1 ppg, 55.3% FG, 38.6% 3P, 87.9% FT, 6.6 apg, 4.3 rpg, 68 games, 20+ in every game. Also won Clutch Player of the Year. Led league in clutch points.
+- **Status:** NEW STORY
+- **Follow-up ideas:** SGA WCF performance; comparing to other back-to-back MVPs
+
+### STORY 4: Wembanyama — First Unanimous DPOY, Age 22
+- **Tier:** 2
+- **Category:** Awards / Historic Achievement
+- **Key facts:** Wembanyama won DPOY with all 100 first-place votes — first unanimous DPOY winner in NBA history. Age 22, youngest ever. Led NBA in blocks 2nd straight year (197 total, 3.1 bpg). 25.0 ppg, 11.5 rpg, 66 stl. 2026 playoffs (9 games): 20.4 ppg, 11.2 rpg, 4.2 bpg. Spurs franchise record 35 pts in playoff debut.
+- **Status:** FOLLOW UP (from 2026-05-17 — first unanimous angle, deeper coverage)
+- **Follow-up ideas:** Wemby WCF performance vs SGA
+
+### STORY 5: Knicks-Cavaliers ECF Schedule Set
+- **Tier:** 2
+- **Category:** Series Preview / Schedule
+- **Key facts:** No. 3 Knicks vs. No. 4 Cavs. Knicks have home court. G1 May 19 MSG 8 PM ET ESPN. G2 May 21, G3 May 23 ABC, G4 May 25, G5 May 27 (if needed), G6 May 29, G7 May 31. Cleveland swept in, resting Knicks await.
+- **Status:** NEW STORY
+- **Follow-up ideas:** ECF Game 1 result; Knicks home crowd advantage; Mitchell vs NY matchup

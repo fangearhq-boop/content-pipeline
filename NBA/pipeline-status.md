@@ -1,5 +1,22 @@
 ## Last Run
-- **Date**: 2026-05-17
+
+## Last Run
+- **Date**: 2026-05-18
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-05-18
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-05-18.xlsx (7 posts) + hh-postplanner-tobi-2026-05-18.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-18/review-dashboard.html (25 items)
+- **Notes:** Cavs 125-94 Pistons Game 7 blowout (Mitchell 26/8, Allen 23, Merrill 23, Mobley 21/12); Cavs advance to ECF vs Knicks (G1 May 19 MSG 8 PM ET ESPN); WCF Game 1 tonight (OKC vs SA, 8:30 PM ET NBC/Peacock); SGA 2x back-to-back MVP (31.1 ppg, 14th all-time); Wembanyama unanimous DPOY (all 100 votes, first ever); Jalen Williams returns for OKC, De'Aaron Fox questionable (ankle) for Spurs.
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log

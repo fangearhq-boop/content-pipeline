@@ -1,0 +1,229 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-18",
+  "compiled_at": "2026-05-18T11:19:51.190929+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cavaliers 125-94 Game 7 Blowout — Cleveland Advances to ECF",
+      "tier": 1,
+      "status": "",
+      "angle": "Road warriors — Cleveland blew out Detroit in front of its own fans in a winner-take-all game.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "**Post 1A — Result recap**\nWindow: 9:00 AM ET\n\nBLOWOUT. @cavs 125, Pistons 94. Game 7. On the road.\n\nMitchell 26 pts. Allen 23. Merrill 23. Mobley 21/12.\n\nCleveland is GOING TO THE ECF. 🔥 #LetEmKnow",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetEmKnow"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 9:00 AM ET\n\nROAD WARRIORS. 🏀\n\nThe Cleveland Cavaliers went to Detroit for a winner-take-all Game 7 — and made it look easy. Final score: 125-94.\n\nFour Cavaliers scored 20 or more points:\n• Donovan Mitchell — 26 points, 8 assists\n• Jarrett Allen — 23 points\n• Sam Merrill — 23 points\n• Evan Mobley — 21 points, 12 rebounds\n\nCleveland led 64-47 at halftime and never looked back. The Pistons — who had been so scrappy and resilient through this entire series — had no answers. The Cavs held them to 94 points in a game where nothing worked for Detroit.\n\nThe Cavaliers are GOING TO THE EASTERN CONFERENCE FINALS. 🔥\n\nThey'll face the New York Knicks starting Tuesday, May 19 at Madison Square Garden. Game 1 tips off at 8 PM ET on ESPN.\n\nThis Cleveland team is playing some of the best basketball in the East right now. Are they winning the title? Drop your prediction below! 👇\n\n---",
+        "image_caption": "Donovan Mitchell 26. Evan Mobley 21/12. Four Cavs with 20+. Cleveland wins Game 7 on the road, 125-94, and advances to the Eastern Conference Finals. 🏀🔥 #CavaliersPride #LetEmKnow",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cavaliers-game7-blowout-ecf.html",
+        "headline": "Cavaliers 125-94 Game 7 Blowout — Cleveland Advances to Eastern Conference Finals",
+        "word_count": 506
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cavaliers 125-94 Game 7\n\n**Concept 1A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Donovan Mitchell celebrating, Cavaliers bench erupting\n- Search terms: \"Donovan Mitchell Cleveland Cavaliers\"\n- Usage: X post 1A + FB long-form header\n- Status: not_started\n\n**Concept 1B — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Evan Mobley rebounding or driving in playoff action\n- Search terms: \"Evan Mobley Cleveland Cavaliers\"\n- Usage: FB image caption\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "WCF Game 1 Preview — Thunder vs. Spurs Tonight",
+      "tier": 1,
+      "status": "",
+      "angle": "The most anticipated series in years — two franchise players in their primes going head-to-head for an NBA Finals berth.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "**Post 2A — Preview hype**\nWindow: 4:00 PM ET\n\nTONIGHT. 8:30 PM ET. NBC/Peacock.\n\nSGA (2× MVP) vs. Wembanyama (unanimous DPOY).\n\n@okcthunder (8-0) vs. @spurs. Western Conference Finals. Game 1.\n\nThis one is must-watch. 👀 #ThunderUp #PorVida",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp",
+            "#PorVida"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 4:00 PM ET\n\nTONIGHT IS THE GAME OF THE YEAR. 🔥\n\nOklahoma City Thunder vs. San Antonio Spurs — Western Conference Finals, Game 1.\n\nThis matchup is special:\n• OKC enters 8-0 in the playoffs — they've won EVERY SINGLE GAME\n• The Thunder's Shai Gilgeous-Alexander just won his second straight NBA MVP, averaging 31.1 points per game\n• San Antonio's Victor Wembanyama won Defensive Player of the Year unanimously — the first player EVER to do it\n• Jalen Williams returns from a hamstring injury and will be available for OKC\n• De'Aaron Fox is questionable for San Antonio with an ankle issue\n\nWhen SGA takes the ball up the court, Wembanyama is waiting. When Wemby catches the ball in the post, SGA has to decide: switch or stay? This is exactly the kind of chess match that makes the playoffs electric.\n\nTip-off: 8:30 PM ET on NBC and Peacock.\n\nWho wins tonight? SGA and the Thunder or Wemby and the Spurs? 👇\n\n---",
+        "image_caption": "SGA (2× MVP) meets Wembanyama (unanimous DPOY). Tonight at 8:30 PM ET on NBC/Peacock. Western Conference Finals Game 1. 🏀🔥 #ThunderUp #PorVida",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-thunder-spurs-wcf-game1-preview.html",
+        "headline": "Thunder vs. Spurs WCF Game 1 Preview — The NBA's Two Best Teams Finally Meet",
+        "word_count": 760
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thunder vs. Spurs WCF Game 1\n\n**Concept 2A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Shai Gilgeous-Alexander dribbling or shooting in recent playoff action\n- Search terms: \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- Usage: X post 2A + FB preview header\n- Status: not_started\n\n**Concept 2B — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Victor Wembanyama blocking a shot or defending\n- Search terms: \"Victor Wembanyama San Antonio Spurs\"\n- Usage: X post 2B angle + article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "SGA Wins Back-to-Back MVP — Joins Elite Company",
+      "tier": 2,
+      "status": "",
+      "angle": "SGA enters the WCF as the reigning MVP, with the title of best player in basketball firmly in hand.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "**Post 3A — Award announcement**\nWindow: 11:00 AM ET\n\nShai Gilgeous-Alexander: back-to-back NBA MVP.\n\n31.1 PPG. 55.3% FG. 6.6 APG. Scored 20+ in all 68 games.\n\nOnly the 14th player in NBA history to win it twice in a row. @okcthunder #ThunderUp",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 11:00 AM ET\n\nTWO IN A ROW. 🏆🏆\n\nShai Gilgeous-Alexander is officially the 2025-26 NBA Most Valuable Player — for the second straight season.\n\nHere's what made this season historic:\n• 31.1 points per game\n• 55.3% field goal percentage\n• 6.6 assists, 4.3 rebounds per game\n• Scored 20 or more points in ALL 68 games he played\n• Led the entire league in clutch points\n• Also won Clutch Player of the Year\n\nSGA received 83 of the 100 first-place MVP votes. He becomes just the 14th player in NBA history to win back-to-back MVPs — joining legends like Michael Jordan, LeBron James, Larry Bird, and Kareem Abdul-Jabbar.\n\nAnd he's entering the Western Conference Finals tonight against the Spurs, trying to bring Oklahoma City its first NBA championship.\n\nThe man is 27 years old and he's one of the best players on the planet right now. 👏\n\nWho are you putting SGA's prime alongside in NBA history? 👇\n\n---",
+        "image_caption": "Back-to-back MVP. Shai Gilgeous-Alexander: 31.1 PPG, 55.3% FG, 20+ points in all 68 games. The best player in basketball. 🏆 #ThunderUp #MVP",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-sga-back-to-back-mvp.html",
+        "headline": "SGA Wins Back-to-Back MVP — Joins the 14 Greatest Seasons in NBA History",
+        "word_count": 526
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SGA Back-to-Back MVP\n\n**Concept 3A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: SGA holding MVP trophy or celebrating, formal setting\n- Search terms: \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- Usage: FB MVP post\n- Status: not_started\n\n**Concept 3B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: SGA in action — driving to basket or mid-range jumper\n- Search terms: \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- Usage: Article hero image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wembanyama — First-Ever Unanimous DPOY at Age 22",
+      "tier": 2,
+      "status": "",
+      "angle": "Wembanyama isn't just good — he's historically dominant on defense, and he's only getting started.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "**Post 4A — Historic unanimous vote**\nWindow: 1:00 PM ET\n\nVictor Wembanyama: ALL 100 first-place DPOY votes.\n\nThe first unanimous Defensive Player of the Year in NBA history.\n\n3.1 BPG. 197 blocks. Age 22. He's just getting started. @spurs #PorVida",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PorVida"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 1:00 PM ET\n\nUNANIMOUS. ALL 100 VOTES. 🛡️\n\nVictor Wembanyama just made NBA history.\n\nThe San Antonio Spurs center was named Defensive Player of the Year — and he received every single first-place vote. All 100 of them. He's the FIRST player in the history of the DPOY award to win it unanimously.\n\nLet that sink in. He's 22 years old.\n\nHis defensive numbers this season were staggering:\n• 3.1 blocks per game\n• 197 total blocks — led the NBA for the SECOND straight year\n• 11.5 rebounds per game\n• 66 steals\n\nHe didn't just win the award — he ran away with it. Nobody was even close.\n\nAnd in 9 playoff games, he's averaging 20.4 points, 11.2 rebounds, and 4.2 blocks. He scored 35 in his playoff debut — a Spurs franchise record.\n\nHe's going up against Shai Gilgeous-Alexander and the Thunder in the Western Conference Finals starting tonight. The basketball world is watching two of the most special players of their generation match up on the biggest stage.\n\nWhat's Wemby's ceiling? Because we haven't seen it yet. 👇\n\n---",
+        "image_caption": "All 100 first-place votes. Victor Wembanyama is the first unanimous Defensive Player of the Year in NBA history. Age 22. 3.1 BPG. The defense of a generation. 🛡️ #Spurs #PorVida",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wembanyama-unanimous-dpoy.html",
+        "headline": "Wembanyama Wins Unanimous DPOY — The First in NBA History, at Age 22",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama DPOY\n\n**Concept 4A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Wembanyama swatting a shot or standing tall defensively\n- Search terms: \"Victor Wembanyama San Antonio Spurs\"\n- Usage: FB DPOY post header\n- Status: not_started\n\n**Concept 4B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: Wembanyama in defensive stance or blocking a shot\n- Search terms: \"Victor Wembanyama San Antonio Spurs\"\n- Usage: Article hero image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Knicks-Cavs ECF Set — MSG Hosts Game 1 on Tuesday",
+      "tier": 2,
+      "status": "",
+      "angle": "Knicks nation is electric — MSG hosts its first Conference Finals game since 2000. Cleveland comes in riding a wave of momentum from their Game 7 dominance.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "**Post 5A — Series set**\nWindow: 9:00 AM ET\n\nThe ECF is SET.\n\nNo. 3 @nyknicks vs. No. 4 @cavs.\n\nGame 1: Tomorrow, Tuesday May 19, 8 PM ET, ESPN at MSG.\n\nCleveland just blew out Detroit in a Game 7 road win. Knicks have been waiting. #NewYorkForever #LetEmKnow",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever",
+            "#LetEmKnow"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 9:30 AM ET\n\nEASTERN CONFERENCE FINALS ARE SET! 🏀🗽\n\nNew York Knicks vs. Cleveland Cavaliers.\n\nAfter Cleveland's massive 125-94 Game 7 road win over Detroit, the ECF matchup is official — and here's the full schedule:\n\n📅 Game 1: Tuesday, May 19 — Knicks at MSG, 8 PM ET (ESPN)\n📅 Game 2: Thursday, May 21 — Knicks at MSG, 8 PM ET (ESPN)\n📅 Game 3: Saturday, May 23 — Cavs at Cleveland, ABC\n📅 Game 4: Monday, May 25 — Cavs at Cleveland (ESPN)\n📅 Game 5: Wednesday, May 27 — if necessary (ESPN)\n📅 Game 6: Friday, May 29 — if necessary (ESPN)\n📅 Game 7: Sunday, May 31 — if necessary (ESPN)\n\nThe Knicks hold home court as the No. 3 seed. They've been waiting and resting while Cleveland was grinding through a 7-game battle with Detroit.\n\nThe Cavaliers arrive with momentum — four players with 20+ in a Game 7 blowout has a way of building confidence.\n\nThis series has the potential to be special. Battle-tested Cavs vs. rested-and-ready Knicks. Who do you like? 👇\n\n---",
+        "image_caption": "ECF is set: Knicks vs. Cavaliers. Game 1 at MSG, Tuesday May 19, 8 PM ET. Are you ready? 🏀🗽 #NewYorkForever #LetEmKnow",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-knicks-cavaliers-ecf-schedule.html",
+        "headline": "Knicks vs. Cavaliers: Eastern Conference Finals Set — Schedule, Matchups and What to Expect",
+        "word_count": 618
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks-Cavs ECF\n\n**Concept 5A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Knicks player at Madison Square Garden\n- Search terms: \"New York Knicks Madison Square Garden\"\n- Usage: FB ECF schedule post\n- Status: not_started\n\n**Concept 5B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: Donovan Mitchell or Cleveland Cavaliers in playoff action\n- Search terms: \"Donovan Mitchell Cleveland Cavaliers\"\n- Usage: Article hero image\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
