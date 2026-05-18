@@ -1,6 +1,15 @@
 # Cubs Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-18 (full pipeline run)
+- **Steps Completed**: Research (11 searches, 6 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log (27 claims, 0 errors), compile-content-data.py (all clear, 0 warnings), generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — recurring issue)
+- **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-18/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
+- **GitHub Pages Status**: N/A for this run (push rejected — recurring, content-dashboards separate repo not in PAT scope)
+- **Issues**: (1) Both series-context API and insights API returned 403 again — off_day=true fallback INCORRECT. Web research confirms Cubs open 3-game home series vs Brewers tonight (May 18, 6:40 PM CT). Conflict: engine docs (research-playbook.md) give game recaps priority over series-preview in the 7 AM slot; Crosstown recap at 7 AM, series preview at 8:15 AM. (2) Insights tweet_count=0 — brand-voice.md defaults applied. (3) publish-unified-dashboard.py push rejected 403 (same recurring issue). Core deliverable (07-content-data.json) compiled and pushed to content-pipeline repo for cubs-x-bot.
+- **Insights applied**: API unavailable (403/tweet_count=0). Fell through to brand-voice.md defaults. 50/50 informative/bold split applied (Stories 1/3 informative; Stories 2/4/5 bold/analytical; Story 6 hype). No format adjustments possible without data.
+- **Key stories**: White Sox 9-8 walkoff recap (Quero 10th-inning HR, Conforto 3-run 9th), Brewers series preview (Imanaga vs Sproat 6:40 PM CT), bullpen moves (Blach up/Assad down/Harvey 60-day), Ben Brown vs Misiorowski (Game 2 Tue), Peralta June 1 clock (14 days), game-time hype.
+
+## Previous Run
 - **Date**: 2026-05-17 (full pipeline run)
 - **Steps Completed**: Research (17 searches, 7 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log (29 claims, 0 errors), compile-content-data.py (all clear), generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — recurring issue)
 - **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-17/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
@@ -9,7 +18,7 @@
 - **Insights applied**: API unavailable (403/tweet_count=0). Fell through to brand-voice.md defaults. 50/50 informative/bold split applied (Stories 1/3/5 informative; Stories 2/4/6 bold/analytical). No format adjustments possible without data.
 - **Key stories**: Taillon 5-HR Game 2 loss (recap + bold take), Boyd mound session update, NL Central rival watch, Game 3 preview (Rea vs Fedde, 1:10 PM CT), Peralta trade deadline clock (Mets June 1 decision).
 
-## Previous Run
+## Previous Run (Two Runs Ago)
 - **Date**: 2026-05-16 (full pipeline run)
 - **Steps Completed**: Research (10 searches, 6 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log, compile-content-data.py, generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — separate repo not in PAT scope)
 - **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-16/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
@@ -93,6 +102,25 @@ to mark them as pipeline-produced.
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-18
+- Stories: 6 (Tier 1: crosstown-walkoff-recap, brewers-series-preview; Tier 2: roster-moves, brown-vs-misiorowski, peralta-trade-clock; Tier 3: game-time-hype) — X-only niche
+- X posts: 6 (3 informative-leaning / 3 bold-hype = 50/50 mix)
+- Char counts: all 6 ≤ 280 (274/257/268/278/280/125)
+- Fact-check: Manual verification. 27 claims checked, 0 errors, 1 plausible (Cubs record 29-17 calculated). HIGH verified: White Sox 9-8 Cubs F/10 (ESPN box score), Quero 2-run walkoff HR (FOX 32 + ESPN), Conforto 3-run HR 9th (FOX 32), Peters 3-run HR 8th (FOX 32), White Sox win series 2-1 first since 2022 (FOX 32 explicit), Imanaga 4-3 2.32 ERA (MLB.com), Sproat 1-2 5.75 ERA (MLB.com), 3-game series 6:40 PM CT (MLB.com Gameday), Blach selected/Assad optioned/Harvey 60-day (CubsHQ), Boyd 6 weeks (MLB Trade Rumors), Brown 1.60 ERA (Brew Crew Ball), Misiorowski MLB K/9 leader 14.0 (multiple sources), Brown 2-0 vs Brewers 19 K/18 IP (Brew Crew Ball), Peralta 3.12 ERA + June 1 deadline (established May 14-17 pipeline). Dropped: Misiorowski 18.1 scoreless innings in May (single source), Misiorowski ERA figure (conflicting sources 2.84 vs 2.12).
+- Dashboard: Generated locally (Cubs/cubs-content-2026-05-18/review-dashboard.html). Publish to content-dashboards FAILED (403 — same recurring issue, PAT doesn't cover content-dashboards repo).
+- 07-content-data.json: ✓ Compiled, 6 stories, 6 x_posts with posting_time in "H:MM AM/PM CT" format, 0 errors, 0 warnings
+- Key stories: White Sox 9-8 walkoff Quero HR Conforto 3-run 9th (P9), Brewers 3-game series Wrigley Imanaga vs Sproat 6:40 CT (P9), Blach selected Assad optioned Harvey 60-day (P7), Brown 1.60 ERA vs Misiorowski MLB K/9 leader Game 2 Tue (P9), Peralta June 1 14 days Boyd out 6 weeks (P8), game-time hype (P5)
+- Notes: Both APIs (insights, series-context) returned 403 for 6th consecutive pipeline run. off_day=true fallback INCORRECT — web research confirmed Cubs open Brewers series tonight. Conflict resolution: game recap (engine docs priority) at 7 AM; series preview at 8:15 AM. No insights tuning (cold start). 07-content-data.json ready for cubs-x-bot.
+
+### 2026-05-17
+- Stories: 6 (Tier 1: recap, bold-take; Tier 2: boyd-mound, rival-watch, game-preview; Tier 3: peralta-clock) — X-only niche
+- X posts: 6 (3 informative / 3 bold-hype = 50/50 mix)
+- Char counts: all 6 under 280
+- Fact-check: 29 claims, 0 errors
+- Dashboard: Generated locally. Publish to content-dashboards FAILED (403).
+- 07-content-data.json: ✓ Compiled, 6 stories, 6 x_posts
+- Key stories: Taillon 5 HRs game 2 loss (P10), rotation crisis bold take (P9), Boyd mound session late June return (P8), NL Central Cubs lead Cards lurking (P7), Game 3 Rea vs Fedde 1:10 PM CT (P8), Peralta June 1 decision clock (P7)
 
 ### 2026-05-16
 - Stories: 6 (Tier 1: crosstown-recap; Tier 2: kelly-bold-take, game2-preview, rival-watch, game-time; Tier 3: brown-rotation) — X-only niche

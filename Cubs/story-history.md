@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-18
+
+### STORY 1: White Sox 9, Cubs 8 (F/10) — Quero Walkoff Ends Crosstown Classic
+- **Angle:** NEW STORY. Edgar Quero 2-run walkoff HR in bottom of 10th. Cubs had led 8-7 in top of 10th. Conforto 3-run HR tied it 7-7 in 9th. Peters 3-run HR put White Sox up 7-4 in 8th. White Sox win Crosstown Classic series 2-1 — first series win over Cubs since 2022. Cubs fall to 29-17.
+- **Content Produced:** X (1 post — 7:00 AM CT)
+- **Follow-Up:** Crosstown takeaways; any Cubs lineup/bullpen changes heading into Brewers series
+
+### STORY 2: Brewers Series Opener — 3 Games at Wrigley, Imanaga vs Sproat, 6:40 PM CT
+- **Angle:** NEW STORY (series preview). Cubs open 3-game home series vs Brewers. Imanaga (4-3, 2.32 ERA) vs Sproat (1-2, 5.75 ERA). Cubs lead NL Central; Cardinals 1.5 GB; Brewers chasing.
+- **Content Produced:** X (1 post — 8:15 AM CT)
+- **Follow-Up:** Brewers Game 1 result; Imanaga's line; series through Wednesday
+
+### STORY 3: Bullpen Shuffle — Ty Blach Selected, Assad Optioned, Harvey to 60-Day IL
+- **Angle:** NEW STORY. Cubs select LHP Ty Blach from Iowa, option Javier Assad, move Hunter Harvey from 15-day to 60-day IL. Roster moves tied to Boyd's meniscus absence.
+- **Content Produced:** X (1 post — 9:30 AM CT)
+- **Follow-Up:** Blach's role/usage; Harvey 60-day return date; further roster adjustments
+
+### STORY 4: Ben Brown vs Misiorowski — 1.60 ERA Meets MLB's K/9 Leader
+- **Angle:** FOLLOW-UP (Brown rotation arc from May 16). Brown (1-1, 1.60 ERA) starts Game 2 Tuesday vs Misiorowski — MLB leader in K/9 (14.0). Brown career 2-0 vs Brewers, 19 K in 18 IP.
+- **Content Produced:** X (1 post — 10:45 AM CT)
+- **Follow-Up:** Brown's Game 2 line; Misiorowski result; pitch count escalation
+
+### STORY 5: Peralta Trade Clock — June 1 Decision Point Is 14 Days Out
+- **Angle:** FOLLOW-UP (Peralta arc from May 17). Mets' June 1 decision point now 14 days away. Taillon's 5-HR outing still fresh. Boyd out 6 more weeks. Peralta (3.12 ERA) is the triage option.
+- **Content Produced:** X (1 post — 12:00 PM CT)
+- **Follow-Up:** Any Peralta/Mets news; other SP trade market movement; Cubs front office signals
+
+### STORY 6: Game Time Hype — Imanaga at Wrigley
+- **Angle:** TODAY (game time energy). Brewers series Game 1, 6:40 PM CT at Wrigley.
+- **Content Produced:** X (1 post — 6:30 PM CT)
+- **Follow-Up:** Game 1 result for next pipeline
+
+---
+
 ## 2026-05-17
 
 ### STORY 1: White Sox 8, Cubs 3 — Taillon's Five-HR Nightmare, Series Tied 1-1

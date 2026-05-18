@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-18",
+  "compiled_at": "2026-05-18T09:20:45.754280+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Crosstown Classic finale recap — Quero walkoff",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Brewers series opener preview — Imanaga vs Sproat",
+      "type": "Bold/hype"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Roster moves — Blach/Assad/Harvey",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Ben Brown vs Misiorowski preview",
+      "type": "Analytical"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Peralta June 1 trade clock",
+      "type": "Bold take"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Game time hype",
+      "type": "Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "White Sox 9-8 Cubs — Quero Walkoff Ends Crosstown Classic in Extras",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs had the lead in the 10th inning. Conforto's 3-run shot brought them back from 7-4 in the 9th. Then Edgar Quero's 2-run walkoff HR ended it. White Sox win the Crosstown Classic series 2-1 — first series win over the Cubs since 2022. Cubs fall to 29-17.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs had the lead in the 10th. Conforto's 3-run shot brought them all the way back from 7-4 in the 9th.\n\nThen Edgar Quero — two-run walkoff HR. White Sox take the Crosstown Classic series 2-1.\n\nFirst time the Sox win a Cubs series since 2022. Stings.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative — game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 6,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "White Sox 9-8 Cubs — Crosstown Classic Finale (F/10)\n**Key facts (verified):**\n- [HIGH] Final score: White Sox 9, Cubs 8 — F/10 (10 innings)\n- [HIGH] Edgar Quero hit a 2-run HR in the bottom of the 10th to walk off the Cubs\n- [HIGH] Cubs had taken an 8-7 lead in the top of the 10th (Manfred runner + RBI)\n- [HIGH] Michael Conforto hit a 3-run HR in the top of the 9th off Ser Anthony Dominguez to tie it at 7-7\n- [HIGH] Tristian Peters hit a 3-run HR in the bottom of the 8th off Phil Maton to put White Sox up 7-4\n- [HIGH] White Sox win Crosstown Classic series 2-1 (Game 1: Cubs +5; Game 2: White Sox +5; Game 3: White Sox walkoff)\n- [HIGH] First White Sox Crosstown series win over Cubs since 2022\n- [MEDIUM] Cubs fall to 29-17 (calculated: were 29-16 before May 17 loss)\n**Sources:**\n- ESPN box score: espn.com/mlb/game/_/gameId/401815382 (White Sox 9-8 Cubs May 17 2026)\n- FOX 32 Chicago: Crosstown Classic takeaways / series-finale recap\n- Yahoo Sports: Cubs vs White Sox preview (1:10 CT start confirmed)\n- Bleacher Nation: Enhanced Box Score White Sox 8 Cubs 3 (May 16) — confirmed series Game 2 context",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "3-Game Division Series Starts Tonight — Imanaga vs Sproat, Wrigley, 6:40 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs open a 3-game home series vs the Brewers. Imanaga (4-3, 2.32 ERA) vs Sproat (1-2, 5.75 ERA). Cubs lead NL Central, Cardinals are 1.5 GB, Brewers chasing. Division series with real stakes — Cubs need a home-stand win to re-establish separation.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "3 games at Wrigley against the Brewers, starting TONIGHT.\n\nImanaga (4-3, 2.32 ERA) vs Sproat (1-2, 5.75 ERA). Cubs lead the NL Central, Cardinals are 1.5 back, Brewers are chasing.\n\nFirst pitch: 6:40 PM CT. Division series. Let's go.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold/hype — series preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 7,
+        "claims_flagged": 3,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Brewers Series Opener — Imanaga vs Sproat, 6:40 PM CT\n**Key facts (verified):**\n- [HIGH] Cubs vs Brewers Game 1: Monday May 18, 6:40 PM CT at Wrigley Field\n- [HIGH] Cubs probable starter: LHP Shota Imanaga (4-3, 2.32 ERA, 2.84 FIP)\n- [HIGH] Brewers probable starter: RHP Brandon Sproat (1-2, 5.75 ERA, 5.73 FIP)\n- [HIGH] 3-game series (Mon May 18, Tue May 19, Wed May 20)\n- [MEDIUM] Cubs record entering series: 29-17 (calculated)\n- [MEDIUM] Cardinals 27-18, ~1.5 GB — verified from Cardinals standings search\n- [MEDIUM] Brewers ~22-16 — from Covers.com (approximate)\n- [HIGH] Brewers have been hot — Misiorowski emergence, 4-game win streak noted as of May 16\n**Sources:**\n- MLB.com Gameday: brewers-vs-cubs/2026/05/18/824680/live (official game data)\n- DraftKings Network: MLB probable pitchers May 18 2026\n- Brew Crew Ball: series preview (Milwaukee Brewers @ Chicago Cubs)\n- FantasyPros probables grid",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Bullpen Shuffle — Blach Up, Assad Down, Harvey to 60-Day IL",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs select Ty Blach from Iowa, option Javier Assad, and move Hunter Harvey to the 60-day IL. Roster reshuffling continues as Boyd (meniscus, 6 weeks) remains on the shelf. This is the Cubs trying to find reliable depth while the rotation is short-staffed.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cubs make a round of moves: Ty Blach selected from Iowa, Javier Assad optioned, Hunter Harvey shifted to the 60-day IL.\n\nWith Boyd on the shelf for another 6 weeks, this roster is still in flux. Blach adds depth the bullpen desperately needs.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative — roster news",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Roster Moves — Blach Selected, Assad Optioned, Harvey to 60-Day IL\n**Key facts (verified):**\n- [HIGH] Cubs select contract of LHP Ty Blach from Triple-A Iowa\n- [HIGH] RHP Javier Assad optioned to Triple-A Iowa\n- [HIGH] RHP Hunter Harvey moved from 15-day IL to 60-day IL\n- [HIGH] Boyd (left knee meniscus surgery) on IL, returning late June/early July\n- [HIGH] Trent Thornton previously selected; Charlie Barnes DFA'd in related moves\n- [MEDIUM] Current Cubs rotation: Imanaga, Cabrera, Taillon, Rea, Brown (5th)\n- [MEDIUM] Palencia may be on IL (listed in IL inventory per injury report search — unconfirmed if still on IL vs active after May 15 save)\n**Sources:**\n- CubsHQ: \"Cubs make several roster moves\" (selected/optioned/IL moves)\n- Bleed Cubbie Blue: Cubs roster move — Matthew Boyd activated, Luke Little optioned (earlier move context)\n- DraftKings: Matthew Boyd meniscus surgery / six weeks timeline",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ben Brown Faces Misiorowski Tomorrow — 1.60 ERA vs MLB's K/9 Leader",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brown (1-1, 1.60 ERA, 2.44 FIP) starts Game 2 Tuesday vs Jacob Misiorowski — the Brewers' ace who leads MLB in K/9 at 14.0 and has 18.1 scoreless innings this month. Brown is 2-0 career vs Milwaukee with 19 strikeouts in 18 innings. Best pitching matchup of the series.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tuesday's game is the one to watch.\n\nBen Brown (1.60 ERA) faces Jacob Misiorowski — the MLB leader in K/9 at 14.0 strikeouts per nine. Brown is 2-0 in his career vs Milwaukee with 19 Ks in 18 innings.\n\nTwo of the best young arms in the NL. Must-see.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Analytical — bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Ben Brown vs Misiorowski — Game 2 Preview\n**Key facts (verified):**\n- [HIGH] Ben Brown starts Game 2 (Tue May 19, 6:40 PM CT) vs Brewers\n- [HIGH] Brown 2026 line through appearances: 1-1 record, 1.60 ERA, 2.44 FIP, 34 K in 33 2/3 IP\n- [HIGH] Brown career vs Brewers: 2-0, 19 K, 2 ER in 18 innings\n- [HIGH] Jacob Misiorowski starts Game 2 for Brewers\n- [HIGH] Misiorowski leads MLB in K/9 at 14.0 K/9\n- [HIGH] Misiorowski: 59 strikeouts through 7 starts\n- [MEDIUM] Misiorowski ERA: 2.84 (through 7 starts, one source) / 2.12 (mid-May, Clutch Points); using 2.84 as more source-attributed figure\n- [MEDIUM] 18.1 consecutive scoreless innings in May (Clutch Points — single source; do not use as definitive fact in tweet)\n- [HIGH] Misiorowski All-Star buzz noted in multiple outlets\n**Sources:**\n- Brew Crew Ball: Series preview (Brown 1-1/1.60 ERA vs Misiorowski, Tue 6:40 PM)\n- WiSports Heroics: Misiorowski emerging as ace in 2026\n- Clutch Points: Misiorowski delivers another gem, All-Star push\n- Yahoo Sports: Seven Misiorowski stats\n- ESPN Misiorowski player page",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Peralta Clock, 14 Days Out — This Is Triage, Not a Deadline Move",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "June 1 is 14 days away. The Mets' Peralta decision point is approaching fast. Taillon's 5-HR meltdown is 2 days old. Boyd is out another 6 weeks. The Cubs need a starter now — Peralta (3.12 ERA) is the best option on the market before the August 3 deadline.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Mets set June 1 as their decision point on Freddy Peralta. That's 14 days away.\n\nTaillon just gave up 5 HRs in a single start. Boyd is out another 6 weeks. The Cubs need a starter now — not at the deadline.\n\nPeralta (3.12 ERA) fits. The clock is ticking.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold take — trade analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 5,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Peralta June 1 Trade Clock\n**Key facts (verified):**\n- [HIGH] Mets set June 1 as decision point on Freddy Peralta (established in May 17 pipeline)\n- [HIGH] June 1 is 14 days from today (May 18)\n- [HIGH] Peralta 2026 ERA: 3.12 (from May 14-17 pipeline research — unchanged)\n- [HIGH] Taillon gave up career-high 5 HRs in 5+ IP on May 17 (covered in May 17 pipeline)\n- [HIGH] Boyd: meniscus surgery, out ~6 weeks (late June/early July return)\n- [HIGH] Horton: out 2026 (TJ surgery)\n- [HIGH] Steele: not before All-Star break (setback)\n- [MEDIUM] August 3 trade deadline (MLB policy — standard)\n**Sources:**\n- May 17 pipeline research (Peralta Mets deadline — established fact)\n- Multiple sources from May 14-17 research confirming rotation crisis",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Tonight at Wrigley — Game Time",
+      "tier": 3,
+      "status": "",
+      "angle": "Short game-time energy tweet. Imanaga, Wrigley, Brewers. Division series.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "TONIGHT at Wrigley. Imanaga on the mound. Brewers in town for a 3-game division set.\n\nLet's get it. 🔥\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Hype — game time",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 125
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 2,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game Time Hype\n**Key facts (verified):**\n- [HIGH] Imanaga starts tonight at Wrigley, 6:40 PM CT vs Brewers",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
