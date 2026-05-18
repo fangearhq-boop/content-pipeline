@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-18
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 4 char violations fixed S2/S4/S5/S6 via rewrite; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest (not_started), articles (5), fact-check (115 claims, 0 char violations after fix, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required). FB posts compile to 0 (heading format — known). 4 char violations fixed before compile. S6 no image concept — Tier 3 social-only by design.
+- **Key Stories**: UCF 4-2 upset of No. 9 FSU/Tallahassee Regional Final/first-ever UCF NCAA win vs FSU/UCF to 2nd ever Super Regional (Tier 1), Alabama NCAA-record 20th Super Regional/Vic Moten near-perfect game/9-0 USC Upstate/Briski held in reserve/hosts No. 16 LSU (Tier 1), LSU sweeps Baton Rouge Regional 23-2/7-2 VT final/Lassiter HR+Bergeron single/faces No. 1 Alabama (Tier 2), Super Regionals full bracket all 8 matchups May 21-24/WCWS Devon Park May 28 (Tier 2), No. 10 Georgia 4th straight Super Regional/Fisher CG shutout 5-0 Clemson/faces Tennessee (Tier 2), Nebraska 1-0 GCU + Oklahoma 8-1 Michigan + Texas 7th straight + MSU sweeps Eugene (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-17
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 1 char violation fixed S5 tweet 1 282→252 via rewrite; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest, articles (5), fact-check (98 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/

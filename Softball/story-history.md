@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 18, 2026
+
+### Story 1: UCF Upsets No. 9 FSU 4-2 — Tallahassee Regional Final
+- **Angle:** NEW STORY. UCF defeated FSU 4-2 in winner-take-all Tallahassee Regional Final. Two 2-run HRs. FSU never led. FSU season ends 49-9. UCF wins regional unbeaten (first-ever NCAA win over FSU). UCF to second ever Super Regional vs No. 8 UCLA (Fri May 22, 9 PM ET, ESPNU).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** UCF vs UCLA Super Regional result; FSU offseason
+
+### Story 2: Alabama NCAA-Record 20th Super Regional — Vic Moten Near-Perfect 9-0
+- **Angle:** FOLLOW UP (Alabama Tuscaloosa Regional covered May 13-17). Alabama 9-0 USC Upstate in Regional Final. Vic Moten perfect through 4+ innings, no-hitter through 5. 4 HRs. NCAA-record 20th Super Regional (22nd all-time regional title). Jocelyn Briski held in reserve. Hosts No. 16 LSU on May 22.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Alabama vs LSU Super Regional result; WCWS run
+
+### Story 3: LSU Sweeps Baton Rouge Regional 7-2 VT — 23-2 Scoring Total, Heads to Alabama
+- **Angle:** FOLLOW UP (LSU 8-0 VT Saturday covered May 17). LSU 7-2 VT in Baton Rouge Regional Final. Jalia Lassiter solo HR sparked 3rd inning, Maci Bergeron 2-run go-ahead single in 4th. LSU outscored all opponents 23-2 total (3-0 regional). 11th Super Regional in program history. Faces No. 1 Alabama in Tuscaloosa.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** LSU vs Alabama Super Regional result; Cinderella narrative
+
+### Story 4: Super Regionals Set — Full Bracket All 8 Matchups May 21-24
+- **Angle:** NEW STORY. All 8 Super Regional matchups confirmed. No. 1 Alabama vs No. 16 LSU; No. 3 Oklahoma vs Mississippi State; No. 2 Texas vs Arizona State; No. 4 Nebraska vs Oklahoma State; No. 5 Arkansas vs Duke; No. 3 Tennessee vs No. 10 Georgia; No. 8 UCLA vs UCF; Florida vs Texas Tech. Games May 21-24. WCWS at Devon Park OKC May 28.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** All Super Regional results; WCWS bracket
+
+### Story 5: No. 10 Georgia 4th Straight Super Regional — Fisher CG Shutout Beats Clemson 5-0
+- **Angle:** NEW STORY. Georgia 5-0 Clemson in Athens Regional Final. Soph Addisen Fisher complete-game shutout (2 H, 2 BB, 3 K). Sr Marisa Miller 3rd HR of season in 4th inning. 4th consecutive Super Regional for Georgia. Faces No. 3 Tennessee (Thu May 21, 7 PM ET, ESPN2).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Georgia vs Tennessee Super Regional result
+
+### Story 6: Regional Finals Roundup — Nebraska, Oklahoma, Texas, Mississippi State
+- **Angle:** NEW STORY (roundup). Nebraska 1-0 GCU (Camenzind solo HR). Oklahoma 8-1 Michigan (Norman Regional). Texas wins Austin Regional (7th straight Super Regional). Mississippi State sweeps Eugene Regional vs Saint Mary's/Oregon, faces No. 3 Oklahoma.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** All respective Super Regional matchup results
+
+---
+
 ## May 17, 2026
 
 ### Story 1: FSU Sweeps Saturday Doubleheader — Tallahassee Regional Final vs. UCF

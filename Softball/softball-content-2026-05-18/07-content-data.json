@@ -1,0 +1,352 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-18",
+  "compiled_at": "2026-05-18T10:18:52.763380+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "X + FB",
+      "type": "Story 1: UCF upsets FSU"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X + FB",
+      "type": "Story 2: Alabama record 20th"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X + FB",
+      "type": "Story 3: LSU sweeps, heads to Alabama"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "X + FB",
+      "type": "Story 4: Super Regionals bracket"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "X + FB",
+      "type": "Story 5: Georgia 4th straight"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "X + FB",
+      "type": "Story 6: Regional roundup"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "UCF Upsets No. 9 FSU 4-2 — Knights End Seminoles' Season in Tallahassee Regional Final",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "UCF beats No. 9 Florida State 4-2 in the regional final.\n\nTwo two-run home runs. FSU never led.\n\nThe Knights win Tallahassee unbeaten and end FSU's season at 49-9. 🥎\n\nFirst time UCF has EVER beaten FSU in NCAA Tournament play.\n\n#UCFSoftball #Noles #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#UCFSoftball",
+            "#Noles",
+            "#NCAASoftball"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 1-2",
+          "text": "FSU went 49-9, hosted a regional for the 12th straight year, and got knocked out by UCF.\n\nUCF — unbeaten all regional weekend — is headed to the Super Regionals.\n\nThat's softball. You can't script it.\n\n#UCFSoftball #Noles #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#UCFSoftball",
+            "#Noles",
+            "#CollegeSoftball"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ucf-upsets-fsu-tallahassee-regional-final.html",
+        "headline": "UCF Knocks Off No. 9 Florida State 4-2, Claims Tallahassee Regional",
+        "word_count": 611
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "UCF Upsets No. 9 FSU 4-2 in Tallahassee Regional Final\n\n#### Social Image (1080x1350, 4:5 vertical)\n\n**Photo Search Terms (Imagn):**\n1. UCF Knights softball\n2. FSU Seminoles softball\n3. Tallahassee softball regional\n\n**Text Overlay Copy:**\n- Headline: \"UCF STUNS FSU 4-2\"\n- Subtitle: \"Tallahassee Regional Champions\"\n- Headline Color: White (#FFFFFF)\n- Subtitle Color: Gold (#F4C542)\n\n**Composition Notes:**\nCelebration or action moment. UCF players reacting to the final out or celebrating on the field. The emotion of an upset win. Dark overlay bar on bottom 1/3 for text placement.\n\n#### Article Hero (1200x630, 1.91:1 landscape)\n\n**Photo Search Terms (Imagn):**\n1. UCF Knights softball\n2. FSU Seminoles softball pitcher\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "UCF Upsets No. 9 FSU 4-2 in Tallahassee Regional Final\n**Decision:** NEW STORY\n**Tier:** 1\n**Sources:**\n- UCF Athletics press release (ucfknights.com, May 18, 2026): \"REGIONAL CHAMPS! Knights Softball Knocks Off No. 9 Florida State to Clinch Super Regional Berth\"\n- On3/Florida State: \"Florida State softball's season concludes with loss to UCF\" (May 18, 2026)\n- Seminoles.com: \"Softball's Season Concludes with Loss to UCF\" (May 17-18, 2026)\n- ESPN game box score: UCF 4-2 FSU (May 17, 2026 gameId/401872530)\n- Yahoo Sports/WFTV: \"The Knights have advanced to Supers for the second time in program history\"\n**Key Facts:**\n- UCF defeated FSU 4-2 in winner-take-all Tallahassee Regional Final\n- FSU won Game 1 (2-1) to force a deciding game; UCF won the decider 4-2\n- UCF used two two-run home runs to win; FSU never led in the final\n- UCF first team in program history to defeat FSU in NCAA Tournament (7 prior losses to FSU in NCAA play, 0 wins)\n- FSU season ends at 49-9\n- UCF advances to second ever Super Regional (first was 2024, now confirmed as \"second time in program history\" per WFTV)\n- UCF will face No. 8 UCLA in Super Regionals, Friday May 22 at 9 PM ET on ESPNU, Saturday May 23 at 9 PM ET on ESPN\n- UCF won Tallahassee Regional going unbeaten (beat Jacksonville State, then beat FSU 4-2 in final after 10-1 Stetson win Saturday)\n**Confidence Assessment:**\n- UCF 4-2 win: HIGH (ESPN box score, UCF Athletics official release)\n- Two 2-run HRs: HIGH (multiple sources confirm)\n- UCF second ever Super Regional: HIGH (WFTV: \"second time in program history\")\n- FSU record (49-9): HIGH (On3/Seminoles.com)\n- UCF never beat FSU in prior NCAA play: MEDIUM (UCF Athletics context)\n- UCLA matchup schedule: HIGH (On3 Super Regionals schedule)\n**Why This Matters:**\nUCF's upset of FSU in the host's own regional is the biggest upset of the 2026 regional weekend. FSU was a No. 9 national seed hosting for the 12th consecutive year — and UCF ended that streak in Tallahassee. Fans of the sport love underdog stories, and UCF going unbeaten in the bracket to eliminate the host is a compelling tournament moment. The FSU angle is also significant: this was their first regional elimination since 2012 or earlier, and the 49-9 season ends without a Super Regional for the first time in years.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Alabama's NCAA-Record 20th Super Regional — Vic Moten Near-Perfect",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Alabama is in the Super Regionals for the 20th time.\n\nNo other program in NCAA softball history has done that. 🥎\n\nVic Moten: perfect through four innings, no-hitter through five. Tide win 9-0.\n\n#RollTide #NCAASoftball #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Alabama rested ace Jocelyn Briski the entire regional weekend.\n\nThey still won by a combined 20-0.\n\nComing to the Super Regionals with a fully fresh No. 1 pitcher and an NCAA-record 20th trip. LSU has their work cut out. 👀\n\n#RollTide #GeauxTigers #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#GeauxTigers",
+            "#NCAASoftball"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-alabama-ncaa-record-20th-super-regional-moten.html",
+        "headline": "Alabama Sets NCAA Record with 20th Super Regional — Moten's Near-Perfect Game",
+        "word_count": 614
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama's NCAA-Record 20th Super Regional — Vic Moten Near-Perfect\n\n#### Social Image (1080x1350, 4:5 vertical)\n\n**Photo Search Terms (Imagn):**\n1. Vic Moten Alabama softball\n2. Alabama Crimson Tide softball pitcher\n3. Alabama softball celebration\n\n**Text Overlay Copy:**\n- Headline: \"HISTORY: 20TH SUPER REGIONAL\"\n- Subtitle: \"No Program Has Done This\"\n- Headline Color: White (#FFFFFF)\n- Subtitle Color: Gold (#F4C542)\n\n**Composition Notes:**\nPitcher in delivery or celebrating. Alabama uniform visible. The record-setting moment energy. Dark overlay bar bottom 1/3.\n\n#### Article Hero (1200x630, 1.91:1 landscape)\n\n**Photo Search Terms (Imagn):**\n1. Alabama softball team\n2. Jocelyn Briski Alabama softball\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alabama's NCAA-Record 20th Super Regional — Vic Moten Near-Perfect\n**Decision:** FOLLOW UP (Alabama regional covered through May 13-17; this is the regional title clincher + record milestone)\n**Tier:** 1\n**Sources:**\n- Alabama Athletics press release (rolltide.com, May 17, 2026): \"Alabama Advances to NCAA-Record 20th Super Regional with 9-0 Win over USC Upstate\"\n- SI.com: \"Alabama Looks the Part of Top Seed in Sweep Thorough Tuscaloosa Regional\"\n- Bleacher Report Super Regionals bracket (May 18, 2026)\n- Roll Bama Roll: \"A Dominant One-Hit Win Sends Alabama Softball to the Super Regionals\"\n**Key Facts:**\n- Alabama 9-0 USC Upstate in Tuscaloosa Regional Final\n- Vic Moten perfect game through 4+ innings, no-hitter through 5 innings\n- Alabama hit four home runs in the win\n- This is Alabama's NCAA-record 20th Super Regional appearance (most all-time under the current postseason format)\n- Alabama's 22nd all-time regional title (per rolltide.com)\n- Alabama's 21st consecutive NCAA Regional host appearance\n- Ace Jocelyn Briski was rested/held for Super Regionals (Pallozzi and Moten handled regional duties)\n- Alabama will host No. 16 LSU: Friday May 22, 7 PM ET, ESPN2; Saturday May 23, 3 PM ET, ESPN\n**Confidence Assessment:**\n- Score (9-0): HIGH (Alabama Athletics official release)\n- Moten near-perfect game (perfect through 4+, no-hitter through 5): HIGH (Alabama Athletics)\n- 4 HRs: HIGH (Alabama Athletics)\n- NCAA record 20th Super Regional: HIGH (Alabama Athletics calls it \"NCAA-Record\")\n- 22nd all-time regional title: HIGH (Alabama Athletics)\n- 21st consecutive regional host: HIGH (Alabama Athletics listed \"21st Consecutive NCAA Regional\" in preseason)\n- Matchup/schedule vs LSU: HIGH (Bleacher Report/On3)\n**Why This Matters:**\nNo program in college softball history has reached 20 Super Regionals. This is a historic milestone for Patrick Murphy's program that underlines Alabama's sustained excellence over two decades. The performance itself — Moten nearly perfect, 4 HRs, 9-0 drubbing — shows the Tide looking like a dominant No. 1 seed ready for a title run. And the setup is compelling: LSU (a surprise 16-seed Super Regional qualifier) gets to travel to Tuscaloosa and face the best team in the country.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "LSU Sweeps Baton Rouge Regional, Heads to Alabama — 7-2 VT Final",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "LSU sweeps the Baton Rouge Regional.\n\nBeat Virginia Tech 7-2 Sunday, finished 3-0 and outscored opponents 23-2 total.\n\nNo. 16 seed. Unbeaten regional. Now headed to Tuscaloosa to face No. 1 Alabama. 🔥\n\n#GeauxTigers #RollTide #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GeauxTigers",
+            "#RollTide",
+            "#NCAASoftball"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-lsu-sweeps-baton-rouge-regional-heads-to-alabama.html",
+        "headline": "LSU Sweeps Baton Rouge Regional 23-2, Faces No. 1 Alabama in Super Regionals",
+        "word_count": 504
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LSU Sweeps Baton Rouge Regional, Heads to Alabama — 7-2 VT Final\n\n#### Social Image (1080x1350, 4:5 vertical)\n\n**Photo Search Terms (Imagn):**\n1. Maci Bergeron LSU softball\n2. Jalia Lassiter LSU softball\n3. LSU Tigers softball\n\n**Text Overlay Copy:**\n- Headline: \"LSU SWEEPS — 23-2\"\n- Subtitle: \"Headed to No. 1 Alabama\"\n- Headline Color: White (#FFFFFF)\n- Subtitle Color: Gold (#F4C542)\n\n**Composition Notes:**\nLSU player celebrating or at bat. Purple and gold uniform. Energy of a team that just swept a regional unbeaten. Dark overlay bar bottom.\n\n#### Article Hero (1200x630, 1.91:1 landscape)\n\n**Photo Search Terms (Imagn):**\n1. LSU softball team\n2. Cece Cellura LSU softball\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LSU Sweeps Baton Rouge Regional, Heads to Alabama — 7-2 VT Final\n**Decision:** FOLLOW UP (LSU 8-0 VT Saturday was covered May 17; Sunday's 7-2 final gives a fresh development + matchup preview)\n**Tier:** 2\n**Sources:**\n- LSU Sports / lsusports.net: \"Feeling Super; LSU Advances with a 7-2 victory over Virginia Tech in Baton Rouge Regional Final\" (May 17, 2026)\n- WBRZ: \"LSU softball takes down Virginia Tech to win Baton Rouge Regional, advances to NCAA Super Regionals\"\n- WAFB: \"LSU Softball advances to Super Regionals after sweeping Baton Rouge Regional\"\n- TigerRag.com\n- ESPN game box score: LSU 7-2 VT (May 17, 2026, gameId/401872563)\n**Key Facts:**\n- LSU 7-2 Virginia Tech in Baton Rouge Regional Final\n- Jalia Lassiter solo HR in 3rd inning (her 9th of season) started the rally\n- Maci Bergeron hit go-ahead 2-run single in 4th inning (LSU led 3-2 and never trailed after)\n- LSU's 4th run in 4th inning: Char Hutchins RBI\n- LSU outscored all opponents 23-2 over three regional games (Saturday 8-0 VT; Friday vs Akron 8-0 Heavener 11 K; Sunday 7-2)\n- Wait — let me recalculate: Akron game (8-0) + VT Saturday (8-0) + VT Sunday (7-2) = 23-2 total\n- LSU's 11th Super Regional in program history\n- No. 16 seed LSU faces No. 1 Alabama in Tuscaloosa: Fri May 22, 7 PM ET ESPN2\n**Confidence Assessment:**\n- Score (7-2): HIGH (ESPN box score, multiple sources)\n- Lassiter HR (9th of season): HIGH (LSU Sports official)\n- Bergeron 2-run go-ahead single: HIGH (LSU Sports official)\n- 11th Super Regional in program history: MEDIUM (referenced by WAFB, credible)\n- Matchup/schedule: HIGH\n**Why This Matters:**\nLSU had zero business going unbeaten through a regional seeded as No. 16. They outscored everyone 23-2 over three games. Cece Cellura's career-first shutout Saturday and the Lassiter/Bergeron offensive firepower Sunday tell the story of a team that's caught fire at the right moment. Now they get No. 1 Alabama in Tuscaloosa — the most asymmetric Super Regional matchup on paper, which means the potential for the biggest upset of the round.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Super Regionals Full Bracket — All 8 Series Set for May 21-24",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Super Regionals are set. May 21-24. 🥎\n\nAlabama vs LSU (No. 1 vs No. 16)\nOklahoma vs Mississippi State\nTexas vs Arizona State\nNebraska vs Oklahoma State\nTennessee vs Georgia\nUCLA vs UCF\nArkansas vs Duke\n\nWCWS starts May 28.\n\n#NCAASoftball #CollegeSoftball #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#CollegeSoftball",
+            "#Softball"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-super-regionals-2026-full-bracket-preview.html",
+        "headline": "2026 NCAA Softball Super Regionals: Full Bracket, Schedule, and Storylines",
+        "word_count": 787
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Super Regionals Full Bracket — All 8 Series Set for May 21-24\n\n#### Social Image (1080x1350, 4:5 vertical)\n\n**Photo Search Terms (Imagn):**\n1. NCAA softball super regionals\n2. softball tournament field\n3. WCWS Oklahoma City softball\n\n**Text Overlay Copy:**\n- Headline: \"SUPER REGIONALS SET\"\n- Subtitle: \"8 Series • May 21-24\"\n- Headline Color: White (#FFFFFF)\n- Subtitle Color: Gold (#F4C542)\n\n**Composition Notes:**\nWide shot of packed stadium or multiple players from different teams. Tournament energy. Could use a generic softball action shot since this covers multiple programs. Dark overlay bar.\n\n#### Article Hero (1200x630, 1.91:1 landscape)\n\n**Photo Search Terms (Imagn):**\n1. NCAA softball tournament\n2. softball players celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Super Regionals Full Bracket — All 8 Series Set for May 21-24\n**Decision:** NEW STORY (comprehensive bracket/preview — fresh today as all matchups officially confirmed)\n**Tier:** 2\n**Sources:**\n- On3: \"2026 NCAA Softball Tournament: Super Regional matchups, schedule, TV officially set\" (May 18, 2026)\n- Bleacher Report: \"NCAA Softball Tournament 2026 Super Regionals Bracket and Schedule Info\" (May 18, 2026)\n- NCAA.com tournament bracket page\n**Key Facts:**\n- 8 best-of-3 Super Regional series, May 21-24\n- Winners advance to WCWS at Devon Park, Oklahoma City, starting May 28\n- Matchups:\n- No. 1 Alabama vs No. 16 LSU — Alabama hosts, Fri May 22, 7 PM ET (ESPN2)\n- No. 3 Oklahoma vs Mississippi State — Oklahoma hosts, Fri May 22, 1 PM ET (ESPN2)\n- No. 2 Texas vs Arizona State — Texas hosts\n- No. 4 Nebraska vs No. 13 Oklahoma State — Nebraska hosts, Thu May 21, 9 PM ET (ESPN2)\n- No. 5 Arkansas vs No. 12 Duke — Arkansas hosts, Fri May 22, 12 PM ET (ESPNU)\n- No. 3 Tennessee vs No. 10 Georgia — Tennessee hosts, Thu May 21, 7 PM ET (ESPN2)\n- No. 8 UCLA vs UCF — UCLA hosts, Fri May 22, 9 PM ET (ESPNU)\n- No. 6 Florida vs Texas Tech — Florida hosts\n**Confidence Assessment:**\n- All matchups/schedule: HIGH (multiple official sources confirmed May 18)\n- WCWS dates (May 28, Devon Park OKC): HIGH (consistent across all sources)\n**Why This Matters:**\nThis is the roadmap to Oklahoma City. Fans want to know who plays who and when. Compelling storylines: No. 16 LSU at No. 1 Alabama is the biggest mismatch by seed number in the bracket and therefore the best upset opportunity. UCF at No. 8 UCLA pits the Tallahassee Regional upset team against a program making their 3rd straight Super Regional. Georgia vs Tennessee is a rematch-potential SEC clash.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "No. 10 Georgia Earns 4th Straight Super Regional — Fisher Blanks Clemson 5-0",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "No. 10 Georgia defeats Clemson 5-0 in the Athens Regional Final.\n\nAddisen Fisher: complete-game shutout. 2 hits. Zero runs. 👀\n\nFour straight Super Regionals for the Bulldogs.\n\nNext up: No. 3 Tennessee on Thursday.\n\n#GoDawgs #VolsSoftball #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoDawgs",
+            "#VolsSoftball",
+            "#NCAASoftball"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-georgia-fourth-straight-super-regional-fisher-shutout.html",
+        "headline": "Fisher's Shutout Sends No. 10 Georgia to Fourth Consecutive Super Regional",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "No. 10 Georgia Earns 4th Straight Super Regional — Fisher Blanks Clemson 5-0\n\n#### Social Image (1080x1350, 4:5 vertical)\n\n**Photo Search Terms (Imagn):**\n1. Georgia Bulldogs softball\n2. Georgia softball pitcher\n3. Addisen Fisher Georgia softball\n\n**Text Overlay Copy:**\n- Headline: \"4TH STRAIGHT SUPER REGIONAL\"\n- Subtitle: \"Georgia Blanks Clemson 5-0\"\n- Headline Color: White (#FFFFFF)\n- Subtitle Color: Gold (#F4C542)\n\n**Composition Notes:**\nGeorgia pitcher or batter in action. Red and black uniform. Celebration from the regional win. Dark overlay bar for text.\n\n#### Article Hero (1200x630, 1.91:1 landscape)\n\n**Photo Search Terms (Imagn):**\n1. Georgia softball\n2. Marisa Miller Georgia softball\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "No. 10 Georgia Earns 4th Straight Super Regional — Fisher Blanks Clemson 5-0\n**Decision:** NEW STORY (Georgia's regional covered peripherally; this is the Athens Regional Final result)\n**Tier:** 2\n**Sources:**\n- Georgia Athletics (georgiadogs.com): \"Bulldogs Headed to Fourth-Straight Super Regional with Win over Clemson\" (May 17, 2026)\n- ESPN game box score: Georgia 5-0 Clemson (May 17, 2026)\n- WRDW: \"UGA softball defeats Clemson at Athens Regional\"\n**Key Facts:**\n- No. 10 seed Georgia defeated Clemson 5-0 in Athens Regional Final at Jack Turner Stadium\n- Sophomore Addisen Fisher: complete-game shutout, 2 hits allowed, 2 walks, 3 strikeouts\n- Senior Marisa Miller HR in 4th inning (her 3rd of the season) opened scoring\n- Georgia added 2 runs in 5th inning: bases-loaded walk by senior Tyler Ellison + sac-fly by Miller\n- Georgia's 4th consecutive Super Regional appearance\n- Will face No. 3 Tennessee in Super Regionals (Thu May 21, 7 PM ET, ESPN2)\n**Confidence Assessment:**\n- Score (5-0): HIGH (ESPN box score, Georgia Athletics)\n- Fisher stats (CG shutout, 2 H, 2 BB, 3 K): HIGH (Georgia Athletics)\n- Miller HR: HIGH (Georgia Athletics)\n- 4th consecutive Super Regional: HIGH (Georgia Athletics explicitly states this)\n- Tennessee matchup: HIGH (On3/NCAA schedule)\n**Why This Matters:**\nNo. 10 seeds are supposed to struggle. Georgia just swept their home regional, and Addisen Fisher's shutout of Clemson was the kind of performance that defines tournament runs. For the average softball fan, Georgia as a 10-seed making their 4th consecutive Super Regional is an underdog arc they can root for — especially going against No. 3 Tennessee in the next round.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Regional Finals Roundup — Nebraska, Oklahoma, Texas, Mississippi State Advance",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Sunday regional finals:\n\nNebraska 1-0 GCU (Camenzind HR, only run)\nOklahoma 8-1 Michigan\nTexas — 7th straight Super Regional 🥎\nMississippi State sweeps Eugene Regional\n\nAll 16 Super Regional spots are filled. Who are you watching?\n\n#NCAASoftball #CollegeSoftball #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#CollegeSoftball",
+            "#Softball"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Regional Finals Roundup — Nebraska, Oklahoma, Texas, Mississippi State Advance\n**Decision:** NEW STORY (quick-hit roundup of remaining Sunday regional final results)\n**Tier:** 3\n**Sources:**\n- NCAA.com; ESPN game scores; On3 bracket; UT Athletics (texaslonghorns.com); WLBT\n- WarrenNolan.com Super Regionals schedule\n- ESPN game scores for Nebraska 1-0 GCU, Oklahoma 8-1 Michigan\n**Key Facts:**\n- Nebraska 1-0 GCU in Lincoln Regional Final — Hannah Camenzind solo HR was only run\n- Oklahoma 8-1 Michigan in Norman Regional Final — Gasso's Sooners advance to face Mississippi State\n- Texas wins Austin Regional Final — advances to 7th consecutive Super Regional (21st overall NCAA appearance; 21 straight tournaments under coach Mike White)\n- Mississippi State swept the Eugene Regional: beat Saint Mary's in the final after a walk-off Friday and Oregon win Saturday; faces No. 3 Oklahoma\n- All four teams advance to Super Regionals beginning May 21\n**Confidence Assessment:**\n- Nebraska 1-0 GCU, Camenzind HR: HIGH (multiple sources)\n- Oklahoma 8-1 Michigan: HIGH (multiple sources)\n- Texas 7th consecutive Super Regional: HIGH (UT Athletics explicitly says \"seventh-straight NCAA Super Regional\")\n- Mississippi State swept Eugene Regional vs Saint Mary's/Oregon: HIGH (WLBT)\n**Why This Matters:**\nQuick daily roundup for fans who want the full picture. Nebraska eking out 1-0 on a single HR is a tension-filled result worth noting. Oklahoma's dominant 8-1 win reestablishes Gasso's crew as a WCWS contender after a tough 2025 exit. Texas extending their streak to 7 straight Super Regionals is a dynasty-level accomplishment for a defending champion.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
