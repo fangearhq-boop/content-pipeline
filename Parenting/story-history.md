@@ -2464,3 +2464,47 @@
 - **Tier:** 2
 - **Key Facts:** May = National Bike Month (League of American Bicyclists); CPSC certified helmets; COS trail system; Sources: AAP, CPSC, coloradosprings.gov/parks
 - **Follow-Up Opportunities:** COS bike shop guide; trail map for beginners
+
+---
+
+## May 18, 2026
+
+### Story 1: Flanagan Park renovation — $750K federal grant, new playground, ADA path
+- **Date:** 2026-05-18
+- **Angle:** NEW STORY (City of COS securing $750K federal community development grant to renovate Flanagan Park, 3132 N. Prospect St; new playground, ADA-accessible walking path with lighting and benches, basketball court resurface, pavilion upgrades; built mid-1970s; community input shaped project; KKTV May 8, FOX21, City of COS official page)
+- **Content Produced:** Article, 2 X Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Address: 3132 N. Prospect St; Grant: $750,000 federal community development grant; Improvements: playground, ADA path, lighting, benches, screen fencing, basketball court, pavilion; Built: mid-1970s; Sources: KKTV May 8 2026, FOX21, coloradosprings.gov/FlanaganPark
+- **Follow-Up Opportunities:** Ribbon-cutting/completion story; ADA accessibility guide to COS parks
+
+### Story 2: Paw Patrol Live at Pikes Peak Center May 23-24
+- **Date:** 2026-05-18
+- **Angle:** NEW STORY (PAW Patrol Live "Heroes Unite" at Pikes Peak Center, 190 S. Cascade Ave; Saturday May 23 10 AM and 2 PM; Sunday May 24 2 PM; tickets AXS.com; for families with young children ages 2-6)
+- **Content Produced:** Article, 2 X Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Event: PAW Patrol Live "Heroes Unite"; Venue: Pikes Peak Center, 190 S. Cascade Ave, COS; Dates: May 23 (10 AM + 2 PM) and May 24 (2 PM); Tickets: AXS.com or box office; Sources: pikespeakcenter.com, AXS.com
+- **Follow-Up Opportunities:** Post-event coverage; other summer family shows at Pikes Peak Center
+
+### Story 3: Amazon baby bath seat recalls — multiple brands, ~9,000 units, drowning risk
+- **Date:** 2026-05-18
+- **Angle:** NEW STORY (CPSC recalls on 4 Amazon bath seat brands: YCXXKJ/BenTalk, NFSVLB, CheerKid/Babibaby+Woot, Trankerloop ~2,380 units recalled Feb 26, 2026; all tip-over risk drowning hazard; ~9,000 total units; CPSC.gov for refund; 800-638-2772)
+- **Content Produced:** Article, 2 X Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Brands: YCXXKJ (BenTalk on Amazon), NFSVLB, CheerKid (Babibaby/Woot), Trankerloop (2,380 units, Feb 26, 2026 recall date); Hazard: tip-over drowning; Units: ~9,000 total; Refund: CPSC.gov or 800-638-2772; Sources: CPSC.gov official recall pages, The Hill
+- **Follow-Up Opportunities:** Infant bath time safety guide; CPSC alert subscription how-to
+
+### Story 4: COS Trackchair accessible outdoor program expands for 2026
+- **Date:** 2026-05-18
+- **Angle:** NEW STORY (City of COS Trackchair Program 2026 expanded: 2 guided hikes/day Wed-Sun; locations: Ute Valley Park, Red Rock Canyon Open Space, Blodgett Open Space, Bluestem Prairie Open Space; free reservations at coloradosprings.gov; KRDO May 14 2026; City official press release)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Program: Trackchair (all-terrain guided hikes); Hikes: 2/day; Days: Wed-Sun; Locations: Ute Valley, Red Rock Canyon, Blodgett, Bluestem Prairie; Cost: free; Reservations: coloradosprings.gov; Sources: KRDO May 14, coloradosprings.gov
+- **Follow-Up Opportunities:** Accessibility guide to COS trails; interview with program participants
+
+### Story 5: D11 last day May 22 — COS summer launch guide
+- **Date:** 2026-05-18
+- **Angle:** FOLLOW UP (D11 last day May 22 per d11.org district calendar; summer launch angle with PPLD Summer Adventure, Paw Patrol Live, Trackchair hikes, parks; practical guide for families entering summer)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** D11 last day: May 22, 2026 (d11.org confirmed); PPLD Summer Adventure open: ppld.beanstack.org; PAW Patrol Live May 23-24; Trackchair hikes free; park restroom closures (25%) noted; Sources: d11.org, ppld.org, all COS May 2026 coverage
+- **Follow-Up Opportunities:** Summer week 1 recap; best free summer activities for COS kids guide
