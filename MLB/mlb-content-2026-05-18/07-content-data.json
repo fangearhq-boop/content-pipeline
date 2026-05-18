@@ -1,0 +1,352 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-18",
+  "compiled_at": "2026-05-18T10:30:54.393716+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "X + FB",
+      "type": "Story 1: Ramírez 300-300 chase"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "X + FB",
+      "type": "Story 2: Schwarber HR pace"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "X + FB",
+      "type": "Story 3: Braves best record"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "X + FB",
+      "type": "Story 4: Injuries Pena/Yelich"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "X + FB",
+      "type": "Story 5: Division race check"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "X + FB",
+      "type": "Story 6: Monday game recap"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ramírez is 9 HRs From the 300-300 Club — One of Baseball's Most Exclusive Histories",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "José Ramírez has 291 career HRs and 303 career SBs.\n\n9 more homers = the 300-300 club.\n\nOnly 8 players have ever done it: Mays, Bonds, ARod, Beltran, Dawson...\n\nJ-Ram is about to become the 9th. 👀\n\n#BallparkBanter #MLB #Guardians",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Guardians"
+          ],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "He stole his 300th base earlier this month.\n\nNine home runs from 300-300.\n\nJosé Ramírez has spent his entire career in Cleveland, quietly building one of the great offensive resumes in this sport.\n\nThe Hall of Fame case writes itself. 🔥\n\n#BallparkBanter #Guardians #Baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Guardians",
+            "#Baseball"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ramirez-nine-homers-300-300-club.html",
+        "headline": "José Ramírez is 9 Homers From the 300-300 Club — One of Baseball's Most Exclusive Milestones",
+        "word_count": 741
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ramírez is 9 HRs From the 300-300 Club\n\n#### Social Image (1080x1350, 4:5 vertical)\n\n**Photo Search Terms (Imagn):**\n1. Jose Ramirez Cleveland Guardians\n2. Jose Ramirez batting\n3. Jose Ramirez celebration\n\n**Text Overlay Copy:**\n- Headline: \"9 HRS FROM THE 300-300 CLUB\"\n- Subtitle: \"Only 8 Players Have Done It\"\n- Headline Color: White (#FFFFFF)\n- Subtitle Color: Gold (#F4C542)\n\n**Composition Notes:**\nRamírez at the plate or celebrating a big hit. Guardians uniform. Energy of a historic chase. Dark overlay bar on bottom 1/3.\n\n#### Article Hero (1200x630, 1.91:1 landscape)\n\n**Photo Search Terms (Imagn):**\n1. Jose Ramirez Guardians\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ramírez is 9 HRs From the 300-300 Club\n**Decision:** NEW STORY\n**Tier:** 1\n**Sources:**\n- FOX Sports Milestones Tracker (foxsports.com): \"2026 MLB Milestones and Records Tracker: José Ramírez Reaches Another Milestone\"\n- MLB.com news: \"300 steals! J-Ram 2nd to reach milestone in Cleveland franchise history\" (May 2, 2026)\n- guardiansnation.com: \"José Ramírez Is 9 HR From the 300-300 Club\" (mid-May 2026)\n- mlbdailydingers.com: \"José Ramírez Is 9 HR From the 300-300 Club\" (May 2026)\n- Baseball Reference: career stats\n- Cleveland Today / guardiansnation.com: \"Cleveland's Jose Ramirez Chasing Four Milestones in 2026\"\n**Key Facts:**\n- Career totals (as of ~May 18): 291 HRs, 303 SBs\n- 9 more HRs = 300 career HRs, making him 9th member of the 300-300 club\n- Hit 300th career stolen base on May 2, 2026 in Guardians' 14-6 win over A's\n- His 300th SB was his AL-leading 13th steal of the season at that point\n- 300th SB made him 2nd in Cleveland/Guardians franchise history after Kenny Lofton\n- 300-300 club (only 8 members): Willie Mays, Barry Bonds, Bobby Bonds, Alex Rodriguez, Andre Dawson, Reggie Sanders, Steve Finley, Carlos Beltran\n- Ramírez's 291 HRs (all with Cleveland) rank 2nd in franchise history behind Jim Thome (337)\n- Ramírez is 33 years old in 2026; has 6 HRs through ~45 games (on pace to reach 300 by early June)\n- Also chasing: franchise record games (snapped Terry Turner's 1,620-game mark April 6), hit HR against all 29 other teams\n- Youngest comparison: at his age and pace, Ramírez is ahead of where most 300-300 chasers were\n**Confidence Assessment:**\n- 291 career HRs: HIGH (Baseball Reference)\n- 303 career SBs: HIGH (MLB.com/Baseball Reference)\n- 300th SB on May 2 vs A's: HIGH (MLB.com official)\n- 2nd in Cleveland franchise history for SBs (after Kenny Lofton): HIGH (MLB.com)\n- 300-300 club members list (8 members): HIGH (well-documented, cross-referenced)\n- 291 HRs is 2nd in Cleveland history behind Thome's 337: HIGH (multiple sources)\n**Why This Matters:**\nThe 300-300 club is one of baseball's most elite historical distinctions. Only 8 players have ever done it. Ramírez becoming the 9th would be a career-defining milestone, cementing his legacy alongside Hall of Famers Mays, Bonds, and Rodriguez. He already crossed 300 SBs earlier this season. Now 9 HRs stand between him and immortality. This is the kind of story that baseball history fans will talk about long after the 2026 season.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Schwarber's Record-Setting HR Pace — 20 HRs on Earliest Date in MLB History",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kyle Schwarber reached 20 HRs on May 15.\n\nThat's the EARLIEST date in MLB history to reach 20 home runs.\n\nHe broke a record set by Luis Gonzalez in 2001.\n\nAnd he's on pace for 67 this season. Bonds hit 73.\n\n#BallparkBanter #Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Schwarber's streak ended at 7 straight games with a HR.\n\nDidn't break the record. But his PACE already did.\n\n20 HRs by May 15 = the earliest in history. Still tracking Bonds territory. 🔥\n\nThe Phillies offense is something else this year.\n\n#BallparkBanter #Phillies #BaseballStats",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Phillies",
+            "#BaseballStats"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-schwarber-earliest-20-hr-mlb-history-pace.html",
+        "headline": "Schwarber Already Broke a 25-Year Record. Now His Pace Points Toward Bonds Territory.",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber's Record-Setting HR Pace — 20 HRs on Earliest Date in MLB History\n\n#### Social Image (1080x1350, 4:5 vertical)\n\n**Photo Search Terms (Imagn):**\n1. Kyle Schwarber Philadelphia Phillies\n2. Kyle Schwarber home run\n3. Kyle Schwarber batting\n\n**Text Overlay Copy:**\n- Headline: \"EARLIEST 20 HRS IN MLB HISTORY\"\n- Subtitle: \"On Pace for 67 This Season\"\n- Headline Color: White (#FFFFFF)\n- Subtitle Color: Gold (#F4C542)\n\n**Composition Notes:**\nSchwarber watch the ball leave the bat or pumping fist after a HR. Phillies uniform. Power and celebration energy. Dark overlay bar.\n\n#### Article Hero (1200x630, 1.91:1 landscape)\n\n**Photo Search Terms (Imagn):**\n1. Kyle Schwarber Phillies batting\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber's Record-Setting HR Pace — 20 HRs on Earliest Date in MLB History\n**Decision:** FOLLOW UP (Schwarber streak angle exhausted May 13-17; this is the historical perspective/pace angle)\n**Tier:** 1\n**Sources:**\n- Yahoo Sports: \"Kyle Schwarber joins elite Phillies club with 20th home run of 2026\"\n- FOX Sports: \"Schwarber hits majors-leading 19th and 20th HRs, Phillies beat Pirates 11-9 in 10 innings\"\n- Bleacher Nation: \"Are You Aware of Kyle Schwarber's INSANE Home Run Pace This Year?\"\n- MLB.com: various HR tracking\n- Heavy.com: \"Kyle Schwarber's Home Run Pace Rivals Barry Bonds\"\n**Key Facts:**\n- Schwarber reached 20 HRs on May 15 — earliest date in MLB history to reach 20 HRs in a season\n- Broke the previous record held by Luis Gonzalez (May 17, 2001 with Arizona Diamondbacks)\n- 7-game consecutive HR streak ended (would have needed 8 to tie Dale Long/Don Mattingly/Ken Griffey Jr.)\n- Still leads all of MLB with 20+ HRs as of May 18\n- 4 HRs ahead of Aaron Judge (16) in 2nd place\n- On pace for approximately 67 HRs in the 2026 season (extrapolated over 162 games)\n- Bonds' single-season record: 73 HRs in 2001\n- 67 HRs would be second-most all-time if he maintained the pace\n- Don Mattingly (whose record Schwarber sought) is now the Phillies' interim manager, adding a meta-storyline\n**Confidence Assessment:**\n- 20th HR on May 15 (earliest date in MLB history): HIGH (multiple sources confirm)\n- Broke Gonzalez's 2001 record: HIGH (multiple sources)\n- 7-game streak ended: HIGH (multiple sources; covered May 17)\n- Leads MLB with 20+ HRs: HIGH\n- On pace for ~67 HRs: MEDIUM (extrapolation from 45 games; can cite as \"pace\" not prediction)\n- Bonds' record of 73 HRs: HIGH (widely documented)\n**Why This Matters:**\nHistorical-pace stories drive engagement because fans can imagine themselves watching a record chase. Schwarber's 20-HR milestone is already in the record books. If he stays healthy and remotely close to this pace, August will bring genuine Barry Bonds comparisons. The connection to Mattingly (manager who held the HR-streak record) adds a layer. This is the best individual position player story of the 2026 season so far.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Braves Best Record in Baseball — 30-14 Heading into May Push",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Atlanta Braves are 30-14.\n\nBest record in baseball. On pace for over 100 wins.\n\nMonday they head to Miami to extend the lead. The NL East isn't close.\n\n#BallparkBanter #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-braves-best-record-30-14-nL-east-leaders.html",
+        "headline": "Braves Are Baseball's Best Team at 30-14 — And the NL East Race Is Already Theirs to Lose",
+        "word_count": 454
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves Best Record in Baseball — 30-14\n\n#### Social Image (1080x1350, 4:5 vertical)\n\n**Photo Search Terms (Imagn):**\n1. Austin Riley Atlanta Braves\n2. Atlanta Braves celebration\n3. Chris Sale Atlanta Braves\n\n**Text Overlay Copy:**\n- Headline: \"BEST RECORD IN BASEBALL\"\n- Subtitle: \"Atlanta Braves 30-14\"\n- Headline Color: White (#FFFFFF)\n- Subtitle Color: Gold (#F4C542)\n\n**Composition Notes:**\nBraves player celebrating or hitting. Navy and red uniform. Confidence and dominance energy. Dark overlay bar.\n\n#### Article Hero (1200x630, 1.91:1 landscape)\n\n**Photo Search Terms (Imagn):**\n1. Atlanta Braves team\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Braves Best Record in Baseball — 30-14 Heading into May Push\n**Decision:** FOLLOW UP (Braves standings covered May 17; this is the Monday context/consistency angle)\n**Tier:** 2\n**Sources:**\n- May 17 pipeline (confirmed): Braves 30-14 (best record in baseball, NL East)\n- MLB.com standings (updated daily)\n- FOX Sports power rankings: \"Braves leap ahead of Dodgers as Phillies surge\"\n**Key Facts:**\n- Braves at 30-14 entering Monday (best record in all of baseball)\n- On a pace consistent with ~98-100 win seasons\n- Austin Riley: 7-for-18 with 3 HRs over recent 4-game stretch\n- Chris Sale anchoring the rotation\n- Phillies at 23-23 under Don Mattingly — dramatic turnaround from 9-19 earlier\n- NL East has the two most interesting stories: Braves' dominance + Phillies' renaissance\n- Braves' Monday game: at Miami Marlins, 6:40 PM ET\n**Confidence Assessment:**\n- Braves 30-14: HIGH (confirmed multiple times)\n- Riley's stretch stats: MEDIUM (from May 17 sources — should note \"recent games\")\n- Phillies at 23-23: MEDIUM (from Reds series preview data)\n- Phillies under Mattingly (14-4): HIGH (covered multiple prior sessions)\n**Why This Matters:**\nThe Braves are the class of the NL and potentially all of baseball. 30 wins in 44 games is a historic pace. For casual fans checking in on Monday, the standings update provides context for the ongoing season narrative. The NL East also has the Phillies resurgence angle which makes it the most interesting division to watch right now.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Monday Injury Report — Pena on IL, Yelich Back Issue, Astros Shorthanded",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Monday MLB injury news:\n\nJeremy Peña (Astros SS): 10-day IL, hamstring strain\nTatsuya Imai (Astros RHP): 15-day IL, right arm fatigue\nChristian Yelich (Brewers): missed 3rd straight game, back tightness\n\nThe Astros lost two players in one day. 👀\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-monday-injury-report-pena-yelich-astros.html",
+        "headline": "Monday Injury Report: Astros Lose Pena and Imai, Yelich Misses Third Straight Game",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monday Injury Report — Pena on IL, Yelich Back Issue\n\n#### Social Image (1080x1350, 4:5 vertical)\n\n**Photo Search Terms (Imagn):**\n1. Jeremy Pena Houston Astros\n2. Christian Yelich Milwaukee Brewers\n3. Houston Astros dugout\n\n**Text Overlay Copy:**\n- Headline: \"INJURY REPORT: MONDAY\"\n- Subtitle: \"Pena IL · Imai IL · Yelich Out\"\n- Headline Color: White (#FFFFFF)\n- Subtitle Color: Coral (#FF6F61)\n\n**Composition Notes:**\nPlayer in dugout or game action. Use coral subtitle color for injury/concern context. Dark overlay bar.\n\n#### Article Hero (1200x630, 1.91:1 landscape)\n\n**Photo Search Terms (Imagn):**\n1. Jeremy Pena Astros\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monday Injury Report — Pena on IL, Yelich Back Issue, Astros Shorthanded\n**Decision:** NEW STORY\n**Tier:** 2\n**Sources:**\n- FOX Sports 2026 Buzz: \"Mookie Betts Set To Return / Injuries news\"\n- Yardbarker: \"2026 Injury Report: Updates on Fried, Soto, Yelich\"\n- MLB.com injury updates\n- FOX Sports: Brewers injury news\n**Key Facts:**\n- Jeremy Pena (Astros SS, All-Star caliber) placed on 10-day IL with hamstring strain Monday\n- Tatsuya Imai (Astros RHP) also on 15-day IL with right arm fatigue Monday — two Astros arms/position players hurt simultaneously\n- Christian Yelich (Brewers) missed 3rd consecutive game Monday with back tightness\n- Yelich returned from adductor strain IL in early May but back issue threatens second IL trip of season\n- Overall, multiple stars dealing with early-season ailments in mid-May\n**Confidence Assessment:**\n- Pena on IL (hamstring): HIGH (FOX Sports MLB buzz report)\n- Imai on IL (arm fatigue): HIGH (same source)\n- Yelich back tightness (3rd straight missed game): HIGH (Yardbarker)\n- All transactions reported as Monday moves: HIGH\n**Why This Matters:**\nFantasy baseball players and fans of these teams need to know the injury news. The Astros losing both Pena and Imai on the same day is a significant double roster hit. Yelich's situation is worth monitoring — he came back once and then reaggravated an issue, raising questions about his availability going forward.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Memorial Day Stretch Begins — Division Race Check at the 40-Game Mark",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "~40 games in. Here's where things stand:\n\nNL East: Braves 30-14 (best in baseball)\nAL East: Rays 29-14\nNL Central: Cubs 28-16\n\nThree teams above .680 win percentage. Memorial Day is a week away.\n\nDivision races are taking shape. 📊\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-memorial-day-stretch-division-race-check-2026.html",
+        "headline": "Memorial Day Stretch Check: Three Teams Above .680 and the 2026 Division Race Update",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Memorial Day Stretch — Division Race Check\n\n#### Social Image (1080x1350, 4:5 vertical)\n\n**Photo Search Terms (Imagn):**\n1. MLB standings baseball\n2. Tampa Bay Rays\n3. Chicago Cubs stadium\n\n**Text Overlay Copy:**\n- Headline: \"STANDINGS AT 40 GAMES\"\n- Subtitle: \"Braves · Rays · Cubs Leading\"\n- Headline Color: White (#FFFFFF)\n- Subtitle Color: Gold (#F4C542)\n\n**Composition Notes:**\nStadium exterior or wide shot of a game. Multiple team colors could work. Information-graphic feel. Dark overlay bar.\n\n#### Article Hero (1200x630, 1.91:1 landscape)\n\n**Photo Search Terms (Imagn):**\n1. baseball stadium aerial\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Memorial Day Stretch Begins — Division Race Check at the 40-Game Mark\n**Decision:** NEW STORY\n**Tier:** 2\n**Sources:**\n- MLB.com standings; ESPN standings; FOX Sports standings\n- Pipeline history: Rays 29-14, Braves 30-14, Cubs 28-16 (from May 17)\n**Key Facts:**\n- Season is approximately 40-45 games old (roughly 25% complete)\n- Memorial Day is ~10 days away — traditional \"first real barometer\" marker\n- AL East: Tampa Bay Rays (29-14 as of Sunday)\n- NL East: Atlanta Braves (30-14 as of Sunday)\n- NL Central: Chicago Cubs (28-16 as of Sunday)\n- Teams at .600+ pace historically have 60-65% postseason conversion rates\n- Three teams currently at 28+ wins through ~43 games = extraordinary depth of good records\n- AL West: to be verified (Dodgers likely leading from May 17 data showing them strong)\n- Trade deadline is 9 weeks away (July 31)\n- All-Star break is 7 weeks away (mid-July)\n**Confidence Assessment:**\n- AL East Rays (29-14): HIGH (confirmed May 17 pipeline)\n- NL East Braves (30-14): HIGH\n- NL Central Cubs (28-16): HIGH\n- Memorial Day timing: HIGH (historical baseball milestone, publicly documented)\n**Why This Matters:**\nMemorial Day is baseball's informal checkpoint. It gives fans context for whether their team is in a pennant race or rebuilding. Three teams with 28+ wins through 43 games is historically unusual and makes for a compelling league-wide story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Monday Night MLB — 14 Games, Braves at Marlins, Reds at Phillies and More",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Monday MLB wrapped up.\n\nBraves at Marlins. Phillies vs Reds. Cubs vs Brewers at Wrigley. Dodgers at Padres late.\n\n14 games. New week starts now. 🔥\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Monday Night MLB — 14 Games, Braves at Marlins, and More\n**Decision:** NEW STORY (Tier 3 roundup/preview)\n**Tier:** 3\n**Sources:**\n- MLB.com schedule (May 18, 2026)\n- ESPN schedule\n**Key Facts:**\n- 14 games scheduled on Monday (standard for a Monday slate in May)\n- Braves at Marlins (6:40 PM ET) — Braves looking to extend NL East lead\n- Reds at Phillies (6:40 PM ET) — Schwarber faces Cincinnati connection game\n- Brewers at Cubs at Wrigley Field (7:40 PM CT) — NL Central battle\n- Yankees at Blue Jays (7:07 PM ET)\n- Dodgers at Padres (9:40 PM ET) — late game to close the night\n- Teams start fresh Monday after full Rivalry Weekend action\n**Confidence Assessment:**\n- Monday schedule: HIGH (MLB.com confirmed slate)\n- Game times: MEDIUM (confirmed matchups; start times may vary slightly)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

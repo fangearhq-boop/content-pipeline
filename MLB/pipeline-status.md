@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-18
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 2 char violations fixed: S1 tweet 2 281→273 removed "career", S2 tweet 2 296→279 removed "Still leads MLB."; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest, articles (5), fact-check (43 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
+- **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks — known). IMAGE MISSING warnings expected (not_started). FB posts compile to 0 (heading format — known). 2 char violations fixed (S1 tweet 2 281→273; S2 tweet 2 296→279). S6 no image concept — Tier 3 social-only by design.
+- **Key Stories**: Ramírez 291 HRs/303 SBs/9 from 300-300 club (8 members ever: Mays, Bonds, ARod, Beltran, Dawson, Sanders, Finley, B. Bonds) (Tier 1), Schwarber 20 HRs by May 15 earliest in MLB history/pace for 67/Bonds holds 73 record (Tier 1 follow-up), Braves 30-14 best record in baseball/Chris Sale anchoring/Riley 7-for-18 3 HR surge (Tier 2), Monday injury report: Pena 10-day IL hamstring/Imai 15-day IL arm fatigue/Yelich 3rd straight missed game back tightness (Tier 2), Memorial Day barometer: Braves 30-14/Rays 29-14/Cubs 28-16 above .680 win% (Tier 2), Monday night 14-game roundup (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-17
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (7; 1 char violation fixed S1 tweet 1 288→245 via rewrite; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest, articles (5), fact-check (35 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 7 tweets, 0 FB parsed — known heading format issue, 5 articles, 23 items), dashboard (23 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/

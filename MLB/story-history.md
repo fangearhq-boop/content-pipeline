@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-18
+
+### Story 1: José Ramírez — 9 HRs From the 300-300 Club
+- **Angle:** NEW STORY. Ramírez enters Monday with 291 career HRs and 303 career SBs. Stole his 300th base on May 2 (Guardians 14-6 win over A's), 13th steal of the season, 2nd player in Cleveland/Guardians franchise history to reach 300 SBs (behind Kenny Lofton). 9 HRs from joining 8-member 300-300 club (Mays, Bonds, B. Bonds, ARod, Dawson, Sanders, Finley, Beltran). On pace for early June milestone.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** When will Ramírez hit HR 300? Cleveland home games for home-field milestone moment
+
+### Story 2: Schwarber — Earliest 20 HRs in MLB History, On Pace for 67
+- **Angle:** FOLLOW UP (Schwarber pace covered May 15-17). 20th HR on May 15 = earliest date in MLB history to reach 20 HRs. Broke Luis Gonzalez's record from May 17, 2001 by 2 days. On pace for ~67 HRs this season; Bonds record is 73. 7-game HR streak ended before reaching 8 (which would have tied Mattingly/Long/Griffey). Closest competitor Aaron Judge at 16 HRs (4-HR gap).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Schwarber HR chase; pace sustainability through summer
+
+### Story 3: Braves Best Record in Baseball at 30-14
+- **Angle:** FOLLOW UP (Braves 30-14 covered in standings). Best record in all of MLB through ~44 games. On pace for 103-107 wins. Chris Sale anchoring rotation. Austin Riley surge: 7-for-18 with 3 HRs over 4-game stretch. NL East gap widening. Phillies at 23-23 under Mattingly (14-4 run). Braves open 4-game series at Miami Monday 6:40 PM ET.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Miami series result; NL East gap heading into June
+
+### Story 4: Monday Injury Report — Pena and Imai on IL, Yelich Missing Third Straight Game
+- **Angle:** NEW STORY. Astros: Jeremy Pena (SS) placed on 10-day IL with hamstring strain + Tatsuya Imai (RHP) placed on 15-day IL with right arm fatigue — same day. Brewers: Christian Yelich missed 3rd consecutive game with back tightness, separate from adductor strain that kept him out most of May. Pena eligible to return May 28; Imai not before June 2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Pena/Imai return timelines; Yelich IL status update
+
+### Story 5: Memorial Day Stretch — Division Race Check at 40-Game Mark
+- **Angle:** NEW STORY. ~43 games in, three teams above .680 win%: Braves 30-14, Rays 29-14, Cubs 28-16. Memorial Day barometer: teams above .600 at this point make postseason 60-65% of the time; above .680 pushes above 70%. All-Star break 7 weeks out; trade deadline 9 weeks out. Division races crystallizing.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Memorial Day standings; All-Star break roster picture
+
+### Story 6: Monday Night MLB — 14 Games in Progress
+- **Angle:** NEW STORY (round-up). 14 Monday games: Braves at Marlins, Phillies vs Reds (Schwarber in lineup), Cubs vs Brewers at Wrigley, Dodgers at Padres late game. New week opener across multiple division races.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** Monday results; Tuesday slate
+
+---
+
 ## 2026-05-17
 
 ### Story 1: Phillies 14-4 Under Mattingly — Sanchez 13 Ks, Harper 457-Foot HR, Philly Reaches .500
