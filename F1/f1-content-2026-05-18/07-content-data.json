@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-18",
+  "compiled_at": "2026-05-18T11:31:23.022735+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Mercedes Canada Upgrade — 0.3s Per Lap Package Breakdown",
+      "tier": 1,
+      "status": "",
+      "angle": "The specific technical components — what each one does and why Canada in particular is the target for this upgrade.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Mercedes is bringing their BIGGEST upgrade of the 2026 season to Canada.\n\n0.3s per lap. New floor. Lighter gearbox. New start software.\n\nAntonelli leads by 20 pts. This package could make it 40 by next Sunday. 👀 #F1 #CanadaGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadaGP"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Mercedes only brought 2 updates to Miami — they were saving the good stuff for Canada.\n\n0.3s/lap upgrade. New gearbox. Better race starts for Antonelli (his weakness all season).\n\nMontreal is going to be a statement. #F1 #CanadaGP #Mercedes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadaGP",
+            "#Mercedes"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-mercedes-canada-upgrade-breakdown.html",
+        "headline": "Mercedes' 0.3-Second Canada Upgrade Explained — What Each Component Does and Why It Matters",
+        "word_count": 716
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes Canada Upgrade\n\n**Concept 1A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Mercedes W17 car on track, pit lane, or garage action\n- Search terms: \"Mercedes AMG Formula 1\"\n- Usage: FB upgrade story\n- Status: not_started\n\n**Concept 1B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: Mercedes mechanics working on car, overhead garage shot\n- Search terms: \"Mercedes AMG Formula 1\"\n- Usage: Article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Canada GP Full Sprint Weekend Guide — Session Times, What to Watch",
+      "tier": 1,
+      "status": "",
+      "angle": "Complete session-by-session guide to the sprint weekend format, including championship stakes at each stage.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "FOUR DAYS until the Canadian GP 🏁\n\nThe first-ever sprint race at Circuit Gilles-Villeneuve.\n\nFriday: Sprint Qualifying\nSaturday: Sprint Race + GP Qualifying\nSunday: The Grand Prix\n\n70 laps. St. Lawrence River. One of the best weekends in F1. #CanadaGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CanadaGP",
+            "#F1"
+          ],
+          "char_count": 255
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Canada GP start times (ET):\n\n🏎 Fri May 22 — Sprint Qualifying: 9:30 PM\n🏁 Sat May 23 — Sprint Race: 5:00 PM\n⏱ Sat May 23 — Qualifying: 9:00 PM\n🏆 Sun May 24 — RACE: ~2:00 PM\n\nAntonelli leads. Mercedes upgrading. It's on. #CanadaGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CanadaGP",
+            "#F1"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-canada-gp-sprint-weekend-guide.html",
+        "headline": "Canada GP 2026: Your Complete Sprint Weekend Guide — Schedule, Stakes, and What to Watch",
+        "word_count": 641
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Canada GP Sprint Weekend Guide\n\n**Concept 2A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Circuit Gilles-Villeneuve race action, cars on track\n- Search terms: \"Formula 1 Montreal Canada\"\n- Usage: FB preview story\n- Status: not_started\n\n**Concept 2B — Social (1080x1350)**\n- Type: imagn photo\n- Subject: F1 cars in sprint race action\n- Search terms: \"Formula 1 sprint race\"\n- Usage: X race schedule post\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "McLaren at Montreal — Norris, Piastri and the Dark Horse Title Threat",
+      "tier": 2,
+      "status": "",
+      "angle": "How McLaren's internal championship dynamic (Norris 51 pts, Piastri 43 pts) interacts with their strategy at Montreal, and what a 1-2 finish would mean for the overall standings.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Norris (51 pts) and Piastri (43 pts) both want to be McLaren No. 1 this season.\n\nCanada was a strong McLaren circuit in 2025. Mercedes is bringing a huge upgrade.\n\nThe team orders conversation at McLaren is coming. #F1 #CanadaGP #McLaren",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadaGP",
+            "#McLaren"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-mclaren-dark-horse-canada.html",
+        "headline": "McLaren's Quiet Threat at Canada — Why Norris and Piastri Are the Wild Card at Gilles-Villeneuve",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McLaren at Montreal\n\n**Concept 3A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Lando Norris driving McLaren MCL39\n- Search terms: \"Lando Norris McLaren\"\n- Usage: FB McLaren story\n- Status: not_started\n\n**Concept 3B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: Oscar Piastri McLaren cockpit or racing action\n- Search terms: \"Oscar Piastri McLaren\"\n- Usage: Article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Red Bull's Structural Crisis — RB22 Overweight, Fix May Wait Until 2027",
+      "tier": 2,
+      "status": "",
+      "angle": "Why Red Bull's Canada hopes are limited, what Verstappen needs, and the exit clause countdown.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Red Bull's RB22 might be overweight until 2027.\n\nVerstappen (26 pts, 7th) calls it \"incredibly tough to drive.\" Red Bull 6th in constructors.\n\nExit clause triggers at Hungarian GP in July. Time is running out. #F1 #RedBull #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull",
+            "#Verstappen"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-red-bull-rb22-structural-crisis.html",
+        "headline": "Red Bull's RB22 Crisis Explained — Overweight, Overdue, and Running Out of Time",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Bull RB22 Crisis\n\n**Concept 4A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Max Verstappen in Red Bull RB22 cockpit\n- Search terms: \"Max Verstappen Red Bull\"\n- Usage: FB Red Bull story\n- Status: not_started\n\n**Concept 4B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: Verstappen in car or on podium\n- Search terms: \"Max Verstappen Red Bull\"\n- Usage: Article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Championship Knife Fight — Can Anyone Catch Antonelli Before Summer Break?",
+      "tier": 2,
+      "status": "",
+      "angle": "The devil's advocate case against Antonelli: Russell's Canada history (won 2025), McLaren's closing pace, Ferrari's constructors investment.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Antonelli leads 100-80-59-51 after 4 races.\n\nSounds comfortable. But Russell won Canada last year. McLaren found pace. Ferrari has upgrades.\n\nCanada (May 22-24) is 34 points up for grabs between sprint and race.\n\nThe 2026 title is far from over. #F1 #CanadaGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadaGP"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-championship-math-before-summer-break.html",
+        "headline": "Can Anyone Catch Antonelli Before Summer? The 2026 Championship Math Examined",
+        "word_count": 686
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Math\n\n**Concept 5A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Kimi Antonelli in Mercedes W17, celebrating or racing\n- Search terms: \"Kimi Antonelli Mercedes\"\n- Usage: FB championship story\n- Status: not_started\n\n**Concept 5B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: George Russell Mercedes driving action\n- Search terms: \"George Russell Mercedes\"\n- Usage: Article hero\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -1674,3 +1674,40 @@
 - **Key facts:** Ferrari constructors lead: 44 pts (Japan) → 16 pts (Miami). Leclerc P8 after 20s penalty (final lap spin/cutting circuit). Hamilton P6 (lap-1 Colapinto collision). McLaren collected 33 pts Miami (Norris 18 + Piastri 15). Leclerc quote: "all on me." Canada must be clean.
 - **Status:** FOLLOW UP (from 2026-05-14)
 - **Follow-up ideas:** Canada performance; constructors standings after Montreal
+
+## 2026-05-18
+
+### STORY 1: Mercedes Canada Upgrade — 0.3s Per Lap Package Breakdown
+- **Tier:** 1
+- **Category:** Technical / Race Preview
+- **Key facts:** Mercedes' largest 2026 upgrade package arrives at Canada. Worth 0.3s/lap. Components: new floor/rear aero, lighter gearbox, new race start software (fixes Antonelli's weak starts), ballast optimization. Only 2 updates at Miami; saving big package for Montreal. McLaren and Red Bull closed gap in Miami — Mercedes responding.
+- **Status:** FOLLOW UP (first technical deep-dive on components)
+- **Follow-up ideas:** Canada FP1 times comparing upgrade effect; race day analysis
+
+### STORY 2: Canada GP Full Sprint Weekend Guide
+- **Tier:** 1
+- **Category:** Race Preview / Format
+- **Key facts:** May 22-24, Circuit Gilles-Villeneuve. First-ever sprint at this circuit. Fri May 22: FP1 + Sprint Qualifying 9:30 PM ET. Sat May 23: Sprint Race 5:00 PM ET + Qualifying 9:00 PM ET. Sun May 24: Race ~2:00 PM ET, 70 laps, 4.361km. ESPN/ESPN+ (US), Sky Sports (UK), TSN (Canada). 34 pts available sprint+race.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Sprint qualifying result; sprint race result; race result
+
+### STORY 3: McLaren's Dark Horse Threat at Montreal
+- **Tier:** 2
+- **Category:** Championship Analysis / Team Preview
+- **Key facts:** Norris 51 pts (4th), Piastri 43 pts (6th). Both scored podiums in Miami (P2+P3). McLaren's second upgrade phase arriving in Miami made an "immediate difference." Internal battle: who gets protected at McLaren? Circuit Gilles-Villeneuve has been strong McLaren circuit. Math: if Norris wins + Mercedes splits P2/P3, Norris gains 7pts in one weekend.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Canada sprint/race result; internal McLaren battle; title gap after Montreal
+
+### STORY 4: Red Bull RB22 Structural Crisis
+- **Tier:** 2
+- **Category:** Technical / Team Storyline
+- **Key facts:** RB22 overweight with structural balance issues — engineers say fix may wait until 2027 chassis. Verstappen: "incredibly tough to drive, every lap is a fight." Red Bull admitted "significant shortcomings." Red Bull 6th in constructors. Verstappen 26 pts (7th). Exit clause at Hungarian GP July 24-26 — needs top-2 in WDC. Trails Russell (80 pts) by 54 pts.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Canada result; Verstappen exit clause outcome; Hungary GP storyline
+
+### STORY 5: Championship Math Before Summer Break
+- **Tier:** 2
+- **Category:** Championship Analysis / Feature
+- **Key facts:** Standings: Antonelli 100, Russell 80, Leclerc 59, Norris 51, Hamilton 51, Piastri 43. Canada 34 pts available (sprint + race). Russell won Canada 2025. McLaren improving. Ferrari upgrading. Max points gain scenario: Russell wins sprint+race, Antonelli P3 both → gap shrinks from 20 to 7.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Canada result; title gap at summer break

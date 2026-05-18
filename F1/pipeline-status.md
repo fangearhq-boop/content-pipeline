@@ -1,5 +1,22 @@
 ## Last Run
-- **Date**: 2026-05-17
+
+## Last Run
+- **Date**: 2026-05-18
+- **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-05-18
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-18.xlsx (7 posts) + f1fr-postplanner-tobi-2026-05-18.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-18/review-dashboard.html (22 items)
+- **Notes:** Mercedes Canada upgrade (0.3s/lap, new floor, lighter gearbox, start software, ballast); Canada GP sprint weekend guide (May 22-24, first sprint at Gilles-Villeneuve, FP1+SQ Friday, Sprint+Q Saturday, Race Sunday ~2PM ET); McLaren dark horse threat (Norris 51 pts, Piastri 43, P2+P3 Miami, improving trajectory); Red Bull RB22 structural crisis (overweight, 2027 fix timeline, Verstappen 26 pts/7th, exit clause Hungary July 24-26); Championship math (Antonelli 100-80 over Russell, 34 pts Canada, Russell won Canada 2025).
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
