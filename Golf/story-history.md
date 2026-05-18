@@ -513,3 +513,40 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Scheffler co-leads at -3 (67), defending 2025 PGA champion. First time co-leading after R1 at a major. Birdied 6, 7, 10, 11. Aronimink suits his game (precision over power, course management rewards patience).
 - **Status:** FOLLOW UP (from 2026-05-14)
 - **Follow-up ideas:** R2 result; Scheffler weekend position
+
+## 2026-05-18
+
+### STORY 1: Aaron Rai Wins PGA Championship — First English Winner Since 1919
+- **Tier:** 1
+- **Category:** Major Championship Result / Historic Upset
+- **Key facts:** Aaron Rai wins 108th PGA Championship at Aronimink GC. Final score -9, final-round 65, won by 3 shots. T2: Jon Rahm and Alex Smalley (-6). T4: Åberg, J. Thomas, Schmid (-5). Rai age 31, pre-tournament odds 290-1 (DraftKings). Biggest long-shot major winner in 20+ years (ESPN Research). First English PGA winner since Jim Barnes 1919. Key moments: 40-ft eagle hole 9, one-putted 7 straight greens, 68-ft birdie hole 17. Career: 1 PGA TOUR win (2024 Wyndham), 3 DP World Tour wins. Prize: $3.6M of $20.5M purse.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Rai's post-major trajectory; US Open field impact
+
+### STORY 2: McIlroy's Grand Slam Bid Ends at Aronimink
+- **Tier:** 1
+- **Category:** Major Championship Result / Career Grand Slam
+- **Key facts:** McIlroy finished -4 (total), 5 shots back, final-round 69. Bogeyed drivable par-4 13th; failed to birdie both par 5s. Had frustrated exchange with fan after bad shot at 16. Quote: "not birdieing the two par 5s and making the bogey at the drivable par-4 13th." Career Grand Slam still incomplete (has Masters ×2, US Open, Open Championship). Next major window: US Open.
+- **Status:** FOLLOW UP (from 2026-05-17 Grand Slam coverage)
+- **Follow-up ideas:** McIlroy reaction; US Open preparation; career Grand Slam odds
+
+### STORY 3: Smalley Collapses Sunday, Rahm T2
+- **Tier:** 2
+- **Category:** Major Championship Result / Sunday Drama
+- **Key facts:** Smalley led at 54 holes (-6), double-bogeyed 6th, bogeyed 8th on Sunday, finished T2 at -6. Rahm T2 (-6) with steady final round. T4 group: Åberg, J. Thomas, Schmid (-5). Smalley = career-best major finish, still no PGA TOUR wins.
+- **Status:** FOLLOW UP (from 2026-05-17 Smalley leading coverage)
+- **Follow-up ideas:** Smalley next start; Rahm major win pursuit; US Open
+
+### STORY 4: Scheffler Title Defense Falls Short — T14
+- **Tier:** 2
+- **Category:** Major Championship Result / Defending Champion
+- **Key facts:** Scheffler -2, tied 14th. Led/shared R1 lead (career first in major). Couldn't produce final-round magic. World No. 1. 6 shots behind Rai.
+- **Status:** FOLLOW UP (from 2026-05-17 defending champion coverage)
+- **Follow-up ideas:** Scheffler US Open prep; Memorial Tournament
+
+### STORY 5: After Aronimink — What's Next in Golf
+- **Tier:** 2
+- **Category:** Golf Preview
+- **Key facts:** ShopRite LPGA Classic May 29-31, Seaview Bay Course, Galloway NJ. US Women's Open June 4-7, Riviera CC, Pacific Palisades CA. Memorial Tournament June 4-7, Muirfield Village, Dublin OH. US Open in June (McIlroy's next Grand Slam chance).
+- **Status:** NEW STORY
+- **Follow-up ideas:** US Women's Open field; US Open preview; McIlroy prep

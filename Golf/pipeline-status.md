@@ -1,5 +1,24 @@
 # Golf Fanrecap — Pipeline Status
 
+## Current Pipeline (2026-05-18)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-05-18 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-18 |
+| Fact-check | Complete (verify-facts.py — 20 claims, 40 HIGH confidence) | 2026-05-18 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-18 |
+| PostPlanner | Complete (7 X posts + TOBI 7 posts) | 2026-05-18 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent with all previous runs) | 2026-05-18 |
+| Published | Failed — WordPress credentials blocked by egress proxy (persistent infrastructure issue) | 2026-05-18 |
+| Git | Committed and pushed to main | 2026-05-18 |
+
+## Notes (2026-05-18)
+- 5 stories: Aaron Rai wins PGA Championship (-9, final-round 65, 290-1 odds, first English winner since 1919, 3 shots over Rahm/Smalley T2) T1; McIlroy Grand Slam bid ends (-4, 5 back, bogeyed 13th, failed to birdie par 5s) T1; Smalley collapses (double-bogey 6, bogey 8), Rahm T2 both -6 T2; Scheffler title defense falls T14 (-2) T2; What's Next (ShopRite May 29-31, US Women's Open June 4-7 Riviera, Memorial June 4-7) T2
+- Pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway
+- WordPress publish failed (egress proxy — persistent across all three niches)
+- Dashboard push failed (PAT lacks write access to content-dashboards repo — consistent with all previous runs)
+
 Dashboard subfolder: `gfr`
 Dashboard URL: https://fangearhq-boop.github.io/content-dashboards/gfr/
 

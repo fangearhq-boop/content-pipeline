@@ -1,0 +1,253 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-18",
+  "compiled_at": "2026-05-18T11:38:46.552711+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Aaron Rai Wins PGA Championship — First English Winner in 107 Years",
+      "tier": 1,
+      "status": "",
+      "angle": "An historic, against-all-odds upset at golf's oldest major — how Rai pulled it off and what it means for golf.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "AARON RAI WINS THE PGA CHAMPIONSHIP. 🏆\n\n-9 total. Final-round 65. Won by 3 shots.\n\n290-1 odds. The first English winner since 1919. The biggest long-shot major winner in 20+ years.\n\nWhat a Sunday at Aronimink. 🤯 #PGAChampionship #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#Golf"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Aaron Rai at Aronimink, Sunday:\n\n• 40-foot eagle on No. 9\n• One-putted 7 straight greens\n• 68-foot birdie to seal it on No. 17\n• Final-round 65, wins by 3\n\n$3.6 million. First English PGA champion in 107 years. 🏆 #PGAChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-aaron-rai-pga-championship-winner.html",
+        "headline": "Aaron Rai Wins PGA Championship at 290-1 — First English Winner in 107 Years",
+        "word_count": 648
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Rai PGA Championship Win\n\n**Concept 1A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Aaron Rai holding Wanamaker Trophy or celebrating win\n- Search terms: \"Aaron Rai golf\"\n- Usage: FB main post + X\n- Status: not_started\n\n**Concept 1B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: Aaron Rai at Aronimink — on fairway or at the green\n- Search terms: \"Aaron Rai golf\"\n- Usage: Article hero image\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "McIlroy's Grand Slam Dream Dies at Aronimink",
+      "tier": 1,
+      "status": "",
+      "angle": "The agony of what could have been — McIlroy still sits one major short of the career Grand Slam.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Rory McIlroy's calendar Grand Slam bid is over.\n\nFinished -4, five shots back. Bogeyed the drivable par-4 13th. Couldn't birdie either par 5.\n\nHe still needs the PGA Championship to complete the career Grand Slam. The wait continues. #Golf #PGAChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#PGAChampionship"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 2-2",
+          "text": "When Rory McIlroy is asked about the Grand Slam, the answer will always come back to this:\n\nHe had his chances. He needed to make birdies on the par 5s. He didn't.\n\nThe goal doesn't get easier next time. #Golf #RoryMcIlroy",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#RoryMcIlroy"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-mcilroy-grand-slam-bid-ends.html",
+        "headline": "McIlroy's Grand Slam Bid Ends at Aronimink — Five Shots and a Season's Worth of Frustration",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "McIlroy Grand Slam Bid Ends\n\n**Concept 2A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Rory McIlroy reacting or walking the fairway at PGA Championship\n- Search terms: \"Rory McIlroy golf\"\n- Usage: FB McIlroy post\n- Status: not_started\n\n**Concept 2B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: McIlroy in competitive action\n- Search terms: \"Rory McIlroy golf\"\n- Usage: Article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Smalley Collapses, Rahm Holds — T2 for Both",
+      "tier": 2,
+      "status": "",
+      "angle": "Smalley's collapse opened the door for Rai's historic surge.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Alex Smalley led the PGA Championship at 54 holes.\n\nThen: double bogey on 6, bogey on 8.\n\nHe finished T2 at -6 with Jon Rahm — best career major result by far.\n\nAaron Rai was the one who kept his head when everyone else lost theirs. #PGAChampionship #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#Golf"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-smalley-collapse-rahm-t2.html",
+        "headline": "Smalley's Sunday Collapse Opens the Door — Rahm and Smalley Share T2 as Rai Runs Away",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Smalley/Rahm T2\n\n**Concept 3A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Alex Smalley or Jon Rahm on the course at PGA Championship\n- Search terms: \"Jon Rahm golf\"\n- Usage: FB post\n- Status: not_started\n\n**Concept 3B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: Jon Rahm during tournament play\n- Search terms: \"Jon Rahm golf\"\n- Usage: Article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Scheffler's Title Defense Ends Quietly — Tied 14th",
+      "tier": 2,
+      "status": "",
+      "angle": "The defending champion narrative — what went wrong for Scheffler and what the T14 says about where his game sits.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Scottie Scheffler led after Round 1 at the PGA Championship — a career first in a major.\n\nHe finished tied 14th at -2.\n\nThe world No. 1 hasn't won a major yet in 2026. He'll be back — he always is. #PGAChampionship #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#Golf"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-scheffler-title-defense-falls-short.html",
+        "headline": "Scheffler Can't Conjure Final-Round Magic — World No. 1 Finishes T14 in Title Defense",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler Title Defense\n\n**Concept 4A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Scottie Scheffler playing during the tournament\n- Search terms: \"Scottie Scheffler golf\"\n- Usage: FB post\n- Status: not_started\n\n**Concept 4B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: Scheffler on the green or driving range\n- Search terms: \"Scottie Scheffler golf\"\n- Usage: Article hero\n- Status: not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "After Aronimink — McIlroy Eyes US Open, Women's Golf Up Next",
+      "tier": 2,
+      "status": "",
+      "angle": "What comes next for golf's biggest names — and why the back half of 2026 has enormous stakes.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "PGA Championship is done. What's next in golf?\n\n⛳ LPGA ShopRite Classic: May 29-31, Seaview, NJ\n🏆 US Women's Open: June 4-7, Riviera CC, CA\n🏆 US Open: June 2026 (McIlroy's next Grand Slam shot)\n\nThe major season is just warming up. #Golf #LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#LPGA"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-golf-whats-next-after-pga-championship.html",
+        "headline": "What's Next in Golf — US Women's Open, McIlroy's US Open Window, and the Road Ahead",
+        "word_count": 632
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "What's Next in Golf\n\n**Concept 5A — Social (1080x1350)**\n- Type: imagn photo\n- Subject: Wide golf course shot or tournament atmosphere\n- Search terms: \"Riviera Country Club golf\"\n- Usage: FB post\n- Status: not_started\n\n**Concept 5B — Article Hero (1200x630)**\n- Type: imagn photo\n- Subject: Rory McIlroy looking ahead — pensive or competitive\n- Search terms: \"Rory McIlroy golf\"\n- Usage: Article hero\n- Status: not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
