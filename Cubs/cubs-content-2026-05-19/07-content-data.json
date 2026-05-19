@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-19",
+  "compiled_at": "2026-05-19T09:22:55.080933+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Brewers 9-3 recap — Imanaga's rough night",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "NL Central division alarm — 7 of 9 losses",
+      "type": "Bold take"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Game 2 preview — Brown vs Misiorowski",
+      "type": "Informative"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Peralta trade clock — 13 days to June 1",
+      "type": "Bold take"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Boyd bullpen session update",
+      "type": "Informative"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Game time hype",
+      "type": "Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers 9, Cubs 3 — Imanaga Tagged in Game 1, Cubs Fall to 29-19",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Imanaga's worst start of the season: 8 runs, 9 hits in 4.1 innings. Bauers 3-run HR in the 5th. Yelich homered for the 2nd straight day. Swanson 2-run HR for Cubs. Cubs fall to 29-19, Brewers pull to 0.5 GB. Cubs have lost 7 of last 9.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Imanaga got hammered. 8 runs, 9 hits in 4.1 innings — the worst start of his season.\n\nBauers 3-run HR. Yelich homered. Swanson's 2-run shot wasn't enough. Cubs fall to 29-19, Brewers now 0.5 GB.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative — game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 12,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Brewers 9, Cubs 3 — Imanaga Tagged in Game 1\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Final score: Brewers 9, Cubs 3 | ESPN, CBS Sports, Bleacher Nation, MLB.com | HIGH |\n| Imanaga: 8 ER, 9 H, 4.1 IP | ESPN recap, CBS Sports box score | HIGH |\n| Imanaga record drops to 4-4 | ESPN recap | HIGH |\n| Worst start of Imanaga's season | ESPN, Chicago Sun-Times | HIGH |\n| Imanaga had given up 8 ER total over previous 5 starts combined | ESPN/Sun-Times context | HIGH |\n| Jake Bauers: HR, 4 RBI (3-run HR in 5th off video board) | ESPN recap | HIGH |\n| Christian Yelich: HR, 2 RBI (2nd consecutive day with HR) | ESPN, Yelich search | HIGH |\n| Dansby Swanson: 2-run HR for Cubs | ESPN recap, CBS Sports | HIGH |\n| Shane Drohan (2-1): 4.1 IP, 4 H, W | ESPN recap | HIGH |\n| Sproat was pulled in 5th (Drohan replaced him) | ESPN recap | HIGH |\n| Cubs lost 7th time in 9 games | Chicago Sun-Times, CBS Sports recap context | HIGH |\n| Milwaukee pulled within half a game of division lead | ESPN recap | HIGH |\n| Cubs fall to 29-19 | Derived from search: \"29-18 before game + 1 loss\" | MEDIUM |\n| Brewers improve to 27-18 | Derived from standings search (\"26-18 before game + 1 win\") | MEDIUM |\n**Fact-check note on Cubs record:** Story history May 18 pipeline recorded Cubs at 29-17 after the Crosstown Classic walkoff. However, search results indicate Cubs were 29-18 before the May 18 Brewers game (same date as the Crosstown Game 3). This is consistent: Crosstown Game 3 (walkoff loss) put Cubs at 29-18, then Brewers loss put them at 29-19. The May 18 pipeline entry of \"Cubs fall to 29-17\" appears to track only through Game 3, not both games on the same date. Today: Cubs 29-19. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "NL Central Division Alarm — Seven Losses in Nine Games",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs 29-19. Brewers 0.5 GB. Cardinals 1.0 GB. All five NL Central teams above .500. The Cubs went 2-4 against the Braves and White Sox and now face a surging Brewers team at home. The division lead is evaporating.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Seven losses in nine games. Brewers half a game back. Cardinals one game out.\n\nThe Cubs aren't sleepwalking to a division title. They're being chased — and the gap is closing fast.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take — division analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 3,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "NL Central Division Alarm\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Cubs 29-19 | Multiple standings searches | MEDIUM (derived) |\n| Brewers 27-18, 0.5 GB | Standings research + recap \"pulled within half-game\" | MEDIUM |\n| Cardinals 27-19, 1.0 GB | Standings search (\"Cardinals 27-19\") | MEDIUM |\n| Cubs lost 7 of last 9 games | Chicago Sun-Times recap | HIGH |\n| All 5 NL Central teams above .500 | Standings search | MEDIUM |\n| Cubs went 2-4 vs Braves and White Sox this week | Brew Crew Ball Week 8 power rankings | MEDIUM |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Game 2 Preview — Ben Brown vs Misiorowski, Wrigley, 6:40 PM CT",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brown (1-1, 1.60 ERA) has allowed 0 ER in his last 12.2 IP. Misiorowski (3-2, 2.12 ERA) leads MLB with 80 Ks in 51 innings and has 0 ER in 3 straight starts. One of the best pitching matchups of the week. Cubs need the win.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Brown vs Misiorowski tonight at Wrigley. 6:40 PM CT.\n\nBen Brown: 1.60 ERA, 0 ER in his last 12.2 innings.\nJacob Misiorowski: 2.12 ERA, MLB-best 80 Ks in 51 innings, 0 ER in 3 straight.\n\nCubs need this one.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative — game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 7,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Ben Brown vs Misiorowski Preview\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Brown: 1-1, 1.60 ERA | Brew Crew Ball, Bleed Cubbie Blue, preview search | HIGH |\n| Brown 2.44 FIP | Preview search | MEDIUM |\n| Brown: 0 ER in last 12.2 innings | Preview search (Brew Crew Ball/BCB) | MEDIUM |\n| Misiorowski: 3-2, 2.12 ERA | Preview search (multiple sources) | HIGH |\n| Misiorowski: 2.27 FIP | Preview search | MEDIUM |\n| Misiorowski: MLB-best 80 Ks in 51 innings, 9 starts | Preview search | HIGH |\n| Misiorowski: 0 ER in 3 straight starts | Preview search | MEDIUM |\n| Game time: 6:40 PM CT at Wrigley | Established from May 18 pipeline + preview search | HIGH |\n| Brewers lead series 1-0 | Tonight is Game 2 | HIGH |\n**Cross-reference note:** Misiorowski 80 Ks in 51 IP is in sync with the May 18 pipeline which called him \"MLB K/9 leader (14.0).\" 80 Ks in 51 IP = 14.1 K/9 ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Peralta Trade Clock — 13 Days to June 1 Decision",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Imanaga's blowup makes this more urgent. The Cubs' rotation can't survive on Imanaga alone. Mets' June 1 decision point is 13 days away. Peralta (3.12 ERA), Counsell connection, pending free agency = most logical deal in baseball.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Last night confirmed it: the Cubs' rotation can't survive on Imanaga alone.\n\nPeralta's June 1 decision point is 13 days out. His 3.12 ERA, Counsell connection, and pending free agency make this the most logical deal in baseball.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Bold take — trade analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Peralta Trade Clock\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Mets setting June 1 as decision point | CBS Sports, Yardbarker | HIGH |\n| Peralta: 3.12 ERA | Established in prior pipelines (May 14-18) | HIGH |\n| Cubs interest in Peralta confirmed | CBS Sports, Yahoo Sports | HIGH |\n| Counsell connection (overlapped in Milwaukee) | Multiple trade rumor sources | HIGH |\n| Peralta is pending FA after 2026 | Multiple trade rumor sources | HIGH |\n| No completed deal | All sources | HIGH |\n| 13 days until June 1 (from May 19) | Calendar math: June 1 - May 19 = 13 days | HIGH |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Matt Boyd Bullpen Session Next Week — Late June Return on Track",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Boyd threw off the mound May 16. Bullpen session expected this week. Late June return still on track. Positive news amid the rotation crisis — Boyd's return won't rescue the season but will help stabilize the back end.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Good news from the recovery front: Matt Boyd is throwing a bullpen session next week.\n\nLate June return still on track. A healthy Boyd won't save the season — but he'll make it a lot more manageable.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative — injury update",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 3,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Boyd Update\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Boyd threw off mound May 16 | Established May 17/18 pipelines | HIGH |\n| Bullpen session expected next week (after May 16 mound session) | MLB Trade Rumors, SI | MEDIUM |\n| Late June return still on track | MLB Trade Rumors, ClutchPoints, SI | MEDIUM |\n| Meniscus was \"trim\" not full repair | MLB Trade Rumors (GM quote) | HIGH |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Game Time — Brown at Wrigley, 6:40 PM CT",
+      "tier": 3,
+      "status": "",
+      "angle": "Short game-time energy tweet. Brewers lead series. Brown on the mound. Division race on the line.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "GAME TWO. Wrigley. 6:40 PM CT.\n\nBrewers lead the series. Brown's on the mound. The Cubs don't have room to give this one away.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Hype — game time",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 150
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 10,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game-Time Hype\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Game 2, Wrigley, 6:40 PM CT | Multiple preview sources | HIGH |\n| Brewers lead series 1-0 | Game 1 recap (9-3 Brewers) | HIGH |\n| Brown starts | Preview sources | HIGH |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

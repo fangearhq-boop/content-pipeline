@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-19
+
+### STORY 1: Brewers 9, Cubs 3 — Imanaga's Worst Start of Season, Cubs Fall to 29-19
+- **Angle:** NEW STORY. Imanaga: 8 ER, 9 H in 4.1 IP — worst start of 2026. Bauers 3-run HR in 5th (total 4 RBI). Yelich HR (2nd straight day). Swanson 2-run HR for Cubs. Shane Drohan took the win. Cubs 29-19, Brewers pull to 0.5 GB. Cubs lost 7 of last 9.
+- **Content Produced:** X (1 post — 7:00 AM CT)
+- **Follow-Up:** Game 2 result; Imanaga's ERA/next outing; series outcome
+
+### STORY 2: NL Central Division Alarm — Seven Losses in Nine Games
+- **Angle:** NEW STORY (bold division take). Cubs 29-19. Brewers 0.5 GB. Cardinals 1.0 GB. All 5 NL Central teams above .500. Cubs went 2-4 vs Braves and White Sox. Division lead evaporating.
+- **Content Produced:** X (1 post — 8:15 AM CT)
+- **Follow-Up:** Weekly standings check; series result impact; next rival series
+
+### STORY 3: Game 2 Preview — Ben Brown vs Misiorowski, Wrigley, 6:40 PM CT
+- **Angle:** FOLLOW-UP (Brown arc from May 16/18; Misiorowski angle from May 18). Brown: 1.60 ERA, 0 ER in last 12.2 IP. Misiorowski: MLB-best 80 Ks in 51 IP, 2.12 ERA, 0 ER in 3 straight starts. Framed as a duel with playoff-race stakes.
+- **Content Produced:** X (1 post — 12:00 PM CT)
+- **Follow-Up:** Game 2 result; Brown's line; Misiorowski's K total; series status
+
+### STORY 4: Peralta Trade Clock — 13 Days to June 1 Decision
+- **Angle:** FOLLOW-UP (Peralta arc from May 14-18). Imanaga's blowup used as new angle hook. Rotation can't survive on Imanaga alone. Peralta: 3.12 ERA, Counsell connection, pending FA, 13 days to Mets' June 1 pivot point.
+- **Content Produced:** X (1 post — 2:30 PM CT)
+- **Follow-Up:** Any Peralta/Mets news; Cubs front office signals; trade market movement
+
+### STORY 5: Matt Boyd Bullpen Session Next Week — Late June Return on Track
+- **Angle:** FOLLOW-UP (Boyd recovery arc from May 17/18). Threw off mound May 16. Bullpen session expected this week. Late June return still on schedule. Positive news framed as contrast to doom.
+- **Content Produced:** X (1 post — 3:45 PM CT)
+- **Follow-Up:** Bullpen session result; formal activation timeline; rotation plan implications
+
+### STORY 6: Game Time — Brown at Wrigley, 6:40 PM CT
+- **Angle:** TODAY (game-time energy). Brewers lead series 1-0. Brown on the mound. Division race urgency.
+- **Content Produced:** X (1 post — 6:30 PM CT)
+- **Follow-Up:** Game 2 result for next pipeline
+
+---
+
 ## 2026-05-18
 
 ### STORY 1: White Sox 9, Cubs 8 (F/10) — Quero Walkoff Ends Crosstown Classic

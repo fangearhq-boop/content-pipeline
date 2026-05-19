@@ -1,6 +1,15 @@
 # Cubs Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-19 (full pipeline run)
+- **Steps Completed**: Research (12 searches, 6 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log (29 claims, 0 errors, 4 MEDIUM/plausible), compile-content-data.py (all clear, 0 warnings), generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — recurring issue)
+- **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-19/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
+- **GitHub Pages Status**: N/A for this run (push rejected — content-dashboards separate repo not in PAT scope)
+- **Issues**: (1) Both series-context API and insights API returned 403 again (8th consecutive run). off_day=true fallback INCORRECT. Web research confirms Cubs in Game 2 of Brewers series at Wrigley tonight. (2) Insights tweet_count=0 — brand-voice.md defaults applied. (3) publish-unified-dashboard.py push rejected 403 (same recurring issue). Core deliverable (07-content-data.json) compiled and pushed to content-pipeline repo for cubs-x-bot.
+- **Insights applied**: API unavailable (403/tweet_count=0). Fell through to brand-voice.md defaults. 50/50 informative/bold split applied (Stories 1/3/5 informative; Stories 2/4/6 bold/analytical/hype). No format adjustments possible without data.
+- **Key stories**: Brewers 9-3 Imanaga 8-ER disaster (P10), NL Central alarm 7-of-9 losses Brewers 0.5 GB Cardinals 1.0 GB (P9), Brown vs Misiorowski Game 2 6:40 PM CT (P9), Peralta June 1 13 days Counsell connection (P8), Boyd bullpen session late June return (P7), game-time hype (P5)
+
+## Previous Run
 - **Date**: 2026-05-18 (full pipeline run)
 - **Steps Completed**: Research (11 searches, 6 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log (27 claims, 0 errors), compile-content-data.py (all clear, 0 warnings), generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — recurring issue)
 - **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-18/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
@@ -102,6 +111,16 @@ to mark them as pipeline-produced.
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-19
+- Stories: 6 (Tier 1: imanaga-recap, nl-central-alarm; Tier 2: brown-misiorowski-preview, peralta-clock, boyd-update; Tier 3: game-time-hype) — X-only niche
+- X posts: 6 (3 informative / 3 bold-hype = 50/50 mix)
+- Char counts: all 6 ≤ 280 (218/205/234/254/228/150 per compiler)
+- Fact-check: Manual verification. 29 claims checked, 0 errors, 4 MEDIUM/plausible. HIGH verified: Brewers 9-3 Cubs (4 sources), Imanaga 8 ER 9 H 4.1 IP (ESPN+CBS), Imanaga worst start of season (ESPN+Sun-Times), Bauers 3-run HR 4 RBI (ESPN), Yelich HR 2nd straight day (ESPN), Swanson 2-run HR (ESPN/CBS), Cubs lost 7 of 9 (Sun-Times), Brewers 0.5 GB (ESPN explicit), Brown 1.60 ERA (multiple preview), Misiorowski 80 Ks/51 IP 2.12 ERA (multiple preview), game 6:40 PM CT (multiple), Peralta 3.12 ERA June 1 (established), Counsell connection (multiple), Boyd mound session May 16 (established). MEDIUM: Cubs 29-19 record (derived), Cardinals 1.0 GB (single-source), Brown 0 ER 12.2 IP (single source), Misiorowski 0 ER 3 straight (single source), Boyd bullpen session next week (MLB TR + SI).
+- Dashboard: Generated locally (Cubs/cubs-content-2026-05-19/review-dashboard.html). Publish to content-dashboards FAILED (403 — same recurring issue, PAT doesn't cover content-dashboards repo).
+- 07-content-data.json: ✓ Compiled, 6 stories, 6 x_posts with posting_time in "H:MM AM/PM CT" format, 0 errors, 0 warnings
+- Key stories: Imanaga 8 ER Brewers 9-3 Cubs 29-19 Brewers 0.5 GB (P10), NL Central alarm 7-of-9 Brewers 0.5 Cardinals 1.0 (P9), Brown 1.60 ERA vs Misiorowski 80 Ks Game 2 6:40 CT (P9), Peralta June 1 13 days rotation can't survive Imanaga alone (P8), Boyd bullpen session late June return on track (P7), game-time hype Game 2 (P5)
+- Notes: Both APIs (insights, series-context) returned 403 for 8th consecutive pipeline run. off_day=true fallback INCORRECT — web research confirmed Brewers series Game 2 tonight at Wrigley. No insights tuning (cold start). 07-content-data.json ready for cubs-x-bot.
 
 ### 2026-05-18
 - Stories: 6 (Tier 1: crosstown-walkoff-recap, brewers-series-preview; Tier 2: roster-moves, brown-vs-misiorowski, peralta-trade-clock; Tier 3: game-time-hype) — X-only niche
