@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-19
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories — heading format fix applied: **Long-Form Post** / **Image Caption**; FB now compiles to 6 vs known-0 in prior runs), image concepts (6 stories; S6 Tier 3 included), image manifest, articles (5), fact-check (39 claims, 0 char violations, consistency clean, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 6 FB posts — FIX APPLIED, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
+- **Dashboard Published**: Local only
+- **GitHub Pages Status**: n/a (PAT scope limitation known)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required).
+- **Key Stories**: Ramírez 8th HR in 9th/2-run double/Guardians 8-2 Tigers/career 292 HRs/8 from 300-300 (Tier 1), Schwarber 20 HRs ahead of Bonds' May 19 date in 73-HR season/pace for 67-70 HRs/Phillies 21-23/Judge 2nd at 16 (Tier 1), Brewers 9-3 Cubs ends 15-game Wrigley home win streak/Imanaga 8 ER in 4.1 IP/Yelich HR/Bauers 3-run HR (Tier 2), Marlins 12-0 Braves/Sanoja first career grand slam/Meyer 6 IP 0 ER 6K/Braves 30-15 (Tier 2), Padres 1-0 Dodgers/King 7 IP 9K/Miller 15th save MLB-leading/Andujar HR/first 2026 meeting (Tier 2), Tuesday MLB watch guide (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-18
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 2 char violations fixed: S1 tweet 2 281→273 removed "career", S2 tweet 2 296→279 removed "Still leads MLB."; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest, articles (5), fact-check (43 claims, 0 char violations, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/bb/

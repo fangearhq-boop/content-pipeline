@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-19
+
+### Story 1: Ramírez 8th HR in Guardians 8-2 Win — Now 8 From 300-300
+- **Angle:** FOLLOW UP (Ramírez 300-300 chase covered May 18). Solo HR leading off 9th + 2-run double. Career total 292 HRs; needs 8 more. Guardians 8-2 win over Tigers (6th of last 7). Cecconi 7.1 IP. Tigers now 2-11 in last 13. Framber Valdez takes loss.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Ramírez HR No. 9, 10… when does he reach 300?
+
+### Story 2: Schwarber HR Pace — Still Ahead of Bonds' 73-HR Season
+- **Angle:** FOLLOW UP (Schwarber covered May 13-18). 20 HRs earliest in MLB history. On pace for 67-70 HRs (behind only Bonds 73, McGwire 70 all-time). Phillies 21-23. Judge 2nd at 16. Buxton/Murakami tied at 15. Historical Bonds comparison: Bonds reached 20 HRs on May 19 in his 73-HR year — Schwarber was 4 days faster (May 15).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Does Schwarber reach 30 HRs before June? When does the pace start to normalize?
+
+### Story 3: Brewers 9-3 Cubs — 15-Game Wrigley Win Streak Ends
+- **Angle:** NEW STORY. Cubs had not lost at home since April 11 (15-0 streak). Brewers ended it Monday. Yelich HR (2nd), Bauers 3-run HR, Frelick 2-run double in 4-run 3rd. Imanaga: 8 R, 9 H in 4.1 IP (worst 2026 start). Swanson 2-run HR, Busch RBI double (Cubs only offense). Cubs still 28-16.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concept
+- **Follow-ups:** Cubs bounce-back Tuesday at Wrigley?
+
+### Story 4: Marlins 12-0 Braves — Sanoja Grand Slam, Meyer Dominant
+- **Angle:** NEW STORY. MLB's best record (30-14) shut out 12-0. Javier Sanoja first career grand slam. Joe Mack 4 RBI. Max Meyer: 6 IP, 3H, 0 ER, 6K. JR Ritchie loss: 6 ER in 4 IP. Braves 4 total hits. Attendance 8,672. Braves now 30-15.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concept
+- **Follow-ups:** Braves respond Tuesday? Series result vs Marlins
+
+### Story 5: Padres 1-0 Dodgers — King 9 K, Miller 15th Save
+- **Angle:** NEW STORY. First Padres-Dodgers series of 2026. Miguel Andujar solo HR off Yamamoto in 1st (only run). Michael King: 7 IP, 4H, 0 ER, 9 K, 2 BB (season highs). Mason Miller 15th save (MLB-leading). Yamamoto tough-luck loss. Ohtani 2 hits. Padres 4th straight win.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concept
+- **Follow-ups:** Padres-Dodgers G2 and G3 results; series winner
+
+### Story 6: Tuesday MLB Watch Guide
+- **Angle:** NEW STORY (Tier 3 preview). Tuesday slate: Dodgers-Padres G2, Braves-Marlins G2, Brewers-Cubs G2, Yankees-Blue Jays G2, Guardians-Tigers G2.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** N/A
+
+---
+
 ## 2026-05-18
 
 ### Story 1: José Ramírez — 9 HRs From the 300-300 Club

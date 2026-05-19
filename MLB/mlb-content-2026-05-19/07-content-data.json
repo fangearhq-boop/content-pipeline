@@ -1,0 +1,321 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-19",
+  "compiled_at": "2026-05-19T10:30:30.155220+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "X + FB",
+      "type": "Story 1: Ramírez 8th HR, Guardians 8-2"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "X + FB",
+      "type": "Story 2: Schwarber HR pace"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "X + FB",
+      "type": "Story 3: Brewers end Cubs' home streak"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "X + FB",
+      "type": "Story 4: Marlins 12-0 Braves"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "X + FB",
+      "type": "Story 5: Padres 1-0 Dodgers"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "X + FB",
+      "type": "Story 6: Tuesday MLB watch guide"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ramírez Hits No. 8 in Guardians' 8-2 Win — Now 8 HRs From the 300-300 Club",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "José Ramírez led off the 9th with a solo homer Monday.\n\nHis 8th of the season. Career HR No. 292.\n\nHe's now 8 home runs away from the 300-300 club. No primary infielder in MLB history has ever done it. #Guardians",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Guardians have won 6 of their last 7 games.\n\nSlade Cecconi: 7.1 IP, 2 R, 4 H.\n\nRamírez: 2-run double + solo HR.\n\nDetroit is now 2-11 in their last 13 games. #Guardians #Tigers",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians",
+            "#Tigers"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ RAMÍREZ IS 8 HOME RUNS FROM HISTORY ⚾\n\nJosé Ramírez is running out of ways to make this chase more dramatic. Monday night in Detroit, he led off the ninth inning with a solo home run — his 8th of the 2026 season — as the Cleveland Guardians cruised to an 8-2 win over the slumping Tigers.\n\nThat homer brought his career total to 292. He now needs exactly 8 more to join baseball's most exclusive fraternity: the 300-300 club.\n\nOnly eight players in Major League Baseball history have ever hit 300 home runs and stolen 300 bases. Willie Mays. Barry Bonds. Bobby Bonds. Alex Rodriguez. Andre Dawson. Reggie Sanders. Steve Finley. Carlos Beltran. These are Hall of Famers and all-time greats.\n\nAnd Ramírez — already with 303+ career stolen bases — is 8 home runs away from joining them.\n\nThe beautiful part of the game: he's not just padding stats in blowouts. Ramírez also hit a two-run double earlier in Monday's win. He's been Cleveland's engine as the Guardians have now won six of their last seven games.\n\nOn the other side, Detroit continues to unravel — the Tigers are now 2-11 in their last 13 games. Cleveland starter Slade Cecconi was dominant, going 7.1 innings on 2 runs and 4 hits.\n\nHistory is in sight. 8 home runs. That's it.\n\n---",
+        "image_caption": "José Ramírez went deep for the 8th time in 2026 on Monday, giving him 292 career home runs. He needs 8 more to join the exclusive 300-300 club — only 8 players in MLB history have ever done it. The Guardians beat the Tigers 8-2. ⚾ #Guardians #JoseRamirez",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-ramirez-8th-homer-300-300-club.html",
+        "headline": "Ramírez Hits No. 8, Now 8 HRs Away From the 300-300 Club",
+        "word_count": 439
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ramírez 8th HR — 300-300 Club Chase\n\n**Image Concept 1A (Social — 1080x1350)**\n- **Search term:** `Jose Ramirez Cleveland Guardians`\n- **Canva text:** \"8 HRS FROM 300-300 HISTORY\" / \"José Ramírez | 292 Career HRs\"\n- **Mood:** Triumphant, power pose, stadium energy\n- **Status:** not_started\n\n**Image Concept 1B (Article Hero — 1200x630)**\n- **Search term:** `Jose Ramirez Cleveland Guardians`\n- **Use:** Article hero\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Schwarber HR Pace — Still the Story of the 2026 Season",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Fun fact: Barry Bonds reached his 20th home run on May 19 — in the year he hit 73.\n\nKyle Schwarber reached his 20th on May 15 — 4 days ahead of Bonds' all-time pace.\n\nLet that sink in. #Phillies",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies"
+          ],
+          "char_count": 194
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kyle Schwarber is on pace for 67-70 home runs in 2026.\n\nOnly Bonds (73) and McGwire (70) have ever hit 70+ in a season.\n\nThe Phillies are 21-23. He's carrying this offense on his back. #Phillies #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "💣 THE MOST HISTORIC PACE IN BASEBALL 💣\n\nHere's a remarkable coincidence: Barry Bonds reached his 20th home run of his record-setting 73-HR season on May 19th, 2001. Kyle Schwarber reached his 20th home run on May 15th of this season — four days earlier than the most prolific home run hitter in baseball history was at the same checkpoint.\n\nThat is the context of what Schwarber is doing in 2026.\n\nThe Philadelphia Phillies left fielder has 20 home runs through 46 games, the earliest any player in Major League Baseball history has ever reached that mark. He's already four home runs ahead of Aaron Judge (16) in the MLB home run race, with Byron Buxton and Munetaka Murakami tied at 15 in third.\n\nAt his current pace, Schwarber is on track to hit approximately 67-70 home runs this season. Only two players in baseball history have ever hit 70 or more: Barry Bonds (73 in 2001) and Mark McGwire (70 in 1998). Schwarber is running ahead of both of them right now.\n\nThere is a catch: the Phillies are 21-23. The team has relied almost entirely on Schwarber's production — they're 10-5 when he homers, 10-17 when he doesn't. That math tells the whole story. He is an absolute force of nature surrounded by a lineup that hasn't consistently supported him.\n\nIt doesn't diminish what he's doing. We may be watching one of baseball's most historic individual seasons in real time.\n\n[What's your over/under on his final HR total?] 👇\n\n---",
+        "image_caption": "Kyle Schwarber has 20 home runs on the earliest date in MLB history — 4 days ahead of Barry Bonds' pace when Bonds hit 73 in 2001. He's on pace for 67-70 HRs. Only Bonds and McGwire have ever hit 70+. This is historic. 💣 #Phillies #Schwarber",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-schwarber-hr-pace-bonds-record-chase.html",
+        "headline": "Schwarber's HR Pace Is Ahead of Bonds. Here's What That Actually Means.",
+        "word_count": 462
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber HR Record Pace\n\n**Image Concept 2A (Social — 1080x1350)**\n- **Search term:** `Kyle Schwarber Philadelphia Phillies`\n- **Canva text:** \"20 HRs — EARLIEST IN MLB HISTORY\" / \"Schwarber 2026\"\n- **Mood:** Power, home run swing, Citizens Bank Park backdrop\n- **Status:** not_started\n\n**Image Concept 2B (Article Hero — 1200x630)**\n- **Search term:** `Kyle Schwarber Philadelphia Phillies`\n- **Use:** Article hero\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Brewers 9, Cubs 3 — Milwaukee Ends Chicago's Stunning 15-Game Wrigley Win Streak",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Cubs hadn't lost at Wrigley Field since April 11.\n\n15-game home win streak. Over.\n\nBrewers 9, Cubs 3. Imanaga gave up 8 runs in 4.1 IP. His worst start of 2026. #Cubs #Brewers",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#Brewers"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "🐻 THE STREAK IS OVER 🐻\n\nThe Chicago Cubs had not lost at Wrigley Field since April 11. Fifteen consecutive home wins. One of the best home records in baseball.\n\nThe Milwaukee Brewers ended it Monday night with a convincing 9-3 drubbing.\n\nThe damage was swift. Yelich homered in the second to get Milwaukee on the board. Then the third inning arrived — and the Cubs couldn't get out of it. Jake Bauers hit a three-run bomb. Sal Frelick had a two-run double. Jackson Chourio added an RBI single. Just like that, the Brewers led 5-0 before Chicago had done much of anything.\n\nStarting pitcher Shota Imanaga (4-4) had his worst night of the season, giving up eight runs on nine hits in four and a third innings. For a pitcher who has been one of the Cubs' most consistent starters all year, it was a jarring outing.\n\nChicago did fight back in the fifth — Dansby Swanson hit a two-run homer and Michael Busch added an RBI double — but it was far too little.\n\nThe Cubs are still 28-16 and still sit atop the NL Central standings. This was one loss, not a collapse. But after 15 straight wins at the Friendly Confines, it stings.\n\nThe series continues Tuesday. Expect a different Cubs.\n\n---",
+        "image_caption": "Milwaukee's Brewers ended Chicago's 15-game Wrigley Field win streak Monday, 9-3. Imanaga gave up 8 runs in 4.1 innings — his worst start of 2026. The Cubs hadn't lost at home since April 11. 🐻 #Cubs #Brewers",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-brewers-end-cubs-wrigley-win-streak.html",
+        "headline": "Brewers 9, Cubs 3: Milwaukee Ends Chicago's 15-Game Wrigley Winning Streak",
+        "word_count": 390
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brewers End Cubs' Home Win Streak\n\n**Image Concept 3A (Social — 1080x1350)**\n- **Search term:** `Christian Yelich Milwaukee Brewers`\n- **Canva text:** \"WRIGLEY'S STREAK IS OVER\" / \"Brewers 9, Cubs 3\"\n- **Mood:** Celebration, contrast, Wrigley Field ivy\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Marlins 12-0 Blast Best Team in Baseball — Sanoja Grand Slam Stuns Braves",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Braves have the best record in baseball (30-14).\n\nMonday they got shut out 12-0 by the Marlins.\n\nJavier Sanoja — first career grand slam. Max Meyer — 6 IP, 0 ER, 6 K.\n\nBaseball. #Braves #Marlins",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#Marlins"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ MIAMI'S MONDAY MASTERPIECE ⚾\n\nThe Atlanta Braves entered Monday with the best record in baseball. They left Miami without scoring a single run.\n\nThe Marlins beat the Braves 12-0 in a blowout that wasn't close from the first inning. Javier Sanoja hit the first grand slam of his career. Joe Mack drove in four runs on three hits. And Max Meyer was dominant from the mound, throwing six scoreless innings, allowing just three hits, striking out six, and walking two.\n\nAtlanta's lineup managed just four hits all night. Starter JR Ritchie was roughed up for six earned runs in four innings and took the loss.\n\nFor the Marlins — playing in front of fewer than 9,000 fans on a Monday night — it was the kind of statement game that reminds the league that talent isn't always reflected in the standings. Miami has been one of baseball's surprises in the win column recently.\n\nFor the Braves, a 12-0 loss as the best team in baseball is a gut-check moment. They're still 30-15, still in first in the NL East, and still on pace for 100+ wins. One bad night doesn't change the season.\n\nGame 2 of the series is Tuesday night in Miami. Atlanta will be ready.\n\n---",
+        "image_caption": "Miami's Javier Sanoja hit his first career grand slam and Max Meyer threw 6 scoreless innings as the Marlins shut out the MLB-best Atlanta Braves 12-0 on Monday. Atlanta falls to 30-15 but remains in first place. ⚾ #Braves #Marlins",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-marlins-12-0-braves-sanoja-grand-slam.html",
+        "headline": "Marlins 12-0 Braves: Sanoja Grand Slam, Meyer Dominant as Miami Shuts Out Baseball's Best Team",
+        "word_count": 401
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Marlins 12-0 Braves\n\n**Image Concept 4A (Social — 1080x1350)**\n- **Search term:** `Miami Marlins pitcher`\n- **Canva text:** \"12-0 STUNNER\" / \"Marlins Shut Out Baseball's Best Team\"\n- **Mood:** Shock, upset energy\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Padres 1-0 Dodgers — King Masterpiece Wins NL West's First Meeting of 2026",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Michael King: 7 IP, 4 H, 0 ER, 9 K.\n\nMason Miller: 15th save, MLB-leading.\n\nMiguel Andujar: solo HR off Yamamoto in the 1st.\n\nPadres 1, Dodgers 0. First meeting of the 2026 season between NL West's best teams. #Padres #Dodgers",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Padres",
+            "#Dodgers"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "🏖️ KING AND MILLER SHUT OUT THE DODGERS 🏖️\n\nThe San Diego Padres and Los Angeles Dodgers met for the first time in 2026 on Monday night at Petco Park, and it went exactly the way Padres fans had hoped: a dominant pitching performance and a result that went their way.\n\nMiguel Andujar led off the game with a solo home run off Yoshinobu Yamamoto — the only run either team would score all night. Michael King took it from there.\n\nKing was exceptional: seven innings, four hits, zero earned runs, nine strikeouts, two walks. Those nine strikeouts were a season high, as were the seven innings. He retired batters with authority all night and handed the ball to Mason Miller with a 1-0 lead.\n\nMiller made it interesting. He walked his first two hitters on nine pitches. Then he got three straight outs — including a game-ending grounder from Andy Pages — to seal his MLB-leading 15th save of the season. The closer's heart rates in San Diego were through the roof for those few minutes, but Miller delivered.\n\nFor Yamamoto, it was a tough-luck loss. The Dodgers right-hander pitched quality baseball, and Shohei Ohtani had two hits. But Andujar's first-inning blow was all San Diego needed.\n\nGame 2 of this three-game series is Tuesday night. The Dodgers will need to respond quickly — losing two straight to the Padres in this rivalry carries weight.\n\n---",
+        "image_caption": "Michael King struck out 9 and allowed 0 runs in 7 innings, and Mason Miller earned his MLB-leading 15th save as the Padres beat the Dodgers 1-0 in the first meeting between these NL West rivals in 2026. 🏖️ #Padres #Dodgers",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-padres-1-0-dodgers-king-miller.html",
+        "headline": "Padres 1-0 Dodgers: King's Nine-Strikeout Gem and Miller's 15th Save Win NL West's First Showdown",
+        "word_count": 430
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Padres 1-0 Dodgers — King Masterpiece\n\n**Image Concept 5A (Social — 1080x1350)**\n- **Search term:** `Michael King San Diego Padres`\n- **Canva text:** \"7 IP • 0 ER • 9 K\" / \"KING RULES PETCO\"\n- **Mood:** Dominant pitcher, mound focus\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Tuesday MLB Watch Guide — Dodgers-Padres G2, Braves-Marlins G2, Yankees-Blue Jays G2",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Tuesday's MLB slate:\n\n🔵 Dodgers vs Padres G2 — Can LA even the series?\n🔴 Braves vs Marlins G2 — Atlanta responds after 12-0 blowout\n🏟️ Brewers vs Cubs G2 at Wrigley — Cubs bounce back?\n⚾ Yankees vs Blue Jays G2 at Yankee Stadium\n\nBig night. #MLB",
+          "posting_time": "10:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "📅 TUESDAY'S MLB SLATE 📅\n\nMonday night gave us plenty to talk about. Tuesday gets to sort it all out.\n\n🔵 **Dodgers at Padres, Game 2** — Los Angeles needs a win to even this series after Monday's 1-0 loss. Emmet Sheehan faces Griffin Canning. Ohtani looks to bounce back after a hitless Monday night (though he had 2 hits, the offense couldn't score).\n\n🔴 **Braves at Marlins, Game 2** — Atlanta got shut out 12-0 on Monday. That won't happen twice in a row. Martin Perez starts for the Braves against Braxton Garrett. Expect the NL East leaders to respond.\n\n🏟️ **Brewers at Cubs, Game 2 at Wrigley** — Chicago's 15-game home win streak is done. The question is whether the Cubs can rebound Tuesday or whether Milwaukee is in their heads. Second game of this NL Central series.\n\n⚾ **Yankees at Blue Jays, Game 2** — New York won Game 1 7-6 behind back-to-back 7th-inning homers from Bellinger and Chisholm. Toronto needs to even the series before it gets out of hand.\n\nIt's a Tuesday in May. Baseball fills the slate.\n\n---",
+        "image_caption": "Tuesday's MLB schedule has Dodgers-Padres G2, Braves-Marlins G2 (Atlanta responds after 12-0 blowout), Yankees-Blue Jays G2, and more. Lots to follow tonight. ⚾ #MLB",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tuesday MLB Watch Guide (Tier 3 — Social Only)\n\n**Image Concept 6A (Social — 1080x1350)**\n- **Search term:** `MLB baseball stadium`\n- **Canva text:** \"TONIGHT'S MLB SLATE\" / \"Dodgers vs Padres G2 • Braves vs Marlins G2\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 6,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
