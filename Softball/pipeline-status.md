@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-19
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations; fixed FB heading format to **Long-Form Post** / **Image Caption**; FB compile now shows 6 posts vs known-0 in prior runs), FB posts (6 stories), image concepts (6 stories — S6 Tier 3 image added), image manifest (not_started), articles (5), fact-check (72 claims, 0 char violations, consistency clean, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 6 FB posts — heading format FIX APPLIED, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
+- **Dashboard Published**: Local only
+- **GitHub Pages Status**: n/a (PAT scope limitation known)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required). S6 Tier 3 image concept added (fix from prior runs).
+- **Key Stories**: Kendall Wells 37 HRs ties all-time NCAA record (Espinoza 1995) — 1 HR from history/Super Regional this week (Tier 1), Nebraska 49-6 first-ever Super Regional host/WCWS drought 2013/Frahm vs Neylan Omaha-area former travel ball teammates (Tier 1), Tennessee 45-10 hosts Georgia 41-18/4th consecutive SR host first time in program history (Tier 2), Arkansas 5 SRs zero WCWS vs Cinderella Duke 4th SR in 5 years (Tier 2), Texas 7 consecutive SRs vs Arizona State first SR since 2022 (Tier 2), Super Regionals WCWS predictions (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-18
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 4 char violations fixed S2/S4/S5/S6 via rewrite; 0 violations after fix), FB posts (6 stories), image concepts (5 for Stories 1-5 + S6 Tier 3 social-only noted), image manifest (not_started), articles (5), fact-check (115 claims, 0 char violations after fix, IMAGE MISSING expected not_started, S6 Tier 3 social-only by design), compile (6 stories, 8 tweets, 0 FB parsed — known heading format issue, 5 articles, 24 items), dashboard (24 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard publish to content-dashboards failed (PAT scope, known).
 - **Dashboard Published**: Local only — https://fangearhq-boop.github.io/content-dashboards/ils/

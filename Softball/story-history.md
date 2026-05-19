@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 19, 2026
+
+### Story 1: Kendall Wells Tied All-Time HR Record at 37 — One From History
+- **Angle:** FOLLOW UP (Wells covered throughout 2026 season). Wells hit her 37th HR in Norman Regional, tying Arizona's Laura Espinoza (1995) all-time NCAA single-season record. Previously broke: NCAA freshman HR record (31), SEC single-season HR record (27), Oklahoma program record (35, surpassing Jocelyn Alo). Batting ~.380. Oklahoma faces Mississippi State in Super Regionals Fri May 22, 1 PM ET, ESPN2.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Does Wells break the record in Super Regional? Oklahoma vs Mississippi State series result
+
+### Story 2: Nebraska Hosts First-Ever Super Regional vs Oklahoma State
+- **Angle:** FOLLOW UP (Nebraska regional advance covered May 18 roundup). Nebraska 49-6 hosts first-ever Super Regional. 13-year WCWS drought. Jordy Frahm vs Ruby Neylan pitching duel — both Omaha-area natives, former travel ball teammates. Nebraska allowed 1 run in entire regional. Oklahoma State scored 34 runs (double digits each game). Game 1: Thu May 21, 9 PM ET, ESPN2.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Nebraska vs Oklahoma State series result; Cornhuskers WCWS quest
+
+### Story 3: Tennessee vs Georgia — All-SEC Super Regional, 4th Consecutive Knoxville Hosting
+- **Angle:** FOLLOW UP (both teams covered May 17-18). Tennessee 45-10 hosts Georgia 41-18 at Sherri Parker Lee Stadium. Tennessee hosting 4th consecutive SR — first time in program history. Georgia's Addisen Fisher CG shutout 5-0 vs Clemson in Regional Final. Game 1: Thu May 21, 7 PM ET, ESPN2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Tennessee vs Georgia series result
+
+### Story 4: Arkansas Hosts Duke — Razorbacks' 5th Super Regional, Still No WCWS
+- **Angle:** NEW STORY (Arkansas WCWS drought angle). Arkansas 45-11 (No. 5 seed) hosts Duke 43-15 (No. 12 seed) at Bogle Park. Arkansas has been to 5 Super Regionals (all under Deifel) and NEVER reached WCWS (losses to Arizona '21, Texas '22, Ole Miss '25). Duke's 4th SR in 5 years — survived elimination gauntlet. Game 1: Fri May 22, 11 AM ET, ESPNU.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Arkansas vs Duke series result; can Deifel finally break through?
+
+### Story 5: Texas vs Arizona State — 7 Consecutive Super Regionals for Longhorns
+- **Angle:** FOLLOW UP (Texas 7th consecutive SR covered in May 18 roundup; new angle). Texas 45-10 hosts Arizona State at McCombs Field. Texas won all 3 regional games by 7+ runs. Arizona State first SR since 2022 — advanced with 9-1 run-rule over Texas A&M. Game 1: Fri May 22, 9 PM ET, ESPN2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Texas vs Arizona State series result
+
+### Story 6: Super Regionals WCWS Predictions — Picks Before Thursday
+- **Angle:** NEW STORY (analysis). Picks for all 8 Super Regionals before first pitch. Chalk: Alabama, Oklahoma, Texas, Nebraska, Tennessee, Arkansas. Upset watch: Duke over Arkansas, Arizona State over Texas, UCF over UCLA.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** How accurate were the picks?
+
+---
+
 ## May 18, 2026
 
 ### Story 1: UCF Upsets No. 9 FSU 4-2 — Tallahassee Regional Final
