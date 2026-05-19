@@ -1887,3 +1887,40 @@
 - **Key facts:** No. 3 Knicks vs. No. 4 Cavs. Knicks have home court. G1 May 19 MSG 8 PM ET ESPN. G2 May 21, G3 May 23 ABC, G4 May 25, G5 May 27 (if needed), G6 May 29, G7 May 31. Cleveland swept in, resting Knicks await.
 - **Status:** NEW STORY
 - **Follow-up ideas:** ECF Game 1 result; Knicks home crowd advantage; Mitchell vs NY matchup
+
+## 2026-05-19
+
+### STORY 1: Wembanyama WCF Game 1 Masterpiece — Spurs 122, Thunder 115 (2OT)
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Performance
+- **Key facts:** Spurs 122, Thunder 115 (2OT, May 18, Paycom Center). Wembanyama: 41 pts, 24 reb, 3 ast, 3 blk in 49 min. Hit 27-foot 3-pointer with 26.3 sec left in OT1 to tie. And-one dunk over Holmgren in OT2 to seal. Dylan Harper 24 pts, 7 steals (Spurs team playoff record). Joined Wilt Chamberlain as only players with 40+ pts and 20+ reb in Conference Finals debut. Age 22 years, 134 days.
+- **Status:** NEW STORY
+- **Follow-up ideas:** WCF Game 2 result; Wembanyama OT2 clutch factor deepdive; SGA adjustments
+
+### STORY 2: ECF Game 1 Preview — Knicks vs. Cavaliers TONIGHT
+- **Tier:** 1
+- **Category:** Game Preview / Conference Finals
+- **Key facts:** Game 1 May 19, MSG, 8 PM ET ESPN. No. 3 Knicks (home court, rested, swept 76ers) vs No. 4 Cavs (7-game war vs Pistons). Brunson vs Mitchell. Cavs won regular season matchup Feb 24 109-94.
+- **Status:** NEW STORY
+- **Follow-up ideas:** ECF Game 1 result; Mitchell/Brunson stat comparison; MSG crowd factor
+
+### STORY 3: Wembanyama's Historic Career Trajectory
+- **Tier:** 2
+- **Category:** Feature / Player Analysis
+- **Key facts:** Unanimous DPOY (100/100 votes, first ever). Youngest DPOY winner ever (age 22). 40/20 Conference Finals debut joins Wilt Chamberlain exclusively. Led NBA in blocks 2nd straight year (197 total, 3.1 bpg). Youngest unanimous award winner in NBA history.
+- **Status:** FOLLOW UP (from 2026-05-17 DPOY coverage; new 40/20 Conference Finals angle)
+- **Follow-up ideas:** Wemby WCF series totals; Hall of Fame trajectory
+
+### STORY 4: Dylan Harper's Coming-Out Party — 24 Pts, 7 Steals
+- **Tier:** 2
+- **Category:** Player Spotlight / Breakout Performance
+- **Key facts:** Dylan Harper 24 pts, 7 steals (Spurs team playoff record) in WCF Game 1. Key pass to Wemby for and-one dunk in 2OT that iced the win.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Harper WCF series stats; Spurs two-star dynamic
+
+### STORY 5: WCF Game 2 Preview — OKC Must Respond
+- **Tier:** 2
+- **Category:** Series Preview / Game Preview
+- **Key facts:** Game 2 May 20, 8:30 PM ET, Paycom Center OKC, NBC/Peacock. OKC 8-0 before Game 1 loss. SGA 2x MVP, 31.1 ppg. Jalen Williams returned for WCF. Thunder must respond or face 0-2 deficit heading to San Antonio.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 2 result; SGA adjustments; OKC defensive scheme vs Wembanyama
