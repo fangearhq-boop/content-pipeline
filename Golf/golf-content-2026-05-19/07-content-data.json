@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-19",
+  "compiled_at": "2026-05-19T11:31:26.717078+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Aaron Rai Wins PGA Championship — 290-1 Longshot Makes History",
+      "tier": 1,
+      "status": "",
+      "angle": "The ultimate underdog story: a quiet English golfer who wears two gloves, was ranked outside the top 50 entering the week, and won a major on Sunday in a manner nobody saw coming.",
+      "posting_window": "8:00 AM (major result recap)",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "AARON RAI wins the 2026 PGA Championship. 🏆\n\nOdds on Thursday morning: 290-1.\nFinal round: 65 (-5).\nFinal score: -9. Winner by 3.\n\nFirst Englishman to win the Wanamaker Trophy since 1919.\n\nNobody had him. He had everyone.\n\n#GolfFanrecap #PGAChampionship",
+          "posting_time": "8:00 AM (major result recap)",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#PGAChampionship"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM (major result recap)"
+      },
+      "article": {
+        "filename": "article-01-aaron-rai-pga-championship-winner.html",
+        "headline": "Aaron Rai Wins the PGA Championship: The 290-1 Longshot Who Rewrote History at Aronimink",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "McIlroy's Grand Slam Dream Denied Again at Aronimink",
+      "tier": 1,
+      "status": "",
+      "angle": "McIlroy's Grand Slam pursuit remains the golf story that refuses to resolve. At 36, the window continues to narrow — though his game is clearly still capable of the challenge.",
+      "posting_window": "10:30 AM (developing story)",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Rory McIlroy's Grand Slam quest comes up short. Again.\n\nT7 at Aronimink. Two birdies. Bogey at 13. Final round 69.\n\nHe was in contention. He needed to go low. He couldn't.\n\nThe PGA Championship still eludes him. 😔\n\n#GolfFanrecap #McIlroy #PGAChampionship",
+          "posting_time": "10:30 AM (developing story)",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#McIlroy",
+            "#PGAChampionship"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM (developing story)"
+      },
+      "article": {
+        "filename": "article-02-mcilroy-grand-slam-miss.html",
+        "headline": "McIlroy's Grand Slam Dream Denied Again: What Went Wrong at Aronimink",
+        "word_count": 578
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Smalley's Heartbreak — Led at 54 Holes, Fell to T2",
+      "tier": 2,
+      "status": "",
+      "angle": "Smalley's story is both heartbreaking and encouraging — a player without a PGA Tour win who held the 54-hole lead at a major. The talent is undeniable. The major win will come.",
+      "posting_window": "1:00 PM (analysis)",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Alex Smalley had the 54-hole lead.\n\nDouble-bogey 6. Bogey 8. He fell back.\n\nStill finished T2 at -6 alongside Jon Rahm. LIV Golf star Rahm shoots 68 Sunday.\n\nThe major is still elusive for Smalley. The talent is not.\n\n#GolfFanrecap #PGAChampionship",
+          "posting_time": "1:00 PM (analysis)",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#PGAChampionship"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM (analysis)"
+      },
+      "article": {
+        "filename": "article-03-smalley-rahm-runners-up.html",
+        "headline": "Smalley's Heartbreak and Rahm's Resilience: Two Stories Behind the PGA Championship's T2",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "CJ Cup Byron Nelson Preview — Scheffler Returns to Defend",
+      "tier": 2,
+      "status": "",
+      "angle": "A 144-player field attacks one of the most birdie-friendly courses on the PGA Tour. Scheffler is the defending champion and the world's No. 1 player. Can anyone challenge him this week?",
+      "posting_window": "3:30 PM (preview)",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The week after a major is special.\n\nThis week: CJ Cup Byron Nelson at TPC Craig Ranch, McKinney, TX.\n\nScheffler defends (won at 31-under last year). Spieth is home. Aaron Rai plays his first event as a major champion.\n\nStarts Thursday. 🏌️\n\n#GolfFanrecap #ByronNelson",
+          "posting_time": "3:30 PM (preview)",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#ByronNelson"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM (preview)"
+      },
+      "article": {
+        "filename": "article-04-cj-cup-byron-nelson-preview.html",
+        "headline": "CJ Cup Byron Nelson Preview: Scheffler Defends as Rai Arrives as a Champion",
+        "word_count": 624
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Who Is Aaron Rai? The Humble Champion Nobody Saw Coming",
+      "tier": 2,
+      "status": "",
+      "angle": "The human story behind the numbers: a quietly determined golfer who proved that persistence and process matter more than pedigree.",
+      "posting_window": "8:30 PM (evening feature)",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Before this week, Aaron Rai was known for two things:\n\n→ Wearing two gloves\n→ Winning the 2024 Wyndham Championship\n\nNow add a third: 2026 PGA CHAMPION.\n\nThe 31-year-old from Wombourne, England. At 290-1. With a 70-foot putt on 17.\n\nThat's the story. 🏆\n\n#GolfFanrecap #AaronRai",
+          "posting_time": "8:30 PM (evening feature)",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#AaronRai"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM (evening feature)"
+      },
+      "article": {
+        "filename": "article-05-who-is-aaron-rai.html",
+        "headline": "Who Is Aaron Rai? The Story Behind Golf's Most Unlikely Major Champion",
+        "word_count": 694
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

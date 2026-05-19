@@ -550,3 +550,40 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** ShopRite LPGA Classic May 29-31, Seaview Bay Course, Galloway NJ. US Women's Open June 4-7, Riviera CC, Pacific Palisades CA. Memorial Tournament June 4-7, Muirfield Village, Dublin OH. US Open in June (McIlroy's next Grand Slam chance).
 - **Status:** NEW STORY
 - **Follow-up ideas:** US Women's Open field; US Open preview; McIlroy prep
+
+## 2026-05-19
+
+### STORY 1: Aaron Rai Wins PGA Championship — 290-1 Longshot Makes History
+- **Tier:** 1
+- **Category:** Major Championship Result / Historic Achievement
+- **Key facts:** Rai wins 108th PGA Championship at -9 (271 total), 3-shot victory over Jon Rahm and Alex Smalley (both -6). Final round 65. 290-1 opening odds (biggest longshot major winner in 20+ years). First Englishman to win PGA Championship since Jim Barnes 1919. Age 31, born Wombourne England. 40-foot eagle at 9th, 70-foot putt at 17th. Final 10 holes in 6-under. Won from 3 behind with 10 holes to play. Prize: $3.69M. Total purse: $20.5M. 5-year major exemption.
+- **Status:** FOLLOW UP (from May 17 final round preview where Smalley led)
+- **Follow-up ideas:** Rai at Byron Nelson; next major; historical context
+
+### STORY 2: McIlroy Grand Slam Denied Again
+- **Tier:** 1
+- **Category:** Player Feature / Major Championship
+- **Key facts:** McIlroy T7 at -4, 5 shots behind Rai. Final round 69 (one-under), two birdies, bogey at 13th. Grand Slam (Masters + US Open + Open Championship + PGA) still incomplete. Already has 3 of 4 majors. Age 36.
+- **Status:** FOLLOW UP (from May 14-17 Grand Slam preview coverage)
+- **Follow-up ideas:** US Open prep; Grand Slam next chapter
+
+### STORY 3: Smalley/Rahm T2
+- **Tier:** 2
+- **Category:** Major Championship / Player Feature
+- **Key facts:** Smalley double-bogey 6, bogey 8 to fall from 54-hole lead. Finished T2 at -6 (even par final round). Eagle at 16, birdie 18 to salvage T2. Rahm final round 68 (4 birdies, 2 bogeys), also T2 at -6. LIV Golf's Rahm proves major caliber.
+- **Status:** FOLLOW UP (Smalley profile May 17, Rahm at majors May 14)
+- **Follow-up ideas:** Smalley's next opportunity; Rahm LIV major record
+
+### STORY 4: CJ Cup Byron Nelson Preview
+- **Tier:** 2
+- **Category:** Tournament Preview
+- **Key facts:** TPC Craig Ranch, McKinney TX, May 21-24, starts Thursday. 144-player field. Scheffler defending (+150), won last year at 31-under. Spieth (Dallas-area native). Si Woo Kim (+1300). Aaron Rai in field (fresh off PGA win). Course: 7,569 yards, par-71. Purse: $10.3M.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Round 1-4 results; Scheffler defense; Rai follow-up week
+
+### STORY 5: Who Is Aaron Rai?
+- **Tier:** 2
+- **Category:** Player Feature / Human Interest
+- **Key facts:** Age 31, born March 3 1995, Wombourne England (near Wolverhampton). Father Amrik Singh (England-born, Indian immigrant heritage), Mother Dalvir Shukla (immigrated from Kenya). Turned pro 2012. European Tour background. First PGA Tour win: 2024 Wyndham Championship. Wears two gloves (distinctive trait). Major exemption 5 years. $3.69M first prize.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Rai Byron Nelson week; career trajectory; two-gloves profile
