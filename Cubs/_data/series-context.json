@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-05-19T14:28:38.438225+00:00",
+  "today_ct": "2026-05-19",
+  "off_day": false,
+  "is_series_start_today": false,
+  "series": {
+    "opponent": "Milwaukee Brewers",
+    "opponent_id": 158,
+    "opponent_record": "27-18",
+    "cubs_record": "29-19",
+    "is_cubs_home": true,
+    "venue": "Wrigley Field",
+    "series_length": 2,
+    "games": [
+      {
+        "game_pk": "824677",
+        "game_date_iso": "2026-05-19T23:40:00Z",
+        "game_date_ct": "Tue 6:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824678",
+        "game_date_iso": "2026-05-20T23:40:00Z",
+        "game_date_ct": "Wed 6:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      }
+    ],
+    "rationale": "Same opponent (Milwaukee Brewers) as yesterday \u2014 this is mid-series, not a series opener."
+  },
+  "today_cubs_game": {
+    "game_pk": "824677",
+    "status": "Preview",
+    "detailed_status": "Scheduled",
+    "game_date_iso": "2026-05-19T23:40:00Z",
+    "game_date_ct": "Tue 6:40 PM CT",
+    "is_cubs_home": true,
+    "opponent_id": 158,
+    "opponent_name": "Milwaukee Brewers",
+    "opponent_record": "27-18",
+    "cubs_record": "29-19",
+    "cubs_probable": "TBD",
+    "opponent_probable": "TBD",
+    "venue": "Wrigley Field"
+  },
+  "rationale": "Same opponent (Milwaukee Brewers) as yesterday \u2014 this is mid-series, not a series opener."
+}
