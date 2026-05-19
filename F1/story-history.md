@@ -1711,3 +1711,40 @@
 - **Key facts:** Standings: Antonelli 100, Russell 80, Leclerc 59, Norris 51, Hamilton 51, Piastri 43. Canada 34 pts available (sprint + race). Russell won Canada 2025. McLaren improving. Ferrari upgrading. Max points gain scenario: Russell wins sprint+race, Antonelli P3 both → gap shrinks from 20 to 7.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Canada result; title gap at summer break
+
+## 2026-05-19
+
+### STORY 1: Verstappen Nürburgring Heartbreak — Led Race, DNF With 4 Hours Left
+- **Tier:** 1
+- **Category:** Motorsport Result / Endurance Racing
+- **Key facts:** Mercedes-AMG GT3 No. 80 (Engel/Stolz/Schiller/Martin) won Nürburgring 24 Hours — first Mercedes-AMG win in 10 years. Verstappen led by 30+ seconds before driveshaft failure ended his debut with ~4 hours remaining. Versappen DNF from race lead.
+- **Status:** FOLLOW UP (from May 16 debut preview)
+- **Follow-up ideas:** Canada GP focus; Red Bull season context
+
+### STORY 2: Russell's Must-Win Canada GP
+- **Tier:** 1
+- **Category:** Championship Battle / Race Preview
+- **Key facts:** Russell 80 pts (2nd), Antonelli 100 pts (1st), gap = 20 pts. Russell won from pole at Montreal 2025. Sprint qualifying Fri May 22 9:30 PM ET; Sprint Sat May 23 5 PM ET; GP Qualifying Sat 9 PM ET; Race Sun May 24 ~2 PM ET.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Sprint result; qualifying result; race result
+
+### STORY 3: Antonelli 4-for-4 Target
+- **Tier:** 2
+- **Category:** Championship / Driver Feature
+- **Key facts:** Antonelli: 3 wins from 3 poles (races 1-3). First driver ever to do this. 100 pts championship leader. Seeking unprecedented 4-for-4 streak at Canada.
+- **Status:** FOLLOW UP (extends May 18 championship analysis)
+- **Follow-up ideas:** Sprint/race result; streak context
+
+### STORY 4: Ferrari/Leclerc Canada Preview
+- **Tier:** 2
+- **Category:** Team Analysis / Championship
+- **Key facts:** Ferrari constructors lead shrunk 44→16 pts (Japan→Miami). Leclerc 59 pts (3rd), 41 behind Antonelli. McLaren 94 constructors, Ferrari 110. Leclerc 20s Miami penalty. Need strong Canada result.
+- **Status:** FOLLOW UP (from May 14-16 Ferrari series)
+- **Follow-up ideas:** Canada result; constructors standings change
+
+### STORY 5: Norris vs. Antonelli Rivalry
+- **Tier:** 2
+- **Category:** Championship Feature / Team
+- **Key facts:** Norris 51 pts (4th), 49 behind Antonelli, 29 behind Russell. P2 Miami. McLaren improving. Canada 34 pts available (sprint + race). Gap to 2nd = 29 pts.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Canada sprint/race; McLaren title push; mid-season championship picture

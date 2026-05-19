@@ -1,0 +1,272 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-19",
+  "compiled_at": "2026-05-19T11:24:46.735435+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen's Nürburgring Heartbreak — Led Race, DNF With 4 Hours Left",
+      "tier": 1,
+      "status": "",
+      "angle": "From race leader to retirement — this was Verstappen's most dramatic motorsport moment outside F1, and coming at a time when Red Bull is struggling in the F1 championship, it adds another layer of frustration to his 2026 season.",
+      "posting_window": "8:00 AM (overnight result)",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Max Verstappen led the Nürburgring 24 Hours by 30+ seconds.\n\nWith 4 hours left — a driveshaft failure ended his race.\n\nMercedes-AMG No. 80 wins. Verstappen: DNF from the lead.\n\nMotorsport can be cruel. 😔\n\n#F1Fanrecap #Verstappen #Nurburgring24",
+          "posting_time": "8:00 AM (overnight result)",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Verstappen",
+            "#Nurburgring24"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM (overnight result)"
+      },
+      "article": {
+        "filename": "article-01-verstappen-nurburgring-heartbreak.html",
+        "headline": "Verstappen DNF After Leading: Nürburgring 24 Hours Ends in Heartbreak",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Russell's Must-Win Canada GP — The Title Race Arrives at His Best Circuit",
+      "tier": 1,
+      "status": "",
+      "angle": "The Canada GP may be the defining moment of Russell's 2026 title challenge — and he knows it. The mental pressure of racing at your best circuit while playing catch-up could sharpen him or expose the team dynamics within Mercedes.",
+      "posting_window": "10:00 AM (developing story)",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "George Russell WON from pole at Montreal in 2025.\n\nHe trails Antonelli by 20 points heading into Canada — his BEST circuit.\n\nIf he can't win here, when can he?\n\nCanada GP: Friday–Sunday. The title race heats up.\n\n#F1Fanrecap #Russell #CanadaGP",
+          "posting_time": "10:00 AM (developing story)",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Russell",
+            "#CanadaGP"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Norris was P2 in Miami. Just 29 pts off Russell in 2nd.\n\nIf McLaren delivers in Canada and Mercedes splits — this title race changes shape entirely.\n\nCanada starts Friday. 3 drivers with a shot at P2. 👀\n\n#F1Fanrecap #CanadaGP #F1",
+          "posting_time": "10:00 AM (developing story)",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#CanadaGP",
+            "#F1"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM (developing story)"
+      },
+      "article": {
+        "filename": "article-02-russell-must-win-canada.html",
+        "headline": "Russell's Must-Win Moment: The Canadian Grand Prix and the Title Race at a Crossroads",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli's 4-for-4 Target — Can He Win Every Race He's Entered?",
+      "tier": 2,
+      "status": "",
+      "angle": "Antonelli is not just leading the championship — he is doing it in a historically unique way. Every race, the record books need to be checked.",
+      "posting_window": "12:00 PM (analysis)",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli has won 3 consecutive races from pole.\n\nNo F1 driver has ever done that to start a career.\n\nCanada is next. Can he go 4-for-4?\n\nThe record books can't keep up. 🏆\n\n#F1Fanrecap #Antonelli #CanadaGP",
+          "posting_time": "12:00 PM (analysis)",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Antonelli",
+            "#CanadaGP"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM (analysis)"
+      },
+      "article": {
+        "filename": "article-03-antonelli-4for4-target.html",
+        "headline": "Can Kimi Antonelli Win Four in a Row? The Record Books Have Never Seen This",
+        "word_count": 696
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Leclerc and Ferrari — Montreal Is Their Chance to Halt the Slide",
+      "tier": 2,
+      "status": "",
+      "angle": "Ferrari needs a response. Leclerc is the one to give it.",
+      "posting_window": "2:00 PM (midday analysis)",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ferrari's constructors lead: 44 pts (Japan) → 16 pts (Miami).\n\nMcLaren gained 28 points on Ferrari in 2 races.\n\nLeclerc and Hamilton need a strong Canada. Stop-start Montreal suits Ferrari.\n\nThe pressure is on. 🔴\n\n#F1Fanrecap #Ferrari #Leclerc #CanadaGP",
+          "posting_time": "2:00 PM (midday analysis)",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Ferrari",
+            "#Leclerc",
+            "#CanadaGP"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM (midday analysis)"
+      },
+      "article": {
+        "filename": "article-04-ferrari-leclerc-canada.html",
+        "headline": "Ferrari's Pivotal Canada: Leclerc Needs This Weekend to Go Right",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Norris vs. Antonelli: The Emerging Rivalry in the 2026 Title Race",
+      "tier": 2,
+      "status": "",
+      "angle": "Norris vs. Antonelli is the battle for fans to watch. Montreal's aggressive layout favors attack drivers.",
+      "posting_window": "5:00 PM (preview / engagement)",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Norris vs. Antonelli: the rivalry building beneath the headlines.\n\nP2 Miami. McLaren improving. Gap to Russell: just 29 pts.\n\nCanada's aggressive braking zones suit attack drivers.\n\nWho challenges Antonelli at Gilles-Villeneuve? 👊\n\n#F1Fanrecap #Norris #CanadaGP",
+          "posting_time": "5:00 PM (preview / engagement)",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Norris",
+            "#CanadaGP"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM (preview / engagement)"
+      },
+      "article": {
+        "filename": "article-05-norris-antonelli-rivalry.html",
+        "headline": "Norris vs. Antonelli: The Emerging Battle That Could Define the 2026 Season",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
