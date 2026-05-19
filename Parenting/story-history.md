@@ -2508,3 +2508,45 @@
 - **Tier:** 2
 - **Key Facts:** D11 last day: May 22, 2026 (d11.org confirmed); PPLD Summer Adventure open: ppld.beanstack.org; PAW Patrol Live May 23-24; Trackchair hikes free; park restroom closures (25%) noted; Sources: d11.org, ppld.org, all COS May 2026 coverage
 - **Follow-Up Opportunities:** Summer week 1 recap; best free summer activities for COS kids guide
+
+## May 19, 2026
+
+### Story 1: Cosyland Children's Tower Stool Recall — 125,200 units, CPSC May 14, 2026
+- **Date:** 2026-05-19
+- **Angle:** NEW STORY (CPSC May 14, 2026 recall; 125,200 units Cosyland models CS0003/CS0092-4; collapse/tip-over/entrapment hazard; 25 reports/8 injuries including fractured arm; sold Amazon ~$70 April 2021–Nov 2025; free repair kit from Cosyland Official; CPSC.gov/800-638-2772)
+- **Content Produced:** Article, 2 X Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Models: CS0003, CS0092-4; Units: 125,200; Injuries: 8 (incl. fractured arm); Reports: 25; Sold: Amazon; Remedy: free repair kit; Sources: CPSC.gov, NBC New York, wfmynews2.com
+- **Follow-Up Opportunities:** CPSC recall check guide for COS families; safe kitchen helper stool alternatives
+
+### Story 2: D11 Graduation Week — Palmer High May 19, full week through May 21, last day May 22
+- **Date:** 2026-05-19
+- **Angle:** NEW STORY (D11 Class of 2026 graduation week: Palmer May 19 9AM Ed Robson Arena Colorado College; additional ceremonies May 20-21 for Mitchell/Coronado/Doherty/Achieve/Tesla/Bijou/Odyssey; last day D11 students May 22; livestreams at d11.org)
+- **Content Produced:** Article, 2 X Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Palmer graduation: May 19, 9 AM, Ed Robson Arena (CC); Last day D11: May 22; Livestream: d11.org; Sources: D11.org calendars, D11.org graduations
+- **Follow-Up Opportunities:** Post-graduation summer activities guide for new D11 grads
+
+### Story 3: D11 CSEA Teacher Contract Dispute — 300+ days, what COS parents need to know
+- **Date:** 2026-05-19
+- **Angle:** NEW STORY (D11 board voted 7-1 Dec 2024 to sever 56-year master agreement; 300+ days without contract; CSEA demands class sizes/counselors/special ed staffing; Oct 2025 teacher strike; May 2026 community picket; context for families planning 2026-27 school year)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Board vote: Dec 2024, 7-1; Agreement age: 56 years; Strike: Oct 2025, ~33% staff; Picket: May 6 2026; Sources: KRDO May 6 2026, ColoradoEA.org, NEA
+- **Follow-Up Opportunities:** Back-to-school staffing updates for 2026-27; what changed (if anything) after contract dispute
+
+### Story 4: YMCA Pikes Peak Region Summer Camps 2026 — starts May 27, registration open
+- **Date:** 2026-05-19
+- **Angle:** NEW STORY (YMCA of the Pikes Peak Region summer camps start May 27; 3 COS locations: Briargate, First&Main, Tri-Lakes; themed weeks; sports camps; new Specialty Mini Camps; registration open at ppymca.org)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Start: May 27; Week 1 theme: "Vintage Colorado: No WiFi Edition" (June 1-5); Week 2: "Low-Key Famous Artist Week" (June 8-12); New: Specialty Mini Camps; Briargate: 719.329.7298; First&Main: 719.884.8466; Tri-Lakes: 719.481.8728; Source: ppymca.org
+- **Follow-Up Opportunities:** Summer camp registration deadline guide; sports camp spotlight
+
+### Story 5: COS Summer Parks 2026 — budget cuts (restrooms closed, playground removals) + Rock Island Trail bridge
+- **Date:** 2026-05-19
+- **Angle:** NEW STORY (~25% permanent park restrooms closed for 2026 season; damaged playground equipment removed not repaired; Rock Island Trail pedestrian bridge underway — 210-ft over Sand Creek; 2+ miles new trail; 10-12 months; TOPS/PPRTA/CDOT funded)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Restrooms: ~10 (25%) closed; Playground: removal policy; Rock Island Trail bridge: 210-ft Sand Creek; 2+ miles trail; Duration: 10-12 months; Funding: PPRTA II + CDOT + TOPS; Sources: KRDO Feb 12 2026, City of COS TOPS2026, KOAA Jan 22 2026
+- **Follow-Up Opportunities:** Complete Rock Island Trail completion story; playground audit/open parks guide
