@@ -1,0 +1,347 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-20",
+  "compiled_at": "2026-05-20T11:16:27.484870+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks 115, Cavaliers 104 (OT) — Biggest ECF Comeback Since 1997",
+      "tier": 1,
+      "status": "",
+      "angle": "Jalen Brunson scored 38 points — 15 in the fourth quarter on 7-of-9 shooting — and either scored or assisted on 23 of the Knicks' final 32 points. Donovan Mitchell had 29 points and a career-high 6 steals, but was held to just 3 points in his final 14 minutes.",
+      "posting_window": "9:00 AM (overnight recap)",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Down 22 with 7:52 left. Won in OT.\n\nKnicks 115, Cavs 104. The biggest 4th-quarter Conference Finals comeback since 1997.\n\nBrunson: 38 PTS. 15 in Q4. He put the team on his back.\n\n#NewYorkForever #HoopHeroes",
+          "posting_time": "9:00 AM (overnight recap)",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever",
+            "#HoopHeroes"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jalen Brunson: 38 PTS. 15 in Q4 on 7-of-9 shooting.\n\nScored or assisted on 23 of the Knicks' final 32 points.\n\nMSG was ELECTRIC. The comeback is real. #NewYorkForever",
+          "posting_time": "9:00 AM (overnight recap)",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever"
+          ],
+          "char_count": 166
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM (overnight recap)"
+      },
+      "article": {
+        "filename": "article-01-knicks-cavaliers-ecf-game1-comeback.html",
+        "headline": "Knicks Erase 22-Point Deficit, Beat Cavaliers 115-104 in OT for Biggest ECF Comeback Since 1997",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350) — Alternate",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1C",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "WCF Game 2 TONIGHT — OKC vs. SA, De'Aaron Fox Trending Toward Playing",
+      "tier": 1,
+      "status": "",
+      "angle": "Can SGA and the Thunder respond at home, or does the Fox return swing momentum back toward OKC?",
+      "posting_window": "7:00 PM (game-day preview)",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "WCF GAME 2 TONIGHT. 8:30 PM ET on NBC/Peacock.\n\nThunder down 0-1 after Wembanyama's 41/24 masterpiece. SGA needs a response at home.\n\nCan OKC find an answer? #ThunderUp #PorVida",
+          "posting_time": "7:00 PM (game-day preview)",
+          "tweet_type": "",
+          "hashtags": [
+            "#ThunderUp",
+            "#PorVida"
+          ],
+          "char_count": 177
+        },
+        {
+          "label": "Post 2-2",
+          "text": "De'Aaron Fox is a game-time decision for WCF Game 2 tonight. Right ankle.\n\nHe missed Game 1 — but is trending toward playing. His return changes everything.\n\nWatch tonight. #PorVida #ThunderUp",
+          "posting_time": "7:00 PM (game-day preview)",
+          "tweet_type": "",
+          "hashtags": [
+            "#PorVida",
+            "#ThunderUp"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM (game-day preview)"
+      },
+      "article": {
+        "filename": "article-02-wcf-game2-preview-thunder-spurs-fox.html",
+        "headline": "WCF Game 2 Preview: Thunder Must Respond as De'Aaron Fox Eyes Return Against Spurs",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350) — Fox Return",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2C",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Brunson's Fourth-Quarter Masterclass — The Knicks' Clutch King",
+      "tier": 2,
+      "status": "",
+      "angle": "Brunson has built a case as the most reliable clutch performer in this playoff field. MSG was the perfect stage for it.",
+      "posting_window": "11:00 AM (developing story)",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jalen Brunson in Q4 last night: 15 points on 7-of-9 shooting.\n\nDown 22. MSG rocking. He took over possession by possession.\n\nThe Clutch King of New York. #NewYorkForever #HoopHeroes",
+          "posting_time": "11:00 AM (developing story)",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkForever",
+            "#HoopHeroes"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM (developing story)"
+      },
+      "article": {
+        "filename": "article-03-brunson-fourth-quarter-masterclass.html",
+        "headline": "Brunson's Fourth-Quarter Masterclass: Inside the 15-Point Takeover That Shocked Cleveland",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350) — MSG Atmosphere",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3C",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Mitchell's Collapse — 29 Points, Then Invisible for 14 Minutes",
+      "tier": 2,
+      "status": "",
+      "angle": "Can Mitchell — and the Cavs — recalibrate for Game 2 before MSG turns fully into a hostile environment?",
+      "posting_window": "1:00 PM (analysis)",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Donovan Mitchell: 29 points. Career-high 6 steals.\n\nThen went SCORELESS for the final 14 minutes.\n\nThe Knicks locked him up at the most critical moment. #BeTheFight #HoopHeroes",
+          "posting_time": "1:00 PM (analysis)",
+          "tweet_type": "",
+          "hashtags": [
+            "#BeTheFight",
+            "#HoopHeroes"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM (analysis)"
+      },
+      "article": {
+        "filename": "article-04-mitchell-final-14-minutes-cavs-collapse.html",
+        "headline": "Mitchell Scoreless in Final 14 Minutes: Breaking Down the Cavaliers' Historic Collapse",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Social (1080x1350) — Team Reaction",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4C",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Wembanyama's 40/20 — A Line Only Wilt Has Matched",
+      "tier": 2,
+      "status": "",
+      "angle": "Historical context feature — Wembanyama's ceiling, and what this performance says about where he's going.",
+      "posting_window": "4:00 PM (feature / analysis)",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Only 7 players in NBA history: 40+ pts AND 20+ reb in a Conference Finals game.\n\nWilt. Kareem. Barkley. Malone. Baylor. Shaq.\n\nAnd now Wembanyama — at age 22. #PorVida #HoopHeroes",
+          "posting_time": "4:00 PM (feature / analysis)",
+          "tweet_type": "",
+          "hashtags": [
+            "#PorVida",
+            "#HoopHeroes"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM (feature / analysis)"
+      },
+      "article": {
+        "filename": "article-05-wembanyama-40-20-conference-finals-history.html",
+        "headline": "Wembanyama's 41/24 Joins the Seven Greatest Conference Finals Games in NBA History",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Historical Legends Concept (Gemini/Design)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5C",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 15
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

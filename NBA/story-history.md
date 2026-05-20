@@ -1924,3 +1924,40 @@
 - **Key facts:** Game 2 May 20, 8:30 PM ET, Paycom Center OKC, NBC/Peacock. OKC 8-0 before Game 1 loss. SGA 2x MVP, 31.1 ppg. Jalen Williams returned for WCF. Thunder must respond or face 0-2 deficit heading to San Antonio.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Game 2 result; SGA adjustments; OKC defensive scheme vs Wembanyama
+
+## 2026-05-20
+
+### STORY 1: Knicks 115, Cavaliers 104 (OT) — Biggest ECF Comeback Since 1997
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Comeback
+- **Key facts:** Knicks trailed 93-71 with 7:52 left in Q4. Won in OT 115-104. Outscored CLE 44-11 over final 7:40 of regulation and OT. Largest 4th-quarter CFinals comeback since 1997; largest Knicks playoff comeback since 1970. Brunson: 38 pts, 15 in Q4 on 7-of-9, scored/assisted 23 of final 32 Knicks points, 6 ast, 5 reb, 3 stl. Mitchell: 29 pts, career-high 6 steals — then 3 pts in final 14 min. KAT: 11/10/5, 6 TO. OG: 3 pts on 5 shots.
+- **Status:** NEW STORY
+- **Follow-up ideas:** ECF Game 2 result; Brunson clutch season totals; Cavs coaching adjustment
+
+### STORY 2: WCF Game 2 TONIGHT — OKC vs. SA, De'Aaron Fox Trending Toward Playing
+- **Tier:** 1
+- **Category:** Game Preview / Injury News
+- **Key facts:** Game 2 May 20, 8:30 PM ET, Paycom Center OKC, NBC/Peacock. Spurs lead 1-0. Fox (right ankle) missed G1, trending toward playing per multiple reports; coach Mitch Johnson said Fox "will do everything he can." SGA 2x MVP, 31.1 ppg. OKC was 8-0 before G1 loss.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 2 result; Fox stat line if he plays; OKC adjustment
+
+### STORY 3: Brunson's Fourth-Quarter Masterclass — The Knicks' Clutch King
+- **Tier:** 2
+- **Category:** Player Spotlight / Clutch Performance
+- **Key facts:** Brunson 38 pts total. 15 in Q4 on 7-of-9 shooting. Scored or assisted 23 of Knicks' final 32 points. MSG backdrop. Down 22 points at the time.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Brunson ECF series stats; clutch performer comparisons
+
+### STORY 4: Mitchell's Collapse — 29 Points, Then Invisible for 14 Minutes
+- **Tier:** 2
+- **Category:** Player Analysis / Cavs Post-Game
+- **Key facts:** Mitchell 29 pts, career-high 6 steals. Then scoreless for final 14 minutes. Cavs shot 22% during Knicks' comeback run. 0-1 series deficit heading back to MSG for Game 2 Thursday.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Mitchell response in ECF Game 2; Cavs offensive scheme adjustment
+
+### STORY 5: Wembanyama's 40/20 — Only 7 in Conference Finals History
+- **Tier:** 2
+- **Category:** Feature / Historic Achievement
+- **Key facts:** 41 pts, 24 reb in WCF Game 1 (May 18). 7th 40/20 Conference Finals game in NBA history. Players: Wilt, Baylor, Malone, Kareem, Barkley, Shaq, Wembanyama. At 22y134d — youngest ever to record 40/20 in a playoff game.
+- **Status:** FOLLOW UP (from 2026-05-19 WCF G1 recap; historical context deep-dive angle)
+- **Follow-up ideas:** WCF series totals for Wemby; Hall of Fame trajectory piece
