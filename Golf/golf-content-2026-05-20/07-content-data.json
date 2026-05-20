@@ -1,0 +1,305 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-20",
+  "compiled_at": "2026-05-20T11:36:55.270781+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CJ Cup Byron Nelson Starts Tomorrow — Scheffler Defends, Rai Withdraws",
+      "tier": 1,
+      "status": "",
+      "angle": "Scheffler defending at a course he absolutely owns — with a newly redesigned layout specifically built to challenge him. And Rai's withdrawal after his PGA Championship triumph is a major late-breaking story.",
+      "posting_window": "8:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The CJ Cup Byron Nelson starts TOMORROW at TPC Craig Ranch.\n\nScottie Scheffler won last year at 31-under (PGA Tour 72-hole record). Now he returns to defend at a $25M renovated course designed to challenge him.\n\nSpieth and Koepka also in field. 🏌️ #ByronNelson #PGATour",
+          "posting_time": "8:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#ByronNelson",
+            "#PGATour"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 1-2",
+          "text": "BREAKING: Aaron Rai has withdrawn from the CJ Cup Byron Nelson.\n\nThe PGA Champion — who won at 290-1 odds just FOUR DAYS AGO — will not play this week. S.Y. Noh takes his place.\n\nHe earned the rest. What a week. #PGATour",
+          "posting_time": "8:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM"
+      },
+      "article": {
+        "filename": "article-01-byron-nelson-preview-scheffler-defends.html",
+        "headline": "CJ Cup Byron Nelson Preview: Scheffler Returns to Defend as Rai Withdraws Following PGA Championship Win",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "McIlroy's Grand Slam Bid Falls Short — Eyes Turn to Shinnecock Hills",
+      "tier": 1,
+      "status": "",
+      "angle": "The calendar Grand Slam remains unfinished. McIlroy's reaction and US Open preparation are the next chapter.",
+      "posting_window": "10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Rory McIlroy finished T7 at the PGA Championship. Five shots back.\n\nHe had the Masters. He came to Aronimink for a calendar Grand Slam shot.\n\nIt didn't happen.\n\nNext chance: US Open. Shinnecock Hills. June 18. #USOpen #McIlroy",
+          "posting_time": "10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#McIlroy"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 2-2",
+          "text": "\"Not birdieing the two par 5s and making the bogey at 13.\"\n\nRory McIlroy on why his PGA fell apart on Sunday.\n\nHe had the round in his hands. It slipped away. Eyes are already on Shinnecock Hills in June. #McIlroy",
+          "posting_time": "10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#McIlroy"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM"
+      },
+      "article": {
+        "filename": "article-02-mcilroy-grand-slam-pga-reaction.html",
+        "headline": "McIlroy's Grand Slam Bid Falls Short at Aronimink — Now the Focus Shifts to Shinnecock Hills",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Rai Withdraws from Byron Nelson — PGA Champion Takes a Breather",
+      "tier": 2,
+      "status": "",
+      "angle": "Understandable decision after a historic week — but a notable story for the field and for fans who wanted to watch the PGA champion immediately defend momentum.",
+      "posting_window": "8:00 AM (alongside Story 1)",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Imagine winning the PGA Championship at 290-1 odds.\n\nThen pulling out of next week's event before the ink is dry.\n\nThat's Aaron Rai. He withdrew from Byron Nelson — and honestly? He's earned every second of it. #PGAChampionship #PGATour",
+          "posting_time": "8:00 AM (alongside Story 1)",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGAChampionship",
+            "#PGATour"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM (alongside Story 1)"
+      },
+      "article": {
+        "filename": "article-03-rai-withdrawal-byron-nelson.html",
+        "headline": "Aaron Rai Withdraws from Byron Nelson — The PGA Champion Takes a Deserved Rest",
+        "word_count": 422
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Lottie Woad Wins Queen City — England's Double-Major Moment",
+      "tier": 2,
+      "status": "",
+      "angle": "Woad's rapid rise; England's remarkable double; who is Lottie Woad?",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "England won both sides of golf this week.\n\nAaron Rai won the PGA Championship (290-1 odds).\nLottie Woad won the LPGA Queen City Championship (her 2nd title in 10 months, at age 22).\n\nWhat a week to be English. 🏴󠁧󠁢󠁥󠁮󠁧󠁿⛳ #LPGATour",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGATour"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-04-lottie-woad-england-double.html",
+        "headline": "Lottie Woad Wins Queen City Championship as England Claims a Historic Double in Golf",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "US Open 2026 — Six Weeks Out, Shinnecock Hills Ready",
+      "tier": 2,
+      "status": "",
+      "angle": "Countdown feature — Shinnecock Hills history, 2026 storylines, and what to expect.",
+      "posting_window": "6:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "6 WEEKS UNTIL THE US OPEN. 🏆\n\nJune 18-21. Shinnecock Hills, Southampton, NY.\n\nAaron Rai is in (PGA Champion exemption). McIlroy goes again for the Grand Slam. 200,000 fans expected.\n\nQualifying continues through June 8. #USOpen #Golf",
+          "posting_time": "6:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Golf"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM"
+      },
+      "article": {
+        "filename": "article-05-us-open-2026-shinnecock-hills-countdown.html",
+        "headline": "Six Weeks Out: What to Know About the 2026 US Open at Shinnecock Hills",
+        "word_count": 631
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

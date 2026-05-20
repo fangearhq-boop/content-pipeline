@@ -587,3 +587,40 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Age 31, born March 3 1995, Wombourne England (near Wolverhampton). Father Amrik Singh (England-born, Indian immigrant heritage), Mother Dalvir Shukla (immigrated from Kenya). Turned pro 2012. European Tour background. First PGA Tour win: 2024 Wyndham Championship. Wears two gloves (distinctive trait). Major exemption 5 years. $3.69M first prize.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Rai Byron Nelson week; career trajectory; two-gloves profile
+
+## 2026-05-20
+
+### STORY 1: CJ Cup Byron Nelson Preview — Scheffler Defends, Rai Withdraws
+- **Tier:** 1
+- **Category:** Tournament Preview / Breaking News
+- **Key facts:** TPC Craig Ranch, McKinney TX, May 21-24. Scheffler defending (31-under 259 record, won by 8 last year). $25M Lanny Wadkins renovation adds difficulty. Aaron Rai withdrew (PGA Champion, won 4 days ago) — replaced by S.Y. Noh. Field: Spieth (local), Koepka, Si Woo Kim. Purse: $10.3M. TV: Golf Channel Thu-Fri 3-7 PM ET; CBS/Golf Channel Sat-Sun 1-6 PM ET.
+- **Status:** NEW STORY
+- **Follow-up ideas:** R1 results; Scheffler defense; leaderboard update
+
+### STORY 2: McIlroy Grand Slam Bid Falls Short — Eyes Turn to Shinnecock Hills
+- **Tier:** 1
+- **Category:** Player Feature / Major Championship Reaction
+- **Key facts:** McIlroy T7 at -4, 5 shots behind Rai. Final round 69 (1-under). One birdie on front nine, bogey at drivable par-4 13th, failed to birdie either par-5. Quote: "Not birdieing the two par 5s and making the bogey at the drivable par-4 13th." 2026 Masters champion. Next chance: US Open June 18-21 at Shinnecock Hills.
+- **Status:** FOLLOW UP (from May 14-19 Grand Slam coverage series)
+- **Follow-up ideas:** McIlroy US Open prep; Shinnecock Hills form history; Grand Slam odds
+
+### STORY 3: Aaron Rai Withdraws from Byron Nelson
+- **Tier:** 2
+- **Category:** Breaking News / Player Update
+- **Key facts:** Rai withdrew from Byron Nelson field less than 24 hours after PGA Championship win. Replaced by S.Y. Noh. Rai at world No. 15 after jumping 29 spots. US Open exempt as PGA Champion.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Rai's next start; when does he return
+
+### STORY 4: Lottie Woad Wins Queen City — England's Double-Major Moment
+- **Tier:** 2
+- **Category:** LPGA Result / Player Feature
+- **Key facts:** Woad (England, age 22) won Kroger Queen City Championship at Maketewah CC, Cincinnati OH, May 17. Score: -12 (268), final round 69. 2 shots clear of Haeran Ryu. T3: Yamashita -9, T4: Ruoning Yin. Prize: $300K (purse $2M). Second LPGA title in 10 months (first: Women's Scottish Open). Same Sunday as Rai's PGA Championship win — England double across tours.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Woad's next start; LPGA season standings; US Women's Open prep
+
+### STORY 5: US Open 2026 — Six Weeks Out, Shinnecock Hills Ready
+- **Tier:** 2
+- **Category:** Tournament Preview / Feature
+- **Key facts:** 126th US Open. Shinnecock Hills Golf Club, Southampton NY (6th hosting). June 18-21, 2026. ~200,000 fans expected. Scaled-back infrastructure (no chalet tents on 13/15/16, no "Top of the Hill"). LIRR temporary stop + increased trains. Final qualifying through June 8 (Golf's Longest Day June 8 on Golf Channel). McIlroy calendar Grand Slam bid; Rai as PGA Champion exemption; Scheffler world No. 1.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Final field; qualifying results; US Open preview week coverage
