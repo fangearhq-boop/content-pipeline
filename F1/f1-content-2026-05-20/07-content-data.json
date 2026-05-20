@@ -1,0 +1,316 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-20",
+  "compiled_at": "2026-05-20T11:29:15.562352+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Canada GP Sprint Weekend — Everything You Need to Watch (May 22-24)",
+      "tier": 1,
+      "status": "",
+      "angle": "Canada has everything — title rivalry, sprint format, the Wall of Champions, and one of F1's most passionate crowds. This is the must-watch weekend of the season so far.",
+      "posting_window": "9:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CANADA GP WEEKEND IS HERE. 🇨🇦\n\nFri May 22: Sprint Qualifying 9:30 PM ET\nSat May 23: Sprint Race 5 PM | Qualifying 9 PM\nSun May 24: Race ~2 PM ET\n\nAntonelli going for 4 straight. Russell won here last year. BUCKLE UP. #F1 #CanadianGP",
+          "posting_time": "9:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Canada GP storylines:\n\n✅ Antonelli 4-for-4 bid (never done before)\n✅ Russell won here from pole in 2025\n✅ Leclerc needs a bounce-back after Miami meltdown\n✅ Verstappen vs. the Wall of Champions\n\nThis is the most important weekend of the season. #F1 #CanadianGP",
+          "posting_time": "9:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM"
+      },
+      "article": {
+        "filename": "article-01-canada-gp-sprint-weekend-guide.html",
+        "headline": "Canada GP 2026: Your Complete Sprint Weekend Guide for Circuit Gilles Villeneuve",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Russell vs. Antonelli — Inside the Mercedes Teammate Title Battle",
+      "tier": 1,
+      "status": "",
+      "angle": "Never before has a defending race winner faced his own teammate as championship leader in Canada — the tension within the Mercedes garage is as compelling as any inter-team battle on the grid.",
+      "posting_window": "12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Antonelli leads Russell by 20 points. They're TEAMMATES.\n\nRussell won from pole in Montreal in 2025. He arrives NEEDING this weekend.\n\nThe most compelling title battle in F1 might be inside the Mercedes garage. #F1 #CanadianGP",
+          "posting_time": "12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 2-2",
+          "text": "George Russell at Circuit Gilles Villeneuve:\n\n2025: Pole + Win.\n2026: Down 20 points in the championship to his teammate.\n\nNo. 1 priority this weekend. Everything is on the table. #F1 #CanadianGP",
+          "posting_time": "12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM"
+      },
+      "article": {
+        "filename": "article-02-russell-vs-antonelli-teammate-title-battle.html",
+        "headline": "Russell vs. Antonelli: Inside Formula 1's Most Unlikely — and Most Compelling — Teammate Title Battle",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350) — Russell",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2C",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Leclerc's Miami Meltdown — 20-Second Penalty, Crash, Ferrari Crisis",
+      "tier": 2,
+      "status": "",
+      "angle": "How did one of the grid's most experienced drivers have such a complete final-lap collapse? And how do Ferrari recover heading into Canada?",
+      "posting_window": "10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Charles Leclerc on his Miami final lap disaster:\n\n\"It was all on me.\"\n\nSpun into the wall at Turn 3. 20-second post-race penalty. Dropped from podium to P8.\n\nFerrari heads to Canada needing a reset. #F1 #CanadianGP",
+          "posting_time": "10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM"
+      },
+      "article": {
+        "filename": "article-03-leclerc-miami-meltdown-penalty.html",
+        "headline": "Leclerc's Miami Disaster: A Final-Lap Crash, a 20-Second Penalty, and a Ferrari Crisis",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli's Historic Records — F1's Youngest Championship Leader",
+      "tier": 2,
+      "status": "",
+      "angle": "Context and awe — at 19, Antonelli is rewriting the record books. What's the ceiling for this season?",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli — age 19 — is the youngest driver in F1 history to lead the World Championship.\n\n3 wins. 3 poles. 3-from-3 pole-to-wins (first EVER in F1 history).\n\nHe's rewriting the record books in Year 1. #F1 #Antonelli",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM"
+      },
+      "article": {
+        "filename": "article-04-antonelli-historic-records-youngest-champion.html",
+        "headline": "Antonelli at 19: The Record Books Say This Has Never Happened Before",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Red Bull's RB22 Crisis — Worst Season Start in a Decade",
+      "tier": 2,
+      "status": "",
+      "angle": "How did the team that dominated the sport in 2022-24 fall so far so fast — and can they find a fix before Verstappen's exit clause activates at the Hungarian GP?",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Max Verstappen on the RB22:\n\n\"Incredibly tough to drive. Every lap is a fight.\"\n\nRed Bull admitted \"significant shortcomings.\" Max is P7 — 74 points behind the leader.\n\nThe team that dominated 2022-24 is now in crisis. #F1 #RedBull",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": {
+        "filename": "article-05-red-bull-rb22-verstappen-crisis.html",
+        "headline": "From Dominant to Desperate: How Red Bull's RB22 Became Verstappen's Biggest Problem",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 11
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

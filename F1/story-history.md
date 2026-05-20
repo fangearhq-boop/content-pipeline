@@ -1748,3 +1748,40 @@
 - **Key facts:** Norris 51 pts (4th), 49 behind Antonelli, 29 behind Russell. P2 Miami. McLaren improving. Canada 34 pts available (sprint + race). Gap to 2nd = 29 pts.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Canada sprint/race; McLaren title push; mid-season championship picture
+
+## 2026-05-20
+
+### STORY 1: Canada GP Sprint Weekend — Full Guide (May 22-24)
+- **Tier:** 1
+- **Category:** Race Weekend Guide / Preview
+- **Key facts:** Circuit Gilles Villeneuve, Montreal. Round 5 of 22. Sprint weekend. Schedule: Fri May 22 — Practice 1 (5:30 PM ET), Sprint Qualifying (9:30 PM ET); Sat May 23 — Sprint Race (5 PM ET), Qualifying (9 PM ET); Sun May 24 — Race. Key storylines: Antonelli 4-for-4 bid, Russell must-respond (won here 2025), Leclerc/Ferrari reset after Miami, Verstappen vs Wall of Champions.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Sprint qualifying result; sprint race result; race result
+
+### STORY 2: Russell vs. Antonelli — Inside the Mercedes Teammate Title Battle
+- **Tier:** 1
+- **Category:** Championship Battle / Driver Feature
+- **Key facts:** Antonelli 100 pts, Russell 80 pts (gap: 20). Both Mercedes. Antonelli won first 3 GPs from pole (unprecedented). Russell won from pole at Canada 2025. Sprint weekend means more points on the line.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Canada sprint result; race result; title gap after Montreal
+
+### STORY 3: Leclerc's Miami Meltdown — 20-Second Penalty, Crash, Ferrari Crisis
+- **Tier:** 2
+- **Category:** Incident Analysis / Driver Feature
+- **Key facts:** Final lap of Miami GP — Leclerc spun into wall at Turn 3. Received 20-sec penalty for track limits. Dropped from P6 to P8. Quote: "It was all on me." Ferrari sits 3rd in constructors. Leclerc 59 pts (3rd), 41 behind Antonelli.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Canada result; Ferrari upgrade effectiveness; Leclerc response
+
+### STORY 4: Antonelli's Historic Records — F1's Youngest Championship Leader
+- **Tier:** 2
+- **Category:** Feature / Historic Achievement
+- **Key facts:** Age 19. Youngest-ever F1 championship leader. First driver in F1 history to convert first 3 poles to race wins. Youngest to lead a race lap. Youngest to set GP fastest lap. 3 wins, 3 poles, 5 fastest laps, 7 podiums in 4 starts.
+- **Status:** FOLLOW UP (extends May 19 Antonelli 4-for-4 coverage; deeper records focus)
+- **Follow-up ideas:** Canada result; if wins Canada → first to win first 4 GPs
+
+### STORY 5: Red Bull's RB22 Crisis — Worst Season Start in a Decade
+- **Tier:** 2
+- **Category:** Technical Analysis / Team Storyline
+- **Key facts:** Red Bull admitted "significant shortcomings." Verstappen: "every lap is a fight." RB22 balance issues, high tyre degradation, inefficient energy harvesting. Verstappen P7, 26 pts (74 behind Antonelli). Red Bull P6 constructors. Exit clause at Hungarian GP (late July). Fix may need new 2027 chassis.
+- **Status:** FOLLOW UP (extends May 18 Red Bull structural crisis coverage; sharpened angle)
+- **Follow-up ideas:** Canada result; exit clause developments; Hungary GP timeline
