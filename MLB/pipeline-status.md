@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-20
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (30 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
+- **Dashboard Published**: Local only
+- **GitHub Pages Status**: n/a (PAT scope limitation known)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required).
+- **Key Stories**: James Wood inside-the-park grand slam (first in MLB since 2022)/Nationals 9-6 Mets comeback from 5-0/Wood 3-for-4 first career grand slam (Tier 1), Schwarber at 20 HRs 4 days faster than Bonds' 73-HR pace/MLB record earliest date/on pace for 67-70 HRs/Phillies 21-23/Judge 2nd at 16 (Tier 1), Guardians 4-3 Tigers/Bazzana 2-run HR/Rocchio go-ahead RBI/Smith 15th save/4th straight CLE win (Tier 2), Braves 32-15 MLB best record/Memorial Day barometer/Sale + Riley carrying ATL (Tier 2), Schlittler 1.35 ERA/59 K/9 BB/1 HR/first since Walter Johnson 1913 through 9 starts (Tier 2), Wednesday watch guide Nationals-Mets/Phillies/Guardians-Tigers (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-19
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories — heading format fix applied: **Long-Form Post** / **Image Caption**; FB now compiles to 6 vs known-0 in prior runs), image concepts (6 stories; S6 Tier 3 included), image manifest, articles (5), fact-check (39 claims, 0 char violations, consistency clean, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 6 FB posts — FIX APPLIED, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
 - **Dashboard Published**: Local only

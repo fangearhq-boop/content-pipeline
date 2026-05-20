@@ -5,6 +5,42 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-20
+
+### Story 1: James Wood Inside-the-Park Grand Slam — First in MLB Since 2022
+- **Angle:** NEW STORY. James Wood (Nationals) hit an inside-the-park grand slam Tuesday May 19 vs Mets — first ITPGS in MLB since 2022. Ball caromed off outfielder Morabito's glove, rolled to center. Wood 3-for-4, first career grand slam. Nationals rallied from 5-0 deficit to win 9-6. Jose Tena also homered.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Wood's continued development; Nationals series vs Mets G3.
+
+### Story 2: Schwarber HR Pace — Four Days Faster Than Bonds' 73-HR Season
+- **Angle:** FOLLOW UP (Schwarber covered May 13-19 — new Bonds pace comparison angle). Schwarber hit 20th HR on May 15 (earliest in MLB history). Bonds hit 20th on May 19 in his 73-HR season — Schwarber was 4 days faster. On pace for ~67-70 HRs. Only 2 players ever hit 70+ (Bonds 73, McGwire 70). Schwarber is 8th player ever with 20 HR in first 45 games. Phillies 21-23. Judge 2nd at 16 HRs.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Does Schwarber reach 25 HRs before June? Does pace hold?
+
+### Story 3: Guardians 4-3 Tigers — Bazzana HR, Rocchio RBI, Smith 15th Save
+- **Angle:** NEW STORY. Travis Bazzana 2-run HR in 4th (off Montero), Brayan Rocchio go-ahead groundout RBI in 7th (Kwan scored), Cade Smith 15th save in 17 opportunities (K'd Jones and Dingler). Guardians 4th straight win. Tigers 4th straight loss. Torkelson 2-run HR for DET. Bazzana: 2-3, 2 RBI.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concept
+- **Follow-ups:** Guardians-Tigers G3 Wednesday; AL Central standings.
+
+### Story 4: Braves 32-15 — MLB's Best Record Near Memorial Day Barometer
+- **Angle:** FOLLOW UP (Braves record tracked through May). Atlanta 32-15, MLB best record. Memorial Day May 25 approaching — traditional contender barometer. Chris Sale anchoring rotation. Austin Riley productive. Braves bounced back 8-4 after Monday's 12-0 loss to Marlins.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concept
+- **Follow-ups:** Braves record through Memorial Day weekend; NL East race.
+
+### Story 5: Cam Schlittler 1.35 ERA — First Such Start Since Walter Johnson 1913
+- **Angle:** FOLLOW UP (Schlittler covered May 16-17 — new Walter Johnson historical angle). Schlittler: 1.35 ERA, 59 K, 9 BB, 1 HR allowed, 5-1 through 9 starts. First pitcher since Walter Johnson (1913) with 50+ K, <10 BB, ≤1 HR, sub-1.50 ERA through 9 starts. That's 113 years.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concept
+- **Follow-ups:** Schlittler's 10th start; can he sustain these numbers?
+
+### Story 6: Wednesday MLB Watch Guide
+- **Angle:** NEW STORY (Tier 3 preview). Wednesday slate: Nationals-Mets G3 (Wood momentum), Phillies action (Schwarber at 20 HRs leads MLB), Guardians-Tigers G3 (Cleveland 4-game streak).
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** N/A
+
+---
+
+---
+
 ## 2026-05-19
 
 ### Story 1: Ramírez 8th HR in Guardians 8-2 Win — Now 8 From 300-300
