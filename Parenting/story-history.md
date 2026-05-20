@@ -2,6 +2,45 @@
 
 ---
 
+## May 20, 2026
+
+### Story 1: D11 Graduation Day — Coronado and Mitchell Ceremonies Today
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW UP (Palmer covered May 19; today different schools) — Coronado HS ceremony TODAY 9 AM MT; Mitchell HS TODAY 3 PM MT; both at Ed Robson Arena, Colorado College; Doherty tomorrow May 21; CIVA/Achieve/Tesla/Bijou/Odyssey May 21; last day for all D11 students May 22; livestreams at d11.org/calendars/graduations
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Coronado 9 AM May 20; Mitchell 3 PM May 20; Ed Robson Arena; D11 last day May 22; Source: Colorado Springs Gazette May 11 2026, d11.org/calendars/graduations
+
+### Story 2: CPSC Recall — YCXXKJ Baby Bath Seats (~9,000 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalls ~9,000 YCXXKJ bath seats (sold Amazon by BenTalk); unstable, tips over, drowning risk; blue/gray/pink/yellow with duck/turtle/whale toy set; firm NO LONGER RESPONDING; CPSC directive: DISCARD immediately (not return); different from Cosyland tower stool recall (May 19) and BabyBond gate recall (May 16)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~9,000 units; Amazon by BenTalk; tip-over drowning risk; DISCARD; firm not responding; cpsc.gov/recalls; Source: CPSC.gov official
+
+### Story 3: COS Splash Pads and Spray Grounds Opening Guide 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Panorama Park Splash Pad opens May 26 (10 AM-6 PM, free); Venezia Park Watering Hole opens May 26 (10 AM-6 PM, free); Deerfield Hills opens June 1 (10 AM-5 PM, free); Uncle Wilber at Acacia Park: this summer, noon-6 PM; Julie Penrose Fountain NOT opening 2026 (budget cuts)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Panorama Park May 26; Venezia Park May 26; Deerfield Hills June 1; all free; Julie Penrose closed; Source: City of Colorado Springs parks.coloradosprings.gov, KOAA
+
+### Story 4: PPLD Summer Adventure 2026 — Free Reading Program Starts June 2
+- **Content Pillar:** Local Events / Evergreen
+- **Angle:** NEW STORY — Pikes Peak Library District Summer Adventure 2026; June 2-July 31; "Unearth a Story" theme (dinosaurs/paleontology/archaeology); 30-day challenge for prizes; all ages; FREE; ppld.org/summer; fights summer learning slide; D11 last day May 22 → sign up now
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** June 2-July 31; Unearth a Story; 30-day challenge; all ages; FREE; ppld.org/summer; Source: ppld.org/summer, Colorado Virtual Library
+
+### Story 5: Territory Days This Weekend — Family Logistics Guide
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW UP (covered May 16 as new story) — reminder/logistics guide; May 23-25; free; Old Colorado City; C.A.B. Garage $1/hr + free shuttle; kids' zone; petting zoo; gold panning; 50th anniversary
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** May 23-25; Colorado Ave 23rd-27th St; free; C.A.B. Garage $1/hr; visitcos.com; Source: visitcos.com
+
+---
+
 ## May 17, 2026
 
 ### Story 1: D20 Board Parts Ways With Superintendent Jinger Haberer
