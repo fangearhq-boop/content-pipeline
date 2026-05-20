@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-20T02:23:45.163583+00:00",
+  "generated_at": "2026-05-20T08:30:00.202998+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 82,
+  "tweet_count": 70,
   "measured_tweet_count": 61,
   "measured_median_impressions": 35,
-  "measured_mean_impressions": 45.03,
-  "median_impressions": 26.0,
-  "mean_impressions": 33.5,
+  "measured_mean_impressions": 46.66,
+  "median_impressions": 31.5,
+  "mean_impressions": 40.66,
   "max_impressions": 181,
   "significant_findings": [
     {
@@ -19,21 +19,21 @@
       "median_impressions_loser": 27,
       "n_winner": 28,
       "n_loser": 33,
-      "p_value": 0.0035,
-      "effect_size_cliffs_delta": 0.437,
-      "effect_size_label": "medium"
+      "p_value": 0.0014,
+      "effect_size_cliffs_delta": 0.479,
+      "effect_size_label": "large"
     },
     {
-      "dimension": "has_score",
-      "kind": "binary",
-      "winner": "True",
-      "loser": "False",
-      "median_impressions_winner": 54,
-      "median_impressions_loser": 31.0,
-      "n_winner": 17,
-      "n_loser": 44,
-      "p_value": 0.0113,
-      "effect_size_cliffs_delta": 0.422,
+      "dimension": "len_bucket=140-200",
+      "kind": "category_vs_rest",
+      "winner": "not_140-200",
+      "loser": "140-200",
+      "median_impressions_winner": 42,
+      "median_impressions_loser": 24.5,
+      "n_winner": 41,
+      "n_loser": 20,
+      "p_value": 0.0065,
+      "effect_size_cliffs_delta": 0.433,
       "effect_size_label": "medium"
     },
     {
@@ -45,21 +45,8 @@
       "median_impressions_loser": 25,
       "n_winner": 50,
       "n_loser": 11,
-      "p_value": 0.0364,
-      "effect_size_cliffs_delta": 0.407,
-      "effect_size_label": "medium"
-    },
-    {
-      "dimension": "len_bucket=140-200",
-      "kind": "category_vs_rest",
-      "winner": "not_140-200",
-      "loser": "140-200",
-      "median_impressions_winner": 42,
-      "median_impressions_loser": 24.5,
-      "n_winner": 41,
-      "n_loser": 20,
-      "p_value": 0.0115,
-      "effect_size_cliffs_delta": 0.402,
+      "p_value": 0.0262,
+      "effect_size_cliffs_delta": 0.433,
       "effect_size_label": "medium"
     },
     {
@@ -71,8 +58,8 @@
       "median_impressions_loser": 26.0,
       "n_winner": 37,
       "n_loser": 24,
-      "p_value": 0.0093,
-      "effect_size_cliffs_delta": 0.398,
+      "p_value": 0.0047,
+      "effect_size_cliffs_delta": 0.432,
       "effect_size_label": "medium"
     },
     {
@@ -84,8 +71,21 @@
       "median_impressions_loser": 27.0,
       "n_winner": 27,
       "n_loser": 34,
-      "p_value": 0.0104,
-      "effect_size_cliffs_delta": 0.386,
+      "p_value": 0.0042,
+      "effect_size_cliffs_delta": 0.43,
+      "effect_size_label": "medium"
+    },
+    {
+      "dimension": "has_score",
+      "kind": "binary",
+      "winner": "True",
+      "loser": "False",
+      "median_impressions_winner": 54,
+      "median_impressions_loser": 31.0,
+      "n_winner": 17,
+      "n_loser": 44,
+      "p_value": 0.0162,
+      "effect_size_cliffs_delta": 0.401,
       "effect_size_label": "medium"
     }
   ],
@@ -104,7 +104,7 @@
     "by_hour_ct": {
       "15": {
         "n": 3,
-        "mean": 31,
+        "mean": 31.67,
         "median": 31,
         "top": {
           "impressions": 53,
@@ -113,7 +113,7 @@
       },
       "14": {
         "n": 3,
-        "mean": 42.67,
+        "mean": 46.67,
         "median": 35,
         "top": {
           "impressions": 77,
@@ -122,11 +122,11 @@
       },
       "12": {
         "n": 12,
-        "mean": 52.67,
+        "mean": 59.75,
         "median": 41.5,
         "top": {
-          "impressions": 125,
-          "text": "Tonight: Cubs at White Sox. 6:40 PM CT. Guaranteed Rate Field.\n\nEdward Cabrera (3-1, 3.88 ERA) takes on Sean Burke (2-3, 3.68 ERA) in the Crosstown Classic opener.\n\nGame 1 of 3. Cubs rolling with momentum off a 2-0 shutout.\n\n#Cubs #GoCubs #"
+          "impressions": 148,
+          "text": "Brown vs Misiorowski tonight at Wrigley. 6:40 PM CT.\n\nBen Brown: 1.60 ERA, 0 ER in his last 12.2 innings.\nJacob Misiorowski: 2.12 ERA, MLB-best 80 Ks in 51 innings, 0 ER in 3 straight.\n\nCubs need this one.\n\n#Cubs #GoCubs #CubsBaseball"
         }
       },
       "8": {
@@ -223,11 +223,11 @@
     "by_weekday_ct": {
       "Tue": {
         "n": 15,
-        "mean": 39.8,
+        "mean": 46.4,
         "median": 29,
         "top": {
-          "impressions": 106,
-          "text": "Poached Peralta \u2014 right off the Cardinals' trash pile. \ud83d\ude04\n\nLuis Peralta, LHP, headed to Triple-A Iowa for bullpen depth. Younger brother of Freddy Peralta. St. Louis cut him loose.\n\nWe'll take that, thanks.\n\n#Cubs #GoCubs #CubNation"
+          "impressions": 148,
+          "text": "Brown vs Misiorowski tonight at Wrigley. 6:40 PM CT.\n\nBen Brown: 1.60 ERA, 0 ER in his last 12.2 innings.\nJacob Misiorowski: 2.12 ERA, MLB-best 80 Ks in 51 innings, 0 ER in 3 straight.\n\nCubs need this one.\n\n#Cubs #GoCubs #CubsBaseball"
         }
       },
       "Mon": {
@@ -288,7 +288,7 @@
     "by_content_type": {
       "brief": {
         "n": 27,
-        "mean": 54.63,
+        "mean": 58.3,
         "median": 52,
         "top": {
           "impressions": 181,
@@ -317,7 +317,7 @@
     "by_opening": {
       "statement": {
         "n": 41,
-        "mean": 49.07,
+        "mean": 51.49,
         "median": 38,
         "top": {
           "impressions": 181,
@@ -346,7 +346,7 @@
     "by_len_bucket": {
       "200-260": {
         "n": 34,
-        "mean": 50.03,
+        "mean": 52.94,
         "median": 42.0,
         "top": {
           "impressions": 181,
@@ -384,7 +384,7 @@
     "by_hashtag_count": {
       "3": {
         "n": 61,
-        "mean": 45.03,
+        "mean": 46.66,
         "median": 35,
         "top": {
           "impressions": 181,
@@ -395,11 +395,11 @@
     "by_has_score": {
       "False": {
         "n": 44,
-        "mean": 38.02,
+        "mean": 40.27,
         "median": 31.0,
         "top": {
-          "impressions": 112,
-          "text": "3-game skid ends tonight. That's the assignment.\n\nImanaga vs. baseball's hottest lineup. We've seen this movie before. \ud83c\udfaf\n\nSale looms tomorrow \u2014 Shota needs to set the tone NOW.\n\n#Cubs #GoCubs #WrigleyField"
+          "impressions": 148,
+          "text": "Brown vs Misiorowski tonight at Wrigley. 6:40 PM CT.\n\nBen Brown: 1.60 ERA, 0 ER in his last 12.2 innings.\nJacob Misiorowski: 2.12 ERA, MLB-best 80 Ks in 51 innings, 0 ER in 3 straight.\n\nCubs need this one.\n\n#Cubs #GoCubs #CubsBaseball"
         }
       },
       "True": {
@@ -415,7 +415,7 @@
     "by_has_stat": {
       "False": {
         "n": 44,
-        "mean": 41.66,
+        "mean": 41.7,
         "median": 33.0,
         "top": {
           "impressions": 112,
@@ -424,7 +424,7 @@
       },
       "True": {
         "n": 17,
-        "mean": 53.76,
+        "mean": 59.47,
         "median": 42,
         "top": {
           "impressions": 181,
@@ -435,7 +435,7 @@
     "by_has_emoji_first_line": {
       "False": {
         "n": 37,
-        "mean": 52.35,
+        "mean": 55.03,
         "median": 49,
         "top": {
           "impressions": 181,
@@ -455,7 +455,7 @@
     "by_has_allcaps": {
       "False": {
         "n": 12,
-        "mean": 36.75,
+        "mean": 36.92,
         "median": 34.0,
         "top": {
           "impressions": 74,
@@ -464,7 +464,7 @@
       },
       "True": {
         "n": 49,
-        "mean": 47.06,
+        "mean": 49.04,
         "median": 35,
         "top": {
           "impressions": 181,
@@ -545,6 +545,16 @@
       "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
     },
     {
+      "posted_at": "2026-05-19 12:01 CT",
+      "content_type": "brief",
+      "impressions": 148,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "statement",
+      "len": 234,
+      "text": "Brown vs Misiorowski tonight at Wrigley. 6:40 PM CT.\n\nBen Brown: 1.60 ERA, 0 ER in his last 12.2 innings.\nJacob Misiorowski: 2.12 ERA, MLB-best 80 Ks in 51 innings, 0 ER in 3 straight.\n\nCubs need this one.\n\n#Cubs #GoCubs #CubsBaseball"
+    },
+    {
       "posted_at": "2026-05-15 12:01 CT",
       "content_type": "brief",
       "impressions": 125,
@@ -573,16 +583,6 @@
       "opening": "statement",
       "len": 231,
       "text": "Poached Peralta \u2014 right off the Cardinals' trash pile. \ud83d\ude04\n\nLuis Peralta, LHP, headed to Triple-A Iowa for bullpen depth. Younger brother of Freddy Peralta. St. Louis cut him loose.\n\nWe'll take that, thanks.\n\n#Cubs #GoCubs #CubNation"
-    },
-    {
-      "posted_at": "2026-05-18 10:46 CT",
-      "content_type": "brief",
-      "impressions": 105,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 278,
-      "text": "Tuesday's game is the one to watch.\n\nBen Brown (1.60 ERA) faces Jacob Misiorowski \u2014 the MLB leader in K/9 at 14.0 strikeouts per nine. Brown is 2-0 in his career vs Milwaukee with 19 Ks in 18 innings.\n\nTwo of the best young arms in the NL. Must-see.\n\n#Cubs #GoCubs #CubsBaseball"
     }
   ],
   "bottom_performers": [
@@ -595,6 +595,16 @@
       "opening": "statement",
       "len": 223,
       "text": "Cubs' No. 6 prospect is doing something RARE in the minors. \ud83d\udc40\n\nElite walk rate. Elite steal rate. The kid doesn't chase and doesn't stop.\n\nPlate discipline + speed is a cheat code. Watch him climb.\n\n#Cubs #GoCubs #CubNation"
+    },
+    {
+      "posted_at": "2026-05-19 15:45 CT",
+      "content_type": "brief",
+      "impressions": 11,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "statement",
+      "len": 228,
+      "text": "Good news from the recovery front: Matt Boyd is throwing a bullpen session next week.\n\nLate June return still on track. A healthy Boyd won't save the season \u2014 but he'll make it a lot more manageable.\n\n#Cubs #GoCubs #CubsBaseball"
     },
     {
       "posted_at": "2026-05-06 00:46 CT",
@@ -615,16 +625,6 @@
       "opening": "allcaps_lead",
       "len": 195,
       "text": "Rojas homered AGAIN. \ud83d\ude80\n\nNo. 2 prospect. 20 years old. Keeps showing up even in a loss.\n\nThree of four affiliates won Tuesday. The pipeline's not just deep \u2014 it's hungry.\n\n#Cubs #GoCubs #CubNation"
-    },
-    {
-      "posted_at": "2026-05-19 15:45 CT",
-      "content_type": "brief",
-      "impressions": 9,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 228,
-      "text": "Good news from the recovery front: Matt Boyd is throwing a bullpen session next week.\n\nLate June return still on track. A healthy Boyd won't save the season \u2014 but he'll make it a lot more manageable.\n\n#Cubs #GoCubs #CubsBaseball"
     },
     {
       "posted_at": "2026-05-15 04:01 CT",
