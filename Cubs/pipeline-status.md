@@ -1,6 +1,15 @@
 # Cubs Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-20 (full pipeline run)
+- **Steps Completed**: Step 0 (insights loaded from Cubs/_data/insights.json, 6 significant findings), Step 0.5 (series context loaded, mid-series Game 3), Research (11 searches, 7 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log (18 claims verified, 1 single-source flag), compile-content-data.py (all clear, 0 warnings), generate-review-dashboard.py, publish-unified-dashboard.py (generated locally; push to content-dashboards repo FAILED 403 — recurring issue)
+- **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-20/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
+- **GitHub Pages Status**: N/A for this run (push rejected — content-dashboards separate repo not in PAT scope)
+- **Issues**: (1) publish-unified-dashboard.py push rejected 403 (same recurring issue — content-dashboards not in PAT scope). Core deliverable (07-content-data.json) compiled and pushed to content-pipeline repo for cubs-x-bot. (2) Cabrera W-L record had conflicting sources (3-1 from preview sources vs projected 8-7 from AI summary) — W-L omitted from tweet text. (3) Harrison Red Sox origin claim: single source, not used in tweets.
+- **Insights applied**: Loaded from local snapshot (generated_at: 2026-05-20T08:30 UTC). 6 significant findings applied: (1) rss_news loser → all posts brief type ✓; (2) len_bucket=140-200 loser → all tweets 200-267 chars, none in 140-200 ✓; (3) overnight_00_06 loser → no overnight slots ✓; (4) has_emoji_first_line loser=True → NO leading emojis on any tweet (overrides brand-voice guide) ✓; (5) content_type=brief winner → all posts brief ✓; (6) has_score=True winner → score in first line of game recap tweet ✓.
+- **Key stories**: Brewers 5-2 Misiorowski 24.1 scoreless innings Brown L (P10), Cubs slide 4 straight 8-of-10 dropped from first (P9), Boyd meniscus surgery 6 weeks second IL stint (P8), Game 3 Cabrera vs Harrison sweep on the line 6:40 CT (P9), Peralta trade clock 12 days to June 1 Counsell connection (P8), game-time hype (P5)
+
+## Previous Run
 - **Date**: 2026-05-19 (full pipeline run)
 - **Steps Completed**: Research (12 searches, 6 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log (29 claims, 0 errors, 4 MEDIUM/plausible), compile-content-data.py (all clear, 0 warnings), generate-review-dashboard.py, publish-unified-dashboard.py (dashboard generated locally; push to content-dashboards repo failed 403 — recurring issue)
 - **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-19/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
@@ -111,6 +120,17 @@ to mark them as pipeline-produced.
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-20
+- Stories: 6 (Tier 1: misiorowski-recap, slide-analysis; Tier 2: boyd-surgery, game3-preview, peralta-clock, game-time-hype) — X-only niche
+- X posts: 6 (3 informative / 3 bold-hype = 50/50 mix)
+- Char counts: 254/238/247/267/257/232 — all ≤280, all outside 140-200 range (insights-tuned)
+- Fact-check: Manual verification. 18 claims checked, 17 HIGH confidence, 1 single-source flag (Brown league-leading wild pitch — CBS Chicago). No corrections needed.
+- Insights applied: 6/6 significant findings applied. Key changes: no leading emojis (vs brand-voice default), all tweets 200-267 chars (avoiding 140-200 penalty bucket), score in first line of recap post.
+- Dashboard: Generated locally (Cubs/cubs-content-2026-05-20/review-dashboard.html). Publish to content-dashboards FAILED (403 — same recurring issue, PAT doesn't cover content-dashboards repo).
+- 07-content-data.json: ✓ Compiled, 6 stories, 6 x_posts with posting_time in "H:MM AM/PM CT" format, 0 errors, 0 warnings
+- Key stories: Brewers 5-2 Misiorowski 24.1 scoreless innings Brown L (P10), Cubs slide 4 straight 8-of-10 Brewers in first 0.5 GB (P9), Boyd meniscus surgery 6 weeks second IL stint (P8), Game 3 Cabrera vs Harrison 6:40 PM CT sweep on line (P9), Peralta June 1 12 days Counsell connection (P8), game-time hype (P5)
+- Notes: First pipeline run with active insights data (series-context and insights snapshots loaded from Cubs/_data/ successfully — game-monitor push restored). Series context confirmed mid-series Cubs vs Brewers, is_series_start_today=false. All 6 significant_findings applied per methodology.
 
 ### 2026-05-19
 - Stories: 6 (Tier 1: imanaga-recap, nl-central-alarm; Tier 2: brown-misiorowski-preview, peralta-clock, boyd-update; Tier 3: game-time-hype) — X-only niche

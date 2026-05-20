@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-20",
+  "compiled_at": "2026-05-20T09:13:48.221166+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Brewers 5-2 recap — Misiorowski's 24.1-inning streak",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Cubs slide analysis — dropped from first, 4 straight losses",
+      "type": "Bold take"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Boyd meniscus surgery — rotation in crisis",
+      "type": "Informative"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Game 3 preview — Cabrera vs Harrison, sweep on the line",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Peralta trade urgency — 12 days to June 1",
+      "type": "Bold take"
+    },
+    {
+      "time": "6:30 PM CT",
+      "description": "Game time hype — series finale at Wrigley",
+      "type": "Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers 5, Cubs 2 — Misiorowski Dominant Again, Cubs' Slide Hits Four",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Misiorowski extended his scoreless streak to 24.1 innings with 6 shutout frames (8 Ks, 3 hits). Ben Brown (L, 1-2) allowed 3 runs in 5 innings including his league-leading 6th wild pitch. Turang 3-for-4 with a 2-run HR. Cubs 29-20, Brewers 28-18 (1st in NL Central). Four straight losses, eight of last ten.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Brewers 5, Cubs 2.\n\nMisiorowski: 6 IP, 0 ER, 8 Ks, 3 hits. That's 24.1 consecutive scoreless innings. Just unhittable.\n\nBen Brown took the loss — 5 IP, 3 ER, 7 hits, his league-leading 6th wild pitch. Cubs have lost four straight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative — game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers 5, Cubs 2 — Misiorowski Dominant Again\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Final score: Brewers 5, Cubs 2 | MLB.com Gameday, CBS Sports, ESPN | HIGH |\n| Misiorowski: 6 IP, 0 ER, 8 Ks, 3 singles | CBS Chicago recap, WTMJ | HIGH |\n| Misiorowski scoreless streak: 24.1 consecutive innings | WTMJ headline (\"24 1/3 innings\") | HIGH |\n| Misiorowski record: 4-2 (W) | CBS Chicago, first search result | HIGH |\n| Brice Turang: 3-for-4, 2-run HR | CBS Chicago | HIGH |\n| Jake Bauers: 2 hits, RBI | CBS Chicago | HIGH |\n| Garrett Mitchell: 1 RBI | CBS Chicago | HIGH |\n| Ben Brown: 5 IP, 3 ER, 7 H, 2 BB, 6 K, 82 pitches, L(1-2) | CBS Chicago | HIGH |\n| Brown's wild pitch was his league-leading 6th of the season | CBS Chicago (\"league-leading sixth wild pitch\") | HIGH |\n| Wild pitch scored Chourio from third, with Mitchell at bat | CBS Chicago | HIGH |\n| Cubs: 4 straight losses, 8 of last 10 | CBS Chicago recap | HIGH |\n| Brewers moved into first place (28-18) | CBS Chicago, series context JSON | HIGH |\n| Cubs fall to 29-20 | Series context JSON, derived | HIGH |\n| Brewers lead NL Central by 0.5 games | GB formula: (28-29 wins + 20-18 losses)/2 = 0.5 | CONFIRMED |\n**Cross-reference note:** Score confirmed via both MLB.com Gameday (\"Brewers 5, Cubs 2 Final Score 05/19/2026\") and CBS Sports box score URL. Brown's wild-pitch stat is the highest-prominence claim from a single source; the \"league-leading\" qualifier comes only from CBS Chicago recap. I am using it but flagging for verification in fact-check log.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Drop From First, Brewers Take the Lead — Slide Reaches Crisis Point",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Bold take on the Cubs' freefall. From NL Central leaders to 0.5 GB in second place. Lost four straight. With a potential series sweep tonight, the window to reassert themselves is tonight at Wrigley.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Four straight losses. Eight in the last ten. The Brewers are in first place by half a game.\n\nThe Cubs dropped from first to half a game back. Now they're scrambling to avoid a sweep. Wrigley wants answers tonight.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take — division analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Slide / Division Analysis\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Cubs record: 29-20 | Series context JSON | HIGH |\n| Brewers record: 28-18 | Series context JSON | HIGH |\n| Brewers in first, Cubs 0.5 GB | CBS Chicago recap; GB calculation confirmed | HIGH |\n| Cubs dropped from first (pre-series) | Story history (May 19 brief shows Cubs led before Brewers series) | HIGH |\n| Cardinals approx. 1.0 GB | May 19 pipeline STORY 2 context | MEDIUM |\n| Four straight losses | CBS Chicago | HIGH |\n| Eight losses in last ten games | CBS Chicago | HIGH |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Matt Boyd Out Six Weeks — Meniscus Surgery, Rotation Depth Critical",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Boyd tore his left meniscus playing with his kids, underwent surgery, out approximately six weeks (second IL stint of the season). With Steele past the All-Star break, Horton 15-16 months out, and now Boyd six weeks, the rotation is in crisis mode.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Matt Boyd is out six weeks after tearing his meniscus playing with his kids.\n\nSecond IL stint of the season. Every time this rotation looks stable, something breaks.\n\nThe case for a Freddy Peralta trade is writing itself.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative — injury update",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Matt Boyd Meniscus Surgery\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Boyd tore left meniscus playing with his kids | Yahoo Sports, NBC News, MLB.com | HIGH |\n| Boyd underwent successful surgery | MLB Trade Rumors, ESPN, MLB.com | HIGH |\n| Boyd expected to miss ~6 weeks | MLB Trade Rumors, ESPN, Craig Counsell quote | HIGH |\n| \"Probably closer to six weeks\" — Craig Counsell | MLB.com, ESPN | HIGH |\n| This is Boyd's second IL stint this season | Multiple sources mention \"second time\" this season | HIGH |\n| Boyd previously on IL earlier in 2026 | Research notes from May 17-19 pipeline | HIGH |\n| Justin Steele: 60-day IL (UCL revision), return after All-Star break | FanGraphs Injury Report | HIGH |\n| Cade Horton: TJ surgery April 16, 15-16 months | Multiple sources | HIGH |\n| Hunter Harvey: 60-day IL (triceps stress reaction) | ESPN transactions, SportsMockery | HIGH |\n**Note:** The May 19 pipeline had Boyd with a \"bullpen session expected this week.\" The meniscus tear supersedes that — clearly a new development after that pipeline ran.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Game 3 Tonight — Cabrera vs Harrison, Series Sweep on the Line",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Series finale at Wrigley, 6:40 PM CT. Kyle Harrison (4-1, 2.09 ERA, ≤2 ER in all 8 starts) faces Edward Cabrera (3-1, 4.06 ERA, HR in 5 straight starts). Cubs must win to avoid being swept at home.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Edward Cabrera vs Kyle Harrison tonight at Wrigley — series finale, 6:40 PM CT.\n\nHarrison hasn't allowed more than 2 runs in any of his 8 starts this year. Cabrera has given up a HR in five straight.\n\nNo. 1 on today's task list: avoid a sweep.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative — game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 3 Preview — Cabrera vs Harrison\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Game 3, series finale (Cubs vs Brewers, May 18-20) | Series context JSON, cubsinsider.com | HIGH |\n| Wrigley Field, 6:40 PM CT | Series context JSON | HIGH |\n| Kyle Harrison starts for Brewers | DraftKings probable pitchers May 20, cubsinsider | HIGH |\n| Harrison: 4-1, 2.09 ERA, 1.19 WHIP | DraftKings, Brew Crew Ball | HIGH |\n| Harrison: 8 starts, ≤2 ER in every start | Brew Crew Ball (\"has yet to allow more than two earned runs this season, spanning eight starts and 38.2 innings\") | HIGH |\n| Edward Cabrera starts for Cubs | DraftKings, cubsinsider | HIGH |\n| Cabrera: 3-1, 4.06 ERA, 1.31 WHIP | cubsinsider series preview, DraftKings | HIGH (see note) |\n| Cabrera: HR in 5 straight starts | DraftKings preview | HIGH |\n| Cubs 0-2 in series (lost Games 1 and 2) | Series context + May 19 recap | HIGH |\n**Note on Cabrera record:** One search result projected \"8-7, 3.53 ERA\" which appears to be a full-season projection or hallucination. Series preview sources (cubsinsider, DraftKings) consistently show 3-1, 4.06 ERA for today. Not citing W-L in tweet; only citing HR-in-5-straight which has strong sourcing.\n**Note on Harrison origin:** One source mentions Harrison \"came over from the Red Sox in an offseason trade.\" This is from a single search result summary and was NOT included in any tweet text. Requires independent verification before citing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Freddy Peralta Trade Clock — 12 Days to Mets' June 1 Deadline",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Boyd's meniscus surgery sharpens the urgency. With Horton out 16 months, Steele past the All-Star break, and now Boyd 6 weeks, the rotation is unsustainable without a frontline arm. Peralta (30, pending FA, Counsell connection) is the dream target and the Mets' decision window closes June 1.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Freddy Peralta is the dream target. The Mets' June 1 deadline is 12 days away.\n\nHorton out 16 months. Steele past the break. Boyd out six weeks. The rotation can't survive without a No. 1. Peralta fits, and Counsell knows him cold.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold take — trade analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Freddy Peralta Trade Clock\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Cubs have interest in Freddy Peralta (Mets) | Bleacher Nation (May 8), MLB Trade Rumors, CBS Sports | HIGH |\n| Mets targeting June 1 as pivot/selling deadline | MLB Trade Rumors, Rising Apple, clutchpoints | HIGH |\n| June 1 is 12 days from May 20 | Calendar: May 20 + 12 = June 1 | CONFIRMED |\n| Peralta: 30 years old, pending free agent after 2026 | CBS Sports, MLB Trade Rumors | HIGH |\n| Craig Counsell connection (both with Brewers) | MLB Trade Rumors, CBS Sports | HIGH |\n| Cubs describe Peralta as \"dream\" target | MLB Trade Rumors, heavy.com | HIGH |\n| Cubs source: \"have not spoken directly to Mets about Peralta\" | Bleacher Nation update | HIGH |\n| Jaxon Wiggins mentioned as trade piece | Yahoo Sports | MEDIUM (single source, not used in tweet) |\n| Boyd's meniscus as new urgency hook | New development (day of) | HIGH |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Game Time — Series Finale, Avoid the Sweep",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Pre-game urgency post. Cubs down 0-2 in series, half game behind in division. Cabrera must be his best. 6:40 PM CT.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Game 3. Wrigley. 6:40 PM CT.\n\nThe Cubs need Edward Cabrera at his best — not the guy who's given up a HR in five straight starts.\n\nDown 0-2 in the series, a half-game behind in the division. This one matters.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Hype — game time",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game Time Hype\n**Key facts + sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| 6:40 PM CT first pitch | Series context JSON | HIGH |\n| Wrigley Field | Series context JSON | HIGH |\n| Cubs 0-2 in this series | May 18 recap + May 19 recap | HIGH |\n| Cubs 0.5 GB behind Brewers | Established above | HIGH |\n| Cabrera HR in 5 straight starts | Established above | HIGH |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

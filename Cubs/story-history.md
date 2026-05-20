@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-20
+
+### STORY 1: Brewers 5, Cubs 2 — Misiorowski's 24.1 Scoreless Innings, Four Straight Losses
+- **Angle:** NEW STORY. Misiorowski: 6 IP, 0 ER, 8 Ks, 3 hits, scoreless streak extended to 24.1 innings (W, 4-2). Ben Brown: 5 IP, 3 ER, 7 H, L(1-2), league-leading 6th wild pitch. Turang 3-for-4, 2-run HR. Cubs 29-20, Brewers 28-18 (first in NL Central). Cubs have lost four straight, eight of last ten.
+- **Content Produced:** X (1 post — 7:00 AM CT)
+- **Follow-Up:** Game 3 result (tonight); Brown's ERA/next outing; Misiorowski's streak continuation
+
+### STORY 2: Cubs Freefall — Dropped From First, 0.5 GB Behind Brewers
+- **Angle:** NEW STORY (bold division take). Cubs 29-20. Brewers 28-18, first place. Four straight losses, eight of last ten. Series sweep possible tonight. Urgency framed around must-win Game 3.
+- **Content Produced:** X (1 post — 8:15 AM CT)
+- **Follow-Up:** Series outcome; standings check tomorrow; Cubs response to slide
+
+### STORY 3: Matt Boyd Out Six Weeks — Meniscus Surgery, Second IL Stint
+- **Angle:** FOLLOW-UP (Boyd recovery arc from May 17-19; fresh hook: torn meniscus playing with kids, surgery confirmed). Out ~6 weeks. Rotation now: Steele past All-Star break, Horton 16 months, Boyd 6 weeks. Rotation crisis angle with Peralta trade hook.
+- **Content Produced:** X (1 post — 9:30 AM CT)
+- **Follow-Up:** Boyd rehab progress; Peralta trade developments; Cubs rotation depth
+
+### STORY 4: Game 3 Series Finale — Cabrera vs Harrison, 6:40 PM CT
+- **Angle:** NEW STORY (series finale game day). Kyle Harrison (4-1, 2.09 ERA, ≤2 ER in all 8 starts) vs Edward Cabrera (3-1, 4.06 ERA, HR in 5 straight starts). Cubs must avoid home sweep. Series stakes and division context.
+- **Content Produced:** X (1 post — 12:00 PM CT)
+- **Follow-Up:** Game 3 result for next pipeline; Cabrera's line; series outcome
+
+### STORY 5: Freddy Peralta Trade Clock — 12 Days to Mets' June 1 Deadline
+- **Angle:** FOLLOW-UP (Peralta arc from May 14-19; new hook: Boyd meniscus surgery adds urgency). Three starters now unavailable (Horton 16m, Steele past break, Boyd 6w). Peralta: 30, pending FA, Craig Counsell connection. Mets' June 1 pivot deadline 12 days out.
+- **Content Produced:** X (1 post — 3:45 PM CT)
+- **Follow-Up:** Mets' June 1 decision; any Cubs-Mets trade news; rotation health
+
+### STORY 6: Game Time — Series Finale Hype, 6:30 PM CT
+- **Angle:** TODAY (game-time energy). Down 0-2 in series. Half-game behind Brewers. Cabrera must deliver. 6:40 PM CT at Wrigley.
+- **Content Produced:** X (1 post — 6:30 PM CT)
+- **Follow-Up:** Game result for next pipeline
+
+---
+
 ## 2026-05-19
 
 ### STORY 1: Brewers 9, Cubs 3 — Imanaga's Worst Start of Season, Cubs Fall to 29-19
