@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-20
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (96 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
+- **Dashboard Published**: Local only
+- **GitHub Pages Status**: n/a (PAT scope limitation known)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required).
+- **Key Stories**: Wells at 37 HRs tied all-time NCAA record (Espinoza 1995)/one HR from history/Super Regional Friday vs Miss State 1 PM ET ESPN2 (Tier 1), Florida 51-10 hosts Texas Tech 55-6/36-1 home regional record since 2013/UF beat TTech 4 times this season/Game 1 Fri 11 AM ESPN2 (Tier 1), Alabama 52-7 vs LSU 40-17/Moten near-perfect regional/23-2 LSU regional outscoring/Fri 7 PM ESPN2 (Tier 2), UCF 2nd-ever Super Regional/upset No. 9 FSU first-ever NCAA win/cross-country to UCLA/Fri 9 PM ESPNU (Tier 2), Super Regionals full TV guide 8 series May 21-24/WCWS Devon Park May 28 (Tier 2), WCWS early power rankings Alabama-Oklahoma-Texas-Nebraska-Florida (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-19
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations; fixed FB heading format to **Long-Form Post** / **Image Caption**; FB compile now shows 6 posts vs known-0 in prior runs), FB posts (6 stories), image concepts (6 stories — S6 Tier 3 image added), image manifest (not_started), articles (5), fact-check (72 claims, 0 char violations, consistency clean, IMAGE MISSING expected not_started), compile (6 stories, 8 tweets, 6 FB posts — heading format FIX APPLIED, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
 - **Dashboard Published**: Local only

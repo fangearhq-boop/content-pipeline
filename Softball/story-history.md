@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 20, 2026
+
+### Story 1: Kendall Wells — One HR From Breaking the All-Time NCAA Record
+- **Angle:** FOLLOW UP (Wells covered throughout 2026). Wells sits at 37 HRs, tied with Laura Espinoza (Arizona, 1995) for the all-time NCAA single-season record. Oklahoma hosts Mississippi State in Super Regional starting Friday May 22 at 1 PM ET on ESPN2. Wells has broken: NCAA freshman HR record (31), SEC single-season HR record (27), Oklahoma program record (35, surpassing Alo).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Does Wells hit No. 38 and break the record? Oklahoma's Super Regional result vs Mississippi State.
+
+### Story 2: Florida vs. Texas Tech Super Regional — Gators' Fortress Meets Nation's Winningest Program
+- **Angle:** NEW STORY. Florida (51-10) hosts Texas Tech (55-6) at Katie Seashole Pressly Stadium. Florida's 15th home Super Regional, third consecutive. UF is 36-1 in home NCAA regionals since 2013 (22 consecutive wins, outscored opponents 268-17). UF beat TTech 4 times this season (2 in February, 2 in Gainesville Regional). Game 1: Friday May 22, 11 AM ET, ESPN2. Game 2: Saturday May 23, 12:30 PM, ABC.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Florida vs Texas Tech series result; winner advances to WCWS.
+
+### Story 3: Alabama vs. LSU — No. 1 Meets No. 16 in Tuscaloosa
+- **Angle:** NEW STORY. No. 1 Alabama (52-7) hosts No. 16 LSU (40-17). Vic Moten near-perfect in regional. LSU outscored regional opponents 23-2. Teams did not meet in regular season. Game 1: Friday May 22, 7 PM ET, ESPN2. Game 2: Saturday May 23, 3 PM, ESPN.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Alabama vs LSU series result.
+
+### Story 4: UCF vs. UCLA — Cinderella Knights Cross-Country to L.A.
+- **Angle:** NEW STORY (follow-up on UCF upset May 18; new Super Regional angle). UCF's second-ever Super Regional — they upset No. 9 FSU 4-2 for the program's first-ever NCAA win over FSU. Went unbeaten in regional. Travel to face No. 8 UCLA in L.A. Game 1: Friday May 22, 9 PM ET, ESPNU. Game 2: Saturday May 23, 9 PM, ESPN.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** UCF vs UCLA series result; can Cinderella story continue?
+
+### Story 5: Super Regionals TV Guide — 8 Series, 4 Days to the WCWS
+- **Angle:** NEW STORY (utility guide). Complete schedule for all 8 Super Regionals May 21-24. All times, channels, matchups. WCWS Devon Park OKC May 28.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Super Regional results roundup.
+
+### Story 6: Early WCWS Power Rankings Before Super Regionals
+- **Angle:** NEW STORY (analysis). Early look at top contenders before Super Regionals begin. Alabama (pitching), Oklahoma (Wells + offense), Texas (experience), Nebraska (home field + Frahm), Florida (home dominance).
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** How accurate were the power rankings? Super Regional results vs predictions.
+
+---
+
 ## May 19, 2026
 
 ### Story 1: Kendall Wells Tied All-Time HR Record at 37 — One From History
