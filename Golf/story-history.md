@@ -4,6 +4,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-05-21 | T1 | CJ Cup Byron Nelson opens — Round 1 at TPC Craig Ranch; $10.3M; Scheffler defends; grouped with Koepka + Si Woo Kim; 5 players withdrew post-Aaron Rai PGA win | X, FB, Article | NEW STORY |
+| 2026-05-21 | T1 | Aaron Rai PGA Championship aftermath — $3.69M; lifetime PGA exemption; 5-year Masters/US Open/Open/Players exemptions; first English winner since 1919; first Indian-heritage men's major champion | X, FB, Article | FOLLOW-UP |
+| 2026-05-21 | T2 | McIlroy Grand Slam wait — T7 at PGA, 5 behind Rai; 3 legs (Masters/US Open/Open); skipping Byron Nelson + Schwab; next: Memorial June 4-7; US Open is next Grand Slam attempt | X, FB, Article | FOLLOW-UP |
+| 2026-05-21 | T2 | Scheffler PGA defense T14 + Byron Nelson reset — co-led R1 at -3; finished 2-under 278; back at TPC Craig Ranch defending Byron Nelson | X, FB, Article | FOLLOW-UP |
+| 2026-05-21 | T2 | LIV Golf Virginia — Herbert wins -24 264, 4 shots over Garcia; DeChambeau T3; first LIV win for Herbert; LIV Golf Korea May 28-31 Asiad CC Busan | X, FB, Article | NEW STORY |
+|------|------|-------|-----------|-------|
 | 2026-05-17 | T1 | PGA Championship final round — Smalley leads -6 (solo), T2 at -4: Schmid/Taylor/Rahm/Rai/Åberg; McIlroy/Schauffele/McNealy/Reed at -3; Scheffler -1 (5 back); 22 players within 4 shots; final pairing 2:35 PM ET | X, FB, Article | FOLLOW-UP |
 | 2026-05-17 | T1 | McIlroy Grand Slam chase — fired R3 66 (6 birdies, no bogeys) to get to -3; 3 shots from completing Career Grand Slam (has Masters/US Open/Open Championship); "I have a chance"; tees off 2:05 PM ET with Schauffele; mirrors 2025 Masters comeback | X, FB, Article | FOLLOW-UP |
 | 2026-05-17 | T2 | Alex Smalley profile — 29, Rochester NY, Duke grad (3.6 GPA, EnvSci, All-American), Walker Cup 2019, Korn Ferry grad 2021, 15 top-10s but 0 wins; 10th player in 30 years to lead major at 54 holes without tour win | X, FB, Article | NEW STORY |

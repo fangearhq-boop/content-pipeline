@@ -1,8 +1,26 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-19
+- **Date**: 2026-05-21
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Current Pipeline (2026-05-21)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-05-21 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-21 |
+| Fact-check | Complete (verify-facts.py — 23 claims, 43 HIGH confidence) | 2026-05-21 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-21 |
+| PostPlanner | Complete (6 X posts + TOBI 6 posts) | 2026-05-21 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent) | 2026-05-21 |
+| Published | Failed — WordPress credentials blocked by egress proxy (persistent) | 2026-05-21 |
+| Git | Committed and pushed to main | 2026-05-21 |
+
+## Notes (2026-05-21)
+- 5 stories: CJ Cup Byron Nelson R1 opens (Scheffler defends, $10.3M, 5 withdrawals post-Rai win, grouped with Koepka/Si Woo Kim) T1; Aaron Rai aftermath (lifetime PGA exemption, 5-yr exemptions Masters/US Open/Open/Players, $3.69M, first English winner since 1919, first Indian-heritage men's major) T1; McIlroy Grand Slam miss (T7 at -4, 5 back, has 3 legs Masters/US Open/Open, skipping Byron Nelson + Schwab, next Memorial June 4-7) T2; Scheffler PGA defense T14 + Byron Nelson reset (co-led R1, finished 2-under 278) T2; LIV Golf Virginia Herbert wins (-24 264, 4 over Garcia, DeChambeau T3, LIV Korea May 28-31 Busan) T2
+- Pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole
+- WordPress publish failed (egress proxy — persistent across all three niches)
 
 ## Current Pipeline (2026-05-19)
 
