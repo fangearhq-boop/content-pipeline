@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 21, 2026
+
+### Story 1: Tennessee vs Georgia Super Regional — Karlyn Pickens' Historic Night
+- **Angle:** FOLLOW UP (Tennessee SR covered May 19; new game-day angle on Pickens + historic 4th consecutive SR hosting). Tennessee (45-10) hosts Georgia (40-18) in Knoxville at 7 PM ET on ESPN2. Tennessee is the first program in NCAA history to host 4 consecutive Super Regionals. Karlyn Pickens on the mound. Georgia's Addisen Fisher had CG shutout 5-0 vs Clemson in Regional Final. Sold-out Sherri Parker Lee Stadium.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Tennessee vs Georgia Game 1 result; series outcome.
+
+### Story 2: Nebraska Opens First-Ever Home Super Regional vs Oklahoma State
+- **Angle:** FOLLOW UP (Nebraska SR covered May 19; new game-night angle on Lincoln moment + Frahm vs Neylan). Nebraska (49-6) hosts first-ever home Super Regional vs Oklahoma State, 9 PM ET ESPN2. Jordy Frahm (Lincoln native) vs Ruby Neylan (Omaha native/former travel ball teammate). Nebraska allowed 1 run in entire regional; OkState scored 34+ runs. Bob Devaney Sports Center sold out. 13-year WCWS drought.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Nebraska vs Oklahoma State Game 1 result; Cornhuskers' WCWS quest.
+
+### Story 3: Kendall Wells Enters Super Regional Stage — One HR From History
+- **Angle:** FOLLOW UP (Wells chase covered daily). Wells at 37 HRs (tied Espinoza 1995 all-time). OU hosts Miss State Friday 1 PM ET ESPN2. Miss State pitchers face the most intense assignment of their careers. The strategy question: how do you pitch to someone who cannot be stopped?
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Does Wells break the record Friday? Oklahoma Super Regional result.
+
+### Story 4: Georgia's Addisen Fisher — The Pitcher Who Could Silence Knoxville
+- **Angle:** NEW STORY. Fisher's CG shutout in Regional Final (5-0 vs Clemson) gives Georgia a legitimate upset bid in Knoxville. Tonight at 7 PM ET ESPN2. The underdog case: Fisher's composure, Georgia's 40-18 record, what it takes to upset the 4-time consecutive SR host.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Fisher performance in Game 1; Georgia's upset potential.
+
+### Story 5: Friday's Six Super Regional Openers — The Biggest Day of the NCAA Tournament
+- **Angle:** NEW STORY. Friday preview: 6 SR openers simultaneously. Florida-TTech 11 AM ESPN2, Arkansas-Duke 11 AM ESPNU, Oklahoma-Miss State 1 PM ESPN2, Alabama-LSU 7 PM ESPN2, UCF-UCLA 9 PM ESPNU, Texas-ASU 9 PM ESPN2. All key storylines covered: Wells/OU record, Florida's 36-1 home record, Arkansas WCWS drought, UCF Cinderella, Alabama pitching.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** All six Game 1 results.
+
+### Story 6: Bold WCWS Picks — Eight Spots Before Super Regionals Decide Everything
+- **Angle:** NEW STORY (analysis). Bold predictions for all 8 series. Chalk: TN, NEB, OU, FL, ALA, TEX advance. Upset picks: Duke over Arkansas (Deifel 0-for-5 in SRs), UCF over UCLA (road momentum). Analysis piece.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** How accurate were the picks?
+
+---
+
 ## May 20, 2026
 
 ### Story 1: Kendall Wells — One HR From Breaking the All-Time NCAA Record

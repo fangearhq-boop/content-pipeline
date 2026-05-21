@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-21
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (68 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
+- **Dashboard Published**: Local only
+- **GitHub Pages Status**: n/a (PAT scope limitation known)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required).
+- **Key Stories**: Tennessee (45-10) hosts Georgia (40-18) in Knoxville tonight 7 PM ET ESPN2/4th consecutive SR host first in NCAA history/Pickens on mound (Tier 1), Nebraska (49-6) first-ever SR host tonight 9 PM ET ESPN2/Frahm vs Neylan former travel ball teammates/13-year WCWS drought (Tier 1), Wells 37 HRs tied all-time record/OU opens Friday 1 PM ESPN2 vs Miss State (Tier 2), Georgia Fisher CG shutout Regional Final/upset bid in Knoxville (Tier 2), Friday full card 6 SR openers preview/Florida-TTech/Alabama-LSU/UCF-UCLA/Texas-ASU/Arkansas-Duke (Tier 2), Bold WCWS picks — Duke and UCF as upset picks (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-20
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (96 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
 - **Dashboard Published**: Local only
