@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-19
+- **Date**: 2026-05-21
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-21
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-21.xlsx (6 posts) + f1fr-postplanner-tobi-2026-05-21.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-21/review-dashboard.html (26 items)
+- **Notes:** Canada GP sprint weekend starts tomorrow (first-ever sprint at Gilles Villeneuve); Antonelli 100 pts, 20 ahead of Russell, chasing 4-for-4; Hamilton dumps simulator (China P3 was no-sim race); Norris/McLaren won Miami Sprint (first non-Mercedes 2026 win); Verstappen back from Nurburgring DNF heartbreak (30+ sec lead, driveshaft failure 3hr from end); Sprint Quali Fri May 22 9:30 PM ET, Sprint Sat May 23 5 PM ET, Quali Sat 9 PM ET, Race Sun May 24
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-19
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

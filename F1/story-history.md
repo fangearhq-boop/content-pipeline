@@ -2,6 +2,36 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-21
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Canada GP sprint weekend preview — first-ever sprint at Circuit Gilles Villeneuve; Sprint Quali Fri May 22 9:30 PM ET, Sprint Sat May 23 5 PM ET, Quali Sat 9 PM ET, Race Sun May 24; Antonelli 100 pts leads Russell by 20; Verstappen back; McLaren upgrades; rain forecast Sun | 1 | FOLLOW-UP |
+| 2 | Antonelli 4-for-4 chase — 3 poles/3 wins (Shanghai, Suzuka, Miami); first F1 driver to convert first 3 career poles into wins; 100 pts, 20 ahead of Russell; Canada tests if dominance continues | 1 | FOLLOW-UP |
+| 3 | Hamilton no-simulator gamble — dropped Ferrari simulator before Canada after Miami correlations wrong; "took me in wrong direction"; China P3 (best result) was only race without sim; trusting instinct for Montreal | 2 | FOLLOW-UP |
+| 4 | McLaren Canada threat — Norris won Miami Sprint (McLaren 1-2 with Piastri), first non-Mercedes 2026 win; more upgrades for Canada; rain forecast; Montreal historically difficult for McLaren but trajectory pointing up | 2 | NEW STORY |
+| 5 | Verstappen returns from Nurburgring DNF — led 24H by 30+ sec, driveshaft failure 3hr from end, no crash/contact; #80 Mercedes-AMG crew won; returns to Red Bull for Canada motivated | 2 | FOLLOW-UP |
+
+### STORY 1: Canada GP Sprint Weekend Preview
+- **Tier:** 1
+- **Key facts:** Circuit Gilles Villeneuve, Montreal. First-ever sprint format at this circuit. Sprint Qualifying: Fri May 22, 9:30 PM ET. Sprint: Sat May 23, 5 PM ET. Qualifying: Sat May 23, 9 PM ET. Race: Sun May 24. Antonelli 100 pts, Russell 80 pts. McLaren upgrades. Verstappen returns. Rain forecast Sunday.
+
+### STORY 2: Antonelli Championship Campaign
+- **Tier:** 1
+- **Key facts:** Antonelli leads with 100 pts, 20 ahead of Russell (80 pts). Won from pole in Shanghai, Suzuka, and Miami — first driver ever to convert first 3 career poles to wins. Canada is chance for 4-for-4. Russell won from pole at Canada in 2025.
+
+### STORY 3: Hamilton No-Simulator Gamble
+- **Tier:** 2
+- **Key facts:** Hamilton not using Ferrari simulator before Canada. Said it "took me in the wrong direction" at Miami — set-up from sim didn't correlate with real track. China P3 (best result of 2026) was the only race without simulator prep. Will still attend factory meetings.
+
+### STORY 4: McLaren Canada Threat
+- **Tier:** 2
+- **Key facts:** Norris won Miami Sprint — McLaren 1-2 with Piastri — first non-Mercedes win of 2026. McLaren brought upgrades to Miami and has more for Canada. Norris/Piastri collision at Canada in P4 battle in 2025. Rain forecast Sunday could help McLaren.
+
+### STORY 5: Verstappen Nurburgring Return
+- **Tier:** 2
+- **Key facts:** Verstappen competed in Nurburgring 24H with Mercedes-AMG GT3. Team led by 30+ seconds with 3 hours left. Driveshaft failure — no crash or contact (team confirmed). #80 crew (Engel, Stolz, Schiller, Martin) won overall. Verstappen returns to Red Bull RB22 for Canada.
+
 ## 2026-05-17
 
 | # | Story | Tier | Tag |
