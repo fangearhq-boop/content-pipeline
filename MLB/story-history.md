@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-21
+
+### Story 1: Gerrit Cole Returns Friday — Yankees Ace Ends 569-Day Wait
+- **Angle:** NEW STORY. Cole starts Friday May 22 vs Tampa Bay Rays — first MLB start since Game 5 of 2024 World Series (569 days). Tommy John surgery March 2025. Most recent Triple-A start: 86 pitches, 5.1 IP, averaged 97 mph, peaked 99.6 mph. Yankees 30-20 need their ace. Age 35. Called it after Triple-A: "I'm ready."
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Cole's actual Friday start result; velocity and performance vs. Rays.
+
+### Story 2: Ramírez 8 Home Runs From the 300-300 Club
+- **Angle:** FOLLOW UP (Ramírez 300-300 chase covered May 18-19). Now ~8 HRs from joining Mays, Bonds, A-Rod, Beltran, Dawson, Sanders, Finley, Bobby Bonds — 8 members all-time. Reached 300 SBs May 2 (13th of season). 1st Guardian to HR vs all 29 teams (April 11). Set Guardians all-time games played record (1,620, April 6). 2nd in franchise history with 300 SBs after Lofton.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** When Ramírez hits HR No. 300 — it's historic.
+
+### Story 3: Kyle Schwarber's 60-HR Question
+- **Angle:** FOLLOW UP (Schwarber pace covered May 19-20). 20 HRs by May 15 — earliest in MLB history. Previous record: Luis Gonzalez May 17, 2001. On pace for 66+ HRs. 60-HR club: Bonds (73), McGwire (70), Sosa (66, 64, 63) — only 3 players ever. 8th player with 20 HR in first 45 games.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Does Schwarber reach 25 before June? Does pace hold?
+
+### Story 4: Nick Kurtz and the Walk Patience Story
+- **Angle:** NEW STORY. Oakland's first baseman leads MLB with 33 walks. Most walks before May since Harper (38) in 2018. 20-game consecutive walk streak (tied Barry Bonds — 2nd all-time; Cullenbine holds record at 22, Detroit 1947). .270 avg/5 HR/29 BB during streak. 55.3% strike rate — pitchers throwing strikes and he's still walking. On-base streak 25+ games.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Can Kurtz sustain this walk rate? When does his streak approach Cullenbine's record?
+
+### Story 5: Shohei Ohtani's May Puzzle
+- **Angle:** NEW STORY. Ohtani season: .240 BA, 7 HR, 17 RBI, 5 SB. May specifically: ~.111 BA, 0 HR. But pitching: 34 K, 4 ER in ~30 IP. The two-way paradox — elite mound, cold bat. Dodgers' most expensive player going through May slump as hitter while his pitching carries them.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Does Ohtani's bat return in June? How does Dodgers' record track?
+
+### Story 6: Thursday Night MLB Watch Guide
+- **Angle:** NEW STORY (Tier 3 preview). Yankees-Rays (Cole return preview), Phillies (Schwarber watch), Guardians (Ramírez chase), Dodgers-Padres NL West.
+- **Content Produced:** X (1 post), FB (long-form + caption)
+- **Follow-ups:** N/A
+
+---
+
 ## 2026-05-20
 
 ### Story 1: James Wood Inside-the-Park Grand Slam — First in MLB Since 2022

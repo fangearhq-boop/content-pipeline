@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-21
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 1 char violation fixed S2T2 284→277 before compile; 0 violations after fix), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (35 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
+- **Dashboard Published**: Local only
+- **GitHub Pages Status**: n/a (PAT scope limitation known)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required). 1 char violation fixed (S2T2 284→trimmed).
+- **Key Stories**: Gerrit Cole returns Friday vs Rays/569 days since last MLB start (2024 World Series G5)/Tommy John surgery March 2025/97 mph avg in Triple-A/99.6 mph peak/Yankees 30-20 (Tier 1), Ramírez ~8 HRs from 300-300 club/300 SBs reached May 2/8 members all-time: Mays Bonds A-Rod Beltran Dawson Sanders Finley B.Bonds (Tier 1), Schwarber 20 HRs by May 15 earliest MLB history/on pace 66+ HRs/60-HR club: Bonds McGwire Sosa only 3 ever (Tier 2), Nick Kurtz leads MLB 33 walks/20-game walk streak tied Bonds 2nd all-time/Cullenbine record 22/55.3% strike rate (Tier 2), Ohtani May slump .111 0 HR/but pitching elite 34 K 4 ER 30 IP (Tier 2), Thursday MLB watch guide (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-20
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (30 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
 - **Dashboard Published**: Local only
