@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-21",
+  "compiled_at": "2026-05-21T09:20:07.566876+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Brewers 5-0 recap — Harrison 11 K, sweep complete",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Division take — Cubs 29-21, Brewers 29-18, 1.5 GB",
+      "type": "Bold take"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Cabrera blister — four starters now unavailable",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Boyd ahead of schedule — mound session Saturday",
+      "type": "Bold/Upbeat"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Peralta trade clock — 11 days to June 1",
+      "type": "Analytical/Bold"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Iowa 8-game skid, Noland scare, Kepley HR",
+      "type": "Informative"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Brewers 5-0 Sweep — Harrison Dominant, Cabrera Exits with Blister",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Kyle Harrison (11 K, 7 IP, 2 H) was dominant in Game 3. Edward Cabrera left after 3+ innings with a blister. Cubs committed 3 errors. Nine losses in 11 games, five-game losing streak. Brewers outscored Cubs 19-5 across the series. Cubs fall to 29-21, 1.5 GB behind Brewers (29-18).",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Brewers 5, Cubs 0. The Brewers swept Wrigley — outscoring the Cubs 19-5 across three games. Harrison: 7 IP, 2 hits, 11 strikeouts.\n\nCabrera exits with a blister after 3 innings. Five straight losses. Cubs 1.5 games back.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative — game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Brewers 5-0 Sweep Complete — Cubs' Five-Game Slide\n**Type:** NEW STORY (game 3 recap)\n**Sources:** ESPN game recap, CBS Sports box score, Bleacher Nation enhanced box score, Fox6 Milwaukee\n**Key facts:**\n- Final score: Brewers 5, Cubs 0 [HIGH — ESPN + CBS Sports + Bleacher Nation + Fox Sports]\n- Kyle Harrison starting pitcher (Brewers): 7 IP, 2 H, 1 BB, 11 K [HIGH — multiple sources]\n- Harrison improved to 5-1 on the season [HIGH — derived: was 4-1 before start]\n- Harrison ERA reportedly 1.77 after game [MEDIUM — single AI summary; was 2.09 before]\n- Edward Cabrera (Cubs starter): exited after 3+ innings with blister on right middle finger [HIGH — AP wire in multiple outlets]\n- Cabrera exited after one pitch in the 4th inning (92.5 mph fastball to Joey Ortiz) [MEDIUM — Heavy.com]\n- Cubs committed 3 errors [HIGH — ESPN, CBS Sports]\n- David Hamilton: 3 hits, 2 runs scored [MEDIUM — single search result]\n- Jake Bauers: RBI single in 3rd, extended hitting streak to career-high 11 games [MEDIUM — single AI summary]\n- Cubs: 9th loss in 11 games, 5th consecutive loss [HIGH — ESPN, CBS]\n- Series score across 3 games: Brewers 19, Cubs 5 [HIGH — derived from 9-3, 5-2, 5-0]\n- First Brewers sweep at Wrigley since 2021 [MEDIUM — Fox6 Milwaukee]\n**Follow-up:** Next series vs Astros May 22–24; Cabrera blister timeline; Cubs' response to slide",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Fall to 1.5 GB — Division Has a New Leader",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Bold take on the division shift. Same win total (29) but Brewers have 3 fewer losses. Series run differential (19-5) shows this wasn't competitive. Cubs need to reassert themselves starting Friday vs Astros.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Milwaukee outscored the Cubs 19-5 in three games at Wrigley. The Brewers are 29-18. The Cubs are 29-21.\n\nThis isn't a blip. The division has a new leader — and Chicago needs to start playing like they belong in first place.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take — division analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Fall to 1.5 GB — Division Has a New Leader\n**Type:** NEW STORY (bold division take)\n**Sources:** Derived from established records + game 3 result\n**Key facts:**\n- Cubs record after sweep: 29-21 [HIGH — derived from 29-20 pre-game + 1 loss]\n- Brewers record after sweep: 29-18 [HIGH — derived from 28-18 pre-series opener games 2 end + 1 win in game 3]\n- Cubs 1.5 GB behind Brewers [HIGH — derived: ((21-18)-(29-29))/2 = 1.5]\n- Brewers have been 14-4 over last 18 games [MEDIUM — single ESPN source]\n- Series run differential: Brewers outscored Cubs 19-5 across 3 games [HIGH — derived]\n**Follow-up:** Standings update after Astros series; Cardinals gap",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cabrera Blister — Rotation Depth Hits Crisis Level",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cabrera's blister exit is not catastrophic alone — but stacked with Horton (2027), Steele (August), and Boyd (6 weeks), the Cubs are now running on a skeleton rotation. Next start tentatively May 26, uncertain. Makes the Peralta trade case even sharper.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cabrera left Wednesday with a blister on his right middle finger. His next start — tentatively May 26 — is uncertain.\n\nThe Cubs now have Horton (2027), Steele (August), Boyd (six weeks), and a Cabrera question mark — all at once.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative — injury/rotation update",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cabrera Blister — Rotation Depth at Crisis Level\n**Type:** NEW STORY (injury angle)\n**Sources:** Heavy.com, AP wire (DailyGazette, kdhnews), FanSided, North Side Baseball\n**Key facts:**\n- Cabrera: blister on right middle finger, exited May 20 vs Brewers after 3+ innings [HIGH — AP wire multiple outlets]\n- Next start tentatively May 26 — unclear if he will make it [MEDIUM — Heavy.com]\n- Rotation status simultaneously: Horton out until 2027, Steele until August, Boyd 4–6 weeks, Cabrera uncertain [HIGH — established across multiple pipeline runs]\n- Four starters unavailable at the same time [HIGH — derived]\n**Follow-up:** Cabrera IL status; Cubs likely callup options; Peralta trade urgency",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Boyd Ahead of Schedule — Mound Session Saturday, Bullpen Next Week",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Genuinely good news in a sea of bad. Boyd is throwing pain-free and progressing faster than the 4–6 week estimate. Mound session Saturday (May 23), bullpen session next week. Counsell quoted as saying Boyd will progress at a very good pace.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Matt Boyd is ahead of schedule. Throwing pain-free, mound session Saturday, bullpen next week.\n\nCounsell says Boyd is progressing at a very good pace. This rotation needed good news.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold/Upbeat — recovery news",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Boyd Recovery Ahead of Schedule\n**Type:** FOLLOW-UP (Boyd recovery arc from May 18–20)\n**Sources:** Yardbarker, ChiCity Sports (both citing Counsell/team sources)\n**Key facts:**\n- Boyd underwent meniscus surgery (left knee) — established May 20 [HIGH]\n- Boyd is throwing pain-free [MEDIUM — Yardbarker single source]\n- Plans mound session Saturday (May 23) [MEDIUM — single source]\n- Bullpen session expected next week [MEDIUM — single source]\n- Counsell quote: Boyd doing everything \"at a little bit more effortless and pain-free than expected\" [MEDIUM — paraphrase from single source; not directly from primary transcript]\n- Counsell: \"he's going to progress at a very good pace\" [MEDIUM — single source]\n- Original timeline was 4–6 weeks; suggesting potential return ahead of schedule [MEDIUM — implied by \"ahead of schedule\" framing from sources]\n**Cross-reference needed:** Verify Counsell quote from a second source before marking HIGH. Current: MEDIUM.\n**Follow-up:** Mound session result (Saturday May 23); formal activation timeline",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Peralta Trade Clock — 11 Days to June 1",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Mets' June 1 decision window now 11 days out. Cabrera blister makes the urgency fresh today. Cubs have discussed Peralta with Mets; no formal deal yet. 3.12 ERA, pending free agent, Counsell connection from Milwaukee. The rotation cannot wait for Boyd to return.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Freddy Peralta. 3.12 ERA. Pending free agent. Counsell knows him from Milwaukee.\n\nThe Mets' June 1 decision point is 11 days out. The Cubs' rotation just lost another arm to a blister. The case for this trade has never been stronger.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analytical/Bold — trade analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Peralta Trade Clock — 11 Days to June 1\n**Type:** FOLLOW-UP (ongoing arc since May 14; last covered May 20)\n**Sources:** MLB Trade Rumors, Yahoo Sports, Yardbarker, FanSided, ClutchPoints, BVM Sports\n**Key facts:**\n- Mets' June 1 decision point: either make the race or move Peralta [HIGH — multiple outlets]\n- June 1 is 11 days from May 21 [HIGH — arithmetic]\n- Cubs have contacted Mets about Peralta availability [HIGH — multiple outlets including MLB Trade Rumors]\n- No formal deal structured yet [MEDIUM — MLB Trade Rumors caveat]\n- Peralta ERA: 3.12 [HIGH — established across multiple prior pipeline runs]\n- Craig Counsell managed Peralta in Milwaukee for multiple seasons [HIGH — established]\n- Peralta is a pending free agent (rental) [HIGH — established]\n- Proposed return: Jaxon Wiggins (top Cubs prospect) in one scenario [MEDIUM — single source fan analysis]\n**Follow-up:** Mets' June 1 decision; any trade news",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Iowa Cubs Drop 8th Straight — Noland Ankle Scare, Kepley Homers",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Iowa on an 8-game losing streak after losing 6-3 to Memphis. Connor Noland carted off after line drive hit his ankle — status unknown. Kane Kepley's 3-run HR in the seventh is the lone bright spot. Off-day prospect coverage.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Iowa dropped their eighth straight game Wednesday, 6-3 to Memphis. Connor Noland was carted off after a comebacker hit his ankle — status unknown.\n\nKane Kepley homered in the seventh for the lone bright spot in a rough stretch.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative — prospect/minor league update",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Iowa Cubs 8-Game Losing Streak — Noland Ankle Scare, Kepley HR\n**Type:** NEW STORY (off-day prospect update)\n**Sources:** Bleacher Nation (May 20), Bleed Cubbie Blue\n**Key facts:**\n- Iowa dropped 8th straight game on May 20: 6-3 loss to Memphis Redbirds [MEDIUM — Bleacher Nation headline]\n- Connor Noland: carted off mound after ankle struck by line drive comebacker; status unknown [MEDIUM — Bleed Cubbie Blue AI summary]\n- Kane Kepley: hit 2nd HR of season (3-run shot in 7th inning) [MEDIUM — Bleacher Nation]\n- Kaleb Wing promoted from ACL Cubs to Low-A Myrtle Beach [MEDIUM — single mention]\n- James Triantos also in Iowa lineup (mentioned in Bleed Cubbie Blue article title)\n**Cross-reference needed:** Noland ankle injury not yet confirmed from second source. Tweet will note \"status unknown.\"\n**Follow-up:** Noland injury status; Iowa's losing streak end",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

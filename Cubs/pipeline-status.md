@@ -1,6 +1,15 @@
 # Cubs Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-21 (full pipeline run)
+- **Steps Completed**: Step 0 (insights loaded from Cubs/_data/insights.json, 6 significant findings, generated_at 2026-05-21T08:30 UTC), Step 0.5 (series context loaded, off_day=true confirmed), Research (14 searches, 7 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log (24 claims checked, 17 HIGH, 7 MEDIUM, 0 LOW, 0 corrections), compile-content-data.py (all clear, 0 warnings), generate-review-dashboard.py, publish-unified-dashboard.py (generated locally; push to content-dashboards repo FAILED 403 — recurring issue)
+- **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-21/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
+- **GitHub Pages Status**: N/A for this run (push rejected — content-dashboards separate repo not in PAT scope)
+- **Issues**: (1) publish-unified-dashboard.py push rejected 403 (same recurring issue — content-dashboards not in PAT scope). Core deliverable (07-content-data.json) compiled and pushed to content-pipeline repo for cubs-x-bot. (2) Boyd recovery details (Counsell quote, mound session Saturday) single-source MEDIUM; hedge language used in tweet. (3) Noland ankle injury single-source; "status unknown" qualifier used.
+- **Insights applied**: Loaded from local snapshot (generated_at: 2026-05-21T08:30 UTC). 6 significant findings applied: (1) rss_news loser → all posts brief type ✓; (2) len_bucket=140-200 loser → all tweets outside 140-200 range (244/248/255/211/259/253) ✓; (3) overnight_00_06 loser → no overnight slots ✓; (4) has_emoji_first_line loser=True → NO leading emojis on any tweet ✓; (5) content_type=brief winner → all posts brief ✓; (6) has_score=True winner → "Brewers 5, Cubs 0" in first line of Story 1 recap ✓.
+- **Key stories**: Brewers 5-0 Harrison 11K sweep at Wrigley Cubs 29-21 (P10), division take Brewers 29-18 1.5 GB new leader (P9), Cabrera blister four starters unavailable at once (P9), Boyd ahead of schedule mound session Saturday (P8), Peralta clock 11 days June 1 (P8), Iowa 8-game skid Noland ankle scare Kepley HR (P6)
+
+## Previous Run
 - **Date**: 2026-05-20 (full pipeline run)
 - **Steps Completed**: Step 0 (insights loaded from Cubs/_data/insights.json, 6 significant findings), Step 0.5 (series context loaded, mid-series Game 3), Research (11 searches, 7 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log (18 claims verified, 1 single-source flag), compile-content-data.py (all clear, 0 warnings), generate-review-dashboard.py, publish-unified-dashboard.py (generated locally; push to content-dashboards repo FAILED 403 — recurring issue)
 - **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-20/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
@@ -120,6 +129,17 @@ to mark them as pipeline-produced.
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-21
+- Stories: 6 (Tier 1: brewers-sweep-recap, division-take, cabrera-blister; Tier 2: boyd-recovery, peralta-clock; Tier 3: iowa-prospects) — X-only niche, OFF DAY
+- X posts: 6 (3 informative / 3 bold-analytical = 50/50 mix)
+- Char counts: 244/248/255/211/259/253 — all ≤280, all outside 140-200 range (insights-tuned)
+- Fact-check: Manual verification. 24 claims checked, 17 HIGH confidence, 7 MEDIUM, 0 corrections. MEDIUM flags: Harrison ERA 1.77 (single source, not in tweet), Boyd recovery details (Counsell quote + mound session plan, single source, hedge language used), Noland ankle injury (single source, "status unknown" qualifier), Iowa 8-game streak count (Bleacher Nation headline consistent with prior reports).
+- Insights applied: 6/6 significant findings applied. Key changes: no leading emojis (overrides brand-voice), all tweets 211-259 chars (avoiding 140-200 penalty bucket), score in first line of recap post.
+- Dashboard: Generated locally (Cubs/cubs-content-2026-05-21/review-dashboard.html). Publish to content-dashboards FAILED (403 — same recurring issue, PAT doesn't cover content-dashboards repo).
+- 07-content-data.json: ✓ Compiled, 6 stories, 6 x_posts with posting_time in "H:MM AM/PM CT" format, 0 errors, 0 warnings
+- Key stories: Brewers 5-0 Harrison 11K sweep at Wrigley Cubs 29-21 5-game skid (P10), division take Brewers 29-18 1.5 GB (P9), Cabrera blister all four starters unavailable at once (P9), Boyd ahead of schedule mound session Sat bullpen next wk (P8), Peralta June 1 11 days rotation crisis (P8), Iowa 8 straight losses Noland ankle Kepley HR (P6)
+- Notes: Off day. series-context confirmed off_day=true. Insights snapshot loaded from Cubs/_data/insights.json (6 significant findings, generated_at 2026-05-21T08:30 UTC). Game 3 result (Brewers 5-0 sweep) confirmed via ESPN, CBS Sports, Bleacher Nation, Fox Sports.
 
 ### 2026-05-20
 - Stories: 6 (Tier 1: misiorowski-recap, slide-analysis; Tier 2: boyd-surgery, game3-preview, peralta-clock, game-time-hype) — X-only niche

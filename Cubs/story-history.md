@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-21
+
+### STORY 1: Brewers 5-0 Sweep — Harrison Dominant, Cabrera Exits with Blister
+- **Angle:** NEW STORY. Kyle Harrison: 7 IP, 2 H, 1 BB, 11 K (improved to 5-1). Cabrera left after 3+ innings with blister on right middle finger (next start uncertain). Cubs committed 3 errors. Brewers outscored Cubs 19-5 across 3 games. Cubs 29-21, Brewers 29-18 (1.5 GB). Five straight losses, nine of last eleven.
+- **Content Produced:** X (1 post — 7:00 AM CT)
+- **Follow-Up:** Cabrera IL status; Cubs response to slide vs Astros (May 22–24)
+
+### STORY 2: Cubs 29-21, Brewers 29-18 — Division Has a New Leader
+- **Angle:** NEW STORY (bold division take). Cubs fell to 29-21. Brewers 29-18. Same wins (29) but Brewers 3 fewer losses = 1.5 GB gap. Brewers 14-4 in last 18. Division leadership has shifted. Cubs need to respond starting Friday vs Astros.
+- **Content Produced:** X (1 post — 8:15 AM CT)
+- **Follow-Up:** Standings check after Astros series; Cardinals gap
+
+### STORY 3: Cabrera Blister — Four Starters Unavailable Simultaneously
+- **Angle:** NEW STORY. Cabrera exited May 20 with blister on right middle finger. Next start (tentatively May 26) uncertain. Stacked with Horton (2027), Steele (August), Boyd (6 weeks), rotation is at crisis depth.
+- **Content Produced:** X (1 post — 9:30 AM CT)
+- **Follow-Up:** Cabrera IL move; callup options; Peralta trade
+
+### STORY 4: Boyd Ahead of Schedule — Mound Session Saturday, Bullpen Next Week
+- **Angle:** FOLLOW-UP (Boyd recovery arc from May 18–20). Boyd throwing pain-free; mound session Saturday May 23; bullpen next week. Counsell: "progressing at a very good pace." Ahead of 4–6 week estimate.
+- **Content Produced:** X (1 post — 10:45 AM CT)
+- **Follow-Up:** Mound session result; formal activation timeline
+
+### STORY 5: Peralta Trade Clock — 11 Days to June 1
+- **Angle:** FOLLOW-UP (Peralta arc from May 14–20; new hook: Cabrera blister sharpens urgency). June 1 = 11 days out. Cubs have contacted Mets; no formal deal. 3.12 ERA, Counsell connection, pending FA. Rotation depth demands action.
+- **Content Produced:** X (1 post — 12:00 PM CT)
+- **Follow-Up:** Mets' June 1 decision; any trade news
+
+### STORY 6: Iowa Cubs Drop 8th Straight — Noland Ankle Scare, Kepley HR
+- **Angle:** NEW STORY (off-day prospect update). Iowa 8-game losing streak; lost 6-3 to Memphis May 20. Connor Noland carted off after comebacker hit his ankle — status unknown. Kane Kepley HR in 7th (2nd of year).
+- **Content Produced:** X (1 post — 3:45 PM CT)
+- **Follow-Up:** Noland ankle status; Iowa's streak
+
+---
+
 ## 2026-05-20
 
 ### STORY 1: Brewers 5, Cubs 2 — Misiorowski's 24.1 Scoreless Innings, Four Straight Losses
