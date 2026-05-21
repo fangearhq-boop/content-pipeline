@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-21
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks 115-104 Cavs ECF G1 OT (May 19, MSG) — Brunson 38 pts/15 in 4th quarter/6 ast/5 reb/3 stl; down 93-71 with 7:52 left, 44-11 run; Mitchell 29 but last bucket at 8:19; Harden 1-of-8 from 3/6 TOs; Knicks OT 14-3; ECF 1-0 NYK; G2 tonight 8 PM ET MSG ESPN | 1 | NEW STORY |
+| 2 | Thunder 122-113 Spurs WCF G2 (May 20, Paycom) — SGA 30 pts/9 ast/+14/50% FG; Wemby 21/17reb; Castle 28/8ast; Spurs 21 TOs vs Thunder 9; series tied 1-1; G3 Fri May 22 8:30 PM ET SA NBC/Peacock | 1 | NEW STORY |
+| 3 | WCF injury watch — Williams (hamstring, left G2 first half; same injury that cost him 6 playoff games); Harper (right leg, left G2 third quarter, 2 awkward landings); Fox (right ankle, missed G1+G2); no post-game updates; all uncertain for G3 | 2 | NEW STORY |
+| 4 | ECF G2 preview TONIGHT — Cavs at Knicks 8 PM ET MSG ESPN; Cleveland must fix Harden (targeted in 4Q, 1-of-8 from 3, 6 TOs); Mitchell must stay active late; Brunson will attack same formula; Knicks lead 1-0 | 2 | NEW STORY |
+| 5 | WCF G3 preview — Series tied 1-1, shifts to AT&T Center SA; Fri May 22 8:30 PM ET NBC/Peacock; Spurs won reg season series 4-1; Wemby 62 pts/41 reb in 2 WCF games; Spurs potentially without Fox/Harper/Williams | 2 | NEW STORY |
+
+### STORY 1: Knicks 115-104 Cavaliers — ECF Game 1, OT
+- **Tier:** 1
+- **Category:** Playoff Results / Historic Comeback
+- **Key facts:** Knicks 115, Cavaliers 104 (OT, May 19, MSG). Brunson: 38 pts (15-of-29 FG, 1-of-6 from 3), 15 pts in 4th quarter (7-of-9), 6 ast, 5 reb, 3 stl. Cavs led 93-71 with 7:52 left. 44-11 Knicks run. Brunson floater tied game, OT 14-3 Knicks. Mitchell: 29 pts, last bucket at 8:19. Mobley: 15 pts/14 reb. Harden: 5-of-16 FG, 1-of-8 from 3, 6 TOs. Knicks targeted Harden. ECF: NYK 1-0. G2: May 21 (tonight), 8 PM ET, MSG, ESPN.
+
+### STORY 2: Thunder 122-113 Spurs — WCF Game 2
+- **Tier:** 1
+- **Category:** Playoff Results / Conference Finals
+- **Key facts:** Thunder 122, Spurs 113 (May 20, Paycom Center). SGA: 30 pts, 9 ast, 2 blk, 1 stl, 50% FG, +14. Castle: 28 pts, 8 ast (starting for Fox). Wemby: 21 pts, 17 reb. Spurs 21 TOs vs. Thunder 9. Series tied 1-1. G3: Fri May 22, 8:30 PM ET, AT&T Center, SA, NBC/Peacock.
+
+### STORY 3: WCF Injury Watch — Williams, Harper, Fox
+- **Tier:** 2
+- **Category:** Injury/News
+- **Key facts:** Jalen Williams (hamstring tightness, left G2 first half, same left hamstring that cost him 6 playoff games). Dylan Harper (right leg, left G2 third quarter, awkward landing twice on right leg). De'Aaron Fox (right high ankle sprain, missed G1+G2, day-to-day). No post-game injury updates from either team. G3 status unclear.
+
+### STORY 4: ECF Game 2 Preview
+- **Tier:** 2
+- **Category:** Game Preview / ECF
+- **Key facts:** May 21 (tonight), 8 PM ET, MSG, ESPN. Knicks lead 1-0. Cavs must fix Harden (1-of-8 from 3, 6 TOs in G1). Mitchell must stay engaged late. Brunson will attack same formula. Mitchell: 29 pts in G1 but last bucket at 8:19.
+
+### STORY 5: WCF Game 3 Preview
+- **Tier:** 2
+- **Category:** Game Preview / WCF
+- **Key facts:** Series tied 1-1. G3: Fri May 22, 8:30 PM ET, AT&T Center, SA, NBC/Peacock. Spurs won reg season series 4-1. Wemby: 62 pts/41 reb in 2 WCF games. Spurs potentially without Fox, Harper, Williams. SGA on a 30-point game.
+
 ## 2026-05-17
 
 | # | Story | Tier | Tag |
