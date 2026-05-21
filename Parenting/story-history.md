@@ -2,6 +2,45 @@
 
 ---
 
+## May 21, 2026
+
+### Story 1: D11 Final Graduation Day — Achieve, Tesla, Bijou, Odyssey Today
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW UP (Coronado/Mitchell May 20; Palmer May 19) — Achieve High/Tesla STEM/Bijou 9 AM MT; Odyssey 3 PM MT; all Ed Robson Arena; D11 last day May 22; d11.org/calendars/graduations
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Achieve/Tesla/Bijou 9 AM; Odyssey 3 PM; Ed Robson Arena, Colorado College; D11 last day May 22; Source: d11.org/calendars/graduations
+
+### Story 2: D49 Graduation Weekend — Falcon, Sand Creek, Vista Ridge at Broadmoor World Arena
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — first D49 graduation coverage this season; Falcon HS 1 PM May 23; Vista Ridge HS 5 PM May 23; Sand Creek HS also May 23; Broadmoor World Arena (3185 Venetucci Blvd); no tickets required; free
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** FHS 1 PM, VRHS 5 PM, SCHS also May 23 at Broadmoor World Arena; first-come first-served; Source: d49.org, FHS/VRHS school pages
+
+### Story 3: CPSC Recall — Vevor Baby Swings (~1,020 Units, Suffocation Risk)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Sanven Technology recalls ~1,020 Vevor baby swings; incline >10 degrees; violates Safe Sleep for Babies Act; suffocation risk; models BB501K/BB702A/BB005K; sold Vevor.com + Amazon Jan-Aug 2025 $65-$80; full refund; different from Cosyland (May 19) and YCXXKJ (May 20)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~1,020 units; BB501K/BB702A/BB005K; suffocation/inclined sleeper ban; stop use, cut cover, recalling@vevor.com; 855-599-6320; Source: CPSC.gov/Recalls/2026
+
+### Story 4: CPSC Recall — Bellabu Bear Sherpa Robes (~1,300 Units, Burn Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Bellabu Bear recalls ~1,300 bamboo sherpa robes; fail flammability standard for children's sleepwear; burn risk; PAW Patrol/Minecraft/Minions/Batman/Wonder Woman prints + seasonal; S/M + M/L; Saks + boutiques + online Jan 2024-Jul 2025 ~$60; full refund or store credit; 888-703-7752; help@bellabubear.com
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** ~1,300 units; BB-NW12109 label; burn hazard (flammability noncompliance); no injuries; Saks + boutiques; Source: CPSC.gov/Recalls/2026, bellabubear.com/pages/recall
+
+### Story 5: COS Memorial Day Weekend Family Guide
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW UP (Territory Days covered May 16 + May 20; splash pads May 20) — consolidated family guide; Territory Days May 23-25 free (50th anniv, C.A.B. Garage $1/hr); D49 grad Saturday; splash pads Panorama/Venezia May 26 free; Deerfield June 1; PPLD Summer Adventure registration open June 2; D11 last day May 22
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** Territory Days May 23-25 Colorado Ave; D49 grad Broadmoor World Arena May 23; splash pads May 26; ppld.org/summer; Source: visitcos.com, parks.coloradosprings.gov, d49.org
+
+---
+
 ## May 20, 2026
 
 ### Story 1: D11 Graduation Day — Coronado and Mitchell Ceremonies Today
