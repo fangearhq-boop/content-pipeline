@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-22
+
+### STORY 1: Series Preview — Cubs Open 3-Game Home Stand vs Houston Astros
+- **Angle:** NEW STORY (is_series_start_today=true — reserved 7:00 AM slot). Cubs (29-21) host Houston Astros (20-31) at Wrigley Field, 1:20 PM CT. Game 1 of 3-game series. Astros arrive with 9 players on the IL (Correa out for the season with ankle surgery, Peña, Hader, Brown also out). Spencer Arrighetti (5-1, 1.50 ERA) starts for Houston vs Jameson Taillon (2-3, 4.97 ERA). Lead with matchup, kicker is Arrighetti as the one legitimate threat.
+- **Content Produced:** X (1 post — 7:00 AM CT)
+- **Follow-Up:** Game 1 result; Taillon line; Arrighetti performance
+
+### STORY 2: Bold Take — The Astros Are the Perfect Bounce-Back Opponent
+- **Angle:** NEW STORY. After being outscored 19-5 by Milwaukee, Cubs face the most injury-depleted team in baseball. Astros scored 5 runs in last 4 games combined. Correa done for the year. 20-31 record, 10 games under .500. Frame as reset opportunity they have no excuse to waste.
+- **Content Produced:** X (1 post — 8:15 AM CT)
+- **Follow-Up:** Series results; whether Cubs capitalize on depleted opponent
+
+### STORY 3: Rotation Crisis — Cabrera TBD, Peralta Clock at 10 Days
+- **Angle:** FOLLOW-UP (Cabrera blister from May 20-21; Peralta arc from May 14-21; new hook: Taillon starts today as the only healthy arm, 10 days to June 1 Mets pivot date). Cabrera next start (tentatively May 26) still TBD. Four rotation spots compromised: Horton (2027), Steele (August), Boyd (recovering), Cabrera (?).
+- **Content Produced:** X (1 post — 9:30 AM CT)
+- **Follow-Up:** Cabrera IL move; Mets June 1 Peralta decision; any trade news
+
+### STORY 4: Boyd Good News — Mound Session Tomorrow, Ahead of Schedule
+- **Angle:** FOLLOW-UP (Boyd recovery arc from May 17-21; new hook: mound session is TOMORROW Saturday May 23). Boyd throwing pain-free, ahead of 4-6 week post-meniscectomy timeline. Late June return increasingly realistic. Doctor evaluation end of weekend.
+- **Content Produced:** X (1 post — 10:45 AM CT)
+- **Follow-Up:** Saturday mound session result; doctor evaluation outcome; formal activation timeline
+
+### STORY 5: Game Preview — Taillon vs Arrighetti, 1:20 PM CT
+- **Angle:** NEW STORY (game day preview). Concrete matchup framing: Arrighetti (5-1, 1.50 ERA, .173 opp BA, 7 starts) vs Taillon (2-3, 4.97). Cubs -141 favorites. Astros lineup gutted by injuries. First pitch 1:20 PM CT, Wrigley Field.
+- **Content Produced:** X (1 post — 12:00 PM CT)
+- **Follow-Up:** Game 1 result; Taillon start quality; Arrighetti performance
+
+### STORY 6: Iowa Cubs Prospects — Alcántara Walk-Off Snaps Eight-Game Skid
+- **Angle:** NEW STORY. Iowa Cubs snapped eight-game losing streak Wednesday (May 21) with walk-off win vs Memphis Redbirds. Kevin Alcántara credited as walk-off hero (Bleacher Nation headline; MEDIUM confidence). Owen Ayers homered for Tennessee Smokies. Connor Noland ankle update still pending.
+- **Content Produced:** X (1 post — 3:45 PM CT)
+- **Follow-Up:** Iowa's follow-up results; Noland ankle update; Alcántara continued production
+
+---
+
 ## 2026-05-21
 
 ### STORY 1: Brewers 5-0 Sweep — Harrison Dominant, Cabrera Exits with Blister

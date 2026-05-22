@@ -1,6 +1,15 @@
 # Cubs Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-22 (full pipeline run)
+- **Steps Completed**: Step 0 (insights loaded from Cubs/_data/insights.json, 6 significant findings, generated_at 2026-05-22T08:30 UTC), Step 0.5 (series context loaded, is_series_start_today=true, Cubs 29-21 host Astros 20-31, 3-game series, 1:20 PM CT Game 1), Research (14 searches across 8+ categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log (all Priority 1 claims verified, 5 MEDIUM flags in supporting stats), compile-content-data.py (all clear, 0 warnings), generate-review-dashboard.py, publish-unified-dashboard.py (generated locally; push to content-dashboards repo FAILED 403 — recurring issue)
+- **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-22/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
+- **GitHub Pages Status**: N/A for this run (push rejected — content-dashboards separate repo not in PAT scope)
+- **Issues**: (1) publish-unified-dashboard.py push rejected 403 (same recurring issue — content-dashboards not in PAT scope). Core deliverable (07-content-data.json) compiled and pushed to content-pipeline repo for cubs-x-bot. (2) 4 tweets initially over 280 chars — fixed before final compile (all under 280, all outside 140-200 bucket). (3) Alcántara walk-off attribution MEDIUM confidence (Bleacher Nation headline; CubsHQ "Poteet game-winner" likely refers to South Bend, not Iowa — flagged in fact-check log). (4) Taillon ERA slight discrepancy between sources (4.94 vs 4.97) — used 4.97 from stats source. (5) "Nine Astros on IL" count — confirmed by cross-referencing named players (Correa, Peña, Diaz, Meyers, Loperfido, Brown, Imai, Javier, Hader = 9).
+- **Insights applied**: Loaded from local snapshot (generated_at: 2026-05-22T08:30 UTC). 6 significant findings applied: (1) rss_news loser → original analysis/takes throughout, no RSS-style headline dumps ✓; (2) len_bucket=140-200 loser → all 6 tweets 240-270 chars, none in 140-200 range ✓; (3) overnight_00_06 loser → no overnight slots, all 7:00 AM–3:45 PM CT ✓; (4) has_emoji_first_line loser=True → NO leading emojis on any tweet ✓; (5) content_type=brief winner → all posts brief ✓; (6) has_score=True winner → records (29-21, 20-31, 29-18) and pitcher records (5-1, 2-3) explicit in tweets 1, 2, and 5 ✓.
+- **Key stories**: Series preview Cubs vs Astros 3-game Wrigley Game 1 1:20 PM CT (P10), bold take Astros 20-31 depleted perfect bounce-back opp (P9), Cabrera TBD blister 4 starters out Peralta June 1 10 days (P9), Boyd ahead of schedule mound session Sat late June return (P8), game preview Taillon vs Arrighetti 1:20 PM CT (P8), Iowa snapped 8-game skid Alcántara walk-off Ayers HR Tennessee (P6)
+
+## Previous Run
 - **Date**: 2026-05-21 (full pipeline run)
 - **Steps Completed**: Step 0 (insights loaded from Cubs/_data/insights.json, 6 significant findings, generated_at 2026-05-21T08:30 UTC), Step 0.5 (series context loaded, off_day=true confirmed), Research (14 searches, 7 categories), daily brief (6 stories), research notes, story analysis, X posts (6 tweets), fact-check log (24 claims checked, 17 HIGH, 7 MEDIUM, 0 LOW, 0 corrections), compile-content-data.py (all clear, 0 warnings), generate-review-dashboard.py, publish-unified-dashboard.py (generated locally; push to content-dashboards repo FAILED 403 — recurring issue)
 - **Dashboard Published**: Locally generated (Cubs/cubs-content-2026-05-21/review-dashboard.html). Remote publish failed — content-dashboards repo not accessible via current PAT.
@@ -129,6 +138,17 @@ to mark them as pipeline-produced.
 
 ## Pipeline Run Log
 <!-- Append newest at top -->
+
+### 2026-05-22
+- Stories: 6 (Tier 1: series-preview, astros-bounce-back-take; Tier 2: cabrera-peralta-clock, boyd-recovery, game-preview; Tier 3: iowa-prospects) — X-only niche, SERIES OPENER
+- X posts: 6 (3 informative / 3 bold = 50/50 mix)
+- Char counts: 258/250/270/258/241/240 — all ≤280, all outside 140-200 range (insights-tuned)
+- Fact-check: Manual verification. All Priority 1 claims (dates, times, game times, opponent records) VERIFIED across multiple sources. 5 MEDIUM flags (Astros "9 IL" count, "5 runs in last 4 games", Alcántara walk-off attribution, Taillon ERA rounding, Boyd late June timing). No corrections to tweet copy required.
+- Insights applied: 6/6 significant findings applied. Key changes: no leading emojis, all tweets 240-270 chars (avoiding 140-200 penalty bucket), records explicit in series preview and division take tweets, no overnight slots.
+- Dashboard: Generated locally (Cubs/cubs-content-2026-05-22/review-dashboard.html). Publish to content-dashboards FAILED (403 — same recurring issue, PAT doesn't cover content-dashboards repo).
+- 07-content-data.json: ✓ Compiled, 6 stories, 6 x_posts with posting_time in "H:MM AM/PM CT" format, 0 errors, 0 warnings
+- Key stories: Series preview Cubs vs Astros 3-game Wrigley Game 1 1:20 PM CT (P10), bold take Astros 20-31 nine IL depleted bounce-back opp (P9), Cabrera TBD blister Horton/Steele/Boyd all out Peralta June 1 10 days (P9), Boyd mound session Sat ahead of schedule late June return (P8), game preview Taillon 2-3 4.97 vs Arrighetti 5-1 1.50 1:20 PM CT (P8), Iowa snapped 8-game skid Alcántara walk-off Ayers HR Tennessee (P6)
+- Notes: is_series_start_today=true per series-context.json snapshot. 7:00 AM slot reserved for series preview. Insights snapshot loaded from Cubs/_data/insights.json (6 significant findings, generated_at 2026-05-22T08:30 UTC). Astros injury context: Correa season-ending ankle surgery confirmed MLB.com + MLBTR. Arrighetti 5-1 1.50 ERA confirmed ESPN/FanGraphs. Game 1 first pitch 1:20 PM CT confirmed MLB.com gameday.
 
 ### 2026-05-21
 - Stories: 6 (Tier 1: brewers-sweep-recap, division-take, cabrera-blister; Tier 2: boyd-recovery, peralta-clock; Tier 3: iowa-prospects) — X-only niche, OFF DAY

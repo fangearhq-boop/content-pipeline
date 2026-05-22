@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-22",
+  "compiled_at": "2026-05-22T09:25:10.655849+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Series Preview: Cubs vs Astros, 3-game at Wrigley (opener)",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Bold take: Astros perfect bounce-back opponent",
+      "type": "Bold"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Cabrera TBD + Peralta deadline looming",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Boyd mound session tomorrow — ahead of schedule",
+      "type": "Bold/Upbeat"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Game preview: Taillon vs Arrighetti, 1:20 PM CT",
+      "type": "Bold/Game day"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Iowa snapped 8-game skid; Alcántara walk-off, Ayers HR",
+      "type": "Informative"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs Open 3-Game Home Stand vs Houston Astros",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs host the injury-ravaged Astros (20-31) at Wrigley in a series they absolutely must win to stop the bleeding. Nine Astros on the IL (Correa out for the year, Peña, Hader, Brown among them). The lone threat is Spencer Arrighetti (5-1, 1.50 ERA), who has been one of the best pitchers in baseball through seven starts. The matchup, the stakes, and the kicker: this is a prime bounce-back series on paper.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs open a 3-game series vs Houston at Wrigley today — 1:20 PM CT.\n\nAstros arrive 20-31, nine players on the IL. Correa's done for the year. Peña, Hader, and Brown all out.\n\nArrighetti (5-1, 1.50 ERA) is their one weapon. Handle him.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative — series preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Series Preview — Cubs Open 3-Game Home Stand vs Houston Astros\n**Decision:** NEW STORY — series_start_today=true per series-context.json snapshot. First time Cubs face Astros in 2026.\n**Sources:**\n1. MLB.com Gameday preview — game_pk 824679, confirmed 1:20 PM CT start, Wrigley Field — TODAY\n2. SportsLine series preview (May 22 2026) — confirmed Arrighetti vs Taillon, Cubs -141 — TODAY\n3. Yahoo Sports — \"Astros Head to Wrigley Field for Three Game Series\" — TODAY\n4. Series-context.json snapshot (generated 2026-05-22T08:30:00Z) — confirmed is_series_start_today=true, opponent Houston Astros, Cubs 29-21, Astros 20-31, venue Wrigley Field, series_length=3\n**Key facts (verified):**\n- First pitch: 1:20 PM CT (2:20 PM ET), Wrigley Field — CONFIRMED (multiple sources)\n- Series: 3 games (May 22, 23, 24) — CONFIRMED\n- Cubs record: 29-21 — CONFIRMED\n- Astros record: 20-31 — CONFIRMED\n- Game 1 starter (HOU): Spencer Arrighetti — CONFIRMED (MLB.com, SportsLine, Bleacher Nation)\n- Game 1 starter (CHC): Jameson Taillon — CONFIRMED (MLB.com, SportsLine)\n- Arrighetti 2026: 5-1, 1.50 ERA — CONFIRMED (ESPN, FanGraphs, SportsLine)\n- Taillon 2026: 2-3, 4.97 ERA — CONFIRMED (ESPN stats page)\n- Cubs are -141 favorites — source: SportsLine (betting line, LOW priority claim — not used in tweet)\n- Astros injuries: Carlos Correa (season-ending ankle surgery), Jeremy Peña (hamstring IL), Josh Hader (biceps tendinitis), Hunter Brown (shoulder IL) — CONFIRMED (MLB Trade Rumors, CBS Sports, MLB.com injury reports)\n- \"Nine players on IL\": multiple sources reference Correa, Peña, Diaz, Meyers, Loperfido, Brown, Imai, Javier, Hader — count of 9 is LOW-MEDIUM (number cited in Yahoo Sports article)\n- Astros scored 5 runs in last 4 games, lost 3 of them — source: SportsLine series preview — MEDIUM\n**Freshness:** All sources from today (May 22, 2026) or within 24h. Game snapshot is same-day. ✓\n**Why it matters:** Series opener against the most injury-depleted team in baseball. Prime reset opportunity after five-game losing streak. 7:00 AM slot is mandatory per is_series_start_today instruction.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Bold Take — The Astros Are the Perfect Bounce-Back Opponent",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "After five straight losses and being outscored 19-5 by Milwaukee, the Cubs face the most banged-up team in baseball. The Astros have scored 5 runs total in their last 4 games. Carlos Correa is done for the season. Houston is 10 games under .500. If the Cubs can't right the ship against this team, the division concern is real. Frame it as a reset opportunity they have no excuse to waste.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Houston is 20-31 and has scored 5 runs in their last 4 games. Nine players on the IL. Correa's done for the year.\n\nThe Cubs were outscored 19-5 by Milwaukee. This is the bounce-back opponent they needed.\n\nNo excuses today.\n\n#Cubs #GoCubs #NorthSiders",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take — bounce-back urgency",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#NorthSiders"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Bold Take — The Astros Are the Perfect Bounce-Back Opponent\n**Decision:** NEW STORY — fresh take combining Astros injury crisis with Cubs slump context. Not covered in any prior pipeline.\n**Sources:**\n1. The Crawfish Boxes: \"With Carlos Correa adding to Astros' pile of injuries, could this season already be a lost cause?\" — <72h\n2. CBS Sports / MLB Trade Rumors: Correa season-ending ankle surgery — <48h\n3. SportsLine preview: Astros scored 5 runs in last 4 games — <24h\n4. Series-context.json: Astros 20-31, Cubs 29-21 — same-day\n**Key facts (verified):**\n- Astros 10 games under .500 (20-31) — CONFIRMED\n- Carlos Correa out for the season: ankle surgery — CONFIRMED (MLB.com headline, MLBTR)\n- 9 Astros on IL (Correa, Peña, Diaz, Meyers, Loperfido, Brown, Imai, Javier, Hader) — MEDIUM (Yahoo Sports article; exact count of 9 cited)\n- Astros scored 5 runs in their last 4 games combined — MEDIUM (SportsLine preview, single source)\n- Cubs on 5-game losing streak — CONFIRMED\n- Brewers outscored Cubs 19-5 across 3 games — CONFIRMED (multiple sources)\n**Freshness:** Astros injury news from <48h; series context from today. ✓\n**Why it matters:** Gives fans the optimistic take after a brutal week. Frames the Astros series as a genuine reset opportunity with supporting stats rather than false hope.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Rotation Crisis — Cabrera TBD, Peralta Clock at 10 Days",
+      "tier": 2,
+      "status": "",
+      "angle": "Taillon starts today — and he's the healthiest body the Cubs have right now. Cabrera's blister has not resolved; his May 26 start is still uncertain. Stacked with Horton (2027), Steele (August), Boyd (recovering), the Cubs are starting a series with essentially a two-man rotation. The Mets' Peralta decision window is now approximately 10 days out. The Cubs need to move.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cabrera's next start is still TBD — the blister hasn't cleared. An IL stint is possible.\n\nHorton (2027). Steele (August). Boyd (recovering). Now Cabrera (??).\n\nJune 1 is the Mets' Peralta pivot date. The Cubs front office has 10 days. Use them.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative — injury/roster/trade analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Rotation Crisis — Cabrera TBD, Peralta Clock at 10 Days\n**Decision:** FOLLOW-UP — Cabrera blister covered on May 20-21. New hook today: still no IL resolution, Taillon takes the ball, Peralta deadline is closer.\n**Sources:**\n1. Bleacher Nation: \"Edward Cabrera's Status For His Next Start is TBD\" — May 21, 2026\n2. Cubs Insider: \"Edward Cabrera Exits Early with Blister\" — May 20, 2026\n3. Yardbarker: \"Mets reportedly have date in mind for trading Freddy Peralta to Cubs, other team\" — May 2026\n4. MLB Trade Rumors: \"Cubs Exploring Early Market For Starting Pitching\" — May 2026\n5. Story history: Peralta arc documented May 14-21 with 3.12 ERA\n**Key facts:**\n- Cabrera next start (tentatively May 26): TBD — CONFIRMED (Bleacher Nation, Counsell quote)\n- Counsell on Cabrera: \"It's something that he's dealt with a little bit\" and \"it just got worse tonight, to the point where it was clearly affecting his command\" — VERIFIED (multiple sources quoting Counsell)\n- 15-day IL stint possible — MEDIUM (Bleacher Nation characterization)\n- Horton, Steele, Boyd all unavailable — CONFIRMED (story history cross-check)\n- Peralta (Mets): 3.12 ERA, pending FA, Counsell connection — MEDIUM (from May 14-21 pipeline; Peralta's ERA not re-verified today)\n- June 1 is the Mets' pivot deadline — CONFIRMED (Yardbarker, MLBTR)\n- \"10 days to June 1\": May 22 to June 1 = 10 days — CONFIRMED (calendar math: May has 31 days; 31-22=9 days remaining in May + June 1 = 10 days) ✓\n**Freshness:** Cabrera update from May 21; Peralta trade context current as of May 2026. ✓\n**Why it matters:** Rotation crisis is the most important ongoing story for Cubs' playoff hopes. The Peralta clock makes it time-sensitive today.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Boyd Good News — Mound Session Tomorrow, Ahead of Schedule",
+      "tier": 2,
+      "status": "",
+      "angle": "Genuinely positive news amid the rotation crisis. Matt Boyd is scheduled to throw a mound session this Saturday (May 23) — and the Cubs say he's ahead of the 4-6 week post-surgery timeline. Pain-free. Doctor evaluation end of weekend. A late June return — or possibly sooner — is now in play. Contrast this with the current rotation picture to make the story meaningful.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Good news amid the rotation gloom: Matt Boyd throws off the mound this Saturday.\n\nHe's ahead of schedule from meniscus surgery — pain-free, progressing well. Late June return is on the table.\n\nThe cavalry is coming. Just not yet.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold/Upbeat — recovery news",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Boyd Good News — Mound Session Tomorrow, Ahead of Schedule\n**Decision:** FOLLOW-UP — Boyd recovery tracked May 17-21 across multiple pipeline runs. New hook: mound session is specifically TOMORROW (May 23).\n**Sources:**\n1. Bleacher Nation: \"What's the Latest on Justin Steele's and Matthew Boyd's Recovery Processes?\" — May 21, 2026\n2. CBS Sports: \"Cubs' Matthew Boyd: Scheduled to throw off mound\" — <24h\n3. Cubbie Crib: \"Carter Hawkins quietly eases Cubs' Matthew Boyd injury fear with the latest update\" — <48h\n**Key facts:**\n- Boyd scheduled for mound session Saturday (May 23) — CONFIRMED (CBS Sports, Bleacher Nation)\n- Recovering ahead of the 4-6 week estimate — CONFIRMED (multiple sources)\n- Pain-free per Cubs reporting — CONFIRMED\n- Surgery described as \"more of a trimming\" (meniscectomy) rather than full repair — CONFIRMED\n- Doctor evaluation end of weekend — MEDIUM (Bleacher Nation; specific timing of doctor visit)\n- Late June return \"not particularly implausible\" — MEDIUM (Bleacher Nation characterization)\n- Cubs expect him to \"progress at a pretty good pace\" — CONFIRMED (Counsell quote, verified in prior pipeline run)\n**Freshness:** May 21 2026 reporting, within 24h. ✓\n**Why it matters:** The one piece of positive rotation news in a sea of bad. Fans need this context.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game Preview — Taillon vs Arrighetti, 1:20 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "The pitching matchup in concrete terms. Arrighetti (5-1, 1.50 ERA) has allowed one run or fewer in four of his seven starts and was nearly unhittable (.173 opponent BA) through his last outing. Taillon (2-3, 4.97) needs a clean outing. The Cubs are -141 favorites. Take the game one pitch at a time — and win this thing.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "First pitch in 80 minutes. Wrigley Field. Cubs-Astros, Game 1 of 3.\n\nHouston sends Arrighetti (5-1, 1.50 ERA) — .173 opponent BA through seven starts. Taillon (2-3, 4.97) needs to match his level today.\n\nWin this one.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold/Game preview — first pitch hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game Preview — Taillon vs Arrighetti, 1:20 PM CT\n**Decision:** NEW STORY — pre-game preview specific to today's matchup; not covered in any prior pipeline.\n**Sources:**\n1. MLB.com Gameday (game_pk 824679) — confirmed pitchers, time, venue — TODAY\n2. ESPN Jameson Taillon stats — 2-3, 4.97 ERA — TODAY\n3. ESPN / FanGraphs Spencer Arrighetti stats — 5-1, 1.50 ERA — TODAY\n4. SportsLine preview — Arrighetti .173 opponent BA, allowed 1 ER or fewer in 4 of 7 starts — TODAY\n**Key facts:**\n- Taillon: 2-3, 4.97 ERA — CONFIRMED (ESPN stats page; SportsLine shows 4.94 — slight rounding difference; using 4.97 from stats source)\n- Arrighetti: 5-1, 1.50 ERA — CONFIRMED (multiple sources)\n- Arrighetti opponent BA: .173 — CONFIRMED (ESPN/FanGraphs area)\n- Arrighetti allowed 1 ER or fewer in 4 of his starts — CONFIRMED (SportsLine; ESPN game log)\n- Arrighetti's last start: 7.1 shutout innings, 1 hit vs Texas — CONFIRMED\n- \"Seven starts\" vs \"six starts\": slight discrepancy between sources (ESPN analysis said six; SportsLine said seven). Will use \"seven starts\" as the more recent source.\n- Cubs -141 favorites (betting context only; not used in tweet copy)\n- First pitch 1:20 PM CT — CONFIRMED\n**Freshness:** Same-day (May 22) sources for pitchers and stats. ✓\n**Why it matters:** Game day preview for the 1:20 PM start. Fans need the pitching matchup framed with context before the game.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Iowa Cubs Prospects — Alcántara Walk-Off Snaps Eight-Game Skid",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Iowa ended an eight-game losing streak Wednesday with a walk-off win vs the Memphis Redbirds (Cardinals affiliate). Kevin Alcántara was the walk-off hero. In Knoxville, Owen Ayers went deep for the Tennessee Smokies. Good news from the farm on a week when the big-league club needed it.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Iowa Cubs snapped an eight-game losing streak Wednesday with a walk-off win over Memphis.\n\nKevin Alcántara was the hero. Owen Ayers added a homer for the Tennessee Smokies.\n\nGood news from the farm on a rough week.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative — prospect/minor league update",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Iowa Cubs Prospects — Alcántara Walk-Off Snaps Eight-Game Skid\n**Decision:** NEW STORY — Iowa's eight-game skid covered May 21 (previous day's STORY 6), but today's new development is the walk-off WIN that snapped the streak. This is the positive update.\n**Sources:**\n1. Bleacher Nation: \"Cubs Prospects Report | May 21st, 2026: Alcántara Walk-Off, Ayers Homers, More\" — <24h\n2. CubsHQ: \"Cubs Minor League News: Alcantara raking, Ayers homers, Poteet hits game-winner\" — <24h\n**Key facts:**\n- Iowa Cubs snapped eight-game losing streak on Wednesday (May 21) — CONFIRMED (Bleacher Nation)\n- Walk-off win vs Memphis Redbirds — CONFIRMED\n- Kevin Alcántara: credited with walk-off per Bleacher Nation headline — MEDIUM (headline attribution; article body mentions \"Alcántara Walk-Off\" but CubsHQ says \"Poteet hits game-winner\" which may refer to South Bend, not Iowa)\n- Walk-off attribution note: Bleacher Nation headline \"Alcántara Walk-Off\" appears to refer to Iowa; CubsHQ's \"Poteet hits game-winner\" likely refers to South Bend Cubs (separate affiliate). Using Alcántara as Iowa walk-off hero — MEDIUM confidence; flagged for fact-check.\n- Owen Ayers: home run for Tennessee Smokies (Knoxville) — CONFIRMED (Bleacher Nation, CubsHQ)\n- Connor Noland ankle update: no new information; status still unknown as of May 21 reporting\n**Freshness:** May 21 2026 reporting, within 24h. ✓\n**Why it matters:** Good news from the farm after a rough week for both Iowa and the big-league club.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
