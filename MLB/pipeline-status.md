@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-22
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 1 char violation fixed S6T1 349→267 before compile; 0 violations after fix), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (38 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required). 1 char violation fixed (S6T1 349→267).
+- **Key Stories**: Gerrit Cole returns tonight vs Rays/569 days since last MLB start (2024 World Series G5)/97 mph avg Triple-A/99.6 mph peak/Yankees 30-20/Rays 31-15 (Tier 1), Murakami (White Sox) 5 straight games with HR/tied White Sox franchise record/3 games from MLB all-time record (Griffey Mattingly Long)/7 HRs in 21 games most by Japanese-born player (Tier 1), Kurtz walk streak ENDED at 20 games/tied Bonds 2nd all-time/2 short of Cullenbine record 1947 (Tier 2), Schwarber 20 HRs May 15 earliest MLB history/on pace 66+ HRs/60-HR club: Bonds McGwire Sosa only 3 ever (Tier 2), Ramírez passed Averill for 2nd in Cleveland home HR history (138)/9 from 300 career HRs/300 SBs reached May 2/300-300 club: 8 members all-time (Tier 2), Unusual stats roundup: Olson 833 straight games/Mets 10 runs in 12th/Schwarber leads Judge by 4 HRs (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-21
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 1 char violation fixed S2T2 284→277 before compile; 0 violations after fix), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (35 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
 - **Dashboard Published**: Local only

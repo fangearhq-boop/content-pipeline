@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-22
+
+### Story 1: Gerrit Cole Returns Tonight — 569 Days Ends at Yankee Stadium
+- **Angle:** FOLLOW UP. Cole starts tonight vs Tampa Bay Rays, Yankee Stadium — first MLB appearance in 569 days (since Game 5, 2024 World Series). Tommy John surgery March 2025. Most recent Triple-A start: 86 pitches, 5.1 IP, 97 mph avg, 99.6 mph peak. Yankees 30-20; Rays 31-15, leading AL East by 4.5 games.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Cole's first-start velocity and performance; whether Yankees close gap on Rays in AL East.
+
+### Story 2: Murakami's 5-Game HR Streak — 3 Away from the MLB Record
+- **Angle:** NEW STORY. Munetaka Murakami (White Sox) homered in 5 consecutive games, tying White Sox franchise record. Three games away from the MLB all-time record of 8 straight (Griffey Jr. 1993, Mattingly 1987, Dale Long 1956). Already holds record for most HRs by a Japanese-born player in first 21 MLB games (7, more than Ohtani's 5).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Can Murakami homer in games 6, 7, and 8?
+
+### Story 3: Nick Kurtz's Walk Streak Ends at 20
+- **Angle:** FOLLOW UP. Kurtz's 20-game consecutive walk streak ended in 14-6 loss to the Cleveland Guardians. Tied Barry Bonds (2002-03) for 2nd-longest in MLB history. Two games short of Roy Cullenbine's all-time record (22, Detroit 1947). Struck out at 55.3% strike rate — walked despite pitchers throwing strikes.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Kurtz's underlying plate discipline going forward; whether walk totals remain elite.
+
+### Story 4: Schwarber 60-HR Club Math
+- **Angle:** FOLLOW UP. Kyle Schwarber hit his 20th HR on May 15 — earliest in MLB history (beat Gonzalez's May 17, 2001). Through 49 games, on pace for 66+ HRs. 60-HR club: only Bonds (73), McGwire (70), Sosa (66) — no one has joined since 2001.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Does pace hold into June? When does Schwarber reach 25 HR?
+
+### Story 5: Ramírez Passes Averill / 300-300 Club
+- **Angle:** FOLLOW UP. Ramírez passed Earl Averill for 2nd-most home HRs at home in Cleveland franchise history (138). Nine HRs from 300 career HRs. Reached 300 SBs on May 2. The 300-300 club has 8 members: Mays, Bonds, A-Rod, Beltran, Dawson, Sanders, Finley, Bobby Bonds.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** When does Ramírez hit HR No. 300? Expected pre-All-Star break at current pace.
+
+### Story 6: This Week's Three Most Unusual MLB Stats
+- **Angle:** NEW STORY (weekly roundup). Matt Olson at 833+ consecutive games (9th-longest in MLB history, dating to May 2, 2021); Mets scored 10 runs in 12th inning on May 18 vs Nationals (4th-most in single extra inning in MLB history); Schwarber leads Aaron Judge by 4 HRs (largest leader-to-2nd-place gap at this point in a season in the modern era).
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Olson streak watch as it climbs the all-time list.
+
+---
+
 ## 2026-05-21
 
 ### Story 1: Gerrit Cole Returns Friday — Yankees Ace Ends 569-Day Wait

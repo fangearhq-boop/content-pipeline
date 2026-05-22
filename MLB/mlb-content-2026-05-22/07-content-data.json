@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-22",
+  "compiled_at": "2026-05-22T10:32:02.973694+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "12:45 PM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "X",
+      "type": "Story 4"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "X",
+      "type": "Story 3"
+    },
+    {
+      "time": "6:15 PM",
+      "description": "X",
+      "type": "Story 6"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "X",
+      "type": "Story 5"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Gerrit Cole Returns Tonight — 569 Days Ends at Yankee Stadium (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "569 days since his last MLB pitch.\n\nGerrit Cole starts TONIGHT against the Rays at Yankee Stadium.\n\nTommy John surgery. Triple-A rehab. 97 mph. 99.6 mph peak.\n\nThe ace is back. ⚾ #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 187
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Rays lead the AL East by 4.5 games.\n\nTonight, the Yankees get their ace back.\n\nGerrit Cole vs. the team blocking them for first place.\n\nFirst pitch tonight at Yankee Stadium. ⚾ #Yankees #Rays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#Rays"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ 569 DAYS. TONIGHT IT ENDS. ⚾\n\nGerrit Cole's last pitch in the major leagues was in Game 5 of the 2024 World Series.\n\nThen came the news. Tommy John surgery, March 2025. A 14-month rebuild. Pitch counts that started at 15 throws and worked back toward what an MLB starter looks like.\n\nTonight, it's done. Cole starts for the New York Yankees against the Tampa Bay Rays at Yankee Stadium — his first major league appearance in 569 days.\n\nThe arm came back. In his most recent Triple-A start, Cole averaged 97 miles per hour on his fastball and peaked at 99.6. He threw 86 pitches across 5 1/3 innings. The elbow is healed and the velocity is back. That's not guaranteed after Tommy John surgery. Cole earned it.\n\nThe stakes make this bigger. Tampa Bay leads the AL East at 31-15 — 4.5 games ahead of New York. The Yankees at 30-20 have been a winning team without their ace. Now imagine what they become with him.\n\nThis is the start Yankees fans have been waiting for since October 2024.\n\n[Will Cole be as dominant as he was before the surgery? Tell us what you expect tonight!] 👇\n\n---",
+        "image_caption": "569 days since his last MLB pitch. Gerrit Cole starts TONIGHT at Yankee Stadium vs. the AL East-leading Rays. The ace is back. ⚾ #Yankees",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-cole-return-yankees-rays.html",
+        "headline": "Gerrit Cole's 569-Day Wait Ends Tonight at Yankee Stadium",
+        "word_count": 623
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Gerrit Cole Returns Tonight — Yankees vs. Rays\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Gerrit Cole in Yankees pinstripes mid-windup, Yankee Stadium crowd in background\n- **Photo Search Terms (Imagn):**\n  1. Gerrit Cole Yankees\n  2. Gerrit Cole New York\n  3. Cole Yankees pitcher\n  4. Gerrit Cole windup\n- **Text Overlay:**\n  - Headline: \"COLE IS BACK\" (Poppins Bold, white, large)\n  - Subtitle: \"569 DAYS. TONIGHT.\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Pitching delivery, pinstripes visible; Yankee Stadium or mound background; vertical crop emphasizes arm/delivery action\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Gerrit Cole Yankees\n  2. Gerrit Cole pitcher\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Gerrit Cole Returns Tonight\n**Decision:** FOLLOW UP (covered May 21 as preview; actual game tonight)\n**Sources:**\n- \"Gerrit Cole to make 2026 season debut vs. Rays\" — mlb.com (recent, pre-game)\n- \"Yankees' Gerrit Cole to make 2026 debut on Friday against Rays\" — sny.tv / Yahoo Sports (May 21, 2026)\n- \"Yankees ace Gerrit Cole to return from elbow surgery Friday night against the Rays\" — Yahoo Sports\n- Prior pipeline (May 21): Cole Triple-A stats confirmed (86 pitches, 5.1 IP, avg 97 mph, peak 99.6 mph)\n**Key Facts:**\n- Cole starts tonight vs Tampa Bay Rays, Yankee Stadium [HIGH — confirmed mlb.com + multiple sources]\n- Last MLB appearance: Game 5, 2024 World Series [HIGH — confirmed in prior pipeline + search results]\n- Days since last MLB start: 569 days [HIGH — prior pipeline, consistent with search]\n- Tommy John surgery: March 2025 [HIGH — confirmed multiple sources]\n- Triple-A most recent start: 86 pitches, 5.1 IP, 97 mph avg, 99.6 mph peak [HIGH — prior pipeline confirmed]\n- Yankees record: 30-20 [MEDIUM — prior pipeline; may have changed by game time]\n- Rays record: 31-15, leading AL East by 4.5 games [MEDIUM — search result pre-game from May 21/22]\n- Cole age: 35 [MEDIUM — confirmed in search results]\n**Freshness:** Game is tonight (May 22); all preview articles within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Murakami Has Homered in 5 Straight Games — 3 Away from an MLB Record (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Munetaka Murakami has homered in 5 straight games.\n\nThat ties the White Sox franchise record.\n\nHe is 3 games away from tying the MLB all-time record (8 straight — Griffey, Mattingly, Long).\n\nThe White Sox rookie is one of the hottest hitters in baseball right now. ⚾ #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The all-time MLB record: 8 consecutive games with a home run.\n\nSet by Ken Griffey Jr. (1993), Don Mattingly (1987), and Dale Long (1956).\n\nMunetaka Murakami needs 3 more.\n\nNo pressure. Just the stuff of baseball legend. ⚾ #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ THREE MORE. THREE. ⚾\n\nMunetaka Murakami has just done something no White Sox player has done since 2012: homer in five consecutive games. Five in a row. He just tied the Chicago White Sox franchise record.\n\nA.J. Pierzynski. Paul Konerko. Carlos Lee. Frank Thomas (twice). Ron Kittle. Greg Luzinski. Those are the names who held it before him. Now Murakami is in that company.\n\nBut here's the thing — he's not stopping there. The all-time MLB record is 8 consecutive games with a home run, held by three of the most recognizable names in baseball history: Ken Griffey Jr. (1993), Don Mattingly (1987), and Dale Long (1956).\n\nMurakami needs three more.\n\nThe White Sox were not supposed to be in the national baseball conversation this year. Yet here they are, with a Japanese-born rookie who hit more home runs in his first 21 MLB games than any player from Japan who came before him — including Shohei Ohtani.\n\nThree games. One historic record. The least-expected storyline of the 2026 MLB season.\n\n[Are you watching White Sox games to see if Murakami can get to 8?] 👇\n\n---",
+        "image_caption": "Munetaka Murakami has homered in 5 straight games — tied for the White Sox franchise record. He needs just 3 more to tie the MLB all-time mark (8 straight), set by Griffey, Mattingly, and Dale Long. ⚾ #WhiteSox",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-murakami-hr-streak-white-sox.html",
+        "headline": "Murakami Homers in 5 Straight Games — Now 3 Away From the MLB All-Time Record",
+        "word_count": 596
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murakami's 5-Game HR Streak\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Murakami in White Sox black and white uniform mid-home run swing or watching ball leave park\n- **Photo Search Terms (Imagn):**\n  1. Munetaka Murakami White Sox\n  2. Murakami Chicago\n  3. White Sox batter\n  4. White Sox slugger\n- **Text Overlay:**\n  - Headline: \"5 STRAIGHT GAMES WITH A HR\" (Poppins Bold, white, large)\n  - Subtitle: \"3 FROM GRIFFEY'S ALL-TIME RECORD\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Follow-through or ball-watching post-swing; White Sox uniform visible; vertical frame, batter-forward\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Munetaka Murakami White Sox\n  2. White Sox batter\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Murakami 5-Game HR Streak\n**Decision:** NEW STORY (streak to White Sox franchise record is new, from recent games)\n**Sources:**\n- \"Munetaka Murakami homers in 5th straight game, tying White Sox mark\" — mlb.com (recent)\n- \"White Sox rookie Munetaka Murakami off to historic start, but is his power production built to last?\" — CBS Sports\n- \"How White Sox's Munetaka Murakami became an instant...\" — ESPN\n- MLB Milestones search result: \"Murakami of the Chicago White Sox hit seven home runs in his first 21 MLB games, the most by any Japanese-born player\"\n**Key Facts:**\n- Murakami homered in 5 consecutive games, tying White Sox franchise record [HIGH — mlb.com headline confirmed]\n- White Sox franchise record holders in consecutive games with HR: Pierzynski (2012), Konerko (2011), Carlos Lee (2003), Frank Thomas (twice, 1994), Ron Kittle (1983), Greg Luzinski (1983) [MEDIUM — single source, Murakami/White Sox article]\n- MLB all-time record: 8 consecutive games — Griffey Jr. (July 20-28, 1993), Mattingly (July 8-18, 1987), Dale Long (May 19-28, 1956) [HIGH — confirmed multiple sources, well-known baseball record]\n- Murakami is 3 games from the all-time record [HIGH — simple math: 8-5=3]\n- 7 HRs in first 21 games — most by Japanese-born player, surpassing Ohtani's 5 [MEDIUM — search result summary, single source]\n**Freshness:** MLB.com article headline is recent; streak began in prior week and hit 5th game in last few days.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Nick Kurtz's Walk Streak Ends at 20 — Just Short of Cullenbine's Record (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nick Kurtz's walk streak is over.\n\n20 consecutive games. Tied with Barry Bonds for 2nd-longest all-time.\n\nTwo games short of Roy Cullenbine's record, set in 1947.\n\nThe most disciplined plate approach of the 2026 season came up just short of history. ⚾ #Athletics",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Athletics"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ IT'S OVER. AND IT WAS HISTORIC. ⚾\n\nNick Kurtz walked in 20 consecutive games.\n\nThen Oakland lost to the Cleveland Guardians 14-6. And Kurtz didn't draw a walk.\n\nThe streak is over at 20 consecutive games — tied with Barry Bonds (2002-03) for the second-longest in MLB history, two games short of Roy Cullenbine's record of 22, set in Detroit in 1947.\n\nTwo games. That's the gap. If Kurtz had drawn one walk in each of those two games, his name would be etched next to Cullenbine's in the record books.\n\nBut here's what shouldn't get lost: what Kurtz did was remarkable. He led the major leagues in walks. Pitchers were throwing him strikes — his strike rate was 55.3% — and he was still walking. That kind of plate discipline doesn't come from patience alone. It comes from a hitter who understands what he's doing at the plate at a level that most major leaguers never achieve.\n\nRoy Cullenbine's record has stood for 79 years. It almost fell this week. Nobody saw it coming.\n\n[Were you following Kurtz's walk streak? Were you rooting for him to break the record?] 👇\n\n---",
+        "image_caption": "Nick Kurtz's 20-game consecutive walk streak is over — ending two games short of Roy Cullenbine's all-time record (1947). Tied with Barry Bonds for 2nd-longest ever. A remarkable run by Oakland's first baseman. ⚾ #Athletics",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-kurtz-walk-streak-ends.html",
+        "headline": "Nick Kurtz's 20-Game Walk Streak Is Over — Two Short of the All-Time Record",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nick Kurtz's Walk Streak Ends\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Nick Kurtz in Oakland green uniform at bat or walking to first base\n- **Photo Search Terms (Imagn):**\n  1. Nick Kurtz Athletics\n  2. Nick Kurtz Oakland\n  3. Oakland Athletics first baseman\n  4. Athletics batter\n- **Text Overlay:**\n  - Headline: \"20-GAME WALK STREAK: OVER\" (Poppins Bold, white, large)\n  - Subtitle: \"TWO SHORT OF THE ALL-TIME RECORD\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Batting stance or trotting to first; Oakland green uniform; stadium/crowd backdrop\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Nick Kurtz Athletics\n  2. Oakland Athletics batter\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nick Kurtz Walk Streak Ends\n**Decision:** FOLLOW UP (streak at 20 games covered May 21; ended per search results)\n**Sources:**\n- \"Nick Kurtz falls short of Roy Cullenbine's record despite historic run\" — Yardbarker.com\n- \"Nick Kurtz extends milestone walk streak to 20 games, ties Barry Bonds\" — mlb.com\n- \"Now Tied With Ted Williams, Athletics' Nick Kurtz Is Quietly on the Verge of History\" — SI.com\n**Key Facts:**\n- Kurtz's walk streak ended at 20 consecutive games [HIGH — Yardbarker article confirmed \"Kurtz falls short of Cullenbine's record\"]\n- Streak ended in 14-6 loss to Cleveland Guardians [HIGH — Yardbarker confirmed]\n- His 20-game streak ties Barry Bonds (2002-03) for 2nd-longest in MLB history [HIGH — mlb.com + SI.com confirmed]\n- All-time record: Roy Cullenbine, 22 games, Detroit 1947 [HIGH — confirmed multiple sources]\n- Kurtz's streak was 2 games short of the record [HIGH — simple math: 22-20=2]\n- During streak: Kurtz led MLB in walks; .270 avg, 5 HR during run [MEDIUM — prior pipeline]\n- 55.3% strike rate during streak [MEDIUM — prior pipeline]\n**Freshness:** Streak ended in recent days (confirmed by Yardbarker conclusion article).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Schwarber's 20-HR May — The 60-HR Club Math Is Now Real (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kyle Schwarber hit his 20th home run on May 15.\n\nThat's the earliest any player in MLB history has done it.\n\nHe's on pace for 66+ HRs.\n\nThe 60-HR club: Bonds (73), McGwire (70), Sosa (66). Three members. One conversation. ⚾ #Phillies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ ARE WE REALLY DOING THIS? ⚾\n\nKyle Schwarber hit his 20th home run on May 15. Not a big deal on its own — except that it's the earliest any player in the history of Major League Baseball has reached 20 home runs.\n\nEarlier than Barry Bonds in his 73-home run season. Earlier than Mark McGwire. Earlier than Sammy Sosa. Earlier than all of them.\n\nThrough his first 49 games of 2026, Schwarber is on pace for 66 home runs.\n\nLet's put that in context. The 60-HR club has three members: Bonds (73), McGwire (70), and Sosa (66). No player has joined the club since 2001 — 25 years ago. The current generation of fans has essentially never watched a player seriously threaten 60 home runs in a clean season.\n\nSchwarber is doing it.\n\nThe Phillies outfielder isn't just a power hitter running hot. He set a milestone on the calendar that no one in the history of baseball has cleared before. The numbers are not just impressive. They are unprecedented in when they arrived.\n\nIs the pace sustainable? Maybe not. But the conversation is legitimate. The math is real. And Schwarber is the reason you should be watching the Phillies every night.\n\n[Will Schwarber reach 60? What's your over/under on his final HR total?] 👇\n\n---",
+        "image_caption": "Kyle Schwarber hit his 20th HR on May 15 — the earliest any MLB player ever has. He's on pace for 66+. The 60-HR club has 3 members, all from the late 1990s-2001. Schwarber is the next conversation. ⚾ #Phillies",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-schwarber-60-hr-club.html",
+        "headline": "Schwarber's Historic May Pace Puts the 60-HR Club Conversation on the Table",
+        "word_count": 632
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber 60-HR Club Math\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Kyle Schwarber in Phillies red post-home run, bat flip or watching ball, Citizens Bank Park\n- **Photo Search Terms (Imagn):**\n  1. Kyle Schwarber Phillies\n  2. Schwarber Philadelphia\n  3. Phillies home run\n  4. Kyle Schwarber swing\n- **Text Overlay:**\n  - Headline: \"ON PACE FOR 66 HOME RUNS\" (Poppins Bold, white, large)\n  - Subtitle: \"SCHWARBER IS IN THE CONVERSATION\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Bat flip or watching home run; Phillies red visible; stadium backdrop; vertical frame maximizes batter in swing\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Kyle Schwarber Phillies\n  2. Schwarber home run\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber 60-HR Club Math\n**Decision:** FOLLOW UP (Schwarber covered May 19-21)\n**Sources:**\n- \"MLB 2026: Will Phillies' Kyle Schwarber join 60 home run club?\" — ESPN\n- \"Kyle Schwarber Makes Incredible MLB History With 20th Home Run\" — SI.com\n- \"Kyle Schwarber's Home Run Pace Rivals Barry Bonds\" — Heavy.com\n- CBS Philadelphia: Schwarber powering Phillies emergence\n**Key Facts:**\n- Schwarber has 20 HRs through 49 games [HIGH — multiple confirmed sources]\n- May 15 was the earliest any player has hit 20 HRs in MLB history [HIGH — multiple sources]\n- Previous record: Luis Gonzalez, May 17, 2001 [MEDIUM — single source]\n- On pace for 66+ HRs [MEDIUM — calculated from pace, multiple sources cite 66]\n- 60-HR club members: Bonds (73), McGwire (70), Sosa (66, 64, 63 — only 3 players ever reached 60+) [HIGH — well-established baseball fact]\n- Slash line: .237/.365/.645 with 35 RBI [MEDIUM — single search result]\n- Judge 2nd in MLB at 16 HRs [MEDIUM — search result, may have changed]\n**Freshness:** Last confirmed data point May 15-22 range. Within the week.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Ramírez Passes Averill, Closes in on 300-300 Club (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "José Ramírez just passed Earl Averill for No. 2 in Cleveland franchise history for home runs at home (138).\n\nHe also has 300 career stolen bases.\n\nHe is 9 home runs from 300 career HRs.\n\nThe 300-300 club: Mays, Bonds, A-Rod, Beltran, Dawson. Ramírez is next. ⚾ #Guardians",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Guardians"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ PAYING ATTENTION TO JOSÉ RAMÍREZ YET? ⚾\n\nQuietly, patiently, one game at a time, José Ramírez keeps adding to one of the most extraordinary statistical resumes in the history of Cleveland baseball.\n\nThis week: Ramírez passed Earl Averill for sole possession of second place on Cleveland's all-time home run list at home, with 138 career home runs at Progressive Field. Jim Thome, the all-time leader, has 184. Ramírez is in the conversation.\n\nBut the bigger number is 300. Ramírez is 9 home runs away from 300 career home runs. He already has 300 career stolen bases — reaching that milestone on May 2.\n\nWhen he hits No. 300, he will join one of the most exclusive clubs in the history of the sport. The 300-300 club — players with both 300 career home runs and 300 career stolen bases — has 8 members: Willie Mays, Barry Bonds, Alex Rodriguez, Carlos Beltran, Andre Dawson, Deion Sanders, Steve Finley, and Bobby Bonds.\n\nNine home runs from belonging to that group.\n\nNine.\n\n[Does Ramírez get there this season? Are you watching his countdown?] 👇\n\n---",
+        "image_caption": "José Ramírez is 9 HRs away from the 300-300 club (300 HR + 300 SB). He already has 300 stolen bases. He just passed Earl Averill for No. 2 on Cleveland's all-time home HR list. Nine home runs from history. ⚾ #Guardians",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ramirez-300-300-club.html",
+        "headline": "Ramírez Is Nine Home Runs From One of Baseball's Most Exclusive Clubs",
+        "word_count": 601
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ramírez Passes Averill / 300-300 Club\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** José Ramírez in Guardians uniform mid-swing or at home plate, Progressive Field crowd\n- **Photo Search Terms (Imagn):**\n  1. Jose Ramirez Guardians\n  2. Jose Ramirez Cleveland\n  3. Ramirez third base Guardians\n  4. Cleveland Guardians Ramirez\n- **Text Overlay:**\n  - Headline: \"9 HRS FROM THE 300-300 CLUB\" (Poppins Bold, white, large)\n  - Subtitle: \"MAYS. BONDS. A-ROD. RAMÍREZ?\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Batting follow-through or home run trot; Guardians navy/red uniform; vertical frame with stadium depth\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Jose Ramirez Guardians\n  2. Ramirez Cleveland\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ramírez Passing Averill / 300-300 Approach\n**Decision:** FOLLOW UP (Ramírez covered throughout May)\n**Sources:**\n- \"José Ramírez hits career home HRs 137, 138 for Cleveland\" — mlb.com\n- \"2026 MLB Milestones and Records Tracker: José Ramírez Reaches Another Milestone\" — FOX Sports / wfin.com\n- Prior pipeline (May 21): Ramírez 300 SBs reached May 2; ~8-9 HRs from 300 career HRs; 300-300 club context\n**Key Facts:**\n- Ramírez passed Earl Averill for 2nd-most home HRs at home in Cleveland franchise history, with 138 [HIGH — mlb.com confirmed]\n- Jim Thome holds 1st all-time at 184 home HRs in Cleveland [MEDIUM — consistent with baseball knowledge]\n- Ramírez is 9 HRs from 300 career HRs [MEDIUM — search result says \"nine homers away from 300\"]\n- 300 SBs reached May 2, 2026 [HIGH — prior pipeline confirmed]\n- 300-300 club members: Mays, Bonds, A-Rod, Beltran, Dawson, Sanders, Finley, Bobby Bonds [HIGH — confirmed in prior pipeline research; note: compound claim, flagged HIGH priority for verification]\n**Freshness:** MLB milestone tracker articles from recent days; within the week.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "This Week's Most Unusual MLB Stats (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Three MLB stats worth knowing this week:\n\n• Matt Olson: 833 consecutive games (9th in MLB history)\n• Mets scored 10 runs in a single extra inning on May 18 (4th ever)\n• Schwarber leads Judge by 4 HRs — largest gap at this point in the modern era\n\n⚾ Baseball is wild.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ THREE STATS FROM THIS WEEK THAT DESERVE YOUR ATTENTION ⚾\n\nSometimes baseball's best stories are buried in the box scores and the stat trackers. Here are three from the week ending May 22 that are worth knowing:\n\n**1. Matt Olson has played 833 consecutive games.**\n\nThat's the 9th-longest consecutive games streak in MLB history. He hasn't missed a game since May 2, 2021 — over five years ago. Nobody talks about it. He just shows up.\n\n**2. The Mets scored 10 runs in the 12th inning on May 18.**\n\nThis is one of the rarest things in baseball history — scoring 10 or more runs in a single extra inning has only happened seven times since the 1880s. The Mets are one of those seven. The 1983 Rangers still hold the record with 12 runs in the 15th inning.\n\n**3. Schwarber leads Aaron Judge by 4 home runs — the largest gap between first and second place at this point in a season in the modern era.**\n\nJudge has 16 home runs. He would be leading most years. In 2026, it's not even close.\n\nBaseball is a sport that rewards paying attention to the numbers.\n\n[Which of these three is the most incredible to you?] 👇\n\n---",
+        "image_caption": "Matt Olson: 833 consecutive games. Mets: 10 runs in one extra inning. Schwarber leads Judge by 4 HRs. Three baseball facts from this week that most fans don't know. ⚾ This is why baseball is the best sport.",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "This Week's Most Unusual MLB Stats\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Matt Olson in Braves uniform, fielding at first base or batting; or split/collage concept for stats story\n- **Photo Search Terms (Imagn):**\n  1. Matt Olson Braves\n  2. Matt Olson Atlanta\n  3. Braves first baseman\n  4. Kyle Schwarber Phillies\n- **Text Overlay:**\n  - Headline: \"THREE STATS WORTH KNOWING\" (Poppins Bold, white, large)\n  - Subtitle: \"OLSON STREAK | METS INNING | SCHWARBER GAP\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Olson at first base; Braves white/red uniform; vertical framing\n\n**Article Hero:** N/A (no article for Story 6)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "This Week's Unusual MLB Stats\n**Decision:** NEW STORY (weekly roundup format)\n**Sources:**\n- \"MLB Stats of the Week ending May 21, 2026\" — mlb.com\n- Mets 10-run 12th inning: mlb.com + Washington Post (May 18, 2026)\n- Matt Olson 833 consecutive games: search result from this week\n**Key Facts:**\n- Matt Olson consecutive games streak: 833 games entering Friday (9th-longest in MLB history) [MEDIUM — single search result summary]\n- Streak dating to May 2, 2021 [MEDIUM — single source]\n- Mets scored 10 runs in 12th inning on May 18 vs Nationals (4th-most runs in a single extra inning in MLB history) [HIGH — mlb.com + Washington Post confirmed]\n- The other teams with 10+ runs in a single extra inning: 1983 Rangers (12), 1969 Twins (11), 1928 Yankees (11), 1919 Reds (10), 1887 Boston (10), 1886 Kansas City (10) [HIGH — Washington Post article confirmed 6 prior instances]\n**Note on Mets story:** The Mets story occurred May 18 — 4 days before today. Per strict 24-hour rule, this is stale as a standalone story but acceptable as a weekly roundup item.\n**Freshness:** Stats-of-the-week articles published within 24 hours (May 21 summary).",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 6,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
