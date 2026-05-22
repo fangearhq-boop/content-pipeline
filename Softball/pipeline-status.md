@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-22
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (65 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
+- **Dashboard Published**: Local only
+- **GitHub Pages Status**: n/a (PAT scope limitation known)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required).
+- **Key Stories**: Tennessee 3-1 Georgia Super Regional Game 1/Pickens 10 Ks CG/Knight+Clarke+Leach solo HRs/Game 2 today 3 PM ET ESPN2 (Tier 1), Wells 37 HRs OU vs Miss State SR Game 1 today 1 PM ET ESPN2/Mississippi State must solve Wells + OU lineup (Tier 1), Nebraska SR postponed weather/Game 1 resumes today 4 PM CT/Frahm vs Neylan (Tier 2), Alabama 52-7 vs LSU 40-17 tonight 7 PM ET ESPN2/Moten near-perfect/LSU outscored opponents 23-2 (Tier 2), UCF second-ever SR at UCLA tonight 9 PM ET ESPNU/Cinderella road trip after beating No. 9 FSU (Tier 2), Arkansas vs Duke Deifel 0-for-5 in SRs today 11 AM ET ESPNU (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-21
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (68 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
 - **Dashboard Published**: Local only

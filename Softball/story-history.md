@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 22, 2026
+
+### Story 1: Tennessee 3-1 Georgia — Pickens Super Regional Masterpiece
+- **Angle:** FOLLOW UP (Tennessee SR covered May 21; new result angle). Tennessee beat Georgia 3-1 in Super Regional Game 1 Thursday night. Pickens complete game, 10 Ks, 1 ER (Digby solo HR 2nd inning). Tennessee solo HRs: Sophia Knight, Emma Clarke, Alannah Leach. Game 2 today at 3 PM ET ESPN2. Tennessee one win from WCWS.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Game 2 result; Tennessee WCWS berth confirmation.
+
+### Story 2: Wells at 37 HRs — Oklahoma vs. Mississippi State Super Regional Game 1
+- **Angle:** FOLLOW UP (Wells covered throughout 2026). Wells at 37 HRs (tied Espinoza 1995 mark) entering Super Regional vs Miss State, Game 1 today 1 PM ET ESPN2. Mississippi State faces the "crack the code" challenge of pitching to Wells with OU's lineup behind her. Every at-bat carries history.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Does Wells break the record in Game 1? Oklahoma Super Regional series result.
+
+### Story 3: Nebraska's Super Regional Postponed — Resumes Today at 4 PM CT
+- **Angle:** FOLLOW UP (Nebraska SR covered May 19, 20, 21; postponement angle new today). Game 1 suspended 23 minutes in (bottom of 1st, NEB runner on 1B with 1 out) due to rain/lightning at Bob Devaney. Resumes today at 4 PM CT. Frahm vs. Neylan (former travel ball teammates) matchup unchanged. Sold-out crowd, 13-year WCWS drought on the line.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Nebraska vs OkState Game 1 result; series outcome; WCWS drought ends?
+
+### Story 4: Alabama vs. LSU Super Regional Game 1 Tonight
+- **Angle:** FOLLOW UP (Alabama-LSU SR covered May 20; game-night angle). Alabama (52-7) hosts LSU (40-17) at 7 PM ET ESPN2, Rhoads Stadium Tuscaloosa. Alabama's Moten (near-perfect) + Briski vs. LSU who outscored regional opponents 23-2. No regular-season meeting. Alabama's NCAA-record 20th Super Regional.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Alabama vs LSU Game 1 result; series outcome.
+
+### Story 5: UCF at UCLA Super Regional Game 1 Tonight
+- **Angle:** FOLLOW UP (UCF-UCLA covered May 20, 21; road Cinderella game-night angle). UCF (2nd-ever SR) flies cross-country to Easton Stadium LA. Beat No. 9 FSU 4-2 in regional final (first-ever NCAA win over FSU). 9 PM ET ESPNU. UCLA home field advantage vs UCF's road tournament momentum.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** UCF vs UCLA Game 1 result; Cinderella story continuation.
+
+### Story 6: Arkansas vs. Duke Super Regional — Deifel's WCWS Breakthrough?
+- **Angle:** FOLLOW UP (Arkansas-Duke covered May 20, 21; Deifel drought angle). Deifel 0-for-5 in SRs. Duke (4th SR in 5 years) with nothing to lose. Game 1 today 11 AM ET ESPNU at Bogle Park Fayetteville. Arkansas's defining program-level narrative game.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts
+- **Follow-ups:** Arkansas vs Duke series result; does Deifel finally reach WCWS?
+
+---
+
 ## May 21, 2026
 
 ### Story 1: Tennessee vs Georgia Super Regional — Karlyn Pickens' Historic Night

@@ -1,0 +1,344 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-22",
+  "compiled_at": "2026-05-22T10:17:48.632633+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "9:15 AM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X",
+      "type": "Story 3"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "X",
+      "type": "Story 6"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "X",
+      "type": "Story 4"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "X",
+      "type": "Story 5"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tennessee 3-1 Georgia — Pickens Strikes Out 10 in Super Regional Opener (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Karlyn Pickens was untouchable last night.\n\n10 strikeouts. Complete game. Just 1 run allowed.\n\nTennessee beats Georgia 3-1 in Super Regional Game 1. 🥎\n\nGame 2 is TODAY at 3 PM ET on ESPN2. #LadyVols",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols"
+          ],
+          "char_count": 198
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Knight. Clarke. Leach.\n\nThree solo shots. That's all Tennessee needed.\n\nPickens did the rest — 10 Ks, complete game, 3-1 win.\n\nGame 2 today at 3 PM ET, ESPN2. One win from the WCWS. #LadyVols #GoDawgs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#GoDawgs"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "🥎 KARLYN PICKENS DID THAT 🥎\n\nTennessee is one win away from the Women's College World Series.\n\nLast night in Knoxville, Karlyn Pickens walked out to the circle and shut Georgia down. Complete game. Ten strikeouts. One run allowed — a solo home run from Emily Digby in the second inning. That was all the Bulldogs got.\n\nThree Tennessee home runs did the work at the plate — solo shots from Sophia Knight, Emma Clarke, and Alannah Leach. Three up, three over the fence. 3-1 final.\n\nGeorgia came into Knoxville with momentum. Addisen Fisher had just thrown a complete-game shutout in the regional final. The Bulldogs were confident. And Pickens answered every question they brought with 10 strikeouts and no answers left for them.\n\nGame 2 is TODAY at 3 PM ET on ESPN2.\n\nTennessee is one game from Devon Park. Pickens will be watching from the dugout, or she'll be back in the circle. Either way, the Lady Vols are in the driver's seat.\n\n🔵 Game 2 | Friday, May 22 | 3 PM ET | ESPN2 | Knoxville\n\n[Are you watching Game 2 today? Drop a 🥎 below!] 👇\n\n---",
+        "image_caption": "Karlyn Pickens: 10 strikeouts, complete game, 1 run. Tennessee takes Super Regional Game 1 over Georgia, 3-1. One win from Devon Park OKC. Game 2 today at 3 PM ET on ESPN2. 🥎 #LadyVols",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-pickens-10-strikeouts-tennessee-beats-georgia.html",
+        "headline": "Pickens Strikes Out 10, Vols Take Super Regional Game 1 Over Georgia 3-1",
+        "word_count": 695
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tennessee 3-1 Georgia — Pickens Super Regional Masterpiece\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Karlyn Pickens mid-delivery in Tennessee orange, crowd visible in background at Sherri Parker Lee Stadium\n- **Photo Search Terms (Imagn):**\n  1. Karlyn Pickens Tennessee\n  2. Tennessee Lady Vols softball\n  3. Sophia Knight Tennessee\n  4. Emma Clarke Tennessee softball\n- **Text Overlay:**\n  - Headline: \"PICKENS: 10 Ks\" (Poppins Bold, white, large)\n  - Subtitle: \"TENNESSEE TAKES GAME 1 — 3-1\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Pitcher in action, arms visible, Tennessee uniform clearly seen; vertical crop should emphasize the delivery motion\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Karlyn Pickens Tennessee\n  2. Tennessee softball pitcher\n- **Text Overlay:** none (article hero, image only)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee 3-1 Georgia — Pickens Super Regional Game 1\n**Decision:** FOLLOW UP (covered May 21; new result angle — Game 1 complete)\n**Sources:**\n- \"Pickens 10 Ks, Three Solo Blasts Propel Lady Vols to 3-1 Victory over Georgia\" — utsports.com (May 22, 2026)\n- \"Tennessee takes Game 1 of Knoxville Super Regional over Georgia behind Karlyn Pickens' 10 Ks\" — saturdaydownsouth.com (May 21/22, 2026)\n- \"10-Seed Georgia Drops Game One of Super Regional to Tennessee, 3-1\" — georgiadogs.com (May 21, 2026)\n- \"Tennessee takes Game 1 of Super Regional, tops Georgia 3-1\" — wbir.com (May 21, 2026)\n**Key Facts:**\n- Tennessee wins Game 1: 3-1 over Georgia [HIGH confidence — 4 independent sources]\n- Karlyn Pickens: complete game, 10 strikeouts, 7 hits, 3 walks, 1 ER [HIGH — official UT athletics]\n- Georgia's run: Emily Digby solo home run, top of 2nd inning [HIGH — confirmed via saturdaydownsouth + georgiadogs]\n- Tennessee home runs: Sophia Knight, Emma Clarke, Alannah Leach (all solo shots) [HIGH — 3+ sources]\n- Tennessee record entering: 45-10 [MEDIUM — consistent with prior pipeline]\n- Georgia record entering: 40-18 [MEDIUM — consistent with prior pipeline]\n- Game 2: Friday May 22 at 3 PM ET on ESPN2 [HIGH — multiple sources]\n- Tennessee hosting 4th consecutive Super Regional — no program in NCAA history has done this [HIGH — confirmed in prior research and official source]\n**Freshness:** Game played Thursday May 21, all result sources published within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Wells Enters Super Regional — OU vs. Miss State Game 1 at 1 PM ET (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kendall Wells. 37 home runs. Tied with Espinoza (Arizona, 1995).\n\nThe Super Regional starts NOW in Norman.\n\nOklahoma vs. Mississippi State — 1 PM ET, ESPN2.\n\nEvery at-bat could be history. 🥎 #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners"
+          ],
+          "char_count": 199
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Mississippi State's problem today:\n\nPitch to Wells and risk history.\n\nWalk her and Oklahoma's lineup destroys you.\n\nThere's no safe answer. That's what it means to face the most dangerous hitter in college softball. 🥎 #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "🥎 THE MOST ANTICIPATED AT-BATS IN COLLEGE SOFTBALL — TODAY 🥎\n\nKendall Wells enters the Super Regional with 37 home runs.\n\nThat ties the single-season mark set by Laura Espinoza of Arizona in 1995. Thirty-one years, and that number has stood. One swing separates Wells from making it her own.\n\nToday, Oklahoma hosts Mississippi State in Super Regional Game 1 at 1 PM ET on ESPN2 at Love's Field in Norman.\n\nMississippi State's pitching staff has had a week to think about this. How do you pitch to the most dangerous hitter in college softball? There's no clean answer. Walk her and you face the rest of an Oklahoma lineup that has been destroying pitching all season. Attack the zone and you might be the one who ends up serving up history.\n\nWells isn't chasing the record. She's chasing the WCWS. The record is what happens when you put up a season like she has.\n\nEvery at-bat today will carry weight. Every pitch will matter. This is why we watch college softball.\n\n🔶 Game 1 | Friday, May 22 | 1 PM ET | ESPN2 | Norman, OK\n\n[Who do you think pitches to Wells today — or do you think Miss State walks her every time?] 👇\n\n---",
+        "image_caption": "37 home runs. One from history. Kendall Wells opens Super Regional play TODAY vs. Mississippi State — 1 PM ET, ESPN2 in Norman. Every at-bat is must-watch. 🥎 #Sooners",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-wells-37-hrs-super-regional-oklahoma.html",
+        "headline": "Wells at 37 HRs: Oklahoma's Super Regional Opens Today vs. Mississippi State",
+        "word_count": 687
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wells/Oklahoma Super Regional Begins — HR Record Within Reach\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Kendall Wells at the plate or in follow-through of a home run swing, Norman crowd visible\n- **Photo Search Terms (Imagn):**\n  1. Kendall Wells Oklahoma\n  2. Kendall Wells Sooners softball\n  3. Oklahoma softball batter\n  4. Oklahoma softball Norman\n- **Text Overlay:**\n  - Headline: \"37 HRs. ONE FROM HISTORY.\" (Poppins Bold, white, large)\n  - Subtitle: \"WELLS OPENS SUPER REGIONAL TODAY\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Home run follow-through or batting stance; action-forward composition with stadium depth\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Kendall Wells Oklahoma\n  2. Oklahoma softball batter 2026\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wells/Oklahoma vs. Mississippi State Super Regional Game 1\n**Decision:** FOLLOW UP (Wells HR chase covered throughout 2026; Super Regional launch angle)\n**Sources:**\n- \"OU trying to 'crack the code' of Mississippi State pitching in Norman Super Regional\" — on3.com (recent)\n- \"Kendall Wells restarts climb back to NCAA history in Oklahoma's regional win\" — stormininnorman.com (recent)\n- Prior pipeline research confirming Wells at 37 HRs entering Super Regional\n- soonersports.com — Oklahoma softball schedule confirms Game 1 vs Miss State May 22 at 1 PM ET ESPN2\n**Key Facts:**\n- Wells has 37 HR entering Super Regional, tied with Laura Espinoza (Arizona, 1995) [HIGH — confirmed across multiple pipeline entries + search results]\n- Game 1: Oklahoma vs. Mississippi State, May 22 at 1 PM ET on ESPN2 at Love's Field, Norman [HIGH]\n- Oklahoma record entering: 48+ wins (prior pipeline noted consistent record) [MEDIUM]\n- Mississippi State described as having strong pitching strategy vs Wells [MEDIUM — single source preview]\n- Wells has broken: NCAA freshman HR record (31), SEC single-season HR record (27), Oklahoma program record (35 surpassing Alo) [HIGH — covered in prior pipeline]\n**Freshness:** Super Regional begins today; preview articles published within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Nebraska's Super Regional Resumes TODAY at 4 PM CT After Weather Delay (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Rain delayed it. Didn't cancel it.\n\nNebraska's first-ever home Super Regional resumes TODAY at 4 PM CT.\n\nFrahm vs. Neylan. Sold-out Bob Devaney. 13 years since the WCWS.\n\nLincoln still gets its night. 🌽 #Huskers #okstate",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers",
+            "#okstate"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "🌽 RAIN TRIED TO STOP NEBRASKA. IT FAILED. 🌽\n\nThursday night in Lincoln, the build-up was everything you'd expect.\n\nBob Devaney Sports Center was sold out. Nebraska (49-6) was about to play their first-ever home Super Regional. Jordy Frahm — a Lincoln native, who grew up dreaming of this exact moment — was ready to pitch on the biggest night in Nebraska softball history.\n\nAnd then it rained. Lightning struck. Twenty-three minutes into Game 1, play stopped. Nebraska had a runner on first with one out in the bottom of the first inning. The crowd waited. The announcement came: postponed.\n\nBut this morning, the announcement that matters: Game 1 resumes TODAY at 4 PM CT.\n\nEverything that made last night incredible is still there. The sold-out crowd. Frahm on the mound. Ruby Neylan of Oklahoma State — an Omaha native who once played travel ball with Frahm, now wearing Cowgirl colors — waiting to face her.\n\nNebraska's 13-year WCWS drought. Their first-ever home Super Regional. All of it still on the line.\n\nThe rain didn't stop Lincoln. It just made them wait a little longer.\n\n🌽 Game 1 (Resumed) | Friday, May 22 | 4 PM CT | Lincoln, NE\n\n[Drop a 🌽 if you're back and ready to watch today!] 👇\n\n---",
+        "image_caption": "Rain delayed it — didn't cancel it. Nebraska's first-ever home Super Regional resumes TODAY at 4 PM CT. Frahm vs. Neylan. Bob Devaney sold out. 13 years of waiting. Lincoln still gets its night. 🌽 #Huskers",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-nebraska-super-regional-postponed-resumes-today.html",
+        "headline": "Nebraska's Super Regional Resumes Today — Rain Delayed It, Didn't Cancel It",
+        "word_count": 675
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska Postponement — Resumes Today at 4 PM CT\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Jordy Frahm in Nebraska red, delivery or dugout, Bob Devaney Sports Center visible in background\n- **Photo Search Terms (Imagn):**\n  1. Jordy Frahm Nebraska\n  2. Nebraska Cornhuskers softball\n  3. Nebraska softball pitcher\n  4. Nebraska softball Bob Devaney\n- **Text Overlay:**\n  - Headline: \"GAME 1 RESUMES TODAY\" (Poppins Bold, white, large)\n  - Subtitle: \"4 PM CT — FRAHM VS. NEYLAN\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Frahm delivery in focus; red Nebraska uniform prominent; vertical framing maximizes pitcher in frame\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Jordy Frahm Nebraska\n  2. Nebraska softball\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nebraska vs. Oklahoma State — Postponed, Resumes Today\n**Decision:** FOLLOW UP (Nebraska SR covered May 19, 20, 21; postponement angle is new today)\n**Sources:**\n- \"Oklahoma State Softball Super Regional Game One Against Nebraska Postponed\" — si.com (May 21, 2026)\n- \"Nebraska softball game against Oklahoma State delayed due to weather\" — knopnews2.com (May 21, 2026)\n- \"Cowgirl Softball's NCAA Super Regional opener at No. 4 Nebraska moved to Friday, May 22\" — okstate.com (May 21, 2026)\n- \"Nebraska softball's first home super regional postponed to 4 p.m. Friday\" — nebraskapublicmedia.org (May 21, 2026)\n- \"Game one of NU Softball Super Regional suspended due to weather\" — centralnebraskatoday.com (May 21, 2026)\n**Key Facts:**\n- Game 1 postponed Thursday night due to rain and lightning [HIGH — 5 independent sources]\n- Game started at ~9 PM ET, suspended 23 minutes in during bottom of 1st inning [HIGH — multiple sources]\n- Nebraska had a runner on first with one out in the bottom of the 1st when suspended [HIGH]\n- Game resumes Friday May 22 at 4 PM CT [HIGH — official okstate.com + nebraska public media]\n- Nebraska record: 49-6 [MEDIUM — consistent with prior pipeline May 21]\n- Nebraska's first-ever home Super Regional [HIGH — confirmed in prior research]\n- Bob Devaney Sports Center sold out [HIGH — confirmed in prior research]\n- Jordy Frahm (Lincoln native) vs Ruby Neylan (Omaha native, former travel ball teammates) [HIGH — confirmed in prior pipeline]\n- Nebraska's WCWS drought since 2013 (13 years) [HIGH — confirmed in prior pipeline]\n**Freshness:** Postponement articles published within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Alabama vs. LSU Game 1 Tonight at 7 PM ET — No. 1 Meets No. 16 (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "No. 1 Alabama vs. No. 16 LSU — tonight at 7 PM ET, ESPN2.\n\nThe Tide (52-7) bring Moten and Briski.\n\nLSU just outscored 3 regional opponents by 21 runs.\n\nOn paper: blowout. On the field: watch and see. 🌙 #RollTide #LSU",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#LSU"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "🏟️ THE BIGGEST SEED GAP IN THE TOURNAMENT — TONIGHT IN TUSCALOOSA 🏟️\n\nNo. 1 Alabama. No. 16 LSU. Same field. Same stakes.\n\nOn paper, this is a mismatch. Alabama (52-7) enters this Super Regional as the most dominant program in the country, with a pitching staff that was nearly untouchable in the regional. Vic Moten was close to perfect. Briski provides depth. The Crimson Tide have been to 20 Super Regionals — an NCAA record.\n\nBut LSU just outscored their three regional opponents 23-2. That is not a team that backed into this Super Regional.\n\nThese two programs did not meet during the regular season. Alabama's pitching staff doesn't have a specific scouting advantage. LSU's offense doesn't have any data on what Moten does in close situations. In a tournament where matchup familiarity matters, this one starts completely fresh.\n\nThe No. 16 seed hasn't beaten the No. 1 seed yet this weekend. But tonight at 7 PM ET on ESPN2 in Tuscaloosa, LSU gets their chance.\n\n🔴 Game 1 | Friday, May 22 | 7 PM ET | ESPN2 | Tuscaloosa, AL\n\n[Are you picking the upset, or does Alabama run away with it?] 👇\n\n---",
+        "image_caption": "No. 1 Alabama (52-7) vs. No. 16 LSU (40-17) — tonight at 7 PM ET on ESPN2. LSU just outscored three opponents by 21 runs. Alabama's Moten is near-perfect. Something has to give. 🌙 #RollTide #LSU",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alabama-lsu-super-regional-game-1.html",
+        "headline": "Alabama vs. LSU Super Regional Game 1: No. 1 Hosts No. 16 in Tuscaloosa Tonight",
+        "word_count": 657
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama vs. LSU Game 1 Tonight at 7 PM ET\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Vic Moten in Alabama crimson in pitching motion at Rhoads Stadium; crowd in background\n- **Photo Search Terms (Imagn):**\n  1. Vic Moten Alabama\n  2. Alabama Crimson Tide softball\n  3. Montana Briski Alabama\n  4. Alabama softball Rhoads Stadium\n- **Text Overlay:**\n  - Headline: \"ALABAMA vs. LSU — TONIGHT\" (Poppins Bold, white, large)\n  - Subtitle: \"7 PM ET | ESPN2 | TUSCALOOSA\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Pitcher in delivery; Alabama's crimson uniform clearly visible; stadium depth in background\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Vic Moten Alabama softball\n  2. Alabama softball pitcher\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alabama vs. LSU Super Regional Game 1 Tonight\n**Decision:** FOLLOW UP (Alabama-LSU SR covered May 20; game-night angle)\n**Sources:**\n- \"How to Watch No. 1 Alabama Softball vs. No. 16 LSU in NCAA Super Regional\" — si.com (recent)\n- \"LSU softball preps for gritty Super Regional matchup against Alabama\" — wafb.com (May 22, 2026)\n- ESPN Live Score page confirms 7 PM ET game (May 22, 2026)\n**Key Facts:**\n- Alabama record: 52-7 [MEDIUM — consistent with prior pipeline]\n- LSU record: 40-17 [MEDIUM — consistent with prior pipeline]\n- Game 1: Friday May 22, 7 PM ET on ESPN2, Rhoads Stadium Tuscaloosa [HIGH — confirmed multiple preview sources]\n- LSU outscored regional opponents 23-2 [MEDIUM — confirmed in prior pipeline, single search source]\n- Alabama pitchers: Vic Moten (near-perfect game in regional), Montana Frahm-equivalent Briski [MEDIUM]\n- Teams did not meet in regular season [MEDIUM — prior pipeline]\n- Alabama's 20th Super Regional — NCAA record [HIGH — confirmed via May 18 pipeline: \"Alabama NCAA-record 20th Super Regional\"]\n**Freshness:** Preview articles published within 24 hours of game.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "UCF at UCLA Tonight — Cinderella Rides Again at 9 PM ET (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "UCF already beat No. 9 FSU in Tallahassee.\n\nNow they fly across the country to face No. 8 UCLA.\n\nThe Cinderella story doesn't stop at the state line.\n\n9 PM ET, ESPNU. This is must-watch softball. 🏰🥎 #UCF",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#UCF"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "🏰 UCF IS NOT DONE YET 🏰\n\nLet's recap what UCF has done this postseason.\n\nThey won their regional without losing a game.\n\nThen they went to Tallahassee — No. 9 FSU's home field — and beat Florida State 4-2 in the regional final. UCF's first-ever NCAA win over FSU. It wasn't close at the end.\n\nNow they're getting on a plane and flying across the country to play No. 8 UCLA at Easton Stadium in Los Angeles.\n\nThis UCF team doesn't seem to care about road trips. They don't seem to care about seedings. They beat FSU on their home field. That's the kind of team that earns the right to be called a real threat in a Super Regional.\n\nUCLA is a great team. Home field is real. Senior experience is real. But UCF has now proven — multiple times this postseason — that the \"better team on paper\" doesn't automatically win.\n\nTonight at 9 PM ET on ESPNU, the Cinderella story either continues or ends.\n\nWe'll be watching. You should be too.\n\n🏰 Game 1 | Friday, May 22 | 9 PM ET | ESPNU | Los Angeles, CA\n\n[Are you riding with UCF? Or does UCLA end it here?] 👇\n\n---",
+        "image_caption": "UCF beat No. 9 FSU in Tallahassee. Now they head to L.A. to face No. 8 UCLA. The Cinderella story doesn't stop at the state line. Game 1 tonight at 9 PM ET on ESPNU. 🏰🥎 #UCF",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ucf-ucla-super-regional-cinderella.html",
+        "headline": "UCF Takes Cinderella Run to Hollywood — Knights Face UCLA in Super Regional Tonight",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "UCF at UCLA Tonight at 9 PM ET\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** UCF Knights player in gold and black uniform; celebratory moment or field action; Cinderella energy\n- **Photo Search Terms (Imagn):**\n  1. UCF Knights softball\n  2. UCF softball player\n  3. UCLA Bruins softball\n  4. UCLA softball Easton Stadium\n- **Text Overlay:**\n  - Headline: \"UCF KEEPS ROLLING\" (Poppins Bold, white, large)\n  - Subtitle: \"SUPER REGIONAL | 9 PM ET ESPNU\" (#F4C542 gold, Nunito)\n- **Composition Notes:** UCF player in action or celebration; visible jersey/uniform essential; crowd backdrop preferred\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. UCF Knights softball\n  2. UCF softball player\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "UCF at UCLA Super Regional Game 1 Tonight\n**Decision:** FOLLOW UP (UCF-UCLA covered May 20, 21; game-night road angle)\n**Sources:**\n- \"Softball Set for Second All-Time Super Regional Berth, Will Clash with (8) UCLA\" — ucfknights.com (May 21, 2026)\n- Prior pipeline confirms UCF beat No. 9 FSU 4-2 in Tallahassee Regional Final\n- NCAA.com game page confirms May 22 9 PM ET ESPNU\n**Key Facts:**\n- UCF's second-ever Super Regional in program history [HIGH — confirmed multiple sources]\n- UCF beat No. 9 FSU 4-2 in regional final — program's first-ever NCAA win vs FSU [HIGH — covered May 18 pipeline]\n- UCF unbeaten in regional [MEDIUM — prior pipeline]\n- Game 1: Friday May 22, 9 PM ET on ESPNU at Easton Stadium, Los Angeles [HIGH]\n- UCLA seeded No. 8 [HIGH — prior pipeline]\n- UCF won in Tallahassee; cross-country travel to L.A. [HIGH]\n**Freshness:** Game preview articles published within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Arkansas's WCWS Drought on the Line — Duke Opens Today at 11 AM ET (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Arkansas has been to 5 Super Regionals.\n\nThey have never made it to the WCWS.\n\nToday at 11 AM ET on ESPNU, they face Duke — a program with nothing to lose.\n\nThis is Courtney Deifel's biggest game. It starts now. 🥎 #Razorbacks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Razorbacks"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "🐗 FIVE SUPER REGIONALS. ZERO WCWS TRIPS. TODAY IS DIFFERENT. 🐗\n\nCourtney Deifel has built Arkansas softball into a powerhouse.\n\nShe's also been to 5 Super Regionals and never reached the Women's College World Series. That's not a knock — it's context. It means every time Arkansas gets here, there's unfinished business. There's a weight that comes with the history of not getting over the hump.\n\nToday at 11 AM ET on ESPNU, Arkansas hosts Duke at Bogle Park in Fayetteville.\n\nDuke has been to 4 Super Regionals in the last 5 years. They know this stage. They know how to come into an opponent's home field and play without the crowd getting to them. And with the narrative pressure sitting entirely on Arkansas's shoulders, the Blue Devils have the most dangerous thing in sports: nothing to lose.\n\nBut Arkansas is at home. Bogle Park will be electric. And Deifel's program is good enough to win this series — they've always been good enough. This year might finally be the year the results match the reputation.\n\nGame 1 is today. The answer starts now.\n\n🐗 Game 1 | Friday, May 22 | 11 AM ET | ESPNU | Fayetteville, AR\n\n[Arkansas fans — is THIS finally the year? Tell us below!] 👇\n\n---",
+        "image_caption": "Courtney Deifel is 0-for-5 in Super Regionals. Today at 11 AM ET on ESPNU, Arkansas hosts Duke in their most emotionally loaded game of the season. Five years of heartbreak — does it end today? 🐗 #Razorbacks",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Arkansas vs. Duke — Deifel's WCWS Breakthrough Game\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Courtney Deifel on the dugout steps or Arkansas player batting at Bogle Park; crowd visible\n- **Photo Search Terms (Imagn):**\n  1. Courtney Deifel Arkansas\n  2. Arkansas Razorbacks softball\n  3. Arkansas softball Bogle Park\n  4. Duke Blue Devils softball\n- **Text Overlay:**\n  - Headline: \"ARKANSAS vs. DUKE — TODAY\" (Poppins Bold, white, large)\n  - Subtitle: \"11 AM ET | ESPNU | FAYETTEVILLE\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Coach or player in game action; Arkansas red uniform visible; Bogle Park setting preferred\n\n**Article Hero:** N/A (no article for Story 6)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Arkansas vs. Duke Super Regional Game 1 Today\n**Decision:** FOLLOW UP (Arkansas-Duke covered May 20, 21; Deifel/drought angle)\n**Sources:**\n- \"Fueled by past heartbreak, Arkansas softball seeks WCWS breakthrough against Duke\" — wholehogsports.com (May 21, 2026)\n- \"No. 5 Arkansas softball prepares for a massive Super Regional showdown against No. 12 Duke\" — razorbackers.com (recent)\n- Prior pipeline analysis: \"Deifel 0-for-5 in SRs\" confirmed in story history\n**Key Facts:**\n- Arkansas head coach Courtney Deifel: 0-for-5 in Super Regionals [HIGH — consistent across pipeline]\n- Duke: 4th Super Regional in 5 years [MEDIUM — prior pipeline May 21]\n- Game 1: Friday May 22, 11 AM ET on ESPNU at Bogle Park, Fayetteville [HIGH — NCAA schedule]\n**Freshness:** Preview articles published within 24 hours.\n## Dropped Candidates\n- Texas vs Arizona State preview (Tier 3 — subsumed by existing stories; similar \"game tonight\" content)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 6,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
