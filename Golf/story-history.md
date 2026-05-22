@@ -593,3 +593,48 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Age 31, born March 3 1995, Wombourne England (near Wolverhampton). Father Amrik Singh (England-born, Indian immigrant heritage), Mother Dalvir Shukla (immigrated from Kenya). Turned pro 2012. European Tour background. First PGA Tour win: 2024 Wyndham Championship. Wears two gloves (distinctive trait). Major exemption 5 years. $3.69M first prize.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Rai Byron Nelson week; career trajectory; two-gloves profile
+
+## 2026-05-22
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | CJ Cup Byron Nelson R1 (May 21, TPC Craig Ranch) — Moore leads -9 (62); Koepka -8 (63) bogey-free, new putter; Si Woo Kim -7 (64); Scheffler -5 (66) 4 back; R2 underway today Golf Channel 3-7 PM ET | 1 | NEW STORY |
+| 2 | Koepka 63 at Byron Nelson — new putter, bogey-free, 6 birdies/1 eagle, 4 putts outside 10 feet made (17-ft birdie 11th, 13-ft eagle 12th), lowest round of 2026 season | 1 | NEW STORY |
+| 3 | Aaron Rai PGA Championship aftermath — Nicklaus and Faldo praise composure; "sparked praise from Jack Nicklaus and Nick Faldo" (EasternHerald); global reaction continues building | 2 | FOLLOW UP (from May 21 Rai victory coverage) |
+| 4 | Nelly Korda 2026 LPGA — 3 wins in 6 starts (Chevron Championship + 2), 3 runner-ups, 6 consecutive top-2 finishes (only Sorenstam 2001 matched); bogey rate 7.97% (4+ pts better than anyone); back to World No.1; US Women's Open June 4-7 Riviera CC | 2 | NEW STORY |
+| 5 | LIV Golf Korea preview — May 28-31 Asiad CC Busan; Herbert leads individual standings 99.18 pts after Virginia wire-to-wire win at -24 (4 shots over Garcia); Ripper GC leads teams; 4Aces GC won Virginia team title | 2 | FOLLOW UP (Herbert win covered May 21) |
+
+### STORY 1: Byron Nelson R1 Recap
+- **Tier:** 1
+- **Category:** Tournament Results / PGA Tour
+- **Key facts:** R1 May 21. Moore leads at -9 (62). Koepka -8 (63), bogey-free, new putter. Si Woo Kim -7 (64). Scheffler -5 (66), 4 back. R2 underway May 22, Golf Channel 3-7 PM ET. Tournament: May 21-24, TPC Craig Ranch.
+- **Status:** NEW STORY
+- **Follow-up ideas:** R2 result/leader; Scheffler comeback story; Koepka second round
+
+### STORY 2: Koepka Byron Nelson R1 63
+- **Tier:** 1
+- **Category:** Player Spotlight / PGA Tour
+- **Key facts:** 8-under 63, bogey-free. New putter debut. 6 birdies, 1 eagle. Made 4 putts outside 10 feet. 17-ft birdie hole 11, 13-ft eagle hole 12. Lowest round of 2026 PGA Tour season.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Koepka R2 performance; tournament contention weekend
+
+### STORY 3: Aaron Rai Aftermath — Nicklaus/Faldo Praise
+- **Tier:** 2
+- **Category:** Major Aftermath / Player Feature
+- **Key facts:** Nicklaus and Faldo publicly praised Rai's performance/composure post-PGA Championship win. Rai won at Aronimink May 17, -9 (271), 3-shot win, final-round 65. First Englishman since Jim Barnes (1916/1919). First player of Indian descent to win men's major. 290-1 pre-tournament odds.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Rai US Open appearance; rising world ranking
+
+### STORY 4: Nelly Korda LPGA 2026
+- **Tier:** 2
+- **Category:** Player Feature / LPGA Tour
+- **Key facts:** 3 wins (incl. Chevron Championship, 3rd major) in 6 starts; 3 runner-ups; only Sorenstam 2001 started with 6 straight top-2. World No. 1. Bogey rate 7.97% (4+ pts better than anyone). 75% up-and-down rate. Youngest American to reach 18 LPGA wins in 46 years. US Women's Open: June 4-7, Riviera CC.
+- **Status:** NEW STORY
+- **Follow-up ideas:** US Women's Open coverage; Korda 4th win chase
+
+### STORY 5: LIV Golf Korea Preview
+- **Tier:** 2
+- **Category:** LIV Golf / Tournament Preview
+- **Key facts:** LIV Golf Korea: May 28-31, Asiad CC, Busan. Herbert individual leader 99.18 pts. Ripper GC leads teams. 4Aces GC won Virginia team title (in playoff). 57 players, 72 holes, no cut.
+- **Status:** FOLLOW UP (Herbert win covered May 21)
+- **Follow-up ideas:** Korea results; standings update post-Korea

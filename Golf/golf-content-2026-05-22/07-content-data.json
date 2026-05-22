@@ -1,0 +1,252 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-22",
+  "compiled_at": "2026-05-22T11:29:22.510621+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Byron Nelson R1 Recap — Moore Leads at 62, Koepka 63, Scheffler 66 at TPC Craig Ranch",
+      "tier": 1,
+      "status": "",
+      "angle": "Moore's 62 is impressive, but Koepka's story — bogey-free 63 on the strength of a new putter, his best round of 2026 — is the headline grabber. Scheffler lurks at -5 in a course he won last year.",
+      "posting_window": "8:00 AM / 3:30 PM (R2 update)",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Byron Nelson R1 final:\n\nTaylor Moore: -9 (62) — leader\nBrooks Koepka: -8 (63) — bogey-free, new putter\nSi Woo Kim: -7 (64)\nScottie Scheffler: -5 (66) — 4 back, lurking\n\nR2 underway today. Golf Channel 3-7 PM ET. #GolfFanrecap #ByronNelson #PGATour",
+          "posting_time": "8:00 AM / 3:30 PM (R2 update)",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#ByronNelson",
+            "#PGATour"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 1-2",
+          "text": "LIVE: Byron Nelson R2. Scheffler/Koepka/Kim teed off ~1:43 PM ET.\n\nScheffler is 4 back. He's defending. He's dangerous.\n\nWatch on Golf Channel. Can Moore hold the lead? #GolfFanrecap #ByronNelson #PGATour",
+          "posting_time": "8:00 AM / 3:30 PM (R2 update)",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#ByronNelson",
+            "#PGATour"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "Round 1 of the CJ Cup Byron Nelson at TPC Craig Ranch told a familiar and exciting story: a surprise leader, a dominant champion lurking, and a suddenly dangerous former major winner rediscovering his form.\n\nTaylor Moore shot a 9-under 62 to take the first-round lead — a round that set the tone for a packed leaderboard just behind him. Brooks Koepka, deploying a new putter for the first time, carded a bogey-free 8-under 63 that was the talk of the clubhouse Thursday. Si Woo Kim sits at 7-under, and then — four back but absolutely in striking distance — is Scottie Scheffler.\n\nScheffler won this tournament last year. He is the world No. 1. He is playing at a course he knows how to win on. A 66 in Round 1 is exactly the kind of position that sets up a controlled, patient charge over the next three days.\n\nRound 2 is underway today at TPC Craig Ranch, with Koepka, Scheffler, and Kim in the same group teeing off in the afternoon. Golf Channel has coverage from 3-7 PM ET. This leaderboard is tight and the weekend will be compelling.",
+        "image_caption": "Byron Nelson R1: Moore 62 leads. Koepka 63 one back. Scheffler 66, four back.\n\nThe defending champion is lurking. Round 2 underway now.\n\nGolf Channel 3-7 PM ET. #GolfFanrecap #ByronNelson #PGATour",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-byron-nelson-r1-moore-62-koepka-63-scheffler-lurking.html",
+        "headline": "Byron Nelson Round 1: Moore's 62 Leads, Koepka Fires 63, Scheffler Lurks Four Back",
+        "word_count": 471
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Byron Nelson R1 Recap\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Scottie Scheffler PGA Tour\n- **Intended use:** X post, FB post\n- **Description:** Scheffler focused or executing a shot; defending champion energy\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Taylor Moore PGA Tour\n- **Intended use:** FB post alternate\n- **Description:** Moore in competition; first-round leader energy\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Koepka's Putter Change Fuels Bogey-Free 63 — Best Round of His 2026 Season",
+      "tier": 1,
+      "status": "",
+      "angle": "Koepka's putting has been his Achilles heel this year. One putter change — one round — and he looks like a completely different golfer. He is within striking distance of a win.",
+      "posting_window": "10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "New putter. Zero bogeys. Eight under.\n\nBrooks Koepka just had the round of his 2026 season — a 63 at the Byron Nelson.\n\nHe's one back. He's locked in. Don't be surprised by what happens next. #GolfFanrecap #Koepka #PGATour",
+          "posting_time": "10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Koepka",
+            "#PGATour"
+          ],
+          "char_count": 222
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Koepka's putter changes: he made FOUR putts outside 10 feet in Round 1.\n\nA 17-footer for birdie. A 13-footer for eagle. Bogey-free 63.\n\nThat's not luck. That's a man who found his stroke. #GolfFanrecap #Koepka",
+          "posting_time": "10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Koepka"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "There is something almost theatrical about how a single piece of equipment can change the narrative of a golfer's season. Brooks Koepka has had his struggles in 2026. His ball-striking has remained formidable. His putting has not been at the level that made him one of the most clutch performers in major championship history.\n\nSo he made a change. A new putter arrived in his bag for Round 1 of the CJ Cup Byron Nelson.\n\nThe result: a bogey-free 8-under 63 — the lowest round of his 2026 PGA Tour season.\n\nIt wasn't just the numbers. It was how the birdies and the eagle came. Koepka holed a 17-foot birdie on his second hole of the day. He made a 13-foot eagle putt that gave him a run of momentum he never relinquished. He converted four putts outside 10 feet across 18 holes — the kind of day you can only have when every stroke feels completely right.\n\nHe stands one shot behind Taylor Moore heading into Round 2. He's grouped with Scheffler and Si Woo Kim for the afternoon wave. He is, once again, very much in the conversation.\n\nFor Brooks Koepka, being in a conversation like this is where he lives.",
+        "image_caption": "New putter. Zero bogeys. 8-under 63 at the Byron Nelson.\n\nKoepka's best round of 2026 — and he's one back of the lead.\n\nDon't look away. #GolfFanrecap #Koepka #PGATour",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-koepka-putter-change-bogey-free-63-byron-nelson.html",
+        "headline": "New Putter, Zero Bogeys: Koepka's 63 Is the Best Round of His 2026 Season",
+        "word_count": 435
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Koepka Putter Change\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Brooks Koepka PGA Tour\n- **Intended use:** X post, FB post\n- **Description:** Koepka on the putting green or reading a putt; putter-focused composition\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Brooks Koepka PGA Tour\n- **Intended use:** FB post alternate\n- **Description:** Koepka celebrating a made putt or birdie; momentum and intensity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Aaron Rai Aftermath — Nicklaus and Faldo Praise Historic PGA Championship Win",
+      "tier": 2,
+      "status": "",
+      "angle": "The praise from Nicklaus and Faldo — two of the greatest champions in the game's history — places Rai's win in its proper historical context. His 290-1 odds victory is being described as one of the most improbable major wins of the modern era.",
+      "posting_window": "8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jack Nicklaus and Nick Faldo praised Aaron Rai after his PGA Championship win.\n\nWhen the two greatest champions in history acknowledge what you did —\n\nThat's a different kind of validation. 290-1. Historic. #GolfFanrecap #AaronRai",
+          "posting_time": "8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#AaronRai"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "More than a week after Aaron Rai's stunning 9-under PGA Championship victory at Aronimink Golf Club, the reaction from the broader golf world continues to build. And the most significant voices to weigh in may be the most significant voices in the sport's history.\n\nJack Nicklaus — winner of 18 major championships, the most of any player ever — praised Rai's composure and performance in the days after the victory. Nick Faldo — six-time major champion and widely considered one of the greatest ball-strikers of his era — added his own words of admiration.\n\nThat kind of recognition places Rai's win in a specific historical lineage. When the two men whose names define major championship excellence acknowledge what you achieved, it carries a weight that no highlight package or statistic can match.\n\nWhat Rai did was extraordinary by any measure. He was ranked 44th in the world entering the week. He won at 290-to-1 odds — the definition of an upset. He was the first Englishman to win the PGA Championship since Jim Barnes won the first two editions of the tournament in 1916 and 1919. He was the first player of Indian heritage to win a men's major championship.\n\nThe 70-foot birdie putt at the 17th hole that sealed it. The eagle at the 9th. The final-round 65. All of it happening at Aronimink, in front of a crowd that had arrived expecting someone else to win.\n\nNicklaus and Faldo noticed. Golf noticed. The reverberations of what Aaron Rai achieved on May 17 will echo for years.",
+        "image_caption": "Jack Nicklaus and Nick Faldo praised Aaron Rai this week.\n\nWhen the sport's greatest champions acknowledge what you did — that's a different kind of validation.\n\nFirst Englishman to win PGA Championship since 1919. 290-1. Historic. #GolfFanrecap #AaronRai",
+        "posting_time": "8:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-aaron-rai-nicklaus-faldo-praise-pga-championship.html",
+        "headline": "Jack Nicklaus and Nick Faldo Praise Aaron Rai After Historic PGA Championship Victory",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Rai Praise\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Aaron Rai PGA Championship\n- **Intended use:** X post, FB post\n- **Description:** Rai celebrating or holding the Wanamaker Trophy; historic win moment\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Nelly Korda's 2026 LPGA Dominance — 3 Wins in 6 Starts, Targeting US Women's Open",
+      "tier": 2,
+      "status": "",
+      "angle": "Korda's stat line is historically unusual: 7.97% bogey-or-worse rate (more than 4 percentage points better than anyone else on tour); only Annika Sorenstam in 2001 started a season with six consecutive top-2 finishes. She is the overwhelming pre-tournament favorite for the US Women's Open.",
+      "posting_window": "6:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Nelly Korda in 2026:\n\n6 starts. 3 wins. 3 runner-ups. World No. 1. Chevron Championship major.\n\nOnly Annika Sorenstam (2001) started a season with 6 straight top-2 finishes.\n\nUS Women's Open is June 4-7. Be afraid. #GolfFanrecap #NellyKorda #LPGA",
+          "posting_time": "6:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#NellyKorda",
+            "#LPGA"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "There is a comparison being made in women's golf right now that you do not make lightly. Analysts are invoking Annika Sorenstam's 2001 season — arguably the most dominant performance by any player in the history of the LPGA Tour.\n\nAnd it applies to Nelly Korda in 2026.\n\nIn six starts this season, Korda has won three times and finished second three times. Six starts. Zero finishes outside the top two. The only player who achieved six consecutive top-2 finishes to begin a season was Sorenstam in 2001.\n\nHer wins include the Chevron Championship — her third career major, which returned her to the world No. 1 ranking — and two subsequent victories, including her win at the Riviera Maya Open at Mayakoba by four strokes. She became the first player since Lorena Ochoa in 2008 to win an LPGA tournament by four strokes or more in back-to-back weeks.\n\nThe statistical picture is similarly remarkable. Her bogey-or-worse rate of 7.97% is not just the lowest on the LPGA Tour — it's more than four full percentage points better than anyone else in the field. She is getting up-and-down at a 75.0% clip, also the best on tour.\n\nAt 27 years old, she became the youngest American to reach 18 career LPGA victories in 46 years — since Nancy Lopez did it in 1980.\n\nThe US Women's Open is scheduled for June 4-7 at Riviera Country Club in Pacific Palisades, California. Korda arrives as the overwhelming favorite and the form player of the decade. The only question is whether anyone in the world can disrupt what she's doing right now.",
+        "image_caption": "3 wins. 3 runner-ups. 6 starts. World No. 1. Major champion.\n\nNelly Korda is having an Annika Sorenstam-level 2026 season — and the US Women's Open is coming June 4-7.\n\nBe afraid. Be very afraid. #GolfFanrecap #NellyKorda #LPGA",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-nelly-korda-lpga-2026-dominance-sorenstam-comparison.html",
+        "headline": "Nelly Korda's 2026 LPGA Season Is Historically Dominant — and the US Women's Open Is Next",
+        "word_count": 432
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nelly Korda Dominance\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Nelly Korda LPGA Tour\n- **Intended use:** X post, FB post\n- **Description:** Korda celebrating a win or walking the fairway; dominant champion energy\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LIV Golf Korea Preview — Tour Heads to Busan After Herbert's Virginia Wire-to-Wire Win",
+      "tier": 2,
+      "status": "",
+      "angle": "Herbert's Virginia win was one of the most dominant performances in LIV Golf 2026 — wire-to-wire, four shots clear at -24. Korea represents a new test as the tour moves to Asia for the first time this season.",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "LIV Golf heads to Busan, Korea. May 28-31.\n\nLucas Herbert leads the individual standings after his wire-to-wire Virginia win at -24.\n\nFirst Asian stop of the 2026 LIV season. 57 players. No cut. 72 holes. #GolfFanrecap #LIVGolf",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LIVGolf"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "Lucas Herbert delivered the most dominant wire-to-wire performance on the LIV Golf circuit this season when he won at Trump National Golf Club in Virginia, finishing at 24-under par and winning by four shots over Sergio Garcia. It was his first LIV individual trophy. He leads the 2026 individual standings with 99.18 points.\n\nNow the tour moves to Asia.\n\nLIV Golf Korea takes place from May 28-31 at Asiad Country Club in Busan, South Korea — the first Asian stop of the 2026 season. The full 57-player field competes over 72 holes with no cut, meaning every player in the field will finish all four rounds.\n\nThe team standings heading into Korea have Ripper GC at the top, followed by 4Aces GC — which won the team title at Virginia in a playoff — and Legion XIII in third. The individual and team races will both be alive throughout the Korea event.\n\nThe move to Busan brings the tour to a market with deep interest in golf and significant commercial partnerships. Korea has produced some of the most decorated players in professional golf history, and the connection between the tour and its Korean audience is meaningful.\n\nFor the LIV field, Korea represents a new challenge in a new environment — always an opportunity for someone to separate themselves from the pack.",
+        "image_caption": "LIV Golf is heading to Busan, Korea. May 28-31.\n\nHerbert leads individual standings after Virginia. Ripper GC on top in teams.\n\nFirst Asian stop of 2026 — who takes the next title? #GolfFanrecap #LIVGolf",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-liv-golf-korea-preview-herbert-leads-standings.html",
+        "headline": "LIV Golf Heads to Korea: Herbert Leads Standings After Wire-to-Wire Virginia Victory",
+        "word_count": 392
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Korea Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Lucas Herbert LIV Golf\n- **Intended use:** X post, FB post\n- **Description:** Herbert in competition or celebrating his Virginia victory; LIV leader energy"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

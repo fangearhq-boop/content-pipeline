@@ -1,8 +1,26 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-21
+- **Date**: 2026-05-22
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Current Pipeline (2026-05-22)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-05-22 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-22 |
+| Fact-check | Complete (verify-facts.py — 23 claims, 42 HIGH confidence) | 2026-05-22 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-22 |
+| PostPlanner | Complete (7 X posts + TOBI 7 posts) | 2026-05-22 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent) | 2026-05-22 |
+| Published | Failed — WordPress credentials blocked by egress proxy (persistent) | 2026-05-22 |
+| Git | Committed and pushed to main | 2026-05-22 |
+
+## Notes (2026-05-22)
+- 5 stories: Byron Nelson R1 (Moore 62 leads, Koepka 63 bogey-free, Si Woo Kim 64, Scheffler 66 lurking, R2 underway) T1; Koepka putter change/bogey-free 63/lowest round 2026 T1; Aaron Rai aftermath (Nicklaus+Faldo praise, 290-1 win, first Englishman since 1919, first Indian-descent men's major) T2; Nelly Korda 2026 LPGA dominance (3 wins/3 runners-up in 6 starts, Sorenstam 2001 comparison, World No.1, US Women's Open June 4-7) T2; LIV Golf Korea preview (May 28-31 Busan, Herbert leads standings after Virginia wire-to-wire win) T2
+- Pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres
+- WordPress publish failed (egress proxy — persistent across all three niches)
 
 ## Current Pipeline (2026-05-21)
 
