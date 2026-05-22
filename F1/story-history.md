@@ -1778,3 +1778,48 @@
 - **Key facts:** Norris 51 pts (4th), 49 behind Antonelli, 29 behind Russell. P2 Miami. McLaren improving. Canada 34 pts available (sprint + race). Gap to 2nd = 29 pts.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Canada sprint/race; McLaren title push; mid-season championship picture
+
+## 2026-05-22
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Canada GP Sprint Weekend — first-ever sprint at Circuit Gilles Villeneuve; Sprint Qualifying TONIGHT 9:30 PM ET; Sprint Sat May 23 5 PM ET; Qualifying Sat 9 PM ET; Race Sun May 24 | 1 | NEW STORY |
+| 2 | Hamilton's Canadian GP Mission — 7 wins (tied Schumacher all-time), all at McLaren/Mercedes; Ferrari still winless with Hamilton; first win 2007 at Gilles Villeneuve; Jenson Button backing him; Ferrari upgrades | 1 | NEW STORY |
+| 3 | Russell vs Antonelli — Russell won Canada 2025 from pole; trails by 20 pts; Antonelli chasing 4-for-4; Mercedes internal title fight defining 2026 season | 2 | FOLLOW UP (from ongoing title fight coverage) |
+| 4 | Mercedes W17 Canada Upgrade — biggest upgrade package of 2026 season; ~0.3 sec/lap projected; aero floor "black hole" fix; delayed from Miami for concentrated impact; McLaren/RB/Ferrari also bringing updates | 2 | FOLLOW UP (upgrade announced pre-Canada) |
+| 5 | Verstappen's Reset — 7th in championship, 26 pts, zero wins; Nurburgring DNF heartbreak; Red Bull upgrades in Canada; Miami "important step forward" per Mekies | 2 | FOLLOW UP (from ongoing Verstappen/RB storyline) |
+
+### STORY 1: Canada GP Sprint Weekend — First-Ever Sprint at Gilles Villeneuve
+- **Tier:** 1
+- **Category:** Race Weekend / Sprint Preview
+- **Key facts:** First-ever F1 Sprint at Circuit Gilles Villeneuve. FP1 May 22 afternoon. Sprint Qualifying TONIGHT 9:30 PM ET. Sprint Sat May 23 5 PM ET. Qualifying Sat 9 PM ET. Race Sun May 24. All sessions ESPN/ESPN+. Third sprint of 2026 season.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Sprint Qualifying results; Sprint race result; Sunday qualifying/race result
+
+### STORY 2: Hamilton's Canadian GP Mission
+- **Tier:** 1
+- **Category:** Driver Feature / Historic Stakes
+- **Key facts:** Hamilton 7 Canadian GP wins (tied with Schumacher). All 7 at McLaren/Mercedes. Ferrari still winless with him. First F1 win: 2007 Canadian GP. Ferrari has upgrades for Canada. Jenson Button backed Hamilton for strong result.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Hamilton Canada qualifying/race result; first Ferrari win
+
+### STORY 3: Russell vs Antonelli
+- **Tier:** 2
+- **Category:** Championship Battle / Teammate Rivalry
+- **Key facts:** Antonelli 100 pts, Russell 80 pts (-20). Antonelli 3 wins from 3 starts (3 poles too, unprecedented). Russell won 2025 Canadian GP from pole. Russell: "no need to panic, just another race."
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Canada sprint/race result; championship gap change
+
+### STORY 4: Mercedes W17 Canada Upgrade
+- **Tier:** 2
+- **Category:** Technical / Car Development
+- **Key facts:** Biggest Mercedes upgrade of 2026 season. ~0.3 sec/lap projected (aero floor revised). Deliberately held back from Miami for maximum impact. Wolff: "has to work." McLaren/Red Bull/Ferrari also bringing updates.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint qualifying performance of upgraded W17; race result
+
+### STORY 5: Verstappen's Reset
+- **Tier:** 2
+- **Category:** Driver Feature / Red Bull
+- **Key facts:** Verstappen 7th in championship, 26 pts, zero wins/podiums. Nurburgring 24H DNF (30+ sec lead, driveshaft failure with hours remaining). RB Miami update "important step forward" per Mekies. New RB upgrade in Canada. Circuit not historically RB-strong.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Canada sprint/qualifying/race result; RB upgrade effectiveness

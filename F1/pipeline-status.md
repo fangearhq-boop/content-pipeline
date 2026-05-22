@@ -1,8 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-21
+- **Date**: 2026-05-22
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-05-22
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-22.xlsx (7 posts) + f1fr-postplanner-tobi-2026-05-22.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-22/review-dashboard.html (27 items)
+- **Notes:** Canada GP sprint weekend underway at Circuit Gilles Villeneuve (first-ever sprint at this circuit); Sprint Qualifying TONIGHT 9:30 PM ET; Hamilton 7 Canadian GP wins targeting first Ferrari win; Russell must-win vs Antonelli (trails 80-100); Mercedes W17 major upgrade (~0.3 sec/lap, aero floor revision); Verstappen 7th/26 pts seeking reset after Nurburgring DNF
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ## Pipeline Run Log
 
