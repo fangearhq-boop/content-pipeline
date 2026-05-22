@@ -1,8 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-21
+- **Date**: 2026-05-22
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-05-22
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-05-22.xlsx (7 posts) + hh-postplanner-tobi-2026-05-22.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-22/review-dashboard.html (27 items)
+- **Notes:** Knicks 109-93 Cavs ECF G2 (Hart 26 career-high, Brunson 14 ast career-high, Knicks lead 2-0); Thunder 122-113 Spurs WCF G2 (SGA 30/9, series tied 1-1); WCF G3 TONIGHT 8:30 PM ET SA NBC/Peacock (Fox/Harper/Williams all questionable); ECF G3 Sat May 23 8 PM ET Cleveland ABC
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ## Pipeline Run Log
 

@@ -1959,3 +1959,48 @@
 - **Key facts:** Game 2 May 20, 8:30 PM ET, Paycom Center OKC, NBC/Peacock. OKC 8-0 before Game 1 loss. SGA 2x MVP, 31.1 ppg. Jalen Williams returned for WCF. Thunder must respond or face 0-2 deficit heading to San Antonio.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Game 2 result; SGA adjustments; OKC defensive scheme vs Wembanyama
+
+## 2026-05-22
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks 109-93 Cavs ECF G2 (May 21, MSG) — Hart 26 pts (playoff career-high, 10-21 FG, 5-11 3P, 7 ast, 4 reb, 2 stl); Brunson 19 pts/14 ast (playoff career-high); Knicks lead ECF 2-0; G3 Sat May 23 8 PM ET Cleveland ABC | 1 | NEW STORY |
+| 2 | WCF G3 TONIGHT (May 22, AT&T Center SA, 8:30 PM ET NBC/Peacock) — Series tied 1-1; Fox (right high ankle sprain, missed both WCF games, questionable), Harper (right adductor strain from G2 Q3 exit, questionable), Williams (left hamstring from G2 Q1 exit, questionable) | 1 | NEW STORY |
+| 3 | Thunder 122-113 Spurs WCF G2 (May 20, Paycom) — SGA 30 pts/9 ast/+14/50% FG; Wemby 21/17reb; Castle 28/8ast; Spurs 21 TOs vs Thunder 9; Williams exited Q1 left hamstring; Harper exited Q3 right adductor; series tied 1-1 | 2 | FOLLOW UP (WCF G2 result from May 21 brief) |
+| 4 | ECF G3 Preview — Knicks at Cleveland Sat May 23 8 PM ET ABC; Knicks lead 2-0; no team has ever come back from 0-3 in NBA playoffs; Mitchell must deliver statement game at home | 2 | NEW STORY |
+| 5 | Josh Hart — playoff career-high 26 pts in ECF G2; 10-21 FG, 5-11 3P, 7 ast; 47.6% from three in ECF; heartbeat of Knicks' offensive system | 2 | NEW STORY |
+
+### STORY 1: Knicks 109-93 Cavaliers — ECF Game 2 (May 21)
+- **Tier:** 1
+- **Category:** Playoff Results / Conference Finals
+- **Key facts:** Knicks 109, Cavs 93. Hart 26 pts (playoff career-high), 10-21 FG, 5-11 3P, 7 ast, 4 reb, 2 stl. Brunson 19 pts, 14 ast (playoff career-high). Knicks lead ECF 2-0. ECF G3: Sat May 23, Cleveland, 8 PM ET, ABC.
+- **Status:** NEW STORY
+- **Follow-up ideas:** ECF G3 result; Cavs 0-3 crisis; Hart's continuing evolution
+
+### STORY 2: WCF Game 3 Tonight — Major Injury Cloud
+- **Tier:** 1
+- **Category:** Game Preview / Injury Watch / WCF
+- **Key facts:** WCF tied 1-1. Game 3 TONIGHT: AT&T Center SA, 8:30 PM ET NBC/Peacock. Fox: right high ankle sprain, missed G1+G2, questionable. Harper: right adductor strain from G2 Q3, questionable. Williams: left hamstring from G2 Q1, questionable. Wembanyama healthy.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 3 result; injury updates after game; series momentum
+
+### STORY 3: WCF Game 2 Recap — Thunder 122-113 Spurs
+- **Tier:** 2
+- **Category:** Playoff Results / WCF Recap
+- **Key facts:** Thunder 122, Spurs 113. SGA 30 pts/9 ast/+14/50% FG. Wemby 21/17reb. Castle 28/8ast. Spurs 21 TOs vs Thunder 9. Series tied 1-1.
+- **Status:** FOLLOW UP (prev brief had result in notes; this is full recap)
+- **Follow-up ideas:** WCF G3 result; SGA vs Wemby matchup deepdive
+
+### STORY 4: ECF Game 3 Preview
+- **Tier:** 2
+- **Category:** Game Preview / ECF
+- **Key facts:** Knicks lead ECF 2-0. Game 3: Sat May 23, Rocket Mortgage FieldHouse, Cleveland, 8 PM ET ABC. No team has ever come back from 0-3 in NBA playoffs. Cavs must win at home.
+- **Status:** NEW STORY
+- **Follow-up ideas:** G3 result; Cavs 0-3 crisis
+
+### STORY 5: Josh Hart Playoff Career-High
+- **Tier:** 2
+- **Category:** Player Spotlight / ECF
+- **Key facts:** Hart 26 pts (playoff career-high), 10-21 FG, 5-11 3P, 7 ast, 4 reb, 2 stl in ECF G2. Shooting 47.6% from three in ECF. Brunson had 14 ast (career-high). Both same game.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Hart's ECF series totals; Knicks offensive system analysis
