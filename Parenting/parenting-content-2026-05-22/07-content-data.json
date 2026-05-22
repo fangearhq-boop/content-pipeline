@@ -1,0 +1,270 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-22",
+  "compiled_at": "2026-05-22T12:27:42.003326+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Last Day of School — Class of 2026 Begins Summer Break Today",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D11's last day of school is today. Summer break starts for all Colorado Springs families.\n\nPPLD Summer Adventure: June 2. YMCA Pikes Peak camps: May 27.\n\nClass of 2026, you made it. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 1-2",
+          "text": "D11's Class of 2026 is officially done.\n\nPalmer. Coronado. Mitchell. Achieve. Tesla. Bijou. Odyssey.\n\nThe last bell rings today for all Colorado Springs District 11 students. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 AM MT\n\nToday is the last day of school for all Colorado Springs District 11 students — and that means summer officially starts for approximately 26,000 families across our community.\n\nIt has been a full week of graduations. Palmer High School went first on May 19. Coronado and Mitchell followed on May 20. Then Achieve High, Tesla STEM High, Bijou School, and Odyssey Charter wrapped things up on May 21. The academic year for the Class of 2026 is complete. For elementary and middle school families, today's final bell is the starting gun for summer.\n\nWhat is coming up next? A few reminders:\n\nYMCA Pikes Peak summer camps begin next week (May 27) at three Colorado Springs locations: Briargate, First and Main, and Tri-Lakes. If you have not registered yet, visit ppymca.org.\n\nPPLD Summer Adventure starts June 2 with the theme \"Unearth a Story\" — free, for all ages, at every Pikes Peak Library District branch. Registration is open now at ppld.org/summer.\n\nTerritory Days is happening this weekend (May 23-25) in Old Colorado City — free admission, 180-plus booths, and kids' activities. And the Broadmoor World Arena hosts three D49 graduation ceremonies tomorrow.\n\nFor D11 families, the 2026-27 school year resumes in late August. For today: celebrate.\n\nWhat are your summer plans? Drop them in the comments.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d11-last-day-of-school-summer-2026.html",
+        "headline": "D11 Last Day of School: Summer Break Begins for Colorado Springs Families Today",
+        "word_count": 481
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Last Day of School\n\n#### Image Concept 1A — Social (1080x1350)\n- **Type:** Gemini (base_only)\n- **Prompt:** \"Clean flat-lay on a light wood surface with scattered school supplies — pencils, a notebook, ruler — and a small chalkboard sign reading 'LAST DAY — CLASS OF 2026'. Soft natural light. Warm, celebratory mood. No people. No text overlay area needed — leave space at top for title text.\"\n- **Caption overlay:** \"LAST DAY OF SCHOOL · D11 CLASS OF 2026\"\n- **Usage:** Social (1080x1350)\n\n#### Image Concept 1B — Article Hero (1200x630)\n- **Type:** Gemini (base_only)\n- **Prompt:** \"Children's backpacks stacked by a bright red school door on a sunny day, suggestive of summer arriving. Shallow depth of field, soft warm sunlight, cheerful mood. No people, no identifiable faces. Clean background space at top for text overlay.\"\n- **Caption overlay:** \"SUMMER BEGINS · D11 2026\"\n- **Usage:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Last Day of School\n**Sources consulted:**\n1. d11.org — District calendar (last day confirmed May 22 from prior pipeline runs and official calendar)\n2. Prior pipeline: May 21 brief states \"Last day of school for all D11 students: Friday, May 22\"\n3. schoolcalendarinfo.com — Colorado Springs School District 11 calendar 2025-2026\n**Verified facts (HIGH confidence):**\n- Last day of D11 school is Friday May 22, 2026 — confirmed d11.org (multiple prior pipeline references)\n- D11 graduation week ran May 19-21 — confirmed via prior pipeline coverage\n- PPLD Summer Adventure starts June 2 — confirmed May 20 pipeline\n- YMCA Pikes Peak camps start May 27 — confirmed May 19 pipeline\n**Freshness:** Today is the last day — timely and relevant to all D11 families.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "MeadowGrass Music Festival 2026 — Family Weekend in the Black Forest Starts Today",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "MeadowGrass Music Festival starts TODAY in the Black Forest.\n\nKids 12 and under get in free. Kid Zone: Giant Bubbles, crafts, hay wagon, Kid Yoga. 30 min from downtown COS.\n\nMay 22-24. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 12:00 PM MT\n\nThe 17th Annual MeadowGrass Music Festival is happening right now in the Black Forest — and if you have not been, this weekend might be your best chance to check it off the Colorado Springs family bucket list.\n\nThe festival runs Friday, May 22 through Sunday, May 24 at La Foret Conference and Retreat Center (6145 Shoup Road, Colorado Springs). It is about 30 minutes from downtown.\n\nHere is what families need to know:\n\nKIDS 12 AND UNDER: Free with a paid adult. This is the headline number for parents trying to manage a family-friendly event budget.\n\nKID ZONE: The Faricy Boys Kid Zone is built for children. Giant Bubbles from Milibo Art Theater. Crafts from Concrete Couch. A hay wagon. Kid Yoga. Art activities. This is not a corner-of-the-festival afterthought — it is a full program.\n\nCAMPING: Onsite camping is available in the Ponderosa Forest. If you want the full experience, there is also limited luxury lodging at Lapp Lodge (7 rooms, accommodates up to 5 per room).\n\nMUSIC AND MORE: Live bands, local food and craft brews, yoga, hikes, and workshops round out the weekend. The Beer Festival runs Friday.\n\nTickets are available at eventbrite.com or at rockymountainhighway.org/meadowgrass/.\n\nAre you heading to MeadowGrass this year? Who else is going?\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-meadowgrass-music-festival-2026-family-guide.html",
+        "headline": "MeadowGrass 2026 Starts Today — Kids Get In Free at This COS Family Festival",
+        "word_count": 437
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MeadowGrass Music Festival\n\n#### Image Concept 2A — Social (1080x1350)\n- **Type:** Gemini (base_only)\n- **Prompt:** \"An outdoor music festival scene in a pine forest on a clear blue-sky day. A small child blowing giant soap bubbles in the foreground, adults in the background enjoying music from a distant stage. Warm afternoon light filtering through tall ponderosa pines. Joyful, family-friendly atmosphere. No text. No identifiable faces.\"\n- **Caption overlay:** \"MEADOWGRASS 2026 · KIDS FREE · MAY 22-24\"\n- **Usage:** Social (1080x1350)\n\n#### Image Concept 2B — Article Hero (1200x630)\n- **Type:** Gemini (base_only)\n- **Prompt:** \"Wide shot of a mountain forest festival venue: pine trees in background, colorful festival tents, families sitting on grass in the sunshine. Warm, inviting, peaceful mountain atmosphere. Wide horizontal composition. No text, no identifiable faces.\"\n- **Caption overlay:** \"MEADOWGRASS MUSIC FESTIVAL 2026\"\n- **Usage:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "MeadowGrass Music Festival\n**Sources consulted:**\n1. Eventbrite — \"17th Annual MeadowGrass Music Festival Tickets, Friday, May 22-Sunday, May 24\"\n2. visitcos.com — \"MeadowGrass Music Festival | 2026 Lineup & Events\"\n3. rockymountainhighway.org — \"MeadowGrass Overview-Tickets\"\n4. musicfestivalwizard.com — MeadowGrass Music Festival 2026\n**Verified facts (HIGH confidence):**\n- 17th Annual MeadowGrass Music Festival — confirmed Eventbrite/visitcos.com\n- Dates: May 22-24, 2026 — confirmed Eventbrite (start/end date)\n- Location: La Foret Conference & Retreat Center, 6145 Shoup Road, Colorado Springs, CO 80908 — confirmed festivalnet.com, musicfestivalwizard.com\n- Kids 12 & under FREE with paid adult — confirmed visitcos.com/eventbrite\n- Kid Zone: Giant Bubbles (Milibo Art Theater), Crafts (Concrete Couch), hay wagon, Kid Yoga — confirmed visitcos.com/rockymountainhighway.org\n- Camping available in Ponderosa Forest — confirmed rockymountainhighway.org\n- Lapp Lodge: 7 rooms, up to 5 people/room — confirmed rockymountainhighway.org\n- ~30 min from downtown COS, ~60 min from Denver — confirmed multiple sources\n- Hours: 12 PM - 11:30 PM — confirmed Eventbrite\n- Beer Festival on Friday — confirmed multiple sources\n**MEDIUM confidence:**\n- \"Hundreds of acres of forest, canyons and historic buildings\" — confirmed rockymountainhighway.org description",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "East COS Childcare Desert — Resources for Families Struggling to Find Care",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nearly 3 children per 1 childcare spot in El Paso County.\n\nEast COS is hardest hit. Childcare costs ~$20,000/year.\n\nHelp: CCCAP subsidies (719-444-8178) or Pikes Peak Family Child Care Assoc. (719-475-8828). #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 3:00 PM MT\n\nIf you are a Colorado Springs parent who has spent weeks calling childcare providers only to hear \"no openings,\" you are not alone — and the numbers explain why.\n\nA KOAA investigation found that El Paso County has nearly three children aged zero to six competing for every one available childcare spot. The problem is most concentrated on the east side, including the southeast corridor and the Fountain-Fort Carson area. Full-time childcare in the region costs approximately $20,000 per year — an amount that is causing some families to leave the workforce entirely rather than pay it.\n\nThe good news: there are programs designed to help. Here is where to start.\n\nCCCAP (Colorado Child Care Assistance Program): Provides childcare subsidies for low-income families. El Paso County contact: 719-444-8178.\n\nPikes Peak Region Family Child Care Association: Helps families find licensed childcare providers in El Paso County. Call 719-475-8828.\n\nColorado Shines: A free online tool to search and compare licensed early learning programs across Colorado. Search at coloradoshines.com.\n\nColorado Enterprise Fund: The Child Care Loan Fund helps childcare providers who cannot access traditional financing — which can indirectly increase available spots in underserved areas.\n\nPPLD LibGuide: Pikes Peak Library District maintains a \"Child Care and Early Learning\" resource guide at research.ppld.org with additional local contacts.\n\nHave you navigated the childcare system in east Colorado Springs? What worked for your family? Share below.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cos-east-side-childcare-desert-resources.html",
+        "headline": "Nearly 3 Children Per Spot: East COS Childcare Crisis and How to Find Help",
+        "word_count": 621
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "East COS Childcare Desert\n\n#### Image Concept 3A — Social (1080x1350)\n- **Type:** Gemini (base_only)\n- **Prompt:** \"A parent sits at a kitchen table surrounded by scattered papers and a laptop, phone to their ear, looking concerned but hopeful. A young child plays quietly in the background. Warm residential kitchen lighting. Candid, relatable, serious but not alarming mood. No identifiable faces visible. Diverse representation.\"\n- **Caption overlay:** \"COS CHILDCARE GAP · RESOURCES FOR FAMILIES\"\n- **Usage:** Social (1080x1350)\n\n#### Image Concept 3B — Article Hero (1200x630)\n- **Type:** Gemini (base_only)\n- **Prompt:** \"A warm, welcoming childcare setting: small chairs around a low table with colorful art supplies, sunlight streaming through large windows, children's artwork on walls in the background. No children or identifiable people. Clean, safe, nurturing atmosphere. Horizontal composition.\"\n- **Caption overlay:** \"FINDING CHILDCARE IN COLORADO SPRINGS\"\n- **Usage:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "East COS Childcare Desert\n**Sources consulted:**\n1. KOAA — \"A childcare 'desert?' How a shortage of childcare across Colorado Springs impacts the growing east\"\n2. KOAA — \"New loan program aims to help offset childcare shortages\"\n3. Colorado Department of Early Childhood — cdec.colorado.gov\n4. PPLD LibGuide — \"Child Care and Early Learning in Colorado\" at research.ppld.org\n5. First Five Years Fund — Child Care and Early Learning in Colorado\n**Verified facts (HIGH confidence):**\n- \"Nearly three children aged zero to six for every one childcare spot\" in El Paso County — confirmed KOAA investigation\n- Hardest-hit: east side, southeast, Fountain-Fort Carson — confirmed KOAA\n- Cost: ~$20,000/year — confirmed KOAA article\n- Some parents forced to leave workforce — confirmed KOAA article\n- CCCAP contact: El Paso County 719-444-8178 — confirmed PPLD LibGuide\n- Pikes Peak Region Family Child Care Association: 719-475-8828 — confirmed PPLD LibGuide\n- Colorado Shines: free search tool — confirmed cdec.colorado.gov\n- CEF Child Care Loan Fund — confirmed KOAA loan program article\n**MEDIUM confidence:**\n- Colorado Shines URL as \"coloradoshines.com\" — use \"Colorado Shines\" without specific URL in content",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "CPSC Recall — Joyful Journeys Baby Loungers (9,300 Units, Amazon and Walmart)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "RECALL: Joyful Journeys Baby Loungers — 9,300 units (Amazon + Walmart).\n\nFall and entrapment hazard. Stop use immediately.\n\nDestroy product, email photos for refund: joyfuljourneysrecalls@myjoyfuljourneys.com #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 5:00 PM MT\n\nIf you purchased a Joyful Journeys baby lounger on Amazon or Walmart, please stop using it immediately.\n\nThe Consumer Product Safety Commission (CPSC) has recalled approximately 9,300 Joyful Journeys Baby Loungers due to serious fall and entrapment hazards. The loungers were sold online at Amazon.com and Walmart.com from December 2023 through October 2025 for between $40 and $60.\n\nTHE PROBLEM: The sides of the loungers are too low to properly contain an infant, and the enclosed openings at the foot of the lounger are wider than what is allowed under the Mandatory Standard for Infant Sleep Products. The loungers also have no stand, creating a fall hazard on elevated surfaces.\n\nThe recalled loungers came in these styles: green avocado, blue dinosaur, blue lambs, blue zoo animals, green minky, neutral elephants, pink zoo animals, and white minky.\n\nWHAT TO DO:\n1. Stop using the lounger immediately.\n2. Remove the foam pad and padded bumpers from the cloth cover.\n3. Cut the cover, foam, and pad in half.\n4. Email photos of the destroyed pieces to joyfuljourneysrecalls@myjoyfuljourneys.com to receive a full refund.\n\nDo not attempt to sell or donate the recalled lounger. This is a safety issue that affects other families.\n\nShare this post with anyone who may have purchased one of these loungers.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-joyful-journeys-baby-lounger-recall-cpsc.html",
+        "headline": "CPSC Recall: 9,300 Joyful Journeys Baby Loungers — Stop Use If You Have One",
+        "word_count": 543
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Joyful Journeys Baby Lounger Recall\n\n#### Image Concept 4A — Social (1080x1350)\n- **Type:** Gemini (base_only)\n- **Prompt:** \"A simple product recall alert graphic: bold red warning triangle icon centered on a clean white background with the words RECALL ALERT below it and BABY LOUNGER beneath that. Clean, urgent, flat design. No photographs of babies or children. High contrast for legibility.\"\n- **Caption overlay:** \"RECALL ALERT · JOYFUL JOURNEYS BABY LOUNGERS\"\n- **Usage:** Social (1080x1350)\n\n#### Image Concept 4B — Article Hero (1200x630)\n- **Type:** Gemini (base_only)\n- **Prompt:** \"A baby lounger/infant foam pad on a neutral background with a large red diagonal RECALLED stamp overlaid. Clean product photography style. Neutral colors. No baby or child present. Clear visual communication of recall status.\"\n- **Caption overlay:** \"9,300 UNITS RECALLED · STOP USE IMMEDIATELY\"\n- **Usage:** Article hero (1200x630)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Joyful Journeys Baby Lounger Recall\n**Sources consulted:**\n1. CPSC.gov — Official recall page: \"Joyful Journeys Recalls Baby Loungers\"\n2. cwcolumbus.com — \"Baby loungers sold on Amazon and at Wal-Mart recalled over safety concerns\"\n3. growingyourbaby.com — \"9,300 Joyful Journeys Baby Loungers Recalled\"\n4. classactionlawsuithelp.com — Joyful Journeys Baby Lounger Recall class action info\n**Verified facts (HIGH confidence):**\n- ~9,300 units recalled — confirmed CPSC.gov, cwcolumbus.com, growingyourbaby.com (consistent across all three)\n- Sold at Amazon.com and Walmart.com — confirmed CPSC.gov\n- Date range: December 2023 through October 2025 — confirmed CPSC.gov\n- Price: $40-$60 — confirmed CPSC.gov\n- Hazard: sides too low (fall risk), foot openings too wide (entrapment) — confirmed CPSC.gov\n- Violates Mandatory Standard for Infant Sleep Products — confirmed CPSC.gov\n- Styles: green avocado, blue dinosaur, blue lambs, blue zoo animals, green minky, neutral elephants, pink zoo animals, white minky — confirmed CPSC.gov\n- Remedy: cut cover/foam/pad in half, email photos — confirmed CPSC.gov\n- Contact: joyfuljourneysrecalls@myjoyfuljourneys.com — confirmed CPSC.gov",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Memorial Day Weekend Final Guide — Territory Days Closes Monday, D49 Wraps Up, Summer Begins",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "COS Memorial Day weekend:\n\nSat: D49 graduations — Sand Creek 9 AM, Falcon 1 PM, Vista Ridge 5 PM (Broadmoor World Arena)\nSat–Mon: Territory Days, Old Colorado City — closes Mon May 25 at 6 PM\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 PM MT\n\nColorado Springs families, here is your complete guide to Memorial Day weekend — and the summer that follows.\n\nTHIS WEEKEND:\n\nTerritory Days runs through Monday, May 25 at its Colorado Avenue location in Old Colorado City (23rd to 27th Street). Saturday and Sunday hours are 10 AM to 7 PM. Monday (Memorial Day) is the final day: 10 AM to 6 PM. Admission is free. More than 180 booths, live music, a petting zoo, and a kids' play area.\n\nD49 Graduation Saturday: All three ceremonies are at Broadmoor World Arena (3185 Venetucci Blvd):\n- Sand Creek High School: 9:00 AM\n- Falcon High School: 1:00 PM\n- Vista Ridge High School: 5:00 PM\n\nCOMING UP NEXT:\n\nMay 27: YMCA Pikes Peak summer camps begin at Briargate, First and Main, and Tri-Lakes. Visit ppymca.org to register.\n\nJune 2: PPLD Summer Adventure begins (\"Unearth a Story\"). Free, all ages, all branches. Register at ppld.org/summer.\n\nFor D11 families, this week marks the first week of summer break. The 2026-27 school year begins in late August.\n\nWhat is your family doing this Memorial Day weekend? Let us know below.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-memorial-day-weekend-cos-family-guide-2026.html",
+        "headline": "COS Memorial Day Weekend Wrap-Up: Territory Days Final Day, D49 Graduation, and Summer Begins",
+        "word_count": 627
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Memorial Day Weekend Guide\n\n#### Image Concept 5A — Social (1080x1350)\n- **Type:** Gemini (base_only)\n- **Prompt:** \"A vibrant outdoor fair scene on a sunny day: colorful craft booths lining a wide street, families browsing, bunting flags overhead, Rocky Mountains visible in the background. Festive, community atmosphere. No identifiable faces. Warm golden afternoon light.\"\n- **Caption overlay:** \"MEMORIAL DAY WEEKEND · COS FAMILY GUIDE\"\n- **Usage:** Social (1080x1350)\n\n#### Image Concept 5B — Article Hero (1200x630)\n- **Type:** Gemini (base_only)\n- **Prompt:** \"Wide aerial-style view of a festive outdoor event in a Colorado mountain town: rows of colorful tents and food trucks on a tree-lined street, blue sky, Pike's Peak visible in the distance. Celebratory community atmosphere. No close-up faces. Horizontal wide composition.\"\n- **Caption overlay:** \"TERRITORY DAYS + D49 GRADUATION + SUMMER BEGINS\"\n- **Usage:** Article hero (1200x630)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Memorial Day Weekend Final Guide\n**Sources consulted:**\n1. visitcos.com — Territory Days Colorado Springs 2026\n2. d49.org — Graduation page (Sand Creek time confirmed)\n3. Prior pipeline (May 21 brief): Territory Days schedule, D49 graduation info\n4. Search result: \"Sand Creek High School graduation is scheduled for Saturday, May 23, 2026 at 9:00 am at The Broadmoor World Arena\"\n**Verified facts (HIGH confidence):**\n- Territory Days: May 23-25 (Mon 10 AM-6 PM is last day) — confirmed visitcos.com + May 21 pipeline\n- Territory Days: Colorado Ave 23rd-27th St, Old Colorado City, free admission — confirmed\n- Sand Creek HS: Saturday May 23 at 9:00 AM, Broadmoor World Arena — confirmed from d49.org search result\n- Falcon HS: May 23 at 1:00 PM — confirmed May 21 pipeline\n- Vista Ridge HS: May 23 at 5:00 PM — confirmed May 21 pipeline\n- YMCA camps start May 27 — confirmed May 19 pipeline\n- PPLD Summer Adventure starts June 2 — confirmed May 20 pipeline\n**MEDIUM confidence:**\n- Splash pads opening \"this weekend\" — previous pipeline said May 26; search says May 24. Use \"Memorial Day weekend\" without a specific date to avoid contradiction.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

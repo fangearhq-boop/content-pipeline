@@ -1,25 +1,40 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: May 21, 2026
+## Latest Run: May 22, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | D11 final graduation (Achieve/Tesla/Bijou 9 AM, Odyssey 3 PM); D49 graduation weekend (Falcon 1 PM, Vista Ridge 5 PM, Sand Creek May 23 — Broadmoor World Arena); Vevor baby swing recall (~1,020 units, suffocation, inclined sleeper); Bellabu Bear robe recall (~1,300 units, burn hazard, popular prints); Memorial Day weekend guide (Territory Days + D49 + splash pads) |
-| Story History Check | COMPLETE | 3 NEW STORIES (D49 grad, Vevor recall, Bellabu Bear recall) + 2 FOLLOW UPs (D11 grad — final day different schools; Memorial Day weekend guide) |
-| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research (web search) | COMPLETE | D11 last day of school (May 22); MeadowGrass Music Festival (starts today, May 22-24, La Foret, kids free); East COS childcare desert (KOAA investigation: 3 children per spot, east side hardest hit); Joyful Journeys baby lounger recall (9,300 units, Amazon/Walmart); Memorial Day weekend guide update (Territory Days final day Mon, D49 Sand Creek time confirmed 9 AM) |
+| Story History Check | COMPLETE | 3 NEW STORIES (D11 last day, MeadowGrass, East COS childcare, Joyful Journeys recall) + 1 FOLLOW UP (Memorial Day weekend guide) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
 | Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
 | Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories; bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
-| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts; 4 char violations fixed in second verify run; 4 hashtags each; 0 exclamation marks; COS voice rules |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts; 5 char violations fixed in second verify run; 4 hashtags each; 0 exclamation marks; COS voice rules |
 | Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
-| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (9 concepts across 5 stories) |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
 | Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
-| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 112 claims; 4 char violations (S1/S3/S4/S5 tweets) fixed; image warnings cosmetic |
-| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images |
-| Dashboard | COMPLETE | review-dashboard.html (28 items) |
-| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-21.xlsx (8 posts) + TOBI cosp-postplanner-tobi-2026-05-21.xlsx (8 TOBI posts) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 124 claims; 5 char violations fixed; image warnings cosmetic |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (26 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-22.xlsx (6 posts) + TOBI cosp-postplanner-tobi-2026-05-22.xlsx (6 TOBI posts) |
 | Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
 | WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-22)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions) = 16 total
+- **Articles:** 5 (bylines: Sarah Morales x3, Jamie Rivera x2)
+- **PostPlanner exports:** cosp-postplanner-2026-05-22.xlsx (6 posts), cosp-postplanner-tobi-2026-05-22.xlsx (6 TOBI posts)
+- **Coverage:** D11 last day of school May 22 (Class of 2026 summer break begins; PPLD June 2, YMCA May 27); MeadowGrass Music Festival (17th Annual, starts today, La Foret 6145 Shoup Rd, kids 12 & under free, Kid Zone/camping); East COS childcare desert (KOAA: ~3 kids per spot, east side hardest hit, ~$20K/yr, CCCAP 719-444-8178, PPFCCA 719-475-8828); Joyful Journeys baby lounger recall (~9,300 units, Amazon+Walmart, $40-60, fall/entrapment, joyfuljourneysrecalls@myjoyfuljourneys.com); Memorial Day weekend final guide (Territory Days Mon closes 6 PM, D49 Sand Creek 9 AM confirmed, YMCA May 27, PPLD June 2)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 124 claims; 5 char violations fixed; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images
+  - dashboard: 26 items
+  - PostPlanner exports: both standard (6) and TOBI (6) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ## Pipeline Run Log (2026-05-21)
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

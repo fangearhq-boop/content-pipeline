@@ -2628,3 +2628,43 @@
 - **Tier:** 2
 - **Key Facts:** Restrooms: ~10 (25%) closed; Playground: removal policy; Rock Island Trail bridge: 210-ft Sand Creek; 2+ miles trail; Duration: 10-12 months; Funding: PPRTA II + CDOT + TOPS; Sources: KRDO Feb 12 2026, City of COS TOPS2026, KOAA Jan 22 2026
 - **Follow-Up Opportunities:** Complete Rock Island Trail completion story; playground audit/open parks guide
+
+### Story 1: D11 Last Day of School — Class of 2026 Begins Summer Break Today
+- **Date:** 2026-05-22
+- **Angle:** NEW STORY (last day of school for all D11 students, Friday May 22; graduation week completed May 19-21; summer resources: YMCA camps May 27, PPLD June 2)
+- **Content Produced:** Article, 2 X Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Last day D11: May 22 (confirmed d11.org); PPLD starts June 2; YMCA starts May 27
+- **Follow-Up Opportunities:** Back-to-school prep guide for D11 families (late August 2026)
+
+### Story 2: MeadowGrass Music Festival 2026 — Family Weekend in the Black Forest Starts Today
+- **Date:** 2026-05-22
+- **Angle:** NEW STORY (17th Annual, May 22-24; La Foret, 6145 Shoup Rd; kids 12 and under free; Kid Zone with Giant Bubbles/crafts/hay wagon/Kid Yoga; camping)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Dates: May 22-24, 12 PM-11:30 PM; kids 12 and under free; Kid Zone: Giant Bubbles, crafts, hay wagon; camping in Ponderosa Forest; ~30 min from downtown COS; tickets: Eventbrite/rockymountainhighway.org; Sources: visitcos.com, eventbrite.com, rockymountainhighway.org
+- **Follow-Up Opportunities:** Festival recap (after May 24); annual event reminder for 2027
+
+### Story 3: East COS Childcare Desert — Resources for Families Struggling to Find Care
+- **Date:** 2026-05-22
+- **Angle:** NEW STORY (KOAA investigation: nearly 3 children per childcare spot in El Paso County; east side/southeast/Fountain-Fort Carson hardest hit; ~$20,000/year cost; CCCAP 719-444-8178; Pikes Peak Family Child Care Assoc 719-475-8828; Colorado Shines; PPLD LibGuide)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Ratio: ~3 children per spot; east side hardest hit; ~$20,000/year; CCCAP: 719-444-8178; PPFCCA: 719-475-8828; Colorado Shines: coloradoshines.com; PPLD LibGuide: research.ppld.org; Sources: KOAA investigation, CDEC, PPLD
+- **Follow-Up Opportunities:** New childcare providers opening; CCCAP eligibility changes; D49 Student Success Center childcare component
+
+### Story 4: Joyful Journeys Baby Lounger Recall — 9,300 Units, Amazon and Walmart
+- **Date:** 2026-05-22
+- **Angle:** NEW STORY (CPSC recall; ~9,300 units; Amazon + Walmart; Dec 2023-Oct 2025; $40-60; fall and entrapment hazard; 8 fabric styles; refund: email photos to joyfuljourneysrecalls@myjoyfuljourneys.com)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Units: ~9,300; Sold: Amazon.com + Walmart.com; Dec 2023-Oct 2025; $40-60; Hazard: sides too low + foot openings too wide + no stand; Violates Mandatory Standard for Infant Sleep Products; Refund: joyfuljourneysrecalls@myjoyfuljourneys.com; Sources: CPSC.gov, cwcolumbus.com, growingyourbaby.com
+- **Follow-Up Opportunities:** None needed (recall is definitive action item)
+
+### Story 5: Memorial Day Weekend Final Guide — Territory Days Closes Monday, D49 Wraps Up, Summer Begins
+- **Date:** 2026-05-22
+- **Angle:** FOLLOW UP (Territory Days: covered May 16, 20, 21; new angle: final day + D49 Sand Creek time confirmed 9 AM + summer calendar items)
+- **Content Produced:** Article, 1 X Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Territory Days final day: Mon May 25, 10 AM-6 PM; Sand Creek graduation: Sat May 23, 9 AM (confirmed); Falcon: 1 PM; Vista Ridge: 5 PM; YMCA starts May 27; PPLD June 2; Sources: visitcos.com, d49.org
+- **Follow-Up Opportunities:** Post-Territory Days summer activities roundup; back-to-school preview in August
