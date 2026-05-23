@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-05-22 |
-| Writing | Complete (all steps) | 2026-05-22 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 28 claims, image warnings cosmetic) | 2026-05-22 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images) | 2026-05-22 |
-| Dashboard | Complete (review-dashboard.html, 26 items) | 2026-05-22 |
-| PostPlanner Export | Complete (standard 6 posts + TOBI 6 posts) | 2026-05-22 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-22 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-22 |
+| Research | Complete | 2026-05-23 |
+| Writing | Complete (all steps) | 2026-05-23 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 38 claims, image warnings cosmetic) | 2026-05-23 |
+| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images) | 2026-05-23 |
+| Dashboard | Complete (review-dashboard.html, 26 items) | 2026-05-23 |
+| PostPlanner Export | Complete (standard 6 posts + TOBI 6 posts) | 2026-05-23 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-23 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-23 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-05-23 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions) = 16 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-23.xlsx (6 posts), tfr-postplanner-tobi-2026-05-23.xlsx (6 TOBI posts)
+- **Coverage:** Day 1 preview (Sinner vs Tabur Chatrier, Gauff vs Townsend, Djokovic night session vs Mpetshi Perricard not before 8:15 PM Paris); Sabalenka "feeling 100%" mental transformation (emotions quote, 2025 final reflection); Prize money protest (14.3% revenue share, 15-min press conference limit, Sabalenka/Gauff leading, Mauresmo no change); Yannick Noah Day charity event (The Battle, Team Noah vs Mauresmo, music acts); Swiatek's Ostapenko problem (6-0 H2H, potential R3, only 1 clay win)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 38 claims; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 26 items
+  - PostPlanner exports: both standard (6) and TOBI (6) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-05-22 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
