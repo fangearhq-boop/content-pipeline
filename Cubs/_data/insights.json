@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-22T08:30:00.236648+00:00",
+  "generated_at": "2026-05-23T08:30:00.191621+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 72,
-  "measured_tweet_count": 72,
-  "measured_median_impressions": 36.0,
-  "measured_mean_impressions": 48.28,
-  "median_impressions": 36.0,
-  "mean_impressions": 48.28,
+  "tweet_count": 78,
+  "measured_tweet_count": 78,
+  "measured_median_impressions": 40.0,
+  "measured_mean_impressions": 53.06,
+  "median_impressions": 40.0,
+  "mean_impressions": 53.06,
   "max_impressions": 185,
   "significant_findings": [
     {
@@ -15,12 +15,12 @@
       "kind": "category_vs_rest",
       "winner": "not_rss_news",
       "loser": "rss_news",
-      "median_impressions_winner": 48,
+      "median_impressions_winner": 53,
       "median_impressions_loser": 27,
-      "n_winner": 39,
+      "n_winner": 45,
       "n_loser": 33,
-      "p_value": 0.0005,
-      "effect_size_cliffs_delta": 0.476,
+      "p_value": 0.0,
+      "effect_size_cliffs_delta": 0.543,
       "effect_size_label": "large"
     },
     {
@@ -28,64 +28,64 @@
       "kind": "time_window_vs_rest",
       "winner": "not_overnight_00_06",
       "loser": "overnight_00_06",
-      "median_impressions_winner": 42,
+      "median_impressions_winner": 45,
       "median_impressions_loser": 25,
-      "n_winner": 61,
+      "n_winner": 67,
       "n_loser": 11,
-      "p_value": 0.0156,
-      "effect_size_cliffs_delta": 0.462,
-      "effect_size_label": "medium"
+      "p_value": 0.0062,
+      "effect_size_cliffs_delta": 0.518,
+      "effect_size_label": "large"
     },
     {
       "dimension": "len_bucket=140-200",
       "kind": "category_vs_rest",
       "winner": "not_140-200",
       "loser": "140-200",
-      "median_impressions_winner": 44.0,
+      "median_impressions_winner": 45.5,
       "median_impressions_loser": 24.5,
-      "n_winner": 52,
+      "n_winner": 58,
       "n_loser": 20,
-      "p_value": 0.0029,
-      "effect_size_cliffs_delta": 0.457,
-      "effect_size_label": "medium"
+      "p_value": 0.0006,
+      "effect_size_cliffs_delta": 0.516,
+      "effect_size_label": "large"
     },
     {
       "dimension": "has_emoji_first_line",
       "kind": "binary",
       "winner": "False",
       "loser": "True",
-      "median_impressions_winner": 47.0,
+      "median_impressions_winner": 48.5,
       "median_impressions_loser": 26.0,
-      "n_winner": 48,
+      "n_winner": 54,
       "n_loser": 24,
-      "p_value": 0.0017,
-      "effect_size_cliffs_delta": 0.456,
-      "effect_size_label": "medium"
+      "p_value": 0.0003,
+      "effect_size_cliffs_delta": 0.515,
+      "effect_size_label": "large"
     },
     {
       "dimension": "content_type=brief",
       "kind": "category_vs_rest",
       "winner": "brief",
       "loser": "not_brief",
-      "median_impressions_winner": 47.0,
+      "median_impressions_winner": 50.5,
       "median_impressions_loser": 27.0,
-      "n_winner": 38,
+      "n_winner": 44,
       "n_loser": 34,
-      "p_value": 0.0017,
-      "effect_size_cliffs_delta": 0.43,
-      "effect_size_label": "medium"
+      "p_value": 0.0002,
+      "effect_size_cliffs_delta": 0.501,
+      "effect_size_label": "large"
     },
     {
       "dimension": "has_score",
       "kind": "binary",
       "winner": "True",
       "loser": "False",
-      "median_impressions_winner": 48.0,
-      "median_impressions_loser": 32.5,
-      "n_winner": 20,
-      "n_loser": 52,
-      "p_value": 0.0282,
-      "effect_size_cliffs_delta": 0.337,
+      "median_impressions_winner": 56,
+      "median_impressions_loser": 34,
+      "n_winner": 23,
+      "n_loser": 55,
+      "p_value": 0.005,
+      "effect_size_cliffs_delta": 0.406,
       "effect_size_label": "medium"
     }
   ],
@@ -102,64 +102,73 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
-      "15": {
-        "n": 5,
-        "mean": 38.4,
-        "median": 46,
+      "16": {
+        "n": 1,
+        "mean": 63,
+        "median": 63,
         "top": {
-          "impressions": 53,
-          "text": "Ben Brown's next start: Tuesday vs the Brewers at Wrigley.\n\nTwo straight outings: 4 IP, 0 ER, 7 K each. The righty isn't filling in \u2014 he's taking over.\n\nPitch count expanding. NL Central, take notes.\n\n#Cubs #GoCubs #NorthSiders"
+          "impressions": 63,
+          "text": "Iowa Cubs snapped an eight-game losing streak Wednesday with a walk-off win over Memphis.\n\nKevin Alc\u00e1ntara was the hero. Owen Ayers added a homer for the Tennessee Smokies.\n\nGood news from the farm on a rough week.\n\n#Cubs #MLB #CubsBaseball"
         }
       },
       "12": {
-        "n": 14,
-        "mean": 67.07,
-        "median": 55.5,
+        "n": 15,
+        "mean": 78.93,
+        "median": 65,
         "top": {
-          "impressions": 150,
-          "text": "Edward Cabrera vs Kyle Harrison tonight at Wrigley \u2014 series finale, 6:40 PM CT.\n\nHarrison hasn't allowed more than 2 runs in any of his 8 starts this year. Cabrera has given up a HR in five straight.\n\nNo. 1 on today's task list: avoid a swe"
+          "impressions": 166,
+          "text": "First pitch in 80 minutes. Wrigley Field. Cubs-Astros, Game 1 of 3.\n\nHouston sends Arrighetti (5-1, 1.50 ERA) \u2014 .173 opponent BA through seven starts. Taillon (2-3, 4.97) needs to match his level today.\n\nWin this one.\n\n#Cubs #GoCubs #FlyThe"
         }
       },
       "10": {
-        "n": 3,
-        "mean": 70,
-        "median": 80,
+        "n": 4,
+        "mean": 60.25,
+        "median": 54.5,
         "top": {
           "impressions": 111,
           "text": "Tuesday's game is the one to watch.\n\nBen Brown (1.60 ERA) faces Jacob Misiorowski \u2014 the MLB leader in K/9 at 14.0 strikeouts per nine. Brown is 2-0 in his career vs Milwaukee with 19 Ks in 18 innings.\n\nTwo of the best young arms in the NL. "
         }
       },
       "9": {
-        "n": 5,
-        "mean": 53.6,
-        "median": 57,
+        "n": 6,
+        "mean": 53.33,
+        "median": 50.0,
         "top": {
           "impressions": 76,
           "text": "Matthew Boyd threw off the mound Saturday.\n\nAfter meniscus surgery on May 6, he's targeting a late June return \u2014 a bullpen session is next.\n\nRotation help is on the way. Can't come soon enough. \ud83d\udcaa\n\n#Cubs #CubsBaseball #MLB"
         }
       },
       "8": {
-        "n": 8,
-        "mean": 33.12,
-        "median": 33.5,
+        "n": 9,
+        "mean": 38.11,
+        "median": 35,
         "top": {
-          "impressions": 45,
-          "text": "3 games at Wrigley against the Brewers, starting TONIGHT.\n\nImanaga (4-3, 2.32 ERA) vs Sproat (1-2, 5.75 ERA). Cubs lead the NL Central, Cardinals are 1.5 back, Brewers are chasing.\n\nFirst pitch: 6:40 PM CT. Division series. Let's go.\n\n#Cubs"
+          "impressions": 73,
+          "text": "Houston is 20-31 and has scored 5 runs in their last 4 games. Nine players on the IL. Correa's done for the year.\n\nThe Cubs were outscored 19-5 by Milwaukee. This is the bounce-back opponent they needed.\n\nNo excuses today.\n\n#Cubs #GoCubs #N"
         }
       },
       "7": {
-        "n": 8,
-        "mean": 58.62,
-        "median": 45.0,
+        "n": 9,
+        "mean": 69.89,
+        "median": 48,
         "top": {
           "impressions": 185,
           "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
+      "15": {
+        "n": 5,
+        "mean": 44.4,
+        "median": 46,
+        "top": {
+          "impressions": 77,
+          "text": "Iowa dropped their eighth straight game Wednesday, 6-3 to Memphis. Connor Noland was carted off after a comebacker hit his ankle \u2014 status unknown.\n\nKane Kepley homered in the seventh for the lone bright spot in a rough stretch.\n\n#Cubs #MLB "
+        }
+      },
       "14": {
         "n": 3,
-        "mean": 48.33,
-        "median": 35,
+        "mean": 49.67,
+        "median": 37,
         "top": {
           "impressions": 77,
           "text": "Cards at 25-18 and climbing. Misiorowski just threw 6 shutout innings for the Brewers. Yelich working his way back.\n\nThe NL Central is ALIVE \u2014 and the Cubs at 29-16 are leading it with a target on their backs.\n\nFeels right.\n\n#Cubs #NorthSid"
@@ -221,13 +230,22 @@
       }
     },
     "by_weekday_ct": {
+      "Fri": {
+        "n": 17,
+        "mean": 57.59,
+        "median": 43,
+        "top": {
+          "impressions": 166,
+          "text": "First pitch in 80 minutes. Wrigley Field. Cubs-Astros, Game 1 of 3.\n\nHouston sends Arrighetti (5-1, 1.50 ERA) \u2014 .173 opponent BA through seven starts. Taillon (2-3, 4.97) needs to match his level today.\n\nWin this one.\n\n#Cubs #GoCubs #FlyThe"
+        }
+      },
       "Thu": {
         "n": 15,
-        "mean": 45.93,
-        "median": 42,
+        "mean": 54.6,
+        "median": 45,
         "top": {
-          "impressions": 112,
-          "text": "3-game skid ends tonight. That's the assignment.\n\nImanaga vs. baseball's hottest lineup. We've seen this movie before. \ud83c\udfaf\n\nSale looms tomorrow \u2014 Shota needs to set the tone NOW.\n\n#Cubs #GoCubs #WrigleyField"
+          "impressions": 133,
+          "text": "Freddy Peralta. 3.12 ERA. Pending free agent. Counsell knows him from Milwaukee.\n\nThe Mets' June 1 decision point is 11 days out. The Cubs' rotation just lost another arm to a blister. The case for this trade has never been stronger.\n\n#Cubs"
         }
       },
       "Wed": {
@@ -241,8 +259,8 @@
       },
       "Tue": {
         "n": 15,
-        "mean": 47.13,
-        "median": 33,
+        "mean": 47.87,
+        "median": 35,
         "top": {
           "impressions": 149,
           "text": "Brown vs Misiorowski tonight at Wrigley. 6:40 PM CT.\n\nBen Brown: 1.60 ERA, 0 ER in his last 12.2 innings.\nJacob Misiorowski: 2.12 ERA, MLB-best 80 Ks in 51 innings, 0 ER in 3 straight.\n\nCubs need this one.\n\n#Cubs #GoCubs #CubsBaseball"
@@ -274,22 +292,13 @@
           "impressions": 77,
           "text": "Cards at 25-18 and climbing. Misiorowski just threw 6 shutout innings for the Brewers. Yelich working his way back.\n\nThe NL Central is ALIVE \u2014 and the Cubs at 29-16 are leading it with a target on their backs.\n\nFeels right.\n\n#Cubs #NorthSid"
         }
-      },
-      "Fri": {
-        "n": 11,
-        "mean": 41.55,
-        "median": 31,
-        "top": {
-          "impressions": 125,
-          "text": "Tonight: Cubs at White Sox. 6:40 PM CT. Guaranteed Rate Field.\n\nEdward Cabrera (3-1, 3.88 ERA) takes on Sean Burke (2-3, 3.68 ERA) in the Crosstown Classic opener.\n\nGame 1 of 3. Cubs rolling with momentum off a 2-0 shutout.\n\n#Cubs #GoCubs #"
-        }
       }
     },
     "by_content_type": {
       "brief": {
-        "n": 38,
-        "mean": 58,
-        "median": 47.0,
+        "n": 44,
+        "mean": 65.16,
+        "median": 50.5,
         "top": {
           "impressions": 185,
           "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
@@ -316,47 +325,47 @@
     },
     "by_opening": {
       "statement": {
-        "n": 51,
-        "mean": 52.53,
-        "median": 38,
+        "n": 56,
+        "mean": 57.45,
+        "median": 42.5,
         "top": {
           "impressions": 185,
           "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
-      "stat_lead": {
-        "n": 5,
-        "mean": 41.2,
-        "median": 42,
-        "top": {
-          "impressions": 65,
-          "text": "Crosstown Classic Game 2 tonight: Colin Rea (4-2) vs Erick Fedde (0-4, 3.77 ERA).\n\nFedde has a solid ERA but zero wins \u2014 Sox just can't score behind him. Cubs erupted for 14 hits last night.\n\nRate Field. 6:10 PM CT. Take the series lead.\n\n#"
-        }
-      },
       "allcaps_lead": {
-        "n": 16,
-        "mean": 36.94,
-        "median": 30.5,
+        "n": 17,
+        "mean": 37.29,
+        "median": 32,
         "top": {
           "impressions": 77,
           "text": "Imanaga was FILTHY. The bats? Ice cold for 4 straight.\n\nBraves 4, Cubs 1. A gem wasted.\n\n4 runs in 4 games. That's the whole offense. Something's gotta give. \ud83d\ude24\n\n#Cubs #GoCubs #CubNation"
+        }
+      },
+      "stat_lead": {
+        "n": 5,
+        "mean": 57.6,
+        "median": 45,
+        "top": {
+          "impressions": 133,
+          "text": "Freddy Peralta. 3.12 ERA. Pending free agent. Counsell knows him from Milwaukee.\n\nThe Mets' June 1 decision point is 11 days out. The Cubs' rotation just lost another arm to a blister. The case for this trade has never been stronger.\n\n#Cubs"
         }
       }
     },
     "by_len_bucket": {
       "200-260": {
-        "n": 44,
-        "mean": 50.77,
-        "median": 42.0,
+        "n": 49,
+        "mean": 58.24,
+        "median": 45,
         "top": {
           "impressions": 185,
           "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
       "260+": {
-        "n": 7,
-        "mean": 74.57,
-        "median": 65,
+        "n": 8,
+        "mean": 70.62,
+        "median": 61.0,
         "top": {
           "impressions": 150,
           "text": "Edward Cabrera vs Kyle Harrison tonight at Wrigley \u2014 series finale, 6:40 PM CT.\n\nHarrison hasn't allowed more than 2 runs in any of his 8 starts this year. Cabrera has given up a HR in five straight.\n\nNo. 1 on today's task list: avoid a swe"
@@ -383,9 +392,9 @@
     },
     "by_hashtag_count": {
       "3": {
-        "n": 72,
-        "mean": 48.28,
-        "median": 36.0,
+        "n": 78,
+        "mean": 53.06,
+        "median": 40.0,
         "top": {
           "impressions": 185,
           "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
@@ -393,29 +402,29 @@
       }
     },
     "by_has_score": {
-      "True": {
-        "n": 20,
-        "mean": 60.9,
-        "median": 48.0,
-        "top": {
-          "impressions": 185,
-          "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
-        }
-      },
       "False": {
-        "n": 52,
-        "mean": 43.42,
-        "median": 32.5,
+        "n": 55,
+        "mean": 45.29,
+        "median": 34,
         "top": {
           "impressions": 150,
           "text": "Edward Cabrera vs Kyle Harrison tonight at Wrigley \u2014 series finale, 6:40 PM CT.\n\nHarrison hasn't allowed more than 2 runs in any of his 8 starts this year. Cabrera has given up a HR in five straight.\n\nNo. 1 on today's task list: avoid a swe"
+        }
+      },
+      "True": {
+        "n": 23,
+        "mean": 71.65,
+        "median": 56,
+        "top": {
+          "impressions": 185,
+          "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
         }
       }
     },
     "by_has_stat": {
       "False": {
-        "n": 52,
-        "mean": 44.02,
+        "n": 56,
+        "mean": 45.41,
         "median": 35.0,
         "top": {
           "impressions": 150,
@@ -423,9 +432,9 @@
         }
       },
       "True": {
-        "n": 20,
-        "mean": 59.35,
-        "median": 46.5,
+        "n": 22,
+        "mean": 72.55,
+        "median": 50.5,
         "top": {
           "impressions": 185,
           "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
@@ -434,9 +443,9 @@
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 48,
-        "mean": 55.54,
-        "median": 47.0,
+        "n": 54,
+        "mean": 61.65,
+        "median": 48.5,
         "top": {
           "impressions": 185,
           "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
@@ -454,17 +463,17 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 56,
-        "mean": 49.57,
-        "median": 37.5,
+        "n": 60,
+        "mean": 55.45,
+        "median": 43.0,
         "top": {
           "impressions": 185,
           "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
       "False": {
-        "n": 16,
-        "mean": 43.75,
+        "n": 18,
+        "mean": 45.11,
         "median": 35.0,
         "top": {
           "impressions": 150,
@@ -476,13 +485,13 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 25,
-        "mean_rate": 0.0025,
+        "n": 29,
+        "mean_rate": 0.0024,
         "median_rate": 0.0
       },
       "rss_news": {
-        "n": 10,
-        "mean_rate": 0.004,
+        "n": 9,
+        "mean_rate": 0.0015,
         "median_rate": 0.0
       },
       "stats_game_result": {
@@ -493,42 +502,42 @@
     },
     "by_opening": {
       "statement": {
-        "n": 27,
-        "mean_rate": 0.0031,
+        "n": 29,
+        "mean_rate": 0.0022,
+        "median_rate": 0.0
+      },
+      "allcaps_lead": {
+        "n": 7,
+        "mean_rate": 0.0026,
         "median_rate": 0.0
       },
       "stat_lead": {
         "n": 3,
         "mean_rate": 0.0,
         "median_rate": 0.0
-      },
-      "allcaps_lead": {
-        "n": 6,
-        "mean_rate": 0.0031,
-        "median_rate": 0.0
       }
     },
     "by_has_score": {
-      "True": {
-        "n": 15,
-        "mean_rate": 0.003,
+      "False": {
+        "n": 22,
+        "mean_rate": 0.0026,
         "median_rate": 0.0
       },
-      "False": {
-        "n": 21,
-        "mean_rate": 0.0027,
+      "True": {
+        "n": 17,
+        "mean_rate": 0.0015,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
       "False": {
-        "n": 23,
-        "mean_rate": 0.0037,
+        "n": 24,
+        "mean_rate": 0.0024,
         "median_rate": 0.0
       },
       "True": {
-        "n": 13,
-        "mean_rate": 0.0013,
+        "n": 15,
+        "mean_rate": 0.0016,
         "median_rate": 0.0
       }
     }
@@ -543,6 +552,26 @@
       "opening": "statement",
       "len": 233,
       "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
+    },
+    {
+      "posted_at": "2026-05-22 12:00 CT",
+      "content_type": "brief",
+      "impressions": 166,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "statement",
+      "len": 241,
+      "text": "First pitch in 80 minutes. Wrigley Field. Cubs-Astros, Game 1 of 3.\n\nHouston sends Arrighetti (5-1, 1.50 ERA) \u2014 .173 opponent BA through seven starts. Taillon (2-3, 4.97) needs to match his level today.\n\nWin this one.\n\n#Cubs #GoCubs #FlyTheW"
+    },
+    {
+      "posted_at": "2026-05-22 07:00 CT",
+      "content_type": "brief",
+      "impressions": 156,
+      "engagement": 1,
+      "engagement_rate": 0.0064,
+      "opening": "statement",
+      "len": 258,
+      "text": "Cubs open a 3-game series vs Houston at Wrigley today \u2014 1:20 PM CT.\n\nAstros arrive 20-31, nine players on the IL. Correa's done for the year. Pe\u00f1a, Hader, and Brown all out.\n\nArrighetti (5-1, 1.50 ERA) is their one weapon. Handle him.\n\n#Cubs #GoCubs #FlyTheW"
     },
     {
       "posted_at": "2026-05-20 12:00 CT",
@@ -563,29 +592,19 @@
       "opening": "statement",
       "len": 234,
       "text": "Brown vs Misiorowski tonight at Wrigley. 6:40 PM CT.\n\nBen Brown: 1.60 ERA, 0 ER in his last 12.2 innings.\nJacob Misiorowski: 2.12 ERA, MLB-best 80 Ks in 51 innings, 0 ER in 3 straight.\n\nCubs need this one.\n\n#Cubs #GoCubs #CubsBaseball"
-    },
-    {
-      "posted_at": "2026-05-15 12:01 CT",
-      "content_type": "brief",
-      "impressions": 125,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 243,
-      "text": "Tonight: Cubs at White Sox. 6:40 PM CT. Guaranteed Rate Field.\n\nEdward Cabrera (3-1, 3.88 ERA) takes on Sean Burke (2-3, 3.68 ERA) in the Crosstown Classic opener.\n\nGame 1 of 3. Cubs rolling with momentum off a 2-0 shutout.\n\n#Cubs #GoCubs #MLB"
-    },
-    {
-      "posted_at": "2026-05-14 13:16 CT",
-      "content_type": "rss_news",
-      "impressions": 112,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 205,
-      "text": "3-game skid ends tonight. That's the assignment.\n\nImanaga vs. baseball's hottest lineup. We've seen this movie before. \ud83c\udfaf\n\nSale looms tomorrow \u2014 Shota needs to set the tone NOW.\n\n#Cubs #GoCubs #WrigleyField"
     }
   ],
   "bottom_performers": [
+    {
+      "posted_at": "2026-05-14 13:02 CT",
+      "content_type": "rss_news",
+      "impressions": 13,
+      "engagement": 0,
+      "engagement_rate": 0.0,
+      "opening": "allcaps_lead",
+      "len": 169,
+      "text": "Bregman's solo shot was REAL.\n\nThe rest? Not enough. Three straight losses hurts.\n\nThis offense needs to wake up before a skid becomes a story.\n\n#Cubs #GoCubs #CubNation"
+    },
     {
       "posted_at": "2026-05-14 12:02 CT",
       "content_type": "rss_news",
@@ -595,16 +614,6 @@
       "opening": "statement",
       "len": 223,
       "text": "Cubs' No. 6 prospect is doing something RARE in the minors. \ud83d\udc40\n\nElite walk rate. Elite steal rate. The kid doesn't chase and doesn't stop.\n\nPlate discipline + speed is a cheat code. Watch him climb.\n\n#Cubs #GoCubs #CubNation"
-    },
-    {
-      "posted_at": "2026-05-19 15:45 CT",
-      "content_type": "brief",
-      "impressions": 11,
-      "engagement": 0,
-      "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 228,
-      "text": "Good news from the recovery front: Matt Boyd is throwing a bullpen session next week.\n\nLate June return still on track. A healthy Boyd won't save the season \u2014 but he'll make it a lot more manageable.\n\n#Cubs #GoCubs #CubsBaseball"
     },
     {
       "posted_at": "2026-05-06 00:46 CT",

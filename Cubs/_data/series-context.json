@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-05-22T08:30:00.464951+00:00",
-  "today_ct": "2026-05-22",
+  "generated_at": "2026-05-23T08:30:00.496601+00:00",
+  "today_ct": "2026-05-23",
   "off_day": false,
-  "is_series_start_today": true,
+  "is_series_start_today": false,
   "series": {
     "opponent": "Houston Astros",
     "opponent_id": 117,
-    "opponent_record": "20-31",
-    "cubs_record": "29-21",
+    "opponent_record": "21-31",
+    "cubs_record": "29-22",
     "is_cubs_home": true,
     "venue": "Wrigley Field",
-    "series_length": 3,
+    "series_length": 2,
     "games": [
-      {
-        "game_pk": "824679",
-        "game_date_iso": "2026-05-22T18:20:00Z",
-        "game_date_ct": "Fri 1:20 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "824674",
         "game_date_iso": "2026-05-23T18:20:00Z",
@@ -37,22 +29,22 @@
         "status": "Preview"
       }
     ],
-    "rationale": "Off day yesterday. Today: Cubs host Houston Astros \u2192 game 1 of 3."
+    "rationale": "Same opponent (Houston Astros) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "824679",
+    "game_pk": "824674",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-05-22T18:20:00Z",
-    "game_date_ct": "Fri 1:20 PM CT",
+    "game_date_iso": "2026-05-23T18:20:00Z",
+    "game_date_ct": "Sat 1:20 PM CT",
     "is_cubs_home": true,
     "opponent_id": 117,
     "opponent_name": "Houston Astros",
-    "opponent_record": "20-31",
-    "cubs_record": "29-21",
+    "opponent_record": "21-31",
+    "cubs_record": "29-22",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Wrigley Field"
   },
-  "rationale": "Off day yesterday. Today: Cubs host Houston Astros \u2192 game 1 of 3."
+  "rationale": "Same opponent (Houston Astros) as yesterday \u2014 this is mid-series, not a series opener."
 }
