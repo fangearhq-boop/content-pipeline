@@ -5,6 +5,70 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-23
+
+### STORY 1: Astros 4, Cubs 2 — Losing Streak Hits Six Games
+- **Angle:** NEW STORY (game recap). Taillon (2-4) allowed all four runs; Vazquez solo HR + RBI single. Cubs 0-for-9 RISP, 4 hits total. PCA 6th HR of the season. Six straight losses, 2-10 in last 12.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Today's game result (snap the skid or make it seven?)
+  - Taillon's next outing
+  - RISP improvement or continued futility
+
+### STORY 2: Cubs' RISP Woes — The Real Story Behind the Skid
+- **Angle:** NEW STORY (bold take). Cubs lead MLB in baserunners (642) and runners stranded (396, through ~May 20). .233 RISP BA, 24th in MLB. Offense failing in clutch moments despite constant opportunities.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Individual RISP breakdowns (Happ .208, Suzuki .190)
+  - Whether lineup changes materialize (Counsell hinted at changes)
+
+### STORY 3: Pedro Ramirez Arrives for His MLB Debut
+- **Angle:** NEW STORY (roster news). Cubs No. 2 prospect called up May 22 when Matt Shaw went on IL (back tightness). 22yo switch-hitter; .312/.395/.547, 136 wRC+, 9 HR, 19 SB in 43 Iowa games. No. 85 overall prospect per MLB.com. IL Player of Month April 2026.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, prospect callup informative)
+- **Follow-Up Opportunities:**
+  - Ramirez first MLB at-bats / debut highlights
+  - Counsell comments on Ramirez's role and playing time
+  - Ramirez first MLB hit or HR
+
+### STORY 4: Jameson Taillon Leads the Majors in Home Runs Allowed
+- **Angle:** NEW STORY (accountability take, first time as primary). Taillon leads majors in HR allowed (17+ confirmed in May 22 recap). Record 2-4, ERA 4.97. Three straight losses. Particularly vulnerable to lefties (.594 SLG against). Rotation depth crisis with Steele and Horton both on 60-day IL.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Taillon's next start performance
+  - Any Counsell comments on rotation changes / options
+  - Jordan Wicks (strong Iowa outing May 22) as future callup candidate
+
+### STORY 5: Cubs vs Astros — Game Preview (1:20 PM CT Today)
+- **Angle:** NEW STORY (game preview). Colin Rea (4-2, 2.66 ERA at home vs 4.98 overall) vs Kai-Wei Teng (2-3, 2.61 ERA). Cubs 18-9 at home, Astros 9-17 on road. Cubs need to snap 6-game skid.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game result recap (tomorrow 7:00 AM slot)
+  - Rea's line and pitch mix
+
+### STORY 6: Cubs' NL Central Lead Has Evaporated
+- **Angle:** NEW STORY (division standings take). Cubs held 2.5-game lead entering May 16. Now Cardinals (28-21) and Brewers closing — Brewers went 8-2 while Cubs went 2-8. Division race is live.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold standings take)
+- **Follow-Up Opportunities:**
+  - Daily standings updates as division race intensifies
+  - Upcoming Cardinals/Brewers series previews
+  - Cubs playoff odds tracker
+
+### STORY 7: Cade Horton's 2nd Tommy John Surgery — Out Until Mid-2027
+- **Angle:** FOLLOW UP (surgery April 16; first standalone tweet on this topic). Full UCL reconstruction (2nd TJ). Out for 2026, 15-month recovery puts return at July 2027 earliest. Combined with Steele (60-day IL, elbow), rotation depth severely compromised.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, injury update informative)
+- **Follow-Up Opportunities:**
+  - Any Horton recovery milestones
+  - Jordan Wicks or other Iowa starters as rotation callup candidates
+
+---
+
 ## 2026-05-22
 
 ### STORY 1: Series Preview — Cubs Open 3-Game Home Stand vs Houston Astros
