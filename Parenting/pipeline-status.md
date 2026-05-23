@@ -1,5 +1,41 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: May 23, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | PAW Patrol Live at Pikes Peak Center (May 23-24, Sat 10 AM + 2 PM, Sun 2 PM); D20 new K-8 school at USAFA ($42.7M DoD grant, Douglass Valley, Pre-K–8, ~787 students, January 2028); Orb Funkee squeeze toy asbestos recall (~121,000 units, fibrous tremolite, Walmart + Ollie's, customerservice@orbtoys.com); Guidecraft Kitchen Helper Tower recall (25,235 units, May 14 2026, platform loosens, 800-524-3555, free repair); Safe Streets COS enforcement update (50% citywide + 200% school zone increase since 2023, Sierra HS + Panorama MS beacons) |
+| Story History Check | COMPLETE | 4 NEW STORIES (PAW Patrol, D20 USAFA school, Orb Funkee recall, Guidecraft recall) + 1 FOLLOW UP (Safe Streets COS — initial May 17; today's angle: enforcement data + beacon timelines) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar; bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all under 280 chars; 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 70 claims; image warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (25 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-23.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-05-23.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-23)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions) = 15 total
+- **Articles:** 5 (bylines: Sarah Morales x3, Jamie Rivera x2)
+- **PostPlanner exports:** cosp-postplanner-2026-05-23.xlsx (5 posts), cosp-postplanner-tobi-2026-05-23.xlsx (5 TOBI posts)
+- **Coverage:** PAW Patrol Live at Pikes Peak Center (May 23-24, Sat 10 AM + 2 PM, Sun 2 PM, AXS.com, 190 S. Cascade Ave); D20 new Pre-K–8 school at USAFA ($42.7M DoD grant, Douglass Valley Elementary rebuild, ~787 students, RTA Architects, projected Jan 2028, asd20.org); Orb Funkee asbestos recall (~121,000 units, fibrous tremolite in sand, Model 17451 + 41929, date code 3102491A, Walmart + Ollie's, Feb 2025–Apr 2026, customerservice@orbtoys.com); Guidecraft Kitchen Helper Tower recall (25,235 units, May 14 2026, platform loosens/detaches, 11 falls/3 injuries, Jun 2022–Oct 2023, free repair — no refund, 800-524-3555 / ProductSupport@guidecraft.com / guidecraft.com/pages/product-recall); Safe Streets COS follow-up (22 zones; 50% total enforcement increase + 200% school zone increase since 2023; Sierra HS beacons 2026-27; Panorama MS end of summer; coloradosprings.gov/SafeStreetsCOS)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 70 claims; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images
+  - dashboard: 25 items
+  - PostPlanner exports: both standard (5) and TOBI (5) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
 ## Latest Run: May 22, 2026
 
 | Step | Status | Notes |

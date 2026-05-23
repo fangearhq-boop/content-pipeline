@@ -2,6 +2,45 @@
 
 ---
 
+## May 23, 2026
+
+### Story 1: PAW Patrol Live at Pikes Peak Center This Weekend
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — PAW Patrol Live performing at Pikes Peak Center (190 S. Cascade Ave) May 23-24, 2026; Saturday shows 10 AM + 2 PM; Sunday show 2 PM; approximately 90-minute show including intermission; tickets via AXS.com and box office; Memorial Day weekend option for families with young children; D11 last day was May 22; D49 graduation also May 23
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Pikes Peak Center, 190 S. Cascade Ave; Sat 10 AM + 2 PM; Sun 2 PM; ~90 min with intermission; AXS.com; Source: Pikes Peak Center event listings, KOAA, KKTV
+
+### Story 2: Academy D20 Receives $42.7 Million to Build New K-8 School at USAFA
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Department of Defense awarded D20 a $42.7M grant to rebuild Douglass Valley Elementary into Pre-K through 8th grade school on U.S. Air Force Academy campus; total project $54.2M; designed by RTA Architects (Colorado Springs); approximately 787 students; projected opening January 2028; expands from K-5 to Pre-K–8
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** $42.7M DoD grant; $54.2M total; Douglass Valley Elementary; Pre-K–8; ~787 students; RTA Architects; January 2028 projected; asd20.org; Source: KKTV, KOAA, FOX21, KRDO
+
+### Story 3: CPSC Recall — 121,000 Orb Funkee Squeeze Toys May Contain Asbestos
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled ~121,000 Orb Funkee squeeze toys (The Orb Factory); sand filling may contain fibrous tremolite (asbestos); Model 17451 (large golden monkey) + Model 41929 (small assorted monkeys); date code 3102491A; sold Walmart + Ollie's Bargain Outlet Feb 2025–Apr 2026 $5–$40; full refund via photo; distinct from Cosyland, YCXXKJ, Bellabu Bear, and Joyful Journeys recalls
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~121,000 units; asbestos (fibrous tremolite); 17451 + 41929; date code 3102491A; Walmart + Ollie's; $5–$40; full refund; customerservice@orbtoys.com; no injuries; Source: CPSC.gov/Recalls, The Orb Factory official
+
+### Story 4: CPSC Recall — Guidecraft Kitchen Helper Tower Platform Fails (25,235 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled 25,235 Guidecraft Kitchen Helper Standing Towers (Classic + Contemporary, 9 colors); platform loosens/detaches; fall hazard; 11 falls reported, 3 injuries (bloody nose/bruises); sold Amazon/Walmart/Target/Wayfair/Overstock/Maisonette Jun 2022–Oct 2023; remedy is FREE REPAIR PARTS (not refund); distinct from Cosyland Children's Tower Stool recall
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 25,235 units; May 14 2026 recall; platform loosens; 11 falls/3 injuries; Amazon/Walmart/Target/Wayfair/Overstock/Maisonette; Jun 2022–Oct 2023; free repair (no refund); 800-524-3555; ProductSupport@guidecraft.com; guidecraft.com/pages/product-recall; Source: CPSC.gov/Recalls, Guidecraft official
+
+### Story 5: Safe Streets COS — Enforcement Numbers for New 22 School Zones
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW UP (Safe Streets COS NEW STORY covered May 17; today's angle: enforcement data and beacon timeline details) — 50% increase total traffic enforcement since 2023; 200% increase around school zones; Sierra HS beacons operational 2026-27 school year; Panorama MS flashing signs end of summer 2026; mobile speed enforcement deployed near school zones; coloradosprings.gov/SafeStreetsCOS
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 22 new zones; 50% citywide enforcement increase since 2023; 200% school zone enforcement increase; Sierra HS beacons 2026-27; Panorama MS end of summer; 35% crash reduction goal by 2035; coloradosprings.gov/SafeStreetsCOS; Source: KOAA, City of Colorado Springs official, KKTV, Fox21
+
+---
+
 ## May 21, 2026
 
 ### Story 1: D11 Final Graduation Day — Achieve, Tesla, Bijou, Odyssey Today
