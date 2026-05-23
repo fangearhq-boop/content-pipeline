@@ -5,6 +5,39 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-23
+
+### Story 1: Gerrit Cole Returns — Yankees Lose 4-2 to Rays
+- **Angle:** FOLLOW UP. Cole starts in his first MLB game in 569 days (since Game 5, 2024 World Series). Line: 6 IP, 0 ER, 2 H, 3 BB, 2 K, 96.1 mph avg / 98.6 mph peak fastball. Tim Hill blew 8th inning, surrendered 4 runs without an out. Final: Rays 4, Yankees 2. Rays improve to 33-15, 4-0 vs Yankees in 2026, 5.5-game AL East lead.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Cole's next start; Yankees bullpen situation; Rays AL East lead.
+
+### Story 2: Acuña Exits with Left Thumb Bone Bruise
+- **Angle:** NEW STORY. Ronald Acuña Jr. fouled pitch off left hand in 7th inning vs Marlins. Diagnosis: left thumb bone bruise. X-rays negative. Day-to-day. He went 2-for-3 with 2-run single before exiting. Braves won 9-3 (Strider 6 IP 9 Ks; Harris II and Yastrzemski HRs). Braves record: 35-16. Acuña just returned from 14-game hamstring IL earlier in May.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Saturday injury update; is Acuña available vs Nationals?
+
+### Story 3: Murakami's 5-Game HR Streak Ends — White Sox Still Win
+- **Angle:** FOLLOW UP. Masataka Murakami's 5-consecutive-game HR streak (tied White Sox franchise record) ended Friday vs Giants. But he had a bases-clearing double in a 9-run 4th inning as Chicago won. White Sox are approximately .500 — a positive story for a team many projected last.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Can Murakami maintain high production? White Sox season standings.
+
+### Story 4: Rays at 33-15 — Best Record in the AL
+- **Angle:** STANDINGS FEATURE. Tampa Bay 33-15 (AL's best), 4-0 vs Yankees in 2026, 5.5-game AL East lead. Beat Cole's return game 4-2. Analysis of their dominance.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Saturday's Rays-Yankees Game 2.
+
+### Story 5: Schwarber Returns, Still Leads MLB at 20 HRs
+- **Angle:** FOLLOW UP. Kyle Schwarber returned from 3-game GI illness absence and homered Friday. Still leads MLB with 20 HRs. Hit No. 20 on May 15 — earliest date in MLB history to reach that mark. Phillies are 25-25.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** When does Schwarber reach 25? Can Phillies win around him?
+
+### Story 6: Saturday MLB Watch Guide
+- **Angle:** SOCIAL ONLY. Key games: Rays vs Yankees G2, Braves at Nationals (Acuña watch), Astros at Cubs, Cardinals at Padres.
+- **Content Produced:** X (1 post only)
+
+---
+
 ## 2026-05-22
 
 ### Story 1: Gerrit Cole Returns Tonight — 569 Days Ends at Yankee Stadium

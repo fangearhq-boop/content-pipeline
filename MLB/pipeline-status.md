@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-23
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (11 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories + S6 Tier 3 placeholder), image concepts (5 stories + S6 Tier 3 placeholder), image manifest (not_started), articles (5), fact-check (24 claims, 0 char violations, consistency clean after S6 placeholders added), compile (6 stories, 8 tweets, 5 FB posts, 5 articles, 29 items), dashboard (29 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by SSL certificate error (proxy sandbox — known). Dashboard published via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress SSL error (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required). 0 char violations. S6 Tier 3 — added placeholders to FB/image-concepts for consistency check.
+- **Key Stories**: Gerrit Cole returns after 569 days (Game 5 2024 WS)/6 IP 0 ER 96.1 mph avg 98.6 mph peak/Tim Hill blew 8th/Yankees lost 4-2 to Rays (Tier 1), Acuña exits with left thumb bone bruise/X-rays negative/day-to-day/Braves 9-3 over Marlins/Strider 9 Ks/35-16 (Tier 2), Murakami 5-game HR streak ends (tied White Sox franchise record)/bases-clearing double in 9-run 4th inning (Tier 2), Rays 33-15 AL-best/4-0 vs Yankees/5.5-game AL East lead (Tier 2), Schwarber returns from GI illness/homers/still leads MLB at 20 HRs/hit No. 20 May 15 earliest in MLB history (Tier 2), Saturday MLB watch guide: Rays-Yankees G2/Braves at Nationals/Astros at Cubs (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-22
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 1 char violation fixed S6T1 349→267 before compile; 0 violations after fix), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (38 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
