@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 23, 2026
+
+### Story 1: Tennessee Sweeps Georgia — WCWS-Bound (10th Time)
+- **Angle:** FOLLOW UP (Tennessee-Georgia SR Game 1 covered May 22; Game 2 result new). Tennessee defeated Georgia 2-1 in Super Regional Game 2 on Friday. Mardjetko CG, 4 hits, 1 ER. Tennessee sweeps series, heading to WCWS for 10th time, second straight year. 47-10 final record.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Tennessee's WCWS bracket draw and first opponent in OKC.
+
+### Story 2: Mississippi State Stuns No. 1 Oklahoma 11-9 — Wells Hits HRs 38 and 39
+- **Angle:** NEW STORY. Mississippi State stunned No. 1 Oklahoma 11-9 in SR Game 1 at Love's Field, Norman. Wells went 4-for-5 with HRs 38 and 39 (6 RBIs), but Miss State scored 5 in the 7th to complete the comeback. Wells now at 39 HRs (2nd all-time), one behind Grant (40). Miss State leads series 1-0. Game 2 today 1 PM ET.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Oklahoma vs Miss State Game 2 result; Wells HR chase continues.
+
+### Story 3: Wells (39) vs. Grant (40) — The All-Time HR Race Is One Swing Away
+- **Angle:** FOLLOW UP (Wells covered throughout 2026; new dual-record angle). First time in NCAA history two players have 39+ HRs same season. Wells at 39 (2nd all-time), Grant at 40 (all-time record). Both in SR play today. One HR separates them.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Does Wells tie Grant's record in Game 2? WCWS HR race narrative.
+
+### Story 4: Arizona State Upsets Defending Champion Texas 4-1 in SR Game 1
+- **Angle:** NEW STORY. No. 19 Arizona State beat No. 3 Texas 4-1 at McCombs Field, Austin. Defending national champions fall behind in their own Super Regional. Game 2 tonight 7 PM ET ESPN.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Texas vs Arizona State Game 2 result; title defense survival.
+
+### Story 5: Saturday's Super Regional Game 2 Slate — Seven WCWS Spots Decided Today
+- **Angle:** NEW STORY (schedule/preview). Seven Game 2s: TTech-FL 12:30 PM ABC, MSU-OU 1 PM, ALA-LSU 3 PM ESPN, ARK-Duke 4 PM ESPN2, NEB-OkSt 5 PM ESPN2, UCF-UCLA evening, ASU-TEX 7 PM ESPN. Four home teams must win. Three home teams can clinch.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** All Game 2 results.
+
+### Story 6: Texas Tech Upsets Florida 10-8 — Home Mystique Broken
+- **Angle:** NEW STORY. Texas Tech beat Florida 10-8 at Katie Seashole Pressly, Gainesville. Florida was 36-1 in home NCAA tournament games since 2013. Mia Williams go-ahead 2-run HR in 7th. Game 2 today 12:30 PM ET ABC.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Texas Tech vs Florida Game 2 result; Florida's response.
+
+---
+
 ## May 22, 2026
 
 ### Story 1: Tennessee 3-1 Georgia — Pickens Super Regional Masterpiece

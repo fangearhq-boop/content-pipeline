@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-23
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (11 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 1 char violation fixed S5T1 295→250 before compile; 0 violations after fix), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (94 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required). 1 char violation fixed (S5T1 295→250). publish-unified-dashboard 403 (PAT scope — known).
+- **Key Stories**: Tennessee sweeps Georgia 2-1 in Game 2/Mardjetko CG/WCWS-bound 10th time/47-10/second straight WCWS (Tier 1), Mississippi State stuns No. 1 Oklahoma 11-9/Wells HRs 38+39 (now 39 total)/5-run 7th inning comeback/Game 2 today 1 PM ET (Tier 1), Wells (39) vs Grant (40) all-time HR race one swing apart/both in SR play today (Tier 2), Arizona State upsets defending champion Texas 4-1/Game 2 tonight 7 PM ET ESPN (Tier 2), Saturday Game 2 slate 7 series WCWS spots (Tier 2), Texas Tech upsets Florida 10-8/36-1 home mystique broken/Mia Williams 7th-inning HR (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-22
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (65 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
 - **Dashboard Published**: Local only
