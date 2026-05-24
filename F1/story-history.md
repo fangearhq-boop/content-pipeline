@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-24
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Russell wins Canadian GP (70 laps, Circuit Gilles-Villeneuve); Verstappen P2; Red Bull protest rejected after 5+ hours; Wolff: "embarrassing"; Mercedes first race win of 2026 | 1 | FOLLOW-UP |
+| 2 | Russell-Antonelli Sprint clash — Russell pushed Antonelli onto grass; Antonelli demanded penalty; Wolff shut him down; Russell wins Sprint AND race; championship battle inside one garage | 1 | FOLLOW-UP |
+| 3 | Championship standings after Canada — before Canada: Antonelli 20-pt lead; after Sprint: 18-pt gap; after race win (Russell 25 pts): gap closes substantially; Norris P3 in championship; Verstappen just 2 pts from Sprint | 2 | FOLLOW-UP |
+| 4 | Qualifying recap — Russell pole 1:12.578 by 0.068s over Antonelli; final-lap heroics; Mercedes front-row lockout; Norris P3 | 2 | FOLLOW-UP |
+| 5 | Monaco Grand Prix preview — June 7, Circuit de Monaco; Russell arrives with back-to-back wins; Antonelli needs response; qualifying key | 2 | NEW STORY |
+
+### STORY 1: Russell Wins Canadian Grand Prix — Red Bull Protest Rejected
+- **Tier:** 1
+- **Category:** Race Result
+- **Key facts:** Russell wins 2026 Canadian GP (70 laps, Circuit Gilles-Villeneuve). Verstappen P2. Red Bull filed 2 protests alleging erratic braking and unsportsmanlike conduct under Safety Car. Stewards rejected both after 5+ hours deliberation. Toto Wolff called protest "embarrassing." Mercedes' first race win of 2026. Monaco GP next: June 7.
+
+### STORY 2: Mercedes Intra-Team Drama — Sprint Clash
+- **Tier:** 1
+- **Category:** Team Drama / Championship
+- **Key facts:** Sprint: Russell pushed Antonelli onto the grass in battle. Antonelli demanded penalty on radio. Wolff shut him down. Russell P1 in Sprint; Antonelli P3 (Norris P2). Russell then won the Grand Prix. Both drivers are championship contenders for 2026. Antonelli led championship heading in.
+
+### STORY 3: Championship Standings After Canada
+- **Tier:** 2
+- **Category:** Championship Update
+- **Key facts:** Before Canada: Antonelli led by 20 pts (Antonelli 100, Russell 80). After Sprint: 18-pt gap (Antonelli 106, Russell 88). Race win (Russell 25 pts) narrows gap substantially. Norris P3 in championship. Leclerc P4. Verstappen fading — just 2 pts from Sprint (P7).
+
+### STORY 4: Qualifying Recap
+- **Tier:** 2
+- **Category:** Qualifying / Technical
+- **Key facts:** Russell pole: 1:12.578 (final lap of Q3). Antonelli P2: +0.068s. Norris P3. Mercedes locked out front row. 70-lap race, 4.361km circuit. Russell's last-lap improvement denied Antonelli pole on provisional best time.
+
+### STORY 5: Monaco Grand Prix Preview
+- **Tier:** 2
+- **Category:** Race Preview
+- **Key facts:** Monaco GP: June 7, 2026, Circuit de Monaco, Monte Carlo. 3.337km street circuit. Overtaking extremely difficult — qualifying determines result. Russell arrives with back-to-back wins and championship momentum. Antonelli needs response.
+
 ## 2026-05-21
 
 | # | Story | Tier | Tag |
