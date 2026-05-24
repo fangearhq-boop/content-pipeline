@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-24
+
+### STORY 1: Astros 3, Cubs 0 — Seven Straight Losses
+- **Angle:** NEW STORY (game recap). Christian Walker 2 HRs (13 on season, 3 RBI), Kai-Wei Teng 6 IP 2 H 6 K, Cubs 3 hits total. Colin Rea loss (now 4-3). Seven straight losses — first 7-game skid since 2022. Cubs are 29-23.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Today's game result (snap the skid with Imanaga?)
+  - Rea's ERA and role in rotation going forward
+
+### STORY 2: The Great Collapse — From 21-4 to 2-11 in 13 Games
+- **Angle:** NEW STORY (bold take). Cubs went from 21-4 (.773 OPS w/RISP) to 2-11 (.131 avg, 4 shutouts, 2.5 R/G) in 13 games. Counsell's lineup shuffle on May 23 (PCA leadoff, Hoerner cleanup, Happ benched) produced zero results.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Daily RISP/offense tracking if skid continues
+  - Whether Counsell makes further lineup changes
+
+### STORY 3: Pedro Ramirez MLB Debut
+- **Angle:** FOLLOW UP (called up May 22; first standalone debut-context tweet). 22yo switch-hitter, No. 2 Cubs prospect, .312/.395/.547 with 9 HR and 19 SB in 43 Iowa games. Making debut in the middle of the 7-game skid.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative)
+- **Follow-Up Opportunities:**
+  - Ramirez first MLB hit or HR
+  - Ramirez playing time / role definition
+  - Matt Shaw return timeline
+
+### STORY 4: NL Central Standings — Cubs' Division Lead Gone
+- **Angle:** FOLLOW UP (from May 23 standings take; Brewers now confirmed in first place). Cubs went 2-11 while Brewers went 8-2; Milwaukee now 30-19, leading the NL Central. Cubs' 2.5-game division lead from May 16 is gone.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold standings take)
+- **Follow-Up Opportunities:**
+  - Daily standings updates as division race intensifies
+  - Cardinals record clarification (inconsistent sources; ranges 28-19 to 28-21)
+  - Next Cubs series opponent and implications
+
+### STORY 5: Series Finale Preview — Imanaga vs Lambert, 1:20 PM CT
+- **Angle:** NEW STORY (game preview, series finale). Shota Imanaga (4-4, 3.37 ERA) vs Peter Lambert (2-4, 3.57 ERA). Cubs 18-10 at home, Astros 10-17 on road. 7-game losing streak on the line.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game result recap (tomorrow 7:00 AM slot)
+  - Imanaga's line and command; whether Cubs snap the streak
+
+### STORY 6: Jordan Wicks — Ready for the Rotation Call
+- **Angle:** NEW STORY (rotation depth). Wicks: 0.60 ERA in last 3 Iowa starts (15 IP, 7 H, 1 ER, 12 K). Rotation crisis: Horton out until 2027, Steele flexor strain setback, Hodge UCL surgery. Taillon leads MLB in HRs allowed. Wicks is the logical next callup.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, rotation depth)
+- **Follow-Up Opportunities:**
+  - Wicks callup announcement
+  - Any Jed Hoyer comments on rotation plan
+  - Wicks' MLB debut start
+
+---
+
 ## 2026-05-23
 
 ### STORY 1: Astros 4, Cubs 2 — Losing Streak Hits Six Games

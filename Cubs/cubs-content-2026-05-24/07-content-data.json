@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-24",
+  "compiled_at": "2026-05-24T09:21:38.181812+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Game recap — Astros 3, Cubs 0, 7th straight loss",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Offense collapse bold take — 21-4 to 2-11",
+      "type": "Bold"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Pedro Ramirez MLB debut context",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "NL Central standings — Brewers now leading",
+      "type": "Bold"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Series finale preview — Imanaga vs Lambert, 1:20 PM CT",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Jordan Wicks rotation depth piece",
+      "type": "Informative"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Astros 3, Cubs 0 — Seven Straight Losses",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Score-led recap; Christian Walker 2 HRs (13 on season), Teng dominant (6 IP, 2 H), Cubs 3 hits total, 7-game skid first since 2022",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Astros 3, Cubs 0.\n\nChristian Walker went yard twice (13 HRs), Kai-Wei Teng held Chicago to 2 hits in 6 innings, and the Cubs dropped their SEVENTH straight for the first time since 2022.\n\nThe offense has completely vanished. Something has to give.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Astros 3, Cubs 0 — Seven Straight Losses\n**Core facts:**\n- Final score: Astros 3, Cubs 0 (May 23, 2026 at Wrigley Field)\n- Cubs' losing streak: 7 games — first 7-game skid since 2022\n- Christian Walker: 2 HRs (HRs 12 and 13 on season), 3 RBI\n- Two-run HR in 1st inning off Colin Rea\n- Solo HR in 4th inning off Colin Rea\n- Kai-Wei Teng (Astros, now 3-3): 6 IP, 2 H, 6 K, 3 BB\n- Bryan King: 9th inning, 6th save\n- Colin Rea decision: Loss (now 4-3)\n- Cubs hits: 3 total (three-hitter)\n- Cubs record after loss: 29-23\n**Sources:**\n- ESPN box score (gameId=401815464) — primary\n- Washington Post recap — secondary confirmation\n- FOX Sports recap — secondary confirmation\n**Freshness:** Same-day reporting; game played yesterday (May 23, 2026) ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "The Great Collapse — From 21-4 to 2-11",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Bold take on the offensive collapse; .773 OPS w/RISP → .131 avg, 4 shutouts, 2.5 R/G in 13 games; Counsell lineup shuffle changed nothing",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "From 21-4 to 2-11 in 13 games.\n\nCubs offense went from .773 OPS with RISP to .131 average, 4 shutouts, and 2.5 runs per game.\n\nThis isn't a slump. This is a collapse. And Saturday's lineup shuffle changed exactly nothing.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold Take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "The Great Collapse — 21-4 to 2-11\n**Core facts:**\n- Prior 25-game run: Cubs went 21-4, averaged 6.2 runs/game, .773 OPS w/RISP\n- Last 13 games: 2-11, 2.5 runs/game, 4 shutouts, 9 games scoring ≤2 runs\n- RISP performance last 13: .131 average, .464 OPS\n- Ian Happ benched for May 23 game (Counsell lineup shuffle)\n- PCA moved to leadoff, Hoerner batting cleanup for first time in ~4 years\n- Result of lineup change: still lost 3-0 (no change in output)\n**Sources:**\n- Yahoo Sports / Yardbarker: \"Lineup shuffle produces no results in Cubs' seventh straight loss\"\n- ChiCitySports analysis\n- Multiple wires confirming offensive stats over 13-game stretch\n**Freshness:** Analysis based on May 23 game and 13-game stretch; current ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Pedro Ramirez Making His MLB Debut Mid-Skid",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "No. 2 Cubs prospect, 22yo switch-hitter, .312/.395/.547 with 9 HR and 19 SB in Iowa; bright spot in a dark stretch",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Pedro Ramirez, Cubs No. 2 prospect, is debuting in the middle of a 7-game skid.\n\nThe 22-year-old switch-hitter hit .312/.395/.547 with 9 HRs and 19 SBs in Iowa this season. Timing is rough — but this kid was always going to be a bright spot.\n\n#Cubs #CubsBaseball #GoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Prospect News",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#GoCubs"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pedro Ramirez Makes MLB Debut\n**Core facts:**\n- Called up May 22, 2026 (Matt Shaw to 10-day IL, back tightness, retroactive to May 20)\n- Age: 22 years old\n- Position: 2B/3B, switch-hitter\n- Iowa 2026 stats (43 games): .312/.395/.547, 9 HR, 11 2B, 40 RBI, 19 SB, 136 wRC+\n- Named Iowa Cubs IL Player of Month (April 2026)\n- MLB Pipeline ranking: No. 2 prospect in Cubs system; No. 85 overall prospect\n- Debuted in the Astros series (May 22-24); specific game-by-game MLB debut stats not confirmed\n**Flag:** Multiple sources conflated Triple-A stats with \"MLB stats\" for Ramirez. ONLY using confirmed Iowa/pre-callup stats (.312/.395/.547, 9 HR, 19 SB) in the tweet. NOT claiming specific MLB AB or hit totals.\n**Sources:**\n- MLB.com: Ramirez callup news\n- MLB Pipeline: prospect ranking\n- FOX 32 Chicago: Cubs call up Ramirez\n**Freshness:** Called up 2 days ago (May 22); current ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NL Central Standings — Division Lead Is Gone",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs went 2-11 while Brewers went 8-2; Milwaukee at 30-19 leads the NL Central; Cubs' 2.5-game division lead from May 16 erased",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "The Cubs went 2-11 in 13 games. The Brewers went 8-2.\n\nMilwaukee is 30-19 and leads the NL Central. Chicago's 2.5-game division lead from May 16 is gone. Today's Imanaga start is the most important in weeks.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold Take / Standings",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Central Standings — Division Lead Gone\n**Core facts:**\n- Brewers: 30-19 (NL Central leaders as of May 24)\n- Cubs: 29-23 (from series-context.json snapshot)\n- Cubs had 2.5-game NL Central lead entering May 16 (from 2026-05-23 story history)\n- Over stretch from May 16: Cubs went 2-11, Brewers went 8-2 (approximate, from search results)\n- Cardinals: records ranged 28-19 to 28-21 across sources — exact standing uncertain, listed as \"Cardinals and Brewers closing\" in prior coverage\n**Flag:** Cardinals' exact record is inconsistent across sources (one said 28-19, another said 28-21). NOT claiming specific Cardinals W-L in tweet; only stating Brewers lead and Cubs' division lead is gone.\n**Sources:**\n- Yahoo Sports standings (Brewers 30-19)\n- Series context snapshot (Cubs 29-23)\n- 2026-05-23 story history (2.5-game lead entering May 16)\n**Freshness:** Standings as of May 24 ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Series Finale Preview — Imanaga vs Lambert, 1:20 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Shota Imanaga (4-4, 3.37 ERA) vs Peter Lambert (2-4, 3.57 ERA); 7-game skid on the line; Cubs 18-10 at home",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Shota Imanaga vs Peter Lambert. Wrigley Field. 1:20 PM CT. Series finale. Seven-game losing streak on the line.\n\nImanaga (4-4, 3.37 ERA) vs Lambert (2-4, 3.57 ERA). Cubs are 18-10 at home. The rotation is where the Cubs have to make their stand today.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Finale Preview — Imanaga vs Lambert\n**Core facts:**\n- Game: Cubs vs Astros, Wrigley Field, Sunday May 24, 1:20 PM CT (2:20 PM EDT)\n- Broadcast: Marquee Sports Network\n- Cubs starter: Shota Imanaga (4-4, 3.37 ERA, 1.04 WHIP, 61 K)\n- Astros starter: Peter Lambert (2-4, 3.57 ERA, 1.07 WHIP, 35 K)\n- Cubs home record: 18-10\n- Astros road record: 10-17\n- Astros overall: 22-31\n- Stakes: Cubs looking to snap 7-game losing streak; series already lost (down 0-2)\n**Sources:**\n- ESPN pregame (gameId=401815479)\n- Cubs Insider series preview\n- Series context snapshot (game_date_ct: \"Sun 1:20 PM CT\")\n**Freshness:** Today's game ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Jordan Wicks — Ready for the Rotation Call",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "0.60 ERA in last 3 Iowa starts (15 IP, 7 H, 1 ER); rotation depth crisis with Horton/Steele/Hodge all out; Wicks has earned the call",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Jordan Wicks: 0.60 ERA in his last three Iowa starts — 15 innings, 7 hits, 1 run.\n\nHorton out until 2027. Steele hit a setback. Taillon leads the majors in HRs allowed. The Cubs' rotation is in crisis mode, and Wicks has earned his shot.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative / Rotation Depth",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Jordan Wicks — Ready for the Rotation Call\n**Core facts:**\n- Wicks' last 3 Iowa starts: 0.60 ERA, 15 IP, 7 H, 1 ER, 12 K, 8 BB\n- 2026 context: Lost most of spring training to left forearm nerve irritation\n- 2021 first-round pick; has bounced between Iowa and Chicago\n- Rotation situation:\n- Cade Horton: 2nd Tommy John, out until ~July 2027\n- Justin Steele: Flexor strain setback, out \"later this summer\" per Hoyer\n- Porter Hodge: UCL surgery, out for 2026 season\n- Jameson Taillon: Leads MLB in HRs allowed (17+, from May 23 story history)\n- Jed Hoyer has hinted at Wicks' readiness; competitor is Chris Flexen\n- Status as of pipeline: Still at Iowa; recall possible but not confirmed today\n**Flag:** \"Taillon leads majors in HRs allowed\" — sourced from 2026-05-23 story history (17+ confirmed in May 22 recap). Not cross-referenced with a second live source today. Tweet uses softer phrasing \"leads the majors in HRs allowed\" — flag for fact-check.\n**Sources:**\n- Bleacher Nation: Wicks May 22 scoreless outing\n- ChiCitySports: Battered Cubs pitching may force Wicks callup\n- CBS Sports: Steele injury update\n- 2026-05-23 story history: Taillon HR allowed stat",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
