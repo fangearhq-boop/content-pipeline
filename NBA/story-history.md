@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-24
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks 121-108 Cavs ECF G3 (May 23, Cleveland) — Brunson 30/10-19FG; Bridges 22/11-15FG/3stl; OG 21/7reb/4ast; KAT 13/8reb/7ast; Hart 12/9reb/5stl; Mobley 24 (Cavs); Mitchell 23; Knicks 10-game win streak; lead ECF 3-0; ECF G4 Mon May 25 Cleveland 8 PM ET ABC | 1 | FOLLOW-UP |
+| 2 | Thunder 123-108 Spurs WCF G3 (May 22, SA) — SGA 26/12ast/12-12 FT; McCain 24 off bench; Jaylin Williams 18 in 22 min; Wemby 26 (Spurs); OKC bench 76-23 over Spurs bench; Thunder lead WCF 2-1; WCF G4 tonight 8 PM ET NBC/Peacock | 1 | FOLLOW-UP |
+| 3 | WCF G4 preview TONIGHT — Thunder vs Spurs at AT&T Center SA, 8 PM ET NBC/Peacock; OKC leads 2-1; Spurs favored -2.5; Wemby 41.7 min/gm; OKC bench averaging 61 pts/gm | 2 | NEW STORY |
+| 4 | Knicks one win from first NBA Finals since 1999 — 27-year drought; 10-game win streak; 130.5 offensive rating (best of 2026 playoffs); ECF G4 Mon May 25 | 2 | NEW STORY |
+| 5 | ECF G4 preview — Cavs' last stand in Cleveland; no team has ever overcome 3-0 in NBA history; Mitchell 23 G3, Mobley 24 G3; Harden key variable; Mon May 25 8 PM ET ABC | 2 | NEW STORY |
+
+### STORY 1: Knicks 121-108 Cavaliers — ECF Game 3, 3-0 Lead
+- **Tier:** 1
+- **Category:** Playoff Results / ECF
+- **Key facts:** Knicks 121, Cavaliers 108 (May 23, Rocket Mortgage FieldHouse, Cleveland). Brunson: 30 pts (10-19 FG, 0-4 3P, 10-12 FT), 6 ast, 3 reb. Bridges: 22 pts (11-15 FG), 6 reb, 3 stl, 2 blk. OG: 21 pts, 7 reb, 4 ast. KAT: 13 pts, 8 reb, 7 ast, 3 stl. Hart: 12 pts, 9 reb, 4 ast, 5 stl. Mobley (Cavs): 24 pts, 6 reb. Mitchell (Cavs): 23 pts, 3 stl. Knicks 10-game win streak. Offensive rating: 130.5/100 (best of 2026 playoffs). Series: NYK 3-0. ECF G4: Mon May 25, Cleveland, 8 PM ET, ABC.
+
+### STORY 2: Thunder 123-108 Spurs — WCF Game 3, Thunder Lead 2-1
+- **Tier:** 1
+- **Category:** Playoff Results / WCF
+- **Key facts:** Thunder 123, Spurs 108 (May 22, AT&T Center, San Antonio). SGA: 26 pts, 12 ast, 12-for-12 FT. McCain: 24 pts off bench. Jaylin Williams: 18 pts in 22 min, 4-pt play in 4th. Wemby (Spurs): 26 pts (8-15 FG), 4 reb, 3 ast, 2 blk. OKC bench: 76 pts; Spurs bench: 23 pts. OKC came back from 15-pt deficit. Series: OKC 2-1. WCF G4: tonight May 24, 8 PM ET, AT&T Center, NBC/Peacock.
+
+### STORY 3: WCF Game 4 Preview — TONIGHT
+- **Tier:** 2
+- **Category:** Game Preview / WCF
+- **Key facts:** May 24, AT&T Center, San Antonio, 8 PM ET, NBC/Peacock. OKC leads 2-1. Spurs favored -2.5. Wemby 41.7 min/game; Spurs +21 with him, -38 without. OKC bench avg 61 pts/game; Spurs avg 21.3. OKC looking for 3-1 lead.
+
+### STORY 4: Knicks One Win From NBA Finals Since 1999
+- **Tier:** 2
+- **Category:** Feature / Historic Context
+- **Key facts:** Last Finals: 1999 (lost to Spurs in 5). 10-game win streak (franchise record). 130.5 offensive rating (best among 2026 playoff teams). Shot 60% FG, ~40% 3P during streak. Swept 76ers in East Semis. ECF G4 Mon May 25, Cleveland.
+
+### STORY 5: ECF Game 4 Preview — Cavaliers' Last Stand
+- **Tier:** 2
+- **Category:** Game Preview / ECF
+- **Key facts:** Mon May 25, Rocket Mortgage FieldHouse, Cleveland, 8 PM ET, ABC. No team has ever come back from 3-0 in NBA playoff history. Mitchell: 23 pts G3. Mobley: 24 pts G3. Harden key factor. Cleveland was 6-1 at home in 2026 playoffs before ECF. Knicks win = first Finals since 1999.
+
 ## 2026-05-21
 
 | # | Story | Tier | Tag |

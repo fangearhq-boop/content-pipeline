@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-22
+- **Date**: 2026-05-24
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-24
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-05-24.xlsx (7 posts) + hh-postplanner-tobi-2026-05-24.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-24/review-dashboard.html (27 items)
+- **Notes:** ECF G3: Knicks 121-108 Cavs (Brunson 30, Bridges 22, OG 21, KAT 13-8-7, Hart 12-9-5stl); Knicks 10-game win streak, 130.5 off rating, lead ECF 3-0; ECF G4 Mon May 25 Cleveland 8 PM ET ABC; WCF G3: Thunder 123-108 Spurs (SGA 26/12ast, McCain 24 bench, OKC bench 76-23); WCF G4 TONIGHT 8 PM ET SA NBC/Peacock; Thunder lead 2-1; Knicks one win from first Finals since 1999
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-22
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
@@ -16,8 +27,6 @@
 - **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-22/review-dashboard.html (27 items)
 - **Notes:** Knicks 109-93 Cavs ECF G2 (Hart 26 career-high, Brunson 14 ast career-high, Knicks lead 2-0); Thunder 122-113 Spurs WCF G2 (SGA 30/9, series tied 1-1); WCF G3 TONIGHT 8:30 PM ET SA NBC/Peacock (Fox/Harper/Williams all questionable); ECF G3 Sat May 23 8 PM ET Cleveland ABC
 - **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
-
-## Pipeline Run Log
 
 ### 2026-05-21
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
