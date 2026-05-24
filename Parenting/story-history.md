@@ -2,6 +2,45 @@
 
 ---
 
+## May 24, 2026
+
+### Story 1: D11 Parents and Teachers Plan Picket at School Board
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 educators and parents organizing a picket at the school board after 300+ days without a contract since the board eliminated the 56-year CSEA teacher contract in July 2025. Educators and community members planning to attend the board meeting to call for resolution before the 2026-27 school year.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 300+ days without contract; CSEA; D11 School Board; contract eliminated July 2025; d11.org/boe/meetings; Source: KRDO, KOAA, local D11 coverage
+
+### Story 2: CPSC Recall — ABC Trading Toy Headband and Dinosaur Cage (Button Battery Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall announced May 22, 2026. Three ABC Trading products with unsecured button battery compartments: pink bow toy headband (6300RP), electronic pet dinosaur cage (8266/ZH998-22), and bird cage (ZH998-23). Sold at TOYZ and Joissu stores nationwide, Nov 2022–Oct 2025, $5–$9. Full refund via photo to recallabc@gmail.com.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Recall date May 22, 2026; models 6300RP, 8266/ZH998-22, ZH998-23; $5–$9; TOYZ + Joissu; Nov 2022–Oct 2025; no injuries; recallabc@gmail.com; cpsc.gov/Recalls; Poison Control 1-800-222-1222; Source: CPSC.gov official recall
+
+### Story 3: The New USAFA Visitor Center Is Open — A Free Family Day Trip for Colorado Springs
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — General Bradley and Zita Hosmer Visitor Center opened May 16, 2026 at U.S. Air Force Academy North Gate. Free admission, no base pass required, open daily 9 AM–5 PM. 34,000 sq ft, 7 themed galleries, interactive exhibits, 108-ft atrium with Front Range views. Part of City for Champions initiative.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Opened May 16, 2026; North Gate USAFA; free admission; no base pass; daily 9 AM–5 PM; 34,000 sq ft; 7 galleries; 108-ft atrium; visitcos.com; usafa.edu/visitors; Source: USAFA official, visitcos.com, local coverage
+
+### Story 4: D49 Is Opening a Student Success Center in August — Here's What It Offers
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — District 49 opening a Student Success Center at the former Falcon Elementary School of Technology building for the 2026-27 school year. Three programs: full-time preschool (Mon–Thu, Base49 before/after care), PEAK disability support programs, and Elevates 18-21 transition services (moving from community agencies into D49 itself).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Opens August 2026; Falcon Elementary School of Technology building; preschool Mon–Thu + Base49 before/after + Friday childcare; PEAK programs; Elevates 18-21; d49.org; Source: D49 district communications, KRDO, local coverage
+
+### Story 5: Summer Camps 2026 — What Colorado Springs Families Need to Know
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Practical seasonal guide to Colorado Springs summer camps 2026. Day camps run $125–$400/week, 9 AM–3 PM standard. Extended care available but limited. Programs include: Colorado Springs Conservatory (27 camp types, June 1–July 31); Thinkering Lab (STEM, late May–mid August); Steve & Kate's Camp (multi-activity); Pikes Peak Athletics (swim safety); COS Parks, Recreation & Cultural Services (~$125/week). Spots filling fast.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** $125–$400/week range; 9 AM–3 PM standard; extended care 7:30 AM–6 PM limited; CS Conservatory June 1–July 31 (27 camp types); Thinkering Lab late May–mid August; Steve & Kate's summer 2026; Pikes Peak Athletics summer 2026; COS PRCS ~$125; coloradosprings.gov/PRCS; Source: Provider websites, KOAA, local coverage
+
+---
+
 ## May 23, 2026
 
 ### Story 1: PAW Patrol Live at Pikes Peak Center This Weekend

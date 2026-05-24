@@ -1,5 +1,41 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: May 24, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 labor picket organized (300+ days without contract, CSEA, board meeting); ABC Trading recall (3 products, button battery, 6300RP + 8266 + ZH998-23, TOYZ + Joissu, recallabc@gmail.com); USAFA Hosmer Visitor Center opened May 16 (free, no base pass, daily 9 AM–5 PM, 34,000 sq ft, 7 galleries, 108-ft atrium); D49 Student Success Center opening August (preschool + PEAK + Elevates 18-21, Falcon Elementary building); Summer camps guide (CS Conservatory, Thinkering Lab, Steve & Kate's, Pikes Peak Athletics, COS PRCS ~$125/week) |
+| Story History Check | COMPLETE | 5 NEW STORIES — D11 labor (new picket angle, distinct from May 19 dispute coverage), ABC Trading recall (new recall distinct from all prior), USAFA Visitor Center (new opening), D49 SSC (new), Summer camps 2026 (seasonal evergreen) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging; 19 sources listed |
+| Story Analysis | COMPLETE | 02-story-analysis.md — 5 stories with tier + pillar; bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all under 280 chars (5 violations fixed in second verify run); 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 62 claims; char violations fixed; image warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (25 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-24.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-05-24.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-24)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions) = 15 total
+- **Articles:** 5 (bylines: Sarah Morales x3, Jamie Rivera x2)
+- **PostPlanner exports:** cosp-postplanner-2026-05-24.xlsx (5 posts), cosp-postplanner-tobi-2026-05-24.xlsx (5 TOBI posts)
+- **Coverage:** D11 labor picket organized (300+ days without contract since CSEA agreement eliminated July 2025; picket called at school board; d11.org/boe/meetings); ABC Trading recall May 22 2026 (toy headband 6300RP + dinosaur cage 8266/ZH998-22 + bird cage ZH998-23; button batteries accessible; TOYZ + Joissu; Nov 2022–Oct 2025; $5–$9; recallabc@gmail.com; cpsc.gov/Recalls); USAFA Hosmer Visitor Center opened May 16 (General Bradley and Zita Hosmer; free; no base pass; North Gate USAFA; daily 9 AM–5 PM; 34,000 sq ft; 7 galleries; 108-ft atrium; visitcos.com); D49 Student Success Center opening August 2026 (Falcon Elementary building; preschool Mon–Thu + Base49; PEAK programs; Elevates 18-21; d49.org); Summer camps guide (CS Conservatory 27 types June 1–July 31; Thinkering Lab late May–mid Aug; Steve & Kate's; Pikes Peak Athletics swim; COS PRCS ~$125/week; coloradosprings.gov/PRCS)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 62 claims; 5 char violations (tweets) fixed; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images
+  - dashboard: 25 items
+  - PostPlanner exports: both standard (5) and TOBI (5) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
 ## Latest Run: May 23, 2026
 
 | Step | Status | Notes |
