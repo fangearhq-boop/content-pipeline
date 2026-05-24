@@ -638,3 +638,40 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** LIV Golf Korea: May 28-31, Asiad CC, Busan. Herbert individual leader 99.18 pts. Ripper GC leads teams. 4Aces GC won Virginia team title (in playoff). 57 players, 72 holes, no cut.
 - **Status:** FOLLOW UP (Herbert win covered May 21)
 - **Follow-up ideas:** Korea results; standings update post-Korea
+
+## 2026-05-24
+
+### STORY 1: CJ Cup Byron Nelson Final Round — Kim Leads Scheffler and Clark
+- **Tier:** 1
+- **Category:** Tournament Final Round / PGA Tour
+- **Key facts:** Si Woo Kim enters final round at -21, leads by 2 over Scottie Scheffler and Wyndham Clark (both -19). Kim and Scheffler paired together (tee 1:40 PM ET); Clark/Jaeger at 1:30 PM ET. Friendship angle: Kim and Scheffler are Royal Oaks CC members who practice together. Scheffler is defending Byron Nelson champion (shot 65 in R3). Clark is 2023 U.S. Open champion and wild card. Kim seeking first win since 2023 Sony Open.
+- **Status:** FOLLOW UP (from 2026-05-22 R1/R2 coverage)
+- **Follow-up ideas:** Final result; Kim win or collapse; Scheffler second title
+
+### STORY 2: Si Woo Kim — Nearly Shot 59, Leads Byron Nelson at -21
+- **Tier:** 1
+- **Category:** Player Feature / PGA Tour
+- **Key facts:** Kim's R2 60 was a course record at TPC Craig Ranch and CJ Cup Byron Nelson tournament 36-hole record. Reached 18th tee at 12-under through 17 holes — one birdie from 59. Made bogey, settled for 60. Three rounds: 64-60-68 = -21. First win since January 2023 Sony Open (3-year drought). One of the purest ball-strikers on tour.
+- **Status:** FOLLOW UP (from 2026-05-22 R1/R2 coverage)
+- **Follow-up ideas:** Kim final round result; first win since 2023
+
+### STORY 3: Charles Schwab Challenge Preview — Hogan's Alley at 80
+- **Tier:** 2
+- **Category:** Tournament Preview / PGA Tour
+- **Key facts:** Charles Schwab Challenge starts May 25, Colonial Country Club, Fort Worth TX. 80th consecutive year at Colonial — longest uninterrupted venue-event relationship in PGA Tour history. $9.9M purse. Aberg and Thomas headline. Griffin defends. "Hogan's Alley" nickname (Ben Hogan won 5 times). Green Mile closing stretch (holes 16-18).
+- **Status:** NEW STORY
+- **Follow-up ideas:** R1 leaderboard; Griffin defense; Hogan historical angle
+
+### STORY 4: US Women's Open Preview — Korda at Riviera
+- **Tier:** 2
+- **Category:** Major Championship Preview / LPGA
+- **Key facts:** 81st U.S. Women's Open Championship Presented by Ally, June 4-7, Riviera CC, Pacific Palisades CA. Korda 3 wins in 2026, World No. 2, runner-up 2025 USWO (Maja Stark won at Erin Hills; Korda finished 2 shots back). Korda's putter cost her at Erin Hills. Riviera demands precision shotmaking.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Field announcements; Korda preparation; Stark defense
+
+### STORY 5: LIV Golf Korea Preview — Herbert vs Rahm in Busan
+- **Tier:** 2
+- **Category:** LIV Golf / Tournament Preview
+- **Key facts:** LIV Golf Korea: May 28-31, Asiad CC, Busan, South Korea. LIV's first event on Korean soil. Herbert leads individual standings (won Virginia wire-to-wire). Rahm won Mexico City by 6 shots. South Korea has deep golf culture. Significant Asia-Pacific market for LIV.
+- **Status:** FOLLOW UP (from 2026-05-22 LIV Korea preview)
+- **Follow-up ideas:** Korea R1 results; Herbert vs Rahm standings battle

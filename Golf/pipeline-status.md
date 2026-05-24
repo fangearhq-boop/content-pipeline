@@ -1,8 +1,27 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-22
+- **Date**: 2026-05-24
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Current Pipeline (2026-05-24)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-05-24 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-24 |
+| Fact-check | Complete (verify-facts.py — 25 claims, 49 HIGH confidence) | 2026-05-24 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-24 |
+| PostPlanner | Complete (6 X posts + TOBI 6 posts) | 2026-05-24 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent) | 2026-05-24 |
+| Published | Failed — WordPress credentials blocked by egress proxy (persistent) | 2026-05-24 |
+| Git | Committed and pushed to main | 2026-05-24 |
+
+## Notes (2026-05-24)
+- 5 stories: CJ Cup Byron Nelson final round (Kim -21 leads by 2, Scheffler -19 defending, Clark -19 wild card; Kim/Scheffler in same pairing; friendship angle Royal Oaks CC; Kim seeks first win since 2023 Sony Open) T1; Si Woo Kim feature (nearly shot 59 in R2, settled for 60/course record, 64-60-68 = -21, 3-year drought) T1; Charles Schwab Challenge preview (Colonial CC May 25, 80th year, Aberg/Thomas/Griffin, $9.9M, Hogan's Alley) T2; US Women's Open preview (June 4-7 Riviera CC, Korda 3 wins/World No.2, runner-up 2025 USWO to Stark at Erin Hills) T2; LIV Golf Korea preview (May 28-31 Asiad CC Busan, Herbert leads standings, Rahm hot after Mexico City 6-shot win) T2
+- Pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway
+- WordPress publish failed (egress proxy — persistent across all three niches)
+- Dashboard push failed (PAT lacks write access to content-dashboards repo — consistent with all previous runs)
 
 ## Current Pipeline (2026-05-22)
 
