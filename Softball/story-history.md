@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 24, 2026
+
+### Story 1: Three Game 3s Today — Final WCWS Spots and Wells' HR Record on the Line
+- **Angle:** NEW STORY (three Game 3s scheduled today). Florida vs Texas Tech (noon ET, Gainesville), Oklahoma vs Miss State (1:30 PM ET ESPN, Norman), Texas vs Arizona State (Austin). WCWS field complete by tonight. Wells at 39 HRs in OU Game 3 — one swing from tying Grant's all-time NCAA record.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** All three Game 3 results; Wells HR total after Game 3; WCWS bracket announcement.
+
+### Story 2: Nebraska 9-1 Over Oklahoma State — WCWS for First Time Since 2013
+- **Angle:** FOLLOW UP (Nebraska SR covered May 21; Saturday sweep clinch is new). Nebraska swept Oklahoma State 8-1 (Game 1) and 9-1 (Game 2, seven-run 5th). 51-6 season record. 26-game win streak (longest active in D-I, longest in school history). First WCWS since 2013 (13-year drought). 8th WCWS appearance all-time.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Nebraska WCWS bracket draw; first-round opponent in OKC.
+
+### Story 3: Arkansas Makes History — First WCWS in Program History
+- **Angle:** FOLLOW UP (Arkansas-Duke covered May 22 as Tier 3 social-only; first WCWS breakthrough is new). Arkansas swept Duke 14-5 (Game 1) and 10-2 (Game 2). First WCWS in program history. Deifel 0-for-5 in SRs before this year. Nine straight NCAA appearances.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Arkansas WCWS bracket draw; first-round matchup vs Nebraska (per bracket reports).
+
+### Story 4: Alabama Sweeps LSU 7-0, 4-1 — 16th WCWS
+- **Angle:** FOLLOW UP (Alabama-LSU SR covered May 22; sweep result new). Briski one-hit shutout 11 Ks in Game 1 (7-0). Three-run 4th inning in Game 2 (4-1). Alabama outscored LSU 11-1 in series. 16th WCWS appearance.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Alabama WCWS bracket and first-round matchup.
+
+### Story 5: UCLA Sweeps UCF — Megan Grant WCWS-Bound
+- **Angle:** FOLLOW UP (UCF-UCLA covered May 22; sweep and Grant WCWS angle new). UCLA 9-1 run-rule Game 1 (Slimp walk-off 3-run HR), won Game 2 convincingly. Grant (40 HRs, all-time NCAA record) heads to Devon Park.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Grant's HR total at WCWS; Wells-Grant race at Devon Park if OU advances.
+
+### Story 6: WCWS Preview — Devon Park Opens May 28 With 5 Confirmed Teams
+- **Angle:** NEW STORY. 5 confirmed: Tennessee, Nebraska, Arkansas, Alabama, UCLA. 3 TBD from today's Game 3s. Devon Park opens May 28.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Full WCWS bracket draw; opening day matchups.
+
+---
+
 ## May 23, 2026
 
 ### Story 1: Tennessee Sweeps Georgia — WCWS-Bound (10th Time)

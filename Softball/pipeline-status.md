@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-24
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (96 claims, 0 char violations, consistency clean), compile (6 stories, 9 tweets, 6 FB posts, 5 articles, 32 items), dashboard (32 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py (cherry-pick after detached HEAD resolved).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required). 0 char violations. publish-unified-dashboard 403 (PAT scope — known). Detached HEAD resolved via git checkout main + pull + cherry-pick.
+- **Key Stories**: Three Game 3s today (OU-MSU 1:30 PM ET ESPN, FL-TTech noon, TEX-ASU TBD)/Wells at 39 HRs one swing from tying Grant all-time record (Tier 1), Nebraska sweeps Oklahoma State 9-1/first WCWS since 2013/51-6/26-game win streak (Tier 1), Arkansas first WCWS in program history/10-2 over Duke/Deifel 0-for-5 to 1-for-6 (Tier 1), Alabama sweeps LSU 7-0+4-1/Briski one-hit shutout 11 Ks Game 1/16th WCWS (Tier 2), UCLA sweeps UCF/Megan Grant 40 HRs all-time record headed to Devon Park (Tier 2), WCWS preview 5 confirmed teams (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-23
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (11 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 1 char violation fixed S5T1 295→250 before compile; 0 violations after fix), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (94 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
