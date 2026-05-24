@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-24
+
+### Story 1: Schwarber 60-HR Club Chase — Historic Pace
+- **Angle:** FOLLOW UP (Schwarber covered May 23 as returning/20 HRs; full 60-HR club historical framing new). 20 HRs through 45 games. Hit No. 20 on May 15 — earliest date in MLB history. On pace for ~66 HRs. 60-HR club: Bonds 73, McGwire 70, Sosa 66/65/63. No one on this trajectory since Bonds 2001.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Schwarber's HR total as season progresses; when does he hit No. 30?
+
+### Story 2: White Sox 26-24 — Murakami Turnaround
+- **Angle:** NEW STORY. White Sox went from 9-15 in early May to 26-24. Murakami: 17 HRs, .941 OPS, 2nd in MLB. Record for most HRs through first 21 MLB games by a Japanese-born player. Legitimate AL ROY candidate.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Can Murakami maintain pace? White Sox playoff contention?
+
+### Story 3: Rays 34-15 — Sunday Finale vs Yankees
+- **Angle:** FOLLOW UP (Rays covered May 23). Saturday game rained out (DH Sept 22). Sunday: Rasmussen (4-1) vs Weathers (2-2), 1:05 PM ET. Rays 34-15, best AL record. Yankees 30-22. 5.5-game lead.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Sunday game result; Rays' lead after the series.
+
+### Story 4: Acuña Positive Update — Day-to-Day
+- **Angle:** FOLLOW UP (Acuña injury exit covered May 23). Left thumb bone bruise, X-rays negative, day-to-day. Weiss said Acuña "trying to talk his way into the lineup." Braves 35-16 best NL record.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Acuña's availability Sunday vs Nationals; second IL stint risk?
+
+### Story 5: Ramírez 300-300 Club Chase
+- **Angle:** NEW STORY. Ramírez reached 300 career SBs in May (2nd in Cleveland franchise history after Lofton). 291 career HRs. 9 from 300-300 club. Leads AL in SBs in 2026 at age 33.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** When does Ramírez hit career HR No. 292-300?
+
+### Story 6: Sunday MLB Watch Guide
+- **Angle:** NEW STORY. Rays-Yankees finale (1:05 PM ET), White Sox-Giants, Phillies-Guardians (Schwarber watch), Braves-Nationals (Acuña day-to-day). Memorial Day weekend series closers.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (Tier 3 social-only)
+- **Follow-ups:** All Sunday game results.
+
+---
+
 ## 2026-05-23
 
 ### Story 1: Gerrit Cole Returns — Yankees Lose 4-2 to Rays

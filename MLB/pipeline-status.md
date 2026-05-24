@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-24
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories), image manifest (not_started), articles (5), fact-check (47 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required). 0 char violations. publish-unified-dashboard 403 (PAT scope — known).
+- **Key Stories**: Schwarber 20 HRs/hit No. 20 on May 15 earliest in MLB history/on pace for 66 HRs/60-HR club: Bonds-McGwire-Sosa (Tier 1), White Sox 9-15 to 26-24/Murakami 17 HRs .941 OPS 2nd in MLB/AL ROY case (Tier 1), Rays 34-15 best AL/Yankees 30-22/5.5-game lead/Saturday rainout DH Sept 22/Sunday Rasmussen vs Weathers 1:05 PM ET (Tier 2), Acuña left thumb bone bruise positive update/X-rays negative/day-to-day/Braves 35-16 best NL (Tier 2), Ramírez 300 career SBs (2nd Cleveland history after Lofton)/291 HRs/9 from 300-300 club (Tier 2), Sunday watch guide (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-23
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (11 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories + S6 Tier 3 placeholder), image concepts (5 stories + S6 Tier 3 placeholder), image manifest (not_started), articles (5), fact-check (24 claims, 0 char violations, consistency clean after S6 placeholders added), compile (6 stories, 8 tweets, 5 FB posts, 5 articles, 29 items), dashboard (29 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by SSL certificate error (proxy sandbox — known). Dashboard published via publish-dashboard.py.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

@@ -1,0 +1,321 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-24",
+  "compiled_at": "2026-05-24T10:25:40.632306+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "X",
+      "type": "Story 3"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "X",
+      "type": "Story 4"
+    },
+    {
+      "time": "6:15 PM",
+      "description": "X",
+      "type": "Story 5"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "X",
+      "type": "Story 6"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Schwarber's 60-HR Club Chase — The Pace No One Has Seen Since Bonds (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kyle Schwarber has 20 home runs.\n\nHe hit No. 20 on May 15 — the earliest date in MLB history to reach that mark.\n\nThrough his first 45 games, nobody in MLB history hit 20 HR faster.\n\nHe's on pace for 66 home runs. 🤯 #Phillies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The 60-HR club has only 3 members.\n\nBonds (73).\nMcGwire (70).\nSosa (66, 65, 63).\n\nKyle Schwarber is currently on pace for 66.\n\nNo one has been on this trajectory since Bonds in 2001. ⚾ #Phillies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ KYLE SCHWARBER IS ON A 60-HOME-RUN PACE ⚾\n\nLet's just say that out loud.\n\nKyle Schwarber hit his 20th home run of the 2026 season on May 15. That's the earliest date in MLB history that any player has reached 20 home runs in a season.\n\nThrough his first 45 games, he is on pace for approximately 66 home runs.\n\nTo put that in context: the 60-home-run club has exactly three members in the history of baseball. Barry Bonds hit 73 in 2001. Mark McGwire hit 70 in 1998. Sammy Sosa hit 66, 65, and 63 in the same three-year stretch.\n\nNo player has been on this pace since Bonds in 2001.\n\nSchwarber returned this week after missing a few games with a GI illness and immediately homered. He looks completely locked in. His exit velocity, his barrel rate, and his contact quality all suggest this is not a fluke.\n\nWill he sustain it? Nobody hits 66 home runs in a season easily. The odds-on outcome is regression toward something more normal — but \"more normal\" for Schwarber right now still means a 45-55 HR season, which would be one of the best in modern MLB history.\n\nFor now, in late May, Kyle Schwarber is on a pace that hasn't been seen since the steroid era. And he is doing it clean.\n\n⚾ Keep watching. This is something. #Phillies\n\n[What's your over/under for Schwarber's final HR total this season?] 👇\n\n---",
+        "image_caption": "Kyle Schwarber hit No. 20 on May 15 — the earliest date in MLB history to reach that mark. He's on pace for 66 home runs. The 60-HR club has 3 members. Could Schwarber become the 4th? ⚾ #Phillies",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-schwarber-60-hr-club-chase-historic-pace.html",
+        "headline": "Can Kyle Schwarber Join the 60-Home-Run Club? The Historic Pace Nobody Is Talking About",
+        "word_count": 677
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber 60-HR Club Chase\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Kyle Schwarber in Philadelphia Phillies uniform at home plate or mid-swing follow-through\n- **Photo Search Terms (Imagn):**\n  1. Kyle Schwarber Phillies\n  2. Kyle Schwarber home run\n  3. Kyle Schwarber batter\n  4. Philadelphia Phillies batter\n- **Text Overlay:**\n  - Headline: \"ON PACE FOR 66 HRS\" (Poppins Bold, white, large)\n  - Subtitle: \"SCHWARBER — EARLIEST 20-HR DATE IN MLB HISTORY\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Home run follow-through preferred; red Phillies uniform prominent; Citizens Bank Park backdrop\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Kyle Schwarber Phillies\n  2. Kyle Schwarber swing\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "White Sox 26-24 — Murakami's Takeover and the Most Surprising Team in Baseball (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The White Sox were 9-15 in early May.\n\nThey are now 26-24.\n\nMunetaka Murakami has 17 home runs and a .941 OPS — 2nd in MLB.\n\nThe most unexpected .500 team in baseball right now. ⚾ #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 189
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Munetaka Murakami is making a real case for AL Rookie of the Year.\n\n17 HRs. .941 OPS. 2nd in MLB home runs.\n\nHe arrived from Japan as the biggest question mark on the White Sox. Now he IS the White Sox. ⚾ #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ THE MOST SURPRISING TEAM IN BASEBALL RIGHT NOW IS THE CHICAGO WHITE SOX ⚾\n\nNo, really.\n\nThe White Sox started May at 9-15. Many people (reasonably) thought this was going to be another 100-loss season for a franchise that has been rebuilding for years.\n\nThey are now 26-24.\n\nThat is a 17-9 stretch over roughly six weeks. And the person most responsible for it is Munetaka Murakami.\n\nIf you haven't been paying attention to Murakami, here's what you need to know: He is a former NPB home run champion from Japan who signed with the White Sox this offseason as a big name but a massive question mark. How would his power translate? Could he handle the best pitching in the world?\n\nThe answer has been remarkable: 17 home runs, a .941 OPS, and the 2nd-highest home run total in all of MLB behind only Kyle Schwarber.\n\nHe already holds the record for the most home runs through his first 21 MLB games by a Japanese-born player — seven, breaking Shohei Ohtani's mark of five.\n\nThis is a legitimate AL Rookie of the Year race. Murakami has earned the conversation.\n\nAnd the White Sox have earned a look. At 26-24, they are a game below .500 — playing competitive baseball in a competitive AL Central. Nobody had them here.\n\n⚾ The White Sox are real right now. And Murakami is why. #WhiteSox\n\n[Were you sleeping on the White Sox? Be honest.] 👇\n\n---",
+        "image_caption": "White Sox went from 9-15 to 26-24 — and Munetaka Murakami is the reason. 17 HRs. .941 OPS. 2nd in MLB behind Schwarber. The most surprising team in baseball right now. ⚾ #WhiteSox",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-white-sox-murakami-turnaround-26-24.html",
+        "headline": "White Sox at 26-24: Murakami's Takeover and Baseball's Most Surprising Turnaround",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox Turnaround — Murakami\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Munetaka Murakami at the plate in White Sox uniform; mid-swing or home run celebration\n- **Photo Search Terms (Imagn):**\n  1. Munetaka Murakami White Sox\n  2. Murakami Chicago baseball\n  3. Chicago White Sox batter\n  4. White Sox home run\n- **Text Overlay:**\n  - Headline: \"MURAKAMI: 17 HRS, .941 OPS\" (Poppins Bold, white, large)\n  - Subtitle: \"WHITE SOX GO FROM 9-15 TO 26-24\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Murakami swing at Guaranteed Rate Field; White Sox uniform prominent; action-forward composition\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Munetaka Murakami White Sox\n  2. Chicago White Sox batter\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Rays-Yankees Sunday Finale — Tampa Bay's AL East Grip Tightens (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Rays-Yankees was rained out Saturday. Sunday finale today.\n\nTampa Bay: 34-15. Best record in the AL.\nNew York: 30-22.\n\nThe Rays have won 4 of their last 5 vs. the Yankees in 2026. Rasmussen vs. Weathers. First pitch 1:05 PM ET. ⚾ #RaysUp",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RaysUp"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ THE RAYS ARE 34-15. LET THAT SINK IN. ⚾\n\nSaturday's game at Yankee Stadium was rained out and pushed to a September doubleheader. Sunday's finale is the only game this series gets.\n\nAnd Sunday's game is Tampa Bay (34-15) vs. New York (30-22) — which tells you everything you need to know about the AL East right now.\n\nThe Rays have built something remarkable in 2026. The best record in the American League. A 5.5-game lead over the Yankees — who themselves are playing winning baseball. Drew Rasmussen (4-1) takes the ball for Tampa Bay against Ryan Weathers (2-2) for New York. First pitch at 1:05 PM ET.\n\n34-15 is not a lucky record. That's a pace of approximately 110 wins over a full 162-game season. Tampa Bay's organizational model — pitching depth, defensive value, analytical roster construction — keeps producing winning teams even as they operate under one of MLB's lowest payrolls.\n\nAt some point, the league has to acknowledge what the Rays are doing is one of baseball's best ongoing stories.\n\nYankees fans still have 30-22 and a 5.5-game deficit. That's not insurmountable. But first they'd have to win today.\n\n⚾ Game today at 1:05 PM ET. ⚾ #RaysUp #Yankees\n\n[Can the Yankees close a 5.5-game gap, or is this Rays' year?] 👇\n\n---",
+        "image_caption": "Rays-Yankees Sunday finale after Saturday's rainout. Tampa Bay: 34-15 (best in AL). New York: 30-22. 5.5-game lead. Rasmussen vs. Weathers at 1:05 PM ET. The AL East race is real — or is it? ⚾ #RaysUp",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-rays-34-15-al-east-dominance-sunday-finale.html",
+        "headline": "Rays at 34-15: How Tampa Bay Built the AL's Best Record — And Sunday's Finale",
+        "word_count": 488
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rays-Yankees Sunday\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Tampa Bay Rays pitcher or batter at Yankee Stadium or Tropicana Field; Rays navy blue uniform\n- **Photo Search Terms (Imagn):**\n  1. Tampa Bay Rays pitcher\n  2. Drew Rasmussen Rays\n  3. Tampa Bay Rays baseball\n  4. Yankees vs Rays\n- **Text Overlay:**\n  - Headline: \"RAYS 34-15 — AL BEST\" (Poppins Bold, white, large)\n  - Subtitle: \"SUNDAY SERIES FINALE — 1:05 PM ET\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Rays navy blue uniform; pitching motion preferred; Yankee Stadium atmosphere backdrop\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Tampa Bay Rays baseball\n  2. Drew Rasmussen Rays\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Acuña Positive Update — Braves Star Day-to-Day with Left Thumb Bone Bruise (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Positive update on Ronald Acuña Jr.\n\nLeft thumb bone bruise. X-rays negative.\n\nWalt Weiss said Acuña was trying to talk his way back into the lineup immediately after the game.\n\nHe'll be fine. Braves are 35-16. ⚾ #Braves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ GOOD NEWS ON RONALD ACUÑA JR. ⚾\n\nOn Friday night in Atlanta's 9-3 win over the Marlins, Ronald Acuña Jr. left the game in the sixth inning. The culprit: a bone bruise in his left thumb after fouling a pitch off his hand.\n\nSaturday's update was positive.\n\nX-rays came back negative. Manager Walt Weiss gave the day-to-day designation. And then — in the most Ronald Acuña Jr. thing possible — the star outfielder was reportedly trying to talk his way back into the lineup before the game was even finished.\n\nIf that doesn't make Braves fans feel better, nothing will.\n\nThis was Acuña's third game back after spending time on the IL with a left hamstring strain that started May 2. To come back from one injury and immediately pick up another is the kind of thing that would test any player's composure. Acuña, reportedly, was undeterred.\n\nAtlanta is 35-16. That's the best record in the National League. They are playing great baseball right now, and Acuña's presence remains the most important individual factor in their season.\n\nThe bone bruise is not a structural issue. The X-rays being negative is the critical piece of information. Day-to-day means day-to-day — not weeks, not months.\n\n⚾ Braves fans: breathe. He should be fine. #Braves\n\n[Acuña or no Acuña — do you trust the Braves to win the NL East this year?] 👇\n\n---",
+        "image_caption": "Positive Acuña update: bone bruise in left thumb, X-rays negative, day-to-day. Walt Weiss said Acuña was \"trying to talk his way into the lineup\" after the game. The Braves are 35-16 — and their most important player should be back soon. ⚾ #Braves",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-acuna-positive-update-thumb-bruise-braves.html",
+        "headline": "Acuña Gets Positive Injury Update After Left Thumb Bone Bruise",
+        "word_count": 467
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Acuña Positive Update\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Ronald Acuña Jr. in Braves red or white uniform; action pose at bat or running\n- **Photo Search Terms (Imagn):**\n  1. Ronald Acuna Braves\n  2. Acuna Atlanta Braves batter\n  3. Ronald Acuna outfield\n  4. Atlanta Braves outfielder\n- **Text Overlay:**\n  - Headline: \"ACUÑA: POSITIVE UPDATE\" (Poppins Bold, white, large)\n  - Subtitle: \"BONE BRUISE, X-RAYS NEGATIVE — DAY-TO-DAY\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Acuña in action; Braves red/white uniform; Truist Park backdrop preferred\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Ronald Acuna Braves\n  2. Atlanta Braves outfielder\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Ramírez Chasing the 300-300 Club — Nine Members, History Approaching (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "José Ramírez just recorded his 300th career stolen base.\n\nHe has 291 career home runs.\n\nNine more puts him in the 300-300 club — one of 8 players ever.\n\nKenny Lofton is the only other Cleveland player to reach 300 stolen bases. ⚾ #ForTheLand",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ForTheLand"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ JOSÉ RAMÍREZ IS NINE HOME RUNS FROM ONE OF THE RAREST LISTS IN BASEBALL ⚾\n\nLast month, José Ramírez stole his 300th career base — becoming only the second player in Cleveland franchise history to reach that milestone, joining Hall of Famer Kenny Lofton.\n\nHe has 291 career home runs.\n\nNine more puts him in the 300-300 club.\n\nHere's why that matters: the 300-300 club — players who have hit at least 300 home runs AND stolen at least 300 bases in their MLB career — is one of the most exclusive lists in the history of the sport. Fewer than ten players have ever done it.\n\nThink about what the 300-300 combination requires. You need power and you need speed. Sustained power and sustained speed. Over a career of 15+ years, without significant injury derailment. It's not just a matter of being good; it's a matter of being a particular kind of exceptional, consistently, across a long window of time.\n\nRamírez is 33 years old. He's still leading the AL in stolen bases in 2026. He's still hitting for power. He is a better version of himself at 33 than most players are at 28.\n\nNine home runs. The 300-300 club. It's closer than it's ever been for one of the most underappreciated great players in the game.\n\n⚾ Pay attention to what Ramírez is doing. #ForTheLand #Guardians\n\n[Is José Ramírez the most underrated player in baseball? Make your case.] 👇\n\n---",
+        "image_caption": "José Ramírez reached 300 career stolen bases in May — one of only 9 players in Cleveland franchise history. He has 291 career HRs. Nine more = the 300-300 club. One of baseball's most exclusive lists. ⚾ #Guardians #ForTheLand",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ramirez-300-stolen-bases-300-hr-club.html",
+        "headline": "Ramírez at 300 Stolen Bases — Nine Home Runs from the 300-300 Club",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ramírez 300-300 Club\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** José Ramírez in Cleveland Guardians uniform; batting stance or fielding at third base\n- **Photo Search Terms (Imagn):**\n  1. Jose Ramirez Guardians\n  2. Jose Ramirez Cleveland third baseman\n  3. Jose Ramirez home run\n  4. Cleveland Guardians infielder\n- **Text Overlay:**\n  - Headline: \"300/291 — 9 HRs FROM HISTORY\" (Poppins Bold, white, large)\n  - Subtitle: \"RAMÍREZ CHASING THE 300-300 CLUB\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Ramirez batting stance or home run follow-through; Guardians navy uniform; Progressive Field backdrop\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Jose Ramirez Guardians\n  2. Jose Ramirez Cleveland baseball\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Sunday MLB Watch Guide (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Sunday MLB wrap:\n\n🟠 Rays 34-15 vs. Yankees 30-22 — AL East finale\n🟠 Schwarber (66-HR pace) vs. Guardians\n🟠 Murakami and White Sox at Giants\n🟠 Braves (35-16) at Nationals — Acuña day-to-day\n\nBaseball in late May is very good right now. ⚾",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "⚾ YOUR SUNDAY MLB WATCH GUIDE ⚾\n\nFour matchups worth tracking on Memorial Day weekend:\n\n🟠 **1:05 PM ET — Rays vs. Yankees (Yankee Stadium)**\nTampa Bay (34-15, best in AL) vs. New York (30-22). After Saturday's rainout, this is the series finale. Drew Rasmussen (4-1) starts for the Rays. Ryan Weathers (2-2) for New York. AL East stakes.\n\n🟠 **1:10 PM ET — White Sox vs. Giants**\nMunetaka Murakami (17 HRs, .941 OPS, 2nd in MLB) and a White Sox team that went from 9-15 to 26-24. Can they make it three wins in a row?\n\n🟠 **1:10 PM ET — Phillies vs. Guardians**\nKyle Schwarber (20 HRs, on pace for 66) against a Cleveland pitching staff that has kept some of the best offenses in check. Home run watch.\n\n🟠 **1:35 PM ET — Braves vs. Nationals**\nAtlanta (35-16, NL best) on the road. Acuña is day-to-day with a thumb bone bruise — will he play? Even without him, the Braves are the best team in the NL.\n\nGood baseball today. Get outside in the sun, but check the scores. ⚾\n\n[Which game are you watching first today?] 👇\n\n---",
+        "image_caption": "Sunday MLB: Rays vs. Yankees (AL East finale), Schwarber vs. Guardians, Murakami and White Sox at Giants, Braves at Nationals with Acuña day-to-day. Four games, four storylines. ⚾ #MLB",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sunday Watch Guide\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Generic MLB stadium atmosphere or multi-game feel; bright Sunday afternoon baseball\n- **Photo Search Terms (Imagn):**\n  1. Yankee Stadium crowd\n  2. MLB baseball stadium crowd\n  3. baseball game atmosphere\n  4. MLB Memorial Day weekend\n- **Text Overlay:**\n  - Headline: \"SUNDAY BASEBALL IS LOADED\" (Poppins Bold, white, large)\n  - Subtitle: \"RAYS, PHILLIES, WHITE SOX, BRAVES — TODAY\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Bright stadium atmosphere; wide shot preferred; Memorial Day weekend feel\n\n**Article Hero:** N/A (no article for Story 6 — Tier 3 social-only)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 6,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
