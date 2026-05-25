@@ -1,5 +1,41 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: May 25, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Territory Days last day (50th anniversary, free, 10 AM-6 PM, Old Colorado City); Splash pads/pools open (Monument Valley + Wilson Ranch pools + Panorama Park/Venezia Park spray grounds + Uncle Wilbur Fountain); Orb Funkee squeeze toy recall (CPSC, asbestos/fibrous tremolite, 121K units, Walmart/Ollie's, model 17451+41929); MeadowGrass Music Festival (last day, $79-$89, kids 12 under free, Palmer Lake); Portal Pool closed (mine shaft stabilization project, years from returning, 3 public pools only) |
+| Story History Check | COMPLETE | 5 NEW STORIES — Territory Days last day (new peg: 50th anniversary, today-only urgency), Splash pad opening (seasonal, new for 2026), Orb Funkee recall (new CPSC recall, distinct from ABC Trading May 24), MeadowGrass Festival (new), Portal Pool context (new news from Gazette May 23) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts; all under 280 chars (4 char violations fixed); 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 69 claims; char violations fixed; image warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 10 images |
+| Dashboard | COMPLETE | review-dashboard.html (25 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-25.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-05-25.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-25)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions) = 15 total
+- **Articles:** 5 (bylines: Sarah Morales x3, Jamie Rivera x2)
+- **PostPlanner exports:** cosp-postplanner-2026-05-25.xlsx (5 posts), cosp-postplanner-tobi-2026-05-25.xlsx (5 TOBI posts)
+- **Coverage:** Territory Days 2026 last day (50th anniversary, free, 10 AM-6 PM today, Old Colorado City, 180+ vendors, 3 stages, pony rides/gold panning/petting zoo); Pools and splash pads open (Monument Valley Pool 220 Mesa Rd + Wilson Ranch Pool 2335 Allegheny Dr both opened May 23; Panorama Park + Venezia Watering Hole free daily 10-6; Deerfield Hills June 1; Uncle Wilbur Fountain today); Orb Funkee recall (CPSC, fibrous tremolite asbestos in sand, 121K units, Walmart/Ollie's, Feb 2025-Apr 2026, $5-$40, models 17451+41929, date code 3102491A, 800-741-0089); MeadowGrass Music Festival (15th annual, last day today, Palmer Lake, $79-$89/day, kids 12 under free, military discount, folk/Americana); Portal Pool closed (mine shaft stabilization project, years from returning, 3 public pools available, YMCA partnership)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 69 claims; 4 char violations (tweets) fixed in second verify run; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 5 X posts, 5 FB posts, 5 articles, 10 images
+  - dashboard: 25 items
+  - PostPlanner exports: both standard (5) and TOBI (5) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
 ## Latest Run: May 24, 2026
 
 | Step | Status | Notes |

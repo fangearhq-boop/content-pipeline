@@ -2,6 +2,45 @@
 
 ---
 
+## May 25, 2026
+
+### Story 1: Territory Days 2026 — Last Day Today (50th Anniversary)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 50th anniversary Territory Days wraps up today (May 25), 10 AM–6 PM, free admission. Historic Old Colorado City (W. Colorado Ave). 180+ vendors, 3 stages, 25+ bands, pony rides, gold panning, petting zoo, mechanical bull, gunfight reenactments, Native American dancers, live blacksmithing. Last chance this year.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 23-25 2026; 50th anniversary; today (Mon May 25) 10 AM–6 PM; free admission; Historic Old Colorado City W. Colorado Ave; 180+ vendors; 3 stages, 25+ bands; shopoldcoloradocity.com; Source: visitcos.com, shopoldcoloradocity.com, springsguide.com
+
+### Story 2: Splash Pads and Pools Open — Summer Water Guide 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Memorial Day weekend marks start of COS water season. Monument Valley Pool (220 Mesa Rd, opened May 23, Mon-Sat 10-6/Sun 12-6) + Wilson Ranch Pool (2335 Allegheny Dr, opened May 23, daily 10-6). Free: Panorama Park splash pad (May 24, daily 10-6) + Venezia Park Watering Hole (May 24, daily 10-6, 12+ features) + Deerfield Hills spray ground (June 1, daily 10-5). Uncle Wilbur Fountain (Acacia Park, opens May 25, daily 12-6). Portal Pool closed for years (mine shaft stabilization). City has 3 outdoor public pools total. YMCA partnership.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Monument Valley Pool 220 Mesa Rd Mon-Sat 10-6 Sun 12-6; Wilson Ranch Pool 2335 Allegheny Dr daily 10-6; Panorama Park free daily 10-6; Venezia Watering Hole free daily 10-6; Deerfield Hills June 1 free daily 10-5; Uncle Wilbur Acacia Park May 25 daily 12-6; Portal Pool closed, mine shaft project; 3 public pools total; ppymca.org; coloradosprings.gov/parks; Source: City of COS news release, KOAA, Colorado Springs Gazette May 23 2026
+
+### Story 3: CPSC Recall — Orb Funkee Squeeze Toys (Asbestos in Sand)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall May 2026. 121,000+ Orb Funkee squeeze toys recalled; fibrous tremolite (asbestos) in sand; sold at Walmart + Ollie's Bargain Outlet Feb 2025–Apr 2026, $5–$40. Model 17451 (large golden monkee) + model 41929 (small monkee assortment orange/purple/green); date code 3102491A. If sand leaked: mask + gloves + damp cloths + double-bag + local disposal. Refund: The Orb Factory 800-741-0089 Mon-Fri 8-4 ET; customerservice@orbtoys.com; cpsc.gov/Recalls
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Recalled by The Orb Factory; fibrous tremolite asbestos; 121,000+ units; Walmart + Ollie's; Feb 2025-Apr 2026; $5-$40; models 17451 + 41929; date code 3102491A; refund 800-741-0089; customerservice@orbtoys.com; cpsc.gov/Recalls; Source: CPSC.gov, The Hill, 9News, IndexBox, Newsweek, Fox Business
+
+### Story 4: MeadowGrass Music Festival — Last Day Today (Kids 12 Under Free)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 15th annual MeadowGrass Music Festival, Memorial Day weekend, Palmer Lake. Last day May 25. $79-$89 daily pass; kids 12 and under free with paid adult; military discount. Folk/Americana music, workshops, yoga, ropes course, archery, late-night shows.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 15th annual; May 23-25 2026; Palmer Lake (~25 miles from COS); $79-$89/day; kids 12 under free with paid adult; military discount; Source: 9News, rove.me
+
+### Story 5: Portal Pool Closed — Where COS Families Can Swim This Summer
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Portal Pool at Portal Park will not reopen this summer or for years; mine shaft stabilization project under Portal Park ongoing. City offers 3 outdoor public pools (Monument Valley, Wilson Ranch, and a third); YMCA partnership; season passes + swim lessons. Free spray grounds also available. Full summer swimming guide for COS families.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Portal Pool closed; mine shaft stabilization project; years from returning (Gazette May 23 2026); 3 outdoor public pools; Monument Valley Pool 220 Mesa Rd; Wilson Ranch Pool 2335 Allegheny Dr; YMCA partnership; ppymca.org; coloradosprings.gov/parks; Source: Colorado Springs Gazette May 23 2026, City of COS PRCS, KOAA
+
+---
+
 ## May 24, 2026
 
 ### Story 1: D11 Parents and Teachers Plan Picket at School Board
