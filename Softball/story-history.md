@@ -3,6 +3,45 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 25, 2026
+
+### Story 1: Mississippi State Stuns Oklahoma 6-0 — 9-Year WCWS Streak Ends
+- **Angle:** FOLLOW UP (Mississippi State-Oklahoma SR covered May 23-24; Game 3 shutout result new). Delainey Everett (13.1 career innings entering SR) complete-game shutout. First time OU blanked in 399 games (last: 2019 WCWS). Kinley Keller 2-for-4, 3 RBIs. Bernardini and Ernstes HRs. First-ever WCWS for Mississippi State. OU ends 52-10. Wells hit by pitch in jaw, returned to play.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Mississippi State's first-round result vs. Texas Tech at WCWS; Everett's next start at Devon Park; OU offseason.
+
+### Story 2: WCWS Field Is Set — Eight Teams Headed to Devon Park
+- **Angle:** FOLLOW UP (WCWS Preview covered May 24 with 5 confirmed; full 8-team bracket new). Bracket: Texas Tech vs. Mississippi State (noon), Texas vs. Tennessee (2:30 PM), Alabama vs. UCLA (7 PM), Nebraska vs. Arkansas (9:30 PM). Two first-timers: Arkansas and Mississippi State. Devon Park opens May 28.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** All WCWS first-round results; bracket advancement; championship storylines.
+
+### Story 3: Texas Tech 16, Florida 7 — Run Rule, Second Straight WCWS
+- **Angle:** FOLLOW UP (TTech-Florida SR covered May 23-24; Game 3 final result new). 16-7 run rule in 5 innings. Five HRs. First NCAA tournament game with both teams scoring 7+ in first two innings. Florida's first home mercy-rule loss. Mia Williams HBP saga. Texas Tech second straight WCWS.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Texas Tech's result vs. Mississippi State at WCWS; Mia Williams at Devon Park.
+
+### Story 4: Texas 5, Arizona State 0 — Kavan Shuts It Down, Third Straight WCWS
+- **Angle:** FOLLOW UP (Texas-Arizona State SR covered May 23-24; Game 3 result new). Kavan 106-pitch complete-game shutout. Third consecutive WCWS for Texas, defending national champions.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Texas result vs. Tennessee at WCWS; back-to-back title bid.
+
+### Story 5: Wells Ends Season at 39 HRs — Grant's Record Stands
+- **Angle:** FOLLOW UP (Wells/Grant HR chase covered May 22-24; conclusion with OU elimination). Wells finishes with 39 HRs (2nd all-time). Grant's record of 40 stands. Wells hit by pitch in Game 3, returned. Oklahoma out of WCWS for first time since 2015.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Grant's WCWS performance; Wells 2027 season and potential HR record chase.
+
+### Story 6: Mia Williams vs. Florida — The Hit-By-Pitch Saga
+- **Angle:** NEW STORY. Williams (TTech transfer from Florida) hit by pitch 5 times in series. Father NBA star Jason Williams ejected from stands. Williams: .435 BA, 23 HRs, .908 slugging. Tournament's main character nationally.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Williams at WCWS vs. Mississippi State; father's involvement continuing storyline.
+
+### Story 7: Two WCWS First-Timers — Arkansas and Mississippi State Make History
+- **Angle:** FOLLOW UP (Arkansas first WCWS covered May 23; combined first-timer preview new). Both SEC programs making first-ever WCWS appearances. SEC sends four teams to Devon Park. Arkansas vs. Nebraska, Mississippi State vs. Texas Tech in first round.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** First-round results for both first-timers.
+
+---
+
 ## May 24, 2026
 
 ### Story 1: Three Game 3s Today — Final WCWS Spots and Wells' HR Record on the Line
