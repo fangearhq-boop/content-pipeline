@@ -5,6 +5,73 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-25
+
+### STORY 1: Astros 8, Cubs 5 — Eight Straight Losses
+- **Angle:** NEW STORY (May 24 afternoon game recap; not in yesterday's pipeline). Pedro Ramirez first MLB hit (RBI double in 1st start), Cubs led 3-1, Imanaga allowed 7 runs in 7 innings (3rd straight loss), Busch 5th HR. Cubs 29-24, losers of 12 of 14.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Today's game result (did they snap it at Pittsburgh?)
+  - Imanaga's continued struggles (3 straight losses from the ace)
+  - Ramirez's first MLB start performance follow-up
+
+### STORY 2: Series Preview — Cubs Open 4-Game Road Trip at PNC Park
+- **Angle:** NEW STORY (is_series_start_today=true — series preview, 8:15 AM slot per engine conflict resolution). Cubs (29-24) at Pirates (27-26), PNC Park, 12:35 PM CT. Ben Brown (2.09 ERA) vs Carmen Mlodzinski (4-3, 3.96 ERA). 4-game series May 25–28.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result and Ben Brown's line
+  - Series outcome for Cubs' division standing
+  - Probables for Games 2-4
+
+### STORY 3: The Historic Collapse — 15-Over to 5-Over in 17 Days
+- **Angle:** FOLLOW UP (The Great Collapse from May 24; new framing: 15-over to 5-over in 17 days with specific stat categories). Rotation ERA >6.00 in 2 weeks; offense 28th OPS; pitching 28th ERA; 12 of 14 losses.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Daily tracking of rotation ERA recovery (if any)
+  - Whether Counsell makes further lineup/rotation changes
+  - Historical comparison to past Cubs collapses
+
+### STORY 4: Jordan Wicks Recalled — Cubs Patch Their Rotation
+- **Angle:** FOLLOW UP + NEW DEVELOPMENT (May 24 pipeline predicted Wicks callup as Tier 3; he was actually called up May 24 — actual callup is today's new story). Wicks in, Cabrera on 15-day IL (right-finger blister). Rotation: Imanaga, Taillon, Rea, Brown, Wicks. 4 of 6 original starters on IL.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Wicks' first start (scheduled in rotation)
+  - Cabrera IL timeline / return date
+  - Whether Jed Hoyer pursues external rotation help
+
+### STORY 5: NL Central Standings — Cubs Have Sunk to Third
+- **Angle:** FOLLOW UP (Cubs division-lead-gone from May 24; new development: Cubs are now 3rd behind both Brewers AND Cardinals). Brewers 30-20, Cardinals 29-22, Cubs 29-24. Cubs dropped from 1st to 3rd in 17 days.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold division take)
+- **Follow-Up Opportunities:**
+  - Daily standings updates as Cardinals-Brewers showdown plays out
+  - Cubs' playoff percentage/wild card odds tracker
+  - Whether Cubs make moves to address the skid
+
+### STORY 6: Ben Brown's Quiet Excellence — The One Bright Spot
+- **Angle:** NEW STORY (first standalone Brown stat feature; previously mentioned as supporting context in other stories). 2.09 ERA, 0.98 WHIP, 40 K in 38.2 IP; started as reliever, transitioned to rotation fill-in; record is 1-2 due to run support.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Today's start vs Pittsburgh result (Brown's next outing)
+  - Brown's ERA and WHIP trend over full season
+  - Whether Brown earns a permanent rotation spot
+
+### STORY 7: Kevin Alcantara Is Knocking — 15 HRs in 41 Iowa Games
+- **Angle:** FOLLOW UP (Iowa prospects/Alcantara walk-off from May 22; new angle: season-long power surge and MLB timeline). 15 HRs in 41 Iowa games; 7-game hitting streak (10-for-28, 5 XBH, 9 RBI); prospect pipeline callup timing with roster in freefall.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Alcantara callup announcement (watch for Nicky Lopez DFA or similar move)
+  - Iowa HR count tracking
+  - Alcantara MLB debut
+
+---
+
 ## 2026-05-24
 
 ### STORY 1: Astros 3, Cubs 0 — Seven Straight Losses
