@@ -1,42 +1,66 @@
 {
-  "generated_at": "2026-05-24T08:30:00.446958+00:00",
-  "today_ct": "2026-05-24",
+  "generated_at": "2026-05-25T08:30:00.460687+00:00",
+  "today_ct": "2026-05-25",
   "off_day": false,
-  "is_series_start_today": false,
+  "is_series_start_today": true,
   "series": {
-    "opponent": "Houston Astros",
-    "opponent_id": 117,
-    "opponent_record": "22-31",
-    "cubs_record": "29-23",
-    "is_cubs_home": true,
-    "venue": "Wrigley Field",
-    "series_length": 1,
+    "opponent": "Pittsburgh Pirates",
+    "opponent_id": 134,
+    "opponent_record": "27-26",
+    "cubs_record": "29-24",
+    "is_cubs_home": false,
+    "venue": "PNC Park",
+    "series_length": 4,
     "games": [
       {
-        "game_pk": "824676",
-        "game_date_iso": "2026-05-24T18:20:00Z",
-        "game_date_ct": "Sun 1:20 PM CT",
+        "game_pk": "823380",
+        "game_date_iso": "2026-05-25T17:35:00Z",
+        "game_date_ct": "Mon 12:35 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "823379",
+        "game_date_iso": "2026-05-26T22:40:00Z",
+        "game_date_ct": "Tue 5:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "823376",
+        "game_date_iso": "2026-05-27T22:40:00Z",
+        "game_date_ct": "Wed 5:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "823378",
+        "game_date_iso": "2026-05-28T22:40:00Z",
+        "game_date_ct": "Thu 5:40 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (Houston Astros) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Yesterday vs Houston Astros; today vs Pittsburgh Pirates \u2192 game 1 of 4 (on the road)."
   },
   "today_cubs_game": {
-    "game_pk": "824676",
+    "game_pk": "823380",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-05-24T18:20:00Z",
-    "game_date_ct": "Sun 1:20 PM CT",
-    "is_cubs_home": true,
-    "opponent_id": 117,
-    "opponent_name": "Houston Astros",
-    "opponent_record": "22-31",
-    "cubs_record": "29-23",
+    "game_date_iso": "2026-05-25T17:35:00Z",
+    "game_date_ct": "Mon 12:35 PM CT",
+    "is_cubs_home": false,
+    "opponent_id": 134,
+    "opponent_name": "Pittsburgh Pirates",
+    "opponent_record": "27-26",
+    "cubs_record": "29-24",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
-    "venue": "Wrigley Field"
+    "venue": "PNC Park"
   },
-  "rationale": "Same opponent (Houston Astros) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Yesterday vs Houston Astros; today vs Pittsburgh Pirates \u2192 game 1 of 4 (on the road)."
 }
