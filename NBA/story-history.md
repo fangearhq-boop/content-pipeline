@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-25
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spurs 103-82 Thunder WCF G4 (May 24, Frost Bank Center SA) — Wemby 33/8reb/5ast/3blk; Castle 13/6ast; Fox 12/10reb; Vassell 13; SGA 19 (6-15 FG); OKC 33% FG/18% 3P; Spurs 16-0 Q1 run; led by 25; 40-ft halftime buzzer beater (longest Spurs playoff make since 2014); WCF tied 2-2; G5 Tue May 26 Paycom OKC 8:30 PM ET NBC/Peacock | 1 | FOLLOW-UP |
+| 2 | ECF G4 TONIGHT — Knicks vs Cavs at Rocket Mortgage FieldHouse Cleveland, 8 PM ET ABC; Knicks lead 3-0; Knicks -2.5; O/U 217.5; no injury concerns; Harden 1-of-8 from 3 G3; Mitchell averaging ~25 series; no team has ever come back from 3-0 in NBA history | 1 | FOLLOW-UP |
+| 3 | Wembanyama's 40-foot half-court buzzer beater — three dribbles, center court; longest Spurs playoff make since 2014 GeniusIQ tracking; longest career make; Spurs led 50-38 at half; 22 pts before half; also had opening 27-footer (24 sec in) and Holmgren block | 2 | NEW STORY |
+| 4 | WCF G5 preview — Thunder at Paycom Center OKC, Tue May 26, 8:30 PM ET NBC/Peacock; OKC -5.5 (-218 ML); Spurs +180; O/U 215.5; series tied 2-2; OKC went 8-0 pre-series; SGA must bounce back from 6-15 G4 | 2 | NEW STORY |
+| 5 | Harden's moment of truth / ECF G4 storylines — Harden 1-of-8 from 3 G3; 6 TOs G1; Mitchell 29 G1/23 G3; Cavs 6-1 at home pre-ECF; Cleveland last stand in front of home crowd; no team has overcome 3-0 | 2 | NEW STORY |
+
+### STORY 1: Spurs 103-82 Thunder — WCF Game 4, Series Tied 2-2
+- **Tier:** 1
+- **Category:** Playoff Results / WCF
+- **Key facts:** Spurs 103, Thunder 82 (May 24, Frost Bank Center, San Antonio). Wembanyama: 33 pts (11-22 FG), 8 reb, 5 ast, 3 blk; 22 pts in first half. Castle: 13 pts, 3 reb, 6 ast. Vassell: 13 pts, 6 reb, 3 ast. Fox: 12 pts, 10 reb, 5 ast. SGA (OKC): 19 pts (6-15 FG). OKC: 33% FG, 18% from 3. Spurs 16-0 Q1 run; led by 25; Spurs led 96% of game. Wemby 40-foot half-court buzzer beater to end first half (longest Spurs playoff make since GeniusIQ tracking began 2014; longest career make). Spurs led 50-38 at half. Series: Tied 2-2. WCF G5: Tue May 26, Paycom Center, OKC, 8:30 PM ET, NBC/Peacock.
+
+### STORY 2: ECF Game 4 Preview — TONIGHT
+- **Tier:** 1
+- **Category:** Game Preview / ECF
+- **Key facts:** May 25, Rocket Mortgage FieldHouse, Cleveland, 8 PM ET, ABC. Knicks lead 3-0. No team has ever come back from 3-0 in NBA history. Both rosters clean on injury report. Knicks -2.5 (-130 ML); Cavs +110 ML. O/U 217.5. Brunson averaging ~26 in ECF. Harden: 1-of-8 from 3 G3; 6 TOs G1. Mitchell: averaging ~25 in ECF (29 G1, 23 G3). Cavs were 6-1 at home pre-ECF. Knicks win = first Finals since 1999.
+
+### STORY 3: Wembanyama's 40-Foot Half-Court Buzzer Beater
+- **Tier:** 2
+- **Category:** Feature / Highlight Moment
+- **Key facts:** 40-foot half-court shot to end first half. Three dribbles from near Spurs bench to center court. Longest Spurs playoff make since GeniusIQ began tracking in 2014. Longest field goal of Wembanyama's career. Set tone with 27-footer at 24 sec of game and Holmgren block in first 2 min. Wemby had 22 pts before half. Spurs led 50-38 at half.
+
+### STORY 4: WCF Game 5 Preview
+- **Tier:** 2
+- **Category:** Game Preview / WCF
+- **Key facts:** Tue May 26, Paycom Center, OKC, 8:30 PM ET, NBC/Peacock. Series 2-2. OKC -5.5 (-218 ML). Spurs +180 ML. O/U 215.5. OKC went 8-0 pre-series (swept Suns and Lakers). SGA must bounce back from 19 pts (6-15 FG) in G4. Spurs G6 would be May 28 in SA.
+
+### STORY 5: ECF Game 4 Storylines — Harden Factor
+- **Tier:** 2
+- **Category:** Feature / Player Spotlight
+- **Key facts:** Harden: 1-of-8 from 3 G3; 6 TOs G1. Mitchell: 29 G1, 23 G3, averaging ~25 in ECF. Mobley: 24 G3. Cavs 6-1 at home pre-ECF. No team has ever overcome 3-0. Knicks 10-game winning streak; 130.5 off rating; averaging 26 pts from Brunson in ECF. Game 4: tonight 8 PM ET ABC Cleveland.
+
 ## 2026-05-24
 
 | # | Story | Tier | Tag |
