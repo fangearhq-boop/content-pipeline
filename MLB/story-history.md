@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-25
+
+### Story 1: Judge Walks Off Rays — Ends 11-Game Homer Drought, Yankees Win 2-0
+- **Angle:** FOLLOW UP (Rays-Yankees covered May 23-24; Sunday series finale result new). Judge 2-run walk-off HR off Kevin Kelly in 9th. HR No. 17. 11-game homer drought ended. Ryan Weathers 7 scoreless IP. Yankees 31-22. Rays AL East lead cut to 4.5 games.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Judge's next HR chase; AL East standings through June; Rays response.
+
+### Story 2: Corbin Carroll One Triple From D-Backs Franchise Record
+- **Angle:** NEW STORY. Carroll went 4-for-4 with 2 triples vs. Rockies on May 24. Now 51 career triples — one away from Stephen Drew's D-Backs franchise record of 52. Carroll reached 51 in 537 games; Drew needed 773. MLB-leading 8 triples in 2026.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** When Carroll ties/breaks Drew's record; season triple total.
+
+### Story 3: Hernandez Walk-Off Grand Slam in 0-0 Game — Marlins Sweep Mets
+- **Angle:** NEW STORY. Hernandez pinch-hit walk-off grand slam (416 ft) off Devin Williams in 9th inning. Marlins 4, Mets 0. Three-game sweep. First walk-off slam in a 0-0 game since Justin Maxwell (Royals, Sept. 22, 2013). Marlins now 25-29.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Marlins' standing in NL East; Hernandez's role going forward.
+
+### Story 4: Bryan Torres MLB Debut After 11 Years in Minors
+- **Angle:** NEW STORY (happened May 23, not covered in May 24 pipeline). 28-year-old Cardinals DH hit 2-run HR in 9th inning of MLB debut. 3-for-5, HR, walk. First Cardinals player with 2 hits, HR, walk in debut since at least 1901. First Puerto Rican-born to homer in MLB debut since Isan Díaz (2019).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Torres' continued role on Cardinals roster; long-term outlook.
+
+### Story 5: Schwarber Memorial Day Pace Check — Still on Historic Track
+- **Angle:** FOLLOW UP (Schwarber covered May 24 with historical framing; Memorial Day checkpoint new angle). Hit 20th HR on May 15 (earliest in MLB history). Pace: 66-72 HRs for season. No one on this trajectory since Bonds 2001.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** When Schwarber hits No. 25, 30; Phillies NL East race.
+
+### Story 6: Memorial Day MLB Schedule — 12 Games, Special Uniforms
+- **Angle:** NEW STORY. 12 games May 25. ESPN feature: Yankees-Royals 3:30 PM ET. Red poppies on jerseys. National Moment of Remembrance at 3 PM local.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Memorial Day game results.
+
+### Story 7: Memorial Day Standings — Rays, Braves, Brewers Lead
+- **Angle:** NEW STORY. Rays best AL record (~34-16). Braves lead NL East. Brewers won 15 of last 19, making franchise history. Yankees 4.5 back after Judge walk-off.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Updated standings through June; division race developments.
+
+---
+
 ## 2026-05-24
 
 ### Story 1: Schwarber 60-HR Club Chase — Historic Pace

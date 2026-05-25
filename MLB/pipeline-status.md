@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-25
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 2 char violations fixed before compile), FB posts (7 stories), image concepts (7 stories), image manifest (not_started), articles (5), fact-check (48 claims, 0 char violations after fixes, consistency clean), compile (7 stories, 9 tweets, 7 FB posts, 5 articles, 35 items), dashboard (35 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish attempted (blocked by sandbox proxy — known). Dashboard published via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required). 2 char violations fixed (S6T1 281→277, S7T1 298→262). claim-patterns.py missing from MLB — only universal claim extraction ran (known — no MLB-specific claim patterns file).
+- **Key Stories**: Judge walk-off HR ends 11-game drought/Yankees 2-0/Rays lead cut to 4.5 (Tier 1), Carroll 2 triples vs Rockies/51 career triples/one from D-Backs franchise record 52 (Stephen Drew) (Tier 1), Hernandez walk-off grand slam in 0-0 game/Marlins sweep Mets/first 0-0 walk-off slam since 2013 (Tier 2), Torres MLB debut HR after 11 years in minors/Cardinals/first since 1901 (Tier 2), Schwarber Memorial Day pace check/20 HRs by May 15/earliest in MLB history (Tier 2), Memorial Day schedule 12 games/special uniforms (Tier 3), Memorial Day standings/Rays-Braves-Brewers (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-24
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories), image manifest (not_started), articles (5), fact-check (47 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
