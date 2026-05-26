@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-26
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Antonelli wins Canadian GP (May 24, Gilles-Villeneuve) — P1 Antonelli, P2 Hamilton +10.7s, P3 Verstappen +11.2s, P4 Leclerc; Russell DNF Lap 30 (power unit failure - battery); Antonelli 4th consecutive win; championship lead grows to 43 pts (Antonelli 131, Russell 88) | 1 | FOLLOW-UP |
+| 2 | Russell Montreal meltdown — threw headrest onto track after DNF; FIA investigation; suspended €5,000 fine; Russell issued public apology; "embarrassed" by own actions; Russell quote: "feels like somebody doesn't want me to fight for this championship"; Wolff: car "went dark, no electricity" | 1 | FOLLOW-UP |
+| 3 | F1 championship standings after Canada — Antonelli 131 pts, Russell 88 pts (43-pt gap); Leclerc P3, Hamilton P4 (3 pts behind Leclerc); Verstappen P7 (first podium Canada); Mercedes leads constructors by 2 over Ferrari | 2 | FOLLOW-UP |
+| 4 | Monaco GP preview (June 5-7, Circuit de Monaco, 3.337km) — Antonelli: "Ferrari will be the team to beat"; Mercedes power unit advantage nullified; qualifying determines result; Ferrari SF-26 high-downforce design favored | 2 | NEW STORY |
+| 5 | Hamilton P2 in Canada — best Ferrari result of 2026; held off Verstappen; no-simulator approach paid off; now 3 pts behind Leclerc in championship; Ferrari 2 pts behind Mercedes in constructors | 2 | NEW STORY |
+
+### STORY 1: Antonelli Wins Canadian Grand Prix — Russell DNF from Lead
+- **Tier:** 1
+- **Category:** Race Result / Canadian GP
+- **Key facts:** Antonelli (Mercedes) P1; Hamilton (Ferrari) P2 +10.7s; Verstappen (Red Bull) P3 +11.2s; Leclerc (Ferrari) P4 +44.1s. Russell retired Lap 30 (power unit failure — battery died, Wolff confirmed). Antonelli 4th consecutive win (China, Japan, Miami, Canada). Circuit Gilles-Villeneuve, Montreal. Championship: Antonelli 131 pts, Russell 88 pts, gap 43 pts.
+
+### STORY 2: Russell FIA Investigation and Apology
+- **Tier:** 1
+- **Category:** Controversy / Driver Conduct
+- **Key facts:** Russell threw headrest from car onto circuit after retiring from lead. FIA investigated. Outcome: suspended €5,000 fine contingent on public apology. Russell apologized, called behavior "embarrassing." Quote: "It feels like somebody doesn't want me to fight for this championship." Wolff confirmed cause: "car was literally going dark — no electricity." No warning signs; Russell couldn't have prevented the failure.
+
+### STORY 3: Championship Standings After Canada
+- **Tier:** 2
+- **Category:** Championship Update
+- **Key facts:** Antonelli 131 pts; Russell 88 pts (43-pt gap). Leclerc P3; Hamilton P4 (3 pts from Leclerc). Verstappen P7 (first podium of 2026). Mercedes leads constructors by 2 over Ferrari. Monaco next (June 5-7).
+
+### STORY 4: Monaco Grand Prix Preview
+- **Tier:** 2
+- **Category:** Race Preview / Monaco GP
+- **Key facts:** June 5-7, 2026. Circuit de Monaco, Monte Carlo. 3.337km. Antonelli quote: "Ferrari will be the team to beat." No long straights — Mercedes power unit advantage nullified. Ferrari SF-26 high-downforce design well-suited. Qualifying determines race result. Leclerc home race. Practice Fri/Sat.
+
+### STORY 5: Hamilton P2 — Best Ferrari Result of 2026
+- **Tier:** 2
+- **Category:** Driver Spotlight / Ferrari
+- **Key facts:** Hamilton P2 (+10.7s). Best Ferrari/Hamilton 2026 result (previous best: P3 China). Held off Verstappen for P2. No simulator approach: Hamilton said sim "took him in wrong direction" at Miami; China P3 was without sim. Now 3 pts behind Leclerc. Ferrari 2 pts behind Mercedes in constructors.
+
 ## 2026-05-24
 
 | # | Story | Tier | Tag |

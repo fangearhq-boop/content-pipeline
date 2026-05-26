@@ -1,8 +1,23 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-24
+- **Date**: 2026-05-26
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-05-26
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-26.xlsx (6 posts) + f1fr-postplanner-tobi-2026-05-26.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-26/review-dashboard.html (21 items)
+- **Notes:** Antonelli wins Canadian GP (P1 Antonelli, P2 Hamilton +10.7s, P3 Verstappen +11.2s; Russell DNF Lap 30 power unit failure); Russell headrest incident / FIA investigation / suspended €5k fine / apology; championship: Antonelli 131 pts, Russell 88 pts (gap 43); Monaco GP June 5-7 (Ferrari favored; Antonelli says "Ferrari will be the team to beat"); Hamilton P2 — best Ferrari 2026 result / no-simulator approach
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+### 2026-05-24 (NOTE: Content based on sprint data — actual race won by Antonelli, not Russell)
 
 ## Pipeline Run Log
 
