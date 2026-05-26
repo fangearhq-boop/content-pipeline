@@ -2,6 +2,45 @@
 
 ---
 
+## May 26, 2026
+
+### Story 1: Cosyland Tower Stool Recall — CPSC (125,200 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall May 2026. 125,200 Cosyland children's tower stools recalled; torso entrapment + fall hazard; 8 injuries reported. Models CS0003 + CS0092-4, sold on Amazon ~$70, Jan 2022–Jan 2025. Free repair kit: call 866-677-3889 or email customerservice@cosyland.com; cpsc.gov/Recalls
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 125,200 units; entrapment + fall hazard; 8 injuries; models CS0003 + CS0092-4; Amazon ~$70; Jan 2022–Jan 2025; free repair kit; 866-677-3889; customerservice@cosyland.com; Source: CPSC recall notice
+
+### Story 2: Fall Youth Sports Registration Open — Football Weigh-Ins Today
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — COS Parks & Rec fall youth sports registration open. Soccer $86, Tackle Football $126. Weigh-ins start today at Sports Office. Registration closes July 11. ColoradoSprings.gov/YouthSports
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Soccer $86; Tackle Football $126; registration closes July 11; football weigh-ins start May 26; ColoradoSprings.gov/YouthSports; Source: City of Colorado Springs Parks & Recreation
+
+### Story 3: D49 Free Summer Meals — June 1 Through June 19
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — District 49 offers free breakfast and lunch to all kids ages 1–18, June 1–19. No income requirements, no D49 enrollment needed. Program serves eastern COS/Falcon area. d49.org for locations and times.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Free breakfast + lunch; ages 1–18; June 1–19; no income verification; no D49 enrollment required; d49.org; Source: District 49
+
+### Story 4: D11 Graduation Season — Adult and Family Education Ceremony May 28
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 high school graduations held May 19–21 at Ed Robson Arena. Final ceremony: Adult and Family Education Graduation, Thursday May 28, 7 PM, Roy J. Wasson Academic Campus.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Palmer, Mitchell, Coronado, Doherty graduated May 19–20; Achieve/Tesla/Bijou/Odyssey May 21; Adult & Family Ed May 28 7 PM Wasson Campus; Ed Robson Arena at Colorado College; Source: D11 graduation schedule
+
+### Story 5: Trackchair Program Expanded — Two Guided Hikes Daily at 4 Parks
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — COS Parks Recreation and Cultural Services expanded 2026 Trackchair program. Two guided hikes per day, Wed–Sun, at Ute Valley Park, Red Rock Canyon Open Space, Blodgett Open Space, and Bluestem Prairie Open Space. Sessions 8–11 AM and 12–3 PM. Reservations required at coloradosprings.gov/parks.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Wed–Sun; 8–11 AM + 12–3 PM; 4 parks; expanded from 1 session/day to 2; all ability levels; reservations required; coloradosprings.gov/parks; Source: COS PRCS
+
+---
+
 ## May 25, 2026
 
 ### Story 1: Territory Days 2026 — Last Day Today (50th Anniversary)

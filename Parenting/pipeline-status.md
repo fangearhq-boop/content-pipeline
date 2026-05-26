@@ -1,5 +1,41 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: May 26, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Cosyland tower stool recall (CPSC, 125,200 units, models CS0003+CS0092-4, entrapment+fall hazard, 8 injuries, Amazon ~$70, free repair kit 866-677-3889); Fall youth sports registration open (soccer $86, tackle football $126, weigh-ins start May 26, closes July 11, ColoradoSprings.gov/YouthSports); D49 free summer meals (June 1–19, ages 1–18, free breakfast+lunch, no income req, no enrollment req, d49.org); D11 graduation week (high schools May 19–21 at Ed Robson Arena; Adult & Family Ed ceremony May 28 7 PM Wasson Campus); Trackchair program expanded (2 guided hikes/day Wed–Sun, 4 parks: Ute Valley, Red Rock Canyon, Blodgett, Bluestem Prairie, 8–11 AM and 12–3 PM) |
+| Story History Check | COMPLETE | 5 NEW STORIES — Cosyland recall (new CPSC recall), fall sports registration (seasonal, new for 2026), D49 free meals (new program dates), D11 graduation (final ceremony remaining), Trackchair expansion (new 2026 expansion) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for Story 1, 1 each for Stories 2–5); all under 280 chars (4 char violations fixed); 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (9 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images (x_image + facebook_image per story, plus 5 article_hero), all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 88 claims; 4 char violations fixed (second verify run); image warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 9 images |
+| Dashboard | COMPLETE | review-dashboard.html (26 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-26.xlsx (6 posts) + TOBI cosp-postplanner-tobi-2026-05-26.xlsx (6 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-26)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions) = 16 total
+- **Articles:** 5 (bylines: Sarah Morales x3, Jamie Rivera x2)
+- **PostPlanner exports:** cosp-postplanner-2026-05-26.xlsx (6 posts), cosp-postplanner-tobi-2026-05-26.xlsx (6 TOBI posts)
+- **Coverage:** Cosyland tower stool recall (CPSC, 125,200 units, entrapment+fall hazard, 8 injuries, models CS0003+CS0092-4, Amazon ~$70, free repair kit 866-677-3889, customerservice@cosyland.com); Fall youth sports registration open (soccer $86, tackle football $126, football weigh-ins start today, closes July 11, ColoradoSprings.gov/YouthSports); D49 free summer meals (June 1–19, ages 1–18, free breakfast+lunch, no income/enrollment requirements, d49.org); D11 graduation (high schools May 19–21 Ed Robson Arena at Colorado College; Adult & Family Ed May 28 7 PM Wasson Campus); Trackchair program expanded (2 hikes/day Wed–Sun, Ute Valley Park + Red Rock Canyon + Blodgett + Bluestem Prairie, 8–11 AM and 12–3 PM, reservations at coloradosprings.gov/parks)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 88 claims; 4 char violations (tweets) fixed in second verify run; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 6 X posts, 5 FB posts, 5 articles, 9 images
+  - dashboard: 26 items
+  - PostPlanner exports: both standard (6) and TOBI (6) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
 ## Latest Run: May 25, 2026
 
 | Step | Status | Notes |
