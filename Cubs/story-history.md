@@ -5,6 +5,55 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-26
+
+### STORY 1: Pirates 2, Cubs 1 — Nine Straight Losses, Brown's Gem Wasted
+- **Angle:** NEW STORY (Game 1 of 4 at PNC Park recap). Michael Busch 6th HR tied it 1-1 in 5th; Trent Thornton gave up Henry Davis walk-off HR in 7th; Cubs stranded 5 runners early; Ben Brown gem wasted; 29-25, losers of 13 of 15.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Jordan Wicks debut start result (Game 2 tonight)
+  - Ben Brown's full pitching line once box score accessible
+  - Losing streak continuation/snap
+
+### STORY 2: Jordan Wicks Returns to Where It All Began — First MLB Start of 2026
+- **Angle:** FOLLOW UP (Wicks recalled May 24 from May 25 pipeline). First MLB start at PNC Park where he debuted Aug 26, 2023 (9 K, 10-6 win); 0.60 ERA in last 3 Iowa starts; faces Braxton Ashcraft (2.89 ERA); 5:40 PM CT.
+- **Tier:** 1
+- **Content Produced:** X Text Posts (2 posts — 9:30 AM CT preview + 5:00 PM CT pre-game hype)
+- **Follow-Up Opportunities:**
+  - Wicks' actual start result (game tonight)
+  - Wicks ERA/K tracking as he re-establishes MLB role
+  - Whether Cubs win and snap losing streak
+
+### STORY 3: NL Central Watch — Cardinals at Brewers Tonight
+- **Angle:** FOLLOW UP (Cubs standings from May 25). Cubs 29-25, 3rd in NL Central; dropped from 1st to 3rd in 17 days; Cardinals at Brewers head-to-head tonight — Cubs have no say.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold division take)
+- **Follow-Up Opportunities:**
+  - Cardinals-Brewers result and NL Central standings update
+  - Cubs' games back from division lead
+  - Wild card odds tracking
+
+### STORY 4: Paul Skenes Looms Thursday — Cubs Have 2 Games to Find an Offense
+- **Angle:** NEW STORY (series series awareness). Skenes (6-4, 3.00 ERA, 65 K) pitches Game 4 Thu May 28; Cubs scored 1 run in Game 1; averaging under 3 runs/game during 9-game skid; nightmare matchup framing.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold series preview)
+- **Follow-Up Opportunities:**
+  - Skenes' actual Game 4 outing
+  - Cubs offense response in Games 2-3 (Wicks tonight, Game 3 tomorrow)
+  - Skenes vs Cubs historical matchups
+
+### STORY 5: Kevin Alcantara Is Here — MLB Arrival, Early Adjustments Ahead
+- **Angle:** CORRECTION + NEW STORY (corrects May 25 pipeline which treated Alcantara as Iowa prospect). Called up May 23 (Nicky Lopez DFA); 15 HRs/.567 SLG at Iowa in 41 games; first MLB at-bat 0-for-1 K vs Astros; MLB adjustment period ahead.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, MLB arrival/prospect feature)
+- **Follow-Up Opportunities:**
+  - Alcantara first hit/HR in MLB
+  - Playing time pattern (pinch hit vs starting)
+  - Cumulative MLB stats as sample builds
+
+---
+
 ## 2026-05-25
 
 ### STORY 1: Astros 8, Cubs 5 — Eight Straight Losses
