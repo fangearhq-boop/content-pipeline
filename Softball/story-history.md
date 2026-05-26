@@ -2328,3 +2328,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Updated rankings implications
 
 ---
+
+---
+
+## Pipeline Run: May 26, 2026
+
+### Story 1: WCWS 2026 Opens Thursday — Four Games, Eight Teams, Devon Park
+- **Date:** 2026-05-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** WCWS opening-day preview. Four games May 28 at Devon Park: Texas Tech vs. Mississippi State (noon, ESPN), Texas vs. Tennessee (2:30 PM, ESPN), Alabama vs. UCLA (7 PM, ESPN2), Nebraska vs. Arkansas (9:30 PM, ESPN2). Double-elimination format. Two first-timers in field.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Opening-day results recap
+  - Loser's bracket storylines
+  - Bracket update after Day 1
+
+### Story 2: Alabama Enters WCWS as No. 1 Seed With 22 Shutouts
+- **Date:** 2026-05-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Alabama profile ahead of WCWS. 49-7 record, 1.60 team ERA (2nd nationally), 22 shutouts, 19-5 SEC record. 16th WCWS appearance. Opens vs. UCLA Thursday 7 PM ET. Beat LSU twice in super regional.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Alabama vs. UCLA result
+  - Pitching staff stats through WCWS
+  - Championship run update
+
+### Story 3: Mississippi State's First WCWS — No Blueprint, No Fear
+- **Date:** 2026-05-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (May 25: upset of Oklahoma; May 26: WCWS arrival and first-timer angle)
+- **Angle:** MSU at Devon Park for first time in program history. Opens vs. Texas Tech noon ET. Coach Samantha Ricketts played for Oklahoma 2006-09, holds career OU HR/RBI records. Everett expected to start.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - MSU vs. Texas Tech result
+  - MSU's path through the bracket
+  - Everett's performance at WCWS
+
+### Story 4: NiJaree Canady's Final Shot — Career History, One Goal Left
+- **Date:** 2026-05-26
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Texas Tech senior Canady enters WCWS with 30-5 record, 0.89 postseason ERA, 1,000+ career Ks, 96 career wins (only active pitcher with both). AUSL No. 2 overall draft pick. Opens vs. Mississippi State noon Thursday. National championship is the one missing piece.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Canady's WCWS pitching performance
+  - Texas Tech's path through the bracket
+  - AUSL draft context if Texas Tech wins
+
+### Story 5: SEC Sends Five Teams to WCWS — Oklahoma Absent
+- **Date:** 2026-05-26
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** 5 of 8 WCWS teams are SEC (Alabama, Texas, Tennessee, Arkansas, Mississippi State). Oklahoma absent first time since 2015 after 9-year streak ended by MSU. Nebraska, UCLA, Texas Tech are the only non-SEC teams.
+- **Content Produced:** 1 X post, FB long-form + caption, Image concepts (no article — Tier 3)
+- **Follow-Up Opportunities:**
+  - SEC intra-conference matchups
+  - Championship goes to SEC regardless (5 of 8 teams)
+  - Oklahoma's 2027 bounce-back storyline

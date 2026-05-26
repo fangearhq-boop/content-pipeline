@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-26
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed story 1 tweet 1 298→251), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (56 claims, 0 char violations after fix, consistency clean), compile (5 stories, 7 tweets, 0 FB posts, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard push failed (403 PAT scope — known).
+- **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment — prior session)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push 403 (content-dashboards PAT scope — known). IMAGE MISSING expected (not_started — imagn sourcing required). 1 char violation fixed before compile (story 1 tweet 1).
+- **Key Stories**: WCWS 2026 opens Thursday/four games at Devon Park/full opening-day schedule (Tier 1), Alabama No. 1 seed/49-7/22 shutouts/1.60 ERA/16th WCWS (Tier 1), Mississippi State first WCWS/no blueprint/Coach Ricketts OU connection/opens vs Texas Tech noon (Tier 2), NiJaree Canady final shot/1000+ Ks/96 wins/0.89 postseason ERA/AUSL No. 2 pick (Tier 2), SEC sends 5 teams to WCWS/Oklahoma absent first time since 2015 (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-25
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations after 4 fixes), FB posts (7 stories), image concepts (7 stories), image manifest (not_started), articles (5), fact-check (86 claims, 0 char violations, consistency clean), compile (7 stories, 9 tweets, 7 FB posts, 5 articles, 35 items), dashboard (35 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish attempted (--images --status draft). Dashboard published via publish-dashboard.py.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
