@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-05-25T08:30:00.460687+00:00",
-  "today_ct": "2026-05-25",
+  "generated_at": "2026-05-26T08:30:00.370747+00:00",
+  "today_ct": "2026-05-26",
   "off_day": false,
-  "is_series_start_today": true,
+  "is_series_start_today": false,
   "series": {
     "opponent": "Pittsburgh Pirates",
     "opponent_id": 134,
-    "opponent_record": "27-26",
-    "cubs_record": "29-24",
+    "opponent_record": "28-26",
+    "cubs_record": "29-25",
     "is_cubs_home": false,
     "venue": "PNC Park",
-    "series_length": 4,
+    "series_length": 3,
     "games": [
-      {
-        "game_pk": "823380",
-        "game_date_iso": "2026-05-25T17:35:00Z",
-        "game_date_ct": "Mon 12:35 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "823379",
         "game_date_iso": "2026-05-26T22:40:00Z",
@@ -45,22 +37,22 @@
         "status": "Preview"
       }
     ],
-    "rationale": "Yesterday vs Houston Astros; today vs Pittsburgh Pirates \u2192 game 1 of 4 (on the road)."
+    "rationale": "Same opponent (Pittsburgh Pirates) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "823380",
+    "game_pk": "823379",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-05-25T17:35:00Z",
-    "game_date_ct": "Mon 12:35 PM CT",
+    "game_date_iso": "2026-05-26T22:40:00Z",
+    "game_date_ct": "Tue 5:40 PM CT",
     "is_cubs_home": false,
     "opponent_id": 134,
     "opponent_name": "Pittsburgh Pirates",
-    "opponent_record": "27-26",
-    "cubs_record": "29-24",
+    "opponent_record": "28-26",
+    "cubs_record": "29-25",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "PNC Park"
   },
-  "rationale": "Yesterday vs Houston Astros; today vs Pittsburgh Pirates \u2192 game 1 of 4 (on the road)."
+  "rationale": "Same opponent (Pittsburgh Pirates) as yesterday \u2014 this is mid-series, not a series opener."
 }
