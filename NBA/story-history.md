@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-26
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks 130-93 Cavaliers ECF G4 — sweep complete; KAT 19/14; Brunson 15; Bridges 15; Shamet 16 off bench; led by 45; 32-5 second-chance pts; 33-9 fast break pts; Cavs swept for first time since 2018 Finals; Knicks first Finals since 1999; 11-game win streak | 1 | FOLLOW-UP |
+| 2 | WCF Game 5 TONIGHT — Thunder vs Spurs at Paycom Center OKC, 8:30 PM ET NBC/Peacock; series 2-2; OKC -5.5 (-218 ML); Spurs +180; Jalen Williams questionable (hamstring); Ajay Mitchell out; SGA 19 pts 6-15 FG in G4; Wemby 33/8/5/3 G4 | 1 | FOLLOW-UP |
+| 3 | Jalen Brunson named ECF MVP — 25.5 ppg/7.8 apg/3.3 rpg/48.7% FG; first Knick to win since Patrick Ewing 1999; G1: 38 pts 44-11 comeback; G2: career-high 14 ast; G3: 30 pts; G4: 15 pts closeout | 2 | NEW STORY |
+| 4 | NBA Finals schedule — G1 June 3 at OKC/SA 8:30 PM ET; G3 June 8 at MSG; G4 June 10 at MSG; Knicks no home-court (OKC 64-18, SA 62-20 vs NYK 53-29) | 2 | NEW STORY |
+| 5 | Knicks 11-game playoff win streak — fourth team in NBA history; 130.5 offensive rating; 32-5 second-chance pts G4; swept Hawks, 76ers, Cavaliers | 2 | NEW STORY |
+
+### STORY 1: Knicks 130-93 Cavaliers — ECF Game 4, First Finals Since 1999
+- **Tier:** 1
+- **Category:** Playoff Results / ECF Sweep
+- **Key facts:** Knicks 130, Cavaliers 93 (May 25, Rocket Mortgage FieldHouse, Cleveland). KAT: 19 pts, 14 reb. Brunson: 15 pts. Bridges: 15 pts. Shamet: 16 pts (off bench). Knicks led by 45; up 68-49 at half. Mitchell (CLE): 31 pts. 32-5 second-chance points advantage. 33-9 fast-break points advantage. Cavs swept for first time since 2018 Finals vs Golden State. Knicks: first NBA Finals since 1999. 11-game win streak. Knicks' offensive rating: 130.5 (best of 2026 playoffs). Finals Game 1: June 3 at OKC or SA, 8:30 PM ET.
+
+### STORY 2: WCF Game 5 TONIGHT — Thunder vs Spurs at Paycom Center
+- **Tier:** 1
+- **Category:** Game Preview / WCF
+- **Key facts:** May 26, Paycom Center, Oklahoma City, 8:30 PM ET, NBC/Peacock. Series 2-2 (SA won G4 103-82). OKC -5.5 (-218 ML). Spurs +180. O/U 215.5. Jalen Williams: questionable (hamstring). Ajay Mitchell: out. SGA: 19 pts (6-of-15 FG) in G4. Wemby: 33 pts/8 reb/5 ast/3 blk in G4. OKC held to 33%FG/18%3P in G4.
+
+### STORY 3: Jalen Brunson Named 2026 ECF MVP
+- **Tier:** 2
+- **Category:** Award / Player Spotlight
+- **Key facts:** Brunson named 2026 ECF MVP unanimously. Series averages: 25.5 ppg, 7.8 apg, 3.3 rpg, 48.7% FG. First Knick since Patrick Ewing in 1999. G1: 38 pts, 6 ast, 5 reb, 3 stl (44-11 comeback); G2: 19 pts, 14 ast (career-high); G3: 30 pts; G4: 15 pts.
+
+### STORY 4: NBA Finals Schedule
+- **Tier:** 2
+- **Category:** Preview / Finals Schedule
+- **Key facts:** G1: June 3 at OKC/SA 8:30 PM ET. G2: June 5 at OKC/SA. G3: June 8 MSG. G4: June 10 MSG. G5: June 13 at OKC/SA (if needed). G6: June 16 MSG (if needed). Knicks no home-court: OKC 64-18, SA 62-20 vs NYK 53-29.
+
+### STORY 5: Knicks 11-Game Playoff Win Streak
+- **Tier:** 2
+- **Category:** Feature / Historical Context
+- **Key facts:** 11 consecutive playoff wins. Fourth team in NBA history to reach that mark in one postseason. 130.5 offensive rating (best 2026 playoffs). G4: 32-5 second-chance pts, 33-9 fast break pts. Swept Hawks (R1), 76ers (R2), Cavaliers (ECF).
+
 ## 2026-05-25
 
 | # | Story | Tier | Tag |
