@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-26
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (28 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB posts, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard push failed (403 PAT scope — known).
+- **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment — prior session)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push 403 (PAT scope — known). IMAGE MISSING expected (not_started — imagn sourcing required). 0 char violations. claim-patterns.py missing from MLB (known).
+- **Key Stories**: Astros combined no-hitter Imai+Okert+Santa vs Rangers 9-0/first no-no since Sept 2024/Santa first since 1900 to throw in no-hitter on debut (Tier 1), Blue Jays rotation crisis/Cease on IL (hamstring)/joins Berríos+Scherzer+Bieber+Ponce/Vlad Jr day-to-day (Tier 1), Giants MLB-worst run diff -42/exploring trades for Ray+Mahle+Bader/already traded Bailey (Tier 2), Dodgers bullpen 38 scoreless innings franchise record/Kyle Hurt/Tanner Scott/12 pitchers (Tier 2), Memorial Day power rankings Braves 36-18/Rays surprise No. 2/Guardians 10.5 games up (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-25
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 2 char violations fixed before compile), FB posts (7 stories), image concepts (7 stories), image manifest (not_started), articles (5), fact-check (48 claims, 0 char violations after fixes, consistency clean), compile (7 stories, 9 tweets, 7 FB posts, 5 articles, 35 items), dashboard (35 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish attempted (blocked by sandbox proxy — known). Dashboard published via publish-dashboard.py.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

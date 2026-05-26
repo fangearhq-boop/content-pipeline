@@ -1839,3 +1839,62 @@ Each day's stories are appended at the top (newest first).
 - **Content Produced:** X (1 post), FB long-form + caption
 
 ---
+
+---
+
+## Pipeline Run: May 26, 2026
+
+### Story 1: Astros Combined No-Hitter — Imai, Okert, Santa vs. Rangers 9-0
+- **Date:** 2026-05-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Tatsuya Imai (6 IP, 4 BB, 97 pitches), Steven Okert (1 IP), Alimber Santa (2 IP, MLB debut) combined to no-hit Texas Rangers 9-0 on May 25. First no-hitter in MLB since Sept. 4, 2024 (Cubs). Alimber Santa is first pitcher since 1900 to appear in a no-hitter on his MLB debut. 17th Astros franchise no-hitter. Imai walked 3 of first 4 batters, then got 2 double plays and 8 groundball outs.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Imai's next start performance
+  - Santa's second MLB outing
+  - Astros season outlook with Imai anchoring rotation
+
+### Story 2: Blue Jays Rotation Crisis — Cease, Berríos, Scherzer, Bieber, Ponce All on IL
+- **Date:** 2026-05-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Dylan Cease (3-3, 3.05 ERA, MLB-leading 92 Ks, $210M/7-year contract) placed on 15-day IL with left hamstring strain after leaving May 24 game vs Pittsburgh. Joins Berríos, Scherzer, Bieber, Ponce on IL. Vlad Guerrero Jr. day-to-day (HBP elbow). Five starters simultaneously on IL.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Cease's return timeline
+  - Blue Jays emergency depth moves (call-ups/trades)
+  - AL East standings impact
+
+### Story 3: Giants Trade Deadline Fire Sale — Worst Run Differential in MLB
+- **Date:** 2026-05-26
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Giants (approx. 16-24, worst run differential in MLB at -42) exploring trades for Robbie Ray, Tyler Mahle, Harrison Bader. Already traded Patrick Bailey (Gold Glove catcher) to Cleveland Guardians. Major contracts (Lee $85M, Adames $161M, Devers $226M, Chapman $125M) struggling and largely untradeable.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Actual trade executions at deadline
+  - Logan Webb trade rumors if losing continues
+  - Giants 2027 rebuild planning
+
+### Story 4: Dodgers Bullpen Sets Franchise Record — 38 Consecutive Scoreless Innings
+- **Date:** 2026-05-26
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Dodgers bullpen posts 38 consecutive scoreless innings (franchise record, longest in MLB since 2017 Cleveland 38.2). 12 different pitchers contributed. Kyle Hurt: 0.60 ERA, 14 appearances, 0 runs. Tanner Scott: scoreless since April 24 (10.1 IP). Despite losing Glasnow, Snell, Dreyer, and Edwin Diaz (IL — loose body in elbow).
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Diaz return timeline
+  - Glasnow/Snell return
+  - Dodgers wild card/division standings update
+
+### Story 5: Memorial Day Power Rankings — Braves, Rays, Dodgers Lead MLB
+- **Date:** 2026-05-26
+- **Tier:** 3
+- **Classification:** FOLLOW UP (May 25: Memorial Day standings overview; May 26: power ranking analysis with grades)
+- **Angle:** Braves No. 1 (36-18, nine-game lead, 18 comeback wins). Rays No. 2 (projected last in AL East, now leading AL). Dodgers No. 3 despite injuries. Guardians 10.5 games up in AL Central. Small-market over big-market narrative.
+- **Content Produced:** 1 X post, FB long-form + caption, Image concepts (no article — Tier 3)
+- **Follow-Up Opportunities:**
+  - Braves vs rest of NL East summer series
+  - Rays sustainability check (July standings)
+  - Guardians playoff seeding
