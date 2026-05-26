@@ -4,6 +4,11 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-05-26 | T1 | Wyndham Clark wins CJ Cup Byron Nelson with closing 60 — -30 (254), beats Kim (-27) by 3, Scheffler (-25) P3; back-nine 28; first to win twice with closing 60; first win since 2024 Pebble Beach; $1.85M/500 pts | X, FB, Article | NEW STORY |
+| 2026-05-26 | T1 | Charles Schwab Challenge preview (May 28-31, Colonial CC, Fort Worth TX) — Par 70, 7,289 yds, 27-yd avg fairways (3rd-narrowest); Åberg +850, Henley +1800, Thomas +2200, Griffin (defending) +2200; Scheffler/McIlroy out | X, FB, Article | NEW STORY |
+| 2026-05-26 | T2 | Si Woo Kim runner-up at Byron Nelson — shot 60 in R2 (course record; missed 59 with closing bogey); led by 2 after 54 holes; final -27, lost by 3 to Clark; still seeking first win since 2023 Sony Open | X, FB, Article | FOLLOW-UP |
+| 2026-05-26 | T2 | LIV Golf Korea preview (May 28-31, Asiad CC, Busan) — Korean Golf Club rebranded from Iron Heads; added Ben An + Min-kyu Kim; Lucas Herbert leads LIV standings; broadcast FS1 R1-3 / FOX R4 at 12 AM ET | X, FB, Article | NEW STORY |
+| 2026-05-26 | T2 | US Women's Open preview (June 4-7, Riviera CC, Pacific Palisades) — first USGA women's championship at Riviera; Korda favored (3 wins in 2026 incl. Chevron, 17th career win); historic venue (hosted 1948 US Open) | X, FB, Article | NEW STORY |
 | 2026-05-21 | T1 | CJ Cup Byron Nelson opens — Round 1 at TPC Craig Ranch; $10.3M; Scheffler defends; grouped with Koepka + Si Woo Kim; 5 players withdrew post-Aaron Rai PGA win | X, FB, Article | NEW STORY |
 | 2026-05-21 | T1 | Aaron Rai PGA Championship aftermath — $3.69M; lifetime PGA exemption; 5-year Masters/US Open/Open/Players exemptions; first English winner since 1919; first Indian-heritage men's major champion | X, FB, Article | FOLLOW-UP |
 | 2026-05-21 | T2 | McIlroy Grand Slam wait — T7 at PGA, 5 behind Rai; 3 legs (Masters/US Open/Open); skipping Byron Nelson + Schwab; next: Memorial June 4-7; US Open is next Grand Slam attempt | X, FB, Article | FOLLOW-UP |

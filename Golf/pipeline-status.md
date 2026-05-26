@@ -1,8 +1,23 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-24
+- **Date**: 2026-05-26
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-05-26
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters (2 initial tweets flagged over 280; fixed before compile)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-05-26.xlsx (6 posts) + gfr-postplanner-tobi-2026-05-26.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-05-26/review-dashboard.html (21 items)
+- **Notes:** Clark wins Byron Nelson with closing 60 (-30/254, beats Kim -27 by 3, Scheffler -25 P3); first to win twice with closing 60; Schwab Challenge preview (Åberg fav +850, Colonial CC May 28-31); Si Woo Kim runner-up (60 R2 course record, missed 59 with closing bogey); LIV Korea May 28-31 Asiad CC Busan (Korean Golf Club rebranded); US Women's Open preview June 4-7 Riviera CC (Korda favored, first USGA women's event at Riviera)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+### 2026-05-24
 
 ## Current Pipeline (2026-05-24)
 
