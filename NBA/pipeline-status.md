@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-26
+- **Date**: 2026-05-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-27
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-05-27.xlsx (7 posts) + hh-postplanner-tobi-2026-05-27.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-27/review-dashboard.html (17 items)
+- **Notes:** Thunder 127-114 Spurs WCF G5 (SGA 32/9; Caruso 22 in 22 min 4/8 3P/8/8 FT/6 ast/3 stl; McCain 20 pts 18 in 2H; Wembanyama series-low 20 on 4/15 FG; Castle 24; Champagnie 22; Thunder lead 3-2); WCF G6 TOMORROW May 28 AT&T Center SA 8:30 PM ET NBC/Peacock; Caruso 47.7% 3P postseason (29.3% RS) on pace for NBA history; Knicks rest 8+ days, OG hamstring recovery, Brunson 27.8 ppg/6.7 ast, no home court, Finals G1 June 3 ABC
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-26
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

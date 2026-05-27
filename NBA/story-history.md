@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-27
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Thunder 127-114 Spurs WCF G5 (May 26, Paycom OKC) — SGA 32/9, Caruso 22 pts in 22 min (4/8 3P, 8/8 FT, 6 ast, 3 stl), McCain 20 (18 in 2H); Wembanyama series-low 20 pts on 4/15 FG; Thunder lead 3-2; Spurs' Castle 24, Champagnie 22 (4 3Ps) | 1 | NEW STORY |
+| 2 | WCF G6 TOMORROW (May 28, AT&T Center SA, 8:30 PM ET NBC/Peacock) — Spurs face elimination; Wembanyama must bounce back; Thunder one win from NBA Finals; Fox still questionable | 1 | NEW STORY |
+| 3 | Wembanyama series-low 20 pts on 4/15 FG (26.7%) — Thunder rotating wall (Hartenstein, Holmgren, Williams, Caruso); reached 20 only via 12 FTs; Spurs say they need more in G6 | 2 | FOLLOW UP (WCF series ongoing) |
+| 4 | Alex Caruso 47.7% from 3 this postseason vs 29.3% RS — 18.4% jump on pace to be NBA history; 22 pts in 22 min G5; WCF series: 17.0 ppg, 56.8% FG | 2 | NEW STORY |
+| 5 | Knicks rest and prepare — 8+ days before June 3 Finals; OG Anunoby hamstring recovery (was 21.4/7.5 before injury); Brunson 27.8 ppg/6.7 ast in 13 playoff games; no home court (53-29 vs 64-18 or 62-20); Games 3-4 at MSG June 8+10 | 2 | FOLLOW UP (Knicks Finals berth from 2026-05-26) |
+
+### STORY 1: Thunder 127-114 Spurs — WCF Game 5 (May 26)
+- **Tier:** 1
+- **Category:** Playoff Results / WCF
+- **Key facts:** Thunder 127, Spurs 114. SGA 32 pts/9 ast. Caruso 22 pts in 22 min (5/10 FG, 4/8 3P, 8/8 FT, 6 ast, 3 stl). McCain 20 pts (18 in 2H). Holmgren 16/11reb. Wembanyama 20 pts on 4/15 FG (series-low), 6 reb, 3 blk, 2 stl. Castle 24 (7/11). Champagnie 22 (4 3Ps). Thunder bench: 27 first-half points. Thunder lead WCF 3-2.
+- **Status:** NEW STORY
+- **Follow-up ideas:** G6 result; Thunder WCF clinch reaction; Finals preview
+
+### STORY 2: WCF Game 6 Preview — Spurs Facing Elimination
+- **Tier:** 1
+- **Category:** Game Preview / Elimination
+- **Key facts:** May 28, AT&T Center SA, 8:30 PM ET, NBC/Peacock. Spurs 3-2 down. Wembanyama 4/15 G5 needing bounce-back. Spurs 5-2 at home in 2026 playoffs. Thunder need one win for Finals. Fox questionable (right ankle).
+- **Status:** NEW STORY
+- **Follow-up ideas:** G6 result; if Thunder win — Finals matchup confirmed; if G7 — series continues
+
+### STORY 3: Wembanyama Series-Low — Thunder Defense Blueprint
+- **Tier:** 2
+- **Category:** Player Analysis / Defensive Scheme
+- **Key facts:** 4/15 FG (26.7%), 20 pts via 12 FTs. Thunder rotating: Hartenstein, Holmgren, Jaylin Williams, Caruso. Spurs said they need more from Wemby. Still had 6 reb/3 blk/2 stl.
+- **Status:** FOLLOW UP (WCF series)
+- **Follow-up ideas:** G6 Wembanyama bounce-back analysis; OKC defensive adjustments in Finals
+
+### STORY 4: Alex Caruso Historic Postseason 3P%
+- **Tier:** 2
+- **Category:** Player Spotlight / Stats
+- **Key facts:** 47.7% from 3 (postseason) vs 29.3% (regular season). 18.4% jump on pace for biggest RS-to-playoffs improvement in NBA history. G5: 22 pts in 22 min. WCF series: 17.0 ppg, 56.8% FG.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Finals 3P% continuity; Caruso career arc feature
+
+### STORY 5: Knicks Finals Rest/OG Anunoby Update
+- **Tier:** 2
+- **Category:** Team Update / Finals Preview
+- **Key facts:** 8+ days of rest before June 3 (ABC). OG right hamstring on mend (21.4/7.5 ppg/reb before injury). Brunson 27.8 ppg/6.7 ast in 13 games. No home court (53-29). MSG Games 3-4 June 8+10.
+- **Status:** FOLLOW UP (Knicks Finals berth, 2026-05-26)
+- **Follow-up ideas:** OG health update closer to Finals; home court disadvantage analysis; matchup preview once opponent set
+
 ## 2026-05-26
 
 | # | Story | Tier | Tag |
