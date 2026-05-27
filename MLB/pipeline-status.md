@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-27
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories), image manifest (not_started), articles (5), fact-check (21 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 0 FB posts, 5 articles, 25 items), dashboard (25 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard pushed via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). 0 char violations. claim-patterns.py missing from MLB (known). publish-unified-dashboard 403 (PAT scope — known).
+- **Key Stories**: Misiorowski 57 pitches 100+ mph Statcast era record/12 Ks/Brewers 5-1 Cards (Tier 1), Nationals 10-2 and 6-3 sweep Guardians in Cleveland/6 HRs/16 runs in 2 days (Tier 1), Corbin Carroll 51 career triples/1 from D-backs franchise record/Giants series active (Tier 2), Blake Snell surgery as expected/3 bone spurs/Dodgers expect return/Eric Lauer acquired (Tier 2), Murakami 18 HRs/first ever 10 HRs+20 walks in first 25 MLB games/AL leader (Tier 2), MLB Wednesday watch guide (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-26
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (28 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB posts, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard push failed (403 PAT scope — known).
 - **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/content-dashboards/bb/

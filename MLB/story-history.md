@@ -5,6 +5,40 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-27
+
+### Story 1: Jacob Misiorowski — Statcast Era Record (57 Pitches at 100+ MPH)
+- **Angle:** NEW STORY (not covered in May 25 or May 26 pipeline). Brewers 24-year-old threw 57 pitches at 100+ mph vs. Cardinals May 25 — Statcast era record (previous: 47, Hunter Greene, Sept 2022). 12 Ks, career-high match. Brewers won 5-1. 100 strikeouts in 11 starts in 2026.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Misiorowski's workload management; Brewers' position in NL Central race.
+
+### Story 2: Nationals 10-2 and 6-3 Over Guardians — Two-Game Sweep in Cleveland
+- **Angle:** NEW STORY. Nationals swept 2 games from AL Central leaders in Cleveland. May 25: 10-2 with 6 HRs, Luis García Jr. nearly hit for the cycle. May 26: 6-3, four runs off Joey Cantillo. Washington's 16-run two-game total is notable.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Nationals-Guardians rubber game Wednesday; Cleveland's response.
+
+### Story 3: Corbin Carroll — One Triple From D-Backs Franchise Record
+- **Angle:** FOLLOW UP (Carroll at 51 career triples covered May 25; Giants series starting May 26 is active chase context). 51 career triples in 537 games vs. Drew's 52 in 773. 8 triples in 2026, twice any other player. 12-game hit streak.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** When Carroll ties/breaks Drew's franchise record (possibly this week vs. Giants).
+
+### Story 4: Blake Snell Surgery Update — Dodgers Expect Return This Season
+- **Angle:** NEW STORY. Surgery "as expected" per GM Brandon Gomes. Three bone spurs removed. Timeline: 12 days (Skubal model) to 3 months (Díaz model). Eric Lauer acquired from Blue Jays; Dreyer on IL; Graterol on 60-day IL.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Snell's first bullpen session; return date announcement.
+
+### Story 5: Murakami — 18 HRs, First in MLB History (10 HRs + 20 Walks in First 25 Games)
+- **Angle:** FOLLOW UP (Murakami covered May 24 at 17 HRs; updated to 18 HRs leading AL, 12-for-27 hot streak over last 6 games). First player in MLB history with 10 HRs and 20 walks in first 25 career games.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** AL ROY race; Murakami's pace toward White Sox season HR record.
+
+### Story 6: MLB Wednesday Watch List
+- **Angle:** NEW STORY. Carroll record watch at Oracle Park, Nationals-Guardians Game 3, Reds-Mets NL East.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Game results from Wednesday slate.
+
+---
+
 ## 2026-05-25
 
 ### Story 1: Judge Walks Off Rays — Ends 11-Game Homer Drought, Yankees Win 2-0
