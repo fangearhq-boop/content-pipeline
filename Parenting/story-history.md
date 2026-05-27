@@ -2,6 +2,45 @@
 
 ---
 
+## May 27, 2026
+
+### Story 1: Bellabu Bear Children's Sherpa Robes Recall — CPSC (1,300 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall. ~1,300 Bellabu Bear bamboo sherpa robes recalled; burn hazard (fails flammability standard for children's sleepwear). Prints: PAW Patrol, Minecraft, Minions, Batman, Justice League, Wonder Woman, Blaze, Trolls, Dora + holiday/novelty. Sizes S/M and M/L. Sold at Saks Fifth Avenue and Bellabubear.com/Saksfifthavenue.com Jan 2024–Jul 2025 ~$60. Neck label: "BB-NW12109." Full refund: 888-703-7752, help@bellabubear.com, bellabubear.com/pages/recall-childrens-sherpa-robes
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~1,300 units; burn hazard; flammability standard violation; familiar character prints; ~$60; Jan 2024–Jul 2025; 888-703-7752; help@bellabubear.com; Source: CPSC.gov, Bellabubear.com recall page, MyParisTexas
+
+### Story 2: D20 Superintendent Change — Interim Dr. Susan Field Named
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Academy School District 20 board fired Superintendent Jinger Haberer May 15 (insubordination + unauthorized person at May 7 board meeting, compromised attorney-client privilege); board voted unanimously. Dr. Susan Field named interim May 19; 19 years with D20; former principal Woodmen-Roberts Elementary; current Asst. Superintendent for Learning Services; serves through 2026-27. District: "remains strong, stable and focused."
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Haberer fired May 15, 2026; Dr. Susan Field interim from May 19; 19 years D20; Woodmen-Roberts principal; Asst. Superintendent Learning Services; serves through 2026-27; Source: KRDO, KKTV, KOAA, Colorado Springs Gazette, Fox21 News
+
+### Story 3: PPLD Summer Adventure 2026 — Sign Up June 1
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pikes Peak Library District Summer Adventure reading/activity program starts June 1 at all PPLD branches. Free, all ages, prizes. Bonus: D11 free lunch mobile unit at East Library weekdays in June and July for any youth under 18. Teen volunteer spots available. ppld.org
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** June 1 sign-up; any PPLD branch; all ages; prizes; free; D11 free lunch at East Library weekdays June–July, under 18; ppld.org; Source: PPLD.org Summer Adventure page, PPLD Teen Summer Volunteer page
+
+### Story 4: Vevor Baby Swings Recalled — Suffocation Hazard (1,020 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Sanven Technology recalls ~1,020 Vevor baby swings; suffocation hazard; incline >10° violates Safe Sleep for Babies Act and mandatory infant sleep product standard. Models BB501K/BB702A/BB005K; sold Vevor.com and Amazon Jan–Aug 2025; $65–$80. Full refund: cut cover in half, photo to recalling@vevor.com; 855-599-6320
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** ~1,020 units; suffocation; incline >10°; models BB501K/BB702A/BB005K; Amazon/Vevor.com; Jan–Aug 2025; $65–$80; 855-599-6320; recalling@vevor.com; Source: CPSC.gov, Mother.ly, WFMJ
+
+### Story 5: Summer Is Here — COS Family Summer Kick-Off Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (composite guide) — Post-Memorial Day COS summer guide. What's open now: pools (Monument Valley 220 Mesa Rd, Wilson Ranch 2335 Allegheny Dr), splash pads (Panorama + Venezia + Uncle Wilbur), Trackchair program. Starting June 1: PPLD Summer Adventure, D49 free meals (ages 1–18), Deerfield Hills spray ground, D11 East Library free lunch.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Monument Valley 220 Mesa Rd Mon–Sat 10–6 Sun 12–6; Wilson Ranch 2335 Allegheny Dr daily 10–6; splash pads free daily 10–6; June 1 = PPLD Summer Adventure + D49 free meals + Deerfield Hills; D11 East Library lunch weekdays; Source: City of COS Parks, PPLD.org, D49.org
+
+---
+
 ## May 26, 2026
 
 ### Story 1: Cosyland Tower Stool Recall — CPSC (125,200 Units)

@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: May 27, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Bellabu Bear sherpa robe recall (CPSC, ~1,300 units, burn hazard, PAW Patrol/Minecraft/Minions/Batman prints, S/M and M/L, Saks/online, Jan 2024–Jul 2025, ~$60, 888-703-7752, help@bellabubear.com); D20 superintendent change (Haberer fired May 15, Dr. Susan Field interim May 19, 19 years D20, serves through 2026-27); PPLD Summer Adventure (June 1 sign-up, all branches, free lunch at East Library D11 weekdays); Vevor baby swings recall (~1,020 units, suffocation, BB501K/BB702A/BB005K, Amazon/Vevor.com, Jan–Aug 2025, $65-80, 855-599-6320); COS summer guide (pools/splash pads open, June 1 launches) |
+| Story History Check | COMPLETE | 5 NEW STORIES — Bellabu Bear recall (new CPSC recall), D20 superintendent (new leadership change), PPLD Summer Adventure (new program launch), Vevor swings (new recall), COS summer guide (new seasonal composite) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for Story 1, 1 each for Stories 2–5); all under 280 chars (4 char violations fixed in second verify run); 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (9 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 65 claims; 4 char violations fixed; image warnings cosmetic |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 9 images |
+| Dashboard | COMPLETE | review-dashboard.html (26 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-27.xlsx (6 posts) + TOBI cosp-postplanner-tobi-2026-05-27.xlsx (6 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-27)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions) = 16 total
+- **Articles:** 5 (bylines: Jamie Rivera x3, Sarah Morales x2)
+- **PostPlanner exports:** cosp-postplanner-2026-05-27.xlsx (6 posts), cosp-postplanner-tobi-2026-05-27.xlsx (6 TOBI posts)
+- **Coverage:** Bellabu Bear sherpa robe recall (~1,300 units, burn hazard, PAW Patrol/Minecraft/Minions/Batman, S/M + M/L, Saks/Bellabubear.com, Jan 2024–Jul 2025, ~$60, 888-703-7752, help@bellabubear.com); D20 superintendent change (Haberer fired May 15, Dr. Susan Field interim May 19, 19 years D20, Woodmen-Roberts principal, serves through 2026-27, "remains strong, stable and focused"); PPLD Summer Adventure 2026 (June 1 sign-up at all branches, prizes for reading, free D11 lunch at East Library weekdays June–July for under 18, teen volunteer spots); Vevor baby swings recall (~1,020 units, BB501K/BB702A/BB005K, suffocation hazard, Amazon/Vevor.com Jan–Aug 2025, $65–$80, 855-599-6320, recalling@vevor.com); COS summer guide (pools open, splash pads running, June 1 = PPLD Summer Adventure + D49 free meals + D11 East Library lunch + Deerfield Hills spray ground)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 65 claims; 4 char violations (tweets) fixed in second verify run; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 6 X posts, 5 FB posts, 5 articles, 9 images; posting window warnings cosmetic
+  - dashboard: 26 items
+  - PostPlanner exports: both standard (6) and TOBI (6) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: May 26, 2026
 
 | Step | Status | Notes |
