@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-26
+- **Date**: 2026-05-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-27
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-27.xlsx (6 posts) + f1fr-postplanner-tobi-2026-05-27.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-27/review-dashboard.html (16 items)
+- **Notes:** Russell "pressure's off" Monaco mindset (battery Lap 30 Canada, 43 pts down Antonelli 131-88); Monaco 2-stop rule SCRAPPED for 2026 (FIA free strategy returns, June 5-7); Leclerc Monaco homecoming (2024 winner, SF-26 suits slow corners, Antonelli "Ferrari will be team to beat"); RBPT first F1 podium (Verstappen P3 Canada, Mekies "truly historic"); Wolff team orders dilemma (Sprint contact, race swaps, Monaco narrow streets)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-26
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

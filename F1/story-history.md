@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-27
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Russell "pressure's off" Monaco mindset — Sprint win, pole, led race, battery failure on Lap 30; "going to go out, enjoy every race, try and win every race"; 43 pts down Antonelli 131-88 | 1 | FOLLOW UP (Canada retirement 2026-05-26) |
+| 2 | Monaco 2-stop rule SCRAPPED for 2026 — FIA drops mandatory minimum stop rule introduced in 2025; free strategy returns; Monaco June 5-7; 2025 rule exploited by "backing up" tactics | 1 | NEW STORY |
+| 3 | Leclerc Monaco homecoming — 2024 Monaco winner; Ferrari SF-26 suits slow corners; Antonelli: "Ferrari will be the team to beat"; special Monaco merch; June 5-7 | 2 | NEW STORY |
+| 4 | Red Bull RBPT historic milestone — Verstappen P3 Canada = first podium in F1 with own power unit; Mekies "truly historic"; Verstappen: "know we can do better"; passed by Hamilton Lap 70 | 2 | FOLLOW UP (Canada GP 2026-05-26) |
+| 5 | Wolff team orders dilemma — Canada Sprint contact + race position swaps; Wolff "may need to put handbrake on"; Monaco narrow streets; 43-pt gap raises question of protecting Antonelli | 2 | NEW STORY |
+
+### STORY 1: Russell "Pressure's Off" Monaco Mindset
+- **Tier:** 1
+- **Category:** Driver Feature / Championship
+- **Key facts:** Battery failure Lap 30, lost 25 pts; "Pressure's off. Going to go out, enjoy every race, try and win every race"; Wolff: "car was literally going dark"; Antonelli 131 pts, Russell 88 (43-pt gap); Monaco June 5-7
+- **Status:** FOLLOW UP (Canada retirement, 2026-05-26)
+- **Follow-up ideas:** Monaco result; Russell bounce-back narrative; championship gap trajectory
+
+### STORY 2: Monaco 2-Stop Rule Scrapped
+- **Tier:** 1
+- **Category:** Strategy / Regulation
+- **Key facts:** FIA scrapped mandatory 2-stop rule for 2026 Monaco; rule introduced 2025, exploited via "backing up" tactics; free strategy returns for 2026; Monaco June 5-7 (78 laps, 3.337km)
+- **Status:** NEW STORY
+- **Follow-up ideas:** Monaco strategy battle; Ferrari vs Mercedes on tire management; race outcome analysis
+
+### STORY 3: Leclerc Monaco Homecoming
+- **Tier:** 2
+- **Category:** Driver Preview / Ferrari
+- **Key facts:** Leclerc won Monaco 2024 (first Monegasque in modern era); SF-26 suited to low-speed; Antonelli: "Ferrari will be the team to beat"; special Monaco merch released; Leclerc 3rd championship (65 pts, 66 behind Antonelli)
+- **Status:** NEW STORY
+- **Follow-up ideas:** Monaco qualifying/race result; Ferrari vs Mercedes head-to-head
+
+### STORY 4: Red Bull/Verstappen Historic RBPT Podium
+- **Tier:** 2
+- **Category:** Team Feature / Power Unit
+- **Key facts:** Verstappen P3 Canada = first RBPT podium in F1 history; 5th race; Mekies "truly historic moment"; Verstappen "know we can do better" after Hamilton passed him Lap 70; Verstappen 7th championship 44 pts
+- **Status:** FOLLOW UP (Canada GP 2026-05-26)
+- **Follow-up ideas:** Monaco Verstappen result; RBPT development update
+
+### STORY 5: Mercedes Team Orders Dilemma
+- **Tier:** 2
+- **Category:** Team Drama / Strategy
+- **Key facts:** Canada Sprint near-contact; race multiple contentious passes; Wolff "may need to put handbrake on"; 43-pt gap; Monaco narrow streets amplify crash risk; if team orders → Russell title hopes gone
+- **Status:** NEW STORY
+- **Follow-up ideas:** Monaco team orders decision; Wolff messaging pre-Monaco; race outcome
+
 ## 2026-05-26
 
 | # | Story | Tier | Tag |
