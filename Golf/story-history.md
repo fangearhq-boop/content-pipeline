@@ -4,6 +4,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-05-27 | T1 | Charles Schwab Challenge preview (May 28-31, Colonial CC, Fort Worth TX) — Åberg +900 (3 SG/round), Fowler T2 Truist, Smalley T2 PGA Championship, Thomas historical trend; par 70, 7,289 yds, 27-yd fairways (3rd-narrowest); Hanse renovation; Griffin defending +2200; Scheffler/McIlroy absent; $9.9M | X, FB, Article | FOLLOW-UP |
+| 2026-05-27 | T1 | LIV Golf Korea preview (May 28-31, Asiad CC, Busan) — Korean Golf Club rebranded from Iron Heads; Ben An + Min-kyu Kim added for home event; DeChambeau defending; 4Aces lead team standings; 159-yd par-3 island green; Peggy Gou concert R3; shotgun 1:15 PM local | X, FB, Article | FOLLOW-UP |
+| 2026-05-27 | T2 | Åberg win drought — 6 top-10s in 7 starts; 3 SG/round (1+ better than anyone in Schwab field); no wins since Genesis Invitational last season; "trips over himself on Sundays" narrative; Colonial as potential breakthrough | X, FB, Article | NEW STORY |
+| 2026-05-27 | T2 | US Women's Open preview (June 4-7, Riviera CC, Pacific Palisades) — 81st edition; first USGA women's major at Riviera; 1,897 entries; all top-25 entered; Korda 3 wins in 2026 incl. Chevron (3rd major); World No. 1 Thitikul entered; 11 past champions incl. Stark (defending); barranca + kikuyu rough course challenges | X, FB, Article | FOLLOW-UP |
+| 2026-05-27 | T2 | Alex Smalley transformation — -0.62 SG around greens (2024) → +0.45 SG (2026), 1.07-stroke flip; 6 straight top-25s; T2 Zurich Classic + T2 PGA Championship; 7th in Schwab field SG tee-to-green; +4000 odds at Colonial | X, FB, Article | NEW STORY |
+|------|------|-------|-----------|-------|
 | 2026-05-26 | T1 | Wyndham Clark wins CJ Cup Byron Nelson with closing 60 — -30 (254), beats Kim (-27) by 3, Scheffler (-25) P3; back-nine 28; first to win twice with closing 60; first win since 2024 Pebble Beach; $1.85M/500 pts | X, FB, Article | NEW STORY |
 | 2026-05-26 | T1 | Charles Schwab Challenge preview (May 28-31, Colonial CC, Fort Worth TX) — Par 70, 7,289 yds, 27-yd avg fairways (3rd-narrowest); Åberg +850, Henley +1800, Thomas +2200, Griffin (defending) +2200; Scheffler/McIlroy out | X, FB, Article | NEW STORY |
 | 2026-05-26 | T2 | Si Woo Kim runner-up at Byron Nelson — shot 60 in R2 (course record; missed 59 with closing bogey); led by 2 after 54 holes; final -27, lost by 3 to Clark; still seeking first win since 2023 Sony Open | X, FB, Article | FOLLOW-UP |

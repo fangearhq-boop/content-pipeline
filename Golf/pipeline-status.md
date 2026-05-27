@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-26
+- **Date**: 2026-05-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-27
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 5 written, all under 280 characters (Story 3 tweet fixed from 296 to 255 chars before final compile)
+- **Facebook Posts:** 5 stories, long-form
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-05-27.xlsx (5 posts) + gfr-postplanner-tobi-2026-05-27.xlsx (5 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-05-27/review-dashboard.html (15 items)
+- **Notes:** Charles Schwab Challenge preview (Åberg +900, Fowler, Smalley, Thomas, Colonial CC May 28-31, Hanse renovation); LIV Golf Korea preview (Korean Golf Club home debut, DeChambeau defending, 4Aces lead teams, Asiad CC Busan); Åberg win drought feature (6 top-10s in 7 starts, no wins since Genesis Invitational); US Women's Open preview (June 4-7 Riviera CC, first USGA women's major there, Korda 3 wins in 2026, Thitikul/Stark entered); Alex Smalley transformation (-0.62 to +0.45 SG/round, 1.07-stroke flip)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-26
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
