@@ -5,6 +5,54 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-27
+
+### STORY 1: Pirates 12, Cubs 1 — Losing Streak Reaches 10
+- **Angle:** FOLLOW UP (game 2 recap). Wicks surrendered 5 ER in 1st inning of return; 1-for-13 RISP; left 11 on base; 2 total runs in 2 games; 10th straight loss, longest since 2022; Cubs 29-26
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result (today vs Chandler)
+  - Game 4 Skenes start result
+  - Losing streak end vs continuation
+
+### STORY 2: The Math on This Cubs Season Makes No Sense
+- **Angle:** NEW STORY (unprecedented season arc). Cubs started 21-4, now 29-26 with 10-game losing streak — went 8-22 since peak; same roster, no explanation; baseball absurdity framing
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Daily record tracking as streak continues or snaps
+  - Historical parallels (2017 Dodgers claim needs second source before use)
+
+### STORY 3: NL Central Freefall — Cubs Now Trailing Brewers by 4+ Games
+- **Angle:** FOLLOW UP (NL Central standings daily track). Cubs 29-26, 3rd; Brewers 31-20+, 4+ GB lead; Cardinals between them; Cubs dropped from 1st to 3rd in weeks
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, division analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings updates
+  - Games back tracking as season progresses
+  - Wild card odds if Cubs slide further
+
+### STORY 4: Game Preview — Taillon vs Chandler, 5:40 PM CT
+- **Angle:** NEW STORY (Game 3 preview). Taillon (5.20 ERA, 17 HR allowed) vs Chandler (1-6, 4.79 ERA, 34 BB in 47 IP); PNC Park; Cubs need win to avoid 11-game skid
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (tomorrow 7 AM)
+  - Taillon's ERA trend if he gives up more HRs
+  - Chandler command stats after the game
+
+### STORY 5: Paul Skenes Tomorrow — Series Ends With the Best Arm in Baseball
+- **Angle:** FOLLOW UP (Skenes coverage from May 26, fresh urgency). Skenes 6-2, 1.98 ERA, 0.714 WHIP (leads MLB), 56 K in 50 IP; Cubs scored 2 runs in first 2 games; Rea vs Skenes in Game 4 (Thu 5:40 PM CT)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, bold stakes preview)
+- **Follow-Up Opportunities:**
+  - Skenes actual outing result vs Cubs
+  - Cubs offense against Skenes (K count, RISP)
+  - Series finale recap Friday morning
+
+---
+
 ## 2026-05-26
 
 ### STORY 1: Pirates 2, Cubs 1 — Nine Straight Losses, Brown's Gem Wasted

@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-27",
+  "compiled_at": "2026-05-27T09:28:33.596079+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Game recap — Pirates 12, Cubs 1, 10-game losing streak",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Bold take — 21-4 to 29-26, the math makes no sense",
+      "type": "Bold"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "NL Central standings — Cubs 3rd, Brewers 4+ up",
+      "type": "Analysis"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Game preview — Taillon vs Chandler, 5:40 PM CT",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Paul Skenes tomorrow — series finale stakes",
+      "type": "Bold"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Pirates 12, Cubs 1 — Losing Streak Reaches 10",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Game 2 recap; Wicks surrendered 5 ER in 1st inning of return; 1-for-13 RISP; 11 LOB; 2 total runs in 2 games; 10th straight loss, longest since 2022; Cubs 29-26",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Pirates 12, Cubs 1.\n\nWicks surrendered 5 runs in the 1st inning of his return. The Cubs went 1-for-13 with runners in scoring position and left 11 on base — just 2 total runs across two games.\n\nTen straight losses. Longest skid since 2022.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "The Math on This Cubs Season Makes No Sense",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs started 21-4, are now 29-26 with a 10-game losing streak — went 8-22 since their peak; same roster, no blockbuster trades, no explanation; unprecedented season arc",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "The Cubs started this season 21-4.\n\nThey are now 29-26 — 8-22 since that peak. No blockbuster trade, no lineup overhaul. Just the same roster and a 10-game slide that makes no statistical sense.\n\nOnly in baseball. Only the Cubs could do this.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold Take / Passionate Statement",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "NL Central Freefall — Cubs Now Trailing Brewers by 4+ Games",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 29-26, 3rd in NL Central; Brewers 31-20+, 4+ game lead; Cardinals between them; Cubs dropped from 1st to 3rd in a matter of weeks",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Cubs were in 1st in the NL Central three weeks ago.\n\nThey're 29-26 now — 3rd — with the Brewers (31-20+) holding a 4+ game lead and the Cardinals sitting between them. Ten games will do that.\n\nBrewers getting fat off Cubs misery is peak NL Central.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold Take / Division Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Game Preview — Taillon vs Chandler, 5:40 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Taillon (5.20 ERA, 17 HR allowed) vs Chandler (1-6, 4.79 ERA, 34 BB in 47 IP); Cubs desperately need to end 10-game slide; Chandler's command issues are the opening; 5:40 PM CT at PNC Park",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Taillon vs Chandler. 5:40 PM CT, PNC Park.\n\nCubs desperately need to end the 10-game slide. Chandler (1-6, 4.79 ERA) has walked 34 batters in 47 innings — command issues the lineup can exploit. Taillon (5.20 ERA) has to give them a chance.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Game Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Paul Skenes Tomorrow — Series Ends With the Best Arm in Baseball",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Skenes 6-2, 1.98 ERA, 0.714 WHIP (leads MLB), 56 K in 50 IP; Cubs scored 2 runs total in Games 1 and 2; Colin Rea vs Skenes in Game 4 (Thursday 5:40 PM CT); nightmare series finale",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Paul Skenes pitches the series finale tomorrow at 5:40 PM CT.\n\nHis 2026 line: 6-2, 1.98 ERA, 0.714 WHIP (leads MLB), 56 K in 50 innings. The Cubs have scored 2 runs in the first two games of this series.\n\nThat's the math on Thursday. Rea vs Skenes.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold Take / Stakes Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
