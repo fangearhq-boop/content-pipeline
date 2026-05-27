@@ -3,6 +3,40 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 27, 2026
+
+### Story 1: Jordy Frahm Named USA Softball Collegiate Player of the Year
+- **Angle:** FOLLOW UP (Nebraska WCWS berth covered May 24; award announcement new today May 27). Frahm and Jensen: 2 earned runs in 33 tournament innings (0.42 ERA). Nebraska 51-6, 26-game win streak, first WCWS since 2013. Opens Thursday 8:30 PM ET vs. Arkansas on ESPN2.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Frahm's WCWS performance vs. Arkansas; Nebraska's advancement in double-elimination bracket.
+
+### Story 2: WCWS Game 2 — Tennessee vs. Texas, The 2025 Semifinal Rematch
+- **Angle:** NEW STORY. Pickens and Mardjetko both named First-Team All-Americans (D1Softball, May 26). Tennessee (47-10) vs. Texas (47-11) at 2:30 PM ET Thursday. Tennessee lost to Texas in 2025 WCWS semifinals 2-0. Stewart: 27 HRs, 72 RBIs, .436 BA for Texas.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Tennessee vs. Texas result; Pickens' performance at Devon Park.
+
+### Story 3: Megan Grant's 40 HRs at the WCWS vs. Alabama
+- **Angle:** FOLLOW UP (Grant's 40-HR record covered May 8-10; WCWS vs. Alabama matchup is new angle). UCLA 52-8, Alabama 54-7. 5th all-time WCWS meeting. UCLA's 34th WCWS appearance. 7 PM ET Thursday on ESPN2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Grant's HR output at Devon Park; UCLA advancement.
+
+### Story 4: Arkansas WCWS Debut vs. Nebraska at 8:30 PM
+- **Angle:** FOLLOW UP (Arkansas first WCWS covered May 23-24; 8:30 PM nightcap preview + Deifel 0-for-5 storyline is new). Arkansas No. 5 seed, Nebraska No. 4 seed. Official Arkansas site confirmed 8:30 PM ET ESPN2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Arkansas result vs. Nebraska; Deifel's debut at Devon Park.
+
+### Story 5: WCWS 2026 Power Rankings — All 8 Teams
+- **Angle:** NEW STORY. Full field set; ranking every team by championship potential. Alabama No. 1, Texas No. 2, TTech No. 3, Tennessee No. 4, Nebraska No. 5, UCLA No. 6, Mississippi State No. 7, Arkansas No. 8.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Power ranking accuracy check after opening round.
+
+### Story 6: WCWS 2026 Bold Predictions
+- **Angle:** NEW STORY. Three bold picks: Mississippi State upsets Texas Tech, Nebraska reaches championship round, Alabama wins the title.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Revisit predictions after championship.
+
+---
+
 ## May 25, 2026
 
 ### Story 1: Mississippi State Stuns Oklahoma 6-0 — 9-Year WCWS Streak Ends

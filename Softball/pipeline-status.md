@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-27
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 2 char violations fixed story 2 tweet 1 285→246, story 5 tweet 1 288→245, 0 violations after fixes), FB posts (6 stories), image concepts (6 stories), image manifest (not_started), articles (5), fact-check (67 claims, 0 char violations after fixes, consistency clean), compile (6 stories, 8 tweets, 0 FB posts, 5 articles, 25 items), dashboard (25 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard: detached HEAD resolved via checkout main + pull; publish-unified-dashboard 403 (PAT scope — known).
+- **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment — prior session)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). 2 char violations fixed (story 2 tweet 1, story 5 tweet 1). Detached HEAD resolved via git checkout main + pull. publish-unified-dashboard 403 (PAT scope — known).
+- **Key Stories**: Jordy Frahm named USA Softball Collegiate Player of Year (breaking May 27)/Nebraska 51-6/26-game win streak/first WCWS since 2013 (Tier 1), Tennessee vs Texas WCWS rematch/Pickens+Mardjetko both First-Team All-Americans/2025 semifinal revenge game (Tier 1), Megan Grant 40 HRs vs Alabama 22-shutout staff at WCWS/7 PM ET ESPN2 (Tier 2), Arkansas WCWS debut 8:30 PM vs Nebraska/Deifel 0-for-5 now 1-for-6 (Tier 2), WCWS 2026 power rankings all 8 teams (Tier 2), WCWS bold predictions (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-26
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed story 1 tweet 1 298→251), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (56 claims, 0 char violations after fix, consistency clean), compile (5 stories, 7 tweets, 0 FB posts, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard push failed (403 PAT scope — known).
 - **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/content-dashboards/ils/
