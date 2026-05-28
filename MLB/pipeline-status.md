@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-28
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims, 0 char violations, consistency clean), compile (5 stories, 9 tweets, 0 FB posts, 5 articles, 25 items), dashboard (25 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard push 403 (PAT scope — known).
+- **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment — prior session)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push 403 (content-dashboards PAT scope — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only).
+- **Key Stories**: Murakami 20th HR/most by MLB rookie since 1901/White Sox beat Twins 15-2/432 feet (Tier 1), Cristopher Sánchez 44⅔ scoreless innings/breaks Grover Cleveland Alexander's 115-year Phillies record/ranks 7th all-time (Tier 1), Aaron Ashby 9-0/first pitcher in MLB to 9 wins/Brewers sweep Cardinals/33-20 leading NL Central (Tier 1), Yordan Alvarez 20th HR off deGrom/2 HRs in Astros 4-3 win at Rangers/ties Murakami for AL lead (Tier 2), Schwarber earliest 20-HR milestone in MLB history/on pace for 66/passes Luis Gonzalez 2001 record (Tier 1)
+
+## Previous Run
 - **Date**: 2026-05-27
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories), image manifest (not_started), articles (5), fact-check (21 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 0 FB posts, 5 articles, 25 items), dashboard (25 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard pushed via publish-dashboard.py.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

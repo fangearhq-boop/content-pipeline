@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-28
+
+### Story 1: Murakami Hits 20th HR — Most by Any MLB Rookie Since 1901
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Munetaka Murakami (White Sox, DH, age 26) hit his 20th HR on May 27 in White Sox's 15-2 win over Twins. 432 feet off 93.9 mph fastball. Most HRs by any MLB rookie since 1901. Only 3rd White Sox player to reach 20 before June. Leads AL in HRs tied with Alvarez.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Murakami's pace toward franchise and MLB rookie season HR records
+  - How opposing pitchers adjust to Murakami
+  - AL HR race tracking (Murakami vs. Alvarez vs. Schwarber)
+
+### Story 2: Cristopher Sánchez 44⅔ Scoreless Innings — Breaks 115-Year-Old Phillies Record
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Sánchez threw 7 scoreless innings in Phillies' 3-0 win over Padres on May 27, completing the sweep. Extended scoreless streak to 44⅔ innings — broke Grover Cleveland Alexander's Phillies franchise record from 1911. 5 consecutive starts of 7+ shutout innings. Ranks 7th all-time in single season; Hershiser's record is 59 (1988). MLB-leading 3.7 bWAR, NL-lowest ERA, MLB-leader in IP.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Sánchez's pursuit of Hershiser's all-time record (59 innings)
+  - Sánchez's NL Cy Young case
+  - Phillies' World Series outlook with Sánchez + Schwarber
+
+### Story 3: Aaron Ashby 9-0 — First Pitcher to 9 Wins, Brewers Leading NL Central
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Ashby earned his 9th win in Brewers' 2-1 win over Cardinals on May 27. First MLB pitcher to 9 wins; no one else has more than 8. Brewers first home sweep of Cardinals since June 10-12, 2011. Brewers 33-20, won 20 of last 27 and 15 of last 19; leading NL Central.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Ashby's pursuit of 10th win — first reliever to double digits?
+  - Brewers NL Central lead sustainability
+  - Ashby's All-Star case
+
+### Story 4: Yordan Alvarez Hits 20th HR — Ties Murakami for AL Lead
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Alvarez hit 2 HRs on May 27 as Astros beat Rangers 4-3 at Arlington. First HR: 428-foot solo shot off Jacob deGrom in 4th inning (tied game). 20th HR in 8th inning secured win. First time he's homered in consecutive games in 8 MLB seasons. Tied Murakami at 20 for AL HR lead.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - AL HR race between Alvarez and Murakami
+  - Alvarez's offensive surge context
+  - deGrom's performance and Rangers season
+
+### Story 5: Kyle Schwarber Makes MLB History With 20-HR Milestone
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Schwarber reached 20 HRs at earliest date in MLB history (beat Luis Gonzalez's May 17, 2001 record). On pace for 66 HRs. 20 HRs through team's first 49 games; 18th player in MLB history to do so. 5-yr/$150M contract signed December 2025. Slash line .237/.365/.645, 35 RBI.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber chasing 25 HRs (McGwire/Bonds territory through 49 games)
+  - Phillies World Series odds with Sánchez + Schwarber
+  - NL HR race tracking
+
+---
+
 ## 2026-05-27
 
 ### Story 1: Jacob Misiorowski — Statcast Era Record (57 Pitches at 100+ MPH)
