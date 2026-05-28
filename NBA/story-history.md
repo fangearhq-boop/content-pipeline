@@ -2,6 +2,156 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-27
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Thunder 127-114 Spurs WCF G5 (May 26, Paycom OKC) — SGA 32/9, Caruso 22 pts in 22 min (4/8 3P, 8/8 FT, 6 ast, 3 stl), McCain 20 (18 in 2H); Wembanyama series-low 20 pts on 4/15 FG; Thunder lead 3-2; Spurs' Castle 24, Champagnie 22 (4 3Ps) | 1 | NEW STORY |
+| 2 | WCF G6 TOMORROW (May 28, AT&T Center SA, 8:30 PM ET NBC/Peacock) — Spurs face elimination; Wembanyama must bounce back; Thunder one win from NBA Finals; Fox still questionable | 1 | NEW STORY |
+| 3 | Wembanyama series-low 20 pts on 4/15 FG (26.7%) — Thunder rotating wall (Hartenstein, Holmgren, Williams, Caruso); reached 20 only via 12 FTs; Spurs say they need more in G6 | 2 | FOLLOW UP (WCF series ongoing) |
+| 4 | Alex Caruso 47.7% from 3 this postseason vs 29.3% RS — 18.4% jump on pace to be NBA history; 22 pts in 22 min G5; WCF series: 17.0 ppg, 56.8% FG | 2 | NEW STORY |
+| 5 | Knicks rest and prepare — 8+ days before June 3 Finals; OG Anunoby hamstring recovery (was 21.4/7.5 before injury); Brunson 27.8 ppg/6.7 ast in 13 playoff games; no home court (53-29 vs 64-18 or 62-20); Games 3-4 at MSG June 8+10 | 2 | FOLLOW UP (Knicks Finals berth from 2026-05-26) |
+
+### STORY 1: Thunder 127-114 Spurs — WCF Game 5 (May 26)
+- **Tier:** 1
+- **Category:** Playoff Results / WCF
+- **Key facts:** Thunder 127, Spurs 114. SGA 32 pts/9 ast. Caruso 22 pts in 22 min (5/10 FG, 4/8 3P, 8/8 FT, 6 ast, 3 stl). McCain 20 pts (18 in 2H). Holmgren 16/11reb. Wembanyama 20 pts on 4/15 FG (series-low), 6 reb, 3 blk, 2 stl. Castle 24 (7/11). Champagnie 22 (4 3Ps). Thunder bench: 27 first-half points. Thunder lead WCF 3-2.
+- **Status:** NEW STORY
+- **Follow-up ideas:** G6 result; Thunder WCF clinch reaction; Finals preview
+
+### STORY 2: WCF Game 6 Preview — Spurs Facing Elimination
+- **Tier:** 1
+- **Category:** Game Preview / Elimination
+- **Key facts:** May 28, AT&T Center SA, 8:30 PM ET, NBC/Peacock. Spurs 3-2 down. Wembanyama 4/15 G5 needing bounce-back. Spurs 5-2 at home in 2026 playoffs. Thunder need one win for Finals. Fox questionable (right ankle).
+- **Status:** NEW STORY
+- **Follow-up ideas:** G6 result; if Thunder win — Finals matchup confirmed; if G7 — series continues
+
+### STORY 3: Wembanyama Series-Low — Thunder Defense Blueprint
+- **Tier:** 2
+- **Category:** Player Analysis / Defensive Scheme
+- **Key facts:** 4/15 FG (26.7%), 20 pts via 12 FTs. Thunder rotating: Hartenstein, Holmgren, Jaylin Williams, Caruso. Spurs said they need more from Wemby. Still had 6 reb/3 blk/2 stl.
+- **Status:** FOLLOW UP (WCF series)
+- **Follow-up ideas:** G6 Wembanyama bounce-back analysis; OKC defensive adjustments in Finals
+
+### STORY 4: Alex Caruso Historic Postseason 3P%
+- **Tier:** 2
+- **Category:** Player Spotlight / Stats
+- **Key facts:** 47.7% from 3 (postseason) vs 29.3% (regular season). 18.4% jump on pace for biggest RS-to-playoffs improvement in NBA history. G5: 22 pts in 22 min. WCF series: 17.0 ppg, 56.8% FG.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Finals 3P% continuity; Caruso career arc feature
+
+### STORY 5: Knicks Finals Rest/OG Anunoby Update
+- **Tier:** 2
+- **Category:** Team Update / Finals Preview
+- **Key facts:** 8+ days of rest before June 3 (ABC). OG right hamstring on mend (21.4/7.5 ppg/reb before injury). Brunson 27.8 ppg/6.7 ast in 13 games. No home court (53-29). MSG Games 3-4 June 8+10.
+- **Status:** FOLLOW UP (Knicks Finals berth, 2026-05-26)
+- **Follow-up ideas:** OG health update closer to Finals; home court disadvantage analysis; matchup preview once opponent set
+
+## 2026-05-26
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks 130-93 Cavaliers ECF G4 — sweep complete; KAT 19/14; Brunson 15; Bridges 15; Shamet 16 off bench; led by 45; 32-5 second-chance pts; 33-9 fast break pts; Cavs swept for first time since 2018 Finals; Knicks first Finals since 1999; 11-game win streak | 1 | FOLLOW-UP |
+| 2 | WCF Game 5 TONIGHT — Thunder vs Spurs at Paycom Center OKC, 8:30 PM ET NBC/Peacock; series 2-2; OKC -5.5 (-218 ML); Spurs +180; Jalen Williams questionable (hamstring); Ajay Mitchell out; SGA 19 pts 6-15 FG in G4; Wemby 33/8/5/3 G4 | 1 | FOLLOW-UP |
+| 3 | Jalen Brunson named ECF MVP — 25.5 ppg/7.8 apg/3.3 rpg/48.7% FG; first Knick to win since Patrick Ewing 1999; G1: 38 pts 44-11 comeback; G2: career-high 14 ast; G3: 30 pts; G4: 15 pts closeout | 2 | NEW STORY |
+| 4 | NBA Finals schedule — G1 June 3 at OKC/SA 8:30 PM ET; G3 June 8 at MSG; G4 June 10 at MSG; Knicks no home-court (OKC 64-18, SA 62-20 vs NYK 53-29) | 2 | NEW STORY |
+| 5 | Knicks 11-game playoff win streak — fourth team in NBA history; 130.5 offensive rating; 32-5 second-chance pts G4; swept Hawks, 76ers, Cavaliers | 2 | NEW STORY |
+
+### STORY 1: Knicks 130-93 Cavaliers — ECF Game 4, First Finals Since 1999
+- **Tier:** 1
+- **Category:** Playoff Results / ECF Sweep
+- **Key facts:** Knicks 130, Cavaliers 93 (May 25, Rocket Mortgage FieldHouse, Cleveland). KAT: 19 pts, 14 reb. Brunson: 15 pts. Bridges: 15 pts. Shamet: 16 pts (off bench). Knicks led by 45; up 68-49 at half. Mitchell (CLE): 31 pts. 32-5 second-chance points advantage. 33-9 fast-break points advantage. Cavs swept for first time since 2018 Finals vs Golden State. Knicks: first NBA Finals since 1999. 11-game win streak. Knicks' offensive rating: 130.5 (best of 2026 playoffs). Finals Game 1: June 3 at OKC or SA, 8:30 PM ET.
+
+### STORY 2: WCF Game 5 TONIGHT — Thunder vs Spurs at Paycom Center
+- **Tier:** 1
+- **Category:** Game Preview / WCF
+- **Key facts:** May 26, Paycom Center, Oklahoma City, 8:30 PM ET, NBC/Peacock. Series 2-2 (SA won G4 103-82). OKC -5.5 (-218 ML). Spurs +180. O/U 215.5. Jalen Williams: questionable (hamstring). Ajay Mitchell: out. SGA: 19 pts (6-of-15 FG) in G4. Wemby: 33 pts/8 reb/5 ast/3 blk in G4. OKC held to 33%FG/18%3P in G4.
+
+### STORY 3: Jalen Brunson Named 2026 ECF MVP
+- **Tier:** 2
+- **Category:** Award / Player Spotlight
+- **Key facts:** Brunson named 2026 ECF MVP unanimously. Series averages: 25.5 ppg, 7.8 apg, 3.3 rpg, 48.7% FG. First Knick since Patrick Ewing in 1999. G1: 38 pts, 6 ast, 5 reb, 3 stl (44-11 comeback); G2: 19 pts, 14 ast (career-high); G3: 30 pts; G4: 15 pts.
+
+### STORY 4: NBA Finals Schedule
+- **Tier:** 2
+- **Category:** Preview / Finals Schedule
+- **Key facts:** G1: June 3 at OKC/SA 8:30 PM ET. G2: June 5 at OKC/SA. G3: June 8 MSG. G4: June 10 MSG. G5: June 13 at OKC/SA (if needed). G6: June 16 MSG (if needed). Knicks no home-court: OKC 64-18, SA 62-20 vs NYK 53-29.
+
+### STORY 5: Knicks 11-Game Playoff Win Streak
+- **Tier:** 2
+- **Category:** Feature / Historical Context
+- **Key facts:** 11 consecutive playoff wins. Fourth team in NBA history to reach that mark in one postseason. 130.5 offensive rating (best 2026 playoffs). G4: 32-5 second-chance pts, 33-9 fast break pts. Swept Hawks (R1), 76ers (R2), Cavaliers (ECF).
+
+## 2026-05-25
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spurs 103-82 Thunder WCF G4 (May 24, Frost Bank Center SA) — Wemby 33/8reb/5ast/3blk; Castle 13/6ast; Fox 12/10reb; Vassell 13; SGA 19 (6-15 FG); OKC 33% FG/18% 3P; Spurs 16-0 Q1 run; led by 25; 40-ft halftime buzzer beater (longest Spurs playoff make since 2014); WCF tied 2-2; G5 Tue May 26 Paycom OKC 8:30 PM ET NBC/Peacock | 1 | FOLLOW-UP |
+| 2 | ECF G4 TONIGHT — Knicks vs Cavs at Rocket Mortgage FieldHouse Cleveland, 8 PM ET ABC; Knicks lead 3-0; Knicks -2.5; O/U 217.5; no injury concerns; Harden 1-of-8 from 3 G3; Mitchell averaging ~25 series; no team has ever come back from 3-0 in NBA history | 1 | FOLLOW-UP |
+| 3 | Wembanyama's 40-foot half-court buzzer beater — three dribbles, center court; longest Spurs playoff make since 2014 GeniusIQ tracking; longest career make; Spurs led 50-38 at half; 22 pts before half; also had opening 27-footer (24 sec in) and Holmgren block | 2 | NEW STORY |
+| 4 | WCF G5 preview — Thunder at Paycom Center OKC, Tue May 26, 8:30 PM ET NBC/Peacock; OKC -5.5 (-218 ML); Spurs +180; O/U 215.5; series tied 2-2; OKC went 8-0 pre-series; SGA must bounce back from 6-15 G4 | 2 | NEW STORY |
+| 5 | Harden's moment of truth / ECF G4 storylines — Harden 1-of-8 from 3 G3; 6 TOs G1; Mitchell 29 G1/23 G3; Cavs 6-1 at home pre-ECF; Cleveland last stand in front of home crowd; no team has overcome 3-0 | 2 | NEW STORY |
+
+### STORY 1: Spurs 103-82 Thunder — WCF Game 4, Series Tied 2-2
+- **Tier:** 1
+- **Category:** Playoff Results / WCF
+- **Key facts:** Spurs 103, Thunder 82 (May 24, Frost Bank Center, San Antonio). Wembanyama: 33 pts (11-22 FG), 8 reb, 5 ast, 3 blk; 22 pts in first half. Castle: 13 pts, 3 reb, 6 ast. Vassell: 13 pts, 6 reb, 3 ast. Fox: 12 pts, 10 reb, 5 ast. SGA (OKC): 19 pts (6-15 FG). OKC: 33% FG, 18% from 3. Spurs 16-0 Q1 run; led by 25; Spurs led 96% of game. Wemby 40-foot half-court buzzer beater to end first half (longest Spurs playoff make since GeniusIQ tracking began 2014; longest career make). Spurs led 50-38 at half. Series: Tied 2-2. WCF G5: Tue May 26, Paycom Center, OKC, 8:30 PM ET, NBC/Peacock.
+
+### STORY 2: ECF Game 4 Preview — TONIGHT
+- **Tier:** 1
+- **Category:** Game Preview / ECF
+- **Key facts:** May 25, Rocket Mortgage FieldHouse, Cleveland, 8 PM ET, ABC. Knicks lead 3-0. No team has ever come back from 3-0 in NBA history. Both rosters clean on injury report. Knicks -2.5 (-130 ML); Cavs +110 ML. O/U 217.5. Brunson averaging ~26 in ECF. Harden: 1-of-8 from 3 G3; 6 TOs G1. Mitchell: averaging ~25 in ECF (29 G1, 23 G3). Cavs were 6-1 at home pre-ECF. Knicks win = first Finals since 1999.
+
+### STORY 3: Wembanyama's 40-Foot Half-Court Buzzer Beater
+- **Tier:** 2
+- **Category:** Feature / Highlight Moment
+- **Key facts:** 40-foot half-court shot to end first half. Three dribbles from near Spurs bench to center court. Longest Spurs playoff make since GeniusIQ began tracking in 2014. Longest field goal of Wembanyama's career. Set tone with 27-footer at 24 sec of game and Holmgren block in first 2 min. Wemby had 22 pts before half. Spurs led 50-38 at half.
+
+### STORY 4: WCF Game 5 Preview
+- **Tier:** 2
+- **Category:** Game Preview / WCF
+- **Key facts:** Tue May 26, Paycom Center, OKC, 8:30 PM ET, NBC/Peacock. Series 2-2. OKC -5.5 (-218 ML). Spurs +180 ML. O/U 215.5. OKC went 8-0 pre-series (swept Suns and Lakers). SGA must bounce back from 19 pts (6-15 FG) in G4. Spurs G6 would be May 28 in SA.
+
+### STORY 5: ECF Game 4 Storylines — Harden Factor
+- **Tier:** 2
+- **Category:** Feature / Player Spotlight
+- **Key facts:** Harden: 1-of-8 from 3 G3; 6 TOs G1. Mitchell: 29 G1, 23 G3, averaging ~25 in ECF. Mobley: 24 G3. Cavs 6-1 at home pre-ECF. No team has ever overcome 3-0. Knicks 10-game winning streak; 130.5 off rating; averaging 26 pts from Brunson in ECF. Game 4: tonight 8 PM ET ABC Cleveland.
+
+## 2026-05-24
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks 121-108 Cavs ECF G3 (May 23, Cleveland) — Brunson 30/10-19FG; Bridges 22/11-15FG/3stl; OG 21/7reb/4ast; KAT 13/8reb/7ast; Hart 12/9reb/5stl; Mobley 24 (Cavs); Mitchell 23; Knicks 10-game win streak; lead ECF 3-0; ECF G4 Mon May 25 Cleveland 8 PM ET ABC | 1 | FOLLOW-UP |
+| 2 | Thunder 123-108 Spurs WCF G3 (May 22, SA) — SGA 26/12ast/12-12 FT; McCain 24 off bench; Jaylin Williams 18 in 22 min; Wemby 26 (Spurs); OKC bench 76-23 over Spurs bench; Thunder lead WCF 2-1; WCF G4 tonight 8 PM ET NBC/Peacock | 1 | FOLLOW-UP |
+| 3 | WCF G4 preview TONIGHT — Thunder vs Spurs at AT&T Center SA, 8 PM ET NBC/Peacock; OKC leads 2-1; Spurs favored -2.5; Wemby 41.7 min/gm; OKC bench averaging 61 pts/gm | 2 | NEW STORY |
+| 4 | Knicks one win from first NBA Finals since 1999 — 27-year drought; 10-game win streak; 130.5 offensive rating (best of 2026 playoffs); ECF G4 Mon May 25 | 2 | NEW STORY |
+| 5 | ECF G4 preview — Cavs' last stand in Cleveland; no team has ever overcome 3-0 in NBA history; Mitchell 23 G3, Mobley 24 G3; Harden key variable; Mon May 25 8 PM ET ABC | 2 | NEW STORY |
+
+### STORY 1: Knicks 121-108 Cavaliers — ECF Game 3, 3-0 Lead
+- **Tier:** 1
+- **Category:** Playoff Results / ECF
+- **Key facts:** Knicks 121, Cavaliers 108 (May 23, Rocket Mortgage FieldHouse, Cleveland). Brunson: 30 pts (10-19 FG, 0-4 3P, 10-12 FT), 6 ast, 3 reb. Bridges: 22 pts (11-15 FG), 6 reb, 3 stl, 2 blk. OG: 21 pts, 7 reb, 4 ast. KAT: 13 pts, 8 reb, 7 ast, 3 stl. Hart: 12 pts, 9 reb, 4 ast, 5 stl. Mobley (Cavs): 24 pts, 6 reb. Mitchell (Cavs): 23 pts, 3 stl. Knicks 10-game win streak. Offensive rating: 130.5/100 (best of 2026 playoffs). Series: NYK 3-0. ECF G4: Mon May 25, Cleveland, 8 PM ET, ABC.
+
+### STORY 2: Thunder 123-108 Spurs — WCF Game 3, Thunder Lead 2-1
+- **Tier:** 1
+- **Category:** Playoff Results / WCF
+- **Key facts:** Thunder 123, Spurs 108 (May 22, AT&T Center, San Antonio). SGA: 26 pts, 12 ast, 12-for-12 FT. McCain: 24 pts off bench. Jaylin Williams: 18 pts in 22 min, 4-pt play in 4th. Wemby (Spurs): 26 pts (8-15 FG), 4 reb, 3 ast, 2 blk. OKC bench: 76 pts; Spurs bench: 23 pts. OKC came back from 15-pt deficit. Series: OKC 2-1. WCF G4: tonight May 24, 8 PM ET, AT&T Center, NBC/Peacock.
+
+### STORY 3: WCF Game 4 Preview — TONIGHT
+- **Tier:** 2
+- **Category:** Game Preview / WCF
+- **Key facts:** May 24, AT&T Center, San Antonio, 8 PM ET, NBC/Peacock. OKC leads 2-1. Spurs favored -2.5. Wemby 41.7 min/game; Spurs +21 with him, -38 without. OKC bench avg 61 pts/game; Spurs avg 21.3. OKC looking for 3-1 lead.
+
+### STORY 4: Knicks One Win From NBA Finals Since 1999
+- **Tier:** 2
+- **Category:** Feature / Historic Context
+- **Key facts:** Last Finals: 1999 (lost to Spurs in 5). 10-game win streak (franchise record). 130.5 offensive rating (best among 2026 playoff teams). Shot 60% FG, ~40% 3P during streak. Swept 76ers in East Semis. ECF G4 Mon May 25, Cleveland.
+
+### STORY 5: ECF Game 4 Preview — Cavaliers' Last Stand
+- **Tier:** 2
+- **Category:** Game Preview / ECF
+- **Key facts:** Mon May 25, Rocket Mortgage FieldHouse, Cleveland, 8 PM ET, ABC. No team has ever come back from 3-0 in NBA playoff history. Mitchell: 23 pts G3. Mobley: 24 pts G3. Harden key factor. Cleveland was 6-1 at home in 2026 playoffs before ECF. Knicks win = first Finals since 1999.
+
 ## 2026-05-21
 
 | # | Story | Tier | Tag |

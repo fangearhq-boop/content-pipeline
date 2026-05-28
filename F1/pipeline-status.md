@@ -1,10 +1,47 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-22
+- **Date**: 2026-05-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-27
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-27.xlsx (6 posts) + f1fr-postplanner-tobi-2026-05-27.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-27/review-dashboard.html (16 items)
+- **Notes:** Russell "pressure's off" Monaco mindset (battery Lap 30 Canada, 43 pts down Antonelli 131-88); Monaco 2-stop rule SCRAPPED for 2026 (FIA free strategy returns, June 5-7); Leclerc Monaco homecoming (2024 winner, SF-26 suits slow corners, Antonelli "Ferrari will be team to beat"); RBPT first F1 podium (Verstappen P3 Canada, Mekies "truly historic"); Wolff team orders dilemma (Sprint contact, race swaps, Monaco narrow streets)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+### 2026-05-26
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-26.xlsx (6 posts) + f1fr-postplanner-tobi-2026-05-26.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-26/review-dashboard.html (21 items)
+- **Notes:** Antonelli wins Canadian GP (P1 Antonelli, P2 Hamilton +10.7s, P3 Verstappen +11.2s; Russell DNF Lap 30 power unit failure); Russell headrest incident / FIA investigation / suspended €5k fine / apology; championship: Antonelli 131 pts, Russell 88 pts (gap 43); Monaco GP June 5-7 (Ferrari favored; Antonelli says "Ferrari will be the team to beat"); Hamilton P2 — best Ferrari 2026 result / no-simulator approach
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+### 2026-05-24 (NOTE: Content based on sprint data — actual race won by Antonelli, not Russell)
+
+## Pipeline Run Log
+
+### 2026-05-24
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-05-24.xlsx (6 posts) + f1fr-postplanner-tobi-2026-05-24.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-24/review-dashboard.html (26 items)
+- **Notes:** Russell wins Canadian GP (70 laps, Gilles-Villeneuve); Verstappen P2; Red Bull protest rejected after 5+ hrs; Wolff "embarrassing"; Mercedes first 2026 race win; Sprint: Russell P1, Norris P2, Antonelli P3; qualifying pole Russell 1:12.578 (+0.068s over Antonelli); championship narrows (Antonelli 106 → Russell 88 after sprint, race win closes further); Monaco GP next: June 7
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-22
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
@@ -17,8 +54,6 @@
 - **Notes:** Canada GP sprint weekend underway at Circuit Gilles Villeneuve (first-ever sprint at this circuit); Sprint Qualifying TONIGHT 9:30 PM ET; Hamilton 7 Canadian GP wins targeting first Ferrari win; Russell must-win vs Antonelli (trails 80-100); Mercedes W17 major upgrade (~0.3 sec/lap, aero floor revision); Verstappen 7th/26 pts seeking reset after Nurburgring DNF
 - **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
-## Pipeline Run Log
-
 ### 2026-05-21
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
@@ -27,33 +62,5 @@
 - **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
 - **PostPlanner exports:** f1fr-postplanner-2026-05-21.xlsx (6 posts) + f1fr-postplanner-tobi-2026-05-21.xlsx (6 TOBI posts)
 - **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-21/review-dashboard.html (26 items)
-- **Notes:** Canada GP sprint weekend starts tomorrow (first-ever sprint at Gilles Villeneuve); Antonelli 100 pts, 20 ahead of Russell, chasing 4-for-4; Hamilton dumps simulator (China P3 was no-sim race); Norris/McLaren won Miami Sprint (first non-Mercedes 2026 win); Verstappen back from Nurburgring DNF heartbreak (30+ sec lead, driveshaft failure 3hr from end); Sprint Quali Fri May 22 9:30 PM ET, Sprint Sat May 23 5 PM ET, Quali Sat 9 PM ET, Race Sun May 24
+- **Notes:** Canada GP sprint weekend starts tomorrow (first-ever sprint at Gilles-Villeneuve); Antonelli 100 pts, 20 ahead of Russell, chasing 4-for-4; Hamilton dumps simulator (China P3 was no-sim race); Norris/McLaren won Miami Sprint (first non-Mercedes 2026 win); Verstappen back from Nurburgring DNF heartbreak (30+ sec lead, driveshaft failure 3hr from end); Sprint Quali Fri May 22 9:30 PM ET, Sprint Sat May 23 5 PM ET, Quali Sat 9 PM ET, Race Sun May 24
 - **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
-
-### 2026-05-19
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 6 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
-- **PostPlanner exports:** f1fr-postplanner-2026-05-19.xlsx (6 posts) + f1fr-postplanner-tobi-2026-05-19.xlsx (6 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-05-19/review-dashboard.html (21 items)
-- **Notes:** Verstappen Nürburgring 24H DNF after leading by 30+ secs (driveshaft failure, 4 hrs from end); Mercedes-AMG No.80 wins (first in 10 years); Russell must-win Canada (won from pole 2025, trails Antonelli by 20 pts); Antonelli 3-for-3 poles/wins pursuing 4-for-4; Ferrari constructors lead 44→16 pts (Japan→Miami), need Canada response; Norris 51 pts P2 in Miami, 29 behind Russell in 2nd. Canada GP: Sprint Qualifying Fri May 22 9:30 PM ET, Sprint Sat May 23 5 PM ET, Quali Sat 9 PM ET, Race Sun May 24 ~2 PM ET.
-- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
-
-### 2026-05-18
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
-- **PostPlanner exports:** f1fr-postplanner-2026-05-18.xlsx + tobi
-- **Notes:** Mercedes Canada upgrade 0.3s/lap; Canada sprint weekend guide (May 22-24); McLaren dark horse threat; Red Bull structural crisis; championship math before summer break.
-- **WordPress:** Blocked by egress proxy
-
-### 2026-05-16
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
-- **Notes:** Verstappen Nürburgring 24 Hours debut (Mercedes-AMG GT3, qualified 4th, race started May 16). Lambiase confirmed leaving Red Bull for McLaren; Verstappen exit clause at Hungarian GP July 24-26. Antonelli leads championship 100 pts (3 wins, 3 poles), first ever 3-from-3 pole-to-win consecutive. Canada GP next (May 22-24, first-ever sprint at Gilles-Villeneuve). Mercedes constructors dominant at 180 pts.
-- **WordPress:** Blocked by egress proxy

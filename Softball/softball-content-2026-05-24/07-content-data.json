@@ -1,0 +1,334 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-24",
+  "compiled_at": "2026-05-24T10:15:02.795342+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "9:15 AM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "X",
+      "type": "Story 3"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "X",
+      "type": "Story 3"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "X",
+      "type": "Story 4"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "X",
+      "type": "Story 5"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "X",
+      "type": "Story 6"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Three Game 3s Today — Final WCWS Spots and Wells' HR Record on the Line (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Three Game 3s today. Final WCWS spots on the line.\n\n🥎 Noon — Florida vs Texas Tech (Gainesville)\n🥎 1:30 PM ET — Miss State vs Oklahoma (ESPN)\n🥎 TBD — Arizona State vs Texas\n\nThe WCWS field is complete by tonight. Set your alarms.",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 229
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kendall Wells enters Game 3 with 39 home runs.\n\nMegan Grant's all-time record: 40.\n\nOne swing = a tie.\n\nWells hits in Norman today. History could happen this afternoon. 🥎 #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Sooners"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "🥎 THE WCWS FIELD GETS DECIDED TODAY 🥎\n\nToday is the biggest day of the softball postseason.\n\nThree Super Regional series are tied 1-1 and go to deciding Game 3s this afternoon. Three WCWS berths. Three programs whose seasons end today. And one of those three games — Oklahoma vs. Mississippi State at 1:30 PM ET on ESPN — carries an extra storyline that has been building all year.\n\nHere's the schedule:\n\n🥎 Noon ET — Florida vs. Texas Tech (Gainesville) — Florida won 10-2 to even the series after Texas Tech took Game 1. Texas Tech's 56-7 record vs. Florida's home field.\n\n🥎 1:30 PM ET — Mississippi State vs. Oklahoma (ESPN, Norman) — The series that had everything. Miss State stunned OU 11-9 in Game 1. Oklahoma answered 7-1 in Game 2. Now it's down to one game. And Kendall Wells enters with 39 home runs — one shy of Megan Grant's all-time NCAA record.\n\n🥎 TBD — Arizona State vs. Texas (Austin) — ASU upset the defending national champions 4-1 in Game 1. Texas survived 4-3 in Game 2. Now Texas must win at home to keep their WCWS run alive.\n\nThree games. Three programs playing for survival. And Kendall Wells one swing away from history.\n\nDevon Park opens May 28. By tonight, we'll know who's going.\n\n[Which Game 3 are you most excited to watch today?] 👇\n\n---",
+        "image_caption": "Three Game 3s today determine the last 3 WCWS spots. OU-MSU (1:30 PM ET ESPN) features Wells at 39 HRs — one swing from tying the all-time NCAA record. FL-TTech and TEX-ASU also deciding today. 🥎 #SoftballSunday",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-three-game-3s-sunday-final-wcws-spots-wells-hr-record.html",
+        "headline": "Three Game 3s Sunday: The WCWS Field and Wells' HR Record All Decided Today",
+        "word_count": 696
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Three Game 3s Today\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Split/montage concept — three softball action images representing the three programs (Oklahoma, Florida, Texas) or a single dramatic at-bat image; tournament atmosphere\n- **Photo Search Terms (Imagn):**\n  1. Kendall Wells Oklahoma\n  2. Oklahoma softball Love's Field\n  3. Florida Gators softball\n  4. Texas Longhorns softball\n- **Text Overlay:**\n  - Headline: \"3 GAME 3s TODAY\" (Poppins Bold, white, large)\n  - Subtitle: \"WCWS FIELD COMPLETE TONIGHT\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Single dramatic at-bat image works; Wells is most compelling subject; Norman home field atmosphere preferred\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Kendall Wells Oklahoma\n  2. NCAA softball super regional\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Nebraska 9-1 Over Oklahoma State — WCWS for First Time Since 2013 (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Nebraska just ended a 13-year WCWS drought.\n\n9-1 run rule over Oklahoma State. Seven-run fifth inning.\n\n51-6 on the season. 26-game win streak. The Huskers are going to Devon Park. 🥎 #Huskers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers"
+          ],
+          "char_count": 191
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Nebraska hasn't been to the WCWS since 2013.\n\n26 games later, that drought is over.\n\n51-6. Longest active win streak in D-I softball. Devon Park, here come the Huskers. 🥎 #Huskers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Huskers"
+          ],
+          "char_count": 179
+        }
+      ],
+      "facebook": {
+        "long_form": "🌽 NEBRASKA IS GOING TO THE WCWS 🌽\n\nIt has been 13 years. The Huskers waited 13 years.\n\nSaturday afternoon in Lincoln, Nebraska run-ruled Oklahoma State 9-1 — using a seven-run fifth inning — to complete the Super Regional sweep and punch their ticket to Devon Park for the first time since 2013.\n\nThis is what that means:\n\n51-6 final record. Not a typo. Fifty-one wins and six losses.\n\nA 26-game winning streak — the longest active streak in Division I softball and the longest in Nebraska program history.\n\nThe eighth Women's College World Series appearance in program history, and the first since a 13-year drought that frustrated one of the most passionate fanbases in the Big Ten.\n\nNebraska won 8-1 on Friday, then came back Saturday and used that five-inning burst to take care of business. The Huskers didn't let the moment get big. They swept their Super Regional and they looked every bit like a team that could win a national championship.\n\nBob Devaney Stadium sold out. The fans who waited 13 years watched it happen. Nebraska softball is going to Oklahoma City.\n\n🔴 Devon Park | May 28 | Nebraska is IN 🥎\n\n[Nebraska fans — is this the year the drought ends with a title?] 👇\n\n---",
+        "image_caption": "Nebraska sweeps Oklahoma State 2-0 (8-1, 9-1) — WCWS for the first time since 2013! 51-6 season record. 26-game win streak. The Huskers are heading to Devon Park. 🌽🥎 #Huskers #GBR",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nebraska-ends-13-year-wcws-drought-26-game-win-streak.html",
+        "headline": "Nebraska Ends 13-Year WCWS Drought with Dominant Super Regional Sweep",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nebraska 9-1 — WCWS First Time Since 2013\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Nebraska players celebrating at Bowlin Stadium; or Nebraska pitcher/batter in action in Husker red\n- **Photo Search Terms (Imagn):**\n  1. Nebraska Cornhuskers softball\n  2. Nebraska softball Bowlin Stadium\n  3. Nebraska softball pitcher\n  4. Nebraska softball celebration\n- **Text Overlay:**\n  - Headline: \"HUSKERS ARE WCWS-BOUND\" (Poppins Bold, white, large)\n  - Subtitle: \"FIRST TIME SINCE 2013 — 26-GAME STREAK\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Red Nebraska uniform prominent; celebration or triumphant moment; Bowlin Stadium crowd backdrop preferred\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Nebraska Cornhuskers softball\n  2. Nebraska softball pitcher\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Arkansas Makes History — First WCWS in Program History (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Arkansas just made the WCWS for the first time in program history.\n\n10-2 over Duke. Sweep completed. Devon Park is real.\n\nCourtney Deifel was 0-for-5 in Super Regionals. That streak is over. 🥎 #WPS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WPS"
+          ],
+          "char_count": 197
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Courtney Deifel's program had never been to the WCWS.\n\nNine straight NCAA appearances. Five Super Regional losses.\n\nToday, Arkansas ended that narrative forever. This is the biggest moment in Razorback softball history. 🥎 #WPS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WPS"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "🐗 ARKANSAS IS GOING TO THE WCWS FOR THE FIRST TIME EVER 🐗\n\nLet that sink in.\n\nArkansas softball. Devon Park. Women's College World Series.\n\nFor the first time in program history.\n\nCoach Courtney Deifel built this program from the ground up. She arrived in Fayetteville and took an Arkansas team that had never been to a Super Regional and turned them into a program that now goes to them every year. Nine straight NCAA Tournament appearances. Nine years of building, recruiting, developing.\n\nAnd five Super Regional losses.\n\nFive times they knocked on the door and couldn't get through. The 2026 Fayetteville Super Regional against Duke was supposed to be no different to skeptics. But Deifel's team swept Duke in two games — 14-5 on Friday and 10-2 on Saturday — and they are going to Oklahoma City.\n\nBogle Park delivered like it always does. The Fayetteville crowd showed up. The Razorbacks did what Deifel has been working toward.\n\nThe history is real. The wait is over. Arkansas softball is in the WCWS.\n\n🐗 Devon Park | May 28 | Arkansas is IN — For the First Time 🥎\n\n[Arkansas fans — how many times did you think this day would never come?] 👇\n\n---",
+        "image_caption": "Arkansas beats Duke 10-2 to complete the Super Regional sweep — and clinch the FIRST WCWS appearance in program history! Courtney Deifel was 0-for-5 in Super Regionals before today. The drought is over. 🐗🥎 #WPS #Razorbacks",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-arkansas-first-wcws-program-history-deifel.html",
+        "headline": "Arkansas Reaches WCWS for First Time in Program History",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Arkansas First WCWS in Program History\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Arkansas players in celebration at Bogle Park; or Razorbacks pitcher on the mound in cardinal red\n- **Photo Search Terms (Imagn):**\n  1. Arkansas Razorbacks softball\n  2. Arkansas softball Bogle Park\n  3. Arkansas softball celebration\n  4. Courtney Deifel Arkansas\n- **Text Overlay:**\n  - Headline: \"FIRST WCWS IN HISTORY\" (Poppins Bold, white, large)\n  - Subtitle: \"ARKANSAS RAZORBACKS — DEVON PARK BOUND\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Cardinal red uniform; celebration moment at Bogle Park most powerful; Deifel image if available adds emotional weight\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Arkansas Razorbacks softball\n  2. Arkansas softball pitcher\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Alabama Sweeps LSU — Crimson Tide Return to WCWS for 16th Time (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alabama swept LSU to advance to the WCWS.\n\nGame 1: Briski one-hit shutout, 11 strikeouts. 7-0.\nGame 2: Three-run 4th inning. 4-1.\n\nThe Crimson Tide's 16th WCWS. Devon Park, here they come. 🥎 #RollTide",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide"
+          ],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "🏆 ALABAMA IS GOING TO THE WCWS — AGAIN 🏆\n\nThe Crimson Tide swept their way through the Tuscaloosa Super Regional against LSU, and it wasn't close.\n\nGame 1, Friday: Jocelyn Briski walked out to the circle and gave LSU almost nothing. One hit. Eleven strikeouts. A 7-0 shutout that was so dominant it felt like the series might already be over.\n\nGame 2, Saturday: Alabama put up three runs in the fourth inning and won 4-1. Briski and the rest of Alabama's pitching staff combined to limit LSU to just one run across two games.\n\n11-1. That's the combined score for the series. Alabama outscored LSU by ten runs.\n\nThis is Alabama's 16th Women's College World Series appearance — one of the most remarkable run of consistency in the history of the sport. The Crimson Tide go to Devon Park regularly because they are built for it. Their pitching is elite. Their lineup is dangerous. Their coaching sets them up to compete deep into the bracket.\n\nLSU had a strong season — they outscored their Regional opponents 23-2 to get here. But Alabama's pitching staff shut them down when it mattered.\n\nDevon Park opens May 28. Alabama will be ready.\n\n🏆 16th WCWS | Devon Park | May 28 🥎\n\n[Alabama fans — is this the year they bring home another title?] 👇\n\n---",
+        "image_caption": "Alabama sweeps LSU 2-0 (7-0, 4-1) — Briski one-hit shutout with 11 Ks in Game 1! Alabama is heading to their 16th Women's College World Series. 🏆🥎 #RollTide",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alabama-sweeps-lsu-16th-wcws-briski-shutout.html",
+        "headline": "Alabama Sweeps LSU with Dominant Pitching to Advance to 16th WCWS",
+        "word_count": 500
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Sweeps LSU\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Jocelyn Briski pitching at Rhoads Stadium; or Alabama celebration after clinching\n- **Photo Search Terms (Imagn):**\n  1. Jocelyn Briski Alabama\n  2. Alabama Crimson Tide softball\n  3. Alabama softball Rhoads Stadium\n  4. Alabama softball pitcher\n- **Text Overlay:**\n  - Headline: \"BAMA SWEEPS — 16th WCWS\" (Poppins Bold, white, large)\n  - Subtitle: \"BRISKI 11 Ks, 1 HIT IN GAME 1\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Briski in pitching motion; Alabama crimson uniform; Rhoads Stadium backdrop preferred\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Alabama softball pitcher\n  2. Alabama Crimson Tide softball\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "UCLA Sweeps UCF — Megan Grant's Bruins Head to Devon Park (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Megan Grant hit 40 home runs this season — the all-time NCAA record.\n\nNow her UCLA Bruins are going to Devon Park for the WCWS.\n\nAnd Kendall Wells (39 HRs) is trying to join her today. 🥎 #GoBruins",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoBruins"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "🔵 MEGAN GRANT IS GOING TO THE WCWS 🔵\n\nLet's talk about what that means.\n\nMegan Grant broke the all-time NCAA single-season home run record this year. She's sitting at 40 — more than any player in the history of the sport. She earned that record with her UCLA team still in the tournament, which means she gets one more stage to perform on.\n\nThe biggest stage in college softball.\n\nUCLA swept UCF in the Los Angeles Super Regional — 9-1 in a run-rule Friday (Rylee Slimp hit the walk-off three-run homer to end it early), then won again convincingly on Saturday. The Bruins earned their WCWS spot with two dominant home performances, and they send Grant to Devon Park with a chance to extend the all-time record.\n\nAnd here is the part that makes Devon Park even more compelling: Kendall Wells (Oklahoma) enters today's Game 3 with 39 home runs — one behind Grant. If Wells wins today and advances to the WCWS, the all-time home run race will have a final chapter in Oklahoma City.\n\nTwo players. One all-time record. The WCWS.\n\nUCF made their second Super Regional appearance in program history and won hearts along the way. But UCLA's talent was too much. Grant goes to Devon Park.\n\n🔵 Devon Park | May 28 | UCLA and Megan Grant are IN 🥎\n\n[Softball fans — do you think Wells can catch Grant before the WCWS is over?] 👇\n\n---",
+        "image_caption": "UCLA sweeps UCF in the Los Angeles Super Regional — Megan Grant (40 HRs, all-time NCAA record) is going to the WCWS! If Wells wins today's Game 3, the all-time HR race heads to Devon Park. 🔵🥎 #GoBruins",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ucla-sweeps-ucf-megan-grant-wcws-devon-park.html",
+        "headline": "UCLA Sweeps UCF — Megan Grant's Bruins Head to Devon Park",
+        "word_count": 546
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "UCLA Sweeps UCF — Grant WCWS\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Megan Grant at the plate at Easton Stadium in UCLA blue and gold; or home run follow-through\n- **Photo Search Terms (Imagn):**\n  1. Megan Grant UCLA\n  2. UCLA Bruins softball\n  3. UCLA softball Easton Stadium\n  4. UCLA softball home run\n- **Text Overlay:**\n  - Headline: \"GRANT'S BRUINS — WCWS BOUND\" (Poppins Bold, white, large)\n  - Subtitle: \"40 HRs — ALL-TIME NCAA RECORD — DEVON PARK\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Grant home run swing preferred; UCLA blue and gold uniform; Easton Stadium LA backdrop\n\n**Article Hero (1200×630 — 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):**\n  1. Megan Grant UCLA\n  2. UCLA Bruins softball\n- **Text Overlay:** none\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "WCWS Preview — Devon Park Opens May 28 With Five Confirmed Teams (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The 2026 WCWS field is almost complete.\n\n✅ Tennessee\n✅ Nebraska\n✅ Arkansas\n✅ Alabama\n✅ UCLA\n⏳ Florida or Texas Tech\n⏳ Oklahoma or Mississippi State\n⏳ Texas or Arizona State\n\nDevon Park opens May 28. 🥎",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 200
+        }
+      ],
+      "facebook": {
+        "long_form": "🥎 DEVON PARK IS 4 DAYS AWAY 🥎\n\nLet's check in on the 2026 WCWS field.\n\nFive teams are officially in. Three spots get decided today.\n\n✅ **Tennessee** (47-10) — Back-to-back WCWS. Karlyn Pickens and Sage Mardjetko had complete game wins in consecutive games to sweep Georgia in the Super Regional. This team is built to win in OKC.\n\n✅ **Nebraska** (51-6) — 26-game winning streak. First WCWS since 2013. One of the most dominant teams in the country this season.\n\n✅ **Arkansas** — First WCWS in program history. Courtney Deifel's breakthrough after five Super Regional heartbreaks. Devon Park has a first-timer who absolutely belongs there.\n\n✅ **Alabama** — 16th WCWS appearance. Briski's one-hit shutout and the pitching staff's dominance across the Super Regional says this team is ready.\n\n✅ **UCLA** — Megan Grant (40 HRs, all-time NCAA record) heads to Devon Park with a chance to extend her record.\n\nThree spots still TBD from today:\n⏳ Florida vs. Texas Tech (Gainesville)\n⏳ Oklahoma vs. Mississippi State (Norman — Wells at 39 HRs)\n⏳ Texas vs. Arizona State (Austin — defending champs fighting for survival)\n\nDevon Park opens May 28. We'll have the full bracket and first-round matchups soon.\n\n[Who do you think wins the 2026 national championship?] 👇\n\n---",
+        "image_caption": "Five teams are set for the 2026 WCWS: Tennessee, Nebraska, Arkansas, Alabama, and UCLA. Three more spots decided today. Devon Park opens May 28. 🥎 #WCWS2026",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCWS Preview\n\n**Social Image (1080×1350 — 4:5 vertical)**\n\n- **Visual Description:** Devon Park exterior or generic WCWS atmosphere image; collage-feel with multiple team colors\n- **Photo Search Terms (Imagn):**\n  1. Devon Park softball\n  2. Women's College World Series softball\n  3. NCAA softball tournament\n  4. college softball crowd\n- **Text Overlay:**\n  - Headline: \"WCWS 2026 IS ALMOST HERE\" (Poppins Bold, white, large)\n  - Subtitle: \"5 TEAMS IN — 3 SPOTS TBD — MAY 28\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Devon Park or generic tournament atmosphere; bright daylight tournament feel preferred\n\n**Article Hero:** N/A (no article for Story 6 — Tier 3 social-only)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 9,
+    "facebook_posts_count": 6,
+    "articles_count": 5,
+    "image_concepts_count": 6
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

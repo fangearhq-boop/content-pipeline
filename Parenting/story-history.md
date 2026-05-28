@@ -2,6 +2,201 @@
 
 ---
 
+## May 27, 2026
+
+### Story 1: Bellabu Bear Children's Sherpa Robes Recall — CPSC (1,300 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall. ~1,300 Bellabu Bear bamboo sherpa robes recalled; burn hazard (fails flammability standard for children's sleepwear). Prints: PAW Patrol, Minecraft, Minions, Batman, Justice League, Wonder Woman, Blaze, Trolls, Dora + holiday/novelty. Sizes S/M and M/L. Sold at Saks Fifth Avenue and Bellabubear.com/Saksfifthavenue.com Jan 2024–Jul 2025 ~$60. Neck label: "BB-NW12109." Full refund: 888-703-7752, help@bellabubear.com, bellabubear.com/pages/recall-childrens-sherpa-robes
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~1,300 units; burn hazard; flammability standard violation; familiar character prints; ~$60; Jan 2024–Jul 2025; 888-703-7752; help@bellabubear.com; Source: CPSC.gov, Bellabubear.com recall page, MyParisTexas
+
+### Story 2: D20 Superintendent Change — Interim Dr. Susan Field Named
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Academy School District 20 board fired Superintendent Jinger Haberer May 15 (insubordination + unauthorized person at May 7 board meeting, compromised attorney-client privilege); board voted unanimously. Dr. Susan Field named interim May 19; 19 years with D20; former principal Woodmen-Roberts Elementary; current Asst. Superintendent for Learning Services; serves through 2026-27. District: "remains strong, stable and focused."
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Haberer fired May 15, 2026; Dr. Susan Field interim from May 19; 19 years D20; Woodmen-Roberts principal; Asst. Superintendent Learning Services; serves through 2026-27; Source: KRDO, KKTV, KOAA, Colorado Springs Gazette, Fox21 News
+
+### Story 3: PPLD Summer Adventure 2026 — Sign Up June 1
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pikes Peak Library District Summer Adventure reading/activity program starts June 1 at all PPLD branches. Free, all ages, prizes. Bonus: D11 free lunch mobile unit at East Library weekdays in June and July for any youth under 18. Teen volunteer spots available. ppld.org
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** June 1 sign-up; any PPLD branch; all ages; prizes; free; D11 free lunch at East Library weekdays June–July, under 18; ppld.org; Source: PPLD.org Summer Adventure page, PPLD Teen Summer Volunteer page
+
+### Story 4: Vevor Baby Swings Recalled — Suffocation Hazard (1,020 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Sanven Technology recalls ~1,020 Vevor baby swings; suffocation hazard; incline >10° violates Safe Sleep for Babies Act and mandatory infant sleep product standard. Models BB501K/BB702A/BB005K; sold Vevor.com and Amazon Jan–Aug 2025; $65–$80. Full refund: cut cover in half, photo to recalling@vevor.com; 855-599-6320
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** ~1,020 units; suffocation; incline >10°; models BB501K/BB702A/BB005K; Amazon/Vevor.com; Jan–Aug 2025; $65–$80; 855-599-6320; recalling@vevor.com; Source: CPSC.gov, Mother.ly, WFMJ
+
+### Story 5: Summer Is Here — COS Family Summer Kick-Off Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (composite guide) — Post-Memorial Day COS summer guide. What's open now: pools (Monument Valley 220 Mesa Rd, Wilson Ranch 2335 Allegheny Dr), splash pads (Panorama + Venezia + Uncle Wilbur), Trackchair program. Starting June 1: PPLD Summer Adventure, D49 free meals (ages 1–18), Deerfield Hills spray ground, D11 East Library free lunch.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Monument Valley 220 Mesa Rd Mon–Sat 10–6 Sun 12–6; Wilson Ranch 2335 Allegheny Dr daily 10–6; splash pads free daily 10–6; June 1 = PPLD Summer Adventure + D49 free meals + Deerfield Hills; D11 East Library lunch weekdays; Source: City of COS Parks, PPLD.org, D49.org
+
+---
+
+## May 26, 2026
+
+### Story 1: Cosyland Tower Stool Recall — CPSC (125,200 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall May 2026. 125,200 Cosyland children's tower stools recalled; torso entrapment + fall hazard; 8 injuries reported. Models CS0003 + CS0092-4, sold on Amazon ~$70, Jan 2022–Jan 2025. Free repair kit: call 866-677-3889 or email customerservice@cosyland.com; cpsc.gov/Recalls
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 125,200 units; entrapment + fall hazard; 8 injuries; models CS0003 + CS0092-4; Amazon ~$70; Jan 2022–Jan 2025; free repair kit; 866-677-3889; customerservice@cosyland.com; Source: CPSC recall notice
+
+### Story 2: Fall Youth Sports Registration Open — Football Weigh-Ins Today
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — COS Parks & Rec fall youth sports registration open. Soccer $86, Tackle Football $126. Weigh-ins start today at Sports Office. Registration closes July 11. ColoradoSprings.gov/YouthSports
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Soccer $86; Tackle Football $126; registration closes July 11; football weigh-ins start May 26; ColoradoSprings.gov/YouthSports; Source: City of Colorado Springs Parks & Recreation
+
+### Story 3: D49 Free Summer Meals — June 1 Through June 19
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — District 49 offers free breakfast and lunch to all kids ages 1–18, June 1–19. No income requirements, no D49 enrollment needed. Program serves eastern COS/Falcon area. d49.org for locations and times.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Free breakfast + lunch; ages 1–18; June 1–19; no income verification; no D49 enrollment required; d49.org; Source: District 49
+
+### Story 4: D11 Graduation Season — Adult and Family Education Ceremony May 28
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 high school graduations held May 19–21 at Ed Robson Arena. Final ceremony: Adult and Family Education Graduation, Thursday May 28, 7 PM, Roy J. Wasson Academic Campus.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Palmer, Mitchell, Coronado, Doherty graduated May 19–20; Achieve/Tesla/Bijou/Odyssey May 21; Adult & Family Ed May 28 7 PM Wasson Campus; Ed Robson Arena at Colorado College; Source: D11 graduation schedule
+
+### Story 5: Trackchair Program Expanded — Two Guided Hikes Daily at 4 Parks
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — COS Parks Recreation and Cultural Services expanded 2026 Trackchair program. Two guided hikes per day, Wed–Sun, at Ute Valley Park, Red Rock Canyon Open Space, Blodgett Open Space, and Bluestem Prairie Open Space. Sessions 8–11 AM and 12–3 PM. Reservations required at coloradosprings.gov/parks.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Wed–Sun; 8–11 AM + 12–3 PM; 4 parks; expanded from 1 session/day to 2; all ability levels; reservations required; coloradosprings.gov/parks; Source: COS PRCS
+
+---
+
+## May 25, 2026
+
+### Story 1: Territory Days 2026 — Last Day Today (50th Anniversary)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 50th anniversary Territory Days wraps up today (May 25), 10 AM–6 PM, free admission. Historic Old Colorado City (W. Colorado Ave). 180+ vendors, 3 stages, 25+ bands, pony rides, gold panning, petting zoo, mechanical bull, gunfight reenactments, Native American dancers, live blacksmithing. Last chance this year.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 23-25 2026; 50th anniversary; today (Mon May 25) 10 AM–6 PM; free admission; Historic Old Colorado City W. Colorado Ave; 180+ vendors; 3 stages, 25+ bands; shopoldcoloradocity.com; Source: visitcos.com, shopoldcoloradocity.com, springsguide.com
+
+### Story 2: Splash Pads and Pools Open — Summer Water Guide 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Memorial Day weekend marks start of COS water season. Monument Valley Pool (220 Mesa Rd, opened May 23, Mon-Sat 10-6/Sun 12-6) + Wilson Ranch Pool (2335 Allegheny Dr, opened May 23, daily 10-6). Free: Panorama Park splash pad (May 24, daily 10-6) + Venezia Park Watering Hole (May 24, daily 10-6, 12+ features) + Deerfield Hills spray ground (June 1, daily 10-5). Uncle Wilbur Fountain (Acacia Park, opens May 25, daily 12-6). Portal Pool closed for years (mine shaft stabilization). City has 3 outdoor public pools total. YMCA partnership.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Monument Valley Pool 220 Mesa Rd Mon-Sat 10-6 Sun 12-6; Wilson Ranch Pool 2335 Allegheny Dr daily 10-6; Panorama Park free daily 10-6; Venezia Watering Hole free daily 10-6; Deerfield Hills June 1 free daily 10-5; Uncle Wilbur Acacia Park May 25 daily 12-6; Portal Pool closed, mine shaft project; 3 public pools total; ppymca.org; coloradosprings.gov/parks; Source: City of COS news release, KOAA, Colorado Springs Gazette May 23 2026
+
+### Story 3: CPSC Recall — Orb Funkee Squeeze Toys (Asbestos in Sand)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall May 2026. 121,000+ Orb Funkee squeeze toys recalled; fibrous tremolite (asbestos) in sand; sold at Walmart + Ollie's Bargain Outlet Feb 2025–Apr 2026, $5–$40. Model 17451 (large golden monkee) + model 41929 (small monkee assortment orange/purple/green); date code 3102491A. If sand leaked: mask + gloves + damp cloths + double-bag + local disposal. Refund: The Orb Factory 800-741-0089 Mon-Fri 8-4 ET; customerservice@orbtoys.com; cpsc.gov/Recalls
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Recalled by The Orb Factory; fibrous tremolite asbestos; 121,000+ units; Walmart + Ollie's; Feb 2025-Apr 2026; $5-$40; models 17451 + 41929; date code 3102491A; refund 800-741-0089; customerservice@orbtoys.com; cpsc.gov/Recalls; Source: CPSC.gov, The Hill, 9News, IndexBox, Newsweek, Fox Business
+
+### Story 4: MeadowGrass Music Festival — Last Day Today (Kids 12 Under Free)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 15th annual MeadowGrass Music Festival, Memorial Day weekend, Palmer Lake. Last day May 25. $79-$89 daily pass; kids 12 and under free with paid adult; military discount. Folk/Americana music, workshops, yoga, ropes course, archery, late-night shows.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 15th annual; May 23-25 2026; Palmer Lake (~25 miles from COS); $79-$89/day; kids 12 under free with paid adult; military discount; Source: 9News, rove.me
+
+### Story 5: Portal Pool Closed — Where COS Families Can Swim This Summer
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Portal Pool at Portal Park will not reopen this summer or for years; mine shaft stabilization project under Portal Park ongoing. City offers 3 outdoor public pools (Monument Valley, Wilson Ranch, and a third); YMCA partnership; season passes + swim lessons. Free spray grounds also available. Full summer swimming guide for COS families.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Portal Pool closed; mine shaft stabilization project; years from returning (Gazette May 23 2026); 3 outdoor public pools; Monument Valley Pool 220 Mesa Rd; Wilson Ranch Pool 2335 Allegheny Dr; YMCA partnership; ppymca.org; coloradosprings.gov/parks; Source: Colorado Springs Gazette May 23 2026, City of COS PRCS, KOAA
+
+---
+
+## May 24, 2026
+
+### Story 1: D11 Parents and Teachers Plan Picket at School Board
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 educators and parents organizing a picket at the school board after 300+ days without a contract since the board eliminated the 56-year CSEA teacher contract in July 2025. Educators and community members planning to attend the board meeting to call for resolution before the 2026-27 school year.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 300+ days without contract; CSEA; D11 School Board; contract eliminated July 2025; d11.org/boe/meetings; Source: KRDO, KOAA, local D11 coverage
+
+### Story 2: CPSC Recall — ABC Trading Toy Headband and Dinosaur Cage (Button Battery Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall announced May 22, 2026. Three ABC Trading products with unsecured button battery compartments: pink bow toy headband (6300RP), electronic pet dinosaur cage (8266/ZH998-22), and bird cage (ZH998-23). Sold at TOYZ and Joissu stores nationwide, Nov 2022–Oct 2025, $5–$9. Full refund via photo to recallabc@gmail.com.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Recall date May 22, 2026; models 6300RP, 8266/ZH998-22, ZH998-23; $5–$9; TOYZ + Joissu; Nov 2022–Oct 2025; no injuries; recallabc@gmail.com; cpsc.gov/Recalls; Poison Control 1-800-222-1222; Source: CPSC.gov official recall
+
+### Story 3: The New USAFA Visitor Center Is Open — A Free Family Day Trip for Colorado Springs
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — General Bradley and Zita Hosmer Visitor Center opened May 16, 2026 at U.S. Air Force Academy North Gate. Free admission, no base pass required, open daily 9 AM–5 PM. 34,000 sq ft, 7 themed galleries, interactive exhibits, 108-ft atrium with Front Range views. Part of City for Champions initiative.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Opened May 16, 2026; North Gate USAFA; free admission; no base pass; daily 9 AM–5 PM; 34,000 sq ft; 7 galleries; 108-ft atrium; visitcos.com; usafa.edu/visitors; Source: USAFA official, visitcos.com, local coverage
+
+### Story 4: D49 Is Opening a Student Success Center in August — Here's What It Offers
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — District 49 opening a Student Success Center at the former Falcon Elementary School of Technology building for the 2026-27 school year. Three programs: full-time preschool (Mon–Thu, Base49 before/after care), PEAK disability support programs, and Elevates 18-21 transition services (moving from community agencies into D49 itself).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Opens August 2026; Falcon Elementary School of Technology building; preschool Mon–Thu + Base49 before/after + Friday childcare; PEAK programs; Elevates 18-21; d49.org; Source: D49 district communications, KRDO, local coverage
+
+### Story 5: Summer Camps 2026 — What Colorado Springs Families Need to Know
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Practical seasonal guide to Colorado Springs summer camps 2026. Day camps run $125–$400/week, 9 AM–3 PM standard. Extended care available but limited. Programs include: Colorado Springs Conservatory (27 camp types, June 1–July 31); Thinkering Lab (STEM, late May–mid August); Steve & Kate's Camp (multi-activity); Pikes Peak Athletics (swim safety); COS Parks, Recreation & Cultural Services (~$125/week). Spots filling fast.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** $125–$400/week range; 9 AM–3 PM standard; extended care 7:30 AM–6 PM limited; CS Conservatory June 1–July 31 (27 camp types); Thinkering Lab late May–mid August; Steve & Kate's summer 2026; Pikes Peak Athletics summer 2026; COS PRCS ~$125; coloradosprings.gov/PRCS; Source: Provider websites, KOAA, local coverage
+
+---
+
+## May 23, 2026
+
+### Story 1: PAW Patrol Live at Pikes Peak Center This Weekend
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — PAW Patrol Live performing at Pikes Peak Center (190 S. Cascade Ave) May 23-24, 2026; Saturday shows 10 AM + 2 PM; Sunday show 2 PM; approximately 90-minute show including intermission; tickets via AXS.com and box office; Memorial Day weekend option for families with young children; D11 last day was May 22; D49 graduation also May 23
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Pikes Peak Center, 190 S. Cascade Ave; Sat 10 AM + 2 PM; Sun 2 PM; ~90 min with intermission; AXS.com; Source: Pikes Peak Center event listings, KOAA, KKTV
+
+### Story 2: Academy D20 Receives $42.7 Million to Build New K-8 School at USAFA
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Department of Defense awarded D20 a $42.7M grant to rebuild Douglass Valley Elementary into Pre-K through 8th grade school on U.S. Air Force Academy campus; total project $54.2M; designed by RTA Architects (Colorado Springs); approximately 787 students; projected opening January 2028; expands from K-5 to Pre-K–8
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** $42.7M DoD grant; $54.2M total; Douglass Valley Elementary; Pre-K–8; ~787 students; RTA Architects; January 2028 projected; asd20.org; Source: KKTV, KOAA, FOX21, KRDO
+
+### Story 3: CPSC Recall — 121,000 Orb Funkee Squeeze Toys May Contain Asbestos
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled ~121,000 Orb Funkee squeeze toys (The Orb Factory); sand filling may contain fibrous tremolite (asbestos); Model 17451 (large golden monkey) + Model 41929 (small assorted monkeys); date code 3102491A; sold Walmart + Ollie's Bargain Outlet Feb 2025–Apr 2026 $5–$40; full refund via photo; distinct from Cosyland, YCXXKJ, Bellabu Bear, and Joyful Journeys recalls
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~121,000 units; asbestos (fibrous tremolite); 17451 + 41929; date code 3102491A; Walmart + Ollie's; $5–$40; full refund; customerservice@orbtoys.com; no injuries; Source: CPSC.gov/Recalls, The Orb Factory official
+
+### Story 4: CPSC Recall — Guidecraft Kitchen Helper Tower Platform Fails (25,235 Units)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled 25,235 Guidecraft Kitchen Helper Standing Towers (Classic + Contemporary, 9 colors); platform loosens/detaches; fall hazard; 11 falls reported, 3 injuries (bloody nose/bruises); sold Amazon/Walmart/Target/Wayfair/Overstock/Maisonette Jun 2022–Oct 2023; remedy is FREE REPAIR PARTS (not refund); distinct from Cosyland Children's Tower Stool recall
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 25,235 units; May 14 2026 recall; platform loosens; 11 falls/3 injuries; Amazon/Walmart/Target/Wayfair/Overstock/Maisonette; Jun 2022–Oct 2023; free repair (no refund); 800-524-3555; ProductSupport@guidecraft.com; guidecraft.com/pages/product-recall; Source: CPSC.gov/Recalls, Guidecraft official
+
+### Story 5: Safe Streets COS — Enforcement Numbers for New 22 School Zones
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW UP (Safe Streets COS NEW STORY covered May 17; today's angle: enforcement data and beacon timeline details) — 50% increase total traffic enforcement since 2023; 200% increase around school zones; Sierra HS beacons operational 2026-27 school year; Panorama MS flashing signs end of summer 2026; mobile speed enforcement deployed near school zones; coloradosprings.gov/SafeStreetsCOS
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 22 new zones; 50% citywide enforcement increase since 2023; 200% school zone enforcement increase; Sierra HS beacons 2026-27; Panorama MS end of summer; 35% crash reduction goal by 2035; coloradosprings.gov/SafeStreetsCOS; Source: KOAA, City of Colorado Springs official, KKTV, Fox21
+
+---
+
 ## May 21, 2026
 
 ### Story 1: D11 Final Graduation Day — Achieve, Tesla, Bijou, Odyssey Today

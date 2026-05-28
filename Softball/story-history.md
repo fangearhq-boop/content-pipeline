@@ -3,6 +3,147 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 27, 2026
+
+### Story 1: Jordy Frahm Named USA Softball Collegiate Player of the Year
+- **Angle:** FOLLOW UP (Nebraska WCWS berth covered May 24; award announcement new today May 27). Frahm and Jensen: 2 earned runs in 33 tournament innings (0.42 ERA). Nebraska 51-6, 26-game win streak, first WCWS since 2013. Opens Thursday 8:30 PM ET vs. Arkansas on ESPN2.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Frahm's WCWS performance vs. Arkansas; Nebraska's advancement in double-elimination bracket.
+
+### Story 2: WCWS Game 2 — Tennessee vs. Texas, The 2025 Semifinal Rematch
+- **Angle:** NEW STORY. Pickens and Mardjetko both named First-Team All-Americans (D1Softball, May 26). Tennessee (47-10) vs. Texas (47-11) at 2:30 PM ET Thursday. Tennessee lost to Texas in 2025 WCWS semifinals 2-0. Stewart: 27 HRs, 72 RBIs, .436 BA for Texas.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Tennessee vs. Texas result; Pickens' performance at Devon Park.
+
+### Story 3: Megan Grant's 40 HRs at the WCWS vs. Alabama
+- **Angle:** FOLLOW UP (Grant's 40-HR record covered May 8-10; WCWS vs. Alabama matchup is new angle). UCLA 52-8, Alabama 54-7. 5th all-time WCWS meeting. UCLA's 34th WCWS appearance. 7 PM ET Thursday on ESPN2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Grant's HR output at Devon Park; UCLA advancement.
+
+### Story 4: Arkansas WCWS Debut vs. Nebraska at 8:30 PM
+- **Angle:** FOLLOW UP (Arkansas first WCWS covered May 23-24; 8:30 PM nightcap preview + Deifel 0-for-5 storyline is new). Arkansas No. 5 seed, Nebraska No. 4 seed. Official Arkansas site confirmed 8:30 PM ET ESPN2.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Arkansas result vs. Nebraska; Deifel's debut at Devon Park.
+
+### Story 5: WCWS 2026 Power Rankings — All 8 Teams
+- **Angle:** NEW STORY. Full field set; ranking every team by championship potential. Alabama No. 1, Texas No. 2, TTech No. 3, Tennessee No. 4, Nebraska No. 5, UCLA No. 6, Mississippi State No. 7, Arkansas No. 8.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Power ranking accuracy check after opening round.
+
+### Story 6: WCWS 2026 Bold Predictions
+- **Angle:** NEW STORY. Three bold picks: Mississippi State upsets Texas Tech, Nebraska reaches championship round, Alabama wins the title.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Revisit predictions after championship.
+
+---
+
+## May 25, 2026
+
+### Story 1: Mississippi State Stuns Oklahoma 6-0 — 9-Year WCWS Streak Ends
+- **Angle:** FOLLOW UP (Mississippi State-Oklahoma SR covered May 23-24; Game 3 shutout result new). Delainey Everett (13.1 career innings entering SR) complete-game shutout. First time OU blanked in 399 games (last: 2019 WCWS). Kinley Keller 2-for-4, 3 RBIs. Bernardini and Ernstes HRs. First-ever WCWS for Mississippi State. OU ends 52-10. Wells hit by pitch in jaw, returned to play.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Mississippi State's first-round result vs. Texas Tech at WCWS; Everett's next start at Devon Park; OU offseason.
+
+### Story 2: WCWS Field Is Set — Eight Teams Headed to Devon Park
+- **Angle:** FOLLOW UP (WCWS Preview covered May 24 with 5 confirmed; full 8-team bracket new). Bracket: Texas Tech vs. Mississippi State (noon), Texas vs. Tennessee (2:30 PM), Alabama vs. UCLA (7 PM), Nebraska vs. Arkansas (9:30 PM). Two first-timers: Arkansas and Mississippi State. Devon Park opens May 28.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** All WCWS first-round results; bracket advancement; championship storylines.
+
+### Story 3: Texas Tech 16, Florida 7 — Run Rule, Second Straight WCWS
+- **Angle:** FOLLOW UP (TTech-Florida SR covered May 23-24; Game 3 final result new). 16-7 run rule in 5 innings. Five HRs. First NCAA tournament game with both teams scoring 7+ in first two innings. Florida's first home mercy-rule loss. Mia Williams HBP saga. Texas Tech second straight WCWS.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Texas Tech's result vs. Mississippi State at WCWS; Mia Williams at Devon Park.
+
+### Story 4: Texas 5, Arizona State 0 — Kavan Shuts It Down, Third Straight WCWS
+- **Angle:** FOLLOW UP (Texas-Arizona State SR covered May 23-24; Game 3 result new). Kavan 106-pitch complete-game shutout. Third consecutive WCWS for Texas, defending national champions.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Texas result vs. Tennessee at WCWS; back-to-back title bid.
+
+### Story 5: Wells Ends Season at 39 HRs — Grant's Record Stands
+- **Angle:** FOLLOW UP (Wells/Grant HR chase covered May 22-24; conclusion with OU elimination). Wells finishes with 39 HRs (2nd all-time). Grant's record of 40 stands. Wells hit by pitch in Game 3, returned. Oklahoma out of WCWS for first time since 2015.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Grant's WCWS performance; Wells 2027 season and potential HR record chase.
+
+### Story 6: Mia Williams vs. Florida — The Hit-By-Pitch Saga
+- **Angle:** NEW STORY. Williams (TTech transfer from Florida) hit by pitch 5 times in series. Father NBA star Jason Williams ejected from stands. Williams: .435 BA, 23 HRs, .908 slugging. Tournament's main character nationally.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Williams at WCWS vs. Mississippi State; father's involvement continuing storyline.
+
+### Story 7: Two WCWS First-Timers — Arkansas and Mississippi State Make History
+- **Angle:** FOLLOW UP (Arkansas first WCWS covered May 23; combined first-timer preview new). Both SEC programs making first-ever WCWS appearances. SEC sends four teams to Devon Park. Arkansas vs. Nebraska, Mississippi State vs. Texas Tech in first round.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** First-round results for both first-timers.
+
+---
+
+## May 24, 2026
+
+### Story 1: Three Game 3s Today — Final WCWS Spots and Wells' HR Record on the Line
+- **Angle:** NEW STORY (three Game 3s scheduled today). Florida vs Texas Tech (noon ET, Gainesville), Oklahoma vs Miss State (1:30 PM ET ESPN, Norman), Texas vs Arizona State (Austin). WCWS field complete by tonight. Wells at 39 HRs in OU Game 3 — one swing from tying Grant's all-time NCAA record.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** All three Game 3 results; Wells HR total after Game 3; WCWS bracket announcement.
+
+### Story 2: Nebraska 9-1 Over Oklahoma State — WCWS for First Time Since 2013
+- **Angle:** FOLLOW UP (Nebraska SR covered May 21; Saturday sweep clinch is new). Nebraska swept Oklahoma State 8-1 (Game 1) and 9-1 (Game 2, seven-run 5th). 51-6 season record. 26-game win streak (longest active in D-I, longest in school history). First WCWS since 2013 (13-year drought). 8th WCWS appearance all-time.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Nebraska WCWS bracket draw; first-round opponent in OKC.
+
+### Story 3: Arkansas Makes History — First WCWS in Program History
+- **Angle:** FOLLOW UP (Arkansas-Duke covered May 22 as Tier 3 social-only; first WCWS breakthrough is new). Arkansas swept Duke 14-5 (Game 1) and 10-2 (Game 2). First WCWS in program history. Deifel 0-for-5 in SRs before this year. Nine straight NCAA appearances.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Arkansas WCWS bracket draw; first-round matchup vs Nebraska (per bracket reports).
+
+### Story 4: Alabama Sweeps LSU 7-0, 4-1 — 16th WCWS
+- **Angle:** FOLLOW UP (Alabama-LSU SR covered May 22; sweep result new). Briski one-hit shutout 11 Ks in Game 1 (7-0). Three-run 4th inning in Game 2 (4-1). Alabama outscored LSU 11-1 in series. 16th WCWS appearance.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Alabama WCWS bracket and first-round matchup.
+
+### Story 5: UCLA Sweeps UCF — Megan Grant WCWS-Bound
+- **Angle:** FOLLOW UP (UCF-UCLA covered May 22; sweep and Grant WCWS angle new). UCLA 9-1 run-rule Game 1 (Slimp walk-off 3-run HR), won Game 2 convincingly. Grant (40 HRs, all-time NCAA record) heads to Devon Park.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Grant's HR total at WCWS; Wells-Grant race at Devon Park if OU advances.
+
+### Story 6: WCWS Preview — Devon Park Opens May 28 With 5 Confirmed Teams
+- **Angle:** NEW STORY. 5 confirmed: Tennessee, Nebraska, Arkansas, Alabama, UCLA. 3 TBD from today's Game 3s. Devon Park opens May 28.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Full WCWS bracket draw; opening day matchups.
+
+---
+
+## May 23, 2026
+
+### Story 1: Tennessee Sweeps Georgia — WCWS-Bound (10th Time)
+- **Angle:** FOLLOW UP (Tennessee-Georgia SR Game 1 covered May 22; Game 2 result new). Tennessee defeated Georgia 2-1 in Super Regional Game 2 on Friday. Mardjetko CG, 4 hits, 1 ER. Tennessee sweeps series, heading to WCWS for 10th time, second straight year. 47-10 final record.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Tennessee's WCWS bracket draw and first opponent in OKC.
+
+### Story 2: Mississippi State Stuns No. 1 Oklahoma 11-9 — Wells Hits HRs 38 and 39
+- **Angle:** NEW STORY. Mississippi State stunned No. 1 Oklahoma 11-9 in SR Game 1 at Love's Field, Norman. Wells went 4-for-5 with HRs 38 and 39 (6 RBIs), but Miss State scored 5 in the 7th to complete the comeback. Wells now at 39 HRs (2nd all-time), one behind Grant (40). Miss State leads series 1-0. Game 2 today 1 PM ET.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** Oklahoma vs Miss State Game 2 result; Wells HR chase continues.
+
+### Story 3: Wells (39) vs. Grant (40) — The All-Time HR Race Is One Swing Away
+- **Angle:** FOLLOW UP (Wells covered throughout 2026; new dual-record angle). First time in NCAA history two players have 39+ HRs same season. Wells at 39 (2nd all-time), Grant at 40 (all-time record). Both in SR play today. One HR separates them.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-ups:** Does Wells tie Grant's record in Game 2? WCWS HR race narrative.
+
+### Story 4: Arizona State Upsets Defending Champion Texas 4-1 in SR Game 1
+- **Angle:** NEW STORY. No. 19 Arizona State beat No. 3 Texas 4-1 at McCombs Field, Austin. Defending national champions fall behind in their own Super Regional. Game 2 tonight 7 PM ET ESPN.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-ups:** Texas vs Arizona State Game 2 result; title defense survival.
+
+### Story 5: Saturday's Super Regional Game 2 Slate — Seven WCWS Spots Decided Today
+- **Angle:** NEW STORY (schedule/preview). Seven Game 2s: TTech-FL 12:30 PM ABC, MSU-OU 1 PM, ALA-LSU 3 PM ESPN, ARK-Duke 4 PM ESPN2, NEB-OkSt 5 PM ESPN2, UCF-UCLA evening, ASU-TEX 7 PM ESPN. Four home teams must win. Three home teams can clinch.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-ups:** All Game 2 results.
+
+### Story 6: Texas Tech Upsets Florida 10-8 — Home Mystique Broken
+- **Angle:** NEW STORY. Texas Tech beat Florida 10-8 at Katie Seashole Pressly, Gainesville. Florida was 36-1 in home NCAA tournament games since 2013. Mia Williams go-ahead 2-run HR in 7th. Game 2 today 12:30 PM ET ABC.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Texas Tech vs Florida Game 2 result; Florida's response.
+
+---
+
 ## May 22, 2026
 
 ### Story 1: Tennessee 3-1 Georgia — Pickens Super Regional Masterpiece
@@ -2221,3 +2362,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Updated rankings implications
 
 ---
+
+---
+
+## Pipeline Run: May 26, 2026
+
+### Story 1: WCWS 2026 Opens Thursday — Four Games, Eight Teams, Devon Park
+- **Date:** 2026-05-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** WCWS opening-day preview. Four games May 28 at Devon Park: Texas Tech vs. Mississippi State (noon, ESPN), Texas vs. Tennessee (2:30 PM, ESPN), Alabama vs. UCLA (7 PM, ESPN2), Nebraska vs. Arkansas (9:30 PM, ESPN2). Double-elimination format. Two first-timers in field.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Opening-day results recap
+  - Loser's bracket storylines
+  - Bracket update after Day 1
+
+### Story 2: Alabama Enters WCWS as No. 1 Seed With 22 Shutouts
+- **Date:** 2026-05-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Alabama profile ahead of WCWS. 49-7 record, 1.60 team ERA (2nd nationally), 22 shutouts, 19-5 SEC record. 16th WCWS appearance. Opens vs. UCLA Thursday 7 PM ET. Beat LSU twice in super regional.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Alabama vs. UCLA result
+  - Pitching staff stats through WCWS
+  - Championship run update
+
+### Story 3: Mississippi State's First WCWS — No Blueprint, No Fear
+- **Date:** 2026-05-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (May 25: upset of Oklahoma; May 26: WCWS arrival and first-timer angle)
+- **Angle:** MSU at Devon Park for first time in program history. Opens vs. Texas Tech noon ET. Coach Samantha Ricketts played for Oklahoma 2006-09, holds career OU HR/RBI records. Everett expected to start.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - MSU vs. Texas Tech result
+  - MSU's path through the bracket
+  - Everett's performance at WCWS
+
+### Story 4: NiJaree Canady's Final Shot — Career History, One Goal Left
+- **Date:** 2026-05-26
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Texas Tech senior Canady enters WCWS with 30-5 record, 0.89 postseason ERA, 1,000+ career Ks, 96 career wins (only active pitcher with both). AUSL No. 2 overall draft pick. Opens vs. Mississippi State noon Thursday. National championship is the one missing piece.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Canady's WCWS pitching performance
+  - Texas Tech's path through the bracket
+  - AUSL draft context if Texas Tech wins
+
+### Story 5: SEC Sends Five Teams to WCWS — Oklahoma Absent
+- **Date:** 2026-05-26
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** 5 of 8 WCWS teams are SEC (Alabama, Texas, Tennessee, Arkansas, Mississippi State). Oklahoma absent first time since 2015 after 9-year streak ended by MSU. Nebraska, UCLA, Texas Tech are the only non-SEC teams.
+- **Content Produced:** 1 X post, FB long-form + caption, Image concepts (no article — Tier 3)
+- **Follow-Up Opportunities:**
+  - SEC intra-conference matchups
+  - Championship goes to SEC regardless (5 of 8 teams)
+  - Oklahoma's 2027 bounce-back storyline

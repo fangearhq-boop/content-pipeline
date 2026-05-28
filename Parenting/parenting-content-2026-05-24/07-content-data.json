@@ -1,0 +1,242 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-24",
+  "compiled_at": "2026-05-24T12:39:54.828617+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D11 Parents and Teachers Plan Picket at Board Meeting — 300+ Days Without a Contract",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "D11 educators and parents are organizing a school board picket this week.\n\nIt's been 300+ days since the board eliminated a 56-year teacher contract. No new deal.\n\nWhat Colorado Springs families need to know. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 AM MT\n\nIf your kids are in District 11, you've probably been watching the labor dispute between the school board and the Colorado Springs Education Association with some anxiety. Here's where things stand as the school year winds down.\n\nIt's been more than 300 days since the D11 board voted 6-1 to eliminate a master agreement that had been in place between the district and its teachers union for 56 years. That happened in December 2024. The board argued it needed flexibility; the teachers union argued it stripped them of collective bargaining rights. In October 2025, hundreds of teachers went on strike.\n\nThat strike ended. But it didn't produce a new contract. And now, in May 2026, the Colorado Springs Education Association is calling on educators and parents to picket at an upcoming D11 Board of Education meeting — a reminder that the dispute is very much still going.\n\nFor families, the instability at the district level has been a slow-burning source of concern. Teachers and parents showing up at school board meetings together is a meaningful signal that this isn't just a union issue — it's a community one.\n\nWe'll keep tracking this as the school year closes and any new developments emerge.\n\nIs your family in D11? How has this school year felt?\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d11-labor-dispute-300-days-no-contract-picket.html",
+        "headline": "300 Days and No Contract: D11 Parents and Teachers Are Calling for a Picket This Month",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Labor Contract Dispute\n\n**Image Concept A — Article Hero (1200x630)**\nGemini prompt: A peaceful outdoor scene showing a diverse group of adults standing together near a municipal building, holding simple paper signs. Warm afternoon light. Natural, documentary feel. Subdued blue and gold color palette. No text, no logos, no watermarks. Clean lower third for text overlay. Photorealistic style.\n\n**Image Concept B — Social (1200x675)**\nGemini prompt: A simple, symbolic illustration of a school building with a group of silhouetted adults gathered outside in solidarity. Warm, community-focused mood. Soft sunset colors, blue and orange tones. No text, no logos. Clean lower third for overlay text. Flat graphic style.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "CPSC Recall — ABC Trading Toy Headband and Dinosaur Toy Have Dangerous Button Batteries",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "RECALL: ABC Trading toys have a dangerous button battery hazard.\n\nPink bow headband (6300RP) and dinosaur cage (8266). Batteries accessible to kids — swallowing risk.\n\nStop use. Email recallabc@gmail.com for full refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 10:00 AM MT\n\nHey Colorado Springs parents — there are two kids' toys you'll want to check for right now.\n\nThe Consumer Product Safety Commission announced a recall on May 22 for ABC Trading children's toys due to button battery hazards. The two recalled items are a pink bow toy headband (model 6300RP — it has a push button on the bow that lights up) and an electronic pet cage toy with a dinosaur inside (model 8266). A third toy, a bird cage model ZH998-23, is also part of the recall.\n\nThe problem: the battery compartments on these toys can be opened by children. Button cell batteries — the small, coin-shaped ones — are extremely dangerous if swallowed. They can cause internal chemical burns and, in serious cases, death. The CPSC is quite serious about these recalls.\n\nThese toys were sold at TOYZ and Joissu Product stores nationwide from November 2022 through October 2025 for between $5 and $9. No injuries have been reported, but the CPSC wants all of them off the shelves and out of homes.\n\nWhat to do: stop using these toys immediately. Take a photo of the disposed products in the trash and email it to recallabc@gmail.com to receive a full refund.\n\nHave you seen these toys at your house? Share this post if you know a family with young kids who shops at TOYZ.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cpsc-recall-abc-trading-button-battery-toy-headband-dinosaur.html",
+        "headline": "CPSC Recall: Stop Using These ABC Trading Toys — Button Battery Hazard for Kids",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "ABC Trading Toy Recall\n\n**Image Concept A — Article Hero (1200x630)**\nGemini prompt: A close-up illustration of a small round silver button cell battery next to a child's toy on a white surface. Warning/alert mood. Red and white color palette with clean neutral background. No faces, no brand logos, no text. Clean lower third for text overlay. Flat graphic style, slightly editorial.\n\n**Image Concept B — Social (1200x675)**\nGemini prompt: A simple graphic showing a generic pink bow toy headband and a small toy cage on a clean white background with a red warning symbol. Safety/recall mood. Red, white, and pink palette. No text, no real brand logos. Clean composition with open lower third. Flat illustration style.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "The New USAFA Visitor Center Is Open — And It's a Free Family Day Trip",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Colorado Springs has a new free family destination.\n\nHosmer Visitor Center at USAFA opened May 16. No base pass. 7 galleries, 108-ft atrium. Daily 9 AM–5 PM.\n\nNorth Gate, U.S. Air Force Academy. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 12:00 PM MT\n\nSchool is out and we finally have a new free destination to add to the summer list. 🎉\n\nThe General Bradley and Zita Hosmer Visitor Center at the U.S. Air Force Academy officially opened on May 16, 2026 — and the best part for Colorado Springs families is that you don't need a base pass to visit. It's located just outside the North Gate, free to enter, and open every day from 9 AM to 5 PM.\n\nWhat's inside: seven themed galleries, interactive exhibits, immersive soundscapes, and a 108-foot grand atrium with sweeping views of the Front Range. The center gives visitors a look at the 47-month cadet journey and the Academy's history, and it was built as part of Colorado Springs' long-running City for Champions initiative.\n\nThis is the kind of place where you can spend a few hours with kids who are curious about the military, history, or just want to see something impressive. The atrium alone is worth the drive.\n\nNo admission. No badge required. Open daily.\n\nHave you been yet? Tell us what the kids thought.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-hosmer-visitor-center-usafa-free-family-trip-colorado-springs.html",
+        "headline": "Free Day Trip: The USAFA Hosmer Visitor Center Is Open and Colorado Springs Families Should Check It Out",
+        "word_count": 512
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "USAFA Visitor Center\n\n**Image Concept A — Article Hero (1200x630)**\nGemini prompt: A bright, modern visitor center interior with a towering atrium, natural light flooding in through tall glass windows. Mountains visible through the glass. Warm and welcoming atmosphere. Teal and sky blue palette with warm whites. No people, no text, no logos. Clean lower third for overlay. Photorealistic style.\n\n**Image Concept B — Social (1200x675)**\nGemini prompt: A Colorado mountain vista with a modern building entrance in the foreground, welcoming and open. Bright sunny day, Pikes Peak and Front Range in background. Clean, airy, family-friendly mood. Blue, white, and mountain green palette. No text, no logos. Open lower third for text. Photorealistic style.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "D49 Is Opening a Student Success Center in August — Here's What It Offers",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "District 49 is opening a Student Success Center this August.\n\nPreschool (Mon–Thu), PEAK programs, and Elevates 18-21 transition services — all under one roof.\n\nFormer Falcon Elementary. 2026-27 school year. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 3:00 PM MT\n\nDistrict 49 families — here's something to have on your radar before August.\n\nD49 is opening a new Student Success Center at the start of the 2026-27 school year, located at what is currently Falcon Elementary School of Technology. The center will serve students across three programs under one roof:\n\nFirst, full-time preschool — classes run Monday through Thursday, with Base49 providing before and after school care, plus Friday childcare options. If you're looking for preschool in D49, this is a new option to explore.\n\nSecond, the PEAK programs — D49's support services for students with disabilities who need higher-level intervention. These students will get a more school-like experience as they work on their goals.\n\nThird, Elevates 18-21 transition services — the program that supports young adults with disabilities in preparing for independent adult life. It's relocating from community agency settings into the district itself.\n\nThe center officially opens in August at the start of the 2026-27 school year. If your family is potentially in any of these programs, it's worth reaching out to D49 directly at d49.org to get on the right mailing lists before summer ends.\n\nDoes this affect your family? Let us know in the comments.\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d49-student-success-center-opening-august-2026.html",
+        "headline": "D49 Is Opening a Student Success Center in August — Here's What It Offers",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Student Success Center\n\n**Image Concept A — Article Hero (1200x630)**\nGemini prompt: A bright, colorful preschool or early childhood classroom interior, empty of children. Small tables, colorful chairs, educational materials on the walls. Warm and welcoming mood. Soft yellow, teal, and coral color palette. No text, no logos. Clean lower third for text overlay. Photorealistic style.\n\n**Image Concept B — Social (1200x675)**\nGemini prompt: A cheerful illustration of a modern school building exterior on a sunny day with a welcoming entrance. Bright teal and yellow palette. Friendly, community-focused mood. Clean sky background. No text, no logos. Open lower third for overlay text. Flat graphic style.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Summer Camps 2026 — What Colorado Springs Families Need to Know Before They Book",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Colorado Springs summer camps 2026: what to know before you register.\n\nDay camps run $125–$400/week, 9 AM–3 PM. Arts, STEM, swim, and multi-activity options available.\n\nExtended care available at many sites. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 5:00 PM MT\n\nSummer is here, the school year is wrapping up, and if you haven't looked at summer camps yet — now is the time.\n\nHere's a quick overview of what Colorado Springs families are working with for summer 2026:\n\n**Cost:** Most day camps run between $125 and $400 per week. City-run and nonprofit programs are typically on the lower end, while specialty camps (arts, STEM, sports academies) can run $400 and up. If cost is a factor, it's worth looking at Parks, Recreation and Cultural Services programs through the city first.\n\n**Hours:** Standard day camp hours are 9 AM to 3 PM. Many programs offer extended care from 7:30 AM to 6 PM for working families — ask specifically when you register because availability is limited.\n\n**What's available:** The Colorado Springs Conservatory runs arts and music camps for ages 1-18, with 27 program types including Rock Band, Songwriter, Music Production, and Theatre — sessions go from June 1 through July 31. Thinkering Lab has STEM-focused week-long camps from late May through mid-August. Steve & Kate's Camp offers a mix of sewing, coding, stop-motion animation, sports, and baking. Pikes Peak Athletics has swim safety camps with daily lessons.\n\n**One reminder:** programs fill up. If something looks right for your family, book it before the good time slots are gone.\n\nWhat camps are your kiddos doing this summer?\n\n---",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-colorado-springs-summer-camps-2026-cost-options-guide.html",
+        "headline": "COS Summer Camps 2026: Cost, Hours, and Options for Colorado Springs Families",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Summer Camps Guide\n\n**Image Concept A — Article Hero (1200x630)**\nGemini prompt: A sunny outdoor scene with children's summer activity items arranged artistically — art supplies, a swim towel, a coding book, a musical instrument — on a bright grass background. Joyful, energetic mood. Warm summer palette of yellow, orange, teal, and green. No faces, no text, no logos. Clean lower third for text overlay. Flat styled illustration.\n\n**Image Concept B — Social (1200x675)**\nGemini prompt: A bright, cheerful collage-style illustration showing different summer activity icons (paintbrush, swim goggles, computer, soccer ball) arranged in a playful grid pattern on a warm yellow-orange background. Summer camp vibes. No text, no logos, no real brand marks. Open lower third for overlay. Flat graphic design style."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

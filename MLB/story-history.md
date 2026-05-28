@@ -5,6 +5,146 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-27
+
+### Story 1: Jacob Misiorowski — Statcast Era Record (57 Pitches at 100+ MPH)
+- **Angle:** NEW STORY (not covered in May 25 or May 26 pipeline). Brewers 24-year-old threw 57 pitches at 100+ mph vs. Cardinals May 25 — Statcast era record (previous: 47, Hunter Greene, Sept 2022). 12 Ks, career-high match. Brewers won 5-1. 100 strikeouts in 11 starts in 2026.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Misiorowski's workload management; Brewers' position in NL Central race.
+
+### Story 2: Nationals 10-2 and 6-3 Over Guardians — Two-Game Sweep in Cleveland
+- **Angle:** NEW STORY. Nationals swept 2 games from AL Central leaders in Cleveland. May 25: 10-2 with 6 HRs, Luis García Jr. nearly hit for the cycle. May 26: 6-3, four runs off Joey Cantillo. Washington's 16-run two-game total is notable.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Nationals-Guardians rubber game Wednesday; Cleveland's response.
+
+### Story 3: Corbin Carroll — One Triple From D-Backs Franchise Record
+- **Angle:** FOLLOW UP (Carroll at 51 career triples covered May 25; Giants series starting May 26 is active chase context). 51 career triples in 537 games vs. Drew's 52 in 773. 8 triples in 2026, twice any other player. 12-game hit streak.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** When Carroll ties/breaks Drew's franchise record (possibly this week vs. Giants).
+
+### Story 4: Blake Snell Surgery Update — Dodgers Expect Return This Season
+- **Angle:** NEW STORY. Surgery "as expected" per GM Brandon Gomes. Three bone spurs removed. Timeline: 12 days (Skubal model) to 3 months (Díaz model). Eric Lauer acquired from Blue Jays; Dreyer on IL; Graterol on 60-day IL.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Snell's first bullpen session; return date announcement.
+
+### Story 5: Murakami — 18 HRs, First in MLB History (10 HRs + 20 Walks in First 25 Games)
+- **Angle:** FOLLOW UP (Murakami covered May 24 at 17 HRs; updated to 18 HRs leading AL, 12-for-27 hot streak over last 6 games). First player in MLB history with 10 HRs and 20 walks in first 25 career games.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** AL ROY race; Murakami's pace toward White Sox season HR record.
+
+### Story 6: MLB Wednesday Watch List
+- **Angle:** NEW STORY. Carroll record watch at Oracle Park, Nationals-Guardians Game 3, Reds-Mets NL East.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Game results from Wednesday slate.
+
+---
+
+## 2026-05-25
+
+### Story 1: Judge Walks Off Rays — Ends 11-Game Homer Drought, Yankees Win 2-0
+- **Angle:** FOLLOW UP (Rays-Yankees covered May 23-24; Sunday series finale result new). Judge 2-run walk-off HR off Kevin Kelly in 9th. HR No. 17. 11-game homer drought ended. Ryan Weathers 7 scoreless IP. Yankees 31-22. Rays AL East lead cut to 4.5 games.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Judge's next HR chase; AL East standings through June; Rays response.
+
+### Story 2: Corbin Carroll One Triple From D-Backs Franchise Record
+- **Angle:** NEW STORY. Carroll went 4-for-4 with 2 triples vs. Rockies on May 24. Now 51 career triples — one away from Stephen Drew's D-Backs franchise record of 52. Carroll reached 51 in 537 games; Drew needed 773. MLB-leading 8 triples in 2026.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** When Carroll ties/breaks Drew's record; season triple total.
+
+### Story 3: Hernandez Walk-Off Grand Slam in 0-0 Game — Marlins Sweep Mets
+- **Angle:** NEW STORY. Hernandez pinch-hit walk-off grand slam (416 ft) off Devin Williams in 9th inning. Marlins 4, Mets 0. Three-game sweep. First walk-off slam in a 0-0 game since Justin Maxwell (Royals, Sept. 22, 2013). Marlins now 25-29.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Marlins' standing in NL East; Hernandez's role going forward.
+
+### Story 4: Bryan Torres MLB Debut After 11 Years in Minors
+- **Angle:** NEW STORY (happened May 23, not covered in May 24 pipeline). 28-year-old Cardinals DH hit 2-run HR in 9th inning of MLB debut. 3-for-5, HR, walk. First Cardinals player with 2 hits, HR, walk in debut since at least 1901. First Puerto Rican-born to homer in MLB debut since Isan Díaz (2019).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Torres' continued role on Cardinals roster; long-term outlook.
+
+### Story 5: Schwarber Memorial Day Pace Check — Still on Historic Track
+- **Angle:** FOLLOW UP (Schwarber covered May 24 with historical framing; Memorial Day checkpoint new angle). Hit 20th HR on May 15 (earliest in MLB history). Pace: 66-72 HRs for season. No one on this trajectory since Bonds 2001.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** When Schwarber hits No. 25, 30; Phillies NL East race.
+
+### Story 6: Memorial Day MLB Schedule — 12 Games, Special Uniforms
+- **Angle:** NEW STORY. 12 games May 25. ESPN feature: Yankees-Royals 3:30 PM ET. Red poppies on jerseys. National Moment of Remembrance at 3 PM local.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Memorial Day game results.
+
+### Story 7: Memorial Day Standings — Rays, Braves, Brewers Lead
+- **Angle:** NEW STORY. Rays best AL record (~34-16). Braves lead NL East. Brewers won 15 of last 19, making franchise history. Yankees 4.5 back after Judge walk-off.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (no article — Tier 3)
+- **Follow-ups:** Updated standings through June; division race developments.
+
+---
+
+## 2026-05-24
+
+### Story 1: Schwarber 60-HR Club Chase — Historic Pace
+- **Angle:** FOLLOW UP (Schwarber covered May 23 as returning/20 HRs; full 60-HR club historical framing new). 20 HRs through 45 games. Hit No. 20 on May 15 — earliest date in MLB history. On pace for ~66 HRs. 60-HR club: Bonds 73, McGwire 70, Sosa 66/65/63. No one on this trajectory since Bonds 2001.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Schwarber's HR total as season progresses; when does he hit No. 30?
+
+### Story 2: White Sox 26-24 — Murakami Turnaround
+- **Angle:** NEW STORY. White Sox went from 9-15 in early May to 26-24. Murakami: 17 HRs, .941 OPS, 2nd in MLB. Record for most HRs through first 21 MLB games by a Japanese-born player. Legitimate AL ROY candidate.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Can Murakami maintain pace? White Sox playoff contention?
+
+### Story 3: Rays 34-15 — Sunday Finale vs Yankees
+- **Angle:** FOLLOW UP (Rays covered May 23). Saturday game rained out (DH Sept 22). Sunday: Rasmussen (4-1) vs Weathers (2-2), 1:05 PM ET. Rays 34-15, best AL record. Yankees 30-22. 5.5-game lead.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Sunday game result; Rays' lead after the series.
+
+### Story 4: Acuña Positive Update — Day-to-Day
+- **Angle:** FOLLOW UP (Acuña injury exit covered May 23). Left thumb bone bruise, X-rays negative, day-to-day. Weiss said Acuña "trying to talk his way into the lineup." Braves 35-16 best NL record.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Acuña's availability Sunday vs Nationals; second IL stint risk?
+
+### Story 5: Ramírez 300-300 Club Chase
+- **Angle:** NEW STORY. Ramírez reached 300 career SBs in May (2nd in Cleveland franchise history after Lofton). 291 career HRs. 9 from 300-300 club. Leads AL in SBs in 2026 at age 33.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** When does Ramírez hit career HR No. 292-300?
+
+### Story 6: Sunday MLB Watch Guide
+- **Angle:** NEW STORY. Rays-Yankees finale (1:05 PM ET), White Sox-Giants, Phillies-Guardians (Schwarber watch), Braves-Nationals (Acuña day-to-day). Memorial Day weekend series closers.
+- **Content Produced:** X (1 post), FB (long-form + caption), Image concepts (Tier 3 social-only)
+- **Follow-ups:** All Sunday game results.
+
+---
+
+## 2026-05-23
+
+### Story 1: Gerrit Cole Returns — Yankees Lose 4-2 to Rays
+- **Angle:** FOLLOW UP. Cole starts in his first MLB game in 569 days (since Game 5, 2024 World Series). Line: 6 IP, 0 ER, 2 H, 3 BB, 2 K, 96.1 mph avg / 98.6 mph peak fastball. Tim Hill blew 8th inning, surrendered 4 runs without an out. Final: Rays 4, Yankees 2. Rays improve to 33-15, 4-0 vs Yankees in 2026, 5.5-game AL East lead.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Cole's next start; Yankees bullpen situation; Rays AL East lead.
+
+### Story 2: Acuña Exits with Left Thumb Bone Bruise
+- **Angle:** NEW STORY. Ronald Acuña Jr. fouled pitch off left hand in 7th inning vs Marlins. Diagnosis: left thumb bone bruise. X-rays negative. Day-to-day. He went 2-for-3 with 2-run single before exiting. Braves won 9-3 (Strider 6 IP 9 Ks; Harris II and Yastrzemski HRs). Braves record: 35-16. Acuña just returned from 14-game hamstring IL earlier in May.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** Saturday injury update; is Acuña available vs Nationals?
+
+### Story 3: Murakami's 5-Game HR Streak Ends — White Sox Still Win
+- **Angle:** FOLLOW UP. Masataka Murakami's 5-consecutive-game HR streak (tied White Sox franchise record) ended Friday vs Giants. But he had a bases-clearing double in a 9-run 4th inning as Chicago won. White Sox are approximately .500 — a positive story for a team many projected last.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-ups:** Can Murakami maintain high production? White Sox season standings.
+
+### Story 4: Rays at 33-15 — Best Record in the AL
+- **Angle:** STANDINGS FEATURE. Tampa Bay 33-15 (AL's best), 4-0 vs Yankees in 2026, 5.5-game AL East lead. Beat Cole's return game 4-2. Analysis of their dominance.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-ups:** Saturday's Rays-Yankees Game 2.
+
+### Story 5: Schwarber Returns, Still Leads MLB at 20 HRs
+- **Angle:** FOLLOW UP. Kyle Schwarber returned from 3-game GI illness absence and homered Friday. Still leads MLB with 20 HRs. Hit No. 20 on May 15 — earliest date in MLB history to reach that mark. Phillies are 25-25.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-ups:** When does Schwarber reach 25? Can Phillies win around him?
+
+### Story 6: Saturday MLB Watch Guide
+- **Angle:** SOCIAL ONLY. Key games: Rays vs Yankees G2, Braves at Nationals (Acuña watch), Astros at Cubs, Cardinals at Padres.
+- **Content Produced:** X (1 post only)
+
+---
+
 ## 2026-05-22
 
 ### Story 1: Gerrit Cole Returns Tonight — 569 Days Ends at Yankee Stadium
@@ -1733,3 +1873,62 @@ Each day's stories are appended at the top (newest first).
 - **Content Produced:** X (1 post), FB long-form + caption
 
 ---
+
+---
+
+## Pipeline Run: May 26, 2026
+
+### Story 1: Astros Combined No-Hitter — Imai, Okert, Santa vs. Rangers 9-0
+- **Date:** 2026-05-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Tatsuya Imai (6 IP, 4 BB, 97 pitches), Steven Okert (1 IP), Alimber Santa (2 IP, MLB debut) combined to no-hit Texas Rangers 9-0 on May 25. First no-hitter in MLB since Sept. 4, 2024 (Cubs). Alimber Santa is first pitcher since 1900 to appear in a no-hitter on his MLB debut. 17th Astros franchise no-hitter. Imai walked 3 of first 4 batters, then got 2 double plays and 8 groundball outs.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Imai's next start performance
+  - Santa's second MLB outing
+  - Astros season outlook with Imai anchoring rotation
+
+### Story 2: Blue Jays Rotation Crisis — Cease, Berríos, Scherzer, Bieber, Ponce All on IL
+- **Date:** 2026-05-26
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Dylan Cease (3-3, 3.05 ERA, MLB-leading 92 Ks, $210M/7-year contract) placed on 15-day IL with left hamstring strain after leaving May 24 game vs Pittsburgh. Joins Berríos, Scherzer, Bieber, Ponce on IL. Vlad Guerrero Jr. day-to-day (HBP elbow). Five starters simultaneously on IL.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Cease's return timeline
+  - Blue Jays emergency depth moves (call-ups/trades)
+  - AL East standings impact
+
+### Story 3: Giants Trade Deadline Fire Sale — Worst Run Differential in MLB
+- **Date:** 2026-05-26
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Giants (approx. 16-24, worst run differential in MLB at -42) exploring trades for Robbie Ray, Tyler Mahle, Harrison Bader. Already traded Patrick Bailey (Gold Glove catcher) to Cleveland Guardians. Major contracts (Lee $85M, Adames $161M, Devers $226M, Chapman $125M) struggling and largely untradeable.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Actual trade executions at deadline
+  - Logan Webb trade rumors if losing continues
+  - Giants 2027 rebuild planning
+
+### Story 4: Dodgers Bullpen Sets Franchise Record — 38 Consecutive Scoreless Innings
+- **Date:** 2026-05-26
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Dodgers bullpen posts 38 consecutive scoreless innings (franchise record, longest in MLB since 2017 Cleveland 38.2). 12 different pitchers contributed. Kyle Hurt: 0.60 ERA, 14 appearances, 0 runs. Tanner Scott: scoreless since April 24 (10.1 IP). Despite losing Glasnow, Snell, Dreyer, and Edwin Diaz (IL — loose body in elbow).
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Diaz return timeline
+  - Glasnow/Snell return
+  - Dodgers wild card/division standings update
+
+### Story 5: Memorial Day Power Rankings — Braves, Rays, Dodgers Lead MLB
+- **Date:** 2026-05-26
+- **Tier:** 3
+- **Classification:** FOLLOW UP (May 25: Memorial Day standings overview; May 26: power ranking analysis with grades)
+- **Angle:** Braves No. 1 (36-18, nine-game lead, 18 comeback wins). Rays No. 2 (projected last in AL East, now leading AL). Dodgers No. 3 despite injuries. Guardians 10.5 games up in AL Central. Small-market over big-market narrative.
+- **Content Produced:** 1 X post, FB long-form + caption, Image concepts (no article — Tier 3)
+- **Follow-Up Opportunities:**
+  - Braves vs rest of NL East summer series
+  - Rays sustainability check (July standings)
+  - Guardians playoff seeding

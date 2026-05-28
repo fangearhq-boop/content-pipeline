@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-26",
+  "compiled_at": "2026-05-26T10:30:28.615184+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Astros Throw MLB's First No-Hitter Since 2024 — Imai, Okert, Santa Combine for 9-0 Win (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET (no-hitter announcement), 9:30 AM ET (Santa debut angle)",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Astros just threw the first no-hitter in MLB since September 2024.\n\nTatsuya Imai (6 IP), Steven Okert (1 IP), Alimber Santa (2 IP) combined for a 9-0 win vs Texas.\n\nImai walked 3 of his first 4 batters. The no-no happened anyway. ⚾️\n\n#LetsGoAstros #MLB",
+          "posting_time": "9:00 AM ET (no-hitter announcement), 9:30 AM ET (Santa debut angle)",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetsGoAstros",
+            "#MLB"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Alimber Santa made his MLB debut Monday.\n\nHe also threw 2 perfect innings to help complete a no-hitter.\n\nHe's the first pitcher since 1900 to appear in a no-hitter on his debut.\n\nThe Astros beat Texas 9-0. ⚾️\n\n#LetsGoAstros #MLB",
+          "posting_time": "9:00 AM ET (no-hitter announcement), 9:30 AM ET (Santa debut angle)",
+          "tweet_type": "",
+          "hashtags": [
+            "#LetsGoAstros",
+            "#MLB"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET (no-hitter announcement), 9:30 AM ET (Santa debut angle)"
+      },
+      "article": {
+        "filename": "article-01-astros-combined-no-hitter-imai-santa-rangers.html",
+        "headline": "Astros Throw First MLB No-Hitter Since 2024: Imai Leads, Santa Makes History on His Debut",
+        "word_count": 752
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Astros Combined No-Hitter\n\n#### Image Concept 1A — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** Tatsuya Imai Houston Astros\n**Alt Text:** Tatsuya Imai pitching for the Houston Astros\n**Caption Credit:** (USA TODAY Sports Images)\n**Usage:** X and Facebook posts\n\n#### Image Concept 1B — Article Hero (1200x630)\n**Type:** imagn\n**Search Terms:** Alimber Santa Houston Astros\n**Alt Text:** Alimber Santa pitching in his MLB debut\n**Caption Credit:** (USA TODAY Sports Images)\n**Usage:** Article hero for no-hitter story\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Astros Combined No-Hitter\n**Classification:** NEW STORY\n**Freshness:** Occurred Monday May 25. Not covered in yesterday's pipeline.\n**Key Facts (MEDIUM-HIGH confidence):**\n- Pitchers: Tatsuya Imai (6 IP), Steven Okert (1 IP), Alimber Santa (2 IP) — HIGH (AP wire, Washington Post, Baltimore Sun)\n- Final score: Houston 9, Texas 0 — HIGH (multiple sources)\n- Date: Monday, May 25, 2026 — HIGH (multiple sources)\n- Venue: Globe Life Park, Arlington, Texas — MEDIUM (implied; needs confirmation)\n- Imai performance: walked 3 of 4 first batters, then settled; 97 pitches — HIGH (lancasteronline.com, foxsports)\n- Imai: two double plays, eight groundball outs — MEDIUM (foxsports.com)\n- Alimber Santa: 2 IP perfect (final 6 batters retired) — HIGH (mlb.com/news)\n- Santa is \"first pitcher since 1900 to appear in a no-hitter on his big-league debut\" — MEDIUM (one source; needs second source per two-source rule — research used SI FastBall and ML.com coverage)\n- Updated: \"first pitcher since 1900\" confirmed at prismnews.com and si.com — HIGH\n- Last MLB no-hitter: Sept. 4, 2024 (Cubs — Shota Imanaga, Nate Pearson, Porter Hodge vs. Pittsburgh) — HIGH (mlb.com)\n- Astros franchise no-hitter count: 17th regular-season no-hitter — HIGH (mlb.com)\n- Imai contract: $54M/3-year deal signed January 2026 — HIGH (lancasteronline.com)\n- Imai background: 3x All-Star in Japan, 10-5 record, 1.92 ERA for Seibu Lions last season — HIGH (lancasteronline.com)\n**Sources:**\n- mlb.com/news/astros-throw-combined-no-hitter-against-rangers\n- washingtonpost.com/sports/mlb/2026/05/25/tatsuya-imai-astros-rangers-nohitter\n- lancasteronline.com (AP wire)\n- baltimoresun.com/2026/05/25/astros-starter-tatsuya-imai\n- foxsports.com/stories/mlb/houston-astros-toss-combined-no-hitter",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Blue Jays Rotation in Crisis — Cease Joins Four Others on IL as Guerrero Jr. Day-to-Day (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET (Cease IL news), 11:00 AM ET (full rotation crisis angle)",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Blue Jays just placed Dylan Cease on the 15-day IL.\n\nCease: 3-3, 3.05 ERA, MLB-leading 92 Ks. $210M contract. Now hurt.\n\nHe joins Berríos, Scherzer, Bieber and Ponce on the IL.\n\nFive starters down. Vlad Jr. day-to-day too. ⚾️\n\n#BlueJays #MLB",
+          "posting_time": "10:30 AM ET (Cease IL news), 11:00 AM ET (full rotation crisis angle)",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays",
+            "#MLB"
+          ],
+          "char_count": 245
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The 2026 Blue Jays have:\n\n❌ Dylan Cease on IL (hamstring)\n❌ José Berríos on IL\n❌ Max Scherzer on IL\n❌ Shane Bieber on IL\n❌ Cody Ponce on IL\n\nTheir ace has a $210M deal. He's been here 11 starts.\n\nThis rotation was supposed to be elite. ⚾️\n\n#BlueJays #MLB",
+          "posting_time": "10:30 AM ET (Cease IL news), 11:00 AM ET (full rotation crisis angle)",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET (Cease IL news), 11:00 AM ET (full rotation crisis angle)"
+      },
+      "article": {
+        "filename": "article-02-blue-jays-rotation-crisis-cease-injured-list.html",
+        "headline": "Five Starters Down: The Blue Jays' Rotation Has Collapsed and Dylan Cease Is the Latest Casualty",
+        "word_count": 694
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Blue Jays Rotation Crisis\n\n#### Image Concept 2A — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** Dylan Cease Toronto Blue Jays\n**Alt Text:** Dylan Cease pitching for the Toronto Blue Jays\n**Caption Credit:** (USA TODAY Sports Images)\n**Usage:** X and Facebook posts\n\n#### Image Concept 2B — Article Hero (1200x630)\n**Type:** imagn\n**Search Terms:** Dylan Cease Blue Jays\n**Alt Text:** Dylan Cease on the mound in a Blue Jays uniform\n**Caption Credit:** (USA TODAY Sports Images)\n**Usage:** Article hero for Blue Jays rotation story\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Blue Jays Rotation Crisis — Cease on IL\n**Classification:** NEW STORY\n**Freshness:** Cease placed on IL May 25.\n**Key Facts:**\n- Dylan Cease placed on 15-day IL: left hamstring strain — HIGH (CBC Sports, ESPN, Washington Post, Yahoo Sports)\n- Left Sunday's game vs. Pittsburgh Pirates in 5th inning — HIGH (CBC Sports)\n- Cease 2026 stats: 3-3 record, 3.05 ERA, major-league-leading 92 strikeouts — HIGH (Yahoo Sports/CBC)\n- Contract: 7-year, $210M US with Toronto — HIGH (CBC Sports)\n- Also on IL: José Berríos, Max Scherzer, Shane Bieber, Cody Ponce — HIGH (Yahoo Sports)\n- Vladimir Guerrero Jr.: day-to-day after HBP on elbow — HIGH (Yahoo Sports)\n- Replacement call-up: Tanner Andrews from Triple-A Buffalo — MEDIUM (initial search — not confirmed in follow-up sources, but was mentioned)\n**Sources:**\n- cbc.ca/sports/baseball/mlb/dylan-cease-vladimir-guerrero-jr-leave-game-against-pirates-may-24\n- espn.com/mlb/story/_/id/48874786/blue-jays-dylan-cease-heading-il-hamstring-strain\n- ca.sports.yahoo.com (Yahoo Sports Canada)\n- tsn.ca/mlb/article/report-blue-jays-place-cease-on-15-day-il\n- washingtonpost.com/sports/mlb/2026/05/25/dylan-cease-injured-blue-jays",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Giants Begin Exploring Trade Deadline Fire Sale After League-Worst Run Differential (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Giants have MLB's worst run differential (-42). They traded their Gold Glove catcher.\n\nNow they're shopping Robbie Ray, Tyler Mahle, and Harrison Bader.\n\nThe $200M roster that wasn't supposed to fail is already falling apart.\n\nFire sale incoming. ⚾️\n\n#SFGiants #MLB",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SFGiants",
+            "#MLB"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-giants-fire-sale-trade-deadline-worst-run-differential.html",
+        "headline": "The Giants Have MLB's Worst Run Differential. The Trade Deadline Teardown Has Begun.",
+        "word_count": 730
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giants Trade Deadline\n\n#### Image Concept 3A — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** San Francisco Giants Oracle Park\n**Alt Text:** Oracle Park in San Francisco\n**Caption Credit:** (USA TODAY Sports Images)\n**Usage:** X and Facebook posts\n\n#### Image Concept 3B — Article Hero (1200x630)\n**Type:** imagn\n**Search Terms:** Robbie Ray San Francisco Giants\n**Alt Text:** Robbie Ray pitching for the Giants\n**Caption Credit:** (USA TODAY Sports Images)\n**Usage:** Article hero for Giants trade deadline story\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giants Trade Deadline Fire Sale\n**Classification:** NEW STORY\n**Freshness:** Trade deadline rumors actively developing; Bailey trade already made.\n**Key Facts:**\n- Giants record: 16-24 start (one source says 17-24 through 41 games) — MEDIUM (slight discrepancy; use \"worst record in NL\" framing, avoid specific W-L)\n- Run differential: -42 (worst in MLB through ~41 games) — MEDIUM (sportsnaut.com/mlbtraderumors reference)\n- Patrick Bailey traded to Cleveland Guardians — HIGH (multiple trade rumor sources)\n- Likeliest trade chips: Robbie Ray (SP), Tyler Mahle (SP), Harrison Bader (OF) — MEDIUM (foxsports.com trade tracker, USA Today reference via Yahoo Sports)\n- Major contracts struggling but unlikely traded: Jung Hoo Lee ($85M), Willy Adames ($161M), Rafael Devers ($226M), Matt Chapman ($125M) — MEDIUM (foxsports.com)\n- Potential Logan Webb offers: if team continues to struggle — LOW (single source, speculative)\n**Note:** Devers contract figure ($226M) is HIGH risk for accuracy — total contract value should be verified. Use cautiously with medium confidence.\n**Sources:**\n- foxsports.com/stories/mlb/2026-mlb-trade-deadline-rumors\n- msn.com/en-us/sports/mlb/2026-mlb-trade-deadline-rumors-tracker\n- sportsnaut.com/mlb/san-francisco-giants-trade-rumors-candidates\n- fansided.com/mlb/these-4-sf-giants-will-be-gone-by-the-mlb-trade-deadline",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Dodgers Bullpen Sets Franchise Scoreless Record at 38 Innings (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The LA Dodgers have lost Glasnow, Snell, Dreyer, AND Diaz.\n\nTheir bullpen responded by pitching 38 consecutive scoreless innings — a franchise record.\n\nKyle Hurt. 14 appearances. 0 runs allowed. 0.60 ERA.\n\nThe best bullpen story in baseball right now. ⚾️\n\n#Dodgers #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-dodgers-bullpen-franchise-record-38-scoreless-innings.html",
+        "headline": "38 Scoreless Innings and Counting: The Dodgers' Bullpen Is Setting Franchise Records While Everyone Else Is Hurt",
+        "word_count": 709
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dodgers Bullpen\n\n#### Image Concept 4A — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** Tanner Scott Los Angeles Dodgers\n**Alt Text:** Tanner Scott pitching in relief for the Dodgers\n**Caption Credit:** (USA TODAY Sports Images)\n**Usage:** X and Facebook posts\n\n#### Image Concept 4B — Article Hero (1200x630)\n**Type:** imagn\n**Search Terms:** Los Angeles Dodgers bullpen celebration\n**Alt Text:** Dodgers relievers celebrate after a scoreless outing\n**Caption Credit:** (USA TODAY Sports Images)\n**Usage:** Article hero for Dodgers bullpen story\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dodgers Bullpen Franchise Record 38 Scoreless Innings\n**Classification:** NEW STORY\n**Freshness:** Streak confirmed via multiple sources May 25, 2026.\n**Key Facts:**\n- Dodger bullpen scoreless streak: 38 consecutive innings — HIGH (dodgersnation.com, truebluela.com, Yahoo Sports)\n- Franchise record in the modern era — HIGH (truebluela.com)\n- Longest since Cleveland's 38.2 scoreless innings in 2017 — MEDIUM (dodgersnation.com)\n- Kyle Hurt: 0.60 ERA on year, 14 appearances, 0 runs allowed — HIGH (truebluela.com)\n- Tanner Scott: scoreless since April 24 — MEDIUM (truebluela.com)\n- 12 different pitchers contributed — MEDIUM (truebluela.com)\n- Missing: Tyler Glasnow, Blake Snell, Jack Dreyer, Edwin Diaz (IL with loose body in elbow) — MEDIUM (truebluela.com)\n- Edwin Diaz signed as All-Star closer, landed on IL — HIGH (dodgersnation.com)\n**Sources:**\n- dodgersnation.com/dodgers-bullpen-has-longest-scoreless-streak-since-2017/2026/05/25/\n- truebluela.com/los-angeles-dodgers-history-records/116672/bullpen-scoreless-streak-record\n- yahoo.com/articles/dodgers-bullpen-longest-scoreless-streak",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Braves Lead MLB, Rays Outplay Everyone, Guardians Dominate — Memorial Day Power Check (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "MLB power rankings through Memorial Day:\n\nNo. 1 Braves (36-18, 9-game lead)\nNo. 2 Rays (outperforming everyone's preseason picks)\nNo. 3 Dodgers\n\nTampa was projected to finish last in the AL East.\n\nThey're No. 2 in all of baseball. ⚾️\n\n#MLB #RaysUp",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#RaysUp"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-mlb-memorial-day-power-rankings-braves-rays-dodgers.html",
+        "headline": "Memorial Day MLB Power Check: Braves Lead, Rays Defy Logic, Giants Collapse",
+        "word_count": 800
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Memorial Day Power Rankings\n\n#### Image Concept 5A — Social (1080x1350)\n**Type:** imagn\n**Search Terms:** Atlanta Braves celebration 2026\n**Alt Text:** Atlanta Braves players celebrate a win\n**Caption Credit:** (USA TODAY Sports Images)\n**Usage:** X and Facebook posts (no article — Tier 3)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Memorial Day Power Rankings Check\n**Classification:** FOLLOW UP (May 25: Memorial Day standings; May 26: power ranking analysis angle)\n**Freshness:** mlb.com power rankings published for week of May 24.\n**Key Facts:**\n- Braves ranked No. 1 (second consecutive week) — HIGH (mlb.com power rankings)\n- Braves record: 36-18 — HIGH (mlb.com standings)\n- Braves division lead: nine games — HIGH (mlb.com)\n- Braves MLB-high 18 comeback wins — MEDIUM (sports search result)\n- Rays ranked No. 2 — HIGH (mlb.com power rankings)\n- Rays record: ~34-16 (leading AL) — MEDIUM (search result, confirmed via multiple sources)\n- Dodgers ranked No. 3 — HIGH (mlb.com)\n- Cleveland Guardians: 10.5-game AL Central lead — MEDIUM (search result)\n- Rays/Brewers outplaying MLB's big spenders — HIGH (fansided.com/mlbtraderumors coverage)\n**Sources:**\n- mlb.com/news/mlb-power-rankings-for-week-of-may-24-2026\n- espn.com/mlb/story/_/id/48862066/mlb-2026-memorial-day-standings-check\n- fansided.com/mlb/mlb-power-rankings-two-small-market-contenders",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

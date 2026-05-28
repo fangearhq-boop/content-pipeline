@@ -1,6 +1,46 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-27
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 2 char violations fixed story 2 tweet 1 285→246, story 5 tweet 1 288→245, 0 violations after fixes), FB posts (6 stories), image concepts (6 stories), image manifest (not_started), articles (5), fact-check (67 claims, 0 char violations after fixes, consistency clean), compile (6 stories, 8 tweets, 0 FB posts, 5 articles, 25 items), dashboard (25 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard: detached HEAD resolved via checkout main + pull; publish-unified-dashboard 403 (PAT scope — known).
+- **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment — prior session)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). 2 char violations fixed (story 2 tweet 1, story 5 tweet 1). Detached HEAD resolved via git checkout main + pull. publish-unified-dashboard 403 (PAT scope — known).
+- **Key Stories**: Jordy Frahm named USA Softball Collegiate Player of Year (breaking May 27)/Nebraska 51-6/26-game win streak/first WCWS since 2013 (Tier 1), Tennessee vs Texas WCWS rematch/Pickens+Mardjetko both First-Team All-Americans/2025 semifinal revenge game (Tier 1), Megan Grant 40 HRs vs Alabama 22-shutout staff at WCWS/7 PM ET ESPN2 (Tier 2), Arkansas WCWS debut 8:30 PM vs Nebraska/Deifel 0-for-5 now 1-for-6 (Tier 2), WCWS 2026 power rankings all 8 teams (Tier 2), WCWS bold predictions (Tier 3)
+
+## Previous Run
+- **Date**: 2026-05-26
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed story 1 tweet 1 298→251), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (56 claims, 0 char violations after fix, consistency clean), compile (5 stories, 7 tweets, 0 FB posts, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard push failed (403 PAT scope — known).
+- **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment — prior session)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push 403 (content-dashboards PAT scope — known). IMAGE MISSING expected (not_started — imagn sourcing required). 1 char violation fixed before compile (story 1 tweet 1).
+- **Key Stories**: WCWS 2026 opens Thursday/four games at Devon Park/full opening-day schedule (Tier 1), Alabama No. 1 seed/49-7/22 shutouts/1.60 ERA/16th WCWS (Tier 1), Mississippi State first WCWS/no blueprint/Coach Ricketts OU connection/opens vs Texas Tech noon (Tier 2), NiJaree Canady final shot/1000+ Ks/96 wins/0.89 postseason ERA/AUSL No. 2 pick (Tier 2), SEC sends 5 teams to WCWS/Oklahoma absent first time since 2015 (Tier 3)
+
+## Previous Run
+- **Date**: 2026-05-25
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (7 stories), research notes, story analysis, X posts (9; 0 char violations after 4 fixes), FB posts (7 stories), image concepts (7 stories), image manifest (not_started), articles (5), fact-check (86 claims, 0 char violations, consistency clean), compile (7 stories, 9 tweets, 7 FB posts, 5 articles, 35 items), dashboard (35 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish attempted (--images --status draft). Dashboard published via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress results below. IMAGE MISSING warnings expected (not_started — imagn sourcing required). 4 char violations fixed before compile (story 1 tweet 1, story 2 tweet 2, story 3 tweet 1, story 6 tweet 1). publish-dashboard initial push rejected (non-fast-forward); resolved with pull+push.
+- **Key Stories**: Mississippi State shuts out No. 1 Oklahoma 6-0/ends 9-year WCWS streak/Everett CG shutout/first-ever WCWS for MSU (Tier 1), WCWS field complete/8-team bracket set/Devon Park May 28 (Tier 1), Texas Tech run-rules Florida 16-7 in 5 innings/second straight WCWS/Mia Williams HBP saga (Tier 2), Texas 5-0 over Arizona State/Kavan CG shutout/third straight WCWS/defending champion (Tier 2), Wells ends at 39 HRs/Grant record 40 stands (Tier 2), Mia Williams HBP saga vs Florida (Tier 3), Arkansas+Mississippi State WCWS first-timers (Tier 3)
+
+## Previous Run
+- **Date**: 2026-05-24
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (9 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (96 claims, 0 char violations, consistency clean), compile (6 stories, 9 tweets, 6 FB posts, 5 articles, 32 items), dashboard (32 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py (cherry-pick after detached HEAD resolved).
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required). 0 char violations. publish-unified-dashboard 403 (PAT scope — known). Detached HEAD resolved via git checkout main + pull + cherry-pick.
+- **Key Stories**: Three Game 3s today (OU-MSU 1:30 PM ET ESPN, FL-TTech noon, TEX-ASU TBD)/Wells at 39 HRs one swing from tying Grant all-time record (Tier 1), Nebraska sweeps Oklahoma State 9-1/first WCWS since 2013/51-6/26-game win streak (Tier 1), Arkansas first WCWS in program history/10-2 over Duke/Deifel 0-for-5 to 1-for-6 (Tier 1), Alabama sweeps LSU 7-0+4-1/Briski one-hit shutout 11 Ks Game 1/16th WCWS (Tier 2), UCLA sweeps UCF/Megan Grant 40 HRs all-time record headed to Devon Park (Tier 2), WCWS preview 5 confirmed teams (Tier 3)
+
+## Previous Run
+- **Date**: 2026-05-23
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (11 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 1 char violation fixed S5T1 295→250 before compile; 0 violations after fix), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (94 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard published via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING warnings expected (not_started — imagn sourcing required). 1 char violation fixed (S5T1 295→250). publish-unified-dashboard 403 (PAT scope — known).
+- **Key Stories**: Tennessee sweeps Georgia 2-1 in Game 2/Mardjetko CG/WCWS-bound 10th time/47-10/second straight WCWS (Tier 1), Mississippi State stuns No. 1 Oklahoma 11-9/Wells HRs 38+39 (now 39 total)/5-run 7th inning comeback/Game 2 today 1 PM ET (Tier 1), Wells (39) vs Grant (40) all-time HR race one swing apart/both in SR play today (Tier 2), Arizona State upsets defending champion Texas 4-1/Game 2 tonight 7 PM ET ESPN (Tier 2), Saturday Game 2 slate 7 series WCWS spots (Tier 2), Texas Tech upsets Florida 10-8/36-1 home mystique broken/Mia Williams 7th-inning HR (Tier 3)
+
+## Previous Run
 - **Date**: 2026-05-22
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (6 stories), image concepts (6 stories including S6 Tier 3), image manifest (not_started), articles (5), fact-check (65 claims, 0 char violations, consistency clean), compile (6 stories, 8 tweets, 6 FB posts, 5 articles, 31 items), dashboard (31 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked by proxy sandbox (known). Dashboard HTML saved locally.
 - **Dashboard Published**: Local only

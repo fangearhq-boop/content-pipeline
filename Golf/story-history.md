@@ -4,6 +4,17 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-05-27 | T1 | Charles Schwab Challenge preview (May 28-31, Colonial CC, Fort Worth TX) — Åberg +900 (3 SG/round), Fowler T2 Truist, Smalley T2 PGA Championship, Thomas historical trend; par 70, 7,289 yds, 27-yd fairways (3rd-narrowest); Hanse renovation; Griffin defending +2200; Scheffler/McIlroy absent; $9.9M | X, FB, Article | FOLLOW-UP |
+| 2026-05-27 | T1 | LIV Golf Korea preview (May 28-31, Asiad CC, Busan) — Korean Golf Club rebranded from Iron Heads; Ben An + Min-kyu Kim added for home event; DeChambeau defending; 4Aces lead team standings; 159-yd par-3 island green; Peggy Gou concert R3; shotgun 1:15 PM local | X, FB, Article | FOLLOW-UP |
+| 2026-05-27 | T2 | Åberg win drought — 6 top-10s in 7 starts; 3 SG/round (1+ better than anyone in Schwab field); no wins since Genesis Invitational last season; "trips over himself on Sundays" narrative; Colonial as potential breakthrough | X, FB, Article | NEW STORY |
+| 2026-05-27 | T2 | US Women's Open preview (June 4-7, Riviera CC, Pacific Palisades) — 81st edition; first USGA women's major at Riviera; 1,897 entries; all top-25 entered; Korda 3 wins in 2026 incl. Chevron (3rd major); World No. 1 Thitikul entered; 11 past champions incl. Stark (defending); barranca + kikuyu rough course challenges | X, FB, Article | FOLLOW-UP |
+| 2026-05-27 | T2 | Alex Smalley transformation — -0.62 SG around greens (2024) → +0.45 SG (2026), 1.07-stroke flip; 6 straight top-25s; T2 Zurich Classic + T2 PGA Championship; 7th in Schwab field SG tee-to-green; +4000 odds at Colonial | X, FB, Article | NEW STORY |
+|------|------|-------|-----------|-------|
+| 2026-05-26 | T1 | Wyndham Clark wins CJ Cup Byron Nelson with closing 60 — -30 (254), beats Kim (-27) by 3, Scheffler (-25) P3; back-nine 28; first to win twice with closing 60; first win since 2024 Pebble Beach; $1.85M/500 pts | X, FB, Article | NEW STORY |
+| 2026-05-26 | T1 | Charles Schwab Challenge preview (May 28-31, Colonial CC, Fort Worth TX) — Par 70, 7,289 yds, 27-yd avg fairways (3rd-narrowest); Åberg +850, Henley +1800, Thomas +2200, Griffin (defending) +2200; Scheffler/McIlroy out | X, FB, Article | NEW STORY |
+| 2026-05-26 | T2 | Si Woo Kim runner-up at Byron Nelson — shot 60 in R2 (course record; missed 59 with closing bogey); led by 2 after 54 holes; final -27, lost by 3 to Clark; still seeking first win since 2023 Sony Open | X, FB, Article | FOLLOW-UP |
+| 2026-05-26 | T2 | LIV Golf Korea preview (May 28-31, Asiad CC, Busan) — Korean Golf Club rebranded from Iron Heads; added Ben An + Min-kyu Kim; Lucas Herbert leads LIV standings; broadcast FS1 R1-3 / FOX R4 at 12 AM ET | X, FB, Article | NEW STORY |
+| 2026-05-26 | T2 | US Women's Open preview (June 4-7, Riviera CC, Pacific Palisades) — first USGA women's championship at Riviera; Korda favored (3 wins in 2026 incl. Chevron, 17th career win); historic venue (hosted 1948 US Open) | X, FB, Article | NEW STORY |
 | 2026-05-21 | T1 | CJ Cup Byron Nelson opens — Round 1 at TPC Craig Ranch; $10.3M; Scheffler defends; grouped with Koepka + Si Woo Kim; 5 players withdrew post-Aaron Rai PGA win | X, FB, Article | NEW STORY |
 | 2026-05-21 | T1 | Aaron Rai PGA Championship aftermath — $3.69M; lifetime PGA exemption; 5-year Masters/US Open/Open/Players exemptions; first English winner since 1919; first Indian-heritage men's major champion | X, FB, Article | FOLLOW-UP |
 | 2026-05-21 | T2 | McIlroy Grand Slam wait — T7 at PGA, 5 behind Rai; 3 legs (Masters/US Open/Open); skipping Byron Nelson + Schwab; next: Memorial June 4-7; US Open is next Grand Slam attempt | X, FB, Article | FOLLOW-UP |
@@ -638,3 +649,40 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** LIV Golf Korea: May 28-31, Asiad CC, Busan. Herbert individual leader 99.18 pts. Ripper GC leads teams. 4Aces GC won Virginia team title (in playoff). 57 players, 72 holes, no cut.
 - **Status:** FOLLOW UP (Herbert win covered May 21)
 - **Follow-up ideas:** Korea results; standings update post-Korea
+
+## 2026-05-24
+
+### STORY 1: CJ Cup Byron Nelson Final Round — Kim Leads Scheffler and Clark
+- **Tier:** 1
+- **Category:** Tournament Final Round / PGA Tour
+- **Key facts:** Si Woo Kim enters final round at -21, leads by 2 over Scottie Scheffler and Wyndham Clark (both -19). Kim and Scheffler paired together (tee 1:40 PM ET); Clark/Jaeger at 1:30 PM ET. Friendship angle: Kim and Scheffler are Royal Oaks CC members who practice together. Scheffler is defending Byron Nelson champion (shot 65 in R3). Clark is 2023 U.S. Open champion and wild card. Kim seeking first win since 2023 Sony Open.
+- **Status:** FOLLOW UP (from 2026-05-22 R1/R2 coverage)
+- **Follow-up ideas:** Final result; Kim win or collapse; Scheffler second title
+
+### STORY 2: Si Woo Kim — Nearly Shot 59, Leads Byron Nelson at -21
+- **Tier:** 1
+- **Category:** Player Feature / PGA Tour
+- **Key facts:** Kim's R2 60 was a course record at TPC Craig Ranch and CJ Cup Byron Nelson tournament 36-hole record. Reached 18th tee at 12-under through 17 holes — one birdie from 59. Made bogey, settled for 60. Three rounds: 64-60-68 = -21. First win since January 2023 Sony Open (3-year drought). One of the purest ball-strikers on tour.
+- **Status:** FOLLOW UP (from 2026-05-22 R1/R2 coverage)
+- **Follow-up ideas:** Kim final round result; first win since 2023
+
+### STORY 3: Charles Schwab Challenge Preview — Hogan's Alley at 80
+- **Tier:** 2
+- **Category:** Tournament Preview / PGA Tour
+- **Key facts:** Charles Schwab Challenge starts May 25, Colonial Country Club, Fort Worth TX. 80th consecutive year at Colonial — longest uninterrupted venue-event relationship in PGA Tour history. $9.9M purse. Aberg and Thomas headline. Griffin defends. "Hogan's Alley" nickname (Ben Hogan won 5 times). Green Mile closing stretch (holes 16-18).
+- **Status:** NEW STORY
+- **Follow-up ideas:** R1 leaderboard; Griffin defense; Hogan historical angle
+
+### STORY 4: US Women's Open Preview — Korda at Riviera
+- **Tier:** 2
+- **Category:** Major Championship Preview / LPGA
+- **Key facts:** 81st U.S. Women's Open Championship Presented by Ally, June 4-7, Riviera CC, Pacific Palisades CA. Korda 3 wins in 2026, World No. 2, runner-up 2025 USWO (Maja Stark won at Erin Hills; Korda finished 2 shots back). Korda's putter cost her at Erin Hills. Riviera demands precision shotmaking.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Field announcements; Korda preparation; Stark defense
+
+### STORY 5: LIV Golf Korea Preview — Herbert vs Rahm in Busan
+- **Tier:** 2
+- **Category:** LIV Golf / Tournament Preview
+- **Key facts:** LIV Golf Korea: May 28-31, Asiad CC, Busan, South Korea. LIV's first event on Korean soil. Herbert leads individual standings (won Virginia wire-to-wire). Rahm won Mexico City by 6 shots. South Korea has deep golf culture. Significant Asia-Pacific market for LIV.
+- **Status:** FOLLOW UP (from 2026-05-22 LIV Korea preview)
+- **Follow-up ideas:** Korea R1 results; Herbert vs Rahm standings battle

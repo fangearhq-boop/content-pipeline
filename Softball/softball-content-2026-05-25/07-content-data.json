@@ -1,0 +1,429 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-25",
+  "compiled_at": "2026-05-25T10:21:44.239046+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Miss State shocks OU",
+      "type": "Text Post"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 1",
+      "type": "Text Post (2nd angle)"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 — WCWS field set",
+      "type": "Text Post"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "Text Post (2nd angle)"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 3 — Texas Tech",
+      "type": "Text Post"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 4 — Texas",
+      "type": "Text Post"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5 — Wells ends at 39",
+      "type": "Text Post"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 6 — Mia Williams",
+      "type": "Text Post"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7 — First-timers",
+      "type": "Text Post"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Miss State",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 — WCWS field",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 3 — Texas Tech",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 4 — Texas",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5 — Wells",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 6 — Mia Williams",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 7 — First-timers",
+      "type": "FB Long-Form"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Mississippi State Stuns Oklahoma 6-0 — 9-Year WCWS Streak Ends (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:00 AM ET (shock/upset angle), 9:30 AM ET (streak angle)",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Mississippi State just shut out No. 1 Oklahoma 6-0.\n\nDelainey Everett — 13.1 career innings before this Super Regional — threw a complete-game shutout.\n\nFirst time OU was blanked in 399 games. The 9-year WCWS streak is over. 🥎\n\n#HailState #BoomerSooner #NCAASoftball",
+          "posting_time": "9:00 AM ET (shock/upset angle), 9:30 AM ET (streak angle)",
+          "tweet_type": "",
+          "hashtags": [
+            "#HailState",
+            "#BoomerSooner",
+            "#NCAASoftball"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Oklahoma hasn't missed the WCWS since 2015.\n\nUntil now.\n\nMississippi State makes their FIRST-EVER WCWS appearance by beating the most dominant program of the last decade.\n\nThis is one for the history books. 🥎\n\n#HailState #NCAASoftball #CollegeSoftball",
+          "posting_time": "9:00 AM ET (shock/upset angle), 9:30 AM ET (streak angle)",
+          "tweet_type": "",
+          "hashtags": [
+            "#HailState",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "Mississippi State just did the unthinkable.\n\nOn Sunday afternoon in Norman, a team that nobody expected to be there — the Bulldogs, a program that had never once reached the Women's College World Series — shut out No. 1 Oklahoma 6-0 in Game 3 of the Super Regional. Just like that, a 9-year streak was over.\n\nThe pitcher who ended it: Delainey Everett, a junior who had thrown just 13.1 innings in her entire career before this Super Regional. She stepped into the biggest moment in Mississippi State softball history and responded with a complete-game shutout — three hits, three strikeouts, zero runs. Oklahoma hadn't been held scoreless in 399 games. The last time it happened was the 2019 WCWS.\n\nKinley Keller drove in three runs. Morgan Bernardini and Paige Ernstes hit home runs. And Kendall Wells, who came in one homer away from Megan Grant's all-time record, was hit in the jaw by a pitch in the third inning — and came back out to play in the fourth. Oklahoma's season ended 52-10.\n\nThe Bulldogs are headed to Devon Park for the first time. It's the best story in college softball right now.\n\nWhat did you think of that result? Were you watching on Sunday?\n\n---",
+        "image_caption": "Mississippi State just ended Oklahoma's 9-year WCWS streak. Their first-ever Women's College World Series appearance. What a Sunday. 🥎",
+        "posting_time": "9:00 AM ET (shock/upset angle), 9:30 AM ET (streak angle)"
+      },
+      "article": {
+        "filename": "article-01-mississippi-state-shocks-oklahoma-ends-9-year-wcws-streak.html",
+        "headline": "Mississippi State Shuts Out Oklahoma 6-0, Ends 9-Year WCWS Streak in Historic Upset",
+        "word_count": 807
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mississippi State Stuns Oklahoma 6-0\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Action shot from the pitcher's circle with player celebrating or pumping fist after a big out. Low angle, crowd visible in background, dramatic lighting.\n\n**Photo Search Terms (Imagn):**\n1. \"Delainey Everett Mississippi State\"\n2. \"Mississippi State softball\"\n3. \"Oklahoma softball Norman\"\n4. \"Patty Gasso Oklahoma\"\n\n**Text Overlay:**\n- Headline: \"9-YEAR STREAK OVER\"\n- Subtitle: \"Miss. State Shocks No. 1 OU, 6-0\"\n- Headline Color: #FFFFFF (white)\n- Subtitle Color: #F4C542 (gold)\n- Bar: Semi-transparent dark, bottom third\n\n**Composition Notes:** Portrait orientation. Dramatic moment capture. Space at bottom third for text bar.\n\n#### Article Hero (1200×630, 1.91:1 landscape)\n\n**Photo Search Terms:** \"Delainey Everett Mississippi State\" or \"Mississippi State softball\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mississippi State Stuns Oklahoma 6-0 — 9-Year WCWS Streak Ends\n**Decision:** FOLLOW UP — Mississippi State-Oklahoma series covered May 23 (Game 1 upset 11-9, Wells HR chase) and May 24 (Game 2 OU kept season alive, Game 3 preview). Game 3 shutout result is entirely new — first shutout of OU in 399 games is a distinct, major fact.\n**Sources:**\n- NCAA.com video: \"Mississippi State ends Oklahoma's 9-year WCWS streak | Full highlights\" (May 24, 2026) — https://www.ncaa.com/video/softball/2026-05-24/mississippi-state-ends-oklahomas-9-year-wcws-streak-full-highlights\n- Yahoo Sports: \"Mississippi State softball breaks Oklahoma streak to reach first-ever WCWS\" (May 24, 2026) — https://sports.yahoo.com/articles/mississippi-state-softball-breaks-oklahoma-211856977.html\n- MSN/syndicated: \"Mississippi State softball breaks Oklahoma streak to reach first-ever WCWS\" (May 24, 2026)\n- SI.com: \"Oklahoma's Women's College World Series Streak Over After Blowout Loss to Mississippi State\" (May 24, 2026)\n- ESPN.com: Final score Mississippi State 6, Oklahoma 0 — https://www.espn.com/college-softball/game/_/gameId/401873446\n- The Dispatch: \"Bulldogs ride stellar start from Everett to first-ever WCWS appearance\" (May 24, 2026)\n- Yahoo Sports: \"Kendall Wells injury update: OU softball catcher hit in face by pitch\" (May 24, 2026) — https://sports.yahoo.com/articles/kendall-wells-injury-ou-softball-195040652.html\n- OU Daily: \"NCAA softball: OU's Kendall Wells hit in head by pitch; Sooner fans boo Mississippi State pitcher\" (May 24, 2026)\n**Key Facts (with confidence tags):**\n- Final score: Mississippi State 6, Oklahoma 0 [HIGH — ESPN box score]\n- Mississippi State's first-ever WCWS appearance [HIGH — multiple sources]\n- Oklahoma's 9-consecutive-year WCWS streak ended [HIGH — NCAA.com headline + Yahoo]\n- Oklahoma last missed WCWS in 2015 [HIGH — Yahoo Sports article]\n- Delainey Everett started — complete-game shutout, 3 H, 3 K [HIGH — multiple sources]\n- Everett had thrown only 13.1 innings all season prior to this Super Regional [HIGH — The Dispatch]\n- First time Oklahoma was shut out in 399 games [HIGH — multiple sources cite this]\n- Last shutout of Oklahoma: 2019 WCWS [MEDIUM — referenced in SI article, not independently verified]\n- Kinley Keller 2-for-4, 3 RBIs [HIGH — Yahoo Sports box score article]\n- Morgan Bernardini and Paige Ernstes both hit home runs [HIGH — Yahoo Sports]\n- Oklahoma ends season 52-10 [HIGH — SI article]\n- Wells hit by pitch in jaw/face in 3rd inning, returned in 4th [HIGH — multiple sources]\n- Everett's start was her first-ever career start [MEDIUM — The Dispatch, not independently verified]\n**Freshness:** Published May 24, 2026 — all sources within 24 hours. Event is from Sunday afternoon. Coverage is current and active as of this pipeline run.\n**Why it matters:** This is the defining result of Super Regional weekend — No. 1 Oklahoma, a 9-year WCWS veteran and perennial title contender, was shut out and eliminated by a program making its first WCWS appearance. The Wells storyline (HR chase ending with her being hit by pitch) adds emotional drama.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "WCWS Field Is Set — Eight Teams Headed to Devon Park (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:00 AM ET (bracket/field), 10:30 AM ET (storylines/firsts)",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The 2026 WCWS field is COMPLETE. Eight teams headed to Devon Park.\n\n🥎 Texas Tech vs. Mississippi State — 12 PM\n🥎 Texas vs. Tennessee — 2:30 PM\n🥎 Alabama vs. UCLA — 7 PM\n🥎 Nebraska vs. Arkansas — 9:30 PM\n\nMay 28. Oklahoma City. Let's go. 🔥\n\n#NCAASoftball #CollegeSoftball #WCWS",
+          "posting_time": "10:00 AM ET (bracket/field), 10:30 AM ET (storylines/firsts)",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#CollegeSoftball",
+            "#WCWS"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Two programs making their FIRST-EVER WCWS appearance in 2026.\n\nArkansas. Mississippi State.\n\nTexas goes for back-to-back. Texas Tech back as last year's finalist.\n\nMegan Grant (40 HRs) at Devon Park.\n\nThursday. 🥎\n\n#NCAASoftball #WCWS #CollegeSoftball",
+          "posting_time": "10:00 AM ET (bracket/field), 10:30 AM ET (storylines/firsts)",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#WCWS",
+            "#CollegeSoftball"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "The wait is over — the 2026 Women's College World Series field is complete, and Devon Park opens May 28.\n\nAfter Sunday's three decisive Game 3s, the eight-team bracket is set. Here's how it breaks down for opening day on Thursday:\n\nTexas Tech vs. Mississippi State at noon ET. Texas vs. Tennessee at 2:30 PM. Alabama vs. UCLA at 7:00 PM. Nebraska vs. Arkansas at 9:30 PM.\n\nTwo programs are making their first-ever WCWS appearance: Arkansas (who swept Duke in the Super Regional) and Mississippi State (who just shocked No. 1 Oklahoma). Texas enters as the defending national champion, going for back-to-back titles. Texas Tech is back for their second straight trip after finishing as last year's runners-up.\n\nAnd then there's Megan Grant. The UCLA outfielder broke the all-time NCAA single-season home run record at 40 this season. She'll take the field at Devon Park and try to add a national title to the résumé.\n\nThe 2026 WCWS has everything — Cinderellas, dynasties, individual records, and four SEC programs in the field. We'll be covering every game.\n\nWho are you picking to win it all? Let us know below.\n\n---",
+        "image_caption": "Eight teams. Four first-round matchups. Devon Park opens Thursday. The 2026 WCWS is going to be must-watch softball. 🥎",
+        "posting_time": "10:00 AM ET (bracket/field), 10:30 AM ET (storylines/firsts)"
+      },
+      "article": {
+        "filename": "article-02-wcws-2026-field-set-eight-teams-devon-park.html",
+        "headline": "WCWS 2026 Field Is Set: Eight Teams, Four Matchups, Everything You Need to Know",
+        "word_count": 680
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCWS Field Is Set\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Devon Park exterior or aerial shot, or a collage/graphic of all eight teams' logos. Alternatively, game action showing multiple uniforms.\n\n**Photo Search Terms (Imagn):**\n1. \"Devon Park Oklahoma City softball\"\n2. \"Women's College World Series Oklahoma City\"\n3. \"WCWS 2026 softball\"\n4. \"Oklahoma City softball stadium\"\n\n**Text Overlay:**\n- Headline: \"WCWS FIELD IS SET\"\n- Subtitle: \"Devon Park Opens May 28\"\n- Headline Color: #FFFFFF (white)\n- Subtitle Color: #F4C542 (gold)\n- Bar: Semi-transparent dark, bottom third\n\n**Composition Notes:** Wide establishing shot works well here. Clean image that communicates the venue and event scale.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WCWS Field Is Set — Eight Teams Headed to Devon Park\n**Decision:** FOLLOW UP — WCWS Preview covered May 24 with five confirmed teams (Tennessee, Nebraska, Arkansas, Alabama, UCLA). Three Sunday Game 3s completed the field. New angle is full bracket, matchups, and complete eight-team field.\n**Sources:**\n- NCAA.com: \"2026 NCAA softball tournament: Bracket, schedule for the Women's College World Series, scores\" (May 24, 2026) — https://www.ncaa.com/news/softball/article/2026-05-24/2026-ncaa-softball-tournament-bracket-schedule-womens-college-world-series-scores\n- On3.com: \"2026 Women's College World Series schedule\" — https://www.on3.com/softball/news/2026-womens-college-world-series-schedule/\n- MSN: \"When is the Women's College World Series? Full WCWS schedule, bracket\"\n- Multiple bracket aggregators (sportsbrackets.net, ticketx.com, bleacherreport.com)\n**Key Facts:**\n- Eight teams confirmed: Texas, Tennessee, Alabama, UCLA, Texas Tech, Nebraska, Arkansas, Mississippi State [HIGH — multiple sources]\n- WCWS begins May 28 at Devon Park, Oklahoma City [HIGH — NCAA.com]\n- Game 1: Texas Tech vs. Mississippi State, 12:00 PM ET, ESPN [HIGH — multiple sources]\n- Game 2: Texas vs. Tennessee, 2:30 PM ET, ESPN [HIGH — multiple sources]\n- Game 3: Alabama vs. UCLA, 7:00 PM ET, ESPN2 [HIGH — multiple sources]\n- Game 4: Nebraska vs. Arkansas, 9:30 PM ET [HIGH — multiple sources]\n- Two first-timers: Arkansas (first WCWS) and Mississippi State (first WCWS) [HIGH — confirmed]\n- Texas Tech: second straight WCWS [HIGH — WreckEm Red article]\n- Texas: third consecutive WCWS, defending champion [HIGH — NCAA.com video title]\n- Texas Tech finished as runners-up to Texas in 2025 [MEDIUM — referenced in WreckEm article, consistent with known history]\n**Freshness:** Field completed Sunday May 24. Bracket announced same day. All sources within 24 hours.\n**Why it matters:** The WCWS preview is the natural follow-up to a week of Super Regional coverage. Fans want the complete bracket, matchups, and storylines heading into Devon Park.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Texas Tech 16, Florida 7 — Run Rule, Back-to-Back WCWS (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Texas Tech run-ruled Florida 16-7 in FIVE INNINGS.\n\nFive HRs. First NCAA tournament game ever with both teams scoring 7+ in the first two innings.\n\nFlorida's first home mercy-rule loss in program history.\n\nRed Raiders headed back to the WCWS. 🥎\n\n#WreckEm #GoGators #NCAASoftball",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#GoGators",
+            "#NCAASoftball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "Texas Tech put on an offensive show for the ages on Sunday — and ended Florida's season in the most emphatic way possible.\n\nThe Red Raiders defeated Florida 16-7 in just five innings, hitting five home runs and forcing a run-rule ending in Game 3 of the Gainesville Super Regional. It was the first time in NCAA tournament history that both teams scored seven or more runs through the first two innings. The Gators absorbed their first home mercy-rule loss in program history.\n\nTexas Tech had already defeated Florida 10-8 in Game 1, then lost Game 2 before winning the finale in dominant fashion. The 11th-seeded Red Raiders will head to Devon Park for the second straight year — last season they finished as national runners-up to Texas.\n\nThe series also produced one of the wildest subplots of the entire tournament. But on the field, Texas Tech was the better team when it mattered most — and now they're one of eight teams standing.\n\nDid you watch this series? That was something else.\n\n---",
+        "image_caption": "Texas Tech: 16 runs, five home runs, run-rule victory over Florida in five innings. The Red Raiders are headed back to the WCWS. 🥎",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-texas-tech-run-rules-florida-second-straight-wcws.html",
+        "headline": "Texas Tech Run-Rules Florida 16-7 in Five Innings, Claims Second Straight WCWS Berth",
+        "word_count": 676
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech 16, Florida 7 — Run Rule\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Batter celebrating a home run, or team celebrating in the dugout. Red Raiders uniforms if possible.\n\n**Photo Search Terms (Imagn):**\n1. \"Mia Williams Texas Tech\"\n2. \"Texas Tech softball\"\n3. \"Texas Tech softball Gainesville\"\n4. \"Florida Gators softball\"\n\n**Text Overlay:**\n- Headline: \"16-7 RUN RULE\"\n- Subtitle: \"Tech Back-to-Back WCWS\"\n- Headline Color: #FFFFFF (white)\n- Subtitle Color: #F4C542 (gold)\n- Bar: Semi-transparent dark, bottom third\n\n**Composition Notes:** High-energy image preferred. Celebration or batting action.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech 16, Florida 7 — Run Rule, Five HRs\n**Decision:** FOLLOW UP — Texas Tech-Florida series covered May 23-24 (Game 1 loss for Florida, Game 2 preview). Game 3 final result is new.\n**Sources:**\n- WreckEm Red: \"Mia Williams, Texas Tech run over Florida in Game 3 to punch ticket to 2026 WCWS\" (May 24, 2026)\n- Florida Gators official: \"GAME 3 FINAL: Texas Tech 16, Florida 7\" (May 24, 2026) — https://floridagators.com/news/2026/5/24/softball-game-3-final-florida-vs-texas-tech-may-24-2026\n- WRUF.com: \"Florida Softball's Season Ends in Super Regional Slugfest vs. Texas Tech\"\n- AOL: \"How Mia Williams hit-by-pitch saga overshadowed Florida-Texas Tech softball clash\"\n- NCAA.com: \"OFFENSIVE FIREWORKS in Texas Tech-Florida softball super regional finale | Game 3 highlights\"\n- NCAA.com video article (confirmed run rule ending in 5 innings, 16-7 final)\n**Key Facts:**\n- Final score: Texas Tech 16, Florida 7 (F/5, run rule) [HIGH — Florida Gators official + multiple sources]\n- First time in NCAA tournament history both teams scored 7+ runs through first two innings [HIGH — cited in multiple coverage articles]\n- Texas Tech hit five home runs [HIGH — multiple sources]\n- This is Florida's first home mercy-rule loss in program history [HIGH — multiple sources]\n- Florida was 36-1 in home Super Regional Game 3s prior to this loss (had not previously lost at home in a Super Regional Game 3) — wait, this is a combined fact — let me note the exact claim: \"first home NCAA Tournament mercy-rule loss\" is what's cited, not the 36-1 record. The 36-1 stat was from yesterday's content about Florida's home history. I should verify the exact record claim.\n- Texas Tech is 11th-seeded [HIGH — multiple sources]\n- Texas Tech's second consecutive WCWS appearance [HIGH]\n- Teams skipped postgame handshake [HIGH — roundtable.io article]\n**Freshness:** May 24, 2026 — within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Texas 5, Arizona State 0 — Kavan Shuts It Down, Third Straight WCWS (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Teagan Kavan. 106 pitches. Complete-game shutout in a win-or-go-home Game 3.\n\nTexas 5, Arizona State 0.\n\nThe defending national champions are going to their THIRD STRAIGHT WCWS.\n\nKavan vs. the field. Book it. 🔥\n\n#HookEm #NCAASoftball #CollegeSoftball",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "When Texas needed its ace the most, Teagan Kavan delivered.\n\nThe defending national champion Longhorns defeated Arizona State 5-0 in Game 3 of the Austin Super Regional on Sunday. Kavan threw all 106 pitches of a complete-game shutout in her third start of the series — after Arizona State won Game 1 and put the season on the line.\n\nTexas advances to the Women's College World Series for the third consecutive year. No team in the current era has won back-to-back WCWS titles recently, but the Longhorns are the defending champions and they've just shown why they belong in that conversation. Kavan is one of the best in the country, and she's going to Devon Park running on competitive fire.\n\nArizona State went 45-17 on the season — a program that briefly sent Texas to the brink. They gave the Longhorns everything they had. But when the game was on the line in a winner-take-all matchup, Kavan didn't give an inch.\n\nTexas going for back-to-back. Who's picking them to do it?\n\n---",
+        "image_caption": "Texas returns to the WCWS for the third straight year. Kavan's shutout in Game 3 sent the defending champions back to Devon Park. 🥎",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-texas-beats-arizona-state-third-straight-wcws.html",
+        "headline": "Teagan Kavan's Shutout Sends Texas to Third Straight WCWS as Defending Champions",
+        "word_count": 604
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas 5, Arizona State 0 — Kavan Shuts It Down\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Pitcher in mid-delivery, determined expression. Game action from the pitcher's circle.\n\n**Photo Search Terms (Imagn):**\n1. \"Teagan Kavan Texas\"\n2. \"Texas Longhorns softball\"\n3. \"Texas softball Austin\"\n4. \"Arizona State softball\"\n\n**Text Overlay:**\n- Headline: \"THIRD STRAIGHT WCWS\"\n- Subtitle: \"Kavan's Shutout Sends Texas Back\"\n- Headline Color: #FFFFFF (white)\n- Subtitle Color: #F4C542 (gold)\n- Bar: Semi-transparent dark, bottom third\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas 5, Arizona State 0 — Kavan Completes Third Straight WCWS Bid\n**Decision:** FOLLOW UP — Texas-Arizona State series covered May 23-24. Game 3 result is new.\n**Sources:**\n- NCAA.com video: \"Texas defeats Arizona State to advance to their third-straight WCWS | Full Highlights\" (May 24, 2026)\n- ESPN.com: \"Arizona State vs. Texas (May 24, 2026) Box Score\" — https://www.espn.com/college-softball/boxscore/_/gameId/401873441\n- UT Athletics: \"Softball vs Arizona State on 5/24/2026 - Box Score\" — https://texaslonghorns.com/boxscore.aspx?id=22675\n- Yahoo Sports: \"Texas vs Arizona State softball: Live updates as UT leads in Game 3 of NCAA Tournament\" (May 24, 2026)\n**Key Facts:**\n- Final score: Texas 5, Arizona State 0 [HIGH — ESPN box score, NCAA.com video title]\n- Teagan Kavan: complete-game shutout, 106 pitches [HIGH — multiple sources cite this]\n- Texas advances to third consecutive WCWS [HIGH — NCAA.com video title: \"third-straight WCWS\"]\n- Texas is defending national champion [HIGH — known from story history]\n- Arizona State's final record: 45-17 [MEDIUM — referenced in preview article, confirm from box score]\n- Kavan started Game 3 after also pitching Game 1 and Game 2 of the series [MEDIUM — referenced, not independently confirmed for all three]\n**Freshness:** May 24, 2026 — within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wells Ends Season at 39 HRs — Grant's Record Stands for Now (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kendall Wells finishes the 2026 season with 39 home runs.\n\nMegan Grant's record: 40. Still standing.\n\nWells was hit in the jaw by a pitch in Game 3 and STILL came back out to play.\n\nA freshman. 39 HRs. She'll be back in 2027. 👀\n\n#BoomerSooner #NCAASoftball #Softball",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BoomerSooner",
+            "#NCAASoftball",
+            "#Softball"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "Kendall Wells' remarkable freshman season is over — and she finishes with 39 home runs.\n\nMegan Grant's all-time NCAA record of 40 stands. Wells came in one swing away from tying it, and a pitch to the jaw in the third inning of Game 3 added a painful exclamation point to an incredible but incomplete chase. Wells returned to the field in the fourth inning, catcher's gear and all, but Oklahoma couldn't come back against Mississippi State.\n\nWells ends the 2026 season as the second-greatest single-season home run hitter in NCAA history. She's a freshman. She'll be back.\n\nWhat makes this story so compelling is what comes next. Grant's record is 40 — and it was set this season. Wells has already shown she can hit at that pace. The 2027 season will bring Wells back to Norman with a chance to start that chase again, with the added context of knowing exactly how close she came.\n\nFor now, Oklahoma's season ends at 52-10. The WCWS goes on without the Sooners for the first time since 2015.\n\nWells gave everything she had. And 39 is a number nobody will forget.\n\n---",
+        "image_caption": "39 home runs. A freshman. Hit in the jaw and still came back to play. Wells' season is over, but her story is far from done. 🥎",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-kendall-wells-season-ends-39-home-runs.html",
+        "headline": "Kendall Wells' Season Ends at 39 Home Runs — Megan Grant's Record Survives the 2026 Season",
+        "word_count": 631
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wells Ends Season at 39 HRs\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Wells batting action or walking off field, reflective mood. Could also be a graphic showing \"39\" prominently.\n\n**Photo Search Terms (Imagn):**\n1. \"Kendall Wells Oklahoma\"\n2. \"Kendall Wells Oklahoma softball\"\n3. \"Oklahoma softball catcher\"\n4. \"Megan Grant UCLA\"\n\n**Text Overlay:**\n- Headline: \"39 HOME RUNS\"\n- Subtitle: \"Wells' Season Ends — Record Chase Continues in 2027\"\n- Headline Color: #FFFFFF (white)\n- Subtitle Color: #F4C542 (gold)\n- Bar: Semi-transparent dark, bottom third\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wells Ends Season at 39 HRs\n**Decision:** FOLLOW UP — Wells/Grant HR chase covered extensively May 22-24. Conclusion angle (OU eliminated, Wells won't pass Grant this season) is new.\n**Sources:**\n- Yahoo Sports: \"Kendall Wells injury update: OU softball catcher hit in face by pitch vs Mississippi State\" (May 24, 2026)\n- OU Daily: \"NCAA softball: OU's Kendall Wells hit in head by pitch; Sooner fans boo Mississippi State pitcher\"\n- SI.com Oklahoma coverage\n- Wikipedia: \"Kendall Wells\" page (for biographical/career context)\n**Key Facts:**\n- Wells finishes 2026 season with 39 HRs [HIGH — covered throughout series history]\n- Grant holds all-time NCAA record with 40 HRs (set in 2026 season) [HIGH — covered in story history]\n- Wells is a freshman who will return in 2027 [MEDIUM — age/class info, not independently verified beyond roster page references]\n- Wells hit by pitch in jaw/face in 3rd inning of Game 3, returned in 4th [HIGH — multiple May 24 sources]\n- Oklahoma ends 2026 at 52-10 [HIGH — SI.com]\n**Note on age verification:** Wells' class (freshman) needs verification against OU roster before use in articles. Wikipedia page exists — confirm class year rather than assuming.\n**Freshness:** May 24, 2026 — within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Mia Williams vs. Florida — The Hit-By-Pitch Saga (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Mia Williams hit by pitch FIVE TIMES vs. her old team Florida.\n\nHer dad — NBA legend Jason Williams — got ejected from the stands.\n\nShe hit .435 with 23 HRs and helped run-rule the Gators.\n\nTournament's main character. 🥎\n\n#WreckEm #NCAASoftball #CollegeSoftball",
+          "posting_time": "5:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#NCAASoftball",
+            "#CollegeSoftball"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "Five times.\n\nFive times, Florida pitchers hit Mia Williams with a pitch during the Super Regional series. Three of those came in Game 3 alone. Williams, who transferred from Florida after the 2024 season, essentially walked into enemy territory — back to Gainesville, back against her former program — and was plunked more often than any player you'll see in a tournament game this season.\n\nHer father, NBA legend Jason Williams — known as \"White Chocolate\" from his Sacramento Kings days — was ejected from the stands after a confrontation with Florida fans. The moment was captured on video and spread across sports social media well beyond the softball world.\n\nAnd yet, through all of it, Mia Williams kept playing. She hit .435 this season, slugged .908, and hit 23 home runs. She helped Texas Tech run-rule the Gators in five innings and punch a ticket to the WCWS.\n\nWhether those hit-by-pitches were intentional or coincidental, Williams became the defining human story of Super Regional weekend. She's headed to Devon Park. The Florida series is over. And the softball world is absolutely going to be watching when Texas Tech takes the field May 28.\n\nWhat did you make of the Mia Williams situation? Let us know.\n\n---",
+        "image_caption": "Five hit-by-pitches. Her dad ejected from the stands. Still hit .435 this season. Mia Williams became the tournament's main character this weekend. 🥎",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mia Williams vs. Florida\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Williams in Texas Tech uniform, action shot or portrait. Expressive moment — running bases, dugout, reaction.\n\n**Photo Search Terms (Imagn):**\n1. \"Mia Williams Texas Tech\"\n2. \"Texas Tech softball outfield\"\n3. \"Mia Williams Red Raiders\"\n4. \"Texas Tech softball Florida\"\n\n**Text Overlay:**\n- Headline: \"5 HIT-BY-PITCHES\"\n- Subtitle: \"The Super Regional's Main Character\"\n- Headline Color: #FFFFFF (white)\n- Subtitle Color: #F4C542 (gold)\n- Bar: Semi-transparent dark, bottom third\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mia Williams vs. Florida — The Hit-By-Pitch Saga\n**Decision:** NEW STORY — Mia Williams' individual storyline (transfer from Florida, hit by pitch five times, father ejected) emerged as the most-talked-about subplot of Super Regional weekend. Unique human-interest angle distinct from the team story.\n**Sources:**\n- AOL: \"How Mia Williams hit-by-pitch saga overshadowed Florida-Texas Tech softball clash\" (May 24, 2026)\n- AOL: \"Florida softball fan ejected after spat with Mia Williams' family, father Jason Williams\" (May 24, 2026)\n- Yahoo Sports: \"Barstool's Jason Williams involved in altercation at Florida softball game\" (May 24, 2026)\n- SI.com: \"How Mia Williams—Daughter of Former NBA Player Jason Williams—Became the NCAA Softball Tournament's Main Character\" (May 24, 2026)\n- WreckEm Red: \"How does Florida keep hitting Texas Tech's Mia Williams in this Super Regional?\" (May 24, 2026)\n**Key Facts:**\n- Mia Williams hit by pitch five times across the series [HIGH — multiple sources]\n- Williams transferred from Florida [HIGH — multiple sources]\n- Jason Williams (White Chocolate, former NBA player) is her father [HIGH — multiple sources]\n- Jason Williams was ejected from the stands [HIGH — multiple sources]\n- Mia Williams: .435 BA, 23 HRs, .908 slugging percentage this season [MEDIUM — WreckEm Red article, season stats]\n- Three hit-by-pitches in Game 3 alone [MEDIUM — referenced in WreckEm Red article, confirm]\n**Freshness:** May 24, 2026 — within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Two WCWS First-Timers — Arkansas and Mississippi State Make History (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Two programs in the 2026 WCWS have never been there before.\n\nArkansas. Mississippi State.\n\nBoth made it by beating programs nobody expected them to beat.\n\nFirst-timers with nothing to lose at Devon Park.\n\nMay 28 can't come fast enough. 🥎\n\n#HailState #WPS #NCAASoftball",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HailState",
+            "#WPS",
+            "#NCAASoftball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "Two programs in this year's Women's College World Series have never stood on that stage before.\n\nArkansas made their first-ever WCWS appearance by sweeping Duke in the Super Regional — a remarkable achievement for a program that went 0-for-5 in Super Regionals under head coach Courtney Deifel before this year.\n\nMississippi State made theirs by doing the impossible — shutting out No. 1 Oklahoma 6-0 on Oklahoma's home field in Game 3. Never been there before. Never been expected to be there. Now they're headed to Devon Park.\n\nBoth teams are SEC programs, and both represent something bigger than just a tournament bracket entry: years of investment, near-misses, and a fanbase that's been waiting for this moment. Arkansas opens against Nebraska on Thursday night at 9:30 PM ET. Mississippi State plays Texas Tech at noon.\n\nFirst-timers at the WCWS tend to play loose. They don't have the weight of expectation. And both of these teams proved they can beat anyone.\n\nThe 2026 WCWS just got a lot more interesting.\n\n---",
+        "image_caption": "Arkansas. Mississippi State. Two first-timers. Two programs that had never reached Devon Park before this week. History was made this weekend. 🥎",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Two WCWS First-Timers\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Two images side by side (Arkansas, Mississippi State) OR a single player celebration from either first-time program.\n\n**Photo Search Terms (Imagn):**\n1. \"Arkansas softball\"\n2. \"Mississippi State softball\"\n3. \"Arkansas Razorbacks softball\"\n4. \"Mississippi State Bulldogs softball\"\n\n**Text Overlay:**\n- Headline: \"FIRST-EVER WCWS\"\n- Subtitle: \"Arkansas & Mississippi State Make History\"\n- Headline Color: #FFFFFF (white)\n- Subtitle Color: #F4C542 (gold)\n- Bar: Semi-transparent dark, bottom third"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Two WCWS First-Timers — Arkansas and Mississippi State\n**Decision:** FOLLOW UP — Arkansas first WCWS covered May 23 (Story 3). Mississippi State first WCWS covered above. Combined first-timer preview is a new angle.\n**Sources:**\n- NCAA.com: \"Mississippi State clinches first-ever WCWS appearance in historic fashion\" (May 24, 2026)\n- Bracket analysis from multiple sources confirming two first-timers\n**Key Facts:**\n- Arkansas: first-ever WCWS (covered May 23) [HIGH]\n- Mississippi State: first-ever WCWS [HIGH]\n- Both are SEC programs [HIGH]\n- SEC sends four teams: Alabama, Arkansas, Mississippi State, Tennessee [HIGH]\n- Nebraska vs. Arkansas first-round matchup (Game 4, 9:30 PM, May 28) [HIGH]\n- Mississippi State vs. Texas Tech first-round matchup (Game 1, 12:00 PM, May 28) [HIGH]\n**Freshness:** May 24-25, 2026 — within 24 hours.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 7,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

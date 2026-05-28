@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-23",
+  "compiled_at": "2026-05-23T10:32:53.221414+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "X",
+      "type": "Story 1 — Cole/Yankees recap"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "X",
+      "type": "Story 1 — Cole individual line"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "X",
+      "type": "Story 2 — Acuña thumb injury"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X",
+      "type": "Story 3 — Murakami streak ends"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "X",
+      "type": "Story 4 — Rays dominance"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X",
+      "type": "Story 5 — Schwarber 20 HRs"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "X",
+      "type": "Story 5 — Earliest 20 HRs"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "X",
+      "type": "Story 6 — Saturday watch guide"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Gerrit Cole Returns — Yankees Lose 4-2 to Rays *(Tier 1 — Breaking)*",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Gerrit Cole: 6 IP, 0 ER, 96.1 mph avg fastball.\n\nYankees still lost 4-2.\n\nTim Hill gave up 4 runs without recording an out in the 8th. Cole was brilliant. The bullpen wasn't. ⚾ #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 185
+        },
+        {
+          "label": "Post 1-2",
+          "text": "569 days between starts.\n\nFirst one back: 6 shutout innings vs. Tampa Bay.\n\nGerrit Cole is BACK. The Yankees just couldn't hold it. ⚾ #Yankees #Rays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#Rays"
+          ],
+          "char_count": 148
+        }
+      ],
+      "facebook": {
+        "long_form": "Gerrit Cole stepped back on a major league mound Friday night for the first time in 569 days — and he was brilliant.\n\nSix shutout innings. Two hits. Three walks. Two strikeouts. His fastball averaged 96.1 mph and peaked at 98.6 mph. He threw 50 of 72 pitches for strikes. For a pitcher returning from elbow surgery after missing over a year and a half, that performance was a statement.\n\nThe Yankees still lost 4-2.\n\nTim Hill entered in the 8th inning with a one-run lead and allowed 4 runs without retiring a single batter. The Rays — who are now 33-15 and have gone 4-0 against New York this season — walked away with another win in the Bronx.\n\nCole did his job. Then some. The bullpen couldn't hold it. And Tampa Bay keeps rolling.\n\nThe Rays now lead the AL East by 5.5 games. Even the most anticipated pitching return of the season couldn't slow them down.",
+        "image_caption": "Cole: 6 IP, 0 ER. Yankees: 4-2 L. The Rays don't care who's pitching against them.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-gerrit-cole-returns-yankees-lose-rays-4-2.html",
+        "headline": "Cole Returns, Throws 6 Shutout Innings — Yankees Still Lose to Rays 4-2",
+        "word_count": 611
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Gerrit Cole Returns — Yankees Lose 4-2 to Rays\n\n**Social Image (1080×1350)**\n- **Photo:** Gerrit Cole pitching in Yankees uniform\n- **Headline overlay:** COLE IS BACK\n- **Subtitle overlay:** 6 IP, 0 ER — YANKEES STILL LOSE 4-2\n- **Color scheme:** Dark navy/gray overlay; white headline, gold subtitle\n- **Tone:** Dramatic — capture the irony of a great return with a loss\n\n**Article Hero (1200×630)**\n- **Photo:** Gerrit Cole in pitching motion\n- **Treatment:** Wide landscape crop, no text overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Acuña Exits with Left Thumb Bone Bruise *(Tier 2 — News)*",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Ronald Acuña Jr. left last night's game with a left thumb bone bruise after fouling a pitch off his hand.\n\nX-rays were negative. Day-to-day.\n\nHe went 2-for-3 with a 2-run single before exiting. Braves won 9-3. ⚾ #Braves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "The Braves won 9-3 Friday night. Spencer Strider struck out 9 in 6 innings. Michael Harris II hit a home run. Mike Yastrzemski hit a home run. The offense erupted.\n\nAnd none of that is what anyone is talking about.\n\nRonald Acuña Jr. fouled a pitch off his left hand in the 7th inning and did not return. The diagnosis: a left thumb bone bruise. X-rays were negative. He's listed as day-to-day. He had gone 2-for-3 with a 2-run single before exiting.\n\nAcuña had only just returned from a 14-game hamstring IL stint earlier this month. Any injury to him triggers concern given his torn ACL in 2024 cost him the better part of two seasons.\n\nThe Braves are 35-16 and one of baseball's best teams. Acuña is central to that. The hope is that day-to-day status means exactly that — a short absence. Saturday's lineup card will tell the story.",
+        "image_caption": "Acuña: day-to-day. Braves: 35-16. Every health update on No. 13 matters.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-acuna-exits-thumb-bone-bruise-braves-win.html",
+        "headline": "Acuña Exits with Left Thumb Bone Bruise — X-Rays Negative, Day-to-Day",
+        "word_count": 509
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Acuña Exits with Left Thumb Bone Bruise\n\n**Social Image (1080×1350)**\n- **Photo:** Ronald Acuña Jr. at the plate or celebrating\n- **Headline overlay:** ACUÑA: DAY-TO-DAY\n- **Subtitle overlay:** LEFT THUMB BRUISE — X-RAYS NEGATIVE\n- **Color scheme:** Dark overlay; white headline, gold subtitle\n- **Tone:** Urgent but cautiously reassuring (X-rays clear)\n\n**Article Hero (1200×630)**\n- **Photo:** Ronald Acuña Jr. action shot\n- **Treatment:** Wide landscape crop, no text overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Murakami's 5-Game HR Streak Ends — White Sox Still Win *(Tier 2 — Stats)*",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Masataka Murakami's 5-game HR streak (tied a White Sox franchise record) ended Friday.\n\nHe answered with a bases-clearing double in a 9-run 4th inning.\n\nChicago won anyway. The guy just produces. ⚾ #WhiteSox",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "Masataka Murakami had homered in five straight games, tying a White Sox franchise record. Friday night in Chicago, the streak was going to end. He still made sure the White Sox won.\n\nThe game turned in the 4th inning when Chicago erupted for 9 runs — one of the biggest single-inning outputs you'll see all season. Murakami was right in the middle of it, driving a bases-clearing double that broke the game open.\n\nThe streak is done. The production is not.\n\nMurakami's emergence has been one of the best stories in the AL this spring. He was a proven star in Japan's NPB, and he has carried that excellence over to the American game in compelling fashion. Meanwhile, the White Sox — a team many picked to finish last — are hovering around .500.\n\nThere's something genuinely fun happening on the South Side.",
+        "image_caption": "The 5-game HR streak ended. Murakami hit a bases-clearing double in a 9-run inning anyway. White Sox win.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-murakami-hr-streak-ends-white-sox-win.html",
+        "headline": "Murakami's 5-Game HR Streak Ends — But He Delivers a Bases-Clearing Double in a 9-Run Inning",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murakami's 5-Game HR Streak Ends — White Sox Still Win\n\n**Social Image (1080×1350)**\n- **Photo:** Masataka Murakami batting or celebrating\n- **Headline overlay:** STREAK OVER. WIN: YES.\n- **Subtitle overlay:** MURAKAMI'S 5-GAME HR STREAK ENDS — WHITE SOX WIN\n- **Color scheme:** Dark overlay; white headline, gold subtitle\n- **Tone:** Upbeat/positive — the win is the story\n\n**Article Hero (1200×630)**\n- **Photo:** Masataka Murakami batting action\n- **Treatment:** Wide landscape crop, no text overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Rays at 33-15 — Best Record in the AL *(Tier 2 — Standings)*",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Gerrit Cole returned and threw 6 shutout innings.\n\nThe Rays still won 4-2.\n\nTampa Bay is 33-15, 4-0 vs. the Yankees this year, and up 5.5 games in the AL East. They are the class of the American League. ⚾ #Rays",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "Let's talk about the Tampa Bay Rays.\n\nThey are 33-15. That is the best record in the American League. They lead the AL East by 5.5 games. They have gone 4-0 against the New York Yankees in 2026.\n\nOn Friday night, Gerrit Cole — returning from a 569-day absence — threw 6 shutout innings at Tropicana Field. The Rays won anyway, 4-2, on a 4-run 8th inning against the New York bullpen.\n\nThis is a team that is simply beating everyone in front of them. Good opponents, great opponents — it doesn't seem to matter. The Rays keep finding ways.\n\nThey are the class of the American League right now. They deserve more attention than they're getting.",
+        "image_caption": "33-15. 4-0 vs. the Yankees. 5.5 games up. The Rays are running the AL East.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-rays-33-15-best-record-al-east-dominance.html",
+        "headline": "The Rays Are 33-15 and Not Slowing Down — Even Cole's Return Couldn't Stop Them",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rays at 33-15 — Best Record in the AL\n\n**Social Image (1080×1350)**\n- **Photo:** Tampa Bay Rays game action or team celebration\n- **Headline overlay:** RAYS: 33-15\n- **Subtitle overlay:** BEST RECORD IN THE AL — 5.5 GAMES UP IN THE EAST\n- **Color scheme:** Dark overlay; white headline, gold subtitle\n- **Tone:** Authoritative/dominant — statement visual\n\n**Article Hero (1200×630)**\n- **Photo:** Rays pitcher or batter in action\n- **Treatment:** Wide landscape crop, no text overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Schwarber Returns, Still Leads MLB at 20 HRs *(Tier 2 — Milestone)*",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "Kyle Schwarber missed 3 games with a GI illness.\n\nHe came back Friday and homered.\n\nHe leads MLB with 20 HRs. He hit No. 20 on May 15 — the earliest any player in history has reached that mark. ⚾ #Phillies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies"
+          ],
+          "char_count": 205
+        },
+        {
+          "label": "Post 5-2",
+          "text": "No player in MLB history has ever hit 20 HRs by May 15.\n\nKyle Schwarber did it 8 days ago.\n\nHe's back from injury. He's still at 20. The record is already set. What's the ceiling? ⚾ #Phillies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "Kyle Schwarber missed three games this week with a GI illness. He came back Friday and hit a home run.\n\nThat's just what he does.\n\nSchwarber leads MLB with 20 home runs. He hit No. 20 on May 15 — the earliest date in major league history that any player has ever reached that mark. He is on a historic pace, and a three-game absence to illness didn't slow him down one bit.\n\nThe Phillies, however, are 25-25. His production has been elite. The team has been inconsistent. Schwarber is carrying a heavy load, and Philadelphia will need to start winning more games around him if this season is going to mean something.\n\nBut right now, in terms of individual offensive performance? There might not be a hotter hitter in the game.",
+        "image_caption": "Schwarber: back from illness. Still at 20 HRs. Still the MLB leader. The pace is historic.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-schwarber-returns-20-hrs-historic-pace.html",
+        "headline": "Schwarber Is Back and Still at 20 HRs — His Pace Is Historic",
+        "word_count": 550
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber Returns, Still Leads MLB at 20 HRs\n\n**Social Image (1080×1350)**\n- **Photo:** Kyle Schwarber home run swing or celebration\n- **Headline overlay:** SCHWARBER: 20 HRs\n- **Subtitle overlay:** MLB LEADER — EARLIEST 20 HRS IN HISTORY (MAY 15)\n- **Color scheme:** Dark overlay; white headline, gold subtitle\n- **Tone:** Historic/milestone — celebratory energy\n\n**Article Hero (1200×630)**\n- **Photo:** Kyle Schwarber at the plate or rounding bases\n- **Treatment:** Wide landscape crop, no text overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Saturday MLB Watch Guide *(Tier 3 — Social Only)*",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Saturday MLB slate:\n\n⚾ Rays vs. Yankees G2 — Bronx\n⚾ Braves at Nationals — Acuña watch\n⚾ Astros at Cubs\n⚾ Cardinals at Padres\n\nBig day of baseball. What are you watching?",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 170
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

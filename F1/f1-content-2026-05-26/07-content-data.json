@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-26",
+  "compiled_at": "2026-05-26T11:22:06.263844+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Wins Canadian Grand Prix — Russell Retires from Lead on Lap 30",
+      "tier": 1,
+      "status": "",
+      "angle": "Antonelli's win was fortunate in its circumstances but dominant in its execution. Russell's retirement turned what could have been a championship nail-biter into Antonelli's biggest points lead of the season.",
+      "posting_window": "8:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Canadian Grand Prix result:\n\nP1: Kimi Antonelli (Mercedes)\nP2: Lewis Hamilton (Ferrari) +10.7s\nP3: Max Verstappen (Red Bull) +11.2s\n\nRussell retired on Lap 30 — power unit failure while LEADING.\n\nAntonelli's 4th straight win. Championship gap: 43 points.\n\n#F1 #CanadianGP",
+          "posting_time": "8:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Antonelli wins Canada. Four in a row.\n\nRussell was leading and his car \"went dark.\" Battery failure. DNF on Lap 30.\n\n43 points. That's the championship gap now.\n\nMonaco is in two weeks.\n\n#F1 #CanadianGP #F1Fanrecap",
+          "posting_time": "8:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM"
+      },
+      "article": {
+        "filename": "article-01-antonelli-wins-canadian-gp.html",
+        "headline": "Antonelli Wins Canadian Grand Prix After Russell Retires from Lead — Championship Gap Grows to 43",
+        "word_count": 433
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Wins Canadian Grand Prix\n\n**Social Image (1080x1350)**\n- Search term: \"Kimi Antonelli Mercedes Formula 1\"\n- Overlay text: \"4 IN A ROW\" / \"ANTONELLI WINS CANADA\"\n- Mood: Victory, dominance\n\n**Article Hero (1200x630)**\n- Search term: \"Kimi Antonelli Mercedes Formula 1\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Wins Canadian Grand Prix\n**Sources:**\n- Formula1.com race report (primary): \"Kimi Antonelli wins dramatic Canadian Grand Prix as George Russell retires amid thrilling Mercedes battle\"\n- Motorsport.com full results: P1 Antonelli (Mercedes), P2 Hamilton (Ferrari) +10.7s, P3 Verstappen (Red Bull) +11.2s, P4 Leclerc (Ferrari) +44.1s\n- Multiple outlets confirm Russell DNF on Lap 30 (power unit failure)\n**Confidence:**\n- [HIGH] P1 Antonelli, P2 Hamilton +10.7s, P3 Verstappen +11.2s (multiple sources)\n- [HIGH] Russell retired Lap 30 power unit failure (multiple sources including Toto Wolff quote)\n- [HIGH] Antonelli 4th consecutive win (established pattern; 1-China, 2-Japan, 3-Miami, 4-Canada)\n- [HIGH] Antonelli championship lead: 131 pts, Russell 88 pts, gap 43 points (multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Russell's Montreal Meltdown — FIA Investigation and Apology",
+      "tier": 1,
+      "status": "",
+      "angle": "The combination of genuine devastation, reckless behavior, and a dramatic quote makes this one of the most compelling driver stories of the 2026 season.",
+      "posting_window": "10:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "George Russell retired from the lead in Canada — and then threw his headrest onto the track.\n\nFIA investigated. Russell apologized. Suspended €5,000 fine.\n\nHis quote: \"It feels like somebody doesn't want me to fight for this championship.\"\n\n#F1 #CanadianGP #Russell",
+          "posting_time": "10:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#CanadianGP",
+            "#Russell"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM"
+      },
+      "article": {
+        "filename": "article-02-russell-fIA-headrest-apology.html",
+        "headline": "Russell Throws Headrest, Apologizes After FIA Probe — Suspended Fine from Montreal Meltdown",
+        "word_count": 491
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Montreal Meltdown\n\n**Social Image (1080x1350)**\n- Search term: \"George Russell Mercedes Formula 1\"\n- Overlay text: \"RUSSELL DNF\" / \"HEADREST INCIDENT FIA\"\n- Mood: Drama, controversy\n\n**Article Hero (1200x630)**\n- Search term: \"George Russell Mercedes Formula 1\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell FIA Investigation and Apology\n**Sources:**\n- Formula1.com: \"It feels like somebody doesn't want me to fight for this championship\" — Russell quote\n- Planetf1.com/Crash.net: Wolff reveals battery failure caused Russell's retirement\n- RacingNews365 x2: Russell \"embarrassed\" after FIA Canadian GP investigation; Russell issues apology\n- GPFans.com: FIA punishes \"embarrassed\" George Russell after Montreal meltdown; suspended €5,000 fine\n**Confidence:**\n- [HIGH] Russell threw headrest onto track after retiring (multiple sources)\n- [HIGH] FIA investigation held; suspended €5,000 fine with apology condition (RacingNews365)\n- [HIGH] Russell issued public apology, called behavior \"embarrassing\" (multiple sources)\n- [HIGH] Wolff: \"the car was literally going dark, there was no electricity in the car\" (Crash.net/Planetf1)\n- [HIGH] Russell quote: \"feels like somebody doesn't want me to fight for this championship\" (F1.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "F1 Championship Standings After Canada — Antonelli Leads by 43",
+      "tier": 2,
+      "status": "",
+      "angle": "The gap between Antonelli and Russell is the biggest of the season — and it came in the most dramatic way possible.",
+      "posting_window": "12:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "F1 Championship after Canada:\n\n1. Antonelli — 131 pts\n2. Russell — 88 pts (-43)\n3. Leclerc — points\n4. Hamilton — 3 pts behind Leclerc\n\nMercedes leads Ferrari by just 2 in constructors.\n\nMonaco next. June 5-7.\n\n#F1 #F1Fanrecap",
+          "posting_time": "12:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM"
+      },
+      "article": {
+        "filename": "article-03-f1-championship-standings-canada.html",
+        "headline": "F1 2026 Championship Standings: Antonelli Leads by 43 After Canada — Monaco Next",
+        "word_count": 458
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n**Social Image (1080x1350)**\n- Search term: \"Formula 1 trophy podium\"\n- Overlay text: \"STANDINGS\" / \"ANTONELLI +43\"\n- Mood: Data, championship context\n\n**Article Hero (1200x630)**\n- Search term: \"Kimi Antonelli Mercedes Formula 1\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings After Canada\n**Sources:**\n- Motorsport.com: \"Antonelli grows points lead over Russell in Canada\"\n- RacingNews365/Crash.net: Full driver standings after Canadian GP\n- Multiple outlets: Leclerc P3 in championship; Hamilton P4 just 3 pts behind Leclerc\n**Confidence:**\n- [HIGH] Antonelli 131 pts; Russell 88 pts (43-pt gap) — multiple sources\n- [HIGH] Leclerc P3; Hamilton P4, 3 pts behind Leclerc (multiple sources)\n- [HIGH] Verstappen P7 in championship after first podium of 2026 (multiple sources)\n- [MEDIUM] Mercedes leads constructors by 2 pts over Ferrari (multiple sources, exact figure cross-check needed)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Monaco Grand Prix Preview — Ferrari Expected to Shine",
+      "tier": 2,
+      "status": "",
+      "angle": "Monaco is the championship wildcard — the one circuit where Mercedes' pace advantage evaporates and Ferrari can mount a genuine title threat.",
+      "posting_window": "2:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Monaco Grand Prix. June 5-7. Circuit de Monaco.\n\nEven Antonelli admits it: \"Ferrari will be the team to beat.\"\n\n4 wins in a row on power-sensitive tracks. Monaco has no long straights.\n\nFerrari's SF-26 was built for this. Leclerc's home race.\n\n#F1 #MonacoGP #F1Fanrecap",
+          "posting_time": "2:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM"
+      },
+      "article": {
+        "filename": "article-04-monaco-gp-preview-ferrari.html",
+        "headline": "Monaco Grand Prix Preview: Antonelli Says Ferrari Will Shine — Everything to Know",
+        "word_count": 451
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monaco Grand Prix Preview\n\n**Social Image (1080x1350)**\n- Search term: \"Formula 1 Monaco Circuit\"\n- Alt search: \"Charles Leclerc Ferrari Formula 1\"\n- Overlay text: \"MONACO GP / JUNE 5-7\"\n- Mood: Glamour, anticipation\n\n**Article Hero (1200x630)**\n- Search term: \"Formula 1 Monaco Circuit\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monaco Grand Prix Preview\n**Sources:**\n- Grandprix247.com: \"Kimi Antonelli says Ferrari will be the team to beat in Monaco Grand Prix\"\n- Bookmaker-expert.com: Monaco GP June 5-7, Circuit de Monaco, 3.337km\n- F1.com: Monaco Grand Prix scheduled as Round 6 of 2026 season\n**Confidence:**\n- [HIGH] Monaco GP dates: June 5-7, 2026 (multiple sources)\n- [HIGH] Circuit de Monaco, 3.337km (standard circuit fact)\n- [HIGH] Antonelli quote about Ferrari being team to beat at Monaco (Grandprix247)\n- [MEDIUM] Ferrari SF-26 downforce characteristics vs Mercedes power advantage — editorial interpretation from multiple analyst sources",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Hamilton's Best Ferrari Result — P2 in Montreal Closes Championship Gap",
+      "tier": 2,
+      "status": "",
+      "angle": "Hamilton's no-simulator gamble paid off in Montreal. The veteran is finding his Ferrari pace just as the European leg of the season — headlined by Monaco — begins.",
+      "posting_window": "5:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Lewis Hamilton's best Ferrari result of 2026:\n\nP2 in Montreal. Held off Verstappen. No simulator prep.\n\nHe said the simulator \"took him in the wrong direction.\" He ditched it before Canada. It worked.\n\nNow he's 3 points behind Leclerc in the championship.\n\n#F1 #Hamilton #Ferrari",
+          "posting_time": "5:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Hamilton",
+            "#Ferrari"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM"
+      },
+      "article": {
+        "filename": "article-05-hamilton-p2-ferrari-best-result.html",
+        "headline": "Hamilton's P2 in Canada Is Ferrari's Best 2026 Result — And He Did It Without the Simulator",
+        "word_count": 469
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton P2 Ferrari\n\n**Social Image (1080x1350)**\n- Search term: \"Lewis Hamilton Ferrari Formula 1\"\n- Overlay text: \"P2 IN CANADA\" / \"HAMILTON FERRARI\"\n- Mood: Achievement, milestone\n\n**Article Hero (1200x630)**\n- Search term: \"Lewis Hamilton Ferrari Formula 1\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton P2 — Best Ferrari Result of 2026\n**Sources:**\n- ESPN/multiple outlets: Hamilton P2 (+10.7s), best Ferrari result of 2026\n- Multiple outlets: Hamilton held off Verstappen for P2\n- Story history note (2026-05-21): Hamilton no-simulator gamble for Canada\n**Confidence:**\n- [HIGH] Hamilton P2, +10.7s (multiple race result sources)\n- [HIGH] Hamilton held off Verstappen for P2 (multiple sources)\n- [HIGH] Best Hamilton/Ferrari result of 2026 (prior pipeline shows P3 in China was previous best; P2 beats that)\n- [HIGH] Hamilton-no simulator approach for Canada (from prior pipeline, 2026-05-21 notes)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

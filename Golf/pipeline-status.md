@@ -1,8 +1,53 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-22
+- **Date**: 2026-05-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-05-27
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 5 written, all under 280 characters (Story 3 tweet fixed from 296 to 255 chars before final compile)
+- **Facebook Posts:** 5 stories, long-form
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-05-27.xlsx (5 posts) + gfr-postplanner-tobi-2026-05-27.xlsx (5 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-05-27/review-dashboard.html (15 items)
+- **Notes:** Charles Schwab Challenge preview (Åberg +900, Fowler, Smalley, Thomas, Colonial CC May 28-31, Hanse renovation); LIV Golf Korea preview (Korean Golf Club home debut, DeChambeau defending, 4Aces lead teams, Asiad CC Busan); Åberg win drought feature (6 top-10s in 7 starts, no wins since Genesis Invitational); US Women's Open preview (June 4-7 Riviera CC, first USGA women's major there, Korda 3 wins in 2026, Thitikul/Stark entered); Alex Smalley transformation (-0.62 to +0.45 SG/round, 1.07-stroke flip)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+### 2026-05-26
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters (2 initial tweets flagged over 280; fixed before compile)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-05-26.xlsx (6 posts) + gfr-postplanner-tobi-2026-05-26.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-05-26/review-dashboard.html (21 items)
+- **Notes:** Clark wins Byron Nelson with closing 60 (-30/254, beats Kim -27 by 3, Scheffler -25 P3); first to win twice with closing 60; Schwab Challenge preview (Åberg fav +850, Colonial CC May 28-31); Si Woo Kim runner-up (60 R2 course record, missed 59 with closing bogey); LIV Korea May 28-31 Asiad CC Busan (Korean Golf Club rebranded); US Women's Open preview June 4-7 Riviera CC (Korda favored, first USGA women's event at Riviera)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+### 2026-05-24
+
+## Current Pipeline (2026-05-24)
+
+| Stage | Status | Last Updated |
+|-------|--------|-------------|
+| Research | Complete | 2026-05-24 |
+| Writing | Complete (all 8 files + 5 articles) | 2026-05-24 |
+| Fact-check | Complete (verify-facts.py — 25 claims, 49 HIGH confidence) | 2026-05-24 |
+| Scripts | Complete (all 6 scripts run) | 2026-05-24 |
+| PostPlanner | Complete (6 X posts + TOBI 6 posts) | 2026-05-24 |
+| Dashboard | Generated locally (push blocked — PAT scope, consistent) | 2026-05-24 |
+| Published | Failed — WordPress credentials blocked by egress proxy (persistent) | 2026-05-24 |
+| Git | Committed and pushed to main | 2026-05-24 |
+
+## Notes (2026-05-24)
+- 5 stories: CJ Cup Byron Nelson final round (Kim -21 leads by 2, Scheffler -19 defending, Clark -19 wild card; Kim/Scheffler in same pairing; friendship angle Royal Oaks CC; Kim seeks first win since 2023 Sony Open) T1; Si Woo Kim feature (nearly shot 59 in R2, settled for 60/course record, 64-60-68 = -21, 3-year drought) T1; Charles Schwab Challenge preview (Colonial CC May 25, 80th year, Aberg/Thomas/Griffin, $9.9M, Hogan's Alley) T2; US Women's Open preview (June 4-7 Riviera CC, Korda 3 wins/World No.2, runner-up 2025 USWO to Stark at Erin Hills) T2; LIV Golf Korea preview (May 28-31 Asiad CC Busan, Herbert leads standings, Rahm hot after Mexico City 6-shot win) T2
+- Pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway
+- WordPress publish failed (egress proxy — persistent across all three niches)
+- Dashboard push failed (PAT lacks write access to content-dashboards repo — consistent with all previous runs)
 
 ## Current Pipeline (2026-05-22)
 

@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-05-22 |
-| Writing | Complete (all steps) | 2026-05-22 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 28 claims, image warnings cosmetic) | 2026-05-22 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images) | 2026-05-22 |
-| Dashboard | Complete (review-dashboard.html, 26 items) | 2026-05-22 |
-| PostPlanner Export | Complete (standard 6 posts + TOBI 6 posts) | 2026-05-22 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-22 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-22 |
+| Research | Complete | 2026-05-27 |
+| Writing | Complete (all steps) | 2026-05-27 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 28 claims HIGH) | 2026-05-27 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 9 images) | 2026-05-27 |
+| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-05-27 |
+| PostPlanner Export | Complete (standard 7 posts + TOBI 7 posts) | 2026-05-27 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-27 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-27 |
 
 ## Queue
 
@@ -24,6 +24,81 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-05-27 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5 (bylines: Marcus Cole x2, Ryan Calloway x2, Elena Voss x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-27.xlsx (7 posts), tfr-postplanner-tobi-2026-05-27.xlsx (7 TOBI posts)
+- **Coverage:** Medvedev upset by Walton 6-2, 1-6, 6-1, 1-6, 6-4 (Australian wildcard No. 97, 3h22m, first career top-10 win, viral wife argument "Everybody's suffering — you need to behave"); Sinner def. Tabur 6-1, 6-3, 6-4 (win streak to 30 — 5th longest in ATP Tour era, 40 winners, 0 break points, night session Chatrier, Career Grand Slam quest, next: Cerundolo); Gauff def. Townsend 6-4, 6-0 + Osaka def. Siegemund 6-3, 7-6 (defending champion Gauff dominant, Osaka gold sequined "Eiffel Tower at night" dress, 35°C heat); Day 4 preview (Swiatek vs Bejlek Chatrier, Djokovic vs Royer day session, Zverev vs Machac night, Rybakina on Lenglen); Osaka fashion feature (Kevin Germanier outer layer reveal, gold Nike dress, Eiffel Tower quote, comeback from No. 135)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 28 claims HIGH; image manifest warnings cosmetic (not_started expected for imagn source)
+  - compile: 5 stories, 7 X posts, 5 FB posts, 5 articles, 9 images; posting window warnings cosmetic
+  - dashboard: 27 items
+  - PostPlanner exports: both standard (7) and TOBI (7) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+### 2026-05-26 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-26.xlsx (8 posts), tfr-postplanner-tobi-2026-05-26.xlsx (8 TOBI posts)
+- **Coverage:** Monfils farewell (lost Gaston 6-2 6-3 3-6 2-6 6-0; Gasquet/Simon/Tsonga on Chatrier; Big 3 tribute video; "Roland Garros, I love you, I owe you everything"; 40-18 career record, SF 2008); Wawrinka farewell (lost de Jong 6-3 3-6 6-3 6-4; 21st final RG; Federer/Nadal/Djokovic tributes; commemorative clay plaque; "because of Roland Garros I wanted to become a tennis player"); Svitolina def. Bondar 3-6 6-1 7-6(10-3) (served for match 5-3, collapsed to 6-5, held at love, won 10-3 in tiebreak; "Definitely top 3 toughest"; first RG 10-pt tiebreak); Ruud def. Safiullin 6-2 7-6(5) 5-7 0-6 6-2 (5 match points squandered, won on 6th); Day 3 overview (Sabalenka straight sets 75 min, Sinner vs Tabur night session, Gauff vs Townsend)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 23 claims; image manifest warnings cosmetic (not_started expected for imagn source)
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 8 images; posting window warnings cosmetic
+  - dashboard: 28 items
+  - PostPlanner exports: both standard (8) and TOBI (8) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+### 2026-05-25 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions) = 15 total
+- **Articles:** 5 (bylines: Marcus Cole x2, Elena Voss x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-25.xlsx (5 posts), tfr-postplanner-tobi-2026-05-25.xlsx (5 TOBI posts)
+- **Coverage:** Basavareddy stuns Fritz (wild card 21yo upsets No. 7 seed 7-6 7-6 6-7 6-1; first American top-10 win at RG since 2000; 27 drop shots; Stanford alum); Djokovic def. Mpetshi Perricard 5-7 7-5 6-1 6-4 (80-2 in Slam openers, 22nd consecutive RG, first Frenchman to win set vs Djokovic at RG in 14 years, 10th break point conversion on 17-shot rally, next vs Royer); Swiatek def. Jones 6-1 6-2 Day 2 (4x champ, Ostapenko H2H concern lurks); Wawrinka vs de Jong farewell match Day 2 (21st/final RG, 2015 champion, 41yo, "There will be a lot of emotion"); Monfils vs Gaston night session (final RG, Chatrier, night session) + Day 2 overview (Baptiste def. Krejcikova saving 2 MPs, Day 3 preview: Sinner/Gauff/Sabalenka)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 20 claims; image manifest warnings cosmetic (not_started expected for imagn source)
+  - compile: 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 25 items
+  - PostPlanner exports: both standard (5) and TOBI (5) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+### 2026-05-24 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions) = 15 total
+- **Articles:** 5 (bylines: Marcus Cole x2, Elena Voss x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-24.xlsx (5 posts), tfr-postplanner-tobi-2026-05-24.xlsx (5 TOBI posts)
+- **Coverage:** Fils withdrawal (hip injury, "not even at 50%", second consecutive RG missed, de Jong replaces him vs Wawrinka); Roland Garros Day 1 opens (Djokovic record 82nd Slam night session, Zverev/Andreeva/Bencic/Fritz on Day 1); Bencic first RG win since 2022 (comeback from maternity, ranked 487th in Jan 2025, won Abu Dhabi/Wimbledon SF/Tokyo 2025); Andreeva on Chatrier vs Ferro WC ("I hope the public will not be too hard with me"); Djokovic record 82nd Grand Slam vs Mpetshi Perricard night session (3x RG champion, 24 Slam titles, chasing 25th)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 27 claims; image manifest warning cosmetic (not_started expected)
+  - compile: 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 25 items
+  - PostPlanner exports: both standard (5) and TOBI (5) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+### 2026-05-23 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions) = 16 total
+- **Articles:** 5 (bylines: Elena Voss x2, Marcus Cole x2, Ryan Calloway x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-23.xlsx (6 posts), tfr-postplanner-tobi-2026-05-23.xlsx (6 TOBI posts)
+- **Coverage:** Day 1 preview (Sinner vs Tabur Chatrier, Gauff vs Townsend, Djokovic night session vs Mpetshi Perricard not before 8:15 PM Paris); Sabalenka "feeling 100%" mental transformation (emotions quote, 2025 final reflection); Prize money protest (14.3% revenue share, 15-min press conference limit, Sabalenka/Gauff leading, Mauresmo no change); Yannick Noah Day charity event (The Battle, Team Noah vs Mauresmo, music acts); Swiatek's Ostapenko problem (6-0 H2H, potential R3, only 1 clay win)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 38 claims; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 6 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 26 items
+  - PostPlanner exports: both standard (6) and TOBI (6) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-05-22 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

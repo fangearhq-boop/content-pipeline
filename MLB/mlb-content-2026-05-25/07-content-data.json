@@ -1,0 +1,429 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-25",
+  "compiled_at": "2026-05-25T10:33:41.869069+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Judge walk-off",
+      "type": "Text Post"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 6 — Memorial Day schedule",
+      "type": "Text Post"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 1 — AL East race",
+      "type": "Text Post"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — Carroll triples",
+      "type": "Text Post"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 3 — Hernandez slam",
+      "type": "Text Post"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 2 — Carroll pace",
+      "type": "Text Post"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 4 — Torres debut",
+      "type": "Text Post"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5 — Schwarber pace",
+      "type": "Text Post"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 7 — Standings",
+      "type": "Text Post"
+    },
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "11:30 AM",
+      "description": "Story 3",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 4",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 5",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 6",
+      "type": "FB Long-Form"
+    },
+    {
+      "time": "7:00 PM",
+      "description": "Story 7",
+      "type": "FB Long-Form"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Judge Walks Off Rays — Ends 11-Game Homer Drought, Yankees Win 2-0 (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET (walk-off recap), 10:00 AM ET (AL East race angle)",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Aaron Judge. 11 games without a homer.\n\nFirst pitch of the 9th inning off Kevin Kelly.\n\nTwo-run walk-off. Yankees 2, Rays 0.\n\nThat's HR No. 17 — and the AL East just got a little tighter. ⚾\n\n#BallparkBanter #Yankees #MLB",
+          "posting_time": "8:00 AM ET (walk-off recap), 10:00 AM ET (AL East race angle)",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 1-2",
+          "text": "After Judge's walk-off Sunday:\n\nYankees: 31-22\nRays lead: 4.5 games\n\nA week ago it was 5.5. Ryan Weathers gave NY 7 scoreless innings, then Judge did the rest.\n\nAL East is a race again. ⚾\n\n#BallparkBanter #Yankees #MLB",
+          "posting_time": "8:00 AM ET (walk-off recap), 10:00 AM ET (AL East race angle)",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "Aaron Judge had gone 11 games without a home run. He was 1-for-24 over the stretch. The narrative was building: was something wrong with baseball's most dangerous slugger?\n\nThen came Sunday night.\n\nRyan Weathers pitched seven scoreless innings to keep the Yankees in a 0-0 game against the first-place Rays. Judge came to the plate in the ninth. On the first pitch — a sinker from Kevin Kelly — Judge turned on it and drove a 2-run, walk-off home run to right-center field. Final score: Yankees 2, Rays 0. Slump over.\n\nHR No. 17. His 4th career walk-off homer. And with the Yankees now at 31-22, the Rays' AL East lead is down to 4.5 games. A week ago it was 5.5.\n\nJudge has a way of doing this — going quiet long enough to let you forget what he's capable of, then reminding you in the most theatrical way possible.\n\nIs the Yankees-Rays race heating up? It might be.\n\n---",
+        "image_caption": "Judge. Walk-off. HR No. 17. The 11-game drought is over — and the AL East race just got tighter. ⚾",
+        "posting_time": "8:00 AM ET (walk-off recap), 10:00 AM ET (AL East race angle)"
+      },
+      "article": {
+        "filename": "article-01-judge-walk-off-homer-ends-drought-yankees-beat-rays.html",
+        "headline": "Aaron Judge's Walk-Off Homer Ends 11-Game Drought, Yankees Beat Rays 2-0",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Judge Walks Off Rays\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Judge celebrating at home plate, teammates rushing out, jubilant moment.\n\n**Photo Search Terms (Imagn):**\n1. \"Aaron Judge New York Yankees\"\n2. \"Aaron Judge Yankees celebration\"\n3. \"New York Yankees walk-off\"\n\n**Text Overlay:**\n- Headline: \"WALK-OFF\"\n- Subtitle: \"Judge Ends 11-Game Drought, Yankees Win 2-0\"\n- Headline Color: #FFFFFF\n- Subtitle Color: #F4C542\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Judge Walks Off Rays — Ends 11-Game Homer Drought\n**Decision:** FOLLOW UP — Rays-Yankees series covered May 23 (Gerrit Cole return, Rays won) and May 24 (Rays-Yankees series preview). Sunday finale result is new.\n**Sources:**\n- MLB.com: \"Aaron Judge hits walk-off home run against Rays\" (May 24-25, 2026)\n- BayNews9: \"Aaron Judge stops 11-game homerless drought, 2-run walk-off homer in 9th lifts Yankees over Rays 2-0\" (May 25, 2026)\n- Washington Post: \"Aaron Judge's walk-off homer against Rays ends frustrating 2 weeks without homer or RBIs\" (May 24, 2026)\n- Pinstripe Alley: \"Yankees score: Aaron Judge hits walk-off home run to beat first-place Rays\" (May 24-25, 2026)\n- ESPN: \"Yankees' Aaron Judge ends homerless drought with walk-off vs. Rays\"\n- Heavy.com: \"New York Yankees Star Aaron Judge Made MLB History In Rays Game\"\n**Key Facts (with confidence tags):**\n- Final score: Yankees 2, Rays 0 [HIGH — multiple sources]\n- Judge hit a 2-run walk-off HR in the 9th inning [HIGH — multiple sources]\n- Off Kevin Kelly (Rays RP) [HIGH — multiple sources]\n- Judge's 17th HR of the season [HIGH — multiple sources]\n- 11-game homer drought ended [HIGH — BayNews9 headline + WaPo]\n- Also had 11-game RBI-less stretch, went 1-for-24 before this game [HIGH — WaPo]\n- Yankees' Ryan Weathers pitched 7 scoreless innings [HIGH — multiple sources]\n- Yankees record now 31-22 [HIGH — Pinstripe Alley]\n- Rays' AL East lead cut to 4.5 games [HIGH — multiple sources]\n- Judge's 4th career walk-off HR [MEDIUM — cited in one source, not independently confirmed]\n- 363-foot projected distance [MEDIUM — cited in one article]\n- First pitch of the at-bat (first-pitch sinker) [HIGH — multiple sources describe the at-bat]\n**Freshness:** May 24-25, 2026. All sources within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Corbin Carroll One Triple From D-Backs Franchise Record (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET (record chase), 12:00 PM ET (pace analysis)",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Corbin Carroll went 4-for-4 with TWO triples Sunday.\n\nHe now has 51 career triples. The D-Backs franchise record: 52 (Stephen Drew).\n\nOne triple from history.\n\nHe got there in 537 games. Drew needed 773.\n\nCarroll is a different kind of player. ⚾\n\n#BallparkBanter #Dbacks #MLB",
+          "posting_time": "10:30 AM ET (record chase), 12:00 PM ET (pace analysis)",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Dbacks",
+            "#MLB"
+          ],
+          "char_count": 275
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Corbin Carroll leads MLB with 8 triples in 2026.\n\nAmong active players in career triples, only Mike Trout and Starling Marte have more.\n\nHe is 26 years old.\n\nThe art of the triple is not dead. ⚾\n\n#BallparkBanter #Dbacks #BaseballStats",
+          "posting_time": "10:30 AM ET (record chase), 12:00 PM ET (pace analysis)",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Dbacks",
+            "#BaseballStats"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "Ask a casual baseball fan what the most exciting play in the sport is and they'll say a home run. Ask a purist. They'll say a triple.\n\nCorbin Carroll has been rewriting the history of the three-bagger all season — and now he's one triple away from franchise immortality.\n\nOn Sunday, Carroll went 4-for-4 with two triples against Colorado, pushing his career total to 51. Stephen Drew holds the Arizona Diamondbacks franchise record at 52. One triple. That's it.\n\nWhat makes this chase even more remarkable is the pace. Carroll has played 537 career games to reach 51 triples. Drew needed 773 games to get to 52. Carroll is getting there in fewer at-bats, at a younger age (26), with a legitimate shot at blowing past the record entirely.\n\nHe also leads MLB in 2026 with 8 triples, and trails only Mike Trout and Starling Marte among active players in career total triples.\n\nThe home run era has squeezed out the triple. Carroll doesn't care.\n\nWatch for the record to fall this week.\n\n---",
+        "image_caption": "Corbin Carroll is one triple from the D-Backs franchise record. He got there in 537 games — Stephen Drew needed 773. ⚾",
+        "posting_time": "10:30 AM ET (record chase), 12:00 PM ET (pace analysis)"
+      },
+      "article": {
+        "filename": "article-02-corbin-carroll-one-triple-dbacks-franchise-record.html",
+        "headline": "Corbin Carroll Goes 4-for-4 With Two Triples, Now One Away From D-Backs Franchise Record",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Corbin Carroll Triples Record Chase\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Carroll sprinting to third base, extended stride, exuberant expression.\n\n**Photo Search Terms (Imagn):**\n1. \"Corbin Carroll Arizona Diamondbacks\"\n2. \"Corbin Carroll Diamondbacks running\"\n3. \"Arizona Diamondbacks outfield\"\n\n**Text Overlay:**\n- Headline: \"ONE TRIPLE AWAY\"\n- Subtitle: \"Carroll Chases D-Backs Franchise Record\"\n- Headline Color: #FFFFFF\n- Subtitle Color: #F4C542\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Corbin Carroll One Triple From D-Backs Franchise Record\n**Decision:** NEW STORY — Carroll's triples chase is new; two triples Sunday vs. Rockies is fresh news.\n**Sources:**\n- Arizona Sports: \"Corbin Carroll eclipses 50 career triples with Diamondbacks record in sight\" (May 24, 2026)\n- Yahoo Sports: \"Corbin Carroll nears D-Backs triples record with perfect day vs. Rockies\" (May 24, 2026)\n- Chronicle Online (WaPo syndicate): \"Diamondbacks' Corbin Carroll quickly racing his way to team's career record for triples\" (May 24, 2026)\n- SI.com: \"Corbin Carroll is Already Racing Toward Another Diamondbacks Record\"\n- MLB.com: \"He is speed: Carroll on cusp of D-backs history after 2 more triples\"\n- Yahoo Sports: \"D-backs' Corbin Carroll gets third triple of 2026 MLB season\"\n**Key Facts:**\n- Carroll went 4-for-4 with two triples vs. Colorado Rockies on Sunday, May 24 [HIGH — multiple sources]\n- Carroll now has 51 career triples [HIGH — multiple sources]\n- Stephen Drew holds D-Backs franchise record at 52 career triples [HIGH — multiple sources]\n- Carroll leads MLB in 2026 with 8 triples [HIGH — multiple sources]\n- Carroll has played 537 career games to reach 51 triples; Drew needed 773 games for 52 [HIGH — Arizona Sports]\n- Carroll is third among active MLB players in career triples (Trout and Marte ahead) [HIGH — Arizona Sports/Yahoo]\n- Two big leaguers have hit more than three triples in 2026: Carroll (8) and Chandler Simpson of Rays (4) [MEDIUM — Arizona Sports, not cross-referenced]\n**Note on Drew's record:** The record of 52 should be verified against Baseball Reference if possible. Multiple sources confirm 52 as the franchise record number.\n**Freshness:** May 24, 2026. All within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Hernandez Walk-Off Grand Slam in 0-0 Game — Marlins Sweep Mets (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "11:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "A 0-0 game. Ninth inning. Pinch-hitter up.\n\nHeriberto Hernandez hits a 416-foot walk-off grand slam off Devin Williams.\n\nMarlins win 4-0. Mets swept.\n\nFirst walk-off slam in a 0-0 game since 2013. Baseball is incredible. ⚾\n\n#BallparkBanter #Marlins #MLB",
+          "posting_time": "11:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Marlins",
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "This is one for the baseball history books.\n\nOn Sunday in Miami, the Marlins and Mets played into the ninth inning with the score locked at 0-0. Both starters had been excellent. Neither team had scored. Then Heriberto Hernandez — coming off the bench as a pinch-hitter — stepped into the box with the bases loaded and absolutely crushed a 416-foot grand slam off Devin Williams.\n\nWalk-off. Marlins win 4-0. Three-game sweep.\n\nHere's the wild stat that puts this in context: it was the first walk-off grand slam in a 0-0 game since Justin Maxwell hit one for the Royals on September 22, 2013. Thirteen years. Not one time in 13 years had someone done what Hernandez did on Sunday.\n\nThe Marlins needed it, too. They had dropped three of four to Atlanta earlier in the week. Bouncing back with a sweep — capped by one of the rarest endings in baseball — was exactly the right answer.\n\nWho's been sleeping on the Marlins? They're now 25-29, but games like this matter.\n\n---",
+        "image_caption": "Heriberto Hernandez. Pinch-hit. Bases loaded. 0-0 game. Walk-off grand slam. First time in 13 years that's happened in baseball. ⚾",
+        "posting_time": "11:30 AM ET"
+      },
+      "article": {
+        "filename": "article-03-hernandez-walk-off-grand-slam-marlins-sweep-mets.html",
+        "headline": "Hernandez's Walk-Off Grand Slam in a 0-0 Game Gives Marlins Mets Sweep",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hernandez Walk-Off Grand Slam\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Hernandez rounding bases, arms raised, teammates streaming onto the field.\n\n**Photo Search Terms (Imagn):**\n1. \"Heriberto Hernandez Miami Marlins\"\n2. \"Miami Marlins celebration\"\n3. \"Marlins walk-off\"\n\n**Text Overlay:**\n- Headline: \"WALK-OFF SLAM\"\n- Subtitle: \"First in a 0-0 Game Since 2013\"\n- Headline Color: #FFFFFF\n- Subtitle Color: #F4C542\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hernandez Walk-Off Grand Slam in 0-0 Game — Marlins Sweep Mets\n**Decision:** NEW STORY — Sunday's Marlins-Mets game result; not covered previously.\n**Sources:**\n- MLB.com: \"Heriberto Hernández hits walk-off grand slam as Marlins sweep Mets\" (May 24-25, 2026)\n- Yahoo Sports: \"Heriberto Hernández hits walk-off grand slam as Marlins sweep Mets\" (May 25, 2026)\n- FOX Sports: \"Hernández's walk-off grand slam against Williams gives Marlins 4-0 win, 3-game sweep of Mets\" (May 25, 2026)\n- BVM Sports: \"Heriberto Hernandez hits walk-off grand slam as Marlins sweep Mets\" (May 24, 2026)\n- NWA Democrat-Gazette: \"MLB roundup: Hernandez's walk-off grand slam gives Marlins win, 3-game sweep of Mets\"\n**Key Facts:**\n- Final score: Marlins 4, Mets 0 [HIGH — multiple sources]\n- Walk-off grand slam in the 9th inning [HIGH — multiple sources]\n- Hernandez pinch-hit (replaced Owen Caissie in 7th inning) [HIGH — MLB.com]\n- Slam off Devin Williams (Mets RP) [HIGH — FOX Sports headline]\n- 416-foot projected distance to center field [HIGH — MLB.com: \"416-foot walk-off grand slam to center field\"]\n- Game was tied 0-0 through 8 innings [HIGH — multiple sources say \"0-0 game\"]\n- First walk-off grand slam in a 0-0 game since Justin Maxwell (Royals, Sept. 22, 2013) [HIGH — MLB.com explicitly states this]\n- Marlins now 25-29, fourth place in NL East [HIGH — Yahoo Sports]\n- Three-game sweep of Mets [HIGH — all sources]\n- Marlins had dropped three of four to Atlanta earlier in the week [HIGH — Yahoo Sports context]\n**Freshness:** May 24-25, 2026. All within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Bryan Torres' 11-Year Journey to the Majors — Then He Hit a Homer (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Bryan Torres spent 11 years in the minor leagues.\n\nFriday, he made his MLB debut for the Cardinals.\n\nIn the 9th inning, he hit a two-run homer.\n\nFirst Cardinals player with 2 hits, HR, and walk in a debut since at least 1901.\n\nWorth the wait. ⚾\n\n#BallparkBanter #Cardinals #MLB",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Cardinals",
+            "#MLB"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "Eleven years.\n\nThat's how long Bryan Torres spent in the minor leagues before the St. Louis Cardinals finally called him up. From his first minor league appearance in 2015 to his MLB debut on Friday — 11 years of bus rides, Double-A hotels, and the daily hope that today might be the day someone noticed.\n\nHe was 28 years old when he got the call.\n\nIn his first MLB at-bat, Torres recorded a hit. Then another hit. Then a walk. Then, in the 9th inning of a Cardinals blowout, he drove a 2-run homer 377 feet to right-center field.\n\nThat performance — two hits, a walk, and a home run — was the first time any Cardinals player had done that in a debut since at least 1901. Torres also became the first Puerto Rican-born player to homer in his MLB debut since Isan Díaz in 2019.\n\nBaseball is a sport where some people come up at 22 and some people come up at 28. Bryan Torres spent 11 years proving he belonged. On Friday, he proved it in the best way possible.\n\nThat's the kind of story that makes baseball worth watching.\n\n---",
+        "image_caption": "11 years in the minors. Then Bryan Torres hit a homer in his MLB debut. Baseball doesn't always follow the script — and that's what makes it great. ⚾",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-bryan-torres-mlb-debut-home-run-11-year-journey.html",
+        "headline": "Bryan Torres Hits Homer in MLB Debut After 11 Years in the Minor Leagues",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bryan Torres MLB Debut\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Torres rounding bases or celebrating in the dugout, emotional moment.\n\n**Photo Search Terms (Imagn):**\n1. \"Bryan Torres St. Louis Cardinals\"\n2. \"Cardinals debut celebration\"\n3. \"St. Louis Cardinals dugout\"\n\n**Text Overlay:**\n- Headline: \"11 YEARS LATER\"\n- Subtitle: \"Torres Hits HR in MLB Debut\"\n- Headline Color: #FFFFFF\n- Subtitle Color: #F4C542\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bryan Torres' 11-Year Journey to the Majors\n**Decision:** NEW STORY — Torres debuted May 23 (Friday); not covered in May 24 pipeline. Notable human-interest with multiple historic firsts.\n**Sources:**\n- MLB.com: \"Bryan Torres homers, reaches base 3 times in Major League debut\" (May 23, 2026)\n- MSN/Cardinals: \"Bryan Torres homers in MLB debut as Cardinals slam Reds 8-1 in game 1 of doubleheader\" (May 23, 2026)\n- BVM Sports: \"Bryan Torres Hits Home Run in MLB Debut After 11-Year Journey\" (May 24, 2026)\n- Washington Post: \"Cardinals' Bryan Torres homers in big league debut, 11 years after first minor league appearance\" (May 23, 2026)\n- Yardbarker: \"Cardinals' Bryan Torres Makes Puerto Rico History in Emotional MLB Debut\"\n- Roundtable.io: \"Eleven Years in the Making, Bryan Torres has MLB Debut of a Lifetime for Cards\"\n**Key Facts:**\n- Torres hit a 2-run HR in the 9th inning of his first MLB game [HIGH — multiple sources]\n- Cardinals beat Reds 8-1 in Game 1 of a doubleheader [HIGH — MSN/Cardinals]\n- Torres went 3-for-5 with HR and walk [MEDIUM — BVM Sports says \"3-for-5\", WaPo says \"homers, reaches base 3 times\" — consistent at 3 times on base]\n- Torres was 28 years old at debut [MEDIUM — referenced in multiple sources but \"age 28\" needs verification; listed as playing 11 years in minors since ~2015, which implies ~28]\n- 11 years in the minor leagues before debut [HIGH — multiple sources, headline-level fact]\n- First Cardinals player with 2 hits, HR, and walk in debut since at least 1901 [HIGH — MSN/Cardinals, cross-referenced with Roundtable]\n- First Puerto Rican-born player to homer in his MLB debut since Isan Díaz (2019) [HIGH — Yardbarker]\n- HR was 377 feet to right-center [MEDIUM — MSN article cited 377-foot HR]\n**Freshness:** May 23, 2026 (game) / May 24 coverage. Technically a day old but new to our coverage cycle and a strong story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Schwarber Pace Check — Still on Historic Track Toward 60+ HRs (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Memorial Day checkpoint: Kyle Schwarber.\n\nHit his 20th HR on May 15 — the earliest EVER in MLB history.\n\nPace: 66-72 home runs by season's end.\n\nBarry Bonds hit his 20th in 2001 on May 19.\n\nNo one has been here since Bonds. ⚾\n\n#BallparkBanter #Phillies #MLB",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "At Memorial Day, baseball takes stock of where the season stands. And when it comes to Kyle Schwarber, what stands out is remarkable.\n\nSchwarber hit his 20th home run of the 2026 season on May 15. Not just impressive — historic. That's the earliest any player in MLB history has hit 20 home runs in a single season. Barry Bonds, in the year he hit 73, didn't get to 20 until May 19. Schwarber beat him by four days.\n\nAt his current pace, Schwarber is projecting to 66-72 home runs by season's end. The 60-HR club — where Barry Bonds (73), Mark McGwire (70), and Sammy Sosa (66/65/63) live — is a group nobody has joined in over two decades. Schwarber is knocking on the door.\n\nThe Philadelphia Phillies have built around this lineup for exactly this moment, and with Schwarber at his peak, the National League East race has a different dimension than it would without him.\n\nWhat's the over-under on his final total? Comment below.\n\n---",
+        "image_caption": "Kyle Schwarber hit his 20th homer on May 15 — the earliest in MLB history. His pace projects to 66-72 for the season. No one has been here since Barry Bonds. ⚾",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-schwarber-memorial-day-hr-pace-60-hr-club.html",
+        "headline": "Kyle Schwarber's Memorial Day Checkpoint: Still on the Most Historic Home Run Pace Since Bonds",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber Memorial Day Pace Check\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Schwarber watching a home run leave the park, bat flip or classic HR follow-through.\n\n**Photo Search Terms (Imagn):**\n1. \"Kyle Schwarber Philadelphia Phillies\"\n2. \"Kyle Schwarber home run\"\n3. \"Phillies slugger\"\n\n**Text Overlay:**\n- Headline: \"20 HRs BY MAY 15\"\n- Subtitle: \"Earliest in MLB History. Pace: 66-72 HRs.\"\n- Headline Color: #FFFFFF\n- Subtitle Color: #F4C542\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber Pace Check — Memorial Day Milestone\n**Decision:** FOLLOW UP — Schwarber's 60-HR pace covered May 24 (Story 1) with full historical framing. Memorial Day provides a natural update angle. What's his current total? The latest verified data shows 20 HRs through May 15.\n**Sources:**\n- SI.com: \"Kyle Schwarber Makes Incredible MLB History With 20th Home Run\" (May 2026)\n- ESPN: \"MLB 2026: Will Phillies' Kyle Schwarber join 60 home run club?\"\n- OutKick/FoxNews: \"Philadelphia Phillies slugger Kyle Schwarber is already on track to challenge Barry Bonds, Mark McGwire\"\n- Yardbarker: \"Phillies' Kyle Schwarber reaches historic pace after two-homer game\"\n**Key Facts:**\n- Schwarber hit his 20th HR on May 15 — the earliest any player has hit 20 HRs in MLB history [HIGH — multiple sources]\n- Previous earliest 20th HR: Luis Gonzalez, May 17, 2001 [HIGH — SI.com]\n- Barry Bonds hit his 20th in 2001 on May 19 [HIGH — multiple sources]\n- Schwarber's pace projects to 66-72 HRs [MEDIUM — different sources give slightly different projections, dependent on games played]\n- In 2025, Schwarber hit 56 HRs (career high) [HIGH — multiple sources]\n- 60-HR club: Bonds 73, McGwire 70, Sosa 66/65/63 [HIGH — historical facts, well-known]\n- No player on this trajectory since Bonds in 2001 [HIGH — per multiple sources]\n- Today Phillies face Padres (Memorial Day game) [HIGH — schedule confirmed]\n**Note on current total:** Sources consistently reference \"20 HRs through May 15\" as the milestone. His total as of May 25 is not specifically stated in search results, but given the Phillies played May 23 (Guardians beat Phillies 3-1), his total is likely 20-22 HRs as of May 25. Using \"at least 20 HRs\" is safe.\n**Freshness:** Milestone facts from May 15 and May 2026. Coverage within the week.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Memorial Day MLB Schedule — 12 Games, Yankees-Royals on ESPN (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Happy Memorial Day. 12 MLB games today. ⚾\n\nYankees vs. Royals on ESPN at 3:30 PM.\n\nAt 3 PM local — every ballpark pauses for the National Moment of Remembrance.\n\nRed poppies on every jersey. 🇺🇸\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "8:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "Happy Memorial Day from Ballpark Banter. Baseball is back today — and the league is honoring the day properly.\n\nAll 30 teams are wearing red poppies on their jerseys, with \"Lest We Forget\" text included. Every ballpark with an active game at 3:00 PM local time will pause for an extended moment of silence as part of the National Moment of Remembrance. It's one of the sport's nicest traditions.\n\nOn the field, 12 games are scheduled for Memorial Day Monday. The featured matchup on ESPN at 3:30 PM ET sends the Yankees to Kansas City to face the Royals — Aaron Judge coming off last night's walk-off against the Rays, vs. Bobby Witt Jr. and the Royals at Kauffman Stadium. That's must-see afternoon baseball.\n\nElsewhere: the Phillies face the Padres (Schwarber watch), the D-Backs host the Giants (Carroll chasing that triples record), and the Cubs open against the Pirates.\n\nTake a moment at 3 PM. Then enjoy some baseball.\n\n---",
+        "image_caption": "12 MLB games today, red poppies on jerseys, and a moment of silence at 3 PM. Memorial Day baseball is a tradition worth honoring. ⚾",
+        "posting_time": "8:30 AM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Memorial Day MLB Schedule\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Ballpark scene on a sunny afternoon, American flag imagery, red poppy jersey detail.\n\n**Photo Search Terms (Imagn):**\n1. \"Memorial Day baseball poppy\"\n2. \"MLB stadium Memorial Day\"\n3. \"baseball American flag\"\n\n**Text Overlay:**\n- Headline: \"MEMORIAL DAY BASEBALL\"\n- Subtitle: \"12 Games Today. Honor the Day.\"\n- Headline Color: #FFFFFF\n- Subtitle Color: #F4C542\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Memorial Day MLB Schedule\n**Decision:** NEW STORY — Daily schedule preview with Memorial Day context.\n**Sources:**\n- MLB.com schedule: 12 games on May 25, 2026 [HIGH — official schedule]\n- MLB.com press release: \"Release: Major League Baseball Commemorates Memorial Day 2026\" [HIGH — official]\n- ESPN press room: Yankees-Royals featured game at 3:30 PM ET on ESPN [HIGH]\n**Key Facts:**\n- 12 MLB games on Memorial Day, May 25, 2026 [HIGH]\n- Featured ESPN game: Yankees vs. Royals, 3:30 PM ET (Kauffman Stadium) [HIGH]\n- All clubs pause at 3:00 PM local time for National Moment of Remembrance [HIGH — official press release]\n- Red poppy on left side of jerseys, \"Lest We Forget\" language [HIGH — official press release]\n- Other key games: Phillies-Padres, Cubs-Pirates, Mets-Reds, D-Backs-Giants, Dodgers-Rockies [HIGH — schedule]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Memorial Day Standings — Rays, Braves, Brewers Setting the Pace (Tier 3)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "MLB at Memorial Day 2026:\n\n🏆 AL: Rays lead the East, best record in the league\n🏆 NL: Braves lead the East, Brewers winning 15 of last 19\n\nYankees 4.5 back after Judge's walk-off.\n\nThe races are real. ⚾\n\n#BallparkBanter #MLB #Baseball",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#BallparkBanter",
+            "#MLB",
+            "#Baseball"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "Memorial Day is baseball's first real checkpoint. A third of the season is in the books. Enough games to start drawing conclusions. Here's where things stand in 2026.\n\nIn the American League, the Tampa Bay Rays remain the team to beat — they own the league's best record and are running away with the AL East after consecutive dominant months. The Yankees closed within 4.5 games after Aaron Judge's walk-off Sunday, but Tampa Bay has been relentless all season.\n\nIn the National League, the Atlanta Braves are the standard-bearer in the East. And perhaps the most surprising team in all of baseball: the Milwaukee Brewers. They've won 15 of their last 19 games and currently hold the third-best record in the majors. The Brewers have been making franchise history with their pitching staff and lineup depth — this isn't a fluke.\n\nMemorial Day records are a decent predictor: historically, teams with strong Memorial Day records have a solid chance of making the postseason. The Rays, Braves, and Brewers are all building something real.\n\nWho do you think wins it all this year? Let us know below.\n\n---",
+        "image_caption": "Memorial Day standings: Rays lead the AL, Braves lead the NL, and the Brewers are winning 15 of their last 19. A third of the season gone. ⚾",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": null,
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Memorial Day Standings\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Visual Description:** Scoreboard or stadium shot, broad league context image.\n\n**Photo Search Terms (Imagn):**\n1. \"Tampa Bay Rays baseball\"\n2. \"Atlanta Braves stadium\"\n3. \"Milwaukee Brewers American Family Field\"\n\n**Text Overlay:**\n- Headline: \"MEMORIAL DAY STANDINGS\"\n- Subtitle: \"Rays. Braves. Brewers. Real Races.\"\n- Headline Color: #FFFFFF\n- Subtitle Color: #F4C542"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Memorial Day Standings\n**Decision:** NEW STORY — Standing check at Memorial Day is a natural benchmark feature.\n**Sources:**\n- TheStatWire: \"MLB Standings 2026 — Tampa Bay Rays (AL), Atlanta Braves (NL) Lead\"\n- FanSided: \"The MLB standings are lying to you with a third of the season gone\"\n- BrewerFanatic: \"The 2026 Brewers Are Making Franchise History\"\n- Multiple search results confirming Rays, Braves, Brewers as leaders\n**Key Facts:**\n- Tampa Bay Rays lead AL East, best AL record (~34-16 as of May 25) [HIGH — multiple sources]\n- Atlanta Braves lead NL East, among best NL records [HIGH — multiple sources]\n- Milwaukee Brewers third-best record in baseball, winning 15 of last 19 [HIGH — multiple sources]\n- Yankees 31-22, 4.5 games behind Rays after Sunday win [HIGH — from Story 1 sources]\n- Memorial Day is a traditional early-season benchmark in baseball [HIGH — MLB.com feature article]\n**Freshness:** Standings updated through May 25 games. All current.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 9,
+    "facebook_posts_count": 7,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

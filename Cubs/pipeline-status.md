@@ -193,6 +193,17 @@ to mark them as pipeline-produced.
 ## Pipeline Run Log
 <!-- Append newest at top -->
 
+### 2026-05-25
+- Stories: 7 (Tier 1: astros-recap, pirates-series-preview; Tier 2: historic-collapse-take, wicks-recalled, nl-central-standings; Tier 3: ben-brown-stat-breakdown, alcantara-prospect) — X-only niche, SERIES OPENER
+- X posts: 7 (4 informative / 3 bold = ~57/43 mix)
+- Char counts: 279/273/271/277/241/277/274 — all ≤280, all outside 140-200 range (insights-tuned)
+- Fact-check: Manual verification. All Priority 1 claims VERIFIED. HIGH verified: final score 8-5 (3 sources), Cubs 29-24 (series-context + ESPN), 8-game skid (3+ sources), 12 of 14 losses (ESPN + Cubs Insider), Ramirez first MLB hit RBI double (ESPN + wire), Imanaga 7R/7H/1BB/6K in 7 IP 3rd straight loss (Bleacher Nation box score), Busch 5th HR (Cubs Insider), Ben Brown 2.09 ERA/40K/0.98 WHIP/1-2 (FanDuel + CBS Sports), Mlodzinski 4-3/3.96 ERA (FanDuel), Wicks recall + Cabrera IL right-finger blister (Bleacher Nation + MLB Trade Rumors), Wicks 1 ER in last 11 Iowa IP (Bleacher Nation + MLB TR), Brewers 30-20 (Brew Crew Ball + Yahoo Sports), Cardinals 29-22 (Yahoo Sports), Misiorowski 0.00 ERA in May 37K in 24.1 IP (YourNews/MLB.com), Alcantara 15 HR in 41 Iowa games (MLB.com + Bleacher Nation). MEDIUM: Cubs 15-over on May 8 (single CBS Sports AI summary), rotation ERA >6.00 (same), offense/pitching 28th rankings (same), Alcantara 7-game streak 10-for-28 5 XBH 9 RBI (single Bleacher Nation source). NOT USED: Alcantara "tied for MiLB HR lead" (superlative, not independently verified), "longest skid since July 2022" (superlative, single source).
+- Insights applied: 9/9 significant findings applied (first run with 9 findings — tweet sample grew from prior runs to 89 measured tweets). All 7 tweets 260+ or in neutral 200-260 zone. Zero leading emojis. Zero ALL CAPS openings. Score explicit in recap. Stats in every post. No overnight slots.
+- Dashboard: Generated locally (Cubs/cubs-content-2026-05-25/review-dashboard.html). Publish to content-dashboards FAILED (403 — same recurring issue, PAT doesn't cover content-dashboards repo).
+- 07-content-data.json: ✓ Compiled, 7 stories, 7 x_posts with posting_time in "H:MM AM/PM CT" format, 0 errors, 0 warnings
+- Key stories: Astros 8 Cubs 5 eight straight losses Ramirez first MLB hit Imanaga 3rd loss 29-24 (P10), 4-game road series Pirates PNC Park Brown 2.09 ERA (P9), 15-over to 5-over in 17 days collapse bold take (P9), Wicks recalled Cabrera IL right-finger blister 4-of-6 starters out (P8), NL Central Cubs 3rd Brewers 30-20 Cardinals 29-22 Misiorowski (P8), Ben Brown 2.09 ERA 0.98 WHIP 40 K quiet excellence (P7), Alcantara 15 HR 41 Iowa games 7-game streak power surge (P6)
+- Notes: is_series_start_today=true — posting-order conflict: Cubs SKILL prompt reserves 7 AM for series preview; engine docs give game recaps priority. Engine docs win (flagged in 02-story-analysis.md + 00-daily-brief.md). 9 insights findings (up from 6 in prior runs — expanded tweet sample). compile-content-data.py required ### STORY N: headers in daily brief and **Post NA** + [POSTING WINDOW: ...] format in X posts — initial drafts had wrong format, both corrected before compile. All tweets trimmed from initial 285–414 char range to final 241–279 range before compile.
+
 ### 2026-05-22
 - Stories: 6 (Tier 1: series-preview, astros-bounce-back-take; Tier 2: cabrera-peralta-clock, boyd-recovery, game-preview; Tier 3: iowa-prospects) — X-only niche, SERIES OPENER
 - X posts: 6 (3 informative / 3 bold = 50/50 mix)

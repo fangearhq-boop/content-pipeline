@@ -1,50 +1,42 @@
 {
-  "generated_at": "2026-05-23T08:30:00.496601+00:00",
-  "today_ct": "2026-05-23",
+  "generated_at": "2026-05-28T08:30:00.501071+00:00",
+  "today_ct": "2026-05-28",
   "off_day": false,
   "is_series_start_today": false,
   "series": {
-    "opponent": "Houston Astros",
-    "opponent_id": 117,
-    "opponent_record": "21-31",
-    "cubs_record": "29-22",
-    "is_cubs_home": true,
-    "venue": "Wrigley Field",
-    "series_length": 2,
+    "opponent": "Pittsburgh Pirates",
+    "opponent_id": 134,
+    "opponent_record": "29-27",
+    "cubs_record": "30-26",
+    "is_cubs_home": false,
+    "venue": "PNC Park",
+    "series_length": 1,
     "games": [
       {
-        "game_pk": "824674",
-        "game_date_iso": "2026-05-23T18:20:00Z",
-        "game_date_ct": "Sat 1:20 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
-      {
-        "game_pk": "824676",
-        "game_date_iso": "2026-05-24T18:20:00Z",
-        "game_date_ct": "Sun 1:20 PM CT",
+        "game_pk": "823378",
+        "game_date_iso": "2026-05-28T22:40:00Z",
+        "game_date_ct": "Thu 5:40 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (Houston Astros) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Same opponent (Pittsburgh Pirates) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "824674",
+    "game_pk": "823378",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-05-23T18:20:00Z",
-    "game_date_ct": "Sat 1:20 PM CT",
-    "is_cubs_home": true,
-    "opponent_id": 117,
-    "opponent_name": "Houston Astros",
-    "opponent_record": "21-31",
-    "cubs_record": "29-22",
+    "game_date_iso": "2026-05-28T22:40:00Z",
+    "game_date_ct": "Thu 5:40 PM CT",
+    "is_cubs_home": false,
+    "opponent_id": 134,
+    "opponent_name": "Pittsburgh Pirates",
+    "opponent_record": "29-27",
+    "cubs_record": "30-26",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
-    "venue": "Wrigley Field"
+    "venue": "PNC Park"
   },
-  "rationale": "Same opponent (Houston Astros) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Same opponent (Pittsburgh Pirates) as yesterday \u2014 this is mid-series, not a series opener."
 }
