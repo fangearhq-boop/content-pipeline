@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-28
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Monaco GP 2026 Preview (June 5-7, Circuit de Monaco, Louis Vuitton sponsor, free strategy, Antonelli 131 pts leads 43 over Russell, Leclerc defending 2024 win) | 1 | NEW STORY |
+| 2 | Antonelli poor race starts concern — Palmer warning; lost Miami pole lead to Leclerc at T1; Monaco's short run to T1 = highest risk | 2 | NEW STORY |
+| 3 | Russell needs Monaco — trails 43 pts after Canada DNF (Lap 30 power unit failure); "desperately needs pick-me-up"; Wolff team orders red line | 2 | FOLLOW UP (Russell championship fight) |
+| 4 | Verstappen Monaco redemption shot — 9th in standings, 60+ pts back; car 10kg overweight; but 2-time Monaco winner (2021, 2023); RBPT-Ford engine top-2 | 2 | NEW STORY |
+| 5 | Monaco two-stop rule scrapped — FIA reversed 2025 rule after teams exploited with pace control (4 sec/lap slower); free strategy returns 2026 | 2 | NEW STORY |
+
+### STORY 1: Monaco GP 2026 Preview
+- **Tier:** 1
+- **Category:** Race Preview / Championship
+- **Key facts:** June 5-7, Circuit de Monaco. Louis Vuitton title sponsor (replaced TAG Heuer). Free strategy (two-stop rule scrapped). Antonelli 131 pts, Russell 88 pts (gap 43). Leclerc won 2024. Verstappen won 2021 and 2023. New teams: Audi (Bortoleto+Hülkenberg), Cadillac (Perez+Bottas).
+- **Status:** NEW STORY
+- **Follow-up ideas:** Monaco practice/qualifying previews; race preview closer to June 7
+
+### STORY 2: Antonelli's Poor Race Start Concern
+- **Tier:** 2
+- **Category:** Driver Analysis / Championship
+- **Key facts:** Jolyon Palmer warning: poor starts = critical Monaco weakness. Miami: started pole, lost lead to Leclerc at T1 due to slow getaway. Monaco has shortest run to T1 on calendar. With 43 pts lead, not must-win — but habit is worrying.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Monaco qualifying/race — did Antonelli sort his starts?
+
+### STORY 3: Russell Needs Monaco
+- **Tier:** 2
+- **Category:** Driver Update / Championship
+- **Key facts:** Canada DNF Lap 30 (power unit failure while leading). Gap = 43 pts. Monaco win would close to ~18 pts. Wolff "red line" on team battles. Neither Russell nor Antonelli has won Monaco.
+- **Status:** FOLLOW UP (Russell championship fight from 2026-05-27)
+- **Follow-up ideas:** Monaco race result and championship gap update
+
+### STORY 4: Verstappen Monaco Redemption
+- **Tier:** 2
+- **Category:** Driver Feature / Championship
+- **Key facts:** 9th in standings, 60+ pts back. RB22 ~10kg overweight (3-4 tenths/lap). Canada P3 best 2026 result. Monaco wins: 2021 and 2023. RBPT-Ford engine top-2. Horner "rolled the dice" at Monaco in past.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Monaco qualifying; race result
+
+### STORY 5: Two-Stop Rule Scrapped
+- **Tier:** 2
+- **Category:** Regulation News / Race Preview
+- **Key facts:** FIA scrapped mandatory 2-stop rule for Monaco 2026. 2025 rule failed: teams exploited with pace control, drivers 4 sec/lap slower. WMSC ratified removal of Monaco-specific tyre clauses. Free strategy returns.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Monaco race strategic battles; tire choice analysis
+
 ## 2026-05-27
 
 | # | Story | Tier | Tag |
