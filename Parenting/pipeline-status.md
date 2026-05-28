@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: May 28, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 $775M bond referendum (November 2026 ballot, AC/structural/teacher pay, ~$6.50/month per $100K home); Bearlala baby lounger recall (~300 units, Walmart.com, Aug–Oct 2025, fall+entrapment, Recall-nuoxuann@outlook.com); Get Outdoors Day June 6 (free, Memorial Park, 9 AM–2 PM, free gear first 650 kids ≤15); D11 Adult & Family Ed graduation tonight (May 28 7 PM Wasson Campus); June COS family events guide (Rock Ledge Ranch June 3–14, El Pomar June 6 free, Peak Adrenaline June 11–14) |
+| Story History Check | COMPLETE | 5 NEW STORIES — D11 bond (new referendum vote), Bearlala recall (new CPSC recall), Get Outdoors Day (annual event new coverage), D11 graduation tonight (new ceremony date), June events guide (new seasonal composite) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts (1 each for Stories 1–5); all under 280 chars; 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (8 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images (Social + Article Hero per story for S1–S3, Social only for S4–S5), all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 63 claims; image warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 8 images |
+| Dashboard | COMPLETE | review-dashboard.html (25 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-28.xlsx (5 posts) + TOBI cosp-postplanner-tobi-2026-05-28.xlsx (5 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-28)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts (5 long-form + 5 captions) = 15 total
+- **Articles:** 5 (bylines: Sarah Morales x3, Jamie Rivera x2)
+- **PostPlanner exports:** cosp-postplanner-2026-05-28.xlsx (5 posts), cosp-postplanner-tobi-2026-05-28.xlsx (5 TOBI posts)
+- **Coverage:** D11 $775M bond referendum (November 2026 ballot, AC upgrades, structural repairs, $10K teacher pay, new Stratmoor Hills Elementary, ~$6.50/month per $100K home); Bearlala baby lounger recall (~300 units "Granlass" by Nuoxuann, Walmart.com Aug–Oct 2025, $35–$45, light gray leaf pattern, fall+entrapment, Recall-nuoxuann@outlook.com); Get Outdoors Day June 6 (free, Memorial Park/Prospect Lake, 9 AM–2 PM, archery/paddleboarding/fly fishing/climbing wall/Touch a Truck/dunk tank, free gear first 650 kids ≤15, 3,000+ expected, ppora.org); D11 Adult & Family Education graduation tonight (May 28 7 PM Roy J. Wasson Academic Campus, GED/ESL/ABE/Adult Diploma, d11.org); June COS family events guide (Rock Ledge Ranch June 3–14, Get Outdoors Day June 6 free, El Pomar Family Exploration Day June 6 free, Peak Adrenaline June 11–14, PPLD Summer Adventure starts June 1)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 63 claims; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 5 X posts, 5 FB posts, 5 articles, 8 images; posting window warnings cosmetic
+  - dashboard: 25 items
+  - PostPlanner exports: both standard (5) and TOBI (5) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: May 27, 2026
 
 | Step | Status | Notes |

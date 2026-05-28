@@ -2,6 +2,45 @@
 
 ---
 
+## May 28, 2026
+
+### Story 1: D11 $775M Bond Referendum — November 2026 Ballot
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado Springs School District 11 board votes to put $775M bond on November 2026 ballot. Funding targets: AC upgrades, structural repairs, $10K teacher pay increases, new Stratmoor Hills Elementary. Est. cost: ~$6.50/month per $100K home value. Builds on failed 2023 $395M bond attempt.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** $775M bond; November 2026 ballot; AC upgrades; structural repairs; $10K teacher pay increase; new Stratmoor Hills Elementary; ~$6.50/month per $100K home value; failed 2023 bond was $395M; Source: KOAA, KRDO, Colorado Springs Gazette
+
+### Story 2: Bearlala Baby Lounger Recall — CPSC (~300 Units, Walmart.com)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall. ~300 Bearlala baby loungers (sold as "Granlass" by Nuoxuann) recalled; fall and entrapment hazards; sides too low, foot openings too wide, no stand. Sold exclusively on Walmart.com Aug–Oct 2025, $35–$45, light gray leaf pattern. Full refund: cut cover + foam + pad in half, photo to Recall-nuoxuann@outlook.com. No injuries reported.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~300 units; fall + entrapment; sides too low; foot openings too wide; no stand; Walmart.com; Aug–Oct 2025; $35–$45; light gray leaf pattern; Recall-nuoxuann@outlook.com; Source: CPSC.gov recall notice
+
+### Story 3: Get Outdoors Day — Free Family Festival June 6, Memorial Park
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Annual Get Outdoors Day at Memorial Park / Prospect Lake, June 6, 9 AM–2 PM, free. Archery, paddleboarding, fly fishing instruction, climbing wall, Touch a Truck, dunk tank. Colorado Parks and Wildlife gives free fishing rods + bait + instruction to first 650 kids ages 15 and under. 3,000+ expected. Organized by Pikes Peak Outdoor Recreation Alliance.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** June 6; 9 AM–2 PM; free; Memorial Park / Prospect Lake; archery, paddleboarding, fly fishing, climbing wall, Touch a Truck, dunk tank; free gear first 650 kids ≤15; 3,000+ expected; ppora.org; Source: PPORA, Colorado Parks & Wildlife
+
+### Story 4: D11 Adult & Family Education Graduation Tonight — May 28, 7 PM
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 Adult and Family Education 2026 graduation ceremony tonight at Roy J. Wasson Academic Campus, 7 PM. GED, ESL, Adult Basic Education, and Adult Diploma Program graduates. Programs run year-round; low/no cost. Enrollment info: d11.org.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** May 28, 2026; 7 PM MT; Roy J. Wasson Academic Campus; GED, ESL, Adult Basic Education, Adult Diploma Program; year-round enrollment; d11.org; Source: D11.org, Colorado Springs Gazette
+
+### Story 5: June 2026 COS Family Events Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (composite guide) — June COS family events: Rock Ledge Ranch June 3–14 (10 AM–5 PM, paid); Get Outdoors Day June 6 (free, Memorial Park); El Pomar Family Exploration Day June 6 (free, Penrose Heritage Museum, 10 AM–2 PM); Peak Adrenaline June 11–14 (paid, Pikes Peak International Raceway). Bonus: PPLD Summer Adventure starts June 1.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** Rock Ledge Ranch June 3–14; El Pomar June 6 free 10 AM–2 PM; Get Outdoors Day June 6 free; Peak Adrenaline June 11–14; PPLD Summer Adventure starts June 1; Source: rockledgeranch.com, El Pomar Foundation, PPORA, Peak Adrenaline website
+
+---
+
 ## May 27, 2026
 
 ### Story 1: Bellabu Bear Children's Sherpa Robes Recall — CPSC (1,300 Units)
