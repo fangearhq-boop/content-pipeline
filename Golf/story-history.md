@@ -4,6 +4,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-05-28 | T1 | Charles Schwab Challenge R1 underway (Colonial CC, May 28-31) — Åberg favorite +800-+1000 (8th trip, solo-T3 2025, 6 top-10s in 7 starts, 6th SG t-t-g); Fowler (3 top-10s/4 starts, 13 trips, 0 missed cuts in 5 years, 4th total SG); Thomas "promising trend"; Griffin defending | X, FB, Article | FOLLOW-UP |
+| 2026-05-28 | T2 | LIV Golf Korea R1 — DeChambeau/Howell III/Vincent share lead at -5 (65); T4: Niemann/Poulter/Pieters -4; Crushers GC -10 team lead; DeChambeau defending 2025 Korea title; Asiad CC Busan Par 70 7024 yds | X, FB, Article | NEW STORY |
+| 2026-05-28 | T2 | Rickie Fowler Colonial feature — last win summer 2023; 3 top-10s in last 4 starts; 13th Colonial trip; 0 missed cuts 5 years; T6/T16 in last 3 appearances; gained +6 SG avg vs field at Colonial over last 3 visits | X, FB, Article | NEW STORY |
+| 2026-05-28 | T2 | Åberg win drought feature — 6 top-10s in 7 starts (same stat as May 27); last win Genesis Invitational; solo-T3 at Colonial 2025; +800-+1000 favorite; 6th SG tee-to-green in field | X, FB, Article | FOLLOW-UP |
+| 2026-05-28 | T2 | US Women's Open preview (June 4-7, Riviera CC) — 81st edition; first USGA women's major at Riviera; Korda 3 wins in 2026 incl. Chevron (3rd major); Thitikul World No.1; Stark defending (2025 Erin Hills -7/281, 2 shots over Korda+Takeda); 1,897 entries; first US Women's Open in Greater LA | X, FB, Article | FOLLOW-UP |
+|------|------|-------|-----------|-------|
 | 2026-05-27 | T1 | Charles Schwab Challenge preview (May 28-31, Colonial CC, Fort Worth TX) — Åberg +900 (3 SG/round), Fowler T2 Truist, Smalley T2 PGA Championship, Thomas historical trend; par 70, 7,289 yds, 27-yd fairways (3rd-narrowest); Hanse renovation; Griffin defending +2200; Scheffler/McIlroy absent; $9.9M | X, FB, Article | FOLLOW-UP |
 | 2026-05-27 | T1 | LIV Golf Korea preview (May 28-31, Asiad CC, Busan) — Korean Golf Club rebranded from Iron Heads; Ben An + Min-kyu Kim added for home event; DeChambeau defending; 4Aces lead team standings; 159-yd par-3 island green; Peggy Gou concert R3; shotgun 1:15 PM local | X, FB, Article | FOLLOW-UP |
 | 2026-05-27 | T2 | Åberg win drought — 6 top-10s in 7 starts; 3 SG/round (1+ better than anyone in Schwab field); no wins since Genesis Invitational last season; "trips over himself on Sundays" narrative; Colonial as potential breakthrough | X, FB, Article | NEW STORY |

@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-28",
+  "compiled_at": "2026-05-28T11:38:39.212044+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Charles Schwab Challenge R1 UNDERWAY — Åberg Hunts First 2026 Win at Colonial",
+      "tier": 1,
+      "status": "",
+      "angle": "Åberg is the best player not winning in 2026. Can Colonial finally break the drought?",
+      "posting_window": "8:00 AM / 10:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Colonial Country Club is OPEN.\n\nRound 1 of the Charles Schwab Challenge is underway in Fort Worth.\nLudvig Åberg is the betting favorite — 6 top-10s, zero wins in 2026.\n\nToday could be the day he changes that.\n\n#GolfFanrecap #SchwabeChallenge #PGATour",
+          "posting_time": "8:00 AM / 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#SchwabeChallenge",
+            "#PGATour"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Åberg at Colonial: solo-3rd in 2025. Betting favorite in 2026.\nSix top-10s in seven starts this year — without a win.\n\nHogan's Alley has been kind to him. The question is: does it give him a title?\n\n#GolfFanrecap #SchwabeChallenge #PGATour",
+          "posting_time": "8:00 AM / 10:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#SchwabeChallenge",
+            "#PGATour"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM / 10:30 AM"
+      },
+      "article": {
+        "filename": "article-01-schwab-challenge-r1-aberg-colonial.html",
+        "headline": "Charles Schwab Challenge Opens at Colonial: Åberg Leads Favorites at Hogan's Alley",
+        "word_count": 732
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Charles Schwab Challenge R1 UNDERWAY — Åberg Hunts First Win\n\n**Imagn Search Terms:**\n1. \"Ludvig Aberg PGA Tour\"\n2. \"Colonial Country Club Fort Worth\"\n3. \"Ben Griffin PGA Tour\"\n4. \"Rickie Fowler PGA Tour\"\n\n**X/Twitter Image Concept:**\n- Player: Åberg mid-iron shot, follow-through\n- Headline overlay: \"HOGAN'S ALLEY OPENS TODAY\"\n- Subtitle: \"SCHWAB CHALLENGE R1 | MAY 28-31 | COLONIAL CC\"\n- Colors: #004F2D (dark green) headline, #GOLD subtitle on white\n\n**Facebook Image Concept:**\n- Player: Åberg driving or iron shot at Colonial\n- Headline overlay: \"ÅBERG: 6 TOP-10s. ZERO WINS.\"\n- Subtitle: \"COLONIAL COULD CHANGE EVERYTHING\"\n- Colors: #004F2D headline, #C5A028 (gold) subtitle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf Korea R1 — DeChambeau Shares Lead at -5",
+      "tier": 2,
+      "status": "",
+      "angle": "DeChambeau looks to defend his Korea title from last year. The Crushers are on a roll.",
+      "posting_window": "6:00 PM (post-round results)",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "LIV Golf Korea — Round 1 Leaders:\n\n-5: DeChambeau / Charles Howell III / Scott Vincent\n-4: Niemann / Poulter / Pieters\n\nDeChambeau's Crushers GC lead the team standings at -10 cumulative.\n\n#GolfFanrecap #LIVGolf #LIVGolfKorea",
+          "posting_time": "6:00 PM (post-round results)",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LIVGolf",
+            "#LIVGolfKorea"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM (post-round results)"
+      },
+      "article": {
+        "filename": "article-02-liv-golf-korea-r1-dechambeau-leads.html",
+        "headline": "LIV Golf Korea Round 1: DeChambeau Shares Lead at -5, Crushers GC in Front",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Korea R1 — DeChambeau Leads at -5\n\n**Imagn Search Terms:**\n1. \"Bryson DeChambeau LIV Golf\"\n2. \"Bryson DeChambeau golf\"\n\n**X/Twitter Image Concept:**\n- Player: DeChambeau in LIV/Crushers gear, powerful drive\n- Headline overlay: \"LIV KOREA R1 LEADER\"\n- Subtitle: \"-5 | DECHAMBEAU / HOWELL III / VINCENT\"\n- Colors: #FF6B00 (Crushers orange) headline, #FFFFFF subtitle\n\n**Facebook Image Concept:**\n- DeChambeau at Asiad CC\n- Headline overlay: \"ROUND 1: DECHAMBEAU LEADS IN KOREA\"\n- Subtitle: \"-5 (65) · CRUSHERS GC -10 TEAM TOTAL\"\n- Colors: #FF6B00 headline, #000000 subtitle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Is It Finally Rickie Fowler's Time at Colonial?",
+      "tier": 2,
+      "status": "",
+      "angle": "Fowler's Colonial history is excellent. His current form is arguably the best it's been in years.",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Rickie Fowler hasn't missed a cut at Colonial in 5 consecutive years.\n\n3 top-10s in his last 4 starts in 2026.\n13th trip to Hogan's Alley.\n\nIs this FINALLY the week he ends the win drought?\n\n#GolfFanrecap #SchwabeChallenge #PGATour",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#SchwabeChallenge",
+            "#PGATour"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-03-rickie-fowler-colonial-2026-win-drought.html",
+        "headline": "Rickie Fowler at Colonial: History, Form, and the Case for Finally Breaking Through",
+        "word_count": 722
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rickie Fowler at Colonial\n\n**Imagn Search Terms:**\n1. \"Rickie Fowler PGA Tour\"\n2. \"Rickie Fowler golf\"\n\n**X/Twitter Image Concept:**\n- Player: Fowler mid-swing or celebrating at Colonial\n- Headline overlay: \"FOWLER'S TIME?\"\n- Subtitle: \"3 TOP-10s IN LAST 4 STARTS · COLONIAL HISTORY\"\n- Colors: #FF5500 (Fowler orange) headline, #FFFFFF subtitle\n\n**Facebook Image Concept:**\n- Fowler smiling or putting at Colonial\n- Headline overlay: \"IT'S TIME FOR RICKIE FOWLER TO FINISH ONE OFF\"\n- Subtitle: \"13 TRIPS · ZERO MISSED CUTS IN 5 YEARS\"\n- Colors: #FF5500 headline, #004F2D subtitle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Åberg's Win Drought by the Numbers — 6 Top-10s, Zero Wins",
+      "tier": 2,
+      "status": "",
+      "angle": "The numbers say Åberg should be winning. The results say he isn't. Something will give soon.",
+      "posting_window": "3:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Ludvig Åberg in 2026: 6 top-10s in 7 starts.\n\nStrokes gained: elite.\nBall-striking: top of field.\nWin total: zero.\n\nSomething has to give. Colonial is a great place for it to happen.\n\n#GolfFanrecap #SchwabeChallenge #PGATour",
+          "posting_time": "3:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#SchwabeChallenge",
+            "#PGATour"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM"
+      },
+      "article": {
+        "filename": "article-04-aberg-win-drought-six-top-tens-colonial.html",
+        "headline": "Åberg's Win Drought: Six Top-10s, Zero Wins — Can Colonial Finally End the Wait?",
+        "word_count": 685
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Åberg's Win Drought\n\n**Imagn Search Terms:**\n1. \"Ludvig Aberg PGA Tour golf\"\n2. \"Ludvig Aberg golf swing\"\n\n**X/Twitter Image Concept:**\n- Player: Åberg frustrated or focused post-shot\n- Headline overlay: \"6 TOP-10s. ZERO WINS.\"\n- Subtitle: \"ÅBERG'S 2026 WIN DROUGHT CONTINUES\"\n- Colors: #004F2D headline, #C5A028 subtitle\n\n**Facebook Image Concept:**\n- Åberg walking the fairway, focused\n- Headline overlay: \"THE BEST PLAYER NOT WINNING IN 2026\"\n- Subtitle: \"LUDVIG ÅBERG | 6 TOP-10s | COLONIAL BREAKTHROUGH?\"\n- Colors: #004F2D headline, #FFFFFF subtitle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "US Women's Open Preview — Historic First at Riviera (June 4-7)",
+      "tier": 2,
+      "status": "",
+      "angle": "Historic first at Riviera. Korda is the most in-form player. Thitikul is the ranking leader. Can Stark defend?",
+      "posting_window": "8:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The US Women's Open heads to Riviera Country Club — for the FIRST TIME EVER.\n\nJune 4-7 | Pacific Palisades, CA | Presented by Ally\n\nKorda: 3 wins in 2026. Thitikul: World No. 1. Stark: defending champ.\n\nHistoric venue. Historic field. #GolfFanrecap #USWomensOpen #LPGA",
+          "posting_time": "8:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#USWomensOpen",
+            "#LPGA"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM"
+      },
+      "article": {
+        "filename": "article-05-us-womens-open-2026-riviera-preview.html",
+        "headline": "US Women's Open 2026 Preview: First Time at Riviera, Korda in Prime Form, History at Stake",
+        "word_count": 872
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "US Women's Open Preview\n\n**Imagn Search Terms:**\n1. \"Nelly Korda LPGA\"\n2. \"Riviera Country Club golf\"\n3. \"Atthaya Thitikul LPGA\"\n\n**X/Twitter Image Concept:**\n- Player: Korda celebrating LPGA win\n- Headline overlay: \"FIRST TIME EVER AT RIVIERA\"\n- Subtitle: \"US WOMEN'S OPEN | JUNE 4-7 | PACIFIC PALISADES\"\n- Colors: #C5A028 (gold) headline, #004F2D subtitle\n\n**Facebook Image Concept:**\n- Riviera CC aerial or Korda/Thitikul split\n- Headline overlay: \"HISTORY AT RIVIERA / US WOMEN'S OPEN 2026\"\n- Subtitle: \"KORDA (3 WINS) · THITIKUL (NO. 1) · STARK (DEFENDING)\"\n- Colors: #004F2D headline, #C5A028 subtitle"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

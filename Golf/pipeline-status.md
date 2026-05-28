@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-27
+- **Date**: 2026-05-28
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-28
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (1 Tier 1, 4 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-05-28.xlsx (6 posts) + gfr-postplanner-tobi-2026-05-28.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-05-28/review-dashboard.html (21 items)
+- **Notes:** Charles Schwab Challenge R1 underway (Åberg betting favorite +800-+1000, 6 top-10s/0 wins, Colonial CC); LIV Golf Korea R1 (DeChambeau/Howell III/Vincent share lead at -5/65, Crushers GC -10 team, Asiad CC Busan); Rickie Fowler Colonial feature (last win summer 2023, 3 top-10s in last 4 starts, 13 trips to Colonial, no missed cut in 5 years); Åberg win drought feature (6 top-10s in 7 starts, last win Genesis Invitational, solo T3 Colonial 2025); US Women's Open 2026 preview (June 4-7 Riviera CC, first USGA women's major at Riviera, Korda 3 wins/Chevron champion, Thitikul World No. 1, Stark defending)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-27
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
