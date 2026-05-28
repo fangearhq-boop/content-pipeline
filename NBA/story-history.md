@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-28
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | WCF G6 TONIGHT (May 28, AT&T Center SA, 8:30 PM ET NBC/Peacock) — Spurs down 3-2, Wembanyama 4/15 in G5 needs bounce-back, Fox questionable (right ankle), Spurs 5-2 at home in 2026 playoffs | 1 | FOLLOW UP (from 2026-05-27 Story 2) |
+| 2 | Wembanyama NBA Warning — skipped mandatory postgame media after G5 4-of-15 performance; official NBA warning issued | 2 | NEW STORY |
+| 3 | De'Aaron Fox ankle update — questionable for G6; missed G1/G2; 25.8 ppg/6.5 ast RS; Spurs' biggest wildcard | 2 | FOLLOW UP (Fox ankle ongoing) |
+| 4 | Knicks as NBA Finals underdogs — +215 DraftKings vs Thunder -265; +185 vs Spurs -225; 11-game win streak, 8+ days rest, OG recovering | 2 | NEW STORY |
+| 5 | OKC one win from back-to-back NBA Finals — defending 2025 champions; 64-18 RS record; SGA averaging 30+ pts in 2026 playoffs | 2 | NEW STORY |
+
+### STORY 1: WCF Game 6 TONIGHT — Elimination Night at AT&T Center
+- **Tier:** 1
+- **Category:** Game Preview / Elimination Night
+- **Key facts:** Spurs vs Thunder, AT&T Center SA, May 28, 8:30 PM ET NBC/Peacock. Thunder lead 3-2. Wembanyama series-low 4/15 (20 pts) in G5. Fox questionable (right ankle). Spurs 5-2 at home. OKC one win from NBA Finals vs Knicks June 3.
+- **Status:** FOLLOW UP (from 2026-05-27 Story 2)
+- **Follow-up ideas:** G6 result; Thunder Finals clinch or G7 preview
+
+### STORY 2: Wembanyama NBA Warning After G5 Media Snub
+- **Tier:** 2
+- **Category:** Player News / League Operations
+- **Key facts:** NBA issued official warning after Wemby skipped mandatory postgame media following G5. Series-low 20 pts on 4/15 FG. Warning is step before fine. Wemby has historically responded strongly after adversity.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Wemby G6 performance; postgame availability
+
+### STORY 3: De'Aaron Fox Ankle — Spurs' Biggest Wildcard
+- **Tier:** 2
+- **Category:** Injury Report / Game Preview
+- **Key facts:** Fox questionable G6 (right high ankle sprain). Missed G1/G2, returned G3-G5. RS: 25.8 ppg / 6.5 ast. Without Fox: Spurs offense one-dimensional. Spurs -3.5 home favorites.
+- **Status:** FOLLOW UP (Fox ankle from start of WCF series)
+- **Follow-up ideas:** Fox G6 performance; health for potential G7
+
+### STORY 4: Knicks as NBA Finals Underdogs
+- **Tier:** 2
+- **Category:** Finals Preview / Betting Odds
+- **Key facts:** Knicks +215 vs Thunder -265 (DraftKings). Knicks +185 vs Spurs -225. OKC went 2-0 vs NYK in RS. Knicks 11-game win streak, 8+ days rest. Brunson 27.8 ppg/6.7 ast in playoffs. OG hamstring recovering.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Finals preview once WCF opponent confirmed
+
+### STORY 5: OKC Thunder Hunting Back-to-Back Finals
+- **Tier:** 2
+- **Category:** Team Spotlight / Dynasty Narrative
+- **Key facts:** OKC won 2025 NBA Championship. 64-18 RS record (best in NBA). SGA 30+ ppg in 2026 playoffs. Caruso 17.0 ppg WCF series. McCain 20 pts in first career playoff start (G5). Depth = key advantage.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Back-to-back secured angle if Thunder win G6; dynasty narrative in Finals preview
+
 ## 2026-05-27
 
 | # | Story | Tier | Tag |

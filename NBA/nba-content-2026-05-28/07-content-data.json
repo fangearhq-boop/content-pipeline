@@ -1,0 +1,244 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-28",
+  "compiled_at": "2026-05-28T11:22:49.900625+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "WCF Game 6 TONIGHT — Spurs Face Elimination at AT&T Center",
+      "tier": 1,
+      "status": "",
+      "angle": "High-stakes elimination game. Wembanyama's bounce-back game on the line. Fox's health a wildcard. The Thunder carry momentum and a blueprint.",
+      "posting_window": "9:00 AM / 4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "WCF GAME 6 — TONIGHT.\n\nSpurs face elimination at AT&T Center, San Antonio.\n8:30 PM ET | NBC/Peacock\n\nThunder lead 3-2. Wembanyama shot 4-of-15 last game.\nHe bounces back tonight — or the season is over.\n\n#HoopHeroes #PorVida #ThunderUp #NBAPlayoffs",
+          "posting_time": "9:00 AM / 4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#PorVida",
+            "#ThunderUp",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 248
+        },
+        {
+          "label": "Post 1-2",
+          "text": "De'Aaron Fox: questionable. Wembanyama: bouncing back.\n\nThe Spurs need EVERYTHING tonight.\n\nAT&T Center | 8:30 PM ET | NBC/Peacock\nSeries: Thunder 3, Spurs 2\n\n#HoopHeroes #PorVida #NBAPlayoffs",
+          "posting_time": "9:00 AM / 4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#PorVida",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM / 4:00 PM"
+      },
+      "article": {
+        "filename": "article-01-wcf-game6-elimination-night-spurs-thunder.html",
+        "headline": "WCF Game 6 Tonight: Spurs Face Elimination as Thunder Hunt NBA Finals Berth",
+        "word_count": 806
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCF Game 6 TONIGHT — Spurs Face Elimination at AT&T Center\n\n**Imagn Search Terms:**\n1. \"Victor Wembanyama Spurs\"\n2. \"Shai Gilgeous-Alexander Thunder\"\n3. \"AT&T Center Spurs crowd\"\n4. \"Oklahoma City Thunder San Antonio Spurs playoffs\"\n\n**X/Twitter Image Concept:**\n- Player: Victor Wembanyama in Spurs jersey, focused expression\n- Headline overlay: \"GAME 6. TONIGHT.\"\n- Subtitle: \"8:30 PM ET | NBC/Peacock | AT&T Center\"\n- Background: AT&T Center crowd shot\n- Colors: #C4CED4 (Spurs silver) headline, #000000 subtitle\n\n**Facebook Image Concept:**\n- Split image: SGA on left (Thunder orange), Wembanyama on right (Spurs silver)\n- Headline overlay: \"WCF GAME 6\"\n- Subtitle: \"THUNDER 3 — SPURS 2 | ELIMINATION NIGHT\"\n- Colors: #FF5722 (Thunder) left, #C4CED4 (Spurs) right\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Wembanyama's NBA Warning After Game 5 Media Snub",
+      "tier": 2,
+      "status": "",
+      "angle": "Frustration boiling over. When Wembanyama is angry, he tends to produce.",
+      "posting_window": "11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The NBA officially warned Victor Wembanyama.\n\nAfter his 4-of-15 Game 5 performance, Wemby skipped his required\npostgame media availability.\n\nThe league issued a formal warning. Expect a different Wembanyama tonight.\n\n#HoopHeroes #Spurs #NBAPlayoffs",
+          "posting_time": "11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM"
+      },
+      "article": {
+        "filename": "article-02-wembanyama-nba-warning-media-snub.html",
+        "headline": "Wembanyama Receives NBA Warning for Skipping Postgame Media After Game 5 Loss",
+        "word_count": 721
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama's NBA Warning After Game 5 Media Snub\n\n**Imagn Search Terms:**\n1. \"Victor Wembanyama Spurs\"\n2. \"Victor Wembanyama San Antonio\"\n\n**X/Twitter Image Concept:**\n- Player: Wembanyama close-up portrait in Spurs gear\n- Headline overlay: \"NBA WARNING\"\n- Subtitle: \"WEMBY SKIPPED MEDIA AFTER 4-OF-15 GAME 5\"\n- Colors: black headline on white overlay\n\n**Facebook Image Concept:**\n- Wembanyama walking off court/locker room direction\n- Headline overlay: \"WEMBANYAMA — NBA WARNING ISSUED\"\n- Subtitle: \"SKIPPED MEDIA. RESPONDED WITH 20 ON 4/15.\"\n- Colors: #C4CED4 headline, #999 subtitle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "De'Aaron Fox Ankle — Spurs' Biggest Wildcard for Game 6",
+      "tier": 2,
+      "status": "",
+      "angle": "Fox's health is the difference between a Game 6 win and elimination.",
+      "posting_window": "11:30 AM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "De'Aaron Fox status for WCF Game 6: QUESTIONABLE.\n\nFox missed Games 1 and 2 with a right ankle sprain.\nHe's back but battling.\n\nWithout Fox: Spurs struggle. With Fox: series completely changes.\n\n#HoopHeroes #Spurs #NBAPlayoffs",
+          "posting_time": "11:30 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Spurs",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:30 AM"
+      },
+      "article": {
+        "filename": "article-03-deaaron-fox-ankle-spurs-wildcard-game6.html",
+        "headline": "De'Aaron Fox Questionable for WCF Game 6: Spurs' Biggest Wildcard",
+        "word_count": 672
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "De'Aaron Fox Ankle — Spurs' Biggest Wildcard\n\n**Imagn Search Terms:**\n1. \"De'Aaron Fox Spurs\"\n2. \"De'Aaron Fox San Antonio\"\n\n**X/Twitter Image Concept:**\n- Player: De'Aaron Fox in Spurs uniform, game action\n- Headline overlay: \"FOX: QUESTIONABLE\"\n- Subtitle: \"RIGHT ANKLE | WCF GAME 6 TONIGHT\"\n- Colors: #C4CED4 headline, #FF0000 (alert red) subtitle\n\n**Facebook Image Concept:**\n- Fox dribbling, focused on court\n- Headline overlay: \"THE WILDCARD\"\n- Subtitle: \"DE'AARON FOX — QUESTIONABLE FOR GAME 6\"\n- Colors: #000000 headline, #C4CED4 subtitle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Knicks Open as NBA Finals Underdogs — +215 vs Thunder",
+      "tier": 2,
+      "status": "",
+      "angle": "The Knicks are underdogs for the first time in this postseason. That narrative fires them up.",
+      "posting_window": "1:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Knicks are the underdogs.\n\nDraftKings has New York at +215 against OKC in the NBA Finals.\n\nThat's after an 11-game win streak, 8+ days of rest,\nand a recovering OG Anunoby.\n\n#HoopHeroes #Knicks #NBAFinals",
+          "posting_time": "1:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Knicks",
+            "#NBAFinals"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM"
+      },
+      "article": {
+        "filename": "article-04-knicks-nba-finals-underdogs-odds-matchup.html",
+        "headline": "Knicks Open as NBA Finals Underdogs: What +215 Odds Mean for New York's Title Chances",
+        "word_count": 763
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Open as NBA Finals Underdogs — +215 vs Thunder\n\n**Imagn Search Terms:**\n1. \"Jalen Brunson Knicks\"\n2. \"New York Knicks playoffs\"\n3. \"OG Anunoby Knicks\"\n\n**X/Twitter Image Concept:**\n- Player: Jalen Brunson in Knicks uniform, celebrating\n- Headline overlay: \"KNICKS: +215 UNDERDOG\"\n- Subtitle: \"FIRST FINALS SINCE 1999. THEY LOVE THIS.\"\n- Colors: #006BB6 (Knicks blue) headline, #F58426 (orange) subtitle\n\n**Facebook Image Concept:**\n- Brunson and Anunoby side by side\n- Headline overlay: \"KNICKS IN THE FINALS\"\n- Subtitle: \"UNDERDOG ODDS. CHAMPIONSHIP MENTALITY.\"\n- Colors: #006BB6 headline, #F58426 subtitle\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "OKC Thunder One Win from Back-to-Back NBA Finals",
+      "tier": 2,
+      "status": "",
+      "angle": "This is a dynasty in the making — and tonight is the next chapter.",
+      "posting_window": "7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The defending champion Thunder are one win from the NBA Finals.\n\nOKC won the title last year. SGA is averaging over 30 pts in these playoffs.\n\nOne game. Finals or Game 7.\n\n#HoopHeroes #ThunderUp #NBAPlayoffs",
+          "posting_time": "7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#ThunderUp",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM"
+      },
+      "article": {
+        "filename": "article-05-okc-thunder-back-to-back-nba-finals.html",
+        "headline": "OKC Thunder One Win from Back-to-Back NBA Finals: A Dynasty Taking Shape",
+        "word_count": 725
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "OKC Thunder One Win from Back-to-Back NBA Finals\n\n**Imagn Search Terms:**\n1. \"Shai Gilgeous-Alexander Thunder\"\n2. \"Oklahoma City Thunder celebration\"\n3. \"Alex Caruso Thunder\"\n\n**X/Twitter Image Concept:**\n- Player: SGA holding/near championship trophy or celebrating\n- Headline overlay: \"BACK-TO-BACK?\"\n- Subtitle: \"OKC ONE WIN FROM THE NBA FINALS\"\n- Colors: #FF5722 (Thunder blue/orange) headline, #002D62 subtitle\n\n**Facebook Image Concept:**\n- SGA dribbling or mid-celebration, Thunder arena\n- Headline overlay: \"DEFENDING CHAMPIONS. ONE WIN AWAY.\"\n- Subtitle: \"THUNDER 2026 FINALS PUSH\"\n- Colors: #002D62 headline, #FF5722 subtitle"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-27
+- **Date**: 2026-05-28
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-28
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (1 Tier 1, 4 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form each
+- **Articles:** 5 (pen names: Damon Pierce, Marcus Cole, Jake Torres, Damon Pierce, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-05-28.xlsx (6 posts) + hh-postplanner-tobi-2026-05-28.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-28/review-dashboard.html (21 items)
+- **Notes:** WCF G6 TONIGHT: Thunder vs Spurs, AT&T Center SA, 8:30 PM ET NBC/Peacock, Thunder lead 3-2, Spurs -3.5 home favorites; Wembanyama NBA warning for skipping media after 4/15 G5; Fox questionable (right ankle); Knicks +215 Finals underdogs vs Thunder -265; OKC defending 2025 champs hunting back-to-back Finals
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-27
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
