@@ -5,6 +5,277 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-28
+
+### STORY 1: Cubs 10, Pirates 4 — 10-Game Losing Streak Over
+- **Angle:** NEW STORY (game 3 recap). Ian Happ 5 RBI (tiebreaking 3-run HR + 2-run single in 1st); Conforto 2-run PH HR; Cubs ended 10-game skid (longest since 2022) in 10-4 blowout; first win since May 15; Cubs 30-26
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Game 4 result (Rea vs Skenes tonight)
+  - Cubs winning streak sustainability / bounce-back narrative
+  - Happ season stats follow-up
+
+### STORY 2: Historic Cubs Season — Two 10-Game Win Streaks + One 10-Game Losing Streak (MLB First)
+- **Angle:** FOLLOW UP (from 10-game losing streak coverage). With the streak over, 2026 Cubs join 2017 Dodgers as only teams in AL/NL history with two separate 10-game winning streaks AND a 10-game losing streak in the same season
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold/self-aware take)
+- **Follow-Up Opportunities:**
+  - Continued season arc tracking
+  - Monthly record comparison (June trajectory)
+
+### STORY 3: NL Central Watch — Brewers 4 GB, Milwaukee Running
+- **Angle:** FOLLOW UP (ongoing division tracking). Brewers swept Cardinals 3-0, won ~14 of last 18, now 32-20 and 4.0 GB ahead of Cubs (30-26); Cubs need a sustained run in June to close gap
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, analysis/rival jab)
+- **Follow-Up Opportunities:**
+  - Daily standings update if Cubs go on winning run
+  - Cardinals standings check (29-24)
+
+### STORY 4: Series Finale Tonight — Rea vs. Skenes at PNC Park, 5:40 PM CT
+- **Angle:** NEW STORY (game 4 of 4 series finale preview). Colin Rea (4-3, 4.83 ERA) vs Paul Skenes (6-4, 3.00 ERA, 65 K); win = series split; loss = Cubs take 1 of 4; Skenes among NL's most dominant starters in 2026
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game result (tomorrow's pipeline — lead story)
+  - Rea ERA trajectory; Skenes season stats update
+
+### STORY 5: Ian Happ's Pittsburgh Magic — 40 Straight Games Reaching Base at PNC
+- **Angle:** NEW STORY (specific streak + hometown angle, newly prominent after last night). Happ (Mt. Lebanon native) has reached base in 40 consecutive games at PNC Park — longest active streak for any MLB hitter at a single park; 5 RBI in skid-ending win
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, feature/bold take)
+- **Follow-Up Opportunities:**
+  - Streak extension (Game 4 tonight)
+  - Happ season OPS/wOBA profile post-skid
+
+### STORY 6: Pre-Game Hype — Rea vs. Skenes, Use the Momentum
+- **Angle:** Pre-game hype for series finale; Cubs coming off emotional 10-4 win; frame stakes and first pitch
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 4 result (tomorrow's pipeline)
+
+---
+
+## 2026-05-27
+
+### STORY 1: Pirates 12, Cubs 1 — Losing Streak Reaches 10
+- **Angle:** FOLLOW UP (game 2 recap). Wicks surrendered 5 ER in 1st inning of return; 1-for-13 RISP; left 11 on base; 2 total runs in 2 games; 10th straight loss, longest since 2022; Cubs 29-26
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result (today vs Chandler)
+  - Game 4 Skenes start result
+  - Losing streak end vs continuation
+
+### STORY 2: The Math on This Cubs Season Makes No Sense
+- **Angle:** NEW STORY (unprecedented season arc). Cubs started 21-4, now 29-26 with 10-game losing streak — went 8-22 since peak; same roster, no explanation; baseball absurdity framing
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Daily record tracking as streak continues or snaps
+  - Historical parallels (2017 Dodgers claim needs second source before use)
+
+### STORY 3: NL Central Freefall — Cubs Now Trailing Brewers by 4+ Games
+- **Angle:** FOLLOW UP (NL Central standings daily track). Cubs 29-26, 3rd; Brewers 31-20+, 4+ GB lead; Cardinals between them; Cubs dropped from 1st to 3rd in weeks
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, division analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings updates
+  - Games back tracking as season progresses
+  - Wild card odds if Cubs slide further
+
+### STORY 4: Game Preview — Taillon vs Chandler, 5:40 PM CT
+- **Angle:** NEW STORY (Game 3 preview). Taillon (5.20 ERA, 17 HR allowed) vs Chandler (1-6, 4.79 ERA, 34 BB in 47 IP); PNC Park; Cubs need win to avoid 11-game skid
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (tomorrow 7 AM)
+  - Taillon's ERA trend if he gives up more HRs
+  - Chandler command stats after the game
+
+### STORY 5: Paul Skenes Tomorrow — Series Ends With the Best Arm in Baseball
+- **Angle:** FOLLOW UP (Skenes coverage from May 26, fresh urgency). Skenes 6-2, 1.98 ERA, 0.714 WHIP (leads MLB), 56 K in 50 IP; Cubs scored 2 runs in first 2 games; Rea vs Skenes in Game 4 (Thu 5:40 PM CT)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, bold stakes preview)
+- **Follow-Up Opportunities:**
+  - Skenes actual outing result vs Cubs
+  - Cubs offense against Skenes (K count, RISP)
+  - Series finale recap Friday morning
+
+---
+
+## 2026-05-26
+
+### STORY 1: Pirates 2, Cubs 1 — Nine Straight Losses, Brown's Gem Wasted
+- **Angle:** NEW STORY (Game 1 of 4 at PNC Park recap). Michael Busch 6th HR tied it 1-1 in 5th; Trent Thornton gave up Henry Davis walk-off HR in 7th; Cubs stranded 5 runners early; Ben Brown gem wasted; 29-25, losers of 13 of 15.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Jordan Wicks debut start result (Game 2 tonight)
+  - Ben Brown's full pitching line once box score accessible
+  - Losing streak continuation/snap
+
+### STORY 2: Jordan Wicks Returns to Where It All Began — First MLB Start of 2026
+- **Angle:** FOLLOW UP (Wicks recalled May 24 from May 25 pipeline). First MLB start at PNC Park where he debuted Aug 26, 2023 (9 K, 10-6 win); 0.60 ERA in last 3 Iowa starts; faces Braxton Ashcraft (2.89 ERA); 5:40 PM CT.
+- **Tier:** 1
+- **Content Produced:** X Text Posts (2 posts — 9:30 AM CT preview + 5:00 PM CT pre-game hype)
+- **Follow-Up Opportunities:**
+  - Wicks' actual start result (game tonight)
+  - Wicks ERA/K tracking as he re-establishes MLB role
+  - Whether Cubs win and snap losing streak
+
+### STORY 3: NL Central Watch — Cardinals at Brewers Tonight
+- **Angle:** FOLLOW UP (Cubs standings from May 25). Cubs 29-25, 3rd in NL Central; dropped from 1st to 3rd in 17 days; Cardinals at Brewers head-to-head tonight — Cubs have no say.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold division take)
+- **Follow-Up Opportunities:**
+  - Cardinals-Brewers result and NL Central standings update
+  - Cubs' games back from division lead
+  - Wild card odds tracking
+
+### STORY 4: Paul Skenes Looms Thursday — Cubs Have 2 Games to Find an Offense
+- **Angle:** NEW STORY (series series awareness). Skenes (6-4, 3.00 ERA, 65 K) pitches Game 4 Thu May 28; Cubs scored 1 run in Game 1; averaging under 3 runs/game during 9-game skid; nightmare matchup framing.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold series preview)
+- **Follow-Up Opportunities:**
+  - Skenes' actual Game 4 outing
+  - Cubs offense response in Games 2-3 (Wicks tonight, Game 3 tomorrow)
+  - Skenes vs Cubs historical matchups
+
+### STORY 5: Kevin Alcantara Is Here — MLB Arrival, Early Adjustments Ahead
+- **Angle:** CORRECTION + NEW STORY (corrects May 25 pipeline which treated Alcantara as Iowa prospect). Called up May 23 (Nicky Lopez DFA); 15 HRs/.567 SLG at Iowa in 41 games; first MLB at-bat 0-for-1 K vs Astros; MLB adjustment period ahead.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, MLB arrival/prospect feature)
+- **Follow-Up Opportunities:**
+  - Alcantara first hit/HR in MLB
+  - Playing time pattern (pinch hit vs starting)
+  - Cumulative MLB stats as sample builds
+
+---
+
+## 2026-05-25
+
+### STORY 1: Astros 8, Cubs 5 — Eight Straight Losses
+- **Angle:** NEW STORY (May 24 afternoon game recap; not in yesterday's pipeline). Pedro Ramirez first MLB hit (RBI double in 1st start), Cubs led 3-1, Imanaga allowed 7 runs in 7 innings (3rd straight loss), Busch 5th HR. Cubs 29-24, losers of 12 of 14.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Today's game result (did they snap it at Pittsburgh?)
+  - Imanaga's continued struggles (3 straight losses from the ace)
+  - Ramirez's first MLB start performance follow-up
+
+### STORY 2: Series Preview — Cubs Open 4-Game Road Trip at PNC Park
+- **Angle:** NEW STORY (is_series_start_today=true — series preview, 8:15 AM slot per engine conflict resolution). Cubs (29-24) at Pirates (27-26), PNC Park, 12:35 PM CT. Ben Brown (2.09 ERA) vs Carmen Mlodzinski (4-3, 3.96 ERA). 4-game series May 25–28.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result and Ben Brown's line
+  - Series outcome for Cubs' division standing
+  - Probables for Games 2-4
+
+### STORY 3: The Historic Collapse — 15-Over to 5-Over in 17 Days
+- **Angle:** FOLLOW UP (The Great Collapse from May 24; new framing: 15-over to 5-over in 17 days with specific stat categories). Rotation ERA >6.00 in 2 weeks; offense 28th OPS; pitching 28th ERA; 12 of 14 losses.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Daily tracking of rotation ERA recovery (if any)
+  - Whether Counsell makes further lineup/rotation changes
+  - Historical comparison to past Cubs collapses
+
+### STORY 4: Jordan Wicks Recalled — Cubs Patch Their Rotation
+- **Angle:** FOLLOW UP + NEW DEVELOPMENT (May 24 pipeline predicted Wicks callup as Tier 3; he was actually called up May 24 — actual callup is today's new story). Wicks in, Cabrera on 15-day IL (right-finger blister). Rotation: Imanaga, Taillon, Rea, Brown, Wicks. 4 of 6 original starters on IL.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Wicks' first start (scheduled in rotation)
+  - Cabrera IL timeline / return date
+  - Whether Jed Hoyer pursues external rotation help
+
+### STORY 5: NL Central Standings — Cubs Have Sunk to Third
+- **Angle:** FOLLOW UP (Cubs division-lead-gone from May 24; new development: Cubs are now 3rd behind both Brewers AND Cardinals). Brewers 30-20, Cardinals 29-22, Cubs 29-24. Cubs dropped from 1st to 3rd in 17 days.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold division take)
+- **Follow-Up Opportunities:**
+  - Daily standings updates as Cardinals-Brewers showdown plays out
+  - Cubs' playoff percentage/wild card odds tracker
+  - Whether Cubs make moves to address the skid
+
+### STORY 6: Ben Brown's Quiet Excellence — The One Bright Spot
+- **Angle:** NEW STORY (first standalone Brown stat feature; previously mentioned as supporting context in other stories). 2.09 ERA, 0.98 WHIP, 40 K in 38.2 IP; started as reliever, transitioned to rotation fill-in; record is 1-2 due to run support.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Today's start vs Pittsburgh result (Brown's next outing)
+  - Brown's ERA and WHIP trend over full season
+  - Whether Brown earns a permanent rotation spot
+
+### STORY 7: Kevin Alcantara Is Knocking — 15 HRs in 41 Iowa Games
+- **Angle:** FOLLOW UP (Iowa prospects/Alcantara walk-off from May 22; new angle: season-long power surge and MLB timeline). 15 HRs in 41 Iowa games; 7-game hitting streak (10-for-28, 5 XBH, 9 RBI); prospect pipeline callup timing with roster in freefall.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Alcantara callup announcement (watch for Nicky Lopez DFA or similar move)
+  - Iowa HR count tracking
+  - Alcantara MLB debut
+
+---
+
+## 2026-05-24
+
+### STORY 1: Astros 3, Cubs 0 — Seven Straight Losses
+- **Angle:** NEW STORY (game recap). Christian Walker 2 HRs (13 on season, 3 RBI), Kai-Wei Teng 6 IP 2 H 6 K, Cubs 3 hits total. Colin Rea loss (now 4-3). Seven straight losses — first 7-game skid since 2022. Cubs are 29-23.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Today's game result (snap the skid with Imanaga?)
+  - Rea's ERA and role in rotation going forward
+
+### STORY 2: The Great Collapse — From 21-4 to 2-11 in 13 Games
+- **Angle:** NEW STORY (bold take). Cubs went from 21-4 (.773 OPS w/RISP) to 2-11 (.131 avg, 4 shutouts, 2.5 R/G) in 13 games. Counsell's lineup shuffle on May 23 (PCA leadoff, Hoerner cleanup, Happ benched) produced zero results.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Daily RISP/offense tracking if skid continues
+  - Whether Counsell makes further lineup changes
+
+### STORY 3: Pedro Ramirez MLB Debut
+- **Angle:** FOLLOW UP (called up May 22; first standalone debut-context tweet). 22yo switch-hitter, No. 2 Cubs prospect, .312/.395/.547 with 9 HR and 19 SB in 43 Iowa games. Making debut in the middle of the 7-game skid.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, informative)
+- **Follow-Up Opportunities:**
+  - Ramirez first MLB hit or HR
+  - Ramirez playing time / role definition
+  - Matt Shaw return timeline
+
+### STORY 4: NL Central Standings — Cubs' Division Lead Gone
+- **Angle:** FOLLOW UP (from May 23 standings take; Brewers now confirmed in first place). Cubs went 2-11 while Brewers went 8-2; Milwaukee now 30-19, leading the NL Central. Cubs' 2.5-game division lead from May 16 is gone.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold standings take)
+- **Follow-Up Opportunities:**
+  - Daily standings updates as division race intensifies
+  - Cardinals record clarification (inconsistent sources; ranges 28-19 to 28-21)
+  - Next Cubs series opponent and implications
+
+### STORY 5: Series Finale Preview — Imanaga vs Lambert, 1:20 PM CT
+- **Angle:** NEW STORY (game preview, series finale). Shota Imanaga (4-4, 3.37 ERA) vs Peter Lambert (2-4, 3.57 ERA). Cubs 18-10 at home, Astros 10-17 on road. 7-game losing streak on the line.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game result recap (tomorrow 7:00 AM slot)
+  - Imanaga's line and command; whether Cubs snap the streak
+
+### STORY 6: Jordan Wicks — Ready for the Rotation Call
+- **Angle:** NEW STORY (rotation depth). Wicks: 0.60 ERA in last 3 Iowa starts (15 IP, 7 H, 1 ER, 12 K). Rotation crisis: Horton out until 2027, Steele flexor strain setback, Hodge UCL surgery. Taillon leads MLB in HRs allowed. Wicks is the logical next callup.
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, rotation depth)
+- **Follow-Up Opportunities:**
+  - Wicks callup announcement
+  - Any Jed Hoyer comments on rotation plan
+  - Wicks' MLB debut start
+
+---
+
 ## 2026-05-23
 
 ### STORY 1: Astros 4, Cubs 2 — Losing Streak Hits Six Games

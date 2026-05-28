@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-28",
+  "compiled_at": "2026-05-28T09:23:47.285750+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Game recap — Cubs 10, Pirates 4; 10-game skid over",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Bold take — Two win streaks plus losing streak, MLB first",
+      "type": "Bold"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "NL Central — Brewers 4 GB, Milwaukee running",
+      "type": "Analysis"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Game preview — Rea vs. Skenes, 5:40 PM CT tonight",
+      "type": "Informative"
+    },
+    {
+      "time": "1:15 PM CT",
+      "description": "Happ feature — 40 straight games reaching base at PNC",
+      "type": "Bold"
+    },
+    {
+      "time": "5:00 PM CT",
+      "description": "Pre-game hype — series finale, use the momentum",
+      "type": "Hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 10, Pirates 4 — 10-Game Losing Streak Over",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Ian Happ 5 RBI (tiebreaking 3-run HR + 2-run single); Conforto 2-run PH HR; Cubs end 10-game skid (longest since 2022) in 10-4 blowout; first win since May 15; Cubs 30-26",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Ian Happ came HOME and delivered.\n\nThe Pittsburgh kid hit a tiebreaking 3-run HR, drove in FIVE runs, and helped the Cubs end their 10-game losing streak in a 10-4 rout of the Pirates.\n\nConforto added a pinch-hit 2-run shot. Cubs are 30-26.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Historic Cubs Season — Two Win Streaks Plus a 10-Game Skid (MLB First)",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "With the 10-game losing streak complete, 2026 Cubs join 2017 Dodgers as only two teams in AL/NL history with two separate 10-game winning streaks AND a 10-game losing streak in the same season",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Two 10-game win streaks. One 10-game skid. All in the same season.\n\nThe 2026 Cubs just joined the 2017 Dodgers as the ONLY teams in MLB history to pull that off.\n\nThat's this team. Maddening, electric, and completely unlike anything else.\n\n#Cubs #ChicagoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold Take / History",
+          "hashtags": [
+            "#Cubs",
+            "#ChicagoCubs",
+            "#MLB"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "NL Central Watch — Brewers 4 GB, Milwaukee Is Running",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brewers swept Cardinals 3-0, won 14 of last 18, now 32-20 and 4.0 GB ahead of Cubs (30-26); Cubs need sustained run in June; Brewers building a cushion",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Milwaukee just swept the Cardinals and is 14-4 in their last 18.\n\nThe Brewers are 4 games up on the Cubs in the NL Central — and they're RUNNING. One win after a 10-game skid isn't enough. The Cubs need a sustained run, and they need it now.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Analysis / Rival Watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Series Finale Tonight — Rea vs. Skenes at PNC Park, 5:40 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Colin Rea (4-3, 4.83 ERA) vs Paul Skenes (6-4, 3.00 ERA, 65 K) in series finale; win = series split; loss = Cubs take 1 of 4; Skenes among NL's most dominant starters",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Paul Skenes stands between the Cubs and a series split tonight.\n\nThe Pirates ace has a 3.00 ERA and 65 Ks on the season. Colin Rea (4-3, 4.83 ERA) gets the ball at PNC Park — 5:40 PM CT on Marquee.\n\nOne win doesn't end anything. The Cubs need TWO.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Game Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Ian Happ's Pittsburgh Magic — 40 Straight Games Reaching Base at PNC",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Happ (Mt. Lebanon native) has reached base in 40 consecutive games at PNC Park — longest active streak for any MLB hitter at a single park; 5 RBI last night to end the skid in his hometown",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Ian Happ grew up minutes from PNC Park and has been PUNISHING it his whole career.\n\n40 straight games reaching base at PNC. The longest active streak for any MLB hitter at one park. Five RBI last night to end a 10-game skid.\n\nHis city. His stage.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold Take / Feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Use the Momentum Tonight",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Pre-game frame for series finale; Cubs coming off emotional 10-4 win; Rea vs Skenes is a test; first pitch 5:40 PM CT PNC Park",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Rea vs. Skenes. PNC Park. First pitch 5:40 PM CT.\n\nThe Cubs ended a 10-GAME SKID last night with a 10-4 rout. Tonight they can earn a series split against Paul Skenes and a Pirates team that's been gritty all month.\n\nThe momentum is there. Use it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Hype / Pre-Game",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
