@@ -3,6 +3,65 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 28, 2026
+
+### Story 1: WCWS Day 1 is Here — Devon Park Opens Its Doors
+- **Date:** 2026-05-28
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Opening day atmosphere and significance at Devon Park. 35th year in OKC. 13,000 fans. 120,000 expected attendees. $25M economic impact. Devon Park confirmed for WCWS through 2035 and 2028 LA Olympics softball. Full game schedule: Texas Tech vs. MSU (noon ET, ESPN), Texas vs. Tennessee (2:30 PM, ESPN), Alabama vs. UCLA (7 PM, ESPN2), Nebraska vs. Arkansas (9:30 PM, ESPN2).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Day 1 results recap
+  - 2028 Olympics venue deep-dive
+  - Opening day attendance vs. prior years
+
+### Story 2: Nebraska's Secret Weapon — Jordy Frahm Hits 19 Home Runs Too
+- **Date:** 2026-05-28
+- **Tier:** 1
+- **Classification:** NEW STORY (follow-up angle — May 27 covered Frahm as pitcher/Player of Year; today's angle is her offensive production as a hitter)
+- **Angle:** Frahm's two-way threat: 20-4, 1.14 ERA, 234 Ks in 171.2 IP as pitcher PLUS 19 HRs, 1.338 OPS as hitter. Nebraska 51-6, 26-game win streak, 3 total runs allowed in 5 NCAA postseason games.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Frahm's WCWS pitching performance
+  - Frahm's WCWS hitting performance
+  - Nebraska's full bracket run
+
+### Story 3: NiJaree Canady vs. Mississippi State — The Final Act Begins
+- **Date:** 2026-05-28
+- **Tier:** 2
+- **Classification:** NEW STORY (follow-up angle — May 26 ran Canady profile; today's angle is game day, her opening WCWS appearance)
+- **Angle:** Canady opens WCWS career at noon vs. MSU (first WCWS). Career stats: 30-5, 0.89 postseason ERA, 1,000+ Ks, 96 wins, AUSL No. 2 overall pick. National championship is the one remaining goal.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Canady's Game 1 performance vs. MSU
+  - Texas Tech's path through the bracket
+  - If Canady gets a WCWS title — the complete career arc story
+
+### Story 4: The Coaches Who Will Hug at Home Plate — Revelle vs. Deifel
+- **Date:** 2026-05-28
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Rhonda Revelle (Nebraska) and Courtney Deifel (Arkansas) are longtime friends and mentor-mentee. Plan to "hug at home plate" regardless of outcome. One-third of Nebraska's lineup are Deifel's former Razorbacks (Hoffmann, Camenzind twins). Same HS signing class as Arkansas pitcher Robyn Herron.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 4 result
+  - How former Razorbacks performed vs. their old program
+  - Deifel's next WCWS run if Arkansas advances
+
+### Story 5: Tennessee's Two All-Americans Enter the Circle — Pickens and Mardjetko
+- **Date:** 2026-05-28
+- **Tier:** 2
+- **Classification:** NEW STORY (follow-up angle — May 27 covered the rematch narrative; today's angle is the two-ace system as a matchup strategy against Texas)
+- **Angle:** Karlyn Pickens (1.53 ERA, 180 Ks, 4x First-Team All-American, 3 consecutive) and Sage Mardjetko (named First-Team All-American May 26) — two active D1Softball First-Team All-Americans on the same WCWS staff. Strategic depth advantage vs. defending champion Texas (2-0 semifinal loss in 2025).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 2 result — did the dual-ace system hold?
+  - Pickens' WCWS ERA and Ks
+  - Tennessee's path through the bracket
+
+---
+
 ## May 27, 2026
 
 ### Story 1: Jordy Frahm Named USA Softball Collegiate Player of the Year

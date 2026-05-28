@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-28
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (43 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB posts, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard push 403 (PAT scope — known).
+- **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/content-dashboards/ils/
+- **GitHub Pages Status**: built (workflow deployment — prior session)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push 403 (content-dashboards PAT scope — known). IMAGE MISSING expected (not_started — imagn sourcing required). Header format fixed (STORY N: format) on daily brief and story analysis.
+- **Key Stories**: WCWS Day 1 at Devon Park/35th year in OKC/13k fans/120k attendees/$25M impact/2028 Olympics venue/full game schedule (Tier 1), Jordy Frahm two-way threat/19 HRs 1.338 OPS plus 20-4 pitcher/Player of Year/Nebraska 51-6 (Tier 1), NiJaree Canady game-day opening vs MSU/career finals: 30-5/0.89 ERA/1000+ Ks/96 wins (Tier 2), Revelle-Deifel friendship/coaches who will hug at home plate/former Razorbacks on Nebraska roster (Tier 2), Tennessee dual All-Americans Pickens+Mardjetko two-ace strategy vs Texas (Tier 2)
+
+## Previous Run
 - **Date**: 2026-05-27
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (6 stories), research notes, story analysis, X posts (8; 2 char violations fixed story 2 tweet 1 285→246, story 5 tweet 1 288→245, 0 violations after fixes), FB posts (6 stories), image concepts (6 stories), image manifest (not_started), articles (5), fact-check (67 claims, 0 char violations after fixes, consistency clean), compile (6 stories, 8 tweets, 0 FB posts, 5 articles, 25 items), dashboard (25 items), PostPlanner exports (8 posts X, 8 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard: detached HEAD resolved via checkout main + pull; publish-unified-dashboard 403 (PAT scope — known).
 - **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
