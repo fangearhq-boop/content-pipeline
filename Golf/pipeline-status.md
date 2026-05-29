@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-28
+- **Date**: 2026-05-29
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-29
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-05-29.xlsx (7 posts) + gfr-postplanner-tobi-2026-05-29.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-05-29/review-dashboard.html (27 items)
+- **Notes:** Schwab Challenge R1 — six co-leaders at -6 (Tom Kim/Hodges/Spaun/McCarty/Gerard/Putnam all 64; Åberg -4 putter switch; R2 underway today, R4 Sunday Golf Channel/ESPN+); LIV Golf Korea R2 — Gooch (OKGC) -8/leads (shot 63); DeChambeau -7; five at -5 (Smith/Niemann/Vincent/Pieters/Howell); OKGC team -14; US Women's Open (June 4-7, Riviera CC, Thitikul No.1, Korda 3 wins/favorite, Stark defending)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-28
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

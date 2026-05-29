@@ -4,6 +4,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-05-29 | T1 | Charles Schwab Challenge R1 recap (Colonial CC) — six co-leaders at -6 (Tom Kim/Hodges/Spaun/McCarty/Gerard/Putnam all shot 64); Åberg -4 putter switch; soft conditions early-week rains; R2 underway; R4 Sunday Golf Channel/ESPN+; $9.9M purse; 80th year at Colonial | X, FB, Article | NEW STORY |
+| 2026-05-29 | T1 | LIV Golf Korea R2 — Gooch (OKGC) leads at -8 (shot 63); DeChambeau (Crushers GC) -7; five tied at -5: Smith/Niemann/Vincent/Pieters/Howell III; OKGC team leads at -14; final rounds Sat + Sun; LIV's first Korea event; Asiad CC Busan | X, FB, Article | NEW STORY |
+| 2026-05-29 | T2 | Åberg win drought — 6 top-10s in 7 starts since Genesis win; switched putters for Schwab; opened -4 at Colonial (T3 here in 2025); betting favorite; best ball-striker in field | X, FB, Article | FOLLOW-UP |
+| 2026-05-29 | T2 | US Women's Open preview (June 4-7, Riviera CC) — 81st edition; first USGA women's major at Riviera; Thitikul World No.1; Korda 3 wins in 2026 (Chevron + 2) — tournament favorite; Stark defending (won 2025 Erin Hills, Korda was runner-up 2 shots back); 1,897 entries; all top-25 entered | X, FB, Article | FOLLOW-UP |
+| 2026-05-29 | T2 | Tom Kim Schwab R1 — shot 6-under 64; co-leads at Colonial; "showing signs of life" after struggling to replicate 2022 breakout (2 wins); ball-striking suits Colonial; R2 underway | X, FB, Article | NEW STORY |
+|------|------|-------|-----------|-------|
 | 2026-05-28 | T1 | Charles Schwab Challenge R1 underway (Colonial CC, May 28-31) — Åberg favorite +800-+1000 (8th trip, solo-T3 2025, 6 top-10s in 7 starts, 6th SG t-t-g); Fowler (3 top-10s/4 starts, 13 trips, 0 missed cuts in 5 years, 4th total SG); Thomas "promising trend"; Griffin defending | X, FB, Article | FOLLOW-UP |
 | 2026-05-28 | T2 | LIV Golf Korea R1 — DeChambeau/Howell III/Vincent share lead at -5 (65); T4: Niemann/Poulter/Pieters -4; Crushers GC -10 team lead; DeChambeau defending 2025 Korea title; Asiad CC Busan Par 70 7024 yds | X, FB, Article | NEW STORY |
 | 2026-05-28 | T2 | Rickie Fowler Colonial feature — last win summer 2023; 3 top-10s in last 4 starts; 13th Colonial trip; 0 missed cuts 5 years; T6/T16 in last 3 appearances; gained +6 SG avg vs field at Colonial over last 3 visits | X, FB, Article | NEW STORY |
