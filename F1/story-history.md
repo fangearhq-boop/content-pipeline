@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-29
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Monaco GP Preview (June 5-7) — Ferrari slight favorites; Leclerc eyes 4th Monaco pole; SF-26 suits slow corners; schedule: FP1/FP2 Fri June 5, Qual Sat June 6 3PM, Race Sun June 7 2PM ET Apple TV; Friday light rain 19°C, Sat/Sun sunny 27°C | 1 | NEW STORY |
+| 2 | Hamilton "happiest day at Ferrari" — Canada P2; best Ferrari result; out-qualified Leclerc for Sprint+Race; overtook Verstappen late; 2nd 2026 podium; Monaco = the one win missing from his career | 1 | FOLLOW UP (from ongoing Hamilton/Ferrari 2026 coverage) |
+| 3 | Antonelli five-peat target — 4 wins from 4 poles (first time modern F1); 131-88 over Russell (+43); Monaco = possible 5th straight win; neither Antonelli nor Russell has won Monaco | 2 | FOLLOW UP (from ongoing Antonelli championship coverage) |
+| 4 | Russell Canada DNF recovery — was leading at Lap 30, battery failure; gap grew 20→43 pts; Monaco as reset opportunity; needs near-win to stay in title fight | 2 | FOLLOW UP (from 2026-05-28 Russell DNF coverage) |
+| 5 | Verstappen Monaco specialist — Canada P3 (first RBPT 2026 podium, Mekies "truly historic"); Monaco 2021 and 2023 winner; 9th in championship; exit clause tied to summer break standings | 2 | FOLLOW UP (from ongoing Verstappen/Red Bull 2026 coverage) |
+
+### STORY 1: Monaco GP Preview — Ferrari Favored
+- **Tier:** 1
+- **Category:** Race Preview / Monaco Grand Prix
+- **Key facts:** Monaco GP June 5-7. FP1: Fri June 5 12:30 PM ET; FP2: Fri June 5 4:00 PM ET; FP3: Sat June 6 11:30 AM ET; Qualifying: Sat June 6 3:00 PM ET; Race: Sun June 7 2:00 PM ET. All on Apple TV. Ferrari slight favorites (SF-26 suits slow corners). Leclerc: multiple Monaco poles, grew up in Monaco. Neither Antonelli nor Russell has won Monaco. Friday rain forecast (19°C); Sat/Sun sunny 27°C.
+- **Status:** NEW STORY
+- **Follow-up ideas:** FP1/FP2 results; qualifying result; race result
+
+### STORY 2: Hamilton "Happiest Day" at Ferrari
+- **Tier:** 1
+- **Category:** Driver Feature / Race Reaction
+- **Key facts:** Canada P2 = Hamilton's best Ferrari result. Quote: "happiest day at Ferrari so far" / "I feel very light right now." Out-qualified Leclerc for Sprint and Race. 2nd podium of 2026 (also P2 or P3 at China). Overtook Verstappen in closing laps. Hamilton has 103+ wins but has never won Monaco — his biggest career omission.
+- **Status:** FOLLOW UP (from ongoing Hamilton/Ferrari 2026 coverage)
+- **Follow-up ideas:** Monaco qualifying; race result; Hamilton Monaco history feature
+
+### STORY 3: Antonelli Five-Peat Target
+- **Tier:** 2
+- **Category:** Championship Feature / Driver Analysis
+- **Key facts:** 4 wins from 4 poles in 2026 — unprecedented in modern F1. Championship: 131 pts (1st), +43 over Russell (2nd, 88 pts). Leclerc 3rd (75 pts). Monaco would be 5th straight win.
+- **Status:** FOLLOW UP (from ongoing Antonelli championship coverage)
+- **Follow-up ideas:** Monaco qualifying; race result; championship gap
+
+### STORY 4: Russell Canada DNF → Monaco Recovery
+- **Tier:** 2
+- **Category:** Championship Battle / Driver Feature
+- **Key facts:** Russell retired from lead at Canada Lap 30 (battery failure). Gap grew 20→43 pts to Antonelli. Won 2025 Canadian GP. Monaco next — street circuit specialist opportunity.
+- **Status:** FOLLOW UP (from 2026-05-28 Russell DNF coverage)
+- **Follow-up ideas:** Monaco qualifying; race result; championship update
+
+### STORY 5: Verstappen Monaco — First 2026 Podium Opens Door
+- **Tier:** 2
+- **Category:** Driver Feature / Red Bull
+- **Key facts:** Canada P3 = first RBPT 2026 podium. Mekies: "truly historic." Verstappen 9th in championship. Won Monaco 2021 and 2023. Exit clause: can leave Red Bull if outside top 3 at summer break.
+- **Status:** FOLLOW UP (from ongoing Verstappen/Red Bull 2026 coverage)
+- **Follow-up ideas:** Monaco qualifying; race result; exit clause update
+
 ## 2026-05-28
 
 | # | Story | Tier | Tag |
