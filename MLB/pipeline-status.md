@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-29
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (13 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB posts, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard push 403 (content-dashboards PAT scope — known).
+- **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/content-dashboards/bb/
+- **GitHub Pages Status**: built (workflow deployment — prior session)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard push 403 (content-dashboards PAT scope — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). 0 char violations.
+- **Key Stories**: Ohtani 6 hitless IP + leadoff HR/first pitcher since 2015/last Dodger was Drysdale 1959/0.82 ERA (Tier 1), Schlittler 7-2 1.50 ERA Yankees/leads AL Cy Young poll/90.8% fastball usage (Tier 1), Mariners first place AL West first time this season/swept A's 9-1/wide-open division (Tier 2), White Sox 28-27 Wild Card/from 121 losses in 2024/Murakami engine (Tier 2), Ramírez 300 SBs + 9 HRs from 300/300 club/Mays Bonds A-Rod (Tier 2)
+
+## Previous Run
 - **Date**: 2026-05-28
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (9; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims, 0 char violations, consistency clean), compile (5 stories, 9 tweets, 0 FB posts, 5 articles, 25 items), dashboard (25 items), PostPlanner exports (9 posts X, 9 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard push 403 (PAT scope — known).
 - **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/content-dashboards/bb/

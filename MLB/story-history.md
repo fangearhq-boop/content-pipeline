@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-29
+
+### Story 1: Shohei Ohtani — 6 Hitless Innings and a Leadoff HR vs. the Rockies
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Ohtani threw 6 hitless innings and hit a leadoff HR (424 feet, 4th of season) in the Dodgers' 4-1 win over Colorado on May 28. First pitcher since 2015 to homer AND throw 6 hitless innings in same game. Last Dodger to do it: Don Drysdale in 1959. Scoreless streak (19⅓ IP) ended on Willi Castro groundout in 4th. 0.82 ERA through 9 starts.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Ohtani's next start
+  - NL MVP case update
+  - 2026 ERA trajectory toward historic levels
+
+### Story 2: Cam Schlittler — AL Cy Young Frontrunner, Yankees
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Schlittler 7-2, 1.50 ERA, 81 Ks in 72 IP over 12 starts. AL leader in ERA, WHIP (.86), BAA (.183), fWAR (2.7), FIP (1.78). Throws fastballs 90.8% of time (three-fastball mix). Leads AL Cy Young poll in first-place votes (MLB.com second poll). Age 25.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Schlittler's next start
+  - All-Star selection
+  - AL Cy Young race second-half tracking
+
+### Story 3: Seattle Mariners Sweep A's, Take First Place in AL West
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Mariners swept Oakland (9-1 in finale at Sutter Health Park). Sole possession of first place in AL West for first time this season. Wide-open division — all 5 teams have been under .500 at some point in 2026.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Mariners sustaining first place
+  - AL West standings through June
+  - Seattle's rotation depth evaluation
+
+### Story 4: White Sox 28-27 — From 121 Losses to Wild Card Contenders
+- **Tier:** 2
+- **Classification:** NEW STORY (May 28 covered Murakami's 20th HR as a rookie record story; today's angle is the team-wide turnaround and Wild Card position)
+- **Angle:** White Sox went 41-121 in 2024 (modern MLB record). Now 28-27 in 2026 holding AL Wild Card spot. Murakami (20 HRs, AL co-lead with Alvarez) is the engine. Multiple contributors per MLB.com. Second place in AL Central behind Twins.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox trade deadline position
+  - Murakami's second-half durability
+  - AL Wild Card race tracking
+
+### Story 5: José Ramírez — 9 HRs From the 300/300 Club
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Ramírez stole his 300th career base on May 2 (against Athletics). Needs 9 more HRs to reach 300 career HRs. 300/300 club includes Willie Mays, Barry Bonds, Alex Rodriguez. Career context: consistent 25-30 HR pace, HOF-caliber case. Cleveland Guardian.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - When Ramírez hits HR No. 300 (milestone game story)
+  - Hall of Fame case update after 300/300 achieved
+  - Ramírez career retrospective
+
+---
+
 ## 2026-05-28
 
 ### Story 1: Murakami Hits 20th HR — Most by Any MLB Rookie Since 1901
