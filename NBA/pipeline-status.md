@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-28
+- **Date**: 2026-05-29
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-29
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-05-29.xlsx (7 posts) + hh-postplanner-tobi-2026-05-29.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-29/review-dashboard.html (27 items)
+- **Notes:** Spurs 118-91 Thunder WCF G6 (Wemby 28/10/3 blk; SGA 15/6-18/-28; Spurs 20-0 3Q run; 7 min OKC scoreless); Game 7 May 30 OKC 7 PM ET NBC/Peacock (Thunder -3.5/-155, Spurs +130, OKC 6-1 home playoffs/34-7 RS); Knicks await (53-29, 12+ days rest, Finals G1 June 3 ABC 8:30 PM ET; Western winner has home court — OKC 64-18 or SA 62-20)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-28
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

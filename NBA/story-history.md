@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-05-29
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spurs 118-91 Thunder WCF G6 (May 28, AT&T Center SA) — Wembanyama 28/10 reb/3 blk/2 stl; SGA 15 pts/6-18 FG/-28 rating; Spurs 20-0 run/7 min OKC scoreless in 3rd; series tied 3-3 | 1 | NEW STORY |
+| 2 | WCF Game 7 TOMORROW (May 30, Paycom Center OKC, 7 PM ET, NBC/Peacock) — Thunder -3.5/-155; Spurs +130; total 212.5; OKC 6-1 at home playoffs/34-7 RS; Spurs 5-3 road playoffs; winner vs Knicks Finals June 3 | 1 | NEW STORY |
+| 3 | SGA Redemption — 15 pts/6-18 FG/-28 in G6 (back-to-back MVP); needs response at home in G7; WCF swing from 32 pts G5 to 15 pts G6 | 2 | FOLLOW UP (from ongoing SGA WCF coverage) |
+| 4 | Knicks Watch — Finals schedule set (G1 June 3/G2 June 5/G3 June 8/G4 June 10, all ABC 8:30 PM ET); Western winner gets home court (OKC 64-18 or SA 62-20 both better than NY 53-29); Knicks resting 12+ days; first Finals since 1999 | 2 | FOLLOW UP (from ongoing Knicks Finals coverage) |
+| 5 | Wembanyama WCF Masterclass — G1: 41/24 reb/3 blk (2OT); G6: 28/10 reb/3 blk/2 stl; unanimous DPOY (100/100 votes); led NBA blocks 2nd straight year; age 22 | 2 | FOLLOW UP (from ongoing Wembanyama coverage) |
+
+### STORY 1: Spurs 118-91 Thunder — WCF Game 6
+- **Tier:** 1
+- **Category:** Playoff Results / Western Conference Finals
+- **Key facts:** Final: Spurs 118, Thunder 91 (May 28, AT&T Center, SA). Wembanyama: 28 pts, 10 reb, 3 blk, 2 stl, 4-9 3P, 28 min played. SGA: 15 pts, 6-18 FG, -28 rating. Spurs 3Q: 32-13 including 20-0 run; OKC scoreless 7 min. Series tied 3-3. Game 7: May 30, 7 PM ET, Paycom Center OKC, NBC/Peacock.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 7 result; SGA bounce-back or collapse
+
+### STORY 2: WCF Game 7 Preview
+- **Tier:** 1
+- **Category:** Game Preview / Western Conference Finals
+- **Key facts:** Game 7 May 30, 7 PM ET, Paycom Center, OKC, NBC/Peacock. Thunder -3.5/-155; Spurs +130; total 212.5. Thunder 6-1 home playoffs; 34-7 RS at home. Spurs 5-3 road playoffs. Winner vs Knicks in Finals G1 June 3 (8:30 PM ET, ABC). Western winner has home court (OKC 64-18 or SA 62-20 vs NY 53-29).
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 7 result; Finals matchup analysis
+
+### STORY 3: SGA Redemption Arc
+- **Tier:** 2
+- **Category:** Player Analysis / WCF
+- **Key facts:** SGA: 15 pts, 6-18 FG, -28 rating in G6. Regular season: 31.1 ppg, back-to-back MVP. WCF swing: 32 pts G5 → 15 pts G6. Game 7 at home Paycom Center.
+- **Status:** FOLLOW UP (from ongoing SGA WCF coverage)
+- **Follow-up ideas:** Game 7 SGA performance; series totals
+
+### STORY 4: Knicks Watch — Finals Schedule
+- **Tier:** 2
+- **Category:** NBA Finals Preview / Knicks
+- **Key facts:** Knicks 11-game win streak; 53-29 RS; 12+ days rest. Finals: G1 June 3 / G2 June 5 / G3 June 8 / G4 June 10 / G5 June 13, all 8:30 PM ET ABC. Western winner has home court. Knicks last Finals: 1999.
+- **Status:** FOLLOW UP (from ongoing Knicks Finals coverage)
+- **Follow-up ideas:** G7 result; Finals home court determination; Opening odds
+
+### STORY 5: Wembanyama WCF Statistical Breakdown
+- **Tier:** 2
+- **Category:** Player Feature / Statistical Analysis
+- **Key facts:** G1: 41 pts, 24 reb, 3 blk (2OT) — only Wilt Chamberlain also had 40+/20+ in Conference Finals debut. G6: 28 pts, 10 reb, 3 blk, 2 stl. Unanimous DPOY (100/100 votes, first ever). Led NBA blocks 2nd straight year (197, 3.1 bpg). Age 22.
+- **Status:** FOLLOW UP (from ongoing Wembanyama coverage)
+- **Follow-up ideas:** Game 7 Wemby; Finals appearance; career trajectory
+
 ## 2026-05-28
 
 | # | Story | Tier | Tag |
