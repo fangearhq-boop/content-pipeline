@@ -1,0 +1,284 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-29",
+  "compiled_at": "2026-05-29T09:29:48.292499+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Cubs 7, Pirates 2 — Beat Skenes, Split Series",
+      "type": "1"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Cardinals Series Preview — 3 Games at Busch",
+      "type": "1"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "NL Central Watch — Division Race Live",
+      "type": "2"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Ian Happ — 41 Straight at PNC Park",
+      "type": "2"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Cubs Offense — 2-Game Win Streak, Momentum",
+      "type": "2"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Iowa Cubs — Hartshorn/Ayers + Shutout Win",
+      "type": "3"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-Game Hype — Cardinals Opener Tonight",
+      "type": "2"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 7, Pirates 2 — Beat Skenes, Split Pittsburgh Series",
+      "tier": 1,
+      "status": "",
+      "angle": "Cubs handed 2025 NL Cy Young winner Paul Skenes his 3rd straight loss. Happ 2-run HR, Suzuki 2 hits & 2 RBI. Two Pirates errors in the 6th were the decisive turning point. Cubs split 2-2 at Pittsburgh, leave at 31-26 heading to St. Louis.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Cubs 7, Pirates 2. Happ 2-run HR, Suzuki 2 hits and 2 RBI. The Cubs handed Skenes his 3rd straight loss and split the Pittsburgh series.\n\nSkenes fanned 10 in 5.1 IP but 2 Pittsburgh errors in the 6th gifted a 3-0 lead. Cubs leave Pittsburgh at 31-26. 🔥\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "NEW STORY (yesterday's game recap)",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 7, Pirates 2 — Beat Skenes, Split Pittsburgh Series\n**Decision:** NEW STORY — Thursday's game recap, never covered.\n**Sources:**\n1. Cubs Insider recap (cubsinsider.com, 2026-05-28): \"Chicago Cubs Score and Recap (5/28/26): Cubs 7, Pirates 2 — Cubs Beat Skenes to Split Series\"\n2. CBS Sports GameTracker (cbssports.com, 2026-05-28): Box score + game summary\n3. ESPN Game Summary (espn.com, 2026-05-28): Live score and recap\n**Key Facts (HIGH confidence unless noted):**\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Final score: Cubs 7, Pirates 2 | HIGH | Cubs Insider + CBS Sports + ESPN |\n| Ian Happ: 3-for-4, 2-run HR in 8th inning | HIGH | CBS Sports (explicit) |\n| Happ homered 2nd consecutive game | HIGH | CBS Sports (\"homered for the second consecutive game\") |\n| Seiya Suzuki: 2 hits, 2 RBI | HIGH | CBS Sports game summary |\n| Paul Skenes record: 6-5 (3rd straight loss) | HIGH | Multiple sources |\n| Skenes: 10 strikeouts in 5.1 IP | HIGH | CBS Sports + Cubs Insider |\n| Only 1 earned run against Skenes | HIGH | CBS Sports explicit |\n| Tyler Callihan (3B) and Jared Triolo (SS) committed throwing errors in 6th | HIGH | CBS Sports (names cited) |\n| 2 errors turned 1-0 game into 3-0 Cubs lead in 6th | HIGH | CBS Sports |\n| Cubs split series 2-2 at Pittsburgh | HIGH | Derived from game results |\n| Cubs record post-game: 31-26 | HIGH | series-context.json |\n**Freshness:** Verified < 24 hours (May 28 game, May 29 pipeline)\n**Why it matters:** This is the lead story. Cubs beat the 2025 NL Cy Young winner with a clean 7-2 result despite Skenes striking out 10. Two defensive miscues by Pittsburgh were the difference. Cubs close out their 10-game losing-streak recovery with a series split and momentum heading into St. Louis.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cardinals Series Opener — 3 Games at Busch, 6:15 PM CT Tonight",
+      "tier": 1,
+      "status": "",
+      "angle": "Cubs (31-26) riding back-to-back wins into the NL Central rivalry series. Cardinals (29-25). 3 games at Busch Stadium. Lead with matchup+location per engine rule, stakes/rivalry as kicker.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Cubs at Cardinals. 3 games at Busch Stadium, 6:15 PM CT tonight.\n\nCubs (31-26) riding back-to-back wins, fresh off handing Skenes his 3rd straight loss. Cardinals at 29-25 in the NL Central. Time to make a statement in St. Louis.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "NEW STORY (series preview; is_series_start_today=true)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals Series Opener — 3 Games at Busch, 6:15 PM CT Tonight\n**Decision:** NEW STORY — Series starts today (is_series_start_today=true).\n**Sources:**\n1. Cubs/_data/series-context.json (game-monitor snapshot, 2026-05-29T08:30Z) — AUTHORITATIVE\n2. MLB.com Gameday preview (mlb.com/gameday/cubs-vs-cardinals/2026/05/29/823055/preview)\n3. Bleacher Nation series preview (May 27, 2026 — before games)\n4. StubHub / SeatGeek ticket listings confirming Busch Stadium, 6:15 PM CT\n**Key Facts:**\n| Fact | Confidence | Source |\n|------|------------|--------|\n| 3-game series May 29-31, 2026 | HIGH | series-context.json |\n| Venue: Busch Stadium, St. Louis | HIGH | series-context.json |\n| Game 1 time: 6:15 PM CT | HIGH | series-context.json + multiple ticket sources |\n| Cubs record: 31-26 | HIGH | series-context.json |\n| Cardinals record: 29-25 | HIGH | series-context.json |\n| Game 1 probable pitchers: TBD | HIGH | series-context.json (snapshot at 3:30 AM CT) |\n| Imanaga expected to start (rotation math) | MEDIUM | Rotation math: last started May 24; Brown/Wicks/Taillon/Rea used May 25-28 → Imanaga next |\n| Cardinals Game 2 starter: Leahy (5-3, ~3.94 ERA) | MEDIUM | CBS Stats Insider preview |\n**Rotation math note:** Imanaga last started May 24. The 4-game Pittsburgh series used Brown (May 25), Wicks (May 26), Taillon (May 27), Rea (May 28). Imanaga's next rotation turn is May 29 — confirming Game 1. One search source placed Imanaga on Saturday; this may be an AI summary error. Do NOT state Imanaga starts in tweet copy; use hedged language or omit starter name.\n**Freshness:** ✓ Series starts today\n**Why it matters:** Cubs-Cardinals is the NL Central's definitive rivalry. With Cubs at 31-26 riding back-to-back wins and Cardinals at 29-25, every series game has divisional implications. Engine rule: lead with matchup+location; stakes is the kicker.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "NL Central Watch — Cubs 31-26, Cardinals 29-25, Division Race Is Live",
+      "tier": 2,
+      "status": "",
+      "angle": "Both clubs within 2 games of each other chasing Milwaukee. This 3-game series at Busch has direct divisional implications.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "NL Central: Cubs 31-26, Cardinals 29-25, Brewers leading the division.\n\nCubs and Cardinals are within 2 games of each other, both chasing Milwaukee. This weekend at Busch isn't just a rivalry — it's a potential turning point in the NL Central race. 📊\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "FOLLOW UP (ongoing division race tracking; updated with today's fresh records)",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Central Watch — Cubs 31-26, Cardinals 29-25, Division Race Live\n**Decision:** FOLLOW UP — ongoing division tracking; records updated from today's series-context snapshot.\n**Sources:**\n1. Cubs/_data/series-context.json — Cubs 31-26, Cardinals 29-25 (authoritative)\n2. May 28 pipeline (Cubs pipeline-status.md): \"Brewers 32-20 and 4.0 GB ahead of Cubs (30-26)\"\n3. Sportsnaut article (search result): \"Brewers (33-20) hold a five-game lead over the Cubs (29-26)\" as of May 27\n**Key Facts:**\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Cubs 31-26 | HIGH | series-context.json |\n| Cardinals 29-25 | HIGH | series-context.json |\n| Cubs lead Cardinals by 1.5 games | HIGH | Calculated: ((31-29)+(26-25))/2 = 1.5 |\n| Brewers leading NL Central | HIGH | Established over multiple pipelines |\n| Brewers exact record | MEDIUM | ~33-20/21; last confirmed 32-20 on May 28 AM; games played May 28 unknown |\n**Freshness:** Records current; Brewers exact figure estimated.\n**Why it matters:** With Cubs and Cardinals within 1.5 games of each other, this is not a standalone rivalry series — it's a direct division race matchup. Every Cubs win pushes them further ahead of St. Louis and closer to Milwaukee.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ian Happ — 41 Consecutive Games Reaching Base at PNC Park",
+      "tier": 2,
+      "status": "",
+      "angle": "Happ went 3-for-4 with a 2-run HR Thursday. 41 straight games reaching base at PNC Park. He grew up 15 miles from Pittsburgh. Bold/feature take.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Ian Happ: 41 consecutive games reaching base at PNC Park. 🏡\n\nHe grew up 15 miles from Pittsburgh, and the numbers show it every time the Cubs roll into town. Went 3-for-4 Thursday with a 2-run HR in the 8th. The man has owned that ballpark.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "FOLLOW UP (yesterday's story noted 40 consecutive; now 41 after Thursday's game)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ian Happ — 41 Consecutive Games Reaching Base at PNC Park\n**Decision:** FOLLOW UP — May 28 pipeline had \"40 consecutive games\" angle. Yesterday's game extended it to 41.\n**Sources:**\n1. CBS Sports search result (explicit text): \"He has reached base safely in 41 consecutive games in Pittsburgh\"\n2. May 28 pipeline story history: \"Happ (Mt. Lebanon native) has reached base in 40 consecutive games at PNC Park\"\n3. Search result background: Happ born/raised in Mt. Lebanon, PA (suburb of Pittsburgh)\n**Key Facts:**\n| Fact | Confidence | Source |\n|------|------------|--------|\n| 41 consecutive games reaching base at PNC Park | HIGH | CBS Sports explicit + pipeline progression (40→41) |\n| Happ 3-for-4 Thursday | HIGH | CBS Sports game summary |\n| 2-run HR in 8th inning Thursday | HIGH | CBS Sports |\n| Happ grew up near Pittsburgh (Mt. Lebanon) | HIGH | Well documented, multiple sources |\n| \"Longest active streak for any MLB hitter at single road stadium\" | MEDIUM | Single source in May 28 pipeline; not independently verified today |\n**Verification note:** The \"longest active\" superlative is from May 28 pipeline (single source). Do NOT use this superlative in today's tweet. Use the 41-game streak fact only.\n**Freshness:** ✓ Updated yesterday's 40-game stat to 41.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cubs Offense — Two Straight Wins, Heading to St. Louis with Momentum",
+      "tier": 2,
+      "status": "",
+      "angle": "After the 10-game skid, Cubs went 2-0 (10-4 over Pirates Wed, 7-2 over Skenes Thu). Happ + Suzuki contributing. Offense finding its form at the right time for a Cardinals series.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Two wins to close Pittsburgh. After a 10-game skid, the Cubs offense is finding its form.\n\nHapp: 2-run HR Thursday, 5 RBI Wednesday. Suzuki: 2 hits, 2 RBI Thursday. Cubs 2-0 since snapping the skid, heading to St. Louis at 31-26 with momentum. 📈\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "FOLLOW UP (offensive bounce-back from 10-game skid; 2-0 streak after snapping it)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs Offense — Two-Game Win Streak Heading to St. Louis\n**Decision:** FOLLOW UP — the bounce-back from the 10-game skid and 2-game win streak is a fresh development.\n**Sources:**\n1. May 28 pipeline / story history: Cubs 10, Pirates 4 (Wednesday) — Happ 5 RBI\n2. Today's recap research: Cubs 7, Pirates 2 (Thursday) — Happ 2-run HR, Suzuki 2 hits 2 RBI\n3. series-context.json: Cubs 31-26\n**Key Facts:**\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Cubs 2-0 since snapping 10-game losing streak | HIGH | Derived: won May 27 (10-4) + May 28 (7-2) |\n| Happ 5 RBI Wednesday (May 27) | HIGH | May 28 pipeline confirmed |\n| Happ 2-run HR Thursday (May 28) | HIGH | CBS Sports recap |\n| Suzuki 2 hits, 2 RBI Thursday | HIGH | CBS Sports recap |\n| Cubs 31-26 heading to St. Louis | HIGH | series-context.json |\n**Freshness:** ✓ Past 24 hours.\n**Why it matters:** Context for the Cardinals series. After a historically painful 10-game skid, Cubs went 2-0 to close Pittsburgh and arrive in St. Louis with real momentum. Happ and Suzuki leading the offense.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Iowa Cubs + Farm System — Hartshorn & Ayers Go Deep, Iowa Shutout Win",
+      "tier": 3,
+      "status": "",
+      "angle": "Iowa Cubs 1-0 shutout Wednesday. Hartshorn and Ayers both homered across affiliates. Farm system producing at multiple levels.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Iowa Cubs won 1-0 Wednesday with dominant pitching. Hartshorn and Ayers both went deep across the Cubs' farm system.\n\nThe pipeline is loaded. No shortage of depth in this organization as June approaches and the NL Central race gets real. 🌱\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "NEW STORY (prospect update from May 28 Bleacher Nation report)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Iowa Cubs + Farm System — Hartshorn, Ayers, Shutout Win\n**Decision:** NEW STORY — prospect update from May 28 Bleacher Nation report.\n**Sources:**\n1. Bleacher Nation headline (May 28, 2026): \"Cubs Prospects Report | May 28, 2026: Hartshorn, Ayers Go Deep, Iowa Shutout Win, More\"\n2. May 13 pipeline (Hartshorn stats): .446 OBP, .907 OPS, 3 HR, 13 RBI at Myrtle Beach (Single-A, Cubs No. 9 prospect)\n3. May 22 pipeline (Ayers): \"Owen Ayers homered for Tennessee Smokies\" (Double-A)\n**Key Facts:**\n| Fact | Confidence | Source |\n|------|------------|--------|\n| Iowa Cubs 1-0 shutout win Wednesday | MEDIUM | Bleacher Nation headline (single source) |\n| Hartshorn homered | MEDIUM | Bleacher Nation headline (likely Myrtle Beach, not Iowa) |\n| Ayers homered | MEDIUM | Bleacher Nation headline (likely Tennessee, not Iowa) |\n| Both at different affiliates from Iowa | MEDIUM | Prior pipeline affiliations (Hartshorn = Myrtle Beach A, Ayers = Tennessee AA) |\n**Caution:** Headline says \"Hartshorn, Ayers Go Deep, Iowa Shutout Win\" — these are three separate events in a multi-affiliate report. Do NOT write \"Hartshorn and Ayers went deep for Iowa\" — that conflates affiliates. Write \"across the farm system.\"\n**Freshness:** ✓ May 28 (< 24 hours)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game Hype — Cubs at Cardinals, 6:15 PM CT Tonight",
+      "tier": 2,
+      "status": "",
+      "angle": "Cubs carrying 2-game win streak into Busch Stadium. Cardinals fans on notice. Bear down.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 7A",
+          "text": "First pitch in 75 minutes. Cubs at Cardinals, Busch Stadium, 6:15 PM CT.\n\nAfter a 10-game skid, the Cubs have won 2 straight and travel to Busch riding real momentum. Cardinals, the Cubs are coming with something to prove. Bear down. ⚾\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "NEW (game-time energy)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype — Cubs at Cardinals Tonight, 6:15 PM CT\n**Decision:** NEW STORY (game-time energy post)\n**Sources:** series-context.json + game research above\n**Key Facts:**\n- Cubs at Cardinals, Busch Stadium, 6:15 PM CT ✓ HIGH\n- Cubs on 2-game win streak ✓ HIGH\n- Cardinal series = NL Central rivalry ✓ HIGH\n**Freshness:** ✓ Same-day content",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified",
+      "Story 7: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-29
+
+### STORY 1: Cubs 7, Pirates 2 — Beat Skenes, Split Pittsburgh Series
+- **Angle:** NEW STORY (game recap). Ian Happ 3-for-4 with 2-run HR in the 8th; Suzuki 2 hits 2 RBI; Cubs handed Paul Skenes (6-5) his 3rd straight loss; 2 Pittsburgh errors (Callihan + Triolo) in 6th turned 1-0 into 3-0; Skenes struck out 10 in 5.1 IP, only 1 ER; Cubs split 4-game series 2-2 and leave at 31-26
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Cardinals series results (Games 1-3, May 29-31)
+  - Happ ongoing PNC Park streak at 41 consecutive games
+
+### STORY 2: Cardinals Series Opener — 3 Games at Busch, 6:15 PM CT Tonight
+- **Angle:** NEW STORY (series preview; is_series_start_today=true). Cubs (31-26) on back-to-back wins, open 3-game set at Busch Stadium vs Cardinals (29-25); both clubs within 1.5 games of each other in NL Central; probable pitchers TBD
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, series preview bold)
+- **Follow-Up Opportunities:**
+  - Game 1 result (tonight)
+  - Game 2 Saturday 6:15 PM CT, Game 3 Sunday 6:20 PM CT
+
+### STORY 3: NL Central Watch — Cubs 31-26, Cardinals 29-25, Division Race Live
+- **Angle:** FOLLOW UP (ongoing standings tracking). Cubs 31-26, Cardinals 29-25, Brewers leading the division; Cubs lead Cardinals by 1.5 games; 3-game Busch series has direct divisional implications
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Standings update after each Cardinals game
+  - Brewers watch (exact record ~33-20/21)
+
+### STORY 4: Ian Happ — 41 Consecutive Games Reaching Base at PNC Park
+- **Angle:** FOLLOW UP (from 2026-05-28 "40 consecutive games" angle). Happ extended to 41 straight games reaching base at PNC Park; grew up in Mt. Lebanon, PA (~15 miles from PNC); went 3-for-4 Thursday with 2-run HR in the 8th; superlative "longest active streak" omitted (single source, not independently verified)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold/feature)
+- **Follow-Up Opportunities:**
+  - Streak continues next PNC Park visit
+
+### STORY 5: Cubs Offense — Two-Game Win Streak, Heading to St. Louis with Momentum
+- **Angle:** FOLLOW UP (offensive bounce-back). After 10-game skid, Cubs went 2-0 to close Pittsburgh; Happ 5 RBI Wednesday + 2-run HR Thursday; Suzuki 2 hits 2 RBI Thursday; arrive in St. Louis at 31-26 with momentum
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, momentum bold take)
+- **Follow-Up Opportunities:**
+  - Cardinals series outcome
+  - Continued offensive performance tracking
+
+### STORY 6: Iowa Cubs — Hartshorn & Ayers Go Deep, Iowa Shutout Win
+- **Angle:** NEW STORY (farm system update). Iowa Cubs 1-0 shutout win Wednesday (single source — Bleacher Nation); Hartshorn homered at Myrtle Beach (Single-A); Owen Ayers homered at Tennessee (Double-A); written as "across the farm system" to avoid conflating affiliates
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect roundup)
+- **Follow-Up Opportunities:**
+  - Hartshorn stats update (was .446 OBP, .907 OPS as of May 13)
+  - Ayers Tennessee stats follow-up
+
+### STORY 7: Pre-Game Hype — Cubs at Cardinals Tonight, 6:15 PM CT
+- **Angle:** NEW STORY (game-time energy). Cubs carry 2-game win streak into Busch Stadium; rivalry framing; first pitch countdown from 5:00 PM post
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap (tomorrow's pipeline)
+
+---
+
 ## 2026-05-28
 
 ### STORY 1: Cubs 10, Pirates 4 — 10-Game Losing Streak Over
