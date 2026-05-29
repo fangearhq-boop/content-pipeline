@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 29, 2026
+
+### Story 1: Ava Kuszak Walk-Off HR — Nebraska Survives Arkansas 5-3 in 10 Innings
+- **Date:** 2026-05-29
+- **Tier:** 1
+- **Classification:** NEW STORY (May 28 covered Revelle-Deifel coaching friendship preview; today's angle is the dramatic result)
+- **Angle:** Nebraska needed 133 Jordy Frahm pitches and Ava Kuszak's walk-off two-run HR in the 10th inning to survive Arkansas 5-3. Revelle and Deifel met at home plate post-game as promised. Nebraska faces Alabama tonight in winners' bracket (7 PM ET ESPN).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Frahm's pitch count recovery and availability vs. Alabama
+  - Nebraska vs. Alabama winners'-bracket result
+  - Kuszak as emerging WCWS hero
+
+### Story 2: Tennessee Freshman Elsa Morrison Three-Run HR Stuns Defending Champion Texas 6-3
+- **Date:** 2026-05-29
+- **Tier:** 1
+- **Classification:** NEW STORY (May 28 covered Pickens/Mardjetko dual All-American pitching preview; today's angle is the result — freshman hero)
+- **Angle:** Elsa Morrison went 2-for-3 with a three-run HR in the 2nd inning, 3 RBIs. Tennessee 6, Texas 3. Pickens came on in relief. Tennessee advances to winners' bracket vs. Texas Tech today (3 PM ET ABC). Texas in losers' bracket vs. MSU tonight (7 PM ET ESPN2).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Morrison's continued WCWS performance
+  - Tennessee vs. Texas Tech winners'-bracket result
+  - Texas's elimination game vs. Mississippi State
+
+### Story 3: NiJaree Canady Delivers — Texas Tech Run-Rules Mississippi State 8-0 in 5 Innings
+- **Date:** 2026-05-29
+- **Tier:** 2
+- **Classification:** NEW STORY — result angle (May 28 covered Canady game-day profile and career stakes)
+- **Angle:** Canady 4 IP, 2 H, 0 R, 3 K. Jackie Lis 2-run HR in 1st. Kaitlyn Terry 1 scoreless inning. Texas Tech 8, Mississippi State 0 (run rule, 5 innings). Texas Tech vs. Tennessee today (3 PM ET ABC).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Texas Tech vs. Tennessee winners'-bracket result
+  - Canady's pitch count and availability going forward
+
+### Story 4: Brooke Wells' 24th HR Rallies Alabama Past UCLA 6-3
+- **Date:** 2026-05-29
+- **Tier:** 2
+- **Classification:** NEW STORY — result angle (May 28 covered Megan Grant 40 HRs/Alabama preview)
+- **Angle:** Alabama trailed 3-1 after Grant hit her 41st HR (extending NCAA record). Wells hit go-ahead 3-run HR in 6th inning (her 24th). Wells + Pupillo = first Alabama duo to both hit 20+ HRs in same season (school record). Alabama 6, UCLA 3. Grant tied Nuveman's UCLA school record (90th career HR). Alabama faces Nebraska tonight (7 PM ET ESPN). UCLA plays Arkansas in elimination (9:30 PM ET ESPN2).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Alabama vs. Nebraska winners'-bracket result
+  - Grant's performance in UCLA's elimination game vs. Arkansas
+
+### Story 5: WCWS Elimination Night — Texas and Arkansas Face Must-Win Games
+- **Date:** 2026-05-29
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Game 5: Texas vs. Mississippi State (7 PM ET, ESPN2) — defending champions in losers' bracket. Game 6: UCLA vs. Arkansas (9:30 PM ET, ESPN2) — Grant chasing title, Deifel's program after near-upset of Nebraska. Preview of tonight's elimination round.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Results of both elimination games
+  - Bracket updates for Day 3
+
+---
+
 ## May 28, 2026
 
 ### Story 1: WCWS Day 1 is Here — Devon Park Opens Its Doors

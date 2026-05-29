@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-29
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 3 char violations fixed S2T1/S4T1/S5T1; 0 violations after fixes), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (49 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB posts, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via cherry-pick after detached HEAD resolved.
+- **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment — prior session)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). 3 char violations fixed before compile (S2T1 299, S4T1 300, S5T1 311 → all under 280). Detached HEAD resolved via checkout main + pull + cherry-pick.
+- **Key Stories**: Nebraska walk-off 5-3 in 10 innings/Kuszak HR/Frahm 133 pitches/faces Alabama 7PM ESPN (Tier 1), Tennessee freshman Elsa Morrison three-run HR/stuns defending champion Texas 6-3/faces Texas Tech 3PM ABC (Tier 1), NiJaree Canady 4 IP 0 ER run-rules MSU 8-0 in 5 innings/Texas Tech vs Tennessee 3PM ABC (Tier 2), Brooke Wells 24th HR/Alabama 6 UCLA 3/Wells+Pupillo first Alabama duo 20+ HRs/Grant 41st extends NCAA record (Tier 2), WCWS elimination Texas vs MSU 7PM ESPN2 + UCLA vs Arkansas 9:30PM ESPN2 (Tier 2)
+
+## Previous Run
 - **Date**: 2026-05-28
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (43 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB posts, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard push 403 (PAT scope — known).
 - **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/content-dashboards/ils/
