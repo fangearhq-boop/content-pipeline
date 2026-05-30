@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-05-28 |
-| Writing | Complete (all steps) | 2026-05-28 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 41 claims HIGH) | 2026-05-28 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 8 images) | 2026-05-28 |
-| Dashboard | Complete (review-dashboard.html, 26 items) | 2026-05-28 |
-| PostPlanner Export | Complete (standard 6 posts + TOBI 6 posts) | 2026-05-28 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-28 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-28 |
+| Research | Complete | 2026-05-30 |
+| Writing | Complete (all steps) | 2026-05-30 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 38 claims HIGH) | 2026-05-30 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images) | 2026-05-30 |
+| Dashboard | Complete (review-dashboard.html, 27 items) | 2026-05-30 |
+| PostPlanner Export | Complete (standard 7 posts + TOBI 7 posts) | 2026-05-30 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-05-30 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-05-30 |
 
 ## Queue
 
@@ -24,6 +24,22 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-05-30 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5 (bylines: Ryan Calloway x2, Elena Voss x2, Marcus Cole x1)
+- **PostPlanner exports:** tfr-postplanner-2026-05-30.xlsx (7 posts), tfr-postplanner-tobi-2026-05-30.xlsx (7 TOBI posts)
+- **Coverage:** Cerundolo def. World No. 1 Sinner 3-6, 2-6, 7-5, 6-1, 6-1 (May 28, Day 5 — correction of May 28 pipeline error which said Sinner won; actual result: Sinner cramps in 33°C heat at 5-1 in 3rd, controversial medical timeout, Cerundolo 18/20 final games, lowest-ranked to beat No. 1 at RG since 1998); Fonseca stuns Djokovic 4-6, 4-6, 6-3, 7-5, 7-5 (May 29, Day 6 R3 — 4h53m, first teenager in 30 years back-to-back 2-set comeback comebacks at Slams, only 2nd time Djokovic lost from 2-0 up both at RG, Djokovic "The level was amazing", Fonseca "all heart"); Open Era first — men's R16 has no former Grand Slam champions (Sinner/Djokovic/Alcaraz all gone, only 2 of top 8 seeds remain, Zverev def. Halys 6-4, 6-3, 5-7, 6-2 as new favorite); Swiatek def. Linette 6-4, 6-4 in 85 min (first all-Polish match in Open Era at RG, "old dominant self", next vs Kostyuk); Day 7 women — Sabalenka past Kasatkina, Andreeva past Bouzkova, Gauff vs Potapova + Osaka vs Jovic both in R3 Lenglen
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 38 claims HIGH; image manifest warnings cosmetic (not_started expected for imagn source)
+  - compile: 5 stories, 7 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 27 items
+  - PostPlanner exports: both standard (7) and TOBI (7) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - CORRECTION NOTE: May 28 pipeline incorrectly stated "Sinner def. Cerundolo in straight sets" — actual result was Cerundolo def. Sinner after cramps. Story history updated with correction entry.
 
 ### 2026-05-28 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
