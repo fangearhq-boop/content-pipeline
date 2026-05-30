@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 30, 2026
+
+### Story 1: Megan Grant Hits Record 42nd HR — UCLA Runs Over Arkansas 11-0
+- **Date:** 2026-05-30
+- **Tier:** 1
+- **Classification:** NEW STORY (May 29 covered Alabama vs. UCLA with Grant's 41st HR; today covers elimination result — Grant's 42nd is new NCAA single-season record AND 91st career breaks UCLA record)
+- **Angle:** Grant 3-run HR = 42nd of season (new NCAA single-season record) and 91st career (new UCLA record, past Nuveman's 90 from 2002). Aleena Garcia solo HR, Soo-Jin Berry 3-run HR, Jolyna Lamar HR in 5th — four Bruins homered (ties WCWS record). 9-run 2nd inning (tied 2nd-most in WCWS single-inning history). UCLA 11, Arkansas 0 (run rule, 5 innings). Arkansas eliminated (47-13, 0-2 in first-ever WCWS).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Grant's chase for the WCWS title — can she win the one thing remaining?
+  - UCLA's Sunday elimination game vs. Game 7 loser
+  - Grant's 2-year HR record (68 = ties all-time DI record)
+
+### Story 2: Teagan Kavan 4-Hit Shutout — Texas 4-0 Mississippi State (600th Career K)
+- **Date:** 2026-05-30
+- **Tier:** 1
+- **Classification:** NEW STORY (May 29 previewed the Texas vs. MSU elimination game; today covers the result)
+- **Angle:** Kavan CG shutout: 4 H, 78 pitches, 2 K, 0 walks, 0 ER. 600th career K on final out (5th Texas pitcher with 600+ career Ks). 7th career WCWS win (program record). 4th career WCWS shutout (ties Cat Osterman program record). Altmeyer: 2-run HR (1st of season, 11th career) in 2nd inning. Henry HR (9th). Texas 4, Mississippi State 0. MSU eliminated.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Texas vs. Game 8 loser (Nebraska or Alabama) on Sunday
+  - Kavan's possible final career shutout record run
+
+### Story 3: Texas Tech vs. Tennessee — WCWS Winners' Bracket Preview (Game 7, 3 PM ABC)
+- **Date:** 2026-05-30
+- **Tier:** 2
+- **Classification:** NEW STORY — preview angle
+- **Angle:** Game 7 (3 PM ET, ABC): Texas Tech (Canady 4 IP 0 ER run-ruled MSU on Day 1) vs. Tennessee (Morrison 3-run HR upset Texas). Best pitching matchup of the WCWS — Canady vs. Pickens/Mardjetko. Winner stays unbeaten; loser faces UCLA Sunday.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 7 result — who stays unbeaten?
+  - UCLA vs. Game 7 loser on Sunday
+
+### Story 4: Nebraska vs. Alabama — WCWS Winners' Bracket Preview (Game 8, 7 PM ESPN)
+- **Date:** 2026-05-30
+- **Tier:** 2
+- **Classification:** NEW STORY — preview angle
+- **Angle:** Game 8 (7 PM ET, ESPN): No. 4 Nebraska (51-6, Frahm at 133 pitches Thursday) vs. No. 1 Alabama (Wells 24 HRs). Frahm's 133-pitch recovery is the central question. Winner stays unbeaten; loser faces Texas Sunday.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 8 result — Frahm's recovery confirmed or questioned?
+  - Nebraska or Alabama vs. Texas on Sunday
+
+### Story 5: WCWS Bracket Map — 6 Teams, Sunday Takes Shape
+- **Date:** 2026-05-30
+- **Tier:** 2
+- **Classification:** NEW STORY — bracket overview
+- **Angle:** 6 teams remain after MSU and Arkansas eliminated. Nebraska, Alabama, Tennessee, Texas Tech (all 1-0). Texas, UCLA (both 1-1). Game 7 loser faces UCLA Sunday. Game 8 loser faces Texas Sunday. Championship series starts June 3.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Sunday elimination results
+  - Championship series matchup preview (June 3)
+
+---
+
 ## May 29, 2026
 
 ### Story 1: Ava Kuszak Walk-Off HR — Nebraska Survives Arkansas 5-3 in 10 Innings
