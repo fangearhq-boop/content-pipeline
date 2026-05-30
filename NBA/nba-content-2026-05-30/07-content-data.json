@@ -1,0 +1,248 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-30",
+  "compiled_at": "2026-05-30T11:22:06.825660+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "WCF Game 7 TONIGHT — Thunder vs. Spurs, Paycom Center, 8:15 PM ET",
+      "tier": 1,
+      "status": "",
+      "angle": "Ultimate winner-take-all showdown — whose star carries their team to the Finals?",
+      "posting_window": "9:00 AM / 1:00 PM / 4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "GAME 7 is TONIGHT.\n\nThunder vs. Spurs. Paycom Center. 8:15 PM ET. NBC/Peacock.\n\nJalen Williams is OUT. Wemby vs. SGA. Winner goes to the NBA Finals.\n\nWho wins? 👇\n\n#Thunder #Spurs #NBAPlayoffs",
+          "posting_time": "9:00 AM / 1:00 PM / 4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Thunder",
+            "#Spurs",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 191
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Jalen Williams is OUT for Game 7 tonight.\n\nThat's 14.6 PPG gone from OKC's offense.\n\nSGA must carry the Thunder alone against Wemby.\n\n8:15 PM ET. Paycom Center. NBC/Peacock.\n\n#Thunder #NBAPlayoffs",
+          "posting_time": "9:00 AM / 1:00 PM / 4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Thunder",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM / 1:00 PM / 4:00 PM"
+      },
+      "article": {
+        "filename": "article-01-wcf-game-7-thunder-spurs-preview.html",
+        "headline": "WCF Game 7: Thunder vs. Spurs — Everything at Stake in Oklahoma City Tonight",
+        "word_count": 805
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCF Game 7 TONIGHT\n\n#### Image Concept 1A — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** \"Victor Wembanyama San Antonio Spurs\"\n- **Usage:** Lead post for Game 7 preview; Wembanyama dominant pose\n- **Canva text overlay:** \"GAME 7 TONIGHT\" / \"Thunder vs Spurs / 8:15 PM ET / NBC\"\n\n#### Image Concept 1B — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Usage:** SGA Game 7 preview post; focused expression\n- **Canva text overlay:** \"SGA MUST DELIVER\" / \"Game 7 / Paycom Center / Tonight\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Knicks in the NBA Finals — First Time Since 1999",
+      "tier": 1,
+      "status": "",
+      "angle": "New York's 27-year wait ends — but who will they face and will the rest work against them?",
+      "posting_window": "11:00 AM / 7:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The New York Knicks are going to the NBA Finals.\n\nFor the first time since 1999.\n\n27 years of waiting. Jalen Brunson. Karl-Anthony Towns. Madison Square Garden.\n\nGame 1: June 3. ABC. 8:30 PM ET.\n\n#Knicks #NBAFinals",
+          "posting_time": "11:00 AM / 7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#NBAFinals"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Knicks Finals schedule at MSG:\n\n🏀 Game 3: June 8\n🏀 Game 4: June 10\n🏀 Game 6: June 16 (if needed)\n\nThe Garden will be rocking. New York hasn't been here since 1999.\n\nOpponent TBD tonight. #Knicks #NBAFinals",
+          "posting_time": "11:00 AM / 7:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#NBAFinals"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM / 7:00 PM"
+      },
+      "article": {
+        "filename": "article-02-knicks-nba-finals-first-since-1999.html",
+        "headline": "Knicks in the NBA Finals: New York's 27-Year Wait Is Finally Over",
+        "word_count": 688
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks in the Finals\n\n#### Image Concept 2A — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** \"Jalen Brunson New York Knicks\"\n- **Usage:** Knicks Finals celebration / announcement post\n- **Canva text overlay:** \"KNICKS IN THE FINALS\" / \"First Time Since 1999\"\n\n#### Image Concept 2B — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** \"Karl-Anthony Towns New York Knicks\"\n- **Usage:** KAT Finals feature post\n- **Canva text overlay:** \"FINALS BOUND\" / \"NYC IS BACK / June 3 on ABC\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "The Wemby vs. SGA Series Breakdown — A Statistical Masterclass",
+      "tier": 2,
+      "status": "",
+      "angle": "Two all-time talents squaring off — the rare playoff series where the individual duel truly explains every result.",
+      "posting_window": "11:00 AM",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Wemby vs. SGA stat line this WCF series:\n\nWembanyama: 28.2 PPG / 11.5 RPG / 3.0 BPG\nSGA: 24.3 PPG / 8.8 APG\n\nEvery game won by the player who outscored the other.\n\nNo. 1 star wins = team wins. Every. Single. Time.\n\n#NBAPlayoffs",
+          "posting_time": "11:00 AM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBAPlayoffs"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM"
+      },
+      "article": {
+        "filename": "article-03-wembanyama-sga-wcf-statistical-duel.html",
+        "headline": "Wembanyama vs. SGA: The Statistical Duel That Has Decided Every WCF Game",
+        "word_count": 744
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wemby vs. SGA Stat Breakdown\n\n#### Image Concept 3A — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** \"Victor Wembanyama San Antonio Spurs\"\n- **Usage:** Stats graphic post\n- **Canva text overlay:** \"WEMBY: 28.2 PPG | 11.5 RPG | 3.0 BPG\" / \"SGA: 24.3 PPG | 8.8 APG\" / \"WHO WINS GAME 7?\"\n\n#### Image Concept 3B — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** \"Shai Gilgeous-Alexander Oklahoma City Thunder\"\n- **Usage:** Side-by-side comparison anchor\n- **Canva text overlay:** \"THE DUEL DECIDES IT ALL\" / \"Game 7 / Tonight\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Home Court Advantage in the Finals — What It Means for the Knicks",
+      "tier": 2,
+      "status": "",
+      "angle": "The Knicks enter as underdogs in terms of home court — can MSG become the equalizer?",
+      "posting_window": "4:00 PM",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Whoever wins Game 7 tonight gets home court in the NBA Finals vs. the Knicks.\n\nOKC was 34-7 at home this season.\nSpurs were 62-20 overall.\nKnicks were 53-29.\n\nNew York gets Games 3, 4, and 6 at MSG.\n\n#NBAFinals #NBAPlayoffs",
+          "posting_time": "4:00 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBAFinals",
+            "#NBAPlayoffs"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM"
+      },
+      "article": {
+        "filename": "article-04-nba-finals-home-court-advantage-knicks.html",
+        "headline": "Home Court Reality: What the Knicks Face in the 2026 NBA Finals",
+        "word_count": 699
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Home Court Advantage\n\n#### Image Concept 4A — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** \"New York Knicks Madison Square Garden\"\n- **Usage:** MSG crowd / home court feature\n- **Canva text overlay:** \"KNICKS HOME GAMES: G3 | G4 | G6\" / \"Madison Square Garden\"\n\n#### Image Concept 4B — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** \"Oklahoma City Thunder Paycom Center\"\n- **Usage:** OKC home court feature\n- **Canva text overlay:** \"OKC: 34-7 AT HOME\" / \"6-1 This Postseason\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Jalen Brunson's Journey — How a Mavs Castoff Became NYC's Franchise Savior",
+      "tier": 2,
+      "status": "",
+      "angle": "Full-circle moment — the Knicks fan who became the Knicks' greatest player in a generation.",
+      "posting_window": "9:30 PM",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jalen Brunson grew up in New Jersey rooting for the Knicks.\n\nHis dad Rick played for the Knicks.\n\nTonight, he's leading them to the NBA Finals for the first time since 1999.\n\nSome stories just write themselves. 🏀\n\n#Knicks #NBAFinals",
+          "posting_time": "9:30 PM",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#NBAFinals"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:30 PM"
+      },
+      "article": {
+        "filename": "article-05-jalen-brunson-knicks-journey-nba-finals.html",
+        "headline": "Jalen Brunson's Journey: From Jersey Kid to Knicks Franchise Savior",
+        "word_count": 661
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brunson Journey\n\n#### Image Concept 5A — Social (1080x1350)\n- **Type:** imagn\n- **Search term:** \"Jalen Brunson New York Knicks\"\n- **Usage:** Feature piece on Brunson's NYC journey\n- **Canva text overlay:** \"BRUNSON'S DREAM\" / \"From Jersey Kid to NYC Icon\"\n\n#### Image Concept 5B — Article Hero (1200x630)\n- **Type:** imagn\n- **Search term:** \"Jalen Brunson New York Knicks\"\n- **Usage:** Article hero image for Brunson feature piece\n- **Canva text overlay:** None (clean hero)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

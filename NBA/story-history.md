@@ -2244,3 +2244,48 @@
 - **Key facts:** Hart 26 pts (playoff career-high), 10-21 FG, 5-11 3P, 7 ast, 4 reb, 2 stl in ECF G2. Shooting 47.6% from three in ECF. Brunson had 14 ast (career-high). Both same game.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Hart's ECF series totals; Knicks offensive system analysis
+
+## 2026-05-30
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-05-30 | T1 | WCF Game 7 tonight — Thunder vs Spurs at Paycom Center, 8:15 PM ET NBC/Peacock; Jalen Williams OUT (hamstring); Thunder -3.5 home favorites (-155 ML); Spurs +130; OKC 34-7 RS home / 6-1 playoffs; Spurs 5-3 road; winner vs Knicks in Finals June 3 | X, FB, Article | NEW STORY |
+| 2026-05-30 | T1 | Knicks in NBA Finals first time since 1999 — swept Cavs 4-0; 11-game win streak; Brunson 27.8 PPG/6.7 APG playoffs; KAT dominant; Finals G1 June 3 8:30 PM ET ABC; WCF winner has home court vs NYK (53-29) | X, FB, Article | FOLLOW UP |
+| 2026-05-30 | T2 | Wemby vs SGA statistical duel — Wemby 28.2 PPG/11.5 RPG/3.0 BPG series; SGA 24.3 PPG/8.8 APG; every game won by player who outscored the other; Wemby G1: 41 pts/24 reb (2OT); SGA back-to-back MVP | X, FB, Article | FOLLOW UP |
+| 2026-05-30 | T2 | NBA Finals home court advantage — OKC 64-18 / Spurs 62-20 / Knicks 53-29; G1/2/5/7 at Western city; G3/4/6 at MSG; Knicks start on road | X, FB, Article | NEW STORY |
+| 2026-05-30 | T2 | Brunson's NYC Journey — grew up in Union NJ; dad Rick played for Knicks; signed from Dallas 2022; leads Knicks to first Finals since 1999 | X, FB, Article | NEW STORY |
+
+### STORY 1: WCF Game 7 TONIGHT — Thunder vs. Spurs
+- **Tier:** 1
+- **Category:** Game Preview / Western Conference Finals
+- **Key facts:** Game 7: May 30, 8:15 PM ET, Paycom Center OKC, NBC/Peacock. Thunder -3.5 (-155 ML); Spurs +130. OKC 34-7 home RS, 6-1 playoffs. Spurs 5-3 road. Jalen Williams OUT (hamstring; 14.6 PPG series). Pattern: team whose star outscores other wins (3-0 each way). Winner faces Knicks in Finals June 3.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 7 result; Finals matchup set
+
+### STORY 2: Knicks in NBA Finals — First Time Since 1999
+- **Tier:** 1
+- **Category:** NBA Finals Preview / Knicks
+- **Key facts:** Knicks swept Cavs 4-0 ECF; 11-game win streak; Brunson 27.8 PPG/6.7 APG; KAT 19/14 clincher G4; resting 13+ days; OKC 64-18 / SA 62-20 both better than NYK 53-29 → WCF winner has home court; Finals G1 June 3 8:30 PM ET ABC; G3/4/6 at MSG.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Opponent set; Finals Game 1 preview; home court impact
+
+### STORY 3: Wemby vs. SGA Statistical Duel
+- **Tier:** 2
+- **Category:** Player Analysis / Statistical Feature
+- **Key facts:** Wemby series: 28.2 PPG/11.5 RPG/3.0 BPG; SGA: 24.3 PPG/8.8 APG; every game (3-0 each way) decided by individual scoring duel; Wemby G1: 41/24 (2OT); Wemby unanimous DPOY; SGA back-to-back MVP 31.1 PPG RS; SGA G6: 15/6-18 FG/-28 rating.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 7 result; who wins the final duel?
+
+### STORY 4: NBA Finals Home Court Advantage Analysis
+- **Tier:** 2
+- **Category:** NBA Finals Preview / Analytical
+- **Key facts:** OKC 64-18 / Spurs 62-20 / Knicks 53-29; WCF winner hosts G1/2/5/7; Knicks get G3/4/6 at MSG; home court teams win ~67% of Finals since 2000; OKC 34-7 home RS; Spurs 5-3 road this postseason.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Finals home court results; MSG atmosphere
+
+### STORY 5: Brunson's NYC Journey Feature
+- **Tier:** 2
+- **Category:** Player Feature / Knicks
+- **Key facts:** Brunson grew up Union NJ; dad Rick Brunson played for Knicks; signed from Dallas 2022; Brunson 27.8 PPG/6.7 APG playoffs; 25.5 PPG/7.8 APG ECF; leads Knicks to first Finals since 1999.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Finals performance; Brunson legacy; deeper Knicks history piece
