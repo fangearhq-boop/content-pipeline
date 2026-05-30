@@ -1,0 +1,227 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-30",
+  "compiled_at": "2026-05-30T12:41:50.747667+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Walmart Mainstays Dresser Recall — Tip-Over Hazard, Full Refund",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "COS parents: Walmart recalled 153,900 Mainstays 9-Drawer Fabric Dressers (May 28). Tip-over hazard. Sold Sept 2023–Mar 2026 for ~$80. Stop use if not wall-anchored — return drawers to Walmart for a full refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-01-walmart-mainstays-dresser-recall-tip-over.html",
+        "headline": "Walmart Recalls Mainstays 9-Drawer Dresser: Tip-Over Hazard Affects Over 150,000 Units",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Walmart Dresser Recall — Article Hero\n**Story:** Walmart Mainstays Dresser Recall\n**Dimensions:** 1200x630 (1.91:1 landscape)\n**Status:** not_started\n**Mode:** base_only\n**Gemini Prompt:** Close-up realistic image of a fabric dresser with a warning sign or caution tape nearby, modern home setting. Landscape orientation. Clean, professional. Space for text overlay. No text in image.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Cheyenne Mountain State Park Gets 484-Acre Expansion — 11 New Campsites",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Big news for COS families: Cheyenne Mountain State Park just expanded by 484 acres. 11 new full-hookup campsites, 10 tent sites, a group area — and more trails coming. Two decades in the making. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-02-cheyenne-mountain-state-park-expansion.html",
+        "headline": "Cheyenne Mountain State Park Expands by 484 Acres: New Campsites and Trails for COS Families",
+        "word_count": 647
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cheyenne Mountain State Park Expansion — Article Hero\n**Story:** Cheyenne Mountain State Park 484-Acre Expansion\n**Dimensions:** 1200x630 (1.91:1 landscape)\n**Status:** not_started\n**Mode:** base_only\n**Gemini Prompt:** Wide landscape of Cheyenne Mountain State Park style scenery — mountain backdrop, pine forests, campsite area. Bright Colorado blue sky. Families visible in distance on trails. Horizontal composition with space for text. No text in image.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Misco Sports Light-Up Racket Set Recall — Button Batteries Accessible to Kids",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Misco Sports Light-Up Racket Sets recalled (May 28). Shuttlecock battery compartment can open — exposing button cell batteries. Swallowing risk: severe internal burns. Stop use. Contact Missry Associates for a refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-03-misco-sports-racket-set-recall.html",
+        "headline": "Misco Sports Light-Up Racket Set Recalled: Button Cell Battery Hazard in Children's Toy",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Misco Racket Set Recall — Article Hero\n**Story:** Misco Sports Light-Up Racket Set Recall\n**Dimensions:** 1200x630 (1.91:1 landscape)\n**Status:** not_started\n**Mode:** base_only\n**Gemini Prompt:** Close-up of a small round button cell battery next to a children's toy on a white/light background. Warning composition. Shallow depth of field. Horizontal layout. No text in image.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Colorado Renaissance Festival Opens June 13 — Family Fun Near Colorado Springs",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Mark your calendars, COS families: The Colorado Renaissance Festival opens June 13 and runs every Sat + Sun through Aug 2 — about 45 min from Colorado Springs on I-25. Kids' zone, live shows, crafts, food and more. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-04-colorado-renaissance-festival-family-guide.html",
+        "headline": "Colorado Renaissance Festival 2026: A COS Family Guide to Medieval Weekends Starting June 13",
+        "word_count": 536
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado Renaissance Festival — Social Image\n**Story:** Colorado Renaissance Festival June 13 - August 2\n**Dimensions:** 1080x1350 (4:5 vertical)\n**Status:** not_started\n**Mode:** base_only\n**Gemini Prompt:** Vibrant, colorful medieval festival scene — costumed performers, colorful banners, families enjoying outdoor fair. Colorado mountain backdrop visible. Festive, fun, family-friendly atmosphere. Children visible in foreground, parents in background. Space for text overlay. No text in image.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Free Summer Meals for All COS Kids — No Sign-Up, No Income Requirement",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Free summer meals for COS kids under 18 — no sign-up, no income check. Available now at schools, libraries, parks, and community centers across the city, M–F all summer. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": null,
+      "article": {
+        "filename": "article-05-free-summer-meals-cos-kids.html",
+        "headline": "Free Summer Meals for Kids in Colorado Springs: Where to Go, What to Know",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Free Summer Meals — Social Image\n**Story:** Free Summer Meals for COS Kids\n**Dimensions:** 1080x1350 (4:5 vertical)\n**Status:** not_started\n**Mode:** base_only\n**Gemini Prompt:** Cheerful scene of diverse children eating lunch at picnic tables outdoors in a sunny Colorado park setting. Colorful fruits and sandwiches on table. Smiling children, warm summer light. Welcoming and warm. Space for text overlay. No text in image."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No Facebook posts found",
+      "Story 1: No posting window specified",
+      "Story 2: No Facebook posts found",
+      "Story 2: No posting window specified",
+      "Story 3: No Facebook posts found",
+      "Story 3: No posting window specified",
+      "Story 4: No Facebook posts found",
+      "Story 4: No posting window specified",
+      "Story 5: No Facebook posts found",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

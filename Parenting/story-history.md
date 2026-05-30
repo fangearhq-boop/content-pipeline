@@ -2,6 +2,45 @@
 
 ---
 
+## May 30, 2026
+
+### Story 1: Walmart Mainstays 9-Drawer Fabric Dresser Recall
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall May 28, 2026. ~153,900 Walmart Mainstays 9-Drawer Fabric Dressers recalled. Tip-over and entrapment hazard; violates STURDY Act. Black metal frame, nine brown or black fabric drawers. Sold Sept 2023–Mar 2026 at Walmart stores + Walmart.com for ~$80. 40" L × 13.75" W × 45" T, 32 lbs. No injuries reported. Remedy: return drawers to Walmart store for full refund; dispose frame per local regulations.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 153,900 units; May 28 recall; STURDY Act violation; tip-over/entrapment; Sept 2023–Mar 2026; ~$80; Walmart nationwide; no injuries; full refund from Walmart; Source: CPSC.gov, multiple Fox affiliates
+
+### Story 2: Cheyenne Mountain State Park 484-Acre Expansion
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado Parks and Wildlife announced May 29, 2026. Park expands by 484 acres via two acquisitions: Denman property (357.2 acres, $8.93M) + City of Colorado Springs adjacent parcel (125.8 acres). 11 new full-hookup campsites (total now 62). 10 new tent sites. New group tent area. Funded by Colorado Lottery + City of COS. More than two decades in the making.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 484 total acres (357.2 Denman + 125.8 COS parcel); announced May 29, 2026; $8.93M Denman purchase; 11 new hookup sites (62 total); 10 new tent sites; group tent area; Colorado Lottery + City of COS funding; 20+ years in making; Source: KKTV, Unofficial Networks, 9news, CPW official, CPR News, Colorado Biz
+
+### Story 3: Misco Sports Light-Up Racket Set Recall
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall May 28, 2026. Misco Sports Light-Up Racket Set recalled by Missry Associates. Battery compartment screw on shuttlecock does not remain attached when opened, exposing button cell batteries to children. Risk: internal chemical burns and death if swallowed. Remedy: full refund from Missry Associates.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** May 28 recall; Missry Associates seller; screw doesn't stay attached; button cell battery exposure; internal chemical burns + death risk; full refund; Source: CPSC.gov
+
+### Story 4: Colorado Renaissance Festival June 13 – August 2, 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (seasonal/annual) — Colorado Renaissance Festival opens Saturday June 13, runs every Sat + Sun through August 2, 2026. Located on I-25 between Denver and Colorado Springs (~45 min from COS). FamilyFest area for young children, jousting, live music, arts/crafts, food court, carnival rides. Tickets available online (recommended) + at gate.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** June 13–August 2, 2026; every Sat + Sun; I-25 between Denver + COS; ~45 min from COS; FamilyFest area; jousting + stage shows + live music + crafts + food court; Source: visitcos.com, uncovercolorado.com
+
+### Story 5: Free Summer Meals for COS Kids
+- **Content Pillar:** Local News / Evergreen
+- **Angle:** NEW STORY (new summer season) — USDA Summer Food Service Program meals available now across Colorado Springs for youth 18 and under. No sign-up, no income verification. Available Mon–Fri. D49: free breakfast + lunch, ages 1–18, June 1–19, d49.org. D11: East Library, free lunch, weekdays June–July. Text "FOOD" to 304-304 for site locator.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** Youth 18 and under; no sign-up; no income check; Mon–Fri; D49 breakfast+lunch ages 1–18 June 1–19 d49.org; D11 East Library weekdays June–July; summerfood.fns.usda.gov; text "FOOD" to 304-304; Source: Colorado Springs Gazette May 26, USDA SFSP, D49.org, prior pipeline research
+
+---
+
 ## May 28, 2026
 
 ### Story 1: D11 $775M Bond Referendum — November 2026 Ballot

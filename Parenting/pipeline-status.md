@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: May 30, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Walmart Mainstays 9-Drawer Fabric Dresser recall (153,900 units, STURDY Act violation, tip-over/entrapment, Sept 2023–Mar 2026, ~$80, full refund from Walmart); Cheyenne Mountain State Park 484-acre expansion (Denman 357.2 acres $8.93M + COS 125.8 acres, 11 new hookup sites total 62, 10 new tent sites, group area, Colorado Lottery + COS funding); Misco Sports Light-Up Racket Set recall (Missry Associates, May 28, button cell battery exposure, internal burns/death risk, full refund); Colorado Renaissance Festival June 13–Aug 2 (every Sat + Sun, I-25 ~45 min from COS, FamilyFest, jousting, live music, food court); Free summer meals for COS kids (USDA SFSP, youth 18 and under, no sign-up, D49 June 1–19 d49.org, D11 East Library weekdays June–July) |
+| Story History Check | COMPLETE | 5 NEW STORIES — Walmart dresser recall (new CPSC recall), Cheyenne Mountain expansion (new announcement), Misco racket recall (new CPSC recall), Colorado Renaissance Festival (annual, new 2026 dates), Free summer meals (new summer season) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 5 posts (1 each for Stories 1–5); 2 char violations fixed (S3: 305→277, S5: 283→229); 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules; PostPlanner-compatible format (## STORY N: + code blocks) |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (8 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images (x_image + facebook_image per story, plus 3 article_hero for S1–S3), all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; char violations fixed; image warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 5 X posts, 0 FB posts (FB parser requires ### STORY + bold format; PostPlanner parser used ## STORY + code blocks format — incompatible), 5 articles, 8 images |
+| Dashboard | COMPLETE | review-dashboard.html (20 items; FB posts absent due to compile/PostPlanner format incompatibility) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-30.xlsx (15 posts: 5 X + 10 FB) + TOBI cosp-postplanner-tobi-2026-05-30.xlsx (10 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — WP credentials not in environment (same environment restriction) | Same as all prior runs |
+
+## Pipeline Run Log (2026-05-30)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 5 X posts + 10 FB posts in PostPlanner xlsx (5 long-form + 5 captions) = 15 total in cosp-postplanner-2026-05-30.xlsx
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-05-30.xlsx (15 posts), cosp-postplanner-tobi-2026-05-30.xlsx (10 TOBI posts)
+- **Coverage:** Walmart Mainstays 9-Drawer Fabric Dresser recall (CPSC May 28, 153,900 units, STURDY Act violation, tip-over/entrapment, Sept 2023–Mar 2026, ~$80, return drawers to Walmart for full refund); Cheyenne Mountain State Park 484-acre expansion (announced May 29, Denman 357.2 acres $8.93M + COS 125.8 acres, 11 new full-hookup sites [62 total], 10 new tent sites, group tent area, Colorado Lottery + City of COS funding, 20+ years in making); Misco Sports Light-Up Racket Set recall (Missry Associates, May 28, shuttlecock battery compartment screw doesn't stay attached, button cell battery accessible, internal burns/death risk, full refund from Missry Associates); Colorado Renaissance Festival June 13–Aug 2 2026 (every Sat + Sun, I-25 between Denver and COS ~45 min from COS, FamilyFest for kids, jousting + stage shows + live music + crafts + food court + carnival); Free summer meals for COS kids (USDA SFSP, youth 18 and under, no sign-up/income check, Mon–Fri, D49 June 1–19 ages 1–18 d49.org, D11 East Library weekdays June–July, summerfood.fns.usda.gov, text "FOOD" to 304-304)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 2 char violations (S3 tweet 305→277 chars, S5 tweet 283→229 chars) fixed; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 5 X posts, 0 FB posts (format incompatibility — PostPlanner xlsx has correct 10 FB posts), 5 articles, 8 images
+  - dashboard: 20 items (FB posts absent from JSON but present in PostPlanner xlsx)
+  - PostPlanner exports: standard (15: 5 X + 10 FB) and TOBI (10) generated successfully
+  - WordPress credentials not in environment; publish skipped (same restriction as prior runs)
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: May 28, 2026
 
 | Step | Status | Notes |
