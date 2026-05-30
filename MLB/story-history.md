@@ -5,6 +5,58 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-30
+
+### Story 1: Dodgers 4, Phillies 2 — Game 1 Result, Game 2 Preview Tonight
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Dodgers (37-20, 5-game win streak) beat Phillies (29-27) 4-2 in Game 1. Game 2 tonight: Sasaki (3.52 ERA last 4 starts, turning corner) vs Painter (1-5, 5.40 ERA). Ohtani pitched Wednesday, Sánchez pitches Monday — two dominant starters narrowly missed each other in the series.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 2 result / series outcome
+  - Sánchez scoreless innings streak update
+  - Dodgers June outlook
+
+### Story 2: J.P. Crawford First Career Multi-HR Game — Mariners Walk Off D-Backs 7-6 in 10
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Crawford hit 2 HRs (solo off Gallen in 1st, 2-run in 5th) for first time in his career. Career-high 9 HRs this season. Arozarena walk-off double in 10th off Morillo. Mariners back at .500 (29-29) for first time since April 29. 4-game win streak.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Mariners sustaining .500 run in AL West
+  - Crawford power emergence tracking
+  - Arozarena Seattle impact
+
+### Story 3: Cardinals 6, Cubs 5 — NL Central Race
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Cardinals beat Cubs 6-5. Velazquez 3-run HR, Herrera and Saggese added solo shots. Brewers lead NL Central (33-20). Cardinals keeping race alive heading into June.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - NL Central standings update through June
+  - Cubs response in Game 2
+
+### Story 4: Yankees 8, Oakland 2 — AL East Race
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Yankees (36-22) beat Oakland 8-2. Chasing Tampa Bay in AL East. Schlittler (7-2, 1.50 ERA) as Cy Young anchor. AL East race shaping up for summer.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - AL East standings through June
+  - Schlittler All-Star case
+  - Yankees vs Tampa rivalry
+
+### Story 5: Saturday MLB Slate Preview
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Saturday watch guide — Phillies-Dodgers Game 2 (Sasaki vs Painter, 7:10 PM PT), Cubs-Cardinals Game 2, Ramírez approaching HR No. 300.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Ramírez HR No. 300 when it happens
+  - Game results from Saturday slate
+
+---
+
 ## 2026-05-29
 
 ### Story 1: Shohei Ohtani — 6 Hitless Innings and a Leadoff HR vs. the Rockies

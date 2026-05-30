@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-30
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed S5T1 282→258; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (48 claims, 0 char violations, consistency clean), compile (5 stories, 6 tweets, 0 FB posts, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via cherry-pick after detached HEAD resolved.
+- **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment — prior session)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). 1 char violation fixed before compile (S5T1 282→258). Detached HEAD resolved via checkout main + pull + cherry-pick.
+- **Key Stories**: Megan Grant 42nd HR (new NCAA single-season record)/91st career (new UCLA record past Nuveman 2002)/UCLA 11-0 Arkansas run rule/four Bruins HR ties WCWS record (Tier 1), Teagan Kavan 600th career K on final out/4-hit shutout 78 pitches/7 career WCWS wins program record/4 WCWS shutouts ties Osterman/Texas 4-0 MSU (Tier 1), NiJaree Canady vs Tennessee two-ace staff Game 7 3PM ABC winners bracket preview (Tier 2), Nebraska 51-6 vs No. 1 Alabama Game 8 7PM ESPN/Frahm 133-pitch recovery question (Tier 2), WCWS bracket 6 teams remaining/Game 7 loser faces UCLA/Game 8 loser faces Texas Sunday (Tier 2)
+
+## Previous Run
 - **Date**: 2026-05-29
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 3 char violations fixed S2T1/S4T1/S5T1; 0 violations after fixes), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (49 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB posts, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via cherry-pick after detached HEAD resolved.
 - **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/ilovesoftball-dashboards/

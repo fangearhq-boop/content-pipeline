@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-30
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (web searches via context), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (17 claims, 0 char violations), compile (5 stories, 6 tweets, 0 FB posts parsed, 5 articles, 16 items), dashboard (16 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). 0 char violations.
+- **Key Stories**: Dodgers 4-2 Phillies Game 1 / Sasaki vs Painter tonight / Ohtani-Sánchez near-miss subplot (Tier 1), J.P. Crawford first career multi-HR game / Arozarena walk-off / Mariners back at .500 (Tier 1), Cardinals 6-5 Cubs / Velazquez 3-run HR / NL Central race (Tier 2), Yankees 8-2 Oakland / Schlittler 7-2 1.50 ERA / AL East race (Tier 2), Saturday MLB slate preview / Ramírez approaching HR 300 (Tier 2)
+
+## Previous Run
 - **Date**: 2026-05-29
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (13 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB posts, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard push 403 (content-dashboards PAT scope — known).
 - **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/content-dashboards/bb/
