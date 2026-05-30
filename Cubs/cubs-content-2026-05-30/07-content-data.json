@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-30",
+  "compiled_at": "2026-05-30T09:19:39.511253+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Cardinals 6 Cubs 5 recap",
+      "type": "Informative"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Cardinals snapped 4-game skid bold take",
+      "type": "Bold"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Ben Brown vs Leahy preview",
+      "type": "Informative"
+    },
+    {
+      "time": "1:15 PM CT",
+      "description": "NL Central standings update",
+      "type": "Informative"
+    },
+    {
+      "time": "2:30 PM CT",
+      "description": "Boyd return / Wicks rehab",
+      "type": "Informative"
+    },
+    {
+      "time": "5:00 PM CT",
+      "description": "Pre-game hype",
+      "type": "Bold"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cardinals 6, Cubs 5 — Velázquez Callup Stings in Game 1",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Game recap. Nelson Velázquez, promoted from Triple-A Memphis earlier that day, hit a 3-run HR to key the Cardinals' comeback. Riley O'Brien recorded the save. Cubs drop Game 1 at Busch, fall to 31-27.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Cardinals 6, Cubs 5. A callup from Memphis ended the Cubs' winning streak.\n\nNelson Velázquez — promoted from Triple-A that day — hit a 3-run HR to key the comeback. Riley O'Brien finished it off. Cubs drop Game 1 at Busch, fall to 31-27.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 5,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cardinals 6, Cubs 5 — Velázquez Callup Stings in Game 1\n**Facts:**\n- [HIGH] Final score: Cardinals 6, Cubs 5. Sources: ESPN (gameId 401815542), CBS Chicago, Washington Post\n- [HIGH] Nelson Velázquez hit a 3-run HR. Sources: CBS Chicago + Washington Post\n- [HIGH] Velázquez was promoted from Triple-A Memphis earlier on May 29. Sources: CBS Chicago\n- [MEDIUM] First MLB action for Velázquez since June 23, 2024 (last with Kansas City). Source: CBS Chicago (single source)\n- [HIGH] Cardinals snapped a 4-game losing streak. Sources: CBS Chicago + ESPN context\n- [MEDIUM] Gordon Graceffo (4-1) earned the win. Source: CBS Chicago only\n- [MEDIUM] Riley O'Brien recorded the save (cited as \"14th save\"). Source: CBS Chicago only\n- [MEDIUM] Iván Herrera solo HR. Source: Washington Post\n- [MEDIUM] Thomas Saggese solo HR. Source: Washington Post\n- [HIGH] Cubs entered with back-to-back wins (from Pittsburgh series)\n- [HIGH] Cubs fall to 31-27 after this loss (derived from series-context, which showed 31-27)\n**Sources:**\n- CBS Chicago: https://www.cbsnews.com/chicago/news/chicago-cubs-vs-st-louis-cardinals-game-recap-may-29-2026/\n- Washington Post: Cubs-Cardinals recap, May 29, 2026\n- ESPN: game recap, gameId 401815542",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cardinals Snapped 4-Game Losing Streak — On the Cubs' Dime",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Bold take. Cardinals' relief corps (Graceffo win, O'Brien save) shut down the Cubs without a marquee arm. St. Louis didn't need a star to beat Chicago — and that's the real problem.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Cardinals snapped a 4-game losing streak on the Cubs' dime — Gordon Graceffo won it, Riley O'Brien saved it.\n\nSt. Louis didn't need a marquee performance. Cubs fall to 31-27 and can't afford another slip in this series.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 3,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cardinals Snapped 4-Game Losing Streak — On the Cubs' Dime\n**Facts:**\n- [HIGH] Cardinals snapped 4-game losing streak (CBS Chicago + ESPN)\n- [MEDIUM] Gordon Graceffo recorded the win (CBS Chicago only)\n- [MEDIUM] Riley O'Brien recorded the save (CBS Chicago only)\n- [HIGH] Cubs had momentum entering: won 2 straight before series (Pirates)\n**Sources:**\n- CBS Chicago game recap, May 29, 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ben Brown vs. Kyle Leahy — Game 2 Tonight at 6:15 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Game 2 preview. Brown has a 2.01 ERA and 47 K in 44.2 IP — one of the most underrated starters in the NL. Leahy counters at 4.44 ERA. Cubs have the pitching matchup advantage.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Ben Brown tonight: 2.01 ERA, 0.99 WHIP, 47 K in 44.2 IP — quietly one of the best starters in the NL.\n\nKyle Leahy counters for St. Louis at 4.44 ERA. The pitching matchup favors Chicago. First pitch: 6:15 PM CT at Busch.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 4,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Ben Brown vs. Kyle Leahy — Game 2 Tonight at 6:15 PM CT\n**Facts:**\n- [HIGH] First pitch 6:15 PM CT (7:15 PM ET), Busch Stadium. Sources: series-context.json + FOX Sports\n- [MEDIUM] Ben Brown: 1-2, 2.01 ERA, 0.99 WHIP, 44.2 IP, 47 K. Source: PicksAndParlays.net\n- [MEDIUM] Kyle Leahy: 5-3, 4.44 ERA, 1.58 WHIP, 50.2 IP, 42 K. Sources: PicksAndParlays.net, Cubs Insider\n- [MEDIUM] Cubs -136 moneyline favorites. Source: PicksAndParlays.net\n**Note:** Ben Brown's stats are from a betting preview site (single source). ERA/WHIP/K numbers are the primary data points used. Flag as MEDIUM confidence. Cannot cross-reference with a second primary source in this session.\n**Sources:**\n- PicksAndParlays.net: May 30 game preview\n- FOX Sports: game listing\n- Cubs Insider series preview",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NL Central Reckoning — Cubs Trail Cardinals, 4.5 Back of Brewers",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Standings analysis. Brewers 33-20, Cardinals 30-25, Cubs 31-27. Cubs have slipped 0.5 GB behind St. Louis in the standings and are 4.5 back of Milwaukee. Tonight matters.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "NL Central update: Brewers 33-20, Cardinals 30-25, Cubs 31-27.\n\nCubs have slipped 0.5 GB behind St. Louis in the standings. A loss tonight puts Chicago 1.5 back of the Cardinals with just 1 game left in this series. Tonight is not optional.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Informative / Division Watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "NL Central Reckoning — Cubs Trail Cardinals, 4.5 Back of Brewers\n**Facts:**\n- [HIGH] Cubs record: 31-27 (derived from series-context — was 31-26, lost Game 1)\n- [HIGH] Cardinals record: 30-25 (series-context.json)\n- [MEDIUM] Brewers record: 33-20 (FanDuel research, single source)\n- [HIGH] Cubs GB behind Cardinals: 0.5 GB (math: ((30-31) + (27-25)) / 2 = 0.5)\n- [MEDIUM] Cubs GB behind Brewers: 4.5 GB (math: ((33-31) + (27-20)) / 2 = 4.5 — requires Brewers 33-20 being correct)\n- [HIGH] A Cubs loss tonight would put them 1.5 GB behind Cardinals (math: 31-28 vs 30-25 = ((30-31) + (28-25)) / 2 = 1.5)\n**Sources:**\n- Series-context.json (Cubs + Cardinals records)\n- FanDuel research (Brewers record)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Boyd Set to Return; Wicks Progressing in Iowa Rehab",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Rotation health update. Boyd (left meniscus) set to be activated this week. Wicks throwing 3 scoreless innings in Iowa rehab. With Horton and Steele still sidelined, rotation depth is building.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Matthew Boyd is set to return to the Cubs rotation this week after his left meniscus injury.\n\nWhile Horton and Steele remain out, Boyd's activation and Wicks' 3 scoreless Iowa rehab innings give this rotation real depth heading into June.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative / Roster",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 3,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Boyd Set to Return; Wicks Progressing in Iowa Rehab\n**Facts:**\n- [HIGH] Boyd on 15-day IL with left meniscus injury (CBS Sports + FanGraphs — 2+ sources)\n- [MEDIUM] Boyd \"being activated to start Wednesday's Phillies game.\" Sources: FanGraphs, CBS Sports (both reference Wednesday activation — MEDIUM because \"Wednesday\" is referenced specifically but exact date not confirmed independently)\n- [MEDIUM] Jordan Wicks: 3 scoreless innings in Iowa rehab (1 H, 1 BB, 2 K). Source: FanGraphs only\n- [HIGH] Cade Horton: Tommy John surgery, out ~16 months. Sources: FanGraphs + multiple prior pipeline runs\n- [HIGH] Justin Steele: 60-day IL, multiple weeks from throwing, July return earliest. Sources: Cubbies Crib + FanGraphs\n**Sources:**\n- FanGraphs Injury Report (Boyd, Wicks, Steele, Horton)\n- CBS Sports Injury Report (Boyd)\n- Cubbies Crib (Steele update)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Game 2 Hype — Ben Brown Takes the Mound at 6:15 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Pre-game energy. Cubs are 31-27 chasing both the Cardinals and Brewers. Brown (2.01 ERA) is the matchup advantage. Bear down.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Game 2. Busch Stadium. 6:15 PM CT.\n\nBen Brown has a 2.01 ERA this season. The Cubs need him to be every bit of that tonight — 31-27 and chasing both the Cardinals and Brewers in the NL Central. Bear down. ⚾\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold / Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 4,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game 2 Hype — Ben Brown Takes the Mound at 6:15 PM CT\n**Facts:**\n- [HIGH] First pitch 6:15 PM CT, Busch Stadium (series-context.json)\n- [MEDIUM] Ben Brown 2.01 ERA this season (PicksAndParlays — same source as Story 3)\n- [HIGH] Cubs record 31-27 (derived)\n**Sources:**\n- Series-context.json\n- PicksAndParlays.net preview",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
