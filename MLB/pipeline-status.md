@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-31
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (web searches via context), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (32 claims, 0 char violations), compile (5 stories, 6 tweets, 5 FB posts, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). 0 char violations.
+- **Key Stories**: Murakami to IL Grade 2 hamstring ~4 weeks / 20 HRs on pause / White Sox Wild Card implications (Tier 1), Tanner Scott blown save / Phillies 4-3 Dodgers / Sosa 2-run HR / Sasaki 7 Ks / series tied 1-1 (Tier 1), Schwarber leads MLB HRs alone / earliest 20-HR date in history / on pace for 66 (Tier 2), Phillies-Dodgers rubber game Game 3 at Dodger Stadium (Tier 2), Sunday MLB watch guide Cubs-Cardinals SNB 7 PM / 15 games (Tier 2)
+
+## Previous Run
 - **Date**: 2026-05-30
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (web searches via context), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (17 claims, 0 char violations), compile (5 stories, 6 tweets, 0 FB posts parsed, 5 articles, 16 items), dashboard (16 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

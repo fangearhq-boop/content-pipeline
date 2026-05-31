@@ -1,0 +1,293 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-31",
+  "compiled_at": "2026-05-31T10:31:09.899194+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM ET",
+      "description": "X Text Post (Murakami IL news)",
+      "type": "Story 1"
+    },
+    {
+      "time": "8:30 AM ET",
+      "description": "X Text Post (Murakami HR race impact)",
+      "type": "Story 1"
+    },
+    {
+      "time": "10:00 AM ET",
+      "description": "X Text Post (Sunday watch guide)",
+      "type": "Story 5"
+    },
+    {
+      "time": "10:30 AM ET",
+      "description": "X Text Post (Phillies 4-3 Dodgers recap)",
+      "type": "Story 2"
+    },
+    {
+      "time": "12:30 PM ET",
+      "description": "X Text Post (HR race standings)",
+      "type": "Story 3"
+    },
+    {
+      "time": "3:00 PM ET",
+      "description": "X Text Post (Phillies-Dodgers Game 3)",
+      "type": "Story 4"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Murakami to IL — White Sox Lose AL HR Co-Leader to Hamstring (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Munetaka Murakami is on the injured list. ⚾\n\nGrade 2 right hamstring strain. Expected timeline: four weeks.\n\nHe had 20 home runs — tied for the AL lead. The best rookie story in baseball just got put on hold.\n\n#WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 1-2",
+          "text": "With Murakami on the IL, Kyle Schwarber now holds sole possession of the MLB home run lead.\n\nHe hit his 20th homer on the earliest date in MLB history. He's on pace for 66.\n\nThe race just got a lot more interesting. ⚾\n\n#Phillies #MLB #HomeRuns",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB",
+            "#HomeRuns"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "The best rookie story in baseball just got put on pause.\n\nMunetaka Murakami — the Japanese import who had taken the American League by storm with 20 home runs — was placed on the injured list Saturday with a Grade 2 right hamstring strain. White Sox GM Chris Getz confirmed the severity and projected a four-week recovery timeline.\n\nThe injury happened Friday night while Murakami was legging out a grounder. He exited almost immediately, and by Saturday it was confirmed: he's out.\n\nMurakami had 20 home runs — tied for the AL lead — and was the clear frontrunner for AL Rookie of the Year. He's been one of the most fun players in baseball to watch in 2026. The White Sox called up Jacob Gonzalez from Triple-A to fill the roster spot.\n\nThe good news for Chicago: they won Saturday anyway, beating the Tigers 7-1. But a White Sox team fighting for an AL Wild Card spot without their best player is a very different team than the one that's been rolling.\n\nThe 2026 home run race just lost one of its biggest participants. Four weeks is an eternity in a pennant race. ⚾",
+        "image_caption": "Munetaka Murakami placed on IL. Grade 2 hamstring strain. Out ~4 weeks. 20 HRs go on pause. ⚾ #WhiteSox #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-murakami-il-grade-2-hamstring-white-sox-2026.html",
+        "headline": "article-01-murakami-il-grade-2-hamstring-white-sox-2026.html",
+        "word_count": 924
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murakami to IL — Grade 2 Hamstring\n\n**Imagn Search Terms:** Munetaka Murakami White Sox\n\n**Text Overlay:**\n- Line 1: MURAKAMI\n- Line 2: ON THE IL\n- Line 3: Grade 2 Hamstring | ~4 Weeks\n\n**Format:** 1080x1350 (Portrait)\n**Usage:** X image post, Facebook image caption, Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Murakami to IL with Grade 2 Hamstring Strain\n**Classification:** NEW STORY\n**Justification:** First coverage of Murakami injury; prior pipeline covered his HR stats but not this placement.\n**Sources:**\n1. Chicago Sun-Times — \"White Sox place Munetaka Murakami on injured list, call up Jacob Gonzalez\" (May 30, 2026)\n2. Chicago Sun-Times — \"Munetaka Murakami expected to miss four weeks — White Sox GM Chris Getz\" (May 30, 2026)\n3. Yahoo Sports — \"White Sox rookie Munetaka Murakami goes on IL with hamstring strain after 10-inning walk-off win over Tigers\" (May 30, 2026)\n4. ESPN — \"White Sox slugger Munetaka Murakami exits with hamstring tightness\" (May 30, 2026)\n5. MLB.com — \"Munetaka Murakami to injured list with right hamstring strain\" (May 30, 2026)\n**Key Facts:**\n- Murakami sustained a Grade 2 right hamstring strain [HIGH — multiple sources]\n- Injury happened Friday (May 29) when legging out a grounder hit to Detroit 2B Zach McKinstry [HIGH — Yahoo Sports]\n- White Sox GM Chris Getz called it a \"Grade 2 strain\" with ~4-week recovery timeline [HIGH — Chicago Sun-Times]\n- Murakami had 20 HRs entering Saturday — tied for AL lead [HIGH — multiple sources]\n- White Sox placed Murakami on 10-day IL Saturday (May 30) [HIGH — multiple sources]\n- White Sox called up Jacob Gonzalez from Triple-A Charlotte [HIGH — Sun-Times]\n- White Sox beat Tigers 7-1 on Saturday (Murakami already on IL by game time) [HIGH — Sun-Times]\n- Murakami signed from Japan on two-year deal this offseason [HIGH — ESPN]\n- He was leading AL Rookie of the Year candidate [HIGH — ESPN, Yahoo Sports]\n**Freshness Verification:** Injury and IL placement reported May 30, 2026. Fresh story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Tanner Scott Blows First Save of 2026 — Phillies 4-3 Dodgers (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Tanner Scott had not allowed a run in 13 straight appearances.\n\nThen Edmundo Sosa hit a 2-run homer in the 8th. Bryce Harper added an RBI single. Phillies 4, Dodgers 3. ⚾\n\nFirst blown save of 2026 for Scott. Dodgers' 6-game win streak snapped.\n\n#Phillies #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "For 13 consecutive appearances, Tanner Scott was untouchable. 1.14 ERA. 0 runs allowed since April 24. The Dodgers' closer was one of the best relievers in baseball.\n\nThen came the eighth inning on Saturday night.\n\nRoki Sasaki had been tremendous — 5.1 innings, 7 strikeouts, just the one Alec Bohm homer in the second. The Dodgers led 3-1 entering the eighth and Scott jogged in to close it out.\n\nHe allowed a pair of singles. Then, with two outs, Edmundo Sosa crushed a 2-run homer just over the left field wall. Tied. Bryce Harper added an RBI single to finish it off. Phillies 4, Dodgers 3.\n\nFirst blown save of 2026 for Scott. Dodgers' 6-game win streak, snapped. Series, tied at 1-1.\n\nThis was a great game by any measure — Sasaki looked like a legitimate ace, and the comeback required two-out clutch hitting at its finest. But the one thing everyone will remember is Scott's first blown save of the year, and the brief flashback it created to his 10-blown-save nightmare in 2025.\n\nGame 3 is today. Dodger Stadium. The series gets decided. ⚾",
+        "image_caption": "Sosa's 2-run homer. Scott's first blown save of 2026. Phillies 4, Dodgers 3. Series tied heading to today's rubber game. ⚾ #Phillies #Dodgers #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-tanner-scott-blown-save-phillies-4-3-dodgers-2026.html",
+        "headline": "article-02-tanner-scott-blown-save-phillies-4-3-dodgers-2026.html",
+        "word_count": 823
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tanner Scott Blown Save — Phillies 4-3 Dodgers\n\n**Imagn Search Terms:** Tanner Scott Dodgers\n\n**Text Overlay:**\n- Line 1: FIRST BLOWN SAVE\n- Line 2: OF 2026\n- Line 3: Phillies 4, Dodgers 3 | Series Tied 1-1\n\n**Format:** 1080x1350 (Portrait)\n**Usage:** X image post, Facebook image caption, Article featured image\n\n**Alternate Search Terms:** Edmundo Sosa Phillies\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tanner Scott Blows First Save — Phillies 4-3 Dodgers\n**Classification:** NEW STORY (May 30 run covered Game 1 — Dodgers 4-2 win)\n**Justification:** Game 2 result is new; prior day's pipeline ran before this game was played.\n**Sources:**\n1. True Blue LA — \"Tanner Scott blows first save of 2026 in loss to Phillies\" (May 30, 2026)\n2. Dodgers Digest — \"Phillies 4, Dodgers 3: Tanner Scott revisits nightmare 2025 to snap win streak\" (May 30, 2026)\n3. Dodger Blue — \"Recap: Roki Sasaki's impressive start spoiled as Phillies rally against Tanner Scott\" (May 30, 2026)\n4. ESPN — \"Phillies 4-3 Dodgers Game Recap\" (May 30, 2026)\n**Key Facts:**\n- Phillies 4, Dodgers 3 (Final) [HIGH — multiple sources]\n- Roki Sasaki: 5.1 IP, 3 H, 1 ER (Alec Bohm solo HR in 2nd inning, 406 ft), 7 K, 1 BB [HIGH — Dodger Blue, ESPN]\n- Alec Bohm hit the solo HR to give Phillies 1-0 lead in 2nd [HIGH — ESPN]\n- Mookie Betts RBI single in 7th gave Dodgers 3-1 lead [HIGH — ESPN]\n- Tanner Scott entered in 8th with 3-1 Dodgers lead [HIGH — multiple sources]\n- Scott had not allowed a run in 13 consecutive appearances since April 24 [HIGH — True Blue LA]\n- Entering the game: Scott had 1.14 ERA, 2.18 xERA, struck out a third of batters in 23.2 IP [HIGH — True Blue LA]\n- Scott's first blown save of 2026 [HIGH — True Blue LA, Dodger Blue]\n- With two outs, pairs of singles, then Edmundo Sosa 2-run HR over left field wall [HIGH — Dodgers Digest]\n- Bryce Harper added RBI single for 4-3 lead [HIGH — ESPN]\n- Dodgers' 6-game winning streak snapped [HIGH — multiple sources]\n- Scott had 10 blown saves in 2025 [HIGH — Dodgers Digest]\n- Series now tied 1-1; Game 3 Sunday at Dodger Stadium [HIGH — ESPN schedule]\n**Freshness Verification:** Game played May 30, 2026. Fresh result.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "MLB HR Race Update — Schwarber Leads MLB Alone After Murakami IL (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The 2026 MLB home run race entering June:\n\n⚾ Schwarber (PHI): MLB lead — on pace for 66\n⚾ Murakami (CWS): On IL (20 HRs, hamstring, ~4 wks)\n⚾ Judge (NYY): Chasing from behind\n\nEarliest 20-HR date in MLB history. Is this the year someone hits 60+ again?\n\n#MLB #HomeRuns",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#HomeRuns"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "Let's check in on the most compelling storyline in baseball.\n\nKyle Schwarber already did something nobody had done in MLB history — he hit his 20th home run on the earliest date ever, besting Luis Gonzalez's mark from 2001. He's on pace for approximately 66 home runs. He leads Major League Baseball.\n\nAnd now, with Munetaka Murakami sidelined four weeks, Schwarber holds that lead alone.\n\nThe 2026 home run race had been building toward something special: Murakami (20 HRs, best rookie since Shohei) vs. Schwarber (historic pace) vs. Aaron Judge (always lurking). Now one of those three is watching from the trainer's room for the next month.\n\nThat means Schwarber has an opening — and the numbers he's putting up suggest he doesn't need one.\n\nIs 2026 the year someone finally hits 60+ home runs again? The last time it happened was Barry Bonds in 2001. The exclusive club — Bonds (73), McGwire (70), Sosa (66, 65, 63), McGwire again (70) — has been untouched for over two decades.\n\nKyle Schwarber is on pace. ⚾",
+        "image_caption": "Schwarber leads MLB in HRs. On pace for 66. The earliest 20-HR date in history. Is 60 coming? ⚾ #Phillies #MLB #HomeRuns",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-schwarber-leads-mlb-hr-race-alone-2026.html",
+        "headline": "article-03-schwarber-leads-mlb-hr-race-alone-2026.html",
+        "word_count": 868
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "HR Race — Schwarber Leads MLB Alone\n\n**Imagn Search Terms:** Kyle Schwarber Phillies\n\n**Text Overlay:**\n- Line 1: SCHWARBER LEADS MLB\n- Line 2: On Pace for 66 HRs\n- Line 3: Earliest 20-HR Date in MLB History\n\n**Format:** 1080x1350 (Portrait)\n**Usage:** X image post, Facebook image caption, Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "HR Race Update — Schwarber Leads MLB After Murakami IL\n**Classification:** NEW STORY — Murakami injury creates new race narrative\n**Justification:** Schwarber's pace has been covered but not in this specific framing (sole MLB leader).\n**Sources:**\n1. ESPN — \"MLB 2026: Will Phillies' Kyle Schwarber join 60 home run club?\" (May 2026)\n2. Yahoo Sports — \"The 2026 MLB season is turning into the next home run race\" (May 2026)\n3. MLB.com — \"Kyle Schwarber (TWICE) homers in 4th straight, claims share of MLB lead\" (prior)\n**Key Facts:**\n- Schwarber has 20+ HRs entering Sunday (MLB leader) [HIGH — ESPN, Yahoo Sports]\n- Schwarber hit his 20th HR on the earliest date in MLB history (bettering Luis Gonzalez's May 17, 2001 date) [HIGH — multiple sources]\n- On pace for approximately 66 HRs over a full season [HIGH — ESPN]\n- Aaron Judge is the closest challenger (approximately 16-18 HRs) [MEDIUM — search results unclear on exact current total]\n- Murakami had 20 HRs (tied AL lead) before IL placement [HIGH — confirmed from Story 1]\n- Schwarber is 33 years old, Philadelphia DH [HIGH — confirmed]\n**Note:** Judge's exact HR total as of May 31 not confirmed — search results gave different dates. Will flag as MEDIUM confidence in fact-check.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Phillies-Dodgers Game 3 Today — Series Winner in a Rubber Matchup (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Phillies and Dodgers are tied at 1-1. Rubber game is today at Dodger Stadium. ⚾\n\nDodgers need a bounce-back after Tanner Scott's first blown save of the year.\n\nPhillies have the momentum after a three-run 8th inning comeback.\n\nSeries winner takes it today. #Phillies #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "Phillies and Dodgers. Tied at 1-1. Rubber game today at Dodger Stadium.\n\nGame 1 went to the Dodgers — a 4-2 win with their offense doing the work. Game 2 went to the Phillies after Tanner Scott's first blown save of 2026 and a three-run eighth inning.\n\nNow it's a one-game decider.\n\nThe Dodgers need a bounce-back. Roki Sasaki threw 5.1 innings yesterday — he won't be back. The bullpen needs to be better. The offense needs to finish what they start.\n\nThe Phillies want to close out a marquee series win. Kyle Schwarber and Bryce Harper in an LA stadium with momentum — it's not a bad spot to be in.\n\nWhatever happens today sets the tone for both teams heading into June. Neither team can afford to drop this series. Both need to make a statement.\n\nRubber game baseball. There's nothing better. ⚾",
+        "image_caption": "Game 3. Tied 1-1. Dodger Stadium. Today. Series winner takes it all. ⚾ #Phillies #Dodgers #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-phillies-dodgers-game-3-rubber-match-2026.html",
+        "headline": "article-04-phillies-dodgers-game-3-rubber-match-2026.html",
+        "word_count": 744
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Phillies-Dodgers Game 3 Rubber Match\n\n**Imagn Search Terms:** Dodger Stadium Phillies Dodgers\n\n**Text Overlay:**\n- Line 1: GAME 3\n- Line 2: RUBBER MATCH\n- Line 3: Phillies vs. Dodgers | Dodger Stadium\n\n**Format:** 1080x1350 (Portrait)\n**Usage:** Facebook image caption, Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Phillies vs. Dodgers Game 3 — Series Rubber Match\n**Classification:** NEW STORY — preview\n**Justification:** Game 3 is today; novel angle on the full series context.\n**Sources:**\n1. ESPN — Phillies 4-3 Dodgers recap (May 30, 2026)\n2. ESPN — Schedule page (May 31, 2026)\n3. Dodger Blue — recap and series context (May 30, 2026)\n**Key Facts:**\n- Game 3 at Dodger Stadium, Sunday May 31 [HIGH — ESPN schedule]\n- Dodgers won Game 1 (4-2) with Ohtani starting [HIGH — prior pipeline/confirmed]\n- Phillies won Game 2 (4-3, Scott BS) [HIGH — confirmed from Story 2]\n- Series is 1-1 entering Game 3 [HIGH]\n- Dodgers need bounce-back after Scott's first blown save of 2026 [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Sunday MLB Watch Guide — Cubs-Cardinals SNB + Standings Check (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Sunday MLB schedule — big day: ⚾\n\n• Cubs vs. Cardinals — 7 PM ET Sunday Night Baseball\n• Phillies-Dodgers Game 3 — series rubber match\n• Mariners-D'backs — 4:10 PM Peacock\n\n15 games total. Pick your poison.\n\n#MLB #Baseball #SundayBaseball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Baseball",
+            "#SundayBaseball"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "Happy Sunday. Here's your complete guide to today's MLB action. 15 games. Here's what to watch:\n\n🍺 **Cubs vs. Cardinals — 7 PM ET, Sunday Night Baseball**\nThe NL Central rivals meet in a marquee Sunday Night Baseball broadcast. The Cubs have been one of the best stories in the NL this season. The Cardinals are still alive in the Central. This one matters.\n\n⚾ **Phillies vs. Dodgers Game 3 — Dodger Stadium**\nAlready broken down above — series rubber game. Two NL powerhouses, momentum in play.\n\n📺 **Mariners vs. Diamondbacks — 4:10 PM ET, Peacock**\nThe Mariners have been quietly building one of the better stories in the AL West. This series finale matters for their positioning.\n\n🏟️ **Rays vs. Angels — afternoon game**\nTampa Bay trying to hold their AL East lead in a divisional race that's been tight all year.\n\nOne more note heading into June: Murakami is on the IL. Schwarber leads MLB in HRs. The standings are getting serious. The race is on. ⚾",
+        "image_caption": "Sunday MLB: Cubs vs. Cardinals at 7 PM for Sunday Night Baseball. Plus Phillies-Dodgers rubber game and 13 more. Your whole day, planned. ⚾ #MLB #SundayBaseball",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-sunday-mlb-watch-guide-cubs-cardinals-2026.html",
+        "headline": "article-05-sunday-mlb-watch-guide-cubs-cardinals-2026.html",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sunday MLB Watch Guide\n\n**Imagn Search Terms:** Cubs Cardinals Wrigley Field\n\n**Text Overlay:**\n- Line 1: SUNDAY MLB\n- Line 2: 15 GAMES TODAY\n- Line 3: Cubs vs. Cardinals | 7 PM ET Sunday Night Baseball\n\n**Format:** 1080x1350 (Portrait)\n**Usage:** Facebook image caption, Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sunday MLB Watch Guide\n**Classification:** NEW STORY — weekly schedule feature\n**Justification:** Standard Sunday watch guide with today's full schedule.\n**Sources:**\n1. ESPN schedule — May 31, 2026\n2. Peacock TV — May 31 streaming schedule\n3. MLB.com schedule — May 31, 2026\n**Key Facts:**\n- Cubs vs. Cardinals, Sunday Night Baseball, 7 PM ET [HIGH — ESPN schedule]\n- Mariners vs. Diamondbacks, 4:10 PM ET, Peacock [HIGH — Peacock streaming schedule]\n- Phillies vs. Dodgers Game 3 at Dodger Stadium (time TBD) [HIGH]\n- 15 total games Sunday [HIGH — schedule sources]\n- Rays host Angels in Sunday afternoon game [HIGH — picksandparlays source]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

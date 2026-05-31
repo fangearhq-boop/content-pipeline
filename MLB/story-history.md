@@ -5,6 +5,57 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-31
+
+### Story 1: Murakami to IL — Grade 2 Hamstring, ~4 Weeks
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** White Sox placed Murakami on 10-day IL Saturday after Grade 2 right hamstring strain (legging out a grounder vs Detroit on Friday). GM Chris Getz confirmed ~4-week recovery. Murakami had 20 HRs (tied AL lead). Jacob Gonzalez called up from Triple-A Charlotte. White Sox still beat Tigers 7-1 without him.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Murakami rehab progress / return date
+  - White Sox Wild Card standing without him
+  - HR race gap during his absence
+
+### Story 2: Tanner Scott Blown Save — Phillies 4-3 Dodgers
+- **Tier:** 1
+- **Classification:** NEW STORY (May 30 covered Game 1 — Dodgers 4-2; today covers Game 2 result)
+- **Angle:** Phillies 4, Dodgers 3. Sasaki brilliant (5.1 IP, 7 K, 1 ER). Tanner Scott — 0 runs in 13 straight apps — blew first save of 2026. Edmundo Sosa 2-run HR, Bryce Harper RBI single. Dodgers' 6-game streak snapped. Series tied 1-1. Game 3 today.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Phillies-Dodgers Game 3 rubber match result
+  - Tanner Scott response to blown save
+  - Roki Sasaki ERA development arc
+
+### Story 3: HR Race — Schwarber Leads MLB Alone After Murakami IL
+- **Tier:** 2
+- **Classification:** NEW STORY (Murakami IL creates new race framing — Schwarber now sole MLB leader)
+- **Angle:** Schwarber holds sole MLB HR lead with 20+. Earliest 20-HR milestone in MLB history (beat Luis Gonzalez's May 17, 2001 date). On pace for 66 HRs. Judge the closest active challenger. Murakami out ~4 weeks.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber HR pace tracking each week
+  - Judge progress toward Schwarber
+  - Murakami return and race reset
+
+### Story 4: Phillies-Dodgers Game 3 Rubber Match
+- **Tier:** 2
+- **Classification:** NEW STORY — series finale preview
+- **Angle:** Series tied 1-1 after Scott's blown save Saturday. Rubber match at Dodger Stadium today. Dodgers need bounce-back; Phillies riding momentum of three-run 8th inning comeback.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 3 result and series winner
+
+### Story 5: Sunday MLB Watch Guide
+- **Tier:** 2
+- **Classification:** NEW STORY — weekly watch guide
+- **Angle:** 15 games Sunday. Cubs vs. Cardinals at 7 PM ET for Sunday Night Baseball. Mariners-D'backs at 4:10 PM on Peacock. Phillies-Dodgers rubber game. Rays-Angels afternoon game. Full June-preview slate.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - NL Central standings after Cubs-Cardinals
+  - Mariners AL West positioning
+
+---
+
 ## 2026-05-30
 
 ### Story 1: Dodgers 4, Phillies 2 — Game 1 Result, Game 2 Preview Tonight
