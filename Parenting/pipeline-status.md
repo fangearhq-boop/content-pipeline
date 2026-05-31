@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: May 31, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D11 $775M bond referendum (November 2026 ballot, 58-year avg building age, $422M+ repairs, ~$6.50/month per $100K home, teacher pay raise); PPLD Summer Adventure June 2 (free all ages, prizes SCHEELS/Switchbacks/Flying W Ranch, concerts opening day, free lunch May 27–July 31 for ages 0–18, adults $5); Fasando baby lounger CPSC warning (infant death 2025, ~6,200 units, Aug 2024–Jul 2025, ~$35, Amazon, cut cover/dispose, 800-638-2772); D49 Student Success Center August 2026 (former Falcon Elementary, preschool Mon–Thu, Base49 care, Friday childcare, d49.org); Free June events COS (El Pomar June 6 free, Bancroft Park Tuesdays 6 PM, First and Main Fridays 5 PM, Old Colorado City Thursdays 4 PM, CC Music Festival June 6–26) |
+| Story History Check | COMPLETE | 4 NEW STORIES (D11 bond, PPLD Summer Adventure, Fasando warning, Free June events) + 1 FOLLOW-UP (D49 SSC — new detail angle distinct from May 24 coverage) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for Stories 1–3, 1 each for Stories 4–5); 3 char violations fixed (S3: 281→215, S4: 298→258, S5: 288→213); 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (9 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 images (social + article_hero for S1–S4, social only for S5), all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables/lists, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 58 claims; 3 char violations fixed; image warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (28 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-05-31.xlsx (8 posts) + TOBI cosp-postplanner-tobi-2026-05-31.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-05-31)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total in PostPlanner xlsx
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-05-31.xlsx (8 posts), cosp-postplanner-tobi-2026-05-31.xlsx (8 TOBI posts)
+- **Coverage:** D11 $775M bond referendum (November 2026 ballot, 58-year avg building age, $422M+ repairs identified, ~$6.50/month per $100K home, teacher pay raise $10K+, new Stratmoor Hills Elementary); PPLD Summer Adventure 2026 (June 2 launch, free all ages, prizes from SCHEELS/Switchbacks/Flying W Ranch, concerts opening day East Library + Library 21c at 2 PM + 3:30 PM, free lunch May 27–July 31 weekdays ages 0–18, adults $5, 5550 N. Union Blvd., ppld.beanstack.org); Fasando baby lounger CPSC warning (not a full recall; infant death reported 2025; ~6,200 units Aug 2024–Jul 2025; ~$35; Amazon; sides too low/openings too wide/no stand; cut cover in half and dispose; CPSC.gov; 800-638-2772); D49 Student Success Center (August 2026, former Falcon Elementary of Technology, two preschool classrooms Mon–Thu, Base49 before/after-school + Friday childcare, specialized support services, d49.org); Free June events COS (El Pomar/Penrose Heritage Museum June 6 10 AM–2 PM free; Bancroft Park concerts every Tuesday 6–8 PM; First and Main live music every Friday 5–7 PM; Old Colorado City every Thursday 4–9 PM; CC Summer Music Festival June 6–26; PPLD Summer Adventure June 2)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 58 claims; 3 char violations (S3/S4/S5 tweets) fixed; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 28 items
+  - PostPlanner exports: both standard (8) and TOBI (8) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: May 30, 2026
 
 | Step | Status | Notes |

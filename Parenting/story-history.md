@@ -2,6 +2,45 @@
 
 ---
 
+## May 31, 2026
+
+### Story 1: D11 $775 Million Bond Referendum — What Colorado Springs Parents Need to Know
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 school board considering a $775M bond for the November 2026 ballot. Average school building is 58 years old; identified repair needs exceed $422M. Bond would increase property taxes ~$6.50/month per $100K home value. Funds: AC upgrades, structural repairs, teacher pay increase of $10K+, new Stratmoor Hills Elementary rebuild.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** $775M bond; November 2026 ballot; 58-year average building age; $422M+ in repairs identified; ~$6.50/month per $100K home value; D11; Source: KRDO, KKTV, D11.org
+
+### Story 2: PPLD Summer Adventure Launches June 2 — Free Reading Program for All Ages
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pikes Peak Library District's Summer Adventure 2026 kicks off Tuesday, June 2. Free for all ages. Prizes from SCHEELS, Switchbacks, Flying W Ranch. Opening day concerts at East Library and Library 21c at 2 PM and 3:30 PM. Register at ppld.beanstack.org or any branch. Free lunches weekdays May 27–July 31 at East Library for kids/teens 18 and under (adults $5).
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** June 2 launch date; free all ages; prizes from SCHEELS/Switchbacks/Flying W Ranch; East Library 5550 N. Union Blvd.; concerts 2 PM + 3:30 PM opening day; free lunch May 27–July 31 weekdays, ages 0–18; adults $5; ppld.beanstack.org; Source: PPLD.org, KKTV
+
+### Story 3: CPSC Warning — Fasando Baby Loungers Linked to Infant Death
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC warning (not yet full recall) for Fasando baby loungers sold on Amazon. An infant death was reported in 2025. ~6,200 units sold August 2024–July 2025 for approximately $35. Hazards: sides too low, openings too wide, no stand — fall and entrapment risk. Remedy: remove padding, cut cover in half, dispose. CPSC.gov or 800-638-2772.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC warning (no recall issued); ~6,200 units; August 2024–July 2025; ~$35; Amazon; infant death 2025; 800-638-2772; CPSC.gov; Source: CPSC.gov, multiple affiliate news outlets
+
+### Story 4: D49 Student Success Center Opens August 2026 — What Families Need to Know
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (distinct angle) — D49 Student Success Center confirmed opening August 2026 in former Falcon Elementary School of Technology building. Two preschool classrooms Mon–Thu, Base49 before/after-school care + Friday childcare. Specialized support services for students who need extra help. Strategic realignment of services from multiple buildings into one location.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Opening August 2026; former Falcon Elementary of Technology building; two preschool classrooms Mon–Thu; Base49 care; Friday childcare; d49.org; Source: D49.org, KRDO
+
+### Story 5: Free June Events for Colorado Springs Families
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (seasonal composite) — Roundup of free and low-cost June events in Colorado Springs: El Pomar Family Exploration Day at Penrose Heritage Museum June 6 (10 AM–2 PM, free); Bancroft Park concerts every Tuesday 6–8 PM; First and Main Town Center live music every Friday 5–7 PM; Old Colorado City events every Thursday 4–9 PM; Colorado College Summer Music Festival June 6–26; PPLD Summer Adventure starts June 2.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** El Pomar June 6 10 AM–2 PM free; Bancroft Park Tuesdays 6–8 PM; First and Main Fridays 5–7 PM; Old Colorado City Thursdays 4–9 PM; CC Music Festival June 6–26; PPLD Summer Adventure June 2; Source: visitcos.com, PPLD.org, coloradocollege.edu
+
+---
+
 ## May 30, 2026
 
 ### Story 1: Walmart Mainstays 9-Drawer Fabric Dresser Recall
