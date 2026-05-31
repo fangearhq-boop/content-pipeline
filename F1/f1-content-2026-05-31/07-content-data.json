@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-31",
+  "compiled_at": "2026-05-31T11:30:07.854851+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "FIA Bans Active Aero (Straight Mode) at Monaco — Safety Decision",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "BREAKING: FIA bans active aero at Monaco.\n\nNo \"Straight Mode\" at Monte Carlo. Cars race with FIXED wings.\n\nWhy? The \"3-second rule\" — Straight Mode zones need 3+ secs. Monaco's straights are too short.\n\nThe 2026 Monaco GP just got very interesting. 🇲🇨 #F1 #MonacoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 1-2",
+          "text": "FIA bans Straight Mode at Monaco = Ferrari/Hamilton huge boost.\n\nNo active aero = power unit edge evaporates. Aero balance decides everything.\n\nThe SF-26 loves slow corners. Monaco is ALL slow corners.\n\nLeclerc and Hamilton to the front? 🇲🇨 #F1 #MonacoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "Formula 1's most dramatic technical decision of 2026 just landed — and it's going to reshape the Monaco Grand Prix.\n\nThe FIA has confirmed that active aerodynamics — specifically \"Straight Mode,\" the system that replaced DRS in the 2026 regulations — will NOT be available to drivers at Monaco. Cars will race with fixed wings throughout the weekend.\n\nSo why did the FIA pull the plug? It comes down to two key reasons.\n\nFirst, the safety concern: at Monaco, Formula 1 cars are pushing the absolute limit of tyre grip at almost every corner. The FIA's guidance is that Straight Mode zones should only be deployed where cars aren't near the grip limit — and at Monaco, that's almost nowhere.\n\nSecond, the \"three-second rule\": every Straight Mode zone must last at least three seconds to give drivers sufficient reaction time and stability. Monaco's famous \"straights\" — barely long enough to be called that — don't satisfy this requirement.\n\nWhat does this mean for the race? Overtake Mode (the system that gives drivers extra electrical power within one second of the car ahead) remains available. But the wholesale drag reduction of Straight Mode is gone.\n\nAnd the impact on the championship? This is huge for Ferrari and Lewis Hamilton. The 2026 regulations have heavily favored teams with powerful power units. Take that straight-line speed advantage away, and Monaco becomes a contest of aerodynamic balance, mechanical grip, and driver precision — exactly where the SF-26 excels.\n\nThis Monaco Grand Prix, June 5-7 on Apple TV+, just became even more unpredictable.",
+        "image_caption": "No Straight Mode. No active aero. Just pure driver skill and car balance at Monaco. The FIA just changed everything. 🇲🇨 #F1 #MonacoGP",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-fia-bans-active-aero-monaco-straight-mode.html",
+        "headline": "FIA Bans Active Aero at Monaco: What the Straight Mode Decision Means for the Race",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton Eyes First Ferrari Win at Monaco — \"Probably Better Without Simulator\"",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lewis Hamilton: \"probably better without\" the Ferrari simulator.\n\nHe skipped it before Canada. Got P2. His best Ferrari result.\n\nNow heading to Monaco — the one circuit he's never won in red.\n\n4/1 to win. Active aero banned. SF-26 loves Monaco. 👀 #F1 #MonacoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Monaco fairytale Hamilton has been waiting for:\n\n✅ Skip Ferrari simulator\n✅ Win at Monaco\n✅ First Ferrari win\n\nHe's won Monaco before. He knows these streets. And the FIA just leveled the playing field.\n\n4/1 odds. Don't sleep on him. 🏎️ #F1 #Hamilton #MonacoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Hamilton",
+            "#MonacoGP"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "Lewis Hamilton has something to say — and the F1 world is listening.\n\nAfter finishing second at the Canadian Grand Prix — his best result since joining Ferrari — Hamilton made a stunning admission: ahead of the race, he had chosen to skip Ferrari's simulator entirely. And it worked. \"Why awesome Canadian GP has convinced Lewis Hamilton he's 'probably better without' Ferrari simulator,\" read the Motorsport.com headline after his P2. Sky Sports called the revelation \"quite damning\" on the simulator itself.\n\nNow Hamilton is heading to Monaco. And he has his eyes firmly on something he has never done as a Ferrari driver: win.\n\nThe Circuit de Monaco is the one iconic venue where raw engine power matters least. It's a track defined by rhythm, precision, and the ability to thread a 200-mph machine through streets barely wider than a bus lane. Hamilton has won here before — he knows these corners, these barriers, these kerbs. The active aero ban announced by the FIA this week only adds to his optimism. Without Straight Mode, Ferrari's aerodynamic package comes alive in exactly the places Monaco rewards.\n\nThe odds have him at 4/1, second only to hometown hero Charles Leclerc at 21/10. But odds are just numbers. A driver who has rediscovered his groove, driving the right car for the right circuit, at the right moment — that's a dangerous combination.\n\nMonaco. June 7. Apple TV+. Lewis Hamilton might finally be coming to collect. 🏎️",
+        "image_caption": "He's skipped the simulator. He's found his pace. Monaco is his kind of track. Can Lewis Hamilton finally win in red? 🇲🇨 #F1 #Hamilton #MonacoGP",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-hamilton-targets-first-ferrari-win-monaco.html",
+        "headline": "Hamilton Targets First Ferrari Win at Monaco — and He's Probably Better Without the Simulator",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Leclerc's Monaco Homecoming — Chasing a Fourth Pole on His Own Streets",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Charles Leclerc. Monaco. Need we say more?\n\n2024 Monaco winner. Three-time pole-sitter at his home race.\n\nNorris AND McLaren boss Stella both say Ferrari will take Monaco pole.\n\nHe's 21/10 favorite. The SF-26 was built for streets like these. 🇲🇨 #F1 #Leclerc #MonacoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Leclerc",
+            "#MonacoGP"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "For Charles Leclerc, Monaco isn't just a race — it's home.\n\nBorn and raised in Monte Carlo, Leclerc has spent his entire career trying to convert that emotional connection into sustained on-track success. He finally did it in 2024, winning his home Grand Prix after years of near-misses. Now he returns as the early race favorite at 21/10, with three Monaco poles already on his résumé and a car that looks tailor-made for the narrow streets.\n\nFerrari's SF-26 has been a revelation in low-speed corners all season. The active aero ban announced this week plays directly into that strength — without Straight Mode providing equalizing drag reduction on the straight sections, aerodynamic balance through the hairpins and chicanes becomes the decisive factor. Those are Ferrari's hunting grounds.\n\nAnd it's not just Ferrari insiders who see it this way. Lando Norris — himself a race winner and fierce Ferrari rival — alongside McLaren team boss Andrea Stella, have both tipped Ferrari for Monaco pole. When the defending champion's team is pointing at your rival as the favorite, that tells you something.\n\nThe statistics back it up too. In 27 of the last 30 Monaco Grand Prix races, the driver who started on pole went on to win. Qualifying on Saturday, June 6 at 3:00 PM local time could be the moment that decides the entire race.\n\nLeclerc knows that. He's been here before. And on the streets where he grew up, he intends to make his home count once again.",
+        "image_caption": "His home circuit. His best track. Ferrari's strongest territory. Charles Leclerc wants Monaco again. 🇲🇨 #F1 #Leclerc #MonacoGP",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-leclerc-monaco-homecoming-fourth-pole.html",
+        "headline": "Leclerc's Monaco Homecoming: A Fourth Pole, a Repeat Win, and Ferrari's Best Circuit",
+        "word_count": 479
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli Level-Headed With 43-Point Lead — \"Not Looking at the Championship\"",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kimi Antonelli on his 43-point F1 championship lead: \"I'm not looking at the championship.\"\n\n131 pts. 4 wins from 5 races. 19 years old.\n\nEven Russell says \"it's his to lose.\"\n\nMonaco can only add to the gap — or finally give Russell a lifeline. #F1 #Antonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "Four wins. Five races. One teenager who refuses to panic.\n\nKimi Antonelli arrives at Monaco leading the 2026 Formula 1 World Championship on 131 points — 43 clear of his Mercedes teammate George Russell. After his fourth consecutive win at the Canadian Grand Prix (where Russell retired from the lead on Lap 30 with a power unit failure), the narrative almost writes itself: this is Antonelli's championship to lose.\n\nEven Russell has said as much. \"It feels like it is his to lose now,\" the Briton told Sky Sports after Canada.\n\nBut Antonelli himself refuses to engage with the pressure. \"I'm not looking at the championship,\" he told reporters after Canada. \"I'm just focusing on each race weekend.\"\n\nThat composure, from a driver navigating the most intense intra-team rivalry in F1 while simultaneously running away with the title, is either extraordinarily mature or blissfully ignorant — and either way, it seems to be working.\n\nAt Monaco, the championship dynamics will be fascinating. Antonelli's Mercedes may not be the dominant car in the principality — Ferrari and their low-speed mastery loom large. A Leclerc win combined with a Russell podium could swing the gap. But if Antonelli does what Antonelli does, Monaco might be where he effectively ends the title race before summer has even begun.\n\nMercedes have drawn their \"red line\" — teammates can race, but not at the cost of the team's championship. Monaco's tight barriers don't forgive mistakes. Both drivers know the rules.\n\nThe 2026 title fight arrives at the world's most glamorous circuit. Watch how each side plays it.",
+        "image_caption": "131 pts. 4 wins in 5 races. And he says he's \"not looking at the championship.\" Kimi Antonelli is something else. 🏆 #F1 #Antonelli #MonacoGP",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-antonelli-championship-lead-monaco.html",
+        "headline": "Antonelli Has a 43-Point Championship Lead and Says He's \"Not Looking at It\"",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Verstappen's Monaco Shot — Exit Clause Clock Ticking",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Max Verstappen won Monaco in 2021 and 2023.\n\nHis Red Bull exit clause triggers if he's outside the top 2 by July 27.\n\nHe's currently 9th. Canada P3 was RBPT's first podium.\n\nMonaco is where he thrives. He needs a big result — and fast. ⏰ #F1 #Verstappen #MonacoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#MonacoGP"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "Max Verstappen won the Monaco Grand Prix in 2021. He won it again in 2023. And now, in 2026, he arrives at Monte Carlo knowing that what happens in June could determine where he drives for the rest of his F1 career.\n\nThe exit clause in Verstappen's Red Bull contract is among the most consequential documents in motorsport right now. The terms: if he is outside the top two in the drivers' championship when the summer break begins on July 27, he is free to activate the clause and leave the team. Right now, he sits ninth in the standings — a position that would trigger the escape hatch if things don't change dramatically.\n\nBut there is momentum. The Canadian Grand Prix delivered a genuine turning point: Verstappen finished third, earning Red Bull's first RBPT podium of the 2026 season. It was a result that proved the car can compete — not just survive. The gap to the front remains significant, but the trajectory changed.\n\nMonaco is the perfect scenario for a reset. At a circuit defined by driver ability over raw package performance, with no Straight Mode to punish cars that lack straight-line speed, the playing field tightens considerably. Verstappen has won here twice. He knows every centimetre of this track. He knows how to qualify on the limit and how to manage a race on these narrow streets.\n\nA Monaco win doesn't resolve the championship math. But it changes the conversation entirely. It keeps him in the title fight, calms the exit clause pressure, and reminds the paddock why Max Verstappen is still the four-time world champion.\n\nHe has until July 27 to make his choice. Monaco is the first major opportunity to change the equation.",
+        "image_caption": "2021 winner. 2023 winner. Exit clause ticking. Verstappen heads to Monaco needing a result — and this is exactly his circuit. ⏰ #F1 #Verstappen #MonacoGP",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-verstappen-exit-clause-monaco-chance.html",
+        "headline": "Verstappen's Monaco Shot: The Exit Clause Is Ticking and This Is His Best Circuit",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

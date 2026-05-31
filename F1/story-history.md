@@ -2028,3 +2028,48 @@
 - **Key facts:** Verstappen 7th in championship, 26 pts, zero wins/podiums. Nurburgring 24H DNF (30+ sec lead, driveshaft failure with hours remaining). RB Miami update "important step forward" per Mekies. New RB upgrade in Canada. Circuit not historically RB-strong.
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Canada sprint/qualifying/race result; RB upgrade effectiveness
+
+## 2026-05-31
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-05-31 | T1 | FIA bans active aero (Straight Mode) at Monaco — safety/"3-second rule"; first time banned since 2026 regs launched; Ferrari/Hamilton boost; Overtake Mode still available | X, FB, Article | NEW STORY |
+| 2026-05-31 | T1 | Hamilton targets first Ferrari win at Monaco — "probably better without simulator" quote; P2 Canada his best Ferrari result; 4/1 odds; active aero ban levels field | X, FB, Article | FOLLOW UP |
+| 2026-05-31 | T2 | Leclerc Monaco homecoming — 2024 winner, 3-time Monaco pole-sitter, 21/10 favorite, Norris/Stella tip Ferrari for pole, SF-26 low-speed excellence | X, FB, Article | FOLLOW UP |
+| 2026-05-31 | T2 | Antonelli 43-point lead at Monaco — 131-88 over Russell; 4 wins/5 races; "not looking at championship"; Russell "it's his to lose"; Wolff team orders red line | X, FB, Article | FOLLOW UP |
+| 2026-05-31 | T2 | Verstappen exit clause ticking — 9th in standings, clause triggers if outside top 2 by July 27; Canada P3 = RBPT first podium; 2021/2023 Monaco winner | X, FB, Article | FOLLOW UP |
+
+### STORY 1: FIA Bans Active Aero at Monaco
+- **Tier:** 1
+- **Category:** Technical / Regulation
+- **Key facts:** Active aero (Straight Mode) banned at Monaco GP 2026 by FIA. Reasons: (1) tyre grip limit throughout circuit, (2) "three second rule" — Straight Mode zones need 3+ seconds; Monaco straights too short. Straight Mode reduces drag ~20%, adds ~20 km/h. Overtake Mode still available. First time since 2026 regs launched. Ferrari/Hamilton benefit as power unit edge evaporates.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Race strategy implications; how teams adapted to fixed wings
+
+### STORY 2: Hamilton Monaco Win Quest
+- **Tier:** 1
+- **Category:** Driver Feature / Monaco Preview
+- **Key facts:** Hamilton P2 Canada = best 2026 Ferrari result. Skipped Ferrari simulator before Canada. Quote from Motorsport.com: "probably better without" simulator. Sky Sports: "quite damning" on Ferrari sim. Hamilton 4/1 Monaco odds (Leclerc 21/10). Active aero ban boosts Ferrari. Monaco = circuit where power matters least.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result; race result; simulator story aftermath
+
+### STORY 3: Leclerc Monaco Homecoming
+- **Tier:** 2
+- **Category:** Driver Feature
+- **Key facts:** Leclerc 2024 Monaco winner. 3-time Monaco pole-sitter (most among active drivers). 21/10 favorite. Norris AND Stella (McLaren boss) tip Ferrari for pole. Pole wins 27/30 Monaco GPs. SF-26 low-speed excellence. Active aero ban plays into Ferrari strengths.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result; race result
+
+### STORY 4: Antonelli Championship Lead
+- **Tier:** 2
+- **Category:** Championship Feature
+- **Key facts:** Antonelli 131 pts, Russell 88 pts, gap = 43 pts. 4 wins from 5 races. "Not looking at championship" quote. Russell: "it feels like it is his to lose now." Wolff "red line" — race freely but don't cost team championships. Monaco not natural Mercedes territory.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monaco qualifying/race result; championship gap after Monaco
+
+### STORY 5: Verstappen Exit Clause
+- **Tier:** 2
+- **Category:** Contract/Driver Feature
+- **Key facts:** Exit clause: if outside top 2 by July 27 summer break start, can leave Red Bull. Currently 9th. Canada P3 = RBPT first podium 2026. 2021 and 2023 Monaco winner. Clause inserted due to "apprehension" about 2026 RBPT engine competitiveness.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monaco result; July standings before summer break
