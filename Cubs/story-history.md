@@ -5,6 +5,55 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-05-31
+
+### STORY 1: Cubs 6, Cardinals 1 — Ben Brown Silences Busch in Game 2
+- **Angle:** NEW STORY (game recap). Ben Brown 7 IP, 3 H, 1 ER; PCA 4-for-5 with 444-ft solo HR in the 8th; Jacob Webb 8th straight scoreless relief outing; Cubs even series 1-1; 32-27
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Game 3 rubber game result (tonight)
+  - Ben Brown ERA trajectory (now sub-2.00)
+
+### STORY 2: Ben Brown — Sub-2.00 ERA, Rotation's Quiet Ace
+- **Angle:** FOLLOW UP (Ben Brown ongoing narrative). Bold take: with Horton out until 2027, Boyd on Iowa rehab, and Steele weeks from throwing, Brown is carrying the rotation at sub-2.00 ERA
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Continue tracking Brown's ERA through June
+  - Named ace narrative if/when media picks up
+
+### STORY 3: Series Finale — Wicks vs. Liberatore, 6:20 PM CT
+- **Angle:** NEW STORY (rubber game preview). Jordan Wicks (0-1, 16.62 ERA, 4.1 IP) vs Matthew Liberatore (2-3, 4.76 ERA); series tied 1-1; 6:20 PM CT at Busch Stadium; division implications
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 3 result recap (tomorrow's pipeline)
+
+### STORY 4: NL Central Watch — Brewers 34-21, Cubs 2 GB Back
+- **Angle:** FOLLOW UP (ongoing standings tracking). Brewers ~34-21, Cubs 32-27, Cardinals 30-26; winning tonight's rubber game keeps Cubs within 2 GB of division leader Milwaukee
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update after Game 3 result
+
+### STORY 5: Boyd Makes First Iowa Rehab Start — Return ETA Mid-June
+- **Angle:** FOLLOW UP (Boyd injury arc). Boyd made first of 2 planned Iowa rehab starts today; targeting return ~June 19; Steele still weeks from throwing; Wicks bridging the gap
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster update)
+- **Follow-Up Opportunities:**
+  - Boyd's second rehab start
+  - Boyd activation and first MLB start back
+
+### STORY 6: Rubber Game Tonight — Cubs Have the Momentum
+- **Angle:** NEW STORY (pre-game hype). After dominant 6-1 Game 2 win, Cubs carry momentum into rubber game at Busch; 6:20 PM CT; division series on the line
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 3 result (tomorrow's pipeline lead story)
+
+---
+
 ## 2026-05-29
 
 ### STORY 1: Cubs 7, Pirates 2 — Beat Skenes, Split Pittsburgh Series
