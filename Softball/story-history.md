@@ -3,6 +3,63 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## May 31, 2026
+
+### Story 1: Tennessee Walks Off Texas Tech 2-1 in 9 Innings — Emma Clarke Historic HR
+- **Date:** 2026-05-31
+- **Tier:** 1
+- **Classification:** NEW STORY (May 30 previewed Game 7; today covers the result — first WCWS walk-off in Tennessee program history)
+- **Angle:** Clarke 0-for-3 before walk-off solo HR in 9th inning. Taelyn Holley solo HR in 5th (1-0). Tech tied it before Clarke ended it. Sage Mardjetko 2.1 IP earned the win (16-2). Alannah Leach diving catch saved the inning. Clarke now has 4 tournament HRs — tied for 2nd. Tennessee advances to Monday's semifinal 2-0 at WCWS.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee's Monday semifinal vs. Texas or Nebraska
+  - Clarke's tournament HR total as it grows
+  - Mardjetko's role in championship run
+
+### Story 2: Alabama 5-1 Nebraska — Briski 1-Hitter Ends 27-Game Winning Streak
+- **Date:** 2026-05-31
+- **Tier:** 1
+- **Classification:** NEW STORY (May 30 previewed Game 8; today covers the result — Nebraska's 27-game streak ends)
+- **Angle:** Briski CG 1-hitter (6 K, 0 BB, 83 pitches). Perfect through 3.2 IP. Giles 3-run HR in 1st off Frahm (4 RBI total). Camenzind solo HR for Nebraska's only run. Frahm only 2 IP (recovering from 133-pitch Thursday). Nebraska's 27-game winning streak ends. Alabama 2-0 at WCWS, 56-7 overall.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Alabama's Monday semifinal vs. UCLA or Texas Tech
+  - Briski's Cy Young-caliber WCWS run
+  - Nebraska's legacy season summary
+
+### Story 3: Texas vs. Nebraska — WCWS Elimination Game 9 Preview (3 PM ABC)
+- **Date:** 2026-05-31
+- **Tier:** 2
+- **Classification:** NEW STORY — preview angle
+- **Angle:** Kavan (fresh, 78-pitch CG Thursday) vs. Frahm (2 IP Saturday, fatigue question). Winner faces Tennessee Monday. Texas split 2 regular-season games vs. Nebraska (W 15-10, L 8-5 at UTSA Invitational).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 9 result
+  - Kavan vs. Tennessee semifinal preview if Texas wins
+
+### Story 4: UCLA vs. Texas Tech — WCWS Elimination Game 10 Preview (7 PM ESPN)
+- **Date:** 2026-05-31
+- **Tier:** 2
+- **Classification:** NEW STORY — preview angle
+- **Angle:** Grant (42 HRs, NCAA record) vs. Canady (7.16 WCWS ERA, needs bounce-back). Winner faces Alabama Monday. Both senior stars' seasons on the line.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 10 result
+  - Grant's continued record chase if UCLA advances
+  - Canady's legacy if Tech eliminated
+
+### Story 5: WCWS Semifinal Picture — Tennessee and Alabama Advance
+- **Date:** 2026-05-31
+- **Tier:** 2
+- **Classification:** NEW STORY — bracket update
+- **Angle:** Tennessee and Alabama in Monday's semis. Tennessee vs. Texas/Nebraska winner (noon ET ESPN); Alabama vs. UCLA/Texas Tech winner (7 PM ET ESPN). Championship series June 3.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Monday's semifinal previews
+  - Championship series preview (June 3)
+
+---
+
 ## May 30, 2026
 
 ### Story 1: Megan Grant Hits Record 42nd HR — UCLA Runs Over Arkansas 11-0

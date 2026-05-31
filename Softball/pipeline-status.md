@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-05-31
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (80 claims, 0 char violations, consistency clean), compile (5 stories, 6 tweets, 5 FB posts, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via cherry-pick after non-fast-forward resolved.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). 0 char violations. Non-fast-forward resolved via pull + cherry-pick.
+- **Key Stories**: Tennessee 2-1 Texas Tech 9 innings/Emma Clarke walk-off solo HR in 9th/first WCWS walk-off in Vols program history/Clarke 4 tournament HRs/Mardjetko 2.1 IP win (Tier 1), Alabama 5-1 Nebraska/Briski CG 1-hitter 6K 0BB 83 pitches/Giles 4 RBI 3-run HR/Frahm 2 IP/Nebraska 27-game streak ends (Tier 1), Texas vs Nebraska elimination Game 9 3PM ABC/Kavan fresh vs Frahm depleted (Tier 2), UCLA vs Texas Tech elimination Game 10 7PM ESPN/Grant 42 HRs vs Canady 7.16 WCWS ERA (Tier 2), Tennessee+Alabama semifinal slots set/Monday semis/championship series June 3 (Tier 2)
+
+## Previous Run
 - **Date**: 2026-05-30
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed S5T1 282→258; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (48 claims, 0 char violations, consistency clean), compile (5 stories, 6 tweets, 0 FB posts, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via cherry-pick after detached HEAD resolved.
 - **Dashboard Published**: Attempted — https://fangearhq-boop.github.io/ilovesoftball-dashboards/

@@ -1,0 +1,295 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-05-31",
+  "compiled_at": "2026-05-31T10:18:25.755129+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM ET",
+      "description": "X Text Post (Story 1 walk-off result)",
+      "type": "Tennessee 2-1 Texas Tech"
+    },
+    {
+      "time": "9:30 AM ET",
+      "description": "X Text Post (Story 1 Clarke context)",
+      "type": "Tennessee walk-off"
+    },
+    {
+      "time": "11:00 AM ET",
+      "description": "X Text Post (Story 2 Briski/Alabama)",
+      "type": "Alabama 5-1 Nebraska"
+    },
+    {
+      "time": "11:30 AM ET",
+      "description": "X Text Post (Story 3 Texas vs. Nebraska preview)",
+      "type": "Game 9 elimination"
+    },
+    {
+      "time": "3:00 PM ET",
+      "description": "X Text Post (Story 4 UCLA vs. Tech preview)",
+      "type": "Game 10 elimination"
+    },
+    {
+      "time": "5:30 PM ET",
+      "description": "X Text Post (Story 5 bracket update)",
+      "type": "Semifinal picture"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tennessee Walks Off Texas Tech 2-1 in 9 Innings — Clarke HR Makes History (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Emma Clarke was 0-for-3 entering the 9th inning. 🥎\n\nThen she hit a walk-off solo homer to send Tennessee to the WCWS semifinals.\n\nFirst walk-off win in Vols program history. Tennessee 2, Texas Tech 1.\n\n#VolsSoftball #WCWS #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#VolsSoftball",
+            "#WCWS",
+            "#NCAASoftball"
+          ],
+          "char_count": 235
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Emma Clarke now has 4 home runs in the 2026 NCAA tournament.\n\nThat's tied for 2nd most in the entire field.\n\nShe saved Tennessee's season in the 9th inning. 🥎\n\n#VolsSoftball #WCWS #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#VolsSoftball",
+            "#WCWS",
+            "#NCAASoftball"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "Emma Clarke stepped to the plate in the bottom of the 9th inning with her team tied 1-1, and she was 0-for-3 on the day.\n\nWhat happened next will be in Tennessee softball history books forever.\n\nClarke lifted a solo home run to end it — the first walk-off in WCWS history for the Vols program. Tennessee 2, Texas Tech 1. Final. The Lady Vols are in the semifinals.\n\nTaelyn Holley had gotten Tennessee on the board first with a solo shot in the 5th inning. Texas Tech tied it before Sage Mardjetko came on in relief and held the Red Raiders at bay, setting up Clarke's legendary 9th-inning moment.\n\nClarke now has 4 home runs in this NCAA tournament — tied for 2nd in the entire field. Not bad for someone who had been shut down for three straight at-bats before the game was on the line.\n\nTennessee faces the winner of Texas vs. Nebraska in Monday's semifinal. The Vols are rolling, and Clarke's walk-off is the kind of moment that defines a championship run. 🥎",
+        "image_caption": "Emma Clarke was 0-for-3. Then she hit a walk-off homer in the 9th. First walk-off in Vols WCWS history. Tennessee is in the semifinals. 🥎 #VolsSoftball #WCWS",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-emma-clarke-walk-off-homer-tennessee-defeats-texas-tech-wcws-2026.html",
+        "headline": "Emma Clarke's Walk-Off Blast Sends Tennessee to WCWS Semifinals",
+        "word_count": 634
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tennessee Walks Off Texas Tech 2-1 in 9 Innings\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Emma Clarke Tennessee\n2. Tennessee Volunteers softball\n3. Taelyn Holley Tennessee\n4. Sage Mardjetko Tennessee\n\n**Text Overlay Copy:**\n- Headline: \"WALK-OFF HOMER\"\n- Subtitle: \"Clarke sends Tennessee to the semis\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nCelebratory/action image of Emma Clarke or Tennessee dugout celebration. Semi-transparent dark overlay bar at bottom third. Orange/white Tennessee brand colors visible in subject's uniform.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee Walks Off Texas Tech 2-1 in 9 Innings\n**Classification:** NEW STORY\n**Justification:** May 30 covered the preview of Game 7 (Tennessee vs. Texas Tech). Today covers the result — Tennessee's walk-off win, the first WCWS walk-off in program history.\n**Sources:**\n1. Saturday Down South — \"Emma Clarke sends Tennessee to WCWS semifinals with walk-off blast, downing No. 11 Texas Tech\" (May 30, 2026)\n2. Yahoo Sports — \"Tennessee softball stifles Texas Tech for Emma Clarke walk-off home run at WCWS\" (May 30, 2026)\n3. ESPN — \"College softball 2026: Tennessee walks it off against Texas Tech\" (May 30, 2026)\n4. Rocky Top Insider — Live updates/score, Tennessee vs. Texas Tech WCWS Game 7 (May 30, 2026)\n5. Texas Tech Athletic Dept. — \"Tech falls in extra innings to Tennessee at WCWS\" (May 30, 2026)\n**Key Facts:**\n- Final score: Tennessee 2, Texas Tech 1 (9 innings) [HIGH — multiple sources]\n- Emma Clarke hit the walk-off solo HR in the bottom of the 9th inning [HIGH — multiple sources]\n- Clarke was 0-for-3 before her 9th-inning at-bat [HIGH — Saturday Down South]\n- First WCWS walk-off win in Tennessee program history [HIGH — Saturday Down South]\n- Taelyn Holley hit a leadoff solo HR in the 5th inning for the 1-0 lead [HIGH — multiple sources]\n- Clarke has 4 HRs in the 2026 NCAA tournament, tied for 2nd in the field behind UCLA's Aleena Garcia [HIGH — Saturday Down South]\n- Sage Mardjetko (16-2) entered in relief and earned the win, pitching 2.1 innings [HIGH — multiple sources]\n- Mardjetko's final out was an Alannah Leach diving catch in left field [HIGH — Saturday Down South]\n- NiJaree Canady pitched 3.2 IP in relief, allowing 2 hits including Holley's HR, striking out 3 [HIGH — Rocky Top Insider]\n- Texas Tech now drops to elimination game vs. UCLA, 7 PM ET ESPN Sunday\n**Freshness Verification:** Published May 30, 2026 — result from yesterday's game. Fresh; nothing like it covered previously by I Love Softball.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Alabama Ends Nebraska's 27-Game Streak — Briski Dominates with a 1-Hitter (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Jocelyn Briski threw a complete-game 1-hitter.\n\n6 strikeouts. 0 walks. Perfect through 3.2 innings.\n\nAlabama 5, Nebraska 1. Nebraska's 27-game winning streak is over. 🥎\n\n#RollTide #WCWS #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#WCWS",
+            "#NCAASoftball"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "All week, the question was: Can Jordy Frahm recover after throwing 133 pitches on Thursday?\n\nSaturday night, Alabama answered it decisively.\n\nJocelyn Briski threw a complete-game 1-hitter — perfect through 3.2 innings, 6 strikeouts, zero walks, 83 pitches. Meanwhile, Marlie Giles hit a 3-run home run off Frahm in the very first inning to set the tone early.\n\nFrahm lasted only 2 innings. Nebraska's coaches knew the risk. Alabama knew the opportunity. The Crimson Tide took it.\n\nThe only blemish on Briski's night: Hannah Camenzind's solo homer in the 4th — a consolation run in what ended as a 5-1 Alabama victory.\n\nNebraska's 27-game winning streak — the longest active streak in the country when the WCWS began — is over. But what a season the Huskers had. Getting to this stage after a 13-year WCWS drought was already extraordinary.\n\nAlabama is 2-0 at the WCWS. They look unbeatable. Briski and Giles are playing the best softball of their lives. The Tide awaits the winner of UCLA vs. Texas Tech on Monday. 🥎",
+        "image_caption": "Briski: 1 hit, 6 strikeouts, 0 walks. Giles: 4 RBI. Alabama ends Nebraska's 27-game winning streak. The Tide are rolling. 🥎 #RollTide #WCWS",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-briski-1-hitter-alabama-ends-nebraska-27-game-streak-wcws-2026.html",
+        "headline": "Briski's 1-Hitter Leads Alabama Past Nebraska 5-1, Ending 27-Game Win Streak",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Ends Nebraska's 27-Game Streak — Briski's 1-Hitter\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Jocelyn Briski Alabama\n2. Marlie Giles Alabama\n3. Alabama Crimson Tide softball\n4. Jordy Frahm Nebraska\n\n**Text Overlay Copy:**\n- Headline: \"STREAK OVER\"\n- Subtitle: \"Briski's 1-hitter ends Nebraska's 27-game run\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nBriski pitching in full windup — dominant, determined expression. Or Giles at the plate. Alabama's crimson and white palette. Dark overlay bar at bottom third of frame.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alabama Ends Nebraska's 27-Game Streak — Briski's 1-Hitter\n**Classification:** NEW STORY\n**Justification:** May 30 covered the preview of Game 8 (Nebraska vs. Alabama). Today covers the result — Briski's dominant CG, Giles' 4 RBI, Nebraska's 27-game streak ended.\n**Sources:**\n1. Washington Post — \"Marlie Giles drives in 4 runs, Jocelyn Briski allows 1 hit and Alabama beats Nebraska 5-1 at WCWS\" (May 30, 2026)\n2. Yahoo Sports — \"Women's College World Series scores, results: Alabama dominates Nebraska, Tennessee outlasts Texas Tech\" (May 30, 2026)\n3. Field Level Media — \"Jocelyn Briski shuts down Nebraska, leads Alabama to WCWS semifinals\" (May 30, 2026)\n4. Chattanooga Times Free Press — \"Alabama cruises past Nebraska to remain unbeaten at WCWS\" (May 30, 2026)\n5. Omaha World-Herald — \"'Bad News Bears for a minute': Early miscues cost Nebraska softball in WCWS loss to Alabama\" (May 30, 2026)\n6. Sports Illustrated/Nebraska — \"Nebraska Softball Falls to Alabama After Costly First Inning\" (May 30, 2026)\n**Key Facts:**\n- Final score: Alabama 5, Nebraska 1 [HIGH — multiple sources]\n- Jocelyn Briski threw a CG 1-hitter, 6 K, 0 BB, 83 pitches (62 strikes) [HIGH — Washington Post, Field Level Media]\n- Briski had a perfect game through 3.2 innings [HIGH — Field Level Media]\n- Marlie Giles hit a 3-run HR off Frahm in the 1st inning (3-0 lead); added a sac fly in 3rd (4-0); total 4 RBI [HIGH — Washington Post]\n- Hannah Camenzind solo HR to center field in the 4th — Nebraska's only run [HIGH — Washington Post]\n- Jordy Frahm started but only pitched 2 innings (still recovering from 133-pitch outing Thursday) [HIGH — Omaha World-Herald, SI/Nebraska]\n- Frahm walked the first batter, hit a batter, left a pitch up that got hit hard — Revelle noted she \"didn't have her best stuff\" [HIGH — Omaha World-Herald]\n- Nebraska's 27-game winning streak — longest active in country — ended [HIGH — multiple sources]\n- Alabama advances to Monday's semifinal 2-0 at the WCWS (56-7 overall)\n**Freshness Verification:** Published May 30, 2026 — result from yesterday's game. Fresh; no prior I Love Softball coverage of this result.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Texas vs. Nebraska — Elimination Game 9 Today at 3 PM ET on ABC (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Texas vs. Nebraska. Elimination game. 3 PM on ABC. 🥎\n\nTeagan Kavan is fresh off a 78-pitch complete game.\n\nJordy Frahm went 2 innings Saturday after 133 pitches Thursday.\n\nWinner plays Tennessee on Monday. Loser goes home.\n\n#HookEm #Huskers #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#Huskers",
+            "#NCAASoftball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "Two of the most compelling teams left in the WCWS meet today in an elimination game.\n\nDefending champion Texas is still alive — barely. Teagan Kavan threw a 78-pitch complete-game shutout Thursday to beat Mississippi State. She's rested, sharp, and ready for today's 3 PM ABC matchup against Nebraska.\n\nOn the other side, Nebraska is battling back after Saturday's 5-1 loss to Alabama. Jordy Frahm was limited to 2 innings that game — still working through the fatigue of a 133-pitch Thursday outing. The big question: Is Frahm available today? And if so, can she be the ace Nebraska needs?\n\nBoth teams split their regular-season matchup (Texas won 15-10, lost 8-5 at UTSA Invitational in January). This is different. This is the WCWS. This is win or go home.\n\nThe winner plays Tennessee on Monday. The loser's season ends at Devon Park today.\n\nTexas is the defending national champion. Nebraska is the feel-good story of the year. One of these seasons ends this afternoon. 🥎",
+        "image_caption": "Defending champion Texas vs. Nebraska. Elimination game. 3 PM on ABC. The WCWS doesn't get bigger than this. 🥎 #HookEm #Huskers #NCAASoftball",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-texas-vs-nebraska-wcws-elimination-game-9-preview-2026.html",
+        "headline": "Texas vs. Nebraska: Defending Champs Face Elimination at 3 PM on ABC",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas vs. Nebraska — Elimination Game 9\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Teagan Kavan Texas\n2. Jordy Frahm Nebraska\n3. Texas Longhorns softball\n4. Nebraska Cornhuskers softball\n\n**Text Overlay Copy:**\n- Headline: \"WIN OR GO HOME\"\n- Subtitle: \"Texas vs. Nebraska — 3 PM ABC\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nSide-by-side feel — Texas's burnt orange vs Nebraska's red/white. Or a single ace mid-pitch. Dark overlay bar, urgent energy.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas vs. Nebraska — Elimination Game 9 Preview\n**Classification:** NEW STORY — preview angle\n**Justification:** Both teams previously covered (May 29/30) but this specific matchup is new. Nebraska lost Saturday; Texas survived vs. MSU. Sunday's elimination game is a new story.\n**Sources:**\n1. Yahoo Sports — \"Texas softball: Will familiarity help Longhorns prepare for Nebraska vs Alabama winner?\" (May 30, 2026)\n2. ESPN — WCWS schedule/bracket page (May 30, 2026)\n3. CBS Sports — 2026 WCWS bracket (May 30/31, 2026)\n**Key Facts:**\n- Game 9: Texas vs. Nebraska, 3 PM ET, ABC [HIGH — multiple sources]\n- Winner advances to Monday's semifinal vs. Tennessee [HIGH — ESPN schedule]\n- Texas beat Alabama 7-1 in SEC championship (Kavan CG 3-hit shutout) [HIGH — prior research notes]\n- Texas split 2 games vs. Nebraska at UTSA Invitational: W 15-10, L 8-5 [HIGH — Yahoo Sports]\n- Kavan threw 78 pitches vs. MSU Thursday (got 600th career K) — fresh and available [HIGH — prior research]\n- Frahm pitched only 2 innings Saturday after her 133-pitch outing Thursday [HIGH — Story 2 research above]\n**Freshness Verification:** Game is today, May 31, 2026 at 3 PM ET. Preview is timely.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "UCLA vs. Texas Tech — Grant and Canady Both Need a Win Tonight (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Megan Grant. NiJaree Canady. Tonight. 7 PM on ESPN. 🥎\n\nGrant has 42 home runs this season — an NCAA record.\n\nCanady has been the best pitcher in college softball all year.\n\nOne of them doesn't play Monday. Don't miss it.\n\n#GoBruins #WreckEm #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoBruins",
+            "#WreckEm",
+            "#NCAASoftball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "This is the game you do not want to miss tonight.\n\nMegan Grant has hit 42 home runs this season. That's the NCAA single-season record she set last week, and she keeps adding to it. Grant also broke the UCLA all-time career record with her 91st home run Friday. She is having one of the greatest individual seasons in college softball history — and tonight it's all on the line.\n\nOn the other side: NiJaree Canady. The Texas Tech ace entered the 2026 WCWS as arguably the most decorated pitcher in college softball, with a 1.62 season ERA. The WCWS has been a different story — a 7.16 ERA in 14-plus innings. She allowed Tennessee's walk-off homer in her last appearance.\n\nCanady is going to need her absolute best tonight against a UCLA lineup that can rake.\n\nThis is Grant's last shot at a national title. It's Canady's last shot too. One of them is eliminated tonight. The winner gets Alabama on Monday in the semifinals.\n\nAppointment television. 7 PM on ESPN. 🥎",
+        "image_caption": "Megan Grant (42 HRs, NCAA record) vs. NiJaree Canady (1.62 ERA all season). Two legends. Elimination game. Tonight at 7 PM on ESPN. 🥎 #GoBruins #WreckEm #WCWS",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ucla-vs-texas-tech-wcws-elimination-game-10-grant-canady-2026.html",
+        "headline": "Grant vs. Canady: UCLA and Texas Tech Meet in WCWS Must-Win Game Tonight",
+        "word_count": 652
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "UCLA vs. Texas Tech — Elimination Game 10\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Megan Grant UCLA\n2. NiJaree Canady Texas Tech\n3. UCLA Bruins softball\n4. Texas Tech Red Raiders softball\n\n**Text Overlay Copy:**\n- Headline: \"GRANT VS. CANADY\"\n- Subtitle: \"UCLA vs. Texas Tech — 7 PM ESPN\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nFeature Grant in mid-swing or at the plate — power pose. UCLA gold and blue palette. Canady alternate for pitching focus image. Dark overlay bar at bottom with text.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "UCLA vs. Texas Tech — Elimination Game 10 Preview\n**Classification:** NEW STORY — preview angle\n**Justification:** Both teams previously covered but this specific matchup is new. Texas Tech lost Saturday; UCLA survived Arkansas. Tonight's elimination game is a new story.\n**Sources:**\n1. ESPN — \"College softball 2026: NiJaree Canady and Texas Tech WCWS goals\" (May 2026)\n2. Yahoo Sports — WCWS bracket/schedule (May 30, 2026)\n3. Rocky Top Insider/Texas Tech stats — NiJaree Canady WCWS stats\n**Key Facts:**\n- Game 10: UCLA vs. Texas Tech, 7 PM ET, ESPN [HIGH — multiple sources]\n- Winner advances to Monday's semifinal vs. Alabama [HIGH — ESPN schedule]\n- Megan Grant has 42 HRs (NCAA single-season record), 91 career HRs (UCLA record) [HIGH — from May 30 research]\n- Canady had 7.16 ERA in 14.2 IP at the 2026 WCWS [HIGH — Rocky Top Insider/search results]\n- Texas Tech entered the tournament with 1.62 ERA (3rd-best in nation); had 6.46 ERA at WCWS [HIGH — Rocky Top Insider]\n- Canady pitched 3.2 IP in Game 7 vs. Tennessee, allowing 2 hits, striking out 3\n**Freshness Verification:** Game is tonight, May 31, 2026 at 7 PM ET. Preview is timely.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "WCWS Semifinal Picture — Four Teams, Monday's Matchups Set (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "WCWS 2026 update:\n\nIn the semifinals: Tennessee ✅  Alabama ✅\n\nPlaying today for the final two spots:\n🥎 Texas vs. Nebraska — 3 PM ABC\n🥎 UCLA vs. Texas Tech — 7 PM ESPN\n\nChampionship series starts June 3.\n\n#NCAASoftball #WCWS #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NCAASoftball",
+            "#WCWS",
+            "#CollegeSoftball"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "Here's where we stand heading into Sunday's elimination games at Devon Park.\n\nTennessee and Alabama have punched their tickets to Monday's semifinals. Tennessee won on Emma Clarke's walk-off in the 9th inning (Game 7). Alabama dominated Nebraska 5-1 behind Briski's 1-hitter and Giles' 4 RBI night (Game 8).\n\nToday, two more teams join them — or go home trying.\n\n🥎 Game 9: Texas vs. Nebraska — 3 PM ET on ABC\nWinner faces Tennessee on Monday\n\n🥎 Game 10: UCLA vs. Texas Tech — 7 PM ET on ESPN\nWinner faces Alabama on Monday\n\nThe Monday semifinal matchups will be set by tonight. Then the championship series begins Wednesday, June 3.\n\nFour teams will still be playing on Monday morning. Six are playing today. And two go home before the day ends.\n\nThat's the WCWS. 🥎",
+        "image_caption": "Tennessee ✅ Alabama ✅ Two more spots left. Texas, Nebraska, UCLA, and Texas Tech play today to fill them. WCWS semifinals are Monday. Championship series starts June 3. 🥎 #NCAASoftball #WCWS",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wcws-2026-semifinal-bracket-preview-tennessee-alabama-2026.html",
+        "headline": "WCWS 2026: Tennessee and Alabama Are In. Four Teams Fight for Two More Spots Today.",
+        "word_count": 592
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCWS Semifinal Picture\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. WCWS Devon Park softball\n2. Women's College World Series Oklahoma City\n3. NCAA softball tournament crowd\n4. Oklahoma City softball stadium\n\n**Text Overlay Copy:**\n- Headline: \"FINAL FOUR TAKING SHAPE\"\n- Subtitle: \"WCWS Semifinals — Monday\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nWide shot of Devon Park — stadium, crowd energy, the venue itself. Big-picture bracket-status image. Dark overlay bar at bottom third."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WCWS Semifinal Picture\n**Classification:** NEW STORY — bracket/status angle\n**Justification:** Daily bracket update. Two teams are now confirmed semifinalists; two spots determined today.\n**Sources:**\n1. ESPN — WCWS schedule (May 30–31, 2026)\n2. NCAA.com — WCWS bracket (May 30, 2026)\n3. On3 — WCWS bracket update (May 30, 2026)\n**Key Facts:**\n- Tennessee and Alabama advance to Monday's semifinals [HIGH — multiple sources]\n- Monday semifinal pairings: Tennessee vs. Texas/Nebraska winner (noon ET, ESPN); Alabama vs. UCLA/Tech winner (7 PM ET, ESPN) [HIGH — ESPN schedule]\n- Championship series begins June 3 [HIGH — NCAA.com]\n- Four teams remain: Tennessee, Alabama, plus winner of Texas/Nebraska and winner of UCLA/Tech\n- Nebraska and Texas Tech drop to elimination bracket today\n**Freshness Verification:** Bracket status confirmed from multiple sources after Saturday's games.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
