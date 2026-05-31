@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-30
+- **Date**: 2026-05-31
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-31
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-05-31.xlsx (7 posts) + hh-postplanner-tobi-2026-05-31.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-05-31/review-dashboard.html (27 items)
+- **Notes:** Spurs 111 Thunder 103 WCF G7 (Wemby 22/7, Champagnie 20 on 6 threes, Castle 16/6/6, Fox 15, SGA 35/9 not enough; Wemby WCF MVP 27.3/10.9/2.7 BPG; SA first Finals since 2014); NBA Finals set Knicks vs Spurs (1999 rematch; G1 June 3 8:30PM ET ABC at SA; Spurs -196/home court 62-20; Knicks 11-game win streak/ECF sweep/Brunson ECF MVP 27.8 PPG); Rick Brunson 1999 Knicks connection — son Jalen now leads Knicks back vs same Spurs 27 years later
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-30
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

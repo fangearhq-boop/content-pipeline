@@ -2289,3 +2289,48 @@
 - **Key facts:** Brunson grew up Union NJ; dad Rick Brunson played for Knicks; signed from Dallas 2022; Brunson 27.8 PPG/6.7 APG playoffs; 25.5 PPG/7.8 APG ECF; leads Knicks to first Finals since 1999.
 - **Status:** NEW STORY
 - **Follow-up ideas:** Finals performance; Brunson legacy; deeper Knicks history piece
+
+## 2026-05-31
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-05-31 | T1 | Spurs win WCF Game 7 111-103 over Thunder — Wemby 22/7, Champagnie 20 on 6 threes, Castle 16/6/6, Fox 15, SGA 35/9 not enough; San Antonio advances to NBA Finals for first time since 2014; Wemby named WCF MVP | X, FB, Article | NEW STORY |
+| 2026-05-31 | T1 | NBA Finals set: Knicks vs. Spurs — 1999 rematch; G1 June 3 8:30 PM ET ABC at SA; Spurs -196 (62-20, home court); Knicks +164 (11-game win streak, ECF sweep, Brunson ECF MVP 27.8 PPG) | X, FB, Article | NEW STORY |
+| 2026-05-31 | T2 | Wembanyama named WCF MVP — series: 27.3 PPG/10.9 RPG/3.1 APG/2.7 BPG/1.4 SPG over 37.7 min/game; 22 years old; breaking Tim Duncan Spurs postseason records | X, FB, Article | NEW STORY |
+| 2026-05-31 | T2 | SGA 35/9 in Game 7 loss — graceful elimination quote "they were just the better team"; "let Sam Presti do his job" on offseason; Williams out (hamstring); OKC exits defending champs | X, FB, Article | FOLLOW UP |
+| 2026-05-31 | T2 | Brunson family 1999 rematch — Rick Brunson played for 1999 Knicks who lost Finals to Spurs; Jalen now leads Knicks back vs. same Spurs, 27 years later; grew up Union NJ | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Spurs Win WCF Game 7 — Advance to NBA Finals
+- **Tier:** 1
+- **Category:** Game Recap / Western Conference Finals
+- **Key facts:** Spurs 111, Thunder 103, May 30 2026, Paycom Center OKC. Wemby: 22 pts/7 reb/42 min. Champagnie: 20 pts/6 threes. Castle: 16/6/6. Fox: 15 pts. Seven Spurs in double figures. SGA: 35 pts/9 ast. Jalen Williams OUT (hamstring). Spurs first Finals since 2014.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Finals Game 1 preview; Wemby vs Brunson matchup analysis
+
+### STORY 2: NBA Finals Set — Knicks vs. Spurs (1999 Rematch)
+- **Tier:** 1
+- **Category:** NBA Finals Preview
+- **Key facts:** G1 June 3, 8:30 PM ET, ABC, at SA. G2 June 5 SA. G3 June 8 NY. G4 June 10 NY. Spurs -196 (FanDuel). Spurs 62-20 (home court). Knicks 53-29. 11-game Knicks win streak. Brunson ECF MVP 27.8 PPG/6.7 APG. 1999 rematch (Spurs won 4-1 that year).
+- **Status:** NEW STORY
+- **Follow-up ideas:** Finals G1 preview; individual matchup breakdowns; home court analysis
+
+### STORY 3: Wembanyama WCF MVP
+- **Tier:** 2
+- **Category:** Player Award / Feature
+- **Key facts:** Wemby WCF MVP official. Series: 27.3 PPG/10.9 RPG/3.1 APG/2.7 BPG/1.4 SPG/2.3 3P per game, 37.7 min. Age 22. Breaking Tim Duncan Spurs postseason records.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Finals performance; historical big-man comparisons
+
+### STORY 4: SGA 35-Point Game 7 Exit
+- **Tier:** 2
+- **Category:** Player Spotlight / Game Recap
+- **Key facts:** SGA: 35 pts/9 ast/4 reb/2 stl/2 blk. Quote: "They were just the better team tonight, from start to finish." On offseason: "I will give zero input. I will let Sam Presti, the greatest GM ever, do his job." Williams out (hamstring). Cason Wallace 17 pts.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Thunder offseason moves; SGA contract/future
+
+### STORY 5: Brunson 1999 Connection
+- **Tier:** 2
+- **Category:** Human Interest / Finals Feature
+- **Key facts:** Rick Brunson was on 1999 Knicks roster (reserve guard). Jalen grew up Union NJ. 1999 Finals: Spurs won 4-1. Jalen signed from Dallas 2022. Jalen quote: "We're still writing our story, but I like the journey that we're on right now." In 3 regular season/NBA Cup meetings vs Spurs: Brunson averaged 26 PPG/4 RPG/8 APG on 42/42/88 splits.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Finals G1 performance; Brunson vs Wemby head-to-head
