@@ -698,3 +698,48 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** LIV Golf Korea: May 28-31, Asiad CC, Busan, South Korea. LIV's first event on Korean soil. Herbert leads individual standings (won Virginia wire-to-wire). Rahm won Mexico City by 6 shots. South Korea has deep golf culture. Significant Asia-Pacific market for LIV.
 - **Status:** FOLLOW UP (from 2026-05-22 LIV Korea preview)
 - **Follow-up ideas:** Korea R1 results; Herbert vs Rahm standings battle
+
+## 2026-05-31
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-05-31 | T1 | Schwab Challenge R4: Cole leads at -12 (Gerard -11, Meissner -10); combined 1 PGA Tour win in final group; Cole seeking first win; Matsuyama -9 T8, Åberg -7 T12 (new putter); Fowler/Finau MC | X, FB, Article | NEW STORY |
+| 2026-05-31 | T1 | US Women's Open 2026 preview (June 4-7, Riviera CC) — Korda 3W/3RU in 6 starts, 18 career titles, Sorenstam 2001 comparison; Thitikul World No. 1; Stark defending; first USGA women's major at Riviera | X, FB, Article | FOLLOW UP |
+| 2026-05-31 | T2 | LIV Golf Korea R4: Niemann/Gooch co-lead at -9; Crushers GC lead teams; DeChambeau lurks; inaugural LIV event at Asiad CC Busan | X, FB, Article | FOLLOW UP |
+| 2026-05-31 | T2 | Korda 2026 dominance feature — 3 wins + 3 runners-up in 6 starts, tying Sorenstam 2001; 18th career LPGA title (youngest American since Nancy Lopez); US Women's Open next | X, FB, Article | FOLLOW UP |
+| 2026-05-31 | T2 | Åberg win drought — new putter at Colonial, T12 at -7 through R3; still no win since Genesis Invitational; Fowler (70-73) and Finau (70-70) missed cut | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Schwab Challenge R4 — Cole Leads
+- **Tier:** 1
+- **Category:** PGA Tour / Final Round
+- **Key facts:** Cole -12 leads after R3 63 (8 birdies/1 bogey). Gerard -11. Meissner -10. Final group has 1 combined PGA Tour win. Cole seeking first. Matsuyama -9 T8. Åberg -7 T12 (putter switch). Fowler/Finau MC (cut at -2). Final group tee time 12:55 PM EDT. Golf Channel/ESPN+.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Final round winner; Cole first win recap
+
+### STORY 2: US Women's Open Preview
+- **Tier:** 1
+- **Category:** LPGA / Major Preview
+- **Key facts:** 81st USWO at Riviera CC, Pacific Palisades, CA. June 4-7. First USGA women's major at Riviera. 1,897 entries, all top 25 in field. Korda 3W/3RU in 6 starts, 18th career LPGA title, youngest American to reach 18 since Nancy Lopez; tied Sorenstam 2001 (win or RU every start). Thitikul World No. 1. Stark defending. 11 past champions entered.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1/R2 leaderboard; Korda performance
+
+### STORY 3: LIV Golf Korea Final Round
+- **Tier:** 2
+- **Category:** LIV Golf / Final Round
+- **Key facts:** Niemann/Gooch co-lead at -9 after R3. Crushers GC lead team standings. DeChambeau lurking. First LIV event in Korea (Asiad CC, Busan). Final round today May 31.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Winner announcement
+
+### STORY 4: Korda 2026 Season Feature
+- **Tier:** 2
+- **Category:** Player Feature / LPGA
+- **Key facts:** 3 wins in 6 starts (Chevron Championship, Riviera Maya Open at Mayakoba, + 1 more). 3 runner-ups. Never outside top 2. Tied Sorenstam 2001. 18th career title = youngest American since Nancy Lopez (Golf Digest). US Women's Open June 4-7 next target. Thitikul World No. 1. Stark defending.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** US Women's Open result
+
+### STORY 5: Åberg Win Drought
+- **Tier:** 2
+- **Category:** Player Feature
+- **Key facts:** Åberg T12 at -7 through R3. Switched putters before Schwab Challenge. Last win: Genesis Invitational. Multiple top-10s in 2026 without win. Fowler MC (70-73). Finau MC (even par). Cut at -2.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final round result; win drought continues or ends

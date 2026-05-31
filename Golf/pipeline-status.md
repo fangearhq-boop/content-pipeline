@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-29
+- **Date**: 2026-05-31
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-05-31
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-05-31.xlsx (7 posts) + gfr-postplanner-tobi-2026-05-31.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-05-31/review-dashboard.html (27 items)
+- **Notes:** Schwab Challenge R4: Cole -12 leads (Gerard -11, Meissner -10); combined 1 Tour win in final group; Matsuyama -9 T8, Åberg -7 T12 (putter switch); Fowler/Finau MC (cut -2); US Women's Open preview (June 4-7, Riviera CC, first USGA women's major at Riviera; Korda 3W/3RU in 6 starts/18 career titles/Sorenstam 2001 comparison; Thitikul World No. 1; Stark defending); LIV Korea R4: Niemann/Gooch co-lead -9 (Crushers GC team lead); Korda 2026 dominance feature
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-05-29
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
