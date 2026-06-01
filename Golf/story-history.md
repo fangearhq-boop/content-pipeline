@@ -4,6 +4,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-06-01 | T1 | Russell Henley wins 2026 Schwab Challenge in playoff over Eric Cole — both -12 after 72 holes; Henley made 3 consecutive birdies 16-17-18 to force OT, then 4th consecutive birdie in sudden death; $1,782,000 of $9,900,000 purse; T3: Meissner/Smalley/Griffin (defending) | X, FB, Article | NEW STORY |
+| 2026-06-01 | T1 | Joaquin Niemann wins LIV Golf Korea in playoff over Talor Gooch — both -12; Niemann birdie on 18th par-4 in sudden death; career win No. 8 (most in LIV history, 3 clear of any other player); $4M of $20M purse; Crushers GC team title (-23, 3 shots clear) | X, FB, Article | NEW STORY |
+| 2026-06-01 | T2 | Memorial Tournament preview (June 4-7, Muirfield Village, Dublin OH, $20M purse) — Scheffler seeks three-peat (only Tiger Woods 1999-2001 did it); 9 of top-10 world rankings in field; McIlroy and Cameron Young among projected challengers | X, FB, Article | NEW STORY |
+| 2026-06-01 | T2 | US Women's Open preview (81st edition, June 4-7, Riviera CC, Pacific Palisades CA) — first USGA women's major at Riviera; 1,897 entries; all top-25 players entered; Korda 3 wins/Chevron (3rd major)/17 career; Thitikul World No. 1/0 majors | X, FB, Article | FOLLOW-UP |
+| 2026-06-01 | T2 | Korda 2026 LPGA dominance — 3 wins including Chevron Championship (3rd major); 17 career LPGA titles at age 27; heads into US Women's Open at Riviera as clear favorite; Thitikul World No. 1 still seeking first major | X, FB, Article | FOLLOW-UP |
+|------|------|-------|-----------|-------|
 | 2026-05-29 | T1 | Charles Schwab Challenge R1 recap (Colonial CC) — six co-leaders at -6 (Tom Kim/Hodges/Spaun/McCarty/Gerard/Putnam all shot 64); Åberg -4 putter switch; soft conditions early-week rains; R2 underway; R4 Sunday Golf Channel/ESPN+; $9.9M purse; 80th year at Colonial | X, FB, Article | NEW STORY |
 | 2026-05-29 | T1 | LIV Golf Korea R2 — Gooch (OKGC) leads at -8 (shot 63); DeChambeau (Crushers GC) -7; five tied at -5: Smith/Niemann/Vincent/Pieters/Howell III; OKGC team leads at -14; final rounds Sat + Sun; LIV's first Korea event; Asiad CC Busan | X, FB, Article | NEW STORY |
 | 2026-05-29 | T2 | Åberg win drought — 6 top-10s in 7 starts since Genesis win; switched putters for Schwab; opened -4 at Colonial (T3 here in 2025); betting favorite; best ball-striker in field | X, FB, Article | FOLLOW-UP |

@@ -1,8 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-05-31
+- **Date**: 2026-06-01
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-06-01
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-06-01.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-01.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-01/review-dashboard.html (27 items)
+- **Notes:** Henley wins Schwab Challenge in playoff over Eric Cole (both -12, 4 consecutive birdies 16-18 + playoff birdie, $1.78M/$9.9M purse); Niemann wins LIV Korea playoff over Gooch (both -12, career win No. 8 = LIV record, 3 clear, Crushers GC team title, $4M/$20M); Memorial preview (June 4-7, Muirfield Village, Scheffler three-peat bid vs only Tiger 1999-2001, $20M purse, 9 of top-10 in world); US Women's Open preview (June 4-7, Riviera CC, first USGA women's major at Riviera, 1,897 entries, Korda 3W/Chevron major/17 career vs Thitikul World No.1/0 majors); Korda 2026 dominance (3 wins, Chevron = 3rd major, 17 career titles)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ## Pipeline Run Log
 
