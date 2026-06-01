@@ -5,6 +5,58 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-01
+
+### STORY 1: Cardinals 5-1 Cubs — Series Loss, Cubs Drop to 32-28
+- **Angle:** NEW STORY (game recap — morning). Liberatore 5 1/3 scoreless IP; Cardinals 31-26. Bregman solo HR only Cubs offense. Cubs fall to 32-28 entering off day.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Wicks rotation status (ATS struggling, 16.62 ERA + rough outing)
+  - Cubs offense accountability next series
+
+### STORY 2: Ben Brown — 1.92 ERA, 0 HR Allowed, Cy Young Credentials
+- **Angle:** FOLLOW UP (Ben Brown ace narrative, new angle). Specific stat depth: 53 K, 15 BB, 51.2 IP, 0 HR in 16 appearances. Cy Young framing.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Track Brown's ERA through June (currently 1.92)
+  - NL Cy Young odds / media coverage
+
+### STORY 3: Matthew Boyd Rehab Results — 4 IP, 63 Pitches, One More Start
+- **Angle:** FOLLOW UP (5/31 pipeline previewed start; today delivers results). 4 IP, 2 ER, 63 pitches at Iowa on May 31. One more rehab start needed, then Cubs activation.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative)
+- **Follow-Up Opportunities:**
+  - Boyd's second Iowa rehab start (expected ~June 6-7 weekend)
+  - Cubs rotation activation (estimate: June 12-19)
+
+### STORY 4: June Schedule — 22 Games vs. Sub-.500 Opponents
+- **Angle:** NEW STORY (off-day strategic analysis). Sun-Times: Cubs' next 22 opponents all have losing records — A's, Giants, Rockies, Blue Jays, Mets.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Track record vs sub-.500 teams through June
+  - Division movement each series
+
+### STORY 5: Josiah Hartshorn Raking in High-A South Bend
+- **Angle:** FOLLOW UP (prospect update). 19-year-old 2025 draft pick; 5-for-8, 1 HR, 8 RBI in first 3 South Bend games after promotion from Myrtle Beach; Cubs' No. 9 prospect.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect update)
+- **Follow-Up Opportunities:**
+  - Hartshorn stats through June (promotion to AA Tennessee if hot streak continues?)
+  - $2M bonus context
+
+### STORY 6: NL Central Standings — Cubs 32-28, June Is a Requirement
+- **Angle:** FOLLOW UP (ongoing standings tracking). Cubs 32-28, trailing first-place Milwaukee; Cardinals 31-26 breathing down their necks after series win.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update after each A's series game
+  - Brewers' record tracking
+
+---
+
 ## 2026-05-31
 
 ### STORY 1: Cubs 6, Cardinals 1 — Ben Brown Silences Busch in Game 2

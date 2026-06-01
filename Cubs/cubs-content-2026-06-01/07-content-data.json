@@ -1,0 +1,217 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-01",
+  "compiled_at": "2026-06-01T09:21:39.379266+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cardinals 5-1 — Cubs Drop Series 1-2, Fall to 32-28",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY (game recap — morning priority)",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Cardinals 5, Cubs 1. Series loss, 1-2. Cubs fall to 32-28.\n\nLiberatore threw 5 1/3 scoreless innings. Bregman's solo HR was all Chicago managed.\n\nBetter baseball starts Tuesday against the A's.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals 5-1 Cubs — Series Finale Recap\n**Facts + Sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Final score: Cardinals 5, Cubs 1 | ESPN recap (gameId=401815572) + CBS Sports box score | HIGH |\n| Cardinals took series 2-1 | ESPN recap + pipeline context (Game 2 Cubs win was 6-1) | HIGH |\n| Matthew Liberatore pitched 5 1/3 scoreless innings | ESPN recap (\"5 1/3 scoreless innings\") | HIGH |\n| Liberatore struck out 4, walked 1 | ESPN recap | HIGH |\n| Hunter Dobbins: 3 2/3 IP, 1 ER, 4 H, 4 K — first professional save | ESPN recap | HIGH |\n| Alex Bregman homered for Cubs (solo HR, only run) | ESPN recap (\"Alex Bregman homered for the Cubs\") | HIGH |\n| Solo HR confirmed: game ended 5-1; only run scored off Dobbins | Logic: Liberatore 5.1 scoreless → all scoring was off Cubs pitching; final 5-1 = only 1 Cubs run total | HIGH |\n| Cubs fall to 32-28 | ESPN/search confirms \"record of 32-28\" post-game | HIGH |\n| Jordan Wicks was Cubs' Game 3 starter | May 31 story history (STORY 3: Wicks vs. Liberatore) | HIGH |\n| JJ Wetherholt and Iván Herrera each had 2 H and 2 RBI | ESPN recap | HIGH |\n| Alec Burleson drove in 2 runs | ESPN recap | HIGH |\n**Cross-reference note:** Cubs were 32-27 entering Game 3 per 5/31 pipeline. Loss drops them to 32-28. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Ben Brown — 1.92 ERA, 0 HR Allowed, Cy Young Credentials",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (Ben Brown ongoing ace narrative; new angle from May 31 — specific stat depth, Cy Young framing)",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "53 strikeouts, 15 walks, 1.92 ERA — and Ben Brown hasn't allowed a HOME RUN in 51.2 innings.\n\nThat's the kind of stat line that belongs in a Cy Young conversation.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold take / stat breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ben Brown — 1.92 ERA, 0 HR Allowed in 16 Appearances\n**Facts + Sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Ben Brown ERA: 1.92 | Multiple (Last Word on Sports, Sports Mockery, ChiCity Sports, Bleacher Nation) | HIGH |\n| 53 strikeouts | ChiCity Sports / Last Word on Sports | HIGH |\n| 15 walks | Last Word on Sports (\"53 strikeouts and 15 walks\") | HIGH |\n| 51.2 innings pitched | Last Word on Sports (\"without allowing a home run in 16 appearances, including the five starts… through 51 2/3 innings\") | HIGH |\n| 0 HR allowed in 16 appearances | Multiple sources (\"51 2/3 innings without allowing a home run in 16 appearances\") | HIGH |\n| 5 starts + 11 relief outings = 16 total | Derived from source description of role | MEDIUM |\n| Last start: May 30 vs Cardinals — 7 IP, 1 ER, 3 H, 6 K, 1 BB | Last Word on Sports / 5/31 pipeline story recap | HIGH |\n**Note:** \"Cy Young conversation\" is editorial opinion framing, not a claimed fact. No cross-reference needed.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Matthew Boyd Rehab Results — One More Start, Then Back",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (May 31 pipeline previewed the start; today we have the results)",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Matthew Boyd's first Iowa rehab start is in the books: 4 innings, 2 earned runs, 63 pitches.\n\nPlan: one more start at Iowa, then back to the Cubs rotation.\n\nThe rotation reinforcements are coming. Right on time.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Roster/injury update (informative)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Matthew Boyd Rehab Start Results\n**Facts + Sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Boyd made first Iowa rehab start on May 31 | Bleacher Nation (bleachernation.com/cubs/2026/05/31/matthew-boyd-rehab-start/) + Bleed Cubbie Blue + ESPN | HIGH |\n| Line: 4 IP, 2 ER (3 R, 2 ER), 4 H, 1 BB, 2 K | Bleacher Nation + Yahoo Sports \"Cubs Minor League Wrap\" | HIGH |\n| 63 pitches, 41 strikes | Bleacher Nation \"63 pitches, 41 of them for strikes\" | HIGH |\n| Plan: two total rehab starts, then Cubs activation | ESPN (\"scheduled to make two rehab starts\") + Bleacher Nation | HIGH |\n| Boyd was injured with torn meniscus, knee surgery ~May 4 | Bleacher Nation / ESPN | HIGH |\n| Injured playing with his children | Bleacher Nation + ESPN | HIGH |\n**Cross-reference:** Bleacher Nation and Yahoo Sports/Bleed Cubbie Blue independently confirm the 4 IP, 2 ER line. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "June Schedule — 22 Straight Games vs. Losing Teams",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY (off-day strategic analysis)",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "The Cubs' next 22 games: A's, Giants, Rockies, Blue Jays, Mets.\n\nEvery single opponent has a losing record.\n\nThe schedule is a gift. Don't waste it.\n\n#Cubs #GoCubs #NLCentral",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold take / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#NLCentral"
+          ],
+          "char_count": 174
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs' June Schedule — 22 Games vs. Losing Records\n**Facts + Sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Cubs' next 22 games are against teams with losing records | Chicago Sun-Times (chicago.suntimes.com/cubs/2026/05/31) | MEDIUM (single source, confirmed opponents are A's/Giants/Rockies/BlueJays/Mets) |\n| A's at Wrigley June 2-4 | Baseball-Reference preview (baseball-reference.com/previews/2026/CHN202606020.shtml) + Sports Grid | HIGH |\n| Giants at Wrigley June 5-7 | Search results (CBS Sports, SI.com schedule) | HIGH |\n| Other opponents: Rockies, Blue Jays, Mets | Chicago Sun-Times + schedule sources | MEDIUM |\n| June 2 probable: Taillon (Cubs, 5.37 ERA) vs Jump (A's, 7.20 ERA) | Sports Grid (sportsgrid.com matchup preview) | MEDIUM (pre-game probable, subject to change) |\n**Note on \"22 games vs losing teams\":** This is a directional claim from a reputable newspaper (Chicago Sun-Times, May 31, 2026). The individual opponents (A's, Giants, Rockies, Blue Jays, Mets) are confirmed by the schedule. That these teams all have losing records is a reasonable directional claim but cannot be independently verified for EVERY opponent's exact record on June 1. Using Sun-Times as single source — marking MEDIUM. Hedge: tweet does not claim ALL are below .500, it lists the opponents directly.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Josiah Hartshorn Is Raking in South Bend",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (earlier prospect reports; now has South Bend results to cite)",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "19-year-old Josiah Hartshorn arrived at High-A South Bend last week with something to prove.\n\n5-for-8, 1 HR, 8 RBI in his first 3 games.\n\nThe No. 9 Cubs prospect is proving it.\n\n#Cubs #CubsBaseball #FlyTheW",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect update (informative/bold)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#FlyTheW"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Josiah Hartshorn Raking in South Bend\n**Facts + Sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Hartshorn is 19 years old | North Side Baseball profile + Sports Mockery | HIGH |\n| 2025 6th-round draft pick | North Side Baseball + Bleacher Nation + multiple | HIGH |\n| $2 million signing bonus (record for his slot) | Multiple sources (\"record-breaking $2 million signing bonus\") | HIGH |\n| Promoted to High-A South Bend around May 26 | Bleacher Nation (May 27 Prospects Report: \"Hartshorn Debuts In South Bend\") | HIGH |\n| Pre-promotion Myrtle Beach stats: .273/.424/.460, 5 HR, 24 R, 25 RBI | Bleacher Nation / Bleed Cubbie Blue | HIGH |\n| First 3 South Bend games: 5-for-8, 1 HR, 8 RBI, 3 BB | Bleacher Nation May 28+29 reports + Cubs Insider \"At Least Josiah Hartshorn Keeps Raking\" | HIGH |\n| Rated Cubs' No. 9 prospect (2026) | North Side Baseball \"Chicago Cubs 2026 Top 20 Prospects: #9 Josiah Hartshorn\" | HIGH |\n| Headline debut: SAC fly + RBI double, 1-for-2 with walk, 2 RBI | Bleed Cubbie Blue \"Josiah Hartshorn moves to South Bend\" | HIGH |\n**Cross-reference:** Bleacher Nation (May 28 + May 29) and Bleed Cubbie Blue independently reference Hartshorn's strong South Bend start. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "NL Central Standings — Cubs Need June to Matter",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (ongoing standings tracking)",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Cubs at 32-28, trailing first-place Milwaukee with a tough division gap to close.\n\nThe Cardinals just took 2-of-3. The Brewers keep winning.\n\nJune isn't a suggestion — it's a requirement.\n\n#Cubs #NLCentral #GoCubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#NLCentral",
+            "#GoCubs"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Central Standings Context\n**Facts + Sources:**\n| Fact | Source | Confidence |\n|------|--------|------------|\n| Cubs: 32-28 | ESPN recap (after May 31 loss) + pipeline tracking | HIGH |\n| Cardinals: 31-26 after May 31 win | Search result (\"Cardinals had a record of 30-26 after the series\") + pre-game was 30-26, won 1 = 31-26 | HIGH |\n| Brewers leading the NL Central | Multiple standings sources | HIGH |\n| Brewers exact June 1 record | Not confirmed; ~34-21 to 35-22 range based on May 27-31 data | MEDIUM |\n| Cubs trailing Milwaukee in the NL Central | Directionally certain; exact GB not claimed | HIGH |\n**Note:** Not claiming a specific GB figure in the tweet because Brewers' exact June 1 record is unverified. Using \"trailing first-place Milwaukee\" without a number.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified",
+      "Story 6: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
