@@ -2980,3 +2980,42 @@
 - **Tier:** 2
 - **Key Facts:** Territory Days final day: Mon May 25, 10 AM-6 PM; Sand Creek graduation: Sat May 23, 9 AM (confirmed); Falcon: 1 PM; Vista Ridge: 5 PM; YMCA starts May 27; PPLD June 2; Sources: visitcos.com, d49.org
 - **Follow-Up Opportunities:** Post-Territory Days summer activities roundup; back-to-school preview in August
+
+---
+
+## June 1, 2026
+
+### Story 1: CPSC Warning — Tuyedoqe Travel Bassinets (Strangulation + Fall Risk)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC warning (not a standard recall) for Tuyedoqe travel bassinets. Company has not agreed to any remedy. ~250 units sold on Amazon April–October 2025, ~$40. Three hazards: strangulation (restraints entangle infant), fall (sides too low), elevated surface fall (no stand). Mandatory federal safety standard violations. Steps: stop use, remove foam padding, cut cover in half, dispose. Do not donate or sell.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~250 units; Amazon; April–October 2025; ~$40; 3 hazards; company refused corrective action; CPSC.gov; 1-800-638-2772; Source: CPSC.gov
+
+### Story 2: Rosemont Reservoir Opening for Camping + Non-Motorized Boating — Target July 4, 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado Parks and Wildlife and Colorado Springs Utilities signed agreement to open Rosemont Reservoir for public recreation. Located ~12 miles SW of Colorado Springs on south side of Pikes Peak at 9,600+ feet. Campsites, day-use parking, ADA restrooms, non-motorized boating (kayaks, canoes, paddleboards, electric watercraft). Target opening: around July 4, 2026. Colorado State Parks Pass or Keep Colorado Wild pass + camping fee required; reservations via CPW system.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** ~12 miles SW of COS; 9,600+ feet elevation; July 4, 2026 target; campsites + day-use + ADA restrooms; non-motorized boating; parks pass + camping fee; reservations required; cpw.state.co.us; Source: KKTV, Colorado Sun, CPW
+
+### Story 3: Get Outdoors Day June 6 — Memorial Park, Free, 9 AM–2 PM
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (previewed May 28; now "this Saturday" urgency update) — Get Outdoors Day at Memorial Park / Prospect Lake, June 6, 9 AM–2 PM, free, no registration. Activities: archery, paddleboarding, fly fishing, climbing wall, Touch a Truck, dunk tank. First 650 kids age 15 and under receive free fishing pole, bait, and instructions. Stamp passport for outdoor gear prize drawing. 3,000+ expected. Hosts: CPW, COS PRCS, Pikes Peak Outdoor Recreation Alliance.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** June 6, 9 AM–2 PM; Memorial Park/Prospect Lake; free, no registration; first 650 kids 15 and under get free fishing gear; 3,000+ expected; ppora.org; Source: ppora.org, KKTV, Colorado Springs Parks Recreation and Cultural Services
+
+### Story 4: Screen Time in 2026 — UCL Study + AAP Update for COS Families This Summer
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (summer-relevant) — 2026 UCL study: avg 2-year-old now spends 129 min/day on screens, 2x the WHO recommendation. Highest screen-use group showed lower vocabulary scores and more behavioral difficulties. AAP updated 2026 guidance to focus on quality + context over strict time limits (core limits still apply). Under 18 months: no screens except video calls. 18–24 months: high-quality, co-viewed. Ages 2–5: max 1 hour/day, co-view + discuss. Ages 6+: consistent limits. Summer context: school-year structures gone, screens fill the gap.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 129 min/day avg for 2-year-olds; WHO recommendation 60 min max for ages 2–5; AAP 2026 updated guidance; UCL Centre for Longitudinal Studies; healthychildren.org; Source: UCL CLS 2026 study, AAP, healthychildren.org
+
+### Story 5: D49 Board Votes on 2026-27 Budget June 11 — Sand Creek High School
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D49 Board of Education Regular Board Meeting June 11, 2026 at Sand Creek High School. Agenda includes vote to adopt 2026-27 fiscal year budget. Budget covers opening of Student Success Center (August 2026, former Falcon Elementary of Technology): preschool Mon–Thu, Base49 before/after-school care, PEAK programs, Elevates 18-21, specialized support services. Meeting is public; agenda and time at d49.org.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** June 11, 2026; Sand Creek High School; budget vote for FY 2026-27; Student Success Center opening August 2026 at former Falcon Elementary of Technology; preschool Mon-Thu, Base49, PEAK, Elevates 18-21; d49.org; Source: D49.org, prior pipeline research

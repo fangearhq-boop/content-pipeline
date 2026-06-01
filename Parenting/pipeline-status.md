@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 1, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Tuyedoqe travel bassinet CPSC warning (~250 units, Amazon Apr–Oct 2025, ~$40, 3 hazards, company refused remedy, CPSC.gov); Rosemont Reservoir opening for camping + non-motorized boating (CPW + CS Utilities agreement, 9,600+ ft, ~12 mi SW of COS, target July 4, campsites + ADA restrooms + non-motorized boating, cpw.state.co.us); Get Outdoors Day June 6 (THIS Saturday follow-up, Memorial Park/Prospect Lake, 9 AM–2 PM, free, 3,000+ expected, archery/paddleboarding/fly fishing/climbing wall/Touch a Truck/dunk tank, 650 free fishing pole sets, ppora.org); Screen time 2026 research (UCL study: avg 2-year-old 129 min/day, 2x WHO limit; highest use = lower vocabulary scores; AAP 2026 updated guidance: quality + context focus; summer peak risk; healthychildren.org); D49 budget vote June 11 (Regular Board Meeting at Sand Creek HS, FY 2026-27 budget adoption, Student Success Center opening August 2026, d49.org) |
+| Story History Check | COMPLETE | 4 NEW STORIES (Tuyedoqe warning, Rosemont Reservoir, screen time research, D49 budget vote) + 1 FOLLOW-UP (Get Outdoors Day — "this Saturday" urgency; originally previewed May 28) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for Stories 1, 3, 4; 1 each for Stories 2, 5); 4 char violations fixed (S4: 3 draft code blocks collapsed to single clean tweet; S5: "Attend or check" → "Check" saves 10 chars); 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (9 concepts across 5 stories, social + article_hero for S1–S4, social only for S5) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 9 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 86 claims; 4 char violations fixed; image warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (28 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-01.xlsx (8 posts) + TOBI cosp-postplanner-tobi-2026-06-01.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-01)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total in PostPlanner xlsx
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-01.xlsx (8 posts), cosp-postplanner-tobi-2026-06-01.xlsx (8 TOBI posts)
+- **Coverage:** Tuyedoqe travel bassinet CPSC warning (not a standard recall; company refused corrective action; ~250 units Amazon Apr–Oct 2025; ~$40; 3 hazards: strangulation restraints, low sides, no stand; stop use, remove padding, cut cover, dispose; do not donate/sell; CPSC.gov; 1-800-638-2772); Rosemont Reservoir opening (CPW + CS Utilities agreement; ~12 miles SW of COS; south side of Pikes Peak; 9,600+ ft elevation; campsites + day-use + ADA restrooms + non-motorized boating; kayaks/canoes/paddleboards/electric watercraft; Colorado State Parks Pass + camping fee; reservations required; target July 4, 2026; cpw.state.co.us); Get Outdoors Day June 6 (THIS Saturday follow-up from May 28 preview; Memorial Park/Prospect Lake; 9 AM–2 PM; free; no registration; archery, paddleboarding, fly fishing, climbing wall, Touch a Truck, dunk tank; first 650 kids 15 and under get free fishing pole + bait + instructions; stamp passport for gear prize drawing; 3,000+ expected; ppora.org); Screen time 2026 research (UCL Centre for Longitudinal Studies 2026: avg 2-year-old 129 min/day, 2x WHO 60 min recommendation; highest screen use = lower vocabulary scores + more behavioral difficulties; AAP 2026 updated guidance: quality + context over strict time limits; core limits still apply; healthychildren.org; summer context: school-year structures gone); D49 budget vote June 11 (Regular Board Meeting at Sand Creek High School; FY 2026-27 budget adoption; Student Success Center opening August 2026 at former Falcon Elementary of Technology; preschool Mon–Thu, Base49, PEAK, Elevates 18-21, specialized support services; public meeting; d49.org for agenda + time)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 86 claims; 4 char violations (S4 post A had 3 draft code blocks read as separate tweets; S5 post A was 281 chars) fixed; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 28 items
+  - PostPlanner exports: both standard (8) and TOBI (8) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: May 31, 2026
 
 | Step | Status | Notes |
