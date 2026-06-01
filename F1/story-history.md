@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-01
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Monaco GP Weekend Preview — FP1/FP2 June 5, Qual Sat June 6, Race Sun June 7 2PM ET Apple TV+; FIA active aero ban (3-sec rule, Tunnel exit safety); Ferrari+McLaren gain, Mercedes loses power advantage | 1 | NEW STORY |
+| 2 | Hamilton Monaco Window — P2 Canada (best Ferrari result 2026); "power not king at Monaco"; active aero ban unlocks Ferrari chassis; Hamilton targets first Ferrari win at principality | 1 | FOLLOW UP (from ongoing Hamilton/Ferrari coverage) |
+| 3 | Antonelli Monaco Challenge — 43-pt lead after 4 wins in 5 races; neither Antonelli nor Russell has won Monaco; Mercedes power advantage gone for weekend | 2 | FOLLOW UP (from ongoing Antonelli championship coverage) |
+| 4 | Leclerc Home Race — 2024 Monaco winner, 3 poles; Ferrari chassis advantage + active aero ban = strongest Monaco odds in years | 2 | FOLLOW UP (from ongoing Leclerc/Ferrari coverage) |
+| 5 | Active Aero Technical Explainer — FIA 3-sec activation threshold; no Monaco stretch qualifies; Tunnel exit safety concern; first time all season no team uses active aero | 2 | FOLLOW UP (from 05-31 active aero ban coverage) |
+
+### STORY 1: Monaco GP Weekend Preview
+- **Tier:** 1
+- **Key facts:** FP1/FP2 Friday June 5. Qual Saturday June 6, 3 PM local. Race Sunday June 7, ~2 PM ET, Apple TV+. Circuit: Circuit de Monaco, Monte Carlo. Active aero banned full weekend. No Monaco section meets FIA 3-sec threshold. Ferrari+McLaren favored.
+- **Status:** NEW STORY
+
+### STORY 2: Hamilton Monaco Window
+- **Tier:** 1
+- **Key facts:** Hamilton P2 Canada (best Ferrari result 2026). Quote: "Power is not king there. I think our car could be really strong." Active aero ban neutralizes Mercedes. Hamilton has multiple previous Monaco wins (with Mercedes).
+- **Status:** FOLLOW UP
+
+### STORY 3: Antonelli Monaco Challenge
+- **Tier:** 2
+- **Key facts:** Antonelli: 4 wins/5 races, 43-pt lead over Russell. Neither Antonelli nor Russell has won Monaco. Mercedes power advantage does not apply at Monaco.
+- **Status:** FOLLOW UP
+
+### STORY 4: Leclerc Home Race
+- **Tier:** 2
+- **Key facts:** Leclerc: 2024 Monaco GP winner. 3 Monaco poles. Monégasque (home race). P2 Canada qualifying. Ferrari SF-26 = best chassis. Active aero ban benefits Ferrari.
+- **Status:** FOLLOW UP
+
+### STORY 5: Active Aero Technical
+- **Tier:** 2
+- **Key facts:** FIA 3-second rule for Straight Mode zones. No Monaco straight meets threshold. Tunnel exit named as safety concern. First time in 2026 no team uses active aero at any point. Applies to Monaco only.
+- **Status:** FOLLOW UP
+
 ## 2026-05-29
 
 | # | Story | Tier | Tag |

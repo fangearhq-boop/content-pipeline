@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-01",
+  "compiled_at": "2026-06-01T11:33:58.622077+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Monaco GP Weekend Preview — Qualifying Saturday, Race Sunday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Monaco GP week is HERE. 🏎️\n\nFP1 & FP2: Friday June 5\nQualifying: Saturday June 6 (3 PM local)\nRace: Sunday June 7 (2 PM ET, Apple TV+)\n\nActive aero banned. Ferrari & McLaren smiling. Mercedes on notice.\n\n#MonacoGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonacoGP",
+            "#F1"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Why Monaco 2026 is different from every other race this year:\n\nNo active aero. Zero Straight Mode. On ANY part of the circuit.\n\nThe FIA's 3-second rule killed it at Monaco — no straight is long enough.\n\nResult: chassis > power unit. Ferrari and McLaren move up. #MonacoGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MonacoGP",
+            "#F1"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "Monaco week is finally here — and the 2026 edition promises to be one of the most unpredictable in years.\n\nThe Grand Prix weekend officially gets underway on Friday, June 5, with two practice sessions at the Circuit de Monaco in Monte Carlo. Qualifying follows on Saturday, June 6, at 3 PM local time. The race itself takes place Sunday, June 7, at approximately 2 PM ET on Apple TV+.\n\nWhat makes Monaco 2026 genuinely different from every other race this season is a landmark technical ruling: the FIA has banned active aerodynamics for the entire weekend. The new 2026-spec Straight Mode — which has powered Mercedes to five straight victories — will not function at any point on the Circuit de Monaco. Not a single section of the track meets the FIA's 3-second minimum activation threshold. The safety concern at the Tunnel exit, specifically, was cited as a key factor.\n\nFor Ferrari and McLaren fans, this is the news you have been waiting for. Ferrari's SF-26 is widely regarded as the best chassis in the field, and McLaren runs the shortest wheelbase on the grid — an advantage that suits Monaco's tight, technical sections. With Mercedes' power unit advantage neutralized, the competitive order is about to get a lot more interesting.",
+        "image_caption": "Monaco GP week is here 🏎️ — and the FIA has banned active aero for the ENTIRE weekend. No Straight Mode means Ferrari and McLaren could challenge Mercedes for the first time all season. Race: Sunday June 7, 2 PM ET on Apple TV+. #MonacoGP #F1",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-monaco-gp-2026-preview-schedule-aero-ban.html",
+        "headline": "Monaco GP 2026 Preview: Active Aero Ban Changes Everything at the Street Circuit Jewel",
+        "word_count": 492
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monaco GP Weekend Preview\n\n**Concept 1-1 — Social (1080x1350)**\n- Mode: base_only (Canva text overlay)\n- Scene: Aerial-style graphic of Monaco's harbor with luxury yachts visible, F1 car silhouette on the track above the harbor. Vivid sunset colors reflecting off water. Monaco GP color palette (silver/gold/blue ocean).\n- Mood: Glamour, luxury, high-stakes racing\n- Style: Cinematic sports graphic\n\n**Concept 1-2 — Article Hero (1200x630)**\n- Mode: complete\n- Scene: Circuit de Monaco track map overlaid on aerial shot of Monte Carlo harbor. Race weekend schedule text overlay: \"June 5-7 • Apple TV+\" in elegant typography. Monaco GP official colors.\n- Mood: Prestige event preview\n- Style: Official race preview aesthetic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton's Monaco Moment — Can He Finally Win With Ferrari?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lewis Hamilton after P2 in Canada:\n\n\"Power is not king at Monaco. I think our car could be really strong there.\"\n\nActive aero banned at Monaco. Ferrari's best chassis, no Mercedes power advantage.\n\nIs this finally the weekend Hamilton wins in red? #F1 #Hamilton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Hamilton"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Hamilton has won Monaco before — just never in a Ferrari.\n\nP2 in Canada. Best result of his 2026 season. Momentum building.\n\nThis weekend he gets Monaco WITHOUT the active aero that's been hurting Ferrari all year.\n\nOne win missing from the 2026 season. #F1 #Hamilton #MonacoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Hamilton",
+            "#MonacoGP"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": {
+        "long_form": "Lewis Hamilton has won almost everything there is to win in Formula 1. But one thing has eluded him in 2026: a win in Ferrari red. Monaco may be where that changes.\n\nAfter finishing P2 in Canada — his best result of the season with Ferrari so far — Hamilton was uncharacteristically bullish about his chances in Monte Carlo. \"Power is not king there. I think our car could be really strong,\" he told reporters. And he is not wrong. Ferrari's SF-26 is regarded as having the best chassis on the grid, a quality that shines brightest at slow, twisting circuits like Monaco where aerodynamic downforce and mechanical grip matter far more than raw power.\n\nThe timing is perfect. For the first time all season, the FIA has banned the active aerodynamic straight mode that has given Mercedes its dominant straight-line advantage. At Monaco, all teams run fixed wings, putting Ferrari's chassis back where it belongs: at the front.\n\nHamilton has won in Monaco before — he knows the rhythm of the streets, the wall avoidance, the tire management that defines winning there. The 2026 edition may finally be the moment he converts Ferrari's chassis potential into a victory.",
+        "image_caption": "Lewis Hamilton after P2 in Canada: \"Power is not king at Monaco. I think our car could be really strong.\" Active aero banned. Ferrari's chassis advantage unlocked. Is this finally the Hamilton Monaco win in Ferrari red? #F1 #Hamilton #MonacoGP",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-hamilton-ferrari-monaco-win-opportunity.html",
+        "headline": "Hamilton's Monaco Window: Why 2026 Is Ferrari's Best Chance at the Principality",
+        "word_count": 490
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton's Monaco Moment\n\n**Concept 2-1 — Social (1080x1350)**\n- Mode: base_only (Canva text overlay)\n- Scene: Ferrari-red racing car on tight street circuit corner, Monaco-style barriers visible, dramatic low sun angle lighting creating long shadows on the road. Red dominated palette.\n- Mood: Intensity, determination, iconic moment\n- Style: Dramatic motorsport photography style\n\n**Concept 2-2 — Social (1080x1350)**\n- Mode: base_only (Canva text overlay)\n- Scene: Close-up of racing helmet visor reflecting Monaco harbor and yacht. Ferrari red tones. Reflection shows the circuit's famous hairpin bend. Base for text overlay.\n- Mood: Personal, iconic, reflective\n- Style: Intimate portrait-style racing art\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli at Monaco — Championship Leader Faces Tight Streets",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli's 2026 stats heading into Monaco:\n\n4 wins in 5 races. +43 pts over Russell.\n\nBut Monaco? Neither he nor Russell has ever won here.\n\nIs this where the championship gap finally closes? #F1 #Antonelli #MonacoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli",
+            "#MonacoGP"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "Kimi Antonelli enters the Monaco Grand Prix as the dominant force in Formula 1 in 2026 — but the principality's streets may pose his greatest challenge yet.\n\nThe 19-year-old has been extraordinary this season: four wins from five races, a 43-point lead over teammate George Russell in the Drivers' Championship, and a Mercedes car that has shown genuine superiority at power-sensitive circuits. But Monaco is a different kind of race. The tight, twisting, barrier-lined streets of Monte Carlo reward pure chassis performance and extreme precision over raw speed.\n\nHere is the uncomfortable truth for Mercedes fans: neither Antonelli nor Russell has ever won the Monaco Grand Prix. Their car's main advantage — the new 2026 power unit running in Straight Mode — is completely irrelevant here. Every team will run fixed wings. The playing field is far more even.\n\nFerrari and McLaren, the best chassis teams, should challenge. And Antonelli, whatever his talent, is racing on streets where the margin for error is measured in centimeters and where track knowledge accumulated over years genuinely matters.",
+        "image_caption": "Antonelli has 4 wins and a 43-point championship lead — but Monaco has never been his. Neither him nor Russell has won here before. With active aero banned, can Ferrari or McLaren finally challenge? #F1 #Antonelli #MonacoGP",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-antonelli-championship-monaco-challenge.html",
+        "headline": "Antonelli's Monaco Test: The 19-Year-Old Phenom Faces His Toughest 2026 Challenge",
+        "word_count": 494
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n**Concept 3-1 — Social (1080x1350)**\n- Mode: base_only (Canva text overlay)\n- Scene: Championship standings scoreboard graphic in Mercedes silver/teal. \"+43\" prominently displayed. Monaco circuit silhouette in background. Space for text overlay \"CAN ANYONE CLOSE THE GAP?\"\n- Mood: Statistical dominance with uncertainty\n- Style: Clean data visualization\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Leclerc's Home Grand Prix — Defending Monaco With Everything to Prove",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Charles Leclerc at Monaco:\n\n✅ 2024 race winner\n✅ 3 pole positions\n✅ Home hero in Monte Carlo\n✅ Active aero banned = Ferrari chassis advantage unlocked\n\nThis might be the most dangerous Leclerc Monaco weekend yet. 🔥 #F1 #Leclerc #MonacoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Leclerc",
+            "#MonacoGP"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "When Charles Leclerc walks out of his apartment and through the streets of Monte Carlo to the circuit, he is not just another driver arriving for a race. He is home.\n\nLeclerc grew up in Monaco. He has spent his entire life around the Circuit de Monaco. In 2024, he finally turned that intimate knowledge into a victory — winning the Monaco Grand Prix in front of his home crowd. He has taken three Monaco pole positions. He knows every kerb, every barrier, every shadow.\n\nNow comes 2026. Ferrari's car, widely regarded as the best chassis on the grid, becomes even more competitive at Monaco with the active aero ban in place. Leclerc qualified P2 in Canada and has been building momentum through the season.\n\nIn a Monte Carlo field that includes Hamilton, Norris, Verstappen, and Piastri, Leclerc carries something none of them possess: the knowledge that comes from treating this track as your backyard since childhood. If Ferrari's car is as strong here as expected, Leclerc could be the man to beat.",
+        "image_caption": "Leclerc: 2024 Monaco winner. 3 poles. Lives here. Ferrari chassis is king at Monaco. Active aero banned. Charles Leclerc is DANGEROUS this weekend. 🔥 #F1 #Leclerc #MonacoGP",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-leclerc-monaco-home-race-2026.html",
+        "headline": "Leclerc's Monaco: The Defending Champion Returns Home With Ferrari's Best Shot in Years",
+        "word_count": 444
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leclerc Home Race\n\n**Concept 4-1 — Social (1080x1350)**\n- Mode: base_only (Canva text overlay)\n- Scene: Ferrari car racing past Monaco landmarks (Casino, pit lane entry). Monaco's distinctive blue-and-white barriers. Warm afternoon lighting with Mediterranean colors. Leclerc/Ferrari color scheme dominant.\n- Mood: Home pride, competitive fire\n- Style: Vivid street racing graphic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "The Active Aero Revolution — How Monaco's FIA Ban Changes F1 in 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Why is active aero banned at Monaco?\n\nThe FIA requires each Straight Mode zone to last 3+ seconds to activate safely.\n\nNot a single stretch in Monte Carlo qualifies.\n\nTunnel exit = too fast, too little run-off.\n\nFirst time all season no team uses it. #F1 #MonacoGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Formula 1 season has been defined by a new technical revolution: active aerodynamics. Teams can now deploy \"Straight Mode\" — a system that opens the car's wings to reduce drag on straights — giving the fastest, most efficient power units a massive straight-line advantage. Mercedes has won every race so far, largely on the strength of this system.\n\nMonaco changes everything. For the first time all season, no team will use active aerodynamics at any point during the race weekend.\n\nThe reason is simple engineering: the FIA requires each Straight Mode activation zone to last a minimum of three seconds. This threshold is a safety requirement — at Monaco's Tunnel exit specifically, where the run-off area is extremely limited, the speeds generated by active aero were deemed to create unacceptable risk. No section of the Circuit de Monaco meets the three-second minimum.\n\nThe competitive consequence is significant. Ferrari and McLaren — the teams with the best purely mechanical and aerodynamic chassis — suddenly find themselves on more equal footing with Mercedes. Red Bull, which has struggled with the new 2026 power unit regulations, may also benefit from the leveling effect.\n\nThis is not permanent. The active aero ban applies only to Monaco. But for one weekend, the 2026 championship race looks different.",
+        "image_caption": "The FIA has banned F1's active aero at Monaco — the 3-second activation rule cannot be met anywhere on the circuit. First time all season no team uses it. Ferrari and McLaren gain. Mercedes loses their biggest edge. #F1 #MonacoGP",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-05-f1-active-aero-monaco-ban-explained.html",
+        "headline": "F1's Active Aero Ban at Monaco Explained: Why the 3-Second Rule Changes Everything",
+        "word_count": 541
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Active Aero Technical\n\n**Concept 5-1 — Social (1080x1350)**\n- Mode: base_only (Canva text overlay)\n- Scene: Split graphic — left side shows active aero wing extended (labeled \"Everywhere Else\"), right side shows fixed wing (labeled \"Monaco\"). Clean white/dark background with F1 technical diagram aesthetic.\n- Mood: Technical explainer, educational\n- Style: Infographic / technical diagram style"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
