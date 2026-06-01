@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-01
+
+### Story 1: Angels 2-1 A's — Neto Walk-Off HR After Ginn's 8 No-Hit Innings
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** J.T. Ginn (A's) took a no-hitter into the 9th with a 1-0 lead, 10 Ks and 105 pitches. Adam Frazier led off the 9th with a single to break it. Zach Neto then hit a 2-run walk-off HR (413 ft to center). Angels won 2-1, broke a 6-game losing streak. Only the 3rd time since 1961 a team was no-hit through 8+ innings and won on a walk-off HR (Don Lock 1963, Josh Harrison 2017 extra innings). Also preserved Angels' streak of not being no-hit since Sept 11, 1999 (longest active in MLB).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Ginn's next start and mental recovery
+  - Neto continued offensive performance
+  - Angels building momentum from emotional win
+
+### Story 2: Dodgers 9-1 Phillies — Yamamoto 10 Ks, Ryan Ward First Career HR
+- **Tier:** 1
+- **Classification:** NEW STORY (2026-05-30 covered Game 1 Dodgers 4-2; 2026-05-31 covered Game 2 Phillies 4-3; today is Game 3 rubber match)
+- **Angle:** Yoshinobu Yamamoto 5.1 scoreless IP, 10 Ks (season high), 2.48 ERA. Ryan Ward (28 yrs old, 7 years in Dodgers system) hit first career HR off Andrew Painter — 400 ft, 108.4 mph. Alex Freeland HR + 2 RBI, Max Muncy HR. Dodgers scored in 7 consecutive innings. Dodgers took series 2-1. Bryson Stott HR in 9th for PHI prevented shutout.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Ryan Ward's role on roster going forward (Teoscar/Kiké Hernandez injuries)
+  - Yamamoto ERA development arc
+  - Phillies' series record on the road trip
+
+### Story 3: Cardinals 5-1 Cubs — Liberatore Bounces Back on Sunday Night Baseball
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Matthew Liberatore 5.1 scoreless IP, 3 hits, 1 walk after allowing 3+ ER in 3 straight starts. Cardinals won 5-1 on NBC Sunday Night Baseball. Hunter Dobbins (recalled from Triple-A Memphis that day) 3.2 IP, 4 hits, 1 ER, 4 Ks — earned first pro save. Masyn Winn 2-run single. JJ Wetherholt and Iván Herrera each 2 hits/2 runs. Alec Burleson 2 RBI. Alex Bregman HR in 7th for Cubs. Jordan Wicks 0-2 charged with 3 runs. Cubs 3-2 in last 5 games after 10-game skid.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Cardinals rotation confidence going forward
+  - NL Central standings race implications
+  - Cubs rotation stability
+
+### Story 4: Detroit Tigers Rotation Crisis — Mize, Skubal, Verlander All on IL
+- **Tier:** 2
+- **Classification:** NEW STORY (Skubal IL follow-up with new Mize injury adding third starter)
+- **Angle:** Casey Mize placed on 15-day IL (retroactive to May 28) with right adductor inflammation. Joins Tarik Skubal (elbow surgery — loose body removed via NanoNeedle technology, first MLB pitcher with the procedure, out conservatively through July) and Justin Verlander (60-day IL hip, eligible to return, rehab start with Triple-A Toledo upcoming, June return expected). Three rotation anchors unavailable simultaneously.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Verlander's rehab start/return date
+  - Skubal NanoNeedle recovery timeline
+  - Tigers' season outlook without their top 3 starters
+
+### Story 5: Schwarber HR Pace — 20 HRs in 49 Games, On Pace for 66 (Bonds/McGwire Territory)
+- **Tier:** 2
+- **Classification:** FOLLOW-UP (ongoing — covered throughout May)
+- **Angle:** Schwarber 20 HRs through Phillies' first 49 games — pace projects to 66. Only Bonds (2001, hit 73) and McGwire (1998, hit 70) had 20+ HRs faster through 49 games. Just 18th player in MLB history to reach 20 HRs through first 49 team games; last was Josh Hamilton 2012. Would eclipse Aaron Judge's AL record (62 in 2022) if sustained. Stands alone atop MLB HR leaderboard after Murakami went to IL. Aaron Judge next closest.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Murakami's return (mid-June) and HR race resumption
+  - Whether Schwarber can maintain pace through summer
+  - Judge as the active challenger
+
+---
+
 ## 2026-05-31
 
 ### Story 1: Murakami to IL — Grade 2 Hamstring, ~4 Weeks

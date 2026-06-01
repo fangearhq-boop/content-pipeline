@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-01
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (web searches via context), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (20 claims, 0 char violations), compile (5 stories, 6 tweets, 5 FB posts, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). 0 char violations.
+- **Key Stories**: Angels 2-1 A's / Ginn 8 no-hit innings 10 Ks / Neto 2-run walk-off HR / 3rd time since 1961 (Tier 1), Dodgers 9-1 Phillies / Yamamoto 10 Ks season high / Ryan Ward first career HR 7 years in system (Tier 1), Cardinals 5-1 Cubs SNB / Liberatore bounces back 5.1 scoreless / Dobbins first pro save (Tier 2), Tigers rotation crisis / Mize+Skubal+Verlander all on IL simultaneously (Tier 2), Schwarber HR pace / 20 HRs in 49 games / on pace for 66 / Bonds-McGwire territory (Tier 2)
+
+## Previous Run
 - **Date**: 2026-05-31
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (web searches via context), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (32 claims, 0 char violations), compile (5 stories, 6 tweets, 5 FB posts, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

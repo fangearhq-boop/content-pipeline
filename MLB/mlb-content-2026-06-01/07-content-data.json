@@ -1,0 +1,293 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-01",
+  "compiled_at": "2026-06-01T10:33:40.406978+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM ET",
+      "description": "X Text Post (Story 1 — walk-off result)",
+      "type": "Angels 2-1 A's"
+    },
+    {
+      "time": "8:30 AM ET",
+      "description": "X Text Post (Story 1 — historical context)",
+      "type": "Neto walk-off rarity"
+    },
+    {
+      "time": "8:00 AM ET",
+      "description": "X Text Post (Story 3 — Cardinals SNB)",
+      "type": "Cardinals 5-1 Cubs"
+    },
+    {
+      "time": "10:30 AM ET",
+      "description": "X Text Post (Story 2 — Yamamoto/Ward)",
+      "type": "Dodgers 9-1 Phillies"
+    },
+    {
+      "time": "12:30 PM ET",
+      "description": "X Text Post (Story 4 — Tigers rotation)",
+      "type": "Tigers three on IL"
+    },
+    {
+      "time": "3:00 PM ET",
+      "description": "X Text Post (Story 5 — Schwarber pace)",
+      "type": "HR pace update"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Angels 2-1 A's — Neto Walk-Off HR After Being No-Hit Through 8 Innings (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "J.T. Ginn: 8 innings. No hits. 10 strikeouts. 1-0 lead.\n\nAdam Frazier: infield single to break up the no-hitter.\n\nZach Neto: 2-run walk-off homer. Angels 2, Athletics 1.\n\nBaseball is unbelievable.\n\n#Angels #Athletics #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Angels",
+            "#Athletics",
+            "#MLB"
+          ],
+          "char_count": 221
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Angels were no-hit through 8 innings and still won.\n\nThat's only happened 3 times since 1961.\n\nNeto's walk-off last night joins one of baseball's rarest lists. 🔥\n\n#Angels #MLB #BaseballHistory",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Angels",
+            "#MLB",
+            "#BaseballHistory"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": {
+        "long_form": "J.T. Ginn threw 8 no-hit innings last night. 105 pitches. 10 strikeouts. A 1-0 lead. He fanned the side in the seventh. He was in complete control.\n\nThen the ninth inning happened.\n\nAdam Frazier led off with an infield single — the first hit of the game, killing the no-hitter in an instant. Three pitches later, Zach Neto drove a 2-0 sinker 413 feet to center field. Two-run walk-off homer. Angels 2, Athletics 1.\n\nGinn's masterpiece evaporated in the span of one inning.\n\nWhat makes this so remarkable: according to baseball historians, this is only the third time since 1961 that a team has been no-hit through at least 8 innings and still won — let alone on a walk-off homer. The previous instances were Don Lock of the Washington Senators in 1963 and Josh Harrison of the Pittsburgh Pirates in 2017 (extras). Ginn became just the sixth MLB pitcher since 1974 to allow no hits and no runs through 8 innings and still take the loss.\n\nFor the Angels, the win snapped a six-game losing streak. And it preserved a streak that most fans don't know about: Los Angeles hasn't been no-hit since September 11, 1999 — the longest active no-hit drought in the majors.\n\nZach Neto's walk-off blast. One of the most remarkable single-game moments of the 2026 season. ⚾",
+        "image_caption": "J.T. Ginn was 8 innings into a no-hitter with a 1-0 lead. The Angels won 2-1 on a Zach Neto walk-off homer. Baseball doesn't get more dramatic than this. ⚾ #Angels #Athletics #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-angels-neto-walk-off-hr-ginn-near-no-hitter-athletics-2026.html",
+        "headline": "From Near No-Hitter to Walk-Off: Neto's Blast Stuns Ginn and the A's",
+        "word_count": 594
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Angels 2-1 A's — Neto Walk-Off After Being No-Hit Through 8\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Zach Neto Los Angeles Angels\n2. J.T. Ginn Oakland Athletics\n3. Los Angeles Angels baseball\n4. Oakland Athletics baseball\n\n**Text Overlay Copy:**\n- Headline: \"NO-HIT THROUGH 8. STILL WON.\"\n- Subtitle: \"Neto's walk-off HR — the rarest comeback in baseball\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nNeto in full swing or celebration — Angels red and white palette. Dramatic, urgent energy. Dark overlay bar at bottom third with text. Alternatively: Ginn in a deflated post-game pose for contrast composition.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Angels 2-1 A's — Neto Walk-Off After Being No-Hit Through 8\n**Sources:**\n- ESPN: \"A's Ginn loses no-hitter in 9th, then allows walk-off HR to Angels' Neto\"\n- MLB.com: \"Inspired by dugout speech, Angels go from being no-hit to epic walk-off homer\"\n- Yahoo Sports: \"Angels beat Athletics on walk-off homer despite A's starter J.T. Ginn throwing 8 no-hit innings\"\n- ClutchPoints: \"Angels shortstop Zach Neto's walk-off HR gives J.T. Ginn a nightmare ending\"\n- ABC7: \"Ginn loses no-hitter in 9th and then the game when Neto's 2-run homer gives Angels 2-1 win\"\n**Verified Facts:**\n- [HIGH] J.T. Ginn threw 8 scoreless no-hit innings for the A's — 105 pitches (64 strikes), 10 strikeouts, 1 walk, 1 HBP (Neto)\n- [HIGH] Ginn had a 1-0 lead heading into the ninth inning\n- [HIGH] Adam Frazier led off the bottom of the ninth with a single to break up the no-hitter\n- [HIGH] Zach Neto hit a 2-run walk-off home run on a 2-0 sinker — 413 feet to center field, his 8th homer of the season\n- [HIGH] Angels won 2-1\n- [HIGH] Third time since 1961 a team was no-hit through at least 8 innings and won on a walk-off homer (previous: Josh Harrison/Pirates 2017 in extras, Don Lock/Washington Senators 1963)\n- [HIGH] Ginn became the sixth MLB pitcher since at least 1974 to allow no hits/runs through 8 innings of a game and still take the loss (Rich Hill/Dodgers was the previous one, 2017 vs Pittsburgh)\n- [HIGH] The win snapped the Angels' six-game losing streak\n- [HIGH] Angels' no-hit streak preserved — they haven't been no-hit since Sept. 11, 1999, the longest active streak in the majors\n- [MEDIUM] Neto's home run was the first walk-off homer of his career",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Dodgers 9-1 Phillies — Yamamoto 10 Ks, Ward First Career HR (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Ryan Ward spent 7 years in the Dodgers system.\n\nLast night at Dodger Stadium, he finally hit his first career home run.\n\nYamamoto struck out 10. The Dodgers scored in 7 straight innings. Final: 9-1.\n\n#Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "Ryan Ward has spent seven years in the Los Angeles Dodgers organization. He's 28 years old. He's been called up, sent back down, called up again, and spent countless hours developing in the minor leagues while waiting for his shot.\n\nLast night at Dodger Stadium, he got it.\n\nWard stepped up against Andrew Painter in the fourth inning and launched a 400-foot line drive to right field — an exit velocity of 108.4 mph — for the first home run of his major league career. The crowd roared. His teammates celebrated. Seven years of waiting, delivered in one swing.\n\nIt was the kind of moment that makes baseball worth watching.\n\nThe rest of the game wasn't bad either. Yoshinobu Yamamoto put together his best start of the season — 5.1 scoreless innings, 10 strikeouts, continuing a stretch that has him at a 2.48 ERA. The Dodgers scored in seven consecutive innings. Alex Freeland homered and drove in two. Max Muncy added his own homer. Bryson Stott hit a solo shot in the ninth to prevent a shutout, but the game was long over.\n\nFinal: Dodgers 9, Phillies 1. Los Angeles wins the series 2-1, bouncing back from Tanner Scott's blown save on Saturday.\n\nFor Ryan Ward, last night was finally the night. ⚾",
+        "image_caption": "Seven years in the minor leagues. Ryan Ward finally hit his first career home run last night at Dodger Stadium. Yamamoto struck out 10. Dodgers win 9-1. ⚾ #Dodgers #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-yamamoto-10-ks-ryan-ward-first-career-hr-dodgers-9-1-phillies-2026.html",
+        "headline": "Seven Years in the Making: Ryan Ward Hits First Career Homer in Dodgers' 9-1 Rout",
+        "word_count": 611
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dodgers 9-1 Phillies — Yamamoto 10 Ks, Ward First Career HR\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Ryan Ward Los Angeles Dodgers\n2. Yoshinobu Yamamoto Los Angeles Dodgers\n3. Los Angeles Dodgers baseball\n4. Dodger Stadium baseball\n\n**Text Overlay Copy:**\n- Headline: \"7 YEARS IN THE MAKING\"\n- Subtitle: \"Ward's first career HR fuels Dodgers' 9-1 win\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nWard in a home run celebration pose or at bat — Dodger Stadium crowd visible in background. Blue and white palette. Personal achievement energy — celebratory framing.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dodgers 9-1 Phillies — Yamamoto 10 Ks, Ward First Career HR\n**Sources:**\n- ESPN: \"Dodgers 9-1 Phillies (May 31, 2026) Game Recap\"\n- Dodgers Digest: \"Dodgers 9, Phillies 1: Ryan Ward's 1st homer & Alex Freeland's big day\"\n- DodgerBlue: \"Recap: Ryan Ward hits 1st HR, Dodgers score in 7 straight innings\"\n- SI.com: \"Dodgers' Ryan Ward Blasts First MLB Homer Off Former Phillies Top Prospect\"\n- CBS Sports: \"Dodgers' Ryan Ward: Hits first big-league homer\"\n**Verified Facts:**\n- [HIGH] Dodgers beat Phillies 9-1 (May 31, 2026 — Game 3/series finale)\n- [HIGH] Yoshinobu Yamamoto: 5.1 scoreless IP, 10 strikeouts (season high), 2-2 record, 2.48 ERA\n- [HIGH] Ryan Ward hit the first home run of his career in the fourth inning — 400 feet to right field, 108.4 mph exit velocity, off Andrew Painter\n- [HIGH] Ward is 28 years old and has spent seven years in the Dodgers' organization\n- [HIGH] The Dodgers scored in 7 consecutive innings\n- [MEDIUM] Alex Freeland homered and drove in 2 runs; Max Muncy also homered\n- [HIGH] Bryson Stott homered in the ninth for Philadelphia to break up the shutout\n- [HIGH] Dodgers won the series 2-1 (bouncing back from Saturday's Tanner Scott blown save in Game 2)\n- [MEDIUM] Ward had only appeared in two prior games this season (2-for-6) before this start",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cardinals 5-1 Cubs — Liberatore Bounces Back on Sunday Night Baseball (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Matthew Liberatore gave up 9+ runs in his last 3 starts combined.\n\nLast night on Sunday Night Baseball: 5.1 shutout innings.\n\nCardinals 5, Cubs 1. St. Louis wins the series. Masyn Winn was the difference.\n\n#STLCards #Cubs #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#STLCards",
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "Matthew Liberatore was not having a good stretch. He'd allowed three or more runs in each of his previous three starts — not the kind of stretch you want heading into a Sunday Night Baseball appearance.\n\nLast night on NBC, he was excellent.\n\nLiberatore allowed just three hits and a walk in 5.1 scoreless innings, bouncing back in exactly the spot his team needed him. Masyn Winn drove in two with a single. JJ Wetherholt and Iván Herrera each collected two hits and scored twice. Alec Burleson added two more RBI. Hunter Dobbins — recalled from Triple-A Memphis that same day — came on for 3.2 innings and picked up his first professional save.\n\nThe Cardinals beat the Cubs 5-1 and won the series 2-1. St. Louis entered the series on a four-game losing streak. They leave it feeling good about their rotation and their offense.\n\nAlex Bregman hit a solo homer for Chicago in the seventh — a reminder of how much the Cubs are counting on his comeback season. But Jordan Wicks (0-2) couldn't keep the game close.\n\nCardinals and Cubs: always must-watch, never dull. ⚾",
+        "image_caption": "Liberatore was 0-9 in his last 3 combined stat line. Last night on Sunday Night Baseball: 5.1 shutout innings. Cardinals 5, Cubs 1. Masyn Winn was the story. ⚾ #STLCards #Cubs #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cardinals-5-1-cubs-liberatore-sunday-night-baseball-2026.html",
+        "headline": "Liberatore Silences the Doubters as Cardinals Top Cubs 5-1 on Sunday Night Baseball",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cardinals 5-1 Cubs — Sunday Night Baseball\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Masyn Winn St. Louis Cardinals\n2. Matthew Liberatore St. Louis Cardinals\n3. St. Louis Cardinals baseball\n4. Alex Bregman Chicago Cubs\n\n**Text Overlay Copy:**\n- Headline: \"LIBERATORE BOUNCES BACK\"\n- Subtitle: \"Cardinals 5, Cubs 1 — Sunday Night Baseball\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nLiberatore in pitching motion or Masyn Winn at the plate — Cardinals red and white. Sunday Night Baseball energy, large-stadium feel. Dark overlay at bottom third.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals 5-1 Cubs — Sunday Night Baseball\n**Sources:**\n- ESPN: \"Cardinals 5-1 Cubs (May 31, 2026) Game Recap\"\n- NBC Sports: \"MLB 2026 Highlights: St. Louis Cardinals 5, Chicago Cubs 1\"\n- Yahoo Sports: \"Chicago Cubs vs. St. Louis Cardinals preview\"\n**Verified Facts:**\n- [HIGH] St. Louis Cardinals beat Chicago Cubs 5-1 on Sunday Night Baseball (NBC/Peacock)\n- [HIGH] Matthew Liberatore (3-3): 5.1 scoreless innings (bounced back after allowing 3+ runs in each of 3 prior starts)\n- [HIGH] Masyn Winn hit a 2-run single\n- [HIGH] JJ Wetherholt and Iván Herrera each had 2 hits and scored twice\n- [HIGH] Alec Burleson drove in 2 runs\n- [HIGH] Hunter Dobbins (recalled from Triple-A Memphis same day) relieved Liberatore: 3.2 IP, 1 ER, 4 Ks, earned his first professional save\n- [HIGH] Alex Bregman homered for Chicago\n- [HIGH] Jordan Wicks (0-2): charged with 3 runs, 4 hits in 2+ innings\n- [HIGH] Cardinals won the series 2-1 (entering the series on a 4-game losing streak)\n- [HIGH] Cubs 3-2 in their last 5 games since a 10-game losing skid",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tigers Rotation in Crisis — Mize Joins Skubal and Verlander on IL (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Detroit Tigers currently have three starting pitchers on the IL.\n\nTarik Skubal (elbow surgery, out through July).\nJustin Verlander (hip, eligible to return).\nCasey Mize (adductor, just placed on IL).\n\nThat's their No. 1, No. 2, and No. 3 starters. Rough.\n\n#Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "Just when you thought Detroit's pitching situation couldn't get more complicated, it got more complicated.\n\nThe Tigers placed right-hander Casey Mize on the 15-day injured list on Friday (retroactive to May 28) with right adductor inflammation. Mize joins Tarik Skubal and Justin Verlander — giving Detroit three starting pitchers on the injured list at the same time.\n\nSkubal, who underwent surgery to remove a loose body from his left elbow, is conservatively expected to be out through July. The procedure used a device called a NanoNeedle — a smaller instrument than traditional arthroscopy — and Skubal is the first MLB player to have the surgery with it. The hope is for a faster recovery, but the timeline remains cautious.\n\nVerlander was eligible to come off the 60-day IL at the end of May. He has a scheduled rehab assignment with the Triple-A Toledo Mud Hens. Detroit is hoping to get the future Hall of Famer back on the major league mound in June, but the rotation around him is threadbare.\n\nAnd now Mize is out, too.\n\nThe Tigers had legitimate playoff aspirations entering 2026. Whether those aspirations survive losing three starters simultaneously is the defining question of their season. ⚾",
+        "image_caption": "Skubal. Verlander. Now Mize. The Detroit Tigers have three starting pitchers on the injured list at the same time. Their rotation is in crisis. ⚾ #Tigers #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-detroit-tigers-rotation-crisis-mize-skubal-verlander-il-2026.html",
+        "headline": "Three Starters, One IL: Detroit's Rotation Crisis Deepens With Mize Injury",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tigers Rotation in Crisis\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Tarik Skubal Detroit Tigers\n2. Justin Verlander Detroit Tigers\n3. Casey Mize Detroit Tigers\n4. Detroit Tigers baseball\n\n**Text Overlay Copy:**\n- Headline: \"THREE STARTERS DOWN\"\n- Subtitle: \"Skubal. Verlander. Mize. All on the IL.\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nSkubal or Verlander in pitching motion — Detroit's navy and orange. Serious, somber tone reflecting the injury news. Dark overlay bar at bottom.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Detroit Tigers — Three Starters on IL\n**Sources:**\n- MLB Trade Rumors: \"Tigers Notes: Skubal, Verlander, Mize, Carpenter, Torres, Báez\"\n- Athlon Sports: \"Tigers Lose Casey Mize to IL as Injury Woes Continue\"\n- SI.com: \"Detroit Tigers Dealing With Mixed News in Starting Rotation Recovery Effort\"\n- Total Pro Sports: \"Detroit Tigers Get Huge Boost With Veteran Pitcher After Tarik Skubal Injury\"\n**Verified Facts:**\n- [HIGH] Casey Mize placed on 15-day IL (retroactive to May 28) with right adductor inflammation\n- [HIGH] Tarik Skubal underwent surgery to remove a loose body from his left elbow; conservatively out through July\n- [HIGH] Justin Verlander: 60-day IL (left hip), eligible to come off May 31; scheduled for rehab assignment with Triple-A Toledo\n- [HIGH] Three Detroit starters on the IL simultaneously\n- [MEDIUM] Detroit is expecting to get both Verlander and Skubal back in June (Verlander sooner)\n- [MEDIUM] Skubal's surgery used a NanoNeedle device (smaller than traditional arthroscope) — Skubal is the first MLB player to have this procedure",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Schwarber's Historic HR Pace — Still MLB's Sole Leader With Murakami Out (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Kyle Schwarber hit 20 home runs in the Phillies' first 49 games.\n\nOn pace for 66 on the season.\n\nThe only players who have been better through 49 games? Barry Bonds in 2001. Mark McGwire in 1998.\n\n#Phillies #MLB #HomeRunRace",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB",
+            "#HomeRunRace"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "Let's talk about what Kyle Schwarber is doing — because the numbers are historically rare.\n\nSchwarber hit his 20th home run of the 2026 season in the Phillies' 49th game. That makes him just the 18th player in MLB history to reach 20 home runs that quickly. The last player to do it was Josh Hamilton in 2012.\n\nAnd here's where the comparison gets truly staggering: the only players in the modern era who have been BETTER than Schwarber's current pace through 49 games are Barry Bonds in 2001 (25 HRs) and Mark McGwire in 1998 (25 HRs). Those are the two seasons that produced the single-season home run records of 73 and 70.\n\nSchwarber's current pace projects to 66 home runs for the 2026 season.\n\nWith Munetaka Murakami (who had tied Schwarber at the top of the HR leaderboard before going down with a hamstring injury) expected out until mid-June, Schwarber stands alone as the MLB home run leader. The nearest challengers are nowhere close.\n\nCan he sustain it? That's the only question. Big power starts don't always hold. But right now, Kyle Schwarber is doing something that only two players in baseball history have done better — and those two players are in the record books. ⚾",
+        "image_caption": "20 HRs in 49 games. On pace for 66. Kyle Schwarber is doing something only Bonds and McGwire have done better. The HR race is his right now. ⚾ #Phillies #MLB #HomeRunRace",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-kyle-schwarber-hr-pace-66-historical-bonds-mcgwire-2026.html",
+        "headline": "Bonds, McGwire, Schwarber: The Historic Company He's Keeping Right Now",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber HR Pace\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Kyle Schwarber Philadelphia Phillies\n2. Philadelphia Phillies baseball\n\n**Text Overlay Copy:**\n- Headline: \"ON PACE FOR 66\"\n- Subtitle: \"Schwarber's 20 HRs — historically rare territory\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nSchwarber in a home run swing or watching a ball fly — Phillies red and white. Power and swagger energy. Dark overlay at bottom third."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber HR Pace — Historical Context\n**Sources:**\n- ESPN: \"MLB 2026: Will Phillies' Kyle Schwarber join 60 home run club?\"\n- OutKick/FoxNews: \"Philadelphia Phillies slugger Kyle Schwarber is already on track to challenge Barry Bonds, Mark McGwire\"\n- Yahoo Sports: \"ALL 20 Kyle Schwarber HR in 2026! (First player to 20 HR)\"\n**Verified Facts:**\n- [HIGH] Kyle Schwarber is the sole MLB home run leader heading into June\n- [HIGH] He hit 20 HRs in the Phillies' first 49 games — on pace for 66 for the season\n- [HIGH] Just the 18th player in MLB history with 20 HRs through a team's first 49 games\n- [HIGH] First player with 20 HRs through 49 games since Josh Hamilton in 2012\n- [HIGH] Only players with 25+ HRs in 49 games: Barry Bonds (25 in 2001, hit 73 that season), Mark McGwire (25 in 1998, hit 70 that season)\n- [HIGH] Murakami (White Sox) is out until mid-June with a hamstring injury, leaving Schwarber as the clear solo leader\n- [MEDIUM] Schwarber also hit his 350th career HR on April 30, the ninth active player to reach that milestone",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
