@@ -2,6 +2,41 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-01
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | NBA Finals Game 1 Preview — Knicks at Spurs (June 3, AT&T Center SA, 8:30 PM ET ABC); Spurs -205; Knicks 11-game win streak; 1999 rematch | 1 | NEW STORY |
+| 2 | Wembanyama vs. Brunson Finals MVP — Wemby +250 (unanimous DPOY, 27.3/10.9/2.7 WCF), Brunson +265 (26.9 PPG, 26-4-8 vs. SA); Castle/Harper frontline | 1 | FOLLOW UP |
+| 3 | 1999 Rematch — Rick Brunson on 1999 Knicks (lost 4-1); son Jalen now leads NY back vs. same Spurs franchise 27 years later | 2 | FOLLOW UP |
+| 4 | Washington Wizards Win 2026 NBA Draft Lottery — No. 1 pick (14.0% odds); first since John Wall 2010; Top 5: Wizards, Jazz, Grizzlies, Bulls, Clippers | 2 | NEW STORY |
+| 5 | Knicks Historic Postseason — +271 total differential (best in playoff history), +19.8 net rating, 11-game win streak, 23.8-pt avg margin | 2 | FOLLOW UP |
+
+### STORY 1: NBA Finals Game 1 Preview
+- **Tier:** 1
+- **Key facts:** Game 1: June 3, 8:30 PM ET, ABC, AT&T Center SA. Spurs -205. Spurs 62-20. Knicks 53-29. 11-game win streak. Schedule: G1 June 3/G2 June 5 (SA), G3 June 8/G4 June 10 (NY), G5 June 13 if needed.
+- **Status:** NEW STORY
+
+### STORY 2: Wembanyama vs. Brunson Finals MVP
+- **Tier:** 1
+- **Key facts:** Wemby +250, Brunson +265. Brunson 26.9 PPG playoffs; 26/4/8 on 42/42/88 vs SA. Wemby WCF: 27.3/10.9/2.7 BPG. Unanimous DPOY (100/100). 197 blocks/3.1 BPG. Castle+Harper frontline.
+- **Status:** FOLLOW UP
+
+### STORY 3: 1999 Rematch
+- **Tier:** 2
+- **Key facts:** 1999 Finals: Spurs def. Knicks 4-1. Rick Brunson on 1999 Knicks. Jalen is Rick's son. 27 years between meetings.
+- **Status:** FOLLOW UP
+
+### STORY 4: Wizards Win 2026 Draft Lottery
+- **Tier:** 2
+- **Key facts:** Wizards won May 10 (14.0% odds). First No. 1 since John Wall 2010. Top 5: Wizards, Jazz, Grizzlies, Bulls, Clippers. Draft June 23-24.
+- **Status:** NEW STORY
+
+### STORY 5: Knicks Historic Postseason Differential
+- **Tier:** 2
+- **Key facts:** +271 total (best playoff history). +19.8 net rating. 11-game win streak. 23.8-pt avg margin. Brunson ECF MVP, 26.9 PPG.
+- **Status:** FOLLOW UP
+
 ## 2026-05-29
 
 | # | Story | Tier | Tag |
