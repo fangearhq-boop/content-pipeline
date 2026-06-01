@@ -1,0 +1,294 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-01",
+  "compiled_at": "2026-06-01T10:21:49.001130+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM ET",
+      "description": "X Text Post (Story 1 — Frahm near no-hitter/Texas result)",
+      "type": "Texas 3-1 Nebraska"
+    },
+    {
+      "time": "9:15 AM ET",
+      "description": "X Text Post (Story 1 — Stewart HR record)",
+      "type": "Stewart 28th HR"
+    },
+    {
+      "time": "9:30 AM ET",
+      "description": "X Text Post (Story 3 — TN vs TX rematch preview)",
+      "type": "Semifinal preview"
+    },
+    {
+      "time": "11:00 AM ET",
+      "description": "X Text Post (Story 2 — Canady/Tech result)",
+      "type": "Texas Tech 8-7 UCLA"
+    },
+    {
+      "time": "11:30 AM ET",
+      "description": "X Text Post (Story 5 — handshake controversy)",
+      "type": "Weekly/Pannell"
+    },
+    {
+      "time": "3:00 PM ET",
+      "description": "X Text Post (Story 4 — Alabama vs Texas Tech preview)",
+      "type": "7 PM semifinal"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Texas 3-1 Nebraska — Stewart HR Breaks Frahm's Near No-Hitter, Ends Husker Season (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Jordy Frahm had a no-hitter with 5 outs to go.\n\nThen Jaycie Nichols singled. Then Katie Stewart hit a 3-run homer.\n\nTexas 3, Nebraska 1. Nebraska is eliminated. Frahm's legendary career is over.\n\n#HookEm #Huskers #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#Huskers",
+            "#NCAASoftball"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Katie Stewart has 28 home runs this season.\n\nThat's a new Texas softball program record.\n\nHer 3-run blast in the 6th broke up Frahm's no-hitter and sent the Longhorns to today's semifinal vs. Tennessee.\n\n#HookEm #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#NCAASoftball"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "Jordy Frahm was five outs from the 20th no-hitter in Women's College World Series history.\n\nThen the sixth inning happened.\n\nFreshman Jaycie Nichols reached on an infield single to break up the no-hit bid. Kayden Henry followed with a single. And then Katie Stewart — who has been one of the most dangerous bats in college softball all season — turned on a Frahm pitch and launched it over the left field fence. Three-run homer. Texas 3, Nebraska 1.\n\nThe game was effectively over. The season was over. And so was one of the most extraordinary careers in college softball history.\n\nJordy Frahm finishes her career as a four-time NFCA first-team All-American and the 2026 USA Softball Collegiate Player of the Year. She had already homered to open the game — her 20th of the season — and she nearly authored one of the most memorable performances in WCWS history. She came within five outs.\n\nFor Texas, Stewart's blast (her 28th homer of the season — a new Texas program record) sends the Longhorns to today's noon ET semifinal against Tennessee. The defending champions are alive.\n\nNebraska's season — 52 wins, a first WCWS since 2013, a 27-game winning streak — ends at Devon Park. It was a season to remember. 🥎",
+        "image_caption": "Five outs from a no-hitter. Then one swing ended it all. Stewart's 3-run homer eliminates Nebraska. Frahm's brilliant career ends at the WCWS. Texas is headed to the semis. 🥎 #HookEm #Huskers #NCAASoftball",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-katie-stewart-hr-texas-eliminates-nebraska-frahm-near-no-hitter-wcws-2026.html",
+        "headline": "Five Outs From History: Stewart's Homer Eliminates Nebraska, Ends Frahm's Career",
+        "word_count": 695
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas 3-1 Nebraska — Stewart HR Breaks Frahm Near No-Hitter\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Katie Stewart Texas\n2. Jordy Frahm Nebraska\n3. Texas Longhorns softball\n4. Nebraska Cornhuskers softball\n\n**Text Overlay Copy:**\n- Headline: \"5 OUTS FROM HISTORY\"\n- Subtitle: \"Stewart's HR ends Nebraska's season\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nStewart mid-swing or at the plate — power pose in burnt orange. Or Frahm in pitching windup. Dark semi-transparent overlay bar at bottom third. Urgent, dramatic energy.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas 3-1 Nebraska — Frahm Near No-Hitter\n**Sources:**\n- ESPN: \"Texas breaks up no-hitter, then eliminates Nebraska from WCWS\"\n- Yahoo Sports: \"From no-hitter to nightmare: Jordy Frahm, Nebraska crash out of Women's College World Series\"\n- University of Texas Athletics: \"Stewart's go-ahead, three-run home run sends No. 3 Softball to WCWS Semifinals\"\n- Nebraska Omaha World-Herald: \"Nebraska's historic season, Jordy Frahm's Husker career ends with WCWS loss to Texas\"\n- WOWT: \"Katie Stewart blasts 3-run home run to send Texas into Final Four at WCWS\"\n**Verified Facts:**\n- [HIGH] Texas defeated Nebraska 3-1 in Sunday's elimination game at the WCWS\n- [HIGH] Frahm carried a no-hitter through the first 5.2 innings (within 5 outs of the 20th no-hitter in WCWS history)\n- [HIGH] Freshman Jaycie Nichols broke up the no-hitter with an infield single\n- [HIGH] Kayden Henry followed with a single to right\n- [HIGH] Katie Stewart hit a three-run home run off Frahm in the sixth inning to give Texas a 3-1 lead\n- [HIGH] Stewart's homer was her 28th of the season — a new Texas single-season program record (breaking her own record of 24 set earlier in 2026, then extended to 28)\n- [MEDIUM] Stewart's blast traveled 250 feet and was her longest homer of the season\n- [HIGH] Frahm homered to open the game in the 1st inning — her 20th HR of the season\n- [HIGH] Nebraska was eliminated; Frahm's college career ended at Devon Park\n- [HIGH] Frahm is a four-time NFCA first-team All-American and the 2026 USA Softball Collegiate Player of the Year\n- [MEDIUM] Frahm changed her name from Bahl after marrying in the offseason\n- [HIGH] Texas advances to the noon ET semifinal today vs. Tennessee\n- [MEDIUM] Stewart's 8th go-ahead home run of the season",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Texas Tech 8-7 UCLA in 9 Innings — Canady Rebounds, Megan Grant's Season Ends (Tier 1)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "NiJaree Canady was struggling all game.\n\nThen she struck out the final batter in extras to end it.\n\nTexas Tech 8, UCLA 7 in 9 innings. Megan Grant's record-breaking season is over.\n\n#WreckEm #WCWS #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#WCWS",
+            "#NCAASoftball"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "NiJaree Canady was not at her best Sunday night. She hadn't been at her best for the entire WCWS, carrying a 7.16 ERA into the game after entering the tournament with a 1.62 season mark.\n\nBut when Texas Tech needed the final out in the ninth inning — after a wild 8-7 game that went back and forth for nine innings — Canady was the one standing on the mound. And she delivered the game-ending strikeout of Bri Alejandre.\n\nTexas Tech wins 8-7 in nine innings, and the No. 11 seed is heading to the national semifinal.\n\nThe Red Raiders made it happen in the top of the ninth when Taylor Pannell led off with a single, moved up, and scored on Kaitlyn Terry's RBI double to left-center. Mihyia Davis scored on a UCLA error to give Tech a two-run cushion heading into the bottom of the ninth.\n\nCanady slammed the door. No. 11 seed. National semifinal. Tonight vs. No. 1 Alabama at 7 PM on ESPN.\n\nOn the other side: Megan Grant's season is over. The most prolific home-run hitter in college softball history — 42 home runs this season, an NCAA record — exits the WCWS with UCLA. It's a bittersweet ending to a historic career. Grant hit 42 this season and 91 in her career (both records). What a player. 🥎",
+        "image_caption": "Canady's game-ending strikeout. Texas Tech survives. Megan Grant's 42-HR season ends in extras. No. 11 seed in the WCWS Final Four. 🥎 #WreckEm #WCWS #NCAASoftball",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-texas-tech-8-7-ucla-canady-survives-megan-grant-eliminated-wcws-2026.html",
+        "headline": "Canady Finds the Final Strike: Texas Tech Ousts UCLA 8-7 in Nine Innings",
+        "word_count": 645
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech 8-7 UCLA in 9 Innings — Canady Rebounds\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. NiJaree Canady Texas Tech\n2. Megan Grant UCLA\n3. Texas Tech Red Raiders softball\n4. UCLA Bruins softball\n\n**Text Overlay Copy:**\n- Headline: \"CANADY SURVIVES\"\n- Subtitle: \"Tech 8, UCLA 7 — No. 11 seed in the Final Four\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nCanady in pitching motion or celebratory pose — Red Raiders scarlet and black. Alternatively: Grant's final at-bat silhouette for contrast. Dark overlay bar at bottom third.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech 8-7 UCLA in 9 Innings\n**Sources:**\n- Fox34: \"Texas Tech defeats UCLA in extra innings, 8-7\"\n- Yahoo Sports: \"Texas Tech survives NiJaree Canady's struggles for wild elimination win over UCLA in extras\"\n- On3: \"2026 WCWS: Texas Tech outlasts UCLA in elimination game\"\n- Texas Tech Athletics: \"Tech tops UCLA, advances to WCWS semifinals\"\n- WreckEmRed: \"2026 WCWS bracket update: Texas Tech softball advances on to WCWS semifinals\"\n**Verified Facts:**\n- [HIGH] Texas Tech defeated UCLA 8-7 in nine innings in Sunday's elimination Game 10\n- [HIGH] Kaitlyn Terry hit an RBI double in the top of the ninth inning to score Taylor Pannell (who led off with a single), giving Tech the lead\n- [HIGH] Mihyia Davis scored on a UCLA shortstop error for an insurance run in the ninth\n- [HIGH] NiJaree Canady struck out Bri Alejandre to end the game\n- [HIGH] Canady had a 7.16 ERA entering the game at the WCWS (vs. 1.62 season ERA entering the tournament)\n- [HIGH] Megan Grant's season ends with UCLA's elimination — Grant hit 42 home runs (new NCAA single-season record) and 91 career HRs (new UCLA record)\n- [HIGH] Texas Tech (No. 11 seed) advances to tonight's 7 PM ET semifinal vs. No. 1 Alabama",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Tennessee vs. Texas WCWS Semifinal — Rematch at Noon ET on ESPN Today (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tennessee vs. Texas. Rematch. Noon ET on ESPN.\n\nTennessee beat Texas 2-1 in their first WCWS meeting.\n\nTexas has won two games since to fight back to the semis.\n\nPickens vs. Kavan. Everything on the line. Don't miss it. 🥎\n\n#VolsSoftball #HookEm #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#VolsSoftball",
+            "#HookEm",
+            "#NCAASoftball"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "They already played once at this WCWS — and Tennessee won.\n\nNow they're playing again, and this time the championship series is on the line.\n\nTennessee (2-0 at the WCWS) faces Texas in today's noon ET semifinal on ESPN. The Lady Vols beat the Longhorns 2-1 back in their opening-round meeting, sending Texas to the loser's bracket. The Longhorns have since beaten Mississippi State (Kavan's 78-pitch shutout, 600th career K) and Nebraska (Stewart's 3-run HR) to fight their way back to the Final Four.\n\nKarlyn Pickens (6.2 IP in Tennessee's last win, outstanding all postseason) will start against Teagan Kavan (the defending champion's ace, fresh and sharp). Emma Clarke is riding tournament momentum with four home runs in this postseason run.\n\nOne of these programs is going to the championship series starting June 3. The other is going home.\n\nNoon. ESPN. This is what the WCWS is all about. 🥎",
+        "image_caption": "Tennessee vs. Texas. Rematch in the WCWS semifinals. Noon ET on ESPN. They've already played — can Tennessee win again, or does Texas get its revenge? 🥎 #VolsSoftball #HookEm #NCAASoftball",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-tennessee-vs-texas-wcws-semifinal-preview-rematch-2026.html",
+        "headline": "Rematch: Tennessee and Texas Meet Again in the WCWS Semifinals",
+        "word_count": 644
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tennessee vs. Texas Semifinal — Noon ET ESPN\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Karlyn Pickens Tennessee\n2. Teagan Kavan Texas\n3. Tennessee Volunteers softball\n4. Texas Longhorns softball\n\n**Text Overlay Copy:**\n- Headline: \"REMATCH\"\n- Subtitle: \"Tennessee vs. Texas — Noon ET ESPN\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nSplit composition or single ace in pitching motion. Tennessee orange vs. Texas burnt orange contrast. Big-game energy — clean dark overlay at bottom with text.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee vs. Texas Semifinal Preview\n**Sources:**\n- ESPN schedule/bracket page\n- Rocky Top Insider: \"Tennessee Softball Set to Face Familiar Opponent in 2026 WCWS Semifinals\"\n- CBS Sports bracket page\n- Just Women's Sports: \"WCWS 2026: Tennessee softball world series Texas scores\"\n**Verified Facts:**\n- [HIGH] Tennessee (2-0 at WCWS) vs. Texas (survived the loser's bracket) in today's noon ET semifinal on ESPN\n- [HIGH] Tennessee beat Texas in their first WCWS meeting (Game 1 — Tennessee won 2-1 in that opener on Day 1)\n- [HIGH] Texas has won two games since (beating MSU and Nebraska) to advance from the loser's bracket\n- [HIGH] Karlyn Pickens pitched 6.2 innings in Tennessee's most recent win (vs. Texas Tech), Sage Mardjetko earned the win\n- [HIGH] Emma Clarke has 4 home runs in the 2026 NCAA tournament\n- [HIGH] Teagan Kavan threw a 78-pitch CG shutout to beat Mississippi State (600th career K on final out)\n- [HIGH] Kavan's Stewart single-season HR record: 28 (from Story 1 research)\n- [HIGH] Championship series starts Wednesday, June 3",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Alabama vs. Texas Tech WCWS Semifinal — 7 PM ET ESPN Tonight (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "No. 1 Alabama vs. No. 11 Texas Tech. Tonight. 7 PM on ESPN.\n\nAlabama (2-0 at WCWS): Briski near-flawless. The Tide look unbeatable.\n\nTexas Tech: 9th-inning comeback last night. Canady still standing.\n\nCinderella meets the machine. 🥎\n\n#RollTide #WreckEm #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#WreckEm",
+            "#NCAASoftball"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "No. 1 Alabama. No. 11 Texas Tech.\n\nNobody predicted this semifinal. And yet here we are.\n\nAlabama has been one of the most dominant teams in this WCWS. Jocelyn Briski (25-3, SEC Pitcher of the Year) has been near-flawless, throwing her fourth one-hitter in six starts in Saturday's win over Nebraska. The Crimson Tide are 2-0 in Oklahoma City and have not trailed at any point in either game.\n\nTexas Tech has survived everything. Consecutive elimination games. A struggling ace. A game that went to nine innings. And now they've reached the national semifinal as the No. 11 seed — the biggest Cinderella story of the 2026 WCWS.\n\nNiJaree Canady may have struggled by her standards (7.16 WCWS ERA), but she struck out the final batter to end the UCLA game. She's still capable of dominating on any given night. Tonight, facing Alabama, she needs to find that form.\n\nThere's also the off-field backdrop: Tennessee coach Karen Weekly and Tech's Taylor Pannell (a former Volunteer) have been at the center of a viral handshake controversy since Saturday. Tonight it's a different matchup, but the Tennessee/Tech story is still part of the atmosphere in Oklahoma City.\n\nTonight. 7 PM. ESPN. The Cinderella run continues — or Alabama proves why they've been No. 1 all season. 🥎",
+        "image_caption": "No. 1 Alabama vs. No. 11 Texas Tech. Tonight at 7 PM on ESPN. The Cinderella of the 2026 WCWS faces the tournament's most dominant team. 🥎 #RollTide #WreckEm #NCAASoftball",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alabama-vs-texas-tech-wcws-semifinal-preview-briski-canady-2026.html",
+        "headline": "No. 1 Alabama vs. No. 11 Texas Tech: The WCWS Semifinal Nobody Predicted",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama vs. Texas Tech Semifinal — 7 PM ET ESPN\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. Jocelyn Briski Alabama\n2. NiJaree Canady Texas Tech\n3. Alabama Crimson Tide softball\n4. Texas Tech Red Raiders softball\n\n**Text Overlay Copy:**\n- Headline: \"CINDERELLA VS. THE MACHINE\"\n- Subtitle: \"Alabama vs. Texas Tech — 7 PM ESPN\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nBriski in pitching windup — determined expression, Alabama crimson palette. Or Canady for the Tech perspective. Dramatic contrast between teams' brand colors.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alabama vs. Texas Tech Semifinal Preview\n**Sources:**\n- SI.com: \"Alabama Advances to WCWS Semifinals Behind Dominant First Inning Against Nebraska\"\n- On3: \"2026 WCWS: Briski, Giles lead Alabama to semifinals with win over Nebraska\"\n- AL.com / Chattanooga Times Free Press: \"Alabama cruises past Nebraska to remain unbeaten at WCWS\"\n**Verified Facts:**\n- [HIGH] Alabama (2-0 at WCWS) vs. Texas Tech (No. 11 seed) tonight at 7 PM ET on ESPN\n- [HIGH] Jocelyn Briski is 25-3 on the season and the SEC Pitcher of the Year\n- [HIGH] Briski threw her fourth 1-hitter in six starts in the last WCWS game (vs. Nebraska), 16th CG of the season\n- [HIGH] Briski struck out nine in the first WCWS game (vs. UCLA) and six in the second (vs. Nebraska)\n- [HIGH] NiJaree Canady (Texas Tech) had a 7.16 ERA at the WCWS entering the UCLA game\n- [HIGH] Texas Tech is the No. 11 seed\n- [HIGH] Winner advances to the championship series June 3",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "The Handshake Heard Around the WCWS — Weekly vs. Pannell (Tier 2)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Taylor Pannell said Tennessee coach Karen Weekly told her she \"made a mistake\" in the WCWS handshake line Saturday.\n\nWeekly calls it an \"outright lie.\"\n\nABC showed video. The background: Pannell transferred from Tennessee to Texas Tech.\n\n#VolsSoftball #WreckEm #NCAASoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#VolsSoftball",
+            "#WreckEm",
+            "#NCAASoftball"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "The WCWS had its biggest off-field moment of the tournament Saturday night — and it happened in the postgame handshake line.\n\nTexas Tech third baseman Taylor Pannell — who played three seasons at Tennessee before transferring to Texas Tech last summer — said after the Red Raiders' 2-1 elimination loss to Tennessee that Lady Vols coach Karen Weekly told her in the handshake line that she \"made a mistake\" by leaving Tennessee.\n\nWeekly responded directly: she called it \"an outright lie,\" said she went just as fast past Pannell as any other player, and didn't even know where Pannell was in the line.\n\nABC then aired video during Sunday's Texas-Nebraska broadcast. Reporter Holly Rowe, standing near the handshake line, said she heard Weekly say \"good game\" to each Red Raiders player. The video itself was inconclusive.\n\nPannell's father, Brandon, entered the conversation on social media, posting that \"Karen Weekly was right that my kid did make a mistake and that was to play for her.\"\n\nThe backstory adds context: Weekly publicly alleged tampering when Pannell transferred from Tennessee to Texas Tech. That accusation has been part of the narrative between these programs ever since.\n\nThe story continues tonight — the two programs' rivalry doesn't disappear just because it's Alabama in the other dugout. Tennessee plays Texas in the noon semifinal. Texas Tech faces Alabama at 7 PM. And the drama of the past 48 hours hangs over the day at Devon Park. 🥎",
+        "image_caption": "She said \"you made a mistake.\" The coach says that's a lie. The WCWS handshake controversy between Tennessee's Karen Weekly and Texas Tech's Taylor Pannell, explained. 🥎 #VolsSoftball #WreckEm #WCWS",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-karen-weekly-taylor-pannell-handshake-controversy-wcws-2026.html",
+        "headline": "The WCWS Handshake Drama: Karen Weekly, Taylor Pannell, and What We Know",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Karen Weekly / Pannell Handshake Controversy\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n**Photo Search Terms (Imagn):**\n1. WCWS Devon Park softball\n2. Women's College World Series Oklahoma City\n3. NCAA softball tournament postgame\n4. Tennessee Volunteers softball\n\n**Text Overlay Copy:**\n- Headline: \"THE HANDSHAKE HEARD AROUND THE WCWS\"\n- Subtitle: \"Weekly vs. Pannell — the story explained\"\n- Headline color: #FFFFFF (white)\n- Subtitle color: #F4C542 (soft gold)\n\n**Composition Notes:**\nDevon Park wide shot — stadium atmosphere and the WCWS brand. Or crowd shot with emotional intensity. Somber, dramatic overlay. Story is about the moment and the drama, not a specific player celebration."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Karen Weekly / Taylor Pannell Handshake Controversy\n**Sources:**\n- ESPN: \"UT's Weekly calls Pannell's handshake accusation 'outright lie'\"\n- Yahoo Sports: \"Tennessee softball coach disputes claim by Texas Tech player regarding Women's College World Series handshake line remarks\"\n- Yahoo Sports: \"Texas Tech-Tennessee handshake controversy, explained\"\n- SI.com: \"UPDATE: Tennessee-Texas Tech WCWS Classic Overshadowed by Postgame Controversy\"\n- Awful Announcing: \"ESPN on ABC delivers video footage of Texas Tech-Tennessee WCWS postgame controversy\"\n**Verified Facts:**\n- [HIGH] Taylor Pannell (Texas Tech 3B) transferred from Tennessee to Texas Tech\n- [HIGH] Pannell claimed Karen Weekly said \"you made a mistake\" to her in the postgame handshake line after Tennessee's 2-1 win over Texas Tech\n- [HIGH] Weekly called the claim an \"outright lie\"\n- [HIGH] ABC aired video of the handshake line; Holly Rowe said she heard Weekly say \"good game\" to each player\n- [HIGH] Video evidence is inconclusive on whether any additional remark was made\n- [HIGH] Weekly had alleged tampering when Pannell transferred from Tennessee to Texas Tech\n- [MEDIUM] Pannell's father, Brandon Pannell, posted on social media: \"Karen Weekly was right that my kid did make a mistake and that was to play for her\"\n- [HIGH] The controversy comes before today's Alabama vs. Texas Tech semifinal (same Tennessee coach/Tech program involved)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

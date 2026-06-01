@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 1, 2026
+
+### Story 1: Texas 3-1 Nebraska — Stewart HR Breaks Frahm Near No-Hitter, Ends Husker Season
+- **Date:** 2026-06-01
+- **Tier:** 1
+- **Classification:** NEW STORY (May 31 previewed Game 9; today covers result — Frahm within 5 outs of WCWS no-hitter before Stewart's 3-run HR ended it)
+- **Angle:** Frahm carried a no-hitter through 5.2 innings before freshman Jaycie Nichols singled and Kayden Henry singled. Stewart launched a 3-run HR (28th of season, Texas program record). Frahm had homered to open game (20th HR of season). Nebraska eliminated. Frahm's career ends. Texas advances to noon ET semifinal vs Tennessee.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee vs Texas semifinal result (noon ET today)
+  - Stewart's program-record HR chase in postseason
+  - Nebraska/Frahm legacy piece (career retrospective)
+
+### Story 2: Texas Tech 8-7 UCLA in 9 Innings — Canady Rebounds, Megan Grant Eliminated
+- **Date:** 2026-06-01
+- **Tier:** 1
+- **Classification:** NEW STORY (May 31 previewed Game 10; today covers result — Canady struggles but strikes out final batter, UCLA/Grant eliminated)
+- **Angle:** Kaitlyn Terry RBI double in 9th scored Pannell (led off with single). Mihyia Davis scored on error for insurance. Canady struck out Bri Alejandre to end it. Megan Grant (42 HRs NCAA record, 91 career UCLA record) eliminated. Texas Tech No. 11 seed advances to 7 PM ET semifinal vs Alabama.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Alabama vs Texas Tech semifinal result (7 PM ET tonight)
+  - Grant's legacy/record-42 article
+  - Canady's WCWS redemption arc
+
+### Story 3: Tennessee vs. Texas WCWS Semifinal — Rematch Noon ET ESPN
+- **Date:** 2026-06-01
+- **Tier:** 2
+- **Classification:** NEW STORY — semifinal preview with rematch angle
+- **Angle:** Tennessee (2-0 WCWS) beat Texas 2-1 in round 1; Texas survived MSU + Nebraska to return. Pickens vs Kavan ace matchup. Clarke has 4 tournament HRs. Noon ET ESPN.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Game result/recap
+  - Championship series preview if Tennessee or Texas advances
+
+### Story 4: Alabama vs. Texas Tech WCWS Semifinal — 7 PM ET ESPN
+- **Date:** 2026-06-01
+- **Tier:** 2
+- **Classification:** NEW STORY — semifinal preview
+- **Angle:** No. 1 Alabama (2-0 WCWS, Briski 25-3 SEC POY) vs No. 11 Texas Tech (Cinderella survivor). Pannell/Weekly backdrop adds drama. 7 PM ET ESPN.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Game result/recap
+  - Championship series preview
+
+### Story 5: Karen Weekly vs Taylor Pannell — WCWS Handshake Controversy
+- **Date:** 2026-06-01
+- **Tier:** 2
+- **Classification:** NEW STORY — viral off-field controversy
+- **Angle:** Pannell (TTU, ex-UT) claimed Weekly said "you made a mistake" in handshake line. Weekly: "outright lie." ABC aired video; Holly Rowe heard "good game." Father Brandon Pannell posted on social media. Background: Weekly alleged tampering when Pannell transferred. Adds drama to tonight's semifinal.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Further commentary/resolution
+  - Transfer portal drama in college softball broader piece
+
+---
+
 ## May 31, 2026
 
 ### Story 1: Tennessee Walks Off Texas Tech 2-1 in 9 Innings — Emma Clarke Historic HR
