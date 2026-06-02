@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-06-01T08:30:00.515969+00:00",
-  "today_ct": "2026-06-01",
-  "off_day": true,
-  "is_series_start_today": false,
-  "series": null,
-  "today_cubs_game": null,
-  "rationale": "No upcoming Cubs game on today's CT calendar date."
+  "generated_at": "2026-06-02T08:30:00.408768+00:00",
+  "today_ct": "2026-06-02",
+  "off_day": false,
+  "is_series_start_today": true,
+  "series": {
+    "opponent": "Athletics",
+    "opponent_id": 133,
+    "opponent_record": "28-31",
+    "cubs_record": "32-28",
+    "is_cubs_home": true,
+    "venue": "Wrigley Field",
+    "series_length": 3,
+    "games": [
+      {
+        "game_pk": "824675",
+        "game_date_iso": "2026-06-03T00:05:00Z",
+        "game_date_ct": "Tue 7:05 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824671",
+        "game_date_iso": "2026-06-04T00:05:00Z",
+        "game_date_ct": "Wed 7:05 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824672",
+        "game_date_iso": "2026-06-05T00:05:00Z",
+        "game_date_ct": "Thu 7:05 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      }
+    ],
+    "rationale": "Off day yesterday. Today: Cubs host Athletics \u2192 game 1 of 3."
+  },
+  "today_cubs_game": {
+    "game_pk": "824675",
+    "status": "Preview",
+    "detailed_status": "Scheduled",
+    "game_date_iso": "2026-06-03T00:05:00Z",
+    "game_date_ct": "Tue 7:05 PM CT",
+    "is_cubs_home": true,
+    "opponent_id": 133,
+    "opponent_name": "Athletics",
+    "opponent_record": "28-31",
+    "cubs_record": "32-28",
+    "cubs_probable": "TBD",
+    "opponent_probable": "TBD",
+    "venue": "Wrigley Field"
+  },
+  "rationale": "Off day yesterday. Today: Cubs host Athletics \u2192 game 1 of 3."
 }
