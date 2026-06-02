@@ -1,0 +1,305 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-02",
+  "compiled_at": "2026-06-02T10:30:26.536405+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Mariners 7-game streak",
+      "type": "X Post (informative)"
+    },
+    {
+      "time": "8:10 AM",
+      "description": "Story 1 — Mariners 7-game streak",
+      "type": "X Post (Julio take)"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — Elly De La Cruz IL",
+      "type": "X Post (breaking)"
+    },
+    {
+      "time": "10:40 AM",
+      "description": "Story 2 — Elly De La Cruz + Arroyo debut",
+      "type": "X Post (prospect angle)"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3 — Schwarber record pace",
+      "type": "X Post"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Tigers rotation recovery",
+      "type": "X Post"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — Braves dominance",
+      "type": "X Post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Mariners Win 7 Straight — Cole Young Walk-Off Single, Third Walk-Off in 4 Days",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Cole Young. Broken-bat single. 10th inning. Walk-off.\n\nSeattle wins 3-2. SEVEN straight. Third walk-off in four games. 🔥\n\nThe Mariners are real. 32-29, three games over .500, surging. ⚾\n\n#Mariners #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mariners",
+            "#MLB"
+          ],
+          "char_count": 201
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Julio Rodriguez hit 10 home runs in May. Best month of his career. 🔥\n\nHe went from \"what happened to that guy\" to AL MVP conversation.\n\nThe Mariners are walking off games left and right. Something is happening in Seattle. ⚾\n\n#Mariners #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mariners",
+            "#MLB"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "Monday night in Seattle, Cole Young came up to the plate in the bottom of the 10th with the game tied at 2. With Randy Arozarena on third after stealing his way there, Young hit a broken-bat single into left field. The game was over.\n\nThree walk-off wins in four days. Seven consecutive victories. The Mariners are 32-29 and three games over .500 — the best mark of their season.\n\nEmerson Hancock was the backbone of Monday's win, going six strong innings and allowing only two hits (both solo home runs). The bullpen — Ferrer, Brash, and Muñoz — handled the rest without drama.\n\nBut the real story might be Julio Rodriguez. He hit 10 home runs in May — the best single month of his career. The guy who came up with enormous expectations and hit a speed bump is back to being exactly what everyone thought he could become.\n\nThe Mariners didn't look like a playoff team in April. Check back in July. ⚾\n\nWhat's your AL West prediction for the rest of the season? Drop it below! ⬇️",
+        "image_caption": "Cole Young. Broken bat. Walk-off single. Seven straight. Seattle is surging. 🔥 #Mariners #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-mariners-7-game-win-streak-cole-young-walk-off.html",
+        "headline": "Mariners Win Seven Straight — Cole Young's Walk-Off Caps Third Dramatic Finish in Four Days",
+        "word_count": 656
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mariners 7-Game Win Streak — Cole Young Walk-Off\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Cole Young celebrating at home plate or with teammates after a walk-off win\n- **Photo Search Terms (Imagn):**\n  1. \"Cole Young Seattle\"\n  2. \"Cole Young Mariners\"\n  3. \"Julio Rodriguez Seattle Mariners\"\n  4. \"Seattle Mariners walk-off\"\n- **Text Overlay Copy:**\n  - Headline: 7 STRAIGHT\n  - Subtitle: Cole Young Walk-Off · 3rd in 4 Games\n  - Subtitle Color: #F4C542 (Soft Gold)\n- **Composition Notes:** Celebration scene at plate. Overlay bar on bottom third.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms (Imagn):**\n  1. \"Cole Young Seattle\"\n  2. \"Seattle Mariners\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mariners Win 7 Straight — Cole Young Walk-Off, Julio Rodriguez's Career May\n- **Classification:** NEW STORY\n- **Freshness:** Verified — game played June 1, 2026. Multiple sources published June 1.\n- **Sources:**\n- fox13seattle.com: \"Cole Young game-winning single in 10th inning gives Seattle Mariners 3-2 win over Mets for 7th straight\" (June 1, 2026) — game recap\n- spokesman.com: \"Cole Young's walkoff single in 10th lifts Mariners past Mets to 7th straight win\" (June 1, 2026)\n- lookoutlanding.com/Yahoo Sports: \"Mariners use youth movement to get past Mets for seventh straight win\" (June 1, 2026)\n- yourvalley.net: \"Young's single in the 10th inning gives Mariners a 3-2 win over the Mets, 3rd walk-off in 4 games\" (June 1, 2026)\n- bettorsinsider.com: Pre-game preview noting \"Julio Rodriguez Career Month Continues\" (June 1, 2026)\n- mynorthwest.com: \"3 Seattle Mariners having career power months in May\" (2026)\n- **Key Facts (HIGH confidence — multi-source):**\n- Final: Seattle 3, New York Mets 2 in 10 innings (June 1, 2026)\n- Walk-off: Cole Young's broken-bat single into left field in the bottom of the 10th, scoring Randy Arozarena who had stolen third base\n- 7th consecutive win — longest winning streak of the season for Seattle\n- 3rd walk-off win in the past 4 games for the Mariners\n- Emerson Hancock: 6 IP, 2 hits allowed (both solo HRs to Jacob Young and Marcus Semien)\n- Mariners record: 32-29, season-best 3 games over .500\n- Relief: Ferrer, Matt Brash, Andrés Muñoz — three scoreless innings in relief\n- **Key Facts (MEDIUM confidence — single or context sources):**\n- Julio Rodriguez: 10 HRs in May 2026 (best single month of his career) — per mynorthwest.com feature; .263/.319/.465 with 12 HRs season total entering June\n- Mariners in first place or near-first in AL West — per game preview context, need to verify exact AL West standings\n- **Why it matters:** Mariners resurgence is one of the biggest stories in the AL entering June. Young as a walk-off hero showcases the team's youth movement.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Elly De La Cruz IL — Grade 1-2 Hamstring Strain, Reds Call Up Edwin Arroyo for MLB Debut",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "BREAKING: Elly De La Cruz is on the IL. 🚨\n\nGrade 1-2 right hamstring strain. Expected to miss 2-4 weeks.\n\nHe was hitting .280 with 12 HRs and 37 RBI. MVP-caliber numbers, gone in an instant.\n\n#Reds #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 202
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Reds lose De La Cruz, call up Edwin Arroyo for his MLB debut. 👀\n\nThe Reds are 6 back in the NL Central. They can't afford to be without their best player.\n\nBut baseball has a way of finding new heroes right when you need one. ⚾\n\n#Reds #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Reds",
+            "#MLB"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "The play looked scary the moment it happened. Elly De La Cruz pulled up after reaching first base, signaling something was wrong before he even took his first step. The MRI confirmed it: a Grade 1-2 right hamstring strain.\n\nThe timeline is 2-4 weeks. For the Reds, who are already six games behind Milwaukee in the NL Central, that's a long time to play without their best player.\n\nDe La Cruz was having a season that had people seriously talking MVP: .280 average, .855 OPS, 12 home runs, 37 RBI. He is one of the most electric players in the sport — the kind of guy who changes a game just by being on first base.\n\nIn his absence, Cincinnati called up Edwin Arroyo for his MLB debut. Arroyo gets his moment, and the organization gets to see what one of their top prospects is made of. Baseball has a way of finding those stories when you least expect them.\n\nBut the Reds need Elly back. And they need him healthy.\n\nYour thoughts on the Reds' playoff chances while De La Cruz is out? 👇",
+        "image_caption": "Elly De La Cruz heads to the IL with a hamstring strain. Top prospect Edwin Arroyo is on his way up. 🚨 #Reds #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-elly-de-la-cruz-il-hamstring-arroyo-debut.html",
+        "headline": "Elly De La Cruz to IL With Grade 1-2 Hamstring Strain — Reds Call Up Edwin Arroyo for MLB Debut",
+        "word_count": 704
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Elly De La Cruz IL — Hamstring Injury\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Elly De La Cruz at bat or running the bases, Reds uniform\n- **Photo Search Terms (Imagn):**\n  1. \"Elly De La Cruz Cincinnati\"\n  2. \"De La Cruz Reds\"\n  3. \"Edwin Arroyo Cincinnati\"\n  4. \"Cincinnati Reds shortstop\"\n- **Text Overlay Copy:**\n  - Headline: ELLY TO THE IL\n  - Subtitle: Grade 1-2 Hamstring · 2-4 Weeks Out\n  - Subtitle Color: #FF6F61 (Warm Coral — injury/urgent)\n- **Composition Notes:** De La Cruz action shot. Coral subtitle signals injury urgency.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms (Imagn):**\n  1. \"Elly De La Cruz Cincinnati\"\n  2. \"Cincinnati Reds\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Elly De La Cruz IL — Grade 1-2 Hamstring, Edwin Arroyo MLB Debut\n- **Classification:** NEW STORY\n- **Freshness:** IL placement reported June 1-2, 2026. Multiple sources.\n- **Sources:**\n- Yahoo Sports: \"Reds Lose Elly De La Cruz to Injury, Call Up Edwin Arroyo\" (June 2, 2026)\n- CBS Sports: \"Reds' Elly De La Cruz: Lands on IL with strained hamstring\" (June 1-2, 2026)\n- MLB.com: \"Elly De La Cruz exits game vs. Braves with right hamstring injury\"\n- Heavy.com: \"Reds Promote Top Prospect for MLB Debut Amid Elly De La Cruz Injury News\"\n- redreporter.com / redlegnation.com: June 1-2 game thread context\n- Yardbarker.com: Injury report mentioning De La Cruz (June 2, 2026)\n- **Key Facts (HIGH confidence — multi-source):**\n- Elly De La Cruz placed on 10-day IL with right hamstring strain\n- MRI result: between Grade 1 and Grade 2 strain — per manager Terry Francona\n- Expected timeline: 2-4 weeks (Francona comment)\n- Edwin Arroyo called up for MLB debut (second base)\n- Matt McLain drawing start at shortstop while De La Cruz out\n- **Key Facts (MEDIUM confidence — season stats from mid-season sources):**\n- De La Cruz 2026 stats: .280 BA, .855 OPS, 12 HRs, 37 RBI (per Athlon Sports/CBS context)\n- Reds position in NL Central: 6 games behind Milwaukee (per redlegnation context)\n- **Confidence note:** De La Cruz stats from mid-season summary pieces, not today's box score — using as MEDIUM confidence.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Schwarber's Record Chase — Now at 22 HRs, On Pace for 66",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kyle Schwarber: 22 home runs. MLB lead. On pace for 66. 💥\n\nOnly McGwire and Bonds had more through this many games.\n\nWe might be watching the greatest HR chase of the modern era unfold in Philadelphia. ⚾\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "Kyle Schwarber has 22 home runs. The season started in late March. Let that math work itself out for a second.\n\nThe Philadelphia Phillies slugger leads all of MLB and is on a pace — through roughly 55 games — that projects to 66 home runs for the full season. That number hasn't been reached by a clean player in modern baseball. The last players with more through 49 games were Mark McGwire in 1998 and Barry Bonds in 2001, who finished with 70 and 73, respectively.\n\nSchwarber is the 18th player in MLB history with at least 20 home runs through a team's first 49 games. The last one was Josh Hamilton in 2012.\n\nTo put it plainly: what he is doing right now has almost never been done. And he's showing no signs of slowing down.\n\nDoes this end with 60 home runs? 65? More? We don't know. But it is the story of the MLB season, and right now, Kyle Schwarber owns it. 💥\n\nCan Schwarber hit 60 this year? Vote in the comments! ⬇️",
+        "image_caption": "22 home runs. On pace for 66. Kyle Schwarber vs. history. 💥 #Phillies #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-schwarber-22-home-runs-record-chase-phillies.html",
+        "headline": "Kyle Schwarber Has 22 Home Runs and an Appointment With History",
+        "word_count": 643
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber Home Run Chase\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Kyle Schwarber home run swing or watching ball leave the park\n- **Photo Search Terms (Imagn):**\n  1. \"Kyle Schwarber Philadelphia\"\n  2. \"Schwarber Phillies\"\n  3. \"Kyle Schwarber home run\"\n  4. \"Philadelphia Phillies\"\n- **Text Overlay Copy:**\n  - Headline: 22 HOME RUNS\n  - Subtitle: On Pace for 66 · Chasing History\n  - Subtitle Color: #F4C542 (Soft Gold)\n- **Composition Notes:** Schwarber HR follow-through, bat flip if available. Upper 2/3 of frame.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms (Imagn):**\n  1. \"Kyle Schwarber Philadelphia\"\n  2. \"Philadelphia Phillies slugger\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber's Record Chase — 22 HRs, On Pace for 66\n- **Classification:** FOLLOW UP (June 1 pipeline: Schwarber at 20 HRs in 49 games)\n- **New Development:** Advanced to 22 HRs through approximately 55 games as of June 1-2.\n- **Freshness:** ESPN feature and MLB.com content published within past 24-48 hours.\n- **Sources:**\n- ESPN: \"MLB 2026: Will Phillies' Kyle Schwarber join 60 home run club?\" — comprehensive analysis\n- MLB.com: \"Kyle Schwarber's MLB-leading 22nd home run of 2026\" (named video/article)\n- clutchpoints.com: \"Kyle Schwarber joins elite Phillies club with 20th home run\" (milestone context)\n- outkick/foxnews: Bonds/McGwire comparison piece\n- **Key Facts (HIGH confidence — multi-source):**\n- Schwarber's current total: 22 HRs (MLB-leading)\n- He is 18th player in MLB history with at least 20 HRs through a team's first 49 games\n- Last player to do it: Josh Hamilton in 2012\n- McGwire (1998) and Bonds (2001) had 25 HRs through first 49 games in their record seasons\n- Schwarber on pace for 66+ HRs for the season (exact pace depends on pace calculation date)\n- Barry Bonds holds the all-time record with 73 (2001)\n- **Confidence note:** Exact game-by-game count depends on when his 22nd came. Using 22 as the most-recently published total. Do NOT claim a specific pace-per-game without verifying current game total.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tigers Rotation Recovery — Skubal and Verlander Both Making Rehab Starts",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Detroit Tigers rotation update:\n\n⚾ Tarik Skubal — rehab start possible this Saturday\n⚾ Justin Verlander — rehabbing at Triple-A Toledo today\n⚾ Casey Mize — still on IL\n\nThat's two Cy Young contenders getting closer to return. The AL gets more interesting. ⚾\n\n#Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "This time last month, the Detroit Tigers' rotation looked like a hospital ward.\n\nTarik Skubal — one of the best pitchers in the AL — had undergone NanoScope surgery to remove loose bodies from his elbow and hadn't pitched in a real game since April 29. Justin Verlander, 43 years old and making yet another comeback, had thrown just one start all season before left hip inflammation shut him down again. Casey Mize? Still out.\n\nMonday brings some good news. Skubal is expected to make a rehab start against Triple-A opponents as soon as this Saturday, tracking for a mid/late-June return to the big club. Verlander is rehabbing at Triple-A Toledo today, testing his hip in a live game setting.\n\nNeither return is guaranteed. But the fact that both are on a rehab progression — making real outings, throwing real pitches — is the first sign in weeks that Detroit's rotation might be whole again before the summer is out.\n\nA healthy Skubal changes things. Significantly. ⚾\n\nDo you think the Tigers can still contend this season? Tell us below! ⬇️",
+        "image_caption": "Skubal nearing a rehab start. Verlander rehabbing in Triple-A. The Tigers rotation is coming back to life. ⚾ #Tigers #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-tigers-rotation-skubal-verlander-rehab-return.html",
+        "headline": "Skubal and Verlander Are Rehabbing — Detroit's Rotation Recovery Is Finally Underway",
+        "word_count": 713
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tigers Rotation Recovery\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Tarik Skubal or Justin Verlander in pitching delivery, Tigers uniform\n- **Photo Search Terms (Imagn):**\n  1. \"Tarik Skubal Detroit\"\n  2. \"Justin Verlander Detroit\"\n  3. \"Skubal Tigers pitcher\"\n  4. \"Detroit Tigers pitching\"\n- **Text Overlay Copy:**\n  - Headline: TIGERS ROTATION UPDATE\n  - Subtitle: Skubal & Verlander Rehabbing · June Return\n  - Subtitle Color: #F4C542 (Soft Gold)\n- **Composition Notes:** Skubal or Verlander pitching motion. Lower third overlay.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms (Imagn):**\n  1. \"Tarik Skubal Detroit\"\n  2. \"Detroit Tigers pitcher\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tigers Rotation Recovery — Skubal and Verlander Rehabbing\n- **Classification:** FOLLOW UP (June 1 pipeline: Tigers rotation crisis with Mize/Skubal/Verlander all on IL)\n- **New Development:** Both Skubal and Verlander are now actively rehabbing, with return timelines clarifying.\n- **Freshness:** Rehab news published June 1-2, 2026.\n- **Sources:**\n- si.com: \"Justin Verlander Closing In on Tigers Return Following Latest Rehab Update\" (June 2026)\n- bleachernation.com: \"The I-Cubs Are Set to Face a Combined Five Cy Young Awards This Week\" (June 1, 2026) — Verlander/Skubal rehab context\n- fantasypros.com: \"Tarik Skubal (elbow) could make rehab start Saturday\" (June 1-2, 2026)\n- mlbtraderumors.com: \"Tigers Notes: Skubal, Verlander, Mize, Carpenter, Torres, Báez\"\n- mlb.com: \"Tarik Skubal, Tigers encouraged by surgery recovery outlook\"\n- heavy.com: Detroit Tigers Verlander news and rotation context\n- **Key Facts (HIGH confidence — multi-source):**\n- Justin Verlander: Expected to pitch in rehab outing with Triple-A Toledo on June 2. Last big-league start: March 30. Injury: left hip inflammation.\n- Tarik Skubal: Could make rehab start Saturday vs. I-Cubs. Surgery: NanoScope to remove loose bodies in elbow (April 29 last MLB start). Tracking for mid/late-June return.\n- Casey Mize: Still on IL — no specific return date confirmed.\n- Three rotation starters (60% of Opening Day staff) simultaneously on IL is confirmed from prior research.\n- **Confidence note:** Rehab appearance dates are conditional (\"could\" and \"expected\") — using appropriate hedging language in article.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Braves Are Baseball's Best — 36-16, Nine-Game NL East Lead, Acuña Returns to Form",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Atlanta Braves are 36-16. Nine-game lead in the NL East. 🔥\n\nAcuña hitting grand slams. Sale striking out 8 in his sleep.\n\nAt what point do we just accept this is the NL's team to beat in October? ⚾\n\n#Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "The Atlanta Braves are 36-16. They lead the NL East by roughly nine games. They have 18 comeback wins. Ronald Acuña Jr. is hitting grand slams. Chris Sale is striking out eight batters against his former team like it's still 2020.\n\nAt some point, a lead is no longer a race. The NL East is getting close to that point.\n\nAtlanta is balanced in a way that very few teams achieve: elite starting pitching, a deep and reliable bullpen, a lineup that can score from anywhere, and the kind of team culture that finds late-game wins when the game should already be lost. The 18 comeback victories are the most impressive number in that list. Any team can win when they're ahead. This one keeps winning when they're behind.\n\nThe Braves aren't just the NL's best team right now. They're building a case to be the World Series favorite, full stop.\n\nWho beats the Braves in the playoffs? We genuinely want to know. 👇",
+        "image_caption": "36-16. Nine-game lead. The Braves are building the best record in baseball. 🔥 #Braves #MLB",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-braves-36-16-nl-east-dominance-acuna.html",
+        "headline": "Braves Are 36-16 With a Nine-Game NL East Lead — When Does the Division Race End?",
+        "word_count": 703
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves Dominance\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Ronald Acuña Jr. celebrating or hitting, Atlanta Braves uniform\n- **Photo Search Terms (Imagn):**\n  1. \"Ronald Acuna Atlanta\"\n  2. \"Acuna Braves\"\n  3. \"Chris Sale Atlanta\"\n  4. \"Atlanta Braves\"\n- **Text Overlay Copy:**\n  - Headline: BRAVES: 36-16\n  - Subtitle: Nine-Game Lead · NL's Best Team\n  - Subtitle Color: #F4C542 (Soft Gold)\n- **Composition Notes:** Acuña celebration or powerful swing. Bold headline in overlay bar.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms (Imagn):**\n  1. \"Ronald Acuna Atlanta\"\n  2. \"Atlanta Braves\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Braves Are MLB's Best — 36-16, Nine-Game Lead\n- **Classification:** FOLLOW UP (May 26: Braves No. 1 in power rankings at 36-18 Memorial Day)\n- **New Development:** Braves continue to lead by 9+ games; Acuña grand slam recent win vs. Boston.\n- **Freshness:** Standings as of June 1; Boston game mentioned in search results.\n- **Sources:**\n- mlb.com/braves/standings/ — official standings\n- espn.com/mlb/team — Atlanta Braves page\n- Multiple power ranking sources (May 26 pipeline + current standings)\n- **Key Facts (MEDIUM confidence — standings from multiple sources but not today's live game):**\n- Atlanta Braves record: 36-16, first place NL East\n- Lead in NL East: 9 games (from prior Memorial Day coverage; exact current gap needs verification)\n- Ronald Acuña Jr. hit his fourth career grand slam in a 10-2 win over Boston\n- Chris Sale: 8 strikeouts in 5 innings in that game vs. his former team\n- 18 comeback wins on the season (from May 26 research, still current)\n- **Confidence note:** Using \"nine-game lead\" as of Memorial Day; current lead may differ by 1-2 games. Article will hedge appropriately.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

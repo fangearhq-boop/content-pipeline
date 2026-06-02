@@ -2197,3 +2197,67 @@ Each day's stories are appended at the top (newest first).
   - Braves vs rest of NL East summer series
   - Rays sustainability check (July standings)
   - Guardians playoff seeding
+
+---
+
+## Pipeline Run: June 2, 2026
+
+### Story 1: Mariners 7-Game Win Streak — Cole Young Walk-Off vs. Mets
+- **Date:** 2026-06-02
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Cole Young broken-bat walk-off single in 10th (Mariners 3-2 Mets, June 1). Third walk-off in 4 games. Seventh straight win. Emerson Hancock 6 IP 2 hits (solo HRs). Arozarena steal + Young walk-off. Julio Rodriguez 10 HRs in May (career best month). Seattle 32-29, season-best 3 games over .500.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Win streak continuation or end
+  - Julio Rodriguez season stats update
+  - Mariners AL West standings
+  - Cole Young as emerging star
+
+### Story 2: Elly De La Cruz IL — Grade 1-2 Hamstring, Edwin Arroyo MLB Debut
+- **Date:** 2026-06-02
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** De La Cruz right hamstring strain Grade 1-2, expected 2-4 weeks, per manager Francona after MRI. Was hitting .280/.855 OPS/12 HR/37 RBI (MVP-caliber). Edwin Arroyo called up for MLB debut at 2B. McLain to SS. Reds 6 games back in NL Central behind Milwaukee.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - De La Cruz return timeline updates
+  - Edwin Arroyo MLB debut performance
+  - Reds NL Central standing vs. Brewers without their star
+  - Hamstring re-injury risk monitoring
+
+### Story 3: Kyle Schwarber's Record Chase — 22 HRs, On Pace for 66
+- **Date:** 2026-06-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 1: Schwarber at 20 HRs in 49 games, on pace for 66)
+- **Angle:** Schwarber advances to 22 HRs, MLB lead. Pace projects to 66 for season. 18th player in history with 20+ HRs through first 49 games. Only McGwire/Bonds had more in their record-setting seasons. Josh Hamilton last to do it (2012).
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - HR total updates (next milestone: 25, then 30)
+  - Comparison to Bonds/McGwire pace as season progresses
+  - Whether pitchers begin to pitch around Schwarber
+  - Phillies World Series odds as Schwarber leads the chase
+
+### Story 4: Tigers Rotation Recovery — Skubal and Verlander Rehabbing
+- **Date:** 2026-06-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 1: Tigers rotation crisis — 3 starters on IL)
+- **Angle:** Skubal (NanoScope elbow surgery, last MLB start April 29) could rehab vs. I-Cubs Saturday, tracking for mid/late-June return. Verlander (hip inflammation, one start March 30) rehabbing at Triple-A Toledo June 2. Mize still out.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal rehab start results
+  - Verlander Toledo outing results
+  - Detroit MLB return dates for both
+  - How the Tigers' standing changes with rotation healthy
+
+### Story 5: Braves 36-16 — Nine-Game NL East Lead
+- **Date:** 2026-06-02
+- **Tier:** 3
+- **Classification:** FOLLOW UP (May 26: Braves No. 1 in power rankings at Memorial Day)
+- **Angle:** Braves 36-16, ~9-game NL East lead. Acuña 4th career grand slam in 10-2 Boston win. Sale 8 Ks in 5 IP vs. former team. 18 comeback wins. Class of the NL.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - NL East lead widening/narrowing
+  - Acuña MVP candidacy
+  - Sale's continued health and effectiveness
+  - Braves World Series odds vs. rest of NL

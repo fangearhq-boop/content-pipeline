@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-02
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (29 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py — pushed to GitHub.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). 0 char violations.
+- **Key Stories**: Mariners 3-2 Mets / Cole Young walk-off single 10th / 7th straight win / 3rd walk-off in 4 games / Julio Rodriguez 10 HRs in May career best (Tier 1), Elly De La Cruz IL Grade 1-2 hamstring 2-4 weeks / Edwin Arroyo MLB debut / Reds 6 back in NL Central (Tier 1), Schwarber 22 HRs MLB lead / on pace for 66 / follow-up from June 1 (Tier 2), Skubal rehab start possible Saturday / Verlander Triple-A Toledo June 2 / rotation recovery update (Tier 2), Braves 36-16 / nine-game NL East lead / Acuña grand slam / Sale 8 Ks (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-01
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (web searches via context), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (20 claims, 0 char violations), compile (5 stories, 6 tweets, 5 FB posts, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
