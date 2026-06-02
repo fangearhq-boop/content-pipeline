@@ -2369,3 +2369,41 @@
 - **Key facts:** Rick Brunson was on 1999 Knicks roster (reserve guard). Jalen grew up Union NJ. 1999 Finals: Spurs won 4-1. Jalen signed from Dallas 2022. Jalen quote: "We're still writing our story, but I like the journey that we're on right now." In 3 regular season/NBA Cup meetings vs Spurs: Brunson averaged 26 PPG/4 RPG/8 APG on 42/42/88 splits.
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Finals G1 performance; Brunson vs Wemby head-to-head
+
+---
+## 2026-06-02
+
+### STORY 1: NBA Finals Media Day / Game 1 Eve
+- **Tier:** 1
+- **Category:** NBA Finals Eve
+- **Key facts:** Game 1 June 3 8:30 PM ET ABC at Frost Bank Center SA; Spurs -5.5 Game 1; Knicks 11-game win streak +271 pt diff (best ever entering Finals) +19.4 net rating; Knicks 9 days rest vs Spurs off 7-game WCF; Robinson plays with broken right pinkie; Garcia out for season (ankle); G2 June 5 SA; G3 June 8 MSG; G4 June 10 MSG; G5 June 13 if needed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 1 recap; series momentum after first game
+
+### STORY 2: Wembanyama vs. Brunson Finals MVP Race
+- **Tier:** 1
+- **Category:** Finals MVP Battle
+- **Key facts:** Wemby -170 Finals MVP favorite; Brunson +265; Wemby regular season 26.8/11.2/3.4 BPG; Brunson regular season 28.4 PPG/6.1 APG; Brunson last 10 games 27.4 PPG/51.8 FG%; Castle+Harper as primary Brunson defenders; First Take debate on pressure
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** G1 MVP performance comparison; Finals stat tracking
+
+### STORY 3: Gregg Popovich's Shadow
+- **Tier:** 2
+- **Category:** Human Interest / Spurs Feature
+- **Key facts:** Pop 77; stroke Nov 2024 ended coaching career; now President of Spurs Basketball; coach emeritus attending practices on cane; rehabbing with Tim Duncan; advising head coach Mitch Johnson; Wemby emotional about Pop
+- **Status:** NEW STORY
+- **Follow-up ideas:** Pop's reaction if Spurs win; legacy comparison to Duncan era
+
+### STORY 4: Steve Kerr Returns to Warriors
+- **Tier:** 2
+- **Category:** Coaching News / Offseason
+- **Key facts:** Kerr 2-year deal signed May 12 2026; highest-paid NBA coach ($17.5M prior); Warriors 37-45 eliminated by Suns play-in; Year 13 for Kerr; initially no extension then reversed; met with Lacob and Dunleavy 3 weeks
+- **Status:** NEW STORY
+- **Follow-up ideas:** Warriors offseason moves; draft position; roster rebuild
+
+### STORY 5: KAT and OG Three-Point Barrage
+- **Tier:** 2
+- **Category:** Statistical Feature / Knicks
+- **Key facts:** KAT 48.9% 3P% 2026 playoffs (career best); OG Anunoby 48.3% 3P%; five-out lineup forces Wemby coverage dilemma; OG fewest pts/100 as primary Wemby defender; creates Brunson driving lanes
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 1 three-point shooting results; Spurs defensive adjustments
