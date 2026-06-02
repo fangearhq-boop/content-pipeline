@@ -2704,3 +2704,64 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - SEC intra-conference matchups
   - Championship goes to SEC regardless (5 of 8 teams)
   - Oklahoma's 2027 bounce-back storyline
+
+---
+
+## Pipeline Run: June 2, 2026
+
+### Story 1: Texas Sweeps Tennessee — Kavan's Fifth Career WCWS Shutout
+- **Date:** 2026-06-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 1: Texas-Tennessee WCWS semifinals)
+- **Angle:** Teagan Kavan threw a two-hit CG shutout, 10 Ks, zero runners past first base in Game 2 (4-0). Earned a save in Game 1 (5-2). 5th career WCWS shutout and 9th career WCWS win — both Texas program records. Katie Stewart hit program-record 31st HR. Texas to 3rd straight championship series.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Texas-Texas Tech championship series results (June 3-5)
+  - Kavan's championship series stats
+  - Stewart HR record in context of Texas program history
+  - Third straight title if Texas wins
+
+### Story 2: Texas Tech Stuns No. 1 Alabama Twice — Canady Shutout in Game 2
+- **Date:** 2026-06-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 1: Texas Tech vs. Alabama WCWS semifinals)
+- **Angle:** No. 11 seed Texas Tech eliminated No. 1 Alabama twice. Mia Williams walk-off HR (26th) in Game 1 (5-4). NiJaree Canady CG shutout Game 2 (2-0) — 6 Ks, 2 hits. Jasmyn Burns solo HR the only run needed. First WCWS Finals rematch since best-of-3 format (2005).
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Championship series results
+  - Canady stats in championship vs. Kavan
+  - Williams as the walk-off hero storyline
+  - No. 11 seed champion would be historic
+
+### Story 3: Texas vs. Texas Tech WCWS Championship Series Preview
+- **Date:** 2026-06-02
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Second straight all-Texas finals rematch. Game 1 Wednesday June 3 8 PM ET ESPN. Texas 65-13 all-time vs. Tech. Tech snapped 15-game losing streak in 2025 finals. Runner-up has won following year only once in WCWS history.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Game 1 result
+  - Series outcome
+  - Kavan vs. Canady head-to-head stats in the series
+
+### Story 4: Karlyn Pickens' Career Ends at the WCWS
+- **Date:** 2026-06-02
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Pickens' final collegiate game played June 1. 79.4 mph fastest softball pitch in history (2025). Three-time First-Team All-American. Two-time SEC POY. SEC Freshman of the Year. Career ends without national title. Mardjetko and batting order expected to return to Tennessee.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Pickens' professional softball career (Athletes Unlimited)
+  - Tennessee 2027 rebuild around Mardjetko
+  - Legacy comparison to other great pitchers without rings
+
+### Story 5: Alabama Season Ends — No. 1 Seed Falls to No. 11 Texas Tech
+- **Date:** 2026-06-02
+- **Tier:** 3
+- **Classification:** FOLLOW UP
+- **Angle:** Alabama (No. 1 seed) eliminated by No. 11 Texas Tech in WCWS semifinals. Canady shutout ended season. Briski 1.30 ERA / Wells power surge defined the year. Alabama's last title was 2012. Briski eligibility status key offseason question.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Briski return decision
+  - Alabama 2027 roster outlook
+  - Murphy's program direction after another semifinal exit

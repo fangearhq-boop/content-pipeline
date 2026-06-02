@@ -1,0 +1,306 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-02",
+  "compiled_at": "2026-06-02T10:20:28.446324+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Texas sweeps Tennessee",
+      "type": "X Post (informative)"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Story 1 — Texas sweeps Tennessee",
+      "type": "X Post (bold take)"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — Texas Tech beats Alabama twice",
+      "type": "X Post (informative)"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2 — Texas Tech beats Alabama twice",
+      "type": "X Post (Canady tribute)"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3 — Championship series preview",
+      "type": "X Post"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Karlyn Pickens legacy",
+      "type": "X Post"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5 — Alabama season ends",
+      "type": "X Post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Texas Sweeps Tennessee — Kavan Posts Fifth Career WCWS Shutout, Longhorns Return to Championship Series",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Teagan Kavan. 7 innings. 2 hits. 10 strikeouts. Zero runners past first base. ⚾\n\nHer 5th career WCWS shutout. Her 9th career WCWS win. Both Texas program records.\n\nThe Longhorns are going back to the championship series. Three years in a row. 🤘\n\n#HookEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tennessee never had a chance in Game 2. 🔥\n\nKavan was on another level — 10 Ks, two hits, not a single runner past first base.\n\nShe doesn't lose at Devon Park. That's just facts.\n\n#WCWS #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WCWS",
+            "#Softball"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "We have seen some special WCWS performances over the years. Monday night, Teagan Kavan added her name to that conversation permanently.\n\nIn Game 2 of the Texas-Tennessee semifinal, Kavan threw a two-hit complete game shutout — striking out 10 and walking nobody. Tennessee never got a runner past first base. It was a seven-inning masterclass from a pitcher who has simply owned Devon Park.\n\nHer stats on this stage now read: five career WCWS shutouts, nine career WCWS wins. Both are Texas program records.\n\nAnd that's not all. Katie Stewart capped her program-record season with her 31st home run — the most by any player in Texas program history. The Longhorns got the sweep, advanced to the championship series for the third year in a row, and they did it in a single Monday.\n\nThree years in a row to the finals. Let that sink in. 🤘\n\nWho wins the championship — Texas or Texas Tech? Drop your prediction below! ⬇️",
+        "image_caption": "Five career WCWS shutouts. Nine career WCWS wins. Teagan Kavan owns Devon Park. 🔥 #WCWS #HookEm",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-kavan-texas-sweeps-tennessee-wcws-finals.html",
+        "headline": "Teagan Kavan Throws Fifth Career WCWS Shutout, Texas Advances to Third Straight Championship Series",
+        "word_count": 694
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Sweeps Tennessee — Kavan Shutout\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Teagan Kavan mid-delivery on the mound at Devon Park, crowd visible in background\n- **Photo Search Terms (Imagn):**\n  1. \"Teagan Kavan Texas\"\n  2. \"Kavan Longhorns softball\"\n  3. \"Texas softball pitcher WCWS\"\n  4. \"Texas Longhorns WCWS\"\n- **Text Overlay Copy:**\n  - Headline: KAVAN DELIVERS\n  - Subtitle: 10 Ks · 2 Hits · WCWS Finals Bound\n  - Subtitle Color: #F4C542 (Soft Gold)\n- **Composition Notes:** Kavan in pitching motion fills upper 2/3 of frame. Dark overlay bar at bottom 1/3 with headline text.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms (Imagn):**\n  1. \"Teagan Kavan Texas\"\n  2. \"Texas softball WCWS\"\n- **Text Overlay:** Not needed — editorial layout handles headline.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Sweeps Tennessee — Kavan Posts Fifth Career WCWS Shutout\n- **Classification:** FOLLOW UP (prior coverage June 1: Texas vs. Tennessee semifinals)\n- **Freshness:** Verified — games played June 1, 2026. Multiple sources published June 1–2.\n- **Sources:**\n- TexasLonghorns.com: \"No. 3 Softball advances to third-consecutive WCWS Championship Series\" (June 1, 2026) — official team release with box score details\n- Yahoo Sports live blog: \"Women's College World Series live scores, results: Texas sweeps Tennessee, Texas Tech beats Alabama twice\" (June 1, 2026)\n- ESPN: \"College softball 2026: Texas, Texas Tech to play for national title again\" (June 1-2, 2026)\n- JacksonProgress-Argus/Fieldlevel: \"Teagan Kavan, Texas shut out Tennessee, advance to WCWS finals\" (June 1, 2026)\n- **Key Facts (HIGH confidence — multi-source):**\n- Game 1: Texas 5, Tennessee 2. Kavan earned a save, striking out Elsa Morrison looking with bases loaded.\n- Game 2: Texas 4, Tennessee 0. Kavan complete game shutout, two hits allowed, 10 strikeouts, zero walks.\n- Kavan record: 5th career WCWS shutout (Texas program record); 9th career WCWS win (Texas program record). Record: 28-6.\n- Katie Stewart hit her 31st home run of the season in Game 2 — a program single-season record.\n- Texas advances to WCWS Championship Series for the third consecutive year, and fourth time in last five years.\n- Tennessee did not advance a runner past first base in Game 2.\n- **Key Facts (MEDIUM confidence — single source):**\n- Kayden Henry set program single-season runs scored record with 75 in the earlier Nebraska game (June 1). Need to verify this wasn't a different game date.\n- **Why it matters to ILS audience:** Texas is the defending national champion gunning for a historic repeat, and Kavan is pitching at an all-time great level on the game's biggest stage.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Texas Tech Tops No. 1 Alabama Twice — No. 11 Seed Canady Shuts Down Tide in Game 2",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Walk-off HR in Game 1. Complete game shutout in Game 2.\n\nTexas Tech eliminated No. 1 Alabama TWICE on Monday. 🤯\n\nMia Williams walk-off (No. 26). Then Canady: 7 IP, 2 H, 0 ER, 6 K.\n\nNo. 11 seed. WCWS Finals bound. 🔴⚫\n\n#WreckEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#WCWS"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 2-2",
+          "text": "NiJaree Canady just silenced the No. 1 team in the country. 🙌\n\n2 hits. 6 strikeouts. Complete game. Zero runs.\n\nAgainst the top seed. In the semifinals. When it all mattered.\n\nShe's built different. 🤍\n\n#WreckEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#WCWS"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "The No. 11 seed needed two wins against the No. 1 seed to reach the championship series. Texas Tech got them both. 🤯\n\nIn Game 1, Alabama tied it in the seventh and seemed ready to punch their ticket to the finals. Then Mia Williams stepped to the plate. On the fourth pitch she saw, Williams sent her 26th home run of the season to left field for a walk-off that sent Devon Park into a frenzy.\n\nGame 2 was Canady's moment. NiJaree Canady — maybe the most-watched player in college softball history — delivered a complete game shutout against the team with the best record in the country. Two hits. Six strikeouts. Zero runs. Jasmyn Burns' solo shot in the fourth was all the offense they needed.\n\nA No. 11 seed beating the No. 1 seed — twice, in the same day — is one for the WCWS record books.\n\nTexas Tech is in the finals. Believe it. 🔴⚫\n\nAre you rooting for the Cinderella story? Let us know below! ⬇️",
+        "image_caption": "Walk-off. Then a shutout. Texas Tech is headed to the WCWS Finals. 🤯 #WreckEm #WCWS",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-texas-tech-canady-eliminates-alabama-wcws-finals.html",
+        "headline": "Texas Tech Stuns No. 1 Alabama Twice — Walk-Off, Then Canady Shutout Send Red Raiders to WCWS Finals",
+        "word_count": 788
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech Tops No. 1 Alabama — Canady Shutout\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** NiJaree Canady in pitching delivery, Texas Tech uniform\n- **Photo Search Terms (Imagn):**\n  1. \"NiJaree Canady Texas Tech\"\n  2. \"Canady Red Raiders softball\"\n  3. \"Texas Tech softball pitcher\"\n  4. \"Mia Williams Texas Tech\"\n- **Text Overlay Copy:**\n  - Headline: CANADY SILENCES THE TIDE\n  - Subtitle: CG Shutout · No. 11 Seed · Finals Bound\n  - Subtitle Color: #F4C542 (Soft Gold)\n- **Composition Notes:** Canady in pitching motion, lower third overlay bar with headline text.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms (Imagn):**\n  1. \"NiJaree Canady Texas Tech\"\n  2. \"Texas Tech softball WCWS\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech Tops No. 1 Alabama Twice — No. 11 Seed Canady Shuts Down Tide\n- **Classification:** FOLLOW UP (June 1: Texas Tech vs. Alabama semifinals)\n- **Freshness:** Verified — games played June 1, 2026.\n- **Sources:**\n- TexasTech.com: \"No. 11 Texas Tech advances to WCWS Finals\" (June 1, 2026) — official release\n- TexasTech.com: \"Williams walk-off forces WCWS Semifinal deciding game\" (June 1, 2026)\n- wibw.com: \"NiJa Canady throws complete game shutout to send Texas Tech to WCWS finals\" (June 2, 2026)\n- Yahoo Sports live blog (June 1, 2026)\n- **Key Facts (HIGH confidence — multi-source):**\n- Game 1: Texas Tech 5, Alabama 4. Mia Williams hit walk-off home run (26th of season) to lead off the bottom of the 7th. Canady (28-6) earned win after 2⅔ innings of relief, 4 Ks, 1 ER. Alabama's Jana Young had hit a 2-run HR to tie the game 4-4 in the top of the 7th.\n- Game 2: Texas Tech 2, Alabama 0. Canady threw a complete game shutout — 6 Ks, 2 hits allowed. Jasmyn Burns solo HR in 4th inning was the game's first run. Error-aided run in 7th added insurance.\n- Texas Tech is No. 11 seed advancing to WCWS Finals — a historic run.\n- **Key Facts (MEDIUM confidence — need second-source verification):**\n- Alabama's season-ending record: reported as 54-9 per Alabama Athletics site (originally listed as 54-7 midseason). Final record needs confirmation.\n- **Why it matters:** The biggest upset of the tournament — No. 11 seed eliminating the No. 1 overall seed in the semifinals.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "All-Texas WCWS Championship Series — Kavan vs. Canady, Game 1 Wednesday 8 PM ET on ESPN",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Texas vs. Texas Tech. For the national title. Again. 🏆\n\nGame 1: Wednesday, June 3. 8 PM ET. ESPN.\n\nKavan vs. Canady. Defending champs vs. No. 11 seed.\n\nThis is why we watch softball. 🥎\n\n#WCWS #HookEm #WreckEm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WCWS",
+            "#HookEm",
+            "#WreckEm"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "Last year, it came down to Texas and Texas Tech. This year, it's happening again.\n\nThe two Lone Star State programs will meet for the national championship for the second straight year — the first WCWS finals rematch since the best-of-three format began in 2005.\n\nTexas goes in as the defending champion gunning for a back-to-back, with Teagan Kavan pitching at a level that is historically rare for this stage. Texas Tech goes in as the No. 11 seed with NiJaree Canady at her absolute peak, coming off a complete game shutout of the No. 1 team in the country.\n\nThe all-time series favors Texas 65-13. But Texas Tech won a game in last year's finals — ending a 15-game losing streak to the Longhorns. And historically, only once has the runner-up come back the next year to win it all.\n\nGame 1: Wednesday, June 3. 8 PM ET on ESPN. Block out your night.\n\nWho are you watching with? 🥎",
+        "image_caption": "Texas vs. Texas Tech. For the national title. Again. 🏆 Game 1: Wednesday, 8 PM ET on ESPN. #WCWS",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-texas-tech-texas-wcws-championship-series-preview.html",
+        "headline": "Texas vs. Texas Tech: The WCWS Championship Series Returns — Kavan and Canady Set for a Rematch",
+        "word_count": 666
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "All-Texas Championship Series Preview\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Split image or Texas vs. Texas Tech branding visual at Devon Park\n- **Photo Search Terms (Imagn):**\n  1. \"Texas Tech Texas softball\"\n  2. \"WCWS Devon Park championship\"\n  3. \"Katie Stewart Texas\"\n  4. \"Jasmyn Burns Texas Tech\"\n- **Text Overlay Copy:**\n  - Headline: TEXAS vs. TEXAS TECH\n  - Subtitle: Championship Series · Wed. June 3 · 8 PM ESPN\n  - Subtitle Color: #F4C542 (Soft Gold)\n- **Composition Notes:** Action shot of either team at bat/pitching. Lower overlay bar with matchup text.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms (Imagn):**\n  1. \"Texas softball WCWS\"\n  2. \"Texas Tech softball WCWS\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "All-Texas Championship Series — Kavan vs. Canady, Game 1 Wednesday 8 PM ET\n- **Classification:** NEW STORY\n- **Freshness:** Championship series starts June 3 — preview content is perfectly timed for June 2.\n- **Sources:**\n- ESPN schedule page (June 1-2, 2026)\n- CBS Sports: \"Women's College World Series schedule 2026\" (June 2, 2026)\n- Arkansas Democrat-Gazette: \"Women's College World Series: Texas, Texas Tech win 2 games each to forge title-series rematch\" (June 2, 2026)\n- wreckemred.com (Texas Tech fan site) — historical series note\n- **Key Facts (HIGH confidence):**\n- Championship Series schedule: Game 1 — Wednesday June 3, 8 PM ET, ESPN. Game 2 — Thursday June 4, 8 PM ET, ESPN. Game 3 (if necessary) — Friday June 5, 8 PM ET, ESPN.\n- All-time series: Texas leads 65-13 over Texas Tech.\n- Texas Tech's 4-3 win in 2025 Finals Game 2 snapped a 15-game losing streak to Texas.\n- This is the first WCWS championship series rematch since the best-of-three format began in 2005.\n- Only once in WCWS history has the runner-up won the title the following year.\n- **Why it matters:** All-Texas showdown for the national championship — a rare rematch and a great storyline for the audience.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Karlyn Pickens' Tennessee Career Is Over — A Legend Leaves Without a Ring",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Karlyn Pickens played her last game Monday. 💔\n\n79.4 mph — fastest pitch in softball history.\nThree-time First-Team All-American.\nTwo-time SEC Pitcher of the Year.\n\nFour years in Knoxville. One legacy that'll never fade. 🧡\n\n#GBO #Softball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#GBO",
+            "#Softball"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "On Monday at Devon Park, Karlyn Pickens played the last game of her collegiate softball career.\n\nShe spent four years at Tennessee and left as one of the most decorated pitchers the sport has ever produced. Two-time SEC Pitcher of the Year. Three-time First-Team All-American. Holder of the fastest recorded pitch in softball history: 79.4 miles per hour.\n\nShe was electric every single time she took the mound. She made people tune in to college softball who had never watched a game before. She made opponents uncomfortable just by warming up.\n\nWhat she never got was a national championship. And in a sport where one day at the WCWS can define or deny a legacy, that absence will be the footnote people point to. But it shouldn't be. Karlyn Pickens was special — and she'll be remembered that way.\n\nThank you, Karlyn. What a run. 🧡🤍\n\nFavorite Karlyn Pickens moment? Drop it below. ⬇️",
+        "image_caption": "79.4 mph. Three-time First-Team All-American. One legendary career. Thank you, Karlyn Pickens. 🧡 #GBO #Softball",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-karlyn-pickens-tennessee-career-ends-wcws.html",
+        "headline": "Karlyn Pickens' Tennessee Career Ends at the WCWS — A Legacy Larger Than a Trophy",
+        "word_count": 700
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Karlyn Pickens' Career Ends\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Karlyn Pickens in Tennessee orange, pitching or celebrating\n- **Photo Search Terms (Imagn):**\n  1. \"Karlyn Pickens Tennessee\"\n  2. \"Pickens Lady Vols softball\"\n  3. \"Tennessee softball WCWS\"\n  4. \"Lady Vols pitcher\"\n- **Text Overlay Copy:**\n  - Headline: THANK YOU, KARLYN\n  - Subtitle: 79.4 MPH · 3× First-Team AA · Forever a Vol\n  - Subtitle Color: #FF6F61 (Warm Coral — emotional/tribute)\n- **Composition Notes:** Pickens centered in frame, orange and white colors prominent. Tribute styling with coral subtitle.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms (Imagn):**\n  1. \"Karlyn Pickens Tennessee\"\n  2. \"Tennessee softball\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Karlyn Pickens' Tennessee Career Ends at WCWS\n- **Classification:** NEW STORY\n- **Freshness:** Pickens played her final game June 1; reflections posted June 1–2 by Rocky Top Insider and others.\n- **Sources:**\n- Rocky Top Insider: \"Karlyn Pickens Reflects on Legendary Tennessee Softball Career\" (June 1, 2026)\n- Rocky Top Insider: \"Tennessee Softball's Season Ends in Consecutive Disappointing WCWS Semifinals Losses to Texas\" (June 1, 2026)\n- ESPN: \"79.4 mph! How Tennessee pitcher Karlyn Pickens became the hardest thrower softball has ever seen\" (background article)\n- NCAA.com: \"Karlyn Pickens strikes out 11, breaks own record for fastest softball pitch ever thrown\" (2025 record-setting game)\n- Rocky Top Insider: Pair of Tennessee Softball Pitchers Named First-Team All-Americans (May 26, 2026)\n- **Key Facts (HIGH confidence — multi-source):**\n- Karlyn Pickens played all four collegiate years at Tennessee.\n- Honors: SEC Freshman of the Year, two-time SEC Pitcher of the Year, three-time First-Team All-American.\n- Holds the NCAA record for fastest softball pitch ever thrown: 79.4 mph (set at 2025 Super Regionals, broke her own record of 78.2 mph).\n- Career ends without a national championship despite four WCWS appearances with Tennessee.\n- **Why it matters:** Pickens is one of the greatest pitchers in softball history; her career conclusion is a major emotional story for the fanbase.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Alabama Stunned — No. 1 Seed Falls to No. 11 Texas Tech in WCWS Semifinals",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The No. 1 seed is going home. 😤\n\nAlabama had the best record in the country. Everything set up for a title run.\n\nTexas Tech said no — twice, in the same day.\n\nThat's why they play the games. 🥎\n\n#RollTide #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#RollTide",
+            "#WCWS"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "No team had a more dominant regular season than Alabama. They were the No. 1 overall seed at the Women's College World Series for a reason — and honestly, everything pointed to them making a run.\n\nJocelyn Briski was among the best pitchers in the country all year. Brooke Wells and Alexis Pupillo gave them lineup depth. Head coach Patrick Murphy has been here before — 16 WCWS appearances over his career.\n\nBut Texas Tech came in with Mia Williams swinging a hot bat and NiJaree Canady ready to be great. And on Monday, they were.\n\nThe No. 11 seed beat the No. 1 seed twice. Canady shut out Alabama in Game 2. And just like that, the Crimson Tide's season was over.\n\nAlabama will be back. Briski could return. The program doesn't rebuild; it reloads.\n\nBut right now, it stings — and that's okay. This sport always finds a way to surprise us. 😤",
+        "image_caption": "The No. 1 seed goes home. Alabama's season ends at the hands of No. 11 Texas Tech. What a wild WCWS. 😤 #RollTide #WCWS",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-alabama-wcws-exit-no1-seed-texas-tech.html",
+        "headline": "Alabama's Season Ends at the WCWS — No. 1 Seed Falls to No. 11 Texas Tech in Stunning Semifinals Exit",
+        "word_count": 672
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Season Ends\n\n**Social Image (1080×1350, 4:5 vertical)**\n- **Visual Description:** Alabama softball player in action or team shot at WCWS\n- **Photo Search Terms (Imagn):**\n  1. \"Jocelyn Briski Alabama\"\n  2. \"Brooke Wells Alabama softball\"\n  3. \"Alabama softball WCWS\"\n  4. \"Briski Crimson Tide\"\n- **Text Overlay Copy:**\n  - Headline: SEASON OVER\n  - Subtitle: No. 1 Alabama Falls to No. 11 Texas Tech\n  - Subtitle Color: #F4C542 (Soft Gold)\n- **Composition Notes:** Alabama player or bench reaction. Overlay emphasizes the upset nature of the story.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n- **Photo Search Terms (Imagn):**\n  1. \"Jocelyn Briski Alabama\"\n  2. \"Alabama softball WCWS\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alabama Stunned — No. 1 Seed Eliminated by No. 11 Texas Tech\n- **Classification:** FOLLOW UP\n- **Freshness:** Season ended June 1.\n- **Sources:**\n- Alabama Athletics (rolltide.com) roster page and prior season-long coverage\n- Yahoo Sports, ESPN\n- **Key Facts (MEDIUM confidence — need verification on final record):**\n- Alabama entered the WCWS as No. 1 overall seed with a strong record (approx. 54-9 final).\n- Jocelyn Briski: SEC POY, 1.30 ERA, 23+ wins on the season.\n- Brooke Wells: 23+ HRs, 65 RBI, led team offensively.\n- Alabama's last national title: 2012. Had not returned to the finals since.\n- Eliminated by No. 11 seed Texas Tech — one of the bigger upsets in recent WCWS history.\n- **Confidence note:** Alabama's final record needs confirmation; using \"54-9\" from Alabama Athletics mid-tournament. Will mark MEDIUM for the article, not making it a centerpiece stat.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
