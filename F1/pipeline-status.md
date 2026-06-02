@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-01
+- **Date**: 2026-06-02
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-02
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-02.xlsx (7 posts) + f1fr-postplanner-tobi-2026-06-02.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-02/review-dashboard.html (27 items)
+- **Notes:** Monaco GP race week begins June 5 (FP1 13:30 local / FP2 17:00); Qualifying June 6 15:00 local; Race June 7 2 PM ET Apple TV+; FIA active aero ban (Straight Mode) — no Monaco section meets 3-sec threshold; Ferrari favored / Antonelli says Ferrari "team to beat"; Hamilton P2 Canada ("happiest day") eyes first Ferrari win; Russell 43 pts behind after Canada retirement ("championship is Antonelli's to lose"); Antonelli 4 consecutive wins (F1 first); Leclerc special white Monaco suit / 2024 winner / Canada "worst weekend of career"
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-01
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

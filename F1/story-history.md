@@ -2108,3 +2108,41 @@
 - **Key facts:** Exit clause: if outside top 2 by July 27 summer break start, can leave Red Bull. Currently 9th. Canada P3 = RBPT first podium 2026. 2021 and 2023 Monaco winner. Clause inserted due to "apprehension" about 2026 RBPT engine competitiveness.
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Monaco result; July standings before summer break
+
+---
+## 2026-06-02
+
+### STORY 1: Monaco GP Race Week Preview — Active Aero Ban Reshapes Field
+- **Tier:** 1
+- **Category:** Race Weekend Preview
+- **Key facts:** FP1 June 5 13:30 local / FP2 17:00; Qualifying June 6 15:00 local; Race June 7 2 PM ET Apple TV+; FIA active aero ban (Straight Mode) — 3-second rule not met anywhere in Monaco; safety concern at Tunnel exit; Ferrari favored (best low-speed chassis); Mercedes loses power unit advantage; McLaren also benefits; Antonelli says Ferrari "team to beat"
+- **Status:** NEW STORY
+- **Follow-up ideas:** Practice results Friday; qualifying Saturday analysis
+
+### STORY 2: Hamilton Eyes First Ferrari Win at Monaco
+- **Tier:** 1
+- **Category:** Driver Feature / Ferrari
+- **Key facts:** Hamilton P2 Canada (first podium in Ferrari red, "happiest day at Ferrari so far"); Hamilton quote: "Power is not king there. I think our car could be really strong."; targets Monaco as Ferrari's golden opportunity; has never won Monaco for Ferrari; active aero ban removes Mercedes' advantage
+- **Status:** NEW STORY
+- **Follow-up ideas:** Qualifying result; race outcome; first Ferrari win moment
+
+### STORY 3: Russell's Championship Response
+- **Tier:** 2
+- **Category:** Championship / Driver Feature
+- **Key facts:** Russell retired Canada lap 30 power unit failure from lead; 43 points behind Antonelli; Russell quote: "The championship is currently Antonelli's to lose"; gap was 18 before Canada; Russell never won Monaco; Mercedes disadvantaged by active aero ban
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monaco performance; championship math after race
+
+### STORY 4: Antonelli at Monaco — His Toughest Test
+- **Tier:** 2
+- **Category:** Championship / Driver Feature
+- **Key facts:** 4 consecutive wins (first in F1 history); youngest F1 championship leader ever; 149 championship points; strongest points start in 10 years; Antonelli struggled Monaco 2025; admits Ferrari "team to beat"; Antonelli 19 years old
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monaco qualifying/race performance; can streak reach 5
+
+### STORY 5: Leclerc's Monaco Obsession
+- **Tier:** 2
+- **Category:** Driver Feature / Ferrari
+- **Key facts:** Special all-white Monaco race suit (Monaco flag colors); 2024 Monaco winner; 3x Monaco pole sitter; grew up in Monaco; Canada "worst weekend of my career"; Ferrari favored; teammate Hamilton starred Canada while Leclerc struggled
+- **Status:** NEW STORY
+- **Follow-up ideas:** Qualifying; race result; potential Ferrari 1-2
