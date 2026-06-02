@@ -749,3 +749,41 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Åberg T12 at -7 through R3. Switched putters before Schwab Challenge. Last win: Genesis Invitational. Multiple top-10s in 2026 without win. Fowler MC (70-73). Finau MC (even par). Cut at -2.
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Final round result; win drought continues or ends
+
+---
+## 2026-06-02
+
+### STORY 1: Memorial Tournament Preview — Scheffler Chases Three-Peat
+- **Tier:** 1
+- **Category:** PGA Tour Signature Event Preview
+- **Key facts:** Memorial Tournament June 4-7 Muirfield Village Dublin OH; Scheffler +300 defending champion 2024/2025; three-peat would match Tiger Woods 1999-2001; Scheffler World No. 1 one win in 2026 (American Express); McIlroy +900 back-to-back Masters champion never won Memorial; McIlroy won 2026 Masters 1 shot over Scheffler bogey 18th; field includes Schauffele/Cameron Young/Åberg +1600+; $20M purse $4M winner; 7,553 yards par 72; 72-player field
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 results Thursday; McIlroy vs Scheffler head-to-head; three-peat watch
+
+### STORY 2: US Women's Open Preview — Korda at Riviera
+- **Tier:** 1
+- **Category:** LPGA Major Preview
+- **Key facts:** 81st USWO June 4-7 Riviera Country Club Pacific Palisades CA; first women's major at Riviera (historic); Korda +350; 3 wins + 3 T2s in 7 starts 2026; Chevron Championship win (3rd career major); never won USWO; T2 2025 USWO; Thitikul +900 23yo 2 wins no major; par 71 6,699 yards ballstriker's course
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 leaderboard; Korda's major quest; Thitikul breakthrough possible
+
+### STORY 3: LIV Golf Andalucia — Rahm at Valderrama
+- **Tier:** 2
+- **Category:** LIV Golf Event Preview
+- **Key facts:** LIV Golf Andalucia June 4-7 Real Club Valderrama Spain; 9th LIV event 2026; Rahm 16/5 captains Legion XIII (reigning team champs); DeChambeau 15/2; Niemann 8/1 (record 8 LIV titles chasing 9th); Garcia captains Fireballs GC (2024 Valderrama champion); Puig 14/1; $20M individual + $10M team; no cut 57 players; Mickelson out (family health); last prep before US Open
+- **Status:** NEW STORY
+- **Follow-up ideas:** Result; Niemann 9th title record; Rahm home win
+
+### STORY 4: McIlroy at the Memorial
+- **Tier:** 2
+- **Category:** Player Feature / PGA Tour
+- **Key facts:** McIlroy back-to-back Masters champion (4th player ever); won 2026 Masters 1 shot over Scheffler bogey 18; PGA Championship 5 back of Aaron Rai; 8th start of 2026 season; never won Memorial; +900 odds
+- **Status:** NEW STORY
+- **Follow-up ideas:** Memorial performance; McIlroy-Scheffler rivalry continued
+
+### STORY 5: Nelly Korda 2026 Dominance
+- **Tier:** 2
+- **Category:** LPGA Player Feature
+- **Key facts:** Korda 2026: 3 wins + 3 T2s in 7 starts; Chevron Championship win (3rd career major); never won USWO; T2 2025 USWO; World No. 1; +350 favorite USWO Riviera
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** USWO R1 results; completion of major collection
