@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-02",
+  "compiled_at": "2026-06-02T09:22:42.051460+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview: Cubs vs Athletics",
+      "type": "Informative"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Bregman 11-game streak",
+      "type": "Bold take / stats"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Ben Brown ace arc",
+      "type": "Bold take"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Rotation crisis / trade deadline",
+      "type": "Analysis"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Game 1 pre-game hype",
+      "type": "Fan energy"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs vs Athletics — Game 1 of 3 at Wrigley, 7:05 PM CT Tonight",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW STORY (series preview — required Tier 1 for series start)",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Cubs host the Athletics for a 3-game series at Wrigley Field — Game 1 tonight at 7:05 PM CT.\n\nChicago (32-28) vs Athletics (28-31). First of 22 straight games against under-.500 opponents.\n\nThe Cardinals just took 2-of-3. June has to be different.\n\n#Cubs #GoCubs #WrigleyField",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative series preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#WrigleyField"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Bregman on 11-Game Hitting Streak Entering June",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY (Bregman's streak not yet covered as a standalone feature)",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Alex Bregman enters June with an 11-game hitting streak — safely in 14 of his last 16 games.\n\nThat's the Alex Bregman the Cubs signed. Better late than never — and June is the perfect time.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold take / stat breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ben Brown — From Bullpen Arm to De Facto Cubs Ace",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW UP (Ben Brown ongoing; new angle from June 1's \"0 HR allowed\" post — today's lens is his role transformation and what it means for the team)",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Ben Brown opened 2026 in the bullpen. He now has a 1.92 ERA in 17 appearances — the most reliable arm in a rotation that's lost FOUR starters to injury.\n\nNobody had \"bullpen reclamation project becomes ace\" on their Cubs bingo card.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold take / rotation analysis",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cubs Rotation Crisis — Four Starters Out, Deadline Market Heating Up",
+      "tier": 3,
+      "status": "",
+      "angle": "FOLLOW UP (rotation injuries covered broadly before; today's specific angle = Peralta/Gray/Webb trade targets + deadline urgency)",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Horton is out until 2027. Steele is on the 60-day IL. Boyd and Cabrera are rehabbing.\n\nFour starters down. The Cubs are still 4 games above .500 — and the trade deadline is coming.\n\nPeralta. Gray. Webb. Counsell knows what the rotation needs.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Game 1 Pre-Game Hype — First Pitch at 7:05 PM CT",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW STORY (game-day hype, last slot before first pitch)",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "First pitch at Wrigley in two hours — Athletics at Cubs, Game 1 of 3.\n\nChicago (32-28) opens the easiest stretch of the schedule. Bregman is on an 11-game hit streak. The stadium is ready.\n\nTime to start a run.\n\n#Cubs #GoCubs #WrigleyField",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Pre-game hype / fan energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#WrigleyField"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

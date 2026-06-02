@@ -1638,3 +1638,50 @@ Each day's stories are appended at the top (newest first).
   - Cardinals rivalry angle for regular season
 
 ---
+
+## 2026-06-02
+
+### STORY 1: Cubs vs Athletics — 3-Game Series Opener at Wrigley Tonight
+- **Angle:** NEW STORY (series preview — required slot for is_series_start_today=true)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — series preview informative)
+- **Follow-Up Opportunities:**
+  - Game 1 result (tonight — recap runs tomorrow 7 AM)
+  - Game 2 preview (Weds June 3)
+  - Game 3 spotlight (Imanaga starts Thu June 4)
+
+### STORY 2: Bregman Enters June on 11-Game Hitting Streak
+- **Angle:** NEW STORY (first standalone Bregman streak feature; Cardinals recap June 1 only briefly noted his HR)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — stat breakdown / bold take)
+- **Follow-Up Opportunities:**
+  - Streak extension updates
+  - Bregman HR pace vs career norms as June sample grows
+  - Slug-rate analysis if power numbers continue lagging
+
+### STORY 3: Ben Brown — From Bullpen Arm to De Facto Cubs Ace
+- **Angle:** FOLLOW UP (Ben Brown ongoing; angle differentiated from June 1 "Cy Young / 0 HR" post — today's narrative is role transformation: bullpen → rotation savior)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — rotation analysis bold take)
+- **Follow-Up Opportunities:**
+  - Brown's next start result and ERA update
+  - "Brown and Imanaga = Cubs' real 1-2 punch" narrative
+  - Trade deadline context: how Brown changes Cubs' leverage
+
+### STORY 4: Cubs Rotation Crisis — Four Starters Out, Trade Deadline Approaching
+- **Angle:** FOLLOW UP (rotation injuries covered previously; today's specific angle = trade targets named + deadline urgency)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — analysis / bold take)
+- **Follow-Up Opportunities:**
+  - Any trade announcement (Peralta, Gray, Webb, Alcantara)
+  - Boyd return date confirmed + start announcement
+  - Steele rehab milestone
+
+### STORY 5: Game 1 Pre-Game Hype — First Pitch 7:05 PM CT
+- **Angle:** NEW STORY (game-day pre-game energy slot)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — pre-game hype / fan energy)
+- **Follow-Up Opportunities:**
+  - Game 1 result for tomorrow's recap
+
+---
