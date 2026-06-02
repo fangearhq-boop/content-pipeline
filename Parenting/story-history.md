@@ -2,6 +2,45 @@
 
 ---
 
+## June 2, 2026
+
+### Story 1: Blossom Children's Loungewear Recall — Burn Hazard
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalls ~630 units of Blossom children's loungewear sets (blossomocc.com) for failing federal flammability standards. Button-up shirts + matching shorts/pants. Sizes 12M–12Y. Short-sleeve patterns: fireworks, multi-stripes, tulips, sailboats. Long-sleeve: letter to Santa, Santa paws. Colors: white, navy, light blue, pink, lilac. Remedy: stop use, cut in half, photograph, email sales@blossomocc.com for full refund.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~630 units recalled; burn hazard (flammability failure); sizes 12M–12Y; email sales@blossomocc.com for refund; Source: CPSC.gov 2026
+
+### Story 2: Pikes Peak Gem, Mineral & Jewelry Show — June 5–7 at Norris Penrose Event Center
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Annual gem show returns THIS WEEKEND (June 5–7). Norris Penrose Event Center, 1045 Lower Gold Camp Rd. Fri–Sat 10 AM–6 PM, Sun 10 AM–4 PM. $5/day, $8 multi-day, FREE under 12. 55+ vendors. Family activities: gold panning, scavenger hunt, Pebble Pups, beading class daily 11 AM, wire-wrapping Sat 1 PM. Hourly door prizes + silent auctions. Source: pikespeakgemshow.com.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Dates June 5–7; address 1045 Lower Gold Camp Rd; $5/$8/free under 12; 55+ vendors; beading 11 AM daily; wire-wrapping Sat 1 PM; Source: pikespeakgemshow.com
+
+### Story 3: D11 Raises Starting Pay to ~$50,000 After Month-Long Negotiations
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 ratifies new pay agreement, starting salary raised to approximately $50,000 (~20% increase), highest in Pikes Peak region (D20 ~$49K, D49 ~$47K). Context: D11 board eliminated CSEA agreement in 2025, led to staff picket + month-long negotiations. Some employees still say it's not enough. Source: KOAA.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Starting pay ~$50,000; ~20% increase; D20 ~$49K D49 ~$47K comparison; CSEA eliminated 2025; month-long negotiations post-picket; Source: KOAA
+
+### Story 4: NFSVLB Baby Bath Seat Recall — Drowning and Entrapment Risk
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalls 1,430 NFSVLB baby bath seats (Model ZY2025, blue/white). Tips over + leg openings trap baby's torso. Drowning and entrapment risk. Amazon May–Oct 2025, $25–$40. Recall issued January 2026. Remedy: stop use, email amzmaihuayd@163.com for full refund. Source: CPSC.gov.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 1,430 units; Model ZY2025; blue/white; Amazon May–Oct 2025; $25–$40; email amzmaihuayd@163.com for refund; recall issued January 2026; Source: CPSC.gov
+
+### Story 5: PPLD Summer Adventure Launches TODAY — Free for All Ages
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (distinct "launch day" angle) — Summer Adventure officially launches June 2. Opening concerts TODAY at Library 21c (2 PM) and East Library (3:30 PM). Free for all ages (adults $5 for reading challenge). Prizes from SCHEELS, Switchbacks, Flying W Ranch. Free lunch for kids under 18 at East Library weekdays through July 31. Register at ppld.beanstack.org. Previously covered as a preview on May 31.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Launch date June 2; free all ages (adults $5); concerts Library 21c 2 PM + East Library 3:30 PM; free lunch under 18 weekdays through July 31 East Library; prizes SCHEELS/Switchbacks/Flying W Ranch; ppld.beanstack.org; Source: PPLD.org
+
+---
+
 ## May 31, 2026
 
 ### Story 1: D11 $775 Million Bond Referendum — What Colorado Springs Parents Need to Know

@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 2, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Blossom children's loungewear recall (~630 units, burn hazard, flammability failure, sizes 12M–12Y, sales@blossomocc.com for refund, CPSC.gov); Pikes Peak Gem Show June 5–7 (Norris Penrose Event Center, 1045 Lower Gold Camp Rd, $5/day/$8 multi-day/free under 12, 55+ vendors, gold panning/scavenger hunt/Pebble Pups/beading 11 AM daily/wire-wrapping Sat 1 PM, pikespeakgemshow.com); D11 pay increase (~$50K starting, ~20%, highest in region, after CSEA elimination + picket + month-long negotiations, KOAA); NFSVLB baby bath seat recall (1,430 units, Model ZY2025 blue/white, tips over + traps torso, Amazon May–Oct 2025, $25–$40, amzmaihuayd@163.com, January 2026, CPSC.gov); PPLD Summer Adventure launches today (June 2, free all ages, concerts Library 21c 2 PM + East Library 3:30 PM, free lunch under 18 weekdays through July 31, prizes SCHEELS/Switchbacks/Flying W, ppld.beanstack.org) |
+| Story History Check | COMPLETE | 4 NEW STORIES (Blossom recall, Gem Show, D11 pay, NFSVLB recall) + 1 FOLLOW-UP (PPLD Summer Adventure — "launch day" angle distinct from May 31 preview) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (all Tier 1) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for Stories 1, 2, 5; 1 each for Stories 3, 4); char violations fixed on S1B/S3A/S4A; 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories, social + article_hero for all 5) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images, all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 82 claims; char violations fixed; image warnings cosmetic (not_started expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 10 images |
+| Dashboard | COMPLETE | review-dashboard.html (28 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-02.xlsx (8 posts) + TOBI cosp-postplanner-tobi-2026-06-02.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-02)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (all Tier 1)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total in PostPlanner xlsx
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-02.xlsx (8 posts), cosp-postplanner-tobi-2026-06-02.xlsx (8 TOBI posts)
+- **Coverage:** Blossom children's loungewear recall (CPSC 2026, ~630 units, burn hazard/flammability failure, button-up shirts + matching shorts/pants, sizes 12M–12Y, short-sleeve: fireworks/multi-stripes/tulips/sailboats, long-sleeve: letter to Santa/Santa paws, white/navy/light blue/pink/lilac, cut in half + photo + email sales@blossomocc.com for refund); Pikes Peak Gem Mineral & Jewelry Show June 5–7 (Norris Penrose Event Center 1045 Lower Gold Camp Rd, Fri–Sat 10 AM–6 PM Sun 10 AM–4 PM, $5/day $8 multi-day free under 12, 55+ vendors, gold panning + scavenger hunt + Pebble Pups + beading 11 AM daily + wire-wrapping Sat 1 PM, hourly door prizes + silent auctions, pikespeakgemshow.com); D11 pay increase (starting salary ~$50,000 ~20% increase, highest in region: D20 ~$49K D49 ~$47K, ratified after CSEA eliminated 2025 + staff picket + month-long negotiations, some employees still say not enough, KOAA); NFSVLB baby bath seat recall (1,430 units, Model ZY2025 blue/white, tips over + leg openings trap torso, drowning + entrapment, Amazon May–Oct 2025 $25–$40, stop use email amzmaihuayd@163.com for full refund, January 2026, CPSC.gov); PPLD Summer Adventure launch (June 2 launch day, free all ages adults $5, prizes SCHEELS/Switchbacks/Flying W Ranch, opening concerts Library 21c 2 PM + East Library 3:30 PM TODAY, free lunch under 18 weekdays through July 31 at East Library, ppld.beanstack.org or ppld.org/summer)
+- **Notes:**
+  - verify-facts.py passed — all 5 stories present; 82 claims; 3 char violations (S1B, S3A, S4A tweets) fixed before rerun; image warnings cosmetic (not_started expected)
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 10 images; posting window warnings cosmetic
+  - dashboard: 28 items
+  - PostPlanner exports: both standard (8) and TOBI (8) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: June 1, 2026
 
 | Step | Status | Notes |
