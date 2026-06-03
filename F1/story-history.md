@@ -2146,3 +2146,49 @@
 - **Key facts:** Special all-white Monaco race suit (Monaco flag colors); 2024 Monaco winner; 3x Monaco pole sitter; grew up in Monaco; Canada "worst weekend of my career"; Ferrari favored; teammate Hamilton starred Canada while Leclerc struggled
 - **Status:** NEW STORY
 - **Follow-up ideas:** Qualifying; race result; potential Ferrari 1-2
+
+---
+## 2026-06-03
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-03 | T1 | Monaco GP 2026 Weekend Preview — FP1 June 5 7:30 AM ET, Qual June 6 9 AM ET, Race June 7 9 AM ET Apple TV+; active aero ban applies; Ferrari favored; lighter cars may produce more overtaking | X, FB, Article | NEW STORY |
+| 2026-06-03 | T1 | Ferrari favorites at Monaco — Leclerc 2/1, Hamilton 4/1, Antonelli 4/1; SF-26 low-speed excellence; active aero ban removes Mercedes edge; Leclerc 2024 winner/3 poles; Hamilton "power not king there" eyes first Ferrari win | X, FB, Article | FOLLOW UP |
+| 2026-06-03 | T2 | Antonelli Monaco challenge — 4 wins/5 races, youngest F1 championship leader, 131 pts/+43 over Russell; not the favorite at Monaco; admitted Ferrari "team to beat" | X, FB, Article | FOLLOW UP |
+| 2026-06-03 | T2 | Verstappen exit clause ticking — 7th in standings (43 pts), needs top-2 by July 27; won Monaco 2021 and 2023; Canada P3 first RBPT 2026 podium; active aero ban helps Red Bull relatively | X, FB, Article | FOLLOW UP |
+| 2026-06-03 | T2 | Russell 43 points down — led Canada until Lap 30 power unit failure; gap 18→43; never won Monaco; W17 disadvantaged by aero ban; championship math needs urgent response | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Monaco GP Weekend Preview
+- **Tier:** 1
+- **Category:** Race Weekend Preview
+- **Key facts:** FP1 June 5 7:30 AM ET; FP2 11 AM ET; Qual June 6 9 AM ET; Race June 7 9 AM ET Apple TV+; active aero ban (Straight Mode/Rev1) applies — no Monaco section meets 3-sec threshold; Ferrari favored; weather ~28°C dry
+- **Status:** NEW STORY
+- **Follow-up ideas:** FP1/FP2 results; qualifying analysis
+
+### STORY 2: Ferrari Favorites
+- **Tier:** 1
+- **Category:** Team/Driver Feature
+- **Key facts:** Leclerc 2/1 Betfair; Hamilton 4/1; Antonelli 4/1; Ferrari SF-26 best low-speed car; active aero ban levels field; Leclerc 2024 Monaco winner/3 poles/grew up Fontvieille; Hamilton 3 Monaco wins (never Ferrari); Hamilton Canada P2 "happiest day at Ferrari"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Ferrari qualifying position; race result
+
+### STORY 3: Antonelli Monaco Challenge
+- **Tier:** 2
+- **Category:** Championship Feature
+- **Key facts:** 131 pts, +43 over Russell; 4 wins/5 races F1 first (4-for-4 pole conversions); youngest F1 points leader ever; 19 years old; Monaco not Mercedes territory; Antonelli: Ferrari "team to beat"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monaco qualifying/race result
+
+### STORY 4: Verstappen Exit Clause
+- **Tier:** 2
+- **Category:** Driver/Contract Feature
+- **Key facts:** Exit clause: outside top 2 by July 27 → can leave Red Bull; 7th in standings (43 pts); won Monaco 2021, 2023; Canada P3 first RBPT podium 2026; clause due to "apprehension" about RBPT3 competitiveness
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monaco result; July standings before break
+
+### STORY 5: Russell at Monaco
+- **Tier:** 2
+- **Category:** Championship Feature
+- **Key facts:** Led Canada Lap 30 DNF power unit; gap 18→43 pts; Russell Canada pole by 0.068s; never won Monaco; W17 disadvantaged by aero ban; said "championship is currently Antonelli's to lose"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monaco qualifying; race result; championship gap after Monaco
