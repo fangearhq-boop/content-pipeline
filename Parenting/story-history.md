@@ -2,6 +2,45 @@
 
 ---
 
+## June 3, 2026
+
+### Story 1: YCXXKJ Baby Bath Seat Recall — Drowning Risk
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalls ~9,000 YCXXKJ baby bath seats (model YD-1958, blue/gray/pink/yellow, sold Amazon May 2024–Oct 2025). Seat tips over in water, drowning risk. Different brand from NFSVLB (June 2) and Bearlala (May 28) recalls. Remedy: stop use, email bentalkhere@outlook.com with 2 photos of product for full refund.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~9,000 units recalled; Model YD-1958; blue/gray/pink/yellow; duck/turtle/whale bath toy accessories; sold Amazon May 2024–Oct 2025; email bentalkhere@outlook.com + 2 photos for refund; Source: CPSC.gov 2026
+
+### Story 2: Vevor Baby Swing Recall — Suffocation Risk
+- **Content Pillar:** National Parenting
+- **Angle:** FOLLOW-UP — Vevor baby swings (Sanven Technology) previously covered on May 21 in a Memorial Day roundup context. Today's coverage is a standalone full recall article with urgent stop-use messaging. Incline angle violates the Safe Sleep for Babies Act (2022 law banning inclined sleepers). Models BB501K/BB702A/BB005K.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~1,020 units recalled; models BB501K (white/gray, white base), BB702A (white/gray, gray base), BB005K (black/gray, black base); sold Vevor.com + Amazon Jan–Aug 2025; $65–$80; suffocation hazard; violates Safe Sleep for Babies Act; call (855) 599-6320 or email recalling@vevor.com for refund; Source: CPSC.gov 2026
+
+### Story 3: Free Summer Meals for COS Kids — No Registration Required
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP — Free summer meals for COS kids previously covered May 30 in a "summer guide" roundup. Today's article focuses specifically on the D49 program launch (June 1–19) at Springs Ranch Elementary and the 600+ statewide sites available through kidsfoodfinder.org. Distinct angle: dedicated article on no-barriers access.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Springs Ranch Elementary (D49), June 1–19; ages 1–18; free breakfast + lunch; no registration/ID/enrollment; 600+ statewide CDE sites; kidsfoodfinder.org; Pikes Peak Library District East Library free lunch under 18 weekdays through July 31; Source: d49.org, kidsfoodfinder.org, Colorado Department of Education
+
+### Story 4: Pikes Peak Hill Climb — Family Guide for Fan Fest and Race Day
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 2026 PPIHC family guide with practical planning info for Fan Fest (June 19, downtown, free) and Race Day (June 21, mountain, 7:30 AM green flag). Elevation/weather prep tips, spectator guide link, course specs.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Fan Fest June 19, 5–9 PM, 10 city blocks downtown, free; Race Day June 21, green flag 7:30 AM; course 12.42 miles, 156 turns; start elevation 9,390 ft, summit 14,115 ft; spectator guide ppihc.org; Source: ppihc.org
+
+### Story 5: COS June Family Events Roundup — Rock Ledge Ranch, Mining Museum, Trackchair
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Three Colorado Springs June family events: Rock Ledge Ranch Historic Site (June 3–14, living history, American Indian Area, homestead crafts); Western Museum of Mining and Industry Family Day (June 12, free outdoor activities, gold panning, blacksmith, hayrides); Trackchair accessible hikes (Wed–Sun ongoing, 4 parks: Ute Valley, Red Rock Canyon, Blodgett, Bluestem, free reservations). Includes Donut Day on Pikes Peak (June 6–7) and Bear Creek Nature Center Pollinators (June 26) in quick reference table.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Rock Ledge Ranch June 3–14 10 AM–5 PM (visitcos.com); Mining Museum Family Day June 12 free outdoor no registration; Trackchair Wed–Sun 2 guided hikes/day free reservations coloradosprings.gov; Source: visitcos.com, wmmi.org, coloradosprings.gov
+
+---
+
 ## June 2, 2026
 
 ### Story 1: Blossom Children's Loungewear Recall — Burn Hazard

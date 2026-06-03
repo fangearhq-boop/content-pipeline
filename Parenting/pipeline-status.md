@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 3, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | YCXXKJ bath seat recall (~9,000 units, Model YD-1958, drowning risk, Amazon May 2024–Oct 2025, email bentalkhere@outlook.com + 2 photos for refund, CPSC.gov); Vevor baby swing recall (~1,020 units, models BB501K/BB702A/BB005K, suffocation hazard, violates Safe Sleep for Babies Act, Vevor.com + Amazon Jan–Aug 2025, $65–$80, (855) 599-6320 or recalling@vevor.com, CPSC.gov); D49 free summer meals (Springs Ranch Elementary, June 1–19, ages 1–18, no registration/ID/enrollment, 600+ statewide CDE sites, kidsfoodfinder.org); PPIHC 2026 family guide (Fan Fest June 19 5–9 PM 10 city blocks downtown free; Race Day June 21 7:30 AM; 12.42 mi 156 turns 9,390–14,115 ft; ppihc.org); COS June events roundup (Rock Ledge Ranch June 3–14 10 AM–5 PM; Western Museum Family Day June 12 free; Trackchair Wed–Sun 4 parks free reservations) |
+| Story History Check | COMPLETE | 2 NEW STORIES (PPIHC guide, COS events roundup) + 3 FOLLOW-UPs with new distinct angles (YCXXKJ recall — different from NFSVLB June 2 and Bearlala May 28; Vevor recall — standalone article vs. May 21 roundup mention; Free summer meals — D49-focused dedicated article vs. May 30 guide mention) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (4 Tier 1, 1 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for Stories 1, 2, 3; 1 each for Stories 4, 5); 2 char violations fixed (S2A, S5A); 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories, social + article_hero for all 5) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 15 images (x_image + facebook_image + article_hero per story for all 5); all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 104 claims; 2 char violations fixed (S2A, S5A); image manifest format fixed to YAML (was markdown list); image not_started warnings cosmetic (expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (28 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-03.xlsx (8 posts) + TOBI cosp-postplanner-tobi-2026-06-03.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-03)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total in PostPlanner xlsx
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-03.xlsx (8 posts), cosp-postplanner-tobi-2026-06-03.xlsx (8 TOBI posts)
+- **Coverage:** YCXXKJ baby bath seat recall (~9,000 units, Model YD-1958, blue/gray/pink/yellow with duck/turtle/whale toys, tips over in water, drowning risk, Amazon May 2024–Oct 2025, stop use, email bentalkhere@outlook.com with 2 photos for full refund, CPSC.gov 2026); Vevor baby swing recall (~1,020 units, Sanven Technology, models BB501K [white/gray white base] + BB702A [white/gray gray base] + BB005K [black/gray black base], incline violates Safe Sleep for Babies Act 2022, suffocation risk, Vevor.com + Amazon Jan–Aug 2025, $65–$80, stop use, call (855) 599-6320 or email recalling@vevor.com for refund, CPSC.gov 2026); Free summer meals for COS kids (D49 Springs Ranch Elementary June 1–19 ages 1–18 free breakfast + lunch, no registration/ID/income/enrollment required; 600+ statewide CDE sites; kidsfoodfinder.org by zip code; Pikes Peak Library District East Library free lunch under 18 weekdays through July 31; USDA SFSP); PPIHC 2026 family guide (Fan Fest June 19 5–9 PM downtown 10 city blocks free, driver meet-and-greet/stunt shows/vendor booths; Race Day June 21 green flag 7:30 AM; 12.42-mile course 156 turns; start 9,390 ft, summit 14,115 ft; dress in layers, hydrate, download spectator guide; ppihc.org); COS June events roundup (Rock Ledge Ranch Historic Site June 3–14 10 AM–5 PM visitcos.com for admission; Western Museum of Mining and Industry Family Day June 12 free outdoor activities no registration — mining demos/blacksmith/hayrides/gold panning; Trackchair accessible hikes Wed–Sun 2 guided hikes/day at Ute Valley/Red Rock Canyon/Blodgett/Bluestem free reservations coloradosprings.gov; Donut Day on Pikes Peak June 6–7; Bear Creek Nature Center Pollinators June 26)
+- **Notes:**
+  - verify-facts.py: 2 runs required — first run flagged 2 char violations (S2A: 295 chars, S5A: 302 chars) and image manifest format error (markdown list vs. required YAML). Both fixed before second run passed.
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 28 items
+  - PostPlanner exports: both standard (8) and TOBI (8) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: June 2, 2026
 
 | Step | Status | Notes |
