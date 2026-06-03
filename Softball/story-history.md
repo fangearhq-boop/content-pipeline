@@ -3,6 +3,63 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 3, 2026
+
+### Story 1: WCWS Championship Game 1 Preview — Texas vs. Texas Tech (Tonight, 8 PM ET)
+- **Date:** 2026-06-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (championship series now game-day; deeper preview angle)
+- **Angle:** First WCWS championship rematch since best-of-three format began in 2005. Texas (51-12, defending champion) vs. Texas Tech (61-8, No. 11 seed). Kavan vs. Canady. Game 1 tonight at 8 PM ET on ESPN at Devon Park.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 1 result
+  - Game 2 preview/result
+  - Series outcome
+
+### Story 2: NiJaree Canady — 4th Pitcher in WCWS History to Record Shutout in Four Different Tournaments
+- **Date:** 2026-06-03
+- **Tier:** 1
+- **Classification:** NEW STORY (career profile/championship day feature)
+- **Angle:** Canady joined Nancy Evans, Lisa Longaker, Debbie Doom as only 4 pitchers to record WCWS shutouts in 4 different tournaments. CG shutout vs. Alabama: 2 hits, 6 Ks, 2-0. Career record 29-6 in 2026. Chasing first national title.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Canady's performance in Game 1
+  - Championship outcome
+  - Career legacy if Texas Tech wins or falls short
+
+### Story 3: Teagan Kavan — Reigning WCWS MOP Bids for Back-to-Back
+- **Date:** 2026-06-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Kavan threw CG shutout vs. Tennessee (10 Ks, 2 hits, 0 BB, 4-0). 9 WCWS wins (Texas program record). 5 WCWS shutouts (ties Cat Osterman). Reigning 2025 WCWS MOP needs 2 more wins for back-to-back title.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Kavan's Game 1 start
+  - Championship outcome
+
+### Story 4: Katie Stewart — 30 HRs Break Texas Single-Season Program Record
+- **Date:** 2026-06-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP
+- **Angle:** Stewart hit HRs 29 and 30 vs. Tennessee Monday, setting new Texas single-season HR record (prev: 28). Texas team: 97 HRs in 2026 (new program record, surpassing 2025's 94). Stewart's matchup vs. Canady is Game 1's key individual battle.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Stewart's at-bats vs. Canady in championship series
+  - End-of-season power stats comparison
+
+### Story 5: Texas Tech's Cinderella Path — No. 11 Seed in the WCWS Championship
+- **Date:** 2026-06-03
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** No. 11 seed Texas Tech beat UCLA (8-7, extras) then beat No. 1 Alabama twice in same day. Mia Williams walk-off (26th HR) + Canady CG shutout got them here. Most dramatic underdog run in recent WCWS history.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 1 result
+  - Championship outcome
+  - Texas Tech program history if they win title
+
+---
+
 ## June 1, 2026
 
 ### Story 1: Texas 3-1 Nebraska — Stewart HR Breaks Frahm Near No-Hitter, Ends Husker Season
