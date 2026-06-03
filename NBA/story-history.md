@@ -2407,3 +2407,49 @@
 - **Key facts:** KAT 48.9% 3P% 2026 playoffs (career best); OG Anunoby 48.3% 3P%; five-out lineup forces Wemby coverage dilemma; OG fewest pts/100 as primary Wemby defender; creates Brunson driving lanes
 - **Status:** NEW STORY
 - **Follow-up ideas:** Game 1 three-point shooting results; Spurs defensive adjustments
+
+---
+## 2026-06-03
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-03 | T1 | NBA Finals Game 1 Preview — Spurs vs. Knicks tonight 8:30 PM ET ABC Frost Bank Center; 1999 rematch; Brunson leads Knicks back 27 years later; Knicks 11-game win streak +271 pt diff best ever entering Finals | X, FB, Article | NEW STORY |
+| 2026-06-03 | T1 | Stephon Castle admits "I sell calls too sometimes" at Finals Media Day; Castle is primary Brunson defender; explained flopping philosophy — "feel thing, especially in playoffs" | X, FB, Article | NEW STORY |
+| 2026-06-03 | T2 | Wembanyama defensive dilemma — KAT 48.9%/OG 48.3% from three forces Wemby to choose: guard arc or protect rim; Brunson exploits either gap; Knicks 40% from three playoff-best | X, FB, Article | NEW STORY |
+| 2026-06-03 | T2 | Wizards win 2026 NBA Draft Lottery — No. 1 pick, first since John Wall 2010; Jazz No. 2, Grizzlies No. 3, Bulls No. 4; draft June 23-24 | X, FB, Article | NEW STORY |
+| 2026-06-03 | T2 | Knicks' historic win streak — 11 straight wins, +271 pt differential (best ever entering Finals), +19.4 net rating, 40.0% from three; ECF sweep of Boston; Brunson ECF MVP 27.8/6.7 | X, FB, Article | NEW STORY |
+
+### STORY 1: NBA Finals Game 1 Preview
+- **Tier:** 1
+- **Category:** NBA Finals / Game Preview
+- **Key facts:** Game 1 June 3 8:30 PM ET ABC Frost Bank Center SA; Spurs -5.5; Knicks 11-game win streak +271 pt diff; 1999 rematch Spurs won 4-1; Rick Brunson was on 1999 Knicks; 9 days rest Knicks vs Spurs off G7; Mitchell Robinson plays broken pinkie; Garcia out for season
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 1 result/recap; Castle vs Brunson matchup performance
+
+### STORY 2: Castle Flopping Admission
+- **Tier:** 1
+- **Category:** Player Feature / Spurs Defense
+- **Key facts:** Castle quote: "I sell calls too sometimes. I mean, I can't lie." Castle on refs: "It's really just a feel thing, especially in the playoffs." Castle is primary Brunson defender; Castle WCF G7: 16/6/6; 21 years old, 2nd year
+- **Status:** NEW STORY
+- **Follow-up ideas:** Castle foul count vs Brunson in Game 1; flopping review decisions
+
+### STORY 3: Wembanyama Defensive Dilemma
+- **Tier:** 2
+- **Category:** Tactical Analysis
+- **Key facts:** KAT 48.9% 3P%, OG 48.3% 3P% in 2026 playoffs; Knicks 40.0% from three (playoff best); five-out spacing; Mitch Johnson head coach; OG described as best non-center option vs Wemby
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 1 three-point results; Spurs defensive scheme adjustments
+
+### STORY 4: Wizards Draft Lottery
+- **Tier:** 2
+- **Category:** Draft News
+- **Key facts:** Wizards win No. 1; first since John Wall 2010; 14% odds; Jazz No. 2, Grizzlies No. 3, Bulls No. 4; lottery May 10; draft June 23-24
+- **Status:** NEW STORY
+- **Follow-up ideas:** Draft day coverage June 23-24
+
+### STORY 5: Knicks Historic Win Streak
+- **Tier:** 2
+- **Category:** Statistical Feature
+- **Key facts:** 11-game win streak; +271 pt differential best ever entering Finals; +19.4 net rating; 40.0% from three; ECF sweep vs Boston; Brunson ECF MVP 27.8 PPG/6.7 APG
+- **Status:** NEW STORY
+- **Follow-up ideas:** Post-Game 1 streak continuation or break

@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-02
+- **Date**: 2026-06-03
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-03
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-06-03.xlsx (6 posts) + hh-postplanner-tobi-2026-06-03.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-03/review-dashboard.html (21 items)
+- **Notes:** NBA Finals Game 1 tonight June 3 8:30 PM ET ABC Frost Bank Center SA; 1999 rematch; Castle admits "I sell calls too sometimes"; KAT 48.9%/OG 48.3% from three — Wemby dilemma; Wizards win 2026 Draft Lottery (No. 1, first since John Wall 2010); Knicks 11-game streak +271 pt diff best ever entering Finals
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-02
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
