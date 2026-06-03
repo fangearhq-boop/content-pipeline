@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-03
+
+### Story 1: Tarik Skubal Return Imminent — "Awesome" Simulated Game
+- **Date:** 2026-06-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal covered June 2 as Tier 2; imminent return now)
+- **Angle:** Manager Hinch called Skubal's simulated game "awesome" and said team is at "a very good step to advance him." Nano-scope procedure May 6. Expected rehab start next week, big-league return ~2 weeks. Back-to-back AL Cy Young winner. Trade speculation building but Tigers resisting. Season stats: 2.70 ERA, 45 Ks, 3-2 in 7 starts.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal rehab assignment results
+  - Official IL activation date
+  - First start back in MLB
+
+### Story 2: Aaron Judge on Pace for 5th Career 50-HR Season — MLB First
+- **Date:** 2026-06-03
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Judge has 17 HRs (~55 games), on pace for 50+. Would be his 5th career 50-HR season — no player in MLB history has done it 5 times. Ruth had 4: 54, 59, 60, 54. Judge already has 4: 52 (2017), 62 (2022), 58 (2024), 53 (2025).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Monthly HR updates tracking Judge's pace
+  - When/if he reaches 30, 40, 50 milestones
+  - Comparison to Schwarber's race for HR title
+
+### Story 3: Schwarber vs Judge HR Race — MLB's Best Individual Storyline
+- **Date:** 2026-06-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Schwarber 22 HRs covered June 2; race angle new)
+- **Angle:** Schwarber leads MLB with 22 HRs (on pace 66). Judge at 17 (on pace 50+). Two players tracking 50+ in early June is historically rare — last time: Bonds (73) and Sosa (64) in 2001. Phillies 10-3 under Mattingly. Schwarber hit 20 HRs on May 15 — earliest in MLB history.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Weekly HR race updates
+  - If either player reaches 30 HRs before July
+  - NL HR title race
+
+### Story 4: Braves 40-20, Acuña Homers in 4 Straight — NL East Runaway
+- **Date:** 2026-06-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Braves covered June 2 as Tier 3; Acuña streak is fresh)
+- **Angle:** Braves 40-20, leading NL East by 9.5 games over Phillies. Acuña homered in 4 straight games (5 HRs in stretch). Fully healthy Acuña = terrifying. Sale pitching well. No one in NL is catching them.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Acuña's streak continuation
+  - When/if NL East is mathematically clinched
+  - Braves playoff seeding race with Dodgers/Cubs
+
+### Story 5: Mariners 32-29, First Place AL West — Division Wide Open
+- **Date:** 2026-06-03
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Mariners covered June 2 as Tier 1; AL West standings angle)
+- **Angle:** Mariners 32-29, 2.5 games ahead in AL West after 7-game win streak. Rangers and Astros both below .500. Division is available. Cole Young clutch hits, Julio Rodriguez 10 HRs in May. Can they hold the lead?
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - AL West standings through June
+  - Rangers/Astros recovery attempts
+  - Mariners second-half schedule
+
+---
+
 ## 2026-06-01
 
 ### Story 1: Angels 2-1 A's — Neto Walk-Off HR After Ginn's 8 No-Hit Innings

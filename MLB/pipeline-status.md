@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-03
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (33 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py — pushed to GitHub.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). 0 char violations.
+- **Key Stories**: Skubal return imminent/"awesome" simulated game/rehab start next week/2 weeks to big leagues/back-to-back Cy Young (Tier 1), Aaron Judge on pace for 5th career 50-HR season/no player in MLB history has done it 5 times/Ruth had 4/Judge already has 4 (Tier 1), Schwarber 22 HRs vs Judge 17 HRs/two players on 50+ paces in early June/last time 2001 Bonds-Sosa (Tier 2), Braves 40-20 NL East by 9.5 games/Acuña 4 straight game HR streak 5 HRs (Tier 2), Mariners 32-29 first place AL West/7-game win streak/Rangers+Astros below .500 (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-02
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (29 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py — pushed to GitHub.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
