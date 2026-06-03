@@ -5,6 +5,50 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-03
+
+### STORY 1: Athletics 2, Cubs 1 — Gage Jump First Career Win
+- **Angle:** NEW STORY (game recap — morning after June 2 loss). Gage Jump 7 IP, 3 H, 1 ER, 5 SO — first career win; Taillon (L, 2-5) 6.1 IP; Nick Kurtz HR; Cubs fall to 32-29.
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result tonight (Rea vs Springs)
+  - Taillon DFA/trade watch if HR rate continues
+
+### STORY 2: Rotation Reinforcements — Cabrera Returns Saturday, Boyd Right Behind
+- **Angle:** FOLLOW UP (rotation health arc; new angle = confirmed return dates replacing crisis framing). Cabrera (3-2, 4.00 ERA) returns Saturday June 7 vs Giants; Boyd makes 2nd Iowa rehab start Saturday — Counsell says "good to go" after; Wicks optioned; Ferguson recalled.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative roster update)
+- **Follow-Up Opportunities:**
+  - Cabrera first start back June 7 — results
+  - Boyd activation date (post-2nd rehab start)
+
+### STORY 3: Taillon's HR Problem — 19 Home Runs in 11 Starts
+- **Angle:** FOLLOW UP (Taillon ERA flagged in passing June 1-2; today's specific angle = HR rate standalone, fresh after June 2 loss). 2-5, ~5.37 ERA, 19 HR in 11 starts — one of worst HR rates in baseball.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take / stat breakdown)
+- **Follow-Up Opportunities:**
+  - Taillon trade/DFA decision if rotation gets healthy (Cabrera + Boyd back)
+  - HR count milestone if he reaches 25+
+
+### STORY 4: NL Central Gap — Brewers 36-22, Cubs 5.5 Games Back
+- **Angle:** FOLLOW UP (NL Central tracking; gap widened to 5.5 after Brewers won 8-3 / Cubs lost 2-1 on June 2).
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update after tonight's game
+  - Brewers record tracking vs. Cubs recovery pace
+
+### STORY 5: Game 2 Tonight — Rea vs Springs at Wrigley, 7:05 PM CT
+- **Angle:** NEW STORY (tonight's game preview; Rea's first mention this week). Colin Rea (5-3, 4.70 ERA) vs Jeffrey Springs (LHP, 3-6, 4.07 ERA); A's lead series 1-0.
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 2 result recap tomorrow morning
+  - Imanaga start June 4 Game 3
+
+---
+
 ## 2026-06-01
 
 ### STORY 1: Cardinals 5-1 Cubs — Series Loss, Cubs Drop to 32-28
