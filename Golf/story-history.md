@@ -787,3 +787,49 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Korda 2026: 3 wins + 3 T2s in 7 starts; Chevron Championship win (3rd career major); never won USWO; T2 2025 USWO; World No. 1; +350 favorite USWO Riviera
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** USWO R1 results; completion of major collection
+
+---
+## 2026-06-03
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-03 | T1 | US Women's Open opens tomorrow at Riviera CC — Korda +350 seeks maiden USWO (3 majors/never won USWO); Thitikul and Stark in field; first USGA women's major at Riviera; $12M purse | X, FB, Article | FOLLOW UP |
+| 2026-06-03 | T1 | Memorial Tournament starts Thursday at Muirfield Village — Scheffler three-peat bid (2024/2025 champ; only 17 ever done it; last Stricker JD 2009-11); McIlroy back-to-back Masters/never won Memorial; $20M purse | X, FB, Article | FOLLOW UP |
+| 2026-06-03 | T2 | LIV Golf Andalucia June 4-7 Valderrama — Rahm 16/5 home favorite/leads season pts; DeChambeau 15/2; Niemann 8/1 (8 career LIV titles, won Korea); $20M ind + $10M team; hot weather 91-96°F | X, FB, Article | FOLLOW UP |
+| 2026-06-03 | T2 | Korda 2026 dominance — 3 wins + 3 T2s in 7 starts; never outside top 2; Chevron win (3rd major) by 5 shots at 16-under; World No. 1 (7th time); 27 years old; 17 LPGA wins; USWO is missing major | X, FB, Article | FOLLOW UP |
+| 2026-06-03 | T2 | McIlroy Memorial curse — back-to-back Masters champion/4 majors/career Grand Slam; never won Memorial; Golf Digest "strange history with Jack's Place"; +900 odds; skipped BN and Schwab to prepare | X, FB, Article | NEW STORY |
+
+### STORY 1: US Women's Open Preview
+- **Tier:** 1
+- **Category:** LPGA Major Preview / Eve
+- **Key facts:** 81st USWO June 4-7 Riviera CC Pacific Palisades CA; $12M purse; Korda +350; 3 wins + 3 T2s in 7 starts; Chevron win (3rd major); never won USWO; T2 2025 USWO; Thitikul challenger; Stark defending; first USGA women's major at Riviera
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 leaderboard; Korda opening round; who challenges
+
+### STORY 2: Memorial Tournament Preview
+- **Tier:** 1
+- **Category:** PGA Tour Signature Event Preview
+- **Key facts:** June 4-7 Muirfield Village Dublin OH; Scheffler 2-time defending (2024/2025); three-peat = 17th ever / first since Stricker John Deere 2009-11; Scheffler World No. 1 last win American Express Jan; McIlroy back-to-back Masters never won Memorial; +900; $20M purse
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 scores; three-peat watch
+
+### STORY 3: LIV Golf Andalucia
+- **Tier:** 2
+- **Category:** LIV Golf
+- **Key facts:** June 4-7 Real Club Valderrama Cadiz Spain; Rahm 16/5 leads season pts by 188.68 over DeChambeau; DeChambeau 15/2; Niemann 8/1 (won Korea = 8 career LIV titles); $20M ind + $10M team; par 71/7,010 yds; 91-96°F
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Results; Niemann 9th title
+
+### STORY 4: Korda 2026 Dominance
+- **Tier:** 2
+- **Category:** Player Feature
+- **Key facts:** 3 wins + 3 T2s in 7 starts 2026; Chevron win by 5 shots at 16-under = 3rd career major; World No. 1 (7th time); 27 yo; 17 LPGA wins; Sorenstam 2001 comparison; USWO missing major; cannonball celebration
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** USWO R1 performance
+
+### STORY 5: McIlroy Memorial Curse
+- **Tier:** 2
+- **Category:** Player Feature
+- **Key facts:** 4 majors; back-to-back Masters; career Grand Slam; never won Memorial; Golf Digest "strange history with Jack's Place"; +900; skipped Byron Nelson + Schwab to prepare
+- **Status:** NEW STORY
+- **Follow-up ideas:** Memorial performance; first win there?
