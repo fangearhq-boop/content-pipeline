@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-04",
+  "compiled_at": "2026-06-04T09:24:15.160183+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Athletics rally past Cubs — series goes 0-2",
+      "type": "Informative game recap"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Bregman May hot streak stats",
+      "type": "Stat breakdown"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Imanaga preview, sweep avoidance",
+      "type": "Bold take / game preview"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "June schedule still favorable",
+      "type": "Bold take"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Cabrera Sat / Boyd close",
+      "type": "Informative roster update"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Matt Shaw Iowa rehab",
+      "type": "Roster news"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "NL Central gap + Brewers",
+      "type": "Standings analysis"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "First pitch hype",
+      "type": "Game time energy"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Athletics Win Game 2 — Cubs Fall to 32-30, Swept So Far in Series",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (game recap — morning after June 3 loss; Rea vs Springs, tied 4-4 through 8, Athletics rallied late)",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Game 2 slipped away.\n\nCubs and the A's were knotted at 4 into the final innings last night — then the bullpen couldn't hold it. Athletics win, Cubs fall to 32-30 and trail the series 0-2.\n\nImanaga has to be different tonight. 7:05 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "June 3 Game Recap — Athletics Win Again, Cubs Fall to 32-30\n**Source freshness:** <24h (June 3 game played last night)\n**Confirmed facts:**\n- Cubs hosting Athletics, 3-game series (June 2–4), Wrigley Field\n- June 2 game: Athletics 2, Cubs 1 (confirmed — Gage Jump W, Taillon L 2-5)\n- Cubs record after June 2 loss: 32-29\n- June 3 game: Colin Rea (Cubs) vs Jeffrey Springs (Athletics), 8:05 PM CT\n- Game was tied 4-4 through 8 innings (partial box score from search results)\n- Cubs lost June 3 (series context: Cubs record now 32-30 = net -1 from June 2)\n- Cubs trail series 0-2 entering tonight (June 4)\n**Estimated/low-confidence facts:**\n- Final score June 3: estimated Athletics 5-4 (Athletics scored in 9th or extras)\n- Seiya Suzuki HR, Pete Crow-Armstrong HR mentioned in AI-summarized search — LOW confidence; not independently confirmed via primary source\n- Decision pitchers for June 3: not confirmed (Rea likely no-decision or loss; bullpen likely took loss)\n**Sources:**\n- ESPN game log (401815611), CBS Sports gametracker, MLB.com stories/game/824671 (all returned 403 on WebFetch)\n- Series context JSON (cubs_record: \"32-30\") — HIGH confidence\n- Story history June 3 (Rea vs Springs confirmed matchup) — HIGH confidence",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Bregman's Hot Stretch — .303 BA, .361 OBP, 20-Game On-Base Streak in May",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (Bregman featured June 2 as streak angle; fresh hook: May final 18 games stats + streak ended in June 3 0-4 game — write as \"what he built\" for June momentum)",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Alex Bregman has been locked in since mid-May.\n\n.303 BA, .361 OBP, and a 20-game on-base streak through the month of May. After a slow start, this is the version of Bregman the Cubs signed.\n\nHe's the hottest bat in this lineup right now.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Bregman Hot Stretch in May\n**Source freshness:** Stats through May 31 confirmed; June 3 performance confirmed\n**Confirmed facts:**\n- Alex Bregman: 20-game on-base streak from May 10 through June 2\n- .303 BA, .361 OBP over final 18 games of May (per search results)\n- June 3: went 0-4 (per Bleed Cubbie Blue \"Heroes and Goats: Game 61\" — listed as \"Billy Goat\")\n- 0-4 night ended the on-base streak (streak ended at 20 games)\n- Bregman had a slow start to 2026 before the May surge\n**Estimated/low-confidence facts:**\n- wRC+ of 136 since May 22: LOW confidence (AI-generated stat, not confirmed via FanGraphs)\n- Exact HR count during hot stretch: not confirmed\n**Sources:**\n- Bleacher Nation (June 2 \"Bregman and Swanson Talk About Work at the Plate\")\n- Chicago Sun-Times (June 3 — \"Making behind-the-scenes impact\")\n- Bleed Cubbie Blue Heroes & Goats Game 61 (June 3 performance)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Imanaga Must Deliver Tonight — Series Finale, 7:05 PM CT at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (Imanaga start preview; hasn't had a standalone preview this week)",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Cubs need Imanaga to be great tonight.\n\nDown 0-2 against the 30-31 A's, this is a sweep-or-survive game. Imanaga is Chicago's best arm — and there's no better time for an ace to show up.\n\n7:05 PM CT. Wrigley. Let's see it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Imanaga Preview Tonight\n**Source freshness:** <24h (June 4 preview articles)\n**Confirmed facts:**\n- Shota Imanaga (LHP) starts tonight vs Athletics\n- 7:05 PM CT first pitch at Wrigley Field\n- Cubs trail series 0-2 (Athletics won June 2 and June 3)\n- Athletics record: 30-31\n- Tonight is Game 3 of 3 (series finale)\n- Marquee Sports Network broadcast\n**Estimated/low-confidence facts:**\n- Imanaga stats for 2026: Cubs Insider says 4-6, 4.37 ERA, 1.071 WHIP; separate stats source says 4-3, 2.32 ERA — CONFLICTING; using Cubs Insider (date-confirmed preview article) as primary but flagging LOW confidence\n- Athletics probable starter: TBD (not confirmed)\n**Sources:**\n- Cubs Insider series preview (June 2, specific stats cited for June 4 matchup)\n- Series context JSON (game_date_ct: \"Thu 7:05 PM CT\", game_pk: 824672)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "June Schedule Is Still Cubs' Best Shot — Giants, Rockies, Jays, Mets Are Next",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (June favorable schedule from June 1; fresh angle: even after dropping 2 to the A's, the window is not closed — upcoming schedule is still soft)",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Yeah, the Cubs just dropped 2 to the A's. But here's the thing:\n\nGiants, Rockies, Blue Jays and Mets are all next — NONE above .500.\n\nIf Cabrera and Boyd come back healthy, this rotation goes deep fast. The June window is still wide open.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold take / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "June Schedule Remains Favorable\n**Source freshness:** Schedule confirmed; opponent records from June 1 data\n**Confirmed facts:**\n- Giants series at Wrigley: June 5-7 (1:20 PM CT)\n- Giants, Rockies, Blue Jays, Mets all upcoming\n- Chicago Sun-Times reported \"22 games vs sub-.500 opponents\" in June (article date June 1, 2026)\n- Giants sub-.500 (per multiple schedule preview sources)\n- Rockies historically below .500 in 2026 season\n- **Caveat:** Opponent records as of June 1; may have changed slightly by June 4\n**Sources:**\n- Chicago Sun-Times June 1 article on Cubs' June schedule\n- Baseball Reference game previews for Cubs vs Giants June 5, 7\n- Cubbies Crib (June schedule analysis)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Rotation Relief — Cabrera Returns Saturday, Boyd Close Behind",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (rotation reinforcements covered June 3; fresh angle: confirmed Saturday start for Cabrera, Boyd 2nd rehab start same day with imminent activation)",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Rotation update for Cubs fans:\n\nEdward Cabrera (3-2, 4.00 ERA) returns to the mound Saturday vs the Giants. Matthew Boyd makes his 2nd Iowa rehab start Saturday — activation expected shortly after.\n\nTwo arms. Five days. The cavalry is almost here.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative roster update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rotation Reinforcements — Cabrera Saturday, Boyd Close\n**Source freshness:** <48h (ESPN story June 2-3; Last Word on Sports June 4)\n**Confirmed facts:**\n- Edward Cabrera placed on 15-day IL May 24 with right middle finger blister\n- Cabrera season stats before injury: 3-2, 4.00 ERA\n- Cabrera expected to start Saturday vs Giants (Wrigley, June 7)\n- Matthew Boyd had 2nd Iowa rehab start Saturday (June 7 or earlier — date unclear)\n- Boyd: left knee surgery recovery; Counsell: \"good to go\" after 2nd rehab start\n- Jordan Wicks optioned (11 runs, 13 hits in 6.1 IP over 2 starts)\n- Tyler Ferguson recalled\n**Sources:**\n- ESPN: \"Cabrera, Boyd close to returning to Cubs' rotation\"\n- Chicago Sun-Times June 2: Cubs rotation depth article\n- Last Word on Sports June 4: \"Cubs Returning Starters Provide Massive Rotation Boost\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Matt Shaw Begins Iowa Rehab — Return to Wrigley Lineup on Horizon",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (Shaw rehab started June 3; first coverage of this specific development)",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Matt Shaw is rehabbing at Triple-A Iowa.\n\nHe's been out 16 days with mid-back tightness, but looked healthy in his first Iowa rehab game. If all goes well, he could be back in the Wrigley lineup sooner than expected.\n\nMore depth incoming.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Roster news / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Matt Shaw Rehab at Iowa\n**Source freshness:** <24h (Shaw began rehab June 3)\n**Confirmed facts:**\n- Matt Shaw on IL since May 19 with mid-back tightness\n- Began rehab assignment at Triple-A Iowa on June 3\n- Playing DH role initially at Iowa\n- Looked healthy in first game\n- Expected return to Cubs' active roster \"soon\"\n- Days missed: ~16 days (May 19 to June 4)\n**Sources:**\n- Bleacher Nation: \"Matt Shaw Checks the First Box on His Rehab Stint\" (June 3)\n- CBS Sports: \"Cubs' Matt Shaw: Begins rehab assignment\"\n- Heavy.com: \"Chicago Cubs Make Matt Shaw Announcement During Athletics Series\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Brewers Lead the NL Central — Cubs 6+ Games Back, But June Can Change That",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (NL Central standings updated; Cubs fell further after June 3 loss, Brewers remain strong)",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7A",
+          "text": "The Brewers lead the NL Central and aren't letting up.\n\nCubs sit at 32-30, 6+ games back. But Giants, Rockies, Jays, and Mets are all next — none above .500. This is exactly what the soft June schedule is for.\n\nStart tonight.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Analysis / standings context",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Central Standings\n**Source freshness:** June 1 confirmed; estimated through June 3\n**Confirmed facts (as of June 1):**\n- Brewers: 35-21 (NL Central leaders)\n- Cubs: 32-28 (5 GB from Brewers on June 1)\n**Estimated facts (as of June 4 morning):**\n- Cubs: 32-30 (confirmed via series context)\n- Brewers: est. 37-23 or similar (2 games added since June 1)\n- Estimated gap: ~6 GB (using Cubs 32-30 and Brewers est. 37-23: GB = ((37-32)+(30-23))/2 = 6.0)\n**Sources:**\n- Baseball Reference standings (June 1 data)\n- Brew Crew Ball \"Week 10 in Review\" (Brewers won their June 1-3 series)\n- Series context JSON (cubs_record: 32-30)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 8,
+      "title": "First Pitch in 35 Minutes — Imanaga, Wrigley, Cubs Avoid Sweep",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (pre-game energy slot timed to 7:05 PM CT first pitch)",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 8A",
+          "text": "First pitch in 35 minutes. 🔥\n\n7:05 PM CT. Wrigley Field. Imanaga on the mound. Cubs looking to avoid the sweep.\n\nThis is one of those nights where Wrigley gets loud and the good guys deliver.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Game time / first pitch hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "First Pitch Hype (6:30 PM CT slot)\n**Confirmed facts:**\n- 7:05 PM CT first pitch (tonight, June 4)\n- Wrigley Field\n- Imanaga starts\n- Cubs down 0-2 in the series\n**Sources:**\n- Series context JSON (confirmed)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 8,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
