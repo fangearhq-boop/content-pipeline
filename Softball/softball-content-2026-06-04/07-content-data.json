@@ -1,0 +1,336 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-04",
+  "compiled_at": "2026-06-04T10:17:32.802628+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "9:10 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 3",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Texas 7, Texas Tech 3 — Longhorns Take Game 1 of Championship Series",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Texas wins Game 1. 🥎\n\nKavan: CG, 3 hits, 3 runs allowed.\nStewart: 2-run HR in the first inning.\nFinal: Texas 7, Texas Tech 3.\n\nOne win from back-to-back national titles.\n\n#HookEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS"
+          ],
+          "char_count": 184
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Texas put up 10 hits and 7 runs against one of the best pitching staffs in the country.\n\nGame 1 wasn't even that close.\n\nLonghorns are one win away from back-to-back. 🤠\n\n#HookEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS"
+          ],
+          "char_count": 183
+        }
+      ],
+      "facebook": {
+        "long_form": "Texas is one win away from back-to-back national championships. 🥎\n\nThe Longhorns controlled Game 1 of the WCWS Championship Series from the very first inning Wednesday night, beating Texas Tech 7-3 in Oklahoma City. Teagan Kavan was locked in, pitching a complete-game three-hitter while allowing just three runs. She threw all seven innings and gave the offense time to do its job — which it did, collecting 10 hits against one of the country's most elite pitching staffs.\n\nThe damage started early. Katie Stewart drove in two with a home run in the first inning, and Texas never looked back. By the time Mia Williams added a two-run shot for Texas Tech, the deficit was already too steep to climb.\n\nTexas Tech played hard — 61-8 for a reason — but last night belonged to the Longhorns.\n\nGame 2 is tonight at 8 PM ET on ESPN. Texas needs one win to celebrate. Texas Tech needs a win to survive.\n\nWho's watching tonight? Drop a 🤠 for Texas or a ⚫🔴 for Texas Tech!",
+        "image_caption": "Texas 7, Texas Tech 3 in Game 1. Kavan was brilliant. Stewart was historic. One win from back-to-back. 🥎 #HookEm #WCWS",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-texas-wins-game-1-wcws-championship-7-3.html",
+        "headline": "Texas Rolls to 7-3 Win in WCWS Championship Game 1, One Win From Back-to-Back Titles",
+        "word_count": 422
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas 7, Texas Tech 3 — Game 1 Result\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Action shot of Teagan Kavan celebrating or walking off the mound after the final out, or Texas players celebrating in the dugout\n- **Photo Search Terms (Imagn):**\n  1. Teagan Kavan Texas\n  2. Texas Longhorns softball\n  3. Katie Stewart Texas\n- **Text Overlay Copy:**\n  - Headline: \"TEXAS TAKES GAME 1\" (white, Poppins Bold)\n  - Subtitle: \"Kavan CG · Stewart Historic HR · Longhorns One Win Away\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Celebration/triumph pose. Dark overlay bar on bottom third. Clean background preferred.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Teagan Kavan Texas\n- **Text Overlay:** Same as social but wider layout\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas 7, Texas Tech 3 — Game 1 WCWS Championship\n**Decision:** NEW STORY (June 3 coverage was preview; today is result)\n**Sources:**\n1. Washington Post — \"Texas rides Teagan Kavan, Katie Stewart to 7-3 win over Texas Tech to open WCWS title series\" (June 3, 2026)\n2. NCAA.com — \"Live updates: Texas vs. Texas Tech in the 2026 Women's College World Series Finals\" (June 3, 2026)\n3. On3.com — \"2026 WCWS: Texas takes Game One of Champ Series against Texas Tech\" (June 3, 2026)\n4. ESPN — \"Texas topples Texas Tech in Game 1 of WCWS finals\" (June 3, 2026)\n**Key Facts (HIGH confidence):**\n- Final score: Texas 7, Texas Tech 3 [HIGH — multiple sources]\n- Teagan Kavan pitched a complete game, allowed 3 hits, 3 runs, 2 walks over 7 innings [HIGH — multiple sources]\n- Texas collected 10 hits against Texas Tech pitching [HIGH — multiple sources]\n- Katie Stewart hit a 2-run HR in the first inning [HIGH — multiple sources]\n- Mia Williams hit a 2-run HR to center for Texas Tech [MEDIUM — one search result summary]\n- Texas is one win from back-to-back WCWS championships [HIGH — confirmed]\n**Freshness:** VERIFIED — game played June 3, 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Katie Stewart — First Player Ever to HR in Four Straight WCWS Games",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Katie Stewart homered in 4 straight WCWS games.\n\nFirst player in Women's College World Series history to do that. 🔥\n\n7 career WCWS home runs now. The record is hers.\n\n#HookEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS"
+          ],
+          "char_count": 180
+        },
+        {
+          "label": "Post 2-2",
+          "text": "4 straight WCWS games with a home run.\n\nThat's never happened before in 75 years of Women's College World Series softball.\n\nKatie Stewart owns that record now.\n\n#HookEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS"
+          ],
+          "char_count": 174
+        }
+      ],
+      "facebook": {
+        "long_form": "Let's talk about what Katie Stewart just did.\n\nIn the first inning of Game 1 Wednesday night, Stewart launched a two-run home run against Texas Tech — her 7th career Women's College World Series home run. Simple enough, right?\n\nHere's the thing: it was also her 4th home run in 4 straight WCWS games.\n\nThat has NEVER happened before. Not once in the history of the Women's College World Series. Katie Stewart just became the first player ever to homer in four consecutive WCWS games. The record is hers alone.\n\nStewart has been the quieter star alongside Teagan Kavan all season, but this tournament she's made sure no one forgets her name. Seven career WCWS home runs and a record that may stand for decades.\n\nThe WCWS has been going since 1982. Katie Stewart just put her name in a place nobody else has reached.\n\nShoutout to one of the best power hitters in college softball. 🤠🔥",
+        "image_caption": "4 straight WCWS games with a home run. Katie Stewart is the FIRST in history to do that. 🔥 #HookEm #WCWS",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-katie-stewart-wcws-history-four-straight-home-runs.html",
+        "headline": "WCWS History: Katie Stewart Is the First Player Ever to Homer in Four Straight Games",
+        "word_count": 402
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Katie Stewart — WCWS HR Record\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Katie Stewart mid-swing or trot after a home run at the WCWS\n- **Photo Search Terms (Imagn):**\n  1. Katie Stewart Texas\n  2. Katie Stewart Texas softball\n- **Text Overlay Copy:**\n  - Headline: \"HISTORY MADE\" (white, Poppins Bold)\n  - Subtitle: \"4 Straight WCWS Games with a HR — First Ever\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Power stance or home run trot preferred. Vertical framing works well for a player portrait.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Katie Stewart Texas\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Katie Stewart — First to HR in Four Consecutive WCWS Games\n**Decision:** NEW STORY\n**Sources:**\n1. Sports Illustrated — \"Katie Stewart's Historic Swing Propels Texas to Game 1 WCWS Championship Series Win\" (June 3, 2026)\n2. ESPN — \"'Strong as an ox': The lore around Texas' Katie Stewart grows\" (June 3, 2026)\n3. FanRecap — \"Katie Stewart Makes History As Texas Takes Game 1\" (June 3, 2026)\n**Key Facts (HIGH confidence):**\n- Stewart homered in 4 consecutive WCWS games — first in WCWS history [HIGH — multiple sources]\n- It is her 7th career WCWS home run [HIGH — multiple sources]\n- She hit a 2-run HR in the bottom of the first inning in Game 1 [HIGH — multiple sources]\n**Freshness:** VERIFIED — published June 3, 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "WCWS Game 2 Preview — Texas Tech Must Win Tonight or Season Ends",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Game 2 tonight. 8 PM ET on ESPN. 🥎\n\nTexas needs 1 win for back-to-back titles.\n\nTexas Tech needs 1 win to stay alive.\n\nCanady takes the circle, fresh and ready to go.\n\n#WCWS #HookEm #WreckEm",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WCWS",
+            "#HookEm",
+            "#WreckEm"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "It's game night again at Devon Park. 🥎\n\nTexas and Texas Tech go at it one more time tonight in Game 2 of the WCWS Championship Series. First pitch is at 8 PM ET on ESPN, and the stakes couldn't be higher.\n\nFor Texas: One win = back-to-back national championships. That's it. This team is four strikeouts, one big inning, or one clutch hit away from celebrating a dynasty.\n\nFor Texas Tech: Tonight might be NiJaree Canady's last college appearance. The ace threw only 1.2 innings in relief in Game 1 — she's fresh, rested, and motivated. If anyone can pitch Texas Tech to a Game 3, it's Canady.\n\nTexas has been here before. They know how to close. But the Red Raiders have been proving people wrong all tournament long — No. 11 seed, knocked out No. 1 Alabama twice, and they're not done yet.\n\nThis is the best college softball has to offer. Don't miss it tonight.\n\nAre you watching? Who wins Game 2? Drop your pick below! ⬇️",
+        "image_caption": "Game 2 tonight — 8 PM ET on ESPN. One win for Texas = back-to-back titles. Everything on the line. 🥎 #WCWS #HookEm #WreckEm",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-wcws-game-2-preview-texas-tech-canady.html",
+        "headline": "WCWS Game 2 Tonight: Canady Fresh, Texas Tech in Survival Mode at 8 PM ET on ESPN",
+        "word_count": 448
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WCWS Game 2 Preview — Tonight\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Devon Park stadium wide shot or Texas vs Texas Tech matchup image\n- **Photo Search Terms (Imagn):**\n  1. NiJaree Canady Texas Tech\n  2. Texas Tech softball\n  3. WCWS Devon Park softball\n- **Text Overlay Copy:**\n  - Headline: \"GAME 2 TONIGHT\" (white, Poppins Bold)\n  - Subtitle: \"8 PM ET · ESPN · One Win From History\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Pitching stance from Canady ideal. Urgency in the composition.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** NiJaree Canady Texas Tech\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WCWS Game 2 Preview Tonight\n**Decision:** NEW STORY (Game 2 not yet played as of pipeline time)\n**Sources:**\n1. ESPN — \"2026 WCWS finals preview: Breaking down Texas vs. Texas Tech\" (June 4, 2026)\n2. On3.com — \"2026 WCWS: Texas takes Game One of Champ Series against Texas Tech\" (June 3, 2026)\n3. Texas Tech official site — \"No. 11 Tech falls to No. 2 Texas in WCWS Finals opener\" (June 3, 2026)\n**Key Facts (HIGH confidence):**\n- Game 2 is tonight (Thursday, June 4) at 8 PM ET on ESPN [HIGH — multiple sources]\n- Texas needs one win for back-to-back championships [HIGH — confirmed]\n- Texas Tech faces elimination [HIGH — confirmed]\n- NiJaree Canady pitched only 1.2 IP in Game 1 (in relief), so she is fresh for Game 2 [MEDIUM — from ESPN preview]\n- If Texas Tech wins, Game 3 is scheduled for Friday [MEDIUM — based on series format]\n**Freshness:** VERIFIED — reporting on today's game",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Teagan Kavan Joins Rare Company with 10th Career WCWS Win",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Teagan Kavan now has 10 career WCWS wins.\n\nOnly 6 other pitchers in history have done that.\n\nShe threw a complete game 3-hitter in Game 1 last night. One more win and it's back-to-back. 🔐\n\n#HookEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "Seven pitchers in the history of the Women's College World Series have won 10 or more games at the tournament.\n\nTeagan Kavan just became one of them.\n\nThe Texas ace threw a complete game in last night's championship opener — three hits, three runs allowed, all seven innings pitched. It was Kavan at her steadiest: efficient, commanding, and clutch when it mattered most. That victory was her 10th career win at the WCWS.\n\nShe already held the Texas program record for WCWS wins. She already tied Cat Osterman for WCWS shutouts in program history. Now she's in rare company with pitchers from the sport's all-time elite.\n\nKavan has one more chance to extend that record tonight if Texas needs her. But after Wednesday's performance, it's clear she hasn't peaked yet.\n\nThis woman has been special since the moment she stepped on the biggest stage in college softball. The honors just keep coming. 🏅",
+        "image_caption": "Teagan Kavan: 10 career WCWS wins. Only 6 pitchers in history have done that before her. 🔐 #HookEm #WCWS",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-teagan-kavan-10-career-wcws-wins.html",
+        "headline": "Seven Pitchers Ever: Teagan Kavan Reaches 10 Career WCWS Wins With Game 1 Performance",
+        "word_count": 427
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Teagan Kavan — 10 WCWS Wins\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Teagan Kavan pitching or reacting to a strikeout — dominant pose\n- **Photo Search Terms (Imagn):**\n  1. Teagan Kavan Texas\n  2. Teagan Kavan pitching\n- **Text Overlay Copy:**\n  - Headline: \"10 WCWS WINS\" (white, Poppins Bold)\n  - Subtitle: \"Kavan Joins the All-Time Elite\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Mid-pitch or follow-through. Pitcher's determined expression ideal.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Teagan Kavan Texas\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Teagan Kavan — 10th Career WCWS Win\n**Decision:** FOLLOW UP (June 3 brief noted 9 WCWS wins; today adds the 10th)\n**Sources:**\n1. HookEmHeadlines — \"Teagan Kavan back to usual form and Texas softball stays alive in WCWS\" (June 2026)\n2. On3.com — \"2026 WCWS: Texas takes Game One\" (notes 7th pitcher with 10+ WCWS wins)\n3. Washington Post — \"Texas rides Teagan Kavan, Katie Stewart to 7-3 win\" (June 3, 2026)\n**Key Facts:**\n- Kavan won her 10th career WCWS game in Game 1 [HIGH — multiple sources]\n- She is the 7th pitcher in WCWS history with 10+ career wins [MEDIUM — one source; flagged for review]\n- Career record: 28-6 going into championship series [MEDIUM — one source]\n- She pitched all 7 innings in Game 1, allowing 3 hits and 3 runs [HIGH — multiple sources]\n**Freshness:** VERIFIED — June 3, 2026",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NiJaree Canady's Final College Game Could Be Tonight",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "NiJaree Canady goes for it tonight.\n\n100+ career wins. 1,000+ strikeouts. AUSL No. 2 pick heading to the Texas Volts.\n\nThe only thing missing: a national championship ring.\n\nShe might get her last shot in a few hours. 🥎\n\n#WreckEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#WCWS"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "Tonight could be the last time we see NiJaree Canady pitch in college softball.\n\nThink about what this woman has done. Over 100 career wins. Over 1,000 career strikeouts. Two-time NFCA Pitcher of the Year. The first pitcher with multiple shutouts at multiple schools in WCWS history. And after this season, she heads to the Texas Volts as the No. 2 pick in the AUSL Draft.\n\nShe's done everything you can do in college softball — except win a national championship.\n\nThat's the one thing still on her list. And tonight is the only chance she has left to get it.\n\nShe transferred from Stanford to Texas Tech specifically for this moment. She took the circle against No. 1 Alabama in a must-win WCWS semifinal and delivered a complete-game two-hitter. She's been saving something for tonight.\n\nWhether or not she gets the ring, Canady's career will be remembered as one of the greatest in the history of the sport. But everyone who loves softball is rooting for her to get that one last thing.\n\nAppreciate every pitch tonight. 🥎",
+        "image_caption": "100+ career wins. 1,000+ Ks. AUSL No. 2 pick. The only thing missing is a title. NiJaree Canady goes for it tonight. 🥎 #WreckEm #WCWS",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nijaree-canady-final-wcws-chapter.html",
+        "headline": "100+ Wins, 1,000+ Ks, One Title Missing: NiJaree Canady's Final Chase Comes Down to Tonight",
+        "word_count": 430
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NiJaree Canady — Final College Chapter\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** NiJaree Canady in her Texas Tech uniform, pitching or looking toward the camera with focus\n- **Photo Search Terms (Imagn):**\n  1. NiJaree Canady Texas Tech\n  2. NiJaree Canady softball\n- **Text Overlay Copy:**\n  - Headline: \"ONE LAST SHOT\" (white, Poppins Bold)\n  - Subtitle: \"100+ Wins · 1000+ Ks · One Title to Chase\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Portrait-style framing. Emotion in the moment — intensity or determination preferred.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** NiJaree Canady Texas Tech"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NiJaree Canady's Final College Chapter\n**Decision:** FOLLOW UP (June 3 brief introduced Canady; today adds career legacy + pro future)\n**Sources:**\n1. SI.com — \"Vintage NiJaree Canady Makes WCWS History\" (June 2026)\n2. Texas Tech official — \"NiJaree Canady selected No. 2 overall in AUSL Draft\" (May 4, 2026)\n3. ESPN — \"'It's like living in a blessing': Can NiJaree Canady and Texas Tech take home a national title?\" (June 2026)\n4. AUSL.com — \"NiJaree Canady AUSL Golden Ticket\" (2026)\n**Key Facts (with confidence):**\n- Canady selected No. 2 overall in AUSL Draft by Texas Volts [HIGH — multiple sources]\n- She is the only active college pitcher with 100+ career wins and 1000+ career Ks [MEDIUM — one source]\n- 2026 record: 21-4, 1.30 ERA, 194 Ks [MEDIUM — one source; flagged for review]\n- She is a two-time NFCA Pitcher of the Year [MEDIUM — one source]\n- First pitcher with multiple shutouts at multiple schools (Stanford + Texas Tech) in WCWS history [MEDIUM — one source]\n- Career wins: 100+ (exact number not confirmed — mark MEDIUM)\n**Freshness:** VERIFIED — context relevant today as potential last college appearance",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

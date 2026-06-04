@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-04
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (34 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py — pushed to GitHub.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). 0 char violations.
+- **Key Stories**: Ohtani 0.74 ERA third-best in MLB history since 1913/deGrom 0.56 and Marichal 0.59 only better/NL OBP leader at .420/on pace for both batting and ERA titles simultaneously (Tier 1), Judge first to 20 HRs in 2026/on pace for 5th career 50-HR season/no player in MLB history has done it 5 times/record tied at 4 (Ruth, Griffey, Sosa, Judge) (Tier 1), Schwarber 22 HRs vs Judge 20/60-HR club historical context/last two-player 60-HR pace was Bonds-Sosa 2001 (Tier 2), Skubal 64-pitch sim game/rehab start this weekend/target June 17 at Cleveland (Tier 2), Braves first MLB team to 40 wins (40-20)/9.5-game NL East lead/Acuña 4 HRs in 3 games (3rd player since 1900 with 4+ HRs and 4+ steals in 3-game span) (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-03
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (12 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (33 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py — pushed to GitHub.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

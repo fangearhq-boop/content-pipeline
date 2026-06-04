@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-04
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (51 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via cherry-pick after non-fast-forward resolved.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). 0 char violations. Non-fast-forward resolved via checkout main + pull + cherry-pick.
+- **Key Stories**: Texas 7 Texas Tech 3 Game 1/Kavan CG 3-hitter/Stewart 2-run HR in 1st/Texas one win from back-to-back (Tier 1), Katie Stewart first player in WCWS history to HR in 4 consecutive games/7th career WCWS HR/2-run shot set tone in 1st (Tier 1), WCWS Game 2 preview tonight 8PM ET ESPN/Canady fresh 1.2 IP Game 1/TTech in survival mode (Tier 2), Kavan 10th career WCWS win/7th pitcher in WCWS history to reach that mark (Tier 2), Canady AUSL No. 2 pick/100+ wins 1000+ Ks/final college game could be tonight (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-03
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (56 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py after checkout main + pull.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/

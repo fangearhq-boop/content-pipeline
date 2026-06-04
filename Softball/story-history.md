@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 4, 2026
+
+### Story 1: Texas 7, Texas Tech 3 — Game 1 WCWS Championship Result
+- **Date:** 2026-06-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 3 was preview; today is result)
+- **Angle:** Texas won Game 1 of the championship series 7-3. Teagan Kavan threw a CG 3-hitter. Katie Stewart hit a 2-run HR in the first inning. Mia Williams HR for TTech. Texas one win from back-to-back titles.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 2 result tonight
+  - Championship outcome (if Texas wins in 2)
+  - Game 3 if series extends
+
+### Story 2: Katie Stewart — First Player to HR in Four Consecutive WCWS Games
+- **Date:** 2026-06-04
+- **Tier:** 1
+- **Classification:** NEW STORY (record set in Game 1 on June 3)
+- **Angle:** Stewart became first player in WCWS history to homer in 4 straight games. 7th career WCWS HR. 2-run shot in the first inning of Game 1.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Season totals/final stats if season ends tonight
+  - Legacy comparison piece
+
+### Story 3: WCWS Game 2 Preview — Texas Tech Survival Mode
+- **Date:** 2026-06-04
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Game 2 tonight at 8 PM ET ESPN. Canady fresh (1.2 IP in Game 1), Texas needs 1 win for back-to-back. If TTech wins, Game 3 Friday.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Game 2 result
+  - Game 3 if needed
+
+### Story 4: Teagan Kavan — 10th Career WCWS Win
+- **Date:** 2026-06-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (from June 3 Kavan coverage; added 10th win in Game 1)
+- **Angle:** Kavan's CG in Game 1 was her 10th career WCWS win, making her 7th pitcher in history to reach that mark.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Win No. 11 if she pitches Game 2 or 3
+
+### Story 5: NiJaree Canady — Final College Chapter
+- **Date:** 2026-06-04
+- **Tier:** 3
+- **Classification:** FOLLOW UP (from June 3 Canady coverage; added career legacy + pro future)
+- **Angle:** AUSL No. 2 pick, 100+ wins, 1000+ Ks, two-time NFCA POY. Career may end tonight. Transferred to TTech for one last shot at a title.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Championship outcome reaction
+  - AUSL career outlook
+
+---
+
 ## June 3, 2026
 
 ### Story 1: WCWS Championship Game 1 Preview — Texas vs. Texas Tech (Tonight, 8 PM ET)

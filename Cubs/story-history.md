@@ -1729,3 +1729,70 @@ Each day's stories are appended at the top (newest first).
   - Game 1 result for tomorrow's recap
 
 ---
+
+## 2026-06-04
+
+### STORY 1: Athletics Win Game 2 — Cubs Fall to 32-30, Trail Series 0-2
+- **Angle:** NEW STORY (game recap — morning after June 3 loss; Rea vs Springs, tied 4-4 through 8 innings, Athletics rallied late)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 3 result (Imanaga vs TBD)
+  - Series sweep context if Cubs win to take Game 3
+
+### STORY 2: Bregman's May Hot Stretch — .303 BA, .361 OBP, 20-Game On-Base Streak
+- **Angle:** FOLLOW UP (Bregman featured June 2 as streak/angle; today's angle = May full-stretch retrospective + momentum framing for June)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Bregman June numbers as sample builds
+  - Power numbers watch as extra-base hits develop
+
+### STORY 3: Imanaga Must Deliver Tonight — 7:05 PM CT, Avoid the Sweep
+- **Angle:** NEW STORY (Imanaga start preview; first standalone Imanaga feature this A's series)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold take game preview)
+- **Follow-Up Opportunities:**
+  - Tonight's game result
+  - Imanaga stat line and ERA update post-start
+
+### STORY 4: June Schedule Still Favorable — Giants, Rockies, Jays, Mets Ahead
+- **Angle:** FOLLOW UP (June schedule first covered June 1; fresh angle = even after 0-2 A's series, the window isn't closed + Cabrera/Boyd imminent)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Giants series win/loss results (June 5-7)
+  - Cabrera Saturday start result
+
+### STORY 5: Rotation Reinforcements — Cabrera Saturday, Boyd Right Behind
+- **Angle:** FOLLOW UP (first covered June 3; today = confirmed Saturday start for Cabrera, Boyd 2nd rehab start same day, activation imminent)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, informative roster update)
+- **Follow-Up Opportunities:**
+  - Cabrera Saturday (June 7) start result and line
+  - Boyd activation date and first start back
+
+### STORY 6: Matt Shaw Begins Iowa Rehab Assignment
+- **Angle:** NEW STORY (Shaw began rehab June 3 at Triple-A Iowa; first coverage of this development)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Shaw's return to Cubs' active roster (expected within days)
+  - Shaw's performance once back in the lineup
+
+### STORY 7: NL Central Gap — Brewers Lead, Cubs 6+ Games Back
+- **Angle:** FOLLOW UP (standings tracked June 3 with Brewers 36-22 / Cubs 32-29; now updated with Cubs falling to 32-30)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Weekly NL Central check-in as June schedule unfolds
+  - Brewers record update if Cubs start winning
+
+### STORY 8: First Pitch Hype — Imanaga, 7:05 PM CT, Wrigley
+- **Angle:** NEW STORY (pre-game energy slot timed to 7:05 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, game-time fan energy)
+- **Follow-Up Opportunities:**
+  - Tonight's result (sweep or series win?)
+
+---
