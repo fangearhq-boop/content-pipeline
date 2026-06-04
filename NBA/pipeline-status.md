@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-03
+- **Date**: 2026-06-04
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-04
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-06-04.xlsx (6 posts) + hh-postplanner-tobi-2026-06-04.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-04/review-dashboard.html (21 items)
+- **Notes:** Game 1 recap: Knicks 105-95 Spurs; Brunson 30/KAT 18-12/Hart 3-15-6-4stl; Knicks down 14 in 3rd, 12-0 close; 12-game win streak (2nd longest ever); Wemby 6-21/gassed/limp scare (MRI clear); Game 2 Fri June 5 8:30 PM ET ABC; Spurs -218; Giannis: Bucks open for business, Heat + Blazers pursuing
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-03
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)

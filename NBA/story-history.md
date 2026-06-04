@@ -2453,3 +2453,49 @@
 - **Key facts:** 11-game win streak; +271 pt differential best ever entering Finals; +19.4 net rating; 40.0% from three; ECF sweep vs Boston; Brunson ECF MVP 27.8 PPG/6.7 APG
 - **Status:** NEW STORY
 - **Follow-up ideas:** Post-Game 1 streak continuation or break
+
+---
+## 2026-06-04
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-04 | T1 | Knicks 105-95 Spurs Game 1 recap — Brunson 30 pts (13 in 4th), KAT 18/12, comeback from 14 down, 12-game win streak (2nd longest in NBA history); closed on 12-0 run; Brunson corner 3 with 2 min left | X, FB, Article | FOLLOW UP |
+| 2026-06-04 | T1 | Josh Hart historic Game 1 — 3 pts/15 reb/6 ast/4 stl in 27 min; only 2nd player in Finals history with 15+ reb/5+ ast/4+ stl (Larry Bird 1986 is other); won Hart minutes +22; corralled Wemby turnover to drain clock | X, FB, Article | NEW STORY |
+| 2026-06-04 | T2 | Wembanyama 4th quarter collapse — 6-21 FG (2-9 3P), gassed in final 6 min, travel + dribble off own foot; limp scare in 3rd quarter (waved off medical help); MRI cleared him, no ligament damage | X, FB, Article | FOLLOW UP |
+| 2026-06-04 | T2 | Game 2 preview — Friday June 5 8:30 PM ET ABC Frost Bank Center; Spurs -218/Knicks +180; need Vassell + Champagnie from 3; Wemby must improve shooting + fitness; Brunson/Hart counter-strategies | X, FB, Article | NEW STORY |
+| 2026-06-04 | T2 | Giannis trade buzz — Shams: Bucks "open for business"; Heat + Blazers in pursuit; Miami can offer Herro/Ware/picks; Portland unlikely (Eastern preference); Cavs vehemently against trading Mobley; decision expected June 23 | X, FB, Article | NEW STORY |
+
+### STORY 1: Knicks 105-95 Game 1 Recap
+- **Tier:** 1
+- **Category:** NBA Finals / Game Recap
+- **Key facts:** Final: Knicks 105 Spurs 95; Brunson 30 pts (13 in 4th); KAT 18 pts/12 reb; Hart 3/15/6/4stl; Wemby 26/12/3blk 6-21 FG; Knicks trailed by 14 in 3rd; closed on 12-0 run; Brunson corner 3 with 2 min left; 12-game win streak (2nd longest single-season in NBA history, trailing 2017 Warriors 15-game streak); Knicks +272 point differential over streak
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 2 result; Brunson's Finals scoring average; Knicks win streak if reaches 13
+
+### STORY 2: Josh Hart Historic Night
+- **Tier:** 1
+- **Category:** Player Feature / Knicks
+- **Key facts:** 3 pts/15 reb/6 ast/4 stl/1 blk in 27 minutes; 1-of-5 FG; 2nd player in Finals history with 15+ reb/5+ ast/4+ stl (Larry Bird 1986 Celtic championship run); Knicks +22 in Hart minutes; corralled Wemby turnover end of game
+- **Status:** NEW STORY
+- **Follow-up ideas:** Hart's overall Finals performance if Knicks advance; Thibodeau on Hart's role
+
+### STORY 3: Wembanyama 4th Quarter Collapse
+- **Tier:** 2
+- **Category:** Player Analysis / Spurs
+- **Key facts:** 6-21 FG (28.6%), 2-9 3P, 26 pts/12 reb/3 blk; final 6 min: 1-5 FG, travel, ball off own foot; limped in 3rd quarter, waved off medical help; MRI: no ligament damage; covered enormous defensive space (KAT 48.9%/OG 48.3% from 3 in playoffs)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Wemby Game 2 shooting/fitness; Spurs defensive load management
+
+### STORY 4: Game 2 Preview
+- **Tier:** 2
+- **Category:** NBA Finals / Game Preview
+- **Key facts:** Game 2: June 5 8:30 PM ET ABC Frost Bank Center; Spurs -218/Knicks +180; total 214.5; Spurs need Vassell (39.7% 3P WCF) + Champagnie contributions; likely guard Hart with Wemby to dare him to shoot; Mitchell Robinson (broken pinkie) as physical Wemby counter
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 2 result recap
+
+### STORY 5: Giannis Trade Buzz
+- **Tier:** 2
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Shams: Bucks "open for business on trade calls" for Giannis; Miami and Portland "already in pursuit"; Heat package: Herro + Ware + picks through 2032; Portland unlikely (Eastern preference); Cavs internal split over Mobley; market described as "tepid" so far; timeline: June 23 draft
+- **Status:** NEW STORY
+- **Follow-up ideas:** Giannis trade finalized; Heat or other landing spot confirmed

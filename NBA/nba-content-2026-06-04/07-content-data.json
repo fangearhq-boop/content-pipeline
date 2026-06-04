@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-04",
+  "compiled_at": "2026-06-04T11:18:33.473643+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks 105-95 Spurs — Brunson's Clutch 30 Lifts New York in Game 1",
+      "tier": 1,
+      "status": "",
+      "angle": "Brunson scored 13 of his 30 points in the fourth quarter as the Knicks erased a 14-point deficit for their 12th straight playoff win",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "DOWN 14. DIDN'T MATTER.\n\nBrunson: 30 PTS (13 in the 4th quarter)\nKAT: 18 PTS / 12 REB\nHart: 15 REB / 6 AST / 4 STL\n\nKnicks 105, Spurs 95.\n\n12 straight. Series lead in San Antonio.\n\nGame 2 Friday. 8:30 PM ET. ABC. #HoopHeroes #NBAFinals #KnicksTape",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAFinals",
+            "#KnicksTape"
+          ],
+          "char_count": 247
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Knicks trailed by 14 points in the 3rd quarter of Game 1.\n\nThen Brunson scored 13 of his 30 in the fourth.\n\nThen they closed on a 12-0 run.\n\nFinal: Knicks 105, Spurs 95.\n\n12-game win streak. 1-0 in the Finals. #HoopHeroes #NBAFinals",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAFinals"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-knicks-105-95-spurs-game-1-recap-brunson.html",
+        "headline": "Down 14, Then Dominant: Brunson's Clutch 30 Gives Knicks Game 1 on the Road",
+        "word_count": 747
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks 105-95 Game 1 Recap\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Jalen Brunson New York Knicks\"\n- **Usage:** Brunson in action during the fourth quarter rally\n- **Caption overlay:** \"DOWN 14. WON BY 10. / BRUNSON 30 PTS / KNICKS 1-0\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Karl-Anthony Towns New York Knicks\"\n- **Usage:** KAT celebrating or in action — double-double night\n- **Caption overlay:** \"KAT: 18 PTS / 12 REB / GAME 1 ✓\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks 105-95 Spurs — Game 1 Recap\n- **Sources:** ESPN game recap, NBA.com recap, CBS Sports Game 1 live updates, Yahoo Sports, NBC Sports\n- **Key facts:**\n- Final score: Knicks 105, Spurs 95 (June 3, 2026, Frost Bank Center, San Antonio)\n- Jalen Brunson: 30 points, 13 of those in the 4th quarter [HIGH - multiple sources]\n- Karl-Anthony Towns: 18 points, 12 rebounds [HIGH - multiple sources]\n- Josh Hart: 3 points, 15 rebounds, 6 assists, 4 steals, 1 block in 27 minutes [HIGH - multiple sources]\n- Victor Wembanyama: 26 points, 12 rebounds, 3 blocks, 6-of-21 FG, 2-of-9 3P [HIGH - multiple sources]\n- Knicks trailed by 14 points in the 3rd quarter before mounting comeback [HIGH - multiple sources]\n- Knicks win extended playoff win streak to 12 games [HIGH - NBA.com]\n- 12-game streak: 2nd longest single-season in NBA history, tied with 1999 Spurs' streak [HIGH - NBA.com]\n- Longest: 2017 Warriors' 15-game streak [HIGH - NBA.com]\n- Brunson hit a corner three-pointer with 2 minutes left to give Knicks the lead for good [HIGH - CBS Sports]\n- Knicks closed game on a 12-0 run [HIGH - Yahoo Sports]\n- Series: Knicks lead 1-0; Game 2 Friday June 5, 8:30 PM ET, ABC, Frost Bank Center\n- **Story History:** FOLLOW UP (Game 1 preview was covered June 3 as Tier 1 lead story)\n- **Freshness:** Game happened June 3 — this is the day-after recap",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Josh Hart's Historic Finals Night — 15 Reb, 6 Ast, 4 Stl With 3 Points",
+      "tier": 1,
+      "status": "",
+      "angle": "Hart becomes only the 2nd player in NBA Finals history to post 15+ rebounds, 5+ assists, and 4+ steals in a single game — Larry Bird 1986 was the other",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Josh Hart in NBA Finals Game 1:\n\n3 PTS. 15 REB. 6 AST. 4 STL.\n\nOnly the 2nd player in Finals history with those numbers.\n\nThe other? Larry Bird. 1986.\n\nHart doesn't need to score to win games. #HoopHeroes #NBAFinals #KnicksTape",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAFinals",
+            "#KnicksTape"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-josh-hart-historic-finals-15-reb-6-ast-4-stl.html",
+        "headline": "Larry Bird in 1986. Josh Hart in 2026. That's the Company He Keeps.",
+        "word_count": 684
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Josh Hart Historic Night\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Josh Hart New York Knicks\"\n- **Usage:** Hart going for a rebound or defensive play\n- **Caption overlay:** \"15 REB. 6 AST. 4 STL. / ONLY LARRY BIRD DID THIS IN THE FINALS BEFORE.\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Josh Hart New York Knicks\"\n- **Usage:** Hart in huddle or on bench with teammates — the engine of the team\n- **Caption overlay:** \"THE MOST IMPORTANT KNICK / IN GAME 1\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Josh Hart's Historic Finals Night\n- **Sources:** CBS Sports, Washington Post, BVM Sports, ClutchPoints, Heavy.com, Fox Sports\n- **Key facts:**\n- Hart line: 3 points (1-of-5 FG), 15 rebounds, 6 assists, 4 steals, 1 block in 27 minutes [HIGH - multiple sources]\n- Hart is 2nd player in NBA Finals history with 15+ reb, 5+ ast, 4+ stl in one game [HIGH - multiple sources confirmed]\n- Larry Bird was the other (1986) [HIGH - multiple sources]\n- \"Won Hart minutes by 22 points\" [MEDIUM - CBS Sports single source]\n- Hart described as \"irreplaceable\" to Knicks system despite low scoring [HIGH - multiple sources]\n- Hart corralled Hart turnover and held ball at end to drain clock on fastbreak [HIGH - Yahoo Sports]\n- **Story History:** NEW STORY (Hart's regular-season role covered but not a specific Finals historic performance)\n- **Freshness:** Happened June 3, this is first-day coverage",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wembanyama's 4th Quarter Collapse — 6-of-21, Gassed, and a Limp Scare",
+      "tier": 2,
+      "status": "",
+      "angle": "Wemby shot 6-21 (2-9 from three), dribbled off his foot in final minute, and limped off court — MRI cleared him but Game 2 fitness a question",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Wembanyama in Game 1:\n\n6-of-21 from the floor.\n2-of-9 from three.\nA travel. A turnover off his own foot.\nA limp off the court in the 3rd.\n\nMRI cleared him. But the Knicks found something.\n\nGame 2 Friday. 8:30 PM ET. ABC. #HoopHeroes #NBAFinals #Spurs",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAFinals",
+            "#Spurs"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-03-wembanyama-game-1-struggles-collapse.html",
+        "headline": "Wemby's Nightmare Game 1: 6-of-21, Gassed in the Fourth, and a Limping Exit",
+        "word_count": 754
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama Struggles\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Victor Wembanyama San Antonio Spurs\"\n- **Usage:** Wemby on the court, somber or in discussion with coaches\n- **Caption overlay:** \"6-OF-21. GASSED. WHAT HAPPENED TO WEMBY?\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Victor Wembanyama San Antonio Spurs\"\n- **Usage:** Wemby being defended by Knicks players\n- **Caption overlay:** \"THE KNICKS FOUND THE BLUEPRINT. / GAME 2 FRIDAY.\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama's 4th Quarter Collapse\n- **Sources:** Yahoo Sports, CBS Sports, NBC Sports, SI.com, ClutchPoints\n- **Key facts:**\n- Wemby: 6-of-21 FG (28.6%), 2-of-9 from three in Game 1 [HIGH - multiple sources]\n- Final 6 minutes: 1-for-5, travel, dribbled ball off his foot [HIGH - Yahoo Sports, NBC Sports]\n- Knicks ended game on 12-0 run [HIGH - multiple sources]\n- Wemby limped toward bench in 3rd quarter after tangling with Josh Hart [HIGH - multiple sources]\n- MRI showed no ligament damage in hyperextended knee [HIGH - NBA.com]\n- Waved off medical help on bench; returned without limp with 1:22 remaining [HIGH - multiple sources]\n- Spurs asked Wemby to cover enormous defensive space all game — appeared to drain him [MEDIUM - Yahoo Sports analysis]\n- Played approximately 40 minutes in Game 1 [MEDIUM - inferred from game context]\n- **Story History:** FOLLOW UP (Wemby's defensive dilemma covered June 3 as Tier 2; this is the Game 1 performance analysis)\n- **Freshness:** Game happened June 3",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Game 2 Preview — Spurs Must Answer or Fall Into 0-2 Hole Friday",
+      "tier": 2,
+      "status": "",
+      "angle": "San Antonio must fix Wemby's shooting, avoid fourth-quarter fatigue, and counter Brunson's late-game dominance; Game 2 Friday 8:30 PM ET ABC at Frost Bank Center",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "GAME 2. FRIDAY. FROST BANK CENTER.\n\nThe Spurs are 0-2 all-time in this Finals when they fall behind 2-0.\n\nWemby needs a bounce-back. Vassell and Champagnie need to hit shots.\n\nBrunson needs to be stopped.\n\nGood luck. 8:30 PM ET. ABC. #HoopHeroes #NBAFinals #Spurs",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAFinals",
+            "#Spurs"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-game-2-preview-spurs-adjustments.html",
+        "headline": "Game 2 Friday: What the Spurs Must Fix Before Brunson and the Knicks Put This Away",
+        "word_count": 781
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Game 2 Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Devin Vassell San Antonio Spurs\"\n- **Usage:** Vassell shooting or celebrating — potential X-factor\n- **Caption overlay:** \"GAME 2. FRIDAY. 8:30 PM ET. / SPURS NEED ANSWERS.\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Knicks Spurs NBA Finals\"\n- **Usage:** Both team logos or arena shot\n- **Caption overlay:** \"CAN SPURS EVEN THE SERIES? / FROST BANK CENTER. FRIDAY.\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Game 2 Preview — Friday June 5\n- **Sources:** DraftKings Network, CBS Sports, Yahoo Sports\n- **Key facts:**\n- Game 2: Friday June 5, 8:30 PM ET, ABC, Frost Bank Center, San Antonio [HIGH - multiple sources]\n- Knicks are +180 underdogs; Spurs -218 [HIGH - DraftKings Network]\n- Game total: 214.5 [HIGH - DraftKings Network]\n- Key adjustment: Spurs likely to have Wemby guard Hart early to dare him to shoot [MEDIUM - CBS Sports analysis]\n- Devin Vassell shot nearly 40% from three vs OKC — could be X-factor [MEDIUM - CBS Sports]\n- Spurs need Champagnie and Vassell to hit threes to space floor for Wemby [MEDIUM - CBS Sports analysis]\n- Mitchell Robinson plays broken pinkie; is physical answer to Wemby at rim [HIGH - established from pre-series coverage]\n- **Story History:** NEW STORY (Game 2 specific preview)\n- **Freshness:** Scheduled for tomorrow (June 5)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Giannis Trade Buzz Heats Up — Heat and Blazers Already Circling",
+      "tier": 2,
+      "status": "",
+      "angle": "Bucks \"open for business\" on Giannis per Shams; Miami can offer Herro + Ware + picks; market expected to resolve around June 23 draft",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "SHAMS: The Bucks are \"open for business\" on Giannis.\n\nHeat are pursuing him. Trail Blazers are pursuing him.\n\nThe biggest offseason story is already starting — while the Finals are still playing.\n\nDecision expected around June 23. #HoopHeroes #NBA #Giannis",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#Giannis"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-giannis-trade-buzz-heat-blazers.html",
+        "headline": "Shams: Bucks Open for Business on Giannis — Heat and Blazers Lead the Chase",
+        "word_count": 676
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis Trade Buzz\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Giannis Antetokounmpo Milwaukee Bucks\"\n- **Usage:** Giannis in action — commanding presence\n- **Caption overlay:** \"WHERE DOES GIANNIS GO? / THE BUCKS ARE OPEN FOR BUSINESS.\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Giannis Antetokounmpo Milwaukee Bucks\"\n- **Usage:** Giannis thoughtful/sideline shot\n- **Caption overlay:** \"HEAT. BLAZERS. WHO LANDS GIANNIS? / DECISION: JUNE 23.\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Trade Buzz\n- **Sources:** Yahoo Sports, NBC Sports, ESPN, Pro Football Network, Wise Sports Heroics\n- **Key facts:**\n- Shams Charania reported Bucks \"open for business on trade calls and offers\" for Giannis [HIGH - multiple sources citing same report]\n- Miami Heat and Portland Trail Blazers described as teams \"already in pursuit\" [HIGH - multiple sources]\n- Miami can offer Tyler Herro, Kel'el Ware, and multiple first-round picks [MEDIUM - ESPN analysis]\n- Portland's chances described as \"unlikely\" given Giannis preference for Eastern Conference [HIGH - NBC Sports citing league sources]\n- Market expected to resolve around June 23 NBA Draft [MEDIUM - Yahoo Sports]\n- Cavaliers also speculated but Cleveland's brass \"vehemently\" against trading Evan Mobley [HIGH - Yahoo Sports]\n- Market described as \"tepid so far\" by insiders [MEDIUM - Yahoo Sports]\n- **Story History:** NEW STORY\n- **Freshness:** Ongoing offseason rumor — actively developing",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
