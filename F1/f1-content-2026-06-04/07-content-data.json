@@ -1,0 +1,259 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-04",
+  "compiled_at": "2026-06-04T11:27:33.799280+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Monaco FP1 Tomorrow — Track Guide and 5 Things to Watch This Weekend",
+      "tier": 1,
+      "status": "",
+      "angle": "FP1 kicks off at 7:30 AM ET Friday — here is what matters most heading into the tightest track on the calendar",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "MONACO RACE WEEK IS HERE. 🇲🇨\n\nFP1: Tomorrow 7:30 AM ET\nFP2: Tomorrow 11:00 AM ET\nQualifying: Sat 9:00 AM ET\nRace: Sun 9:00 AM ET (Apple TV+)\n\nAntonelli's streak. Hamilton's Ferrari moment. Verstappen's desperation.\n\nThe Circuit de Monaco awaits. #F1Fanrecap #MonacoGP #F1",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MonacoGP",
+            "#F1"
+          ],
+          "char_count": 271
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Ferrari is favored at Monaco.\nLeclerc grew up there.\nHamilton hasn't won since 2019.\n\nTomorrow's FP1 (7:30 AM ET) starts telling us everything we need to know.\n\nThe most iconic circuit in motorsport. Race week is here. #F1Fanrecap #MonacoGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MonacoGP"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-monaco-fp1-five-things-to-watch.html",
+        "headline": "Race Week Is Here: Monaco GP FP1 Tomorrow — 5 Things to Watch This Weekend",
+        "word_count": 792
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monaco Race Week Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Monaco Grand Prix Formula 1\"\n- **Usage:** Iconic Monaco street circuit view — harbour, barriers, or pitlane\n- **Caption overlay:** \"MONACO RACE WEEK 🇲🇨 / FP1 TOMORROW 7:30 AM ET / RACE SUNDAY 9 AM ET\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Kimi Antonelli Mercedes F1\"\n- **Usage:** Antonelli driving or helmet shot\n- **Caption overlay:** \"5 THINGS TO WATCH / MONACO GP 2026\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monaco FP1 Tomorrow\n- **Sources:** Formula1.com, Sky Sports F1, RacingNews365, GPFans, Senate Grand Prix, ESPN\n- **Key facts:**\n- FP1: Friday June 5, 7:30 AM ET (13:30 local Monaco time) [HIGH - multiple sources]\n- FP2: Friday June 5, 11:00 AM ET (17:00 local) [HIGH - multiple sources]\n- FP3: Saturday June 6, 6:30 AM ET (12:30 local) [HIGH - multiple sources]\n- Qualifying: Saturday June 6, 9:00 AM ET (15:00 local) [MEDIUM - confirmed from schedules]\n- Race: Sunday June 7, 9:00 AM ET (15:00 local) on Apple TV+ [HIGH - multiple sources]\n- 78 laps of 3.337 km Circuit de Monaco [HIGH - F1.com]\n- Weather: dry and hot, ~28°C, no rain forecast for qualifying or race [HIGH - F1.com weather]\n- Active aero ban (Straight Mode/Rev1) applies — no Monaco section meets 3-sec threshold [HIGH - confirmed from pre-race coverage]\n- 2026 cars slightly narrower than 2025 under new regulations [HIGH - multiple sources]\n- Ferrari favored: Charles Leclerc 2/1, Lewis Hamilton 4/1, Antonelli 4/1 [MEDIUM - Betfair odds, single source]\n- **Story History:** FOLLOW UP (Monaco GP preview covered June 3)\n- **Freshness:** Day before FP1 begins — most timely preview window",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton's Shot at First Ferrari Win — Monaco Could Be the Moment",
+      "tier": 1,
+      "status": "",
+      "angle": "Hamilton last won Monaco in 2019. Ferrari's SF-26 is favored on low-speed circuits. With the active aero ban, this may be his best shot at his dream debut win in red",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Hamilton. Ferrari. Monaco.\n\nHe's won it 3 times with Mercedes.\nHe hasn't won it since 2019.\nFerrari's SF-26 is built for low-speed circuits.\n\nThis weekend could be the one.\n\nQualifying Sat 9 AM ET. Race Sun 9 AM ET. #F1Fanrecap #MonacoGP #LewisHamilton",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MonacoGP",
+            "#LewisHamilton"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-hamilton-ferrari-monaco-first-win.html",
+        "headline": "Hamilton Hasn't Won Monaco Since 2019. Ferrari's Car Is Perfect for It. This Weekend Could Be Everything.",
+        "word_count": 730
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Ferrari Monaco\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Lewis Hamilton Ferrari\"\n- **Usage:** Hamilton in Ferrari red at cockpit or action shot\n- **Caption overlay:** \"HAMILTON. FERRARI. MONACO. / 3 PREVIOUS WINS. THIS COULD BE NO. 4.\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Lewis Hamilton Ferrari\"\n- **Usage:** Hamilton celebrating or celebrating on podium\n- **Caption overlay:** \"THE MOMENT HE'S BEEN WAITING FOR? / RACE SUNDAY 9 AM ET\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton's Shot at First Ferrari Win\n- **Sources:** Formula1.com, Sky Sports F1, ESPN, Motorsport.com\n- **Key facts:**\n- Hamilton last won Monaco in 2019 (Mercedes) [HIGH - established record]\n- Hamilton has 3 Monaco GP wins total (2008, 2016, 2019) [HIGH - well-established]\n- Hamilton joined Ferrari for 2026 season [HIGH - established news]\n- Hamilton's Canada result: P2 (10.768 seconds behind Antonelli) [HIGH - F1.com race result]\n- Hamilton quoted saying: \"power is not king there\" about Monaco [MEDIUM - attributed in pre-Monaco coverage]\n- Hamilton also described Canada as \"happiest day at Ferrari\" [MEDIUM - from June 3 research notes]\n- Ferrari SF-26 described as best low-speed car on the grid [MEDIUM - analyst consensus]\n- Active aero ban removes Mercedes' advantage at high-speed tracks — Ferrari better positioned [MEDIUM - analyst coverage]\n- Hamilton's current points standing: 72 pts, 4th in championship [HIGH - official standings]\n- Leclerc said Canada was \"worst weekend of my career\" — Monaco is redemption [MEDIUM - pre-Monaco quotes]\n- **Story History:** FOLLOW UP (Ferrari favored covered June 3 as Tier 1)\n- **Freshness:** Day before FP1 — Hamilton's specific Monaco win quest angle is new",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "How the Narrower 2026 Cars Could Transform Monaco Racing",
+      "tier": 2,
+      "status": "",
+      "angle": "Drivers from Antonelli to Leclerc say the slightly narrower 2026 cars will \"flourish\" at Monaco — the tightest street circuit in F1",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Antonelli, Leclerc, and others all said the same thing this week:\n\n\"The 2026 cars will flourish at Monaco.\"\n\nNarrower cars. No battery worries. Active aero fully deployable.\n\nCould be the best Monaco racing in years. FP1 tomorrow. #F1Fanrecap #MonacoGP #F1",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MonacoGP",
+            "#F1"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-2026-cars-flourish-monaco.html",
+        "headline": "Drivers Say 2026 Cars Will 'Flourish' at Monaco — Here's Why This Weekend Could Be Special",
+        "word_count": 811
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 Cars at Monaco\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Charles Leclerc Ferrari Monaco\"\n- **Usage:** Leclerc driving through Monaco streets\n- **Caption overlay:** \"THE 2026 CARS WILL FLOURISH AT MONACO / FP1 TOMORROW\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Formula 1 Monaco Circuit\"\n- **Usage:** Car navigating tight Monaco section\n- **Caption overlay:** \"NARROWER CARS. TIGHTER GAPS. / BETTER RACING AT MONACO?\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 Cars at Monaco\n- **Sources:** Sky Sports F1, Formula1.com, Planet F1, GPFans\n- **Key facts:**\n- Antonelli, Leclerc among drivers predicting 2026 cars \"will flourish\" at Monaco [HIGH - Sky Sports F1 citing driver quotes]\n- 2026 regulations changed car width — slightly narrower than 2025 cars [HIGH - multiple sources]\n- Monaco's combination of slow corners and few straights means battery recharging not an issue [HIGH - analyst coverage]\n- Active aero can be deployed fully in Monaco unlike faster circuits [HIGH - from pre-race coverage]\n- 2026 regulations debate ongoing in opening five rounds — Monaco expected to suit cars well [MEDIUM - analyst analysis]\n- Leclerc specifically cited new cars: will be able \"to push without concern\" about battery regeneration [MEDIUM - attributed in Sky Sports]\n- Monaco hasn't had a proper racing battle in years due to how wide modern cars were [MEDIUM - analyst view]\n- **Story History:** NEW STORY\n- **Freshness:** Current heading into Monaco race weekend",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen's Exit Clause Countdown — Monaco Could Be Everything",
+      "tier": 2,
+      "status": "",
+      "angle": "Verstappen is 7th in the standings, 88 points behind Antonelli, with his Red Bull exit clause deadline just 53 days away — Monaco is a circuit where he has won twice",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Max Verstappen:\n\n• 7th in the championship\n• 88 points behind Antonelli\n• Exit clause deadline: July 27\n\nHe's won Monaco twice (2021, 2023).\n\nThis is the circuit where he changes momentum. He needs to. 53 days left.\n\n#F1Fanrecap #MonacoGP #MaxVerstappen #F1",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MonacoGP",
+            "#MaxVerstappen",
+            "#F1"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-verstappen-exit-clause-monaco.html",
+        "headline": "53 Days. Verstappen Is 7th. Monaco Is His Specialty. Everything Is on the Line.",
+        "word_count": 741
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Max Verstappen Red Bull Racing\"\n- **Usage:** Verstappen determined expression or driving shot\n- **Caption overlay:** \"53 DAYS. 7TH IN STANDINGS. / VERSTAPPEN NEEDS MONACO.\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Max Verstappen Red Bull Racing\"\n- **Usage:** Verstappen celebrating or helmet close-up\n- **Caption overlay:** \"WON MONACO: 2021. 2023. / CAN HE ADD 2026?\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause\n- **Sources:** Multiple F1 publications (from existing research), Racing News 365\n- **Key facts:**\n- Verstappen has Red Bull exit clause: can leave if outside top 2 standings by July 27 deadline [HIGH - multiple sources]\n- Current standings: Verstappen 7th with 43 points [HIGH - official standings]\n- Gap to championship leader Antonelli (131 pts): 88 points [HIGH - standings]\n- Canada result: P3 — first Red Bull Racing Powertrains podium of 2026 [HIGH - confirmed]\n- Verstappen won Monaco in 2021 and 2023 [HIGH - well-established]\n- Has 53 days from June 4 before July 27 exit clause deadline [HIGH - calculated from known deadline]\n- Red Bull RBPT engine described as \"source of apprehension\" in pre-season [MEDIUM - various reports]\n- Verstappen 4x World Champion [HIGH - established]\n- **Story History:** FOLLOW UP (Verstappen exit clause covered June 3)\n- **Freshness:** Countdown angle — 53 days to deadline",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Aston Martin's Special Monaco Livery Revealed — The Most Beautiful Car on the Grid This Weekend",
+      "tier": 2,
+      "status": "",
+      "angle": "Aston Martin unveiled a stunning special livery for Monaco — here's why the Principality brings out the best in F1's most glamorous teams",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Aston Martin just revealed their special Monaco livery.\n\nBritish Racing Green. The Principality. The most glamorous race on the calendar.\n\nSome teams were made for Monaco.\n\nFP1 tomorrow 7:30 AM ET. #F1Fanrecap #MonacoGP #AstonMartin #F1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#MonacoGP",
+            "#AstonMartin",
+            "#F1"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-aston-martin-monaco-livery.html",
+        "headline": "Aston Martin Unveils Special Monaco Livery — The Principality Brings Out the Best in F1",
+        "word_count": 741
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aston Martin Monaco Livery\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Aston Martin F1 Lance Stroll\"\n- **Usage:** Aston Martin car at Monaco or race action\n- **Caption overlay:** \"SPECIAL MONACO LIVERY REVEALED / BRITISH RACING GREEN MEETS MONACO 🇲🇨\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Lance Stroll Aston Martin F1\"\n- **Usage:** Stroll in car or cockpit\n- **Caption overlay:** \"ASTON MARTIN AT MONACO / FP1 FRIDAY 7:30 AM ET\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Aston Martin Monaco Livery\n- **Sources:** Formula1.com gallery, F1 publications\n- **Key facts:**\n- Aston Martin revealed special livery for 2026 Monaco Grand Prix [HIGH - Formula1.com gallery]\n- Monaco is traditionally the race where teams show special liveries and marketing partnerships [HIGH - established F1 tradition]\n- Aston Martin's British Racing Green is already one of the most distinctive on the grid [HIGH - well-known]\n- Special liveries at Monaco are a major fan engagement story [HIGH - established tradition]\n- Lance Stroll drives for Aston Martin in 2026 [HIGH - established]\n- Fernando Alonso's era (ended 2025) built Aston Martin's profile significantly [HIGH - established]\n- Aston Martin car details for Monaco livery: limited specifics available, announced via F1.com gallery [MEDIUM - sourced]\n- **Story History:** NEW STORY\n- **Freshness:** Livery revealed this week for the upcoming Monaco GP",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

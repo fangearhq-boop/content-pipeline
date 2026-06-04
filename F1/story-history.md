@@ -2192,3 +2192,49 @@
 - **Key facts:** Led Canada Lap 30 DNF power unit; gap 18→43 pts; Russell Canada pole by 0.068s; never won Monaco; W17 disadvantaged by aero ban; said "championship is currently Antonelli's to lose"
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Monaco qualifying; race result; championship gap after Monaco
+
+---
+## 2026-06-04
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-04 | T1 | Monaco race week — FP1 June 5 7:30 AM ET / FP2 11 AM ET / Qual June 6 9 AM ET / Race June 7 9 AM ET Apple TV+; 5 things to watch; Ferrari favored; 28°C dry; active aero ban; 2026 cars narrower | X, FB, Article | FOLLOW UP |
+| 2026-06-04 | T1 | Hamilton Ferrari Monaco first win — 3 previous Monaco wins all with Mercedes, last 2019; SF-26 best low-speed car; active aero ban removes Mercedes edge; Canada P2 "happiest day at Ferrari"; Hamilton: "power is not king there" | X, FB, Article | FOLLOW UP |
+| 2026-06-04 | T2 | 2026 cars at Monaco — drivers (Antonelli, Leclerc) say cars will "flourish"; slightly narrower; no battery worries on slow circuit; active aero deployable everywhere; could produce best Monaco racing in years | X, FB, Article | NEW STORY |
+| 2026-06-04 | T2 | Verstappen exit clause countdown — 7th/43 pts/88 pts behind Antonelli; clause deadline July 27 (53 days); Canada P3 first RBPT podium; won Monaco 2021+2023; Monaco is his best circuit | X, FB, Article | FOLLOW UP |
+| 2026-06-04 | T2 | Aston Martin Monaco special livery revealed — British Racing Green + Monaco-specific design; Lance Stroll; AMR26 may suit Monaco low-speed demands | X, FB, Article | NEW STORY |
+
+### STORY 1: Monaco Race Week Preview
+- **Tier:** 1
+- **Category:** Race Weekend Preview
+- **Key facts:** FP1 June 5 7:30 AM ET; FP2 11 AM ET; FP3 Sat 6:30 AM ET; Qual Sat 9 AM ET; Race June 7 9 AM ET Apple TV+; 78 laps 3.337 km; weather dry/hot 28°C; active aero ban throughout; Ferrari favored (Leclerc 2/1, Hamilton 4/1, Antonelli 4/1)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FP1/FP2 results; qualifying; race result
+
+### STORY 2: Hamilton Ferrari Monaco
+- **Tier:** 1
+- **Category:** Driver Feature / Ferrari
+- **Key facts:** 3 Monaco wins (2008/2016/2019) all Mercedes; none since 2019; 72 pts 4th championship; Ferrari SF-26 best low-speed car; active aero ban neutralizes Mercedes straight-line; Canada P2 first; "power is not king there"; Leclerc Canada "worst weekend"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monaco qualifying position; race result; potential first Ferrari win
+
+### STORY 3: 2026 Cars at Monaco
+- **Tier:** 2
+- **Category:** Technical Feature
+- **Key facts:** Slightly narrower 2026 cars; battery management not an issue at slow circuit; active aero fully deployable all lap; Antonelli + Leclerc both said cars will "flourish"; Leclerc: "push without concern"; Monaco expected to produce better racing than recent years
+- **Status:** NEW STORY
+- **Follow-up ideas:** FP1 lap times vs 2025; qualifying gaps
+
+### STORY 4: Verstappen Exit Clause
+- **Tier:** 2
+- **Category:** Driver Feature / Championship
+- **Key facts:** 7th/43 pts; Antonelli 131 pts (+88); exit clause July 27 (53 days); Canada P3 first RBPT 2026 podium; won Monaco 2021/2023; Red Bull RBPT engine struggled in opening rounds
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monaco qualifying; race result; standings after Monaco
+
+### STORY 5: Aston Martin Monaco Livery
+- **Tier:** 2
+- **Category:** Team Feature
+- **Key facts:** Aston Martin revealed Monaco special livery; British Racing Green base with Monaco-specific elements; Lance Stroll driver; AMR26 setup philosophy may suit Monaco demands
+- **Status:** NEW STORY
+- **Follow-up ideas:** Stroll Monaco qualifying; visual coverage during race

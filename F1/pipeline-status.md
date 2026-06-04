@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-03
+- **Date**: 2026-06-04
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-04
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-04.xlsx (6 posts) + f1fr-postplanner-tobi-2026-06-04.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-04/review-dashboard.html (21 items)
+- **Notes:** Monaco race week — FP1 June 5 7:30 AM ET / Race June 7 9 AM ET Apple TV+; Hamilton Ferrari Monaco (3 wins/last 2019/SF-26 favored); Antonelli 131 pts/+43/4 wins history; Verstappen exit clause 53 days/July 27; 2026 cars narrower/"flourish" at Monaco; Aston Martin special livery; active aero ban applies all weekend
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-03
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
