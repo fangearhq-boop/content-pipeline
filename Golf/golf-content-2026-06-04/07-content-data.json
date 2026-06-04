@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-04",
+  "compiled_at": "2026-06-04T11:35:49.512536+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Memorial Tournament Opens — Scheffler's Three-Peat Quest Begins at Muirfield Village",
+      "tier": 1,
+      "status": "",
+      "angle": "Scheffler tees off as +310 favorite seeking a third straight Memorial title — which no one has done since Steve Stricker in 2011; Rory McIlroy, Ludvig Aberg also in the field",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "THE MEMORIAL IS LIVE. 🏆\n\nScheffler: +310 (three-peat bid — last: Stricker 2011)\nMcIlroy: Best T4 in 13 tries\nAberg: +1500 (6 top-10s in last 9 starts)\nHovland: WD\n\nRound 1 underway at Muirfield Village.\n\nCan Scheffler do it? #GolfFanrecap #MemorialTournament #PGATour",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#MemorialTournament",
+            "#PGATour"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Round 1 at Muirfield Village is live.\n\nScheffler has won here two years in a row. He's never won a PGA Tour event three times straight.\n\nNobody has since Stricker in 2011.\n\nFollow the leaderboard. #GolfFanrecap #MemorialTournament",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#MemorialTournament"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-memorial-tournament-scheffler-three-peat.html",
+        "headline": "Scheffler's Three-Peat Quest Begins Today — Round 1 at the Memorial Tees Off This Morning",
+        "word_count": 680
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Memorial Tournament Opens\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Scottie Scheffler PGA Tour\"\n- **Usage:** Scheffler celebrating or at Muirfield Village\n- **Caption overlay:** \"THREE-PEAT QUEST BEGINS / SCHEFFLER +310 / MUIRFIELD VILLAGE TODAY\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Rory McIlroy PGA Tour\"\n- **Usage:** McIlroy at Muirfield Village or tournament action\n- **Caption overlay:** \"MCILROY'S MEMORIAL CURSE / BEST FINISH: T4 IN 13 TRIES\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Memorial Tournament Opens\n- **Sources:** PGA Tour, CBS Sports, Yahoo Sports, Golf Digest, Action Network\n- **Key facts:**\n- Memorial Tournament presented by Workday, June 4-7, 2026, Muirfield Village Golf Club, Dublin, Ohio [HIGH]\n- Scottie Scheffler is two-time defending champion (won 2024 and 2025) [HIGH - CBS Sports, PGA Tour]\n- Last person to three-peat a single PGA Tour event: Steve Stricker at John Deere Classic 2011 [HIGH - PGA Tour article]\n- Scheffler opened as +310 favorite [HIGH - Action Network]\n- Rory McIlroy in field; best Memorial finish is T4 (in 13 tries); T19 Truist Championship; T7 PGA Championship [HIGH - CBS Sports, Washington Times]\n- Ludvig Aberg +1500; 6 top-10 finishes in last 9 starts; T5 Memorial 2024; T16 Memorial 2025 [HIGH - Golf Digest, CBS Sports]\n- Viktor Hovland (2023 champion) withdrew from the field [HIGH - Heavy.com]\n- 47 of top 50 in FedEx Cup points in the field [MEDIUM - CBS Sports]\n- Cameron Young (+1600), Ben Griffin (+3500) also notable [HIGH - Action Network]\n- **Story History:** FOLLOW UP (Memorial Tournament preview covered June 3 as Tier 2)\n- **Freshness:** Round 1 begins today",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Nelly Korda at Riviera — Chasing Her First US Women's Open Title",
+      "tier": 1,
+      "status": "",
+      "angle": "The world's No. 1 player at +390, playing the first USWO ever held at Riviera — Korda lost last year's to Maja Stark at Erin Hills and is hungry for redemption",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Nelly Korda at the US Women's Open. Riviera Country Club. Round 1.\n\nShe is the No. 1 player in the world.\nShe won the Chevron Championship this year.\nShe came second in last year's USWO.\n\nToday is redemption. +390. #GolfFanrecap #USWomensOpen #NellyKorda",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#USWomensOpen",
+            "#NellyKorda"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-korda-riviera-uswo-redemption.html",
+        "headline": "Nelly Korda at Riviera — Hungry for Redemption, Favored to Win Her First US Women's Open",
+        "word_count": 671
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Korda USWO\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Nelly Korda LPGA\"\n- **Usage:** Korda celebrating or in competitive action\n- **Caption overlay:** \"KORDA AT RIVIERA / THE MAJOR SHE HASN'T WON YET / +390\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Nelly Korda LPGA\"\n- **Usage:** Korda focused/intense shot\n- **Caption overlay:** \"WORLD NO. 1. ROUND 1 IS LIVE. / US WOMEN'S OPEN 2026\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nelly Korda at USWO\n- **Sources:** ESPN, Golf Channel, TSN, NBC Sports, The Fried Egg\n- **Key facts:**\n- US Women's Open 2026 at Riviera Country Club, Los Angeles — 81st edition, first time at Riviera [HIGH - ESPN, NBC Sports]\n- Nelly Korda is No. 1 ranked player in the world [HIGH - multiple sources]\n- Korda favored at +390 [HIGH - TSN betting preview]\n- Korda won The Chevron Championship 2026 (second Chevron, third major overall) [HIGH - ESPN, Golf Channel]\n- Korda lost 2025 USWO to Maja Stark at Erin Hills [HIGH - multiple sources]\n- Korda's 2026 season: 3 wins and multiple top-2 finishes in 7 starts [MEDIUM - from June 3 pipeline notes]\n- Tournament runs same week as Memorial (June 4-7 approx) [HIGH - confirmed from scheduling]\n- **Story History:** FOLLOW UP (Korda and USWO at Riviera covered June 3)\n- **Freshness:** Round 1 today; fresh redemption angle",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf Andalucia Opens at Valderrama — Rahm's Home Stage, Last Tune-Up Before US Open",
+      "tier": 2,
+      "status": "",
+      "angle": "The ninth LIV event of 2026 runs June 4-7 at Valderrama; Jon Rahm (standings leader, 16/5) seeks his first individual win at his home club; $20M purse; last event before US Open",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "LIV Golf is at Valderrama today. $20 million. 72 holes. Rahm on his home turf.\n\nJon Rahm has NEVER won an individual LIV event at Valderrama.\n\nHe finished runner-up last year. He leads the 2026 LIV standings.\n\nToday is the day to change that. #GolfFanrecap #LIVGolf #JonRahm",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LIVGolf",
+            "#JonRahm"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-liv-golf-andalucia-rahm-valderrama.html",
+        "headline": "LIV Golf Heads to Valderrama — Rahm's Home Stage, $20 Million on the Line Before the US Open",
+        "word_count": 664
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Andalucia\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Jon Rahm LIV Golf\"\n- **Usage:** Rahm in LIV Golf competition\n- **Caption overlay:** \"RAHM AT VALDERRAMA / $20M. HIS HOME STAGE. HIS FIRST WIN HERE?\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Bryson DeChambeau LIV Golf\"\n- **Usage:** DeChambeau competing\n- **Caption overlay:** \"LIV GOLF ANDALUCIA / JUNE 4-7 / VALDERRAMA\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Andalucia\n- **Sources:** LIV Golf official, Today's Golfer, The Golf News Net, Andalucia Golf\n- **Key facts:**\n- LIV Golf Andalucia 2026 at Real Club Valderrama, Sotogrande, Spain, June 4-7 [HIGH - LIV Golf official]\n- Ninth event of LIV Golf 2026 season [HIGH - LIV Golf]\n- Individual purse: $20 million ($4M winner's share); Team purse: $10M ($3M) [HIGH - LIV Golf, Today's Golfer]\n- Jon Rahm leads 2026 LIV individual standings [HIGH - LIV Golf standings]\n- Rahm odds: 16/5 at home; runner-up at Valderrama last season [MEDIUM - Today's Golfer]\n- Bryson DeChambeau 2nd in standings; odds 15/2 [MEDIUM - Today's Golfer]\n- Format: 72-hole stroke play (extended from 54 holes for 2026) [HIGH - multiple LIV sources]\n- Last major-title event before US Open June 18-21 [HIGH - confirmed from scheduling]\n- Fourth consecutive year Valderrama hosts LIV Golf [HIGH - LIV Golf official]\n- US broadcast: Fox Sports [HIGH - LIV Golf]\n- **Story History:** FOLLOW UP (LIV Andalucia preview covered June 3)\n- **Freshness:** Round 1 today at Valderrama",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Scheffler and McIlroy Previewed Shinnecock on the Way to Memorial",
+      "tier": 2,
+      "status": "",
+      "angle": "Both Scheffler and McIlroy detoured to Shinnecock Hills this week; Scheffler eyes career Grand Slam; US Open June 18-21; Golf's Longest Day qualifying June 8",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Scheffler has won:\n\n✓ PGA Championship (2025)\n✓ The Open Championship (2025)\n\nHe has NOT won:\n\n☐ US Open\n\nThis week he's at the Memorial. But he already scouted Shinnecock on the way.\n\nJune 18-21. The Grand Slam. #GolfFanrecap #USOpen #ScottieScheffler",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#USOpen",
+            "#ScottieScheffler"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-scheffler-mcilroy-shinnecock-us-open.html",
+        "headline": "Scheffler Has the PGA and The Open. He Needs Shinnecock. Both He and McIlroy Already Scouted It.",
+        "word_count": 723
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler Scouts Shinnecock\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Scottie Scheffler US Open\"\n- **Usage:** Scheffler at a US Open venue or professional event\n- **Caption overlay:** \"PGA ✓ THE OPEN ✓ / US OPEN ☐ / SCHEFFLER'S GRAND SLAM QUEST\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Rory McIlroy Masters\"\n- **Usage:** McIlroy at a major championship\n- **Caption overlay:** \"MCILROY + SCHEFFLER / ALREADY AT SHINNECOCK / US OPEN JUNE 18-21\"\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler and McIlroy Preview Shinnecock\n- **Sources:** Golf Channel, ESPN, USGA official\n- **Key facts:**\n- Scheffler and McIlroy detoured to Shinnecock Hills on their way to the Memorial [HIGH - Golf Channel]\n- US Open 2026 at Shinnecock Hills, June 18-21 [HIGH - USGA official]\n- 126th US Open, sixth time at Shinnecock Hills [HIGH - USGA]\n- Scheffler owns PGA Championship (2025) and Open Championship (2025) wins — needs US Open for career Grand Slam [HIGH - USGA US Open player notes + ESPN]\n- US Open final round falls on Scheffler's 30th birthday [HIGH - USGA fast facts]\n- J.J. Spaun is defending champion (won at Oakmont 2025 with 64-foot birdie putt on 72nd hole) [HIGH - USGA]\n- Golf's Longest Day final qualifying: June 8 [HIGH - Golf Digest]\n- McIlroy also previewed course — no specific quote available in search results [MEDIUM - Golf Channel headline only]\n- **Story History:** NEW STORY (US Open preview not specifically covered before)\n- **Freshness:** Both players were at Shinnecock this week",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Ludvig Aberg's Memorial Dilemma — Best Course, Worst Closing Rounds",
+      "tier": 2,
+      "status": "",
+      "angle": "Aberg has 6 top-10 finishes in his last 9 starts and T5 at Memorial 2024; but 5 of his last 7 final-round scores are 70 or higher — can he finally close at Muirfield Village?",
+      "posting_window": "3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ludvig Aberg, 2026:\n\n• 6 top-10 finishes in his last 9 starts\n• T5 at Muirfield Village in 2024\n• +1500 Memorial odds\n\nBut 5 of his last 7 Sunday scores are 70 or higher.\n\nHe's the most interesting player to track this weekend. #GolfFanrecap #MemorialTournament #LudvigAberg",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#MemorialTournament",
+            "#LudvigAberg"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-aberg-memorial-closing-rounds.html",
+        "headline": "Aberg Is Playing the Best Golf of His Career. His Final Rounds Say Something Different.",
+        "word_count": 776
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aberg Closing Rounds\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Ludvig Aberg PGA Tour\"\n- **Usage:** Aberg in tournament action\n- **Caption overlay:** \"6 TOP-10s IN LAST 9 STARTS / BUT 5 OF LAST 7 SUNDAYS: 70+ / CAN HE CLOSE AT MEMORIAL?\"\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** \"Ludvig Aberg PGA Tour\"\n- **Usage:** Aberg putting or celebrating\n- **Caption overlay:** \"+1500 / THE MOST INTERESTING PLAYER THIS WEEK\"\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ludvig Aberg's Closing-Round Struggles\n- **Sources:** Golf Digest, CBS Sports, Action Network\n- **Key facts:**\n- 6 top-10 finishes in last 9 PGA Tour starts [HIGH - Golf Digest]\n- T5 at Memorial Tournament 2024 [HIGH - Golf Digest, CBS Sports]\n- T16 at Memorial Tournament 2025 [HIGH - CBS Sports]\n- 5 of last 7 final-round scores are 70 or higher [HIGH - Golf Digest, Action Network]\n- Ranked 43rd on PGA Tour for final-round scoring in 2026 [HIGH - Action Network]\n- +1500 odds at 2026 Memorial [HIGH - multiple sources]\n- Muirfield Village described as \"ideal fit\" for Aberg's game [MEDIUM - Golf Digest]\n- Course-specific concern: when leaders post low Sunday scores, Aberg often fades [MEDIUM - analyst]\n- **Story History:** NEW STORY (Aberg specifically profiled for Memorial)\n- **Freshness:** Round 1 tees off today — exactly when closing-round question becomes relevant",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

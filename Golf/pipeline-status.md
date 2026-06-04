@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-03
+- **Date**: 2026-06-04
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-04
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-06-04.xlsx (6 posts) + gfr-postplanner-tobi-2026-06-04.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-04/review-dashboard.html (21 items)
+- **Notes:** Memorial opens today (Scheffler +310 three-peat bid, McIlroy T4 best in 13, Aberg +1500 6 top-10s, Hovland WD); USWO at Riviera opens (Korda +390 World No. 1, redemption story vs Erin Hills 2025 loss); LIV Andalucia at Valderrama R1 (Rahm 16/5 leader, runner-up 2025, $20M); Scheffler + McIlroy scouted Shinnecock (US Open June 18-21, Scheffler Grand Slam quest, June 21 = 30th birthday); Aberg closing-round dilemma (+1500, 5/7 Sundays 70+)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-03
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)

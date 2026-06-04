@@ -833,3 +833,49 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** 4 majors; back-to-back Masters; career Grand Slam; never won Memorial; Golf Digest "strange history with Jack's Place"; +900; skipped Byron Nelson + Schwab to prepare
 - **Status:** NEW STORY
 - **Follow-up ideas:** Memorial performance; first win there?
+
+---
+## 2026-06-04
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-04 | T1 | Memorial Tournament opens today — Scheffler three-peat bid (+310); McIlroy in field (best T4 in 13 tries); Aberg +1500 (6 top-10s in 9 starts); Hovland WD; June 4-7 Muirfield Village | X, FB, Article | FOLLOW UP |
+| 2026-06-04 | T1 | Nelly Korda at US Women's Open — Riviera Country Club (first USWO at Riviera); World No. 1; +390; won Chevron 2026; lost 2025 USWO to Maja Stark at Erin Hills; redemption story | X, FB, Article | FOLLOW UP |
+| 2026-06-04 | T2 | LIV Golf Andalucia at Valderrama — June 4-7; $20M purse ($4M winner); 72-hole format; Rahm leads standings (779 pts)/16/5 odds; runner-up at Valderrama 2025; DeChambeau 15/2; last event before US Open | X, FB, Article | FOLLOW UP |
+| 2026-06-04 | T2 | Scheffler + McIlroy scouted Shinnecock Hills — US Open June 18-21; Scheffler career Grand Slam quest (owns PGA+Open Championship); final round on his 30th birthday June 21; J.J. Spaun defending; Golf's Longest Day June 8 | X, FB, Article | NEW STORY |
+| 2026-06-04 | T2 | Ludvig Aberg Memorial dilemma — 6 top-10s in 9 starts; T5 Muirfield 2024; but 5 of 7 recent Sundays 70+; ranked 43rd PGA Tour final-round scoring; closing-round question mark | X, FB, Article | NEW STORY |
+
+### STORY 1: Memorial Tournament Opens
+- **Tier:** 1
+- **Category:** PGA Tour / Tournament
+- **Key facts:** Memorial Tournament June 4-7, Muirfield Village Dublin OH; Scheffler +310 defending 2x champion (three-peat = first since Stricker 2011); McIlroy best T4 in 13 tries; Aberg +1500/6 top-10s/9 starts; Hovland WD; Cameron Young +1600; 47 of top 50 FedEx in field
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 1 results; leaderboard after Round 2
+
+### STORY 2: Korda at USWO
+- **Tier:** 1
+- **Category:** LPGA / US Women's Open
+- **Key facts:** 81st USWO at Riviera CC (first time at Riviera); Korda +390 World No. 1; won Chevron 2026 (2nd Chevron, 3rd major total); lost 2025 USWO to Maja Stark at Erin Hills; 3 wins in 7 LPGA 2026 starts; Thitikul challenger; Lottie Woad in field
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 1 results; Korda round-by-round tracking
+
+### STORY 3: LIV Golf Andalucia
+- **Tier:** 2
+- **Category:** LIV Golf / Tournament
+- **Key facts:** LIV Andalucia June 4-7 Valderrama; 9th event of LIV 2026; $20M individual ($4M winner)/$10M team; 72-hole format; Rahm 779 pts leads standings/16/5/runner-up Valderrama 2025; DeChambeau 15/2; Fox Sports coverage; last event before US Open
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 1 results; Rahm's Sunday performance; US Open tie-ins
+
+### STORY 4: Scheffler Scouts Shinnecock
+- **Tier:** 2
+- **Category:** US Open Preview
+- **Key facts:** Scheffler + McIlroy both visited Shinnecock Hills pre-Memorial; US Open June 18-21 Shinnecock Hills (6th time hosting); 126th US Open; Scheffler PGA Championship 2025 + Open Championship 2025 = needs US Open for Grand Slam; final round June 21 = Scheffler's 30th birthday; J.J. Spaun defending; Golf's Longest Day June 8; 156-player field
+- **Status:** NEW STORY
+- **Follow-up ideas:** US Open qualifying results June 8; Shinnecock setup story
+
+### STORY 5: Aberg Memorial Dilemma
+- **Tier:** 2
+- **Category:** PGA Tour / Player Feature
+- **Key facts:** 6 top-10 finishes in 9 starts; T5 Memorial 2024; T16 Memorial 2025; 5 of 7 recent Sunday scores 70+; 43rd PGA Tour final-round scoring 2026; +1500; described as "ideal fit" for Muirfield Village; 24 years old
+- **Status:** NEW STORY
+- **Follow-up ideas:** Aberg R1/R2 results; Sunday round tracking
