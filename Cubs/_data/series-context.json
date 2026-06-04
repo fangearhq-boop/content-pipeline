@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-06-03T08:30:00.506463+00:00",
-  "today_ct": "2026-06-03",
+  "generated_at": "2026-06-04T08:30:00.515735+00:00",
+  "today_ct": "2026-06-04",
   "off_day": false,
   "is_series_start_today": false,
   "series": {
     "opponent": "Athletics",
     "opponent_id": 133,
-    "opponent_record": "29-31",
-    "cubs_record": "32-29",
+    "opponent_record": "30-31",
+    "cubs_record": "32-30",
     "is_cubs_home": true,
     "venue": "Wrigley Field",
-    "series_length": 2,
+    "series_length": 1,
     "games": [
-      {
-        "game_pk": "824671",
-        "game_date_iso": "2026-06-04T00:05:00Z",
-        "game_date_ct": "Wed 7:05 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "824672",
         "game_date_iso": "2026-06-05T00:05:00Z",
@@ -32,16 +24,16 @@
     "rationale": "Same opponent (Athletics) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "824671",
+    "game_pk": "824672",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-06-04T00:05:00Z",
-    "game_date_ct": "Wed 7:05 PM CT",
+    "game_date_iso": "2026-06-05T00:05:00Z",
+    "game_date_ct": "Thu 7:05 PM CT",
     "is_cubs_home": true,
     "opponent_id": 133,
     "opponent_name": "Athletics",
-    "opponent_record": "29-31",
-    "cubs_record": "32-29",
+    "opponent_record": "30-31",
+    "cubs_record": "32-30",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Wrigley Field"
