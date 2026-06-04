@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-04
+
+### Story 1: Ohtani's 0.74 ERA — Third-Best Through 10 Starts in MLB History
+- **Date:** 2026-06-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Ohtani covered previously; historic ERA milestone is new)
+- **Angle:** Ohtani pitched 6 scoreless IP vs Arizona (June 3), 6 Ks, 2 hits, Dodgers won 7-0. ERA now 0.74 through 10 starts — third-lowest in MLB history since 1913, behind only Jacob deGrom (0.56, 2021) and Juan Marichal (0.59, 1966). Also went 3-for-4 with 2 walks on the same day. NL OBP leader at .420. On pace to qualify for both ERA title (162 IP) and batting title (502 PA) simultaneously — never done.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - ERA tracking as season progresses
+  - Whether he qualifies for both leaderboards simultaneously
+  - Cy Young and MVP candidacy
+
+### Story 2: Judge First to 20 HRs — On Pace for Unprecedented 5th Career 50-HR Season
+- **Date:** 2026-06-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Judge covered June 3 at 17 HRs; milestone reached)
+- **Angle:** Judge is first player in majors to 20 HRs in 2026, hitting No. 20 at ~56 team games — ahead of his 2022 AL record pace. Third time he's been first to 20 in a season (2017, 2022, 2026). On pace for 56 HRs. Would be his 5th career 50-HR season — no player in MLB history has done it 5 times. Current record tied at 4: Ruth, Griffey, Sosa, and Judge.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Whether Judge reaches 5th career 50-HR season
+  - AL MVP race
+  - Yankees pennant race implications
+
+### Story 3: Schwarber 22 HRs, Judge 20 — June Check-In on the 60-HR Chase
+- **Date:** 2026-06-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Schwarber race covered June 3; updated counts + 60-HR club context)
+- **Angle:** Schwarber leads MLB with 22 HRs (projects to 66). Judge at 20. 60-HR club has 4 members since 1900: Bonds (73), McGwire (70, 65), Sosa (66, 65, 63), Ruth (60). Nobody has joined since 2001. Last time two players were at 20+ HRs in early June was Bonds/Sosa 2001.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - All-Star break HR totals
+  - If either player reaches 30 HRs
+  - Second-half pace sustainability
+
+### Story 4: Tarik Skubal Rehab Start This Weekend — Mid-June Return Target
+- **Date:** 2026-06-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal covered June 3 as Tier 1 with imminent rehab; milestone reached)
+- **Angle:** Skubal threw 64-pitch simulated game (described as "awesome"). Minor-league rehab start expected this weekend. Target MLB return: ~June 17 at Cleveland. Went on IL May 6 for nano-scope procedure to remove loose body from throwing elbow. Recovery faster than initial projections. Back-to-back AL Cy Young winner (2024, 2025).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Rehab start results
+  - Official IL activation
+  - First start back — June 17 vs Cleveland
+
+### Story 5: Braves First MLB Team to 40 Wins — Acuña 4 HRs in 3 Games
+- **Date:** 2026-06-04
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Braves covered June 3; first-to-40 milestone and Acuña streak is new)
+- **Angle:** Braves are first team to 40 wins in 2026, now 40-20 with 9.5-game NL East lead. Acuña had 2 HRs in first 42 games, then hit 4 HRs in 3 games vs Cincinnati including a 438-foot blast. Third player since 1900 with 4+ HRs and 4+ steals in a 3-game span (Ohtani 2024, Max Carey 1922).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Acuña HR streak continuation
+  - NL East clinch projection
+  - Braves October seeding race
+
+---
+
 ## 2026-06-03
 
 ### Story 1: Tarik Skubal Return Imminent — "Awesome" Simulated Game

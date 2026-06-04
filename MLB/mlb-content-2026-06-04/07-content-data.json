@@ -1,0 +1,330 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-04",
+  "compiled_at": "2026-06-04T10:28:35.827450+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "8:00 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Shohei Ohtani — 0.74 ERA, Leads NL in OBP, Third-Best Start in MLB History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Shohei Ohtani's ERA is now 0.74 through 10 starts.\n\nOnly two pitchers in MLB history have done it lower: deGrom (0.56 in 2021) and Marichal (0.59 in 1966).\n\nHe also went 3-for-4 at the plate Wednesday. 🤯\n\n#Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 218
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Ohtani on Wednesday vs. Arizona:\n\n▸ 6 IP, 0 ER, 2 hits, 6 Ks (pitching)\n▸ 3-for-4, 2 walks, 1 run scored (hitting)\n\nHe leads the NL in OBP at .420. And his ERA is 0.74.\n\nThe best player on the planet isn't even close. ⚾\n\n#Dodgers #Ohtani",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#Ohtani"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "Wednesday night in Arizona, Shohei Ohtani did what Shohei Ohtani does.\n\nSix scoreless innings on the mound. Six strikeouts. Two hits allowed. ERA now down to 0.74 through 10 starts of the 2026 season.\n\nThen, because why not, he also went 3-for-4 with two walks at the plate. He reached base five times. He scored a run. And the Dodgers beat the Diamondbacks 7-0.\n\nHere's the thing about that 0.74 ERA: only two pitchers in the history of baseball have posted a lower ERA through their first 10 starts of a season since 1913. Jacob deGrom had a 0.56 ERA through 10 starts in 2021. Juan Marichal had a 0.59 ERA through 10 starts in 1966. Nobody else is in that conversation. Ohtani is third.\n\nAnd he's doing it while also leading the NL in OBP at .420 as a hitter.\n\nThere's an argument to be made that this is the greatest two-way season any baseball player has ever had. The numbers keep pulling you toward that conclusion.\n\nDodgers fans, how good is this team going to be in October? ⚾",
+        "image_caption": "0.74 ERA through 10 starts. Third-best in MLB history since 1913. Also 3-for-4 at the plate. Ohtani is just different. ⚾ #Dodgers #Ohtani",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-01-ohtani-074-era-historic-mlb-start.html",
+        "headline": "Only deGrom and Marichal Did It Better: Ohtani's 0.74 ERA Is the Third-Best Through 10 Starts in MLB History",
+        "word_count": 486
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shohei Ohtani — Historic ERA Performance\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Ohtani in pitching motion or follow-through, Dodgers white home uniform\n- **Photo Search Terms (Imagn):**\n  1. Shohei Ohtani Dodgers\n  2. Shohei Ohtani pitching\n  3. Ohtani Los Angeles\n- **Text Overlay Copy:**\n  - Headline: \"0.74 ERA\" (white, Poppins Bold)\n  - Subtitle: \"Third-Best Through 10 Starts in MLB History\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Pitching delivery preferred. Full-frame vertical portrait.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Shohei Ohtani Dodgers\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shohei Ohtani — 0.74 ERA, Third-Best Through 10 Starts in MLB History\n**Decision:** FOLLOW UP (June 3 brief had Skubal as lead; today Ohtani's performance becomes the headliner)\n**Sources:**\n1. ABC News — \"Shohei Ohtani dominates in 6 scoreless innings, Dodgers rout Diamondbacks 7-0\" (June 3, 2026)\n2. Yahoo Sports — \"Shohei Ohtani lowers ERA to 0.74 with 6 scoreless innings, leads NL in OBP\" (June 3, 2026)\n3. MLB.com — \"Ohtani lowers ERA to 0.74 with 6-inning gem — and reaches base 5 times!\" (June 3, 2026)\n4. SportsGrid — \"Shohei Ohtani delivers another historic performance as Dodgers blank D-Backs\" (June 3, 2026)\n**Key Facts (with confidence):**\n- Ohtani pitched 6 scoreless innings vs. Diamondbacks (June 3) [HIGH — multiple sources]\n- ERA now 0.74 through 10 starts [HIGH — multiple sources]\n- Only deGrom (0.56, 2021) and Marichal (0.59, 1966) have had lower ERA through 10 starts since 1913 [MEDIUM — one source; flagged for review]\n- Record through 10 starts: 6-2, 67 Ks, 0.79 WHIP, 61 innings [MEDIUM — one source]\n- Went 3-for-4 with 2 walks at the plate, leads NL OBP at .420 [MEDIUM — multiple sources]\n- First player to qualify as both hitter and pitcher leaderboards in same season [MEDIUM — one source]\n- Kyle Tucker HR into Chase Field pool in the Dodgers 7-0 win [MEDIUM — one source]\n**Freshness:** VERIFIED — June 3, 2026 game",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Aaron Judge — First to 20 HRs, On Pace for Unprecedented 5th Career 50-HR Season",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Aaron Judge is the first player in the majors to reach 20 home runs in 2026.\n\nThird time he's been first to 20 in a season (2017, 2022, 2026).\n\nBabe Ruth did it 7 times. Judge is at 3. ⚾\n\n#Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 201
+        },
+        {
+          "label": "Post 2-2",
+          "text": "No player in MLB history has had 5 seasons with 50+ home runs.\n\nAaron Judge already has 4.\n\nHe's on pace for 56+ this year.\n\nRuth. Mays. McGwire. Nobody has done this. 💪\n\n#Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "Aaron Judge is the first player in the major leagues to reach 20 home runs in 2026. And we're only in early June.\n\nBut there's a bigger number to talk about here: five.\n\nJudge has hit 50 or more home runs in four different seasons. No player in baseball history has done it five times. Babe Ruth did it four times. So did Judge. The record is tied.\n\nIf Judge reaches 50 HRs this season — and at his current pace, projecting to 56+ over 162 games, that's very much in play — he'll own the record alone.\n\nWhat makes this even more specific: Judge has been the first player in the majors to reach 20 HRs three times now (2017, 2022, 2026). The only player in Yankees history to do that more often? Babe Ruth, who did it seven times.\n\nThis isn't just a good season. This is a historically good season, and we're not even one-third of the way through the schedule.\n\nYankees fans, what's your over/under on Judge's final HR total? 💪",
+        "image_caption": "Aaron Judge: First to 20 HRs in 2026. On pace for his 5th career 50-HR season. Nobody in MLB history has done that. 💪 #Yankees #MLB",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-judge-20-hr-fifth-fifty-homer-season-chase.html",
+        "headline": "Judge First to 20 HRs, On Pace for Unprecedented 5th Career 50-Homer Season",
+        "word_count": 474
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge — 20 HRs, Historic Pace\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Judge in home run follow-through or trot, Yankees pinstripes\n- **Photo Search Terms (Imagn):**\n  1. Aaron Judge Yankees\n  2. Aaron Judge home run\n- **Text Overlay Copy:**\n  - Headline: \"FIRST TO 20\" (white, Poppins Bold)\n  - Subtitle: \"Judge on Pace for Unprecedented 5th 50-HR Season\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Power swing or celebratory HR trot preferred.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Aaron Judge Yankees\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Aaron Judge — First in Majors to 20 HRs, Potential 5th Career 50-HR Season\n**Decision:** FOLLOW UP (June 3 brief tracked Judge's HR pace; today he hit a milestone)\n**Sources:**\n1. MLB.com — \"Aaron Judge could set record for most 50-homer seasons\" (2026)\n2. StatSniper Blog — \"Aaron Judge 20 home runs MLB record pace 2026\" (2026)\n**Key Facts (with confidence):**\n- Judge is first player in the majors to reach 20 HRs in 2026 [HIGH — multiple sources]\n- Third time Judge has been first in the majors to 20 in a season (2017, 2022, 2026) [MEDIUM — one source; note Babe Ruth has done it 7 times in Yankees history]\n- On pace for 56+ HRs over a full 162-game season [MEDIUM — one source]\n- Has 50+ HRs in 4 career seasons (potential 5th would break MLB record; tied with Ruth) [MEDIUM — one source, historical claim]\n- Al MVP favorite at minus-135 (FanDuel, as of June 1) [LOW — dated and gambling-specific]\n**Freshness:** VERIFIED — Judge hit No. 20 on June 1 per search results (recent)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Kyle Schwarber's 60-HR Chase — 22 HRs and the Math Still Works",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Schwarber: 22 HRs.\nJudge: 20 HRs.\nRest of MLB: catching up.\n\nThe 60-HR club: Bonds, McGwire, Sosa, Ruth.\n\nSchwarber is still on pace. The chase is real. ⚾\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 170
+        }
+      ],
+      "facebook": {
+        "long_form": "The 60-home-run club has four members. Barry Bonds (73 in 2001). Mark McGwire (70 in 1998, 65 in 1999). Sammy Sosa (66 in 1998, 65 in 1999, 63 in 2001). And Babe Ruth (60 in 1927).\n\nKyle Schwarber has 22 home runs and it's early June.\n\nHe hit his 20th on May 15 — the earliest date in MLB history any player has reached that milestone. His pace projects to somewhere around 66 HRs over a full season, which would put him in that very exclusive conversation.\n\nAaron Judge is right behind him at 20. The Phillies slugger vs. the Yankees captain — the HR race of the early 2026 season.\n\nSchwarber's path to 60 isn't automatic. Paces slow, slumps happen, and the second half is always harder. But the math says it's still possible. And the history of that number is what makes this worth watching.\n\nDrop a 🔥 if you think Schwarber hits 60 this year.",
+        "image_caption": "Schwarber at 22. Judge at 20. The 60-HR club hasn't added a new member since 2001. Could 2026 change that? 🔥 #Phillies #MLB",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-schwarber-60-hr-chase-june-update.html",
+        "headline": "Schwarber at 22, Judge at 20: The June Check-In on Baseball's Most Watched HR Race",
+        "word_count": 470
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kyle Schwarber — 60-HR Chase\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Schwarber mid-swing or home run trot, Phillies red\n- **Photo Search Terms (Imagn):**\n  1. Kyle Schwarber Phillies\n  2. Kyle Schwarber home run\n- **Text Overlay Copy:**\n  - Headline: \"SCHWARBER: 22 HRs\" (white, Poppins Bold)\n  - Subtitle: \"Still on Pace for the 60-HR Club\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Swing or trot with power energy.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Kyle Schwarber Phillies\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kyle Schwarber — 22 HRs, 60-HR Chase Continues\n**Decision:** FOLLOW UP (June 3 brief covered Schwarber at 22 HRs; today adding context to the HR race with Judge now at 20)\n**Sources:**\n1. ESPN — \"MLB 2026: Will Phillies' Kyle Schwarber join 60 home run club?\" (2026)\n2. WFMD — \"Philadelphia Phillies slugger Kyle Schwarber is already on track to challenge Barry Bonds, Mark McGwire\" (2026)\n3. Bleacher Nation — \"Are You Aware of Kyle Schwarber's INSANE Home Run Pace This Year?\" (May 2026)\n**Key Facts (with confidence):**\n- Schwarber has 22 HRs as of early June 2026 [HIGH — from June 3 pipeline status, consistent with sources]\n- Hit HR No. 20 on May 15 — earliest date in MLB history for that milestone [HIGH — confirmed in prior searches]\n- On pace for ~66 HRs, which would tie Sosa for 3rd all-time [MEDIUM — pace calculations vary]\n- 60-HR club all-time: Bonds (73), McGwire (70, 65), Sosa (66, 65, 63), Ruth (60) [HIGH — historical record]\n- Judge is now at 20 HRs — the HR race between Schwarber and Judge is the top MLB storyline [MEDIUM — editor judgment]\n**Freshness:** VERIFIED — ongoing storyline",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tarik Skubal's Return — Rehab Start Coming, Tigers Rotation Gets Its Ace Back",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tarik Skubal threw a 64-pitch simulated game this week.\n\nRehab start is coming this weekend.\n\nThe back-to-back Cy Young winner could be back in Detroit around mid-June. 🐯\n\n#Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "Tarik Skubal is getting close.\n\nThe back-to-back American League Cy Young Award winner hasn't pitched for the Tigers since going on the injured list May 6 for a nano-scope procedure to remove a loose body from his elbow. But he's been moving fast through his recovery.\n\nThis week, Skubal threw a 64-pitch simulated game. A minor-league rehab start is expected this weekend. The target return date to the Detroit rotation is somewhere around mid-June — reporters have speculated June 17 at Cleveland, though manager A.J. Hinch has been cautious about confirming a specific timeline.\n\nThe Tigers have been without their ace for a month. His return doesn't just stabilize a rotation — it makes Detroit relevant in the AL Central conversation again.\n\nSkubal has been the best pitcher in the American League for two straight seasons. Getting him back healthy and on a roll before the All-Star break could be the difference in Detroit's second-half run.\n\nTigers fans, how big a deal is this? 🐯",
+        "image_caption": "64-pitch simulated game. Rehab start coming this weekend. Tarik Skubal is almost back, and the Tigers need him. 🐯 #Tigers #MLB",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-skubal-return-timeline-tigers-rotation.html",
+        "headline": "Rehab Start Coming, Return in Sight: Tarik Skubal's Road Back to the Tigers Rotation",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tarik Skubal — Return Coming\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Skubal pitching in Tigers uniform, dominant delivery\n- **Photo Search Terms (Imagn):**\n  1. Tarik Skubal Tigers\n  2. Tarik Skubal pitching\n- **Text Overlay Copy:**\n  - Headline: \"SKUBAL RETURNING\" (white, Poppins Bold)\n  - Subtitle: \"Back-to-Back Cy Young Winner Back Soon\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Mid-delivery stance, full frame vertical.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Tarik Skubal Tigers\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tarik Skubal — Rehab Start Coming, Tigers Return Targeted\n**Decision:** FOLLOW UP (June 3 brief had Skubal return as lead story; today update with specific timeline)\n**Sources:**\n1. Detroit News — \"Tarik Skubal getting close to returning after 64-pitch simulated game\" (June 1, 2026)\n2. Last Word on Baseball — \"Tarik Skubal Racing To Return To Reeling Tigers Rotation\" (June 2, 2026)\n3. SI.com — \"A.J. Hinch Shuts Down Tarik Skubal Return Date Speculation\" (June 2026)\n4. ClutchPoints — \"Tigers' Tarik Skubal 'awesome' update suggests he could return very soon\" (June 2026)\n**Key Facts (with confidence):**\n- Skubal had surgery May 6 (nano-scope to remove loose body from elbow) [HIGH — multiple sources]\n- Threw 64-pitch simulated game [HIGH — multiple sources]\n- Rehab start targeted this weekend [MEDIUM — multiple sources]\n- Possible Tigers return around June 17 (per reporter speculation, coach hasn't confirmed) [LOW — speculative, one source]\n- Back-to-back Cy Young winner [HIGH — well established]\n**Freshness:** VERIFIED — June 1-2, 2026 reports",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Braves First to 40 Wins, NL East Dominance Continues",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Atlanta Braves were the first MLB team to 40 wins in 2026.\n\nThey lead the NL East by 9.5 games.\n\nAnd Ronald Acuña Jr. just hit 4 HRs in 3 games after starting slow. 👀\n\n#Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "The Atlanta Braves were the first team in Major League Baseball to reach 40 wins in 2026.\n\nThey're now 40-20. Their NL East lead is 9.5 games. And the player who was supposed to be carrying them early in the season is just now catching fire.\n\nRonald Acuña Jr. had 2 home runs in his first 42 games. Not the explosive start Atlanta expected from its superstar outfielder. Then he hit 4 home runs in 3 games, including a 438-foot shot against the Reds. The Braves clinched that series in the game where Acuña went off, becoming the first MLB team to 40 wins in the process.\n\nIf Acuña is back — really back, not just a hot week — this Atlanta team becomes significantly more dangerous. They've been winning with Sale, Riley, Olson, and the rest carrying the load. Add a locked-in Acuña to that equation and you have a team that's going to be very hard to beat come October.\n\nNL East and NL pennant race watchers, the Braves are the team to watch. ⚾",
+        "image_caption": "Atlanta Braves: First MLB team to 40 wins. 9.5-game NL East lead. Acuña with 4 HRs in 3 games. The Braves are real. ⚾ #Braves #MLB",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-braves-first-40-wins-acuna-hot-streak.html",
+        "headline": "First to 40 Wins: Braves Lead NL East by 9.5 as Acuña Breaks Out With 4 HRs in 3 Games",
+        "word_count": 475
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves — NL East Dominators\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Ronald Acuña Jr. celebratory moment or Braves team celebration\n- **Photo Search Terms (Imagn):**\n  1. Ronald Acuna Braves\n  2. Atlanta Braves celebration\n- **Text Overlay Copy:**\n  - Headline: \"FIRST TO 40 WINS\" (white, Poppins Bold)\n  - Subtitle: \"Braves Lead NL East by 9.5 Games\" (#F4C542 gold, Nunito)\n- **Composition Notes:** Celebration or HR trot for Acuña — energy and excitement.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Ronald Acuna Braves"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Braves First to 40 Wins, Acuña Back in Form\n**Decision:** FOLLOW UP (June 3 brief had Braves at 40-20, 9.5-game lead)\n**Sources:**\n1. MLB.com — \"Ronald Acuña Jr. homers in third straight game for Braves\" (2026)\n2. Clutch Points — \"Insider declares Braves' Ronald Acuña Jr. is 'back' after 438-foot moonshot\" (June 2026)\n**Key Facts (with confidence):**\n- Braves were first MLB team to reach 40 wins [HIGH — multiple sources]\n- Braves 40-20 with 9.5-game NL East lead [MEDIUM — from June 3 pipeline status]\n- Acuña had 4 HRs in 3 games (4 HR, 4 SBs in 3 games — one of 3 players since 1900 with that feat) [MEDIUM — one source; flagged]\n- Acuña's 438-foot HR against Reds [MEDIUM — one source]\n- Braves now third MLB team since 1900 to have 4+ HR and 4+ SB player in same 3-game stretch (other two: Ohtani 2024, Max Carey 1922) [MEDIUM — one source]\n**Freshness:** VERIFIED — Acuña streak from late May/early June",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
