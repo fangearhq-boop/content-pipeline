@@ -2,6 +2,45 @@
 
 ---
 
+## June 4, 2026
+
+### Story 1: Donut Day on Pikes Peak — June 6–7 Family Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Donut Day on Pikes Peak returns June 6–7. Ranger Talks at Crystal Reservoir, Glen Cove, and Summit. Donut Day Passport for a free sticker. Three podcast episodes drop June 5 with hidden code words — collect all three, recite the phrase to a ranger for an exclusive sticker. Timed-entry required. Previously mentioned in a roundup on June 3 (in the Quick Reference table of the June Events article) but covered here as a standalone dedicated article.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x3)
+- **Tier:** 1
+- **Key Facts:** Dates June 6–7; Ranger Talks at Crystal Reservoir + Glen Cove + Summit; Donut Day Passport = free sticker; 3 podcast episodes drop June 5 with hidden code words; DrivePikesPeak.com for timed-entry tickets; Source: DrivePikesPeak.com
+
+### Story 2: Vndueey Magnetic Men Toy Warning — CPSC Stop-Use Alert
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC stop-use warning for Vndueey Magnetic Men stick figures. ~$25, sold on Amazon 2023–2025. Each figure has 4 small magnets. Two or more magnets swallowed can attract through intestinal walls, causing perforation, blockage, and blood poisoning. Remedy: stop use immediately, cut the toy in half, email a photo to vndueeyrecall@outlook.com for a full refund.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x3)
+- **Tier:** 1
+- **Key Facts:** ~$25; sold Amazon 2023–2025; 4 magnets per figure; perforation/blockage/blood poisoning risk; stop use, cut in half, email photo to vndueeyrecall@outlook.com for refund; CPSC.gov
+
+### Story 3: D11 Free Summer Meals — Full Program Guide Through July 31
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP — D11 free summer meals previously covered in a composite reference on June 3 (roundup context) and May 30 (general summer guide). Today's article is a dedicated D11-specific guide: program runs through July 31, ages 1–18, no sign-up/ID/income check. Highlights confirmed site locations including Boys & Girls Club (S. Chelton) and Fountain Middle School. Distinct from D49 program (covered June 3) and prior mentions.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x3)
+- **Tier:** 1
+- **Key Facts:** Program through July 31 2026; ages 1–18; no registration/ID/income required; Mon–Fri, all sites closed July 4; Boys & Girls Club 1455 S. Chelton Rd (June 1–July 31, breakfast 8:30–8:50 AM, lunch 11:30 AM–noon); Fountain MS 515 N. Santa Fe Ave (June 8–July 10, breakfast 7:30–8:30 AM, lunch 11:30 AM–12:30 PM); call D11 at 520-2924 or d11.org for full site list; Source: D11 Food and Nutrition Services
+
+### Story 4: Girls Pro Flag Football Camp — June 8–10 at Venezia Park (Briargate)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 2nd annual Girls Pro Flag Football Camp at John Venezia Community Park, 3555 Briargate Pkwy, June 8–10, 8 AM–11:30 AM. Girls ages 9–18, all skill levels. Pro athletes coaching: Breaya Quintana, Karen Scott, Vana Medrano. Free Meet the Pros event June 7 at Red's Sunset Grill (no registration). Register at profootballcamp.com.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x3)
+- **Tier:** 1
+- **Key Facts:** Dates June 8–10; Venezia Park 3555 Briargate Pkwy; 8 AM–11:30 AM daily; girls ages 9–18; all skill levels; coaches Breaya Quintana + Karen Scott + Vana Medrano; Meet the Pros June 7 Red's Sunset Grill (free, no registration); profootballcamp.com; Source: profootballcamp.com
+
+### Story 5: AAP Drowning Prevention — Layered Safety Guide for COS Families
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP 2026 drowning prevention guidance with Colorado Springs local context. Drowning is the leading accidental death cause for ages 1–4. Layered approach: swim lessons after first birthday, four-sided pool fencing (self-closing/latching gate), constant undistracted supervision, remove standing water, Coast Guard-approved life jackets on open water, CPR training. COS pools open (Monument Valley Pool, Wilson Ranch Aquatic Center) and local open water hazards (Rampart Reservoir, Eleven Mile State Park).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x3)
+- **Tier:** 2
+- **Key Facts:** Drowning = top accidental death risk ages 1–4; swim lessons after first birthday; four-sided fencing required (AAP); constant undistracted supervision; inflatable arm floaties ≠ life jackets; bystander CPR improves survival; COS pools: Monument Valley Park Pool + Wilson Ranch Aquatic Center; splash pads: Panorama + Venezia + Uncle Wilbur; open water: Rampart Reservoir + Eleven Mile State Park (cold temps = additional risk); Source: AAP 2026, aap.org, healthychildren.org
+
+---
+
 ## June 3, 2026
 
 ### Story 1: YCXXKJ Baby Bath Seat Recall — Drowning Risk

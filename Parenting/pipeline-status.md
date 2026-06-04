@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 4, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Donut Day on Pikes Peak June 6–7 (Ranger Talks Crystal Reservoir + Glen Cove + Summit; Donut Day Passport free sticker; 3 podcast episodes drop June 5 with hidden code words; DrivePikesPeak.com for timed-entry); Vndueey Magnetic Men CPSC stop-use warning (~$25, Amazon 2023–2025, 4 magnets per figure, intestinal perforation risk, cut in half + email photo to vndueeyrecall@outlook.com for refund, CPSC.gov); D11 free summer meals through July 31 (ages 1–18, no registration/ID/income, Mon–Fri, closed July 4; Boys & Girls Club 1455 S. Chelton June 1–July 31; Fountain MS 515 N. Santa Fe June 8–July 10; 520-2924 / d11.org); Girls Pro Flag Football Camp June 8–10 (Venezia Park 3555 Briargate Pkwy, 8–11:30 AM, girls 9–18, coaches Quintana+Scott+Medrano, Meet the Pros June 7 Red's Sunset Grill free, profootballcamp.com); AAP 2026 drowning prevention (top accidental death risk ages 1–4; swim lessons after first birthday; four-sided fencing; undistracted supervision; no arm floaties; CPR training; COS pools: Monument Valley + Wilson Ranch; Rampart Reservoir + Eleven Mile cold-water risk) |
+| Story History Check | COMPLETE | 4 NEW STORIES (Donut Day standalone, Vndueey recall, Girls Flag Football Camp, AAP drowning prevention) + 1 FOLLOW-UP (D11 meals — distinct from D49-focused article June 3 and prior May 30 roundup mention; today's article is D11-specific full guide through July 31) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (4 Tier 1, 1 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for Stories 1, 2, 3; 1 each for Stories 4, 5); 2 char violations fixed (S1B: trimmed "Donut Day is this Saturday + Sunday. … for tickets." to "Donut Day: June 6-7."; S5A: trimmed "children" to "kids", removed "any", shortened "are open — layer your safety plan" to "open now"); 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (15 concepts across 5 stories: x_image + facebook_image + article_hero per story) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 15 images (x_image + facebook_image + article_hero per story for all 5); all not_started; brand_kit_id: kAHCKfCZgk0; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 83 claims; 2 char violations fixed (S1B, S5A); image not_started warnings cosmetic (expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (23 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-04.xlsx (8 posts) + TOBI cosp-postplanner-tobi-2026-06-04.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-04)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 8 X posts in PostPlanner xlsx; posting windows 13:10–20:52 (66 min apart)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-04.xlsx (8 posts), cosp-postplanner-tobi-2026-06-04.xlsx (8 TOBI posts)
+- **Coverage:** Donut Day on Pikes Peak June 6–7 (Ranger Talks Crystal Reservoir + Glen Cove + Summit; Donut Day Passport free sticker; 3 podcast episodes drop June 5 with hidden code words — collect all three, recite phrase to ranger for exclusive sticker; timed-entry required; DrivePikesPeak.com); Vndueey Magnetic Men CPSC stop-use warning (~$25, Amazon 2023–2025, 4 magnets per figure, two+ magnets attract through intestinal walls → perforation + blockage + blood poisoning, stop use, cut in half, email photo to vndueeyrecall@outlook.com for full refund, CPSC.gov); D11 free summer meals through July 31 (ages 1–18, no registration/ID/income check, Mon–Fri, closed July 4; Boys & Girls Club 1455 S. Chelton Rd breakfast 8:30–8:50 AM + lunch 11:30 AM–noon June 1–July 31; Fountain MS 515 N. Santa Fe Ave breakfast 7:30–8:30 AM + lunch 11:30 AM–12:30 PM June 8–July 10; full list 520-2924 or d11.org; USDA SFSP); Girls Pro Flag Football Camp June 8–10 (2nd annual; John Venezia Community Park 3555 Briargate Pkwy; 8–11:30 AM; girls ages 9–18 all skill levels; coaches Breaya Quintana + Karen Scott + Vana Medrano; free Meet the Pros June 7 at Red's Sunset Grill no registration; profootballcamp.com); AAP 2026 drowning prevention (top accidental death risk ages 1–4; swim lessons after first birthday; four-sided pool fence self-closing/self-latching; constant undistracted supervision; remove standing water; Coast Guard-approved life jackets on open water; inflatable arm floaties NOT life jackets; bystander CPR improves survival; COS pools: Monument Valley Park Pool + Wilson Ranch Aquatic Center; splash pads: Panorama + Venezia + Uncle Wilbur; open water: Rampart Reservoir + Eleven Mile State Park cold temps; aap.org + healthychildren.org)
+- **Notes:**
+  - verify-facts.py: 2 runs required — first run flagged 2 char violations (S1B: 293 chars, S5A: 299 chars). Fixed by trimming "Donut Day is this Saturday + Sunday. … for tickets." → "Donut Day: June 6-7." (S1B) and replacing "children" with "kids" + removing "alone" + shortening closing phrase (S5A). Second run passed.
+  - compile: 5 stories, 8 X posts, 0 FB posts (PostPlanner xlsx has full 8 posts), 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 23 items
+  - PostPlanner exports: both standard (8) and TOBI (8) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: June 3, 2026
 
 | Step | Status | Notes |
