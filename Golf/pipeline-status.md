@@ -1,8 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-04
+- **Date**: 2026-06-05
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-06-05
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-06-05.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-05.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-05/review-dashboard.html (27 items)
+- **Notes:** USWO R1: Kupcho leads (-5/66); Kim 1 back; Korda 73/7 back (changed LeBron Nike shoes hole 16); Memorial R1: Fleetwood/Clark/Spaun/Gerard tied -5; Scheffler 73/6 back/"frustrating"/D-bogey 16; LIV Andalucia R2: Gooch leads by 4 over DJ (66/Valderrama); final round Saturday; Open Championship spot; Korda LeBron shoe story human interest
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ## Pipeline Run Log
 

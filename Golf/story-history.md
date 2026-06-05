@@ -879,3 +879,49 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** 6 top-10 finishes in 9 starts; T5 Memorial 2024; T16 Memorial 2025; 5 of 7 recent Sunday scores 70+; 43rd PGA Tour final-round scoring 2026; +1500; described as "ideal fit" for Muirfield Village; 24 years old
 - **Status:** NEW STORY
 - **Follow-up ideas:** Aberg R1/R2 results; Sunday round tracking
+
+---
+## 2026-06-05
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-05 | T1 | US Women's Open Round 1 — Kupcho leads (-5/66); Kim 1 back (-4/67); Korda 73 (+2), 7 back — changed LeBron custom Nike shoes at hole 16 ("fit wasn't right") | X, FB, Article | NEW STORY |
+| 2026-06-05 | T1 | Memorial Tournament Round 1 — Four-way tie at -5 (67): Fleetwood/Clark/Spaun/Gerard; Fleetwood 11/11 scrambling/zero bogeys; Scheffler 73 (+1), 6 back, three-peat in trouble | X, FB, Article | NEW STORY |
+| 2026-06-05 | T2 | LIV Andalucia Round 2 — Gooch leads by 4 over DJ after 66; Valderrama; final round Saturday; Open Championship spot for winner; Gooch won 2023 here | X, FB, Article | FOLLOW UP |
+| 2026-06-05 | T2 | Scheffler three-peat in trouble — 73 (+1) Round 1, "frustrating"; D-bogey 16 (wind/water); 6 back; Tiger 1999-2001 three-peat only precedent; 54 holes remain | X, FB, Article | FOLLOW UP |
+| 2026-06-05 | T2 | Korda LeBron shoes — changed custom Nike shoes at hole 16 ("fit not right/slightly different spacing"); shot 73; 7 back of Kupcho; comeback needed | X, FB, Article | NEW STORY |
+
+### STORY 1: US Women's Open Round 1 — Kupcho Leads
+- **Tier:** 1
+- **Category:** USWO / LPGA Major
+- **Key facts:** Kupcho 5-under 66 (7 birdies), solo leader; Sei Young Kim 4-under 67, 1 back; Korda 2-over 73, 7 back; Korda changed LeBron James custom Nike shoes at hole 16 ("fit wasn't right, slightly different spacing"); bunched leaderboard; Riviera CC
+- **Status:** NEW STORY
+- **Follow-up ideas:** Round 2 leaderboard; Korda comeback; cut line
+
+### STORY 2: Memorial Tournament Round 1 — Four-Way Tie
+- **Tier:** 1
+- **Category:** Memorial Tournament / PGA Tour
+- **Key facts:** Four-way tie at -5 (67): Fleetwood, Clark, Spaun, Gerard; only 22 players broke par; Fleetwood 11/11 up-and-down/0 bogeys/7 GIR; Clark 2023 US Open champ; Scheffler 73 (+1) "frustrating," D-bogey 16 (wind/water), 6 back; Tiger three-peat 1999-2001 only precedent
+- **Status:** NEW STORY
+- **Follow-up ideas:** Round 2 leaderboard; Scheffler comeback or elimination
+
+### STORY 3: LIV Andalucia Round 2 — Gooch Leads
+- **Tier:** 2
+- **Category:** LIV Golf / Valderrama
+- **Key facts:** Gooch 66 in Round 2, leads by 4 over DJ; Valderrama; won 2023 LIV Andalucia; Open Championship spot for winner; Rahm Legion XIII home bid; final round Saturday
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final round result; Rahm or DJ charge
+
+### STORY 4: Scheffler Three-Peat Trouble
+- **Tier:** 2
+- **Category:** Memorial Tournament / Player Feature
+- **Key facts:** Scheffler 73 (+1), 6 back; "frustrating"; D-bogey 16 (wind switch/water), bogey 14; Tiger 1999-2001 three-peat only precedent; Scheffler won 2024 (8-under, 1 over Morikawa) and 2025 (10-under, 4 over Griffin); 54 holes remain
+- **Status:** FOLLOW UP (three-peat quest established in previews; first round updates this)
+- **Follow-up ideas:** Scheffler R2 score; three-peat fate
+
+### STORY 5: Korda LeBron Shoe Story
+- **Tier:** 2
+- **Category:** USWO / LPGA / Feature
+- **Key facts:** LeBron gifted custom Nike shoes; wore them to start R1; changed at hole 16 ("fit not right, slightly different spacing"); shot 73 (+2); 7 back of Kupcho; 54 holes remaining
+- **Status:** NEW STORY
+- **Follow-up ideas:** Korda comeback rounds; US Women's Open winner
