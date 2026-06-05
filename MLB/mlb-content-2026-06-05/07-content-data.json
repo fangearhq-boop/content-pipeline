@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-05",
+  "compiled_at": "2026-06-05T10:28:58.970988+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 3",
+      "type": "FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 5",
+      "type": "FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 1",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Blue Jays 7-2 Over Braves — Chad Dallas Debuts, Sale Falls to 8-4",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Chad Dallas made his MLB debut Thursday.\n\nHe combined with five Toronto pitchers to hold the best team in baseball to 4 hits.\n\nBlue Jays 7, Braves 2. Chris Sale falls to 8-4.\n\n#BlueJays #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BlueJays",
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 198
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Chris Sale allowed 10 hits in 5.2 innings Thursday night. Record drops to 8-4.\n\nThe Braves are still 42-20 and lead the NL East by 9.5 games.\n\nEven the best teams have bad nights.\n\n#Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "The best team in baseball had a rough night on Thursday. The Toronto Blue Jays beat the Atlanta Braves 7-2, and a rookie who had never thrown a single MLB pitch was the story.\n\nChad Dallas made his big league debut and did more than just hold his own. He allowed just one earned run in 3.2 innings, then combined with five Toronto relievers to hold Atlanta's powerful lineup to just four hits all game. Four hits. Against the Braves, who are 42-20 and leading the NL East by 9.5 games. That's a number worth sitting with for a moment.\n\nOn the other end was Chris Sale, who entered the night at 8-3 with full Cy Young Award conversation going around him. He gave up 10 hits in 5.2 innings and left with his record at 8-4. For a team that has been dominant all season, it was a rare off night from their ace.\n\nToronto's Myles Straw drove in three runs with two hits, giving the Blue Jays a comfortable cushion that the Braves' offense never threatened to close.\n\nThe good news for Atlanta? They're still 42-20. The best teams in baseball don't worry too much about one loss. They worry about how they come out the next day.\n\nWho impressed you more — Dallas on debut or the Toronto pitching staff's combined performance?",
+        "image_caption": "Blue Jays 7, Braves 2. Chad Dallas makes his MLB debut. Sale falls to 8-4. The Braves are still fine. ⚾ #BlueJays #Braves #MLB",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-01-blue-jays-stun-braves-chad-dallas-debut-sale.html",
+        "headline": "Blue Jays 7, Braves 2: Chad Dallas Debuts, Sale Stumbles as Toronto Hands Atlanta a Rare Beating",
+        "word_count": 468
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Blue Jays 7-2 Over Braves — Chad Dallas Debut\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Chad Dallas celebrating after a strikeout in his debut, or Toronto pitchers in the dugout during the game\n- **Photo Search Terms (Imagn):**\n  1. Chad Dallas Toronto Blue Jays\n  2. Blue Jays pitchers Toronto\n  3. Chris Sale Atlanta Braves\n- **Text Overlay Copy:**\n  - Headline: \"DEBUT WIN\" (white, Bebas Neue)\n  - Subtitle: \"Blue Jays 7, Braves 2 — Dallas Combines for 4-Hitter in MLB Debut\" (Montserrat)\n- **Composition Notes:** Pitching action or celebration. Dark overlay on bottom third.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Chad Dallas Toronto Blue Jays\n- **Text Overlay:** Same as social but landscape layout\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Murakami's Historic Rookie HR Season — The White Sox Have a Star",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Munetaka Murakami is making history for the White Sox.\n\nThe rookie won AL Rookie of the Month for May and has been among the AL HR leaders all season.\n\nLast year Chicago lost 121 games. Now they have a generational talent.\n\n#WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Last year the White Sox lost 121 games.\n\nThis year Munetaka Murakami homered in 5 straight games (tied the White Sox franchise record), won AL Rookie of the Month, and is on pace to lead the AL in HRs.\n\nBaseball is wild. #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "One year ago, the Chicago White Sox lost 121 games. That was not a misprint. One hundred and twenty-one losses — one of the worst seasons in modern baseball history.\n\nToday they have Munetaka Murakami, and he is putting together one of the best rookie seasons the sport has seen in years.\n\nMurakami won the AL Rookie of the Month award for May after hitting eight home runs in 26 games and slashing .244/.382/.556. He tied the White Sox franchise record with home runs in five consecutive games. Through the season so far, he has been among the AL's home run leaders — a statement that would have been almost unimaginable for this franchise just twelve months ago.\n\nThis is not just a baseball story. It is a story about how fast things can change in this sport. The White Sox committed to a full rebuild, absorbed the losses, and came out the other side with a player who makes every at-bat appointment viewing.\n\nThe AL Rookie of the Year race is still early, but Murakami has made his case impossible to ignore. The kid can hit.\n\nWhat is the ceiling for Murakami this season? Drop your prediction below. ⬇️",
+        "image_caption": "From 121 losses to an AL Rookie of the Month. Munetaka Murakami and the White Sox are building something. ⚾ #WhiteSox #MLB",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-02-murakami-white-sox-rookie-hr-season-historic.html",
+        "headline": "Murakami's Historic Rookie HR Season Makes the White Sox Turnaround Story Real",
+        "word_count": 510
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murakami's Historic Rookie HR Season\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Murakami mid-swing or watch a home run — power stance\n- **Photo Search Terms (Imagn):**\n  1. Munetaka Murakami White Sox\n  2. Munetaka Murakami Chicago\n- **Text Overlay Copy:**\n  - Headline: \"MURAKAMI\" (white, Bebas Neue)\n  - Subtitle: \"AL Rookie of the Month · Historic HR Pace · White Sox Star\" (Montserrat)\n- **Composition Notes:** Power swing or home run celebration. Portrait style.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Munetaka Murakami White Sox\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Schwarber Is Chasing the 60-HR Club — And It's Not as Crazy as It Sounds",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kyle Schwarber has 22 home runs. He's on pace for 66.\n\nThe 60-HR club has exactly three members: Bonds (73), McGwire (70, 65), Sosa (66, 64, 63).\n\nSchwarber is in that conversation. In June.\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "Let's talk about what Kyle Schwarber is doing — and what it would mean if he keeps doing it.\n\nSchwarber has 22 home runs on the season. He hit No. 20 on May 15, the earliest date in Major League Baseball history that anyone has reached that milestone. He is currently on pace for 66 home runs over a full season.\n\nHere is why that number matters: the 60-home run club has exactly three members. Barry Bonds hit 73 in 2001 and is the all-time single-season record holder. Mark McGwire hit 70 in 1998 and 65 in 1999. Sammy Sosa hit 66 in 1998, 64 in 2001, and 63 in 1999. That is it. No one else. Ever.\n\nSchwarber is in that conversation right now. In early June. He is not just on a 50-HR pace — he is on the kind of pace that puts him in one of the most exclusive clubs in baseball history.\n\nObviously, sustaining this pace for five more months is incredibly difficult. But for right now, in June, what Schwarber is doing is genuinely unprecedented territory and worth paying attention to every single day.\n\nAre you watching Schwarber's at-bats this season? You should be.",
+        "image_caption": "Kyle Schwarber: 22 HRs, on pace for 66. The 60-HR club has exactly 3 members. He's in the conversation. ⚾ #Phillies #MLB",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-schwarber-60-home-run-club-pace-phillies.html",
+        "headline": "Schwarber Is On Pace for 66 Home Runs — and the 60-HR Club Has Only Three Members",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber Chasing the 60-HR Club\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Kyle Schwarber follow-through on a home run swing or watching a ball leave the park\n- **Photo Search Terms (Imagn):**\n  1. Kyle Schwarber Philadelphia Phillies\n  2. Kyle Schwarber batting\n- **Text Overlay Copy:**\n  - Headline: \"60-HR CLUB?\" (white, Bebas Neue)\n  - Subtitle: \"Schwarber: 22 HRs, On Pace for 66 — Bonds/McGwire/Sosa Territory\" (Montserrat)\n- **Composition Notes:** Swing or watch-the-ball-fly composition. Bold energy.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Kyle Schwarber Philadelphia Phillies\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "AL East Race — Rays and Yankees Separated by One Game",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "AL East standings:\n\nTampa Bay: 36-22\nNew York Yankees: 36-25\n\nOne game separating first and second place. This division race is far from over.\n\n#Rays #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rays",
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 163
+        }
+      ],
+      "facebook": {
+        "long_form": "The AL East is the most-watched division in baseball. It almost always is. And right now, with the Tampa Bay Rays at 36-22 and the New York Yankees at 36-25, the race is as tight as it can get: one game separating first and second place.\n\nBoth teams have been remarkably consistent through the first third of the season. The Rays, without the luxury of the Yankees' payroll, have built a lean, effective roster that keeps finding ways to win. The Yankees, despite the roster changes and questions that followed last season, are back in the conversation and not going away.\n\nHere is the reality for the rest of the league: the Blue Jays at 29-33 are fading from the conversation, and Baltimore and Boston are further back still. This is a two-team race, and it is going to produce premium baseball for the next four months.\n\nEvery head-to-head series between these two will be a referendum on who is actually better. The AL East always delivers in the second half. This year looks like no different.\n\nWhich team wins the AL East — Rays or Yankees?",
+        "image_caption": "Tampa Bay 36-22. Yankees 36-25. One game apart. The AL East is heating up. ⚾ #Rays #Yankees #MLB",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-al-east-race-rays-yankees-one-game.html",
+        "headline": "AL East Tightens as Rays Hold a One-Game Lead Over Yankees — and the Race Is Just Starting",
+        "word_count": 449
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AL East Race — Rays and Yankees\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Split image or game action representing either Rays or Yankees — tight race feel\n- **Photo Search Terms (Imagn):**\n  1. Tampa Bay Rays baseball\n  2. New York Yankees baseball\n- **Text Overlay Copy:**\n  - Headline: \"AL EAST RACE\" (white, Bebas Neue)\n  - Subtitle: \"Rays 36-22 · Yankees 36-25 · One Game Apart\" (Montserrat)\n- **Composition Notes:** Stadium or game action. Two-team competition feel.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Tampa Bay Rays baseball\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Friday MLB Standings Check — Braves, Dodgers, Brewers All Dominating",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Friday standings check:\n\nAtlanta Braves: 42-20 (best in NL)\nLA Dodgers: 40-22 (leading NL West)\nMilwaukee Brewers: 37-22 (leading NL Central)\n\nThree dominant NL teams. October is going to be fun.\n\n#MLB #Standings",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Standings"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "Three teams are separating themselves from the pack in the National League — and the picture is getting clearer every week.\n\nThe Atlanta Braves are 42-20 and lead the NL East by 9.5 games. The Los Angeles Dodgers are 40-22 and lead the NL West by 7 games over the Padres. The Milwaukee Brewers are 37-22 and lead the NL Central comfortably.\n\nNone of these division leads are safe in June. That is not how baseball works. But all three teams are playing at a level that suggests the 2026 NL postseason picture is already being drawn with these three at the center.\n\nAtlanta, with the best record in baseball, has dominated all season despite injuries and lineup fluctuations. Los Angeles has that roster. Milwaukee's pitching staff is built to win in October. If the season ended today — it doesn't, but play along — the NL would send three very difficult opponents into the postseason.\n\nFriday night games are in progress. Every win matters a little more now.\n\nWhich of these three is the NL's best team heading into the second half?",
+        "image_caption": "Braves 42-20. Dodgers 40-22. Brewers 37-22. The NL standings are telling a story. ⚾ #MLB #Standings",
+        "posting_time": "10:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-mlb-standings-braves-dodgers-brewers-june.html",
+        "headline": "Three NL Teams Are Separating From the Pack — the 2026 Postseason Picture Is Taking Shape",
+        "word_count": 467
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Friday MLB Standings\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Baseball stadium wide shot or team celebration — represents the best teams in baseball\n- **Photo Search Terms (Imagn):**\n  1. Atlanta Braves baseball\n  2. Los Angeles Dodgers baseball\n- **Text Overlay Copy:**\n  - Headline: \"MLB STANDINGS\" (white, Bebas Neue)\n  - Subtitle: \"Braves 42-20 · Dodgers 40-22 · Brewers 37-22\" (Montserrat)\n- **Composition Notes:** Stadium wide shot or scoreboard. Clean, informational feel.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Atlanta Braves baseball"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
