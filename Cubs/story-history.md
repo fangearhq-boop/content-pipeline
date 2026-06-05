@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-05
+
+### STORY 1: Series Preview — Cubs vs Giants, 3 Games at Wrigley
+- **Angle:** NEW STORY (Giants 3-game home series opens today; is_series_start_today=true; mandated 7:00 AM series preview slot)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap tomorrow morning (Cabrera's IL-return outing)
+  - Giants series steal if they take 2-of-3 (narrative flip — sub-.500 team beats Cubs)
+  - Robbie Ray trade/rental angle if Cubs show interest visibly
+
+### STORY 2: Cubs 7, Athletics 6 — Walk-off Comeback, PCA Redemption
+- **Angle:** NEW STORY (June 4 walk-off win — first coverage of this result; PCA goat-to-hero arc)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, walk-off recap)
+- **Follow-Up Opportunities:**
+  - PCA season stats follow-up if hot streak continues through June
+  - Cubs' A's series 2-1 win as momentum heading into Giants series
+
+### STORY 3: Ben Brown — 2.01 ERA, All-Star Case
+- **Angle:** FOLLOW UP (Ben Brown ace narrative; new angle = All-Star case via Sun-Times June 4 article)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, stat-backed bold take)
+- **Follow-Up Opportunities:**
+  - All-Star Game selection (announced in July)
+  - Brown's next start in the Giants series (Saturday June 6 per rotation)
+  - ERA tracking through June if it stays sub-2.10
+
+### STORY 4: NL Central Update — Cubs 33-30, June Is Critical
+- **Angle:** FOLLOW UP (NL Central standings; fresh angle = Cubs at 33-30 with 22 sub-.500 June opponents ahead)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update after each Giants series game
+  - Brewers record tracking (if they lose, gap narrows; Cubs need to capitalize)
+
+### STORY 5: Rotation Returns — Cabrera Today, Boyd Final Rehab Saturday
+- **Angle:** FOLLOW UP (rotation health arc; new angle = double return confirmed: Cabrera starts Game 1 today, Boyd final Iowa rehab Saturday)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster update)
+- **Follow-Up Opportunities:**
+  - Boyd activation date (following Saturday June 6 rehab start)
+  - Cabrera's outing result vs Giants (ERA/IP post-return)
+  - Taillon and Wicks status if one gets demoted when Boyd activates
+
+### STORY 6: Cubs Circling Freddy Peralta — Trade Buzz
+- **Angle:** NEW STORY (Peralta-to-Cubs trade reports; Cubs talked to Mets; Counsell connection)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, trade rumor analysis)
+- **Follow-Up Opportunities:**
+  - Peralta trade deadline if Mets become sellers
+  - Any follow-up reports from Bleacher Nation / Evan Longoria / Bruce Levine
+  - Counsell press conference quotes on deadline plans (late June/July)
+
+---
+
 ## 2026-06-03
 
 ### STORY 1: Athletics 2, Cubs 1 — Gage Jump First Career Win

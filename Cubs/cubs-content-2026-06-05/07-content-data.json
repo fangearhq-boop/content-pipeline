@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-05",
+  "compiled_at": "2026-06-05T09:26:31.493475+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview: Cubs vs Giants",
+      "type": "X text post"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Cubs 7, A's 6 walk-off recap",
+      "type": "X text post"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Ben Brown All-Star case",
+      "type": "X text post"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "NL Central update",
+      "type": "X text post"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Rotation returns: Cabrera + Boyd",
+      "type": "X text post"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Peralta trade buzz",
+      "type": "X text post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs vs Giants, 3 Games at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (Giants series starts today; mandated series-preview slot per is_series_start_today=true)",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Cubs vs. Giants — 3 games at Wrigley starts today. First pitch 1:20 PM CT.\n\nSF went 2-1 vs Milwaukee last week. Cubs (33-30) can't take this series lightly.\nCabrera makes his IL-return start against Robbie Ray.\n\nWrigley in June. DON'T waste it. 🚩\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative series preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs vs Giants (3 Games at Wrigley)\n**Status:** NEW STORY (Giants series starts today — no prior coverage this week)\n**Tier:** 1 (series start + mandated 7:00 AM slot)\n**Facts:**\n- Series: Cubs vs Giants, 3 games at Wrigley Field (June 5-7/8)\n- Game 1: Friday June 5, 1:20 PM CT [HIGH — series-context.json]\n- Probable starters: Edward Cabrera (Cubs, 3-2, 4.00 ERA) vs Robbie Ray (Giants, 3-6, 4.45 ERA) [MEDIUM — Cubs listed as TBA initially but multiple preview sources confirm Cabrera; Bleacher Nation preview published June 3 confirms this matchup]\n- Giants record: 25-38 [HIGH — series-context.json]\n- Cubs record: 33-30 [HIGH — series-context.json]\n- Giants took 2-of-3 from Milwaukee last week including 12-9 win Thursday [MEDIUM — from AI search summary; should be verified against box scores]\n- Edward Cabrera IL stint: placed May 24 (retroactive to May 21), blister on right middle finger; 15-day minimum = eligible June 5 [HIGH — multiple reports confirm]\n- Robbie Ray: Tommy John surgery 2023; All-Star 2025; first healthy full season back; rental (free agent after 2026) [MEDIUM — ESPN/FanGraphs]\n- Cubs are -162 ML favorites; O/U 11 [LOW — betting odds, not primary fact]\n**Freshness:** Sources from June 3-5; game info from series-context.json generated June 5\n**Why it matters:** Series start mandates 7:00 AM preview. Giants are a sub-.500 team but just beat the Brewers — not a guaranteed win. Cubs need to take this series to keep pace in the NL Central.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs 7, Athletics 6 — Walk-off WIN, PCA Hero and Goat",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (June 4 walk-off win — first coverage of this game result)",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "PCA lost the ball in the lights. Then he WON IT at the plate.\n\nDown 6-1 to the A's, the Cubs scored 4 in the 9th.\nCrow-Armstrong's bloop single scored Suzuki — Cubs 7, A's 6. Walk-off. 🚩\n\nThat's what this Wrigley team does.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold/emotional game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 7, Athletics 6 — Walk-off Comeback\n**Status:** NEW STORY (June 4 game result; no coverage yet in pipeline)\n**Tier:** 1 (walk-off wins are always Tier 1; \"WalkOff\" qualifier per playbook)\n**Facts:**\n- Final score: Cubs 7, Athletics 6 [HIGH — ESPN, ESPN recap, Cubs Insider, ClutchPoints all confirm]\n- Cubs trailed 6-1 (at some point entering the late innings — sources say \"down 6-1 in the 7th\" in one description, another says \"down 6-1 entering the 9th\") [MEDIUM — slight discrepancy; need to verify exact inning of deficit]\n- Cubs scored 4 runs in the 9th inning; had 7 hits in the 9th after only 4 hits in first 8 innings [HIGH — Cubs Insider, ESPN]\n- Walk-off: PCA bloop RBI single, scored Seiya Suzuki [HIGH — ClutchPoints, Yahoo Sports confirm specific hit]\n- PCA blunder: lost a fly ball in the lights, allowing inside-the-park HR (two runners scored) [HIGH — Yahoo Sports headline \"Pete Crow-Armstrong allows inside-the-park homer\"; confirmed by multiple sources]\n- A's HR-heavy: Shea Langeliers ×2, Todd Soderstrom, Jonah Heim among A's HRs [MEDIUM — AI summary; Langeliers inside-the-park confirmed by sources]\n- J.T. Ginn: A's pitcher, 6 IP, 8 K [MEDIUM — search AI summary]\n- Cubs record after: 33-30 [HIGH — series-context.json]\n- Cubs finished the A's series 2-1 (series win) [HIGH — June 3 was 5-4 loss per story-history; June 4 was 7-6 win]\n**CRITICAL FACT TO VERIFY:** Was the deficit \"6-1 in the 7th\" or \"6-1 entering the 9th\"? Sources conflict slightly. One says \"trailing 6-1 in the 7th\" and another says \"just four hits in the first eight innings.\" Using \"down 6-1\" without specifying the exact inning is safer.\n**Freshness:** June 4 game (less than 24 hours old)\n**Why it matters:** Walk-offs are peak fan emotion. PCA hero-and-goat narrative is perfect storytelling. Cubs come back from a 5-run deficit on the road... wait, this was at WRIGLEY (home). Yes — Cubs home game. The narrative plays even better.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ben Brown — 2.01 ERA, All-Star Case",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (Ben Brown ace narrative; new angle = All-Star case per Sun-Times June 4 article)",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Ben Brown: 2.01 ERA. 47 strikeouts. 44.2 innings. All without any help. 🔥\n\nWhile Horton had surgery and Boyd was in Iowa rehabbing, Brown was CARRYING this rotation alone.\n\nHis All-Star case is already made.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Stat-backed bold take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ben Brown — 2.01 ERA, All-Star Case\n**Status:** FOLLOW UP (Ben Brown ace narrative; story-history has June 1 + May 31 entries; new angle = All-Star case per June 4 Sun-Times article)\n**Tier:** 2\n**Facts:**\n- ERA: 2.01 (per Chicago Sun-Times, June 4) [MEDIUM — single source, June 4 article; previous pipeline had 1.92 ERA as of June 1 starts; 2.01 is slight uptick, consistent with timeline]\n- Strikeouts: 47 [MEDIUM — Sun-Times June 4]\n- Innings pitched: 44.2 (as starter) [MEDIUM — Sun-Times; June 1 pipeline noted 51.2 IP in 16 appearances including relief]\n- 0 HR allowed: noted in June 1 pipeline entry; cannot confirm this still holds through June 4 without box score verification [LOW — flag for fact-check]\n- \"Ranked sixth in baseball\" among ERA leaders — from one search result; likely based on ≥50 IP qualifier; may not apply at 44.2 IP [LOW — needs 2nd source verification]\n- Chicago Sun-Times published All-Star story on June 4: \"Ben Brown has surprised as Cubs' best pitcher, is All-Star Game next?\" [HIGH — headline confirmed in search]\n- Brown is 26 years old [MEDIUM — needs primary-source verification per protocol]\n- New two-seam fastball driving improvement per mlb.com article [HIGH — mlb.com headline]\n- Brown's prior season ERA: 5.92 (search states \"dramatic improvement from previous season\") [MEDIUM — single source]\n**Freshness:** Sun-Times article from June 4 (24 hours old — borderline; but game-day article)\n**Why it matters:** Fans tracking Cubs' rotation health; Brown has been quietly excellent. All-Star case is compelling after roster struggles. Midday slot (12:00 PM) in winning window per insights.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "NL Central Update — Cubs 33-30, June Is the Window",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (NL Central standings tracking; fresh angle = Cubs at 33-30 entering June's favorable schedule)",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "NL Central check, June 5:\n\nCubs sit at 33-30, about 5.5 games behind Milwaukee.\nTheir June slate has 22 sub-.500 opponents. There's no better stretch to gain ground.\n\nWhat the Cubs do this month DECIDES the season. ⚾\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Analysis / standings context",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Central Update — Cubs 33-30, June Is Critical\n**Status:** FOLLOW UP (NL Central tracking; story-history June 3 had Brewers 36-22, Cubs 5.5 GB; new fact: Cubs won June 4 walk-off = 33-30)\n**Tier:** 2\n**Facts:**\n- Cubs: 33-30 [HIGH — series-context.json]\n- Brewers: ~36-22 approximate (were 35-21 on June 1 per Brew Crew Ball Week 10; Brew Crew Ball says \"Brewers went 5-1 last week\" around Week 10, which covers early June; after June 4 Brewers game, likely 36-22 or 37-22) [MEDIUM — cannot confirm exact Brewers June 5 record without live standings]\n- Cubs gap from Brewers: ~5-5.5 games back [MEDIUM — story-history confirmed 5.5 GB on June 3; Cubs won one game since; Brewers result June 4 not confirmed]\n- June schedule: Cubs' next 22 opponents have losing records (A's, Giants, Rockies, Blue Jays, Mets) per Sun-Times June 1 article [MEDIUM — single source, published June 1; schedule accurate but opponents' current records may vary slightly]\n- Cardinals: ~31-26 approximate (were 31-26 on June 1; Brewers swept them ~Week 10, so Cardinals might be around 31-27 to 32-28 now) [LOW-MEDIUM — no fresh Cardinals record source]\n**Freshness:** Cubs record current (June 5); Brewers estimate based on June 1 + recent form\n**Why it matters:** Context for June's importance. Cubs fans need to know where the team stands and why this stretch matters.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Rotation Returns — Cabrera Today, Boyd Final Rehab Saturday",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (rotation health arc; new angle = double-return confirmed: Cabrera starts today, Boyd final Iowa rehab start Saturday then activation)",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "EDWARD CABRERA is starting today for the Cubs — back from a blister IL stint (3-2, 4.00 ERA).\n\nMatthew Boyd makes his final Iowa rehab start Saturday. Activation is coming.\n\nThis rotation is no longer on life support. 💪\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative roster update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rotation Returns — Cabrera Today, Boyd Saturday\n**Status:** FOLLOW UP (rotation health arc; story-history has multiple rotation entries; new angle = confirmed return dates, double-return narrative)\n**Tier:** 2\n**Facts:**\n- Edward Cabrera: 3-2, 4.00 ERA for Cubs in 2026 before IL [HIGH — Bleacher Nation preview, multiple sources]\n- Cabrera IL: May 21 (retroactive), blister on right middle finger; 15-day minimum = eligible June 5 [HIGH — multiple reports]\n- Cabrera starts Game 1 today [HIGH — multiple preview sources]\n- Matthew Boyd: 2025 All-Star, Opening Day starter 2026; meniscus surgery May 2026 [HIGH — Sun-Times]\n- Boyd rehab: First start May 31 (4 IP, 2 ER, 63 pitches at Iowa per story-history); second start scheduled Saturday June 7 at Iowa [HIGH — story-history + Bleacher Nation/Yardbarker confirm \"two rehab starts before return\"]\n- Boyd activation: \"good to go\" after second rehab start per Counsell; activation imminent (likely week of June 8-15) [MEDIUM — Craig Counsell quote from search results]\n- Jordan Wicks: optioned back to minors with 15.63 ERA [HIGH — Sun-Times]\n- Cole Ferguson: recalled [MEDIUM — Sun-Times]\n- Cade Horton: Tommy John surgery, out ~16 months [HIGH — multiple reports]\n**Freshness:** Cabrera return information current (June 5 eligible date); Boyd timeline matches story-history entries\n**Why it matters:** Rotation depth has been the Cubs' Achilles heel. Double-return of Cabrera + imminent Boyd is the biggest rotation development since Horton went down.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Cubs Circling Freddy Peralta — Trade Buzz",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (Peralta-to-Cubs trade reports — Counsell connection, Mets rental angle)",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Reports: Cubs have discussed acquiring FREDDY PERALTA from the Mets.\n\nHe's a free agent after this season. Counsell managed him in Milwaukee for 5 years.\nEven with Cabrera and Boyd returning, this rotation needs another arm.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Analysis / trade rumor",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs-Mets Peralta Trade Buzz\n**Status:** NEW STORY (Peralta angle specific to Mets — previous MLB rotation rumors covered without naming Peralta specifically)\n**Tier:** 3\n**Facts:**\n- Reports: Cubs discussed Freddy Peralta with the New York Mets [MEDIUM — Bleacher Nation reports per Bruce Levine; Cubs source denied specific Peralta talks (BN update says \"(Or Not?)\") — conflict; multiple outlets repeated the report]\n- Freddy Peralta: now with the New York Mets (traded from Brewers) [HIGH — multiple sources confirm Mets/Peralta connection]\n- Peralta age: 30 (turns 30 in July 2026) [MEDIUM — CBS Sports notes \"30 next month\" in context of deadline candidates]\n- Free agent after 2026 season [HIGH — multiple sources]\n- Craig Counsell managed Peralta in Milwaukee, 2019-2023 (overlapped ~5 seasons) [HIGH — confirmed by multiple sources referencing Counsell connection]\n- Counsell left Milwaukee after 2023 to join Cubs [HIGH — well-documented]\n- Peralta's salary: $15.5M [MEDIUM — Heavy.com headline]\n- Mets situation: bad record (entering play at 14-23 at one point); potential sellers at deadline [MEDIUM — CBS Sports, SI]\n- Robbie Ray (Giants starter today) also mentioned as Cubs trade target [MEDIUM — search results; noted as irony angle but too speculative for today's tweet]\n**Freshness:** Trade reports from May 8 (Bleacher Nation) plus multiple subsequent reports. Not 24-hour-fresh strictly, but: (a) Tier 3 story; (b) ongoing rumor arc; (c) Cubs still 33-30 and needing rotation help with active context\n**Note:** Flag as reports/rumors only. Do not state as fact that talks occurred definitively. Use hedge language.\n**Why it matters:** Cubs fans tracking deadline moves; Counsell connection makes this compelling even as a rumor; Peralta is a high-upside rental who could push Cubs into October.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
