@@ -4,7 +4,7 @@
 
 ---
 
-## STORY 1: NBA Finals Game 2 Preview — Spurs Must Respond
+### STORY 1: NBA Finals Game 2 Preview — Spurs Must Respond
 
 #### Text Post 1 — 9:00 AM ET
 
@@ -32,7 +32,7 @@ Just saying. #NBAFinals #Knicks #Spurs
 
 ---
 
-## STORY 2: Josh Hart — Larry Bird Moment
+### STORY 2: Josh Hart — Larry Bird Moment
 
 #### Text Post 1 — 11:00 AM ET
 
@@ -49,7 +49,7 @@ No. 1 never scored much. No. 1 doesn't need to. #Knicks #NBAFinals
 
 ---
 
-## STORY 3: Wembanyama Adjustments
+### STORY 3: Wembanyama Adjustments
 
 #### Text Post 1 — 11:00 AM ET
 
@@ -64,7 +64,7 @@ Game 2 tonight 8:30 ET. We find out. #Spurs #NBAFinals
 
 ---
 
-## STORY 4: 2026 NBA Draft
+### STORY 4: 2026 NBA Draft
 
 #### Text Post 1 — 1:00 PM ET
 
@@ -81,7 +81,7 @@ New era? 👀 #NBADraft2026
 
 ---
 
-## STORY 5: Giannis Trade Rumors
+### STORY 5: Giannis Trade Rumors
 
 #### Text Post 1 — 1:00 PM ET
 
@@ -98,7 +98,7 @@ Decision expected around the June 23 draft. The Giannis era in Milwaukee may be 
 
 ---
 
-## STORY 1: NBA Finals Game 2 — TOBI
+### STORY 1: NBA Finals Game 2 — TOBI
 
 #### Text Post 1 — 4:00 PM ET
 

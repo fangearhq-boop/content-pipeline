@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "date": "2026-06-05",
-  "compiled_at": "2026-06-05T11:17:16.037133+00:00",
+  "compiled_at": "2026-06-05T11:38:01.797639+00:00",
   "niche": {
     "brand_name": "Hoop Heroes",
     "brand_short": "HH",
@@ -46,6 +46,17 @@
             "#Spurs"
           ],
           "char_count": 205
+        },
+        {
+          "label": "Post 1",
+          "text": "The Spurs were 25.6% from 3 and had 16 assists in Game 1.\n\nThat's not Wemby's problem — that's a whole team problem.\n\nSan Antonio needs to be San Antonio tonight. Ball movement. Vassell from deep. Wemby in the paint.\n\n8:30 PM on ABC. #Spurs #NBAFinals",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Spurs",
+            "#NBAFinals"
+          ],
+          "char_count": 251
         }
       ],
       "facebook": {
@@ -262,7 +273,7 @@
   ],
   "pipeline_stats": {
     "total_stories": 5,
-    "x_posts_count": 6,
+    "x_posts_count": 7,
     "facebook_posts_count": 5,
     "articles_count": 5,
     "image_concepts_count": 7
