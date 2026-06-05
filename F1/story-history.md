@@ -2238,3 +2238,49 @@
 - **Key facts:** Aston Martin revealed Monaco special livery; British Racing Green base with Monaco-specific elements; Lance Stroll driver; AMR26 setup philosophy may suit Monaco demands
 - **Status:** NEW STORY
 - **Follow-up ideas:** Stroll Monaco qualifying; visual coverage during race
+
+---
+## 2026-06-05
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-05 | T1 | Monaco FP1 — Leclerc fastest (1:11.964) despite Stroll collision; Stroll found wholly at fault + 1-place grid drop; Norris P3; Ferrari leads opening practice | X, FB, Article | NEW STORY |
+| 2026-06-05 | T1 | Norris and Leclerc summoned to FIA stewards for late press conference attendance (Article B10.1.1a); hearing 10:10 local before FP1; likely fine only | X, FB, Article | NEW STORY |
+| 2026-06-05 | T2 | Antonelli vs Russell — Mercedes confirms no team orders; "race freely with respect"; Antonelli 43-pt lead; Russell tipped for Monaco; Antonelli: "I don't feel this pressure" | X, FB, Article | NEW STORY |
+| 2026-06-05 | T2 | Verstappen exit clause — 7th in standings (~43 pts); clause allows departure if outside top-2 by end of July; first podium Canada P3; Red Bull still struggling | X, FB, Article | FOLLOW UP |
+| 2026-06-05 | T2 | Ferrari Monaco — Leclerc +185 favorite; 2024 Monaco winner; FP1 fastest; Hamilton P2 Canada; no Ferrari wins in 2026; active aero ban neutral at Monaco; race June 7 9 AM ET Apple TV+ | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Monaco FP1 — Leclerc Fastest Despite Stroll
+- **Tier:** 1
+- **Category:** Monaco GP / Practice
+- **Key facts:** Leclerc 1:11.964 fastest; 0.163s over Verstappen (P2); Norris P3; collision at Loewes Hairpin after 9 min; red flag; Stroll wholly at fault → 1-place grid drop + gearbox change (additional 5-place drop); Leclerc broke front wing but topped session
+- **Status:** NEW STORY
+- **Follow-up ideas:** FP2 results; qualifying Saturday; race result
+
+### STORY 2: Norris and Leclerc FIA Summons
+- **Tier:** 1
+- **Category:** Monaco GP / FIA / Stewards
+- **Key facts:** Both summoned for late press conference attendance (Article B10.1.1a); hearing 10:10 local Friday before FP1; expected fine; McLaren team rep also summoned; press conference was delayed ~2 minutes
+- **Status:** NEW STORY
+- **Follow-up ideas:** Actual penalty outcome
+
+### STORY 3: Antonelli vs Russell — No Team Orders
+- **Tier:** 2
+- **Category:** Championship Fight / Mercedes
+- **Key facts:** After Canada on-track battle, team review → "race freely with respect, no hard rules"; Antonelli 131 pts/Russell 88 pts (43-pt gap); Antonelli: "I don't feel this pressure"; Russell tipped for Monaco; parallels to Hamilton-Rosberg era noted
+- **Status:** NEW STORY
+- **Follow-up ideas:** Monaco result for both; if team orders become necessary
+
+### STORY 4: Verstappen Exit Clause
+- **Tier:** 2
+- **Category:** Driver News / Red Bull
+- **Key facts:** Verstappen 7th (~43 pts); exit clause = top-2 required by end of July 2026; clause negotiated due to 2026 regulation concerns; first podium Canada P3; Red Bull RB22 uncompetitive all season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen activates clause or commits to Red Bull; upgrade package result
+
+### STORY 5: Ferrari Monaco Advantage
+- **Tier:** 2
+- **Category:** Monaco GP / Ferrari
+- **Key facts:** Leclerc +185 favorite; 2024 Monaco winner; FP1 fastest (1:11.964); Hamilton P2 Canada; Ferrari 0 wins in 2026; active aero ban neutral at Monaco (no section meets 3-sec threshold); race June 7 9 AM ET Apple TV+
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result; race result
