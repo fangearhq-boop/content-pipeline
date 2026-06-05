@@ -1,42 +1,58 @@
 {
-  "generated_at": "2026-06-04T08:30:00.515735+00:00",
-  "today_ct": "2026-06-04",
+  "generated_at": "2026-06-05T08:30:00.531652+00:00",
+  "today_ct": "2026-06-05",
   "off_day": false,
-  "is_series_start_today": false,
+  "is_series_start_today": true,
   "series": {
-    "opponent": "Athletics",
-    "opponent_id": 133,
-    "opponent_record": "30-31",
-    "cubs_record": "32-30",
+    "opponent": "San Francisco Giants",
+    "opponent_id": 137,
+    "opponent_record": "25-38",
+    "cubs_record": "33-30",
     "is_cubs_home": true,
     "venue": "Wrigley Field",
-    "series_length": 1,
+    "series_length": 3,
     "games": [
       {
-        "game_pk": "824672",
-        "game_date_iso": "2026-06-05T00:05:00Z",
-        "game_date_ct": "Thu 7:05 PM CT",
+        "game_pk": "824673",
+        "game_date_iso": "2026-06-05T18:20:00Z",
+        "game_date_ct": "Fri 1:20 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824669",
+        "game_date_iso": "2026-06-06T18:20:00Z",
+        "game_date_ct": "Sat 1:20 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824670",
+        "game_date_iso": "2026-06-08T00:30:00Z",
+        "game_date_ct": "Sun 7:30 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (Athletics) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Yesterday vs Athletics; today vs San Francisco Giants \u2192 game 1 of 3 (home)."
   },
   "today_cubs_game": {
-    "game_pk": "824672",
+    "game_pk": "824673",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-06-05T00:05:00Z",
-    "game_date_ct": "Thu 7:05 PM CT",
+    "game_date_iso": "2026-06-05T18:20:00Z",
+    "game_date_ct": "Fri 1:20 PM CT",
     "is_cubs_home": true,
-    "opponent_id": 133,
-    "opponent_name": "Athletics",
-    "opponent_record": "30-31",
-    "cubs_record": "32-30",
+    "opponent_id": 137,
+    "opponent_name": "San Francisco Giants",
+    "opponent_record": "25-38",
+    "cubs_record": "33-30",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Wrigley Field"
   },
-  "rationale": "Same opponent (Athletics) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Yesterday vs Athletics; today vs San Francisco Giants \u2192 game 1 of 3 (home)."
 }
