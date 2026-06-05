@@ -2499,3 +2499,49 @@
 - **Key facts:** Shams: Bucks "open for business on trade calls" for Giannis; Miami and Portland "already in pursuit"; Heat package: Herro + Ware + picks through 2032; Portland unlikely (Eastern preference); Cavs internal split over Mobley; market described as "tepid" so far; timeline: June 23 draft
 - **Status:** NEW STORY
 - **Follow-up ideas:** Giannis trade finalized; Heat or other landing spot confirmed
+
+---
+## 2026-06-05
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-05 | T1 | NBA Finals Game 2 Preview — Wemby vows "play normal"; Shaq: attack the paint; Spurs shot 25.6% from 3/16 AST in Game 1; Knicks +180 underdogs again; 8:30 PM ET ABC | X, FB, Article | FOLLOW UP |
+| 2026-06-05 | T1 | Josh Hart Larry Bird moment — first player since Bird (1986 Finals Game 3: 25/15/11/4 vs Rockets) with 15+ reb/6+ ast/4+ stl in Finals game; Brunson calls him "a kid"; Knicks +22 in his 27 min | X, FB, Article | NEW STORY |
+| 2026-06-05 | T2 | Wembanyama Game 2 adjustments — 6-21 FG/6 TOV in Game 1; limp cleared by MRI; Shaq says attack paint not jumpers; "I just have to play normal" | X, FB, Article | FOLLOW UP |
+| 2026-06-05 | T2 | 2026 NBA Draft — Wizards win No. 1 pick (first since John Wall 2010); AJ Dybantsa 25.5 PPG/51% FG at BYU, says "100% sure" he's pick; draft June 23-24 Brooklyn; top 5: Wizards, Jazz, Grizzlies, Bulls, Clippers | X, FB, Article | NEW STORY |
+| 2026-06-05 | T2 | Giannis trade: Heat now frontrunners per multiple insiders; Bam only player off limits; Bucks "open for business"; Portland unlikely (Eastern preference); decision near June 23 draft | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA Finals Game 2 Preview
+- **Tier:** 1
+- **Category:** NBA Finals / Game Preview
+- **Key facts:** Game 2: June 5 8:30 PM ET ABC Frost Bank Center; Spurs -5.5/Knicks +180; total 214.5; Wemby: "I just have to play normal" + "I'm not worried"; Shaq: attack the paint not jumpers; Spurs shot 25.6% from 3 / 16 AST in Game 1; Wemby 6-21 FG/6 TOV; limp cleared by MRI
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 2 result/recap; Wemby actual Game 2 line
+
+### STORY 2: Josh Hart — Larry Bird Moment
+- **Tier:** 1
+- **Category:** Player Feature / Knicks
+- **Key facts:** Hart Game 1: 3 pts/15 reb/6 ast/4 stl/1 blk in 27 min; Knicks +22; first since Larry Bird (1986 Finals Game 3 vs Rockets: 25/15/11/4) with 15+ reb/6+ ast/4+ stl in Finals game; Brunson called him "a kid"; corralled Wemby late turnover
+- **Status:** NEW STORY
+- **Follow-up ideas:** Hart overall Finals line if Knicks advance; Thibodeau on Hart's role
+
+### STORY 3: Wembanyama Game 2 Adjustments
+- **Tier:** 2
+- **Category:** Player Analysis / Spurs
+- **Key facts:** Wemby: "I just have to play normal" / "I'm not worried"; Shaq: attack the paint; Spurs 25.6% from 3/16 AST in Game 1; Wemby 6-21 FG/6 TOV; limped in 3rd (MRI clear); fatigue in final 6 min; mental reset required
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Wemby actual Game 2 performance
+
+### STORY 4: 2026 NBA Draft — Wizards No. 1 Pick
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** Wizards win 2026 Draft Lottery (14.0% odds, 17-65 record); first No. 1 since John Wall 2010; AJ Dybantsa (BYU): 25.5 PPG/51.0% FG, 6'9" 210 lbs, "100% sure" he's Wizards' pick; top 5: Wizards, Jazz, Grizzlies, Bulls, Clippers; draft June 23-24 Brooklyn; some pre-draft uncertainty per combine intel
+- **Status:** NEW STORY
+- **Follow-up ideas:** Dybantsa officially drafted June 23; Wizards' pick night coverage
+
+### STORY 5: Giannis Trade — Heat Frontrunners
+- **Tier:** 2
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Multiple insiders say Heat are frontrunners; Bam Adebayo only player off limits; Bucks "open for business" (Shams); Portland unlikely (Eastern preference); Giannis 2 yrs left/PO, eligible for 4-yr/$275M extension Oct. 1; timeline: June 23 draft
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Giannis trade finalized; confirmed landing spot
