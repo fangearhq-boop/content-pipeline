@@ -1,0 +1,322 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-05",
+  "compiled_at": "2026-06-05T10:21:15.093742+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "9:10 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 5",
+      "type": "FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 1",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Texas Wins 2026 WCWS Title, Sweeps Texas Tech 4-1 in Game 2",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Texas wins. Back-to-back national champions. 🥎\n\nLonghorns 4, Texas Tech 1 in Game 2.\n\nKayden Henry HR. Kavan closes it out with 5 Ks.\n\nSweep. Dynasty. The best team in college softball. 🤠\n\n#HookEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS"
+          ],
+          "char_count": 202
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Back-to-back national titles. Texas has done it.\n\nThe Longhorns swept Texas Tech in the WCWS Championship Series — 7-3, 4-1.\n\nFifth program in history to win consecutive Women's College World Series titles. 🥎\n\n#HookEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "Texas is the national champion — again.\n\nThe Longhorns defeated Texas Tech 4-1 in Game 2 of the WCWS Championship Series last night, sweeping the series and claiming their second consecutive Women's College World Series title. It wasn't easy, and it wasn't always pretty, but Texas found a way — just like they did in 2025.\n\nTexas Tech took the lead first. The Red Raiders scored in the third inning and held a 1-0 advantage into the middle innings. But in the fifth, the Longhorns chipped away with two runs on a Texas Tech throwing error, taking a 2-1 lead they would not give back. Kayden Henry put it out of reach in the seventh with an opposite-field home run, and Texas added another run for the 4-1 final.\n\nCoach Mike White made a gutsy call to start Citlaly Gutierrez instead of ace Teagan Kavan. The gamble worked. Gutierrez went three innings, freshman Hannah Wells bridged, and Kavan came in for the final two innings — striking out five of the last six batters she faced.\n\nTwo championships. Two sweeps in the finals. Texas softball is not playing around.\n\nWho was your MVP of the 2026 WCWS? Drop your pick below! ⬇️",
+        "image_caption": "Texas 4, Texas Tech 1. Back-to-back national champions. The dynasty is real. 🥎 #HookEm #WCWS",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-texas-wins-2026-wcws-championship-back-to-back.html",
+        "headline": "Texas Claims Back-to-Back WCWS Titles With 4-1 Win Over Texas Tech in Game 2",
+        "word_count": 520
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Wins 2026 WCWS Championship — Back-to-Back\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Texas players celebrating at Devon Park after Game 2 clincher — team pile, trophy presentation, or Kavan and teammates in jubilation\n- **Photo Search Terms (Imagn):**\n  1. Texas Longhorns softball championship\n  2. Teagan Kavan Texas celebration\n  3. Kayden Henry Texas softball\n- **Text Overlay Copy:**\n  - Headline: \"BACK-TO-BACK CHAMPS\" (white, Bebas Neue)\n  - Subtitle: \"Texas 4, Texas Tech 1 · 2026 WCWS Champions\" (#FFD700 gold, Montserrat)\n- **Composition Notes:** Team celebration or trophy moment. Dark navy overlay bar on bottom third. Triumphant energy.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Texas Longhorns softball\n- **Text Overlay:** Same as social but landscape layout\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Teagan Kavan Becomes First Two-Time MOP in WCWS History",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Teagan Kavan is the first two-time Most Outstanding Player in WCWS history.\n\nNo one has ever done it twice. She just did it back-to-back.\n\n2026 WCWS: 4-1, 1.47 ERA, 30 Ks in 33 innings. Flawless. 🔐\n\n#HookEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kavan's 2026 WCWS numbers: 4-1, 1.47 ERA, 30 Ks.\n\nShe closed out the championship with 5 strikeouts in 2 innings.\n\nFirst pitcher in history to win the WCWS MOP award twice. 🔐\n\n#HookEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS"
+          ],
+          "char_count": 189
+        }
+      ],
+      "facebook": {
+        "long_form": "Teagan Kavan made history last night — again.\n\nFor the second consecutive year, the Texas ace was named Most Outstanding Player of the Women's College World Series. That has never happened before. Not once in the tournament's history. Kavan is the first pitcher ever to earn back-to-back WCWS MOP honors.\n\nHer 2026 tournament numbers tell the story: 4-1 record, two saves, 1.47 ERA, and 30 strikeouts in 33.1 innings pitched. She threw a complete game in Game 1 of the championship series, allowing three hits in a 7-3 win. In Game 2, she came in relief in the final two innings and struck out five batters to seal the title.\n\nWhat made Thursday night even more remarkable is that her coach held her back — starting Citlaly Gutierrez to protect Kavan's arm — and she responded with a shutdown performance when the moment demanded it most.\n\nKavan arrived in Austin as one of the most hyped pitchers in the country. She has exceeded every expectation twice over. Two national championships. Two MOP awards. She is, without question, one of the greatest to ever take the circle at the Women's College World Series.\n\nHere's to you, Teagan. 🔐",
+        "image_caption": "First pitcher in WCWS history to win MOP back-to-back. Teagan Kavan is in a class by herself. 🔐 #HookEm #WCWS",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-teagan-kavan-first-two-time-wcws-mop-history.html",
+        "headline": "Teagan Kavan Makes History as First Two-Time WCWS Most Outstanding Player",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Teagan Kavan — First Two-Time WCWS MOP\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Teagan Kavan holding MOP trophy or celebrating after the final out — triumphant pose\n- **Photo Search Terms (Imagn):**\n  1. Teagan Kavan Texas\n  2. Teagan Kavan pitching\n- **Text Overlay Copy:**\n  - Headline: \"HISTORY MADE\" (white, Bebas Neue)\n  - Subtitle: \"Kavan — First Two-Time WCWS MOP Ever\" (#FFD700 gold, Montserrat)\n- **Composition Notes:** Individual portrait. Strong emotion or trophy moment ideal. Vertical framing allows for full-length player shot.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Teagan Kavan Texas\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Texas Is the Fifth Program in History to Win Back-to-Back WCWS Titles",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Texas is now one of five programs in history to win back-to-back Women's College World Series titles.\n\nThat list is short for a reason. What the Longhorns are doing is rare.\n\n#HookEm #WCWS #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS",
+            "#CollegeSoftball"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "Back-to-back national championships. Say it out loud. That is one of the rarest things in college softball.\n\nTexas is now one of only five programs in the entire history of the Women's College World Series to win consecutive national titles. The list is short because it is so incredibly hard to do. Champions lose key players to graduation, to the AUSL, to fatigue. Opponents study you for a full year. The pressure to repeat is immense.\n\nTexas did it anyway.\n\nThis Longhorn program — built by coach Mike White, anchored by Teagan Kavan on the mound and Katie Stewart and Kayden Henry in the lineup — swept Texas Tech in the 2026 championship series. The Red Raiders brought everything they had: NiJaree Canady, a No. 11 seed with a 63-10 record, two victories over No. 1 Alabama. And they still couldn't dethrone the reigning champions.\n\nThe five programs to win back-to-back WCWS titles represent the absolute elite of college softball history. Texas joined that list last night.\n\nWhat does it take to build something like this? Depth. Pitching. Clutch players in clutch moments. Mike White has all three.\n\nThe dynasty conversation is now officially open. 🥎",
+        "image_caption": "Fifth program in WCWS history to win back-to-back. Texas belongs in the all-time elite. 🥎 #HookEm #WCWS #CollegeSoftball",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-texas-fifth-program-back-to-back-wcws-titles.html",
+        "headline": "Texas Joins Elite Company as Fifth Program to Win Back-to-Back WCWS Championships",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Fifth Program in History With Back-to-Back WCWS Titles\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Texas team or coaching staff with championship trophy — dynasty imagery\n- **Photo Search Terms (Imagn):**\n  1. Texas Longhorns softball\n  2. Mike White Texas softball coach\n- **Text Overlay Copy:**\n  - Headline: \"BACK-TO-BACK\" (white, Bebas Neue)\n  - Subtitle: \"5th Program in History to Win Consecutive WCWS Titles\" (#FFD700 gold, Montserrat)\n- **Composition Notes:** Could use coach-players handshake/celebration or trophy double-exposure style. Prestige feel.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Texas Longhorns softball championship\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "NiJaree Canady's College Career Ends — A Legacy Without a Ring",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "NiJaree Canady's college career is over.\n\nNCAA-record 19 WCWS games. 100+ wins. 1,000+ strikeouts.\n\nShe didn't get the title — but she gave everything she had every time she took the circle. 🥎\n\n#WreckEm #WCWS",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WreckEm",
+            "#WCWS"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "NiJaree Canady's college career is over, and the softball world is better for having watched every pitch.\n\nCanady appeared in an NCAA-record 19 Women's College World Series games across her career. She transferred from Stanford to Texas Tech with one goal: win a national championship. She won over 100 games and struck out more than 1,000 batters in her college career. She is a two-time Honda Sport Award winner and multiple-time NFCA Pitcher of the Year. She was the first player to receive a golden ticket in the 2026 AUSL Draft.\n\nAnd yet, the ring that she chased for five years will belong to someone else.\n\nTexas Tech gave her every chance. The Red Raiders — a No. 11 seed who knocked out No. 1 Alabama twice — were a worthy opponent for the game's best team. Canady was brilliant throughout this tournament. She pitched a shutout to eliminate Alabama. She carried her team to the championship series.\n\nIt just wasn't enough to beat Teagan Kavan and the Longhorns.\n\nThere is no shame in that ending. Canady's legacy isn't defined by one ring she didn't win — it's defined by the thousands of strikeouts, the shutouts in the biggest moments, and the standard she set for what a pitcher in this sport can be.\n\nThe AUSL's Texas Volts are getting one of the greatest pitchers to ever play college softball. 🥎",
+        "image_caption": "100+ wins. 1,000+ Ks. NCAA-record 19 WCWS games. NiJaree Canady gave everything. 🥎 #WreckEm #WCWS",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-nijaree-canady-college-career-ends-wcws-runner-up.html",
+        "headline": "NiJaree Canady's College Career Ends as a Runner-Up — A Legacy Far Bigger Than One Ring",
+        "word_count": 510
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NiJaree Canady Career Ends\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** NiJaree Canady in Texas Tech uniform — pitching motion or emotional post-game moment\n- **Photo Search Terms (Imagn):**\n  1. NiJaree Canady Texas Tech\n  2. NiJaree Canady softball\n- **Text Overlay Copy:**\n  - Headline: \"A CAREER FOR THE AGES\" (white, Bebas Neue)\n  - Subtitle: \"100+ Wins · 1,000+ Ks · NCAA-Record 19 WCWS Games\" (#FFD700 gold, Montserrat)\n- **Composition Notes:** Portrait-style or pitching stance. Respectful, tribute tone — not defeat imagery. Focus on Canady's strength.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** NiJaree Canady Texas Tech\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "The Texas Dynasty Is Real — What Two Titles in a Row Actually Means",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Katie Stewart. Kayden Henry. Teagan Kavan. Coach Mike White.\n\nThis isn't a one-year wonder. Texas softball has built something special in Austin.\n\nBack-to-back. 🤠\n\n#HookEm #WCWS #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HookEm",
+            "#WCWS",
+            "#CollegeSoftball"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "You can say dynasty now.\n\nTwo consecutive Women's College World Series championships. Two sweeps in the championship series. Multiple program records shattered. A coaching staff that seems to always have the right answer in the biggest moments.\n\nTexas softball is the best program in the country, and they have two titles in a row to prove it.\n\nTeagan Kavan will be remembered as one of the greatest pitchers in college softball history — two-time MOP, two titles, program records that may stand for decades. Katie Stewart made WCWS history with her bat. Kayden Henry hit the home run that put Game 2 out of reach. Coach Mike White outmaneuvered his opponent with a starting pitching gamble that paid off beautifully.\n\nThis team is more than just talented. They are clutch. They are deep. They are the standard every other program is chasing.\n\nCongratulations to the 2026 national champions. Texas Longhorns. Back-to-back. 🤠🥎",
+        "image_caption": "Back-to-back. The Texas dynasty is real. 🤠 #HookEm #WCWS #CollegeSoftball",
+        "posting_time": "5:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-texas-softball-dynasty-back-to-back.html",
+        "headline": "Two Titles in a Row Proves Texas Softball Has Built Something That Lasts",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "The Texas Dynasty\n\n**Social Image (1080×1350, 4:5 vertical)**\n\n- **Visual Description:** Wide shot of Devon Park championship ceremony or Texas celebrating with both trophies\n- **Photo Search Terms (Imagn):**\n  1. Texas Longhorns softball\n  2. Texas softball team\n- **Text Overlay Copy:**\n  - Headline: \"THE DYNASTY IS REAL\" (white, Bebas Neue)\n  - Subtitle: \"Two Titles. One Program. The Standard.\" (#FFD700 gold, Montserrat)\n- **Composition Notes:** Stadium wide shot or full-team celebration. Epic scale preferred.\n\n**Article Hero (1200×630, 1.91:1 landscape)**\n\n- **Photo Search Terms (Imagn):** Texas Longhorns softball celebration"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

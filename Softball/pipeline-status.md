@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-05
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (56 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via cherry-pick after non-fast-forward resolved.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). 0 char violations. Non-fast-forward resolved via fetch + checkout main + pull + cherry-pick.
+- **Key Stories**: Texas wins 2026 WCWS back-to-back 4-1 Game 2/Gutierrez starts/Henry HR/Kavan 5 Ks to close (Tier 1), Teagan Kavan first two-time MOP in WCWS history/4-1 1.47 ERA 30 Ks 33.1 IP in 2026 tournament (Tier 1), Texas fifth program in history to win consecutive WCWS titles (Tier 2), NiJaree Canady college career ends/NCAA-record 19 WCWS games/100+ wins/1000+ Ks (Tier 2), Texas dynasty framing/Kavan Stewart Henry White (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-04
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (51 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via cherry-pick after non-fast-forward resolved.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
