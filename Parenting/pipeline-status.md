@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 5, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | TOMY Boon NURSH recall June 4 (~40,000 units, Pink Tie Dye 3-pack, item B11654, UPC 669028116546, Walmart Nov 2025–May 2026, ~$20, shell peels choking hazard, 135 reports 0 injuries, write RECALL + photo → replacement or $22 Walmart credit, recall.tomy.com/nursh, 866-725-4407, cs@tomy.com); Pikes Peak Gem Show June 5–7 (Norris Penrose Event Center 1045 Lower Gold Camp Rd, kids 12 under free, adults $5/$8, 55+ vendors, gold panning + scavenger hunt + Pebble Pups + beading 11 AM daily + wire-wrapping Sat 1 PM, pikespeakgemshow.com); D20 transportation deadline June 30 (current students May 1–June 30, new students June 8–June 30, Infinite Campus address + fee required, bus assignments Aug 1, Extended Parent Portal; budget hearing June 11 5 PM Board Meeting 1110 Chapel Hills Drive; Dr. Susan Field interim superintendent since May 19; asd20.org/buses-and-transportation); 2026 National Parent Survey (New America New Practice Lab, 5,472 parents, 72% want more time, No. 1 barrier money, $13,184/year avg child care ~25% income at 200% FPL, parental leave 10 weeks moms/2 weeks dads, 91% want to work, COS ~47K under 5 / <19K licensed spots); COS summer sun safety (6,035 ft, ~24% more UV than sea level, UV index 8–10 June/July Very High to Extreme, SPF 30+ 15 min before reapply 2 hrs, infants under 6 months no sunscreen keep out of direct sun AAP, peak 10 AM–4 PM, UPF 50+, hydration heat exhaustion signs) |
+| Story History Check | COMPLETE | 4 NEW STORIES (TOMY recall, National Parent Survey, D20 transportation+budget, COS sun safety) + 1 FOLLOW-UP (Pikes Peak Gem Show — previewed June 2; today's angle is opening day/live event coverage) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (4 Tier 1, 1 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tagging |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for Stories 1, 2, 4; 1 each for Stories 3, 5); 7 char violations fixed (second verify run passed); 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (15 concepts across 5 stories: x_image + facebook_image + article_hero per story) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — markdown list format; 15 images (social + facebook + article_hero for all 5 stories); all not_started; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks) |
+| Fact-Check | COMPLETE | verify-facts.py passed — all 5 stories present; 84 claims; 7 char violations fixed (S1A, S1B, S2A, S3A, S4A, S4B, S5A tweets); image not_started warnings cosmetic (expected) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html (28 items) |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-05.xlsx (8 posts) + TOBI cosp-postplanner-tobi-2026-06-05.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-05)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 8 X posts in PostPlanner xlsx; posting windows 13:13–20:48 (65 min apart)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-05.xlsx (8 posts), cosp-postplanner-tobi-2026-06-05.xlsx (8 TOBI posts)
+- **Coverage:** TOMY Boon NURSH recall (~40,000 units, Pink Tie Dye 3-pack, item B11654, UPC 669028116546, Walmart Nov 2025–May 2026 ~$20, plastic shell bubbles/peels choking hazard, 135 reports 0 injuries, write "RECALL" + photo + submit → replacement or $22 Walmart.com store credit, recall.tomy.com/nursh, 866-725-4407 Mon–Fri 8 AM–4 PM CT, cs@tomy.com); Pikes Peak Gem Show June 5–7 (opening day coverage, Norris Penrose Event Center 1045 Lower Gold Camp Rd, Fri–Sat 10 AM–6 PM Sun 10 AM–4 PM, kids 12 under free, adults $5/$8, 55+ vendors, gold panning + scavenger hunt + Pebble Pups + beading 11 AM daily + wire-wrapping Sat June 6 1 PM, door prizes hourly, silent auctions, pikespeakgemshow.com); D20 transportation deadline June 30 (current students May 1–June 30, new students June 8–June 30, confirm Infinite Campus address + pay fees, bus assignments Extended Parent Portal August 1; budget public hearing June 11, Study Session 3:30 PM + Board Meeting 5 PM, 1110 Chapel Hills Drive; state requires budget adoption by June 30; Dr. Susan Field interim superintendent since May 19, 19 years with D20; asd20.org/buses-and-transportation); 2026 National Parent Survey (New America New Practice Lab, 5,472 parents all 50 states, 72% want more quality time with kids, No. 1 barrier money, U.S. avg child care $13,184/year = ~25% income at 200% FPL, parental leave medians 10 weeks moms 2 weeks dads, 59% moms + 52% dads said not enough, 91% want to work, COS ~47K children under 5 / fewer than 19K licensed spots); COS summer sun safety (6,035 ft, ~24% more UV than sea level, UV index 8–10 June/July Very High to Extreme, SPF 30+ apply 15 min before + reapply every 2 hrs, infants under 6 months keep out of direct sun no sunscreen [AAP], peak hours 10 AM–4 PM, UPF 50+ clothing, heat exhaustion signs: heavy sweating + pale/cool skin + weakness + dizziness + nausea, heat stroke = 911)
+- **Notes:**
+  - verify-facts.py: 2 runs required — first run flagged 7 char violations (S1A: 312, S1B: 304, S2A: 290, S3A: 360, S4A: 297, S4B: 288, S5A: 308 chars). Fixed by rewriting all 7 posts shorter. Second run passed.
+  - compile: 5 stories, 8 X posts, 0 FB posts (PostPlanner xlsx has full 8 posts), 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 28 items
+  - PostPlanner exports: both standard (8) and TOBI (8) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: June 4, 2026
 
 | Step | Status | Notes |

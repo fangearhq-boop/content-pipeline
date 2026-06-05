@@ -2,6 +2,45 @@
 
 ---
 
+## June 5, 2026
+
+### Story 1: TOMY Boon NURSH Baby Bottle Recall — Choking Hazard, Walmart
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — TOMY International/CPSC recall issued June 4, 2026. ~40,000 Boon NURSH Silicone Bottle 8 oz 3-Packs in Pink Tie Dye. Hard plastic outer shell can bubble/peel, releasing film-like plastic pieces — choking hazard for infants. Sold at Walmart/Walmart.com Nov 2025–May 2026, ~$20. Item B11654 / UPC 669028116546. 135 reports, 0 injuries. Remedy: write "RECALL" on bottles + photograph + submit → replacement 3-pack (Pink Iridescent or Pink, subject to availability) or $22 Walmart.com store credit.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x3)
+- **Tier:** 1
+- **Key Facts:** ~40,000 units; Walmart/Walmart.com Nov 2025–May 2026; ~$20; item B11654; UPC 669028116546; Pink Tie Dye only; 135 reports, 0 injuries; recall.tomy.com/nursh; 866-725-4407 (Mon–Fri 8 AM–4 PM CT); cs@tomy.com; Source: CPSC.gov + TOMY
+
+### Story 2: Pikes Peak Gem, Mineral & Jewelry Show — Opening Day June 5–7
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP — Opening day coverage. Previously previewed June 2 as upcoming event. Today's angle: show is now live, full guide for the weekend. Annual event by Colorado Springs Mineralogical Society at Norris Penrose Event Center (1045 Lower Gold Camp Rd), June 5–7. 55+ vendors. Kids 12 under free, adults $5 one-day/$8 multi-day. Activities: gold panning, scavenger hunt, Pebble Pups, beading 11 AM daily, wire-wrapping Sat June 6 1 PM. Door prizes hourly, silent auctions.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x3)
+- **Tier:** 1
+- **Key Facts:** June 5–7; Norris Penrose Event Center 1045 Lower Gold Camp Rd; Fri–Sat 10 AM–6 PM, Sun 10 AM–4 PM; kids 12 under free, adults $5/$8; 55+ vendors; gold panning; scavenger hunt; Pebble Pups; beading 11 AM daily; wire-wrapping Sat 1 PM; door prizes hourly; pikespeakgemshow.com; Source: pikespeakgemshow.com
+
+### Story 3: D20 Transportation Deadline June 30 + Budget Hearing June 11
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Academy District 20 transportation request deadline June 30, 2026 for 2026–27 school year. Current students: window open May 1–June 30. New students: requests open June 8. All families must confirm Infinite Campus address + pay applicable fees before submitting. Bus assignments via Extended Parent Portal August 1. Also: D20 public budget hearing June 11 at Board of Education meeting, 1110 Chapel Hills Drive, Study Session 3:30 PM, Board Meeting 5 PM. Budget must be adopted by June 30 (state requirement). District operating under Interim Superintendent Dr. Susan Field (stepped in May 19 after Haberer departure).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x3)
+- **Tier:** 1
+- **Key Facts:** Transportation deadline June 30; new students open June 8; Infinite Campus address + fee required; bus assignments August 1; budget hearing June 11, 3:30 PM Study Session, 5 PM Board Meeting, 1110 Chapel Hills Drive; Dr. Susan Field interim superintendent since May 19; 19 years with D20; asd20.org/buses-and-transportation; Source: asd20.org
+
+### Story 4: 2026 National Parent Survey — 72% Want More Time With Kids, Money Is Barrier
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — New America's New Practice Lab 2026 National Parent Survey: 5,472 parents across all 50 states. 72% want more quality time with kids; No. 1 barrier is money. 75% say current work arrangement isn't what they want. Child care averages $13,184/year per child = ~25% of household income at 200% FPL. Parental leave medians: 10 weeks mothers, 2 weeks fathers; majority in both groups said not enough. 91% of parents want to work — they want more flexibility + higher wages + support. COS tie-in: ~47,000 children under 5, fewer than 19,000 licensed childcare spots.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x3)
+- **Tier:** 1
+- **Key Facts:** 5,472 parents surveyed; 72% want more quality time; 75% say work arrangement not what they want; $13,184/year avg child care = ~25% income at 200% FPL; median parental leave 10 weeks mothers / 2 weeks fathers; 59% moms / 52% dads said not enough; 91% want to work; COS: ~47K under 5, <19K licensed spots; Source: New America New Practice Lab 2026 National Parent Survey
+
+### Story 5: COS Summer Sun Safety Guide — High-Altitude UV Risk for Kids
+- **Content Pillar:** Evergreen
+- **Angle:** NEW STORY — Evergreen guide to sun safety at Colorado Springs altitude (6,035 ft). ~24% more UV than sea level; UV index 8–10 in June/July (Very High to Extreme). SPF 30+ apply 15 min before, reapply every 2 hours; infants under 6 months: no sunscreen, keep out of direct sun (AAP); peak UV 10 AM–4 PM; protective clothing UPF 50+; hydration and heat exhaustion signs. Practical guide segmented by age group with Quick Reference table.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x3)
+- **Tier:** 2
+- **Key Facts:** 6,035 ft elevation; ~24% more UV than sea level; UV index 8–10 typical June/July; SPF 30+; apply 15 min before + reapply every 2 hrs; infants under 6 months no sunscreen (AAP); peak hours 10 AM–4 PM; UPF 50+ clothing; heat exhaustion signs: heavy sweating, pale/cool skin, weakness, dizziness, nausea; heat stroke = 911; Source: EPA, AAP, ADA
+
+---
+
 ## June 4, 2026
 
 ### Story 1: Donut Day on Pikes Peak — June 6–7 Family Guide
