@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-04 |
-| Writing | Complete (all steps) | 2026-06-04 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 30 claims HIGH; image warnings cosmetic) | 2026-06-04 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 5 articles, 5 images) | 2026-06-04 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-06-04 |
-| PostPlanner Export | Complete (standard 7 posts + TOBI 7 posts) | 2026-06-04 |
-| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-06-04 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-04 |
+| Research | Complete | 2026-06-05 |
+| Writing | Complete (all steps) | 2026-06-05 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 27 claims; image warnings cosmetic) | 2026-06-05 |
+| Compile | Complete (07-content-data.json — 5 stories, 5 X posts, 5 FB posts, 5 articles, 5 images) | 2026-06-05 |
+| Dashboard | Complete (review-dashboard.html, 25 items) | 2026-06-05 |
+| PostPlanner Export | Complete (standard 8 posts + TOBI 8 posts) | 2026-06-05 |
+| WordPress Publish | Attempted — proxy blocks fanrumor.com (same as all previous runs) | 2026-06-05 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-05 |
 
 ## Queue
 
@@ -24,6 +24,19 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-05 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total
+- **Articles:** 5 (bylines: Elena Voss x2 [S1, S4], Marcus Cole x2 [S2, S5], Ryan Calloway x1 [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-05.xlsx (8 posts), tfr-postplanner-tobi-2026-06-05.xlsx (8 TOBI posts)
+- **Coverage:** Andreeva def. Kostyuk 6-1, 6-3 Women's SF (4th-youngest RG finalist in 30 years, no-handshake controversy); Chwalinska def. Shnaider 7-6(4), 6-4 (first qualifier ever in RG final, No. 114, joins Goolagong 1971/Evert 1973); Zverev vs Mensik men's SF preview (Zverev 0-3 in GS finals, Mensik 20yo first Czech GS SF ~decade, 2:30 PM Paris); Cobolli vs Arnaldi first all-Italian GS SF preview (7 PM Paris, Italy guaranteed finalist first time since Panatta 1976); Women's final preview Andreeva vs Chwalinska June 6
+- **Notes:**
+  - verify-facts.py: 1 run — passed with image not_started warnings (cosmetic/expected); 27 claims
+  - X posts required rewrite to correct code-block format (initial format was non-standard); second compile run passed cleanly
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-04 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
