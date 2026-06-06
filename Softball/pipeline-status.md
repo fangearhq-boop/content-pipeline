@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-06
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (56 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published to ilovesoftball-dashboards via publish-dashboard.py. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). FB posts compile to 0 (known heading format). 0 char violations. Non-fast-forward resolved via pull --rebase + cherry-pick. Dashboard HTML missing from initial commit (regenerated and added separately).
+- **Key Stories**: Texas McCombs Field championship celebration/Longhorn Band/Bevo/third UT title in 2025-26 year (Tier 1), 2026 WCWS All-Tournament Team 12 players 5 programs/Kavan MOP/Texas Tech 4 despite runner-up (Tier 1), Transfer portal opens June 8–22/Tennessee Morgan+Plumlee entering/15-day window (Tier 2), 2026 WCWS sets all-time attendance record 105K+/12605 single-session/no Oklahoma (Tier 2), Kavan+Stewart both juniors returning for 2027/three-peat bid on (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-05
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (56 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via cherry-pick after non-fast-forward resolved.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/

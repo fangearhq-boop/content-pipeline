@@ -3,6 +3,59 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 6, 2026
+
+### Story 1: Texas Softball Returns Home — McCombs Field Championship Celebration
+- **Date:** 2026-06-06
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Thousands of fans packed McCombs Field for free back-to-back championship celebration Friday night. Longhorn Band, Bevo, Smokey the Cannon, first 500 fans got poster. Third UT national title in 2025-26 academic year (swimming/diving, rowing, softball).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Season awards roundup
+  - Academic year honors retrospective
+
+### Story 2: 2026 WCWS All-Tournament Team Announced — 12 Players, 5 Programs
+- **Date:** 2026-06-06
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Full 12-person team: Kavan MOP (Texas), Stewart (Texas), Canady/Davis/Terry/Williams (Texas Tech — 4 despite runner-up), Briski/Giles/Young (Alabama), Frahm (Nebraska), Tinsley/Woolery (UCLA).
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Individual players' offseason/pro moves
+
+### Story 3: Softball Transfer Portal Opens June 8
+- **Date:** 2026-06-06
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** NCAA DI Council approved 15-day portal window June 8-22. Tennessee's Saviya Morgan (outfielder, soph) and Kailey Plumlee (pitcher, freshman) already announced intent.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Portal moves tracker June 8-22
+  - Tennessee rebuild story
+
+### Story 4: 2026 WCWS Sets New All-Time Attendance Record at Devon Park
+- **Date:** 2026-06-06
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** 105,000+ total fans (new record); 12,605 opening session record; no Oklahoma for first time since 2015; Devon Park proving itself as softball's cathedral.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - 2027 attendance projections
+
+### Story 5: Kavan and Stewart Return — Three-Peat Is On
+- **Date:** 2026-06-06
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Both Teagan Kavan and Katie Stewart confirmed as returning juniors for 2027 senior seasons. No program in modern era has won 3 consecutive WCWS titles. Texas is already the favorite.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Fall practice/preseason coverage
+  - Recruiting class angles
+  - Three-peat narrative follow-ups through 2026-27 season
+
+---
+
 ## June 4, 2026
 
 ### Story 1: Texas 7, Texas Tech 3 — Game 1 WCWS Championship Result
