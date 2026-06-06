@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-06",
+  "compiled_at": "2026-06-06T12:27:09.219793+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S3 — D49 Summer Meals ending soon",
+      "type": "X, FB"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "S1 — PPLD Summer Adventure",
+      "type": "X, FB"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "S2 — Bellabu Bear recall",
+      "type": "X, FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S2 — Bellabu Bear recall B post",
+      "type": "X"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "S4 — D20 July summer school",
+      "type": "X, FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "S5 — Hot car safety",
+      "type": "X, FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "PPLD Summer Adventure 2026 — Free Reading Program for All Ages Through July 31",
+      "tier": 1,
+      "status": "",
+      "angle": "Pikes Peak Library District's annual Summer Adventure program runs June 1–July 31, free for all ages; participants read and complete activities for 30 days to earn prize entries; grand prizes include Pikes Peak Region Attractions VIP Access Pass and a one-night stay at The Broadmoor Cloud Camp; sign up online, at any of 14 library locations, or via 2 bookmobiles; track progress on the Beanstack app; ppld.org/summer",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "COS families: PPLD's Summer Adventure is underway.\n\nRead, explore, or create for 30 days and earn prizes — including a Broadmoor Cloud Camp stay.\n\nFree. All ages. Sign up at ppld.org/summer.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Colorado Springs parents looking for a free summer activity: PPLD Summer Adventure runs through July 31.\n\nTrack reading and activities on the Beanstack app. 14 library locations + 2 bookmobiles. Free. All ages.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-ppld-summer-adventure-2026-free-reading-program.html",
+        "headline": "PPLD Summer Adventure 2026: Free Reading Program for Colorado Springs Families Runs Through July 31",
+        "word_count": 673
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PPLD Summer Adventure 2026\n\n#### X/Twitter Image (1080x1350 — 4:5 vertical)\n- **Mode:** base_only\n- **Prompt:** A cheerful child sitting cross-legged on a library floor, holding an open book, surrounded by colorful picture books and a small plant. Warm afternoon light streaming through a large window. Soft teal and gold color palette. Clean white background behind the child for text overlay. Photorealistic, diverse representation, family-friendly, Colorado mountain-town feel.\n\n#### Facebook Image (1200x630 — landscape)\n- **Mode:** base_only\n- **Prompt:** A diverse family of three — parent and two children — browsing library shelves together, smiling and pointing at a book. Bright, airy library interior, large windows, teal accents. Clean, warm, inviting atmosphere. Photorealistic, approachable, Colorado family feel.\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Mode:** base_only\n- **Prompt:** A wide-angle view of a cheerful, modern library reading area with families and children at low tables. Colorful books on shelves, natural light, teal accent colors. One child using a tablet, another reading a printed book. Welcoming and inclusive. Photorealistic.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "RECALL — Bellabu Bear Children's Robes (Burn Hazard)",
+      "tier": 1,
+      "status": "",
+      "angle": "CPSC recalls Bellabu Bear bamboo sherpa children's robes for violating mandatory flammability standards for children's sleepwear — posing burn risk; sold in popular character prints (PAW Patrol, Minecraft, Garfield, Batman, Justice League, Trolls, Dora, Wonder Woman, Blaze, Nutcracker, and more); sizes S/M and M/L; sold Jan 2024–Jul 2025 at Saks Fifth Avenue and boutiques nationwide + online at bellabubear.com + Saks site + other retailers, ~$60; stop use immediately; contact Bellabu Bear for full refund or store credit; 888-703-7752, Mon–Fri 9 AM–4 PM PT; help@bellabubear.com; click \"Recall\" at bellabubear.com",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "RECALL: Bellabu Bear children's robes — burn hazard. Fails mandatory flammability standards.\n\nPAW Patrol, Minecraft, Batman, Trolls prints and more. ~$60. Sold Jan 2024–Jul 2025.\n\nStop use now.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Bellabu Bear robe recall: contact the company for a full refund or store credit.\n\nCall 888-703-7752 (Mon–Fri, 9 AM–4 PM PT) or email help@bellabubear.com. Visit bellabubear.com and click \"Recall.\"\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-bellabu-bear-robes-recall-burn-hazard-cpsc.html",
+        "headline": "Bellabu Bear Children's Robes Recalled for Burn Hazard — What Colorado Springs Parents Need to Know",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bellabu Bear Children's Robes Recall\n\n#### X/Twitter Image (1080x1350 — 4:5 vertical)\n- **Mode:** base_only\n- **Prompt:** A white background with a soft warning visual: a children's robe with a visible caution symbol (triangle with exclamation mark) overlaid. No text in image — space for Canva overlay. Soft but serious tone, red and white color palette, clean and clear. Flat lay product-style shot.\n\n#### Facebook Image (1200x630 — landscape)\n- **Mode:** base_only\n- **Prompt:** Landscape format: a neatly folded children's bath robe on a plain white surface, with a bold orange caution triangle graphic element in the upper corner. Clean, high-contrast image that reads as a safety alert. Space on left side for text overlay. No text baked in.\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Mode:** base_only\n- **Prompt:** Wide landscape image of a parent's hand holding a children's robe and looking at the label carefully. Soft home interior background, neutral tones. Safety and attentiveness conveyed. Space on right side for title overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "D49 Free Summer Meals End June 19 — Less Than 2 Weeks Left",
+      "tier": 1,
+      "status": "",
+      "angle": "District 49 is offering free breakfast and lunch this summer for all children ages 1–18 — no registration, no proof of income, no ID required; program runs through June 19 at Springs Ranch Elementary and possibly other D49 sites; families should act now with less than two weeks remaining; D49 summer meals are a separate program from D11's (which runs through July 31); d49.org for details",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "D49 families: free breakfast and lunch for kids ages 1–18 ends June 19.\n\nNo registration. No ID. No income verification required. Less than 2 weeks left.\n\nVisit d49.org for locations and times.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        },
+        {
+          "label": "Post 3-2",
+          "text": "District 49 is offering free summer meals for all children ages 1–18 through June 19 — no paperwork needed.\n\nIf your family could use it, go. That's what the program is for.\n\nDetails: d49.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d49-free-summer-meals-ending-june-19.html",
+        "headline": "D49 Free Summer Meals End June 19 — Less Than Two Weeks Left for Colorado Springs Families",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Free Summer Meals\n\n#### X/Twitter Image (1080x1350 — 4:5 vertical)\n- **Mode:** base_only\n- **Prompt:** A vertical image of a smiling child eating a healthy lunch at a school cafeteria table — colorful tray with fruit, sandwich, milk carton. Bright school interior background. Warm, welcoming, diverse representation. Clean right side for text overlay. Photorealistic.\n\n#### Facebook Image (1200x630 — landscape)\n- **Mode:** base_only\n- **Prompt:** Two children of different ages eating lunch together at a bright, cheerful cafeteria. Colorful trays, natural light, friendly expressions. Warm, inclusive, inviting. Landscape format with space on left for text. Photorealistic.\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Mode:** base_only\n- **Prompt:** Wide landscape of a school cafeteria serving area — a child receiving a tray from a friendly cafeteria worker. Bright colors, warm smiles, clean and inviting. Colorado school setting. Photorealistic.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "D20 July Summer School Registration Now Open",
+      "tier": 2,
+      "status": "",
+      "angle": "Academy District 20 summer school offers credit recovery, enrichment, and graduation requirement fulfillment; July session registration is open now; families register online via Infinite Campus; details at asd20.org/summer-school; June session deadline has passed but July session remains open; D20 summer school serves both high school and middle school students",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D20 families: July summer school registration is open now.\n\nCredit recovery, enrichment, and graduation requirements — register through Infinite Campus.\n\nDetails at asd20.org/summer-school.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (D20 transportation covered June 5; today's angle is summer school — different program)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d20-july-summer-school-registration-open.html",
+        "headline": "D20 July Summer School Registration Is Open — Here's What Colorado Springs Families Need to Know",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 July Summer School\n\n#### X/Twitter Image (1080x1350 — 4:5 vertical)\n- **Mode:** base_only\n- **Prompt:** A teenager studying at a desk with an open notebook and laptop, bright natural light, clean modern classroom setting. Focused, motivated expression. Neutral tones with blue accent. Space on right for text overlay. Photorealistic, gender-diverse representation.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Hot Car Safety — A Reminder Every COS Parent Needs This June",
+      "tier": 2,
+      "status": "",
+      "angle": "As Colorado Springs temperatures climb into the upper 80s this week, a timely reminder about hot car dangers: car interiors can reach deadly temperatures within minutes even on mild days; children's bodies heat up 3–5x faster than adults; COS elevation (6,035 ft) and intense June sunshine add risk; \"Look Before You Lock\" technique; what to do if you see a child left in a hot car; AAP guidance",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "A car's interior can reach 120°F+ in minutes — even on a mild June day in Colorado Springs.\n\nChildren's bodies heat 3–5x faster than adults. Use \"Look Before You Lock.\" If you see a child alone in a hot car, call 911.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-hot-car-safety-colorado-springs-summer.html",
+        "headline": "Hot Car Safety in Colorado Springs: What Every Parent Needs to Know This Summer",
+        "word_count": 861
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hot Car Safety\n\n#### X/Twitter Image (1080x1350 — 4:5 vertical)\n- **Mode:** base_only\n- **Prompt:** A vertical image of a car door handle in bright Colorado summer sunlight, with the back seat visible through the window — empty, but with a child's car seat visible. Strong, warm sunlight from above. Red and orange temperature-suggesting tones. Space on left side for text overlay. Photorealistic, serious but not alarming."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
