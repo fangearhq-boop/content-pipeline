@@ -2,6 +2,46 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-06
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Ferrari dominate Monaco practice — Hamilton FP2 fastest (1:13.026), Leclerc FP1 fastest; qualifying today 10am ET | 1 | NEW STORY |
+| 2 | Monaco GP race preview — June 7 9am ET Apple TV+; Leclerc +185; pole-to-win 3 straight races | 1 | FOLLOW UP |
+| 3 | Antonelli-Russell championship tension — Canada Sprint clash, Toto "stop moaning," Russell ERS failure, Antonelli +43 | 2 | FOLLOW UP |
+| 4 | Hamilton Ferrari Monaco dream — 3 wins with Mercedes, FP2 fastest, P2 Canada momentum | 2 | FOLLOW UP |
+| 5 | Verstappen exit clause countdown — July 27 deadline, first 2026 podium in Canada P3, best non-Ferrari at Monaco | 2 | FOLLOW UP |
+
+### STORY 1: Ferrari Monaco Practice Dominance
+- **Tier:** 1
+- **Key facts:** Hamilton FP2 fastest (1:13.026), Leclerc FP1 fastest; Ferrari 1-2 both sessions; Verstappen 0.168s back (best non-Ferrari); Mercedes 0.4-0.5s adrift; qualifying June 6 4pm local / 10am ET Apple TV+
+- **Status:** NEW STORY
+- **Follow-up ideas:** Qualifying result; race result
+
+### STORY 2: Monaco GP Race Preview
+- **Tier:** 1
+- **Key facts:** Race June 7 9am ET Apple TV+; Leclerc +185; Hamilton 17%; Antonelli 16%; Russell 14%; last 3 Monaco pole-to-win; impossible to overtake at Monaco
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result; championship impact
+
+### STORY 3: Antonelli-Russell Mercedes Tension
+- **Tier:** 2
+- **Key facts:** Canada Sprint: Antonelli-Russell Turn 1 clash; Toto: "stop the radio moaning"; Russell wins Sprint; Race: Russell leads, ERS failure Lap 30 ("catastrophic failure"); can't inspect unit for months; Antonelli +43 pts; "all clear" after chat
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monaco result; championship gap after Spain
+
+### STORY 4: Hamilton Ferrari Monaco
+- **Tier:** 2
+- **Key facts:** Hamilton 3 Monaco wins with Mercedes (2008, 2016, 2019); P2 Canada (best Ferrari result); FP2 fastest at Monaco (1:13.026); Driver of the Day Canada
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying/race result; would be 4th Monaco win
+
+### STORY 5: Verstappen Exit Clause
+- **Tier:** 2
+- **Key facts:** Exit clause if not top-2 by July 27; P3 Canada (first 2026 podium); best non-Ferrari at Monaco practice (0.168s off Hamilton); 17 races remain; Antonelli 131 pts
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Monaco result; standings impact; July deadline
+
 ## 2026-06-01
 
 | # | Story | Tier | Tag |
