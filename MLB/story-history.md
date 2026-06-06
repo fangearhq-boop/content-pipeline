@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-06
+
+### Story 1: Aaron Judge on IL — Right Rib Stress Fracture
+- **Date:** 2026-06-06
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Three-time AL MVP placed on 10-day IL Friday with stress fracture in first right rib. Out 4-6 weeks, potentially through August 3 trade deadline. Had 20 HRs. Spencer Jones recalled from Triple-A. Yankees lost to Red Sox 5-2 Friday.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Return timeline updates
+  - Spencer Jones performance
+  - Yankees trade deadline implications
+  - AL MVP race changes
+
+### Story 2: Giants 18, Cubs 3 — Seven Home Runs at Wrigley
+- **Date:** 2026-06-06
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Giants hit 7 HRs in dominant 18-3 win at Wrigley. Matt Chapman: grand slam + 3-run shot = 7 RBI. Willy Adames 2 HRs. Casey Schmitt 2 HRs. Seven-run sixth inning.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Giants series result vs Cubs
+  - Chapman HR pace
+
+### Story 3: Cristopher Sanchez 50.2 Scoreless Innings — Phillies Franchise Record
+- **Date:** 2026-06-06
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Streak reached 50.2 innings (5th longest in MLB history since 1893). Broke Grover Cleveland Alexander's 115-year Phillies record (41 IP from 1911). Set expansion-era left-hander record (passing Kershaw 41). Passed Hubbell, Gibson, Cy Young on all-time list.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Sanchez Cy Young candidacy
+  - Phillies rotation feature
+
+### Story 4: Tarik Skubal Trade Deadline — The Skubal Deadline
+- **Date:** 2026-06-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 4 — rehab start angle; trade deadline framing is new)
+- **Angle:** Tigers 6-21 since May 4. Skubal targeting mid-June return. Two-time AL Cy Young free agent after 2026. 2026 deadline called "The Skubal Deadline." Every contender watching.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Rehab start results
+  - Trade rumors as deadline approaches
+  - Tigers' formal trade decision
+
+### Story 5: AL East Race Wide Open With Judge Injured
+- **Date:** 2026-06-06
+- **Tier:** 3
+- **Classification:** FOLLOW UP (AL East covered June 5; Judge injury changes dynamics)
+- **Angle:** Rays 36-22, one game back. Red Sox win Friday 5-2. Yankees without Judge 4-6 weeks. Division race wide open for rest of June/July.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - AL East standings tracker
+  - Yankees vs Rays series coverage
+
+---
+
 ## 2026-06-04
 
 ### Story 1: Ohtani's 0.74 ERA — Third-Best Through 10 Starts in MLB History

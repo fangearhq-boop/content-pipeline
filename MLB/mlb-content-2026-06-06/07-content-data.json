@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-06",
+  "compiled_at": "2026-06-06T10:28:21.178309+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5",
+      "type": "FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 1",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Aaron Judge on IL with Right Rib Stress Fracture — Out 4-6 Weeks",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Aaron Judge is on the IL with a rib stress fracture.\n\nThe three-time AL MVP is out 4–6 weeks — likely through at least August and possibly the Aug. 3 trade deadline.\n\nNew York's AL East lead gets much smaller today. #Yankees",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Judge's 20 HRs, potential 5th career 50-HR season, and AL MVP candidacy — all on hold.\n\nNew York recalled Spencer Jones from Triple-A to fill the void.\n\nThe Yankees will find out a lot about the rest of this roster over the next six weeks. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-aaron-judge-rib-stress-fracture-yankees-il.html",
+        "headline": "Aaron Judge on IL with Rib Stress Fracture — Yankees Lose Their Best Player Through At Least August",
+        "word_count": 486
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aaron Judge on IL — Rib Stress Fracture\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Aaron Judge New York Yankees\" | \"Aaron Judge batting\"\n- **Visual concept:** Judge in action — batting or fielding — powerful athletic pose\n- **Text overlay:**\n  - Headline: JUDGE ON THE IL\n  - Subtitle: Rib Stress Fracture · Out 4-6 Weeks · Yankees\n- **Mood:** Breaking news, serious, impactful\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Aaron Judge Yankees\" | \"Aaron Judge\"\n- **Visual concept:** Judge close-up or batting stance\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Giants 18, Cubs 3 — Seven Home Runs at Wrigley",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Giants hit SEVEN home runs in Friday's 18-3 demolition of the Cubs at Wrigley.\n\nMatt Chapman: grand slam + 3-run shot = 7 RBI.\nWilly Adames: 2 HRs.\nCasey Schmitt: 2 HRs.\n\nSan Francisco's offense just sent a message to the NL. #SFGiants",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SFGiants"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 2-2",
+          "text": "18-3. At Wrigley. Seven home runs.\n\nThe Giants have the most dangerous lineup in the NL when it's clicking — and Friday it clicked.\n\nMatt Chapman with 7 RBI on a grand slam and a 3-run shot. That's a career day. #SFGiants #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SFGiants",
+            "#MLB"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-giants-18-cubs-3-seven-home-runs-wrigley.html",
+        "headline": "Matt Chapman Hits a Grand Slam and a Three-Run Shot as Giants Blast Cubs 18-3 with Seven Home Runs at Wrigley",
+        "word_count": 464
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giants 18, Cubs 3 — Seven Home Runs\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Matt Chapman San Francisco Giants\" | \"Willy Adames Giants\" | \"Giants offense celebration\"\n- **Visual concept:** Chapman or Adames celebrating a home run, or Giants dugout celebration\n- **Text overlay:**\n  - Headline: 7 HOME RUNS\n  - Subtitle: Giants 18, Cubs 3 · Wrigley Field · June 5, 2026\n- **Mood:** Explosive, celebratory, dominant\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Matt Chapman San Francisco Giants\" | \"Giants Cubs\"\n- **Visual concept:** Chapman at the plate or home run swing\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Cristopher Sanchez's 50.2 Scoreless Innings — The Phillies Record That Stood 115 Years Is Gone",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cristopher Sánchez broke Grover Cleveland Alexander's 115-year-old Phillies scoreless innings record — then kept going.\n\nThe streak reached 50.2 innings, the 5th longest in MLB history since 1893. A Hall of Famer's franchise record, erased. #Phillies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cristopher-sanchez-50-scoreless-innings-phillies-record.html",
+        "headline": "Sanchez Passes Alexander: 50.2 Scoreless Innings Is the 5th Longest Run in MLB History Since 1893",
+        "word_count": 468
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cristopher Sanchez Scoreless Innings Record\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Cristopher Sanchez Philadelphia Phillies\" | \"Cristopher Sanchez pitching\"\n- **Visual concept:** Sanchez mid-delivery or post-strikeout celebration\n- **Text overlay:**\n  - Headline: 50.2 SCORELESS INNINGS\n  - Subtitle: 5th All-Time in MLB History Since 1893 · Phillies Record Broken\n- **Mood:** Historic, prestige, milestone\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Cristopher Sanchez Phillies\"\n- **Visual concept:** Sanchez pitching in profile\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "The Skubal Deadline — Tigers Must Decide As Contenders Circle",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Tigers are 6-21 since May 4. Tarik Skubal is targeting a June return.\n\nEvery contender knows what's coming: a two-time AL Cy Young winner potentially on the trade block.\n\nThe 2026 deadline is already being called \"The Skubal Deadline.\" #Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-tarik-skubal-trade-deadline-tigers-2026.html",
+        "headline": "The Skubal Deadline: Detroit's 6-21 Collapse Sets Up the Most Important Trade Decision of the Summer",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tarik Skubal Trade Deadline\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Tarik Skubal Detroit Tigers\" | \"Tarik Skubal pitching\"\n- **Visual concept:** Skubal in pitching motion, focus on mechanics and athleticism\n- **Text overlay:**\n  - Headline: THE SKUBAL DEADLINE\n  - Subtitle: Tigers 6-21 Since May · Every Contender Watching\n- **Mood:** Dramatic, pressure, deadline urgency\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Tarik Skubal Tigers\"\n- **Visual concept:** Skubal pitching — side or front view\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "The AL East Race Just Changed — Judge's Injury Opens the Door",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Aaron Judge is on the IL. The Red Sox beat the Yankees 5-2 on Friday.\n\nThe AL East race just got a lot more interesting. Tampa Bay, Boston, and Toronto are all watching — and waiting.\n\nSix weeks to see who seizes the moment. #MLB #ALEast",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#ALEast"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-al-east-race-judge-injured-rays-red-sox.html",
+        "headline": "Judge on the IL, Red Sox Win Friday: The AL East Race Just Got Wide Open",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AL East Race With Judge Out\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Tampa Bay Rays\" | \"Boston Red Sox\" | \"AL East baseball\"\n- **Visual concept:** Rays or Red Sox player in action, celebrating\n- **Text overlay:**\n  - Headline: AL EAST WIDE OPEN\n  - Subtitle: Judge on IL · Red Sox Win Friday · Race Tightens\n- **Mood:** Race, competition, opportunity\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Tampa Bay Rays\" | \"American League East\"\n- **Visual concept:** Rays player at bat or in the field"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

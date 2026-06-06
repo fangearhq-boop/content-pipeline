@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-06
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (45 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py — pushed to GitHub.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). FB posts compile to 0 (known heading format). 0 char violations. publish-unified-dashboard 403 (PAT scope — known).
+- **Key Stories**: Aaron Judge on IL with right rib stress fracture/out 4-6 weeks/possibly through Aug 3 trade deadline/Spencer Jones recalled (Tier 1), Giants 18-3 Cubs/7 HRs/Chapman grand slam+3-run shot=7 RBI/Adames+Schmitt 2 HRs each (Tier 1), Sanchez 50.2 scoreless innings/5th all-time since 1893/breaks 115-year Phillies record/expansion-era LH record (Tier 2), Skubal trade deadline/Tigers 6-21 since May 4/two-time Cy Young free agent/every contender watching (Tier 2), AL East wide open with Judge out/Rays 36-22/Red Sox win Friday 5-2 (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-05
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (30 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py — pushed to GitHub.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
