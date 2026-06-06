@@ -2,6 +2,46 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-06
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks 105-104 Spurs Game 2 — KAT 21/13/4; Brunson 7-of-25 but steal+FT clutch; Wemby 29 pts, missed buzzer; Knicks 2-0 | 1 | NEW STORY |
+| 2 | NBA Finals Game 3 Preview — June 8 MSG 8:30 PM ET; first Finals at MSG since 1999; same Spurs; Knicks -490 (opened +164) | 1 | FOLLOW UP |
+| 3 | Wembanyama's Brutal 30 Seconds — errant pass off Castle's back stolen by Brunson, foul, missed 20-ft buzzer shot | 2 | FOLLOW UP |
+| 4 | Giannis Trade Saga — Heat frontrunner, Bam only untouchable, decision before June 23 draft, Portland unlikely | 2 | FOLLOW UP |
+| 5 | AJ Dybantsa "100%" going No.1 to Wizards — 25.5 PPG at BYU, -450 odds, draft June 23-24 Brooklyn | 2 | FOLLOW UP |
+
+### STORY 1: Knicks 105-104 Spurs — Game 2 Recap
+- **Tier:** 1
+- **Key facts:** Final: Knicks 105, Spurs 104 (June 5, Frost Bank Center SA). KAT: 21 pts, 13 reb, 4 ast, 8-of-12 FG. Brunson: 20 pts, 7-of-25 FG, 5 stl. Wemby: 29 pts, 11-of-21. Final seq: Wemby bad pass off Castle stolen by Brunson, foul, Brunson 1-of-2 FT for 105-103 lead; Wemby missed 20-ft buzzer. Knicks lead 2-0.
+- **Status:** NEW STORY
+- **Follow-up ideas:** Game 3 result; KAT continued Finals dominance
+
+### STORY 2: NBA Finals Game 3 Preview
+- **Tier:** 1
+- **Key facts:** Game 3: June 8, 8:30 PM ET, ABC, MSG. First Finals at MSG in 9,845 days (last: 1999 G5 vs same Spurs). Knicks -490; Spurs +380. Series opened Spurs -196/Knicks +164. No team has come back from 3-0 in NBA Finals.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 3 result; MSG crowd reaction
+
+### STORY 3: Wembanyama's Brutal 30 Seconds
+- **Tier:** 2
+- **Key facts:** Wemby 22 years old, first Finals. Sequence: errant pass to Castle (hit his back), Brunson steal + foul, Brunson 1-of-2 FT = 105-103 lead, Wemby missed 20-ft buzzer shot. Despite 29 pts/11-of-21 FG.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Wemby bounce-back in Game 3; whether Spurs can survive away series
+
+### STORY 4: Giannis Trade Saga
+- **Tier:** 2
+- **Key facts:** Bucks open for business; decision before June 23 draft. Heat frontrunner; Bam Adebayo only off-limits. Portland "unlikely" — Giannis wants East. Bucks preference: extend if he commits.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Deal announcement; Heat packages; post-Finals timing
+
+### STORY 5: AJ Dybantsa Draft
+- **Tier:** 2
+- **Key facts:** BYU wing; 25.5 PPG, 6.8 RPG, 3.7 APG, 51% FG. -450 to go No.1. Wizards win lottery (first No.1 since Wall 2010). Draft June 23-24 Brooklyn. Wizards haven't officially committed (CBS Sports).
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Draft night No.1 pick announcement
+
 ## 2026-06-01
 
 | # | Story | Tier | Tag |
