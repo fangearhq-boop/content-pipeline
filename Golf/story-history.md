@@ -4,6 +4,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-06-06 | T1 | Memorial Tournament R2: JT Poston leads at -9 (shot 65 Friday, 8 birdies/0 bogeys, 9 shots better than field avg); Ryan Gerard -8; Scheffler 1-over made cut (10 back); McIlroy 10 back; Round 3 Saturday on Golf Channel | X, FB, Article | NEW STORY |
+| 2026-06-06 | T1 | US Women's Open R2: Alison Lee + Ruoning Yin co-lead at -4 at Riviera CC; Jennifer Kupcho T3; Nelly Korda lurking; Round 3 Saturday on USA Network/Peacock | X, FB, Article | NEW STORY |
+| 2026-06-06 | T2 | Scheffler Memorial swing struggles: "worst I've hit it in a couple years," ranked 59th/72 SG approach, shanked bunker 5th, 3 consecutive bogeys, 4-over thru 10; made cut on 75-consecutive streak; 10 back of Poston; scouting Shinnecock Hills for US Open | X, FB, Article | FOLLOW-UP |
+| 2026-06-06 | T2 | JT Poston Memorial leader profile: 3 PGA Tour wins (Wyndham 2019, JDC 2022, Shriners 2024); elite putter; precision over power; T5 PGA Championship best major result; leads by 1 over Ryan Gerard heading into R3 | X, FB, Article | NEW STORY |
+| 2026-06-06 | T2 | Nelly Korda US Women's Open at Riviera: biggest name in women's golf within striking distance of leaders Lee + Yin at -4; Korda seeking first USWO title; final 36 holes begin Saturday | X, FB, Article | FOLLOW-UP |
+|------|------|-------|-----------|-------|
 | 2026-06-01 | T1 | Russell Henley wins 2026 Schwab Challenge in playoff over Eric Cole — both -12 after 72 holes; Henley made 3 consecutive birdies 16-17-18 to force OT, then 4th consecutive birdie in sudden death; $1,782,000 of $9,900,000 purse; T3: Meissner/Smalley/Griffin (defending) | X, FB, Article | NEW STORY |
 | 2026-06-01 | T1 | Joaquin Niemann wins LIV Golf Korea in playoff over Talor Gooch — both -12; Niemann birdie on 18th par-4 in sudden death; career win No. 8 (most in LIV history, 3 clear of any other player); $4M of $20M purse; Crushers GC team title (-23, 3 shots clear) | X, FB, Article | NEW STORY |
 | 2026-06-01 | T2 | Memorial Tournament preview (June 4-7, Muirfield Village, Dublin OH, $20M purse) — Scheffler seeks three-peat (only Tiger Woods 1999-2001 did it); 9 of top-10 world rankings in field; McIlroy and Cameron Young among projected challengers | X, FB, Article | NEW STORY |

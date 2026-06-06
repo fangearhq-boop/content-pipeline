@@ -1,0 +1,288 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-06",
+  "compiled_at": "2026-06-06T11:34:34.729519+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Memorial Tournament Round 3 — JT Poston Leads, Scheffler and McIlroy 10 Back",
+      "tier": 1,
+      "status": "",
+      "angle": "Poston -9 after 36 holes, leads Gerard by 1; Scheffler +1 (made cut by skin), McIlroy also struggling; Round 3 today, Round 4 Sunday June 7; $20M purse; CBS/Golf Channel; 3-peat bid by Scheffler in jeopardy",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "After 36 holes at the Memorial:\n\nJT Poston: -9 (leads by 1)\nRyan Gerard: -8\n\nScottie Scheffler: +1 (10 back)\nRory McIlroy: +1 (10 back)\n\nRound 3 is today. #PGATour #Memorial",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Memorial"
+          ],
+          "char_count": 173
+        },
+        {
+          "label": "Post 1-2",
+          "text": "JT Poston shot a 7-under 65 in Round 2 at Muirfield Village.\n\nThat was 9 shots better than the field average.\n\nNine. Shots.\n\nHe now leads the Memorial by one over Ryan Gerard heading into today's Round 3. #PGATour #Memorial",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Memorial"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 AM ET\n\nWhen the leaderboard at the Memorial Tournament showed J.T. Poston at -9 after 36 holes, a lot of golf fans had the same reaction: who?\n\nPoston is not Scottie Scheffler. He is not Rory McIlroy. He is not a player whose name generates immediate recognition outside of dedicated PGA Tour followers. But after two rounds at Muirfield Village Golf Club in Dublin, Ohio, he is the player leading one of the most prestigious non-major events on the Tour calendar — by one shot over Ryan Gerard.\n\nThe most dramatic part of the leaderboard isn't at the top. It's 10 shots back, where two of the world's best players are grinding out their weekends from a desperate position. Scheffler, the two-time defending champion here, shot 1-over through two rounds and barely made the cut. McIlroy, the world No. 2, has been similarly inconsistent.\n\nRound 3 is today. The final round is Sunday, June 7, with coverage on CBS and Golf Channel. A first-time Memorial winner is in sight — if Poston can hold his lead over the weekend.",
+        "image_caption": "JT Poston leads the Memorial at -9. Scheffler and McIlroy are 10 back. Round 3 is today. #PGATour #Memorial #Golf",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-memorial-tournament-poston-leads-scheffler-mcilroy-chase.html",
+        "headline": "JT Poston Leads Memorial at -9 as Scheffler and McIlroy Find Themselves 10 Back",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Memorial Tournament Round 3 — JT Poston Leads\n**Sources:**\n- Sky Sports Golf: \"Memorial Tournament: Rory McIlroy and Scottie Scheffler struggle as JT Poston leads after second round\"\n- CBS Sports: \"Memorial Tournament 2026 leaderboard: Scottie Scheffler grinds to make cut, 10 shots off lead\"\n- Golf Channel: \"J.T. Poston handles the wind at Memorial for low round of tournament and the lead\"\n- PGA Tour official: Round 2 recap and wrapup articles\n- Heavy.com: \"Who Is JT Poston: Golfer Joins Rare PGA Company With Ridiculous Round at The Memorial\"\n**Verified Facts (MEDIUM confidence):**\n- After 36 holes: JT Poston -9, Ryan Gerard -8\n- Poston's R2: 7-under 65, best score of the round; 9 shots better than field average\n- Scheffler +1 (10 shots behind), McIlroy also struggling (finished around +1 after R2)\n- Round 3: Saturday June 6, ongoing; Round 4: Sunday June 7\n- Tournament: Muirfield Village Golf Club, Dublin OH\n- Scheffler extended cut streak to 75 consecutive cuts\n- $20M purse (PGA Tour signature event)\n**Freshness:** R2 completed June 5 (yesterday); Round 3 happening today.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "US Women's Open Round 3 — Lee and Yin Tied at -4 Heading Into Weekend at Riviera",
+      "tier": 1,
+      "status": "",
+      "angle": "Alison Lee and Ruoning Yin co-leaders at -4 after 36 holes; Riviera CC Pacific Palisades CA; Nelly Korda big name pursuing; Jennifer Kupcho also contending; Round 3 today; final round Sunday June 7",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "US Women's Open co-leaders after 2 rounds:\n\nAlison Lee: -4\nRuoning Yin: -4\n\nNelly Korda and the field chase in Round 3 today at Riviera CC. Final round Sunday.\n\nWho wins it? #USWomensOpen #LPGA",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#USWomensOpen",
+            "#LPGA"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 10:30 AM ET\n\nThe US Women's Open is at its most dramatic stage, and there are two players at the top of the leaderboard who have taken full advantage of the Riviera Country Club setting.\n\nAlison Lee and Ruoning Yin share the lead at 4-under par after two rounds at Riviera in Pacific Palisades, California. Lee is an American with strong local knowledge of the course; Yin is a Chinese star who has shown she can compete at any level on the LPGA Tour.\n\nBehind them, the field is compressed, and the most well-known name in women's golf — Nelly Korda — is positioned to make her move as the weekend begins. Jennifer Kupcho has also been in contention throughout the week.\n\nRound 3 is today, with the final round Sunday, June 7. This has the makings of a classic US Women's Open finish on one of the most iconic courses in American golf. Watch on USA Network and Peacock.",
+        "image_caption": "Alison Lee and Ruoning Yin share the lead at the US Women's Open at Riviera at -4. Nelly Korda is in pursuit. Round 3 today. #USWomensOpen #LPGA #Golf",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-us-womens-open-lee-yin-lead-riviera.html",
+        "headline": "Lee and Yin Share US Women's Open Lead at -4 as Korda and Field Enter Weekend at Riviera",
+        "word_count": 496
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "US Women's Open — Lee and Yin Lead\n**Sources:**\n- LPGA.com: \"Alison Lee, Ruoning Yin Surge Atop Riviera Leaderboard After 2 Rounds at U.S. Women's Open\"\n- Just Women's Sports: \"US Women's Open 2026: Jennifer Kupcho Tops LPGA Leaderboard\"\n- ESPN: \"Nelly Korda and Riviera among top storylines heading into the U.S. Women's Open\"\n- BettorsInsider: \"2026 US Women's Open Odds and Picks: Nelly Korda\"\n**Verified Facts (MEDIUM confidence):**\n- Alison Lee and Ruoning Yin co-lead at -4 after 36 holes\n- Tournament: Riviera Country Club, Pacific Palisades, CA\n- Dates: June 4-7, 2026\n- Jennifer Kupcho also in contention\n- Nelly Korda is the feature storyline / big name in the field\n- Round 3: June 6 (today); Final round: June 7\n**Freshness:** R2 completed June 5; R3 happening today.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Scheffler's Memorial Meltdown — World No. 1 Barely Survives the Cut",
+      "tier": 2,
+      "status": "",
+      "angle": "\"Worst I've hit it in a couple years\" — shanked bunker shot; felt like shooting 90; 3 consecutive bogeys; made cut by extending 75-straight streak; Scheffler scouting Shinnecock Hills for US Open; round 3 happening today",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "World No. 1 Scottie Scheffler on his swing at the Memorial:\n\n\"That's maybe some of the worst I've hit it in a couple years.\"\n\nHe shanked a bunker shot. Felt like shooting 90.\n\nMade the cut anyway. Streak: 75 consecutive. #PGATour #Memorial",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Memorial"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 1:00 PM ET\n\nWhen the world's best golfer says he \"felt like shooting 90\" during a round at a signature PGA Tour event, you stop and pay attention.\n\nScottie Scheffler arrived at the Memorial Tournament with a chance at a three-peat — he has won the last two editions at Muirfield Village. Instead, he spent the first two rounds battling himself as much as the golf course. He shanked a bunker shot at the fifth hole. He made three consecutive bogeys at one point in the round. He ranked 59th out of 72 players in strokes-gained approach.\n\n\"That's maybe some of the worst I've hit it in a couple years out there,\" Scheffler said after Friday's round. He admitted he thought he might shoot around 90 — an extraordinary admission from a man who usually wins by controlling every aspect of his game.\n\nBut then something shifted. Scheffler made three birdies in his final five holes. He made the cut. He extended his consecutive-cut streak to 75 — the longest on the PGA Tour. And when asked about it, he shrugged. The streak matters to him more than one bad round.\n\nHe sits 10 shots off the lead heading into Saturday. A charge is possible, even probable, if the swing comes back. He was also spotted earlier this week scouting Shinnecock Hills ahead of the US Open, suggesting his focus extends well beyond Muirfield Village.",
+        "image_caption": "\"Worst I've hit it in a couple years.\" Scheffler made the cut on fumes — 75 straight, the longest streak on Tour. Round 3 today. #PGATour #Scheffler #Memorial",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-scheffler-memorial-swing-struggles-cut-streak.html",
+        "headline": "Scheffler Survives Memorial Cut With \"Worst\" Swing in Years — Streak Reaches 75",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler Memorial Meltdown\n**Sources:**\n- PGA Tour official: \"'Worst I've hit it in a couple years': Scottie Scheffler extends cut streak despite swing issues\"\n- PGA Tour: \"Scottie Scheffler shoots 1-over in 'frustrating' first round at Memorial\"\n- CBS Sports: \"Memorial Tournament 2026 leaderboard: Scottie Scheffler grinds to make cut\"\n- Yahoo Sports: \"Scottie Scheffler rights ship, makes yet another cut, this time at the Memorial\"\n- Yahoo Sports: \"Dejected Scottie Scheffler reveals the score he truly thought he might shoot on Friday at Memorial\"\n- ESPN: \"Scottie Scheffler scouts Shinnecock Hills ahead of U.S. Open\"\n**Verified Facts (MEDIUM confidence):**\n- Scheffler R2 quote: \"That's maybe some of the worst I've hit it in a couple years out there\"\n- Scheffler felt like shooting 90 on Friday\n- Scheffler made cut extending streak to 75 consecutive\n- 3 consecutive bogeys at one point; shanked bunker shot at hole 5\n- Lost 2+ shots to field in strokes-gained approach (ranked 59th/72)\n- Was scouting Shinnecock Hills for U.S. Open ahead of Memorial\n- Sits +1 (10 shots off lead) heading into Round 3\n**Freshness:** Happened Friday June 5; Round 3 today.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "JT Poston — Meet the Memorial's Unlikely Leader",
+      "tier": 2,
+      "status": "",
+      "angle": "3 PGA Tour wins (Wyndham 2019, John Deere 2022, Shriners 2024); 7-under 65 was 9 shots better than field average; one of the Tour's best putters; Poston's Round 2 \"joins rare PGA company\"; win would be biggest of career",
+      "posting_window": "3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "You might not know JT Poston.\n\n3 PGA Tour wins. One of the best putters on Tour. Shot a 65 in Round 2 that was 9 shots better than the field average.\n\nHe leads the Memorial by one heading into Saturday's round.\n\nTime to learn his name. #PGATour #Memorial",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#Memorial"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 3:30 PM ET\n\nJ.T. Poston has been on the PGA Tour for a decade. He has three wins. He is widely considered one of the best putters in the world. And yet, if you had asked most casual golf fans who leads the Memorial Tournament heading into the weekend, you would have received blank stares.\n\nThat's about to change.\n\nIn the second round at Muirfield Village, Poston shot a 7-under 65 that contained eight birdies and zero bogeys in the most difficult scoring conditions of the week. The field average on Friday was four shots higher. Poston was nine shots better than that average — an extraordinary performance in wind and pressure.\n\nHe won the Wyndham Championship in 2019, the John Deere Classic in 2022, and the Shriners Children's Open in 2024. His best major result is a T-5 at the PGA Championship. He has always been a quality player on Tour, but the Memorial would represent a significant step forward — a signature event win on a course that rewards precision above all else.\n\nPoston's putting is the story within the story. He has long ranked among the Tour's elite with the flatstick, and on a course like Muirfield Village — where the greens are notoriously challenging — his touch could prove decisive.",
+        "image_caption": "JT Poston leads the Memorial at -9. 3 PGA Tour wins. One of the best putters in the world. You'll want to know this name. #PGATour #Memorial #Golf",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-jt-poston-memorial-leader-profile.html",
+        "headline": "Nine Shots Better Than Anyone: Meet JT Poston, the Memorial's Unlikely Leader",
+        "word_count": 520
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "JT Poston Profile\n**Sources:**\n- Heavy.com: \"Who Is JT Poston: Golfer Joins Rare PGA Company With Ridiculous Round at The Memorial\"\n- PGA Tour player profile\n- Golf Channel: \"J.T. Poston handles the wind at Memorial\"\n- CBS Sports player profile\n**Verified Facts (MEDIUM confidence):**\n- 3 PGA Tour wins: Wyndham Championship 2019, John Deere Classic 2022, Shriners Children's Open 2024\n- Best major result: T-5 PGA Championship (previous year, MEDIUM)\n- R2 Memorial: 8 birdies, 7-under 65; best round of tournament; 9 shots better than field average\n- Known as one of the Tour's best putters\n- One-shot lead over Ryan Gerard heading into weekend\n**Freshness:** Current tournament performance.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Nelly Korda at US Women's Open — History and Heartbreak at Riviera",
+      "tier": 2,
+      "status": "",
+      "angle": "Korda is the biggest name in women's golf; Riviera is Korda's storyline event; previous wins and near-misses; Lee and Yin lead but Korda's name on the board could change everything; Round 3 today",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nelly Korda is the biggest name at the US Women's Open at Riviera.\n\nLee and Yin lead at -4. The field is bunched. Round 3 is underway.\n\nIt's the kind of Sunday setup where Korda thrives. Final round tomorrow. #USWomensOpen #LPGA",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#USWomensOpen",
+            "#LPGA"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 6:00 PM ET\n\nWhenever Nelly Korda shows up at a major championship, she carries the weight of expectation — and she usually handles it.\n\nThe US Women's Open at Riviera Country Club in Pacific Palisades, California is the kind of major that tells you who the best player in the world is right now. The course is one of the most demanding in American golf, renowned for its strategic demands and uneven lies. It rewards complete, precise ball-striking — and Korda is as complete a player as the women's game has seen in recent years.\n\nGoing into Saturday's third round, Korda is not at the top of the leaderboard. That distinction belongs to American Alison Lee and China's Ruoning Yin, who share the lead at 4-under par. But golf majors often reveal themselves in the final 36 holes, and Korda is close enough to make her presence felt.\n\nJennifer Kupcho has also been in the mix all week, and the field at Riviera is bunched closely enough that a single low round could reshape the entire story.\n\nRound 3 is today, with the final round on Sunday, June 7. Coverage is on USA Network and Peacock. Watch for Korda — even when she's not at the top, she finds a way to be the story.",
+        "image_caption": "Nelly Korda. Riviera. US Women's Open. She's not leading — but she's always the story. Round 3 today. Final round Sunday. #USWomensOpen #LPGA",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nelly-korda-us-womens-open-riviera.html",
+        "headline": "Nelly Korda at Riviera: Can Women's Golf's Biggest Name Chase Down the US Women's Open Leaders?",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nelly Korda US Women's Open\n**Sources:**\n- ESPN: \"Nelly Korda and Riviera among top storylines heading into the U.S. Women's Open\"\n- BettorsInsider: \"2026 US Women's Open Odds and Picks: Nelly Korda, Leaderboard Updates and LPGA Major Betting Preview\"\n- LPGA.com coverage\n**Verified Facts (MEDIUM confidence):**\n- Nelly Korda described as the biggest name in women's golf heading into U.S. Women's Open\n- Riviera CC is featured as a top storyline for Korda specifically\n- Lee and Yin lead at -4 after 36 holes\n- Round 3 today; Final round Sunday June 7\n**Freshness:** Current tournament week.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
