@@ -1852,3 +1852,55 @@ Each day's stories are appended at the top (newest first).
   - Tonight's result (sweep or series win?)
 
 ---
+
+## 2026-06-06
+
+### STORY 1: Giants 18, Cubs 3 — Cabrera Shelled on IL Return
+- **Angle:** NEW STORY (June 5 game recap — Chapman 2 HRs including grand slam, Adames 2 HRs, Cabrera 8 ER on IL return)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Today's game result (Brown vs. Roupp)
+  - Cubs' win-loss trajectory if losing streak extends or snaps
+
+### STORY 2: Ben Brown Takes the Mound — Cleanup Start at 1:20 PM CT
+- **Angle:** FOLLOW UP (Ben Brown ace narrative; today's angle = redemption/cleanup start after blowout + All-Star case context with ERA 1.92)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview bold take)
+- **Follow-Up Opportunities:**
+  - Brown's stat line and ERA post-start
+  - All-Star selection (announced July)
+
+### STORY 3: Dansby Swanson Slump — .181 BA on $177M Contract
+- **Angle:** FOLLOW UP (Swanson slump ongoing; new angle = accountability + career-best walk rate nuance)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take / stat analysis)
+- **Follow-Up Opportunities:**
+  - Swanson June numbers as sample builds
+  - Any lineup decision by Counsell
+
+### STORY 4: Cavalry Coming — Shaw and Boyd Both Expected Back This Week
+- **Angle:** FOLLOW UP (Shaw first covered June 4; Boyd first covered June 3; today's angle = simultaneous return of both)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Shaw activation announcement (expected within days)
+  - Boyd activation following June 7 Iowa rehab start
+
+### STORY 5: Pete Crow-Armstrong Hot — .455 BA, 1.409 OPS in Last 5
+- **Angle:** FOLLOW UP (PCA featured June 5 via walk-off recap; today's angle = sustained hot streak with 5-game window stats)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, stat breakdown / bold take)
+- **Follow-Up Opportunities:**
+  - PCA June stats as sample grows
+  - Season trajectory if hot streak continues
+
+### STORY 6: NL Central Update — Cubs 1 GB Behind Cardinals for 2nd
+- **Angle:** FOLLOW UP (NL Central standings; fresh angle = Cubs only 1 GB behind Cardinals for 2nd place, not buried)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update after each Giants series game
+  - Brewers record tracking if Cubs start winning
+
+---
