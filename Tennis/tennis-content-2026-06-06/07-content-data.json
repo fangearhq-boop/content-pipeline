@@ -1,0 +1,330 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-06",
+  "compiled_at": "2026-06-06T12:18:16.103570+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "S2 — Zverev def. Mensik result",
+      "type": "X, FB"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "S1 — Women's Final match day",
+      "type": "X, FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "S3 — Arnaldi walkover / Cobolli into final",
+      "type": "X, FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "S3 — Arnaldi walkover B post",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "S4 — Men's Final preview",
+      "type": "X, FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "S4 — Men's Final preview B post",
+      "type": "X"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "S5 — RG 2026 landmarks",
+      "type": "X, FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Roland Garros Women's Final — Andreeva vs Chwalinska (TODAY, 3 PM Paris / 9 AM ET)",
+      "tier": 1,
+      "status": "",
+      "angle": "Women's final day-of coverage — two first-time Grand Slam finalists meet on Philippe-Chatrier; Chwalinska makes history as first qualifier ever in a Roland Garros final; Andreeva seeks to become the latest teenage Grand Slam champion",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Roland Garros women's final is today.\n\nMirra Andreeva (No. 8) vs Maja Chwalinska (No. 114) — both in their first Grand Slam final.\n\n3 PM Paris. Philippe-Chatrier. History incoming. 🎾\n\n#RolandGarros #TennisFanrecap #FrenchOpen #WTA",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (preview covered June 5; today is match day)",
+          "hashtags": [
+            "#RolandGarros",
+            "#TennisFanrecap",
+            "#FrenchOpen",
+            "#WTA"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Maja Chwalinska became the first qualifier in Roland Garros history to reach the final.\n\nShe joins Goolagong (1971) and Evert (1973) — the only women to reach the RG final on their main draw debut.\n\n#RolandGarros #TennisFanrecap #FrenchOpen #WTA",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (preview covered June 5; today is match day)",
+          "hashtags": [
+            "#RolandGarros",
+            "#TennisFanrecap",
+            "#FrenchOpen",
+            "#WTA"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-andreeva-chwalinska-roland-garros-womens-final-today.html",
+        "headline": "Andreeva vs Chwalinska: Roland Garros Women's Final Is Here — Two First-Timers for the Title",
+        "word_count": 660
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Roland Garros Women's Final — Andreeva vs Chwalinska (TODAY)\n\n#### Social Image (1080x1350 — 4:5 vertical)\n- **Search terms:** \"Mirra Andreeva tennis\"\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Andreeva in match action on red clay — baseline shot, follow-through, full expression of focus. Dark red clay background; ball visible or just out of frame.\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Search terms:** \"Maja Chwalinska tennis\"\n- **Credit:** (Imagn Images)\n- **Concept:** Chwalinska in celebratory moment or serving — wide landscape crop showing the red clay court, net visible, Roland Garros atmosphere.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Zverev def. Mensik 7-5, 6-2, 3-6, 6-3 — Four Grand Slam Finals",
+      "tier": 1,
+      "status": "",
+      "angle": "Alexander Zverev defeats Jakub Mensik in 3h01m to reach his fourth Grand Slam final — and second at Roland Garros; Mensik had a medical timeout in the third set; Zverev controls the match from 3-0 up in the fourth to close it out",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Alexander Zverev is in his fourth Grand Slam final.\n\n7-5, 6-2, 3-6, 6-3 over Mensik. Three hours, one minute.\n\nHe faces Cobolli on Sunday. One of them wins their first major.\n\n#RolandGarros #TennisFanrecap #FrenchOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (SF preview covered June 5; result available June 6)",
+          "hashtags": [
+            "#RolandGarros",
+            "#TennisFanrecap",
+            "#FrenchOpen",
+            "#ATPTour"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Mensik won the third set with a medical timeout midway through. Zverev didn't flinch.\n\nWent up 3-0 in the fourth and closed it out 6-3.\n\nFourth GS final. Still looking for the first title.\n\n#RolandGarros #TennisFanrecap #FrenchOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (SF preview covered June 5; result available June 6)",
+          "hashtags": [
+            "#RolandGarros",
+            "#TennisFanrecap",
+            "#FrenchOpen",
+            "#ATPTour"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-zverev-def-mensik-7-5-6-2-3-6-6-3-fourth-grand-slam-final.html",
+        "headline": "Zverev Beats Mensik 7-5, 6-2, 3-6, 6-3 to Reach Fourth Grand Slam Final at Roland Garros",
+        "word_count": 668
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev def. Mensik 7-5, 6-2, 3-6, 6-3\n\n#### Social Image (1080x1350 — 4:5 vertical)\n- **Search terms:** \"Alexander Zverev tennis\"\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Zverev mid-celebration or pump-fist moment — emotion, red clay backdrop, tall frame filling the vertical format.\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Search terms:** \"Jakub Mensik tennis\"\n- **Credit:** (Imagn Images)\n- **Concept:** Mensik in action — serve or groundstroke — landscape crop on red clay showing his physicality and youth.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Arnaldi Withdraws with Viral Illness — Cobolli Into First Grand Slam Final",
+      "tier": 1,
+      "status": "",
+      "angle": "Matteo Arnaldi suffers vomiting and fever overnight Thursday, cannot keep food or liquid down despite medication Friday morning; withdraws from all-Italian SF — Flavio Cobolli advances via walkover to his first Grand Slam final; only the fourth walkover in Open Era Grand Slam semifinal history",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Matteo Arnaldi has withdrawn from today's Roland Garros SF with a viral illness — vomiting and fever since Thursday night.\n\nFlavio Cobolli advances to his first Grand Slam final via walkover.\n\n#RolandGarros #TennisFanrecap #FrenchOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (all-Italian SF matchday previewed June 5; result is a walkover)",
+          "hashtags": [
+            "#RolandGarros",
+            "#TennisFanrecap",
+            "#FrenchOpen",
+            "#ATPTour"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 3-2",
+          "text": "The Arnaldi withdrawal is only the 4th walkover in Open Era Grand Slam SF history.\n\nCobolli faces Zverev on Sunday. Italy will have its first Grand Slam men's finalist since Adriano Panatta in 1976.\n\n#RolandGarros #TennisFanrecap #FrenchOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (all-Italian SF matchday previewed June 5; result is a walkover)",
+          "hashtags": [
+            "#RolandGarros",
+            "#TennisFanrecap",
+            "#FrenchOpen",
+            "#ATPTour"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-arnaldi-withdrawal-cobolli-walkover-roland-garros-final.html",
+        "headline": "Arnaldi Withdraws with Viral Illness, Cobolli Advances to Roland Garros Final via Walkover",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Arnaldi Withdraws — Cobolli Into First Grand Slam Final\n\n#### Social Image (1080x1350 — 4:5 vertical)\n- **Search terms:** \"Flavio Cobolli tennis\"\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Cobolli in a celebratory fist-pump — energy and emotion, red clay court behind him, vertical format.\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Search terms:** \"Matteo Arnaldi tennis\"\n- **Credit:** (Imagn Images)\n- **Concept:** Arnaldi in match play — mid-rally groundstroke or serve, red clay landscape, showing the player who unfortunately had to withdraw.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Men's Final Preview — Zverev vs Cobolli (Sunday, June 7, 3 PM Paris / 9 AM ET)",
+      "tier": 1,
+      "status": "",
+      "angle": "Sunday's final guarantees a first-time Grand Slam champion — Zverev has lost all three of his previous GS finals and seeks his first major title at age 28; Cobolli is the No. 10 seed in his first GS final; Zverev leads H2H 3-1 but Cobolli won their Munich 2026 meeting; first first-time men's GS champion since Sinner at AO 2024",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Sunday's Roland Garros men's final:\n\nAlexander Zverev (0-3 in GS finals) vs Flavio Cobolli (first Grand Slam final).\n\nOne of them wins their first major title. 3 PM Paris. Philippe-Chatrier.\n\n#RolandGarros #TennisFanrecap #FrenchOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#RolandGarros",
+            "#TennisFanrecap",
+            "#FrenchOpen",
+            "#ATPTour"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Zverev leads Cobolli 3-1 in their H2H — including a straight-sets win at last year's Roland Garros.\n\nBut Cobolli beat Zverev in Munich earlier this year.\n\nOn clay, on Sunday, with a Grand Slam on the line. 🎾\n\n#RolandGarros #TennisFanrecap #FrenchOpen #ATPTour",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#RolandGarros",
+            "#TennisFanrecap",
+            "#FrenchOpen",
+            "#ATPTour"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-zverev-cobolli-roland-garros-mens-final-preview-sunday.html",
+        "headline": "Zverev vs Cobolli: The Roland Garros Men's Final That Guarantees a First-Time Grand Slam Champion",
+        "word_count": 769
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Men's Final Preview — Zverev vs Cobolli (Sunday)\n\n#### Social Image (1080x1350 — 4:5 vertical)\n- **Search terms:** \"Alexander Zverev tennis\"\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Zverev serving or in match focus — tall, powerful frame — red clay vertical. Strong composition for the final preview.\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Search terms:** \"Flavio Cobolli tennis\"\n- **Credit:** (Imagn Images)\n- **Concept:** Cobolli in motion — landscape crop, red clay, Italian flag or Roland Garros branding visible in background if possible.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Roland Garros 2026 — A Tournament That Rewrote the Record Books",
+      "tier": 2,
+      "status": "",
+      "angle": "Meta-story capturing the historic elements of RG 2026: Chwalinska becomes first qualifier in RG final history; first all-Italian men's GS SF; Andreeva 4th-youngest RG finalist in 30 years; Sinner/Alcaraz/Djokovic all out before the final; four walkover in Open Era GS SF history",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Roland Garros 2026 by the numbers:\n\n• First qualifier in RG women's final history\n• First all-Italian men's GS SF ever\n• 4th walkover in Open Era GS SF history\n• Both men's finalists seek their first major\n\nSome tournament.\n\n#RolandGarros #TennisFanrecap #FrenchOpen #Tennis",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#RolandGarros",
+            "#TennisFanrecap",
+            "#FrenchOpen",
+            "#Tennis"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-roland-garros-2026-historic-tournament-record-books.html",
+        "headline": "Roland Garros 2026 Has Been One for the History Books — Here's Everything That Made It Extraordinary",
+        "word_count": 677
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Roland Garros 2026 — A Tournament That Rewrote the Record Books\n\n#### Social Image (1080x1350 — 4:5 vertical)\n- **Search terms:** \"Maja Chwalinska tennis\"\n- **Credit:** (USA TODAY Sports Images)\n- **Concept:** Chwalinska emotional — celebration, hands raised, red clay behind her — capturing the qualifier's journey.\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Search terms:** \"Mirra Andreeva tennis\"\n- **Credit:** (Imagn Images)\n- **Concept:** Andreeva in a wide landscape shot — could be a mid-match action or post-match walk. Captures the youth and the Roland Garros red clay setting."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 9,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
