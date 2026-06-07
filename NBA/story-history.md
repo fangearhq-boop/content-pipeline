@@ -2,6 +2,46 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-07
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | NBA Finals Game 3 Preview — MSG first Finals since 1999; Knicks 2-0; -490 series odds; Wemby "thinking about Game 3"; Game 3 June 8 8:30 PM ET ABC | 1 | FOLLOW UP |
+| 2 | Giannis Trade Saga — Celtics emerge as dark horse; Lakers complicated by Luka veto on Reaves; Heat still frontrunner; June 23 draft deadline | 1 | FOLLOW UP |
+| 3 | Wembanyama Mental Reset — 29 pts not enough; "We can't change the past"; Brunson trains with broom drill to simulate Wemby reach | 2 | FOLLOW UP |
+| 4 | Knicks 13-Game Win Streak — +270 pt differential; ECF sweep; ESPN 58.2% Game 3 win probability; +19.8 net rating | 2 | FOLLOW UP |
+| 5 | NBA Draft Countdown — Dybantsa "100%" to Wizards; -450 odds; June 23-24 Brooklyn; Bucks waiting until Finals end for trade leverage | 2 | FOLLOW UP |
+
+### STORY 1: NBA Finals Game 3 Preview — MSG
+- **Tier:** 1
+- **Key facts:** Game 3 Monday June 8, 8:30 PM ET, ABC, MSG. First Finals game at MSG since 1999 (Game 5 vs same Spurs). Knicks 2-0; -490 series odds; Spurs +380. No team ever came back from 3-0 in NBA Finals. Knicks outscored opponents +270 pts in playoffs. ESPN: 58.2% win probability Game 3.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 3 result; MSG atmosphere; Brunson bounce-back shooting
+
+### STORY 2: Giannis Trade Saga — Three-Team Race
+- **Tier:** 1
+- **Key facts:** Heat frontrunner — "noise louder than all the rest." Giannis "very intrigued" by Celtics (no direct talks yet). Lakers in mix but Luka won't accept Reaves in deal. Thunder out. Giannis wants East. June 23 draft deadline.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announcement; Heat package details; Bucks extension talks
+
+### STORY 3: Wembanyama Mental Reset
+- **Tier:** 2
+- **Key facts:** Wemby 29 pts/11-of-21 Game 2. Errant pass off Castle → Brunson steal → foul → FT → missed 20-ft buzzer. Quote: "We can't change the past. We're already thinking about Game 3." Age 22, first Finals.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 3 Wemby performance; Spurs adjustments
+
+### STORY 4: Knicks 13-Game Win Streak
+- **Tier:** 2
+- **Key facts:** 13 consecutive playoff wins. +270 point differential. ECF sweep. +19.8 net rating. ESPN: 58.2% win probability Game 3. Brunson shot 7-of-25 in Game 2 and still won — depth is the superpower.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 3 result; whether streak extends to 14
+
+### STORY 5: NBA Draft Countdown
+- **Tier:** 2
+- **Key facts:** Dybantsa 25.5 PPG/6.8 RPG/51% FG. -450 odds No. 1. Wizards win lottery (first No. 1 since Wall 2010). Draft June 23-24 Brooklyn. Wizards haven't publicly committed. Bucks waiting until Finals end to trade Giannis.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Draft night coverage; Wizards official announcement
+
 ## 2026-06-06
 
 | # | Story | Tier | Tag |

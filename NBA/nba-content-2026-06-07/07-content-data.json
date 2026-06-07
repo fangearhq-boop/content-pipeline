@@ -1,0 +1,251 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-07",
+  "compiled_at": "2026-06-07T11:15:18.472760+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NBA Finals Game 3 Preview — MSG Hosts Its First Finals Game Since 1999",
+      "tier": 1,
+      "status": "",
+      "angle": "Game 3 Monday June 8 MSG 8:30 PM ET ABC; Knicks 2-0 series lead; first Finals at MSG in 27 years vs same 1999 Spurs; Wemby \"thinking about Game 3\" after brutal Game 2 ending; Knicks -490",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "MSG hasn't hosted an NBA Finals game since 1999. Monday night, that changes.\n\nGame 3. Knicks vs. Spurs. 8:30 PM ET on ABC.\n\nNo team has ever come back from 3-0. The Spurs need a miracle. #NewYorkKnicks #NBAFinals",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks",
+            "#NBAFinals"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Knicks opened the Finals as +164 underdogs.\n\nThey're now -490 to win the title.\n\nGame 3. Monday. MSG. 8:30 PM ET.\n\nOne more win and history is written. #KnicksTape #NBAFinals",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#KnicksTape",
+            "#NBAFinals"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 9:00 AM ET\n\nMadison Square Garden is getting ready to host an NBA Finals game for the first time in 27 years.\n\nGame 3 tips off Monday night, June 8 at 8:30 PM ET on ABC. The New York Knicks arrive carrying a 2-0 series lead over the San Antonio Spurs — the same franchise they faced in the 1999 Finals, in the same building.\n\nThe stakes could not be higher for San Antonio. No team in NBA Finals history has ever come back from a 3-0 deficit. The Spurs are one loss away from that impossible math. Jalen Brunson and Karl-Anthony Towns have won two games on the road while Victor Wembanyama has fought hard but come up short in the clutch.\n\nNow the Knicks head home. The Garden crowd will be the loudest it has been since 1999.\n\nGame details: Monday, June 8 | 8:30 PM ET | ABC | Madison Square Garden\n\nWill the Spurs find a way? Or does New York take the biggest step toward its first championship since 1973?",
+        "image_caption": "MSG. Game 3. Monday night.\n\nThe Knicks are 2-0 in the Finals — and the series is coming HOME. 🏀🗽",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-nba-finals-game-3-preview-msg.html",
+        "headline": "MSG Hosts Its First NBA Finals Game in 27 Years — And the Spurs Are Running Out of Time",
+        "word_count": 728
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Finals Game 3 Preview\n\n**Image Concept 1A — Social (1080x1350)**\n- **Search terms:** Jalen Brunson New York Knicks\n- **Caption overlay:** \"MSG. GAME 3. MONDAY NIGHT.\"\n- **Mood:** Electric, anticipatory — blue/orange Knicks colors\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Search terms:** Madison Square Garden New York Knicks\n- **Caption overlay:** None (article hero)\n- **Mood:** Iconic arena shot, dramatic lighting\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Finals Game 3 Preview\n**Game details (HIGH):**\n- Game 3: Monday, June 8, 2026, 8:30 PM ET, ABC\n- Venue: Madison Square Garden, New York\n- Knicks lead series 2-0\n**Historical facts (HIGH — verified cross-source):**\n- Last NBA Finals game at MSG: 1999 (Game 5, vs same San Antonio Spurs)\n- Gap: 27 years / 9,845 days\n- 1999 Finals: Spurs won 4-1 over Knicks\n- No team in NBA Finals history has ever come back from 3-0 deficit\n**Series context (HIGH):**\n- Knicks are just third team to win first two Finals games on the road\n- Knicks have won 13 consecutive playoff games\n- Knicks' series odds: -490 (opened as +164 underdogs)\n- Spurs' series odds: +380\n- ESPN Analytics win probability Game 3: Knicks 58.2%, Spurs 41.8%\n**Game 2 recap (HIGH):**\n- Final: Knicks 105-104 (June 5, Frost Bank Center, San Antonio)\n- Brunson: 20 pts, 7-of-25 FG, 6 ast, 5 stl\n- KAT: 21 pts, 13 reb, 4 ast, 8-of-12 FG\n- Wemby: 29 pts, 11-of-21 FG, 9 reb, 4 blk\n- Key sequence: Wemby errant pass off Castle's back → Brunson steal → foul → 1-of-2 FT (105-103) → Wemby missed 20-ft buzzer shot\n**Game 1 recap (HIGH):**\n- Final: Knicks 105-95 (June 3, Frost Bank Center)\n- Brunson: 30 pts; KAT: 18 pts, 12 reb; Hart: 3 pts, 15 reb, 6 ast, 4 stl\n- Wemby: 26 pts, 12 reb, 3 blk; went 6-for-21 in one stretch\n**Wembanyama quote (MEDIUM — single source, Reuters/ESPN):**\n- \"We can't change the past. We're already thinking about Game 3.\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Giannis Trade Saga — Lakers, Celtics Join Heat as Frontrunners",
+      "tier": 1,
+      "status": "",
+      "angle": "New reports: Giannis \"very intrigued\" by Celtics; Lakers complicated by Luka refusing Reaves in deal; Heat remain frontrunner but Giannis has roster concerns; June 23 draft deadline looms",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Giannis trade update:\n\n🔥 Heat — frontrunner, Giannis has roster concerns\n🟩 Celtics — Giannis \"very intrigued,\" no direct talks yet\n💜 Lakers — in the mix, but Luka won't let Reaves go\n❌ Thunder — out\n\nJune 23 draft is the deadline. #NBA",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 11:00 AM ET\n\nThe Giannis Antetokounmpo trade race just got a lot more interesting.\n\nThe Miami Heat have been the frontrunner for weeks, and that has not changed — sources describe the noise around Miami as \"louder than all the rest.\" But Giannis himself reportedly has concerns about what the Heat roster looks like after gutting it for a trade.\n\nNow two more heavyweights are entering the picture:\n\nThe Boston Celtics. Reports say Giannis is \"very intrigued\" by the idea of playing in Boston. No direct talks between the teams yet, but the interest is real.\n\nThe Los Angeles Lakers. LA is very much in the mix — but Luka Doncic has reportedly made it known that he will not accept Austin Reaves being included in any trade package. That significantly complicates LA's ability to build a competitive offer.\n\nThe Oklahoma City Thunder are out. OKC has no interest.\n\nThe deadline is June 23, the start of the NBA Draft. Milwaukee wants this resolved before then. Where does Giannis go?",
+        "image_caption": "Heat. Celtics. Lakers.\n\nThe Giannis sweepstakes is a three-city race. June 23 is the deadline. ⏰ #NBA",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-giannis-trade-lakers-celtics-heat.html",
+        "headline": "Giannis Trade Race: Celtics Emerge, Luka Complicates Lakers, Heat Still Lead",
+        "word_count": 605
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis Trade Saga\n\n**Image Concept 2A — Social (1080x1350)**\n- **Search terms:** Giannis Antetokounmpo Milwaukee Bucks\n- **Caption overlay:** \"WHERE DOES GIANNIS GO?\"\n- **Mood:** Dramatic, question-mark energy, dark background\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Search terms:** Giannis Antetokounmpo Milwaukee Bucks\n- **Caption overlay:** None\n- **Mood:** Action shot, intense expression\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Trade Saga\n**Timeline (HIGH):**\n- Milwaukee wants resolution before June 23 NBA Draft\n- Bucks open to trade; also open to extension if Giannis commits\n- Bucks wanted to see Finals matchups before deciding\n**Heat (HIGH — multiple sources):**\n- Heat remain frontrunner — \"noise surrounding Miami is louder than all the rest\"\n- Bam Adebayo only untouchable in any deal\n- Giannis has concerns: wants to know what roster looks like post-trade\n**Lakers (HIGH — multiple sources):**\n- Lakers \"very much in the mix\"\n- Luka Doncic won't accept Austin Reaves in any deal — complicating factor\n- Luka reportedly made this known to front office\n**Celtics (MEDIUM — single source, NBC Sports):**\n- Giannis \"very intrigued\" by idea of going to Boston\n- No direct talks between Celtics and Bucks yet",
+        "sources": "- Sources describe it as \"early interest\"\n**Thunder (HIGH):**\n- OKC not interested — ruled out\n**Giannis preference (HIGH):**\n- Wants to stay in Eastern Conference — eliminates most Western teams"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wembanyama's Mental Reset — \"We Can't Change the Past\"",
+      "tier": 2,
+      "status": "",
+      "angle": "After errant pass + missed buzzer in Game 2, Wemby says \"We're already thinking about Game 3\"; 29-pt effort still impressive; Brunson team uses \"Wemby Drill\" — coach holds broom to simulate blocks",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "29 points. 11-of-21 from the field.\n\nWemby was brilliant in Game 2 — until the final 13 seconds.\n\nHis response? \"We can't change the past. We're already thinking about Game 3.\"\n\nThat's a champion's mindset. #GoSpursGo #NBAFinals",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#NBAFinals"
+          ],
+          "char_count": 228
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 1:00 PM ET\n\nVictor Wembanyama had 29 points and shot 11-of-21 from the floor in Game 2 of the NBA Finals.\n\nHe was exceptional for 47 minutes and 47 seconds.\n\nAnd then came the final 13 seconds.\n\nHis errant pass bounced off Stephon Castle's back. Jalen Brunson scooped it up, drove hard, and drew a foul. Brunson made one of two free throws — 105-103 with 2 seconds left. Wembanyama caught the inbound pass, turned, and launched a 20-footer at the buzzer.\n\nIt rattled out. Knicks win, 105-104. Series: 2-0.\n\nThe 22-year-old, making his first ever NBA Finals appearance, was left standing at center court.\n\nHis response afterward? \"We can't change the past. We're already thinking about Game 3.\"\n\nThat is the right attitude. The only productive attitude. If the Spurs are going to pull off the impossible, Wembanyama's mental reset will be a major reason why.",
+        "image_caption": "29 points. A missed buzzer. Wemby says Game 3 is all that matters now. The reset is on. ⚡ #GoSpursGo #NBAFinals",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-wembanyama-mental-reset-game-3.html",
+        "headline": "Wembanyama's Mental Reset: \"We Can't Change the Past\" After Game 2 Heartbreak",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama Mental Reset\n\n**Image Concept 3A — Social (1080x1350)**\n- **Search terms:** Victor Wembanyama San Antonio Spurs\n- **Caption overlay:** \"WE'RE ALREADY THINKING ABOUT GAME 3\"\n- **Mood:** Determined, close-up, black/silver Spurs colors\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama Mental Reset\n**Wemby bio (HIGH — Basketball Reference):**\n- Born January 4, 2004 — 22 years old (first Finals)\n- First-year in Finals; averaged 27.3 PPG, 10.9 RPG, 2.7 BPG in WCF (WCF MVP)\n**Game 2 sequence details (HIGH):**\n- Wemby: 29 pts on 11-of-21 FG despite brutal ending\n- Errant pass hit Castle's back → Brunson steal → Brunson drew foul going out of bounds → made 1 of 2 FT → Wemby 20-ft buzzer missed\n**Brunson drill (MEDIUM — Heavy.com single source):**\n- Brunson's trainer holds a \"gigantic broom\" to simulate Wemby's reach in practice\n- Called \"the Wemby\" — trains footwork, pivoting, high-arch catch-and-shoot\n**Spurs adjustments (MEDIUM — ESPN):**\n- Spurs self-inflicted wounds: defensive breakdowns, missed FTs, turnover\n- Spurs need to be sharper defensively with MSG crowd hostile",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Knicks' 13-Game Playoff Win Streak — Historic Context",
+      "tier": 2,
+      "status": "",
+      "angle": "NY has won 13 consecutive playoff games with +270 pt differential; swept ECF; 2nd-longest streak in NBA Finals era; ESPN: 58.2% win probability Game 3; team depth means no single player to stop",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Knicks playoff run by the numbers:\n\n13 consecutive wins\n+270 point differential\nECF sweep\nNow 2-0 in the Finals\n\nESPN gives them a 58.2% win probability in Game 3.\n\nHistorically dominant. #KnicksTape #NBAFinals",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#KnicksTape",
+            "#NBAFinals"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 4:00 PM ET\n\nLet's put the 2026 Knicks' postseason run in perspective.\n\n13 consecutive playoff wins.\nA point differential over +270.\nAn Eastern Conference Finals sweep.\nTwo road wins to open the NBA Finals.\n\nTheir +19.8 net rating is one of the best ever recorded in a single postseason run. This is not a hot team catching breaks — this is a historically dominant performance.\n\nThe beauty of this team is that they have no single unstoppable player. Brunson shot 7-for-25 in Game 2 and they still won. KAT stepped up with 21 points and 13 rebounds. Josh Hart was active and physical throughout. The bench contributed.\n\nESPN Analytics gives the Knicks a 58.2% win probability in Game 3 at Madison Square Garden. With that crowd, that number might be conservative.\n\nOne more win. Monday night. MSG.",
+        "image_caption": "13 wins. 270+ point differential. Historic.\n\nThe 2026 Knicks don't just win games — they DOMINATE. 🔥 #KnicksTape #NBAFinals",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-knicks-13-game-win-streak-historic.html",
+        "headline": "By the Numbers: The 2026 Knicks' Historic Playoff Run That Nobody Can Explain Away",
+        "word_count": 588
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Win Streak\n\n**Image Concept 4A — Social (1080x1350)**\n- **Search terms:** New York Knicks celebration\n- **Caption overlay:** \"13 STRAIGHT. THE STREAK CONTINUES.\"\n- **Mood:** Celebration energy, confetti, blue/orange\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks 13-Game Win Streak\n**Win streak data (HIGH — verified ESPN/NBA):**\n- 13 consecutive playoff wins heading into Game 3\n- Series vs. Spurs: 2-0\n- ECF: swept opponent (4-0)\n- Regular season run included 12-game win streak (2nd-longest franchise ever)\n- Point differential: +270+ in playoff run, +19.8 net rating\n**Historical comparisons (MEDIUM — single ESPN source):**\n- One of the longest runs in NBA Finals era\n- Knicks' depth: KAT, Brunson, Hart, Robinson injured but playing\n**Game 3 ESPN win probability (HIGH):**\n- 58.2% Knicks, 41.8% Spurs",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NBA Draft Countdown — Dybantsa, Wizards, June 23 Brooklyn",
+      "tier": 2,
+      "status": "",
+      "angle": "AJ Dybantsa \"100%\" to Wizards at No. 1 (-450 odds); Washington wins lottery; draft June 23-24 Brooklyn; Bucks waiting to trade Giannis until after Finals for leverage",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "AJ Dybantsa says he's \"100%\" going No. 1 to the Wizards.\n\n25.5 PPG. 51% FG. Best prospect in a decade.\n\nWashington hasn't had the No. 1 pick since John Wall in 2010.\n\nRebuild starts June 23 in Brooklyn. #WashingtonWizards #NBADraft",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WashingtonWizards",
+            "#NBADraft"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 7:00 PM ET\n\nSixteen days until the 2026 NBA Draft in Brooklyn — and the biggest storyline is already locked in.\n\nAJ Dybantsa, the BYU wing who put up 25.5 points, 6.8 rebounds, and shot 51% from the field this season, says he is \"100%\" certain the Washington Wizards will select him with the No. 1 overall pick.\n\nThe Wizards won the 2026 Draft Lottery — their first No. 1 selection since John Wall in 2010. Dybantsa is the -450 betting favorite to go first, and most scouts agree: he is the best prospect to enter the draft in years.\n\nCBS Sports notes that Washington has not officially committed publicly, but the expectation around the league is nearly universal.\n\nAt the same time, the Giannis trade drama is tied to the same June 23 deadline. That means the biggest trade of the summer and the most anticipated No. 1 pick in years could land on the same night in Brooklyn.\n\nIt is going to be quite a Thursday.",
+        "image_caption": "AJ Dybantsa says he's \"100%\" going No. 1 to Washington.\n\n16 days to the 2026 NBA Draft. The countdown is on. ⏱️ #NBADraft #WashingtonWizards",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nba-draft-dybantsa-wizards-june-23.html",
+        "headline": "AJ Dybantsa Says He's \"100%\" Going No. 1 to Washington — The 2026 Draft Is 16 Days Away",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Draft\n\n**Image Concept 5A — Social (1080x1350)**\n- **Search terms:** AJ Dybantsa BYU\n- **Caption overlay:** \"NO. 1 PICK? DYBANTSA SAYS YES.\"\n- **Mood:** Draft night excitement, spotlight on prospect"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Draft / Dybantsa\n**AJ Dybantsa facts (HIGH — cross-referenced CBS Sports, ESPN):**\n- BYU wing\n- 2025-26 stats: 25.5 PPG, 6.8 RPG, 3.7 APG, 51% FG\n- Consensus top prospect in 2026 class\n- Odds: -450 to go No. 1 overall\n- Wizards won 2026 NBA Draft Lottery (first No. 1 pick since John Wall in 2010)\n- Draft: June 23-24, Brooklyn\n**Dybantsa quote (MEDIUM — single source):**\n- Said he is \"100%\" going No. 1 to Washington\n**Caveat (HIGH — CBS Sports):**\n- Wizards have not officially committed publicly to selecting Dybantsa\n**Bucks draft connection (MEDIUM):**\n- Bucks waiting until Finals conclude before trading Giannis — want to assess Finals teams as suitors\n- Timeline converges: draft deadline June 23, trade market opens after finals",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
