@@ -4,6 +4,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-06-07 | T1 | US Women's Open Final Round: Korda + Kim co-lead at -6 heading into Sunday at Riviera; Charley Hull 65 (low round of week) lurking; 17-year-old amateur Asterisk Talley shot 66 (lowest amateur weekend round in USWO history) also in mix | X, FB, Article | FOLLOW-UP |
+| 2026-06-07 | T1 | Memorial Tournament Long Sunday: R3 suspended Saturday 4:35 PM ET (thunderstorms), resumes 7:30 AM Sunday; Poston + Gerard tied -9 with 13 holes left in R3; R4 starts 11 AM; marathon Sunday at Muirfield Village | X, FB, Article | FOLLOW-UP |
+| 2026-06-07 | T2 | Asterisk Talley — 17-year-old amateur from Fresno CA shoots 5-under 66 in R3 at Riviera; lowest amateur weekend round in U.S. Women's Open history | X, FB, Article | NEW STORY |
+| 2026-06-07 | T2 | LIV Andalucia Championship Sunday: Hatton leads at -10 by 2 shots heading into final round; Garcia in final group at Valderrama (home crowd); Detry also contending; Open Championship spot available | X, FB, Article | FOLLOW-UP |
+| 2026-06-07 | T2 | Scheffler Memorial grind: "worst swing in two years" but made cut (75 consecutive); 10 shots back; three-peat bid effectively over; scouting Shinnecock Hills for US Open June 18-21; 30th birthday June 21 (final round) | X, FB, Article | FOLLOW-UP |
+|------|------|-------|-----------|-------|
 | 2026-06-06 | T1 | Memorial Tournament R2: JT Poston leads at -9 (shot 65 Friday, 8 birdies/0 bogeys, 9 shots better than field avg); Ryan Gerard -8; Scheffler 1-over made cut (10 back); McIlroy 10 back; Round 3 Saturday on Golf Channel | X, FB, Article | NEW STORY |
 | 2026-06-06 | T1 | US Women's Open R2: Alison Lee + Ruoning Yin co-lead at -4 at Riviera CC; Jennifer Kupcho T3; Nelly Korda lurking; Round 3 Saturday on USA Network/Peacock | X, FB, Article | NEW STORY |
 | 2026-06-06 | T2 | Scheffler Memorial swing struggles: "worst I've hit it in a couple years," ranked 59th/72 SG approach, shanked bunker 5th, 3 consecutive bogeys, 4-over thru 10; made cut on 75-consecutive streak; 10 back of Poston; scouting Shinnecock Hills for US Open | X, FB, Article | FOLLOW-UP |
