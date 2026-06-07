@@ -1,0 +1,331 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-07",
+  "compiled_at": "2026-06-07T10:14:31.855995+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Transfer Portal Opens Tomorrow — The Hottest Names to Watch",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The softball transfer portal opens TOMORROW — 15 days, June 8-22. FSU's Jaysoni Beachum (.417 BA, 16 HRs, 66 RBI) headlines the list of names to watch. The offseason chess match starts at midnight. 🥎 #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 1-2",
+          "text": "LSU's Tori Edwards — the 2025 SEC Freshman of the Year with a .802 slugging percentage — is expected in the portal when it opens tomorrow. Two years of eligibility. Top 25 programs will be calling. #CollegeSoftball #SoftballPortal",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#SoftballPortal"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-softball-transfer-portal-opens-june-8-hot-names.html",
+        "headline": "The Transfer Portal Opens Tomorrow — Here Are the Biggest Names to Watch",
+        "word_count": 660
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Transfer Portal Opens Tomorrow — Hot Names to Watch\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Jaysoni Beachum Florida State\" | \"FSU softball\"\n- **Visual concept:** Beachum at bat or in fielding position — athletic action shot representing the portal's biggest mover\n- **Text overlay:**\n  - Headline: PORTAL OPENS TOMORROW\n  - Subtitle: June 8 · 15-Day Window · Who's Moving?\n- **Mood:** Anticipatory, news-forward, urgent\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"college softball\" | \"softball player batting\"\n- **Visual concept:** Generic college softball action — batter or pitcher representing the broader transfer landscape\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Transfer Portal Opens Tomorrow — Hot Names to Watch\n**Source: SI.com / Yahoo Sports / Extra Inning Softball / On3**\n- Transfer portal for undergraduates opens June 8, 15-day window through June 22\n- Graduate students and players with coaching changes could already enter\n- Tennessee's Saviya Morgan (sophomore outfielder) and Kailey Plumlee (freshman pitcher) already announced intent to enter (covered June 6 as setup story)\n- **Jaysoni Beachum (FSU)** — All-American third baseman, final year of eligibility: .417 BA, 78 hits, 16 HRs, 66 RBI, .509 OBP in 2026; FSU had 4 NFCA All-Americans; announced intent to move on\n- **Tori Edwards (LSU)** — redshirt sophomore, 2025 All-American and SEC Freshman of Year, set LSU single-season record with .802 slugging percentage; 2 years of eligibility remaining\n- **LSU pitcher** — 2.81 ERA, 128 Ks, 13-9 record in 139.1 IP; entering portal with 2 years remaining\n- On3 is tracking the full 2026-27 softball transfer portal at on3.com\n- Extra Inning Softball launched \"Switchboard\" to elevate athlete visibility during portal window\n- Every major program expected to be active buyers in the portal\n**Confidence: HIGH** (multiple sources confirming portal timeline and named players)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "2026 College Softball Season Awards — The Year's Best Recognized",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The 2026 college softball awards are in. Megan Grant (UCLA) and Jordy Frahm (Nebraska) named USA TODAY top All-Americans. Patrick Murphy (Alabama) is Coach of the Year. A historic season getting its proper recognition. 🥎 #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 2-2",
+          "text": "NFCA All-Americans: Jordy Frahm and Kaitlyn Terry on the First Team. Teagan Kavan, Katie Stewart, NiJaree Canady, and Mia Williams on the Second Team. Texas Tech had four All-Americans despite losing the championship. #WCWS #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WCWS",
+            "#CollegeSoftball"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-2026-college-softball-season-awards-nfca-usa-today.html",
+        "headline": "The 2026 College Softball Season Awards: Grant, Frahm and a Historic Year Recognized",
+        "word_count": 681
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 College Softball Season Awards\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Megan Grant UCLA\" | \"Jordy Frahm Nebraska\"\n- **Visual concept:** Grant home run swing or Frahm pitching — showcasing the two USA TODAY top All-Americans\n- **Text overlay:**\n  - Headline: 2026 SEASON AWARDS\n  - Subtitle: Best in the Game · USA TODAY & NFCA Honors\n- **Mood:** Celebratory, recognition, season capstone\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Jordy Frahm Nebraska\" | \"Megan Grant UCLA softball\"\n- **Visual concept:** Frahm in pitching motion or Grant mid-swing at WCWS\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 College Softball Season Awards\n**Source: Yahoo Sports / USA TODAY / Texas Tech / NFCA.org / SI.com**\n**USA TODAY Sports Network All-Americans (top honors):**\n- Megan Grant (UCLA) — senior, set NCAA single-season HR record (40+, entered WCWS at 40, surpassing Arizona's Laura Espinoza 37 from 1995), .469 BA, 87 RBI\n- Jordy Frahm (Nebraska) — two-way star: 20-4 pitcher, 12 saves, 1.14 ERA, 234 Ks; .416 BA, 19 HRs, 50 RBI as hitter\n- Patrick Murphy (Alabama) — Coach of Year after leading Crimson Tide to No. 1 overall seed\n**NFCA Division I All-Americans:**\n- First Team: Jordy Frahm (Nebraska), Kaitlyn Terry (Texas Tech), among others\n- Second Team: Teagan Kavan (Texas), Katie Stewart (Texas), NiJaree Canady (Texas Tech), Mia Williams (Texas Tech)\n- Third Team: Jackie Lis (Texas Tech)\n- Texas Tech had 4 NFCA All-Americans: Terry (1st), Canady (2nd), Williams (2nd), Lis (3rd)\n- FSU had 4 NFCA All-Americans: Isa Torres (1st), Ashtyn Danley (2nd), Jazzy Francik (3rd), Jaysoni Beachum (3rd)\n- Texas's four NFCA honorees announced May 27\n**Confidence: HIGH** (texaslonghorns.com, texastech.com, NFCA.org, Yahoo Sports)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "NiJaree Canady Turns Pro — AUSL No. 2 Pick Joins Texas Volts",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "NiJaree Canady — 1,000+ career strikeouts, 96 wins, 3x All-American — is now a professional softball player. The AUSL No. 2 pick joins the Texas Volts. The game at the next level just got better. 🥎 #Softball #AUSL",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#AUSL"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-nijaree-canady-ausl-pro-texas-volts.html",
+        "headline": "NiJaree Canady Turns Pro: The AUSL No. 2 Pick Brings Her 1,000-Strikeout Career to the Texas Volts",
+        "word_count": 573
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NiJaree Canady Turns Pro — AUSL No. 2 Pick\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"NiJaree Canady Texas Tech\"\n- **Visual concept:** Canady in pitching motion — her signature delivery that produced 1,000+ college strikeouts\n- **Text overlay:**\n  - Headline: CANADY GOES PRO\n  - Subtitle: AUSL No. 2 Pick · Texas Volts · The Next Chapter\n- **Mood:** Celebratory, milestone, professional future\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"NiJaree Canady Texas Tech\"\n- **Visual concept:** Canady pitching or post-game portrait\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NiJaree Canady Turns Pro — AUSL No. 2 Pick\n**Source: Texas Tech Athletics / AUSL / MLB.com / ESPN / KFYO**\n- Canady selected No. 2 overall in 2026 AUSL College Draft by the Texas Volts\n- First golden ticket recipient (presented by commissioner Kim Ng and Patrick Mahomes on March 27)\n- Career stats: 1,000+ strikeouts, 96 wins — only active pitcher with those marks\n- 3x All-American (last three seasons)\n- Top 10 ERA in each of the last four regular seasons\n- First collegiate player to sign NIL deal with AUSL including profit participation units\n- Drafted from Topeka, Kansas\n- AUSL = Athletes Unlimited Softball League\n**Confidence: HIGH** (official AUSL.com, texastech.com, MLB.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Post-WCWS Coaching Carousel — Firings and Retirements Reshaping Programs",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Post-season coaching moves: Illinois parts ways with Tyra Perry after 11 years. Minnesota relieves Piper Ritter. Towson's Lisa Costello retires after 33 seasons and 857 wins. The coaching market is officially open. #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-post-wcws-coaching-carousel-2026.html",
+        "headline": "The Post-WCWS Coaching Carousel: Firings, Retirements and Programs in Transition",
+        "word_count": 553
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Post-WCWS Coaching Carousel\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"college softball coach\" | \"softball dugout\"\n- **Visual concept:** Coach in dugout or on field — representative of the leadership change happening across programs\n- **Text overlay:**\n  - Headline: COACHING CAROUSEL\n  - Subtitle: Illinois · Minnesota · Towson · Programs Searching\n- **Mood:** News-focused, transition, change\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"college softball\" | \"softball field\"\n- **Visual concept:** Wide shot of softball field or dugout scene\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Post-WCWS Coaching Carousel\n**Source: SI.com / MSN / NFCA Coaching Transactions**\n- **Illinois**: fired Tyra Perry after 11 years — 2026 record: 15-39 overall, 3-20 Big Ten\n- **Minnesota**: relieved Piper Ritter — 2026 record: 16-36\n- **Towson**: Lisa Costello retires after 33 seasons — career record 857-773-3; retirement effective July 8\n- **Morehead State**: Megan Griffith resigned, effective June 10\n- **Youngstown State**: Brian Campbell retired after 18 seasons — 435 career wins, 3 Horizon League regular-season titles; 30 years coaching total\n- **Longwood**: Megan Brown not returning after 6 seasons, 153-170 record, 7-10 conference in 2026\n- Coaching carousel article at SI.com tracking all moves\n**Confidence: HIGH** (SI.com coaching carousel tracker, NFCA)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "2027 Early Power Rankings — Who Can Dethrone Texas?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "First look at 2027 college softball:\n\nNo. 1 Texas (Kavan + Stewart both return)\nNo. 2 Alabama (Briski back, Murphy intact)\nNo. 3 Texas Tech (loses Canady, returns Terry + Williams)\nNo. 4 Nebraska (WCWS momentum)\nNo. 5 Oklahoma (bounce-back bid)\n\n🥎 #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-2027-college-softball-early-power-rankings.html",
+        "headline": "2027 Early Power Rankings: Texas Is No. 1, But Who Has the Best Shot to Dethrone the Longhorns?",
+        "word_count": 738
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2027 Early Power Rankings\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Teagan Kavan Texas\" | \"Texas Longhorns softball\"\n- **Visual concept:** Kavan in pitching motion — representing the clear No. 1 in the 2027 early rankings\n- **Text overlay:**\n  - Headline: 2027 POWER RANKINGS\n  - Subtitle: No. 1 Texas · The Three-Peat Race Begins\n- **Mood:** Forward-looking, power, competitive energy\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Teagan Kavan Texas\" | \"Texas softball\"\n- **Visual concept:** Kavan on the mound or team celebration — representing the defending champions' return"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2027 Early Power Rankings\n**Source: Synthesis from prior research + story context**\n- **Texas**: Clear No. 1 — Kavan and Stewart both returning juniors; Mike White coaching staff intact; defending back-to-back champs; one of only 5 programs to win consecutive WCWS titles\n- **Alabama**: Jocelyn Briski returning (junior); Patrick Murphy coaching; SEC powerhouse\n- **Texas Tech**: Loses Canady but returns Williams (2nd NFCA), Terry (1st NFCA), Lis; strong program base under Gerry Glasco\n- **Nebraska**: Post-Frahm era; program on the rise after first WCWS in 13 years; Coach Rhonda Revelle building\n- **Tennessee**: Significant portal losses (Morgan, Plumlee + Pickens graduated); Karen Weekly must rebuild\n- **Oklahoma**: First WCWS miss since 2015; Patty Gasso still coaching; expect bounce-back\n- **UCLA**: Loses Grant (graduated) and others; rebuilding\n**Confidence: HIGH** for Texas/Alabama/TexasTech (confirmed returns); MEDIUM for others (program trajectory)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

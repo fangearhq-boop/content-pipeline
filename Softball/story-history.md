@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 7, 2026
+
+### Story 1: Transfer Portal Opens Tomorrow — The Hottest Names to Watch
+- **Date:** 2026-06-07
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Day-before portal preview. Window opens June 8, runs 15 days through June 22. Key names: FSU's Jaysoni Beachum (.417 BA, 16 HRs, 66 RBI, NFCA 3rd Team, 1 year remaining); LSU's Tori Edwards (.802 SLG program record, 2025 SEC Freshman of Year, 2 years remaining); Tennessee's Morgan + Plumlee already announced.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Portal tracker June 8-22 (daily updates on notable entries)
+  - Landing spots for Beachum and Edwards
+  - Tennessee rebuild story
+
+### Story 2: 2026 College Softball Season Awards — The Year's Best Recognized
+- **Date:** 2026-06-07
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** USA TODAY: Megan Grant (UCLA, 40+ HRs, NCAA record) and Jordy Frahm (Nebraska, 20-4/1.14 ERA/234 Ks + .416 BA/19 HRs two-way) named top All-Americans; Patrick Murphy (Alabama) Coach of Year. NFCA: Frahm + Terry First Team; Kavan + Stewart + Canady + Williams Second Team; Texas Tech had 4 All-Americans despite runner-up finish.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Individual player profiles
+  - Texas Tech 2027 outlook without Canady
+
+### Story 3: NiJaree Canady Turns Pro — AUSL No. 2 Pick Joins Texas Volts
+- **Date:** 2026-06-07
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Canady (1,000+ Ks, 96 wins, 3x All-American) selected No. 2 overall in AUSL College Draft by Texas Volts. First golden ticket recipient (presented by Kim Ng + Patrick Mahomes, March 27). NIL deal included profit participation units — first for a college player.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - AUSL season preview/Canady's pro career
+  - Texas Tech 2027 without Canady
+
+### Story 4: Post-WCWS Coaching Carousel — Firings and Retirements
+- **Date:** 2026-06-07
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Illinois fires Tyra Perry (11 years, 15-39 in 2026, 3-20 Big Ten); Minnesota fires Piper Ritter (16-36); Towson's Lisa Costello retires after 33 seasons (857-773-3 career); Morehead State Griffith resigns; Youngstown State Campbell retires (18 seasons, 435 wins).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Coaching candidates for open positions
+  - Program rebuilds
+
+### Story 5: 2027 Early Power Rankings — Who Can Dethrone Texas?
+- **Date:** 2026-06-07
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Texas No. 1 (Kavan + Stewart returning), Alabama No. 2 (Briski back, Murphy intact), Texas Tech No. 3 (returns Terry + Williams, loses Canady), Nebraska No. 4 (post-Frahm era, WCWS momentum), Oklahoma No. 5 (bounce-back from first WCWS miss since 2015).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Portal impact on these rankings
+  - Fall preseason rankings update
+
+---
+
 ## June 6, 2026
 
 ### Story 1: Texas Softball Returns Home — McCombs Field Championship Celebration

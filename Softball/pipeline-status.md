@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-07
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (70 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). FB posts compile to 0 (known heading format). 0 char violations.
+- **Key Stories**: Transfer portal opens June 8 preview/Beachum (.417/16 HR/66 RBI FSU) + Edwards (.802 SLG LSU) headliners (Tier 1), 2026 season awards roundup/Grant + Frahm USA TODAY top All-Americans/Murphy Coach of Year/NFCA Kavan+Stewart 2nd Team (Tier 1), Canady turns pro/AUSL No. 2 pick Texas Volts/1000+ Ks 96 wins (Tier 2), Post-WCWS coaching carousel/Illinois fires Perry/Minnesota fires Ritter/Towson Costello retires 33 years (Tier 2), 2027 early power rankings/Texas No. 1/Alabama/Texas Tech/Nebraska/Oklahoma (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-06
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (56 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published to ilovesoftball-dashboards via publish-dashboard.py. Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
