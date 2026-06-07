@@ -2,6 +2,45 @@
 
 ---
 
+## June 7, 2026
+
+### Story 1: Vevor Baby Swing Recall — CPSC Suffocation Hazard
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — CPSC recall of Vevor baby swings (Sanven Technology). Three models: BB501K, BB702A, BB005K. Sold Jan–Aug 2025 on Amazon.com and Vevor.com, $65–$80. Incline angle exceeds 10 degrees, violating mandatory infant sleep products standard and the Safe Sleep for Babies Act inclined sleepers ban; poses deadly suffocation risk. Remedy: full refund — destroy swing cover, write "Recalled" on base, send photo to recalling@vevor.com.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Models BB501K, BB702A, BB005K; Amazon + Vevor.com; Jan–Aug 2025; $65–$80; Safe Sleep for Babies Act violation; suffocation risk; full refund; recalling@vevor.com; Sanven Technology 855-599-6320 Mon–Fri 9 AM–5 PM PT; Source: CPSC.gov
+
+### Story 2: COS Parks Face $3.1 Million Budget Cut — Summer 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado Springs parks face $3.1 million budget reduction for 2026. Damaged playground equipment will be removed instead of replaced (maintenance budget cut to ~$100,000, 50% reduction). 25% of neighborhood park permanent restrooms closed. 50% reduction in playground surfacing materials. Bright spot: Flanagan Park receiving $750,000 federal community development grant for new playground, ADA-accessible path with lighting and benches, and resurfaced basketball court.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** $3.1M total budget cut; playground maintenance ~$100K (50% reduction); 25% of restrooms closed; 50% surfacing reduction; Flanagan Park $750K federal grant; new playground + ADA path + basketball court; Source: local COS news reporting
+
+### Story 3: PPYMCA Summer Day Camp Week 2 — "Low-Key Famous Artist Week" June 8–12
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pikes Peak YMCA Summer Day Camp Week 2 runs June 8–12 for ages 5–12. Theme: "Low-Key Famous Artist Week" — a week of art, creativity, and summer fun. Registration available at ppymca.org. Full-day and partial-day options. Financial assistance available through YMCA scholarship program. Week 1 (June 1–5, "Vintage Colorado: No WiFi Edition") just concluded.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** June 8–12; ages 5–12; "Low-Key Famous Artist Week"; ppymca.org; financial assistance available; YMCA scholarship program; Source: ppymca.org
+
+### Story 4: COS Childcare Desert — Eastern Colorado Springs Families Can't Find Care
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — El Paso County has 46,800 children under age 5 but child care facilities can serve only ~17,500 kids. Eastern Colorado Springs — especially southeast and Fountain-Fort Carson areas — is the hardest-hit "childcare desert." Average cost $16,300/year per child when care is found. Parents are leaving the workforce because childcare costs exceed their earnings. Child care advocacy groups launched media campaign in January 2026. Proposed solutions: more funding and reduced building renovation regulations.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 46,800 children under 5 in El Paso County; ~17,500 licensed childcare spots; gap of ~29,000+ children; eastern COS / Fountain-Fort Carson hardest hit; $16,300/year average; advocacy media campaign Jan 2026; Source: KOAA, Colorado Springs Gazette, CPR News
+
+### Story 5: D11 Labor Dispute — What Families Need to Know Heading into Fall 2026
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP — More than 300 days after D11 Board of Education dissolved the 56-year master agreement with educators (December 2024 7-1 vote), situation remains unresolved. May 2026 picket at D11 board meeting. October 2025 strike involved 1,000+ participants, one-third of teaching staff, 91% CSEA vote. Families planning for 2026-27 school year: no new master agreement, district made some pay adjustments. November 2026 board elections are key inflection point. Today's angle is the May 2026 picket + fall planning context — distinct from any prior D11 coverage.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Dec 2024 7-1 vote; 56-year master agreement dissolved; Oct 2025 strike 1,000+, one-third teaching staff, 91% CSEA vote; Palmer High School; May 2026 picket 300+ days later; no new master agreement as of June 2026; Nov 2026 board elections; csea-cos.org; d11.org; Source: KRDO, Pikes Peak Bulletin
+
+---
+
 ## June 5, 2026
 
 ### Story 1: TOMY Boon NURSH Baby Bottle Recall — Choking Hazard, Walmart

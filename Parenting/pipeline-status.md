@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 7, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Vevor baby swing CPSC recall (models BB501K/BB702A/BB005K, Jan–Aug 2025, Amazon + Vevor.com, $65–$80, suffocation hazard, recalling@vevor.com, 855-599-6320); COS parks $3.1M budget cut (maintenance ~$100K 50% reduction, 25% restrooms closed, Flanagan Park $750K federal grant); PPYMCA Summer Day Camp Week 2 June 8–12 (ages 5–12, "Low-Key Famous Artist Week", ppymca.org); COS childcare desert — eastern COS (46,800 under 5, ~17,500 spots, $16,300/year, Fountain-Fort Carson hardest hit, media campaign Jan 2026); D11 labor dispute 300+ days (Dec 2024 7-1 vote, 56-year master agreement dissolved, Oct 2025 strike 1,000+, May 2026 picket, csea-cos.org) |
+| Story History Check | COMPLETE | 5 NEW STORIES (all confirmed new angles — Vevor recall newly issued, parks cut 2026 budget cycle, PPYMCA Week 2 new week, childcare desert expanded angle, D11 May 2026 picket update) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 each for Stories 1, 4; 1 each for Stories 2, 3, 5); S5 tweet fixed from 293→239 chars; 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500–1000 words each, 0 exclamation marks, What's Next sections) |
+| Fact-Check | COMPLETE | verify-facts.py passed — 77 claims; S5 tweet char fix applied (293→239) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-07.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-06-07.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-07)
+- **Steps completed:** All 16 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts in PostPlanner xlsx; posting windows 8:00 AM–5:00 PM MT
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-07.xlsx (7 posts), cosp-postplanner-tobi-2026-06-07.xlsx (7 TOBI posts)
+- **Coverage:** Vevor baby swing CPSC recall (suffocation hazard, Safe Sleep for Babies Act violation, models BB501K/BB702A/BB005K, $65–$80, Jan–Aug 2025, recalling@vevor.com, 855-599-6320); COS parks $3.1M budget cut (maintenance ~$100K 50% reduction, 25% restrooms closed, Flanagan Park $750K federal grant); PPYMCA Summer Day Camp Week 2 June 8–12 (ages 5–12, "Low-Key Famous Artist Week", ppymca.org, financial assistance available); COS childcare desert (El Paso County 46,800 under 5, ~17,500 spots, $16,300/year, eastern COS/Fountain-Fort Carson hardest hit); D11 labor dispute (Dec 2024 7-1 vote dissolving 56-year master agreement, Oct 2025 strike 1,000+, May 2026 picket 300+ days later, Nov 2026 board elections)
+- **Notes:**
+  - verify-facts.py: 1 fix required — S5 tweet was 293 chars (URLs counted at 23 chars each), rewritten to 239 chars
+  - compile: 5 stories, 7 X posts, 0 FB posts (PostPlanner xlsx has full 7 posts), 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 22 items
+  - PostPlanner exports: both standard (7) and TOBI (7) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: June 6, 2026
 
 | Step | Status | Notes |

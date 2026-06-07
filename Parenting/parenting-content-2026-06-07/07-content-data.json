@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-07",
+  "compiled_at": "2026-06-07T12:31:59.817876+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "RECALL — Vevor Baby Swings (Suffocation Hazard, Safe Sleep Violation)",
+      "tier": 1,
+      "status": "",
+      "angle": "CPSC recall of Vevor baby swings sold January–August 2025 on Amazon and Vevor.com ($65–$80); three models (BB501K, BB702A, BB005K); incline angle exceeds 10 degrees, violating mandatory infant sleep products standard and the Safe Sleep for Babies Act inclined sleepers ban; poses deadly suffocation risk; remedy: full refund — destroy swing cover, write \"Recalled\" on base, send photo to recalling@vevor.com; contact Sanven Technology 855-599-6320, Mon–Fri 9 AM–5 PM PT",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RECALL ALERT: Vevor baby swings sold Jan–Aug 2025 on Amazon + Vevor.com recalled for suffocation risk.\n\nStop use now. Models BB501K, BB702A, BB005K. Full refund: recalling@vevor.com or 855-599-6320.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Why inclined baby sleepers are dangerous: the Safe Sleep for Babies Act bans them because inclined surfaces cause infants' heads to tip forward, blocking the airway.\n\nCheck your swing. Vevor models are recalled.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-vevor-baby-swing-recall-cpsc-suffocation-hazard.html",
+        "headline": "Vevor Baby Swing Recall: Three Models Recalled for Suffocation Hazard — Stop Use Now",
+        "word_count": 595
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Vevor Baby Swing Recall\n\n#### Social Image (1200x675 — X format)\n- **Prompt:** A baby swing product photo in a clean, neutral nursery setting. Soft morning light. Muted beige and white color palette. Simple aesthetic, no visible brand logos. Clean visual space in the bottom third. Art style: realistic product photography feel. No text or overlays.\n- **Mode:** base_only\n- **Notes:** Do not include baby or child likenesses. Product-style backdrop only.\n\n#### Article Hero (1200x630)\n- **Prompt:** Abstract safety and infant care concept: soft fabric textures, white crib elements, and gentle morning light in a neutral nursery. Clean, safe, calming imagery. No text, no brand logos, no recognizable faces. Clean visual space in the bottom third for text overlay. Art style: soft lifestyle photography aesthetic, warm whites and creams.\n- **Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "COS Parks $3.1 Million Budget Cut — What It Means for Families This Summer",
+      "tier": 1,
+      "status": "",
+      "angle": "Colorado Springs parks face $3.1 million budget reduction for 2026; damaged playground equipment will be removed instead of replaced (maintenance budget cut to ~$100,000, 50% reduction); 25% of neighborhood park permanent restrooms closed; 50% reduction in playground surfacing materials; BRIGHT SPOT: Flanagan Park (central COS) receiving $750,000 federal community development grant for new playground, ADA-accessible path with lighting and benches, resurfaced basketball court",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "COS parks face a $3.1 million budget cut this summer.\n\nWhat that means: damaged playground equipment removed not replaced, 25% of park restrooms closed, playground surfacing reduced 50%.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cos-parks-budget-cuts-families-summer-2026.html",
+        "headline": "COS Parks Face $3.1 Million in Budget Cuts — What Families Need to Know This Summer",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Parks Budget Cuts\n\n#### Social Image (1200x675 — X format)\n- **Prompt:** A playground in a city park on a sunny summer day. Swings, climbing structures, and green grass. Blue Colorado sky background with scattered clouds. Warm, cheerful summer afternoon lighting. No children or adults visible. Clean visual space in the bottom third for text overlay. Art style: bright, inviting lifestyle photography.\n- **Mode:** base_only\n\n#### Article Hero (1200x630)\n- **Prompt:** Wide landscape view of a peaceful neighborhood park in summer. Green grass, mature trees, a playground structure in the background. Pikes Peak visible on the horizon. Bright Colorado sunshine. No people visible. Clean visual space in the bottom third. Art style: editorial landscape photography with warm summer light.\n- **Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "PPYMCA Summer Day Camp Week 2 — \"Low-Key Famous Artist Week\" June 8–12",
+      "tier": 2,
+      "status": "",
+      "angle": "Pikes Peak YMCA Summer Day Camp Week 2 runs June 8–12 for ages 5–12; theme is \"Low-Key Famous Artist Week\" — a week of art, creativity, and summer fun; registration available at ppymca.org; full-day and partial-day options available; financial assistance available through the YMCA scholarship program; Week 1 (June 1–5, \"Vintage Colorado: No WiFi Edition\") just wrapped",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "PPYMCA Summer Day Camp Week 2 — \"Low-Key Famous Artist Week\" — starts Monday, June 8 for ages 5–12.\n\nSpots still available. Register at ppymca.org. Financial assistance is available.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-ppymca-summer-day-camp-week-2-artist-june-8-12.html",
+        "headline": "PPYMCA Summer Day Camp Week 2 Starts Monday — \"Low-Key Famous Artist Week\" for Ages 5–12",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PPYMCA Summer Camp\n\n#### Social Image (1200x675 — X format)\n- **Prompt:** Art supplies arranged on a bright table — colorful paints, brushes, paper, crayons — in a summer camp setting. Warm, bright natural light. Cheerful primary colors. No text, no brand logos. Clean visual space in the bottom third for text overlay. Art style: bright, inviting lifestyle photography.\n- **Mode:** base_only\n\n#### Article Hero (1200x630)\n- **Prompt:** An activity table with colorful art materials: paint palettes, brushes, pencils, colorful paper scattered playfully. Summer light through a window. Warm and creative atmosphere. No text, no brand logos, no recognizable faces. Clean space in bottom third. Art style: bright editorial lifestyle photography.\n- **Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "COS Childcare Desert — Eastern Colorado Springs Families Can't Find Care",
+      "tier": 1,
+      "status": "",
+      "angle": "El Paso County has 46,800 children under age 5 but child care facilities can serve only ~17,500 kids; eastern Colorado Springs — especially the southeast and Fountain-Fort Carson areas — is the hardest-hit \"childcare desert\"; average cost $16,300/year per child when care is found; parents are leaving the workforce because childcare costs exceed their earnings; child care advocacy groups launched a media campaign in January 2026; proposed solutions include more funding and reduced building renovation regulations",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "El Paso County: 46,800 children under age 5. Child care spots available: ~17,500.\n\nEastern Colorado Springs has the least access in the city — especially the southeast and Fountain-Fort Carson areas.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 4-2",
+          "text": "The average annual cost of child care in Colorado Springs when you can find it: $16,300.\n\nMany parents are doing the math and leaving the workforce.\n\nThe gap between supply and demand is 29,000+ kids.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cos-childcare-desert-eastern-colorado-springs.html",
+        "headline": "Colorado Springs Childcare Desert: El Paso County Has 46,800 Kids Under 5 and Spots for 17,500",
+        "word_count": 736
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Childcare Desert\n\n#### Social Image (1200x675 — X format)\n- **Prompt:** A warm, inviting classroom or daycare room — small tables, colorful building blocks, toys on shelves, natural light through large windows. Empty room, no people. Warm and nurturing visual feel. No text or brand logos. Clean visual space in the bottom third for text overlay. Art style: soft editorial lifestyle photography.\n- **Mode:** base_only\n\n#### Article Hero (1200x630)\n- **Prompt:** Wide landscape view of eastern Colorado Springs — residential neighborhoods, the Front Range visible in the distance, blue sky with clouds. Residential streets and community feel. No people. Clean visual space in the bottom third. Art style: documentary-style landscape photography with warm Colorado light.\n- **Mode:** base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "D11 Labor Dispute — What Families Need to Know Heading into Summer and Fall",
+      "tier": 2,
+      "status": "",
+      "angle": "More than 300 days after the D11 Board of Education dissolved the 56-year-old master agreement with educators (December 2024 7-1 vote), the situation remains unresolved; May 2026 picket at D11 board meeting; October 2025 strike involved 1,000+ participants; families planning for the 2026-27 school year should understand the ongoing labor dispute; district has made some pay adjustments but no formal master agreement; families can follow updates at csea-cos.org",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "It's been 300+ days since D11 ended the 56-year master educator agreement.\n\nA May 2026 picket showed this situation is far from resolved. What D11 families need to know for fall.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-d11-labor-dispute-families-fall-2026.html",
+        "headline": "D11 Labor Dispute: What Colorado Springs Families Need to Know Heading into the 2026–27 School Year",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Labor Dispute\n\n#### Social Image (1200x675 — X format)\n- **Prompt:** An elementary school exterior on a sunny Colorado morning — brick building, American flag, green lawn, clear blue sky. No people visible. Warm, neutral morning light. Clean visual space in the bottom third for text overlay. Art style: editorial school photography, clean and professional.\n- **Mode:** base_only\n\n#### Article Hero (1200x630)\n- **Prompt:** A school hallway scene — empty corridor with lockers, classroom doors visible, clean linoleum floors, warm light from windows at the end of the hall. No people. Professional and clean. No text or brand logos. Clean visual space in the bottom third. Art style: realistic editorial photography.\n- **Mode:** base_only"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
