@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-07
+
+### Story 1: Skubal Makes Rehab Start — Tigers Eye June 14 Return
+- **Date:** 2026-06-07
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Tarik Skubal (two-time Cy Young) makes rehab start with High-A West Michigan vs Dayton on June 7 — less than 5 weeks after nano-scope elbow surgery May 6. Target return: June 14 at Cleveland. Tigers 6-21 without him. Free agent after season; every contender watching trade deadline value.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Return to rotation June 14
+  - Trade deadline decision (keep vs. deal)
+  - Tigers second-half outlook
+
+### Story 2: Braves 42-21 — Best Record in Baseball
+- **Date:** 2026-06-07
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Atlanta 42-21, best record in MLB, 8.5-game NL East lead over Phillies (33-29), ESPN No. 1 power ranking for 4th straight week. Sale anchoring rotation, Acuña back, Olson/Riley carrying the lineup. First time all three top-ranked teams are from the NL.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - NL pennant race watch
+  - Dodgers challenge to Braves No. 1 status
+
+### Story 3: Murakami Named AL Rookie of Month for May
+- **Date:** 2026-06-07
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Munetaka Murakami wins AL ROY Month for May: .244 BA, 8 HRs, 18 RBI, 19 walks, .382 OBP, .556 SLG in 26 games. Season total: 20 HRs in 55 career games (4th fastest MLB history; fastest Japanese-born player, beating Ohtani's 101-game pace). Grade 2 hamstring IL (~May 31, ~4 weeks), return late June/early July.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Murakami return timeline
+  - AL ROY race second half
+
+### Story 4: AL East Race — Yankees 37-25, Rays 36-23 With Judge on IL
+- **Date:** 2026-06-07
+- **Tier:** 2
+- **Classification:** FOLLOW-UP (Judge IL covered June 6 Tier 1; this is the division race angle)
+- **Angle:** Half-game race with Judge (rib stress fracture, 10-day IL June 4, out 4-6 weeks through All-Star break). Spencer Jones in RF. Blue Jays/Orioles 30-33 (8 GB); Red Sox 26-35. Rays have clear window.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Standings updates through All-Star break
+  - Spencer Jones performance
+
+### Story 5: Weekend Roundup — Misiorowski Velocity, Ohtani ERA, Mariners
+- **Date:** 2026-06-07
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Misiorowski velocity records continued in Brewers 7-1 win over Rockies (Saturday); Ohtani 0.74 ERA through 10 starts (3rd best in MLB history since 1913; only deGrom 0.56 in 2021 and Marichal 0.59 in 1966 lower); Mariners 4-0 over Tigers Sunday; Braves 42-21 week summary.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Misiorowski Cy Young bid tracking
+  - Ohtani two-way season historical placement
+
+---
+
 ## 2026-06-06
 
 ### Story 1: Aaron Judge on IL — Right Rib Stress Fracture

@@ -1,0 +1,334 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-07",
+  "compiled_at": "2026-06-07T10:23:32.423595+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 5",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Skubal Makes Rehab Start Today — Two-Time Cy Young Eyes June 14 Return",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tarik Skubal is pitching today. High-A West Michigan, less than five weeks after elbow surgery. The two-time Cy Young winner's comeback bid starts now — and if it goes well, he could be back in the Tigers rotation by June 14. ⚾ #DetroitTigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DetroitTigers"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Skubal's rehab situation: nano-scope surgery May 6, first live game reps today. Scott Boras says \"short rehab.\" Tigers are 6-21 without him. Every contender has their eye on the trade deadline and his arm. #DetroitTigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#DetroitTigers",
+            "#MLB"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-skubal-rehab-start-tigers-return-timeline.html",
+        "headline": "Skubal's Comeback Starts Today: Rehab Start Puts Tigers Ace on Track for June 14 Return",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Makes Rehab Start — Return Timeline\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Tarik Skubal Detroit Tigers\" | \"Skubal pitching\"\n- **Visual concept:** Skubal in pitching motion — action shot representing his comeback\n- **Text overlay:**\n  - Headline: SKUBAL'S COMEBACK\n  - Subtitle: Rehab Start Today · June 14 Return Target · Two-Time Cy Young\n- **Mood:** News-forward, anticipatory, dramatic\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Tarik Skubal Detroit Tigers\"\n- **Visual concept:** Skubal mid-delivery or looking in for a sign\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Rehab Start — Return Timeline\n**Source: MLB.com / ESPN / Last Word On Baseball / ClutchPoints / SI.com**\n- Tarik Skubal making rehab start TODAY (June 7, Sunday) with High-A West Michigan Whitecaps vs. Dayton\n- Surgery: May 6 — 'nano-scope' procedure to remove loose body from left elbow; new minimally invasive take on arthroscopic surgery (previously took 2-3 months to return, Skubal on track in under 5 weeks)\n- Tigers AJ Hinch announced rehab assignment\n- High-A chosen over Triple-A Toledo due to weather in Grand Rapids being better than Iowa\n- If rehab start goes well, target return: June 14 at Cleveland (next weekend)\n- Tigers record since Skubal went on IL around May 4: 6-21 (cited in June 6 pipeline as Tier 2 story)\n- Skubal is a two-time Cy Young Award winner (back-to-back)\n- He becomes a free agent after the 2026 season — trade deadline August 3 looms\n- Scott Boras is Skubal's agent; expects a \"short rehab\"\n**Confidence: HIGH** (MLB.com, ESPN, official team announcements)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Braves 42-21 — Baseball's Best Team Is Running Away With It",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Atlanta Braves are 42-21. Best record in baseball. No. 1 in ESPN power rankings for the 4th straight week. 8.5-game lead in the NL East. At the two-month mark, the Braves look like the team nobody wants to see in October. #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 2-2",
+          "text": "NL standings check:\nAtlanta 42-21\nDodgers 40-22\nBrewers 37-22\n\nThree NL teams in the top three for the first time this season. The National League is running away from the AL at the top. #MLB #Braves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Braves"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-braves-42-21-best-team-baseball-2026.html",
+        "headline": "The Braves Are Baseball's Best Team — And It Isn't Close",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves 42-21 — Baseball's Best Team\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Atlanta Braves celebration\" | \"Ronald Acuna Braves\" | \"Chris Sale Atlanta\"\n- **Visual concept:** Braves dugout celebration or Acuña home run trot — dynamic winning energy\n- **Text overlay:**\n  - Headline: BEST TEAM IN BASEBALL\n  - Subtitle: Braves 42-21 · No. 1 in MLB · 8.5-Game NL East Lead\n- **Mood:** Dominant, confident, championship caliber\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Atlanta Braves\" | \"Ronald Acuna Braves\"\n- **Visual concept:** Braves game action or team celebration wide shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Braves 42-21 — Best Record in Baseball\n**Source: ESPN / DeepMetricAnalytics / Game7 / CBS Sports**\n- Atlanta Braves record: 42-21 as of approximately June 7 standings\n- NL East lead: 8.5 games over Philadelphia Phillies (33-29)\n- ESPN Power Rankings: No. 1 for 4th consecutive week (Week 10)\n- Braves and Dodgers competing for No. 1; Brewers No. 3 (first time all three top teams from NL)\n- Ronald Acuña Jr. recovered from thumb bone bruise (X-rays negative earlier, day-to-day); has been hitting well\n- Chris Sale anchoring the rotation (from June 6 — \"Sale + Riley carrying ATL\")\n- Matt Olson continuing at 1B\n- CBS Sports \"Two-Month Grades\": Braves are A+ earners\n**Confidence: HIGH** (ESPN, standings confirmed multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Murakami Named AL Rookie of Month for May — Historic 20-HR Pace Even After IL Stint",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Munetaka Murakami wins the AL Rookie of the Month for May — 8 HRs, 18 RBI, 19 walks in 26 games. He has 20 HRs in 55 career games, 4th fastest in MLB history. Currently on IL (hamstring) but the historic pace doesn't pause. #WhiteSox #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-murakami-al-rookie-month-may-2026.html",
+        "headline": "Murakami Wins AL Rookie of the Month: The Historic Start That Earned the Hardware",
+        "word_count": 601
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Murakami AL Rookie of Month\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Munetaka Murakami White Sox\" | \"Murakami Chicago\"\n- **Visual concept:** Murakami home run swing or bat flip — celebrating the historic early season\n- **Text overlay:**\n  - Headline: AL ROOKIE OF THE MONTH\n  - Subtitle: Murakami · May 2026 · 20 HRs in 55 Games\n- **Mood:** Celebratory, record-breaking, rising star energy\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Munetaka Murakami White Sox\"\n- **Visual concept:** Murakami batting or mid-swing — showcasing the raw power\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Murakami AL Rookie of Month for May\n**Source: MLB.com press release / CBS Sports / ESPN / Baseball Reference**\n- **Official:** Munetaka Murakami (White Sox) named AL Rookie of the Month for May 2026\n- May stats: .244 BA (22-for-90), 8 HRs, 18 RBI, 4 doubles, 19 walks, 21 runs, 1 SB, .382 OBP, .556 SLG in 26 games\n- Season: 20 HRs through 55 career games — 4th fastest in MLB history to 20 HRs\n- Fastest Japanese-born player to reach 20 MLB HRs (previously Ohtani at 101 games)\n- White Sox went from 121 losses in 2024 to Wild Card contenders in 2026\n- Grade 2 hamstring IL (placed ~May 31, 2-4 weeks out) — return expected late June / early July\n- 5-game HR streak had tied White Sox franchise record (from May 22-23 pipeline entries)\n- Age 26; from Japan's NPB (Yakult Swallows); handled April/May MLB adjustment extremely well\n- Exit velocity 94.2, hard hit % 58.7, wOBA .400, barrel% 20.7\n**Confidence: HIGH** (MLB official press release, multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "AL East Race Tightens — Yankees Lead Rays by Half a Game Without Judge",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "AL East right now:\nYankees 37-25 (+0.5)\nRays 36-23\n\nAaron Judge is on the IL with a rib stress fracture. Out at least through the All-Star break. Spencer Jones in RF. The Rays can smell it. #Yankees #RaysUp #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#RaysUp",
+            "#MLB"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-al-east-race-yankees-rays-judge-injury.html",
+        "headline": "Half a Game, No Judge: The AL East Race Is On Without the Yankees' Best Player",
+        "word_count": 640
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AL East Race Without Judge\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Aaron Judge Yankees injured\" | \"Tampa Bay Rays\" | \"New York Yankees\"\n- **Visual concept:** Judge in Yankees uniform or Rays game action — division race visual\n- **Text overlay:**\n  - Headline: AL EAST RACE\n  - Subtitle: Yankees 37-25 · Rays 36-23 · Judge on IL\n- **Mood:** Competitive, tension, tight race\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"New York Yankees\" | \"Aaron Judge Yankees\"\n- **Visual concept:** Yankees game action or Judge at bat\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AL East Race — Yankees Lead Rays by Half Game Without Judge\n**Source: ESPN / MLB.com / Yahoo Sports**\n- Yankees 37-25 (first place by 0.5 games)\n- Rays 36-23 (second place)\n- Blue Jays 30-33, Orioles 30-33 — both 8 GB\n- Boston Red Sox 26-35 — 11 GB\n- Aaron Judge: diagnosed with stress fracture of right rib (1st rib), placed on 10-day IL June 4\n- Recovery: 4-6 weeks, reimaged to determine healing before return — out through All-Star break (mid-July), possibly through August 3 trade deadline\n- Spencer Jones recalled from Triple-A to fill roster gap\n- José Caballero and Max Schuemann played right field during Judge's initial absence\n- Yankees feared season-ending injury — avoiding that is the silver lining\n- ESPN: \"Time to panic in the Bronx?\" — AL East impact explored\n**Confidence: HIGH** (MLB.com official, ESPN, Yahoo Sports)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Weekend Roundup — Misiorowski's Velocity, Astros Offense, and Sunday Watch Guide",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Weekend stats worth noting:\n• Misiorowski velocity records again (Brewers 7-1 over Rockies)\n• Ohtani: 0.74 ERA through 10 starts — 3rd best since 1913\n• Mariners 4-0 Tigers on Sunday\n• Braves 42-21 heading into the week\n\nSunday in baseball. ⚾ #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mlb-weekend-roundup-misiorowski-ohtani-stats.html",
+        "headline": "Weekend in Baseball: Misiorowski's Velocity, Ohtani's Historic ERA and the Week That Was",
+        "word_count": 633
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Weekend Roundup\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Jacob Misiorowski Milwaukee Brewers\" | \"Shohei Ohtani Dodgers pitching\"\n- **Visual concept:** Misiorowski in pitching motion or Ohtani two-way action\n- **Text overlay:**\n  - Headline: WEEKEND IN BASEBALL\n  - Subtitle: Misiorowski Velocity · Ohtani 0.74 ERA · Braves 42-21\n- **Mood:** Fun, stats-forward, weekend recap energy\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"MLB baseball action\" | \"baseball stadium\"\n- **Visual concept:** Generic baseball action — stadium shot or pitcher mid-delivery"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Weekend Roundup\n**Source: ESPN / Fox Sports / Search results**\n- Saturday June 6: Jacob Misiorowski set velocity records in Brewers win over Rockies 7-1 (from first search result); Misiorowski previously set 103.6 mph all-time starter record on May 27\n- Houston Astros won big on June 6 (total scored over 15 per betting lines)\n- Toronto won with total over 8.5 on June 6\n- Ohtani 2026: 0.74 ERA (3rd best in MLB history since 1913 through first 10 starts — deGrom 0.56, Marichal 0.59 only better); also NL OBP leader; two-way season\n- Mariners 4-0 over Tigers on June 7 (per first search result)\n- Royals vs Twins 1-1 during play (not final)\n- Sunday June 7: full schedule\n**Confidence: MEDIUM** (Some Saturday results from betting data lines, not box scores)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

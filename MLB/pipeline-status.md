@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-07
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (42 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). FB posts compile to 0 (known heading format). 0 char violations.
+- **Key Stories**: Skubal rehab start June 7/nano-scope surgery May 6/target return June 14 at Cleveland/Tigers 6-21 without him (Tier 1), Braves 42-21 best record in baseball/8.5-game NL East lead/ESPN No. 1 for 4th straight week (Tier 1), Murakami AL Rookie Month May/.244/8 HR/18 RBI/19 walks in 26 games/20 HRs in 55 career games 4th fastest MLB history (Tier 2), AL East race Yankees 37-25 Rays 36-23/Judge out 4-6 weeks rib stress fracture/Spencer Jones (Tier 2), Weekend roundup/Misiorowski velocity/Ohtani 0.74 ERA/Mariners 4-0 Tigers (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-06
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (45 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py — pushed to GitHub.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
