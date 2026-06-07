@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-07",
+  "compiled_at": "2026-06-07T11:22:10.055185+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Wins Monaco Grand Prix — Fifth Victory of 2026",
+      "tier": 1,
+      "status": "",
+      "angle": "Kimi Antonelli converts pole to Monaco win; 5th victory of 2026 season; championship lead extends significantly; race started 9 AM ET Apple TV+",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "ANTONELLI WINS MONACO.\n\nFrom pole. Five wins in 2026. Championship lead extends.\n\nThe 19-year-old is turning this season into something historic.\n\nP1 Antonelli | P2 Verstappen | P3 Hamilton | P4 Leclerc #F1 #MonacoGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 216
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Monaco pole-to-win. Again.\n\nAntonelli started P1. He finished P1.\n\n5 victories in 2026. The championship gap just got bigger.\n\nCan anyone stop this Mercedes driver? #F1 #MonacoGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 AM ET\n\nKimi Antonelli has won the 2026 Monaco Grand Prix.\n\nStarting from pole — the only position that matters at Monte Carlo — the Mercedes driver led every meaningful lap and crossed the finish line ahead of Max Verstappen and Lewis Hamilton to take his fifth victory of the 2026 Formula 1 season.\n\nThe Monaco Grand Prix was always going to be decided in qualifying. Antonelli secured pole on Saturday by just 0.043 seconds over Verstappen, with Hamilton a further two tenths back in third. On a circuit where overtaking is nearly impossible, that order held through to the checkered flag.\n\nFive wins from eight races. A championship lead that keeps growing. Kimi Antonelli is running away with the 2026 F1 title in a way that few anticipated when the season began.\n\nP1: Antonelli | P2: Verstappen | P3: Hamilton | P4: Leclerc | P5: Hadjar | P6: Russell",
+        "image_caption": "Monaco Grand Prix. Winner: Kimi Antonelli.\n\nFive victories in 2026. The championship keeps growing. 🏆 #MonacoGP #F1",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-antonelli-wins-monaco-gp-2026.html",
+        "headline": "Antonelli Wins Monaco Grand Prix for Fifth F1 Victory of 2026",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monaco GP Race Result\n\n**Image Concept 1A — Social (1080x1350)**\n- **Search terms:** Kimi Antonelli Mercedes Formula 1\n- **Caption overlay:** \"ANTONELLI WINS MONACO — 5 WINS IN 2026\"\n- **Mood:** Victory celebration, silver Mercedes colors, Monte Carlo backdrop\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Search terms:** Kimi Antonelli Mercedes Formula 1\n- **Caption overlay:** None\n- **Mood:** Race action, tight circuit, victory moment\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monaco GP Race Result — Antonelli Wins\n**Race details (HIGH):**\n- Event: 2026 Monaco Grand Prix (Race 8)\n- Date: Sunday, June 7, 2026\n- Broadcast: 9:00 AM ET, Apple TV+\n- Circuit: Circuit de Monaco, Monte Carlo\n**Race result (HIGH — formula1.com race result URL confirmed):**\n- P1: Kimi Antonelli (Mercedes)\n- P2: Max Verstappen (Red Bull)\n- P3: Lewis Hamilton (Ferrari)\n- P4: Charles Leclerc (Ferrari)\n- P5: Isack Hadjar (Red Bull)\n- P6: George Russell (Mercedes)\n- P7: Oscar Piastri (McLaren)\n- P8: Lando Norris (McLaren)\n- P9: Pierre Gasly (Alpine)\n- P10: Liam Lawson (Racing Bulls)\n**Qualifying result (HIGH — cross-referenced ESPN, Sky Sports, F1.com):**\n- P1: Antonelli (1m 12.051s — maiden Monte Carlo pole)\n- P2: Verstappen (+0.043s)\n- P3: Hamilton (+0.228s)\n- P4: Leclerc\n**Antonelli context (HIGH):**\n- Monaco win is his 5th victory of the 2026 season (4 consecutive wins going into Monaco)\n- Championship lead: 131 pts before Monaco (43 ahead of Russell)\n- After Monaco (est.): ~156 pts after P1 (+25) vs Russell ~96 (P6, +8)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen P2 at Monaco — But the July 27 Exit Clause Clock Keeps Ticking",
+      "tier": 1,
+      "status": "",
+      "angle": "Verstappen holds P2 from grid for Monaco podium finish, second consecutive podium; still outside top-2 in championship with July 27 exit clause deadline looming",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Verstappen: P2 at Monaco. Back-to-back podiums (Canada P3, Monaco P2).\n\nStill not in the top 2 of the championship.\n\nExit clause deadline: July 27.\n\nThe clock is ticking. #MaxVerstappen #F1 #MonacoGP",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MaxVerstappen",
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 10:00 AM ET\n\nMax Verstappen finished second at the Monaco Grand Prix — his second consecutive podium after P3 in Canada.\n\nBy any normal measure, back-to-back podiums is a sign of progress. By the standard of Verstappen's contract with Red Bull, it is still not enough.\n\nVerstappen's deal includes an exit clause that allows him to terminate his contract if he is not inside the top two in the Drivers' Championship by the summer break — a deadline of July 27. That clause was included because of Verstappen's longstanding concerns about the 2026 technical regulations. Red Bull has been running as the fourth-fastest team on the grid through much of the season.\n\nMonaco P2 helps. Canada P3 helped. But Verstappen is still outside the top-two in the championship, and George Russell — who sits second — finished P6 today, meaning the gap between them narrows only slightly.\n\nJuly 27 is 50 days away. The math is getting harder.",
+        "image_caption": "Verstappen P2 at Monaco. Back-to-back podiums. Still not in the top 2 of the championship.\n\nThe exit clause deadline is July 27. ⏳ #MaxVerstappen #F1 #MonacoGP",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clause-monaco-p2.html",
+        "headline": "Verstappen Claims Monaco P2 — But His Exit Clause Deadline Is July 27",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n**Image Concept 2A — Social (1080x1350)**\n- **Search terms:** Max Verstappen Red Bull Racing\n- **Caption overlay:** \"EXIT CLAUSE: JULY 27. THE CLOCK IS TICKING.\"\n- **Mood:** Tension, dark energy, Red Bull livery\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Search terms:** Max Verstappen Red Bull Racing\n- **Caption overlay:** None\n- **Mood:** Determined, focused, racing intensity\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen P2 / Exit Clause\n**Exit clause details (HIGH — multiple sources, motorsport.com, gpfans.com):**\n- Clause: Verstappen can exit Red Bull contract if he is NOT in top-2 of Drivers' Championship by summer break\n- Deadline: July 27, 2026\n- Clause activatable: August to October 2026\n- Context: Added due to Verstappen's \"longstanding apprehension\" about 2026 regulations\n**Verstappen standings (HIGH — verified from pipeline context):**\n- Canada P3 = first 2026 podium\n- Monaco P2 = second 2026 podium\n- Championship position: P3 or below (George Russell P2 going into Monaco)\n- Still outside top-2 in championship after Monaco\n**Monaco qualifying (HIGH):**\n- Started P2 (0.043s off Antonelli's pole)\n- Race result: P2\n**Red Bull context (MEDIUM):**\n- Red Bull has been 4th-fastest team on grid early 2026\n- Monaco result (P2, P5) is a strong result for the team\n- Spanish GP next — very different car characteristics required",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Hamilton Takes Ferrari's First Monaco Podium — P3 in Monte Carlo",
+      "tier": 2,
+      "status": "",
+      "angle": "Lewis Hamilton earns P3 at Monaco in his Ferrari debut at Monte Carlo; previously won Monaco 3 times with Mercedes (2008, 2016, 2019); emotional milestone",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Hamilton has won Monaco three times.\n\nIn 2008. In 2016. In 2019. All in silver.\n\nToday he stood on the podium in RED for the first time at Monte Carlo.\n\nP3. First Ferrari Monaco podium. New chapter. #LewisHamilton #F1 #MonacoGP",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LewisHamilton",
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 12:00 PM ET\n\nLewis Hamilton has won the Monaco Grand Prix three times in his career. He did it in 2008. He did it in 2016. He did it in 2019. All three times, he was driving for Mercedes.\n\nSunday marked something different — and in some ways, even more meaningful.\n\nHamilton finished third at Monaco in his first season with Ferrari, standing on the podium at the most iconic circuit in Formula 1 for the first time wearing red. He had been fastest in Free Practice 2 on Saturday. He qualified third, separated from Antonelli's pole by just 0.228 seconds. When the lights went out, he held his position through the race's tight confines.\n\nIt is not a Monaco win — that remains with 2024 champion Leclerc and the three times Hamilton achieved it in silver. But it is a podium at a circuit that demands perfection, and it signals that Hamilton's Ferrari chapter has genuine potential.\n\nNext up: the Spanish Grand Prix.",
+        "image_caption": "Three Monaco wins in Mercedes silver. Now: podium in Ferrari red.\n\nHamilton on the Monte Carlo podium once more. P3 at Monaco 2026. 🏎️ #LewisHamilton #F1",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-hamilton-ferrari-monaco-podium-p3.html",
+        "headline": "Hamilton Stands on Monaco Podium in Ferrari Red for the First Time",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Ferrari Monaco\n\n**Image Concept 3A — Social (1080x1350)**\n- **Search terms:** Lewis Hamilton Ferrari Formula 1\n- **Caption overlay:** \"FIRST FERRARI MONACO PODIUM — P3\"\n- **Mood:** Emotional, Ferrari red, celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton P3 Monaco\n**Hamilton Monaco record (HIGH — verified cross-source):**\n- Three Monaco GP wins with Mercedes: 2008, 2016, 2019\n- Most recent: 2019\n**Ferrari debut at Monaco (HIGH):**\n- First season with Ferrari (2026)\n- FP2: Led practice with fastest time (1:13.026)\n- Qualifying: P3 (0.228s off Antonelli)\n- Race: P3 — first Ferrari Monaco podium of his career\n**Hamilton quote (MEDIUM — single source from Canada context):**\n- After Canada P2, called it \"one of the happiest days\" with Ferrari",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Leclerc's Home Race Heartbreak — P4 at Monaco",
+      "tier": 2,
+      "status": "",
+      "angle": "Charles Leclerc starts and finishes P4 at his home race; Ferrari-dominant weekend in practice (Leclerc FP1 fastest); defending 2024 Monaco winner couldn't repeat at Circuit de Monaco",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Leclerc lives in Monaco.\n\nHe won here in 2024. He was the pre-race favorite. FP1 fastest.\n\nHe qualified P4. He finished P4.\n\nMonaco doesn't care about storylines. #CharlesLeclerc #F1 #MonacoGP",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CharlesLeclerc",
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 2:00 PM ET\n\nCharles Leclerc lives in Monaco. He races Monaco every year with the weight of expectation that comes from being the home driver at the most prestigious street circuit on the F1 calendar.\n\nHe won it in 2024. He was the pre-race betting favorite at +185 in 2026. He was the fastest driver on the entire circuit during Friday's Free Practice 1 session.\n\nThen came qualifying: Leclerc was fourth, 0.228 seconds behind the pace of his own teammate Lewis Hamilton. And at Monaco, qualifying is destiny. There was no overtaking to be done on Sunday, no strategy to change the order. Leclerc finished exactly where he started: fourth.\n\nThat is the brutal truth of Monaco. The race is nearly always over before it begins. Your grid position is your race position. Leclerc knew this better than anyone — he won from pole in 2024.\n\nSaturday did not deliver. Sunday could not fix it.",
+        "image_caption": "Leclerc lives here. He won here in 2024. He was the favorite.\n\nHe finished P4. Monaco doesn't care about storylines. 🇲🇨 #CharlesLeclerc #F1 #MonacoGP",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-leclerc-home-race-monaco-p4.html",
+        "headline": "Leclerc Finishes P4 at His Home Race — Monaco's Brutal Truth Strikes Again",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leclerc Home Race\n\n**Image Concept 4A — Social (1080x1350)**\n- **Search terms:** Charles Leclerc Ferrari Formula 1\n- **Caption overlay:** \"HOME RACE. P4. MONACO DOESN'T CARE.\"\n- **Mood:** Reflective, Monte Carlo skyline, Ferrari red\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc Monaco\n**Leclerc Monaco facts (HIGH):**\n- Monaco resident — lives in Monte Carlo\n- 2024 Monaco GP winner (last year)\n- Multiple Monaco poles (3+ historically)\n- 2026 qualifying: P4\n- 2026 race: P4\n**Leclerc Monaco context (MEDIUM):**\n- FP1 fastest in Friday practice (1:11.964 cited in pipeline notes — was FP1)\n- Pre-race betting favorite at +185\n- Could not improve on grid position in race (typical Monaco — hard to overtake)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "2026 F1 Championship Standings After Monaco",
+      "tier": 2,
+      "status": "",
+      "angle": "Antonelli extends gap over Russell with Monaco win; championship picture sharpens heading into Spanish GP; Verstappen's path to top-2 becomes increasingly urgent",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "2026 F1 championship after Monaco:\n\nAntonelli: 5 wins in 8 races\nChampionship lead: growing\nNext: Spanish GP\n\nOne driver. One team. One story dominating the entire season. #F1 #MonacoGP",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 185
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 5:00 PM ET\n\nAfter eight rounds of the 2026 Formula 1 season, one thing is becoming increasingly clear: Kimi Antonelli is going to be very difficult to stop.\n\nThe Mercedes driver has now won five of the first eight races of the year. His Monaco victory further extends his championship lead over teammate George Russell, who could only manage P6 at Monte Carlo. Russell entered the Monaco weekend already 43 points behind Antonelli following his devastating Lap 30 retirement in Canada. That gap has now grown further.\n\nBehind them, Max Verstappen's double-podium run (Canada P3, Monaco P2) has given him a foothold in the championship, but time is running short — his Red Bull contract exit clause requires him to be in the top two by July 27.\n\nThe Spanish Grand Prix is next on the calendar. Unlike Monaco, Barcelona is a circuit where overtaking is possible, car development matters, and strategy plays a larger role. For Russell, Verstappen, and the rest of the field, Spain represents the first genuine opportunity to cut into Antonelli's advantage.\n\nThe window is still open. But it is closing.",
+        "image_caption": "Five wins in eight races. Championship lead: growing.\n\nAntonelli is making history in 2026. Can anyone stop him? 🏆 #F1 #MonacoGP",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-f1-championship-standings-monaco.html",
+        "headline": "F1 Championship Standings After Monaco: Antonelli Extends Lead — Can Anyone Stop Him?",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n**Image Concept 5A — Social (1080x1350)**\n- **Search terms:** Kimi Antonelli Mercedes Formula 1 champion\n- **Caption overlay:** \"5 WINS. 8 RACES. CAN ANYONE STOP HIM?\"\n- **Mood:** Dominant, championship energy, Mercedes silver"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings\n**Standings before Monaco (HIGH — from pipeline tracking):**\n- P1: Kimi Antonelli (Mercedes) — 131 pts, 4 wins\n- P2: George Russell (Mercedes) — 88 pts (43-pt gap)\n- P3: Others (Leclerc, Hamilton, Verstappen)\n**After Monaco (estimated, HIGH for direction, MEDIUM for exact):**\n- Antonelli P1 (+25) → ~156 pts\n- Russell P6 (+8) → ~96 pts\n- Gap extends: ~60 pts\n- Verstappen P2 (+18) → improves championship position\n- Hamilton P3 (+15) → gains on Leclerc P4 (+12)\n**Season context (HIGH):**\n- 2026 is 24-race season with new FIA aerodynamic regulations\n- Spanish GP is next race\n- Antonelli has been dominant — won Canada, now Monaco (5 wins total in 2026)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

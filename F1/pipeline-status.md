@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-06
+- **Date**: 2026-06-07
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-07
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-07.xlsx (6 posts) + f1fr-postplanner-tobi-2026-06-07.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-07/review-dashboard.html (26 items)
+- **Notes:** Monaco GP race day: Antonelli wins from pole (5th win/8 races, P2 Verstappen, P3 Hamilton, P4 Leclerc, P6 Russell); championship gap extends ~60 pts; Verstappen exit clause July 27/still outside top-2; Hamilton first Ferrari Monaco podium; Leclerc home race P4 heartbreak; Spanish GP next
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-06
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

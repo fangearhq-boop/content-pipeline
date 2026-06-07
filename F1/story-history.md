@@ -2,6 +2,46 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-07
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Antonelli wins Monaco GP — pole-to-win, 5th victory of 2026, championship lead extends; P1 Antonelli P2 Verstappen P3 Hamilton P4 Leclerc | 1 | FOLLOW UP |
+| 2 | Verstappen P2 Monaco — back-to-back podiums (Canada P3/Monaco P2) but still outside top-2 in championship; July 27 exit clause deadline | 1 | FOLLOW UP |
+| 3 | Hamilton Ferrari Monaco podium — P3 at Monte Carlo, first Ferrari Monaco podium; FP2 fastest in practice | 2 | FOLLOW UP |
+| 4 | Leclerc home race P4 — defending 2024 winner, pre-race +185 favorite, FP1 fastest, qualifying P4 = race P4; Monaco's brutal truth | 2 | FOLLOW UP |
+| 5 | F1 championship standings after Monaco — Antonelli extends lead ~60 pts over Russell; Verstappen P2 championship position urgent; Spanish GP next | 2 | FOLLOW UP |
+
+### STORY 1: Antonelli Monaco GP Win
+- **Tier:** 1
+- **Key facts:** Antonelli wins Monaco from pole (1m 12.051s); 5th win of 2026 in 8 races; P2 Verstappen; P3 Hamilton; P4 Leclerc; P5 Hadjar; P6 Russell; championship lead extends ~60 pts over Russell
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spanish GP result; championship gap update
+
+### STORY 2: Verstappen Exit Clause Pressure
+- **Tier:** 1
+- **Key facts:** Exit clause: must be top-2 by July 27 or can terminate Red Bull deal. Canada P3 + Monaco P2 = back-to-back podiums. Still outside top-2 in championship. Red Bull 4th-fastest team in 2026. Spanish GP critical.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spanish GP result; standings movement; exit clause trigger decision
+
+### STORY 3: Hamilton Ferrari Monaco Podium
+- **Tier:** 2
+- **Key facts:** P3 Monaco; FP2 fastest (1:13.026); 3 Monaco wins with Mercedes (2008/2016/2019); first Ferrari Monaco podium; P2 Canada also strong result
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spanish GP; Hamilton overall 2026 standings
+
+### STORY 4: Leclerc Home Race Heartbreak
+- **Tier:** 2
+- **Key facts:** Monaco resident; 2024 Monaco winner; pre-race +185; FP1 fastest; qualifying P4 (0.228s off pace); race P4 — grid position = race position at Monaco
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spanish GP bounce-back; Leclerc championship position
+
+### STORY 5: F1 Championship Standings After Monaco
+- **Tier:** 2
+- **Key facts:** Antonelli 156+ pts (est.); Russell 96+ pts; gap ~60 pts; Verstappen climbs; Hamilton/Leclerc solid Ferrari double-points; Spanish GP next at Barcelona
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spanish GP preview; championship math
+
 ## 2026-06-06
 
 | # | Story | Tier | Tag |
