@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-07
+
+### STORY 1: Cubs 3, Giants 2 — Bounce-Back Win Saturday
+- **Angle:** NEW STORY (June 6 game recap — Cubs won 3-2 after 18-3 blowout; series tied 1-1; record 34-31)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result tonight (Taillon vs McDonald)
+  - Ben Brown's confirmed pitching line after June 6 start (unverified today)
+
+### STORY 2: Dansby Swanson BENCHED — .180 BA Slump
+- **Angle:** FOLLOW UP (Swanson slump ongoing; new angle = Counsell officially benches him Saturday for mental reset)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold accountability take)
+- **Follow-Up Opportunities:**
+  - Swanson's return to lineup and any turnaround
+  - If slump deepens, Counsell roster decisions
+
+### STORY 3: Cubs Acquire LHP Antoine Kelly from Dodgers
+- **Angle:** NEW STORY (trade acquisition June 6 — LHP depth amid rotation injury crisis)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, roster move reaction)
+- **Follow-Up Opportunities:**
+  - Kelly's MLB debut or first appearance for Cubs
+  - Boyd activation (the more significant return)
+
+### STORY 4: Boyd Final Rehab Start Done; Shaw Close to Activation
+- **Angle:** FOLLOW UP (rotation reinforcements arc; Boyd completed final Iowa rehab start June 6; Shaw 2-for-4 in recent rehab games)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster update)
+- **Follow-Up Opportunities:**
+  - Boyd activation date and first Cubs start back
+  - Shaw activation and return to bench role
+  - Impact on rotation (Taillon/Wicks/others when healthy starters return)
+
+### STORY 5: NL Central Watch — Cubs 34-31, June Is the Window
+- **Angle:** FOLLOW UP (standings tracking; Cubs 34-31, trailing Milwaukee, sub-.500-heavy June schedule is the opportunity)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update after tonight's game
+  - Brewers tracking through June
+
+### STORY 6: Series Decider Preview — Taillon vs McDonald, 7:30 PM CT
+- **Angle:** NEW STORY (rubber game preview — Taillon 2-5 5.13 ERA vs McDonald 2-3 4.50 ERA; Cubs 19-14 at home)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game preview)
+- **Follow-Up Opportunities:**
+  - Tonight's game result (tomorrow's pipeline lead story)
+  - Taillon performance tracking / roster decision if ERA stays above 5.00
+
+---
+
 ## 2026-06-05
 
 ### STORY 1: Series Preview — Cubs vs Giants, 3 Games at Wrigley

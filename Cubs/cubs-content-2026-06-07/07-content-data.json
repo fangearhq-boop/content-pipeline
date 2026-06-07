@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-07",
+  "compiled_at": "2026-06-07T09:14:49.734820+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Cubs 3 Giants 2 bounce-back recap",
+      "type": "X text post"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Swanson benched — .180 BA",
+      "type": "X text post"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Antoine Kelly acquired from Dodgers",
+      "type": "X text post"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Boyd final rehab done; Shaw close",
+      "type": "X text post"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "NL Central 34-31 standings",
+      "type": "X text post"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Series decider preview 7:30 PM CT",
+      "type": "X text post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 3, Giants 2 — Bounce-Back Win Saturday",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (June 6 game recap — Cubs bounced back from 18-3 blowout to win 3-2; series now tied 1-1; record 34-31)",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Cubs 3, Giants 2.\n\nBOUNCED BACK. One day after getting torched 18-3, the Cubs answered with a gutsy win to tie the series heading into tonight.\n\nRecord: 34-31. Wrigley decides it all tonight at 7:30 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Morning game recap (score-led)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 3, Giants 2 — Bounce-Back Win (Saturday, June 6)\n**Facts (verified):**\n- Final score: Cubs 3, Giants 2 — HIGH confidence (ESPN gameday, MLB.com gameday, CBS Sports box score — multiple independent sources)\n- Cubs record after: 34-31 overall — HIGH confidence (multiple sources)\n- Cubs home record: 19-14 — HIGH confidence\n- Context: Previous game (June 5) was 18-3 Giants win — established in prior pipeline\n**Facts (MEDIUM — single source or inferred):**\n- Ben Brown was the scheduled Cubs starter per June 6 pipeline (scheduled: Ben Brown, 1.92 ERA)\n- Ben Brown's ERA appears to be ~1.74 in post-June 6 research snippets (vs 1.92 entering June 6) — consistent with a strong start but not confirmed from box score\n- No specific pitching line confirmed from today's research\n**Story angle:** Bounce-back after the worst loss of the year. Score leads. Series context (tied 1-1 entering tonight). Keep Brown reference implicit — don't fabricate his line.\n**Sources:**\n- ESPN: https://www.espn.com/mlb/game/_/gameId/401815653/giants-cubs\n- MLB.com: https://www.mlb.com/gameday/giants-vs-cubs/2026/06/06/824669/final/box\n- CBS Sports: https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260606_SF@CHC/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Dansby Swanson BENCHED — .180 BA Slump Hits Crisis Point",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (Swanson slump; new angle = Counsell actually benches him Saturday for mental reset — first time off this season)",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Dansby Swanson is BENCHED.\n\n.180 average. Six hits in his last 46 at-bats. Counsell pulled him Saturday for a mental reset — and who can blame him.\n\n$177M invested. This bat needs to wake up.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold take / player accountability",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Dansby Swanson Benched — .180 BA Slump\n**Facts (verified):**\n- Current BA: .180 — HIGH confidence (ESPN, Sun-Times, Yahoo Sports)\n- Last 14 games: 6 hits in 46 AB = .130 — HIGH confidence\n- Counsell benched Swanson June 6 for mental reset — HIGH confidence\n- Counsell quote: \"Just give him a couple of days away from the game...just give him a different look and just a little break mentally\" — HIGH confidence (multiple sources cite)\n- Swanson's contract: 7 years, $177M — HIGH confidence (established public contract)\n- Defense: .983 fielding %, 4 errors in ~60 games — HIGH confidence\n**Facts (MEDIUM):**\n- \"3rd worst batting average among regular MLB players\" — single source ranking; use directional framing (\"among the worst\")\n- Swanson's status for tonight's game: unclear — may or may not return to lineup after the bench day\n**Story angle:** Big name, big contract, benched. Hard numbers, clean stat lead.\n**Sources:**\n- ESPN: https://www.espn.com/mlb/story/_/id/48984900/cubs-hold-slumping-shortstop-dansby-swanson-lineup\n- Sun-Times: https://chicago.suntimes.com/cubs/2026/06/01/cubs-dansby-swanson-slump-stats-defense-craig-counsell-lineup\n- Yahoo Sports: https://sports.yahoo.com/articles/slumping-shortstop-dansby-swanson-cubs-180329484.html",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs Acquire LHP Antoine Kelly from Dodgers",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (June 6 trade acquisition — LHP depth amid rotation injury crisis)",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "The Cubs acquired LHP Antoine Kelly from the Dodgers on Saturday.\n\nWith Horton (Tommy John) and Steele (60-day IL) both out, the rotation is PATCHED together right now.\n\nKelly adds depth. Boyd's activation this week is the real move.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Roster news / trade reaction",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Antoine Kelly Acquired from Dodgers\n**Facts (verified):**\n- Cubs acquired LHP Antoine Kelly from the Los Angeles Dodgers — MEDIUM-HIGH confidence (Cubs Insider, MLB Trade Rumors)\n- Date: June 6, 2026\n- Rotation context: Horton (Tommy John, ~16 months), Steele (60-day IL), multiple arms injured\n- LHP designation confirmed\n**Facts (MEDIUM/LOW — need caution):**\n- Kelly's MLB stats / career details: not confirmed in today's research — do not claim specific numbers\n- Return terms / what Cubs gave up: not confirmed — omit from tweet\n**Story angle:** Depth acquisition during an injury crisis. Boyd return (the bigger move) approaching.\n**Sources:**\n- Cubs Insider: https://www.cubsinsider.com/2026/06/05/chicago-cubs-vs-san-francisco-giants-series-preview-june-5-7-overview-game-and-broadcast-info-starting-pitchers-w2w4/\n- MLB Trade Rumors: https://www.mlbtraderumors.com/chicago-cubs",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Boyd Final Rehab Start Done; Shaw Also Close to Return",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (rotation reinforcements arc; Boyd made final Iowa rehab start Saturday; Shaw 2-for-4 in recent rehab games)",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Boyd made his final Iowa rehab start Saturday — activation this week is the plan.\n\nMatt Shaw is ALSO close: 2-for-4 in rehab after back tightness cost him three weeks.\n\nBoth pieces coming back. The Cubs need every healthy body they can get.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Roster update / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Boyd Final Rehab Start; Shaw Nearing Activation\n**Facts (verified):**\n- Boyd made final Iowa rehab start Saturday, June 6 — HIGH confidence (Bleacher Nation, ESPN, Fox Sports)\n- Boyd injury: torn left knee meniscus (May 4, 2026)\n- Boyd's first rehab start stats: 4 IP, 63 pitches, 2 ER, 4 H, 2 K, 1 BB (confirmed per prior pipeline + research)\n- Boyd activation expected this week per Counsell — HIGH confidence\n- Shaw injury: mid-back tightness (placed on IL May 22)\n- Shaw rehab stats: 0-for-3 (Game 1), 2-for-4 (Game 2) — HIGH confidence (CBS Sports, Bleacher Nation, RotoWire)\n- Shaw returns as utility player (Bregman holds 3B starting role) — HIGH confidence\n**Story angle:** Double return incoming. Boyd is the bigger story for the rotation. Shaw adds bench depth. Both timely.\n**Sources:**\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/05/31/matthew-boyd-rehab-start/\n- ESPN: https://www.espn.com/mlb/story/_/id/48885528/cubs-lhp-matthew-boyd-scheduled-make-two-rehab-starts\n- CBS Sports: https://www.cbssports.com/fantasy/baseball/news/cubs-matt-shaw-begins-rehab-assignment/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NL Central Watch — Cubs 34-31, June Is the Window",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (standings tracking; fresh angle = Cubs above .500 at 34-31 but still chasing Milwaukee; sub-.500-heavy June schedule is the opportunity)",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Cubs are 34-31 — above .500 but still trailing Milwaukee in the division.\n\nJune is the WINDOW — most of the remaining schedule is sub-.500 opponents, and the Giants just tied this series 1-1.\n\nEvery win matters. The standings won't wait.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Standings analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Central Standings — Cubs 34-31\n**Facts (verified):**\n- Cubs: 34-31 — HIGH confidence\n- Cubs home record: 19-14 — HIGH confidence\n- Brewers leading division: confirmed (was 37-23 entering June 6 — today's exact record unconfirmed)\n**Facts (MEDIUM):**\n- Cardinals June 7 record: was 32-28 entering June 6; today's result unknown — use \"Cardinals\" directionally\n- Exact games-back figures: Cubs were 1 GB behind Cardinals per June 6 data (32-28 vs 33-31); with Cubs now 34-31, gap may have narrowed\n- Brewers exact current record: not confirmed today — use hedge language\n**Story angle:** Cubs above .500 at 34-31 but still chasing the Brewers with the Cardinals close. June's sub-.500 schedule = window of opportunity.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Series Decider — Taillon vs McDonald, 7:30 PM CT at Wrigley",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (rubber game preview — series tied 1-1; Taillon (2-5, 5.13 ERA) vs McDonald (2-3, 4.50 ERA); Cubs 19-14 at home)",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Series DECIDER tonight at Wrigley. 7:30 PM CT.\n\nTaillon (2-5, 5.13 ERA) vs McDonald (2-3, 4.50 ERA). Cubs are 19-14 at home — time to prove it.\n\nWin this series against a 26-39 Giants team, or let one of the year's worst slip away.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Pre-game preview / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Decider Preview — Taillon vs McDonald, 7:30 PM CT\n**Facts (verified):**\n- Taillon stats: 2-5, 5.13 ERA, 1.26 WHIP, 66.2 IP — HIGH confidence (multiple preview sources)\n- McDonald stats: 2-3, 4.50 ERA, 1.15 WHIP, 34.0 IP — HIGH confidence\n- Game time: 7:30 PM CT — HIGH confidence (series context snapshot, NBC Sports preview)\n- Venue: Wrigley Field — HIGH confidence\n- Giants record: 26-39 — HIGH confidence (series context)\n- Series situation: Tied 1-1 (Cubs won Game 2 yesterday 3-2; Giants won Game 1 June 5 18-3) — HIGH confidence\n**Story angle:** Series decider, rubber game. Taillon under the microscope (5.13 ERA). Cubs need to close out a team 13 games below .500.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
