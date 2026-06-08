@@ -1,0 +1,337 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-08",
+  "compiled_at": "2026-06-08T10:15:35.302504+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Transfer Portal Day 1 — The Flood Is Real",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The softball transfer portal is OPEN. Day 1 confirmed entries: Beachum (FSU), Edwards (LSU), Swan (ASU), Morgan + Plumlee (Tennessee). 15 days. The 2027 season is being built right now. 🥎 #CollegeSoftball #SoftballPortal",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#SoftballPortal"
+          ],
+          "char_count": 220
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tori Edwards (LSU) is in the portal — 2025 SEC Freshman of Year, .802 SLG program record, two full years of eligibility left. The most valuable long-term piece available. Programs are calling. #CollegeSoftball #SoftballPortal",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#SoftballPortal"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-softball-transfer-portal-day-1-entries-2026.html",
+        "headline": "The Portal Is Open: Day 1 Entries Confirm the 2027 Shuffle Has Begun",
+        "word_count": 730
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Transfer Portal Day 1 — The Flood Is Real\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Jaysoni Beachum Florida State\" | \"Tori Edwards LSU\"\n- **Visual concept:** Beachum at the plate or in fielding position — representing the most coveted transfer in this cycle\n- **Text overlay:**\n  - Headline: PORTAL IS OPEN\n  - Subtitle: Day 1 · Beachum · Edwards · Swan · The 2027 Shuffle Begins\n- **Mood:** Urgent, news-forward, competitive\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"college softball\" | \"softball batter\"\n- **Visual concept:** Generic college softball action — batter or fielder representing the transfer landscape\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Transfer Portal Day 1 — The Flood Is Real\n**Sources:**\n- SI.com/OnSI: \"Florida State Softball All-American Enters Transfer Portal — Jaysoni Beachum\" (confirmed)\n- On3.com: \"2026-27 Softball Transfer Portal\" tracker\n- SI.com/OnSI: \"These are the Hottest Names in the College Softball Transfer Portal\"\n- SI.com/OnSI: \"Tennessee Softball Players Announce Intent to Enter Transfer Portal\"\n- ExtraInningsSoftball.com: \"Transfer Portal Opens June 8th\"\n- D1Softball.com: Transfer Tracker Leaderboard\n- Yahoo Sports: \"Hottest Names in College Softball Transfer Portal\"\n**Key Confirmed Facts (HIGH confidence):**\n- Portal window: June 8–22, 2026 (15 days) — HIGH (multiple sources)\n- Jaysoni Beachum (FSU): entered portal; No. 1 ranked transfer; .417 BA, 16 HR, 66 RBI, NFCA 3rd-Team All-American, one year of eligibility — HIGH (SI.com confirmed)\n- Tori Edwards (LSU): entered portal; 2025 SEC Freshman of Year; .802 SLG (LSU program record); redshirt sophomore, two years of eligibility — HIGH (On3 confirmed)\n- Samantha Swan (Arizona State): entered portal; .383 BA, 12 HR, 55 RBI, 21 doubles; All-Big 12 First Team; NFCA All-West Region Third Team — HIGH (SI.com)\n- Saviya Morgan (Tennessee, sophomore OF) and Kailey Plumlee (Tennessee, freshman pitcher): announced intent, confirmed — HIGH\n- Jaysoni Beachum OBP: .549 (per SI.com); note: June 7 article used .509 — using .549 per confirmed source\n- Freshness: Portal opened this morning; all entries are today's news\n**Notes:** Beachum's stats slightly differ between sources — using SI.com confirmed: .549 OBP, 54 walks. June 7 article used .509 from earlier reporting. Both sourced; using SI values for today's content.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Illinois + Minnesota Name New Head Coaches in the Same Week",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Illinois hires Jenna Hall — a former Illini All-American who was HC at Ohio University for four years. Five-year contract. She's back home. 🥎 #Softball #BigTen #IlliniSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#BigTen",
+            "#IlliniSoftball"
+          ],
+          "char_count": 175
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Minnesota hired Gretta Melsted from Augustana — 813 wins, 20 seasons, 2019 D2 national champion. The Gophers didn't go small. #Softball #BigTen #GopherSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#BigTen",
+            "#GopherSoftball"
+          ],
+          "char_count": 159
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-illinois-minnesota-softball-coaching-hires-hall-melsted.html",
+        "headline": "Illinois Hires Jenna Hall. Minnesota Brings in a Dynasty Builder. The Big Ten Moves Fast.",
+        "word_count": 665
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Illinois + Minnesota Coaching Hires\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"college softball coach\" | \"softball dugout\"\n- **Visual concept:** Coach on field or in dugout — representing program leadership transitions\n- **Text overlay:**\n  - Headline: NEW COACHES\n  - Subtitle: Illinois: Jenna Hall · Minnesota: Gretta Melsted\n- **Mood:** News-forward, institutional, fresh start\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Big Ten softball\" | \"college softball dugout\"\n- **Visual concept:** Dugout scene or sideline coaching moment\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Illinois + Minnesota Coaching Hires\n**Sources:**\n- Daily Illini: \"Illinois hires former All-American Jenna Hall as new head softball coach\" (June 2, 2026)\n- SI.com/OnSI: \"Illinois Softball All-American Named Head Coach of Program\"\n- SI.com/OnSI: \"Gophers Hire Augustana Hall of Famer as New Softball Head Coach\"\n- The Daily Gopher: \"Minnesota Hires Gretta Melsted as New Softball Coach\"\n- SI.com/OnSI: \"2026 NCAA Softball Coaching Carousel\" (confirming firings/hires)\n**Key Confirmed Facts (HIGH confidence):**\n- Illinois hired Jenna Hall: former Illinois All-American; spent 4 years as HC at Ohio University; 5-year contract; third head coach in program history — HIGH (multiple sources)\n- Minnesota hired Gretta Melsted: head coach at Augustana University (Sioux Falls, SD) for 20 seasons; 813-313 overall record; 2019 Division II national championship; named Hall of Famer — HIGH (multiple sources)\n- Illinois fired Tyra Perry: after 11 years (covered June 7 — FOLLOW UP context only)\n- Minnesota fired Piper Ritter: after 16-36 season (covered June 7 — FOLLOW UP context only)\n- Freshness: Hall hire reported June 2; Melsted hire new this week; both are current and not yet covered as hires in this pipeline",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Jocelyn Briski Returns: Alabama Eyes 2027 Title Run Around Their Ace",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jocelyn Briski — Alabama's SEC Pitcher of the Year, the ace of a 22-shutout staff — is expected back for 2027. The Crimson Tide don't need to find an ace. They already have one. #CollegeSoftball #Alabama",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#Alabama"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-alabama-softball-2027-jocelyn-briski-returns.html",
+        "headline": "Briski Is Back: Alabama's Best Pitcher Returns and the 2027 Title Race Gets Complicated",
+        "word_count": 653
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jocelyn Briski Returns\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Jocelyn Briski Alabama\"\n- **Visual concept:** Briski pitching — her ace delivery that anchored the No. 1 seed staff\n- **Text overlay:**\n  - Headline: BRISKI IS BACK\n  - Subtitle: SEC Pitcher of the Year · Alabama · 2027 Title Contender\n- **Mood:** Powerful, confident, championship-focused\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Jocelyn Briski Alabama\" | \"Alabama softball\"\n- **Visual concept:** Briski on the mound or in pregame warmup\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jocelyn Briski Returns — Alabama 2027\n**Sources:**\n- On3.com, SI.com: 2026 softball coverage; Briski identified as SEC Pitcher of Year\n- June 7 pipeline brief: \"No. 2 Alabama (Briski back, Murphy intact)\" — confirms return\n- SI.com: Alabama 2026 season stats — 49-7 record, 1.60 ERA, 22 shutouts\n**Key Confirmed Facts (HIGH confidence):**\n- Briski: 2026 SEC Pitcher of Year — HIGH\n- Alabama 2026: 49-7, No. 1 overall seed, 1.60 ERA, 22 shutouts — HIGH (from prior pipeline, cross-referenced)\n- Briski confirmed returning for 2027 (implied in June 7 power rankings as \"Briski back\") — MEDIUM (no direct announcement source found, treated as expected return per prior pipeline)\n- Patrick Murphy: head coach, Alabama — HIGH\n**Note:** Briski return classified MEDIUM because no direct announcement source; framed as \"expected return\" and \"has not entered the portal\" to protect accuracy.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tennessee's Rebuild Begins — After Portal Entries and Pickens' Graduation, What's Next?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tennessee loses Karlyn Pickens (graduated, 79.4 mph, 3x All-American) PLUS Morgan and Plumlee to the portal. Karen Weekly has rebuilt before. This is her biggest challenge in years. #CollegeSoftball #Tennessee",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#Tennessee"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-tennessee-softball-rebuild-pickens-graduated-portal.html",
+        "headline": "After Pickens, Morgan, and Plumlee: Tennessee Faces Its Steepest Rebuild in Years",
+        "word_count": 667
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tennessee Rebuild\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Karlyn Pickens Tennessee\" | \"Tennessee softball\"\n- **Visual concept:** Pickens in pitching delivery — representing what the Lady Vols are losing and must replace\n- **Text overlay:**\n  - Headline: THE REBUILD BEGINS\n  - Subtitle: Pickens Gone · Morgan + Plumlee In Portal · Weekly Must Reload\n- **Mood:** Reflective, urgent, transitional\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Tennessee softball\" | \"Karen Weekly Tennessee\"\n- **Visual concept:** Tennessee team on field or Weekly coaching — representing the program's next chapter\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tennessee Rebuild\n**Sources:**\n- SI.com/OnSI: \"Tennessee Softball Players Announce Intent to Enter Transfer Portal\"\n- Wikipedia/D1Softball: Karlyn Pickens career stats — 79.4 mph (fastest college softball pitch), 3x NFCA First-Team All-American, 2x SEC POY\n- June 7 brief and prior pipeline history: Tennessee semifinal losses to Texas\n**Key Confirmed Facts (HIGH confidence):**\n- Karlyn Pickens: graduated; 79.4 mph top speed (confirmed fastest in college softball history); 3x First-Team All-American; 2x SEC POY — HIGH\n- Morgan (sophomore OF, Tennessee) and Plumlee (freshman pitcher, Tennessee): portal entries confirmed — HIGH\n- Tennessee WCWS appearances: 10th in 2026 (mentioned in prior pipeline) — MEDIUM (use \"one of the most decorated programs in WCWS history\" as framing rather than specific count)\n- Karen Weekly: Tennessee head coach — HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "The Texas Tech Portal Blueprint — What the Runner-Up Built and Why It Matters",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Texas Tech went 61-8 and reached the WCWS title game in 2026. 15 of 23 players on their roster were transfers. The portal blueprint is out there. Now every program is running the same play. #CollegeSoftball #SoftballPortal",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#SoftballPortal"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-texas-tech-transfer-portal-blueprint-softball.html",
+        "headline": "The Texas Tech Portal Blueprint: 15 of 23 Transfers, 61-8, WCWS Runner-Up",
+        "word_count": 720
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Tech Portal Blueprint\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"NiJaree Canady Texas Tech\" | \"Texas Tech softball\"\n- **Visual concept:** Canady in pitching motion representing the portal-built roster that reached the title game\n- **Text overlay:**\n  - Headline: THE PORTAL BLUEPRINT\n  - Subtitle: 15 of 23 Transfers · 61-8 · WCWS Runner-Up\n- **Mood:** Analytical, competitive, forward-thinking\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Texas Tech softball\" | \"NiJaree Canady\"\n- **Visual concept:** Texas Tech team or Canady on the mound — representing the transfer-built team"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Tech Portal Blueprint\n**Sources:**\n- FrontOfficeSports.com: \"Powered by Transfers, Controversy-Filled Texas Tech Softball Heads to WCWS Semis\"\n- Prior pipeline history: Texas Tech 2026 roster details; Canady/Terry/Williams portal histories\n**Key Confirmed Facts (HIGH confidence):**\n- Texas Tech 2026 WCWS runner-up — HIGH\n- 15 of 23 players on Texas Tech's 2026 roster did not begin careers in Lubbock — HIGH (confirmed by Front Office Sports)\n- NiJaree Canady, Kaitlyn Terry, Mia Williams all arrived via transfer — HIGH\n- Canady: departed to AUSL (covered June 7) — HIGH (FOLLOW UP context)\n- Texas Tech 2026 record: 61-8 (from prior pipeline) — HIGH\n## Story History Check\n| Story | Status |\n|-------|--------|\n| Transfer portal Day 1 flood | FOLLOW UP (June 7 preview; today's angle is actual entries) |\n| Coaching hires: Hall + Melsted | NEW STORY (June 7 covered firings, not hires) |\n| Briski returns for 2027 | NEW STORY |\n| Tennessee rebuild | NEW STORY |\n| Texas Tech portal blueprint | NEW STORY |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

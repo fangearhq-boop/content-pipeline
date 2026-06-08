@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 8, 2026
+
+### Story 1: Transfer Portal Day 1 — The Flood Is Real
+- **Date:** 2026-06-08
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 7, 2026)
+- **Angle:** Portal officially open as of June 8. Confirmed Day 1 entries: Jaysoni Beachum (FSU, No. 1 ranked transfer, .417 BA/16 HR/66 RBI/1 yr eligibility); Tori Edwards (LSU, .802 SLG, 2025 SEC Freshman of Year, 2 yrs remaining); Samantha Swan (ASU, .383 BA/12 HR/55 RBI, All-Big 12 First Team); Tennessee's Saviya Morgan + Kailey Plumlee confirmed.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Landing spots for Beachum and Edwards (June 10–22)
+  - Daily portal tracker updates
+  - Commitments to watch by June 22
+
+### Story 2: Illinois + Minnesota Name New Head Coaches
+- **Date:** 2026-06-08
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Illinois hired Jenna Hall (former Illinois All-American, Ohio University HC 4 years, 5-year contract). Minnesota hired Gretta Melsted (Augustana, 813-313, 2019 D2 national champion, 20 seasons, Hall of Famer). Both acting in same week; both will be active in portal window.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - First portal additions under Hall and Melsted
+  - First full recruiting class
+
+### Story 3: Jocelyn Briski Returns — Alabama 2027
+- **Date:** 2026-06-08
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** SEC Pitcher of the Year returning for 2027. Alabama 49-7, 1.60 ERA, 22 shutouts in 2026. Briski is the cornerstone of a reload, not a rebuild. Murphy using portal to address offense.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Alabama portal additions
+  - Full 2027 Alabama preview when roster takes shape
+
+### Story 4: Tennessee Rebuild — Pickens Graduated, Morgan + Plumlee in Portal
+- **Date:** 2026-06-08
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Pickens graduated (79.4 mph, 3x First-Team AA, 2x SEC POY). Morgan (sophomore OF) and Plumlee (freshman pitcher) both in portal. Weekly faces significant rebuild. 15 days to address pitching and outfield.
+- **Content Produced:** X (1 post), FB (long-form), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee portal commitments
+  - Full rebuild preview
+
+### Story 5: Texas Tech Portal Blueprint
+- **Date:** 2026-06-08
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** 15 of 23 Tech players were transfers in 2026; 61-8 runner-up. Canady, Terry, Williams all via portal. Blueprint is now every program's playbook. Tech must reload without Canady.
+- **Content Produced:** X (1 post), FB (long-form), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Tech's portal additions this cycle
+  - Follow-up on whether model sustains
+
+---
+
 ## June 7, 2026
 
 ### Story 1: Transfer Portal Opens Tomorrow — The Hottest Names to Watch
