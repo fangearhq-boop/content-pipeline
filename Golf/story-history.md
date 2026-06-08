@@ -937,3 +937,50 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** LeBron gifted custom Nike shoes; wore them to start R1; changed at hole 16 ("fit not right, slightly different spacing"); shot 73 (+2); 7 back of Kupcho; 54 holes remaining
 - **Status:** NEW STORY
 - **Follow-up ideas:** Korda comeback rounds; US Women's Open winner
+
+---
+## 2026-06-08
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-08 | T1 | Nelly Korda wins USWO — 8-under 276/final round 69/birdie 17/wobbling par putt 18; Hull+Lopez T2 at 7-under; 4th major/2nd of 2026 (also Chevron)/$2.5M | X, FB, Article | NEW STORY |
+| 2026-06-08 | T1 | JT Poston wins Memorial in 2-hole playoff vs Gerard — 12-under 276; 33-hole Sunday marathon; birdie 18 to force playoff; Gerard misses 6-footer; Clark T3 11-under; 4th PGA Tour win/$4M/US Open ticket | X, FB, Article | NEW STORY |
+| 2026-06-08 | T2 | Tyrrell Hatton wins LIV Golf Andalucia at Valderrama — 11-under 273/beats teammate Rahm by 2 (Rahm 67)/Ancer T3 8-under/Garcia T4 7-under/Legion XIII team win/$4M; Hatton new father | X, FB, Article | NEW STORY |
+| 2026-06-08 | T2 | US Open 2026 preview — Shinnecock Hills June 18-21; Scheffler Grand Slam bid/final round on 30th birthday+Father's Day; McIlroy reigning Masters champ; par 70/7,434 yds; fairways 48 yds avg; 10,201 entries; Spaun defending | X, FB, Article | NEW STORY |
+| 2026-06-08 | T2 | Golf weekend wrap — Korda USWO + Poston Memorial + Hatton LIV Valderrama; US Open 10 days away; American women/men both win on same weekend | X, FB, Article | NEW STORY |
+
+### STORY 1: Nelly Korda Wins US Women's Open
+- **Tier:** 1
+- **Category:** USWO / LPGA Major
+- **Key facts:** Korda wins 81st USWO at Riviera; 8-under 276/final round 69; 9-foot birdie on par-5 17 to take solo lead; wobbling par putt on 18 barely fell in (ESPN: "last putt just falls in"); Hull+Lopez T2 at 7-under 277; In Gee Chun 4th, Sei Young Kim 5th; Hull eagle 1/birdie 3/birdie 10/briefly led outright/bogey 12+14/birdie 17; 4th career major; 2nd of 2026 (also Chevron); first USWO win; $2.5M prize
+- **Status:** NEW STORY
+- **Follow-up ideas:** Korda major count context; LPGA Tour next event
+
+### STORY 2: JT Poston Wins Memorial Tournament
+- **Tier:** 1
+- **Category:** Memorial Tournament / PGA Tour
+- **Key facts:** Poston wins Memorial at 12-under 276; beat Gerard in 2-hole playoff; Poston 7-foot birdie 18 to force playoff; Gerard 40-foot birdie 17 to briefly lead/shot 68; Gerard missed 6-foot par putt 2nd playoff hole; Poston 3-foot par putt to win; 33 total Sunday holes (13 complete R3 + full R4 + 2 playoff); Clark solo 3rd at 11-under; Burns+Fleetwood 2 back; $4M prize; 4th PGA Tour win; US Open exemption + next 3 majors; Muirfield Village Golf Club
+- **Status:** NEW STORY
+- **Follow-up ideas:** Poston at US Open; Scheffler Grand Slam watch
+
+### STORY 3: Hatton Wins LIV Golf Valderrama
+- **Tier:** 2
+- **Category:** LIV Golf / Valderrama
+- **Key facts:** Hatton wins 72-hole LIV Andalucia at 11-under 273; final round 70; beats teammate Rahm by 2 (Rahm shot 67); Ancer T3 8-under; Garcia T4 7-under; Legion XIII wins team competition; Hatton is new father; $4M winner share of $20M purse; Valderrama, Sotogrande, Spain (Rahm's home region)
+- **Status:** NEW STORY
+- **Follow-up ideas:** LIV next event; Hatton world ranking impact
+
+### STORY 4: US Open Preview
+- **Tier:** 2
+- **Category:** US Open / Major Preview
+- **Key facts:** 126th US Open June 18-21 Shinnecock Hills Southampton NY; par 70/7,434 yds; Scheffler Grand Slam (has Masters x2, PGA, Open Championship); final round June 21 = Scheffler 30th birthday + Father's Day; McIlroy reigning Masters champ; 10,201 entries; fairways 48 yds avg (Scheffler: "extraordinarily difficult greens"); Spaun defending; previous Shinnecock winners: Floyd 1986/Pavin 1995/Goosen 2004/Koepka 2018
+- **Status:** NEW STORY
+- **Follow-up ideas:** US Open R1/R2 coverage; Scheffler Grand Slam result
+
+### STORY 5: Golf Weekend Wrap
+- **Tier:** 2
+- **Category:** Golf Weekly Wrap / Feature
+- **Key facts:** 3 champions in one weekend: Korda USWO/Poston Memorial/Hatton LIV Valderrama; US Open 10 days away; American Korda + American Poston both win; LIV competitive storytelling maintained
+- **Status:** NEW STORY
+- **Follow-up ideas:** US Open week coverage begins June 18
+
