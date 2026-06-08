@@ -1,25 +1,40 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: June 7, 2026
+## Latest Run: June 8, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | Vevor baby swing CPSC recall (models BB501K/BB702A/BB005K, Jan–Aug 2025, Amazon + Vevor.com, $65–$80, suffocation hazard, recalling@vevor.com, 855-599-6320); COS parks $3.1M budget cut (maintenance ~$100K 50% reduction, 25% restrooms closed, Flanagan Park $750K federal grant); PPYMCA Summer Day Camp Week 2 June 8–12 (ages 5–12, "Low-Key Famous Artist Week", ppymca.org); COS childcare desert — eastern COS (46,800 under 5, ~17,500 spots, $16,300/year, Fountain-Fort Carson hardest hit, media campaign Jan 2026); D11 labor dispute 300+ days (Dec 2024 7-1 vote, 56-year master agreement dissolved, Oct 2025 strike 1,000+, May 2026 picket, csea-cos.org) |
-| Story History Check | COMPLETE | 5 NEW STORIES (all confirmed new angles — Vevor recall newly issued, parks cut 2026 budget cycle, PPYMCA Week 2 new week, childcare desert expanded angle, D11 May 2026 picket update) |
+| Research (web search) | COMPLETE | TOMY Boon NURSH recall (40,000 units, Walmart, choking hazard, June 4 2026, recall.tomy.com/nursh, 866-725-4407); Blodgett Open Space trail expansion (14 miles, summer 2026, mountain bike + hiking, free); summer slide prevention (25–30% learning loss, AAP-aligned tips, local resources); Rock Ledge Ranch last week (through June 14, 10am–5pm, blacksmith/cornhusk dolls/Victorian games); D49 budget vote June 11 (Sand Creek HS, Student Success Center, public meeting) |
+| Story History Check | COMPLETE | 4 NEW STORIES + 1 FOLLOW-UP (D49 budget June 11) |
 | Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
 | Research Notes | COMPLETE | 01-research-notes.md |
-| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
-| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 each for Stories 1, 4; 1 each for Stories 2, 3, 5); S5 tweet fixed from 293→239 chars; 4 hashtags each; COS voice rules |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 each for Stories 1; 1 each for Stories 2, 3, 4, 5); all under 280 chars; 4 hashtags each; COS voice rules |
 | Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
 | Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
 | Articles | COMPLETE | 5 articles (500–1000 words each, 0 exclamation marks, What's Next sections) |
-| Fact-Check | COMPLETE | verify-facts.py passed — 77 claims; S5 tweet char fix applied (293→239) |
-| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images |
-| Dashboard | COMPLETE | review-dashboard.html — 22 items |
-| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-07.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-06-07.xlsx (7 TOBI posts) |
+| Fact-Check | COMPLETE | verify-facts.py passed — 70 claims; all tweets verified under 280 chars |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-08.xlsx (6 posts) + TOBI cosp-postplanner-tobi-2026-06-08.xlsx (6 TOBI posts) |
 | Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction |
 | WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-08)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions) = 16 total
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-08.xlsx (6 posts), cosp-postplanner-tobi-2026-06-08.xlsx (6 TOBI posts)
+- **Coverage:** TOMY Boon NURSH baby bottle recall (choking hazard, ~40,000 units, Walmart, Nov 2025–May 2026, ~$20, item B11654, 135 reports, recall.tomy.com/nursh, 866-725-4407); Blodgett Open Space 14 miles new trails summer 2026 (mountain bike south, hiking north, free public open space, Trackchair expanding); summer slide prevention (25–30% learning loss, math hardest hit, PPYMCA + PPLD + Rock Ledge Ranch local resources); Rock Ledge Ranch last week (June 14 close, blacksmith/cornhusk dolls/Victorian games, Garden of the Gods); D49 budget vote June 11 (Sand Creek HS, Student Success Center August 2026, preschool/Base49/PEAK/Elevates 18–21)
+- **Notes:**
+  - verify-facts.py: passed; 70 claims; tweet char violations resolved; image warnings cosmetic (gemini source, all not_started)
+  - compile: 5 stories, 6 X posts, 0 FB posts (PostPlanner xlsx has full 6 posts), 5 articles, 5 images
+  - dashboard: 21 items
+  - PostPlanner exports: both standard (6) and TOBI (6) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ## Pipeline Run Log (2026-06-07)
 - **Steps completed:** All 16 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
