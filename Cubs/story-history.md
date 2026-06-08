@@ -1957,3 +1957,47 @@ Each day's stories are appended at the top (newest first).
   - Brewers record tracking if Cubs start winning
 
 ---
+
+## 2026-06-08
+
+### STORY 1: Giants 2-1 Cubs — Series Finale on Sunday Night Baseball
+- **Angle:** NEW STORY (June 7 game recap — Taillon started; Cubs put up ONE run; dropped rubber match to a 26-39 Giants team; record falls to 34-32)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning game recap)
+- **Follow-Up Opportunities:**
+  - Colorado Game 1 result (June 9)
+  - Taillon ERA update after start
+
+### STORY 2: Ben Brown's All-Star Case Is Real
+- **Angle:** FOLLOW UP (Brown narrative ongoing since June 3; today's specific angle = No. 6 ERA in baseball with 50+ IP, zero HRs allowed, genuine All-Star candidacy)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, stat breakdown / bold take)
+- **Follow-Up Opportunities:**
+  - All-Star ballot/vote tracking when announced
+  - Brown's next start ERA update
+
+### STORY 3: Boyd + Shaw Activations This Week
+- **Angle:** FOLLOW UP (Boyd and Shaw covered together June 7; today's angle = Boyd expected specifically for Colorado road trip after 83-pitch Iowa rehab start)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster update / informative)
+- **Follow-Up Opportunities:**
+  - Actual roster activation announcement
+  - Boyd's first start back (Coors Field?)
+
+### STORY 4: Road Trip Bounce-Back at Coors Field
+- **Angle:** NEW STORY (first dedicated Colorado series preview — June 9-11 at Coors; accountability angle after 1-2 vs 26-39 Giants)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, road trip preview / bold take)
+- **Follow-Up Opportunities:**
+  - Series opener result (June 9)
+  - Series win/loss result when complete
+
+### STORY 5: Rotation Depth + August Deadline Clock
+- **Angle:** FOLLOW UP (rotation crisis arc ongoing; today's angle = with Kelly added, Brown and Imanaga still only locks; Aug. 3 deadline; Peralta/Alcantara linked)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, analysis / bold take)
+- **Follow-Up Opportunities:**
+  - Any trade announcement
+  - Boyd activation (resolves one piece of the depth question)
+
+---

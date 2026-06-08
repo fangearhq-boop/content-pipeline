@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-08",
+  "compiled_at": "2026-06-08T09:15:52.325836+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Giants 2-1 recap — series finale",
+      "type": "X text post"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Ben Brown All-Star case",
+      "type": "X text post"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Boyd + Shaw activation update",
+      "type": "X text post"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Colorado road trip preview",
+      "type": "X text post"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Rotation depth / Aug. 3 deadline",
+      "type": "X text post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Giants 2-1 Cubs — Series Finale on Sunday Night Baseball",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (June 7 game recap — Cubs dropped rubber match 2-1; Taillon started; series result 1-2 vs 26-39 Giants; record falls to 34-32)",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Went 1-2 against the Giants. A team that entered the series 26-39.\n\nWon Saturday's walk-off in 10, then put up ONE run on Sunday Night Baseball and dropped the rubber match 2-1.\n\nThis offense needs to show up in Colorado.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Morning game recap (score-led)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Giants 2-1 Cubs — Sunday Night Series Finale\n**Facts:**\n- Final score: Giants 2, Cubs 1 (MEDIUM — single source confirmation via MLB.com Gameday)\n- Date: June 7, 2026 (HIGH — confirmed multiple sources)\n- Venue: Wrigley Field (HIGH — confirmed, series was at Wrigley)\n- Cubs starter: Jameson Taillon, 2-5, 5.13 ERA (MEDIUM — pre-game articles; stats are pre-game record)\n- Giants starter: Trevor McDonald, 2-3, 4.50 ERA (MEDIUM — pre-game articles)\n- Series result: Cubs 1-2 in series (HIGH — individual game results confirmed)\n- Cubs record post-game: 34-32 (MEDIUM — calculated from 34-31 pre-Sunday + loss)\n- Giants record entering series: 26-39 (MEDIUM — from Sunday Night preview articles)\n- Broadcast: Sunday Night Baseball, NBC/Peacock, Jason Benetti (HIGH — NBC article confirms)\n**Story arc:**\n- Cubs won Saturday's walk-off 3-2 in 10 innings (covered June 7 pipeline), came back Sunday and lost 2-1\n- One run of support for Taillon — offense quiet in series finale\n- Sets up Colorado road trip narrative for tomorrow\n**Follow-up opportunities:**\n- Colorado Game 1 result (June 9)\n- Taillon ERA update post-start",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Ben Brown's All-Star Case Is Real",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (Brown narrative ongoing; new angle = specific ranking — No. 6 ERA in baseball, zero HRs allowed; All-Star ballot context)",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Ben Brown has a 1.92 ERA and ZERO home runs allowed since the first batter of the season.\n\nNo. 6 in baseball among starters with 50+ innings. This is a legitimate All-Star case.\n\nThe Cubs' best pitcher didn't even start the year in the rotation.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Stat breakdown / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ben Brown All-Star Case\n**Facts:**\n- Brown 2026 ERA: 1.92 (MEDIUM — single source, Chicago Sun-Times June 4)\n- Ranking: No. 6 in baseball among starters with 50+ IP (MEDIUM — Sun-Times, June 4)\n- Home runs allowed: 0 since first batter of 2026 season (MEDIUM — single source)\n- Previous season (2025): 5.92 ERA, 18 HRs in 106.1 IP (MEDIUM — single source)\n- Added changeup + sinker to arsenal (MEDIUM — single source)\n- Brown's role: started 2026 season in bullpen; converted to rotation (HIGH — multiple sources)\n- Sun-Times called him \"most obvious candidate to represent the Cubs at the Midsummer Classic\"\n**Compound claims to avoid:**\n- Do NOT state a specific innings total without cross-referencing Baseball Reference\n- Do NOT claim \"franchise record\" or \"first Cub to...\" without verification\n**Follow-up opportunities:**\n- Official All-Star ballot announcement / vote tracking\n- Next Brown start result (updates ERA)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Boyd + Shaw Activations This Week",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (Boyd and Shaw covered June 7; today's new specificity = Boyd expected for Colorado road trip start after 83-pitch Iowa rehab start June 7; Shaw also nearing activation)",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Matthew Boyd threw 83 pitches in his Iowa rehab start and is expected BACK in the rotation for the Colorado road trip.\n\nMatt Shaw also nearing IL activation.\n\nTwo returning pieces, arriving at once. The rotation and lineup both get healthier this week.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Roster update / informative",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Boyd + Shaw Activations\n**Matthew Boyd:**\n- Second Iowa rehab start: June 7 (MEDIUM — multiple sources)\n- Line: 5 IP, 5 ER, 7 H, 7 K, 83 pitches (MEDIUM — single source from Yardbarker/ESPN)\n- Team's assessment: \"happy\" with Boyd's progress (MEDIUM — Yardbarker)\n- Expected return: \"upcoming road trip\" per ESPN report = Colorado June 9-11 (MEDIUM — ESPN)\n- 2026 stats before injury (5 starts): 2-1, 6.00 ERA (MEDIUM — single source)\n- 2025: 14-8, 3.21 ERA, 31 starts (MEDIUM — single source)\n- Injury: left knee meniscus (minor procedure) — fluke injury playing with kids (MEDIUM — single source)\n**Matt Shaw:**\n- IL date: May 24 (retroactive to May 20) — 10-day IL, mild back tightness (HIGH — multiple sources)\n- Rehab start: June 3 at Iowa (HIGH — multiple sources)\n- Performance as of June 7 pipeline: 2-for-4 in rehab (MEDIUM — June 7 content)\n- Activation timeline: \"within the next few days\" per roundtable.io (MEDIUM — single source)\n**Follow-up opportunities:**\n- Roster announcement when both are activated\n- Boyd's first official start back (Coors Field?)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Road Trip Bounce-Back at Coors Field",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (first dedicated Colorado series preview — starts tomorrow June 9; accountability angle after dropping 2-of-3 to a 26-39 Giants team)",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Cubs open a 3-game road trip at Coors Field tomorrow.\n\nAfter dropping 2 of 3 to a 26-39 Giants team, this is a must-bounce-back series. The Rockies are LAST in the NL West.\n\nNo excuses. Get right in Colorado.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Road trip preview / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado Road Trip Preview\n**Facts:**\n- Series: Cubs at Rockies, Coors Field, June 9-11 (3 games) (HIGH — MLB.com schedule)\n- Rockies position: last in NL West as of search results (MEDIUM — implied from standings data)\n- Cubs record: 34-32 (MEDIUM)\n- Context: Cubs just dropped 2-of-3 to a 26-39 Giants team, need bounce-back\n**Scheduling note:**\n- Next home series after Colorado: at Giants June 12-14, then home vs Colorado June 15-17\n**Follow-up opportunities:**\n- Series opener result (June 9)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Rotation Depth Still a Question — Deadline Clock Ticking",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (rotation crisis arc; today's angle = with Kelly added and Boyd returning, the deeper question is the Aug. 3 trade deadline; Peralta and Alcantara linked)",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "The Cubs need a FRONT-LINE starter before the Aug. 3 deadline.\n\nWith Horton (UCL), Wicks down, and Steele rehabbing, Brown (1.92 ERA) and Imanaga are the only locks in this rotation.\n\nPeralta. Alcantara. Someone has to come.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline / Rotation Depth\n**Facts:**\n- Trade deadline: August 3, 2026 (MEDIUM — per Bleacher Report article)\n- Cubs linked to: Freddy Peralta (MIL), Sandy Alcantara (MIA) (MEDIUM — Bleacher Report)\n- Current rotation locks: Ben Brown (1.92 ERA), Shota Imanaga (HIGH — multiple sources)\n- Injured starters: Cade Horton (UCL, out ~15-16 months), Justin Steele (60-day IL), Jordan Wicks (sent down), Javier Assad (sent down), Edward Cabrera (IL, blister) (HIGH — multiple sources)\n- Antoine Kelly acquired from Dodgers June 7 (HIGH — from June 7 pipeline)\n- Boyd expected back for road trip (MEDIUM — ESPN)\n- Matt Shaw mentioned as potential trade chip by Bleacher Report (MEDIUM — single source)\n**Compound claims:**\n- Do NOT claim specific ERA or record for Peralta or Alcantara without verification\n- Do NOT claim deadline date as July 31 — it is August 3 this year per Bleacher Report\n**Follow-up opportunities:**\n- Any trade announcement\n- Boyd's activation announcement",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
