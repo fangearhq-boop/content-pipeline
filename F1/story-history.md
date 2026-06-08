@@ -2364,3 +2364,50 @@
 - **Key facts:** Leclerc +185 favorite; 2024 Monaco winner; FP1 fastest (1:11.964); Hamilton P2 Canada; Ferrari 0 wins in 2026; active aero ban neutral at Monaco (no section meets 3-sec threshold); race June 7 9 AM ET Apple TV+
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Qualifying result; race result
+
+---
+## 2026-06-08
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-08 | T1 | Monaco GP Recap — Antonelli 5th straight win; Hamilton P2; Hadjar P3; 7 DNFs (Verstappen stalled lap 1, Leclerc crash restart); Russell penalized to 14th; red flag lap 68 track breakup | X, FB, Article | NEW STORY |
+| 2026-06-08 | T1 | Championship standings after Monaco — Antonelli 156 pts/66-pt lead; Hamilton now P2 (leapfrogged Russell); Russell P3; Leclerc P4; Austrian GP next June 26-28 | X, FB, Article | NEW STORY |
+| 2026-06-08 | T2 | Leclerc Monaco DNF — crashed Anthony Noghes same corner as Stroll during restart prep; was running P3; Hamilton P2 for Ferrari instead | X, FB, Article | NEW STORY |
+| 2026-06-08 | T2 | Verstappen exit clause crisis — lap 1 DNF Monaco (power unit stall); needs top-2 by end of July; Austrian GP June 26 is next race | X, FB, Article | FOLLOW UP |
+| 2026-06-08 | T2 | Alonso blasts 2026 F1 cars — "worst generation of cars I ever drove in Monaco" / "hybrid cars should not be racing"; engine braking inconsistency from battery charging; chronic understeer at Aston Martin | X, FB, Article | NEW STORY |
+
+### STORY 1: Monaco GP Recap — Antonelli Wins
+- **Tier:** 1
+- **Category:** Monaco GP / Race Result
+- **Key facts:** Antonelli wins Monaco from pole — 5th consecutive race win; Hamilton P2 +6.271s; Hadjar P3 +23.394s; Piastri P4; 7 retirements: Verstappen (stalled lap 1/power unit), Leclerc (crashed Anthony Noghes restart), Stroll, Norris, Sainz, Bearman, Bottas; Russell 5-sec penalty for pit lane speeding upgraded to drive-through after failing to serve → finished 14th; red flag lap 68 due to track breakup Anthony Noghes
+- **Status:** NEW STORY
+- **Follow-up ideas:** Austrian GP June 26-28; Antonelli title clinch timeline
+
+### STORY 2: F1 Championship Standings
+- **Tier:** 1
+- **Category:** Championship Fight / Standings
+- **Key facts:** Antonelli 156 pts; Hamilton P2 ~90 pts (leapfrogged Russell after Monaco P2); Russell P3 ~88 pts (fell after penalties); Leclerc P4; Antonelli lead: 66 points; Austrian GP next June 26-28
+- **Status:** NEW STORY
+- **Follow-up ideas:** Austrian GP standings; Antonelli title math
+
+### STORY 3: Leclerc Monaco DNF
+- **Tier:** 2
+- **Category:** Monaco GP / Ferrari / Driver Feature
+- **Key facts:** Leclerc running P3 at red flag; crashed Anthony Noghes during restart prep — exact same corner as Stroll; DNF; Hamilton scored Ferrari best Monaco result (P2); home race heartbreak for Monaco native and 2024 Monaco winner
+- **Status:** NEW STORY
+- **Follow-up ideas:** Leclerc response; Ferrari Austrian GP preparation
+
+### STORY 4: Verstappen Exit Clause Crisis
+- **Tier:** 2
+- **Category:** Driver News / Red Bull
+- **Key facts:** Verstappen stalled lap 1 Monaco/power unit failure; DNF; clause requires top-2 by end of July; not in top-2 now; best 2026 result Canada P3; RB22 uncompetitive all season; Austrian GP (home race) June 26-28 is critical
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen Austrian GP result; exit clause activation or Red Bull confirmation
+
+### STORY 5: Alonso Blasts 2026 Cars
+- **Tier:** 2
+- **Category:** Technical / Driver Opinions
+- **Key facts:** Alonso quotes: "worst generation of cars I ever drove in Monaco" / "Hybrid cars should not be racing. It's as simple as that." / engine braking inconsistency due to battery charging at rear axle / "random downshifts" / battery full = no engine braking; Aston Martin also has "chronic understeer"; Alonso and Stroll among slowest at Monaco
+- **Status:** NEW STORY
+- **Follow-up ideas:** FIA/F1 response to hybrid complaints; other drivers' views
+

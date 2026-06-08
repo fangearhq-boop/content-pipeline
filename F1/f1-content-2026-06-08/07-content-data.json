@@ -1,0 +1,252 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-08",
+  "compiled_at": "2026-06-08T11:22:01.236806+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Monaco GP Recap — Antonelli's Fifth Straight Win in Race of Chaos",
+      "tier": 1,
+      "status": "",
+      "angle": "Antonelli wins from pole in red-flagged, penalty-filled race; Hamilton P2 (+6.2s), Hadjar P3; 7 DNFs including Verstappen (stalled lap 1) and Leclerc (crashed lap 68 at same corner as Stroll); Russell penalized from potential podium to 14th; track broke apart at Anthony Noghes",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Monaco GP result:\n\n🥇 Antonelli (5th straight win)\n🥈 Hamilton +6.2s\n🥉 Hadjar +23.4s\n\nVerstappen: stalled lap 1, DNF\nLeclerc: crashed final corner during restart, DNF\nRussell: penalized to 14th\n\nMost chaotic Monaco in years. #F1 #MonacoGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "George Russell was on for a Monaco podium.\n\nThen came the pit lane speeding penalty.\nThen he failed to serve it.\nThen the drive-through.\nThen 14th.\n\nThat's how quickly an F1 afternoon can collapse. #F1 #MonacoGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-monaco-gp-recap-antonelli-fifth-win.html",
+        "headline": "Antonelli Wins Monaco Chaos: Five Straight, Leclerc DNF, Verstappen Stalled, Russell Buried by Penalties",
+        "word_count": 670
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Monaco GP Recap — Antonelli's Fifth Straight Win\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** \"Kimi Antonelli Mercedes\"\n- **Type:** imagn\n- **Caption overlay:** \"FIVE STRAIGHT. MONACO CHAMPION.\"\n- **Notes:** Antonelli celebration or victory lap\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** \"Monaco Grand Prix Formula 1 circuit\"\n- **Type:** imagn\n- **Notes:** Monaco street circuit aerial or race action shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Monaco GP Recap — Antonelli's Fifth Straight Win in Race of Chaos\n**Sources:**\n- Formula1.com: \"Antonelli secures brilliant victory in chaotic Monaco Grand Prix amid multiple shock retirements\"\n- PlanetF1: \"Monaco Grand Prix: Kimi Antonelli wins from pole after red flag, disaster for teammate George Russell\"\n- ESPN: Monaco GP race as it happened\n- The Race: \"Antonelli dominates bizarre red-flagged Monaco GP amid penalty frenzy\"\n- Sky Sports: \"Kimi Antonelli wins fifth F1 race running with Lewis Hamilton second\"\n- Crash.net: Full 2026 F1 Monaco GP race results after penalties applied\n**Key verified facts (HIGH confidence):**\n- Antonelli won the 2026 Monaco Grand Prix — his 5th consecutive race win [HIGH]\n- Antonelli started from pole position [HIGH]\n- Hamilton finished P2, +6.271 seconds behind Antonelli [HIGH]\n- Isack Hadjar (Red Bull) finished P3, +23.394 seconds [HIGH]\n- Oscar Piastri finished P4 [HIGH]\n- 7 drivers retired: Verstappen, Leclerc, Stroll, Norris, Bearman, Bottas, Sainz [HIGH]\n- Verstappen stalled at race start (power unit issue), retired lap 1 [HIGH]\n- Leclerc crashed out at the final corner (Anthony Noghes) during restart prep at lap 68 of 78 [HIGH]\n- Red flag issued at lap 68 due to track break-up at Anthony Noghes [HIGH]\n- Stroll's crash at final corner triggered the safety car that led to the chaos [HIGH]\n- Russell received 5-second penalty for pit lane speeding, failed to serve it, upgraded to drive-through [HIGH]\n- Russell finished 14th after penalties [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Championship Standings After Monaco — Antonelli's Lead Hits 66 Points",
+      "tier": 1,
+      "status": "",
+      "angle": "Antonelli extends lead to 66 pts (156 total); Hamilton leapfrogs Russell for P2 in standings; Russell drops to P3 after penalty-ruined Monaco; Austrian GP next June 26-28; next race for Verstappen to arrest his slide",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "F1 standings after Monaco:\n\n1. Antonelli — 156 pts\n2. Hamilton — 90 pts (+P2 move)\n3. Russell — 88 pts (fell after penalties)\n4. Leclerc — (DNF this week)\n\nAntonelli leads by 66 points.\n\nAustrian GP next: June 26-28. #F1 #Formula1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-f1-standings-antonelli-hamilton-p2-austrian-gp.html",
+        "headline": "Antonelli Opens 66-Point Championship Gap — Hamilton Is Now His Closest Rival",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings After Monaco\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** \"Kimi Antonelli Mercedes Formula 1\"\n- **Type:** imagn\n- **Caption overlay:** \"ANTONELLI +66 POINTS. AUSTRIAN GP NEXT.\"\n- **Notes:** Antonelli in car or podium\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** \"Formula 1 podium ceremony\"\n- **Type:** imagn\n- **Notes:** Podium celebration scene\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings After Monaco\n**Sources:**\n- SI.com: \"F1 Standings After the Monaco Grand Prix 2026\"\n- GPFans: \"Latest F1 Standings: Lewis Hamilton makes big Monaco move after best Ferrari result yet\"\n- GPBlog: \"F1 Standings: Antonelli extends title lead, Hamilton leapfrogs Russell at Monaco GP\"\n- RacingNews365: \"2026 F1 championship standings after Monaco Grand Prix\"\n**Key verified facts (HIGH confidence):**\n- Antonelli: 156 points (after Monaco) [HIGH]\n- Antonelli's lead over P2: 66 points [HIGH]\n- Hamilton now P2 in championship (overtook Russell after Monaco) [HIGH]\n- Russell dropped to P3 in championship after penalty-filled Monaco [HIGH]\n- Leclerc remains P4 [HIGH]\n- Austrian GP is next race: June 26-28, 2026 [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Leclerc's Monaco Nightmare — DNF at the Final Corner in His Home Race",
+      "tier": 2,
+      "status": "",
+      "angle": "Leclerc running P3 headed into restart after red flag — crashed at exact same final corner (Anthony Noghes) where Lance Stroll's crash caused the red flag; Monaco heartbreak compounds; Hamilton scored Ferrari's best Monaco result instead",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Charles Leclerc was P3 and ready for the Monaco restart.\n\nThen he crashed — at the EXACT same final corner where Stroll's accident triggered the red flag.\n\nHome race. Final corner. DNF.\n\nFormula 1 is cruel. #F1 #MonacoGP",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MonacoGP"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-leclerc-monaco-dnf-home-race-nightmare.html",
+        "headline": "Leclerc's Monaco Nightmare: Crashed at the Final Corner in His Own Home Race",
+        "word_count": 637
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Leclerc Monaco Nightmare\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** \"Charles Leclerc Ferrari\"\n- **Type:** imagn\n- **Caption overlay:** \"HOME RACE. FINAL CORNER. DNF.\"\n- **Notes:** Leclerc disappointed or crash scene\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** \"Charles Leclerc Ferrari Monaco\"\n- **Type:** imagn\n- **Notes:** Leclerc in Monaco atmosphere\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Leclerc Monaco Nightmare\n**Sources:**\n- Formula1.com race report — Leclerc crash details\n- ESPN race as it happened — crash at Anthony Noghes same corner as Stroll\n- The Race — red flag details\n**Key verified facts (HIGH confidence):**\n- Leclerc was running P3 when the red flag was issued [HIGH]\n- Leclerc crashed at Anthony Noghes (final corner) as he prepared for the restart [HIGH]\n- His crash happened at the exact same spot where Stroll's earlier crash had triggered the red flag [HIGH]\n- Leclerc DNF Monaco 2026 [HIGH]\n- Hamilton scored Ferrari's best result of the Monaco GP — P2 [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen Exit Clause Now Critical — Lap-1 DNF Deepens Title Gap",
+      "tier": 2,
+      "status": "",
+      "angle": "Verstappen stalled at race start (power unit issue), retired lap 1; now even further behind in standings; exit clause requires top-2 by end of July; Austrian GP (June 26) is next chance; Red Bull RB22 still uncompetitive all 2026",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Max Verstappen stalled on lap 1 at Monaco. DNF.\n\nHe has an exit clause that requires him to be in the top 2 of the championship by end of July.\n\nHe is nowhere near top 2.\n\nAustrian GP: June 26. Every race now counts. #F1 #MaxVerstappen",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MaxVerstappen"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-verstappen-exit-clause-monaco-dnf-austrian-gp.html",
+        "headline": "Lap 1, DNF, Exit Clause Ticking: Verstappen's Monaco Disaster Makes His Future Murkier",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** \"Max Verstappen Red Bull\"\n- **Type:** imagn\n- **Caption overlay:** \"STALLED LAP 1. EXIT CLAUSE DEADLINE: JULY.\"\n- **Notes:** Verstappen frustrated or in cockpit\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** \"Max Verstappen Red Bull Racing\"\n- **Type:** imagn\n- **Notes:** Verstappen in car or helmet portrait\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause\n**Sources:**\n- Earlier pipeline research: exit clause requires top-2 by end of July 2026\n- Monaco race result: Verstappen stalled at start, power unit issue, retired lap 1\n**Key verified facts (HIGH confidence):**\n- Verstappen retired from Monaco on lap 1 (stalled/power unit failure) [HIGH]\n- Exit clause requires Verstappen to be in the top 2 of the championship by end of July 2026 [HIGH — from multiple prior pipeline sources]\n- Austrian GP (June 26-28) is the next race [HIGH]\n- Verstappen's championship position is significantly worse than top-2 after Monaco DNF [HIGH]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Alonso Blasts 2026 Cars as \"Worst Ever\" — \"Hybrid Cars Should Not Be Racing\"",
+      "tier": 2,
+      "status": "",
+      "angle": "Two-time champion Fernando Alonso unloads on the 2026 F1 hybrid regulations; \"worst generation of cars I ever drove in Monaco\"; engine braking inconsistency from battery charging; random downshifts; Aston Martin also suffering chronic understeer at Monaco",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Fernando Alonso on the 2026 F1 cars:\n\n\"This is probably the worst generation of cars I ever drove in Monaco.\"\n\n\"Hybrid cars should not be racing. It's as simple as that.\"\n\nTwo world championships. Decades of experience. He's seen the worst. #F1 #FernandoAlonso",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#FernandoAlonso"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-alonso-hybrid-cars-worst-ever-monaco.html",
+        "headline": "'Hybrid Cars Should Not Be Racing': Fernando Alonso Calls 2026 F1 Cars the Worst of His Career",
+        "word_count": 695
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alonso Slams 2026 Cars\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** \"Fernando Alonso Aston Martin\"\n- **Type:** imagn\n- **Caption overlay:** \"WORST GENERATION OF CARS EVER — ALONSO\"\n- **Notes:** Alonso expressive interview or cockpit\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** \"Fernando Alonso Aston Martin Formula 1\"\n- **Type:** imagn\n- **Notes:** Alonso action or portrait"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alonso Blasts 2026 Cars\n**Sources:**\n- Motorsport.com: \"Hybrid cars should not be racing — Fernando Alonso slams 2026 F1 cars as the worst ever in Monaco\"\n- PlanetF1: \"Fernando Alonso says hybrid cars should not be racing after Monaco woes\"\n- The Drive: \"Fernando Alonso Is Angry: 2026 F1 Cars Are the Worst Ever\"\n- MotorBiscuit: Same story\n**Key verified facts (HIGH confidence):**\n- Alonso quote: \"This is probably the worst generation of cars I ever drove in Monaco.\" [HIGH]\n- Alonso quote: \"Hybrid cars should not be racing. It's as simple as that.\" [HIGH]\n- Issue: battery charges during braking, creating inconsistency in engine braking [HIGH]\n- Issue: \"random downshifts\" [HIGH]\n- Aston Martin also suffering \"chronic understeer\" [HIGH]\n- Alonso and Stroll were among the slowest cars at Monaco practice [HIGH]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
