@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-08
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (50 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (cherry-pick after detached HEAD resolved). Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). FB posts compile to 0 (known heading format). 0 char violations. Detached HEAD resolved via stash + checkout main + pull + stash pop + cherry-pick.
+- **Key Stories**: Transfer portal Day 1 open/Beachum+Edwards+Swan+Morgan+Plumlee confirmed entries (Tier 1 FOLLOW UP June 7), Illinois hires Jenna Hall (former All-American, Ohio HC, 5yr deal)/Minnesota hires Gretta Melsted (Augustana 813-313, 2019 D2 champ) (Tier 1), Briski returns for 2027/Alabama reload not rebuild (Tier 2), Tennessee rebuild/Pickens graduated+Morgan+Plumlee in portal (Tier 2), Texas Tech portal blueprint/15 of 23 transfers/61-8 runner-up (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-07
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (70 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py. Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
