@@ -2625,3 +2625,50 @@
 - **Key facts:** Multiple insiders say Heat are frontrunners; Bam Adebayo only player off limits; Bucks "open for business" (Shams); Portland unlikely (Eastern preference); Giannis 2 yrs left/PO, eligible for 4-yr/$275M extension Oct. 1; timeline: June 23 draft
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Giannis trade finalized; confirmed landing spot
+
+---
+## 2026-06-08
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-08 | T1 | NBA Finals Game 3 TONIGHT — Trump attends MSG; Knicks -2.5; no-bag policy/TSA screening; first Finals at MSG since 1999; Knicks 2-0 seeking sweep | X, FB, Article | FOLLOW UP |
+| 2026-06-08 | T1 | Giannis Trade — Heat "closing in" per league sources; player+pick heavy package; Giannis has roster concerns; June 23 deadline; Haslam wants resolution before draft | X, FB, Article | FOLLOW UP |
+| 2026-06-08 | T2 | Wembanyama Game 3 bounce-back — 29 pts Game 2, errant pass turnover final 13 sec, missed buzzer; "can't change the past/thinking about Game 3"; faces MSG atmosphere | X, FB, Article | FOLLOW UP |
+| 2026-06-08 | T2 | Knicks brink of first title since 1973 — 13-game win streak/+270 pt diff/ECF sweep/2-0 road Finals; no 3-0 comeback in Finals history; ESPN 58.2% win prob | X, FB, Article | FOLLOW UP |
+| 2026-06-08 | T2 | NBA Draft countdown — 15 days to June 23 Brooklyn; Dybantsa "100% sure" No. 1 to Wizards; first Washington No. 1 since John Wall 2010; Bucks want Giannis resolved by draft | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA Finals Game 3 TONIGHT — Trump, MSG, and a Sweep on the Line
+- **Tier:** 1
+- **Category:** NBA Finals / Game Night
+- **Key facts:** Game 3: June 8 8:30 PM ET ABC MSG; Knicks 2-0; Trump attending — no bag policy, TSA screening, 2+ hours early, no outdoor watch parties; Knicks -2.5 favs / total 216.5; ESPN 58.2% win prob; first Finals at MSG since June 25 1999 (same Spurs); Knicks only 3rd team to win first 2 Finals road games; O.G. Anunoby: "It's going to be crazy"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 3 result/recap; sweep vs comeback
+
+### STORY 2: Giannis Trade Saga — Heat "Closing In"
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** June 7 reports: people around league believe Heat "closing in"; package "player and pick heavy" (Herro + picks through 2032); Giannis has questions about roster post-trade; Bucks co-owner Haslam wants resolved by June 23 draft; Thunder and Warriors out; Celtics interested no direct talks; Bucks want picks + players confirmed by Bucks beat writer
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announced; Giannis confirms destination; Bucks announce restructure
+
+### STORY 3: Wembanyama Bounce-Back Test
+- **Tier:** 2
+- **Category:** Player Analysis / Spurs
+- **Key facts:** Game 2: 29 pts 11-of-21 FG; errant pass turnover with 13 sec left; missed buzzer; quote: "We can't change the past. We're already thinking about Game 3."; faces hostile MSG crowd tonight; Knicks use "Wemby Drill" with brooms in practice
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Wemby Game 3 stat line; Spurs comeback or elimination
+
+### STORY 4: Knicks Brink of First Title Since 1973
+- **Tier:** 2
+- **Category:** Team Analysis / Knicks
+- **Key facts:** 13 consecutive playoff wins / +270 pt differential; swept ECF; only 3rd team to win first 2 Finals road games; ESPN 58.2% win prob; Spurs +380 to win series; no team ever came back from 3-0 in Finals; last title 1973 (53-year drought)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Knicks sweep; or Spurs Game 3 win keeps series alive
+
+### STORY 5: NBA Draft Countdown — 15 Days to Brooklyn
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** June 23-24 Barclays Center Brooklyn; Dybantsa "100% sure" No. 1 to Wizards; Wizards 17-65 (14.0% lottery odds); first Washington No. 1 since John Wall 2010; Dybantsa: 25.5 PPG/51.0% FG/6-9 BYU; -450 odds No. 1; top 5: Wizards/Jazz/Grizzlies/Bulls/Clippers; June 23 also Giannis trade deadline
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dybantsa officially drafted; Giannis trade timeline coincides
+

@@ -1,0 +1,252 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-08",
+  "compiled_at": "2026-06-08T11:15:12.649700+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NBA Finals Game 3 TONIGHT — Trump, MSG, and a Sweep on the Line",
+      "tier": 1,
+      "status": "",
+      "angle": "Game 3 tips off tonight at MSG, 8:30 PM ET on ABC; Knicks 2-0 series lead; first NBA Finals game at MSG since June 25, 1999; Trump attending with no-bag policy and TSA-style screening; Knicks -2.5 favs, total 216.5; O.G. Anunoby: \"It's going to be crazy\"",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "MSG hasn't hosted an NBA Finals game since 1999.\n\nTonight that changes. Game 3. Knicks vs. Spurs. 8:30 PM ET on ABC.\n\nNo team has EVER come back from 3-0 in the Finals.\n\nThe Garden is ready. #KnicksTape #NBAFinals",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#KnicksTape",
+            "#NBAFinals"
+          ],
+          "char_count": 213
+        },
+        {
+          "label": "Post 1-2",
+          "text": "President Trump is attending tonight's NBA Finals Game 3 at MSG.\n\nNo bags. No outdoor watch parties. TSA-style screening. Arrive 2+ hours early.\n\nStill the biggest night in New York sports in 27 years. #KnicksTape #NBAFinals",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#KnicksTape",
+            "#NBAFinals"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-msg-game-3-finals-knicks-spurs-trump.html",
+        "headline": "MSG Hosts Its First NBA Finals Game Since 1999 — A President, a Sweep, and 53 Years of Waiting",
+        "word_count": 886
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Finals Game 3 TONIGHT — Trump, MSG, and a Sweep on the Line\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** \"Madison Square Garden exterior night\"\n- **Type:** imagn\n- **Caption overlay:** \"MSG. Game 3. Tonight. 8:30 PM ET.\"\n- **Notes:** Iconic MSG exterior at night; energy of a Finals game\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** \"New York Knicks Madison Square Garden\"\n- **Type:** imagn\n- **Caption overlay:** None (article hero)\n- **Notes:** Crowd atmosphere at MSG or Knicks celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Finals Game 3 TONIGHT — Trump, MSG, and a Sweep on the Line\n**Sources:**\n- NBA.com: \"2026 NBA Finals Media Day, Game 3 | Anunoby: 'It's going to be crazy' in Madison Square Garden\" — O.G. Anunoby quote verified\n- NBA.com: \"Knicks carry chance to sweep 2026 NBA Finals vs. Spurs into Game 3 at Madison Square Garden\" — series context, only 3rd team to win first 2 road Finals games\n- CNBC: \"No bags, no watch parties at Madison Square Garden with Trump attending Game 3 of the NBA Finals\" — Trump security measures, no outdoor watch party, no-bag policy, TSA-style screening, arrive 2+ hours early\n- CNN Politics: \"Trump plans to attend Game 3 of NBA Finals at Madison Square Garden\" — confirmed attendance\n- ABC7 NY: \"Knicks-Spurs NBA Finals 2026 Game 3 on ABC 7: game time, watch parties, odds, players, and more\" — tipoff 8:30 PM ET on ABC\n- OddsShark: \"Spurs vs Knicks Game 3 NBA Finals Picks & Odds\" — Knicks -2.5 favorites, total 216.5\n**Key verified facts (HIGH confidence):**\n- Game 3: Monday June 8, 8:30 PM ET on ABC at Madison Square Garden [HIGH]\n- MSG last hosted NBA Finals: June 25, 1999 (Knicks vs Spurs — same teams) [HIGH]\n- Knicks hold 2-0 series lead [HIGH]\n- Knicks -2.5 favorites for Game 3, total 216.5 [HIGH — OddsShark]\n- President Trump attending Game 3 [HIGH — CNN, CNBC]\n- No outdoor watch party due to Trump security measures [HIGH — CNBC/ABC7]\n- No-bag policy, TSA-style screening, fans advised to arrive 2+ hours early [HIGH — CNBC]\n- O.G. Anunoby quote: \"It's going to be crazy\" [HIGH — NBA.com]\n- Only 3rd team to win first 2 Finals games on the road [HIGH — NBA.com]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Giannis Trade Saga — Heat \"Closing In,\" But Roster Concerns Linger",
+      "tier": 1,
+      "status": "",
+      "angle": "Reports June 7: people around league believe Heat are \"closing in\" on Giannis deal; Heat offer is \"player and pick heavy\"; Giannis has questions about what Miami roster would look like post-trade; June 23 NBA Draft deadline; Bucks co-owner Jimmy Haslam wants it resolved by draft",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Giannis update:\n\nThe Heat are \"closing in\" per league sources.\n\nBut Giannis has one big question: what does Miami's roster look like AFTER the trade?\n\nJune 23 deadline. Bucks want picks + players. Clock is ticking. #NBA #GiannisAntetokounmpo",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#GiannisAntetokounmpo"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-giannis-trade-heat-closing-in.html",
+        "headline": "The Heat Are Closing In on Giannis — But He Has One Big Question for Miami",
+        "word_count": 664
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis Trade Saga — Heat \"Closing In\"\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** \"Giannis Antetokounmpo Milwaukee Bucks\"\n- **Type:** imagn\n- **Caption overlay:** \"The Heat Are Closing In. 15 Days to the Draft.\"\n- **Notes:** Giannis portrait, pensive/intense expression preferred\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** \"Giannis Antetokounmpo Milwaukee Bucks\"\n- **Type:** imagn\n- **Notes:** Action shot or sideline moment\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Trade Saga — Heat \"Closing In,\" But Roster Concerns Linger\n**Sources:**\n- HP Basketball (via reporting): People around the league believe Miami is \"closing in\" — June 7\n- HoopsHype: \"Giannis Antetokounmpo has questions about what Miami's roster would look like if Heat trade for him\"\n- HoopsHype: \"Bucks writer says Heat have strongest trade package for Giannis Antetokounmpo\" — package is \"player and pick heavy\"\n- CBS Sports: \"Giannis Antetokounmpo trade rumors: Heat look like current frontrunner, but plenty of questions remain\"\n- NBC Sports: \"Giannis trade rumors: Thunder not interested, Giannis concerned about Heat roster\"\n- Yahoo Sports: \"Giannis Antetokounmpo trade rumors: Heat frontrunners, Warriors out, what about Celtics?\"\n**Key verified facts (HIGH confidence):**\n- Heat are frontrunners for Giannis trade [HIGH — multiple sources]\n- Giannis has concerns about roster composition post-trade [HIGH — HoopsHype]\n- Heat package is \"player and pick heavy\" [HIGH — HoopsHype via Bucks writer]\n- Bucks co-owner Jimmy Haslam wants situation resolved by June 23 draft [HIGH]\n- Thunder not interested in Giannis [HIGH — NBC Sports]\n- Warriors are out [HIGH — Yahoo Sports]\n- June 23-24 NBA Draft in Brooklyn is de facto deadline [HIGH]\n**Key facts (MEDIUM confidence):**\n- Celtics described as \"very intrigued\" — not confirmed with second source for this specific claim; use cautiously [MEDIUM]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wembanyama's Bounce-Back Test — Can He Carry the Spurs in New York?",
+      "tier": 2,
+      "status": "",
+      "angle": "After 29-pt Game 2 effort, errant pass turnover, and missed buzzer — Wemby faces MSG crowd in Game 3; Knicks use \"Wemby Drill\" with brooms to simulate blocks; he said \"we can't change the past / already thinking about Game 3\"; elite athlete composure on full display",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Wemby scored 29 points in Game 2.\n\nThen: errant pass turnover. Missed buzzer.\n\nHis response: \"We can't change the past. We're already thinking about Game 3.\"\n\nNow he faces MSG in Game 3. Tonight. 8:30 PM ET. #GoSpursGo #NBAFinals",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#NBAFinals"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-wembanyama-game-3-msg-bounce-back.html",
+        "headline": "29 Points Wasn't Enough. Now Wembanyama Has to Face MSG in Game 3.",
+        "word_count": 666
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama Bounce-Back Test\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** \"Victor Wembanyama San Antonio Spurs\"\n- **Type:** imagn\n- **Caption overlay:** \"Game 3. MSG. Can He Deliver 48 Clean Minutes?\"\n- **Notes:** Wemby in game action, preferably defensive or intense moment\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** \"Victor Wembanyama San Antonio Spurs\"\n- **Type:** imagn\n- **Notes:** Full body action shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama Bounce-Back Test\n**Sources:**\n- NBA.com Finals updates — Game 2 result: Wemby 29 pts on 11-of-21 FG; errant pass turnover with 13 sec left\n- NBC New York: \"Knicks beat Spurs 105-104 Game 2\" — Brunson drew foul on Wemby turnover; Knicks won 105-104\n- Yahoo Sports: \"Josh Hart makes feelings clear\" — Wemby quote: \"We can't change the past. We're already thinking about Game 3.\"\n- Pipeline status note (June 7): \"Brunson team uses 'Wemby Drill' — coach holds broom to simulate blocks\"\n**Key verified facts (HIGH confidence):**\n- Wemby scored 29 points on 11-of-21 FG in Game 2 [HIGH]\n- Wemby made errant pass turnover with 13 seconds left in Game 2 [HIGH]\n- Wemby's buzzer attempt fell short in Game 2 [HIGH — multiple sources]\n- Quote: \"We can't change the past. We're already thinking about Game 3.\" [HIGH]\n- Spurs are 0-2 in the series [HIGH]\n**MEDIUM confidence:**\n- \"Wemby Drill\" with brooms — from prior pipeline research notes, not independently verified in today's searches [MEDIUM — use cautiously or attribute vaguely]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Knicks on the Brink of First Championship Since 1973",
+      "tier": 2,
+      "status": "",
+      "angle": "Two more wins and Knicks end 53-year title drought; no NBA team has ever come back from 3-0 in the Finals; Knicks are only 3rd team to win first 2 Finals games on the road; 13-game win streak with +270 pt differential; swept ECF; ESPN 58.2% win prob tonight",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Knicks haven't won an NBA title since 1973.\n\nThat was Willis Reed. Walt Frazier. Before most fans were born.\n\nTonight: one win from 3-0. No team has EVER blown a 3-0 Finals lead.\n\nTwo wins from history. #KnicksTape #NBAFinals",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#KnicksTape",
+            "#NBAFinals"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-knicks-brink-first-title-1973.html",
+        "headline": "Two Wins Away: The Knicks Haven't Won a Title Since 1973 — That Could Change This Week",
+        "word_count": 641
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks on the Brink\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** \"New York Knicks celebration\"\n- **Type:** imagn\n- **Caption overlay:** \"53 Years. Two Wins Away.\"\n- **Notes:** Team celebration or fan crowd shot\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** \"Jalen Brunson New York Knicks\"\n- **Type:** imagn\n- **Notes:** Brunson action or celebration shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks on the Brink of First Championship Since 1973\n**Sources:**\n- NBA.com: Knicks 13-game playoff win streak, +270 pt differential\n- ESPN: 58.2% win probability for Game 3\n- History: Last Knicks championship was 1973 (53 years ago)\n- NBA.com: Only 3rd team to win first 2 Finals games on the road\n**Key verified facts (HIGH confidence):**\n- Knicks last won NBA title in 1973 — 53-year drought [HIGH]\n- 13 consecutive playoff wins entering Game 3 [HIGH]\n- +270 point differential across playoff run [HIGH]\n- ESPN gives Knicks 58.2% win probability for Game 3 [HIGH]\n- No team has ever come back from 3-0 in NBA Finals [HIGH]\n- Only 3rd team in NBA history to win first 2 Finals games on the road [HIGH]\n- Knicks -490 series favorites [HIGH — from prior pipeline, consistent with current lines]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NBA Draft Countdown — AJ Dybantsa Goes No. 1 in 15 Days",
+      "tier": 2,
+      "status": "",
+      "angle": "June 23-24 draft in Brooklyn is 15 days away; AJ Dybantsa says \"100% sure\" going No. 1 to Wizards (-450 odds); first Washington No. 1 pick since John Wall 2010; Bucks waiting to finalize Giannis trade until after Finals to maximize leverage",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "AJ Dybantsa at BYU this season:\n\n25.5 PPG\n51.0% FG\n6-foot-9 wing\n\nHe says he's \"100% sure\" he goes No. 1 to Washington.\n\nThe Wizards haven't had the No. 1 pick since John Wall in 2010.\n\nJune 23. Brooklyn. #NBADraft #WashingtonWizards",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBADraft",
+            "#WashingtonWizards"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-dybantsa-nba-draft-wizards-june-23.html",
+        "headline": "AJ Dybantsa Says He's Going No. 1 to Washington. The NBA Draft Is 15 Days Away.",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Draft Countdown\n\n**Image Concept 1 — Social (1080x1350)**\n- **Search term:** \"NBA Draft Barclays Center\"\n- **Type:** imagn\n- **Caption overlay:** \"15 Days. No. 1 Pick. AJ Dybantsa.\"\n- **Notes:** Draft night stage at Barclays Center or draft board\n\n**Image Concept 2 — Article Hero (1200x630)**\n- **Search term:** \"Washington Wizards NBA\"\n- **Type:** imagn\n- **Notes:** Wizards arena or draft night scene"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Draft Countdown\n**Sources:**\n- Multiple outlets: AJ Dybantsa \"100% sure\" going No. 1 to Wizards; -450 odds (DraftKings/FanDuel)\n- NBA.com: Draft June 23-24 at Barclays Center, Brooklyn\n- Historical: Last Washington No. 1 pick was John Wall, 2010\n- Yardbarker: \"New Giannis Antetokounmpo Trade Rumor Indicates a Major Trade May be Closer Than Expected\" — Bucks waiting for draft deadline for leverage\n**Key verified facts (HIGH confidence):**\n- AJ Dybantsa said \"100% sure\" about going No. 1 to Wizards [HIGH]\n- NBA Draft is June 23-24 at Barclays Center, Brooklyn [HIGH]\n- Last Wizards No. 1 pick was John Wall in 2010 [HIGH]\n- Dybantsa averaged 25.5 PPG / 51.0% FG at BYU [HIGH — pipeline research]\n**MEDIUM confidence:**\n- Dybantsa -450 odds — from prior pipeline notes; not re-verified in today's search [MEDIUM]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
