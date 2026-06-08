@@ -1,42 +1,9 @@
 {
-  "generated_at": "2026-06-07T08:30:00.553413+00:00",
-  "today_ct": "2026-06-07",
-  "off_day": false,
+  "generated_at": "2026-06-08T08:30:00.535938+00:00",
+  "today_ct": "2026-06-08",
+  "off_day": true,
   "is_series_start_today": false,
-  "series": {
-    "opponent": "San Francisco Giants",
-    "opponent_id": 137,
-    "opponent_record": "26-39",
-    "cubs_record": "34-31",
-    "is_cubs_home": true,
-    "venue": "Wrigley Field",
-    "series_length": 1,
-    "games": [
-      {
-        "game_pk": "824670",
-        "game_date_iso": "2026-06-08T00:30:00Z",
-        "game_date_ct": "Sun 7:30 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      }
-    ],
-    "rationale": "Same opponent (San Francisco Giants) as yesterday \u2014 this is mid-series, not a series opener."
-  },
-  "today_cubs_game": {
-    "game_pk": "824670",
-    "status": "Preview",
-    "detailed_status": "Scheduled",
-    "game_date_iso": "2026-06-08T00:30:00Z",
-    "game_date_ct": "Sun 7:30 PM CT",
-    "is_cubs_home": true,
-    "opponent_id": 137,
-    "opponent_name": "San Francisco Giants",
-    "opponent_record": "26-39",
-    "cubs_record": "34-31",
-    "cubs_probable": "TBD",
-    "opponent_probable": "TBD",
-    "venue": "Wrigley Field"
-  },
-  "rationale": "Same opponent (San Francisco Giants) as yesterday \u2014 this is mid-series, not a series opener."
+  "series": null,
+  "today_cubs_game": null,
+  "rationale": "No upcoming Cubs game on today's CT calendar date."
 }

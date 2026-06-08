@@ -1,39 +1,26 @@
 {
-  "generated_at": "2026-06-07T08:30:00.354147+00:00",
+  "generated_at": "2026-06-08T08:30:00.346399+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 67,
-  "measured_tweet_count": 66,
-  "measured_median_impressions": 56.5,
-  "measured_mean_impressions": 112.59,
-  "median_impressions": 56,
-  "mean_impressions": 110.91,
+  "tweet_count": 62,
+  "measured_tweet_count": 61,
+  "measured_median_impressions": 56,
+  "measured_mean_impressions": 115.02,
+  "median_impressions": 56.0,
+  "mean_impressions": 113.16,
   "max_impressions": 1995,
   "significant_findings": [
-    {
-      "dimension": "has_allcaps",
-      "kind": "binary",
-      "winner": "True",
-      "loser": "False",
-      "median_impressions_winner": 71,
-      "median_impressions_loser": 37,
-      "n_winner": 53,
-      "n_loser": 13,
-      "p_value": 0.0255,
-      "effect_size_cliffs_delta": 0.403,
-      "effect_size_label": "medium"
-    },
     {
       "dimension": "posting_window=morning_06_12",
       "kind": "time_window_vs_rest",
       "winner": "not_morning_06_12",
       "loser": "morning_06_12",
-      "median_impressions_winner": 111,
-      "median_impressions_loser": 46,
-      "n_winner": 23,
-      "n_loser": 43,
-      "p_value": 0.0112,
-      "effect_size_cliffs_delta": 0.382,
+      "median_impressions_winner": 113.0,
+      "median_impressions_loser": 45,
+      "n_winner": 22,
+      "n_loser": 39,
+      "p_value": 0.0055,
+      "effect_size_cliffs_delta": 0.432,
       "effect_size_label": "medium"
     },
     {
@@ -41,12 +28,25 @@
       "kind": "time_window_vs_rest",
       "winner": "midday_12_18",
       "loser": "not_midday_12_18",
-      "median_impressions_winner": 111,
-      "median_impressions_loser": 46,
-      "n_winner": 23,
-      "n_loser": 43,
-      "p_value": 0.0112,
-      "effect_size_cliffs_delta": 0.382,
+      "median_impressions_winner": 113.0,
+      "median_impressions_loser": 45,
+      "n_winner": 22,
+      "n_loser": 39,
+      "p_value": 0.0055,
+      "effect_size_cliffs_delta": 0.432,
+      "effect_size_label": "medium"
+    },
+    {
+      "dimension": "has_allcaps",
+      "kind": "binary",
+      "winner": "True",
+      "loser": "False",
+      "median_impressions_winner": 70.0,
+      "median_impressions_loser": 37,
+      "n_winner": 48,
+      "n_loser": 13,
+      "p_value": 0.0265,
+      "effect_size_cliffs_delta": 0.405,
       "effect_size_label": "medium"
     },
     {
@@ -54,12 +54,12 @@
       "kind": "binary",
       "winner": "True",
       "loser": "False",
-      "median_impressions_winner": 88.0,
-      "median_impressions_loser": 46.5,
-      "n_winner": 32,
-      "n_loser": 34,
-      "p_value": 0.0179,
-      "effect_size_cliffs_delta": 0.34,
+      "median_impressions_winner": 95,
+      "median_impressions_loser": 43.5,
+      "n_winner": 29,
+      "n_loser": 32,
+      "p_value": 0.0099,
+      "effect_size_cliffs_delta": 0.386,
       "effect_size_label": "medium"
     }
   ],
@@ -77,9 +77,9 @@
   "raw_buckets": {
     "by_hour_ct": {
       "7": {
-        "n": 13,
-        "mean": 72.69,
-        "median": 38,
+        "n": 12,
+        "mean": 63.33,
+        "median": 37.5,
         "top": {
           "impressions": 242,
           "text": "Astros 3, Cubs 0.\n\nChristian Walker went yard twice (13 HRs), Kai-Wei Teng held Chicago to 2 hits in 6 innings, and the Cubs dropped their SEVENTH straight for the first time since 2022.\n\nThe offense has completely vanished. Something has t"
@@ -104,27 +104,27 @@
         }
       },
       "12": {
-        "n": 12,
-        "mean": 276,
-        "median": 143.5,
+        "n": 11,
+        "mean": 297.18,
+        "median": 149,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
         }
       },
       "10": {
-        "n": 10,
-        "mean": 66.6,
-        "median": 44.0,
+        "n": 9,
+        "mean": 65.11,
+        "median": 32,
         "top": {
           "impressions": 195,
           "text": "Jordan Wicks recalled \u2014 Cabrera on the 15-day IL (right-finger blister).\n\nWicks: 1 ER in last 11 Iowa innings. Rotation: Imanaga, Taillon, Rea, Brown, Wicks. With Horton, Steele, Boyd, and Cabrera all on IL, 4 of 6 original starters are una"
         }
       },
       "8": {
-        "n": 11,
-        "mean": 66.64,
-        "median": 45,
+        "n": 10,
+        "mean": 70.2,
+        "median": 45.5,
         "top": {
           "impressions": 308,
           "text": "Cubs open a 4-game road series in Pittsburgh today.\n\nBen Brown (2.09 ERA, 40 K in 38.2 IP) faces Carmen Mlodzinski (4-3, 3.96 ERA) at PNC Park \u2014 first pitch 12:35 PM CT. Pirates are 27-26. Cubs have lost 8 straight. \u26be\n\nSnap the skid or fall"
@@ -140,9 +140,9 @@
         }
       },
       "9": {
-        "n": 9,
-        "mean": 103.44,
-        "median": 76,
+        "n": 8,
+        "mean": 106.88,
+        "median": 77.0,
         "top": {
           "impressions": 264,
           "text": "On May 8 the Cubs were 15 games over .500.\n\nIn those 17 days: rotation ERA above 6.00, offense 28th in OPS, pitching 28th in ERA, 12 losses in 14 games. They've gone from the NL's hottest team to clinging to a wild card spot.\n\nThis isn't a "
@@ -214,9 +214,9 @@
         }
       },
       "Sun": {
-        "n": 11,
-        "mean": 97.91,
-        "median": 80,
+        "n": 6,
+        "mean": 110.33,
+        "median": 102.5,
         "top": {
           "impressions": 242,
           "text": "Astros 3, Cubs 0.\n\nChristian Walker went yard twice (13 HRs), Kai-Wei Teng held Chicago to 2 hits in 6 innings, and the Cubs dropped their SEVENTH straight for the first time since 2022.\n\nThe offense has completely vanished. Something has t"
@@ -234,9 +234,9 @@
     },
     "by_content_type": {
       "brief": {
-        "n": 66,
-        "mean": 112.59,
-        "median": 56.5,
+        "n": 61,
+        "mean": 115.02,
+        "median": 56,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
@@ -245,18 +245,18 @@
     },
     "by_opening": {
       "stat_lead": {
-        "n": 5,
-        "mean": 74,
-        "median": 45,
+        "n": 4,
+        "mean": 84.75,
+        "median": 85.0,
         "top": {
           "impressions": 158,
           "text": "Freddy Peralta. 3.12 ERA. Pending free agent. Counsell knows him from Milwaukee.\n\nThe Mets' June 1 decision point is 11 days out. The Cubs' rotation just lost another arm to a blister. The case for this trade has never been stronger.\n\n#Cubs"
         }
       },
       "statement": {
-        "n": 56,
-        "mean": 119.55,
-        "median": 64.5,
+        "n": 52,
+        "mean": 121.37,
+        "median": 58.5,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
@@ -283,20 +283,20 @@
         }
       },
       "200-260": {
-        "n": 32,
-        "mean": 73.25,
-        "median": 50.0,
+        "n": 27,
+        "mean": 71.44,
+        "median": 47,
         "top": {
-          "impressions": 185,
-          "text": "White Sox 8, Cubs 3. Series tied 1-1.\n\nMurakami went YARD twice. Five White Sox HRs off Taillon in 5 innings. Davis Martin: 6 IP, 1 ER, 7 Ks.\n\nPCA and Amaya homered. Not enough.\n\nRubber game today, 1:10 PM CT.\n\n#Cubs #GoCubs #FlyTheW"
+          "impressions": 169,
+          "text": "First pitch in 80 minutes. Wrigley Field. Cubs-Astros, Game 1 of 3.\n\nHouston sends Arrighetti (5-1, 1.50 ERA) \u2014 .173 opponent BA through seven starts. Taillon (2-3, 4.97) needs to match his level today.\n\nWin this one.\n\n#Cubs #GoCubs #FlyThe"
         }
       }
     },
     "by_hashtag_count": {
       "3": {
-        "n": 66,
-        "mean": 112.59,
-        "median": 56.5,
+        "n": 61,
+        "mean": 115.02,
+        "median": 56,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
@@ -305,8 +305,8 @@
     },
     "by_has_score": {
       "True": {
-        "n": 34,
-        "mean": 143.68,
+        "n": 32,
+        "mean": 145.53,
         "median": 62.5,
         "top": {
           "impressions": 1995,
@@ -314,9 +314,9 @@
         }
       },
       "False": {
-        "n": 32,
-        "mean": 79.56,
-        "median": 55.5,
+        "n": 29,
+        "mean": 81.34,
+        "median": 54,
         "top": {
           "impressions": 264,
           "text": "On May 8 the Cubs were 15 games over .500.\n\nIn those 17 days: rotation ERA above 6.00, offense 28th in OPS, pitching 28th in ERA, 12 losses in 14 games. They've gone from the NL's hottest team to clinging to a wild card spot.\n\nThis isn't a "
@@ -325,18 +325,18 @@
     },
     "by_has_stat": {
       "True": {
-        "n": 32,
-        "mean": 160.97,
-        "median": 88.0,
+        "n": 29,
+        "mean": 168.69,
+        "median": 95,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
         }
       },
       "False": {
-        "n": 34,
-        "mean": 67.06,
-        "median": 46.5,
+        "n": 32,
+        "mean": 66.38,
+        "median": 43.5,
         "top": {
           "impressions": 264,
           "text": "On May 8 the Cubs were 15 games over .500.\n\nIn those 17 days: rotation ERA above 6.00, offense 28th in OPS, pitching 28th in ERA, 12 losses in 14 games. They've gone from the NL's hottest team to clinging to a wild card spot.\n\nThis isn't a "
@@ -345,9 +345,9 @@
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 66,
-        "mean": 112.59,
-        "median": 56.5,
+        "n": 61,
+        "mean": 115.02,
+        "median": 56,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
@@ -356,9 +356,9 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 53,
-        "mean": 127.68,
-        "median": 71,
+        "n": 48,
+        "mean": 132.33,
+        "median": 70.0,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
@@ -378,15 +378,15 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 33,
-        "mean_rate": 0.0029,
+        "n": 32,
+        "mean_rate": 0.0031,
         "median_rate": 0.0
       }
     },
     "by_opening": {
       "statement": {
-        "n": 30,
-        "mean_rate": 0.0032,
+        "n": 29,
+        "mean_rate": 0.0035,
         "median_rate": 0.0
       },
       "allcaps_lead": {
@@ -402,20 +402,20 @@
     },
     "by_has_score": {
       "True": {
-        "n": 17,
-        "mean_rate": 0.0024,
+        "n": 18,
+        "mean_rate": 0.0032,
         "median_rate": 0.0
       },
       "False": {
-        "n": 16,
-        "mean_rate": 0.0034,
+        "n": 14,
+        "mean_rate": 0.003,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
       "False": {
-        "n": 14,
-        "mean_rate": 0.0034,
+        "n": 13,
+        "mean_rate": 0.0041,
         "median_rate": 0.0
       },
       "True": {
