@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-07 |
-| Writing | Complete (all steps) | 2026-06-07 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 26 claims; image warnings cosmetic/expected for imagn) | 2026-06-07 |
-| Compile | Complete (07-content-data.json — 5 stories, 9 X posts, 0 FB posts, 5 articles, 5 images) | 2026-06-07 |
-| Dashboard | Complete (review-dashboard.html, 24 items) | 2026-06-07 |
-| PostPlanner Export | Complete (standard 9 posts + TOBI 9 posts) | 2026-06-07 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-07 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-07 |
+| Research | Complete | 2026-06-08 |
+| Writing | Complete (all steps) | 2026-06-08 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 31 claims; image warnings cosmetic/expected for imagn) | 2026-06-08 |
+| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images) | 2026-06-08 |
+| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-06-08 |
+| PostPlanner Export | Complete (standard 6 posts + TOBI 6 posts) | 2026-06-08 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-08 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-08 |
 
 ## Queue
 
@@ -24,6 +24,18 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-08 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 10 FB posts (5 long-form + 5 captions) = 16 total
+- **Articles:** 5 (bylines: Elena Voss x2 [S1, S4], Marcus Cole x2 [S2, S5], Ryan Calloway x1 [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-08.xlsx (6 posts), tfr-postplanner-tobi-2026-06-08.xlsx (6 TOBI posts)
+- **Coverage:** Zverev wins Roland Garros 2026 (def. Cobolli 6-1, 4-6, 6-4, 6-7(5), 6-1; first GS title; first German men's GS since Becker 1996; 0-3 in finals before; 25th career title; 125th career GS win); Roland Garros controversies — physio visit during play + line-call error at 5-5 (last GS with human line judges); Post-Roland Garros rankings (Zverev ↑ No. 3, Cobolli career-high No. 10, Arnaldi +70, Andreeva ↑ No. 6, Chwalinska +93); Stuttgart BOSS Open opens today (Kyrgios vs Moutet — first grass in ~3 years; Fritz defending; Zverev/Cobolli/Mensik withdrew); Cobolli feature (Italy's first GS finalist since Panatta 1976; career-high No. 10)
+- **Notes:**
+  - verify-facts.py: passed; 31 claims; image warnings cosmetic (imagn source, all not_started)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-07 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
