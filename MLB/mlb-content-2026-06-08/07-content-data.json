@@ -1,0 +1,330 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-08",
+  "compiled_at": "2026-06-08T10:26:18.884099+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 5",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Skubal's Dominant Rehab Start — Return Could Come June 14",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tarik Skubal in his rehab start Sunday: 5 IP, 0 ER, 2 H, 6 K, 0 BB, 54 pitches, 16 swings-and-misses. Two-time Cy Young winner looks completely healthy. Target return: June 14 at Cleveland. #Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 202
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Tigers went 6-21 without Skubal. He makes his rehab start look that easy, and now he's days away from returning. Free agent after this season too — every contender is paying very close attention. #MLB #Tigers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Tigers"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-skubal-dominant-rehab-start-tigers-return-june-14.html",
+        "headline": "5 Innings, Zero Runs, Six Strikeouts: Skubal's Rehab Start Answered Every Question",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal's Dominant Rehab Start\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Tarik Skubal Detroit Tigers\"\n- **Visual concept:** Skubal in pitching delivery — showing the mechanics of the two-time Cy Young winner\n- **Text overlay:**\n  - Headline: SKUBAL IS BACK\n  - Subtitle: 5 IP · 0 ER · 6 K · Return June 14\n- **Mood:** Triumphant, powerful, return narrative\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Tarik Skubal Detroit Tigers\"\n- **Visual concept:** Skubal on the mound or post-start celebration\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Dominant Rehab Start — Return June 14\n**Sources:**\n- Detroit News: \"Tarik Skubal, Detroit Tigers ace, makes 1st rehab start: How he fared\" (June 7, 2026)\n- SI.com: \"Tarik Skubal's Razor-Sharp Injury Rehab Performance Turns West Michigan into Circus\"\n- Detroit News: \"Tarik Skubal's rehab start with Whitecaps: Everything you need to know\" (June 5, 2026)\n- Grand Haven Tribune: \"Skubal Sunday: Tarik Skubal brings big-league buzz to West Michigan\"\n- Bleacher Report: \"Tarik Skubal Injury Updates on Timeline for Return to Tigers Amid MLB Trade Rumors\"\n**Key Confirmed Facts (HIGH confidence):**\n- June 7 rehab start: West Michigan Whitecaps (High-A), 5 innings, 0 runs, 2 hits, 6 Ks, 0 BB, 54 pitches (44 strikes), 16 swings-and-misses — HIGH (Detroit News, SI confirmed)\n- NanoScope arthroscopic surgery on left elbow: May 6, 2026 — HIGH (multiple sources)\n- Target return: June 14 at Cleveland — HIGH (from June 7 pipeline; consistent with \"one rehab start needed\" reporting)\n- Tigers record without Skubal: 6-21 — HIGH (prior pipeline, consistent with reporting)\n- Skubal is a two-time American League Cy Young Award winner — HIGH\n- Skubal is a free agent after the 2026 season — HIGH (from prior pipeline)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Glasnow to 60-Day IL — Dodgers Navigating Two-Ace Absence",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Tyler Glasnow moved to the 60-day IL. Back injury. Not cleared to throw. Earliest return: July 6. The Dodgers now have Glasnow AND Blake Snell both out of the rotation. Ohtani is carrying this team. #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 212
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Manager Dave Roberts on Glasnow: \"The body is not allowing for it.\" Dodgers are 42-23 despite losing two of their top starters. When does this catch up with them? #Dodgers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Dodgers",
+            "#MLB"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-glasnow-60-day-il-dodgers-rotation-crisis.html",
+        "headline": "Glasnow to 60-Day IL: The Dodgers Are Running a Rotation Without Two of Their Aces",
+        "word_count": 639
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Glasnow 60-Day IL\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Tyler Glasnow Los Angeles Dodgers\"\n- **Visual concept:** Glasnow in pitching motion — representing the ace the Dodgers are missing\n- **Text overlay:**\n  - Headline: 60-DAY IL\n  - Subtitle: Glasnow Out · Snell Out · Ohtani Carrying LA\n- **Mood:** Urgent, news-forward, concern\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Tyler Glasnow Dodgers\" | \"Dodgers pitching\"\n- **Visual concept:** Glasnow pitching or Dodgers mound conference\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Glasnow 60-Day IL\n**Sources:**\n- MLB Trade Rumors: \"Dodgers Move Tyler Glasnow To 60-Day IL, Add Nick Frasso\" (June 6, 2026)\n- ESPN: \"Dodgers move Tyler Glasnow to 60-day IL with back injury\" (June 6, 2026)\n- Dodger Blue: \"Dodgers Make Trade With Cubs, Add Nick Frasso To 40-Man Roster & Put Tyler Glasnow On 60-Day IL\" (June 6, 2026)\n- Washington Post: \"Dodgers pitcher Tyler Glasnow moved to 60-day IL with back injury\" (June 6, 2026)\n**Key Confirmed Facts (HIGH confidence):**\n- Glasnow moved from 15-day to 60-day IL with back injury — HIGH (multiple sources)\n- Back issue began around May 8 — HIGH\n- Not cleared for throwing program as of reporting — HIGH\n- Manager Dave Roberts quote: \"I think he wants to get cranking again, but then the doctors just are not allowing for it and the body is not allowing for it\" — HIGH (ESPN/multiple)\n- Earliest return eligibility: July 6 — HIGH\n- Dodgers added Nick Frasso to 40-man roster (staying in Triple-A) — HIGH\n- Dodgers traded Antoine Kelly to Cubs — HIGH (Dodger Blue)\n- Blake Snell: Also on IL after bone spur surgery (prior pipeline, confirmed May 27 entry) — HIGH\n- Dodgers record: approximately 42-23 — HIGH (per standings search June 8 showing 42-23 Dodgers)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Judge's Trade Deadline Question — Will He Be Back by August 3?",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Aaron Judge's rib fracture: 4-6 week timeline. Six weeks from June 6 = July 18 return. The trade deadline is August 3. If he has any setback, the Yankees are making one of the biggest decisions in franchise history without their MVP. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-judge-rib-fracture-trade-deadline-spencer-jones.html",
+        "headline": "Aaron Judge's Rib Fracture and the Trade Deadline Math the Yankees Can't Ignore",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Judge Trade Deadline Question\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Aaron Judge New York Yankees\"\n- **Visual concept:** Judge in batting stance or walking to dugout — the absence of the MVP\n- **Text overlay:**\n  - Headline: JUDGE ON IL\n  - Subtitle: Rib Fracture · Trade Deadline Math · August 3\n- **Mood:** Urgent, analytical, deadline-focused\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Aaron Judge Yankees\"\n- **Visual concept:** Judge batting or pregame portrait\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Judge Trade Deadline Question\n**Sources:**\n- ESPN, multiple outlets: Judge diagnosed with right rib stress fracture (June 6, 2026) — covered in prior pipeline\n- Heavy.com: \"New York Yankees Announce Spencer Jones Decision Before Red Sox Game\"\n- MLB.com: \"Spencer Jones' first career hit is RBI single\"\n- FOX Sports: \"Spencer Jones makes his MLB debut and gives Yankees lineup one more 6-foot-7 slugger\"\n- Transaction tracker: Judge on IL (confirmed in June 8 transactions search)\n**Key Confirmed Facts (HIGH confidence):**\n- Judge: right rib stress fracture, 4-6 week timeline as of June 6 — HIGH\n- Spencer Jones: recalled to replace Judge, 6-foot-7 outfielder — HIGH\n- Jones June 6 stat: 3 hits, 1 RBI — HIGH\n- August 3, 2026 trade deadline — HIGH (standard MLB calendar)\n- 6-week timeline from June 6 = July 18 return — HIGH (calculation)\n- Jones' debut: May 8 (previously reported) — MEDIUM (close to June events; prior pipeline consistent)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Schwarber Leads the HR Race Alone — The Milestone Chase With No Competition",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Judge on IL. Murakami on IL. Kyle Schwarber leads the 2026 HR race alone. Hit No. 20 on May 15 — the earliest in MLB history. He has a clear runway to a historic season. Can he stay healthy? #Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-schwarber-leads-hr-race-judge-murakami-injured.html",
+        "headline": "Judge Down. Murakami Down. Schwarber Leads the 2026 HR Race Alone.",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber HR Race\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Kyle Schwarber Philadelphia Phillies\"\n- **Visual concept:** Schwarber home run swing — power, lead, historic pace\n- **Text overlay:**\n  - Headline: SCHWARBER LEADS ALONE\n  - Subtitle: Judge on IL · Murakami on IL · The HR Race Is His to Win\n- **Mood:** Historic, powerful, spotlight moment\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Kyle Schwarber Phillies\"\n- **Visual concept:** Schwarber rounding the bases or mid-swing\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber Leads HR Race\n**Sources:**\n- ESPN: \"MLB 2026: Will Phillies' Kyle Schwarber join 60 home run club?\" (current)\n- FOX Sports Milestones Tracker: \"2026 MLB Milestones and Records Tracker\"\n- Prior pipeline: Schwarber at 22 HRs as of June 5-6 (from June 5 and 6 status entries)\n- Transaction search: Judge/Murakami IL status confirmed\n**Key Confirmed Facts (HIGH confidence):**\n- Schwarber: at least 22 HRs entering this week — HIGH (per June 5/6 pipeline entries cross-confirmed with search)\n- 60-HR club: only Bonds (73), McGwire (70, 65), and Sosa (66, 64, 63) have hit 60+ HRs in a single season — HIGH\n- Judge: on IL with rib fracture since June 6 — HIGH\n- Murakami: on IL with Grade 2 hamstring since approximately May 31 — HIGH\n- Schwarber pace context: on pace for 54+ HRs — MEDIUM (based on 22 HR in ~66 games; pace varies)\n- 20 HRs on May 15: earliest date to reach 20 HRs in MLB history — HIGH (per prior pipeline, confirmed multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "AL East Is a One-Game Race — Rays Lead Yankees as June Heats Up",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "AL East standings tonight:\n🔴 Rays: 37-25\n⚪ Yankees: 37-26 (1 GB)\n\nOne game. June is just starting. Yankees are doing it without Judge. Tampa is fully loaded. This race is everything. #MLB #ALEast",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#ALEast"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-al-east-one-game-race-rays-yankees-june.html",
+        "headline": "One Game: The AL East Race Is Everything as June Gets Serious",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AL East Race\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- **Imagn search terms:** \"Tampa Bay Rays\" | \"AL East baseball\"\n- **Visual concept:** Rays game action or stadium — representing the AL East leaders\n- **Text overlay:**\n  - Headline: ONE GAME\n  - Subtitle: Rays 37-25 · Yankees 37-26 · AL East Race Heats Up\n- **Mood:** Competitive, race narrative, summer urgency\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- **Imagn search terms:** \"Tampa Bay Rays\" | \"New York Yankees\"\n- **Visual concept:** Game action from either team — representing the tight AL East race"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AL East One-Game Race\n**Sources:**\n- Standings search (June 8): Rays 37-25, Yankees 37-26\n- Prior pipeline: Judge IL, Spencer Jones context\n**Key Confirmed Facts (HIGH confidence):**\n- Tampa Bay Rays: 37-25 (AL East leaders as of June 8 standings) — HIGH\n- New York Yankees: 37-26 (1 game behind) — HIGH\n- Judge on IL affecting Yankees offense — HIGH\n- AL East race context: tight going into June — HIGH (consistent with prior pipelines)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

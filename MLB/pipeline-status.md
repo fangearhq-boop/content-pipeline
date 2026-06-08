@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-08
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (48 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). FB posts compile to 0 (known heading format). 0 char violations.
+- **Key Stories**: Skubal dominant rehab start June 7/5 IP 0 ER 2H 6K 0BB 54 pitches 44 strikes 16 swings-and-misses/target return June 14 Cleveland (Tier 1), Glasnow 60-day IL/body not allowing throwing/earliest return July 6/Snell also out/Dodgers 42-23/Nick Frasso added (Tier 1), Judge rib fracture trade deadline math/6-week return July 18/Aug 3 deadline/Spencer Jones bridge/Yankees 37-26 (Tier 2), Schwarber leads HR race alone/Judge and Murakami both on IL/hit No. 20 May 15 earliest MLB history/60-HR club Bonds-McGwire-Sosa (Tier 2), AL East one-game race/Rays 37-25 Yankees 37-26/June defines trade deadline posture (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-07
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (42 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py. Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

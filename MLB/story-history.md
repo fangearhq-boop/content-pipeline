@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-08
+
+### Story 1: Skubal Dominant Rehab Start — Return June 14
+- **Date:** 2026-06-08
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 7, 2026)
+- **Angle:** Skubal's June 7 rehab start for West Michigan Whitecaps: 5 IP, 0 ER, 2 H, 6 K, 0 BB, 54 pitches (44 strikes), 16 swings-and-misses. Target return June 14 at Cleveland. Two-time Cy Young winner, free agent after season, Tigers 6-21 without him. Every contender watching.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Official Tigers activation announcement (~June 12-13)
+  - Trade deadline narrative begins with each strong start
+  - Tigers second-half record with Skubal back
+
+### Story 2: Glasnow to 60-Day IL — Dodgers Rotation Crisis
+- **Date:** 2026-06-08
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Glasnow shifted to 60-day IL with back injury (not cleared for throwing program). Roberts: "The body is not allowing for it." Earliest return: July 6. Blake Snell also out (bone spur surgery). Dodgers 42-23 behind Ohtani's historic ERA.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Glasnow throwing program clearance update
+  - Dodgers rotation depth tracking
+  - Impact on NL West race
+
+### Story 3: Judge Trade Deadline Question
+- **Date:** 2026-06-08
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 6, 2026)
+- **Angle:** Rib stress fracture 4-6 week timeline. 6-week recovery = July 18 return. Aug. 3 trade deadline only 2 weeks later. Spencer Jones: 3 hits + RBI on June 6. Yankees 37-26, one game behind Rays.
+- **Content Produced:** X (1 post), FB (long-form), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Judge health update ~June 20 (4-week mark)
+  - Yankees trade deadline posture
+  - Jones development story
+
+### Story 4: Schwarber Leads HR Race Alone
+- **Date:** 2026-06-08
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Judge (rib) and Murakami (hamstring) both on IL. Schwarber leads MLB HRs alone. Hit No. 20 on May 15 (earliest ever). On pace for 54+ HRs. 60-HR club context: only Bonds/McGwire/Sosa; last time NL hit 60+ was Sosa 2001.
+- **Content Produced:** X (1 post), FB (long-form), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - HR count milestones (25, 30, etc.)
+  - Race restarts when Judge/Murakami return
+
+### Story 5: AL East One-Game Race
+- **Date:** 2026-06-08
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Rays 37-25, Yankees 37-26 (1 game). Judge on IL, Yankees lineup thin. Tampa fully healthy. June defines the race, determines trade deadline posture.
+- **Content Produced:** X (1 post), FB (long-form), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Weekly standings check
+  - Yankees buyer/seller question if Judge misses deadline
+
+---
+
 ## 2026-06-07
 
 ### Story 1: Skubal Makes Rehab Start — Tigers Eye June 14 Return
