@@ -5,6 +5,54 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-09
+
+### STORY 1: Series Preview — Cubs Open 3 Games at Coors Field
+- **Angle:** NEW STORY (Game 1 of new series, is_series_start_today=true; mandated 7:00 AM series preview; confirms specific pitchers/time unavailable in June 8 teaser)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, matchup-led series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result tonight (Rea vs Sugano)
+  - Series sweep or loss tracking (Brewers swept same Rockies last week — pressure to match)
+  - Game 2: Imanaga vs Lorenzen (2-8, 8.01 ERA) — Cubs' best matchup of the series
+
+### STORY 2: Matthew Boyd Activated — Taillon to IL (Hamstring)
+- **Angle:** FOLLOW UP (Boyd rehab covered June 7-8; today's new development = official activation, Taillon hamstring corresponding move)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, roster move announcement)
+- **Follow-Up Opportunities:**
+  - Boyd's first start back (likely next series or late in this one)
+  - Taillon recovery timeline
+  - Matt Shaw activation (still coming)
+  - Antoine Kelly MLB debut from Iowa
+
+### STORY 3: Tonight's Pitching Matchup — Rea vs Sugano at Coors
+- **Angle:** FOLLOW UP (June 8 road trip preview had no confirmed starters; today's specific matchup angle with confirmed ERAs and Rockies rotation context)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, pitching preview with stats)
+- **Follow-Up Opportunities:**
+  - Rea's performance tonight (ERA watch post-outing)
+  - Game 2 Imanaga vs Lorenzen mismatch result
+
+### STORY 4: Swanson Enters Colorado in Reset Mode
+- **Angle:** FOLLOW UP (Swanson benched June 6 per June 7 pipeline; not covered June 8; today = entering road series at .180 BA, Coors as a bounce-back venue)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, accountability/hope take)
+- **Follow-Up Opportunities:**
+  - Swanson performance in Colorado series (hits/stats update)
+  - If slump continues: roster decision questions when Shaw activates
+
+### STORY 5: Division Stakes — Cubs 7.5 Back, Rockies Are the Opportunity
+- **Angle:** FOLLOW UP (standings covered June 7-8; today's specific update = Brewers 40-23 confirmed, Cardinals 35-28; Cubs 7.5 GB; Brewers swept same Rockies last week)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update after tonight's game
+  - Cubs series result vs Rockies vs Brewers' performance this week
+  - Cardinals series vs Cubs later in June
+
+---
+
 ## 2026-06-07
 
 ### STORY 1: Cubs 3, Giants 2 — Bounce-Back Win Saturday

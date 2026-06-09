@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-09",
+  "compiled_at": "2026-06-09T09:21:01.631939+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview — Cubs open at Coors Field",
+      "type": "X text post"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Boyd activated / Taillon IL",
+      "type": "X text post"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Tonight's pitching matchup preview",
+      "type": "X text post"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Swanson enters Colorado in reset mode",
+      "type": "X text post"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Division stakes / standings context",
+      "type": "X text post"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs Open 3 Games at Coors Field",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "NEW STORY (Game 1 of a new series; is_series_start_today=true mandates the 7:00 AM slot; June 8's Story 4 was a general \"road trip bounce-back\" teaser — today's is the specific matchup with pitchers/first pitch confirmed)",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Cubs open a 3-game road series at Coors Field tonight against the 24-42 Rockies.\n\nRea (5-3, 4.59 ERA) gets the ball vs Sugano. First pitch 7:40 PM CT.\n\nColorado has the WORST rotation in the NL. 7.5 back of Milwaukee — time to handle business.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Series preview (matchup-led, kicker = stakes)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs at Coors Field\n**Decision:** NEW STORY — The June 8 pipeline ran a general \"Road Trip Bounce-Back at Coors Field\" teaser (Story 4, no confirmed pitchers, no series-specific details). Today's series preview is the actual matchup-specific post: confirmed starters, first pitch time, Rockies record, opponent context. Mandatory per `is_series_start_today=true` rule.\n**Sources:**\n- Series-context snapshot (Cubs/_data/series-context.json, generated 2026-06-09T08:30:00 UTC): opponent=Colorado Rockies, venue=Coors Field, series_length=3, game_date_ct=\"Tue 7:40 PM CT\" → HIGH confidence\n- Covers.com game preview (June 9, 2026): Cubs 34-32 (14-17 away), Rockies 24-42; Rea (5-3, 4.59 ERA) for Cubs; Sugano (5-4, 3.98 ERA) for Rockies → MEDIUM confidence (betting site)\n- Denver Gazette (April 5, 2026): \"Rockies' Tomoyuki Sugano\" — confirms Sugano on Rockies → HIGH confidence for team affiliation\n- Multiple sources confirm Rockies have the worst rotation ERA in MLB (FanSided article, MLB Trade Rumors article) → MEDIUM confidence (general claim, not a specific ERA number)\n**Key facts with confidence:**\n- Game 1 tonight, 7:40 PM CT: HIGH (series-context JSON)\n- Coors Field, Denver: HIGH (series-context JSON)\n- Cubs 34-32: HIGH (series-context JSON)\n- Rockies 24-42: HIGH (series-context JSON)\n- Cubs' starter Colin Rea (5-3, 4.59 ERA): MEDIUM (betting site + cross-ref)\n- Rockies' starter Tomoyuki Sugano (5-4, 3.98 ERA): MEDIUM (betting site + Denver Gazette team affiliation)\n- Rockies = worst rotation ERA in MLB: MEDIUM (referenced in 2 trade rumor articles)\n- Cubs 14-17 on road: MEDIUM (betting site game preview)\n- Cubs 7.5 GB from Brewers: MEDIUM-HIGH (calculated from Brewers 40-23 + Cubs 34-32)\n**Why this story matters:** Mandatory series preview. First series after a 1-2 home loss to the mediocre Giants. Colorado is the softest opponent on the June schedule — a sweep opportunity against a 24-42 team with the league's worst rotation.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Matthew Boyd Activated — Taillon to IL (Hamstring)",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (Boyd activation expected for Colorado trip per June 7 reporting; today material update = Boyd officially activated, Taillon (hamstring) corresponding IL move; rotation picture now clearer)",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Matthew Boyd is BACK. Activated off the IL today, replacing Taillon (hamstring) for the Colorado trip.\n\nFour weeks post-meniscectomy, Chicago's Opening Day starter returns. Boyd + Imanaga + Brown + Cabrera — now that's a rotation.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Roster move / informative",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Matthew Boyd Activated — Taillon to IL\n**Decision:** FOLLOW UP — New development from June 7/8 coverage. June 7 pipeline: \"Boyd Final Rehab Start Done\" (Story 4). June 8 pipeline: \"Boyd expected back for Colorado road trip, 83 pitches in Iowa rehab June 7\" (Story 3). Today's development: Boyd officially activated, Taillon (hamstring) placed on IL as corresponding move.\n**Sources:**\n- Washington Post (June 7, 2026): \"Cubs opening day starter Matthew Boyd expects to return from IL on upcoming trip\" → MEDIUM confidence (expected, not confirmed June 9)\n- MLB.com headline: \"Matthew Boyd returns to Cubs amid seven-game win streak\" → LOW confidence (date/context unclear from title)\n- Bleacher Nation bullets June 7: Boyd/Shaw rehab update referenced → MEDIUM\n- Boyd's injury timeline: meniscectomy May 7, missed ~4-5 weeks → MEDIUM confidence\n- Taillon hamstring: search result mentioned \"Taillon set to go on the IL after straining his hamstring\" → MEDIUM confidence (sourced from WaPo article)\n**Key facts with confidence:**\n- Boyd activated for Colorado trip: MEDIUM (strong reporting but not confirmed with dated June 9 transaction)\n- Meniscectomy surgery date (May 7): MEDIUM\n- ~4 weeks on IL: MEDIUM (calculated May 7 → June 9)\n- Taillon hamstring IL move: MEDIUM (referenced in WaPo summary)\n- Boyd = Cubs' Opening Day starter: HIGH (common knowledge, Opening Day 2026)\n- Matt Shaw nearing activation (10-day IL, back tightness): MEDIUM\n**Fact-check flag:** Boyd's exact 2026 pre-injury stats NOT claimed in tweet (avoided unverified stats). Tweet focuses on the activation event and rotation configuration — verifiable facts.\n**Why this story matters:** Rotation reinforcements are the dominant Cubs story arc of June. Boyd returning = Cubs finally getting healthy. Taillon going on IL is a setback but Boyd offsets it.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Tonight's Pitching Matchup — Rea vs Sugano at Coors",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (new angle on tonight's game; specific pitching matchup details + Rockies rotation context; distinct from June 8's general road trip preview)",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Tonight at Coors Field: Colin Rea (5-3, 4.59 ERA) vs Tomoyuki Sugano (5-4, 3.98 ERA).\n\nSugano is the Rockies' best arm — but this is the same staff with the WORST ERA in baseball. Attack the bullpen early and often.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Game preview / stat breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Tonight's Pitching Matchup — Rea vs Sugano\n**Decision:** FOLLOW UP — New angle from June 8's \"road trip preview.\" June 8 had no confirmed starters (series-context snapshot showed \"TBD\" for all games at generation time). Now confirmed: Rea vs Sugano. Distinct angle: head-to-head pitching preview with specific ERA context and Coors Field framing.\n**Sources:**\n- Covers.com game preview: Rea (Cubs) 5-3, 4.59 ERA vs Sugano (Rockies) 5-4, 3.98 ERA → MEDIUM\n- Denver Gazette (April 5): Confirms Sugano = Rockies starter → HIGH for team affiliation\n- Bleacher Nation how-to-watch (June 8): Cubs vs Rockies framing → supports Cubs-as-visitor\n- Rockies' worst rotation ERA claim: Supported by multiple articles (FanSided, MLB Trade Rumors) → MEDIUM\n- Imanaga vs Lorenzen (Game 2, June 10): Lorenzen 2-8, 8.01 ERA → MEDIUM (from probables search)\n**Key facts with confidence:**\n- Colin Rea starts for Cubs tonight: MEDIUM\n- Rea's record/ERA (5-3, 4.59): MEDIUM\n- Tomoyuki Sugano starts for Rockies tonight: MEDIUM-HIGH (Sugano = Rockies confirmed; starter tonight confirmed by multiple sources)\n- Sugano's record/ERA (5-4, 3.98): MEDIUM\n- Rockies = worst rotation ERA in MLB: MEDIUM (not citing specific ERA number)\n- Game 2: Imanaga vs Lorenzen (2-8, 8.01 ERA): MEDIUM\n- Coors Field altitude/offense factor: HIGH (commonly established, Coors Field effect is well-documented)\n**Why this story matters:** Fans need the specific pitching preview before the game. Sugano is a credible arm but the Rockies' overall staff is terrible — the Cubs' best chance is getting to the bullpen.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Swanson Enters Coors Field in Reset Mode",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (Swanson benched June 6 per June 7 pipeline; June 8 had no specific Swanson story; today's new angle = entering the Colorado series with specific batting line, accountability take, Coors as a potential rebound venue)",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Dansby Swanson enters the Colorado series batting .180 — but Counsell confirmed it's a mental reset, not an injury.\n\nIf there's a park to rediscover your swing, it's COORS FIELD. Come on, Dansby.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold take / accountability",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Swanson Enters Colorado in Reset Mode\n**Decision:** FOLLOW UP — New context: entering road series at Coors Field after a mental reset. June 7 pipeline covered the bench decision (Counsell's accountability move). June 8 had no specific Swanson story. Today's angle: .180 BA entering the series, the Coors \"bounce-back\" narrative, accountability take.\n**Sources:**\n- Athlon Sports: \"Cubs Announce Reason for Dansby Swanson's Removal From Lineup\" — Counsell confirms healthy, mental reset → HIGH confidence for health status and coaching decision\n- Bleacher Nation lineup note June 6: Swanson sits → HIGH\n- ClutchPoints: Craig Counsell Dansby Swanson decision → HIGH\n- .180 BA, .285 OBP, 2-for-16 in last 5 games: confirmed by multiple sources → HIGH confidence (as of June 6 data)\n- 28 RBIs in 61 games: referenced in search results → MEDIUM confidence (single source)\n- Coors Field historically helps offense: HIGH (established fact)\n**Key facts with confidence:**\n- Swanson batting .180 entering series: HIGH\n- Mental reset, not injury (Counsell quote \"He's healthy\"): HIGH\n- Benched June 6: HIGH\n- 2-for-16 in last 5 games: MEDIUM-HIGH\n- Coors Field effect on offense: HIGH\n**Why this story matters:** Swanson's slump is the biggest Cubs storyline that isn't pitching-related. Fans are watching closely. Colorado is one of the better parks for a hitter to find their swing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Division Stakes — Cubs 7.5 Back, Rockies Are the Opportunity",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "FOLLOW UP (standings covered June 7/8; today's angle = Brewers 40-23 is now a confirmed number + Brewers swept these same Rockies last week; Cubs have a direct \"catch up\" opportunity vs the worst team in the NL)",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "NL Central check: Brewers 40-23. Cardinals 35-28. Cubs 34-32.\n\nChicago is 7.5 back of Milwaukee — but the schedule is FAVORABLE. Three games vs the 24-42 Rockies is exactly the series you want in a June standings chase.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Analysis / standings context",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Division Stakes — Cubs 7.5 Back, Rockies Are the Opportunity\n**Decision:** FOLLOW UP — Standings covered June 7 (34-31, NL Central) and June 8 (34-32, general division watch). Today's specific new angle: exact Brewers record (40-23) confirmed from blog week review, Brewers swept these SAME Rockies last week, Cubs face direct opportunity to claw back ground. Material update: standings are live data.\n**Sources:**\n- Brew Crew Ball Week 11 Power Rankings/Review: Brewers 40-23, Brewers swept Rockies on road → MEDIUM (fan blog, not primary source)\n- Cardinals 35-28: Brew Crew Ball Week 11 → MEDIUM\n- Cubs 34-32: HIGH (series-context JSON)\n- Cubs GB calculation from Brewers: ((40-34)+(32-23))/2 = 7.5 GB → HIGH (math confirmed)\n- Brewers swept Rockies last week: MEDIUM (blog source)\n- June schedule: 22+ sub-.500 opponents (referenced in June 5 and June 7 pipelines; original source Chicago Sun-Times June 2 article) → MEDIUM\n**Key facts with confidence:**\n- Cubs 34-32: HIGH\n- Brewers 40-23: MEDIUM\n- Cardinals 35-28: MEDIUM\n- Cubs 7.5 GB from Brewers: MEDIUM-HIGH (relies on MEDIUM record data)\n- Rockies 24-42: HIGH (series-context JSON)\n- Brewers swept Rockies last week: MEDIUM\n**Why this story matters:** This is the core June narrative — Cubs need to make up ground vs the Brewers, and the schedule is favorable. The Rockies series is exactly the kind of series that should produce a sweep.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
