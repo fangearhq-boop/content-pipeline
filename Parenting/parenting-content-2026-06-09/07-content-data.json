@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-09",
+  "compiled_at": "2026-06-09T12:31:10.824215+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Colorado Renaissance Festival Opens June 13-14 — Opening Weekend Guide",
+      "tier": 1,
+      "status": "",
+      "angle": "The 49th season of the Colorado Renaissance Festival opens this Saturday, June 13, in Larkspur — roughly 30 minutes from Colorado Springs via I-25. It runs every Saturday and Sunday through August 2, plus the July 4 holiday weekend. The opening weekend (June 13-14) is \"Magical Fantasy Weekend,\" themed around fantasy creatures of all kinds. It's also First Responder Appreciation Weekend: firefighters, police, and sheriff's department personnel receive BOGO adult admission, and their children under 12 get in free. King Soopers carries the best-priced advance tickets: $29 adults, $14 kids 5-12, under 5 free. Located at 650 W Perry Park Ave, Larkspur, on a 350-acre forested site the festival has called home since 1976.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Colorado Renaissance Festival opens THIS Saturday in Larkspur.\n\nJune 13-14: Magical Fantasy Weekend + First Responder Appreciation. BOGO adult tickets for first responders, kids under 12 free.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 1-2",
+          "text": "King Soopers has the best ticket price: $29 adults, $14 kids 5-12, under 5 free.\n\nDay-of tickets cost more. Opens June 13 in Larkspur, runs Sat & Sun through Aug 2.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-colorado-renaissance-festival-2026-opening-weekend-guide.html",
+        "headline": "Colorado Renaissance Festival 2026 Opening Weekend Guide: What COS Families Need to Know",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado Renaissance Festival Opens June 13-14\n\n**Social Image (1080x1350)**\n- Prompt: Medieval festival scene in a forested outdoor setting. Colorful fabric banners and pennants hanging between trees. Crowd of costumed characters in fantasy medieval attire — vibrant purples, greens, and golds. Soft warm sunlight filtering through pine trees. Festive, joyful atmosphere. Art style: painterly illustration. Clean space in the bottom third of the image for text overlay.\n- Mood: Festive, magical, family-friendly\n- Mode: base_only\n\n**Article Hero (1200x630)**\n- Prompt: Wide-angle view of a medieval festival ground on a sunny summer afternoon. Rolling forested Colorado landscape in the background. Colorful tents and flags in the midground. Bright and inviting. Art style: semi-realistic illustration. Landscape orientation with clean bottom third for title text.\n- Mood: Epic, festive, Colorado outdoors\n- Mode: base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "COS Public Pools and Free Splash Pads — Summer 2026 Guide",
+      "tier": 1,
+      "status": "",
+      "angle": "With Portal Pool years from reopening, Colorado Springs families have three affordable or free ways to stay cool this summer. Two YMCA-partnership outdoor pools are open Memorial Day through Labor Day — no membership required. Wilson Ranch Pool is open Monday through Sunday, 10 AM to 6 PM; day passes are $10 for children and $15 for adults. Monument Valley Pool has the same pricing with Sunday hours starting at noon. Three free spray grounds operate across the city: Deerfield Hills Spray Ground (southeast COS, 50+ spray nozzles, 16 water features), the Watering Hole at Venezia Park (northeast COS, universally accessible playground adjacent), and the Splash Pad at Panorama Park (southeast COS, daily 10 AM-6 PM). Great Wolf Lodge offers indoor water park day passes for families wanting a larger experience.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "COS summer cooling: 3 free splash pads + 2 low-cost pools (no YMCA membership needed).\n\nWilson Ranch + Monument Valley: $10 kids, $15 adults. Free: Deerfield Hills, Venezia Park, Panorama Park.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cos-public-pools-splash-pads-summer-2026-guide.html",
+        "headline": "COS Public Pools and Free Splash Pads: Your Summer 2026 Cool-Down Guide",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Public Pools and Splash Pads\n\n**Social Image (1080x1350)**\n- Prompt: Young children laughing and playing at a colorful outdoor splash pad on a bright sunny day. Water jets shooting up from ground nozzles. Blue sky and green grass in background. Kids in swimsuits with happy expressions. Diverse representation. Art style: bright, cheerful illustration. Clean space in lower third for text overlay.\n- Mood: Joyful, cool, summer fun\n- Mode: base_only\n\n**Article Hero (1200x630)**\n- Prompt: Outdoor public swimming pool on a clear Colorado summer day. Families on the pool deck. Clear blue water. Mountains visible in the far background. Bright colors, warm light. Art style: semi-realistic illustration, landscape format. Clean lower area for headline text.\n- Mood: Relaxed, summer, community\n- Mode: base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "CPSC Pool Safety Recall: Drain Covers and Above-Ground Pools",
+      "tier": 1,
+      "status": "",
+      "angle": "Two separate CPSC recalls issued in June 2026 affect pool equipment that many Colorado Springs families may own as summer swim season peaks. First: Broqixin pool drain covers (sold by seller Eicong on Amazon) violate the Virginia Graeme Baker Pool and Spa Safety Act and pose entrapment and drowning hazards — pool owners should stop using their pools immediately and contact Eicong for a full refund. Second: Blue Wave above-ground pools that are 48 inches tall or taller have been recalled due to a drowning hazard. If you set up a new pool or bought pool equipment this spring, now is the time to check model numbers against CPSC.gov.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "CPSC recall: Broqixin pool drain covers (sold on Amazon by Eicong) violate federal pool safety law and pose an entrapment and drowning hazard.\n\nStop using your pool immediately and contact Eicong for a full refund.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Blue Wave above-ground pools 48 inches or taller have also been recalled by the CPSC due to a drowning hazard.\n\nIf you set up a new pool this spring, check the brand and model number at CPSC.gov before the kids get in.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cpsc-pool-drain-cover-blue-wave-recall-safety-2026.html",
+        "headline": "Two Pool Safety Recalls: Drain Covers and Above-Ground Pools Pose Drowning Risks",
+        "word_count": 512
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CPSC Pool Safety Recalls\n\n**Social Image (1080x1350)**\n- Prompt: Close-up view of a round pool drain cover at the bottom of a swimming pool. Water clarity showing the blue pool bottom. Safety-themed color scheme: blues and whites. No people, no text. Clean and informative visual. Art style: photorealistic illustration. Space in bottom third for alert text overlay.\n- Mood: Alert, safety-focused, informational\n- Mode: base_only\n\n**Article Hero (1200x630)**\n- Prompt: Overhead view of a clear backyard above-ground pool in summer. Blue water, pool deck with safety equipment visible. Bright sunlight. Landscape orientation. Art style: photorealistic illustration. Clean lower portion for text. Safety-forward composition.\n- Mood: Cautionary, summer safety\n- Mode: base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "PPYMCA Summer Day Camp Week 3 — Tech Week June 15-19",
+      "tier": 2,
+      "status": "",
+      "angle": "Pikes Peak YMCA Summer Day Camp's Week 3 (June 15-19) goes all in on technology. Campers ages 5-12 will explore music production and songwriting with the Colorado Springs Conservatory, movie making and animation with Snapology, and programming and coding with the Space Foundation. It's a creative, hands-on tech week designed to show kids how technology powers entertainment and problem-solving. Registration at ppymca.org; financial assistance is available through the YMCA scholarship program.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "PPYMCA Summer Day Camp Week 3 (June 15-19) is tech week for ages 5-12.\n\nMusic with COS Conservatory, movies with Snapology, coding with the Space Foundation.\n\nRegister at ppymca.org. Financial aid available.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ppymca-summer-camp-week-3-tech-june-15-2026.html",
+        "headline": "PPYMCA Summer Day Camp Week 3: Technology Week Brings Music, Movies, and Code to COS Kids",
+        "word_count": 425
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PPYMCA Summer Day Camp Week 3 — Tech Week\n\n**Social Image (1080x1350)**\n- Prompt: Two children ages 7-10 working together on a creative project using a laptop and colorful materials at a bright activity table. Enthusiastic expressions, collaborative posture. Modern, colorful classroom setting. Diverse representation. Art style: warm illustration. Clean space in bottom third for text overlay.\n- Mood: Creative, collaborative, educational\n- Mode: base_only\n\n**Article Hero (1200x630)**\n- Prompt: Child wearing headphones and creating music at a keyboard, with another child animating on a screen nearby. Bright YMCA-style activity space. Warm lighting, colorful décor. Landscape orientation. Art style: semi-realistic illustration. Clean lower third for headline.\n- Mood: Energetic, tech-creative, summer camp\n- Mode: base_only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Tiny Land Play Tent Recall — Fiberglass Poles Pose Skin and Eye Risk",
+      "tier": 2,
+      "status": "",
+      "angle": "Tiny Land children's play tents sold on Amazon and Tinylandus.com between November 2025 and March 2026 have been recalled by the CPSC due to fiberglass poles that can shed fibers, causing skin and eye irritation. The tents sold for $54 to $70 each. Eight incidents of skin or eye irritation from the fiber shedding have been reported; no serious injuries. Remedy: stop using the tent immediately, disassemble it, and keep the poles away from children. Contact Tiny Land to receive a free repair kit with four replacement plastic poles, including shipping.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "CPSC recall: Tiny Land play tents (Amazon, Nov 2025-Mar 2026, $54-$70) have fiberglass poles that shed fibers — skin/eye irritation risk.\n\nStop using. Free plastic replacement kit at tinylandus.com/pages/recalls.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-tiny-land-play-tent-recall-fiberglass-2026.html",
+        "headline": "Tiny Land Play Tent Recall: Fiberglass Poles Can Cause Skin and Eye Irritation",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tiny Land Play Tent Recall\n\n**Social Image (1080x1350)**\n- Prompt: Children's colorful fabric play tent in a backyard grass setting. No children visible — safety alert context. Tent is pitched with support poles visible. Soft natural outdoor lighting. Clean, simple composition with significant negative space in bottom third for safety alert text overlay.\n- Mood: Calm, informational, safety-focused\n- Mode: base_only\n\n**Article Hero (1200x630)**\n- Prompt: Close-up of a colorful children's pop-up play tent on green grass. Landscape format. Tent entrance visible. Soft sunlight. No people. Clean composition for recall article header. Bottom third clear for headline text.\n- Mood: Neutral, informational\n- Mode: base_only"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

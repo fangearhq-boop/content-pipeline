@@ -2,6 +2,45 @@
 
 ---
 
+## June 9, 2026
+
+### Story 1: Colorado Renaissance Festival Opens June 13-14
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado Renaissance Festival 49th season opens June 13-14 in Larkspur, CO (30 minutes from COS). Opening weekend theme: Magical Fantasy Weekend + First Responder Appreciation Weekend. BOGO adult tickets for first responders, kids under 12 free. Runs Saturdays and Sundays through August 2. King Soopers advance tickets: $29 adults, $14 kids 5-12, under 5 free. Day-of gate prices higher.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 49th season; Larkspur CO; June 13–Aug 2 (Sat/Sun); Opening weekend June 13-14: Magical Fantasy + First Responder Appreciation; BOGO adult tickets first responders; kids under 12 free; King Soopers: $29 adults, $14 kids 5-12, under 5 free; day-of prices higher; coloradorenfaire.com; Source: coloradorenfaire.com
+
+### Story 2: COS Public Pools and Free Splash Pads — Summer 2026 Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Full summer guide to COS public aquatic options. Two low-cost public pools (no YMCA membership required): Wilson Ranch Aquatic Center and Monument Valley Aquatic Center — $10 kids, $15 adults. Three free spray grounds: Deerfield Hills Community Center, Venezia Park, Panorama Park. Portal Pool still closed for renovations. Monument Valley Sundays noon-6 PM (shorter hours). Provides direct alternative for families amid ongoing parks budget cuts.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Wilson Ranch Aquatic Center ($10 kids/$15 adults, no membership); Monument Valley Aquatic Center (same pricing, Sun noon–6 PM); free spray grounds: Deerfield Hills Community Center, Venezia Park, Panorama Park; Portal Pool closed for renovations; Source: Colorado Springs Parks, Recreation & Cultural Services
+
+### Story 3: CPSC Pool Safety Recalls — Drain Covers and Blue Wave Above-Ground Pools
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — Two concurrent CPSC recalls relevant to families with backyard pools. Recall 1: Broqixin pool drain covers (sold by Eicong on Amazon) violate the Virginia Graeme Baker Pool and Spa Safety Act — entrapment and drowning hazard. Stop using pool; full refund from Eicong. Recall 2: Blue Wave above-ground pools 48 inches or taller recalled for drowning hazard. Check model number at CPSC.gov. Combined with local COS altitude context (faster dehydration/fatigue at 6,035 ft) for local relevance.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Broqixin drain covers by Eicong on Amazon; VGBA violation; entrapment/drowning hazard; full refund from Eicong; Blue Wave pools 48 inches+; drowning hazard; check CPSC.gov model numbers; COS altitude 6,035 ft; Source: CPSC.gov
+
+### Story 4: PPYMCA Summer Day Camp Week 3 — Tech Week June 15-19
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP — Week 3 of Pikes Peak YMCA Summer Day Camp (June 15-19) themed around creative technology. Three local partners: COS Conservatory (music production/songwriting), Snapology (movie making/animation), Space Foundation (programming/coding). Ages 5-12. Registration at ppymca.org; financial assistance/scholarship available. Previous coverage: Week 2 "Low-Key Famous Artist Week" (June 7 run) and Week 1 (pre-pipeline). Today's angle is distinct: Week 3 tech content with specific partners named.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** June 15-19; ages 5-12; COS Conservatory music production; Snapology movie making/animation; Space Foundation coding; ppymca.org; financial aid/scholarship available; Source: ppymca.org
+
+### Story 5: Tiny Land Play Tent Recall — Fiberglass Poles Shed Fibers
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — CPSC recall of Tiny Land children's play tents. Sold on Amazon.com and Tinylandus.com Nov 2025–Mar 2026, $54-$70. Fiberglass support poles shed fibers causing skin and eye irritation. 8 incidents reported, no serious injuries. Remedy: free plastic replacement pole kit (4 poles, shipping included) from tinylandus.com/pages/recalls. Stop using tent until replacement kit installed.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Amazon.com + Tinylandus.com; Nov 2025–Mar 2026; $54–$70; fiberglass poles shed fibers; skin/eye irritation; 8 incidents, 0 serious injuries; free plastic replacement kit (4 poles + shipping); tinylandus.com/pages/recalls; CPSC.gov; Source: CPSC.gov
+
+---
+
 ## June 7, 2026
 
 ### Story 1: Vevor Baby Swing Recall — CPSC Suffocation Hazard

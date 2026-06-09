@@ -1,25 +1,40 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: June 8, 2026
+## Latest Run: June 9, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | TOMY Boon NURSH recall (40,000 units, Walmart, choking hazard, June 4 2026, recall.tomy.com/nursh, 866-725-4407); Blodgett Open Space trail expansion (14 miles, summer 2026, mountain bike + hiking, free); summer slide prevention (25–30% learning loss, AAP-aligned tips, local resources); Rock Ledge Ranch last week (through June 14, 10am–5pm, blacksmith/cornhusk dolls/Victorian games); D49 budget vote June 11 (Sand Creek HS, Student Success Center, public meeting) |
-| Story History Check | COMPLETE | 4 NEW STORIES + 1 FOLLOW-UP (D49 budget June 11) |
+| Research (web search) | COMPLETE | Colorado Renaissance Festival June 13-14 (49th season, Larkspur, Magical Fantasy + First Responder BOGO, King Soopers $29/$14/free, runs Sat/Sun through Aug 2); COS public pools/splash pads (Wilson Ranch + Monument Valley $10/$15, 3 free spray grounds, Portal Pool closed); CPSC pool recalls (Broqixin drain covers VGBA violation/entrapment/drowning, Blue Wave 48"+ pools drowning hazard); PPYMCA Week 3 Tech Camp June 15-19 (COS Conservatory + Snapology + Space Foundation, ages 5-12, ppymca.org); Tiny Land play tent recall (Amazon + tinylandus.com Nov 2025–Mar 2026, $54–$70, fiberglass shedding, 8 incidents, free plastic replacement kit) |
+| Story History Check | COMPLETE | 3 NEW STORIES (Renaissance Festival, pool guide, Tiny Land recall) + 2 FOLLOW-UPS (CPSC pool recalls — new recalls distinct from prior recall coverage; PPYMCA Week 3 — Week 2 covered June 7) |
 | Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
 | Research Notes | COMPLETE | 01-research-notes.md |
-| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
-| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 each for Stories 1; 1 each for Stories 2, 3, 4, 5); all under 280 chars; 4 hashtags each; COS voice rules |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 each for Stories 1, 3; 1 each for Stories 2, 4, 5); 5 char violations fixed on second verify run; all under 280 chars; 4 hashtags each; 0 exclamation marks; COS voice rules |
 | Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
 | Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
-| Articles | COMPLETE | 5 articles (500–1000 words each, 0 exclamation marks, What's Next sections) |
-| Fact-Check | COMPLETE | verify-facts.py passed — 70 claims; all tweets verified under 280 chars |
-| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images |
-| Dashboard | COMPLETE | review-dashboard.html — 21 items |
-| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-08.xlsx (6 posts) + TOBI cosp-postplanner-tobi-2026-06-08.xlsx (6 TOBI posts) |
+| Articles | COMPLETE | 5 articles (500–1000 words each, 0 exclamation marks, What's Next sections, Quick Reference tables where applicable) |
+| Fact-Check | COMPLETE | verify-facts.py passed (2nd run) — 5 char violations fixed (S1A: 317→254, S1B: 292→219, S2A: 292→259, S4A: 287→269, S5A: 315→265) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-09.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-06-09.xlsx (7 TOBI posts) |
 | Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction |
 | WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-09)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts in PostPlanner xlsx; posting windows 8:00 AM–5:00 PM MT
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-09.xlsx (7 posts), cosp-postplanner-tobi-2026-06-09.xlsx (7 TOBI posts)
+- **Coverage:** Colorado Renaissance Festival 49th season (Larkspur, June 13–Aug 2 Sat/Sun, opening weekend Magical Fantasy + First Responder BOGO, King Soopers $29/$14/free, coloradorenfaire.com); COS public pools/splash pads guide (Wilson Ranch + Monument Valley $10/$15 no membership, 3 free spray grounds: Deerfield Hills/Venezia Park/Panorama Park, Portal Pool closed); CPSC pool safety recalls (Broqixin drain covers VGBA violation/entrapment/drowning, Blue Wave 48"+ pools drowning hazard, COS altitude 6,035 ft context); PPYMCA Summer Day Camp Week 3 June 15-19 (ages 5-12, COS Conservatory + Snapology + Space Foundation, ppymca.org, financial aid available); Tiny Land play tent recall (Amazon + tinylandus.com Nov 2025–Mar 2026, $54–$70, fiberglass shedding skin/eye irritation, 8 incidents, free plastic replacement kit tinylandus.com/pages/recalls)
+- **Notes:**
+  - verify-facts.py: 2 runs required — first run flagged 5 char violations (S1A: 317, S1B: 292, S2A: 292, S4A: 287, S5A: 315 chars). Fixed by rewriting all 5 posts shorter. Second run passed.
+  - compile: 5 stories, 7 X posts, 0 FB posts (PostPlanner xlsx has full 7 posts), 5 articles, 5 images
+  - dashboard: 22 items
+  - PostPlanner exports: both standard (7) and TOBI (7) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ## Pipeline Run Log (2026-06-08)
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
