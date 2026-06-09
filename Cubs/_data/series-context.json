@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-06-08T08:30:00.535938+00:00",
-  "today_ct": "2026-06-08",
-  "off_day": true,
-  "is_series_start_today": false,
-  "series": null,
-  "today_cubs_game": null,
-  "rationale": "No upcoming Cubs game on today's CT calendar date."
+  "generated_at": "2026-06-09T08:30:00.511801+00:00",
+  "today_ct": "2026-06-09",
+  "off_day": false,
+  "is_series_start_today": true,
+  "series": {
+    "opponent": "Colorado Rockies",
+    "opponent_id": 115,
+    "opponent_record": "24-42",
+    "cubs_record": "34-32",
+    "is_cubs_home": false,
+    "venue": "Coors Field",
+    "series_length": 3,
+    "games": [
+      {
+        "game_pk": "824347",
+        "game_date_iso": "2026-06-10T00:40:00Z",
+        "game_date_ct": "Tue 7:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824348",
+        "game_date_iso": "2026-06-11T00:40:00Z",
+        "game_date_ct": "Wed 7:40 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824346",
+        "game_date_iso": "2026-06-11T19:10:00Z",
+        "game_date_ct": "Thu 2:10 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      }
+    ],
+    "rationale": "Off day yesterday. Today: Cubs visit Colorado Rockies \u2192 game 1 of 3."
+  },
+  "today_cubs_game": {
+    "game_pk": "824347",
+    "status": "Preview",
+    "detailed_status": "Scheduled",
+    "game_date_iso": "2026-06-10T00:40:00Z",
+    "game_date_ct": "Tue 7:40 PM CT",
+    "is_cubs_home": false,
+    "opponent_id": 115,
+    "opponent_name": "Colorado Rockies",
+    "opponent_record": "24-42",
+    "cubs_record": "34-32",
+    "cubs_probable": "TBD",
+    "opponent_probable": "TBD",
+    "venue": "Coors Field"
+  },
+  "rationale": "Off day yesterday. Today: Cubs visit Colorado Rockies \u2192 game 1 of 3."
 }
