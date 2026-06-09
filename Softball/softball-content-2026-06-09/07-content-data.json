@@ -1,0 +1,337 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-09",
+  "compiled_at": "2026-06-09T10:17:52.464499+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 3",
+      "type": "FB"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Isa Torres Enters the Portal — The Year's Best Player Is on the Move",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "🚨 The No. 1 player in college softball just entered the portal.\n\nIsa Torres — 2026 D1 Player of the Year, ACC POY — is leaving FSU.\n\n.530 BA | .978 SLG | .591 OBP | 78 runs\n\nTexas and Texas A&M already linked. One year of eligibility.\n\n#CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Isa Torres just posted arguably the greatest offensive season in NCAA softball history before entering the portal:\n\n.530 batting average\n.978 slugging percentage\n.591 on-base percentage\n78 runs scored\n\nAll FSU records. She has one year left.\n\n#CollegeSoftball #SoftballPortal",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#CollegeSoftball",
+            "#SoftballPortal"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-isa-torres-transfer-portal-player-of-year-2026.html",
+        "headline": "2026 D1 Player of the Year Isa Torres Enters Transfer Portal — Texas Ties Fuel Recruiting Race",
+        "word_count": 627
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Isa Torres Enters the Portal\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- Concept: Isa Torres batting or fielding at shortstop — the player of the year in full competition mode. Convey dominance and individual excellence.\n- imagn_search: \"Isa Torres Florida State\"\n- Canva overlay text: \"PLAYER OF THE YEAR — IN THE PORTAL\"\n- Background: Action shot, natural light, stadium setting\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- Concept: Torres at the plate or in the field — wide shot that shows the full competition setting\n- imagn_search: \"Isa Torres Florida State\"\n- No text overlay needed for article hero\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Isa Torres — 2026 D1 Softball Player of the Year Enters Portal\n**Sources:**\n- 247Sports: \"Florida State Seminoles softball standout Isa Torres is entering the NCAA Transfer Portal\"\n- WCTV: \"FSU Softball star Isa Torres to enter transfer portal\"\n- Fox Sports: \"Florida State softball star Isa Torres announces she's entering transfer portal\"\n- Washington Post: \"Florida State softball star Isa Torres announces she's entering transfer portal\"\n- On3: \"FSU star Isa Torres, the ACC Player of the Year, to enter transfer portal\"\n- Tomahawk Nation: \"FSU loses ACC Player of the Year, D1 Softball Player of the Year Isa Torres to transfer portal\"\n**Verified Facts (HIGH confidence — multiple sources):**\n- Isa Torres entered the NCAA Transfer Portal June 8, 2026\n- Named 2026 D1 Softball Player of the Year (multiple sources)\n- Named 2026 ACC Player of the Year (multiple sources)\n- Two-time First Team All-American\n- Set FSU records in: batting average (.530), runs scored (78), slugging percentage (.978), on-base percentage (.591)\n- Georgetown, Texas native — hometown connection to Texas\n- One year of eligibility remaining\n- Texas and Texas A&M reported as early linked destinations\n**Freshness:** Announced June 8, 2026 — Day 1 of portal window. Coverage today (June 9) focuses on recruiting implications and destination speculation.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Portal Day 2 Tracker — Polar, Rijo, and More Join the Wave",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Softball portal Day 2 update:\n\n→ Moriah Polar (Purdue) — All-American OF, 218 career hits, 103 RBI. In the portal.\n→ Atalyia Rijo (Arkansas) — .342 BA, 7 HR, 42 RBI. In the portal.\n\nBeachum, Edwards, Swan still uncommitted.\n\nThis class is stacked. 🥎 #SoftballPortal",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballPortal"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Still waiting on Beachum and Edwards to commit. Two of the best players in college softball are available right now.\n\nBeachum (FSU): .417 BA, 16 HR, 66 RBI, 1 yr eligibility\nEdwards (LSU): .802 SLG, 18 HR, 2 yrs remaining\n\nWhere are they going? 🥎 #SoftballPortal",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballPortal"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-softball-portal-day-2-tracker-polar-rijo-2026.html",
+        "headline": "Softball Portal Day 2: Polar and Rijo Enter as the Class of 2026-27 Keeps Growing",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Portal Day 2 Tracker\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- Concept: Moriah Polar in batting or outfield stance — representing the Day 2 class\n- imagn_search: \"Moriah Polar Purdue\"\n- Canva overlay text: \"PORTAL TRACKER — DAY 2\"\n- Alternative: Generic transfer portal graphic with stats overlay\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- Concept: College softball action — multiple players, team atmosphere representing the portal movement\n- imagn_search: \"college softball infield\"\n- Wide shot, stadium setting\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Portal Day 2 Tracker — Polar, Rijo Join the Wave\n**Sources:**\n- Sports Illustrated/OnSI: \"Purdue Softball All-American Makes Surprising Transfer Portal Move\"\n- Whole Hog Sports: \"Report: Arkansas softball shortstop Atalyia Rijo enters transfer portal\"\n- On3 Transfer Portal Wire: ongoing tracker\n- D1Softball Transfer Tracker: ongoing tracker\n- MSN: \"College softball transfer portal heats up with top talent moves\"\n- SI: \"2026 College Softball Transfer Portal Rankings: Top 10 Available Players\"\n- SI: \"These are the Hottest Names in the College Softball Transfer Portal\"\n**Verified Facts (HIGH confidence):**\n- Moriah Polar (Purdue OF) entered portal — announced June 8, 2026\n- All-American career at Purdue\n- 218 career hits, 103 RBI, 137 runs scored across three seasons\n- One year of eligibility remaining\n- Atalyia Rijo (Arkansas SS) entered portal — reported June 8, 2026\n- .342 batting average in 2026 (career high)\n- 13 doubles, 7 home runs, 42 RBI (career highs)\n- Day 1 entries still uncommitted as of June 9: Beachum (FSU), Edwards (LSU), Swan (ASU)\n- Beachum: .417 BA, 16 HR, 66 RBI, 1 yr eligibility (FSU)\n- Edwards: .802 SLG, 18 HR, 2 yrs eligibility (LSU)\n- Swan: .383 BA, 12 HR, 55 RBI (ASU)\n- Portal window: June 8–22, 2026 (15 days)\n**Freshness:** Active portal window, Day 2. New entries continuing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Texas Builds for a Three-Peat — Kavan and Stewart Lead the Way Back",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Texas returns Teagan Kavan AND Katie Stewart as seniors for 2027.\n\nThe two-time MOP and the 4x WCWS-HR hitter are both coming back for one more shot at a three-peat.\n\nThe Longhorns have 11 days to complete their portal class. 🤘\n\n#Softball #LHN",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#LHN"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-texas-softball-three-peat-kavan-stewart-2027.html",
+        "headline": "Teagan Kavan and Katie Stewart Are Coming Back: Texas Just Made Its Three-Peat Case",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Texas Three-Peat Path\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- Concept: Teagan Kavan in pitching motion or Katie Stewart at the plate — representing the returning championship core\n- imagn_search: \"Teagan Kavan Texas\"\n- Canva overlay text: \"THREE-PEAT INCOMING?\"\n- Championship celebration alternative if available\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- Concept: Texas celebration or Kavan pitching — championship context\n- imagn_search: \"Katie Stewart Texas softball\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Texas Three-Peat Path — Kavan, Stewart, Henry Returning\n**Sources:**\n- Burnt Orange Nation: \"Teagan Kavan, Texas show grit in securing back-to-back titles\"\n- SI/Texas: \"Texas Softball Transfer Portal Tracker: Who's Coming & Who's Leaving for 2027?\"\n- Yahoo Sports: \"Texas softball: What recruits arrive for 2027, and who will UT target in transfer portal?\"\n- HookEm Headlines: \"Texas softball transfer portal tracker: Longhorns' path to a 3-peat starts now\"\n**Verified Facts (HIGH confidence — multiple sources):**\n- Teagan Kavan confirmed returning as senior for 2027\n- Katie Stewart confirmed returning as senior for 2027\n- Kayden Henry also confirmed returning for 2027\n- Texas won back-to-back WCWS titles (2025, 2026)\n- 11 days remain in portal window (as of June 9)\n**Freshness:** Three-peat angle is new framing for ongoing recruitment window story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Alabama Portal Tracker — Murphy Rebuilds the Offense Around Briski",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Alabama lost 7 seniors from its 49-7 season.\n\nBriski is back — the offense needs rebuilt.\n\nMurphy has 11 portal days to find the pieces. With the ace locked in, every offensive transfer can see what they're walking into.\n\nThe Tide hunts. #Alabama #CollegeSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Alabama",
+            "#CollegeSoftball"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-alabama-softball-portal-rebuild-briski-murphy-2027.html",
+        "headline": "Alabama's Portal Mission: Patrick Murphy Has 11 Days to Build an Offense Around Briski",
+        "word_count": 571
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Alabama Portal Tracker\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- Concept: Jocelyn Briski on the mound — representing the returning ace and Alabama's foundation\n- imagn_search: \"Jocelyn Briski Alabama\"\n- Canva overlay text: \"BRISKI IS BACK. OFFENSE NEEDED.\"\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- Concept: Alabama softball game action or Briski pitching\n- imagn_search: \"Alabama softball\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Alabama Portal Tracker\n**Sources:**\n- Yahoo Sports: \"Alabama softball transfer portal tracker for 2027 season: Live updates\"\n- AOL: Alabama softball transfer portal tracker\n- The Crimson White: \"Recapping Alabama softball's recent roster movement\"\n- SI/Alabama: \"Alabama Softball 2026 Offseason Roster Tracker\"\n**Verified Facts (HIGH confidence):**\n- Alabama went 49-7 in 2026, No. 1 overall seed\n- Staff posted 1.60 ERA, 22 shutouts\n- Seven seniors graduated: Abby Duchscherer, Marlie Giles, Alea Johnson, Kinley Pate, Larissa Preuitt, Alexis Pupillo, Kristen White\n- Jocelyn Briski (SEC Pitcher of the Year) confirmed returning for 2027 (from June 8 research)\n- Patrick Murphy is head coach (hired after June 7, 2026 coaching change context)\n**Note:** June 8 pipeline covered Briski return angle; June 9 angle is Alabama portal hunting for offensive pieces.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Oklahoma Begins Its Reload — Gasso's Most Important Offseason in Years",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Oklahoma missed the WCWS for the first time since 2015 in 2026.\n\nNow Patty Gasso rebuilds without Kendall Wells and several key seniors.\n\nEight national titles. She's done this before.\n\nCan OU return to Devon Park in 2027? #Softball #Sooners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Softball",
+            "#Sooners"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-oklahoma-softball-rebuild-gasso-2027.html",
+        "headline": "Oklahoma's Reset: Patty Gasso Has Rebuilt Before — The Question Is How Fast",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Oklahoma Rebuild\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- Concept: Patty Gasso in dugout or on field — the coach leading the reload\n- imagn_search: \"Patty Gasso Oklahoma\"\n- Canva overlay text: \"GASSO RELOADS\"\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- Concept: Oklahoma team or stadium — program scale and tradition\n- imagn_search: \"Oklahoma softball\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Oklahoma Rebuild — Gasso's Reload\n**Sources:**\n- SI/OnSI: \"OU softball transfer portal tracker: Let the chaos begin\"\n- On3: \"2026-27 Softball Transfer Portal\"\n- General context from pipeline story history\n**Verified Facts (HIGH confidence):**\n- Oklahoma did not reach WCWS in 2026 (eliminated by Mississippi State in Super Regionals)\n- First missed WCWS since 2015\n- Kendall Wells had 39 HRs in 2026 (one shy of Megan Grant's record)\n- Patty Gasso has eight national championships at Oklahoma\n- OU historically reloads quickly through recruiting and portal\n**Confidence:** MEDIUM on Oklahoma-specific portal actions (no specific names confirmed yet). Story angle is program narrative/outlook rather than specific transactions.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
