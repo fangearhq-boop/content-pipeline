@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-09
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spurs win Game 3 at MSG 115-111 — Wembanyama 32/8/6/3blk/2stl; Castle 23 (clutch 3 + FTs); Brunson 32, OG 28; series 2-1 Knicks; road team wins all 3 games | 1 | FOLLOW UP |
+| 2 | Game 4 preview — Wednesday June 10 8:30 PM ET ABC MSG; road team won all 3; Knicks need first home win; Brunson efficiency + KAT vs Wemby the key matchups | 1 | FOLLOW UP |
+| 3 | Wemby/Castle make Finals history — first teammates both ≤22 to each score 20+ in same Finals game; Wemby 2nd-youngest 30-5-5 in Finals (behind Magic Johnson) | 2 | NEW STORY |
+| 4 | Giannis trade market cooling — "much more tepid than expected"; Heat frontrunner but stalled; $275M stay-in-Milwaukee extension now very real; June 23 deadline | 2 | FOLLOW UP |
+| 5 | NBA Draft countdown — 14 days to June 23 Brooklyn; Dybantsa "100% sure" No. 1 to Wizards -450; Peterson No. 2 Jazz; Boozer No. 3; first Washington No. 1 since Wall 2010 | 2 | FOLLOW UP |
+
+### STORY 1: Spurs Win Game 3 at MSG — Wembanyama Delivers 32-8-6
+- **Tier:** 1
+- **Category:** NBA Finals / Game Recap
+- **Key facts:** Final: Spurs 115, Knicks 111; Wembanyama 32 pts/8 reb/6 ast/3 blk/2 stl; Castle 23 pts (go-ahead 3 <2 min + clinching FTs with 6 sec left); Brunson 32 pts, OG Anunoby 28 pts; Spurs 28 ast vs Knicks 18; 21-7 pts off turnovers advantage Spurs; road team wins all 3 games (only 2nd Finals ever); Wemby/Castle first Finals teammates both ≤22 with 20+ each; Wemby 2nd-youngest 30-5-5 in Finals (Magic Johnson comparison, MEDIUM confidence); Knicks 13-game win streak ended; Game 4 Wednesday June 10 MSG 8:30 PM ET
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 4 result; Knicks win to go 3-1 or Spurs level at 2-2
+
+### STORY 2: Game 4 Preview — Road Team Has Won Every Game
+- **Tier:** 1
+- **Category:** NBA Finals / Game Preview
+- **Key facts:** Game 4: Wednesday June 10 8:30 PM ET ABC at MSG; road team won all 3 (only 2nd Finals ever); Knicks lead 2-1; Brunson needs efficiency improvement; KAT vs Wemby the pivotal matchup; if Spurs win, Game 5 Saturday June 13 San Antonio
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 4 result
+
+### STORY 3: Wembanyama and Castle Make NBA Finals History
+- **Tier:** 2
+- **Category:** Player Feature / Spurs
+- **Key facts:** First Finals teammates both ≤22 to each score 20+ same game (MEDIUM — single source compound claim); Wemby 2nd-youngest 30-5-5 behind Magic Johnson (MEDIUM); Castle's clutch sequence defined Game 3; Spurs' future is now
+- **Status:** NEW STORY
+- **Follow-up ideas:** Spurs' dynasty potential; championship win age comparison
+
+### STORY 4: Giannis Trade Market Cooling
+- **Tier:** 2
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Market "much more tepid than expected" per insiders; Heat frontrunner but not done deal; Giannis has roster questions about Miami post-trade; Celtics intrigued but Windhorst skeptical; $275M extension real option; Bucks open to trade; June 23 deadline (same as draft)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announced; Giannis signs extension; Miami finalizes package
+
+### STORY 5: NBA Draft Countdown — 14 Days to Dybantsa
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** June 23-24 Barclays Center Brooklyn; 14 days away; Dybantsa "100% sure" No. 1 to Wizards (-450); Peterson No. 2 Jazz; Boozer No. 3; Wizards 17-65; first Washington No. 1 since John Wall 2010; Dybantsa 25.5 PPG/51.0% FG/6-9/BYU
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dybantsa officially drafted; Wizards rebuild trajectory
+
 ## 2026-06-07
 
 | # | Story | Tier | Tag |

@@ -1,0 +1,250 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-09",
+  "compiled_at": "2026-06-09T11:18:34.069543+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Spurs Win Game 3 at MSG — Wembanyama and Castle Silence the Garden",
+      "tier": 1,
+      "status": "",
+      "angle": "Victor Wembanyama (32 pts, 8 reb, 6 ast, 3 blk, 2 stl) and Stephon Castle (23 pts, clutch 3-pointer and game-clinching free throws) lead San Antonio to a 115-111 win at Madison Square Garden; series now 2-1 Knicks; road team has won all three games; Brunson matched Wemby with 32 but Knicks shot poorly from 3; only second Finals with road team winning first three games",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Victor Wembanyama. At Madison Square Garden. With everything on the line.\n\n32 points. 8 rebounds. 6 assists. 3 blocks. 2 steals.\n\nThe Spurs win 115-111. Series is 2-1. Game 4 is Wednesday.\n\nThe kid showed up. #GoSpursGo #NBAFinals",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#NBAFinals"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The MSG crowd had no answer for Stephon Castle.\n\n23 points. A clutch 3-pointer with 2 minutes left. Game-clinching free throws with 6 seconds to go.\n\nWemby + Castle: first Finals teammates both 22-or-under to each score 20+ in the same game.\n\nSpurs. Alive. #GoSpursGo #NBAFinals",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#NBAFinals"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-spurs-win-game-3-wembanyama-castle-115-111.html",
+        "headline": "Wembanyama and Castle Silence Madison Square Garden as Spurs Win Game 3, 115-111",
+        "word_count": 845
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spurs Win Game 3 — Wembanyama and Castle Silence the Garden\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Victor Wembanyama San Antonio Spurs\"\n- **Overlay text:** \"32 PTS. 8 REB. 6 AST. WEMBY DELIVERS.\"\n- **Design notes:** Dark background, San Antonio silver/black tones, bold stat line\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Stephon Castle San Antonio Spurs\"\n- **Overlay text:** \"CASTLE. CLUTCH. SPURS ALIVE.\"\n- **Design notes:** Dynamic action shot, highlight Castle's game-winning plays\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spurs Win Game 3 — Wembanyama/Castle vs MSG\n**Source:** NBA.com, CBS Sports, Al Jazeera, Bleacher Report (June 8-9, 2026)\n**Verified Facts (HIGH confidence):**\n- Final score: Spurs 115, Knicks 111 [MULTIPLE SOURCES]\n- Victor Wembanyama: 32 points, 8 rebounds, 6 assists, 3 blocks, 2 steals [MULTIPLE SOURCES]\n- Stephon Castle: 23 points, including clutch 3-pointer with under 2 minutes left; game-clinching free throws with 6 seconds remaining [MULTIPLE SOURCES]\n- Jalen Brunson: 32 points for the Knicks [MULTIPLE SOURCES]\n- OG Anunoby: 28 points for the Knicks [MULTIPLE SOURCES]\n- Spurs: 28 assists; Knicks: 18 assists [CBS Sports]\n- Spurs: 21-7 advantage in points off turnovers [CBS Sports]\n- Knicks series lead: 2-1 [MULTIPLE SOURCES]\n- Wembanyama and Castle are the first Finals teammates both aged 22 or younger to each score 20+ in the same game [CBS Sports/Bleacher Report — MEDIUM confidence, compound historical claim, single primary source]\n- Wembanyama is the second-youngest player to post a 30-5-5 in an NBA Finals game, behind Magic Johnson [CBS Sports — MEDIUM confidence, single source, historical claim]\n- This is only the second NBA Finals where the road team won all of the first three games [CBS Sports — MEDIUM confidence, single source]\n- Trump was in attendance and was booed [CNBC]\n- Game 4: Wednesday June 10, 8:30 PM ET, ABC, Madison Square Garden [CBS Sports/Yahoo Sports]\n**Confidence notes:**\n- HIGH: Final score, individual stat lines (Wemby, Castle, Brunson, OG), basic game facts\n- MEDIUM: Historical/comparative claims (first teammates age ≤22 with 20+ each; 2nd Finals with road wins all first 3 games; Wemby 2nd-youngest 30-5-5)\n- LOW: Nothing used at LOW confidence",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game 4 Preview — Can the Knicks Reverse the Road-Team Curse?",
+      "tier": 1,
+      "status": "",
+      "angle": "Game 4 is Wednesday June 10, 8:30 PM ET on ABC at MSG; road team won all three games so far — only second time in Finals history; Knicks must win at home to reclaim momentum; Brunson needs to shoot more efficiently; Spurs seek back-to-back wins at MSG to even the series",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The road team has won every game in this NBA Finals.\n\nGame 1: Knicks win in San Antonio ✓\nGame 2: Knicks win in San Antonio ✓\nGame 3: Spurs win at MSG ✓\n\nGame 4: Wednesday, 8:30 PM ET on ABC. Will MSG flip the script?\n\n#KnicksTape #NBAFinals",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#KnicksTape",
+            "#NBAFinals"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-02-game-4-preview-knicks-spurs-road-team-curse.html",
+        "headline": "Game 4 Preview: Can the Knicks Finally Win at Home in the 2026 NBA Finals?",
+        "word_count": 734
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Game 4 Preview — Can the Knicks Reverse the Road-Team Curse?\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Jalen Brunson New York Knicks\"\n- **Overlay text:** \"GAME 4. WEDNESDAY. 8:30 PM ET.\"\n- **Design notes:** Knicks blue/orange, bold countdown format\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Karl-Anthony Towns New York Knicks\"\n- **Overlay text:** \"CAN THE KNICKS WIN AT HOME?\"\n- **Design notes:** Question-format overlay to drive engagement\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Game 4 Preview\n**Source:** CBS Sports, Yahoo Sports, DraftKings (June 8-9, 2026)\n**Verified Facts (HIGH):**\n- Game 4: Wednesday June 10, 8:30 PM ET on ABC at Madison Square Garden [MULTIPLE SOURCES]\n- Knicks lead series 2-1 [MULTIPLE SOURCES]\n- Road team has won every game in this Finals [MULTIPLE SOURCES]\n- If Spurs win Game 4, Game 5 goes to San Antonio on Saturday June 13, 8:30 PM ET [CBS Sports]\n**MEDIUM:**\n- Only second Finals where road team won all first three games [single source]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wembanyama and Castle Make NBA Finals History",
+      "tier": 2,
+      "status": "",
+      "angle": "Wembanyama and Castle became the first Finals teammates both aged 22 or younger to each score 20+ points in the same game; Wemby second-youngest player with a 30-5-5 in the Finals (behind Magic Johnson); Castle's 23 included the go-ahead 3-pointer with under two minutes left and two clinching free throws",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Spurs' two youngest stars just made NBA Finals history.\n\nWemby + Castle: first Finals teammates both aged 22-or-under to each score 20+ points in the same game.\n\nVictor Wembanyama: 32 pts.\nStephon Castle: 23 pts.\n\nHistory was made at MSG. #GoSpursGo #NBAFinals",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#NBAFinals"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-wembanyama-castle-youngest-finals-duo-history.html",
+        "headline": "Young Guns: Wembanyama and Castle Make NBA Finals History at MSG",
+        "word_count": 699
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama and Castle Make NBA Finals History\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Victor Wembanyama San Antonio Spurs\"\n- **Overlay text:** \"FIRST FINALS TEAMMATES BOTH 22-OR-UNDER WITH 20+ EACH\"\n- **Design notes:** Historic milestone framing, silver/black Spurs palette\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Stephon Castle San Antonio Spurs\"\n- **Overlay text:** \"HISTORY. MADE. AT MSG.\"\n- **Design notes:** Bold historical framing\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama/Castle Historic Milestone\n**Source:** CBS Sports, Bleacher Report (June 8-9, 2026)\n**Verified Facts:**\n- HIGH: Wembanyama 32 pts, Castle 23 pts (see Story 1)\n- MEDIUM: First Finals teammates both aged 22-or-under each with 20+ in same game [single primary source, compound claim — flag for review]\n- MEDIUM: Wemby second-youngest 30-5-5 in Finals after Magic Johnson [single source]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Giannis Trade Market Cooling — Could He Stay in Milwaukee?",
+      "tier": 2,
+      "status": "",
+      "angle": "The Giannis trade market has come back \"much more tepid than expected\"; Heat remain frontrunner but deal not close; Celtics intrigued but no direct talks; the quieter the market, the more likely Giannis signs $275M extension to stay in Milwaukee; June 23 draft deadline",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Giannis trade update:\n\nThe market has come back \"much more tepid than expected.\"\n\nThe Heat remain the frontrunner — but it is not a done deal.\n\nIf the market stays quiet, Giannis could sign a $275M extension and stay in Milwaukee.\n\nJune 23 deadline. #NBA",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-giannis-trade-market-cooling-milwaukee.html",
+        "headline": "The Giannis Trade Market Is Quieter Than Expected — And He Might Just Stay in Milwaukee",
+        "word_count": 640
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis Trade Market Cooling\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Giannis Antetokounmpo Milwaukee Bucks\"\n- **Overlay text:** \"TEPID MARKET. $275M EXTENSION. WHAT HAPPENS NOW?\"\n- **Design notes:** Neutral tones to reflect uncertainty, bold question format\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Giannis Antetokounmpo Milwaukee Bucks\"\n- **Overlay text:** \"JUNE 23 DEADLINE\"\n- **Design notes:** Countdown urgency, Bucks green accent\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Trade Market Cooling\n**Source:** CBS Sports, Yardbarker/NBAAnalysis.net, NBC Sports (June 2026)\n**Verified Facts (HIGH):**\n- Heat remain frontrunner for Giannis [MULTIPLE SOURCES]\n- Market described as \"much more tepid than expected\" [CBS Sports]\n- Giannis can sign four-year $275M extension to remain in Milwaukee [CBS Sports]\n- June 23 NBA Draft is the Bucks' stated deadline for resolution [MULTIPLE SOURCES]\n- Thunder not interested; Warriors reportedly out [NBC Sports]\n- Celtics \"very intrigued\" but no direct talks; Brian Windhorst casts doubt it's realistic [CBS Sports/ESPN]\n**MEDIUM:**\n- If market stays quiet, Giannis \"just does\" sign the extension [CBS Sports inference]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NBA Draft Countdown — 14 Days to Dybantsa's Historic Night",
+      "tier": 2,
+      "status": "",
+      "angle": "14 days to June 23 draft at Barclays Center Brooklyn; AJ Dybantsa says \"100% sure\" going No. 1 to Wizards (-450 odds); Darryn Peterson expected No. 2 to Jazz; first Washington No. 1 pick since John Wall in 2010; Dybantsa: 25.5 PPG/51.0% FG at BYU; Wizards 17-65 this season",
+      "posting_window": "9:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "14 days to the NBA Draft in Brooklyn.\n\nAJ Dybantsa: \"100% sure\" going No. 1 to the Wizards. Odds: -450.\n\nIf confirmed: first Washington No. 1 pick since John Wall in 2010.\n\nJune 23. Barclays Center. The next era starts. #NBADraft",
+          "posting_time": "9:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBADraft"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-nba-draft-dybantsa-wizards-14-days.html",
+        "headline": "14 Days to History: AJ Dybantsa Is Going No. 1, and Washington Has Been Waiting 16 Years",
+        "word_count": 627
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Draft Countdown — AJ Dybantsa\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"AJ Dybantsa BYU\"\n- **Overlay text:** \"NO. 1 OVERALL. 14 DAYS.\"\n- **Design notes:** Clean countdown design, draft branding\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Washington Wizards NBA\"\n- **Overlay text:** \"FIRST WASHINGTON NO. 1 SINCE JOHN WALL. 2010 → 2026.\"\n- **Design notes:** Historical callback, side-by-side era framing"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Draft Countdown\n**Source:** Bleacher Report, CBS Sports, NBA.com (June 2026)\n**Verified Facts (HIGH):**\n- Draft: June 23-24, Barclays Center, Brooklyn [MULTIPLE SOURCES]\n- AJ Dybantsa said \"100% sure\" going No. 1 to Wizards [Bleacher Report/7News interview]\n- Dybantsa -450 odds for No. 1 overall [MULTIPLE SOURCES]\n- Washington Wizards finished 17-65 [CBS Sports]\n- First Washington No. 1 pick since John Wall in 2010 [MULTIPLE SOURCES]\n- Dybantsa: 25.5 PPG, 51.0% FG, 6-foot-9, BYU [MULTIPLE SOURCES]\n- Darryn Peterson expected No. 2 to Utah Jazz [CBS Sports mock draft]\n- Cameron Boozer projected No. 3 [CBS Sports]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
