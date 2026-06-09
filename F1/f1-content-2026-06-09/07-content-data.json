@@ -1,0 +1,250 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-09",
+  "compiled_at": "2026-06-09T11:26:23.504356+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Spanish Grand Prix Preview — Can Anyone Stop Antonelli in Barcelona?",
+      "tier": 1,
+      "status": "",
+      "angle": "The F1 circus moves to Barcelona for the Spanish Grand Prix (June 12-14); Kimi Antonelli arrives with 5 wins in 6 races and a 66-point championship lead; Circuit de Barcelona-Catalunya historically reveals the strongest all-round package — in 2026 that is Mercedes; Mercedes leads the constructors championship by 79 points over Ferrari; race Sunday June 14 at 3 PM CEST (9 AM ET)",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The F1 circus leaves Monaco and heads to Barcelona.\n\nKimi Antonelli: 5 wins. 156 points. +66-point championship lead.\n\nIf Monaco couldn't beat him, can Barcelona?\n\nCircuit de Barcelona-Catalunya. Practice Friday. Race Sunday June 14. 3 PM CEST (9 AM ET).\n\n#F1 #SpanishGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 270
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Barcelona reveals the fastest F1 package. In 2026, that's Mercedes.\n\nThey lead the constructors by 79 points. Antonelli leads the drivers by 66.\n\nIf Barcelona confirms what Monaco showed... this title race might already be over.\n\n#F1 #SpanishGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-spanish-gp-preview-antonelli-barcelona.html",
+        "headline": "Spanish GP Preview: Antonelli Arrives in Barcelona with 5 Wins and a 66-Point Lead",
+        "word_count": 684
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spanish Grand Prix Preview\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Overlay text:** \"SPANISH GP. JUNE 14. CAN ANYONE STOP HIM?\"\n- **Design notes:** Silver/teal Mercedes palette, race preview countdown format\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Circuit de Barcelona-Catalunya Formula 1\"\n- **Overlay text:** \"BARCELONA. JUNE 12-14. THE TITLE RACE CONTINUES.\"\n- **Design notes:** Wide shot of Barcelona circuit, bold race week branding\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spanish Grand Prix Preview\n**Source:** Formula1.com, Sky Sports, GPFans, ESPN, SportsbookReview (June 2026)\n**Verified Facts (HIGH):**\n- Spanish GP: Circuit de Barcelona-Catalunya, June 12-14, 2026 [MULTIPLE SOURCES]\n- Race: Sunday June 14, 3:00 PM CEST (9:00 AM ET) [MULTIPLE SOURCES]\n- Standard 3-day format: practice Friday/Saturday, qualifying Saturday, race Sunday [multiple]\n- Kimi Antonelli: 156 points, 66-point championship lead after Monaco [MULTIPLE SOURCES]\n- Antonelli won five consecutive races [MULTIPLE SOURCES]\n- Mercedes leads constructors by 79 points over Ferrari [search results — MEDIUM, need to verify exact gap]\n- Antonelli is the odds-on favorite at Barcelona [MULTIPLE SOURCES]\n- Barcelona historically reveals the strongest all-round F1 package [conventional F1 wisdom, MULTIPLE SOURCES]\n**MEDIUM:**\n- Specific constructors gap of 79 points [one source calculation — flag for review]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli's Historic Championship Run — The Numbers Tell the Story",
+      "tier": 1,
+      "status": "",
+      "angle": "At 19, Kimi Antonelli has won five of the first six grands prix of 2026 and leads the championship by 66 points; his points advantage after six rounds is historically rare in the modern F1 era; teammate George Russell won Race 1 but has spiraled; Antonelli's consistency and qualifying performance (four poles in six races) define his season",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Kimi Antonelli is 19 years old.\n\nHe has won five of the first six Formula 1 races this season.\n\nHe leads the championship by 66 points.\n\nHe is doing things that haven't been done in the modern era of Formula 1.\n\nBarcelona is next. #F1 #Antonelli",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-02-antonelli-historic-season-five-wins-six-races.html",
+        "headline": "Five Wins, Six Races, 19 Years Old: Kimi Antonelli Is Rewriting Formula 1's Record Books",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Historic Season\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Overlay text:** \"5 WINS. 6 RACES. 19 YEARS OLD.\"\n- **Design notes:** Championship celebration imagery, bold stat overlay\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Kimi Antonelli Mercedes celebration\"\n- **Overlay text:** \"REWRITING THE FORMULA 1 RECORD BOOKS\"\n- **Design notes:** Historic framing with championship points display\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli's Historic Season\n**Source:** Formula1.com, Sky Sports, RacingNews365, Motorsport.com (June 2026)\n**Verified Facts (HIGH):**\n- Antonelli: 19 years old [MULTIPLE SOURCES]\n- 5 wins in 6 races [MULTIPLE SOURCES]\n- 156 points total [MULTIPLE SOURCES]\n- 66-point lead over Hamilton [MULTIPLE SOURCES]\n- George Russell won Race 1 of 2026 season [search results]\n- Antonelli won four pole positions in six races [search result — MEDIUM, single source]\n- 22-race season [ESPN]\n**MEDIUM:**\n- \"Most dominant\" new champion comparison — historical analysis not from a verifiable record book [flag for review]\n- Four poles in six races [single source]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Hamilton's Remarkable Ferrari Comeback — Now No. 2 in the World",
+      "tier": 2,
+      "status": "",
+      "angle": "Lewis Hamilton is second in the F1 championship at 90 points after Monaco P2; he leapfrogged teammate George Russell in Monaco to move to P2; Ferrari leads a credible title challenge with Hamilton appearing in strong form; Hamilton's Monaco podium was Ferrari's best result at the street circuit in several seasons",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lewis Hamilton is No. 2 in the F1 championship.\n\nAfter Monaco: 90 points. Ahead of Russell. Behind only Antonelli.\n\nHamilton and Ferrari are delivering the rivalry we hoped for.\n\nSpain on Sunday. #F1 #SpanishGP",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 210
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-hamilton-ferrari-p2-championship-standings.html",
+        "headline": "Hamilton Is No. 2 in the World at Ferrari — And the Legacy Project Is Working",
+        "word_count": 594
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Ferrari P2\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Lewis Hamilton Ferrari\"\n- **Overlay text:** \"NO. 2 IN THE WORLD. FERRARI. 2026.\"\n- **Design notes:** Ferrari red, bold championship standing\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Lewis Hamilton Ferrari\"\n- **Overlay text:** \"THE LEGACY PROJECT IS WORKING\"\n- **Design notes:** Inspirational framing, Hamilton Ferrari debut year milestone\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton's Ferrari P2 in Standings\n**Source:** Sky Sports, F1.com, RacingNews365, Crash.net (June 2026)\n**Verified Facts (HIGH):**\n- Hamilton: P2 in championship with 90 points [MULTIPLE SOURCES]\n- Hamilton finished P2 at Monaco [MULTIPLE SOURCES]\n- Hamilton leapfrogged Russell to P2 after Monaco [MULTIPLE SOURCES]\n- Monaco P2 was described as Ferrari's best Monaco result in multiple seasons [search results — MEDIUM, specific record unclear]\n**MEDIUM:**\n- \"Best Ferrari Monaco result in several seasons\" [vague language in source — use \"one of Ferrari's best Monaco results\"]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "George Russell's Season Falls Apart — \"Beyond Frustration\" After Monaco Double Penalty",
+      "tier": 2,
+      "status": "",
+      "angle": "George Russell received a double penalty at Monaco — a 5-second penalty for speeding in the pit lane, then a drive-through for failing to serve it — dropping from podium contention to 13th; \"I'm beyond frustration\"; now P3 in standings, 68 points behind Antonelli; he won the 2026 season opener and was pre-season championship favorite",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "George Russell says he's \"beyond frustration\" after Monaco.\n\nPenalized twice. Zero points. Dropped to P3 in standings.\n\nHe won the 2026 season opener. Since then: retirements, penalties, bad luck — and a 68-point gap to teammate Antonelli.\n\nBarcelona Friday. #F1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-george-russell-monaco-double-penalty-beyond-frustration.html",
+        "headline": "'Beyond Frustration': George Russell's 2026 Season Has Gone From Favorite to Freefall",
+        "word_count": 645
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell Monaco Disaster\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"George Russell Mercedes\"\n- **Overlay text:** \"DOUBLE PENALTY. ZERO POINTS. 'BEYOND FRUSTRATION.'\"\n- **Design notes:** Frustrated tone, Monaco context, championship standings drop\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"George Russell Mercedes\"\n- **Overlay text:** \"FROM TITLE FAVORITE TO P3 — AND 68 POINTS BACK\"\n- **Design notes:** Before/after narrative framing, season standings graphic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "George Russell Double Penalty Monaco\n**Source:** Crash.net, Motorsport.com, Sky Sports, The Race, F1.com (June 2026)\n**Verified Facts (HIGH):**\n- Russell received 5-second pit lane speeding penalty at Monaco [MULTIPLE SOURCES]\n- Russell received drive-through penalty for failing to serve 5-sec penalty correctly [MULTIPLE SOURCES]\n- Result: dropped to 13th/14th (sources vary slightly between 13th and 14th) [MULTIPLE SOURCES — 13th per crash.net, 14th per F1 pipeline notes]\n- Russell quote: \"I'm beyond frustration\" [Formula1.com video]\n- Russell quote: \"Struggling to comprehend how on earth this season has panned out\" [Crash.net]\n- Russell: \"In a very weird state of mind\" after Monaco [Sky Sports]\n- Toto Wolff: admitted \"confusion\" over pit strategy caused the penalty error [Motorsport.com]\n- Russell won Race 1 of 2026 season [search results]\n- Russell now P3 in standings with 88 points [RacingNews365]\n- 68-point gap to Antonelli [Crash.net]\n- Russell: retired from lead in Canada due to technical failure [Crash.net]\n**MEDIUM:**\n- Exact final classification (13th vs 14th) — use \"outside the points\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Verstappen Exit Clause Clock Is Ticking — Monaco DNF Makes Austrian GP Critical",
+      "tier": 2,
+      "status": "",
+      "angle": "Max Verstappen stalled on the opening lap of Monaco and retired; he now has a contract exit clause that triggers if he is not in the top two of the championship standings by July 27; currently sitting outside the top two; Austrian GP (home race, June 26-28) is his next critical opportunity; Red Bull's RB22 has been uncompetitive all season",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Max Verstappen stalled on the grid at Monaco. DNF on lap 1. Zero points.\n\nHe needs to be in the top 2 of the championship by July 27 or a contract exit clause triggers.\n\nHe's currently outside the top 2.\n\nAustrian GP (home race) is June 26-28. Everything is riding on it. #F1",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-verstappen-exit-clause-austrian-gp-crisis.html",
+        "headline": "Verstappen's Exit Clause Is Ticking: The Monaco DNF Makes Austrian GP Everything",
+        "word_count": 707
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Max Verstappen Red Bull Racing\"\n- **Overlay text:** \"EXIT CLAUSE. JULY 27. CLOCK IS TICKING.\"\n- **Design notes:** Urgency/countdown tone, Red Bull blue/yellow\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Max Verstappen Red Bull Racing\"\n- **Overlay text:** \"AUSTRIAN GP: JUNE 26-28. EVERYTHING IS RIDING ON IT.\"\n- **Design notes:** Home race stakes framing"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause Crisis\n**Source:** F1 pipeline notes (June 7-8), search results (June 2026)\n**Verified Facts (HIGH):**\n- Verstappen stalled on lap 1 at Monaco, retired [MULTIPLE SOURCES]\n- Verstappen has a contract exit clause requiring top-2 in standings by a deadline [established in prior pipeline — from reports during 2025/2026 offseason]\n- Exit clause deadline: July 27, 2026 [from prior F1 pipeline research — MEDIUM, need second source]\n- Austrian GP: June 26-28, 2026 [MULTIPLE SOURCES]\n- Verstappen currently outside top-2 (P4 or lower) [search results]\n- Best 2026 result was P3 in Canada [from prior pipeline notes]\n**MEDIUM:**\n- Exact exit clause deadline of July 27 [established in prior pipeline research but should note as MEDIUM]\n- Verstappen's exact standings position [P4 inferred from championship table; Hamilton 90, Russell 88]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

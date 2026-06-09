@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-09
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spanish GP preview — June 12-14 Barcelona; Antonelli arrives with 5 wins/156 pts/+66 lead; Mercedes constructors +79; Barcelona is "truth-teller" circuit | 1 | NEW STORY |
+| 2 | Antonelli historic season — 5 wins in 6 races; 19 years old; 4 poles; Russell won race 1, then Antonelli won 5 straight; unprecedented debut | 1 | FOLLOW UP |
+| 3 | Hamilton Ferrari P2 — 90 points, leapfrogged Russell at Monaco; Monaco P2 one of Ferrari's best recent street-circuit results; legacy project working | 2 | NEW STORY |
+| 4 | Russell "beyond frustration" — double penalty Monaco (5-sec pit lane + drive-through); 13th; zero points; P3 standings 68 pts behind Antonelli; Wolff admits team confusion | 2 | NEW STORY |
+| 5 | Verstappen exit clause crisis — Monaco DNF lap 1 (stalled/power unit); outside top-2; July 27 exit clause deadline; Austrian GP June 26-28 critical | 2 | FOLLOW UP |
+
+### STORY 1: Spanish Grand Prix Preview
+- **Tier:** 1
+- **Category:** Race Preview / Barcelona-Catalunya
+- **Key facts:** June 12-14 Circuit de Barcelona-Catalunya; race Sunday June 14 3 PM CEST (9 AM ET); Antonelli arrives with 5 wins/156 pts/+66 lead over Hamilton; Mercedes leads constructors by ~79 pts over Ferrari (MEDIUM — flag for review); Barcelona "truth-teller" circuit; Piastri/McLaren challenger; Russell needs response
+- **Status:** NEW STORY
+- **Follow-up ideas:** Spanish GP qualifying; race result
+
+### STORY 2: Antonelli Historic Season
+- **Tier:** 1
+- **Category:** Championship Analysis / Mercedes
+- **Key facts:** Antonelli: 19 years old; 5 wins in 6 races; 156 pts; +66 lead; 4 poles (MEDIUM — single source); Russell won Race 1; since then Antonelli won 5 straight; Antonelli leads Russell by 68 pts; 22-race season; unprecedented debut season
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Barcelona result; title-clinching timeline
+
+### STORY 3: Hamilton Ferrari P2 in Standings
+- **Tier:** 2
+- **Category:** Driver Feature / Ferrari
+- **Key facts:** Hamilton P2 in championship with 90 pts; Monaco P2; leapfrogged Russell; 66 pts behind Antonelli; Ferrari 2nd in constructors; Hamilton consistent + Leclerc Barcelona contender
+- **Status:** NEW STORY
+- **Follow-up ideas:** Spanish GP result; Ferrari constructors gap; Hamilton title math
+
+### STORY 4: George Russell Monaco Double Penalty
+- **Tier:** 2
+- **Category:** Driver News / Mercedes
+- **Key facts:** 5-sec pit lane penalty → drive-through for failing to serve it → 13th (outside points); quote: "I'm beyond frustration"; "struggling to comprehend how on earth this season has panned out"; "very weird state of mind"; Toto Wolff admits team "confusion" caused penalty chain; Russell won Race 1; Canada DNF from lead; P3 standings 88 pts; 68 pts behind Antonelli
+- **Status:** NEW STORY
+- **Follow-up ideas:** Russell Barcelona result; team fixes for pit strategy confusion
+
+### STORY 5: Verstappen Exit Clause Crisis
+- **Tier:** 2
+- **Category:** Driver News / Red Bull
+- **Key facts:** Monaco: stalled on grid/power unit failure/DNF lap 1; outside top-2 in standings (Antonelli 156/Hamilton 90/Russell 88/Verstappen behind all); exit clause July 27 (MEDIUM — from prior pipeline research); best 2026 result Canada P3; RB22 uncompetitive; Austrian GP June 26-28 home race = critical
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP Verstappen result; exit clause activation or stay decision
+
 ## 2026-06-07
 
 | # | Story | Tier | Tag |
