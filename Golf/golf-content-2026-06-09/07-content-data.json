@@ -1,0 +1,253 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-09",
+  "compiled_at": "2026-06-09T11:33:39.128231+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "RBC Canadian Open Preview — Fitzpatrick and Fleetwood Lead Without Scheffler or McIlroy",
+      "tier": 1,
+      "status": "",
+      "angle": "The RBC Canadian Open tees off Thursday June 11 at TPC Toronto at Osprey Valley (Hoot Course); Matt Fitzpatrick — chasing his fourth win of 2026 — and Tommy Fleetwood are co-favorites at +1200; Scottie Scheffler and Rory McIlroy both skipping; four world top-10 players in field; week serves as a tune-up for many with US Open at Shinnecock in 9 days",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The RBC Canadian Open tees off Thursday at TPC Toronto.\n\nFitzpatrick and Fleetwood are co-favorites at +1200.\n\nNo Scheffler. No McIlroy. Both taking the week off before the U.S. Open.\n\nTime to find a sleeper. #RBCCanadianOpen #PGATour",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RBCCanadianOpen",
+            "#PGATour"
+          ],
+          "char_count": 234
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Matt Fitzpatrick is chasing his fourth win of 2026.\n\nAfter three victories this season, he heads to TPC Toronto as a co-favorite for the RBC Canadian Open — just 9 days before the U.S. Open at Shinnecock Hills.\n\nCan he carry the form? #RBCCanadianOpen #PGATour",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RBCCanadianOpen",
+            "#PGATour"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-rbc-canadian-open-preview-fitzpatrick-fleetwood.html",
+        "headline": "RBC Canadian Open Preview: Fitzpatrick Chases Fourth Win of 2026 as Scheffler and McIlroy Rest",
+        "word_count": 653
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "RBC Canadian Open Preview\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Matt Fitzpatrick PGA Tour\"\n- **Overlay text:** \"CANADIAN OPEN. THURSDAY. FITZPATRICK EYES WIN NO. 4.\"\n- **Design notes:** Green fairway tone, PGA Tour blue, preview/countdown format\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Tommy Fleetwood PGA Tour\"\n- **Overlay text:** \"RBC CANADIAN OPEN — JUNE 11-14. TPC TORONTO.\"\n- **Design notes:** Tournament week branding, Canada/flag accent\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "RBC Canadian Open Preview\n**Source:** CBS Sports, PGA Tour, Golf Monthly, Lineups.com, GolfMagic (June 2026)\n**Verified Facts (HIGH):**\n- Tournament: RBC Canadian Open, TPC Toronto at Osprey Valley (Hoot Course), Caledon, Ontario, Canada [MULTIPLE SOURCES]\n- Dates: June 11-14, 2026 [MULTIPLE SOURCES]\n- Fitzpatrick and Fleetwood are co-favorites at +1200 [MULTIPLE SOURCES]\n- Matt Fitzpatrick is \"chasing fourth win of 2026\" (so three wins already) [PGA Tour official odds article]\n- Tommy Fleetwood: also T4 at Memorial [confirmed in search results]\n- Sam Burns: +1500 [CBS Sports]\n- Collin Morikawa and Wyndham Clark: +2500 [CBS Sports]\n- Scottie Scheffler and Rory McIlroy not playing; both resting before US Open [MULTIPLE SOURCES]\n- Four world top-10 players in field: Fitzpatrick, Fleetwood, Justin Rose, Collin Morikawa [GolfMagic]\n- US Open is 9 days away (June 18-21) [MULTIPLE SOURCES]\n**MEDIUM:**\n- Sam Burns's specific odds may fluctuate; use \"around +1500\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "U.S. Open Preview — Shinnecock Hills, Scheffler's Grand Slam, and a Birthday Final Round",
+      "tier": 1,
+      "status": "",
+      "angle": "The 126th U.S. Open is 9 days away at Shinnecock Hills (June 18-21); Scottie Scheffler is scouting the course and could become the 7th player in history to complete the career Grand Slam; final round June 21 falls on Scheffler's 30th birthday AND Father's Day; Rory McIlroy arrives as defending Masters champion; Koepka won Shinnecock in 2018 at 1-over",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The U.S. Open at Shinnecock Hills is 9 days away.\n\nScottie Scheffler could become just the 7th player in history to complete the career Grand Slam.\n\nAnd the final round? June 21 — his 30th birthday AND Father's Day.\n\nThe stage is set. #USOpen #Golf",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Golf"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-02-us-open-shinnecock-scheffler-grand-slam-preview.html",
+        "headline": "Nine Days to Shinnecock: Scheffler's Grand Slam Bid and the Perfect U.S. Open Stage",
+        "word_count": 725
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "U.S. Open Preview\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Scottie Scheffler PGA Tour\"\n- **Overlay text:** \"GRAND SLAM WATCH. SHINNECOCK. JUNE 18-21.\"\n- **Design notes:** US Open navy blue/white, Grand Slam milestone framing\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Scottie Scheffler PGA Tour\"\n- **Overlay text:** \"HIS 30TH BIRTHDAY. FATHER'S DAY. HISTORY ON THE LINE.\"\n- **Design notes:** Milestone moment framing, narrative-driven overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "U.S. Open Preview\n**Source:** Wikipedia, ESPN, Golf Digest, Yahoo Sports, Golf Channel (June 2026)\n**Verified Facts (HIGH):**\n- 126th U.S. Open at Shinnecock Hills Golf Club, Southampton, New York [MULTIPLE SOURCES]\n- Dates: June 18-21, 2026 [MULTIPLE SOURCES]\n- Par 70, 7,434 yards [Wikipedia/ESPN]\n- Scheffler is scouting Shinnecock [ESPN]\n- Scheffler could complete career Grand Slam (has Masters x2, PGA Championship, The Open Championship) [ESPN/search results]\n- Only 7 players have ever completed the career Grand Slam [conventional golf knowledge — MEDIUM, exact list not confirmed in search]\n- Final round June 21 = Scheffler's 30th birthday + Father's Day [ESPN]\n- Koepka's winning score at Shinnecock 2018: 1-over par [Wikipedia/ESPN]\n- Last Shinnecock hosting: 2018 [MULTIPLE SOURCES]\n- Rory McIlroy is defending Masters champion [established from prior research]\n- 10,201 entries [prior pipeline research — MEDIUM]\n- Previous Shinnecock winners: Floyd 1986, Pavin 1995, Goosen 2004, Koepka 2018 [prior pipeline]\n**MEDIUM:**\n- \"7th player in history to complete career Grand Slam\" — Scheffler would be 7th; need to verify exact count but sourced from prior pipeline/ESPN\n- Specific prior Shinnecock winners list (before 1986)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Dow Championship — LPGA's Team Event Tees Off Thursday",
+      "tier": 2,
+      "status": "",
+      "angle": "The Dow Championship starts Thursday June 11 at Midland Country Club in Midland, Michigan; 72 two-player teams, $3.3 million purse; stroke-play tournament alternating foursomes (Rounds 1 and 3) and fourballs (Rounds 2 and 4); Jin Hee Im and Somi Lee are defending champions; LPGA Hall of Famer Juli Inkster teams with Angel Yin; Jutanugarn sisters (Ariya and Moriya) in field",
+      "posting_window": "3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The LPGA Tour's only team event starts Thursday.\n\nThe Dow Championship: Midland Country Club, Michigan. 72 two-player teams. $3.3 million purse.\n\nFoursomes. Fourballs. Four rounds. Unlike anything else in women's golf.\n\n#LPGA #DowChampionship",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#DowChampionship"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-dow-championship-lpga-team-event-preview.html",
+        "headline": "Dow Championship Preview: The LPGA Tour's Unique Team Event Returns Thursday",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Dow Championship LPGA\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"LPGA Tour\"\n- **Overlay text:** \"DOW CHAMPIONSHIP. TEAM GOLF. THURSDAY.\"\n- **Design notes:** LPGA Tour branding, team format emphasis\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Nelly Korda LPGA\"\n- **Overlay text:** \"WOMEN'S GOLF HEATS UP — DOW STARTS THURSDAY\"\n- **Design notes:** Fresh off USWO energy, tournament preview tone\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Dow Championship LPGA\n**Source:** LPGA.com, Golf Channel (June 2026)\n**Verified Facts (HIGH):**\n- Dow Championship: Midland Country Club, Midland, Michigan [LPGA.com]\n- Start date: Thursday June 11, 2026 [LPGA.com]\n- 72 two-player teams [LPGA.com]\n- Purse: $3.3 million [LPGA.com]\n- Format: stroke-play; foursomes (Rounds 1 and 3), fourballs (Rounds 2 and 4) [LPGA.com]\n- Defending champions: Jin Hee Im and Somi Lee [LPGA.com]\n- Juli Inkster teams with Angel Yin (Inkster's first 2026 LPGA start) [LPGA.com]\n- Ariya and Moriya Jutanugarn in field (2021 defending champs) [LPGA.com]\n- Twins Aki and Chizzy Iwai in field [LPGA.com]\n**MEDIUM:**\n- Whether Nelly Korda (fresh from USWO win) is playing Dow — not confirmed in search results",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "LIV Golf's Financial Crisis — PIF Withdrawal and Bankruptcy Talks",
+      "tier": 2,
+      "status": "",
+      "angle": "Saudi Arabia's Public Investment Fund withdrew funding from LIV Golf earlier in 2026; the tour is searching for new investors and has reportedly discussed filing for bankruptcy in the U.S.; despite financial uncertainty the tour continues to run 72-hole events; the format was changed from 54 to 72 holes this season to align with global golf; latest event was LIV Andalucia won by Tyrrell Hatton (already covered June 8)",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LIV Golf is in financial crisis.\n\nThe Saudi PIF withdrew its funding. LIV is searching for investors and has reportedly discussed bankruptcy.\n\nYet the tour keeps running events.\n\nWhat does this mean for golf's future? #LIVGolf #Golf",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-liv-golf-financial-crisis-pif-withdrawal-bankruptcy.html",
+        "headline": "LIV Golf Is in Financial Crisis: What the Saudi PIF Withdrawal and Bankruptcy Talks Mean",
+        "word_count": 697
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Financial Crisis\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"LIV Golf\"\n- **Overlay text:** \"LIV GOLF: PIF OUT. BANKRUPTCY TALKS. WHAT'S NEXT?\"\n- **Design notes:** Bold news-style, questioning/crisis tone\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Tyrrell Hatton LIV Golf\"\n- **Overlay text:** \"THE TOUR KEEPS PLAYING. BUT FOR HOW LONG?\"\n- **Design notes:** Uncertainty framing, contrast between on-course action and off-course crisis\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Financial Crisis\n**Source:** Wikipedia 2026 LIV Golf, search results (June 2026)\n**Verified Facts (HIGH):**\n- PIF (Saudi Arabia's Public Investment Fund) withdrew funding from LIV Golf in April 2026 [search results/Wikipedia]\n- LIV Golf searching for new investors [search results]\n- LIV Golf discussed filing for bankruptcy in the U.S. [search results]\n- Tour continues to run events despite financial uncertainty [search results]\n- 2026 format changed from 54 to 72 holes [search results]\n- LIV Andalucia: Tyrrell Hatton won at 11-under/Valderrama/June 4-7 [COVERED June 8 pipeline, MULTIPLE SOURCES]\n**MEDIUM:**\n- Exact timeline of PIF withdrawal and bankruptcy discussions (April 2026 date from search results — single source)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Poston's Memorial Win Earns Him the Biggest Stage — the U.S. Open",
+      "tier": 2,
+      "status": "",
+      "angle": "J.T. Poston's Memorial Tournament victory (his 4th PGA Tour win) earned him a U.S. Open exemption; he completed 33 total holes on Sunday in a rain-delayed marathon, made a 7-foot birdie on 18 to force a playoff, then won on the second extra hole; the Memorial win represents Poston's career-defining moment and the US Open will be his biggest stage yet",
+      "posting_window": "8:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "J.T. Poston survived 33 holes of Sunday action at Muirfield Village to win the Memorial.\n\nThe reward: a U.S. Open exemption to Shinnecock Hills, June 18-21.\n\nFrom 7-foot birdie to playoff to his biggest career win — and now the biggest stage in golf.\n\n#Golf #USOpen #PGATour",
+          "posting_time": "8:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Golf",
+            "#USOpen",
+            "#PGATour"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-poston-memorial-win-us-open-exemption-shinnecock.html",
+        "headline": "33 Holes, a 7-Foot Birdie, and a Playoff: Poston Earned His U.S. Open Spot the Hard Way",
+        "word_count": 700
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Poston Memorial to US Open\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"J.T. Poston PGA Tour\"\n- **Overlay text:** \"33 HOLES. PLAYOFF WINNER. BOUND FOR SHINNECOCK.\"\n- **Design notes:** Champion celebration, journey narrative\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"J.T. Poston PGA Tour\"\n- **Overlay text:** \"FROM MUIRFIELD VILLAGE TO SHINNECOCK HILLS — HIS BIGGEST WEEK YET\"\n- **Design notes:** Two-venue narrative, career milestone framing"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Poston Memorial Follow-Up\n**Source:** CBS Sports, Golf Channel, Yahoo Sports, GolfMonthly (June 2026)\n**Verified Facts (HIGH):**\n- Poston wins Memorial at 12-under, two-hole playoff vs Ryan Gerard [MULTIPLE SOURCES]\n- Poston's 4th PGA Tour win [MULTIPLE SOURCES]\n- US Open exemption earned + next 3 major exemptions [Yahoo Sports]\n- Sunday totals: 13 final holes of Round 3 + full Round 4 (18 holes) + 2 playoff holes = 33 holes total [CBS Sports]\n- 7-foot birdie putt on 18 forced the playoff [CBS Sports]\n- Gerard missed 6-foot par putt on 2nd playoff hole [MULTIPLE SOURCES]\n- Poston 3-foot par putt to win [MULTIPLE SOURCES]\n- Winner's prize: $4 million from $20 million purse [MULTIPLE SOURCES]\n- Clark solo 3rd at 11-under [MULTIPLE SOURCES]\n- Muirfield Village Golf Club, Dublin, Ohio [MULTIPLE SOURCES]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

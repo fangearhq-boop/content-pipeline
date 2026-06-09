@@ -4,6 +4,12 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-06-09 | T1 | RBC Canadian Open preview (June 11-14, TPC Toronto Hoot Course); Fitzpatrick (+1200, chasing 4th 2026 win) + Fleetwood (+1200) co-favorites; no Scheffler/McIlroy; Morikawa/Rose in field; 9 days before US Open | X, FB, Article | NEW STORY |
+| 2026-06-09 | T1 | US Open preview: Shinnecock Hills June 18-21; Scheffler Grand Slam bid (7th player ever); final round June 21 = Scheffler 30th birthday + Father's Day; McIlroy defending Masters champ; Koepka 2018 winner (+1 par); par 70/7,434 yds | X, FB, Article | FOLLOW-UP |
+| 2026-06-09 | T2 | Dow Championship LPGA preview (June 11-14, Midland CC Michigan); 72 teams, $3.3M purse; foursomes + fourballs format; Im/Lee defending; Inkster/Yin; Jutanugarn sisters; Iwai twins | X, FB, Article | NEW STORY |
+| 2026-06-09 | T2 | LIV Golf financial crisis: Saudi PIF withdrew funding April 2026; searching for investors; reported bankruptcy discussions; tour still running 72-hole format events | X, FB, Article | NEW STORY |
+| 2026-06-09 | T2 | Poston Memorial win → US Open: 33 holes Sunday; 7-foot birdie to force playoff; won 2nd hole (Gerard missed 6-foot par putt); $4M; 4th PGA Tour win; US Open exemption + 3 major exemptions | X, FB, Article | FOLLOW-UP |
+|------|------|-------|-----------|-------|
 | 2026-06-07 | T1 | US Women's Open Final Round: Korda + Kim co-lead at -6 heading into Sunday at Riviera; Charley Hull 65 (low round of week) lurking; 17-year-old amateur Asterisk Talley shot 66 (lowest amateur weekend round in USWO history) also in mix | X, FB, Article | FOLLOW-UP |
 | 2026-06-07 | T1 | Memorial Tournament Long Sunday: R3 suspended Saturday 4:35 PM ET (thunderstorms), resumes 7:30 AM Sunday; Poston + Gerard tied -9 with 13 holes left in R3; R4 starts 11 AM; marathon Sunday at Muirfield Village | X, FB, Article | FOLLOW-UP |
 | 2026-06-07 | T2 | Asterisk Talley — 17-year-old amateur from Fresno CA shoots 5-under 66 in R3 at Riviera; lowest amateur weekend round in U.S. Women's Open history | X, FB, Article | NEW STORY |

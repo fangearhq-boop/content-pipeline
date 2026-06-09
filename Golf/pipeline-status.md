@@ -1,8 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-08
+- **Date**: 2026-06-09
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-06-09
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-06-09.xlsx (6 posts) + gfr-postplanner-tobi-2026-06-09.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-09/review-dashboard.html (21 items)
+- **Notes:** RBC Canadian Open preview June 11-14 TPC Toronto (Fitzpatrick/Fleetwood +1200, no Scheffler/McIlroy); US Open Shinnecock preview June 18-21/Scheffler Grand Slam bid/30th birthday + Father's Day June 21; Dow Championship LPGA June 11-14/72 teams/$3.3M; LIV Golf financial crisis (PIF out, bankruptcy talks, 72-hole format); Poston Memorial win earns US Open exemption (33 holes Sunday/playoff win/$4M/4th Tour win)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ## Pipeline Run Log
 
