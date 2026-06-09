@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-09
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (67 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (cherry-pick after detached HEAD resolved). Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). FB posts compile to 0 (known heading format). 0 char violations. Detached HEAD resolved via checkout main + pull --rebase + cherry-pick.
+- **Key Stories**: Isa Torres (FSU) D1 Player of Year + ACC POY enters portal (.530/.978/.591 OBP/78 runs all FSU records, Texas+A&M linked, 1 yr eligibility) (Tier 1 NEW), Portal Day 2 Polar (Purdue AA OF 218H/103RBI) + Rijo (Arkansas SS .342/.7HR/42RBI) join class, Beachum/Edwards/Swan still uncommitted (Tier 1 FOLLOW UP June 8), Texas 3-peat Kavan+Stewart seniors returning/Kayden Henry back/11 portal days (Tier 2 FOLLOW UP June 5), Alabama Murphy rebuilds offense around Briski/7 seniors gone/49-7 squad (Tier 2 FOLLOW UP June 8), Oklahoma first WCWS miss since 2015/Wells 39HR gone/Gasso 8 titles reloads (Tier 3 NEW)
+
+## Previous Run
 - **Date**: 2026-06-08
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (50 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (cherry-pick after detached HEAD resolved). Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/

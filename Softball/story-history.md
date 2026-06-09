@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 9, 2026
+
+### Story 1: Isa Torres Enters the Portal — D1 Player of the Year on the Move
+- **Date:** 2026-06-09
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** 2026 D1 Softball Player of the Year and ACC POY Isa Torres entered portal from FSU. Historic .530 BA/.978 SLG/.591 OBP/78 runs — all FSU records. Georgetown, TX native linked to Texas and Texas A&M. One year eligibility remaining.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Torres commitment announcement
+  - Impact on 2027 national championship landscape
+  - Texas/A&M portal recruitment race
+
+### Story 2: Portal Day 2 Tracker — Polar and Rijo Join the Class
+- **Date:** 2026-06-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 8, 2026)
+- **Angle:** Moriah Polar (Purdue OF, All-American, 218 career H/103 RBI/137 runs, 1 yr eligibility) and Atalyia Rijo (Arkansas SS, .342 BA/7 HR/42 RBI career highs) enter portal. Day 1 headliners Beachum/Edwards/Swan/Torres all still uncommitted. Class is historically deep.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Daily commitment tracker through June 22
+  - Landing spots for Beachum and Edwards
+
+### Story 3: Texas Builds for Three-Peat — Kavan and Stewart Return as Seniors
+- **Date:** 2026-06-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 5, 2026)
+- **Angle:** Teagan Kavan (two-time WCWS MOP) and Katie Stewart (4 WCWS HRs/30 program-record HRs) both confirmed returning as seniors for 2027. Kayden Henry also back. Texas enters portal from position of strength with 11 days remaining to add supporting pieces.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Texas portal additions — who do they target?
+  - Three-peat historical context as season approaches
+
+### Story 4: Alabama Portal Tracker — Murphy Rebuilds Around Briski
+- **Date:** 2026-06-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 8, 2026)
+- **Angle:** Seven seniors graduated from 49-7 Alabama squad (Duchscherer, Giles, Johnson, Pate, Preuitt, Pupillo, White). Briski confirmed returning as pitching anchor. Murphy targets offensive additions through portal in first major portal window as Alabama head coach.
+- **Content Produced:** X (1 post), FB (long-form), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Alabama portal commitments this cycle
+  - Full 2027 Alabama roster assessment
+
+### Story 5: Oklahoma Reload — Gasso's Most Important Offseason
+- **Date:** 2026-06-09
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Oklahoma missed WCWS for first time since 2015 after SR loss to Mississippi State. Kendall Wells (39 HRs, one shy of Grant's record) and other contributors departed. Gasso (8 national titles) enters portal window to reload. Historical precedent: OU returned to WCWS every year after last 2015 miss.
+- **Content Produced:** X (1 post), FB (long-form), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - OU portal commitments
+  - 2027 power ranking update when OU class takes shape
+
+---
+
 ## June 8, 2026
 
 ### Story 1: Transfer Portal Day 1 — The Flood Is Real
