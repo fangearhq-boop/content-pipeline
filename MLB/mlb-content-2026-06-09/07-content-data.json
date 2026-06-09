@@ -1,0 +1,342 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-09",
+  "compiled_at": "2026-06-09T10:29:28.213879+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "8:00 AM",
+      "description": "Story 2",
+      "type": "FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "X"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 3",
+      "type": "FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 2",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 4",
+      "type": "X"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 4",
+      "type": "FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5",
+      "type": "X"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 5",
+      "type": "FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 1",
+      "type": "X"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 1",
+      "type": "FB"
+    },
+    {
+      "time": "10:00 PM",
+      "description": "Story 2",
+      "type": "FB"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Skubal Targeting June 12 Return at Cleveland — The Ace Is Almost Back",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tarik Skubal is targeting a June 12 return at Cleveland — just five days from now.\n\nAfter a dominant rehab start (5 IP, 0 ER, 6 K, 54 pitches), the Tigers' ace is almost back.\n\nThe two-time Cy Young winner could start as soon as Friday. #Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 1-2",
+          "text": "If Skubal is back June 12 and pitching well, every MLB contender shifts its trade deadline strategy.\n\nHe's a two-time Cy Young. Free agent after 2026. Tigers are 6-21 without him.\n\nESPN's Jeff Passan says the market is already loaded. #Tigers #MLB #TradeDeadline",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB",
+            "#TradeDeadline"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-skubal-targeting-june-12-return-tigers.html",
+        "headline": "Tarik Skubal Is Targeting June 12 at Cleveland — The Tigers' Ace Is Almost Back",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Targeting June 12\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- Concept: Tarik Skubal in pitching motion or warmup — representing the ace's imminent return\n- imagn_search: \"Tarik Skubal Detroit\"\n- Canva overlay text: \"HE'S BACK — JUNE 12\"\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- Concept: Skubal pitching for Detroit Tigers — wide shot showing stadium atmosphere\n- imagn_search: \"Tarik Skubal Detroit\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Targeting June 12 Return\n**Sources:**\n- Detroit News: \"Tarik Skubal provides update on when he'll return to Tigers rotation\" (June 8, 2026)\n- Yardbarker: \"Tarik Skubal Return Timeline: Tigers Star Drops Realistic Response After Surgery\"\n- Total Pro Sports: \"Tarik Skubal Reveals Realistic Return Timeline After Surgery\"\n- MLB.com: \"Tarik Skubal makes rehab start at High-A West Michigan\"\n- Detroit Sports Nation: \"June Return in Play After Tarik Skubal Elbow Surgery\"\n- ESPN: Passan's trade deadline intel piece (all 30 teams)\n**Verified Facts (HIGH confidence — multiple sources):**\n- Skubal had arthroscopic left elbow surgery May 6, 2026\n- Rehab start June 7 (High-A West Michigan): 5 IP, 0 ER, 2H, 6K, 0BB, 54 pitches (44 strikes)\n- Detroit News reports June 12 at Cleveland as the target return date\n- Manager A.J. Hinch considering one more rehab start vs. direct activation\n- Skubal won Cy Young in back-to-back seasons (two-time winner)\n- Tigers record in his starts vs. without him in 2026: 6-21 without him\n- Skubal is a free agent after the 2026 season\n**Freshness:** Rehab start June 7, return target reported June 8. Follow-up story with June 12 target confirmed.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Giants 2, Cubs 1 (10 Innings) — Sunday Night Baseball Recap",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Matt Chapman's 10th-inning RBI single lifted the Giants over the Cubs 2-1 on Sunday Night Baseball.\n\nSan Francisco won their fourth game in five — strong pitching held Chicago all night.\n\nThe NL Central landscape shifts. #MLB #Giants #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Giants",
+            "#Cubs"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Chicago struggled on Sunday Night Baseball — 2-1 loss to San Francisco in extras.\n\nThe Cubs are still in the postseason mix but can't afford to give ground in June.\n\nBraves 45-21. The NL keeps moving. #MLB #Cubs",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#Cubs"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-giants-cubs-sunday-night-baseball-chapman-2026.html",
+        "headline": "Matt Chapman's 10th-Inning Single Lifts Giants Over Cubs 2-1 in Sunday Night Baseball",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giants 2, Cubs 1 — Sunday Night Baseball\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- Concept: Matt Chapman at bat or fielding for Giants — representing the walk-off hero\n- imagn_search: \"Matt Chapman San Francisco\"\n- Canva overlay text: \"SNB WALK-OFF: GIANTS 2, CUBS 1\"\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- Concept: Giants-Cubs game atmosphere or Chapman bat celebration\n- imagn_search: \"San Francisco Giants\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giants 2, Cubs 1 (SNB, June 7-8, 2026)\n**Sources:**\n- ESPN: \"Giants 2-1 Cubs (Jun 7, 2026) Final Score\"\n- NBC Sports: \"MLB 2026 Highlights: San Francisco Giants 2, Chicago Cubs 1\"\n- CBS Sports: Giants vs. Chicago Cubs Box Score, June 6, 2026 Gametracker\n- YouTube: \"San Francisco Giants vs. Chicago Cubs | SUNDAY NIGHT BASEBALL HIGHLIGHTS | MLB on NBC | 6/7/26\"\n- Multiple search confirmations of 2-1 Giants win\n**Verified Facts (HIGH confidence — multiple sources):**\n- Final score: Giants 2, Cubs 1 (10 innings) — Sunday Night Baseball, June 7, 2026\n- Matt Chapman drove in automatic runner Jonah Cox with RBI single in 10th inning\n- San Francisco won 4th game in last 5\n- Strong pitching held Chicago offense all game\n- Giants scored game winner via automatic runner rule in extras\n**Note:** Game was played Sunday June 7 (aired on NBC Sunday Night Baseball), recapped Monday June 9 as our overnight/morning content.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Schwarber Paces the MLB Home Run Race Alone",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kyle Schwarber leads MLB in home runs — alone now that Judge and Murakami are on the IL.\n\nHe hit No. 20 on May 15, the earliest that milestone has ever been reached in MLB history.\n\nOn pace for 65+ HRs. The 60-HR club: Bonds, McGwire, Sosa. That's it. #Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-schwarber-hr-race-pace-2026.html",
+        "headline": "Schwarber Paces the HR Race Alone: On Pace for 65+ with Judge and Murakami on the IL",
+        "word_count": 534
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber HR Race\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- Concept: Kyle Schwarber home run swing — power stance, follow-through\n- imagn_search: \"Kyle Schwarber Philadelphia\"\n- Canva overlay text: \"MLB HR LEADER — ALONE AT THE TOP\"\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- Concept: Schwarber celebrating at the plate or in the dugout — emotion and production\n- imagn_search: \"Kyle Schwarber Philadelphia\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber HR Race\n**Sources:**\n- ESPN: \"MLB 2026: Will Phillies' Kyle Schwarber join 60 home run club?\"\n- Heavy.com: \"Kyle Schwarber's Home Run Pace Rivals Barry Bonds\"\n- ClutchPoints: \"Kyle Schwarber joins elite Phillies club with 20th home run of 2026\"\n- Fox News/OutKick: \"Philadelphia Phillies slugger Kyle Schwarber is already on track to challenge Barry Bonds, Mark McGwire\"\n- SI/Phillies: \"Kyle Schwarber Still On Franchise Record Home Run Pace\"\n**Verified Facts (HIGH confidence — multiple sources):**\n- Schwarber hit his 20th HR on May 15 — the earliest date in MLB history\n- On pace for 65-70 HRs based on current trajectory\n- Aaron Judge on IL (rib stress fracture)\n- Roki Murakami on IL (hamstring)\n- Schwarber is sole MLB HR leader\n- 60-HR club members: Barry Bonds (73, 2001), Mark McGwire (70, 1998; 65, 1999), Sammy Sosa (66, 1998; 64, 2001; 63, 1999)\n- Last NL player to hit 60+ HRs: Sosa (64) in 2001\n**Confidence:** HIGH on all core facts from multiple sources.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Yankees Navigating Judge's Absence — Jones Recalled, Rice Contributing",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Aaron Judge is out 4-6 weeks with a rib stress fracture.\n\nSpencer Jones was recalled from Triple-A to fill the void. Ben Rice is still raking.\n\nThe Yankees are 37-26 — holding pace with the Rays in the AL East without their MVP. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-yankees-judge-absence-jones-rice-2026.html",
+        "headline": "Yankees Adapting Without Judge: Spencer Jones Recalled, Ben Rice Producing as New York Holds Pace",
+        "word_count": 539
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yankees Without Judge\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- Concept: Aaron Judge batting or Spencer Jones in right field — the transition\n- imagn_search: \"Aaron Judge New York\"\n- Canva overlay text: \"JUDGE OUT 4-6 WEEKS\"\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- Concept: Yankees team or stadium — resilience theme\n- imagn_search: \"New York Yankees\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Yankees Without Judge — Jones and Rice\n**Sources:**\n- US News: \"Yankees Put Aaron Judge on Injured List With Rib Stress Fracture, Recall Spencer Jones From Triple-A\"\n- Washington Post: \"Yankees put Aaron Judge on injured list with rib stress fracture, recall Spencer Jones from Triple-A\"\n- SI/OnSI: \"Aaron Judge Injury Update: Can Spencer Jones Fill The Void For The Yankees?\"\n- Yahoo Sports: \"Aaron Judge Injury Update: Can Spencer Jones Fill The Void For The Yankees?\"\n- Athlon Sports: \"Yankees Recall Spencer Jones Amid Aaron Judge Injury Update\"\n- Yardbarker: \"Yankees to recall Spencer Jones after Aaron Judge injury\"\n- ESPN: \"Time to panic in the Bronx? What Aaron Judge's injury means for Yankees, the AL East and the trade deadline\"\n**Verified Facts (HIGH confidence — multiple sources):**\n- Aaron Judge placed on IL with rib stress fracture (stress fracture in upper right rib)\n- Injury timeline: 4-6 weeks before reevaluation\n- Spencer Jones (25) recalled from Triple-A Scranton/Wilkes-Barre\n- Jones limited MLB track record: .167/.259/.167 slashline in prior call-up\n- Ben Rice has been contributing for the Yankees\n- Yankees record: 37-26 (one game behind Rays 37-25 in AL East)\n- Judge return estimated: late July, around the August 3 trade deadline\n**Note:** Judge injury was June 5 announcement; June 9 is follow-up on how Yankees are managing.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "The Braves Are Pulling Away — Baseball's Best Team at 45-21",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Atlanta Braves own baseball's best record at 45-21 — with a 9.5-game lead in the NL East.\n\nChris Sale leads an elite rotation. Run differential: +109.\n\nWhile the NL West stays crowded, Atlanta is quietly pulling away. #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-braves-best-record-baseball-2026.html",
+        "headline": "The Braves Are Baseball's Best Team: 45-21, +109 Run Differential, and a Case Built to Last",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves Best Team\n\n**Social Image (1080x1350 — 4:5 vertical)**\n- Concept: Chris Sale pitching or Braves team celebration — best in baseball\n- imagn_search: \"Chris Sale Atlanta\"\n- Canva overlay text: \"BEST RECORD IN BASEBALL: 45-21\"\n\n**Article Hero (1200x630 — 1.91:1 landscape)**\n- Concept: Braves at Truist Park or team photo — dominance theme\n- imagn_search: \"Atlanta Braves\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Braves MLB Best Record\n**Sources:**\n- Fox Sports: \"Atlanta Braves Have Best Record In MLB: Their Historic Start By The Numbers\"\n- FanSided: \"Why MLB's best team, the Atlanta Braves, needs to be taken with a grain of salt\"\n- Multiple MLB standings sources confirming 45-21 record\n**Verified Facts (HIGH confidence):**\n- Braves record: 45-21 as of early June 2026\n- NL East lead: ~9.5 games over the Phillies\n- Chris Sale leading the rotation\n- Run differential: +109\n- Road record: 23-10\n- Braves are the No. 1 ESPN power ranking team\n**Confidence:** HIGH on record and lead. MEDIUM on exact run differential figure (+109 from one source).",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

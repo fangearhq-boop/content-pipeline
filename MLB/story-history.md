@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-09
+
+### Story 1: Skubal Targeting June 12 Return at Cleveland
+- **Date:** 2026-06-09
+- **Tier:** 1
+- **Classification:** FOLLOW UP (2026-06-08)
+- **Angle:** Tigers targeting June 12 vs. Cleveland as Skubal's return date after dominant June 7 rehab start (5 IP, 0 ER, 2 H, 6 K, 0 BB, 44/54 strikes, 16 swings-and-misses). Initial projection was 2-3 months. Tigers 6-21 without him. Trade deadline interest from Dodgers, Yankees, Brewers, Braves. Free agent after season. June 12 is the starting gun for the biggest deadline storyline.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Official Tigers activation announcement
+  - First start performance vs. Cleveland
+  - Trade deadline negotiations
+
+### Story 2: Giants 2, Cubs 1 (10 Innings) — Sunday Night Baseball
+- **Date:** 2026-06-09
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Matt Chapman 10th-inning RBI single scored automatic runner Jonah Cox. Giants win 4th in last 5. Cubs fall further in NL Wild Card picture. Braves 45-21 with 9.5-game NL East lead — rest of NL competing for 5 spots. Strong pitching from both sides (1-1 through 9). Chapman steady presence in SF lineup.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Giants next stretch vs. NL Wild Card rivals
+  - Cubs response in next series
+
+### Story 3: Schwarber Paces MLB Home Run Race Alone — On Pace for 65+
+- **Date:** 2026-06-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2026-06-08)
+- **Angle:** Judge (rib stress fracture, IL) and Murakami (hamstring, IL) both sidelined. Schwarber leads MLB HRs alone. Hit No. 20 on May 15 (earliest date in MLB history — Bonds hit No. 20 on May 19). Pace: 65-70 HRs. 60-HR club: only Bonds (73, 2001), McGwire (70/65), Sosa (66/64/63). No one since 2001.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Milestone tracking: 25, 30, 40 HRs
+  - Race restarts when Judge/Murakami return (estimated late July)
+
+### Story 4: Yankees Navigating Judge's Absence — Jones Recalled, Rice Producing
+- **Date:** 2026-06-09
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2026-06-08)
+- **Angle:** Judge on IL (rib stress fracture, June 5). Spencer Jones recalled from Triple-A Scranton. Prior MLB line: .167/.259/.167. Ben Rice stabilizing presence in lineup. Yankees 37-26, one game behind Rays (37-25). Judge expected return early-to-mid July. Trade deadline posture depends on health update.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Jones daily performance tracking
+  - Judge 4-week reevaluation (early July)
+  - Yankees trade deadline posture
+
+### Story 5: Braves Own Baseball's Best Record at 45-21
+- **Date:** 2026-06-09
+- **Tier:** 3
+- **Classification:** FOLLOW UP (2026-06-07)
+- **Angle:** Braves 45-21 (best in baseball), 9.5-game NL East lead over Phillies, +109 run differential, 23-10 road record. Chris Sale anchoring rotation. Rest of NL competing for 5 playoff spots below Atlanta. Trade deadline: Braves in position of strength, not desperate buyers.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - NL East lead tracking
+  - All-Star Game roster selections reflecting Braves depth
+  - Trade deadline posture from position of strength
+
+---
+
 ## 2026-06-08
 
 ### Story 1: Skubal Dominant Rehab Start — Return June 14

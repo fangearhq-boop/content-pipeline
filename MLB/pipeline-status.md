@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-09
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (44 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). FB posts compile to 0 (known heading format). 0 char violations.
+- **Key Stories**: Skubal targeting June 12 return at Cleveland/dominant rehab start June 7 5IP 0ER 6K 0BB/Tigers 6-21 without him/every contender watching at trade deadline (Tier 1), Giants 2 Cubs 1 (10 inn)/Chapman walk-off RBI single in extras/Jonah Cox automatic runner/Giants 4-in-last-5/Braves 45-21 dominates NL East (Tier 1), Schwarber alone in HR lead/Judge+Murakami both on IL/on pace 65-70 HRs/May 15 earliest 20-HR date in MLB history (Tier 2), Yankees managing Judge absence/Spencer Jones recalled/Ben Rice stabilizing presence/Yankees 37-26 one game behind Rays (Tier 2), Braves 45-21 best record in baseball/9.5-game NL East lead/+109 run differential/23-10 road record/Chris Sale anchoring (Tier 3)
+
+## Previous Run
 - **Date**: 2026-06-08
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (48 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py. Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
