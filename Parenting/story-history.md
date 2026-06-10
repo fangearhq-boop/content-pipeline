@@ -2,6 +2,45 @@
 
 ---
 
+## June 10, 2026
+
+### Story 1: D49 Budget Vote Is Tomorrow — June 11
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP — D49 budget vote June 11 covered June 8 (preview). Today's angle: vote is TOMORROW, last-chance reminder, full context of what's at stake. D49 Board votes June 11 at 6:30 PM at Sand Creek High School on 2026-27 budget. Fiscal exigency declared Jan 2026, $2M in cuts approved Feb 2026 (4-1 vote). Programs impacted: Base49, PEAK, preschool, Elevates 18-21. Enrollment decline driving gap. Budget effective July 1.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** June 11, 2026 at 6:30 PM; Sand Creek High School 7005 Carefree Cir N; fiscal exigency Jan 2026; ~$2M in cuts approved Feb 2026 4-1 vote; budget effective July 1; d49.org; Sources: d49.org, koaa.com, gazette.com
+
+### Story 2: Guidecraft Kitchen Helper Tower Recall — 25,235 Units, Fall Hazard
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — CPSC recalled 25,235 Guidecraft Classic and Contemporary Kitchen Helper Towers (May 14, 2026, Recall #26490). Platform can loosen/detach over time — fall hazard. 11 reports, 3 injuries (bloody nose, bruises). Sold June 2022–Oct 2023 at Amazon/Wayfair/Walmart/Target/Guidecraft.com ~$200. Free repair parts from Guidecraft: 800-524-3555, Mon–Fri 8 AM–8 PM ET. Check item + lot number on foil sticker at bottom.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~25,235 units; Classic + Contemporary models 9 colors; June 2022–Oct 2023; $200; Amazon/Wayfair/Walmart/Target/Guidecraft.com; 11 incidents 3 injuries; free repair parts; 800-524-3555; CPSC.gov Recall #26490; Source: CPSC.gov
+
+### Story 3: Free Family Day at Western Museum of Mining & Industry — June 12
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Free Family Day at WMMI on Saturday June 12. Stamp mill demonstrations, live blacksmith, tractor-pulled hayride, Gold Panning Championships. All outdoor activities free. 225 North Gate Blvd, Colorado Springs CO 80921. Phone: 719-488-0880.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** June 12, 2026 (Saturday); outdoor activities free; 225 North Gate Blvd COS 80921; 719-488-0880; wmmi.org; Source: wmmi.org, pikes-peak.com
+
+### Story 4: Father's Day Weekend Guide — June 21
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Father's Day guide for COS families. Key tip: Pikes Peak free for dads June 20 (NOT June 21 — closed for Hill Climb). Also: Colorado Wolf and Wildlife Center June 21 9–11 AM (reservations req); Garden of the Gods always free; Colorado Renaissance Festival June 21 (Sunday show Larkspur); Pikes Peak Hill Climb June 21 as spectator event; Flying W Ranch free hat for dads.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Father's Day June 21, 2026; Pikes Peak free dads June 20; Pikes Peak closed June 21 for Hill Climb; Wolf Center June 21 9–11 AM reservations req; Renaissance Festival June 21 Larkspur; Source: pikes-peak.com, visitcos.com
+
+### Story 5: D11 Orton Academy Moving to Trailblazer Elementary for 2026-27
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Orton Academy (D11 charter, K-8, dyslexia education using Orton-Gillingham method, opened 2020) moving to Trailblazer Elementary campus for 2026-27 school year. Free public school. 1 in 5 kids has dyslexia. Enrollment via d11.org choice portal.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Orton Academy; D11 charter school; K-8; dyslexia/Orton-Gillingham; opened 2020; moving to Trailblazer Elementary 2026-27; d11.org choice enrollment; Source: gazette.com, d11.org
+
+---
+
 ## June 9, 2026
 
 ### Story 1: Colorado Renaissance Festival Opens June 13-14

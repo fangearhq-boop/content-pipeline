@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 10, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D49 budget vote June 11 (Sand Creek HS 6:30 PM, nearly $2M cuts, d49.org); Guidecraft Kitchen Helper Tower recall (25,235 units, 2022-2023, Amazon/Walmart/Target ~$200, platform loosens/detaches fall hazard, 11 reports 3 injuries, free repair kit 800-524-3555); WMMI Family Day June 12 (225 North Gate Blvd, stamp mill/blacksmith/hayride/gold panning, all free outdoors, wmmi.org); Father's Day COS guide (Pikes Peak free for dads June 20 NOT June 21/Hill Climb, Wolf Center 9-11 AM reservations req, Garden of the Gods free, Renaissance Festival Larkspur, Flying W free hat); D11 Orton Academy moving (K-8 charter, Orton-Gillingham method, moving to Trailblazer Elementary 2026-27, free public school, d11.org) |
+| Story History Check | COMPLETE | 3 NEW STORIES (Guidecraft recall, WMMI Family Day, D11 Orton Academy) + 2 FOLLOW-UPS (D49 budget — prior coverage June 8 was general info, today is vote-is-tomorrow urgent; Father's Day guide — new seasonal content) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 each for Stories 1, 2; 1 each for Stories 3, 4, 5); 7 char violations fixed on second run, 1 remaining fixed on third run; all under 280 chars; 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500–1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py passed (3rd run) — 7 char violations fixed on 2nd run, S4A remaining violation fixed on 3rd run; all 5 stories present |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-10.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-06-10.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-10)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts in PostPlanner xlsx; posting windows 8:00 AM–5:00 PM MT
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-10.xlsx (7 posts), cosp-postplanner-tobi-2026-06-10.xlsx (7 TOBI posts)
+- **Coverage:** D49 budget vote June 11 (Sand Creek HS 6:30 PM, nearly $2M cuts including teacher positions/supplemental programs/admin staffing, public welcome, d49.org); Guidecraft Kitchen Helper Tower recall (25,235 units, sold 2022-2023 at Amazon/Walmart/Target ~$200, platform loosens/detaches over time fall hazard for toddlers, 11 reports 3 injuries, stop using, free repair kit 800-524-3555); WMMI Family Day June 12 (Western Museum of Mining & Industry, 225 North Gate Blvd, stamp mill/blacksmith demo/hayride/gold panning, all free outdoors, wmmi.org); Father's Day COS guide 2026 (Pikes Peak free for dads June 20 NOT June 21 closed for Hill Climb, Wolf Center Father's Day morning event 9-11 AM reservations required, Garden of the Gods always free, Renaissance Festival Larkspur June 21 Sunday show, Flying W free hat); D11 Orton Academy moving to Trailblazer Elementary (K-8 charter school, Orton-Gillingham method gold standard for dyslexia, free public school within D11, 1 in 5 kids has dyslexia, d11.org choice enrollment)
+- **Notes:**
+  - verify-facts.py: 3 runs required — first run flagged 7 char violations (S1A: 291, S1B: 312, S2A: 323, S2B: 302, S3A: 322, S4A: 330, S5A: 339 chars). Rewrote all 7 posts shorter. Second run flagged 1 remaining violation (S4A: 297 chars). Fixed S4A. Third run passed.
+  - Root cause: 4 hashtags in COS Parenting tweets (~62 chars) leaves only ~218 chars for content vs Tennis (3 hashtags)
+  - compile: 5 stories, 7 X posts, 0 FB posts (PostPlanner xlsx has full 7 posts), 5 articles, 5 images
+  - dashboard: 22 items
+  - PostPlanner exports: both standard (7) and TOBI (7) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: June 9, 2026
 
 | Step | Status | Notes |

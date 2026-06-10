@@ -1,0 +1,283 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-10",
+  "compiled_at": "2026-06-10T12:29:38.516432+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D49 Budget Vote Is Tomorrow — What COS Families Should Know",
+      "tier": 1,
+      "status": "",
+      "angle": "District 49's Board of Education votes tomorrow (June 11) at 6:30 PM at Sand Creek High School (7005 Carefree Cir N) on the 2026-27 budget. The district declared fiscal exigency in January 2026 and in February approved nearly $2 million in program and staff cuts, including reductions in non-core teacher positions, supplemental staffing, and administrative roles. Programs like Base49, PEAK, preschool, and Elevates 18-21 were listed as impacted. The budget is open for public inspection at the CFO's office. COS families who attend D49 schools should know this vote finalizes cuts that take effect July 1.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D49 families — budget vote is TOMORROW.\n\nJune 11, 6:30 PM, Sand Creek High School.\n\nNearly $2M in cuts are on the table. Public welcome. Details at d49.org.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (D49 budget vote June 11 covered June 8; today's angle: vote is tomorrow, last-chance public input window, what families can expect)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 217
+        },
+        {
+          "label": "Post 1-2",
+          "text": "D49 votes on its 2026-27 budget tomorrow at 6:30 PM, Sand Creek HS.\n\nCuts include teacher positions, supplemental programs, and admin staffing.\n\nReview the budget in advance at d49.org.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (D49 budget vote June 11 covered June 8; today's angle: vote is tomorrow, last-chance public input window, what families can expect)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d49-budget-vote-june-11-2026-cos-families.html",
+        "headline": "D49 Budget Vote Is Tomorrow — What Colorado Springs Families Need to Know",
+        "word_count": 486
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Budget Vote Is Tomorrow\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Gemini Image Prompt (base_only):**\nA school board meeting room in Colorado Springs — long table with microphones, empty chairs, an American flag in the corner, warm overhead lighting. The scene feels calm but important, like a room where decisions are made. Mood: civic, serious, community-centered. Lighting: warm tungsten with soft shadows. Color palette: dark wood tones, muted blues, neutral cream walls. Art style: photorealistic illustration with clean lines. Leave the bottom third of the image clear of key subjects — open visual space for text overlay. No text, no watermarks, no logos in the image.\n\n**Text Overlay Copy:**\n- Headline: \"D49 Budget Vote Tomorrow\" (white, Poppins Bold)\n- Subtitle: \"June 11 • 6:30 PM • Sand Creek HS\" (#F4C542 Soft Gold, Nunito)\n\n**Composition Notes:** Wide-angle room view; bottom third clear; serious civic tone\n\n---\n\n#### Article Hero (1200×630, landscape)\n\n**Gemini Image Prompt (base_only):**\nA Colorado Springs school building exterior on a sunny summer day — modern brick facade, American flag, clear blue sky, a few parents walking toward the entrance. Clean, welcoming, community feel. Art style: photorealistic. Bottom third clear for text overlay. No text, no people's faces clearly visible.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Budget Vote Is Tomorrow — What COS Families Should Know\n**Decision:** FOLLOW-UP — D49 budget vote June 11 was covered June 8 (preview angle). Today's angle: vote is tomorrow, final reminder, what's at stake.\n**Sources:**\n- d49.org — Board of Education meeting page, budget filing notice (June 2026)\n- koaa.com — \"'We are stripping the district down to absolute essentials,' School District 49 grapples with budget crisis\" (2026)\n- gazette.com — \"D-49 board approves staff, program cuts to balance budget\" (February 12, 2026)\n- pikespeakbulletin.org — \"District 49 to cut programs, teachers amid 'fiscal exigency'\" (2026)\n**Key Facts:**\n- Vote: June 11, 2026 at 6:30 PM, Sand Creek High School, 7005 Carefree Cir N, Colorado Springs CO\n- Fiscal exigency declared: January 2026 (board declared financial emergency)\n- February 2026: Board approved nearly $2 million in cuts (4-1 vote)\n- Cuts include: administrative staffing reductions, supplemental program reductions, vendor contract renegotiations, supplemental staffing reductions, teacher reductions in non-core subjects\n- Programs impacted: Base49, PEAK, preschool, Elevates 18-21 (per June 9 pipeline data)\n- Enrollment decline: projected loss ~$400,000 at current per-pupil rate\n- State per-pupil funding: state proposed budget includes increase\n- Budget open for public inspection at CFO's office\n**Freshness:** Vote is TOMORROW (June 11) — maximum timeliness. This is the correct day for a reminder post.\n**Confidence:** HIGH (meeting date/location confirmed from d49.org; budget cuts from gazette.com/KOAA confirmed independently)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Guidecraft Kitchen Helper Tower Recall — 25,000+ Units, Fall Hazard",
+      "tier": 1,
+      "status": "",
+      "angle": "CPSC recalled approximately 25,235 Guidecraft Classic and Contemporary Kitchen Helper Towers on May 14, 2026. The platform inside can loosen over time, become unstable, and detach — posing a serious fall hazard to toddlers. There have been 11 reported incidents, including 3 injuries (bloody nose, bruises). The towers were sold at Amazon, Wayfair, Walmart, Target, Guidecraft.com, and other retailers from June 2022 through October 2023 for about $200. Remedy: free repair parts. Stop using immediately. Contact Guidecraft at 800-524-3555 (Mon–Fri, 8 AM–8 PM ET) or visit CPSC.gov for details.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "RECALL: Guidecraft Kitchen Helper Towers — 25,235 units.\n\nPlatform can loosen and detach over time — fall hazard for toddlers.\n\nSold 2022-2023 at Amazon, Walmart, Target (~$200). Stop using. Free repair: 800-524-3555.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 278
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Guidecraft Kitchen Helper Tower recall: check the foil sticker on the bottom for your item and lot numbers.\n\n11 reports of children falling. 3 injuries. Free repair kit from Guidecraft: 800-524-3555.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-guidecraft-kitchen-helper-tower-recall-2026-fall-hazard.html",
+        "headline": "Guidecraft Kitchen Helper Tower Recall — 25,235 Units Have a Fall Hazard for Toddlers",
+        "word_count": 488
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Guidecraft Kitchen Helper Tower Recall\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Gemini Image Prompt (base_only):**\nA kitchen counter scene with a wooden toddler learning tower / step stool near a kitchen island. The tower is empty — no child present. The kitchen is warm and family-friendly: white cabinets, soft light, a bowl of fruit on the counter. Mood: domestic, slightly tense awareness. Lighting: natural morning kitchen light. Color palette: warm whites, wood tones, soft neutrals. Art style: photorealistic illustration. Bottom third of the image is open and unoccupied for text overlay. No text, no logos, no child in frame.\n\n**Text Overlay Copy:**\n- Headline: \"Recall Alert\" (white, Poppins Bold — use Warm Coral #FF6F61 for urgency)\n- Subtitle: \"Guidecraft Kitchen Helper Tower\" (#F4C542 Soft Gold, Nunito)\n\n**Composition Notes:** The empty tower against a warm kitchen background creates the story without showing injury; coral headline color signals urgency\n\n---\n\n#### Article Hero (1200×630, landscape)\n\n**Gemini Image Prompt (base_only):**\nClose-up of an empty wooden toddler learning tower in a warm family kitchen. Slightly elevated angle showing the platform surface. Natural morning light. No text, no logos. Bottom portion clear for text.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Guidecraft Kitchen Helper Tower Recall — 25,000+ Units, Fall Hazard\n**Decision:** NEW STORY — Guidecraft Kitchen Helper Tower recall (announced May 14, 2026). Not covered in previous pipeline runs.\n**Sources:**\n- CPSC.gov — \"Guidecraft Children's Standing Towers Recalled Due to Risk of Serious Injury from Fall Hazard\" (May 14, 2026, Recall #26490)\n- dailyhornet.com — \"Guidecraft Recalls 25,000 Toddler Towers for Fall Hazard\" (2026)\n- schiffmanfirm.com — Guidecraft Children's Standing Towers Recalled (recall summary)\n**Key Facts:**\n- Units recalled: approximately 25,235\n- Products: Classic and Contemporary Guidecraft Kitchen Helper Towers (9 colors)\n- Sale period: June 1, 2022 through October 31, 2023\n- Retailers: Amazon, Wayfair, Walmart, Target, Guidecraft.com, Maisonette, Overstock\n- Price: approximately $200\n- Hazard: platform can loosen over time → becomes unstable/detaches → fall hazard for toddlers\n- Incidents: 11 reports of children falling\n- Injuries: 3 (bloody nose, bruises — none severe)\n- How to identify: check item number and lot number on foil sticker at bottom of platform (specific numbers listed on CPSC.gov)\n- Remedy: FREE repair parts (contact Guidecraft for parts + installation instructions)\n- Contact: 800-524-3555, Mon–Fri 8 AM–8 PM ET\n- More info: CPSC.gov (Recall #26490)\n**Freshness:** Recall announced May 14, 2026 — within the 30-day priority window for safety recalls; families may not have seen this yet.\n**Confidence:** HIGH (CPSC.gov is primary source; unit count/injury count from CPSC official page, confirmed by 2 secondary sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Free Family Day at Western Museum of Mining & Industry — This Saturday June 12",
+      "tier": 2,
+      "status": "",
+      "angle": "The Western Museum of Mining and Industry hosts a free Family Day this Saturday, June 12. Families can watch the stamp mill machinery in action, see a live blacksmith demonstration, take a tractor-pulled hayride, and watch the Gold Panning Championships. All outdoor activities are free. The museum is at 225 North Gate Blvd, Colorado Springs CO 80921. Phone: 719-488-0880. Great option for families looking for a low-cost local outing before the Renaissance Festival opens next weekend.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Free COS family outing this Saturday.\n\nJune 12: Family Day at the Western Museum of Mining & Industry.\n\nStamp mill, blacksmith demo, hayride, Gold Panning — all free outdoors.\n\n225 North Gate Blvd. wmmi.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-western-museum-mining-family-day-june-12-cos.html",
+        "headline": "Free Family Day at the Western Museum of Mining and Industry — This Saturday June 12",
+        "word_count": 502
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Western Museum Family Day June 12\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Gemini Image Prompt (base_only):**\nA family of parents and young children exploring an outdoor mining museum on a sunny Colorado summer day — rustic historic machinery visible in the background (large gears, wooden structures), green mountains in the far distance. The family is exploring with curiosity. Mood: adventurous, educational, joyful. Lighting: bright Colorado summer sunlight with clear blue sky. Color palette: rust and wood machinery tones, green grass, golden sunlight, blue sky. Art style: photorealistic with a warm, inviting feel. Leave the bottom third clear and unoccupied for text overlay. No text, no watermarks, no logos.\n\n**Text Overlay Copy:**\n- Headline: \"Free Family Day\" (white, Poppins Bold)\n- Subtitle: \"Western Museum • Sat June 12\" (#F4C542 Soft Gold, Nunito)\n\n**Composition Notes:** Outdoor setting with period machinery in background gives historic context; family in middle distance, bottom third clear\n\n---\n\n#### Article Hero (1200×630, landscape)\n\n**Gemini Image Prompt (base_only):**\nWide landscape shot of an outdoor mining museum on a clear Colorado day — rusted historic stamp mill machinery in the foreground, Pikes Peak visible in the far background, blue sky. Dramatic but welcoming. No people, no text. Bottom area clear for text overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Free Family Day at Western Museum of Mining & Industry — June 12\n**Decision:** NEW STORY — Family Day at WMMI this Saturday. Not covered in previous pipeline runs.\n**Sources:**\n- wmmi.org — Calendar of Events (confirmed June 12 Family Day)\n- pikes-peak.com — \"June Events around Colorado Springs\" (mentions WMMI Family Day)\n- visitcos.com — Western Museum of Mining & Industry listing\n**Key Facts:**\n- Event: Western Museum of Mining & Industry Family Day\n- Date: Saturday, June 12, 2026\n- Free activities: stamp mill machinery demonstrations, live blacksmith demonstration, tractor-pulled hayride, Gold Panning Championships\n- Location: 225 North Gate Blvd, Colorado Springs CO 80921\n- Phone: 719-488-0880\n- All outdoor activities are FREE\n- Regular admission may apply for indoor exhibits (confirm at wmmi.org)\n- Context: Pikes Peak region history, mining heritage, family-friendly\n**Freshness:** Event is THIS SATURDAY (June 12) — 2 days away. Perfect timing for a reminder post.\n**Confidence:** MEDIUM (wmmi.org calendar confirms event; specific activities from pikes-peak.com article)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Father's Day Weekend Guide — COS Families' Best Options (June 21)",
+      "tier": 2,
+      "status": "",
+      "angle": "Father's Day is June 21 — 11 days away. COS families have great local options: Pikes Peak offers free admission for dads on June 20 (note: closed June 21 for Pikes Peak Hill Climb); Colorado Wolf and Wildlife Center has Family Day June 21, 9–11 AM (reservations required); Garden of the Gods is always free; Flying W Ranch gives dads a free hat. The Colorado Renaissance Festival (opened June 13-14 in Larkspur) runs Saturdays and Sundays, making the June 21 Renaissance Festival visit a natural Father's Day option. Pikes Peak Hill Climb also on June 21 — a unique family event. Planning ahead helps avoid the day-of scramble.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Father's Day tip for COS families:\n\nPikes Peak free for dads is June 20 — NOT June 21 (closed for Hill Climb).\n\nAlso June 21: Renaissance Festival (Larkspur), Garden of the Gods (free), Wolf Center.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-fathers-day-colorado-springs-guide-2026.html",
+        "headline": "Father's Day in Colorado Springs 2026 — Your Local Activity Guide for June 21",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Father's Day Weekend Guide\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Gemini Image Prompt (base_only):**\nA father and two children hiking on a clear trail in Colorado, with the distinctive rocky spires of Garden of the Gods or a mountain backdrop visible. The dad carries one child piggyback while the other walks alongside. Warm afternoon summer light. Mood: joyful, adventurous, outdoorsy. Lighting: golden Colorado afternoon light, slight lens warmth. Color palette: red rock oranges, deep green trees, bright blue sky. Art style: photorealistic illustration. Leave the bottom third clear and open for text overlay. No text, no logos, no faces clearly identifiable.\n\n**Text Overlay Copy:**\n- Headline: \"Father's Day in COS\" (white, Poppins Bold)\n- Subtitle: \"Your Local Guide for June 21\" (#F4C542 Soft Gold, Nunito)\n\n**Composition Notes:** Red rock Colorado landscape immediately signals local; family hiking as universal Father's Day image; bottom third clear\n\n---\n\n#### Article Hero (1200×630, landscape)\n\n**Gemini Image Prompt (base_only):**\nWide landscape photo of Garden of the Gods in Colorado Springs — iconic red rock formations against a clear blue sky with Pikes Peak in the background. No people, no text. Beautiful Colorado summer day. Bottom area clear for overlay.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Father's Day Weekend Guide — COS Families' Best Options (June 21)\n**Decision:** NEW STORY — Father's Day is June 21, 2026. No previous pipeline coverage of Father's Day planning guide.\n**Sources:**\n- pikes-peak.com — \"Father's Day Activities in Colorado Springs\" 2026\n- visitcos.com — Annual Events 2026, Father's Day section\n- cospringsmom.com — \"Nine Local Father's Day Activities\"\n- coloradorenfaire.com — Colorado Renaissance Festival schedule (runs Sat/Sun through Aug 2, including June 21)\n**Key Facts:**\n- Father's Day: June 21, 2026\n- Pikes Peak: Free admission for dads June 20 (Note: closed June 21 for Pikes Peak International Hill Climb race)\n- Pikes Peak International Hill Climb: June 21 — 12.42-mile course, 156 turns, 9,390 ft to 14,115 ft summit; family spectator event\n- Colorado Wolf and Wildlife Center: June 21, 9–11 AM; reservations required (call ahead)\n- Garden of the Gods: always free; picnic and hiking\n- Flying W Ranch: dads get a free hat on Father's Day\n- Colorado Renaissance Festival: runs Sat/Sun through Aug 2 — June 21 is a Sunday show day in Larkspur (30 min from COS)\n- Note: if planning Pikes Peak drive with dad, must go June 20 (free) not June 21 (closed for Hill Climb)\n- Miramont Castle: Cigars & Bourbon in the Gardens June 16, $55/person (adults without kids)\n**Freshness:** Father's Day is 11 days away — timely planning guide.\n**Confidence:** MEDIUM (event details from multiple sources; some details need call-ahead verification for specific hours)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "D11 Orton Academy Moving to Trailblazer Elementary for 2026-27",
+      "tier": 2,
+      "status": "",
+      "angle": "Orton Academy — a D11 charter school specializing in teaching students with dyslexia, opened in 2020 — will move into Trailblazer Elementary School for the 2026-27 school year. The move offers a shared campus model for a specialized program that serves K-8 students with dyslexia. For D11 families currently enrolled in or considering Orton Academy, this is a location and campus change to plan around. Orton Academy's approach is research-based (Orton-Gillingham method) and it's one of very few K-8 dyslexia-focused schools in Colorado Springs.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D11 has a free public school for kids with dyslexia.\n\nOrton Academy (K-8) uses the Orton-Gillingham method. It's moving to Trailblazer Elementary for 2026-27.\n\n1 in 5 kids has dyslexia. Enroll at d11.org.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-d11-orton-academy-trailblazer-elementary-dyslexia-school.html",
+        "headline": "D11's Orton Academy — Colorado Springs' Dyslexia-Focused School — Moving to Trailblazer Elementary",
+        "word_count": 555
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Orton Academy — Dyslexia School\n\n#### Social Image (1080×1350, 4:5 vertical)\n\n**Gemini Image Prompt (base_only):**\nA warm, bright elementary school classroom scene — a young child (age 6-8) sitting at a table with an open book and colorful letter tiles, concentrating carefully. A teacher's hands are visible nearby pointing to letter tiles. Mood: focused, warm, hopeful, supportive. Lighting: soft natural classroom light. Color palette: warm yellows, soft blues, wooden furniture tones, colorful manipulatives. Art style: photorealistic illustration with a warm, encouraging feel. Leave the bottom third of the image clear for text overlay. No text on any materials, no logos, no identifiable faces.\n\n**Text Overlay Copy:**\n- Headline: \"COS Dyslexia School\" (white, Poppins Bold)\n- Subtitle: \"Orton Academy Moving for 2026-27\" (#0097A7 Primary Teal, Nunito)\n\n**Composition Notes:** Hands-on learning scene signals specialized education; teal subtitle color for informational (not safety) story; bottom third clear\n\n---\n\n#### Article Hero (1200×630, landscape)\n\n**Gemini Image Prompt (base_only):**\nBright, welcoming elementary school hallway in Colorado — colorful bulletin boards, open classroom doors, natural light from windows. Empty hallway, clean and organized. Feels like a place where good things happen. No text, no logos. Bottom area clear."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Orton Academy Moving to Trailblazer Elementary for 2026-27\n**Decision:** NEW STORY — Orton Academy relocation announcement. Not covered in previous pipeline runs.\n**Sources:**\n- gazette.com — \"Colorado Springs District 11 charter school to move in with elementary school\" (April 8, 2026)\n- d11.org — School portfolio / choice enrollment page\n**Key Facts:**\n- School: Orton Academy — D11 charter school, K-8\n- Specialty: Teaches students with dyslexia using Orton-Gillingham research-based method\n- Founded: 2020\n- Moving: to Trailblazer Elementary School for the 2026-27 school year (shared campus model)\n- Why it matters: Location change for currently enrolled families; new option for families discovering it\n- Orton-Gillingham: multisensory, structured literacy approach; recognized by IDA (International Dyslexia Association)\n- Context: ~1 in 5 children has some form of dyslexia; most D11 families may not know this specialized school exists\n- Enrollment info: d11.org choice enrollment portal\n- Contact for families: d11.org\n**Freshness:** April 2026 announcement — still relevant for fall 2026 planning (enrollment decisions happening now for 2026-27).\n**Confidence:** MEDIUM (single primary source: gazette.com; d11.org choice enrollment confirms Orton Academy as a D11 charter option)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
