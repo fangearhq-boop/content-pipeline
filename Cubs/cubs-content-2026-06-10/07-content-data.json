@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-10",
+  "compiled_at": "2026-06-10T09:18:33.436821+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Rockies 7-3 recap / Rea season-high",
+      "type": "Morning game recap"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Rotation crisis — Taillon to IL",
+      "type": "News / bold take"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Matt Shaw activated",
+      "type": "Roster news"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Ben Brown All-Star case",
+      "type": "Stat breakdown"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Pete Crow-Armstrong",
+      "type": "Feature / stat breakdown"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "NL Central standings watch",
+      "type": "Analysis / rival watch"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Game preview: Imanaga vs Lorenzen",
+      "type": "Pre-game hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Rockies 7, Cubs 3 — Rea Season-High 7 ER",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Colin Rea allowed a season-high 7 ER in 4 2/3 IP; Rockies snapped four-game skid at Cubs' expense; Cubs fall to 34-33",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Colin Rea allowed a season-high 7 ER in 4 2/3 innings last night.\n\nRockies 7, Cubs 3. Coors Field is not being kind to this pitching staff — and the Cubs fall to 34-33.\n\nHunter Goodman's 2-run shot in the first set the tone. It only got worse from there.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Morning game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Rotation Crisis — Taillon to IL, Three Starters Down",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Taillon (hamstring, out through ASB) joins Horton (Tommy John) and Steele (UCL) on IL simultaneously; Boyd expected back this road trip",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "THREE Cubs starters are on the IL simultaneously: Horton (Tommy John), Steele (UCL), Taillon (hamstring, out through the All-Star break).\n\nThe rotation is in crisis. Matthew Boyd expected back on this road trip — and he can't get here fast enough.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "News / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Matt Shaw Activated, Alcántara Optioned",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Shaw returns from 18-day IL stint (mid-back tightness); .242/.291/.400 on the season; Alcántara optioned to Iowa",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Matt Shaw is back on the active roster after 18 days with mid-back tightness.\n\nHe's slashing .242/.291/.400 with 3 HR and 12 RBI in 42 games. Not a superstar line, but depth matters when this roster is banged up.\n\nKevin Alcántara heads back to Iowa.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Roster news / informative",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Ben Brown's All-Star Case Is Real",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "1.74 ERA, 0.88 WHIP, 58 K in 57 IP — only Cubs starter under 4.70 ERA; zero HRs allowed in starts; NL All-Star candidate",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Ben Brown: 1.74 ERA. 0.88 WHIP. 58 strikeouts in 57 innings.\n\nThe Cubs' rotation is falling apart around him, and Brown is quietly building one of the best pitching cases in the NL.\n\nZero home runs allowed in his starts. The All-Star argument is real.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Stat breakdown / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Pete Crow-Armstrong — Sophomore Leap",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": ".783 OPS, 11 HR, 14 SB through 277 PA — the brightest offensive spot on an injury-depleted roster",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": ".783 OPS. 11 home runs. 14 stolen bases.\n\nPete Crow-Armstrong is becoming one of the most complete outfielders in baseball — and the Cubs desperately need him to keep being the story while the rotation burns.\n\nSophomore leap is fully underway.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Feature / stat breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "NL Central Watch — Brewers Running Away",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs 34-33 vs Brewers 40-23; eight games back in division; wild card fight now more realistic than division title",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Cubs: 34-33. Brewers: 40-23. Eight games back in the division, and Milwaukee is not slowing down.\n\nThis is a wild card race now — and you can't win the wild card while dropping games to 25-win teams at Coors.\n\n95 games left. Start playing like it.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Analysis / rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Tonight — Imanaga vs Lorenzen at Coors Field",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs need bounce-back; Lorenzen 2-8, 8.01 ERA is one of NL's worst starters; Boyd potentially back Thursday",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7A",
+          "text": "Tonight at Coors: Shota Imanaga vs Michael Lorenzen, who is 2-8 with an 8.01 ERA.\n\nThe matchup favors Chicago on paper. The Cubs desperately need this win.\n\nBoyd expected back Thursday. Time to salvage this road trip.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Pre-game hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

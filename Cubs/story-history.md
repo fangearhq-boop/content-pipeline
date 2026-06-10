@@ -2049,3 +2049,64 @@ Each day's stories are appended at the top (newest first).
   - Boyd activation (resolves one piece of the depth question)
 
 ---
+
+## 2026-06-10
+
+### STORY 1: Rockies 7, Cubs 3 — Rea Season-High 7 ER
+- **Angle:** NEW STORY (June 9 game recap — Rea shelled for season-high 7 ER in 4 2/3 IP; Goodman 2-run HR sparked Rockies; Cubs fall to 34-33)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning game recap)
+- **Follow-Up Opportunities:**
+  - Tonight's result (Imanaga vs Lorenzen, June 10)
+  - Rea ERA update after start (now ~4.59+ ERA range)
+
+### STORY 2: Rotation Crisis — Taillon to IL, Three Starters Down
+- **Angle:** NEW STORY (Taillon to 15-day IL with left hamstring strain, out through All-Star break; Horton/Steele/Taillon all simultaneously on IL)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, news/bold take)
+- **Follow-Up Opportunities:**
+  - Matthew Boyd activation announcement (expected this road trip)
+  - Taillon IL update / timeline clarification
+  - Assad spot-start if Boyd not ready
+
+### STORY 3: Matt Shaw Activated, Alcántara Optioned
+- **Angle:** NEW STORY (Shaw returns from mid-back tightness, .242/.291/.400 in 42 G; Alcántara optioned to Iowa)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Shaw performance at Coors
+  - Alcántara Iowa stats/progression
+
+### STORY 4: Ben Brown All-Star Case
+- **Angle:** FOLLOW UP (Brown narrative ongoing since June 3; today's angle = only Cubs arm under 4.70 ERA, 1.74 ERA/0.88 WHIP/58 K in 57 IP, zero HRs in starts, rotation crisis makes his stability even more valuable)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, stat breakdown/bold take)
+- **Follow-Up Opportunities:**
+  - Brown's next start result
+  - All-Star selection announcement (July)
+
+### STORY 5: Pete Crow-Armstrong — Sophomore Leap
+- **Angle:** FOLLOW UP (PCA featured June 6; today's angle = season stat snapshot .783 OPS, 11 HR, 14 SB as the offensive bright spot on an injury-depleted team)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, feature/stat breakdown)
+- **Follow-Up Opportunities:**
+  - PCA June stats as sample builds
+  - Any defensive standout at Coors
+
+### STORY 6: NL Central Watch — Brewers Running Away
+- **Angle:** NEW STORY (Cubs 34-33 vs Brewers 40-23, 8 GB; reframe from division race to wild card fight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, analysis/rival watch)
+- **Follow-Up Opportunities:**
+  - Daily standings update
+  - Cardinals record confirmation
+
+### STORY 7: Tonight — Imanaga vs Lorenzen at Coors
+- **Angle:** NEW STORY (game preview; Lorenzen 2-8 8.01 ERA facing Cubs; Boyd possibly back Thursday)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game result tonight (post-game if needed)
+  - Boyd activation for Thursday
+
+---
