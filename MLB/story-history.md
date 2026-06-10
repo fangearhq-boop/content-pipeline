@@ -2605,3 +2605,63 @@ Each day's stories are appended at the top (newest first).
   - Acuña MVP candidacy
   - Sale's continued health and effectiveness
   - Braves World Series odds vs. rest of NL
+
+---
+
+## Pipeline Run: June 10, 2026
+
+### Story 1: Skubal Confirmed to Start Friday at Cleveland — Trade Deadline Watch
+- **Date:** 2026-06-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 9: Skubal targeting June 12 return)
+- **Angle:** Skubal confirmed to return Friday June 12 at Cleveland. Dominant June 7 rehab (5 IP, 0 ER, 6K, 54 pitches at West Michigan). Hinch: "Very encouraged." Tigers went 6-21 without him. Two-time Cy Young, FA after 2026, every contender watching. ESPN published nine blockbuster trade proposals.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal's first start back stats/velocity
+  - Tigers trade deadline decision
+  - Which contenders make official offer
+
+### Story 2: Schwarber Leads MLB at 23 HRs — On Pace for 60-HR Club
+- **Date:** 2026-06-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 9: Schwarber HR race)
+- **Angle:** Schwarber 23 HRs (leads MLB), Alvarez second at 22, Rice third at 18. Judge on IL. Hit 20 HRs through first 49 team games — fastest since Hamilton 2012. Pace projects to 60+. Only 5 players in history have reached 60 (Maris/McGwire/Sosa/Bonds/Judge). Schwarber would be 6th.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber HR No. 30, 40, 50 milestones
+  - Judge return impact on HR race
+  - Sustained pace analysis mid-season
+
+### Story 3: Yankees 7-5 in 10 Innings — 2-0 Without Judge, Bellinger Walk-Off
+- **Date:** 2026-06-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 9: Yankees without Judge)
+- **Angle:** Yankees beat Guardians 7-5 in 10 innings (June 8 game). Bellinger walk-off 2-run single in 10th off Shawn Armstrong. Goldschmidt and McMahon homered. 2-0 without Judge. Spencer Jones recalled. Judge expected back late July/early August.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Yankees record without Judge over full stretch
+  - Spencer Jones development
+  - August deadline trades given Judge timeline
+
+### Story 4: Braves 45-21 — Best Record in Baseball, Historic Turnaround from 76-86
+- **Date:** 2026-06-10
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Braves 45-21 (best record in MLB) under first-year manager Walt Weiss. Last year: 76-86, missed playoffs. 24-game win pace improvement. Chris Sale anchoring rotation, Acuña back. Walt Weiss first year at Atlanta.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Braves sustained excellence through summer
+  - Sale Cy Young candidacy
+  - Acuña MVP race
+  - NL East lead by July 4
+
+### Story 5: June MLB Milestones — Sánchez's Streak, Tigers Walk-Off Record, Reds Clutch Anomaly
+- **Date:** 2026-06-10
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Sánchez (PHI) 50+ scoreless innings breaks 115-year Phillies record (Grover Cleveland Alexander). Tigers: 4 walk-off HRs allowed while leading = ties single-season MLB record (1985 Twins, 2006 Indians). Reds: 10-0 in one-run games with .203 BA — 4th team in MLB history.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Sánchez streak ending and reaction
+  - Reds record as season progresses
+  - Tigers walk-off misery context

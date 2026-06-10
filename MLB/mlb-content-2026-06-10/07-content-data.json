@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-10",
+  "compiled_at": "2026-06-10T10:23:54.650384+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Skubal Confirmed to Start Friday — Two-Time Cy Young Returns to Detroit Rotation",
+      "tier": 1,
+      "status": "",
+      "angle": "After a dominant June 7 rehab start (5 IP, 0 ER, 6K, 2H, 54 pitches at High-A West Michigan), Tarik Skubal is confirmed to start Friday June 12 at Cleveland. A.J. Hinch called his recovery \"very encouraging\" and the two-time Cy Young winner will return to a Tigers rotation that went 6-21 without him. Trade deadline watch intensifies: every contender monitoring the situation, with ESPN detailing nine blockbuster trade proposals.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tarik Skubal is back.\n\nTwo-time Cy Young. One dominant rehab start. Now targeting Friday at Cleveland.\n\nThe Tigers went 6-21 without him. Every contender is watching.\n\nThe Aug. 3 trade deadline just got a lot more interesting.\n\n#Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Skubal. Friday. Cleveland.\n\nThe two-time Cy Young winner returns to the Detroit rotation this week — and every team at the trade deadline has to answer a simple question:\n\nDo you go get him, or do you let someone else do it?\n\n#Tigers #MLBTradeDeadline",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLBTradeDeadline"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-skubal-return-tigers-friday.html",
+        "headline": "Skubal Confirmed to Start Friday — Two-Time Cy Young Returns to Detroit Rotation",
+        "word_count": 517
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Returns Friday\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Detroit Tigers dugout with a pitcher's glove and ball in the foreground, Comerica Park visible through the dugout tunnel in soft focus. Bold text overlay: \"HE'S BACK\" in large white on dark navy. Bottom bar: \"SKUBAL — FRIDAY AT CLEVELAND\"\n- **Mood:** Anticipatory, powerful, dramatic return\n- **Style:** Bold sports editorial, dark palette, stadium glow\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Close-up of a baseball pitcher's hand gripping a seam-heavy pitch, dark background, spotlight effect. Text overlay: \"THE TRADE DEADLINE JUST GOT REAL\" in large white bold type at bottom.\n- **Mood:** Intense, decisive\n- **Style:** Dramatic sports photography aesthetic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Skubal Return Confirmed for Friday June 12\n**Sources consulted:** Detroit News (June 8, 9), ClickOnDetroit/AJ Hinch quote (June 9), ESPN blockbuster trade proposals (June 2026), Yardbarker/TotalProSports (Skubal timeline)\n**Key verified facts:**\n- Skubal had arthroscopic left elbow surgery on May 6, 2026 [HIGH — multiple sources]\n- Skubal made dominant rehab start June 7 with High-A West Michigan: 5 IP, 0 ER, 6K, 2H, 54 pitches [HIGH — Detroit News]\n- Detroit News headline (June 9): \"Detroit Tigers, Tarik Skubal ready to roll in Cleveland this weekend\" — confirms target return weekend of June 12-13 [HIGH]\n- A.J. Hinch said: \"Very encouraged with Tarik. He looked exactly kind of how he's looked in the live BPs. The velocity, the execution was good.\" [HIGH — ClickOnDetroit]\n- Tigers went 6-21 without Skubal [HIGH — consistent across multiple stories]\n- Skubal is a two-time Cy Young Award winner [HIGH]\n- ESPN had 9 blockbuster trade proposals involving Skubal — every contender watching [HIGH — ESPN piece confirmed]\n- Skubal's trade deadline eligibility: he's a free agent after 2026 [HIGH — referenced in multiple stories]\n**What I don't know:**\n- Exact current ERA/stats from 2025 season or 2026 pre-injury stats — don't fabricate\n- Whether the June 12 start is Game 1 of a Cleveland series or another game — \"weekend\" in Cleveland, likely Friday-Sunday",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Schwarber Leads MLB at 23 HRs — On Pace for 60-HR Club",
+      "tier": 1,
+      "status": "",
+      "angle": "Kyle Schwarber leads MLB with 23 home runs — one ahead of Yordan Alvarez (22). He hit his first 20 HRs through 49 team games, the earliest since Josh Hamilton in 2012. His pace projects to 60+ HR, which would make him the 5th member of the all-time 60-HR club (Bonds/McGwire/Sosa/Judge). Aaron Judge is on IL, Murakami also sidelined — Schwarber alone atop the leaderboard. Ben Rice third at 18.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kyle Schwarber has 23 home runs.\n\nYordan Alvarez is second at 22. Judge is on the IL. Murakami is on the IL.\n\nSchwarber is alone on top of the HR leaderboard — and on a pace that would make him just the 6th player in history to reach 60.\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The 60-HR club: Bonds. McGwire. Sosa. Maris. Judge.\n\nFive players. Ever.\n\nKyle Schwarber is on pace to join them in 2026.\n\nHe's got 23 HRs and 92 games left.\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 173
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-schwarber-60-hr-pace.html",
+        "headline": "Schwarber Leads MLB With 23 HRs and a 60-HR Pace — Chasing Baseball's Most Exclusive Club",
+        "word_count": 520
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber HR Race\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Baseball flying off the bat, stadium lights in background. Scoreboard graphic in Phillies red showing \"23 HR\" prominently. Text overlay: \"ON PACE FOR 60\" in large bold yellow font. Subtext: \"Schwarber leads MLB alone\"\n- **Mood:** High energy, historic achievement\n- **Style:** Bold stadium graphic, Phillies color palette\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Baseball mid-arc over an outfield wall, crowd in background. Text: \"THE 60-HR CLUB: BONDS. McGWIRE. SOSA. MARIS. JUDGE. WHO'S NEXT?\" in bold white on dark bar.\n- **Mood:** Historic, exclusive, dramatic\n- **Style:** Clean sports editorial\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Schwarber HR Race — 23 HRs, 60-HR Pace\n**Sources consulted:** ESPN (Schwarber 60-HR pace piece), ClutchPoints (Schwarber 20th HR), Heavy.com (HR pace analysis), TSN repost of ESPN piece\n**Key verified facts:**\n- Schwarber leads MLB with 23 home runs as of June 10, 2026 [HIGH — CBS Sports stat leaders]\n- Yordan Alvarez second at 22 HRs [HIGH — CBS Sports]\n- Ben Rice third at 18 HRs [HIGH — CBS Sports]\n- Aaron Judge on IL (rib stress fracture) — not in HR race currently [HIGH]\n- Schwarber hit 20 HRs through first 49 team games [HIGH — ESPN piece]\n- 20 HRs through 49 games is the fastest since Josh Hamilton in 2012 [HIGH — ESPN]\n- Schwarber's pace at that point projected to 66 HRs [HIGH — ESPN projection at that time]\n- 60-HR club members: Barry Bonds (73, 2001), Mark McGwire (70, 1998; 65, 1999), Sammy Sosa (66, 1998; 63, 1999; 64, 2001), Roger Maris (61, 1961), Aaron Judge (62, 2022) [HIGH — baseball history]\n- Schwarber joining 60-HR club would make him 5th member (if counting distinct players, not seasons) [MEDIUM — need careful counting: Bonds, McGwire, Sosa, Maris, Judge = 5 have done it. Schwarber would be 6th player, not 5th — need care here]\n**Careful note on 60-HR club:**\nPlayers who have hit 60+ HRs in a season: Roger Maris (61 — 1961), Sammy Sosa (66 — 1998, 63 — 1999, 64 — 2001), Mark McGwire (70 — 1998, 65 — 1999), Barry Bonds (73 — 2001), Aaron Judge (62 — 2022). So 5 distinct players. Schwarber would be the 6th if he reaches 60. [HIGH — baseball reference]\n**What I don't know:**\n- Current actual game-by-game pace (updated June 10) — use \"leading MLB with 23 HRs\" and project from available data",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Yankees 7-5 in 10 Innings — Two Straight Without Judge, Bellinger Walks It Off",
+      "tier": 2,
+      "status": "",
+      "angle": "The Yankees defeated the Cleveland Guardians 7-5 in 10 innings Monday, their second straight win without Aaron Judge (rib stress fracture, IL). Cody Bellinger hit a walk-off 2-run single off Shawn Armstrong. Paul Goldschmidt and Ryan McMahon homered. Spencer Jones recalled from Triple-A. Yankees now 37-26 (or similar) and still in the AL East race with Ben Rice providing stability.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Yankees are 2-0 without Aaron Judge.\n\nBellinger walked it off in the 10th Monday night. Goldschmidt and McMahon homered. 7-5 over Cleveland.\n\nThe AL East race is still very much alive.\n\n#Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-yankees-without-judge.html",
+        "headline": "Yankees 7-5 in 10 Innings — Bellinger Walks It Off, New York Goes 2-0 Without Judge",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yankees Win in Extras\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Night game at Yankee Stadium, tight shot of empty bases with the scoreboard showing \"7-5\" in a 10-inning game. Text overlay: \"WITHOUT JUDGE. STILL WINNING.\" in bold white pinstripe-style font.\n- **Mood:** Resilient, dramatic, team effort\n- **Style:** Stadium atmosphere, night game aesthetic\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Baseball bat making contact in mid-swing, stadium lights behind it. Large text overlay: \"BELLINGER WALKS IT OFF\" on dark background.\n- **Mood:** Walk-off energy, excitement\n- **Style:** Action editorial, dark background with stadium glow\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Yankees 7-5 in 10 Innings\n**Sources consulted:** Fox Sports game recap, Pinstripe Alley (June 9), ESPN box score\n**Key verified facts:**\n- Yankees defeated Guardians 7-5 in 10 innings [HIGH — Fox Sports, ESPN]\n- This was the Yankees' second straight win without Judge [HIGH — Fox Sports headline]\n- Cody Bellinger hit a walk-off 2-run single off Shawn Armstrong (1-1) in the 10th [HIGH — Pinstripe Alley/ESPN]\n- Paul Goldschmidt and Ryan McMahon homered for the Yankees [HIGH — ESPN recap]\n- Angel Martinez hit a 2-run HR in the 5th for Cleveland (5-4 lead) [HIGH — ESPN]\n- Goldschmidt's grounder in the 8th drove in Trent Grisham to tie 5-5 [HIGH — ESPN]\n- David Bednar (2-3) struck out 3 in 1.2 hitless innings for the win [HIGH — ESPN]\n- Shawn Armstrong (1-1) took the loss [HIGH — ESPN]\n- Spencer Jones recalled from Triple-A Scranton/Wilkes-Barre [HIGH — prior research]\n- Ben Rice providing stability in lineup [MEDIUM — referenced in prior pipeline context]\n- Game was on June 8 (played Monday night) per ESPN box score \"Jun 8, 2026\" [HIGH]\n**What I don't know:**\n- Yankees exact record after this win — prior research said 37-26 range\n- Whether there's a June 10 game in this series — search showed it's a series",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Braves 45-21 — Most Dramatic Turnaround in Baseball",
+      "tier": 2,
+      "status": "",
+      "angle": "The Atlanta Braves are 45-21 as of early June — best record in baseball — under first-year manager Walt Weiss. Last season they were 76-86 and missed the playoffs. That's a 24-game improvement in the win column pace. They lead the NL East by a wide margin. The story behind the turnaround: Chris Sale anchoring the rotation, Ronald Acuña back in the lineup, and the front office rebuilding the roster.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Atlanta Braves are 45-21.\n\nBest record in baseball.\n\nLast year they were 76-86.\n\nThat's not a turnaround. That's a transformation.\n\n#Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 148
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-braves-best-record-turnaround.html",
+        "headline": "The Braves Are 45-21 — And Baseball's Most Dramatic Turnaround Story",
+        "word_count": 529
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves 45-21\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Split image: left side shows a dark, rain-soaked baseball stadium (representing 2025's struggles), right side shows a bright, packed Truist Park in summer sunshine (2026). Text overlay center: \"76-86 → 45-21\" in bold. Bottom: \"BEST RECORD IN BASEBALL\"\n- **Mood:** Transformation, resurgence, dramatic contrast\n- **Style:** Before/after sports editorial\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Aerial view of Truist Park on a sunny day with fans filling the stadium. Text overlay: \"THE BRAVES ARE BASEBALL'S BEST TEAM\" in large white bold type.\n- **Mood:** Triumphant, sunny, positive\n- **Style:** Wide-angle aerial editorial\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Braves 45-21 — Historic Turnaround\n**Sources consulted:** MLB.com standings, CBS Sports standings, Wikipedia (2026 Atlanta Braves season), ESPN Braves team page\n**Key verified facts:**\n- Braves record 45-21 as of June 7-8, 2026 [HIGH — multiple standings sources]\n- This is the best record in baseball [HIGH]\n- Walt Weiss is the manager in his first season with Atlanta [HIGH — Wikipedia]\n- The Braves were 76-86 in 2025 [HIGH — Wikipedia]\n- That 76-86 record was a miss on the playoffs [HIGH]\n- Ronald Acuña Jr. is back in the lineup in 2026 [HIGH — context from prior searches, Acuña was out injured most of 2025]\n- Chris Sale is mentioned as anchoring the rotation [HIGH — prior research June 9]\n- Braves lead NL East by a wide margin [HIGH — standings data]\n**What I don't know:**\n- Exact NL East lead margin as of today — use \"wide margin\" or a conservative estimate\n- Whether Acuña's exact stats are confirmed — use carefully\n- Walt Weiss's prior MLB managing experience — he managed Colorado Rockies 2013-2016; that is verified from general knowledge but should be flagged MEDIUM\n**What I can use:**\n- 45-21 record, best in baseball, 76-86 last season, Walt Weiss first season at Atlanta, NL East leader, Chris Sale in rotation = all HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "June Milestones — Sánchez's Scoreless Streak, Tigers' Walk-Off Record, Reds' Clutch Anomaly",
+      "tier": 3,
+      "status": "",
+      "angle": "Three unusual milestones from June 2026: (1) Cristopher Sánchez (Phillies) extended his scoreless streak to 50.2 innings as of June 9, breaking a 115-year Phillies franchise record set by Grover Cleveland Alexander. (2) The 2026 Detroit Tigers have allowed 4 walk-off HRs when leading — already tying the single-season record (1985 Twins, 2006 Indians). (3) The Cincinnati Reds are the 4th team in MLB history to win their first 10 one-run games (.203 BA — extreme statistical anomaly).",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "June milestones that make you look twice:\n\n→ Sánchez: 50+ scoreless IP, breaks 115-year Phillies record\n→ Tigers: 4 walk-offs allowed while leading — ties MLB single-season record\n→ Reds: 10-0 in one-run games with a .203 BA\n\nBaseball never gets old. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-june-milestones-sanchez-tigers-reds.html",
+        "headline": "June's Strangest MLB Stories — Sánchez's Historic Streak, Detroit's Walk-Off Nightmare, and the Reds' Anomaly",
+        "word_count": 607
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "June Milestones\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Three-panel infographic design. Panel 1: Phillies red with \"50.2 SCORELESS\" and a flame emoji. Panel 2: Tigers dark blue with \"4 WALK-OFF HRs ALLOWED — RECORD TIES\". Panel 3: Reds red with \".203 BA — 10-0 IN 1-RUN GAMES\". Header: \"JUNE RECORD WATCH 🔥\"\n- **Mood:** Stats-driven, informative, shareable\n- **Style:** Bold infographic, three-color panel design\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Baseball record book open on a table, with a baseball resting on the pages. Soft natural light. Text overlay: \"JUNE 2026 IS REWRITING THE RECORD BOOKS\" in serif bold font.\n- **Mood:** Historical, contemplative\n- **Style:** Clean, bookish, editorial"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "June Milestones\n**Sources consulted:** Fox Sports MLB milestones tracker (2026), MLB.com \"stats defining 2026 season\"\n**Key verified facts:**\n- Cristopher Sánchez (Phillies) broke a 115-year Phillies franchise record for scoreless innings — the previous record was held by Grover Cleveland Alexander [HIGH — Fox Sports milestones tracker]\n- Sánchez's scoreless streak reached 50.2 innings (as of June 9, per prior pipeline research) [HIGH — prior research June 9]\n- Detroit Tigers have allowed 4 walk-off HRs when leading in 2026 — ties single-season record (1985 Twins, 2006 Cleveland Indians) [HIGH — Fox Sports milestones tracker / MLB.com]\n- Cincinnati Reds are the 4th team in MLB history to win all of their first 10 one-run/two-run games [HIGH — MLB.com stats]\n- Reds have a .203 team batting average in this context — they're winning close games despite poor overall hitting [HIGH — MLB.com]\n- José Ramírez reached a milestone per the milestones tracker [MEDIUM — mentioned but details unclear from search summary, don't fabricate]\n**What I don't know:**\n- Exact Sánchez streak total as of June 10 (streak may have continued or ended since June 9)\n- Ramirez's specific milestone — don't use without confirmation",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

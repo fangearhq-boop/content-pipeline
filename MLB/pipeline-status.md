@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-10
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations after 1 fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (43 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (clean push, no detached HEAD). Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagin sourcing required). claim-patterns.py missing (known — universal extraction only). FB posts compile to 0 (known heading format). 1 char violation fixed (Story 5 tweet trimmed from 305 to 259).
+- **Key Stories**: Skubal confirmed to start Friday June 12 at Cleveland/5IP 0ER 6K rehab/Tigers 6-21 without/trade deadline watch/9 ESPN proposals (Tier 1 FOLLOW UP), Schwarber 23 HR leads MLB/Alvarez 22/on pace 60+ HR/fastest to 20 HRs since Hamilton 2012/only 5 players ever hit 60 (Tier 1 FOLLOW UP), Yankees 7-5 in extras Bellinger walk-off/2-0 without Judge/Spencer Jones recalled (Tier 2 FOLLOW UP), Braves 45-21 best record in baseball/76-86 last year/Walt Weiss first year/Sale+Acuña carrying it (Tier 2 NEW), Milestones: Sánchez 50+ scoreless breaks 115-yr Phillies record/Tigers 4 walk-offs allowed = single-season record tied/Reds 10-0 in 1-run games .203 BA (Tier 3 NEW)
+
+## Previous Run
 - **Date**: 2026-06-09
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (44 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py. Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
