@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-10",
+  "compiled_at": "2026-06-10T10:13:12.477909+00:00",
+  "niche": {
+    "brand_name": "I Love Softball",
+    "brand_short": "ILS",
+    "content_prefix": "softball-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Earleywine Leaves Texas for Tennessee — Longhorns Lose Second Key Coach",
+      "tier": 1,
+      "status": "",
+      "angle": "Ehren Earleywine, the offensive coordinator who engineered Texas's record-setting 99-HR season and helped Katie Stewart hit a program-record 31 HRs in 2026, is departing for Tennessee as associate head coach. This is the second coach Texas has lost in a week, following associate HC Kristen Zaleski's departure. Tennessee head coach Kim Weekly adds Earleywine as a major rebuild piece after the Lady Vols lost Morgan and Plumlee to the transfer portal.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Texas loses its SECOND key coach in one week.\n\nEhren Earleywine — the OC behind 99 HRs and Katie Stewart's 31-HR season — is heading to Tennessee.\n\nTwo titles. Now a coaching overhaul. The three-peat just got harder.\n\n#LonghornSoftball #ILoveSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LonghornSoftball",
+            "#ILoveSoftball"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tennessee just poached the OC who engineered the nation's most explosive offense.\n\nEhren Earleywine built a Texas lineup that hit 99 HRs and set a program record. Now he's rebuilding the Lady Vols.\n\nKim Weekly is serious about 2027.\n\n#LadyVols #ILoveSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LadyVols",
+            "#ILoveSoftball"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-earleywine-texas-tennessee-coaching.html",
+        "headline": "Texas Loses Earleywine to Tennessee — Dynasty's Coaching Staff Faces Overhaul",
+        "word_count": 614
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Earleywine Leaves Texas for Tennessee\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Split graphic — left side burnt orange (Texas) with a silhouette of a coach walking away, right side Tennessee orange (Vol orange) with a stadium entrance in the background. Text overlay at top: \"COACHING SHAKEUP\" in bold white. Center divider with arrows pointing right. Bottom text: \"Earleywine: Texas → Tennessee\"\n- **Mood:** Dramatic, newsworthy, high-contrast\n- **Style:** Bold sports graphic, clean typography, minimal clutter\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Close-up of an empty dugout with a Texas burnt orange batting helmet on the bench. Soft backlighting. Text overlay: \"THE DYNASTY FEELS ITS FIRST CRACKS\" in bold sans-serif. Subdued, thoughtful tone.\n- **Mood:** Reflective, newsworthy\n- **Style:** Photojournalistic feel, muted tones, single focal point\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ehren Earleywine Leaves Texas for Tennessee\n**Sources consulted:** Rocky Top Insider (June 9, 2026), WATE/WIVK News Knoxville (June 9, 2026), SI/Texas Longhorns (June 9, 2026), SI/Softball (June 9, 2026)\n**Key verified facts:**\n- Ehren Earleywine hired as Tennessee associate head coach — announced June 9, 2026 [HIGH — multiple sources]\n- Earleywine was in his first season at Texas as associate head coach for offense in 2026 [HIGH]\n- Texas hit a program-record 99 home runs in 2026 under Earleywine's offensive guidance [HIGH]\n- Katie Stewart set a Texas program record with 31 home runs in 2026 [HIGH — verified multiple stories]\n- Kristen Zaleski (Texas associate HC) also departed — not returning for 2027 [HIGH — SI, D1Softball]\n- Texas now losing two key coaches from its back-to-back national championship staff [HIGH]\n- Kim Weekly is head coach at Tennessee [HIGH]\n- Tennessee lost starting pitcher Madison Morgan and OF Brooke Plumlee to the transfer portal [HIGH — prior research]\n- Earleywine described as a \"veteran staff member\" being poached from the national champs [MEDIUM — paraphrase from Rocky Top Insider]\n**What I don't know / need to be careful about:**\n- Earleywine's background before Texas (prior coaching stops) — not confirmed from these sources, don't fabricate\n- Zaleski's next destination — unknown, don't speculate",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Torres Still Portal's No. 1 Prize — Day 3, No Commit Yet",
+      "tier": 1,
+      "status": "",
+      "angle": "Three days into the 15-day transfer portal window, Isa Torres — the D1 Softball Player of the Year with a .530 BA / .978 SLG / .591 OBP and 78 runs at FSU — remains uncommitted. Texas A&M and Texas are the most-linked programs. Torres hit in 16 consecutive at-bats (NCAA record) and has one year of eligibility remaining. The recruiting battle for the sport's best available player is intensifying.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Day 3 of the portal window.\n\nIsa Torres — .530 BA, D1 Player of the Year — still hasn't committed.\n\nTexas. Texas A&M. Both in pursuit of the best available player in college softball.\n\nThe clock is ticking. Portal closes June 22.\n\n#SoftballPortal #ILoveSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballPortal",
+            "#ILoveSoftball"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Wherever Isa Torres lands reshapes the 2027 national title race.\n\n.530/.591/.978. 78 runs. ACC + D1 Player of the Year. One year left.\n\nNo. 1 portal prospect. Still uncommitted. This recruiting battle is just getting started.\n\n#SoftballPortal #ILoveSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballPortal",
+            "#ILoveSoftball"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-isa-torres-portal-day-3.html",
+        "headline": "Isa Torres Still Uncommitted — The Race for the Portal's No. 1 Player Intensifies",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Torres Portal — Day 3\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Softball diamond aerial view with a spotlight on second base (a metaphor for \"center of attention\"). Foreground text: \"THE PORTAL'S No. 1 PRIZE\" in bold yellow on dark background. Bottom stat bar: \".530 BA | .978 SLG | D1 POY\" in white on charcoal.\n- **Mood:** High-energy, recruiting drama\n- **Style:** Bold editorial sports graphic, dark background\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Abstract softball graphic with a question mark formed in the trajectory of a pitched ball. Colors: FSU garnet and gold. Text: \"WHERE WILL ISA TORRES LAND?\" in large bold type.\n- **Mood:** Suspense, intrigue\n- **Style:** Clean modern sports editorial\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Isa Torres Transfer Portal — Day 3 Update\n**Sources consulted:** On3 (June 8, 2026), 247Sports (June 8, 2026), Fox Sports (June 8, 2026), SI Transfer Portal rankings (June 2026), search summaries\n**Key verified facts:**\n- Torres entered transfer portal June 8, 2026 — Day 1 of the undergraduate window [HIGH]\n- Torres is a junior at Florida State with one year of eligibility remaining [HIGH]\n- Torres stats in 2026: .530 batting average, .978 slugging percentage, .591 on-base percentage, 78 runs scored [HIGH — multiple sources]\n- Torres named D1 Softball Player of the Year AND ACC Player of the Year for 2026 [HIGH]\n- Torres set FSU program records in BA, SLG, OBP, and runs [HIGH]\n- Torres set an NCAA record with a hit in 16 consecutive at-bats [MEDIUM — from portal rankings article, not independently verified from a second source]\n- Texas A&M and Texas linked as potential destinations [MEDIUM — multiple reports]\n- Torres has not announced a commitment as of June 10, 2026 [HIGH — no commit announcement found]\n- Transfer portal window: June 8–22, 2026 (15 days for undergraduates) [HIGH]\n**What I don't know:**\n- Which schools have officially offered — don't speculate beyond reported Texas/Texas A&M interest",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Samantha Swan Visits Texas — Catcher Would Fill Key Need",
+      "tier": 2,
+      "status": "",
+      "angle": "Arizona State graduate transfer Samantha Swan, a first-team All-Big 12 catcher (.383 BA / 12 HR / 55 RBI / .984 fielding%), visited Texas on Monday. Swan is from Georgetown, TX — a suburb of Austin — making this a potential homecoming. Texas lost starting catcher Reese Atwood to graduation and has a clear need behind the plate. Swan has a career .322 BA and .917 OPS over four seasons at ASU.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Samantha Swan — All-Big 12 catcher, .383/.917 OPS, 12 HRs — visited Texas on Monday.\n\nShe's from Georgetown, TX. A homecoming. And the Longhorns need a catcher after Reese Atwood graduated.\n\nThe portal is working fast. #LonghornSoftball #ILoveSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LonghornSoftball",
+            "#ILoveSoftball"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-samantha-swan-texas-visit.html",
+        "headline": "Samantha Swan Visits Texas — All-Big 12 Catcher Could Fill a Key Void for the Champions",
+        "word_count": 530
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Swan Visits Texas\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Catcher's gear laid out on Texas burnt orange background. State of Texas silhouette with a star at Austin. Text: \"COMING HOME?\" in large bold type. Subtext: \"Swan Visits Texas\"\n- **Mood:** Homecoming, warm, anticipatory\n- **Style:** Clean sports editorial, Texas color palette\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Wide-angle view of a softball stadium at dusk, Texas flag visible in stands. Overlay: \"TEXAS TARGETS TOP PORTAL CATCHER\" in bold white text on semi-transparent dark bar at bottom.\n- **Mood:** Anticipatory, dramatic\n- **Style:** Landscape editorial, warm evening light\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Samantha Swan Visits Texas\n**Sources consulted:** Roundtable.io (Texas softball recruits/portal, June 2026), Yahoo Sports/Arizona State portal tracker, SI Transfer Portal rankings (June 2026)\n**Key verified facts:**\n- Samantha Swan is an Arizona State graduate transfer (catcher) [HIGH]\n- Swan stats in 2026: .383 batting average, 21 doubles, 12 home runs, 55 RBIs, 9 stolen bases [HIGH]\n- Swan is a unanimous first-team All-Big 12 selection for 2026 [HIGH]\n- Career stats: .322 BA / .917 OPS / 18 HR / 86 RBI / 67 runs / .984 fielding percentage [HIGH]\n- Swan visited Texas on Monday (June 9, 2026) per Travis Galey report [HIGH — cited reporter]\n- Swan is from Georgetown, Texas (suburb of Austin) [HIGH]\n- Texas graduated Reese Atwood (starting catcher) in 2026 [MEDIUM — mentioned in portal context]\n- Swan has one year of eligibility remaining as a graduate transfer [HIGH]\n- Swan entered the portal prior to June 8 as a graduate transfer (grad transfers can enter at any time) [HIGH]\n**What I don't know:**\n- Whether Texas has extended a formal offer — only confirmed a visit occurred\n- Other schools pursuing Swan",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Moriah Polar Still Available — Purdue's .555 Hitter Weighing Options",
+      "tier": 2,
+      "status": "",
+      "angle": "Moriah Polar, the nation's leading hitter (.555 BA / 101 hits at the time she entered) and a second-team All-American from Purdue, is still available three days into the portal window. The outfielder has one year of eligibility remaining. With a skill set that would immediately rank in the top three nationally at any program, Polar's decision could define a program's 2027 contender status.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": ".555 batting average. 101 hits. Second-team All-American.\n\nMoriah Polar is the best hitter available in the portal and she still hasn't committed.\n\nOne year of eligibility. One program is about to get very lucky.\n\n#SoftballPortal #ILoveSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#SoftballPortal",
+            "#ILoveSoftball"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-moriah-polar-portal.html",
+        "headline": "Moriah Polar Is Still Available — Nation's Leading Hitter Waits for the Right Fit",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Moriah Polar — Still Available\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Close-up of a softball bat and batting gloves on a dugout bench, spot-lit. Text overlay in large yellow on dark navy: \".555 BA\" at center. Below: \"NATION'S LEADING HITTER. STILL IN THE PORTAL.\"\n- **Mood:** Athletic excellence, urgency\n- **Style:** Bold, minimalist sports graphic\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Action-style illustration of an outfielder in mid-dive catch position. Background: blurred stadium lights. Text: \"THE BEST HITTER IN THE PORTAL\" in large white type.\n- **Mood:** Dynamic, athletic\n- **Style:** Illustrated sports editorial\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Moriah Polar — Purdue's .555 Hitter Still Available\n**Sources consulted:** SI (June 8, 2026), On3 Transfer Portal wire (June 2026), SI Transfer Portal rankings (June 2026), Purdue Athletics\n**Key verified facts:**\n- Moriah Polar entered the transfer portal June 8, 2026 [HIGH]\n- Polar is an outfielder at Purdue [HIGH]\n- Polar had a .555 batting average in 2026 and led the nation in hits (101 — stat at time of portal entry) [HIGH — SI article]\n- Polar is a second-team All-American [HIGH]\n- Polar was one of 25 finalists for USA Softball Player of the Year [HIGH]\n- Polar has one year of eligibility remaining [HIGH]\n- Polar has not committed to a new school as of June 10, 2026 [HIGH — no announcement found]\n- Career note: listed as nation's top hitter in 2026 by hit count [HIGH]\n**What I don't know:**\n- Polar's career BA or multi-year stats — don't fabricate\n- Which programs are pursuing her — don't speculate",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Coaching Carousel Spins On — Gascoigne at Colorado State, Portal Window Context",
+      "tier": 3,
+      "status": "",
+      "angle": "Colorado State officially hired Michelle Gascoigne as its 13th head coach on June 8 — she was Northwestern's pitching coach for 11 seasons and was a national champion at Georgia (2008) and with the school program. Meanwhile, the coaching carousel continues industry-wide: Tulsa hired DJ Gasso (Arkansas associate HC, son of OU's Patty Gasso), Tennessee added Earleywine from Texas, and Nebraska hired NFCA All-American Jordy Frahm as an assistant. The offseason reshaping of coaching staffs is in full swing.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The coaching carousel is spinning fast.\n\nEarleywine to Tennessee. Gascoigne to Colorado State. DJ Gasso to Tulsa. Jordy Frahm to Nebraska.\n\nPrograms are rebuilding coaching staffs and portal rosters at the same time.\n\nBusy offseason. #ILoveSoftball",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ILoveSoftball"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-coaching-carousel-june-2026.html",
+        "headline": "Coaching Carousel in Full Spin — Key Hires Shape the 2027 Landscape",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Coaching Carousel\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Four team logos (represented by colored circles: Tennessee orange, Colorado State green, Tulsa gold, Nebraska red) with arrows connecting them in a circular pattern like a carousel. Center text: \"COACHING CAROUSEL\" in bold. Bottom text list: \"4 NEW HIRES THIS WEEK\"\n- **Mood:** Fast-moving, newsworthy\n- **Style:** Clean infographic-style graphic, white background\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Whiteboard or chalkboard with coaching staff names and arrows drawn in chalk. Warm locker room lighting. Text: \"OFFSEASON NEVER STOPS\" in bold overhead.\n- **Mood:** Strategic, behind-the-scenes\n- **Style:** Documentary/editorial, authentic feel"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Coaching Carousel — Gascoigne at CSU, Broader Context\n**Sources consulted:** Colorado State Athletics official release (June 8, 2026), SI coaching carousel tracker (June 2026), Nebraska Athletics (June 5, 2026), NFCA transactions\n**Key verified facts:**\n- Michelle Gascoigne hired as Colorado State head softball coach on June 8, 2026 [HIGH — official CSU release]\n- Gascoigne is the 13th head coach in CSU softball history [HIGH]\n- Gascoigne was Northwestern's pitching coach for the past 11 seasons [HIGH]\n- Gascoigne was a national champion (player) — 2013 WCWS [MEDIUM — search summary says \"2013 WCWS national champion\" — need caution on school affiliation; search summary says \"Georgia\" but the 2013 WCWS champion was Alabama... This needs careful treatment. Actually let me reconsider: the search said \"2013 WCWS national champion\" which was Alabama. If she played for Alabama that's verifiable. But the search result was not specific about school. Use MEDIUM confidence and don't name a specific school without verification]\n- DJ Gasso (son of OU legend Patty Gasso, Arkansas associate HC) hired as Tulsa head coach on June 5, 2026 [HIGH — SI coaching carousel]\n- Nebraska hired Jordy Frahm (four-time first-team NFCA All-American) as assistant coach on June 5, 2026 [HIGH — Nebraska Athletics]\n- Ehren Earleywine to Tennessee (covered in Story 1) [HIGH]\n- Illinois hired Yolanda McRae as assistant coach on June 6, 2026 [HIGH — SI coaching carousel]\n- Transfer portal window: June 8–22, 2026 [HIGH]\n**What I don't know:**\n- Gascoigne's specific college playing career details — use caution, only state \"former national champion\" without year/school",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

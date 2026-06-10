@@ -3094,3 +3094,58 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Briski return decision
   - Alabama 2027 roster outlook
   - Murphy's program direction after another semifinal exit
+
+---
+
+## Pipeline Run: June 10, 2026
+
+### Story 1: Earleywine Leaves Texas for Tennessee — Dynasty's Coaching Staff Faces Overhaul
+- **Date:** 2026-06-10
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Ehren Earleywine, Texas's offensive coordinator who engineered a record 99 HRs and Katie Stewart's 31-HR season, departs for Tennessee as associate head coach under Kim Weekly. Second coach Texas has lost in one week (Kristen Zaleski also gone). Tennessee gains a major offensive weapon in its rebuild after losing Morgan/Plumlee to the portal.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Mike White hiring replacements for Zaleski and Earleywine
+  - Tennessee's 2027 offensive output under Earleywine
+  - Texas three-peat bid with new coaching staff
+
+### Story 2: Torres Portal — Day 3, Still Uncommitted
+- **Date:** 2026-06-10
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 9: Torres enters portal)
+- **Angle:** Three days into the 15-day window, Isa Torres (.530 BA/.978 SLG/.591 OBP/78 runs/D1 POY) remains uncommitted. Texas and Texas A&M most linked. One year of eligibility remaining. Portal closes June 22.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Torres commitment announcement (imminent)
+  - Impact analysis once she commits
+
+### Story 3: Samantha Swan Visits Texas — All-Big 12 Catcher
+- **Date:** 2026-06-10
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** ASU graduate transfer Samantha Swan (.383 BA/12 HR/55 RBI/.984 fielding%) visited Texas Monday. From Georgetown, TX. Texas needs a catcher after Reese Atwood graduated. First-team All-Big 12, .917 career OPS.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Swan commitment announcement
+  - Texas's full portal class taking shape
+
+### Story 4: Moriah Polar — .555 Hitter Still Available
+- **Date:** 2026-06-10
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 9: Polar enters portal)
+- **Angle:** Polar (.555 BA / 101 hits / 2nd-team All-American / Purdue OF) remains uncommitted 3 days into portal window. One year eligibility. Nation's leading hitter available.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Polar commitment announcement
+  - Visit schedule rumors
+
+### Story 5: Coaching Carousel — Gascoigne, Gasso, Earleywine, Frahm
+- **Date:** 2026-06-10
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Colorado State hired Michelle Gascoigne (Northwestern pitching coach 11 seasons) on June 8. Tulsa hired DJ Gasso (Arkansas associate HC, son of Patty Gasso). Nebraska added Jordy Frahm (4x NFCA All-American). Earleywine to Tennessee. Coaching carousel moving alongside portal window.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Texas replacing Zaleski and Earleywine
+  - Gascoigne's impact at Colorado State
