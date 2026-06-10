@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-09
+- **Date**: 2026-06-10
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-10
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-06-10.xlsx (6 posts) + gfr-postplanner-tobi-2026-06-10.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-10/review-dashboard.html (21 items)
+- **Notes:** RBC Canadian Open starts Thursday June 11 TPC Toronto ($9.8M; Fleetwood +1200, Fitzpatrick +1300 chasing 4th 2026 win; Poston WD); LIV Golf crisis (O'Neil can't guarantee final 4 events/PIF withdrawing/$250-350M fundraise/bankruptcy plans/new board); Scheffler Grand Slam bid (Shinnecock June 18-21/30th birthday final round/wide fairways/brutal greens); Poston WD explained (33 holes+playoff/world ranking 94→39); Dow LPGA Championship June 11-14 Midland/$3.3M/72 teams
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-09
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

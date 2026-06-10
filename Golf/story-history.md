@@ -4,6 +4,11 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-06-10 | T1 | RBC Canadian Open preview day-of: Fleetwood +1200 favorite, Fitzpatrick +1300 chasing 4th 2026 win; field: Morikawa/Koepka/Finau/Homa; $9.8M; Poston WD; TPC Toronto North Course starts Thursday | X, FB, Article | FOLLOW-UP |
+| 2026-06-10 | T1 | LIV Golf survival crisis: O'Neil CNBC June 9 — cannot guarantee final 4 events; PIF withdrawing after 2026; seeking $250-350M from investors; bankruptcy planning/Chapter 11; new independent board (Davis/Zinman); PIF chairman Al-Rumayyan stepped down | X, FB, Article | FOLLOW-UP |
+| 2026-06-10 | T2 | Scheffler Grand Slam bid: US Open Shinnecock June 18-21; final round June 21 = his 30th birthday; Scheffler scouted course (48-yd-wide fairways, brutal green complexes); 7th career Grand Slam player if wins | X, FB, Article | FOLLOW-UP |
+| 2026-06-10 | T2 | JT Poston WD from Canadian Open: recovering from 33-hole Memorial Sunday + playoff win; $4M/4th career win/world ranking 94→39/US Open exemption | X, FB, Article | FOLLOW-UP |
+| 2026-06-10 | T2 | Dow Championship LPGA June 11-14 Midland Michigan: 72 teams/$3.3M; team format dynamics; complement to Canadian Open week | X, FB, Article | FOLLOW-UP |
 | 2026-06-09 | T1 | RBC Canadian Open preview (June 11-14, TPC Toronto Hoot Course); Fitzpatrick (+1200, chasing 4th 2026 win) + Fleetwood (+1200) co-favorites; no Scheffler/McIlroy; Morikawa/Rose in field; 9 days before US Open | X, FB, Article | NEW STORY |
 | 2026-06-09 | T1 | US Open preview: Shinnecock Hills June 18-21; Scheffler Grand Slam bid (7th player ever); final round June 21 = Scheffler 30th birthday + Father's Day; McIlroy defending Masters champ; Koepka 2018 winner (+1 par); par 70/7,434 yds | X, FB, Article | FOLLOW-UP |
 | 2026-06-09 | T2 | Dow Championship LPGA preview (June 11-14, Midland CC Michigan); 72 teams, $3.3M purse; foursomes + fourballs format; Im/Lee defending; Inkster/Yin; Jutanugarn sisters; Iwai twins | X, FB, Article | NEW STORY |
