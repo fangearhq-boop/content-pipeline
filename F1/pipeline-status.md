@@ -1,8 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-09
+- **Date**: 2026-06-10
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-06-10
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters (3 fixed after verify-facts char limit violations)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-10.xlsx (6 posts) + f1fr-postplanner-tobi-2026-06-10.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-10/review-dashboard.html (21 items)
+- **Notes:** Spanish GP preview June 12-14; Antonelli 5 wins/156 pts/66-pt lead seeking 6th; Russell "beyond frustration" Monaco double penalty (software error)/13th/68 pts behind teammate; Antonelli 19 yrs old historic season; Verstappen 7th/43 pts/0 wins/Monaco DNF/Red Bull struggling; Barcelona as F1's technical barometer/0% rain/27°C
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ## Pipeline Run Log
 

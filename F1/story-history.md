@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-10
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spanish GP preview June 12-14 Barcelona; Antonelli 5 wins in a row/156 pts/66-pt lead seeking 6th; Russell bounce-back; Hamilton chasing; Verstappen 7th/43 pts | 1 | FOLLOW UP |
+| 2 | Russell "beyond frustration" — double Monaco penalty (software error + drive-through); 13th place; 68 pts behind teammate; Wolff admits team confusion; Barcelona reset | 1 | FOLLOW UP |
+| 3 | Antonelli historic season: 5 wins, 156 pts, 66-pt lead, 19 yrs old, Monaco from pole in chaotic race; Mercedes +79 constructors | 2 | FOLLOW UP |
+| 4 | Verstappen 7th/43 pts/0 wins/0 poles in 2026; Monaco DNF (stalled lap 1 power unit); Red Bull can't match Mercedes; Austrian GP June 26-28 key test | 2 | FOLLOW UP |
+| 5 | Barcelona as F1's ultimate technical barometer; teams use it as primary development reference; sunny 27°C/0% rain; what Round 7 reveals about 2026 championship | 2 | NEW STORY |
+
+### STORY 1: Spanish GP Preview — Antonelli Seeks Sixth Win
+- **Tier:** 1
+- **Category:** Race Preview / F1 2026
+- **Key facts:** Spanish GP: June 12-14, Circuit de Barcelona-Catalunya; FP1 Friday 12:30 local; Race Sunday 3 PM local (9 AM ET); Antonelli 156 pts/5 wins/66-pt lead; Hamilton 90 pts P2; Russell 88 pts P3; Mercedes +79 constructors over Ferrari; Verstappen 43 pts P7; weather sunny/27°C/0% rain
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result Sunday June 14; qualifying Saturday
+
+### STORY 2: Russell "Beyond Frustration" — Monaco Double Penalty
+- **Tier:** 1
+- **Category:** Driver Feature / George Russell
+- **Key facts:** Monaco: pit-lane speeding penalty (software error per team); drive-through for not serving correctly; fell from podium to 13th; quote: "I'm beyond frustration now, it's just struggling to comprehend how on earth this season is panning out"; Wolff admitted team confusion; 2nd consecutive race without points; 68 pts behind Antonelli
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Russell's Barcelona qualifying and race result
+
+### STORY 3: Antonelli's Historic Season Numbers
+- **Tier:** 2
+- **Category:** Driver Feature / Kimi Antonelli
+- **Key facts:** 5 consecutive wins; 156 pts; 66-pt lead over Hamilton; 19 years old; Monaco win from pole in chaotic 7-DNF red-flag race; Mercedes +79 constructors over Ferrari; Formula1.com compared to historic dominant starts
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Whether streak extends to 6 at Barcelona
+
+### STORY 4: Verstappen Fading Title Defense
+- **Tier:** 2
+- **Category:** Driver Feature / Max Verstappen
+- **Key facts:** 7th in standings/43 pts; Monaco DNF stalled lap 1 power unit; 0 wins, 1 podium, 0 poles in 2026; Red Bull cannot match Mercedes; exit clause tied to Austrian GP June 26-28; 113 pts behind Antonelli
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen Barcelona; Austrian GP outcome vs exit clause
+
+### STORY 5: Barcelona as F1's Technical Barometer
+- **Tier:** 2
+- **Category:** Circuit Analysis / Technical
+- **Key facts:** Circuit de Barcelona-Catalunya = teams' primary development reference for decades; long/medium-speed corners demand complete technical package; weather sunny 27°C/0% rain; cleanest possible pecking-order test
+- **Status:** NEW STORY
+- **Follow-up ideas:** Whether Barcelona confirms or narrows 2026 gaps
+
 ## 2026-06-09
 
 | # | Story | Tier | Tag |

@@ -1,0 +1,249 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-10",
+  "compiled_at": "2026-06-10T11:22:22.353666+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Spanish GP Preview — Antonelli Goes for Six at Barcelona",
+      "tier": 1,
+      "status": "",
+      "angle": "The Barcelona-Catalunya Grand Prix (June 12-14) is Round 7 of 2026; Kimi Antonelli seeks a record sixth consecutive win; Barcelona is the truest test of technical excellence on the calendar — if a car works here, it works everywhere; Russell needs a bounce-back after his Monaco disaster; Hamilton chases back-to-back podiums; weather perfect (27°C, 0% rain)",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Spanish GP weekend starts Friday.\n\nKimi Antonelli: 5 wins in a row. 156 points. 66 clear of Hamilton.\n\nCan anyone stop him at Barcelona? If not now, when?\n\nFP1: Friday. Race: Sunday 9 AM ET. #F1 #SpanishGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Barcelona is Formula 1's ultimate reality check.\n\nEvery team uses this circuit as its technical benchmark. A car fast here is fast everywhere.\n\nSix races in, Mercedes is the class of the field. Round 7 starts Friday.\n\nAny reason to think that changes? #F1 #SpanishGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-spanish-gp-preview-antonelli-six-wins.html",
+        "headline": "Spanish GP Preview: Antonelli Chases Six in a Row at Formula 1's Toughest Test",
+        "word_count": 691
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spanish GP Preview — Antonelli Goes for Six at Barcelona\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Overlay text:** \"5 WINS IN A ROW. BARCELONA IS NEXT.\"\n- **Design notes:** Silver Mercedes palette, speed/motion blur effect, bold race weekend countdown\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Circuit de Barcelona-Catalunya F1\"\n- **Overlay text:** \"SPANISH GP. FRIDAY - SUNDAY.\"\n- **Design notes:** Track aerial or paddock feel, clean informational layout\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spanish GP Preview — Antonelli Goes for Six at Barcelona\n**Verified facts:**\n- Barcelona-Catalunya Grand Prix: June 12-14, 2026 (Round 7 of 22) — [HIGH]\n- FP1: Friday June 12, 12:30 PM local; FP2: 4:00 PM local — [HIGH]\n- FP3: Saturday June 13, 11:30 AM local; Qualifying: 3:00 PM local — [HIGH]\n- Race: Sunday June 14, 3:00 PM local — [HIGH]\n- Weather: Sunny, 27°C highs, 0% rain expected all weekend — [HIGH]\n- Antonelli seeking 6th consecutive win — [HIGH]\n- Barcelona historically rewards teams with the most complete technical package — [HIGH]\n- Championship context: Antonelli 156 pts, Hamilton 90, Russell 88 — [HIGH]\n- Mercedes leads constructors by 79 points over Ferrari — [HIGH]\n**Sources:** ESPN, Sky Sports, Formula1.com, GPBlog, PlanetF1",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Russell's Nightmare — \"Beyond Frustration\" After Monaco Double Penalty",
+      "tier": 1,
+      "status": "",
+      "angle": "After Monaco GP: Russell received a pit-lane speeding penalty (which the team says was a software error), then a drive-through for failing to serve it — fell from podium contention to 13th; quote: \"I'm beyond frustration now, it's just struggling to comprehend how on earth this season is panning out\"; 68 points behind his own teammate; Toto Wolff admitted team confusion; Barcelona is his chance to reset",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "George Russell after Monaco:\n\n\"I'm beyond frustration. Struggling to comprehend how this season is panning out.\"\n\nTwo races without points. A penalty his own team says was a software error. 68 points behind his teammate.\n\nBarcelona has to be different. #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-russell-beyond-frustration-monaco-penalty.html",
+        "headline": "George Russell Is \"Beyond Frustration\" — And His Season Can't Get Much Worse",
+        "word_count": 684
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell's Nightmare — \"Beyond Frustration\"\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"George Russell Mercedes\"\n- **Overlay text:** \"'BEYOND FRUSTRATION.' — GEORGE RUSSELL\"\n- **Design notes:** Muted grey tones reflecting frustration, bold pull-quote format\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"George Russell Mercedes\"\n- **Overlay text:** \"2 STRAIGHT RACES WITHOUT POINTS. BARCELONA MUST BE DIFFERENT.\"\n- **Design notes:** Stats-focused, understated palette\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Russell's Nightmare — \"Beyond Frustration\" After Monaco Double Penalty\n**Verified facts:**\n- Monaco GP: Russell received a 5-second penalty for pit-lane speeding — [HIGH]\n- Then a drive-through penalty for failing to serve the initial sanction — [HIGH]\n- Team (and Russell) say the speeding was caused by a software issue — [HIGH]\n- Russell fell from podium contention to 13th place — [HIGH]\n- Russell quote: \"I'm beyond frustration now, it's just struggling to comprehend how on earth this season is panning out in the way it has.\" — [HIGH]\n- Toto Wolff admitted team confusion about the penalty situation — [HIGH]\n- Russell is 68 points behind teammate Antonelli (88 pts vs 156 pts) — [HIGH]\n- This was Russell's second consecutive race without points — [HIGH]\n**Sources:** Formula1.com, Motorsport.com, PlanetF1, RacingNews365, The Race",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli's Historic Season in Numbers",
+      "tier": 2,
+      "status": "",
+      "angle": "5 consecutive wins; 156 points; 66-point lead over Hamilton; 19 years old; won Monaco GP from pole in chaotic, red-flagged race; Mercedes leads constructors by 79 points over Ferrari; Antonelli's points advantage vs. historic dominant season comparisons",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Kimi Antonelli in 2026:\n\n— 5 consecutive race wins\n— 156 championship points\n— 66-point lead\n— 19 years old\n\nFor context: Mercedes also leads the Constructors' by 79 points over Ferrari.\n\nThis is dominance at an extraordinary level. #F1",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-antonelli-historic-season-numbers.html",
+        "headline": "Kimi Antonelli's Historic 2026 Season: Five Wins, Five Numbers That Tell the Story",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli's Historic Season in Numbers\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Overlay text:** \"5 WINS. 156 PTS. 19 YEARS OLD.\"\n- **Design notes:** Bold stat graphic, black/silver Mercedes colours, championship leader energy\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Overlay text:** \"HISTORIC. AND IT'S ONLY ROUND 7.\"\n- **Design notes:** Historical milestone framing, celebration aesthetic\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli's Historic Season in Numbers\n**Verified facts:**\n- Antonelli: 5 consecutive race wins (first 5 or most recent 5 — need to clarify) — [MEDIUM]\n- Actually: Monaco was his 5th win in a row per multiple sources — [HIGH]\n- Antonelli: 156 championship points — [HIGH]\n- Lead over Hamilton (P2): 66 points — [HIGH]\n- Lead over Russell (P3, teammate): 68 points — [HIGH]\n- Antonelli is 19 years old — [HIGH]\n- Won Monaco Grand Prix from pole position — [HIGH]\n- Monaco was chaotic: red flag at lap 68, 7 DNFs — [HIGH]\n- Mercedes leads constructors by 79 points over Ferrari — [HIGH]\n- Antonelli's points lead vs historical dominant seasons: article on Formula1.com discusses this comparison — [MEDIUM]\n**Sources:** Formula1.com, Sky Sports, RaceFans, Total-Motorsport",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen's Fading Title Defense — From Champion to 7th",
+      "tier": 2,
+      "status": "",
+      "angle": "Verstappen sits 7th in the standings with 43 points after Monaco DNF (stalled on lap 1, power unit issue); no wins this season; 1 podium; Red Bull cannot match Mercedes' pace; exit clause tied to Austrian GP (June 26-28); far from the top 2 in standings",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Max Verstappen in 2026 so far:\n\n— 43 points (7th in standings)\n— 0 wins\n— 1 podium\n— Monaco DNF (stalled lap 1)\n\nFrom 4-time champion to 113 points behind the leader.\n\nRed Bull simply cannot match Mercedes this season. #F1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-verstappen-fading-title-defense-2026.html",
+        "headline": "Max Verstappen's 2026 Season: From Four-Time Champion to Seventh in the Standings",
+        "word_count": 659
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen's Fading Title Defense\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Overlay text:** \"43 POINTS. 7TH IN THE STANDINGS. WHERE DID IT GO?\"\n- **Design notes:** Contrasting dark tones, question format drives engagement\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Overlay text:** \"FROM 4-TIME CHAMPION TO 7TH PLACE.\"\n- **Design notes:** Before/after narrative implied, bold contrast\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen's Fading Title Defense\n**Verified facts:**\n- Verstappen: 7th in drivers' championship with 43 points after Monaco GP — [HIGH]\n- Monaco DNF: stalled on lap 1, power unit issue — [HIGH]\n- Season record: 0 wins, 1 podium, 0 pole positions in 2026 so far — [HIGH]\n- Verstappen's exit clause: reportedly tied to performance threshold at Austrian GP (June 26-28) — [MEDIUM - conflicting reports on exact threshold]\n- Austrian GP: June 26-28, 2026 — [HIGH]\n- Red Bull significantly behind Mercedes in 2026 performance — [HIGH]\n**Sources:** Sportbible, GPFans, Motorsport.com, ESPN",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Why Barcelona Is Formula 1's Ultimate Reality Check",
+      "tier": 2,
+      "status": "",
+      "angle": "The Circuit de Barcelona-Catalunya is the true technical barometer of F1; teams have used it as a development reference for decades; long and medium-speed corners reward downforce and mechanical balance; if a car is fast here, it will be fast almost anywhere; what does the Spanish GP mean for the 2026 championship narrative?",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Why does Barcelona matter more than any other race?\n\nTeams have used it as their primary development benchmark for decades.\n\nA car that works there works almost everywhere.\n\nIn 2026, that's very good news for Mercedes. Race Sunday. #F1 #SpanishGP",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-barcelona-f1-technical-barometer.html",
+        "headline": "Why Barcelona Is Formula 1's Ultimate Reality Check — And What This Weekend Will Reveal",
+        "word_count": 663
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Barcelona as F1's Technical Barometer\n\n#### Image Concept 1 — X Social (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"F1 Circuit de Barcelona-Catalunya\"\n- **Overlay text:** \"THE TRUTH CIRCUIT. ROUND 7 STARTS FRIDAY.\"\n- **Design notes:** Track-focused visual, clean analytical aesthetic\n\n#### Image Concept 2 — Facebook (1080x1350)\n- **Type:** imagn photo + text overlay\n- **Search terms:** \"Kimi Antonelli Mercedes F1\"\n- **Overlay text:** \"IF YOU'RE FAST HERE, YOU'RE FAST EVERYWHERE.\"\n- **Design notes:** Technical/analytical framing, silver palette"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Barcelona as F1's Technical Barometer\n**Verified facts:**\n- Circuit de Barcelona-Catalunya: long and medium-speed corners; rewards downforce and balance — [HIGH]\n- Teams historically use Barcelona as primary development reference point — [HIGH]\n- A car that works at Barcelona typically works well across the season — [HIGH]\n- Weather at Barcelona: sunny, 27°C, no rain — [HIGH]\n**Sources:** ScuderiaFans, WorldOfSpeed, PlanetF1, ESPN",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
