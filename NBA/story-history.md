@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-10
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Game 4 TONIGHT at MSG 8:30 PM ET ABC — Knicks lead 2-1; road team won all 3 (only 2nd in Finals history); Knicks -1.5; Mike Brown questions FT disparity; Brunson efficiency key | 1 | FOLLOW UP |
+| 2 | Giannis trade saga — Heat frontrunner but Giannis concerned about post-trade roster quality; Thunder out; Celtics no direct talks; $275M extension increasingly real; June 23 deadline | 1 | FOLLOW UP |
+| 3 | AJ Dybantsa 13 days from history — "100%" No. 1 to Wizards -450; Peterson No. 2 Jazz; Boozer No. 3; first Washington No. 1 since John Wall 2010 | 2 | FOLLOW UP |
+| 4 | Wembanyama's two-game arc — errant pass Game 2 → 32-pt masterclass Game 3; mental reset quote; can he deliver again tonight? | 2 | FOLLOW UP |
+| 5 | Road-team curse deep dive — only 2nd Finals ever where road team won all 3 openers; Spurs win tonight would be first 4-0 road start in Finals history | 2 | NEW STORY |
+
+### STORY 1: Game 4 TONIGHT — Knicks vs Spurs at MSG
+- **Tier:** 1
+- **Category:** NBA Finals / Game Night Preview
+- **Key facts:** Game 4: June 10, 8:30 PM ET, ABC, MSG; Knicks lead 2-1; road team won all 3 (only 2nd time in Finals history); Knicks -1.5 favorites (FanDuel); total 216.5; Mike Brown questioned FT disparity after Game 3; Brunson 32 pts Game 3; OG 28 pts; Spurs win = 2-2, Knicks win = one from title
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 4 result recap
+
+### STORY 2: Giannis Trade — Heat Frontrunner, Roster Concerns
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Heat frontrunner; Giannis concerned about post-trade roster (Adebayo + Wiggins + role players); expected package: Herro + Jaquez Jr. + Ware + multiple picks; Thunder out; Celtics no direct talks; $275M extension Oct 1; June 23 deadline; Haslam wants resolved by draft
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade finalized or extension announced
+
+### STORY 3: AJ Dybantsa — 13 Days to Draft
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** Draft June 23-24 Barclays Center Brooklyn; Dybantsa "100%" to Wizards -450; 25.5 PPG/51.0% FG/6-9 BYU; Peterson No. 2 Jazz; Boozer No. 3 Grizzlies; Bulls No. 4; Clippers No. 5; first Washington No. 1 since John Wall 2010; Wizards 17-65
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Draft night coverage June 23
+
+### STORY 4: Wembanyama's Two-Game Arc
+- **Tier:** 2
+- **Category:** Player Analysis / Spurs
+- **Key facts:** Game 2: errant pass 13 sec left → Knicks win; Wemby quote: "We can't change the past. We're already thinking about Game 3."; Game 3: 32 pts/8 reb/6 ast/3 blk/2 stl; dominant performance MSG; can he deliver again in Game 4?
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Wemby Game 4 performance
+
+### STORY 5: Road-Team Curse — Historical Context
+- **Tier:** 2
+- **Category:** Historical Analysis / NBA Finals
+- **Key facts:** Road team won Games 1, 2, 3; only 2nd Finals ever with this pattern through 3 games; if Spurs win Game 4 = first time visiting team went 4-0 to open Finals in NBA history; home crowd pressure as possible explanation
+- **Status:** NEW STORY
+- **Follow-up ideas:** Whether pattern continues; analysis of home/road splits
+
 ## 2026-06-09
 
 | # | Story | Tier | Tag |

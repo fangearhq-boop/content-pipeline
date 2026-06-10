@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-09
+- **Date**: 2026-06-10
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-10
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-06-10.xlsx (6 posts) + hh-postplanner-tobi-2026-06-10.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-10/review-dashboard.html (21 items)
+- **Notes:** Game 4 TONIGHT 8:30 PM ET ABC MSG; Knicks lead 2-1; road team won all 3 (only 2nd in Finals history); Knicks -1.5/total 216.5; Mike Brown questioned FT disparity; Giannis — Heat frontrunner but roster concerns/Thunder out/Celtics no talks/$275M extension real/June 23 deadline; Dybantsa "100%" No. 1 Wizards -450/13 days to June 23 draft; Wemby two-game arc (errant pass → 32-pt masterclass); Road-team curse history deep dive
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-09
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
