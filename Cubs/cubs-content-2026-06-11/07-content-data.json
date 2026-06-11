@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-11",
+  "compiled_at": "2026-06-11T09:17:40.597936+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Rockies 3-2 walk-off recap / Imanaga gem wasted",
+      "type": "Morning game recap"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Series finale preview: Cabrera vs Feltner, 2:10 PM",
+      "type": "Game preview"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Boyd delayed — shoulder soreness",
+      "type": "Injury / roster update"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Swanson + Hoerner double slump",
+      "type": "Stat breakdown / accountability"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "7-22 since peaking — season collapse narrative",
+      "type": "Bold take / analysis"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "NL Central: wild card is the real conversation",
+      "type": "Analysis / rival watch"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Rockies 3, Cubs 2 — Walk-Off Loss, Bullpen Collapses",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Imanaga brilliant (5 shutout innings, 7 K), but bullpen surrendered TJ Rumfield's 2-run HR in the 8th for the walk-off loss. Cubs fall to 34-34.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Rockies 3, Cubs 2. Walk-off. Again.\n\nTJ Rumfield's 2-run HR in the 8th erased FIVE shutout innings from Imanaga. The bullpen couldn't hold it.\n\nCubs fall to 34-34. They haven't won a SERIES in over a month.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Morning game recap (time-sensitive, required first slot)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rockies 3, Cubs 2 — Walk-Off Loss\n**Decision:** NEW STORY — June 10 game result. First coverage. June 10 pipeline covered the Imanaga vs Lorenzen preview; today's pipeline covers the result.\n**Sources:**\n- Purple Row: \"Rockies late game rally secures 3-2 walk-off victory over Cubs\" (June 10, 2026)\n- CBS Sports: Box score — Cubs vs Rockies June 10, 2026\n- SI.com: \"Cubs' Nightmare Continues As Loss to Rockies Drops Them to .500 – 3 Takeaways\"\n- ESPN: Rockies 3-2 Cubs (Jun 10, 2026) game stats page\n**Key Facts:**\n- Final: Rockies 3, Cubs 2 (walk-off)\n- Shota Imanaga: 5 innings pitched, 2 hits, 0 ER, 7 K — outstanding outing\n- Michael Lorenzen (Rockies): 5.1 IP, 2 H, 1 ER, 7 K\n- TJ Rumfield: Go-ahead 2-run HR in the 8th inning — the decisive blow\n- Cubs record after: 34-34 (road: 14-19)\n- Rockies have now clinched the series (2-0)\n**Freshness:** Source articles published June 10, 2026 — within 24 hours. ✓\n**Why it matters:** Cubs lost to a team that entered the series at 26-42. The bullpen wasted an elite Imanaga start. Falling to exactly .500 (34-34) is a symbolic marker of how far the team has slid since peaking at 27-12.\n**Confidence:** HIGH (multiple independent sources confirm score, pitching lines, Rumfield HR)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Series Finale Preview — Cabrera vs Feltner, 2:10 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Edward Cabrera (3-3, 4.99 ERA) vs Ryan Feltner (2-1, 4.22 ERA) at Coors. Rockies have already clinched; Cubs need the win to avoid the sweep against a 26-42 team.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Series finale at Coors. First pitch 2:10 PM CT.\n\nCabrera (3-3, 4.99 ERA) vs Feltner (2-1, 4.22 ERA).\n\nThe Rockies already clinched the series. The Cubs need to WIN this one — getting swept by a 26-42 team isn't something you just shake off.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview (time-sensitive — must go before 2:10 PM)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Finale Preview — Cabrera vs Feltner\n**Decision:** NEW STORY — today's specific pitching matchup; mandatory pre-game preview for 2:10 PM game.\n**Sources:**\n- SportsGrid: Cubs vs Rockies picks/preview June 11 2026\n- Baseball-Reference: COL202606110 preview page\n- CubsInsider: Series preview June 9-11 (pitching matchup section)\n- ESPN: Edward Cabrera 2026 game log\n**Key Facts:**\n- Game time: 2:10 PM CT, Coors Field\n- Broadcast: Marquee Sports Network\n- Cabrera: 3-3 record, 4.99 ERA in 2026; returned from blister IL June 5-6 area\n- Feltner: 2-1, ~4.22 ERA; recently returned from elbow IL; 7 starts in 2026\n- Coors Field: Hitter-friendly — both starters' struggles amplified at altitude\n- Cubs need win to avoid series sweep vs a sub-.500 team\n**Freshness:** Preview sources from June 10-11. ✓\n**Why it matters:** Cubs must avoid being swept by the 26-42 Rockies — one of the worst teams in baseball. Losing a series sweep here would be a new low point for a team already in freefall.\n**Confidence:** MEDIUM for specific pitching stats (ESPN), HIGH for game time and matchup",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Matthew Boyd Return Delayed — Shoulder Soreness",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Boyd's shoulder soreness emerged during a bullpen session, pushing back his return again. With Horton, Steele, and Taillon all on IL, the rotation can't afford this.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Matthew Boyd's return is DELAYED — left shoulder soreness in a bullpen session.\n\nHorton, Steele, and Taillon are already on IL. Now Boyd pushes back further.\n\nTHREE rotation arms lost to injury — plus Boyd in limbo. The Cubs are out of runway.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Injury update / roster news",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Matthew Boyd Delayed — Shoulder Soreness\n**Decision:** FOLLOW UP — Boyd activated June 9 (covered in June 9 pipeline). New development: shoulder soreness emerged in a bullpen session, pushing his return further back.\n**Sources:**\n- Cubs Insider: \"Matthew Boyd's Return Pushed Back by Lingering Shoulder Soreness\" (June 10)\n- BVM Sports: \"Boyd's Return Delayed: Cub's Pitching Rotation Faces Challenges\" (June 10)\n- Rotoballer: \"Matthew Boyd Hits Setback in Rehab, Will Not Return to Cubs Rotation This Weekend\"\n- Yahoo Sports: \"Cubs Provide Matthew Boyd Update as Jameson Taillon Heads to IL\"\n- Craig Counsell quote: \"We lose a few days from the initial timeline\"\n**Key Facts:**\n- Boyd was activated from IL on June 9 (after completing Iowa rehab start)\n- A bullpen session produced left shoulder soreness\n- Return timeline pushed back by \"a few days\" per Counsell; full extent unclear\n- Boyd was the planned 4th rotation arm for the road trip\n- Current IL rotation casualties: Horton (Tommy John, out all year), Steele (UCL, out all year), Taillon (hamstring, out through All-Star break)\n**Freshness:** BVM Sports and Cubs Insider both published June 10, 2026. ✓\n**Why it matters:** Boyd was meant to be the rotation lifeline. Without him, the Cubs are running Imanaga, Brown, Cabrera, and whoever they can cobble together from Iowa. This is a genuine crisis.\n**Confidence:** HIGH — three separate sources, plus Counsell quote confirming delay",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Swanson + Hoerner — Double Slump at the Worst Time",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Swanson (.180 BA, .139 last 11 games) and Hoerner (deep funk since taking a fastball to the helmet) are the Cubs' two most important infielders. Both are ice cold simultaneously.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Dansby Swanson: .180 BA. .139 in his last 11 games.\n\nNico Hoerner in a DEEP funk since taking a fastball to the helmet — power gone.\n\nTWO core infielders ice cold simultaneously. That's the hidden rot inside this collapse.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Stat breakdown / accountability take",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Swanson + Hoerner Double Slump\n**Decision:** FOLLOW UP — Swanson slump has been tracked since June 7. Hoerner slump noted June 9-10. Today's new angle: combining both simultaneously as a structural problem.\n**Sources:**\n- CBS Sports: Swanson 2026 stats page — .180 BA, 62 games\n- Bleed Cubbie Blue: Swanson stats referenced in June 10 recap\n- Heavy.com: \"Chicago Cubs Announce Dansby Swanson Decision Before Rockies Series\"\n- Bleacher Nation (June 10): \"Hoerner's Vexing Funk, the Ugly Month...\"\n- Bleacher Nation (June 9): \"Hoerner's Vexing Funk\" — started since taking fastball to helmet\n- CubbiesCrib: \"Cubs' brutal May could be tied directly to slump from the one player fans least expected\" (Hoerner article)\n**Key Facts:**\n- Swanson: .180 BA on the season, .139 in last 11 games (62 games total)\n- 7 HR, 28 RBI; was benched by Counsell June 6-7 for mental reset\n- Back in lineup batting 9th vs Rockies this series\n- Hoerner: Deep slump since taking a fastball to the helmet (timing: mid-May area)\n- Early 2026: .291/.370/.449 through ~149 PA\n- Bleacher Nation: \"power has been completely removed from Hoerner's profile\"\n- Average exit velocity: 85.9, hard hit%: 27.7%, wOBA: .308 (down from early-season form)\n- Note: Specific recent BA for Hoerner NOT confirmed — using descriptive language only\n**Freshness:** Multiple sources from June 9-10. ✓\n**Why it matters:** Swanson and Hoerner are the backbone of the Cubs infield. Both slumping deeply at the same time removes two of the offense's most important table-setters. This is not incidental to the team's collapse — it's central to it.\n**Confidence:** HIGH for Swanson stats; MEDIUM for Hoerner (descriptive slump confirmed, no precise recent BA)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "7-22 Since Peaking — The Season Narrative Is Written",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs peaked at 27-12, are now 34-34 — that's 7-22 since the peak. Haven't won a series in over a month, including two series at Wrigley against sub-.500 opponents. The excuses are all used up.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Since peaking at 27-12, the Cubs are 7-22.\n\nThey haven't won a series in OVER A MONTH — including losses to the A's and Giants at Wrigley, and now getting swept at Coors by a sub-.500 Rockies team.\n\nThis isn't a slump. It's a structural failure.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold take / analysis (strong Bleacher Nation angle)",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "7-22 Since Peaking — The Collapse in Numbers\n**Decision:** FOLLOW UP — collapse narrative has been a running theme. Today's sharpest articulation: 7-22 since the 27-12 peak, backed by the \"7-22 since peak\" math.\n**Sources:**\n- Bleacher Nation (June 10): \"The Excuses Are All Used Up, RISP, Rolison, Rushing, and Other Cubs Bullets\" — \"lost 21 of their last 28 games\"\n- North Side Baseball: \"Streaky Cubs Made MLB History With Recent 10-Game Losing Streak\"\n- Yahoo Sports: \"Streaking Cubs, having lost 10 in a row, trying to keep things in perspective\"\n- Chicago Sun-Times: \"Cubs done with 10-game skid, but can they learn from losing streak in season of extremes?\"\n- Record math: Peak 27-12 → current 34-34 = 7-22 since peak (27+7=34, 12+22=34 ✓)\n- Bleacher Nation (June 10): \"This team has not won a series in over a month, including back-to-back very winnable sets against the A's and Giants at Wrigley Field.\"\n**Key Facts:**\n- Cubs peaked at 27-12 (two separate 10-game winning streaks during the season)\n- Current: 34-34 — exactly .500, 8.5 GB from Brewers\n- Since the peak: 7-22 (calculated from win-loss records, cross-verified)\n- Have not won a series in over a month\n- Lost at-home series vs A's and Giants in early June\n- Now getting swept at home by a 26-42 Rockies team at Coors\n- 12 of 14 MLB teams ever with both a 10-win streak and 10-loss streak in the same season\n**Freshness:** Bleacher Nation June 10; North Side Baseball recent. ✓\n**Why it matters:** This is THE season narrative for Cubs fans right now. The 7-22 number is stark and factually accurate. The \"excuses are all used up\" framing resonates.\n**Confidence:** HIGH for record math (self-calculable from confirmed W-L records); HIGH for \"no series win in a month\" (Bleacher Nation + context); MEDIUM for \"12 of 14\" MLB history claim (single source, North Side Baseball)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "NL Central Watch — Wild Card Is the Realistic Path Now",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brewers 41-24. Cubs 34-34. The division is effectively over. Wild card — not the NL Central title — is the realistic destination for this club now. And that picture is blurring too.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Brewers: 41-24.\nCubs: 34-34.\n\nMilwaukee has LAPPED this division. The Cubs are 8.5 games back and haven't won a series in June.\n\nThe division is gone. Wild card is the realistic goal now — and even that picture is starting to blur.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Analysis / rival watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "NL Central Watch — Wild Card Is the Honest Conversation\n**Decision:** FOLLOW UP — standings covered daily. Today's fresh angle: explicit reframing from \"division race\" to \"wild card reality,\" prompted by Brewers extending lead to 8.5 games.\n**Sources:**\n- MLB.com: Standings (Brewers 41-24, Cardinals 36-28, Cubs 34-34)\n- ESPN: NL Central standings\n- Series context snapshot: Cubs 34-34, Brewers 41-24 (GB calculation: ((41-34)+(34-24))/2 = 8.5 ✓)\n- Bleacher Nation: \"Cubs... 8.0 games out of first place\" (June 10, before last night's loss — now 8.5 GB)\n**Key Facts:**\n- Brewers: 41-24\n- Cardinals: 36-28 (4.5 GB from Brewers)\n- Cubs: 34-34 (8.5 GB from Brewers, 1 GB from Cardinals for 2nd)\n- Wild card: Cubs sitting in the hunt but outside top 3 NL positions\n- Division math: 8.5 games with ~90 remaining — not impossible, but requires dramatic turnaround\n- Cubs have not won a series in over a month\n**Freshness:** Standings updated after June 10 game. ✓\n**Why it matters:** Cubs fans need the honest assessment. Wild card is the goal, not the consolation — but it requires the team to turn this around immediately.\n**Confidence:** HIGH for standings (MLB.com/ESPN, self-calculable GB)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

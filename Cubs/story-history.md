@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-11
+
+### STORY 1: Rockies 3, Cubs 2 — Walk-Off Loss, Bullpen Collapses
+- **Angle:** NEW STORY (June 10 game result — first coverage; Imanaga gem wasted, TJ Rumfield 2-run HR in 8th)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led recap)
+- **Follow-Up Opportunities:**
+  - Today's series finale result (Cubs trying to avoid sweep)
+  - Bullpen accountability — who blew the 8th inning lead?
+  - Imanaga's season arc if his gems keep getting wasted
+
+### STORY 2: Series Finale Preview — Cabrera vs Feltner, 2:10 PM CT
+- **Angle:** NEW STORY (today's specific matchup; Cubs trying to avoid 0-3 sweep at Coors vs a 26-42 Rockies team)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, pre-game preview with pitching stats)
+- **Follow-Up Opportunities:**
+  - Cabrera's performance (ERA tracking, strikeout rate)
+  - Series finale result as lead story tomorrow morning
+  - Boyd's return to bolster rotation depth
+
+### STORY 3: Matthew Boyd Return Delayed — Shoulder Soreness
+- **Angle:** FOLLOW UP (Boyd activated June 9; new development = shoulder soreness in bullpen session pushes return further back)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, injury update)
+- **Follow-Up Opportunities:**
+  - Boyd's actual activation date and first start
+  - Trade deadline rotation reinforcement angle (July 31)
+  - Full picture: Horton + Steele + Taillon + Boyd all unavailable simultaneously
+
+### STORY 4: Swanson + Hoerner — Double Slump
+- **Angle:** FOLLOW UP (Swanson slump first tracked June 7; Hoerner funk first noted June 9-10; combined angle is new today)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, stat breakdown / accountability)
+- **Follow-Up Opportunities:**
+  - Swanson's performance in the series finale — any bounce-back?
+  - Hoerner hitting update if production picks up or worsens
+  - Matt Shaw as a potential increased-role option if slumps persist
+
+### STORY 5: 7-22 Since Peaking — Season Collapse Narrative
+- **Angle:** FOLLOW UP (collapse narrative tracked across multiple days; today's sharpest articulation: 7-22 record since 27-12 peak + "no series win in over a month" confirmation)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, bold take / analysis)
+- **Follow-Up Opportunities:**
+  - Series finale result updates the "still can't win a series" narrative
+  - Trade deadline rotation fix as next big turnaround lever
+  - Historical comp: this team joins rare company with two 10-game win streaks + 10-game losing streak in one season
+
+### STORY 6: NL Central Watch — Wild Card Is the Honest Conversation
+- **Angle:** FOLLOW UP (standings covered daily; today's fresh angle = explicit reframing from division race to wild card reality, prompted by Brewers 8.5 GB lead)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, analysis / standings context)
+- **Follow-Up Opportunities:**
+  - Daily standings update after series finale result
+  - NL Wild Card standings — who are the Cubs competing with?
+  - Brewers schedule check — any vulnerability in their run?
+
+---
+
 ## 2026-06-09
 
 ### STORY 1: Series Preview — Cubs Open 3 Games at Coors Field
