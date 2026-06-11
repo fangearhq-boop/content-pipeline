@@ -1,0 +1,252 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-11",
+  "compiled_at": "2026-06-11T11:22:01.898552+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Spanish GP Race Week — Can Antonelli Match Schumacher's Six Straight?",
+      "tier": 1,
+      "status": "",
+      "angle": "The 2026 F1 season arrives at Circuit de Barcelona-Catalunya for Round 8 (June 12–14); Kimi Antonelli enters with five consecutive wins and 156 points, a 66-point lead over Lewis Hamilton; a sixth straight win would equal Michael Schumacher's record of six consecutive victories from 2000-2001; FP1 Friday 7:30 AM ET, FP2 11:00 AM ET, Qualifying Saturday, Race Sunday 9:00 AM ET on ESPN",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RACE WEEK IS HERE. 🏁\n\nKimi Antonelli arrives in Barcelona with 5 consecutive wins and a 66-point lead.\n\nA 6th straight victory = Michael Schumacher's record. Nobody has done it since 2001.\n\nFP1 tomorrow. Qualifying Saturday. Race Sunday 9AM ET. #F1 #SpanishGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 1-2",
+          "text": "5 straight wins. 156 points. 66-point championship lead.\n\nKimi Antonelli is 19 years old.\n\nHe could tie Schumacher's consecutive-wins record on Sunday in Barcelona.\n\nThe most dominant debut season in modern F1 history? #F1 #SpanishGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-spanish-gp-antonelli-schumacher-six-straight.html",
+        "headline": "Spanish GP Preview: Can Antonelli Match Schumacher's Six Consecutive Wins?",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Spanish GP Preview — Antonelli Hunting Schumacher Record\n\n#### X Image Concept\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Overlay text:** \"5 WINS IN A ROW. SCHUMACHER'S RECORD IS ONE RACE AWAY.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Dominance, historic milestone energy\n\n#### Facebook Image Concept\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Overlay text:** \"RACE WEEK. BARCELONA. CAN ANYONE STOP HIM?\"\n- **Dimensions:** 1080x1350\n- **Mood:** Anticipation, championship stakes\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Spanish GP Preview — Antonelli vs Schumacher Record\n**Verified Facts (HIGH confidence):**\n- Spanish GP (Round 8): June 12-14, Circuit de Barcelona-Catalunya\n- FP1: Friday June 12, 7:30 AM ET (13:30 CEST); FP2: Friday June 12, 11:00 AM ET (17:00 CEST)\n- Race: Sunday June 14, ~9:00 AM ET (15:00 CEST)\n- Kimi Antonelli (Mercedes): 5 consecutive wins — China, Japan, Miami, Canada, Monaco\n- Antonelli championship points: 156\n- Championship lead over Hamilton: 66 pts\n- A 6th consecutive win would tie Michael Schumacher's record of 6 straight (2000 Italian GP through 2001 Malaysian GP)\n- Antonelli sits joint-eighth on all-time list for consecutive wins (tied at 5)\n- Antonelli: only driver in F1 history to win first five career victories consecutively\n- Mercedes has won every race of the 2026 season so far (7 of 7)\n- Barcelona traditionally suits Mercedes\n- Circuit de Barcelona-Catalunya: 4.657 km",
+        "sources": "- Source: Planet F1, F1.com official stats, GPBlog\n**Verified Facts (MEDIUM confidence):**\n- Race temperature forecast: ~30°C Sunday (single weather source)\n- FP1 session: Antonelli will sit out FP1 at Barcelona (per driver development obligation — one source)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Russell's Redemption Race — Barcelona Must Reverse His Title Freefall",
+      "tier": 1,
+      "status": "",
+      "angle": "George Russell arrived in 2026 as the championship leader after Australia, but five rounds of Antonelli dominance and Monaco's catastrophic double penalty have left him 68 points behind his own teammate; at a circuit where he has excelled and where Mercedes runs fastest, Barcelona is his best chance to reverse the narrative before the gap becomes insurmountable",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "George Russell WON the opening race of 2026 in Australia.\n\nHe is now 68 points behind his own teammate.\n\nSame car. Same team. Seven races.\n\nBarcelona is his best circuit. If there's a time to fight back, it's this weekend. #F1 #SpanishGP",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-russell-championship-freefall-barcelona-redemption.html",
+        "headline": "Russell's Championship Freefall: Can Barcelona Reverse the Damage?",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Russell's Redemption\n\n#### X Image Concept\n- **Search terms:** \"George Russell Mercedes\"\n- **Overlay text:** \"WON AUSTRALIA. 68 POINTS BEHIND HIS TEAMMATE. SAME CAR.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Tension, determination\n\n#### Facebook Image Concept\n- **Search terms:** \"George Russell Mercedes\"\n- **Overlay text:** \"BARCELONA IS HIS BEST CHANCE. CAN RUSSELL FIGHT BACK?\"\n- **Dimensions:** 1080x1350\n- **Mood:** Comeback narrative\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "George Russell — Championship Freefall\n**Verified Facts (HIGH confidence):**\n- Russell opened 2026 by winning Australian GP (led championship with 51 pts after 2 rounds including sprint)\n- Russell current points: 88\n- Antonelli current points: 156\n- Gap Russell → Antonelli: 68 points\n- Monaco: Russell received drive-through penalty (pit lane speeding violation); finished P14; \"beyond frustration\"\n- Previously covered: Russell called Monaco result \"a software error\"; Toto Wolff admitted team confusion\n- Russell sits P3 in championship behind Antonelli and Hamilton",
+        "sources": "- Source: F1.com standings, Yahoo Sports, Planet F1 (all confirming championship positions)"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Hamilton Closing In on First Ferrari Victory",
+      "tier": 2,
+      "status": "",
+      "angle": "Lewis Hamilton has finished second in back-to-back races for Ferrari; he says \"a first Ferrari win couldn't be closer\"; at 90 points he now leads the Ferrari drivers' battle with Leclerc and is P2 in the championship; Barcelona is a circuit where Hamilton won six times with Mercedes",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lewis Hamilton on his first Ferrari win:\n\n\"It couldn't be closer.\"\n\nP2 in back-to-back races. P2 in the championship. At a circuit where he won SIX times with Mercedes.\n\nThis weekend. Barcelona. #F1 #SpanishGP",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-hamilton-ferrari-first-win-closest.html",
+        "headline": "Hamilton: \"A First Ferrari Win Couldn't Be Closer\" — Can Barcelona Deliver?",
+        "word_count": 597
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton and Ferrari\n\n#### X Image Concept\n- **Search terms:** \"Lewis Hamilton Ferrari\"\n- **Overlay text:** \"'A FIRST FERRARI WIN COULDN'T BE CLOSER.' — HAMILTON\"\n- **Dimensions:** 1080x1350\n- **Mood:** Determination, historic weight\n\n#### Facebook Image Concept\n- **Search terms:** \"Lewis Hamilton Ferrari\"\n- **Overlay text:** \"P2. P2. HE WON HERE 6 TIMES. IS THIS THE WEEKEND?\"\n- **Dimensions:** 1080x1350\n- **Mood:** Anticipation, history\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Lewis Hamilton and Ferrari\n**Verified Facts (HIGH confidence):**\n- Hamilton current championship position: P2, 90 points\n- Hamilton has finished P2 in back-to-back races for Ferrari (Monaco P2, Japan P2 per pattern of results)\n- Hamilton quote: \"a first Ferrari win couldn't be closer\" — per Planet F1/F1.com previews\n- Barcelona: Hamilton won the Spanish GP six times with Mercedes (confirmed track record)\n- Hamilton now P2 in championship ahead of Russell (90 vs 88 pts)",
+        "sources": "- Source: F1.com, Planet F1, ESPN\n**Verified Facts (MEDIUM confidence):**\n- Hamilton won back-to-back P2 results — need to confirm specific races (Monaco confirmed P2; one source said P2 in Canada but Russell's Canada result was messy — checking: previous pipeline notes said \"Hamilton P2 Ferrari at 90 pts\" after Monaco, had also been P3 Monaco in one reference then P2 in another)\n- Using HIGH confidence: Hamilton P2 at Monaco (confirmed by pipeline status June 8 notes: \"Hamilton P2\")"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen's 2026 Nightmare — Red Bull Falling Further Behind",
+      "tier": 2,
+      "status": "",
+      "angle": "Max Verstappen sits seventh in the championship with 43 points and zero wins; the four-time champion has been unable to find the pace that made him untouchable under the old regulations; with the season reaching its quarter-mark, Red Bull's 2026 technical direction is under intense scrutiny",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Max Verstappen. 4-time World Champion. 2026 season:\n\n0 wins. 43 points. 7th in the championship.\n\nRound 8 of 22.\n\nThe new regulations have changed everything. #F1 #SpanishGP",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 173
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-verstappen-red-bull-2026-nightmare.html",
+        "headline": "Zero Wins in Eight Rounds: Inside Verstappen's 2026 Nightmare at Red Bull",
+        "word_count": 604
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Struggles\n\n#### X Image Concept\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Overlay text:** \"4X WORLD CHAMPION. 2026: 0 WINS. 43 POINTS. P7.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Stark contrast, drama\n\n#### Facebook Image Concept\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Overlay text:** \"THE REGULATIONS CHANGED EVERYTHING.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Downfall narrative\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen / Red Bull 2026 Crisis\n**Verified Facts (HIGH confidence):**\n- Verstappen 2026 championship position: 7th\n- Verstappen 2026 points: 43\n- Verstappen 2026 wins: 0\n- Verstappen 2026 podiums: 1 (P3 Canada per pipeline status June 7 notes: \"Verstappen 7th/43 pts/0 wins/Monaco DNF\")\n- Monaco: Verstappen DNF (stalled on lap 1 / power unit issue per pipeline June 8 notes)\n- Red Bull exit clause: originally tied to top-2 by summer break; per SportBible \"Helmut Marko confirmed exit clause had been changed or removed\"",
+        "sources": "- Source: F1.com standings, Yahoo Sports, SportBible, GPFans\n**Verified Facts (MEDIUM confidence):**\n- Exit clause was \"specifically added due to Verstappen's longstanding apprehension about 2026 rules\" per F1 Oversteer (single source)"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Racing Bulls' Football-Themed Livery at Spanish GP",
+      "tier": 2,
+      "status": "",
+      "angle": "Racing Bulls will run a special football-inspired livery at the Spanish GP, complete with a VCARB FC crest featuring three stars representing the three host nations of the upcoming FIFA World Cup; the team also unveiled dedicated football-kit-styled race suits — a creative marketing play ahead of the world's biggest sporting event",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Racing Bulls are arriving at the Spanish GP in football kits.\n\nSpecial livery. VCARB FC crest. 3 stars = 3 World Cup host nations.\n\nF1 meets the beautiful game.\n\nOnly at Barcelona. #F1 #SpanishGP",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#SpanishGP"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-racing-bulls-football-livery-spanish-gp.html",
+        "headline": "F1 Meets the Beautiful Game: Racing Bulls Unveil Football Livery for Spanish GP",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Racing Bulls Football Livery\n\n#### X Image Concept\n- **Search terms:** \"Racing Bulls VCARB Formula One\"\n- **Overlay text:** \"VCARB FC. F1 MEETS THE BEAUTIFUL GAME. BARCELONA.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Fun, creative, bold\n\n#### Facebook Image Concept\n- **Search terms:** \"Racing Bulls VCARB Formula One\"\n- **Overlay text:** \"THE MOST UNIQUE LIVERY IN F1 THIS YEAR. SPANISH GP.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Celebration of creativity"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Racing Bulls Football Livery\n**Verified Facts (HIGH confidence):**\n- Racing Bulls will sport a special football-themed livery at Spanish GP\n- Team unveiled VCARB FC crest with three stars representing three host nations of upcoming FIFA World Cup\n- Racing-kit-styled race suits also part of the unveiling",
+        "sources": "- Source: official F1/team press release via multiple sources (F1 Fansite, F1 Daily news roundups)\n**Research notes:**\n- FIFA World Cup 2026 hosted by USA, Canada, Mexico — three host nations matches three stars on crest\n- Creative marketing tie-in as World Cup begins later in 2026\n- Story is fun/lighter content for a preview day"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

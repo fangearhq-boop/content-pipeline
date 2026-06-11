@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-11
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spanish GP race week — Antonelli 5 straight wins/156 pts/66-pt lead; 6th win would tie Schumacher record (2000-2001); Barcelona suits Mercedes; FP1/FP2 Friday, Race Sunday 9AM ET | 1 | FOLLOW UP |
+| 2 | Russell's redemption race — won Australia then freefall; 68 pts behind teammate; Monaco disaster (drive-through software error P14); Barcelona his best circuit for comeback | 1 | FOLLOW UP |
+| 3 | Hamilton Ferrari first win — P2 back-to-back; "couldn't be closer"; 90 pts/P2 championship; won 6 times at Barcelona with Mercedes | 2 | FOLLOW UP |
+| 4 | Verstappen/Red Bull crisis — 0 wins/43 pts/P7; Monaco DNF lap 1 stall; exit clause renegotiated; regulations disadvantage ongoing | 2 | FOLLOW UP |
+| 5 | Racing Bulls football livery — VCARB FC crest/3 stars=3 World Cup host nations; football-kit race suits; creative marketing for World Cup timing | 2 | NEW STORY |
+
+### STORY 1: Spanish GP Race Week — Antonelli Hunting Schumacher Record
+- **Tier:** 1
+- **Category:** Race Preview / Championship
+- **Key facts:** Spanish GP Round 8: June 12-14, Circuit de Barcelona-Catalunya; Antonelli 156 pts/66-pt lead over Hamilton; 5 consecutive wins (China, Japan, Miami, Canada, Monaco); 6th straight would equal Schumacher's record (2000 Italian - 2001 Malaysian GP); Antonelli only driver to win first 5 career victories consecutively; FP1 7:30 AM ET, FP2 11:00 AM ET Fri; Race Sunday 9:00 AM ET ESPN; Mercedes has won all 7 races in 2026
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Spanish GP qualifying; race recap
+
+### STORY 2: Russell's Redemption Race — Barcelona
+- **Tier:** 1
+- **Category:** Driver Analysis / Championship Battle
+- **Key facts:** Russell P3 championship, 88 pts; 68 pts behind teammate Antonelli; won Australian GP (opened season P1 in standings); Monaco drive-through penalty (pit lane speeding, software error) → P14; "beyond frustration"; Russell P3 championship behind Antonelli (156) and Hamilton (90); Barcelona best chance for comeback
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Russell qualifying/race result; gap to Antonelli after Spanish GP
+
+### STORY 3: Hamilton Ferrari First Win
+- **Tier:** 2
+- **Category:** Driver Spotlight / Ferrari
+- **Key facts:** Hamilton P2 championship, 90 pts; back-to-back P2 finishes for Ferrari; quote: "a first Ferrari win couldn't be closer"; won Spanish GP 6 times with Mercedes; P2 ahead of Russell (88) and Leclerc
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hamilton qualifying/race result; first Ferrari win if it happens
+
+### STORY 4: Verstappen/Red Bull 2026 Crisis
+- **Tier:** 2
+- **Category:** Team Analysis / Red Bull
+- **Key facts:** Verstappen P7 championship, 43 pts, 0 wins; 1 podium (P3 Canada); Monaco DNF (stalled lap 1, power unit); exit clause renegotiated per Helmut Marko (was originally triggered if outside top-2 by summer break); Red Bull's design direction miscalculated under 2026 regulations
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen Spanish GP result; Red Bull development updates
+
+### STORY 5: Racing Bulls Football Livery
+- **Tier:** 2
+- **Category:** Team Feature / Livery
+- **Key facts:** Racing Bulls (VCARB) running football-themed livery at Spanish GP; VCARB FC crest with 3 stars (USA, Canada, Mexico — 3 World Cup host nations); football-kit-styled race suits; World Cup 2026 begins later this summer; Red Bull junior team creative branding tradition
+- **Status:** NEW STORY
+- **Follow-up ideas:** On-track photos during FP1; social engagement on livery reveal
+
 ## 2026-06-10
 
 | # | Story | Tier | Tag |

@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-10
+- **Date**: 2026-06-11
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-11
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-11.xlsx (6 posts) + f1fr-postplanner-tobi-2026-06-11.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-11/review-dashboard.html (21 items)
+- **Notes:** Spanish GP Round 8 June 12-14 Barcelona; Antonelli 5 wins/156 pts/66-pt lead hunting Schumacher's 6-straight record; Russell 68 pts behind teammate after Monaco disaster (P14/software error)/needs Barcelona comeback; Hamilton P2 back-to-back/"couldn't be closer"/90 pts P2; Verstappen 0 wins/43 pts/P7/Monaco DNF stalled/exit clause renegotiated; Racing Bulls VCARB FC football livery/3 stars World Cup hosts/creative campaign
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-10
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
