@@ -1,26 +1,39 @@
 {
-  "generated_at": "2026-06-10T08:30:00.403015+00:00",
+  "generated_at": "2026-06-11T08:30:00.310325+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 56,
-  "measured_tweet_count": 55,
-  "measured_median_impressions": 60,
-  "measured_mean_impressions": 121.42,
-  "median_impressions": 58.0,
-  "mean_impressions": 119.25,
+  "tweet_count": 57,
+  "measured_tweet_count": 56,
+  "measured_median_impressions": 62.0,
+  "measured_mean_impressions": 119.54,
+  "median_impressions": 56,
+  "mean_impressions": 117.44,
   "max_impressions": 1995,
   "significant_findings": [
+    {
+      "dimension": "has_allcaps",
+      "kind": "binary",
+      "winner": "True",
+      "loser": "False",
+      "median_impressions_winner": 74,
+      "median_impressions_loser": 35,
+      "n_winner": 47,
+      "n_loser": 9,
+      "p_value": 0.0117,
+      "effect_size_cliffs_delta": 0.537,
+      "effect_size_label": "large"
+    },
     {
       "dimension": "posting_window=midday_12_18",
       "kind": "time_window_vs_rest",
       "winner": "midday_12_18",
       "loser": "not_midday_12_18",
-      "median_impressions_winner": 109.5,
-      "median_impressions_loser": 46,
-      "n_winner": 22,
-      "n_loser": 33,
-      "p_value": 0.004,
-      "effect_size_cliffs_delta": 0.463,
+      "median_impressions_winner": 104,
+      "median_impressions_loser": 41,
+      "n_winner": 25,
+      "n_loser": 31,
+      "p_value": 0.007,
+      "effect_size_cliffs_delta": 0.423,
       "effect_size_label": "medium"
     },
     {
@@ -28,12 +41,12 @@
       "kind": "time_window_vs_rest",
       "winner": "not_morning_06_12",
       "loser": "morning_06_12",
-      "median_impressions_winner": 109.5,
-      "median_impressions_loser": 46,
-      "n_winner": 22,
-      "n_loser": 33,
-      "p_value": 0.004,
-      "effect_size_cliffs_delta": 0.463,
+      "median_impressions_winner": 104,
+      "median_impressions_loser": 41,
+      "n_winner": 25,
+      "n_loser": 31,
+      "p_value": 0.007,
+      "effect_size_cliffs_delta": 0.423,
       "effect_size_label": "medium"
     },
     {
@@ -41,12 +54,12 @@
       "kind": "binary",
       "winner": "True",
       "loser": "False",
-      "median_impressions_winner": 105.5,
+      "median_impressions_winner": 104,
       "median_impressions_loser": 47,
-      "n_winner": 24,
-      "n_loser": 31,
-      "p_value": 0.0112,
-      "effect_size_cliffs_delta": 0.403,
+      "n_winner": 27,
+      "n_loser": 29,
+      "p_value": 0.0113,
+      "effect_size_cliffs_delta": 0.396,
       "effect_size_label": "medium"
     }
   ],
@@ -64,9 +77,9 @@
   "raw_buckets": {
     "by_hour_ct": {
       "17": {
-        "n": 2,
-        "mean": 109,
-        "median": 109.0,
+        "n": 3,
+        "mean": 86.33,
+        "median": 74,
         "top": {
           "impressions": 146,
           "text": "Rea vs. Skenes. PNC Park. First pitch 5:40 PM CT.\n\nThe Cubs ended a 10-GAME SKID last night with a 10-4 rout. Tonight they can earn a series split against Paul Skenes and a Pirates team that's been gritty all month.\n\nThe momentum is there. "
@@ -74,26 +87,35 @@
       },
       "15": {
         "n": 6,
-        "mean": 70,
-        "median": 62.0,
+        "mean": 79.83,
+        "median": 74.0,
         "top": {
-          "impressions": 108,
-          "text": "Iowa dropped their eighth straight game Wednesday, 6-3 to Memphis. Connor Noland was carted off after a comebacker hit his ankle \u2014 status unknown.\n\nKane Kepley homered in the seventh for the lone bright spot in a rough stretch.\n\n#Cubs #MLB "
+          "impressions": 127,
+          "text": ".783 OPS. 11 home runs. 14 stolen bases.\n\nPete Crow-Armstrong is becoming one of the most complete outfielders in baseball \u2014 and the Cubs desperately need him to keep being the story while the rotation burns.\n\nSophomore leap is fully underw"
+        }
+      },
+      "14": {
+        "n": 1,
+        "mean": 74,
+        "median": 74,
+        "top": {
+          "impressions": 74,
+          "text": "Ben Brown: 1.74 ERA. 0.88 WHIP. 58 strikeouts in 57 innings.\n\nThe Cubs' rotation is falling apart around him, and Brown is quietly building one of the best pitching cases in the NL.\n\nZero home runs allowed in his starts. The All-Star argume"
         }
       },
       "13": {
-        "n": 2,
-        "mean": 65,
-        "median": 65.0,
+        "n": 3,
+        "mean": 61.33,
+        "median": 46,
         "top": {
-          "impressions": 96,
+          "impressions": 104,
           "text": "Tonight at Coors Field: Colin Rea (5-3, 4.59 ERA) vs Tomoyuki Sugano (5-4, 3.98 ERA).\n\nSugano is the Rockies' best arm \u2014 but this is the same staff with the WORST ERA in baseball. Attack the bullpen early and often.\n\n#Cubs #GoCubs #FlyTheW"
         }
       },
       "12": {
         "n": 10,
-        "mean": 311.5,
-        "median": 146.0,
+        "mean": 302.5,
+        "median": 131.0,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
@@ -101,8 +123,8 @@
       },
       "7": {
         "n": 10,
-        "mean": 68,
-        "median": 37.5,
+        "mean": 65,
+        "median": 36.0,
         "top": {
           "impressions": 242,
           "text": "Astros 3, Cubs 0.\n\nChristian Walker went yard twice (13 HRs), Kai-Wei Teng held Chicago to 2 hits in 6 innings, and the Cubs dropped their SEVENTH straight for the first time since 2022.\n\nThe offense has completely vanished. Something has t"
@@ -118,18 +140,18 @@
         }
       },
       "8": {
-        "n": 8,
-        "mean": 77.75,
-        "median": 46.5,
+        "n": 7,
+        "mean": 84.29,
+        "median": 47,
         "top": {
           "impressions": 308,
           "text": "Cubs open a 4-game road series in Pittsburgh today.\n\nBen Brown (2.09 ERA, 40 K in 38.2 IP) faces Carmen Mlodzinski (4-3, 3.96 ERA) at PNC Park \u2014 first pitch 12:35 PM CT. Pirates are 27-26. Cubs have lost 8 straight. \u26be\n\nSnap the skid or fall"
         }
       },
       "9": {
-        "n": 7,
-        "mean": 111.71,
-        "median": 81,
+        "n": 6,
+        "mean": 120.33,
+        "median": 85.5,
         "top": {
           "impressions": 264,
           "text": "On May 8 the Cubs were 15 games over .500.\n\nIn those 17 days: rotation ERA above 6.00, offense 28th in OPS, pitching 28th in ERA, 12 losses in 14 games. They've gone from the NL's hottest team to clinging to a wild card spot.\n\nThis isn't a "
@@ -146,10 +168,19 @@
       }
     },
     "by_weekday_ct": {
+      "Wed": {
+        "n": 11,
+        "mean": 55,
+        "median": 48,
+        "top": {
+          "impressions": 127,
+          "text": ".783 OPS. 11 home runs. 14 stolen bases.\n\nPete Crow-Armstrong is becoming one of the most complete outfielders in baseball \u2014 and the Cubs desperately need him to keep being the story while the rotation burns.\n\nSophomore leap is fully underw"
+        }
+      },
       "Tue": {
         "n": 9,
-        "mean": 292.44,
-        "median": 72,
+        "mean": 295.67,
+        "median": 74,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
@@ -171,15 +202,6 @@
         "top": {
           "impressions": 158,
           "text": "Freddy Peralta. 3.12 ERA. Pending free agent. Counsell knows him from Milwaukee.\n\nThe Mets' June 1 decision point is 11 days out. The Cubs' rotation just lost another arm to a blister. The case for this trade has never been stronger.\n\n#Cubs"
-        }
-      },
-      "Wed": {
-        "n": 10,
-        "mean": 61.8,
-        "median": 54.5,
-        "top": {
-          "impressions": 154,
-          "text": "Edward Cabrera vs Kyle Harrison tonight at Wrigley \u2014 series finale, 6:40 PM CT.\n\nHarrison hasn't allowed more than 2 runs in any of his 8 starts this year. Cabrera has given up a HR in five straight.\n\nNo. 1 on today's task list: avoid a swe"
         }
       },
       "Mon": {
@@ -212,9 +234,9 @@
     },
     "by_content_type": {
       "brief": {
-        "n": 55,
-        "mean": 121.42,
-        "median": 60,
+        "n": 56,
+        "mean": 119.54,
+        "median": 62.0,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
@@ -223,27 +245,27 @@
     },
     "by_opening": {
       "statement": {
-        "n": 46,
-        "mean": 128.59,
-        "median": 64.5,
+        "n": 43,
+        "mean": 131.05,
+        "median": 56,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
         }
       },
       "stat_lead": {
-        "n": 4,
-        "mean": 97.5,
-        "median": 110.5,
+        "n": 7,
+        "mean": 88.86,
+        "median": 104,
         "top": {
           "impressions": 158,
           "text": "Freddy Peralta. 3.12 ERA. Pending free agent. Counsell knows him from Milwaukee.\n\nThe Mets' June 1 decision point is 11 days out. The Cubs' rotation just lost another arm to a blister. The case for this trade has never been stronger.\n\n#Cubs"
         }
       },
       "allcaps_lead": {
-        "n": 5,
-        "mean": 74.6,
-        "median": 52,
+        "n": 6,
+        "mean": 72.83,
+        "median": 51.0,
         "top": {
           "impressions": 195,
           "text": "Jordan Wicks makes his first MLB start of 2026 tonight \u2014 at PNC Park, where he made his debut in Aug 2023 (9 K, 10-6 win).\n\nWicks: 0.60 ERA in his last 3 Iowa starts. He faces Braxton Ashcraft (2.89 ERA). First pitch 5:40 PM CT.\n\nNew arm. S"
@@ -251,30 +273,30 @@
       }
     },
     "by_len_bucket": {
-      "200-260": {
-        "n": 25,
-        "mean": 74.68,
-        "median": 60,
-        "top": {
-          "impressions": 169,
-          "text": "First pitch in 80 minutes. Wrigley Field. Cubs-Astros, Game 1 of 3.\n\nHouston sends Arrighetti (5-1, 1.50 ERA) \u2014 .173 opponent BA through seven starts. Taillon (2-3, 4.97) needs to match his level today.\n\nWin this one.\n\n#Cubs #GoCubs #FlyThe"
-        }
-      },
       "260+": {
-        "n": 30,
-        "mean": 160.37,
-        "median": 68.5,
+        "n": 35,
+        "mean": 143.26,
+        "median": 56,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
+        }
+      },
+      "200-260": {
+        "n": 21,
+        "mean": 80,
+        "median": 69,
+        "top": {
+          "impressions": 169,
+          "text": "First pitch in 80 minutes. Wrigley Field. Cubs-Astros, Game 1 of 3.\n\nHouston sends Arrighetti (5-1, 1.50 ERA) \u2014 .173 opponent BA through seven starts. Taillon (2-3, 4.97) needs to match his level today.\n\nWin this one.\n\n#Cubs #GoCubs #FlyThe"
         }
       }
     },
     "by_hashtag_count": {
       "3": {
-        "n": 55,
-        "mean": 121.42,
-        "median": 60,
+        "n": 56,
+        "mean": 119.54,
+        "median": 62.0,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
@@ -283,18 +305,18 @@
     },
     "by_has_score": {
       "True": {
-        "n": 30,
-        "mean": 152.97,
-        "median": 73.5,
+        "n": 32,
+        "mean": 145.66,
+        "median": 71.5,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
         }
       },
       "False": {
-        "n": 25,
-        "mean": 83.56,
-        "median": 53,
+        "n": 24,
+        "mean": 84.71,
+        "median": 51.5,
         "top": {
           "impressions": 264,
           "text": "On May 8 the Cubs were 15 games over .500.\n\nIn those 17 days: rotation ERA above 6.00, offense 28th in OPS, pitching 28th in ERA, 12 losses in 14 games. They've gone from the NL's hottest team to clinging to a wild card spot.\n\nThis isn't a "
@@ -303,8 +325,8 @@
     },
     "by_has_stat": {
       "False": {
-        "n": 31,
-        "mean": 68.84,
+        "n": 29,
+        "mean": 66.38,
         "median": 47,
         "top": {
           "impressions": 264,
@@ -312,9 +334,9 @@
         }
       },
       "True": {
-        "n": 24,
-        "mean": 189.33,
-        "median": 105.5,
+        "n": 27,
+        "mean": 176.63,
+        "median": 104,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
@@ -323,9 +345,9 @@
     },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 55,
-        "mean": 121.42,
-        "median": 60,
+        "n": 56,
+        "mean": 119.54,
+        "median": 62.0,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
@@ -334,21 +356,21 @@
     },
     "by_has_allcaps": {
       "True": {
-        "n": 45,
-        "mean": 135.76,
-        "median": 71,
+        "n": 47,
+        "mean": 134.23,
+        "median": 74,
         "top": {
           "impressions": 1995,
           "text": "The Cubs face Paul Skenes on Thursday. Let that sink in.\n\nSkenes: 6-4, 3.00 ERA, 65 strikeouts. Chicago scored just 1 run in Game 1 and has averaged under 3 runs per game during this 9-game skid. This isn't a scheduling quirk \u2014 it's a night"
         }
       },
       "False": {
-        "n": 10,
-        "mean": 56.9,
-        "median": 41.5,
+        "n": 9,
+        "mean": 42.78,
+        "median": 35,
         "top": {
-          "impressions": 154,
-          "text": "Edward Cabrera vs Kyle Harrison tonight at Wrigley \u2014 series finale, 6:40 PM CT.\n\nHarrison hasn't allowed more than 2 runs in any of his 8 starts this year. Cabrera has given up a HR in five straight.\n\nNo. 1 on today's task list: avoid a swe"
+          "impressions": 81,
+          "text": "Pedro Ramirez, Cubs No. 2 prospect, is debuting in the middle of a 7-game skid.\n\nThe 22-year-old switch-hitter hit .312/.395/.547 with 9 HRs and 19 SBs in Iowa this season. Timing is rough \u2014 but this kid was always going to be a bright spot"
         }
       }
     }
@@ -357,48 +379,48 @@
     "by_content_type": {
       "brief": {
         "n": 28,
-        "mean_rate": 0.0022,
+        "mean_rate": 0.004,
         "median_rate": 0.0
       }
     },
     "by_opening": {
-      "statement": {
-        "n": 24,
-        "mean_rate": 0.0021,
-        "median_rate": 0.0
-      },
       "stat_lead": {
-        "n": 3,
-        "mean_rate": 0.0035,
+        "n": 5,
+        "mean_rate": 0.0089,
+        "median_rate": 0.0079
+      },
+      "statement": {
+        "n": 21,
+        "mean_rate": 0.0024,
         "median_rate": 0.0
       },
       "allcaps_lead": {
-        "n": 1,
-        "mean_rate": 0.0,
-        "median_rate": 0.0
+        "n": 2,
+        "mean_rate": 0.0074,
+        "median_rate": 0.0074
       }
     },
     "by_has_score": {
-      "True": {
-        "n": 17,
-        "mean_rate": 0.003,
-        "median_rate": 0.0
-      },
       "False": {
         "n": 11,
-        "mean_rate": 0.001,
+        "mean_rate": 0.0055,
+        "median_rate": 0.0
+      },
+      "True": {
+        "n": 17,
+        "mean_rate": 0.0029,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
-      "False": {
-        "n": 12,
-        "mean_rate": 0.0018,
+      "True": {
+        "n": 18,
+        "mean_rate": 0.0041,
         "median_rate": 0.0
       },
-      "True": {
-        "n": 16,
-        "mean_rate": 0.0025,
+      "False": {
+        "n": 10,
+        "mean_rate": 0.0036,
         "median_rate": 0.0
       }
     }
@@ -457,14 +479,14 @@
   ],
   "bottom_performers": [
     {
-      "posted_at": "2026-05-22 10:45 CT",
+      "posted_at": "2026-06-10 07:01 CT",
       "content_type": "brief",
-      "impressions": 27,
+      "impressions": 23,
       "engagement": 0,
       "engagement_rate": 0.0,
-      "opening": "statement",
-      "len": 258,
-      "text": "Good news amid the rotation gloom: Matt Boyd throws off the mound this Saturday.\n\nHe's ahead of schedule from meniscus surgery \u2014 pain-free, progressing well. Late June return is on the table.\n\nThe cavalry is coming. Just not yet.\n\n#Cubs #GoCubs #CubsBaseball"
+      "opening": "stat_lead",
+      "len": 278,
+      "text": "Colin Rea allowed a season-high 7 ER in 4 2/3 innings last night.\n\nRockies 7, Cubs 3. Coors Field is not being kind to this pitching staff \u2014 and the Cubs fall to 34-33.\n\nHunter Goodman's 2-run shot in the first set the tone. It only got worse from there.\n\n#Cubs #GoCubs #FlyTheW"
     },
     {
       "posted_at": "2026-05-24 10:46 CT",
