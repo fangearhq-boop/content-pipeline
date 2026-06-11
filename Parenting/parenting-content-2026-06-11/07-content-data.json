@@ -1,0 +1,296 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-11",
+  "compiled_at": "2026-06-11T12:53:14.244224+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "D49 Budget Vote Is Tonight at 6:30 PM — What Happens After July 1",
+      "tier": 1,
+      "status": "",
+      "angle": "District 49's Board of Education votes TONIGHT at 6:30 PM at Sand Creek High School (7005 Carefree Cir N) on the 2026–27 budget. This vote finalizes the approximately $2 million in cuts the district approved in February following a fiscal exigency declaration in January 2026. Impacted programs include reductions in non-core teacher positions, supplemental staffing, Base49 before/after-school care, PEAK programs, preschool, and Elevates 18–21 specialized services. The vote is a public meeting — families can attend and speak during the public comment period. Budget takes effect July 1, less than 3 weeks away. d49.org for the agenda.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "D49 Board votes on the 2026-27 budget TONIGHT.\n\n6:30 PM · Sand Creek High School, 7005 Carefree Cir N\n\nBase49, preschool, PEAK, and Elevates 18–21 are all on the line. Budget takes effect July 1.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (D49 vote previewed June 1, June 8, June 10; today is the actual vote day)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 1-2",
+          "text": "D49 vote is tonight. If the 2026-27 budget passes, these programs are cut July 1:\n\n· Base49 care\n· PEAK programs\n· Preschool\n· Elevates 18–21\n\nAttend: Sand Creek HS, 6:30 PM. Public comment is open.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (D49 vote previewed June 1, June 8, June 10; today is the actual vote day)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "📋 The D49 budget vote is happening TONIGHT — and if you have kids in programs like Base49, preschool, or PEAK, this one matters.\n\nThe Board of Education votes tonight at 6:30 PM at Sand Creek High School (7005 Carefree Cir N) on the 2026–27 district budget. This vote makes official the roughly $2 million in cuts the board approved in February following the district's fiscal exigency declaration in January.\n\nPrograms in the crosshairs: Base49 before/after-school care, PEAK enrichment, preschool seats, Elevates 18–21 specialized services, and reductions in non-core teacher and supplemental staff positions. These cuts take effect July 1 — less than three weeks away.\n\nThe meeting is open to the public. There's a public comment period where families can speak directly to the board. If tonight's the night you want to show up, the agenda is at d49.org. Whether you attend or not, knowing what's coming by July 1 helps you plan.\n\nWhat's already happening in your family because of these D49 budget changes?",
+        "image_caption": "Tonight: D49 Board votes on the 2026–27 budget at 6:30 PM, Sand Creek High School. Base49, preschool, PEAK, Elevates 18–21 are all part of the ~$2M in cuts. Budget goes live July 1. Full agenda at d49.org. 📋",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-d49-budget-vote-tonight.html",
+        "headline": "D49 Budget Vote Is Tonight — What Families Need to Know Before July 1",
+        "word_count": 678
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Budget Vote Is Tonight at 6:30 PM\n\n### Social Image (X) — 1200×675\n\n**Prompt:**\nA close-up of a school board meeting in session from a public gallery perspective. A long conference table with five empty chairs and nameplates, professional overhead lighting, a Colorado mountain landscape photograph on the wall behind the table, warm neutral tones in teal and dark slate. Mood: serious, civic, important. Clean bottom third with light cloud background for text overlay. No people, no text, no logos. Photorealistic illustration style.\n\n**File:** story-1-d49-budget-vote.png\n**Status:** not_started\n\n---\n\n### Article Hero — 1200×630\n\n**Prompt:**\nAn exterior view of a modern suburban high school building at dusk, warm interior lights visible through large windows, a flagpole with the American flag in the foreground, landscaped grounds. Colorado foothills visible in the distance. Mood: civic, community, important evening event. Clean bottom third with gradient to light cloud for text overlay. No text, no people, no logos. Photorealistic illustration style.\n\n**File:** story-1-d49-budget-vote-hero.png\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Budget Vote Is Tonight at 6:30 PM\n### Verified Facts\n| Claim | Confidence | Source |\n|-------|-----------|--------|\n| Vote is tonight, June 11, 2026 | HIGH | d49.org board meeting calendar |\n| Time: 6:30 PM MT | HIGH | d49.org |\n| Location: Sand Creek High School | HIGH | d49.org, koaa.com |\n| Address: 7005 Carefree Cir N, Colorado Springs | HIGH | d49.org |\n| Vote on 2026-27 district budget | HIGH | d49.org, gazette.com |\n| Fiscal exigency declared January 2026 | HIGH | pikespeakbulletin.org, koaa.com |\n| ~$2 million in cuts approved February 2026 | HIGH | koaa.com, gazette.com |\n| February vote was 4-1 | MEDIUM | gazette.com |\n| Base49 before/after-school care impacted | HIGH | d49.org program updates |\n| PEAK programs impacted | HIGH | d49.org |\n| Preschool impacted | HIGH | d49.org |\n| Elevates 18-21 specialized services impacted | HIGH | d49.org, koaa.com |\n| Non-core teacher positions reduced | HIGH | d49.org |\n| Budget effective July 1, 2026 | HIGH | d49.org |\n| Public meeting — public comment period available | HIGH | d49.org |\n| Agenda at d49.org | HIGH | d49.org |\n### Context\nThis is a day-of vote story. Families who follow D49 budget coverage have seen previews on June 1, June 8, and June 10. The June 11 vote is the final step that makes cuts official. Base49 is widely used by working parents for before/after school childcare. Budget effective in less than 3 weeks. Urgency is high for any family still unaware.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Flanagan Park Getting $750K Federal Makeover — New Playground, ADA Trail, Basketball Courts",
+      "tier": 1,
+      "status": "",
+      "angle": "A central Colorado Springs neighborhood park near Nevada Avenue and Fillmore Street is getting a major upgrade this summer. The City of Colorado Springs received a $750,000 federal Community Development Block Grant to rehabilitate Flanagan Park. Planned improvements include a brand-new playground structure, a new ADA-accessible walking trail with lighting, a new basketball court, court resurfacing, and screen fencing. The park, built in the mid-1970s, serves a multigenerational neighborhood including families with young children, older adults, and nearby assisted-living residents. City crews will begin work later this summer, with the project expected to be complete by January 2027. The improved park will be more accessible and safer for families year-round.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Flanagan Park in Colorado Springs is getting a $750K federal renovation.\n\nNew playground, ADA-accessible trail with lighting, and basketball court. Work starts this summer.\n\nNear Nevada Ave & Fillmore St.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Flanagan Park is about 50 years old. This summer, a $750K federal grant funds its first major renovation.\n\nCompletion: January 2027. More playground space, safer paths, better lighting.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "🛝 Good news for Colorado Springs families: Flanagan Park is getting a major upgrade this summer.\n\nThe City of Colorado Springs received a $750,000 federal Community Development Block Grant to rehabilitate Flanagan Park, a neighborhood park near Nevada Avenue and Fillmore Street that was built in the mid-1970s. That's roughly 50 years of wear on equipment, trails, and courts — and this grant finally changes that.\n\nWhat's coming: a brand-new playground structure, a new ADA-accessible walking trail with lighting, a new basketball court, court resurfacing, and screen fencing. City crews will begin work later this summer, with the full project expected to be complete by January 2027.\n\nThe CDBG grant program specifically targets improvements in lower-to-moderate income neighborhoods, meaning federal dollars are going directly to community infrastructure. For the families, older adults, and nearby assisted-living residents who rely on this park, the improvements mean a safer, more accessible space year-round.\n\nHas your family visited Flanagan Park? What improvements are you most looking forward to?",
+        "image_caption": "🛝 Flanagan Park near Nevada Ave & Fillmore St is getting a $750K federal makeover — new playground, ADA trail with lighting, and basketball court. Work starts this summer, done by January 2027. About time for a 50-year-old park.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-flanagan-park-750k-makeover.html",
+        "headline": "Flanagan Park Is Getting a $750,000 Federal Makeover — New Playground, ADA Trail, Basketball Courts",
+        "word_count": 664
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Flanagan Park Getting $750K Federal Makeover\n\n### Social Image (X) — 1200×675\n\n**Prompt:**\nA bright, sunlit urban park scene with a colorful new playground structure in the background — slides, climbing frames, and bright primary colors. A paved ADA-accessible walking path curves through the foreground. Lush green grass, mature trees, clear blue sky. Mood: hopeful, community investment, family-friendly. Brand teal and warm coral color accents on playground equipment. Clean bottom third for text overlay. No people, no text, no brand logos. Photorealistic illustration style.\n\n**File:** story-2-flanagan-park-makeover.png\n**Status:** not_started\n\n---\n\n### Article Hero — 1200×630\n\n**Prompt:**\nWide-angle view of a neighborhood park renovation in progress — newly poured concrete basketball court, workers in the background, playground structure partially assembled, construction fencing along the edges. Colorado mountain backdrop. Warm afternoon sunlight. Mood: progress, community investment, optimistic. Clean bottom third gradient to light cloud. No text, no faces visible, no logos. Photorealistic illustration style.\n\n**File:** story-2-flanagan-park-makeover-hero.png\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Flanagan Park $750K Makeover\n### Verified Facts\n| Claim | Confidence | Source |\n|-------|-----------|--------|\n| Flanagan Park located near Nevada Avenue and Fillmore Street | HIGH | kktv.com (May 8, 2026), coloradosprings.gov |\n| $750,000 federal grant awarded to City of Colorado Springs | HIGH | kktv.com, koaa.com |\n| Grant type: Community Development Block Grant (CDBG) | HIGH | kktv.com, coloradosprings.gov |\n| New playground structure planned | HIGH | kktv.com |\n| New ADA-accessible walking trail with lighting planned | HIGH | kktv.com, coloradosprings.gov |\n| New basketball court planned | HIGH | kktv.com |\n| Court resurfacing planned | HIGH | kktv.com |\n| Screen fencing planned | HIGH | kktv.com |\n| Park built mid-1970s | MEDIUM | kktv.com (approximate) |\n| Work begins later this summer (2026) | HIGH | kktv.com, coloradosprings.gov |\n| Project expected complete by January 2027 | HIGH | kktv.com |\n| Park serves multigenerational neighborhood | MEDIUM | kktv.com |\n| Nearby assisted-living residents also benefit | MEDIUM | kktv.com |\n### Context\nCDBG funds are federal dollars channeled through HUD specifically for low-to-moderate income community improvements. This is a real infrastructure win for a neighborhood park that hasn't been updated in roughly 50 years. For families, the playground + ADA trail are the most relevant improvements. Timeline: summer 2026 start, January 2027 completion.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Recall Alert — Wiifo Toddler Tower Stools: 9,700 Units Can Collapse and Entrap Children",
+      "tier": 1,
+      "status": "",
+      "angle": "The CPSC recalled approximately 9,700 Wiifo-brand Children's Tower Stools (model LT005) on April 23, 2026 due to entrapment and fall hazards. The stools can collapse or tip over while in use, and a child's torso can fit through the side openings — creating a risk of serious injury or death. The firm reported 22 incidents of stools collapsing, resulting in 6 injuries (contusions and scrapes). The stools were sold on Amazon from June 2022 through March 2026 for about $60. They come in white, natural, and light wood finishes with \"Model LT005\" on the underside label. Remedy: full refund. Stop using immediately, disassemble, take photo, send to support@wiifo.net. IMPORTANT NOTE: Families who own a Guidecraft Kitchen Helper Tower (recalled May 14, 2026, covered June 10) should also check that recall — these are different products but both involve child step towers.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "RECALL: Wiifo Tower Stool (Model LT005) — 9,700 units recalled by CPSC.\n\nStools collapse and can trap a child's torso. 22 incidents, 6 injuries.\n\nStop use now. Email support@wiifo.net for full refund.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Wiifo Tower Stool recall (Model LT005) is separate from the Guidecraft Kitchen Helper Tower recall.\n\nIf you have either product, stop use. See CPSC.gov for details and refund info.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": {
+        "long_form": "⚠️ If you have a Wiifo Children's Tower Stool at home, stop using it now — the CPSC has issued a recall.\n\nThe Consumer Product Safety Commission recalled approximately 9,700 Wiifo-brand Children's Tower Stools (Model LT005) on April 23, 2026 due to entrapment and fall hazards. The stools can collapse or tip while a child is using them — and the side openings are large enough that a child's torso can become trapped. That's not a minor risk; it's a serious injury hazard.\n\nThe CPSC received 22 reports of stools collapsing, with 6 injuries including contusions and scrapes. These stools were sold exclusively on Amazon between June 2022 and March 2026 for about $60. They come in white, natural, and light wood finishes. Check the underside label for \"Model LT005.\"\n\nIf you have one: stop using it, disassemble it, take a photo, and send that photo to support@wiifo.net to claim your full refund. One more thing: this is a different recall from the Guidecraft Kitchen Helper Tower recall issued May 14, 2026. If you acted on the Guidecraft recall, you still need to check for the Wiifo.\n\nDo you have one of these at home? Share this post so other parents can check.",
+        "image_caption": "⚠️ CPSC RECALL — Wiifo Children's Tower Stool (Model LT005): 9,700 units. Stools collapse and can trap a child's torso. 22 incidents, 6 injuries. Sold on Amazon June 2022–March 2026 (~$60). Stop use, disassemble, email support@wiifo.net for full refund. Different from the Guidecraft recall.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wiifo-tower-stool-recall.html",
+        "headline": "Recall Alert: Wiifo Children's Tower Stools Can Collapse and Entrap Children — 9,700 Units Affected",
+        "word_count": 675
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wiifo Toddler Tower Stool Recall\n\n### Social Image (X) — 1200×675\n\n**Prompt:**\nA lone toddler kitchen helper tower stool — a wooden step stool with side rails and an elevated platform — photographed on a plain light cloud background. A bold warning triangle symbol in warm coral sits in the upper right. The stool is in white or natural wood finish. Mood: urgent safety warning, clean, clear. Generous clean space in bottom third for text overlay. No people, no children, no text, no brand names visible. Flat graphic illustration style.\n\n**File:** story-3-wiifo-recall-alert.png\n**Status:** not_started\n\n---\n\n### Article Hero — 1200×630\n\n**Prompt:**\nA CPSC-style safety recall visual: a wooden toddler step tower stool on a warm coral background, with a large caution symbol in the upper area. Clean, minimal composition. Soft gold accent. Light cloud bottom third for text. No text, no brand name, no children. Flat graphic illustration style with bold, readable contrast.\n\n**File:** story-3-wiifo-recall-alert-hero.png\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wiifo Toddler Tower Stool Recall\n### Verified Facts\n| Claim | Confidence | Source |\n|-------|-----------|--------|\n| CPSC recall issued April 23, 2026 | HIGH | CPSC.gov (official recall notice) |\n| Brand: Wiifo | HIGH | CPSC.gov |\n| Product: Children's Tower Stools | HIGH | CPSC.gov |\n| Model number: LT005 | HIGH | CPSC.gov |\n| Approximately 9,700 units recalled | HIGH | CPSC.gov |\n| Hazard: stools can collapse or tip over while in use | HIGH | CPSC.gov |\n| Hazard: child's torso can fit through side openings | HIGH | CPSC.gov |\n| Risk: entrapment and fall hazards | HIGH | CPSC.gov |\n| 22 incidents of stools collapsing reported | HIGH | CPSC.gov |\n| 6 injuries — contusions and scrapes | HIGH | CPSC.gov |\n| Colors: white, natural, light wood | HIGH | CPSC.gov |\n| \"Model LT005\" on underside label | HIGH | CPSC.gov |\n| Sold exclusively on Amazon | HIGH | CPSC.gov |\n| Sale period: June 2022 through March 2026 | HIGH | CPSC.gov |\n| Sale price: approximately $60 | HIGH | CPSC.gov |\n| Remedy: full refund | HIGH | CPSC.gov |\n| Action: stop using, disassemble | HIGH | CPSC.gov |\n| Contact: send photo to support@wiifo.net | HIGH | CPSC.gov |\n| Different product from Guidecraft Kitchen Helper Tower (recalled May 14, 2026) | HIGH | CPSC.gov (separate recall) |\n### Context\nThis recall is notable for the entrapment risk — a child's torso fitting through side openings is particularly alarming for parents. 9,700 units is a substantial recall. The April 23, 2026 date makes this recent. Many families who bought on Amazon June 2022–March 2026 may still have this product. Important to distinguish from the Guidecraft Kitchen Helper Tower recall covered June 10 — both are child step towers, different brands and models.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "D49 Free Summer Meals End June 19 — 8 Days Left to Use This Free Resource",
+      "tier": 2,
+      "status": "",
+      "angle": "D49's free summer meal program ends in just 8 days on June 19. Any child age 1–18 can get free breakfast and lunch at D49 sites — no registration, no ID, no income verification required. Springs Ranch Elementary is one confirmed site. Check d49.org for the full site list and hours. This program is separate from District 11's summer meal program, which runs through July 31. With summer in full swing and budgets stretched, this is one of the most accessible free food resources in Colorado Springs — and it's ending soon.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "D49 free summer meals end in 8 days — June 19 is the last day.\n\nAny child ages 1–18 gets free breakfast and lunch. No registration. No ID. No income check.\n\nFind sites at d49.org.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (first covered June 6; now 8 days to cutoff)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "🍽️ Eight days left to use this free resource — and a lot of Colorado Springs families still don't know it exists.\n\nD49's summer meal program ends June 19. That's eight days from today. Any child ages 1 through 18 can walk in and get free breakfast and lunch at D49 sites — no registration, no ID, no income verification required. None. You just show up.\n\nSprings Ranch Elementary is one confirmed site. The full list of sites and hours is at d49.org. Hours vary by location, so it's worth checking the specific site nearest to you.\n\nOne important note: this is D49's program, and it ends June 19. District 11's summer meal program is separate and runs through July 31. If your kids are enrolled in D11 or you're in a D11 neighborhood, you have more time — but D49 families don't. Budget-stretching summer meal options are rare, and this one requires zero paperwork.\n\nDid you know about this program? Tag a family who could use it.",
+        "image_caption": "🍽️ D49 free summer meals end in 8 days — June 19 is the cutoff. Any kid ages 1–18, no registration, no ID, no income check needed. Free breakfast and lunch. Full site list at d49.org. Pass this along.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d49-free-summer-meals.html",
+        "headline": "D49 Free Summer Meals End June 19 — 8 Days Left to Use This Free Resource",
+        "word_count": 672
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D49 Free Summer Meals — 8 Days Left\n\n### Social Image (X) — 1200×675\n\n**Prompt:**\nA cheerful school cafeteria lunch tray with a healthy free meal: a sandwich, apple, milk carton, and orange slices, on a bright teal tray against a soft light cloud background. Mood: helpful, accessible, resource-sharing. Warm, inviting food styling. Brand soft gold and teal accents in the tray and background. Clean bottom third for text overlay. No people, no text, no district logos. Photorealistic illustration style.\n\n**File:** story-4-d49-free-meals.png\n**Status:** not_started\n\n---\n\n### Article Hero — 1200×630\n\n**Prompt:**\nA school cafeteria lunch line from a child's-eye view — a long stainless steel counter with colorful food trays, bright overhead lighting, a cheerful institutional setting. Mood: accessible, welcoming, community resource. Teal and warm coral color accents in the food trays. No children, no staff visible, no text, no school logos. Photorealistic illustration style. Clean lower third gradient to light cloud for text overlay.\n\n**File:** story-4-d49-free-meals-hero.png\n**Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Free Summer Meals — 8 Days Left\n### Verified Facts\n| Claim | Confidence | Source |\n|-------|-----------|--------|\n| Program ends June 19, 2026 | HIGH | D49.org, KKTV (June 6) |\n| 8 days remaining as of June 11 | HIGH | Calculated from June 19 end date |\n| Eligibility: any child age 1–18 | HIGH | D49.org |\n| Meals provided: free breakfast and lunch | HIGH | D49.org |\n| No registration required | HIGH | D49.org |\n| No ID required | HIGH | D49.org |\n| No income verification required | HIGH | D49.org |\n| Springs Ranch Elementary is a confirmed site | HIGH | D49.org, KKTV (June 6) |\n| Full site list and hours at d49.org | HIGH | D49.org |\n| D11 summer meal program runs through July 31 | HIGH | D11.org |\n| D49 and D11 programs are separate | HIGH | Both districts |\n### Context\nFederal Summer Food Service Program (SFSP) funding allows districts to offer this. D49's earlier end date (June 19 vs D11's July 31) is important — many families may assume programs run all summer. Springs Ranch Elementary is geographically useful for families in the northeast part of COS. With Base49 cuts coming July 1, summer food access becomes even more relevant for budget-stretched families.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "WMMI Free Family Day TOMORROW — June 12, Blacksmith Demo, Gold Panning, Hayrides",
+      "tier": 2,
+      "status": "",
+      "angle": "Last reminder: the Western Museum of Mining and Industry (225 North Gate Blvd) holds a free Family Day TOMORROW, Saturday June 12. Watch the historic stamp mill machinery in action, see a live blacksmith demonstration, take a tractor-pulled hayride, and watch the Gold Panning Championships. All outdoor activities are free. The museum is located near the north end of Colorado Springs. Great weather activity for families who want to get outside without spending money. Open during regular museum hours; call 719-488-0880 or visit wmmi.org for details.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Last reminder: WMMI Free Family Day is TOMORROW — Saturday, June 12.\n\nWatch the stamp mill, see a blacksmith, try gold panning, take a hayride. All free.\n\n225 North Gate Blvd · 719-488-0880\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (covered June 10; today is the last reminder before the event)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "⛏️ Tomorrow is WMMI's Free Family Day — and it's one of the more fun free things you can do in Colorado Springs this weekend.\n\nThe Western Museum of Mining and Industry (225 North Gate Blvd) holds its Free Family Day this Saturday, June 12. Watch the historic stamp mill machinery in action, see a live blacksmith demonstration, take a tractor-pulled hayride, and catch the Gold Panning Championships. All outdoor activities are free.\n\nThis isn't a quiet museum visit — it's hands-on, loud, and genuinely engaging for kids. The gold panning event especially tends to be a crowd-pleaser for kids who've never tried it. The museum is near the north end of Colorado Springs, off I-25 near the Air Force Academy exit.\n\nFor questions or hours, call 719-488-0880 or visit wmmi.org. No ticket purchase needed for the outdoor activities.\n\nHave you been to WMMI before with your family? What was the highlight for your kids?",
+        "image_caption": "⛏️ TOMORROW — WMMI Free Family Day, Saturday June 12. Stamp mill demos, live blacksmith, tractor hayride, and Gold Panning Championships. All outdoor activities are FREE. 225 North Gate Blvd, Colorado Springs. Call 719-488-0880 or visit wmmi.org for details.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wmmi-free-family-day.html",
+        "headline": "WMMI Free Family Day Is Tomorrow — Blacksmith Demo, Gold Panning, and Hayrides on June 12",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "WMMI Free Family Day TOMORROW\n\n### Social Image (X) — 1200×675\n\n**Prompt:**\nA vintage-style mining and industrial scene: a large wooden stamp mill with metal machinery components, a rustic gold panning pan filled with sand and gravel in the foreground, warm afternoon Colorado sunlight filtering through. Mood: adventurous, educational, family fun, historic. Soft gold and dark slate color palette. Clean bottom third for text overlay. No people, no text, no logos. Photorealistic illustration with slight vintage warmth.\n\n**File:** story-5-wmmi-family-day.png\n**Status:** not_started\n\n---\n\n### Article Hero — 1200×630\n\n**Prompt:**\nA wide-angle view of an outdoor heritage museum grounds — large industrial mining machinery, an open-air demonstration area, gravel paths, Rocky Mountain foothills in the background under a blue Colorado sky. Mood: educational, adventurous, historic, family-friendly. Warm sunlight, dark slate and soft gold tones. No people, no text, no logos. Photorealistic illustration style. Clean lower third gradient for text overlay.\n\n**File:** story-5-wmmi-family-day-hero.png\n**Status:** not_started\n\n---\n\n## Summary\n\n| Story | Images | Status |\n|-------|--------|--------|\n| S1 — D49 vote | Social (1200×675) + Hero (1200×630) | not_started |\n| S2 — Flanagan Park | Social (1200×675) + Hero (1200×630) | not_started |\n| S3 — Wiifo recall | Social (1200×675) + Hero (1200×630) | not_started |\n| S4 — D49 free meals | Social (1200×675) + Hero (1200×630) | not_started |\n| S5 — WMMI family day | Social (1200×675) + Hero (1200×630) | not_started |\n\n**Total: 10 image concepts**"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "WMMI Free Family Day — June 12 (TOMORROW)\n### Verified Facts\n| Claim | Confidence | Source |\n|-------|-----------|--------|\n| Event: Free Family Day at Western Museum of Mining and Industry | HIGH | wmmi.org |\n| Date: Saturday, June 12, 2026 | HIGH | wmmi.org |\n| Address: 225 North Gate Blvd, Colorado Springs | HIGH | wmmi.org |\n| Stamp mill machinery demonstrations | HIGH | wmmi.org |\n| Live blacksmith demonstration | HIGH | wmmi.org, pikes-peak.com |\n| Tractor-pulled hayride | HIGH | wmmi.org |\n| Gold Panning Championships | HIGH | wmmi.org, visitcos.com |\n| All outdoor activities are free | HIGH | wmmi.org |\n| Phone: 719-488-0880 | HIGH | wmmi.org |\n| Website: wmmi.org | HIGH | wmmi.org |\n| Near north end of Colorado Springs | HIGH | Address confirms (I-25 Exit 156A area) |\n### Context\nThis is the last reminder — event is tomorrow. Confirmed from June 10 pipeline research. Free outdoor family activity with multiple engagement points (gold panning especially will appeal to kids). Located near the north end of COS near the Air Force Academy. Good weather expected for outdoor activities.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,45 @@
 
 ---
 
+## June 11, 2026
+
+### Story 1: D49 Board of Education Budget Vote — Tonight at 6:30 PM
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (day-of) — D49 Board votes tonight at 6:30 PM, Sand Creek High School (7005 Carefree Cir N) on the 2026–27 budget. ~$2M in cuts effective July 1: Base49, PEAK, preschool, Elevates 18–21, non-core staffing. Public meeting, public comment open. Agenda at d49.org.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** June 11, 2026 at 6:30 PM; Sand Creek High School 7005 Carefree Cir N; fiscal exigency Jan 2026; ~$2M cuts approved Feb 2026 4-1 vote; budget effective July 1; d49.org; Sources: d49.org, koaa.com, gazette.com, pikespeakbulletin.org
+
+### Story 2: Flanagan Park — $750K Federal Renovation
+- **Content Pillar:** Parks Updates / Local News
+- **Angle:** NEW STORY — City of Colorado Springs received $750,000 federal Community Development Block Grant for Flanagan Park rehabilitation. Near Nevada Ave & Fillmore St. New playground structure, ADA trail with lighting, basketball court, court resurfacing, screen fencing. Park built mid-1970s. Work starts summer 2026, complete by January 2027.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** $750,000 CDBG grant; near Nevada Ave & Fillmore St; new playground/ADA trail/basketball court; summer 2026 start; January 2027 completion; Sources: kktv.com (May 8, 2026), koaa.com, coloradosprings.gov
+
+### Story 3: Wiifo Children's Tower Stool Recall — 9,700 Units
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — CPSC recalled ~9,700 Wiifo-brand Children's Tower Stools (Model LT005) on April 23, 2026. Collapse/entrapment hazard; child torso can fit through side openings. 22 incidents, 6 injuries. Amazon only June 2022–March 2026 ~$60. White/natural/light wood. Full refund: disassemble, photo to support@wiifo.net. Separate from Guidecraft Kitchen Helper Tower recall (May 14, 2026).
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC April 23, 2026; Model LT005; ~9,700 units; Amazon only; $60; 22 incidents 6 injuries; support@wiifo.net; Sources: CPSC.gov
+
+### Story 4: D49 Free Summer Meals — 8 Days Left (End June 19)
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (first covered June 6) — D49 free summer meals end June 19. Ages 1–18, free breakfast + lunch, no registration/ID/income verification. Springs Ranch Elementary confirmed site. d49.org for full site list. D49 ends June 19; D11 runs through July 31 (separate program).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Ends June 19; ages 1–18; free breakfast + lunch; no barriers; Springs Ranch Elementary; d49.org; Sources: d49.org, KKTV (June 6)
+
+### Story 5: WMMI Free Family Day — June 12 (Last Reminder)
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (covered June 10; final reminder) — WMMI Free Family Day Saturday June 12. Stamp mill demo, live blacksmith, tractor hayride, Gold Panning Championships. All outdoor activities free. 225 North Gate Blvd COS. 719-488-0880.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** June 12, 2026 (Saturday); all outdoor activities free; 225 North Gate Blvd; 719-488-0880; wmmi.org; Sources: wmmi.org, pikes-peak.com, visitcos.com
+
+---
+
 ## June 10, 2026
 
 ### Story 1: D49 Budget Vote Is Tomorrow — June 11

@@ -1,25 +1,42 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: June 10, 2026
+## Latest Run: June 11, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
-| Research (web search) | COMPLETE | D49 budget vote June 11 (Sand Creek HS 6:30 PM, nearly $2M cuts, d49.org); Guidecraft Kitchen Helper Tower recall (25,235 units, 2022-2023, Amazon/Walmart/Target ~$200, platform loosens/detaches fall hazard, 11 reports 3 injuries, free repair kit 800-524-3555); WMMI Family Day June 12 (225 North Gate Blvd, stamp mill/blacksmith/hayride/gold panning, all free outdoors, wmmi.org); Father's Day COS guide (Pikes Peak free for dads June 20 NOT June 21/Hill Climb, Wolf Center 9-11 AM reservations req, Garden of the Gods free, Renaissance Festival Larkspur, Flying W free hat); D11 Orton Academy moving (K-8 charter, Orton-Gillingham method, moving to Trailblazer Elementary 2026-27, free public school, d11.org) |
-| Story History Check | COMPLETE | 3 NEW STORIES (Guidecraft recall, WMMI Family Day, D11 Orton Academy) + 2 FOLLOW-UPS (D49 budget — prior coverage June 8 was general info, today is vote-is-tomorrow urgent; Father's Day guide — new seasonal content) |
-| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
-| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM confidence tags |
-| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
-| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 each for Stories 1, 2; 1 each for Stories 3, 4, 5); 7 char violations fixed on second run, 1 remaining fixed on third run; all under 280 chars; 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Research (web search) | COMPLETE | D49 budget vote TONIGHT (June 11, 6:30 PM, Sand Creek HS, ~$2M cuts, Base49/PEAK/preschool/Elevates 18-21, d49.org); Flanagan Park $750K CDBG federal renovation (near Nevada/Fillmore, new playground/ADA trail/basketball court, summer 2026 start, Jan 2027 completion); Wiifo Tower Stool recall (CPSC April 23, 2026, Model LT005, ~9,700 units, Amazon June 2022–March 2026, $60, entrapment+collapse, 22 incidents 6 injuries, support@wiifo.net); D49 free summer meals ending June 19 (8 days left, ages 1-18, no barriers, d49.org); WMMI Free Family Day June 12 last reminder (225 North Gate Blvd, stamp mill/blacksmith/hayride/gold panning, all free) |
+| Story History Check | COMPLETE | 2 NEW STORIES (Flanagan Park, Wiifo recall) + 3 FOLLOW-UPS (D49 vote day-of, D49 meals 8-day countdown, WMMI final reminder) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags, 87 total claims |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for Stories 1, 2, 3; 1 each for Stories 4, 5); verify-facts.py passed — 0 char violations; 4 hashtags each; COS voice rules |
 | Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
 | Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
 | Image Manifest | COMPLETE | 07-image-manifest.md — 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
 | Articles | COMPLETE | 5 articles (500–1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no figure tags) |
-| Fact-Check | COMPLETE | verify-facts.py passed (3rd run) — 7 char violations fixed on 2nd run, S4A remaining violation fixed on 3rd run; all 5 stories present |
-| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images |
-| Dashboard | COMPLETE | review-dashboard.html — 22 items |
-| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-10.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-06-10.xlsx (7 TOBI posts) |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction |
+| Fact-Check | COMPLETE | verify-facts.py passed (1 run) — all 5 stories present; 87 claims; 0 char violations; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images |
+| Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-11.xlsx (8 posts) + TOBI cosp-postplanner-tobi-2026-06-11.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
 | WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-11)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-11.xlsx (8 posts), cosp-postplanner-tobi-2026-06-11.xlsx (8 TOBI posts)
+- **Coverage:** D49 budget vote TONIGHT 6:30 PM Sand Creek High School (2026-27 budget, ~$2M cuts effective July 1, Base49/PEAK/preschool/Elevates 18-21/non-core staffing, public comment open, d49.org); Flanagan Park $750K federal makeover (CDBG grant, near Nevada Ave & Fillmore St, new playground/ADA trail with lighting/basketball court, summer 2026 start, January 2027 completion); Wiifo Tower Stool recall (CPSC April 23, 2026, Model LT005, ~9,700 units, Amazon June 2022–March 2026 ~$60, collapse+torso entrapment, 22 incidents 6 injuries, stop use/disassemble/photo to support@wiifo.net for full refund); D49 free summer meals 8 days left (ends June 19, ages 1-18, no registration/ID/income verification, Springs Ranch Elementary, d49.org; D11 runs through July 31); WMMI Free Family Day TOMORROW (June 12, stamp mill/blacksmith/hayride/Gold Panning Championships, all outdoor activities free, 225 North Gate Blvd, 719-488-0880)
+- **Notes:**
+  - verify-facts.py: 1 run — passed; 87 claims; 0 char violations; image not_started warnings cosmetic (expected for gemini source)
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 5 images; posting window warnings cosmetic
+  - dashboard: 28 items
+  - PostPlanner exports: both standard (8) and TOBI (8) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
 
 ## Pipeline Run Log (2026-06-10)
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
