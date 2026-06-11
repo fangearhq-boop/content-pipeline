@@ -4,6 +4,11 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-06-11 | T1 | RBC Canadian Open R1: Fitzpatrick chasing 4th win of 2026 at TPC Toronto; Fleetwood +1200 favorite; no Scheffler/McIlroy; Burns redemption angle; $9.8M; 500 pts FedExCup | X, FB, Article | FOLLOW-UP |
+| 2026-06-11 | T1 | Dow LPGA Championship R1: 72 teams/best-ball/$3.3M; Midland Country Club; Golf Channel/Peacock; unique team format | X, FB, Article | FOLLOW-UP |
+| 2026-06-11 | T2 | LIV Golf crisis: PIF $5B+ leaving after 2026; O'Neil CNBC can't guarantee final 4 events; bankruptcy groundwork underway; New Orleans event postponed; seeking $250-350M new investors | X, FB, Article | FOLLOW-UP |
+| 2026-06-11 | T2 | US Open one week away: Shinnecock Hills June 18-21; Scheffler +567 Grand Slam bid; final round June 21 = 30th birthday; McIlroy/Rahm challengers; 5-inch rough; only 2x under-par 72-hole winner in modern era at Shinnecock | X, FB, Article | FOLLOW-UP |
+| 2026-06-11 | T2 | Sam Burns Canadian Open redemption: lost playoff to Ryan Fox at TPC Toronto last summer; no win since 2023 WGC-Dell Match Play; contender status this week | X, FB, Article | FOLLOW-UP |
 | 2026-06-10 | T1 | RBC Canadian Open preview day-of: Fleetwood +1200 favorite, Fitzpatrick +1300 chasing 4th 2026 win; field: Morikawa/Koepka/Finau/Homa; $9.8M; Poston WD; TPC Toronto North Course starts Thursday | X, FB, Article | FOLLOW-UP |
 | 2026-06-10 | T1 | LIV Golf survival crisis: O'Neil CNBC June 9 — cannot guarantee final 4 events; PIF withdrawing after 2026; seeking $250-350M from investors; bankruptcy planning/Chapter 11; new independent board (Davis/Zinman); PIF chairman Al-Rumayyan stepped down | X, FB, Article | FOLLOW-UP |
 | 2026-06-10 | T2 | Scheffler Grand Slam bid: US Open Shinnecock June 18-21; final round June 21 = his 30th birthday; Scheffler scouted course (48-yd-wide fairways, brutal green complexes); 7th career Grand Slam player if wins | X, FB, Article | FOLLOW-UP |
