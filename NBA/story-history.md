@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-11
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks 107-106 Spurs Game 4 — OG Anunoby tip-in with 1.2 sec left completes 29-pt comeback; largest in Finals history; Brunson 36, Anunoby 33 (career high, 7 3s); Spurs 76 pts H1 → 30 pts H2; Knicks lead 3-1 | 1 | FOLLOW UP |
+| 2 | Game 5 preview — Saturday June 13 8:30 PM ET ABC Frost Bank Center SA; Knicks one win from first title since 1973; Spurs 5.5-pt favorites; only 2016 Warriors ever blew 3-1 Finals lead; Wemby 9-25 needs response | 1 | FOLLOW UP |
+| 3 | Giannis trade — increasing belief deal happens before June 23 draft; Bucks were waiting on Finals outcome; Heat frontrunner; OKC out; Celtics no direct talks; $275M extension real | 2 | FOLLOW UP |
+| 4 | Wembanyama's collapse — 9-25 FG (36%), 24 pts/13 reb; "It just hurts"; Spurs 46-pt swing H1→H2 tied largest shot-clock era; can he reset for elimination Game 5? | 2 | FOLLOW UP |
+| 5 | AJ Dybantsa — 12 days to draft; Wizards scheduling pre-draft meeting; CBS Sports: no longer "the lock everyone assumed"; Peterson still in mix at No. 1; 42-in vertical at Combine | 2 | FOLLOW UP |
+
+### STORY 1: Knicks 107-106 Spurs — Game 4, Largest Comeback in Finals History
+- **Tier:** 1
+- **Category:** NBA Finals / Game Recap
+- **Key facts:** Final: Knicks 107, Spurs 106 (June 10, MSG); Spurs led 76-49 at half (largest road HT lead in Finals history excl. bubble); Brunson 36 pts; Anunoby 33 pts (playoff career-high), 7 3s (playoff career-high), hit game-winning tip-in at 1.2 sec; Wemby 24 pts/9-25 FG/13 reb/3 blk; Spurs H1: 28-47 (59.6%), 76 pts; Spurs H2: 8-39 (20.5%), 30 pts; 46-pt swing tied largest shot-clock era (Elias); 29-pt comeback = largest in Finals history; Knicks lead 3-1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 5 result; Knicks championship celebration
+
+### STORY 2: Game 5 Preview — Knicks One Win From Title
+- **Tier:** 1
+- **Category:** NBA Finals / Game Preview
+- **Key facts:** Game 5: June 13, 8:30 PM ET, ABC, Frost Bank Center, San Antonio; Knicks lead 3-1; Spurs 5.5-pt favorites (ESPN/DraftKings); only 2016 Warriors ever blew 3-1 Finals lead; Knicks won Games 1 and 2 in SA; Knicks can clinch title on the road; Wemby 9-25 in Game 4 needs response
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 5 result; championship clinch
+
+### STORY 3: Giannis Trade — Deal Expected Before June 23
+- **Tier:** 2
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Increasing belief in league circles deal happens before June 23 draft; Bucks reportedly waited on Finals outcome; Heat frontrunner; OKC out; Celtics no direct talks; $275M extension Oct 1; June 23 deadline 12 days away
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announcement; extension confirmed
+
+### STORY 4: Wembanyama's Game 4 Collapse
+- **Tier:** 2
+- **Category:** Player Analysis / NBA Finals
+- **Key facts:** Wemby Game 4: 24 pts, 9-25 FG (36%), 2-8 3PT, 4-7 FT, 13 reb, 3 blk, 44 min; quote: "It just hurts"; Spurs H1→H2 swing tied largest shot-clock era; facing elimination Game 5 in SA
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Wemby Game 5 performance; if Knicks win — Wemby legacy assessment
+
+### STORY 5: AJ Dybantsa — Wizards Meeting, Uncertainty
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** Draft June 23-24 Barclays Center Brooklyn (12 days away); Wizards hosting Dybantsa pre-draft visit "in coming days" (The Athletic); CBS Sports: "not the lock everyone assumed"; Peterson "still in the mix" at No. 1; Dybantsa Combine: 42-in vertical, 7-foot-0.5 wingspan; Dybantsa 25.5 PPG/51.0% FG/BYU/6-9
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official pick announcement June 23
+
 ## 2026-06-10
 
 | # | Story | Tier | Tag |

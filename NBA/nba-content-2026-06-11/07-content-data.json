@@ -1,0 +1,250 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-11",
+  "compiled_at": "2026-06-11T11:14:26.503231+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks 107-106 Spurs — OG Anunoby's Tip-In Completes Largest Comeback in NBA Finals History",
+      "tier": 1,
+      "status": "",
+      "angle": "New York trailed 76-49 at halftime — the largest road halftime deficit in Finals history — before mounting the greatest comeback in Finals history; OG Anunoby tipped in Jalen Brunson's miss with 1.2 seconds left to win 107-106; Brunson finished with 36 points, Anunoby a playoff career-high 33; Spurs shot 8-of-39 in the second half after going 28-of-47 in the first; Knicks now lead series 3-1",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "DOWN 29 AT HALFTIME.\n\nOG Anunoby tip-in with 1.2 seconds left.\n\nKnicks 107, Spurs 106.\n\nThe LARGEST comeback in NBA Finals history. Series lead: 3-1. #KnicksTape #NBAFinals",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#KnicksTape",
+            "#NBAFinals"
+          ],
+          "char_count": 172
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Spurs: 76 pts on 59.6% in the first half.\nSpurs: 30 pts on 20.5% in the second half.\n\nA 46-point swing. Tied for the largest in the shot clock era.\n\nBrunson 36. Anunoby 33 (career high). Knicks lead 3-1. #KnicksTape #NBAFinals",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#KnicksTape",
+            "#NBAFinals"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-knicks-107-106-spurs-largest-comeback-finals-history.html",
+        "headline": "Knicks 107, Spurs 106: OG Anunoby's Tip-In Caps the Largest Comeback in NBA Finals History",
+        "word_count": 694
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Game 4 Recap — Historic Comeback\n\n#### X Image Concept\n- **Search terms:** \"OG Anunoby New York Knicks\"\n- **Overlay text:** \"DOWN 29. 107-106. LARGEST COMEBACK IN NBA FINALS HISTORY.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Explosive celebration, triumphant energy\n\n#### Facebook Image Concept\n- **Search terms:** \"Jalen Brunson New York Knicks\"\n- **Overlay text:** \"THE GREATEST SECOND HALF IN FINALS HISTORY.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Iconic, historic, emotional\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Game 4 Recap — Knicks 107-106 Spurs\n**Verified Facts (HIGH confidence):**\n- Final score: Knicks 107, Spurs 106 (June 10, Madison Square Garden)\n- Series: Knicks lead 3-1\n- Jalen Brunson: 36 points (lead scorer)\n- OG Anunoby: 33 points (playoff career-high), 7 three-pointers (playoff career-high), hit game-winning tip-in with 1.2 seconds left\n- Spurs halftime lead: 76-49 (largest road halftime lead in Finals history, excl. 2020 bubble per CBS Sports)\n- Spurs first half: 28-of-47 (59.6%) from field; scored 76 points\n- Spurs second half: 8-of-39 (20.5%) from field; scored 30 points\n- 46-point swing from first to second half tied for largest in shot clock era (Elias Sports Bureau)\n- OG Anunoby tipped in Brunson's long 3-point attempt at 1.2 seconds remaining\n- Comeback of 29 points is the largest in NBA Finals history (previous record: 24 points)",
+        "sources": "- Source: ESPN, NBA.com, CBS Sports (multiple confirming)\n**Verified Facts (MEDIUM confidence):**\n- Spurs' 14 three-pointers in the first half set a Finals first-half record (per CBS Sports, single source)\n- This came as \"only the second time in Finals history\" that road team won Games 1-3; now NYK lead 3-1\n**Research notes:**\n- Game started as total Spurs domination; Wemby and company could not miss in H1\n- Knicks mounted comeback in second half; MSG erupted\n- Anunoby catch the ball off Brunson's 3-point miss and tipped it with 1.2 seconds left\n- Spurs' second-half shooting collapsed dramatically"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game 5 Preview — Knicks One Win Away From First Championship Since 1973",
+      "tier": 1,
+      "status": "",
+      "angle": "Game 5 is Saturday June 13, 8:30 PM ET on ABC in San Antonio; Spurs are 5.5-point favorites despite facing elimination; Knicks went 2-0 on the road to open this series and can clinch the title in San Antonio; only one team in NBA history (2016 Warriors) has blown a 3-1 lead in the Finals; Wembanyama needs a response after going 9-of-25 in Game 4",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Knicks lead 3-1. Game 5 is Saturday in San Antonio. 8:30 PM ET. ABC.\n\nOnly one team in NBA history has ever blown a 3-1 Finals lead.\n\nSpurs are 5.5-point favorites. The market still believes.\n\nDoes it matter? #KnicksTape #NBAFinals",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#KnicksTape",
+            "#NBAFinals"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-game-5-preview-knicks-one-win-from-championship.html",
+        "headline": "Game 5 Preview: Knicks One Win From First NBA Title Since 1973",
+        "word_count": 643
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Game 5 Preview — Knicks on the Brink\n\n#### X Image Concept\n- **Search terms:** \"New York Knicks celebration\"\n- **Overlay text:** \"ONE WIN. 50 YEARS OF WAITING. SATURDAY 8:30 PM ET.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Anticipation, urgency\n\n#### Facebook Image Concept\n- **Search terms:** \"Jalen Brunson New York Knicks\"\n- **Overlay text:** \"GAME 5. SATURDAY. SAN ANTONIO. KNICKS CAN CLOSE IT.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Championship moment approaching\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Game 5 Preview — June 13, San Antonio\n**Verified Facts (HIGH confidence):**\n- Game 5: Saturday June 13, 8:30 PM ET, ABC, Frost Bank Center, San Antonio\n- Knicks lead series 3-1\n- Spurs listed as 5.5-point favorites per ESPN/DraftKings (per CBS Sports/heavy.com)\n- Knicks went 2-0 to open the series in San Antonio (Games 1 and 2)\n- Knicks can clinch the title on the road in San Antonio\n- Only team to blow a 3-1 Finals lead in NBA history: 2016 Golden State Warriors (lost to LeBron's Cavaliers)\n- So 37 of 38 teams with a 3-1 Finals lead have closed it out\n- Wembanyama: 24 pts, 9-25 FG (36%), 13 reb, 3 blk in Game 4\n**Research notes:**\n- Spurs favorites because Frost Bank Center; have been strong at home in playoffs\n- Knicks proved they can win in SA; this is the same venue where they won Games 1 and 2\n- Historical precedent very strongly in Knicks' favor (3-1 leads almost never blown)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Giannis Trade Expected Before June 23 Draft — Heat Still Frontrunner",
+      "tier": 2,
+      "status": "",
+      "angle": "League sources now have increasing belief a Giannis trade will happen before the June 23 draft; Miami still the frontrunner; the Bucks reportedly waited to see if the Knicks would blow the 2-0 Finals lead before making a move; with New York on the brink of a title, the calculus changes; June 23 deadline remains",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "New from league sources: increasing belief the Giannis trade happens before June 23.\n\nThe Bucks were reportedly waiting to see if the Knicks would blow a 2-0 Finals lead.\n\nThey didn't. The clock is now ticking. #NBA",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-giannis-trade-deal-expected-before-draft.html",
+        "headline": "Giannis Trade Expected Before June 23 Draft as Bucks' Timeline Clears",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis Trade\n\n#### X Image Concept\n- **Search terms:** \"Giannis Antetokounmpo Milwaukee Bucks\"\n- **Overlay text:** \"DEAL EXPECTED BEFORE JUNE 23. HEAT STILL FRONTRUNNER.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Urgency, breaking news feel\n\n#### Facebook Image Concept\n- **Search terms:** \"Giannis Antetokounmpo Milwaukee Bucks\"\n- **Overlay text:** \"12 DAYS. WHAT WILL GIANNIS DECIDE?\"\n- **Dimensions:** 1080x1350\n- **Mood:** Anticipation, mystery\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Trade — Heat Frontrunner, Deal Expected Before Draft\n**Verified Facts (HIGH confidence):**\n- Miami Heat remain the frontrunner for Giannis\n- \"Increasing belief\" in league circles a deal happens before June 23 draft (per CBS Sports)\n- Bucks reportedly waited to see if Knicks would blow Finals lead before deciding on timing (per CBS Sports)\n- June 23 draft is the deadline Bucks co-owner Haslam wants a decision by\n- OKC Thunder not interested\n- Celtics — no direct talks (per Windhorst/ESPN)\n- $275M extension available October 1\n**Verified Facts (MEDIUM confidence):**\n- Giannis reportedly prefers Miami as destination (Yardbarker/Fischer/Stein, single-source compound claim)\n- Giannis has concerns about Heat's roster quality after gutting it to get him",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wembanyama's Collapse — What Went Wrong in Game 4's Second Half",
+      "tier": 2,
+      "status": "",
+      "angle": "Wembanyama led the Spurs with 24 points and 13 rebounds but shot 9-of-25 (36%); the Spurs as a team went from 76 first-half points to just 30 in the second half — a 46-point swing that tied the largest collapse in the shot clock era; the 22-year-old's reaction: \"It just hurts\"; can he reset for an elimination Game 5?",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Victor Wembanyama after Game 4:\n\n\"It just hurts.\"\n\n24 pts. 9-of-25. 13 rebounds. 44 minutes.\n\nThe Spurs scored 76 in the first half. 30 in the second.\n\nCan he reset one more time? Game 5. Saturday. #GoSpursGo #NBAFinals",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GoSpursGo",
+            "#NBAFinals"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-wembanyama-game-4-collapse-elimination-game-5.html",
+        "headline": "Wembanyama After Historic Collapse: \"It Just Hurts\" — Can He Respond in Elimination Game 5?",
+        "word_count": 672
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wembanyama's Collapse\n\n#### X Image Concept\n- **Search terms:** \"Victor Wembanyama San Antonio Spurs\"\n- **Overlay text:** \"76 PTS. THEN 30. 'IT JUST HURTS.' — WEMBANYAMA\"\n- **Dimensions:** 1080x1350\n- **Mood:** Raw emotion, contemplative\n\n#### Facebook Image Concept\n- **Search terms:** \"Victor Wembanyama San Antonio Spurs\"\n- **Overlay text:** \"CAN HE RESET ONE MORE TIME?\"\n- **Dimensions:** 1080x1350\n- **Mood:** Drama, resilience theme\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wembanyama's Game 4 Collapse\n**Verified Facts (HIGH confidence):**\n- Wembanyama Game 4: 24 pts, 9-25 FG, 2-8 3PT, 4-7 FT, 13 reb, 3 blk, 1 ast in 44 minutes\n- Quote: \"It just hurts\" — post-game per olympics.com/news\n- Spurs second half: 8-39 FG (20.5%), 30 pts\n- Spurs first half: 28-47 FG (59.6%), 76 pts\n- 46-point halftime-to-second-half swing: tied largest in shot clock era (Elias Sports Bureau per CBS Sports)\n- Spurs led by as many as 29 points before Knicks comeback\n**Research notes:**\n- Wemby had one of the highest-scoring first halves by any team in Finals history going with him\n- His individual performance was adequate but the team's collapse was historic\n- Age 22, first Finals; question is whether he can do what he did in Game 3 (32 pts after errant pass)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "AJ Dybantsa — 12 Days Left and Wizards Meeting Scheduled",
+      "tier": 2,
+      "status": "",
+      "angle": "12 days until June 23 NBA Draft at Barclays Center; Wizards plan to host Dybantsa for a pre-draft visit in the coming days; despite his \"100%\" proclamation, the Combine revealed unexpected uncertainty — sources say Darryn Peterson remains \"in the mix\" at No. 1; Dybantsa posted a 42-inch vertical and 7-foot wingspan at the Combine",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "12 days to the 2026 NBA Draft.\n\nWizards are scheduling a pre-draft meeting with AJ Dybantsa.\n\nBut CBS Sports says it's \"not the lock everyone assumed.\"\n\nDarryn Peterson is still in the mix at No. 1. #NBADraft",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBADraft"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-dybantsa-wizards-meeting-uncertainty-nba-draft.html",
+        "headline": "Dybantsa to No. 1 Is No Longer a Lock: Wizards Meeting Scheduled as Draft Uncertainty Rises",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AJ Dybantsa — Draft Uncertainty\n\n#### X Image Concept\n- **Search terms:** \"AJ Dybantsa BYU\"\n- **Overlay text:** \"12 DAYS. WIZARDS MEETING SCHEDULED. NO LONGER A LOCK.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Intrigue, breaking news\n\n#### Facebook Image Concept\n- **Search terms:** \"AJ Dybantsa BYU\"\n- **Overlay text:** \"DYBANTSA OR PETERSON? WIZARDS HAVEN'T DECIDED.\"\n- **Dimensions:** 1080x1350\n- **Mood:** Drama, decision-point tension"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AJ Dybantsa — Wizards Meeting, Uncertainty\n**Verified Facts (HIGH confidence):**\n- Draft: June 23-24, Barclays Center, Brooklyn (12 days away)\n- Dybantsa: 25.5 PPG (Division I high), 51.0% FG, 6'9\" / 210 lbs, BYU\n- NBA Combine: 42-inch vertical, 7-foot-0.5 wingspan\n- Wizards plan to host Dybantsa for pre-draft visit \"in the coming days\" (per The Athletic via roundtable.io)\n- Dybantsa previously said he's \"100%\" sure he's going No. 1 to Washington (Bleacher Report)\n- Darryn Peterson \"still in the mix at No. 1\" according to CBS Sports Combine intel\n- Wizards have not officially committed to Dybantsa\n- Wizards record: 17-65; first No. 1 pick since John Wall 2010\n**Verified Facts (MEDIUM confidence):**\n- Peterson expected No. 2 to Utah Jazz if Wizards take Dybantsa (mock drafts, multiple sources)\n- Cameron Boozer projected No. 3 (multiple mock drafts)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

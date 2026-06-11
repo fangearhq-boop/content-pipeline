@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-10
+- **Date**: 2026-06-11
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-11
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-06-11.xlsx (6 posts) + hh-postplanner-tobi-2026-06-11.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-11/review-dashboard.html (21 items)
+- **Notes:** Knicks 107-106 Spurs Game 4 — OG Anunoby tip-in, 29-pt comeback (largest Finals history); Spurs 76 H1 → 30 H2 (46-pt swing tied shot-clock era largest); Brunson 36/Anunoby 33 (career high 7 3s); Wemby 9-25/24pts/"It just hurts"; Game 5 Saturday June 13 SA 8:30 PM ET; Spurs 5.5-pt favorites; Knicks one win from first title since 1973; Giannis deal expected before June 23 draft (Bucks waited on Finals); Dybantsa no longer "lock" per CBS Sports/Peterson in mix/Wizards meeting scheduled
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-10
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
