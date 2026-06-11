@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-11
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 1 tweet 2 289→256; 0 after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (31 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (clean push). Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). FB posts compile to 0 (known heading format). 1 char violation fixed (Story 1 tweet 2 289→256).
+- **Key Stories**: Skubal returns TOMORROW Friday June 12 at Cleveland/day-before preview/Tigers 6-21 without/Aug. 3 deadline watch (Tier 1 FOLLOW UP), Schwarber 23 HR leads MLB/Alvarez 22/60-HR club history (5 players ever) (Tier 1 FOLLOW UP), Braves 3-2 Pirates/Harris II bases-clearing double off Sisk/comeback from 2-0/best record MLB (Tier 2 FOLLOW UP), Angels 13-5 Dodgers/season series win/Trout contributing/interleague statement win (Tier 2 NEW), Thursday roundup/Yankees over Red Sox (Bellinger+Chisholm HRs)/Cardinals 5-3 Reds/Athletics 5-0 Astros (Jump 6.1 IP) (Tier 3 NEW)
+
+## Previous Run
 - **Date**: 2026-06-10
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations after 1 fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (43 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (clean push, no detached HEAD). Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

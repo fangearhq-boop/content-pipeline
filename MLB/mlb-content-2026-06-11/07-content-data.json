@@ -1,0 +1,253 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-11",
+  "compiled_at": "2026-06-11T10:24:09.667466+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Skubal Returns Tomorrow — The Most Anticipated Start of the Season",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Tomorrow.\n\nTarik Skubal — two-time Cy Young, 5 scoreless innings in his rehab start — makes his return to the Tigers rotation.\n\nDetroit is 6-21 without him. The trade deadline is 53 days away.\n\nEvery contender is watching.\n\n#Tigers #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLB"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Skubal is cleared. He starts Friday at Cleveland.\n\nThe most anticipated return of the 2026 season. Two-time Cy Young. From surgery to rehab to ready in 38 days.\n\nHow does he look? The whole trade deadline could hinge on tomorrow.\n\n#Tigers #MLBTradeDeadline",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tigers",
+            "#MLBTradeDeadline"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-skubal-return-friday-cleveland.html",
+        "headline": "Skubal Returns Tomorrow — The Most Anticipated Start of the 2026 Season",
+        "word_count": 636
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Returns Tomorrow\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Countdown graphic — large \"TOMORROW\" text in bold white on dark navy background. Detroit Tigers navy and orange color scheme. Silhouette of a pitcher in windup position in the background, slightly blurred. Text: \"SKUBAL RETURNS\" at top in bold. Bottom stat bar: \"2× CY YOUNG | 5 IP 0 ER REHAB | TIGERS 6-21 WITHOUT HIM\"\n- **Mood:** Anticipation, urgency, excitement\n- **Style:** Bold sports countdown graphic\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Close-up of a baseball mound with a single shoe print. Text overlay: \"THE WAIT IS OVER\" in large white bold text. Detroit Tigers colors in the background. Blurred stadium lights.\n- **Mood:** Dramatic, anticipatory\n- **Style:** Atmospheric photojournalistic editorial\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Schwarber 23 HRs — Still Leading the 60-HR Club Race",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kyle Schwarber: 23 home runs. MLB lead.\n\nYordan Alvarez: 22. Judge: IL. Murakami: IL.\n\nSchwarber is alone at the top of the leaderboard — and on a pace for 60+.\n\nOnly 5 players in history have ever hit 60 HRs in a season. He could be No. 6.\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The 60-HR club has 5 members: Maris. McGwire. Sosa. Bonds. Judge.\n\nKyle Schwarber has 23 HRs on June 11 and the clearest path to that list of anyone in baseball.\n\nThe race is real. The history is real. Watch every at-bat.\n\n#Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-schwarber-23-hr-race-60-club.html",
+        "headline": "Schwarber Has 23 HRs — And the Clearest Path to the 60-HR Club Since Barry Bonds",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber HR Race\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** HR counter graphic on a scoreboard-style background. Bold digital numbers: \"23\" in yellow on black. Text: \"SCHWARBER LEADS MLB\" at top. Bottom: \"ON PACE FOR 60+\" in red. Side panel: \"60-HR CLUB: 5 MEMBERS. EVER.\"\n- **Mood:** Historic, high-energy\n- **Style:** Scoreboard/statistical graphic, bold digital aesthetic\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Baseball launching off a bat at dusk, stadium lights in background, slight motion blur on ball in flight. Text: \"THE RACE TO 60\" in large bold white at bottom.\n- **Mood:** Powerful, historic chase\n- **Style:** Dynamic action sports editorial\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Braves Beat Pirates 3-2 — Best Record in Baseball Continues",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Down 2-0 in the 7th.\n\nMichael Harris II — bases-clearing double. Three runs score.\n\nBraves win 3-2. Best record in baseball. From 76-86 last year to the best team in the sport.\n\nWalt Weiss is managing the best story in baseball.\n\n#Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-braves-beat-pirates-harris-comeback.html",
+        "headline": "Harris II Bases-Clearing Double Caps Comeback — Braves 3-2 Pirates, Best Record Continues",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves Beat Pirates 3-2\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Baseball diamond at night, lights blazing, Atlanta Braves navy and red color scheme. Text: \"BEST RECORD IN BASEBALL\" in bold white. Subtext: \"BRAVES WIN. AGAIN.\" Bottom: \"76-86 LAST YEAR → MLB'S BEST IN 2026\"\n- **Mood:** Dominant, statement, redemption arc\n- **Style:** Bold sports editorial, high contrast\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Clutch hitting image — batter in follow-through position, stadium in the background, confetti effect in Braves colors. Text: \"HARRIS II DELIVERS AGAIN\" in bold white at bottom.\n- **Mood:** Clutch performance, team excellence\n- **Style:** Action sports editorial\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Angels 13-5 Dodgers — Trout and Halos End Season Series With Statement Win",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Angels just beat the defending World Series champs 13-5.\n\nLos Angeles vs. Los Angeles, and it wasn't close. The Halos closed out the season series in style.\n\nMike Trout is still Mike Trout.\n\n#Angels #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Angels",
+            "#MLB"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-angels-13-5-dodgers-season-series.html",
+        "headline": "Angels Rout Dodgers 13-5 — Halos Close Season Series With Statement Win",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Angels 13-5 Dodgers\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Split scoreboard showing \"LAA 13 — LAD 5\" in large bold numbers. Angels red and Dodgers blue color blocking. Text at top: \"STATEMENT WIN\" in white. Bottom: \"Season Series: Halos\"\n- **Mood:** Dominant, rivalry, statement\n- **Style:** Scoreboard graphic, clean and bold\n\n**Image Concept 4B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Aerial stadium view of Angel Stadium at night, bright lights, crowd visible, celebratory atmosphere. Text overlay: \"ANGELS ROUT DODGERS 13-5\" in bold white at bottom.\n- **Mood:** Big win energy, rivalry statement\n- **Style:** Aerial editorial sports photography style\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Thursday Night Roundup — Yankees, Cardinals, Athletics All Win",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Thursday MLB results:\n\nYankees over Red Sox — Bellinger and Chisholm both homer. 2-0 without Judge.\nCardinals 5, Reds 3.\nAthletics 5, Astros 0 — Gage Jump 6.1 scoreless innings.\n\nSeason is getting interesting. #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-thursday-mlb-roundup-june-11.html",
+        "headline": "Thursday MLB Roundup — Yankees Win, Cardinals Hold, Athletics Blank Astros",
+        "word_count": 518
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thursday Roundup\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** gemini / complete\n- **Scene:** Four-panel scoreboard layout showing game results: Yankees over Red Sox, Cardinals over Reds, Athletics over Astros, Braves over Pirates. Each panel in team colors. Header: \"THURSDAY RESULTS\" in bold white. Background: dark stadium.\n- **Mood:** Informational, fan-friendly\n- **Style:** Multi-panel scoreboard infographic\n\n**Image Concept 5B — Article Hero (1200x630)**\n- **Type:** gemini / complete\n- **Scene:** Wide-angle baseball stadium at night — any generic ballpark — with multiple scoreboards visible in the background. Text: \"THURSDAY MLB ROUNDUP\" in bold white type at top.\n- **Mood:** Overview, comprehensive\n- **Style:** Landscape editorial sports"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
