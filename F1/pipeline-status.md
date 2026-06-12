@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-11
+- **Date**: 2026-06-12
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-12
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-12.xlsx (7 posts) + f1fr-postplanner-tobi-2026-06-12.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-12/review-dashboard.html (22 items)
+- **Notes:** Spanish GP Round 8 Barcelona; Antonelli +122/5 wins/Schumacher record on line; Russell 68 pts behind/must-win; Beganovic in Hamilton FP1 seat (mandatory rookie rule/22/F2 P6); Alonso "probably my last Barcelona race in F1" (Formula1.com confirmed/44/32 wins/no official announcement); Verstappen new engine/"step in right direction"/Monaco DNF cause found/P7/0 wins; Hamilton "magical place"/P2 back-to-back/90 pts/6 Barcelona wins; Barcelona = absolute reference point/0% rain/27°C
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-11
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

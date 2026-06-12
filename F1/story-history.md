@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-12
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spanish GP practice day — Antonelli +122/5-win streak/Schumacher record on line; Russell 68 pts behind teammate/must-win; Dino Beganovic took Hamilton FP1 seat; Qualifying Saturday | 1 | FOLLOW UP |
+| 2 | Alonso "probably my last Barcelona race in F1" — 44 years old/Aston Martin/struggling 2026; two titles/32 wins; home circuit; no official announcement | 1 | NEW STORY |
+| 3 | Verstappen new engine at Barcelona — found Monaco DNF cause (power unit formation lap); "step in right direction"; high-speed corners still weak; Canada podium; P7/43 pts/0 wins | 2 | FOLLOW UP |
+| 4 | Hamilton says Ferrari heading to "magical place" — P2 back-to-back/90 pts; Beganovic in FP1 (mandatory rookie rule/22-yr-old F2 P6); 6 Barcelona wins | 2 | FOLLOW UP |
+| 5 | Barcelona as F1's technical benchmark — "absolute reference point"; 0% rain/27°C; Mercedes leads/Ferrari chasing/Red Bull upgrade test | 2 | NEW STORY |
+
+### STORY 1: Spanish GP Practice Day — Antonelli Hunting Schumacher Record
+- **Tier:** 1
+- **Category:** Race Preview / Practice Day
+- **Key facts:** Round 8, Circuit de Barcelona-Catalunya; FP1/FP2 Friday June 12; Qualifying Saturday; Race Sunday June 14, 9:00 AM ET ESPN; Antonelli: 5 wins, 156 pts, 66-pt lead, +122 to win; Dino Beganovic in Hamilton Ferrari FP1 seat (mandatory rookie rule); Russell 68 pts behind Antonelli; Mercedes historically dominant at Barcelona
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result; Race result
+
+### STORY 2: Alonso's Farewell — "Probably My Last Barcelona Race in F1"
+- **Tier:** 1
+- **Category:** Driver Spotlight / Retirement
+- **Key facts:** Alonso quote: "2026 is probably my last Barcelona race in F1" (confirmed via Formula1.com); age 44; Aston Martin; P20 in 2026 championship; 32 career wins; 2 WDCs (2005, 2006); home race in Spain; no official retirement announcement — language is "probably"
+- **Status:** NEW STORY
+- **Follow-up ideas:** Official retirement announcement; final race coverage
+
+### STORY 3: Verstappen New Engine
+- **Tier:** 2
+- **Category:** Team Analysis / Red Bull
+- **Key facts:** Monaco DNF cause: power unit failure releasing clutch on formation lap; new PU installed for Barcelona; Verstappen: "step in the right direction"; high-speed corners acknowledged as weakness; Barcelona = real test; Canada podium showing recovery; P7, 43 pts, 0 wins in 2026; 7/1 betting odds
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying/race result; Red Bull upgrade verdict
+
+### STORY 4: Hamilton / Ferrari Progress / Beganovic
+- **Tier:** 2
+- **Category:** Driver Spotlight / Ferrari
+- **Key facts:** Hamilton quote (Sky Sports): Ferrari heading to "magical place" at top of F1; Hamilton: P2 in back-to-back races, 90 pts, leads Ferrari battle vs Leclerc; Dino Beganovic (22, Swedish, Ferrari Academy since 2020, F2 P6, P2 Miami F2 feature) in FP1 (mandatory); Hamilton won 6 times at Barcelona (with Mercedes)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hamilton qualifying/race result; Ferrari vs Mercedes pace comparison
+
+### STORY 5: Barcelona as Technical Benchmark
+- **Tier:** 2
+- **Category:** Technical Analysis / Championship
+- **Key facts:** Barcelona called "absolute reference point" for car development; 4.6km circuit; mix of slow/medium/high-speed corners; 0% rain forecast, 27°C; Mercedes expected fastest; Ferrari second-best; Red Bull hoping new engine works at high-speed sections; McLaren consistent; Aston Martin emotional Alonso factor
+- **Status:** NEW STORY
+- **Follow-up ideas:** Race result as confirmation of pecking order
+
 ## 2026-06-11
 
 | # | Story | Tier | Tag |
