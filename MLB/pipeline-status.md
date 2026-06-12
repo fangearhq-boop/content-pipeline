@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-12
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (34 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (clean push). Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). FB posts compile to 0 (known heading format). 0 char violations. Skubal starts Saturday June 13 (not Friday — corrected from June 11 pipeline note).
+- **Key Stories**: Skubal starts Saturday June 13 at Cleveland/activated from IL/38-day elbow surgery/5 IP 0 ER 6K rehab/Tigers 7-2 June/Casey Mize Sunday/Aug. 3 deadline watch (Tier 1 FOLLOW UP), Scherzer 3,500 Ks (11th pitcher ever/Blue Jays/struck out Schwarber June 10/may be last ever) (Tier 1 NEW), Schwarber 23 HR leads MLB/Alvarez 22/60-HR club pace/Derby in Philadelphia (Tier 1 FOLLOW UP), Braves 44-21 best record/76-86 last year/Walt Weiss/Sale anchoring (Tier 2 FOLLOW UP), Friday roundup Dodgers 5-4 Pirates/Orioles 6-5 Mariners/Padres 5-3 Reds/Nationals 6-3 Giants (Tier 3 NEW)
+
+## Previous Run
 - **Date**: 2026-06-11
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 1 tweet 2 289→256; 0 after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (31 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (clean push). Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

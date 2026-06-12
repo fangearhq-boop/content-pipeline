@@ -2665,3 +2665,60 @@ Each day's stories are appended at the top (newest first).
   - Sánchez streak ending and reaction
   - Reds record as season progresses
   - Tigers walk-off misery context
+
+---
+
+## Pipeline Run: June 12, 2026
+
+### Story 1: Tarik Skubal Returns Saturday at Cleveland
+- **Date:** 2026-06-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 11 — Skubal day-before countdown; scheduled for Saturday June 13, not Friday June 12 as previously stated)
+- **Angle:** Two-time AL Cy Young winner Tarik Skubal activates from IL and starts Saturday June 13 at Cleveland Guardians — 38 days after arthroscopic elbow surgery (loose bodies). Rehab start: 5 IP, 0 ER, 2 H, 6 K, 0 BB. Tigers went 6-21 without him overall but 7-2 in June. Casey Mize returns Sunday. Trade deadline August 3. Every contender watching.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal's Saturday start result (tomorrow — KEY story)
+  - Trade deadline movement after seeing healthy Skubal
+  - Tigers' AL Central positioning after full rotation returns
+
+### Story 2: Max Scherzer Becomes 11th Pitcher with 3,500 Strikeouts
+- **Date:** 2026-06-12
+- **Tier:** 1
+- **Classification:** NEW STORY (milestone achieved June 10 vs. Phillies at Rogers Centre — not previously covered)
+- **Angle:** Blue Jays ace Scherzer struck out Schwarber with changeup June 10 for career K No. 3,500. 11th pitcher in MLB history. Club: Ryan 5,714/R. Johnson 4,875/Clemens 4,672/Carlton 4,136/Blyleven 3,701/Seaver 3,640/Sutton 3,574/Verlander 3,554/G. Perry 3,534/W. Johnson 3,509. SI: may be last pitcher ever to reach milestone.
+- **Content Produced:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Scherzer's career end/legacy
+  - Whether any active pitcher can realistically reach 3,500
+
+### Story 3: Schwarber Leads MLB With 23 HRs — 60-HR Conversation Begins
+- **Date:** 2026-06-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 11 — Schwarber 23 HR, Alvarez 22)
+- **Angle:** Schwarber 23 HR leads MLB. Alvarez 22. Hit No. 20 on May 15 (one of earliest MLB history). Pace: ~66 HRs. 60+ club: Bonds/McGwire/Sosa only. Home Run Derby in Philadelphia (his home park). Judge on IL, Murakami on IL. HR race is Schwarber vs. Alvarez.
+- **Content Produced:** Article (article-03), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Weekly Schwarber HR pace updates
+  - Home Run Derby roster announcement
+  - Alvarez overtaking the lead
+
+### Story 4: Braves 44-21 — Best Record in Baseball and Historic Turnaround
+- **Date:** 2026-06-12
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 11 — Braves 3-2 Pirates, best record)
+- **Angle:** Braves 44-21 (best record MLB). Went 76-86 last year. Projected 109-win pace. Walt Weiss first full season managing. Sale anchoring rotation. Acuña contributing. NL East lead effectively closed.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Braves at All-Star break record
+  - Walt Weiss Manager of the Year candidacy
+  - NL pennant race context
+
+### Story 5: Friday Night MLB Roundup — Dodgers, Orioles, Padres, Nationals
+- **Date:** 2026-06-12
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Friday June 12 results: Dodgers 5-4 Pirates, Orioles 6-5 Mariners, Padres 5-3 Reds, Nationals 6-3 Giants. Weekend context with Skubal's Saturday start as the featured follow-up.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Saturday results (Skubal vs. Guardians)
+  - Sunday wrap of full series
