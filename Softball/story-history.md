@@ -3149,3 +3149,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - Texas replacing Zaleski and Earleywine
   - Gascoigne's impact at Colorado State
+
+---
+
+## Pipeline Run: June 12, 2026
+
+### Story 1: Samantha Swan Officially Signs with Texas
+- **Date:** 2026-06-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 11 — commitment watch; June 10 — Swan visits Texas)
+- **Angle:** ASU graduate transfer catcher Samantha Swan (.383 BA / 12 HR / 55 RBI / .917 career OPS / First-Team All-Big 12) officially signs with Texas. No. 1 catcher in portal by Softball America. From Georgetown, TX — same hometown as Isa Torres. Went 4-for-10 with HR and 5 RBI against Texas in 2026 Super Regional. Fills Texas's biggest roster hole. One year eligibility. Immediately eligible.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Isa Torres decision — Georgetown, TX connection now reinforced
+  - Texas's full portal class taking shape
+  - Swan's first season stats at Texas in 2027
+
+### Story 2: Torres Watch — Day 5 Uncommitted
+- **Date:** 2026-06-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 11 — Day 4 uncommitted)
+- **Angle:** D1 Softball Player of the Year Isa Torres (.530 BA / .978 SLG / .591 OBP / 78 runs / NCAA record 16 consecutive at-bats with a hit) remains uncommitted on Day 5. Texas and Texas A&M frontrunners. From Georgetown, TX (30 min from UT campus). Portal closes June 22 — 10 days remain.
+- **Content Produced:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Torres commitment announcement (imminent — 10 days left)
+  - Impact analysis at whichever program she chooses
+
+### Story 3: Jaysoni Beachum — Day 5, No. 1 Transfer Still Available
+- **Date:** 2026-06-12
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 11 — Day 4 uncommitted)
+- **Angle:** Beachum (.417 BA / 16 HR / 66 RBI / .549 OBP / 54 walks) still uncommitted Day 5. No. 1 transfer by Softball America. Career: 37 HR / 35 2B / 180 RBI / 158 R / 202 H over 3 FSU seasons. 2024 NFCA Freshman of the Year (first FSU/ACC winner). 2026 Second-Team All-American.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment announcement (imminent)
+  - Impact analysis at destination program
+
+### Story 4: Portal Roundup — Plumlee to Alabama; Polar Still Available
+- **Date:** 2026-06-12
+- **Tier:** 2
+- **Classification:** NEW (Plumlee) + FOLLOW UP (Polar — Day 5 uncommitted)
+- **Angle:** Kailey Plumlee (Tennessee LHP, redshirt freshman, 4 years eligible) commits to Alabama June 10 — first LHP for Tide since Lauren Esman 2024. Joins staff with 1.57 ERA (2nd nationally). Moriah Polar (.555 BA / 101 hits / 218 career hits / 2nd-team All-American) still uncommitted Day 5 at Purdue.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Polar commitment announcement
+  - Plumlee's development at Alabama
+  - Georgia (Kylie Hammonds), ASU pitcher to UCLA
+
+### Story 5: Texas Coaching Search — Two Open Spots, Three-Peat on the Line
+- **Date:** 2026-06-12
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 10 — Earleywine to Tennessee; June 10 — Zaleski departure)
+- **Angle:** Mike White must replace Zaleski (associate HC) and Earleywine (OC, engineered 99 HRs / Katie Stewart 31-HR record). Swan portal win shows recruiting engine still running. Portal window closes June 22. NFCA transactions board active.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Texas coaching hires announced
+  - Whether new staff can maintain offensive production
+  - Texas's final portal class

@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-12
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (55 claims, 0 char violations, consistency clean), compile (5 stories, 6 tweets, 0 FB parsed — known heading format, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). FB posts compile to 0 (known heading format). 0 char violations. Detached HEAD resolved via stash + checkout main + pull --rebase + stash pop.
+- **Key Stories**: Swan (ASU catcher .383/12HR/55RBI/All-Big 12) signs Texas/from Georgetown TX/No. 1 portal catcher (Tier 1 FOLLOW UP June 11), Torres Day 5 still uncommitted/Texas+A&M pursuing/.530 D1 POY/portal closes June 22/same hometown as Swan (Tier 1 FOLLOW UP June 12), Beachum (FSU 3B .417/16HR/66RBI/.549 OBP) Day 5 uncommitted/No. 1 Softball America transfer (Tier 1 FOLLOW UP June 11), Portal roundup: Plumlee (Tennessee LHP) commits Alabama/4 yr eligible + Polar (.555 BA/101 hits/Purdue AA) still available (Tier 2 NEW+FOLLOW UP), Texas staff search/White needs 2 hires/Zaleski+Earleywine gone (Tier 3 FOLLOW UP)
+
+## Previous Run
 - **Date**: 2026-06-11
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 5 tweet 298→237; 0 after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (54 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (cherry-pick after pull --rebase resolved). Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
