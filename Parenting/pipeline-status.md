@@ -1,5 +1,43 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 12, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | D49 budget formally adopted June 11 evening (2026-27 budget, ~$2M cuts effective July 1, Base49/PEAK/preschool/Elevates 18-21, 12 teacher positions, enrollment decline); Joyin Sloosh dive sticks recall (CPSC June 11, ~254,000 units, Model 40041, impalement hazard exceeds compression limits, Amazon/Target/Temu/Wayfair/SHEIN Feb 2019–Oct 2025, $17–22, free replacement sticks); Cosyland tower stool recall (~125,200 units, Models CS0003/CS0092-4, bamboo/gray, Amazon only Apr 2021–Nov 2025, ~$70, 25 reports 8 injuries 1 fracture, free repair kit cosyland.com/pages/recall, 3rd tower stool brand recalled in 2026); AAP 2026 screen time guidelines (no screens under 18mo, 1hr/day quality content ages 2-5, quality+context for older kids, device-free bedrooms highest-impact); D49 free summer meals ending June 19 (7 days left, ages 1-18, no barriers, Springs Ranch Elementary, d49.org; D11 through July 31) |
+| Story History Check | COMPLETE | 3 NEW STORIES (Joyin recall, Cosyland recall, AAP screen time) + 2 FOLLOW-UPS (D49 budget — adopted, not just previewed; D49 free meals day 2 of countdown) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S2, S4), Jamie Rivera (S1, S3, S5) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for Stories 1, 2, 3; 1 each for Stories 4, 5); 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images; all not_started; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500–1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py passed (1 run) — all 5 stories present; 83 claims; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 5 FB posts, 5 articles, 10 images |
+| Dashboard | COMPLETE | review-dashboard.html — 28 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-12.xlsx (8 posts) + TOBI cosp-postplanner-tobi-2026-06-12.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-12)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts in PostPlanner xlsx; posting windows 13:10–20:52 (66 min apart)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-12.xlsx (8 posts), cosp-postplanner-tobi-2026-06-12.xlsx (8 TOBI posts)
+- **Coverage:** D49 budget formally adopted June 11 (2026-27 budget, ~$2M cuts take effect July 1, Base49/PEAK/preschool/Elevates 18-21, 12 teacher positions eliminated, enrollment decline root cause, d49.org); Joyin Sloosh dive sticks CPSC recall (June 11, ~254,000 units, Model 40041, impalement hazard exceeds federal compression limits, Amazon/Target/Temu/Wayfair/SHEIN Feb 2019–Oct 2025 $17–22, stop use/dispose/photo/contact Joyin for free replacement sticks, other Sloosh pieces not recalled, cpsc.gov); Cosyland tower stool recall (~125,200 units, Models CS0003/CS0092-4, bamboo and gray finishes, Amazon only Apr 2021–Nov 2025 ~$70, collapse+entrapment hazard, 25 reports/8 injuries/1 fractured arm, free repair kit with nets+stabilizing feet+instructions at cosyland.com/pages/recall, 3rd brand recalled in 2026 after Guidecraft/Wiifo); AAP 2026 screen time guidance (no screens under 18mo/video calling OK; 1hr/day quality content ages 2-5; quality+context+co-viewing for older kids; device-free bedrooms and mealtimes highest-impact; summer reframe: intentional not zero); D49 free summer meals 7 days left (ends June 19, any child ages 1-18, free breakfast+lunch, no registration/ID/income verification, Springs Ranch Elementary, d49.org, D11 families through July 31 at d11.org)
+- **Notes:**
+  - verify-facts.py: 1 run — passed; 83 claims; image not_started warnings cosmetic (expected for gemini source)
+  - compile: 5 stories, 8 X posts, 5 FB posts, 5 articles, 10 images; posting window warnings cosmetic
+  - dashboard: 28 items
+  - PostPlanner exports: both standard (8) and TOBI (8) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: June 11, 2026
 
 | Step | Status | Notes |

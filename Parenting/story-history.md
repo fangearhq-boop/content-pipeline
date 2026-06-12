@@ -2,6 +2,45 @@
 
 ---
 
+## June 12, 2026
+
+### Story 1: D49 Budget Cuts Take Effect July 1
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP — D49 Board formally adopted 2026-27 budget Wednesday evening. Cuts approved 4-1 in February are now final and take effect July 1. Base49 eliminated/reduced, PEAK reduced, preschool cut, Elevates 18-21 impacted, 12 teacher positions eliminated. 19 days for families to find alternatives. Enrollment decline is root cause.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Budget adopted June 11, 2026; 4-1 vote in February; July 1 effective; Base49/PEAK/preschool/Elevates 18-21 affected; 12 teacher positions eliminated; d49.org; Sources: d49.org, koaa.com, gazette.com
+
+### Story 2: Joyin Sloosh Dive Sticks Recall — 254,000 Units
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — CPSC recalled approximately 254,000 Joyin Sloosh dive sticks on June 11, 2026. Impalement hazard; exceeds federal compression limits. Model 40041, ~7 inches long. Part of Sloosh 30-piece water toy set. Sold Amazon/Target/Temu/Wayfair/SHEIN Feb 2019–Oct 2025 for $17–22. Stop using, dispose, photograph, contact Joyin for free redesigned replacements. Other pieces in the 30-piece set are not recalled.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~254,000 units; Model 40041; CPSC June 11, 2026; $17–22; Amazon/Target/Temu/Wayfair/SHEIN; Feb 2019–Oct 2025; free replacement sticks; Sources: cpsc.gov
+
+### Story 3: Cosyland Tower Stool Recall — 125,200 Units
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — CPSC recalled approximately 125,200 Cosyland children's tower stools (Models CS0003, CS0092-4). Collapse and entrapment hazard; torso can fit through front/back openings. 25 stability/fall reports, 8 injuries including 1 fractured arm. Natural bamboo and gray finishes. Amazon only, April 2021–November 2025, ~$70. Free repair kit (protective nets, stabilizing feet) at cosyland.com/pages/recall. Third tower stool brand recalled in 2026 (after Wiifo in April, Guidecraft in May).
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ~125,200 units; Models CS0003/CS0092-4; Amazon only; $70; 25 reports, 8 injuries, 1 fracture; cosyland.com/pages/recall; Sources: cpsc.gov
+
+### Story 4: AAP 2026 Screen Time Guidelines
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (summer context) — AAP 2026 screen time guidance. No screens under 18 months (video calling exception). Ages 2–5: ~1 hr/day high-quality content. Older kids: quality and context over time limits. Highest-impact interventions: device-free bedrooms and mealtimes. Co-viewing builds digital literacy. Summer reframe: intentional screens, not zero screens.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AAP 2026; no screens under 18mo; 1hr/day ages 2–5; device-free bedrooms strongest intervention; co-viewing recommended; healthychildren.org; Sources: AAP (healthychildren.org)
+
+### Story 5: D49 Free Summer Meals — 7 Days Left (Ends June 19)
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (day 2) — D49 free summer meals end June 19 — 7 days left. Ages 1–18, free breakfast + lunch, no registration/ID/income verification. Springs Ranch Elementary confirmed site. d49.org for full list. D11 families: program runs through July 31 at d11.org. Context: D49 budget cuts take effect July 1, making this one of the last district-wide family benefits before that transition.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Ends June 19; ages 1–18; no barriers; Springs Ranch Elementary; d49.org; D11 through July 31 at d11.org; Sources: d49.org
+
+---
+
 ## June 11, 2026
 
 ### Story 1: D49 Board of Education Budget Vote — Tonight at 6:30 PM
