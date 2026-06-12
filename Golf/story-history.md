@@ -4,6 +4,11 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-06-12 | T1 | RBC Canadian Open R2: Burns/Koepka/Theegala/Cole/Grillo/Anderson share R1 lead -6; Fitzpatrick -3 (3 back, chasing 4th 2026 win); Fox defending champ at -4; R2 underway | X, FB, Article | FOLLOW-UP |
+| 2026-06-12 | T1 | US Open 6 days away: Scheffler +550 Grand Slam bid at Shinnecock (June 18-21); McIlroy +900; Rahm +1400; Scheffler toured June 1 ("extraordinarily difficult" greens/wide fairways); best short game +0.5/round; final round June 21 = 30th birthday | X, FB, Article | FOLLOW-UP |
+| 2026-06-12 | T2 | Dow LPGA Championship R2: Three-way -3 tie (Boyd/Zhang, Broch Estrup/Dryburgh, Kaur/Naveed); Korda/Cowan 3 back; 2 rounds remain | X, FB, Article | FOLLOW-UP |
+| 2026-06-12 | T2 | LIV Golf: $66M May + $130M June PIF injections; still seeking $250-350M; Gene Davis + Jon Zinman (turnaround/bankruptcy specialists) on new board; CEO can't guarantee final 4 events; PIF exits after 2026 | X, FB, Article | FOLLOW-UP |
+| 2026-06-12 | T2 | Sam Burns redemption: Burns tied for R1 lead at -6 at same course (TPC Toronto) where he lost Canadian Open playoff to Fox last summer; no win since 2023 WGC-Dell Match Play; Fox at -4 this week | X, FB, Article | FOLLOW-UP |
 | 2026-06-11 | T1 | RBC Canadian Open R1: Fitzpatrick chasing 4th win of 2026 at TPC Toronto; Fleetwood +1200 favorite; no Scheffler/McIlroy; Burns redemption angle; $9.8M; 500 pts FedExCup | X, FB, Article | FOLLOW-UP |
 | 2026-06-11 | T1 | Dow LPGA Championship R1: 72 teams/best-ball/$3.3M; Midland Country Club; Golf Channel/Peacock; unique team format | X, FB, Article | FOLLOW-UP |
 | 2026-06-11 | T2 | LIV Golf crisis: PIF $5B+ leaving after 2026; O'Neil CNBC can't guarantee final 4 events; bankruptcy groundwork underway; New Orleans event postponed; seeking $250-350M new investors | X, FB, Article | FOLLOW-UP |

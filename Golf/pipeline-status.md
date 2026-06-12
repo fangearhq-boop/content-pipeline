@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-11
+- **Date**: 2026-06-12
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-12
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-06-12.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-12.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-12/review-dashboard.html (22 items)
+- **Notes:** Canadian Open R2 underway (Burns/Koepka/Theegala/Cole/Grillo/Anderson share R1 lead -6; Fitzpatrick -3 chasing 4th 2026 win; Fox defending at -4); US Open 6 days away (Scheffler +550/Grand Slam/30th birthday final round/brutal Shinnecock greens; McIlroy +900; Rahm +1400); Dow LPGA R2 (3-way tie -3: Boyd/Zhang, Broch Estrup/Dryburgh, Kaur/Naveed; Korda 3 back); LIV Golf ($130M June PIF injection/still needs $250-350M/turnaround specialists on board/CEO can't guarantee final 4 events); Burns redemption (tied for R1 lead at same course where he lost playoff to Fox last year)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-11
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
