@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-11
+- **Date**: 2026-06-12
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-12
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-06-12.xlsx (7 posts) + hh-postplanner-tobi-2026-06-12.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-12/review-dashboard.html (22 items)
+- **Notes:** Game 5 tomorrow (June 13, SA, 8:30 PM ET); Knicks 3-0 road closeouts (+39.3 margin); 5.5-pt underdogs; first title since 1973 on line; Celtics now "in on Giannis" (Simmons); Giannis comparing Heat/Celtics rosters; Heat still frontrunner; Nets dark horse; 11 days to June 23 draft; Dybantsa/Peterson/Boozer green room confirmed; Wizards meeting Dybantsa; No. 1 still open; Wemby 40.3 min/game, two-day break, projected 29 pts
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-11
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

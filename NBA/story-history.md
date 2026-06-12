@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-12
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Game 5 preview — Sat June 13 8:30 PM ET ABC Frost Bank Center SA; Knicks 3-0 road closeouts (+39.3 avg margin); 5.5-pt underdogs; one win from first title since 1973; 96% hist rate for 3-1 leads | 1 | FOLLOW UP |
+| 2 | Giannis trade — Celtics now "in on Giannis" (Simmons); Giannis comparing Heat/Celtics rosters; Heat still frontrunner; Amick: "no strong signs" Celtics attacking; Nets dark horse (picks + Claxton); 11 days to June 23 | 1 | FOLLOW UP |
+| 3 | Wembanyama — 40.3 min/game postseason avg (career high); Game 4: 9-25/24pts/"It just hurts"; two-day break; SportsLine projects 29 pts Game 5; elimination game at home | 2 | FOLLOW UP |
+| 4 | AJ Dybantsa green room confirmed — Peterson, Boozer also invited; Wizards meeting scheduled; No. 1 still open; Dybantsa first since Bird (1979) with 25.5/6.8/3.7 + consensus AA; 11 days to draft | 2 | FOLLOW UP |
+| 5 | Knicks road closeout dominance — 3-0 SU/ATS all road; +39.3 avg margin; already won twice at Frost Bank Center; 96% hist rate; Brunson leadership; 53-year drought | 2 | FOLLOW UP |
+
+### STORY 1: Game 5 Preview — Knicks Can Clinch First Title Saturday in San Antonio
+- **Tier:** 1
+- **Category:** NBA Finals / Game Preview
+- **Key facts:** Game 5: June 13, 8:30 PM ET, ABC, Frost Bank Center, San Antonio; Knicks lead 3-1; Spurs 5.5-pt favorites (FanDuel/ESPN); total 216.5; Knicks 3-0 SU/ATS in road closeout games this postseason (+39.3 avg margin); only 2016 Warriors blew 3-1 Finals lead; Knicks already won Games 1-2 in SA; Wemby averaging 40.3 min/game (career high); SportsLine: Brunson 24 pts, Wemby 29 pts projected; last Knicks title: 1973
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 5 result; Knicks championship celebration
+
+### STORY 2: Giannis Trade — Celtics Emerge as Rival to Heat
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Celtics "in on Giannis" per Bill Simmons/The Ringer; Giannis comparing Heat and Celtics rosters (BR); Heat still frontrunner — Miami top of wish list; Amick (The Athletic): "no strong signs" Celtics attacking; Nets dark horse: picks + Claxton/Porter; Bucks owner Haslam wants deal by June 23; deal expected after Finals, before draft; $275M extension Oct 1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announcement; destination confirmed
+
+### STORY 3: Wembanyama — Elimination Game at Home
+- **Tier:** 2
+- **Category:** Player Analysis / NBA Finals
+- **Key facts:** Wemby averaging 40.3 min/game postseason (career high); Game 4: 9-25 FG (36%), 24 pts, 13 reb, 3 blk, 44 min; quote: "It just hurts"; two-day break to recharge; SportsLine projects 29 pts Game 5; Knicks holding him to 10.5 reb/game; Game 3: 32 pts (showed what he can do); age 22, first Finals
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Wemby Game 5 performance; if Spurs lose — Wemby legacy piece
+
+### STORY 4: AJ Dybantsa Green Room Confirmed — 11 Days to Draft
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** Dybantsa, Peterson, Boozer all confirmed for NBA Draft green room at Barclays Center (Bleacher Report); Wizards meeting Dybantsa "in coming days" (Aldridge/Robbins, The Athletic); No. 1 still open per multiple reports; Dybantsa: 25.5 PPG/6.8 RPG/3.7 APG/51.0% FG at BYU; first player since Bird (1978-79) with those averages + consensus AA; Combine: 42-in vertical, 7-0.5 wingspan; draft June 23-24, Barclays Center, Brooklyn
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official No. 1 pick announcement
+
+### STORY 5: Knicks' Road Closeout Dominance
+- **Tier:** 2
+- **Category:** Team Analysis / NBA Finals
+- **Key facts:** Knicks 3-0 SU/ATS in closeout games (all road); +39.3 avg margin; already beat Spurs at Frost Bank Center in Games 1 and 2; teams with 3-1 Finals lead win 96% of the time; only 2016 Warriors ever overcame 3-1 deficit; Knicks last title 1973 (53 years); 13-game win streak entering series
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Championship clinch story
+
 ## 2026-06-11
 
 | # | Story | Tier | Tag |
