@@ -5,6 +5,72 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-12
+
+### STORY 1: Series Preview — Cubs Open 3 Games at Oracle Park
+- **Angle:** NEW STORY (is_series_start_today=true; Cubs 35-34 at Giants 28-41 at Oracle Park; Assad starts Game 1 tonight at 9:15 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, required series-start preview)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 1 result (Assad vs. Roupp)
+  - Series win/loss tracking (Giants 28-41, favorable opponent)
+  - Boyd return timeline — any official update from Cubs organization
+
+### STORY 2: Cubs 9, Rockies 3 — Seiya Suzuki Grand Slam
+- **Angle:** NEW STORY (June 11 game recap; Suzuki 4th-inning slam = 10th HR, 3rd career grand slam; Bregman 2-run HR; Cabrera 4th W; Cubs snapped 3-game skid with 9 runs, most since May 27)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, morning game recap)
+- **Follow-Up Opportunities:**
+  - Giants series Game 1 result tonight
+  - Suzuki season stat update as sample grows
+  - Cubs offense sustaining production vs. Giants
+
+### STORY 3: Ben Brown — 1.74 ERA, Saturday's Ace
+- **Angle:** FOLLOW UP (Brown narrative ongoing since June 3; today's angle = Saturday starter at Oracle Park, the only reliable arm heading into the road trip; 1.74 ERA, 0.88 WHIP, 58 K, 0 HR as starter)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, stat breakdown / bold take)
+- **Follow-Up Opportunities:**
+  - Brown's Game 2 result at Oracle Park (Saturday)
+  - All-Star selection announcement (July)
+  - ERA update after the start
+
+### STORY 4: Rotation Crisis + Trade Deadline (52 Days)
+- **Angle:** FOLLOW UP (rotation crisis arc ongoing; Boyd shoulder setback first covered June 11; today's angle = full scope of 4 starters simultaneously unavailable + specific trade targets: Detmers, Ryan, Alcantara + August 3 = 52 days)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold analysis)
+- **Follow-Up Opportunities:**
+  - Any trade announcement involving the Cubs
+  - Boyd's return timeline update
+  - Assad's performance tonight as the stopgap solution
+
+### STORY 5: Wild Card Reality — Cubs 35-34, Brewers 41-23
+- **Angle:** FOLLOW UP (standings covered daily; today's fresh angle = 35-34 after bounce-back win, but Brewers at 41-23 means division is gone and wild card is the honest goal)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update after tonight's game result
+  - NL Wild Card standings specifics
+  - Brewers schedule check for any vulnerability
+
+### STORY 6: Iowa Cubs 10-2 Win + Antoine Kelly at Iowa
+- **Angle:** NEW STORY for this angle (Iowa beat Louisville 10-2 June 10; Kelly progress is first Iowa-specific coverage this week; system depth as the quiet insurance policy)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect update)
+- **Follow-Up Opportunities:**
+  - Iowa Cubs series results vs. Louisville
+  - Kelly's stats at Iowa as he builds toward a potential callup
+  - Other system prospects making noise (Kepley, South Bend)
+
+### STORY 7: Pre-Game Hype — Giants Accountability Test
+- **Angle:** NEW STORY (different frame from series preview; Tony Vitello's first-year Giants at 28-41; Cubs need to prove they can beat bad teams consistently; tonight is the test)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game bold take)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 1 result
+  - Series win/loss tracking
+
+---
+
 ## 2026-06-11
 
 ### STORY 1: Rockies 3, Cubs 2 — Walk-Off Loss, Bullpen Collapses

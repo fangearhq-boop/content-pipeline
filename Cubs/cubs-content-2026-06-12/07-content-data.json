@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-12",
+  "compiled_at": "2026-06-12T09:23:40.826624+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series preview — Cubs at Oracle Park, Game 1 of 3",
+      "type": "Series preview (required)"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Game recap — Cubs 9, Rockies 3 (Suzuki slam)",
+      "type": "Morning game recap"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Ben Brown Saturday start — 1.74 ERA, 58 K",
+      "type": "Stat breakdown / bold take"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Rotation crisis + August 3 trade deadline",
+      "type": "Bold take / analysis"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Wild card standings — 35-34, Brewers 41-23",
+      "type": "Analysis / standings"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Iowa Cubs 10-2 win + Kelly at Iowa",
+      "type": "Prospect update"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-game hype — Giants accountability test",
+      "type": "Bold take / hype"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs Open 3 Games at Oracle Park",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs (35-34) open a 3-game road series at Oracle Park tonight vs the Giants (28-41), 9:15 PM CT. Assad starts Game 1. SF is one of MLB's weakest teams. Wild card urgency.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Cubs open 3 games at Oracle Park tonight — Giants (28-41), 9:15 PM CT.\n\nJavier Assad starts Game 1. Cubs sit at 35-34, hunting a wild card spot. SF has been one of MLB's worst teams all season.\n\nThis stretch of the schedule is an opportunity.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Series preview (matchup-led, required series-start slot)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Game Recap — Cubs 9, Rockies 3 — Suzuki Grand Slam",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Seiya Suzuki grand slam in the 4th (10th HR, 3rd career slam), Bregman 2-run HR, Cabrera wins 4th game. Cubs snapped 3-game skid with 9 runs — most since May 27.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Cubs 9, Rockies 3. Seiya Suzuki's grand slam in the 4th snapped a 3-game losing streak and started a 9-run barrage.\n\nAlex Bregman added a 2-run HR. Cabrera picked up his 4th win.\n\nOffense woke up — 9 runs, most since May 27. Cubs move to 35-34.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Morning game recap (time-sensitive, required Tier 1 slot)",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Ben Brown — 1.74 ERA, Saturday's Anchor",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brown takes the mound Saturday with 1.74 ERA, 0.88 WHIP, 58 K, 0 HRs allowed as a starter. He IS the Cubs' ace right now with the rotation in shambles.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Ben Brown takes the mound Saturday at Oracle Park — 1.74 ERA, 0.88 WHIP, 58 strikeouts this season.\n\nHe's been the most reliable arm on this staff all year. 0 HRs allowed as a starter in 2026.\n\nWith the rotation in shambles, Brown IS the Cubs' ace right now.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Stat breakdown / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Rotation Crisis + August 3 Trade Deadline",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Horton (TJS), Steele (UCL), Taillon (hamstring, through All-Star break), Boyd (shoulder) — 4 projected starters unavailable. August 3 is 52 days away. Detmers, Ryan, Alcantara linked.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Horton: Tommy John. Steele: still waiting. Taillon: out through the All-Star break. Boyd: shoulder soreness, not ready.\n\n4 starters unavailable. August 3 is 52 days away.\n\nDetmers, Ryan, Alcantara — the Cubs NEED to make a move.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold take / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Reality — 35-34 With Brewers at 41-23",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 35-34, 1 game over .500. Brewers running away at 41-23. Division out of reach. Wild card is the real race. This Giants road trip is where they make their case.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Cubs are 35-34 and 1 game over .500, with the Brewers running away at 41-23.\n\nDivision title is out of reach. Wild card is the real race.\n\nThis road trip against a 28-41 Giants squad is where the Cubs make their case.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Analysis / standings context",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Iowa Cubs Rolling + Antoine Kelly at Iowa",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Iowa beat Louisville 10-2 (June 10). Antoine Kelly (acquired from Dodgers June 6) logging innings at Iowa. System depth is the quiet insurance policy during the big-league rotation crisis.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Iowa Cubs beat Louisville 10-2 on June 10 — the system is rolling while the big league club grinds through rotation injuries.\n\nLHP Antoine Kelly (from LA on June 6) is logging innings at Iowa. The depth isn't glamorous right now, but it's working.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect update / informative",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 7,
+      "title": "Pre-Game Hype — Giants Series Opener, 9:15 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Giants hired Tony Vitello with zero pro coaching experience; they're 28-41. Cubs need to prove they can beat bad teams consistently. 3 games this weekend is the test.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7A",
+          "text": "The Giants hired Tony Vitello as their first manager with zero pro coaching experience. They're 28-41.\n\nThe Cubs need to beat bad teams to stay in the wild card race. 3 games at Oracle Park this weekend is the test.\n\n9:15 PM CT tonight. Game on.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold take / pre-game hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
