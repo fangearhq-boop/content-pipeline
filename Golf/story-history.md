@@ -4,6 +4,14 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
+| 2026-06-13 | T1 | Canadian Open R3: Ben James -10 (rookie debut/shot 63) leads; Burns -9 (1 back); Koepka 2 back; Fox defending; Fitzpatrick (3 wins) chasing 4th; 11 players within 2; Golf Channel 1-3 ET/CBS 3-6 ET; final round Sunday | X, FB, Article | FOLLOW-UP |
+| 2026-06-13 | T1 | US Open Shinnecock 5 days (June 18-21): Scheffler +550 Grand Slam bid/30th birthday/Father's Day June 21; McIlroy +900; Rahm +1400; Schauffele +1600; par 70 7400 yds; Koepka won 2018 (+1 over Fleetwood) | X, FB, Article | FOLLOW-UP |
+| 2026-06-13 | T2 | Dow LPGA R3: Borge/Mack -12/Furue/Nishimura -11/Korda surging; final round Sunday June 14; Midland CC; $3.3M purse | X, FB, Article | FOLLOW-UP |
+| 2026-06-13 | T2 | Ben James rookie feature: "no clue" quote/newly minted pro/shot 63 R2/leads Canadian Open at -10/paired with Burns R3 1:45 PM | X, FB, Article | NEW STORY |
+| 2026-06-13 | T2 | LIV Golf crisis confirmed: PIF funded ~$196M ($66M May + $130M June) of $600M needed; CEO O'Neil won't guarantee final 4 events; Louisiana postponed; seeking $250-350M investors; Al-Rumayyan stepped down as chairman | X, FB, Article | FOLLOW-UP |
+
+| Date | Tier | Topic | Platforms | Notes |
+|------|------|-------|-----------|-------|
 | 2026-06-12 | T1 | RBC Canadian Open R2: Burns/Koepka/Theegala/Cole/Grillo/Anderson share R1 lead -6; Fitzpatrick -3 (3 back, chasing 4th 2026 win); Fox defending champ at -4; R2 underway | X, FB, Article | FOLLOW-UP |
 | 2026-06-12 | T1 | US Open 6 days away: Scheffler +550 Grand Slam bid at Shinnecock (June 18-21); McIlroy +900; Rahm +1400; Scheffler toured June 1 ("extraordinarily difficult" greens/wide fairways); best short game +0.5/round; final round June 21 = 30th birthday | X, FB, Article | FOLLOW-UP |
 | 2026-06-12 | T2 | Dow LPGA Championship R2: Three-way -3 tie (Boyd/Zhang, Broch Estrup/Dryburgh, Kaur/Naveed); Korda/Cowan 3 back; 2 rounds remain | X, FB, Article | FOLLOW-UP |

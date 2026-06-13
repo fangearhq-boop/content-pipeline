@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-12
+- **Date**: 2026-06-13
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-13
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-06-13.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-13.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-13/review-dashboard.html (22 items)
+- **Notes:** Canadian Open R3 today — rookie Ben James leads -10/Burns -9/Koepka 2 back/11 players within 2/Fox defending/Fitzpatrick (3 wins in 2026) chasing 4th; US Open Shinnecock 5 days (June 18-21): Scheffler +550 Grand Slam bid/turns 30 on final round June 21 = Father's Day/McIlroy +900/Rahm +1400/Par 70 7400 yds; Dow LPGA R3 — Borge/Mack -12/Furue/Nishimura -11/Korda surging/final round Sunday; LIV Golf crisis confirmed — PIF funded $196M of $600M needed/CEO O'Neil won't guarantee final 4 events/Louisiana postponed/seeking $250-350M investors
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-12
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
