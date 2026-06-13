@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-13
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spanish GP qualifying day — McLaren threatens Mercedes' 6/6 pole streak; Norris P1 FP2/Russell P2/Antonelli P5; qualifying 10 AM ET/4 PM CEST | 1 | FOLLOW UP |
+| 2 | Antonelli 6th-win bid Barcelona — 5 consecutive wins/66-pt lead; historic record chase; race Sunday June 14 | 1 | FOLLOW UP |
+| 3 | Russell must-win Barcelona — Coulthard: "must beat Antonelli"; 68 pts behind teammate; P2 FP2 pace there; Monaco penalty "beyond frustration" | 2 | FOLLOW UP |
+| 4 | Alonso farewell — "probably my last Barcelona race in F1" (Formula1.com confirmed); 44yo/32 wins/2 titles; Barcelona rotational from 2027/no 2028 race likely | 2 | FOLLOW UP |
+| 5 | Verstappen new engine — "step in right direction" after Monaco DNF; 0 wins/P7/43 pts; exit clause July 27/Austrian GP June 26-28 | 2 | FOLLOW UP |
+
+### STORY 1: Spanish GP Qualifying Day — McLaren vs. Mercedes
+- **Tier:** 1
+- **Category:** F1 / Qualifying / Spanish GP
+- **Key facts:** Qualifying June 13, 10 AM ET / 4 PM CEST; Mercedes 6 poles from 7 races (Antonelli 4, Russell 2); FP2: Norris P1 1:15.426, Russell P2 +0.009s, Piastri P3, Leclerc P4, Antonelli P5 (~-0.6s); FP1: Russell P1; race June 14
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying result; race result; did McLaren break Mercedes' pole streak?
+
+### STORY 2: Antonelli 6th-Win Bid — Record Chase at Barcelona
+- **Tier:** 1
+- **Category:** F1 / Championship
+- **Key facts:** 5 consecutive wins (through Monaco); 156 pts / 66-pt lead over Hamilton / 68-pt lead over Russell; age 19; 6th straight win would push into elite record territory; Barcelona = technical reference circuit
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result; championship update post-Spain
+
+### STORY 3: Russell Must-Win Barcelona
+- **Tier:** 2
+- **Category:** F1 / Championship
+- **Key facts:** 68 points behind Antonelli; David Coulthard quote: "George Russell must beat Kimi Antonelli in Barcelona to save F1 title hopes" (Motorsport.com); FP2 P2; Monaco penalty relegated him to P14; Wolff acknowledged team confusion
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result; gap to Antonelli post-Spain
+
+### STORY 4: Alonso Farewell Barcelona
+- **Tier:** 2
+- **Category:** F1 / Driver News
+- **Key facts:** Quote: "probably my last Barcelona race in Formula 1" (Formula1.com official); 44 years old; 32 wins, 2 world titles (2005, 2006); Aston Martin contract expires end 2026; Barcelona rotational from 2027 (alternates with Spa); next Barcelona race 2028+; NOT announcing retirement
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official retirement announcement; post-race tribute
+
+### STORY 5: Verstappen New Engine / Exit Clause
+- **Tier:** 2
+- **Category:** F1 / Team News
+- **Key facts:** New power unit fitted for Barcelona; quote: "step in the right direction"; 0 race wins 2026; P7/43 pts championship; Monaco DNF (stalled lap 1/power unit); exit clause: July 27; Austrian GP: June 26-28 (next race after Spain)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Exit clause activated or not; Austrian GP result
+
 ## 2026-06-12
 
 | # | Story | Tier | Tag |

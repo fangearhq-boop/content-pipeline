@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-12
+- **Date**: 2026-06-13
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-13
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-13.xlsx (7 posts) + f1fr-postplanner-tobi-2026-06-13.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-13/review-dashboard.html (22 items)
+- **Notes:** Spanish GP Round 8 qualifying day (10 AM ET/4 PM CEST); Mercedes perfect 6/6 poles broken? Norris P1 FP2 0.009s over Russell, Antonelli P5; Antonelli 5 wins/66-pt lead over Hamilton, 68 over Russell/hunting 6th straight; Russell "must-win" per Coulthard (68 pts down to teammate); Alonso farewell quote confirmed from Formula1.com ("probably my last Barcelona race in F1")/no official retirement/calendar rotation from 2027; Verstappen new power unit/"step in right direction"/0 wins/P7/exit clause July 27/Austrian GP June 26-28
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-12
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
