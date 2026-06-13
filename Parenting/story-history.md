@@ -2,6 +2,45 @@
 
 ---
 
+## June 13, 2026
+
+### Story 1: Target Up&Up Baby Wipes Recall
+- **Content Pillar:** National Parenting (Safety)
+- **Angle:** NEW STORY — Target voluntarily recalled Up&Up Fragrance Free Baby Wipes and Up&Up Fresh Cucumber Scented Baby Wipes on June 8, 2026, following FDA testing that found Burkholderia cepacia complex and Burkholderia gladioli bacterial contamination. Risk of sepsis and pneumonia for newborns and infants. Stop use immediately; return to any Target store for a full refund, no receipt required. Manufactured Nov 7, 2025–May 5, 2026 (FF) and Dec 29-30, 2025 (FC).
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Recall announced June 8, 2026; Burkholderia cepacia complex + Burkholderia gladioli; Fragrance Free mfg Nov 7, 2025–May 5, 2026; Fresh Cucumber mfg Dec 29-30, 2025; sizes 20/72/216/800/1200-count (FF) and 72/216/800-count (FC); no receipt needed for refund; Sources: fda.gov, abcnews.com, consumerreports.org
+
+### Story 2: Colorado Renaissance Festival Opens This Weekend
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (preview ran June 9) — Opening weekend of Colorado Renaissance Festival 49th season. June 13-14 at 650 W Perry Park Ave, Larkspur. Magical Fantasy theme. First Responder BOGO this opening weekend. King Soopers tickets: $29 adults, $14 ages 5-12, free under 5. Runs every Saturday and Sunday through August 2. coloradorenfaire.com.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** June 13-14, 2026; 49th season; 650 W Perry Park Ave Larkspur CO; Magical Fantasy theme; $29/$14/free via King Soopers; First Responder BOGO opening weekend; runs through August 2; Sources: coloradorenfaire.com, uncovercolorado.com, visitcos.com
+
+### Story 3: D11 Free Summer Meals Through July 31
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (standalone) — Colorado Springs School District 11 running free summer meals through July 31 for all kids ages 1-18 regardless of district. No registration, no ID, no income verification. Free breakfast (where available) and lunch at multiple COS sites. Six weeks longer than D49's program which ends June 19.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Program runs through July 31, 2026; ages 1-18; any district welcome; no barriers; free breakfast (where available) and lunch; full site list at d11.org; Sources: kktv.com (May 28, 2026), d11.org
+
+### Story 4: D49 Free Summer Meals — 6 Days Left (Ends June 19)
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (day 8 — final push) — D49 free summer meals end in 6 days on June 19. Ages 1-18, no registration/ID/income verification. Springs Ranch Elementary confirmed site. After June 19, D11 program continues through July 31 at d11.org.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Ends June 19, 2026; 6 days remaining; ages 1-18; no barriers; Springs Ranch Elementary confirmed; D11 takes over through July 31; Sources: d49.org
+
+### Story 5: Pikes Peak Habitat for Humanity Turns 40 Tonight
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pikes Peak Habitat for Humanity 40th anniversary celebration tonight June 13, 4:30-7:45 PM at Meanwhile Block in Downtown Colorado Springs. Free and open to the public. Food trucks, yard games, trivia, guest speakers. Organization has built/repaired homes for hundreds of COS families since 1986.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** June 13, 2026; 4:30-7:45 PM; Meanwhile Block Downtown COS; free; food trucks, yard games, trivia, speakers; founded 1986; affordable housing El Paso County; Sources: visitcos.com, gazette.com
+
+---
+
 ## June 12, 2026
 
 ### Story 1: D49 Budget Cuts Take Effect July 1

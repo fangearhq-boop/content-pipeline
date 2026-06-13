@@ -1,0 +1,363 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-13",
+  "compiled_at": "2026-06-13T12:47:25.796446+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Target Up&Up Baby Wipes Recall — Bacteria Risk for Newborns",
+      "tier": 1,
+      "status": "",
+      "angle": "NEW — Target voluntarily recalled Up&Up Fragrance Free and Fresh Cucumber Scented baby wipes on June 4/8, 2026 after FDA testing found Burkholderia cepacia complex and Burkholderia gladioli bacteria. Risk: localized infections for healthy users; sepsis and pneumonia risk for newborns, infants, and immunocompromised individuals. Sold at Target stores nationwide and on target.com. Manufactured Nov 2025 – May 2026. Stop use and return to Target for a full refund.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "⚠️ RECALL: Target recalled Up&Up baby wipes over bacterial contamination. Risk of sepsis and pneumonia for newborns. Fragrance Free + Fresh Cucumber Scented affected. Return to any Target for a full refund.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "Text Post A — urgent safety",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 267
+        },
+        {
+          "label": "Post 1B",
+          "text": "Do you have Up&Up baby wipes at home? Check the manufacture dates: Fragrance Free (Nov 2025–May 2026) and Fresh Cucumber (Dec 2025). Return to any Target — no receipt needed — for a full refund.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "10:00 AM MT",
+          "tweet_type": "Text Post B — action steps",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "⚠️ If you've been using Target's Up&Up baby wipes, check your supply today.\n\nTarget has issued a voluntary recall of two Up&Up baby wipe varieties after FDA testing found bacterial contamination. The products affected are Up&Up Fragrance Free Baby Wipes and Up&Up Fresh Cucumber Scented Baby Wipes. The bacteria found — Burkholderia cepacia complex and Burkholderia gladioli — can cause serious infections in newborns and infants, including pneumonia and sepsis.\n\nHere's how to know if your wipes are part of the recall:\n\n**Up&Up Fragrance Free:** Manufactured between November 7, 2025 and May 5, 2026. Expiration dates between May 10, 2028 and November 5, 2028. Available in 20-count, 72-count, 216-count, 800-count, and 1,200-count.\n\n**Up&Up Fresh Cucumber Scented:** Manufactured December 29–30, 2025. Expiration dates June 29–30, 2028. Available in 72-count, 216-count, and 800-count.\n\nIf your wipes fall within these dates, stop using them immediately. Return them to any Target store for a full refund — no receipt or original packaging required.\n\nIn the meantime, a wet washcloth works well for diaper changes, or you can temporarily switch to another brand while you sort out the return.\n\nDo you still have these wipes at home? Share this so Colorado Springs families who shop at Target know to check. 👇",
+        "image_caption": "⚠️ Target recalled Up&Up Fragrance Free and Fresh Cucumber Scented baby wipes over bacterial contamination that can cause sepsis and pneumonia in newborns. Check your manufacture dates — if yours are from Nov 2025–May 2026 (Fragrance Free) or Dec 2025 (Fresh Cucumber), stop using them and return to any Target for a full refund, no receipt needed. Do you still have these in your diaper bag?",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-target-upup-baby-wipes-recall-bacteria.html",
+        "headline": "Target Up&amp;Up Baby Wipes Recalled Over Bacteria That Can Cause Sepsis and Pneumonia",
+        "word_count": 823
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social 1200x675",
+          "search_terms": [
+            "parent hands examining baby wipes package, warm nursery lighting, cream white tones"
+          ],
+          "text_overlay": [],
+          "composition": "Close-up of a parent's hands holding and examining a plain white baby wipes package, soft warm indoor lighting, shallow depth of field, blurred cream nursery background, ample negative space in the bottom third for text overlay, no text or logos on any product",
+          "usage": "social"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [
+            "generic baby wipes products white surface soft natural light safety concept"
+          ],
+          "text_overlay": [],
+          "composition": "Wide landscape arrangement of generic baby care products including a wipe package, small bottle, and folded cloth on a clean white surface, soft natural sidelight, muted blue-grey background, open lower third for text, no brand logos visible",
+          "usage": "article"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Target Up&Up Baby Wipes Recall\n**Decision:** NEW (recall was June 4/8, 2026; not previously covered in COS Parenting pipeline)\n**Sources:**\n- fda.gov — \"Target Recalls Up & Up Fragrance Free and Fresh Cucumber Scented Baby Wipes Due to Potential Microbial Contamination\"\n- abcnews.com — \"Target voluntarily recalls some baby wipes due to potential contamination\"\n- consumerreports.org — \"Target Recalls 2 Types of Up&Up Baby Wipes Due to Microbial Contamination\"\n- foxbusiness.com — \"Target recalls popular baby wipes after FDA finds potentially harmful bacteria\"\n- nbcchicago.com — \"Target baby wipes recalled over risk of serious infection\"\n**Key Facts:**\n- Recall date: June 4, 2026 (announced by Target June 8, 2026) [HIGH — FDA.gov]\n- Products: Up&Up Fragrance Free Baby Wipes + Up&Up Fresh Cucumber Scented Baby Wipes [HIGH]\n- Bacteria: Burkholderia cepacia complex + Burkholderia gladioli [HIGH — FDA.gov]\n- Risk for healthy users: localized infections at minor cuts/abrasions [HIGH]\n- Risk for newborns/infants/immunocompromised: infections that can spread to bloodstream, causing sepsis or pneumonia [HIGH — FDA.gov]\n- Fragrance Free manufactured: Nov 7, 2025 – May 5, 2026; expiry May 10, 2028 – Nov 5, 2028 [HIGH]\n- Fresh Cucumber manufactured: Dec 29-30, 2025; expiry June 29-30, 2028 [HIGH]\n- Sold at: Target stores nationwide and on target.com [HIGH]\n- Action: Stop using, return to Target for full refund [HIGH — FDA.gov]\n- Sizes affected (FF): 20-count, 72-count, 216-count, 800-count, 1200-count [HIGH]\n- Sizes affected (FC): 72-count, 216-count, 800-count [HIGH]\n- Reason Target discovered: customer complaints about discoloration [MEDIUM]\n**Freshness:** Recall announced June 4/8, 2026. Not previously covered. Still fully actionable for families.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Colorado Renaissance Festival Opens This Weekend",
+      "tier": 1,
+      "status": "",
+      "angle": "FOLLOW-UP (preview ran June 9) — It's opening weekend. Colorado Renaissance Festival 49th season kicks off June 13-14 at 650 W Perry Park Ave, Larkspur. Theme: Magical Fantasy. First Responder BOGO this weekend. Tickets via King Soopers: $29 adults, $14 ages 5-12, free under 5. Runs every Saturday and Sunday through August 2. coloradorenfaire.com.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "🏰 Colorado Renaissance Festival opens today in Larkspur for its 49th season. Magical Fantasy theme, jousting, food, and more. First Responder BOGO this weekend. Get King Soopers tickets before you go.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "8:00 AM MT",
+          "tweet_type": "Text Post A — opening day",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 2B",
+          "text": "Colorado Renaissance Festival runs every Saturday and Sunday through August 2 in Larkspur. King Soopers tickets: adults $29, kids 5-12 $14, under 5 free. First Responder BOGO opening weekend. coloradorenfaire.com\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "12:00 PM MT",
+          "tweet_type": "Text Post B — planning details",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "🏰 It's opening day at the Colorado Renaissance Festival, and this is one of the best full-day family outings in the COS area all summer.\n\nThe 49th season kicks off today and tomorrow at 650 W Perry Park Ave in Larkspur, with the Magical Fantasy theme setting the tone for the weekend. Jousting, live music, artisan vendors, stage shows, food, and activities for every age. The drive from Colorado Springs is about 45 minutes — pack sunscreen, wear comfortable shoes, and plan to stay awhile.\n\nA few things to know before you go this weekend:\n\n**First Responder BOGO:** Opening weekend comes with a buy-one-get-one offer for first responders. Bring your badge.\n\n**King Soopers tickets:** Save at the gate by picking up tickets in advance. Adults are $29, ages 5-12 are $14, and kids under 5 get in free.\n\n**Season schedule:** Can't make it this weekend? The festival runs every Saturday and Sunday through August 2, so there's plenty of summer left.\n\nWho's heading to Larkspur this weekend? What's your family's must-see at the Ren Faire? 🗡️",
+        "image_caption": "🏰 Opening day at the Colorado Renaissance Festival — 49th season, Magical Fantasy theme, today in Larkspur. Adults $29, kids 5-12 $14, under 5 free via King Soopers. First Responder BOGO this opening weekend only. Is your family heading to Larkspur today?",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-colorado-renaissance-festival-2026-opening-weekend.html",
+        "headline": "Colorado Renaissance Festival Opens This Weekend — Family Guide for Opening Day",
+        "word_count": 753
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social 1200x675",
+          "search_terms": [
+            "Renaissance festival families costumes colorful pennants Colorado summer"
+          ],
+          "text_overlay": [],
+          "composition": "Vibrant outdoor Renaissance festival scene with colorful red, gold, and green pennant banners strung between wooden posts, families in medieval costumes walking through a festive fairground, bright Colorado summer afternoon light, clear blue sky in upper background, open bottom third of green grass for text overlay",
+          "usage": "social"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [
+            "Renaissance festival fairground wide panoramic vendor tents Colorado mountain backdrop"
+          ],
+          "text_overlay": [],
+          "composition": "Wide panoramic landscape view of a colorful Renaissance festival fairground, rows of colorful vendor tents and banners stretching into the distance, families walking together in the midground, Rocky Mountains visible on the horizon, bright summer afternoon sunlight",
+          "usage": "article"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Colorado Renaissance Festival Opens This Weekend\n**Decision:** FOLLOW-UP (preview covered June 9, 2026; today is opening weekend June 13-14)\n**Sources:**\n- uncovercolorado.com — June Colorado Events 2026\n- visitcos.com — Summer Events 2026 Colorado Springs\n- gazette.com — Springs Scene festivals and events April 2026\n- cospringsmom.com — Guide to Family Fun in Colorado Springs June\n**Key Facts:**\n- Opening weekend: June 13-14, 2026 [HIGH — multiple sources]\n- Location: 650 W Perry Park Ave, Larkspur, CO [HIGH]\n- Season runs: Saturdays and Sundays through August 2, 2026 [HIGH]\n- 49th season [HIGH]\n- Weekend 1 theme: Magical Fantasy [HIGH]\n- First Responder BOGO: this opening weekend [HIGH]\n- Ticket prices via King Soopers: Adults $29, ages 5-12 $14, under 5 free [HIGH — from June 9 research]\n- Website: coloradorenfaire.com [HIGH]\n- Drive from COS: approximately 45 minutes to Larkspur [MEDIUM]\n- Activities: jousting, music, artisan vendors, shows, food [MEDIUM]\n**Freshness:** Opening weekend is today June 13. Fully fresh.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "D11 Free Summer Meals Through July 31",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW (standalone) — D11 is running a free summer meals program through July 31 — six weeks longer than D49's program, which ends June 19. All kids ages 1-18, no registration, no ID, no income verification required. Multiple sites across Colorado Springs. d11.org. We've mentioned this as a footnote in D49 stories but COS families from all districts need to know D11's option continues all summer.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "🍽️ D11 free summer meals run through July 31 — 6 weeks longer than D49 ends. All Colorado Springs kids ages 1-18 welcome, no registration or ID needed, any district. Find your nearest site at d11.org\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "Text Post",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "🍽️ A lot of Colorado Springs families know about D49's free summer meal program — but not everyone knows that D11 runs its own program, and it goes six weeks longer.\n\nColorado Springs School District 11 is offering free breakfast and lunch to all children ages one to 18 through July 31, 2026. That's six weeks beyond D49's program, which ends June 19. And D11's program has no barriers at all: no registration, no ID, no income verification, and it doesn't matter which school district your child attends.\n\nD20 families, D49 families, private school families, and homeschool families are all welcome at D11 sites.\n\nThis is a genuinely useful resource for Colorado Springs families throughout the summer — especially for working parents managing summer childcare, or families looking to stretch the grocery budget during the school break. Multiple sites are available across the city at schools, community centers, and playgrounds.\n\nFor the full list of meal sites and current hours, visit d11.org.\n\nTag a Colorado Springs family who could use this — this kind of resource tends to fly under the radar. 👇",
+        "image_caption": "🍽️ D11's free summer meals program runs through July 31 — six weeks longer than D49. All kids ages 1-18 welcome, any district, zero paperwork. Full site list at d11.org. Tag a Colorado Springs family who needs to know about this.",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-d11-free-summer-meals-colorado-springs-july-31.html",
+        "headline": "D11 Free Summer Meals Run Through July 31 — All Colorado Springs Kids Welcome, No Paperwork Needed",
+        "word_count": 749
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social 1200x675",
+          "search_terms": [
+            "diverse children eating lunch outdoor picnic table school courtyard summer"
+          ],
+          "text_overlay": [],
+          "composition": "Cheerful scene of three diverse children ages 6 to 12 smiling and eating lunch at an outdoor picnic table in a sunny school courtyard, warm natural daylight, bright primary colors in clothing, food trays on the table, green grass and trees softly blurred in background, open bottom third for text overlay",
+          "usage": "social"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [
+            "children lunch outdoor picnic tables shaded school courtyard summer day"
+          ],
+          "text_overlay": [],
+          "composition": "Wide landscape shot of children eating lunch at long outdoor picnic tables in a shaded school courtyard on a summer day, dappled natural light through leafy trees, diverse group of children, lunch trays in the foreground, soft green and warm tones",
+          "usage": "article"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Free Summer Meals Through July 31\n**Decision:** NEW (standalone story; D11 meals only mentioned as footnote in D49 coverage)\n**Sources:**\n- kktv.com — \"District 11 offering free meals to children across Colorado Springs during the summer\" (May 28, 2026)\n- d11.org — District 11 official summer meals page\n**Key Facts:**\n- Program runs through: July 31, 2026 [HIGH]\n- Age eligibility: 1-18 years [HIGH — KKTV confirmed]\n- No registration, ID, or income verification required [HIGH]\n- Available at multiple sites across Colorado Springs including schools, community centers, playgrounds [MEDIUM]\n- Free breakfast (where available) and lunch [HIGH]\n- Website: d11.org [HIGH]\n- Comparison: D49 program ends June 19 — D11 continues for 6 more weeks after that [HIGH — calculated]\n- Available to children regardless of which school district they attend [HIGH — KKTV: \"regardless of which school district they attend\"]\n**Freshness:** Ongoing program confirmed active through July 31. D11 standalone angle is new.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "D49 Free Summer Meals — 6 Days Left (Ends June 19)",
+      "tier": 2,
+      "status": "",
+      "angle": "FOLLOW-UP (most recent: June 12) — D49 free summer meals end in 6 days, on June 19. Ages 1-18, free breakfast and lunch, no registration/ID/income verification. Springs Ranch Elementary confirmed site. d49.org. After June 19, D11's program continues through July 31 at d11.org — good reminder to transition families.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "⏰ D49 free summer meals end in 6 days — June 19 is the last day. Ages 1-18, no ID or paperwork needed. Springs Ranch Elementary is a confirmed site. After June 19, D11 continues through July 31.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "3:00 PM MT",
+          "tweet_type": "Text Post — deadline urgency",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "📅 Quick heads-up for Colorado Springs families using D49's free summer meals: six days left.\n\nD49's program ends on June 19, 2026. If you or a family you know has been relying on this for breakfast and lunch this summer, now is the time to use it — and to plan for what comes next.\n\nThe program is fully open through June 19. Any child ages one to 18 can walk in to a D49 site for free breakfast (at participating locations) and free lunch. No registration, no ID, and no income verification required. Springs Ranch Elementary is a confirmed site, and the full list is at d49.org.\n\nAfter June 19, D11 picks up where D49 leaves off. D11's free summer meal program runs through July 31, also for children ages one to 18, with no paperwork required. Full D11 site list is at d11.org.\n\nClear path forward: D49 through June 19, D11 from June 20 through July 31.\n\nHave you been using either of these programs this summer? Are there other resources you wish Colorado Springs families knew about? 👇",
+        "image_caption": "📅 Six days left on D49 free summer meals — program ends June 19. Ages 1-18, no ID or registration needed. After June 19, D11 continues through July 31 at d11.org. Are you using this program this summer?",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-d49-free-summer-meals-6-days-left-june-19.html",
+        "headline": "D49 Free Summer Meals End June 19 — 6 Days Left",
+        "word_count": 653
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social 1200x675",
+          "search_terms": [
+            "paper calendar June 19 circled red marker child backpack blurred background"
+          ],
+          "text_overlay": [],
+          "composition": "Close-up of a paper wall calendar pinned to a light wood surface with the number 19 in June circled with a red marker, a child's colorful backpack visible in the soft-focus background, warm indoor light, urgency conveyed through the circled date, clean open bottom third in neutral cream tones",
+          "usage": "social"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [
+            "monthly calendar June marked dates lunch tray food warm indoor light"
+          ],
+          "text_overlay": [],
+          "composition": "Wide landscape composition showing a monthly calendar open to June with several dates marked, a lunch tray with food on the right side of the frame, soft warm indoor lighting, light wood table surface, balanced and organized composition",
+          "usage": "article"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D49 Free Summer Meals — 6 Days Left\n**Decision:** FOLLOW-UP (day 7+; previous coverage: June 6, 7, 8, 9, 10, 11, 12)\n**Sources:**\n- d49.org — District 49 free summer meals\n- Previous pipeline coverage confirmed facts\n**Key Facts:**\n- Program ends: June 19, 2026 [HIGH]\n- As of June 13: 6 days remaining [HIGH — calculated]\n- Ages 1-18, free breakfast and lunch [HIGH]\n- No registration, ID, or income verification required [HIGH]\n- Site: Springs Ranch Elementary confirmed [HIGH]\n- d49.org for full site list [HIGH]\n- After June 19: D11 program continues through July 31 at d11.org [HIGH]\n**Freshness:** Ending in 6 days; final urgency push justified.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Pikes Peak Habitat for Humanity Turns 40 Tonight",
+      "tier": 2,
+      "status": "",
+      "angle": "NEW — Pikes Peak Habitat for Humanity celebrates its 40th anniversary tonight, June 13, 4:30-7:45 PM at Meanwhile Block in Downtown Colorado Springs. Trivia, food trucks, yard games, and special guest speakers. Family-friendly community event marking 40 years of affordable housing in COS. Great opportunity for families to connect with a local institution.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "🏠 Tonight: Pikes Peak Habitat for Humanity celebrates 40 years at Meanwhile Block in Downtown Colorado Springs. 4:30-7:45 PM, food trucks, yard games, and guest speakers. Free and family-friendly.\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "5:00 PM MT",
+          "tweet_type": "Text Post — tonight's event",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "🏠 Tonight, Pikes Peak Habitat for Humanity marks 40 years of building homes and community in Colorado Springs.\n\nThe 40th anniversary celebration is open to the public tonight, June 13, from 4:30 to 7:45 PM at Meanwhile Block in Downtown Colorado Springs. It's a free, family-friendly event with food trucks, yard games, trivia, and special guest speakers marking four decades of affordable housing work in El Paso County.\n\nHabitat for Humanity has been part of this community since 1986, helping families across Colorado Springs access stable, affordable homeownership. With housing costs being one of the biggest challenges for COS families right now, tonight is a chance to connect with the organization doing that work — and to show up for an institution that has shown up for this city for 40 years.\n\nIf you're looking for something to do tonight, Meanwhile Block is worth a stop. Food trucks and yard games mean the kiddos will have plenty to keep them busy while the adults catch the speakers.\n\nYou can also learn about how to get involved year-round — volunteer builds and ReStore donations are always open.\n\nAre you planning to go tonight? 🎉",
+        "image_caption": "🏠 Pikes Peak Habitat for Humanity turns 40 tonight at Meanwhile Block in Downtown Colorado Springs. Free public celebration with food trucks, yard games, and guest speakers from 4:30–7:45 PM. Are you heading downtown tonight?",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-pikes-peak-habitat-humanity-40th-anniversary-tonight.html",
+        "headline": "Pikes Peak Habitat for Humanity Turns 40 Tonight — Free Community Event in Downtown Colorado Springs",
+        "word_count": 687
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social 1200x675",
+          "search_terms": [
+            "outdoor community celebration food trucks families yard games downtown urban Colorado evening"
+          ],
+          "text_overlay": [],
+          "composition": "Lively outdoor community celebration in an urban downtown plaza, string lights overhead, two brightly painted food trucks in the background, diverse crowd of families and adults mingling and playing yard games, warm golden late-afternoon light, Colorado mountains faintly on the horizon, clear open bottom third for text overlay",
+          "usage": "social"
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [
+            "festive outdoor downtown block event picnic tables food trucks string lights golden evening"
+          ],
+          "text_overlay": [],
+          "composition": "Wide landscape view of a festive outdoor community event at a downtown urban block, rows of picnic tables with guests seated, food trucks on the left, string lights and colorful banners decorating the space, a small outdoor stage in the background, golden evening light casting warm shadows",
+          "usage": "article"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pikes Peak Habitat for Humanity 40th Anniversary\n**Decision:** NEW (first coverage; event tonight June 13)\n**Sources:**\n- visitcos.com — Pikes Peak Habitat 40th anniversary listing\n- gazette.com — Springs Scene events\n**Key Facts:**\n- Date/time: June 13, 2026, 4:30-7:45 PM [HIGH]\n- Location: Meanwhile Block, Downtown Colorado Springs [HIGH]\n- Activities: trivia, food trucks, yard games, special guest speakers [HIGH]\n- Milestone: 40 years of Pikes Peak Habitat for Humanity [HIGH]\n- Organization focus: affordable housing in El Paso County [MEDIUM]\n- Family-friendly: outdoor venue with food trucks and games suitable for families [MEDIUM]\n**Freshness:** Event is tonight, June 13. Fully fresh.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

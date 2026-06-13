@@ -1,5 +1,42 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 13, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Target Up&Up baby wipes recall (FDA confirmed Burkholderia cepacia complex + Burkholderia gladioli, Fragrance Free + Fresh Cucumber Scented, June 8, 2026, stop use + return to Target no receipt needed); Colorado Renaissance Festival opening weekend (49th season, June 13-14, Larkspur, Magical Fantasy theme, First Responder BOGO, King Soopers $29/$14/free, runs through Aug 2); D11 free summer meals through July 31 (ages 1-18, any district, no barriers, d11.org, 6 weeks longer than D49); D49 free summer meals 6 days left ending June 19 (ages 1-18, no barriers, Springs Ranch Elementary, D11 takes over June 20); Pikes Peak Habitat for Humanity 40th anniversary tonight (4:30-7:45 PM, Meanwhile Block Downtown COS, food trucks/yard games/trivia/speakers, free public event) |
+| Story History Check | COMPLETE | 3 NEW STORIES (Target wipes recall, D11 standalone, Habitat 40th) + 2 FOLLOW-UPS (Renaissance Festival — opening weekend, D49 meals — day 8 final push) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 each for Stories 1, 2; 1 each for Stories 3, 4, 5); all under 280 chars; 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500–1000 words each, Quick Reference tables, What's Next sections, 0 exclamation marks, no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py ran — consistency warnings cosmetic (story name parser); 76 claims; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 5 FB posts, 5 articles, 10 images; 27 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 27 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-13.xlsx (17 posts: 7 X + 10 FB) + TOBI cosp-postplanner-tobi-2026-06-13.xlsx (12 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-13)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total in PostPlanner xlsx; posting windows 13:22–21:22 (30 min apart)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-13.xlsx (17 posts), cosp-postplanner-tobi-2026-06-13.xlsx (12 TOBI posts)
+- **Coverage:** Target Up&Up baby wipes recall (Burkholderia cepacia complex + Burkholderia gladioli, Fragrance Free mfg Nov 7, 2025–May 5, 2026 / Fresh Cucumber mfg Dec 29-30, 2025, all sizes, stop use + return any Target no receipt, fda.gov); Colorado Renaissance Festival opening weekend (49th season June 13-14, Larkspur, Magical Fantasy theme, First Responder BOGO, King Soopers $29/$14/free under 5, runs Sat/Sun through Aug 2, coloradorenfaire.com); D11 free summer meals through July 31 (ages 1-18 any district, no registration/ID/income verification, free breakfast+lunch, multiple COS sites, d11.org, 6 weeks longer than D49); D49 free summer meals 6 days left (ends June 19, ages 1-18, no barriers, Springs Ranch Elementary, D11 continues through July 31); Pikes Peak Habitat for Humanity 40th anniversary tonight (June 13, 4:30-7:45 PM, Meanwhile Block Downtown COS, free public event, food trucks/yard games/trivia/speakers, founded 1986)
+- **Notes:**
+  - verify-facts.py: 1 run — consistency warnings cosmetic (story name format mismatch between files, not a blocking issue); 76 claims; image not_started warnings cosmetic (expected for gemini source)
+  - compile: 5 stories, 7 X posts, 5 FB posts, 5 articles, 10 images — full parse success; 27 dashboard items
+  - PostPlanner exports: both standard (17 posts: 7 X + 10 FB) and TOBI (12 TOBI posts) generated successfully; best PostPlanner result to date (first run with both X and FB parsed)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: June 12, 2026
 
 | Step | Status | Notes |
