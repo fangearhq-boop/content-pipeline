@@ -1,6 +1,14 @@
 # Ballpark Banter Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-13
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (24 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-unified-dashboard.py (403 PAT known). Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). X posts/FB posts compile to 0 (known heading format). 0 char violations.
+- **Key Stories**: Skubal returns from IL today at Cleveland (3-2/2.70 ERA/38-day IL/5IP 0ER 6K rehab/Aug. 3 deadline watch) (Tier 1 FOLLOW UP), Alvarez 2 HRs (grand slam + solo) vs Royals/Astros 10-8/now tied Schwarber 24-24/Derby Philly July 13 (Tier 1 FOLLOW UP), Braves 45-23 best record in baseball/76-86 last year/Weiss/Sale/Acuña (Tier 2 FOLLOW UP), Judge mid-August return expected/August 3 deadline/Yankees 41-26/Rays 40-25 (Tier 2 FOLLOW UP), Trade deadline big board 7 weeks out: Chapman (BOS 0.46 ERA/17 saves)/Mize (DET 2.27 ERA)/Webb (SF) (Tier 3 NEW)
+
+## Previous Run
 - **Date**: 2026-06-12
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (34 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (clean push). Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

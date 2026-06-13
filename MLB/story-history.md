@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-13
+
+### Story 1: Skubal Returns to the Mound
+- **Date:** 2026-06-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP (2026-06-12)
+- **Angle:** Two-time Cy Young winner Tarik Skubal (3-2, 2.70 ERA) returns from 38-day IL stint (elbow surgery May 6) to start vs Guardians at Progressive Field today. Rehab: 5 IP, 0 ER, 6 K. Tigers 7-2 in June without him. Free agent after 2026, August 3 deadline — every contender watching.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Performance update/result
+  - Trade deadline Skubal speculation updates
+
+### Story 2: Alvarez Ties Schwarber at 24 HR
+- **Date:** 2026-06-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP (2026-06-12)
+- **Angle:** Yordan Alvarez hit 2 HRs (grand slam + solo) vs Royals in Astros 10-8 win. Now tied with Schwarber at 24 HR to lead MLB. Buxton 3rd at 21 HR. Derby in Philadelphia July 13 — Schwarber's home park.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Home Run Derby invitation/participation announcement
+  - Race updates through All-Star break
+
+### Story 3: Braves 45-23 — Best Record in Baseball
+- **Date:** 2026-06-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2026-06-12)
+- **Angle:** Atlanta 45-23, best record in MLB. 76-86 a year ago. Walt Weiss first full season. Chris Sale anchoring rotation. Ronald Acuña Jr. leading offense. 8+ game NL East lead.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Sustained excellence tracking
+  - Playoff seeding implications
+
+### Story 4: Judge Mid-August Return — Yankees Deadline Math
+- **Date:** 2026-06-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2026-06-12)
+- **Angle:** Aaron Judge (right rib stress fracture) expected mid-August return — 2 weeks after August 3 deadline. Yankees 41-26, one game ahead of Rays 40-25. Manager Boone: strong confidence in return. Deadline math: buy for 41-26 team or trust Judge's return as equivalent trade acquisition?
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Judge return date confirmation
+  - Yankees deadline acquisitions
+
+### Story 5: Trade Deadline Big Board — 7 Weeks Out
+- **Date:** 2026-06-13
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Seven weeks to August 3 deadline. Top chips: Chapman (BOS, 0.46 ERA/17 saves), Mize (DET, 2.27 ERA, free agent), Webb (SF, rebuilding). Strong seller market, motivated buyers: Braves, Yankees, Dodgers, Astros.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Trade rumors as deadline approaches
+  - Confirmed moves
+
+---
+
 ## 2026-06-09
 
 ### Story 1: Skubal Targeting June 12 Return at Cleveland
