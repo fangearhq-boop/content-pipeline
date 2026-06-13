@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 13, 2026
+
+### Story 1: Torres Watch — Day 6, Nine Days Left and No Decision
+- **Date:** 2026-06-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 12, 2026)
+- **Angle:** D1 POY Isa Torres (.530 BA/.978 SLG/.591 OBP/78 runs) enters Day 6 of portal window still uncommitted. Texas and Texas A&M frontrunners. Georgetown TX native — same hometown as Swan (just signed with Texas). Portal closes June 22, 9 days remaining.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Torres commitment announcement
+  - Impact on three-peat Texas roster vs. A&M dynasty potential
+
+### Story 2: Beachum — Day 6, No. 1 Transfer Still Uncommitted
+- **Date:** 2026-06-13
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 12, 2026)
+- **Angle:** Jaysoni Beachum (.417 BA/16 HR/66 RBI/.549 OBP, No. 1 Softball America) enters Day 6 without commitment. Career: .375 BA/37 HR/180 RBI/202 hits (3 seasons FSU). NFCA 2024 Freshman of the Year, 2026 Second-Team All-American. Most impactful bat in portal.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment announcement
+  - Where does she land — SEC power or surprise destination?
+
+### Story 3: Polar — Day 6 Still Available
+- **Date:** 2026-06-13
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 12, 2026)
+- **Angle:** Moriah Polar (.555 BA/101 hits in 2026, career .436 BA/218 H/103 RBI at Purdue, On3 No. 5 at 97.00) enters Day 6 uncommitted. Best pure hitter still available in portal, flying under the radar behind Torres and Beachum.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Polar commitment announcement
+  - Speed/contact fit analysis for landing programs
+
+### Story 4: Portal Midpoint — Arkansas and Texas A&M Making Moves
+- **Date:** 2026-06-13
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Arkansas and Texas A&M active at portal midpoint filling depth while chasing headliners. Alabama already landed Plumlee (LHP, 4 yr eligible). Programs running dual strategies: lock up depth now while pursuing stars.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - A&M landing Torres would be dynasty-defining
+  - Arkansas roster shape for 2027
+
+### Story 5: Portal Countdown — 9 Days, 3 Stars Still Available
+- **Date:** 2026-06-13
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 8 — ongoing tracker)
+- **Angle:** Tracker at window midpoint (Day 6 of 15). Committed: Swan (Texas), Plumlee (Alabama), Altmeyer (Texas). Still available: Torres (D1 POY), Beachum (No. 1 SA), Polar (No. 5 On3). Window closes June 22.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Daily updates through June 22 portal close
+  - Final window landing spots
+
+---
+
 ## June 9, 2026
 
 ### Story 1: Isa Torres Enters the Portal — D1 Player of the Year on the Move
