@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-13
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Game 5 TONIGHT — 8:30 PM ET ABC Frost Bank Center SA; Knicks 3-1; one win from first title since 1973; Spurs 5.5-pt favorites; both teams healthy; Wemby cleared; 3-0 road closeouts (+39.3 avg margin) | 1 | FOLLOW UP |
+| 2 | Giannis trade — Bucks seeking FINAL OFFERS before June 23; Heat: Herro+Ware+Jaquez+No.13+future firsts; Celtics: open to trading "anyone besides Tatum" (Jaylen Brown+picks); Giannis wants Eastern Conference; 10 days to June 23 | 1 | FOLLOW UP |
+| 3 | NBA Draft withdrawal deadline TODAY (June 13); Dybantsa -500/Peterson +375/Boozer +1500; 10 days to June 23-24 Barclays Center; Wizards meeting confirmed | 2 | FOLLOW UP |
+| 4 | Wembanyama rested for elimination game — two-day break, cleared, healthy; 40.3 min/game; 24pts/13reb Game 4; SportsLine projects 29 pts; home crowd | 2 | FOLLOW UP |
+| 5 | Brunson legacy night — 36 pts Game 4, 30 pts Game 1; 13-game win streak; one win from joining Frazier/Reed in NY sports legend | 2 | NEW STORY |
+
+### STORY 1: Game 5 Tonight — Knicks Can End 53-Year Drought in San Antonio
+- **Tier:** 1
+- **Category:** NBA Finals / Game Day
+- **Key facts:** Game 5: June 13, 8:30 PM ET, ABC, Frost Bank Center, San Antonio; Knicks lead 3-1; Spurs 5.5-pt favorites; total 216.5; both rosters healthy (Wemby cleared); Knicks 3-0 SU/ATS road closeouts this postseason (+39.3 avg margin); only 2016 Warriors blew 3-1 Finals lead; Brunson ~24 pts projected; Wemby ~29 pts projected; last Knicks title 1973
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 5 result; Knicks championship celebration
+
+### STORY 2: Giannis Trade — Bucks Seeking Final Offers, Heat vs Celtics Race
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Bucks owner Haslam wants deal before June 23 draft (10 days); Heat offer: Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., No. 13 pick + future firsts; Celtics "open to trading anyone besides Tatum" (Jaylen Brown+picks foundation); Giannis wants Eastern Conference; Warriors/Thunder out; Nets dark horse; $275M supermax ext Oct 1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announcement; destination confirmed
+
+### STORY 3: NBA Draft Withdrawal Deadline — 10 Days to June 23
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** June 13 = NBA Draft withdrawal deadline for early entry/international players; Dybantsa confirmed in (-500 BetMGM); Peterson (+375); Boozer (+1500); all three confirmed for green room at Barclays Center; Wizards confirmed pre-draft meeting with Dybantsa; draft June 23 (R1) + June 24 (R2) Brooklyn; Dybantsa: 25.5 PPG/6.8 RPG/3.7 APG/51.0% FG at BYU; first since Larry Bird (1978-79) with those stats + consensus AA
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** No. 1 pick decision; draft night
+
+### STORY 4: Wembanyama Rested for Elimination Game
+- **Tier:** 2
+- **Category:** Player Analysis / NBA Finals
+- **Key facts:** Wemby fully cleared; 40.3 min/game postseason avg; two-day break (most rest of playoffs); Game 4: 9-of-25/24 pts/13 reb/44 min/"It just hurts"; Game 3: 32 pts; age 22; SportsLine projects 29 pts Game 5; Frost Bank Center elimination game
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Game 5 Wemby performance; series result
+
+### STORY 5: Brunson's Legacy Night
+- **Tier:** 2
+- **Category:** Player Analysis / NBA Finals
+- **Key facts:** Brunson 36 pts Game 4 (series high), 30 pts Game 1; engine of 13-game win streak; Knicks 3-0 road closeouts all postseason; if Knicks win, Brunson joins Frazier/Reed as championship-winning Knicks legends; last title 1973; came to NY in 2022 free agency
+- **Status:** NEW STORY
+- **Follow-up ideas:** Championship celebration; legacy piece if Knicks win
+
 ## 2026-06-12
 
 | # | Story | Tier | Tag |

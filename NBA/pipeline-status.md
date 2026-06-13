@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-12
+- **Date**: 2026-06-13
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-13
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-06-13.xlsx (7 posts) + hh-postplanner-tobi-2026-06-13.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-13/review-dashboard.html (22 items)
+- **Notes:** Game 5 TONIGHT 8:30 PM ET ABC Frost Bank Center SA; Knicks 3-1, one win from first title since 1973; Spurs 5.5-pt favorites; both teams healthy; Wemby cleared (40.3 min/game avg, 24pts Game 4); Giannis trade — Bucks seeking FINAL OFFERS before June 23; Heat: Herro+Ware+Jaquez+No.13+firsts; Celtics: Jaylen Brown+picks; NBA Draft withdrawal deadline TODAY (Dybantsa -500, Peterson +375, Boozer +1500); 10 days to June 23 Barclays; Brunson 36 pts Game 4 legacy angle
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-12
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
