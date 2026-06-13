@@ -5,6 +5,79 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-13
+
+### STORY 1: Cubs 5, Giants 1 — Assad Wins Third Straight, Busch Into McCovey Cove
+- **Angle:** NEW STORY (June 12 game recap; first coverage of result)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led morning recap)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 2 result (Ben Brown vs. McDonald at Oracle Park)
+  - Assad ERA update post-start (3 straight wins spanning 7 starts)
+  - Busch tracking after McCovey Cove HR — season stats momentum
+
+### STORY 2: Bold Take — Michael Busch and Accountability Wins Against Bad Teams
+- **Angle:** NEW STORY (bold companion to Story 1, Tier 1; Busch .230 BA but shows up in clutch, Giants 28-42 context)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Busch season stats arc if hot streak continues
+  - Cubs record vs sub-.500 teams in June
+
+### STORY 3: Ben Brown — 1.74 ERA, 0 HR Allowed, Starting Tonight
+- **Angle:** FOLLOW UP (Brown narrative ongoing since May 15; new angle = stat summary before Oracle Park start tonight, the biggest arm in the current rotation)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Tonight's Brown start result — ERA update, strikeout total
+  - All-Star case building if ERA stays sub-2.00 through June
+  - HR total stays at 0 through complete 2026 season if it holds
+
+### STORY 4: Standings Reality Check — Cubs 36-34, Wild Card Is the Real Conversation
+- **Angle:** FOLLOW UP (standings covered daily; today's fresh angle = post-win update to 36-34, Brewers 41-25 / Cardinals 37-29, wild card framing with specific GB numbers)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update after Game 2 result tonight
+  - Cardinals' schedule vs Cubs' schedule — tightest comparison window
+  - Wild card race specifics (which teams are ahead of Cubs)
+
+### STORY 5: Game 2 Preview — Brown vs. McDonald, 9:05 PM CT
+- **Angle:** NEW STORY (specific matchup preview separate from stat breakdown; Brown 1.74 ERA vs McDonald 2-3 4.15 ERA at Oracle Park)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 2 result tomorrow morning as lead story
+  - McDonald ERA after facing Cubs (possible weak link for Cubs to exploit)
+  - Series status heading into Game 3 (Sunday 2:10 PM CT)
+
+### STORY 6: Taillon IL + Roster Moves — Shaw Back, Alcántara Optioned
+- **Angle:** NEW STORY (first standalone coverage of June 9 roster batch; Taillon hamstring IL retroactive to June 8, out through All-Star break; Shaw activated, Roberts recalled, Alcántara optioned)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Taillon rehab timeline and All-Star break return update
+  - Alcántara at Iowa — stats tracking after demotion
+  - Shaw's production now that he's back in the lineup
+
+### STORY 7: Trade Deadline — 51 Days, Four Starters Gone
+- **Angle:** FOLLOW UP (deadline urgency tracked since May 14; today's sharpest articulation = Taillon makes 4 starters down simultaneously, 51 days to August 3; Ryan/Peralta/Skubal in play)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, bold analysis)
+- **Follow-Up Opportunities:**
+  - Any completed trade or trade reports involving Cubs
+  - As deadline approaches: countdown updates every 5 days
+  - Taillon return (All-Star break) as factor in how aggressive Cubs need to be
+
+### STORY 8: Pre-Game Hype — Brown at Oracle Park, 9:05 PM CT
+- **Angle:** NEW STORY (5:00 PM CT pre-game energy post, distinct from stat breakdown and matchup preview)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game result recap as tomorrow's lead story
+
+---
+
 ## 2026-06-12
 
 ### STORY 1: Series Preview — Cubs Open 3 Games at Oracle Park

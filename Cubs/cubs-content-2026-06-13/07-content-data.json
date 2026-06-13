@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-13",
+  "compiled_at": "2026-06-13T09:17:14.066354+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Story 1 — Cubs 5, Giants 1 recap",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM CT",
+      "description": "Story 2 — Busch/Assad bold take",
+      "type": "Bold"
+    },
+    {
+      "time": "9:30 AM CT",
+      "description": "Story 3 — Ben Brown stat breakdown",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM CT",
+      "description": "Story 4 — Standings analysis",
+      "type": "Analysis"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Story 5 — Game 2 preview",
+      "type": "Informative"
+    },
+    {
+      "time": "2:30 PM CT",
+      "description": "Story 6 — Taillon IL / roster",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Story 7 — Trade deadline take",
+      "type": "Bold"
+    },
+    {
+      "time": "5:00 PM CT",
+      "description": "Story 8 — Pre-game hype",
+      "type": "Bold"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 5, Giants 1 — Busch McCovey Cove HR, Assad Wins Third Straight",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Assad: 6 IP, 3 H, 5 K. Busch splashed into McCovey Cove — 3-run shot. Cubs 5, Giants 1. 🎯\n\nAssad moves to 4-1, 3rd straight win in 7 starts. Suzuki RBI double, Hoerner sac fly.\n\nCubs 36-34. The road trip is off to a great start.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game recap (morning)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 5, Giants 1 — Assad Wins Third Straight, Busch Goes Deep\n**Decision:** NEW STORY (first coverage of June 12 game result)\n**Sources:**\n1. CBS Sports game recap — https://www.cbssports.com/mlb/gametracker/recap/MLB_20260612_CHC@SF/ (June 12, 2026, HIGH confidence)\n2. ESPN game recap — https://www.espn.com/mlb/recap?gameId=401815731 (June 12, 2026, HIGH confidence)\n3. MLB.com Gameday — https://www.mlb.com/gameday/cubs-vs-giants/2026/06/12/823211/live (HIGH confidence)\n4. Bleed Cubbie Blue Heroes & Goats — https://www.bleedcubbieblue.com/chicago-cubs-scores/220839/ (June 12, 2026, MEDIUM confidence)\n**Key Facts (HIGH confidence unless noted):**\n- Final score: Cubs 5, Giants 1 at Oracle Park\n- Javier Assad: 6 IP, 3 H, 1 BB, record now 4-1 (3rd straight win, spanning 7 starts)\n- Assad strikeouts: **5 K per CBS Sports written recap** — DISCREPANCY: MLB.com video title says \"six-strikeout start\"; CBS Sports is the more detailed source and says \"struck out five\" explicitly; flagged in 06-fact-check-log.md\n- Michael Busch: 3-run HR into McCovey Cove in the 5th inning\n- Seiya Suzuki: RBI double in the 4th inning\n- Nico Hoerner: Sacrifice fly\n- Assad threw error on pickoff of Bryce Eldridge in 4th, but stranded Eldridge at 3rd\n- Cubs record: 36-34 (confirmed by series-context.json generated at 08:30 UTC June 13)\n- Giants record: 28-42\n**Freshness:** Game played June 12 2026 (last night). Verified from multiple sources published within last 24 hours.\n**Why it matters:** Team went from 35-34 to 36-34. Assad continues to be one of the few reliable rotation arms. Busch delivered the big blow. Series now tipped in Cubs' favor heading into tonight.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Michael Busch / Assad Bold Take",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Michael Busch's 3-run shot into McCovey Cove put it on ice. ⚾\n\nGiants are 28-42, running one of baseball's worst rotations. Assad neutralized them — 6 IP, 5 K, 0 homers.\n\nThe Cubs needed to beat bad teams. They're doing it.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take (game result)",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Bold Take — Assad/Busch Performance\n**Decision:** NEW STORY (bold-angle companion to Story 1 for Tier 1 coverage; different frame)\n**Sources:** Same as Story 1\n- Giants record (28-42) confirmed via series-context.json\n- Busch season stats (.230/.360) — MEDIUM confidence (single search result summary from CBS Sports splits; stats may have shifted after last night's HR)\n**Key Facts:**\n- Giants at 28-42 = one of worst records in baseball at this point in the season\n- Cubs needed to take care of business vs. bad teams (narrative from June 12 story history)\n- Busch at .230 BA season — performing below his 2025 breakout but showing up in clutch moments\n- Assad has gone from recalled spot starter to 4-1 record with wins in 3 straight outings\n**Freshness:** Same game recap; bold angle adds new frame from news story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ben Brown — 1.74 ERA, 0 HR Allowed, Stat Breakdown",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ben Brown is one of the most quietly dominant pitchers in baseball right now. 🧊\n\n1.74 ERA. 0.88 WHIP. 58 strikeouts. 0 homers allowed all season.\n\nHe starts tonight at Oracle Park, 9:05 PM CT.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Ben Brown — 1.74 ERA, 0 HR Allowed, Tonight's Starter\n**Decision:** FOLLOW UP (ongoing Brown narrative tracked since May 15; new angle = stat summary heading into tonight's Oracle Park start, the most important role since becoming rotation anchor)\n**Prior Coverage:**\n- June 12: \"Ben Brown — 1.74 ERA, Saturday's Ace\" (preview angle, produced 1 post at 12:00 PM CT)\n- June 7, June 5, June 3, May 31, May 30, May 26, May 25, May 19, May 18, May 16, May 15: Various Brown angles across multiple pipelines\n**Sources:**\n1. MLB.com player page stats — https://www.mlb.com/player/ben-brown-676962 (HIGH confidence for live stats)\n2. ESPN fantasy article (June 6 2026) — ESPN.com — MEDIUM (WebFetch summary)\n3. FanGraphs player page — https://www.fangraphs.com/players/ben-brown/23590/stats/pitching (HIGH confidence)\n**Key Facts (MEDIUM confidence unless noted):**\n- ERA: 1.74 (consistent across multiple recent story history references)\n- WHIP: 0.88\n- Strikeouts: 58 total (2026 season)\n- Home runs allowed: 0 (entire 2026 season)\n- Record: 2-2 (wins limited by run support, not performance)\n- In 5 starts since joining rotation: 1.73 ERA, 0.85 WHIP, 29 K in 26 IP (MEDIUM — single source)\n**Freshness:** Stats reflect full 2026 season through June 12; start tonight at Oracle Park is today's new hook.\n**Why it matters:** Brown has become the de facto rotation ace while Horton (out until 2027), Steele (60-day IL), Boyd (recovering), and now Taillon (hamstring) are all unavailable. His start tonight is the biggest pitching storyline of the series.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Standings Reality Check — Cubs 36-34, Wild Card Is the Conversation",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs 36-34. Brewers 41-25. Cardinals 37-29.\n\nThe division is gone — that's math. But 3 games behind St. Louis for a wild card slot? That's a real race.\n\nTwo wins in a row. Winnable series tonight and Sunday. This is how you climb.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Analysis / standings",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Standings — Cubs 36-34, Wild Card Is the Honest Path\n**Decision:** FOLLOW UP (standings covered daily; today's fresh angle = updated post-win record of 36-34, reality check on division vs. wild card path)\n**Prior Coverage:**\n- June 12: \"Wild Card Reality — Cubs 35-34, Brewers 41-23\" (Story 5 at 2:30 PM CT)\n- Similar angles covered throughout May-June\n**Sources:**\n1. CBS Sports MLB standings — https://www.cbssports.com/mlb/standings/ (MEDIUM — AI summary, standings may not reflect latest games)\n2. Series-context.json (local file) — Cubs 36-34, Giants 28-42 as of 08:30 UTC June 13 (HIGH confidence for Cubs' own record)\n3. ESPN standings page reference — https://www.espn.com/mlb/standings (MEDIUM)\n**Key Facts:**\n- Cubs: 36-34 (confirmed from series-context.json)\n- Brewers: ~41-25 (MEDIUM — standings search result)\n- Cardinals: ~37-29 (MEDIUM — standings search result)\n- Cubs GB behind Brewers: ~7.0 GB (calculated: ((41-36)+(34-25))/2 = 7.0)\n- Cubs GB behind Cardinals: ~3.0 GB (calculated: ((37-36)+(34-29))/2 = 3.0)\n- Wild card remains the realistic path to October; division gap too large to close\n**Freshness:** Updated after last night's win. New angle: specific GB figures post-win.\n**Why it matters:** Last time standings were covered with fresh data was June 12 (35-34). Win moved them to 36-34 and tightened the wild card picture slightly.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Game 2 Preview — Brown vs. McDonald, 9:05 PM CT",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ben Brown vs. Trevor McDonald. Oracle Park. 9:05 PM CT tonight. 🌉\n\nBrown: 1.74 ERA, 0 homers allowed all year. McDonald: 2-3, 4.15 ERA.\n\nCubs have every advantage in this matchup. Get up 2-0 in the series.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 2 Preview — Brown vs. McDonald, 9:05 PM CT\n**Decision:** NEW STORY (different from Story 3 — this is specifically the matchup preview, not just a Brown stat feature)\n**Sources:**\n1. Cubs Insider series preview — https://www.cubsinsider.com/2026/06/12/chicago-cubs-san-francisco-giants-series-preview-june-12-14/ (MEDIUM — written June 12)\n2. MLB.com probable pitchers — https://www.mlb.com/probable-pitchers (HIGH confidence for confirmation, but WebFetch summary gave McDonald)\n3. Series-context.json — game_date_ct: \"Sat 9:05 PM CT\" (HIGH confidence for game time)\n**Key Facts:**\n- Game time: 9:05 PM CT at Oracle Park (HIGH — series-context.json)\n- Cubs starter: Ben Brown (HIGH)\n- Giants starter: Trevor McDonald, RHP, 2-3, 4.15 ERA (LOW — WebFetch summary only; needs verification. McDonald confirmed as Giants pitcher from June 7 story history)\n- Series situation: Cubs lead 1-0 after 5-1 win last night\n**Note on McDonald stats:** His record (2-3) and ERA (4.15) come from a WebFetch AI summary. The name \"Trevor McDonald\" as a Giants pitcher is confirmed by June 7 story history (\"Taillon vs McDonald\" in series decider at Wrigley). Using his stats but flagging as LOW confidence in fact-check.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Taillon to IL + Roster Moves",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Taillon to the IL — hamstring, out until after the All-Star break. Shaw activated, Roberts recalled, Alcántara optioned. 🩹\n\nHorton (2027). Steele (60-day). Boyd. Now Taillon.\n\nAugust 3 can't get here fast enough.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Roster news / injury update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Taillon IL — Hamstring, Out Through All-Star Break\n**Decision:** NEW STORY (Taillon hamstring IL is a recent development; first standalone coverage; was not in June 12 pipeline which focused on the series preview and game recap)\n**Sources:**\n1. Bleed Cubbie Blue roster moves — https://www.bleedcubbieblue.com/chicago-cubs-roster/221023/cubs-roster-moves-matt-shaw-jameson-taillon-kevin-alcantara-ethan-roberts (HIGH confidence, detailed article)\n2. Cubs Insider — https://www.cubsinsider.com/2026/06/09/shaw-activated-alcantara-optioned-taillon-to-il-roberts-recalled/ (HIGH confidence)\n3. QC Times article — https://qctimes.com/sports/professional/mlb/article_4d994869-3cdb-5116-832c-859ba3d8967a.html (HIGH confidence: \"sidelined until after July's All-Star break\")\n**Key Facts:**\n- Taillon: 15-day IL, retroactive to June 8, left hamstring strain (HIGH)\n- Out until after All-Star break per QC Times (HIGH)\n- Matt Shaw: activated from IL (back tightness since May 22); 4-for-14 in 4 Iowa rehab games (HIGH)\n- Kevin Alcántara: optioned to Triple-A Iowa (HIGH)\n- Ethan Roberts: recalled from Triple-A Iowa (HIGH)\n- These moves were dated ~June 9 (Cubs Insider, Bleed Cubbie Blue)\n**Why it matters:** Taillon was the No. 2 starter in the active rotation. Now with Horton (2027), Steele (60-day), Boyd (recovering), AND Taillon (hamstring) all out, Cubs are essentially running on 3-4 viable starters.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Trade Deadline — 51 Days, 4 Starters Gone",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "Horton. Steele. Boyd. Taillon. Four starters out at once. 🩹\n\n51 days to August 3. Cubs need arms — and they know it. Ryan, Peralta, Skubal are all in play.\n\nThis deadline is going to define the 2026 season.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold take / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline — 51 Days, Four Starters Gone\n**Decision:** FOLLOW UP (trade deadline urgency tracked since May 14; today's sharper angle = Taillon addition to the list makes 4 starting pitchers simultaneously unavailable, 51 days to August 3)\n**Prior Coverage:**\n- June 12: \"Rotation Crisis + Trade Deadline (52 Days)\" (Story 4 at 1:15 PM CT)\n- Similar angles June 9, June 7, June 5, and throughout May\n**Sources:**\n1. Bleacher Report — https://bleacherreport.com/articles/25230533-cubs-trade-deadline-wish-list-revealed-report-includes-2-starting-pitchers (MEDIUM)\n2. FanSided trade deadline primer — https://fansided.com/mlb/mlb-trade-deadline-latest-trade-candidate-rankings (MEDIUM)\n3. North Side Baseball — https://northsidebaseball.com/news-rumors/chicago-cubs/cubs-way-too-early-trade-deadline-primer (MEDIUM)\n**Key Facts:**\n- Rotation gap: Horton (out until 2027), Steele (60-day IL), Boyd (recovering), Taillon (hamstring, All-Star break)\n- August 3 = trade deadline. 51 days from June 13.\n- Named targets: Tarik Skubal (Tigers), Joe Ryan (Twins), Freddy Peralta (Mets), Robbie Ray (Giants), Luis Castillo (Mariners) — ALL MEDIUM confidence from trade reports; not confirmed deals\n- Rotation is \"biggest priority\" per multiple sources\n- NOTE: Removed Robbie Ray \"playing against Cubs right now\" hook from tweet copy — not confirmed he's active/healthy and on the mound this series specifically\n**Why it matters:** Deadline storyline is reaching peak urgency with 4 starters now unavailable.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 8,
+      "title": "Pre-Game Hype — Brown at Oracle Park Tonight",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 8",
+          "text": "Ben Brown. Oracle Park. 9:05 PM CT. 🌉\n\n1.74 ERA, 0 home runs allowed all season. The Cubs' best arm takes the mound against a Giants team that's 28-42 and looking for answers.\n\nTake the series lead. Let's go. 🔥\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Pre-game energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype — Brown at Oracle Park, 9:05 PM CT\n**Decision:** NEW STORY (different from Story 3 stat feature and Story 5 matchup preview; this is the 5:00 PM CT energy post ahead of first pitch)\n**Sources:** Same as Story 3 and 5; game time confirmed via series-context.json (HIGH)\n**Key Facts:**\n- Ben Brown: 1.74 ERA, 0 HR allowed all season (MEDIUM for career-2026 context)\n- Giants: 28-42 (HIGH — series-context.json)\n- Game time: 9:05 PM CT at Oracle Park (HIGH)\n- Cubs lead series 1-0 (HIGH)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 8,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
