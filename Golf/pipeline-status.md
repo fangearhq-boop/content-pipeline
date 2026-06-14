@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-13
+- **Date**: 2026-06-14
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-14
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-06-14.xlsx (6 posts) + gfr-postplanner-tobi-2026-06-14.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-14/review-dashboard.html (26 items)
+- **Notes:** Canadian Open R4 — Suber leads -13/Cauley -12/Clark+Fleetwood 2 back/Fox defending -10; US Open starts June 18 Shinnecock/Scheffler +550 Grand Slam bid/30th birthday June 21/Father's Day; LIV Golf crisis: $196M of $600M funded/O'Neil can't guarantee final events/Saudi ending support after 2026/"LIV 2.0" fundraise; Dow LPGA: Somi Lee/Jin Hee Im won 20-under (62 final rd); Scheffler birthday/Grand Slam feature
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-13
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

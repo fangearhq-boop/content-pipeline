@@ -2,6 +2,53 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-14
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Canadian Open R4: Suber leads -13 (1 shot over Cauley); Clark/Fleetwood 2 back; Fox -10 defending; first PGA Tour win on line | 1 | FOLLOW UP |
+| 2 | US Open preview — 4 days away; Scheffler +550/Grand Slam bid; McIlroy +900; Shinnecock Par 70/7400 yds/5-inch rough | 1 | FOLLOW UP |
+| 3 | LIV Golf crisis — PIF funded $196M of $600M; O'Neil can't guarantee final events; Louisiana postponed; Saudi ending funding after 2026; seeking $250-350M for "LIV 2.0" | 2 | FOLLOW UP |
+| 4 | Dow LPGA Championship: Somi Lee/Jin Hee Im win at 20-under (260); final round 62 bogey-free/8 birdies | 2 | FOLLOW UP |
+| 5 | Scheffler birthday feature: 30th birthday + Father's Day + US Open final round = June 21; Grand Slam completion | 2 | FOLLOW UP |
+
+### STORY 1: Canadian Open R4 — Suber Leads
+- **Tier:** 1
+- **Category:** PGA Tour / Canadian Open
+- **Key facts:** Suber -13 (197/rounds 66-65-66); Cauley -12 (1 back); Clark/Fleetwood/Garnett/Svensson -11 (2 back); Fox -10 defending (3 back); Suber best prior: T4 CJ Cup Byron Nelson; purse $9.8M; TPC Toronto Osprey Valley
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Winner result; Suber first win or a veteran closes
+
+### STORY 2: US Open Preview
+- **Tier:** 1
+- **Category:** US Open / Major Preview
+- **Key facts:** June 18-21 Shinnecock Hills Southampton NY; Par 70/~7400 yds/5-inch rough; Scheffler +550 Grand Slam bid (has Masters/Open/PGA); McIlroy +900 (7th major hunt); Rahm +1400; Schauffele +1600; Koepka won 2018 (beat Fleetwood -1); last held there 2018
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** US Open R1-R4 coverage; Scheffler Grand Slam result
+
+### STORY 3: LIV Golf Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** PIF funded $196M ($66M May + $130M June) of ~$600M needed; O'Neil "can't guarantee final events"; Louisiana postponed; Indianapolis/Michigan at risk; UK/NY expected OK; Al-Rumayyan stepped down as chairman; Saudi ending funding after 2026; seeking $250-350M for LIV 2.0; total PIF investment $5B+
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** New investor announced; events cancelled; LIV 2.0 structure revealed
+
+### STORY 4: Dow LPGA — Lee/Im Win
+- **Tier:** 2
+- **Category:** LPGA / Dow Championship
+- **Key facts:** Somi Lee and Jin Hee Im won; 20-under (260 total); June 8-14 Midland CC; $3.3M purse; best-ball format; 72 teams; final round 62 bogey-free/8 birdies
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LPGA calendar; Lee/Im rankings impact
+
+### STORY 5: Scheffler Birthday/Grand Slam Feature
+- **Tier:** 2
+- **Category:** Feature / Scheffler
+- **Key facts:** Final round June 21 = Scheffler 30th birthday + Father's Day; Grand Slam: has Masters/Open/PGA, needs US Open; +550 favorite; career Grand Slam club: Sarazen/Hogan/Player/Nicklaus/Woods; Shinnecock brutal setup
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** US Open R4 result; Grand Slam completed or not
+
+---
+
 | Date | Tier | Topic | Platforms | Notes |
 |------|------|-------|-----------|-------|
 | 2026-06-13 | T1 | Canadian Open R3: Ben James -10 (rookie debut/shot 63) leads; Burns -9 (1 back); Koepka 2 back; Fox defending; Fitzpatrick (3 wins) chasing 4th; 11 players within 2; Golf Channel 1-3 ET/CBS 3-6 ET; final round Sunday | X, FB, Article | FOLLOW-UP |
