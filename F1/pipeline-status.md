@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-13
+- **Date**: 2026-06-14
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-14
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-14.xlsx (6 posts) + f1fr-postplanner-tobi-2026-06-14.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-14/review-dashboard.html (26 items)
+- **Notes:** Spanish GP race day — Russell pole (1m 14.679s)/Hamilton P2/Antonelli P3 (career-low 2026)/Norris P4/Verstappen P5/Leclerc crashed Q3; Antonelli 5 wins/156 pts/66-pt lead/hunting Schumacher 6-win record; Russell "must-win" (68 pts behind); Alonso "probably my last Barcelona race" (Formula1.com confirmed/44/32 wins/calendar rotation 2027); Verstappen 0 wins/P7/43 pts/new power unit/"step in right direction"/exit clause July 27
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-13
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

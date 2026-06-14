@@ -2,6 +2,53 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-14
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Spanish GP race day — Russell pole (1m 14.679s)/Hamilton P2/Antonelli P3; race today; Russell 68 pts behind Antonelli; "must-win" per Coulthard | 1 | FOLLOW UP |
+| 2 | Russell pole — breaks streak; Antonelli lowest qualifying of 2026 (P3); Leclerc crashed Q3; championship math: 68 pts gap | 1 | FOLLOW UP |
+| 3 | Antonelli 5 wins/66-pt lead/hunting Schumacher 6-straight record; first driver ever to win first 5 starts consecutively | 2 | FOLLOW UP |
+| 4 | Alonso "probably my last Barcelona race in F1"; 44yo/32 wins/2 titles; Barcelona rotating off calendar 2027 for Madrid Madring | 2 | FOLLOW UP |
+| 5 | Verstappen 0 wins through 7 rounds/P7 in championship/43 pts; new power unit; "step in right direction"; exit clause July 27 | 2 | FOLLOW UP |
+
+### STORY 1: Spanish GP Race Day — Russell Pole, Antonelli P3
+- **Tier:** 1
+- **Category:** Spanish GP / Race Day
+- **Key facts:** Russell pole 1m 14.679s; Hamilton P2 (0.111s back); Antonelli P3 (career-low 2026); Norris P4; Verstappen P5; Hadjar P6; Piastri P7; Leclerc crashed Q3; race June 14 Barcelona; Russell 68 pts behind Antonelli; Coulthard "must-win" for Russell
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result; championship points update
+
+### STORY 2: Russell Storms to Barcelona Pole
+- **Tier:** 1
+- **Category:** Qualifying / Mercedes
+- **Key facts:** Russell 1m 14.679s pole; beat Hamilton 0.111s; Antonelli P3 (lowest Q of 2026); Leclerc Q3 crash; top 3 all Mercedes; Russell needs win + fastest lap + Antonelli setback; 68-pt gap
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race result; Russell win or podium
+
+### STORY 3: Antonelli's Historic Season — 5 Wins, 66-Pt Lead
+- **Tier:** 2
+- **Category:** Championship / Antonelli
+- **Key facts:** 5 wins in 2026; 156 pts; 66-pt lead over Hamilton; 68-pt lead over Russell; age 19; hunting Schumacher 6-consecutive-win record (2004 season); first driver to win first 5 starts ever; P3 in Barcelona qualifying
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Schumacher record matched or missed; Austrian GP
+
+### STORY 4: Alonso's Barcelona Farewell
+- **Tier:** 2
+- **Category:** Driver News / Alonso
+- **Key facts:** Quote "probably my last race in F1 in this city" — Formula1.com; age 44; 32 wins; 2 world titles (2005/2006); Barcelona rotating off calendar 2027; Madrid Madring replacing it; no official retirement announced; grew up watching Senna here
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Alonso retirement official announcement; Madrid GP debut
+
+### STORY 5: Verstappen Winless — 0 Wins Through 7 Rounds
+- **Tier:** 2
+- **Category:** Driver Analysis / Verstappen
+- **Key facts:** 0 wins in 2026 (7 rounds); P5 Barcelona qualifying; P7 championship 43 pts; Antonelli 156 pts; new power unit for Barcelona; "step in the right direction" quote; Monaco DNF cause confirmed; exit clause activates July 27; Austrian GP Red Bull Ring June 26-28
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Exit clause triggered or waived; Austrian GP result
+
+---
+
 ## 2026-06-13
 
 | # | Story | Tier | Tag |
