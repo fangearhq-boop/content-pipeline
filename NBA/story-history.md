@@ -2,6 +2,53 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-14
+
+| # | Story | Tier | Tag |
+|---|-------|------|-----|
+| 1 | Knicks win 2026 NBA Championship 94-90 over Spurs in Game 5; Brunson 45 pts/15 in Q4; first title since 1973; rallied from double-digit deficits in all 4 wins; Wemby 19/14/5 in loss | 1 | FOLLOW UP |
+| 2 | Brunson unanimous Finals MVP (all 11 voters); Bill Russell Trophy; 32.6 PPG series; tied Jordan road clincher record; father Rick embrace | 1 | FOLLOW UP |
+| 3 | Knicks parade announced Thursday June 18; Mayor Mamdani; Canyon of Heroes Battery Park to City Hall | 2 | FOLLOW UP |
+| 4 | Giannis trade — Heat frontrunner post-Finals; Bucks "comfortable" with Herro+Ware+Jovic+firsts; 9 days to June 23 deadline | 2 | FOLLOW UP |
+| 5 | NBA Draft 9 days away; Dybantsa visits Wizards, says "If I go to DC, I'll make the playoffs"; 25.5 PPG/51% FG; first Wizards No. 1 since Wall 2010 | 2 | FOLLOW UP |
+
+### STORY 1: Knicks Win 2026 NBA Championship
+- **Tier:** 1
+- **Category:** NBA Finals / Championship
+- **Key facts:** Knicks 94-90 Spurs Game 5 June 13 Frost Bank Center; series 4-1; Brunson 45 pts (14/27 FG, 15 in Q4), Finals MVP unanimously; Wemby 19 pts/14 reb/5 blocks; OG Anunoby 11/8/3 steals; first Knicks title since 1973 (53-year drought); third franchise championship; Spurs were 5.5-pt favorites; rallied from double-digit deficits in all 4 wins
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Parade coverage June 18; ring ceremony; offseason moves
+
+### STORY 2: Brunson Finals MVP — 45 Points, Bill Russell Trophy
+- **Tier:** 1
+- **Category:** Player Award / NBA Finals
+- **Key facts:** All 11 media voters chose Brunson unanimously; 45 pts on 14/27 FG, 15 in Q4; series avgs 32.6 PPG/4.6 APG/4.2 RPG; tied Michael Jordan's road Finals clincher scoring record (MEDIUM); father Rick Brunson is Knicks assistant coach; Bill Russell Trophy winner
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Brunson contract extension; endorsements; legacy rankings
+
+### STORY 3: Knicks Parade — Thursday June 18
+- **Tier:** 2
+- **Category:** Celebration / NYC
+- **Key facts:** Mayor Zohran Mamdani announced; date June 18 confirmed; Canyon of Heroes route (Battery Park → Broadway → City Hall); first Knicks championship parade since 1973; full timing/logistics TBA June 14
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Parade day coverage June 18
+
+### STORY 4: Giannis Trade — Heat Frontrunner Post-Finals
+- **Tier:** 2
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Heat at top of Giannis wish list per Stein/Fischer; proposed package: Herro+Ware+Jovic+2029 1st+2031 1st; Bucks "comfortable" (per ClutchPoints, MEDIUM); Celtics/Timberwolves/Magic also engaged; deadline June 23 draft; Giannis 2 yrs left/$275M extension eligible Oct. 1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announcement; confirmed landing spot
+
+### STORY 5: NBA Draft — Dybantsa Makes Playoff Promise to Wizards
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** Draft June 23-24 Barclays Center Brooklyn (9 days); Dybantsa visit/workout with Wizards confirmed (The Athletic); quote: "If I go to DC, I'll make the playoffs — I'm gonna make sure I make it"; BYU: 25.5 PPG/51.0% FG/6'9" 210 lbs; Wizards No. 1 (17-65/14.0% lottery/first No. 1 since Wall 2010); Peterson still in No. 1 conversation; odds Dybantsa -450
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Draft night June 23; Dybantsa officially picked
+
+---
+
 ## 2026-06-13
 
 | # | Story | Tier | Tag |
