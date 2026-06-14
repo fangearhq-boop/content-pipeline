@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-14
+
+### Story 1: Cubs 6, Giants 1 — Crow-Armstrong Leadoff Homer, Three-Game Streak
+- **Date:** 2026-06-14
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Pete Crow-Armstrong homered on the first pitch of the game (12th HR), Cubs win 6-1. Ben Brown excellent: 5.2 IP, 1 H. Three-game win streak, first series win in 11 tries. Counsell: "stop asking if we're back."
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Cubs series sweep attempt Sunday
+  - Crow-Armstrong's HR pace tracking
+
+### Story 2: Skubal Return — Rust Shown, Health Confirmed
+- **Date:** 2026-06-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (2026-06-13)
+- **Angle:** Skubal's first start back from 38-day IL stint: 4⅔ IP, 3 R (2 ER), 4 K, 80 pitches. Took loss vs Guardians 3-1. Schneemann 2-run HR key. Skubal: "don't want to play into that narrative." Health confirmed — trade deadline watch continues.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal's next start performance
+  - Trade deadline speculation as health confirmed
+
+### Story 3: Schwarber-Alvarez Tied at 24 HR — Derby Preview
+- **Date:** 2026-06-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (2026-06-13)
+- **Angle:** Both tied at 24 HR for MLB lead. Buxton third at 21. Alvarez hit grand slam + solo HR June 13 to tie. Derby July 13 at Citizens Bank Park (Schwarber's home park). 60-HR club (5 players ever: Bonds/McGwire/Sosa/Maris/Mantle) within range for both.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Derby participation announcements
+  - Race through All-Star break
+
+### Story 4: Braves 45-23 but Acuña to IL — Hamstring Strain Clouds Best Record
+- **Date:** 2026-06-14
+- **Tier:** 2
+- **Classification:** FOLLOW UP (2026-06-13)
+- **Angle:** Acuña on IL with left hamstring strain; Braves dropped 3 straight after. Were 45-23 with 8-game NL East lead. Sale leads MLB: 92 K, 8 W. Olson: 20 HR, 51 RBI. Deadline math changed.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Acuña return timeline
+  - Braves deadline approach with health question
+
+### Story 5: All-Star Voting Open — Ben Rice, Judge's Situation
+- **Date:** 2026-06-14
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** All-Star voting Phase 1 through June 25; game July 14 Philadelphia. Ben Rice (.300/.393/.638, 17 HR, 181 wRC+ in 57 games) tracking for first All-Star selection. Judge (rib fracture) likely gets votes but would be injury scratch, clearing path for Rice. Derby at Schwarber's park.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - All-Star roster announcements
+  - Derby field confirmation
+
+---
+
 ## 2026-06-13
 
 ### Story 1: Skubal Returns to the Mound
