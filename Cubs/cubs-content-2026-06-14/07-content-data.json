@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-14",
+  "compiled_at": "2026-06-14T09:13:19.665502+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Story 1 — Cubs 6, Giants 1 recap",
+      "type": "Informative"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Story 2 — Game 3 preview, Rea vs Webb",
+      "type": "Informative"
+    },
+    {
+      "time": "1:15 PM CT",
+      "description": "Story 3 — Sweep bold take",
+      "type": "Bold"
+    },
+    {
+      "time": "2:30 PM CT",
+      "description": "Story 4 — Wild card / standings",
+      "type": "Analysis"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Story 5 — Trade deadline countdown",
+      "type": "Bold/Analysis"
+    },
+    {
+      "time": "5:00 PM CT",
+      "description": "Story 6 — Prospect pipeline",
+      "type": "Informative"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 6, Giants 1 — PCA First-Pitch HR, Brown Wins Third",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Pete Crow-Armstrong homered on the FIRST PITCH of the game.\n\nCubs went on to beat the Giants 6-1. Ian Happ and Pedro Ramírez added solo shots. Ben Brown went 5 innings, 1 run, picks up win No. 3. Cubs lead the series 2-0.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game recap (morning)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Game Preview — Rea vs Webb, 2:10 PM CT on ABC",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Cubs go for the sweep this afternoon at Oracle Park. 2:10 PM CT on ABC.\n\nColin Rea (5-4, 5.19 ERA) vs Logan Webb (3-4, 3.88 ERA) — the Giants' ace finally shows up in Game 3.\n\nCubs lead the series 2-0. Let's finish it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Bold Take — Cubs on the Sweep",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Giants are 28-43. The Cubs have outscored them 11-2 in this series.\n\nWin today and this is a road sweep of one of baseball's worst teams. That's how you build a wild card resume in June.\n\nGet it done.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold/passionate",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Standings — Cubs 37-34, Wild Card Is the Conversation",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs at 37-34. Over .500. Still standing.\n\nThe NL Central is the Brewers' division to lose. Cubs know it too. The conversation now is the wild card — and at 37-34 in mid-June, that path is very much alive.\n\nWin the games in front of you. Today counts.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Analysis / standings",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Trade Deadline — 50 Days, 4 Starters Gone",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "50 days to the August 3 deadline. Four starters on the IL.\n\nSteele (elbow), Horton (Tommy John), Taillon (hamstring), Boyd (IL). Colin Rea is the No. 2 starter by default.\n\nJed Hoyer has said they're looking. The question is what it costs.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold take / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Prospect Pipeline — Ayers, Hartshorn, Rojas, Sanders",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The rotation is shorthanded up top, but the farm is cooking.\n\nOwen Ayers and Josiah Hartshorn are on hot streaks at Double-A Knoxville. Jefferson Rojas has back-to-back 3-hit games. Will Sanders spun five scoreless for Iowa.\n\nThe cavalry is being built.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Feature / prospect update",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

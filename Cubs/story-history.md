@@ -2307,3 +2307,55 @@ Each day's stories are appended at the top (newest first).
   - Boyd activation for Thursday
 
 ---
+
+## 2026-06-14
+
+### STORY 1: Cubs 6, Giants 1 — PCA First-Pitch HR, Brown Wins Third
+- **Angle:** NEW STORY (June 13 game recap — PCA homered on first pitch of game (12th HR), Ian Happ + Pedro Ramírez added solo shots; Ben Brown 5 IP 1 R wins 3-2; Cubs outscored Giants 11-2 in two games)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning game recap)
+- **Follow-Up Opportunities:**
+  - Today's series finale result (Rea vs Webb, 2:10 PM CT)
+  - Series sweep confirmation
+
+### STORY 2: Game Preview — Rea vs Webb, 2:10 PM CT (ABC)
+- **Angle:** NEW STORY (Game 3 finale; Colin Rea 5-4 5.19 ERA vs Logan Webb 3-4 3.88 ERA; Cubs going for sweep of 28-43 Giants; national TV on ABC)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 3 result (tomorrow's pipeline)
+  - Rea ERA update after start
+
+### STORY 3: Bold Take — Cubs on the Sweep
+- **Angle:** NEW STORY (Cubs 2-0 in series vs 28-43 Giants; outscored 11-2; sweep as wild card resume builder)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Sweep confirmation if Cubs win today
+
+### STORY 4: Standings — Cubs 37-34, Wild Card Is the Conversation
+- **Angle:** FOLLOW UP (ongoing standings arc since June 10; today's angle = 37-34 over .500 in mid-June, wild card path framing vs Brewers' division lead)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Brewers record confirmation and GB update
+  - Cardinals record update
+
+### STORY 5: Trade Deadline — 50 Days, 4 Starters Gone
+- **Angle:** FOLLOW UP (rotation crisis arc; today's angle = 50-day countdown to August 3 deadline; Hoyer confirmed Cubs shopping for rotation help)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Any trade rumor specifics
+  - Boyd activation status
+  - Taillon return from IL (mid-July)
+
+### STORY 6: Prospect Pipeline — Ayers, Hartshorn, Rojas, Sanders
+- **Angle:** NEW STORY (Knoxville Smokies AA: Owen Ayers + Josiah Hartshorn simultaneous hot streaks; Jefferson Rojas back-to-back 3-hit games; Will Sanders 5 scoreless IP for Iowa)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Ayers/Hartshorn stats as June continues
+  - Any callup from Iowa/Knoxville
+
+---
