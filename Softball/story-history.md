@@ -3,6 +3,59 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 14, 2026
+
+### Story 1: Torres Watch — Day 7, Eight Days Left and Still No Answer
+- **Date:** 2026-06-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 13, 2026)
+- **Angle:** D1 POY Isa Torres (.530 BA/.978 SLG/.591 OBP/78 runs) enters Day 7 of portal window still uncommitted. Texas and Texas A&M frontrunners. Georgetown TX native — same hometown as Swan (signed Texas June 11). Portal closes June 22, 8 days remaining.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Torres commitment announcement
+  - Impact on Texas three-peat bid vs. A&M dynasty potential
+
+### Story 2: Beachum — Day 7 Uncommitted, No. 1 Transfer Still Building Leverage
+- **Date:** 2026-06-14
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 13, 2026)
+- **Angle:** Jaysoni Beachum (.417 BA/16 HR/66 RBI/.549 OBP, Softball America No. 1) enters Day 7 without commitment. Career: .375 BA/37 HR/180 RBI/202 hits (3 seasons FSU). NFCA 2024 Freshman of Year, 2026 Second-Team All-American.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment announcement
+  - Where does she land — SEC power or surprise?
+
+### Story 3: Pickering Enters Portal with "Do Not Contact" Tag — Texas Tech Signals Strong
+- **Date:** 2026-06-14
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Kasidi Pickering (.370 BA/20 HR/61 RBI/career .384 BA/50 HR/169 RBI at OU, On3 No. 2) entered portal June 8 with DNT tag — signals private commitment. Social activity + travel ball network + Texas Tech WCWS runner-up celebration point to Lubbock.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Pickering official announcement (likely Texas Tech)
+  - Texas Tech 2027 roster shape if confirmed
+
+### Story 4: Texas A&M Lands Maddy Azua — Sun Belt Pitcher of the Year
+- **Date:** 2026-06-14
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Maddy Azua (Sun Belt POY, 26-13/1.95 ERA/244.2 IP in 2025) commits to Texas A&M. Left-hander joins Peters and Lessentine in A&M rotation as Aggies simultaneously pursue Torres in portal.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - A&M landing Torres would combine star offense + improved rotation
+  - A&M 2027 pitching depth assessment
+
+### Story 5: Portal Countdown — 8 Days, New Entrants and Three Stars Still Available
+- **Date:** 2026-06-14
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 8 window open)
+- **Angle:** Day 7 of 15. Committed: Swan (Texas), Plumlee (Alabama), Altmeyer (Texas), Azua (A&M). Still available: Torres (No. 1), Beachum (No. 3), Polar (No. 5). DNT: Pickering (No. 2, likely Texas Tech). 8 days left.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Daily portal tracker updates through June 22
+
+---
+
 ## June 13, 2026
 
 ### Story 1: Torres Watch — Day 6, Nine Days Left and No Decision

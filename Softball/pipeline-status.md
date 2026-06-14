@@ -1,6 +1,14 @@
 # Softball Pipeline Status
 
 ## Last Run
+- **Date**: 2026-06-14
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (55 claims, 0 char violations, consistency clean), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). X posts/FB posts compile to 0 (known heading format). 0 char violations. Detached HEAD resolved via pull --rebase + cherry-pick (standard).
+- **Key Stories**: Torres Day 7 still uncommitted/Texas+A&M pursuing/.530 D1 POY/portal closes June 22/8 days left (Tier 1 FOLLOW UP June 13), Beachum Day 7 uncommitted/No. 1 Softball America/.417/16HR/66RBI/.549 OBP/building leverage (Tier 1 FOLLOW UP June 13), Pickering (OU) DNT tag/On3 No. 2/.370 BA/20 HR/Instagram Texas Tech celebration points to Lubbock (Tier 1 NEW), Texas A&M lands Maddy Azua/Sun Belt POY/1.95 ERA/244.2 IP/26-13 (Tier 2 NEW), Portal countdown: 8 days left/Torres+Beachum+Polar available/Pickering appears decided (Tier 3 FOLLOW UP)
+
+## Previous Run
 - **Date**: 2026-06-13
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (60 claims, 0 char violations, consistency clean), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
