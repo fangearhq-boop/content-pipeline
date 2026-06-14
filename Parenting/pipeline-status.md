@@ -1,5 +1,42 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 14, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Father's Day COS 2026 guide (Pikes Peak free dads, USOPM 50% off, Wolf Center tour, ProRodeo 20% off, Garden of Gods always free — June 21); Pikes Peak Pride Sunday June 14 (parade 10 AM Acacia Park → Tejon → Alamo Square; festival 10 AM-6 PM; Rainbow Youth Square; 150+ vendors; free); D49 meals end June 19 (5 days; Springs Ranch Elementary only; D11 continues through July 31); Guidecraft Kitchen Helper Tower Recall 26-490 (May 14, 2026; ~25,235 units; Classic + Contemporary 9 colors; June 2022-Oct 2023; ~$200; Amazon/Wayfair/Walmart/Target/Maisonette/Overstock; 11 falls/3 injuries; free repair kit; 800-524-3555); Colorado Renaissance Festival rest of summer guide (every Sat-Sun through Aug 2; Larkspur ~30 mi; King Soopers $29/$14/free; First Responder BOGO) |
+| Story History Check | COMPLETE | 3 NEW STORIES (Father's Day guide, Pikes Peak Pride, Guidecraft recall) + 2 FOLLOW-UPS (D49 meals — 5 days left, Renaissance Festival — rest of summer guide) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (4 Tier 1, 1 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 9 posts (2 each for Stories 1-4; 1 for Story 5); all under 280 chars; 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py ran — 75 claims, 179 HIGH, 49 MEDIUM, 51 LOW; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 9 X posts, 0 FB posts, 5 articles, 10 images; 24 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 24 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-14.xlsx (19 posts: 9 X + 10 FB) + TOBI cosp-postplanner-tobi-2026-06-14.xlsx (14 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-14)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 9 X posts + 10 FB posts (5 long-form + 5 captions) = 19 total in PostPlanner xlsx
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-14.xlsx (19 posts), cosp-postplanner-tobi-2026-06-14.xlsx (14 TOBI posts)
+- **Coverage:** Father's Day 2026 COS guide — June 21 one week away (Pikes Peak free for dads/reservation required; USOPM 50% off; ProRodeo 20% off merchandise; Wolf Center 9-11 AM limited; Garden of Gods always free; Victory Car Show); Pikes Peak Pride TODAY — parade 10 AM Acacia Park → Tejon → Alamo Square, festival 10 AM-6 PM Alamo Square, Rainbow Youth Square for kids/teens, 150+ vendors/25+ acts, free; D49 meals end June 19 — 5 days left, Springs Ranch Elementary only, D11 continues through July 31 multiple sites any child 1-18; Guidecraft Kitchen Helper Tower Recall 26-490 — ~25,235 units Classic/Contemporary 9 colors, June 2022-Oct 2023, ~$200, Amazon/Wayfair/Walmart/Target/Maisonette/Overstock, 11 falls 3 injuries, free repair kit 800-524-3555; Colorado Renaissance Festival rest of summer — every Sat-Sun through Aug 2 Larkspur, ~30 min from COS, King Soopers $29/$14/free under 5, First Responder BOGO, Magical Fantasy theme
+- **Notes:**
+  - verify-facts.py: passed; 75 claims, 179 HIGH, 49 MEDIUM, 51 LOW; image not_started warnings cosmetic (expected for gemini source)
+  - compile: 5 stories, 9 X posts, 0 FB posts, 5 articles, 10 images — full parse success; 24 dashboard items
+  - PostPlanner exports: standard (19 posts: 9 X + 10 FB) and TOBI (14 posts) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: June 13, 2026
 
 | Step | Status | Notes |

@@ -2,6 +2,50 @@
 
 ---
 
+## June 14, 2026
+
+### Story 1: Father's Day 2026 — COS Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Father's Day 2026 guide for Colorado Springs families (June 21). Pikes Peak Highway free for dads (reservation required); U.S. Olympic & Paralympic Museum 50% off dads; ProRodeo Hall of Fame 20% off men's wear/drinkware; Colorado Wolf & Wildlife Center Father's Day wolf tour 9-11 AM June 21 (space limited, breakfast burritos); Garden of the Gods always free; Victory Car Show; local dining specials.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Father's Day: Sunday June 21, 2026; Pikes Peak: free for dads, timed-entry reservation required; USOPM: 50% off; ProRodeo: 20% off merchandise; Wolf Center: 9-11 AM, space limited; Garden of Gods: always free; Sources: visitcos.com, koaa.com, pikes-peak.com, allevents.in
+- **Follow-Up Opportunities:** Father's Day recap June 22; summer outing guides through July
+
+### Story 2: Pikes Peak Pride 2026 — Family Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pikes Peak Pride Festival Sunday June 14 in downtown COS. Parade at 10 AM near Acacia Park marching south on Tejon to Alamo Square. Festival 10 AM-6 PM at Alamo Square/Colorado Springs Pioneers Museum. Free admission. Rainbow Youth Square for kids and teens. 150+ vendors, 25+ live acts.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** June 14, 2026; Parade: 10 AM, Acacia Park → Tejon → Alamo Square; Festival: 10 AM-6 PM; Free general admission; Rainbow Youth Square; 150+ vendors; 25+ entertainment acts; Sources: visitcos.com, eventeny.com, peakradar.com
+- **Follow-Up Opportunities:** Post-event recap; annual event reminder 2027
+
+### Story 3: D49 Free Summer Meals Final Week + D11 Transition
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (June 13 first coverage) — D49 free meals end June 19 (5 days remaining). Springs Ranch Elementary only site. D11 continues through July 31 at multiple COS sites. Ages 1-18, any district, no barriers. Transition guide for families.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** D49: ends June 19, Springs Ranch Elementary only; D11: through July 31, multiple sites, d11.org; Ages 1-18, no registration/ID/income verification; USDA SFSP; Sources: kktv.com, d49.org, d11.org, CDE
+- **Follow-Up Opportunities:** D11 program end (July 31); back-to-school resource guide
+
+### Story 4: Guidecraft Kitchen Helper Tower Recall — CPSC 26-490
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC Recall 26-490 (May 14, 2026): ~25,235 Guidecraft Classic and Contemporary Kitchen Helper Tower units (9 colors) recalled for fall hazard. Internal platform loosens/detaches over time. 11 falls, 3 injuries. Sold June 2022-October 2023 ~$200 at Amazon/Wayfair/Walmart/Target/Maisonette/Overstock. Remedy: free repair kit. Contact 800-524-3555 or ProductSupport@guidecraft.com or guidecraft.com/pages/product-recall.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Recall 26-490; ~25,235 units; Classic + Contemporary models, 9 colors; June 2022-Oct 2023; ~$200; Amazon/Wayfair/Walmart/Target/Maisonette/Overstock; 11 falls, 3 injuries; free repair kit; 800-524-3555 Mon-Fri 8 AM-8 PM ET; ProductSupport@guidecraft.com; guidecraft.com/pages/product-recall; Sources: cpsc.gov, newsweek.com, dailyhornet.com
+- **Follow-Up Opportunities:** None (recall is definitive action)
+
+### Story 5: Colorado Renaissance Festival — Rest of Summer Planning Guide
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (opening weekend covered June 13) — Planning guide for remaining Saturdays and Sundays through August 2 in Larkspur. 30 miles from COS (~30 min). King Soopers tickets $29/$14/free under 5. First Responder BOGO. Family tips: arrive early, bring layers, costumes encouraged. Magical Fantasy theme.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Every Sat-Sun through Aug 2; Larkspur CO; ~30 miles from COS; King Soopers: $29 adult/$14 youth (5-17)/free under 5; First Responder BOGO; coloradorenfaire.com; Sources: coloradorenfaire.com, visitcos.com
+- **Follow-Up Opportunities:** Final weekend wrap-up (Aug 2-3); 2027 season preview
+
+---
+
 ## June 13, 2026
 
 ### Story 1: Target Up&Up Baby Wipes Recall
