@@ -1,0 +1,340 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-14",
+  "compiled_at": "2026-06-14T12:24:30.478845+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Stuttgart BOSS Open Final — Fritz vs Shelton, All-American Showdown",
+      "tier": 1,
+      "status": "",
+      "angle": "Historic all-American ATP final — first time two Americans have met in an ATP final in 71 years. Defending champion Taylor Fritz (beat Bublik 6-4, 6-4 in SF) faces Ben Shelton (saved 2 match points vs Lehecka 6-7(4), 7-6(14), 7-6(6) in SF). Shelton leads H2H 2-1, including 2026 Dallas Open final win. Both players entering Wimbledon-prep form. Final scheduled post 2:00 PM local time in Stuttgart.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Fritz (defending champ) vs Shelton — All-American Stuttgart final. First time two Americans have met in an ATP final in 71 years. Wimbledon is 15 days away. ⚡ #Tennis #BossOpen #Shelton #Fritz",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#BossOpen",
+            "#Shelton",
+            "#Fritz"
+          ],
+          "char_count": 192
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Ben Shelton saved 2 match points in a 7-6(14) tiebreak vs Lehecka to reach the Stuttgart final. No. 1 seed. Nerves of steel. Now he faces defending champ Fritz for the title. 🎾 #Tennis #BossOpen #Shelton",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#BossOpen",
+            "#Shelton"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-fritz-vs-shelton-stuttgart-all-american-final.html",
+        "headline": "Fritz vs Shelton: All-American Stuttgart Final Is First in 71 Years",
+        "word_count": 736
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (X/Twitter)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter preview post, FB image caption"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Stuttgart BOSS Open Final — Fritz vs Shelton\n**Sources:** atptour.com, tennistonic.com, tennisuptodate.com, tennisnerd.net, yardbarker.com, sportskeeda.com\n**Confirmed Facts:**\n- [HIGH] Ben Shelton (No. 1 seed) vs Taylor Fritz (No. 2 seed / defending champion) in Stuttgart BOSS Open final, June 14, 2026\n- [HIGH] Fritz def. Alexander Bublik (No. 3 seed) 6-4, 6-4 in the SF (Source: atptour.com)\n- [HIGH] Shelton def. Jiri Lehecka 6-7(4), 7-6(14), 7-6(6) in SF, saving 2 match points (Source: atptour.com)\n- [HIGH] H2H: Shelton leads Fritz 2-1; Shelton won 2026 Dallas Open final (Source: tennistonic.com)\n- [HIGH] Final scheduled post 2:00 PM local time Stuttgart (Source: atptour.com)\n- [MEDIUM] First all-American ATP final in 71 years (Source: yardbarker.com headline; not cross-referenced with specific historical data)\n- [HIGH] Fritz is defending 2025 Stuttgart champion (Source: atptour.com)\n- [HIGH] Wimbledon begins June 29, 2026 (Source: lta.org.uk)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Queen's Club WTA Final — Raducanu Chases First British Women's Title in 56 Years",
+      "tier": 1,
+      "status": "",
+      "angle": "Emma Raducanu (world No. 42) vs Donna Vekic (lucky loser, world No. 19) in the HSBC Championships final at Queen's Club. Raducanu played double duty Saturday — beat Rakhimova in QF, then Jovic 6-2, 6-2 in SF — without dropping a set all week. Vekic dominant, beat Boulter 6-1, 6-3 in SF. First career meeting. Raducanu would be first British woman to win Queen's since Winnie Shaw in 1970 (56 years). Wimbledon starts June 29.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Emma Raducanu played TWO matches Saturday at Queen's Club and didn't drop a set. Now she's in Sunday's final vs Vekic. First British woman in the Queen's Club final since 1970. 🇬🇧 #Tennis #QueensClub #Raducanu",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#QueensClub",
+            "#Raducanu"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Raducanu vs Vekic — Queen's Club WTA final. Win would be Raducanu's first title since the 2021 US Open. First British woman to win Queen's since Winnie Shaw in 1970. 56 years in the making. 🎾 #Tennis #QueensClub #Raducanu",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#QueensClub",
+            "#Raducanu"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-raducanu-vekic-queens-club-final-2026.html",
+        "headline": "Raducanu vs Vekic: Queen's Club Final Could Make British Tennis History",
+        "word_count": 717
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (X/Twitter)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter post, FB caption"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Queen's Club WTA Final — Raducanu vs Vekic\n**Sources:** wtatennis.com, lta.org.uk, skysports.com, lastwordonsports.com, tennis365.com, yahoo sports, britwatchsports.com\n**Confirmed Facts:**\n- [HIGH] Emma Raducanu (world No. 42) vs Donna Vekic (world No. 19, lucky loser) in HSBC Championships (WTA 500) final, Queen's Club, June 14, 2026 (Source: wtatennis.com, lta.org.uk)\n- [HIGH] Raducanu def. Kamilla Rakhimova 6-3, 7-5 in QF (Source: wtatennis.com)\n- [HIGH] Raducanu def. Iva Jovic (No. 6 seed) 6-2, 6-2 in SF (Source: lta.org.uk, skysports.com)\n- [HIGH] Raducanu played double duty Saturday (QF + SF on same day) (Source: wtatennis.com)\n- [HIGH] Raducanu has not dropped a set in the tournament (Source: tennis365.com)\n- [HIGH] Vekic entered as lucky loser (Source: wtatennis.com, lta.org.uk)\n- [HIGH] Vekic def. Katie Boulter 6-1, 6-3 in SF (Source: lta.org.uk)\n- [HIGH] First career meeting between Raducanu and Vekic (Source: wtatennis.com)\n- [HIGH] Raducanu would be first British woman to win Queen's since Winnie Shaw in 1970 (Source: skysports.com, lta.org.uk)\n- [MEDIUM] This would be Raducanu's first title since 2021 US Open (Source: lastwordonsports.com, britwatchsports.com — consistent across sources → upgrading to HIGH)\n- [HIGH] This would be Raducanu's first title since 2021 US Open (confirmed multiple sources)\n- [HIGH] Wimbledon begins June 29, draw June 26 (Source: lta.org.uk)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Libema Open Final — Majchrzak's Cinderella Run Meets de Minaur",
+      "tier": 1,
+      "status": "",
+      "angle": "Kamil Majchrzak (Poland) faces Alex de Minaur (Australia, world No. 6, defending 2024 champion) in the Libema Open final at 's-Hertogenbosch. Majchrzak reached his first ATP final with back-to-back upsets of FAA (world No. 4) in QF and Medvedev (No. 3 seed) 7-6(4), 6-1 in SF. De Minaur rallied past Mannarino in SF. Final at 2:30 PM local. If Majchrzak wins, first ATP title for him.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Kamil Majchrzak's week at 's-Hertogenbosch: def. No. 4 Auger-Aliassime in QF, def. Medvedev in SF, now faces de Minaur in the FINAL. First ATP final of his career. 🎾 #Tennis #LibemaOpen #Majchrzak",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#LibemaOpen",
+            "#Majchrzak"
+          ],
+          "char_count": 196
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Alex de Minaur rallied from a set down to beat Mannarino and reach the Libema Open final. Now the 2024 defending champion faces Majchrzak for a second 's-Hertogenbosch title. #Tennis #LibemaOpen #deMinaur",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#LibemaOpen",
+            "#deMinaur"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-majchrzak-de-minaur-libema-open-final.html",
+        "headline": "Majchrzak vs de Minaur: Libema Open Final Pits Cinderella Against Champion",
+        "word_count": 628
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter, FB caption"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Libema Open Final — Majchrzak vs de Minaur\n**Sources:** tennismajors.com, atptour.com, tennistonic.com, thestatszone.com, sportskeeda.com, skysports.com\n**Confirmed Facts:**\n- [HIGH] Kamil Majchrzak (Poland) vs Alex de Minaur (Australia, world No. 6) in Libema Open final, 's-Hertogenbosch, June 14, 2026 (Source: atptour.com, tennismajors.com)\n- [HIGH] Final at 2:30 PM local time on Centre Court (Source: tennistonic.com)\n- [HIGH] Majchrzak def. Daniil Medvedev (No. 3 seed) 7-6(4), 6-1 in SF (Source: tennismajors.com — \"Majchrzak sees off Medvedev\")\n- [HIGH] Majchrzak def. Felix Auger-Aliassime (world No. 4, top seed) 6-4, 6-3 in QF — 2nd career Top-10 win (Source: atptour.com, pipeline research from 2026-06-13)\n- [HIGH] De Minaur reached final, defeating Mannarino in SF — de Minaur rallied after losing opening set (Source: tennismajors.com — \"de Minaur upends Mannarino...reels off 10 straight games\")\n- [HIGH] De Minaur is the 2024 Libema Open defending champion (Source: atptour.com)\n- [MEDIUM] Majchrzak world ranking approximately No. 77 (single source, approximate)\n- [HIGH] Libema Open is an ATP 250 grass-court tournament (Source: atptour.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wimbledon 2026 — 15 Days Out, Contenders Come Into Focus",
+      "tier": 2,
+      "status": "",
+      "angle": "Wimbledon begins June 29; draw set for June 26; qualifying June 22-25. Sinner (No. 1, defending champion) has skipped all grass warm-ups except Hurlingham exhibition June 23-27. Alcaraz (No. 2) confirmed out with wrist injury. Today's stuttgarts and Queen's finalists give clearest form guides ahead of Wimbledon. Women: Swiatek defending, Andreeva (Roland Garros champion) arrives with no grass points to defend. Rybakina fell in QF.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Wimbledon starts June 29. Alcaraz is out (wrist). Sinner (defending) skipped all warm-ups. Raducanu is in a final TODAY. The grass season storylines are writing themselves. Draw: June 26. 🌿 #Tennis #Wimbledon2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#Wimbledon2026"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wimbledon-2026-preview-15-days-out.html",
+        "headline": "Wimbledon 2026 Preview: 15 Days Out, the Field Takes Shape",
+        "word_count": 643
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "FB image caption, X post"
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wimbledon 2026 — 15 Days Out\n**Sources:** lta.org.uk, tennismajors.com, flashscore.com, cbssports.com, atptour.com, wtatennis.com\n**Confirmed Facts:**\n- [HIGH] Wimbledon 2026: June 29 – July 12, 2026 (Source: lta.org.uk, tennismajors.com)\n- [HIGH] Wimbledon draw ceremony: June 26, 2026 (Source: lta.org.uk)\n- [HIGH] Wimbledon qualifying: June 22-25, 2026 (Source: tennismajors.com)\n- [HIGH] Sinner (world No. 1, defending Wimbledon champion 2025) is skipping Halle and Queen's Club warm-up events (Source: from prior pipeline research, confirmed multiple sources June 11-12)\n- [HIGH] Sinner attending Hurlingham Giorgio Armani Tennis Classic exhibition, June 23-27 (Source: prior pipeline research)\n- [HIGH] Carlos Alcaraz (world No. 2) confirmed withdrawal from Wimbledon due to wrist injury (Source: prior pipeline research, June 12-13)\n- [HIGH] Alcaraz also missed Roland Garros (wrist injury) (Source: prior pipeline)\n- [HIGH] ATP rankings at time of week 1 grass: Sinner No. 1 (13,500 pts), Alcaraz No. 2 (9,960 pts) (Source: prior pipeline research June 13)\n- [HIGH] Iga Swiatek is defending 2025 Wimbledon champion (Source: prior pipeline research)\n- [HIGH] Mirra Andreeva is 2026 Roland Garros champion (Source: prior pipeline research June 9)\n- [HIGH] Elena Rybakina fell in QF at Queen's Club (to Boulter) (Source: wtatennis.com)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Triple Finals Sunday — Week 1 of Grass Sets Wimbledon Stage",
+      "tier": 2,
+      "status": "",
+      "angle": "All three grass-court tournaments conclude on June 14 with simultaneous finals: Stuttgart (all-American Fritz vs Shelton), Libema (Majchrzak vs de Minaur), Queen's Club WTA (Raducanu vs Vekic). Historic day for tennis — first all-American ATP final in 71 years headlines a weekend where Medvedev, Rybakina, FAA, and Boulter all fell to inspired underdogs. Week 1 of grass has rewritten the Wimbledon form book.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Sunday June 14: three ATP/WTA grass finals, same day. Stuttgart. 's-Hertogenbosch. Queen's Club. Medvedev, Rybakina, and FAA all gone. The Wimbledon form book has been rewritten. 🌿 #Tennis #GrassSeason #Wimbledon2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Tennis",
+            "#GrassSeason",
+            "#Wimbledon2026"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-triple-finals-sunday-grass-week-1-recap.html",
+        "headline": "Triple Finals Sunday: Week 1 of Grass Rewrites the Wimbledon Form Book",
+        "word_count": 719
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social + Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "FB caption, article hero"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Triple Finals Sunday Recap\n**Sources:** atptour.com, wtatennis.com, lta.org.uk, tennismajors.com, yardbarker.com\n**Confirmed Facts:**\n- [HIGH] Three grass-court tournaments conclude on June 14, 2026 with simultaneous finals: Stuttgart ATP 250, Libema Open ATP 250, HSBC Championships WTA 500\n- [HIGH] Stuttgart final: Fritz vs Shelton (first all-American ATP final per yardbarker.com headline: \"...give American men's tennis a first in 71 years\") — [MEDIUM] specific claim of 71 years not cross-referenced\n- [HIGH] Rybakina (world No. 2) fell in QF at Queen's Club to Boulter (wildcard No. 73)\n- [HIGH] FAA (world No. 4) fell to Majchrzak in Libema QF\n- [HIGH] Medvedev (No. 3 seed at Libema) lost SF to Majchrzak\n- [MEDIUM] Week 1 grass form guide signals for Wimbledon — interpretation/analysis, not factual claim",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 9
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

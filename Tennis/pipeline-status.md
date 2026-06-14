@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-13 |
-| Writing | Complete (all steps) | 2026-06-13 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 40 claims, 73 HIGH; image warnings cosmetic/expected for imagn) | 2026-06-13 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images) | 2026-06-13 |
-| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-06-13 |
-| PostPlanner Export | Complete (standard 8 posts + TOBI 8 posts) | 2026-06-13 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-13 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-13 |
+| Research | Complete | 2026-06-14 |
+| Writing | Complete (all steps) | 2026-06-14 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 35 claims, 91 HIGH; image warnings cosmetic/expected for imagn) | 2026-06-14 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 9 images) | 2026-06-14 |
+| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-06-14 |
+| PostPlanner Export | Complete (standard 18 posts: 8 X + 10 FB; TOBI 13 posts) | 2026-06-14 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-14 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-14 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-14 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-14.xlsx (18 posts), tfr-postplanner-tobi-2026-06-14.xlsx (13 TOBI posts)
+- **Coverage:** Stuttgart BOSS Open Final — all-American Fritz vs Shelton (first in 71 years; Fritz def. Bublik 6-4, 6-4 SF; Shelton def. Lehecka 6-7(4), 7-6(14), 7-6(6) saving 2 MPs; Shelton leads H2H 2-1; final post 2 PM local); Queen's Club WTA Final — Raducanu vs Vekic (Raducanu double-duty Saturday QF + SF, no sets dropped all week; Vekic entered as LL, def. Boulter 6-1, 6-3 SF; first career meeting; Raducanu bidding to be first British woman at Queen's since Winnie Shaw 1970; first title since 2021 US Open); Libema Open Final — Majchrzak vs de Minaur (Majchrzak def. FAA 6-4, 6-3 QF + Medvedev 7-6(4), 6-1 SF for first ATP final; de Minaur rallied from set down vs Mannarino; final 2:30 PM Centre Court; de Minaur 2024 defending champ); Wimbledon 2026 — 15 days out (draw June 26, qualifying June 22-25, starts June 29; Sinner defending, skipping warm-ups except Hurlingham; Alcaraz out wrist); Triple Finals Sunday — three grass-court finals same day (Stuttgart + Libema + Queen's Club WTA)
+- **Notes:**
+  - verify-facts.py: passed; 35 claims, 91 HIGH; image warnings cosmetic (imagn source, all not_started)
+  - compile: 5 stories, 8 X posts, 0 FB posts, 5 articles, 9 images; posting window warnings cosmetic
+  - dashboard: 23 items
+  - PostPlanner exports: standard (18 posts: 8 X + 10 FB) and TOBI (13 TOBI posts) generated successfully — best-ever Tennis FB parsing
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-13 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
