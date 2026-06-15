@@ -1,0 +1,252 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-15",
+  "compiled_at": "2026-06-15T11:13:45.493756+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks Parade Thursday — Canyon of Heroes, 10 AM, Battery Park to City Hall",
+      "tier": 1,
+      "status": "",
+      "angle": "Mayor Zohran Mamdani has confirmed the full details for the Knicks' championship ticker-tape parade: Thursday June 18, starting at 10:00 AM at Battery Park, traveling north along Broadway through the Canyon of Heroes, ending at City Hall Plaza where a Key to the City ceremony will follow. First Knicks championship parade since 1973 — first in franchise history for many fans. City Hall and municipal buildings will glow blue and orange that day.",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The Knicks parade is OFFICIAL. 🗽\n\n📅 Thursday, June 18\n⏰ 10:00 AM\n📍 Battery Park → Broadway → City Hall (Canyon of Heroes)\n\nFirst Knicks championship parade in 53 years. Plan accordingly, NYC. #NewYorkKnicks",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Canyon of Heroes. Battery Park to City Hall. 10 AM Thursday.\n\nAfter 53 years, the #NewYorkKnicks finally get their ticker-tape parade. Mayor Mamdani presents a Key to the City at City Hall Plaza.\n\nNYC goes BLUE AND ORANGE. 🔵🟠",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-knicks-parade-thursday-canyon-of-heroes.html",
+        "headline": "Knicks Parade Thursday: Canyon of Heroes Route, Time, and Everything You Need to Know",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Parade Thursday\n\n**Image 1A** — Social (1080x1350)\n- **Type:** gemini / base_only\n- **Search/Prompt:** Aerial view of Broadway Canyon of Heroes ticker-tape parade, confetti raining down, blue and orange streamers, NYC skyscrapers, crowd stretching for blocks, festive celebration atmosphere, bright daylight\n- **Use:** X post 1A, Facebook long-form post\n- **Status:** not_started\n\n**Image 1B** — Social (1080x1350)\n- **Type:** gemini / base_only\n- **Search/Prompt:** NYC City Hall Plaza celebration, crowd gathered, blue and orange decorations, New York skyline in background, daytime festive atmosphere\n- **Use:** Facebook image caption post\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Parade Thursday — Canyon of Heroes\n**Verified Facts (HIGH confidence):**\n- Parade date: Thursday, June 18, 2026\n- Start time: 10:00 AM ET\n- Route: Battery Park north along Broadway through Canyon of Heroes to City Hall Plaza\n- Post-parade: Key to the City ceremony on City Hall Plaza hosted by Mayor Zohran Mamdani\n- City Hall and municipal buildings will be illuminated in blue and orange\n- First Knicks championship parade since 1973 (53-year drought)",
+        "sources": "- Sources: NYC Mayor's Office press release, NBC New York, ABC7 New York, Fox5NY\n**Supporting context:**\n- Knicks defeated Spurs 94-90 in Game 5 on June 13 at Frost Bank Center\n- All-night celebrations in NYC following the win; NYPD reported 63 arrests (Gothamist)\n- This is only the third championship in franchise history"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Brunson's $113M Paycut Built a Championship — The Story Behind the Sacrifice",
+      "tier": 1,
+      "status": "",
+      "angle": "Two years ago, Jalen Brunson left $113 million on the table by signing a team-friendly 4-year, $156.5M extension instead of waiting for a projected $269M max. That sacrifice created the roster flexibility that let the Knicks build around him. On Saturday night, it paid off with a Finals MVP trophy, a championship ring, and 45 points in the closeout. His father Rick Brunson, a Knicks assistant coach, was on the floor for the celebration — a father-son moment for the ages.",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "In 2024, Brunson left $113M on the table to sign a team-friendly deal.\n\nOn Saturday, his dad — a Knicks assistant coach — hugged him on the floor as a champion.\n\nSome things are worth more than money. #NewYorkKnicks",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks"
+          ],
+          "char_count": 215
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Brunson could have had $269M. He took $156.5M so the Knicks could build a TEAM.\n\n45 points. Finals MVP. Championship ring.\n\nThe $113M paycut became the best investment in NBA history. #NewYorkKnicks",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-brunson-paycut-finals-mvp-championship.html",
+        "headline": "Brunson Left $113 Million on the Table. Saturday Night, He Got His Return.",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Brunson Paycut / Finals MVP\n\n**Image 2A** — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Jalen Brunson New York Knicks\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** X post 2A, Facebook long-form\n- **Status:** not_started\n\n**Image 2B** — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Jalen Brunson New York Knicks trophy\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** Facebook image caption\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Brunson Paycut / Finals MVP Story\n**Verified Facts (HIGH confidence):**\n- Brunson signed 4-year, $156.5M extension in 2024 (accepted option for 2028-29 season)\n- Had he waited until 2025, would have been eligible for 5-year, $269M max deal\n- Left approximately $113 million on the table — confirmed by multiple outlets (NBC Sports, Sunday Guardian Live, Posting and Toasting)\n- Brunson's Finals stats: 45 points (14-of-27 FG) in Game 5; series average 32.6 PPG, 4.6 APG, 4.2 RPG\n- Brunson was unanimously named 2026 NBA Finals MVP (Bill Russell Trophy) — all 11 media voters\n- Father Rick Brunson is a Knicks assistant coach",
+        "sources": "- Source: NBA.com, CBS New York, NBC Sports, SNY, Bleacher Report"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Giannis Trade — Heat Still Frontrunner, 8 Days to June 23 Deadline",
+      "tier": 2,
+      "status": "",
+      "angle": "With the Finals in the rearview mirror, the Bucks-Giannis saga moves center stage. The Heat remain the frontrunner per insiders Marc Stein and Shams Charania. Proposed Heat package: Tyler Herro + Kel'el Ware + Jaime Jacquez Jr. + prime draft picks. Bucks co-owner Jimmy Haslam wants a decision before the June 23 draft. Celtics still engaged; Blazers also circling. Giannis has 2 years left on his deal and is eligible for a 4-year, $275M extension on October 1.",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Giannis trade update: Heat still frontrunner. Package: Herro + Kel'el Ware + Jacquez Jr. + prime picks.\n\nBucks want a deal before June 23 draft. That's 8 days.\n\nCeltics and Blazers also in play. Clock is ticking. ⏰",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-giannis-trade-heat-frontrunner-8-days.html",
+        "headline": "Giannis Trade: Heat Still Frontrunner With 8 Days to the June 23 Deadline",
+        "word_count": 459
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis Trade\n\n**Image 3A** — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Giannis Antetokounmpo Milwaukee Bucks\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** X post 3A, Facebook long-form\n- **Status:** not_started\n\n**Image 3B** — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Giannis Antetokounmpo Milwaukee Bucks\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** Facebook image caption\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Trade Saga\n**Verified Facts (HIGH confidence):**\n- Miami Heat remain frontrunner per Marc Stein and Shams Charania\n- Heat proposed package: Tyler Herro + Kel'el Ware + Jaime Jacquez Jr. + prime draft picks (including firsts through 2032)\n- Bucks \"comfortable\" with Heat offer (Clutch Points)\n- Bucks co-owner Jimmy Haslam wants resolution before June 23 NBA Draft\n- Celtics still interested/engaged (Bleacher Report)\n- Trail Blazers also circling (NBC Sports)\n- Giannis has 2 years remaining on current deal\n- Eligible for 4-year, $275M extension on October 1\n- Warriors are OUT of Giannis sweepstakes (AOL/NBC Sports)",
+        "sources": "- Sources: ESPN, NBC Sports, Bleacher Report, Yahoo Sports, ClutchPoints"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Austin Reaves Free Agency — Nets Expected to Offer Max, Lakers Fight to Keep Him",
+      "tier": 2,
+      "status": "",
+      "angle": "Austin Reaves is the biggest unrestricted free agent of the 2026 offseason. The Brooklyn Nets are expected to offer a 4-year, $178.5M max contract when free agency opens June 30. The Lakers can offer a 5-year, $239M deal. Reaves averaged 23.3 PPG / 5.5 APG / 4.7 RPG on 49% shooting and has expressed desire to stay in LA. The Atlanta Hawks and Detroit Pistons are also in play. Reaves/Luka Doncic pairing is the core of the Lakers' future — losing Reaves would be a major blow.",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Nets expected to offer Austin Reaves 4 years, $178.5M max when free agency opens June 30.\n\nLakers can offer 5 years and $239M — $60M more.\n\nReaves averaged 23.3 PPG this season. He wants to stay in LA. But Brooklyn will push.",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-austin-reaves-free-agency-nets-lakers.html",
+        "headline": "Austin Reaves Free Agency: Nets Expected to Offer $178.5M Max as Lakers Fight to Keep Him",
+        "word_count": 505
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austin Reaves Free Agency\n\n**Image 4A** — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Austin Reaves Los Angeles Lakers\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** X post 4A, Facebook long-form\n- **Status:** not_started\n\n**Image 4B** — Social (1080x1350)\n- **Type:** imagn\n- **Search terms:** Austin Reaves Los Angeles Lakers\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** Facebook image caption\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austin Reaves Free Agency\n**Verified Facts (HIGH confidence):**\n- Reaves is an unrestricted free agent; free agency opens June 30\n- Brooklyn Nets expected to offer 4-year, $178.5M max contract (multiple front-office sources)\n- Lakers can offer 5-year, $239M deal ($47.8M/yr) — more money than anyone else can offer\n- 2025-26 stats: 23.3 PPG, 4.7 RPG, 5.5 APG, 1.1 SPG, 49.0% FG, 36.0% 3PT\n- Age: 28\n- Atlanta Hawks and Detroit Pistons also expected to show interest\n- Reaves has publicly expressed desire to remain with Lakers\n- Reaves-Luka Doncic partnership is Lakers' core building block",
+        "sources": "- Sources: Yahoo Sports, NBC Sports, Heavy.com, LakerNation, Bleacher Report"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NBA Draft 8 Days Out — Dybantsa's Wizards Roster Can Already Compete",
+      "tier": 2,
+      "status": "",
+      "angle": "AJ Dybantsa's playoff promise to the Wizards looks credible when you see the roster: Trae Young (acquired from Hawks in January), Anthony Davis (from Mavericks at deadline), Alex Sarr, Bilal Coulibaly, and Kyshawn George. Add the 6-9 BYU phenom averaging 25.5 PPG / 51.0% FG and the Wizards could be one of the most exciting young teams in the East. Draft is June 23-24 at Barclays Center, Brooklyn — 8 days away.",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Wizards' potential lineup next year:\n\nPG: Trae Young\nSF: AJ Dybantsa (No. 1 pick)\nC: Anthony Davis\n\nDybantsa promised DC playoffs. Looking at this roster… he might not be wrong. #NBADraft",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBADraft"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-dybantsa-wizards-playoff-promise-draft.html",
+        "headline": "AJ Dybantsa's Playoff Promise to the Wizards: The Roster Behind the Bold Claim",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Draft / Dybantsa\n\n**Image 5A** — Social (1080x1350)\n- **Type:** gemini / base_only\n- **Search/Prompt:** NBA draft night scene, suited young basketball player at podium, Barclays Center interior, spotlights, crowd cheering, draft board visible, festive atmosphere\n- **Use:** X post 5A, Facebook posts\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Draft — Dybantsa and Wizards Roster\n**Verified Facts (HIGH confidence):**\n- Draft date: June 23-24, 2026, Barclays Center, Brooklyn\n- Wizards hold No. 1 overall pick (17-65 record, 14.0% lottery odds)\n- AJ Dybantsa: 6-9, BYU, averaged 25.5 PPG / 51.0% FG; -450 odds to go No. 1\n- Dybantsa visit to Wizards: around June 11\n- Dybantsa quote: \"If I go to DC, I'll make the playoffs — I'm gonna make sure I make it\"\n- Wizards roster additions: Trae Young (from Hawks, January 2026), Anthony Davis (from Mavericks, trade deadline)\n- Other young Wizards: Alex Sarr, Bilal Coulibaly, Kyshawn George\n- First Washington No. 1 pick since John Wall in 2010\n- Darryn Peterson (Kansas): still in No. 1 conversation",
+        "sources": "- Sources: ClutchPoints, Bleacher Report, NBC Sports, Yahoo Sports"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -2944,3 +2944,49 @@
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Dybantsa officially drafted; Giannis trade timeline coincides
 
+
+---
+## 2026-06-15
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-15 | T1 | Knicks Parade Thursday — Canyon of Heroes, 10 AM, Battery Park to City Hall | X, FB, Article | NEW |
+| 2026-06-15 | T1 | Brunson's $113M Paycut Built a Championship — Contract Sacrifice Story | X, FB, Article | NEW |
+| 2026-06-15 | T2 | Giannis Trade — Heat Still Frontrunner, 8 Days to June 23 Deadline | X, FB, Article | FOLLOW UP |
+| 2026-06-15 | T2 | Austin Reaves Free Agency — Nets Expected to Offer Max, Lakers Fight to Retain | X, FB, Article | NEW |
+| 2026-06-15 | T2 | NBA Draft 8 Days Out — Dybantsa's Wizards Roster Already Has Pieces | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Knicks Parade Thursday — Canyon of Heroes
+- **Tier:** 1
+- **Category:** Celebration / NYC
+- **Key facts:** Parade Thursday June 18, 10:00 AM, Battery Park north along Broadway through Canyon of Heroes to City Hall; Key to the City ceremony at City Hall Plaza hosted by Mayor Mamdani; City Hall illuminated blue and orange; first Knicks parade since 1973; NYPD reported 63 arrests night of championship
+- **Status:** NEW
+- **Follow-up ideas:** Parade recap/attendance; Brunson Key to the City moment
+
+### STORY 2: Brunson's $113M Paycut Built a Championship
+- **Tier:** 1
+- **Category:** Player Feature / Knicks
+- **Key facts:** Brunson signed 4-yr/$156.5M extension in 2024; could have had 5-yr/$269M in 2025; left ~$113M on table; used salary cap space to build championship roster; Finals stats: 45 pts/14-27 FG/15 in Q4; unanimous Finals MVP (11/11 voters); father Rick Brunson is Knicks assistant coach; series avg 32.6 PPG/4.6 APG/4.2 RPG
+- **Status:** NEW
+- **Follow-up ideas:** Brunson contract extension discussion; reaction to sacrifice story
+
+### STORY 3: Giannis Trade — Heat Frontrunner, 8 Days to June 23
+- **Tier:** 2
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Heat frontrunner per Stein/Charania; package: Tyler Herro + Kel'el Ware + Jaime Jacquez Jr. + prime picks through 2032; Bucks "comfortable" with offer; Haslam wants deal before June 23 draft; Celtics still engaged; Blazers circling; Warriors OUT; Giannis 2 yrs left/eligible $275M extension Oct. 1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade finalized; Giannis confirms destination
+
+### STORY 4: Austin Reaves Free Agency
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** Reaves unrestricted FA; free agency opens June 30; Nets expected to offer 4-yr/$178.5M max; Lakers can offer 5-yr/$239M; 2025-26 stats: 23.3 PPG/5.5 APG/4.7 RPG/49.0% FG; age 28; Hawks and Pistons also interested; Reaves wants to stay in LA; Luka Doncic partnership is key retention argument
+- **Status:** NEW
+- **Follow-up ideas:** Reaves signs extension with Lakers; Nets offer officially submitted
+
+### STORY 5: NBA Draft — Dybantsa + Wizards Roster Preview
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** Draft June 23-24 Barclays Center Brooklyn; Dybantsa -450 odds No. 1; Wizards acquired Trae Young (Hawks, January) + Anthony Davis (Mavericks, deadline); existing core: Alex Sarr/Bilal Coulibaly/Kyshawn George; Dybantsa quote "If I go to DC I'll make playoffs"; BYU: 25.5 PPG/51.0% FG/6-9; Darryn Peterson still in No. 1 conversation
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Draft night; Dybantsa officially selected No. 1
