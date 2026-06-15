@@ -2830,3 +2830,60 @@ Each day's stories are appended at the top (newest first).
 - **Follow-Up Opportunities:**
   - Saturday results (Skubal vs. Guardians)
   - Sunday wrap of full series
+
+---
+
+## Pipeline Run: June 15, 2026
+
+### Story 1: White Sox Tied for First — The Rebuild Has Arrived
+- **Date:** 2026-06-15
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** White Sox beat Dodgers 6-4 Sunday (June 14). Three HRs in six-run sixth (Montgomery, Antonacci, Meidroth). Tied with Cleveland for first in AL Central. First WSox series win vs. Dodgers since 2014. From 41-121 in 2024 to first place in June 2026.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox sustained first place position through the week
+  - Montgomery development as key young star
+  - AL Central race with Cleveland and Tigers
+
+### Story 2: Rockies 23, Athletics 9 — Franchise Record
+- **Date:** 2026-06-15
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Colorado sets franchise record for runs (23) vs. Las Vegas Athletics June 14. Willi Castro 7 RBI + grand slam. Hunter Goodman 5-for-5 / 2 HR / 4 RBI. Karros 4 hits. 6 HR, 24 total hits.
+- **Content Produced:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Goodman/Castro stats for the season context
+
+### Story 3: Braves Lose Third Straight — Mets 8-1, Acuña IL
+- **Date:** 2026-06-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 14 — Acuña to IL)
+- **Angle:** Mets 8, Braves 1 on June 14. Third straight loss since Acuña (hamstring) went on IL. Record ~45-24, still best in MLB, still 9-game NL East lead. Sale leads MLB in Ks (92). Olson 20 HR/51 RBI.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Acuña return timeline
+  - Braves trade deadline moves
+  - Sale Cy Young candidacy
+
+### Story 4: Schwarber-Alvarez Tied at 24 HR — Derby Countdown
+- **Date:** 2026-06-15
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 14 — both tied at 24)
+- **Angle:** Both held Sunday in team losses (Phillies 0-4 Brewers; Astros 0-4 Royals). Still tied at 24 going to Monday. Derby July 13 at Citizens Bank Park (Schwarber's home). Harper considering Derby. Alvarez hit HR + grand slam in same inning June 12 (first in MLB history).
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Who breaks the tie first this week
+  - Derby invitations/field announcement
+  - 60-HR pace analysis at All-Star break
+
+### Story 5: Sunday Night Roundup — Rangers Win, Cubs Split, Mize Rain Delay
+- **Date:** 2026-06-15
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Rangers 6, Red Sox 4 (Eovaldi 7 IP, Langford HR Fenway). Giants 5, Cubs 1 (series split). Tigers-Guardians postponed — Mize delayed to Wednesday in Houston (2.27 ERA, 9 starts). All-Star voting through June 25, game July 14 Philadelphia.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Mize's Wednesday start in Houston
+  - Tigers rotation health update
+  - All-Star Game selections (June 25)

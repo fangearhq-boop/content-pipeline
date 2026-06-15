@@ -1,5 +1,37 @@
 # Ballpark Banter Pipeline Status
 
+
+## Current Run
+- **Date**: 2026-06-15
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (claims extracted, 0 char violations, consistency clean), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). X posts/FB posts compile to 0 (known heading format). 0 char violations.
+- **Key Stories**: White Sox beat Dodgers 6-4/first place AL Central/41-121 in 2024 to first place/three HRs in 6-run 6th/first WSox series win vs. Dodgers since 2014 (Tier 1 NEW), Rockies 23 Athletics 9/franchise record/Castro 7 RBI+grand slam/Goodman 5-for-5 2 HR/6 HR total (Tier 1 NEW), Braves drop 3rd straight without Acuña/Mets 8-1/still best record in MLB/9-game NL East lead (Tier 2 FOLLOW UP June 14), Schwarber-Alvarez both held Sunday/still tied 24 HR/Derby July 13 at Citizens Bank Park/Harper considering Derby (Tier 2 FOLLOW UP June 14), Rangers 6 Red Sox 4 Sunday Night Baseball/Eovaldi 7 IP/Langford HR/Cubs split/Mize rain delay to Wednesday (Tier 3 NEW)
+
+
+## Last Run
+- **Date**: 2026-06-14
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 4 286→253; 0 after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (19 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (clean push). Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). X posts/FB posts compile to 0 (known heading format). 1 char violation fixed (Story 4 tweet 286→253).
+- **Key Stories**: Cubs 6 Giants 1/Pete Crow-Armstrong HR on first pitch (#12)/Ben Brown 5.2 IP 1 H/3-game win streak/first series win in 11 tries (Tier 1 NEW), Skubal return 4⅔ IP 3R 4K 80 pitches/took loss/Guardians 3-1/rust shown health confirmed/Aug 3 deadline (Tier 1 FOLLOW UP), Schwarber-Alvarez tied 24 HR/Derby July 13 Citizens Bank Park (Schwarber's home)/Buxton 3rd at 21 (Tier 1 FOLLOW UP), Acuña IL hamstring/Braves were 45-23 dropped 3 straight/Sale 92 K 8 W/Olson 20 HR 51 RBI (Tier 2 FOLLOW UP), All-Star voting open through June 25/Ben Rice .300/.393/.638 17 HR 181 wRC+/Judge likely injury scratch (Tier 3 NEW)
+
+## Previous Run
+- **Date**: 2026-06-13
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (24 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-unified-dashboard.py (403 PAT known). Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). X posts/FB posts compile to 0 (known heading format). 0 char violations.
+- **Key Stories**: Skubal returns from IL today at Cleveland (3-2/2.70 ERA/38-day IL/5IP 0ER 6K rehab/Aug. 3 deadline watch) (Tier 1 FOLLOW UP), Alvarez 2 HRs (grand slam + solo) vs Royals/Astros 10-8/now tied Schwarber 24-24/Derby Philly July 13 (Tier 1 FOLLOW UP), Braves 45-23 best record in baseball/76-86 last year/Weiss/Sale/Acuña (Tier 2 FOLLOW UP), Judge mid-August return expected/August 3 deadline/Yankees 41-26/Rays 40-25 (Tier 2 FOLLOW UP), Trade deadline big board 7 weeks out: Chapman (BOS 0.46 ERA/17 saves)/Mize (DET 2.27 ERA)/Webb (SF) (Tier 3 NEW)
+
+## Previous Run
+- **Date**: 2026-06-12
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (34 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (clean push). Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+
+## Previous Run
 ## Last Run
 - **Date**: 2026-06-14
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 4 286→253; 0 after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (19 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (clean push). Content pushed to content-pipeline.
