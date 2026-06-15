@@ -2,6 +2,50 @@
 
 ---
 
+## June 15, 2026
+
+### Story 1: 6th Annual Southern Colorado Juneteenth Festival — Free, New Venue, June 20-21
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — 6th Annual Southern Colorado Juneteenth Festival moves to Norris Penrose Indoor Event Center (1045 Lower Gold Camp Rd) for 2026. FREE admission all ages. June 20-21. Kids' zone: bounce houses, face painting, obstacle course. National headliners V.I.C. and David Banner. Car show, health fair, step show, fashion show. Prior venue: America the Beautiful Park (2024: ~36,000 attendees). Organized by One Body Entertainment.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** June 20-21, 2026; Norris Penrose Indoor Event Center, 1045 Lower Gold Camp Rd; FREE all ages; kids' zone (bounce houses/face painting/obstacle course); headliners: V.I.C. + David Banner; prior venue: America the Beautiful Park; 2024 attendance: ~36,000; organizer: One Body Entertainment; Sources: kktv.com, visitcos.com, fox21news.com, csjuneteenthfestival.com, onebodyent.org, norrispenrose.com, juneteenthevents.us
+- **Follow-Up Opportunities:** Post-event recap June 22-23; annual event note for 2027
+
+### Story 2: Pikes Peak International Hill Climb — Fan Fest + Father's Day Race Weekend
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — PPIHC race week starts June 16. Practice/qualifying June 16-19. Fan Fest June 19, 5-9 PM, downtown COS, 10 city blocks, free, driver meet-and-greet + stunts. Race Day June 21 (Father's Day), green flag 7:30 AM, 7 spectator areas including Devil's Playground (12,780 ft). Tickets required ages 10+, online only in advance at ppihc.org (NOT sold Race Day). Kids under 10 free Race Day. Ticket prices increased after June 1.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Race Day June 21 (Father's Day) green flag 7:30 AM; Practice/qualifying June 16-19; Fan Fest June 19 5-9 PM downtown COS 10 city blocks (FREE); Tickets required ages 10+, online advance only, NOT sold Race Day; Devil's Playground 12,780 ft; ppihc.org; Sources: ppihc.org, visitcos.com, uncovercolorado.com, humanitix.com
+- **Follow-Up Opportunities:** Race Day recap June 22; spectator tips piece for future years
+
+### Story 3: Little Grape Land Nursing Pillow Recall — CPSC June 4 Suffocation Hazard
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall June 4, 2026. ~1,430 Little Grape Land U-shaped nursing pillows. Amazon only, Aug 2025–Apr 2026, ~$28-30. Suffocation hazard (obstructs infant breathing). No labels/markings on product — ID by pattern (11 patterns: rose floral/alligator/bear/butterfly/cactus/construction truck/forest deer/green leaves/little bunny/spring flower/woodland animal). No injuries reported. Stop use, cut in half, email photo to recall@evermorepartner.com for full refund. Violates mandatory nursing pillow safety standards.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC recall June 4, 2026; ~1,430 units; Amazon only Aug 2025–Apr 2026; ~$28-30; no labels/markings; 11 patterns; stop use + cut in half + photo to recall@evermorepartner.com = full refund; 0 injuries at recall date; Sources: cpsc.gov, foxbusiness.com, thecooldown.com, yahoo.com/news
+- **Follow-Up Opportunities:** None (recall is definitive action)
+
+### Story 4: D49 Free Summer Meals — Final 4 Days (Ends June 19)
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (June 13 and June 14 prior coverage) — D49 meals end Thursday June 19 (4 days left). Springs Ranch Elementary, 4350 Centerville Drive. Ages 1-18, no registration/ID/income verification. Breakfast 7:45-8:15 AM, lunch 10:30-11:20 AM. Any child any district. D11 continues through July 31 at multiple COS sites.
+- **Content Produced:** 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x1)
+- **Tier:** 2
+- **Key Facts:** Last day June 19, 2026; Springs Ranch Elementary, 4350 Centerville Drive; ages 1-18; breakfast 7:45-8:15 AM; lunch 10:30-11:20 AM; D11 continues July 31; Sources: d49.org, gazette.com, kktv.com
+- **Follow-Up Opportunities:** D11 program end July 31; back-to-school resource guide
+
+### Story 5: D20 June 30 Deadlines — Summer School and Bus Registration
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (June 5-6 prior coverage of transportation and summer school separately) — COMBINED REMINDER: both D20 summer school registration (asd20.org/summer-school) AND bus registration (asd20.org/buses-and-transportation) close June 30. 15 days left. Both via Infinite Campus. Bus assignments sent Aug 1. Current students: May 1-June 30 bus window; new students: June 8-June 30. Summer school: credit recovery/enrichment/graduation requirements.
+- **Content Produced:** 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x1)
+- **Tier:** 2
+- **Key Facts:** Both deadlines June 30, 2026; summer school: asd20.org/summer-school; transportation: asd20.org/buses-and-transportation; both via Infinite Campus; bus assignments Aug 1; Sources: asd20.org, prior pipeline research June 5-6
+- **Follow-Up Opportunities:** Post-deadline reminder July 1 if warranted; back-to-school transportation note August
+
+---
+
 ## June 14, 2026
 
 ### Story 1: Father's Day 2026 — COS Guide

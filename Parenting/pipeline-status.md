@@ -1,5 +1,42 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 15, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | 6th Annual Juneteenth Festival (Norris Penrose, June 20-21, FREE, kids' zone, V.I.C. + David Banner); PPIHC Father's Day weekend (Fan Fest June 19 free 5-9 PM downtown, Race Day June 21 green flag 7:30 AM, tickets required ages 10+ advance online ppihc.org); Little Grape Land nursing pillow recall (CPSC June 4, ~1,430 units, Amazon Aug 2025-Apr 2026, ~$28-30, suffocation hazard, no labels, 11 patterns, recall@evermorepartner.com full refund); D49 meals final 4 days (ends June 19, Springs Ranch Elementary 4350 Centerville Dr, ages 1-18, D11 through July 31); D20 June 30 deadlines (summer school + bus registration, Infinite Campus, asd20.org, bus assignments Aug 1) |
+| Story History Check | COMPLETE | 3 NEW STORIES (Juneteenth Festival 2026, Little Grape Land recall, combined D20 deadline reminder) + 2 FOLLOW-UPS (PPIHC race week starts tomorrow; D49 meals — 4 days left) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for Stories 1-3; 1 each for Stories 4-5); all under 280 chars; 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py ran — 96 claims, 224 HIGH, 66 MEDIUM, 57 LOW; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; 23 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-15.xlsx (18 posts: 8 X + 10 FB) + TOBI cosp-postplanner-tobi-2026-06-15.xlsx (13 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — Credentials not in env; proxy would block anyway | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-15)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total in PostPlanner xlsx
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-15.xlsx (18 posts), cosp-postplanner-tobi-2026-06-15.xlsx (13 TOBI posts)
+- **Coverage:** 6th Annual Southern Colorado Juneteenth Festival (June 20-21, Norris Penrose 1045 Lower Gold Camp Rd, FREE all ages, kids' zone bounce houses/face painting/obstacle course, headliners V.I.C. + David Banner, car show/health fair/step show/fashion show, prior venue America the Beautiful Park, 2024 ~36K attendees); PPIHC Fan Fest + Race Day (practice June 16-19 free spectating, Fan Fest June 19 5-9 PM downtown free 10 blocks driver meet-and-greet, Race Day June 21 Father's Day green flag 7:30 AM, tickets required ages 10+ advance online only ppihc.org NOT sold Race Day, kids under 10 free, 7 spectator areas, Devil's Playground 12,780 ft); Little Grape Land nursing pillow recall (CPSC June 4 2026, ~1,430 units Amazon only Aug 2025–Apr 2026 ~$28-30, suffocation/infant breathing obstruction hazard, no labels/markings, 11 patterns, stop use+cut in half+photo to recall@evermorepartner.com for full refund, 0 injuries at recall date); D49 meals final 4 days (ends June 19, Springs Ranch Elementary 4350 Centerville Drive, ages 1-18 any district, breakfast 7:45-8:15 AM / lunch 10:30-11:20 AM, D11 continues July 31); D20 June 30 deadlines (summer school asd20.org/summer-school; bus registration asd20.org/buses-and-transportation, bus assignments Aug 1)
+- **Notes:**
+  - verify-facts.py: passed (1 run) — 96 claims; 224 HIGH, 66 MEDIUM, 57 LOW; image not_started warnings cosmetic (expected for gemini source)
+  - compile: 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic (same as prior runs)
+  - PostPlanner exports: standard (18 posts: 8 X + 10 FB) and TOBI (13 posts) generated successfully
+  - WordPress: credentials not in environment (new session); proxy would block anyway — same result as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: June 14, 2026
 
 | Step | Status | Notes |
