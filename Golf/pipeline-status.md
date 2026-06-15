@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-14
+- **Date**: 2026-06-15
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-15
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-06-15.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-15.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-15/review-dashboard.html (22 items)
+- **Notes:** Bud Cauley wins RBC Canadian Open (239th start/36 yrs/car crash comeback/17-under/beat Fitzpatrick by 2); US Open preview Shinnecock Hills starts June 18 (Scheffler +550 Grand Slam bid); LIV Golf crisis update ($200M/$600M funded/O'Neil fundraising/4 events "on the fence"); LPGA Meijer Classic June 18-21 + KPMG Women's PGA June 25-28 Hazeltine; Scheffler Grand Slam/30th birthday/Father's Day June 21 feature
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-14
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

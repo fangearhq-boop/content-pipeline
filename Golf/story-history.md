@@ -1060,3 +1060,49 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Status:** NEW STORY
 - **Follow-up ideas:** US Open week coverage begins June 18
 
+
+---
+## 2026-06-15
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-15 | T1 | Bud Cauley wins RBC Canadian Open — first career win at 36, 239th start, car crash comeback | X, FB, Article | NEW |
+| 2026-06-15 | T1 | US Open Preview — Scheffler Grand Slam bid at Shinnecock Hills, starts Thursday June 18 | X, FB, Article | FOLLOW UP |
+| 2026-06-15 | T2 | LIV Golf crisis — PIF funded $200M of $600M, ending support after 2026, O'Neil seeking investors | X, FB, Article | FOLLOW UP |
+| 2026-06-15 | T2 | LPGA — Meijer Classic starts June 18, KPMG Women's PGA June 25-28 at Hazeltine | X, FB, Article | NEW |
+| 2026-06-15 | T2 | Scheffler birthday/Grand Slam feature — wins on June 21 = 30th birthday = Father's Day | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Bud Cauley Wins RBC Canadian Open
+- **Tier:** 1
+- **Category:** PGA Tour / Race Results
+- **Key facts:** Cauley shot 69-63-66-65 = 17-under 263; beat Fitzpatrick by 2 shots; Hovland 3rd; age 36; 239th PGA Tour start; first career title; car accident: 6 broken ribs/collapsed right lung/fractured left leg; prize $1.764M; earned Open spot (Royal Birkdale) via Open Qualifying Series; back-nine run included hole-out from 93 feet on 12th; venue TPC Toronto at Osprey Valley North Course; started behind Jackson Suber
+- **Status:** NEW
+- **Follow-up ideas:** Cauley at The Open (Royal Birkdale); FedExCup position
+
+### STORY 2: US Open Preview — Scheffler Grand Slam Bid
+- **Tier:** 1
+- **Category:** Major Preview / US Open
+- **Key facts:** 2026 US Open June 18-21, Shinnecock Hills, Southampton NY; par 70, 7,400 yards; 6th time Shinnecock hosts; Scheffler +550 (FanDuel); majors held: Masters x2, 2025 PGA, 2025 British Open; Grand Slam completion = 7th player ever (Sarazen/Hogan/Player/Nicklaus/Woods/McIlroy); McIlroy +1200; Koepka won 2018 at +1 over par; rain forecast Thursday (65%), winds 15-20 mph gusts 27 mph; final round June 21 = Scheffler's 30th birthday = Father's Day
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 leaderboard; Scheffler round-by-round updates
+
+### STORY 3: LIV Golf Financial Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** PIF funded ~$200M of ~$600M committed for 2026; PIF ending support after 2026 (strategy change stated); CEO O'Neil: 5 formal investor meetings/18 more planned/response "positive"; "every remaining tournament is on the fence" (league partner executive); Louisiana event postponed; seeking "LIV 2.0" outside capital; 4 events remain
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** New investor announcement; event cancellation; PGA Tour return developments
+
+### STORY 4: LPGA — Meijer Classic + KPMG Preview
+- **Tier:** 2
+- **Category:** LPGA / Women's Golf
+- **Key facts:** Meijer LPGA Classic: June 18-21, Blythefield CC, Belmont MI; KPMG Women's PGA: June 25-28, Hazeltine National, Chaska MN; Nelly Korda won 2026 US Women's Open at Riviera (8-under 276); Korda arrives with major momentum
+- **Status:** NEW
+- **Follow-up ideas:** Meijer Classic result; KPMG Women's PGA contenders
+
+### STORY 5: Scheffler Birthday/Grand Slam Feature
+- **Tier:** 2
+- **Category:** Feature / US Open
+- **Key facts:** Scheffler born June 21, 1996 → turns 30 on June 21, 2026 = US Open final round = Father's Day; Grand Slam members (modern era): Sarazen/Hogan/Player/Nicklaus/Woods/McIlroy; Scheffler would be 7th; +550 odds at Shinnecock
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler wins US Open (Grand Slam complete); or falls short (what happened)
