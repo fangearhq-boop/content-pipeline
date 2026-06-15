@@ -1,5 +1,37 @@
 # Softball Pipeline Status
 
+
+## Current Run
+- **Date**: 2026-06-15
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations after 2 fixes), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (51 claims, 0 char violations after fixes, consistency clean), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). X posts/FB posts compile to 0 (known heading format). 2 char violations fixed (Story 1 Post 2, Story 3 Post 1). 
+- **Key Stories**: Torres Day 8 still uncommitted/Texas+A&M pursuing/.530 D1 POY/portal closes June 22/7 days left (Tier 1 FOLLOW UP June 14), Beachum Day 8 uncommitted/No. 1 Softball America/.417/16HR/66RBI/.549 OBP/leverage building (Tier 1 FOLLOW UP June 14), Texas Tech portal haul: Heavener (No. 1 pitcher) commits/Pickering (No. 2 overall DNT) expected (Tier 2 NEW), Weekend commits: Hartley to OSU/Wetteland (MW FOTY) to Arkansas (Tier 2 NEW), Portal tracker Day 8 of 15/7 days remain (Tier 3 FOLLOW UP)
+
+
+## Last Run
+- **Date**: 2026-06-14
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (55 claims, 0 char violations, consistency clean), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). X posts/FB posts compile to 0 (known heading format). 0 char violations. Detached HEAD resolved via pull --rebase + cherry-pick (standard).
+- **Key Stories**: Torres Day 7 still uncommitted/Texas+A&M pursuing/.530 D1 POY/portal closes June 22/8 days left (Tier 1 FOLLOW UP June 13), Beachum Day 7 uncommitted/No. 1 Softball America/.417/16HR/66RBI/.549 OBP/building leverage (Tier 1 FOLLOW UP June 13), Pickering (OU) DNT tag/On3 No. 2/.370 BA/20 HR/Instagram Texas Tech celebration points to Lubbock (Tier 1 NEW), Texas A&M lands Maddy Azua/Sun Belt POY/1.95 ERA/244.2 IP/26-13 (Tier 2 NEW), Portal countdown: 8 days left/Torres+Beachum+Polar available/Pickering appears decided (Tier 3 FOLLOW UP)
+
+## Previous Run
+- **Date**: 2026-06-13
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (60 claims, 0 char violations, consistency clean), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). X posts/FB posts compile to 0 (known heading format). 0 char violations.
+- **Key Stories**: Torres Day 6 still uncommitted/Texas+A&M pursuing/.530 D1 POY/portal closes June 22/Georgetown TX same as Swan (Tier 1 FOLLOW UP June 12), Beachum Day 6 uncommitted/No. 1 Softball America/.417/16HR/66RBI/.549 OBP (Tier 1 FOLLOW UP June 12), Polar Day 6 uncommitted/On3 No. 5/.555 BA/101 hits/career .436/Purdue (Tier 2 FOLLOW UP June 12), Arkansas+Texas A&M portal midpoint moves/Alabama landed Plumlee (Tier 2 NEW), Portal countdown tracker: 9 days left/committed Swan+Plumlee+Altmeyer/still available Torres+Beachum+Polar (Tier 3 FOLLOW UP)
+
+## Previous Run
+- **Date**: 2026-06-12
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (55 claims, 0 char violations, consistency clean), compile (5 stories, 6 tweets, 0 FB parsed — known heading format, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+
+## Previous Run
 ## Last Run
 - **Date**: 2026-06-14
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (6 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (55 claims, 0 char violations, consistency clean), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.

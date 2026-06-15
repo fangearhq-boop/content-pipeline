@@ -3313,3 +3313,57 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Texas coaching hires announced
   - Whether new staff can maintain offensive production
   - Texas's final portal class
+
+---
+
+## Pipeline Run: June 15, 2026
+
+### Story 1: Torres Watch — Day 8, Seven Days Left
+- **Date:** 2026-06-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 14 — Day 7 uncommitted)
+- **Angle:** D1 Softball Player of the Year Isa Torres (.530 BA / .978 SLG / .591 OBP / 78 runs) enters Day 8 of the 15-day portal window uncommitted. Texas and Texas A&M remain frontrunners. Window now past the halfway mark. 7 days to June 22 deadline.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Torres commitment announcement (imminent)
+  - Impact analysis once she commits
+
+### Story 2: Beachum — Day 8, No. 1 Transfer Still Uncommitted
+- **Date:** 2026-06-15
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 14 — Day 7 uncommitted)
+- **Angle:** Jaysoni Beachum (.417 BA / 16 HR / 66 RBI / .549 OBP), Softball America No. 1 transfer, enters Day 8 without commitment. Career: 37 HR, 180 RBI, 202 H. 2024 NFCA Freshman of the Year, 2026 2nd-Team All-American. Leverage-building strategy continues.
+- **Content Produced:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment announcement
+  - Impact analysis at destination program
+
+### Story 3: Texas Tech Portal Haul — Heavener Commits, Pickering Expected
+- **Date:** 2026-06-15
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Jayden Heavener (No. 1 pitcher in portal) committed to Texas Tech June 13. Kasidi Pickering (On3 No. 2, .370 BA / 20 HR / 61 RBI) has DNT tag pointing toward Lubbock. WCWS runner-up assembling elite portal class.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Pickering formal commitment announcement
+  - Texas Tech's 2027 title candidacy
+
+### Story 4: Weekend Portal Roundup — Hartley to OSU, Wetteland to Arkansas
+- **Date:** 2026-06-15
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** June 13 commits: Madison Hartley (All-Big 12) to Oklahoma State; Katie Wetteland (Mountain West FOTY) to Arkansas. Mid-major stars finding Power program homes while headliners remain uncommitted.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Oklahoma State and Arkansas roster builds
+  - More mid-tier portal commits in final week
+
+### Story 5: Portal Tracker — Day 8 of 15
+- **Date:** 2026-06-15
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 8 window open — ongoing tracker)
+- **Angle:** Day 8 of 15-day window. Committed: Swan (TX), Plumlee (Bama), Altmeyer (TX), Azua (A&M), Heavener (TTU), Hartley (OSU), Wetteland (Ark). Available: Torres (No. 1), Beachum (No. 3), Polar (No. 5). DNT: Pickering (No. 2). 7 days remain.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Final-week commitment wave
+  - Torres/Beachum/Polar decisions
