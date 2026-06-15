@@ -1,42 +1,58 @@
 {
-  "generated_at": "2026-06-14T08:30:00.582994+00:00",
-  "today_ct": "2026-06-14",
+  "generated_at": "2026-06-15T08:30:00.786179+00:00",
+  "today_ct": "2026-06-15",
   "off_day": false,
-  "is_series_start_today": false,
+  "is_series_start_today": true,
   "series": {
-    "opponent": "San Francisco Giants",
-    "opponent_id": 137,
-    "opponent_record": "28-43",
-    "cubs_record": "37-34",
-    "is_cubs_home": false,
-    "venue": "Oracle Park",
-    "series_length": 1,
+    "opponent": "Colorado Rockies",
+    "opponent_id": 115,
+    "opponent_record": "27-45",
+    "cubs_record": "37-35",
+    "is_cubs_home": true,
+    "venue": "Wrigley Field",
+    "series_length": 3,
     "games": [
       {
-        "game_pk": "823212",
-        "game_date_iso": "2026-06-14T19:10:00Z",
-        "game_date_ct": "Sun 2:10 PM CT",
+        "game_pk": "824666",
+        "game_date_iso": "2026-06-16T00:05:00Z",
+        "game_date_ct": "Mon 7:05 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824667",
+        "game_date_iso": "2026-06-17T00:05:00Z",
+        "game_date_ct": "Tue 7:05 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824668",
+        "game_date_iso": "2026-06-18T00:05:00Z",
+        "game_date_ct": "Wed 7:05 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (San Francisco Giants) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Yesterday vs San Francisco Giants; today vs Colorado Rockies \u2192 game 1 of 3 (home)."
   },
   "today_cubs_game": {
-    "game_pk": "823212",
+    "game_pk": "824666",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-06-14T19:10:00Z",
-    "game_date_ct": "Sun 2:10 PM CT",
-    "is_cubs_home": false,
-    "opponent_id": 137,
-    "opponent_name": "San Francisco Giants",
-    "opponent_record": "28-43",
-    "cubs_record": "37-34",
+    "game_date_iso": "2026-06-16T00:05:00Z",
+    "game_date_ct": "Mon 7:05 PM CT",
+    "is_cubs_home": true,
+    "opponent_id": 115,
+    "opponent_name": "Colorado Rockies",
+    "opponent_record": "27-45",
+    "cubs_record": "37-35",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
-    "venue": "Oracle Park"
+    "venue": "Wrigley Field"
   },
-  "rationale": "Same opponent (San Francisco Giants) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Yesterday vs San Francisco Giants; today vs Colorado Rockies \u2192 game 1 of 3 (home)."
 }
