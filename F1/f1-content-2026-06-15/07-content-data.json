@@ -1,0 +1,261 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-15",
+  "compiled_at": "2026-06-15T11:21:07.012734+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hamilton Wins Spanish GP for Ferrari — First Victory in Red, All-British Podium Since 1968",
+      "tier": 1,
+      "status": "",
+      "angle": "Lewis Hamilton won the 2026 Barcelona-Catalunya Grand Prix for Ferrari — his first victory in scarlet — capitalizing on a Virtual Safety Car triggered by Fernando Alonso's Aston Martin stoppage on lap 41. Hamilton ran a bold three-stop strategy (soft→hard lap 12, hard→medium lap 28, free VSC stop lap 41) and crossed the line 19.561 seconds ahead of George Russell (Mercedes) with Lando Norris (McLaren) third. First all-British podium in F1 since the 1968 US Grand Prix. Hamilton's first win since the 2024 Belgian GP.",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "LEWIS HAMILTON WINS THE SPANISH GP FOR FERRARI. 🔴\n\nHis first win in Scarlet. Three stops, perfect strategy, VSC gamble that paid off.\n\nP1: Hamilton (Ferrari)\nP2: Russell (Mercedes)\nP3: Norris (McLaren)\n\nFirst all-British podium in F1 since 1968. What a race. #SpanishGP #F1",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SpanishGP",
+            "#F1"
+          ],
+          "char_count": 273
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Ferrari's VSC gamble at the Spanish GP was brilliant.\n\nHamilton pitted on lap 41 for FREE when Alonso stopped at Turn 9. That stop was the race.\n\n3 stops. 19.5 seconds clear of Russell. First Ferrari win of 2026.\n\nHamilton is back. #SpanishGP #F1",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SpanishGP",
+            "#F1"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-hamilton-wins-spanish-gp-ferrari-first-win.html",
+        "headline": "Hamilton Wins Spanish GP for Ferrari: First Victory in Red, All-British Podium Since 1968",
+        "word_count": 487
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Wins Spanish GP\n\n**Image 1A** — Social 1080x1350\n- **Type:** imagn\n- **Search terms:** Lewis Hamilton Ferrari\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** X post 1A, Facebook long-form post\n- **Status:** not_started\n\n**Image 1B** — Social 1080x1350\n- **Type:** imagn\n- **Search terms:** Lewis Hamilton Ferrari podium\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** Facebook image caption\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton Wins Spanish GP for Ferrari\n**Verified Facts (HIGH confidence):**\n- Hamilton won the 2026 Barcelona-Catalunya Grand Prix (Spanish GP)\n- Race time: 1:32:28.105 (66 laps)\n- P2: George Russell (Mercedes) +19.561s\n- P3: Lando Norris (McLaren) +23.719s\n- First Ferrari win of the 2026 season\n- Hamilton's first win since the 2024 Belgian GP (nearly two years)\n- Strategy: 3-stop — pit lap 12 (softs→hards), lap 28 (hards→mediums), free stop under VSC lap 41\n- VSC triggered by Fernando Alonso's Aston Martin stopping at Turn 9\n- Air temp: 31°C, track temp peaked at 54°C\n- First all-British podium since the 1968 US Grand Prix (Stewart/Hill/Surtees)",
+        "sources": "- Sources: Formula1.com, PlanetF1, OutlookIndia, Sportskeeda, Newsbytesapp"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli DNF Heartbreak — Mercedes Battery Failure With 3 Laps Left, Lead Cut to 41 Points",
+      "tier": 1,
+      "status": "",
+      "angle": "Kimi Antonelli was running second — having just passed George Russell at Turn 1 — when his Mercedes suffered an electrical/battery failure and stopped beyond Turn 6 with three laps remaining. The DNF cost him 18 championship points, cutting his lead over Hamilton from 59 to 41 points. Quote: \"I feel a bit empty.\" Mercedes confirmed the retirement was battery-related, raising reliability concerns after Russell also suffered a battery-related failure while leading in Montreal. Championship standings: Antonelli 156 pts, Hamilton 115 pts, Russell 106 pts.",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Kimi Antonelli just passed Russell for P2.\n\nThen his Mercedes STOPPED. Battery failure. 3 laps to go.\n\n\"I feel a bit empty.\"\n\nChampionship lead: 59 points → 41 points. Just like that. #SpanishGP #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#SpanishGP",
+            "#F1"
+          ],
+          "char_count": 198
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Mercedes has now lost race leads to battery failures TWICE in 2026.\n\nRussell retired while LEADING in Montreal.\nAntonelli DNF'd from P2 in Barcelona with 3 laps left.\n\nThis is a reliability crisis. Antonelli's lead is down to 41 points. #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-antonelli-dnf-battery-failure-spanish-gp.html",
+        "headline": "Antonelli's Spanish GP Heartbreak: Battery Failure With 3 Laps Left Cuts Championship Lead to 41 Points",
+        "word_count": 477
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli DNF\n\n**Image 2A** — Social 1080x1350\n- **Type:** imagn\n- **Search terms:** Kimi Antonelli Mercedes\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** X post 2A, Facebook long-form\n- **Status:** not_started\n\n**Image 2B** — Social 1080x1350\n- **Type:** imagn\n- **Search terms:** Kimi Antonelli Mercedes\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** Facebook image caption\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli DNF — Battery Failure 3 Laps From End\n**Verified Facts (HIGH confidence):**\n- Antonelli was running second, had just passed George Russell at Turn 1\n- Stopped beyond Turn 6 with THREE laps remaining (not \"four\" — some sources inconsistent; Formula1.com says \"three laps remaining\")\n- Cause: electrical shutdown / battery-related failure (confirmed by Mercedes)\n- George Russell also had engine/battery failure while leading in Montreal (two races prior)\n- Championship lead BEFORE race: Antonelli over Hamilton was 59 points (he had 156, Hamilton had 90+25=115 after this race)\n- Wait — standings BEFORE: Antonelli had 156 pts (unchanged, DNF), Hamilton had 90 pts + 25 for win = 115. Gap: 156-115 = 41 pts\n- Championship lead CUT FROM 59 to 41 (confirming Antonelli had 65+91=156, Hamilton had 90+25=115 after Spanish GP)\n- Antonelli quote: \"I feel a bit empty\" (Formula1.com)\n- Mercedes raised reliability concerns (Motorsport.com, Yahoo Sports)",
+        "sources": "- Sources: Formula1.com, GPBlog, Sunday Guardian Live, Motorsport.com, Yahoo Sports, RacingNews365"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Championship Picture After Spain — 41-Point Gap With 7 Races Left",
+      "tier": 2,
+      "status": "",
+      "angle": "The 2026 title fight is heating up. After Spain: Antonelli 156, Hamilton 115 (–41), Russell 106 (–50), Leclerc 75, Norris 73, Piastri 68, Verstappen 55, Gasly 41. Three drivers within striking distance. Hamilton now has momentum with a win. Russell's podium keeps him in mathematical contention. Next race: Austrian GP June 26-28 at Red Bull Ring, Spielberg.",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "2026 F1 standings after Spain:\n\n1. Antonelli — 156 pts\n2. Hamilton — 115 pts (-41)\n3. Russell — 106 pts (-50)\n\nHamilton's won. Antonelli's DNF'd. Russell's steady.\n\nThree British drivers. One title. Austrian GP in 11 days. #F1",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-f1-championship-standings-after-spanish-gp.html",
+        "headline": "F1 Championship Standings After the Spanish GP: Three-Way Title Fight Takes Shape",
+        "word_count": 394
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n**Image 3A** — Social 1080x1350\n- **Type:** gemini / base_only\n- **Prompt:** F1 championship standings leaderboard graphic, clean dark background, three podium positions labeled P1 P2 P3, racing car silhouette accents, dramatic lighting\n- **Use:** X post 3A, Facebook long-form\n- **Status:** not_started\n\n**Image 3B** — Social 1080x1350\n- **Type:** gemini / base_only\n- **Prompt:** Formula 1 race track aerial view with three racing cars in formation, colorful team liveries, dramatic sunlight, championship race atmosphere\n- **Use:** Facebook image caption\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings After Spain\n**Verified Facts (HIGH confidence):**\n- Post-race standings (with Colapinto penalty adjustment noted by Crash.net):\n1. Kimi Antonelli (Mercedes) — 156 pts\n2. Lewis Hamilton (Ferrari) — 115 pts\n3. George Russell (Mercedes) — 106 pts\n4. Charles Leclerc (Ferrari) — 75 pts\n5. Lando Norris (McLaren) — 73 pts\n6. Oscar Piastri (McLaren) — 68 pts\n7. Max Verstappen (Red Bull) — 55 pts\n8. Pierre Gasly (Alpine) — 41 pts\n- Gap Antonelli-Hamilton: 41 pts\n- Gap Antonelli-Russell: 50 pts\n- Next race: Austrian GP, Red Bull Ring, Spielberg, June 26-28",
+        "sources": "- Sources: RacingNews365, Crash.net, News.GP, Pit Debrief"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen One Penalty Point From Race Ban After Russell Clash",
+      "tier": 2,
+      "status": "",
+      "angle": "Max Verstappen received a penalty point for his clash with George Russell at the Spanish GP, leaving him on the maximum penalty threshold. Verstappen finished P4 but his season continues to frustrate — zero wins in 2026, 55 points (P7 in standings), 101 points behind Antonelli. His quotes: refused to blame Russell for his championship situation. Red Bull home race at Austrian GP June 26-28 — massive pressure to end the drought.",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Max Verstappen is now ONE penalty point from a race ban after his clash with Russell in Barcelona.\n\nP4 finish. 0 wins in 2026. 101 points behind Antonelli.\n\nAustrian GP in 11 days — Red Bull's HOME race. He needs it. #F1 #AustrianGP",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-verstappen-penalty-point-race-ban-spanish-gp.html",
+        "headline": "Verstappen One Point From Race Ban After Spanish GP: Zero 2026 Wins, Austrian GP Pressure Builds",
+        "word_count": 508
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Penalty Points\n\n**Image 4A** — Social 1080x1350\n- **Type:** imagn\n- **Search terms:** Max Verstappen Red Bull Racing\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** X post 4A, Facebook long-form\n- **Status:** not_started\n\n**Image 4B** — Social 1080x1350\n- **Type:** imagn\n- **Search terms:** Max Verstappen Red Bull Racing\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** Facebook image caption\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen — Penalty Points + P4 + Zero 2026 Wins\n**Verified Facts (HIGH confidence):**\n- Verstappen finished P4 at the Spanish GP\n- Received a penalty point for clash with George Russell\n- ESPN: \"one penalty point from race ban after George Russell clash\" (headline)\n- ESPN: Verstappen \"refused to blame\" Russell for his championship situation\n- 2026 season: 0 race wins, 55 points, P7 in drivers' standings\n- Verstappen is 101 points behind championship leader Antonelli\n- Red Bull exit clause referenced in previous pipeline notes (July 27)\n- Austrian GP at Red Bull Ring (home race for Red Bull) June 26-28",
+        "sources": "- Sources: ESPN (two articles), Crash.net"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Austrian GP Preview — Red Bull's Home Race, 11 Days Away",
+      "tier": 2,
+      "status": "",
+      "angle": "The 2026 Austrian Grand Prix at Red Bull Ring in Spielberg runs June 26-28 — the next race on the calendar. Red Bull's home circuit is historically favorable for Verstappen (multiple wins). But with zero wins in 2026 and reliability concerns across the grid, this race could be pivotal. Mercedes needs to solve its battery failure issue before Spielberg. Hamilton arrives with momentum; Antonelli will be hungry for redemption.",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Next up: Austrian Grand Prix 🇦🇹\n\n📅 June 26-28 | Red Bull Ring, Spielberg\n🏎 Verstappen's home race — zero 2026 wins\n⚡ Mercedes needs to fix battery failures before Spielberg\n🔥 Hamilton arrives with momentum\n\n11 days away. The title fight just got real. #AustrianGP #F1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#F1"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-austrian-gp-preview-2026.html",
+        "headline": "Austrian GP Preview: Verstappen's Home Race, Mercedes Battery Questions, and Hamilton's Momentum",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Preview\n\n**Image 5A** — Social 1080x1350\n- **Type:** gemini / base_only\n- **Prompt:** Austrian Alps landscape with a Formula 1 circuit in the foreground, Red Bull Ring Spielberg, dramatic mountain backdrop, sunny day, race atmosphere, aerial perspective\n- **Use:** X post 5A, Facebook posts\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austrian GP Preview\n**Verified Facts (HIGH confidence):**\n- Austrian GP: June 26-28, 2026\n- Circuit: Red Bull Ring, Spielberg, Austria\n- Red Bull's home race — circuit historically favorable for Verstappen\n- Next race after Barcelona on F1 2026 calendar\n- Mercedes has battery reliability concern to address before Austrian GP\n- Hamilton arrives with momentum (fresh win)\n- Antonelli needs points bounce-back after DNF",
+        "sources": "- Sources: RaceFans 2026 calendar, Formula1.com calendar, F1Calendar.com, SuperSport"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

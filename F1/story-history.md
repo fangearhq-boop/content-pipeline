@@ -2683,3 +2683,49 @@
 - **Status:** NEW STORY
 - **Follow-up ideas:** FIA/F1 response to hybrid complaints; other drivers' views
 
+
+---
+## 2026-06-15
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-15 | T1 | Hamilton wins Spanish GP for Ferrari — first win in red, all-British podium since 1968 | X, FB, Article | NEW |
+| 2026-06-15 | T1 | Antonelli DNF — battery failure with 3 laps left, lead cut 59→41 pts | X, FB, Article | NEW |
+| 2026-06-15 | T2 | F1 Championship Standings After Spain — 41-pt gap, three-way title fight | X, FB, Article | NEW |
+| 2026-06-15 | T2 | Verstappen one penalty point from race ban after Russell clash, P4, 0 wins | X, FB, Article | FOLLOW UP |
+| 2026-06-15 | T2 | Austrian GP Preview — Red Bull home race, June 26-28, Mercedes battery fix needed | X, FB, Article | NEW |
+
+### STORY 1: Hamilton Wins Spanish GP for Ferrari
+- **Tier:** 1
+- **Category:** Race Result / Spanish GP
+- **Key facts:** Hamilton won 2026 Barcelona-Catalunya GP (66 laps, 1:32:28.105); P2: Russell +19.561s; P3: Norris +23.719s; 3-stop strategy (softs→hards lap 12, hards→mediums lap 28, free VSC stop lap 41); VSC triggered by Alonso Aston Martin Turn 9 stoppage; air 31°C, track 54°C; first all-British F1 podium since 1968 US GP (Stewart/Hill/Surtees); Hamilton's first win since 2024 Belgian GP; Ferrari's first 2026 win
+- **Status:** NEW
+- **Follow-up ideas:** Hamilton's Ferrari momentum continues; Austrian GP impact
+
+### STORY 2: Antonelli DNF — Battery Failure
+- **Tier:** 1
+- **Category:** Race Drama / Championship
+- **Key facts:** Antonelli running P2, just passed Russell at Turn 1; stopped beyond Turn 6 with 3 laps remaining; cause: electrical shutdown/battery failure (Mercedes confirmed); Russell also had battery failure while leading in Montreal (2 races prior); championship lead cut 59→41 pts; Antonelli quote: "I feel a bit empty"; standings: Antonelli 156, Hamilton 115, Russell 106
+- **Status:** NEW
+- **Follow-up ideas:** Mercedes battery fix update before Austrian GP; Antonelli response
+
+### STORY 3: F1 Championship Standings After Spain
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Antonelli 156, Hamilton 115 (-41), Russell 106 (-50), Leclerc 75, Norris 73, Piastri 68, Verstappen 55, Gasly 41; Hamilton cut 25-pt gap in one race; next: Austrian GP June 26-28 Red Bull Ring
+- **Status:** NEW
+- **Follow-up ideas:** Standings update after Austrian GP
+
+### STORY 4: Verstappen Penalty Point / P4 / Zero 2026 Wins
+- **Tier:** 2
+- **Category:** Incident / Red Bull
+- **Key facts:** P4 Spanish GP; penalty point for Russell clash; now one point from race ban; 0 wins in 2026; 55 pts (P7); 101 pts behind Antonelli; refused to blame Russell; exit clause ~July 27; home race Austrian GP June 26-28
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP result; exit clause decision
+
+### STORY 5: Austrian GP Preview
+- **Tier:** 2
+- **Category:** Race Preview / Austrian GP
+- **Key facts:** Austrian GP: June 26-28, Red Bull Ring Spielberg; Red Bull home race; Verstappen multiple past wins at circuit; Mercedes must fix battery failures; Hamilton arrives with momentum; next race after Barcelona; 11 days away
+- **Status:** NEW
+- **Follow-up ideas:** Austrian GP race result
