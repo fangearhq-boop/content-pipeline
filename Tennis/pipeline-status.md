@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-14 |
-| Writing | Complete (all steps) | 2026-06-14 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 35 claims, 91 HIGH; image warnings cosmetic/expected for imagn) | 2026-06-14 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 9 images) | 2026-06-14 |
-| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-06-14 |
-| PostPlanner Export | Complete (standard 18 posts: 8 X + 10 FB; TOBI 13 posts) | 2026-06-14 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-14 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-14 |
+| Research | Complete | 2026-06-15 |
+| Writing | Complete (all steps) | 2026-06-15 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 33 claims, 71 HIGH; image warnings cosmetic/expected for imagn) | 2026-06-15 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 8 images) | 2026-06-15 |
+| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-06-15 |
+| PostPlanner Export | Complete (standard 18 posts: 8 X + 10 FB; TOBI 13 posts) | 2026-06-15 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-15 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-15 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-15 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-15.xlsx (18 posts), tfr-postplanner-tobi-2026-06-15.xlsx (13 TOBI posts)
+- **Coverage:** Stuttgart BOSS Open Final — Shelton def. Fritz 6-4, 2-6, 6-4; first grass title; 3rd of 2026 (Dallas hard, Munich clay, Stuttgart grass); first American with all 3 surfaces same season since Querrey 2010; joins Alcaraz/Djokovic/Bublik; saved 9/11 BPs; 3 match points saved on way to title; moves to No. 5 (320 pts behind FAA); Queen's Club WTA Final — Vekic def. Raducanu 6-0, 7-6(6) as lucky loser (entered via Kostyuk withdrawal); 5th career title, first WTA 500; first Croatian women's Queen's champion; rises No. 76→No. 32; Raducanu saved 2 CPs in tiebreak; still no title since 2021 US Open; Libema Open Final — Majchrzak def. de Minaur 6-3, 2-6, 7-6(5); first ATP title at 30; beat 3 top-10 (FAA No. 4, Medvedev No. 8, de Minaur No. 6); career-high No. 47 Top 50 debut; 13-month suspension history (contaminated supplements); 3rd Polish ATP title Open Era; ATP Rankings — Shelton No. 5, Majchrzak career-high No. 47, Sinner No. 1; Wimbledon 2026 countdown — 14 days out, draw June 26, Video Review debut, £64.2M record prize, Sinner defending only Hurlingham, Alcaraz out
+- **Notes:**
+  - verify-facts.py: passed; 33 claims, 71 HIGH; image warnings cosmetic (imagn source, all not_started)
+  - compile: 5 stories, 8 X posts, 0 FB posts, 5 articles, 8 images; posting window warnings cosmetic
+  - dashboard: 23 items
+  - PostPlanner exports: standard (18 posts: 8 X + 10 FB) and TOBI (13 TOBI posts) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-14 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
