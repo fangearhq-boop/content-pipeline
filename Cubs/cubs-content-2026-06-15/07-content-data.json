@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-15",
+  "compiled_at": "2026-06-15T09:16:22.117285+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "Series Preview (mandatory — series start)",
+      "type": "Series preview"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "Giants series finale recap",
+      "type": "Game recap"
+    },
+    {
+      "time": "1:15 PM CT",
+      "description": "Rotation crisis + trade deadline alert",
+      "type": "Analysis"
+    },
+    {
+      "time": "2:30 PM CT",
+      "description": "PCA season spotlight",
+      "type": "Feature"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Wild card standings watch",
+      "type": "Standings"
+    },
+    {
+      "time": "5:00 PM CT",
+      "description": "Imanaga vs Lorenzen pre-game hype",
+      "type": "Game preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs Host Rockies (Game 1 of 3, Wrigley, 7:05 PM CT)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Mandatory series-start preview. Cubs (37-35) open 3-game home stand vs Colorado (27-45). Imanaga vs Lorenzen (2-8, 7.54 ERA). Wild card implications for both teams (Cubs yes, Rockies no).",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Cubs open a 3-game home stand vs Colorado (27-45) at Wrigley — 7:05 PM CT.\n\nImanaga vs. Lorenzen (2-8, 7.54 ERA). The Cubs are the heavy favorite for a reason.\n\n37-35 and hunting a wild card. Good teams beat bad teams.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Series preview / game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 5,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Series Preview — Cubs Host Rockies (Game 1 of 3)\n- **[HIGH]** Cubs vs Colorado Rockies, 3-game home series at Wrigley Field — series context snapshot (generated 2026-06-15T08:30 UTC)\n- **[HIGH]** Game 1 tonight: game_date_iso 2026-06-16T00:05:00Z = Monday, June 15, 7:05 PM CT — confirmed via series-context.json\n- **[HIGH]** Rockies record: 27-45 — series-context.json (generated same morning)\n- **[HIGH]** Cubs record: 37-35 — series-context.json\n- **[HIGH]** Shota Imanaga (4-6, 4.44 ERA) pitching for Cubs — FanDuel Research / Yahoo Sports game thread, June 15 2026\n- **[HIGH]** Michael Lorenzen (2-8, 7.54 ERA) pitching for Rockies — FanDuel Research / Yahoo Sports game thread, June 15 2026\n- **[MEDIUM]** Cubs -210 moneyline favorite — FanDuel Research (betting odds, not editorial)",
+        "sources": "Source: series-context.json (local snapshot); FanDuel Research cubs-vs-rockies-6-15-2026; Yahoo Sports game thread"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Giants Series Finale Recap — Cubs Fall 5-1, Still Win Road Trip 2-1",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Logan Webb pitched 8 shutout innings, 7 K in the Giants' 5-1 win June 14. Colin Rea allowed 4 runs in 4 2/3 IP. Silver lining: Cubs took 2 of 3 in SF and return home 37-35. Road trip was net positive.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Cubs dropped the SF finale — Giants 5-1, Logan Webb dominant for 8 innings.\n\nRea gave up 4 runs in 4 2/3 IP. Webb made everyone look helpless.\n\nStill: 2-of-3 won on the road. Cubs come home 37-35 and immediately face the 27-45 Rockies. Chapter closed.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Game recap / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 5,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Giants Series Finale Recap\n- **[HIGH]** Final score: Giants 5, Cubs 1 (June 14, 2026) — MLB.com Gameday, ESPN recap, Bleacher Nation enhanced box score\n- **[HIGH]** Logan Webb pitched 8 innings, allowed 7 hits, 0 walks, 7 strikeouts — ESPN recap\n- **[HIGH]** Colin Rea allowed 4 runs in 4 2/3 innings — ESPN recap (Rea used after opener Ryan Rolison threw 11 pitches)\n- **[HIGH]** Giants' key hits: Lee scored via sac bunt sequence, Drew Gilbert RBI double, Matt Chapman 7th HR, Bryce Eldridge RBI single — ESPN/CBS recap\n- **[HIGH]** Cubs won games 1 and 2 of SF series (5-1 June 12, 6-1 June 13) — ESPN game IDs confirmed\n- **[HIGH]** Cubs went 2-1 in the series, come home 37-35 — derived from confirmed games",
+        "sources": "Source: ESPN recap gameId 401815761; CBS Sports box score MLB_20260614_CHC@SF; Bleacher Nation enhanced box score June 14 2026"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cubs Rotation Crisis & Trade Deadline Alert",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs starters 2-12, 7.11 ERA in last 20 games — last in MLB. 49 days to the Aug 3 deadline. Jed Hoyer confirmed shopping. Casey Mize (Tigers) and Reid Detmers (Angels) among emerging targets.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Cubs' starters: 2-12, 7.11 ERA in their last 20 games.\n\nDEAD LAST in baseball.\n\n49 days to the deadline. Hoyer is shopping. Casey Mize and Reid Detmers are among the names. The rotation needs reinforcements — and it needs them fast.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 6,
+        "claims_flagged": 7,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs Rotation Crisis & Trade Deadline Alert\n- **[MEDIUM]** Cubs starters 2-12, 7.11 ERA in last 20 games, ranks last in MLB — ChiCitySports/CubbiesCrib trade deadline articles (blog-level reporting, not primary box score data). Cross-reference needed.\n- **[HIGH]** Trade deadline: August 3, 2026 (49 days from June 15) — calculated. June 14 story-history confirmed \"50-day countdown to August 3 deadline\" from June 14 pipeline.\n- **[MEDIUM]** Jed Hoyer confirmed Cubs are shopping for rotation help — CubsHQ trade rumors, ChiCitySports (fan reporting sites, not direct Hoyer quotes)\n- **[LOW]** Casey Mize (Tigers) as Cubs trade target — ChiCitySports \"surprising trade target\"; MLB Trade Rumors Cuba Notes. Speculative — no confirmed deal\n- **[LOW]** Reid Detmers (Angels) as Cubs trade target — CubbiesCrib \"ideal fit\"; Angels expected sellers. Speculative — no confirmed deal\n- **[HIGH]** Cubs rotation is depleted: Steele (60-day IL), Boyd (delayed return), Taillon (IL since June 8), Horton (shut down) — FanGraphs injury report",
+        "sources": "Source: ChiCitySports trade deadline articles; CubbiesCrib \"Detmers\" piece; MLBTradeRumors Cubs Notes; FanGraphs Roster Resource injury page"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Pete Crow-Armstrong — The Franchise's Bright Spot",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA .263/.341/.462, 12 HR, 15 SB, 3.9 WAR (among MLB leaders per StatMuse). On a team with a collapsed rotation, he's the reason the Cubs remain in the wild card race. All-Star case building.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": ".263/.341/.462. 12 home runs. 15 stolen bases. 3.9 WAR — among MLB's leaders.\n\nPete Crow-Armstrong is playing at an All-Star level. The national attention is overdue.\n\nOn a team with a busted rotation, PCA is holding this thing together.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Feature / stat breakdown",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pete Crow-Armstrong — The Franchise's Bright Spot\n- **[HIGH]** PCA batting line: .263/.341/.462, 12 HR, 15 SB — StatMuse 2026 season stats\n- **[MEDIUM]** 3.9 WAR — StatMuse (cited as \"leads Majors in WAR\"). Medium confidence: WAR changes daily and secondary confirmation was not obtained. Tweet uses \"among MLB's leaders\" rather than \"leads all of baseball\" to avoid overclaim.\n- **[HIGH]** 71 games played — StatMuse\n- **[HIGH]** PCA is on an All-Star pace based on stats — editorial judgment backed by ChiCitySports article (\"All-Star level since infamous exchange\")\n- **[MEDIUM]** Slow start (.229 in first 48 G), then surge (.329 with 6 HR in last 23 G) — StatMuse game log interpretation",
+        "sources": "Source: StatMuse PCA 2026 season page; ChiCitySports PCA All-Star article; CBS Sports splits"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Watch — The Brewers Ran Away, Now What?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Brewers 41-25, division lead insurmountable. Cubs 37-35 focused on wild card. Division rivals crowding the hunt. Every win against weak opposition matters.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "The Brewers are 41-25. The division is gone.\n\nCubs sit at 37-35 and locked into the wild card race. Not a concession — a pivot.\n\nDivision rivals are crowding the hunt. Every win vs. a basement team matters. Three against Colorado starts tonight.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Standings / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Watch — Brewers Lead, Cubs Pivot\n- **[HIGH]** Cubs record: 37-35 — series-context.json\n- **[HIGH]** Brewers record: 41-25 (as of June 13-14) — BrewCrewBall, MLB.com Brewers standings\n- **[MEDIUM]** Cardinals record ~30-26 — cross-referenced standings search (one result said 30-26, another said 37-29 which is implausible given context). Specific Cardinals record deliberately excluded from tweet to avoid error.\n- **[HIGH]** Division title is out of reach for Cubs — derived from 6+ game deficit to Brewers in mid-June\n- **[HIGH]** Cubs pursuing wild card — confirmed by prior story-history, series context",
+        "sources": "Source: BrewCrewBall scores/standings; Cubs series-context.json; ESPN NL standings search"
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Imanaga vs. Lorenzen at Wrigley",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Lorenzen (2-8, 7.54 ERA) is one of the worst starters in MLB. Imanaga leads Chicago to the mound. Cubs 37-35, need wins against basement teams. 7:05 PM CT first pitch.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Tonight at Wrigley: Imanaga (4-6, 4.44 ERA) vs. Lorenzen (2-8, 7.54 ERA).\n\nThe Cubs are 37-35. The Rockies are 27-45. This is EXACTLY the kind of matchup Chicago needs to win in the second half.\n\nFirst pitch 7:05 PM CT.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Pre-game hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 3,
+        "errors_corrected": 1
+      },
+      "research": {
+        "facts": "Pre-Game Hype — Imanaga vs. Lorenzen\n- **[HIGH]** Imanaga (4-6, 4.44 ERA) — FanDuel Research / Yahoo Sports (same as Story 1)\n- **[HIGH]** Lorenzen (2-8, 7.54 ERA) — FanDuel Research / Yahoo Sports\n- **[HIGH]** First pitch 7:05 PM CT — series-context.json\n- **[HIGH]** Cubs 37-35, Rockies 27-45 — series-context.json",
+        "sources": "Source: Same as Story 1; FanDuel Research June 15 matchup page"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

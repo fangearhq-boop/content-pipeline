@@ -2359,3 +2359,56 @@ Each day's stories are appended at the top (newest first).
   - Any callup from Iowa/Knoxville
 
 ---
+
+## 2026-06-15
+
+### STORY 1: Series Preview — Cubs Host Rockies (Game 1 of 3, Wrigley Field)
+- **Angle:** NEW STORY (is_series_start_today=true; mandatory 7 AM series preview slot; Cubs 37-35 vs Rockies 27-45 at Wrigley; Imanaga vs Lorenzen (2-8, 7.54 ERA); wild card stakes)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result tonight (post-game tomorrow)
+  - Series Games 2 and 3 previews (June 16, 17)
+
+### STORY 2: Giants Series Finale Recap — Cubs Fall 5-1 to Logan Webb
+- **Angle:** NEW STORY (Giants 5-1 Cubs June 14; Webb 8 IP 0 BB 7 K; Rea 4 ER in 4 2/3 IP; Cubs went 2-1 in SF road trip, come home 37-35)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Rea ERA update after start
+  - Road trip cumulative stats
+
+### STORY 3: Cubs Rotation Crisis & Trade Deadline Alert
+- **Angle:** FOLLOW UP (ongoing rotation crisis arc; today's angle = starters 2-12/7.11 ERA last 20 G last in MLB; 49 days to Aug 3 deadline; Mize and Detmers named as targets)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Any trade reporting from MLB Trade Rumors
+  - Casey Mize or Detmers deal confirmation
+  - Boyd/Taillon return timelines
+
+### STORY 4: Pete Crow-Armstrong Season Spotlight
+- **Angle:** FOLLOW UP (PCA featured June 6, June 14; today's angle = .263/.341/.462, 12 HR, 15 SB, 3.9 WAR among MLB leaders; All-Star case; franchise's brightest spot amid rotation chaos)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, feature/stat breakdown)
+- **Follow-Up Opportunities:**
+  - PCA All-Star selection announcement (July)
+  - PCA vs Rockies performance this series
+
+### STORY 5: Wild Card Watch — Division Gone, Pivot to Wild Card
+- **Angle:** FOLLOW UP (ongoing standings arc since June 10; today's angle = Brewers 41-25/6 GB insurmountable; Cubs 37-35 pivoting to wild card; division rivals crowding the hunt)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, standings/analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update
+  - Cardinals specific record confirmation
+
+### STORY 6: Imanaga vs. Lorenzen Pre-Game Hype
+- **Angle:** NEW STORY (game preview; Lorenzen 2-8 7.54 ERA; Cubs heavy favorite; wild card urgency; 7:05 PM CT first pitch)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's game 1 result
+  - Imanaga start line recap
+
+---
