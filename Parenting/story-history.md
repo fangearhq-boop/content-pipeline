@@ -2,6 +2,50 @@
 
 ---
 
+## June 16, 2026
+
+### Story 1: Otteroo Infant Neck Floats — CPSC Renews "Do Not Use" Warning
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — As of June 15, 2026, CPSC's first-ever federal safety standard for infant neck floats is in effect. On the same day, CPSC renewed its "Do Not Use" warning for Otteroo LUMI and MINI — company refused to recall. Original 2022 warning followed 1 drowning death, 1 serious injury, dozens of rescue incidents. Infants can slip through if float deflates. Stop use immediately. CPSC.gov or 1-800-638-2772.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC Do Not Use warning renewed June 15, 2026; new federal safety standard in effect as of June 15; Otteroo LUMI and MINI models; company refused recall; drowning risk if float deflates; 1 death + 1 serious injury + dozens rescue incidents since 2022; stop use immediately; CPSC.gov; 1-800-638-2772; Sources: prnewswire.com, cpsc.gov, consumerreports.org
+- **Follow-Up Opportunities:** None (Do Not Use is definitive action)
+
+### Story 2: 4th Annual Juneteenth Celebration — African American Museum, June 19
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — African-American Historical & Genealogical Society of Colorado Springs hosts 4th Annual Juneteenth Celebration Thursday, June 19 at African American Museum, Westside Community Center Campus. Freedom March 12 PM, museum tours 1 PM and 2:30 PM. FREE. NOTE: Separate event from 6th Annual Southern Colorado Juneteenth Festival (June 20-21, Norris Penrose) covered June 15.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 4th Annual Juneteenth Celebration; Thursday June 19, 2026; African American Museum at Westside Community Center Campus; Freedom March 12 PM; museum tours 1 PM and 2:30 PM; FREE; host: African-American Historical & Genealogical Society of Colorado Springs; Sources: peakradar.com, visitcos.com
+- **Follow-Up Opportunities:** Post-event recap; Juneteenth 2027 recurring note
+
+### Story 3: Colorado Renaissance Festival — Pirates Invasion Weekend June 20-21
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (June 13 opening weekend + June 14 rest-of-summer guide) — Pirates Invasion Weekend this Saturday and Sunday, June 20-21 in Larkspur CO (~30 min from COS). King Soopers advance tickets: $29 adult, $14 ages 5-12, free under 5. Costumes encouraged, pirate-themed activities throughout grounds.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** June 20-21, 2026; Pirates Invasion Weekend; Larkspur CO (Exit 174 off I-25); ~30 min from COS; King Soopers: $29 adult / $14 ages 5-12 / free under 5; 10 AM–6:30 PM; coloradorenfaire.com; Sources: coloradorenfaire.com, uncovercolorado.com, kygo.com, kosi101.com
+- **Follow-Up Opportunities:** Celtic Weekend June 27-28; season continues through Aug 2
+
+### Story 4: D49 Free Summer Meals — 3 Days Left, Ends June 19
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (June 6 NEW, June 13 follow-up, June 14 5-days-left, June 15 4-days-left) — 3 days left. D49 summer meals end Thursday June 19. Springs Ranch Elementary only site. Ages 1-18 any district, no registration/ID/income verification. Breakfast 7:45-8:15 AM, lunch 10:30-11:20 AM. D11 continues through July 31.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x1)
+- **Tier:** 2
+- **Key Facts:** Last day June 19, 2026; Springs Ranch Elementary, 4350 Centerville Drive; breakfast 7:45-8:15 AM; lunch 10:30-11:20 AM; ages 1-18, any district, no registration; D11 continues July 31; Sources: d49.org
+- **Follow-Up Opportunities:** D11 program end July 31; back-to-school resource guide
+
+### Story 5: D49 Student Success Center — What Families Need to Know Now
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (June 1 NEW, June 8 3-day reminder, June 11 live vote, June 12 budget passed recap) — Budget now passed (4-1 vote February 2026, effective July 1). Student Success Center opens August 2026 at former Falcon Elementary of Technology. Programs: preschool Mon-Thu, Base49 before/after care, PEAK, Elevates 18-21. 12 teacher positions eliminated. Enrollment at d49.org.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x1)
+- **Tier:** 2
+- **Key Facts:** Opens August 2026; former Falcon Elementary of Technology location; programs: preschool Mon-Thu, Base49, PEAK, Elevates 18-21; budget passed June 11 effective July 1; ~$2M cuts; 12 teacher positions eliminated; fiscal exigency declared January 2026; d49.org; Sources: d49.org, koaa.com, gazette.com
+- **Follow-Up Opportunities:** Opening month reminder July/August; enrollment deadline notices
+
+---
+
 ## June 15, 2026
 
 ### Story 1: 6th Annual Southern Colorado Juneteenth Festival — Free, New Venue, June 20-21

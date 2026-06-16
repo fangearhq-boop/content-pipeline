@@ -1,5 +1,42 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 16, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Otteroo LUMI/MINI CPSC Do Not Use warning renewed June 15 (new federal standard in effect, company refused recall, 1 death + 1 serious injury since 2022, 1-800-638-2772); 4th Annual Juneteenth Celebration June 19 at African American Museum, Westside Community Center (Freedom March noon, tours 1 PM + 2:30 PM, FREE — separate from Southern CO Juneteenth Festival June 20-21); Renaissance Festival Pirates Invasion Weekend June 20-21 Larkspur (King Soopers $29/$14/free, ~30 min from COS, coloradorenfaire.com); D49 meals 3 days left ending June 19 (Springs Ranch Elementary, breakfast 7:45-8:15 AM, lunch 10:30-11:20 AM, ages 1-18, D11 through July 31); D49 Student Success Center opens August at former Falcon Elementary of Technology (preschool/Base49/PEAK/Elevates 18-21, d49.org, budget passed June 11 effective July 1) |
+| Story History Check | COMPLETE | 2 NEW STORIES (Otteroo CPSC warning, 4th Annual Juneteenth Celebration) + 3 FOLLOW-UPS (Renaissance Festival pirates weekend, D49 meals 3 days left, D49 Student Success Center enrollment) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for Stories 1-2; 1 each for Stories 3-5); all under 280 chars (2 violations fixed on rewrite); 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 8 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py passed (2 runs — 2 char violations fixed on rewrite of X posts file); 85 claims, 178 HIGH, 76 MEDIUM, 68 LOW; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 8 images; 23 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-16.xlsx (18 posts: 8 X + 10 FB) + TOBI cosp-postplanner-tobi-2026-06-16.xlsx (13 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-16)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 10 FB posts (5 long-form + 5 captions) = 18 total in PostPlanner xlsx
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-16.xlsx (18 posts), cosp-postplanner-tobi-2026-06-16.xlsx (13 TOBI posts)
+- **Coverage:** Otteroo infant neck float CPSC Do Not Use warning renewed June 15 (first-ever federal safety standard in effect, Otteroo LUMI and MINI, company refused recall, 1 death + 1 serious injury since 2022, stop use immediately, CPSC.gov, 1-800-638-2772); 4th Annual Juneteenth Celebration June 19 at African American Museum at Westside Community Center (Freedom March noon, museum tours 1 PM + 2:30 PM, FREE, African-American Historical & Genealogical Society — separate from Southern CO Juneteenth Festival June 20-21 already covered June 15); Renaissance Festival Pirates Invasion Weekend June 20-21 Larkspur (~30 min from COS, King Soopers $29/$14/free under 5, costumes encouraged, pirate-themed activities, 10 AM–6:30 PM, coloradorenfaire.com); D49 free summer meals 3 days left (ends June 19, Springs Ranch Elementary 4350 Centerville Drive, breakfast 7:45-8:15 AM, lunch 10:30-11:20 AM, ages 1-18 any district no registration, D11 continues July 31); D49 Student Success Center opens August at former Falcon Elementary of Technology (preschool Mon-Thu, Base49 before/after care, PEAK, Elevates 18-21, budget passed June 11 effective July 1, ~$2M cuts, 12 teacher positions, d49.org)
+- **Notes:**
+  - verify-facts.py: 2 runs — first run flagged 2 char violations (S2B: 288, S4B: 289). Rewrote X posts file cleanly replacing both overlong tweets with verified-short versions. Second run passed.
+  - compile: 5 stories, 8 X posts, 0 FB posts, 5 articles, 8 images; 23 dashboard items; posting window warnings cosmetic (same as prior runs)
+  - PostPlanner exports: standard (18 posts: 8 X + 10 FB) and TOBI (13 posts) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
 ## Latest Run: June 15, 2026
 
 | Step | Status | Notes |
