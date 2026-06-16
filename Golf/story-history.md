@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-16
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-16 | T1 | US Open Preview — Scheffler Grand Slam Bid on Birthday + Father's Day | X, FB, Article | NEW |
+| 2026-06-16 | T1 | McIlroy at Shinnecock — Masters Champ Eyes Back-to-Back 2026 Majors | X, FB, Article | NEW |
+| 2026-06-16 | T2 | US Open Field — Rahm Form, Aaron Rai's Major Status, Shinnecock Factor | X, FB, Article | NEW |
+| 2026-06-16 | T2 | LIV Golf Crisis — CEO Can't Guarantee Final 4 Events of 2026 | X, FB, Article | FOLLOW UP |
+| 2026-06-16 | T2 | Meijer LPGA Classic Preview — June 18-21 Blythefield Country Club | X, FB, Article | NEW |
+
+### STORY 1: US Open Preview — Scheffler Grand Slam
+- **Tier:** 1
+- **Category:** Major Preview / US Open
+- **Key facts:** 126th US Open June 18-21 Shinnecock Hills Southampton NY; Scheffler +550 favorite; already has Masters 2022/2024, PGA Championship 2025, The Open 2025; needs US Open for career Grand Slam (7th ever); would be 4th to do it in first attempt; final round June 21 = 30th birthday AND Father's Day; only 2026 win = American Express (January); no prior Shinnecock Hills experience in major competition
+- **Status:** NEW
+- **Follow-up ideas:** US Open R1 results; Scheffler leaderboard position
+
+### STORY 2: McIlroy at Shinnecock
+- **Tier:** 1
+- **Category:** Player Feature / US Open
+- **Key facts:** McIlroy +1200; won 2026 Masters (second consecutive); career Grand Slam completist; last US Open win 2011 Congressional (record 16-under 268, won by 8 strokes); 125th in driving accuracy %; Shinnecock firm/fast/wind-exposed; 2018 no player under par/Koepka won; "finesse game welcome addition"; seeks 2nd 2026 major
+- **Status:** NEW
+- **Follow-up ideas:** McIlroy Shinnecock round results
+
+### STORY 3: US Open Field Analysis
+- **Tier:** 2
+- **Category:** Field Preview / Major
+- **Key facts:** Jon Rahm +1300; runner-up 2026 PGA Championship; won 2021 US Open Torrey Pines; Aaron Rai won 2026 PGA Championship (first major); 2018 Shinnecock — no player under par, Koepka won; Scheffler ranked No. 1 in field
+- **Status:** NEW
+- **Follow-up ideas:** First round leaderboard at Shinnecock
+
+### STORY 4: LIV Golf Crisis
+- **Tier:** 2
+- **Category:** Golf Business / LIV Golf
+- **Key facts:** CEO Scott O'Neil cannot guarantee final 4 events of 2026 will take place; Saudi PIF ending funding after 2026; $600M needed, ~$200M funded ($66M May + $130M June); June 25-28 Louisiana event postponed; LIV hired financial advisers; new independent board; seeking long-term financial partners; O'Neil told CNBC to take PIF "at their word" but wouldn't personally guarantee events
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LIV investor announcement; event cancellations
+
+### STORY 5: Meijer LPGA Classic Preview
+- **Tier:** 2
+- **Category:** LPGA / Tournament Preview
+- **Key facts:** Meijer LPGA Classic for Simply Give; June 18-21; Blythefield Country Club, Belmont Michigan; concurrent with US Open; KPMG Women's PGA Championship follows June 25-28 at Hazeltine National Chaska MN
+- **Status:** NEW
+- **Follow-up ideas:** Meijer LPGA Classic results; KPMG preview
+
 ## 2026-06-14
 
 | # | Story | Tier | Tag |

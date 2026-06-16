@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-15
+- **Date**: 2026-06-16
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-16
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-06-16.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-16.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-16/review-dashboard.html (22 items)
+- **Notes:** US Open preview Scheffler +550 Grand Slam bid (Masters x2, PGA Champ, The Open done)/final round June 21 = 30th birthday AND Father's Day/7th ever if wins; McIlroy +1200 Masters champ seeking back-to-back 2026 majors/2011 US Open record 16-under 268; Rahm +1300 runner-up 2026 PGA/Rai 2026 PGA champ/2018 Shinnecock no player under par Koepka won; LIV Golf crisis: O'Neil can't guarantee final 4 events/$200M of $600M funded/Louisiana postponed; Meijer LPGA Classic June 18-21 Blythefield MI + KPMG June 25-28 Hazeltine
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-15
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
