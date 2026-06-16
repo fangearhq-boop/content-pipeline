@@ -401,3 +401,47 @@ Track previously covered stories to avoid repetition and maintain content freshn
 | 2026-06-08 | Post-Roland Garros rankings update — ATP: Zverev ↑ No. 3 (7,305 pts), Cobolli career-high No. 10, Arnaldi +70 to No. 34, Djokovic ↓ No. 7, FAA enters top 4; WTA: Andreeva ↑ No. 6, Gauff ↓ No. 7, Chwalinska +93 places, Sabalenka stays No. 1 | T2 | X, FB, Article | NEW STORY; tennis365.com, tennisuptodate.com, tennishead.net |
 | 2026-06-08 | Stuttgart BOSS Open opens — Kyrgios vs Moutet Day 1 (first grass match in ~3 years, wildcard); Fritz defending champion; Shelton/Paul/Tiafoe in field; Zverev/Cobolli/Mensik withdrew post-RG; main draw starts June 9 | T2 | X, FB, Article | FOLLOW-UP from June 7 Stuttgart preview; greekcitytimes.com, atptour.com, tennistemple.com |
 | 2026-06-08 | Cobolli feature — Italy's first GS finalist since Panatta 1976; how he got there; wins over Musetti and FAA; advanced by walkover in SF; career-high No. 10; Arnaldi also up 70 spots; Italian men's tennis best position in decades | T2 | X, FB, Article | NEW STORY; tennis365.com, tennisuptodate.com, rolandgarros.com |
+
+---
+
+## June 16, 2026
+
+### Story 1: Halle Open Day 2 — Zverev Returns, Shelton vs Kyrgios First-Ever Meeting
+- **Date:** 2026-06-16
+- **Angle:** NEW STORY — Terra Wortmann Open (ATP 500, Halle) Day 2. Alexander Zverev (top seed, fresh Roland Garros champion) opens vs Vit Kopriva on home soil. Ben Shelton (Stuttgart champion) vs Nick Kyrgios (wild card) in their first-ever ATP meeting. Day 1: FAA won, Tiafoe upset Cobolli.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Terra Wortmann Open June 15-21; ATP 500 Halle; Zverev No. 1 seed (Roland Garros champ); Shelton-Kyrgios first-ever H2H; FAA No. 2 seed won Day 1; Tiafoe def. Cobolli Day 1; Zverev vs Kopriva June 16; Sources: atptour.com, tennis365.com, sofascore.com, lastwordonsports.com
+- **Follow-Up Opportunities:** Zverev R2 result; Shelton-Kyrgios result and winner's R2; Halle QF/SF/Final
+
+### Story 2: Berlin WTA — Historic 9 of Top 10 in Field
+- **Date:** 2026-06-16
+- **Angle:** NEW STORY — VANDA Pharmaceuticals Berlin Tennis Open (WTA 500, June 15-21). Nine of world's top 10 WTA players in one draw. Seeds: Sabalenka No. 1, Rybakina No. 2, Gauff No. 3. Top seeds have R1 byes. Rybakina faces winner of Vekic vs Eala. Gauff vs Bartunkova. Serena Williams in doubles with Mboko again. Wimbledon 13 days.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Rot-Weiss Tennis Club Berlin; WTA 500; June 15-21; 9 of top 10; Sabalenka No. 1, Rybakina No. 2, Gauff No. 3; Serena Williams doubles; Sources: wtatennis.com, justwomenssports.com, tennis365.com
+- **Follow-Up Opportunities:** Gauff, Sabalenka, Rybakina results; Berlin QF/SF/Final; Serena doubles results
+
+### Story 3: Queen's Club ATP Day 2 — de Minaur Opens, Majchrzak vs Lehecka
+- **Date:** 2026-06-16
+- **Angle:** NEW STORY — HSBC Championships (ATP 500, Queen's Club, June 15-21). Day 2: Top seed de Minaur vs Diallo; Libema champion Majchrzak vs No. 2 Lehecka (first match since Libema title). Day 1: Tommy Paul def. Svajda 7-5, 6-3. Alcaraz and Draper both withdrew.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Queen's Club London; ATP 500; June 15-21; de Minaur top seed; Lehecka No. 2 (last year's finalist); Majchrzak vs Lehecka; Alcaraz/Draper withdrawn; Sources: atptour.com, lastwordonsports.com, tennis365.com
+- **Follow-Up Opportunities:** de Minaur and Majchrzak results; Queen's Club QF/SF/Final
+
+### Story 4: Nottingham WTA — Grass 250 Underway
+- **Date:** 2026-06-16
+- **Angle:** NEW STORY — Lexus Nottingham Open (WTA 250, June 15-21). Field: Zheng Qinwen, Leylah Fernandez, Jelena Ostapenko, Karolina Pliskova, Katie Boulter (WC). Part of four-simultaneous-tournament grass week.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** Nottingham Tennis Centre; WTA 250; June 15-21; Boulter wild card; Sources: lta.org.uk, flashscore.com
+- **Follow-Up Opportunities:** Nottingham results and final
+
+### Story 5: Wimbledon 2026 — 13 Days Out
+- **Date:** 2026-06-16
+- **Angle:** FOLLOW-UP — Wimbledon countdown: 13 days; draw June 26; qualifying June 22-25; starts June 29. Sinner defending (no warm-ups except Hurlingham June 23-27). Alcaraz out (wrist). Sabalenka No. 1 women's seed. £64.2M prize money. Finals July 11-12.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** Wimbledon June 29; draw June 26; Sinner defending/no warm-ups; Alcaraz out; £64.2M record prize; finals July 11-12; Sources: wimbledon.com, lta.org.uk
+- **Follow-Up Opportunities:** Draw ceremony coverage June 26; first-round action June 29

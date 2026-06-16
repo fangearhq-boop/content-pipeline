@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-15 |
-| Writing | Complete (all steps) | 2026-06-15 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 33 claims, 71 HIGH; image warnings cosmetic/expected for imagn) | 2026-06-15 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 8 images) | 2026-06-15 |
-| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-06-15 |
-| PostPlanner Export | Complete (standard 18 posts: 8 X + 10 FB; TOBI 13 posts) | 2026-06-15 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-15 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-15 |
+| Research | Complete | 2026-06-16 |
+| Writing | Complete (all steps) | 2026-06-16 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 28 claims, 53 HIGH; image warnings cosmetic/expected for imagn) | 2026-06-16 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 8 images) | 2026-06-16 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-06-16 |
+| PostPlanner Export | Complete (standard 17 posts: 7 X + 10 FB; TOBI 12 posts) | 2026-06-16 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-16 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-16 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-16 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 10 FB posts (5 long-form + 5 captions) = 17 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-16.xlsx (17 posts), tfr-postplanner-tobi-2026-06-16.xlsx (12 TOBI posts)
+- **Coverage:** Halle Open Day 2 — Zverev (RG champ) vs Kopriva on home soil; Shelton vs Kyrgios first-ever ATP H2H; FAA/Tiafoe won Day 1; Berlin WTA — 9 of top 10 WTA players (Sabalenka No. 1, Rybakina No. 2, Gauff No. 3; Serena doubles with Mboko again); Queen's Club ATP — de Minaur (top seed) vs Diallo; Majchrzak (fresh Libema title) vs Lehecka (No. 2); Tommy Paul won Day 1; Alcaraz/Draper withdrew; Nottingham WTA — Fernandez, Zheng, Ostapenko, Boulter WC in WTA 250 field; Wimbledon 2026 countdown — 13 days; draw June 26; Sinner defending (no warm-ups except Hurlingham); Alcaraz out; £64.2M record prize; Sabalenka No. 1 women's seed
+- **Notes:**
+  - verify-facts.py: passed; 28 claims, 53 HIGH; image warnings cosmetic (imagn source, all not_started)
+  - compile: 5 stories, 7 X posts, 0 FB posts, 5 articles, 8 images; posting window warnings cosmetic
+  - dashboard: 22 items
+  - PostPlanner exports: standard (17 posts: 7 X + 10 FB) and TOBI (12 TOBI posts) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-15 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

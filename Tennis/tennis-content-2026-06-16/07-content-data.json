@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-16",
+  "compiled_at": "2026-06-16T12:25:36.591384+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Halle Open Day 2 — Zverev Returns, Shelton vs Kyrgios",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Roland Garros champ Zverev is back — opening at Halle today vs Kopriva on home soil. Stuttgart winner Shelton faces Kyrgios in their FIRST-EVER ATP meeting on the same day. Grass week 2 is here. 🎾 #TerraWortmannOpen #Halle2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TerraWortmannOpen",
+            "#Halle2026"
+          ],
+          "char_count": 232
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kyrgios got a wild card at Halle and drew Stuttgart winner Shelton in R1. Their first ATP meeting ever — today, on grass, in Germany. 🎾 #TerraWortmannOpen #Halle2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TerraWortmannOpen",
+            "#Halle2026"
+          ],
+          "char_count": 171
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-halle-day2-zverev-shelton-kyrgios.html",
+        "headline": "Roland Garros Champion Zverev Opens Halle Defense as Shelton Faces Kyrgios in First-Ever ATP Meeting",
+        "word_count": 710
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (X/Twitter)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter post, FB image caption"
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Halle Open Day 2\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Terra Wortmann Open runs June 15-21, 2026 | HIGH | atptour.com, tennis365.com |\n| Tournament is ATP 500 at Heristo-Arena, Halle, Germany | HIGH | atptour.com |\n| Alexander Zverev is top seed | HIGH | tennis365.com, atptour.com |\n| Zverev won Roland Garros 2026 (def. Cobolli 6-1, 4-6, 6-4, 6-7(5), 6-1) | HIGH | Confirmed in prior pipeline (June 8) |\n| Zverev is scheduled to play Vit Kopriva in R1 on June 16 | HIGH | eurosport.de, flashscoreusa.com, 365scores.com |\n| FAA is No. 2 seed | HIGH | tennis365.com |\n| FAA won his Day 1 match vs Borges | HIGH | vietnam.vn (ATF Day 2 article) |\n| Frances Tiafoe upset Roland Garros finalist Flavio Cobolli on Day 1 | HIGH | vietnam.vn (ATP Day 2 article) |\n| Ben Shelton is scheduled to play Nick Kyrgios in R1 on June 16 | HIGH | atptour.com, sofascore.com, olympics.com |\n| Shelton vs Kyrgios is their first-ever ATP H2H meeting | HIGH | 365scores.com, sofascore.com |\n| Shelton won Stuttgart last week (def. Fritz 6-4, 2-6, 6-4) | HIGH | Prior pipeline June 15 |\n| Kyrgios received a wild card entry | HIGH | atptour.com draw preview, tennis365.com |\n| Zverev vs Fonseca is a potential R2 clash per draw | MEDIUM | atptour.com draw preview |\n| Shelton-Kyrgios winner could face that R2 opponent | LOW | Inference from draw |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Berlin WTA — 9 of Top 10 in Historic Field",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Nine of the world's top 10 WTA players are in Berlin this week. Sabalenka, Rybakina, and Gauff all in the same draw — 13 days before Wimbledon. This field is historic. 🎾 #BerlinOpen #WTATennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BerlinOpen",
+            "#WTATennis"
+          ],
+          "char_count": 198
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Serena Williams is back in doubles — this time in Berlin with Victoria Mboko, two weeks after their Queen's Club WTA run. And 9 of the world's top 10 are competing in singles. 🎾 #BerlinOpen #WTATennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BerlinOpen",
+            "#WTATennis"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-berlin-wta-nine-top10-sabalenka-gauff.html",
+        "headline": "Nine of the World's Top 10 WTA Players Convene in Berlin — Sabalenka, Rybakina, Gauff Lead Historic Field",
+        "word_count": 645
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter, FB caption"
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Berlin WTA\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| VANDA Pharmaceuticals Berlin Tennis Open is June 15-21, 2026 | HIGH | wtatennis.com |\n| Venue: Rot-Weiss Tennis Club, Berlin, Germany | HIGH | wtatennis.com |\n| Tournament is WTA 500 | HIGH | wtatennis.com |\n| 9 of world's top 10 WTA players are competing | HIGH | justwomenssports.com, tennis365.com |\n| Aryna Sabalenka is No. 1 seed | HIGH | puntodebreak.com, wtatennis.com |\n| Elena Rybakina is No. 2 seed | HIGH | puntodebreak.com, wtatennis.com |\n| Coco Gauff is No. 3 seed | HIGH | justwomenssports.com |\n| Sabalenka has a first-round bye | HIGH | justwomenssports.com (top seeds have byes) |\n| Rybakina has a first-round bye, then faces winner of Vekic vs Eala | HIGH | justwomenssports.com |\n| Gauff opens against Bartunkova | HIGH | justwomenssports.com |\n| Serena Williams competing in doubles | HIGH | tennis365.com |\n| Serena's doubles partner is Victoria Mboko | MEDIUM | tennis365.com (same as Queen's Club WTA run) |\n| Wimbledon starts June 29 (13 days away) | HIGH | wimbledon.com |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Queen's Club ATP Day 2 — de Minaur Opens, Majchrzak vs Lehecka",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Day 2 at Queen's Club: Top seed de Minaur opens vs Diallo. Libema champion Majchrzak faces No. 2 seed Lehecka — first action since his 's-Hertogenbosch title last Sunday. 🎾 #QueensClub #HSBCChampionships [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#QueensClub",
+            "#HSBCChampionships"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-queens-club-atp-deminaur-majchrzak-day2.html",
+        "headline": "de Minaur Opens at Queen's Club as Libema Champion Majchrzak Faces Lehecka in Day 2 Showdown",
+        "word_count": 594
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter, FB caption"
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Queen's Club ATP\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| HSBC Championships runs June 15-21, 2026 at Queen's Club, London | HIGH | atptour.com |\n| ATP 500 event | HIGH | atptour.com |\n| Alex de Minaur is top seed | HIGH | tennis365.com, lastwordonsports.com |\n| Jiri Lehecka is No. 2 seed (last year's finalist) | HIGH | lastwordonsports.com |\n| de Minaur faces Gabriel Diallo (CAN) on Day 2 | HIGH | lastwordonsports.com, tennisuptodate.com |\n| Kamil Majchrzak vs Jiri Lehecka is scheduled Day 2 | HIGH | lastwordonsports.com |\n| Majchrzak won Libema Open June 15 (def. de Minaur 6-3, 2-6, 7-6(5)) | HIGH | Prior pipeline June 15 |\n| Tommy Paul def. Zachary Svajda 7-5, 6-3 on Day 1 | HIGH | Search result (Tommy Paul USA vs LL Svajda USA) |\n| Carlos Alcaraz withdrew (wrist injury) | HIGH | tennis365.com, multiple sources |\n| Jack Draper withdrew (knee injury since Barcelona) | HIGH | tennis365.com |\n| Rafael Jodar is in the draw | MEDIUM | tennis365.com |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Nottingham WTA — Grass 250 Underway",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Zheng Qinwen, Fernandez, Ostapenko, and Boulter are all in the draw at the Lexus Nottingham Open. WTA 250 grass — and a legitimate pre-Wimbledon tune-up. 🎾 #NottinghamOpen #WTATennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NottinghamOpen",
+            "#WTATennis"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-nottingham-wta-grass-open-fernandez-boulter.html",
+        "headline": "Fernandez, Zheng, Ostapenko, and Boulter Open Grass Season in Nottingham",
+        "word_count": 501
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter, FB caption"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nottingham WTA\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Lexus Nottingham Open is June 15-21, 2026 | HIGH | lta.org.uk, flashscore.com |\n| WTA 250 on grass courts, Nottingham Tennis Centre | HIGH | lta.org.uk |\n| Zheng Qinwen, Leylah Fernandez, Jelena Ostapenko, Karolina Pliskova competing | HIGH | Search results |\n| Katie Boulter received a wild card | HIGH | Search results |\n| Tournament runs through June 21 | HIGH | lta.org.uk |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wimbledon 2026 — 13 Days Out",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "13 days until Wimbledon. Draw June 26. Sinner defending — no grass warm-ups. Alcaraz out. Shelton on fire. Zverev home. Berlin and Halle in week 2. The picture is coming together. 🎾 #Wimbledon2026 #TennisFanrecap [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026",
+            "#TennisFanrecap"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wimbledon-2026-countdown-13-days.html",
+        "headline": "Wimbledon 2026: 13 Days Out, Sinner Defending Without Warm-Up Events, Alcaraz Out",
+        "word_count": 645
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": "X/Twitter, FB caption"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wimbledon 2026 Countdown\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Wimbledon 2026 starts June 29 | HIGH | wimbledon.com, lta.org.uk |\n| Draw ceremony June 26 at 10:00 BST | HIGH | lta.org.uk |\n| Qualifying June 22-25 | HIGH | tennismajors.com |\n| Jannik Sinner is defending champion and No. 1 seed | HIGH | wtatennis.com, wimbledon.com |\n| Sinner skipped all warm-up events except Hurlingham (June 23-27) | HIGH | Prior pipeline (confirmed multiple runs) |\n| Carlos Alcaraz withdrew from Wimbledon (wrist injury) | HIGH | Multiple sources |\n| Aryna Sabalenka is No. 1 women's seed | HIGH | wimbledon.com |\n| Emma Raducanu is leading British women's hope | HIGH | lta.org.uk |\n| Prize money: £64.2M (record, 20% increase) | HIGH | Prior pipeline (confirmed June 13 run) |\n| Finals July 11-12, 2026 | HIGH | wimbledon.com |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
