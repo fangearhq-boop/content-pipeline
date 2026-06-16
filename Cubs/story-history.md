@@ -2412,3 +2412,57 @@ Each day's stories are appended at the top (newest first).
   - Imanaga start line recap
 
 ---
+
+## 2026-06-16
+
+### STORY 1: Game Recap — PCA Hits for the Cycle, Cubs Walk Off Rockies 5-4
+- **Angle:** NEW STORY (PCA hit for the cycle June 15 — HR, triple, double, single (reverse cycle); first reverse cycle in Cubs franchise history; 13th in Cubs history; second since 1993; 4-for-4, 2 RBI, 19-game on-base streak; walk-off win; Cubs now 38-35)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Verify "second since 1993" against Baseball Reference Cubs cycles list
+  - PCA All-Star nomination (July ballot)
+  - Next cycle candidate watch
+
+### STORY 2: PCA Historical Feature — First Reverse Cycle in Cubs History
+- **Angle:** NEW STORY (historical analysis angle; 33-year gap since last Cubs cycle; first reverse cycle in franchise history; Hack Wilson (1930) Cubs CF comparison; season line .263/.341/.462, 13 HR, 15 SB, 3.9 WAR; All-Star case framing)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, feature/history)
+- **Follow-Up Opportunities:**
+  - PCA All-Star selection (July)
+  - "Second since 1993" verification for future historical references
+
+### STORY 3: Wild Card Watch — Cubs 38-35, Three Spots Available
+- **Angle:** FOLLOW UP (ongoing wild card arc; today's angle = 38-35 above .500, three NL wild card spots, division gone, every W vs basement teams matters)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, standings/analysis)
+- **Follow-Up Opportunities:**
+  - Cardinals exact record confirmation for standings comparison
+  - Daily standings update as wild card race develops
+
+### STORY 4: Trade Deadline — 48 Days Left, Rotation Still Broken
+- **Angle:** FOLLOW UP (ongoing rotation crisis + deadline arc; today's angle = 48-day countdown, Taillon/Steele both on IL, named targets = Alcántara (Marlins) and Mize (Tigers))
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Any trade reporting / deal announcement
+  - Taillon return timeline (sidelined until after All-Star break per WCF Courier)
+  - Boyd activation status
+
+### STORY 5: Prospect Pipeline — Owen Ayers Southern League POW
+- **Angle:** NEW STORY (specific award angle; Owen Ayers Southern League Player of the Week at Knoxville; .231/.369/.519 in 16 games; three extra-base hits last week; No. 10 Cubs prospect)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Ayers continued Knoxville performance
+  - Any promotion watch from AA to AAA Iowa
+
+### STORY 6: Tonight's Game Preview — Cabrera vs. Feltner at Wrigley
+- **Angle:** NEW STORY (game preview; Cabrera 4-3 4.86 ERA vs Feltner 2-2 5.20 ERA; Cubs going for two straight vs 27-46 Rockies; momentum from PCA cycle night; 7:05 PM CT first pitch)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, game preview/hype)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 2 result (tomorrow's pipeline)
+  - Cabrera start performance
+
+---

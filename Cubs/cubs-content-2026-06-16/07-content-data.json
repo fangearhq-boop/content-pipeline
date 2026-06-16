@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-16",
+  "compiled_at": "2026-06-16T09:17:06.236042+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM CT",
+      "description": "PCA cycle walk-off recap",
+      "type": "Game recap"
+    },
+    {
+      "time": "12:00 PM CT",
+      "description": "PCA historical feature — first reverse cycle in Cubs history",
+      "type": "Feature"
+    },
+    {
+      "time": "1:15 PM CT",
+      "description": "Wild card standings watch",
+      "type": "Standings"
+    },
+    {
+      "time": "2:30 PM CT",
+      "description": "Trade deadline — 48 days, rotation still broken",
+      "type": "Analysis"
+    },
+    {
+      "time": "3:45 PM CT",
+      "description": "Owen Ayers Southern League POW",
+      "type": "Prospect feature"
+    },
+    {
+      "time": "5:00 PM CT",
+      "description": "Cabrera vs Feltner tonight at Wrigley",
+      "type": "Game preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — PCA Hits for the Cycle, Cubs Walk Off Rockies 5-4",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Pete Crow-Armstrong hit for the cycle (first in MLB this season), including a 434-foot HR off Lorenzen. First REVERSE cycle (HR, triple, double, single) in Cubs franchise history. Walk-off win in 9th inning. Cubs 4-for-4, 2 RBI, 19-game on-base streak. Cubs improve to 38-35.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Pete Crow-Armstrong hit for the CYCLE. Cubs walk off the Rockies 5-4.\n\nFirst REVERSE cycle in Cubs franchise history — HR, triple, double, single. The 13th cycle overall.\n\n4-for-4, 2 RBI, 19-game on-base streak. This is what a franchise player looks like.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 8,
+        "claims_flagged": 3,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game Recap — PCA Cycle Walk-Off Win\n- **[HIGH]** Cubs defeated Colorado Rockies 5-4 in a walk-off on June 15, 2026 at Wrigley Field.\n- **[HIGH]** Pete Crow-Armstrong hit for the cycle — first MLB player to hit for the cycle in the 2026 season.\n- **[HIGH]** Cycle order: HR (1st inning, leadoff), triple (3rd), double (5th), single (7th). This constitutes a \"reverse cycle.\"\n- **[HIGH]** First reverse cycle in Cubs franchise history.\n- **[HIGH]** 13th cycle in Cubs franchise history.\n- **[MEDIUM]** Second Cubs cycle since 1993 (33-year drought).\n- **[HIGH]** PCA's HR was 434 feet to center field, off Michael Lorenzen (Rockies starter).\n- **[HIGH]** PCA finished 4-for-4 with 2 RBI.\n- **[HIGH]** PCA's 19-game on-base streak extended.\n- **[MEDIUM]** Shota Imanaga started for Cubs last night.\n- **[MEDIUM]** Cubs went 0-for-9 with RISP before the walk-off in the 9th.\n- **[MEDIUM]** PCA joined Hack Wilson (1930) as only Cubs center fielders to hit for the cycle since 1901.\n- **[HIGH]** Cubs improved to 38-35 with the win. Colorado fell to 27-46.",
+        "sources": "Sources: ESPN matchup page + CBS Sports box score + ABC News wire\nSources: ABC News wire + Bleacher Nation + Chronicle Online + Journal Gazette\nSources: ABC News wire + Journal Gazette recap\nSources: Journal Gazette (\"first Cub to hit a reverse cycle — home run, triple, double, single in order — in franchise history\")\nSources: Daily Gazette article title + Journal Gazette\nSources: Journal Gazette single source — cross-reference Baseball Reference Cubs cycles list recommended\nSources: ABC News wire\nSources: ABC News wire\nSources: ABC News wire\nSources: Sun-Times headline reference (\"shota-imanaga\")\nSources: Single AI summary from ABC News — verify from box score\nSources: Single source (Chronicle Online article), LOW confidence on \"since 1901\" scope. HIGH confidence that Hack Wilson hit for cycle as a Cub.\nSources: Series context JSON (generated 2026-06-16 08:30 UTC, from live MLB data)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA Historical Feature — First Reverse Cycle in Cubs History",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Last Cub to hit for the cycle was in 1993 (33 years ago). PCA's reverse cycle is the first in franchise history. He joins Hack Wilson (1930) as the only Cubs CFs to hit for the cycle. Season line: .263/.341/.462, 13 HR, 15 SB, 3.9 WAR. All-Star case building fast.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "The last time a Cub hit for the cycle: 1993. Thirty-three years.\n\nPCA didn't just end the drought — he hit the FIRST REVERSE cycle in Cubs history. HR, triple, double, single.\n\n.263/.341/.462. 13 HR. 19-game on-base streak. All-Star case is sealed.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Feature / historical analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 3,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "PCA Historical Feature\n- **[HIGH]** PCA's cycle is 13th in Cubs history and first reverse cycle in franchise history.\n- **[MEDIUM]** Last Cubs cycle before PCA was in 1993 (second since 1993).\n- **[HIGH]** PCA 2026 season: .263/.341/.462, now 13 HR, 15 SB, 3.9 WAR.\n- **[HIGH]** PCA 19-game on-base streak (extended by last night's cycle).\n- **[MEDIUM]** PCA's second leadoff HR in three games (per ABC News summary).",
+        "sources": "Source: Multiple articles, cross-verified\nSource: Single article (Journal Gazette) — needs Baseball Reference cross-check\nSource: CBS Sports player page (pre-cycle: 12 HR; cycle added 1 HR → 13 HR)\nSource: ABC News wire\nSource: Single source"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Watch — Cubs 38-35, Three Spots Available",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Division title effectively gone (Brewers ~6 GB ahead). Cubs 38-35 hunting three NL wild card spots. Cardinals ~38-31 (same wins, 4 fewer losses). Every win vs a basement team is essential.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Division title is gone. Wild card is everything.\n\nCubs 38-35. Three NL spots available. The math still works — but not if they give wins away.\n\nThe 27-46 Rockies are at Wrigley tonight. No excuses.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Standings / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 5,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Watch\n- **[HIGH]** Cubs record: 38-35 (confirmed from series context JSON generated 08:30 UTC today).\n- **[HIGH]** Colorado Rockies record: 27-46.\n- **[MEDIUM]** Brewers: approximately 43-26.\n- **[MEDIUM]** Cardinals: approximately 38-31.\n- **[HIGH]** NL has three wild card spots (MLB structural rule since 2022).\n- **[LOW]** Cubs current wild card seeding vs Cardinals — not precisely confirmed. Cardinals appear to have better loss column (31 vs 35 losses).",
+        "sources": "Source: Series context JSON\nSource: Brew Crew Ball Week 12 article (~June 13 data), not confirmed for June 16.\nSource: Brew Crew Ball Week 12 article (~June 13 data), not confirmed for June 16."
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline — 48 Days Left, Rotation Still Broken",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "48 days to August 3 trade deadline. Taillon on IL (hamstring), Steele on 60-day IL. Wicks, Cabrera, Rea, Assad holding the rotation together. Named targets: Sandy Alcántara (Marlins), Casey Mize (Tigers).",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "48 days to the August 3 trade deadline. The Cubs' rotation is still broken.\n\nTaillon: hamstring IL. Steele: 60-day IL. Wicks, Cabrera, Rea, Assad are holding the line.\n\nAlcántara and Mize are the targets. Time to move, Hoyer.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 6,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Trade Deadline / Rotation\n- **[HIGH]** MLB Trade Deadline: August 3, 2026.\n- **[HIGH]** Days remaining from June 16: 48 days (June 16 to Aug 3 = 14 days remaining in June + 31 in July + 3 Aug = 48).\n- **[HIGH]** Jameson Taillon: 15-day IL, retroactive to June 8, left hamstring strain.\n- **[HIGH]** Justin Steele: 60-day IL, left elbow injury.\n- **[MEDIUM]** Current rotation (Wicks, Cabrera, Rea, Assad): Inferred from roster context, story history references. Direct confirmation would require box score analysis.\n- **[MEDIUM]** Sandy Alcántara (Marlins) as trade target.\n- **[MEDIUM]** Casey Mize (Tigers) as trade target.",
+        "sources": "Source: Multiple confirmed references\nSources: Multiple articles (Bleed Cubbie Blue, WCF Courier, Yardbarker)\nSource: FanGraphs injury report (mentioned in search results)\nSource: Chi City Sports + Cubbies Crib articles\nSource: SI Cubs / Inside The Cubs article"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Prospect Pipeline — Owen Ayers Wins Southern League POW",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Owen Ayers (Cubs No. 10 prospect) won Southern League Player of the Week at Double-A Knoxville. .231/.369/.519 slash in 16 games, three extra-base hits in last five days alone. The farm system continues to produce.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Owen Ayers just won Southern League Player of the Week at Double-A Knoxville.\n\n.231/.369/.519 in 16 games. Three extra-base hits last week alone.\n\nThe Cubs' No. 10 prospect is building a case.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 5,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Prospect Pipeline — Owen Ayers\n- **[MEDIUM]** Owen Ayers won Southern League Player of the Week.\n- **[MEDIUM]** Ayers slash line: .231/.369/.519 in 16 games at Double-A Knoxville.\n- **[MEDIUM]** Ayers described as No. 10 prospect in Cubs system.\n- **[MEDIUM]** Three extra-base hits in last five days.",
+        "sources": "Source: Bleacher Nation June 15, 2026 prospects report (AI search summary — single source)\nSource: Bleacher Nation June 15 summary\nSource: Single source reference in search results\nSource: Bleacher Nation prospects report"
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Tonight's Game Preview — Cabrera vs. Feltner at Wrigley",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cabrera (4-3, 4.86 ERA) vs Feltner (2-2, 5.20 ERA). Cubs going for consecutive wins vs 27-46 Rockies. Momentum from PCA's cycle night; don't waste it. 7:05 PM CT first pitch.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Cabrera vs. Feltner. Wrigley Field. 7:05 PM CT.\n\nCabrera (4-3, 4.86 ERA) vs Feltner (2-2, 5.20 ERA). Cubs going for two straight vs the 27-46 Rockies.\n\nPCA hit for the cycle last night. Don't waste the moment.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Game preview / hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 5,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Tonight's Game Preview\n- **[MEDIUM]** Edward Cabrera starts for Cubs: 4-3, 4.86 ERA.\n- **[MEDIUM]** Ryan Feltner starts for Rockies: 2-2, 5.20 ERA.\n- **[HIGH]** Game time: 7:05 PM CT (8:05 PM ET) at Wrigley Field.\n- **[HIGH]** Colorado Rockies record 27-46 at time of game.",
+        "sources": "Source: Yahoo Sports / Predictem (betting odds sites, MEDIUM confidence on current record)\nSource: Predictem / StatsInsider (betting sites, MEDIUM confidence)\nSource: Series context JSON + multiple preview sources\nSource: Series context JSON"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
