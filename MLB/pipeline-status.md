@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-16
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (24 claims extracted, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets compiled, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). FB posts compile to 0 (known heading format). 0 char violations.
+- **Key Stories**: Wheeler 6 IP/9 K/7-0 Phillies/Rincones Jr. first career HR/Cy Young case/All-Star at Citizens Bank July 14 (Tier 1 NEW), Rice .300/.393/.638/19 HR/44 RBI/leads Yankees all categories/Judge rib stress fracture since May 31/Yankees 43-27 AL East (Tier 1 FOLLOW UP), Braves 46-25 NL East/Mets 8-1 loss/Acuña IL hamstring 2nd stint/Phillies 38-33 8 GB (Tier 2 FOLLOW UP), Schwarber-Alvarez tied 24 HR/Derby July 14 Citizens Bank Park/Buxton 22/Rice 19 (Tier 2 FOLLOW UP), All-Star voting: Ohtani 1.165M leads all/Alvarez 1.015M AL/Witt Jr. leads AL SS/closes June 25 (Tier 3 NEW)
+
+
+## Last Run
 - **Date**: 2026-06-15
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (claims extracted, 0 char violations, consistency clean), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -10,7 +19,7 @@
 - **Key Stories**: White Sox beat Dodgers 6-4/first place AL Central/41-121 in 2024 to first place/three HRs in 6-run 6th/first WSox series win vs. Dodgers since 2014 (Tier 1 NEW), Rockies 23 Athletics 9/franchise record/Castro 7 RBI+grand slam/Goodman 5-for-5 2 HR/6 HR total (Tier 1 NEW), Braves drop 3rd straight without Acuña/Mets 8-1/still best record in MLB/9-game NL East lead (Tier 2 FOLLOW UP June 14), Schwarber-Alvarez both held Sunday/still tied 24 HR/Derby July 13 at Citizens Bank Park/Harper considering Derby (Tier 2 FOLLOW UP June 14), Rangers 6 Red Sox 4 Sunday Night Baseball/Eovaldi 7 IP/Langford HR/Cubs split/Mize rain delay to Wednesday (Tier 3 NEW)
 
 
-## Last Run
+## Previous Run
 - **Date**: 2026-06-14
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (5 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 4 286→253; 0 after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (19 claims, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published via publish-dashboard.py (clean push). Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/

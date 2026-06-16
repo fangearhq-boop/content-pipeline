@@ -1,0 +1,254 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-16",
+  "compiled_at": "2026-06-16T10:28:33.485857+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Wheeler Dominant in Phillies 7-0 Shutout of Marlins — Cy Young Case Building",
+      "tier": 1,
+      "status": "",
+      "angle": "Zack Wheeler delivered six shutout innings against Miami on June 15, allowing just two hits and striking out nine, as Philadelphia cruised to a 7-0 victory. Gabriel Rincones Jr. homered for his first career hit. Wheeler, already among the NL's elite arms, is now building a legitimate Cy Young case. With the 2026 MLB All-Star Game set for Citizens Bank Park on July 14, Wheeler's home mound could host the biggest stage of the summer.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Zack Wheeler last night:\n\n6 IP. 2 hits. 9 strikeouts. Zero runs.\n\nPhiladelphia wins 7-0. Wheeler is making a Cy Young case in the city that hosts the All-Star Game on July 14.\n\nThe Citizens Bank Park crowd is going to be electric this summer. #Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Gabriel Rincones Jr. hit a home run last night.\n\nIt was his first career major league hit.\n\nHe made it count. The Phillies won 7-0. Wheeler was dominant. And Philly is rolling. #Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 191
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-wheeler-dominant-phillies-shutout-marlins.html",
+        "headline": "Wheeler Dominant: Six Innings, Nine Strikeouts, Zero Runs as Phillies Shut Out Marlins 7-0",
+        "word_count": 424
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wheeler 7-0 vs. Marlins\n\n**Social Image (1080x1350)**\n- search_term: \"Zack Wheeler Philadelphia Phillies\"\n- caption_overlay: \"SHUTOUT | Wheeler | 6 IP 9 K | Phillies 7-0 | June 15\"\n- credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- search_term: \"Zack Wheeler Philadelphia Phillies\"\n- caption_overlay: \"Wheeler Dominant: 6 IP, 9 K, 2 H as Phillies Blank Marlins 7-0\"\n- credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Ben Rice Carries Yankees Without Judge — Leads Team Across Every Offensive Category",
+      "tier": 1,
+      "status": "",
+      "angle": "Ben Rice hit his 19th home run of the season Sunday, powering the Yankees to a series win over the Blue Jays. New York beat Toronto 8-3 on Monday. Rice is leading the Yankees in hits, doubles, RBIs, total bases, runs, batting average (.300), OBP (.393), SLG (.638), and OPS (1.031). With Aaron Judge sidelined since May 31 (right rib stress fracture), Rice has emerged as the team's best position player and a legitimate AL MVP candidate.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Aaron Judge has been out since May 31.\n\nBen Rice's response: .300/.393/.638. 19 HR. 44 RBI. Leads the Yankees in every offensive category.\n\nThe Yankees are 43-27 and leading the AL East.\n\nRice is not a fill-in. He's their best player right now. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 258
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Ben Rice stat check:\n\n.300 BA / .393 OBP / .638 SLG / 1.031 OPS\n19 HR, 44 RBI, 46 runs, 62 hits\n\nAL MVP conversation. This is a real thing. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 153
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ben-rice-carrying-yankees-without-judge.html",
+        "headline": "Ben Rice Is Carrying the Yankees — And an AL MVP Case Is Taking Shape",
+        "word_count": 508
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ben Rice Carrying Yankees\n\n**Social Image (1080x1350)**\n- search_term: \"Ben Rice New York Yankees\"\n- caption_overlay: \"MVP WATCH | Ben Rice | .300 / 19 HR / 44 RBI | Yankees 43-27\"\n- credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- search_term: \"Ben Rice New York Yankees\"\n- caption_overlay: \"Ben Rice Is Carrying the Yankees — No Judge, No Problem (For Now)\"\n- credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Braves Skidding Without Acuña — NL East Lead Holds at 8 Over Phillies",
+      "tier": 2,
+      "status": "",
+      "angle": "The Mets beat Atlanta 8-1 on June 15, extending the Braves' recent slide without Ronald Acuña Jr. (left hamstring strain, 10-day IL since June 10). Atlanta still leads the NL East at 46-25 — 8 games ahead of Philadelphia (38-33) — but the margin is tightening. The Braves are counting on Chris Sale and Michael Olson to hold the fort until Acuña returns.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Braves are 46-25 and 8 games up in the NL East.\n\nAlso: they just lost to the Mets 8-1.\n\nRonald Acuña Jr. is on the IL with a hamstring strain. Atlanta's margin for error is shrinking even if the lead looks comfortable. #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-braves-sliding-without-acuna-nl-east-lead-holds.html",
+        "headline": "Braves Sliding Without Acuña — NL East Lead Holds at 8, But the Losing Streak Warrants Watching",
+        "word_count": 478
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves Without Acuña\n\n**Social Image (1080x1350)**\n- search_term: \"Ronald Acuna Atlanta Braves\"\n- caption_overlay: \"BRAVES WITHOUT ACUÑA | 46-25 | 8 GB NL East Lead\"\n- credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630)**\n- search_term: \"Ronald Acuna Atlanta Braves\"\n- caption_overlay: \"Braves Sliding Without Acuña — NL East Lead Holds at 8\"\n- credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Schwarber and Alvarez Still Tied at 24 HRs — Derby Race Heats Up",
+      "tier": 2,
+      "status": "",
+      "angle": "Kyle Schwarber and Yordan Alvarez remain deadlocked at 24 home runs each, with the Home Run Derby set for July 14 at Citizens Bank Park in Philadelphia — Schwarber's home park. Byron Buxton is third at 22. Ben Rice has 19. Aaron Judge is sidelined and may miss the All-Star break entirely. The Derby is shaping up to be a Schwarber-Alvarez showdown in front of a hostile or rapturous Philadelphia crowd depending on who you ask.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Home Run Derby is July 14 — at Citizens Bank Park.\n\nKyle Schwarber: 24 HR.\nYordan Alvarez: 24 HR.\n\nStill tied. Still perfect setup.\n\nSchwarber at home vs. Alvarez in a road park. That's must-watch TV. #MLB #HomeRunDerby",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#HomeRunDerby"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-schwarber-alvarez-hr-race-derby-citizens-bank.html",
+        "headline": "Tied at 24: Schwarber and Alvarez Are Running the Best Race in Baseball — and the Derby Is at Schwarber's Park",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber vs. Alvarez HR Race\n\n**Social Image (1080x1350)**\n- search_term: \"Kyle Schwarber Philadelphia Phillies\"\n- caption_overlay: \"HR RACE | Schwarber 24 — Alvarez 24 | Derby July 14 at Citizens Bank Park\"\n- credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "All-Star Voting Phase 1 Closes June 25 — Ohtani and Alvarez Leading the Way",
+      "tier": 3,
+      "status": "",
+      "angle": "The first phase of 2026 MLB All-Star voting closes June 25 at noon ET. Shohei Ohtani leads all players with 1.165 million votes. Yordan Alvarez tops the AL at 1.015 million. Bobby Witt Jr. leads AL shortstops. Drake Baldwin (Braves) leads NL catchers with 972,813 votes. The game is July 14 at Citizens Bank Park in Philadelphia. Judge's rib stress fracture clouds his All-Star availability, potentially handing Rice an opportunity for his first appearance.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "All-Star vote update — Phase 1 closes June 25:\n\n🏆 Ohtani leads all players (1.16M votes)\n🏆 Alvarez leads AL (1.01M votes)\n🏆 Witt Jr. leads AL SS\n\n⚠️ Judge is still out. Rice might get his shot.\n\nAll-Star Game: July 14, Philadelphia. #MLB #AllStar",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#AllStar"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-all-star-voting-ohtani-alvarez-phase-1-june-25.html",
+        "headline": "All-Star Voting: Ohtani Leads All Players, Phase 1 Closes June 25 — and Judge's Injury Opens the Door for Rice",
+        "word_count": 471
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "All-Star Voting\n\n**Social Image (1080x1350)**\n- search_term: \"Shohei Ohtani Los Angeles Dodgers\"\n- caption_overlay: \"ALL-STAR VOTE | Ohtani Leads 1.16M | Phase 1 Closes June 25\"\n- credit: (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

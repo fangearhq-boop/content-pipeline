@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-16
+
+### Story 1: Wheeler Dominant vs. Marlins — Phillies 7-0, Cy Young Case Building
+- **Date:** 2026-06-16
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Zack Wheeler 6 IP, 2 H, 9 K, 0 R (June 15). Phillies 7-0. Gabriel Rincones Jr. homered for first career hit. Wheeler building Cy Young case. All-Star Game at Citizens Bank Park July 14.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - Wheeler Cy Young candidacy tracking
+  - All-Star Game roster implications
+
+### Story 2: Ben Rice Carrying Yankees Without Judge — MVP Case Building
+- **Date:** 2026-06-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Yankees without Judge since May 31)
+- **Angle:** Rice stats: .300/.393/.638/1.031 OPS, 19 HR, 44 RBI. Leads Yankees in all offensive categories. Yankees 43-27, AL East leaders. Judge out with right rib stress fracture since May 31.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - Judge return timeline
+  - Rice All-Star appearance if Judge misses game
+
+### Story 3: Braves Sliding Without Acuña — NL East Lead 8 Games (Phillies)
+- **Date:** 2026-06-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Acuña IL since June 10)
+- **Angle:** Mets 8, Braves 1 (June 15). Braves 46-25. Acuña on IL (left hamstring, 2nd stint). Phillies 38-33 (8 GB). Mets 32-39 (14 GB).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Ryan Calloway), Image concepts
+- **Follow-Up Opportunities:**
+  - Acuña return timeline
+  - NL East race if slide continues
+
+### Story 4: Schwarber-Alvarez Tied at 24 HR — Derby at Citizens Bank July 14
+- **Date:** 2026-06-16
+- **Tier:** 2
+- **Classification:** FOLLOW UP (HR race)
+- **Angle:** Both tied at 24. Derby at Citizens Bank Park (Schwarber's home) July 14. Buxton 22, Rice 19. Alvarez held in Royals 4-0 win June 15.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Marcus Cole), Image concepts
+- **Follow-Up Opportunities:**
+  - HR race daily tracking through Derby
+  - Derby participant confirmations
+
+### Story 5: All-Star Voting Phase 1 Closes June 25 — Ohtani and Alvarez Leading
+- **Date:** 2026-06-16
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Ohtani 1.165M votes (leads all). Alvarez 1.015M (AL). Witt Jr. leads AL SS. Baldwin 972K leads NL C. Acuña and Albies in line for NL starters. Phase 1 closes June 25. Game July 14 Philadelphia. Judge injury clouds All-Star appearance.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jake Torres), Image concepts
+- **Follow-Up Opportunities:**
+  - All-Star rosters announced
+  - Judge All-Star status as it develops
+
+---
+
 ## 2026-06-14
 
 ### Story 1: Cubs 6, Giants 1 — Crow-Armstrong Leadoff Homer, Three-Game Streak
