@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-15
+- **Date**: 2026-06-16
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-16
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-06-16.xlsx (7 posts) + hh-postplanner-tobi-2026-06-16.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-16/review-dashboard.html (22 items)
+- **Notes:** Knicks parade Thursday June 18 first Canyon of Heroes in franchise history (1970/1973 champs never got ticker-tape); Giannis — Bucks reject Heat offer (Herro+Ware+Jacquez+No.13), Celtics pushing Jaylen Brown, 7 days to June 23; Dybantsa visited Wizards+Jazz, meetings "went well," still -450 No. 1; Reaves — Lakers exclusive window before June 30, Nets waiting $178.5M; Knicks dynasty/offseason analysis
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-15
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-16
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-16 | T1 | Knicks Parade 2 Days Away — First Canyon of Heroes in Franchise History | X, FB, Article | FOLLOW UP |
+| 2026-06-16 | T1 | Giannis Trade War — Bucks Reject Heat Package, Celtics Push Jaylen Brown | X, FB, Article | FOLLOW UP |
+| 2026-06-16 | T2 | Dybantsa Pre-Draft Visits — Wizards + Jazz Meetings Went Well | X, FB, Article | FOLLOW UP |
+| 2026-06-16 | T2 | Austin Reaves — Lakers Exclusive Window Before June 30, Nets Lurking | X, FB, Article | FOLLOW UP |
+| 2026-06-16 | T2 | Knicks Dynasty Building — How New York Defends the Title | X, FB, Article | NEW |
+
+### STORY 1: Knicks Parade 2 Days Away
+- **Tier:** 1
+- **Category:** Celebration / NYC
+- **Key facts:** Parade Thursday June 18 10AM; Battery Park → Canyon of Heroes → City Hall; Mayor Mamdani Key to the City ceremony; City Hall blue and orange; FIRST Canyon of Heroes parade in franchise history (won 1970/1973 but never got official ticker-tape); expected one of biggest parades in NYC history; route ~1 mile Lower Manhattan
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Parade recap; attendance numbers; Brunson Key to the City moment
+
+### STORY 2: Giannis Trade War
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Bucks "do not love" Heat offer (Herro+Ware+Jacquez+No.13 pick); actively seeking other options; Celtics offer centered on Jaylen Brown; stumbling block = breaking up Tatum/Brown; Marc Stein: deal "indeed drawing near"; Haslam deadline June 23; Giannis wants Miami behind the scenes; Heat + Celtics two frontrunners; Knicks out after winning title; 7 days to deadline
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade finalized; Giannis confirms destination
+
+### STORY 3: Dybantsa Pre-Draft Visits
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** Visited Wizards in DC Friday June 13; visited Jazz in SLC Saturday June 14; father Ace: "both meetings went well"; Peterson also visited Wizards; still -450 odds No. 1; BYU: 25.5 PPG/51.0% FG/6-9; draft June 23-24 Barclays Center Brooklyn; 7 days away
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Draft night; Dybantsa officially selected No. 1
+
+### STORY 4: Austin Reaves — Lakers Exclusive Window
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** Lakers exclusive window closes June 30 when FA opens; Nets expected to offer 4yr/$178.5M max; Lakers can offer 5yr/$239M; Reaves 2025-26: 23.3 PPG/5.5 APG/4.7 RPG/49.0% FG/age 28; unrestricted FA; wants to stay in LA; Hawks + Pistons also interested
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Reaves signs extension with Lakers; Nets offer formally submitted
+
+### STORY 5: Knicks Dynasty Building
+- **Tier:** 2
+- **Category:** Analysis / Knicks Offseason
+- **Key facts:** Brunson 4yr/$156.5M through 2028; left $113M on table; Finals MVP; offseason decisions: KAT extension, OG Anunoby re-sign, potential trade deadline add; defending champions; East reshaping around Giannis trade
+- **Status:** NEW
+- **Follow-up ideas:** KAT extension signed; Anunoby re-signs
+
 ## 2026-06-14
 
 | # | Story | Tier | Tag |
