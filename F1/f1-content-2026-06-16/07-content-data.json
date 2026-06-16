@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-16",
+  "compiled_at": "2026-06-16T11:21:56.062792+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hamilton's Barcelona Win — What It Means for the F1 Title Fight",
+      "tier": 1,
+      "status": "",
+      "angle": "Lewis Hamilton's victory at the 2026 Spanish GP was more than a sentimental win — it shifted the entire championship calculus. Hamilton cut Antonelli's lead from 66 to 41 points in a single race. He has now won from P3 on the grid, shown he can beat a faster car through strategy, and delivered Ferrari their first win of the 2026 season. The all-British podium (Hamilton, Russell, Norris) was the first since the 1968 United States Grand Prix. The momentum belongs to Hamilton heading into Austria.",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "686 days between F1 wins for Lewis Hamilton.\n\nOne Spanish GP later, he's 41 points behind the leader and hunting.\n\nHamilton. Russell. Norris. First all-British podium since 1968.\n\nFerrari is alive. The 2026 title race just got real. 🏎️🔴",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Before Barcelona: Antonelli led by 66 points.\n\nAfter Barcelona: Antonelli leads by 41.\n\nOne race. One VSC stop. One Ferrari strategy call.\n\nThe 2026 F1 championship is WIDE open. #Formula1",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Formula1"
+          ],
+          "char_count": 188
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-hamilton-barcelona-win-title-fight.html",
+        "headline": "Hamilton's Barcelona Win: What It Really Means for the 2026 F1 Title Fight",
+        "word_count": 467
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton's Barcelona Win\n\n**Image Concept 1A — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** Lewis Hamilton Ferrari\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** X post 1A, Facebook long-form\n\n**Image Concept 1B — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** Lewis Hamilton Ferrari podium\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton's Barcelona Win — Title Fight Analysis\n**Verified Facts (HIGH confidence):**\n- Hamilton won 2026 Barcelona-Catalunya Grand Prix (66 laps)\n- Final result: P1 Hamilton (Ferrari), P2 Russell (Mercedes) +19.561s, P3 Norris (McLaren) +23.719s\n- First all-British podium since 1968 United States Grand Prix (Stewart/Hill/Surtees)\n- Hamilton's first F1 win since 2024 Belgian GP (686-day wait)\n- Ferrari's first race win of the 2026 season\n- Hamilton cut Antonelli's championship lead from 66 to 41 points\n- Hamilton used VSC stop on lap 41 (Virtual Safety Car triggered by Alonso stoppage)\n- Started P3 on the grid",
+        "sources": "- Sources: F1.com official race report, Sky Sports, motorsport.com, GPblog.com\n**Championship standings after Barcelona:**\n- 1. Antonelli (Mercedes): 156 pts\n- 2. Hamilton (Ferrari): 115 pts (-41)\n- 3. Russell (Mercedes): 106 pts (-50)\n- 4. Norris (McLaren): 73 pts\n- 5. Verstappen (Red Bull): 55 pts"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Mercedes Battery Crisis — Toto Wolff: \"We Can't Compete for a Championship Like This\"",
+      "tier": 1,
+      "status": "",
+      "angle": "Two battery failures in three races — Russell in Montreal, Antonelli in Barcelona with 3 laps remaining — have exposed a critical reliability flaw at Mercedes. Team principal Toto Wolff admitted post-race that the team \"can't compete for a championship\" with this level of power unit unreliability. The Antonelli Barcelona battery was so severely damaged it cannot be flown back to Europe; it's being shipped by sea. McLaren, Alpine, and Williams (all Mercedes power unit customers) have also suffered battery failures this season.",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Toto Wolff post-Barcelona:\n\n\"We can't compete for a championship with this reliability.\"\n\nTwo battery failures in 3 races. Russell in Montreal. Antonelli in Barcelona — 3 laps from the flag.\n\nMercedes is winning. But can they stay on track? #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Mercedes Barcelona battery was so damaged it couldn't be FLOWN home.\n\nIt's being shipped back to Europe by sea.\n\nMcLaren, Alpine, Williams — all Mercedes customers — have also had battery failures in 2026.\n\nThis is a systemic problem. Not a one-off. 🔧 #MercedesF1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MercedesF1"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-mercedes-battery-crisis-wolff-championship.html",
+        "headline": "Mercedes Battery Crisis: Wolff Says Team \"Can't Compete for a Championship\" With Reliability Issues",
+        "word_count": 480
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes Battery Crisis\n\n**Image Concept 2A — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** Kimi Antonelli Mercedes retirement\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** X post 2A, Facebook long-form\n\n**Image Concept 2B — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** Toto Wolff Mercedes pit lane\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** Facebook image caption\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes Battery Crisis\n**Verified Facts (HIGH confidence):**\n- Antonelli retired lap 62 of 66 in Barcelona — battery/electrical failure\n- Antonelli had just passed Russell for P2 when car failed\n- Antonelli quote: \"I feel a bit empty\"\n- Russell had battery failure in Montreal (Canadian GP, 2 races prior)\n- Mercedes battery so severely damaged after Barcelona it could not be safely flown back; being shipped by sea for investigation\n- Toto Wolff stated: \"can't compete for a championship\" with power unit reliability issues\n- McLaren, Alpine, Williams (Mercedes power unit customers) also suffered battery failures in 2026\n- This is a pattern issue across the Mercedes power unit ecosystem",
+        "sources": "- Sources: Sky Sports (Toto Wolff quote), motorsport.com, autoracing1.com, sundayguardianlive.com"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen's Austrian GP Ultimatum — Red Bull Upgrade Decides Everything",
+      "tier": 2,
+      "status": "",
+      "angle": "The Austrian GP (June 26-28 at the Red Bull Ring) is shaping up to be one of the most consequential home races in F1 history. Red Bull is bringing a critical weight-reduction upgrade package to their home circuit. Meanwhile, insiders report Red Bull has given Verstappen an ultimatum to decide his future before the summer break in late July. His contract's exit clause can activate from August onward if he's outside the top two in the championship. He hasn't privately reassured Red Bull he'll stay. Ten days until Austria — and everything is on the line.",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Red Bull brings massive upgrade to Austria (June 26-28).\n\nBigger story: Verstappen hasn't reassured Red Bull he'll stay. Exit clause activates from August.\n\nRed Bull ultimatum: decide before the summer break.\n\nEverything on the line in Spielberg. #MaxVerstappen",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MaxVerstappen"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-verstappen-austrian-gp-ultimatum-exit-clause.html",
+        "headline": "Verstappen's Austrian GP Ultimatum: Red Bull Upgrade Could Decide His F1 Future",
+        "word_count": 496
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Austrian GP\n\n**Image Concept 3A — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** Max Verstappen Red Bull Racing\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** X post 3A, Facebook long-form\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Austrian GP Ultimatum\n**Verified Facts (HIGH confidence):**\n- Austrian GP: June 26-28, Red Bull Ring, Spielberg, Austria\n- Red Bull bringing weight-reduction upgrade package to Austrian GP\n- Red Bull has given Verstappen an \"ultimatum\" to decide his future before summer break (late July)\n- Verstappen's contract exit clause can activate from approximately August-October\n- Clause activates if he is outside top 2 in championship at a specific juncture\n- Verstappen has NOT privately reassured Red Bull he'll stay\n- Door is \"open\" for him to leave per insiders\n- Verstappen's 2026 season: 0 wins, 55 points (P5 in standings), 101 points behind Antonelli",
+        "sources": "- Sources: GPFans, autoracing1.com, f1oversteer.com, sportbible.com"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "F1 Championship Math — Can Antonelli Survive Mercedes' Reliability?",
+      "tier": 2,
+      "status": "",
+      "angle": "Kimi Antonelli leads the 2026 F1 championship with 156 points — but his lead would be 91 points if not for two reliability failures (Russell's Montreal DNF and Antonelli's Barcelona DNF). Instead, it's 41 over Hamilton and 50 over Russell. The question isn't whether Antonelli is fast enough — he clearly is. The question is whether Mercedes can solve their power unit reliability before it hands Hamilton or Russell the title.",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The 2026 F1 championship if Mercedes was RELIABLE:\n\nAntonelli's lead would be ~91 points.\n\nInstead? It's 41.\n\nTwo DNFs (Russell Montreal, Antonelli Barcelona) handed points back to Ferrari and McLaren.\n\nFastest car. Most points. But can they stay on track? #F1 #MercedesF1",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MercedesF1"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-f1-championship-math-antonelli-mercedes-dnf.html",
+        "headline": "F1 Championship Math: How Two DNFs Turned Antonelli's Runaway Lead Into a Real Race",
+        "word_count": 466
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Math\n\n**Image Concept 4A — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** Kimi Antonelli Mercedes\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** X post 4A, Facebook long-form\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Math Analysis\n**Verified Facts (HIGH confidence):**\n- Antonelli leads with 156 pts; Hamilton 115 (-41); Russell 106 (-50)\n- Two reliability failures: Russell DNF Montreal, Antonelli DNF Barcelona\n- Without DNFs, Antonelli's lead would be substantially larger\n- Race points lost: Antonelli would have scored ~25 pts from Barcelona (P2 finish), Russell would have scored ~18 pts from Montreal (P2 finish)",
+        "sources": "- Sources: calculated from official standings, confirmed by multiple outlets\n**Note:** I'm using \"approximately 91 points\" based on estimated lost points — should be presented with appropriate hedging as exact calculation depends on final positions had they finished."
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Austrian GP Preview — Hamilton's Momentum Meets Verstappen's Home Turf",
+      "tier": 2,
+      "status": "",
+      "angle": "Ten days until the Austrian Grand Prix at the Red Bull Ring in Spielberg. Hamilton arrives on a wave of momentum after Barcelona. Verstappen gets a crucial Red Bull upgrade on home soil. And Mercedes needs to prove they've solved the battery reliability crisis. It's a loaded race: Verstappen's multiple wins at the circuit, Red Bull's home advantage, Hamilton's title charge, and the championship picture all collide on June 26-28.",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Austrian GP in 10 days. Red Bull Ring. June 26-28.\n\n🔴 Hamilton: momentum off Barcelona win, 41 pts back\n⭐ Verstappen: major upgrade + home crowd + 0 wins in 2026\n🔵 Mercedes: must prove the battery is fixed\n\nBig race. #AustrianGP #Formula1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#Formula1"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-austrian-gp-preview-hamilton-verstappen-mercedes.html",
+        "headline": "Austrian GP Preview: Hamilton's Momentum Meets Verstappen's Home Turf on June 26-28",
+        "word_count": 496
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Preview\n\n**Image Concept 5A — Social (1080x1350)**\n- **Type:** imagn\n- **Search terms:** Red Bull Ring Formula 1\n- **Credit:** (USA TODAY Sports Images)\n- **Use:** X post 5A, Facebook long-form"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austrian GP Preview\n**Verified Facts (HIGH confidence):**\n- Austrian GP June 26-28, Red Bull Ring Spielberg Austria\n- Red Bull home race, circuit owned by Red Bull\n- Verstappen has multiple wins at Red Bull Ring in his career\n- Massive Red Bull upgrade coming\n- Hamilton arrives with Spanish GP win momentum\n- Mercedes needs reliability fix\n- 10 days from June 16 to June 26",
+        "sources": "- Source: F1 calendar, GPfans, autoracing1.com, statsniper.com preview"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

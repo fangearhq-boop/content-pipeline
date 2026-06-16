@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-16
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-16 | T1 | Hamilton's Barcelona Win — What It Means for the 2026 F1 Title Fight | X, FB, Article | FOLLOW UP |
+| 2026-06-16 | T1 | Mercedes Battery Crisis — Wolff: "Can't Compete for Championship Like This" | X, FB, Article | FOLLOW UP |
+| 2026-06-16 | T2 | Verstappen Austrian GP Ultimatum — Exit Clause, Upgrade, Home Race | X, FB, Article | FOLLOW UP |
+| 2026-06-16 | T2 | F1 Championship Math — Two DNFs Cost Antonelli ~50 Points | X, FB, Article | NEW |
+| 2026-06-16 | T2 | Austrian GP Preview — Hamilton Momentum vs. Verstappen Home Turf | X, FB, Article | NEW |
+
+### STORY 1: Hamilton's Barcelona Win — Title Fight Analysis
+- **Tier:** 1
+- **Category:** Race Analysis / Ferrari
+- **Key facts:** Hamilton won 2026 Barcelona-Catalunya GP; 686 days since last win (2024 Belgian GP); Ferrari's first 2026 win; P1 Hamilton/P2 Russell/P3 Norris = first all-British podium since 1968 US GP; cut Antonelli's lead 66→41 pts; started P3; VSC stop lap 41 (Alonso stoppage); standings: Antonelli 156/Hamilton 115/Russell 106/Verstappen 55
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Back-to-back wins at Austrian GP; Ferrari momentum
+
+### STORY 2: Mercedes Battery Crisis
+- **Tier:** 1
+- **Category:** Technical / Championship Drama
+- **Key facts:** Two battery failures in 3 races: Russell Montreal DNF, Antonelli Barcelona DNF lap 62/66; Toto Wolff quote: "can't compete for a championship with this power unit reliability"; Barcelona battery too damaged to fly home — being shipped by sea; McLaren/Alpine/Williams (Mercedes customers) also suffering failures; Antonelli quote: "I feel a bit empty"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Mercedes battery fix confirmed; Austrian GP reliability test
+
+### STORY 3: Verstappen Austrian GP Ultimatum
+- **Tier:** 2
+- **Category:** Driver News / Red Bull
+- **Key facts:** Red Bull bringing weight-reduction upgrade to Austrian GP (June 26-28); Red Bull ultimatum: decide future before summer break late July; exit clause activates from August if outside top 2 in championship; Verstappen sitting P5 (55 pts, 101 behind Antonelli); only podium 2026 = Canada P3; hasn't privately reassured Red Bull he'll stay; door open to departure per insiders
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen Austria result; exit clause decision
+
+### STORY 4: F1 Championship Math
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Antonelli 156/Hamilton 115(-41)/Russell 106(-50)/Norris 73/Verstappen 55; two DNFs cost Mercedes estimated 40-50 points; championship close due to reliability not pace; Antonelli still fastest car/most wins; Austrian GP next June 26-28
+- **Status:** NEW
+- **Follow-up ideas:** Standings update after Austrian GP
+
+### STORY 5: Austrian GP Preview
+- **Tier:** 2
+- **Category:** Race Preview / Austrian GP
+- **Key facts:** Austrian GP June 26-28 Red Bull Ring Spielberg; Red Bull home race; Verstappen multiple past wins at circuit; major Red Bull upgrade coming; Hamilton arrives with Spanish GP momentum; Mercedes reliability fix needed; 10 days away from June 16
+- **Status:** NEW
+- **Follow-up ideas:** Austrian GP race result and championship impact
+
 ## 2026-06-14
 
 | # | Story | Tier | Tag |

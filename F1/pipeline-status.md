@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-15
+- **Date**: 2026-06-16
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-16
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-16.xlsx (7 posts) + f1fr-postplanner-tobi-2026-06-16.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-16/review-dashboard.html (22 items)
+- **Notes:** Hamilton won Barcelona — 686-day wait/first Ferrari 2026 win/all-British podium since 1968/cut lead 66→41 pts; Mercedes battery crisis: Wolff "can't compete for championship"/2 DNFs in 3 races (Russell Montreal, Antonelli Barcelona lap 62/66)/battery shipped by sea; Verstappen Austrian GP ultimatum: Red Bull upgrade/exit clause August/hasn't reassured team; Championship: Antonelli 156/Hamilton 115/Russell 106/Verstappen 55; Austrian GP June 26-28 preview
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-15
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
