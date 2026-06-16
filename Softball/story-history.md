@@ -3,6 +3,58 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 16, 2026
+
+### Story 1: Texas Tech Lands Moriah Polar — Nation's Top Hitter Joins Historic Transfer Class
+- **Date:** 2026-06-16
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Moriah Polar (.555 BA / 101 hits / 67 runs / 47 RBIs, NFCA Third-Team All-American, Purdue) committed to Texas Tech on June 15, officially announced June 16. Joins Jayden Heavener (No. 1 pitcher, 13-9 / 2.81 ERA / 128 K) who committed June 13. Kasidi Pickering (No. 2 / DNT tag) strongly linked to Texas Tech. WCWS runner-up building historic portal class.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Pickering official announcement (expected Texas Tech)
+  - Texas Tech 2027 roster shape complete picture
+
+### Story 2: Torres Watch — Day 9, Six Days Left
+- **Date:** 2026-06-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 15, 2026)
+- **Angle:** D1 POY Isa Torres (.530 BA / .978 SLG / .591 OBP / 78 runs) enters Day 9 of portal window still uncommitted. Texas and Texas A&M frontrunners. Final week begins — 6 days remain before June 22 close.
+- **Content Produced:** X (2 posts), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Torres commitment announcement (imminent — final week)
+  - Impact on Texas three-peat bid vs. A&M dynasty potential
+
+### Story 3: Beachum — Day 9, No. 1 Transfer Enters Final Week
+- **Date:** 2026-06-16
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 15, 2026)
+- **Angle:** Jaysoni Beachum (.417 BA / 16 HR / 66 RBI / .549 OBP, Softball America No. 1) enters Day 9 without commitment. Career: .375 BA / 37 HR / 180 RBI / 202 hits (3 seasons FSU). NFCA 2024 Freshman of Year, 2026 Second-Team All-American. With Polar now gone to Texas Tech, Beachum is the biggest bat still available.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Jordan Reeves), Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment announcement (imminent — final week)
+  - Where does she land — SEC power or surprise destination?
+
+### Story 4: Georgia Adds Hammonds — Depth Portal Moves
+- **Date:** 2026-06-16
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Georgia adds FAU transfer outfielder Kylie Hammonds. Analysis of depth portal market — programs not chasing headliners still winning the portal by locking up complementary pieces before June 22 deadline.
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Sarah Mitchell), Image concepts
+- **Follow-Up Opportunities:**
+  - Georgia 2027 roster depth assessment
+
+### Story 5: Portal Countdown — Day 9 of 15, Final Six Days
+- **Date:** 2026-06-16
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 8 window open)
+- **Angle:** Day 9 of 15. 6 days remain. Committed: Swan (Texas), Plumlee (Alabama), Altmeyer (Texas), Azua (A&M), Hartley (OSU), Wetteland (Arkansas), Heavener (Texas Tech), Polar (Texas Tech). Still available: Torres (No. 1), Beachum (No. 3). DNT: Pickering (No. 2, likely Texas Tech).
+- **Content Produced:** X (1 post), FB (long-form + caption), Article (Emily Rawlings), Image concepts
+- **Follow-Up Opportunities:**
+  - Daily portal tracker updates through June 22
+
+---
+
 ## June 14, 2026
 
 ### Story 1: Torres Watch — Day 7, Eight Days Left and Still No Answer
