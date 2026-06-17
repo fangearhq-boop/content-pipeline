@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-17",
+  "compiled_at": "2026-06-17T09:17:24.276112+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Rockies 5-2 Game Recap",
+      "type": "Game recap"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Palencia IL / Maton Closer",
+      "type": "Roster news"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Trade Deadline 47 Days",
+      "type": "Analysis"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "PCA All-Star Case",
+      "type": "Bold take"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Justin Steele Return Timeline",
+      "type": "Injury update"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Game 3 Preview — Rockies at Wrigley",
+      "type": "Game preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Rockies 5, Cubs 2 (June 16 at Wrigley)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "PCA hit a leadoff HR but Cubs squandered the early lead. Cabrera exited early with a hand cramp. The bullpen couldn't hold it. The 28-46 Rockies took Game 2 5-2 at Wrigley. Cubs fall to 38-36. Losing to bad teams in a wild card race is unsustainable.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "PCA crushed a leadoff homer. That's the highlight.\n\nCabrera left with a hand cramp, the pen couldn't hold it, and the Rockies (28-46) beat the Cubs 5-2 at Wrigley.\n\n38-36. Every loss to a bad team stings in a wild card race.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 7,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game Recap — Rockies 5, Cubs 2 (June 16 at Wrigley)\n- **[HIGH]** Final score: Rockies 5, Cubs 2 — Source: MLB.com Gameday (824667), ESPN box score\n- **[HIGH]** Game played at Wrigley Field — series context snapshot confirms is_cubs_home=true\n- **[HIGH]** Pete Crow-Armstrong hit a leadoff home run — Source: search results (multiple)\n- **[HIGH]** Edward Cabrera exited early with a hand cramp — Source: SI.com article title \"3 Takeaways After Edward Cabrera Exits Early in Cubs' 5-2 Loss to Rockies\"\n- **[HIGH]** Cubs took 2-0 early lead before Rockies rallied — Source: UrbanMatter/search summary\n- **[HIGH]** Cubs fell to 38-36 after the loss — Source: series context snapshot (generated 2026-06-17 08:30 UTC)\n- **[HIGH]** Rockies record: 28-46 — Source: series context snapshot\n- **[MEDIUM]** Bullpen allowed runs after Cabrera exited — inferred from box score outcome; Cabrera gave ~2 ER per one search summary, Rockies scored 5 total",
+        "sources": "Sources:\n- MLB.com: https://www.mlb.com/gameday/rockies-vs-cubs/2026/06/16/824667\n- ESPN: https://www.espn.com/mlb/boxscore/_/gameId/401815781\n- SI.com: https://www.si.com/mlb/cubs/onsi/3-takeaways-after-edward-cabrera-exits-early-in-cubs-5-2-loss-to-rockies-16"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Bullpen Crisis — Palencia to IL, Maton Takes Closer Role",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Closer Daniel Palencia placed on 15-day IL with right elbow inflammation (second IL stint of 2026). Season line: 2.70 ERA, 3 saves, 19 appearances. Gavin Hollowell recalled from Iowa. Phil Maton inherits the save role. Porter Hodge is already lost for the season; Harvey, Martin, Roberts also on IL.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Daniel Palencia — 2.70 ERA, 3 saves, team-best closer — is now on the IL with right elbow inflammation.\n\nPhil Maton inherits the save role. Porter Hodge is already gone for the year.\n\n47 days until the deadline. The bullpen needs help too.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Roster news / injury update",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 6,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Bullpen Crisis — Palencia to IL, Maton Takes Closer Role\n- **[HIGH]** Daniel Palencia placed on 15-day IL with right elbow inflammation — Source: ESPN, Bleed Cubbie Blue, theScore, ClutchPoints\n- **[HIGH]** Gavin Hollowell recalled from Triple-A Iowa — Source: Bleed Cubbie Blue\n- **[HIGH]** Palencia: 2.70 ERA (career-best), 3 saves in 19 appearances — Source: multiple search results\n- **[HIGH]** This is Palencia's second IL stint of 2026 — Source: Bleacher Nation headline confirms \"loses Daniel Palencia Again\"\n- **[HIGH]** Porter Hodge lost for the season — Source: CubsCrib/search: \"Porter Hodge lost for the season\"\n- **[MEDIUM]** Phil Maton takes closer role — Source: CubsCrib: \"Cubs will likely rely on Phil Maton as the closer for now\"\n- **[MEDIUM]** Harvey, Martin, Roberts also on IL — Source: search summary (\"Even with Palencia back, the Cubs still have Hunter Harvey, Riley Martin, Ethan Roberts on the IL\")",
+        "sources": "Sources:\n- ESPN: https://www.espn.com/mlb/story/_/id/49087921/cubs-put-closer-daniel-palencia-il-elbow-inflammation\n- Bleed Cubbie Blue: https://www.bleedcubbieblue.com/chicago-cubs-roster/222090/cubs-roster-move-daniel-palencia-gavin-hollowell\n- CubsCrib: https://cubbiescrib.com/cubs-bullpen-now-facing-a-scary-reality-after-sudden-daniel-palencia-injury-update"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Trade Deadline — 47 Days, Rotation AND Bullpen Both Need Help",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Palencia's IL adds a second position of need for Jed Hoyer. Horton (elbow surgery, season done), Steele (60-day IL), Taillon (hamstring IL) have stripped the rotation. Sandy Alcántara (Marlins) and Bailey Ober (Twins) named targets for starter help. Now the bullpen is depleted too. 47 days to August 3.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "The Cubs need a rotation arm before August 3.\n\nHorton: out for the season. Steele: back in August at earliest. Taillon: still on the IL.\n\nSandy Alcántara. Bailey Ober. The names are there. 47 days.\n\n#Cubs #MLB #NorthSiders",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Analysis / bold take",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#NorthSiders"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 6,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Trade Deadline — 47 Days, Rotation AND Bullpen Both Need Help\n- **[HIGH]** Cade Horton out for season with elbow surgery — Source: SI.com: \"Chicago Cubs rookie not expected to be part of rotation after major injury\" / \"out for the season after undergoing elbow surgery\"\n- **[HIGH]** Justin Steele on IL — Source: consistent with story history (60-day IL)\n- **[HIGH]** Jameson Taillon on hamstring IL — Source: story history June 13 coverage confirmed\n- **[MEDIUM]** Sandy Alcántara (Marlins) named as trade target for Cubs — Source: Marquee Sports Network, Heavy.com, ClutchPoints, CBS Sports Mike Axisa\n- **[MEDIUM]** Bailey Ober (Twins) named as trade target — Source: Jon Morosi per ClutchPoints\n- **[HIGH]** 47 days to August 3 trade deadline — Source: June 16 brief said 48 days, so June 17 = 47 days",
+        "sources": "Sources:\n- Marquee Sports Network: https://www.marqueesportsnetwork.com/mlb-trade-rumors-deadline-news-chicago-cubs-sandy-alcantara-top-prospects/\n- ClutchPoints: https://clutchpoints.com/mlb/chicago-cubs/cubs-rumors-bailey-ober-trade-target-sandy-alcantara\n- SI.com: https://www.si.com/mlb/cubs/news/chicago-cubs-rookie-not-expected-to-be-part-of-rotation-after-major-injury"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Pete Crow-Armstrong — The All-Star Case That's Being Ignored",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "PCA is hitting .263/.341/.462 with 13 HR, 16 SB, and 3.9 WAR. He hit for the CYCLE on June 15 — the first cycle in all of MLB in 2026. Yet he has only 265,000 All-Star votes and ranks 14th among NL outfielders. The case has never been stronger; the recognition isn't there.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Pete Crow-Armstrong: .263/.341/.462, 13 HR, 16 SB, 3.9 WAR. Hit for the CYCLE two nights ago — first in all of MLB this season.\n\n265,000 All-Star votes. Ranked 14th among NL outfielders.\n\nThat's not a snub. That's a crime.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Bold take / feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 6,
+        "claims_flagged": 6,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pete Crow-Armstrong — The All-Star Case That's Being Ignored\n- **[MEDIUM]** PCA slash line: .263/.341/.462 — Source: multiple search results (SI.com, Yardbarker) referencing this line; not same-day primary source verification\n- **[MEDIUM]** 13 HR, 16 SB — Source: more recent search results (\"13 home runs, 35 RBIs and 16 stolen bases\")\n- **[MEDIUM]** 3.9 WAR — Source: search results (SI.com Cubs piece, Yardbarker)\n- **[HIGH]** PCA hit for cycle June 15, 2026 — Source: ESPN box score confirms Cubs 5-4 win; covered in June 15 & 16 daily briefs\n- **[HIGH]** First cycle in all of MLB in 2026 season — Source: search: \"becoming the first player in MLB to do it during the 2026 season\"\n- **[MEDIUM]** 265,000 All-Star votes, ranked 14th among NL outfielders — Source: search summary citing ChiCitySports/SI.com; exact number 265,408 from one source",
+        "sources": "Sources:\n- SI.com: https://www.si.com/mlb/cubs/pete-crow-armstrong-most-slept-on-all-star-game-candidate\n- Yardbarker: https://www.yardbarker.com/mlb/articles/pete_crow_armstrongs_cycle_made_his_all_star_case_impossible_to_ignore/s1_17664_43960835"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Justin Steele — Throwing Program Starts Monday, Return in Early August",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Justin Steele begins his throwing program June 22 (Monday). Return is 6+ weeks away at minimum — early August. His return could coincide with or follow the August 3 trade deadline, making him a potentially significant second-half factor if Hoyer doesn't add a starter.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5A",
+          "text": "Justin Steele begins his throwing program Monday. Earliest return: early August.\n\nCutting it close to the trade deadline — but a healthy Steele changes the Cubs' outlook completely.\n\nStill the most important development of the second half.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Injury update / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 2,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Justin Steele — Throwing Program Starts Monday, Return in Early August\n- **[MEDIUM]** Steele starts throwing program June 22 — Source: Sportsmockery: \"Justin Steele will start his throwing program on June 22\"\n- **[MEDIUM]** Return estimate: 6+ weeks from June 22 = early August — Source: \"it could be another six-plus weeks before he starts another game for Chicago\"\n- **[HIGH]** Steele on IL — consistent across all sources and story history",
+        "sources": "Sources:\n- Sportsmockery: https://www.sportsmockery.com/chicago-cubs/justin-steele-reveals-timetable-for-return-to-chicago-cubs-starting-rotation/"
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Tonight's Game Preview — Cubs vs Rockies Game 3, 7:05 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Series tied 1-1. Cubs must win Game 3 to take the series at home vs a 28-46 opponent. Dropping two of three to the Rockies would be a damaging result in a wild card race. Starters TBD. Bounce-back game.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6A",
+          "text": "Game 3. Series tied. Tonight at Wrigley, 7:05 PM CT.\n\nThe Cubs need to take this series. You don't let a 28-46 team walk out of Chicago with a split — not in a wild card race.\n\nBounce back starts now.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Game preview / pre-game hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Tonight's Game Preview — Cubs vs Rockies Game 3, 7:05 PM CT\n- **[HIGH]** Game 3 tonight at Wrigley Field, 7:05 PM CT — Source: series context snapshot\n- **[HIGH]** Series tied 1-1 — Source: G1 Cubs 5-4 (June 15), G2 Rockies 5-2 (June 16)\n- **[HIGH]** Rockies record: 28-46 — Source: series context snapshot\n- **[HIGH]** Cubs record: 38-36 — Source: series context snapshot\n- **[LOW]** Ben Brown likely starter for Cubs — inferred from rotation order; series context shows \"TBD\"; not confirmed from published sources",
+        "sources": "Sources:\n- series-context.json snapshot (generated 2026-06-17 08:30 UTC)\n- ESPN series page: https://www.espn.com/mlb/game/_/gameId/401815796/rockies-cubs"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

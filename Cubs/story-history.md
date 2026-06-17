@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-17
+
+### STORY 1: Game Recap — Rockies 5, Cubs 2 (June 16 at Wrigley)
+- **Angle:** NEW STORY (June 16 game recap; PCA leadoff HR sole highlight; Cabrera exited with hand cramp; bullpen couldn't hold it; Rockies 28-46 won at Wrigley; Cubs fall to 38-36)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, score-led morning recap)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 3 result (series tied 1-1 heading in)
+  - Bullpen usage and health after giving up 3+ runs after Cabrera exit
+  - Series result — need to avoid 2-of-3 loss to sub-.500 team
+
+### STORY 2: Bullpen Crisis — Palencia to IL, Maton Takes Closer Role
+- **Angle:** NEW STORY (first coverage of June 16-17 Palencia IL move; right elbow inflammation, 2nd IL stint of 2026; Hollowell recalled; Phil Maton takes closer role; Porter Hodge already lost for season)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Palencia recovery timeline and 15-day return projection
+  - Phil Maton save opportunities and performance tracking
+  - Trade deadline urgency for closer acquisition (now 47 days)
+
+### STORY 3: Trade Deadline — 47 Days, Rotation AND Bullpen Both Need Help
+- **Angle:** FOLLOW UP (deadline tracked since May 14; today's sharpest angle = dual need after Palencia IL; named targets Alcántara and Ober; 47 days to August 3)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Any completed trade or reported Cubs conversations
+  - Steele return (August) as factor in how aggressive Cubs must be
+  - Countdown updates every 5 days
+
+### STORY 4: Pete Crow-Armstrong — The All-Star Case That's Being Ignored
+- **Angle:** NEW STORY (different angle from June 15-16 cycle coverage; focus on All-Star vote injustice; .263/.341/.462, 13 HR, 16 SB, 3.9 WAR; 265K votes ranked 14th)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, bold take/feature)
+- **Follow-Up Opportunities:**
+  - All-Star game selection announcement
+  - PCA stats tracking as voting deadline approaches
+  - Any Cubs players named to All-Star roster
+
+### STORY 5: Justin Steele — Throwing Program Starts Monday, Return in Early August
+- **Angle:** NEW STORY (first standalone coverage of specific Steele return timeline; throwing program June 22; 6+ weeks = early August; deadline-overlap significance)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, injury update/analysis)
+- **Follow-Up Opportunities:**
+  - Steele throwing program updates (June 22 milestone)
+  - Return game announcement
+  - Whether Cubs acquire a starter knowing Steele returns in August
+
+### STORY 6: Tonight's Game Preview — Cubs vs Rockies G3, 7:05 PM CT
+- **Angle:** NEW STORY (Game 3 series decider, tied 1-1; must-win vs 28-46 Rockies; starters TBD)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, game preview/pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 3 result as tomorrow's lead story
+  - Series result — does it change the trade deadline narrative?
+
+---
+
 ## 2026-06-13
 
 ### STORY 1: Cubs 5, Giants 1 — Assad Wins Third Straight, Busch Into McCovey Cove
