@@ -2,6 +2,53 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-17
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-17 | T1 | US Open TOMORROW at Shinnecock Hills — Scheffler Grand Slam bid, 156 players, starts June 18 | X, FB, Article | FOLLOW UP |
+| 2026-06-17 | T1 | LIV Golf Crisis — Saudi PIF Ending Funding After 2026, 4 Events at Risk, New Orleans Postponed | X, FB, Article | FOLLOW UP |
+| 2026-06-17 | T2 | Scheffler Grand Slam Story — 30th Birthday + Father's Day on Sunday, 7th Ever if Wins | X, FB, Article | FOLLOW UP |
+| 2026-06-17 | T2 | McIlroy at Shinnecock — Masters Champ Seeks Second 2026 Major at +1200 | X, FB, Article | FOLLOW UP |
+| 2026-06-17 | T2 | Meijer LPGA Classic Starts Thursday — Blythefield CC MI, June 18-21, Dads Free Sunday | X, FB, Article | NEW |
+
+### STORY 1: US Open Starts Tomorrow
+- **Tier:** 1
+- **Category:** US Open / Major Championship
+- **Key facts:** 126th US Open at Shinnecock Hills Southampton NY; June 18-21; 156 players; defending champ: J.J. Spaun (Oakmont 2025, 64-ft birdie 72nd hole); Scheffler +550 (8:14 AM with Spaun+Howell); McIlroy 7:52 AM (Aberg+Fleetwood); Koepka 7:30 AM (won 2018 Shinnecock); 2018 Shinnecock: no player under par; Scheffler needs US Open for Grand Slam (has Masters x2/PGA/Open)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 leaderboard; Scheffler in contention or not; cut results
+
+### STORY 2: LIV Golf Crisis
+- **Tier:** 1
+- **Category:** LIV Golf / Industry
+- **Key facts:** Saudi PIF confirmed ending funding after 2026; only $200M of $600M committed for 2026 delivered; ~$400M outstanding; 4 remaining events at risk (LIV UK July 23-26 + 3 US August); New Orleans event postponed; "every remaining tournament is on the fence"; new independent board; Ducera Partners hired; hundreds of investors approached
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** PIF delivers remaining $400M or not; LIV UK event status; PGA Tour reinstatement discussions
+
+### STORY 3: Scheffler Grand Slam
+- **Tier:** 2
+- **Category:** Player Feature / Scheffler
+- **Key facts:** Grand Slam completers (6): Sarazen/Hogan/Player/Nicklaus/Woods/McIlroy; Scheffler would be 7th; final round June 21 = 30th birthday AND Father's Day; only 2nd to do it on first attempt (after Tiger); Scheffler majors: Masters 2022+2024, PGA 2025, Open 2025; quote: "not a motivating factor" / "won't consider it a failure"; runner-up to McIlroy at 2026 Masters
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler wins/doesn't win; Grand Slam completion story
+
+### STORY 4: McIlroy at Shinnecock
+- **Tier:** 2
+- **Category:** Player Feature / McIlroy
+- **Key facts:** McIlroy completed Grand Slam at 2026 Masters (6th ever); 2011 US Open win: 16-under 268 Congressional by 8 strokes; +1200 odds; 3 runner-up finishes US Open since 2022; tee time 7:52 AM with Aberg+Fleetwood; seeking 2nd major same year (not done since Tiger)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McIlroy R1 score; weekend contention
+
+### STORY 5: Meijer LPGA Classic
+- **Tier:** 2
+- **Category:** LPGA / Tournament
+- **Key facts:** Tournament: June 18-21 Blythefield CC Belmont MI; 144 players; $3M purse; Father's Day Sunday = free general admission for dads; $10/day general admission; kids 17 under free; KPMG Women's PGA follows June 25-28 Hazeltine
+- **Status:** NEW
+- **Follow-up ideas:** R1 LPGA leaderboard; winner Sunday
+
+---
+
 ## 2026-06-16
 
 | Date | Tier | Story | Platforms | Status |
