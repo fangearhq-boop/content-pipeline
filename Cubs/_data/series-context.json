@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-06-16T08:30:00.669460+00:00",
-  "today_ct": "2026-06-16",
+  "generated_at": "2026-06-17T08:30:00.818631+00:00",
+  "today_ct": "2026-06-17",
   "off_day": false,
   "is_series_start_today": false,
   "series": {
     "opponent": "Colorado Rockies",
     "opponent_id": 115,
-    "opponent_record": "27-46",
-    "cubs_record": "38-35",
+    "opponent_record": "28-46",
+    "cubs_record": "38-36",
     "is_cubs_home": true,
     "venue": "Wrigley Field",
-    "series_length": 2,
+    "series_length": 1,
     "games": [
-      {
-        "game_pk": "824667",
-        "game_date_iso": "2026-06-17T00:05:00Z",
-        "game_date_ct": "Tue 7:05 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "824668",
         "game_date_iso": "2026-06-18T00:05:00Z",
@@ -32,16 +24,16 @@
     "rationale": "Same opponent (Colorado Rockies) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "824667",
+    "game_pk": "824668",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-06-17T00:05:00Z",
-    "game_date_ct": "Tue 7:05 PM CT",
+    "game_date_iso": "2026-06-18T00:05:00Z",
+    "game_date_ct": "Wed 7:05 PM CT",
     "is_cubs_home": true,
     "opponent_id": 115,
     "opponent_name": "Colorado Rockies",
-    "opponent_record": "27-46",
-    "cubs_record": "38-35",
+    "opponent_record": "28-46",
+    "cubs_record": "38-36",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Wrigley Field"
