@@ -184,3 +184,15 @@ Dashboard subfolder: `tfr`
 - **PostPlanner exports:** tfr-postplanner-2026-06-05.xlsx (8 posts), tfr-postplanner-tobi-2026-06-05.xlsx (8 TOBI posts)
 - **Coverage:** Andreeva def. Kostyuk 6-1, 6-3 Women's SF; Chwalinska def. Shnaider 7-6(4), 6-4 (first qualifier ever in RG final); Zverev vs Mensik men's SF preview; Cobolli vs Arnaldi first all-Italian GS SF preview; Women's final preview Andreeva vs Chwalinska June 6
 - **Notes:** verify-facts.py passed; WordPress proxy error; Dashboard push failed (same as all prior runs)
+
+### 2026-06-17 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-17.xlsx (8 posts), tfr-postplanner-tobi-2026-06-17.xlsx (8 TOBI posts)
+- **Coverage:** Kyrgios withdraws from Halle (knee, singles+doubles, Shelton now plays Sonego, Wimbledon doubt); Sabalenka upset by Alexandrova 3-6, 6-3, 7-6 in Berlin R16 (15 BPs saved, opens draw for Rybakina/Gauff); Zverev def. Kopriva 6-3, 4-6, 6-2 ties Nadal's ATP 500 record (121 wins) + Bublik shock exit to qualifier Bellucci 7-6(6) 6-1 (first Halle defending champ R1 exit since 2003); Williams sisters Wimbledon doubles wildcard announced; Queen's Club results (de Minaur, Lehecka, Nakashima QF) + Nottingham (Zheng def. Sakkari)
+- **Notes:**
+  - verify-facts.py: 1 run — passed; 32 claims; image manifest warning (expected, imagn source)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)

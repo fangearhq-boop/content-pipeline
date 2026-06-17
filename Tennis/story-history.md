@@ -445,3 +445,47 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Tier:** 2
 - **Key Facts:** Wimbledon June 29; draw June 26; Sinner defending/no warm-ups; Alcaraz out; £64.2M record prize; finals July 11-12; Sources: wimbledon.com, lta.org.uk
 - **Follow-Up Opportunities:** Draw ceremony coverage June 26; first-round action June 29
+
+---
+
+## June 17, 2026
+
+### Story 1: Kyrgios Withdraws from Halle — Wimbledon Return in Doubt
+- **Date:** 2026-06-17
+- **Angle:** FOLLOW-UP — Terra Wortmann Open (ATP 500, Halle). Kyrgios withdrew from singles AND doubles due to right knee injury (twisted in practice Monday). Lorenzo Sonego enters as lucky loser. Kyrgios says "nothing to worry about, excited for Mallorca and Wimbledon." Wimbledon return under threat per multiple outlets. Had Wimbledon doubles wildcard with Bublik. Stuttgart R1 loss + Halle WD = zero grass wins in 2026.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Knee injury practice Monday; Sonego lucky loser; Shelton vs Sonego now; Kyrgios statement: "nothing to worry about"; Wimbledon doubles WC with Bublik; Sources: terrawortmann-open.de, tennisuptodate.com, tennishead.net, tennisworldusa.org
+- **Follow-Up Opportunities:** Kyrgios Mallorca / Wimbledon status; Shelton-Sonego result
+
+### Story 2: Sabalenka Upset by Alexandrova in Berlin WTA 500
+- **Date:** 2026-06-17
+- **Angle:** NEW STORY — VANDA Pharmaceuticals Berlin Tennis Open R16. Ekaterina Alexandrova (ranked 26th) def. No. 1 Sabalenka 3-6, 6-3, 7-6 in 2h36m. Sabalenka saved 15 break points but lost tiebreak. Opens draw for Rybakina and Gauff. Wimbledon seedings ceremony June 26.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Alexandrova ranked 26; score 3-6, 6-3, 7-6; 2h36m; 15 BPs saved by Sabalenka; Berlin WTA 500; Sources: en.tennistemple.com, eng.belta.by
+- **Follow-Up Opportunities:** Berlin QF/SF/Final (Rybakina or Gauff run); Wimbledon seedings impact
+
+### Story 3: Zverev Ties Nadal's ATP 500 Record; Bublik Shock Exit at Halle
+- **Date:** 2026-06-17
+- **Angle:** NEW STORY — Halle Day 2 results. Zverev def. Kopriva 6-3, 4-6, 6-2 for 121st ATP 500 win, tying Nadal's record. First grass match as Roland Garros champion. Bublik (defending champ) lost to qualifier Bellucci 7-6(6), 6-1 — first Halle defending champion R1 exit since 2003.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Zverev 121 ATP 500 wins ties Nadal; Kopriva 6-3, 4-6, 6-2; Bublik def. by Bellucci 7-6(6) 6-1; first defending champ R1 exit Halle since 2003; Medvedev also advanced; Sources: atptour.com, tennismajors.com, ubitennis.net
+- **Follow-Up Opportunities:** Zverev R2 vs Hanfmann; Bellucci run; Halle QF/SF/Final
+
+### Story 4: Serena and Venus Williams Wimbledon 2026 Doubles Wildcard
+- **Date:** 2026-06-17
+- **Angle:** NEW STORY — Wimbledon announced women's doubles wildcard for Serena (44) and Venus Williams. First competitive pairing since 2022 US Open. Six Wimbledon doubles titles together, 14 Grand Slam doubles titles. Serena making doubles comeback (Queen's Club, Berlin). Wimbledon June 29.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Official wildcard announced June 16; first pairing since 2022 US Open; 6 Wimbledon doubles titles; 14 GS doubles titles; Serena played QC/Berlin doubles 2026; Sources: olympics.com, espn.com, justwomenssports.com
+- **Follow-Up Opportunities:** Williams sisters Wimbledon doubles draw/results; Serena any singles ambitions
+
+### Story 5: Queen's Club Results — de Minaur, Lehecka, Nakashima Advance; Nottingham Updates
+- **Date:** 2026-06-17
+- **Angle:** FOLLOW-UP — HSBC Championships Day 2. de Minaur def. Diallo; Lehecka def. Majchrzak 7-5, 7-6(4); Nakashima def. Buse 6-2, 6-2 → QF (back-to-back QF at Queen's Club); Davidovich Fokina def. Norrie; Shapovalov def. Pinnington Jones 6-4, 4-6, 7-6(3); Fery def. Samuel 6-0, 6-2. Nottingham: Zheng def. Sakkari 4-6, 7-6(1), 6-4; Fernandez advanced.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** de Minaur def. Diallo; Lehecka def. Majchrzak 7-5, 7-6(4); Nakashima def. Buse 6-2, 6-2; Nakashima QF; Zheng def. Sakkari 4-6, 7-6(1), 6-4; Sources: atptour.com, lta.org.uk, tennisuptodate.com
+- **Follow-Up Opportunities:** Queen's Club QF/SF/Final; Nakashima run; Zheng Nottingham run

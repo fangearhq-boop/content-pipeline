@@ -1,0 +1,310 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-17",
+  "compiled_at": "2026-06-17T12:20:11.345056+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 3 — Zverev Nadal record + Bublik",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — Sabalenka upset",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 1 — Kyrgios withdrawal",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Williams sisters Wimbledon WC",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — Queen's Club results roundup",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "Story 1 — Kyrgios Wimbledon angle",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Kyrgios Withdraws from Halle — Wimbledon Return Now in Doubt",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kyrgios is OUT of Halle. Right knee injury in practice. The Shelton matchup is off — Sonego steps in as lucky loser.\n\nKyrgios says he'll be at Wimbledon. Multiple outlets aren't so sure. 🎾 #Halle2026 #TerraWortmannOpen [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Halle2026",
+            "#TerraWortmannOpen"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kyrgios hasn't won a match on grass in 2026. Stuttgart R1 loss. Now withdraws from Halle before playing. Wimbledon is 12 days away.\n\n\"Nothing to worry about\" — we've heard that before. 🎾 #Wimbledon2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-kyrgios-withdraws-halle-wimbledon-doubt.html",
+        "headline": "Kyrgios Withdraws from Halle with Knee Injury, Wimbledon Return Now in Doubt",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Kyrgios Withdraws from Halle\n\n#### Image 1A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Nick Kyrgios\"\n- **Text Overlay:** \"KYRGIOS WITHDRAWS\" / \"Wimbledon in Doubt\" (white on dark overlay, TFR green accent)\n- **Composition:** Head/action shot; overlay bar at bottom; urgent visual energy\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 1B — Article Hero\n- **Photo Search Terms:** \"Nick Kyrgios grass\"\n- **Text Overlay:** None (article featured image — WordPress handles)\n- **Composition:** Landscape 1200×630; action shot on grass or Halle setting\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Kyrgios Withdraws from Halle — Wimbledon Return in Doubt\n**Decision:** FOLLOW-UP — June 16 pipeline covered Shelton vs Kyrgios as the Day 2 headline matchup. Kyrgios withdrawing before the match is a major new development.\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Kyrgios withdrew from Halle Open singles due to right knee injury | HIGH | terrawortmann-open.de (official tournament statement) |\n| Kyrgios also withdrew from Halle doubles | HIGH | tennisuptodate.com |\n| Injury sustained during practice on Monday afternoon | HIGH | tennisworldusa.org, en.tennistemple.com |\n| Kyrgios twisted his right knee in final 3 minutes of practice session | HIGH | tennisworldusa.org |\n| Lorenzo Sonego enters as lucky loser to replace Kyrgios | HIGH | x.com Craig Gabriel post, terrawortmann-open.de |\n| Kyrgios vs Shelton was scheduled as R1 match | HIGH | Prior pipeline June 16 |\n| Kyrgios had received a Halle wild card entry | HIGH | Prior pipeline June 16, atptour.com |\n| Kyrgios had Wimbledon doubles wildcard with Alexander Bublik | HIGH | x.com Craig Gabriel post (crosscourt1) |\n| Kyrgios said: \"Nothing to worry about, excited to play Mallorca and Wimbledon\" | HIGH | en.tennistemple.com — Kyrgios public statement |\n| Wimbledon return now in doubt per multiple sources | MEDIUM | tennisuptodate.com, sportskeeda.com |\n| Kyrgios lost R1 in Stuttgart (vs Brayden Schnur) — second grass setback | HIGH | Prior pipeline June 15 |\n| Shelton now faces Lorenzo Sonego in R1 | HIGH | terrawortmann-open.de, Craig Gabriel X post |\n**Freshness:** Withdrawal announced June 16-17. Direct tournament statement from terrawortmann-open.de confirms. Multiple tennis outlets (tennishead.net, tennisuptodate.com, tennisworldusa.org) published within 24 hours.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Sabalenka Upset by Alexandrova in Berlin — Wimbledon Shakeup",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "SABALENKA IS OUT.\n\nWorld No. 1 loses to Alexandrova 3-6, 6-3, 7-6 at Berlin. 2h36m. Saved 15 break points. Still lost the tiebreak.\n\nWimbledon is 12 days away. 🎾 #BerlinOpen #WTATennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BerlinOpen",
+            "#WTATennis"
+          ],
+          "char_count": 190
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Sabalenka out in Berlin means the draw is wide open for Rybakina and Gauff.\n\nThe race to be No. 1 seed at Wimbledon just got more interesting. Draw ceremony is June 26. 🎾 #BerlinOpen #WTATennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BerlinOpen",
+            "#WTATennis"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-sabalenka-upset-alexandrova-berlin-wimbledon.html",
+        "headline": "Sabalenka Out: World No. 1 Falls to Alexandrova in Berlin with Wimbledon 12 Days Out",
+        "word_count": 616
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sabalenka Upset in Berlin\n\n#### Image 2A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Aryna Sabalenka\"\n- **Text Overlay:** \"UPSET\" / \"Alexandrova def. Sabalenka 3-6, 6-3, 7-6\" (white on dark overlay)\n- **Composition:** Clean action shot; bold text overlay at bottom\n- **Usage:** X Text Posts A & B, Facebook Long-Form\n\n#### Image 2B — Article Hero\n- **Photo Search Terms:** \"Aryna Sabalenka\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sabalenka Upset by Alexandrova in Berlin\n**Decision:** NEW STORY — World No. 1 eliminated in R16 of WTA 500 grass event 12 days before Wimbledon.\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Ekaterina Alexandrova def. Aryna Sabalenka 3-6, 6-3, 7-6 | HIGH | en.tennistemple.com, eng.belta.by |\n| Match lasted 2 hours 36 minutes | HIGH | en.tennistemple.com |\n| 15 break points saved by Sabalenka during the match | HIGH | en.tennistemple.com |\n| Alexandrova ranked 26th in the world | HIGH | en.tennistemple.com |\n| This was the Round of 16 (second round) at Berlin WTA 500 | HIGH | en.tennistemple.com, engbelta.by |\n| Sabalenka was No. 1 seed at Berlin | HIGH | Prior pipeline June 16 |\n| Sabalenka was the world No. 1 | HIGH | Prior pipeline June 16, wtatennis.com |\n| Tournament: VANDA Pharmaceuticals Berlin Tennis Open, June 15-21 | HIGH | Prior pipeline June 16 |\n| Gauff vs Badosa also scheduled for Wednesday June 17 at Berlin | HIGH | wtatennis.com match schedule, en.tennistemple.com |\n| Rybakina had a first-round bye; would play in R16 | MEDIUM | Prior pipeline June 16, wtatennis.com draw |\n| Wimbledon seedings draw ceremony June 26 | HIGH | wimbledon.com, prior pipeline |\n**Freshness:** Match played June 17, 2026 — confirmed by eng.belta.by (official Belarusian sports news), tennistemple.com. Cross-reference: 2 sources confirm 3-6, 6-3, 7-6 scoreline.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Zverev Ties Nadal's ATP 500 Record; Bublik Shock Exit",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Zverev's first match as a Grand Slam champion: a win over Kopriva at Halle.\n\nHis 121st ATP 500 win ties Rafael Nadal's all-time record. Not bad for a Tuesday. 🎾 #Halle2026 #TerraWortmannOpen [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Halle2026",
+            "#TerraWortmannOpen"
+          ],
+          "char_count": 196
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Defending Halle champion Bublik: gone. Lost to qualifier Bellucci 7-6(6), 6-1.\n\nFirst time a Halle defending champion was eliminated in the first round since 2003. 😬 #Halle2026 #TerraWortmannOpen [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Halle2026",
+            "#TerraWortmannOpen"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-zverev-ties-nadal-atp500-record-bublik-halle.html",
+        "headline": "Zverev Ties Nadal's ATP 500 Record with 121st Win at Halle; Defending Champion Bublik Falls in Round One",
+        "word_count": 747
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Zverev Ties Nadal Record; Bublik Exit\n\n#### Image 3A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Alexander Zverev\"\n- **Text Overlay:** \"121 ATP 500 WINS\" / \"Ties Nadal's Record\" (gold accent, dark bar)\n- **Composition:** Celebratory or focused action; milestone feel\n- **Usage:** X Text Posts A & B, Facebook Long-Form\n\n#### Image 3B — Article Hero\n- **Photo Search Terms:** \"Alexander Zverev Halle\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Zverev Ties Nadal's ATP 500 Record; Bublik Shock Exit\n**Decision:** NEW STORY — Day 2 Halle results. June 16 pipeline covered these matches as previews; the results are new content.\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Zverev def. Kopriva 6-3, 4-6, 6-2 in Halle R1 | HIGH | atptour.com, tennismajors.com, sporty.com |\n| Zverev recorded his 121st ATP 500 win with this victory | HIGH | atptour.com headline, ubitennis.net |\n| 121 wins ties Rafael Nadal's all-time ATP 500 record | HIGH | atptour.com, voi.id, ubitennis.net |\n| ATP 500 series created in 2009 | HIGH | atptour.com |\n| Zverev's Kopriva win was his first grass match since Roland Garros title | HIGH | atptour.com, tennismajors.com |\n| Zverev won Roland Garros June 8 (9 days prior) | HIGH | Prior pipeline June 8 |\n| Bublik (defending Halle champion) lost to Mattia Bellucci 7-6(6), 6-1 | HIGH | msn.com, tennismajors.com, ubitennis.net |\n| Bellucci was a qualifier entering the draw | HIGH | msn.com, tennismajors.com |\n| First time a Halle defending champion lost R1 since 2003 | HIGH | tennismajors.com |\n| Medvedev also advanced on Day 2 | HIGH | tennisuptodate.com Halle Day 2 roundup |\n| Zverev's next opponent in R2: Yannick Hanfmann | MEDIUM | tennistonic.com draw analysis |\n**Freshness:** Day 2 results published June 16; confirmed by multiple outlets. ATP official page confirmed. Cross-referenced atptour.com + 3 secondary sources.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Serena and Venus Williams Reunite for Wimbledon Doubles Wildcard",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Serena and Venus Williams are playing Wimbledon 2026 — women's doubles, wildcard entry.\n\nTheir first time partnering competitively since the 2022 US Open. Six Wimbledon doubles titles together. 🎾👑 #Wimbledon2026 #WilliamsSisters [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026",
+            "#WilliamsSisters"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-serena-venus-williams-wimbledon-doubles-wildcard.html",
+        "headline": "Serena and Venus Williams Awarded Wimbledon 2026 Doubles Wildcard — First Partnership Since 2022 US Open",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Williams Sisters Wimbledon Doubles Wildcard\n\n#### Image 4A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Serena Williams Venus Williams\"\n- **Text Overlay:** \"WIMBLEDON 2026\" / \"Williams Sisters Return\" (regal purple/green color scheme)\n- **Composition:** Side-by-side or doubles action if available; legacy feel\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 4B — Article Hero\n- **Photo Search Terms:** \"Serena Williams Venus Williams\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630; warm nostalgic lighting\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Serena and Venus Williams — Wimbledon 2026 Doubles Wildcard\n**Decision:** NEW STORY — Official Wimbledon wildcard announcement made June 16. Not covered in prior pipeline (prior coverage was Serena doubles at Queen's Club/Berlin in different competitions).\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Serena and Venus Williams received Wimbledon 2026 women's doubles wildcard | HIGH | olympics.com, espn.com, justwomenssports.com |\n| Wildcard announced June 16, 2026 | HIGH | olympics.com |\n| First competitive pairing since 2022 US Open | HIGH | karlobag.eu, outlookindia.com |\n| Serena is 44 years old | HIGH | outlookindia.com |\n| Sisters have won Wimbledon doubles title 6 times | HIGH | karlobag.eu, olympics.com |\n| Have 14 Grand Slam doubles titles together | HIGH | olympics.com |\n| Serena has been playing doubles comeback at Queen's Club and Berlin 2026 | HIGH | Prior pipeline June 16 |\n| Serena's singles comeback: she is NOT in the Wimbledon singles draw | MEDIUM | Inferred from wildcard announcement language |\n| Wimbledon begins June 29, 2026 | HIGH | wimbledon.com, multiple sources |\n| Draw ceremony June 26 | HIGH | Prior pipeline June 16 |\n| Qualifying begins June 22 | HIGH | Prior pipeline June 16 |\n**Freshness:** Official announcement June 16 (yesterday). ESPN, Olympics.com, and JWS all published. Fresh and confirmed by 3+ sources.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Queen's Club Results — de Minaur, Lehecka, Nakashima Advance",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Queen's Club Day 2 results: de Minaur ✅ Lehecka def. Majchrzak 7-5, 7-6(4) ✅ Nakashima into the QF ✅\n\nAt Nottingham: Zheng def. Sakkari in three sets ✅\n\nGrass week 2 taking shape. 🎾 #QueensClub #NottinghamOpen [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#QueensClub",
+            "#NottinghamOpen"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-queens-club-nottingham-results-deminaur-nakashima.html",
+        "headline": "Queen's Club Day 2 Results: de Minaur, Lehecka, Nakashima Advance; Zheng Wins in Nottingham",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Queen's Club Results Roundup\n\n#### Image 5A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Alex de Minaur\"\n- **Text Overlay:** \"QUEEN'S CLUB DAY 2\" / \"de Minaur • Lehecka • Nakashima Through\" (dark overlay, white text)\n- **Composition:** Action shot on grass; clean layout\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 5B — Article Hero\n- **Photo Search Terms:** \"Brandon Nakashima\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630\n- **Usage:** Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Queen's Club Results + Nottingham R2 Update\n**Decision:** FOLLOW-UP — June 16 pipeline previewed de Minaur vs Diallo and Majchrzak vs Lehecka as Day 2 matches. Results are new.\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Alex de Minaur def. Gabriel Diallo in R1 Queen's Club | HIGH | atptour.com, lta.org.uk |\n| Jiri Lehecka def. Kamil Majchrzak 7-5, 7-6(4) in R1 | HIGH | tenngrand.com, atptour.com |\n| Brandon Nakashima def. Ignacio Buse 6-2, 6-2 → reached QF | HIGH | atptour.com, lta.org.uk |\n| Nakashima made back-to-back QF at Queen's Club | HIGH | atptour.com |\n| Alejandro Davidovich Fokina def. Cam Norrie | HIGH | atptour.com (search result) |\n| Denis Shapovalov def. Jack Pinnington Jones 6-4, 4-6, 7-6(3) | HIGH | atptour.com (search result) |\n| Arthur Fery def. Toby Samuel 6-0, 6-2 — Fery's first HSBC win | HIGH | atptour.com (search result) |\n| Zheng Qinwen def. Maria Sakkari 4-6, 7-6(1), 6-4 at Nottingham | HIGH | WebSearch — Nottingham results June 17 |\n| Leylah Fernandez advanced at Nottingham | MEDIUM | WebSearch — Nottingham June 17 schedule/results |\n| Queen's Club runs June 15-21 (ATP 500) | HIGH | Prior pipeline June 16 |\n| Nottingham Open runs June 15-21 (WTA 250) | HIGH | Prior pipeline June 16 |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
