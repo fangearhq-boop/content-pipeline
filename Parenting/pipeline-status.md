@@ -1,5 +1,36 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 17, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Guidecraft Kitchen Helper Tower recall (CPSC May 14, 2026; 25,235 units; fall hazard; free repair kit; 800-524-3555; guidecraft.com/pages/product-recall); COS Park System Master Plan survey open through Aug 3 (coloradosprings.gov/ParkSystemMasterPlan; interactive map; meetings June 24-25 + July 9); Western Street Breakfast June 17 today (5:30-9 AM; Pikes Peak Ave & Tejon; free; $5 tokens; Kid's Corral; Exit West + Flying W Wranglers); PPIHC last-call ticket reminder (Race Day June 21 Father's Day; green flag 7:30 AM; online only ppihc.org; kids under 10 free; Fan Fest June 19); D20 superintendent update (Haberer removed May 15; Dr. Susan Field interim unanimously May 19; 19 years D20; former principal Woodmen-Roberts Elementary; asd20.org) |
+| Story History Check | COMPLETE | 3 NEW STORIES (Guidecraft recall, COS Park survey, D20 superintendent) + 1 REPEAT-ANGLE (Western Street Breakfast — annual event on date) + 1 FOLLOW-UP (PPIHC last-call tickets — June 15 was NEW) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for Story 1; 1 each for Stories 2-5); all under 280 chars (2 violations fixed after verify-facts.py flag); 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — 10 images; all not_started; photo_source: gemini |
+| Articles | COMPLETE | 5 articles (500-1000 words; Quick Reference tables in each; What's Next sections; 0 exclamation marks; no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py passed after 2 runs (2 char violations fixed on X posts rewrite); 87 claims; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images; 21 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-17.xlsx (6 posts: 6 X + 0 FB; 13:05–20:30 MT) + TOBI cosp-postplanner-tobi-2026-06-17.xlsx (6 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-17)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total posts (PostPlanner xlsx: 6 X posts)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-17.xlsx (6 posts), cosp-postplanner-tobi-2026-06-17.xlsx (6 TOBI posts)
+- **Coverage:** Guidecraft Kitchen Helper Tower recall (CPSC May 14; 25,235 units Classic+Contemporary 9 colors; platform loosens/detaches; 11 falls, 3 injuries; sold June 2022–Oct 2023 ~$200; free repair kit; 800-524-3555; ProductSupport@guidecraft.com; guidecraft.com/pages/product-recall); COS Park System Master Plan survey (online through Aug 3, coloradosprings.gov/ParkSystemMasterPlan; interactive map; in-person meetings June 24-25 + July 9; top feedback: restrooms + drinking fountains; 10-15 year investment plan); Western Street Breakfast June 17 today (5:30-9 AM; Pikes Peak Ave & Tejon; free admission; $5 token; under 5 free; Kid's Corral petting zoo/steer roping/dress-up; Exit West + Flying W Wranglers); PPIHC last-call ticket reminder (Race Day June 21 Father's Day; 7:30 AM green flag; online only ppihc.org/Humanitix; post-June 1 pricing; kids under 10 free; 7 spectator areas; Fan Fest June 19 5-9 PM free); D20 interim superintendent (Haberer removed May 15 lack of confidence; Dr. Susan Field appointed unanimously May 19; 19 years D20; former principal Woodmen-Roberts Elementary; current Asst Supt Learning Services; ~26,000 students ~40 schools; asd20.org)
+
+---
+
 ## Latest Run: June 16, 2026
 
 | Step | Status | Notes |

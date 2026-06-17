@@ -2,6 +2,50 @@
 
 ---
 
+## June 17, 2026
+
+### Story 1: Guidecraft Kitchen Helper Tower Recall — Fall Hazard, Free Repair
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall May 14, 2026. 25,235 units. Guidecraft Kitchen Helper Towers Classic and Contemporary (9 colors). Platform can loosen and detach — fall hazard. 11 falls, 3 injuries (bloody nose, bruises). Sold Amazon/Target/Guidecraft.com/Wayfair/Walmart/Maisonette/Overstock June 2022–Oct 2023, ~$200. Remedy: free repair kit (not return). Contact 800-524-3555 (M-F 8 AM–8 PM ET), ProductSupport@guidecraft.com, or guidecraft.com/pages/product-recall. Stop use now.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC recall May 14, 2026; 25,235 units; Classic + Contemporary styles, 9 colors; platform loosens and detaches; 11 falls confirmed, 3 injuries; sold June 2022–Oct 2023; ~$200 retail; free repair kit (not refund); 800-524-3555; ProductSupport@guidecraft.com; guidecraft.com/pages/product-recall; Sources: cpsc.gov, guidecraft.com
+- **Follow-Up Opportunities:** Reminder post in 2 weeks if repair kit uptake is low
+
+### Story 2: COS Park System Master Plan Survey — Open Through August 3
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — City of Colorado Springs Phase 2 community engagement for 2026 Park System Master Plan. Online survey open through August 3 at coloradosprings.gov/ParkSystemMasterPlan. Interactive map lets residents pinpoint specific parks/trails. In-person public meetings June 24-25 and July 9. Early community feedback: more restrooms and drinking fountains at existing parks. Guides COS parks investment for next 10-15 years.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Survey open through August 3, 2026; coloradosprings.gov/ParkSystemMasterPlan; interactive map available; in-person meetings June 24-25 and July 9; top early feedback: restrooms + drinking fountains; plan covers 10-15 year investment horizon; Phase 2 (community engagement); Sources: coloradosprings.gov/ParkSystemMasterPlan
+- **Follow-Up Opportunities:** Reminder before July 9 public meeting; survey close recap August 3-4
+
+### Story 3: Western Street Breakfast 2026 — Annual Downtown COS Tradition
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Annual Colorado Springs Western Street Breakfast, TODAY June 17, 5:30-9 AM. Pikes Peak Avenue and Tejon Street downtown. Free admission, $5 breakfast token, children under 5 free. Kid's Corral: petting zoo, steer roping, Western dress-up contest. Entertainment: Exit West + Flying W Wranglers. Recurring June 17 annual event.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** June 17, 2026 (annual); 5:30-9 AM; Pikes Peak Avenue & Tejon Street; free admission; $5 breakfast token; under 5 free; Kid's Corral (petting zoo/steer roping/dress-up); Exit West + Flying W Wranglers; Sources: visitcos.com, coswesternstreetbreakfast.com
+- **Follow-Up Opportunities:** Save the date reminder early June 2027
+
+### Story 4: Pikes Peak Hill Climb — Tickets Online Only, Race Day June 21 (Father's Day)
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (June 15 NEW story) — Last-call ticket reminder. Race Day June 21 (Father's Day). Green flag 7:30 AM. Gates open as early as 2:30 AM. Tickets online ONLY at ppihc.org (Humanitix) — NOT sold at gate. Post-June 1 pricing in effect, expected to sell out. Kids under 10 free Race Day. 7 spectator areas. Fan Fest THIS Thursday June 19, 5-9 PM downtown COS 10 blocks, free.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Race Day June 21 (Father's Day); green flag 7:30 AM; gates as early as 2:30 AM; tickets online ONLY ppihc.org/Humanitix; NOT sold at gate; post-June 1 pricing; kids under 10 free; 7 spectator areas; Devil's Playground 12,780 ft; Fan Fest June 19 5-9 PM free downtown; Sources: ppihc.org, humanitix.com
+- **Follow-Up Opportunities:** Race Day recap June 22
+
+### Story 5: D20 Names Dr. Susan Field Interim Superintendent for 2026-27
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Academy District 20 Board removed superintendent Jinger Haberer May 15, 2026 (lack of confidence). Board unanimously named Dr. Susan Field interim superintendent May 19, 2026. Field: 19 years D20 experience; former principal Woodmen-Roberts Elementary; currently Assistant Superintendent for Learning Services. D20 serves ~26,000 students, ~40 schools, northern COS. Schools operate normally. No permanent search timeline announced. asd20.org.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Haberer removed May 15, 2026 (lack of confidence vote); Field appointed May 19, 2026 (unanimous); 19 years D20; former principal Woodmen-Roberts Elementary; Assistant Superintendent for Learning Services; ~26,000 students; ~40 schools; northern COS; asd20.org; Sources: gazette.com, koaa.com, asd20.org
+- **Follow-Up Opportunities:** Permanent superintendent search announcement; fall 2026 school year D20 update
+
+---
+
 ## June 16, 2026
 
 ### Story 1: Otteroo Infant Neck Floats — CPSC Renews "Do Not Use" Warning

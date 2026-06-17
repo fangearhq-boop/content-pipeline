@@ -1,0 +1,301 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-17",
+  "compiled_at": "2026-06-17T12:34:52.539192+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Guidecraft recall",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 — Park Master Plan survey",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 — Western Street Breakfast",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Hill Climb ticket reminder",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 — D20 superintendent update",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 1 B — Guidecraft recall follow",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Guidecraft Kitchen Helper Tower Recall — Free Repair Available",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RECALL: 25,000+ Guidecraft Kitchen Helper Towers — fall hazard. Platform can loosen and detach. 11 falls, 3 injuries confirmed.\n\nStop use now. Free repair: guidecraft.com/pages/product-recall or 800-524-3555 ⚠️ #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 276
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Still seeing Kitchen Helper Towers in use — they were recalled in May 2026 due to a fall hazard. 25,000+ units. Amazon, Target, Walmart.\n\nFree repair kit at guidecraft.com/pages/product-recall ⚠️ #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-guidecraft-kitchen-helper-tower-recall-fall-hazard.html",
+        "headline": "Guidecraft Kitchen Helper Tower Recall: Over 25,000 Units, Fall Hazard, Free Repair Available",
+        "word_count": 532
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Guidecraft Kitchen Helper Tower Recall\n\n#### Image 1A — Social (X/Twitter, 1200×675)\n**Gemini Prompt:**\nA toddler-sized wooden kitchen helper standing tower photographed in a softly lit home kitchen setting. The tower is empty and slightly tilted, with the internal platform visibly loose. Warm morning light from a nearby window. Neutral tones — white cabinetry, wood grain floor, cream walls. A small stuffed animal sits nearby to suggest a child's space. Clean visual space in the bottom third for text overlay. Photorealistic illustration style, family-home mood, slight tension in the composition. No text, no watermarks, no human figures.\n\n**Text Overlay (Canva):** \"RECALL\" / \"Guidecraft Kitchen Helper Tower\" (red alert badge + white text on dark bar)\n**Usage:** X/Twitter post, Facebook long-form\n\n#### Image 1B — Article Hero (1200×630)\n**Gemini Prompt:**\nWide-angle illustration of a bright, organized family kitchen with a wooden toddler standing tower prominently in the foreground, platform area visible and slightly misaligned to suggest instability. Warm domestic lighting, family-friendly color palette (soft blues, warm wood tones). Clean composition in bottom third for potential overlay. No human figures. No text. No watermarks. Photorealistic illustration style.\n\n**Usage:** Article featured image (uploaded to WordPress)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Guidecraft Kitchen Helper Tower Recall\n**Decision:** NEW STORY — Not previously covered in COS Parenting pipeline. Recall announced May 14, 2026. Verified fall hazard with confirmed child injuries.\n**Verified Facts:**\n| Fact | Priority | Confidence | Source |\n|------|----------|-----------|--------|\n| Recall affects 25,235 Guidecraft Kitchen Helper Towers | HIGH (unit count) | HIGH | cpsc.gov official recall page |\n| Recall announced May 14, 2026 | MEDIUM | HIGH | cpsc.gov |\n| Platform inside tower can loosen or detach over time | HIGH | HIGH | cpsc.gov, schiffmanfirm.com |\n| This poses a fall hazard to young children | HIGH | HIGH | cpsc.gov |\n| CPSC received 11 reports of children falling | HIGH (stats/numbers) | HIGH | cpsc.gov, dailyhornet.com |\n| 3 injuries confirmed: bloody nose and bruises | HIGH (stats) | HIGH | cpsc.gov |\n| Affects Classic and Contemporary styles in nine colors | MEDIUM | HIGH | cpsc.gov |\n| Sold at Amazon, Target, Guidecraft.com, Wayfair, Walmart, Maisonette, Overstock | HIGH (retailer accuracy) | HIGH | cpsc.gov, schiffmanfirm.com |\n| Sale period: June 2022 through October 2023 | MEDIUM | HIGH | cpsc.gov |\n| Price: approximately $200 | HIGH (price) | HIGH | cpsc.gov |\n| REMEDY: Free repair kit (not a full refund) | HIGH (action item) | HIGH | cpsc.gov |\n| Contact: 800-524-3555 (8 AM-8 PM ET, Mon-Fri) | HIGH (phone) | HIGH | cpsc.gov |\n| Email: ProductSupport@guidecraft.com | HIGH (contact) | HIGH | cpsc.gov |\n| Website: guidecraft.com/pages/product-recall | HIGH (URL) | HIGH | cpsc.gov |\n| Action: Stop use immediately | HIGH | HIGH | cpsc.gov |\n**Freshness:** Recall announced May 14, 2026. Not previously covered in this pipeline. Action is still urgent — families who bought this product have not had a safety alert from this channel yet.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "COS Park System Master Plan Survey — Your Input Shapes Parks for the Next 15 Years",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "COS families — your parks survey is OPEN now.\n\nTell the city what playgrounds, trails, and open spaces need most. Online through Aug 3. In-person meetings June 24-25.\n\ncoloradosprings.gov/ParkSystemMasterPlan 🌳 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-cos-park-system-master-plan-survey-2026.html",
+        "headline": "COS Parks Survey Is Open Now — Help Shape Playgrounds and Trails for the Next 15 Years",
+        "word_count": 626
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Park System Master Plan Survey\n\n#### Image 2A — Social (1200×675)\n**Gemini Prompt:**\nAn aerial-perspective watercolor illustration of a Colorado Springs neighborhood park in summer — green lawns, mature trees casting dappled shade, a playground with colorful equipment, a winding paved trail, picnic tables, and distant Pikes Peak on the horizon under a bright blue sky. Families and children are suggested as small abstract shapes rather than detailed figures. Warm summer light. Clean visual space in the bottom third for text overlay. No text, no watermarks. Fresh, hopeful, community-focused feel.\n\n**Text Overlay (Canva):** \"YOUR PARKS. YOUR VOICE.\" / \"Survey Open Now\" (teal #0097A7 + white text)\n**Usage:** X/Twitter, Facebook long-form\n\n#### Image 2B — Article Hero (1200×630)\n**Gemini Prompt:**\nA sunny COS park scene in Colorado mountain environment — wide green lawn, playground equipment in the middle distance, Pikes Peak visible in the background. Abstract family shapes suggested (not detailed). Warm summer afternoon light. Landscape format. Bottom third clean for overlay if needed. Watercolor illustration style, optimistic community mood. No text. No watermarks.\n\n**Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Park System Master Plan Survey\n**Decision:** NEW STORY — Survey opened June 13, 2026. Not previously covered. In-person meetings start June 24, giving families a one-week window to participate online first.\n**Verified Facts:**\n| Fact | Priority | Confidence | Source |\n|------|----------|-----------|--------|\n| Survey open June 13 through August 3, 2026 | HIGH (dates) | HIGH | coloradosprings.gov/news |\n| Survey URL: coloradosprings.gov/ParkSystemMasterPlan | HIGH (URL) | HIGH | coloradosprings.gov |\n| In-person public meetings: June 24-25 and July 9 | HIGH (dates) | HIGH | coloradosprings.gov/news |\n| Interactive map lets residents flag specific parks | MEDIUM | HIGH | coloradosprings.gov |\n| Plan guides parks, trails, open spaces for next 10-15 years | MEDIUM | HIGH | coloradosprings.gov |\n| This is Phase 2 of the process | LOW | HIGH | fox21news.com |\n| Early feedback: residents want more restrooms/drinking fountains | MEDIUM | HIGH | coloradosprings.gov summary |\n| Plan covers parks, recreation, cultural services | MEDIUM | HIGH | coloradosprings.gov |\n| City of Colorado Springs Parks, Recreation and Cultural Services manages system | LOW | HIGH | coloradosprings.gov/PRCS |\n**Freshness:** Survey started June 13 (4 days ago). Upcoming in-person meetings June 24-25. Story is timely and actionable for families.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Western Street Breakfast — TODAY, Downtown COS",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "This morning in downtown COS: Western Street Breakfast 2026 — a free annual tradition at Pikes Peak Ave & Tejon. $5 hot breakfast, Kid's Corral, petting zoo, steer roping, live music.\n\nThe best kind of Wednesday. 🤠 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-western-street-breakfast-2026-cos.html",
+        "headline": "Western Street Breakfast 2026: What Families Need to Know About Colorado Springs' Downtown June Tradition",
+        "word_count": 725
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Western Street Breakfast\n\n#### Image 3A — Social (1200×675)\n**Gemini Prompt:**\nA vibrant Western-themed street festival scene in a Colorado downtown setting — a street closed off for festivities, with a colorful spread of Western decorations, hay bales, a hint of a small petting zoo in the distance, and families in Western-inspired attire gathered at outdoor tables. Warm early morning summer light — golden hour glow. Mountain silhouettes in the background. Festival energy without showing individual identifiable faces. Clean space in the bottom third for text overlay. Warm, celebratory, community-pride mood. No text. No watermarks.\n\n**Text Overlay (Canva):** \"WESTERN STREET BREAKFAST\" / \"Downtown COS Tradition\" (warm gold #F4C542 + dark text)\n**Usage:** X/Twitter, Facebook long-form\n\n#### Image 3B — Article Hero (1200×630)\n**Gemini Prompt:**\nWestern breakfast street festival illustration — wide main street in a Colorado downtown, morning light, Western decor, outdoor seating, people in cowboy attire suggested as abstract warm shapes. Mountains visible in background. Warm sunrise tones — orange, gold, cream. No individual faces. No text. No watermarks. Celebratory, nostalgic, small-town-pride feel.\n\n**Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Western Street Breakfast\n**Decision:** NEW STORY — Annual event happening TODAY June 17. Not previously covered in this pipeline season.\n**Verified Facts:**\n| Fact | Priority | Confidence | Source |\n|------|----------|-----------|--------|\n| Event: Colorado Springs Western Street Breakfast | HIGH | HIGH | visitcos.com, colorado.com, cswesternstreetbreakfast.com |\n| Date: Wednesday, June 17, 2026 | HIGH (date) | HIGH | visitcos.com, eventbrite.com |\n| Time: 5:30 AM - 9:00 AM | HIGH (time) | HIGH | visitcos.com, colorado.com |\n| Location: Pikes Peak Avenue & Tejon Street, downtown COS | HIGH (address) | HIGH | visitcos.com, cswesternstreetbreakfast.com |\n| Admission: FREE | HIGH (price) | HIGH | visitcos.com |\n| Hot breakfast tokens: $5 per person | HIGH (price) | HIGH | visitcos.com |\n| Kids under 5 eat free | HIGH (age range) | HIGH | visitcos.com |\n| Kid's Corral: petting zoo, steer roping, Western dress-up contest | HIGH | HIGH | colorado.com |\n| Live entertainment: Exit West and Flying W Wranglers | MEDIUM | HIGH | cswesternstreetbreakfast.com |\n| Annual tradition kicking off Colorado Springs rodeo season | LOW | HIGH | springsmag.com |\n**Freshness:** TODAY's event (June 17, 2026). Confirmed by multiple sources. The event happened this morning — coverage is timely for community documentation.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Pikes Peak Hill Climb This Sunday — Tickets NOT Sold at Gate",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "HEADS UP: Pikes Peak Hill Climb is THIS SUNDAY June 21 — Father's Day.\n\nTickets are ONLINE ONLY. NOT sold at the gate. Buy now at ppihc.org before they sell out. Kids under 10 are free on Race Day. 🏁 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ppihc-fathers-day-tickets-last-call.html",
+        "headline": "Pikes Peak Hill Climb Is This Sunday — Tickets Are Online Only and Expected to Sell Out",
+        "word_count": 797
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Pikes Peak Hill Climb\n\n#### Image 4A — Social (1200×675)\n**Gemini Prompt:**\nA dramatic mountain road scene representing the Pikes Peak Highway — a winding two-lane road ascending through rocky alpine terrain at high elevation, with a vivid blue Colorado sky and distant mountain peaks. A racing car is suggested as a sleek blurred shape mid-corner, with dust trails for motion. Families illustrated as small silhouettes watching from a rocky viewpoint. Late dawn light — deep blue-purple sky transitioning to golden sunrise. Clean space in the bottom third for text overlay. Exciting, adrenaline-forward, Colorado mountain adventure mood. No text. No watermarks.\n\n**Text Overlay (Canva):** \"RACE DAY: SUNDAY JUNE 21\" / \"Father's Day at Pikes Peak\" (teal + white)\n**Usage:** X/Twitter, Facebook long-form\n\n#### Image 4B — Article Hero (1200×630)\n**Gemini Prompt:**\nHigh-altitude dramatic landscape of an alpine Colorado mountain road at dawn. Winding road, rocky terrain, distant peaks, brilliant sunrise colors — orange, gold, deep blue. Racing atmosphere suggested with motion blur. Landscape format for hero image. Clean and epic mood. No text. No watermarks. No identifiable faces.\n\n**Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Pikes Peak Hill Climb Father's Day Race Reminder\n**Decision:** FOLLOW-UP — June 15 pipeline covered Race Day details as new story. Today is 4 days out; critical ticket reminder needed since tickets are NOT sold at the gate.\n**Verified Facts:**\n| Fact | Priority | Confidence | Source |\n|------|----------|-----------|--------|\n| Race Day: Sunday, June 21, 2026 | HIGH (date) | HIGH | ppihc.org, visitcos.com |\n| Green flag: 7:30 AM on Race Day | HIGH (time) | HIGH | ppihc.org |\n| This is Father's Day | HIGH (date) | HIGH | Confirmed calendar |\n| Tickets are NOT sold on Race Day | HIGH (critical action) | HIGH | ppihc.org |\n| Tickets are NOT sold in-person at any PPIHC event | HIGH (critical action) | HIGH | ppihc.org |\n| Purchase online at ppihc.org via Humanitix | HIGH (URL/action) | HIGH | ppihc.org, humanitix.com |\n| Tickets expected to sell out | MEDIUM | HIGH | ppihc.org |\n| Kids under 10 are FREE on Race Day | HIGH (age) | HIGH | ppihc.org, prior pipeline June 15 |\n| Gates open 2:30 AM on Race Day | HIGH (time) | HIGH | ppihc.org |\n| 7 spectator areas including Devil's Playground at 12,780 ft | MEDIUM (location/altitude) | HIGH | ppihc.org, prior pipeline June 15 |\n| Fan Fest: June 19, 5-9 PM, downtown COS, 10 city blocks | HIGH (date/time) | HIGH | ppihc.org, prior pipeline June 15 |\n| Fan Fest is FREE | HIGH (price) | HIGH | ppihc.org |\n| Post-June 1 pricing in effect | HIGH (price) | HIGH | ppihc.org |\n**Freshness:** 4 days out — last viable ticket window before Race Day. Key new angle is \"last chance to buy tickets\" urgency.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "D20 Names Dr. Susan Field Interim Superintendent — What Families Should Know",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D20 families: Dr. Susan Field is interim superintendent for 2026-27. 19 years with D20. Former principal at Woodmen-Roberts Elementary.\n\nSchools operate normally. Here's what to know before fall. 🏫 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-d20-superintendent-susan-field-2026.html",
+        "headline": "Academy District 20 Names Dr. Susan Field Interim Superintendent for 2026-27 School Year",
+        "word_count": 737
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 Superintendent Update\n\n#### Image 5A — Social (1200×675)\n**Gemini Prompt:**\nA warm, professional illustration of a school building exterior in a Colorado suburban neighborhood — brick facade, Colorado blue sky, American flag, trees beginning to show summer green, a marquee sign, and abstract parent-and-child shapes at the entrance. Calm, competent, trustworthy mood. Late morning light. Clean space in the bottom third for text overlay. No text. No watermarks. No identifiable individuals. School pride and community confidence feel.\n\n**Text Overlay (Canva):** \"D20 UPDATE\" / \"Interim Superintendent Named\" (dark slate #2C3E50 + white)\n**Usage:** X/Twitter, Facebook long-form\n\n#### Image 5B — Article Hero (1200×630)\n**Gemini Prompt:**\nColorado suburban elementary school building exterior in summer — brick architecture, bright Colorado sky, trees, a flagpole, organized landscaping. Calm, institutional, community-trustworthy mood. Landscape format. Warm morning light. No text. No watermarks. No human figures.\n\n**Usage:** Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D20 Names Dr. Susan Field Interim Superintendent\n**Decision:** NEW STORY (first coverage in COS Parenting pipeline). Major local education leadership change affecting 26,000 D20 students. Happened May 15-19, 2026 — not previously covered in this pipeline.\n**Verified Facts:**\n| Fact | Priority | Confidence | Source |\n|------|----------|-----------|--------|\n| D20 board voted to remove superintendent Jinger Haberer: May 15, 2026 | HIGH (date) | HIGH | krdo.com, kktv.com, gazette.com |\n| Reason given: \"lack of confidence\" in leadership | MEDIUM | HIGH | krdo.com, koaa.com |\n| Dr. Susan Field named interim superintendent: May 19, 2026 | HIGH (date) | HIGH | krdo.com, kktv.com, koaa.com, fox21news.com |\n| Board vote was unanimous | MEDIUM | HIGH | yahoo.com/news, koaa.com |\n| Dr. Field is appointed for the 2026-27 school year | HIGH (timeframe) | HIGH | koaa.com |\n| Dr. Field has 19 years with D20 | MEDIUM | HIGH | koaa.com |\n| Dr. Field was principal at Woodmen-Roberts Elementary | MEDIUM | HIGH | koaa.com |\n| Dr. Field was serving as Assistant Superintendent for Learning Services | MEDIUM | HIGH | koaa.com |\n| D20 serves approximately 26,000 students | HIGH (stats) | HIGH | Confirmed in search results |\n| D20 has nearly 40 schools in northern Colorado Springs | MEDIUM | HIGH | Search results |\n| Schools operate normally during transition | HIGH | HIGH | krdo.com, kktv.com |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
