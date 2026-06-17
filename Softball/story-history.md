@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 17, 2026
+
+### Story 1: Isa Torres Commits to Texas — D1 POY Says "I'm Coming Home"
+- **Date:** 2026-06-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP → COMMITMENT BREAKING
+- **Angle:** D1 Softball Player of the Year Isa Torres (.530 BA / .978 SLG / .591 OBP / 78 runs / NCAA record 16 consecutive hits) ended a 10-day portal wait Tuesday evening, committing to Texas and posting "I'm coming home." Georgetown, TX native joins fellow Georgetown native Samantha Swan and former Texas Tech pitcher Samantha Lincoln in Mike White's portal class.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Torres impact on 2027 Texas lineup
+  - Three-peat narrative through the season
+
+### Story 2: Beachum Watch — Day 10, Five Days Left
+- **Date:** 2026-06-17
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Day 9 uncommitted)
+- **Angle:** Jaysoni Beachum (.417 BA / 16 HR / 66 RBI / .549 OBP / career 37 HR, 180 RBI, 202 hits) is the last elite uncommitted transfer. Softball America No. 1. Day 10, 5 days remain.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment announcement (imminent — 5 days left)
+  - Impact analysis at destination
+
+### Story 3: Texas's Portal Masterpiece — Torres + Swan + Lincoln = Three-Peat Blueprint
+- **Date:** 2026-06-17
+- **Tier:** 1
+- **Classification:** NEW (analysis/reaction)
+- **Angle:** Assessing Texas's full portal class: Torres (D1 POY), Swan (No. 1 portal catcher, .383 BA/12 HR), Lincoln (pitcher). Two-time champions adding three elite transfers.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Texas 2027 season preview
+  - Three-peat historical context
+
+### Story 4: Texas Tech Class Nearly Complete — Pickering DNT Pending
+- **Date:** 2026-06-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Polar committed June 16; Pickering DNT)
+- **Angle:** Polar (.555 BA / 101 hits) + Heavener (No. 1 pitcher, 2.81 ERA/128 K) confirmed. Pickering (.370 BA / 20 HR, career .384/50 HR/169 RBI) DNT tag points to Lubbock. Class ranked No. 1 by Softball America.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Pickering formal announcement
+  - Texas Tech 2027 title candidacy analysis
+
+### Story 5: Portal Countdown — Day 10 of 15
+- **Date:** 2026-06-17
+- **Tier:** 3
+- **Classification:** FOLLOW UP (ongoing tracker)
+- **Angle:** Day 10. 5 days remain. Committed: Torres (TX), Swan (TX), Lincoln (TX), Polar (TTU), Heavener (TTU), Hartley (OSU), Wetteland (ARK), Azua (A&M), Plumlee (Bama), Altmeyer (TX). DNT: Pickering → TTU. Still available: Beachum (SA No. 1).
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Pickering official commitment
+  - Beachum announcement
+  - Portal window close June 22
+
+---
+
 ## June 16, 2026
 
 ### Story 1: Texas Tech Lands Moriah Polar — Nation's Top Hitter Joins Historic Transfer Class
