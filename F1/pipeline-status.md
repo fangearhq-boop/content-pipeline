@@ -1,10 +1,23 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-16
+- **Date**: 2026-06-17
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-17
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-17.xlsx (7 posts) + f1fr-postplanner-tobi-2026-06-17.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-17/review-dashboard.html (27 items)
+- **Notes:** Hamilton title bid real — 41 pts behind Antonelli after Barcelona win (106th career/first Ferrari 2026)/Wolff called him "third party"/15 races left; Mercedes battery crisis — Antonelli DNF Barcelona (3 laps)/Russell DNF Canada/Russell battery on sea freight/Wolff "can't compete for championship"/McLaren+Alpine+Williams also affected; Austrian GP June 26-28 preview — Verstappen home race/Red Bull upgrade/Hamilton momentum/first triple-header leg; Verstappen exit clause removed/~$100M buyout/committed 2027/0 wins/7th/101 pts behind; championship: Antonelli 156/Hamilton 115/Russell 106/Leclerc 75/Norris 73/Piastri 68/Verstappen 55
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+
 
 ### 2026-06-16
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

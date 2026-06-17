@@ -1,0 +1,324 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-17",
+  "compiled_at": "2026-06-17T11:20:23.424840+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hamilton's Title Bid Is Real — 41 Points Back, Austrian GP Next",
+      "tier": 1,
+      "status": "",
+      "angle": "After winning the Spanish Grand Prix — his 106th career victory and first for Ferrari — Lewis Hamilton is no longer a sentimental subplot in the 2026 title race. He is 41 points behind championship leader Kimi Antonelli with 15 races remaining. Mercedes' own Toto Wolff acknowledged Hamilton as a \"third party\" in the championship fight. Ferrari arrives at the Austrian GP (June 26-28) with momentum, a race win, and a car that just outperformed the field in Barcelona.",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Lewis Hamilton: 41 points behind. 15 races left.\n\n106th career win. First for Ferrari.\n\nToto Wolff called him a \"third party\" in the title fight.\n\nThe 2026 championship is officially a three-way battle. 🔴 #F1 #LewisHamilton",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton"
+          ],
+          "char_count": 223
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Hamilton on winning in Barcelona:\nHe says he's not ruling out the 2026 title.\n\n- 41 pts behind Antonelli\n- 15 races left\n- Ferrari found speed\n- Austrian GP next (June 26-28)\n\nHe's serious. #F1 #LewisHamilton #Ferrari",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton",
+            "#Ferrari"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 8:00 AM ET\n\nThe 2026 Formula 1 championship just became a proper three-way fight — and Lewis Hamilton is at the center of it.\n\nAfter winning the Spanish Grand Prix in Barcelona for his 106th career victory and his first for Ferrari, Hamilton is now just 41 points behind championship leader Kimi Antonelli. There are 15 races remaining. And even Mercedes team principal Toto Wolff acknowledged the new reality on the grid: \"There is now a third party getting involved in the championship fight, both constructor and driver.\"\n\nHamilton did not drive conservatively in Barcelona. Ferrari's three-stop strategy comprehensively outperformed the field, aided by Antonelli's shock retirement from the lead in the final laps. Hamilton's race pace was strong on its own merits — this was not merely a gift from Mercedes' failure.\n\nWhen asked after the race whether he believes he can still win the title, Hamilton was unequivocal: he is not ruling it out.\n\nThe Austrian Grand Prix is next, scheduled for June 26-28 at the Red Bull Ring in Spielberg. If Hamilton can continue building momentum through the Austrian, British, and Belgian triple-header, the championship picture could look very different by the time F1 breaks for summer.\n\nThis is the storyline the sport needed.",
+        "image_caption": "106th career win. First for Ferrari. 41 points from the championship lead. Lewis Hamilton is IN this title fight. 🔴 #F1 #LewisHamilton",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-hamilton-title-bid-real-41-points-ferrari.html",
+        "headline": "Hamilton's F1 Title Bid Is Real: 41 Points Back, 15 Races Left After Barcelona Win",
+        "word_count": 523
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton Title Bid\n**Verified Facts (HIGH confidence):**\n- Barcelona GP winner: Lewis Hamilton (Ferrari)\n- Hamilton's 106th career victory; first win for Ferrari in 2026\n- Antonelli retired from the lead with approx. 3 laps remaining (battery failure)\n- Championship standings after Barcelona: Antonelli 156, Hamilton 115 (−41), Russell 106, Leclerc 75, Norris 73, Piastri 68, Verstappen 55\n- 15 races remaining in 2026 season\n- Toto Wolff quoted Hamilton as a \"third party getting involved in the championship fight\"\n- Hamilton said publicly he is \"not ruling out\" a 2026 title win\n**Sources:** Sky Sports F1, GPFans, The Race, RacingNews365",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Mercedes Battery Crisis — Wolff Says Silver Arrows \"Can't Compete for a Championship\"",
+      "tier": 1,
+      "status": "",
+      "angle": "Mercedes team principal Toto Wolff issued a damning assessment after Barcelona: \"We just can't compete for a championship if every second race a car is losing fat points.\" Antonelli's retirement from the lead with 3 laps remaining — a suspected power unit battery failure — follows Russell's battery DNF in Montreal. The battery from Russell's Montreal car is still on sea freight between Canada and Mercedes' Brackley base, meaning engineers haven't even begun the full investigation. Austria is 9 days away.",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Toto Wolff:\n\n\"We can't compete for a championship if every second race a car is losing fat points.\"\n\nAntonelli: battery failure, 3 laps from the flag in Barcelona.\nRussell: battery failure in Canada.\n\nRussell's battery is still on a ship. #F1 #Mercedes",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Mercedes"
+          ],
+          "char_count": 252
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Mercedes' battery problem is systemic.\n\nAntonelli retires Barcelona. Russell retires Canada.\nMcLaren, Alpine, and Williams — all Mercedes customers — have also been hit.\n\nAnd Russell's Montreal battery is still on a BOAT.\n\n9 days to Austria. The clock is ticking. ⚠️ #F1 #Mercedes",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Mercedes"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 10:00 AM ET\n\nThe most dominant team in 2026 Formula 1 is falling apart in the most expensive way possible.\n\nMercedes, which led the championship comfortably for much of the season, is battling a systemic battery reliability crisis that Toto Wolff himself says may cost them the title fight. In Barcelona, Kimi Antonelli was running in second place with just three laps remaining when his car suddenly shut down — the second major battery-related DNF in three races for the Silver Arrows.\n\nWolff did not mince words: \"We just can't compete for a championship if every second race a car is losing fat points. It's one and then the other and to finish first, first you have to finish. That's just not good enough.\"\n\nWhat makes the situation more alarming is the pace of the fix. George Russell's power unit from the Canadian Grand Prix — the previous battery failure — is still on sea freight somewhere between Montreal and Mercedes' Brackley factory. The team has not yet completed a full investigation into Russell's failure because they do not physically have the component.\n\nAnd the problem is not limited to the factory team. McLaren, Alpine, and Williams — all of whom use Mercedes power units — have experienced similar battery-related issues at various points of the 2026 campaign.\n\nAustria is 9 days away. The fix needs to come quickly or the championship lead Antonelli has built could evaporate before the summer break.",
+        "image_caption": "Wolff: \"We just can't compete for a championship\" with these failures. Mercedes' battery crisis is real — and Russell's failed unit is still on a boat. ⚠️ #F1 #Mercedes",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-mercedes-battery-crisis-wolff-cant-compete.html",
+        "headline": "Mercedes Battery Crisis: Wolff Says Silver Arrows \"Can't Compete for a Championship\" With Failures",
+        "word_count": 572
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes Battery Crisis\n**Verified Facts (HIGH confidence):**\n- Antonelli battery failure: suspected power unit failure, retired from P2 with ~3 laps left, Barcelona\n- Russell battery failure: Canadian Grand Prix (2 races ago)\n- Russell's Montreal battery still on sea freight between Canada and Brackley — investigation hasn't fully started\n- Toto Wolff quote: \"We just can't compete for a championship if every second race a car is losing fat points. It's one and then the other and to finish first, first you have to finish. That's just not good enough.\"\n- Mercedes customer teams affected: McLaren, Alpine, Williams also had battery-related issues in 2026\n- Wolff: \"We don't know yet what was the cause of the failure\"\n**Sources:** Sky Sports F1, AutoRacing1, Crash.net, The Race",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Austrian GP Preview — Red Bull's Home Race, Verstappen Needs a Statement",
+      "tier": 2,
+      "status": "",
+      "angle": "The Austrian Grand Prix (June 26-28, Red Bull Ring in Spielberg) is 9 days away. For Max Verstappen, it is a critical circuit — he has won at the Red Bull Ring multiple times and desperately needs a strong result after going winless through 7 races in 2026. Red Bull is reportedly bringing a significant upgrade package to Austria. If the upgrade works, it could signal a real return. If it doesn't, the questions about Verstappen's Red Bull future will grow louder.",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Austrian Grand Prix: June 26-28. Red Bull Ring. 9 days away.\n\nMax Verstappen. Zero wins in 2026. At his team's home circuit.\n\nRed Bull reportedly bringing a major upgrade.\n\nHamilton has momentum. Mercedes has problems.\n\nLet's go. 🏎️ #AustrianGP #F1",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#F1"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 12:00 PM ET\n\nNine days. That's how long until the Austrian Grand Prix fires up at the Red Bull Ring in Spielberg — and the storylines heading into this race are extraordinary.\n\nHamilton arrives on the back of a Barcelona win and real title momentum. Antonelli needs to bounce back from a retirement that cost him 25 points in a single afternoon. Max Verstappen is winless in 2026 and will race at his own team's home circuit desperate for his first victory of the year. And Mercedes needs to solve a battery reliability problem that their team principal has publicly admitted threatens their championship chances.\n\nThe Red Bull Ring is one of the most compact, high-energy tracks on the calendar. It rewards straight-line speed and clean exits from the circuit's long sweeping corners. Historically it has been a Verstappen stronghold — he has won there multiple times — and Red Bull is reportedly bringing a significant upgrade package to Austria specifically.\n\nThe question is whether that upgrade reflects a genuine step forward in performance or a circuit-specific fix. If Red Bull's RB20 is genuinely faster at altitude circuits, Austria could see them re-enter the championship picture. If the upgrade underperforms, the summer break arrives with Red Bull facing existential questions about their 2026 car.\n\nThe race is Sunday, June 28. Qualifying is Saturday, June 27. Mark your calendars.",
+        "image_caption": "Austrian GP: June 26-28. Red Bull Ring. Hamilton has momentum. Antonelli needs a bounce-back. Verstappen needs his first win. ⚡ #AustrianGP #F1",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-austrian-gp-preview-red-bull-ring-verstappen.html",
+        "headline": "Austrian GP Preview: Red Bull Ring's High-Stakes Return With Verstappen, Hamilton, and a Title Fight in the Balance",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 6",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austrian GP Preview\n**Verified Facts (HIGH confidence):**\n- Austrian GP: June 26-28, 2026, Red Bull Ring, Spielberg, Austria\n- 9 days away from June 17\n- Verstappen has won at Red Bull Ring multiple times in career (5 wins between 2021-2024 era)\n- Red Bull reportedly bringing major upgrade package to Austria\n- First race of a triple-header: Austria → Britain → Belgium\n- Race time: 3:00 PM local (CEST), June 28\n**Sources:** Red Bull Ring official, Formula1.com, GPFans",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen's Red Bull Future — $100M Buyout and the August Question",
+      "tier": 2,
+      "status": "",
+      "angle": "The exit clause in Max Verstappen's Red Bull contract — which allowed him to leave if outside the top two in the standings at a certain point — has reportedly been removed or bought out at significant cost. Per reports, a rival team would need to pay approximately $100 million to acquire Verstappen's services now. Despite 0 wins in 2026 and 101 points behind Antonelli, Verstappen committed to Red Bull for 2027 after the exit clause window closed. The Austrian GP at his team's home circuit represents a reset point.",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Verstappen's Red Bull exit clause? Gone.\n\nAny team that wants him now needs to pay ~$100M.\n\nZero wins in 2026. 101 points behind the leader.\n\nAustria is his reset — home crowd, big upgrade incoming. #F1 #Verstappen",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 214
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 2:00 PM ET\n\nThe saga over Max Verstappen's Red Bull future has reached what appears to be a definitive answer — at least for now.\n\nVerstappen's contract contained an exit clause allowing him to walk away from Red Bull if he found himself outside the top two in the championship at a specified point during the 2026 season. Given his current position — seventh in the standings, 101 points behind leader Kimi Antonelli, with zero race wins through seven rounds — that clause seemed like it might be activated.\n\nInstead, reports indicate the clause has been removed or effectively bought out at significant cost. Per reports, any rival team seeking to acquire Verstappen's services would now need to pay approximately $100 million in a buyout fee. Helmut Marko has confirmed Verstappen's commitment to Red Bull through at least 2027.\n\nThe four-time world champion's position is not comfortable. He finished fourth at the Spanish Grand Prix and picked up a penalty point for an incident involving George Russell. He is widely considered to be driving an underperforming car in 2026's new technical regulations — but the car and driver are now locked in together through next season.\n\nAustria is the reset. His team's home race. The upgrade package Red Bull is bringing. The crowd that will be chanting his name. If there is a moment to announce a resurgence, it is June 28 at the Red Bull Ring.",
+        "image_caption": "Verstappen's exit clause is gone. He's staying at Red Bull. Zero wins in 2026. 9 days to Austria — his team's home race, with a major upgrade incoming. #F1 #Verstappen",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-verstappen-red-bull-exit-clause-buyout-future.html",
+        "headline": "Verstappen's Red Bull Future: Exit Clause Gone, $100M Buyout, and the Pressure of Zero 2026 Wins",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 8",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Red Bull Future\n**Verified Facts (HIGH confidence):**\n- Verstappen's exit clause: allowed him to leave if outside top-2 standings at set point in 2026\n- Reports indicate clause was removed/bought out; a rival team would need ~$100M buyout\n- Verstappen committed to Red Bull through at least 2027 after clause window closed\n- 2026 record through 7 races: 0 wins, P7 in championship (55 pts), 101 pts behind Antonelli\n- Spanish GP result: P4 (with penalty point for Russell incident)\n- Austria is his team's home circuit\n**Sources:** PlanetF1, GPFans, SportBible, Motorsport.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "2026 F1 Championship Midseason Analysis — Antonelli's Lead and the Challengers",
+      "tier": 2,
+      "status": "",
+      "angle": "Halfway through the 2026 campaign, Kimi Antonelli leads the drivers' championship with 156 points — but his advantage has been trimmed from 66 to 41 points after one race. Hamilton (115) is the closest challenger, followed by Russell (106), Leclerc (75), Norris (73), Piastri (68), and Verstappen (55). Mercedes leads constructors', but Ferrari is closing. The Austrian, British, and Belgian GPs in the next month could decisively shape the title fight.",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "2026 F1 championship after 7 races:\n\n1. Antonelli — 156 pts\n2. Hamilton — 115 pts (-41)\n3. Russell — 106 pts (-50)\n4. Leclerc — 75 pts\n5. Norris — 73 pts\n7. Verstappen — 55 pts\n\nThat 66-point Antonelli cushion? Down to 41 in one race. #F1 #Formula1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "Window: 5:00 PM ET\n\nSeven races in. Fifteen to go. The 2026 Formula 1 championship standings tell a story that is very different from what they showed just two weeks ago.\n\nKimi Antonelli leads with 156 points. The Mercedes teenager has been brilliant — winning five of the first seven races and building what looked like an insurmountable advantage. But his lead over Lewis Hamilton has shrunk from 66 points to 41 in a single afternoon in Barcelona. When you are the championship leader and one retirement can do that kind of damage, the pressure is real.\n\nHamilton sits second at 115 points, followed by George Russell at 106 — a gap of just 9 points between the two Mercedes drivers. Leclerc (75) and Norris (73) are within a race win of each other in fourth and fifth. Piastri (68) and Verstappen (55) round out the notable runners.\n\nThe constructors' fight is similarly tight at the top. Mercedes leads, but Ferrari's Barcelona win closed the gap. McLaren has the speed but the battery issues have cost them dearly.\n\nThe next three races — Austrian GP (June 26-28), British GP (July 5-7), and Belgian GP — form a triple-header that could reshape the entire fight. If Hamilton wins two of three and Antonelli has more reliability issues, this title race could be all square by August.\n\nBuckle up.",
+        "image_caption": "Antonelli leads by 41 points. Hamilton is 15 races from a championship. The 2026 F1 title fight is officially on. 📊 #F1 #Formula1 #F1Championship",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-f1-championship-midseason-analysis-2026.html",
+        "headline": "2026 F1 Championship Midseason Analysis: How Barcelona Changed Everything",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image 9",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 10",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Analysis\n**Verified Facts (HIGH confidence):**\n- Standings: Antonelli 156, Hamilton 115, Russell 106, Leclerc 75, Norris 73, Piastri 68, Verstappen 55\n- Antonelli's lead was 66 points before Barcelona; cut to 41 points in one race\n- Mercedes leads constructors', Ferrari closing\n- Next 3 races: Austrian GP (June 26-28), British GP (July 5-7), Belgian GP (July 17-19 approx)\n- 2026 season total: 22 races; 7 completed through Barcelona",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

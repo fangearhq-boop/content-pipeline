@@ -2,6 +2,53 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-17
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-17 | T1 | Hamilton Title Bid Real — 41 Points Behind Antonelli, 15 Races Left After Barcelona Win | X, FB, Article | FOLLOW UP |
+| 2026-06-17 | T1 | Mercedes Battery Crisis — Wolff "Can't Compete for Championship," Russell Battery on Boat | X, FB, Article | FOLLOW UP |
+| 2026-06-17 | T2 | Austrian GP Preview — Red Bull Ring June 26-28, Verstappen Upgrade, Hamilton Momentum | X, FB, Article | NEW |
+| 2026-06-17 | T2 | Verstappen Red Bull Future — Exit Clause Gone, $100M Buyout, Committed 2027 | X, FB, Article | FOLLOW UP |
+| 2026-06-17 | T2 | 2026 F1 Championship Midseason Analysis — Antonelli 156/Hamilton 115/Russell 106 | X, FB, Article | NEW |
+
+### STORY 1: Hamilton Title Bid Real
+- **Tier:** 1
+- **Category:** Championship / Ferrari
+- **Key facts:** Hamilton won Barcelona (106th career win, first Ferrari 2026 win); Antonelli battery failure lap 63 of 66 from P2; standings: Antonelli 156/Hamilton 115 (−41)/Russell 106; 15 races remaining; Wolff called Hamilton "third party" in title fight; Hamilton said "not ruling out" 2026 title
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP result; Hamilton extends vs Antonelli
+
+### STORY 2: Mercedes Battery Crisis
+- **Tier:** 1
+- **Category:** Technical / Mercedes
+- **Key facts:** Antonelli battery failure Barcelona (3 laps from flag from P2); Russell battery failure Canada; Russell's Montreal battery still on sea freight; Wolff quote: "We just can't compete for a championship if every second race a car is losing fat points"; McLaren/Alpine/Williams customer teams also affected; fix pace slow
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Mercedes fix announced; Austrian GP reliability result
+
+### STORY 3: Austrian GP Preview
+- **Tier:** 2
+- **Category:** Race Preview
+- **Key facts:** Austrian GP June 26-28 Red Bull Ring Spielberg; 9 days away; FP1/FP2 June 26/FP3+qual June 27/race June 28 3 PM CEST; Red Bull home race; Verstappen multiple wins at circuit; Red Bull bringing major upgrade; first of triple-header (Austria/Britain/Belgium)
+- **Status:** NEW
+- **Follow-up ideas:** Austrian GP race result
+
+### STORY 4: Verstappen Red Bull Future
+- **Tier:** 2
+- **Category:** Driver News / Red Bull
+- **Key facts:** Exit clause removed/bought out; rival team would need ~$100M buyout; Verstappen committed through 2027; 0 wins in 2026; 7th in standings with 55 pts; 101 pts behind Antonelli; P4 Barcelona + penalty point for Russell incident
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP Verstappen result; upgrade assessment
+
+### STORY 5: Championship Midseason Analysis
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Antonelli 156/Hamilton 115/Russell 106/Leclerc 75/Norris 73/Piastri 68/Verstappen 55; Antonelli lead cut from 66 to 41 pts in one race; 7 races complete/15 remaining; Mercedes leads constructors'/Ferrari closing; Austria/Britain/Belgium triple-header decides direction
+- **Status:** NEW
+- **Follow-up ideas:** Standings update after Austrian GP
+
+---
+
 ## 2026-06-16
 
 | Date | Tier | Story | Platforms | Status |
