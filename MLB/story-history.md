@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-17
+
+### Story 1: Braves Lose Strider to Elbow Inflammation — MRI Clean, 4-Week Shutdown
+- **Date:** 2026-06-17
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Spencer Strider placed on IL June 15 with right elbow inflammation (4-week shutdown, MRI shows no ligament damage). 8 starts / 5.31 ERA / 46 K in 2026. Braves now without Acuña (hamstring IL since June 14) and Strider simultaneously. Sale (MLB K leader) and Olson (20 HR) remain healthy.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Strider return timeline update (late July)
+  - Braves trade deadline pitching moves
+  - Sale Cy Young watch with Strider out
+
+### Story 2: Drake Baldwin 473-Foot HR — MLB's Longest Homer of 2026
+- **Date:** 2026-06-17
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Baldwin hit 473-foot leadoff HR off Giants' Adrian Houser at Truist Park (June 16) — longest in MLB 2026 season. Game suspended in 2nd inning, resumes June 17. Baldwin leads All-Star catching vote (972,813 votes as of June 15).
+- **Content Produced:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Suspended game result
+  - Baldwin All-Star selection (Phase 1 closes June 25)
+
+### Story 3: Yankees 44-27 — Rice Carrying Lineup Without Judge
+- **Date:** 2026-06-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 16 — Yankees beat White Sox)
+- **Angle:** Yankees moved to 44-27 after June 16 win over White Sox. Rice (.300/.393/.638 / 19 HR / 44 RBI) leads Yankees offense in Judge's absence (rib stress fracture, out since June 4, expected back mid-August).
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Judge return timeline update
+  - Rice All-Star case (Phase 1 closes June 25)
+
+### Story 4: Schwarber-Alvarez HR Race — Tied at 24, Derby Field Discussion
+- **Date:** 2026-06-17
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 16 — tied at 24)
+- **Angle:** Schwarber (Phillies) and Alvarez (Astros) tied at 24 HR entering week. Derby July 13 at Citizens Bank Park (Schwarber's home). CBS Sports ideal field: Schwarber, Alvarez, Harper, Trout, Rice.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Who breaks tie first
+  - Official Derby field announcement
+  - HR leader at All-Star break
+
+### Story 5: All-Star Ballot Update — Baldwin Leads Catchers, Phase 1 Closes June 25
+- **Date:** 2026-06-17
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 15 ballot standings)
+- **Angle:** Baldwin (C) 972,813, Freeman (1B) 870,606, Olson (1B) 802,848. Ohtani leads NL DH, Alvarez leads AL DH. Phase 1 closes June 25, Phase 2 begins June 29. All-Star July 14, Philadelphia.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Phase 2 ballot results
+  - Final roster selections
+  - Derby invitations
+
+---
+
 ## 2026-06-16
 
 ### Story 1: Wheeler Dominant vs. Marlins — Phillies 7-0, Cy Young Case Building

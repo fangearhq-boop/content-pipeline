@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-17",
+  "compiled_at": "2026-06-17T10:23:55.371157+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Braves Lose Strider to Elbow — MRI Clean, 4-Week Shutdown, But Double Injury Crisis Deepens",
+      "tier": 1,
+      "status": "",
+      "angle": "Spencer Strider has been shut down from throwing for four weeks due to right elbow inflammation, joining Ronald Acuña Jr. on the Atlanta IL. Strider exited a June 14 start vs. the Mets when his fastball velocity dropped significantly. An MRI revealed no ligament damage — welcome relief — but a 4-week absence still strips the Braves of their most dynamic pitcher. Atlanta, which held the best record in the NL at 46-25 when Acuña went down June 14, is now without both stars simultaneously. Chris Sale (MLB K leader) and Matt Olson (20 HR) remain healthy, but the depth question is real.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "BREAKING: Spencer Strider is out for 4 weeks with right elbow inflammation.\n\nMRI showed no ligament damage — Atlanta dodged the worst.\n\nBut the Braves are now without Acuña AND Strider. The NL's best team just lost its two biggest stars within days of each other.\n\n#Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Braves at 46-25 before injuries:\n✅ Acuña — batting .300+, MVP pace\n✅ Strider — 46 K in 8 starts\n✅ Sale — MLB K leader\n✅ Olson — 20 HR\n\nNow Acuña and Strider are both on the IL.\n\nSale and Olson carry the load. No margin for more bad luck. #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-braves-strider-il-elbow-double-injury-crisis.html",
+        "headline": "Braves Lose Strider to Elbow Inflammation — MRI Clean, But Double Injury Crisis Deepens",
+        "word_count": 589
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Braves Lose Strider\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Spencer Strider Atlanta Braves\n- **Usage:** Social post for Strider IL announcement\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Pitching motion or close-up; expressive; on-mound preferred\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Terms:** Spencer Strider Atlanta Braves\n- **Usage:** Article hero for Strider/Acuña double injury piece\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Landscape crop; in-game action from 2026 season\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Drake Baldwin's 473-Foot Moonshot — MLB's Longest Homer of 2026 and the Game Is Still Pending",
+      "tier": 2,
+      "status": "",
+      "angle": "In the first inning of Tuesday's Giants-Braves game at Truist Park, Braves catcher Drake Baldwin crushed a 473-foot leadoff home run off Giants starter Adrian Houser — the longest home run recorded in MLB so far in the 2026 season. The game was suspended in the bottom of the second inning. The suspended contest will be completed Wednesday, June 17, before the regularly scheduled game. Baldwin also leads all catchers in All-Star Phase 1 voting with 972,813 votes as of June 15.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "473 feet.\n\nDrake Baldwin hit the longest home run in MLB this season Tuesday off Giants starter Adrian Houser — a leadoff shot at Truist Park.\n\nGame was suspended in the 2nd. Resumes today.\n\nThe Braves are hurting, but Baldwin is delivering. #Braves #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Braves",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-drake-baldwin-473-foot-hr-longest-mlb-2026.html",
+        "headline": "Drake Baldwin Hits 473-Foot Blast — MLB's Longest Homer of 2026 as Game Is Suspended",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Drake Baldwin 473-Foot HR\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Drake Baldwin Atlanta Braves\n- **Usage:** Social post for Baldwin moonshot story\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Bat flip or celebration preferred; power moment\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** imagn\n- **Search Terms:** Drake Baldwin Atlanta Braves\n- **Usage:** Article hero for Baldwin HR/All-Star piece\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Action shot; horizontal framing\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Yankees 44-27 — Rice Powers Offense, Cole Wins as AL East Lead Grows Without Judge",
+      "tier": 2,
+      "status": "",
+      "angle": "New York beat the White Sox on June 16 to move to 44-27 in the AL East. Aaron Judge remains sidelined with a rib stress fracture (4–6 weeks, out since June 4). Ben Rice (.300/.393/.638, 19 HR, 44 RBI) continues as the offensive anchor and the rising All-Star candidate at first base. The Yankees lead the AL East and are building a case that their mid-season lineup is more than capable of holding down first place through Judge's return.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Yankees without Aaron Judge: 44-27.\n\nBen Rice (.300/.393/.638, 19 HR, 44 RBI) is carrying the lineup. The kid went from No. 1 catcher prospect to AL East first baseman nobody can stop.\n\nJudge comes back. Rice stays. New York wins. #Yankees #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Yankees",
+            "#MLB"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-yankees-44-27-rice-carrying-lineup-without-judge.html",
+        "headline": "Yankees 44-27 — Ben Rice Carries the Lineup as New York Rolls On Without Judge",
+        "word_count": 549
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Yankees Without Judge\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Ben Rice New York Yankees\n- **Usage:** Social post for Rice/Yankees June 17\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Batting action or celebration; Yankee pinstripes preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Schwarber-Alvarez HR Race — Tied at 24, Derby Field Dream Coming Into Focus",
+      "tier": 2,
+      "status": "",
+      "angle": "Kyle Schwarber (Phillies) and Yordan Alvarez (Astros) enter the week tied at 24 home runs. The Home Run Derby is July 13 at Citizens Bank Park in Philadelphia — Schwarber's home stadium. The ideal Derby field being discussed includes Schwarber, Alvarez, Bryce Harper, Mike Trout, and Ben Rice. With All-Star voting Phase 1 closing June 25, the power race is driving both the statistical leaderboard and the fan ballot simultaneously.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Kyle Schwarber and Yordan Alvarez are tied at 24 HR.\n\nThe Home Run Derby is July 13 — at Citizens Bank Park. Schwarber's home. His house.\n\nIf he hits No. 25 tonight, the crowd noise will be unreasonable. #Phillies #MLB",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-schwarber-alvarez-hr-race-derby-citizens-bank-june.html",
+        "headline": "Schwarber and Alvarez Tied at 24 — Derby Field Takes Shape as Citizens Bank Countdown Begins",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber-Alvarez HR Race\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Kyle Schwarber Philadelphia Phillies\n- **Usage:** Social post for HR race/Derby angle\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Home run swing or bat flip; Citizens Bank Park background preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "All-Star Ballot Update — Baldwin, Ohtani, Alvarez Lead as Phase 1 Closes June 25",
+      "tier": 3,
+      "status": "",
+      "angle": "As of June 15, Drake Baldwin leads catchers with 972,813 votes. Freddie Freeman (870,606) leads first base with Matt Olson (802,848) close behind. Shohei Ohtani leads the NL DH race and Yordan Alvarez leads the AL DH vote. All-Star Game: July 14, Citizens Bank Park, Philadelphia. Phase 1 closes June 25. Phase 2 begins June 29. Voting closes 8 days from today.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "2026 All-Star ballot update (Phase 1 closes June 25):\n\n🎯 Drake Baldwin — leads catchers (972,813 votes)\n🎯 Freddie Freeman — leads 1B\n🎯 Yordan Alvarez — leads AL DH\n🎯 Shohei Ohtani — leads NL DH\n\nVote at MLB.com. 8 days left. #MLB #AllStar",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#AllStar"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-all-star-ballot-update-phase-1-closes-june-25.html",
+        "headline": "All-Star Ballot Update — Baldwin Leads Catchers, Ohtani and Alvarez Lead DH as Phase 1 Closes June 25",
+        "word_count": 531
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "All-Star Ballot Update\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** imagn\n- **Search Terms:** Drake Baldwin Atlanta Braves\n- **Usage:** Social post for All-Star ballot update (Baldwin leads catchers)\n- **Credit:** (USA TODAY Sports Images)\n- **Notes:** Clean action shot; versatile for All-Star context"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

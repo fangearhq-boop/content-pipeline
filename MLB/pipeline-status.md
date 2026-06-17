@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-17
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (22 claims extracted, 0 char violations — claim-patterns.py missing, universal extraction only, consistency clean), compile (5 stories, 6 tweets compiled, 0 FB parsed — known heading format, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published attempt (403 PAT for content-dashboards repo — known). Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). FB posts compile to 0 (known heading format). 0 char violations. Dashboard push 403 (PAT for content-dashboards repo — known).
+- **Key Stories**: Braves lose Strider (right elbow inflammation/4 weeks/MRI clean)/Acuña also out/Sale+Olson healthy (Tier 1 NEW), Baldwin 473-foot HR vs Giants (MLB longest 2026)/game suspended 2nd inning/leads All-Star C vote 972K (Tier 2 NEW), Yankees 44-27/Rice .300/.393/.638/19 HR/44 RBI/Judge out rib fracture (Tier 2 FOLLOW UP), Schwarber-Alvarez tied 24 HR/Derby July 13 Citizens Bank/CBS ideal field (Tier 2 FOLLOW UP), All-Star ballot update/Baldwin leads C/Freeman-Olson 1B race/Ohtani+Alvarez DH/closes June 25 (Tier 3 FOLLOW UP)
+
+
+## Last Run
 - **Date**: 2026-06-16
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (24 claims extracted, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets compiled, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -10,7 +19,7 @@
 - **Key Stories**: Wheeler 6 IP/9 K/7-0 Phillies/Rincones Jr. first career HR/Cy Young case/All-Star at Citizens Bank July 14 (Tier 1 NEW), Rice .300/.393/.638/19 HR/44 RBI/leads Yankees all categories/Judge rib stress fracture since May 31/Yankees 43-27 AL East (Tier 1 FOLLOW UP), Braves 46-25 NL East/Mets 8-1 loss/Acuña IL hamstring 2nd stint/Phillies 38-33 8 GB (Tier 2 FOLLOW UP), Schwarber-Alvarez tied 24 HR/Derby July 14 Citizens Bank Park/Buxton 22/Rice 19 (Tier 2 FOLLOW UP), All-Star voting: Ohtani 1.165M leads all/Alvarez 1.015M AL/Witt Jr. leads AL SS/closes June 25 (Tier 3 NEW)
 
 
-## Last Run
+## Previous Run
 - **Date**: 2026-06-15
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (claims extracted, 0 char violations, consistency clean), compile (5 stories, 0 tweets compiled — known heading format, 0 FB parsed — known heading format, 5 articles, 15 items), dashboard (15 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
