@@ -2,6 +2,53 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-17
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-17 | T1 | Knicks Parade TOMORROW — Canyon of Heroes June 18 10 AM, first in franchise history | X, FB, Article | FOLLOW UP |
+| 2026-06-17 | T1 | Giannis Trade — Knicks Now in the Mix, Bucks Taking Final Offers, 6 Days to June 23 | X, FB, Article | FOLLOW UP |
+| 2026-06-17 | T2 | NBA Draft 6 Days Away — Dybantsa Larry Bird Comparison, -450 No. 1 to Wizards | X, FB, Article | FOLLOW UP |
+| 2026-06-17 | T2 | Austin Reaves — Nets May Back Off, Lakers 5yr/$239M Advantage | X, FB, Article | FOLLOW UP |
+| 2026-06-17 | T2 | NBA Offseason Convergence — Parade, Giannis, Draft, Free Agency All in 6 Days | X, FB, Article | NEW |
+
+### STORY 1: Knicks Parade TOMORROW — Canyon of Heroes
+- **Tier:** 1
+- **Category:** Celebration / NYC
+- **Key facts:** Parade Thursday June 18 10 AM Battery Park → Canyon of Heroes → City Hall Plaza; Key to the City ceremony Mayor Mamdani; City Hall lit blue & orange; 1970 and 1973 champs NEVER received Canyon of Heroes parade — Thursday is franchise first; 200+ parades on Broadway historically
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Parade recap/attendance numbers; crowd estimate; Brunson moment
+
+### STORY 2: Giannis Trade — Knicks Now in the Mix
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Jake Fischer: Bucks waited until Finals ended to request final offers; Giannis reportedly "only wanted the Knicks" last offseason; Heat and Celtics still in mix; 6 days to June 23 draft deadline; Bucks haven't asked for final offers yet as of June 17; Giannis 2 yrs left/eligible $275M extension Oct. 1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Giannis trade announced; confirmed landing spot
+
+### STORY 3: NBA Draft 6 Days Away — Dybantsa
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** Draft June 23-24 Barclays Center Brooklyn; Dybantsa -450 No. 1; Wizards hold pick (17-65); BYU: 25.5 PPG/51.0% FG/6.8 RPG/3.7 APG; first since Larry Bird (Indiana State 1978-79) to average those numbers + earn consensus All-American; Peterson still in No. 1 conversation
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dybantsa officially drafted No. 1
+
+### STORY 4: Austin Reaves — Nets May Back Off
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** Reaves $14.9M player option expires June 29; Lakers exclusive window open; Lakers 5yr/$239M vs Nets 4yr/$178.5M; new reports Nets may not pursue aggressively; Reaves 23.3 PPG/5.5 APG/4.7 RPG/49% FG age 28; wants to stay with Luka Doncic in LA
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Reaves re-signs Lakers; Nets pivot to other target
+
+### STORY 5: NBA Offseason Convergence
+- **Tier:** 2
+- **Category:** Analysis / NBA Offseason
+- **Key facts:** June 18 parade; June 23 Giannis deadline + draft Day 1; June 24 draft Day 2; June 29 Reaves option deadline; June 30 free agency opens; Brunson $156.5M through 2028; KAT extension pending; OG re-sign priority
+- **Status:** NEW
+- **Follow-up ideas:** Key offseason decisions resolved
+
+---
+
 ## 2026-06-16
 
 | Date | Tier | Story | Platforms | Status |
