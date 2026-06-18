@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 18, 2026
+
+### Story 1: Kasidi Pickering Signs with Texas Tech — Three All-Americans Complete Historic Class
+- **Date:** 2026-06-18
+- **Tier:** 1
+- **Classification:** BREAKING (DNT confirmed → official signing)
+- **Angle:** Oklahoma All-American Kasidi Pickering (career .384 BA / 50 HR / 169 RBI / 2026: .370 BA / 20 HR / 61 RBI) officially signed with Texas Tech, completing the Red Raiders' historic three-All-American portal class: Polar (.555 BA / 101 hits) + Heavener (No. 1 pitcher, 2.81 ERA / 128 K) + Pickering. Softball America ranks the class No. 1 nationally. WCWS runner-up 61-8 team now arguably the most dangerous portal-built program.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Texas Tech 2027 roster integration and title candidacy
+  - Texas vs. Texas Tech 2027 preview and rivalry framing
+
+### Story 2: Beachum Watch — Day 11, Four Days Left
+- **Date:** 2026-06-18
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Day 10 June 17 — uncommitted)
+- **Angle:** Jaysoni Beachum (.417 BA / 16 HR / 66 RBI / .549 OBP / career 37 HR / 180 RBI / 202 hits at FSU) is the last elite transfer still uncommitted. Softball America No. 1. With Pickering now to Texas Tech, Beachum is the undisputed final chapter of the 2026 portal. Four days remain before June 22 close. No frontrunner confirmed.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment announcement (imminent — 4 days left)
+  - Impact analysis at destination
+
+### Story 3: Texas Tech's Historic Portal Class — What Three All-Americans Mean for 2027
+- **Date:** 2026-06-18
+- **Tier:** 1
+- **Classification:** NEW (analysis upon class completion)
+- **Angle:** Full assessment of Texas Tech's completed portal class: Polar (nation's top hitter by average), Heavener (No. 1 pitcher in portal), Pickering (50 career HRs from Oklahoma). WCWS runner-up was 61-8, retains most of that core, adds three All-Americans. Softball America No. 1 class nationally. Texas vs. Texas Tech 2027 is the biggest rivalry matchup in the sport.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Texas Tech 2027 preseason outlook
+  - Texas-Texas Tech rivalry preview
+
+### Story 4: Tennessee Adds Karley Shelton, Mardjetko Returns — Lady Vols Reload
+- **Date:** 2026-06-18
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Tennessee lands South Carolina transfer Karley Shelton (.345 AVG / 68 H / 40 RBI / 108 TB, rising senior, 2B) for 2027 infield. Ace pitcher Sage Mardjetko announces return for senior season. Lady Vols went to WCWS semis in 2026 and are building back through complementary portal additions after losing Morgan (OF), Plumlee (P → Bama), Dodge (INF) via portal.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Tennessee 2027 outlook and WCWS path
+  - Mardjetko senior season as Tennessee's pitching anchor
+
+### Story 5: Portal Countdown — Day 11 of 15
+- **Date:** 2026-06-18
+- **Tier:** 3
+- **Classification:** FOLLOW UP (ongoing tracker)
+- **Angle:** Day 11 of 15. Four days remain. Committed (12): Torres (TX), Swan (TX), Lincoln (TX), Altmeyer (TX), Polar (TTU), Heavener (TTU), Pickering (TTU), Shelton (TENN), Hartley (OSU), Wetteland (ARK), Azua (A&M), Plumlee (Bama). Still available: Beachum (SA No. 1). Final chapter written.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Beachum commitment (June 18-22)
+  - Portal window close recap June 22
+
+---
+
 ## June 17, 2026
 
 ### Story 1: Isa Torres Commits to Texas — D1 POY Says "I'm Coming Home"

@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-18
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 1 tweet 307→236; 0 after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (98 claims, 0 char violations after fix, consistency clean), compile (5 stories, 7 tweets compiled, 5 FB parsed, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). 1 char violation fixed (Story 1 tweet 307→236).
+- **Key Stories**: Pickering signs Texas Tech (career .384/50HR/169RBI)/class complete Polar+Heavener+Pickering = SA No. 1 (Tier 1 BREAKING June 18), Beachum Day 11 still uncommitted/SA No. 1/.417/16HR/66RBI/4 days left (Tier 1 FOLLOW UP June 17), Texas Tech historic class analysis three All-Americans (Tier 1 NEW analysis), Tennessee adds Shelton (SC 2B .345/40RBI) + Mardjetko returns senior (Tier 2 NEW), Portal countdown Day 11 of 15/4 days remain (Tier 3 FOLLOW UP)
+
+
+## Last Run
 - **Date**: 2026-06-17
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 4 tweet 322→247; 0 after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (54 claims, 0 char violations after fix, consistency clean), compile (5 stories, 7 tweets compiled, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -10,7 +19,7 @@
 - **Key Stories**: Torres commits to Texas "I'm coming home"/D1 POY .530 BA/Georgetown TX native joins Swan+Lincoln/two-time champs add generational SS (Tier 1 FOLLOW UP → BREAKING June 16), Beachum Day 10 still uncommitted/SA No. 1/.417/16HR/66RBI/5 days left (Tier 1 FOLLOW UP June 16), Texas portal class Torres+Swan+Lincoln=three-peat blueprint (Tier 1 NEW analysis), Texas Tech class nearly complete Polar+Heavener+Pickering DNT/SA No. 1 class (Tier 2 FOLLOW UP June 16), Portal tracker Day 10 of 15/5 days remain (Tier 3 FOLLOW UP)
 
 
-## Last Run
+## Previous Run
 - **Date**: 2026-06-16
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (49 claims, 0 char violations, consistency clean), compile (5 stories, 7 tweets compiled, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published on main branch. Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
