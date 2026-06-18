@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-18
+
+### Story 1: Pete Crow-Armstrong Hits for the Cycle in Reverse Order — First of 2026 Season
+- **Date:** 2026-06-18
+- **Tier:** 1
+- **Classification:** NEW STORY (feature on June 15 game)
+- **Angle:** Cubs center fielder Pete Crow-Armstrong, 24, hit for the cycle in reverse order (HR-3B-2B-1B) in a Cubs 5-4 walk-off win over the Rockies on June 15. First cycle of the 2026 MLB season. First reverse-order cycle in Cubs franchise history. 13th Cubs franchise cycle overall. Fourth player in divisional era (since 1969) to complete reverse-order cycle. Youngest Cub to hit for the cycle since Randy Hundley in 1966. Went 4-for-4, 2 RBI. Matt Shaw walk-off bases-loaded walk in 9th.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Crow-Armstrong season trajectory and Cubs second-half push
+  - 2026 cycle tracker (first of year)
+
+### Story 2: Eduardo Rodriguez Earns 100th Career Win — D-Backs 8-1 Angels
+- **Date:** 2026-06-18
+- **Tier:** 1
+- **Classification:** NEW STORY (game June 17)
+- **Angle:** Arizona Diamondbacks starter Eduardo Rodriguez (7 IP, 6 H, 3 BB, 1 ER, 5 K) earned career win No. 100 as the D-Backs beat the Angels 8-1 on June 17. Rodriguez lowered ERA to 2.45. Became 9th Venezuelan-born pitcher in MLB history to win 100 career games. Corbin Carroll hit a grand slam.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Rodriguez season trajectory and D-Backs postseason push
+  - Venezuelan pitcher milestone context (career summaries)
+
+### Story 3: Freeman Go-Ahead HR Rescues Ohtani — Dodgers Sweep Rays 5-4
+- **Date:** 2026-06-18
+- **Tier:** 2
+- **Classification:** NEW STORY (game June 17)
+- **Angle:** Freddie Freeman hit a 407-foot two-run HR off Kevin Kelly in the 6th inning, rescuing a banged-up Ohtani who gave up 4 ER in the 5th. Dodgers 5, Rays 4. Completed three-game sweep — first Dodgers sweep of Rays since August 2013, only second sweep of Tampa Bay in franchise history.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Ohtani recovery next start
+  - Freeman clutch hit totals for season
+
+### Story 4: Schwarber Leads NL with 23 HR — Derby Countdown at Citizens Bank
+- **Date:** 2026-06-18
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 17 — tied at 24 HR)
+- **Angle:** Schwarber leads NL with 23 HR and .949 OPS. Alvarez leads AL. Derby July 13 at Citizens Bank Park (Schwarber's home). CBS Sports ideal field: Schwarber, Alvarez, Harper, Trout, Rice. Phase 1 voting closes June 25.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Derby field official announcement
+  - HR leader at All-Star break
+  - Phase 1 voting final results
+
+### Story 5: All-Star Ballot — Ohtani Dominates, Phase 1 Closes June 25
+- **Date:** 2026-06-18
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 17 — ballot standings)
+- **Angle:** Ohtani leads all MLB players. Alvarez leads AL DH. Baldwin (C) 972,813 votes leads catchers. Phase 1 closes June 25 at noon ET with auto-starter for Phase 1 leader in each league. All-Star July 14 Philadelphia. Derby July 13.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concept
+- **Follow-Up Opportunities:**
+  - Phase 2 ballot results (June 29)
+  - Final roster announcements
+  - Derby field announcement
+
+---
+
 ## 2026-06-17
 
 ### Story 1: Braves Lose Strider to Elbow Inflammation — MRI Clean, 4-Week Shutdown
