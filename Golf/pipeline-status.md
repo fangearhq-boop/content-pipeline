@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-17
+- **Date**: 2026-06-18
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-18
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters (3 tweets fixed for char limit during verify-facts pass)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-06-18.xlsx (6 posts) + gfr-postplanner-tobi-2026-06-18.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-18/review-dashboard.html (21 items)
+- **Notes:** US Open Round 1 UNDERWAY at Shinnecock Hills (Scheffler +550 Grand Slam bid/8:14 AM tee/wind gusts 35-40 mph afternoon/tee times moved up 30 min/2018 Koepka won +1 no player under par); LIV Golf crisis — Saudi PIF ending funding after 2026/$200M of $600M delivered/annual losses $500-600M/New Orleans postponed/O'Neil seeking $250-350M/Ducera Partners hired/new board; Scheffler Grand Slam/30th birthday/Father's Day final round June 21; Shinnecock Hills history 2018/USGA watered greens/exposed layout; Meijer LPGA Classic Round 1 Blythefield MI/$3M/dads free Sunday/KPMG follows June 25-28 Hazeltine
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-17
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

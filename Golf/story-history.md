@@ -2,6 +2,50 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-18
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-18 | T1 | US Open Round 1 UNDERWAY at Shinnecock Hills — Scheffler Grand Slam chase, 156 players, wind arrives | X, FB, Article | FOLLOW UP |
+| 2026-06-18 | T1 | LIV Golf Crisis — Saudi PIF Ends Funding After 2026, New Orleans Postponed, O'Neil Fundraising | X, FB, Article | FOLLOW UP |
+| 2026-06-18 | T2 | Scheffler Grand Slam — Birthday + Father's Day Sunday, 7th Ever if Wins | X, FB, Article | FOLLOW UP |
+| 2026-06-18 | T2 | Shinnecock Hills History — Why 2018 Was Brutal, 2026 Wind Forecast | X, FB, Article | COMPLETE |
+| 2026-06-18 | T2 | Meijer LPGA Classic Round 1 — Blythefield CC Michigan, $3M, Dads Free Sunday | X, FB, Article | FOLLOW UP |
+
+### STORY 1: US Open Round 1 Underway
+- **Tier:** 1
+- **Category:** US Open / Major Championship
+- **Key facts:** 126th US Open at Shinnecock Hills Southampton NY; June 18-21; Scheffler +550 teed off 8:14 AM (with Spaun+Howell); McIlroy 7:52 AM; wind gusts 35-40 mph afternoon; tee times moved up 30 min to 6:35 AM; 2018 Shinnecock: no player under par, Koepka won +1; Scheffler needs US Open for Grand Slam (Masters x2/PGA/Open)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 leader; Scheffler position; afternoon scoring vs morning
+
+### STORY 2: LIV Golf Crisis
+- **Tier:** 1
+- **Category:** LIV Golf / Industry
+- **Key facts:** Saudi PIF confirmed ending funding after 2026; only $200M of $600M committed delivered; annual losses $500-600M; total investment $5B+; New Orleans event postponed; O'Neil seeking $250-350M private investors; 5 formal meetings, 18 more planned; Ducera Partners hired; new independent board Gene Davis + Jon Zinman
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** O'Neil fundraising results; LIV UK July 23-26 status; player reinstatement talks
+
+### STORY 3: Scheffler Grand Slam
+- **Tier:** 2
+- **Category:** Scheffler / Grand Slam History
+- **Key facts:** Needs only US Open; Masters 2022+2024, PGA 2025, Open 2025; final round June 21 = Father's Day + his 30th birthday; only 6 players ever completed Grand Slam (Sarazen/Hogan/Player/Nicklaus/Woods/McIlroy); runner-up at 2026 Masters behind McIlroy; No. 1 FedEx Cup 2026
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler Round 1 score; position entering weekend
+
+### STORY 4: Shinnecock Hills History
+- **Tier:** 2
+- **Category:** Course History / Conditions
+- **Key facts:** 2018: no player under par; Koepka won +1; Round 3 scoring avg 75.3 on par-70; USGA watered greens mid-round; 1895 design (2nd oldest US Open venue in rotation); exposed heathland terrain Southampton coastline; USGA moved 2026 tee times up 30 min for afternoon wind
+- **Status:** COMPLETE
+
+### STORY 5: Meijer LPGA Classic Round 1
+- **Tier:** 2
+- **Category:** LPGA Tour
+- **Key facts:** Meijer LPGA Classic for Simply Give; June 18-21 Blythefield CC Belmont MI; 144 players; $3M purse; $10/day admission; kids 17 and under free all week; Father's Day June 21 = free admission for dads; KPMG Women's PGA follows June 25-28 Hazeltine National Chaska MN
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 1 leader; KPMG form guide narrative
+
 ## 2026-06-17
 
 | Date | Tier | Story | Platforms | Status |

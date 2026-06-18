@@ -1,0 +1,252 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-18",
+  "compiled_at": "2026-06-18T11:43:10.786096+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "US Open Round 1 UNDERWAY — Scheffler's Grand Slam Chase Begins as Shinnecock Wind Howls",
+      "tier": 1,
+      "status": "",
+      "angle": "Round 1 of the 126th US Open is underway at Shinnecock Hills. The USGA moved up tee times by 30 minutes (starting 6:35 AM ET) to help morning groups beat the afternoon wind. Forecasts show sustained 12-24 mph winds with gusts 35-40+ mph expected this afternoon — the kind of conditions that Shinnecock Hills amplifies brutally. Scottie Scheffler is the centerpiece: he is pursuing the career Grand Slam today, needing only a US Open to complete the set. The 2018 US Open at Shinnecock produced no player under par for the week.",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The 2026 U.S. Open is underway at Shinnecock Hills. 🏌️\n\nWind forecast for this afternoon:\n🌬️ Sustained: 12-24 mph\n💨 Gusts: 35-40+ mph\n\nMorning starters got calm conditions.\nAfternoon wave gets this.\n\nScheffler's Grand Slam chase begins today. #USOpen #Golf",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#Golf"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 1-2",
+          "text": "In 2018, NO player finished under par at Shinnecock Hills.\n\nBrooks Koepka won at +1. The Round 3 scoring average was 75.3.\n\nToday the wind gusts are expected at 40 mph.\n\nThe U.S. Open at Shinnecock doesn't forgive anyone. #USOpen #ShinnecockHills",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#ShinnecockHills"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-us-open-round-1-scheffler-grand-slam-shinnecock.html",
+        "headline": "US Open Round 1: Scheffler's Grand Slam Chase Begins as Shinnecock Hills Wind Arrives",
+        "word_count": 713
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "US Open Round 1\n\n**Social Image (1080x1350):**\n- Search term: `Scottie Scheffler PGA Tour`\n- Caption overlay: \"US OPEN ROUND 1 | Scheffler's Grand Slam Chase | Shinnecock Hills\"\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630):**\n- Search term: `Shinnecock Hills US Open golf`\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "US Open Round 1\n**Sources:**\n- Golf Digest: US Open 2026 worst-case weather scenario — golfdigest.com\n- NBC Sports: US Open 2026 wind gusts \"problematic\" — nbcsports.com\n- ESPN: Organizers adjusting course for winds, syringing — espn.com\n- USGA: 3 Things to Know Round 1 — usopen.com\n- CBS Sports live leaderboard — cbssports.com (active, round in progress)\n**Key verified facts (HIGH confidence):**\n- US Open Round 1 date: Thursday June 18, 2026 (HIGH)\n- Location: Shinnecock Hills Golf Club, Southampton, NY (HIGH)\n- Field: 156 players (HIGH)\n- USGA moved up tee times ~30 min to start 6:35 AM ET (HIGH — CBS Sports/USGA)\n- Morning tee times on USA Network (HIGH — PGA Tour)\n- Wind forecast: 12-24 mph sustained, gusts 35-40+ mph in afternoon (HIGH — NBC Sports/Golf Digest)\n- Scheffler tee time: 8:14 AM with J.J. Spaun and Mason Howell (MEDIUM — pre-tournament source)\n- McIlroy tee time: 7:52 AM with Tommy Fleetwood and Ludvig Åberg (MEDIUM — pre-tournament source)\n- 2018 Shinnecock: no player finished under par (HIGH — confirmed historically)\n- Koepka won 2018 at 1-over 281 (HIGH — historical)\n- Scheffler seeking Grand Slam; +550 odds (MEDIUM — pre-tournament odds)\n**Freshness justification:** Round 1 happening TODAY. Real-time coverage.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LIV Golf Crisis — Saudi PIF Ends Funding, CEO Fundraising, New Orleans Postponed",
+      "tier": 1,
+      "status": "",
+      "angle": "LIV Golf's existential crisis is deepening. Saudi Arabia's Public Investment Fund has confirmed it will end funding after the 2026 season. The league has already postponed its New Orleans event. CEO Scott O'Neil is in active fundraising mode — 5 formal meetings completed, 18 more planned — seeking $250-350M in new investment. A new independent board (Gene Davis and Jon Zinman) has been established. Annual losses estimated at $500-600M. Only $200M of $600M committed for 2026 has been delivered.",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "LIV Golf by the numbers:\n\n$5 billion invested by Saudi Arabia since 2022.\n$500-600M in annual losses.\nNew Orleans event: postponed.\nSaudi PIF: exiting after 2026.\n\nCEO O'Neil is seeking $250-350M from private investors.\n\nThe clock is ticking. ⏰ #LIVGolf #Golf",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-liv-golf-crisis-saudi-funding-ends-onil-fundraising.html",
+        "headline": "LIV Golf's Survival Race: Saudi Money Gone, CEO in Emergency Fundraising Mode",
+        "word_count": 710
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Crisis\n\n**Social Image (1080x1350):**\n- Search term: `Bryson DeChambeau LIV Golf`\n- Caption overlay: \"LIV GOLF CRISIS | Saudi Funding Ends | New Orleans Postponed\"\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630):**\n- Search term: `Jon Rahm LIV Golf`\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Crisis\n**Sources:**\n- CBS Sports: Saudi Arabia LIV funding ends 2026 — cbssports.com\n- Sky Sports: LIV Golf future explained after Saudi funding cut — skysports.com\n- CNBC: LIV Golf CEO PIF funding cliff June 9, 2026 — cnbc.com\n- Golf Channel: LIV establishes new board after PIF cuts funding — golfchannel.com\n- Sky Sports: LIV hires financial advisers — skysports.com\n**Key verified facts (HIGH confidence):**\n- Saudi PIF confirms ending LIV funding after 2026 season (HIGH — multiple major outlets)\n- Only $200M of $600M committed for 2026 delivered so far (HIGH — Sky Sports)\n- New Orleans event postponed (HIGH — multiple sources, confirmed)\n- CEO O'Neil seeking $250-350M in new investment (MEDIUM — CNBC June 9)\n- 5 formal investor meetings completed, 18 more planned (MEDIUM — CNBC O'Neil quote)\n- Annual losses estimated $500-600M (HIGH — industry-wide reporting)\n- $5 billion total invested by Saudi Arabia since launch (HIGH — multiple sources)\n- New board: Gene Davis and Jon Zinman (HIGH — Golf Channel)\n- Yasir Al-Rumayyan stepped down as chairman (HIGH — Sky Sports)\n- 4 remaining events at risk (MEDIUM — prior research)\n- LIV UK event July 23-26 among at-risk events (MEDIUM — prior research)\n**Freshness justification:** Ongoing crisis with new developments weekly. US Open week (some LIV players in field) makes it especially timely.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Scheffler Grand Slam — Sunday Could Be His 30th Birthday and the Greatest Day in Golf",
+      "tier": 2,
+      "status": "",
+      "angle": "If Scottie Scheffler wins the 2026 US Open, the final round falls on Sunday, June 21 — Father's Day AND his 30th birthday. He would become the 7th player ever to complete the career Grand Slam. He has won Masters (2022, 2024), PGA Championship (2025), and The Open (2025). He needs only a US Open. Only Tiger Woods won all four majors for the first time on first-attempt Grand Slam; Scheffler is trying to match that. He enters at +550 odds.",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Scottie Scheffler needs ONE major for the Grand Slam.\n\nIf he wins the 2026 U.S. Open, the final round is June 21.\n\nThat's Father's Day.\nThat's his 30th birthday.\n\nOnly 6 players in history have completed the Grand Slam.\nHe could be No. 7. 🏆 #Scheffler #USOpen",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Scheffler",
+            "#USOpen"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-scheffler-grand-slam-birthday-fathers-day-sunday.html",
+        "headline": "Scheffler's Birthday Grand Slam: Sunday Could Be the Greatest Day in Golf in Decades",
+        "word_count": 645
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler Grand Slam\n\n**Social Image (1080x1350):**\n- Search term: `Scottie Scheffler PGA Tour`\n- Caption overlay: \"GRAND SLAM CHASE | Scheffler | Birthday + Father's Day Final Round\"\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630):**\n- Search term: `Scottie Scheffler Masters`\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler Grand Slam\n**Sources:**\n- PGA Tour: US Open 2026 coverage — pgatour.com\n- Golf Digest: Power rankings entire field — golfdigest.com\n- CBS Sports: Field ranking 1-26 at Shinnecock — cbssports.com\n**Key verified facts (HIGH confidence):**\n- Scheffler's majors: Masters 2022, Masters 2024, PGA Championship 2025, The Open 2025 (HIGH — confirmed multiple sources/prior research)\n- Grand Slam completers (6): Gene Sarazen, Ben Hogan, Gary Player, Jack Nicklaus, Tiger Woods, Rory McIlroy (HIGH — confirmed in prior research)\n- McIlroy completed Grand Slam at 2026 Masters (HIGH — confirmed)\n- Scheffler would be 7th ever (HIGH — logical)\n- Final round June 21 = Father's Day + Scheffler's 30th birthday (HIGH — confirmed multiple sources/prior research)\n- Only Tiger won first-attempt first time (MEDIUM — prior research, should verify)\n- Scheffler +550 odds (MEDIUM — pre-tournament, may have changed)\n- Scheffler was runner-up 2026 Masters (HIGH — prior research)\n**Freshness justification:** Grand Slam chase underway TODAY. High engagement story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Shinnecock Hills — Why This Is the Most Brutal US Open Venue",
+      "tier": 2,
+      "status": "",
+      "angle": "No player finished under par at Shinnecock Hills in 2018 — not even the winner. Brooks Koepka won at 1-over 281. The third round scoring average was 75.3. The course setup in 2018 was so extreme that the USGA had to water greens mid-round. Wind on the exposed Southampton coastline turns a normal course into something unmanageable. Today's forecast: 12-24 mph sustained, gusts 40 mph in the afternoon. The afternoon wave is going to be fighting the same conditions that humiliated the world's best in 2018.",
+      "posting_window": "3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "2018 U.S. Open at Shinnecock Hills:\n\n• No player finished under par\n• Winner (Koepka): +1 total\n• Round 3 scoring avg: 75.3\n• USGA had to water greens mid-round\n\nThe 2026 afternoon wave is dealing with 40 mph gusts.\n\nHistory is about to repeat itself. 😬 #USOpen #ShinnecockHills",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#ShinnecockHills"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-shinnecock-hills-brutal-history-2018-us-open.html",
+        "headline": "Shinnecock Hills Is the Most Brutal US Open Venue — And Thursday Proves It Again",
+        "word_count": 811
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shinnecock Hills\n\n**Social Image (1080x1350):**\n- Search term: `Brooks Koepka US Open`\n- Caption overlay: \"SHINNECOCK HILLS | No Player Under Par 2018 | 40 mph Gusts Today\"\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630):**\n- Search term: `US Open golf Shinnecock`\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shinnecock Hills Course History\n**Sources:**\n- Wikipedia: 2018 US Open (golf) — en.wikipedia.org\n- Golf.com: Why Shinnecock Hills is hard — golf.com\n- SI.com: Past four US Opens at Shinnecock — si.com\n- Heavy.com: Brutal US Open scoring predicted — heavy.com\n- Golf Digest: Former USGA chief Mike Davis 2018 — golfdigest.com\n**Key verified facts (HIGH confidence):**\n- 2018 US Open winner: Brooks Koepka at +1 (281 total) (HIGH — Wikipedia/multiple sources)\n- 2018 Round 3 scoring average: 75.3 (HIGH — multiple sources)\n- No player finished under par in 2018 at Shinnecock (HIGH — confirmed multiple sources)\n- Koepka defended his title in 2018 (first defense since Curtis Strange 1989) (HIGH — Wikipedia)\n- USGA had to water greens mid-round in 2018 Saturday (HIGH — prior reports/common knowledge)\n- 2026 wind forecast: 12-24 mph sustained/gusts 35-40+ mph (HIGH — verified above)\n- Afternoon wave faces worse conditions than morning wave (HIGH — general knowledge for exposed links-style venues)\n**Freshness justification:** Course history with 2026 Round 1 weather hook. Highly relevant day-of.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Meijer LPGA Classic Round 1 — Blythefield Michigan, Father's Day Free Sunday",
+      "tier": 2,
+      "status": "",
+      "angle": "The Meijer LPGA Classic for Simply Give begins today (June 18-21) at Blythefield Country Club in Belmont, Michigan — running parallel to the US Open. The $3M purse event features 144 LPGA players. Unique promotion: Father's Day (June 21) means free general admission for dads. Kids 17 and under are also free all week. The KPMG Women's PGA Championship follows June 25-28 at Hazeltine National, making this a significant back-to-back week for women's golf.",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Golf Thursday reminder:\n\nThe U.S. Open isn't the only event teeing off today.\n\nMeijer LPGA Classic begins NOW at Blythefield CC, Michigan.\n\n144 players. $3M purse.\nFather's Day (June 21) = FREE for dads.\n\nTwo tournaments. One big golf weekend. ⛳ #LPGA #Golf",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#Golf"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-meijer-lpga-classic-round-1-blythefield.html",
+        "headline": "Meijer LPGA Classic Round 1: Best Field of the Year Tees Off in Belmont, Michigan",
+        "word_count": 694
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LPGA Classic\n\n**Social Image (1080x1350):**\n- Search term: `LPGA Tour golf`\n- Caption overlay: \"MEIJER LPGA CLASSIC | Blythefield CC Michigan | Dads Free Sunday\"\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630):**\n- Search term: `LPGA Tour golf`\n- Credit: (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Meijer LPGA Classic\n**Sources:**\n- LPGA.com: Tournament overview — lpga.com/tournaments\n- Meijer LPGA Classic official site — meijerlpgaclassic.com\n- PGA Tour 2026 LPGA schedule — pgatour.com\n**Key verified facts (HIGH confidence):**\n- Tournament: Meijer LPGA Classic for Simply Give (HIGH)\n- Dates: June 18-21, 2026 (HIGH)\n- Course: Blythefield Country Club, Belmont, Michigan (HIGH)\n- Purse: $3 million (HIGH — prior research/LPGA)\n- Father's Day = free general admission for dads (Sunday June 21) (HIGH — prior research)\n- Kids 17 and under free all week (HIGH — prior research)\n- 144 players in field (HIGH — prior research)\n- KPMG Women's PGA follows June 25-28 at Hazeltine (HIGH — LPGA schedule confirmed)\n**Freshness justification:** Tournament starts TODAY. Concurrent with US Open for women's golf angle.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
