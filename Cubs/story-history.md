@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-18
+
+### STORY 1: Game Recap — Cubs 8, Rockies 6 (June 17 at Wrigley — Series Win)
+- **Angle:** NEW STORY (Cubs 8-6 series win June 17; 7-run 2nd inning; Swanson 2-run HR (first since May 18); PCA 15th HR; Assad 5-1 second straight win; Matt Shaw Player of the Game 2 RBI two triples in series; Jacob Webb 2nd save; Cubs took series 2-1; now 39-36)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Swanson continued HR/power surge confirmation
+  - Assad third consecutive strong start
+
+### STORY 2: Injury Bulletin — Palencia IL, Steele Throwing Monday, Boyd Delayed, Cabrera Clear
+- **Angle:** NEW STORY (off-day injury consolidation; Palencia 15-day IL elbow inflammation June 16; Hollowell recalled; Maton closer; Steele throwing program June 22; Steele September return at earliest; Boyd shoulder soreness post-Iowa, delayed; Cabrera hand cramp cleared by testing)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, injury/roster update)
+- **Follow-Up Opportunities:**
+  - Palencia return timeline (15-day minimum, likely July)
+  - Boyd bullpen session results
+  - Steele throwing program milestones
+
+### STORY 3: Trade Deadline — 46 Days, Rotation AND Bullpen Both in Crisis
+- **Angle:** FOLLOW UP (ongoing rotation crisis + deadline arc; today's angle = 46-day countdown, Palencia now adds bullpen need to rotation need; Alcántara/Mize as dual starter targets)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Any trade reporting / deal announcement
+  - Alcántara or Mize trade confirmation
+
+### STORY 4: Pete Crow-Armstrong — No. 1 NL All-Star Vote-Getter, 15 HR
+- **Angle:** FOLLOW UP (PCA All-Star arc; previous angle = 14th place 265K votes "crime"; today's angle = 1.126M votes No. 1 NL outfield after cycle; .276/.348/.498 15 HR 16 SB)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, bold take/player feature)
+- **Follow-Up Opportunities:**
+  - All-Star selection announcement (July)
+  - PCA continued surge vs Blue Jays
+
+### STORY 5: Blue Jays Series Preview — Defending AL Pennant Winners at Wrigley, Friday 1:20 PM CT
+- **Angle:** NEW STORY (3-game Wrigley home series June 19-21; Blue Jays 2025 AL pennant winners / World Series runners-up; first pitch Friday 1:20 PM CT; Cubs 39-36 need home wins)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result (June 19)
+  - Series probable pitchers when announced
+
+### STORY 6: Wild Card Watch — 39-36, 7.5 GB, Three NL Spots Available
+- **Angle:** FOLLOW UP (ongoing wild card arc; today's angle = 39-36 above .500, Brewers 44-26 (7.5 GB), three NL wild card spots, every home game matters)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update
+  - Cardinals record confirmation
+
+---
+
 ## 2026-06-17
 
 ### STORY 1: Game Recap — Rockies 5, Cubs 2 (June 16 at Wrigley)
