@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-17
+- **Date**: 2026-06-18
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-18
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-06-18.xlsx (6 posts) + hh-postplanner-tobi-2026-06-18.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-18/review-dashboard.html (21 items)
+- **Notes:** Knicks parade TODAY Canyon of Heroes June 18 10 AM — 347K applied for 600 City Hall seats/Frazier+Ewing attending/first in franchise history; Giannis trade down to Heat vs Celtics/Bucks unimpressed with Heat offer/Stein "drawing near"/5 days to June 23; Dybantsa -450 No.1 Wizards/Peterson still in conversation/Larry Bird stats comparison/5 days to draft; Reaves Lakers 5yr/$239M frontrunner/Nets backing off; Brunson greatest Knick ever legacy piece
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-17
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

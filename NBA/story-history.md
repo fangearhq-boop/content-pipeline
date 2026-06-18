@@ -2,6 +2,53 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-18
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-18 | T1 | Knicks Parade DAY — Canyon of Heroes, First Ticker-Tape in Franchise History | X, FB, Article | FOLLOW UP |
+| 2026-06-18 | T1 | Giannis Trade — Heat vs. Celtics, 5 Days to June 23, Bucks Seeking Final Offers | X, FB, Article | FOLLOW UP |
+| 2026-06-18 | T2 | NBA Draft 5 Days Away — Dybantsa -450 No. 1, Larry Bird Stats, Peterson Pushing | X, FB, Article | FOLLOW UP |
+| 2026-06-18 | T2 | Austin Reaves — Lakers Favored to Retain, Nets Backing Off, June 29 Option | X, FB, Article | FOLLOW UP |
+| 2026-06-18 | T2 | Brunson Legacy — Greatest Knick Ever? The Parade Day Case | X, FB, Article | NEW |
+
+### STORY 1: Knicks Parade DAY
+- **Tier:** 1
+- **Category:** Celebration / NYC
+- **Key facts:** Parade TODAY June 18 10 AM Battery Park → Canyon of Heroes → City Hall; Key to the City by Mayor Mamdani; 347,000 applied for 600 City Hall lottery seats; Walt "Clyde" Frazier + Patrick Ewing attending; 40% rain chance; first Canyon of Heroes parade in franchise history (1970/1973 champs never had ticker-tape); city lit blue and orange
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Parade recap, crowd estimates, Brunson Key to the City moment
+
+### STORY 2: Giannis Trade — Heat vs. Celtics
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Heat (Herro + picks) and Celtics (Brown package) the two finalists; Bucks not impressed with Heat's offer (Windhorst/ESPN); Celtics face Tatum/Brown dilemma; Marc Stein "drawing near"; Bucks also exploring trading up in draft; 5 days to June 23 deadline
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announced; Giannis confirms destination
+
+### STORY 3: NBA Draft 5 Days Away
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** Draft June 23-24 Barclays Center Brooklyn 8 PM ET ABC/ESPN; Dybantsa -450 No. 1; Wizards narrowed to Dybantsa/Peterson; Peterson visited Wizards; Dybantsa visited Wizards + Jazz; Jazz No. 2 pick; first since Larry Bird (Indiana State 1978-79) with those stats + consensus AA; Dybantsa 25.5 PPG/51.0% FG/6.8 RPG
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Dybantsa/Peterson draft night
+
+### STORY 4: Austin Reaves Free Agency
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** Reaves $14.9M option expires June 29; Lakers 5yr/$239M vs Nets 4yr/$177M; Nets may not pursue aggressively; HoopsHype/Scotto: Lakers favorites if they offer near max; Reaves 23.3 PPG/5.5 APG/4.7 RPG/49% FG; wants to stay in LA with Luka; also interest from Hawks/Pistons
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Reaves signs; Nets pivot
+
+### STORY 5: Brunson Legacy — Greatest Knick Ever
+- **Tier:** 2
+- **Category:** Analysis / Player Feature
+- **Key facts:** Brunson 45 pts Game 5, unanimous Bill Russell Trophy; 32.6 PPG/4.6 APG/4.2 RPG Finals avg; ~$113M pay cut before 2023-24; ended 53-year drought; first Canyon of Heroes parade in franchise history; argument vs Frazier/Reed (two titles each, different era)
+- **Status:** NEW
+- **Follow-up ideas:** Continued legacy discussion; offseason moves under Brunson's leadership
+
+---
+
 ## 2026-06-17
 
 | Date | Tier | Story | Platforms | Status |
