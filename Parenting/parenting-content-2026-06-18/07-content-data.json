@@ -1,0 +1,286 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-18",
+  "compiled_at": "2026-06-18T12:32:27.849399+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — AAP vaccine schedule",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 — Joyin dive sticks recall",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 4 — Bear Creek Pollinator Celebration",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 3 — COS summer trail upgrades",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 — Bellabu Bear robe recall",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 1 — AAP vaccine second post",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "AAP Says Keep Your Kids' Vaccines Current — Even If CDC Doesn't Agree",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "The AAP kept its 18-disease vaccine schedule for kids in 2026 — the CDC reduced its list to 11.\n\nMost pediatricians follow the AAP. Ask your doctor which they use at your next checkup. [URL]\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 251
+        },
+        {
+          "label": "Post 1-2",
+          "text": "AAP vs. CDC vaccine schedules diverged in 2026.\n\nAAP keeps: Hep A, Hep B, rotavirus, meningococcal, RSV, flu for all kids.\nHPV: AAP says ages 9-12. CDC: 11-12.\n\nYour pediatrician likely follows AAP. [URL]\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-aap-vaccine-schedule-2026-cdc-differences.html",
+        "headline": "AAP vs. CDC Vaccine Schedules 2026: What Colorado Springs Families Need to Know",
+        "word_count": 884
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "AAP vs CDC Vaccine Schedule\n\n#### Image 1A — X Post (1200x675)\n\n**Prompt:**\nA warm, reassuring medical scene: a pediatrician's exam table in a bright, modern clinic room with sunlight coming through a window. On the table, a small clipboard with a simple checklist and a pen beside it. A child's colorful sneaker visible at the edge of the table. Soft teal and white color palette with warm natural light. Clean, hopeful mood. Art style: photo-realistic with soft depth of field. Bottom third is clean white-to-light-teal gradient with minimal visual content for text overlay.\n\n**Alt text:** A bright pediatric exam room with a clipboard checklist and a child's sneaker visible at the edge of the table.\n\n---\n\n#### Image 1B — Facebook (1200x630)\n\n**Prompt:**\nA close-up, warmly lit scene of a parent and young child at a pediatrician's office. The child (approximately 5 years old, gender-neutral appearance) sits on an exam table in a paper gown, looking curious, not scared. A friendly pediatrician in a white coat is visible in soft focus in the background. Soft teal and cream color palette with warm clinic lighting. Mood: calm, reassuring, modern healthcare. Art style: photo-realistic with gentle warmth. Bottom third is mostly neutral background for text overlay.\n\n**Alt text:** A young child sitting on a pediatrician's exam table looking curious, with a doctor in soft focus in the background.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Recall Alert: Joyin Sloosh Dive Sticks Pose Impalement Hazard — Stop Using Now",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "RECALL: Joyin Sloosh dive sticks — stop using them now.\n\nThey violate the federal dive stick ban. Risk of piercing injuries in shallow water.\n\nCheck your pool bag. Contact Joyin for a refund. [URL]\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-joyin-sloosh-dive-sticks-recall-impalement.html",
+        "headline": "Joyin Sloosh Dive Sticks Recalled: Impalement Risk, Violates Federal Pool Toy Ban",
+        "word_count": 742
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Joyin Sloosh Dive Sticks Recall\n\n#### Image 2A — X Post (1200x675)\n\n**Prompt:**\nA bright summer pool scene: a family pool bag sitting on a concrete pool deck in midday sun, items partially visible (sunscreen, towel, water bottle), with a blurred pool in the background showing sparkling blue water. A bold red warning-style graphic space in the upper left is empty (text overlay goes there). Color palette: vibrant summer blues, coral, and white. Mood: urgent but summery — not scary, just alert. Art style: photo-realistic, bright natural light. Bottom third: clean deck surface for text overlay.\n\n**Alt text:** A pool bag on a sunny concrete deck with a blurred sparkling blue pool in the background.\n\n---\n\n#### Image 2B — Facebook (1200x630)\n\n**Prompt:**\nA close-up of a family pool bag on a sunny outdoor deck, contents spilling slightly — sunscreen tube, bright towel corner, a water bottle. The bag is a bright primary-colored nylon tote. Background: out-of-focus lush backyard and pool edge. Mood: bright summer day with a cautionary undertone. Color palette: sunny yellows, blues, coral. Art style: photo-realistic, warm afternoon light. Bottom third: clean deck surface with minimal objects for text overlay.\n\n**Alt text:** A colorful pool bag on a sunny deck with summer essentials partially visible.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Summer Trail Upgrades Arriving in COS: Blodgett Open Space + Fox Run",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Blodgett Open Space adds 14 miles of trails this summer — with mountain bike-only routes and a new trailhead.\n\nFox Run's pond and gazebo renovation also wraps up. [URL]\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cos-summer-trail-upgrades-blodgett-fox-run.html",
+        "headline": "COS Summer Trail Upgrades 2026: Blodgett Open Space and Fox Run Regional Park",
+        "word_count": 831
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Summer Trail Upgrades\n\n#### Image 3A — X Post (1200x675)\n\n**Prompt:**\nA wide-angle view of a Rocky Mountain foothills trail on a clear summer morning. The path winds through dry scrub oak and pine, with red rock formations visible in the mid-distance. A family of four (two adults, two children of elementary school age) walks the trail away from camera in casual hiking clothes. Mood: adventurous, family-friendly, Colorado summer. Color palette: dusty terra cotta, pine green, clear blue sky. Art style: photo-realistic, golden morning light. Bottom third: trail surface and dry grass with open sky for text overlay.\n\n**Alt text:** A family of four hiking a winding Rocky Mountain foothill trail with red rock formations in the distance.\n\n---\n\n#### Image 3B — Facebook (1200x630)\n\n**Prompt:**\nA mountain bike trail winding through Colorado foothills terrain — scrub oak, rock outcroppings, clear blue sky. A single mountain biker (adult, helmet, no brand logos) rides ahead on the trail, mid-distance, small in frame to emphasize the landscape. Morning light casting long shadows. Mood: active, expansive, Colorado outdoors. Color palette: pine green, rust red, sky blue. Art style: photo-realistic, crisp morning light. Bottom third: rocky trail foreground with open composition for text overlay.\n\n**Alt text:** A mountain biker on a winding Colorado foothills trail with scrub oak and rock outcroppings.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Bear Creek Nature Center Pollinator Celebration — June 26, $5/Person",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Bear Creek Nature Center hosts a Pollinator Celebration on June 26.\n\nBug sweeps, hands-on activities, native pollinator education. $5/person.\n\nGreat science activity for kids this summer. [URL]\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-bear-creek-pollinator-celebration-june-26.html",
+        "headline": "Bear Creek Nature Center Pollinator Celebration: June 26, $5 Per Person",
+        "word_count": 745
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bear Creek Pollinator Celebration\n\n#### Image 4A — X Post (1200x675)\n\n**Prompt:**\nA close-up macro scene of a native bee landing on a wildflower cluster in a Colorado meadow — purple coneflower or native sunflower. The bee is in sharp focus with soft bokeh green and yellow meadow background. Mood: wonder, discovery, educational. Color palette: warm gold, purple, soft green. Art style: photo-realistic macro photography style, warm natural afternoon light. Bottom third: soft blurred meadow grass in muted green for text overlay.\n\n**Alt text:** A native bee landing on a purple wildflower in close-up macro view with a soft green meadow background.\n\n---\n\n#### Image 4B — Facebook (1200x630)\n\n**Prompt:**\nA child (approximately 7-8 years old, gender-neutral) holding an insect net and peering into it with wide-eyed curiosity, standing in a sun-dappled meadow. Wildflowers and tall grass in the background, soft natural light. The child's expression is delighted and focused. Mood: wonder, hands-on outdoor learning, joyful. Color palette: warm greens, gold, sky blue. Art style: photo-realistic, gentle summer lighting. Bottom third: meadow grass transitioning to softer tones for text overlay.\n\n**Alt text:** A child holding an insect net and peering inside with delight, standing in a sunny meadow with wildflowers.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Recall: Bellabu Bear Children's Robes — Burn Hazard, Violates Sleepwear Standard",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Recall: Bellabu Bear children's robes are recalled for a burn hazard. They violate mandatory flammability standards for kids' sleepwear.\n\nStop using and contact Bellabu Bear for a remedy. [URL]\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-bellabu-bear-childrens-robes-recall-burn-hazard.html",
+        "headline": "Bellabu Bear Children's Robes Recalled for Burn Hazard: What Parents Need to Know",
+        "word_count": 765
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bellabu Bear Children's Robes Recall\n\n#### Image 5A — X Post (1200x675)\n\n**Prompt:**\nA children's bathroom in warm evening light — a soft neutral-toned robe hanging on a hook beside a bathtub. The scene is cozy but with an overlay-ready empty space. No brand names, no logos, no characters. Mood: domestic, calm, with a safety-alert undertone. Color palette: warm neutrals — cream, soft gray, warm white. Art style: photo-realistic interior photography style, soft warm light. Bottom third: tile floor or lower wall area in neutral tones for text overlay.\n\n**Alt text:** A children's robe hanging on a hook in a warmly lit bathroom beside a bathtub.\n\n---\n\n#### Image 5B — Facebook (1200x630)\n\n**Prompt:**\nA child's bedroom at bedtime — a soft robe folded at the foot of a bed with cozy bedding and a nightstand with a lamp glowing warmly in the background. No brand identifiers, no characters or logos. Mood: domestic, safe-haven feel with a gentle alert undertone. Color palette: soft cream, warm gold lamplight, muted sage or dusty blue bedding. Art style: photo-realistic interior, warm evening light. Bottom third: hardwood or light-colored floor for text overlay.\n\n**Alt text:** A children's robe folded at the foot of a bed in a warmly lit bedroom with a glowing nightstand lamp.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,50 @@
 
 ---
 
+## June 18, 2026
+
+### Story 1: AAP vs. CDC Vaccine Schedules 2026 — What COS Families Need to Know
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP published 2026 childhood immunization schedule maintaining 18 diseases; CDC reduced list to 11. Key difference: AAP still recommends Hep A, Hep B, rotavirus, meningococcal, RSV, flu for all children. COVID-19: AAP recommends ages 6-23 months + older high-risk kids; CDC now "shared clinical decision-making." HPV: AAP 2 doses ages 9-12 vs. CDC 1 dose at 11-12. AAP schedule endorsed by 12 medical associations (AMA, ACOG). Most COS pediatricians follow AAP; reference: healthychildren.org.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** AAP 18 diseases vs. CDC 11; AAP continues Hep A, Hep B, rotavirus, meningococcal, RSV, flu; COVID-19: AAP recommends 6-23 months + high-risk; CDC: shared decision-making; HPV: AAP 2 doses ages 9-12, CDC 1 dose 11-12; endorsed by AMA, ACOG + 10 others; healthychildren.org; Sources: publications.aap.org, ajmc.com, healthychildren.org, vaccinateyourfamily.org
+- **Follow-Up Opportunities:** Update when AAP revises schedule; back-to-school reminder in August
+
+### Story 2: Joyin Sloosh Dive Sticks Recalled — Impalement Hazard, Violates Federal Ban
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of ~113,000 Joyin Sloosh brand dive sticks for impalement risk in shallow water. Violates existing federal dive stick ban. Sold at Amazon, Walmart, Target for ~$7-15. Remedy: refund — contact Joyin directly. Pool season fully underway in COS (public pools, HOA pools, backyard pools).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC recall; ~113,000 units; Joyin Sloosh brand; impalement/piercing injury + eye/facial injury risk; violates federal dive stick ban; sold Amazon/Walmart/Target ~$7-15; remedy: refund; contact Joyin directly; cpsc.gov; Sources: cpsc.gov official recall page, consumeraffairs.com
+- **Follow-Up Opportunities:** General pool toy safety roundup for summer
+
+### Story 3: COS Summer Trail Upgrades — Blodgett Open Space and Fox Run Regional Park
+- **Content Pillar:** Local News / Local Events
+- **Angle:** NEW STORY (summer update angle) — Blodgett Open Space completing 14 miles of new and improved trails this summer, including mountain bike-only routes with new trailhead and parking at old quarry. Fox Run Regional Park pond and gazebo renovation completing this summer. El Paso County continuing protective barrier work at Paint Mines Interpretive Park.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Blodgett Open Space: 14 miles new/improved trails, mountain bike-only routes, new trailhead + parking at old quarry; Fox Run: pond + gazebo renovation; Paint Mines: protective barriers ongoing; all expected completion summer 2026; Sources: gazette.com Jan 4, 2026; coloradosprings.gov/parks; parks.elpasoco.com
+- **Follow-Up Opportunities:** Post-completion visit report; fall trail season preview
+
+### Story 4: Bear Creek Nature Center Pollinator Celebration — June 26, $5/Person
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Bear Creek Nature Center hosting Pollinator Celebration June 26. Bug sweeps, hands-on activities, native pollinator education. $5/person. Bear Creek Nature Center in Bear Creek Regional Park, west side of COS. 8 days away from publish date.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Date: Thursday June 26, 2026; Location: Bear Creek Nature Center (Bear Creek Regional Park), west COS; Cost: $5/person; Activities: bug sweeps, native pollinator education, hands-on activities; Sources: visitcos.com summer events guide, pikespeakkids.com calendar
+- **Follow-Up Opportunities:** Recap post June 27
+
+### Story 5: Bellabu Bear Children's Robes Recalled — Burn Hazard, Flammability Violation
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (second occurrence — also covered June 6 as NEW, now re-covered with fresh June-timing angle: summer camp packing season). CPSC mandatory recall of Bellabu Bear children's robes for burn hazard. Violates mandatory federal flammability standards for children's sleepwear. June timing: robes may be on summer camp packing lists. Stop use; contact Bellabu Bear for remedy.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** CPSC mandatory recall; burn hazard; violates mandatory flammability standard for children's sleepwear; stop use immediately; contact Bellabu Bear for remedy; cpsc.gov; Sources: cpsc.gov official recall page, consumerreports.org
+- **Follow-Up Opportunities:** None — recall already covered June 6 from different angle
+
+---
+
 ## June 17, 2026
 
 ### Story 1: Guidecraft Kitchen Helper Tower Recall — Fall Hazard, Free Repair

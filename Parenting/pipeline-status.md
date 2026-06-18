@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 18, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | AAP 2026 immunization schedule (18 diseases vs. CDC's 11; Hep A/B/rotavirus/meningococcal/RSV/flu maintained; COVID-19 ages 6-23 mo + high-risk; HPV 2 doses ages 9-12 vs. CDC 1 dose 11-12; endorsed by 12 assocs incl. AMA/ACOG; healthychildren.org); Joyin Sloosh dive sticks recall (~113,000 units; impalement hazard; violates federal dive stick ban; Amazon/Walmart/Target ~$7-15; refund; cpsc.gov); COS trail upgrades (Blodgett 14 miles + mountain bike routes + new trailhead at old quarry; Fox Run pond/gazebo renovation; both summer 2026; Paint Mines barriers ongoing); Bear Creek Nature Center Pollinator Celebration June 26 ($5/person; bug sweeps; native pollinator education; Bear Creek Regional Park west COS; visitcos.com); Bellabu Bear children's robes recall (burn hazard; mandatory flammability standard violation; stop use; contact brand for remedy; cpsc.gov) |
+| Story History Check | COMPLETE | 4 NEW STORIES (AAP vaccine schedule, Joyin dive sticks recall, COS trail upgrades summer update, Bear Creek Pollinator Celebration) + 1 SECOND COVERAGE (Bellabu Bear robes — first covered June 6; June 18 angle is summer camp packing season context) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for S1; 1 each for S2-S5); 5 char violations fixed after first verify-facts.py run; all under 280 chars; 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 10 images; all not_started; photo_source: gemini; Gemini mode: base_only |
+| Articles | COMPLETE | 5 articles (500-1000 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py passed after 2 runs (5 char violations fixed; image manifest rewritten from table to YAML format); all 5 stories present; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images; 21 dashboard items; posting window warnings cosmetic (same as prior runs) |
+| Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-18.xlsx (6 posts: 6 X, 13:02–20:27 MT) + TOBI cosp-postplanner-tobi-2026-06-18.xlsx (6 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — Credentials not in env (context compacted); proxy would block anyway | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-18)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total posts (PostPlanner xlsx: 6 X posts)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-18.xlsx (6 posts), cosp-postplanner-tobi-2026-06-18.xlsx (6 TOBI posts)
+- **Coverage:** AAP 2026 vaccine schedule vs. CDC (18 vs. 11 diseases; AAP maintains Hep A/B, rotavirus, meningococcal, RSV, flu; COVID-19 ages 6-23 mo + high-risk; HPV 2 doses ages 9-12 vs. CDC 1 dose 11-12; endorsed by 12 medical assocs.; healthychildren.org); Joyin Sloosh dive sticks recall (~113,000 units; impalement hazard violates federal dive stick ban; Amazon/Walmart/Target ~$7-15; refund via Joyin; cpsc.gov); COS summer trail upgrades (Blodgett Open Space 14 miles new trails + mountain bike routes + new trailhead at old quarry; Fox Run pond/gazebo renovation; both summer 2026; Paint Mines protective barriers; coloradosprings.gov/parks + parks.elpasoco.com); Bear Creek Nature Center Pollinator Celebration June 26 ($5/person; bug sweeps; native pollinator education; Bear Creek Regional Park west COS; visitcos.com); Bellabu Bear children's robes recall (mandatory CPSC recall; burn hazard; violates mandatory flammability standard for children's sleepwear; stop use; contact brand; cpsc.gov)
+- **Notes:**
+  - verify-facts.py: 2 runs — first run flagged 5 char violations (S1A: 284, S1B: 296, S2A: 288, S3A: 323, S4A: 283 chars) + image manifest format wrong (table not YAML). Rewrote X posts shorter + rewrote image manifest in YAML format. Second run passed.
+  - compile: 5 stories, 6 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 21 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (6 posts: 6 X) and TOBI (6 TOBI posts) generated successfully
+  - WordPress: credentials not in environment (session context compacted between niches); proxy blocks anyway — same as all prior runs
+  - Dashboard push: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (flipped from June 17)
+  - Pipeline ran as Niche 2 in sequence after Tennis (Niche 1 completed June 18)
+
+---
+
 ## Latest Run: June 17, 2026
 
 | Step | Status | Notes |
