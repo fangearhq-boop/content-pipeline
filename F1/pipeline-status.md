@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-17
+- **Date**: 2026-06-18
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-18
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 5 written, all under 280 characters (1 fixed from 289 to 252)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-18.xlsx (5 posts) + f1fr-postplanner-tobi-2026-06-18.xlsx (5 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-18/review-dashboard.html (20 items)
+- **Notes:** Austrian GP preview (June 26-28, 10 days away) — triple-header Austria/Britain/Belgium; Hamilton 41 pts behind Antonelli after 7 races; Mercedes battery crisis (3 failures: Russell Canada/Norris Monaco/Antonelli Barcelona) — Russell's Montreal unit on sea freight/Wolff "can't compete like this"/reliability pledge before Austria; Hamilton 106th win/first Ferrari win/oldest GP winner since Brabham 1970; Red Bull confirms Austria upgrade targeting final 6kg excess weight/Verstappen "fourth team"; championship math 156/115/106 after 7 races
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-17
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

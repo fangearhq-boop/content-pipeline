@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-18",
+  "compiled_at": "2026-06-18T11:19:57.741906+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austrian Grand Prix Preview — 10 Days Out, Hamilton vs. Antonelli, Red Bull's Make-or-Break Upgrade",
+      "tier": 1,
+      "status": "",
+      "angle": "Ten days out from the Austrian Grand Prix (June 26-28, Red Bull Ring), the F1 championship is genuinely alive. Antonelli leads by 41 points over Hamilton, but two DNFs have proven costly and the gap was 66 after Canada. Red Bull is bringing its biggest upgrade of the season to eliminate the final 6kg of overweight on the RB22 — a crucial move on Verstappen's home circuit. Austria is the first of three consecutive race weekends (Austria/Britain/Belgium) that could define the title.",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Austrian Grand Prix: 10 days away. 🇦🇹\n\nThe gap dropped from 66 to 41 in one race at Barcelona.\n\nNow comes the triple-header: Austria → Britain → Belgium.\n\nRed Bull brings a major upgrade to their HOME race. Hamilton has momentum. \n\nThis title fight is alive. #F1 #AustrianGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-austrian-gp-preview-hamilton-momentum-redbull-upgrade.html",
+        "headline": "Austrian GP Preview: Hamilton's Momentum Meets Red Bull's Home Race Upgrade",
+        "word_count": 647
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Preview\n\n**Social Image (1080x1350):**\n- Search term: `Kimi Antonelli Mercedes F1`\n- Caption overlay: \"AUSTRIAN GP | June 26-28 | Red Bull Ring\"\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630):**\n- Search term: `Formula 1 Red Bull Ring Austria`\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austrian Grand Prix Preview\n**Sources:**\n- littlebigreddot.com: F1 2026 Austrian GP preview\n- formula1.com: Austria racing page\n- gpfans.com: When is the next F1 race\n- skysports.com: Austrian GP Sky Sports page\n- roundtable.io: Next up on 2026 calendar\n**Key verified facts (HIGH confidence):**\n- Austrian GP dates: June 26-28, 2026, Red Bull Ring, Spielberg (HIGH — multiple sources)\n- Race start: 3:00 PM CEST Sunday June 28 (HIGH — multiple sources)\n- Antonelli 156 pts, Hamilton 115 (-41), Russell 106 (-50) after Barcelona (HIGH — championship standings confirmed)\n- Austria is first of triple-header Austria/Britain/Belgium (HIGH — calendar confirmed)\n- Red Bull Ring characteristics: high-speed, elevation changes, kerb-riding (HIGH — common knowledge)\n- Verstappen called Red Bull \"fourth team\" after Barcelona (HIGH — multiple sources)\n**Freshness justification:** 10 days to race. Championship narrative at key inflection point.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Mercedes Battery Crisis — Wolff \"Can't Compete for Championship,\" Russell's Montreal Unit Still on a Boat",
+      "tier": 1,
+      "status": "",
+      "angle": "Mercedes' reliability issues are worsening. Antonelli's Barcelona retirement marked at least the third battery-related failure across Mercedes-powered cars in 2026 (Russell Canada, Norris Monaco, Antonelli Barcelona). The Montreal battery — damaged so severely it can't be flown — is crossing the Atlantic by sea freight and won't arrive for months. Wolff stated bluntly: \"We just can't compete for a championship if every second race a car is losing fat points.\" Mercedes has pledged a reliability fix before Austria.",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Toto Wolff after Antonelli's Barcelona DNF:\n\n\"We can't compete for a championship if every second race a car is losing fat points.\"\n\nRussell's Montreal battery is still on a ship in the Atlantic.\n\nMercedes' biggest enemy is their own power unit. 🔋⚠️ #F1 #Mercedes",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Mercedes"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-mercedes-battery-crisis-wolff-championship.html",
+        "headline": "Mercedes' Battery Crisis: Why Toto Wolff Says They Can't Compete for the Championship Like This",
+        "word_count": 616
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes Battery Crisis\n\n**Social Image (1080x1350):**\n- Search term: `George Russell Mercedes F1`\n- Caption overlay: \"BATTERY CRISIS | Wolff: Can't Compete Like This\"\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630):**\n- Search term: `Toto Wolff Mercedes F1`\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes Battery Crisis\n**Sources:**\n- crash.net: Mercedes alarming admission biggest 2026 weakness\n- planetf1.com: Mercedes reliability concerns Wolff reacts\n- motorsportweek.com: Mercedes delivers reliability pledge June 17\n- the-race.com: True cost of Mercedes' biggest 2026 weakness\n- f1-fansite.com: Mercedes battery mystery clouds dominant 2026 start\n**Key verified facts (HIGH confidence):**\n- At least 3 battery-related failures in Mercedes-powered cars in 2026: Russell (Canada), Norris (Monaco), Antonelli (Barcelona) (HIGH — multiple sources)\n- Russell's Montreal battery cannot be flown; traveling by sea freight (HIGH — crash.net, confirmed multiple sources)\n- Wolff quote: \"We just can't compete for a championship if every second race a car is losing fat points\" (HIGH — confirmed multiple sources)\n- Mercedes issued reliability pledge June 17 (MEDIUM — motorsportweek.com, recent)\n- Failures not all identical — different symptoms, same symptom (car switching off) (HIGH — Wolff quote)\n**Freshness justification:** Reliability crisis ongoing, Austria is 10 days away. Active story.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Hamilton's Ferrari Transformation — 106th Win, Oldest Winner Since Brabham 1970, \"Dream the Impossible\"",
+      "tier": 2,
+      "status": "",
+      "angle": "Lewis Hamilton's first Grand Prix win for Ferrari in Barcelona was more than a result — it was a transformation narrative completed. Hamilton, 41, becomes the oldest Grand Prix winner since Jack Brabham in 1970 with his 106th career victory. His emotional radio message (\"You've helped me achieve this dream\") and social media post (\"DREAM THE IMPOSSIBLE\") marked the culmination of his high-profile Ferrari move. Ferrari's three-stop strategy under a Virtual Safety Car was the tactical masterstroke.",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lewis Hamilton. 41 years old. 106th career win.\n\nThe oldest Grand Prix winner since Jack Brabham in 1970.\n\nHis radio after crossing the line:\n\"You've helped me achieve this dream.\"\n\nDREAM THE IMPOSSIBLE. 🔴🏆 #F1 #LewisHamilton #Ferrari",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton",
+            "#Ferrari"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-hamilton-ferrari-106th-win-oldest-winner-brabham.html",
+        "headline": "Dream the Impossible: Hamilton's 106th Win Makes Him the Oldest GP Winner Since Jack Brabham in 1970",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton Ferrari Win\n\n**Social Image (1080x1350):**\n- Search term: `Lewis Hamilton Ferrari F1`\n- Caption overlay: \"106TH WIN | Hamilton | Dream the Impossible\"\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630):**\n- Search term: `Lewis Hamilton Ferrari F1`\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton's Ferrari Win\n**Sources:**\n- formula1.com: Barcelona race report and Hamilton win article\n- skysports.com: Hamilton first Ferrari win Barcelona\n- motorsport.com: Hamilton defiant message after Ferrari win\n- formula1.com: Hamilton transformation article\n**Key verified facts (HIGH confidence):**\n- Hamilton won Barcelona, June 14, 2026 (HIGH — multiple sources)\n- 106th career Grand Prix victory (HIGH — multiple sources)\n- Oldest GP winner since Jack Brabham in 1970, Hamilton 41 (HIGH — multiple sources)\n- First win for Ferrari since joining in 2025 (HIGH — confirmed)\n- Three-stop strategy under Virtual Safety Car (HIGH — confirmed)\n- Radio message: \"You've helped me achieve this dream and I can't thank you enough\" (HIGH — formula1.com)\n- Social post: \"DREAM THE IMPOSSIBLE. I can't begin to describe how amazing it feels to finally win in red. Grazie mille, Scuderia Ferrari.\" (HIGH — motorsport.com)\n- Podium: Hamilton 1st, Russell 2nd (+19.5s), Norris 3rd (+23.7s) — first all-British podium since 1968 (HIGH — multiple sources)\n- Antonelli retired 3 laps from finish while in 2nd place (HIGH — confirmed)\n**Freshness justification:** Result from June 14, building narrative for Austria (10 days).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Red Bull's Austrian Upgrade — Can Verstappen's Home Race Change His Season?",
+      "tier": 2,
+      "status": "",
+      "angle": "Red Bull is confirming a major upgrade package for the Austrian GP at the Red Bull Ring — its home race. Team principal Laurent Mekies confirmed the upgrade is designed to eliminate the final 6kg of excess weight from the RB22, which started the season 12kg above the FIA minimum. After Verstappen openly called Red Bull the \"fourth team\" post-Barcelona, Austria represents a genuine turning point opportunity. The circuit's high-speed sweeps and kerb-riding suit the characteristics an upgraded, lighter Red Bull could bring.",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Red Bull's 2026 RB22 problem in numbers:\n\n12kg overweight at the start of the season.\n6kg remaining after Miami.\nTarget: 0kg at the Austrian GP.\n\nVerstappen called them the \"fourth team\" after Barcelona.\n\nAustria is a do-or-die moment. 🔴🐂 #F1 #RedBull #AustrianGP",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull",
+            "#AustrianGP"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-red-bull-austria-upgrade-verstappen-home-race.html",
+        "headline": "Red Bull's Austria Upgrade: Can 6kg of Weight Savings Change Verstappen's 2026 Season?",
+        "word_count": 642
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Bull Austria Upgrade\n\n**Social Image (1080x1350):**\n- Search term: `Max Verstappen Red Bull F1`\n- Caption overlay: \"AUSTRIA UPGRADE | 6kg Weight Reduction | Home Race\"\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630):**\n- Search term: `Max Verstappen Red Bull F1`\n- Credit: (USA TODAY Sports Images)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Red Bull's Austrian Upgrade\n**Sources:**\n- yahoo sports: Red Bull confirms major Austria upgrade\n- gpblog.com: Hope for Verstappen, Red Bull confirms upgrade\n- autoracing1.com: Red Bull's Austria upgrade could decide Verstappen's future\n- autosport.com: Red Bull set for Austrian GP upgrades\n**Key verified facts (HIGH confidence):**\n- RB22 started season 12kg above FIA minimum weight (HIGH — multiple sources)\n- Miami upgrade reduced weight by ~6kg (HIGH — consistent across sources)\n- Austria upgrade targets final ~6kg excess weight (HIGH — Red Bull confirmed via Laurent Mekies)\n- Laurent Mekies confirmed major upgrade package (HIGH — multiple outlets citing him)\n- Verstappen described Red Bull as \"fourth team\" post-Barcelona (HIGH — multiple sources)\n- Red Bull Ring is Verstappen's home race in Spielberg, Austria (HIGH — common knowledge)\n- Weight reduction benefits: better rotation, less tire wear (HIGH — logical/technical)\n**Freshness justification:** Upgrade confirmed by team. Austria 10 days away.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "2026 F1 Title Math — Antonelli 156, Hamilton 115, 15 Races Left",
+      "tier": 2,
+      "status": "",
+      "angle": "Seven races into the 2026 season, the title fight is far more open than the standings suggest. Antonelli's 156-point lead looks comfortable, but two DNFs have cost him approximately 50 points. Hamilton at 115 (-41) and Russell at 106 (-50) are both credible threats. The three-race triple-header beginning June 28 (Austria/Britain/Belgium) will determine whether Antonelli rebuilds his cushion or the gap becomes genuinely tight.",
+      "posting_window": "8:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "2026 F1 Championship after 7 of 22 races:\n\n🥇 Antonelli — 156 pts\n🥈 Hamilton  — 115 pts (-41)\n🥉 Russell   — 106 pts (-50)\n\nTwo Mercedes DNFs cost ~50 points. Their own car is closing the gap.\n\nAustria in 10 days. 👀 #F1 #Formula1",
+          "posting_time": "8:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Formula1"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-2026-f1-championship-math-antonelli-hamilton.html",
+        "headline": "2026 F1 Championship Math: Antonelli Leads by 41, But His Own Car Is the Biggest Threat",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Math\n\n**Social Image (1080x1350):**\n- Search term: `Kimi Antonelli Mercedes F1`\n- Caption overlay: \"F1 STANDINGS | Antonelli 156 | Hamilton 115 | Russell 106\"\n- Credit: (USA TODAY Sports Images)\n\n**Article Hero (1200x630):**\n- Search term: `Formula 1 2026 championship`\n- Credit: (USA TODAY Sports Images)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Math\n**Sources:**\n- racingnews365.com: 2026 championship standings after Barcelona\n- motorsport.com: Championship after Barcelona\n- crash.net: Championship standings after Barcelona\n**Key verified facts (HIGH confidence):**\n- Antonelli 156 pts (HIGH)\n- Hamilton 115 pts (HIGH)\n- Russell 106 pts (HIGH)\n- Leclerc 75 pts (HIGH)\n- Norris 73 pts (HIGH)\n- 7 of 22 races complete (HIGH)\n- 15 races remaining (HIGH)\n- Antonelli led by 66 pts before Barcelona, now 41 (HIGH — confirmed 25pt swing)\n- Mercedes leads constructors championship with 262 pts (HIGH)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

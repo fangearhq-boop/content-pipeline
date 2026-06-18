@@ -2,6 +2,53 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-18
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-18 | T1 | Austrian GP Preview — 10 Days Away, Hamilton Momentum, Red Bull Home Upgrade | X, FB, Article | FOLLOW UP |
+| 2026-06-18 | T1 | Mercedes Battery Crisis — Wolff "Can't Compete," Russell's Montreal Unit on a Boat | X, FB, Article | FOLLOW UP |
+| 2026-06-18 | T2 | Hamilton Ferrari Transformation — 106th Win, Oldest Winner Since Brabham 1970 | X, FB, Article | FOLLOW UP |
+| 2026-06-18 | T2 | Red Bull Austria Upgrade — 6kg Weight Reduction, Verstappen Home Race | X, FB, Article | FOLLOW UP |
+| 2026-06-18 | T2 | 2026 Championship Math — Antonelli 156/Hamilton 115/Russell 106 After 7 Races | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Austrian GP Preview
+- **Tier:** 1
+- **Category:** Race Preview / Championship
+- **Key facts:** Austrian GP June 26-28 Red Bull Ring Spielberg; Race 3 PM CEST June 28; Antonelli leads 156/Hamilton 115 (-41)/Russell 106 (-50); triple-header Austria/Britain/Belgium; Red Bull bringing major upgrade; Hamilton riding Barcelona momentum; 10 days away
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP race result; championship gap after Austria
+
+### STORY 2: Mercedes Battery Crisis
+- **Tier:** 1
+- **Category:** Technical / Mercedes
+- **Key facts:** 3 battery failures in Mercedes customer cars: Russell (Canada), Norris (Monaco), Antonelli (Barcelona); Russell's Montreal battery on sea freight — can't fly it — won't arrive for months; Wolff: "can't compete for championship every second race losing points"; Mercedes reliability pledge June 17 before Austria; different failures same symptom (car switches off)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Mercedes fix confirmed; Austrian GP reliability result
+
+### STORY 3: Hamilton Ferrari Win Legacy
+- **Tier:** 2
+- **Category:** Driver Feature / Ferrari
+- **Key facts:** 106th career win; first for Ferrari; 41 years old; oldest GP winner since Jack Brabham 1970 (56 years); three-stop strategy + VSC masterstroke; radio: "You've helped me achieve this dream"; post: "DREAM THE IMPOSSIBLE"; first all-British podium since 1968 (Hamilton/Russell/Norris); Antonelli battery failure helped swing 25 pts
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP Hamilton result; title fight narrative
+
+### STORY 4: Red Bull Austria Upgrade
+- **Tier:** 2
+- **Category:** Technical / Red Bull / Verstappen
+- **Key facts:** RB22 12kg overweight at start; Miami cut to ~6kg; Austria upgrade targets final 6kg; Mekies confirmed upgrade; Verstappen "fourth team" quote after Barcelona; Red Bull Ring is home race; upgrade importance for Verstappen's season; exit clause ~$100M buyout
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP Red Bull result; upgrade assessment
+
+### STORY 5: Championship Math
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Antonelli 156/Hamilton 115/Russell 106/Leclerc 75/Norris 73/Verstappen 55; 7 of 22 races; 15 remaining; DNFs cost Antonelli ~50 pts; without DNFs lead ~91 pts instead of 41; triple-header Austria/Britain/Belgium defines title direction; Mercedes leads constructors 262 pts
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Standings after Austrian GP
+
+---
+
 ## 2026-06-17
 
 | Date | Tier | Story | Platforms | Status |
