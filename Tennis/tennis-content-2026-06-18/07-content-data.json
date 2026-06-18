@@ -1,0 +1,272 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-18",
+  "compiled_at": "2026-06-18T12:17:56.146149+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Halle QF set",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 3 — Paul upset at Queen's Club",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 2 — Badosa stuns Gauff Berlin",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — Berlin QF landscape",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — Wimbledon countdown",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "Story 1 — Halle QF preview for Friday",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Halle QF Set — Zverev, Shelton, Fritz All Through",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Halle R16 complete. ✅\n\nZverev def. Hanfmann 6-3, 4-6, 6-2\nShelton def. Quinn 7-5, 6-3\nFritz def. Marozsan\nBellucci def. Collignon 7-6(6), 6-1\n\nFour through. QF \"Super Friday\" is stacked. 🎾 #Halle2026 #TerraWortmannOpen [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Halle2026",
+            "#TerraWortmannOpen"
+          ],
+          "char_count": 224
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Zverev. Shelton. Fritz. All in the Halle QF.\n\nSinner skipping all grass. Alcaraz out. The Wimbledon men's picture is shaping fast.\n\nSuper Friday in Halle: Tiafoe vs FAA + Altmaier vs Medvedev. 🎾 #Halle2026 #Wimbledon2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Halle2026",
+            "#Wimbledon2026"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-halle-qf-set-zverev-shelton-fritz-through.html",
+        "headline": "Halle QF Set: Zverev, Shelton, and Fritz All Power Through on Grass",
+        "word_count": 622
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Halle QF Set — Zverev, Shelton, Fritz All Through\n\n#### Image 1A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Alexander Zverev\"\n- **Text Overlay:** \"HALLE QF SET\" / \"Zverev • Shelton • Fritz Through\" (dark overlay, white text, TFR green accent)\n- **Composition:** Zverev action shot on grass; clean overlay bar at bottom\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 1B — Article Hero\n- **Photo Search Terms:** \"Ben Shelton\"\n- **Text Overlay:** None (article featured image — WordPress handles)\n- **Composition:** Landscape 1200×630; grass-court action shot\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Badosa Stuns Gauff in Berlin — No. 142 Beats No. 7",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "BADOSA BEATS GAUFF.\n\nWorld No. 142 def. No. 7 seed Coco Gauff 1-6, 6-3, 6-2 at Berlin.\n\nDown a set and a break. Won 12 of the next 16 games. Five-match losing streak: over. 🎾 #BerlinOpen #WTATennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BerlinOpen",
+            "#WTATennis"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-badosa-stuns-gauff-berlin-open.html",
+        "headline": "Badosa Stuns Gauff in Berlin: World No. 142 Beats No. 7 Seed in Three-Set Comeback",
+        "word_count": 515
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Badosa Stuns Gauff in Berlin\n\n#### Image 2A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Paula Badosa\"\n- **Text Overlay:** \"UPSET\" / \"Badosa def. Gauff 1-6, 6-3, 6-2\" (bold white on dark overlay, Berlin grass setting)\n- **Composition:** Badosa celebration or action; punchy upset energy\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 2B — Article Hero\n- **Photo Search Terms:** \"Paula Badosa\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Van de Zandschulp Upsets Defending Champion Paul at Queen's Club",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Tommy Paul won Queen's Club in 2024.\n\nHe was back to defend his title. Lost in R2 to van de Zandschulp 6-4, 2-6, 6-3.\n\nDefending champions keep falling. Wimbledon is 11 days away. 🎾 #QueensClub2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#QueensClub2026"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-van-de-zandschulp-upsets-paul-queens-club.html",
+        "headline": "Van de Zandschulp Upsets Defending Champion Paul to Reach Queen's Club Quarterfinals",
+        "word_count": 497
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Van de Zandschulp Upsets Paul at Queen's Club\n\n#### Image 3A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Tommy Paul\"\n- **Text Overlay:** \"UPSET AT QUEEN'S CLUB\" / \"Defending champ Paul out in R2\" (dark overlay, red/urgent accent)\n- **Composition:** Paul mid-match or at Queen's Club courts; contrast with winning look\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 3B — Article Hero\n- **Photo Search Terms:** \"Botic van de Zandschulp\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630; grass action\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Berlin QF Landscape After Gauff Exit — Sabalenka, Rybakina, Badosa Through",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Berlin QF draw:\n\nSabalenka def. Alexandrova 6-4, 6-4 ✅\nRybakina through ✅\nBadosa through (just beat Gauff) ✅\nPegula through ✅\n\nGauff is out. Final is Sunday — last major result before the Wimbledon draw. 🎾 #BerlinOpen [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BerlinOpen"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-berlin-open-qf-landscape-sabalenka-rybakina-badosa.html",
+        "headline": "Berlin Open QF Set: Sabalenka, Rybakina, and Badosa Headline Final Four",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Berlin QF Landscape\n\n#### Image 4A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Aryna Sabalenka\"\n- **Text Overlay:** \"BERLIN QF SET\" / \"Sabalenka • Rybakina • Badosa • Pegula\" (dark overlay, white text, WTA grass feel)\n- **Composition:** Sabalenka action or celebration; strong dominant energy\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 4B — Article Hero\n- **Photo Search Terms:** \"Elena Rybakina\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630; grass-court action\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Wimbledon 2026 Countdown — 11 Days, Qualifying Monday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Wimbledon is 11 days away.\n\nQualifying starts Monday at Roehampton.\nDraw ceremony: June 26.\nChampionships: June 29.\n\nSinner defending. Alcaraz out. Berlin final still to come. 🎾 #Wimbledon2026 #WTATennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026",
+            "#WTATennis"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wimbledon-2026-countdown-11-days-qualifying-monday.html",
+        "headline": "Wimbledon 2026 Countdown: 11 Days Out, Qualifying Starts Monday",
+        "word_count": 656
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wimbledon Countdown\n\n#### Image 5A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Jannik Sinner Wimbledon\"\n- **Text Overlay:** \"WIMBLEDON 2026\" / \"11 Days Away\" / \"Qualifying: Monday June 22\" (classic green/purple Wimbledon color scheme, TFR styling)\n- **Composition:** Sinner action on grass; countdown clock feel with text overlay\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 5B — Article Hero\n- **Photo Search Terms:** \"Iga Swiatek Wimbledon\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630; Wimbledon courts or grass action\n- **Usage:** Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
