@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-19",
+  "compiled_at": "2026-06-19T11:15:50.875199+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Knicks Parade Recap — 2 Million Fans, Alicia Keys, Canyon of Heroes History Made",
+      "tier": 1,
+      "status": "",
+      "angle": "The morning-after recap: NYPD estimates 2 million fans lined Broadway from Battery Park to City Hall — the city's largest single-event police deployment ever (10,000+ officers). Jalen Brunson held the Larry O'Brien Trophy above the barrier so fans could touch it. Alicia Keys performed Empire State of Mind at the City Hall ceremony. Mayor Mamdani presented Keys to the City. The 1970 and 1973 Knicks never got a Canyon of Heroes parade — Thursday was the first in franchise history.",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "2 MILLION fans. Alicia Keys singing Empire State of Mind. Brunson holding the trophy up for the crowd.\n\n10,000 NYPD — their largest single-event deployment ever.\n\nNew York hasn't seen a moment like Thursday in a very long time. 🏆 #NewYorkKnicks",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The 1970 and 1973 Knicks never got a ticker-tape parade.\n\nThursday's Canyon of Heroes celebration was the first in franchise history.\n\n53 years of waiting. One unforgettable morning. #NewYorkKnicks",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-knicks-parade-recap-2-million-fans.html",
+        "headline": "2 Million Strong: New York Celebrates the Knicks' First Championship Parade in 53 Years",
+        "word_count": 662
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Parade Recap\n\n**Image Concept 1A — Social (1080x1350)**\n- imagn search: \"Jalen Brunson New York Knicks\"\n- Caption overlay: \"2 MILLION FANS\" / \"Canyon of Heroes\" / \"#NewYorkKnicks\"\n- Mood: Euphoric, celebratory\n\n**Image Concept 1B — Article Hero (1200x630)**\n- imagn search: \"New York Knicks celebration\"\n- Caption overlay: none (article hero)\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Parade Recap\n**Sources:**\n- amNewYork: \"KNICKS PARADE: Over 1 million flock to Canyon of Heroes\" — https://www.amny.com/sports/knicks-parade-fans-flock-6-18-26/\n- ABC7 NY: \"NYPD now estimates 2 million people attended parade\" — https://abc7ny.com/live-updates/knicks-ticker-tape-parade\n- NBC News: \"Knicks fans flood Manhattan for a joyous championship parade\" — https://www.nbcnews.com/news/us-news/new-york-knicks-championship-parade-rcna350771\n- NBA.com: \"Recap: Knicks' championship parade in NYC\" — https://www.nba.com/news/live-updates-new-york-knicks-parade-2026\n- ESPN: \"Best moments from New York Knicks 2026 NBA championship parade\" — https://www.espn.com/nba/story/_/id/49100686/\n**Key Facts (confidence tagged):**\n- [HIGH] NYPD estimates 2 million people attended — 2 sources (ABC7, NBC News)\n- [HIGH] Parade route: Battery Park north along Broadway to City Hall — multiple sources\n- [HIGH] Mayor Mamdani presented Key to the City — multiple sources\n- [HIGH] First Knicks championship parade in franchise history — confirmed (1970/1973 titles had no ticker-tape)\n- [HIGH] Over 10,000 NYPD deployed — largest single-event deployment ever — NBC News\n- [MEDIUM] Alicia Keys performed Empire State of Mind at City Hall — NBA.com recap\n- [MEDIUM] Brunson held the trophy up for fans along the route — GMA/NBA.com\n**Freshness:** Parade was yesterday (June 18). Day-after recap is highly timely.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Giannis Trade — Heat vs. Celtics, 4 Days to Draft Deadline",
+      "tier": 1,
+      "status": "",
+      "angle": "The Giannis trade deadline is June 23 — 4 days away. Knicks are officially out. It's down to Heat (Herro + Kel'el Ware + Jaquez + No. 13) vs. Celtics (Jaylen Brown package). Bucks not impressed with Heat offer. Celtics are on Giannis's list. Marc Stein says trade is \"drawing near.\" Bucks want a deal before draft night.",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The Giannis trade deadline is June 23 — 4 days away.\n\nHeat have momentum (Herro + picks). Celtics on his list (Jaylen Brown package).\n\nBucks not impressed with Miami's offer. This is far from done. #NBA",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 202
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Marc Stein says a Giannis trade is \"drawing near.\"\n\nThe Bucks want a deal done before the June 23 draft.\n\nKnicks are out. It's Heat or Celtics. 4 days to find out. #NBA #GiannisAntetokounmpo",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#GiannisAntetokounmpo"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-giannis-trade-heat-celtics-four-days.html",
+        "headline": "4 Days to Decide: Giannis Trade Race Is Now Heat vs. Celtics",
+        "word_count": 560
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis Trade\n\n**Image Concept 2A — Social (1080x1350)**\n- imagn search: \"Giannis Antetokounmpo Milwaukee Bucks\"\n- Caption overlay: \"HEAT OR CELTICS?\" / \"4 Days to Decide\" / \"#NBA\"\n- Mood: Intense, analytical\n\n**Image Concept 2B — Article Hero (1200x630)**\n- imagn search: \"Giannis Antetokounmpo Milwaukee Bucks\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Trade — Heat vs. Celtics\n**Sources:**\n- Bleacher Report: \"New Giannis Trade Rumors Reveal 'Issue' with Heat Offer\" — https://bleacherreport.com/articles/25441182\n- Bleacher Report: \"New Giannis Trade Rumors Update Buzz Involving Heat, Celtics\" — https://bleacherreport.com/articles/25440520\n- Yahoo Sports: \"Giannis Antetokounmpo Trade Watch 2026: Celtics And Nets Emerge\" — https://sports.yahoo.com/articles/giannis-antetokounmpo-trade-watch-2026-015630315.html\n- CBS Sports / Marc Stein: \"Drawing near\" framing\n- SI.com: Knicks \"get bad news\" — Knicks not in contention\n**Key Facts:**\n- [HIGH] Heat and Celtics are the two finalists — multiple sources\n- [HIGH] Heat package: Herro + Kel'el Ware + Jaime Jaquez Jr. + No. 13 pick — multiple sources\n- [HIGH] Celtics are on Antetokounmpo's list and willing to offer Jaylen Brown — multiple sources\n- [HIGH] Trade is \"drawing near\" per Marc Stein — Bleacher Report\n- [HIGH] Bucks not impressed with Heat offer — ESPN/Windhorst and Bleacher Report\n- [HIGH] Knicks NOT in current trade picture — SI.com, multiple sources\n- [MEDIUM] June 23 draft timeline creating urgency — widely cited\n- [HIGH] Giannis has 2 years left, eligible for $275M extension Oct. 1\n**Freshness:** Breaking ongoing story; 4 days to June 23 draft.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "NBA Draft — 4 Days Away, Dybantsa Still -450, Peterson Medicals Cleared",
+      "tier": 2,
+      "status": "",
+      "angle": "Draft in 4 days at Barclays Center. AJ Dybantsa -450 odds No. 1 to Wizards; completed both Wizards and Jazz visits. Darryn Peterson medicals came back clean — no major red flags — projected No. 2 to Utah Jazz. Trae Young expected to reject $49M option and renegotiate with Washington long-term.",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "NBA Draft is 4 days away.\n\nAJ Dybantsa: -450 to go No. 1 to Washington.\nDarryn Peterson: medicals cleared, no red flags for No. 2 Utah.\n\nDybantsa completed his Wizards AND Jazz visits. Barclays Center, June 23. 🏀 #NBADraft",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBADraft"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-nba-draft-dybantsa-peterson-four-days.html",
+        "headline": "NBA Draft Is 4 Days Away: Dybantsa Visits Done, Peterson Medicals Clear",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Draft\n\n**Image Concept 3A — Social (1080x1350)**\n- imagn search: \"NBA Draft\"\n- Caption overlay: \"4 DAYS TO DRAFT NIGHT\" / \"Dybantsa -450 for No. 1\" / \"#NBADraft\"\n- Mood: Anticipatory, countdown\n\n**Image Concept 3B — Article Hero (1200x630)**\n- imagn search: \"NBA Draft prospects\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Draft — Dybantsa, Peterson\n**Sources:**\n- On3/ESPN/CBS Sports mock drafts — multiple sources\n- NBA.com: \"Darryn Peterson and AJ Dybantsa among 4 who could be top pick\"\n- Bleacher Report: \"New NBA Mock Draft 2026 Drops amid Rumors on AJ Dybantsa, Darryn Peterson, Wizards and Jazz\"\n**Key Facts:**\n- [HIGH] Dybantsa -450 odds to go No. 1 overall — multiple mock drafts/odds\n- [HIGH] Wizards expected to take Dybantsa at No. 1 — CBS Sports, ESPN, On3\n- [HIGH] Utah Jazz projected at No. 2 for Peterson — multiple mocks\n- [MEDIUM] Peterson medicals cleared, no major red flags — Bleacher Report via sources\n- [HIGH] Dybantsa completed visits to Washington and Utah — his only two visits\n- [HIGH] Draft June 23-24 at Barclays Center Brooklyn\n- [MEDIUM] Trae Young expected to reject $49M option and sign extension with Wizards\n- [HIGH] Dybantsa BYU stats: 25.5 PPG / 51.0% FG / 6-foot-9\n**Freshness:** Draft in 4 days; visit details and medicals news is current.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Austin Reaves — Lakers Widely Expected to Retain, Deal Around $200M",
+      "tier": 2,
+      "status": "",
+      "angle": "Reaves will decline $14.9M player option by June 29. League expects a Lakers deal around $200M (5yr/$239M max advantage vs. Nets' 4yr/$178.5M). Nets fading as credible threat. Luka Doncic partnership and LA affection drive Lakers confidence. Reaves averaged 23.3 PPG last season.",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The league expects Austin Reaves to stay with the Lakers on a deal around $200M.\n\nLakers advantage: 5 years vs. Nets' 4 years.\nReaves advantage: Luka. LA. Home.\n\nHe declines his $14.9M option by June 29. #LakersNation",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakersNation"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-austin-reaves-lakers-expected-to-retain.html",
+        "headline": "Why Austin Reaves Is Staying in LA: The Case for a Lakers Homecoming",
+        "word_count": 535
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austin Reaves\n\n**Image Concept 4A — Social (1080x1350)**\n- imagn search: \"Austin Reaves Los Angeles Lakers\"\n- Caption overlay: \"STAYING IN LA?\" / \"Expected ~$200M Deal\" / \"#LakersNation\"\n- Mood: Confident, focused\n\n**Image Concept 4B — Article Hero (1200x630)**\n- imagn search: \"Austin Reaves Los Angeles Lakers\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austin Reaves Free Agency\n**Sources:**\n- NBC Sports: \"Austin Reaves seeks max, coaching search updates\"\n- Bleacher Report: \"Fresh Lakers Rumors on Austin Reaves Contract Decision\"\n- Heavy.com: \"Lakers Receive Unexpected Austin Reaves Free Agency Update\"\n- SI.com: \"Lakers Get Austin Reaves Free Agency Update as Max Contract Talks Heat Up\"\n**Key Facts:**\n- [HIGH] Reaves holds $14.9M player option for 2026-27, expected to decline by June 29\n- [HIGH] Lakers can offer 5yr/$239.3M; rival teams limited to 4yr/$178.5M\n- [HIGH] Nets expected to submit 4yr/$178.5M offer — multiple sources\n- [HIGH] League expectation: Lakers and Reaves reach deal in ~$200M range\n- [HIGH] Reaves 2025-26 stats: 23.3 PPG / 5.5 APG / 4.7 RPG / 49.0% FG\n- [HIGH] Pistons and Hawks also interested\n- [MEDIUM] Reaves wants to stay in LA; Luka Doncic partnership key argument\n- [HIGH] Free agency officially opens June 30",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Ja Morant Trade Market — Memphis Waiting on Giannis, Heat as Fallback",
+      "tier": 2,
+      "status": "",
+      "angle": "Grizzlies holding off until Giannis deal closes before entering Morant trade market. Heat reportedly interested in Morant as Plan B if they miss on Giannis. Multiple teams circling. Could be the second major post-June-23 trade wave. Morant averaged 24.4 PPG last season.",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Don't sleep on the next big NBA trade domino: Ja Morant.\n\nMemphis is holding off until the Giannis deal closes. But once it does?\n\nMultiple teams are circling. The Heat are reportedly a fallback option. #NBA",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-ja-morant-trade-market-next-domino.html",
+        "headline": "After Giannis, the Next Big Domino: Why the Ja Morant Trade Market Is About to Open",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ja Morant\n\n**Image Concept 5A — Social (1080x1350)**\n- imagn search: \"Ja Morant Memphis Grizzlies\"\n- Caption overlay: \"NEXT BIG DOMINO?\" / \"Trade Market Opening Soon\" / \"#NBA\"\n- Mood: Dramatic, anticipatory\n\n**Image Concept 5B — Article Hero (1200x630)**\n- imagn search: \"Ja Morant Memphis Grizzlies\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ja Morant Trade Buzz\n**Sources:**\n- NBC Sports: \"Teams eyeing Trae Young, Kessler and Jazz at 'odds'\"\n- Yahoo Sports / NBC Sports: \"NBA Offseason Trade/Free Agent Rumors 2026\"\n**Key Facts:**\n- [MEDIUM] Grizzlies will wait until Giannis trade closes before engaging Morant market — NBC Sports\n- [MEDIUM] Heat among suitors interested in Morant if they miss on Giannis\n- [MEDIUM] Multiple teams interested in Morant's availability\n- [LOW] Timing: likely post-June 23 draft if Giannis trade resolves first\n**Note:** Morant details are mostly reported via sources/leaks; treat as MEDIUM confidence. Focus on the broader narrative rather than specific team packages.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

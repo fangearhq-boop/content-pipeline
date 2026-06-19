@@ -3129,3 +3129,48 @@
 - **Key facts:** Draft June 23-24 Barclays Center Brooklyn; Dybantsa -450 odds No. 1; Wizards acquired Trae Young (Hawks, January) + Anthony Davis (Mavericks, deadline); existing core: Alex Sarr/Bilal Coulibaly/Kyshawn George; Dybantsa quote "If I go to DC I'll make playoffs"; BYU: 25.5 PPG/51.0% FG/6-9; Darryn Peterson still in No. 1 conversation
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Draft night; Dybantsa officially selected No. 1
+
+## 2026-06-19
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-19 | T1 | Knicks Parade Recap — 2 Million Fans, Alicia Keys, Canyon of Heroes First in Franchise History | X, FB, Article | FOLLOW UP |
+| 2026-06-19 | T1 | Giannis Trade — Heat vs. Celtics, 4 Days to June 23, Bucks Not Impressed with Miami | X, FB, Article | FOLLOW UP |
+| 2026-06-19 | T2 | NBA Draft 4 Days Away — Dybantsa -450 No. 1, Peterson Medicals Clear | X, FB, Article | FOLLOW UP |
+| 2026-06-19 | T2 | Austin Reaves — Lakers Widely Expected to Retain Around $200M, Nets Fading | X, FB, Article | FOLLOW UP |
+| 2026-06-19 | T2 | Ja Morant Trade Market — Memphis Waiting on Giannis, Heat as Fallback | X, FB, Article | NEW |
+
+### STORY 1: Knicks Parade Recap — 2 Million Fans
+- **Tier:** 1
+- **Category:** Celebration / NYC
+- **Key facts:** NYPD estimates 2 million attended Canyon of Heroes; 10,000+ NYPD (largest single-event deployment ever); Brunson held trophy up for fans along route; Alicia Keys performed Empire State of Mind at City Hall; Mayor Mamdani Keys to the City; first franchise parade ever (1970/1973 champs never got ticker-tape)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Knicks dynasty offseason moves; Giannis to join?
+
+### STORY 2: Giannis Trade — Heat vs. Celtics
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Knicks officially out; Heat (Herro+Ware+Jaquez+No.13) vs Celtics (Jaylen Brown); Bucks not impressed with Heat offer (Windhorst/ESPN); Celtics on Giannis's list; Marc Stein "drawing near"; 4 days to June 23 deadline; Giannis eligible $275M extension Oct. 1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announced before draft
+
+### STORY 3: NBA Draft 4 Days Away
+- **Tier:** 2
+- **Category:** NBA Draft / Offseason
+- **Key facts:** Draft June 23-24 Barclays Center; Dybantsa -450 No. 1 to Wizards; completed Wizards+Jazz visits; Peterson medicals clear no major red flags; projected No. 2 Utah Jazz; Trae Young rejecting $49M option to renegotiate with Wizards
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Draft night results
+
+### STORY 4: Austin Reaves FA
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** Declines $14.9M option by June 29; Lakers 5yr/$239M vs Nets 4yr/$178.5M; expected deal ~$200M; Nets fading; Doncic partnership key; Reaves 23.3 PPG/49.0% FG last season; FA opens June 30
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Reaves re-signs with Lakers
+
+### STORY 5: Ja Morant Trade Market
+- **Tier:** 2
+- **Category:** NBA Trade Rumors / Grizzlies
+- **Key facts:** Memphis waiting for Giannis deal to close before entering trade market; Heat interested as Plan B if they miss Giannis; Morant 24.4 PPG last season; multiple teams interested; Grizzlies went 41-41 last season
+- **Status:** NEW
+- **Follow-up ideas:** Trade announced post-June 23 draft
