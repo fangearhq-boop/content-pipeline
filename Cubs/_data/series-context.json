@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-06-18T08:30:00.738727+00:00",
-  "today_ct": "2026-06-18",
-  "off_day": true,
-  "is_series_start_today": false,
-  "series": null,
-  "today_cubs_game": null,
-  "rationale": "No upcoming Cubs game on today's CT calendar date."
+  "generated_at": "2026-06-19T08:30:00.733100+00:00",
+  "today_ct": "2026-06-19",
+  "off_day": false,
+  "is_series_start_today": true,
+  "series": {
+    "opponent": "Toronto Blue Jays",
+    "opponent_id": 141,
+    "opponent_record": "37-38",
+    "cubs_record": "39-36",
+    "is_cubs_home": true,
+    "venue": "Wrigley Field",
+    "series_length": 3,
+    "games": [
+      {
+        "game_pk": "824663",
+        "game_date_iso": "2026-06-19T18:20:00Z",
+        "game_date_ct": "Fri 1:20 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824665",
+        "game_date_iso": "2026-06-20T18:20:00Z",
+        "game_date_ct": "Sat 1:20 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "824664",
+        "game_date_iso": "2026-06-21T18:20:00Z",
+        "game_date_ct": "Sun 1:20 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      }
+    ],
+    "rationale": "Off day yesterday. Today: Cubs host Toronto Blue Jays \u2192 game 1 of 3."
+  },
+  "today_cubs_game": {
+    "game_pk": "824663",
+    "status": "Preview",
+    "detailed_status": "Scheduled",
+    "game_date_iso": "2026-06-19T18:20:00Z",
+    "game_date_ct": "Fri 1:20 PM CT",
+    "is_cubs_home": true,
+    "opponent_id": 141,
+    "opponent_name": "Toronto Blue Jays",
+    "opponent_record": "37-38",
+    "cubs_record": "39-36",
+    "cubs_probable": "TBD",
+    "opponent_probable": "TBD",
+    "venue": "Wrigley Field"
+  },
+  "rationale": "Off day yesterday. Today: Cubs host Toronto Blue Jays \u2192 game 1 of 3."
 }
