@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-19
+
+### Story 1: Bobby Witt Jr. Exits With Right Knee Injury
+- **Date:** 2026-06-19
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** Royals All-Star SS Bobby Witt Jr. exits June 18 game vs. Cardinals in 4th inning with right knee discomfort after sliding stop. Hit HR before leaving. Same knee as June 7 incident. Royals won 14-6 (club record 5 doubles in one inning). Manager Quatraro says MRI pending.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Witt MRI results and IL placement decision
+  - Royals lineup adjustments without Witt
+  - Timeline to return
+
+### Story 2: Schwarber First to 25 Home Runs in 2026
+- **Date:** 2026-06-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 18 — Schwarber led NL with 24 HR)
+- **Angle:** Kyle Schwarber becomes first player in MLB to hit 25 HR in 2026. .249 BA / 43 RBI / 46 walks / 315 PA. Pace: ~66 HR (3rd-highest in MLB history behind Bonds 73, McGwire 70). Only McGwire (1998) and Bonds (2001) at comparable pace points. Derby July 13 at Citizens Bank Park — his home park.
+- **Content Produced:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber reaching 30 HR before All-Star break
+  - Home Run Derby confirmation/roster
+  - Alvarez keeping pace or falling behind
+
+### Story 3: Bryan Woo — Mariners Blank Orioles 3-0
+- **Date:** 2026-06-19
+- **Tier:** 2
+- **Classification:** NEW STORY (Thursday June 18 game)
+- **Angle:** Bryan Woo 7 IP / 0 ER / 3 H / 5 K. Colt Emerson 2 RBI in first inning. Mariners scored all 3 in the 1st. Seattle quiet contender in AL West.
+- **Content Produced:** Article (article-03), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Mariners rotation depth / second-half positioning
+  - Woo's next start
+
+### Story 4: All-Star Ballot — Ohtani 1.165M, Phase 1 Closes June 25
+- **Date:** 2026-06-19
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 18 — ballot update)
+- **Angle:** Ohtani leads all of baseball at 1,165,133 votes. Alvarez leads AL at 1,015,768. Judge at 977,460. Phase 1 closes June 25. Game July 14 Citizens Bank Park Philadelphia. Schwarber leads NL.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Phase 1 final vote totals / automatic starters announced
+  - All-Star Game roster reveals
+
+### Story 5: Thursday Night Roundup — Royals 14-6, Mariners 3-0
+- **Date:** 2026-06-19
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Royals 14-6 Cardinals (Witt HR + exits with knee / club record 5 doubles in 2nd inning), Mariners 3-0 Orioles (Woo gem). Guardians, Brewers, Twins, Rangers also in action.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Witt MRI results Friday
+  - Mariners series vs. Baltimore continues
+
+---
+
 ## 2026-06-18
 
 ### Story 1: Pete Crow-Armstrong Hits for the Cycle in Reverse Order — First of 2026 Season

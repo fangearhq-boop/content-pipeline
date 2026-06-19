@@ -1,0 +1,249 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-19",
+  "compiled_at": "2026-06-19T10:22:08.791302+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Bobby Witt Jr. Exits With Right Knee Injury — Royals Await MRI Results",
+      "tier": 1,
+      "status": "",
+      "angle": "Royals All-Star shortstop Bobby Witt Jr. left Thursday's 14-6 win over the Cardinals in the fourth inning with right knee discomfort after making a sliding stop on a ground ball. He hit a home run before exiting. It is the same knee that sidelined him briefly on June 7. Manager Matt Quatraro said MRI results pending. Witt is the heart of the Kansas City lineup and an MVP-caliber player — any extended absence would fundamentally change the Royals' second-half trajectory.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "⚠️ Bobby Witt Jr. exits Royals-Cardinals with right knee discomfort.\n\nLeft in the 4th inning after a sliding stop. Hit a HR before leaving.\n\nSame knee that gave him trouble June 7. Manager says MRI pending.\n\nRoyals won 14-6. But the only story that matters is No. 7. #Royals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Royals"
+          ],
+          "char_count": 274
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Witt Jr. knee history:\n\nJune 7: right knee soreness vs. Twins. Returned 2 days later. Manager said nothing structurally wrong.\n\nJune 18: right knee discomfort again vs. Cardinals. MRI pending.\n\nHe's a top-5 AL player. KC can't afford this. #Royals",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Royals"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-bobby-witt-jr-knee-injury-royals-await-mri.html",
+        "headline": "Bobby Witt Jr. Exits With Right Knee Injury — Royals Await MRI Results",
+        "word_count": 641
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bobby Witt Jr. Knee Injury\n\n#### Image Concept 1A — Social (1080x1350, 4:5 vertical)\n- **Purpose:** X/Facebook post — injury alert\n- **Photo Search:** \"Bobby Witt Jr Kansas City Royals\" (Imagn/USA TODAY Sports)\n- **Canva Text Overlay:**\n  - Headline: WITT JR. EXITS\n  - Subtext: Right knee discomfort • MRI pending\n  - Brand: Ballpark Banter logo\n- **Mood:** Somber urgency. Dark palette, single-player focus.\n- **Status:** not_started\n\n#### Image Concept 1B — Article Hero (1200x630, landscape)\n- **Purpose:** Article featured image\n- **Photo Search:** \"Bobby Witt Jr Kansas City Royals\" (Imagn/USA TODAY Sports)\n- **Canva Text Overlay:**\n  - Headline: BOBBY WITT JR. RIGHT KNEE INJURY\n  - Subtext: Royals await MRI results\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Schwarber Becomes First to 25 Home Runs in 2026",
+      "tier": 1,
+      "status": "",
+      "angle": "Kyle Schwarber hit his 25th home run to become the first player in the major leagues to reach that mark in 2026. He is batting .249 with 35 extra-base hits, 43 RBI, 46 walks, and 44 runs across 315 plate appearances. His homer pace projects to approximately 66 home runs for the season — a number that would be the third-highest single-season total in MLB history, behind only Barry Bonds (73) and Mark McGwire (70). The Home Run Derby in July is set for Citizens Bank Park, Schwarber's home ballpark.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Kyle Schwarber: first player in the majors to hit 25 home runs in 2026.\n\n.249 BA. 43 RBI. 46 walks. 315 PAs.\n\nPace: ~66 HR. That's the 3rd-highest single-season total in MLB history.\n\nAnd his Home Run Derby is at Citizens Bank Park — his house. #Phillies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-schwarber-first-to-25-home-runs-2026-historic-pace.html",
+        "headline": "Schwarber First to 25 Home Runs in 2026 — Historic Pace Continues",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Schwarber 25 HRs\n\n#### Image Concept 2A — Social (1080x1350, 4:5 vertical)\n- **Purpose:** X/Facebook post — milestone\n- **Photo Search:** \"Kyle Schwarber Philadelphia Phillies\" (Imagn/USA TODAY Sports)\n- **Canva Text Overlay:**\n  - Headline: 25 AND FIRST\n  - Subtext: Schwarber — First to 25 HR in 2026\n  - Brand: Ballpark Banter logo\n- **Mood:** Bold, energetic. Phillies red/dark blue.\n- **Status:** not_started\n\n#### Image Concept 2B — Article Hero (1200x630, landscape)\n- **Purpose:** Article featured image\n- **Photo Search:** \"Kyle Schwarber home run\" (Imagn/USA TODAY Sports)\n- **Canva Text Overlay:**\n  - Headline: SCHWARBER: FIRST TO 25 HRs\n  - Subtext: Projecting 66 on the season\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Bryan Woo Dominates in Seattle — Mariners Blank Orioles 3-0",
+      "tier": 2,
+      "status": "",
+      "angle": "Seattle Mariners right-hander Bryan Woo pitched seven shutout innings, allowing just three hits and striking out five, in a 3-0 win over the Baltimore Orioles on Thursday night. Colt Emerson drove in two of Seattle's three first-inning runs. The Mariners have been one of the league's quiet contenders in the AL West, and Woo continues to be a cornerstone of a rotation that is pitching well through the first half.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "Bryan Woo last night vs. Baltimore:\n\n7 IP. 0 ER. 3 H. 5 K.\n\nMariners 3-0 Orioles. Colt Emerson drove in 2 in the first inning.\n\nSeattle is quietly building something. #Mariners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mariners"
+          ],
+          "char_count": 176
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Mariners starters since the All-Star break last year have been one of the better kept secrets in baseball.\n\nBryan Woo last night: 7 shutout innings, 3 hits allowed.\n\nSeattle is 1st-half sneaky. #Mariners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Mariners"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-bryan-woo-mariners-blank-orioles-3-0.html",
+        "headline": "Bryan Woo's Gem Leads Mariners Past Orioles 3-0",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bryan Woo / Mariners\n\n#### Image Concept 3A — Social (1080x1350, 4:5 vertical)\n- **Purpose:** X/Facebook post — pitching gem\n- **Photo Search:** \"Bryan Woo Seattle Mariners\" (Imagn/USA TODAY Sports)\n- **Canva Text Overlay:**\n  - Headline: WOO DOMINATES\n  - Subtext: 7 IP • 0 ER • Mariners 3-0\n  - Brand: Ballpark Banter logo\n- **Mood:** Clean, professional. Mariners navy/aqua.\n- **Status:** not_started\n\n#### Image Concept 3B — Article Hero (1200x630, landscape)\n- **Purpose:** Article featured image\n- **Photo Search:** \"Bryan Woo Seattle Mariners\" (Imagn/USA TODAY Sports)\n- **Canva Text Overlay:**\n  - Headline: BRYAN WOO: 7 SHUTOUT INNINGS\n  - Subtext: Mariners 3-0 Orioles\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "All-Star Ballot: Ohtani at 1.165M Votes, Phase 1 Closes June 25",
+      "tier": 2,
+      "status": "",
+      "angle": "Shohei Ohtani leads all of baseball with 1,165,133 votes, on pace to earn an automatic starting spot as the AL designated hitter when Phase 1 closes June 25. Yordan Alvarez paces AL DH vote at 1,015,768 — this is Ohtani leading all players total, not Alvarez leading AL. Aaron Judge third at 977,460. Schwarber leads NL. MLB All-Star Game July 14 at Citizens Bank Park in Philadelphia. Six days until voting Phase 1 closes.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "2026 MLB All-Star ballot — 6 days left in Phase 1 (closes June 25):\n\n🏆 Ohtani: 1,165,133 votes — leads all of baseball\n🏆 Yordan Alvarez: 1,015,768 — leads AL\n🏆 Aaron Judge: 977,460\n\nGame: July 14, Citizens Bank Park, Philadelphia.\n\nWho are you voting for? #MLB #AllStarGame",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#AllStarGame"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-all-star-ballot-ohtani-leads-phase-1-closes-june-25.html",
+        "headline": "All-Star Ballot Update: Ohtani Leads All of Baseball, Phase 1 Closes June 25",
+        "word_count": 552
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "All-Star Ballot Update\n\n#### Image Concept 4A — Social (1080x1350, 4:5 vertical)\n- **Purpose:** X/Facebook post — ballot graphic\n- **Photo Search:** \"Shohei Ohtani Los Angeles Dodgers\" (Imagn/USA TODAY Sports)\n- **Canva Text Overlay:**\n  - Headline: ALL-STAR BALLOT\n  - Subtext: Ohtani 1.165M leads all • 6 days left\n  - Brand: Ballpark Banter logo\n- **Mood:** Festive, bright. MLB All-Star visual language.\n- **Status:** not_started\n\n#### Image Concept 4B — Article Hero (1200x630, landscape)\n- **Purpose:** Article featured image\n- **Photo Search:** \"Shohei Ohtani\" (Imagn/USA TODAY Sports)\n- **Canva Text Overlay:**\n  - Headline: 6 DAYS LEFT TO VOTE\n  - Subtext: Ohtani leads all of baseball\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Thursday Night Roundup — Royals 14-6, Woo Shuts Down O's, Witt's Night",
+      "tier": 3,
+      "status": "",
+      "angle": "Thursday June 18 results: Royals 14-6 Cardinals (Witt HR then exits with knee, club-record 5 doubles in a 6-run second inning), Mariners 3-0 Orioles (Woo gem), Guardians and Brewers both active. Full evening recap.",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Thursday MLB results:\n\nRoyals 14, Cardinals 6 — Witt HR, then exits with knee (MRI pending)\nMariners 3, Orioles 0 — Woo 7 IP, 0 ER\n\nClub-record 5 doubles for KC in a 6-run 2nd inning.\n\nThe win almost felt secondary. #Royals #Mariners",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Royals",
+            "#Mariners"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-thursday-night-roundup-royals-mariners.html",
+        "headline": "Thursday Night Roundup: Royals 14-6, Mariners 3-0, and the Night Witt Went Down",
+        "word_count": 483
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Thursday Night Roundup\n\n#### Image Concept 5A — Social (1080x1350, 4:5 vertical)\n- **Purpose:** X/Facebook post — roundup graphic\n- **Photo Search:** \"Kansas City Royals batter\" (Imagn/USA TODAY Sports)\n- **Canva Text Overlay:**\n  - Headline: THURSDAY RESULTS\n  - Subtext: Royals 14-6 • Mariners 3-0\n  - Brand: Ballpark Banter logo\n- **Mood:** Recap graphic. Clean scoreboard aesthetic.\n- **Status:** not_started\n\n#### Image Concept 5B — Article Hero (1200x630, landscape)\n- **Purpose:** Article featured image\n- **Photo Search:** \"MLB baseball game\" (Imagn/USA TODAY Sports)\n- **Canva Text Overlay:**\n  - Headline: THURSDAY NIGHT ROUNDUP\n  - Subtext: Royals 14-6 • Mariners 3-0\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-19
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims extracted, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published attempt (403 PAT for content-dashboards repo — known). Content pushed to content-pipeline.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). FB posts compile to 0 (known heading format). 0 char violations. Dashboard push 403 (PAT for content-dashboards repo — known).
+- **Key Stories**: Bobby Witt Jr. exits with right knee discomfort/same knee as June 7/MRI pending/Royals 14-6 Cardinals/club record 5 doubles (Tier 1 NEW), Schwarber first to 25 HR in 2026/pace 66 HR 3rd-highest in MLB history/Derby at Citizens Bank Park (Tier 1 FOLLOW UP), Bryan Woo 7 IP 0 ER/Mariners 3-0 Orioles/Emerson 2 RBI (Tier 2 NEW), All-Star ballot Ohtani 1.165M leads all/Alvarez 1.015M AL/Phase 1 closes June 25/Game July 14 Philadelphia (Tier 2 FOLLOW UP), Thursday night roundup Royals 14-6 Mariners 3-0 (Tier 3 NEW)
+
+
+## Last Run
 - **Date**: 2026-06-18
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed S2T1 288→251; 0 after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (36 claims extracted, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published attempt (403 PAT for content-dashboards repo — known). Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -10,7 +19,7 @@
 - **Key Stories**: Pete Crow-Armstrong hits for the cycle in reverse order (HR→3B→2B→1B)/first cycle of 2026/first reverse-order cycle in Cubs history/youngest Cub since Hundley 1966 (Tier 1 NEW), Eduardo Rodriguez 100th career win/7 IP 1 ER 5K/D-Backs 8-1/2.45 ERA/9th Venezuelan pitcher in MLB history to reach 100 (Tier 1 NEW), Freeman go-ahead 407-ft HR in 6th/Ohtani gave up 4 in 5th/Dodgers 5-4/first sweep of Tampa Bay since 2013 (Tier 2 NEW), Schwarber leads NL 23 HR/.949 OPS/Alvarez leads AL/Derby July 13 Citizens Bank Park (Tier 2 FOLLOW UP), All-Star ballot Phase 1 closes June 25/Ohtani leads all/Baldwin leads catchers/Game July 14 Citizens Bank Park (Tier 3 FOLLOW UP)
 
 
-## Last Run
+## Previous Run
 - **Date**: 2026-06-17
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (10 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (22 claims extracted, 0 char violations — claim-patterns.py missing, universal extraction only, consistency clean), compile (5 stories, 6 tweets compiled, 0 FB parsed — known heading format, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts X, 6 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published attempt (403 PAT for content-dashboards repo — known). Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
