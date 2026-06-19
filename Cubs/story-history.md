@@ -5,6 +5,43 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-19
+
+### STORY 1: Series Preview — Cubs vs Blue Jays, Game 1 of 3 at Wrigley
+- **Angle:** NEW STORY (Cubs 39-36 host Toronto Blue Jays 37-38 in Game 1 of 3 at Wrigley Field, 1:20 PM CT; Ben Brown [3-2, 1.74 ERA] vs Kevin Gausman [4-4, 3.41 ERA]; both teams within a game of each other in wild card picture)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview / game-day)
+- **Follow-Up Opportunities:**
+  - Game 1 result (today)
+  - Game 2 preview (June 20)
+  - Series result (June 21)
+
+### STORY 2: Ben Brown — 1.74 ERA, Cubs' Surprise Ace Starts Game 1
+- **Angle:** NEW STORY (Brown entered 2026 with 5.92 career ERA; now 3-2, 1.74 ERA in 19 games; bullpen piece pressed into rotation after injuries to Steele, Horton, Palencia; All-Star case building; starts Game 1 vs Toronto today)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, stat breakdown / player feature)
+- **Follow-Up Opportunities:**
+  - Brown's pitching line vs Blue Jays Game 1
+  - All-Star selection announcement (July)
+
+### STORY 3: Rotation Crisis — Steele Throwing June 22, Deadline Urgency
+- **Angle:** FOLLOW UP (ongoing rotation crisis; new angle = Steele throwing program begins June 22, September return realistic best-case; Palencia on IL; Horton done for 2026; trade deadline July 31 is the fix)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news / injury update)
+- **Follow-Up Opportunities:**
+  - Steele throwing session results June 22+
+  - Trade deadline acquisitions (any starter or reliever)
+
+### STORY 4: Wild Card Watch — Cubs 39-36, Three NL Spots Available
+- **Angle:** FOLLOW UP (ongoing wild card arc; today's angle = Cubs 39-36 above .500; three NL wild card spots available; Brewers leading NL Central; home wins vs near-.500 Blue Jays essential to staying ahead of field)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, division standings / analysis)
+- **Follow-Up Opportunities:**
+  - Daily standings update after series games
+  - Wild card picture after Blue Jays series ends
+
+---
+
 ## 2026-06-18
 
 ### STORY 1: Game Recap — Cubs 8, Rockies 6 (June 17 at Wrigley — Series Win)

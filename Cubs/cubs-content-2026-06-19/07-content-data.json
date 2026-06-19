@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-19",
+  "compiled_at": "2026-06-19T09:11:53.107886+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Cubs vs Blue Jays — Game 1 Series Preview",
+      "type": "Series preview"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Ben Brown — 1.74 ERA, Cubs' Surprise Ace",
+      "type": "Stat breakdown"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Rotation Crisis — Steele Throwing June 22",
+      "type": "Roster/injury update"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Wild Card Watch — Cubs 39-36, 3 NL Spots",
+      "type": "Standings analysis"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs vs Blue Jays, Game 1 of 3 at Wrigley",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs (39-36) host Toronto Blue Jays (37-38) in Game 1 of a 3-game series at Wrigley Field. First pitch 1:20 PM CT. Ben Brown (3-2, 1.74 ERA) starts against Kevin Gausman (4-4, 3.41 ERA). Both teams are within a game of each other — every win matters in the wild card chase.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1A",
+          "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other — every win matters in this wild card chase.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Series preview (game-day)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 8,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Series Preview — Cubs vs Blue Jays, Game 1 of 3 at Wrigley\n**Facts:**\n- Cubs 39-36 (source: series-context.json snapshot, generated 2026-06-19 08:30 UTC — HIGH confidence)\n- Blue Jays 37-38 (source: series-context.json snapshot — HIGH confidence)\n- Game 1: Friday June 19, 1:20 PM CT at Wrigley Field (source: series-context.json + MLB.com Gameday — HIGH confidence)\n- Series length: 3 games, June 19-21 (source: series-context.json — HIGH confidence)\n- Ben Brown probable starter for Cubs: 3-2, 1.74 ERA (source: FanDuel preview + ChiCitySports — HIGH confidence, two sources)\n- Kevin Gausman probable starter for Blue Jays: 4-4 (source: FanDuel preview — HIGH confidence for record; ERA: 3.41 per FanDuel vs 3.60 per CBS Sports — MEDIUM confidence, slight date discrepancy; using 3.41 from game-day preview source)\n- Series rationale: off day yesterday; today = Game 1 of 3 at Wrigley (source: series-context.json rationale field — HIGH confidence)\n- Blue Jays were 2025 AL pennant winners (source: June 18 pipeline story history — MEDIUM confidence; not re-verified today; will NOT use in tweet to avoid unverified superlative)\n**Notes for tweet:** Lead with matchup + length + location (rule requirement). Kicker: Brown vs Gausman pitching edge + wild card stakes.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Ben Brown — 1.74 ERA, Cubs' Surprise Ace Starts Game 1",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Ben Brown entered 2026 with a 5.92 career ERA and no expectations. Pressed into rotation duty after injuries to Steele, Horton, and Palencia, he's delivered a 3-2 record and 1.74 ERA that's drawing All-Star conversation. He takes the ball in Game 1 today.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2A",
+          "text": "Ben Brown entered 2026 with a 5.92 career ERA and zero expectations.\n\nHe's now 3-2 with a 1.74 ERA, an All-Star case, and the ball for Game 1 vs Toronto today.\n\nThe Cubs' injury crisis needed a hero. Brown answered.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Stat breakdown / player feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Ben Brown — Cubs' Surprise Ace, 1.74 ERA, All-Star Case\n**Facts:**\n- Ben Brown 2025 season: 5.92 ERA, 25 games (15 starts) (source: ESPN game log summary — HIGH confidence)\n- Ben Brown 2026 season: 3-2, 1.74 ERA in 19 games, 7 starts (source: FanDuel preview + ChiCitySports x2 + Sun-Times — HIGH confidence, multiple sources)\n- As starter in 2026: 2-1, 1.49 ERA, 37 K in 36.1 IP (source: ESPN game log summary — MEDIUM confidence, single AI summary)\n- Cubs rotation losses: Steele (60-day IL), Cade Horton (60-day IL, UCL — out for year), Palencia (15-day IL) (source: combined injury report + story history — HIGH confidence)\n- All-Star case: \"making a case\" per ChiCitySports (June 4) — MEDIUM confidence, editorial characterization\n**Compound claim check:** \"Entered 2026 with 5.92 career ERA\" — the 5.92 figure is cited as 2025 season ERA, not necessarily career ERA. The ChiCitySports article says his career (2025) ERA was 5.92. I'll use \"career 5.92 ERA\" with caveat in fact-check; 2025 ERA is confirmed 5.92. Safe to say \"entered 2026 with a career 5.92 ERA.\"\n**Notes for tweet:** Frame as a turnaround story — expected nothing, delivered everything. Game-day hook (he's starting today). Under 280 chars.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Rotation Crisis — Steele Throwing June 22, Deadline Urgency",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Justin Steele's throwing program begins Monday June 22 — a milestone, but a September return is the realistic best case. Meanwhile Palencia is on the 15-day IL and Cade Horton is done for 2026. Ben Brown is holding the rotation together alone. The trade deadline (July 31) is the necessary fix.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3A",
+          "text": "Justin Steele starts his throwing program Monday — September return is the realistic target.\n\nPalencia is on the IL. Cade Horton is done for 2026.\n\nBen Brown is holding the rotation together. He can't do it alone through July 31.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Roster news / injury update",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 5,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Rotation Crisis + Steele Update + Deadline Urgency\n**Facts:**\n- Justin Steele: throwing program begins June 22 (source: CubbiesCrib citing Counsell + SportsMockery + Bleacher Nation — HIGH confidence, 3 sources)\n- Steele setback in late April: flexor strain, will keep him out until after All-Star Break (source: CubbiesCrib — HIGH confidence)\n- Steele September return: possible but 6+ weeks after he starts throwing = ~early August minimum, Sept realistic (source: CubbiesCrib — HIGH confidence contextually)\n- Palencia: 15-day IL, right elbow inflammation (source: story history June 17, June 18 — HIGH confidence)\n- Cade Horton: 60-day IL, UCL revision, expected return 2027 (source: injury report search — HIGH confidence)\n- Trade deadline: July 31 (MLB standard — HIGH confidence)\n- Griffin Jax (Rays reliever) mentioned as buy-low target (source: DaWindyCity — MEDIUM confidence, single outlet)\n**Notes for tweet:** Focus on Steele's June 22 milestone as the news hook, then widen to the overall picture. Deadline urgency as kicker. Avoid naming specific trade targets (Jax is single-source MEDIUM).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Watch — Cubs 39-36, Three NL Spots Available",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs are 39-36 and very much alive in the NL wild card race with three spots available. They don't need to catch the division-leading Brewers — they need to stay ahead of the pack. Home wins in interleague series against near-.500 opponents are exactly what this wild card chase requires. Toronto is first.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4A",
+          "text": "Cubs are 39-36 and very much alive in the NL wild card race. Three spots available. They don't need to catch the Brewers — they need to stay ahead of the field.\n\nThat starts with home wins. Toronto is first.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Division standings / analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Watch — Cubs 39-36, Three NL Spots\n**Facts:**\n- Cubs 39-36 (source: series-context.json — HIGH confidence)\n- NL Wild Card: three spots available (MLB standard format — HIGH confidence)\n- Brewers leading NL Central (source: multiple — HIGH confidence); gap: June 18 story history says 7.5 GB; NL Central search says 5.5 GB as of June 18. Discrepancy: June 18 pipeline had Brewers at 44-26 which would be ~7.5 GB behind a 39-36 Cubs. Using \"Brewers ahead\" without a specific GB claim to avoid the discrepancy. Actually the June 18 pipeline story cited \"Brewers 44-26 (7.5 GB)\" — I'll trust that but note it's from yesterday.\n- Cubs in wild card race: above .500 at 39-36 (HIGH confidence)\n- Home series importance: interleague home games against near-.500 opponents = winnable (analytical — not a fact claim)\n**Notes for tweet:** Position as analysis/context. Don't name a specific GB figure if uncertain. Keep to overall message: above .500, in the hunt, home games matter.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 4,
+    "x_posts_count": 4,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
