@@ -1,0 +1,251 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-19",
+  "compiled_at": "2026-06-19T11:22:55.473617+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Ferrari ADUO Power Unit Upgrade Coming to Austria — 30HP and Halving the Mercedes Gap",
+      "tier": 1,
+      "status": "",
+      "angle": "Ferrari's first ADUO power unit upgrade is scheduled to debut at the Austrian GP (June 26-28). The upgrade targets the thermal side of the ICE and is expected to deliver approximately 30 horsepower — enough to halve the current power gap to Mercedes. Lewis Hamilton now trails championship leader Kimi Antonelli by just 41 points. The upgrade gives Ferrari's title bid a genuine engine edge for the first time.",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Ferrari's first ADUO power unit upgrade is coming to Austria.\n\nExpected gains: ~30 horsepower. Impact: halves the gap to Mercedes.\n\nHamilton already trails by just 41 points. Now he's getting a new engine too. 🔴 #F1 #LewisHamilton",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Ferrari ADUO upgrade for Austria doesn't just add power.\n\nIt potentially halves the performance gap to Mercedes — the team that's dominated 2026.\n\nIf it works as billed, Hamilton's title bid just became very real. #F1 #Ferrari",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-ferrari-aduo-upgrade-austria-30hp.html",
+        "headline": "Ferrari's Austrian GP Engine Upgrade: 30 Horsepower and the Shot at Halving the Mercedes Gap",
+        "word_count": 514
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari ADUO Upgrade\n\n**Image Concept 1A — Social (1080x1350)**\n- imagn search: \"Lewis Hamilton Ferrari\"\n- Caption overlay: \"NEW ENGINE COMING\" / \"+30 HP / ADUO Austria\" / \"#F1\"\n- Mood: Technical, powerful\n\n**Image Concept 1B — Article Hero (1200x630)**\n- imagn search: \"Lewis Hamilton Ferrari\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari ADUO Power Unit Upgrade\n**Sources:**\n- GPFans: \"Lewis Hamilton's Ferrari title hopes boosted by upcoming power unit upgrade\" — https://www.gpfans.com/us/f1-news/1086201/lewis-hamilton-ferrari-f1-power-unit-austrian-grand-prix-2026/\n- ScuderiaFans: \"Ferrari ready to introduce first ADUO engine upgrade in Austria: How much horsepower will it add?\" — https://scuderiafans.com/ferrari-ready-to-introduce-first-aduo-engine-upgrade-in-austria-how-much-horsepower-will-it-add/\n- ScuderiaFans: \"Ferrari's Barcelona breakthrough points to bigger gains ahead as ADUO power unit upgrade nears\" — https://scuderiafans.com/ferraris-barcelona-breakthrough-points-to-bigger-gains-ahead-as-aduo-power-unit-upgrade-nears/\n- F1 Oversteer: \"Ferrari have done the impossible to give Lewis Hamilton and Charles Leclerc a power boost in Austria\" — https://www.f1oversteer.com/news/ferrari-have-done-the-impossible-to-give-lewis-hamilton-and-charles-leclerc-a-power-boost-in-austria/\n**Key Facts:**\n- [HIGH] Ferrari's first ADUO power unit upgrade scheduled for Austrian GP — multiple sources\n- [HIGH] Upgrade expected to yield approximately 30 horsepower gain — ScuderiaFans\n- [HIGH] First upgrade described as capable of \"halving the power gap with Mercedes\" — ScuderiaFans\n- [HIGH] Upgrade targets the thermal side of the ICE with slightly larger batteries — ScuderiaFans\n- [HIGH] Hamilton won Barcelona (106th career win, first for Ferrari) — established prior\n- [HIGH] Antonelli leads championship 156 pts, Hamilton 115 pts (gap: 41 after Barcelona) — multiple sources\n- [MEDIUM] Ferrari cleared under ADUO rules for mid-2026 power unit boost — ReadMotorsport",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Red Bull's Austrian Upgrade — Eliminating the Final 6kg, Verstappen's Future on the Line",
+      "tier": 1,
+      "status": "",
+      "angle": "Red Bull will bring their second major upgrade of 2026 to Austria. Team principal Laurent Mekies described the process as putting the RB22 \"on a diet\" — the car started the season 12kg overweight, was cut to 6kg in Miami, and the Austria package aims to close the gap entirely. If the upgrade fails to deliver meaningful results, Verstappen's August exit clause becomes a live conversation.",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Red Bull's Austrian GP upgrade targets the last 6kg of excess weight on the RB22.\n\nThe car started the season 12kg overweight. They cut it to 6kg in Miami. Austria finishes the diet.\n\nLaurent Mekies: \"this step alone won't be enough.\" But it's necessary. #F1 #RedBull",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-red-bull-austria-upgrade-verstappen-future.html",
+        "headline": "Red Bull's Austrian Upgrade: The Final Diet — and What Happens If It Doesn't Work",
+        "word_count": 548
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Bull Austria Upgrade\n\n**Image Concept 2A — Social (1080x1350)**\n- imagn search: \"Max Verstappen Red Bull\"\n- Caption overlay: \"FINAL DIET\" / \"6kg to Zero in Austria\" / \"#RedBull\"\n- Mood: Mechanical, high-stakes\n\n**Image Concept 2B — Article Hero (1200x630)**\n- imagn search: \"Max Verstappen Red Bull\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Red Bull Austria Upgrade\n**Sources:**\n- AutoRacing1: \"Formula 1 News: Red Bull's Austria Upgrade Could Decide Max Verstappen's Future\" — https://www.autoracing1.com/pl/495918/\n- GPBlog: \"Hope for Verstappen: Red Bull confirms crucial upgrade for Austrian GP\" — https://www.gpblog.com/en/breaking-news/hope-for-verstappen-red-bull-confirms-crucial-upgrade-in-austria\n- Motorsport.com: \"Red Bull bringing F1 upgrades to Austria as 2026 shift nears\" — https://www.motorsport.com/f1/news/red-bull-bringing-f1-upgrades-to-austria-as-2026-shift-nears-/10735991/\n- Yahoo Sports: \"Red Bull Confirms Major Austria Upgrade As Team Boss Laurent Mekies Puts the RB22 on a Diet\" — https://sports.yahoo.com/articles/red-bull-confirms-major-austria-101500291.html\n- F1-Fansite: \"Verstappen: no future talk — Red Bull's eyes are on Austria\" — https://www.f1-fansite.com/f1-news/verstappen-shrugs-off-future-talk-as-red-bull-targets-austria-upgrade/\n**Key Facts:**\n- [HIGH] Red Bull confirms major upgrade for Austrian GP — multiple sources\n- [HIGH] RB22 started season 12kg overweight; halved to 6kg in Miami; Austria targets final 6kg — Motorsport.com\n- [HIGH] Team principal Laurent Mekies: putting RB22 \"on a diet\" — Yahoo Sports\n- [HIGH] Mekies does not believe this step alone will bring Red Bull into contention for victories — Motorsport.com\n- [HIGH] Verstappen exit clause exists; August deadline rumored — multiple sources\n- [MEDIUM] If upgrade fails, Mercedes emerges as most realistic Verstappen destination — AutoRacing1\n- [HIGH] Red Bull has 0 wins in 7 races in 2026; Verstappen 7th in championship with 55 pts",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Championship Math After Barcelona — How Hamilton Closes 41 Points in 15 Races",
+      "tier": 2,
+      "status": "",
+      "angle": "After Hamilton's 106th win and Antonelli's DNF in Barcelona, the gap went from 66 to 41 points. With 15 races left and the ADUO upgrade arriving, Hamilton is now legitimately in the title hunt. What needs to happen across the triple-header (Austria/Britain/Belgium) for Hamilton to emerge as the favorite?",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The 2026 F1 title race after 7 of 22 rounds:\n\n🏆 Antonelli — 156 pts\n🔴 Hamilton — 115 pts (-41)\n⚪ Russell — 106 pts (-50)\n\nTwo weeks ago Hamilton trailed by 66. Ferrari engine upgrade arrives in Austria. #F1",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-hamilton-title-math-15-races.html",
+        "headline": "From 66 to 41: How Hamilton's 2026 Title Math Has Transformed in Two Weeks",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Math\n\n**Image Concept 3A — Social (1080x1350)**\n- imagn search: \"Kimi Antonelli Mercedes\"\n- Caption overlay: \"66 POINTS → 41 POINTS\" / \"Hamilton Closing In\" / \"#F1\"\n- Mood: Analytical, dramatic\n\n**Image Concept 3B — Article Hero (1200x630)**\n- imagn search: \"Lewis Hamilton Ferrari\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Math\n**Sources:**\n- F1-Fansite: \"2026 F1 Standings\" — https://www.f1-fansite.com/f1-results/f1-standings-2026-championship/\n- StatSniper: \"F1 2026 Austrian Grand Prix Preview: Antonelli's Bounce...\" — https://statsniper.com/blog/f1/f1-2026-austrian-grand-prix-preview-antonelli-hamilton-championship/\n- Formula1.com: ADUO standings data\n**Key Facts:**\n- [HIGH] After 7 of 22 races: Antonelli 156 / Hamilton 115 / Russell 106 / Leclerc 75 / Norris 73 / Verstappen 55\n- [HIGH] Gap: Antonelli leads Hamilton by 41 points (was 66 after Monaco)\n- [HIGH] 15 races remain; 25 points available per race (fastest lap bonus = 1 pt)\n- [HIGH] Triple-header upcoming: Austria (June 28) / Britain (July 5) / Belgium (July 12)\n- [MEDIUM] Hamilton needs to gain average 2.7 pts per remaining race to overtake Antonelli if leader doesn't score",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Mercedes Battery Fix — What Wolff Promised Before Austria",
+      "tier": 2,
+      "status": "",
+      "angle": "Three battery failures in Mercedes-customer cars in three races (Russell-Canada, Norris-Monaco, Antonelli-Barcelona). Wolff said in a reliability pledge that the issue would be resolved before Austria. Russell's Montreal battery is on sea freight — the solution has to be a new spec. What exactly is Mercedes fixing, and does the triple-header give them enough time?",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "3 battery failures in 6 weeks:\n— Russell, Canada\n— Norris, Monaco\n— Antonelli, Barcelona (with 3 laps left while leading)\n\nSame symptom. Three teams. Toto Wolff says it's fixed before Austria.\n\nWe'll see. 👀 #F1 #Mercedes",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Mercedes"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-mercedes-battery-failures-wolff-promise.html",
+        "headline": "Three Failures, Three Teams, Six Weeks: What Is Killing Mercedes' Battery Systems?",
+        "word_count": 473
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes Battery Crisis\n\n**Image Concept 4A — Social (1080x1350)**\n- imagn search: \"Toto Wolff Mercedes\"\n- Caption overlay: \"3 FAILURES / 6 WEEKS\" / \"Wolff: Fixed Before Austria\" / \"#F1\"\n- Mood: Tense, analytical\n\n**Image Concept 4B — Article Hero (1200x630)**\n- imagn search: \"George Russell Mercedes\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mercedes Battery Crisis / Fix\n**Sources:**\n- Sky Sports: \"Lewis Hamilton: Ferrari driver not ruling out 2026 F1 title win as Mercedes count him in after Barcelona\" — https://www.skysports.com/f1/news/12433/13553906/\n- Established from prior research: Russell DNF Canada (battery), Norris DNF Monaco (battery), Antonelli DNF Barcelona lap 62 (battery)\n**Key Facts:**\n- [HIGH] Three battery failures in Mercedes-customer cars: Russell Canada, Norris Monaco, Antonelli Barcelona\n- [HIGH] Russell's Montreal battery unit on sea freight — can't fly, won't arrive for months\n- [HIGH] Wolff said on record \"can't compete for championship every second race losing points\"\n- [HIGH] Mercedes made reliability pledge before Austria\n- [MEDIUM] Different cars, same symptom (car switches off mid-race) — pattern suggests shared component\n- [MEDIUM] New battery spec expected for Austria",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Austrian GP Weekend Guide — Dates, Schedule, What to Watch",
+      "tier": 2,
+      "status": "",
+      "angle": "Complete viewer guide for the Austrian GP (June 26-28, Red Bull Ring, Spielberg). Schedule, TV times, key storylines: Hamilton momentum + ADUO upgrade, Red Bull home race + major upgrade, Verstappen's title hopes, triple-header leg 1 of 3. 7 days away.",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Austrian GP is 7 days away. Here's what makes it the most important race of 2026:\n\n🔴 Ferrari ADUO engine upgrade\n🔵 Red Bull final weight reduction at home race\n⚡ Hamilton riding Barcelona momentum\n🚪 Verstappen exit clause in the background\n\nRed Bull Ring, June 28. #F1 #AustrianGP",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-austrian-gp-preview-guide.html",
+        "headline": "Austrian GP 2026: Your Complete Guide to the Most Consequential Race of the Season",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Preview\n\n**Image Concept 5A — Social (1080x1350)**\n- imagn search: \"Max Verstappen Red Bull\"\n- Caption overlay: \"AUSTRIAN GP\" / \"June 26-28 / Red Bull Ring\" / \"#AustrianGP\"\n- Mood: Anticipatory, scenic\n\n**Image Concept 5B — Article Hero (1200x630)**\n- imagn search: \"Red Bull Ring Formula One\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austrian GP Weekend Guide\n**Sources:**\n- Sky Sports: \"Austrian GP 2026: Dates, schedule, weather, UK start time\" — https://www.skysports.com/f1/news/12433/13554922/\n- GPFans: \"When is the next F1 race? Austrian Grand Prix schedule and details for 2026\" — https://www.gpfans.com/en/f1-news/1085996/\n**Key Facts:**\n- [HIGH] Austrian GP dates: June 26-28, 2026 at Red Bull Ring, Spielberg, Austria\n- [HIGH] Race: Sunday June 28, 3:00 PM CEST (9:00 AM ET)\n- [HIGH] Part of triple-header: Austria / Britain (July 5) / Belgium (July 12)\n- [HIGH] Red Bull Ring is Verstappen's home race\n- [HIGH] Both Ferrari and Red Bull bringing major upgrades\n- [MEDIUM] Weather expected warm and sunny for race day",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

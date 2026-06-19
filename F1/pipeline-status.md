@@ -1,8 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-18
+- **Date**: 2026-06-19
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-06-19
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-19.xlsx (6 posts) + f1fr-postplanner-tobi-2026-06-19.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-19/review-dashboard.html (21 items)
+- **Notes:** Ferrari ADUO engine upgrade debut Austria ~30HP/halves Mercedes gap — new story; Red Bull final 6kg diet upgrade at home race/Mekies honest "won't be enough for victory"/Verstappen exit clause in background; Championship math 66→41 pts (Hamilton won/Antonelli DNF Barcelona)/15 races left; Mercedes 3 battery failures 3 teams 6 weeks/Wolff promises fix before Austria; Austrian GP weekend guide June 26-28 Red Bull Ring
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ## Pipeline Run Log
 

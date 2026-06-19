@@ -2868,3 +2868,48 @@
 - **Key facts:** Austrian GP: June 26-28, Red Bull Ring Spielberg; Red Bull home race; Verstappen multiple past wins at circuit; Mercedes must fix battery failures; Hamilton arrives with momentum; next race after Barcelona; 11 days away
 - **Status:** NEW
 - **Follow-up ideas:** Austrian GP race result
+
+## 2026-06-19
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-19 | T1 | Ferrari ADUO Power Unit Upgrade for Austria — 30HP, Halves Mercedes Gap | X, FB, Article | NEW |
+| 2026-06-19 | T1 | Red Bull Austria Upgrade — Final 6kg Diet, Mekies Honest, Verstappen Future in Balance | X, FB, Article | FOLLOW UP |
+| 2026-06-19 | T2 | Championship Math — 66 to 41 Points, Hamilton's Path Across Triple-Header | X, FB, Article | FOLLOW UP |
+| 2026-06-19 | T2 | Mercedes Battery Crisis — 3 Failures/3 Teams/6 Weeks, Wolff Promises Fix for Austria | X, FB, Article | FOLLOW UP |
+| 2026-06-19 | T2 | Austrian GP Weekend Guide — Dates, TV Times, 5 Key Storylines | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Ferrari ADUO Power Unit Upgrade
+- **Tier:** 1
+- **Category:** Technical / Ferrari
+- **Key facts:** Ferrari first ADUO upgrade debuting at Austrian GP; ~30HP gain; halves gap to Mercedes; targets thermal efficiency/larger batteries; Hamilton + Leclerc both benefit; ADUO rules allow mid-season upgrades; Ferrari cleared under ADUO rules; Hamilton 41 pts behind Antonelli
+- **Status:** NEW
+- **Follow-up ideas:** Austria qualifying/race — does upgrade deliver visible performance?
+
+### STORY 2: Red Bull Austria Upgrade
+- **Tier:** 1
+- **Category:** Technical / Red Bull
+- **Key facts:** RB22 started 12kg overweight; Miami cut to 6kg; Austria targets final 6kg; Mekies: "putting RB22 on a diet"; Mekies honest that upgrade alone won't bring victory contention; Verstappen exit clause August deadline rumored; Verstappen winless 7 races/55 pts/7th in championship; Red Bull Ring is Verstappen home race
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austria race result; Verstappen exit clause status
+
+### STORY 3: Championship Math
+- **Tier:** 2
+- **Category:** Championship / Hamilton
+- **Key facts:** After 7/22 races: Antonelli 156/Hamilton 115/Russell 106/Leclerc 75/Norris 73; gap 66→41 after Barcelona (Hamilton won/Antonelli DNF battery); 15 races left; Hamilton needs avg 2.7 pts/race advantage; triple-header Austria/Britain/Belgium upcoming
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Championship standings after Austrian GP
+
+### STORY 4: Mercedes Battery Crisis
+- **Tier:** 2
+- **Category:** Technical / Mercedes
+- **Key facts:** 3 battery failures: Russell Canada, Norris Monaco, Antonelli Barcelona (from lead 3 laps out); same symptom: car cuts out; Russell Montreal unit on sea freight; Wolff promised fix before Austria; new spec needed not repaired unit; Mercedes constructors 262/Ferrari 190
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austria — does Mercedes battery hold?
+
+### STORY 5: Austrian GP Weekend Guide
+- **Tier:** 2
+- **Category:** Race Preview / Austrian GP
+- **Key facts:** Austrian GP June 26-28 Red Bull Ring Spielberg; Race Sunday June 28 3:00 PM CEST/9:00 AM ET; leg 1 of triple-header (Austria/Britain/Belgium); Ferrari ADUO upgrade debut; Red Bull weight reduction upgrade; Mercedes reliability test
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP practice/qualifying coverage
