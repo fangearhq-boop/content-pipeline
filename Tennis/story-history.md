@@ -494,3 +494,47 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Tier:** 2
 - **Key Facts:** de Minaur def. Diallo; Lehecka def. Majchrzak 7-5, 7-6(4); Nakashima def. Buse 6-2, 6-2; Nakashima QF; Zheng def. Sakkari 4-6, 7-6(1), 6-4; Sources: atptour.com, lta.org.uk, tennisuptodate.com
 - **Follow-Up Opportunities:** Queen's Club QF/SF/Final; Nakashima run; Zheng Nottingham run
+
+---
+
+## 2026-06-19
+
+### Story 1: Fritz vs Shelton Halle QF Rematch
+- **Date:** 2026-06-19
+- **Angle:** NEW STORY — Fritz vs Shelton Halle QF, five days after Stuttgart final (Shelton def. Fritz 6-4, 2-6, 6-4). Shelton's maiden grass title. Halle rematch scheduled June 19. Shelton: 6-match win streak. Fritz: 5-1 on grass. H2H: Fritz won 2023 Indian Wells; Shelton won last 3 (Toronto, Dallas, Stuttgart).
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Stuttgart final June 14: Shelton def. Fritz 6-4, 2-6, 6-4; Shelton 6-match win streak entering Halle QF; Fritz 5-1 on grass 2026; H2H Shelton leads 3-1; Sources: atptour.com, tennisworldusa.org, lastwordonsports.com
+- **Follow-Up Opportunities:** Halle QF result (Shelton/Fritz winner); Halle semifinal/final
+
+### Story 2: Queen's Club QF Day — de Minaur, Paul, Fery, Hijikata
+- **Date:** 2026-06-19
+- **Angle:** FOLLOW-UP — HSBC Championships QF Day. de Minaur (top seed) vs Nakashima; Paul (defending champion) vs Davidovich Fokina (both unbeaten in sets); Fery vs Cerundolo; Hijikata upset Lehecka 4-6, 7-5, 7-6(7). Correction to June 18 pipeline: Paul was NOT upset by van de Zandschulp; Lehecka was actually upset by Hijikata.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** de Minaur vs Nakashima QF; Paul vs Davidovich Fokina QF (both unbeaten in sets); Fery vs Cerundolo QF; Hijikata def. Lehecka 4-6, 7-5, 7-6(7); Sources: lta.org.uk, atptour.com, tenngrand.com, en.wikipedia.org
+- **Follow-Up Opportunities:** Queen's Club SF/F results; de Minaur/Paul run
+
+### Story 3: Berlin WTA 500 QF Day — Sabalenka, Badosa, Pegula
+- **Date:** 2026-06-19
+- **Angle:** FOLLOW-UP — Berlin QF Day: Sabalenka vs Bartunkova; Badosa vs Noskova; Pegula vs Keys. Sabalenka def. Alexandrova 6-4, 6-4 in R16. Bartunkova (wildcard, No. 62) def. Mertens 6-1, 6-4. Berlin final Sunday June 21.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Sabalenka vs Bartunkova QF; Badosa vs Noskova QF; Pegula vs Keys QF; Berlin final Sunday June 21; Sources: wtatennis.com, en.tennistemple.com
+- **Follow-Up Opportunities:** Berlin SF/F results; Sabalenka/Badosa run
+
+### Story 4: Wimbledon 2026 Countdown — Draw in 7 Days, Qualifying Monday
+- **Date:** 2026-06-19
+- **Angle:** FOLLOW-UP — Wimbledon draw June 26 (7 days); qualifying begins Monday June 22 at Roehampton. Sinner (defending) arrives cold (no ATP grass events). Alcaraz withdrawn (wrist). Sabalenka women's No. 1 seed. Williams sisters doubles wildcard. Prize money £64.2M record. Men's final July 12.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Draw June 26 10:00 BST; Championships June 29; Sinner No. 1 seed (no grass warm-ups); Alcaraz out (wrist); Sabalenka women's No. 1; Williams sisters wildcard; £64.2M prize fund; Sources: tennismajors.com, wtatennis.com, lta.org.uk, en.tennistemple.com
+- **Follow-Up Opportunities:** Wimbledon draw reveal June 26; qualifying results
+
+### Story 5: Nottingham WTA — QF Day After Fernandez Upset
+- **Date:** 2026-06-19
+- **Angle:** NEW STORY — Nottingham QF Day. Top seed Fernandez upset by Zeynep Sonmez 6-4, 7-6(1). QFs: Bouzkova vs Maria, Pliskova vs Gibson, Bouzas Maneiro vs Navarro, Li vs Golubic. Final Sunday June 21. WTA 250, $283,347 prize fund.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Fernandez lost to Sonmez 6-4, 7-6(1); Nottingham WTA 250 June 13-21; $283,347 prize; QFs: Bouzkova/Maria, Pliskova/Gibson, Bouzas Maneiro/Navarro, Li/Golubic; Sources: wtatennis.com, tennistonic.com, lta.org.uk
+- **Follow-Up Opportunities:** Nottingham SF/F results

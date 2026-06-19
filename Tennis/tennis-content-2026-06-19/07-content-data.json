@@ -1,0 +1,287 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-19",
+  "compiled_at": "2026-06-19T12:22:24.639648+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Fritz-Shelton rematch",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "Story 2 — Queen's Club QF Day",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "Story 4 — Wimbledon countdown",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 3 — Berlin WTA QF Day",
+      "type": "X + FB"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "Story 5 — Nottingham QF Day",
+      "type": "X + FB"
+    },
+    {
+      "time": "9:00 PM",
+      "description": "Story 1 — Halle QF follow-up",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Shelton vs Fritz Halle QF Rematch — Grass-Season Grudge Match",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Fritz vs Shelton. Halle QF. REMATCH. 🎾\n\nFive days after Stuttgart (Shelton def. Fritz 6-4, 2-6, 6-4), they meet again on grass.\n\nShelton: 6-match win streak. Fritz: 5-1 on grass.\n\nFritz says he'll \"come after me hard.\" #Halle2026 #TerraWortmannOpen [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Halle2026",
+            "#TerraWortmannOpen"
+          ],
+          "char_count": 254
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Halle QF also today: Zverev (No. 1 seed, Roland Garros champion) vs qualifier Collignon.\n\nSinner skipping all grass. Alcaraz out. Every Halle result is a Wimbledon form guide. 🎾 #Halle2026 #Wimbledon2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Halle2026",
+            "#Wimbledon2026"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-shelton-fritz-halle-qf-rematch-five-days-later.html",
+        "headline": "Shelton vs Fritz: Five Days After Stuttgart, the Halle QF Rematch Is Here",
+        "word_count": 692
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Shelton vs Fritz Halle QF Rematch\n\n#### Image 1A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Ben Shelton\"\n- **Text Overlay:** \"REMATCH\" / \"Shelton vs Fritz • Halle QF\" (bold dark overlay, white text, TFR yellow accent)\n- **Composition:** Shelton serve or celebration on grass; aggressive energy that fits the rematch narrative\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 1B — Article Hero\n- **Photo Search Terms:** \"Taylor Fritz\"\n- **Text Overlay:** None (article featured image — WordPress handles)\n- **Composition:** Landscape 1200×630; Fritz grass-court action\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Shelton vs Fritz Halle QF Rematch\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Stuttgart final June 14: Shelton def. Fritz 6-4, 2-6, 6-4 | HIGH | atptour.com, tennismajors.com, tennisnow.com |\n| Stuttgart win was Shelton's first grass title | HIGH | atptour.com, tennisworldusa.org |\n| Stuttgart win was Shelton's 3rd title of 2026 | HIGH | atptour.com |\n| Shelton quote: Fritz will \"come after me hard\" | HIGH | tennisworldusa.org |\n| Shelton entering Halle QF on 6-match win streak | HIGH | multiple ATP sources |\n| Fritz: 5-1 on grass in 2026 entering Halle QF | HIGH | lastwordonsports.com |\n| H2H Fritz won 2023 Indian Wells 4-6, 6-4, 6-3 | HIGH | lastwordonsports.com, tennisnow.com |\n| H2H Shelton won Toronto 6-4, 6-3 | HIGH | lastwordonsports.com |\n| H2H Shelton won Dallas 3-6, 6-3, 7-5 | HIGH | lastwordonsports.com |\n| H2H Shelton won Stuttgart 6-4, 2-6, 6-4 | HIGH | atptour.com |\n| Zverev vs Collignon in Halle QF June 19 | HIGH | tennisuptodate.com, en.tennistemple.com |\n| Collignon is a qualifier who beat Bellucci 4-6, 6-4, 6-3 | HIGH | tennisuptodate.com (June 18 pipeline) |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Queen's Club QF Day — de Minaur, Paul, Fery, Hijikata All Competing",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Queen's Club QF Day. 🎾\n\nde Minaur (No. 1) vs Nakashima\nPaul vs Davidovich Fokina — both unbeaten in sets\nFery vs Cerundolo\n+ Hijikata (who upset Lehecka) still in the draw\n\nPaul is ALIVE as defending champion. #QueensClub2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#QueensClub2026"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-queens-club-qf-day-de-minaur-paul-fery-hijikata.html",
+        "headline": "Queen's Club QF Day: de Minaur, Paul, Fery, and the Hijikata Story All Converge",
+        "word_count": 671
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Queen's Club QF Day\n\n#### Image 2A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Alex de Minaur\"\n- **Text Overlay:** \"QF DAY\" / \"Queen's Club 2026\" (TFR green on dark overlay, white text)\n- **Composition:** de Minaur mid-serve or forehand; Queen's Club grass atmosphere\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 2B — Article Hero\n- **Photo Search Terms:** \"Tommy Paul\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630; Paul at Queen's Club or grass court action\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Queen's Club QF Day\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| de Minaur (top seed) vs Nakashima — QF June 19 | HIGH | lta.org.uk, atptour.com, lastwordonsports.com |\n| Paul vs Davidovich Fokina — QF June 19 | HIGH | tenngrand.com, scotsman.com, lastwordonsports.com |\n| Fery vs Cerundolo — QF June 19 | HIGH | scotsman.com, tenngrand.com |\n| Paul and Davidovich Fokina both unbeaten in sets entering QF | HIGH | tenngrand.com |\n| Hijikata stunned Lehecka (No. 2 seed) 4-6, 7-5, 7-6(7) | HIGH | en.wikipedia.org/2026_Queen%27s_Club |\n| de Minaur def. Shapovalov 6-4, 6-1 in R2 | HIGH | lta.org.uk |\n| de Minaur def. Diallo in R1 | HIGH | atptour.com |\n| This is de Minaur's 3rd QF at Queen's Club | HIGH | lta.org.uk |\n| Nakashima def. Buse 6-2, 6-2 in R2 | HIGH | atptour.com (June 17 pipeline) |\n| Nakashima's 2nd consecutive QF at Queen's Club | HIGH | atptour.com |\n| CORRECTION from June 18: Paul was NOT upset by van de Zandschulp — Paul is alive in QF | HIGH | multiple June 19 sources |\n| Paul vs Davidovich Fokina rematch from 2026 Australian Open | HIGH | tenngrand.com, sportskeeda.com |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Berlin WTA QF Day — Sabalenka, Badosa, Pegula in Action",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Berlin WTA QF Day. 🎾\n\nSabalenka vs Bartunkova (wildcard who beat Mertens)\nBadosa vs Noskova (Badosa is coming off her Gauff upset)\nPegula vs Keys\n\nFinal Sunday — last grass results before the Wimbledon draw. #BerlinOpen #WTATennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BerlinOpen",
+            "#WTATennis"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-berlin-wta-qf-day-sabalenka-badosa-pegula.html",
+        "headline": "Berlin WTA QF Day: Sabalenka, Badosa, and Pegula All Chasing the Final",
+        "word_count": 547
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Berlin WTA QF Day\n\n#### Image 3A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Aryna Sabalenka\"\n- **Text Overlay:** \"BERLIN QF DAY\" / \"Sabalenka • Badosa • Pegula\" (dark overlay, white text)\n- **Composition:** Sabalenka grass-court action; power and dominance energy\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 3B — Article Hero\n- **Photo Search Terms:** \"Paula Badosa\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630; Badosa grass-court\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Berlin WTA QF Day\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Sabalenka vs Bartunkova — Berlin QF June 19 | HIGH | wtatennis.com, en.tennistemple.com |\n| Badosa vs Noskova — Berlin QF June 19 | HIGH | en.tennistemple.com |\n| Pegula vs Keys — Berlin QF June 19 | HIGH | en.tennistemple.com, espn.com |\n| Sabalenka def. Alexandrova 6-4, 6-4 in R16 | HIGH | wtatennis.com, karlobag.eu |\n| Bartunkova def. Mertens 6-1, 6-4 to reach QF | HIGH | wtatennis.com |\n| Bartunkova: world No. 62, wildcard | HIGH | tennisuptodate.com |\n| Badosa def. Gauff 1-6, 6-3, 6-2 (June 18) | HIGH | wtatennis.com, yardbarker.com |\n| Berlin final Sunday June 21 | HIGH | wtatennis.com, tennisuptodate.com |\n| Rybakina (No. 2 seed) listed as eliminated on WTA player list | MEDIUM | wtatennis.com player list |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wimbledon 2026 — Draw in 7 Days, Qualifying Begins Monday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "7 days to the Wimbledon draw. 🎾\n\nSinner (defending): arrives ice-cold — skipping all ATP grass events.\nAlcaraz: out with wrist injury.\nQualifying: Monday June 22 at Roehampton.\n\nToday's action in Halle and Queen's Club is writing the form guide. #Wimbledon2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wimbledon-2026-draw-seven-days-qualifying-monday.html",
+        "headline": "Wimbledon 2026: The Draw Is Seven Days Away and the Field Has Never Been More Open",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wimbledon 2026 Countdown\n\n#### Image 4A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Jannik Sinner\"\n- **Text Overlay:** \"WIMBLEDON 2026\" / \"Draw: June 26 • Starts: June 29\" (classic TFR green/purple, countdown feel)\n- **Composition:** Sinner action shot on grass; countdown urgency with date overlay\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 4B — Article Hero\n- **Photo Search Terms:** \"Aryna Sabalenka Wimbledon\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630; Sabalenka at Wimbledon or on grass\n- **Usage:** Article featured image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wimbledon Countdown\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Wimbledon draw June 26, 10:00 BST | HIGH | en.tennistemple.com, tennismajors.com |\n| Championships begin June 29 | HIGH | multiple sources |\n| Sinner is men's No. 1 seed | HIGH | multiple sources |\n| Alcaraz has withdrawn (wrist injury) | HIGH | multiple sources |\n| Sabalenka is women's No. 1 seed | HIGH | wtatennis.com |\n| Serena and Venus Williams received women's doubles wildcard | HIGH | multiple sources incl. lta.org.uk |\n| Record prize money £64.2M | HIGH | worldinsport.com |\n| Qualifying June 22-25 at Roehampton | HIGH | tennismajors.com, lta.org.uk |\n| Sinner skipping all ATP grass warm-ups (except Hurlingham exhibition) | HIGH | pipeline June 18 + multiple sources |\n| Wimbledon men's final date: July 12 | HIGH | multiple sources |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Nottingham WTA — QF Day After Fernandez Exit",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nottingham WTA QF Day. 🎾\n\nTop seed Fernandez: already out — upset by Sonmez 6-4, 7-6(1).\n\nQFs today: Bouzkova vs Maria, Pliskova vs Gibson, Bouzas Maneiro vs Navarro, Li vs Golubic.\n\nFinal Sunday. #WTATennis #Nottingham2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTATennis",
+            "#Nottingham2026"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-nottingham-wta-qf-day-fernandez-upset-aftermath.html",
+        "headline": "Nottingham WTA QF Day: Fernandez Gone, Four Players Left to Settle It",
+        "word_count": 573
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Nottingham WTA QF Day\n\n#### Image 5A — Social (X/Twitter + Facebook)\n- **Photo Search Terms:** \"Leylah Fernandez\"\n- **Text Overlay:** \"NOTTINGHAM QF\" / \"Top seed Fernandez: Out\" (dark overlay, upset-energy red accent)\n- **Composition:** Fernandez match play or reaction; signals the upset context\n- **Usage:** X Text Post A, Facebook Long-Form\n\n#### Image 5B — Article Hero\n- **Photo Search Terms:** \"Karolina Pliskova\"\n- **Text Overlay:** None\n- **Composition:** Landscape 1200×630; grass-court action\n- **Usage:** Article featured image"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Nottingham WTA\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Fernandez (top seed) upset by Zeynep Sonmez 6-4, 7-6(1) | HIGH | wtatennis.com |\n| Nottingham runs June 13-21 | HIGH | wtafiles.wtatennis.com |\n| Prize money $283,347 | HIGH | wtafiles.wtatennis.com |\n| June 19 QFs: Bouzkova vs Maria, Pliskova vs Gibson, Bouzas Maneiro vs Navarro, Li vs Golubic | HIGH | tennistonic.com |\n| Zheng def. Sakkari 4-6, 7-6(1), 6-4 in R1 | HIGH | tennistonic.com |\n| Final Sunday June 21 | HIGH | wtafiles.wtatennis.com |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
