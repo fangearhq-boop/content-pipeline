@@ -1242,3 +1242,48 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Scheffler born June 21, 1996 → turns 30 on June 21, 2026 = US Open final round = Father's Day; Grand Slam members (modern era): Sarazen/Hogan/Player/Nicklaus/Woods/McIlroy; Scheffler would be 7th; +550 odds at Shinnecock
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Scheffler wins US Open (Grand Slam complete); or falls short (what happened)
+
+## 2026-06-19
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-19 | T1 | US Open Round 2 Underway — Clark Leads by 4 at Shinnecock, Scheffler and McIlroy Chasing | X, FB, Article | FOLLOW UP |
+| 2026-06-19 | T1 | Scheffler Grand Slam Chase — Eight Back, But Birthday + Father's Day Final Round Still Alive | X, FB, Article | FOLLOW UP |
+| 2026-06-19 | T2 | LIV Golf New Board — Gene Davis Chair, Ducera Partners Fundraising, Post-Saudi Era Begins | X, FB, Article | FOLLOW UP |
+| 2026-06-19 | T2 | McIlroy T-9 at US Open — 5 Back, 2011 Champion Seeking 2nd Major of 2026 | X, FB, Article | FOLLOW UP |
+| 2026-06-19 | T2 | Meijer LPGA Classic Round 2 — Yan Liu Led Day 1 at -6, Round 2 Underway at Blythefield | X, FB, Article | FOLLOW UP |
+
+### STORY 1: US Open Round 2 — Clark Leads
+- **Tier:** 1
+- **Category:** US Open / Major Championship
+- **Key facts:** Clark -6 through 16 holes R1 (suspended darkness Thursday); 4-shot lead; largest US Open R1 lead since 1933 (Tony Armour 5-shot); Clark finishes 2 holes Friday morning then R2; T-2 group at -2 (Stevens/Cowan(a)/McGreevy/Fitzpatrick/Johnson/Woodland); Scheffler +2 (72) 8 back; McIlroy -1 T-9 5 back
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2 leaderboard; Clark hold or fade; Scheffler weekend charge
+
+### STORY 2: Scheffler Grand Slam Chase
+- **Tier:** 1
+- **Category:** US Open / Grand Slam
+- **Key facts:** Scheffler +2 (72) 8 back from Clark; 4 birdies/4 bogeys/1 double; career Grand Slam bid (has Masters x2/PGA/The Open); final round June 21 = 30th birthday AND Father's Day; would be 7th Grand Slam winner ever
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2 Scheffler score; weekend position
+
+### STORY 3: LIV Golf New Board
+- **Tier:** 2
+- **Category:** LIV Golf / Industry
+- **Key facts:** New board: Gene Davis (chair, Pirinate) + Jon Zinman (JZ Advisors); Ducera Partners fundraising $250-350M; PIF ends funding after 2026; PIF funds 2026 remainder; Louisiana postponed ("summer heat/crowded calendar"); O'Neil 5 formal meetings/18 planned; $5B+ total PIF investment/$500-600M annual losses
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** New investor announced; 2027 schedule status
+
+### STORY 4: McIlroy US Open
+- **Tier:** 2
+- **Category:** US Open / McIlroy
+- **Key facts:** McIlroy -1 T-9 after R1; 5 back from Clark; won 2011 US Open at Congressional 16-under/record 268; won 2026 Masters; seeking back-to-back majors in 2026
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** McIlroy R2 score; weekend position
+
+### STORY 5: Meijer LPGA Classic
+- **Tier:** 2
+- **Category:** LPGA / Meijer Classic
+- **Key facts:** Yan Liu shot 6-under 66 to lead Round 1; Blythefield CC Belmont Michigan; cold/chilly conditions Day 1; jam-packed leaderboard; $3M purse; Father's Day June 21 free admission for dads; KPMG Women's PGA June 25-28 Hazeltine follows
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2 leaderboard; Liu hold or fall

@@ -1,8 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-18
+- **Date**: 2026-06-19
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-06-19
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters (1 fixed from 291 to 248)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-06-19.xlsx (6 posts) + gfr-postplanner-tobi-2026-06-19.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-19/review-dashboard.html (21 items)
+- **Notes:** US Open R2 underway — Clark -6 leads by 4 (largest US Open R1 lead since 1933)/Scheffler +2 8 back (Grand Slam bid alive/birthday+Father's Day June 21 final round)/McIlroy -1 T-9 5 back; Scheffler Grand Slam story; LIV Golf new board Gene Davis/Ducera Partners fundraising $250-350M/Louisiana postponed; McIlroy 2011 champ seeking 2nd 2026 major; Meijer LPGA R2 Yan Liu -6 leader Day 1
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ## Pipeline Run Log
 
