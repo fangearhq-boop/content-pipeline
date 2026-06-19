@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 19, 2026
+
+### Story 1: Isa Torres Commits to Texas — 'I'm Coming Home'
+- **Date:** 2026-06-19
+- **Tier:** 1
+- **Classification:** BREAKING (Torres Instagram post confirms Texas commitment; "I'm coming home")
+- **Angle:** D1 Softball Player of the Year Isa Torres (.530 BA / .978 SLG / .591 OBP / 78 runs / NCAA record 16 consecutive hits) commits to two-time defending champion Texas. Georgetown, TX native returning home. Joins Swan (ASU catcher) and Lincoln (Texas Tech pitcher) in Mike White's portal class. ACC Player of the Year, Defensive POY, First-Team All-American.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Torres debut in burnt orange / fall practice reports
+  - Texas vs. Texas Tech 2027 rivalry preview
+
+### Story 2: Beachum Watch — Day 12, Visited Florida, Three Days Left
+- **Date:** 2026-06-19
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 18 — Day 11 uncommitted)
+- **Angle:** Jaysoni Beachum (.417 BA / 16 HR / 66 RBI / .549 OBP / career 37 HR / 180 RBI / 202 H) now Day 12 uncommitted. Has visited Florida Gators — FSU's in-state rival. A Tallahassee native potentially crossing enemy lines. Portal closes June 22. Three days remain. Softball America No. 1.
+- **Content Produced:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment announcement (imminent — June 22 deadline)
+  - Impact analysis at destination program
+
+### Story 3: Texas Portal Class Complete — Torres, Swan and Lincoln
+- **Date:** 2026-06-19
+- **Tier:** 1
+- **Classification:** NEW STORY (analysis now Torres confirms, completing the class)
+- **Angle:** With Torres committed, Texas's class is set: Torres (D1 POY, .530 BA), Swan (ASU catcher), Lincoln (Texas Tech pitcher). Two-time defending champions loaded the roster. Player-by-player breakdown. What 2027 Texas looks like on paper.
+- **Content Produced:** Article (article-03), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Texas vs. Texas Tech title implications
+  - Mike White Manager of the Year candidacy
+  - 2027 preseason rankings when released
+
+### Story 4: Portal Final Push — Yarnell to Arkansas, Three Days Remain
+- **Date:** 2026-06-19
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** UCF utility player Kendall Yarnell (.344 BA / 15 HR / 46 RBI as sophomore) commits to Arkansas. Secondary market active as window nears close. Texas Tech losing star infielder to portal. Mountain West/Pac-12 programs filling depth. Final 72-hour wave.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Final rash of portal commits before June 22 close
+  - Arkansas roster assessment with Yarnell + Wetteland
+
+### Story 5: Portal Tracker — Day 12 of 15, Three Days to Close
+- **Date:** 2026-06-19
+- **Tier:** 3
+- **Classification:** FOLLOW UP (ongoing tracker)
+- **Angle:** Day 12 of 15. Three days to June 22 close. Committed: Torres (TX), Swan (TX), Lincoln (TX), Altmeyer (TX), Polar (TTU), Heavener (TTU), Pickering (TTU), Hartley (OSU), Wetteland (Ark), Yarnell (Ark), Azua (A&M), Plumlee (Ala), Shelton (Tenn). Still out: Beachum (No. 1).
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment (imminent)
+  - Final portal recap after June 22 close
+
+---
+
 ## June 18, 2026
 
 ### Story 1: Kasidi Pickering Signs with Texas Tech — Three All-Americans Complete Historic Class
