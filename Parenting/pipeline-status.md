@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 19, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | 6th Annual Southern Colorado Juneteenth Festival (June 20-21, Norris-Penrose Indoor Event Center, FREE all ages, Sat 8 AM-8 PM / Sun 10 AM-8 PM, live entertainment/car show/fashion show/health fair/food vendors; first year at indoor venue; scjuneteenthfestival.com); GOPO Toys Pull String Teething Toy recall (70,410 units, Amazon Aug 2023-Mar 2026, $11-15, strings reach back of infant's throat causing choking/respiratory distress, 3 confirmed incidents, destroy: cut strings + "DESTROYED" + photo to recalls@gopotoys.com, batch numbers 250905/250530/250120/240315/231005/230610; cpsc.gov); 104th Pikes Peak International Hill Climb Father's Day family guide (June 21, 7:30 AM green flag, 2:30 AM gates, 12.42 miles 156 turns, kids under 10 free, ages 10+ need ticket online only ppihc.org, tickets not sold race day, father-son duo Dan + Trevor Aweida); CooCooBaby Baby Lounger recall (2,355 units, "Classic" and "Deluxe" models, Amazon + CooCooBaby website, Dec 2024-Mar 2026, $35-70, sides too short + pad too thick suffocation risk + enclosed foot opening entrapment, stop use + full refund; cpsc.gov); D11 labor dispute 300-day milestone (master agreement ended late 2024 — in place since 1968; Oct 2025 one-day strike; May 2026 picket at 300-day mark; CSEA says no collective bargaining; district says $100M+ compensation since 2022; new school year August 2026; d11.org) |
+| Story History Check | COMPLETE | 3 NEW STORIES (GOPO recall, CooCooBaby recall, D11 300-day milestone) + 2 FOLLOW-UPS (Juneteenth Festival — "this weekend" angle, first covered June 15; PPIHC — day-before family guide, first covered June 15 + June 17) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for S1; 1 each for S2-S5); all under 280 chars; 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 10 images; all not_started; photo_source: gemini; Gemini mode: base_only |
+| Articles | COMPLETE | 5 articles (500-1000 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py — 86 claims, all 5 stories present; image not_started warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images; 21 dashboard items; posting window warnings cosmetic |
+| Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-19.xlsx (6 posts: 6 X, 13:04–20:29 MT) + TOBI cosp-postplanner-tobi-2026-06-19.xlsx (6 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-19)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total posts (PostPlanner xlsx: 6 X posts)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-19.xlsx (6 posts), cosp-postplanner-tobi-2026-06-19.xlsx (6 TOBI posts)
+- **Coverage:** 6th Annual Southern Colorado Juneteenth Festival (June 20-21 Norris-Penrose Indoor Event Center 1045 Lower Gold Camp Rd; FREE all ages; Sat 8 AM-8 PM / Sun 10 AM-8 PM; live entertainment/headliners/step show/car show/fashion show/health fair/food vendors; first year indoors; scjuneteenthfestival.com); GOPO Toys Pull String Teething Toy recall (70,410 units; Amazon only Aug 2023-Mar 2026 $11-15; strings reach back of infant's throat; 3 confirmed choking/respiratory incidents; destroy: cut 6 strings + "DESTROYED" in marker + photo to recalls@gopotoys.com for refund; batch numbers 250905/250530/250120/240315/231005/230610; cpsc.gov; 1-800-638-2772); 104th Pikes Peak International Hill Climb Father's Day guide (June 21; 7:30 AM green flag; 2:30 AM gates open; 12.42 miles 156 turns; kids under 10 FREE; ages 10+ need ticket — NOT sold race day or in-person, ppihc.org online only; father-son duo Dan + Trevor Aweida; second-oldest motorsports race in America); CooCooBaby Baby Lounger recall (2,355 units "Classic" and "Deluxe"; Amazon + CooCooBaby website Dec 2024-Mar 2026 $35-70; sides too short + pad too thick suffocation risk + enclosed foot opening entrapment; violates mandatory infant sleep product standard; stop use + full refund; cpsc.gov; 1-800-638-2772); D11 labor dispute 300-day milestone (master agreement ended late 2024 — in place since 1968; Oct 2025 one-day strike; May 2026 picket at 300-day milestone; CSEA: district refuses collective bargaining; district: $100M+ compensation since 2022; new school year August 2026; d11.org + krdo.com + koaa.com)
+- **Notes:**
+  - verify-facts.py: 1 run — passed; 86 claims; image not_started warnings cosmetic (expected for gemini source)
+  - compile: 5 stories, 6 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 21 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (6 posts: 6 X) and TOBI (6 TOBI posts) generated successfully
+  - WordPress: host not in allowlist error; same environment restriction as all prior runs
+  - Dashboard push: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (alternating from June 18)
+  - Pipeline ran as Niche 2 in sequence after Tennis (Niche 1 completed June 19)
+
+---
+
 ## Latest Run: June 18, 2026
 
 | Step | Status | Notes |

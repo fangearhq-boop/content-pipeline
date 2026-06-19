@@ -1,0 +1,301 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-19",
+  "compiled_at": "2026-06-19T12:34:23.847756+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "Story 1 — Juneteenth Festival this weekend",
+      "type": "X + FB"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "Story 2 — GOPO teething toy recall",
+      "type": "X + FB"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Story 3 — PPIHC Father's Day",
+      "type": "X + FB"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "Story 4 — CooCooBaby recall",
+      "type": "X + FB"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Story 5 — D11 labor dispute",
+      "type": "X + FB"
+    },
+    {
+      "time": "8:00 PM",
+      "description": "Story 1 — Juneteenth reminder",
+      "type": "X"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "6th Annual Southern Colorado Juneteenth Festival — This Weekend at Norris-Penrose",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Free this weekend in COS: 6th Annual Southern Colorado Juneteenth Festival, June 20-21 at Norris-Penrose Event Center. Live music, food, fashion show, car show, health fair. All ages welcome. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Reminder: Juneteenth Festival is FREE this weekend in Colorado Springs — Norris-Penrose, June 20-21. Rain or shine (it's indoors). All ages. Saturday 8 AM-8 PM, Sunday 10 AM-8 PM. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 245
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-southern-colorado-juneteenth-festival-this-weekend-norris-penrose.html",
+        "headline": "Free This Weekend: 6th Annual Southern Colorado Juneteenth Festival at Norris-Penrose",
+        "word_count": 456
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Juneteenth Festival This Weekend\n\n#### Image 1A — Social (X/Twitter)\n- **Prompt:** Warm, joyful community celebration scene. Diverse families with children enjoying an indoor festival — colorful vendor tents, balloons, people smiling and dancing. Bright, vibrant color palette: deep red, black, green (Juneteenth colors) with warm golden lighting. Community gathering energy. Clean open space in bottom third for text overlay. Art style: vibrant, digital illustration. No text, no watermarks.\n- **Dimensions:** 1200x675\n\n#### Image 1B — Facebook/Article Hero\n- **Prompt:** A festive, welcoming community event scene. Wide shot of a joyful indoor family gathering. Colorful stage lights, crowd of diverse families and children in the foreground, soft bokeh background. Warm golden and jewel-toned color palette. Celebratory but calm and inclusive mood. Clean space in bottom third for Canva text overlay. Photorealistic style. No text, no logos.\n- **Dimensions:** 1200x630\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Southern Colorado Juneteenth Festival\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| 6th Annual Southern Colorado Juneteenth Festival | HIGH | onebodyent.org, scjuneteenthfestival.com |\n| Dates: June 20-21, 2026 | HIGH | fox21news.com, kktv.com, visitcos.com |\n| Venue: Norris-Penrose Indoor Event Center, 1045 Lower Gold Camp Rd, Colorado Springs CO 80905 | HIGH | norrispenrose.com, onebodyent.org |\n| Free admission, all ages | HIGH | fox21news.com, kktv.com, juneteenthevents.us |\n| Saturday hours: 8 AM-8 PM | HIGH | koaa.com |\n| Sunday hours: 10 AM-8 PM | HIGH | koaa.com |\n| New venue this year (moved from outdoor to Norris-Penrose) | HIGH | fox21news.com, kktv.com |\n| Features: live entertainment, national headliners, step show, car show, fashion show, health fair, food, games | HIGH | onebodyent.org, fox21news.com |\n| Ample parking, public transit accessible | HIGH | fox21news.com |\n| Indoor — event continues regardless of weather | HIGH | fox21news.com |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "RECALL — GOPO Toys Pull String Teething Toy (70,410 Units)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "RECALL: GOPO Toys Pull String Teethers (70,410 units) — choking hazard. 3 incidents reported of strings reaching infants' throats. Sold Amazon 2023-2026. Stop use immediately. cpsc.gov #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-gopo-toys-pull-string-teething-toy-recall-choking-hazard.html",
+        "headline": "CPSC Recall: GOPO Toys Pull String Teething Toys — 70,410 Units, Choking Hazard",
+        "word_count": 451
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "GOPO Toys Recall\n\n#### Image 2A — Social (X/Twitter)\n- **Prompt:** Warning/safety illustration: a close-up of a soft silicone baby teething toy with colorful tentacle-like pull strings, placed on a neutral cream background. Slightly dramatic lighting to convey concern. Muted background, the toy centered prominently. Clean bottom third for \"RECALL\" alert text overlay. No faces, no brand logos. Digital flat art style. Serious but clear visual tone.\n- **Dimensions:** 1200x675\n\n#### Image 2B — Facebook/Article Hero\n- **Prompt:** Safety alert imagery: a collection of colorful silicone teething toys on a clean white surface, soft shadow, top-down perspective. Muted tones with a red accent element (like a subtle red circle or warning shape) to signal danger/recall. Clean open space on the right side and bottom for text overlay. Modern, clean product-safety photography style. No text, no brand markings.\n- **Dimensions:** 1200x630\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "GOPO Toys Pull String Teething Toy Recall\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Product name: GOPO TOYS Pull String Teething Toys | HIGH | cpsc.gov |\n| 70,410 units recalled | HIGH | cpsc.gov, dailyvoice.com |\n| Sold on Amazon Aug 2023-Mar 2026, $11-15 | HIGH | cpsc.gov |\n| Hazard: strings reach back of child's throat — choking/respiratory distress | HIGH | cpsc.gov |\n| 3 confirmed incidents of strings reaching throat | HIGH | cpsc.gov |\n| Violates mandatory standard for toys | HIGH | cpsc.gov |\n| Batch numbers: 250905, 250530, 250120, 240315, 231005, 230610 (back of packaging) | HIGH | cpsc.gov |\n| Action: destroy toy, cut strings, write DESTROYED, photo to recalls@gopotoys.com | HIGH | cpsc.gov |\n| CPSC hotline: 1-800-638-2772 | HIGH | cpsc.gov |\n| Product appearance: off-white disc, grey ball, 6 multi-colored silicone tentacle pull strings | HIGH | cpsc.gov |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "104th Pikes Peak International Hill Climb — Father's Day, Sunday June 21",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "This Sunday: 104th Pikes Peak Hill Climb — Father's Day on the mountain. Green flag 7:30 AM. Kids under 10 free. Buy tickets online at ppihc.org — not sold on race day. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-pikes-peak-hill-climb-fathers-day-june-21-family-guide.html",
+        "headline": "104th Pikes Peak International Hill Climb: Your Father's Day Family Guide for June 21",
+        "word_count": 610
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PPIHC Father's Day\n\n#### Image 3A — Social (X/Twitter)\n- **Prompt:** Action scene of a race car speeding up a dramatic mountain road. Rocky mountain landscape, blue Colorado sky, green alpine scenery. Motion blur on the car to convey speed. Warm golden morning light. Cinematic, exciting energy. Clean horizontal space in bottom third for text overlay. No faces, no license plates. Digital illustration style.\n- **Dimensions:** 1200x675\n\n#### Image 3B — Facebook/Article Hero\n- **Prompt:** Wide-angle view from a mountain road spectator vantage point: Pikes Peak summit in the background with a race car visible in the middle distance. Colorado mountains, blue sky, a crowd of spectators to one side. Morning light, golden and crisp. Awe-inspiring but accessible family atmosphere. Clean bottom third for text. Photorealistic digital art. No text, no identifiable logos.\n- **Dimensions:** 1200x630\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "104th Pikes Peak International Hill Climb\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| 104th Running, Broadmoor PPIHC presented by Gran Turismo | HIGH | ppihc.org |\n| Race Day: Sunday June 21, 2026 | HIGH | ppihc.org, visitcos.com |\n| Father's Day (June 21) | HIGH | krdo.com |\n| Green flag: 7:30 AM | HIGH | ppihc.org |\n| Gates open: 2:30 AM | HIGH | ppihc.org |\n| 12.42-mile course, 156 turns | HIGH | pikes-peak.com |\n| Kids under age 10: no ticket required | HIGH | ppihc.org |\n| Ages 10+: ticket required | HIGH | ppihc.org |\n| Tickets NOT sold on Race Day or in-person | HIGH | ppihc.org, humanitix.com |\n| Must purchase tickets at ppihc.org or Humanitix | HIGH | ppihc.org |\n| Second-oldest motorsports race in America | HIGH | pikes-peak.com |\n| Father-son duo Dan and Trevor Aweida competing | HIGH | krdo.com |\n| Tickets expected to sell out | MEDIUM | ppihc.org |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "RECALL — CooCooBaby Baby Loungers (2,355 Units)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "RECALL: CooCooBaby Baby Loungers (2,355 units) — suffocation and fall risk for infants. Sold Amazon Dec 2024-Mar 2026. Stop use now, contact brand for full refund. cpsc.gov #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-coocoobaby-baby-lounger-recall-suffocation-fall-hazard.html",
+        "headline": "CPSC Recall: CooCooBaby Baby Loungers — Stop Use, Suffocation and Fall Hazard",
+        "word_count": 507
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "CooCooBaby Recall\n\n#### Image 4A — Social (X/Twitter)\n- **Prompt:** Safety recall illustration: a soft fabric baby lounger/sleeping pad on a neutral beige floor. Minimal setting, gentle lighting that highlights the product clearly. Subtle visual cue of concern — slightly desaturated tones. Clean bottom third for RECALL overlay text. Flat, clean product illustration style. No infant/baby depicted. No brand markings.\n- **Dimensions:** 1200x675\n\n#### Image 4B — Facebook/Article Hero\n- **Prompt:** Baby sleep safety theme: an empty infant sleeping product (padded lounger/nest) on a soft light-colored surface. Neutral whites and soft grays. Clean, minimal, slightly clinical to convey safety concern. A single soft red element in corner for alert signal. Generous open space on right side for Canva text. Modern product safety photography aesthetic. No baby depicted, no brand logos.\n- **Dimensions:** 1200x630\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CooCooBaby Baby Lounger Recall\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Product: CooCooBaby \"Classic\" and \"Deluxe\" Baby Loungers | HIGH | cpsc.gov |\n| 2,355 units recalled | HIGH | cpsc.gov, kiro7.com |\n| Sold Amazon and CooCooBaby website, Dec 2024-Mar 2026, $35-70 | HIGH | cpsc.gov |\n| Hazard: suffocation (side height too short, pad too thick) and fall (foot opening, no stand) | HIGH | cpsc.gov |\n| Violates mandatory standard for infant sleep products | HIGH | cpsc.gov |\n| Recall announced June 18, 2026 | HIGH | cpsc.gov |\n| Action: stop use immediately, contact CooCooBaby for full refund | HIGH | cpsc.gov |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "D11 Labor Dispute — 300+ Days Without a Master Agreement",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D11 families: It's been 300+ days since Colorado Springs District 11 ended its master agreement with the teachers union. Educators and parents picketed in May. d11.org for updates. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-d11-colorado-springs-labor-dispute-300-days-what-families-should-know.html",
+        "headline": "D11's Teacher Contract Dispute: 300+ Days In, What Colorado Springs Families Need to Know",
+        "word_count": 542
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D11 Labor Dispute\n\n#### Image 5A — Social (X/Twitter)\n- **Prompt:** A school building exterior on a bright summer morning — brick facade, green lawn, empty flagpole. Slightly muted tones to convey seriousness. Clean, simple, Colorado small-city school architecture feel. Blue sky above. Clean bottom third for text overlay. Digital photography style. No people, no identifiable school name or signage.\n- **Dimensions:** 1200x675\n\n#### Image 5B — Facebook/Article Hero\n- **Prompt:** Wide establishing shot of a Colorado Springs neighborhood school exterior. Morning light, green grass, suburban Colorado landscape in background. Neutral, informational visual tone — neither alarmist nor celebratory. Clear open space at bottom for text. Realistic digital illustration. No text on building, no faces visible.\n- **Dimensions:** 1200x630"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "D11 Labor Dispute\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| D11 ended master agreement with CSEA (Colorado Springs Education Association) | HIGH | krdo.com, koaa.com |\n| Master agreement had been in place since 1968 | HIGH | koaa.com |\n| 300+ days since master contract was severed (as of May 2026) | HIGH | krdo.com |\n| Educators and parents picketed D11 Board of Education meeting, May 2026 | HIGH | krdo.com |\n| Union says district refuses to engage in collective bargaining | HIGH | krdo.com |\n| District says: $100M+ in new compensation since 2022, double-digit pay increases | HIGH | krdo.com |\n| D11 serves approximately 23,000 students | MEDIUM | Wikipedia/general knowledge; verify at d11.org |\n| Strike occurred October 2025 | HIGH | coloradoea.org |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

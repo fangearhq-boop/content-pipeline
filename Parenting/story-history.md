@@ -2,6 +2,50 @@
 
 ---
 
+## June 19, 2026
+
+### Story 1: 6th Annual Southern Colorado Juneteenth Festival — This Weekend at Norris-Penrose
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (Juneteenth Festival first covered June 15 from "plan ahead" angle; today's angle is "this weekend" immediacy + new detail that it moved indoors to Norris-Penrose, first time at this venue)
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 6th Annual Southern Colorado Juneteenth Festival; June 20-21, 2026; Norris-Penrose Indoor Event Center, 1045 Lower Gold Camp Rd, Colorado Springs, CO 80905; Saturday 8 AM-8 PM / Sunday 10 AM-8 PM; FREE all ages; features: live entertainment, national artist headliners, local step show talent, car show, fashion show, health fair, food vendors, games; new indoor venue for weather reliability + more capacity; Sources: visitcos.com, fox21news.com, kktv.com, scjuneteenthfestival.com
+- **Follow-Up Opportunities:** Recap post June 22
+
+### Story 2: RECALL — GOPO Toys Pull String Teething Toy (70,410 Units, Choking Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of 70,410 GOPO Toys Pull String Teething Toys. Off-white disc with grey ball and six multi-colored silicone tentacle pull strings. Strings reach back of infant's throat causing choking/respiratory distress. 3 confirmed incidents. Destroy: cut all strings, write "DESTROYED" on body, photo to recalls@gopotoys.com for refund. Sold Amazon Aug 2023–Mar 2026, $11-15. 6 recalled batch numbers on back of packaging.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC recall; 70,410 units; GOPO TOYS Pull String Teething Toy; Amazon.com only Aug 2023–Mar 2026; $11-15; hazard: strings reach back of infant's throat; 3 confirmed incidents; batch numbers: 250905, 250530, 250120, 240315, 231005, 230610; required destruction: cut strings + "DESTROYED" marker + photo to recalls@gopotoys.com; CPSC hotline: 1-800-638-2772; Sources: cpsc.gov, dailyvoice.com, foxbusiness.com, consumerreports.org
+- **Follow-Up Opportunities:** None — recall will age out naturally
+
+### Story 3: 104th Pikes Peak International Hill Climb — Father's Day Family Guide (June 21)
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (PPIHC covered June 17 as last-call tickets + June 15 Fan Fest preview; today's angle is day-before Father's Day family guide with logistics, what makes it special, and warning about 2:30 AM gate time)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** 104th Running of The Broadmoor Pikes Peak International Hill Climb, presented by Gran Turismo; Race Day Sunday June 21 (Father's Day); green flag 7:30 AM; gates open 2:30 AM; 12.42 miles, 156 turns; kids under 10 FREE; ages 10+ need ticket (NOT sold race day or in-person — ppihc.org online only); father-son duo Dan and Trevor Aweida competing; second-oldest motorsports race in America; Sources: ppihc.org, visitcos.com, krdo.com
+- **Follow-Up Opportunities:** Race recap June 22
+
+### Story 4: RECALL — CooCooBaby Baby Loungers (2,355 Units, Suffocation and Fall Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall June 18, 2026 of CooCooBaby "Classic" and "Deluxe" Baby Loungers. Foam sleeping pad with padded bumpers and cloth cover. Three violations of mandatory infant sleep product standard: sides too short, pad too thick (suffocation), enclosed foot opening (entrapment/fall). Stop use immediately; full refund from CooCooBaby.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** CPSC recall announced June 18, 2026; ~2,355 units; CooCooBaby "Classic" and "Deluxe" models; Amazon.com and CooCooBaby website; Dec 2024–Mar 2026; $35-70; hazard: sides too short, pad exceeds max thickness (suffocation), enclosed foot opening (entrapment/fall), no stand; stop use immediately; contact CooCooBaby for full refund; cpsc.gov; CPSC hotline: 1-800-638-2772; Sources: cpsc.gov, kiro7.com, wftv.com, actionnewsjax.com
+- **Follow-Up Opportunities:** None — recall will age out naturally
+
+### Story 5: D11 Labor Dispute — 300+ Days Without a Master Agreement
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY (distinct from June 7 D11 coverage which focused on Dec 2024 vote and Oct 2025 strike context; today's angle is the May 2026 300-day milestone picket and what it means for fall 2026 school planning)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** D11 Board of Education voted in late 2024 not to renew master agreement with CSEA (agreement in place since 1968); October 2025 one-day strike; May 2026 picket at 300-day milestone; CSEA says district refuses to engage in collective bargaining; district says $100M+ in new compensation since 2022; D11 serves tens of thousands of students west-side/northeast/downtown COS; new school year late August 2026; d11.org for updates; Sources: krdo.com, koaa.com, coloradoea.org
+- **Follow-Up Opportunities:** Update if resolution announced before August; back-to-school enrollment guide (mention D11 labor context)
+
+---
+
 ## June 18, 2026
 
 ### Story 1: AAP vs. CDC Vaccine Schedules 2026 — What COS Families Need to Know
