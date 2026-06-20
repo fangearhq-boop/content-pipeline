@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 20, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | SHEIN Michley children's pajamas recall (burn hazard; violates mandatory flammability standard; sizes 80–130; 4 designs; SHEIN.com May–Dec 2025; ~$25; cut in half + photo to uscsteam@shein.com for full refund; cpsc.gov; 1-800-638-2772); BABESIDE Doll and Stroller recall (~2,200 units; choking hazard; small parts ban violation; pacifier + bear eyes; under-3s; Amazon/HYBDOLLS; cut bear in half + "X" on pacifier + photo to support@babeside.com for free replacement; cpsc.gov); COS 4th of July 2026 guide (America's 250th Semiquincentennial; July 4 Saturday; Ford Amphitheater ticketed symphony gates 5:30 PM/show 6:30 PM/fireworks 9 PM; Rock Ledge Ranch $7–13 free under 3 10 AM–4 PM; Banning Lewis Ranch free 2 bands 30 food trucks; Palmer Lake free fireworks 9:15 PM; Cripple Creek parade 11 AM); Bear Creek Pollinator Celebration June 26 ($5/person; bug sweeps; native pollinator education; Bear Creek Regional Park west COS); D20 June 30 deadline (bus registration via Infinite Campus; address must be correct; bus assignments August 1; summer school credit recovery + enrichment; asd20.org) |
+| Story History Check | COMPLETE | 3 NEW STORIES (SHEIN recall, BABESIDE recall, COS 4th of July guide) + 2 FOLLOW-UPS (Bear Creek Pollinator — first covered June 18; D20 deadlines — first covered June 5, June 17, now 10-day urgent reminder) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for S1/S2/S3; 1 each for S4/S5); all under 280 chars; 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py — 78 claims, 187 HIGH, 27 MEDIUM, 96 LOW; all 5 stories present; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-20.xlsx (8 posts: 8 X, 13:04–20:53 MT) + TOBI cosp-postplanner-tobi-2026-06-20.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-20)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total posts (PostPlanner xlsx: 8 X posts)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-20.xlsx (8 posts), cosp-postplanner-tobi-2026-06-20.xlsx (8 TOBI posts)
+- **Coverage:** SHEIN Michley children's pajamas recall (one-piece sleepwear; burn hazard; violates mandatory flammability standard; sizes 80–130; 4 designs: green dinosaur/pink bunny/yellow giraffe/purple rabbit; SHEIN.com May–Dec 2025 ~$25; stop use; cut in half; photo to uscsteam@shein.com for full refund; cpsc.gov; 1-800-638-2772); BABESIDE Doll and Stroller recall (~2,200 units; choking hazard; small parts ban violation; pacifier + detachable bear eyes; under-3s; Amazon by HYBDOLLS; stop use; cut bear in half; "X" on pacifier in marker; photo to support@babeside.com for free replacement accessories; cpsc.gov; 1-800-638-2772); COS 4th of July 2026 family guide (America's 250th birthday / Semiquincentennial; Saturday July 4, 14 days away; Ford Amphitheater Star-Spangled Symphony tickets/CS Philharmonic/gates 5:30 PM/show 6:30 PM/fireworks 9 PM/95 Spectrum Loop; Rock Ledge Ranch $7–13/free under 3/10 AM–4 PM/1401 Recreation Way/carnival games/pie-eating/historical interpreters; Banning Lewis Ranch free/2 live bands/~30 food trucks/fireworks at dusk; Palmer Lake free/4–10 PM/fireworks 9:15 PM; Cripple Creek parade 11 AM+fireworks); Bear Creek Nature Center Pollinator Celebration June 26 (6 days away; $5/person; bug sweeps; native pollinator education; hands-on learning; Bear Creek Regional Park west COS; visitcos.com + elpasoco.com); D20 June 30 deadline — 10 days (bus registration Infinite Campus — address must be correct or wrong assignment; bus assignments release August 1; summer school credit recovery + enrichment also June 30; asd20.org)
+- **Notes:**
+  - verify-facts.py: passed; 78 claims; 187 HIGH, 27 MEDIUM, 96 LOW; image manifest warnings cosmetic (expected for gemini source — same as all prior runs)
+  - compile: 5 stories, 8 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts: 8 X) and TOBI (8 TOBI posts) generated successfully; 13:04–20:53 MT
+  - WordPress: host not in allowlist error; same environment restriction as all prior runs
+  - Dashboard push: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from June 19's Jamie Rivera [S1, S3, S5])
+  - Pipeline ran as Niche 2 in sequence after Tennis (Niche 1 completed June 20)
+
+---
+
 ## Latest Run: June 19, 2026
 
 | Step | Status | Notes |

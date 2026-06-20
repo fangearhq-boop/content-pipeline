@@ -1,0 +1,281 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-20",
+  "compiled_at": "2026-06-20T12:34:17.884719+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "SHEIN Recalls Michley Children's Pajamas — Burn Hazard, Flammability Violation",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RECALL: SHEIN Michley children's pajamas — burn hazard. Flammability standard violation. ⚠️\n\nSizes 80–130. Sold SHEIN.com May–Dec 2025, ~$25. Stop use immediately. cpsc.gov #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 1-2",
+          "text": "SHEIN Michley pajamas recall — action steps for families:\n\nStop use. Cut pajamas in half. Send photo to uscsteam@shein.com for a full refund. Sizes 80–130, sold SHEIN.com May–Dec 2025. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-shein-michley-pajamas-recall.html",
+        "headline": "SHEIN Michley Children's Pajamas Recalled for Burn Hazard — What Colorado Springs Families Need to Know",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "SHEIN Michley Pajamas Recall — Burn Hazard\n\n#### Social Image (1200x675)\n**Gemini Prompt:**\nA pair of children's one-piece pajamas laid flat on a light wood surface, softly lit from above. The pajamas are pastel-colored with a simple animal print. A small orange warning triangle icon sits beside them. Mood: serious but clean. Color palette: warm white, soft pastels, muted orange warning accent. Art style: flat lay product photography, minimal. Bottom third is clear warm-white surface with no visual clutter.\n\n#### Article Hero (1200x630)\n**Gemini Prompt:**\nA child's dresser drawer partially open, showing neatly folded colorful children's sleepwear, shot from slightly above. Warm, diffused natural light. Mood: domestic and cautionary without being alarming. Color palette: soft cotton whites and pastels, warm wood tones. Art style: lifestyle photography, editorial. Bottom third is a simple wood grain surface or neutral background with minimal detail.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "BABESIDE Doll and Stroller Toy Recalled — Choking Hazard for Under-3s",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "RECALL: BABESIDE Doll and Stroller toy — choking hazard for children under 3. ⚠️\n\n~2,200 units sold on Amazon by HYBDOLLS. Small parts ban violation. Stop use now. cpsc.gov #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 238
+        },
+        {
+          "label": "Post 2-2",
+          "text": "BABESIDE Doll and Stroller recall — action steps, children under 3:\n\nCut bear in half. Write \"X\" on pacifier in marker. Send photo to support@babeside.com for free replacement. cpsc.gov #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-babeside-doll-stroller-recall.html",
+        "headline": "BABESIDE Doll and Stroller Toy Recalled for Choking Hazard — A Guide for Families with Children Under 3",
+        "word_count": 734
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "BABESIDE Doll Recall — Choking Hazard\n\n#### Social Image (1200x675)\n**Gemini Prompt:**\nA close-up of a small plush toy sitting on a soft white blanket, with a clear cautionary red X placed nearby as a graphic element. Lighting is bright and clean, studio style. Mood: alert and parental-safety-focused. Color palette: soft whites, muted toy colors (pink, light blue), bold red accent. Art style: editorial product photography, clean and minimal. Bottom third is a plain white surface area.\n\n#### Article Hero (1200x630)\n**Gemini Prompt:**\nA collection of colorful baby and toddler toys arranged on a neutral gray playmat, shot from above. The scene feels like an inventory check or safety review. Mood: attentive, parental care. Color palette: primary toy colors on soft gray, clean white borders. Art style: flat lay overhead photography. Bottom third has minimal toy density and transitions to clear gray surface.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "COS 4th of July 2026 — America's 250th, 14 Days Away",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "America's 250th birthday is 14 days away. Colorado Springs families have free and ticketed July 4 options — symphony with fireworks to community events with food trucks. 🎆 #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 237
+        },
+        {
+          "label": "Post 3-2",
+          "text": "July 4 COS options:\n\nFord Amphitheater — symphony + fireworks (ticketed)\nRock Ledge Ranch — $7–13, free under 3\nBanning Lewis Ranch — free, food trucks\nPalmer Lake — free, fireworks 9:15 PM\n\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cos-fourth-of-july-2026-guide.html",
+        "headline": "Colorado Springs July 4, 2026 Family Guide — America's 250th Birthday, 14 Days Away",
+        "word_count": 831
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS 4th of July 2026 — America's 250th\n\n#### Social Image (1200x675)\n**Gemini Prompt:**\nA family silhouette watching fireworks burst over a mountain skyline at night — no faces visible, just warm outlines. The fireworks are red, white, and blue against a deep navy sky, with soft mountain peaks in the background suggesting the Rocky Mountains. Mood: celebratory, patriotic, peaceful. Color palette: deep navy, red, white, gold starbursts. Art style: painterly illustration, cinematic. Bottom third fades to dark silhouetted ground with open visual space.\n\n#### Article Hero (1200x630)\n**Gemini Prompt:**\nA wide-angle view of a grass field at golden hour, with soft bokeh fireworks in the background sky, implying a large outdoor celebration. A few blurred crowd figures in the middle distance. American flag bunting softly visible at one edge. Mood: festive, community, warm summer evening. Color palette: warm golden grass, deep red and blue accents, golden-hour light. Art style: lifestyle photography, editorial. Bottom third is open field with soft warm grass texture.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Bear Creek Nature Center Pollinator Celebration — June 26, 6 Days Away",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Bear Creek Nature Center Pollinator Celebration: Saturday June 26. $5/person. Bug sweeps, native pollinator education, hands-on learning. Bear Creek Regional Park, west Colorado Springs. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-bear-creek-pollinator-celebration-june-26.html",
+        "headline": "Bear Creek Nature Center Pollinator Celebration Is This Saturday, June 26 — $5 Family Science Day",
+        "word_count": 699
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bear Creek Pollinator Celebration — June 26\n\n#### Social Image (1200x675)\n**Gemini Prompt:**\nA young child (back turned, no face visible) crouching in a grassy meadow, looking closely at wildflowers and a butterfly resting on a purple coneflower. Warm afternoon sunlight, slight bokeh background of green meadow and trees. Mood: wonder, curiosity, outdoor discovery. Color palette: bright meadow green, purple and yellow wildflowers, golden sunlight. Art style: lifestyle photography, warm and natural. Bottom third is open grass with soft sunlit texture.\n\n#### Article Hero (1200x630)\n**Gemini Prompt:**\nA macro photograph of a honeybee or bumblebee on a bright orange Colorado wildflower, with a soft blurred green meadow background. Mood: educational, nature-positive, approachable. Color palette: bright orange and yellow flower, fuzzy bee in amber and black, soft green background. Art style: nature macro photography, sharp subject with soft bokeh. Bottom third transitions to smooth blurred green or open flower petals.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "D20 Bus and Summer School Deadline — 10 Days Left, June 30",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "D20 families: 10 days until the June 30 bus registration and summer school deadline. Verify your address in Infinite Campus — wrong address, wrong bus. Assignments release August 1. asd20.org #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-d20-bus-registration-summer-school-deadline.html",
+        "headline": "D20 Bus Registration and Summer School Deadline Is June 30 — 10 Days Left to Act",
+        "word_count": 691
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "D20 Bus and Summer School Deadline\n\n#### Social Image (1200x675)\n**Gemini Prompt:**\nA yellow school bus parked on a sunny suburban street, surrounded by light summer greenery. Shot from a slight angle showing the front and one side. Mood: back-to-school preparedness, warm summer. Color palette: bright school-bus yellow, clear blue sky, green trees. Art style: clean editorial photography. Bottom third is the street pavement with open space.\n\n#### Article Hero (1200x630)\n**Gemini Prompt:**\nA parent and child sitting at a kitchen table with a laptop open to a school registration website, looking at the screen together — faces not fully visible. A paper calendar sits beside the laptop with a date circled in red. Warm morning light. Mood: organized, proactive, family routine. Color palette: warm wood table, white laptop, soft morning light, red accent. Art style: lifestyle photography, natural and candid feel. Bottom third has the table surface with minimal clutter.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

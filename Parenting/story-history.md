@@ -2,6 +2,50 @@
 
 ---
 
+## June 20, 2026
+
+### Story 1: RECALL — SHEIN Michley Children's Pajamas (Burn Hazard, Flammability Violation)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of SHEIN Michley one-piece children's pajamas. Violates mandatory federal flammability standard for children's sleepwear — burn hazard. Sold SHEIN.com May–Dec 2025 ~$25. Sizes 80–130. 4 designs: green dinosaur, pink bunny, yellow giraffe, purple rabbit. Destroy: cut in half + photo to uscsteam@shein.com for full refund. cpsc.gov; 1-800-638-2772. Announced June 18, 2026.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC recall; one-piece sleepwear; burn hazard; mandatory flammability standard violation; sizes 80–130; 4 designs; SHEIN.com May–Dec 2025; ~$25; action: stop use, cut in half, photo to uscsteam@shein.com for full refund; cpsc.gov; 1-800-638-2772; Sources: cpsc.gov, wrnjradio.com, yahoo.com/news
+- **Follow-Up Opportunities:** None — recall will age out naturally
+
+### Story 2: RECALL — BABESIDE Doll and Stroller Toy (Choking Hazard, Under-3s)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of ~2,200 BABESIDE Doll and Stroller Children's Toys. Violates small parts ban — pacifier and detachable bear eyes pose choking hazard for children under 3. Sold Amazon by HYBDOLLS. Destroy: cut bear in half + "X" on pacifier + photo to support@babeside.com for free replacement accessories. cpsc.gov; 1-800-638-2772. Announced June 18, 2026.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC recall June 18, 2026; ~2,200 units; intended for children under 3; choking hazard; small parts ban violation; pacifier + detachable bear eyes; sold Amazon by HYBDOLLS; action: stop use, cut bear in half, "X" on pacifier in marker, photo to support@babeside.com for free replacement; cpsc.gov; 1-800-638-2772; Sources: cpsc.gov, wrnjradio.com, finance.yahoo.com
+- **Follow-Up Opportunities:** None — recall will age out naturally
+
+### Story 3: COS 4th of July 2026 — America's 250th, 14 Days Away
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Comprehensive guide to Colorado Springs July 4, 2026 family events. America's 250th birthday (Semiquincentennial). Four main local options + nearby options. Price points from free to ticketed symphony.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** July 4, 2026 (Saturday); America's 250th birthday (Semiquincentennial); Ford Amphitheater Star-Spangled Symphony (CS Philharmonic + Dolly Parton/Tina Turner tributes + 1812 Overture; gates 5:30 PM, show 6:30 PM, fireworks 9 PM; ticketed; 95 Spectrum Loop); Rock Ledge Ranch (1401 Recreation Way; 10 AM–4 PM; $7–13; free under 3; carnival games/pie-eating/historical interpreters); Banning Lewis Ranch (free; 2 live bands; ~30 food trucks; fireworks at dusk); Palmer Lake (free; 4–10 PM; fireworks 9:15 PM); Cripple Creek (parade 11 AM + evening fireworks); Sources: visitcos.com, pikes-peak.com, coloradospringssports.org, kktv.com, springsmag.com
+- **Follow-Up Opportunities:** 7-days-out reminder June 27; day-before reminder July 3
+
+### Story 4: Bear Creek Nature Center Pollinator Celebration — June 26 (6 Days Away)
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (first covered June 18 as 8-days-out; today's angle is 6-days-out urgency reminder)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Bear Creek Nature Center Pollinator Celebration; Saturday June 26, 2026; $5/person; bug sweeps, native pollinator education, hands-on learning; Bear Creek Regional Park, west Colorado Springs; Sources: visitcos.com, elpasoco.com
+- **Follow-Up Opportunities:** None — event is June 26; recap angle if warranted
+
+### Story 5: D20 Bus Registration and Summer School Deadline — June 30 (10 Days)
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (third coverage: first June 5, second June 17, now 10-days-out urgent reminder at June 20)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** June 30, 2026 deadline (10 days away); D20 bus registration via Infinite Campus — address must be correct; bus assignments release August 1; summer school (credit recovery + enrichment) also June 30; asd20.org; Sources: asd20.org
+- **Follow-Up Opportunities:** None — deadline passes June 30; August 1 bus assignment release if warranted
+
+---
+
 ## June 19, 2026
 
 ### Story 1: 6th Annual Southern Colorado Juneteenth Festival — This Weekend at Norris-Penrose
