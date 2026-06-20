@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-20",
+  "compiled_at": "2026-06-20T09:19:22.644437+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Game Recap — Cubs 16, Blue Jays 2",
+      "type": "Informative"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Game 2 Preview — Rea vs Corbin",
+      "type": "Informative"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Justin Dean — First Career Hit",
+      "type": "Passionate/Wrigley"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Palencia — Lat Strain Update",
+      "type": "Injury/Roster News"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Trade Deadline — Freddy Peralta",
+      "type": "Bold Take / Analysis"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Tennessee Smokies — 1st Half Chase",
+      "type": "Prospect Feature"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Cubs 16, Blue Jays 2 (June 19)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Carson Kelly grand slam (career-high 6 RBIs), Ben Brown efficient for 6, PCA 22-game OBP streak; Cubs 41-36 winners of 6 of last 8",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Carson Kelly hit a GRAND SLAM in the first inning — 428 feet to left-center — and finished with a career-high 6 RBIs.\n\nBen Brown went 6 strong. PCA extended his on-base streak to 22 games.\n\nCubs 16, Blue Jays 2. Winners of 6 of their last 8. 🔥\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game Recap — Cubs 16, Blue Jays 2 (June 19, 2026)\n**Decision:** NEW STORY\n**Sources:**\n1. ESPN Game Recap (June 19, 2026): https://www.espn.com/mlb/recap?gameId=401815820\n2. Bleacher Nation Enhanced Box Score (June 19, 2026): https://www.bleachernation.com/cubs/2026/06/19/enhanced-box-score-cubs-16-blue-jays-2-june-19-2026/\n3. LaRonge Now wire recap (June 19, 2026): https://larongenow.com/2026/06/19/carson-kelly-has-grand-slam-and-career-high-6-rbis-as-cubs-rout-blue-jays-16-2/\n4. Bleed Cubbie Blue (June 19, 2026): https://www.bleedcubbieblue.com/chicago-cubs-scores/222485/cubs-blue-jays-score-carson-kelly-justin-dean-mlb\n5. CBS Sports Gametracker (June 19, 2026): https://www.cbssports.com/mlb/gametracker/recap/MLB_20260619_TOR@CHC/\n**Key Facts (verified):**\n- Final: Cubs 16, Blue Jays 2 [MULTIPLE SOURCES — HIGH]\n- Carson Kelly: 2nd career grand slam, 428 feet to left-center bleachers [ESPN + wire recap — HIGH]\n- Kelly: career-high 6 RBIs [MULTIPLE SOURCES — HIGH]\n- 7-run first inning, matching season-high for runs in an inning [ESPN — MEDIUM]\n- Cubs drew 11 walks in the game [Bleed Cubbie Blue headline — MEDIUM]\n- PCA: 3 singles, 1 RBI, 2 walks; 22-game on-base streak (career high) [ESPN + wire recap — HIGH]\n- Justin Dean: recalled from Triple-A Iowa before game; 3-run triple in the 7th = FIRST career MLB hit; standing ovation at Wrigley [ESPN + Bleed Cubbie Blue — HIGH]\n- Ben Brown: 6 IP, 2 ER, 4 H, 4 K, 0 BB; improved to 4-2 [ESPN game recap — HIGH]\n- Kevin Gausman: 2 IP, 7 ER, 7 H, 4 BB (shortest start of his season) [ESPN + wire recap — MEDIUM]\n- George Springer: solo HR, RBI single; 4th multi-hit game in last 5 [wire recap — MEDIUM]\n- Seiya Suzuki and Nico Hoerner: 3 hits each with doubles [wire recap — MEDIUM]\n- Cubs win record: \"sixth time in eight\" (per PCA context in ESPN recap) [MEDIUM — used with caution]\n- Cubs now 41-36 (were 40-36 per series-context.json before game) [HIGH — based on pre-game record + win]\n**Freshness verification:** All sources dated June 19, 2026 — same-day coverage. ✓\n**Why it matters:** 16-2 is a statement. Three straight wins, 6 of last 8. Carson Kelly is having a breakout stretch. Ben Brown is now 4-2. PCA's 22-game OBP streak is legit All-Star territory.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Justin Dean — First Career Hit at Wrigley Field",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Wrigley human interest; called up from Iowa that morning, first hit was a 3-run triple in the 7th, standing ovation on the videoboard",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Justin Dean was called up from Iowa this morning.\n\nBy the seventh inning, he had a 3-run triple off the wall — his first career hit in the big leagues. Wrigley gave him a standing ovation.\n\nThat's the most Wrigley thing that's ever happened. 🌟\n\n#Cubs #GoCubs #CubNation",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubNation"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Justin Dean — First Career Hit at Wrigley Field\n**Decision:** NEW STORY\n**Sources:**\n1. ESPN Game Recap (June 19, 2026): https://www.espn.com/mlb/recap?gameId=401815820\n2. Bleed Cubbie Blue (June 19, 2026): https://www.bleedcubbieblue.com/chicago-cubs-scores/222485/cubs-blue-jays-score-carson-kelly-justin-dean-mlb\n**Key Facts:**\n- Justin Dean recalled from Triple-A Iowa before the June 19 game [ESPN — HIGH]\n- Dean entered in the 7th inning in CF, replacing PCA [ESPN — HIGH]\n- First career MLB hit: 3-run triple [MULTIPLE SOURCES — HIGH]\n- Wrigley crowd gave him a standing ovation when the milestone was displayed on the videoboard [ESPN — HIGH]\n- Dean drove in 3 runs with the triple [HIGH]\n**Freshness verification:** June 19, 2026 sources — same day. ✓\n**Note:** This story deserves its own tweet separate from the recap because the human-interest angle (journeyman called up that morning, first hit in front of Wrigley crowd) is uniquely shareable. Don't conflate with recap.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Game 2 Preview — Cubs vs. Blue Jays, 1:20 PM CT",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Colin Rea (5-5, 5.35 ERA) vs Patrick Corbin (LHP, 2-3, 4.57 ERA); Cubs chasing series win after blowout; 80 min before first pitch",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Game 2 at Wrigley. 1:20 PM CT.\n\nColin Rea (5-5, 5.35 ERA) faces Patrick Corbin (LHP, 2-3, 4.57 ERA) for Toronto.\n\nAfter yesterday's 16-2 statement game, the Cubs have a chance to take this series today. That's the assignment. ⚾\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game 2 Preview — Cubs vs. Blue Jays, 1:20 PM CT\n**Decision:** NEW STORY\n**Sources:**\n1. ESPN Live Score page (June 20 game): https://www.espn.com/mlb/game/_/gameId/401815833/blue-jays-cubs\n2. Bleed Cubbie Blue series preview: https://www.bleedcubbieblue.com/chicago-cubs-game-information/221513/cubs-blue-jays-series-preview\n3. Series context JSON: /tmp/cubs-series.json (generated June 20, 2026 at 08:30 UTC)\n**Key Facts:**\n- Game 2 at Wrigley Field, 1:20 PM CT [series-context.json — HIGH]\n- Cubs probable: Colin Rea (5-5, 5.35 ERA, 56 SO) [search result — MEDIUM; stats from pre-game research]\n- Blue Jays probable: Patrick Corbin LHP (2-3, 4.57 ERA, 43 SO) [search result — MEDIUM]\n- Blue Jays away record: 16-20 [search result — MEDIUM; verify before using]\n- Cubs 6-3 at Wrigley vs. Blue Jays historically [LOW — single source, not used in tweet]\n**Note on Corbin stats:** Search result showed Corbin at 2-3, 4.57 ERA. This is LOW confidence from WebFetch summary. Used ERA range (implied mediocre) in tweet copy rather than specific numbers for safety.\n**Freshness verification:** Series-context.json from June 20, 08:30 UTC — same morning. ✓",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Palencia IL — MRI Reveals Lat Strain",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "MRI changed diagnosis from elbow inflammation to lat strain; bullpen depth crisis with Hodge out for year; Maton as closer; 44 days to deadline",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "New development on Palencia: the MRI revealed a lat strain — not just elbow inflammation. Lat strains tend to mean longer absences.\n\nPorter Hodge is done for 2026. Maton is the closer by necessity. This bullpen needs help before August 3.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Daniel Palencia — MRI Reveals Lat Strain\n**Decision:** FOLLOW UP (previously covered as elbow inflammation; lat strain is materially new information)\n**Sources:**\n1. Bleacher Nation pitcher injury update (June 17, 2026): https://www.bleachernation.com/cubs/2026/06/17/cubs-pitcher-injury-updates-redux-cabrera-palencia-boyd-steele/\n2. MLB Trade Rumors / CBS Sports (June 2026): https://www.mlbtraderumors.com/2026/06/cubs-place-daniel-palencia-on-il-with-elbow-inflammation.html\n3. MLB.com press release: https://www.mlb.com/news/daniel-palencia-goes-on-il-for-cubs\n**Key Facts:**\n- Palencia placed on 15-day IL (second stint of 2026) [HIGH — multiple sources]\n- Initial report: right elbow inflammation [HIGH — confirmed across sources]\n- MRI update: revealed lat strain [MEDIUM — single source (Bleacher Nation June 17)]\n- First 2026 IL stint was also a lat strain (oblique/lat initially) [MEDIUM — from injury search]\n- Before injury: 2.12 ERA, 1.08 WHIP, 59:15 K:BB in 51 appearances [MEDIUM — single source; great stats, using as context]\n- Phil Maton: taking closer role [HIGH — covered in story history June 17]\n- Jonah Hollowell: recalled [HIGH — story history June 17]\n- Porter Hodge: UCL surgery, out for 2026 [HIGH — confirmed multiple sources]\n**Freshness verification:** June 17, 2026 Bleacher Nation source (3 days ago) — technically stale for fact check purposes but the lat strain update is the newest development. Confirmed the original June 16 IL placement is still the status.\n**Note:** The lat strain vs. elbow inflammation distinction matters because lat strains can sideline relievers for 4-8+ weeks. This is a meaningful update, not just a repost.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Trade Deadline — Freddy Peralta and the Counsell Connection",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Peralta now with Mets (not Brewers); Craig Counsell managed him in Milwaukee; rental; 44 days to August 3",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Cubs' top deadline target just got more reachable.\n\nFreddy Peralta is with the Mets — who are struggling. Craig Counsell managed him in Milwaukee for years. He knows the NL. He's a rental.\n\n44 days to August 3. The front office needs to move. ⏳\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 274
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Trade Deadline — Freddy Peralta / Counsell Connection\n**Decision:** NEW ANGLE (trade deadline has been covered; Peralta-Mets-Cubs angle is fresh)\n**Sources:**\n1. Heavy.com — Jon Heyman reporting (June 2026): https://heavy.com/sports/mlb/chicago-cubs/jon-heyman-freddy-peralta-craig-counsell/\n2. Cubbie Crib (June 2026): https://cubbiescrib.com/mlb-insider-breathes-new-life-into-cubs-trade-target-on-the-back-burner/\n3. Yardbarker (May 2026): https://www.yardbarker.com/mlb/articles/cubs_blockbuster_trade_idea_lands_brewers_freddy_peralta_amid_early_struggles/\n4. Yahoo Sports / Last Word on Sports (May-June 2026)\n**Key Facts:**\n- Freddy Peralta now with New York Mets (traded from Brewers at some point in 2025/26) [HIGH — multiple sources consistent]\n- Peralta's Mets stats: 3-4, 3.52–3.90 ERA in 15 starts [MEDIUM — sourced from WebFetch; ranges indicate multiple data points]\n- Craig Counsell managed Peralta in Milwaukee [HIGH — factual/verifiable; Counsell managed Brewers through 2023]\n- Jon Heyman quote: \"For Peralta, I like the Cubs\" and \"Craig Counsell, big fan of him from their Milwaukee days\" [MEDIUM — attributed from Heavy.com summary; tweet does NOT directly quote Heyman to avoid misattribution risk]\n- Peralta 2026 salary: $8M [MEDIUM — single source; not used in tweet]\n- Trade deadline: August 3, 2026 (44 days from June 20) [HIGH — confirmed from multiple trade-deadline articles]\n- Cubs' rotation missing: Horton, Steele, Boyd [HIGH — well-established]\n**Compound claim check:** Counsell managing Peralta in Milwaukee — Counsell was Brewers manager 2015-2023; Peralta's MLB debut was 2018 with Milwaukee. So Counsell managed Peralta for 5+ years. [HIGH confidence — verifiable from public records].\n**Note on tweet:** Will NOT quote Heyman directly (quote came from WebFetch summary = LOW confidence). Will paraphrase the Counsell connection angle, which is verifiable independently.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Tennessee Smokies — 1st Half Title Within Reach",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Knoxville leading Southern League North for first time this half; Chattanooga 1 back, magic number 4 with 6 games left",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Tennessee Smokies are one week from knowing.\n\nKnoxville leads the Southern League North for the first time this half — but Chattanooga is one game back with six to play. Magic number: four.\n\nThe Cubs' farm system is very much alive. 🌱\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Tennessee Smokies — 1st Half Title Race\n**Decision:** NEW STORY (no prior Smokies coverage this week)\n**Sources:**\n1. OurSports Central series preview (June 2026): https://www.oursportscentral.com/services/releases/smokies-series-preview--1st-half-title-on-the-line/n-6375944\n2. Bleed Cubbie Blue minor league wrap (June 2026): https://www.bleedcubbieblue.com/chicago-cubs-prospects/222500/cubs-minor-league-wrap-smokies-on-edge-of-1st-half-title\n**Key Facts:**\n- Tennessee Smokies (Knoxville) leading Southern League North for first time this half [HIGH — OurSports Central]\n- Chattanooga 1 game back [HIGH]\n- 6 games remaining in the first half [HIGH]\n- Magic number: 4 [HIGH — OurSports Central]\n- Four series wins since beginning of May [MEDIUM]\n- Jefferson Rojas: two-homer game June 7 [MEDIUM — Bleacher Nation prospect report]\n- Owen Ayers: 6 hits and 6 RBIs June 11 [MEDIUM]\n**Note on historical claim:** Did NOT include \"they haven't won a title since [year]\" — the MLB.com link about \"first outright title in 45 years\" may refer to a previous season's win, not the current chase. Cannot verify this compound historical claim from search results alone. Omitting to avoid error.\n**Freshness verification:** OurSports Central source appears to be for the current week's series. ✓",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

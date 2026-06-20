@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-20
+
+### STORY 1: Game Recap — Cubs 16, Blue Jays 2 (June 19)
+- **Angle:** NEW STORY (Cubs 16-2 blowout June 19 at Wrigley; Carson Kelly 2nd career grand slam 428 feet left-center career-high 6 RBIs; 7-run 1st inning; Ben Brown 6 IP 2 ER 4 K 0 BB now 4-2; PCA 22-game OBP streak career high; Justin Dean called up, first hit 3-run triple in 7th; Cubs 41-36 winners of 6 of last 8)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, morning game recap)
+- **Follow-Up Opportunities:**
+  - Game 2 result (today)
+  - Ben Brown All-Star conversation
+  - PCA OBP streak continuation
+
+### STORY 2: Justin Dean — First Career Hit at Wrigley Field
+- **Angle:** NEW STORY (Justin Dean recalled from Triple-A Iowa before June 19 game; entered in 7th inning CF replacing PCA; first career MLB hit: 3-run triple off the wall; Wrigley crowd gave standing ovation when milestone displayed on videoboard)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, human-interest/Wrigley moment)
+- **Follow-Up Opportunities:**
+  - Dean continued MLB performance
+  - Dean roster status after series
+
+### STORY 3: Game 2 Preview — Cubs vs. Blue Jays, 1:20 PM CT
+- **Angle:** NEW STORY (Game 2 at Wrigley Field 1:20 PM CT; Colin Rea [5-5, 5.35 ERA] vs Patrick Corbin [LHP, 2-3, 4.57 ERA] for Toronto; Cubs chasing series win after 16-2 statement game; both ERAs above 4.00)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview; 80 min before first pitch per midday insights mandate)
+- **Follow-Up Opportunities:**
+  - Game 2 result (same-day recap)
+  - Colin Rea continued improvement
+
+### STORY 4: Palencia — MRI Reveals Lat Strain (Follow-Up)
+- **Angle:** FOLLOW UP (new detail: MRI changed diagnosis from elbow inflammation to lat strain; lat strains mean longer recovery; Porter Hodge UCL surgery out for 2026; Phil Maton de facto closer; bullpen at crisis depth; 44 days to August 3 deadline)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, injury/roster news)
+- **Follow-Up Opportunities:**
+  - Palencia specific return timeline (4-8 weeks from lat strain)
+  - Trade deadline bullpen acquisition
+
+### STORY 5: Trade Deadline — Freddy Peralta / Mets Connection
+- **Angle:** NEW STORY (Freddy Peralta now pitching for Mets; Mets underperforming; Craig Counsell managed Peralta in Milwaukee 2018-2023 [5+ seasons]; Peralta a rental at $8M; 44 days to August 3; Cubs rotation and bullpen both need help)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, trade deadline analysis/bold take)
+- **Follow-Up Opportunities:**
+  - Any Peralta-Cubs trade reporting
+  - Cubs deadline acquisition announcements
+
+### STORY 6: Tennessee Smokies — 1st Half Title Race
+- **Angle:** NEW STORY (Smokies leading Southern League North for first time this half; Chattanooga 1 game back; 6 games remaining in 1st half; magic number: 4; first Smokies coverage this pipeline cycle)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - Smokies 1st half result (end of this week)
+  - Southern League North playoff positioning
+
+---
+
 ## 2026-06-19
 
 ### STORY 1: Series Preview — Cubs vs Blue Jays, Game 1 of 3 at Wrigley
