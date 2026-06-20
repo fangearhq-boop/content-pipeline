@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-20
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-20 | T1 | Giannis Trade Endgame — Heat vs. Celtics "Issue," 3 Days to Draft Night | X, FB, Article | FOLLOW UP |
+| 2026-06-20 | T1 | NBA Draft Preview — 3 Days Out, Dybantsa No. 1, Peterson No. 2 Medicals Clear | X, FB, Article | FOLLOW UP |
+| 2026-06-20 | T2 | Austin Reaves — Countdown to Decision, Lakers Favored at $239M Max | X, FB, Article | FOLLOW UP |
+| 2026-06-20 | T2 | Knicks Offseason — What Comes After the Parade? Brunson Extension Priority | X, FB, Article | NEW |
+| 2026-06-20 | T2 | Ja Morant Trade Market — Memphis Waiting on Giannis, Heat as Plan B | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Giannis Trade Endgame — Heat vs. Celtics
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** "Issue" with Heat offer (Herro + Ware + Jaquez + No. 13); Celtics Jaylen Brown package still on table; Giannis could extend contract with Celtics; Bucks want deal before June 23 draft night; Marc Stein "drawing near"; Giannis prefers Miami but Boston offer may be better basketball value
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announced June 23; Giannis destination confirmed
+
+### STORY 2: NBA Draft Preview — 3 Days Out
+- **Tier:** 1
+- **Category:** NBA Draft
+- **Key facts:** Draft June 23-24 Barclays Center Brooklyn; Dybantsa -450 No. 1 to Wizards (25.5 PPG/6.8 RPG/3.7 APG/51% FG at BYU); Peterson No. 2 Jazz (medicals clear); Cameron Boozer No. 3 (23 PPG/11 RPG/4 APG Duke); draft order: Wizards, Jazz, Grizzlies, Bulls; Giannis trade could reshape mid-late lottery
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Draft night recap June 23; Dybantsa Wizards jersey photo
+
+### STORY 3: Austin Reaves — Countdown
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** $14.9M player option due June 29; Lakers 5yr/$239M max vs. teams 4yr/$178.5M; Nets backing off; decision "not solely about money"; Luka partnership + LA love cited; expected deal ~$200M
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Reaves declines option June 29; deal announced
+
+### STORY 4: Knicks Offseason
+- **Tier:** 2
+- **Category:** NBA Offseason / Knicks
+- **Key facts:** Championship parade June 19; No. 17 draft pick; free agency June 30; priorities: Brunson extension, OG Anunoby, KAT re-sign; officially out of Giannis race
+- **Status:** NEW
+- **Follow-up ideas:** Brunson extension announced; free agency signings
+
+### STORY 5: Ja Morant Trade Market
+- **Tier:** 2
+- **Category:** NBA Trade Rumors / Grizzlies
+- **Key facts:** Memphis waiting on Giannis deal before entering market; Heat as Plan B if Giannis deal fails; Morant 24.4 PPG last season; Memphis holds No. 3 pick as leverage; multiple teams circling
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade market opens post-June 23; Heat pivot to Morant
+
 ## 2026-06-18
 
 | Date | Tier | Story | Platforms | Status |
