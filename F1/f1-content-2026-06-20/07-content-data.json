@@ -1,0 +1,262 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-20",
+  "compiled_at": "2026-06-20T11:19:03.346314+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Barcelona Aftermath — Hamilton's Historic Ferrari Win Redraws the Championship",
+      "tier": 1,
+      "status": "",
+      "angle": "One week on from Barcelona (June 14), the implications continue to ripple. Hamilton took his first Ferrari win via a brilliant 3-stop strategy, capitalizing on a VSC when Alonso stopped on track. He won by 19.5 seconds over Russell (Mercedes). Norris third (McLaren) — first all-British podium since 1968. Antonelli retired from the LEAD with 3 laps left for his first DNF of the season. Championship gap: from 66 to 41 points. Hamilton (41 years old) became the oldest F1 race winner since Jack Brabham in 1970.",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Lewis Hamilton won Barcelona at 41 years old — the oldest F1 winner since Jack Brabham in 1970. First all-British podium since 1968. And it cut Antonelli's lead from 66 to 41 points. One race. #F1 #Ferrari",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari"
+          ],
+          "char_count": 205
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Kimi Antonelli retired from the LEAD with 3 laps remaining in Barcelona. His first DNF of the 2026 season. Hamilton wins. Gap slashed to 41 points. 15 races left. #F1 #Mercedes",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Mercedes"
+          ],
+          "char_count": 176
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-hamilton-barcelona-ferrari-historic-win.html",
+        "headline": "What Hamilton's Barcelona Win Actually Means for the 2026 F1 Championship",
+        "word_count": 674
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Barcelona — Hamilton's Ferrari Win\n\n**Image Concept 1A — Social (1080x1350)**\n- **Mode:** base_only\n- **Search term (imagn):** Lewis Hamilton Ferrari Formula 1\n- **Overlay text:** \"HAMILTON WINS\" / \"FIRST FERRARI VICTORY\" / \"OLDEST WINNER SINCE 1970\"\n- **Style:** Ferrari red background, dramatic podium shot composition\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Search term (imagn):** Lewis Hamilton Ferrari Formula 1\n- **Overlay text:** \"Hamilton's Barcelona Masterclass\"\n- **Style:** Celebration/podium wide shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Barcelona Aftermath — Hamilton's Historic Ferrari Win\n**Sources:**\n- Formula1.com: \"Hamilton claims stellar maiden Grand Prix victory for Ferrari as Kimi Antonelli suffers shock retirement\" (June 14, 2026)\n- FIA.com: \"Hamilton claims first Ferrari win ahead of Russell and Norris as Antonelli retires\"\n- Sky Sports F1: \"Barcelona-Catalunya GP: Lewis Hamilton claims first Grand Prix win for Ferrari\"\n- ESPN: Race report and highlights\n**Key Facts (Confidence Levels):**\n- [HIGH] Hamilton won the 2026 Barcelona-Catalunya Grand Prix — his first win for Ferrari\n- [HIGH] Hamilton's 106th career Grand Prix victory\n- [HIGH] Ferrari used a 3-stop strategy; took free pit stop under Virtual Safety Car when Fernando Alonso stopped on track at Turn 9\n- [HIGH] Hamilton won by 19.5 seconds over George Russell (Mercedes)\n- [HIGH] Lando Norris (McLaren) finished third — first all-British podium since 1968\n- [HIGH] Antonelli retired from the lead with approximately 3 laps remaining — first DNF of 2026 season\n- [HIGH] Hamilton (41 years old) is the oldest F1 race winner since Jack Brabham in 1970\n- [HIGH] Championship gap reduced from 66 to 41 points after Barcelona",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Austrian GP Preview — Verstappen Hungers for Home Race, Hamilton Eyes More",
+      "tier": 1,
+      "status": "",
+      "angle": "The Austrian Grand Prix is one week away — June 26-28 at the Red Bull Ring in Spielberg. Hamilton arrives on a wave of momentum. Antonelli needs to bounce back from his first DNF. Red Bull's Verstappen (7th in championship, 55 pts) is hungry for a result on his home circuit. The track's layout (low downforce, engine-sensitive) should suit Mercedes. Ferrari's three-stop gamble in Barcelona proved they can go blow-for-blow. 71 laps, race start Sunday June 28 at 9:00 AM ET.",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Austrian Grand Prix: June 26-28 at the Red Bull Ring. Hamilton arrives on momentum. Verstappen hungry on home turf. Antonelli looking to bounce back. One week. #F1 #AustrianGP",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP"
+          ],
+          "char_count": 175
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen sits 7th in the championship with 55 points. He has a contract exit clause that activates if he's not in the top 2 by end of July. His home race in Austria just became enormous. #F1 #RedBull",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-austrian-gp-2026-preview-red-bull-ring.html",
+        "headline": "Austrian GP Preview: Can Hamilton Make It Back-to-Back at the Red Bull Ring?",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Preview\n\n**Image Concept 2A — Social (1080x1350)**\n- **Mode:** base_only\n- **Search term (imagn):** Austrian Grand Prix Red Bull Ring Formula 1\n- **Overlay text:** \"AUSTRIAN GP\" / \"JUNE 26-28\" / \"RED BULL RING\"\n- **Style:** Alpine scenery backdrop, F1 racing energy\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Search term (imagn):** Red Bull Ring Formula 1 race\n- **Overlay text:** \"Austrian Grand Prix 2026 Preview\"\n- **Style:** Circuit aerial shot with mountains in background\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austrian GP Preview\n**Sources:**\n- Wikipedia: \"2026 Austrian Grand Prix\"\n- ESPN: \"Austrian Grand Prix 2026: Race start time, how to watch, full schedule\"\n- Little Big Red Dot: \"F1 2026 Austrian Grand Prix Preview: Can Hamilton Close the Gap at the Red Bull Ring?\"\n- Stats Niper: \"F1 2026 Austrian Grand Prix Preview: Antonelli's Bounce\"\n**Key Facts (Confidence Levels):**\n- [HIGH] Austrian GP: June 26-28, 2026 at Red Bull Ring in Spielberg, Austria\n- [HIGH] Eighth round of the 2026 FIA Formula One World Championship\n- [HIGH] 71 laps\n- [HIGH] Race scheduled 15:00 local time (UTC+2), which is 9:00 AM ET\n- [HIGH] Antonelli leads championship 156 pts; Hamilton 115 pts; Russell approx. 106 pts\n- [MEDIUM] Verstappen has historically strong record at Red Bull Ring\n- [MEDIUM] Track characteristics favor Mercedes (long straights, engine-sensitive)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen's Red Bull Exit Clause — The Ticking Clock",
+      "tier": 2,
+      "status": "",
+      "angle": "Verstappen's Red Bull contract runs to 2028 but includes a dramatic clause: if he's not in the top 2 of the championship by the end of July, he can terminate his deal unilaterally, activating the exit window from August–October. He currently sits 7th with 55 points (101 behind Antonelli). Red Bull's leadership is divided on whether to buy out the clause. Teams including Mercedes and Aston Martin are monitoring. Could the four-time champion be a free agent this autumn?",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Verstappen's Red Bull contract has an exit clause: if he's not top 2 in the championship by end of July, he can leave. He's currently 7th with 55 points. Red Bull leadership is divided. The clock is ticking. #F1 #RedBull",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#RedBull"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-verstappen-exit-clause-red-bull-future.html",
+        "headline": "The Ticking Clock: Verstappen's Exit Clause and What Happens Next",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n**Image Concept 3A — Social (1080x1350)**\n- **Mode:** base_only\n- **Search term (imagn):** Max Verstappen Red Bull Formula 1\n- **Overlay text:** \"EXIT CLAUSE\" / \"TOP 2 BY END OF JULY OR LEAVE\"\n- **Style:** Dark dramatic composition, countdown/clock visual element\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Search term (imagn):** Max Verstappen Red Bull Formula 1\n- **Overlay text:** \"Verstappen's Exit Clause: The Ticking Clock\"\n- **Style:** Close-up portrait, Red Bull colors\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen's Exit Clause\n**Sources:**\n- Newsweek: \"Max Verstappen's Red Bull Contract Has a Huge 2026 Exit Clause\"\n- The Judge 13: \"Red Bull Divided Over Max Verstappen Contract Plan as Exit Clause Concerns Grow\" (June 19, 2026)\n- GPFans: \"The brutal Max Verstappen F1 exit clause revealed\"\n- Yahoo Sports: \"Max Verstappen Has 0 Points and a Contract Clause That Could Force Red Bull Exit\"\n**Key Facts (Confidence Levels):**\n- [HIGH] Verstappen's Red Bull contract runs through 2028\n- [HIGH] Contract includes exit clause: can terminate unilaterally if not in top 2 by end of July\n- [HIGH] Exit clause activation window: August to October\n- [HIGH] Verstappen currently sits 7th in championship with 55 points (Antonelli has 156)\n- [HIGH] Red Bull leadership divided on plans to address exit clause\n- [MEDIUM] Clause was specifically added due to Verstappen's \"longstanding apprehension\" about 2026 regulations\n- [MEDIUM] Teams including Mercedes and Aston Martin monitoring situation",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Championship Math — Can Hamilton Actually Win This Title?",
+      "tier": 2,
+      "status": "",
+      "angle": "15 races remain after Austria. Antonelli leads with 156 points. Hamilton second at 115 (41 behind). Russell third at ~106. Every DNF costs 25 points (a win). Hamilton has closed 25 points in one race (Barcelona). A repeat in Austria would cut the gap to 16. The numbers are difficult but no longer impossible. Ferrari's three-stop aggressiveness shows they believe in the fight.",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "F1 championship standings: Antonelli 156, Hamilton 115, Russell ~106. Hamilton closed 25 points in one race (Barcelona). 15 races remain. The title fight is very much alive. #F1",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 177
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-f1-championship-math-hamilton-antonelli.html",
+        "headline": "The Championship Math: Can Lewis Hamilton Actually Win the 2026 F1 Title?",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Math\n\n**Image Concept 4A — Social (1080x1350)**\n- **Mode:** base_only\n- **Search term (imagn):** Kimi Antonelli Mercedes Formula 1\n- **Overlay text:** \"ANTONELLI 156 / HAMILTON 115\" / \"15 RACES LEFT\"\n- **Style:** Split composition, championship points graphic overlay\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Math\n**Sources:**\n- F1-fansite.com: \"2026 F1 Standings: Drivers & Constructors Championship List\"\n- gridguy.racing: \"F1 Standings 2026 [Live]: Antonelli Leads 156 Pts\"\n**Key Facts (Confidence Levels):**\n- [HIGH] Antonelli leads championship: 156 pts\n- [HIGH] Hamilton: 115 pts (41 behind)\n- [HIGH] Russell: approx. 106 pts (third)\n- [HIGH] 15 races remaining after Austria\n- [HIGH] A race win is worth 25 points",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cadillac F1 Update — America's Team Is Learning",
+      "tier": 2,
+      "status": "",
+      "angle": "The first American F1 constructor since the 1980s is finding its feet. Sergio Pérez has outperformed teammate Valtteri Bottas significantly — a gap team bosses can't fully explain. After three rounds Cadillac had no points, but Miami upgrades (new front wing, reprofiled floor) allowed them to race Aston Martin on pace. The Cadillac dream is alive but the midfield is brutal in 2026.",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cadillac F1 update: no points through 3 races, but Miami upgrades let them run with Aston Martin on pace. Perez is significantly outperforming Bottas. America's F1 team is finding its feet. #F1 #Cadillac",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Cadillac"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-cadillac-f1-2026-americas-team-learning.html",
+        "headline": "America's F1 Team Is Learning — And Cadillac Is Making Progress",
+        "word_count": 642
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cadillac F1\n\n**Image Concept 5A — Social (1080x1350)**\n- **Mode:** base_only\n- **Search term (imagn):** Sergio Perez Cadillac Formula 1\n- **Overlay text:** \"AMERICA'S F1 TEAM\" / \"CADILLAC F1 2026\"\n- **Style:** American flag accent, Cadillac team colors (black/red/gold)"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cadillac F1 Update\n**Sources:**\n- Formula1.com: \"The state of play at Cadillac after three races of the 2026 season\"\n- Roundtable.io: \"Cadillac can't explain the gap between Pérez and Bottas\"\n- Cadillac F1 Team official: \"2026 Canadian Grand Prix Race Report\"\n**Key Facts (Confidence Levels):**\n- [HIGH] Cadillac is F1's 11th team — first American F1 constructor in decades\n- [HIGH] Drivers: Sergio Pérez and Valtteri Bottas\n- [HIGH] After three rounds: no championship points scored\n- [MEDIUM] Miami upgrades included new front wing and reprofiled floor\n- [MEDIUM] After Miami upgrades, able to race Aston Martin on pace\n- [MEDIUM] Pérez significantly outperforming Bottas — gap team cannot explain",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-20
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-20 | T1 | Barcelona Aftermath — Hamilton's Historic Ferrari Win Redraws Championship | X, FB, Article | FOLLOW UP |
+| 2026-06-20 | T1 | Austrian GP Preview — Hamilton Eyes Back-to-Back, Verstappen Home Race | X, FB, Article | NEW |
+| 2026-06-20 | T2 | Verstappen Exit Clause — Not Top 2 by End of July, Can Leave Red Bull | X, FB, Article | FOLLOW UP |
+| 2026-06-20 | T2 | Championship Math — Can Hamilton Actually Win the 2026 Title? | X, FB, Article | NEW |
+| 2026-06-20 | T2 | Cadillac F1 Update — America's Team Making Progress After Miami Upgrades | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Barcelona Aftermath — Hamilton Historic Ferrari Win
+- **Tier:** 1
+- **Category:** Race Recap / Championship
+- **Key facts:** Hamilton 106th career win/first for Ferrari; 3-stop strategy/VSC from Alonso stop Turn 9; won by 19.5s over Russell; Norris 3rd first all-British podium since 1968; Hamilton 41 yrs oldest winner since Jack Brabham 1970; Antonelli retired from lead 3 laps remaining/first DNF of season; championship gap 66→41 pts
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP result; does Hamilton cut gap further
+
+### STORY 2: Austrian GP Preview
+- **Tier:** 1
+- **Category:** Race Preview / Austrian GP
+- **Key facts:** June 26-28 Red Bull Ring Spielberg Austria; 8th round 2026 championship; 71 laps; 9AM ET race start; Antonelli 156/Hamilton 115/Russell ~106; Verstappen 7th 55 pts home race; track favors Mercedes (long straights engine-sensitive)
+- **Status:** NEW
+- **Follow-up ideas:** Race day June 28 result; qualifying June 27
+
+### STORY 3: Verstappen Exit Clause
+- **Tier:** 2
+- **Category:** Driver News / Contract Drama
+- **Key facts:** Contract to 2028 but exit clause: not top 2 by end July = can terminate; activation window Aug-Oct; currently 7th 55pts (101 behind Antonelli); Red Bull leadership divided on buying out clause; Mercedes/Aston Martin monitoring
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP result changes math; Red Bull announces buyout
+
+### STORY 4: Championship Math
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Antonelli 156/Hamilton 115 (41 behind)/Russell ~106; 15 races after Austria; win = 25 pts; Hamilton closed 25 in one race Barcelona; if repeat in Austria gap = 16
+- **Status:** NEW
+- **Follow-up ideas:** Post-Austria standings update
+
+### STORY 5: Cadillac F1 Update
+- **Tier:** 2
+- **Category:** Team News / Cadillac
+- **Key facts:** 11th team F1 grid; Perez + Bottas drivers; no points through 3 rounds; Miami upgrades (new front wing + reprofiled floor) raced Aston Martin on pace; Perez significantly outperforming Bottas — gap team can't explain; GM building F1 engine factory Charlotte NC
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First points scored; team milestone
+
 ## 2026-06-18
 
 | Date | Tier | Story | Platforms | Status |
