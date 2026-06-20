@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-20
+
+### Story 1: Witt Jr. Grade 1 MCL Sprain — 'Best Case Scenario'
+- **Date:** 2026-06-20
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 19 — knee injury with MRI pending)
+- **Angle:** MRI confirms Bobby Witt Jr. has a Grade 1 MCL sprain in his right knee. Manager Matt Quatraro calls it "best case scenario." Grade 1 = typically 1-3 weeks to heal, no surgery required. Royals plan to evaluate Sunday before any IL decision. All-Star Game July 14 is in the 1-3 week window. Witt hit a HR before exiting Thursday's 14-6 win over Cardinals.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Sunday evaluation / IL placement decision
+  - Witt return timeline vs. All-Star Game
+  - Royals lineup adjustments without Witt
+
+### Story 2: Ranger Suarez Takes No-Hitter Into 7th
+- **Date:** 2026-06-20
+- **Tier:** 1
+- **Classification:** NEW STORY (Friday June 19 game)
+- **Angle:** Boston Red Sox lefthander Ranger Suarez carried a no-hitter into the 7th inning at T-Mobile Park in Seattle. No-hit bid ended when Josh Naylor hit a one-out double. Final: 6⅔ IP / 1 H / 5 K / 3 BB. Red Sox win 6-2. First Suarez win since April 27. Suarez had retired the first 10 batters. 30-year-old lefty dominant for 6+ innings.
+- **Content Produced:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Suarez next start / momentum off near-historic night
+  - Red Sox rotation health
+
+### Story 3: Schwarber's Historic HR Pace
+- **Date:** 2026-06-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 19 — Schwarber first to 25 HR)
+- **Angle:** Kyle Schwarber at 25 HR leads MLB. Pace of ~65+ HR for season places him 3rd in MLB history behind only Bonds (73, 2001) and McGwire (70, 1998). Stats: .249 BA / 43 RBI / 46 walks / 315 PA. Home Run Derby July 13 at Citizens Bank Park — his home. Alvarez chasing. Phillies 30-28, chasing Braves (46-27).
+- **Content Produced:** Article (article-03), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber reaching 30 HR before break
+  - Derby lineup announcement
+  - Alvarez/others keeping pace
+
+### Story 4: All-Star Ballot — Ohtani Leads, Phase 1 Closes June 25
+- **Date:** 2026-06-20
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 19 — ballot update, urgency growing)
+- **Angle:** 5 days left in Phase 1 voting. Ohtani leads all baseball: 1,165,133 votes. Alvarez leads AL: 1,015,768. Judge: 977,460. Phase 1 closes June 25 noon ET. Top 2 per position + top 6 OF advance to Phase 2 (opens June 29). All-Star Game July 14 at Citizens Bank Park. AL 1B: Guerrero Jr. 603,014 / Ben Rice 509,830 / Murakami 437,107. NL 1B: Freeman 870,606 / Olson 802,848 / Harper 651,792.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Phase 1 final results / automatic starters
+  - Phase 2 voting opens June 29
+  - All-Star rosters announced
+
+### Story 5: Saturday MLB Preview — Mets at Phillies on Fox
+- **Date:** 2026-06-20
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Fox Saturday Baseball: Mets at Phillies 7:15 PM ET, Cleveland at Houston 7:15 PM ET. Schwarber (25 HR, MLB leader) in Phillies lineup at Citizens Bank Park. Phillies 30-28 chasing Braves (46-27) in NL East. Royals have day off — Witt resting Grade 1 MCL sprain, Sunday evaluation upcoming.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Witt Sunday evaluation / IL decision
+  - Schwarber home run in prime-time game
+  - Phillies NL East chase
+
+---
+
 ## 2026-06-19
 
 ### Story 1: Bobby Witt Jr. Exits With Right Knee Injury

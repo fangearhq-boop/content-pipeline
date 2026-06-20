@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-20
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (prior session), brief (5 stories), research notes, story analysis, X posts (7; format fix applied **Text Post N — Type** → **Post N**; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (32 claims HIGH, consistency clean — claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published to content-dashboards, PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). X posts header format fix (**Text Post N — Type** → **Post N**). PostPlanner 0 posts (no scheduling — expected).
+- **Key Stories**: Witt Jr. Grade 1 MCL sprain/"best case scenario" Quatraro/1-3 week timeline/evaluate Sunday/All-Star Game July 14 in window (Tier 1 FOLLOW UP), Ranger Suarez no-hit bid into 7th/Naylor double broke it/6⅔ IP 1H 5K 3BB/Red Sox 6-2/first win since April 27 (Tier 1 NEW), Schwarber 25 HR MLB leader/pace 65+ HR = 3rd-highest ever/Derby July 13 Citizens Bank Park/Alvarez chasing (Tier 2 FOLLOW UP), All-Star ballot 5 days left/Ohtani 1.165M leads all/Alvarez 1.015M/Phase 1 closes June 25 noon ET (Tier 2 FOLLOW UP), Saturday Fox baseball Mets at Phillies 7:15 PM ET/Cleveland at Houston/Witt resting Sunday eval (Tier 3 NEW)
+
+
+## Last Run
 - **Date**: 2026-06-19
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims extracted, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published attempt (403 PAT for content-dashboards repo — known). Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -10,7 +19,7 @@
 - **Key Stories**: Bobby Witt Jr. exits with right knee discomfort/same knee as June 7/MRI pending/Royals 14-6 Cardinals/club record 5 doubles (Tier 1 NEW), Schwarber first to 25 HR in 2026/pace 66 HR 3rd-highest in MLB history/Derby at Citizens Bank Park (Tier 1 FOLLOW UP), Bryan Woo 7 IP 0 ER/Mariners 3-0 Orioles/Emerson 2 RBI (Tier 2 NEW), All-Star ballot Ohtani 1.165M leads all/Alvarez 1.015M AL/Phase 1 closes June 25/Game July 14 Philadelphia (Tier 2 FOLLOW UP), Thursday night roundup Royals 14-6 Mariners 3-0 (Tier 3 NEW)
 
 
-## Last Run
+## Previous Run
 - **Date**: 2026-06-18
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed S2T1 288→251; 0 after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (36 claims extracted, 0 char violations — claim-patterns.py missing, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published attempt (403 PAT for content-dashboards repo — known). Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
