@@ -1,0 +1,254 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-20",
+  "compiled_at": "2026-06-20T11:24:59.099639+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "US Open Round 3 — Clark's Lead Tested at Shinnecock",
+      "tier": 1,
+      "status": "",
+      "angle": "Round 3 of the 126th US Open is underway at Shinnecock Hills Golf Club. Wyndham Clark entered Saturday at -7, 4 shots clear of a pack at -3 (Matt Fitzpatrick, Xander Schauffele, Sam Stevens, Tom Kim). Clark's opening 64 set the Shinnecock 36-hole record. The final pairing of Clark and Fitzpatrick teed off at 3:45 PM ET. McIlroy (even) and Scheffler (+1) sit 7-8 shots back but both made the cut and remain in mathematical contention. Notable missed cuts: Bryson DeChambeau, Viktor Hovland, Jon Rahm, Shane Lowry.",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Wyndham Clark enters Round 3 of the US Open at -7, 4 shots clear of the field. His opening 64 set the 36-hole Shinnecock record. Moving day at the 126th US Open is underway. Can anyone catch him? 🏆",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 197
+        },
+        {
+          "label": "Post 1-2",
+          "text": "US Open Saturday final pairing: Clark (-7) and Fitzpatrick (-3) off at 3:45 PM ET. McIlroy and Scheffler are 7-8 shots back but both made the cut. Shinnecock is unforgiving — anything can happen. #USOpen",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-01-us-open-round-3-clark-leads-shinnecock.html",
+        "headline": "US Open Round 3: Wyndham Clark Leads by Four at Shinnecock as Moving Day Begins",
+        "word_count": 640
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "US Open Round 3 — Clark's Lead\n\n**Image Concept 1A — Social (1080x1350)**\n- **Mode:** base_only\n- **Search term (imagn):** Wyndham Clark golf\n- **Overlay text:** \"US OPEN LEADER\" / \"-7 THROUGH 36\" / \"ROUND 3 UNDERWAY\"\n- **Style:** Blue/white USGA color palette, Shinnecock dunes feel\n\n**Image Concept 1B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Search term (imagn):** Shinnecock Hills US Open golf\n- **Overlay text:** \"US Open 2026: Clark Leads at Shinnecock\"\n- **Style:** Wide-angle coastal golf course shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "US Open Round 3 — Clark's Lead at Shinnecock\n**Sources:**\n- NBC Sports: \"U.S. Open 2026 Round 2 Recap: Wyndham Clark in control heading into weekend at Shinnecock\"\n- CBS Sports: \"US Open 2026 leaderboard: Wyndham Clark way in front\"\n- Golf.com: \"2026 U.S. Open Saturday tee times: Round 3 pairings\"\n- ESPN: \"Wyndham Clark sets Shinnecock record for U.S. Open with opening 64\"\n**Key Facts (Confidence Levels):**\n- [HIGH] US Open 2026: 126th championship at Shinnecock Hills Golf Club, Southampton NY\n- [HIGH] Wyndham Clark leads at -7 after 36 holes (entering Round 3)\n- [HIGH] Clark's opening 64 was second-lowest round in US Open history at Shinnecock (Tommy Fleetwood shot 63 in 2018 final round)\n- [HIGH] Clark holds 36-hole record at Shinnecock Hills\n- [HIGH] Clark leads by 4 shots over Matt Fitzpatrick (-3), Xander Schauffele (-3), Sam Stevens (-3), Tom Kim (-3)\n- [HIGH] Rory McIlroy at even par (0), 7 shots back\n- [HIGH] Scottie Scheffler at +1 (one over), approximately 8 shots back\n- [HIGH] Notable missed cuts: Bryson DeChambeau, Viktor Hovland, Jon Rahm, Shane Lowry\n- [HIGH] Final Round 3 pairing: Clark and Fitzpatrick at 3:45 PM ET\n- [HIGH] TV coverage: USA Network 10AM-12PM ET, NBC 12-8PM ET Saturday",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Scheffler's Grand Slam Bid — The World No. 1 and the Missing Major",
+      "tier": 1,
+      "status": "",
+      "angle": "Scottie Scheffler has won the Masters, the PGA Championship, and The Open Championship. The US Open is the one piece missing from a career Grand Slam. At Shinnecock Hills — the hardest course the USGA runs the Open on — Scheffler grinded out rounds despite trailing Clark by 7-8 shots. He played down the Grand Slam motivation publicly (\"it's never been a motivating factor for me\"), but the historical significance of this week is undeniable. A Scheffler win at Shinnecock would complete the set.",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Scottie Scheffler has the Masters. The PGA Championship. The Open Championship. The US Open at Shinnecock Hills is the one missing. He's 8 shots back through 36 holes — but he's still here. #USOpen",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen"
+          ],
+          "char_count": 197
+        },
+        {
+          "label": "Post 2-2",
+          "text": "\"The Grand Slam has never been a motivating factor for me.\" — Scottie Scheffler, before the US Open. Whether he says it out loud or not, history is on the line at Shinnecock this weekend. #USOpen",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen"
+          ],
+          "char_count": 195
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-02-scheffler-grand-slam-bid-us-open-2026.html",
+        "headline": "The Missing Major: Scottie Scheffler's Grand Slam Bid at Shinnecock Hills",
+        "word_count": 638
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler Grand Slam Bid\n\n**Image Concept 2A — Social (1080x1350)**\n- **Mode:** base_only\n- **Search term (imagn):** Scottie Scheffler golf US Open\n- **Overlay text:** \"THE MISSING MAJOR\" / \"MASTERS ✓ PGA ✓ THE OPEN ✓ US OPEN ?\"\n- **Style:** Dark dramatic background, gold trophy silhouette\n\n**Image Concept 2B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Search term (imagn):** Scottie Scheffler golf\n- **Overlay text:** \"Scheffler's Grand Slam Bid at Shinnecock\"\n- **Style:** Action shot, confident stance\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Scheffler's Grand Slam Bid\n**Sources:**\n- Sky Sports: \"US Open 2026: Scottie Scheffler plays down Grand Slam motivation\"\n- CBS Sports: \"Scottie Scheffler career grand slam pursuit / US Open Shinnecock Hills\"\n- NBC Sports: \"US Open preview: Scottie Scheffler's Grand Slam bid\"\n- ESPN: \"Top US Open storylines\"\n**Key Facts (Confidence Levels):**\n- [HIGH] Scheffler has won: Masters, PGA Championship, The Open Championship (British Open)\n- [HIGH] US Open is the only major Scheffler has not won\n- [HIGH] Scheffler played down Grand Slam motivation: \"The Grand Slam has never been a motivating factor for me\"\n- [MEDIUM] Scheffler at +1 (approximately) after 36 holes — approximately 8 shots off the lead\n- [HIGH] Scheffler was the pre-tournament favorite at +550 odds\n- [MEDIUM] Scheffler made the cut and remains in mathematical contention\n- [HIGH] CBS Sports confirmed Scheffler pursuing career Grand Slam at Shinnecock",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "KPMG Women's PGA Championship Preview — Korda Eyes Third Straight Major",
+      "tier": 2,
+      "status": "",
+      "angle": "The KPMG Women's PGA Championship begins Thursday June 25 at Hazeltine National Golf Club in Chaska, Minnesota. $12 million purse. Nelly Korda (World No. 1) won the 2026 US Women's Open in early June and is now targeting her third straight major. She was the 2021 KPMG champion — she knows this course. Hazeltine hosted the 2016 Ryder Cup and is a classic Minnesota championship layout.",
+      "posting_window": "8:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Nelly Korda won the US Women's Open 3 weeks ago. Now she's targeting the KPMG Women's PGA Championship (June 25-28 at Hazeltine). She won this event in 2021. Three straight majors? It's possible. #LPGA",
+          "posting_time": "8:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-kpmg-womens-pga-2026-korda-preview-hazeltine.html",
+        "headline": "KPMG Women's PGA Preview: Can Nelly Korda Win Three Straight Majors at Hazeltine?",
+        "word_count": 563
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "KPMG Women's PGA Preview\n\n**Image Concept 3A — Social (1080x1350)**\n- **Mode:** base_only\n- **Search term (imagn):** Nelly Korda LPGA golf\n- **Overlay text:** \"THREE STRAIGHT MAJORS?\" / \"KPMG WOMEN'S PGA JUNE 25-28\"\n- **Style:** Green/white color palette, Hazeltine fairways feel\n\n**Image Concept 3B — Article Hero (1200x630)**\n- **Mode:** base_only\n- **Search term (imagn):** Nelly Korda LPGA golf\n- **Overlay text:** \"KPMG Women's PGA 2026 Preview\"\n- **Style:** Trophy/celebration composition\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "KPMG Women's PGA Championship Preview\n**Sources:**\n- Just Women's Sports: \"Women's PGA Championship: Nelly Korda, Top-Ranked LPGA Stars Lead Hazeltine Field\"\n- Audacy: \"Grand Slam-seeking Nelly Korda highlights the field\"\n- LPGA.com: \"Field Announced for 2026 KPMG Women's PGA Championship\"\n- Golf Channel: \"How to watch the 2026 KPMG Women's PGA Championship\"\n**Key Facts (Confidence Levels):**\n- [HIGH] KPMG Women's PGA Championship: June 25-28, 2026\n- [HIGH] Venue: Hazeltine National Golf Club, Chaska, Minnesota\n- [HIGH] Purse: $12 million\n- [HIGH] Nelly Korda is World No. 1\n- [HIGH] Korda won 2026 US Women's Open (June 4-7)\n- [HIGH] Korda won 2021 KPMG Women's PGA Championship at Olympia Fields\n- [MEDIUM] Korda pursuing her third straight major if wins KPMG\n- [HIGH] Defending champion: Minjee Lee\n- [HIGH] 12 past champions in the field\n- [HIGH] Hazeltine hosted the 2016 Ryder Cup\n- [MEDIUM] Atthaya Thitikul ranked No. 2 in the world — key rival",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "LIV Golf Louisiana Cancellation — A Signal for the Tour's Future?",
+      "tier": 2,
+      "status": "",
+      "angle": "LIV Golf's Louisiana event in New Orleans — scheduled for June 25-28 at City Park — has been cancelled/postponed. Louisiana paid $3.2 million under the contract; LIV is refunding most of it but keeping $2 million already spent on City Park upgrades. LIV CEO Scott O'Neil gave unclear answers this week about remaining 2026 tour stops. Jon Rahm leads LIV standings (928.58 points) with Bryson DeChambeau second (644.40). Tyrrell Hatton won LIV Andalucía in early June.",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LIV Golf's Louisiana event (New Orleans, June 25-28) has been cancelled. Louisiana paid $3.2M under the contract. LIV's CEO gave unclear answers this week about remaining 2026 tour stops. The questions keep growing. #LIVGolf",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-liv-golf-louisiana-cancellation-tour-future.html",
+        "headline": "LIV Golf's Louisiana Cancellation Raises Fresh Questions About the Tour's 2026 Direction",
+        "word_count": 611
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Louisiana\n\n**Image Concept 4A — Social (1080x1350)**\n- **Mode:** base_only\n- **Search term (imagn):** Jon Rahm LIV Golf\n- **Overlay text:** \"CANCELLED\" / \"LIV LOUISIANA OFF THE CALENDAR\"\n- **Style:** Muted/grey palette, question mark visual element\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Louisiana Cancellation\n**Sources:**\n- NOLA.com: \"New Orleans LIV Golf tournament set for City Park in June is canceled\"\n- Golf Monthly: \"LIV Golf Louisiana Likely To Be Postponed Over Multiple Concerns\"\n- Sky Sports: \"LIV Golf to postpone Louisiana event scheduled for end of June\"\n**Key Facts (Confidence Levels):**\n- [HIGH] LIV Golf Louisiana event (City Park, New Orleans) cancelled/postponed\n- [HIGH] Event was scheduled June 25-28\n- [HIGH] Louisiana paid $3.2 million under contract\n- [MEDIUM] LIV retaining $2 million already invested in City Park upgrades; returning the rest\n- [MEDIUM] LIV CEO Scott O'Neil gave unclear answers about remaining 2026 tour stops\n- [MEDIUM] Cancellation related partly to World Cup scheduling conflict\n- [HIGH] 2026 LIV standings: Jon Rahm leads (928.58 pts), Bryson DeChambeau 2nd (644.40 pts), Joaquin Niemann 3rd (344.66 pts), Tyrrell Hatton 4th (332.93 pts)\n- [HIGH] Tyrrell Hatton won LIV Golf Andalucía in early June at 11-under",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Meijer LPGA Classic — Yan Liu Leads, First Tour Win on the Line",
+      "tier": 2,
+      "status": "",
+      "angle": "The Meijer LPGA Classic for Simply Give at Blythefield Country Club in Michigan is in its third round today (June 18-21). Yan Liu, winless on the LPGA Tour, shot a 6-under 66 to lead after Round 2. Tournament continues today. The event has a rich history as one of the LPGA's fan-favorite stops in Michigan.",
+      "posting_window": "3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Yan Liu leads the Meijer LPGA Classic after Round 2 with a 6-under 66. She's still searching for her first LPGA Tour win. Round 3 is underway today in Michigan. 🏌️‍♀️ #LPGA",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA"
+          ],
+          "char_count": 172
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-05-meijer-lpga-classic-yan-liu-leads.html",
+        "headline": "Yan Liu Chases Her First LPGA Win at the Meijer LPGA Classic",
+        "word_count": 540
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Meijer LPGA Classic\n\n**Image Concept 5A — Social (1080x1350)**\n- **Mode:** base_only\n- **Search term (imagn):** LPGA Tour golf women\n- **Overlay text:** \"LEADING THE WAY\" / \"MEIJER LPGA CLASSIC ROUND 3\"\n- **Style:** Michigan green and white, Michigan outdoor feel"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Meijer LPGA Classic\n**Sources:**\n- LPGA Tour reports / search results on June 2026 LPGA news\n**Key Facts (Confidence Levels):**\n- [HIGH] Meijer LPGA Classic for Simply Give at Blythefield Country Club, Michigan\n- [HIGH] Tournament dates: June 18-21, 2026\n- [HIGH] After Round 2, Yan Liu leads with a 6-under 66 in her second round\n- [MEDIUM] Yan Liu is winless on the LPGA Tour\n- [MEDIUM] Tournament in Round 3 today (June 20)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

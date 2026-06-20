@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-20
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-20 | T1 | US Open Round 3 — Clark Leads at -7, 4 Shots Clear at Shinnecock Hills | X, FB, Article | FOLLOW UP |
+| 2026-06-20 | T1 | Scheffler Grand Slam Bid — Missing Major at Shinnecock, 8 Shots Back | X, FB, Article | FOLLOW UP |
+| 2026-06-20 | T2 | KPMG Women's PGA Preview — Korda Eyes Third Straight Major at Hazeltine | X, FB, Article | NEW |
+| 2026-06-20 | T2 | LIV Golf Louisiana Cancellation — $3.2M Contract, CEO Unclear on 2026 Future | X, FB, Article | NEW |
+| 2026-06-20 | T2 | Meijer LPGA Classic — Yan Liu Leads Seeking First LPGA Win | X, FB, Article | NEW |
+
+### STORY 1: US Open Round 3 — Clark Leading
+- **Tier:** 1
+- **Category:** US Open / Major Championship
+- **Key facts:** Clark -7 leads by 4 entering Round 3; opening 64 second-lowest Shinnecock US Open history (Fleetwood 63 in 2018 only lower); 36-hole Shinnecock record; pack at -3: Fitzpatrick/Schauffele/Stevens/Kim; McIlroy even (+0)/Scheffler +1; missed cut: DeChambeau/Hovland/Rahm/Lowry; Clark-Fitzpatrick final pairing 3:45 PM ET; NBC 12-8 PM ET
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 3 results tonight; Sunday final round
+
+### STORY 2: Scheffler Grand Slam Bid
+- **Tier:** 1
+- **Category:** US Open / Career Milestone
+- **Key facts:** Scheffler has Masters/PGA/The Open; US Open missing; +1 after 36 holes (8 shots back); "Grand Slam never been motivating factor for me"; was pre-tournament favorite +550 odds; made cut; mathematical chance still exists
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler wins/closes gap Sunday; Grand Slam complete
+
+### STORY 3: KPMG Women's PGA Preview
+- **Tier:** 2
+- **Category:** LPGA / Women's Major Preview
+- **Key facts:** June 25-28 Hazeltine National Golf Club Chaska MN; $12M purse; Korda World No. 1 won US Women's Open June 4-7; won 2021 KPMG at Olympia Fields; defending champ Minjee Lee; Thitikul World No. 2; 12 past champs; hosted 2016 Ryder Cup
+- **Status:** NEW
+- **Follow-up ideas:** KPMG first round results June 25-26
+
+### STORY 4: LIV Golf Louisiana Cancellation
+- **Tier:** 2
+- **Category:** LIV Golf / Tour News
+- **Key facts:** New Orleans City Park June 25-28 cancelled; Louisiana paid $3.2M; LIV keeping $2M City Park upgrades; CEO O'Neil unclear on remaining 2026 stops; Rahm leads standings 928.58 pts; Hatton won Andalucía June (11-under)
+- **Status:** NEW
+- **Follow-up ideas:** Remaining LIV 2026 events confirmed/cancelled; rescheduled Louisiana date
+
+### STORY 5: Meijer LPGA Classic
+- **Tier:** 2
+- **Category:** LPGA Tour
+- **Key facts:** June 18-21 Blythefield Country Club Michigan; Yan Liu leads after Round 2 (6-under 66); winless on LPGA Tour; Round 3 underway June 20
+- **Status:** NEW
+- **Follow-up ideas:** Liu wins first LPGA title Sunday June 21
+
 ## 2026-06-18
 
 | Date | Tier | Story | Platforms | Status |

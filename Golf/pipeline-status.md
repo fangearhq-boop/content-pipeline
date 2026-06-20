@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-19
+- **Date**: 2026-06-20
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-20
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-06-20.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-20.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-20/review-dashboard.html (22 items)
+- **Notes:** US Open R3 at Shinnecock — Clark -7 leads 4 shots (64 in R1 second-lowest Shinnecock history/36-hole record)/Fitzpatrick+Schauffele+Stevens+Kim at -3/McIlroy even/Scheffler +1/missed cuts DeChambeau+Hovland+Rahm; Scheffler Grand Slam bid (Masters+PGA+Open won, US Open missing, 8 shots back, still in field); KPMG Women's PGA preview June 25-28 Hazeltine ($12M) Korda eyes 3rd straight major; LIV Golf Louisiana event cancelled ($3.2M contract, CEO unclear on remaining stops); Meijer LPGA Classic Yan Liu leads seeking 1st LPGA win
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-19
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
