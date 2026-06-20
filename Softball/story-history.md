@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 20, 2026
+
+### Story 1: Beachum Watch — Day 13, Two Days Left
+- **Date:** 2026-06-20
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 19 — Day 12 uncommitted, visited Florida)
+- **Angle:** Jaysoni Beachum (.417 BA / 16 HR / 66 RBI / .549 OBP / career 37 HR / 180 RBI / 202 H) still uncommitted on Day 13 of 15. Portal closes June 22 — two days left. Softball America No. 1. Visited Florida Gators. One year of eligibility remaining. The clock is running.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment announcement (June 22 deadline)
+  - Impact analysis at destination program
+
+### Story 2: Ella Dodge Commits to FSU — Tennessee Transfer
+- **Date:** 2026-06-20
+- **Tier:** 1
+- **Classification:** NEW STORY (commitment announced June 19)
+- **Angle:** Tennessee infielder Ella Dodge commits to Florida State. No. 10 overall in portal / No. 4 middle infielder (Softball America). 2026 season: .285 BA / 49 H / 44 runs / 46 RBI / 11 HR in 64 starts. Career: .262 BA / 18 HR / 20 doubles. Redshirt junior with two years remaining. Florida native from Bradenton (Lakewood Ranch) returning home.
+- **Content Produced:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Dodge impact preview for 2027 FSU
+  - FSU roster construction with Dodge + remaining needs
+
+### Story 3: FSU Rebuilds After Losing Two Stars
+- **Date:** 2026-06-20
+- **Tier:** 2
+- **Classification:** NEW STORY (analysis angle — Beachum + Torres both leaving, Dodge arriving)
+- **Angle:** Florida State lost Torres (D1 POY, .530 BA, to Texas) and is losing Beachum (No. 1 transfer). Now adding Ella Dodge (No. 10 overall). Not a one-for-one replacement — a foundation. FSU rebuild analysis: what they lost, what they gained, what 2027 looks like.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - FSU additional portal additions
+  - 2027 FSU preseason outlook
+
+### Story 4: Who Won the 2026 Transfer Portal?
+- **Date:** 2026-06-20
+- **Tier:** 2
+- **Classification:** NEW STORY (analysis — portal closing June 22, best time for winner analysis)
+- **Angle:** Portal closes in two days. Texas (Torres + Swan + Lincoln + Altmeyer) vs. Texas Tech (Polar + Heavener + Pickering, SA No. 1 class, from 61-8 runner-up). Arkansas (Wetteland + Yarnell) as dark-horse winner. Tennessee adds Shelton and retains Mardjetko. Full leaderboard breakdown.
+- **Content Produced:** Article (article-04), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - 2027 preseason rankings
+  - Portal winner validation as fall practice reports emerge
+
+### Story 5: Portal Tracker — Day 13 of 15
+- **Date:** 2026-06-20
+- **Tier:** 3
+- **Classification:** FOLLOW UP (ongoing tracker)
+- **Angle:** Day 13 of 15. Two days to June 22 close. Committed: Torres (TX), Swan (TX), Lincoln (TX), Altmeyer (TX), Polar (TTU), Heavener (TTU), Pickering (TTU), Hartley (OSU), Wetteland (Ark), Yarnell (Ark), Azua (A&M), Plumlee (Ala), Shelton (Tenn), Dodge (FSU). Still out: Beachum (No. 1). 120 total entries, 79+ committed (66%).
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment (imminent)
+  - Full portal recap after June 22 close
+
+---
+
 ## June 19, 2026
 
 ### Story 1: Isa Torres Commits to Texas — 'I'm Coming Home'

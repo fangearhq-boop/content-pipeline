@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-20
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (prior session), brief (5 stories), research notes, story analysis, X posts (7; format fix applied **Text Post N — Type** → **Post N** for compile parsing; 2 content tweets trimmed Story 1 P1 ~316→228 chars, Story 5 P1 ~344→236 chars; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (72 claims HIGH/MEDIUM, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 5 stories FB, 5 articles, 27 items), dashboard (27 items), dashboard published to ilovesoftball-dashboards, PostPlanner exports (0 posts — no scheduling; expected), WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). X posts header format fix required (**Text Post N — Type** → **Post N**). Pull --rebase required after detached HEAD (standard). PostPlanner 0 posts (no scheduling — expected).
+- **Key Stories**: Beachum Watch Day 13/two days left/still uncommitted/.417/16HR/66RBI/portal closes June 22 (Tier 1 FOLLOW UP), Ella Dodge commits to FSU from Tennessee/No. 10 overall/No. 4 MI/.285 BA/11 HR/Florida native returning home (Tier 1 NEW), FSU rebuilds after Torres+Beachum/Dodge as foundation (Tier 2 NEW analysis), Who won 2026 transfer portal/Texas vs Texas Tech vs Arkansas (Tier 2 NEW), Portal tracker Day 13 of 15/Dodge committed/Beachum last elite name (Tier 3 FOLLOW UP)
+
+
+## Last Run
 - **Date**: 2026-06-19
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 3 char violations fixed Story 1 T2 282→251; Story 3 T1 307→276; Story 5 T1 298→251; 0 after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (61 claims, 0 char violations after fix, consistency clean), compile (5 stories, 7 tweets compiled, 0 FB parsed — known heading format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts X, 7 TOBI posts). WordPress publish blocked (403 proxy sandbox — known). Dashboard published attempt (403 PAT for content-dashboards repo — known). Content pushed to content-pipeline.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
