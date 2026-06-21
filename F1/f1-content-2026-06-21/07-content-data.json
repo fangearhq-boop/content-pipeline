@@ -1,0 +1,264 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-21",
+  "compiled_at": "2026-06-21T11:19:54.104187+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austrian GP Preview — Hamilton vs. Antonelli, 5 Days to Red Bull Ring",
+      "tier": 1,
+      "status": "",
+      "angle": "Five days until the Austrian Grand Prix (June 26-28, Red Bull Ring, Spielberg). Hamilton — fresh off his first Ferrari win at Barcelona — arrives 41 points behind championship leader Kimi Antonelli. This is Antonelli's opportunity for a bounce-back after the Barcelona DNF. Verstappen returns to his home circuit, desperate for relevance after Red Bull's catastrophic start to the 2026 regulations. Race is Sunday June 28, lights out 3:00 PM CEST. 71 laps. 10 corners.",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Austrian GP — 5 days away. Hamilton trails Antonelli by 41 points. Verstappen at his home circuit with a new update. Russell lurking at P3. Sunday June 28, Red Bull Ring. Can Ferrari do it again? #AustrianGP #F1",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#F1"
+          ],
+          "char_count": 211
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Austrian GP preview: Antonelli needs a bounce-back after the Barcelona DNF. Hamilton needs a win. Verstappen needs a miracle. 71 laps at the Red Bull Ring on Sunday. The 2026 title race is alive. #F1 #AustrianGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-austrian-gp-2026-preview-hamilton-antonelli-red-bull-ring.html",
+        "headline": "Austrian GP 2026 Preview: Hamilton Eyes Another Win as Title Race Heads to Red Bull Ring",
+        "word_count": 621
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Preview\n\n**Concept 1A — Social (1080x1350)**\n- Search terms: \"Lewis Hamilton Ferrari F1\"\n- Text overlay: \"AUSTRIAN GP\" (Bebas Neue, white) / \"5 DAYS AWAY\" (gold) / \"HAMILTON CHASES ANTONELLI\" (orange)\n- Dark midnight overlay at 45% opacity\n- Mood: race weekend countdown, urgent\n\n**Concept 1B — Social (1080x1350)**\n- Search terms: \"Red Bull Ring Austria F1 circuit\" (aerial/landscape)\n- Text overlay: \"RED BULL RING\" / \"JUNE 26-28\" / \"THE TITLE RACE CONTINUES\"\n- Mood: scenic, championship moment\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austrian GP Preview\n**Key Facts (Verified):**\n- Austrian Grand Prix: June 26-28, 2026, Red Bull Ring, Spielberg, Styria, Austria [HIGH]\n- Race: Sunday June 28, lights out 3:00 PM CEST [HIGH]\n- Circuit length: 4.318 km (2.683 miles), 10 corners, 71 laps [HIGH]\n- Championship standings after Barcelona: Antonelli 156 pts, Hamilton 115 pts, Russell 106 pts, Leclerc 75 pts [HIGH]\n- Gap: Antonelli leads Hamilton by 41 points [HIGH]\n- 15 races remaining after Barcelona [HIGH]\n- Hamilton won Barcelona — first Ferrari win, his 106th career Grand Prix victory [HIGH]\n- Antonelli retired from Barcelona with technical failure (DNF) [HIGH]\n- Red Bull Ring: Verstappen's home circuit (races in Austria) [HIGH]\n**Sources:** Sky Sports, Little Big Red Dot, StatsNiper, Formula1.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Ferrari Told to Prioritize Hamilton — Villeneuve Backs Bold Strategy for Title Shot",
+      "tier": 1,
+      "status": "",
+      "angle": "Jacques Villeneuve publicly called out Ferrari: the Scuderia need to focus all resources on Lewis Hamilton to give themselves a realistic chance of winning the 2026 F1 title. Hamilton is 41 points back with 15 races remaining — mathematically alive. Charles Leclerc is currently P4 in the standings. The question is whether Ferrari will make the politically charged decision to sacrifice Leclerc's interests for Hamilton's title push.",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Jacques Villeneuve says Ferrari must PRIORITIZE Hamilton to win the 2026 title. Leclerc is P4, 81 points back. Hamilton is 41 behind Antonelli with 15 races left. Does Maranello have the nerve to do it? #Ferrari #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Ferrari",
+            "#F1"
+          ],
+          "char_count": 215
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Ferrari's 2026 dilemma: give Hamilton team orders and hurt Leclerc's season, or race each other and hand the title to Antonelli. Villeneuve says the answer is obvious. What do you think? #Ferrari #F1 #Hamilton",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Ferrari",
+            "#F1",
+            "#Hamilton"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-ferrari-prioritize-hamilton-villeneuve-2026-title.html",
+        "headline": "Ferrari Must Prioritize Hamilton for 2026 Title, Says Villeneuve — Can Maranello Make the Call?",
+        "word_count": 591
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Prioritize Hamilton\n\n**Concept 2A — Social (1080x1350)**\n- Search terms: \"Lewis Hamilton Ferrari F1 2026\"\n- Text overlay: \"FERRARI'S CHOICE\" / \"PRIORITIZE HAMILTON?\" / \"VILLENEUVE SAYS YES\"\n- Mood: bold, decision-point\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ferrari Prioritize Hamilton\n**Key Facts (Verified):**\n- Jacques Villeneuve publicly stated Ferrari need to prioritize Lewis Hamilton for the 2026 F1 title [HIGH - Sky Sports]\n- Hamilton is 41 points behind Antonelli with 15 races remaining [HIGH]\n- Hamilton \"not ruling out\" 2026 F1 title win after Barcelona per Sky Sports [HIGH]\n- Charles Leclerc is currently P4 with 75 points [HIGH]\n- Ferrari won Barcelona with Hamilton; Leclerc had \"strong comeback\" at Canada per Ferrari [MEDIUM]\n- Decision to prioritize Hamilton over Leclerc would be \"politically charged\" — team with two drivers [MEDIUM - analysis]\n- Mercedes (through Hamilton's win) \"counts him in\" per Sky Sports [MEDIUM]\n**Sources:** Sky Sports, Motorsport.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Red Bull's Austria Overhaul — Major Update Package at Verstappen's Home Race",
+      "tier": 2,
+      "status": "",
+      "angle": "Red Bull will arrive at Austria with a significantly lighter car — the RB22 has undergone a \"much-discussed\" major update that includes weight reduction. Verstappen has already tested the update in preparation. Red Bull has been historically dominant at the Red Bull Ring (6 wins in 6 years 2018–2023). Team boss Mekies previously warned it \"won't be enough for victory,\" but Austria is the best circuit for a Verstappen reset.",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Red Bull bringing a MAJOR update to Austria — significantly lighter RB22 that Verstappen has already tested. Home race. Historic circuit. 6 wins in 6 years at Red Bull Ring (2018–2023). They need this badly. #RedBull #F1",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedBull",
+            "#F1"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-red-bull-austria-major-update-verstappen-home-race.html",
+        "headline": "Red Bull's Major Update Package Arrives at Austria — Verstappen Tested It, Can It Deliver?",
+        "word_count": 567
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Bull Austria Update\n\n**Concept 3A — Social (1080x1350)**\n- Search terms: \"Max Verstappen Red Bull Racing\"\n- Text overlay: \"RED BULL MAJOR UPDATE\" / \"LIGHTER CAR. HOME RACE.\" / \"AUSTRIA JUNE 28\"\n- Mood: technical, anticipation\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Red Bull Austria Update\n**Key Facts (Verified):**\n- Red Bull RB22 receives major update at Austria — significant weight reduction [HIGH - GPblog.com, readmotorsport.com]\n- Update described as \"much-discussed\" in F1 media [HIGH]\n- Verstappen has already tested the key update in preparation [HIGH - GPblog.com]\n- Red Bull's Laurent Mekies: update \"won't be enough for victory\" (stated pre-Austria) [HIGH]\n- Red Bull Ring historical record 2018-2023: 6 Austrian GP wins in 6 consecutive years [HIGH]\n- Red Bull Ring is Verstappen's best circuit historically [HIGH]\n- Red Bull has been uncompetitive under 2026 technical regulations [HIGH]\n**Sources:** GPblog.com, Readmotorsport.com, ESPN",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen's Red Bull Future — No Pledge After Leadership Talks",
+      "tier": 2,
+      "status": "",
+      "angle": "Max Verstappen met with Red Bull GmbH leadership and was urged to commit to the team beyond 2026 — but has made no such pledge. His exit clause allows him to leave if not in the top 2 of the championship by the end of July. He's currently P7 with 55 points — 100 points behind Antonelli. The Austrian GP is his home race (races in Austria, lives in Monaco) — a strong result could shift the narrative.",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Verstappen met with Red Bull leadership and was asked to commit beyond 2026. He made NO pledge. He's P7 with 55 pts. Exit clause could trigger at end of July. His home race is Sunday. The pressure is immense. #F1 #Verstappen",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-verstappen-red-bull-future-no-pledge-exit-clause.html",
+        "headline": "Verstappen Makes No Pledge to Stay at Red Bull After Leadership Talks — Exit Clause Looms",
+        "word_count": 624
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Red Bull Future\n\n**Concept 4A — Social (1080x1350)**\n- Search terms: \"Max Verstappen Red Bull Racing\"\n- Text overlay: \"MAX'S FUTURE\" / \"NO PLEDGE TO STAY\" / \"EXIT CLAUSE: JULY\" \n- Mood: dramatic, uncertain\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Red Bull Future\n**Key Facts (Verified):**\n- Verstappen met with Red Bull GmbH leadership — was urged to commit beyond 2026 [HIGH]\n- Has made NO pledge to stay with Red Bull beyond 2026 [HIGH]\n- Exit clause: can leave if not in top 2 of championship by end of July [HIGH - from previous coverage]\n- Verstappen current standings: P7, approximately 55 points [HIGH - from prior coverage]\n- Antonelli leads with 156 pts — gap to Verstappen approximately 101 points [HIGH]\n- Verstappen confirmed for Austrian GP weekend [HIGH - readmotorsport.com headline: \"Max Verstappen Austrian GP Weekend Confirmed\"]\n- Verstappen wearing orange helmet for Austrian GP per GPFans [HIGH]\n- Red Bull Ring in Spielberg is closest circuit to Verstappen's Austrian residence [HIGH]\n**Sources:** GPFans, Readmotorsport.com, multiple outlets",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Austrian GP Stakes — What Each Contender Needs From Race 8",
+      "tier": 2,
+      "status": "",
+      "angle": "The Austrian GP is Race 8 of the 2026 season. Antonelli (156 pts) needs to stabilize after the Barcelona DNF. Hamilton (115 pts) needs another podium — ideally a win — to keep the gap manageable. Russell (106 pts) is a dark horse. Leclerc (75 pts) needs to score big to stay relevant. Verstappen (55 pts) needs a miracle or risks his exit clause triggering. Stakes have never been higher at the Red Bull Ring.",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Austrian GP stakes: Antonelli needs a win to stay safe. Hamilton needs a podium to stay alive. Verstappen needs a top-5 to stop the exit clause clock. Leclerc needs big points. Sunday June 28. #F1 #AustrianGP",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-austrian-gp-stakes-championship-scorecard-2026.html",
+        "headline": "Austrian GP Stakes: What Every Championship Contender Needs From Race 8 at the Red Bull Ring",
+        "word_count": 738
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Stakes\n\n**Concept 5A — Social (1080x1350)**\n- Search terms: \"Kimi Antonelli Mercedes F1\"\n- Text overlay: \"AUSTRIAN GP STAKES\" / \"ANTONELLI VS. HAMILTON\" / \"SUNDAY JUNE 28\"\n- Mood: championship drama"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austrian GP Stakes\n**Key Facts (Verified):**\n- Austrian GP is Race 8 of the 2026 F1 season [HIGH]\n- Championship standings: Antonelli 156, Hamilton 115, Russell 106, Leclerc 75, Verstappen ~55 [HIGH]\n- Antonelli had DNF at Barcelona — first of 2026 season [HIGH]\n- 15 races remaining after Austrian GP [HIGH - 22 race season, 7 completed after Barcelona]\n- Red Bull Ring historically favors aerodynamically efficient cars, high-speed corners [HIGH]\n- Austria is typically quick for Ferrari based on 2025 performance patterns [MEDIUM]\n- Mercedes needs strong result to protect Antonelli's lead [MEDIUM]\n**Sources:** Pit Debrief, Formula1.com, Sky Sports",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

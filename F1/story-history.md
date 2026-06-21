@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-21
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-21 | T1 | Austrian GP Preview — Hamilton vs. Antonelli, 5 Days to Red Bull Ring | X, FB, Article | NEW |
+| 2026-06-21 | T1 | Ferrari Told to Prioritize Hamilton — Villeneuve Backs Bold Strategy for Title Shot | X, FB, Article | NEW |
+| 2026-06-21 | T2 | Red Bull Austria Overhaul — Major Update Package for Verstappen's Home Race | X, FB, Article | FOLLOW UP |
+| 2026-06-21 | T2 | Verstappen's Red Bull Future — No Pledge After Leadership Talks, Exit Clause Looms | X, FB, Article | FOLLOW UP |
+| 2026-06-21 | T2 | Austrian GP Stakes — Championship Scorecard for Each Contender | X, FB, Article | NEW |
+
+### STORY 1: Austrian GP Preview
+- **Tier:** 1
+- **Category:** F1 Race Preview
+- **Key facts:** Race June 26-28 Red Bull Ring Spielberg; 71 laps 4.318km 10 corners; lights out 3:00 PM CEST June 28; standings Antonelli 156/Hamilton 115/Russell 106/Leclerc 75; gap 41 pts; 15 races remaining; Verstappen home circuit; Antonelli bounce-back after Barcelona DNF
+- **Status:** NEW
+- **Follow-up ideas:** FP1/FP2 session reports; qualifying; race recap
+
+### STORY 2: Ferrari Prioritize Hamilton
+- **Tier:** 1
+- **Category:** F1 Team Strategy
+- **Key facts:** Villeneuve publicly stated Ferrari must prioritize Hamilton for 2026 title; Hamilton 41 pts behind Antonelli with 15 races left; Leclerc P4 at 75 pts (81 behind Antonelli); Hamilton "not ruling out" title win after Barcelona; Sky Sports notes Mercedes "counts him in"; Ferrari team orders history
+- **Status:** NEW
+- **Follow-up ideas:** Ferrari team order decision at Austria; Leclerc reaction
+
+### STORY 3: Red Bull Austria Update
+- **Tier:** 2
+- **Category:** F1 Technical
+- **Key facts:** RB22 significantly lighter for Austrian GP; Verstappen tested update in preparation; Mekies: "won't be enough for victory"; Red Bull Ring history — 6 wins in 6 years 2018-2023; update targeting weight reduction; circuit favors aero efficiency
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Update performance in FP1/FP2
+
+### STORY 4: Verstappen Red Bull Future
+- **Tier:** 2
+- **Category:** F1 Driver News
+- **Key facts:** Verstappen met Red Bull GmbH leadership; urged to commit beyond 2026; made NO pledge; exit clause if not top 2 by end of July; Verstappen P7 ~55 pts; confirmed for Austrian GP; wearing orange helmet; home race motivation
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen result at Austria; exit clause deadline update
+
+### STORY 5: Austrian GP Stakes
+- **Tier:** 2
+- **Category:** F1 Championship Analysis
+- **Key facts:** Race 8 of 2026; Antonelli needs win to stabilize; Hamilton needs win or podium to stay alive; Russell dark horse (P3 106 pts); Leclerc needs big score for political reasons at Ferrari; Verstappen needs top-5 or exit clause accelerates
+- **Status:** NEW
+- **Follow-up ideas:** Austrian GP race result; championship picture post-Austria
+
 ## 2026-06-20
 
 | Date | Tier | Story | Platforms | Status |
