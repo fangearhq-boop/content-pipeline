@@ -1,0 +1,269 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-21",
+  "compiled_at": "2026-06-21T12:18:28.481361+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Tiafoe Wins Halle Open — All-American Final, 4th Career Title",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Frances Tiafoe defeats Taylor Fritz 6-4, 7-5 to win the Halle ATP 500.\n\n4th career title. 2nd on grass. First all-American final in 33 years of Halle. 🎾 #Halle2026 #ATP [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Halle2026",
+            "#ATP"
+          ],
+          "char_count": 174
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Tiafoe def. Altmaier 6-1, 6-3 in the SF. Fritz ended Zverev's 10-match win streak to get there.\n\nThen Tiafoe beat Fritz in straight sets. That's Wimbledon form. 🎾 #Halle2026 #Wimbledon [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Halle2026",
+            "#Wimbledon"
+          ],
+          "char_count": 190
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-tiafoe-wins-halle-2026.html",
+        "headline": "Frances Tiafoe Claims Halle Open Title in Historic All-American Final",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Tiafoe Wins Halle Open\n\n#### Image 1A — Social (1080x1350)\n**Type:** Player portrait / celebration\n**Search Terms:** Frances Tiafoe\n**Credit:** (USA TODAY Sports Images)\n**Notes:** Arms-raised celebration, grass court background\n\n#### Image 1B — Article Hero (1200x630)\n**Type:** Match action / player\n**Search Terms:** Frances Tiafoe\n**Credit:** (USA TODAY Sports Images)\n**Notes:** Serving or mid-point action on grass\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Tiafoe Wins Halle Open\n**Sources consulted:**\n- atptour.com/en/news/zverev-fritz-halle-2026-saturday\n- en.tennistemple.com/match/fritz-tiafoe-halle-2026/9469211/\n- tennismajors.com/atp/fritz-fells-shelton-and-zverev-in-24-hours-to-reach-the-halle-final\n- thestar.com.my (Fritz vs Zverev coverage)\n- en.tennistemple.com/video/fritz-defeats-zverev-and-tiafoe-downs-altmaier-in/\n**Verified Facts:**\n- Frances Tiafoe def. Taylor Fritz 6-4, 7-5 in Halle final [HIGH — confirmed via multiple search summaries and TennisTemple match page]\n- All-American final — first in 33 editions of Halle tournament [HIGH — confirmed via atptour.com/search summary]\n- Fritz def. Zverev 6-7(4), 6-4, 7-5 in SF [HIGH — atptour.com article confirmed]\n- Fritz's win ended Zverev's 10-match winning streak [HIGH — atptour.com article]\n- Fritz has won 7 consecutive matches vs Zverev [HIGH — multiple sources confirm]\n- Tiafoe def. Daniel Altmaier (wildcard) 6-1, 6-3 in SF [HIGH — confirmed via search]\n- Tiafoe's career title count: 4th ATP title [HIGH — search summary from multiple sources]\n- Tiafoe's previous titles: Delray Beach 2018 (hard), Houston 2023 (clay), Stuttgart 2023 (grass) [HIGH — per search result enumerating titles]\n- Halle 2026 is Tiafoe's 2nd career grass title [HIGH — inferred from Stuttgart 2023 being grass; confirmed]\n- Halle 2026 is Tiafoe's 1st ATP 500 title [HIGH — Stuttgart was ATP 250; Halle is ATP 500]\n- Tiafoe is 28 years old [HIGH — per ATP Tour profile reference in search]\n**Notes / Low-Confidence items:**\n- Exact post-match quotes from Tiafoe: NOT VERIFIED — do not include\n- Tiafoe's ranking after Halle win: NOT VERIFIED — do not state precise ranking\n- Whether this is an American record at Halle: MEDIUM — don't overstate",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Queen's Club Final Day — Paul vs Cerundolo, Correction on June 20 SF",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Tommy Paul's Queen's Club winning streak is now 9 matches.\n\nThe 2024 champion faces Francisco Cerundolo today — Cerundolo's first ATP 500 final. H2H: Cerundolo leads 5-2. 🎾 #QueensClub2026 #HSBC [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#QueensClub2026",
+            "#HSBC"
+          ],
+          "char_count": 200
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Francisco Cerundolo def. Nakashima 6-7(5), 6-3, 6-4 to reach his first ever ATP 500 final.\n\nThe Argentine has beaten Paul at Queen's before. Sunday title match is live now. 🎾 #QueensClub2026 #GrassCourt [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#QueensClub2026",
+            "#GrassCourt"
+          ],
+          "char_count": 208
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-queens-club-final-paul-cerundolo.html",
+        "headline": "Queen's Club Final: Paul's Nine-Match Streak Meets Cerundolo's First ATP 500 Final",
+        "word_count": 503
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Queen's Club Final\n\n#### Image 2A — Social (1080x1350)\n**Type:** Player action\n**Search Terms:** Tommy Paul\n**Credit:** (USA TODAY Sports Images)\n**Notes:** Paul in action, grass preferred\n\n#### Image 2B — Article Hero (1200x630)\n**Type:** Player portrait\n**Search Terms:** Francisco Cerundolo\n**Credit:** (Imagn Images)\n**Notes:** Cerundolo groundstroke or serve\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Queen's Club Final — Paul vs Cerundolo + Correction\n**Sources consulted:**\n- atptour.com/en/news/queens-club-2026-sf-report-saturday\n- atptour.com/en/news/queens-club-2026-results\n- lta.org.uk/fan-zone/international/hsbc-championships/news/2026/2026-results-updates/\n- france24.com/en/live-news/20260620-cerundolo-sees-off-nakashima-to-reach-queens-final\n- tennisnow.com/cerundolo-reaches-milestone-queens-final/\n**Verified Facts:**\n- Tommy Paul def. Ugo Humbert 6-3, 6-3 in SF [HIGH — multiple sources including ATP Tour official; corrects June 20 pipeline error]\n- Francisco Cerundolo def. Brandon Nakashima 6-7(5), 6-3, 6-4 in SF [HIGH — ATP Tour confirmed]\n- Paul's Queen's Club winning streak extended to 9 matches after SF win [HIGH — per search result \"Paul stretched his Queen's Club winning streak to nine\"]\n- Tommy Paul is the 2024 Queen's Club champion [HIGH — established previously]\n- Cerundolo's first ATP 500 final [HIGH — tennisnow.com confirms \"milestone Queen's final\"]\n- H2H Cerundolo vs Paul: Cerundolo leads 5-2 [HIGH — sportskeeda.com preview]\n- Paul beat Cerundolo at Queen's 2022 [HIGH — per sportskeeda.com H2H breakdown]\n- Cerundolo won their Queen's Club 2023 match and Eastbourne 2023 final [HIGH — per sportskeeda.com]\n- Final on Sunday June 21 [HIGH — all sources confirm]\n- CORRECTION: June 20 pipeline stated \"Humbert def. Paul 7-5, 6-3\" — this was INCORRECT [HIGH — actual result confirmed Paul def. Humbert 6-3, 6-3 per ATP Tour official records]\n**Notes / Low-Confidence items:**\n- Final result (not yet available at pipeline creation): NOT VERIFIED — write as preview/today's match\n- Exact quote from Paul or Cerundolo: NOT VERIFIED — do not include",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Berlin and Nottingham WTA Finals — Rain Delays and Title Chases",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Two WTA grass finals today:\n\nBerlin: Pegula (defending) vs Noskova (0 sets dropped all week) — rain delayed.\nNottingham: Navarro vs Bouzkova — first career meeting.\n\n🎾 #Berlin2026 #Nottingham2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Berlin2026",
+            "#Nottingham2026"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-berlin-nottingham-wta-finals.html",
+        "headline": "Berlin and Nottingham WTA Finals: Pegula Defends, Navarro Pursues, Rain Intervenes",
+        "word_count": 453
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Berlin and Nottingham WTA Finals\n\n#### Image 3A — Social (1080x1350)\n**Type:** Player action\n**Search Terms:** Jessica Pegula\n**Credit:** (USA TODAY Sports Images)\n**Notes:** Pegula grass court action\n\n#### Image 3B — Article Hero (1200x630)\n**Type:** Player portrait\n**Search Terms:** Emma Navarro\n**Credit:** (Imagn Images)\n**Notes:** Navarro in match play\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Berlin and Nottingham WTA Finals\n**Sources consulted:**\n- wtatennis.com/news/4522854 (Pegula beats Sabalenka)\n- wtatennis.com/news/4522986 (Noskova beats Eala)\n- tennismajors.com/wta-tour-news/sabalenka-concedes-another-6-0-set-as-pegula-reaches-the-berlin-final\n- sundayguardianlive.com (Berlin final rain delay)\n- lta.org.uk/fan-zone/international/lexus-nottingham-open/news/2026/emma-navarro-to-face-marie-bouzkova-in-womens-singles-final/\n**Verified Facts:**\n- Berlin WTA 500 final: Jessica Pegula (USA) vs Linda Noskova (CZE) [HIGH — confirmed]\n- Berlin final delayed by heavy rain/thunderstorm [HIGH — sundayguardianlive.com article]\n- Pegula def. Aryna Sabalenka 6-4, 6-7(4), 6-0 in Berlin SF [HIGH — wtatennis.com]\n- This is Pegula's 4th career win over Sabalenka [HIGH — wtatennis.com headline]\n- Pegula is the 2024 Berlin champion (defending) [HIGH — established in prior pipelines + wtatennis.com]\n- Noskova def. Alexandra Eala 6-2, 6-4 in Berlin SF [HIGH — wtatennis.com]\n- Noskova has not dropped a set in 4 matches in Berlin [HIGH — wtatennis.com article confirmed]\n- This is Noskova's first grass-court final [HIGH — wtatennis.com article headline]\n- Nottingham WTA final: Marie Bouzkova (CZE) vs Emma Navarro (USA) [HIGH — lta.org.uk]\n- Bouzkova def. Karolina Pliskova 6-4, 6-1 in SF [HIGH — search summary confirmed]\n- Navarro def. Viktorija Golubic 7-6(5), 6-2 in SF [HIGH — search summary confirmed]\n- First career meeting between Bouzkova and Navarro [HIGH — per sportskeeda.com preview]\n**Notes / Low-Confidence items:**\n- Berlin and Nottingham final results: NOT CONFIRMED — write as today's matches\n- Noskova's exact ranking: MEDIUM — do not specify",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wimbledon Qualifying Starts Tomorrow — 8 Days to Grand Slam",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Wimbledon qualifying starts Monday at Roehampton.\n\n3 rounds. 32 main draw spots. ESPN+ exclusive all 4 days. Draw June 26. Championships June 29.\n\nSinner defends. Alcaraz is out. 🎾 #Wimbledon2026 #Tennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026",
+            "#Tennis"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wimbledon-qualifying-preview.html",
+        "headline": "Wimbledon 2026 Qualifying Starts Monday at Roehampton — Here's Everything You Need to Know",
+        "word_count": 457
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wimbledon Qualifying Preview\n\n#### Image 4A — Social (1080x1350)\n**Type:** Venue / grass court\n**Search Terms:** Wimbledon grass court\n**Credit:** (USA TODAY Sports Images)\n**Notes:** Roehampton or Wimbledon qualifying court establishing shot\n\n#### Image 4B — Article Hero (1200x630)\n**Type:** Venue overview\n**Search Terms:** Wimbledon All England Club\n**Credit:** (Imagn Images)\n**Notes:** Iconic SW19 exterior or Centre Court\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wimbledon Qualifying Preview\n**Sources consulted:**\n- wimbledon.com/en_GB/tickets/qualifying\n- lta.org.uk/fan-zone/grand-slam/wimbledon-championships/news/2026/2026-preview-player-list-draw-order-of-play-scores-and-how-to-watch/\n- tennismajors.com/wimbledon-news/when-is-wimbledon-2026-dates-qualifying-and-the-full-schedule-853103.html\n- espnpressroom.com/us/press-releases/2026/06/all-four-days-of-wimbledon-qualifying-exclusively-on-espn-june-22-25/\n**Verified Facts:**\n- Wimbledon qualifying: June 22-25 at Community Sports Centre Roehampton [HIGH — wimbledon.com official]\n- ESPN+ has exclusive coverage all 4 days of qualifying [HIGH — ESPN press release]\n- Format: 3 rounds; players must win all 3 to earn main draw place [HIGH — wimbledon.com]\n- 16 qualifiers per singles draw (gentlemen's + ladies') [HIGH — wimbledon.com]\n- Tickets: £20 pre-purchase; £5 at gate after 4 PM; children under 16 free [HIGH — wimbledon.com]\n- Gates open 10 AM, matches from 11 AM each day [HIGH — wimbledon.com]\n- Draw ceremony: June 26 [HIGH — established in multiple prior pipelines]\n- Championships begin: June 29 [HIGH — wimbledon.com]\n- Jannik Sinner is defending champion [HIGH — established]\n- Sinner only warm-up is Hurlingham Club exhibition June 23-27 [HIGH — established]\n- Alcaraz withdrew due to wrist injury [HIGH — established]\n**Notes / Low-Confidence items:**\n- Specific qualifying entrants/names: NOT VERIFIED — do not list specific names without confirmation\n- Sinner's exact Wimbledon points to defend: MEDIUM — do not specify",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "American Men Own Grass Season 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "American men on grass 2026:\n\nShelton wins Stuttgart. Tiafoe wins Halle. Fritz reaches two straight ATP finals. Paul in the Queen's Club final.\n\nNo. 1 through No. 4 on grass are all American. 🇺🇸🎾 #Wimbledon2026 #ATP [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026",
+            "#ATP"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-american-men-grass-season-2026.html",
+        "headline": "American Men Are Owning the 2026 Grass Season — and Wimbledon Is Next",
+        "word_count": 512
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "American Men on Grass\n\n#### Image 5A — Social (1080x1350)\n**Type:** Player action\n**Search Terms:** Ben Shelton\n**Credit:** (USA TODAY Sports Images)\n**Notes:** Shelton serve or celebration on grass\n\n#### Image 5B — Article Hero (1200x630)\n**Type:** Player action\n**Search Terms:** Taylor Fritz\n**Credit:** (Imagn Images)\n**Notes:** Fritz groundstroke on grass"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "American Men Own Grass Season 2026\n**Sources consulted:**\n- atptour.com (Stuttgart results — Shelton won)\n- atptour.com (Halle results — Tiafoe won, Fritz runner-up)\n- atptour.com (Queen's Club — Paul in final)\n- tennismajors.com (grass season context)\n- lastwordonsports.com (ATP Halle Final)\n**Verified Facts:**\n- Ben Shelton won Stuttgart BOSS Open — def. Fritz 6-4, 2-6, 6-4 [HIGH — from June 15 pipeline]\n- Frances Tiafoe won Halle ATP 500 — def. Fritz 6-4, 7-5 [HIGH — confirmed]\n- Taylor Fritz was Halle runner-up [HIGH — confirmed]\n- Tommy Paul is in the Queen's Club final (defending 2024 champion) [HIGH — confirmed]\n- Fritz was in both Stuttgart SF (lost to Shelton) and Halle final (lost to Tiafoe) in consecutive weeks [HIGH — established]\n- All four Americans (Shelton, Tiafoe, Fritz, Paul) reached ATP finals/title match on grass in Week 1-2 of grass season [HIGH]\n- Wimbledon draw June 26 [HIGH]\n**Notes / Low-Confidence items:**\n- Exact ATP rankings for each player: MEDIUM — do not state precise current rankings without confirmation\n- Whether this is a historical record for American grass performance: LOW — do not claim record",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
