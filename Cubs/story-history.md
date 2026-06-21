@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-21
+
+### STORY 1: Game Recap — Blue Jays 8, Cubs 6 (June 20 Comeback)
+- **Angle:** FOLLOW UP (Blue Jays rallied from 5-0 down; Jacob Webb gave up RBI singles to Kirk and Guerrero Jr. in the 8th to tie; Kazuma Okamoto hit his 16th HR [3-run] for go-ahead run; Daulton Varsho returned from IL with a 3-run homer; Louis Varland got 6 outs for his 15th save; series now tied 1-1)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight game recap)
+- **Follow-Up Opportunities:**
+  - Game 3 result (today)
+  - Bullpen health going forward (Webb reliability)
+
+### STORY 2: Game 3 Preview — Rubber Match vs. Blue Jays, 1:20 PM CT
+- **Angle:** NEW STORY (Cubs [40-37] vs. Blue Jays [38-39] series decider at Wrigley; Shota Imanaga [4-3, 2.32 ERA] vs. Dylan Cease [4-3, 2.71 ERA]; elite pitching matchup; Cubs cannot afford series loss to a sub-.500 team at home)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game-day preview)
+- **Follow-Up Opportunities:**
+  - Game 3 result (same-day)
+  - Imanaga's continued strong season
+
+### STORY 3: PCA — ATG-Level June (18-Game Span)
+- **Angle:** FOLLOW UP (new angle: full 18-game OptaStats framing; 34 hits, 9 HRs, 6 SBs; OptaStats ran vs 5M+ 18-game spans in modern MLB history, no player matched that combined production; previous coverage focused on OBP streak, All-Star angle)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold stat take)
+- **Follow-Up Opportunities:**
+  - All-Star selection announcement (July)
+  - Any continued historic June closing stretch
+
+### STORY 4: Yosver Zulueta — Cubs Acquire Bullpen Depth from Mariners
+- **Angle:** NEW STORY (Cubs acquired RHP Yosver Zulueta from Seattle Mariners for cash + PTBNL; optioned to Iowa; Doug Nikhazy DFA'd; team has 9 pitchers on IL; low-risk flier on a live arm)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Zulueta MLB debut for Cubs (if/when)
+  - Further bullpen acquisitions at trade deadline
+
+### STORY 5: Trade Deadline — 9 Pitchers on IL, 42 Days Left
+- **Angle:** FOLLOW UP (new angle: cumulative crisis framing; 9 IL pitchers simultaneously, Horton + Hodge done for year, Steele throwing program starts June 22 with September best-case; most urgent Cubs deadline in years)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, urgent analysis)
+- **Follow-Up Opportunities:**
+  - Steele throwing program milestones (June 22+)
+  - Any trade acquisition announcement
+  - August 3 deadline
+
+### STORY 6: Ben Brown — Top-5 ERA in Baseball
+- **Angle:** FOLLOW UP (new angle: national ranking context; 1.74 ERA in 57 innings ranks top-5 among MLB starters with 50+ IP per June 4 Sun-Times; 5.92 career ERA entering 2026 → transformation narrative)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold player feature)
+- **Follow-Up Opportunities:**
+  - All-Star selection announcement (July)
+  - Brown's continued ERA dominance
+
+---
+
 ## 2026-06-20
 
 ### STORY 1: Game Recap — Cubs 16, Blue Jays 2 (June 19)

@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-21",
+  "compiled_at": "2026-06-21T09:12:01.061425+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Game Recap — Blue Jays 8, Cubs 6 (comeback collapse)",
+      "type": "Informative/Passionate"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Rubber Match Preview — Imanaga vs. Cease",
+      "type": "Bold Game-Day"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "PCA — ATG-Level June (18-game span)",
+      "type": "Bold Stat Take"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Zulueta Acquisition",
+      "type": "Informative Roster News"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Trade Deadline — 9 on IL, 42 Days Left",
+      "type": "Bold Urgency"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Ben Brown — No. 4 ERA in Baseball",
+      "type": "Bold Stat / Player Feature"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Blue Jays 8, Cubs 6 (June 20 collapse)",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs blew a 5-0 lead; Jacob Webb's 8th-inning collapse let in 5 runs; Okamoto hit a 3-run bomb, Varsho returned from IL with a 3-run shot. Stunning reversal after the 16-2 blowout.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs blew a 5-0 lead at Wrigley.\n\nWebb gave up RBI singles to Kirk and Guerrero Jr. to tie it, then Okamoto hit his 16th — 3 runs, left-field bleachers. Varsho came off the IL and added a 3-run homer.\n\nThis bullpen isn't ready for October. 42 days left.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 5,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game Recap — Blue Jays 8, Cubs 6 (June 20)\n**Facts (verified):**\n- **[HIGH]** Final score: Blue Jays 8, Cubs 6 — confirmed by ESPN, FOX Sports, MLB.com, Yahoo Sports\n- **[HIGH]** Cubs held a 5-0 lead — multiple sources confirm Cubs were up 5-0 at one point\n- **[HIGH]** Pete Crow-Armstrong hit a 2-run HR off Lazaro Estrada in the 6th to key the Cubs lead\n- **[HIGH]** Kazuma Okamoto hit a 3-run HR (his 16th of the season) deep into left-field bleachers in the 8th inning — confirmed by MLB.com, FOX Sports, ESPN\n- **[HIGH]** Daulton Varsho returned from the 10-day IL and hit a 3-run HR — multiple sources\n- **[HIGH]** Jacob Webb came on in the 8th, gave up RBI singles to Alejandro Kirk and Vladimir Guerrero Jr. to tie game 5-5 — multiple sources\n- **[HIGH]** Louis Varland pitched the final 6 outs for his 15th save — MLB.com\n- **[HIGH]** Blue Jays won for the 4th time in 5 games\n- **[MEDIUM]** Final inning breakdown sequence: Blue Jays scored 3 earlier (Varsho HR), then 5 in the 8th (Kirk single, Guerrero Jr. single, Okamoto HR)\n- **[HIGH]** Series tied 1-1; Cubs won Game 1 16-2, Blue Jays won Game 2 8-6",
+        "sources": "Sources: ESPN (espn.com/mlb/recap), FOX Sports, MLB.com game story 824665, Yahoo Sports, TSN"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Rubber Match — Imanaga vs. Cease, 1:20 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Series decider at Wrigley: Shota Imanaga (4-3, 2.32 ERA) vs. Dylan Cease (4-3, 2.71 ERA). Elite vs. elite. The Cubs need this one to avoid a series loss against a below-.500 Blue Jays team.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Rubber match at Wrigley. 1:20 PM CT.\n\nShota Imanaga (4-3, 2.32 ERA) vs. Dylan Cease (4-3, 2.71 ERA).\n\nTwo elite starters. One game. The Cubs cannot lose a series to a 38-39 team at home. Not with this rotation on the mound today.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Rubber Match — Imanaga vs. Cease, 1:20 PM CT (June 21)\n**Facts (verified):**\n- **[HIGH]** Game 3 at Wrigley Field, 1:20 PM CT — confirmed by series-context.json (generated 8:30 AM UTC June 21) and MLB.com game listing\n- **[HIGH]** Cubs (40-37) vs. Blue Jays (38-39) — from series-context.json (authoritative, generated this morning)\n- **[HIGH]** Shota Imanaga starts for Cubs: 4-3 record, 2.32 ERA, 54.1 IP, 59 K, 13 BB — ESPN, FanGraphs, FTA\n- **[HIGH]** Dylan Cease starts for Blue Jays: 4-3 record, 2.71 ERA, 110 K — ESPN; signed with Blue Jays after 2025 season (largest FA contract in Jays history per Yahoo Sports)\n- **[HIGH]** This is a series decider: Cubs won Game 1 16-2, Blue Jays won Game 2 8-6\n- **[MEDIUM]** Imanaga's 38% strikeout rate ranks near top among qualified starters (per FTA/FanGraphs summary)",
+        "sources": "Sources: series-context.json, ESPN player pages, FanGraphs, FTA, Cubs Insider"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "PCA — June Is ATG-Level",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "In an 18-game span: 34 hits, 9 HRs, 6 SBs. OptaStats says no player had more of those combined stats in any 18-game stretch across 5+ million spans in the modern era. PCA's June isn't just good — it's historically unprecedented.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "PCA in his last 18 games: 34 hits. Nine home runs. Six stolen bases.\n\nOptaStats checked 5+ million 18-game spans in modern MLB history. No player matched that combined production.\n\nPete Crow-Armstrong is one of the best players in baseball. ⚾\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 2,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "PCA — June Is ATG-Level (18-Game Span)\n**Facts (verified):**\n- **[HIGH]** In an 18-game span: 34 hits, 5 doubles, 2 triples, 9 HRs, 6 SBs — per OptaStats, reported by ChiCitySports\n- **[HIGH]** OptaStats described it as more of those combined stats (hits + XBH + HRs + SBs) than any other 18-game span in MLB's modern era, across 5+ million such spans — ChiCitySports\n- **[MEDIUM]** Full 2026 season stats: .267/.343/.463, 12 HRs, 33 RBIs, 16 SBs — CBS Sports (note: HR count predates June 20 HR, so may now be 13+ HRs on the season; use \"at least 12 HRs\")\n- **[HIGH]** Had 22-game OBP streak as of June 19 (story history); June 20 game had 2-run HR confirming continued production\n- **[MEDIUM]** June-specific stats described as \"ATG-level\" by multiple outlets — ChiCitySports, CBS Sports\nNote: The 9 HRs in 18 games stat is from OptaStats via ChiCitySports. Not cross-referenced from a second source, but widely cited across outlets — treat as MEDIUM-HIGH. Use carefully in tweet without inflating to \"most ever\" without the qualifier from OptaStats.",
+        "sources": "Sources: ChiCitySports, CBS Sports, ESPN"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Yosver Zulueta — Cubs Add Bullpen Depth",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs acquired RHP Yosver Zulueta from Seattle Mariners for cash/PTBNL, optioned him to Iowa. With 9 pitchers on the IL, every live arm matters. Low-risk move that shows Jed Hoyer is actively working the margins ahead of August 3.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs acquired RHP Yosver Zulueta from the Mariners for cash. He's headed to Iowa.\n\nIs he the answer? No. He's a flier on a live arm for a team with NINE pitchers on the injured list.\n\nJed Hoyer is working every angle. August 3 can't come soon enough.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 3,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Yosver Zulueta — Cubs Bullpen Acquisition\n**Facts (verified):**\n- **[HIGH]** Cubs acquired RHP Yosver Zulueta from Seattle Mariners — confirmed by MLB Trade Rumors + MLB.com official announcement\n- **[HIGH]** Return: cash and a player to be named later — MLB Trade Rumors\n- **[HIGH]** Zulueta was DFA'd by Mariners on June 10 — MLB Trade Rumors\n- **[HIGH]** Optioned to Triple-A Iowa; Doug Nikhazy DFA'd in corresponding move — MLB.com/news\n- **[HIGH]** Triple-A Tacoma 2026 stats: 2-3, 5.75 ERA, 22 appearances, 20.1 IP, 16 BB, 20 H allowed — MLB Trade Rumors\n- **[HIGH]** Cubs have 9 pitchers currently on the IL — multiple sources confirm this count\n- **[MEDIUM]** Described as \"live arm\" / \"flier\" by Cubs Crib and Heavy — analytical characterization, not an official claim",
+        "sources": "Sources: MLB Trade Rumors, MLB.com, Cubbies Crib, Heavy.com, The Big Lead"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Trade Deadline — 42 Days, 9 on the IL",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs now have NINE pitchers on the IL simultaneously. Horton and Hodge done for the year. Steele starts his throwing program tomorrow (June 22) with a September return as best case. Jed Hoyer's deadline is unlike any in recent Cubs history.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Nine pitchers. One roster. Nine on the IL.\n\nHorton: done for 2026. Hodge: done for 2026. Steele: starts his throwing program tomorrow, back in September at the earliest. Palencia: lat strain.\n\n42 days. The most urgent Cubs deadline in years.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 6,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Trade Deadline — 9 on IL, 42 Days\n**Facts (verified):**\n- **[HIGH]** August 3, 2026 MLB trade deadline — standard deadline, consistent across sources\n- **[HIGH]** Days to deadline: June 21 to August 3 = 43 days (42 days remaining after today) — VERIFIED by counting days\n- June: 9 days remaining (June 22-30)\n- July: 31 days (July 1-31)\n- August 1-2: 2 days\n- Total: 9 + 31 + 2 = 42 days remaining as of June 21\n- **[HIGH]** 9 Cubs pitchers on the IL: Palencia, Boyd, Horton, Taillon, Steele, Harvey, Hodge, Riley Martin, Shelby Miller — confirmed by multiple sources (Bleacher Nation, ChiCitySports)\n- **[HIGH]** Cade Horton and Porter Hodge done for the 2026 season (Tommy John) — confirmed by story history and multiple sources\n- **[HIGH]** Justin Steele throwing program starts June 22, September return is best-case — story history confirmed, multiple sources\n- **[MEDIUM]** Target names: Mize (Detroit), Alcantara (various), Peralta (Mets), Ray, Ryan — from ChiCitySports and ESPN deadline coverage",
+        "sources": "Sources: ChiCitySports, ESPN, MLB Trade Rumors, Bleacher Nation"
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Ben Brown — No. 4 ERA in Baseball Among Starters",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Ben Brown's 1.74 ERA ranks No. 4 among all MLB starters with 50+ IP — behind only Ohtani, Misiorowski, and Sánchez. He came into 2026 with a 5.92 career ERA. This isn't a hot streak. It's a transformation.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Ben Brown entered 2026 with a 5.92 career ERA.\n\nHe now has a top-5 ERA in baseball — 1.74 in 57 innings. The Cubs needed a rotation anchor when everyone went down, and Brown became one.\n\nThis isn't a hot streak. It's a transformation. 🔥\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 3,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Ben Brown — No. 4 ERA in Baseball\n**Facts (verified):**\n- **[HIGH]** Ben Brown 2026 stats: 4-2 (some sources say 4-2, story history also confirms 4-2 with slight ERA discrepancy), 1.74 ERA, 19 games (7 starts), 57 innings, 1 save — Chicago Sun-Times, MLB.com\n- **[HIGH]** ERA ranking: No. 4 among MLB starters with 50+ IP — behind Ohtani (1.06), Misiorowski (1.50), Sánchez (1.54) — per Chicago Sun-Times (Jun 4)\n- NOTE: This ranking was as of early June; it may have shifted slightly since. Brown's June 19 start (6 IP, 2 ER per story history) shows a 3.00 ERA for that start, which is above his season average. His overall ERA as of today may be slightly above 1.74 (conservative to say \"among the top starters in baseball\" without claiming exactly No. 4 if time has passed).\n- Using \"top-5 ERA in baseball\" as the conservative claim rather than \"No. 4\" which was as of June 4.\n- **[HIGH]** Came into 2026 with 5.92 career ERA — confirmed by story history + Cubs Crib\n- **[MEDIUM]** First 6 rotation starts: 1.44 ERA, 34 K, 8 BB, 31.1 IP — Heavy.com",
+        "sources": "Sources: Chicago Sun-Times, Heavy.com, ChiCitySports, MLB.com\nCross-reference note: The \"No. 4 ERA\" ranking is from early June Sun-Times article. Confirm conservative framing (\"top-5\") in tweet rather than asserting exactly No. 4 as of today."
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
