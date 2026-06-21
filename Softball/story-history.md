@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 21, 2026
+
+### Story 1: Beachum Watch — Day 14, Final 24 Hours
+- **Date:** 2026-06-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 20 — Day 13 uncommitted, visited Florida)
+- **Angle:** Jaysoni Beachum (.417 BA / 16 HR / 66 RBI / .549 OBP / career 37 HR / 180 RBI / 202 H) entering final 24 hours uncommitted on Day 14 of 15. Tallahassee native visited Florida Gators. Portal closes June 22. Last major domino of the 2026 portal cycle.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Beachum commitment announcement (portal closes June 22)
+  - Impact analysis at destination program
+
+### Story 2: South Carolina Adds Bella Foran
+- **Date:** 2026-06-21
+- **Tier:** 2
+- **Classification:** NEW STORY (Foran committed June 20)
+- **Angle:** South Carolina lands Gold Glove outfielder Bella Foran alongside Tennessee transfer Saviya Morgan. Gamecocks emerge as under-the-radar portal winner with two strong outfield additions heading into 2027.
+- **Content Produced:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - SC 2027 preseason outlook
+  - Morgan+Foran outfield combination preview
+
+### Story 3: FSU Adds Edmiaston — Second Portal Piece
+- **Date:** 2026-06-21
+- **Tier:** 2
+- **Classification:** NEW STORY (Edmiaston addition confirmed)
+- **Angle:** Florida State adds Stetson first baseman Nicole Edmiaston as second portal piece alongside Ella Dodge. FSU rebuild building on Dodge+Edmiaston+6 freshmen after losing Torres and potentially Beachum.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - FSU fall practice reports
+  - 2027 FSU preseason outlook
+
+### Story 4: Portal Winner Final Verdict
+- **Date:** 2026-06-21
+- **Tier:** 2
+- **Classification:** FOLLOW UP (portal near close — final analysis)
+- **Angle:** With one day left, Texas (Torres+Swan+Lincoln) and Texas Tech (Polar+Heavener+Pickering) stand as portal's biggest winners. Arkansas (Wetteland+Yarnell), South Carolina (Morgan+Foran), Tennessee (Shelton+Mardjetko) as secondary winners. 84 of 120 committed.
+- **Content Produced:** Article (article-04), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - 2027 preseason rankings
+  - Portal winner validation in fall practice
+
+### Story 5: Portal Tracker — Day 14 of 15
+- **Date:** 2026-06-21
+- **Tier:** 3
+- **Classification:** FOLLOW UP (ongoing tracker — final day)
+- **Angle:** Day 14 of 15. 84+ of 120 committed (70%). Final-stretch commits: Foran (SC), Morgan (SC), Edmiaston (FSU), Greenwood (TexSt). Still out: Beachum (No. 1). Portal closes June 22.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Full portal recap after June 22 close
+  - Beachum commitment
+
+---
+
 ## June 20, 2026
 
 ### Story 1: Beachum Watch — Day 13, Two Days Left
