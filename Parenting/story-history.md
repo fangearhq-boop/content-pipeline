@@ -2,6 +2,50 @@
 
 ---
 
+## June 21, 2026
+
+### Story 1: RECALL — YCXXKJ Baby Bath Seats (Drowning Hazard, Discard, Manufacturer Not Responding)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled ~9,000 YCXXKJ baby bath seats (Model YD-1958). Drowning hazard — seats unstable, can tip over with infant inside. Sold on Amazon by BenTalk, May 2024–Oct 2025, ~$36. Blue/gray/pink/yellow. CPSC escalated to "Do Not Use" warning because BenTalk stopped responding. Consumer action: stop use, write "recalled" on seat, discard. No refund available. cpsc.gov; 1-800-638-2772.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC recall + "Do Not Use" warning; ~9,000 units; Model YD-1958; Amazon/BenTalk; May 2024–Oct 2025; ~$36; blue/gray/pink/yellow; drowning hazard; unstable seat; discard (write "recalled"); no refund — company unresponsive; cpsc.gov; 1-800-638-2772; Sources: cpsc.gov, cpsc.gov/Warnings, thehill.com
+- **Follow-Up Opportunities:** None — escalated "Do Not Use" warning; will age out naturally
+
+### Story 2: RECALL — Joolz Aer2 Car Seat Adapters (Fall Hazard, Full Refund Available)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled ~3,840 Joolz Aer2 Car Seat Adapters (June 18, 2026). Fall hazard — adapter can fail to attach, car seat may fall. Sold at Bloomingdale's/Nordstrom/specialty stores/online, June 2025–May 2026, ~$50. 1 incident, 0 injuries. Full refund: register at joolzcarseatadapter.expertinquiry.com, return via prepaid label, refund via electronic payment or virtual gift card.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CPSC recall June 18, 2026; ~3,840 US units (~148 Canada); Joolz Aer2 Car Seat Adapter; fall hazard; adapter fails to attach; Bloomingdale's/Nordstrom/specialty/joolz.com/amazon.com; June 2025–May 2026; ~$50; 1 report, 0 injuries; refund URL: joolzcarseatadapter.expertinquiry.com; Sources: cpsc.gov, growingyourbaby.com, canada.ca/recalls
+- **Follow-Up Opportunities:** None — refund process active; will age out
+
+### Story 3: Bear Creek Pollinator Celebration — 5-Day Countdown (Friday June 26)
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (first covered June 18; today's angle is 5-days-out countdown)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Bear Creek A'Buzz Annual Honey Harvest and Pollinator Celebration Day; Friday June 26, 2026; 12:30–2:00 PM; Bear Creek Nature Center, Bear Creek Regional Park, west COS; $5/person; all ages; bug sweeps, native pollinator education, hands-on insect exploration; Sources: visitcos.com, elpasoco.com, coloradosprings.macaronikid.com
+- **Follow-Up Opportunities:** None — event is June 26
+
+### Story 4: Cheyenne Mountain Zoo Centennial + $40M Giraffe Center Opening
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — CMZ's 100th anniversary in 2026 (founded by Spencer Penrose in 1926). International Center for Care and Conservation of Giraffe opening summer 2026. $40M, largest expansion in zoo history. 11 feeding zones (was 3), 12,000 sq ft barn, largest ETFE roof over animal exhibit in North America, 25% more outdoor space, 6 bronze sculptures, weeklong grand opening celebration. Only mountain zoo in US.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Founded 1926 by Spencer Penrose; centennial year 2026; International Center for Care and Conservation of Giraffe; $40M; 12,000 sq ft indoor barn; 11 feeding zones (was 3); 25% more outdoor space; ETFE roof (largest of its kind over animal exhibit in North America); 6 bronze giraffes by Antonia Chastain (200+ calves born since 1950s); weeklong grand opening; only mountain zoo in US; cmzoo.org; Sources: cmzoo.org, gazette.com, fox21news.com, kktv.com
+- **Follow-Up Opportunities:** Grand opening week announcement when dates confirmed; event recap
+
+### Story 5: Colorado Springs Sunday Market — Season Guide for Families
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado Springs Sunday Market at Acacia Park. Every Sunday through Oct 25, 9 AM–2 PM. Free. 60+ vendors. Farm-fresh produce, artisan foods, handmade goods, live music. 18 Sundays left in 2026 season as of June 21.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Every Sunday May 10–Oct 25, 2026; 9 AM–2 PM; Acacia Park, 115 E. Platte Ave, downtown Colorado Springs; free; 60+ vendors; farm-fresh produce, artisan foods, handmade goods, small-batch products; live music weekly; family-friendly; 18 Sundays remaining as of June 21; Sources: kktv.com, visitcos.com, huntandgathercos.com, downtowncs.com
+- **Follow-Up Opportunities:** Monthly reminder angles; seasonal produce update in August/September
+
+---
+
 ## June 20, 2026
 
 ### Story 1: RECALL — SHEIN Michley Children's Pajamas (Burn Hazard, Flammability Violation)

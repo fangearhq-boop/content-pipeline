@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 21, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | YCXXKJ baby bath seat recall (drowning hazard; ~9,000 units; Amazon/BenTalk; Model YD-1958; May 2024–Oct 2025; ~$36; CPSC "Do Not Use" warning; discard; company not responding; cpsc.gov; 1-800-638-2772); Joolz Aer2 Car Seat Adapter recall (fall hazard; June 18, 2026; ~3,840 units; Bloomingdale's/Nordstrom/Amazon; June 2025–May 2026; ~$50; 1 incident/0 injuries; full refund via joolzcarseatadapter.expertinquiry.com); Bear Creek Pollinator Celebration June 26 (5 days away; 12:30–2 PM; Bear Creek Regional Park; $5/person; all ages; bug sweeps + native pollinator education); Cheyenne Mountain Zoo centennial (100th year; founded 1926 Spencer Penrose; International Center for Care and Conservation of Giraffe opening summer 2026; $40M; 12,000 sq ft barn; 11 feeding zones; ETFE roof; 6 bronze sculptures; weeklong grand opening; cmzoo.org); Colorado Springs Sunday Market (every Sunday May 10–Oct 25; 9 AM–2 PM; Acacia Park 115 E. Platte Ave; free; 60+ vendors; farm-fresh/artisan/handmade/live music) |
+| Story History Check | COMPLETE | 4 NEW STORIES (YCXXKJ recall, Joolz recall, CMZ centennial, Sunday Market) + 1 FOLLOW-UP (Bear Creek Pollinator — first covered June 18; today's angle is 5-day countdown) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 each for S1/S2; 1 each for S3/S4/S5); 3 char violations fixed (draft versions moved out of code blocks); all under 280 chars; 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py passed (2 runs); 64 claims, 161 HIGH, 8 MEDIUM, 134 LOW; all 5 stories present; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 5 images; 22 dashboard items; posting window warnings cosmetic |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-21.xlsx (7 posts: 7 X, 13:00–20:42 MT) + TOBI cosp-postplanner-tobi-2026-06-21.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-21)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 X posts)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-21.xlsx (7 posts), cosp-postplanner-tobi-2026-06-21.xlsx (7 TOBI posts)
+- **Coverage:** YCXXKJ baby bath seat recall (CPSC + "Do Not Use" escalation; ~9,000 units; Model YD-1958; Amazon/BenTalk; May 2024–Oct 2025; ~$36; blue/gray/pink/yellow; drowning hazard; discard — write "recalled"; no refund/company not responding; cpsc.gov; 1-800-638-2772); Joolz Aer2 Car Seat Adapter recall (June 18, 2026; ~3,840 US units; fall hazard — adapter fails to attach; car seat can fall; Bloomingdale's/Nordstrom/specialty/joolz.com/amazon.com; June 2025–May 2026; ~$50; 1 incident/0 injuries; full refund via joolzcarseatadapter.expertinquiry.com; return via prepaid label; electronic payment or virtual gift card); Bear Creek A'Buzz Annual Honey Harvest and Pollinator Celebration Day (5-day countdown; June 26 Friday 12:30–2 PM; Bear Creek Nature Center; Bear Creek Regional Park west COS; $5/person; all ages; bug sweeps/native pollinator education/hands-on insect exploration); Cheyenne Mountain Zoo centennial + giraffe center (100th year 2026; founded 1926 Spencer Penrose; International Center for Care and Conservation of Giraffe opening summer 2026; $40M; 12,000 sq ft indoor barn; 11 feeding zones was 3; 25% more outdoor space; ETFE roof largest of its kind over animal exhibit in North America; 6 bronze giraffe sculptures by Antonia Chastain/200+ calves born since 1950s; weeklong grand opening; only mountain zoo in US; cmzoo.org); Colorado Springs Sunday Market (every Sunday May 10–Oct 25 2026; 9 AM–2 PM; Acacia Park 115 E. Platte Ave downtown COS; free; 60+ vendors; farm-fresh produce/artisan foods/handmade goods/small-batch; live music weekly; family-friendly; 18 Sundays left 2026 season)
+- **Notes:**
+  - verify-facts.py: 2 runs — first run flagged 3 char violations (Story 2 Post A and Story 4 Post A/B draft versions in code blocks were being parsed). Fixed by moving draft text out of code blocks. Second run passed.
+  - compile: 5 stories, 7 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 22 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (7 posts: 7 X) and TOBI (7 TOBI posts) generated successfully; 13:00–20:42 MT
+  - WordPress: host not in allowlist error; same environment restriction as all prior runs
+  - Dashboard push: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from June 20's Sarah Morales [S1, S3, S5])
+  - Pipeline ran as Niche 2 in sequence after Tennis (Niche 1 completed June 21)
+
+---
+
 ## Latest Run: June 20, 2026
 
 | Step | Status | Notes |
