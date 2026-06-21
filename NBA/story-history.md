@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-21
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-21 | T1 | Giannis Trade — Blazers Out, Heat vs. Celtics With 48 Hours to Draft Night | X, FB, Article | FOLLOW UP |
+| 2026-06-21 | T1 | NBA Draft Bombshell — Wizards "Torn" Between Dybantsa and Peterson | X, FB, Article | FOLLOW UP |
+| 2026-06-21 | T2 | Austin Reaves — Lakers in Exclusive Window as June 29 Deadline Approaches | X, FB, Article | FOLLOW UP |
+| 2026-06-21 | T2 | Knicks' Repeat Blueprint — Brunson Extension, OG, KAT, and No. 17 Pick | X, FB, Article | FOLLOW UP |
+| 2026-06-21 | T2 | Ja Morant Trade Market — Memphis Holds While NBA Waits on Giannis | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Giannis Trade — Blazers Out, Heat vs. Celtics
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Blazers officially "no longer likely" landing spot; final two = Heat (Herro + Ware + Jaquez + No. 13) vs. Celtics (Jaylen Brown + picks); Giannis would sign long-term extension with either team; Bucks pursuing additional first-round pick beyond No. 10; Marc Stein "drawing near"; deal expected by draft night June 23
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announcement June 23; landing spot confirmed
+
+### STORY 2: NBA Draft — Wizards "Torn" Between Dybantsa and Peterson
+- **Tier:** 1
+- **Category:** NBA Draft
+- **Key facts:** Wizards "increased consideration" on Peterson over Dybantsa (ESPN "tough call"); Peterson visited ONLY Wizards, refused all other meetings; Dybantsa revealed he did NO workouts ("They know what I can do"); Dybantsa: 25.5 PPG/6.8 RPG/3.7 APG/51% FG at BYU; Peterson: 20.2 PPG at Kansas/missed 11 games/cramping issues linked to creatine; draft June 23 Barclays Center
+- **Status:** FOLLOW UP (major shift — previously Dybantsa was heavy lock)
+- **Follow-up ideas:** Draft night No. 1 pick reveal
+
+### STORY 3: Austin Reaves — Lakers Exclusive Window
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** Lakers in exclusive window through June 30; Reaves option deadline June 29 ($14.9M); Lakers offer 5yr/$239M; Nets limited to 4yr/$178.5M; decision "won't come down solely to dollar figure"; Reaves averaged 23.3 PPG; multiple sources expect Lakers re-sign
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Reaves opts out June 29; signs deal by July 4
+
+### STORY 4: Knicks Repeat Blueprint
+- **Tier:** 2
+- **Category:** NBA Offseason / Knicks
+- **Key facts:** Knicks won 2026 title June 14; parade Canyon of Heroes June 18; out of Giannis race; No. 17 pick June 23; free agency opens June 30; priorities: Brunson extension + OG Anunoby + KAT re-signs; luxury tax crunch
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Brunson extension signed; OG/KAT deals announced
+
+### STORY 5: Ja Morant Trade Market
+- **Tier:** 2
+- **Category:** NBA Trade Rumors / Grizzlies
+- **Key facts:** Memphis deliberately holding until Giannis resolves June 23; Heat Plan B; Minnesota also interested; Morant averaged 24.4 PPG; Memphis holds No. 3 pick (could be packaged); post-June 23 market expected to be explosive
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-draft Morant trade talks begin; landing spot announced
+
 ## 2026-06-20
 
 | Date | Tier | Story | Platforms | Status |
