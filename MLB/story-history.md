@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-21
+
+### Story 1: Bryce Harper Hits for the Cycle — Phillies 15-3 Mets
+- **Date:** 2026-06-21
+- **Tier:** 1
+- **Classification:** NEW STORY (June 20 game)
+- **Angle:** Bryce Harper hit for the first cycle of his career on June 20, completing it in five innings — second-fastest in MLB history behind Mike Lansing's 4-inning cycle in 2000. Sequence: HR (1st), double + single (3rd inning, 8-run inning), triple (5th). 11th Phillies hitter to hit for cycle. Phillies won 15-3.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Phillies continued dominance
+  - Harper NL MVP race
+
+### Story 2: Schwarber 28 HRs — MLB Leader After 3-HR Game vs Mets
+- **Date:** 2026-06-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 20 — Schwarber at 25 HR in prior pipeline)
+- **Angle:** Schwarber hit 3 HRs in same 15-3 Phillies win over Mets, going 25→28 HRs. Now MLB-leading 28 HRs. One blast was 456 feet. Pace tracking toward 60+ HRs for season. Home Run Derby July 13 at Citizens Bank Park — his home stadium.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber Home Run Derby (July 13)
+  - HR chase through second half
+
+### Story 3: Bobby Witt Jr. — Grade 1 MCL Sprain Sunday Evaluation
+- **Date:** 2026-06-21
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 20 — MRI confirmed Grade 1 MCL sprain)
+- **Angle:** Royals evaluate Sunday on IL decision. "Best case scenario" per Quatraro. Not surgical. All-Star Game July 14 — within recovery window if no setbacks. Witt leading AL SS All-Star voting.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Sunday IL decision
+  - All-Star roster announcement
+
+### Story 4: Albies Walk-Off Two-Homer Game — Braves 4-3 Brewers
+- **Date:** 2026-06-21
+- **Tier:** 2
+- **Classification:** NEW STORY (June 20 game)
+- **Angle:** Ozzie Albies hit 2 HRs including walk-off in 9th inning. Braves best record in NL. Doing it without Acuña (hamstring IL, 2nd stint). Albies stepping up as primary offensive engine.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Acuña return timeline
+  - Braves NL East standings
+
+### Story 5: Twins 16-8 Diamondbacks — Buxton Grand Slam 10-Run 5th
+- **Date:** 2026-06-21
+- **Tier:** 3
+- **Classification:** NEW STORY (June 21 game)
+- **Angle:** Byron Buxton grand slam in 10-run 5th inning. Twins win 16-8. Buxton healthy and dangerous in AL Wild Card race context.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Twins AL Wild Card race
+  - Buxton health updates
+
+---
+
 ## 2026-06-20
 
 ### Story 1: Witt Jr. Grade 1 MCL Sprain — 'Best Case Scenario'
