@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-21
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-21 | T1 | US Open Final Round — Clark Holds 6-Shot Lead, Final Group 2:30 PM ET | X, FB, Article | FOLLOW UP |
+| 2026-06-21 | T1 | Scheffler 30th Birthday Grand Slam Bid — Father's Day at Shinnecock | X, FB, Article | FOLLOW UP |
+| 2026-06-21 | T2 | Meijer LPGA Classic Final Round — Jing Yan Leads by 1 Over Lottie Woad | X, FB, Article | FOLLOW UP |
+| 2026-06-21 | T2 | KPMG Women's PGA Preview — Korda Eyes Three-Peat at Hazeltine June 25-28 | X, FB, Article | NEW |
+| 2026-06-21 | T2 | US Open McIlroy Fade — 4 Bogeys in 6 Holes, Grillo's Low Round 67 | X, FB, Article | FOLLOW UP |
+
+### STORY 1: US Open Final Round — Clark 6-Shot Lead
+- **Tier:** 1
+- **Category:** PGA Tour / US Open
+- **Key facts:** Clark holds 6-shot lead entering final round; final group Clark+Scheffler tees off 2:30 PM ET; only Greg Norman (1996 Masters) blew 6+ shot major lead in history (21 players, 20 won); Clark won 2023 US Open; R3 low round was Emiliano Grillo 67; only 2 players broke par Saturday (Scheffler and Tom Kim)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** US Open winner announced today; R4 recap
+
+### STORY 2: Scheffler Birthday Grand Slam
+- **Tier:** 1
+- **Category:** PGA Tour / US Open
+- **Key facts:** June 21 is Scheffler's 30th birthday AND Father's Day; already won Masters/PGA Championship/Open Championship; US Open is remaining Grand Slam leg; 6 shots back; shot 69 in R3 (one of only 2 sub-par rounds); 3 consecutive birdies holes 14-16 R3; ESPN: "If anyone can catch Clark, it's Scheffler"; world No. 1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler final round result; Grand Slam completion or near-miss
+
+### STORY 3: Meijer LPGA Classic Final Round
+- **Tier:** 2
+- **Category:** LPGA Tour
+- **Key facts:** Final round at Blythefield CC, Belmont Michigan; Jing Yan leads at -14 (202) by 1 over Lottie Woad (England) / 2 over Cassie Porter (Australia); Yan chasing first LPGA title; Woad using tournament as KPMG prep; winner earns final KPMG field spot; R3 wind-swept
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Meijer LPGA winner announced today; confirm KPMG field
+
+### STORY 4: KPMG Women's PGA Preview
+- **Tier:** 2
+- **Category:** LPGA Tour / Women's Major
+- **Key facts:** June 25-28 Hazeltine National, Chaska Minnesota; $12M purse; Nelly Korda defending champion (two-time winner, eyes three-peat); 11 past champions in field; Meijer LPGA winner earns final spot; Hazeltine hosted US Open/PGA/Ryder Cup at men's level
+- **Status:** NEW
+- **Follow-up ideas:** KPMG first round recap June 25; Korda performance
+
+### STORY 5: McIlroy Fade + Grillo Low Round
+- **Tier:** 2
+- **Category:** PGA Tour / US Open
+- **Key facts:** McIlroy was -2 through front nine R3, then 4 bogeys in 6 back nine holes; now 8 shots back; won 2011 US Open; Grillo shot 67 low round of the day; Tom Kim broke par; Fitzpatrick/Schauffele also in mix; Shinnecock difficulty
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R4 final positions for McIlroy, Grillo, others
+
 ## 2026-06-20
 
 | Date | Tier | Story | Platforms | Status |

@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-20
+- **Date**: 2026-06-21
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-21
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-06-21.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-21.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-21/review-dashboard.html (22 items)
+- **Notes:** US Open final round at Shinnecock — Clark 6-shot lead final group 2:30 PM ET with Scheffler/only Norman ever blew 6-shot major lead/Clark won 2023 US Open; Scheffler birthday Grand Slam bid (30th bday+Father's Day+Grand Slam on line/6 shots back/shot 69 R3/3 consecutive birdies holes 14-16); Meijer LPGA final round — Jing Yan leads -14 by 1 over Woad/-2 over Porter/Yan chasing first LPGA title/Woad KPMG prep; KPMG Women's PGA preview June 25-28 Hazeltine $12M Korda eyes 3-peat/11 past champs; McIlroy fade (2-under through 9 then 4 bogeys in 6 holes, now 8 back) + Grillo 67 low round
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-20
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
