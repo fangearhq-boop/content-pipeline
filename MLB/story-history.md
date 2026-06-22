@@ -5,6 +5,65 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-22
+
+### Story 1: Bobby Witt Jr. Evaluation Today — IL or Return for Tampa Bay?
+- **Date:** 2026-06-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 21 — Witt held out Sunday, reevaluation set before Monday series vs Tampa Bay)
+- **Angle:** Witt Jr. held out Sunday vs Cardinals after Grade 1 MCL sprain (right knee). Royals reevaluate before Monday Tampa Bay series opener. Manager Quatraro: "best case scenario." Witt leads AL with 4.5 fWAR. All-Star Game July 14 in recovery window. IL or return today decides next chapter of his MVP season.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Witt IL activation date / return timeline
+  - All-Star Game participation
+  - Royals competitive standing without Witt
+
+### Story 2: Schwarber at 28 — On Pace for One of the Greatest HR Seasons in History
+- **Date:** 2026-06-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 21 — Schwarber at 28 HRs after 3-HR game vs Mets)
+- **Angle:** Schwarber on pace for 60+ HRs — a total fewer players have reached in history than you can count on one hand. Schwarber and Harper became 2nd teammate pair ever to hit 3+ HRs and cycle in same game (Gehrig+Lazzeri, Yankees 1932). Home Run Derby July 14 at Citizens Bank Park. He leads Alvarez and Buxton by 4 HRs.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Home Run Derby decision
+  - 30 HR milestone
+  - Second-half pace watch
+
+### Story 3: Trade Deadline Big Board — 6 Weeks Out, Skubal Sweepstakes Begin
+- **Date:** 2026-06-22
+- **Tier:** 2
+- **Classification:** NEW STORY (first full deadline big board analysis, 6 weeks out)
+- **Angle:** August 3 deadline 6 weeks away. Skubal (two-time AL Cy Young, back from bone chip surgery, Tigers selling) is the centerpiece. Teams linked: Braves, Yankees, Dodgers, Cubs, Blue Jays, Padres. Giants shifted from buyers to sellers. 7 teams 5.5+ games out: Giants, Rockies, Mets, Angels, Tigers, Royals, Red Sox. Surprise buyers: White Sox, Nationals, Cardinals.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade rumors and destination
+  - Giants fire sale assets
+  - Buyer/seller flips as standings evolve
+
+### Story 4: AL East Battle — Yankees Lead Rays by 1.5, Rice Carrying the Load
+- **Date:** 2026-06-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (ongoing AL East race with Judge sidelined)
+- **Angle:** Yankees 43-27, Rays 41-28 (1.5 games). Judge out since ~May 31 (rib stress fracture, mid-August return). Ben Rice (.300/.393/.638, 19 HR) is the Yankees offensive engine. Spencer Jones also recalled. Rice filling Judge void better than expected.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Judge return timeline
+  - Rice All-Star case
+  - Rays response / series outcomes
+
+### Story 5: All-Star Voting Closes Thursday — 3 Days Left
+- **Date:** 2026-06-22
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Phase 1 closes June 25 noon ET)
+- **Angle:** 3 days left in Phase 1 All-Star voting. Ohtani leads all with 1.165M votes. Alvarez leads AL. Witt leads AL SS despite injury. Schwarber and Harper are Philadelphia's hometown stars with the game coming to Citizens Bank Park. Phase 2 opens Friday.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Phase 2 voting opens Friday
+  - Final rosters announced early July
+  - All-Star Game July 14 coverage
+
+---
+
 ## 2026-06-21
 
 ### Story 1: Bryce Harper Hits for the Cycle — Phillies 15-3 Mets

@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-22
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (prior session web searches), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (27 claims, 0 char violations — claim-patterns.py missing known, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published to content-dashboards via publish-dashboard.py. PostPlanner exports (0 posts — heading format; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). PostPlanner 0 posts (heading format — expected). publish-unified-dashboard 403 (PAT for content-dashboards — known); used publish-dashboard.py instead.
+- **Key Stories**: Witt Jr. reevaluation today/Grade 1 MCL sprain/IL or return vs Tampa Bay/4.5 fWAR AL leader/All-Star Game July 14 in recovery window (Tier 1 FOLLOW UP), Schwarber 28 HRs/on pace for 60+/rarest seasons in MLB history/Harper+Schwarber 2nd teammates ever to cycle+3 HR same game (Gehrig+Lazzeri 1932)/Derby July 14 Citizens Bank Park home crowd (Tier 1 FOLLOW UP), Trade Deadline Big Board 6 weeks out/Skubal two-time Cy Young Tigers seller centerpiece/Braves Yankees Dodgers Cubs linked/Giants shifted to sellers (Tier 2 NEW), AL East Yankees 43-27 vs Rays 41-28 (1.5 games)/Judge out rib fracture/Ben Rice .300/.393/.638 19 HR carrying lineup (Tier 2 FOLLOW UP), All-Star voting closes Thursday June 25 noon ET/Ohtani 1.165M leads all/Alvarez leads AL/Witt leads AL SS/Schwarber+Harper host city favorites (Tier 3 FOLLOW UP)
+
+
+## Last Run
 - **Date**: 2026-06-21
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (21 claims, 0 char violations — claim-patterns.py missing known, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published to content-dashboards via publish-dashboard.py. PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -10,7 +19,7 @@
 - **Key Stories**: Bryce Harper first career cycle/5 innings/second-fastest in MLB history/Phillies 15-3 Mets (Tier 1 NEW), Schwarber 3 HRs same game/now 28 HRs MLB leader/pace 60+ HRs/Derby July 13 Citizens Bank Park (Tier 1 FOLLOW UP), Witt Jr. Sunday evaluation/Grade 1 MCL sprain/All-Star Game July 14 in recovery window (Tier 1 FOLLOW UP), Albies walk-off 2-HR game/Braves 4-3 Brewers/best record NL/without Acuña (Tier 2 NEW), Twins 16-8 Diamondbacks/Buxton grand slam 10-run 5th (Tier 3 NEW)
 
 
-## Last Run
+## Previous Run
 - **Date**: 2026-06-20
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (prior session), brief (5 stories), research notes, story analysis, X posts (7; format fix applied **Text Post N — Type** → **Post N**; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (32 claims HIGH, consistency clean — claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published to content-dashboards, PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
