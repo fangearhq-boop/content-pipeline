@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-22",
+  "compiled_at": "2026-06-22T09:13:53.065575+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview — Cubs at Mets",
+      "type": "X Text"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Senga's 9.00 ERA Is a Chance",
+      "type": "X Text"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Steele Starts Throwing Today",
+      "type": "X Text"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Deadline: 41 Days, 27th in ERA",
+      "type": "X Text"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Smokies First-Half Title Race",
+      "type": "X Text"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-Game Hype / Wild Card Stakes",
+      "type": "X Text"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs at Mets, Game 1 of 4 (Citi Field)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs open a 4-game road series at Citi Field; 6:10 PM CT first pitch; Cubs 40-37 vs. Mets 34-43; Cubs swept Mets 3-0 in April; Imanaga vs. Senga",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs open a 4-game road series at Citi Field tonight. Game 1, 6:10 PM CT.\n\nChicago (40-37) vs. New York (34-43). The Cubs are 3-0 against the Mets this season — they swept them in April.\n\nImanaga starts tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Senga's 9.00 ERA Is a Cubs Opportunity",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Bold take — Senga is arguably the most hittable starter in the NL right now; Cubs are 3-0 vs. Mets this year; this is the time to extend that",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Kodai Senga is starting Game 1 for the Mets tonight.\n\nHis 2026 line: 0-5, 9.00 ERA. Just returned from the IL. That's not a typo.\n\nThe Cubs are 3-0 against the Mets this year. Tonight's the chance to make it 4.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Justin Steele Starts Throwing Program Today",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Informative/urgent — milestone in Steele's recovery, but still 6+ weeks from MLB return; best case September; rotation desperately needs help in the meantime",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Justin Steele officially starts his throwing program today.\n\nHe's still weeks from facing hitters and needs a full build-up to return. Best case: September.\n\nThis rotation needs help. The deadline is 42 days away.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline — 41 Days, 27th in ERA",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Bold — Cubs 27th in ERA (4.71), 9 on IL, Horton and Hodge done for year, Steele just starting to throw; 41 days to August 3; Jed Hoyer must act",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cubs starters: 27th in ERA (4.71) this season.\n\nNine pitchers on the IL. Horton and Hodge are done for the year. Steele just started his throwing program.\n\nJed Hoyer has 42 days to fix this rotation. The clock is loud.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Smokies Locked in First-Half Southern League Title Race",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Prospect feature — Knoxville in first place in SL North with first half winding down; No. 10 prospect Owen Ayers and Jefferson Rojas leading the charge",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Knoxville Smokies are locked in a first-half title race in the Southern League North.\n\nNo. 10 prospect Owen Ayers and Jefferson Rojas are leading this charge.\n\nThe Cubs' farm system is quietly building something real.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 241
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Wild Card Contender Must-Win Series",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Game 1 of 4 tonight; wild card framing — 4 games against a 34-43 team is exactly the kind of series a contender has to dominate; Imanaga on the mound",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Game 1 of a 4-game road series at Citi Field — 6:10 PM CT first pitch.\n\nCubs (40-37) vs. Mets (34-43). Four games against a team with a losing record. This is exactly the kind of series a wild card contender has to win.\n\nImanaga. Let's work.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

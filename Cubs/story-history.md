@@ -2719,3 +2719,56 @@ Each day's stories are appended at the top (newest first).
   - Cabrera start performance
 
 ---
+
+## 2026-06-22
+
+### STORY 1: Series Preview — Cubs at Mets, Game 1 of 4 (Citi Field)
+- **Angle:** NEW STORY (is_series_start_today=true; mandatory 7 AM slot; Cubs 40-37 vs Mets 34-43 at Citi Field; 4-game road series; 6:10 PM CT; Cubs swept Mets 3-0 in April; Imanaga vs Senga; Blue Jays Game 3 rained out June 21, makeup Aug 6)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result tonight (post-game recap tomorrow)
+  - Series Game 2 preview (Cease vs TBD on June 23)
+
+### STORY 2: Senga's 9.00 ERA Is a Cubs Opportunity
+- **Angle:** NEW STORY (bold take; Senga 0-5, 9.00 ERA, just returned from IL; Cubs 3-0 vs Mets this season; prime chance to extend series dominance)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Senga's actual performance tonight
+  - Cubs offensive output vs Senga line
+
+### STORY 3: Justin Steele Starts Throwing Program Today
+- **Angle:** NEW STORY (milestone; Steele officially begins throwing program June 22 per Craig Counsell; 6+ weeks from MLB return; best case September; full Spring Training build-up needed; 42 days to Aug 3 deadline)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Steele progression updates as he moves through throwing program
+  - Return timeline update in late July
+
+### STORY 4: Trade Deadline — 42 Days, 27th in ERA
+- **Angle:** FOLLOW UP (ongoing rotation crisis + deadline arc; today's angle = 27th in ERA (4.71), 9 on IL, Horton/Hodge done for year, Steele just started throwing; 42 days to act)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, bold urgency take)
+- **Follow-Up Opportunities:**
+  - Any trade rumor announcement
+  - Skubal/Webb/Detmers/Peralta deal news
+  - IL roster changes
+
+### STORY 5: Smokies Locked in First-Half Southern League Title Race
+- **Angle:** FOLLOW UP (Smokies roundup last covered June 16; today's angle = first-half title race, SL North; Owen Ayers No. 10 prospect + Jefferson Rojas leading charge; Knoxville in first place with first half winding down)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect feature)
+- **Follow-Up Opportunities:**
+  - First-half title result (watch for Southern League first-half winner announcement)
+  - Ayers continued production / promotion watch
+
+### STORY 6: Pre-Game Hype — Wild Card Must-Win Series
+- **Angle:** NEW STORY (pre-game hype; Cubs 40-37 vs Mets 34-43; 4 games against below-.500 team; wild card contender framing; Imanaga on the mound; 6:10 PM CT first pitch)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype/bold take)
+- **Follow-Up Opportunities:**
+  - Game 1 result recap
+  - Series momentum story after wins
+
+---
