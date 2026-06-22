@@ -1,0 +1,304 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-22",
+  "compiled_at": "2026-06-22T11:12:01.721678+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Giannis Trade — Draft Eve, Heat Still Frontrunner, Celtics Intensifying",
+      "tier": 1,
+      "status": "",
+      "angle": "Draft night is tomorrow (June 23, Barclays Center, Brooklyn). Giannis \"wants to be in Miami\" per league sources, but the Celtics have intensified efforts — reportedly exploring a multi-team deal that could move Jaylen Brown to a third team. Heat package: Tyler Herro + Kel'el Ware + Jaime Jaquez Jr. + No. 13 pick. Bucks wanted this resolved before the draft. Marc Stein still characterizes deal as \"drawing near.\" Tonight may be the last chance for Milwaukee to finalize a deal before picks are swapped on draft night.",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Giannis \"wants to be in Miami\" — Heat still in the driver's seat on draft eve. Herro + Ware + Jaquez + No. 13 is Milwaukee's best offer. Deal could come tonight. #MiamiHeat #Bucks",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MiamiHeat",
+            "#Bucks"
+          ],
+          "char_count": 179
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Don't count Boston out. Celtics INTENSIFIED Giannis talks — exploring a multi-team deal that could move Jaylen Brown to a third team. Draft is TOMORROW. #Celtics #Bucks",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Celtics",
+            "#Bucks"
+          ],
+          "char_count": 168
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-giannis-trade-draft-eve-heat-celtics.html",
+        "headline": "Giannis Trade — Draft Eve: Heat Remain Frontrunner as Celtics Make Late Push",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Trade — Draft Eve Update\n**Key Facts (HIGH confidence):**\n- Draft is June 23, 8 PM ET, Barclays Center, Brooklyn — confirmed NBA.com\n- Giannis \"wants to be in Miami\" per league sources — CBS Sports / ClutchPoints\n- Heat package: Tyler Herro + Kel'el Ware + Jaime Jaquez Jr. + No. 13 pick — multiple sources\n- Celtics have \"intensified\" Giannis trade efforts — ClutchPoints\n- Celtics exploring multi-team deal, potentially moving Jaylen Brown to a third team — CBS Sports / Sunday Guardian Live\n- Heat remain \"in the driver's seat\" — ClutchPoints\n- Bucks co-owner Jimmy Haslam wanted resolution \"before the draft\" — previously confirmed\n- Marc Stein described deal as \"drawing near\" — previously confirmed\n**MEDIUM confidence:**\n- Jaylen Brown not expected to go to Milwaukee in multi-team scenario — CBS Sports report\n- Giannis eligible for $275M extension starting Oct. 1",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "NBA Draft Eve — Wizards' \"Tough Call\": Dybantsa or Peterson at No. 1",
+      "tier": 1,
+      "status": "",
+      "angle": "Twenty-four hours until the draft. Washington Wizards still officially \"torn\" between AJ Dybantsa and Darryn Peterson, per ESPN insiders who call it a \"tough call.\" Dybantsa holds -450 betting odds at No. 1 despite not working out for any team (\"They know what I can do\"). Peterson's counterstrategy: only visited Washington, refusing all other team meetings to signal he's No. 1 or nothing. The Jazz project to take whichever prospect the Wizards pass on at No. 2. Draft 8 PM ET Tuesday on ABC/ESPN.",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "AJ Dybantsa didn't work out for a single team before the draft. His reason: \"I don't gotta work out. They know what I can do.\" -450 odds at No. 1. Draft is TOMORROW. #NBADraft #Wizards",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBADraft",
+            "#Wizards"
+          ],
+          "char_count": 184
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Darryn Peterson's strategy: visit ONLY the Wizards. Refuse everyone else. No. 1 or nothing. Washington is still \"torn.\" Draft night tomorrow 8 PM ET on ABC. #NBADraft",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBADraft"
+          ],
+          "char_count": 166
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-nba-draft-eve-dybantsa-peterson-wizards.html",
+        "headline": "NBA Draft Eve 2026: Wizards Still \"Torn\" Between Dybantsa and Peterson at No. 1",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Draft Eve — Dybantsa vs. Peterson\n**Key Facts (HIGH confidence):**\n- Draft June 23-24, Barclays Center, 8 PM ET ABC/ESPN — confirmed NBA.com\n- Wizards hold No. 1 overall pick — confirmed\n- ESPN insiders call the Dybantsa/Peterson decision a \"tough call\" for Washington — multiple outlets cite ESPN reporting\n- Dybantsa stats at BYU: 25.5 PPG / 51.0% FG / 6-foot-9 — previously verified\n- Dybantsa did NOT work out for any team; quote: \"I don't gotta work out. They know what I can do.\" — previously confirmed\n- Peterson only visited Washington, refused meetings with other teams — multiple sources\n- Dybantsa -450 betting odds at No. 1 — Bleacher Report/multiple\n- Jazz projected No. 2 — would take whichever prospect Wizards pass on — ESPN mock draft\n- First Washington No. 1 pick since John Wall 2010 — previously confirmed\n**MEDIUM confidence:**\n- The margin between Dybantsa and Peterson called \"razor-thin\" by league sources — NBC Sports big board",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Austin Reaves — Lakers Exclusive Window, Must Decide by June 29",
+      "tier": 2,
+      "status": "",
+      "angle": "The clock is ticking on Austin Reaves' player option. He must opt out of his $14.9M option by June 29, one day before free agency opens June 30. Lakers hold exclusive negotiating window now and can offer 5yr/$239M (vs. Nets' 4yr/$178M max). League executives expect Reaves to re-sign in LA — he's said he wants to stay for his entire career. Doncic partnership is the key retention argument, but Reaves has confirmed the decision \"will not come down solely to dollars.\"",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Austin Reaves has until June 29 to opt out of his $14.9M deal. Lakers can offer 5yr/$239M. Nets lurking at $178M. One week until the decision that defines the Lakers' next era. #LakeShow",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow"
+          ],
+          "char_count": 186
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-austin-reaves-lakers-free-agency-june-29.html",
+        "headline": "Austin Reaves' $239M Decision: Lakers in Exclusive Window as June 29 Deadline Approaches",
+        "word_count": 619
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austin Reaves — Lakers Window\n**Key Facts (HIGH confidence):**\n- Reaves must opt out of $14.9M player option by June 29 — multiple sources\n- Free agency opens June 30 — confirmed\n- Lakers can offer 5yr/$239M max (Bird rights) — multiple sources\n- Nets can offer 4yr/$178M max — multiple sources\n- Reaves averaged 23.3 PPG / 5.5 APG / 4.7 RPG / 49.0% FG last season — previously verified\n- Age: 28 — previously verified\n- Quote: decision \"will not come down solely to dollars\" — multiple sources (Heavy, LakersNation)\n- Hawks and Pistons also interested — SI/NBC Sports\n**MEDIUM confidence:**\n- League executives expect Lakers to retain Reaves if they offer near max value — Heavy.com",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ja Morant Trade Market — Memphis Holds Through Draft Night",
+      "tier": 2,
+      "status": "",
+      "angle": "Memphis has deliberately pumped the brakes on Ja Morant trade talks until tomorrow's draft resolves the Giannis sweepstakes. Heat remain Morant's most likely destination as Plan B if they miss Giannis. Phoenix Suns and Sacramento Kings are also in the conversation. Morant has 2 years/$87M remaining ($42.1M next season, $44M in 2027-28). The post-draft market could move fast — and Memphis holds the No. 3 overall pick that could sweeten any deal.",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Memphis is deliberately waiting on Giannis before entering the Ja Morant trade market. Heat are Plan B. Suns and Kings also circling. 2 yrs/$87M left on his deal. #Grizzlies #NBA",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Grizzlies",
+            "#NBA"
+          ],
+          "char_count": 178
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-ja-morant-trade-memphis-post-draft-market.html",
+        "headline": "Ja Morant Trade Market Frozen Until Draft Night — Then It Could Explode",
+        "word_count": 556
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ja Morant Trade\n**Key Facts (HIGH confidence):**\n- Memphis deliberately pausing trade talks until Giannis resolves — SI / Yahoo Sports\n- Morant contract: 2 years / $87M remaining ($42.1M next season, $44M in 2027-28) — SI\n- Heat interested as Plan B — confirmed multiple pipelines\n- Phoenix Suns also targeting Morant — Yahoo Sports\n- Morant averaged 24.4 PPG last season — previously verified\n- Memphis holds No. 3 overall pick in 2026 draft — confirmed\n- Sacramento Kings previously interested at deadline, still in conversation — Yahoo Sports\n**MEDIUM confidence:**\n- Chicago Bulls mentioned as potential landing spot — TWSN prediction piece (lower confidence)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Knicks Championship Offseason — No. 24 Pick Tomorrow, Brunson Extension Next",
+      "tier": 2,
+      "status": "",
+      "angle": "The reigning champions enter draft night with the No. 24 pick (plus No. 31 and No. 55 in Round 2). New York's offseason checklist: nail the draft, lock up OG Anunoby and Karl-Anthony Towns (free agency opens June 30), then negotiate Jalen Brunson's extension. The luxury-tax bill will be massive, but the Knicks have the championship goodwill and a proven core — first repeat attempt in franchise history starts tomorrow night.",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Reigning champs enter draft night with three picks (No. 24, No. 31, No. 55). Then free agency opens June 30 — OG, KAT, and Brunson's extension all on the table. The Knicks' repeat window is NOW. #NewYorkKnicks",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks"
+          ],
+          "char_count": 209
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-knicks-championship-offseason-draft-no-24.html",
+        "headline": "Knicks Championship Offseason Begins: No. 24 Pick Tomorrow, Extensions to Follow",
+        "word_count": 598
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Offseason\n**Key Facts (HIGH confidence):**\n- Knicks have No. 24 pick in Round 1, plus No. 31 (via Washington Wizards) and No. 55 in Round 2 — confirmed search results\n- Free agency opens June 30 — confirmed\n- Knicks won 2026 NBA Championship (first since 1973) — confirmed throughout pipeline\n- Key free agents: OG Anunoby, Karl-Anthony Towns — previously confirmed\n- Jalen Brunson extension discussions expected post-free agency — confirmed pipeline\n**MEDIUM confidence:**\n- Knicks face significant luxury-tax implications retaining championship core",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

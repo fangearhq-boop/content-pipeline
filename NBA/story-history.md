@@ -3264,3 +3264,48 @@
 - **Key facts:** Memphis waiting for Giannis deal to close before entering trade market; Heat interested as Plan B if they miss Giannis; Morant 24.4 PPG last season; multiple teams interested; Grizzlies went 41-41 last season
 - **Status:** NEW
 - **Follow-up ideas:** Trade announced post-June 23 draft
+
+## 2026-06-22
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-22 | T1 | Giannis Trade — Draft Eve: Heat Frontrunner, Celtics Intensify with Multi-Team Push | X, FB, Article | FOLLOW UP |
+| 2026-06-22 | T1 | NBA Draft Eve — Wizards "Torn" Between Dybantsa and Peterson at No. 1 | X, FB, Article | FOLLOW UP |
+| 2026-06-22 | T2 | Austin Reaves — Lakers Exclusive Window, $239M Decision Before June 29 | X, FB, Article | FOLLOW UP |
+| 2026-06-22 | T2 | Ja Morant Trade Market Frozen — Memphis Waits Through Draft Night | X, FB, Article | FOLLOW UP |
+| 2026-06-22 | T2 | Knicks Championship Offseason — No. 24 Pick Tomorrow, Extensions Start June 30 | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Giannis Trade — Draft Eve, Heat vs. Celtics
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade Rumors
+- **Key facts:** Draft night June 23 Barclays Center 8 PM ET; Giannis "wants to be in Miami" per league sources; Heat package Herro+Ware+Jaquez+No.13 still frontrunner; Celtics "intensified" efforts per ClutchPoints; Celtics exploring multi-team deal potentially moving Jaylen Brown to third team; Heat "in driver's seat"; Marc Stein deal "drawing near"; Giannis eligible $275M extension Oct. 1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade announced tonight or on draft night June 23
+
+### STORY 2: NBA Draft Eve — Dybantsa vs. Peterson
+- **Tier:** 1
+- **Category:** NBA Draft
+- **Key facts:** Draft June 23-24 8 PM ET ABC/ESPN Barclays Center; Wizards "torn" between Dybantsa and Peterson per ESPN insiders ("tough call"); Dybantsa -450 odds No. 1; Dybantsa 25.5 PPG/51.0% FG/6-9 BYU; didn't work out for any team ("I don't gotta work out. They know what I can do."); Peterson only visited Washington refused all other meetings; Jazz projected to take whichever Wizards pass on at No. 2; margin called "razor-thin"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Draft night results — Dybantsa or Peterson goes No. 1
+
+### STORY 3: Austin Reaves — Lakers Window
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** Opt-out deadline June 29; FA opens June 30; Lakers 5yr/$239M vs Nets 4yr/$178M; league execs expect re-sign if Lakers offer near max; Reaves 23.3 PPG/5.5 APG/4.7 RPG/49.0% FG age 28; quote: decision "will not come down solely to dollars"; Hawks+Pistons also interested
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Reaves opts out June 29; signs with Lakers June 30+
+
+### STORY 4: Ja Morant Trade — Memphis Holds
+- **Tier:** 2
+- **Category:** NBA Trade Rumors / Grizzlies
+- **Key facts:** Memphis deliberately pausing trade talks until Giannis resolves; Heat Plan B; Suns and Kings also in conversation; Morant 2 yrs/$87M ($42.1M next season, $44M 2027-28); 24.4 PPG last season; Memphis holds No. 3 overall pick; post-draft market expected to move fast
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-draft trade announced; Heat or Suns land Morant
+
+### STORY 5: Knicks Championship Offseason
+- **Tier:** 2
+- **Category:** NBA Offseason / Knicks
+- **Key facts:** Knicks have No. 24 (R1), No. 31 (via Washington, R2), No. 55 (R2) picks in 2026 draft; FA opens June 30; priority free agents: OG Anunoby, Karl-Anthony Towns; Brunson extension negotiations expected; massive luxury-tax bill ahead; first repeat attempt in franchise history
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Knicks re-sign OG+KAT; Brunson extension signed
