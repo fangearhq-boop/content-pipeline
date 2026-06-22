@@ -1377,3 +1377,48 @@ Tracking published stories to avoid repeats and maintain coverage breadth.
 - **Key facts:** Yan Liu shot 6-under 66 to lead Round 1; Blythefield CC Belmont Michigan; cold/chilly conditions Day 1; jam-packed leaderboard; $3M purse; Father's Day June 21 free admission for dads; KPMG Women's PGA June 25-28 Hazeltine follows
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** R2 leaderboard; Liu hold or fall
+
+## 2026-06-22
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-22 | T1 | Wyndham Clark Wins 2026 US Open — Wire-to-Wire at Shinnecock Hills | X, FB, Article | NEW |
+| 2026-06-22 | T1 | Yamashita Wins Meijer LPGA Classic in Playoff Over Woad | X, FB, Article | NEW |
+| 2026-06-22 | T2 | KPMG Women's PGA Preview — Korda Grand Slam + Hall of Fame Bid at Hazeltine | X, FB, Article | NEW |
+| 2026-06-22 | T2 | LIV Golf Running on Loans — $350M Investor Push, Reduced Schedule Plan | X, FB, Article | FOLLOW UP |
+| 2026-06-22 | T2 | Scheffler's Grand Slam Bid Falls Short — Clark Wins US Open | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Clark Wins 2026 US Open
+- **Tier:** 1
+- **Category:** PGA Tour / US Open
+- **Key facts:** Clark won at -4; 1-shot over Sam Burns at -3; shot 73 in final round; led by 6 entering Sunday; gallery mocked tee shots/cheered misses; wire-to-wire (9th ever in US Open history); first since Kaymer at Pinehurst 2014; Clark's 2nd US Open (also 2023); Shinnecock Hills Southampton NY
+- **Status:** NEW
+- **Follow-up ideas:** Clark FedExCup standings; Clark at The Open Championship
+
+### STORY 2: Yamashita Wins Meijer LPGA in Playoff
+- **Tier:** 1
+- **Category:** LPGA / Meijer Classic
+- **Key facts:** Yamashita shot final-round 64; finished -17; Woad three-putted from 50 feet on 18 for bogey to force playoff; Yamashita won on first playoff hole; age 24; first Japanese winner of Meijer LPGA; first LPGA US win for Yamashita; Blythefield CC Belmont MI
+- **Status:** NEW
+- **Follow-up ideas:** Yamashita at KPMG; Woad bounce-back performance
+
+### STORY 3: KPMG Women's PGA Preview
+- **Tier:** 2
+- **Category:** LPGA / KPMG / Major
+- **Key facts:** June 25-28 Hazeltine National Chaska MN; Korda World No. 1/won first 2 majors of 2026 (Masters+US Women's Open); Grand Slam bid (would be 2nd women's Grand Slam ever; 1st since Babe Zaharias 1950); Korda at 25/27 LPGA Hall of Fame points; win = Hall eligible at 27; Thitikul No. 2 seeking first major; 12 past champions in field; defending champion Minjee Lee
+- **Status:** NEW
+- **Follow-up ideas:** KPMG Round 1 leaderboard; Korda wins (Grand Slam + HoF) or falls short
+
+### STORY 4: LIV Golf Financial
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** PIF lending facility covering 2026 operations; PIF ends support after 2026; seeking $250-350M investors; CEO O'Neil roadshow; plan: ~10 events/year, prize funds $5-10M (down from $30M); Ducera Partners as financial advisor; leadership reshuffled; annual losses ~$500-600M
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** New investor deal signed; event cancellation; 2027 schedule announcement
+
+### STORY 5: Scheffler Grand Slam Fails
+- **Tier:** 2
+- **Category:** PGA Tour / Feature
+- **Key facts:** Clark won; Burns was 2nd at -3; Scheffler entered Sunday 6 shots back; Grand Slam bid (had Masters/PGA/The Open) over for 2026; career Grand Slam still achievable; Scheffler age 29; 6 all-time career Grand Slam winners (Sarazen/Hogan/Player/Nicklaus/Woods/McIlroy)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler wins future US Open (completes career Grand Slam)
