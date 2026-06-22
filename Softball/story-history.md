@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 22, 2026
+
+### Story 1: Beachum to Florida — The Portal's Most Dramatic In-State Flip
+- **Date:** 2026-06-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 21 — Day 14 uncommitted, visited Florida, portal closes today)
+- **Angle:** Jaysoni Beachum (.417 BA / 16 HR / 66 RBI / .549 OBP) commits to Florida on the final day of the portal (Day 15 of 15). Tallahassee native crosses state to FSU's rival. Fills Kendall Grover's 3B void. Tim Walton lands No. 1 transfer. FSU loses both Torres and Beachum in same window.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Florida 2027 preseason rankings
+  - FSU rebuild progress (new pieces Dodge + Edmiaston)
+
+### Story 2: Texas Tech Portal Class Complete — Three All-Americans, One Goal
+- **Date:** 2026-06-22
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Polar June 15, Heavener earlier, Pickering June 18, class complete)
+- **Angle:** Texas Tech completes historic portal class: Polar (.555 BA), Heavener (LSU 13-9/2.81 ERA), Pickering (OU On3 No. 2/.370/20 HR) plus Maestretti + Bernard. Softball America No. 1 class. 61-8 WCWS runner-up loads up to finish the job in 2027.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Texas Tech vs Texas 2027 title race
+  - Fall ball / preseason rankings
+
+### Story 3: Portal Closes — Final Scoreboard and 2027 Power Rankings
+- **Date:** 2026-06-22
+- **Tier:** 2
+- **Classification:** FOLLOW UP (ongoing tracker — final edition)
+- **Angle:** Portal closes June 22 after 15-day window. 120+ entered, 84+ committed (70%). Final power rankings: Texas > Texas Tech > Florida > Nebraska > South Carolina.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - 2027 preseason polls
+  - Fall camp reports
+
+### Story 4: Florida's 2027 Roster — What Beachum + Portal Adds Mean for Tim Walton
+- **Date:** 2026-06-22
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Florida adds Beachum (3B, No. 1 transfer) + Duke transfer Kairi Rodriguez. Tim Walton builds portal class to push Gators into national title contention for first time since 2015.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Florida 2027 preseason rankings
+  - Gators fall camp progress
+
+### Story 5: Portal Window Closes — Day 15 of 15
+- **Date:** 2026-06-22
+- **Tier:** 3
+- **Classification:** FOLLOW UP (ongoing tracker — final entry)
+- **Angle:** Day 15 of 15. First-ever 15-day portal window closes. 120+ entered, 84+ committed. Beachum was final major uncommitted name. Portal officially over. 2027 season begins.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - 2027 preseason rankings (August)
+  - Next portal window (June 2027)
+
+---
+
 ## June 21, 2026
 
 ### Story 1: Beachum Watch — Day 14, Final 24 Hours

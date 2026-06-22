@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-22
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 1 Post 1 282→231; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (38 claims HIGH/MEDIUM/LOW, 0 violations, consistency clean), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published via publish-dashboard.py (cherry-pick after detached HEAD + pull --rebase). PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). 1 char violation fixed (Story 1 Post 1 282→231). PostPlanner 0 posts (no scheduling — expected). Detached HEAD resolved via checkout main + pull --rebase + cherry-pick.
+- **Key Stories**: Beachum commits to Florida on portal closing day/in-state flip/Tallahassee native to FSU rival/fills Grover 3B void (Tier 1 FOLLOW UP), Texas Tech portal class complete/Polar+Heavener+Pickering three All-Americans/Softball America No. 1 class (Tier 1 FOLLOW UP), Portal closes final scoreboard/Texas+Tech+Florida top three/120 entered 84 committed (Tier 2 FOLLOW UP), Florida 2027 roster analysis/Beachum+Rodriguez/Tim Walton builds title contender (Tier 2 NEW), Portal Day 15 of 15 closes/first-ever 15-day window complete (Tier 3 FOLLOW UP)
+
+
+## Last Run
 - **Date**: 2026-06-21
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; format fixed Post N headers; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (28 claims HIGH/MEDIUM, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published to ilovesoftball-dashboards (cherry-pick after detached HEAD), PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -10,7 +19,7 @@
 - **Key Stories**: Beachum Day 14/final 24 hours/visited Florida/portal closes June 22 (Tier 1 FOLLOW UP), South Carolina lands Bella Foran + Saviya Morgan/quiet portal winner (Tier 2 NEW), FSU adds Edmiaston as second portal piece alongside Dodge/rebuild continues (Tier 2 NEW), Portal winner final verdict Texas vs Texas Tech/84 of 120 committed (Tier 2 FOLLOW UP), Portal Tracker Day 14 of 15/last 24 hours (Tier 3 FOLLOW UP)
 
 
-## Last Run
+## Previous Run
 - **Date**: 2026-06-20
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (prior session), brief (5 stories), research notes, story analysis, X posts (7; format fix applied **Text Post N — Type** → **Post N** for compile parsing; 2 content tweets trimmed Story 1 P1 ~316→228 chars, Story 5 P1 ~344→236 chars; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (72 claims HIGH/MEDIUM, 0 char violations, consistency clean), compile (5 stories, 7 tweets, 5 stories FB, 5 articles, 27 items), dashboard (27 items), dashboard published to ilovesoftball-dashboards, PostPlanner exports (0 posts — no scheduling; expected), WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
