@@ -2,6 +2,48 @@
 
 ---
 
+## June 22, 2026
+
+### Story 1: RECALL — GOPO Toys Pull String Teething Toys (Choking Hazard, 70,000+ Units)
+- **Content Pillar:** National Parenting (Product Safety)
+- **Angle:** NEW STORY — CPSC recalled ~70,410 GOPO Toys Pull String Teething Toys (June 18, 2026). Choking hazard — silicone strings smaller and longer than mandatory toy safety standard; can reach back of child's throat. 3 reported incidents (choking/respiratory distress). Amazon Aug 2023–Mar 2026, $11–$15. Batch numbers: 250905, 250530, 250120, 240315, 231005, 230610. Action: stop use, cut strings, write "DESTROYED," photo to recalls@gopotoys.com. cpsc.gov; 1-800-638-2772.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov, foxbusiness.com, dailyvoice.com, yahoo.com, livenowfox.com
+- **Follow-Up Opportunities:** None — refund active; will age out
+
+### Story 2: Pikes Peak Library District Summer Adventure 2026 — Free, All Ages, Through July 31
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — PPLD Summer Adventure "Unearth a Story" free program runs through July 31. All ages. 30 days of activities tracked via Beanstack. Grand prizes: Pikes Peak Region Attractions VIP Pass + Broadmoor Cloud Camp stay. PPLD East Library 5550 N. Union Blvd. = free lunches + free books for kids Mon–Fri through July 31 (D11 partnership). Register ppld.org/summer.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** ppld.org, kktv.com, koaa.com, fox21news.com, gazette.com
+- **Follow-Up Opportunities:** Prize announcement if relevant; July 31 deadline reminder
+
+### Story 3: D11 Free Summer Meals — All Kids Ages 1–18, No District Requirement
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 offering free breakfast + lunch this summer for all kids ages 1–18 in COS regardless of school district. Multiple sites (schools, community centers, playgrounds). PPLD East Library 5550 N. Union Blvd. is a meal site Mon–Fri through July 31 (also free books). d11.org; kidsfoodfinder.org.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** kktv.com, d11.org, koaa.com
+- **Follow-Up Opportunities:** None — ongoing summer program; will age out
+
+### Story 4: Colorado Springs Free Splash Pads and Spray Grounds Guide 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — All city spray grounds/fountains are free. Open: Watering Hole at John Venezia Park (10am–6pm); Panorama Park (10am–6pm); Deerfield Hills (10am–5pm, 50+ nozzles); Uncle Wilber Fountain Acacia Park (noon–6pm). CLOSED 2026: Julie Penrose Fountain (budget adjustment). YMCA pools: $10 youth/$15 adult/$45 family.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** coloradosprings.gov, koaa.com, cospringsmom.com, livingthesprings.com
+- **Follow-Up Opportunities:** None — evergreen summer guide
+
+### Story 5: New Study Links Excessive Screen Time to Kids' Mental Health (AAP 2026 Update)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — 2026 study (Nature/HSSC, 50,231 kids ages 6–17, NSCH data): excessive screen time linked to anxiety, depression, behavior problems, ADHD. Physical activity and sleep mediate effects. AAP 2026 updated guidance: no screens under 18 months; 1hr/day ages 2–5; quality + context + conversation over strict limits; device-free bedrooms/meals.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** nature.com, choc.org, aap.org, favormentalhealthservices.com
+- **Follow-Up Opportunities:** None — evergreen study reference
+
 ## June 21, 2026
 
 ### Story 1: RECALL — YCXXKJ Baby Bath Seats (Drowning Hazard, Discard, Manufacturer Not Responding)

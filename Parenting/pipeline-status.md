@@ -1,5 +1,44 @@
 # COS Parenting — Pipeline Status
 
+## Latest Run: June 22, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | GOPO Toys Pull String Teething Toy recall (CPSC June 18, 2026; ~70,410 units; Amazon Aug 2023–Mar 2026; $11–$15; silicone strings reach back of infant's throat — choking/respiratory distress; 3 confirmed incidents; destroy: cut all 6 strings + "DESTROYED" + photo to recalls@gopotoys.com for refund; batch numbers 250905/250530/250120/240315/231005/230610; cpsc.gov; 1-800-638-2772); PPLD Summer Adventure (free all ages through July 31; 30 days reading/exploring/creating; track via Beanstack; grand prizes include Broadmoor Cloud Camp stay; ppld.org/summer; PPLD East Library 5550 N. Union Blvd free lunch+books Mon–Fri through July 31; D11+PPLD partnership); D11 Free Summer Meals (all kids ages 1–18 in Colorado Springs; no D11 enrollment required; no paperwork; free breakfast+lunch; schools/community centers/parks; d11.org + kidsfoodfinder.org); COS Free Splash Pads Guide (John Venezia 10am–6pm; Panorama Park 10am–6pm; Deerfield Hills 10am–5pm 50+ spray nozzles; Uncle Wilber Acacia Park noon–6pm; Julie Penrose Fountain CLOSED 2026 — budget adjustment; YMCA outdoor pools $10/$15/$45 family); Screen Time + Kids Mental Health 2026 (Humanities and Social Sciences Communications/Nature portfolio; 50,231 children 6–17; US National Survey; excessive screen time → anxiety/depression/behavior/ADHD; physical activity + sleep buffer effects; AAP 2026: quality+context over strict limits; device-free bedrooms+mealtimes; co-viewing) |
+| Story History Check | COMPLETE | 4 NEW STORIES (PPLD Summer Adventure, D11 free meals, splash pads guide, screen time study) + 1 REPEAT-ANGLE (GOPO recall — first covered June 19; June 22 repeat given wide distribution and public safety urgency) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 each for S1/S2/S3; 1 each for S4/S5); 4 char violations fixed on second verify-facts run (Stories 2/3/4/5 had overlong draft code blocks parsed); all under 280 chars; 4 hashtags each; 0 exclamation marks; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — Gemini base_only prompts (10 concepts across 5 stories) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-1000 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags) |
+| Fact-Check | COMPLETE | verify-facts.py passed (2 runs); 76 claims; 4 char violations fixed between runs; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-22.xlsx (8 posts: 8 X, 12:56–20:52 MT) + TOBI cosp-postplanner-tobi-2026-06-22.xlsx (8 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — Host not in allowlist / proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-22)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total posts (PostPlanner xlsx: 8 X posts)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-22.xlsx (8 posts), cosp-postplanner-tobi-2026-06-22.xlsx (8 TOBI posts)
+- **Coverage:** GOPO Toys Pull String Teething Toy recall (CPSC June 18, 2026; ~70,410 units; Amazon only Aug 2023–Mar 2026 $11–$15; silicone strings reach back of infant's throat; 3 confirmed choking/respiratory distress incidents; destroy: cut all 6 strings + write "DESTROYED" in marker + email photo to recalls@gopotoys.com for refund; batch numbers 250905/250530/250120/240315/231005/230610; cpsc.gov; 1-800-638-2772); PPLD Summer Adventure (free all ages through July 31; 30 days exploring/reading/creating; track via Beanstack app; grand prizes include Broadmoor Cloud Camp stay; ppld.org/summer; PPLD East Library 5550 N. Union Blvd free lunch for kids+teens + free books to take home Mon–Fri through July 31; D11+PPLD summer partnership); D11 Free Summer Meals (all kids ages 1–18 in Colorado Springs; no D11 enrollment required; no paperwork; free breakfast+lunch at schools/community centers/parks across city; d11.org + kidsfoodfinder.org); COS Free Splash Pads Guide 2026 (John Venezia Park NE COS 10am–6pm/12+ features/next to universally accessible playground; Panorama Park SE COS 10am–6pm; Deerfield Hills SE COS 10am–5pm largest city spray ground 50+ nozzles 16 features; Uncle Wilber Fountain Acacia Park 115 E. Platte Ave downtown noon–6pm; Julie Penrose Fountain CLOSED 2026 — Parks budget adjustment; YMCA outdoor pools $10 youth/$15 adult/$45 family with lifeguards); Screen Time and Kids' Mental Health 2026 (Humanities and Social Sciences Communications/Nature portfolio; 50,231+ children ages 6–17; US National Survey of Children's Health; excessive screen time → higher anxiety/depression/behavior+conduct problems/ADHD symptoms; physical activity + adequate sleep = two primary mediators/buffers; AAP 2026: no screens under 18mo; 1hr/day quality content ages 2–5; quality+context over strict limits for ages 6+; co-viewing; device-free bedrooms+mealtimes; healthychildren.org)
+- **Notes:**
+  - verify-facts.py: 2 runs — first run found 4 char violations (Stories 2/3/4/5 had both an overlong draft code block AND a trimmed replacement code block; parser read first/overlong block). Fixed by rewriting 03-social-posts-x.md with single clean code blocks. Second run passed.
+  - compile: 5 stories, 8 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts: 8 X) and TOBI (8 TOBI posts) generated successfully; 12:56–20:52 MT
+  - WordPress: host not in allowlist error; same environment restriction as all prior runs
+  - Dashboard push: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (same as June 21 — continuing rotation pattern)
+  - Pipeline ran as Niche 2 in sequence after Tennis (Niche 1 completed June 22)
+
+---
+
 ## Latest Run: June 21, 2026
 
 | Step | Status | Notes |
