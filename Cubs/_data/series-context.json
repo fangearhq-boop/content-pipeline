@@ -1,42 +1,66 @@
 {
-  "generated_at": "2026-06-21T08:30:00.630542+00:00",
-  "today_ct": "2026-06-21",
+  "generated_at": "2026-06-22T08:30:00.775589+00:00",
+  "today_ct": "2026-06-22",
   "off_day": false,
-  "is_series_start_today": false,
+  "is_series_start_today": true,
   "series": {
-    "opponent": "Toronto Blue Jays",
-    "opponent_id": 141,
-    "opponent_record": "38-39",
+    "opponent": "New York Mets",
+    "opponent_id": 121,
+    "opponent_record": "34-43",
     "cubs_record": "40-37",
-    "is_cubs_home": true,
-    "venue": "Wrigley Field",
-    "series_length": 1,
+    "is_cubs_home": false,
+    "venue": "Citi Field",
+    "series_length": 4,
     "games": [
       {
-        "game_pk": "824664",
-        "game_date_iso": "2026-06-21T18:20:00Z",
-        "game_date_ct": "Sun 1:20 PM CT",
+        "game_pk": "823613",
+        "game_date_iso": "2026-06-22T23:10:00Z",
+        "game_date_ct": "Mon 6:10 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "823614",
+        "game_date_iso": "2026-06-23T23:10:00Z",
+        "game_date_ct": "Tue 6:10 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "823611",
+        "game_date_iso": "2026-06-24T23:10:00Z",
+        "game_date_ct": "Wed 6:10 PM CT",
+        "cubs_probable": "TBD",
+        "opponent_probable": "TBD",
+        "status": "Preview"
+      },
+      {
+        "game_pk": "823612",
+        "game_date_iso": "2026-06-25T23:10:00Z",
+        "game_date_ct": "Thu 6:10 PM CT",
         "cubs_probable": "TBD",
         "opponent_probable": "TBD",
         "status": "Preview"
       }
     ],
-    "rationale": "Same opponent (Toronto Blue Jays) as yesterday \u2014 this is mid-series, not a series opener."
+    "rationale": "Yesterday vs Toronto Blue Jays; today vs New York Mets \u2192 game 1 of 4 (on the road)."
   },
   "today_cubs_game": {
-    "game_pk": "824664",
+    "game_pk": "823613",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-06-21T18:20:00Z",
-    "game_date_ct": "Sun 1:20 PM CT",
-    "is_cubs_home": true,
-    "opponent_id": 141,
-    "opponent_name": "Toronto Blue Jays",
-    "opponent_record": "38-39",
+    "game_date_iso": "2026-06-22T23:10:00Z",
+    "game_date_ct": "Mon 6:10 PM CT",
+    "is_cubs_home": false,
+    "opponent_id": 121,
+    "opponent_name": "New York Mets",
+    "opponent_record": "34-43",
     "cubs_record": "40-37",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
-    "venue": "Wrigley Field"
+    "venue": "Citi Field"
   },
-  "rationale": "Same opponent (Toronto Blue Jays) as yesterday \u2014 this is mid-series, not a series opener."
+  "rationale": "Yesterday vs Toronto Blue Jays; today vs New York Mets \u2192 game 1 of 4 (on the road)."
 }
