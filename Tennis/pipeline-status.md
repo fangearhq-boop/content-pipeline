@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-21 |
-| Writing | Complete (all steps) | 2026-06-21 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 29 claims, 61 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-21 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-21 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-06-21 |
-| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-06-21 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-21 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-21 |
+| Research | Complete | 2026-06-22 |
+| Writing | Complete (all steps) | 2026-06-22 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 26 claims, 55 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-22 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-22 |
+| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-06-22 |
+| PostPlanner Export | Complete (standard 8 posts; TOBI 8 posts) | 2026-06-22 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-22 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-22 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-22 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (4 Tier 1, 1 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-22.xlsx (8 posts), tfr-postplanner-tobi-2026-06-22.xlsx (8 TOBI posts); 12:45–20:48 ET
+- **Coverage:** Cerundolo wins Queen's Club (def. Paul 6-7(4), 6-4, 6-3; 3h03m longest final in tournament history; first Argentine champion; 5th career title; 1st ATP 500; 2nd grass title; ended Paul's 9-match QC streak); Noskova wins Berlin WTA 500 (def. Pegula 6-4, 4-6, 6-3; 2nd career title; first grass; Top 10 debut as world No. 10; new Czech No. 1); Bouzkova wins Nottingham WTA (def. Navarro 7-6(5), 4-6, 6-2; 2h57m longest WTA match of 2026; 4th career title; first grass; career-high No. 22); Wimbledon 2026 seedings locked (cutoff today June 22; Men: Sinner 1, Zverev 2, FAA 3, Shelton 4, de Minaur 5, Fritz 6, Djokovic 7, Medvedev 8; 6 Americans; Women: Sabalenka 1, Rybakina 2, Swiatek 3, Pegula 4, Andreeva 5; Alcaraz OUT wrist; draw June 26, Championships June 29); Wimbledon qualifying Day 1 at Roehampton (256 players, 32 spots, ESPN+ exclusive, through June 25)
+- **Notes:**
+  - Czech women sweep both WTA grass-court week 2 titles (Noskova Berlin + Bouzkova Nottingham) — highlighted across S2/S3
+  - verify-facts.py: passed; 26 claims, 55 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 8 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 12:45–20:48 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-21 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
