@@ -3003,3 +3003,48 @@
 - **Key facts:** Austrian GP June 26-28 Red Bull Ring Spielberg; Race Sunday June 28 3:00 PM CEST/9:00 AM ET; leg 1 of triple-header (Austria/Britain/Belgium); Ferrari ADUO upgrade debut; Red Bull weight reduction upgrade; Mercedes reliability test
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Austrian GP practice/qualifying coverage
+
+## 2026-06-22
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-22 | T1 | Verstappen Exit Clause Confirmed — Austria Is the Last Chance Saloon | X, FB, Article | FOLLOW UP |
+| 2026-06-22 | T1 | Austrian GP Preview — Hamilton Arrives with Momentum, 4 Days to Go | X, FB, Article | FOLLOW UP |
+| 2026-06-22 | T2 | Red Bull Austria Upgrade — Final 6kg, Mekies Manages Expectations Again | X, FB, Article | FOLLOW UP |
+| 2026-06-22 | T2 | Cadillac "Big" Austria Package — Racing for First F1 Points | X, FB, Article | FOLLOW UP |
+| 2026-06-22 | T2 | Championship Math Before Triple-Header — What Hamilton Needs | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Verstappen Exit Clause
+- **Tier:** 1
+- **Category:** Driver News / Red Bull
+- **Key facts:** Clause confirmed by manager Raymond Vermeulen (GPFans); activates if not top-2 at summer break; activation window Aug-Oct; Verstappen P7 zero wins; 4 races before break; Red Bull attempting buyout — Thai stakeholder for, Mateschitz/Mintzlaff against; insider says "impossible" for Red Bull to block; Mercedes frontrunner destination; McLaren also linked
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Clause activated / buyout resolved; Verstappen signs with new team
+
+### STORY 2: Austrian GP Preview
+- **Tier:** 1
+- **Category:** Race Preview / Austrian GP
+- **Key facts:** June 26-28 Red Bull Ring Spielberg; race Sunday June 28 3 PM CEST/9 AM ET; 8th race; Antonelli 156/Hamilton 115 (41 pts gap); Hamilton won Barcelona 106th career; Verstappen won Austrian GP 4 times (2018/2019/2021/2023); weather 30°C + electric storms risk; Ferrari ADUO PU upgrade + Red Bull final 6kg upgrade both debuting; leg 1 triple-header Austria/Britain/Belgium
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP qualifying Saturday; Race result Sunday
+
+### STORY 3: Red Bull Austria Upgrade
+- **Tier:** 2
+- **Category:** Technical / Red Bull
+- **Key facts:** RB22 started 12kg heavy; Miami cut to 6kg; Austria targets final 6kg; Mekies: "Austrian package alone will not be enough"; Red Bull P4 constructors; Verstappen P7; exit clause context heightens pressure
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austria qualifying pace; race result
+
+### STORY 4: Cadillac Austria Package
+- **Tier:** 2
+- **Category:** Midfield / Cadillac
+- **Key facts:** 0 pts in 7 races; fastest unscored team (ahead of Aston Martin by 1+ sec Barcelona); tire deg cliff after 15 laps per Perez; "big upgrade package" for Austria targeting deg; drivers: Perez + Bottas; Perez flags British GP as inflection point
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Cadillac first points scored
+
+### STORY 5: Championship Math
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** After 7/22 races: Antonelli 156/Hamilton 115/Russell 106/Leclerc 75/Norris 73; Mercedes constructors 262/Ferrari 190; Hamilton needs avg 2.7 pts/race advantage over 15 races; triple-header starts Austrian GP; Mercedes battery crisis (3 failures 3 teams) — Wolff promised fix for Austria
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Standings after Austrian GP

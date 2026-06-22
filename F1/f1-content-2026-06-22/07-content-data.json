@@ -1,0 +1,306 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-22",
+  "compiled_at": "2026-06-22T11:19:38.683208+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Exit Clause — Austria Is the Last Chance Saloon",
+      "tier": 1,
+      "status": "",
+      "angle": "Verstappen's confirmed exit clause triggers if he is not in the top two of the championship at the summer break. He currently sits seventh, 4 races remain before August shutdown (Austria is next). Red Bull is reportedly trying to buy out the clause — Thai stakeholder Chalerm Yoovidhya in favor of buyout, Mark Mateschitz and Oliver Mintzlaff opposed. Mercedes and McLaren are frontrunners should clause activate Oct window. Austria is Verstappen's home race — his only realistic path to stay without triggering the clause is a significant points swing this weekend.",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Max Verstappen's exit clause is confirmed: if he's not top 2 at the summer break, he can leave Red Bull from August. He's currently P7. Austria is his last real chance to change the math. #F1 #MaxVerstappen",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#MaxVerstappen"
+          ],
+          "char_count": 206
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Red Bull is trying to BUY OUT Verstappen's exit clause. Thai co-owner wants the deal done. Mateschitz and Mintzlaff are saying no. An insider says it's \"impossible\" for Red Bull to block it. Drama. #F1 #Verstappen",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-verstappen-exit-clause-austria-last-chance.html",
+        "headline": "Verstappen Exit Clause Confirmed — Austria Is the Last Chance Saloon",
+        "word_count": 625
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause\n**Key Facts (HIGH confidence):**\n- Verstappen exit clause confirmed by manager Raymond Vermeulen — GPFans\n- Clause activates if not top 2 at summer break; activation window August–October — multiple sources\n- Verstappen currently P7 in championship — confirmed standings\n- Red Bull trying to buy out clause per reports — MotorBiscuit / GPFans\n- Thai stakeholder Chalerm Yoovidhya FAVORS buyout; Mateschitz and Mintzlaff OPPOSED — GPFans\n- F1 insider claims clause is \"impossible\" for Red Bull to block — GPFans\n- 4 races before summer break: Austria + 3 others — confirmed calendar\n- Verstappen contract runs through 2028 — confirmed\n**MEDIUM confidence:**\n- Mercedes frontrunner if clause triggers — multiple linked reports\n- McLaren also strongly linked — multiple sources",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Austrian GP Preview — Hamilton Arrives with Momentum, 4 Days to Go",
+      "tier": 1,
+      "status": "",
+      "angle": "Four days until the Austrian Grand Prix (June 26-28, Red Bull Ring, Spielberg). Hamilton arrives carrying momentum from his Barcelona win (first Ferrari victory, 106th career). Championship gap: Antonelli leads 156–115 (41 pts). Red Bull bring major Austria upgrade (final 6kg weight reduction). Ferrari ADUO power unit upgrade debuts. Weather: extreme heat around 30°C with risk of electric storms. Verstappen has won Austrian GP 4 times (2018, 2019, 2021, 2023). Race Sunday June 28, 3 PM CEST / 9 AM ET.",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Austrian GP is 4 DAYS AWAY. 🇦🇹 Hamilton arrives with momentum (Barcelona win, 106th career). Antonelli leads 156-115. Red Bull bring final 6kg upgrade at home. Race Sunday 9 AM ET. #AustrianGP #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#F1"
+          ],
+          "char_count": 196
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Hamilton vs Antonelli. Verstappen's exit clause. Red Bull weight upgrade at home. Ferrari ADUO upgrade. Temperatures hitting 30°C. This Austrian GP has EVERYTHING. 4 days away. #AustrianGP #F1",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#F1"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-austrian-gp-preview-hamilton-momentum-june-26.html",
+        "headline": "Austrian GP Preview: Hamilton Arrives with Momentum, Red Bull Needs Magic at Home",
+        "word_count": 667
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austrian GP Preview\n**Key Facts (HIGH confidence):**\n- Austrian GP: June 26-28, Red Bull Ring, Spielberg — confirmed formula1.com\n- Race: Sunday June 28, 3:00 PM CEST / 9:00 AM ET — confirmed multiple sources\n- 8th race of the season — confirmed\n- Antonelli leads 156, Hamilton 115, Russell 106 — confirmed standings\n- Hamilton won Barcelona (1st Ferrari win / 106th career) — confirmed formula1.com\n- Verstappen has won Austrian GP 4 times: 2018, 2019, 2021, 2023 — Sky Sports\n- Weather: hot ~30°C, risk of electric storms — Sky Sports\n- Leg 1 of triple-header (Austria/Britain/Belgium) — confirmed\n**MEDIUM confidence:**\n- Ferrari ADUO upgrade and Red Bull weight upgrade both debuting at Austria — previous pipeline verified",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Red Bull Austria Upgrade — Final 6kg, Mekies Manages Expectations Again",
+      "tier": 2,
+      "status": "",
+      "angle": "Red Bull's second major update of 2026 targets eliminating the final 6kg overweight on the RB22 (started season 12kg heavy, Miami halved to 6kg). Mekies again cautious: \"the Austrian package alone will not be enough.\" Red Bull currently P4 in constructors, Verstappen P7. With exit clause looming, this upgrade carries enormous psychological weight for the team and the driver.",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Red Bull's Austria upgrade targets the final 6kg overweight on the RB22. Started the season 12kg heavy. Miami cut it in half. Laurent Mekies: \"the Austrian package alone will not be enough.\" 🔧 #RedBull #F1",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#RedBull",
+            "#F1"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-red-bull-austria-upgrade-final-6kg-mekies.html",
+        "headline": "Red Bull's Final 6kg Austria Upgrade: Mekies Manages Expectations — Again",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Red Bull Austria Upgrade\n**Key Facts (HIGH confidence):**\n- RB22 started season 12kg overweight — previously confirmed\n- Miami upgrade cut to 6kg — previously confirmed\n- Austria upgrade targets final 6kg — confirmed Yahoo Sports / Motorsport.com\n- Mekies quote: \"the Austrian package alone will not be enough\" — confirmed Motorsport.com\n- Red Bull P4 in constructors, Verstappen P7 — confirmed standings\n- Mekies: \"on that continuous closing-the-gap trajectory... we continue to get closer\" — confirmed",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cadillac's \"Big\" Austria Package — Racing for First F1 Points",
+      "tier": 2,
+      "status": "",
+      "angle": "F1's newest team arrives in Austria with what they're calling a \"big upgrade package\" targeting the midfield group. Cadillac (Perez + Bottas) has been fastest of the unscored teams on pace — clear of Aston Martin — but tire degradation has been the wall. \"Whenever we have a stint longer than 15 laps, we seem to struggle a lot with a massive cliff\" (Perez). Package targets that degradation issue. Perez pegs British GP as the likely inflection point.",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cadillac arrives in Austria with a \"big upgrade package\" targeting their first F1 points. 0 points in 7 races. Perez: tire deg beyond 15 laps is \"a massive cliff.\" This weekend could change that. #CadillacF1 #F1",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#CadillacF1",
+            "#F1"
+          ],
+          "char_count": 211
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-cadillac-austria-big-upgrade-first-f1-points.html",
+        "headline": "Cadillac's \"Big\" Austria Upgrade: Racing for Formula 1's First American Points",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cadillac Austria Package\n**Key Facts (HIGH confidence):**\n- Cadillac has scored zero championship points through 7 races — confirmed\n- Cadillac fastest unscored team on pace, clear of Aston Martin (ahead by 1+ second in Barcelona) — Autosport\n- Perez quote: \"Whenever we have a stint longer than 15 laps, we seem to struggle a lot with a massive cliff\" — Motorsport.com\n- Cadillac bringing \"big upgrade package\" for Austria per Crash.net headline (June 2026 article)\n- Perez expects British GP as inflection point — Motorsport.com\n- Drivers: Sergio Perez, Valtteri Bottas — confirmed",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Championship Math Before the Triple-Header — What Hamilton Needs",
+      "tier": 2,
+      "status": "",
+      "angle": "After 7 of 22 races: Antonelli 156, Hamilton 115, Russell 106, Leclerc 75, Norris 73. Austrian GP is leg 1 of the critical triple-header (Austria/Britain/Belgium). Hamilton needs to average a 2.7 points/race advantage over Antonelli across 15 remaining races to take the title. Austria on Red Bull's home turf is a test. Mercedes constructors lead 262–190 over Ferrari.",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "F1 standings after 7 races: Antonelli 156 / Hamilton 115 / Russell 106 / Leclerc 75 / Norris 73. Hamilton needs avg 2.7 pts/race advantage over 15 races to win the title. Triple-header starts Thursday. #F1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 205
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-f1-championship-math-hamilton-triple-header.html",
+        "headline": "F1 2026 Championship Math: Hamilton's Path Across the Triple-Header",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Math\n**Key Facts (HIGH confidence):**\n- After 7/22 races: Antonelli 156 / Hamilton 115 / Russell 106 / Leclerc 75 / Norris 73 — RacingNews365\n- Gap: 41 points Antonelli over Hamilton — multiple confirmed\n- 15 races remain — confirmed (22 total - 7 completed)\n- Mercedes constructors 262, Ferrari 190 — previously confirmed\n- Triple-header: Austria/Britain/Belgium — confirmed calendar\n- Hamilton needs avg ~2.7 pts/race advantage over 15 races to close 41-pt gap — calculated from standings",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
