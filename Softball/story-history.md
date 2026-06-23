@@ -3745,3 +3745,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - Final-week commitment wave
   - Torres/Beachum/Polar decisions
+
+---
+
+## Pipeline Run: June 23, 2026
+
+### Story 1: Isa Torres to Texas — What the Transfer Really Means for the Three-Peat
+- **Date:** 2026-06-23
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 22 — portal closed; Torres committed to Texas June 18; covered in portal scoreboard but first dedicated deep-dive article)
+- **Angle:** Isa Torres (D1 Player of the Year / .530 BA / .978 SLG / .591 OBP / 78 runs / NCAA record 16 consecutive at-bats) signs with Texas after 4 seasons at FSU. Georgetown, TX native returning home. Joins Stewart (31 HR record), Swan (All-Big 12 catcher), Kavan, Doty (No. 2 pitcher prospect). Analysis of three-peat outlook.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Fall practice integration reports (August)
+  - 2027 preseason rankings
+  - Torres's 2027 regular season performance
+
+### Story 2: FSU Softball's Painful Summer — Losing Torres and Beachum, but Not Done
+- **Date:** 2026-06-23
+- **Tier:** 1
+- **Classification:** NEW STORY (first dedicated post-portal FSU rebuilding analysis)
+- **Angle:** FSU lost both Torres (to Texas) and Beachum (to Florida) in same 15-day window. But Francik (ACC Pitcher of the Year) returns, Danley returns, Edmiaston+Dodge added (combined 34 HRs > Torres+Beachum combined 26 HRs). Rebuilding on elite pitching foundation. Pursuing Tia Milloy (Oklahoma).
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Additional FSU portal moves (Milloy decision)
+  - Fall practice reports
+  - FSU's 2027 preseason outlook
+
+### Story 3: Post-Portal Power Rankings — Who Really Won the 2026 Transfer Window?
+- **Date:** 2026-06-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (portal closed June 22 — definitive final assessment)
+- **Angle:** 122 entered / 89 committed (73%). Final rankings: No. 1 Texas (talent depth), No. 2 Texas Tech (three All-Americans), No. 3 Florida (Beachum single move), No. 4 Nebraska, No. 5 South Carolina. FSU biggest loser but not out.
+- **Content Produced:** 1 X post, FB long-form + caption, Image concepts, Article (article-03)
+- **Follow-Up Opportunities:**
+  - 2027 preseason rankings
+  - How Nebraska/South Carolina develop
+
+### Story 4: Texas vs. Texas Tech — The 2027 National Championship Preview Starts Now
+- **Date:** 2026-06-23
+- **Tier:** 2
+- **Classification:** NEW STORY (first head-to-head comparison post-portal)
+- **Angle:** 2026 WCWS final Texas 7-3, 4-1 over Texas Tech (61-8). Texas Tech responded with Polar + Heavener + Pickering (three All-Americans / SA No. 1 class). Texas responded with Torres. Rivalry and 2027 rematch storyline established.
+- **Content Produced:** 1 X post, FB long-form + caption, Image concepts, Article (article-04)
+- **Follow-Up Opportunities:**
+  - Regular season matchup if scheduled
+  - Big 12 tournament
+  - 2027 WCWS
+
+### Story 5: The Offseason Begins — What's Next for College Softball After the Portal Closed
+- **Date:** 2026-06-23
+- **Tier:** 3
+- **Classification:** NEW STORY (evergreen post-portal offseason calendar)
+- **Angle:** Summer travel ball (PGF / Top Gun / Triple Crown), September 1 D1 contact opens for class of 2028, August fall practice begins, NFCA Convention fall, next portal after 2027 WCWS.
+- **Content Produced:** 1 X post, FB long-form + caption, Image concepts, Article (article-05)
+- **Follow-Up Opportunities:**
+  - September 1 recruiting content
+  - Fall practice previews
