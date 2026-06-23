@@ -3281,3 +3281,61 @@ Each day's stories are appended at the top (newest first).
   - Mize's Wednesday start in Houston
   - Tigers rotation health update
   - All-Star Game selections (June 25)
+
+---
+
+## Pipeline Run: June 23, 2026
+
+### Story 1: Kyle Tucker Back Spasms — Dodgers Lose Star Early, Win Anyway
+- **Date:** 2026-06-23
+- **Tier:** 1
+- **Classification:** NEW STORY (first coverage)
+- **Angle:** Kyle Tucker ($240M, Dodgers OF) exits Monday game vs Twins 2nd inning with back spasms. Day-to-day, precautionary. Dalton Rushing also left for concussion testing. LA wins 2-1. Injury watch begins for World Series favorite heading toward trade deadline and All-Star break.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Tucker IL update (Tuesday)
+  - Dodgers injury management heading into deadline
+
+### Story 2: Schwarber at 29 HRs — On Pace for 60+
+- **Date:** 2026-06-23
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 22 — 28 HRs after three-HR game vs Mets; now at 29)
+- **Angle:** Schwarber leads MLB with 29 HRs, pace for 63+. 60-HR club = 5 members (Bonds, McGwire, Sosa, Maris, Ruth). Home Run Derby July 14 at Citizens Bank Park — his home park. Yordan Alvarez No. 2 at 25.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - HR No. 30 milestone
+  - Derby participation announcement
+  - Second half pace tracking
+
+### Story 3: MLB Draft Combine 2026 — Chase Field Opens Today
+- **Date:** 2026-06-23
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** MLB Draft Combine June 23-26 at Chase Field, Phoenix (4th year). 335 prospects (195 college, 140 HS). 192 of top 200 attending. No. 1 prospect Roch Cholowsky (UCLA SS), No. 2 Grady Emerson (TX HS SS), top pitcher Jackson Flora (UCSB RHP). Live on MLB Network noon ET. 2025: 82.8% of attendees were drafted.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Top performers at Combine
+  - Mock draft updates post-Combine
+  - MLB Draft itself
+
+### Story 4: Skubal Trade Deadline Buzz — Tigers Want Elite Prospect
+- **Date:** 2026-06-23
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 22 — trade deadline big board first entry)
+- **Angle:** Tigers asking price: one elite prospect + 2-3 lesser pieces. Dodgers favored. Yankees, Rays, Padres, Brewers also bidding. Skubal warned Tigers amid rumors. Red Sox selling Aroldis Chapman. Aug 3 deadline.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade announcement
+  - Buyer/seller classification updates
+  - Post-trade impact analysis
+
+### Story 5: Bobby Witt Jr. — IL Decision Pending, All-Star in the Balance
+- **Date:** 2026-06-23
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 22 — Witt missed Sunday vs Cardinals; reevaluation Monday)
+- **Angle:** Grade 1 MCL sprain, right knee. Reevaluation before Tampa Bay Monday series. Maikel Garcia covering SS. 4.5 fWAR AL leader. All-Star voting closes Thursday June 25. IL date would push return to ~July 3.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - IL/active roster announcement
+  - All-Star Game selection
+  - Witt return impact on Royals

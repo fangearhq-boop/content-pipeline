@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-23
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 3 Post 1 294→273; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims HIGH, universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published to content-dashboards via publish-dashboard.py (direct push — no detached HEAD). PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). PostPlanner 0 posts (no scheduling — expected). publish-unified-dashboard 403 (PAT for content-dashboards — known); used publish-dashboard.py instead.
+- **Key Stories**: Kyle Tucker back spasms exits Monday vs Twins 2nd inning/day-to-day/$240M star/Dodgers win 2-1/Rushing concussion testing (Tier 1 NEW), Schwarber 29 HRs leads MLB/pace 63 HRs/60-HR club 5 members in history/Derby July 14 Citizens Bank Park home (Tier 1 FOLLOW UP), MLB Draft Combine opens today/Chase Field/335 prospects/Cholowsky No.1/Flora top pitcher/noon ET MLB Network (Tier 2 NEW), Skubal trade deadline 41 days/Tigers want elite prospect plus pieces/Dodgers favorites/Yankees Rays Padres Brewers bidding (Tier 2 FOLLOW UP), Witt Jr. Grade 1 MCL day-to-day/IL decision pending Monday/All-Star voting closes Thursday (Tier 3 FOLLOW UP)
+
+
+## Last Run
 - **Date**: 2026-06-22
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (prior session web searches), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (27 claims, 0 char violations — claim-patterns.py missing known, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published to content-dashboards via publish-dashboard.py. PostPlanner exports (0 posts — heading format; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
@@ -10,7 +19,7 @@
 - **Key Stories**: Witt Jr. reevaluation today/Grade 1 MCL sprain/IL or return vs Tampa Bay/4.5 fWAR AL leader/All-Star Game July 14 in recovery window (Tier 1 FOLLOW UP), Schwarber 28 HRs/on pace for 60+/rarest seasons in MLB history/Harper+Schwarber 2nd teammates ever to cycle+3 HR same game (Gehrig+Lazzeri 1932)/Derby July 14 Citizens Bank Park home crowd (Tier 1 FOLLOW UP), Trade Deadline Big Board 6 weeks out/Skubal two-time Cy Young Tigers seller centerpiece/Braves Yankees Dodgers Cubs linked/Giants shifted to sellers (Tier 2 NEW), AL East Yankees 43-27 vs Rays 41-28 (1.5 games)/Judge out rib fracture/Ben Rice .300/.393/.638 19 HR carrying lineup (Tier 2 FOLLOW UP), All-Star voting closes Thursday June 25 noon ET/Ohtani 1.165M leads all/Alvarez leads AL/Witt leads AL SS/Schwarber+Harper host city favorites (Tier 3 FOLLOW UP)
 
 
-## Last Run
+## Previous Run
 - **Date**: 2026-06-21
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (21 claims, 0 char violations — claim-patterns.py missing known, universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published to content-dashboards via publish-dashboard.py. PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
