@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-23
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-23 | T1 | Giannis Trade Official — Heat Land the Greek Freak, Celtics Miss Out | X, FB, Article | RESOLVED |
+| 2026-06-23 | T1 | NBA Draft Night — Dybantsa Expected No. 1 to Wizards, Draft Starts 8 PM ET | X, FB, Article | FOLLOW UP |
+| 2026-06-23 | T2 | Austin Reaves Opt-Out Watch — Lakers' $241M vs Nets' $178.5M, Deadline June 29 | X, FB, Article | FOLLOW UP |
+| 2026-06-23 | T2 | Ja Morant Trade Market Shifts — Heat Out After Giannis Deal, Suns Move Up | X, FB, Article | FOLLOW UP |
+| 2026-06-23 | T2 | Knicks at the Draft Table — Picks No. 24 and No. 31, Eyes on Brunson+OG+KAT | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Giannis Trade Official — Heat Land the Greek Freak
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade
+- **Key facts:** Bucks trade Giannis to Miami Heat; Milwaukee receives Herro, Kel'el Ware, Jaquez, Jakucionis, No. 13 pick, plus 2 more firsts; Heat also receive Bobby Portis; Celtics offered Jaylen Brown + 2 picks but came up short; trade announced eve of 2026 NBA Draft; Giannis — 13 years Bucks, 2 MVPs (2019/2020), 2021 championship, 2021 Finals MVP
+- **Status:** RESOLVED
+- **Follow-up ideas:** Heat opening night roster; Bucks rebuild progress
+
+### STORY 2: NBA Draft Night — Dybantsa No. 1 Watch
+- **Tier:** 1
+- **Category:** NBA Draft
+- **Key facts:** Draft June 23-24 Barclays Center 8 PM ET ABC/ESPN; Dybantsa -750 odds No. 1 to Wizards (25.5 PPG/51% FG/BYU); Peterson No. 2 Jazz; Boozer No. 3; Heat now pick No. 13 (Bucks pick from Giannis deal); Knicks at No. 24 + No. 31; Dybantsa didn't work out for any team
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Draft results confirmation; second round picks
+
+### STORY 3: Austin Reaves Opt-Out Watch
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** Option deadline June 29; Lakers 5yr/$241M vs Nets 4yr/$178.5M; $62.5M gap in Lakers' favor; Reaves 23.3 PPG/5.5 APG/4.7 RPG/49% FG this season; "won't come down solely to dollars"; multiple sources expect LA re-sign; Hawks+Pistons monitoring
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Reaves opts out June 29; signs Lakers deal June 30+
+
+### STORY 4: Ja Morant Market Shifts Post-Giannis
+- **Tier:** 2
+- **Category:** NBA Trade Rumors / Grizzlies
+- **Key facts:** Heat off the board after Giannis deal; Suns 18% Kalshi (leading); Kings + Pelicans in conversation; Memphis holds No. 3 pick (tonight); Morant $42.1M/yr 2026-27, $44.8M 2027-28; 24.4 PPG age 27
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-draft trade announced; Suns or Kings land Morant
+
+### STORY 5: Knicks at the Draft Table
+- **Tier:** 2
+- **Category:** NBA Draft / Knicks Offseason
+- **Key facts:** Knicks champion (won June 14); picks No. 24 (R1) + No. 31 (via WAS, R2) + No. 55 (R2); real priorities: Brunson extension + OG Anunoby + KAT re-sign; luxury tax crunch; first repeat bid in franchise history
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Brunson extension signed; OG + KAT deals announced
+
 ## 2026-06-21
 
 | Date | Tier | Story | Platforms | Status |

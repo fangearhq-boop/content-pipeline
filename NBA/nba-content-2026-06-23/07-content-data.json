@@ -1,0 +1,267 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-23",
+  "compiled_at": "2026-06-23T11:13:27.576262+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Giannis Trade Official — Heat Land the Greek Freak, Celtics Miss Out",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "OFFICIAL: Giannis Antetokounmpo is a Miami Heat. Bucks get Herro, Ware, Jaquez, Jakucionis + No. 13 pick + 2 firsts. 13 seasons. 2 MVPs. 1 ring. A new era begins. #MiamiHeat #Bucks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#MiamiHeat",
+            "#Bucks"
+          ],
+          "char_count": 180
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Celtics offered Jaylen Brown + 2 picks for Giannis. Milwaukee said no. Miami wins the sweepstakes. What a night to be an NBA fan. 🍿 #NBA #Celtics #MiamiHeat",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Celtics",
+            "#MiamiHeat"
+          ],
+          "char_count": 160
+        }
+      ],
+      "facebook": {
+        "long_form": "🚨 IT'S OFFICIAL: GIANNIS IS A MIAMI HEAT 🚨\n\nAfter weeks of speculation, the Milwaukee Bucks have traded Giannis Antetokounmpo to the Miami Heat in one of the biggest deals in NBA history.\n\nHere's what each team gets:\n\n🔥 MIAMI HEAT RECEIVE:\n• Giannis Antetokounmpo\n• Bobby Portis\n\n📦 MILWAUKEE BUCKS RECEIVE:\n• Tyler Herro\n• Kel'el Ware\n• Jaime Jaquez Jr.\n• Kasparas Jakucionis\n• No. 13 pick (2026 Draft)\n• Two additional first-round picks\n\nThe Boston Celtics had offered Jaylen Brown plus two first-round picks — and still came up short. Milwaukee chose youth and draft capital over an established star.\n\nFor Giannis, it's the end of a 13-year era in Milwaukee — one that included two MVP awards and the 2021 NBA Championship. He leaves as the greatest Buck since Kareem Abdul-Jabbar.\n\nIn Miami, he joins Bam Adebayo to form one of the most formidable frontcourts in the league. The Heat are immediately back in the championship conversation.\n\nWhat do you think — did Miami or Milwaukee win this trade?",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-giannis-trade-miami-heat-official.html",
+        "headline": "Giannis Antetokounmpo Traded to Miami Heat: Bucks End 13-Year Era in Blockbuster Deal",
+        "word_count": 543
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis Trade — Heat\n\n**Image Concept 1A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Giannis Antetokounmpo Milwaukee Bucks\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"GIANNIS TO MIAMI\" / \"Heat Land the Greek Freak\"\n- **Status:** not_started\n\n**Image Concept 1B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Giannis Antetokounmpo\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a (article hero, no text overlay)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Giannis Trade — Heat\n**Source:** CBS Sports, Bleacher Report, Boston.com, ESPN (June 23, 2026)\n- Bucks traded Giannis Antetokounmpo to Miami Heat\n- Milwaukee receives: Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, No. 13 overall pick (2026 Draft), plus two additional first-round picks\n- Heat also receive Bobby Portis from Milwaukee\n- Celtics offered: Jaylen Brown + 2 first-round picks — rejected\n- Giannis is 13-year Bucks veteran; won 2 MVPs, 2021 NBA title, 2021 Finals MVP\n- Bucks led by Milwaukee era: 2 MVPs (2019, 2020), 2021 championship over Phoenix Suns\n- Trade announced night before the 2026 NBA Draft (June 22 into June 23)\n- Confidence: HIGH (multiple outlets confirmed)\n**Source:** Yahoo Sports draft preview\n- Heat now have the No. 13 pick (received from Bucks)\n- Draft runs June 23–24, Barclays Center, 8 PM ET ABC/ESPN",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "NBA Draft Night — Dybantsa Expected No. 1, Wizards Set on BYU Star",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "NBA Draft Night is HERE. AJ Dybantsa — 25.5 PPG, 51% shooting at BYU — is set to go No. 1 to the Wizards. He didn't work out for anyone. \"They know what I can do.\" 8 PM ET ABC/ESPN. #NBADraft",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBADraft"
+          ],
+          "char_count": 191
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Wild twist: the Miami Heat are now picking No. 13 tonight — the Bucks pick they got in the Giannis trade. The Heat enter draft night as the most interesting team to watch. 👀 #NBADraft #MiamiHeat",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBADraft",
+            "#MiamiHeat"
+          ],
+          "char_count": 194
+        }
+      ],
+      "facebook": {
+        "long_form": "🏀 IT'S NBA DRAFT NIGHT AND THE WHOLE LEAGUE JUST SHIFTED 🏀\n\nThe 2026 NBA Draft tips off tonight at 8 PM ET from Barclays Center in Brooklyn — and for the first time in weeks, we actually know who's picking where.\n\nHere's your cheat sheet for tonight:\n\n📋 TOP EXPECTED PICKS:\n• No. 1 — AJ Dybantsa (BYU) → Washington Wizards\n• No. 2 — Darryn Peterson (Kansas) → Utah Jazz\n• No. 3 — Cameron Boozer → expected to follow\n• No. 13 — Miami Heat (received from Bucks in Giannis trade!)\n• No. 24 — New York Knicks\n• No. 31 — New York Knicks (via Washington)\n\nThe storyline of the night is AJ Dybantsa. The 6-foot-9 BYU freshman averaged 25.5 points and shot 51% from the floor. He didn't work out for a single team before the draft — saying \"I don't gotta work out. They know what I can do.\"\n\nThat kind of confidence. Tonight, the Wizards almost certainly make it official.\n\nTune in tonight at 8 PM ET on ABC and ESPN!",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nba-draft-night-dybantsa-no1-wizards.html",
+        "headline": "NBA Draft Night 2026: AJ Dybantsa on the Clock as Giannis Trade Reshapes the Board",
+        "word_count": 579
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Draft Night\n\n**Image Concept 2A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"AJ Dybantsa BYU\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"DRAFT NIGHT 2026\" / \"No. 1 Pick Watch\"\n- **Status:** not_started\n\n**Image Concept 2B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"NBA Draft Barclays Center\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Draft Night 2026\n**Source:** ESPN, NBC Sports, CBS Sports, DallasHoopsJournal (June 22-23, 2026)\n- Draft: June 23 (Round 1) and June 24 (Round 2), Barclays Center, Brooklyn, 8 PM ET\n- Washington Wizards plan to select AJ Dybantsa No. 1 overall (current plan as of June 23)\n- Dybantsa: 25.5 PPG / 51.0% FG / 6.8 RPG / 3.7 APG at BYU; 6-foot-9 wing\n- Dybantsa odds: -750 FanDuel; 80% Polymarket; 79% Kalshi for No. 1\n- Dybantsa did not work out for any team (\"I don't gotta work out. They know what I can do.\")\n- Darryn Peterson (Kansas) projected No. 2 (Jazz); 20.2 PPG\n- Cameron Boozer projected No. 3\n- Knicks hold No. 24 (Round 1), No. 31 (via Washington), No. 55 (Round 2)\n- Confidence: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Austin Reaves Opt-Out Watch — Lakers' $241M Deadline Looms June 29",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Austin Reaves expected to opt out by June 29. Lakers offer: 5yr/$241M. Nets offer: 4yr/$178.5M. His take: won't come down solely to dollars. Multiple sources expect him to stay in LA. #LakeShow",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LakeShow"
+          ],
+          "char_count": 193
+        }
+      ],
+      "facebook": {
+        "long_form": "⏰ THE AUSTIN REAVES COUNTDOWN IS ON ⏰\n\nAustin Reaves has until June 29 — just six days away — to decide whether to opt out of his $14.9 million player option and enter free agency. All signs point to him opting out.\n\nHere's what the market looks like:\n\n🟣💛 LOS ANGELES LAKERS: 5-year offer, up to $241 million\n⚫ BROOKLYN NETS: 4-year offer, approximately $178.5 million\n\nThat's a $62.5 million difference in favor of the Lakers.\n\nBut Reaves has made clear: \"It won't come down solely to dollars.\" Multiple sources around the league expect him to re-sign with Los Angeles, where he averaged 23.3 points, 5.5 assists, and 4.7 rebounds this season.\n\nThe real question: does Reaves bet on the Lakers remaining championship contenders — especially with LeBron James and the supporting cast they've built?\n\nJune 29 is circled on every Lakers fan's calendar.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-austin-reaves-lakers-opt-out-watch.html",
+        "headline": "Austin Reaves Opt-Out Watch: Lakers' $241M Offer vs. Nets' $178.5M as June 29 Looms",
+        "word_count": 504
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austin Reaves\n\n**Image Concept 3A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Austin Reaves Los Angeles Lakers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"REAVES OPT-OUT WATCH\" / \"$241M or $178.5M?\"\n- **Status:** not_started\n\n**Image Concept 3B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Austin Reaves Lakers\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austin Reaves Free Agency\n**Source:** MSN/NBA, Yahoo Sports, Bleacher Report, Yardbarker (June 2026)\n- Reaves expected to decline $14.9M player option (deadline June 29)\n- Lakers can offer 5-year max: up to $241M (some sources say $239M)\n- Brooklyn Nets can offer 4-year: $178.5M\n- Season stats: 23.3 PPG / 4.7 RPG / 5.5 APG / 1.1 SPG / 49.0% FG\n- \"Decision will not come down solely to dollars\"\n- Multiple sources expect Reaves to re-sign with Lakers\n- Hawks and Pistons also monitoring situation\n- Confidence: HIGH (multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Ja Morant Trade Market Shifts — Heat Off the Board, Who Steps Up?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Heat just took Giannis — so who trades for Ja Morant? Miami is off the board. Suns, Kings, and Pelicans step up as leading suitors. Post-draft market opens NOW. 🔥 #NBA #Grizzlies",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#Grizzlies"
+          ],
+          "char_count": 182
+        }
+      ],
+      "facebook": {
+        "long_form": "🔀 THE JA MORANT TRADE MARKET JUST CHANGED OVERNIGHT 🔀\n\nFor weeks, the Miami Heat were considered the Plan B for a Ja Morant trade — in case they missed out on Giannis Antetokounmpo.\n\nWell, Miami got Giannis. So the Morant market just reshuffled entirely.\n\nHere's the updated landscape:\n\n🔥 Phoenix Suns — now the leading candidate\n🏀 Sacramento Kings — in conversation\n🐝 New Orleans Pelicans — monitoring situation\n🐺 Minnesota Timberwolves — also interested\n\nJa Morant is 27 years old and averaging 24.4 points per game. He's owed $42.1 million in 2026-27 and $44.8 million in 2027-28. Memphis holds No. 3 overall pick tonight, which could be packaged in a deal.\n\nThe post-draft Morant market opens now. Which team lands the high-flying Grizzlies star?",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ja-morant-trade-market-heat-out-suns.html",
+        "headline": "Ja Morant Trade Market Reshuffles: Heat Out After Giannis Deal, Suns Move to the Front",
+        "word_count": 538
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ja Morant Market\n\n**Image Concept 4A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Ja Morant Memphis Grizzlies\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"MORANT TRADE MARKET\" / \"Who Steps Up?\"\n- **Status:** not_started\n\n**Image Concept 4B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Ja Morant Grizzlies\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ja Morant Trade Market\n**Source:** Bleacher Report, Heavy.com, SI.com, DallasHoopsJournal (June 2026)\n- Memphis Grizzlies paused Morant trade talks pending Giannis resolution\n- Heat now out (landed Giannis June 22-23)\n- Phoenix Suns: 18% Kalshi odds (leading contender post-Giannis deal)\n- Sacramento Kings and New Orleans Pelicans also in conversation\n- Minnesota Timberwolves interest mentioned\n- Morant stats: 24.4 PPG (last season), age 27\n- Contract: $42.1M in 2026-27; $44.8M in 2027-28 (final year guaranteed)\n- Memphis holds No. 3 pick tonight (could be packaged)\n- Confidence: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Knicks at the Draft Table — Championship Team Makes Picks No. 24 and No. 31",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The NBA champs enter draft night with picks No. 24 and No. 31. But the real Knicks offseason work? Brunson extension. OG Anunoby. Karl-Anthony Towns. That's what running it back looks like. 🏆🗽 #NewYorkKnicks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "🗽 THE CHAMPIONS ENTER THE DRAFT — BUT THEIR EYES ARE ELSEWHERE 🗽\n\nThe New York Knicks are NBA champions. And tonight, they'll pick in the draft — at No. 24 and No. 31.\n\nNot bad. But that's the price of winning: you draft late.\n\nHere's the real Knicks offseason agenda:\n\n✅ No. 1: Jalen Brunson extension talks\n✅ No. 2: Re-sign OG Anunoby\n✅ No. 3: Bring back Karl-Anthony Towns\n✅ No. 4: Manage the luxury tax reality\n\nThe Knicks won their first championship in 54 years this June. Two million fans showed up for the parade. Now it's time to build the roster to run it back.\n\nTonight's picks at No. 24 and No. 31? That's depth. The core is locked in — the front office just needs to keep it together.\n\nCan the Knicks do what only a handful of franchises have done in the modern era? Win back-to-back titles?\n\nThe work starts tonight.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-knicks-draft-night-championship-offseason.html",
+        "headline": "Knicks Enter Draft Night as Champions: Picks No. 24 and No. 31 as Bigger Offseason Priorities Loom",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Draft Night\n\n**Image Concept 5A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Jalen Brunson New York Knicks\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"KNICKS ON THE CLOCK\" / \"Draft Night 2026\"\n- **Status:** not_started\n\n**Image Concept 5B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"New York Knicks championship\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Knicks Championship Offseason\n**Source:** NBA.com, story history (confirmed by pipeline history)\n- Knicks won 2026 NBA Championship June 14; parade June 18 (2M fans)\n- Draft picks tonight: No. 24 (R1), No. 31 (via Washington R2), No. 55 (R2)\n- Free agency opens June 30\n- Priorities: Jalen Brunson extension + OG Anunoby re-sign + Karl-Anthony Towns re-sign\n- Massive luxury-tax bill ahead\n- First attempt at back-to-back title in franchise history\n- Confidence: HIGH (confirmed via pipeline history and public reporting)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

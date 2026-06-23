@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-22
+- **Date**: 2026-06-23
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-23
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-06-23.xlsx (7 posts) + hh-postplanner-tobi-2026-06-23.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-23/review-dashboard.html (27 items)
+- **Notes:** GIANNIS TO MIAMI CONFIRMED — Heat get Giannis+Portis for Herro+Ware+Jaquez+Jakucionis+No.13+2 more firsts/Celtics offered Brown+2 picks fell short; Draft Night — Dybantsa -750 No.1 to Wizards (25.5 PPG/51% BYU)/Peterson No.2 Jazz/Boozer No.3/Heat draft at No.13 from Giannis deal/Knicks No.24+31; Reaves opt-out watch June 29/$241M Lakers vs $178.5M Nets/$62.5M gap/expects to stay LA; Morant market reshuffles — Heat out/Suns 18% leading/Kings+Pelicans in play; Knicks No.24+31 tonight/Brunson+OG+KAT priorities
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-22
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
