@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-23
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-23 | T1 | Verstappen Exit Clause — Red Bull Eyes Eight-Figure Buyout, Shareholders Split | X, FB, Article | FOLLOW UP |
+| 2026-06-23 | T1 | Austrian GP Race Week Preview — Hamilton Momentum vs Antonelli at Red Bull Ring | X, FB, Article | FOLLOW UP |
+| 2026-06-23 | T2 | Red Bull Final Upgrade — 6kg Weight Cut Arrives at Home Race Austria | X, FB, Article | FOLLOW UP |
+| 2026-06-23 | T2 | Cadillac Zero-to-Hero Push — Biggest 2026 Upgrade Package for Austria | X, FB, Article | FOLLOW UP |
+| 2026-06-23 | T2 | Mercedes vs Ferrari Championship Test — Austrian GP Is the Real Title Gauge | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Verstappen Exit Clause — Red Bull Buyout
+- **Tier:** 1
+- **Category:** Driver Market / Red Bull
+- **Key facts:** Exit clause triggers if not top-2 by summer break (Hungarian GP July 26); currently P7, 60 pts behind Hamilton P2 — impossible to reach top-2 even winning Austria; Red Bull exploring eight-figure buyout "low double millions"; shareholders divided (Thai Yoovidhya for, Mateschitz+Mintzlaff against); insider: clause "impossible to block"; manager Vermeulen: "must have chance to win"; Mercedes frontrunner
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Buyout agreed or clause triggered; Mercedes announcement
+
+### STORY 2: Austrian GP Race Week Preview
+- **Tier:** 1
+- **Category:** Race Preview / Austrian GP
+- **Key facts:** Race June 26-28, Red Bull Ring, Spielberg; Race Sunday June 28, 15:00 local / 09:00 ET, 71 laps; Antonelli 156 pts / Hamilton 115 pts (−41) / Russell 106 pts; Hamilton won Barcelona (106th career win / 1st Ferrari win); gap was 66 pts before Barcelona; 31°C forecast, storm risk; Leclerc strong Red Bull Ring qualifier; Hamilton won Austria 2014+2016
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Qualifying results; race result Sunday
+
+### STORY 3: Red Bull Final Upgrade
+- **Tier:** 2
+- **Category:** Technical / Red Bull
+- **Key facts:** RB22 started 12kg overweight; Miami cut to 6kg; Austria targets final 6kg; Mekies: "Austrian package alone not enough for victory"; lighter car = better tire management at Red Bull Ring; Verstappen won Austria 4× (2018/2019/2021/2023)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austria qualifying pace; race tire performance data
+
+### STORY 4: Cadillac Austria Package
+- **Tier:** 2
+- **Category:** Midfield / Cadillac
+- **Key facts:** 0 points in 7 races; tire deg cliff at lap 15 per Perez; "big upgrade package" for Austria; Bottas DNF Barcelona; Perez: British GP Silverstone true inflection point; drivers Perez + Bottas; faster than Aston Martin pace but no points
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Cadillac first points scored in Austria
+
+### STORY 5: Mercedes vs Ferrari Championship Test
+- **Tier:** 2
+- **Category:** Championship Analysis
+- **Key facts:** Antonelli 156 / Hamilton 115 / Russell 106 / Leclerc 75 / Norris 73; Mercedes constructors 262 / Ferrari 190; Hamilton needs 2.7 pt/race avg advantage over 15 races; Barcelona battery issue (3 failures 3 teams) — Wolff promised Austria fix; Red Bull Ring 3 long straights, overtaking-friendly
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Standings after Austrian GP; battery fix confirmed or fails
+
 ## 2026-06-21
 
 | Date | Tier | Story | Platforms | Status |

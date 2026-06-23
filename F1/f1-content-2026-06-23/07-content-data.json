@@ -1,0 +1,269 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-23",
+  "compiled_at": "2026-06-23T11:20:46.420853+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Verstappen Exit Clause — Red Bull Eyes Eight-Figure Buyout to Keep Its Star",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Red Bull is exploring an eight-figure buyout to stop Verstappen from triggering his exit clause. He sits P7 — 60 pts behind Hamilton (P2). Even winning Austria can't get him top-2 by summer break. The clock is ticking. ⏱️ #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Red Bull's shareholders are divided on Verstappen's exit clause. Thai stakeholder: buy it out. Mateschitz + Mintzlaff: no. Meanwhile, Mercedes waits. This is the most consequential off-track story in F1 right now. 👀 #F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-verstappen-exit-clause-red-bull-buyout.html",
+        "headline": "Verstappen Exit Clause: Red Bull Eyes Eight-Figure Buyout as Shareholders Split Over Dutchman's Future",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n**Image Concept 1A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Max Verstappen Red Bull\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"EXIT CLAUSE\" / \"Will Verstappen Leave Red Bull?\"\n- **Status:** not_started\n\n**Image Concept 1B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Max Verstappen\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause\n**Source:** GPFans, F1 Oversteer, SportBible, Read Motorsport (June 2026)\n- Exit clause: activates if Verstappen not in top-2 standings by summer break (Hungarian GP July 26)\n- Verstappen currently P7, 60 points behind Lewis Hamilton (P2, 115 pts); Andrea Kimi Antonelli leads at 156 pts\n- Mathematical impossibility: even a win in Austria cannot lift him into top-2 by summer break\n- Red Bull exploring buyout — \"low double millions\" (eight-figure payout)\n- Shareholders divided: Thai stakeholder (Chalerm Yoovidhya) favors buyout; Mark Mateschitz + Oliver Mintzlaff against\n- Insider: exit clause \"impossible to block\" if Verstappen chooses to trigger it\n- Manager Raymond Vermeulen: \"He should have the chance to win\"\n- Mercedes considered frontrunner to land Verstappen (dominant car on grid)\n- Verstappen: visited Red Bull management in Austria ahead of Barcelona; remained tight-lipped\n- Clause can be triggered until October (not just July)\n- Confidence: HIGH (multiple outlets, manager confirmed)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Austrian GP Race Week — Hamilton's Ferrari Momentum Meets Antonelli at the Red Bull Ring",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "IT'S RACE WEEK. 🇦🇹\n\nAustrian Grand Prix — June 26-28 at the Red Bull Ring.\n\nHamilton won Barcelona (106th career win, first for Ferrari). He arrives carrying maximum momentum. Antonelli leads 156-115. This is where the title race gets real. #F1 #AustrianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP"
+          ],
+          "char_count": 256
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Leclerc is a Red Bull Ring qualifier. Hamilton has race pace. Antonelli needs a bounce-back after Barcelona DNF. Verstappen needs a miracle on home soil.\n\nSunday June 28, 15:00 local (9 AM ET) — Austrian GP race day. 🏁 #AustrianGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#F1"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-austrian-gp-2026-preview-hamilton-antonelli.html",
+        "headline": "Austrian GP 2026 Preview: Hamilton's Ferrari Momentum Meets Antonelli at Red Bull Ring",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Preview\n\n**Image Concept 2A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Red Bull Ring Austria Formula 1\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"AUSTRIAN GP\" / \"June 26-28 | Red Bull Ring\"\n- **Status:** not_started\n\n**Image Concept 2B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Lewis Hamilton Ferrari\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Austrian GP Race Week Preview\n**Source:** Formula1.com, ESPN, Sky Sports, StatSniper, Read Motorsport (June 2026)\n- Race: Austrian Grand Prix, Round 8 of 2026 season; June 26–28 at Red Bull Ring, Spielberg, Austria\n- Race: Sunday June 28, 15:00 local / 09:00 ET, 71 laps\n- FP1: Friday June 26, 12:30–13:30 local; FP2: 16:00–17:00; FP3: Saturday 11:30–12:30; Q: 15:00–16:00\n- Championship: Antonelli 156 pts, Hamilton 115 pts (−41), Russell 106 pts (−50)\n- Hamilton won Barcelona (Round 7): 106th career win, first for Ferrari\n- Antonelli retired at Barcelona (mechanical failure) — snapped 5-race winning streak\n- Gap was 66 pts before Barcelona; now 41\n- Red Bull Ring: short circuit, 3 long straights, fast sweeping corners; overtaking-friendly\n- Hamilton won Austria in 2014 and 2016 with Mercedes\n- Leclerc strong qualifier at Red Bull Ring\n- Weather: 30–31°C forecast, possible storms\n- Confidence: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Red Bull's Final Gamble — 6kg Weight Cut Arrives at Home Race",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Red Bull arrives at its home race with a final 6kg weight reduction for the RB22. The car started 12kg overweight. Miami cut half. Austria cuts the rest.\n\nMekies: \"This alone won't be enough for victory.\" But it's a step. #F1 #AustrianGP #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP",
+            "#RedBull"
+          ],
+          "char_count": 246
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-red-bull-austria-upgrade-rb22-weight-cut.html",
+        "headline": "Red Bull's Final Diet: The RB22's Last 6kg Weight Cut Arrives at Austria as Verstappen Eyes Home Glory",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Red Bull Upgrade\n\n**Image Concept 3A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Red Bull Racing F1 pit\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"RED BULL FINAL UPGRADE\" / \"6kg Weight Cut in Austria\"\n- **Status:** not_started\n\n**Image Concept 3B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Max Verstappen Red Bull Racing\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Red Bull Austria Upgrade\n**Source:** Sky Sports, Motorsport.com, Yahoo Sports/MotorBiscuit, GPBlog (June 2026)\n- RB22 started 2026 season 12kg over FIA minimum weight (768kg limit)\n- Miami upgrade cut excess from 12kg to 6kg\n- Austria upgrade targets final 6kg — would bring car to legal minimum weight\n- Less weight = better rotation in high-speed sweeps + less tire abuse\n- Mekies (Red Bull team principal): \"The Austrian package alone will not be enough [for victory]\"\n- Mekies: \"we stay on this continuous, closing-the-gap trajectory\"\n- Upgrade designed by entire Milton Keynes factory\n- Second major upgrade of 2026 season for Red Bull\n- Verstappen won at Red Bull Ring: 2018, 2019, 2021, 2023 (4 times)\n- Hadjar also receives upgrade\n- Confidence: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Cadillac's Zero-to-Hero Austria Push — First Points on the Horizon?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cadillac has ZERO points in 7 races. They arrive in Austria with their biggest upgrade yet — targeting the midfield for the first time.\n\nPerez isolated the problem: tire deg cliff at lap 15. The fix arrives this weekend. 🇺🇸 #F1 #Cadillac",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Cadillac"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cadillac-austria-upgrade-first-points.html",
+        "headline": "Cadillac's Big Austria Gamble: Can the American Team Finally Score Its First F1 Championship Points?",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cadillac\n\n**Image Concept 4A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Sergio Perez Cadillac F1\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"CADILLAC IN AUSTRIA\" / \"First Points On the Line?\"\n- **Status:** not_started\n\n**Image Concept 4B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Cadillac MAC-26\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cadillac Austria Package\n**Source:** Crash.net, Motorsport Week, Blog F1 Live Pulse, Formula1.com (June 2026)\n- Cadillac MAC-26 = only constructor without championship points after 7 races\n- Drivers: Sergio Perez + Valtteri Bottas (debut 2026 season)\n- Tire degradation \"cliff\" at 15+ laps per Perez identified as core issue\n- Austria brings \"big upgrade package\" targeting midfield group\n- Bottas DNF at Barcelona (reliability); Barcelona result = focus on reliability\n- Perez: Silverstone (British GP) is where team expects to really stretch legs\n- Cadillac outpacing Aston Martin in raw pace but not converting\n- Confidence: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Mercedes vs Ferrari — The Title Race's Austrian Test",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "After 7 races: Antonelli 156 pts. Hamilton 115. Russell 106. A 41-pt gap with 15 races to go.\n\nHamilton cut 25 pts in ONE race at Barcelona. Austria is the first test of whether Ferrari can make it a genuine title fight. #F1 #AustrianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-championship-mercedes-ferrari-austrian-test.html",
+        "headline": "Mercedes vs Ferrari: Austria Is the First True Test of Whether Hamilton Can Chase Antonelli Down",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Battle\n\n**Image Concept 5A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Kimi Antonelli Mercedes\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"TITLE RACE\" / \"Antonelli 156 | Hamilton 115\"\n- **Status:** not_started\n\n**Image Concept 5B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Lewis Hamilton Ferrari Formula 1\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Math / Mercedes vs Ferrari\n**Source:** RacingNews365, Formula1.com, GPBlog, StatSniper (June 2026)\n- After Round 7 (Barcelona): Antonelli 156 / Hamilton 115 / Russell 106 / Leclerc 75 / Norris 73\n- Mercedes constructors: 262 pts; Ferrari: 190 pts; McLaren: 141 pts\n- Gap closed from 66 to 41 after Barcelona\n- Hamilton needs avg 2.7 pt/race advantage over 15 remaining races to overtake Antonelli\n- 15 races remaining in season\n- Mercedes battery failure: 3 instances in 3 teams at Barcelona — Wolff promised fix for Austria\n- Red Bull Ring: 3 long straights, overtaking opportunities; Mercedes strength on power circuits\n- Ferrari engine upgrade helped Barcelona result\n- Confidence: HIGH",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

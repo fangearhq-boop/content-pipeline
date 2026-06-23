@@ -1,10 +1,23 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-22
+- **Date**: 2026-06-23
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-23
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-23.xlsx (7 posts) + f1fr-postplanner-tobi-2026-06-23.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-23/review-dashboard.html (22 items)
+- **Notes:** Verstappen exit clause — Red Bull eight-figure buyout bid/shareholders split (Thai for, Mateschitz+Mintzlaff against)/P7 60 pts behind Hamilton P2/impossible to reach top-2 even winning Austria/clause "impossible to block" per insider/Mercedes frontrunner; Austrian GP race week June 26-28 Red Bull Ring/Antonelli 156-Hamilton 115 (41-pt gap, was 66 before Barcelona)/Hamilton 106th win 1st Ferrari at Barcelona/Antonelli 5-race streak ended with mechanical; Red Bull final 6kg weight cut (started 12kg/Miami cut half/Austria finishes)/Mekies "not enough alone"; Cadillac 0 pts 7 races/biggest upgrade/tire cliff at lap 15; Championship math 41 pts 15 races Hamilton 2.7 pts/race needed/battery fix promised Wolff
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+
 
 ### 2026-06-22
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
