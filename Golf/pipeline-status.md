@@ -1,10 +1,23 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-22
+- **Date**: 2026-06-23
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-23
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-06-23.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-23.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-23/review-dashboard.html (22 items)
+- **Notes:** KPMG Women's PGA preview June 25-28 Hazeltine/$13M record purse/Korda Grand Slam bid (won Chevron+US Women's Open)/25/27 HoF pts/only Inbee Park 2013 won 3 consecutive majors/Thitikul No.2/Minjee Lee defending; Travelers Championship preview June 25-28 TPC River Highlands/$20M $3.6M winner/Scheffler +480/McIlroy skipping/Spieth 2017 champ/Clark fresh US Open/Fleetwood+Schauffele+Aberg; LIV Golf PIF loans/$6B+ spent/$100M/month/$333M 2026/seeking $400M/Louisiana cancelled/4 events remain may cancel 2/2027 = 10 events; Korda HoF 25/27 pts KPMG = 26 then one more = HoF eligible; Clark 2-time US Open champ (2023+2026)/wire-to-wire Shinnecock/-4/1 shot over Burns/2nd-lowest 64 R1/1st wire-to-wire since Kaymer 2014
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
+
 
 ### 2026-06-22
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-23
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-23 | T1 | KPMG Women's PGA Preview — Korda Grand Slam Bid at Hazeltine (June 25-28) | X, FB, Article | FOLLOW UP |
+| 2026-06-23 | T1 | Travelers Championship Preview — Scheffler +480 Favorite, $20M Purse, Starts Thursday | X, FB, Article | FOLLOW UP |
+| 2026-06-23 | T2 | LIV Golf $400M Financial Crisis — PIF Loans, Events at Risk, 2027 Scaled Back | X, FB, Article | FOLLOW UP |
+| 2026-06-23 | T2 | Korda LPGA Hall of Fame Watch — 25/27 Points, KPMG Win = 26/27 | X, FB, Article | FOLLOW UP |
+| 2026-06-23 | T2 | Wyndham Clark Two-Time US Open Champion — Wire-to-Wire Shinnecock, Enters Travelers | X, FB, Article | NEW |
+
+### STORY 1: KPMG Women's PGA Preview — Korda Grand Slam
+- **Tier:** 1
+- **Category:** LPGA / Major Championship Preview
+- **Key facts:** KPMG June 25-28 Hazeltine National Chaska MN; $13M record purse; Korda won 2026 Chevron (5-shot) + US Women's Open (1-shot); 4 wins in 9 starts 2026; only Inbee Park (2013) won 3 consecutive women's majors in modern era; Korda T-3 Hazeltine 2019; Thitikul No.2 world; Minjee Lee defending; Hannah Green 3 career majors won Hazeltine 2019
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1/R2/R3/R4 leaderboard updates; Korda winner or not
+
+### STORY 2: Travelers Championship Preview
+- **Tier:** 1
+- **Category:** PGA Tour / Signature Event
+- **Key facts:** June 25-28 TPC River Highlands Cromwell CT; $20M purse $3.6M to winner; 72-player no-cut; Scheffler +480 FanDuel (22/25 top players in field); McIlroy skipping (links prep); Spieth 2017 champ; Clark fresh off 2026 US Open win; Fleetwood +1600/Schauffele +1800/Aberg +2000; Scheffler 8 top-5s 13 starts 2026 seeking 2nd win
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 leaderboard; winner
+
+### STORY 3: LIV Golf $400M Crisis
+- **Tier:** 2
+- **Category:** Golf Industry / LIV Golf
+- **Key facts:** Running on PIF debenture loans not capital; PIF spent $6B+ since 2022; $100M/month burn; received only $333M in 2026 (3-4 months expenses); seeking $400M outside investment; 4 events remain (UK July/NY Aug/Indianapolis Aug/Michigan $40M Team Championship Aug); Louisiana event cancelled; 2027 = 10 events reduced from current; prize money dropping from $32.3M
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investment secured or cancelled event; 2027 schedule announcement
+
+### STORY 4: Korda Hall of Fame Watch
+- **Tier:** 2
+- **Category:** LPGA / Nelly Korda
+- **Key facts:** 25/27 LPGA HoF points needed; Chevron moved to 22→25 after US Women's Open; KPMG win = 26/27; one more win after that = 27 (HoF eligible); 10-year LPGA membership eligibility hits 2026 (turned pro 2016); age 27; could be enshrined as early as 2026
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Korda wins KPMG = 26/27; next win = HoF
+
+### STORY 5: Wyndham Clark Two-Time US Open Champion
+- **Tier:** 2
+- **Category:** PGA Tour / Wyndham Clark
+- **Key facts:** Won 2026 US Open Shinnecock Hills -4 (beat Burns by 1 shot); 64 R1 = 2nd-lowest Shinnecock history; wire-to-wire (9th in US Open history / 1st since Kaymer 2014); also won 2023 US Open LACC; age 32; hostile gallery; entering Travelers Championship June 25
+- **Status:** NEW
+- **Follow-up ideas:** Travelers result; continued momentum
+
 ## 2026-06-21
 
 | Date | Tier | Story | Platforms | Status |

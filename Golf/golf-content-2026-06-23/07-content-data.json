@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-23",
+  "compiled_at": "2026-06-23T11:27:49.052258+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "KPMG Women's PGA Championship Preview — Korda's Historic Grand Slam Bid at Hazeltine",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Nelly Korda arrives at Hazeltine this Thursday chasing history. She already won the Chevron and the US Women's Open in 2026. A KPMG win makes her only the 2nd woman to win 3 consecutive majors — last done by Inbee Park in 2013. #KPMG #LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#KPMG",
+            "#LPGA"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Korda at 25/27 LPGA Hall of Fame points. A win at the KPMG puts her at 26. One more after that — she's in. The biggest week of her career starts Thursday at Hazeltine. $13M purse. #LPGA #NellyKorda",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#NellyKorda"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-kpmg-womens-pga-korda-grand-slam-hazeltine.html",
+        "headline": "KPMG Women's PGA Championship 2026: Nelly Korda's Grand Slam Quest Arrives at Hazeltine",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "KPMG Preview — Korda\n\n**Image Concept 1A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Nelly Korda LPGA\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"KPMG WOMEN'S PGA\" / \"Korda's Grand Slam Bid Begins Thursday\"\n- **Status:** not_started\n\n**Image Concept 1B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Nelly Korda\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "KPMG Women's PGA Preview — Korda Grand Slam\n**Source:** LPGA.com, GolfDigest, GolfChannel, StartTribune, JustWomensSports (June 2026)\n- Tournament: KPMG Women's PGA Championship, June 25–28, Hazeltine National Golf Club, Chaska, Minnesota\n- Purse: $13 million (record for women's golf, reclaims richest event title)\n- Korda's 2026 season: 9 starts, 4 wins, worst finish T-8 in individual event\n- Korda won Chevron Championship in April (5-shot win) + US Women's Open (1-shot win)\n- Grand Slam context: Only Inbee Park in 2013 (ANA Inspiration + KPMG Women's PGA) won consecutive majors in women's golf modern era\n- Korda at Hazeltine 2019: finished T-3 (last time tournament was held here)\n- Key competitors: Atthaya \"Jeeno\" Thitikul (No. 2 world ranking), Minjee Lee (defending champion), Hannah Green (3 career majors, 11 LPGA titles), Inbee Park\n- Hannah Green: won KPMG 2019 at Hazeltine for first LPGA title; 2 top-5s before March 2026, no 2026 wins yet\n- Thitikul: 5 LPGA wins, no major; overdue for breakthrough\n- Format: 72-hole stroke play, no cut\n- Confidence: HIGH",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Travelers Championship Preview — Scheffler Favored as PGA Tour's Final Signature Event Tees Up",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "The PGA Tour's final signature event of 2026 starts Thursday. $20M purse. $3.6M to the winner. Scheffler is +480. Jordan Spieth (2017 champ) is in. Wyndham Clark comes off winning the US Open. No McIlroy. Let's go. ⛳ #TravelersChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TravelersChampionship"
+          ],
+          "char_count": 239
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Scottie Scheffler: No. 1 in the world. 8 top-5 finishes in 13 starts this season. Still looking for his 2nd win of 2026. The Travelers Championship at TPC River Highlands starts Thursday. Scheffler's on the clock. ⛳ #TravelersChampionship #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TravelersChampionship",
+            "#PGATour"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-travelers-championship-2026-scheffler-preview.html",
+        "headline": "Travelers Championship 2026 Preview: Scheffler Favored at Final Signature Event as Clark Arrives Fresh Off US Open",
+        "word_count": 614
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Travelers Championship Preview\n\n**Image Concept 2A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Scottie Scheffler PGA Tour\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"TRAVELERS CHAMPIONSHIP\" / \"$20M Purse | Starts Thursday\"\n- **Status:** not_started\n\n**Image Concept 2B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"TPC River Highlands golf\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Travelers Championship Preview\n**Source:** GolfChannel, PGATour.com, Yahoo Sports, CBS Sports, DraftKings Network (June 2026)\n- Tournament: Travelers Championship (final PGA Tour signature event of 2026)\n- Dates: June 25–28, TPC River Highlands, Cromwell, Connecticut\n- Purse: $20 million; winner's share: $3.6 million\n- Field: 72 players, no cut; 22 of top 25 in world\n- McIlroy skipping to prepare for links run (Open Championship prep)\n- Scheffler: +480 favorite (FanDuel); world No. 1; 2024 Travelers champion; 8 top-5s in 13 starts 2026; seeking 2nd win of season\n- Fleetwood: +1600; Schauffele: +1800; Ludvig Aberg: +2000\n- Jordan Spieth in field (2017 Travelers champ, course history)\n- US Open champion Wyndham Clark enters; Sam Burns (runner-up US Open) also in field\n- Past champions: Scheffler (2024), Keegan Bradley (defending 2025 champion looking to repeat)\n- TPC River Highlands: relatively low course rating, scoring-friendly, birdies-galore format\n- Confidence: HIGH (multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf $400M Crisis — PIF Loans Fund Operations While Future Hangs in Balance",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "LIV Golf has spent over $6B since 2022. Now they're running on Saudi PIF loans just to finish the 2026 season. They need $400M in outside investment — and can't find it. Four events left. Two may be cancelled. #LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-liv-golf-financial-crisis-loans-2026.html",
+        "headline": "LIV Golf's Financial Reality: Running on Saudi Loans, $400M Needed, 2027 Season in Doubt",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Crisis\n\n**Image Concept 3A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"LIV Golf\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"LIV GOLF CRISIS\" / \"Running on Loans — $400M Needed\"\n- **Status:** not_started\n\n**Image Concept 3B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"LIV Golf event\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Financial Crisis\n**Source:** Field Level Media, Golf Monthly, Fox News/OutKick, DailyClubGolf (June 2026)\n- LIV Golf running on Saudi PIF loans (debenture agreement) — not capital\n- PIF announced in April: would bankroll LIV only through end of 2026 season\n- Total PIF spend on LIV since 2022: more than $6 billion\n- LIV monthly spend: ~$100 million\n- 2026 funding received: $333 million (only enough for 3-4 months)\n- Seeking $400 million+ in outside investment; has not secured it\n- 4 events remain in 2026: UK (July 23-26), New York (Aug 6-9), Indianapolis (Aug 20-23), $40M Team Championship Michigan (Aug 27-30)\n- Louisiana event cancelled (cited summer heat)\n- 2027 proposed: 10 events (5 \"team majors\" in established markets + 5 US-based \"team signature events\")\n- Prize money likely dropping from $32.3M per event\n- Confidence: HIGH (multiple financial reports, company filings)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Korda's Hall of Fame Clock — KPMG Win Would Put Her One Away from Enshrinement",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The math on Nelly Korda's LPGA Hall of Fame journey: she needs 27 pts. She has 25. A KPMG win = 26. One more after that — she's enshrined. She turns 28 this year. This might be the fastest path to the HoF in LPGA history. #LPGA #NellyKorda",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LPGA",
+            "#NellyKorda"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-korda-lpga-hall-of-fame-watch-kpmg.html",
+        "headline": "Nelly Korda's Hall of Fame Clock: A KPMG Win Puts Her One Victory Away from Enshrinement",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Korda Hall of Fame\n\n**Image Concept 4A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Nelly Korda US Women's Open\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"HoF WATCH\" / \"25/27 Points — One Win Away\"\n- **Status:** not_started\n\n**Image Concept 4B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Nelly Korda LPGA major\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Korda Hall of Fame Quest\n**Source:** LPGA.com, GolfChannel, JustWomensSports, Yahoo Sports (June 2026)\n- Korda LPGA Hall of Fame points: currently 25 of 27 required points\n- After Chevron win: moved to 22/27 (per JustWomensSports); after US Women's Open: now 25/27 (per LPGA.com)\n- Note: LPGA HoF = 27 points required + 10-year LPGA membership\n- KPMG win = additional point → 26/27\n- Then needs one more point to reach 27 and achieve eligibility\n- Points breakdown (approx.): LPGA major wins = 2 pts each; Solheim Cup wins = 1 pt each; other LPGA victories = 1 pt each\n- Korda turned pro 2016; eligible for 10-year membership 2026\n- She's age 27 with a realistic path to enshrinement this season\n- Grand Slam: winning Chevron + US Women's Open + KPMG + (Evian OR AIG Women's Open) = Women's Grand Slam for 2026\n- Confidence: HIGH (LPGA official source)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wyndham Clark — US Open Champion Two Years Apart, Now Enters Travelers at TPC River Highlands",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Wyndham Clark just won the 2026 US Open wire-to-wire at Shinnecock Hills. He also won the 2023 US Open. That's two US Open titles — and now he heads straight to the Travelers Championship starting Thursday. What a stretch. ⛳🏆 #USOpen #TravelersChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#USOpen",
+            "#TravelersChampionship"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wyndham-clark-two-time-us-open-champion.html",
+        "headline": "Wyndham Clark: Two US Open Titles, Three Years Apart — What It Means for His Career",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Clark US Open Champion\n\n**Image Concept 5A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Wyndham Clark US Open\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"2X US OPEN CHAMPION\" / \"Clark: 2023 + 2026\"\n- **Status:** not_started\n\n**Image Concept 5B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Wyndham Clark golf\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wyndham Clark US Open 2026 Recap\n**Source:** Golf Channel, Golf Digest, pipeline story history (June 22, 2026)\n- Clark won 2026 US Open at Shinnecock Hills, NY\n- Score: -4 for tournament; won by 1 shot over Sam Burns\n- Burns shot 73 on Sunday (-1 Sunday finish); Clark held the lead\n- Round 1: Clark shot 64 — second-lowest round in Shinnecock Hills history (36-hole tournament record)\n- Wire-to-wire win — first US Open wire-to-wire since Martin Kaymer 2014\n- 9th wire-to-wire US Open in history\n- Gallery described as hostile at Shinnecock — rowdy crowd, Clark held composure\n- Clark also won 2023 US Open (his first major)\n- Now 2-time US Open champion\n- Scheffler Grand Slam bid ended (was 6 back entering Sunday)\n- Clark entering Travelers Championship (June 25-28)\n- Confidence: HIGH (pipeline history + public reporting)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
