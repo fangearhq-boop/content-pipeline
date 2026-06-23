@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-22 |
-| Writing | Complete (all steps) | 2026-06-22 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 26 claims, 55 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-22 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-22 |
-| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-06-22 |
-| PostPlanner Export | Complete (standard 8 posts; TOBI 8 posts) | 2026-06-22 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-22 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-22 |
+| Research | Complete | 2026-06-23 |
+| Writing | Complete (all steps) | 2026-06-23 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 29 claims, 94 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-23 |
+| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-23 |
+| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-06-23 |
+| PostPlanner Export | Complete (standard 6 posts; TOBI 6 posts) | 2026-06-23 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-23 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-23 |
 
 ## Queue
 
@@ -24,6 +24,20 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-23 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions) = 11 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-23.xlsx (6 posts), tfr-postplanner-tobi-2026-06-23.xlsx (6 TOBI posts)
+- **Coverage:** Serena Williams accepts Wimbledon 2026 singles wild card (44yo, 7-time champion, first singles major since 2022 US Open R3; 8th and final women's WC; also doubles WC with Venus); Giorgio Armani Tennis Classic opens at Hurlingham (Sinner's first grass since 2025 Wimbledon; Sinner vs Norrie + Djokovic vs Khachanov scheduled Wednesday; field: Sinner/Djokovic/Shelton/Ruud/Lehecka/Cobolli/Darderi/Tien; June 23-27); Wimbledon wild cards (Wawrinka — 41, 3 slams, final career season; Dimitrov — No. 169, 2025 WC retired vs Sinner pectoral injury; British: Fearnley/Fery/Pinnington Jones/Samuel; women: Chwalinska + Serena); Wimbledon qualifying Day 2 (British charge: Evans/Searle/Harris/Tarvet/Basing/Jubb all through; Goffin out Day 1); Wimbledon preview (draw Friday June 26 10 AM BST; Sinner defending/Alcaraz out; Sabalenka No. 1 never won; Andreeva arrives with 0 Wimbledon pts)
+- **Notes:**
+  - verify-facts.py: passed; 29 claims, 94 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 6 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 21 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (6 posts) and TOBI (6 posts) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-22 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
