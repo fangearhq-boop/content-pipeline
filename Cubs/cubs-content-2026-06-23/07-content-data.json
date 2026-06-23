@@ -1,0 +1,231 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-23",
+  "compiled_at": "2026-06-23T09:16:38.952479+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "12:00 PM",
+      "description": "Rainouts — Series Opens Tonight",
+      "type": "X Text"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Senga 0-5 / 9.00 ERA Bold Take",
+      "type": "X Text"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Steele Throws / Boyd Returns Thu",
+      "type": "X Text"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Trade Deadline: Cubs Talking Peralta",
+      "type": "X Text"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-Game Hype: Imanaga 6:10 PM CT",
+      "type": "X Text"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Back-to-Back Rainouts — Series Opens Tonight vs. Mets",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Second consecutive Cubs rainout reshuffles the week; tonight's Imanaga-Senga matchup is the effective series opener; Wednesday split doubleheader; Boyd returns Thursday for Game 4",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Back-to-back rainouts — Sunday at Wrigley, Monday at Citi Field — scrambled the Cubs' week.\n\nThe series opens TONIGHT: Imanaga vs. Senga at 6:10 PM CT. Wednesday is a doubleheader. Boyd returns Thursday. Four games in four days against a 34-43 Mets squad.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Rainout — Series Schedule Reshuffled\n**Facts (HIGH confidence unless noted):**\n- June 22 Cubs-Mets game postponed due to rain at Citi Field (MLB.com official announcement)\n- Second consecutive rainout: June 21 (Cubs-Blue Jays, Wrigley Field, makeup Aug. 6) + June 22 (Cubs-Mets, Citi Field)\n- Replacement doubleheader: Wednesday June 24, Game 1 at 12:10 PM CT / Game 2 at 6:10 PM CT (1:10 PM ET / 7:10 PM ET)\n- Tonight (June 23): Imanaga vs. Senga at 6:10 PM CT — sources: SI.com, Yahoo Sports (confirmed named starters)\n- Matthew Boyd's next start: with big-league team Thursday (June 25) on regular rest — source: Chicago Sun-Times, Bleacher Nation (June 22)\n- Cubs record: 40-37 (series-context.json)\n- Mets record: 34-43 (series-context.json)\n**Sources:**\n- MLB.com: Cubs-Mets June 22 postponement announcement\n- Chicago Sun-Times: \"Cubs' series-opening game with Mets rained out, doubleheader coming Wednesday\"\n- CBS News Chicago, Fox Sports, Washington Post, Journal Gazette — all confirm same details\n- SI.com: \"Mets Announce Starting Pitchers for Cubs Series: Senga vs. Imanaga Opens Pivotal Showdown\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Bold Take — Senga 0-5 / 9.00 ERA Is a Cubs Opportunity",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Bold — Senga barely holding a roster spot at 9.00 ERA; Cubs are 3-0 vs. Mets this season; this is exactly the kind of series contenders must dominate",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Senga is 0-5 with a 9.00 ERA and just came off the IL.\n\nHe's not Imanaga's equal right now. He's barely holding his spot in a rotation. Cubs swept the Mets 3-0 in April. Tonight is a statement series waiting to happen.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Bold Take — Senga 0-5 / 9.00 ERA\n**Facts (HIGH confidence unless noted):**\n- Senga 2026 record: 0-5\n- Senga 2026 ERA: 9.00 (ESPN, CBS Sports, FantasyPros consistent)\n- Senga recently activated from IL for this start (FantasyPros: \"Kodai Senga activated from IL\")\n- Cubs swept Mets 3-0 in April 2026 (pipeline history)\n- Senga had promising first two starts (3.09 ERA) before deteriorating significantly\n**Cross-check needed:**\n- Confirm exact games started: one source says \"0-4,\" another \"0-5\" — most recent sources say 0-5 at 9.00 ERA; use 0-5 (MEDIUM — flag in fact-check)\n- Senga \"activated from IL\" for this specific start (HIGH — FantasyPros confirmed)\n**Sources:**\n- ESPN, CBS Sports, FantasyPros (Senga stats and IL activation)\n- Amazin' Avenue: Senga's early 2026 stats analysis",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Steele Resumes Throwing; Boyd Returns Thursday",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Informative — Steele's first throw since flexor strain setback (milestone, but still weeks from return); Boyd on track to rejoin rotation Thursday June 25 (the rotation road map is clearing, slowly)",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Justin Steele picked up a baseball again Monday — his first throw since his flexor strain setback. No firm return date; best case post-All-Star.\n\nAdd Boyd returning Thursday and the Cubs' road map is finally, SLOWLY clearing.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Steele Resumes Throwing / Boyd Returns Thursday\n**Justin Steele facts:**\n- Resumed throwing program Monday, June 22 (HIGH — CBS Sports, CubsInsider)\n- Injury history: UCL revision surgery May 2025 → medically cleared Feb. 28 → flexor strain setback late April 2026\n- No firm return date\n- Best case: post-All-Star break; could be fall 2026\n- Flying to Chicago; working with Cubs directly on rehab\n- 3+ weeks of ramp-up before throwing to live hitters\n**Matthew Boyd facts:**\n- Rehab start June 20 at South Bend: 4 IP, 2 H, 0 ER, 0 BB, 7 K (HIGH — Chicago Sun-Times)\n- Craig Counsell confirmed: \"His next outing will come with the big-league team\"\n- Return start: Thursday June 25 on regular rest (HIGH — multiple sources)\n- Season line: 4-3 (approx), 5 starts total in 2026 due to two IL stints (knee surgery + shoulder soreness)\n- Boyd was All-Star last season\n**Sources:**\n- CBS Sports: \"Cubs' Justin Steele: Resumes throwing program\"\n- CubsInsider.com: \"Cubs Injury Updates: Boyd Throwing Bullpen Tuesday, Steele Resuming Throwing Program\"\n- Chicago Sun-Times (June 22): Matthew Boyd next start confirmed with big-league club\n- Bleacher Nation (June 22): Rotation lineup with doubleheader + Boyd update",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline — Cubs Already Talking to Mets About Peralta",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Analysis/bold — Cubs have spoken with Mets about Freddy Peralta; Mets 34-43 likely sellers; Counsell managed Peralta 5 years in Milwaukee; sub-$3M rental, FA after season; 41 days to August 3",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Cubs have already talked to the Mets about Freddy Peralta.\n\nMets are 34-43. If they're selling, Peralta — a sub-$3M rental Craig Counsell knows from five years in Milwaukee — is exactly what this rotation needs. 41 days to August 3.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 0,
+        "errors_corrected": 1
+      },
+      "research": {
+        "facts": "Trade Deadline — Peralta + Cubs Context\n**Facts:**\n- Cubs have spoken with Mets about acquiring Freddy Peralta (MEDIUM — Bleed Cubbie Blue, FanSided, Yahoo Sports / Si.com)\n- Peralta owed less than $3M at deadline (MEDIUM — single source; flag for cross-check)\n- Peralta is a free agent after the 2026 season\n- Craig Counsell managed Peralta for 6 years in Milwaukee (HIGH — well-established public fact)\n- Cubs rotation: 27th in ERA (4.71) through ~75 games (HIGH — multiple outlets citing same figure)\n- August 3 trade deadline: 41 days away (HIGH — calculated from June 23 to Aug 3)\n- Mets record: 34-43 (HIGH)\n- Cubs GM Carter Hawkins confirmed rotation upgrades as top deadline priority (HIGH — Yahoo Sports / The Athletic)\n- Other targets mentioned: Tarik Skubal, Joe Ryan, Reid Detmers, Sandy Alcántara (MEDIUM)\n**Sources:**\n- Bleed Cubbie Blue: \"Could the Cubs bolster the rotation by trading for Freddy Peralta?\"\n- FanSided: \"This Cubs-Mets trade for Freddy Peralta would give Chicago the edge over the Dodgers\"\n- Yahoo Sports: \"Cubs Prioritize Starting Pitching Upgrades Ahead of August 3 Trade Deadline\"\n- CBSSports: Trade deadline candidates including Peralta",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Pre-Game Hype — Imanaga Takes the Mound at 6:10 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Hype — Imanaga's rain-delayed start finally happens tonight; he's looking to bounce back from a 4-6 record; Senga has a 9.00 ERA; Cubs have swept this team before",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "First pitch tonight: 6:10 PM CT at Citi Field.\n\nImanaga takes the ball in what should've been Monday's series opener. He's looking to flip a 4-6 record. Senga has a 9.00 ERA. The Cubs have already swept this team once. Go get it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 2
+      },
+      "research": {
+        "facts": "Pre-Game Hype — Imanaga vs. Senga\n**Facts:**\n- First pitch: 6:10 PM CT at Citi Field, Tuesday June 23 (HIGH — series-context.json, multiple sources)\n- Shota Imanaga 2026: 4-6, 4.26 ERA, 86.2 IP, 84 K, 1.062 WHIP (MEDIUM — single search; consistent with other references)\n- Imanaga was originally scheduled for June 22 (rained out); tonight is his delayed start\n- Cubs 3-0 vs. Mets in 2026 (April series sweep; HIGH — pipeline history)\n- Imanaga's 2025 was his breakout MLB season (2.32 ERA in year 1)\n**Sources:**\n- SI.com, series-context.json (game details)\n- CBS Sports, ESPN (Imanaga stats)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -2772,3 +2772,53 @@ Each day's stories are appended at the top (newest first).
   - Series momentum story after wins
 
 ---
+
+
+---
+
+## 2026-06-23
+
+### STORY 1: Back-to-Back Rainouts — Series Opens Tonight vs. Mets
+- **Angle:** NEW STORY (June 22 Mets opener rained out at Citi Field — second straight Cubs rainout after June 21 Blue Jays game also rained out at Wrigley; series now opens tonight; doubleheader Wednesday; Boyd returns Thursday)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, informative schedule update)
+- **Follow-Up Opportunities:**
+  - Tonight's game result (Game 1 recap tomorrow)
+  - Wednesday doubleheader coverage (both games)
+  - Boyd's return start Thursday June 25
+
+### STORY 2: Bold Take — Senga 0-5 / 9.00 ERA Is a Cubs Opportunity
+- **Angle:** FOLLOW UP (Senga angle first covered June 22; today's angle = game is actually happening, Senga activated from IL, 9.00 ERA, Cubs swept Mets in April)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Senga's actual performance tonight
+  - Series result after Imanaga start
+
+### STORY 3: Steele Resumes Throwing; Boyd Returns Thursday
+- **Angle:** FOLLOW UP (Steele throwing program milestone June 22; Boyd IL return arc; today's combined angle = Steele's first throw since flexor strain setback + Boyd's return imminent Thursday)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Steele throwing program progression updates
+  - Boyd's first start back (June 25 vs Mets)
+  - Taillon return timeline
+
+### STORY 4: Trade Deadline — Cubs Already Talking to Mets About Peralta
+- **Angle:** NEW STORY (first time Peralta-to-Cubs angle covered; dual narrative of playing Mets while negotiating with them; Counsell connection; sub-$3M rental, 41 days to August 3)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, trade analysis)
+- **Follow-Up Opportunities:**
+  - Any Peralta trade reporting
+  - Mets seller decision as series progresses
+  - Other deadline targets: Skubal, Ryan, Detmers
+
+### STORY 5: Pre-Game Hype — Imanaga Takes the Mound at 6:10 PM CT
+- **Angle:** NEW STORY (delayed-start angle; Imanaga's rain-postponed start finally happening; Senga 9.00 ERA; Cubs 3-0 vs Mets this season)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's game result
+  - Imanaga's line/performance
+
+---
