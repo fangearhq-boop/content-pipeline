@@ -2,6 +2,50 @@
 
 ---
 
+## June 23, 2026
+
+### Story 1: Colorado Springs 4th of July 2026 Family Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Star-Spangled Symphony at Ford Amphitheater July 4 (gates 5:30 PM, show 6:30 PM, fireworks ~9 PM against Pikes Peak; Fort Carson 4th Infantry Band + Colorado Springs Philharmonic; Dolly Parton/Marvin Gaye/Tina Turner + Star Wars suite + 1812 Overture; fordamphitheater.live); free: Rock Ledge Ranch 10 AM–4 PM (kids patriotic parade, Civil War encampment, live music); free: Palmer Lake Centennial Park 4–10 PM. America's 250th birthday year.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** visitcos.com, fordamphitheater.live, coloradospringssports.org, kktv.com, pikes-peak.com
+- **Follow-Up Opportunities:** Reminder post closer to July 4; post-event recap
+
+### Story 2: RECALL — ABC Trading Light-Up Glasses and Pet Cage Toys (Button Cell Battery Hazard)
+- **Content Pillar:** National Parenting (Product Safety)
+- **Angle:** NEW STORY — CPSC recalled ABC Trading WSDZ Light-Up Glasses + Dinosaur Tribes (model 8266) + My Pet Bird (model ZH998-23). ~84,700 units. TOYZ/Joissu stores Nov 2022–Oct 2025, $5–$9. Button cell batteries accessible to children; swallowing causes internal chemical burns/death. Stop use, photo in trash, email recallabc@gmail.com for full refund. Phone 323-581-3688 (M-F 9:30 AM–6 PM PT). abctradinginc.com/recall-2; cpsc.gov.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov, foodpoisoningbulletin.com, newsweek.com
+- **Follow-Up Opportunities:** None — refund active; will age out
+
+### Story 3: Pikes Peak or Bust Rodeo July 14–18 — Kids Discounts, Fan Zone, Mutton Bustin
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — NFR Open at Norris Penrose Event Center, July 14–18, 2026. Evening performances 7:30 PM; matinees July 17+18 12:30 PM. Kids 12 and under: $15 off adult price (End Zone $25→$10; Regular $35→$20). Fan Zone: pony rides, petting zoo, face painting, goat roping. Mutton Bustin ages 4–9, ≤50 lbs. Tickets PikesPeakorBust.org + NorrisPenrose.com only.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** pikespeakorbust.org, visitcos.com, cowboylifestylenetwork.com, colorado.com
+- **Follow-Up Opportunities:** Pre-rodeo reminder week of July 14; Mutton Bustin registration reminder
+
+### Story 4: Hot Car Safety Summer 2026
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — 9 US child hot car deaths in 2026 (CA/FL/LA/MD/NM/NJ/NC). Cars heat 20°F in 20 minutes; child internal danger temp 107°F; kids overheat 3–5x faster than adults. Most deaths = loving parents with momentary loss of awareness. NHTSA tips: check back seat every time; place bag/phone next to car seat; call 911 if you see child in hot car. ACT method.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** kidsandcars.org, nhtsa.gov, wdbj7.com, abc7.com
+- **Follow-Up Opportunities:** None — ongoing summer reminder; evergreen
+
+### Story 5: D49 Student Success Center Opens August 2026
+- **Content Pillar:** Local News (D49)
+- **Angle:** NEW STORY — D49 opening Student Success Center at former Falcon Elementary of Technology site; August 2026 school year start. Full-time preschool Mon–Thu (Base49 before/after + Friday care); Elevates 18–21 transition program; Motor Team (OT/PT); Assistive Technology Team; SWAP Coordinator; homebound SpEd teacher. Strategic consolidation of specialized services.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** d49.org
+- **Follow-Up Opportunities:** Back-to-school reminder; enrollment deadline if announced
+
+---
+
 ## June 22, 2026
 
 ### Story 1: RECALL — GOPO Toys Pull String Teething Toys (Choking Hazard, 70,000+ Units)
