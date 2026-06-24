@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-24",
+  "compiled_at": "2026-06-24T11:15:24.430756+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "X Text Post",
+      "type": "Story 1 — Draft results morning recap"
+    },
+    {
+      "time": "9:15 AM",
+      "description": "FB Long-Form",
+      "type": "Story 1 — Draft results full breakdown"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X Text Post",
+      "type": "Story 2 — Giannis/Heat what it means"
+    },
+    {
+      "time": "11:15 AM",
+      "description": "FB Long-Form",
+      "type": "Story 2 — Giannis Heat era breakdown"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X Text Post",
+      "type": "Story 3 — Knicks draft trade strategy"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "FB Long-Form",
+      "type": "Story 3 — Knicks picks explained"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "X Text Post",
+      "type": "Story 4 — Reaves contract update"
+    },
+    {
+      "time": "3:15 PM",
+      "description": "FB Long-Form",
+      "type": "Story 4 — Reaves free agency breakdown"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "X Text Post",
+      "type": "Story 5 — Morant trade market update"
+    },
+    {
+      "time": "5:15 PM",
+      "description": "FB Long-Form",
+      "type": "Story 5 — Morant landing spot analysis"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "2026 NBA Draft Results — Dybantsa No. 1 to Wizards, Full First Round Recap",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "AJ Dybantsa. No. 1 overall. Washington Wizards. 🏀\n\n25.5 PPG. 51% FG. 6'9\" wing. BYU.\n\nHe skipped every single pre-draft workout. Said: \"They know what I can do.\"\n\nTurns out they did. First BYU player EVER drafted No. 1 overall.\n\n#HoopHeroes #NBADraft2026 #Wizards",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBADraft2026",
+            "#Wizards"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 1-2",
+          "text": "2026 Draft top 3 is SET:\n\nNo. 1 Dybantsa — Wizards 🟣\nNo. 2 Peterson — Jazz 🎵\nNo. 3 Boozer — Grizzlies 🐻\n\nBiggest shock? Meleek Thomas went undrafted in Round 1.\n\nThe draft never goes according to plan. That's why we love it.\n\n#HoopHeroes #NBADraft2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBADraft2026"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 NBA Draft went off last night at Barclays Center in Brooklyn, and basketball fans woke up this morning with a lot to process.\n\nAJ Dybantsa is headed to Washington. The 6'9\" wing from BYU averaged 25.5 points per game this season and shot an absurd 51% from the field, and the Wizards rewarded him with the No. 1 overall selection — making him the first player from BYU ever drafted at the top spot. What made the story even wilder: Dybantsa skipped every single pre-draft workout. His response when asked why? \"They know what I can do.\" The Wizards agreed.\n\nDarryn Peterson went No. 2 to Utah. Cameron Boozer landed No. 3 in Memphis. Darius Acuff Jr. went No. 7 to Sacramento. Golden State grabbed Michigan's Yaxel Lendeborg at No. 11. Philadelphia took Alabama's Labaron Philon Jr. at No. 12.\n\nThe first round's biggest surprise: Arkansas guard Meleek Thomas, widely projected to go in the top 20, went unselected through all 30 picks. He's now available when the second round continues today.\n\nWho won draft night? Give us your take below.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-nba-draft-2026-dybantsa-no1-wizards-recap.html",
+        "headline": "AJ Dybantsa Goes No. 1 to Wizards — Full 2026 NBA Draft First-Round Recap",
+        "word_count": 526
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 NBA Draft Results — Dybantsa No. 1, Full First Round Recap\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Split-panel showing three players — Dybantsa (Wizards), Peterson (Jazz), Boozer (Grizzlies) — in draft night suits against dark background with draft board element\n- Photo Search Terms: \"AJ Dybantsa Wizards\", \"Darryn Peterson Jazz\", \"Cameron Boozer Duke\", \"2026 NBA Draft Barclays Center\", \"NBA Draft night picks\"\n- Text Overlay Copy:\n  - Headline (Bebas Neue, white): \"DRAFT NIGHT 2026\"\n  - Subtitle (Montserrat, #FFC107 gold): \"Dybantsa No. 1 | Peterson No. 2 | Boozer No. 3\"\n- Composition Notes: Dark midnight (#1A1A2E) overlay bar at 45% opacity across bottom third; team logos above each player\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- Visual Description: Dybantsa holding up Wizards jersey at podium, crowd in background\n- Photo Search Terms: \"AJ Dybantsa draft night\", \"Washington Wizards 2026 draft\"\n- Text Overlay: None — hero image only\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Giannis Era Begins in Miami — What the Heat-Bucks Trade Means for the NBA",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "GIANNIS + BAM. 👀\n\nThe Heat now have two of the best two-way forwards on one roster.\n\nGiannis Antetokounmpo.\nBam Adebayo.\n\nSomeone in the Eastern Conference is going to have a VERY bad time starting next October.\n\n#HoopHeroes #HeatNation #NBAOffseason",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#HeatNation",
+            "#NBAOffseason"
+          ],
+          "char_count": 250
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Celtics offered Jaylen Brown + 2 picks for Giannis.\n\nMilwaukee said no.\n\nHeat sent Herro + Ware + Jaquez + 3 first-rounders.\n\nBoth the Heat and Bucks won this trade. The Celtics got nothing. 😬\n\n#HoopHeroes #NBAOffseason #Celtics",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBAOffseason",
+            "#Celtics"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "Thirteen years in Milwaukee. Two MVPs. One championship. One Finals MVP. All of it came with the Bucks.\n\nNow Giannis Antetokounmpo belongs to the Miami Heat.\n\nThe trade became official last night, and the details tell a complete story. Miami sends Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, three first-round picks including the No. 13 selection, one pick swap, and a second-round pick to Milwaukee. The Bucks also receive Bobby Portis in the deal. In return, South Beach gets arguably the most physically dominant player of his generation.\n\nWhat makes the Heat terrifying going forward isn't just Giannis — it's Giannis next to Bam Adebayo. Two elite two-way forwards, both capable of defending multiple positions, both skilled passers. That pairing is going to be a nightmare for every team in the Eastern Conference.\n\nThe Celtics offered Jaylen Brown plus two picks. Milwaukee said no. Whatever you think of that decision, the result is clear: Boston comes away from this offseason empty-handed while Miami gets the Greek Freak.\n\nThe trade becomes effective July 6. Free agency opens June 30. The new-look Heat are just getting started.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-giannis-miami-heat-trade-eastern-conference.html",
+        "headline": "Giannis in Miami: What the Heat-Bucks Trade Means for the Entire NBA",
+        "word_count": 550
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis Era Begins in Miami — What the Heat-Bucks Trade Means\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Giannis in Heat colors (or silhouette against Miami skyline at dusk) — powerful, iconic composition\n- Photo Search Terms: \"Giannis Antetokounmpo Miami Heat\", \"Giannis Antetokounmpo\", \"Bam Adebayo Miami Heat\", \"Heat frontcourt\"\n- Text Overlay Copy:\n  - Headline (Bebas Neue, white): \"THE GREEK FREAK GOES SOUTH BEACH\"\n  - Subtitle (Montserrat, #FF5722 deep orange): \"Giannis + Bam. Eastern Conference just changed.\"\n- Composition Notes: Warm lighting, Miami colors (red/black/white); action shot preferred over posed\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- Visual Description: Giannis Antetokounmpo raising fist in celebration\n- Photo Search Terms: \"Giannis Antetokounmpo celebration\", \"Giannis Antetokounmpo Heat\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Knicks Trade Down, Collect Picks — Champions Play the Long Game at Draft",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Knicks played chess on draft night. ♟️\n\nNo. 24 → Lakers\nDe Larrea → Mavs\nKoa Peat → Suns\n\nFinal haul: FIVE second-round picks.\n\nReal priorities: Brunson. OG. KAT. Free agency opens June 30.\n\n#HoopHeroes #Knicks #NBADraft2026",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Knicks",
+            "#NBADraft2026"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "The defending champion New York Knicks walked into the 2026 NBA Draft with the No. 24 pick and walked out with five second-round selections. Not one Knicks fan should be upset about that.\n\nHere's how it went down. New York swapped No. 24 with the Lakers, who moved to No. 25 and drafted Spanish guard Sergio De Larrea. The Knicks took De Larrea, then sent him to the Mavericks for No. 30 (Koa Peat) plus two second-round picks. They then flipped Peat to the Suns for three more second-rounders. End result: selections at No. 31, No. 47, and No. 55 in Round 2, plus the flexibility that comes with stockpiling picks.\n\nThe Knicks were never picking a rotation player at No. 24 anyway. What they can do with second-round picks is use them as trade sweeteners when the deadline rolls around in February.\n\nBecause the real prizes? They're not in this draft. They're Jalen Brunson's extension, OG Anunoby's next deal, and keeping Karl-Anthony Towns in New York. Free agency opens June 30, and that's when the Knicks' real offseason begins.\n\nRepeat championships are built on continuity. New York seems to understand that.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-knicks-draft-trade-second-round-picks-repeat.html",
+        "headline": "New York's Draft Night Trade Chain: What the Knicks Got and Why It Matters",
+        "word_count": 558
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Trade Down, Collect Picks — Champions Play the Long Game\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Knicks logo or Brunson holding championship trophy — championship brand visual\n- Photo Search Terms: \"Jalen Brunson Knicks championship\", \"New York Knicks champions 2026\", \"Knicks NBA draft 2026\", \"Knicks front office\"\n- Text Overlay Copy:\n  - Headline (Bebas Neue, white): \"KNICKS THINK LONG TERM\"\n  - Subtitle (Montserrat, #FFC107 gold): \"5 picks gained. Brunson. OG. KAT. Here comes the repeat.\"\n- Composition Notes: Championship aesthetic — confetti or banner drop preferred\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- Visual Description: Knicks championship celebration or Brunson with trophy\n- Photo Search Terms: \"Knicks Brunson championship trophy\", \"New York Knicks 2026\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Austin Reaves Clock Is Ticking — Lakers $241M vs Nets $178.5M, Deadline June 29",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Austin Reaves has 5 days. ⏰\n\nLakers offer: 5 years / $241M\nNets offer: 4 years / $178.5M\n\nThat gap? $62.5 MILLION in LA's favor.\n\nHe said it won't come down \"solely to dollars.\"\n\nI mean... what does that even mean when the gap is $62M?? 🤔\n\n#HoopHeroes #Lakers #AustinReaves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Lakers",
+            "#AustinReaves"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "By June 29, Austin Reaves will decide whether he stays in Los Angeles — or tests what the open market has to offer. The math heavily favors the Lakers.\n\nHere is what Reaves is weighing. The Lakers can offer a five-year max deal worth approximately $241 million. Every other team in the league is limited to a four-year maximum of about $178.5 million. That's a $62.5 million gap in Los Angeles's favor — about as clear-cut an advantage as you'll find in NBA free agency.\n\nReaves averaged 23.3 points per game this past season to go with 5.5 assists, 4.7 rebounds, and 49% shooting from the field. He's moved from an undrafted longshot to one of the premier shooting guards in the Western Conference. He has earned every dollar of whatever he signs for.\n\nThe Brooklyn Nets have shown interest. Detroit is monitoring. But when Reaves said his decision \"won't come down solely to dollars,\" that doesn't mean money is irrelevant — it means he's thinking about winning, relationships, and fit. The Lakers can argue all three better than anyone.\n\nMultiple sources expect him to re-sign in Los Angeles. June 29 is when we find out if they're right.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-austin-reaves-lakers-241m-june-29-deadline.html",
+        "headline": "Austin Reaves Has Until June 29: The $62.5M Question Every Lakers Fan Is Asking",
+        "word_count": 554
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austin Reaves Clock Is Ticking — June 29 Decision\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Reaves in Lakers purple and gold, intensity shot — mid-play or post-basket celebration\n- Photo Search Terms: \"Austin Reaves Lakers\", \"Austin Reaves shooting\", \"Austin Reaves celebration\"\n- Text Overlay Copy:\n  - Headline (Bebas Neue, white): \"REAVES: STAY OR GO?\"\n  - Subtitle (Montserrat, #FFC107 gold): \"$241M vs $178.5M. June 29 deadline.\"\n- Composition Notes: Split dark/light composition — uncertainty theme; gold Lakers accents\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- Visual Description: Reaves driving to the basket or postgame\n- Photo Search Terms: \"Austin Reaves Lakers game\", \"Austin Reaves NBA\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Ja Morant Trade Market Narrows — Pelicans and Wolves Out, Suns and Celtics in Play",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ja Morant trade market post-draft: 🏀\n\nPelicans: OUT (drafted Fears as future PG)\nWolves: OUT\n\nStill in:\n• Suns\n• Celtics\n• Bucks\n\n$44.8M/yr for a guy with 20 games this season. Bold moves only.\n\n#HoopHeroes #JaMorant #NBATradeRumors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#JaMorant",
+            "#NBATradeRumors"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "The Ja Morant trade market is getting clearer — and Memphis isn't in a rush.\n\nTwo teams confirmed out this week. New Orleans drafted Jeremiah Fears at No. 7, officially installing him as their point guard of the future and removing the Pelicans from any Morant conversation. Minnesota rejected pursuit. The field is narrowing.\n\nWhich teams remain? The Phoenix Suns lead betting markets. The Boston Celtics — who missed on Giannis last night — are now circling. The Milwaukee Bucks and Toronto Raptors are also in early conversations.\n\nThe catch is Morant's contract. He's owed $42.1 million next season and $44.8 million in 2027-28. And he's played just 20 games this past season due to injury and suspension, with 79 games total across the last three years.\n\nThe talent is undeniable — 24.4 points per game when healthy, generational athleticism, and the kind of highlight plays that fill arenas. But any team trading for Morant is betting heavily on health, and the recent track record makes that a complicated wager.\n\nMemphis is patient. They don't need to move him. But the right offer could change that quickly.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-ja-morant-trade-suns-celtics-pelicans-out.html",
+        "headline": "Morant Trade Market Post-Draft: Pelicans Out, Suns Lead, Celtics Sniffing Around",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ja Morant Trade Market — Pelicans Out, Suns and Celtics Circle\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Morant in Grizzlies blue — dynamic play action, blur elements suggesting movement and change\n- Photo Search Terms: \"Ja Morant Memphis Grizzlies\", \"Ja Morant dunk\", \"Ja Morant driving\"\n- Text Overlay Copy:\n  - Headline (Bebas Neue, white): \"WHERE IS JA HEADED?\"\n  - Subtitle (Montserrat, #1565C0 royal blue): \"Pelicans out. Wolves out. Suns lead the pack.\"\n- Composition Notes: Question-mark energy — use motion blur or partial transition element; Grizzlies midnight blue palette\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- Visual Description: Morant at press conference or warmups\n- Photo Search Terms: \"Ja Morant Memphis\", \"Ja Morant postgame\""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-24
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-24 | T1 | 2026 NBA Draft Results — Dybantsa No. 1 to Wizards, Full First Round Recap | X, FB, Article | RESOLVED |
+| 2026-06-24 | T1 | Giannis Era Begins in Miami — What the Heat-Bucks Trade Means for the NBA | X, FB, Article | RESOLVED |
+| 2026-06-24 | T2 | Knicks Trade Down, Collect Picks — Champions Play the Long Game at Draft | X, FB, Article | RESOLVED |
+| 2026-06-24 | T2 | Austin Reaves Clock Is Ticking — Lakers $241M vs Nets $178.5M, Deadline June 29 | X, FB, Article | FOLLOW UP |
+| 2026-06-24 | T2 | Ja Morant Trade Market Narrows — Pelicans and Wolves Out, Suns and Celtics in Play | X, FB, Article | FOLLOW UP |
+
+### STORY 1: 2026 NBA Draft Results — Dybantsa No. 1 to Wizards
+- **Tier:** 1
+- **Category:** NBA Draft
+- **Key facts:** AJ Dybantsa (BYU) No. 1 to Wizards — 25.5 PPG/51% FG/6'9"; first BYU player ever drafted No. 1; skipped all workouts; Darryn Peterson No. 2 Utah Jazz; Cameron Boozer No. 3 Memphis Grizzlies; Darius Acuff Jr. No. 7 Sacramento; Yaxel Lendeborg No. 11 Golden State; Labaron Philon Jr. No. 12 Philadelphia; Meleek Thomas (Arkansas) undrafted R1; Round 2 continues June 24
+- **Status:** RESOLVED
+- **Follow-up ideas:** Summer league debut for Dybantsa; Round 2 picks recap
+
+### STORY 2: Giannis Era Begins in Miami
+- **Tier:** 1
+- **Category:** NBA Offseason / Trade
+- **Key facts:** Trade finalized June 23, effective July 6; Giannis + Bam Adebayo defensive frontcourt; Bucks receive Herro + Ware + Jaquez + Jakucionis + 3 firsts + pick swap + 2nd; Celtics Brown package rejected; free agency opens June 30 for Heat to add more pieces
+- **Status:** RESOLVED
+- **Follow-up ideas:** Heat free agency additions; Bucks rebuild first moves; East power rankings update
+
+### STORY 3: Knicks Trade Down, Collect Picks
+- **Tier:** 2
+- **Category:** NBA Draft / Knicks Offseason
+- **Key facts:** No. 24 → Lakers; De Larrea → Mavs; Koa Peat → Suns; final haul No. 31/No. 47/No. 55; five total second-round picks; priorities: Brunson extension + OG + KAT; free agency June 30
+- **Status:** RESOLVED
+- **Follow-up ideas:** Brunson extension signed; OG/KAT deals announced; trade deadline picks usage
+
+### STORY 4: Austin Reaves Contract Watch
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** Option deadline June 29 ($14.9M); Lakers 5yr/$241M; Nets 4yr/$178.5M; $62.5M gap; 23.3 PPG/5.5 APG/49% FG; "won't come down solely to dollars"; multiple sources expect Lakers re-sign
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Reaves opts out June 29; signs Lakers deal by July 4
+
+### STORY 5: Ja Morant Trade Market — Pelicans and Wolves Out
+- **Tier:** 2
+- **Category:** NBA Trade Rumors / Grizzlies
+- **Key facts:** Pelicans drafted Fears No. 7 (Morant no longer fits); Wolves rejected pursuit; Suns leading (18% Kalshi); Celtics (missed Giannis) circling; Bucks + Raptors also in play; Morant $42.1M/yr 2026-27, $44.8M 2027-28; 20 games 2025-26; 79 games last 3 seasons; 24.4 PPG when healthy; Memphis patient
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Suns or Celtics make formal offer; Memphis counters; trade announced
+
 ## 2026-06-23
 
 | Date | Tier | Story | Platforms | Status |
