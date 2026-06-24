@@ -1,0 +1,256 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-24",
+  "compiled_at": "2026-06-24T12:16:22.608296+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Djokovic Withdraws from Hurlingham Exhibition — Wimbledon Fitness Question Marks",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Novak Djokovic has quietly withdrawn from the Hurlingham exhibition hours before his scheduled match vs Khachanov.\n\nNo explanation given. He has played 13 matches all 2026. Wimbledon starts in 5 days. 🎾 #Wimbledon2026 #Djokovic [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026",
+            "#Djokovic"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Djokovic at Wimbledon 2026: No. 7 seed. Last official match: May 29 (RG R3 loss). Back treatment spotted at All England Club.\n\nNow missing Hurlingham warm-up with zero explanation. Five days to go. 🎾 #Wimbledon2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-djokovic-hurlingham-withdrawal-wimbledon-concern.html",
+        "headline": "Djokovic Withdraws from Hurlingham Exhibition — Wimbledon Fitness Questions Loom",
+        "word_count": 686
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Djokovic Wimbledon Concern\n\n**Social (1080x1350):**\n- Search term: `Novak Djokovic tennis`\n- Credit: (USA TODAY Sports Images)\n- Usage: Intense Djokovic portrait; best focused close-up available\n\n**Article Hero (1200x630):**\n- Search term: `Novak Djokovic Wimbledon`\n- Credit: (Imagn Images)\n- Usage: Djokovic at All England Club; grass-court setting preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Djokovic Wimbledon Fitness Concern\n**Sources used:**\n- tennis365.com — \"Should Novak Djokovic's silent schedule change raise concerns over Wimbledon?\"\n- en.tennistemple.com — \"Djokovic Withdraws from Pre-Wimbledon Exhibition, No Explanation Given\"\n- atptour.com — career record, 2026 match count confirmation\n- tennisworldfr.com — withdrawal timeline reporting\n**Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Djokovic was scheduled to play Khachanov at Hurlingham on Wednesday June 24 | HIGH | en.tennistemple.com, tennis365.com |\n| Djokovic withdrawn from schedule hours before match; no official explanation given | HIGH | tennis365.com, tennistemple.com |\n| Replaced by Martin Damm (ranked outside world top 100) | HIGH | tennistemple.com |\n| Djokovic's last ATP match: Roland Garros R3, loss to João Fonseca, May 29 | HIGH | atptour.com (confirmed from prior pipelines) |\n| Djokovic has played only 13 matches in 2026 season | HIGH | tennis365.com |\n| Djokovic is No. 7 seed at Wimbledon 2026 | HIGH | confirmed from June 22 pipeline (seedings cutoff) |\n| Djokovic was seen receiving back treatment at All England Club | MEDIUM | tennis365.com (images referenced) |\n| Wimbledon begins June 29 | HIGH | wimbledon.com |\n**Notes:** Withdrawal is unexplained — back treatment images exist but \"should not raise alarm bells\" per one source. Djokovic is 39 years old and notoriously manages his schedule carefully. The fact that no official reason was given is the key news peg.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Sinner's Grass Debut — Hurlingham Exhibition vs Norrie",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Jannik Sinner played his first grass match since winning Wimbledon 2025 today — taking on Cameron Norrie at Hurlingham.\n\nDraw ceremony Friday. Championships Monday June 29. 🎾 #Wimbledon2026 #Sinner [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026",
+            "#Sinner"
+          ],
+          "char_count": 203
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-sinner-hurlingham-grass-debut-wimbledon.html",
+        "headline": "Sinner Returns to Grass at Hurlingham — Defending Wimbledon Champion Takes Court for First Time in 2026",
+        "word_count": 545
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Sinner at Hurlingham\n\n**Social (1080x1350):**\n- Search term: `Jannik Sinner tennis`\n- Credit: (USA TODAY Sports Images)\n- Usage: Action shot on grass preferred\n\n**Article Hero (1200x630):**\n- Search term: `Jannik Sinner Wimbledon`\n- Credit: (Imagn Images)\n- Usage: Sinner at All England Club or grass tournament\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Sinner at Hurlingham vs Norrie\n**Sources used:**\n- giorgioarmanitennisclassic.com — official event schedule\n- olympics.com — Sinner Hurlingham schedule/preview\n- supertennis.tv — broadcast schedule (3:30 PM SuperTennis)\n- en.tennistemple.com — Sinner vs Norrie confirmed match info\n- puntodebreak.com — \"All about Sinner's return: schedule and opponent are already known\"\n**Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Sinner vs Norrie scheduled Wednesday June 24 at Hurlingham (3:30 PM, SuperTennis) | HIGH | supertennis.tv, olympics.com |\n| Sinner skipped all ATP grass warm-up events (Queen's Club, Halle, Mallorca) | HIGH | prior pipelines, tennisworldusa.org |\n| This is Sinner's first grass action since winning Wimbledon 2025 | HIGH | en.tennistemple.com |\n| Hurlingham event runs June 23–27 | HIGH | giorgioarmanitennisclassic.com |\n| Sinner had cardiac health tests at San Raffaele Milan, received all-clear | HIGH | prior June 11 pipeline |\n| Wimbledon draw ceremony: Friday June 26, 10:00 AM BST | HIGH | wimbledon.com |\n| Sinner defending Wimbledon champion (No. 1 seed) | HIGH | confirmed |\n**Notes:** Match result not officially confirmed in sources (exhibition; result less significant than fact of appearance). Article frames it as first grass action — factually confirmed from schedule.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wimbledon Qualifying Day 3 — Watson, Adeshina Lead British Women's Charge",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Wimbledon qualifying Day 3:\n\n🇬🇧 Watson def. Sherif 6-2, 6-2\n🇬🇧 Adeshina def. No. 8 seed Uchijima 6-1, 3-6, 7-5 — biggest win of her career\n\nFinal day of qualifying tomorrow. Draw ceremony Friday. 🎾 #Wimbledon2026 #BritishTennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026",
+            "#BritishTennis"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-wimbledon-qualifying-day-3-watson-adeshina.html",
+        "headline": "Wimbledon Qualifying Day 3: Watson Clinical, Adeshina Earns Biggest Career Win at Roehampton",
+        "word_count": 513
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wimbledon Qualifying Day 3\n\n**Social (1080x1350):**\n- Search term: `Heather Watson tennis`\n- Credit: (USA TODAY Sports Images)\n- Usage: Watson in match play\n\n**Article Hero (1200x630):**\n- Search term: `Wimbledon qualifying Roehampton`\n- Credit: (Imagn Images)\n- Usage: Qualifying action at Roehampton; British player preferred\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wimbledon Qualifying Day 3\n**Sources used:**\n- lta.org.uk — \"Wimbledon 2026: Qualifying results & updates\"\n- wtatennis.com — Adeshina/Watson match details\n**Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Watson def. Sherif 6-2, 6-2 (1h21m) | HIGH | lta.org.uk |\n| Sherif ranked world No. 110 | HIGH | lta.org.uk search result |\n| Adeshina def. Uchijima (8th seed) 6-1, 3-6, 7-5 (just under 2h) | HIGH | lta.org.uk |\n| Adeshina is 24 years old | MEDIUM | context from LTA reporting |\n| Adeshina win described as \"biggest win of her career\" | HIGH | lta.org.uk |\n| Dan Evans continuing through qualifying (retiring after Wimbledon) | HIGH | prior pipelines + LTA source |\n| 256 players (128M, 128W) for 32 main-draw spots; 3 rounds | HIGH | wimbledon.com (confirmed prior pipeline) |\n| Final day of qualifying: Thursday June 25 | HIGH | wimbledon.com |\n| ESPN+ exclusive US coverage | HIGH | prior pipeline |\n| Draw ceremony: Friday June 26 10:00 AM BST | HIGH | wimbledon.com |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Bad Homburg WTA — Osaka, Swiatek, Andreeva All into Quarterfinals",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Bad Homburg QFs set:\n\nOsaka through — first QF of her 2026 season.\nSwiatek through — 2 straight wins including over Navarro.\nAndreeva through — defending her Roland Garros title next week.\n\nPotential Swiatek vs Andreeva. 🎾 #WTA [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTA"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-bad-homburg-osaka-swiatek-andreeva-quarterfinals.html",
+        "headline": "Bad Homburg WTA: Osaka, Swiatek and Andreeva All Set for Quarterfinals",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bad Homburg WTA QFs\n\n**Social (1080x1350):**\n- Search term: `Naomi Osaka tennis`\n- Credit: (USA TODAY Sports Images)\n- Usage: Osaka celebrating or mid-match\n\n**Article Hero (1200x630):**\n- Search term: `Iga Swiatek tennis`\n- Credit: (Imagn Images)\n- Usage: Swiatek grass-court or celebratory shot\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Bad Homburg WTA QFs\n**Sources used:**\n- wtatennis.com — match results, Osaka vs Mertens\n- en.tennistemple.com — draw/QF preview, Swiatek vs Andreeva potential blockbuster\n- rallyher.com — tournament tracker\n- tennis365.com — entry list with Rybakina\n**Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Osaka def. Mertens 6-3, 6-3 in Bad Homburg R2 | HIGH | wtatennis.com |\n| This is Osaka's first QF of the 2026 season | HIGH | wtatennis.com (\"first quarterfinal of 2026\") |\n| Osaka dropped to No. 135 in January 2025 | HIGH | prior pipelines |\n| Andreeva def. Wang Xinyu 6-3, 6-4 R2 | HIGH | search results |\n| Swiatek def. Navarro 7-6(6), 6-3 R1 | HIGH | en.tennistemple.com |\n| Swiatek def. Kalinskaya 6-4, 6-1 R2 | HIGH | search results |\n| Swiatek is Wimbledon No. 3 seed, defending champion | HIGH | confirmed June 22 pipeline |\n| Andreeva is Wimbledon No. 5 seed, Roland Garros 2026 champion | HIGH | confirmed |\n| Rybakina is top seed in Bad Homburg | HIGH | tennis365.com |\n| QFs Thursday June 25; Final Saturday June 27 | MEDIUM | tournament schedule |\n| Draw set up potential Swiatek vs Andreeva QF | HIGH | en.tennistemple.com (explicit) |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Mallorca and Eastbourne Enter Final Days — Darderi, Tiafoe, Fritz in Contention",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Both Mallorca and Eastbourne reach their final stages this week.\n\nDarderi into his first grass QF. Fritz chasing his fifth Eastbourne title. Both finals Saturday — 2 days before Wimbledon begins. 🎾 #ATPTour #Wimbledon2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPTour",
+            "#Wimbledon2026"
+          ],
+          "char_count": 227
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-mallorca-eastbourne-pre-wimbledon-finals.html",
+        "headline": "Mallorca and Eastbourne Enter Final Days: Darderi, Fritz and Draper Among Players Building Wimbledon Form",
+        "word_count": 583
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mallorca and Eastbourne\n\n**Social (1080x1350):**\n- Search term: `Taylor Fritz tennis`\n- Credit: (USA TODAY Sports Images)\n- Usage: Fritz grass-court action\n\n**Article Hero (1200x630):**\n- Search term: `Luciano Darderi tennis`\n- Credit: (Imagn Images)\n- Usage: Darderi celebrating or in match play"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Mallorca + Eastbourne\n**Sources used:**\n- atptour.com — \"Eastbourne-Mallorca Scouting Report 2026,\" Fritz 5th Eastbourne title angle\n- karlobag.eu — Darderi def. Hanfmann 7-5, 6-3 R2 result\n- tennistonic.com — Mallorca draw, seeds\n- atptour.com — Buse def. Tsitsipas highlight; Walton def. Kyrgios\n**Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Darderi def. Hanfmann 7-5, 6-3 to reach first grass-court QF | HIGH | karlobag.eu |\n| Hanfmann's nationality: German | HIGH | known ATP player |\n| Buse def. Tsitsipas at Mallorca R1 | HIGH | atptour.com (extended highlights reference) |\n| Walton def. Kyrgios R1 at Mallorca | HIGH | atptour.com (highlights title) |\n| Walton previously def. Medvedev at Roland Garros | HIGH | prior pipeline |\n| Dimitrov competing and advancing at Mallorca | MEDIUM | atptour.com extended highlights reference |\n| Tiafoe leads Mallorca field (top seed or high seed) | HIGH | atptour.com scouting report |\n| Fritz seeking fifth Eastbourne title | HIGH | atptour.com scouting report |\n| Draper returning from injury at Eastbourne | HIGH | atptour.com scouting report |\n| Eastbourne final Saturday June 27 | MEDIUM | tournament schedule |\n| Wimbledon draw ceremony Friday June 26 10 AM BST | HIGH | wimbledon.com |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

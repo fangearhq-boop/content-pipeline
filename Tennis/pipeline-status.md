@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-23 |
-| Writing | Complete (all steps) | 2026-06-23 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 29 claims, 94 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-23 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-23 |
-| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-06-23 |
-| PostPlanner Export | Complete (standard 6 posts; TOBI 6 posts) | 2026-06-23 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-23 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-23 |
+| Research | Complete | 2026-06-24 |
+| Writing | Complete (all steps) | 2026-06-24 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 46 claims, 108 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-24 |
+| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-24 |
+| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-06-24 |
+| PostPlanner Export | Complete (standard 6 posts; TOBI 6 posts) | 2026-06-24 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-24 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-24 |
 
 ## Queue
 
@@ -24,6 +24,20 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-24 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions) = 11 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-24.xlsx (6 posts, 12:46–20:16 ET), tfr-postplanner-tobi-2026-06-24.xlsx (6 TOBI posts)
+- **Coverage:** Djokovic mystery withdrawal from Hurlingham Giorgio Armani Tennis Classic (hours before scheduled vs Khachanov; replaced by Martin Damm; no explanation; 13 matches in 2026; last match RG R3 May 29; back treatment at All England Club; No. 7 seed; Wimbledon June 29); Sinner first grass of 2026 at Hurlingham vs Norrie (exhibition; defending champion; skipped all ATP warm-ups; draw Friday June 26); Wimbledon qualifying Day 3 (Watson def. Sherif 6-2, 6-2; Adeshina def. Uchijima 8th seed 6-1, 3-6, 7-5 biggest career win; Evans through; final day Thursday June 25); Bad Homburg WTA QFs (Osaka def. Mertens 6-3, 6-3 first QF of 2026; Andreeva def. Wang 6-3, 6-4; Swiatek def. Navarro 7-6(6), 6-3 + Kalinskaya 6-4, 6-1; potential Swiatek vs Andreeva QF; Final Saturday June 27); Mallorca + Eastbourne final days (Darderi def. Hanfmann 7-5, 6-3 first grass QF; Buse def. Tsitsipas; Walton def. Kyrgios; Dimitrov advancing; Fritz chasing 5th Eastbourne title; Draper at Eastbourne; both finals Saturday June 27)
+- **Notes:**
+  - verify-facts.py: passed; 46 claims, 108 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 6 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 21 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (6 posts) and TOBI (6 posts) generated successfully; 12:46–20:16 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-23 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
