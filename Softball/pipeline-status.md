@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-24
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; initial format error — inline metadata in tweet blocks caused char violations; rewrote to clean tweet-only format; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (75 claims HIGH/MEDIUM/LOW, consistency clean), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published via publish-dashboard.py (cherry-pick after detached HEAD + pull --rebase). PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). PostPlanner 0 posts (no scheduling — expected). X posts initial format had inline metadata causing char violations — rewrote to clean format, 0 violations after fix. Detached HEAD resolved via checkout main + pull --rebase + cherry-pick.
+- **Key Stories**: Texas 2027 full roster preview/Torres+Stewart+Swan+Kavan+Doty/most dangerous team in history/three-peat bid (Tier 1 FOLLOW UP), FSU pursues Tia Milloy/Francik+Danley return/Dodge+Edmiaston 34 combined HRs/rebuild more formidable than headlines (Tier 1 FOLLOW UP), Texas coaching vacancies/Earleywine to Tennessee+Zaleski departing/White needs 2 hires (Tier 2 NEW), Nebraska 2027/51-6/WCWS semis/Frahm gone/can Revelle-Deifel sustain without POY (Tier 2 NEW), Summer showcase season/PGF Nationals+Top Gun+Triple Crown/2027 HS class (Tier 3 NEW)
+
+
+## Last Run
 - **Date**: 2026-06-23
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; format fix **Post N** headers; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (62 claims HIGH/MEDIUM/LOW, 0 violations, consistency clean), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published via publish-dashboard.py (cherry-pick after detached HEAD + pull --rebase). PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
@@ -10,7 +19,7 @@
 - **Key Stories**: Isa Torres deep-dive analysis/Georgetown TX native returns home/joins Stewart+Swan+Kavan/three-peat outlook (Tier 1 FOLLOW UP), FSU rebuilds after losing Torres+Beachum/Francik+Danley return/Edmiaston+Dodge combined 34 HRs (Tier 1 NEW), Post-portal power rankings/No.1 Texas/No.2 Texas Tech/No.3 Florida/89 of 122 committed (Tier 2 FOLLOW UP), Texas vs Texas Tech 2027 preview/WCWS rematch storyline/both loaded portal classes (Tier 2 NEW), Softball offseason calendar/summer showcases/Sept 1 recruiting/fall practice (Tier 3 NEW)
 
 
-## Last Run
+## Previous Run
 - **Date**: 2026-06-22
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 1 Post 1 282→231; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (38 claims HIGH/MEDIUM/LOW, 0 violations, consistency clean), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published via publish-dashboard.py (cherry-pick after detached HEAD + pull --rebase). PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/

@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 24, 2026
+
+### Story 1: Texas 2027 — The Most Loaded Roster in College Softball History
+- **Date:** 2026-06-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Torres deep-dive June 23 — full roster assessment angle)
+- **Angle:** Complete picture of Texas 2027 post-portal: Torres (.530 BA / .978 SLG) + Stewart (31 HRs) + Swan (All-Big 12 catcher, .383/12 HR) + Kavan (two-time WCWS MOP) + incoming freshman Madi Doty. Most dangerous single-season college softball roster ever assembled. Three-peat bid most legitimate in history.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Texas fall camp reports (August)
+  - Coaching hire announcements
+  - Preseason polls (January)
+
+### Story 2: FSU Targets Tia Milloy — Seminoles' Last Big Offseason Move
+- **Date:** 2026-06-24
+- **Tier:** 1
+- **Classification:** FOLLOW UP (FSU rebuild story June 23 — new: Milloy pursuit)
+- **Angle:** FSU pursuing OU transfer Tia Milloy (.353 BA / 4 HR / .706 SLG / 2 years eligibility) to complete rebuild alongside Ella Dodge + Nicole Edmiaston (34 combined HRs). Jazzy Francik (ACC POY) and Ashtyn Danley return. FSU's rebuild more formidable than headlines suggest.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Milloy commitment announcement
+  - FSU fall camp roster preview
+
+### Story 3: Mike White Needs Two Coaches — Texas's Hidden Challenge for 2027
+- **Date:** 2026-06-24
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Texas lost both associate head coaches — Earleywine (to Tennessee) and Zaleski (departing). White must fill two vacancies while managing most-scrutinized roster in softball history. NFCA/ATEC Coaching Staff of the Year program needs right hires before fall camp.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Coaching hire announcements
+  - Texas fall camp chemistry report
+
+### Story 4: Nebraska 2027 — Can the Cornhuskers Return to OKC Without Jordy Frahm?
+- **Date:** 2026-06-24
+- **Tier:** 2
+- **Classification:** NEW STORY
+- **Angle:** Nebraska went 51-6 / WCWS semifinals (2026). Frahm (USA Softball POY / 19 HR / 20-4 pitching) college career over. Can Revelle-Deifel sustain without their two-way superstar? Kuszak (walk-off HR vs Tennessee) and others return. Compelling question for one of softball's great stories.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Nebraska portal activity / fall camp roster
+  - 2027 preseason ranking for Cornhuskers
+
+### Story 5: Summer Showcase Season Is Here — The 2027 High School Class Takes Center Stage
+- **Date:** 2026-06-24
+- **Tier:** 3
+- **Classification:** NEW STORY
+- **Angle:** Portal closed / WCWS over — now PGF Nationals / Top Gun / Triple Crown evaluate 2027 high school class. Programs that missed portal targets recruiting hard for 2028. Sept. 1 opens contact window. NFCA Convention December in Atlantic City. Next portal window after 2027 WCWS.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Showcase standout performers
+  - Early signing day (November) commitments
+
+---
+
 ## June 22, 2026
 
 ### Story 1: Beachum to Florida — The Portal's Most Dramatic In-State Flip
