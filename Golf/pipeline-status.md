@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-23
+- **Date**: 2026-06-24
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-24
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-06-24.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-24.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-24/review-dashboard.html (22 items)
+- **Notes:** Travelers Championship starts June 25-28 TPC River Highlands $20M/$3.6M winner/Scheffler +480 (1 win 8 top-5s)/Bradley defending (won 2023+2025 going for 3rd/from CT)/Clark fresh 2026 US Open wire-to-wire/McIlroy skipping/Spieth 2017 champ/72 player no cut; KPMG Women's PGA June 25-28 Hazeltine $13M record/Korda won Chevron+US Women's Open 2026/3 consecutive majors last Inbee Park 2013/Hazeltine 6,800+ yards long iron test/Korda T-3 2019/Thitikul No.2/Minjee Lee defending; Saudi Arabia PIF confirmed ending LIV funding after 2026 (announced April 29)/$5B+ spent/only $200M of $600M needed received/new independent board Gene Davis+Jon Zinman/4 events remain all uncertain/Louisiana cancelled/lending facility in place; Scheffler 1 win (American Express) 8 top-5s 13 starts 157 consecutive weeks No.1/T-2 Masters/Travelers statement opportunity; Bradley Connecticut homecoming defending champ/won 2025 by 1 over Fleetwood/Ryder Cup captain 2023
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-23
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

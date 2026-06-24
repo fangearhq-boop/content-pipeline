@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-24
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-24 | T1 | Travelers Championship Final Preview — Five Players Who Can Win at TPC River Highlands | X, FB, Article | FOLLOW UP |
+| 2026-06-24 | T1 | KPMG Women's PGA Championship Preview — Korda Faces Hazeltine's Long Test Starting Thursday | X, FB, Article | FOLLOW UP |
+| 2026-06-24 | T2 | LIV Golf — Saudi Arabia Formally Ends Funding After 2026 Season | X, FB, Article | FOLLOW UP |
+| 2026-06-24 | T2 | Scheffler's One-Win Season — World No. 1 Needs a Statement at the Travelers | X, FB, Article | FOLLOW UP |
+| 2026-06-24 | T2 | Keegan Bradley's Home State Bid — Defending Champion Eyes Third Travelers Title | X, FB, Article | NEW |
+
+### STORY 1: Travelers Championship Final Preview
+- **Tier:** 1
+- **Category:** PGA Tour / Signature Event Preview
+- **Key facts:** June 25-28 TPC River Highlands Cromwell CT; $20M purse $3.6M to winner; Scheffler +480 (1 win 2026 / 8 top-5s / 13 starts); Keegan Bradley defending (won 2023+2025, going for 3rd); Clark fresh off 2026 US Open wire-to-wire win; McIlroy skipping links prep; Spieth 2017 champ; Burns US Open runner-up; 72-player no-cut; 22/25 top players in field
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 leaderboard Thursday; eventual winner
+
+### STORY 2: KPMG Women's PGA Championship Preview
+- **Tier:** 1
+- **Category:** LPGA / Major Championship
+- **Key facts:** June 25-28 Hazeltine National Chaska MN; $13M record purse; Korda won Chevron 2026 + US Women's Open 2026; 3 consecutive women's majors = last Inbee Park 2013; Hazeltine 6,800+ yards long iron test; Korda T-3 here 2019; Thitikul world No.2 chief rival; Minjee Lee defending (2025 KPMG); Lydia Ko in field; Hannah Green won here 2019
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1/R2/R3/R4 leaderboard; Korda wins or not
+
+### STORY 3: LIV Golf Saudi Arabia Funding End
+- **Tier:** 2
+- **Category:** Golf Industry / LIV Golf
+- **Key facts:** PIF confirmed April 29 ending funding after 2026; $5B+ spent since 2022; only $200M received in 2026 (need $600M); new independent board Gene Davis + Jon Zinman; 4 events remain (UK July 23-26/NY Aug 6-9/Indianapolis Aug 20-23/Michigan Team Championship Aug 27-30); "every remaining tournament on the fence"; Louisiana already cancelled; CEO O'Neil says 2026 finishes; lending facility in place via PIF; players may return PGA Tour
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Events confirmed or cancelled; investment secured or not; player departures
+
+### STORY 4: Scheffler One-Win Season
+- **Tier:** 2
+- **Category:** PGA Tour / Scottie Scheffler
+- **Key facts:** 1 win (American Express Jan.); 8 top-5s 13 starts; 157 consecutive weeks world No.1; T-2 Masters 2026 (1 back McIlroy); missed US Open to Clark wire-to-wire; +480 Travelers favorite; TPC River Highlands suits ball strikers; seeking win No.2 of 2026
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler wins Travelers; conversion rate story
+
+### STORY 5: Keegan Bradley Connecticut Homecoming
+- **Tier:** 2
+- **Category:** PGA Tour / Keegan Bradley
+- **Key facts:** Won Travelers 2023 + 2025 (won 2025 by 1 over Fleetwood); from Woodstock Connecticut; defending champion going for 3rd; TPC River Highlands = home course; Ryder Cup captain 2023; field includes Scheffler/Clark/Spieth/Schauffele/Burns
+- **Status:** NEW
+- **Follow-up ideas:** Bradley wins 3rd Travelers title; Connecticut fan story
+
 ## 2026-06-23
 
 | Date | Tier | Story | Platforms | Status |

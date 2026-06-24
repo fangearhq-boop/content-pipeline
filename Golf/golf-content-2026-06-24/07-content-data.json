@@ -1,0 +1,253 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-24",
+  "compiled_at": "2026-06-24T11:39:27.550909+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Travelers Championship Final Preview — Five Players Who Can Win at TPC River Highlands",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Travelers Championship starts Thursday at TPC River Highlands.\n\n$20M. 72 players. No cut.\n\nScheffler is the +480 favorite. Clark comes in off the US Open. Spieth won here in 2017. Bradley is the defending champ. No McIlroy.\n\nHere we go. ⛳ #TravelersChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TravelersChampionship"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The PGA Tour's final signature event of 2026 is here.\n\nAfter this week: no more elite 72-player fields or $20M purses until next year.\n\nWho wins the 2026 Travelers? Our lean: Scheffler. He's due. ⛳ #TravelersChampionship #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TravelersChampionship",
+            "#PGATour"
+          ],
+          "char_count": 229
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-travelers-championship-2026-final-preview-tpc-river-highlands.html",
+        "headline": "Travelers Championship 2026 Preview: Five Players Who Can Win at TPC River Highlands",
+        "word_count": 668
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Travelers Championship Final Preview\n\n**Image Concept 1A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Scottie Scheffler PGA Tour\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"TRAVELERS CHAMPIONSHIP\" / \"TPC River Highlands | June 25-28 | Final Signature Event\"\n- **Status:** not_started\n\n**Image Concept 1B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Keegan Bradley Travelers Championship\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "KPMG Women's PGA Championship Preview — Korda Faces Hazeltine's Long Test Starting Thursday",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "KPMG Women's PGA Championship starts tomorrow at Hazeltine.\n\nKorda won the Chevron and US Women's Open in 2026. A win here = 3rd consecutive women's major. Last woman to do it: Inbee Park in 2013.\n\nHazeltine. 6,800+ yards. Starts Thursday. #KPMG #NellyKorda #LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#KPMG",
+            "#NellyKorda",
+            "#LPGA"
+          ],
+          "char_count": 263
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Hazeltine is long. 6,800+ yards. Demands precise long iron play.\n\nKorda finished T-3 here in 2019. She knows this course.\n\nThitikul is the biggest threat. Minjee Lee is the defending champ.\n\nThis is the biggest week in women's golf. #KPMG #LPGA",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#KPMG",
+            "#LPGA"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-kpmg-womens-pga-korda-hazeltine-grand-slam-2026.html",
+        "headline": "KPMG Women's PGA 2026: What Hazeltine Demands — and Why Korda Is Still the Favorite",
+        "word_count": 586
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "KPMG Women's PGA Championship Preview\n\n**Image Concept 2A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Nelly Korda LPGA\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"GRAND SLAM WATCH\" / \"Hazeltine | June 25-28 | $13M Purse\"\n- **Status:** not_started\n\n**Image Concept 2B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Nelly Korda\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "LIV Golf — Saudi Arabia Formally Ends Funding After 2026 Season",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "It is official: Saudi Arabia's PIF will stop funding LIV Golf after the 2026 season ends.\n\n$5B+ invested since 2022. A new independent board is now searching for outside investors.\n\nFour events remain. Every one is uncertain. #LIVGolf #Golf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf",
+            "#Golf"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-liv-golf-saudi-arabia-pif-ends-funding-2026.html",
+        "headline": "LIV Golf's End Date Is Set: Saudi Arabia Stops Funding After 2026 Season",
+        "word_count": 580
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LIV Golf Saudi Arabia Funding End\n\n**Image Concept 3A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"LIV Golf\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"LIV GOLF: END DATE SET\" / \"Saudi Arabia exits after 2026\"\n- **Status:** not_started\n\n**Image Concept 3B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"LIV Golf event\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Scheffler's One-Win Season — World No. 1 Needs a Statement at the Travelers",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Scottie Scheffler in 2026:\n- No. 1 in the world\n- 8 top-5 finishes in 13 starts\n- 157 straight weeks ranked No. 1\n- Wins: 1\n\nThe Travelers Championship starts Thursday. It is time for win No. 2. ⛳ #PGATour #ScottieScheffler",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#PGATour",
+            "#ScottieScheffler"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-scheffler-one-win-season-travelers-2026.html",
+        "headline": "Scottie Scheffler's 2026 Paradox: World's Best Player, One Win on the Board",
+        "word_count": 576
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Scheffler One-Win Season\n\n**Image Concept 4A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Scottie Scheffler celebration\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"157 WEEKS AT NO. 1\" / \"8 Top-5s. 1 Win. Scheffler needs the Travelers.\"\n- **Status:** not_started\n\n**Image Concept 4B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Scottie Scheffler fairway\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Keegan Bradley's Home State Bid — Defending Champion Eyes a Third Travelers Title",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Keegan Bradley grew up in Connecticut. He won the Travelers Championship in 2023 and 2025.\n\nThursday he tees it up going for title No. 3. At his home event. As the defending champion.\n\nIs anyone more motivated than Bradley this week? #TravelersChampionship",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#TravelersChampionship"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-keegan-bradley-travelers-championship-third-title-2026.html",
+        "headline": "Keegan Bradley at the Travelers: Connecticut's Own Defending Champion Eyes History",
+        "word_count": 565
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Keegan Bradley Connecticut Homecoming\n\n**Image Concept 5A (Social — 1080x1350)**\n- **Type:** imagn photo\n- **Search terms:** \"Keegan Bradley golf\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** \"THREE-PEAT WATCH\" / \"Bradley | 2023. 2025. 2026? | Connecticut's Own\"\n- **Status:** not_started\n\n**Image Concept 5B (Article hero — 1200x630)**\n- **Type:** imagn photo\n- **Search terms:** \"Keegan Bradley TPC River Highlands\"\n- **Credit:** (USA TODAY Sports Images)\n- **Overlay text:** n/a\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
