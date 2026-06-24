@@ -5,6 +5,63 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-24
+
+### STORY 1: Game Recap — Cubs 9, Mets 6 (June 23)
+- **Angle:** NEW STORY (PCA 3-run HR; Swanson 2 HRs + 4 RBI breaking a 6-week slump; Cabrera earned the WIN with 5 IP before being carted off; Senga gave up 7 ER in 3.2 IP; Cubs now 4-0 vs. Mets in 2026; 41-37)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight game recap)
+- **Follow-Up Opportunities:**
+  - Swanson continued hot stretch
+  - PCA OBP streak continuation
+  - Cubs go 5-0+ vs Mets if they win today
+
+### STORY 2: Edward Cabrera Injury — Carted Off, IL-Bound (Left Hamstring/Adductor Strain)
+- **Angle:** NEW STORY (Cabrera stretched for throw at first base, left hamstring/adductor strain; carted off Citi Field; MRI Wednesday; headed to IL; now 5 starters down: Horton done for year, Steele won't start in 2026, Taillon out through July, Boyd on IL 2nd stint, Cabrera new; Cubs traded Owen Caissie for Cabrera this offseason)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, breaking injury news)
+- **Follow-Up Opportunities:**
+  - MRI results / specific IL designation
+  - Roster move in response (who gets called up?)
+  - Trade deadline impact
+
+### STORY 3: Doubleheader Preview — Cubs vs. Mets (12:10 PM + 6:10 PM CT, Citi Field)
+- **Angle:** NEW STORY (Split doubleheader makeup from June 22 rainout; Imanaga + Assad start for Cubs; McLean + Manaea for Mets; win both = 6-0 vs. Mets in 2026; Cubs 41-37, Mets 34-44)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game 1 result (today)
+  - Game 2 result (tonight)
+  - Series finale Thursday
+
+### STORY 4: Justin Steele — Hoyer Says Starting Role in 2026 is "Unrealistic"
+- **Angle:** FOLLOW UP (Steele throwing program started June 22; major update today: Jed Hoyer told The Score on June 23 it's "unrealistic" to expect Steele to start in 2026; may contribute in bullpen; focus on 2027)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold analysis/deadline urgency)
+- **Follow-Up Opportunities:**
+  - Trade deadline acquisition (forced by this news)
+  - Steele bullpen debut if recovery allows
+  - 2027 rotation planning
+
+### STORY 5: Trade Deadline — Clay Holmes Out (Fractured Tibia), New Targets Joe Ryan + Cano + Hoffman
+- **Angle:** FOLLOW UP (deadline arc ongoing; Holmes was top target at 1.86 ERA, now fractured tibia; Cubs pivot to Joe Ryan [Twins], Yennier Cano [Orioles], Jeff Hoffman [Blue Jays]; 40 days to August 3)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, trade analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs-Twins Ryan reporting
+  - Holmes recovery timeline and revised trade value
+  - First Cubs deadline acquisition
+
+### STORY 6: Dansby Swanson — 2 HRs + 4 RBI, Breaking Out After Six-Week Slump
+- **Angle:** NEW STORY (6-week power slump ends with a 2-HR, 4-RBI night vs. Mets; 104.4 mph exit velo on one HR; Swanson was described as being in the "worst slump of his career"; bold take on his impact when he's hitting)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, bold player take)
+- **Follow-Up Opportunities:**
+  - Swanson follow-up games (is the slump really over?)
+  - Cubs lineup depth when both PCA and Swanson are hot
+
+---
+
 ## 2026-06-21
 
 ### STORY 1: Game Recap — Blue Jays 8, Cubs 6 (June 20 Comeback)

@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-24",
+  "compiled_at": "2026-06-24T09:15:03.336322+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Game Recap: Cubs 9, Mets 6",
+      "type": "X Text"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Cabrera Injury: 5th Starter Down",
+      "type": "X Text"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Doubleheader Preview (2 Games Today)",
+      "type": "X Text"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Steele Won't Start 2026 + Deadline Urgency",
+      "type": "X Text"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Trade Deadline: Holmes Out, Plan B?",
+      "type": "X Text"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Swanson 2 HRs After 6-Week Slump",
+      "type": "X Text"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Cubs 9, Mets 6 (June 23)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Informative — Swanson broke a 6-week power slump with 2 HRs + 4 RBI; PCA added a 3-run HR extending his historic June; Cubs 4-0 vs. Mets in 2026",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs 9, Mets 6. Swanson had been in the worst slump of his career — he answered with 2 HRs and 4 RBI last night.\n\nPCA added a 3-run shot. Cubs are now 4-0 vs. the Mets in 2026 and counting.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game Recap — Cubs 9, Mets 6 (June 23, 2026)\n**Decision:** NEW STORY — First Cubs-Mets game played this series (June 22 rained out). Recap not covered in June 23 brief (that pipeline was written before the game).\n**Sources:**\n- ESPN box score: https://www.espn.com/mlb/game/_/gameId/401815867/cubs-mets (final score confirmed)\n- Daily Herald: https://www.dailyherald.com/20260623/chicago-cubs/crow-armstrong-and-swanson-homer-off-cabrera-injured-in-9-6-win-over-mets/ (play-by-play details)\n- MLB.com game story: https://www.mlb.com/stories/game/823614 (official recap)\n**Key Facts:**\n- Final: Cubs 9, Mets 6 (at Citi Field, attendance 35,668)\n- Dansby Swanson: 2 HR, 4 RBI (one HR at 104.4 mph exit velocity)\n- Pete Crow-Armstrong: 3-run home run (extends 23-game OBP streak)\n- Edward Cabrera: WIN — 5.0 IP, 3 H, 2 ER, 4 K, 4 BB (before injury)\n- Kodai Senga: LOSS — 7 ER in 3.2 IP\n- Cubs now 41-37 on the season; 4-0 vs. Mets in 2026\n- PCA season stats: .286/.~/.883 OPS, 16 HR, 40 RBI, 18 SB\n- Swanson had been in a 6-week slump before this game\n**Freshness:** Game played June 23 — less than 24 hours old. Source published same night.\n**Why it matters:** Bears lead story (mandatory overnight recap). Also provides setup for today's doubleheader narrative. PCA and Swanson hot at same time is the kind of lineup depth that wins games.\n**Confidence:**\n- Final score (HIGH — ESPN box score)\n- Swanson 2 HR + 4 RBI (HIGH — Daily Herald + ESPN)\n- PCA 3-run HR (HIGH — multiple sources)\n- Cabrera win + 5 IP (HIGH — ESPN box score)\n- Cubs 4-0 vs. Mets 2026 (MEDIUM — cross-reference needed; April sweep was 3-0, this win = 4-0)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Edward Cabrera Injury — 5th Starter Down, Carted Off at Citi Field",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Informative/Urgent — Left hamstring/adductor strain while covering first base; carted off field; MRI Wednesday; headed to IL; Cubs traded top prospect Owen Caissie for him this offseason",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Cubs traded Owen Caissie for Cabrera this offseason. Last night he got carted off at Citi Field with a left hamstring strain — headed to the IL.\n\nThat's FIVE starters down. Horton, Steele, Taillon, Boyd, and now Cabrera.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Edward Cabrera Injury — Headed to IL\n**Decision:** NEW STORY — happened during last night's game. First coverage.\n**Sources:**\n- Fox Sports: https://www.foxsports.com/articles/mlb/cubs-pitcher-edward-cabrera-headed-to-il-after-being-carted-off-the-field-with-a-left-leg-injury\n- Chicago Sun-Times: https://chicago.suntimes.com/cubs/2026/06/23/cubs-edward-cabrera-pitching-injuries-rotation-offseason-trade-jed-hoyer-craig-counsell\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/06/23/edward-cabrera-carted-off-the-field-after-injury-at-first-base/\n- Washington Post: https://www.washingtonpost.com/sports/mlb/2026/06/23/cubs-edward-cabrera-injured-mets/c62f65a6-6f73-11f1-8730-e7fd0e2a6404_story.html\n**Key Facts:**\n- Cabrera suffered left hamstring/adductor strain covering first base in the 6th inning or later\n- Grabbed left thigh, initially rose, tried to walk toward dugout, collapsed; needed cart\n- MRI scheduled for Wednesday June 24 (today)\n- Craig Counsell confirmed IL placement; minimum 15 days\n- Cubs now have 5 starters on IL simultaneously: Cade Horton (season-ending injury), Justin Steele (flexor strain, unlikely to start in 2026), Jameson Taillon (IL through ~end of July), Matthew Boyd (2nd IL stint), Edward Cabrera (new)\n- Cubs acquired Cabrera from the Marlins this past offseason, trading top outfield prospect Owen Caissie\n**Freshness:** Injury occurred June 23 — < 24 hours ago.\n**Why it matters:** This is a genuine crisis story. The Cubs gave up an elite prospect for Cabrera and he's now hurt. Combined with Steele's season downgrade, the rotation picture is dire heading into the doubleheader.\n**Confidence:**\n- Hamstring/adductor strain (HIGH — Fox Sports, Sun-Times, multiple sources)\n- Carted off field (HIGH — multiple eyewitness sources)\n- IL placement confirmed by Counsell (HIGH — Sun-Times direct Counsell quote)\n- Owen Caissie trade context (HIGH — widely reported offseason)\n- \"5 starters on IL\" claim (MEDIUM — need to verify exact count from IL tracker)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Doubleheader Preview — Cubs vs. Mets, Two Today",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Hype/Bold — Win both and the Cubs go 6-0 vs. Mets in 2026; Imanaga + Assad are capable of a sweep; this is the kind of doubleheader contenders feast on",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Two games. One day. Cubs vs. Mets at Citi Field — 12:10 PM and 6:10 PM CT.\n\nImanaga and Assad start. Win both and Chicago goes 6-0 against New York this season.\n\nA struggling Mets team on back-to-back days. Take both. 🔥\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Doubleheader Preview — Cubs vs. Mets (June 24, 2026)\n**Decision:** NEW STORY — doubleheader is today; preview timing critical (must post before 12:10 PM CT first pitch).\n**Sources:**\n- SI.com: https://www.si.com/mlb/cubs/onsi/cubs-at-mets-postponed-setting-up-doubleheader-later-this-week-22\n- Fox Sports (DH Game 2): https://www.foxsports.com/mlb/chicago-cubs-vs-new-york-mets-doubleheader-game-2-jun-24-2026-game-boxscore-95880\n- Sun-Times: https://chicago.suntimes.com/cubs/2026/06/22/cubs-mets-rain-delay-rainout-weather-new-york-city-doubleheader-wednesday\n**Key Facts:**\n- Game 1: 12:10 PM CT at Citi Field\n- Game 2: 6:10 PM CT at Citi Field\n- Cubs starters: Shota Imanaga (Game 1 or 2) + Javier Assad (other game) — order TBD at time of research\n- Mets starters: Nolan McLean + Sean Manaea — order TBD\n- Mets are 34-44; Cubs 41-37\n- Cubs are 4-0 vs. Mets in 2026 heading into today\n- Juan Soto: day-to-day with back injury\n- Mets have lost 7 of their past 12 games\n**Freshness:** Today's games — current.\n**Why it matters:** Win both = 6-0 vs. Mets in 2026. Cubs are already a wild card contender; sweeping a doubleheader against a sub-.500 Mets team would be a significant boost heading into Thursday's series finale.\n**Confidence:**\n- Game times (HIGH — series context JSON, cross-referenced with search results)\n- Cubs starters (MEDIUM — TBD at research time; search results confirmed Imanaga + Assad)\n- Mets starters (MEDIUM — McLean + Manaea confirmed by searches)\n- Series record 4-0 Cubs (MEDIUM — requires second source confirmation)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Steele Won't Start in 2026 — Hoyer Makes It Official",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Bold take — With Steele done for rotation + Cabrera just added to the pile, the Cubs are down 5 starters and Jed Hoyer MUST make a deal by August 3",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jed Hoyer confirmed Tuesday: It's \"unrealistic\" to expect Steele to start games in 2026.\n\nFive starters out. 40 days to August 3. A rotation that ranks among baseball's worst right now.\n\nHoyer has no more excuses left — he has to make a move. 💰\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Justin Steele Update — Won't Start in 2026\n**Decision:** FOLLOW UP — Previously covered June 22 (Steele begins throwing program) and June 23 (Boyd/Steele update). Today's angle = Jed Hoyer's major downgrade: starting games in 2026 is \"unrealistic.\"\n**Sources:**\n- MLB.com: https://www.mlb.com/news/justin-steele-cubs-jed-hoyer-starting-update\n- Yahoo Sports: https://sports.yahoo.com/articles/cubs-bad-news-amid-justin-161435177.html\n- On Tap Sports Net: https://ontapsportsnet.com/mlb/chicago-cubs/jed-hoyer-provides-pivotal-update-on-justin-steele-plans-for-2026/\n**Key Facts:**\n- Jed Hoyer statement (Tuesday June 23 on The Score radio): It is \"unrealistic\" to expect Steele to start games in 2026\n- A flexor strain in late April stalled his rehab timeline past All-Star break\n- Cubs will prioritize Steele's health for 2027; any 2026 contribution would be in the bullpen\n- Steele is NOT done for the year — bullpen role possible if recovery allows\n- This is a significant downgrade from the June 22 framing (\"began throwing program; September starter return possible\")\n**Freshness:** Hoyer's statement made Tuesday June 23 — < 24 hours old.\n**Why it matters:** Combined with Cabrera's new IL stint, this means the Cubs are down their projected rotation's best hope for in-season help. August 3 deadline now the only path to rotation relief.\n**Confidence:**\n- Hoyer quote \"unrealistic\" (HIGH — MLB.com official + multiple outlets)\n- Flexor strain April stalling rehab (HIGH — established fact from previous coverage)\n- Bullpen role possible (HIGH — Audacy/The Score radio quote per search results)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Trade Deadline — Clay Holmes Out, Who's Plan B?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Informative — Holmes was the dream target (1.86 ERA, 98th percentile Statcast), now off the board; where the Cubs turn next (Ryan, Cano, Hoffman)",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Clay Holmes was the dream Cubs deadline target — 1.86 ERA, elite Statcast grades.\n\nNow he's hurt with a fractured tibia. Back to the drawing board.\n\nNew frontrunner: Joe Ryan (Twins). The Twins want to move him. Cubs need a starter. The math works. ⚾\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline — Clay Holmes Out, New Targets\n**Decision:** FOLLOW UP — Deadline arc ongoing since June 14. June 23 brief covered Peralta talks. Today's new angle = Holmes fractured tibia; top target off the board.\n**Sources:**\n- Baseball Rumors: https://www.baseballrumors.me/2026/05/mets-clay-holmes-trade-candidate-deadline-cubs-contenders.html\n- Yahoo Sports: https://sports.yahoo.com/articles/mets-clay-holmes-trade-news-165658975.html\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/06/23/cubs-deadline-plans-pitch/\n**Key Facts:**\n- Clay Holmes (Mets SP): Had been the top Cubs deadline target — 1.86 ERA, 1.01 WHIP, 98th percentile Statcast, 4-3 record, 37 K in 8 outings\n- UPDATE: Holmes suffered a fractured tibia; likely unavailable or significantly discounted as a trade asset\n- With Holmes off the board, alternative targets for Cubs include:\n- Joe Ryan (Twins, SP) — Twins have indicated they \"would like to move\" him at deadline\n- Yennier Cano (Orioles, RP) — elite bullpen option\n- Jeff Hoffman (Blue Jays, RP) — strong reliever option\n- Cubs rank 27th in MLB ERA (4.71) with 5 starters on IL\n- August 3 deadline is 39 days away\n**Freshness:** Holmes injury reported per search results; deadline buzz ongoing.\n**Why it matters:** Cubs fans need to know the trade picture has shifted. The Holmes narrative has been building; pivoting to Plan B is actionable and shareable.\n**Confidence:**\n- Holmes fractured tibia (MEDIUM — from search summary; single source confirmation, needs verification)\n- Holmes stats (HIGH — ESPN/Baseball Reference)\n- Alternative targets (MEDIUM — reporting-based, multiple trade rumor sources)\n- Cubs 27th in ERA (LOW — from previous research; needs current confirmation)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Dansby Swanson Breakout — Two HRs After Six-Week Drought",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Bold — Swanson had been in the worst slump of his career; a 2-HR, 4-RBI night in a must-win game is exactly the kind of moment that turns a season",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Dansby Swanson had been mired in the worst slump of his career for six weeks.\n\nTuesday night vs. the Mets: 2 HRs, 4 RBI, one hit at 104.4 mph off the bat.\n\nWhen PCA AND Swanson are both swinging it, this lineup is dangerous. 🔥\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Dansby Swanson — Breakout Game After Six-Week Slump\n**Decision:** NEW STORY — First dedicated coverage of Swanson's slump/breakout arc.\n**Sources:**\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/06/23/dansby-swanson-rips-a-home-run-to-left-and-there-was-much-rejoicing/\n- ESPN: https://www.espn.com/mlb/player/gamelog/_/id/34895/dansby-swanson\n**Key Facts:**\n- Swanson had 2 HRs + 4 RBI in June 23 game vs. Mets\n- One HR at 104.4 mph exit velocity\n- Context: Swanson was in the \"worst slump of his big-league career\" for ~6 weeks prior\n- 8th HR this year came June 17 (first since May 18) — now at ~10 HRs after last night\n- Full season stats not confirmed precisely — story focuses on June 23 breakout\n- He's a key piece in a Cubs lineup that needs consistent production from the bottom third\n**Freshness:** Game played June 23 — < 24 hours ago.\n**Why it matters:** Swanson is a high-profile Cubs signing. A slump that deep ending with a 2-HR game at a critical point in the season is a genuinely compelling narrative moment.\n**Confidence:**\n- 2 HR + 4 RBI in June 23 game (HIGH — Daily Herald, ESPN box score)\n- 6-week slump (HIGH — multiple sports sources confirm narrative)\n- 104.4 mph exit velo (MEDIUM — single search summary mention)\n- ~10 HRs on season (LOW — rough calculation; verify from Baseball Reference)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
