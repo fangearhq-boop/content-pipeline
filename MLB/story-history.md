@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-24
+
+### Story 1: All-Star Voting Closes Tomorrow — Final Leaders and Close Races
+- **Tier:** 1
+- **Classification:** FOLLOW UP (All-Star voting ongoing; Phase 1 closes June 25 noon ET)
+- **Angle:** Ohtani leads all with 2.31M votes. Clement (Blue Jays) leads AL with 2.05M. Schwarber leads DH with 1.54M at his home park (Citizens Bank Park, July 14 All-Star Game). Close races across positions. Final 24 hours to vote.
+- **Content:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up:** All-Star starters announcement (early July), Derby participant announcements
+
+### Story 2: Schwarber's 29 HRs and the Home Run Derby Dilemma
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Schwarber HR pace + Derby decision pending)
+- **Angle:** 29 HRs, MLB leader. .255/.369/.603. On pace for 60+. Derby at Citizens Bank Park July 14. Has not committed to Derby. "We'll see." Home crowd + historic pace = compelling narrative tension.
+- **Content:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up:** Derby participant confirmation (early July), HR milestone updates
+
+### Story 3: Bobby Witt Jr. Nears Return — "Very Encouraging" Workout
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Witt Grade 1 MCL ongoing; Monday workout new development)
+- **Angle:** Witt ran bases, completed drills, hit in cage at Tropicana Field Monday while wearing brace. Quatraro: "Very encouraging." Royals expect to avoid IL. Witt: .294/10 HR/32 RBI/28 SB, AL fWAR leader 4.5.
+- **Content:** Article (article-03), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up:** Witt activation/lineup return, All-Star selection
+
+### Story 4: Tarik Skubal Trade Deadline — Every Contender Calling Detroit
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal deadline chatter dominant market story)
+- **Angle:** 40 days to August 3 deadline. Two-time Cy Young, free agent after 2026. Braves, Blue Jays, Cubs, Dodgers, Padres, Yankees all linked. Tigers want elite prospect + pieces. Returned from elbow procedure mid-June.
+- **Content:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** Trade deadline, Skubal deal announcement
+
+### Story 5: Kyle Tucker Update — Avoids IL, Expected Back Soon
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Tucker back spasms June 23 — positive resolution)
+- **Angle:** Tucker "pretty confident" avoiding IL. Felt better Tuesday. Roberts "not overly concerned," no imaging planned. Out of lineup June 23 with Rushing (concussion). $240M outfielder expected back within days.
+- **Content:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** Tucker lineup return, Rushing concussion update
+
+---
+
 ## 2026-06-22
 
 ### Story 1: Bobby Witt Jr. Evaluation Today — IL or Return for Tampa Bay?

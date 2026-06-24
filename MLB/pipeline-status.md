@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-24
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (8; 0 char violations — clean tweet-only format used from start), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims HIGH, universal extraction only — claim-patterns.py missing known), compile (5 stories, 8 tweets, 5 FB posts, 5 articles, 28 items), dashboard (28 items), dashboard published to content-dashboards via publish-dashboard.py (direct push — no detached HEAD). PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
+- **GitHub Pages Status**: built (workflow deployment)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started — imagn sourcing required). claim-patterns.py missing (known — universal extraction only). PostPlanner 0 posts (no scheduling — expected). 0 char violations.
+- **Key Stories**: All-Star voting closes tomorrow June 25 noon ET/Ohtani 2.31M leads all/Clement 2.05M leads AL/Schwarber 1.54M leads DH at home park (Tier 1 FOLLOW UP), Schwarber 29 HRs MLB leader/pace 60+/Derby at Citizens Bank Park July 14/still uncommitted to participate (Tier 1 FOLLOW UP), Witt Jr. Grade 1 MCL/encouraging workout Monday/Quatraro "very encouraging"/IL expected to be avoided (Tier 2 FOLLOW UP), Skubal trade deadline/two-time Cy Young/Tigers selling/Braves Cubs Dodgers Yankees Padres Blue Jays all linked/40 days (Tier 2 FOLLOW UP), Tucker back spasms/"pretty confident" avoiding IL/Roberts not concerned/Dodgers $240M star back soon (Tier 3 FOLLOW UP)
+
+
+## Last Run
 - **Date**: 2026-06-23
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (7 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 3 Post 1 294→273; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims HIGH, universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published to content-dashboards via publish-dashboard.py (direct push — no detached HEAD). PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
