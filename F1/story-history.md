@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-24
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-24 | T1 | Austrian GP Race Week — Five Storylines at Red Bull Ring | X, FB, Article | NEW |
+| 2026-06-24 | T1 | Ferrari's Engine Upgrade Gamble — Can Red Bull Block It? | X, FB, Article | NEW |
+| 2026-06-24 | T2 | Hamilton's Championship Math — 41 Pts Back, 15 Races Left | X, FB, Article | FOLLOW UP |
+| 2026-06-24 | T2 | Verstappen Exit Clause — "Impossible to Block" | X, FB, Article | FOLLOW UP |
+| 2026-06-24 | T2 | Antonelli's Barcelona DNF — Blip or Sign for Mercedes? | X, FB, Article | NEW |
+
+### STORY 1: Austrian GP Race Week Preview
+- **Tier:** 1
+- **Category:** Race Preview / Austrian GP
+- **Key facts:** Round 8; Red Bull Ring Spielberg; FP1 June 26 13:30 local; Qualifying June 27 16:00; Race June 28 15:00 local (9:00 AM ET); C3/C4/C5 compounds; Verstappen 6 wins 2018-2023; Ferrari engine upgrade debuting; Red Bull ADUO appeal
+- **Status:** NEW
+- **Follow-up ideas:** FP1/FP2 pace data; qualifying results; race result
+
+### STORY 2: Ferrari Engine Upgrade vs Red Bull ADUO Appeal
+- **Tier:** 1
+- **Category:** Technical / Ferrari
+- **Key facts:** First Ferrari power unit upgrade 2026; affects Hamilton + Leclerc; Red Bull appealing FIA ADUO ruling; could block upgrade before race; ADUO = Active Drag and Undercut Override; Hamilton "nothing is impossible"
+- **Status:** NEW
+- **Follow-up ideas:** Appeal ruling result; FP data showing upgrade performance; race outcome
+
+### STORY 3: Hamilton Championship Math
+- **Tier:** 2
+- **Category:** Championship / Hamilton
+- **Key facts:** Antonelli 156 pts, Hamilton 115 pts, gap 41 (was 66 before Barcelona); 2.7 pts/race advantage needed over 15 races; Hamilton 41 yrs old; Villeneuve says Ferrari must name Hamilton No. 1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP result — gap after race 8; summer break standings assessment
+
+### STORY 4: Verstappen Exit Clause
+- **Tier:** 2
+- **Category:** Driver Market / Verstappen
+- **Key facts:** P7/55 pts/101 behind Antonelli; insider says "impossible to block"; Red Bull shareholders split (Thai for, Mateschitz/Mintzlaff against); Verstappen declined buyout; Vermeulen: decision before summer; hinting at retirement
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official announcement before summer break; Mercedes confirmation; retirement announcement
+
+### STORY 5: Antonelli DNF Pattern — Mercedes Reliability
+- **Tier:** 2
+- **Category:** Championship / Antonelli / Mercedes
+- **Key facts:** 5 wins of 7; DNF Barcelona from lead (mechanical); Russell DNF from lead Canada; two DNFs from race leads in 7 rounds; 156 pts still leads by 41; Austria is reliability test; Antonelli age 19
+- **Status:** NEW
+- **Follow-up ideas:** Austrian GP — does Mercedes finish from the front?; reliability data from FP
+
 ## 2026-06-23
 
 | Date | Tier | Story | Platforms | Status |

@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-24",
+  "compiled_at": "2026-06-24T11:25:26.938615+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "X Text Post",
+      "type": "Story 1 — Austrian GP race week preview"
+    },
+    {
+      "time": "8:30 AM",
+      "description": "FB Long-Form",
+      "type": "Story 1 — Five storylines Austrian GP"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "X Text Post",
+      "type": "Story 2 — Ferrari engine upgrade vs Red Bull appeal"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "FB Long-Form",
+      "type": "Story 2 — Technical breakdown"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "X Text Post",
+      "type": "Story 3 — Hamilton championship math"
+    },
+    {
+      "time": "12:30 PM",
+      "description": "FB Long-Form",
+      "type": "Story 3 — Championship analysis"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "X Text Post",
+      "type": "Story 4 — Verstappen exit clause update"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "FB Long-Form",
+      "type": "Story 4 — Verstappen future deep-dive"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "X Text Post",
+      "type": "Story 5 — Antonelli DNF pattern"
+    },
+    {
+      "time": "5:30 PM",
+      "description": "FB Long-Form",
+      "type": "Story 5 — Mercedes reliability concern"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austrian GP Race Week — Five Storylines to Watch at Red Bull Ring",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RACE WEEK. 🏎️ Austrian GP | Red Bull Ring | June 26-28\n\nHamilton chasing back-to-back wins.\nFerrari engine upgrade debuts.\nVerstappen at his home circuit — exit clause ticking.\nAntonelli needs to bounce back.\n\nSunday race: 9:00 AM ET. #F1 #AustrianGP #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Verstappen has won the Austrian GP SIX times (2018-2023).\n\nHe has 55 points in 2026. He is P7.\n\nHe may not be at Red Bull by September.\n\nThis weekend at Red Bull Ring is going to be something. 👀\n\n#F1 #AustrianGP #Verstappen #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP",
+            "#Verstappen",
+            "#F1Fanrecap"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "Race week is here, and the Austrian Grand Prix at Red Bull Ring is shaping up to be one of the most loaded Formula 1 weekends of the 2026 season.\n\nHere's why this weekend matters. Lewis Hamilton arrives on the back of his maiden Ferrari victory in Barcelona, where he closed the championship gap from 66 to 41 points. Andrea Kimi Antonelli needs to bounce back after retiring from the lead with a mechanical failure. Max Verstappen races on his home circuit — a track where he has won six times — with his Red Bull future hanging over every lap he turns. And Ferrari is bringing a new power unit that could change the pace picture entirely.\n\nThe schedule: Practice kicks off Friday at Red Bull Ring (Spielberg, Austria), qualifying runs Saturday, and the race starts Sunday at 9:00 AM Eastern. Pirelli is bringing their softest compounds, and the weather looks dry for qualifying.\n\nThe 4.3-kilometer Red Bull Ring is one of the shortest circuits on the calendar, but its elevation changes and high-speed corners put a premium on engine power and rear stability. Ferrari's new upgrade was designed with circuits like this in mind.\n\nFive storylines, one weekend. We'll have coverage from first practice onward.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-austrian-gp-2026-race-week-preview.html",
+        "headline": "Austrian GP 2026: Five Reasons This Weekend Could Change the Championship",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Race Week — Five Storylines to Watch at Red Bull Ring\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Red Bull Ring panoramic view or action shot of cars exiting Turn 3 with Alpine backdrop\n- Photo Search Terms: \"Red Bull Ring Austrian Grand Prix\", \"F1 Red Bull Ring\", \"Austrian GP circuit aerial\", \"Red Bull Ring Spielberg Austria\"\n- Text Overlay Copy:\n  - Headline: \"RACE WEEK: AUSTRIAN GP\"\n  - Subtitle: \"Red Bull Ring | June 26-28 | Round 8\"\n- Composition Notes: Mountain backdrop preferred; dramatic angle with F1 cars visible\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- Photo Search Terms: \"Red Bull Ring panoramic\", \"Austrian Grand Prix circuit\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Ferrari's Engine Upgrade Gamble — Can Red Bull Block It?",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Ferrari is bringing a new power unit to Austria. 🔴\n\nIt could give Hamilton and Leclerc a big boost.\n\nRed Bull is appealing the FIA's ADUO ruling to block it.\n\n2026 F1 battles happen in the courtroom AND on track. 📋\n\n#F1 #Ferrari #AustrianGP #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Ferrari",
+            "#AustrianGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "Ferrari is bringing its most significant technical upgrade of the 2026 season to Austria — a new power unit for both Lewis Hamilton and Charles Leclerc. On paper, it should give them a meaningful performance boost at a track where raw engine power matters. The problem is that Red Bull has filed an appeal that could prevent Ferrari from running it at all.\n\nThe dispute centers on ADUO — Active Drag and Undercut Override — a new technical system introduced under 2026 regulations. The FIA approved Ferrari's interpretation of the ADUO system, and now Red Bull is challenging that approval. If their appeal is successful before the Austrian GP weekend, Ferrari may be forced to withdraw the upgrade entirely.\n\nRed Bull's appeal isn't necessarily about Austria specifically — it's about establishing a precedent for how ADUO is interpreted across the rest of the season. But the timing is significant: Ferrari is already on a momentum run after Barcelona, and a blocked upgrade could neutralize the energy they've built.\n\nHamilton, for his part, is staying measured. \"Nothing is impossible,\" he said when asked about his title chances. If the upgrade runs cleanly and performs as expected, that assessment suddenly becomes a great deal more credible.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ferrari-engine-upgrade-aduo-red-bull-appeal.html",
+        "headline": "Ferrari's Engine Upgrade Arrives in Austria — If Red Bull Can't Stop It",
+        "word_count": 527
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari's Engine Upgrade Gamble — Can Red Bull Block It?\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Hamilton in Ferrari car on track — rear view showing exhaust/power unit area, or paddock shot\n- Photo Search Terms: \"Lewis Hamilton Ferrari\", \"Ferrari F1 2026 power unit\", \"Hamilton Ferrari paddock\", \"Ferrari F1 Austria\"\n- Text Overlay Copy:\n  - Headline: \"FERRARI'S ENGINE GAMBLE\"\n  - Subtitle: \"New power unit. Red Bull appeal. Austria decides.\"\n- Composition Notes: Ferrari red dominates; technical/engineering aesthetic\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- Photo Search Terms: \"Ferrari F1 engine\", \"Lewis Hamilton Ferrari onboard\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Hamilton's Championship Math — How Realistic Is the Title?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Lewis Hamilton. 41 years old. Ferrari.\n\nBefore Barcelona: 66 pts behind Antonelli.\nAfter Barcelona: 41 pts behind.\nRaces remaining: 15.\n\nHe needs 2.7 MORE pts/race than Antonelli.\n\nThe math is doable. 🔥\n\n#F1 #LewisHamilton #F1Championship #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#LewisHamilton",
+            "#F1Championship",
+            "#F1Fanrecap"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "After Barcelona, the 2026 F1 World Championship is a legitimate race.\n\nLewis Hamilton walked into Round 7 trailing Andrea Kimi Antonelli by 66 points. He walked out 41 points behind. The gap didn't just close — it changed the psychological shape of the season. Hamilton's win was his 106th career victory and his first for Ferrari, and it came because Antonelli retired from the race lead in the final stages. In one afternoon, the season transformed.\n\nThe math requires Hamilton to average 2.7 more championship points per race than Antonelli over the remaining 15 rounds. That sounds precise, but it isn't: the calculation doesn't account for DNFs, safety cars, rain, tire strategies, or any of the variables that make Formula 1 unpredictable. What it does say is that Hamilton cannot afford a zero, and he needs Antonelli to keep having bad days.\n\nFormer champion Jacques Villeneuve has been direct: Ferrari must make Hamilton their No. 1 driver and funnel resources toward his title challenge instead of splitting strategy between him and Leclerc. That call is controversial inside the Ferrari garage, but the math gives it some logic.\n\nHamilton is 41 years old. The oldest Formula 1 winner since Jack Brabham in 1970. This would be the most remarkable sporting comeback of the decade if it happens. Austria is the next chapter.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-hamilton-championship-math-2026-title.html",
+        "headline": "From 66 Down to 41: Hamilton's Barcelona Win Makes the 2026 Title Race Real",
+        "word_count": 511
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton's Championship Math\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Hamilton celebrating in Ferrari cockpit or podium — triumphant post-Barcelona energy\n- Photo Search Terms: \"Lewis Hamilton Ferrari celebration\", \"Lewis Hamilton podium 2026\", \"Hamilton Ferrari win\"\n- Text Overlay Copy:\n  - Headline: \"HAMILTON IS COMING\"\n  - Subtitle: \"41 pts back. 15 races left. Math says believe it.\"\n- Composition Notes: High-energy celebration shot; Ferrari red and gold color treatment\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- Photo Search Terms: \"Lewis Hamilton Ferrari race win\", \"Hamilton 106th win Ferrari\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen Exit Clause — \"Impossible to Block\" as Mercedes Circle",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Big update: An insider says Verstappen's Red Bull exit clause is now \"impossible to block.\"\n\nRed Bull shareholders are SPLIT.\nVerstappen already declined their buyout offer.\nHe's hinting at retirement.\n\nSomething has to give before summer. ⚡\n\n#F1 #Verstappen #RedBull #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#RedBull",
+            "#F1Fanrecap"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "The Max Verstappen situation at Red Bull Racing has taken another significant turn. An F1 insider told GPFans this week that Verstappen's exit clause is now \"impossible for Red Bull to block\" — language that suggests the four-time world champion could be on his way out before the summer break.\n\nVerstappen's contract contains a clause that allows him to leave if he is not positioned in the top two of the drivers' championship at a set point in the season. He currently sits seventh with 55 points, 101 points behind championship leader Antonelli. The clause is no longer theoretical.\n\nInside Red Bull, the fight is over what to do about it. Shareholders aligned with Thai investors Chalerm Yoovidhya want to exercise a buyout to keep Verstappen. The Mateschitz family and CEO Oliver Mintzlaff are against it. Verstappen himself has declined the buyout offer that was made to him. His manager Raymond Vermeulen says a decision on his 2027 future will come before the summer break.\n\nMercedes and Toto Wolff have interest. Verstappen has also hinted publicly at possible retirement, suggesting that the 2026 technical regulations — which have produced such a dramatic reversal in the competitive order — have made him question his motivation.\n\nThis weekend, Verstappen races at the circuit he has dominated for years. He is 101 points behind where he expects to be. Watch how he handles Austria.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-verstappen-exit-clause-impossible-block.html",
+        "headline": "Verstappen Exit Clause 'Impossible to Block': What Happens Next for Red Bull's Star",
+        "word_count": 521
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Verstappen in Red Bull car — slightly tense or reflective expression; not a celebration shot\n- Photo Search Terms: \"Max Verstappen Red Bull 2026\", \"Verstappen Red Bull garage\", \"Max Verstappen cockpit\"\n- Text Overlay Copy:\n  - Headline: \"VERSTAPPEN: WHAT'S NEXT?\"\n  - Subtitle: \"Exit clause. P7 standings. Decision before summer.\"\n- Composition Notes: Darker tone than usual; uncertainty mood; Red Bull colors but with shadow\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- Photo Search Terms: \"Max Verstappen Red Bull\", \"Verstappen paddock\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Antonelli's Barcelona DNF — A Blip or a Sign for Mercedes?",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5-1",
+          "text": "Not enough people are talking about this:\n\nMercedes has had TWO drivers retire from the race lead in 2026.\n\nRussell in Canada. Antonelli in Barcelona. Both mechanical.\n\nAntonelli still leads by 41. But if Austria goes wrong... 👀\n\n#F1 #Antonelli #Mercedes #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli",
+            "#Mercedes",
+            "#F1Fanrecap"
+          ],
+          "char_count": 266
+        },
+        {
+          "label": "Post 5-2",
+          "text": "Antonelli 2026 so far: 5 wins, 1 DNF, 156 pts.\n\nAt 19 years old. 🏆\n\nBarcelona showed he can be beaten.\n\nHamilton already knows it. Austria is next.\n\n#F1 #Antonelli #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Antonelli",
+            "#F1Fanrecap"
+          ],
+          "char_count": 175
+        }
+      ],
+      "facebook": {
+        "long_form": "Here is a pattern worth watching. In 2026, Mercedes has now had two different drivers retire from the race lead: George Russell in Canada, and Andrea Kimi Antonelli in Barcelona. Both retirements were mechanical. Both happened while the driver was ahead of the field.\n\nAntonelli's Barcelona retirement came with three laps remaining. He had been dominant for the entire race and looked set for another routine win before his car stopped. Hamilton inherited the lead and took the victory, slicing 25 points off the championship gap in one afternoon.\n\nTo Antonelli's credit, one DNF in seven races is still an extraordinary season for a 19-year-old. Five wins, a championship lead, and a record as the youngest driver ever to score three consecutive victories — the Barcelona result barely dented any of that. He still leads Hamilton by 41 points with 15 races left.\n\nBut two DNFs from the lead in seven races does raise a question Mercedes needs to answer in Austria: is this a reliability issue with the car's systems at the front of the race, or were these isolated incidents?\n\nAustria is a high-pressure test. If Antonelli leads and finishes cleanly, the question fades. If something goes wrong again while he's in front, the championship picture — and the conversation around the team — changes considerably.",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-antonelli-dnf-mercedes-reliability-austria.html",
+        "headline": "Two DNFs From the Lead: Is Mercedes Reliability Becoming Antonelli's Biggest Threat?",
+        "word_count": 528
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli's Barcelona DNF — Mercedes Reliability\n\n**Social Image (1080x1350, 4:5 vertical)**\n- Visual Description: Antonelli Mercedes car stationary or retirement shot — or dual image with healthy race moment\n- Photo Search Terms: \"Antonelli Mercedes retirement\", \"Kimi Antonelli Mercedes\", \"Andrea Kimi Antonelli F1\"\n- Text Overlay Copy:\n  - Headline: \"RELIABLE ENOUGH?\"\n  - Subtitle: \"Two DNFs from the lead. Austria is the test.\"\n- Composition Notes: Question-mark energy; Mercedes silver; slight dramatic tension\n\n**Article Hero (1200x630, 1.91:1 landscape)**\n- Photo Search Terms: \"Kimi Antonelli Mercedes\", \"Antonelli F1 2026\""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

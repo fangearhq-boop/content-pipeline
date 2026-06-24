@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-23
+- **Date**: 2026-06-24
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-24
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-24.xlsx (7 posts) + f1fr-postplanner-tobi-2026-06-24.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-24/review-dashboard.html (27 items)
+- **Notes:** Austrian GP race week June 26-28/FP1 Friday/Qual Saturday/Race Sunday 9AM ET/Ferrari power unit upgrade debuting/Red Bull ADUO appeal could block it; Hamilton 41 pts behind Antonelli (was 66 before Barcelona)/15 races left/Villeneuve: Ferrari must make Hamilton No.1; Verstappen exit clause "impossible to block"/shareholders split/declined buyout/hinting at retirement/P7 55pts; Antonelli two DNFs from race leads in 7 rounds (Russell Canada, Antonelli Barcelona)/reliability test at Austria
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-23
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
