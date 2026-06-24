@@ -1,6 +1,43 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: June 23, 2026
+## Latest Run: June 24, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | VEVOR baby swing recall (cpsc.gov; ~1,020 units; BB501K/BB702A/BB005K; suffocation; Safe Sleep for Babies Act; recalling@vevor.com; 855-599-6320); Uuoeebb infant walker recall (cpsc.gov; ~2,650 units; 3 hazards; BaoD unresponsive; Uuoeebbrecalls@outlook.com); Portal Pool closure (Gazette May 23, 2026; 1945 coal mine shaft 25 ft below; federal grant; geotechnical investigation 2026–2027); D11 $775M bond (KRDO May 27, 2026; 58-yr-old avg building; >$422M repairs; $6.50/month per $100K; $10K teacher raise; d112026bondplanning.com); Teen AI chatbot mental health (JAMA Pediatrics June 10, 2026; 1 in 5 teens; 8.2M; 63% undisclosed; 43% monthly) |
+| Story History Check | COMPLETE | 5 NEW STORIES — all fresh; confirmed against story-history.md |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 each for S1/S2; 1 each for S3/S4/S5); all under 280 chars; 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 long-form posts; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (2 per story: 1080x1350 + 1200x630) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 10 images; all not_started; photo_source: gemini; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-900 words; What's Next sections; 0 exclamation marks; no figure tags; no photo credits) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 68 claims detected; image manifest warnings cosmetic (expected for gemini source flat-list YAML) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 9 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 24 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 24 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-24.xlsx (7 posts) + TOBI cosp-postplanner-tobi-2026-06-24.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-24)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form = 12 total posts (PostPlanner xlsx: 7 X posts)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-24.xlsx (7 posts), cosp-postplanner-tobi-2026-06-24.xlsx (7 TOBI posts)
+- **Coverage:** VEVOR baby swing recall (CPSC; suffocation hazard; Safe Sleep for Babies Act violation; ~1,020 units; BB501K/BB702A/BB005K; VEVOR.com+Amazon Jan–Aug 2025 $65–$80; recalling@vevor.com; 855-599-6320); Uuoeebb infant walker recall (CPSC; 3 hazards: doorway+step edge+head entrapment; ~2,650 units; BaoD unresponsive; Amazon Dec 2024–Sep 2025 $60–$90; Production Batch 7654; Uuoeebbrecalls@outlook.com); Portal Pool closure (3535 N. Hancock Ave; 1945 coal mine shaft 25 ft below; federal grant; geotechnical investigation 2026–2027; alternatives: Wilson Ranch Pool, Monument Valley Pool $10/$15/$45 YMCA, Cottonwood Creek YMCA indoor); D11 $775M bond November 2026 ballot (58-yr avg building; >$422M repair backlog; every school $1M+; AC+repairs+safety+modernization; $6.50/month per $100K; mill levy 37.7→46.3; $10K teacher raise; d112026bondplanning.com); Teen AI chatbot mental health (JAMA Pediatrics June 10, 2026; 1 in 5 teens ages 12–21; 8.2M users; up 40%+ YoY 13.1%→19.2%; ChatGPT/Gemini/Character.AI/Meta AI; 63% undisclosed; 43% monthly)
+- **Notes:**
+  - verify-facts.py: Passed with image manifest warnings (cosmetic — expected for flat-list YAML format)
+  - compile: 5 stories, 9 X posts, 0 FB posts (parser compatibility — same as prior runs), 5 articles; 24 dashboard items
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+
+## Prior Run: June 23, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

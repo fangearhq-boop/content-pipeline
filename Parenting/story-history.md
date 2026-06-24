@@ -2,6 +2,50 @@
 
 ---
 
+## June 24, 2026
+
+### Story 1: RECALL — VEVOR Baby Swings (Suffocation Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled ~1,020 VEVOR baby swings (Sanven Technology Co., Ltd.). Models BB501K/BB702A/BB005K. Incline exceeds 10°; violates Safe Sleep for Babies Act. Sold VEVOR.com + Amazon Jan–Aug 2025, $65–$80. Stop use, cut cover in half, write Recalled on base, email photo to recalling@vevor.com. Phone 855-599-6320 Mon–Fri 9AM–5PM PT. Dispose per local/state laws. Do not donate. cpsc.gov.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov
+- **Follow-Up Opportunities:** None — recall active; will age out
+
+### Story 2: RECALL — Uuoeebb Infant Walkers (Doorway/Stair/Head Entrapment)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled ~2,650 Uuoeebb infant walkers (BaoD / Hunan Suihuo E-commerce Co., Ltd.). Collapsible round base, 8 wheels, 7 height settings; gray/black/pink. Three hazards: fit through standard doorways + fail to stop at step edges + leg openings allow head entrapment. Recall identifier: "Production Batch: 7654" under seat. Amazon only Dec 2024–Sep 2025, $60–$90. Manufacturer unresponsive to CPSC. Stop use, disassemble, write Recalled on tray, email photo to Uuoeebbrecalls@outlook.com.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov
+- **Follow-Up Opportunities:** None — manufacturer unresponsive; recall email-only
+
+### Story 3: Portal Pool Closed All Summer — Coal Mine Shaft + Where to Swim in COS
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Portal Pool at Portal Park (3535 N. Hancock Ave) closed all summer 2026; city says won't return for years. A 1945 coal mine shaft sits as little as 25 feet below. Federal grant for geotechnical investigation; Phase 1 by end of 2026, Phase 2 2027. Alternatives: Wilson Ranch Pool (public); Monument Valley Pool (YMCA partnership, $10 youth/$15 adult/$45 family); Cottonwood Creek Family Center YMCA (indoor, year-round). Spray grounds: Deerfield Hills, Venezia Park, Uncle Wilber Fountain.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** Colorado Springs Gazette (May 23, 2026), ppymca.org
+- **Follow-Up Opportunities:** Investigation results 2026–2027; pool reopening decision (years out)
+
+### Story 4: D11 Considers $775M School Bond for November 2026 Ballot
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D11 board considering $775M bond for November 2026 ballot. Avg building 58 years old; repair backlog >$422M. Every school gets at least $1M. Projects: repairs, system replacements, AC (many schools lack AC), safety upgrades, modernizations, new construction. Tax: ~$6.50/month per $100K assessed value; mill levy 37.7→46.3. Would also enable $10K annual pay raise for all teachers. Community support ~54–58%. Board votes by end of summer. d112026bondplanning.com; d11.org/bond/faq.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** KRDO (May 27, 2026), d11.org/bond/faq
+- **Follow-Up Opportunities:** Board vote (end of summer 2026); November ballot campaign; election results
+
+### Story 5: 1 in 5 US Teens Using AI Chatbots for Mental Health Advice (JAMA Pediatrics)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — JAMA Pediatrics (June 10, 2026): 1 in 5 US adolescents/young adults ages 12–21 (~8.2M people) used AI chatbots for mental health advice. Up 40%+ YoY (13.1%→19.2%). Chatbots: ChatGPT, Gemini, Character.AI, Meta AI. 63% undisclosed to anyone; 43% monthly use. Researchers recommend proactive conversations from clinicians + parents. Not claimed harmful — but link to evidence-based care.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** JAMA Pediatrics (June 10, 2026), RAND Corporation press release
+- **Follow-Up Opportunities:** Follow-up research; school year angle in August/September
+
+---
+
 ## June 23, 2026
 
 ### Story 1: Colorado Springs 4th of July 2026 Family Guide
