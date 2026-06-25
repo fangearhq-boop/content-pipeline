@@ -3,6 +3,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## June 25, 2026
+
+### Story 1: Texas Coaching Staff Complete — Fremin and Freeman Hired for 2027
+- **Date:** 2026-06-25
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 24 — "Mike White Needs Two Coaches"; both vacancies now filled)
+- **Angle:** Rick Fremin (Southeastern Louisiana, 348-197 career, 3x Louisiana COY, SLU 46-16 in 2026) hired June 18 as Associate Head Coach. Amber Freeman (Arizona, developed 2 Big 12 POY, coached .348 BA in 2025) hired June 24 as hitting coach. Both vacancies resolved before fall camp. Most loaded roster in history is now fully staffed.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Fall camp reports (August) — new staff integration with Torres, Swan
+  - Preseason polls (January) — Texas expected No. 1 unanimously
+
+### Story 2: Who Won the 2026 Transfer Portal? Final Power Rankings
+- **Date:** 2026-06-25
+- **Tier:** 1
+- **Classification:** FOLLOW UP (portal tracker June 22 — final edition with all moves complete)
+- **Angle:** 130 players, 103 committed (79%). Final order: Texas (Torres+Stewart+Swan+Kavan+Doty recruiting class) → Texas Tech (Softball America No. 1 class: Polar+Heavener+Pickering) → Florida (Beachum No. 1 transfer) → Nebraska (returners) → South Carolina. Full post-portal power ranking.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Fall ball / preseason rankings
+  - 2027 title race Texas vs Texas Tech
+
+### Story 3: FSU Still Waiting on Milloy — But the Seminoles Are Already Dangerous
+- **Date:** 2026-06-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (FSU rebuild June 24 — new angle: Milloy uncommitted, but FSU existing roster more dangerous than headlines suggest)
+- **Angle:** Milloy still uncommitted as of June 25. FSU still in contact. But even without her: Francik (ACC POY) + Dodge (23 HRs from Tennessee) + Edmiaston (11 HRs from Stetson) + Danley = 34 combined portal HRs. More power than Torres+Beachum combined. FSU dangerous regardless.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Tia Milloy commitment announcement
+  - FSU fall camp roster preview
+  - First preseason polls (January)
+
+### Story 4: PGF Nationals Preview — July 19 Opens the Summer's Biggest Stage
+- **Date:** 2026-06-25
+- **Tier:** 2
+- **Classification:** FOLLOW UP (summer showcase season June 24 — concrete PGF dates and preview)
+- **Angle:** PGF National Championship July 19–August 4. Week 1 (18U/16U), Week 2 (14U). Most important youth fastpitch recruiting event. Programs that missed portal are watching 2027/2028 recruits. Sept 1 opens 2028 contact window.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Nationals standout performers (late July/early August)
+  - Early signing day commitments (November)
+
+### Story 5: Oklahoma Rebuilds Around a History-Maker — Kendall Wells and the Sooners' 2027 Outlook
+- **Date:** 2026-06-25
+- **Tier:** 3
+- **Classification:** NEW STORY (first post-portal OU analysis; Wells award announced June 9)
+- **Angle:** Wells first freshman ever to win Johnny Bench Award (best college catcher); second OU player in program history. OU lost in Super Regional in 2026. Patty Gasso (6 national titles, winningest coach) rebuilds around generational catching talent with multiple years eligibility.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Oklahoma 2027 preseason ranking (January)
+  - Wells 2027 season stats
+  - OU fall camp roster additions
+
+---
+
 ## June 24, 2026
 
 ### Story 1: Texas 2027 — The Most Loaded Roster in College Softball History

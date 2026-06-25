@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-25
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (7; correct #### Text Post format with code blocks), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (64 claims HIGH/MEDIUM/LOW, 0 char violations), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards push — known). PostPlanner FB 0 posts (format; X 7 posts OK). IMAGE MISSING expected (not_started).
+- **Key Stories**: Texas coaching staff complete/Fremin (348-197, 3x LA COY, SLU 46-16)+Freeman (Arizona, Big 12 best offense) hired (Tier 1 FOLLOW UP), 2026 portal final power rankings/130 entered 103 committed 79%/Texas→TT→Florida→Nebraska→SC (Tier 1 FOLLOW UP), FSU dangerous without Milloy/Francik POY+Dodge 23HR+Edmiaston 11HR/Milloy still available (Tier 2 FOLLOW UP), PGF Nationals July 19/18U 16U week 1/14U week 2 (Tier 2 FOLLOW UP), Oklahoma Kendall Wells first freshman Johnny Bench Award/Sooners rebuild (Tier 3 NEW)
+
+
+## Last Run
 - **Date**: 2026-06-24
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (7; initial format error — inline metadata in tweet blocks caused char violations; rewrote to clean tweet-only format; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (75 claims HIGH/MEDIUM/LOW, consistency clean), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard published via publish-dashboard.py (cherry-pick after detached HEAD + pull --rebase). PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/ilovesoftball-dashboards/
