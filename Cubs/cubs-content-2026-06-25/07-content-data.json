@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-25",
+  "compiled_at": "2026-06-25T09:14:29.985651+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "DH Sweep Recap: Swanson 11 RBI Franchise Record",
+      "type": "X Text"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Cubs Acquire David Peterson from Mets",
+      "type": "X Text"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Ben Brown to IL — Six Starters Down",
+      "type": "X Text"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Wild Card Race: Half Game Back of Cardinals",
+      "type": "X Text"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Boyd Returns Tonight — First Start Since May 3",
+      "type": "X Text"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-Game Hype: Series Finale, Boyd's Return",
+      "type": "X Text"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Doubleheader Sweep + Swanson 11 RBI Franchise Record",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Informative/Bold — Cubs swept the Mets 10-3 and 10-5 on June 24; Swanson's 11 RBIs in one doubleheader breaks Ron Santo's 56-year-old Cubs record",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs swept the Mets twice yesterday. 10-3 and 10-5.\n\nDansby Swanson drove in 11 runs in a doubleheader — a CUBS FRANCHISE RECORD, breaking Ron Santo's 56-year-old mark.\n\n3-run HR. Grand slam. Go-ahead triple. Dansby is LOCKED IN.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Cubs Acquire David Peterson from the Mets",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Bold/Analysis — Cubs traded for Peterson from the literal team they were playing, giving up top-13 prospect Cole Mathis; Peterson's 6.09 ERA masks a 3.85 FIP and 51% GB rate; rotation survival move",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "The Cubs just traded for David Peterson — from the team they're currently PLAYING.\n\nHis 6.09 ERA is ugly. His 3.85 FIP and 51% groundball rate say something different.\n\nDesperate move? Maybe. But five starters are on the IL. Options are limited.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Rotation Crisis — Ben Brown Joins IL, Six Starters Down",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Informative/Urgent — Ben Brown (1.85 ERA, Cubs' best rotation option) is now shelved; six total starters sidelined this season; Counsell: \"This is crazy\"",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Ben Brown just joined the Cubs' IL — neck strain. He was 4-2 with a 1.85 ERA.\n\nFive starters are now shelved: Horton, Steele, Taillon, Cabrera, Brown.\n\n\"This is crazy,\" said Counsell. He wasn't wrong. Boyd returns tonight as the lone bright spot.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Race — Half a Game Back of the Cardinals",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Informative — Cardinals 42-35, Phillies 43-36, Cubs 43-37; Cubs gained ground with the DH sweep; every game from here is meaningful",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cardinals: 42-35. Phillies: 43-36. Cubs: 43-37.\n\nHalf a game separates Chicago from the Cardinals in the wild card race.\n\nThe Cubs swept yesterday's doubleheader to tighten it up. Two months left to decide this thing.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Boyd Returns Tonight — First Start Since May 3",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Informative — Boyd activated after meniscus surgery, completed 30-pitch bullpen at Citi Field, Counsell says it's \"a big deal\"; tonight's series finale his first start in 53 days",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Matthew Boyd starts tonight — first appearance since May 3.\n\nHe needed minor knee surgery after a freak injury playing with his kids. Seven weeks later, he's back.\n\nCounsell called it \"a big deal.\" With five starters shelved, he's not wrong.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Series Finale at 6:10 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Bold/Hype — Cubs are 6-0 vs. Mets in 2026, shot at 7-0 tonight; Boyd on the mound in his return; wild card implications; Mets 34-48",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Cubs are 6-0 against the Mets this season.\n\nBoyd takes the ball at 6:10 PM CT tonight at Citi Field — coming off seven weeks on the IL.\n\nA win makes it 7-0 vs. New York in 2026 and tightens the wild card race even further.\n\nLet's go.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

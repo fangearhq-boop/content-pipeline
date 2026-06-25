@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-25
+
+### STORY 1: Doubleheader Sweep + Swanson 11 RBI Cubs Franchise Record
+- **Angle:** NEW STORY (overnight recap; Cubs swept Mets 10-3 and 10-5 on June 24; Dansby Swanson drove in 11 runs in the doubleheader — CUBS FRANCHISE RECORD, breaking Ron Santo's mark from July 6, 1970; 3-run HR + grand slam in Game 1, go-ahead triple + 4 RBI in Game 2; Cubs now 6-0 vs. Mets in 2026; Assad WIN in Game 1)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight game recap)
+- **Follow-Up Opportunities:**
+  - Tonight's series finale result (recap tomorrow)
+  - Swanson continued hot streak — best series in Cubs franchise history with game left
+
+### STORY 2: Cubs Acquire David Peterson from the Mets
+- **Angle:** NEW STORY (trade completed June 24, while Cubs were actively playing the Mets in the doubleheader; LHP David Peterson acquired for prospect Cole Mathis; Peterson: 6.09 ERA / 3.85 FIP / 51% GB rate; desperation rotation move with five starters on IL; Peterson is 30, impending FA)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold trade analysis)
+- **Follow-Up Opportunities:**
+  - Peterson's first Cubs start (when scheduled)
+  - Additional deadline moves (Joe Ryan, Cano, Hoffman still on the board)
+  - Cole Mathis prospect update at Mets organization
+
+### STORY 3: Rotation Crisis — Ben Brown Joins IL, Six Starters Down
+- **Angle:** NEW STORY (Ben Brown placed on 15-day IL June 24 with left neck strain, retroactive to June 21; Brown was 4-2, 1.85 ERA — Cubs' best fill-in option; Cabrera MRI confirmed "moderate" hamstring strain; five starters currently on IL: Horton, Steele, Taillon, Cabrera, Brown; Counsell: "This is crazy"; Boyd activated today as the lone silver lining)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, injury news)
+- **Follow-Up Opportunities:**
+  - Brown neck strain recovery timeline (15-day IL; earliest return ~July 9)
+  - Cabrera hamstring update as it develops
+  - Further emergency depth moves
+
+### STORY 4: Wild Card Race — Half a Game Back of the Cardinals
+- **Angle:** NEW STORY (standings snapshot after doubleheader sweep; Cardinals 42-35 / Phillies 43-36 / Cubs 43-37; Cubs within 0.5 GB of Cardinals for top wild card; Brewers running away with NL Central at 48-29)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, standings update)
+- **Follow-Up Opportunities:**
+  - Wild card standings updates daily
+  - Head-to-head Cubs vs Cardinals series results
+  - Playoff odds shift after tonight's game
+
+### STORY 5: Boyd Returns Tonight — First Start Since May 3
+- **Angle:** FOLLOW UP (Boyd IL arc tracked across multiple pipelines; today = activation and first start; Boyd threw 30-pitch bullpen at Citi Field no issues; last start was May 3 / 6 IP 2 ER WIN; Counsell: "big deal"; meniscus injury suffered playing with kids, minor surgery, 7-week recovery)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, return feature)
+- **Follow-Up Opportunities:**
+  - Boyd's actual start result tonight
+  - Boyd's velocity/stuff report from first start back
+  - Pitch count management as he builds back up
+
+### STORY 6: Pre-Game Hype — Series Finale at 6:10 PM CT
+- **Angle:** NEW STORY (pre-game energy; Cubs 6-0 vs. Mets in 2026 heading into tonight; Boyd on the mound; shot at 7-0 vs. New York; wild card implications; 6:10 PM CT at Citi Field)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's game result (recap June 26)
+  - Final series-vs-Mets stats (if Cubs go 7-0)
+
+---
+
+---
+
 ## 2026-06-24
 
 ### STORY 1: Game Recap — Cubs 9, Mets 6 (June 23)
