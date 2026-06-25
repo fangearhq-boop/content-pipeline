@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-24
+- **Date**: 2026-06-25
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-25
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written; 2 required char count fixes before passing verify-facts.py (Story 1 and Story 4 were over 280)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-06-25.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-25.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-25/review-dashboard.html (22 items)
+- **Notes:** Korda chasing 3rd consecutive major 2026 (won Chevron + US Women's Open); KPMG June 25-28 Hazeltine Chaska MN; $13M record purse; Minjee Lee defending (2025 PGA Frisco); first 3 majors since Park 2013; Travelers R1 underway TPC River Highlands $20M; Scheffler/Burns paired 1:55 ET; Clark/Fleetwood 2:05 ET; Bradley defending; McIlroy absent; Clark won 2026 US Open Shinnecock Hills -4 wire-to-wire; Burns -3 runner-up; Clark's 2nd title; LIV Louisiana postponed today FIFA/heat; Louisiana loses $2M; PIF ending funding after 2026; LIV seeking $250-350M; O'Neil can't guarantee final 4 events; Niemann 2-stroke Rule 1.2b at US Open R1 club throw 50 yards; shot 65 R2; made cut
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-24
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

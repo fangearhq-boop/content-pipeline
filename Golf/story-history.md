@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-25
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-25 | T1 | Korda Historic Bid — Three Majors to Start 2026 at KPMG Women's PGA | X, FB, Article | FOLLOW UP |
+| 2026-06-25 | T1 | Travelers Championship R1 — Scheffler, Clark, Burns Lead $20M Signature Event | X, FB, Article | NEW |
+| 2026-06-25 | T2 | Wyndham Clark Wins 2026 U.S. Open at Shinnecock Hills — Wire-to-Wire | X, FB, Article | NEW |
+| 2026-06-25 | T2 | LIV Louisiana Postponed — PIF Funding Crisis, 4 Events in Doubt | X, FB, Article | FOLLOW UP |
+| 2026-06-25 | T2 | Niemann Misconduct Penalty at U.S. Open — Club Throw, Rule 1.2b, Then a 65 | X, FB, Article | NEW |
+
+### STORY 1: Korda Historic Bid at KPMG
+- **Tier:** 1
+- **Category:** LPGA / Major / Korda
+- **Key facts:** Korda won Chevron + U.S. Women's Open in 2026; KPMG June 25-28 Hazeltine National Chaska MN; $13M record purse; $1.95M winner's share; Minjee Lee defending (2025 winner at PGA Frisco -4/284); Hannah Green 2019 Hazeltine champion; first to win first 3 majors of year since Inbee Park 2013
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 leaderboard; Korda position after each round; final result
+
+### STORY 2: Travelers Championship R1
+- **Tier:** 1
+- **Category:** PGA Tour / Signature Event
+- **Key facts:** TPC River Highlands Cromwell CT; par 70; $20M Signature Event; Keegan Bradley defending; McIlroy absent; Scheffler/Burns paired 1:55 PM ET; Clark/Fleetwood 2:05 PM ET; no R1 scores yet
+- **Status:** NEW
+- **Follow-up ideas:** R1 scores; first-round leaders; weekend pairings
+
+### STORY 3: Wyndham Clark Wins 2026 U.S. Open
+- **Tier:** 2
+- **Category:** USGA / Major Recap
+- **Key facts:** Shinnecock Hills Southampton NY June 18-21; Clark -4 (276) wire-to-wire; Burns -3 runner-up; Tom Kim T3; Scheffler T4; Clark's 2nd US Open (first 2023 LACC)
+- **Status:** NEW
+- **Follow-up ideas:** Clark's Travelers performance as follow-up storyline
+
+### STORY 4: LIV Louisiana Postponed / PIF Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** Louisiana event postponed today June 25; FIFA/heat cited; host paid $3.2M loses $2M; PIF ending LIV funding after 2026; LIV seeking $250-350M; new board Gene Davis + Jon Zinman; O'Neil can't guarantee final 4 events; Scott O'Neil commissioner
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investment announcement; event cancellations or completions; player response
+
+### STORY 5: Niemann Misconduct Penalty
+- **Tier:** 2
+- **Category:** Rules / USGA / Major
+- **Key facts:** US Open R1; hole 6 quadruple bogey; club thrown ~50 yards; Rule 1.2b; 2-stroke penalty; first major misconduct penalty 2026; Niemann shot 65 in R2; made cut
+- **Status:** NEW
+- **Follow-up ideas:** USGA comment on ruling consistency; any similar incidents going forward
+
 ## 2026-06-24
 
 | Date | Tier | Story | Platforms | Status |
