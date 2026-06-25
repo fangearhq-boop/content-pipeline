@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-24
+- **Date**: 2026-06-25
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-25
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters (4 required char count fixes before passing verify-facts.py)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-25.xlsx (6 posts) + f1fr-postplanner-tobi-2026-06-25.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-25/review-dashboard.html (21 items)
+- **Notes:** FIA banned Mercedes W17 serrated diffuser June 24 effective Austrian GP; freight already en route; Ferrari triggered ban + had alternative pre-approved; Antonelli 156-Hamilton 115 (41-pt gap)/15 races left/Hamilton 2.7 pts/race advantage needed; Verstappen P7 exit clause triggers summer break/mathematically impossible to reach top-2/Mercedes frontrunner/retirement not ruled out/6 wins at Red Bull Ring; Cadillac 0 pts 7 races/biggest upgrade targets lap-15 tire cliff
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-24
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

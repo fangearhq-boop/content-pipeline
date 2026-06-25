@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-25
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-25 | T1 | Austrian GP Preview — Diffuser Drama, Title Battle, Verstappen Home Race | X, FB, Article | NEW |
+| 2026-06-25 | T1 | FIA Bans Mercedes Diffuser — Effective Austrian GP, Freight En Route | X, FB, Article | NEW |
+| 2026-06-25 | T2 | Antonelli Championship Lead — 41 Points, 15 Races Left | X, FB, Article | FOLLOW UP |
+| 2026-06-25 | T2 | Verstappen Exit Clause — Austria Might Be His Last Red Bull Home Race | X, FB, Article | FOLLOW UP |
+| 2026-06-25 | T2 | Cadillac F1 Austria Upgrade — Can America's F1 Team Finally Score? | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Austrian GP Race Week Preview
+- **Tier:** 1
+- **Category:** Race Preview / Austrian GP
+- **Key facts:** Round 8 of 22; Red Bull Ring Spielberg; FP1 June 26 13:30 local; Qualifying June 27 15:00; Race June 28 15:00 local (9:00 AM ET); 71 laps; FIA banned Mercedes diffuser June 24 effective this weekend; freight en route; Ferrari triggered ban + had alternative pre-approved; Antonelli 156 pts leads Hamilton by 41; Verstappen P7 exit clause
+- **Status:** NEW
+- **Follow-up ideas:** FP1/FP2 pace data; qualifying results; diffuser ban outcome; race result
+
+### STORY 2: FIA Bans Mercedes Serrated Diffuser
+- **Tier:** 1
+- **Category:** Technical / Mercedes / FIA
+- **Key facts:** FIA circulated technical clarification June 24; bans serrated/toothed diffuser extensions on W17; introduced at Canadian GP; Ferrari triggered inquiry; Mercedes freight already en route; team pushing for Silverstone delay; Ferrari had alternative design pre-approved
+- **Status:** NEW
+- **Follow-up ideas:** FIA response to delay request; qualifying/race pace impact on Mercedes; appeal outcome
+
+### STORY 3: Antonelli Championship Lead
+- **Tier:** 2
+- **Category:** Championship / Antonelli
+- **Key facts:** Antonelli 156 pts, Hamilton 115 pts, Russell 106 pts; 41-pt gap (was 66 before Barcelona); 399 pts remaining across 15 races; Hamilton needs 2.7 pts/race advantage; Antonelli 5 wins, 4 poles, 6 podiums; 2 DNFs from race leads; Hamilton 106th win at Catalunya, oldest winner since Brabham 1970; Mercedes constructors +72 over Ferrari
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP result — gap after race 8
+
+### STORY 4: Verstappen Exit Clause
+- **Tier:** 2
+- **Category:** Driver Market / Verstappen
+- **Key facts:** P7; 100+ pts behind Antonelli; exit clause triggers at summer break if not top-2; mathematically impossible to reach top-2; Red Bull shareholders split; buyout declined; Vermeulen says decision before summer; Mercedes frontrunner; retirement not ruled out; 6 wins at Red Bull Ring (4 consecutive 2021-2023)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Summer break announcement; Mercedes signing confirmation; retirement decision
+
+### STORY 5: Cadillac F1 Austria Upgrade
+- **Tier:** 2
+- **Category:** New Team / Cadillac F1
+- **Key facts:** 11th team; 2026 debut; 0 points in 7 races; Perez + Bottas (500+ career starts); Perez 16th at Miami; Bottas drive-through at Miami; tire cliff at lap 15; biggest upgrade package of 2026 in Austria targeting tire cliff; first F1 point would be historic
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** FP2 long-run data; race result; first points achieved or not
+
 ## 2026-06-24
 
 | Date | Tier | Story | Platforms | Status |

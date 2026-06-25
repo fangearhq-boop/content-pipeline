@@ -1,0 +1,280 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-25",
+  "compiled_at": "2026-06-25T11:38:52.005558+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "X, FB",
+      "type": "Story 1 — Austrian GP Race Week Preview"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "X, FB",
+      "type": "Story 2 — FIA Mercedes Diffuser Ban"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "X",
+      "type": "Story 2 — Second angle on diffuser controversy"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "X, FB",
+      "type": "Story 3 — Antonelli championship math"
+    },
+    {
+      "time": "4:00 PM",
+      "description": "X, FB",
+      "type": "Story 4 — Verstappen exit clause countdown"
+    },
+    {
+      "time": "6:00 PM",
+      "description": "X, FB",
+      "type": "Story 5 — Cadillac Austria upgrade"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austrian GP: Diffuser Row Headlines Race Week at Red Bull Ring",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Austrian GP race week is here.\n\nFP1: Tomorrow.\nQualifying: Saturday.\nRace: Sunday 9 AM ET.\n\nThe FIA just banned Mercedes' diffuser.\nTheir freight is already en route to Austria.\n\nThis weekend is going to be wild. 🔥\n\n#F1Fanrecap #AustrianGP #Formula1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#AustrianGP",
+            "#Formula1"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-austrian-gp-preview-diffuser-controversy-race-week.html",
+        "headline": "Austrian GP Preview: Diffuser Drama, Title Battle, and Verstappen's Possible Last Home Race",
+        "word_count": 561
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Race Week Preview\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Race week graphic\n- **Imagn search term:** \"Kimi Antonelli Mercedes\"\n- **Canva overlay text:** \"RACE WEEK / AUSTRIAN GP / FP1 TOMORROW / RED BULL RING / ROUND 8\"\n- **Color scheme:** Mercedes silver and teal\n- **Mood:** Race week energy, anticipation\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Circuit / race action photo\n- **Imagn search term:** \"Red Bull Ring Formula 1\"\n- **Alt text:** \"Formula 1 cars racing at the Red Bull Ring during the Austrian Grand Prix\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "FIA Bans Mercedes' Serrated Diffuser — Effective Austrian GP",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "FIA has banned Mercedes' serrated diffuser.\n\nEffective: Austrian GP weekend.\nProblem: Their freight is already en route.\n\nFerrari triggered the inquiry after Canada.\nFerrari also had their own alternative pre-approved.\n\nTechnical warfare. 🏎️\n\n#F1Fanrecap #AustrianGP #MercedesF1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#AustrianGP",
+            "#MercedesF1"
+          ],
+          "char_count": 278
+        },
+        {
+          "label": "Post 2-2",
+          "text": "So Mercedes introduces a diffuser at Canada.\nFerrari protests it.\nFIA bans it.\nFerrari already has a legal replacement ready.\n\nMercedes now faces a parts crisis with freight mid-journey.\n\nThe championship fight just moved to the rulebook. ⚖️\n\n#F1Fanrecap #Formula1 #F1Tech",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Formula1",
+            "#F1Tech"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-fia-bans-mercedes-diffuser-austrian-gp.html",
+        "headline": "FIA Bans Mercedes' Diffuser Extension — Effective Austrian GP, Freight Already En Route",
+        "word_count": 585
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "FIA Mercedes Diffuser Ban\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Technical/controversy graphic\n- **Imagn search term:** \"Mercedes W17 Formula 1\"\n- **Canva overlay text:** \"BANNED / MERCEDES DIFFUSER / FIA RULES IT ILLEGAL / EFFECTIVE: AUSTRIAN GP\"\n- **Color scheme:** Red warning tones over silver/black\n- **Mood:** Breaking news, controversy\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Car detail / pit lane photo\n- **Imagn search term:** \"Lewis Hamilton Ferrari\"\n- **Alt text:** \"Lewis Hamilton in the Ferrari pit lane at a 2026 Formula 1 race\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli's Title Defense: 41-Point Lead, 15 Races Left",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "2026 F1 Championship standings:\n\nAntonelli: 156 pts 🏆\nHamilton: 115 pts\nRussell: 106 pts\n\n41-point gap. 15 races left.\nHamilton needs +2.7 pts/race to close it.\n\nBut Antonelli has DNF'd from the lead twice.\n\nTitle is his to lose. 👀\n\n#F1Fanrecap #Formula1 #KimiAntonelli",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Formula1",
+            "#KimiAntonelli"
+          ],
+          "char_count": 269
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-antonelli-championship-lead-austrian-gp.html",
+        "headline": "Antonelli's 41-Point Lead: The Championship Picture at the Austrian GP",
+        "word_count": 592
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Championship Lead\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Championship standings graphic\n- **Imagn search term:** \"Kimi Antonelli Mercedes\"\n- **Canva overlay text:** \"156 pts / ANTONELLI LEADS / 41 POINTS CLEAR / 15 RACES LEFT\"\n- **Color scheme:** Mercedes silver and teal\n- **Mood:** Dominant, milestone\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Podium/celebration photo\n- **Imagn search term:** \"Kimi Antonelli Formula 1\"\n- **Alt text:** \"Kimi Antonelli celebrating after winning a 2026 Formula 1 race\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Verstappen Exit Clause — Final Countdown Before Summer Break",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Verstappen is at Red Bull's home circuit this weekend.\n\nHe's P7. Exit clause triggers at summer break if not top-2.\nHe is 100+ points from P2.\n\nIt's mathematically impossible.\n\nAustria might be his last race as a Red Bull driver.\n\n#F1Fanrecap #Verstappen #AustrianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Verstappen",
+            "#AustrianGP"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-verstappen-exit-clause-last-red-bull-home-race.html",
+        "headline": "Verstappen's Exit Clause Will Trigger: Austria May Be His Last Race as a Red Bull Driver",
+        "word_count": 606
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Dramatic driver graphic\n- **Imagn search term:** \"Max Verstappen Red Bull\"\n- **Canva overlay text:** \"FINAL COUNTDOWN / Verstappen / EXIT CLAUSE TRIGGERS THIS SUMMER / Last Race at Home?\"\n- **Color scheme:** Red Bull red and dark\n- **Mood:** Tension, farewell narrative\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Driver action shot\n- **Imagn search term:** \"Max Verstappen Red Bull\"\n- **Alt text:** \"Max Verstappen driving the Red Bull Formula 1 car at a 2026 race\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Cadillac's Zero-to-Hero Plan: Biggest 2026 Upgrade Arrives in Austria",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "7 races into their F1 debut.\n0 points.\n\nCadillac F1 bring their biggest 2026 upgrade to Austria this weekend.\n\nPerez + Bottas. 500+ career race starts.\nTheir first F1 point would be historic.\n\nWill the tire-cliff fix finally work? 🇺🇸\n\n#F1Fanrecap #CadillacF1 #AustrianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#CadillacF1",
+            "#AustrianGP"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cadillac-f1-austria-upgrade-first-points.html",
+        "headline": "Cadillac's Austria Upgrade: Can America's F1 Team Finally Score Their First Points?",
+        "word_count": 635
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cadillac F1 Debut\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Team graphic\n- **Imagn search term:** \"Sergio Perez Cadillac\"\n- **Canva overlay text:** \"0 POINTS IN 7 RACES / CADILLAC F1 / BIGGEST UPGRADE OF 2026 / CAN THEY SCORE IN AUSTRIA?\"\n- **Color scheme:** Cadillac black and gold\n- **Mood:** Underdog, moment of reckoning\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Team/garage photo\n- **Imagn search term:** \"Valtteri Bottas Cadillac\"\n- **Alt text:** \"Valtteri Bottas in the Cadillac F1 garage at a 2026 Formula 1 race\""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
