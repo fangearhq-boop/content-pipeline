@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-25
+
+### Story 1: All-Star Phase 1 Results — Ohtani and Clement Earn Automatic Starts
+- **Tier:** 1
+- **Classification:** FOLLOW UP (All-Star voting coverage June 24 — Phase 1 closes TODAY)
+- **Angle:** Phase 1 closes June 25 at noon ET. Ohtani leads all of baseball with 2.31M votes (automatic NL start). Clement (Blue Jays) leads AL with 2.05M votes, 80K ahead of Yordan Alvarez (automatic AL start if it holds). Schwarber leads NL DH vote with 1.54M. Phase 2 begins June 29. All-Star Game July 14 at Citizens Bank Park.
+- **Content:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up:** Phase 2 voting results, official starter announcements, Derby participant confirmation
+
+### Story 2: Mike Trout on IL — Hamstring Injury Interrupts His Strongest Season in Years
+- **Tier:** 1
+- **Classification:** NEW STORY (first coverage of Trout 2026 IL stint in this pipeline)
+- **Angle:** Trout placed on 10-day IL June 18, right hamstring strain suffered running to first vs. Diamondbacks. Was having strong resurgent 2026 season. Upbeat; felt "significantly better" next day. No specific return date; 10-day minimum return around June 28-30. Injury history context: significant missed time 2021+, wrist surgery 2023.
+- **Content:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up:** Trout activation/return date, Angels second half, Trout All-Star selection (reserves)
+
+### Story 3: Schwarber's Pace: 29 HR in 74 Games — What History Actually Says
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Schwarber HR pace — updated stats, historical context, Derby angle)
+- **Angle:** 29 HRs in 74 games projects to 63-65 over 162. June stats: .324/.439/.632, 7 HRs in 18 June games. 60+ HR club has fewer than 5 members. Derby at Citizens Bank Park July 14 — hasn't said yes. Historical context: Maris (61), Ruth (60), McGwire (70/65), Sosa (66/64/63), Bonds (73).
+- **Content:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** Derby decision announcement, HR milestones (30, 35, 40), second-half pace watch
+
+### Story 4: Bobby Witt Jr. Available Off Bench — Return to Starting Lineup Imminent
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Witt injury/return — new development: available off bench June 24)
+- **Angle:** Available off bench June 24, 5 games missed. Manager: "hopeful next couple days." Grade 1 MCL. AL fWAR leader (4.5) / .294/10 HR/32 RBI/28 SB. All-Star voting context: Phase 1 closes June 25 at noon.
+- **Content:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** Witt starting lineup return, All-Star selection, Royals second half
+
+### Story 5: Skubal Gives the Tigers a Trade Deadline Warning
+- **Tier:** 3
+- **Classification:** FOLLOW UP (Skubal deadline — new development: his public warning quote)
+- **Angle:** Skubal June 23 quote: "We need to play better baseball or else...you give the front office an option to reassess." Tigers 30-44, last place, 9.5 GB. Two-time Cy Young. Free agent after 2026. August 3 deadline. Teams linked: Braves, Blue Jays, Cubs, Dodgers, Padres, Yankees.
+- **Content:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** Skubal trade, Tigers July record, deadline deals
+
+---
+
 ## 2026-06-24
 
 ### Story 1: All-Star Voting Closes Tomorrow — Final Leaders and Close Races

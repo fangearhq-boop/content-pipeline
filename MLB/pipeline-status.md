@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-25
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (7; correct #### Text Post format with code blocks; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (30 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard publish 403 (proxy blocks content-dashboards). PostPlanner exports (7 posts each XLSX). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards push — known). PostPlanner FB 0 posts (format; X 7 posts OK). IMAGE MISSING expected (not_started). claim-patterns.py missing (known).
+- **Key Stories**: All-Star Phase 1 closes today noon ET/Ohtani 2.31M automatic NL start/Clement 2.05M leads AL 80K over Alvarez/Phase 2 June 29 (Tier 1 FOLLOW UP), Trout 10-day IL right hamstring/suffered running to first vs Diamondbacks June 18/upbeat/"significantly better"/resurgent season interrupted (Tier 1 NEW), Schwarber 29 HRs/June .324/.439/.632/7 HRs in 18 June games/Derby at his park July 14/hasn't committed (Tier 2 FOLLOW UP), Witt Jr. available off bench June 24/5 games missed/manager "hopeful next couple days" for starting lineup/AL fWAR leader 4.5 (Tier 2 FOLLOW UP), Skubal quote "play better or front office has option to reassess"/Tigers 30-44 last place 9.5 GB/two-time Cy Young/free agent 2026/August 3 deadline (Tier 3 FOLLOW UP)
+
+
+## Last Run
 - **Date**: 2026-06-24
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (8 web searches via WebSearch), brief (5 stories), research notes, story analysis, X posts (8; 0 char violations — clean tweet-only format used from start), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims HIGH, universal extraction only — claim-patterns.py missing known), compile (5 stories, 8 tweets, 5 FB posts, 5 articles, 28 items), dashboard (28 items), dashboard published to content-dashboards via publish-dashboard.py (direct push — no detached HEAD). PostPlanner exports (0 posts — no scheduling; expected). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Yes — https://fangearhq-boop.github.io/content-dashboards/
