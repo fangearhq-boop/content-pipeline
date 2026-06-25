@@ -2,6 +2,50 @@
 
 ---
 
+## June 25, 2026
+
+### Story 1: RECALL — GOPO Toys Pull String Teething Toys (Choking Hazard)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recalled ~70,410 GOPO Toys Pull String Teething Toys (June 18, 2026). Off-white disc, grey center ball, 6 multi-colored silicone "tentacle" pull strings. Silicone strings smaller and longer than permitted by mandatory standard; can reach back of child's throat causing respiratory distress and choking. 3 incidents reported. Amazon only Aug 2023–Mar 2026, $11–$15. Remedy: stop use; cut ALL strings; write "DESTROYED" in permanent marker; photograph; email to recalls@gopotoys.com for full refund; dispose. cpsc.gov.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov (official recall), yahoo.com, foxbusiness.com, dailyvoice.com
+- **Follow-Up Opportunities:** None — recall active; will age out
+
+### Story 2: Free Summer Meals for COS Kids — Sites, Times, How to Find Them
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Summer Food Service Program (SFSP); federal program; no income/registration requirements; anyone 18 and under. COS park sites May 27–July 31: Memorial Park 1605 E. Pikes Peak Ave. (lunch 11–11:30 AM and 11:45 AM–12:15 PM), Palmer Park 3650 Maizeland Rd, Panorama Splash Park 4550 Fenton Rd. D11 mobile unit at East Library every weekday June–July. 600+ statewide sites. kidsfoodfinder.org. cde.state.co.us.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** gazette.com, koaa.com, cde.state.co.us, kidsfoodfinder.org
+- **Follow-Up Opportunities:** None — active through July 31; will age out
+
+### Story 3: National Park & Recreation Month — COS Free July Events
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — City of Colorado Springs PRCS free events for National Park and Recreation Month. Silent Disco at Panorama Park Friday July 11; Music in the Park at Piñon Valley Friday July 25; both include youth kickball/basketball. "Build Your Own Park" challenge; Discover COS Calendar photo contest; Park & Recreation Month Coloring Contest. coloradosprings.gov/parkandrecmonth. 160+ parks; PRCS serves 300,000+ residents.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** coloradosprings.gov (official city announcement), krdo.com, kktv.com
+- **Follow-Up Opportunities:** Reminder before July 11 event; reminder before July 25 event
+
+### Story 4: Banning Lewis Academy Cuts Ties with ACCEL — What D49 Families Need to Know
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D49 charter school BLA ending management contract with ACCEL Schools, effective June 30, 2026. WARN letter issued April 30, 2026; 246 ACCEL employees (195 regular, 51 on-call/substitute). New CMO selected then withdrew; BLA moving to direct employment with HR/finance/operations support partners. No campus closures; no programming reductions; no service cuts. 2026-2027 school year opens as planned. Previously allocated $2M/year for ACCEL ($1.5M management fees). blracademy.org.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** koaa.com (June 2026), gazette.com (May 6, 2026), blracademy.org
+- **Follow-Up Opportunities:** July 1 transition date; 2026-2027 school year opening
+
+### Story 5: Summer Screen Time — What the Research Says and What COS Families Can Do
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — 2026 research synthesis: 68% of kids use screens significantly more during summer; ages 8–10 avg 6 hrs/day; teens avg 8+ hrs/day; UCL study 2-year-olds avg 129 min/day. AAP 2026 update: moved away from strict time-based limits toward individualized, content-focused approach. Higher concern: passive/fast-paced/solo entertainment, especially social media for teens and fast-paced video for under-8. Lower concern: creative, interactive, educational screen use at any age. blog.kodely.io, happydayplay.com, timily.app, chla.org.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** blog.kodely.io, happydayplay.com, timily.app, chla.org (MEDIUM/HIGH confidence — research roundup sources; AAP update confirmed via chla.org)
+- **Follow-Up Opportunities:** Back-to-school screen time angle in August/September
+
+---
+
 ## June 24, 2026
 
 ### Story 1: RECALL — VEVOR Baby Swings (Suffocation Hazard)

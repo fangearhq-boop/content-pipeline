@@ -1,6 +1,45 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: June 24, 2026
+## Latest Run: June 25, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | GOPO Toys Pull String Teething Toy recall (cpsc.gov June 18, 2026; ~70,410 units; Amazon Aug 2023–Mar 2026 $11–$15; silicone strings reach back of infant's throat; 3 incidents; cut strings + "DESTROYED" + photo to recalls@gopotoys.com); Free Summer Meals (SFSP; gazette.com/koaa.com/cde.state.co.us; no income/registration; ages 18-under; Memorial Park/Palmer Park/Panorama Splash Park through July 31; D11 East Library mobile unit; kidsfoodfinder.org); Park & Rec Month (coloradosprings.gov; Silent Disco Panorama Park July 11; Music in Park Piñon Valley July 25; free); BLA/ACCEL (koaa.com/gazette.com; D49 charter; effective June 30; WARN letter 246 employees; no closures; 2026-27 opens as planned); Summer Screen Time (blog.kodely.io/happydayplay.com/timily.app/chla.org; 68% more screen use in summer; ages 8-10 avg 6 hrs; teens 8+ hrs; AAP 2026 content-focused approach) |
+| Story History Check | COMPLETE | 5 NEW STORIES — all fresh; confirmed against story-history.md |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2) |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for S1; 1 each for S2–S5); ## STORY / #### Text Post format with posting times; all under 280 chars; 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (2 per story: 1200x675 social + 1200x630 article hero) |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML format; 10 images; all not_started; photo_source: gemini; model: gemini-2.5-flash-image; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-800 words; What's Next sections; 0 exclamation marks; no figure tags; no photo credits) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 59 claims detected; story-analysis consistency warnings cosmetic; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (parser compatibility), 5 articles, 10 images; 21 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-25.xlsx (6 posts, 13:03–20:28 MT) + TOBI cosp-postplanner-tobi-2026-06-25.xlsx (6 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-25)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total posts (PostPlanner xlsx: 6 X posts)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-25.xlsx (6 posts, 13:03–20:28 MT), cosp-postplanner-tobi-2026-06-25.xlsx (6 TOBI posts)
+- **Coverage:** GOPO Toys Pull String Teething Toy recall (CPSC June 18, 2026; ~70,410 units; Amazon only Aug 2023–Mar 2026 $11–$15; silicone strings smaller and longer than permitted; can reach back of infant's throat; 3 choking/respiratory distress incidents; remedy: stop use/cut ALL strings/write "DESTROYED" in marker/photograph/email recalls@gopotoys.com for full refund/dispose; cpsc.gov); Free Summer Meals for COS Kids (SFSP federal program; anyone 18 and under; no income check/registration; Memorial Park 1605 E. Pikes Peak Ave. 11–11:30 AM + 11:45 AM–12:15 PM; Palmer Park 3650 Maizeland Rd; Panorama Splash Park 4550 Fenton Rd; all May 27–July 31 weekdays; D11 mobile unit East Library weekdays June–July; 600+ statewide sites; kidsfoodfinder.org); National Park & Recreation Month COS (Silent Disco Panorama Park Friday July 11; Music in Park Piñon Valley Friday July 25; youth kickball/basketball at both events; "Build Your Own Park" challenge; Discover COS Calendar photo contest; Park & Rec Month Coloring Contest; coloradosprings.gov/parkandrecmonth; 160+ parks); BLA/ACCEL transition (D49 charter; ACCEL contract ends June 30, 2026; WARN letter April 30 covers 246 ACCEL employees (195 regular, 51 on-call/sub); new CMO selected then withdrew; BLA directly employing staff with HR/finance/operations partners; no campus closures; no programming cuts; 2026-27 opens as planned; blracademy.org); Summer Screen Time 2026 (68% kids use screens more in summer; ages 8–10 avg 6 hrs/day; teens avg 8+ hrs/day; UCL study avg 2-yr-old 129 min/day; AAP 2026 moved from strict hour limits to individualized content-focused approach; higher concern: passive/fast-paced/solo especially social media teens + fast-paced video under-8; lower concern: creative/interactive/educational; blog.kodely.io/happydayplay.com/timily.app/chla.org)
+- **Notes:**
+  - X posts format: fixed to use ## STORY / #### Text Post / code block format to match PostPlanner script parser. Initial plain-text format caused 0 posts found; corrected and PostPlanner export succeeded with 6 posts.
+  - compile: 5 stories, 6 X posts, 0 FB posts (parser compatibility — same as prior runs), 5 articles, 10 images; 21 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (6 posts: 6 X, 13:03–20:28 MT) and TOBI (6 TOBI posts) generated successfully
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from June 24's Sarah Morales [S1, S3, S5])
+  - Pipeline ran as Niche 2 in sequence after Tennis (Niche 1 completed June 25)
+
+---
+
+## Prior Run: June 24, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
