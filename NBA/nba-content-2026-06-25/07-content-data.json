@@ -1,0 +1,300 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-25",
+  "compiled_at": "2026-06-25T11:21:45.731730+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "X Text Post",
+      "type": "Story 1 — Reaves $185M deal morning announcement"
+    },
+    {
+      "time": "9:15 AM",
+      "description": "FB Long-Form",
+      "type": "Story 1 — Reaves contract full breakdown"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X Text Post",
+      "type": "Story 2 — Knicks KAT extension + Dolan second apron"
+    },
+    {
+      "time": "11:15 AM",
+      "description": "FB Long-Form",
+      "type": "Story 2 — Knicks offseason dynasty math"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X Text Post",
+      "type": "Story 3 — Giannis + Bam Heat era begins"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "FB Long-Form",
+      "type": "Story 3 — Heat East reshuffled"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "X Text Post",
+      "type": "Story 4 — Michigan's historic draft night"
+    },
+    {
+      "time": "3:15 PM",
+      "description": "FB Long-Form",
+      "type": "Story 4 — 2026 Draft aftermath"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "X Text Post",
+      "type": "Story 5 — LaMelo trade market"
+    },
+    {
+      "time": "5:15 PM",
+      "description": "FB Long-Form",
+      "type": "Story 5 — LaMelo landing spots"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austin Reaves Signs Historic $185M Max Deal with Lakers",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Austin Reaves just made NBA history. 💜💛\n\n4 years. $185 million. Lakers.\n\nRichest contract EVER for an undrafted player.\n\nHe was on a golf course when the deal closed. Fell in the grass.\n\nFrom undrafted (2021) to $185M man. That's a story. 🏀\n\n#HoopHeroes #Lakers #AustinReaves",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Lakers",
+            "#AustinReaves"
+          ],
+          "char_count": 275
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Nets offered Reaves $178.5M.\nThe Pistons were planning a \"real run\" at him.\n\nLakers said: here's $185M. Stay.\n\nHe stayed.\n\n\"My heart's been in LA every morning I woke up.\"\n\nThat's loyalty AND math. ✅\n\n#HoopHeroes #Lakers #NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Lakers",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-austin-reaves-185m-lakers-undrafted-record.html",
+        "headline": "Austin Reaves Signs $185M Max Deal: The Richest Contract Ever for an Undrafted Player",
+        "word_count": 634
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austin Reaves Signs $185M Max Deal with Lakers\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Player graphic\n- **Imagn search term:** \"Austin Reaves Lakers\"\n- **Canva overlay text:** \"RICHEST UNDRAFTED CONTRACT IN NBA HISTORY / $185 MILLION / Austin Reaves / STAYS A LAKER\"\n- **Color scheme:** Lakers purple and gold\n- **Mood:** Triumphant, milestone celebration\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Player action shot\n- **Imagn search term:** \"Austin Reaves Lakers\"\n- **Caption for search:** None (no photo credit in article per pipeline rules)\n- **Alt text:** \"Austin Reaves driving to the basket in a Lakers game\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Knicks Offseason — KAT Extension Talks Begin, Dolan's Second Apron Wall",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "KAT is eligible for a $272M extension.\n\nHe said he'd take $100M LESS to keep the Knicks together.\n\nDolan said the second apron is \"suicidal.\"\n\nBrunson took $113M less. Won the title. Won Finals MVP.\n\nNow it's KAT's turn to do the same. 🤔\n\n#HoopHeroes #Knicks #KarlAnthonyTowns",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Knicks",
+            "#KarlAnthonyTowns"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-knicks-kat-extension-dolan-second-apron.html",
+        "headline": "KAT's $272M Decision and Dolan's Hard Line: The Knicks' Championship Is Already Under Threat",
+        "word_count": 616
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Offseason / KAT Extension\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Player graphic\n- **Imagn search term:** \"Karl-Anthony Towns Knicks\"\n- **Canva overlay text:** \"$272 MILLION QUESTION / Will KAT Take Less? / THE KNICKS DYNASTY DEPENDS ON IT\"\n- **Color scheme:** Knicks blue and orange\n- **Mood:** High stakes, decision moment\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Championship/offseason photo\n- **Imagn search term:** \"Jalen Brunson Knicks championship\"\n- **Alt text:** \"Jalen Brunson celebrating the Knicks championship\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Giannis + Bam in Miami — Heat's New Era Begins July 6",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "July 6. That's when it becomes real.\n\nGiannis Antetokounmpo officially becomes a Miami Heat.\n\nGiannis + Bam Adebayo.\n\nTwo of the best two-way forwards on the same roster.\n\nDefending champion Knicks, are you watching? 👀\n\n#HoopHeroes #HeatNation #NBAOffseason",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#HeatNation",
+            "#NBAOffseason"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-giannis-heat-miami-bam-july-6.html",
+        "headline": "July 6 Can't Come Fast Enough: How Giannis and Bam Are About to Reshape the Eastern Conference",
+        "word_count": 602
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis + Bam in Miami\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Player graphic\n- **Imagn search term:** \"Giannis Antetokounmpo Heat\"\n- **Canva overlay text:** \"JULY 6 / GIANNIS IS A MIAMI HEAT / The East Will Never Be The Same\"\n- **Color scheme:** Heat red and black\n- **Mood:** Era-defining, powerful\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Player photo\n- **Imagn search term:** \"Bam Adebayo Heat\"\n- **Alt text:** \"Bam Adebayo in a Miami Heat game\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Michigan's Historic Draft Night — Three Top-12 Picks, The 2026 Draft Aftermath",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Michigan just made NBA Draft history.\n\nNo. 9 — Morez Johnson Jr. → Dallas\nNo. 11 — Yaxel Lendeborg → Golden State\nNo. 12 — Aday Mara → OKC\n\n3 Wolverines. Top 12. Never done before.\n\nNCAA champs. Draft champs. 🐺\n\n#HoopHeroes #NBADraft2026 #Michigan",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBADraft2026",
+            "#Michigan"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-michigan-three-top-12-picks-nba-draft-history.html",
+        "headline": "Michigan's Historic Draft Night: Three Top-12 Picks, One Night, Never Done Before",
+        "word_count": 589
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Michigan Draft Night\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Draft night graphic\n- **Imagn search term:** \"AJ Dybantsa Wizards\"\n- **Canva overlay text:** \"MICHIGAN MADE HISTORY / 3 TOP-12 PICKS / #9 #11 #12 / Never Done Before\"\n- **Color scheme:** Navy blue and gold\n- **Mood:** Historic, celebration\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Draft night photo\n- **Imagn search term:** \"Cameron Boozer Grizzlies\"\n- **Alt text:** \"Cameron Boozer after being selected by the Memphis Grizzlies\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "LaMelo Ball Trade Market Opens — Wolves and Raptors Circle Charlotte",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "LaMelo Ball is on the market.\n\nTeams calling Charlotte:\n• Minnesota (Edwards + LaMelo?)\n• Toronto (Barnes + Ingram + Ball?)\n• Milwaukee (post-Giannis rebuild)\n\n24 years old. $40.8M.\n\nTrade window opens July 6. 🏀\n\n#HoopHeroes #LaMeloBall #NBATradeRumors",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#LaMeloBall",
+            "#NBATradeRumors"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-lamelo-ball-trade-market-wolves-raptors-bucks.html",
+        "headline": "LaMelo Ball Trade Market Is Open: Wolves, Raptors, and Bucks Are Calling Charlotte",
+        "word_count": 603
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LaMelo Ball Trade Market\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Player graphic\n- **Imagn search term:** \"LaMelo Ball Hornets\"\n- **Canva overlay text:** \"ON THE MARKET / LaMelo Ball / Wolves. Raptors. Bucks. / WHO GETS HIM?\"\n- **Color scheme:** Teal and purple split with team colors\n- **Mood:** Intrigue, trade speculation\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Player photo\n- **Imagn search term:** \"LaMelo Ball Hornets\"\n- **Alt text:** \"LaMelo Ball in a Charlotte Hornets game\""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

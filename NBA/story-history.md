@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-25
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-25 | T1 | Austin Reaves Signs $185M Max Deal — Richest Undrafted Contract in NBA History | X, FB, Article | RESOLVED |
+| 2026-06-25 | T1 | Knicks Offseason — KAT Extension Talks, Dolan's Second Apron Wall | X, FB, Article | FOLLOW UP |
+| 2026-06-25 | T2 | Giannis + Bam in Miami — Heat's New Era Begins July 6 | X, FB, Article | FOLLOW UP |
+| 2026-06-25 | T2 | Michigan's Historic Draft Night — Three Top-12 Picks, Never Done Before | X, FB, Article | FOLLOW UP |
+| 2026-06-25 | T2 | LaMelo Ball Trade Market Opens — Wolves, Raptors, Bucks Calling Charlotte | X, FB, Article | NEW |
+
+### STORY 1: Austin Reaves Signs $185M Max Deal — Richest Undrafted Contract in NBA History
+- **Tier:** 1
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** 4yr/$185M max, declines $14.9M player option; $41.3M/$44.6M/$47.9M/$51.2M player option breakdown; richest undrafted contract in NBA history; Nets offered $178.5M; Pistons planning "real run"; deal done before FA opens June 30; golf course moment — girlfriend "Behind the scenes" IG post; Reaves: "a couple of times" thought he might leave; Rob Pelinka quote
+- **Status:** RESOLVED
+- **Follow-up ideas:** Reaves 2026-27 Lakers roster preview; undrafted player legacy piece
+
+### STORY 2: Knicks Offseason — KAT Extension Talks, Dolan's Second Apron Wall
+- **Tier:** 1
+- **Category:** NBA Offseason / Knicks
+- **Key facts:** KAT eligible 4yr/$272M or 3yr/$208M; KAT "ready to make financial sacrifice"; Dolan "suicidal" second apron quote; Knicks $13-16M below second apron; Brunson $156.5M (took ~$113M less), won Finals MVP 32.6 PPG; OG $212.5M/5yr locked; Bridges $150M/4yr; Mitchell Robinson UFA "very open to re-signing"; FA opens June 30
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** KAT extension signed/unsigned June 30+; Robinson signing; Dolan apron decision outcome
+
+### STORY 3: Giannis + Bam in Miami — Heat's New Era Begins July 6
+- **Tier:** 2
+- **Category:** NBA Offseason / Trade
+- **Key facts:** Trade executes July 6; Giannis+Portis for Herro+Ware+Jaquez+Jakucionis+3 firsts+pick swap+2nd; Celtics offered Brown+2 picks (rejected); Giannis 31/2 MVPs/2021 champ; $275M extension eligible Oct 1; Giannis pushed for Knicks but NY winning rerouted it; Jimmy Haslam preferred Miami's volume
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** July 6 trade execution; Giannis extension signed; Heat free agency additions
+
+### STORY 4: Michigan's Historic Draft Night — Three Top-12 Picks
+- **Tier:** 2
+- **Category:** NBA Draft Aftermath
+- **Key facts:** Michigan first school ever with 3 top-12 picks; Johnson No.9 Dallas (with Flagg); Lendeborg No.11 Golden State; Mara No.12 OKC (7'3" Big Ten Def POY); 8 freshmen in first 9 picks ties record; first 20 college players since 1994; Dybantsa 25.5 PPG/51% BYU No.1 Wizards; Peterson No.2 Utah; Boozer No.3 Memphis (Naismith Award, 22.5 PPG/10.5 RPG); Carlos Boozer went No.35 in 2002; coach Dusty May to Dallas (left Michigan)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Summer league debuts; rookie class tier rankings
+
+### STORY 5: LaMelo Ball Trade Market Opens
+- **Tier:** 2
+- **Category:** NBA Trade Rumors
+- **Key facts:** Hornets open to trading Ball; Wolves most aggressive (Edwards pairing); Raptors (Barnes+Ingram+Ball trio); Bucks interested post-Giannis; Ball $40.8M/age 24; trade window opens July 6; per HoopsHype and NBC Sports
+- **Status:** NEW
+- **Follow-up ideas:** Trade executed; Charlotte asking price details emerge; Ball destination confirmed
+
 ## 2026-06-24
 
 | Date | Tier | Story | Platforms | Status |

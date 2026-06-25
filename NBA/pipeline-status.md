@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-24
+- **Date**: 2026-06-25
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-25
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters (3 tweet fixes applied post-verify-facts)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-06-25.xlsx (6 posts) + hh-postplanner-tobi-2026-06-25.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-25/review-dashboard.html (21 items)
+- **Notes:** Reaves $185M max signed before FA opens June 30 (beats Nets $178.5M/Pistons interest)/richest undrafted contract ever/golf course moment; KAT $272M decision+Dolan second apron wall/Brunson Finals MVP/FA June 30; Giannis+Bam Heat July 6 execution/Celtics Brown package rejected/East reshaped; Michigan 3 top-12 picks first ever (Johnson No.9 Dallas/Lendeborg No.11 GS/Mara No.12 OKC)/8 freshmen in 9/Boozer No.3 Naismith; LaMelo Ball market opens (Wolves/Raptors/Bucks) trade window July 6
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-24
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
