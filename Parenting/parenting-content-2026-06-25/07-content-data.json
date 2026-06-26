@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "date": "2026-06-25",
-  "compiled_at": "2026-06-25T12:31:46.607547+00:00",
+  "compiled_at": "2026-06-26T12:40:23.362560+00:00",
   "niche": {
     "brand_name": "COS Parenting",
     "brand_short": "COSP",
@@ -22,34 +22,7 @@
       "status": "",
       "angle": "",
       "posting_window": "",
-      "x_posts": [
-        {
-          "label": "Post 1",
-          "text": "⚠️ RECALL: GOPO Toys Pull String Teething Toys — 70,000+ units recalled. Silicone strings reach the back of a baby's throat. 3 choking incidents reported. Stop use now. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n\n**Char count:** 234 ✓",
-          "posting_time": "",
-          "tweet_type": "",
-          "hashtags": [
-            "#COSParenting",
-            "#ColoradoSprings",
-            "#COSKids",
-            "#PikesPeakParenting"
-          ],
-          "char_count": 251
-        },
-        {
-          "label": "Post 1",
-          "text": "Bought a GOPO teething toy on Amazon (Aug 2023–Mar 2026)? Cut ALL strings, write \"DESTROYED\" in marker, photograph it, email the photo to recalls@gopotoys.com for a full refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n\n**Char count:** 242 ✓",
-          "posting_time": "",
-          "tweet_type": "",
-          "hashtags": [
-            "#COSParenting",
-            "#ColoradoSprings",
-            "#COSKids",
-            "#PikesPeakParenting"
-          ],
-          "char_count": 260
-        }
-      ],
+      "x_posts": [],
       "facebook": {
         "long_form": "",
         "image_caption": "",
@@ -88,21 +61,7 @@
       "status": "",
       "angle": "",
       "posting_window": "",
-      "x_posts": [
-        {
-          "label": "Post 2",
-          "text": "Free meals for COS kids 18 and under — no registration, no income check. Memorial Park, Palmer Park & Panorama Splash Park through July 31. Find sites at kidsfoodfinder.org. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n\n**Char count:** 237 ✓",
-          "posting_time": "",
-          "tweet_type": "",
-          "hashtags": [
-            "#COSParenting",
-            "#ColoradoSprings",
-            "#COSKids",
-            "#PikesPeakParenting"
-          ],
-          "char_count": 256
-        }
-      ],
+      "x_posts": [],
       "facebook": {
         "long_form": "",
         "image_caption": "",
@@ -141,21 +100,7 @@
       "status": "",
       "angle": "",
       "posting_window": "",
-      "x_posts": [
-        {
-          "label": "Post 3",
-          "text": "July is National Park & Rec Month in Colorado Springs — and it's free. Silent Disco at Panorama Park July 11, Music in the Park at Piñon Valley July 25. Details: coloradosprings.gov/parkandrecmonth #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n\n**Char count:** 261 ✓",
-          "posting_time": "",
-          "tweet_type": "",
-          "hashtags": [
-            "#COSParenting",
-            "#ColoradoSprings",
-            "#COSKids",
-            "#PikesPeakParenting"
-          ],
-          "char_count": 280
-        }
-      ],
+      "x_posts": [],
       "facebook": {
         "long_form": "",
         "image_caption": "",
@@ -194,21 +139,7 @@
       "status": "",
       "angle": "",
       "posting_window": "",
-      "x_posts": [
-        {
-          "label": "Post 4",
-          "text": "D49 parents: Banning Lewis Academy is NOT closing. The WARN letter affects ACCEL employees, not BLA students. BLA moves to local control June 30 — 2026-27 school year opens as planned. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n\n**Char count:** 248 ✓",
-          "posting_time": "",
-          "tweet_type": "",
-          "hashtags": [
-            "#COSParenting",
-            "#ColoradoSprings",
-            "#COSKids",
-            "#PikesPeakParenting"
-          ],
-          "char_count": 267
-        }
-      ],
+      "x_posts": [],
       "facebook": {
         "long_form": "",
         "image_caption": "",
@@ -247,21 +178,7 @@
       "status": "",
       "angle": "",
       "posting_window": "",
-      "x_posts": [
-        {
-          "label": "Post 5",
-          "text": "The AAP dropped strict screen time limits in 2026. New guidance: it's about content and context, not hours. Here's what the research says about summer — and what parents can do. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting\n\n**Char count:** 241 ✓",
-          "posting_time": "",
-          "tweet_type": "",
-          "hashtags": [
-            "#COSParenting",
-            "#ColoradoSprings",
-            "#COSKids",
-            "#PikesPeakParenting"
-          ],
-          "char_count": 260
-        }
-      ],
+      "x_posts": [],
       "facebook": {
         "long_form": "",
         "image_caption": "",
@@ -296,7 +213,7 @@
   ],
   "pipeline_stats": {
     "total_stories": 5,
-    "x_posts_count": 6,
+    "x_posts_count": 0,
     "facebook_posts_count": 0,
     "articles_count": 5,
     "image_concepts_count": 10
@@ -304,10 +221,15 @@
   "validation": {
     "errors": [],
     "warnings": [
+      "Story 1: No X/Twitter posts found",
       "Story 1: No posting window specified",
+      "Story 2: No X/Twitter posts found",
       "Story 2: No posting window specified",
+      "Story 3: No X/Twitter posts found",
       "Story 3: No posting window specified",
+      "Story 4: No X/Twitter posts found",
       "Story 4: No posting window specified",
+      "Story 5: No X/Twitter posts found",
       "Story 5: No posting window specified"
     ],
     "missing_files": []

@@ -1,7 +1,7 @@
 # Fact-Check Log — COS Parenting — June 25, 2026
 
-**Generated:** 2026-06-25 12:30
-**Claims extracted:** 59
+**Generated:** 2026-06-26 12:40
+**Claims extracted:** 61
 
 ## Verification Priority Guide
 
@@ -22,7 +22,7 @@
 ---
 
 ## Story 1: RECALL — GOPO Toys Pull String Teething Toys (Choking Hazard
-**Tier 1** | **18 claims** | **9 high-priority**
+**Tier 1** | **19 claims** | **10 high-priority**
 
 | Priority | Type | Claim | Context | Source | Result | Notes |
 |----------|------|-------|---------|--------|--------|-------|
@@ -30,11 +30,12 @@
 | HIGH | Date | June 18 | tus:** NEW STORY (CPSC recall announced June 18, 2026)  | | | |
 | HIGH | Date | August 20 | . The toys were sold on Amazon.com from August 2023 thr | | | |
 | HIGH | Date | March 20 | on Amazon.com from August 2023 through March 2026 for $ | | | |
-| HIGH | Date | Aug 20 | t a GOPO teething toy on Amazon between Aug 2023–Mar 20 | | | |
-| HIGH | Date | Mar 20 | teething toy on Amazon between Aug 2023–Mar 2026: cut A | | | |
+| HIGH | Date | Aug 20 | ` Bought a GOPO teething toy on Amazon (Aug 2023–Mar 20 | | | |
+| HIGH | Date | Mar 20 | a GOPO teething toy on Amazon (Aug 2023–Mar 2026)? Cut  | | | |
 | HIGH | Price | $11–$15 | from August 2023 through March 2026 for $11–$15. They a | | | |
 | HIGH | Price | $11 to $15 | from August 2023 through March 2026 for $11 to $15. Her | | | |
 | HIGH | Time | 8:00 AM MT | com, dailyvoice.com **Posting Window:** 8:00 AM MT **Pl | | | |
+| HIGH | Time | 9:00 AM MT | r count: 234 ✓ --- #### Text Post B — 9:00 AM MT (Remed | | | |
 | MEDIUM | Count | , parents | le" pull strings. To complete the recall, parents shoul | | | |
 | MEDIUM | Count | 70,410 units | : GOPO Toys Pull String Teething Toys — 70,410 units re | | | |
 | LOW | Organization | CPSC | ting **Tier:** 1 **Status:** NEW STORY (CPSC recall ann | | | |
@@ -106,7 +107,7 @@
 | HIGH | Date | April 30 | (195 regular, 51 on-call/substitute) on April 30 reflec | | | |
 | HIGH | Time | 3:00 PM MT | 26), blracademy.org **Posting Window:** 3:00 PM MT **Pl | | | |
 | MEDIUM | Count | 49 Families | is Academy Cuts Ties with ACCEL — What D49 Families Nee | | | |
-| MEDIUM | Count | 49 parents | BLA/ACCEL Transition D49 parents: Banning Lewis Academy | | | |
+| MEDIUM | Count | 49 parents | Post A — 3:00 PM MT (Reassurance) ``` D49 parents: Bann | | | |
 | MEDIUM | School District | D49 | wis Academy Cuts Ties with ACCEL — What D49 Families Ne | | | |
 | MEDIUM | School District | District 49 | Article Banning Lewis Academy (BLA), a District 49 char | | | |
 
@@ -128,7 +129,7 @@
 | MEDIUM | Statistic | 68% | , Facebook, Article New research shows 68% of children  | | | |
 | MEDIUM | Study Finding | research shows | ndow:** 5:00 PM MT **Platforms:** X, Facebook, Article  | | | |
 | LOW | Organization | American Academy of Pediatrics | er day; teens average over 8 hours. The American Academ | | | |
-| LOW | Organization | AAP | Summer Screen Time The AAP dropped strict screen time l | | | |
+| LOW | Organization | AAP | — 5:00 PM MT (Research update) ``` The AAP dropped stri | | | |
 
 ### Corrections Applied
 - (none yet)
