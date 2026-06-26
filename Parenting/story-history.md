@@ -2,6 +2,50 @@
 
 ---
 
+## June 26, 2026
+
+### Story 1: RECALL — Baby Bath Seats (NFSVLB, YCXXKJ, Trankerloop) — Drowning & Entrapment Risk
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Three separate CPSC recalls for baby bath seats in 2026, all for drowning and entrapment risk. NFSVLB model ZY2025 (~1,430 units, Amazon May–Oct 2025, blue/white, detachable arms, 4 suction cups) tips over and has leg openings allowing infant torso to slip and become entrapped. YCXXKJ (sold by BenTalk on Amazon) and Trankerloop also recalled. All violate mandatory ASTM infant bath seat standard. Remedy: stop use; contact seller for full refund. cpsc.gov.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov (official recall notices), opendata.ul.org, consumerreports.org
+- **Follow-Up Opportunities:** None — recalls active; will age out
+
+### Story 2: 4th of July in Colorado Springs — Family Guide to Ford Amphitheater and Palmer Lake
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Two main family options for July 4: Ford Amphitheater (gates 5:30 PM MT, show 6:30 PM MT, fireworks ~9 PM MT) and Palmer Lake (4–10 PM MT, ~20 miles north on I-25). Tips for families with young children on parking, earplugs, and early arrival.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** AI summary (MEDIUM confidence — recommend verifying event times directly with venues)
+- **Follow-Up Opportunities:** July 5 recap; July 4 reminder post closer to date
+
+### Story 3: D49 Student Success Center Opens August 2026
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — District 49 opening a Student Success Center at the start of the 2026–2027 school year at the former Falcon Elementary School of Technology. Programs: full-time preschool (Mon–Thu, district-wide), PEAK disability support, Elevates 18–21 Transition Services. d49.org.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** d49.org (official board post — "D49 Student Success Center Opens August of 2026")
+- **Follow-Up Opportunities:** August 2026 opening update; first week of school 2026-27
+
+### Story 4: Hot Car Child Safety — Summer 2026 Warning for COS Families
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — 6 U.S. children died from vehicular heatstroke so far in 2026; ~40/year nationally. Car interiors can exceed 100°F in 5 minutes at 90°F outside. Children heat 3–5x faster than adults (AAP). Federal rule: all 2025+ model year vehicles require rear passenger alert. Prevention tips: item in back seat; daycare call if no-show; know your car's alert. If you see a child in a hot car: call 911 immediately.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** NHTSA (temperature data, HIGH), AAP/HealthyChildren.org (child physiology, HIGH), National Safety Council / Kids and Car Safety (2026 stat, MEDIUM), ConsumerReports.org
+- **Follow-Up Opportunities:** Ongoing summer safety; back-to-school reminder in August
+
+### Story 5: Colorado State Fair 2026 — Family Preview Guide (Aug 28–Sept 7, Pueblo)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado State Fair runs August 28–September 7, 2026 at 1001 Beulah Avenue, Pueblo, CO 81004. Hours: Fri–Mon 11 AM–11 PM; Tue–Thu 3–11 PM. Family highlights: livestock shows, pig racing, dog shows, stilt circus, rides, rodeo. Country music Big R Arena Aug 28–30 (Ian Munsick, Dylan Scott, Neal McCoy). Sensory Day September 1, 11 AM–2 PM. ~60-mile drive from COS.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** coloradostatefair.com, festivalnet.com, roam50states.com (all HIGH)
+- **Follow-Up Opportunities:** Reminder closer to Aug 28; Sensory Day callout; post-fair recap
+
+---
+
 ## June 25, 2026
 
 ### Story 1: RECALL — GOPO Toys Pull String Teething Toys (Choking Hazard)

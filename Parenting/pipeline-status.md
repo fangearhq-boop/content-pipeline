@@ -1,6 +1,44 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: June 25, 2026
+## Latest Run: June 26, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC baby bath seat recalls (cpsc.gov; NFSVLB model ZY2025 ~1,430 units Amazon May–Oct 2025; YCXXKJ sold by BenTalk; Trankerloop; all drowning/entrapment risk; violate ASTM mandatory standard); 4th of July COS events (Ford Amphitheater gates 5:30/show 6:30/fireworks ~9 PM MT; Palmer Lake 4–10 PM, ~20 mi north); D49 Student Success Center (d49.org official announcement; opens Aug 2026; Falcon Elementary of Technology building; preschool Mon–Thu, PEAK programs, Elevates 18–21); Hot car safety (NHTSA: 100°F+ in 5 min at 90°F outside; AAP: children heat 3–5x faster; NSC: 6 deaths in 2026; 2025+ model year vehicles require rear passenger alert); Colorado State Fair 2026 (coloradostatefair.com; Aug 28–Sept 7; Pueblo 1001 Beulah Ave; pig racing/rodeo/rides/stilt circus; Ian Munsick/Dylan Scott/Neal McCoy Aug 28–30; Sensory Day Sept 1 11 AM–2 PM) |
+| Story History Check | COMPLETE | 5 NEW STORIES — all fresh; confirmed against story-history.md (no overlap with June 25: GOPO recall, free summer meals, park month events, BLA/ACCEL, screen time) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (1 Tier 1, 4 Tier 2); ### STORY N: format with **Tier:** / **Pillar:** / **Posting Window:** fields |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; 4th of July event times noted as MEDIUM (AI summary, recommend verifying with venues) |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for S1; 1 each for S2–S5); ### STORY N: / #### Text Post / code block format; all under 280 chars; 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules; ### STORY N: format |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (2 per story: 1200x675 social + 1200x630 article hero); clean bottom third; no celebrity likenesses |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML list format; 10 images; all not_started; photo_source: gemini; model: gemini-2.5-flash-image; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-800 words; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 47 claims detected (HIGH: 47, MEDIUM: 23, LOW: 38); story-analysis consistency warnings cosmetic (same as prior runs); image manifest warnings cosmetic (expected for gemini source flat-list YAML) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 5 FB posts, 5 articles, 0 images; 21 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-26.xlsx (6 posts, 13:10–20:30 MT) + TOBI cosp-postplanner-tobi-2026-06-26.xlsx (6 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-26)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total posts (PostPlanner xlsx: 6 X posts)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-26.xlsx (6 posts, 13:10–20:30 MT), cosp-postplanner-tobi-2026-06-26.xlsx (6 TOBI posts)
+- **Coverage:** Baby bath seat recalls (3 CPSC recalls: NFSVLB model ZY2025 ~1,430 units Amazon May–Oct 2025 blue/white/detachable arms/4 suction cups tips over/leg entrapment; YCXXKJ sold by BenTalk on Amazon; Trankerloop; all violate ASTM mandatory standard; stop use/contact seller for full refund; cpsc.gov); 4th of July COS (Ford Amphitheater gates 5:30 PM/show 6:30 PM/fireworks ~9 PM MT; Palmer Lake 4–10 PM ~20 mi north I-25; early arrival/earplugs/layers tips); D49 Student Success Center (opens Aug 2026/2026-27 school year; former Falcon Elementary School of Technology; 2 full-time preschool classrooms Mon–Thu district-wide; PEAK programs disability support; Elevates 18–21 Transition Services; d49.org); Hot car safety (6 US deaths 2026; ~40/year; 90°F outside → 100°F+ interior in 5 min; children heat 3–5x faster than adults AAP; dehydrate faster; 2025+ model year vehicles require rear passenger alert; prevention: item in back seat/daycare call if no-show/know your car's alert; see child in hot car: call 911; kidsandcars.org/NoHeatStroke.org); Colorado State Fair 2026 (Aug 28–Sept 7 Pueblo 1001 Beulah Ave; hours Fri–Mon 11 AM–11 PM/Tue–Thu 3–11 PM; pig racing/dog shows/stilt circus/rides/livestock/rodeo; country music Big R Arena Aug 28–30: Ian Munsick/Dylan Scott/Neal McCoy; Sensory Day Sept 1 11 AM–2 PM; ~60 mi south COS on I-25; coloradostatefair.com)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (Niche 1 completed June 26)
+  - Compile: 5 stories, 6 X posts, 5 FB posts (FB parsed correctly this run), 5 articles; 21 dashboard items
+  - Image manifest warnings cosmetic (same as all prior Parenting runs)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from June 25's Jamie Rivera [S1, S3, S5])
+
+---
+
+## Prior Run: June 25, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
