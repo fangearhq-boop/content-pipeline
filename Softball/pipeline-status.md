@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-26
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (7), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (24 claims, 0 char violations), compile (5 stories, 7 tweets, 5 FB posts, 5 articles), dashboard (27 items), PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected) and publish-dashboard.py (committed locally). Git rebase required to reconcile diverged branches.
+- **GitHub Pages Status**: dashboard committed locally; push resolved after rebase
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 7 posts OK).
+- **Key Stories**: Tia Milloy enters transfer portal/Oklahoma utility/41 games/2 years eligibility/FSU pursuit over (Tier 1 FOLLOW UP), Nebraska 52-8/.867 win%/5th at WCWS/first WCWS in 13 yrs/Boutté from Ohio State/returning transfer core (Tier 1 NEW), South Carolina portal class/Bennett+Shaver+Foran/six departed/targeted role additions (Tier 2 NEW), Florida 3 first-team All-SEC+Beachum/Tennessee 2 first-team All-SEC/2027 challengers (Tier 2 NEW), September 1 recruiting calendar/PGF Nationals July 19 (Tier 3 NEW)
+
+
+## Last Run
 - **Date**: 2026-06-25
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (7; correct #### Text Post format with code blocks), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (64 claims HIGH/MEDIUM/LOW, 0 char violations), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo

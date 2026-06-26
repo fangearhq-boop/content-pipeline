@@ -3913,3 +3913,57 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - September 1 recruiting content
   - Fall practice previews
+
+---
+
+## Pipeline Run: June 26, 2026
+
+### Story 1: Tia Milloy Enters Transfer Portal — FSU's Rebuild Just Got Harder
+- **Date:** 2026-06-26
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 25 — FSU Still Waiting on Milloy; Milloy now entering portal)
+- **Angle:** Oklahoma utility player Tia Milloy (41 games, 5 starts in 2026, 2 years eligibility) announced she is entering the transfer portal. FSU had been in active contact. The portal is now fully open for any program with a need and a scholarship.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Milloy's commitment destination
+  - FSU roster gap response
+
+### Story 2: Nebraska's Historic WCWS Return — Inside the Roster Being Built for 2027
+- **Date:** 2026-06-26
+- **Tier:** 1
+- **Classification:** NEW STORY (first dedicated Nebraska 2026-27 outlook)
+- **Angle:** Nebraska 52-8 (.867 win%, program best), 5th at WCWS, first WCWS in 13 years. Adding Lorin Boutté (Ohio State, All-Big Ten Freshman, Freshman All-American). Returning transfer core: Frahm, Coor (Oklahoma), Camenzind sisters (Arkansas), Farrell (UNLV), Kuszak (Wisconsin).
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Nebraska fall practice reports
+  - 2027 Big Ten/Big 12 schedule releases
+
+### Story 3: South Carolina Adds Quietly — What the Gamecocks' Portal Class Actually Means
+- **Date:** 2026-06-26
+- **Tier:** 2
+- **Classification:** NEW STORY (first dedicated South Carolina 2026-27 analysis)
+- **Angle:** SC added Bennett (catcher, Longwood), Shaver (utility, Kennesaw State), Foran (Gold Glove transfer). Lost: starting SS, Lamb, Favors, Potter, McKnight, Scarmardo. Net: targeted role-specific additions.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Additional SC pitching moves
+  - 2027 SEC schedule
+
+### Story 4: The 2027 Challengers — Florida and Tennessee Are Coming for Texas
+- **Date:** 2026-06-26
+- **Tier:** 2
+- **Classification:** NEW STORY (first dedicated Florida/Tennessee 2027 outlook)
+- **Angle:** Florida returns 3 first-team All-SEC (Rothrock, Shumaker, Thomas) + Beachum. Tennessee returns 2 first-team All-SEC (Leach, Mardjetko). Both programs built to challenge Texas in 2027.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Florida/Tennessee fall practice reports
+  - 2027 preseason polls (January)
+
+### Story 5: Why September 1 Matters — The Summer Softball Calendar Every Fan Should Know
+- **Date:** 2026-06-26
+- **Tier:** 3
+- **Classification:** NEW STORY (evergreen recruiting calendar)
+- **Angle:** PGF Nationals July 19–August 4; September 1 = D1 contact opens for Class of 2028; fall practice August; NFCA Convention fall.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - September 1 recruiting reaction
+  - PGF Nationals coverage (July 19)
