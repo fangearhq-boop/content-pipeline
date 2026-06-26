@@ -2,6 +2,15 @@
 
 
 ## Current Run
+- **Date**: 2026-06-26
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims HIGH; universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known).
+- **Key Stories**: MLB Draft Combine closes/Cholowsky .338/.463/.707 likely No.1/Emerson 40-45%/Beck 465.6ft 113mph/Snow 97.7mph/Draft July 11 (Tier 1 FOLLOW UP), All-Star voting Phase 1 closed/Ohtani 3.34M leads MLB/Schwarber 1.54M 2nd NL/Clement leads AL/Phase 2 June 29/Game July 14 Philly (Tier 1 NEW), Witt Jr. Grade 1 MCL 6 games missed/Quatraro hopeful tonight/brace in drills/4.5 fWAR AL leader (Tier 2 FOLLOW UP), Tucker back spasms day-to-day/$240M/Roberts not concerned/target return SD series (Tier 2 FOLLOW UP), Skubal/Chapman trade deadline 38 days/Tigers 13 under/won't extend/Dodgers Yankees Braves Brewers BJ Padres (Tier 3 FOLLOW UP)
+
+
+## Last Run
 - **Date**: 2026-06-25
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (7; correct #### Text Post format with code blocks; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (30 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard publish 403 (proxy blocks content-dashboards). PostPlanner exports (7 posts each XLSX). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo

@@ -3417,3 +3417,61 @@ Each day's stories are appended at the top (newest first).
   - IL/active roster announcement
   - All-Star Game selection
   - Witt return impact on Royals
+
+---
+
+## Pipeline Run: June 26, 2026
+
+### Story 1: MLB Draft Combine Closes — Cholowsky vs. Emerson and the Prospects Who Moved Their Stock
+- **Date:** 2026-06-26
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 23 — Draft Combine opens; today is the final day)
+- **Angle:** Combine wraps at Chase Field. Cholowsky (.338/.463/.707, 21 HR) likely No. 1. Emerson (6'2" LH prep SS) the alternative at 40-45%. Standouts: Beck (465.6 ft, 113 mph, 20 balls 100+ mph), Snow (97.7 mph highest HS pitcher, 2,990 rpm slider), Bland (112.5 mph EV), Reddemann (92-94 mph carry). White Sox pick No. 1 July 11 in Philadelphia.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox No. 1 pick announcement (July 11)
+  - First-round results
+  - Beck/Snow/Bland signed or unsigned decision
+
+### Story 2: All-Star Voting Phase 1 Closes — Ohtani Leads All of MLB, Schwarber at 1.5M
+- **Date:** 2026-06-26
+- **Tier:** 1
+- **Classification:** NEW STORY (Phase 1 deadline was June 25)
+- **Angle:** Ohtani leads all MLB: 3,341,257 votes. Schwarber 2nd NL: 1,540,202 votes. Clement leads AL. Phase 2 opens June 29. All-Star Game July 14 at Citizens Bank Park. Derby July 13.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Phase 2 results / starters announced
+  - Derby participation announcement
+  - Schwarber HR No. 30
+
+### Story 3: Bobby Witt Jr. — Return Expected Tonight vs. White Sox
+- **Date:** 2026-06-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 23 — Witt MCL; manager hopeful Friday return)
+- **Angle:** Grade 1 MCL, 6 games missed (since June 20 vs. Cardinals). Quatraro hopeful for tonight's opener. Brace in drills. 4.5 fWAR AL leader.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Witt active roster confirmation
+  - Royals second-half standing update
+  - All-Star selection
+
+### Story 4: Kyle Tucker — Back Spasms Keeping Dodgers' $240M Star Day-to-Day
+- **Date:** 2026-06-26
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 23 — Tucker back spasms; status update)
+- **Angle:** Exited 2nd inning vs. Twins. Day-to-day. Roberts not "overly concerned." Tucker "pretty confident" avoids IL. Target return: San Diego series.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Tucker return announcement
+  - Dodgers injury load management heading into deadline
+
+### Story 5: Trade Deadline Countdown — Skubal, Chapman, and the Moves That Could Define August
+- **Date:** 2026-06-26
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 23 — Skubal trade rumors first entry)
+- **Angle:** August 3 deadline, 38 days. Skubal (2x Cy Young, won't extend, Tigers 13 under .500) available. Teams: Dodgers, Yankees, Braves, Brewers, Blue Jays, Padres. Chapman (Red Sox) closer also available.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade announcement
+  - Chapman destination
+  - July 4 buyer/seller classifications
