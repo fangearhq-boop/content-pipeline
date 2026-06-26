@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-25 |
-| Writing | Complete (all steps) | 2026-06-25 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 33 claims, 68 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-25 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-25 |
-| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-06-25 |
-| PostPlanner Export | Complete (standard 6 posts; TOBI 6 posts) | 2026-06-25 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-25 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-25 |
+| Research | Complete | 2026-06-26 |
+| Writing | Complete (all steps) | 2026-06-26 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 24 claims, 56 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-26 |
+| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-26 |
+| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-06-26 |
+| PostPlanner Export | Complete (standard 6 posts; TOBI 6 posts) | 2026-06-26 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-26 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-26 |
 
 ## Queue
 
@@ -24,6 +24,22 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-26 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (1 Tier 1, 4 Tier 2)
+- **Posts:** 6 X posts + 5 FB posts (5 long-form + 5 captions) = 11 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S4], Ryan Calloway [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-26.xlsx (6 posts, 12:53–20:23 ET), tfr-postplanner-tobi-2026-06-26.xlsx (6 TOBI posts)
+- **Coverage:** Wimbledon 2026 draw ceremony — Fritz (6) vs Draper R1 blockbuster; Ruud (11) vs Hurkacz R1; Sinner (1) vs Kecmanovic; Djokovic (7) vs Wu Yibing; Sinner/Djokovic in same top half (potential SF); Zverev (2) leads bottom half; Championships June 29); Eastbourne SFs — Humbert def. Draper in 3 sets, Samuel def. Bergs 6-3, 6-4; final Saturday: Humbert vs Samuel; Draper faces Fritz at Wimbledon R1); Bad Homburg WTA SFs — Osaka vs Wang + Ruse vs Muchova; Osaka seeking first career grass final (first grass SF in 7 years; def. Alexandrova 6-2, 6-2 QF); Wang via walkover (Svitolina hip); Ruse (No. 105) def. Navarro QF; Andreeva already out; Final Saturday); Wimbledon women's draw — Swiatek (3) vs Townsend; Serena vs Maya Joint in same quarter (potential R3 Swiatek/Serena); Sabalenka (1) vs Kostovic; Rybakina (2) vs Boisson; Andreeva (5) vs Linette — RG/Wimbledon double chance last achieved by Henin 2006; Gauff (7) vs Korpatsch); Mallorca SFs — Marozsan def. ADF 6-4, 6-3 (upset); Borges def. Quinn 7-6(1), 6-4; final Saturday: Marozsan vs Borges
+- **Notes:**
+  - verify-facts.py: passed; 24 claims, 56 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 6 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 21 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (6 posts) and TOBI (6 posts) generated successfully; 12:53–20:23 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Eastbourne SF score (Humbert def. Draper) reported from single source — marked MEDIUM; three-set result confirmed by multiple sources
+  - Bad Homburg SF results (Osaka vs Wang; Ruse vs Muchova) scheduled for June 26; actual scores not available at pipeline run time; story covers context and stakes
 
 ### 2026-06-25 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
