@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-25
+- **Date**: 2026-06-26
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-26
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-06-26.xlsx (6 posts) + hh-postplanner-tobi-2026-06-26.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-26/review-dashboard.html (21 items)
+- **Notes:** LaMelo Ball traded to Timberwolves (Ball+Green for Reid+2033 unprotected 1st+3 swaps+3 seconds/20.1 PPG 7.1 APG/5yr $112M extension); NBA FA preview June 30 (KAT $272M extension "ready to sacrifice"/Harden+Trae Young UFAs/LeBron decision); Giannis Heat July 6 countdown (Giannis+Bam frontcourt/Celtics got nothing); Knicks dynasty math KAT (Brunson $113M less→Finals MVP precedent/Dolan second apron wall); Summer League July 3-19 (Dybantsa No.1 Wizards/Peterson No.2 Jazz/Boozer No.3 Grizzlies/Michigan 3 top-12)
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-25
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

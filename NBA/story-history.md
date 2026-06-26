@@ -3444,3 +3444,48 @@
 - **Key facts:** Knicks have No. 24 (R1), No. 31 (via Washington, R2), No. 55 (R2) picks in 2026 draft; FA opens June 30; priority free agents: OG Anunoby, Karl-Anthony Towns; Brunson extension negotiations expected; massive luxury-tax bill ahead; first repeat attempt in franchise history
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Knicks re-sign OG+KAT; Brunson extension signed
+
+## 2026-06-26
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-26 | T1 | LaMelo Ball Traded to Minnesota Timberwolves | X, FB, Article | NEW |
+| 2026-06-26 | T1 | NBA Free Agency Preview — 4 Days Until June 30 | X, FB, Article | FOLLOW UP |
+| 2026-06-26 | T2 | Giannis to Heat — July 6 Countdown | X, FB, Article | FOLLOW UP |
+| 2026-06-26 | T2 | Knicks Dynasty Math — KAT's Turn to Sacrifice | X, FB, Article | FOLLOW UP |
+| 2026-06-26 | T2 | 2026 NBA Summer League Preview — Rookie Class Takes Vegas | X, FB, Article | FOLLOW UP |
+
+### STORY 1: LaMelo Ball Traded to Minnesota Timberwolves
+- **Tier:** 1
+- **Category:** NBA Trade / Timberwolves
+- **Key facts:** Ball + Josh Green to Wolves for Naz Reid + 2033 unprotected 1st + pick swaps 2028/29/30 + 3 seconds (2029/32/33); Ball 20.1 PPG/7.1 APG/4.8 RPG/36.8% 3pt; DiVincenzo ruptured Achilles; Ball extending 5yr/$112M with Wolves; Edwards finally has co-star; Tim Connelly search complete
+- **Status:** NEW
+- **Follow-up ideas:** Ball extension signed; Edwards+Ball Summer League debut; West power rankings updated
+
+### STORY 2: NBA Free Agency Preview — 4 Days Until June 30
+- **Tier:** 1
+- **Category:** NBA Free Agency
+- **Key facts:** Negotiating period opens June 30 6PM ET; signings execute July 6; KAT eligible 4yr/$272M extension; KAT "ready to make financial sacrifice"; Harden + Trae Young major UFAs; LeBron (age 41) decision pending; Brunson precedent ($113M less than max → champion + Finals MVP)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** KAT signs extension; LeBron decides; FA period opens June 30
+
+### STORY 3: Giannis to Heat — July 6 Countdown
+- **Tier:** 2
+- **Category:** NBA Trade / Heat
+- **Key facts:** Trade executes July 6 (moratorium ends); Giannis+Portis for Herro+Ware+Jaquez+Jakucionis+3 1sts+swap+2nd; Giannis+Bam frontcourt; Celtics got nothing; East reshuffled; Giannis $275M extension eligible Oct 1 or Jan 6 2027
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** July 6 trade execution; Giannis official Heat press conference; Extension signed
+
+### STORY 4: Knicks Dynasty Math — KAT's Turn to Sacrifice
+- **Tier:** 2
+- **Category:** NBA Offseason / Knicks
+- **Key facts:** KAT eligible 4yr/$272M; "ready to make financial sacrifice"; Brunson $156.5M/4yr (took $113M less) → Finals MVP 32.6 PPG; OG $212.5M/5yr locked; Dolan: "second apron suicidal"; Knicks ~$3.5M below first apron; Mitchell Robinson UFA; FA opens June 30
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** KAT extension signed; Robinson re-sign; FA opening day
+
+### STORY 5: 2026 NBA Summer League Preview — Rookie Class Takes Vegas
+- **Tier:** 2
+- **Category:** NBA Draft / Summer League
+- **Key facts:** July 3-19 Las Vegas; Dybantsa No.1 Wizards (25.5 PPG/51%/BYU); Peterson No.2 Jazz (20.2 PPG Kansas); Boozer No.3 Grizzlies (22.5 PPG/10.5 RPG/Naismith/Duke); Michigan 3 in top 12 (Johnson No.9 Dallas, Lendeborg No.11 GS, Mara No.12 OKC); 8 freshmen in top 9 picks
+- **Status:** NEW
+- **Follow-up ideas:** Summer League standouts; Dybantsa ROY race begins

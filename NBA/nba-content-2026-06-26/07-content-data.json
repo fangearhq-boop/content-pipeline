@@ -1,0 +1,292 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-26",
+  "compiled_at": "2026-06-26T11:17:21.281320+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "description": "X",
+      "type": "Story 1 — LaMelo Ball Traded to Minnesota Timberwolves"
+    },
+    {
+      "time": "9:15 AM",
+      "description": "Facebook",
+      "type": "Story 1 — LaMelo Ball Traded to Minnesota Timberwolves"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "X",
+      "type": "Story 2 — NBA Free Agency Preview: 4 Days Until June 30"
+    },
+    {
+      "time": "11:15 AM",
+      "description": "Facebook",
+      "type": "Story 2 — NBA Free Agency Preview: 4 Days Until June 30"
+    },
+    {
+      "time": "1:00 PM",
+      "description": "X",
+      "type": "Story 3 — Giannis to Heat: July 6 Countdown"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Facebook",
+      "type": "Story 3 — Giannis to Heat: July 6 Countdown"
+    },
+    {
+      "time": "3:00 PM",
+      "description": "X",
+      "type": "Story 4 — Knicks Dynasty Math: KAT's Turn to Sacrifice"
+    },
+    {
+      "time": "3:15 PM",
+      "description": "Facebook",
+      "type": "Story 4 — Knicks Dynasty Math: KAT's Turn to Sacrifice"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "X",
+      "type": "Story 5 — 2026 NBA Summer League Preview"
+    },
+    {
+      "time": "5:15 PM",
+      "description": "Facebook",
+      "type": "Story 5 — 2026 NBA Summer League Preview"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "LaMelo Ball Traded to Minnesota Timberwolves",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Anthony Edwards finally has a running mate. LaMelo Ball is headed to Minnesota — Ball + Josh Green for Naz Reid + a 2033 unprotected 1st + swaps. LaMelo brings 20.1 PPG, 7.1 APG & a 5yr/$112M extension. The West just got scarier. 🐺 #Timberwolves #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Timberwolves",
+            "#HoopHeroes"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Charlotte's LaMelo era is over. After 6 seasons, Ball heads to Minnesota in a blockbuster deal. Hornets land Naz Reid, a 2033 unprotected 1st + swaps. Rebuilding mode activated. #Hornets #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Hornets",
+            "#HoopHeroes"
+          ],
+          "char_count": 198
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-lamelo-ball-timberwolves-trade.html",
+        "headline": "LaMelo Ball Traded to Timberwolves: Anthony Edwards Finally Has His Running Mate",
+        "word_count": 792
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LaMelo Ball Traded to Timberwolves\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Player graphic\n- **Imagn search term:** \"LaMelo Ball Timberwolves\"\n- **Canva overlay text:** \"LAMELO TO MINNESOTA\" (top banner) / \"20.1 PPG · 7.1 APG · 5YR/$112M\" (stat bar bottom)\n- **Color scheme:** Timberwolves midnight blue and Kelly green, with white typography\n- **Mood:** Hype/announcement — bold, high-energy graphic with clean split-panel or full bleed action shot\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Player action shot — LaMelo driving or distributing\n- **Imagn search term:** \"LaMelo Ball Timberwolves\"\n- **Alt text:** \"LaMelo Ball in a Minnesota Timberwolves uniform, handling the ball on the court\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "NBA Free Agency Preview — 4 Days Until June 30",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "4 days until NBA free agency. KAT eligible for a $272M extension. Harden & Trae Young hit the open market. LeBron's future unresolved. Dolan's second apron wall looming over New York. Chaos is coming. #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nba-free-agency-preview-june-30.html",
+        "headline": "Four Days Until Free Agency: KAT's Extension, LeBron's Decision, and the Stars Still Available",
+        "word_count": 786
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Free Agency Preview — June 30\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Multi-player collage graphic\n- **Imagn search term:** \"Karl-Anthony Towns Knicks\" (primary image); secondary pulls: \"James Harden\" / \"Trae Young\"\n- **Canva overlay text:** \"FREE AGENCY STARTS JUNE 30\" (header) / \"KAT · HARDEN · TRAE · LEBRON\" (nameplate bar)\n- **Color scheme:** Dark charcoal background with gold and red accents — neutral palette to accommodate multiple teams\n- **Mood:** Anticipation/urgency — countdown clock aesthetic, bold white type on dark background\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Wide court scene or press conference shot\n- **Imagn search term:** \"Karl-Anthony Towns Knicks\"\n- **Alt text:** \"Karl-Anthony Towns in a New York Knicks uniform, a key player in the 2026 NBA free agency period\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Giannis to Heat — July 6 Countdown",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The clock is ticking. July 6 — the trade window opens and Giannis officially becomes a Miami Heat. Giannis + Bam Adebayo in the same frontcourt. South Beach is about to become must-watch basketball. #HeatNation #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation",
+            "#HoopHeroes"
+          ],
+          "char_count": 222
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-giannis-heat-july-6-countdown.html",
+        "headline": "Ten Days to July 6: What Giannis Joining the Heat Actually Means for the East",
+        "word_count": 779
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis to Heat — July 6 Countdown\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Player graphic\n- **Imagn search term:** \"Giannis Antetokounmpo Heat\"\n- **Canva overlay text:** \"GIANNIS IS COMING\" (bold header) / \"JULY 6 · MIAMI HEAT\" (subtext countdown bar)\n- **Color scheme:** Miami Heat black, red, and gold — high contrast with white text\n- **Mood:** Anticipation and power — dramatic lighting, Giannis in Heat uniform if available, otherwise trade announcement graphic style\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Player action shot — Giannis in transition or post-up\n- **Imagn search term:** \"Giannis Antetokounmpo Heat\"\n- **Alt text:** \"Giannis Antetokounmpo in a Miami Heat uniform, driving to the basket\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Knicks Dynasty Math — KAT's Turn to Sacrifice",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Brunson left $113M on the table. OG is locked at $212.5M. Now KAT says he's \"ready to make a financial sacrifice\" to keep the Knicks dynasty alive. Dolan called the second apron \"suicidal.\" New York's math is different. #Knicks #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks",
+            "#HoopHeroes"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-knicks-dynasty-kat-sacrifice.html",
+        "headline": "KAT's Turn: How the Knicks' Dynasty Hinges on One Financial Decision",
+        "word_count": 764
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Dynasty Math — KAT's Turn to Sacrifice\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Player graphic with dynasty framing\n- **Imagn search term:** \"Karl-Anthony Towns Knicks\"\n- **Canva overlay text:** \"READY TO SACRIFICE\" (large bold header) / \"KAT · BRUNSON · OG — THE DYNASTY CONTINUES\" (footer bar)\n- **Color scheme:** Knicks blue and orange — traditional, championship-era palette\n- **Mood:** Determined and resolute — serious tone, player staring into camera or mid-celebration with teammates if available\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Team or player feature shot\n- **Imagn search term:** \"Karl-Anthony Towns Knicks\"\n- **Alt text:** \"Karl-Anthony Towns celebrating with New York Knicks teammates on the court\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "2026 NBA Summer League Preview — Rookie Class Takes Vegas",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Summer League tips off July 3 in Las Vegas. Dybantsa (No. 1 Wizards), Peterson (No. 2 Jazz), Boozer (No. 3 Grizzlies) headline a class with 8 freshmen in the top 9 picks. The future of the NBA is about to introduce itself. #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-summer-league-2026-rookie-class.html",
+        "headline": "Summer League 2026: Five Rookies Who Will Define This Draft Class in Las Vegas",
+        "word_count": 878
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 NBA Summer League Preview\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Prospect/rookie graphic\n- **Imagn search term:** \"Ace Dybantsa Wizards\"\n- **Canva overlay text:** \"SUMMER LEAGUE 2026\" (header) / \"JULY 3–19 · LAS VEGAS\" (subtext) / \"THE NEXT GENERATION ARRIVES\" (footer)\n- **Color scheme:** Las Vegas gold and deep navy — neutral enough to feature multiple teams, bright enough for a hype graphic\n- **Mood:** Fresh and electric — clean layout with strong typography, rookie energy\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Prospect action shot\n- **Imagn search term:** \"Ace Dybantsa Wizards\"\n- **Alt text:** \"Ace Dybantsa, the No. 1 overall pick by the Washington Wizards, competing in NBA Summer League in Las Vegas\""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
