@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-25T08:30:00.440836+00:00",
+  "generated_at": "2026-06-26T08:30:00.562932+00:00",
   "account": "cubs",
   "window_days": 21,
-  "tweet_count": 84,
-  "measured_tweet_count": 84,
+  "tweet_count": 90,
+  "measured_tweet_count": 90,
   "measured_median_impressions": 66.5,
-  "measured_mean_impressions": 104.68,
+  "measured_mean_impressions": 104.32,
   "median_impressions": 66.5,
-  "mean_impressions": 104.68,
+  "mean_impressions": 104.32,
   "max_impressions": 1898,
   "significant_findings": [
     {
@@ -15,12 +15,12 @@
       "kind": "time_window_vs_rest",
       "winner": "midday_12_18",
       "loser": "not_midday_12_18",
-      "median_impressions_winner": 67,
-      "median_impressions_loser": 50,
-      "n_winner": 65,
-      "n_loser": 19,
-      "p_value": 0.0148,
-      "effect_size_cliffs_delta": 0.37,
+      "median_impressions_winner": 69.5,
+      "median_impressions_loser": 51.0,
+      "n_winner": 70,
+      "n_loser": 20,
+      "p_value": 0.0165,
+      "effect_size_cliffs_delta": 0.354,
       "effect_size_label": "medium"
     },
     {
@@ -28,12 +28,12 @@
       "kind": "time_window_vs_rest",
       "winner": "not_morning_06_12",
       "loser": "morning_06_12",
-      "median_impressions_winner": 67,
-      "median_impressions_loser": 50,
-      "n_winner": 65,
-      "n_loser": 19,
-      "p_value": 0.0148,
-      "effect_size_cliffs_delta": 0.37,
+      "median_impressions_winner": 69.5,
+      "median_impressions_loser": 51.0,
+      "n_winner": 70,
+      "n_loser": 20,
+      "p_value": 0.0165,
+      "effect_size_cliffs_delta": 0.354,
       "effect_size_label": "medium"
     }
   ],
@@ -50,67 +50,67 @@
   },
   "raw_buckets": {
     "by_hour_ct": {
-      "15": {
-        "n": 13,
-        "mean": 73.15,
-        "median": 67,
-        "top": {
-          "impressions": 133,
-          "text": ".783 OPS. 11 home runs. 14 stolen bases.\n\nPete Crow-Armstrong is becoming one of the most complete outfielders in baseball \u2014 and the Cubs desperately need him to keep being the story while the rotation burns.\n\nSophomore leap is fully underw"
-        }
-      },
-      "9": {
-        "n": 3,
-        "mean": 81.67,
-        "median": 98,
-        "top": {
-          "impressions": 113,
-          "text": "Ben Brown is one of the most quietly dominant pitchers in baseball right now. \ud83e\uddca\n\n1.74 ERA. 0.88 WHIP. 58 strikeouts. 0 homers allowed all season.\n\nHe starts tonight at Oracle Park, 9:05 PM CT.\n\n#Cubs #GoCubs #MLB"
-        }
-      },
-      "7": {
-        "n": 14,
-        "mean": 73.5,
-        "median": 44.0,
-        "top": {
-          "impressions": 322,
-          "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
-        }
-      },
       "17": {
-        "n": 15,
-        "mean": 201.67,
-        "median": 57,
+        "n": 16,
+        "mean": 192.5,
+        "median": 56.5,
         "top": {
           "impressions": 1898,
           "text": "The rotation is shorthanded up top, but the farm is cooking.\n\nOwen Ayers and Josiah Hartshorn are on hot streaks at Double-A Knoxville. Jefferson Rojas has back-to-back 3-hit games. Will Sanders spun five scoreless for Iowa.\n\nThe cavalry is"
         }
       },
+      "15": {
+        "n": 14,
+        "mean": 84.79,
+        "median": 82.5,
+        "top": {
+          "impressions": 143,
+          "text": "Matthew Boyd starts tonight \u2014 first appearance since May 3.\n\nHe needed minor knee surgery after a freak injury playing with his kids. Seven weeks later, he's back.\n\nCounsell called it \"a big deal.\" With five starters shelved, he's not wrong"
+        }
+      },
       "14": {
-        "n": 10,
-        "mean": 103.5,
-        "median": 91.0,
+        "n": 11,
+        "mean": 98.55,
+        "median": 90,
         "top": {
           "impressions": 280,
           "text": "Cubs are 35-34 and 1 game over .500, with the Brewers running away at 41-23.\n\nDivision title is out of reach. Wild card is the real race.\n\nThis road trip against a 28-41 Giants squad is where the Cubs make their case.\n\n#Cubs #NorthSiders #M"
         }
       },
       "13": {
-        "n": 12,
-        "mean": 76.83,
-        "median": 66.5,
+        "n": 13,
+        "mean": 80,
+        "median": 67,
         "top": {
           "impressions": 126,
           "text": "Cubs' starters: 2-12, 7.11 ERA in their last 20 games.\n\nDEAD LAST in baseball.\n\n49 days to the deadline. Hoyer is shopping. Casey Mize and Reid Detmers are among the names. The rotation needs reinforcements \u2014 and it needs them fast.\n\n#Cubs "
         }
       },
       "12": {
-        "n": 15,
-        "mean": 100.53,
-        "median": 72,
+        "n": 16,
+        "mean": 97,
+        "median": 69.5,
         "top": {
           "impressions": 189,
           "text": "Daniel Palencia \u2014 2.70 ERA, 3 saves, team-best closer \u2014 is now on the IL with right elbow inflammation.\n\nPhil Maton inherits the save role. Porter Hodge is already gone for the year.\n\n47 days until the deadline. The bullpen needs help too.\n"
+        }
+      },
+      "7": {
+        "n": 15,
+        "mean": 73.6,
+        "median": 50,
+        "top": {
+          "impressions": 322,
+          "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
+        }
+      },
+      "9": {
+        "n": 3,
+        "mean": 88,
+        "median": 113,
+        "top": {
+          "impressions": 117,
+          "text": "The Cubs traded Owen Caissie for Cabrera this offseason. Last night he got carted off at Citi Field with a left hamstring strain \u2014 headed to the IL.\n\nThat's FIVE starters down. Horton, Steele, Taillon, Boyd, and now Cabrera.\n\n#Cubs #MLB #Cu"
         }
       },
       "10": {
@@ -133,9 +133,18 @@
       }
     },
     "by_weekday_ct": {
+      "Thu": {
+        "n": 16,
+        "mean": 67.69,
+        "median": 57.0,
+        "top": {
+          "impressions": 143,
+          "text": "Matthew Boyd starts tonight \u2014 first appearance since May 3.\n\nHe needed minor knee surgery after a freak injury playing with his kids. Seven weeks later, he's back.\n\nCounsell called it \"a big deal.\" With five starters shelved, he's not wrong"
+        }
+      },
       "Wed": {
         "n": 16,
-        "mean": 82.38,
+        "mean": 85.38,
         "median": 71.0,
         "top": {
           "impressions": 189,
@@ -153,10 +162,10 @@
       },
       "Mon": {
         "n": 12,
-        "mean": 80.25,
-        "median": 72.0,
+        "mean": 89,
+        "median": 93.5,
         "top": {
-          "impressions": 162,
+          "impressions": 168,
           "text": "Game 1 of a 4-game road series at Citi Field \u2014 6:10 PM CT first pitch.\n\nCubs (40-37) vs. Mets (34-43). Four games against a team with a losing record. This is exactly the kind of series a wild card contender has to win.\n\nImanaga. Let's work"
         }
       },
@@ -186,21 +195,12 @@
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
         }
-      },
-      "Thu": {
-        "n": 10,
-        "mean": 64,
-        "median": 57.0,
-        "top": {
-          "impressions": 101,
-          "text": "Matthew Boyd's return is DELAYED \u2014 left shoulder soreness in a bullpen session.\n\nHorton, Steele, and Taillon are already on IL. Now Boyd pushes back further.\n\nTHREE rotation arms lost to injury \u2014 plus Boyd in limbo. The Cubs are out of runw"
-        }
       }
     },
     "by_content_type": {
       "brief": {
-        "n": 84,
-        "mean": 104.68,
+        "n": 90,
+        "mean": 104.32,
         "median": 66.5,
         "top": {
           "impressions": 1898,
@@ -210,8 +210,8 @@
     },
     "by_opening": {
       "statement": {
-        "n": 60,
-        "mean": 115.17,
+        "n": 64,
+        "mean": 114.47,
         "median": 66.5,
         "top": {
           "impressions": 1898,
@@ -219,18 +219,18 @@
         }
       },
       "stat_lead": {
-        "n": 14,
-        "mean": 86.71,
-        "median": 80.5,
+        "n": 15,
+        "mean": 89.53,
+        "median": 103,
         "top": {
           "impressions": 189,
           "text": "Daniel Palencia \u2014 2.70 ERA, 3 saves, team-best closer \u2014 is now on the IL with right elbow inflammation.\n\nPhil Maton inherits the save role. Porter Hodge is already gone for the year.\n\n47 days until the deadline. The bullpen needs help too.\n"
         }
       },
       "allcaps_lead": {
-        "n": 10,
-        "mean": 66.9,
-        "median": 63.0,
+        "n": 11,
+        "mean": 65.45,
+        "median": 62,
         "top": {
           "impressions": 119,
           "text": "PCA in his last 18 games: 34 hits. Nine home runs. Six stolen bases.\n\nOptaStats checked 5+ million 18-game spans in modern MLB history. No player matched that combined production.\n\nPete Crow-Armstrong is one of the best players in baseball."
@@ -239,18 +239,18 @@
     },
     "by_len_bucket": {
       "200-260": {
-        "n": 49,
-        "mean": 79.78,
-        "median": 65,
+        "n": 52,
+        "mean": 80.54,
+        "median": 61.5,
         "top": {
           "impressions": 280,
           "text": "Cubs are 35-34 and 1 game over .500, with the Brewers running away at 41-23.\n\nDivision title is out of reach. Wild card is the real race.\n\nThis road trip against a 28-41 Giants squad is where the Cubs make their case.\n\n#Cubs #NorthSiders #M"
         }
       },
       "260+": {
-        "n": 35,
-        "mean": 139.54,
-        "median": 67,
+        "n": 38,
+        "mean": 136.87,
+        "median": 71.0,
         "top": {
           "impressions": 1898,
           "text": "The rotation is shorthanded up top, but the farm is cooking.\n\nOwen Ayers and Josiah Hartshorn are on hot streaks at Double-A Knoxville. Jefferson Rojas has back-to-back 3-hit games. Will Sanders spun five scoreless for Iowa.\n\nThe cavalry is"
@@ -259,8 +259,8 @@
     },
     "by_hashtag_count": {
       "3": {
-        "n": 84,
-        "mean": 104.68,
+        "n": 90,
+        "mean": 104.32,
         "median": 66.5,
         "top": {
           "impressions": 1898,
@@ -269,49 +269,49 @@
       }
     },
     "by_has_score": {
-      "False": {
-        "n": 37,
-        "mean": 128.62,
-        "median": 67,
-        "top": {
-          "impressions": 1898,
-          "text": "The rotation is shorthanded up top, but the farm is cooking.\n\nOwen Ayers and Josiah Hartshorn are on hot streaks at Double-A Knoxville. Jefferson Rojas has back-to-back 3-hit games. Will Sanders spun five scoreless for Iowa.\n\nThe cavalry is"
-        }
-      },
       "True": {
-        "n": 47,
-        "mean": 85.83,
+        "n": 51,
+        "mean": 84.49,
         "median": 58,
         "top": {
           "impressions": 322,
           "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
         }
-      }
-    },
-    "by_has_stat": {
-      "True": {
-        "n": 35,
-        "mean": 93.51,
-        "median": 94,
-        "top": {
-          "impressions": 322,
-          "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
-        }
       },
       "False": {
-        "n": 49,
-        "mean": 112.65,
-        "median": 64,
+        "n": 39,
+        "mean": 130.26,
+        "median": 72,
         "top": {
           "impressions": 1898,
           "text": "The rotation is shorthanded up top, but the farm is cooking.\n\nOwen Ayers and Josiah Hartshorn are on hot streaks at Double-A Knoxville. Jefferson Rojas has back-to-back 3-hit games. Will Sanders spun five scoreless for Iowa.\n\nThe cavalry is"
         }
       }
     },
+    "by_has_stat": {
+      "False": {
+        "n": 53,
+        "mean": 112.08,
+        "median": 64,
+        "top": {
+          "impressions": 1898,
+          "text": "The rotation is shorthanded up top, but the farm is cooking.\n\nOwen Ayers and Josiah Hartshorn are on hot streaks at Double-A Knoxville. Jefferson Rojas has back-to-back 3-hit games. Will Sanders spun five scoreless for Iowa.\n\nThe cavalry is"
+        }
+      },
+      "True": {
+        "n": 37,
+        "mean": 93.22,
+        "median": 100,
+        "top": {
+          "impressions": 322,
+          "text": "Cubs open a 3-game home series vs the Blue Jays at Wrigley, 1:20 PM CT.\n\nBen Brown (3-2, 1.74 ERA) takes the ball against Kevin Gausman (4-4, 3.41 ERA).\n\nTwo teams within a game of each other \u2014 every win matters in this wild card chase.\n\n#C"
+        }
+      }
+    },
     "by_has_emoji_first_line": {
       "False": {
-        "n": 77,
-        "mean": 107.04,
+        "n": 83,
+        "mean": 106.48,
         "median": 66,
         "top": {
           "impressions": 1898,
@@ -329,22 +329,22 @@
       }
     },
     "by_has_allcaps": {
+      "False": {
+        "n": 13,
+        "mean": 80.08,
+        "median": 59,
+        "top": {
+          "impressions": 168,
+          "text": "Game 1 of a 4-game road series at Citi Field \u2014 6:10 PM CT first pitch.\n\nCubs (40-37) vs. Mets (34-43). Four games against a team with a losing record. This is exactly the kind of series a wild card contender has to win.\n\nImanaga. Let's work"
+        }
+      },
       "True": {
-        "n": 73,
-        "mean": 108.95,
+        "n": 77,
+        "mean": 108.42,
         "median": 67,
         "top": {
           "impressions": 1898,
           "text": "The rotation is shorthanded up top, but the farm is cooking.\n\nOwen Ayers and Josiah Hartshorn are on hot streaks at Double-A Knoxville. Jefferson Rojas has back-to-back 3-hit games. Will Sanders spun five scoreless for Iowa.\n\nThe cavalry is"
-        }
-      },
-      "False": {
-        "n": 11,
-        "mean": 76.36,
-        "median": 59,
-        "top": {
-          "impressions": 162,
-          "text": "Game 1 of a 4-game road series at Citi Field \u2014 6:10 PM CT first pitch.\n\nCubs (40-37) vs. Mets (34-43). Four games against a team with a losing record. This is exactly the kind of series a wild card contender has to win.\n\nImanaga. Let's work"
         }
       }
     }
@@ -352,20 +352,20 @@
   "raw_buckets_engagement_above_median": {
     "by_content_type": {
       "brief": {
-        "n": 42,
-        "mean_rate": 0.0045,
+        "n": 45,
+        "mean_rate": 0.0051,
         "median_rate": 0.0
       }
     },
     "by_opening": {
       "statement": {
-        "n": 30,
-        "mean_rate": 0.0042,
+        "n": 32,
+        "mean_rate": 0.0052,
         "median_rate": 0.0
       },
       "stat_lead": {
-        "n": 8,
-        "mean_rate": 0.0042,
+        "n": 9,
+        "mean_rate": 0.0037,
         "median_rate": 0.0
       },
       "allcaps_lead": {
@@ -376,25 +376,25 @@
     },
     "by_has_score": {
       "False": {
-        "n": 21,
-        "mean_rate": 0.0066,
+        "n": 22,
+        "mean_rate": 0.0063,
         "median_rate": 0.0
       },
       "True": {
-        "n": 21,
-        "mean_rate": 0.0025,
+        "n": 23,
+        "mean_rate": 0.0041,
         "median_rate": 0.0
       }
     },
     "by_has_stat": {
-      "True": {
-        "n": 20,
-        "mean_rate": 0.0028,
+      "False": {
+        "n": 24,
+        "mean_rate": 0.0073,
         "median_rate": 0.0
       },
-      "False": {
-        "n": 22,
-        "mean_rate": 0.006,
+      "True": {
+        "n": 21,
+        "mean_rate": 0.0027,
         "median_rate": 0.0
       }
     }
