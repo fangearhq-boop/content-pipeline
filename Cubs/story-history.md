@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-26
+
+### STORY 1: Series Preview — Cubs at Brewers (Game 1 of 3)
+- **Angle:** NEW STORY (series start; Cubs 44-37 open 3-game road series at American Family Field vs. Brewers 49-29; Game 1 tonight 6:45 PM CT; Jacob Misiorowski [8-3, 1.45 ERA — MLB ERA leader] vs. Colin Rea [5-5, 4.99 ERA]; Brewers swept Cubs 19-5 at Wrigley in May; Brewers 33-15 since May 1)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, mandatory series-start preview)
+- **Follow-Up Opportunities:**
+  - Tonight's game result (recap June 27)
+  - Game 2 Sat 6:10 PM CT, Game 3 Sun 1:10 PM CT
+  - Brewers probables for Games 2–3 (TBD)
+
+### STORY 2: Game Recap — Cubs 4, Mets 3 (10 innings, June 25)
+- **Angle:** NEW STORY (PCA walked off with RBI double off Brooks Raley in the 10th inning; four-game sweep of Mets at Citi Field; Cubs 7-0 vs. Mets in 2026, outscoring them 51-24; Boyd returned: 4 2/3 scoreless IP, 4 K, first start since early May)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, pushed from morning to midday per insights)
+- **Follow-Up Opportunities:**
+  - PCA's continued hot stretch
+  - Boyd's next start (scheduled for Brewers series)
+
+### STORY 3: Matthew Boyd Returns — Rotation Silver Lining
+- **Angle:** NEW STORY (Boyd delivered 4 2/3 scoreless innings in first start back from meniscus surgery; rotation has five starters on IL; Boyd framed as the lone bright spot; Horton/Steele/Taillon/Brown/Cabrera all shelved)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold analytical take)
+- **Follow-Up Opportunities:**
+  - Boyd's next start (when scheduled in Brewers series)
+  - Rotation health through All-Star break
+  - Any additional emergency IL moves
+
+### STORY 4: Tonight's Matchup — Colin Rea vs. Jacob Misiorowski
+- **Angle:** NEW STORY (informative breakdown of Game 1 pitching mismatch; Misiorowski leads MLB in ERA/FIP/WHIP/Ks simultaneously; Rea (4.99 ERA) a significant underdog; offense must carry)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, stat breakdown)
+- **Follow-Up Opportunities:**
+  - Tonight's game result; Misiorowski's line
+  - Rea's performance vs. elite starter
+
+### STORY 5: Trade Deadline — Joe Ryan Is the Answer
+- **Angle:** NEW STORY (five starters on IL → August 3 deadline calculus: get a rotation arm; Joe Ryan [Twins, 2.99 ERA, control through 2027] named best Cubs trade fit; Hoyer needs to move; deadline 38 days away)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, bold deadline analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs-Twins Ryan reporting
+  - Other rotation rental options
+  - First Cubs deadline acquisition
+
+### STORY 6: Pre-Game Hype — Cubs at American Family Field
+- **Angle:** NEW STORY (pre-game energy; Cubs riding Mets sweep momentum; Brewers 33-15 since May; stiffest test of summer; 6:45 PM CT)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's game result
+  - Series momentum going into Game 2 Saturday
+
+---
+
 ## 2026-06-25
 
 ### STORY 1: Doubleheader Sweep + Swanson 11 RBI Cubs Franchise Record

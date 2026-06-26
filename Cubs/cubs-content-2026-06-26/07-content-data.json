@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-26",
+  "compiled_at": "2026-06-26T09:15:48.601076+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Series Preview: Cubs at Brewers",
+      "type": "X Text"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Game Recap: Cubs 4, Mets 3 (10 inn.)",
+      "type": "X Text"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Boyd's Return — Rotation Silver Lining",
+      "type": "X Text"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Tonight's Matchup: Rea vs. Misiorowski",
+      "type": "X Text"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Trade Deadline: Joe Ryan Is the Answer",
+      "type": "X Text"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "Pre-Game Hype: Cubs at Milwaukee",
+      "type": "X Text"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs at Brewers (3-game road trip)",
+      "tier": 1,
+      "status": "",
+      "angle": "Series start (mandatory 7:00 AM CT slot per pipeline rules). Cubs open a 3-game road set against the NL Central-leading Brewers. Brewers swept Cubs 19-5 at Wrigley in May. Misiorowski (MLB ERA leader, 1.45) starts Game 1 vs. Rea (4.99 ERA) — massive pitching mismatch. Wild card stakes (Cubs 44-37).",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs (44-37) head to Milwaukee for Game 1 of 3 tonight vs. the Brewers (49-29) — 6:45 PM CT.\n\nMisiorowski (8-3, 1.45 ERA) starts for Milwaukee. Brewers swept Chicago 19-5 at Wrigley in May. This offense needs to show up.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 5,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Series Preview — Cubs at Brewers (3-game road trip)\n**Key facts:**\n- Cubs record: 44-37 (per series-context.json, authoritative)\n- Brewers record: 49-29 (per series-context.json, authoritative)\n- Venue: American Family Field, Milwaukee\n- Game 1: Tonight, 6:45 PM CT\n- Cubs starter: Colin Rea (5-5, 4.99 ERA, 4.83 FIP)\n- Brewers starter: Jacob Misiorowski (8-3, 1.45 ERA, 1.66 FIP, 138 Ks in 93 IP)\n- Misiorowski leads MLB in ERA, FIP, WHIP, and strikeouts simultaneously\n- Brewers swept Cubs 19-5 at Wrigley in the only prior 2026 meeting (May 18–20)\n- Brewers have gone 33-15 since start of May — season-high 20 games over .500\n- Series length: 3 games (Fri/Sat/Sun); Game 2 Sat 6:10 PM CT, Game 3 Sun 1:10 PM CT\n- Wild card context: Brewers 7 GB ahead of Cubs in NL Central; Cubs in wild card race\n**Sources:**\n- Series-context.json (game schedule, records)\n- Baseball-Reference.com previews (MIL202606260.shtml, MIL202606270.shtml, MIL202606280.shtml)\n- Yahoo Sports series preview (series-preview-milwaukee-brewers-vs-chicago-cubs)\n- Brew Crew Ball preview (brewcrewball.com)\n- Yardbarker series preview (Misiorowski stats, Brewers 33-15 run, swept Cubs 19-5 note)\n**Confidence:**\n- Cubs/Brewers records: HIGH (confirmed via series-context.json)\n- Misiorowski stats (8-3, 1.45 ERA, 1.66 FIP, 138 Ks): MEDIUM (single source preview; stats confirmed via multiple preview sites citing same data)\n- Rea stats (5-5, 4.99 ERA, 4.83 FIP): MEDIUM (Yahoo Sports preview, Baseball-Reference)\n- Brewers swept Cubs 19-5 at Wrigley: MEDIUM (multiple previews cite this fact; consistent)\n- Brewers 33-15 since May 1: MEDIUM (Yardbarker preview cites this)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game Recap — Cubs 4, Mets 3 (10 innings, June 25)",
+      "tier": 1,
+      "status": "",
+      "angle": "PCA walks it off with RBI double in the 10th off Brooks Raley. Four-game sweep of New York. Cubs 7-0 vs. Mets in 2026, outscoring them 51-24. Boyd's return: 4 2/3 scoreless IP in first start since early May. *(Pushed to 12:00 PM midday slot per performance insights — morning window is a statistically significant loser.)*",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pete Crow-Armstrong. 10th inning. RBI double. Cubs 4, Mets 3.\n\nFour-game sweep at Citi. 7-0 vs. New York in 2026, outscoring them 51-24. Boyd gave 4 2/3 scoreless innings in his return from the IL. Broken rotation, intact offense.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative/Bold",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game Recap — Cubs 4, Mets 3 (10 innings, June 25)\n**Key facts:**\n- Final score: Cubs 4, Mets 3 — 10 innings\n- Location: Citi Field, New York\n- Winning run: PCA (Pete Crow-Armstrong) RBI double off Brooks Raley in the 10th inning\n- Four-game sweep of Mets at Citi Field\n- Cubs now 7-0 vs. Mets in 2026; outscored them 51-24 across seven games\n- Matthew Boyd started — returned from IL (knee surgery from early May)\n- Boyd line: 4 2/3 IP, 0 R, 4 H, 4 BB, 4 K (~75 pitches)\n- Bullpen preserved win through extras\n- Date discrepancy note: Story history (filed June 25) says Boyd's last start was May 3; MLB/Heavy.com says \"first start since injuring knee on May 6.\" Resolution: Boyd likely last started May 3, then suffered the knee injury a few days later (May 6). Will NOT claim \"first start since May 3\" specifically — will say \"first start since early May.\"\n**Sources:**\n- ESPN game recap (gameId=401815897)\n- Fox Sports box score (foxsports.com)\n- CBS Sports gametracker (MLB_20260625_CHC@NYM)\n- MLB.com news (\"Pete Crow-Armstrong drives in winning run in Cubs win\")\n- Bleacher Nation enhanced box score (bleachernation.com June 25)\n- Heavy.com (Matthew Boyd activated article)\n**Confidence:**\n- Final score (4-3, 10 innings): HIGH (ESPN, Fox Sports, CBS Sports)\n- PCA RBI double, walk-off in 10th: HIGH (ESPN, MLB.com, multiple sources)\n- Off Brooks Raley: MEDIUM (single confirmed in search summary)\n- Cubs 7-0 vs Mets in 2026, 51-24: MEDIUM (ESPN/multiple preview sources; consistent)\n- Boyd line (4 2/3 IP, 0 R, 4 H, 4 BB, 4 K): MEDIUM (Bleacher Nation enhanced box score, consistent with Heavy.com summary)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Matthew Boyd Returns — Rotation Silver Lining",
+      "tier": 2,
+      "status": "",
+      "angle": "Bold take on Boyd's return as the lone bright spot in a decimated rotation. Five starters on the IL. Boyd delivered 4 2/3 scoreless innings and 4 Ks in his first start back. The rotation has been carnage, but Boyd is back.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Matthew Boyd. 4 2/3 scoreless innings. 4 strikeouts. First start since early May.\n\nThe rotation has eaten itself — Horton, Steele, Taillon, Brown, and Cabrera all on the IL. Boyd's return isn't a luxury at this point. It's a lifeline. And he delivered.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold/Analytical",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 278
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Matthew Boyd Returns — Rotation Silver Lining\n**Key facts:**\n- Boyd's first start back after knee surgery (meniscus, early May)\n- Last regular start: May 3 (6 IP, 2 ER, WIN per story history)\n- Injury occurred ~May 6 when playing with his children (Heavy.com)\n- Return start: 4 2/3 IP, 0 R, 4 H, 4 BB, 4 K (~75 pitches)\n- Craig Counsell called Boyd's return a \"big deal\"\n- Rotation crisis context: Horton, Steele, Taillon, Brown, Cabrera all on IL\n- Boyd was specifically activated June 24/25 as the \"lone silver lining\" per prior pipeline\n- Boyd is a veteran LHP; this is his second IL stint in 2026\n**Sources:**\n- North Side Baseball (\"Matthew Boyd Officially Back, Will Start For Cubs Today\")\n- Heavy.com (Matthew Boyd activated)\n- Bleacher Nation enhanced box score (June 25)\n- Cubs story history (Boyd arc tracked; May 3 last start, \"big deal\" Counsell quote)\n**Confidence:**\n- Boyd's return (4 2/3 scoreless): HIGH (multiple box score sources)\n- May 3 last start: MEDIUM (story history pipeline, not independently cross-checked)\n- Counsell \"big deal\" quote: MEDIUM (prior pipeline, not independently re-verified today)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Tonight's Matchup — Colin Rea vs. Jacob Misiorowski",
+      "tier": 2,
+      "status": "",
+      "angle": "Informative breakdown of tonight's pitching matchup. Misiorowski leads MLB in ERA, FIP, WHIP, and Ks simultaneously. Cubs counter with Colin Rea (4.99 ERA). The offense has to do the heavy lifting.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tonight in Milwaukee: Cubs send Colin Rea (4.99 ERA) to face Misiorowski — 8-3, 1.45 ERA, MLB leader in ERA, FIP, WHIP, and Ks.\n\nOne of these things is not like the other.\n\nThis offense has to do some HEAVY lifting tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 3,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Tonight's Matchup — Colin Rea vs. Jacob Misiorowski\n**Key facts:**\n- Misiorowski (Brewers): 8-3, 1.45 ERA, 1.66 FIP, 138 Ks in 93 IP\n- Leads MLB in ERA, FIP, WHIP, and strikeouts simultaneously (Cy Young frontrunner)\n- Rea (Cubs): 5-5, 4.99 ERA, 4.83 FIP\n- Context: Cubs using emergency depth because rotation is decimated (five starters on IL)\n- Brewers swept Cubs 19-5 at Wrigley in May with prior rotation personnel; situation is now worse\n**Sources:**\n- Brew Crew Ball series preview (Misiorowski stats, \"leads the league in ERA, FIP, WHIP, and strikeouts\")\n- Yahoo Sports series preview (Rea stats: 5-5, 4.99 ERA, 4.83 FIP)\n- Baseball-Reference preview\n**Confidence:**\n- Misiorowski stats: MEDIUM (consistent across multiple preview sites, all citing same numbers)\n- Rea stats: MEDIUM (Yahoo Sports, Baseball-Reference preview)\n- Misiorowski MLB ERA/FIP/WHIP/K leader claim: MEDIUM (stated in Brew Crew Ball preview; plausible given 1.45/1.66 stats but not cross-checked against a live leaderboard)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Trade Deadline — Joe Ryan Is the Answer",
+      "tier": 2,
+      "status": "",
+      "angle": "With five rotation arms on the IL, the Cubs' August 3 deadline calculus is blunt: get a starter or watch October slip away. Joe Ryan (Twins, 2.99 ERA, under control through 2027) is the logical top target.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Five starters on the IL. The deadline calculus couldn't be simpler: get a rotation arm or watch October slip away.\n\nJoe Ryan (Twins, 2.99 ERA, under control through 2027) is the best fit on the market. The question is what Hoyer's willing to give up.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold/Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 276
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 4,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Trade Deadline — Joe Ryan Is the Answer\n**Key facts:**\n- Cubs' IL list: Horton, Steele, Taillon, Brown, Cabrera\n- Trade deadline: August 3, 2026\n- Joe Ryan (Minnesota Twins): 2.99 ERA, 99 Ks in 87.1 IP; under control through 2027\n- Named the \"best trade fit\" for Cubs by Heavy.com\n- Twins would want multiple top prospects in return\n- Other options: Sandy Alcantara, Robbie Ray, Frankie Peralta, Tarik Skubal (higher price)\n- Clay Holmes (previous top target) now out — fractured tibia (covered in June 24 pipeline)\n**Sources:**\n- Heavy.com (\"Chicago Cubs Named Best Trade Fit for Twins Star Pitcher\")\n- CBS Sports MLB trade rumors (Ryan mention)\n- Yahoo Sports/roundtable.io (top Cubs deadline target)\n- MLB Trade Rumors (Cubs rumors page)\n- ESPN Jeff Passan early deadline preview\n**Confidence:**\n- Joe Ryan stats (2.99 ERA, 99 Ks, 87.1 IP): MEDIUM (single primary source via search; plausible)\n- Ryan under control through 2027: MEDIUM (Heavy.com: \"won't be a free agent until after the 2027 season\")\n- Ryan as Cubs' top target: MEDIUM (Heavy.com, CBS Sports both name him; consistent)\n- Deadline date August 3: HIGH (standard MLB deadline, confirmed multiple sources)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Cubs at American Family Field",
+      "tier": 2,
+      "status": "",
+      "angle": "Pre-game energy post for tonight's 6:45 PM CT first pitch. Cubs riding seven-game winning streak vs. Mets momentum into the toughest test of the summer vs. the Brewers.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Cubs at American Family Field. 6:45 PM CT. Game 1 of 3 vs. a Brewers team that's gone 33-15 since May.\n\nThis is the stiffest test of the summer. Let's see if last week's momentum carries into Milwaukee.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold/Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 0,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pre-Game Hype — Cubs at American Family Field\n**Key facts:**\n- Game 1 tonight: 6:45 PM CT\n- Cubs 44-37 riding momentum from 7-0 Mets sweep\n- Toughest test of summer: Brewers 49-29, playing .686 ball since May\n- First road trip to American Family Field this season\n- Both probables TBD for Games 2–3 (per series-context.json)\n**Sources:**\n- Series-context.json (game times, probables status)\n- All series preview sources above\n**Confidence:**\n- Game time (6:45 PM CT): HIGH (series-context.json)\n- Brewers 49-29, 33-15 since May: HIGH (series-context.json for record; confirmed in previews for the run)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
