@@ -1,0 +1,312 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-26",
+  "compiled_at": "2026-06-26T11:25:51.492146+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "description": "X",
+      "type": "Story 1"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Facebook",
+      "type": "Story 1"
+    },
+    {
+      "time": "10:00 AM",
+      "description": "X",
+      "type": "Story 2"
+    },
+    {
+      "time": "10:15 AM",
+      "description": "Facebook",
+      "type": "Story 2"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "X",
+      "type": "Story 3"
+    },
+    {
+      "time": "12:15 PM",
+      "description": "Facebook",
+      "type": "Story 3"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "X",
+      "type": "Story 4"
+    },
+    {
+      "time": "2:15 PM",
+      "description": "Facebook",
+      "type": "Story 4"
+    },
+    {
+      "time": "5:00 PM",
+      "description": "X",
+      "type": "Story 5"
+    },
+    {
+      "time": "5:15 PM",
+      "description": "Facebook",
+      "type": "Story 5"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austrian GP Opens — Red Bull's Biggest Upgrade and Last-Ditch Effort to Keep Verstappen",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Red Bull arrives at Austria with their biggest upgrade of 2026 — new sidepod profile + revised floor. Weight target met at 768kg. Verstappen has 6 wins at the Red Bull Ring. This is their last-ditch effort. 🏁 #F1Fanrecap #AustrianGP #RedBull",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#AustrianGP",
+            "#RedBull"
+          ],
+          "char_count": 241
+        },
+        {
+          "label": "Post 1-2",
+          "text": "That Red Bull Ring exit clause isn't just rumor — it activates at summer break. No. 1 driver in the world, biggest home upgrade, highest-stakes race in years. Austria this weekend is must-watch F1. #F1Fanrecap #AustrianGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#AustrianGP",
+            "#F1"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-red-bull-biggest-upgrade-austrian-gp.html",
+        "headline": "Red Bull Brings Their Biggest Upgrade of 2026 to Austria — With Verstappen's Future Riding on It",
+        "word_count": 885
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Opens — Red Bull's Biggest Upgrade\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Driver graphic\n- **Imagn search term:** \"Max Verstappen Red Bull\"\n- **Canva overlay text:** \"RED BULL'S LAST STAND / BIGGEST UPGRADE EVER / AUSTRIAN GP 2026\"\n- **Color scheme:** Red Bull navy and red (#1E2748, #CC1E1E), white text\n- **Mood:** High-stakes, urgent, defiant\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Imagn search term:** \"Max Verstappen Red Bull\"\n- **Alt text:** \"Max Verstappen driving the Red Bull RB22 at the Red Bull Ring during the 2026 Austrian Grand Prix\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Antonelli vs Hamilton — Championship Math at Austria",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Championship standings heading into Austria: Antonelli 156 pts. Hamilton 115 pts. That's a 41-point gap with 15 races left. Hamilton needs a 2.7-pt/race swing just to stay alive. The math is brutal. #F1Fanrecap #F1 #AustrianGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#AustrianGP"
+          ],
+          "char_count": 226
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Hamilton's 106th win in Barcelona was Ferrari's first under him. Russell sits No. 3 at 106 pts — only 9 behind Hamilton. The title fight isn't over but Austria could define who's really chasing Antonelli. #F1Fanrecap #Ferrari #Mercedes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#Ferrari",
+            "#Mercedes"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-antonelli-hamilton-championship-math-austria.html",
+        "headline": "15 Races Left, 41 Points to Erase: How Austria Shapes the F1 Championship",
+        "word_count": 836
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli vs Hamilton Championship Math\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Driver graphic — Antonelli\n- **Imagn search term:** \"Kimi Antonelli Mercedes\"\n- **Canva overlay text:** \"156 vs 115 / 41 POINTS BACK / 15 RACES LEFT\"\n- **Color scheme:** Mercedes silver and teal (#00D2BE, #C0C0C0), white text\n- **Mood:** Championship intensity, data-forward, competitive\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Imagn search term:** \"Lewis Hamilton Ferrari\"\n- **Alt text:** \"Lewis Hamilton driving for Ferrari at the 2026 Spanish Grand Prix where he claimed his 106th career win\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen's Summer Break Decision — The Exit Clause Activates",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Verstappen's exit clause triggers at summer break. Red Bull shareholders are split — Thai faction vs. Mateschitz estate. Mercedes is the frontrunner. Retirement hasn't been ruled out. Austria just became a lot more than a race. #F1Fanrecap #F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-exit-clause-summer-break.html",
+        "headline": "Verstappen's Clock Is Ticking: What the Summer Break Exit Clause Really Means",
+        "word_count": 837
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Summer Break Decision\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Driver graphic\n- **Imagn search term:** \"Max Verstappen Red Bull\"\n- **Canva overlay text:** \"EXIT CLAUSE / SUMMER BREAK DECISION / WHERE DOES MAX GO?\"\n- **Color scheme:** Red Bull navy (#1E2748) fading to Mercedes silver, white text\n- **Mood:** Uncertainty, transition, high drama\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Imagn search term:** \"Max Verstappen Mercedes\"\n- **Alt text:** \"Max Verstappen at a Formula 1 paddock event, with Mercedes branding visible in background\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Mercedes W17 Diffuser Ban Takes Effect at Austrian GP",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The FIA has banned Mercedes' serrated diffuser effective this weekend in Austria. Ferrari triggered the protest — and already had an approved alternative ready. Mercedes' freight was en route when the ruling landed. #F1Fanrecap #AustrianGP #Mercedes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#AustrianGP",
+            "#Mercedes"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-mercedes-diffuser-ban-austria.html",
+        "headline": "Ferrari Triggered the FIA Diffuser Ban — And Mercedes Must Comply in Austria",
+        "word_count": 824
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mercedes W17 Diffuser Ban Takes Effect\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Car/technical graphic\n- **Imagn search term:** \"Kimi Antonelli Mercedes\"\n- **Canva overlay text:** \"DIFFUSER BANNED / FIA RULES AGAINST MERCEDES / AUSTRIA 2026\"\n- **Color scheme:** Mercedes silver and teal (#00D2BE, #C0C0C0), bold red accent for \"BANNED\"\n- **Mood:** Technical controversy, disruption, competitive tension\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Imagn search term:** \"Mercedes AMG Formula 1\"\n- **Alt text:** \"Mercedes AMG W17 Formula 1 car showing rear diffuser area, 2026 Austrian Grand Prix\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Cadillac F1 — 0 Points, 7 Races, Their Biggest Upgrade Yet",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cadillac F1: 7 races, 0 points. Their Austrian GP upgrade specifically targets a rear instability issue causing a performance cliff around lap 15. The margin for error is gone. #F1Fanrecap #AustrianGP #CadillacF1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#AustrianGP",
+            "#CadillacF1"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-cadillac-f1-zero-points-biggest-upgrade.html",
+        "headline": "Cadillac F1 Brings Their Biggest Upgrade to Austria in a Season of Zero Points",
+        "word_count": 516
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cadillac F1 — 0 Points in 7 Races\n\n#### Image Concept 1 — Social Post (1080x1350)\n- **Type:** Car graphic\n- **Imagn search term:** \"Cadillac Formula 1\"\n- **Canva overlay text:** \"0 POINTS / 7 RACES / CAN AUSTRIA CHANGE EVERYTHING?\"\n- **Color scheme:** Cadillac black and gold (#B8963E, #1A1A1A), white text\n- **Mood:** Underdog urgency, breakthrough-seeking, gritty\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Imagn search term:** \"Cadillac Formula 1\"\n- **Alt text:** \"Cadillac Formula 1 car on track during the 2026 Formula 1 season\""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

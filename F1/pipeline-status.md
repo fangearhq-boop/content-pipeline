@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-25
+- **Date**: 2026-06-26
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-26
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-26.xlsx (7 posts) + f1fr-postplanner-tobi-2026-06-26.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-26/review-dashboard.html (22 items)
+- **Notes:** Austrian GP weekend opens (FP1 June 26/Qual June 27/Race June 28); Red Bull biggest upgrade ever (new sidepod+floor/768kg met/"last-ditch effort"/Verstappen 6 wins here); Antonelli 156-Hamilton 115 (41-pt gap after Barcelona win #106/1st Ferrari/was 66 gap/Hamilton needs 2.7 pts/race/15 races left); Verstappen exit clause activates summer break (P7/shareholders split/Mercedes frontrunner/retirement not ruled out); Mercedes diffuser ban effective Austria (Ferrari triggered ban+had alt pre-approved/freight en route when announced); Cadillac 0 pts/7 races/biggest upgrade/lap-15 tire cliff target
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-25
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

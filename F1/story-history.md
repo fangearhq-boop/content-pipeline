@@ -3183,3 +3183,47 @@
 - **Key facts:** After 7/22 races: Antonelli 156/Hamilton 115/Russell 106/Leclerc 75/Norris 73; Mercedes constructors 262/Ferrari 190; Hamilton needs avg 2.7 pts/race advantage over 15 races; triple-header starts Austrian GP; Mercedes battery crisis (3 failures 3 teams) — Wolff promised fix for Austria
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Standings after Austrian GP
+## 2026-06-26
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-26 | T1 | Austrian GP Opens — Red Bull's Biggest Upgrade and Last-Ditch Effort to Keep Verstappen | X, FB, Article | NEW |
+| 2026-06-26 | T1 | Antonelli vs Hamilton — Championship Math at Austria | X, FB, Article | FOLLOW UP |
+| 2026-06-26 | T2 | Verstappen's Summer Break Decision — The Exit Clause Activates | X, FB, Article | FOLLOW UP |
+| 2026-06-26 | T2 | Mercedes W17 Diffuser Ban Takes Effect at Austrian GP | X, FB, Article | FOLLOW UP |
+| 2026-06-26 | T2 | Cadillac F1 — 0 Points, 7 Races, Their Biggest Upgrade Yet | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Austrian GP Opens — Red Bull's Biggest Upgrade
+- **Tier:** 1
+- **Category:** F1 / Austrian GP / Red Bull
+- **Key facts:** New sidepod profile + redesigned floor; 768kg weight requirement met; Red Bull Ring FP1 June 26/Qual June 27/Race June 28; Verstappen 6 wins at Red Bull Ring; exit clause activates at summer break (Verstappen P7, impossible to reach top-2); "last-ditch effort" to keep Verstappen
+- **Status:** NEW
+- **Follow-up ideas:** FP1/FP2 results; qualifying Saturday; race result Sunday
+
+### STORY 2: Antonelli vs Hamilton Championship Math
+- **Tier:** 1
+- **Category:** F1 / Championship
+- **Key facts:** Antonelli 156-Hamilton 115 (41-pt gap); Hamilton 106th career win/1st Ferrari win at Barcelona; gap was 66 before Barcelona; Russell 3rd 106 pts; 15 races left; Hamilton needs 2.7 pts/race advantage; Antonelli 2 DNFs from race leads (Canada/Barcelona); diffuser ban hurts Mercedes
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austrian GP result; championship standings update
+
+### STORY 3: Verstappen Summer Break Exit Clause
+- **Tier:** 2
+- **Category:** F1 / Driver Market
+- **Key facts:** Exit clause triggers at summer break if not in top-2; Verstappen P7 ~55 pts; Red Bull shareholders split (Thai for buyout; Mateschitz estate + Mintzlaff against); offered contract to 2032 declined; Mercedes frontrunner; retirement not ruled out; Marko: "impossible to block"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen confirms Mercedes move; Red Bull replacement announced
+
+### STORY 4: Mercedes W17 Diffuser Ban
+- **Tier:** 2
+- **Category:** F1 / Technical / FIA
+- **Key facts:** FIA banned serrated diffuser June 24 effective Austrian GP; freight en route when ban announced; Ferrari triggered ban + had alternative pre-approved; removes Mercedes aero advantage at critical championship moment
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Mercedes performance impact in FP1/FP2; technical analysis post-qualifying
+
+### STORY 5: Cadillac F1 Zero Points
+- **Tier:** 2
+- **Category:** F1 / Cadillac / Backmarkers
+- **Key facts:** 0 pts through 7 races; only team without a point; biggest upgrade targets lap-15 tire cliff; rear instability issue; floor geometry + rear suspension changes; Williams/Haas/Audi all have points; Austrian GP is target opportunity
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First Cadillac points; upgrade assessment FP1/FP2
