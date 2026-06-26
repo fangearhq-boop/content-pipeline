@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-26
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-26 | T1 | Travelers Championship R2 — Scheffler Chases Cole at TPC River Highlands | X, FB, Article | FOLLOW UP |
+| 2026-06-26 | T1 | Nelly Korda's KPMG Quest — History 7 Back After Round 1 | X, FB, Article | FOLLOW UP |
+| 2026-06-26 | T2 | Wyndham Clark at Travelers — US Open Champ Eyes Back-to-Back Statement | X, FB, Article | FOLLOW UP |
+| 2026-06-26 | T2 | LIV Golf Crisis — Louisiana Cancelled, PIF Ending Funding After 2026 | X, FB, Article | FOLLOW UP |
+| 2026-06-26 | T2 | KPMG Round 2 — Ina Yoon's Record Lead, Korda Must Charge | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Travelers Championship R2 — Scheffler Chases Cole
+- **Tier:** 1
+- **Category:** PGA Tour / Signature Event
+- **Key facts:** Eric Cole 63 (-7) R1 leader; Scheffler 64 (-6) one back; Bradley -5 defending champ; Clark -2 triple bogey hole 12; R2 underway TPC River Highlands Cromwell CT; $20M purse; no cut format; Scheffler 8 top-5s 1 win 2026; 157 weeks at No. 1
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2 leaders; weekend pairings; final result
+
+### STORY 2: Nelly Korda KPMG History Quest
+- **Tier:** 1
+- **Category:** LPGA / Major / Korda
+- **Key facts:** Korda -2 after R1; 7 back of Ina Yoon -9; double bogey hole 16 (ball in pond); Yoon tied Hazeltine course record 63 (-9); Davidson -7; won 2026 Chevron + 2026 US Women's Open; chasing 3 consecutive majors (last: Inbee Park 2013); $13M record purse; Hazeltine National 6800+ yards
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Korda R2 round; whether gap closes; final result
+
+### STORY 3: Wyndham Clark at Travelers
+- **Tier:** 2
+- **Category:** PGA Tour / Major Champions
+- **Key facts:** Clark won 2026 US Open Shinnecock Hills wire-to-wire -4; triple bogey hole 12 Travelers R1; finished -2; 5 back of Cole; 2-time major winner (2023 US Open + 2026 US Open)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Clark R2 performance; whether he makes Sunday run
+
+### STORY 4: LIV Golf Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** Louisiana event cancelled; PIF ending LIV funding after 2026; $5B+ invested; only $200M of $600M needed received; CEO Sean O'Neil seeks $250-350M; new board Gene Davis + Jon Zinman; 4 remaining events uncertain; bridge lending facility in place
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Investment announcement; additional event cancellations; player response
+
+### STORY 5: KPMG R2 — Ina Yoon Leads
+- **Tier:** 2
+- **Category:** LPGA / Major / KPMG
+- **Key facts:** Ina Yoon 63 (-9) tied Hazeltine course record; leads KPMG R1; 2 clear of Karis Davidson -7; Korda -2 7 back; Yoon South Korean LPGA top-40 player; Davidson Australian; 3 rounds remain
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R2 leaderboard update; whether Yoon holds lead; Korda charge
+
 ## 2026-06-25
 
 | Date | Tier | Story | Platforms | Status |

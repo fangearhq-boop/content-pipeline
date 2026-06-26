@@ -1,0 +1,291 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-26",
+  "compiled_at": "2026-06-26T11:41:32.964557+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Travelers Championship R2 — Scheffler Chases Cole at TPC River Highlands",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Travelers Championship R1 final: Eric Cole leads at -7. Scottie Scheffler is 1 back at -6. World No. 1 chasing his 2nd win of 2026. R2 underway at TPC River Highlands. Cole vs. the machine. #Travelers #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Travelers",
+            "#PGATour"
+          ],
+          "char_count": 209
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Scottie Scheffler has 8 top-5s in 13 starts in 2026. One win. 157 straight weeks at No. 1. He's 1 shot back of Eric Cole at the Travelers. The best player in the world is hunting. #Scheffler #PGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Scheffler",
+            "#PGATour"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-travelers-r2-scheffler-chases-cole.html",
+        "headline": "Scheffler Is One Back. Eric Cole Has the Lead. The Travelers Just Got Interesting.",
+        "word_count": 829
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "X Post (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [
+            "R2 UNDERWAY | TPC RIVER HIGHLANDS"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Nelly Korda's KPMG Quest — History 7 Back After Round 1",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Nelly Korda is 7 back at the KPMG but don't count her out. She won the Chevron and the US Women's Open in 2026. Win here = 3 consecutive majors in one year. Only Inbee Park has done it (2013). #KPMG #NellyKorda",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#KPMG",
+            "#NellyKorda"
+          ],
+          "char_count": 210
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Nelly Korda's KPMG R1: everything was fine until hole 16. Ball in the pond. Double bogey. She finishes at -2, 7 back of Ina Yoon's record-tying 63. Three rounds remain. #KPMG #Korda",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#KPMG",
+            "#Korda"
+          ],
+          "char_count": 181
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-korda-kpmg-history-7-back.html",
+        "headline": "Korda Is Seven Back. The KPMG Has Three Rounds Left. History Is Still Alive.",
+        "word_count": 767
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3",
+          "size_desc": "X Post (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4",
+          "size_desc": "Facebook (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Wyndham Clark at Travelers — US Open Champ Eyes Back-to-Back Statement",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Wyndham Clark won the 2026 US Open at Shinnecock Hills wire-to-wire. He's at -2 after R1 at Travelers despite a triple bogey on hole 12. Back-to-back wins? The momentum is real. #WyndhamClark #Travelers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WyndhamClark",
+            "#Travelers"
+          ],
+          "char_count": 202
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-clark-travelers-us-open-momentum.html",
+        "headline": "Clark Survived a Triple Bogey. The US Open Champion Is Still in the Travelers Hunt.",
+        "word_count": 708
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5",
+          "size_desc": "X Post (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "LIV Golf Crisis — Louisiana Cancelled, PIF Ending Funding After 2026",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LIV Golf Louisiana is cancelled. PIF confirmed it's ending LIV funding after 2026. The league spent $5B+, received ~$200M of $600M needed. CEO Sean O'Neil is hunting $250-350M to survive. 4 events remain uncertain. #LIVGolf",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#LIVGolf"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-liv-golf-crisis-louisiana-cancelled.html",
+        "headline": "LIV Golf's Louisiana Event Is Cancelled. The League's Future May Be Next.",
+        "word_count": 781
+      },
+      "image_concepts": [
+        {
+          "label": "Image 6",
+          "size_desc": "X Post (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "KPMG Round 2 — Ina Yoon's Record Lead, Korda Must Charge",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Ina Yoon fired a record-tying 63 at Hazeltine in KPMG R1. She leads at -9, 2 clear of Karis Davidson. Nelly Korda is 7 back at -2. History is chasing. Who holds the lead in R2? #KPMG #LPGATour",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#KPMG",
+            "#LPGATour"
+          ],
+          "char_count": 192
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-kpmg-r2-yoon-leads-korda-charges.html",
+        "headline": "Ina Yoon Tied the Record. Korda Is Seven Back. The KPMG Is Just Getting Started.",
+        "word_count": 858
+      },
+      "image_concepts": [
+        {
+          "label": "Image 7",
+          "size_desc": "X Post (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

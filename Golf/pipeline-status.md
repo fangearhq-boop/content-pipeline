@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-25
+- **Date**: 2026-06-26
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-26
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-06-26.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-26.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-26/review-dashboard.html (22 items)
+- **Notes:** Travelers R2 underway TPC River Highlands; Cole -7 leads after R1/Scheffler -6 one back/157 weeks No.1/8 top-5s 1 win 2026/Bradley defending -5/Clark -2 triple bogey hole 12 US Open champ; KPMG R1 complete Hazeltine Chaska MN $13M record purse; Yoon 63 (-9) ties course record/Davidson -7/Korda -2 double bogey 16 pond/7 back/chasing 3 consecutive majors (Chevron+US Women's Open won/only Inbee Park 2013)/54 holes remain; LIV Louisiana cancelled/PIF ending funding after 2026/$5B+ spent/$200M of $600M received/O'Neil seeking $250-350M/4 events uncertain/new board Gene Davis+Jon Zinman
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
 
 ### 2026-06-25
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
