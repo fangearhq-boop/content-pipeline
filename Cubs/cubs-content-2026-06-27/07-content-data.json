@@ -1,0 +1,210 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-27",
+  "compiled_at": "2026-06-27T09:21:40.639480+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Brewers 6, Cubs 2 (June 26)",
+      "tier": 1,
+      "status": "",
+      "angle": "Misiorowski dominant (6 IP, 1 ER, 8 K). Seiya Suzuki homered for Cubs' only real moment. Cubs fall to 44-38 and need Imanaga to respond tonight. Lead story.",
+      "posting_window": "7:00 AM CT (mandatory — game recap always in first available slot)",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Brewers 6, Cubs 2. Jacob Misiorowski was absolutely dominant.\n\n6 innings. 1 run. 8 strikeouts. Seiya Suzuki homered — Chicago's one real punch all night. Cubs fall to 44-38 and need Imanaga to answer tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative — Overnight game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game Recap — Brewers 6, Cubs 2 (June 26)\n- Final score: Brewers 6, Cubs 2 [HIGH — 3+ sources]\n- Misiorowski: 6 IP, 1 ER, 8 K [HIGH — box score]\n- Seiya Suzuki: solo HR + 2 RBI (drove in both Cubs runs) [HIGH — ESPN/MLB.com game story]\n- Rea started for Cubs: 5 IP, 1 ER [MEDIUM — Bleacher Nation]\n- Cubs record: 44-38 [HIGH — 44-37 pre-game + 1 loss]",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game Preview — Imanaga Takes the Ball Tonight",
+      "tier": 2,
+      "status": "",
+      "angle": "Cubs send their best starter to the mound after last night's loss. 6:10 PM CT at American Family Field. Imanaga vs. the best team in baseball (50-29 Brewers). Bounce-back game.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Shota Imanaga gets the ball tonight — and the Cubs need him.\n\nAfter Misiorowski shut them down, Chicago turns to its best arm. 6:10 PM CT at American Family Field. Imanaga vs. the best team in baseball.\n\nTime to bounce back.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative — Game preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game Preview — Imanaga Tonight\n- Game time: 6:10 PM CT at American Family Field [HIGH — series-context.json]\n- Imanaga probable for Cubs [MEDIUM — Bleacher Nation series preview June 24; snapshot TBD]\n- Brewers probable: Unknown — not cited\n- Brewers record: 50-29 [HIGH — series-context.json]\n- Do NOT cite Imanaga ERA (stale; last known 2.32 from June 21 pipeline)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Pete Crow-Armstrong — The June for the Ages",
+      "tier": 2,
+      "status": "",
+      "angle": "PCA's June: 10 HRs, .867 SLG, .410/.474/.867 slash in 20 games. Season: .287/.367/.521, 17 HR, 18 SB. Not a hot streak — a historic month. The 24-year-old is carrying this offense.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong in June: 10 HRs. .867 slugging. 20 games.\n\nHe's not on a hot streak. He's in the middle of one of the best offensive months in Cubs history. The 24-year-old center fielder is CARRYING this team right now.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold/Passionate — Player feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 252
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong\n- June stats: 10 HR, .867 SLG in 20 games [MEDIUM — aggregator, widely reproduced]\n- PCA age: 24 (born Jan 18, 2002) [HIGH]\n- \"One of the best offensive months in Cubs history\" — directional claim, hedged",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Jaxon Wiggins — Elbow Inflammation at Iowa",
+      "tier": 2,
+      "status": "",
+      "angle": "Cubs' top pitching prospect dealing with elbow inflammation after just 2 Iowa starts. Five starters already on the IL. The farm depth the Cubs were counting on is getting thinner.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jaxon Wiggins — elbow inflammation after just 2 Iowa starts.\n\nThe Cubs' top pitching prospect was supposed to add rotation depth down the line. Five starters already on the IL. This depth chart is getting thinner by the week.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative — Prospect/injury news",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Jaxon Wiggins\n- Wiggins: top pitching prospect, elbow inflammation after 2 Iowa starts [MEDIUM — single source: North Side Baseball June 26]\n- Five starters on IL [HIGH — confirmed]\n- Hedged with \"dealing with\" language; no timeline projected",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Watch — Cubs Slip, Cardinals Lurk",
+      "tier": 2,
+      "status": "",
+      "angle": "After last night's loss, Cubs at 44-38. Cardinals (~42-36 entering yesterday) within a razor-thin margin in win percentage. 37 days until the August 3 trade deadline. The rotation urgency intensifies.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs fall to 44-38. The NL wild card lead is paper-thin — and it might already be gone.\n\nThe Cardinals are right there in win percentage with 37 days until the August 3 deadline. Chicago cannot keep losing ground with the rotation this broken.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold/Analysis — Standings/race analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Watch\n- Cubs 44-38 [HIGH]\n- Cardinals ~42-36 entering June 26 [MEDIUM — pre-game 26 data]\n- August 3 deadline = 37 days from June 27 [HIGH — calculated]\n- Cardinals exact current record not confirmed; directional language only",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Hype — Cubs vs. Brewers, Game 2",
+      "tier": 2,
+      "status": "",
+      "angle": "6:10 PM CT, American Family Field. Imanaga on the mound against the best team in baseball. Last night stung — tonight the Cubs need to answer.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "6:10 PM CT. American Family Field. Cubs vs. Brewers.\n\nImanaga on the mound against the 50-29 Brewers — the best team in baseball. Last night stung. Tonight, the Cubs need to split this series before Sunday.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold/Hype — Pre-game energy",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 230
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype\n- Game: 6:10 PM CT, American Family Field [HIGH]\n- Brewers 50-29 [HIGH — series-context.json]\n- Imanaga probable [MEDIUM]",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

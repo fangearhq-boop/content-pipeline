@@ -5,6 +5,57 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-27
+
+### STORY 1: Game Recap — Brewers 6, Cubs 2 (June 26)
+- **Angle:** NEW STORY (Misiorowski dominated: 6 IP, 1 ER, 8 K; Suzuki HR for both Cubs RBIs; Cubs fall to 44-38; Game 2 tonight 6:10 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, mandatory overnight recap)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 2 result (recap June 28)
+  - Series split/sweep stakes going into Sunday
+
+### STORY 2: Game Preview — Imanaga Takes the Ball Tonight
+- **Angle:** NEW STORY (Imanaga starts Game 2 at 6:10 PM CT, American Family Field; bounce-back game after Misiorowski shut down Cubs; Brewers 50-29)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Imanaga's pitching line from tonight
+  - Game 3 Sunday 1:10 PM CT preview
+
+### STORY 3: Pete Crow-Armstrong — June for the Ages
+- **Angle:** NEW STORY (June stats: 10 HR, .867 SLG in 20 games; season: .287/.367/.521, 17 HR, 18 SB; 24-year-old CARRYING offense during rotation crisis)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold player feature)
+- **Follow-Up Opportunities:**
+  - PCA All-Star selection
+  - 20 HR / 20 SB milestone tracking
+
+### STORY 4: Jaxon Wiggins — Elbow Inflammation at Iowa
+- **Angle:** NEW STORY (Cubs' top pitching prospect dealing with elbow inflammation after just 2 Iowa starts; five starters on IL; rotation depth thinning)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, prospect/injury news)
+- **Follow-Up Opportunities:**
+  - Wiggins diagnosis/timeline update
+  - Cubs response to losing top pitching prospect depth
+
+### STORY 5: Wild Card Watch — Cubs Slip After Loss
+- **Angle:** FOLLOW UP (Cubs 44-38; Cardinals ~42-36 pre-June 26; wild card race essentially tied; 37 days to August 3 deadline; rotation urgency)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Cardinals June 26-27 result (vs. Marlins)
+  - Wild card standings update after tonight's game
+
+### STORY 6: Pre-Game Hype — Cubs vs. Brewers Game 2
+- **Angle:** NEW STORY (pre-game energy for 6:10 PM CT; Imanaga on the mound; Cubs need to split series before Sunday; Brewers 50-29)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's game result
+
+---
+
 ## 2026-06-26
 
 ### STORY 1: Series Preview — Cubs at Brewers (Game 1 of 3)
