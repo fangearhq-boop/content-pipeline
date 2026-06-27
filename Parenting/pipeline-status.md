@@ -1,6 +1,45 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: June 26, 2026
+## Latest Run: June 27, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | MedPride Baby Oil recall (cpsc.gov official; Shield Line June 25, 2026; ~8,420 units; Amazon; clear bottle/pink cap/white-pink label/MedPride logo in pink; not child-resistant per PPPA; low-viscosity hydrocarbons → chemical pneumonia/fatal pulmonary damage if swallowed; no incidents; photo in trash + refund from Shield Line; cpsc.gov / 1-800-638-2772); 4th of July COS 2026 (visitcos.com/coloradospringssports.org; America's 250th + CO 150th; Ford Amphitheater ticketed gates 5:30 PM/show 6:30 PM/Dolly Parton+Tina Turner+Star Wars+1812 Overture/fireworks ~9 PM; Banning Lewis Ranch free/2 bands/30 food trucks/fireworks at dusk; Palmer Lake free/4–10 PM/fireworks ~9:15 PM; Rock Ledge Ranch admission/10 AM–4 PM/no fireworks); Rosemont Reservoir (coloradopolitics.com/koaa.com; 12 miles SW COS at 9,600+ ft; CS Utilities + CPW partnership; July 4 target not confirmed; basic campsites/day-use/ADA restrooms/non-motorized boating; no swimming; State Parks Pass + camping fee; CPW reservations); PPLD Summer Adventure (ppld.org/summer; through July 31; 5 weeks left; 30-day challenge; Beanstack; all ages free; grand prize Broadmoor Cloud Camp stay; 14 locations + 2 bookmobiles); AAP Screen Time 2026 (healthychildren.org/aap.org; quality+context framework; under 18mo no screens; 18–24mo co-viewed; 2–5yr max 1hr/day; 6+ consistent limits; COS alternatives: America the Beautiful Park/Garden of the Gods/PPLD) |
+| Story History Check | COMPLETE | 3 NEW STORIES (MedPride recall, 4th of July guide, Screen Time AAP) + 2 FOLLOW-UPS (Rosemont Reservoir — first covered June 1; PPLD Summer Adventure — first covered June 5); confirmed against story-history.md |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 for S1, 2 for S2, 1 each for S3/S4/S5); char violations on first run (single-line counts missed newlines + bare domain actual length); rewrote as compact single-block tweets; second run passed; all under 280 chars; 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules; ### STORY N: format |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (2 per story: 1080x1350 social + 1200x630 Facebook); clean bottom third; no celebrity likenesses |
+| Image Manifest | COMPLETE | 07-image-manifest.md — markdown list format; 10 images; all not_started; photo_source: gemini; gemini_mode: base_only; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-800 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5) |
+| Fact-Check | COMPLETE | verify-facts.py passed (2 runs); 60 claims; HIGH: 141, MEDIUM: 1, LOW: 44; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-27.xlsx (7 posts, 13:09–20:39 MT) + TOBI cosp-postplanner-tobi-2026-06-27.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-27)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 X posts)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-27.xlsx (7 posts, 13:09–20:39 MT), cosp-postplanner-tobi-2026-06-27.xlsx (7 TOBI posts)
+- **Coverage:** MedPride Baby Oil recall (Shield Line June 25, 2026; ~8,420 units; Amazon; clear bottle/pink cap/white-pink label; not child-resistant per PPPA; petroleum distillates → fatal lung damage if swallowed; no incidents; secure immediately + photo in trash + refund from Shield Line; cpsc.gov / 1-800-638-2772); Colorado Springs 4th of July 2026 family guide (America's 250th + CO 150th; Ford Amphitheater ticketed/CS Philharmonic/gates 5:30 PM/show 6:30 PM/Dolly Parton+Tina Turner+Marvin Gaye+Star Wars+1812 Overture+Stars and Stripes/fireworks ~9 PM/95 Spectrum Loop; Banning Lewis Ranch Vista Park free/2 live bands/30 food trucks/fireworks at dusk; Palmer Lake Centennial Park free/4–10 PM/fireworks ~9:15 PM/vendors/family activities; Rock Ledge Ranch admission/10 AM–4 PM/carnival games+pie-eating+historical interpreters+patriotic music/no fireworks); Rosemont Reservoir opening update (follow-up; ~12 mi SW COS/9,600+ ft/south side Pikes Peak; CS Utilities + CPW + CO Dept Natural Resources; basic campsites+day-use parking+ADA restrooms+non-motorized boating kayak/canoe/paddleboard/electric; no swimming/wading; State Parks Pass or Keep Colorado Wild pass + camping fee; CPW reservation system; target opening July 4 not confirmed); PPLD Summer Adventure reminder (follow-up; June 1–July 31; 5 weeks left; 30 days reading/creating/exploring non-consecutive; ppld.beanstack.org; 14 locations + 2 bookmobiles; all ages free; grand prizes: Pikes Peak Region Attractions VIP pass + one-night stay Broadmoor Cloud Camp; family fun concerts throughout June/July); AAP 2026 screen time guidance (quality+context framework; under 18mo no screens except video calls; 18–24mo high-quality co-viewed; ages 2–5 max 1hr/day co-viewed+discussed; ages 6+ consistent limits protecting sleep/physical activity/family time/free play; summer risk: screens fill unstructured time; COS alternatives: America the Beautiful Park Julie Penrose Fountain/Garden of the Gods trails/PPLD Summer Adventure through July 31; healthychildren.org)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (Niche 1 completed June 27)
+  - X posts char violations on initial draft (single-line char counts in file missed newline chars + bare domain names counted at actual length not 23 chars). Fixed by rewriting as compact single-paragraph tweets. Second verify-facts run passed.
+  - Compile: 7 X posts, 0 FB posts (parser compatibility — same as all prior runs); 22 dashboard items; posting window warnings cosmetic
+  - Image manifest warnings cosmetic (same as all prior Parenting runs — gemini images generated separately via Canva)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from June 26's Sarah Morales [S1, S3, S5])
+
+---
+
+## Prior Run: June 26, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

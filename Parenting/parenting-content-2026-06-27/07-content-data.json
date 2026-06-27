@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-27",
+  "compiled_at": "2026-06-27T12:39:22.453472+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Recall — MedPride Baby Oil Bottles Lack Child-Resistant Packaging",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "MedPride Baby Oil recalled — ~8,420 bottles. Packaging not child-resistant: petroleum distillates can fatally damage lungs if swallowed. Secure it now and contact Shield Line for a full refund.\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 253
+        },
+        {
+          "label": "Post 1-2",
+          "text": "MedPride Baby Oil recall: clear bottle, pink cap, white-and-pink label. ~8,420 sold on Amazon. Packaging not child-resistant — fatal if swallowed. Secure it and request a refund from Shield Line. cpsc.gov\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-medpride-baby-oil-recall-safety-guide.html",
+        "headline": "MedPride Baby Oil Recalled: What Colorado Springs Parents Need to Know",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "MedPride Baby Oil Recall\n\n**Social (1080x1350):**\n- Gemini prompt: \"A concerned parent in a warm, well-lit bathroom carefully reading the back of a small bottle, with a young toddler visible in the background sitting in a baby seat. The scene conveys safety awareness and attentiveness. Soft teal and cream color palette. Photorealistic, diverse representation, Colorado Springs family feel. Clean bottom third of the frame with soft white gradient for text overlay. No product labels visible.\"\n- Status: not_started\n- Alt text: Parent reading product label carefully with child in background\n\n**Facebook Social (1200x630):**\n- Gemini prompt: \"A bathroom counter with baby care products — lotions, wipes, a bottle — with a bright red 'RECALL' badge visible on one bottle. Clean, organized countertop. Bright, clinical lighting. Cream and teal color palette. Photorealistic. Clean right half of image for text overlay.\"\n- Status: not_started\n- Alt text: Baby products on bathroom counter with recall badge\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Colorado Springs 4th of July 2026 — Family Guide to Celebrations (America's 250th)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "COS July 4 family events: 🎆 Ford Amphitheater: symphony + fireworks, ticketed, 9 PM 🎆 Banning Lewis Ranch: free, fireworks at dusk 🎆 Palmer Lake: free, 9:15 PM 🎆 Rock Ledge Ranch: daytime, 10 AM–4 PM\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 259
+        },
+        {
+          "label": "Post 2-2",
+          "text": "July 4 is America's 250th AND Colorado's 150th. Star-Spangled Symphony at Ford Amphitheater — Colorado Springs Philharmonic, Star Wars, 1812 Overture, fireworks at 9 PM. Banning Lewis Ranch is free.\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-colorado-springs-4th-of-july-2026-family-guide.html",
+        "headline": "Colorado Springs 4th of July 2026: Family Guide to Events and Fireworks",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Colorado Springs 4th of July Family Guide\n\n**Social (1080x1350):**\n- Gemini prompt: \"A diverse family of four — two parents and two children — sitting on a blanket on green grass at night, watching colorful fireworks burst in the sky above a mountain silhouette. Warm patriotic oranges, reds, blues, and whites from fireworks. Smiling faces lit by the fireworks. Colorado mountain feel. Clean bottom third with a soft dark gradient for text overlay. Photorealistic.\"\n- Status: not_started\n- Alt text: Colorado Springs family watching Fourth of July fireworks\n\n**Facebook Social (1200x630):**\n- Gemini prompt: \"A cheerful outdoor festival scene during daytime — a family walking through a festive event with red, white, and blue bunting, food trucks, and a Colorado mountain backdrop in the distance. Warm golden summer light. Patriotic feel without being overwrought. Photorealistic, diverse, joyful. Clean lower section for text overlay.\"\n- Status: not_started\n- Alt text: COS family enjoying Fourth of July festival\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Rosemont Reservoir July 4 Opening Update — COS Families Could Camp This Weekend",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Rosemont Reservoir could open for camping and kayaking around July 4 — ~12 miles from COS at 9,600 ft. ADA restrooms. Non-motorized boating. State parks pass required. No swimming.\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-rosemont-reservoir-opening-update-july-2026.html",
+        "headline": "Rosemont Reservoir May Open for Camping and Boating Around July 4",
+        "word_count": 574
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Rosemont Reservoir\n\n**Social (1080x1350):**\n- Gemini prompt: \"A family of three paddling a bright yellow kayak on a calm, glass-like mountain reservoir surrounded by pine trees and rocky peaks under a clear blue Colorado sky. Afternoon golden light reflects off the water. Peaceful, adventurous atmosphere. Teal and earth tones. Photorealistic. Clean bottom third with soft white gradient for text overlay.\"\n- Status: not_started\n- Alt text: Colorado Springs family kayaking on mountain reservoir\n\n**Facebook Social (1200x630):**\n- Gemini prompt: \"A scenic overhead view of a mountain reservoir nestled in pine forest with a small campsite visible near the shore. Blue-green water, towering pines, and a rugged rocky peak in the background. Colorado Rockies feel. Warm afternoon light. Photorealistic. Clean right portion for text overlay.\"\n- Status: not_started\n- Alt text: Mountain reservoir camping area near Colorado Springs\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "PPLD Summer Adventure — A Month In, Here's How to Finish Strong (Through July 31)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "COS: PPLD Summer Adventure runs through July 31 — 5 weeks left. Complete 30 days of reading, creating, and exploring. Prizes include a Broadmoor Cloud Camp stay. All ages, free. ppld.beanstack.org\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-ppld-summer-adventure-2026-five-weeks-left.html",
+        "headline": "PPLD Summer Adventure 2026: Five Weeks Left and No Reason Not to Sign Up",
+        "word_count": 612
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "PPLD Summer Adventure\n\n**Social (1080x1350):**\n- Gemini prompt: \"A child age 8 sitting cross-legged on a bright library rug, holding an open picture book with a big smile, surrounded by colorful summer-themed library decorations — paper stars, adventure banners. Warm, cheerful library interior with natural light. Teal and gold accents. Photorealistic, diverse child. Clean bottom third for text overlay.\"\n- Status: not_started\n- Alt text: Child reading at Pikes Peak Library District during summer program\n\n**Facebook Social (1200x630):**\n- Gemini prompt: \"A diverse group of children and a librarian at a library table engaged in a summer activity — one child stamps a passport card, another colors, and the librarian points at a list on the wall. Bright, welcoming library setting. Teal accents, warm wood surfaces, natural light. Photorealistic, inclusive representation. Clean lower section for text overlay.\"\n- Status: not_started\n- Alt text: Colorado Springs children participating in PPLD Summer Adventure\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Summer Screen Time Tips — What the AAP Says and What COS Offers Instead",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "School's out — screen time tends to climb. AAP 2026: under 18 months no screens; ages 2–5 max 1 hour/day; ages 6+ consistent limits that protect sleep and outdoor time. COS has free alternatives.\n#COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-aap-summer-screen-time-guidelines-2026-cos-families.html",
+        "headline": "AAP Screen Time Guidelines for Summer 2026: What COS Parents Need to Know",
+        "word_count": 673
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Screen Time Summer Tips\n\n**Social (1080x1350):**\n- Gemini prompt: \"A parent and young child (age 4) sitting together on a comfortable couch, looking at a tablet together. The parent is engaged, pointing at the screen and smiling. Books and a small plant are visible nearby. Warm living room with soft natural light through a window. Diverse family representation. Teal and warm cream palette. Photorealistic. Clean bottom third for text overlay.\"\n- Status: not_started\n- Alt text: Parent co-viewing screen content with young child\n\n**Facebook Social (1200x630):**\n- Gemini prompt: \"A child age 6 running across green grass in a park toward a colorful playground structure, with a parent watching from a bench in the background, no phone in sight. Bright Colorado summer sunshine. Blue sky, green grass, warm light. Joyful, active, outdoors scene. Photorealistic. Clean lower section for text overlay.\"\n- Status: not_started\n- Alt text: Child playing outdoors at Colorado Springs park\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

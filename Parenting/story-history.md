@@ -2,6 +2,50 @@
 
 ---
 
+## June 27, 2026
+
+### Story 1: RECALL — MedPride Baby Oil (Shield Line) — Non-Child-Resistant Packaging
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Shield Line recalled ~8,420 MedPride Baby Oil bottles on June 25, 2026. Packaging is not child-resistant per Poison Prevention Packaging Act. Product contains low-viscosity hydrocarbons; petroleum distillates can enter lungs if swallowed causing chemical pneumonia/fatal pulmonary damage. Clear bottle, pink cap, white-and-pink label with "MedPride" in pink. Sold on Amazon. No incidents. Remedy: secure immediately; contact Shield Line for full refund (submit photo of product in trash). cpsc.gov / 1-800-638-2772.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov (official recall page), abc27.com, morningstar.com/prnewswire (CPSC press release June 25)
+- **Follow-Up Opportunities:** None — recall active; will age out
+
+### Story 2: Colorado Springs 4th of July 2026 — Family Events Guide
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Comprehensive July 4, 2026 family guide for COS. America's 250th birthday + Colorado's 150th. Four events: Ford Amphitheater (ticketed; CS Philharmonic; gates 5:30 PM; show 6:30 PM; Dolly Parton/Tina Turner/Star Wars/1812 Overture; fireworks ~9 PM); Banning Lewis Ranch Vista Park (free; 2 bands; 30 food trucks; fireworks at dusk); Palmer Lake Centennial Park (free; 4–10 PM; fireworks ~9:15 PM); Rock Ledge Ranch (admission charged; 10 AM–4 PM; no fireworks; daytime option for families with young children).
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** visitcos.com, coloradospringssports.org, pikes-peak.com, challengerhomes.com (all HIGH confidence)
+- **Follow-Up Opportunities:** July 4 day-of reminder; July 5 recap
+
+### Story 3: Rosemont Reservoir Opening Update — July 4 Target
+- **Content Pillar:** Local News
+- **Angle:** FOLLOW-UP (first covered June 1, 2026) — Target opening around July 4 weekend (tied to CO 150th / US 250th). Not officially confirmed. 12 miles SW of COS at 9,600+ ft on south side of Pikes Peak. Partnership: Colorado Springs Utilities + Colorado Parks and Wildlife. Amenities: basic campsites, day-use parking, ADA-accessible restrooms, non-motorized boating (kayak/canoe/paddleboard/electric). No swimming/wading. State Parks Pass or Keep Colorado Wild pass + camping fee. Reservations via CPW system. Camping season May–October. CPW oversees recreation; CO Dept. of Natural Resources funds staffing.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** coloradopolitics.com, koaa.com, moderncampground.com, csu.org, krdo.com (all HIGH confidence)
+- **Follow-Up Opportunities:** Official opening announcement; first-weekend recap
+
+### Story 4: PPLD Summer Adventure — 5 Weeks Remaining
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (first covered June 5, 2026) — Mid-program reminder with 5 weeks left (ends July 31). 30-day challenge completable by July 31 if starting today. Log via ppld.beanstack.org or in person at any of 14 PPLD locations or 2 bookmobiles. Presented by Friends of PPLD. Grand prizes: Pikes Peak Region Attractions VIP Access Pass + one-night stay for two at Broadmoor Cloud Camp. Other prizes: memberships, gift cards, local attraction experiences. Family fun concerts throughout June/July. Eligibility: all ages, free.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** ppld.org/summer, kktv.com, gazette.com, ppld.beanstack.org (all HIGH confidence)
+- **Follow-Up Opportunities:** Final week reminder; winner announcement
+
+### Story 5: Summer Screen Time — AAP 2026 Guidelines for COS Families
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP 2026 guidance shift: moved from strict time limits to quality, context, and co-viewing framework while maintaining age-specific guardrails. Under 18 months: no screens (video calls OK); 18–24 months: high-quality content, co-viewed; ages 2–5: max 1 hour/day, co-viewed; ages 6+: consistent limits that don't displace sleep, physical activity, family time, free play. Summer risk: screens fill unstructured time that school used to structure. COS free alternatives: America the Beautiful Park (Julie Penrose Fountain), Garden of the Gods trails, PPLD Summer Adventure through July 31.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** healthychildren.org, health.choc.org, aap.org (all HIGH confidence)
+- **Follow-Up Opportunities:** Back-to-school screen time reset in August
+
+---
+
 ## June 26, 2026
 
 ### Story 1: RECALL — Baby Bath Seats (NFSVLB, YCXXKJ, Trankerloop) — Drowning & Entrapment Risk
