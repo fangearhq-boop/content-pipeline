@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-27
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-27 | T1 | Austrian GP Qualifying — Norris Pole, Verstappen P7 at Home Race | X, FB, Article | NEW |
+| 2026-06-27 | T1 | Ferrari Austrian Engine Debut — Seven Horsepower and Hamilton's Title Bid | X, FB, Article | FOLLOW UP |
+| 2026-06-27 | T2 | Verstappen P7 at Home Race — Exit Clause Countdown Accelerates | X, FB, Article | FOLLOW UP |
+| 2026-06-27 | T2 | Cadillac's Ten-Part Upgrade Arrives in Austria and Goes Up in Smoke | X, FB, Article | FOLLOW UP |
+| 2026-06-27 | T2 | Austrian GP Race Preview — Five Storylines for Sunday | X, FB, Article | NEW |
+
+### STORY 1: Austrian GP Qualifying — Norris Pole
+- **Tier:** 1
+- **Category:** Race Weekend / Austrian GP / McLaren
+- **Key facts:** Norris pole by 0.521s over Leclerc; Antonelli dominated FP1 (1:07.796) and FP2 (1:07.014) but fell to P3 in qualifying; Verstappen P7 after FP1 power unit failure; Norris spent first 46 min of FP1 in garage (hydraulic leak); race starts Sunday June 28 15:00 CET / 9:00 AM ET; 71 laps / 4.318km Red Bull Ring
+- **Status:** NEW
+- **Follow-up ideas:** Race result Sunday; championship impact
+
+### STORY 2: Ferrari Austrian Engine Debut — ADUO Token 1
+- **Tier:** 1
+- **Category:** Technical / Ferrari / Championship
+- **Key facts:** First ICE ADUO upgrade token deployed in both Hamilton and Leclerc cars; ~7-8hp gain, ~0.1s/lap at Red Bull Ring; Ferrari called gain "won't change the competitive order alone"; Monza target for ADUO 2 (turbocharger redesign, ~30hp total combined); Antonelli 156 pts / Hamilton 115 pts (41-pt gap); 15 races remaining; Hamilton 106th win at Barcelona closed gap from 66 to 41; Leclerc starts P2
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Race pace data Sunday; championship gap after Austria
+
+### STORY 3: Verstappen Exit Clause — Hungarian GP Deadline
+- **Tier:** 2
+- **Category:** Driver Market / Verstappen / Red Bull
+- **Key facts:** Exit clause: not in top-2 at summer break → can leave unilaterally; manager Vermeulen confirmed publicly ("He should have the chance to win"); Verstappen P7 in championship ~113 pts behind Antonelli; Hungarian GP July 26 is reference date; Red Bull 7-part upgrade brought to Austria (new sidepod profiles + floor sections + rear wing pylons); Mekies said would "halve the gap to Mercedes"; FP1 power unit failure; Mercedes leading destination; Aston Martin also mentioned (Adrian Newey there)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen post-race Austria; activation announcement
+
+### STORY 4: Cadillac Upgrade Disaster — Perez Electrical + Bottas Fire
+- **Tier:** 2
+- **Category:** Midfield / Cadillac
+- **Key facts:** 10-component upgrade package targeted lap-15 tire degradation cliff; Perez: electrical failure FP1 (ECU replacement failed → red flag); Perez: electrical issues returned FP2 → VSC; Bottas: sparks from floor FP2 → smoke → cockpit fire → extinguished → reignited; team unable to run any upgrade laps across entire Friday; still 0 pts in 7 races; only team without a championship point
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** First Cadillac points; upgrade assessment race data
+
+### STORY 5: Austrian GP Race Preview
+- **Tier:** 2
+- **Category:** Race Preview / Austrian GP
+- **Key facts:** Five storylines: Norris controlling from pole; Ferrari ADUO first race test; Verstappen charge from P7 home race; Antonelli managing from behind; Cadillac recovery + weather wildcard (mountain weather at 678m elevation); race June 28 15:00 CET; 71 laps
+- **Status:** NEW
+- **Follow-up ideas:** Race result Sunday; championship impact
+
 ## 2026-06-25
 
 | Date | Tier | Story | Platforms | Status |

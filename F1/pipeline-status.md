@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-26
+- **Date**: 2026-06-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-27
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-27.xlsx (6 posts) + f1fr-postplanner-tobi-2026-06-27.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-27/review-dashboard.html (21 items)
+- **Notes:** Austrian GP qualifying day: Norris pole (0.521s margin over Leclerc P2); Verstappen P7 at home race after FP1 power unit failure + Red Bull 7-part upgrade underdelivered; Antonelli dominated FP1/FP2 but fell to P3 in qualifying; Ferrari ADUO 1 debut (~7-8hp/~0.1s lap) + Monza ADUO 2 target (turbo/~30hp total); Antonelli 156-Hamilton 115 (41-pt gap/15 races/Hamilton needs 2.7 pts/race/Hamilton 106th win Barcelona closed gap from 66 to 41); Verstappen exit clause confirmed by manager Vermeulen ("should have chance to win")/July 26 Hungarian GP deadline/~113 pts behind Antonelli/Mercedes frontrunner; Cadillac 10-part upgrade disaster (Perez 2x electrical failures FP1 red flag + FP2 VSC; Bottas cockpit fire FP2 reignited)/0 pts in 7 races; race preview: 5 storylines for Sunday June 28
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-06-26
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

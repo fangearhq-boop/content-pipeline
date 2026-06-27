@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-27",
+  "compiled_at": "2026-06-27T11:32:10.914117+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austrian GP Qualifying — Norris Takes Pole, Verstappen Stranded at P7",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "POLE POSITION. Lando Norris takes Austrian GP pole 0.521 seconds ahead of Leclerc. McLaren converts practice chaos into qualifying pace. Championship leader Antonelli falls back after dominating FP1 and FP2. What a Saturday at Red Bull Ring. #AustrianGP #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 265
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Max Verstappen qualifies P7 at his OWN circuit. At a track where he's won SIX times. Exit clause countdown is ticking. Red Bull's biggest upgrade failed to produce the front row they desperately needed. #AustrianGP #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-austrian-gp-qualifying-norris-pole.html",
+        "headline": "Austrian GP Qualifying: Norris Storms to Pole as Verstappen Struggles to P7 at His Home Race",
+        "word_count": 889
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Qualifying\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Lando Norris McLaren\"\n- **Concept:** Norris in McLaren papaya livery, helmet on, intense\n- **Text overlay:** \"POLE POSITION\" | \"NORRIS — AUSTRIAN GP\" | F1 Fanrecap logo\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Max Verstappen Red Bull Racing\"\n- **Concept:** Verstappen in Red Bull car, Red Bull Ring background if possible\n- **Text overlay:** \"P7 AT HOME\" | \"VERSTAPPEN'S QUALIFYING NIGHTMARE\" | F1 Fanrecap logo\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Ferrari's Austrian Engine Debut — Hamilton Eyes Another Win to Close 41-Point Gap",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Ferrari debuts their new ICE engine upgrade at Austria — worth ~8 hp and ~0.1s/lap. Leclerc starts P2. Hamilton is 41 points back of Antonelli with 15 races left. Austria could be the moment Ferrari changes the title conversation. #AustrianGP #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-ferrari-engine-upgrade-championship-math.html",
+        "headline": "Ferrari's Austrian Engine Debut: Seven Horsepower, Forty-One Points, and Hamilton's Title Bid",
+        "word_count": 773
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ferrari Engine + Championship\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Lewis Hamilton Ferrari\"\n- **Concept:** Hamilton in Ferrari red, determined expression\n- **Text overlay:** \"41 POINTS BACK\" | \"NEW ENGINE. NEW HOPE.\" | F1 Fanrecap logo\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Charles Leclerc Ferrari\"\n- **Concept:** Leclerc in Ferrari car, action shot\n- **Text overlay:** \"P2 START. NEW POWER.\" | \"FERRARI'S TITLE PUSH\" | F1 Fanrecap logo\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen's Home Race Nightmare — P7 Start and the Exit Clock Ticking",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Six Austrian GP wins. Starts P7. Red Bull's biggest upgrade brought to his home race — and it didn't deliver. Verstappen's exit clause triggers at summer break. The Hungarian GP (July 26) is his last chance to avoid activating it. #Verstappen #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Verstappen",
+            "#F1Fanrecap"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-home-race-exit-clause.html",
+        "headline": "Verstappen Qualifies P7 at His Own Home Race — and the Exit Countdown Is Running Out of Time",
+        "word_count": 823
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Exit Clause\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Max Verstappen Red Bull\"\n- **Concept:** Verstappen helmet visor, focus shot\n- **Text overlay:** \"THE EXIT CLAUSE\" | \"SUMMER BREAK DEADLINE\" | F1 Fanrecap logo\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Red Bull Ring Austria F1\"\n- **Concept:** Red Bull Ring circuit view\n- **Text overlay:** \"HOME RACE. P7 START.\" | \"VERSTAPPEN'S LAST STAND\" | F1 Fanrecap logo\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cadillac's 10-Part Upgrade Goes Up in Smoke — Literally",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cadillac brought their 10-part 2026 upgrade to Austria. Perez had electrical failures causing a red flag AND a VSC. Bottas had a fire under his cockpit. Zero components properly evaluated. Zero points. Zero luck. #AustrianGP #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cadillac-upgrade-disaster-austria.html",
+        "headline": "Cadillac's Ten-Part Upgrade Arrives in Austria — and Goes Up in Smoke",
+        "word_count": 745
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cadillac Disaster\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Sergio Perez Cadillac F1\"\n- **Concept:** Perez in Cadillac uniform / pit lane\n- **Text overlay:** \"UPGRADE CHAOS\" | \"10 PARTS. ZERO DATA.\" | F1 Fanrecap logo\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Valtteri Bottas Cadillac F1\"\n- **Concept:** Bottas in Cadillac car or pit lane\n- **Text overlay:** \"FIRE IN THE COCKPIT\" | \"CADILLAC'S FRIDAY FROM HELL\" | F1 Fanrecap logo\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Austrian GP Race Preview — Five Storylines That Will Define Sunday",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Austrian GP preview: Norris leads from pole but McLaren's race pace is a question. Leclerc P2, Ferrari's new engine on board. Verstappen starts P7 at his home circuit. Antonelli needs to charge through. 71 laps. Championship on the line. #AustrianGP #F1Fanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#AustrianGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-austrian-gp-race-preview.html",
+        "headline": "Austrian GP Race Preview: Five Storylines for Sunday at the Red Bull Ring",
+        "word_count": 1250
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Race Preview\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Austrian Grand Prix F1 Red Bull Ring\"\n- **Concept:** F1 cars racing at Red Bull Ring\n- **Text overlay:** \"RACE DAY TOMORROW\" | \"AUSTRIAN GP PREVIEW\" | F1 Fanrecap logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Imagn\n- **Search term:** \"Lando Norris McLaren\"\n- **Concept:** Norris celebrating or in car\n- **Text overlay:** None (article hero)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
