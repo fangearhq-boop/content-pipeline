@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-26 |
-| Writing | Complete (all steps) | 2026-06-26 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 24 claims, 56 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-26 |
-| Compile | Complete (07-content-data.json — 5 stories, 6 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-26 |
-| Dashboard | Complete (review-dashboard.html, 21 items) | 2026-06-26 |
-| PostPlanner Export | Complete (standard 6 posts; TOBI 6 posts) | 2026-06-26 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-26 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-26 |
+| Research | Complete | 2026-06-27 |
+| Writing | Complete (all steps) | 2026-06-27 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 29 claims, 72 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-27 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-27 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-06-27 |
+| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-06-27 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-27 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-27 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-27 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Elena Voss [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-27.xlsx (7 posts, 12:50–20:38 ET), tfr-postplanner-tobi-2026-06-27.xlsx (7 TOBI posts)
+- **Coverage:** Ethan Quinn wins Mallorca ATP 250 (22yo Fresno CA, 2023 NCAA champ Georgia, first ATP title, def. ADF 6-1, 6-2; SF Quinn def. Borges 6-1, 6-2; ADF def. Marozsan 5-7, 6-2, 6-4; 3rd American Mallorca finalist/first winner; new career high ~No. 47); Muchova wins Bad Homburg WTA 500 (Osaka retired right foot injury 6-1, 1-0 after 49 min; Muchova 3rd career title, 2nd of 2026 Doha+BH; Osaka first career grass final; Wimbledon fitness Q); Wimbledon 13 withdrawals (men: Alcaraz wrist, Musetti thigh, Rune Achilles/knee, Korda, Machac foot, Vacherot No. 20, Opelka; women: Mboko No. 9 MCL Queen's, Baptiste, Kartal, Vondrousova, Kudermetova illness; Vidmanova 2025 NCAA champ replaces Mboko; video reviews debut; £64.2M prize record); Eastbourne finals Saturday (men: Humbert vs Bergs; women: Keys vs Maria); Wimbledon draw (Fritz 6 vs Draper R1; Ruud 11 vs Hurkacz R1; Sinner 1 vs Kecmanovic; Djokovic 7 vs Wu Yibing; Sinner/Djokovic same top half; Andreeva 5 vs Linette — RG/Wimbledon double chance last Henin 2006; Serena in Swiatek quarter)
+- **Notes:**
+  - CORRECTIONS LOGGED: (1) June 26 pipeline incorrectly reported Mallorca SFs as "Marozsan def. ADF 6-4, 6-3 and Borges def. Quinn 7-6(1), 6-4; final Marozsan vs Borges" — actual: ADF def. Marozsan 5-7, 6-2, 6-4 and Quinn def. Borges 6-1, 6-2; final Quinn vs ADF. (2) June 26 pipeline incorrectly stated Eastbourne SF "Samuel def. Bergs 6-3, 6-4" — actual: Bergs def. Samuel 4-6, 7-6(5), 6-2; correct final is Humbert vs Bergs (not Humbert vs Samuel).
+  - verify-facts.py: passed; 29 claims, 72 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 7 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 22 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully; 12:50–20:38 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-26 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

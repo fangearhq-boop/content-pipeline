@@ -573,3 +573,49 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Tier:** 2
 - **Key Facts:** Fernandez lost to Sonmez 6-4, 7-6(1); Nottingham WTA 250 June 13-21; $283,347 prize; QFs: Bouzkova/Maria, Pliskova/Gibson, Bouzas Maneiro/Navarro, Li/Golubic; Sources: wtatennis.com, tennistonic.com, lta.org.uk
 - **Follow-Up Opportunities:** Nottingham SF/F results
+
+---
+
+## 2026-06-27
+
+### Story 1: Ethan Quinn Wins Mallorca Championships — First ATP Title
+- **Date:** 2026-06-27
+- **Angle:** NEW STORY — Vanda Pharmaceuticals Mallorca Championships ATP 250 final. Ethan Quinn (22, Fresno CA, ranked 63rd) def. Alejandro Davidovich Fokina (ranked 25th) 6-1, 6-2. Quinn's first ATP Tour title. SF: Quinn def. Borges 6-1, 6-2 (56 min); ADF def. Marozsan 5-7, 6-2, 6-4. Quinn 2023 NCAA champion (Georgia), turned pro June 2023. 3rd American Mallorca finalist (Querrey 2021, Eubanks 2023), first to win. New career high ~No. 47.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Final score 6-1, 6-2; Quinn born March 12, 2004, Fresno CA; 2023 NCAA champ Georgia; ranked 63 pre-tournament; career high ~47; SF Quinn def. Borges 6-1, 6-2; Sources: atptour.com, en.tennistemple.com, tennistonic.com, tennistourtalk.com
+- **CORRECTION NOTE:** June 26 pipeline incorrectly reported Mallorca SFs as "Marozsan def. ADF 6-4, 6-3 and Borges def. Quinn 7-6(1), 6-4" and final as "Marozsan vs. Borges." Actual: ADF def. Marozsan 5-7, 6-2, 6-4 and Quinn def. Borges 6-1, 6-2; correct final was Quinn vs. ADF.
+- **Follow-Up Opportunities:** Quinn Wimbledon first-round match; ADF Wimbledon performance
+
+### Story 2: Muchova Wins Bad Homburg WTA 500 After Osaka Retirement
+- **Date:** 2026-06-27
+- **Angle:** NEW STORY — Bad Homburg Open WTA 500 final. Karolina Muchova def. (ret.) Naomi Osaka 6-1, 1-0. Osaka retired with right foot injury after 49 minutes. Muchova's 3rd career WTA title, 2nd of 2026 (also Doha). Muchova's tournament debut at Bad Homburg. Osaka's first career grass-court final ended in retirement.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Final 6-1, 1-0 ret.; match 49 min; Osaka right foot injury; Muchova 3rd title, 2nd of 2026; Osaka first grass final; Osaka path: def. Alexandrova 6-2, 6-2 (QF), def. Wang (SF); Sources: en.tennistemple.com, tennisuptodate.com, sports.yahoo.com, puntodebreak.com, wtatennis.com
+- **CORRECTION NOTE:** June 26 pipeline incorrectly stated Eastbourne SF as "Samuel def. Bergs 6-3, 6-4" and final as "Humbert vs. Samuel." Actual: Bergs def. Samuel 4-6, 7-6(5), 6-2; correct final is Humbert vs. Bergs.
+- **Follow-Up Opportunities:** Osaka Wimbledon fitness/participation; Muchova Wimbledon run
+
+### Story 3: Wimbledon 2026 — 13 Withdrawals Injury Crisis
+- **Date:** 2026-06-27
+- **Angle:** FOLLOW-UP — 13 player withdrawals heading into Wimbledon. Men: Alcaraz (wrist), Musetti (thigh), Rune (Achilles/knee), Korda, Machac (foot), Vacherot (No. 20), Opelka. Women: Mboko (No. 9, MCL knee at Queen's Club vs Pliskova retired 6-2, 3-4), Baptiste (knee), Kartal (back), Vondrousova, Kudermetova (illness). Mboko's departure ends Serena Williams doubles partnership. Darja Vidmanova (2025 NCAA champ) replaces Mboko. New: video reviews debut at Wimbledon. Prize £64.2M (record). Championships June 29–July 12.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** 13 total withdrawals; Alcaraz out since Barcelona April (wrist); Mboko No. 9 MCL Queen's; Serena/Mboko won doubles opener 7-6(2), 6-2 before injury; Vidmanova replaces Mboko; first video reviews in Wimbledon history; Sources: tennis365.com, lastwordonsports.com, wtatennis.com, sundayguardianlive.com, nbcsports.com
+- **Follow-Up Opportunities:** Wimbledon first-round results; Osaka fitness update
+
+### Story 4: Eastbourne Finals — Humbert vs Bergs, Keys vs Maria
+- **Date:** 2026-06-27
+- **Angle:** FOLLOW-UP — Lexus Eastbourne Open final day. Men's final: Humbert vs Bergs (Humbert def. Draper 7-5, 6-3; Bergs def. Samuel 4-6, 7-6(5), 6-2). Women's final: Keys vs Maria (both SFs opponents retired). Eastbourne last warm-up before Wimbledon June 29.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Men's SFs: Humbert def. Draper 7-5, 6-3; Bergs def. Samuel 4-6, 7-6(5), 6-2; Women's final: Keys (former champion) vs Maria; Doubles: Nys/Roger-Vasselin won; Sources: atptour.com, lta.org.uk, wtatennis.com, tennistonic.com
+- **Follow-Up Opportunities:** Eastbourne final results; player Wimbledon draws
+
+### Story 5: Wimbledon 2026 Draw — Blockbuster Matchups
+- **Date:** 2026-06-27
+- **Angle:** FOLLOW-UP — Wimbledon draw breakdown; Fritz (6) vs Draper R1; Ruud (11) vs Hurkacz R1; Sinner (1) vs Kecmanovic; Djokovic (7) vs Wu Yibing; Sinner/Djokovic same half (potential SF); Zverev (2) leads bottom half. Women: Swiatek (3) vs Townsend; Serena in Swiatek quarter; Sabalenka (1) vs Kostovic; Rybakina (2) vs Boisson; Andreeva (5) vs Linette; Gauff (7) vs Korpatsch; Andreeva chasing RG/Wimbledon double (last: Henin 2006).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Fritz vs Draper R1; Ruud vs Hurkacz R1; Sinner/Djokovic same top half; Andreeva (5) vs Linette; RG/Wimbledon double last by Henin 2006; £64.2M prize record; Championships June 29–July 12; Sources: atptour.com, wtatennis.com, en.tennistemple.com, lta.org.uk
+- **Follow-Up Opportunities:** All Wimbledon first-round results; Andreeva's tournament run
