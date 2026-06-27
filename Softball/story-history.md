@@ -3967,3 +3967,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 - **Follow-Up Opportunities:**
   - September 1 recruiting reaction
   - PGF Nationals coverage (July 19)
+
+---
+
+## Pipeline Run: June 27, 2026
+
+### Story 1: Tia Milloy Portal Week — Who's Winning the Race?
+- **Date:** 2026-06-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 26 — Tia Milloy Enters Transfer Portal; now recruitment race begins)
+- **Angle:** Milloy (41 games, 5 starts 2026, 2 years eligibility) in portal. FSU had head start. South Carolina, Texas Tech also in mix. Most-watched uncommitted utility player of the summer.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Milloy commitment destination
+  - FSU response if they miss on her
+  - Texas Tech/South Carolina moves
+
+### Story 2: Texas Softball 2027 — The Case for a Three-Peat
+- **Date:** 2026-06-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 23 — No. 1 Texas in post-portal rankings; today specific roster breakdown)
+- **Angle:** Katie Stewart 31 HRs (school record) moves to 1B for Torres. Amber Freeman from Arizona as assistant. Texas named 2026 ATEC/NFCA National Coaching Staff of Year. Stewart+Torres+Kavan lineup core.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Fall practice integration (August)
+  - 2027 preseason rankings
+  - Stewart 1B development
+
+### Story 3: Jenny Topping Takes Bakersfield — Olympic Gold, First Head Coaching Role
+- **Date:** 2026-06-27
+- **Tier:** 2
+- **Classification:** NEW STORY (first coverage of hire)
+- **Angle:** Olympic gold medalist (Athens 2004, USA Softball) hired as head coach at Cal State Bakersfield June 24. First HC job. Instant recruiting credibility in WAC. Pattern of elite players staying in sport.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Topping's first recruiting class
+  - Bakersfield 2026-27 season preview
+
+### Story 4: PGF Nationals Preview — The Showcase That Shapes the 2028 Recruiting Class
+- **Date:** 2026-06-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 26 — September 1 calendar mentioned PGF; now dedicated preview)
+- **Angle:** PGF Nationals July 19–26, Orange County Great Park, Irvine. 18U Premier and 16U Premier. September 1 Class of 2028 contact window in 64 days. What coaches watch for. Why PGF shapes September 1 calls.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF results and standouts (July 26)
+  - September 1 recruiting reaction
+
+### Story 5: The 2027 Recruiting Race — Florida, Arizona, and UCLA Building Their Next Rosters
+- **Date:** 2026-06-27
+- **Tier:** 3
+- **Classification:** NEW STORY (first recruiting class update beyond portal window)
+- **Angle:** Florida (Walton/4-star hitters), Arizona, UCLA (Inouye-Perez) active in 2027 class. House Settlement 25-player roster cap changes recruiting strategy. September 1 Class of 2028 window in 64 days.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - September 1 recruiting reaction
+  - 2028 class rankings (fall)
+  - Florida/Arizona/UCLA fall previews
