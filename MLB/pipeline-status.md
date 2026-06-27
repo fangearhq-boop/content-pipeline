@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-06-27
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (35 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known).
+- **Key Stories**: Phillies first MLB history 3 consecutive go-ahead 9th-inning HRs/Schwarber 29 HRs/Derby July 13 at CBP uncommitted (Tier 1 NEW), All-Star Phase 2 opens June 29/Ohtani 3.34M auto NL DH start/Clement auto AL start/Game July 14 Philly (Tier 1 FOLLOW UP), Witt Jr. back from Grade 1 MCL/6 games missed/"very encouraging"/4.5 fWAR AL leader/17 days to All-Star (Tier 2 FOLLOW UP), Swanson 15 RBIs four-game series vs Mets/Braves 48-31 best NL East (Tier 2 NEW), Skubal 85% trade probability/4 teams Dodgers Padres BJ Yankees/37 days/Chapman 28 consecutive saves (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-06-26
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims HIGH; universal extraction only), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo

@@ -3475,3 +3475,62 @@ Each day's stories are appended at the top (newest first).
   - Skubal trade announcement
   - Chapman destination
   - July 4 buyer/seller classifications
+
+---
+
+## Pipeline Run: June 27, 2026
+
+### Story 1: Phillies Make History — Three Consecutive Go-Ahead 9th-Inning Home Runs
+- **Date:** 2026-06-27
+- **Tier:** 1
+- **Classification:** NEW STORY (first team in MLB history to do this)
+- **Angle:** Phillies become first MLB team to hit go-ahead HR in ninth inning of three consecutive games. Schwarber 29 HRs leads MLB. Derby at Citizens Bank Park July 13 — Schwarber uncommitted.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber Derby participation announcement
+  - Phillies second-half outlook
+  - Ninth-inning streak continuation
+
+### Story 2: All-Star Voting Phase 2 — Two Days Away, Ohtani and Clement Locked In
+- **Date:** 2026-06-27
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 26 — Phase 1 closes; now Phase 2 two days away)
+- **Angle:** Phase 2 opens June 29, closes July 2. Ohtani 3,341,257 Phase 1 votes (automatic NL DH start). Clement automatic AL start. Counters reset. Game July 14 Citizens Bank Park.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Phase 2 results announcement
+  - Derby field finalized
+  - All-Star starters announced
+
+### Story 3: Bobby Witt Jr. — Back in the Lineup, Eyes on the All-Star Game
+- **Date:** 2026-06-27
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 26 — return expected tonight; today return status + implications)
+- **Angle:** Grade 1 MCL, 6 games missed. Quatraro "very encouraging." Witt leads AL fWAR 4.5. Return puts All-Star case back on track. 17 days to July 14 game.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Witt All-Star selection confirmation
+  - Royals second-half standings
+  - Witt second-half production
+
+### Story 4: Dansby Swanson's 15-RBI Series — The Stat That Puts His Season in Context
+- **Date:** 2026-06-27
+- **Tier:** 2
+- **Classification:** NEW STORY (first coverage of this performance milestone)
+- **Angle:** Swanson 15 RBIs in four-game series vs. Mets. Braves 48-31, best NL East record. MVP-adjacent season getting less attention than deserved.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Swanson All-Star selection
+  - Braves second-half outlook
+  - NL East race update
+
+### Story 5: 37 Days to the Trade Deadline — Skubal and the Market Taking Shape
+- **Date:** 2026-06-27
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 26 — Skubal/Chapman trade deadline; updated to 37-day countdown)
+- **Angle:** August 3 = 37 days away. Skubal 85% trade probability. Four suitors: Dodgers, Padres, Blue Jays, Yankees. Chapman 28 consecutive saves, one shy of career record. Red Sox posture TBD.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade announcement
+  - Red Sox buyer/seller decision
+  - Chapman destination
