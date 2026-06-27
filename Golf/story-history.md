@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-27
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-27 | T1 | Travelers Championship R3 — Scheffler Leads at -16, Hovland Two Back | X, FB, Article | FOLLOW UP |
+| 2026-06-27 | T1 | KPMG Women's PGA R3 — Korda Six Back as History Awaits | X, FB, Article | FOLLOW UP |
+| 2026-06-27 | T2 | Open Championship Preview — Royal Birkdale, Scheffler Defending | X, FB, Article | NEW |
+| 2026-06-27 | T2 | LIV Golf News — O'Neil/Rolapp Talks, Norman Shrug, 72-Hole Pivot | X, FB, Article | FOLLOW UP |
+| 2026-06-27 | T2 | Korda's Historic Chase — What Three Consecutive LPGA Majors Would Mean | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Travelers Championship R3 — Scheffler Leads
+- **Tier:** 1
+- **Category:** PGA Tour / Signature Event / Travelers
+- **Key facts:** Scheffler -16 (R2: 60/11 birdies/1 bogey); Hovland -14 (R2: 61/-9); two-shot lead; paired together R3 (2:00 PM ET); $20M purse; TPC River Highlands
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R3 result; Scheffler Sunday lead; final champion
+
+### STORY 2: KPMG Women's PGA R3 — Korda Chases History
+- **Tier:** 1
+- **Category:** LPGA / Major / KPMG / Korda
+- **Key facts:** Korda -6 entering R3; Yoon leads at -12; Korda chasing 3rd consecutive LPGA major (only Zaharias 1950 and Park 2013 have done it); Hall of Fame 25/27 pts (major = 2 pts); $13M purse (record)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R3/R4 result; Hall of Fame qualification; record chase conclusion
+
+### STORY 3: Open Championship Preview
+- **Tier:** 2
+- **Category:** Major / Open Championship / Royal Birkdale
+- **Key facts:** 154th Open Championship; Royal Birkdale; July 16-19, 2026; Scheffler defending (won 2025); Scheffler 4 of last 6 majors (Masters 2022/2024, PGA 2025, Open 2025); US Open only missing piece; Clark won 2026 US Open at Shinnecock Hills
+- **Status:** NEW
+- **Follow-up ideas:** Field announcement; Scheffler form heading in; Royal Birkdale preview
+
+### STORY 4: LIV Golf News — Merger, Norman, Format
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** O'Neil + Rolapp talks ("opportunity to come together"); Norman: merger "doesn't matter anymore"; 54→72 hole format change for OWGR eligibility; $250-350M outside investment needed; Louisiana cancelled; PIF $5B+ invested
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Merger framework announcement; OWGR eligibility decision; 2027 LIV season status
+
+### STORY 5: Korda Historic Chase — Historical Context
+- **Tier:** 2
+- **Category:** LPGA / History / Korda
+- **Key facts:** Zaharias 1950 (Titleholders/US Women's Open/Western Open); Park 2013 (Kraft Nabisco/LPGA Championship/US Women's Open); Korda 4 wins + 3 runner-ups in 8 starts in 2026; Hall of Fame math (25/27 pts, major worth 2)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Korda win or miss at KPMG; Hall of Fame qualification announcement
+
 ## 2026-06-26
 
 | Date | Tier | Story | Platforms | Status |

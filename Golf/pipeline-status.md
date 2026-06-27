@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-26
+- **Date**: 2026-06-27
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-27
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-06-27.xlsx (6 posts) + gfr-postplanner-tobi-2026-06-27.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-27/review-dashboard.html (21 items)
+- **Notes:** Travelers R3 day: Scheffler leads -16 after R2 60 (11 birdies/1 bogey)/Hovland -14 (R2 61)/paired together R3 2PM ET/$20M purse; KPMG R3 day: Korda at -6 (Yoon leads -12)/chasing 3rd consecutive LPGA major (only Zaharias 1950 + Park 2013 before her)/Hall of Fame 25/27 pts (major = 2)/record $13M purse; Open Championship preview: 154th Open/Royal Birkdale July 16-19/Scheffler defending (won 2025)/4 of last 6 majors/US Open only missing piece (Clark won 2026 at Shinnecock); LIV Golf: O'Neil + Rolapp merger talks/Norman "doesn't matter anymore"/54→72 hole format for OWGR/$250-350M outside investment needed/Louisiana cancelled; Korda historical feature: Zaharias 1950/Park 2013/Korda 4 wins + 3 runner-ups in 8 starts
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-06-26
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
