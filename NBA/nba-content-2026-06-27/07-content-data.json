@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-27",
+  "compiled_at": "2026-06-27T11:20:35.798333+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "2026 NBA Draft First-Round Recap — Michigan Makes History",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "AJ Dybantsa goes No. 1 to Washington. Peterson No. 2 Jazz. Boozer No. 3 Memphis. The 2026 NBA Draft is done — and the class looks LOADED. Freshmen dominated the Top 9. Summer League just became must-watch TV. #NBADraft #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBADraft",
+            "#HoopHeroes"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Michigan just made history. Three lottery picks in one draft — Morez Johnson (No. 9 Dallas), Yaxel Lendeborg (No. 11 Golden State), Aday Mara (No. 12 OKC). Never been done in Wolverines history. Dusty May left campus. His players followed him to the league. #NBADraft #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBADraft",
+            "#HoopHeroes"
+          ],
+          "char_count": 279
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-nba-draft-2026-first-round-recap.html",
+        "headline": "2026 NBA Draft Recap: Michigan Makes Lottery History as Dybantsa Goes No. 1 to Washington",
+        "word_count": 999
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "2026 NBA Draft Recap\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"AJ Dybantsa BYU\"\n- **Concept:** Dybantsa in action at BYU — driving or dunking\n- **Text overlay:** \"No. 1 OVERALL\" | \"DYBANTSA TO WASHINGTON\" | Hoop Heroes logo\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Michigan Wolverines basketball\"\n- **Concept:** Michigan basketball celebration or player in action\n- **Text overlay:** \"MICHIGAN MAKES HISTORY\" | \"3 LOTTERY PICKS IN ONE DRAFT\" | Hoop Heroes logo\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "NBA Free Agency Opens in 3 Days — The Countdown Is On",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "3 days until NBA free agency. KAT deciding on a $272M extension. LeBron's future uncertain at 41. Harden's option deadline Sunday. Giannis officially a Miami Heat player in 9 days. This is the most consequential offseason in years. #NBA #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#HoopHeroes"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-nba-free-agency-3-days-out.html",
+        "headline": "NBA Free Agency Opens in 3 Days: KAT's Sacrifice, LeBron's Future, and the Decisions That Will Define This Era",
+        "word_count": 958
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Free Agency 3 Days\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Karl-Anthony Towns New York Knicks\"\n- **Concept:** KAT in Knicks uniform, intensity shot\n- **Text overlay:** \"3 DAYS UNTIL FREE AGENCY\" | \"$272M DECISION\" | Hoop Heroes logo\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"LeBron James Los Angeles Lakers\"\n- **Concept:** LeBron in Lakers uniform, contemplative or determined\n- **Text overlay:** \"LEBRON'S FUTURE\" | \"THE CLOCK IS TICKING\" | Hoop Heroes logo\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Giannis to Heat — 9 Days to July 6",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "9 days until Giannis officially becomes a Miami Heat. The trade cost Miami 3 unprotected 1sts, 1 swap, Herro, Ware, Jaquez and Jakucionis. The East has never looked like this. #HeatNation #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#HeatNation",
+            "#HoopHeroes"
+          ],
+          "char_count": 199
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-giannis-heat-9-days-july-6.html",
+        "headline": "Giannis to Miami: 9 Days Until the Trade That Reshapes the East Becomes Official",
+        "word_count": 753
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Giannis to Heat\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Giannis Antetokounmpo Milwaukee Bucks\"\n- **Concept:** Giannis in action, dominant\n- **Text overlay:** \"9 DAYS TO MIAMI\" | \"GIANNIS TO THE HEAT\" | Hoop Heroes logo\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Tyler Herro Miami Heat\"\n- **Concept:** Herro in Heat uniform\n- **Text overlay:** \"GOING HOME\" | \"HERRO TO MILWAUKEE\" | Hoop Heroes logo\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Knicks Draft Night — New York's Second Act Begins",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Knicks made their picks. Now the real work starts. KAT eligible for $272M. Mitchell Robinson a free agent. Dolan says no second apron. Brunson took $113M less and won Finals MVP. KAT's turn to make the call. #NewYorkKnicks #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NewYorkKnicks",
+            "#HoopHeroes"
+          ],
+          "char_count": 234
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-knicks-draft-night-offseason-plan.html",
+        "headline": "Knicks Draft Night Done. Now Comes the Harder Part: KAT, Robinson, and Holding a Dynasty Together",
+        "word_count": 783
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Knicks Draft Night\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"New York Knicks NBA championship celebration\"\n- **Concept:** Knicks championship celebration moment\n- **Text overlay:** \"DYNASTY MATH\" | \"KAT'S TURN TO SACRIFICE\" | Hoop Heroes logo\n- **Status:** not_started\n\n#### Image Concept 2 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Jalen Brunson New York Knicks\"\n- **Concept:** Brunson with trophy or celebrating\n- **Text overlay:** \"THE BLUEPRINT\" | \"BRUNSON DID IT. KAT'S NEXT.\" | Hoop Heroes logo\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Jaylen Brown Trade Rumors Heat Up in Boston",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jaylen Brown has NOT asked out of Boston. But the Celtics are actively engaged in trade talks — and the asking price is 4 unprotected 1sts. Brown hasn't blinked. Has Boston? This offseason just got a lot more interesting. #Celtics #HoopHeroes",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Celtics",
+            "#HoopHeroes"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-jaylen-brown-trade-rumors-celtics.html",
+        "headline": "Jaylen Brown Hasn't Asked Out — But the Celtics Are Already Working the Phones",
+        "word_count": 749
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Jaylen Brown Trade Rumors\n\n#### Image Concept 1 — Social (1080x1350)\n- **Type:** Imagn\n- **Search term:** \"Jaylen Brown Boston Celtics\"\n- **Concept:** Brown in Celtics green, action shot\n- **Text overlay:** \"TRADE RUMORS\" | \"BOSTON ON THE MOVE?\" | Hoop Heroes logo\n- **Status:** not_started\n\n#### Image Concept 2 — Article Hero (1200x630)\n- **Type:** Imagn\n- **Search term:** \"Jaylen Brown Boston Celtics\"\n- **Concept:** Brown intense game face or driving\n- **Text overlay:** None (article hero, no text)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

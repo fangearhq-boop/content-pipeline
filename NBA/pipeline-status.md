@@ -6,6 +6,17 @@
 
 ## Pipeline Run Log
 
+### 2026-06-27
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 6 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce, Jake Torres)
+- **PostPlanner exports:** hh-postplanner-2026-06-27.xlsx (6 posts) + hh-postplanner-tobi-2026-06-27.xlsx (6 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-27/review-dashboard.html (21 items)
+- **Notes:** 2026 NBA Draft complete — Dybantsa No.1 Wizards/Peterson No.2 Jazz/Boozer No.3 Grizzlies; Michigan history: Morez Johnson No.9+Lendeborg No.11+Mara No.12 (first 3-lottery-pick school in one draft); Big 12 record 13 selections; Free agency opens June 30 (3 days)/KAT $272M decision/"ready to sacrifice"/LeBron talks "light at best"/Harden option deadline June 29; Giannis-Heat executes July 6/9 days; Jaylen Brown trade rumors emerging — Celtics asking 4 firsts/Brown NOT requested trade/Windhorst says it's happening
+- **WordPress:** Blocked by egress proxy (Host not in allowlist) — persistent infrastructure issue
+
 ### 2026-06-26
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)

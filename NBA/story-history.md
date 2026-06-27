@@ -3489,3 +3489,48 @@
 - **Key facts:** July 3-19 Las Vegas; Dybantsa No.1 Wizards (25.5 PPG/51%/BYU); Peterson No.2 Jazz (20.2 PPG Kansas); Boozer No.3 Grizzlies (22.5 PPG/10.5 RPG/Naismith/Duke); Michigan 3 in top 12 (Johnson No.9 Dallas, Lendeborg No.11 GS, Mara No.12 OKC); 8 freshmen in top 9 picks
 - **Status:** NEW
 - **Follow-up ideas:** Summer League standouts; Dybantsa ROY race begins
+
+## 2026-06-27
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-27 | T1 | 2026 NBA Draft First-Round Recap — Michigan Makes History | X, FB, Article | NEW |
+| 2026-06-27 | T1 | NBA Free Agency Opens in 3 Days — The Countdown Is On | X, FB, Article | FOLLOW UP |
+| 2026-06-27 | T2 | Giannis to Heat — 9 Days to July 6 | X, FB, Article | FOLLOW UP |
+| 2026-06-27 | T2 | Knicks Draft Night — New York's Second Act Begins | X, FB, Article | FOLLOW UP |
+| 2026-06-27 | T2 | Jaylen Brown Trade Rumors Heat Up in Boston | X, FB, Article | NEW |
+
+### STORY 1: 2026 NBA Draft First-Round Recap — Michigan Makes History
+- **Tier:** 1
+- **Category:** NBA Draft
+- **Key facts:** Dybantsa No.1 Wizards (BYU/first #1 since John Wall 2010); Peterson No.2 Jazz (Kansas); Boozer No.3 Grizzlies (Duke); Michigan lottery trio: Morez Johnson No.9 Dallas + Lendeborg No.11 GS + Mara No.12 OKC (first time in school history); Big 12 sets conference record with 13 selections; 8 freshmen in top 9 picks; Summer League opener July 9: Dybantsa Wizards vs Peterson Jazz 9PM ESPN; Koa Peat slide to ~No.30; Dusty May connection: coached Morez Johnson at Michigan, now coaching him at Dallas
+- **Status:** NEW
+- **Follow-up ideas:** Dybantsa Summer League debut; Michigan trio performance; ROY frontrunners
+
+### STORY 2: NBA Free Agency Opens in 3 Days
+- **Tier:** 1
+- **Category:** NBA Free Agency
+- **Key facts:** June 30 6PM ET negotiating window opens; July 6 noon signings begin; KAT $272M/4yr extension eligible (said "ready to make financial sacrifice"); LeBron UFA talks with Lakers "light at best" — retirement/Cavs/Warriors options; Harden $42.3M option deadline June 29 (expected to decline, re-sign Cavs 2yr/~$56M); Trae Young already signed 4yr/$212M Wizards; Giannis trade executes July 6
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** KAT extension signed; LeBron decision; June 30 negotiating frenzy
+
+### STORY 3: Giannis to Heat — 9 Days to July 6
+- **Tier:** 2
+- **Category:** NBA Trade / Heat
+- **Key facts:** Trade agreed June 22, executes July 6; Heat sent Herro+Ware+Jaquez+Jakucionis+2030 swap+2031+2033 1sts+2033 2nd for Giannis+Portis; Bucks chose Heat over Celtics (Jaylen Brown package); ESPN "things got really yucky" 13-month deterioration; Herro Milwaukee native posted 414; Heat title odds 18-1, East odds 6-1; Celtics now in Brown trade talks
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** July 6 official execution; Giannis Heat press conference
+
+### STORY 4: Knicks Draft Night + KAT Math
+- **Tier:** 2
+- **Category:** NBA Draft / Knicks
+- **Key facts:** Knicks No.24 (R1), traded No.31 to Houston; Knicks-Lakers-Mavs-Suns draft swap; KAT $272M extension talks coming; Mitchell Robinson UFA; Brunson blueprint ($113M less = Finals MVP); Dolan no second apron; OG $212.5M/5yr locked; ~$3.5M below first apron
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** KAT extension signed; Robinson re-sign; FA opening day
+
+### STORY 5: Jaylen Brown Trade Rumors Heat Up in Boston
+- **Tier:** 2
+- **Category:** NBA Trade Rumors / Celtics
+- **Key facts:** Brown has NOT requested trade (ClutchPoints); Celtics "actively engaged" in discussions; Windhorst: Brown "is going to get traded"; asking price 4+ unprotected firsts; interested: Detroit (Duren sign-and-trade), Portland, formerly Minnesota; Brown age 29 ~26 PPG; Celtics lost Giannis sweepstakes to Miami
+- **Status:** NEW
+- **Follow-up ideas:** Brown trade agreed; Detroit/Portland/other winner; Celtics asset rebuild
