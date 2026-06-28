@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-28
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-28 | T1 | NBA Free Agency Opens in 2 Days — KAT, LeBron, Harden Headline Class | X, FB, Article | NEW |
+| 2026-06-28 | T1 | KAT $272M Decision — Knicks' Championship Retention Test | X, FB, Article | FOLLOW UP |
+| 2026-06-28 | T2 | Ja Morant Trade Talks Heat Up — Memphis Ready to Move On | X, FB, Article | FOLLOW UP |
+| 2026-06-28 | T2 | LaMelo + Edwards — Timberwolves' Dynamic New Backcourt | X, FB, Article | FOLLOW UP |
+| 2026-06-28 | T2 | NBA Summer League 2026 — July 9-19 in Las Vegas | X, FB, Article | NEW |
+
+### STORY 1: NBA Free Agency Opens in 2 Days — KAT, LeBron, Harden Headline Class
+- **Tier:** 1
+- **Category:** NBA Free Agency
+- **Key facts:** Negotiations open June 30 at 6 PM ET; signings July 6 at 12:01 PM ET; KAT 4yr/$272M or 3yr/$208M extension eligible, said "ready to make financial sacrifice"; Brunson took ~$113M less, won Finals MVP at 32.6 PPG; LeBron James Lakers decision looming; Harden player option Cavaliers; UFAs include Powell, Wiggins, LaVine, Draymond; 20+ intriguing free agents; Giannis-Heat trade executes July 6 same day
+- **Status:** NEW
+- **Follow-up ideas:** June 30 negotiations open — KAT decision; LeBron Lakers announcement
+
+### STORY 2: KAT $272M Decision — Knicks' Championship Retention Test
+- **Tier:** 1
+- **Category:** NBA Offseason / Knicks
+- **Key facts:** KAT eligible 4yr/$272M max or 3yr/$208M; "ready to make financial sacrifice for right team"; Brunson precedent $113M less→Finals MVP 32.6 PPG; Dolan "suicidal" second apron constraint; Knicks $13-16M below second apron; OG $212.5M/5yr, Bridges $150M/4yr, Robinson UFA "very open to re-signing"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** KAT extension decision June 30+; Dolan apron outcome
+
+### STORY 3: Ja Morant Trade Talks Heat Up — Memphis Ready to Move On
+- **Tier:** 2
+- **Category:** NBA Trade Rumors / Grizzlies
+- **Key facts:** Windhorst: "probably seen the last moments of Ja Morant in a Grizzlies uniform"; $42.2M/26-27, $44.9M/27-28; 2025-26: 19.5 PPG/8.1 APG/41% FG/23.5% 3PT in 20 games; Suns leading (per Bleacher Report); Celtics circling post-Giannis miss; Bucks+Raptors in play; market complicated — most teams drafted PGs; Grizzlies building around Darius Acuff Jr.
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade destination confirmed; Suns or Celtics formal offer
+
+### STORY 4: LaMelo + Edwards — Timberwolves' Dynamic New Backcourt
+- **Tier:** 2
+- **Category:** NBA Trade / Timberwolves
+- **Key facts:** Trade completed June 25; Ball+Green→Minnesota for Reid+2033 unprotected 1st+3 swaps('28/'29/'30)+3 seconds('29/'32/'33); Ball 20.1 PPG/7.1 APG age 24/$40.8M/yr; Edwards+Ball backcourt; trade executes July 6
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Edwards-Ball debut; Hornets rebuild direction
+
+### STORY 5: NBA Summer League 2026 — July 9-19 in Las Vegas
+- **Tier:** 2
+- **Category:** NBA Summer League
+- **Key facts:** Thomas & Mack Center + Pavilion at UNLV; July 9-19; Dybantsa (Wizards No. 1) vs Peterson (Jazz No. 2) opening night; Boozer No. 3 Memphis also debuting; two-way signings: Dix (OKC), Donaldson (Heat), Okereke (Lakers); Dybantsa 25.5 PPG/51% BYU; Michigan trio (Johnson/Lendeborg/Mara) all Summer League bound; Thomas undrafted to watch
+- **Status:** NEW
+- **Follow-up ideas:** July 9 opening night recap; Dybantsa debut performance
+
 ## 2026-06-25
 
 | Date | Tier | Story | Platforms | Status |

@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-28",
+  "compiled_at": "2026-06-28T11:15:02.428661+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "NBA Free Agency Opens in 2 Days — KAT, LeBron, Harden Headline Class",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "NBA free agency negotiations open in 2 DAYS (June 30, 6 PM ET).\n\nKAT. LeBron. Harden. Draymond. LaVine.\n\n20+ free agents. The offseason is about to get loud.\n\n#HoopHeroes #NBA #NBAFreeAgency",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 190
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Contracts can't be signed until July 6 at 12:01 PM ET — but the Giannis trade executes that SAME day.\n\nFree agency and a blockbuster trade drop at the same moment. Wild summer ahead.\n\n#HoopHeroes #NBA #NBAFreeAgency",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBA",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-nba-free-agency-countdown.html",
+        "headline": "NBA Free Agency Opens in 2 Days — KAT, LeBron, Harden Headline the Class",
+        "word_count": 757
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Free Agency Opens in 2 Days\n\n**Concept 1 — Social (1080x1350)**\n- Description: Hero image for free agency preview; feature the marquee names of the class\n- imagn search: `LeBron James Los Angeles Lakers`\n\n**Concept 2 — Article Hero (1200x630)**\n- Description: Wide-format article hero; secondary marquee star for variety\n- imagn search: `James Harden Cleveland Cavaliers`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Free Agency Opens in 2 Days — KAT, LeBron, Harden Headline Class\n**Verified Facts:**\n- [HIGH] NBA free agency negotiations begin June 30, 2026 at 6:00 PM ET (moratorium/negotiation window opens)\n- [HIGH] Contracts can be officially signed starting July 6, 2026 at 12:01 PM ET\n- [HIGH] Karl-Anthony Towns is eligible for either a 4-year/$272M max extension or a 3-year/$208M extension with the New York Knicks beginning June 30\n- [HIGH] KAT publicly stated he is \"ready to make a financial sacrifice for the right team,\" referencing the Jalen Brunson precedent\n- [HIGH] Jalen Brunson took approximately $113M less than his max contract; Brunson won the 2026 NBA Finals MVP averaging 32.6 PPG\n- [HIGH] Knicks owner James Dolan described as \"suicidal\" about the second apron threshold\n- [HIGH] James Harden holds a player option with the Cleveland Cavaliers\n- [HIGH] LeBron James' future with the Los Angeles Lakers remains a looming decision\n- [HIGH] Notable UFAs include: Norman Powell, Andrew Wiggins, Zach LaVine, Draymond Green\n- [HIGH] Total of 20+ intriguing free agents in the 2026 class\n- [HIGH] The Giannis Antetokounmpo trade (Heat/Bucks) executes July 6, the same day contracts can be signed\n- [MEDIUM] Knicks are reported to be $13-16M below the second apron threshold, limiting roster flexibility\n**Source Confidence:** HIGH — all facts sourced from provided research brief",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "KAT $272M Decision — Knicks' Championship Retention Test",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "KAT can get $272M from the Knicks — but he says he's \"ready to make a financial sacrifice.\"\n\nBrunson took $113M less than max and won Finals MVP. Will KAT follow?\n\n#HoopHeroes #Knicks #NBA",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Knicks",
+            "#NBA"
+          ],
+          "char_count": 188
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Knicks just won the championship and now face a $272M question.\n\nOG: $212.5M. Bridges: $150M. KAT decision pending.\n\nDolan is sweating the second apron hard.\n\n#HoopHeroes #Knicks #NBAFreeAgency",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Knicks",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 197
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-kat-extension-knicks-test.html",
+        "headline": "KAT's $272M Decision Is the Knicks' Championship Retention Test",
+        "word_count": 727
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "KAT $272M Decision — Knicks' Championship Retention Test\n\n**Concept 1 — Social (1080x1350)**\n- Description: KAT as the focal point — championship Knicks context\n- imagn search: `Karl-Anthony Towns New York Knicks`\n\n**Concept 2 — Article Hero (1200x630)**\n- Description: Brunson and Towns together for the \"sacrifice\" narrative angle\n- imagn search: `Jalen Brunson New York Knicks`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "KAT $272M Decision — Knicks' Championship Retention Test\n**Verified Facts:**\n- [HIGH] Karl-Anthony Towns is eligible for a 4-year/$272M maximum extension starting June 30\n- [HIGH] Alternative extension option: 3-year/$208M\n- [HIGH] KAT publicly said he is \"ready to make a financial sacrifice for the right team\"\n- [HIGH] Brunson precedent: Jalen Brunson took approximately $113M less than his max; won 2026 Finals MVP at 32.6 PPG\n- [HIGH] The Knicks won the 2026 NBA Championship\n- [HIGH] Dolan and the Knicks organization are extremely wary of the second apron — team is $13-16M below the second apron threshold\n- [HIGH] OG Anunoby is locked in at $212.5M over 5 years\n- [HIGH] Mikal Bridges is locked in at $150M over 4 years\n- [HIGH] Mitchell Robinson is a UFA and described as \"very open to re-signing\" with the Knicks\n- [HIGH] KAT averaged strong statistics in his first Knicks season alongside Brunson (exact per-game stats not provided in research brief beyond qualification as \"stellar\")\n- [MEDIUM] KAT's internal decision timeline tracks toward the June 30 negotiation open and July 6 signing window\n**Source Confidence:** HIGH — all contractual figures and team details from provided research brief",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Ja Morant Trade Talks Heat Up — Memphis Ready to Move On",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Windhorst: \"I think we've probably seen the last moments of Ja Morant in a Grizzlies uniform.\"\n\nSuns leading. Celtics circling. Memphis is moving on.\n\n#HoopHeroes #Grizzlies #Suns #NBA",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Grizzlies",
+            "#Suns",
+            "#NBA"
+          ],
+          "char_count": 184
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-ja-morant-trade-talks.html",
+        "headline": "Ja Morant Trade Talks Heat Up — Memphis Ready to Move On",
+        "word_count": 771
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Ja Morant Trade Talks Heat Up\n\n**Concept 1 — Social + Article Hero (dual use)**\n- Description: Morant in Grizzlies uniform; moody/pensive if available\n- imagn search: `Ja Morant Memphis Grizzlies`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Ja Morant Trade Talks Heat Up — Memphis Ready to Move On\n**Verified Facts:**\n- [HIGH] ESPN's Brian Windhorst stated: \"I think we've probably seen the last moments of Ja Morant in a Grizzlies uniform\"\n- [HIGH] Ja Morant's contract: $42.2M in 2026-27, $44.9M in 2027-28\n- [HIGH] Morant's 2025-26 season stats: 19.5 PPG, 8.1 APG, 41.0% FG (career-low), 23.5% 3PT (career-low), in only 20 games\n- [HIGH] The Phoenix Suns are the leading trade destination per Bleacher Report\n- [HIGH] The Boston Celtics are circling after missing out on Giannis Antetokounmpo\n- [HIGH] The Milwaukee Bucks and Toronto Raptors are also involved in trade interest\n- [HIGH] The Memphis Grizzlies are asking acquiring teams to attach picks; other teams want Memphis to sweeten the deal (trade leverage standoff)\n- [HIGH] The Grizzlies are building around Darius Acuff Jr., the No. 7 pick in the 2026 NBA Draft\n- [MEDIUM] Complicated trade market: most teams with guard needs have already drafted point guards in the 2026 draft\n**Source Confidence:** HIGH — stats, quotes, and trade intel from provided research brief",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "LaMelo + Edwards — Timberwolves' Dynamic New Backcourt",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "4:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LaMelo Ball + Anthony Edwards in the same backcourt.\n\nThe Timberwolves' trade is done. Minnesota just got SCARY.\n\n#HoopHeroes #Timberwolves #NBA",
+          "posting_time": "4:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#Timberwolves",
+            "#NBA"
+          ],
+          "char_count": 144
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "4:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-lamelo-edwards-timberwolves.html",
+        "headline": "LaMelo Ball + Anthony Edwards: The Timberwolves Just Built Something Special",
+        "word_count": 738
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "LaMelo + Edwards — Timberwolves' Dynamic New Backcourt\n\n**Concept 1 — Social (1080x1350)**\n- Description: Anthony Edwards in Timberwolves gear; lead piece for the trade reaction\n- imagn search: `Anthony Edwards Minnesota Timberwolves`\n\n**Concept 2 — Article Hero (1200x630)**\n- Description: LaMelo Ball for the trade arrival angle\n- imagn search: `LaMelo Ball Charlotte Hornets`\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LaMelo + Edwards — Timberwolves' Dynamic New Backcourt\n**Verified Facts:**\n- [HIGH] LaMelo Ball trade completed June 25, 2026\n- [HIGH] Trade details: LaMelo Ball + Josh Green → Minnesota Timberwolves\n- [HIGH] Return package: Naz Reid + 2033 unprotected first-round pick + 3 pick swaps (2028, 2029, 2030) + 3 second-round picks (2029, 2032, 2033)\n- [HIGH] LaMelo Ball's 2025-26 stats: 20.1 PPG, 7.1 APG\n- [HIGH] Anthony Edwards was leading the Timberwolves prior to the trade\n- [HIGH] The Edwards + LaMelo Ball backcourt will play in the Western Conference\n- [HIGH] The Charlotte Hornets are now rebuilding following the trade\n- [HIGH] LaMelo Ball was earning $40.8M per year at age 24 at the time of the trade\n- [HIGH] Official trade execution window: July 6\n- [MEDIUM] Naz Reid heads back to Charlotte as part of the package\n**Source Confidence:** HIGH — all trade details from provided research brief",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "NBA Summer League 2026 — July 9-19 in Las Vegas",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "No. 1 vs. No. 2. Dybantsa (Wizards) vs. Peterson (Jazz). Opening night of NBA Summer League — July 9 in Las Vegas.\n\nDon't sleep on this.\n\n#HoopHeroes #NBASummerLeague #NBA",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#HoopHeroes",
+            "#NBASummerLeague",
+            "#NBA"
+          ],
+          "char_count": 171
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-summer-league-2026-preview.html",
+        "headline": "NBA Summer League 2026 Preview: Dybantsa vs. Peterson Headlines Las Vegas",
+        "word_count": 744
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "NBA Summer League 2026 Preview\n\n**Concept 1 — Social (1080x1350)**\n- Description: AJ Dybantsa — No. 1 pick; opening night star\n- imagn search: `AJ Dybantsa BYU`\n\n**Concept 2 — Article Hero (1200x630)**\n- Description: Darryn Peterson — No. 2 pick; rival for opening night matchup\n- imagn search: `Darryn Peterson Utah Jazz`"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "NBA Summer League 2026 — July 9-19 in Las Vegas\n**Verified Facts:**\n- [HIGH] NBA Summer League 2026 dates: July 9-19, 2026\n- [HIGH] Location: Thomas & Mack Center and Pavilion at UNLV, Las Vegas, Nevada\n- [HIGH] Marquee opening night matchup: AJ Dybantsa (Washington Wizards) vs. Darryn Peterson (Utah Jazz)\n- [HIGH] Dybantsa is the No. 1 overall pick in the 2026 NBA Draft (Washington Wizards)\n- [HIGH] Peterson is the No. 2 overall pick in the 2026 NBA Draft (Utah Jazz)\n- [HIGH] Cameron Boozer (No. 3 pick, Memphis Grizzlies) expected to debut at Summer League\n- [HIGH] AJ Dybantsa averaged 25.5 PPG and 51% FG at BYU\n- [HIGH] Two-way deal: Josh Dix (from Creighton) signed with OKC Thunder\n- [HIGH] Two-way deal: Tre Donaldson (from Miami) signed with Miami Heat\n- [HIGH] Two-way deal: AK Okereke (from Vanderbilt) signed with LA Lakers\n- [MEDIUM] Additional rookies and draft picks expected to round out summer league rosters\n**Source Confidence:** HIGH — all dates, venues, picks, and two-way signings from provided research brief",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

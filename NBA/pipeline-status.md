@@ -1,10 +1,21 @@
 # Hoop Heroes — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-26
+- **Date**: 2026-06-28
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-28
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-06-28.xlsx (7 posts) + hh-postplanner-tobi-2026-06-28.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-06-28/review-dashboard.html (22 items)
+- **Notes:** Free agency opens June 30 — KAT $272M/"ready to sacrifice"/Brunson precedent/LeBron Lakers uncertain/Harden Cavs player option; KAT Knicks second apron crisis/$272M max/OG+Bridges+Robinson UFA; Ja Morant trade — Windhorst "last moments"/Suns leading/Celtics circling post-Giannis/20 games 19.5 PPG 2025-26; LaMelo+Edwards backcourt (trade done June 25/Ball+Green for Reid+2033 1st+3 swaps/20.1 PPG)/executes July 6; Summer League July 9-19 UNLV/Dybantsa vs Peterson opening night/Michigan trio
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-06-27
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
