@@ -4024,3 +4024,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - September 1 recruiting reaction
   - 2028 class rankings (fall)
   - Florida/Arizona/UCLA fall previews
+
+---
+
+## Pipeline Run: June 28, 2026
+
+### Story 1: Tia Milloy Still Uncommitted — The Transfer Race Entering Week Five
+- **Date:** 2026-06-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 27 — Milloy portal week; now 30+ days without commitment)
+- **Angle:** Milloy entered portal May 25. As of June 28 (Day 34+), still uncommitted. Window closed June 22. Two years eligibility = leverage. FSU (lost Torres+Beachum, added Dodge+Edmiaston, utility gap), Tennessee (Mardjetko returning), Texas Tech (Polar+Heavener+Pickering class, possible scholarship room) are suitors. Patience signals serious decision-making.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Milloy commitment announcement (expected before end of July)
+  - FSU response if they miss her
+  - Tennessee/Texas Tech roster impact
+
+### Story 2: Florida's 2027 Portal Class Is Complete — Beachum and Edwards Make Walton a Title Contender
+- **Date:** 2026-06-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 22 — Beachum to Florida; now full class assessment with Edwards added)
+- **Angle:** Florida adds Beachum (.417/16 HR/66 RBI from FSU) AND Tori Edwards (.383/18 HR/73 RBI, 2025 SEC Freshman of Year from LSU) in same portal window. Also landed Duke catcher Kairi Rodriguez. Walton replaced 3 graduation losses by upgrading. Pre-portal top-4 class (On3) now pushes into top-2 nationally. Only question: pitching depth.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Florida pitching depth analysis
+  - 2027 preseason polls (Florida top-3 expected)
+  - Beachum/Edwards fall camp integration
+
+### Story 3: The Sister Transfer — Berkeley and Riley Zache Leave Oklahoma for Michigan
+- **Date:** 2026-06-28
+- **Tier:** 2
+- **Classification:** NEW STORY (first coverage; Zache sisters committed to Michigan this week)
+- **Angle:** Berkeley Zache and Riley Zache both played for Oklahoma in 2026, both entered portal, both committed to Michigan together. Extremely rare siblings-to-same-school portal move. Michigan gains Big 12 experience; Oklahoma continues post-super-regional roster rebuild.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Zache sisters Michigan spring 2027 debut
+  - Oklahoma roster rebuild progress
+
+### Story 4: 2027 Power Rankings — Final Post-Portal Edition
+- **Date:** 2026-06-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 25 — post-portal power rankings; updated with Florida's Beachum+Edwards addition)
+- **Angle:** Definitive post-portal rankings: No. 1 Texas (Torres+Stewart+Kavan+Swan, plus Freeman/Fremin staff additions), No. 2 Texas Tech (Softball America No. 1 class: Polar+Heavener+Pickering, Canady returns), No. 3 Florida (Beachum+Edwards offensive surge, pitching TBD), No. 4 Nebraska (51-6, Boutté from Ohio State), No. 5 South Carolina (targeted class, experienced returners).
+- **Content Produced:** Article (article-04), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Fall camp reports (August)
+  - 2027 preseason polls (January)
+  - Florida/Texas Tech challenge to Texas throughout season
+
+### Story 5: June Coaching Carousel Closes — Frank Reed Retires After 25 Seasons
+- **Date:** 2026-06-28
+- **Tier:** 3
+- **Classification:** NEW STORY (first coverage; Reed retired June 22, first time featured)
+- **Angle:** Frank Reed retired from UTC after 25 seasons (one of Division I's longest single-school tenures). Abilene Christian hired Larry Hays (June 23), Augustana named Colleen Powers (June 22), Southern Virginia elevated Kolby Kemp, Arizona State added Mitch Roberts from St. Cloud State. June coaching carousel officially closed.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Chattanooga head coach search
+  - New mid-major coaching staffs fall camp performance
+  - Reed legacy retrospective

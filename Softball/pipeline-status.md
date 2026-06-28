@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-06-28
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (8; 1 char violation fixed Story 4 tweet 1 284→277; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (56 claims, 0 char violations), compile (5 stories, 8 tweets, 5 FB posts, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (8 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 8 posts OK). 1 char violation fixed (Story 4 tweet 1 284→277).
+- **Key Stories**: Tia Milloy still uncommitted Day 34+/portal closed June 22/two years eligibility = leverage/FSU+Tennessee+Texas Tech suitors (Tier 1 FOLLOW UP), Florida 2027 portal class complete Beachum (.417/16HR/66RBI from FSU)+Edwards (.383/18HR/73RBI from LSU)+Rodriguez from Duke/pitching TBD (Tier 1 FOLLOW UP), Zache sisters Berkeley+Riley OU to Michigan together/rare sibling simultaneous transfer (Tier 2 NEW), 2027 final post-portal power rankings Texas+Texas Tech+Florida+Nebraska+South Carolina (Tier 2 FOLLOW UP), Frank Reed retires Chattanooga 25 seasons/June coaching carousel closes/Hays+Powers+Kemp+Roberts (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-06-27
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims, 0 char violations), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
@@ -9,7 +17,7 @@
 - **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 7 posts OK).
 - **Key Stories**: Tia Milloy portal recruitment race/who wins FSU vs Tech vs SC/two-year utility major conf experience (Tier 1 FOLLOW UP), Texas 2027 three-peat case/Stewart 31 HRs school record to 1B for Torres/Freeman from Arizona/NFCA Coaching Staff of Year (Tier 1 FOLLOW UP), Jenny Topping hired Bakersfield/Olympic gold 2004/first HC role (Tier 2 NEW), PGF Nationals preview July 19-26 Great Park Irvine/Class of 2028 contact window 64 days (Tier 2 FOLLOW UP), 2027 recruiting race Florida+Arizona+UCLA/House Settlement 25-player cap (Tier 3 NEW)
 
-## Last Run
+## Previous Run
 - **Date**: 2026-06-26
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (7), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (24 claims, 0 char violations), compile (5 stories, 7 tweets, 5 FB posts, 5 articles), dashboard (27 items), PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected) and publish-dashboard.py (committed locally). Git rebase required to reconcile diverged branches.
