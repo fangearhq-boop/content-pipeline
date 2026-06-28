@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-06-27T08:30:00.878148+00:00",
-  "today_ct": "2026-06-27",
+  "generated_at": "2026-06-28T08:30:00.757736+00:00",
+  "today_ct": "2026-06-28",
   "off_day": false,
   "is_series_start_today": false,
   "series": {
     "opponent": "Milwaukee Brewers",
     "opponent_id": 158,
-    "opponent_record": "50-29",
-    "cubs_record": "44-38",
+    "opponent_record": "50-30",
+    "cubs_record": "45-38",
     "is_cubs_home": false,
     "venue": "American Family Field",
-    "series_length": 2,
+    "series_length": 1,
     "games": [
-      {
-        "game_pk": "823770",
-        "game_date_iso": "2026-06-27T23:10:00Z",
-        "game_date_ct": "Sat 6:10 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "823769",
         "game_date_iso": "2026-06-28T18:10:00Z",
@@ -32,16 +24,16 @@
     "rationale": "Same opponent (Milwaukee Brewers) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "823770",
+    "game_pk": "823769",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-06-27T23:10:00Z",
-    "game_date_ct": "Sat 6:10 PM CT",
+    "game_date_iso": "2026-06-28T18:10:00Z",
+    "game_date_ct": "Sun 1:10 PM CT",
     "is_cubs_home": false,
     "opponent_id": 158,
     "opponent_name": "Milwaukee Brewers",
-    "opponent_record": "50-29",
-    "cubs_record": "44-38",
+    "opponent_record": "50-30",
+    "cubs_record": "45-38",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "American Family Field"
