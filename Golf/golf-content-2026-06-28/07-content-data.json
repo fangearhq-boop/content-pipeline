@@ -1,0 +1,302 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-28",
+  "compiled_at": "2026-06-28T11:34:46.166942+00:00",
+  "niche": {
+    "brand_name": "Golf Fanrecap",
+    "brand_short": "GFR",
+    "content_prefix": "golf-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Travelers Championship Final Round — Hovland vs Scheffler at TPC River Highlands",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "FINAL ROUND. Travelers Championship.\n\nViktor Hovland -20 leads by 1 over Scottie Scheffler -19.\n\nHovland shot 64 yesterday to flip the leaderboard. Scheffler shot 60 in R2.\n\nOne of the best Sunday setups of the year.\n\n#GolfFanrecap #Travelers",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#Travelers"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Scheffler had a 2-shot lead entering R3. Hovland outplayed him — 64 to 67 — and flipped it.\n\nNow No. 1 in the world starts Sunday 1 back with everything to prove.\n\n$20M purse. The final group tees off this morning.\n\n#GolfFanrecap #PGATour",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#PGATour"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-travelers-final-round.html",
+        "headline": "Travelers Championship Final Round — Hovland Leads by 1 over Scheffler",
+        "word_count": 681
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Travelers Championship Final Round\n**Key Facts (HIGH confidence):**\n- Tournament: 2026 Travelers Championship at TPC River Highlands, Cromwell, Connecticut\n- Dates: June 25-28, 2026 (Final Round Sunday June 28)\n- Round 3 leaderboard: Viktor Hovland -20 (leads by 1), Scottie Scheffler -19\n- Hovland shot 6-under 64 in Round 3 to flip 2-shot deficit into 1-shot lead\n- Scheffler shot 67 in Round 3\n- R3 18th hole: Hovland made 6-foot birdie; Scheffler ran 25-foot putt 8 feet past and missed the return\n- Purse: $20 million (Signature Event, no-cut limited field)\n- Winner's share: $3.6 million\n- Scheffler in Round 2 shot 60 (11 birdies, 1 bogey) — historic round\n- Scheffler seeking 2nd win of 2026 (1st was American Express)\n- Scheffler has 8 top-5s and 1 win in 2026; 157 consecutive weeks at No. 1 in world rankings\n- Bradley was defending champion but not in final pairing\n**Key Facts (MEDIUM confidence):**\n- Scheffler's world ranking: No. 1 (157 weeks straight)\n- American Express was Scheffler's first 2026 win",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "KPMG Women's PGA Final Round — Ryu Leads, Korda 4 Back in Historic Chase",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Haeran Ryu leads the KPMG Women's PGA at -11. Brooke Henderson is one back. Nelly Korda is four back at -7.\n\nKorda needs a miracle round to become only the third woman ever to win 3 consecutive majors.\n\nHistory is still on the table.\n\n#GolfFanrecap #LPGA",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LPGA"
+          ],
+          "char_count": 254
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Only Zaharias in 1950 and Inbee Park in 2013 have won 3 consecutive LPGA majors.\n\nKorda already won the Chevron and the US Women's Open this year.\n\nShe's 4 back with 18 holes left at Hazeltine.\n\n#GolfFanrecap #NellyKorda #LPGA",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#NellyKorda",
+            "#LPGA"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-kpmg-final-round.html",
+        "headline": "KPMG Women's PGA Final Round: Ryu Leads, Korda 4 Back in Historic Chase",
+        "word_count": 620
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "KPMG Women's PGA Championship Final Round\n**Key Facts (HIGH confidence):**\n- Tournament: 2026 KPMG Women's PGA Championship at Hazeltine National, Chaska, Minnesota\n- Dates: June 25-28, 2026 (Final Round Sunday June 28)\n- 54-hole leaderboard: Haeran Ryu -11 (leads by 1 over Brooke Henderson -10)\n- Nelly Korda at -7 (four shots back)\n- Ina Yoon at -9 (three shots back from leader)\n- Dewi Weber and A Lim Kim at -8\n- Ryu's Round 3: 3 birdies and eagle on front nine (5-under 31 front), 4-under 68 total\n- Korda chasing 3rd consecutive LPGA major in 2026 (won Chevron + US Women's Open)\n- Only Zaharias (1950) and Inbee Park (2013) have won 3 consecutive LPGA majors\n- Purse: $13 million (record)\n- Korda Hall of Fame: 25/27 points; major = 2 pts; winning KPMG = 27, then 1 more major = HOF eligible\n- Course: Hazeltine National Golf Club, 6,800+ yards\n**Key Facts (HIGH confidence):**\n- Wyndham Clark won 2026 US Open at Shinnecock Hills (wire-to-wire, -4, 1 shot over Sam Burns)\n- Clark's 54-hole total of 7-under 203 was lowest 36-hole score ever recorded at Shinnecock Hills\n- Clark rose from 34th to 8th in OWGR after US Open win\n- Prize: $4.5 million",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "The Open Championship Preview — Mickelson Out, Record Crowd at Royal Birkdale",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Phil Mickelson is out of The Open. Tiger Woods didn't enter.\n\nRoyal Birkdale. July 16-19. 300,000+ fans expected — an all-time record.\n\nThe 154th Open Championship has a big field and two big absences.\n\n#GolfFanrecap #TheOpen #RoyalBirkdale",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#TheOpen",
+            "#RoyalBirkdale"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-open-championship-preview.html",
+        "headline": "The Open Championship Preview: Mickelson Out, Record Crowd Expected at Royal Birkdale",
+        "word_count": 564
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "The Open Championship\n**Key Facts (HIGH confidence):**\n- Tournament: 154th Open Championship at Royal Birkdale Golf Club, England\n- Dates: July 16-19, 2026\n- Phil Mickelson withdrew — new allegations regarding explicit photograph shown to wife of fellow professional\n- Tiger Woods did not file entry by deadline\n- R&A CEO Mark Darbon: expects attendance to exceed 300,000 (all-time record)\n- Over 1 million ticket applications received\n- Field: 156 players; 117 exemption competitors confirmed\n- New format: \"Last Chance Qualifier\" — 12 players compete over 18 holes Monday of Open week for final spot\n- Final Qualifying held at: Burnham & Berrow, Dundonald, Royal Cinque Ports, West Lancashire\n**Key Facts (MEDIUM confidence):**\n- Scheffler defending (won 2025 Open Championship)\n- Royal Birkdale located in Southport, England",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "LIV Golf Running on Loans — Four Events Left, Financial Future Unclear",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "3:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "LIV Golf is running on loans to finish its 2026 season.\n\nSaudi Arabia's PIF confirmed backing through end of 2026 only. Louisiana paid $3.2M under contract — the event was cancelled anyway.\n\nFour events left. The future is uncertain.\n\n#GolfFanrecap #LIVGolf",
+          "posting_time": "3:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#LIVGolf"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:30 PM ET"
+      },
+      "article": {
+        "filename": "article-04-liv-golf-running-on-loans.html",
+        "headline": "LIV Golf Running on Loans: Four Events Left, Financial Future Unclear",
+        "word_count": 646
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LIV Golf Financial Situation\n**Key Facts (HIGH confidence):**\n- LIV Golf operating on loans to finish 2026 season\n- PIF (Saudi Arabia's Public Investment Fund) backing confirmed through end of 2026 only\n- Louisiana event was postponed citing summer heat; Louisiana invested $7 million; paid $3.2 million under contract\n- Four events remain: UK, New York, Indianapolis, $40M Team Championship in Michigan\n- Jon Rahm won Hong Kong (by 3 shots) and Mexico City (by 6 shots) in early 2026\n- Rahm completed 9 of 13 events at time of reporting\n**Key Facts (MEDIUM confidence):**\n- Total PIF investment: $5 billion+\n- Only $200M of $600M needed for continued ops received\n- New board members: Gene Davis + Jon Zinman",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "John Deere Classic Preview — July 2-5 at TPC Deere Run",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "John Deere Classic is next week. July 2-5 at TPC Deere Run in Silvis, Illinois.\n\n$8.8M purse over the Fourth of July weekend. JT Poston and Ben Griffin among those committed.\n\nYoung players chasing their first PGA Tour wins.\n\n#GolfFanrecap #JohnDeereClassic #PGATour",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#GolfFanrecap",
+            "#JohnDeereClassic",
+            "#PGATour"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-john-deere-classic-preview.html",
+        "headline": "John Deere Classic Preview: $8.8M Purse, July 4th Weekend at TPC Deere Run",
+        "word_count": 544
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "John Deere Classic\n**Key Facts (HIGH confidence):**\n- Tournament: 2026 John Deere Classic at TPC Deere Run, Silvis, Illinois\n- Dates: July 2-5, 2026 (July 4th holiday weekend)\n- Purse: $8.8 million; winner's share: $1.584 million\n- FedEx Cup points: 500 to winner\n- Notable committed players: JT Poston, Ben Griffin",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

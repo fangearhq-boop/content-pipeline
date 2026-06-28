@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-28
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-28 | T1 | Travelers Championship Final Round — Hovland Leads by 1 at -20, Scheffler One Back | X, FB, Article | FOLLOW UP |
+| 2026-06-28 | T1 | KPMG Women's PGA Final Round — Ryu Leads at -11, Korda 4 Back in Historic Chase | X, FB, Article | FOLLOW UP |
+| 2026-06-28 | T2 | Open Championship Preview — Mickelson Out, Record Crowd at Royal Birkdale | X, FB, Article | FOLLOW UP |
+| 2026-06-28 | T2 | LIV Golf Running on Loans — Four Events Left, Financial Future Unclear | X, FB, Article | FOLLOW UP |
+| 2026-06-28 | T2 | John Deere Classic Preview — $8.8M Purse, July 2-5 at TPC Deere Run | X, FB, Article | NEW |
+
+### STORY 1: Travelers Championship Final Round — Hovland vs Scheffler
+- **Tier:** 1
+- **Category:** PGA Tour / Signature Event / Travelers
+- **Key facts:** Hovland -20 leads by 1 after R3 64 (birdie on 18); Scheffler -19 (R3 67, missed 8-ft return putt on 18); $20M purse/$3.6M winner; TPC River Highlands; Scheffler 157 weeks at No. 1; Scheffler 1 win 2026 (American Express)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final round result; Hovland first Travelers win; Scheffler 2nd win 2026
+
+### STORY 2: KPMG Women's PGA Final Round — Ryu Leads, Korda 4 Back
+- **Tier:** 1
+- **Category:** LPGA / Major / KPMG / Korda
+- **Key facts:** Ryu -11 leads (R3: eagle + 3 birdies front 9/68 total); Henderson -10; Korda -7 (4 back); Korda chasing 3rd consecutive LPGA major (only Zaharias 1950 and Park 2013 done it); HOF 25/27 pts (major = 2); $13M purse (record)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final round result; Korda three-peat or Ryu/Henderson win; Hall of Fame path update
+
+### STORY 3: Open Championship Preview
+- **Tier:** 2
+- **Category:** Major / Open Championship / Royal Birkdale
+- **Key facts:** 154th Open Championship July 16-19 Royal Birkdale; Mickelson withdrew (explicit photo allegations); Woods no entry; Scheffler defending (won 2025); 300,000+ expected (all-time record); 1M+ ticket applications; Last Chance Qualifier new format; 156 players/117 exemptions confirmed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Field announcements; Mickelson situation development; Scheffler pre-Open prep
+
+### STORY 4: LIV Golf Running on Loans
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** Operating on loans through 2026; PIF backing confirmed only through 2026; $200M of $600M needed received; Louisiana event paid $3.2M, cancelled; 4 events remain (UK/NY/Indy/$40M Team Champ Michigan); Rahm won Hong Kong + Mexico City; new board Gene Davis + Jon Zinman
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** 2027 season announcement; PIF next investment decision; merger or dissolution
+
+### STORY 5: John Deere Classic Preview
+- **Tier:** 2
+- **Category:** PGA Tour / John Deere Classic
+- **Key facts:** July 2-5 TPC Deere Run Silvis IL; $8.8M purse/$1.584M winner; 500 FedEx Cup pts; Poston + Griffin committed; held week before Open Championship
+- **Status:** NEW
+- **Follow-up ideas:** First round coverage; winner story; FedEx Cup standings impact
+
 ## 2026-06-27
 
 | Date | Tier | Story | Platforms | Status |

@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-27
+- **Date**: 2026-06-28
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-28
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-06-28.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-28.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-28/review-dashboard.html (22 items)
+- **Notes:** Travelers Championship Final Round — Hovland -20 leads by 1 over Scheffler -19 (R3: Hovland 64/Scheffler 67; 18th hole: Hovland made 6-ft birdie/Scheffler missed 8-ft return putt)/$20M purse/Scheffler 157 weeks No.1; KPMG Women's PGA Final Round — Ryu -11 leads (R3: 5-under front 9 with eagle/total 68)/Henderson -10/Korda -7 (4 back) chasing 3rd consecutive LPGA major (only Zaharias 1950 + Park 2013 before her)/$13M record purse/Korda HOF 25/27 pts; Open Championship preview: Mickelson withdrew (explicit photo allegations)/Woods no entry/Scheffler defending/300,000+ attendance expected Royal Birkdale July 16-19/Last Chance Qualifier format new/1M+ ticket applications; LIV Golf: operating on loans/PIF backing through 2026 only/$200M of $600M received/Louisiana event paid $3.2M cancelled/$40M Team Championship Michigan still on/Rahm won HK + Mexico City; John Deere Classic preview: July 2-5 TPC Deere Run Silvis IL/$8.8M purse/$1.584M winner/500 FedEx pts/Poston+Griffin committed
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-06-27
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
