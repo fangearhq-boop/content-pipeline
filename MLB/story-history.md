@@ -3534,3 +3534,62 @@ Each day's stories are appended at the top (newest first).
   - Skubal trade announcement
   - Red Sox buyer/seller decision
   - Chapman destination
+
+---
+
+## Pipeline Run: June 28, 2026
+
+### Story 1: Mets Fire Carlos Mendoza — Andy Green Steps In as Interim
+- **Date:** 2026-06-28
+- **Tier:** 1
+- **Classification:** NEW STORY (first coverage; firing announced June 27)
+- **Angle:** Mendoza dismissed at 34-47 (second-worst NL record). Andy Green (VP Player Development) interim, returns to front office post-2026. Mendoza led 2024 NLCS, 2025 collapsed from 45-24 to below .500. Six consecutive losses including Cubs doubleheader sweep with 6-error game. August 3 deadline is the real next decision.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Mets trade deadline posture (buyer vs. seller)
+  - Permanent manager search for 2027
+  - Mets roster moves July
+
+### Story 2: Skubal Trade Deadline Heat — 85 Percent Odds and a Historic Price Tag
+- **Date:** 2026-06-28
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 27 — 85% probability first reported; today: landing spots and asking price breakdown)
+- **Angle:** ESPN 85%, Kalshi 64% trade odds. Tigers asking: top-100 prospect + 2-3 top-10 org prospects (CC Sabathia-level). Braves would need 2 top-10 (one top-100). ~$11M salary for two months. Market: Dodgers, Braves, Cubs, Yankees, Blue Jays, Phillies, Padres, Rangers, Rays. Tigers have leverage to wait.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade announcement (August 3 deadline)
+  - Tigers receiving package analysis
+  - Skubal postseason run at new destination
+
+### Story 3: Witt Jr. Returns Tonight — Back as DH Against the White Sox
+- **Date:** 2026-06-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 27 — return "very encouraging"; today: actually in lineup as DH)
+- **Angle:** Witt returns June 28 as DH vs. White Sox. Grade 1 MCL, 6 games missed, never on IL in 5 MLB seasons. Josh Rojas at SS. Knee brace. Royals need wins vs. White Sox (42-38, AL Central leaders) for wild card position.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Witt return to SS (next series)
+  - Royals second-half wild card chase
+  - AL Central standings update
+
+### Story 4: All-Star Phase 2 Opens Monday — Ohtani and Clement Are Locked In
+- **Date:** 2026-06-28
+- **Tier:** 2
+- **Classification:** FOLLOW UP (June 27 — Phase 2 preview; today: Phase 2 opens June 29 at noon ET)
+- **Angle:** Ohtani (3,341,257 votes) auto NL DH. Clement (3,232,932) auto AL 2B. Phase 1 votes don't carry over. Fresh election June 29-July 2 noon ET. Winners July 4 FOX. Vote at MLB.com/vote. Clement's Phase 1 win is a case study in fan base organizing.
+- **Content Produced:** Article (article-04), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Full All-Star roster announcement July 4
+  - All-Star Game July 14 preview
+  - Phase 2 results by position
+
+### Story 5: White Sox Are Leading the AL Central at 42-38
+- **Date:** 2026-06-28
+- **Tier:** 3
+- **Classification:** NEW STORY (first dedicated coverage of White Sox turnaround)
+- **Angle:** White Sox 42-38, first in AL Central. Jacob Gonzalez walk-off RBI single June 27 beat Royals 2-1. Notable turnaround from 2025 struggles. AL Central: Guardians 42-40, Royals (Witt returning). Dodgers (52-30) lead MLB. August 3 deadline will test Chicago's buyer/seller posture.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox trade deadline posture
+  - AL Central standings second half
+  - Gonzalez season arc
