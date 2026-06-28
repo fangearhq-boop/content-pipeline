@@ -1,6 +1,46 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: June 27, 2026
+## Latest Run: June 28, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | TOMY Boon NURSH baby bottle recall (cpsc.gov; ~40,000 units; Walmart only Nov 2025–May 2026; 8 oz, 3-pack Pink Tie Dye; UPC 047406155065 Item B11654; liquid silicone nipple tip separates from collar → choking hazard; 0 incidents; stop use now; $22 store credit or replacement set; 866-725-4407 M–F 8 AM–4 PM CT; boonrecall@tomy.com; tomy.com/boon); AAP drowning prevention 2026 guidelines (aap.org/healthychildren.org; No. 1 cause of death ages 1–4 in US; rates rising after 2019 decline; layered approach: touch supervision + swim lessons after age 1 + 4-sided pool fencing + life jackets open water + CPR training; Rosemont Reservoir note: non-motorized boats only/no swimming); Pikes Peak or Bust Rodeo 2026 (pikespeakorbust.org; July 14–18; Norris-Penrose Event Center; 7:30 PM nightly + matinees July 17–18 12:30 PM; pre-rodeo parade downtown COS July 11 fun 9:45 AM parade 11 AM FREE; free 14-min drone show July 16 after evening performance celebrating America's 250th + CO 150th; NFR Open qualifying; tickets via TicketSpice); Pikes Peak Sunrise Openings 2026 (coloradosprings.gov/SunriseOpening; July 12 + July 18 next dates; also Aug 1, Sept 27, Oct 13; gateway 4:45 AM; last entry 6:30 AM; $18/adult $8/child $65/carload; new 2026 shuttle $35 adult/$10 child 6–15/free under 5; advance permits required); COS high-altitude sun safety (Skin Cancer Foundation ~4% UV increase per 1,000 ft; COS at 6,035 ft = ~24% more UV than sea level; Pikes Peak summit ~56%; AAP: no sunscreen under 6 months; SPF 30+ for 6 mo+; apply 30 min before/reapply every 2 hrs; seek shade 10 AM–4 PM; clouds don't block UV at elevation; car windows block UVB not UVA) |
+| Story History Check | COMPLETE | 5 NEW STORIES (TOMY Boon NURSH recall, AAP drowning prevention 2026, Pikes Peak or Bust Rodeo 2026, Pikes Peak Sunrise Openings 2026, COS high-altitude sun safety); confirmed against story-history.md |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 for S1 recall, 2 for S2 AAP drowning, 1 each for S3/S4/S5); char violations on first run (tweets not in code blocks — plain text format → parser inflated counts); rewrote entire file with #### Text Post / code block format; second run passed; all under 280 chars; 4 hashtags each; COS voice rules |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (2 per story: 1200x675 X/Twitter social + 1200x630 article hero/Facebook); clean bottom third; no celebrity likenesses |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML in code block; 10 images; all not_started; photo_source: gemini; model: gemini-2.5-flash-image; gemini_mode: base_only; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-800 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); sun safety article used correct ~24% UV figure (daily brief had incorrect 14%) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 85 claims; HIGH: 214, MEDIUM: 17, LOW: 71; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-28.xlsx (7 posts, 13:19–20:43 MT) + TOBI cosp-postplanner-tobi-2026-06-28.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-28)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 X posts)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-28.xlsx (7 posts, 13:19–20:43 MT), cosp-postplanner-tobi-2026-06-28.xlsx (7 TOBI posts)
+- **Coverage:** TOMY Boon NURSH baby bottle recall (cpsc.gov; ~40,000 units 8 oz 3-pack Pink Tie Dye; Walmart only Nov 2025–May 2026; UPC 047406155065 Item B11654; liquid silicone nipple tip separates from collar → choking hazard; 0 reported incidents; stop use immediately; remedy: $22 store credit or replacement set; call 866-725-4407 M–F 8 AM–4 PM CT; email boonrecall@tomy.com; tomy.com/boon); AAP drowning prevention 2026 guidelines (aap.org; No. 1 cause of death for children ages 1–4 in the US; rates declined 1999–2019 then rose again; layered protection approach: touch supervision arm's length + swim lessons after age 1 + 4-sided pool fencing + USCG life jackets open water + adult CPR training; Rosemont Reservoir note: non-motorized boats only/no swimming; guidelines published June 2026); Pikes Peak or Bust Rodeo 2026 (July 14–18 Norris-Penrose Event Center; 7:30 PM nightly + matinees July 17–18 12:30 PM; pre-rodeo parade downtown COS July 11 fun 9:45 AM parade 11 AM FREE; free 14-minute drone show July 16 after evening performance celebrating America's 250th + CO 150th statehood; NFR Open qualifying; official tickets PikesPeakorBust.org + NorrisPenrose.com via TicketSpice; Mutton Bustin/carnival/livestock shows/dog shows/stilt circus); Pikes Peak Sunrise Openings 2026 (coloradosprings.gov/SunriseOpening; five dates: July 12, July 18, Aug 1, Sept 27, Oct 13; gateway 4:45 AM last entry 6:30 AM; $18/adult $8/child $65/carload up to 5 passengers; NEW 2026 shuttle $35 adult/$10 child ages 6–15/free children under 5; advance timed entry permits required — sell out well in advance; summit 14,115 ft 30–40°F cooler than COS; July 4 is NOT a sunrise opening date); COS high-altitude sun safety (Skin Cancer Foundation ~4% UV increase per 1,000 ft; COS 6,035 ft = ~24% more UV than sea level; Garden of the Gods ~26%; Pikes Peak summit ~56%; AAP guidance: no sunscreen infants under 6 months/shade + protective clothing; SPF 30+ broad-spectrum for ages 6 mo+; apply 30 min before going out; reapply every 2 hrs or after swimming/sweating; seek shade 10 AM–4 PM; COS-specific: clouds don't block UV at elevation; standard car windows block UVB not UVA → use rear window shades for back-seat passengers; healthychildren.org + skincancer.org)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (Niche 1 completed June 28)
+  - X posts format wrong on first attempt (tweets as plain text paragraphs, no code blocks → parser found 5 posts at 291+ chars). Rewrote entire 03-social-posts-x.md with correct #### Text Post / code block format. Second compile run found all 7 tweets, no char errors.
+  - Sun safety article: daily brief stated "14% higher UV" (incorrect). Research notes correctly calculated ~24% (6.035 × 4% per 1,000 ft). Used 24% in X posts and articles. Daily brief left as-is (already written before session resumed).
+  - Compile: 7 X posts, 0 FB posts (parser compatibility — same as all prior runs); 22 dashboard items; posting window warnings cosmetic
+  - Image manifest warnings cosmetic (same as all prior Parenting runs — gemini images generated separately via Canva)
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from June 27's Jamie Rivera [S1, S3, S5])
+
+---
+
+## Prior Run: June 27, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

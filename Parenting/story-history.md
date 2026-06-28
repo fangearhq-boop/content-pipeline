@@ -2,6 +2,50 @@
 
 ---
 
+## June 28, 2026
+
+### Story 1: RECALL — TOMY Boon NURSH Baby Bottles (8 oz, 3-Pack, Pink Tie Dye) — Choking Hazard
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — TOMY International recalled ~40,000 Boon NURSH 8 oz Reusable Baby Bottles (3-Pack, pink tie dye, item B11654, UPC 669028116546) on June 4, 2026. Hard plastic outer shell bubbles or peels; loose film-like pieces pose choking hazard. Sold exclusively at Walmart/Walmart.com Nov 2025–May 2026 for ~$20. 135 reports of bubbling/peeling, 0 injuries. Remedy: stop use; contact TOMY for $22 booninc.com store credit OR replacement set in different color. 866-725-4407 M–F 8 AM–4 PM CT; cs@tomy.com; recall.tomy.com/nursh.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov (official recall page), foxbusiness.com, wfaa.com, wbiw.com (all HIGH confidence)
+- **Follow-Up Opportunities:** None — recall active; will age out
+
+### Story 2: AAP Releases Updated Drowning Prevention Guidelines (June 2026, Pediatrics)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP published updated drowning prevention guidelines in June 2026 issue of Pediatrics. Drowning is leading cause of death ages 1–4 in US; rates declined 1999–2019, now rising again; racial/ethnic/geographic disparities widening. Core message: no single method prevents all drowning — use layered approach: touch supervision (arm's length), swim lessons after age 1, 4-sided pool fencing, Coast Guard-approved life jackets, adult CPR training. Children with epilepsy, autism at elevated risk — speak with pediatrician. AAP urges water safety integration into well-child visits. COS local angle: YMCA swim lessons available; Rosemont Reservoir (non-motorized boating only, no swimming).
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** healthychildren.org, aap.org, hngn.com, contemporarypediatrics.com (all HIGH confidence)
+- **Follow-Up Opportunities:** Rosemont Reservoir opening; YMCA swim lesson enrollment deadlines
+
+### Story 3: Pikes Peak or Bust Rodeo 2026 — July 14–18 at Norris-Penrose
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (for June 28; story also appeared June 23 from different angle) — Full family guide for 2026 rodeo. NFR Open qualifying event. July 14–18 at Norris-Penrose Event Center; evening shows 7:30 PM; matinees July 17–18 at 12:30 PM. Pre-rodeo parade downtown COS July 11 (fun starts 9:45 AM, parade 11:00 AM). Thursday July 16: FREE 14-minute drone show after rodeo (America's 250th + Colorado 150th). Tickets at PikesPeakorBust.org and NorrisPenrose.com only. Family extras: mutton busting, livestock/dog shows, stilt circus, carnival.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** pikespeakorbust.org, cowboylifestylenetwork.com, fox21news.com (all HIGH confidence). Ticket prices not listed publicly — direct to official site.
+- **Follow-Up Opportunities:** Day-of coverage July 14; drone show recap July 17
+
+### Story 4: Pikes Peak Sunrise Openings 2026 — Select Summer/Fall Dates
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — City of Colorado Springs offers Sunrise Openings at Pikes Peak (14,115 ft) on select dates: July 12, July 18, Aug 1, Sept 27, Oct 13. Gateway opens 4:45 AM; last entry 6:30 AM. Admission: $18/adult, $8/child, $65/carload (up to 5). NEW this year: shuttle at $35/adult, $10/child ages 6–15, under 5 free. Advance permits required at coloradosprings.gov/SunriseOpening. July 4 is NOT a sunrise opening date.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** coloradosprings.gov/SunriseOpening, pikes-peak.com, peakradar.com (all HIGH confidence)
+- **Follow-Up Opportunities:** Reminder before July 12 opening; reminder before Aug 1 opening
+
+### Story 5: COS High-Altitude Sun Safety for Families — Summer UV Risk
+- **Content Pillar:** National Parenting (COS angle)
+- **Angle:** NEW STORY — COS at 6,035 ft has ~24% more UV than sea level (4% per 1,000 ft per skincancer.org). Families at Garden of the Gods (~6,400 ft) or Pikes Peak (14,115 ft) face even higher UV. AAP guidance: no sunscreen infants under 6 months (use clothing/shade/hats); SPF 15–30 babies 6 months+; SPF 30+ broad-spectrum all ages applied 30 min before + reapply every 2 hours; UPF 50+ clothing; seek shade 10 AM–4 PM. COS-specific: UV penetrates clouds at elevation; car windows block UVB but not UVA (use window shades).
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** skincancer.org, aap.org, coloradosprings.gov (HIGH confidence); ~24% UV calculation MEDIUM (calculated; stated as approximate)
+- **Follow-Up Opportunities:** Back-to-school sun safety reminder in August
+
+---
+
 ## June 27, 2026
 
 ### Story 1: RECALL — MedPride Baby Oil (Shield Line) — Non-Child-Resistant Packaging
