@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-28
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-28 | T1 | Austrian GP Race Day — Russell on Pole, Verstappen Starts Last | X, FB, Article | NEW |
+| 2026-06-28 | T1 | Verstappen's Austrian GP Nightmare — Crash in Qualifying, Exit Clock Ticking | X, FB, Article | FOLLOW UP |
+| 2026-06-28 | T2 | Antonelli vs Hamilton — Championship Math at the Austrian GP | X, FB, Article | FOLLOW UP |
+| 2026-06-28 | T2 | Cadillac's Austrian GP Upgrade — Zero Points, Final Gamble | X, FB, Article | FOLLOW UP |
+| 2026-06-28 | T2 | F1 Silly Season 2026 — 15 Drivers Without 2027 Seats | X, FB, Article | NEW |
+
+### STORY 1: Austrian GP Race Day — Russell on Pole, Verstappen Starts Last
+- **Tier:** 1
+- **Category:** Race Weekend / Austrian GP
+- **Key facts:** Russell pole (beat Leclerc + Hamilton in Q3); Antonelli P3 defending 41-pt lead; Hamilton P5; Verstappen starts last after Q3 crash Turn 9 ("As soon as I turned the wheel it was just gone"); race 9:00 AM ET / 15:00 local; 71 laps / 4.318km Red Bull Ring; Verstappen won here 6 times (2018-2023)
+- **Status:** NEW
+- **Follow-up ideas:** Race result Sunday; championship impact
+
+### STORY 2: Verstappen Exit Clock
+- **Tier:** 1
+- **Category:** Driver Market / Verstappen / Red Bull
+- **Key facts:** Q3 crash Turn 9; starts last; P7 championship 55pts/113 behind Antonelli; exit clause: not in top-2 by Hungarian GP July 26 → can leave unilaterally; Vermeulen confirmed "cannot be blocked"; Mercedes frontrunner; Aston Martin also mentioned (Newey); shareholders split (Thai for departure/Mateschitz+Mintzlaff against); retirement hinted; Red Bull final 6kg weight cut in Austria
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Exit clause activation announcement; Mercedes confirmation
+
+### STORY 3: Antonelli vs Hamilton Championship Math
+- **Tier:** 2
+- **Category:** Championship / F1 2026
+- **Key facts:** Antonelli 156 pts / Hamilton 115 pts / 41-pt gap (was 66 before Barcelona); Hamilton needs 2.7 pts/race advantage over 15 remaining races; 399 pts available; Hamilton 106th win Barcelona 1st for Ferrari; Antonelli 5 wins/4 poles/6 podiums; FIA banned Mercedes W17 serrated diffuser effective Austria; Ferrari triggered ban + had alternative pre-approved; Mercedes constructors 262 / Ferrari 190 (72-pt gap)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austria championship gap update; Silverstone diffuser-free Ferrari pace
+
+### STORY 4: Cadillac Zero Points Austrian GP Upgrade
+- **Tier:** 2
+- **Category:** Midfield / Cadillac
+- **Key facts:** 0 pts 7 races — worst modern-era start; Austria biggest upgrade targeting lap-15 tire cliff; Perez: 2x electrical failure FP1 (ECU replacement failed)/FP2 VSC; Bottas: floor sparks→smoke→cockpit fire FP2 (reignited); 0 upgrade laps logged Friday; race is first real upgrade test
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Austria race tire performance; first Cadillac points scored
+
+### STORY 5: F1 Silly Season 2026 — 2027 Driver Market
+- **Tier:** 2
+- **Category:** Driver Market / Silly Season
+- **Key facts:** 15 of 22 drivers no confirmed 2027 seat; Verstappen domino (Mercedes frontrunner/Audi also); Alonso + Stroll (Aston Martin contracts end 2026); Sainz (Williams) → Audi interest; Audi pursuing with 3-yr contracts; confirmed: Norris (McLaren 2027), Piastri (McLaren 2028), Hamilton (Ferrari long-term); Hungarian GP July 26 = key deadline
+- **Status:** NEW
+- **Follow-up ideas:** Verstappen announcement July 26+; first 2027 seats confirmed
+
 ## 2026-06-27
 
 | Date | Tier | Story | Platforms | Status |

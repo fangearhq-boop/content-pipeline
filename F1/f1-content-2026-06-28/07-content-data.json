@@ -1,0 +1,227 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-28",
+  "compiled_at": "2026-06-28T11:25:07.159385+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Austrian GP Race Day — Russell on Pole as Verstappen Fights Back from Grid Drop",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "RACE DAY. Austrian GP starts at 9 AM ET.\n\nRussell on pole. Antonelli P3, defending a 41-point championship lead. Hamilton lurking from P5.\n\nAnd Verstappen? Starting from the back after crashing in Q3 at a track he has won 6 times.\n\nThis grid is loaded.",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 252
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Russell beat Leclerc and Hamilton to pole in Austria. Antonelli held provisional pole in Q3 but couldn't improve on his final run and drops to P3.\n\nMeanwhile Verstappen crashed at Turn 9 — \"As soon as I turned the wheel it was just gone.\"\n\nHe starts dead last.",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 260
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-austrian-gp-race-day.html",
+        "headline": "Austrian GP Race Day: Russell on Pole as Verstappen Fights Back from Grid Drop",
+        "word_count": 962
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Austrian GP Race Day — Russell on Pole as Verstappen Fights Back from Grid Drop\n\n**Primary Search:** George Russell Mercedes\n**Secondary Search:** Kimi Antonelli Mercedes\n**Backup Search:** Lewis Hamilton Ferrari\n\n**Preferred shot type:** Russell in cockpit or on the pit wall — a shot that conveys focus and readiness before a race start. Clean, bright lighting preferred. Helmet on.\n\n**Avoid:** Any shot that shows a crash, car damage, or pit lane chaos. Avoid group celebration shots that include post-race elements.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's Austrian GP Nightmare — Crash in Qualifying, Exit Clock Ticking",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Verstappen sits P7 in the championship — 113 points behind leader Antonelli with 15 races left.\n\nHis exit clause activates at the Hungarian GP on July 26 if he's not in the top 2.\n\nHe is mathematically out of reach. The clock is running.",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 237
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen has won the Austrian GP 6 times. He knows this track better than almost anyone.\n\nYesterday his car let him down at Turn 9. Today he starts last.\n\nAnd his manager has confirmed: if he can't \"have a chance to win,\" the exit clause activates.",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 250
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clock.html",
+        "headline": "Verstappen's Austrian GP Nightmare: Crash in Qualifying, Exit Clock Ticking",
+        "word_count": 936
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen's Austrian GP Nightmare — Crash in Qualifying, Exit Clock Ticking\n\n**Primary Search:** Max Verstappen Red Bull\n**Secondary Search:** Max Verstappen helmet\n**Backup Search:** Max Verstappen cockpit\n\n**Preferred shot type:** Close-up of Verstappen in the cockpit or helmet-on standing beside the car — conveys intensity and isolation. Slightly tighter crop works well for the gravity of this story.\n\n**Avoid:** Images showing Verstappen celebrating, trophy shots, or champagne. Avoid any Red Bull team celebration imagery.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Antonelli vs Hamilton — Championship Math at the Austrian GP",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Antonelli leads Hamilton by 41 points. There are 399 points still available this season.\n\nHamilton needs to average 2.7 more points per race than the 21-year-old to close it.\n\nIn Barcelona he cut the gap from 66 to 41. It is possible. Just not easy.",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-antonelli-hamilton-championship.html",
+        "headline": "Antonelli vs Hamilton: Championship Math at the Austrian GP",
+        "word_count": 946
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli vs Hamilton — Championship Math at the Austrian GP\n\n**Primary Search:** Kimi Antonelli Mercedes\n**Secondary Search:** Lewis Hamilton Ferrari\n**Backup Search:** Lewis Hamilton helmet\n\n**Preferred shot type:** Side-by-side if available; otherwise Antonelli on his own in Mercedes livery — championship-leader framing. Alternatively, Hamilton in Ferrari red for the \"challenger\" framing. Both work well for this rivalry piece.\n\n**Avoid:** Any imagery showing the two drivers in contact or racing side-by-side (could imply an incident). Avoid McLaren or Red Bull liveries in the background.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cadillac's Austrian GP Upgrade — Zero Points, Final Gamble",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cadillac has zero points in seven races. Perez had two electrical failures in FP1. Bottas had a cockpit fire in FP2 that reignited.\n\nToday they debut their biggest upgrade of the season — designed specifically to fix the lap-15 tire cliff.\n\nNo pressure.",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 253
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-cadillac-zero-points-upgrade.html",
+        "headline": "Cadillac's Austrian GP Upgrade — Zero Points and a Cockpit Fire",
+        "word_count": 654
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cadillac's Austrian GP Upgrade — Zero Points, Final Gamble\n\n**Primary Search:** Sergio Perez Cadillac\n**Secondary Search:** Valtteri Bottas Cadillac\n**Backup Search:** Gene Haas Cadillac\n\n**Preferred shot type:** Car on track — the Cadillac livery is distinctive and a clean on-track shot communicates the \"upgrade\" angle well. Alternatively, a pit lane or garage shot that suggests mechanical work and preparation.\n\n**Avoid:** Any crash imagery or shots showing smoke, fire, or car damage (given the FP2 Bottas cockpit fire). Avoid images with other team liveries prominently featured.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "F1 Silly Season 2026 — 15 Drivers Without 2027 Seats",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "15 of 22 F1 drivers have no confirmed seat for 2027.\n\nThe Verstappen domino hasn't fallen yet. Wherever he lands — likely Mercedes — it reshapes 2 or 3 more seats immediately.\n\nThe Hungarian GP deadline is July 26. Six weeks until the market breaks open.",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [],
+          "char_count": 254
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-f1-silly-season-2027-seats.html",
+        "headline": "F1 Silly Season 2026 — 15 Drivers Without 2027 Seats, Verstappen Is the Domino",
+        "word_count": 658
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "F1 Silly Season 2026 — 15 Drivers Without 2027 Seats\n\n**Primary Search:** Max Verstappen Red Bull\n**Secondary Search:** Fernando Alonso Aston Martin\n**Backup Search:** Carlos Sainz Williams\n\n**Preferred shot type:** Verstappen out of the car or in the paddock — a pensive or walking-away shot works better than an in-cockpit shot for this story's \"what next?\" framing. The story is about the future, not the present race.\n\n**Avoid:** Any shot of signed contracts, trophies, or celebration imagery. Avoid images that show drivers clearly alongside their current cars in a promotional/committed way — this story is about uncertainty."
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-27
+- **Date**: 2026-06-28
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-28
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-06-28.xlsx (7 posts) + f1fr-postplanner-tobi-2026-06-28.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-28/review-dashboard.html (22 items)
+- **Notes:** Austrian GP RACE DAY — Russell pole (beat Leclerc+Hamilton in Q3); Antonelli P3 defending 41-pt lead; Verstappen starts LAST after Q3 crash Turn 9/exit clause deadline July 26 Hungarian GP/Mercedes frontrunner/retirement not ruled out/shareholders split; Championship: Antonelli 156-Hamilton 115 (41-pt gap)/Hamilton needs 2.7 pts/race/Ferrari ADUO 1 debut (~7-8hp/0.1s)/Mercedes diffuser banned Austria; Cadillac 0 pts 7 races/Austria biggest upgrade targeting lap-15 cliff/Perez 2x electrical failure/Bottas cockpit fire reignited; Silly season: 15 of 22 no 2027 seats/Verstappen domino pending July 26/Audi pursuing Sainz
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-06-27
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
