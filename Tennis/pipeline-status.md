@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-27 |
-| Writing | Complete (all steps) | 2026-06-27 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 29 claims, 72 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-27 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-27 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-06-27 |
-| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-06-27 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-27 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-27 |
+| Research | Complete | 2026-06-28 |
+| Writing | Complete (all steps) | 2026-06-28 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 27 claims, 72 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-28 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-28 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-06-28 |
+| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-06-28 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-28 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-28 |
 
 ## Queue
 
@@ -24,6 +24,24 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-28 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB posts (5 long-form + 5 captions) = 12 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-28.xlsx (7 posts, 12:50–20:38 ET), tfr-postplanner-tobi-2026-06-28.xlsx (7 TOBI posts)
+- **Coverage:** Keys wins Eastbourne third title (def. Maria 7-5, 6-3; joins Evert/Navratilova; first player to win first 3 Eastbourne finals; second set score MEDIUM — LTA says 6-4, majority says 6-3); CORRECTION: Davidovich Fokina wins Mallorca NOT Quinn — ADF def. Quinn 7-6(4), 6-3 in sixth career final; first career title; first Spanish Mallorca champion; rises No. 23; June 27 pipeline incorrectly reported Quinn won; Eastbourne men's final rain drama (Humbert vs Bergs halted 3 games Humbert 2-1; resumed Sunday Wimbledon-eve; both face each other AGAIN Wimbledon R1 Tuesday); Wimbledon Day 1 (CC 1:30 PM BST: Sinner/Kecmanovic, Sabalenka/Kostovic, Djokovic/Wu Yibing; C1: FAA + Andreeva; Serena 44 vs Joint 20 first Grand Slam singles since 2022 US Open); Wimbledon 5 storylines (Djokovic record chase; Serena comeback; Andreeva double chase; Raducanu fitness; Fritz vs Draper R1)
+- **Notes:**
+  - CORRECTION LOGGED: June 27 pipeline reported "Ethan Quinn wins Mallorca 6-1, 6-2" — actual result was ADF def. Quinn 7-6(4), 6-3. Semi-final scores in June 27 were correct (ADF def. Marozsan; Quinn def. Borges); only the final result was wrong.
+  - Keys score: second set is MEDIUM confidence (LTA says 6-4, majority of sources say 6-3; used 6-3 with flag)
+  - Eastbourne men's final result: NOT confirmed from named article; the match resumed Sunday June 28 but result was not confirmed in searches at content creation time
+  - Djokovic 2026 match count: MEDIUM — one source says 13, another says 14
+  - verify-facts.py: passed; 27 claims, 72 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 7 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 22 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (7 posts) and TOBI (7 posts) generated successfully; 12:50–20:38 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-27 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

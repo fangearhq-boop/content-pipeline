@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-28",
+  "compiled_at": "2026-06-28T12:20:41.732959+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Madison Keys Wins Eastbourne for Third Time — Joins Evert and Navratilova",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Madison Keys wins Eastbourne for the third time.\n\nShe joins Chris Evert and Martina Navratilova as the only women to win this title three times — and the first to win her first three Eastbourne finals in a row.\n\nPerfect timing. Wimbledon is tomorrow. 🎾 #WTATennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTATennis"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Keys def. Maria 7-5, 6-3 at Eastbourne.\n\nThe 38-year-old Maria was in her first WTA 500 final and fought hard. Keys was simply better.\n\nThree Eastbourne titles. Three straight finals won. She's the best grass-court warm-up specialist on tour. #WTATennis [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#WTATennis"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-keys-eastbourne-third-title-evert-navratilova.html",
+        "headline": "Madison Keys Wins Eastbourne Third Title and Joins Evert and Navratilova in Elite Company",
+        "word_count": 688
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Madison Keys Wins Eastbourne Third Title\n\n**Social Image (1080x1350)**\n- Search term: \"Madison Keys tennis\"\n- Credit: (USA TODAY Sports Images)\n- Concept: Keys celebrating a point win on grass — racket raised, crowd visible behind. Clean action shot.\n\n**Article Hero (1200x630)**\n- Search term: \"Tatjana Maria tennis\"\n- Credit: (Imagn Images)\n- Concept: Maria in mid-rally on grass court — shows the opponent's effort in the final.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Madison Keys wins Eastbourne third title\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Keys defeated Tatjana Maria in Eastbourne final | HIGH | lta.org.uk (official tournament) |\n| Final score: 7-5 in first set | HIGH | Multiple sources (lta.org.uk, tennismajors.com, 10sballs.com) |\n| Second set score: 6-3 | MEDIUM | tennismajors.com, 10sballs.com, flashscore.com (LTA article says 6-4 — discrepancy; 6-3 majority) |\n| Keys wins Eastbourne for third time | HIGH | lta.org.uk, wtatennis.com, yardbarker.com |\n| Only third woman to win Eastbourne three times | HIGH | wtatennis.com headline confirmed |\n| Joins Chris Evert (3 titles) and Martina Navratilova (11 titles) | HIGH | wtatennis.com (\"Keys joins Evert, Navratilova as three-time Eastbourne champion\") |\n| First player to win her first three Eastbourne finals consecutively | HIGH | yardbarker.com (\"Keys in rare company as 3-time Eastbourne champ\") |\n| Maria is 38 years old | MEDIUM | General knowledge — needs primary source verification |\n| Maria competing in first WTA 500 singles final | MEDIUM | Inferred from context; primary source not confirmed |\n| Wimbledon starts June 29 | HIGH | Multiple sources |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Davidovich Fokina Wins Mallorca — First Career ATP Title at Sixth Final Attempt",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Alejandro Davidovich Fokina wins his first ATP title.\n\nSix career finals. Five losses. Then: 7-6(4), 6-3 over Quinn in Mallorca.\n\nHe becomes the first Spanish champion in Mallorca history. The wait is finally over. 🎾 #ATPTour [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPTour"
+          ],
+          "char_count": 231
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Correction: ADF won Mallorca — not Quinn.\n\nDavidovich Fokina def. Quinn 7-6(4), 6-3 for his first career ATP title in six final attempts.\n\nHe had championship points at Delray Beach AND Washington in 2025 and lost both. This time, he closed it out. #ATPTour [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#ATPTour"
+          ],
+          "char_count": 263
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-davidovich-fokina-mallorca-first-atp-title.html",
+        "headline": "Alejandro Davidovich Fokina Finally Wins His First ATP Title at Mallorca — Sixth Final, First Trophy",
+        "word_count": 568
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Davidovich Fokina Wins Mallorca\n\n**Social Image (1080x1350)**\n- Search term: \"Alejandro Davidovich Fokina tennis\"\n- Credit: (USA TODAY Sports Images)\n- Concept: ADF in a pumped-up celebration moment — fist pump or screaming after a winning point on grass.\n\n**Article Hero (1200x630)**\n- Search term: \"Ethan Quinn tennis\"\n- Credit: (Imagn Images)\n- Concept: Quinn in action — showing the runner-up who came so close to his first title.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Davidovich Fokina wins Mallorca — first career title\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| ADF defeated Ethan Quinn in Mallorca final | HIGH | atptour.com, tennismajors.com, bettorsinsider.com |\n| Final score: 7-6(4), 6-3 | HIGH | atptour.com, bettorsinsider.com (\"7-6, 6-3\") |\n| ADF's first career ATP title | HIGH | atptour.com (\"Sixth final's the charm\") |\n| Six career finals total before this title | HIGH | sportico.com, atptour.com (headline confirms sixth final) |\n| Previous finals included Delray Beach and Washington 2025 where he had championship points | MEDIUM | sportico.com reference (\"four finals last year, including two at which he earned multiple championship points at Delray Beach and Washington\") |\n| ADF rose to No. 23 in ATP rankings | HIGH | yardbarker.com (\"rose two spots to No. 23\") |\n| First Spanish champion in Mallorca tournament history | MEDIUM | Implied by bettorsinsider.com (\"first home champion in tournament history\") — ADF is Spanish, tournament held in Mallorca, Spain |\n| CORRECTION: June 27 pipeline reported Quinn won 6-1, 6-2 — incorrect | HIGH | Verified against multiple sources showing ADF won 7-6(4), 6-3 |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Eastbourne Men's Final — Rain, Drama, and a Sunday Wimbledon-Eve Decider",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Eastbourne men's final was rained out after just 3 games Saturday.\n\nHumbert led 2-1 when play was stopped. They resumed Sunday — the morning before Wimbledon.\n\nAnd they're drawn against each other in Wimbledon R1 on Tuesday. #Eastbourne #Wimbledon2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Eastbourne",
+            "#Wimbledon2026"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-eastbourne-men-final-rain-humbert-bergs.html",
+        "headline": "Rain Halts Eastbourne Men's Final After Three Games — Humbert and Bergs Finish It Sunday, Then Meet Again at Wimbledon",
+        "word_count": 581
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Eastbourne Men's Final Rain Drama\n\n**Social Image (1080x1350)**\n- Search term: \"Ugo Humbert tennis\"\n- Credit: (USA TODAY Sports Images)\n- Concept: Humbert at the net or in a baseline rally — grass court setting.\n\n**Article Hero (1200x630)**\n- Search term: \"Zizou Bergs tennis\"\n- Credit: (Imagn Images)\n- Concept: Bergs in action — focused expression at baseline.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Eastbourne men's final rain delay\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Humbert vs Bergs final suspended after 3 games due to rain Saturday | HIGH | atptour.com (\"Rain cancels Ugo Humbert vs. Zizou Bergs Eastbourne final Saturday\") |\n| Humbert was leading 2-1 when rain halted play | HIGH | atptour.com article confirms match halted \"after just three games\" |\n| Final resumed Sunday June 28 | HIGH | atptour.com, en.tennistemple.com (confirmed resumption scheduled) |\n| Humbert def. Draper 7-5, 6-3 in SF | HIGH | atptour.com, lta.org.uk |\n| Bergs def. Samuel 4-6, 7-6(5), 6-2 in SF | HIGH | atptour.com, lta.org.uk |\n| Humbert and Bergs also face each other at Wimbledon R1 Tuesday | HIGH | en.tennistemple.com headline (\"Resume Sunday, Then Meet Again at Wimbledon Tuesday\") |\n| Humbert is a seven-time ATP Tour champion | MEDIUM | lastwordonsports.com (\"seven-time tour-level champion\") |\n| Bergs seeking first ATP title (was 0-for-2 in prior finals) | MEDIUM | lastwordonsports.com (prior finals in Auckland and 's-Hertogenbosch 2025) |\n| Final result of the resumed match | LOW | Not confirmed from named article; result unknown at research time |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wimbledon 2026 Day 1 — Sinner, Djokovic, Sabalenka and Serena All on Court Monday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Wimbledon Day 1 tomorrow. Centre Court (1:30 PM BST):\n\n🎾 Sinner vs Kecmanovic (defending champ opens)\n🎾 Sabalenka vs Kostovic\n🎾 Djokovic vs Wu Yibing\n\nPlus: Serena Williams plays her first Grand Slam singles in 4 years. #Wimbledon2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wimbledon-2026-day-1-schedule-sinner-djokovic-serena.html",
+        "headline": "Wimbledon 2026 Day 1: Defending Champion Sinner Opens on Centre Court as Serena Williams Returns to Grand Slam Singles",
+        "word_count": 730
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wimbledon Day 1 Order of Play\n\n**Social Image (1080x1350)**\n- Search term: \"Jannik Sinner tennis\"\n- Credit: (USA TODAY Sports Images)\n- Concept: Sinner serving or celebrating — Wimbledon whites ideal but any action shot works.\n\n**Article Hero (1200x630)**\n- Search term: \"Serena Williams tennis\"\n- Credit: (Imagn Images)\n- Concept: Serena in action — racket up, grass court setting.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wimbledon Day 1 order of play\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Wimbledon 2026 starts June 29 | HIGH | Multiple sources |\n| Centre Court starts at 1:30 PM BST | HIGH | olympics.com, atptour.com |\n| Outside courts start at 11:00 AM BST | HIGH | olympics.com |\n| Court 1 starts at 1:00 PM BST | HIGH | olympics.com |\n| Sinner (No. 1) vs Kecmanovic on Centre Court — first match | HIGH | atptour.com, olympics.com, wimbledon.com |\n| Sabalenka (No. 1 women) vs Kostovic on Centre Court | HIGH | olympics.com, en.tennistemple.com |\n| Djokovic (No. 7) vs Wu Yibing on Centre Court | HIGH | olympics.com, en.tennistemple.com |\n| FAA (No. 3) in action on Court 1 | HIGH | olympics.com |\n| Andreeva (No. 5, RG champion) on Court 1 | HIGH | olympics.com |\n| Serena Williams (wildcard) vs Maya Joint (20 years old) R1 | HIGH | cnn.com, olympics.com, wtatennis.com |\n| Serena last played singles Grand Slam at 2022 US Open R3 | HIGH | Multiple sources confirm \"nearly four years\" away |\n| ESPN+ live coverage | MEDIUM | Consistent with prior coverage, not confirmed in this search |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wimbledon 2026 — Five Storylines to Follow from Monday",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Five Wimbledon 2026 storylines to watch:\n\n🎾 Djokovic (39) chasing record 8th title\n🎾 Serena at 44 in her first Slam singles in 4 years\n🎾 Andreeva chasing RG/Wimbledon double (last: Henin 2006)\n🎾 Raducanu fitness question\n🎾 Fritz vs Draper in R1\n\n#Wimbledon2026 [URL]",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon2026"
+          ],
+          "char_count": 266
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wimbledon-2026-five-storylines-djokovic-serena-andreeva.html",
+        "headline": "Five Wimbledon 2026 Storylines That Will Define the Next Two Weeks",
+        "word_count": 744
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Wimbledon 2026 Key Storylines\n\n**Social Image (1080x1350)**\n- Search term: \"Novak Djokovic tennis\"\n- Credit: (USA TODAY Sports Images)\n- Concept: Djokovic in focused concentration — looking across the net, competitive expression.\n\n**Article Hero (1200x630)**\n- Search term: \"Taylor Fritz tennis\"\n- Credit: (Imagn Images)\n- Concept: Fritz in serve or baseline action — grass court feel.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Wimbledon key storylines\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Djokovic is 39 years old | HIGH | Multiple sources (born 1987) |\n| Djokovic has played 13 (or 14) matches in 2026 | MEDIUM | deccanherald.com says \"14 matches\"; pipeline-status.md says 13 — discrepancy; using 13 with MEDIUM |\n| Djokovic chasing 8th Wimbledon title | HIGH | Multiple sources |\n| Djokovic chasing 25th Grand Slam title | HIGH | Multiple sources (currently at 24) |\n| Raducanu is No. 32 seed | HIGH | skysports.com |\n| Raducanu missed practice June 25 with fitness concerns | HIGH | wionews.com, skysports.com |\n| Raducanu opens against Antonia Ruzic | HIGH | skysports.com |\n| Andreeva (RG champion) arrives with zero Wimbledon points | HIGH | pipeline-status.md confirmed from prior research |\n| Last woman to win Roland Garros and Wimbledon in same year: Henin 2006 | HIGH | Multiple prior sources confirmed |\n| Fritz withdrew from Eastbourne to protect fitness for Wimbledon | HIGH | atptour.com |\n| Draper returning from knee injury | HIGH | skysports.com (\"returning from a knee injury\") |\n| Fritz vs Draper in R1 Wimbledon | HIGH | Multiple sources including draw confirmed |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
