@@ -5,6 +5,52 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-28
+
+### STORY 1: Game Recap — Cubs 8, Brewers 2 (June 27)
+- **Angle:** FOLLOW UP (Imanaga started, Cubs erupted for 8 runs, series knotted 1-1; Cubs now 45-38; Game 3 today at 1:10 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, mandatory overnight recap)
+- **Follow-Up Opportunities:**
+  - Today's Game 3 result (recap June 29)
+  - Series winner (Cubs take 2-of-3 or drop it to Brewers)
+
+### STORY 2: Game 3 Preview — Rolison vs. Woodruff
+- **Angle:** FOLLOW UP (Ryan Rolison [5-1, 1.82 ERA] takes the mound for series finale; Brandon Woodruff [2-1, 3.00 ERA] returning from injury for Brewers; 1:10 PM CT American Family Field)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, pre-game preview)
+- **Follow-Up Opportunities:**
+  - Rolison's pitching line from today
+  - Game result and series outcome
+
+### STORY 3: Pete Crow-Armstrong — June for the Ages
+- **Angle:** FOLLOW UP (June stats: 10 HR, .867 SLG in 20 games; season: .287/.367/.521, 17 HR, 18 SB; 24-year-old CARRYING offense with 5 starters on IL)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, bold player feature)
+- **Follow-Up Opportunities:**
+  - PCA All-Star selection announcement
+  - 20 HR / 20 SB milestone tracking
+  - June final stat line
+
+### STORY 4: Rotation Crisis — Trade Deadline in 36 Days
+- **Angle:** NEW STORY (Five starters on IL; August 3 deadline 36 days away; Rolison carrying the rotation; Wiggins elbow rehab; Hoyer must make a move)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, bold deadline analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs rotation trade reporting
+  - Wiggins rehab timeline update
+  - Boyd's next scheduled start
+
+### STORY 5: Wild Card Watch — Cubs 45-38, 6.5 GB in NL Central
+- **Angle:** FOLLOW UP (Cubs 45-38, Brewers 50-30, 6.5 GB in NL Central; Wild Card path more realistic; rotation upgrade key to playoff chase)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Cardinals June 28 result vs Marlins
+  - Wild card standings update
+
+---
+
 ## 2026-06-27
 
 ### STORY 1: Game Recap — Brewers 6, Cubs 2 (June 26)

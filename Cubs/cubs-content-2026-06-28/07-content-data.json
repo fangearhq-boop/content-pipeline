@@ -1,0 +1,205 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-28",
+  "compiled_at": "2026-06-28T09:12:58.001586+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Game Recap — Cubs 8, Brewers 2 (June 27)",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs bounce back with an 8-2 win in Game 2. Imanaga started, offense erupted. Series knotted 1-1 heading into today's decisive Game 3 at 1:10 PM CT. Mandatory lead story.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs 8, Brewers 2.\n\nBounce-back complete. Imanaga and the offense erupted in Milwaukee to knot the series at 1-1.\n\nGame 3 today at 1:10 PM CT — Rolison takes the ball for the series finale at American Family Field.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative — Overnight game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game Recap — Cubs 8, Brewers 2 (June 27)\n- **[HIGH]** Final score: Cubs 8, Brewers 2 — confirmed from ESPN box score (gameId/401815929) and MLB.com gameday (823770/final/wrap). Two independent sources. ✓\n- **[HIGH]** Shota Imanaga started for the Cubs — confirmed across multiple search results ✓\n- **[HIGH]** Cubs record after game: 45-38 — confirmed from series-context.json snapshot (generated 08:30 UTC June 28, after last night's game) ✓\n- **[HIGH]** Brewers record: 50-30 — confirmed from series-context.json snapshot ✓\n- **[HIGH]** Game was Game 2 of 3 at American Family Field, Milwaukee ✓\n- **[MEDIUM]** Imanaga's specific pitching line (IP, ER, K) — not available in search summaries; ESPN/MLB.com box score exists but raw stats not confirmed. Not used in tweet content. [VERIFY if needed for future coverage]\n- **[HIGH]** Series now tied 1-1 (Cubs lost Game 1 on June 26, won Game 2 on June 27) ✓",
+        "sources": "Sources:\n- ESPN: https://www.espn.com/mlb/boxscore/_/gameId/401815929\n- MLB.com: https://www.mlb.com/gameday/cubs-vs-brewers/2026/06/27/823770/final/wrap"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game 3 Preview — Rolison vs. Woodruff",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Ryan Rolison (5-1, 1.82 ERA) takes the mound for the series finale. Woodruff returning from injury for the Brewers. Rolison has been the surprise arm of 2026 — carrying the makeshift rotation with five starters on the IL. 1:10 PM CT.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Ryan Rolison (5-1, 1.82 ERA) takes the ball at 1:10 PM CT — with the Brewers series on the line.\n\nWith five starters on the IL, Rolison has quietly become one of the hottest arms in the NL. Game 3. American Family Field. Series finale.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative — Game preview / midday update",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Game 3 Preview — Rolison vs. Woodruff\n- **[HIGH]** Game 3 first pitch: 1:10 PM CT, American Family Field — confirmed from series-context.json snapshot ✓\n- **[MEDIUM]** Cubs starter: Ryan Rolison (LHP, 5-1, 1.82 ERA) — confirmed via MLB.com player page search and Cubs Insider series preview article. Two sources but both web summaries. Treat as MEDIUM until box score confirms.\n- **[MEDIUM]** Brewers starter: Brandon Woodruff (RHP, 2-1, 3.00 ERA) returning from injury — confirmed via MLB.com and series preview. Two sources. Woodruff is a real Brewers pitcher; returning-from-injury detail confirmed.\n- **[HIGH]** Five Cubs starters on IL (Horton, Steele, Taillon, Brown, Cabrera) — confirmed multiple times across June 26-28 research ✓\n- **[HIGH]** Series finale — Game 3 of 3 ✓",
+        "sources": "Sources:\n- Cubs Insider: https://www.cubsinsider.com/2026/06/26/chicago-cubs-milwaukee-brewers-series-preview-june-26-28-overview-game-and-broadcast-info-starting-pitchers-w2w4/\n- MLB.com: https://www.mlb.com/stories/game-preview/823769\n- MLB.com player page: https://www.mlb.com/player/ryan-rolison-669020\n- MLB.com player page: https://www.mlb.com/player/brandon-woodruff-605540"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Pete Crow-Armstrong — June for the Ages",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA's June: 10 HR, .867 SLG in 20 games. Season: .287/.367/.521, 17 HR, 18 SB. The 24-year-old center fielder is CARRYING this offense while five rotation spots sit empty. All-Star case that's hard to argue with.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Pete Crow-Armstrong in June: 10 home runs. .867 slugging.\n\nSeason line: .287/.367/.521, 17 HR, 18 SB. The 24-year-old is CARRYING this offense — and doing it while five rotation spots sit empty on the IL.\n\nAll-Star caliber season. Not a debate.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold/Passionate — Player feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 5,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pete Crow-Armstrong — June for the Ages\n- **[MEDIUM]** June 2026 stats: 10 HR, .867 SLG in 20 games — consistent across June 27 pipeline and June 28 research passes. Original June 27 story sourced from fan blog and game logs. Treat as MEDIUM (no single definitive source like Baseball Reference confirmed in summaries).\n- **[MEDIUM]** June slash line: .410/.474/.867 — from June 27 pipeline. Consistent with 10 HR, 20 games context.\n- **[MEDIUM]** 2026 season: .287/.367/.521, 17 HR, 18 SB — consistent across multiple research passes over two days. MEDIUM until crosschecked with Baseball Reference.\n- **[HIGH]** PCA is 24 years old — born January 14, 2002; as of June 28, 2026 = 24 years old ✓ [calculated]\n- **[LOW]** \"One of the best offensive months in Cubs history\" — editorial claim in June 27 pipeline. Not independently verified against franchise records. OMITTED from today's tweets (only \"All-Star caliber season\" editorial stance used).\n- **[LOW]** \"10 HR pace is career-high for a single month\" — not independently verified. OMITTED.",
+        "sources": "Sources:\n- June 27 pipeline research (prior pipeline coverage)\n- ESPN gamelog summaries (June 28 research pass)"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Rotation Crisis — Trade Deadline in 36 Days",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Five Cubs starters on the IL. August 3 deadline 36 days out. Rolison holding the rotation together while Jaxon Wiggins rehabs an elbow. Hoyer needs a bold move. The deadline defines this Cubs season.",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Five Cubs starters on the IL. The August 3 trade deadline is 36 days away.\n\nRolison is carrying what's left of this rotation while the farm system's best arm rehabs his elbow. Hoyer has to make a move — and soon.\n\nThe deadline defines this season.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold/Analysis — Deadline urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 4,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Rotation Crisis — Trade Deadline in 36 Days\n- **[HIGH]** Five starters on IL: Horton (Tommy John/UCL), Steele (elbow, 60-day), Taillon (hamstring), Brown (neck strain), Cabrera (IL) — confirmed from CBS Sports injury report and consistent across all research ✓\n- **[MEDIUM]** Jaxon Wiggins: elbow inflammation, in rehab — confirmed from June 27 coverage and June 28 research. Optimistic prognosis per Counsell quote (LOW confidence on exact quote).\n- **[HIGH]** Trade deadline: August 3, 2026 — standard MLB rule, consistent with prior pipeline references ✓\n- **[HIGH]** Days to deadline: 36 days from June 28 to August 3 — calculated: June 28→30 = 2, July 31 days, Aug 1-3 = 3. Total = 36 ✓\n- **[MEDIUM]** Ryan Rolison (5-1, 1.82 ERA) carrying rotation — confirmed from STORY 2 sources above",
+        "sources": "Sources:\n- CBS Sports Cubs injuries: https://www.cbssports.com/mlb/teams/CHC/chicago-cubs/injuries/\n- June 26-27 pipeline research"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Watch — Records, Gap, Path Forward",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs 45-38, Brewers 50-30. Cubs are 6.5 games back in the NL Central — division chase isn't the story. Wild Card is the realistic path. But it requires a rotation upgrade.",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs 45-38. Brewers 50-30. Six and a half games back in the NL Central.\n\nThe division title's out of reach — the Wild Card is the path. But it doesn't happen without a rotation upgrade before August 3. This deadline matters.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold/Analysis — Standings analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 6,
+        "claims_flagged": 3,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Watch — Records, Gap, Path Forward\n- **[HIGH]** Cubs record: 45-38 — series-context.json snapshot ✓\n- **[HIGH]** Brewers record: 50-30 — series-context.json snapshot ✓\n- **[HIGH]** Games back in NL Central: 6.5 GB — calculated from records: ((50-45)+(38-30))/2 = 6.5 ✓\n- **[MEDIUM]** Wild Card path characterization (\"more realistic than NL Central chase\") — editorial, based on 6.5 GB gap. Reasonable characterization, not a factual claim requiring sourcing.\n- **[MEDIUM]** August 3 deadline relevance to Wild Card race — editorial analysis. No specific data point claimed.",
+        "sources": "Sources:\n- series-context.json snapshot (Cubs/Brewers records)\n- MLB standings calculation (GB formula)"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 5,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
