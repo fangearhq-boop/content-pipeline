@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-28 |
-| Writing | Complete (all steps) | 2026-06-28 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 27 claims, 72 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-28 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-28 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-06-28 |
-| PostPlanner Export | Complete (standard 7 posts; TOBI 7 posts) | 2026-06-28 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-28 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-28 |
+| Research | Complete | 2026-06-29 |
+| Writing | Complete (all steps) | 2026-06-29 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 23 claims, 68 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-29 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-29 |
+| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-06-29 |
+| PostPlanner Export | Complete (standard 8 posts; TOBI 8 posts) | 2026-06-29 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-29 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-29 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-29 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Marcus Cole [S2, S5], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-29.xlsx (8 posts, 12:53–20:49 ET), tfr-postplanner-tobi-2026-06-29.xlsx (8 TOBI posts)
+- **Coverage:** CORRECTION: Bergs wins Eastbourne def. Humbert 3-6, 6-1, 6-4 (June 28 pipeline did not confirm the final result; Bergs first ATP title; first Belgian ATP title on grass; 6-match losing streak before event; prior runner-up Auckland + 's-Hertogenbosch 2025; Bergs-Humbert Wimbledon R1 rematch Tuesday); Raducanu withdraws from Wimbledon (stress fracture lower right leg; announced Sunday evening; lucky loser Semenistaja Latvia No. 112 replaces vs Ruzic; reached Queen's final; 18 total withdrawals incl. Alcaraz); Wimbledon Day 1 opens (outside courts 11 AM BST; Bencic def. Stojsavljevic 6-2, 6-1; Fucsovics def. Van Assche 6-3, 4-0 ret.; Centre Court: Sinner/Kecmanovic, Sabalenka/Kostovic, Djokovic/Wu Yibing); Bergs-Humbert Wimbledon rematch (3 days, same surface, Wimbledon R1 stakes); Serena Williams Day 2 (44yo, first Grand Slam singles since 2022 US Open, vs Maya Joint 20yo Tuesday)
+- **Notes:**
+  - CORRECTION LOGGED: June 28 pipeline covered the Eastbourne rain-delayed final as "ongoing" but did not report the result. Result confirmed: Bergs def. Humbert 3-6, 6-1, 6-4.
+  - verify-facts.py: passed; 23 claims, 68 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 8 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 12:53–20:49 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-28 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
