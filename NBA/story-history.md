@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-29
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-29 | T1 | NBA Free Agency Eve — Harden Opts Out, FA Opens Tomorrow | X, FB, Article | NEW |
+| 2026-06-29 | T1 | Jaylen Brown Trade — Portland Blazers Emerge as Frontrunner | X, FB, Article | NEW |
+| 2026-06-29 | T2 | Giannis-Heat Final Countdown — 7 Days Until July 6 | X, FB, Article | FOLLOW UP |
+| 2026-06-29 | T2 | Kawhi Leonard to Dallas? Mavericks Making a Serious Push | X, FB, Article | NEW |
+| 2026-06-29 | T2 | KAT's $272M Window Opens Tomorrow | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA Free Agency Eve — Harden Opts Out, FA Opens Tomorrow
+- **Tier:** 1
+- **Category:** NBA Free Agency
+- **Key facts:** TODAY is player option deadline day; Harden expected to OPT OUT of $42.3M Cavaliers deal; Draymond Green expected to OPT IN to $27.67M Warriors deal; Alvarado deciding $4.5M Knicks option; FA negotiations open June 30 at 6 PM ET; contracts signed July 6 at 12:01 PM ET; Giannis trade also executes July 6
+- **Status:** NEW
+- **Follow-up ideas:** June 30 — Harden landing spot; who opts in/out surprise decisions
+
+### STORY 2: Jaylen Brown Trade — Portland Blazers Emerge as Frontrunner
+- **Tier:** 1
+- **Category:** NBA Trade Rumors / Celtics
+- **Key facts:** Portland Trail Blazers most frequently cited frontrunner (Marc Stein confirmed); 7+ teams pursuing (Clippers, Nuggets, Hawks, Nets, Hornets, Raptors, Pistons); Celtics asking 4+ first-round picks; Brown 2025-26: 28.7 PPG/6.9 RPG/5.1 APG, All-NBA 2nd Team; Brown NOT requested a trade; Windhorst: "Brown is going to get traded"; Shams: Celtics "actively engaged"
+- **Status:** NEW
+- **Follow-up ideas:** Trade finalized; Portland or other team confirms offer meets Boston's price
+
+### STORY 3: Giannis-Heat Final Countdown — 7 Days Until July 6
+- **Tier:** 2
+- **Category:** NBA Trade / Heat
+- **Key facts:** Giannis+Portis→Heat; Herro+Ware+Jaquez+Jakucionis+3 firsts+swap+2nd→Bucks; executes July 6; Giannis+Bam Adebayo frontcourt; Pat Riley orchestrated; Heat title odds 18-1 post-announcement; Heat nearly depleted trade asset inventory
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** July 6 trade execution; Heat's roster construction around Giannis+Bam
+
+### STORY 4: Kawhi Leonard to Dallas? Mavericks Making a Serious Push
+- **Tier:** 2
+- **Category:** NBA Free Agency / Mavericks
+- **Key facts:** Masai Ujiri (former Raptors GM, 2019 title architect with Kawhi) leading Dallas pursuit; reported package Klay Thompson+P.J. Washington+picks; Raptors also interested (homecoming); Kawhi age 34; FA opens June 30
+- **Status:** NEW
+- **Follow-up ideas:** Kawhi decision on landing spot; Dallas offer confirmed or denied
+
+### STORY 5: KAT's $272M Window Opens Tomorrow
+- **Tier:** 2
+- **Category:** NBA Offseason / Knicks
+- **Key facts:** Extension window opens June 30 6 PM ET; 4yr/$272M max or 3yr/$208M; KAT: "ready to make financial sacrifice"; Brunson Blueprint: ~$113M less→32.6 PPG→2026 Finals MVP; Knicks second apron: OG $212.5M+Bridges $150M committed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** KAT extension terms confirmed June 30+; discount amount vs max
+
 ## 2026-06-28
 
 | Date | Tier | Story | Platforms | Status |

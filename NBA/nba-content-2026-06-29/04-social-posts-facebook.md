@@ -1,0 +1,165 @@
+# Facebook Posts — NBA Content Pipeline
+**Date:** 2026-06-29
+**Brand:** Hoop Heroes
+
+---
+
+### STORY 1: NBA Free Agency Eve — Harden Opts Out, FA Opens Tomorrow
+
+**Long-Form Post**
+
+Today is player option deadline day in the NBA, and the decisions made in the next few hours are going to set the table for the most anticipated free agency period in years.
+
+James Harden is expected to opt out of his $42.3 million option with the Cleveland Cavaliers, making himself an unrestricted free agent as negotiations open tomorrow evening. It's a significant moment — Harden turns down guaranteed money to bet on himself (and potentially another payday) on the open market.
+
+Draymond Green is going the other way. The four-time champion is expected to opt in to his $27.67 million deal with the Golden State Warriors, choosing stability over the uncertainty of free agency at this stage of his career.
+
+Jose Alvarado faces a different kind of decision: a $4.5 million option with the New York Knicks, the defending NBA champions. The circumstances around his choice could tell us something about the Knicks' roster plans heading into next season.
+
+Here's what you need to know about the timeline: negotiations officially open tomorrow, June 30, at 6 PM ET. But no contracts can actually be signed until July 6 at 12:01 PM ET. That week-long window between "agreed in principle" and "ink on paper" is when all the chaos unfolds — the handshake deals, the reported agreements, the last-minute changes of heart.
+
+The Giannis Antetokounmpo trade to Miami also executes on July 6, meaning that single date will see both blockbuster free agency signings AND a franchise-defining trade land simultaneously.
+
+Tonight is the quiet before the storm. By this time tomorrow, the NBA landscape could look entirely different.
+
+Who are you watching most closely as free agency opens? 👇
+
+**#HoopHeroes #NBA #NBAFreeAgency #JamesHarden #DraymondGreen**
+
+**Image Caption**
+
+TODAY is player option deadline day in the NBA 🏀
+
+Harden opts out → Draymond opts in → FA opens TOMORROW at 6 PM ET.
+
+The calm before the storm. Who are you watching? ⬇️
+
+#HoopHeroes #NBA #NBAFreeAgency
+
+---
+
+### STORY 2: Jaylen Brown Trade — Portland Blazers Emerge as Frontrunner
+
+**Long-Form Post**
+
+The Jaylen Brown trade market is heating up fast — and Portland is leading the charge.
+
+The Portland Trail Blazers have emerged as the most frequently cited frontrunner in what is shaping up to be the summer's most significant trade, according to Marc Stein and multiple reports. At least seven teams are in serious pursuit of Brown, who averaged 28.7 points, 6.9 rebounds, and 5.1 assists last season on his way to an All-NBA Second Team selection.
+
+The Boston Celtics' asking price is steep: multiple reports have pegged it at four or more first-round picks, and Boston has shown no signs of lowering that demand. The other teams reportedly involved include the Los Angeles Clippers, Denver Nuggets, Atlanta Hawks, Brooklyn Nets, Charlotte Hornets, Toronto Raptors, and Detroit Pistons — a wide field that gives Boston genuine leverage.
+
+Here's the most important detail in this whole situation: Jaylen Brown has NOT requested a trade. The Celtics are driving this process. Brad Stevens has remained deliberately noncommittal in public statements, but ESPN's Brian Windhorst has said he believes Brown "is going to get traded," and Shams Charania has reported the team is "actively engaged" with multiple suitors.
+
+What does this mean? Boston is in the driver's seat. They're not panicking. They're not selling cheap. They're going to extract maximum value or keep one of the best two-way wings in the game. The pressure is on the teams pursuing Brown, not the Celtics.
+
+Portland has been mentioned most often, which suggests the Blazers may be willing to meet Boston's price. For a franchise that has been rebuilding, landing a 28.7-PPG All-NBA player would be a seismic shift.
+
+This one is moving fast. Stay tuned.
+
+**#HoopHeroes #NBA #JaylenBrown #Celtics #TrailBlazers #NBAFreeAgency**
+
+**Image Caption**
+
+Portland is the frontrunner to land Jaylen Brown 👀
+
+7+ teams. 4+ first-round picks asking price. Brown has NOT requested a trade.
+
+Windhorst: "He's going to get traded."
+
+Who should land him? ⬇️
+
+#HoopHeroes #NBA #JaylenBrown
+
+---
+
+### STORY 3: Giannis-Heat Final Countdown — 7 Days Until July 6
+
+**Long-Form Post**
+
+Seven days. That's all that stands between the Miami Heat and the moment their franchise gets completely transformed.
+
+On July 6, the Giannis Antetokounmpo trade officially executes. The deal sends Giannis and Bobby Portis Jr. to Miami in exchange for Terry Herro, Ware, Jaquez, Jakucionis, three first-round picks, one swap, and a second-round pick. Pat Riley gave up almost everything the Heat had in terms of future assets — and he did it without blinking.
+
+The result? One of the most formidable frontcourts in the NBA: Giannis Antetokounmpo and Bam Adebayo.
+
+Think about that for a moment. Giannis — two-time MVP, Defensive Player of the Year, Finals champion — next to Bam Adebayo, one of the best defensive anchors and pick-and-roll operators in the league. These two players are built to play together. Giannis's relentless drive to the basket finds a perfect release valve in Bam's passing. Bam's versatile defense extends Giannis's impact on that end.
+
+The Heat paid a massive price for this pairing. Their trade asset inventory is nearly depleted. The roster around Giannis and Bam will have to be built on minimum deals, the mid-level exception, and whatever veterans they can attract on the back of playing for Riley and competing immediately.
+
+But that's exactly how Pat Riley operates. He doesn't plan for the future — he goes all-in on the present. And right now, the present looks like Giannis Antetokounmpo in Miami red.
+
+Heat title odds have improved significantly since the deal was announced. Seven days.
+
+**#HoopHeroes #Heat #NBA #Giannis #BamAdebayo #PatRiley**
+
+**Image Caption**
+
+7 days until Giannis is officially a Miami Heat 🔥
+
+Giannis + Bam Adebayo. Pat Riley's masterpiece.
+
+The Heat gave up nearly everything — is it worth it? ⬇️
+
+#HoopHeroes #Heat #NBA #Giannis
+
+---
+
+### STORY 4: Kawhi Leonard to Dallas? Mavericks Making a Serious Push
+
+**Long-Form Post**
+
+Here's a name that changes everything in the Western Conference: Kawhi Leonard to the Dallas Mavericks.
+
+It's not a rumor floating on the internet. The Dallas Mavericks — led by team president Masai Ujiri — are making a serious push to bring Kawhi Leonard to Big D as a free agent. And the reason Ujiri's name matters so much here is context: Ujiri is the man who was the architect of the 2019 Toronto Raptors championship. The team that won that ring? It ran through Kawhi Leonard.
+
+Now Ujiri is in Dallas with the resources and the authority to make another championship run — and his first big swing is trying to reunite with the player who defined his greatest success.
+
+The reported package Dallas could offer: Klay Thompson and P.J. Washington alongside picks. That kind of offer would reshape both franchises. The Toronto Raptors have also been mentioned as interested, adding a homecoming narrative to an already compelling storyline.
+
+The honest questions about Kawhi at 34: His injury history is real. His load management has frustrated teams in the past. But when he is healthy and locked in, he remains one of the most complete two-way players in the game — and a proven difference-maker on the biggest stages.
+
+The Ujiri-Kawhi connection changes the calculus. This isn't a team throwing money at a star hoping he shows up. This is a championship architect going after the player who put him on the map.
+
+Free agency opens tomorrow. The Kawhi watch begins then.
+
+**#HoopHeroes #Mavericks #NBA #KawhiLeonard #NBAFreeAgency**
+
+**Image Caption**
+
+The Mavericks want Kawhi Leonard — and Masai Ujiri is leading the push 👀
+
+Ujiri won the 2019 title WITH Kawhi in Toronto. Now he wants a Dallas reunion.
+
+Who else wants to see this happen? ⬇️
+
+#HoopHeroes #Mavericks #NBA #KawhiLeonard
+
+---
+
+### STORY 5: KAT's $272M Window Opens Tomorrow
+
+**Long-Form Post**
+
+Tomorrow evening, one of the most important decisions in recent Knicks history officially begins.
+
+At 6 PM ET on June 30, Karl-Anthony Towns and the New York Knicks can officially open negotiations on his extension. The numbers are staggering: Towns is eligible for a four-year, $272 million maximum extension — or a three-year, $208 million alternative. Both options become discussable the moment free agency opens.
+
+But here's what makes this fascinating: KAT has already signaled his mindset. He has publicly stated that he is "ready to make a financial sacrifice" for the right situation. And given what happened in New York this past season — a championship, a Finals MVP for Jalen Brunson, a parade through the Canyon of Heroes — the "right situation" argument is difficult to dismiss.
+
+The Brunson Blueprint looms large here. Brunson famously took approximately $113 million less than his maximum contract, prioritizing winning over maximum dollars. What happened next? He averaged 32.6 points per game and won the 2026 NBA Finals MVP on the back of a Knicks championship. That moment has completely reframed how players think about contract decisions.
+
+The Knicks' front office is navigating the second apron tax threshold, with OG Anannoby at $212.5 million and Mikal Bridges at $150 million already committed. KAT taking a discount isn't just financially convenient — it may be the only path to keeping the championship core together.
+
+Tomorrow is when the real question gets answered. Will Karl-Anthony Towns follow the Brunson Blueprint? The window opens at 6 PM.
+
+**#HoopHeroes #Knicks #NBA #KAT #KarlAnthonyTowns #NBAFreeAgency**
+
+**Image Caption**
+
+Tomorrow at 6 PM ET, the Knicks can officially offer KAT $272M 💰
+
+He says he's "ready to make a financial sacrifice."
+
+Brunson took $113M less and won Finals MVP. Will KAT follow? ⬇️
+
+#HoopHeroes #Knicks #NBA #KAT
