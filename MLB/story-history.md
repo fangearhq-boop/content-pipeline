@@ -3593,3 +3593,62 @@ Each day's stories are appended at the top (newest first).
   - White Sox trade deadline posture
   - AL Central standings second half
   - Gonzalez season arc
+
+---
+
+## Pipeline Run: June 29, 2026
+
+### Story 1: All-Star Phase 2 Is Live — Vote Through July 2
+- **Date:** 2026-06-29
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 28 — Phase 2 preview; today: Phase 2 officially open at noon ET)
+- **Angle:** Phase 2 open June 29 noon ET through July 2 noon ET. Ohtani (NL DH, 3,341,257 votes) and Clement (AL 2B, 3,232,932 votes) automatic starters. Phase 1 votes don't carry over. Full rosters July 4 FOX. MLB.com/vote.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Phase 2 results and full All-Star roster July 4
+  - All-Star Game July 14
+  - Close Phase 2 races by position
+
+### Story 2: Aaron Judge IL — Stress Fracture, AL MVP Race Reshuffles
+- **Date:** 2026-06-29
+- **Tier:** 1
+- **Classification:** NEW STORY (first coverage; Judge IL with stress fracture in rib)
+- **Angle:** Judge on IL with rib stress fracture, "significant time" missed. Yankees now three regulars out (Judge + Stanton + Wells). AL MVP shifts: Alvarez (+105) and Witt Jr. now frontrunners. Comes day after Red Sox sweep. August 3 deadline calculus complicated.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Judge return timeline update
+  - Yankees trade deadline posture as buyer with depleted roster
+  - AL MVP race second-half tracking
+
+### Story 3: Jacob Misiorowski's Historic First Half — 1.45 ERA, 138 K
+- **Date:** 2026-06-29
+- **Tier:** 2
+- **Classification:** NEW STORY (first coverage; Nationals starter leads MLB in ERA, WHIP, K)
+- **Angle:** Misiorowski (24, Nationals) leads MLB: 1.45 ERA, 0.75 WHIP, 138 K, 1 shutout. NL Cy Young -140 frontrunner. Pitching for non-contender = under-radar despite historically elite first half. Second-half sustainability question.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - All-Star Game selection (expected)
+  - Second-half ERA/WHIP tracking
+  - NL Cy Young race vs. other contenders
+
+### Story 4: Red Sox Complete 4-Game Sweep of Yankees — Duran Walk-Off in 10th
+- **Date:** 2026-06-29
+- **Tier:** 2
+- **Classification:** NEW STORY (first coverage; sweep completed June 28 with Duran 10th-inning walk-off)
+- **Angle:** Duran singled home winning run in 10th inning, Red Sox 5-4. Four-game sweep. Yankees depleted roster (three on IL). AL East race tightens. Boston buyer/seller posture for August 3 deadline.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Red Sox trade deadline posture
+  - AL East standings update July
+  - Duran season arc
+
+### Story 5: Trade Deadline — Luis Arraez at 90% Trade Probability
+- **Date:** 2026-06-29
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 28 — Skubal deadline heat; today: Arraez at 90%, broader market)
+- **Angle:** Arraez 90% trade probability (highest of any player). Skubal 85%. Brett Harris Oakland 5-day window. Philly seeking outfield help. 23 of 30 teams contending = active buyer market. 35 days to August 3.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Arraez trade announcement
+  - Skubal trade (Tigers holding for max package)
+  - Full deadline tracker update

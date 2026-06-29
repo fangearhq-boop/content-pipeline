@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-06-29
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (26 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known).
+- **Key Stories**: All-Star Phase 2 live June 29 noon ET/Ohtani+Clement locked in/vote through July 2/July 4 FOX (Tier 1 FOLLOW UP), Aaron Judge IL stress fracture rib/"significant time"/Yankees 3 regulars out (Judge+Stanton+Wells)/Alvarez+Witt Jr. AL MVP frontrunners (Tier 1 NEW), Misiorowski Nationals 1.45 ERA/0.75 WHIP/138 K MLB leader/NL Cy Young -140/24yo non-contender under radar (Tier 2 NEW), Red Sox 4-game sweep Yankees/Duran walk-off 10th 5-4/AL East tightens (Tier 2 NEW), Arraez 90% trade probability/Skubal 85%/Brett Harris 5-day window/Philly outfield/23 contending teams (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-06-28
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch), brief (5 stories), research notes, story analysis, X posts (8; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (25 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 8 tweets, 5 FB posts, 5 articles, 28 items), dashboard (28 items), dashboard publish 403 (proxy). PostPlanner exports (8 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
