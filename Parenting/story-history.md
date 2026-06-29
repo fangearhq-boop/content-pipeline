@@ -2,6 +2,50 @@
 
 ---
 
+## June 29, 2026
+
+### Story 1: National Park & Recreation Month — Free COS Events and Contests in July 2026
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Colorado Springs PRCS hosting two free events: Silent Disco at Panorama Park Friday July 11, 6–8 PM; Music in the Park at Piñon Valley Park (5585 Mule Deer Dr.) Friday July 25, 6:30–8:30 PM. Three contests: Build Your Own Park challenge, Park & Recreation Month Coloring Contest (deadline 5 PM July 31), Discover COS Calendar Photo Contest (submissions open July 15; deadline 5 PM Sept 4, 2026; 2027 calendar, 14th edition). Part of city's 1,000 Gatherings Initiative; 160+ neighborhood parks. Source: coloradosprings.gov/parkandrecmonth.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** coloradosprings.gov (official; HIGH confidence); krdo.com, kktv.com corroborate
+- **Follow-Up Opportunities:** Silent disco weather check closer to July 11; coloring contest winner; photo contest winner; Music in the Park July 25 reminder
+
+### Story 2: CPSC 2026 Magnetic Toy Recalls — Deadly Ingestion Hazard (Multiple Products, Amazon)
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Three 2026 CPSC recalls for magnetic/choking hazard toys sold on Amazon. (1) Montessori Busy Board (Small Fish/Amazon, recalled June 25, 2026) — magnets detach; deadly ingestion hazard; full refund via Small Fish. (2) Lterfear Multifunction Pounding Game model D888 (Findriver + Weeksome/Amazon, recalled Jan 8, 2026; 3,500 units; $24–$28; June–Sept 2025) — high-powered magnets detach; full refund via findriverpoundingtoysrecall@outlook.com. (3) Joyreal Busy Board SKU MX049-3 (Indream Store/Amazon) — mirror detaches (choking); sharp edges (laceration); contact indreamrecall@outlook.com. Swallowed magnets attract each other through intestinal wall → perforations, blood poisoning, death. Source: cpsc.gov.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov individual recall pages (HIGH confidence); Morningstar/PR Newswire confirms dates
+- **Follow-Up Opportunities:** Additional magnet toy recalls if CPSC issues more in 2026
+
+### Story 3: Fort Carson Front Range Freedom Fest — July 3, Iron Horse Park (Free, Open to Public)
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Free public event July 3, 2026, 4:00–10:00 PM at Iron Horse Park, Fort Carson. Headliner Tyler Hubbard (country); openers X Ambassadors + Bryce Vine. 20+ food trucks, Boingo Adventure Zone, free bounce houses. Patriotic drone show finale (America 250 + CO 150 themed). No fireworks (fire conditions). Non-military visitors: Gate Pass recommended (not required); photo ID for ages 15+; vehicles subject to search. Part of America250 national programming. Source: carson.armymwr.com/freedomfest, america250.org.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** carson.armymwr.com (official MWR; HIGH confidence); america250.org, colorado.com, 989magicfm.com corroborate
+- **Follow-Up Opportunities:** Day-of reminder July 3; post-event recap
+
+### Story 4: Colorado Universal Preschool (UPK) 2026-27 — Enrollment Open, COS Districts Participating
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Colorado UPK enrollment for 2026-27 is open via direct provider enrollment (since April 1, 2026; matching rounds concluded Feb–March 2026). All 4-year-olds (turning 4 by Oct 1, 2026) get 15 free hours/week; up to 30 hrs for qualifying factors (low-income, multilingual learners, IEP, homeless). Avg savings $6,300/year; 87,000+ CO kids served since 2023; 2,000+ providers statewide. D49: 3 hrs/day Mon–Thu. D11: adding tuition-based extended hours option 2026-27. Apply: upk.colorado.gov; 303-866-5223 M–F 8 AM–8 PM MST; interpreters in 100+ languages. Source: cdec.colorado.gov, upk.colorado.gov, d49.org, d11.org.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** cdec.colorado.gov + Governor's Office press releases (HIGH confidence); upk.colorado.gov; d49.org; d11.org
+- **Follow-Up Opportunities:** Back-to-school enrollment reminder August 2026; D49 Student Success Center opening August 2026
+
+### Story 5: Rosemont Reservoir — July 4 Opening Update (Not Yet Confirmed as of Late June 2026)
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (third coverage; June 1 first, June 27 second) — July 4 opening for camping/non-motorized boating still aspirational; no confirmed date as of late June 2026. City Council and CSU Board approved expanded recreation plans January 2026; CPW leading design since February 2026. What's planned: dry campsites (CPW reservation), non-motorized boating (kayak/canoe/paddleboard), day-use parking, ADA restrooms. Permanent rules: no swimming, no wading, no dogs in reservoir. Fishing allowed now May–Oct. Location: 12 miles SW of COS on Gold Camp Road, ~9,600 ft. Source: csu.org, koaa.com, coloradopolitics.com, krdo.com, cpw.state.co.us.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** csu.org + cpw.state.co.us (HIGH confidence); koaa.com, coloradopolitics.com, moderncampground.com corroborate; opening date MEDIUM (aspirational)
+- **Follow-Up Opportunities:** Official opening announcement; first-visit recap
+
+---
+
 ## June 28, 2026
 
 ### Story 1: RECALL — TOMY Boon NURSH Baby Bottles (8 oz, 3-Pack, Pink Tie Dye) — Choking Hazard

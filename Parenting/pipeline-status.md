@@ -1,6 +1,45 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: June 28, 2026
+## Latest Run: June 29, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | National Park & Recreation Month (coloradosprings.gov — July 11 silent disco Panorama Park 6-8 PM; July 25 Music in Park Piñon Valley 6:30-8:30 PM; Build Your Own Park + Coloring Contest deadline July 31 + Discover COS Calendar Photo Contest submissions July 15 deadline Sept 4; 1,000 Gatherings Initiative; 160+ parks); CPSC magnet toy recalls (cpsc.gov — Montessori Busy Board Small Fish/Amazon June 25, 2026; Lterfear pounding game model D888 Findriver+Weeksome/Amazon Jan 8, 2026; 3,500 units; $24-$28; June-Sept 2025; Joyreal Busy Board SKU MX049-3 Indream Store/Amazon; choking+laceration); Fort Carson Freedom Fest (carson.armymwr.com — July 3; Iron Horse Park; 4-10 PM; free/public; Tyler Hubbard headliner; X Ambassadors + Bryce Vine openers; 20+ food trucks; Boingo Adventure Zone + bounce houses; drone show; NO fireworks; Gate Pass for non-military recommended; photo ID 15+); Colorado UPK 2026-27 (cdec.colorado.gov/upk.colorado.gov — 15 hrs/week free for 4-year-olds; turning 4 by Oct 1; up to 30 hrs qualifying; avg $6,300/year; 87,000+ served since 2023; 2,000+ providers; direct enrollment open since April 1, 2026; D49: 3 hrs/day Mon-Thu; D11: adding tuition-based extended hours; upk.colorado.gov; 303-866-5223); Rosemont Reservoir (csu.org/cpw.state.co.us — still in planning phase; no confirmed opening date; City Council + CSU Board approved Jan 2026; CPW leading design since Feb 2026; aspirational July 4 target; no official announcement; fishing open May-Oct; planned: campsites/non-motorized boating/day-use parking/ADA restrooms; no swimming/wading/dogs in reservoir; 12 miles SW COS Gold Camp Road ~9,600 ft) |
+| Story History Check | COMPLETE | 4 NEW STORIES (Park & Rec Month, CPSC Magnet Toy Recalls, Fort Carson Freedom Fest, Universal Preschool UPK) + 1 FOLLOW-UP (Rosemont Reservoir — third coverage June 1/June 27/June 29); confirmed against story-history.md |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4); ### STORY N: format (fixed from first draft to use all-caps STORY) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 for S1 Park Rec Month, 2 for S2 Magnet Recalls, 1 each for S3/S4/S5); all under 280 chars; 4 hashtags each; COS voice rules; no exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (2 per story: 1200x675 X/Twitter social + 1200x630 article hero/Facebook); clean bottom third; no celebrity likenesses |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML in code block; 10 images; all not_started; photo_source: gemini; model: gemini-2.5-flash-image; gemini_mode: base_only; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-800 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 73 claims; HIGH: 166, MEDIUM: 26, LOW: 37; story analysis first draft used ## Story N: (mixed case) which broke story presence check; fixed to ### STORY N: (all-caps) and re-ran; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-29.xlsx (7 posts, 13:12–20:42 MT) + TOBI cosp-postplanner-tobi-2026-06-29.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-29)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 X posts)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-29.xlsx (7 posts, 13:12–20:42 MT), cosp-postplanner-tobi-2026-06-29.xlsx (7 TOBI posts)
+- **Coverage:** National Park & Recreation Month free events (Silent Disco Panorama Park July 11 6-8 PM, Music in Park Piñon Valley July 25 6:30-8:30 PM; Build Your Own Park + Coloring Contest deadline July 31 + Discover COS Calendar Photo Contest deadline Sept 4; coloradosprings.gov/parkandrecmonth); CPSC 2026 magnetic toy recalls (Montessori Busy Board Small Fish/Amazon June 25, 2026 — magnets detach lethal ingestion; Lterfear pounding game model D888 Findriver+Weeksome/Amazon Jan 8, 2026 — 3,500 units $24-$28 June-Sept 2025 magnets detach; Joyreal Busy Board SKU MX049-3 Indream Store/Amazon — mirror detaches choking + laceration; cpsc.gov); Fort Carson Freedom Fest (July 3, Iron Horse Park, 4-10 PM, free public, Tyler Hubbard headliner + X Ambassadors + Bryce Vine, 20+ food trucks, bounce houses, drone show, NO fireworks; Gate Pass recommended non-military; carson.armymwr.com); Colorado UPK 2026-27 (all 4-year-olds by Oct 1, 2026; 15 hrs/week free; up to 30 hrs qualifying; avg $6,300/year; 87,000+ served; direct enrollment via providers since April 1, 2026; D49: 3 hrs/day Mon-Thu; D11: tuition-based extended hours; upk.colorado.gov; 303-866-5223; cdec.colorado.gov); Rosemont Reservoir July 2026 status (still in planning; aspirational July 4 opening not confirmed; City Council + CSU Board approved Jan 2026; CPW design since Feb 2026; planned: campsites/non-motorized boating/day-use/ADA restrooms; no swimming/wading/dogs; fishing open May-Oct; 12 miles SW COS Gold Camp Road ~9,600 ft; csu.org + cpw.state.co.us)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (Niche 1 completed earlier in same session)
+  - Story analysis format issue: first draft used ## Story N: (mixed-case heading) which failed verify-facts.py story presence check. Fixed to ### STORY N: (all-caps STORY) — required format for extract_story_sections() regex. Re-ran verify-facts.py — passed.
+  - verify-facts.py: all 5 stories present in all files; image warnings cosmetic (same as all prior Parenting runs — gemini images generated separately via Canva)
+  - Compile: 7 X posts (parser correctly found all 7 in code-block format), 0 FB posts (parser compatibility — same as all prior runs); 22 dashboard items; posting window warnings cosmetic
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (same pattern as June 28 since it alternates by day — June 29 = odd-numbered day = Sarah leads)
+
+---
+
+## Prior Run: June 28, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
