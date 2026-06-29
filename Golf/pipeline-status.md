@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-28
+- **Date**: 2026-06-29
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-29
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-06-29.xlsx (5 posts) + gfr-postplanner-tobi-2026-06-29.xlsx (5 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-29/review-dashboard.html (27 items)
+- **Notes:** Travelers Championship playoff Monday — Scheffler vs Hovland tied -21/Morikawa -20 watching/$20M purse/$3.6M winner; Haeran Ryu wins KPMG Women's PGA first career major -13/Hazeltine/2-shot over Ina Yoon/Korda T8 -6 shot 73 Sunday (no 3rd consecutive major)/record $13M purse/$1.95M winner; Open Championship 154th edition July 16-19 Royal Birkdale/Final Qualifying tomorrow June 30/Scheffler defending/Tiger not entered/Birkdale last 2017 (Spieth); John Deere Classic July 2-5 TPC Deere Run/$8.8M/Gotterup World No.13 co-favorite/Spieth+Fowler+Bradley in field; LIV Golf PIF ending funding after 2026/New Orleans postponed/Norman leadership restructured/O'Neil insists season continues/no PGA merger/72-hole format 2026
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-06-28
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

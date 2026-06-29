@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-29
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-29 | T1 | Travelers Championship Playoff — Scheffler vs Hovland, Monday Sudden Death | X, FB, Article | FOLLOW UP |
+| 2026-06-29 | T1 | Haeran Ryu Wins KPMG Women's PGA — First Career Major, Korda Stopped | X, FB, Article | FOLLOW UP |
+| 2026-06-29 | T2 | Open Championship Preview — Final Qualifying Tomorrow, Birkdale Awaits | X, FB, Article | NEW |
+| 2026-06-29 | T2 | John Deere Classic Preview — Spieth, Fowler, Gotterup Lead Quality Field | X, FB, Article | FOLLOW UP |
+| 2026-06-29 | T2 | LIV Golf's Uncertain Future — Saudi Funding Ending, Season Under Pressure | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Travelers Championship Playoff — Scheffler vs Hovland, Monday Sudden Death
+- **Tier:** 1
+- **Category:** PGA Tour / Travelers Championship
+- **Key facts:** Scheffler and Hovland tied at -21 after Sunday weather delay; Monday sudden death playoff; Morikawa at -20 in clubhouse; $20M purse/$3.6M winner; TPC River Highlands, Cromwell CT; Signature Event
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Playoff result; winner confirmed
+
+### STORY 2: Haeran Ryu Wins KPMG Women's PGA — First Career Major, Korda Stopped
+- **Tier:** 1
+- **Category:** LPGA Tour / KPMG Women's PGA
+- **Key facts:** Ryu wins first career major at -13/275; 2-shot win over Ina Yoon; T3 Henderson/Weber -10; Korda T8 -6 shot 73 Sunday (did NOT win 3rd consecutive major); record $13M purse/$1.95M winner; Hazeltine National, Chaska MN
+- **Status:** NEW
+- **Follow-up ideas:** Ryu's career outlook post-major; Korda response
+
+### STORY 3: Open Championship Preview — Final Qualifying Tomorrow, Birkdale Awaits
+- **Tier:** 2
+- **Category:** Major Preview / Open Championship
+- **Key facts:** 154th Open Championship July 16-19 Royal Birkdale; Scheffler defending champion; Tiger Woods NOT entered; 156-player field; Final Qualifying June 30 (tomorrow); Birkdale last hosted 2017 (Spieth won)
+- **Status:** NEW
+- **Follow-up ideas:** June 30 Final Qualifying results; full field announcement
+
+### STORY 4: John Deere Classic Preview — Spieth, Fowler, Gotterup Lead Quality Field
+- **Tier:** 2
+- **Category:** PGA Tour / John Deere Classic
+- **Key facts:** July 2-5 TPC Deere Run Silvis IL; $8.8M purse; 8 OWGR top-50 in field; Gotterup World No. 13 co-favorite; Spieth multiple-time JDC competitor; Fowler and Bradley also in field
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** R1 leaderboard; Gotterup/Spieth performance
+
+### STORY 5: LIV Golf's Uncertain Future — Saudi Funding Ending, Season Under Pressure
+- **Tier:** 2
+- **Category:** Golf Business / LIV Golf
+- **Key facts:** PIF reportedly ending LIV funding after 2026; New Orleans tournament postponed; Greg Norman-era leadership restructured; Scott O'Neil (CEO) insists 2026 season continues; 72-hole format introduced 2026 (was 54-hole); no PGA Tour merger materializing; player contracts at risk
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official PIF statement; player responses; merger developments
+
 ## 2026-06-28
 
 | Date | Tier | Story | Platforms | Status |
