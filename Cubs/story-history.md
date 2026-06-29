@@ -5,6 +5,56 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-29
+
+### STORY 1: Series Preview — Cubs vs. Padres (Game 1 of 3 at Wrigley)
+- **Angle:** NEW STORY (is_series_start_today=true; Cubs 46-38 host Padres 43-39 at Wrigley Field; 3-game series, Game 1 tonight 7:05 PM CT; Imanaga starts; playoff rematch of 2025 NL Wild Card Series [Cubs won 2-1]; Cubs No. 2 NL WC, Padres No. 3 NL WC)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, mandatory series-start preview)
+- **Follow-Up Opportunities:**
+  - Tonight's game result (recap June 30 morning)
+  - Series Games 2 and 3 (Tue July 1 / Wed July 1)
+
+### STORY 2: Game Recap — Cubs 4, Brewers 3 (10 innings, June 28)
+- **Angle:** FOLLOW UP (Cubs take 2-of-3 in Milwaukee; Suzuki RBI single in 10th sealed it; Jordan Wicks (recalled same morning) got final out on bases-loaded double play; Cubs now 46-38)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, overnight recap)
+- **Follow-Up Opportunities:**
+  - Cubs 46-38 — Wild Card standings update after tonight's Padres game
+
+### STORY 3: Rotation Update — Peterson Debut, Wiggins Rehab, Deadline Looms
+- **Angle:** FOLLOW UP (David Peterson debuted June 27: 5.2 IP, 2 ER, Cubs won 8-2; Jaxon Wiggins threw 2⅔ rehab innings at High-A Fort Wayne on June 28, expected back at Triple-A Iowa; August 3 deadline = 35 days; Hoyer confirmed pursuing pitching)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, roster/pipeline update)
+- **Follow-Up Opportunities:**
+  - Wiggins Iowa return and subsequent starts
+  - Any Hoyer pitching trade reporting
+
+### STORY 4: Wild Card Stakes — Cubs vs. Padres Is a Playoff Position Battle
+- **Angle:** NEW STORY (Cubs No. 2 NL WC hosting Padres No. 3 NL WC; both in playoff picture; series win has direct seeding implications; first pitch 7:05 PM CT)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Series result and WC standings shift
+  - NL wild card race update
+
+### STORY 5: Pete Crow-Armstrong — All-Star Snub
+- **Angle:** FOLLOW UP (June: No. 1 in NL hits [29], BA [.433], OPS [1.383]; season WAR 4.6 leads all NL position players; ranked 14th in All-Star fan voting [only top 6 advance]; each club guaranteed one rep — PCA likely locks it if fan vote misses him)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, bold player feature)
+- **Follow-Up Opportunities:**
+  - All-Star ballot update
+  - Final All-Star selection announcement
+
+### STORY 6: First Pitch Hype — Imanaga vs. Padres at Wrigley
+- **Angle:** NEW STORY (pre-game energy; Imanaga starts against the team Cubs knocked out in 2025 WC Series; first pitch 7:05 PM CT at Wrigley)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 6:30 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's game result
+
+---
+
 ## 2026-06-28
 
 ### STORY 1: Game Recap — Cubs 8, Brewers 2 (June 27)

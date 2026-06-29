@@ -1,0 +1,210 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-29",
+  "compiled_at": "2026-06-29T09:16:39.084432+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cubs vs. Padres (Game 1 of 3 at Wrigley)",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Playoff rematch at Wrigley — Cubs beat Padres in 2025 NL Wild Card Series; both clubs now fighting for the same NL Wild Card spots (Cubs No. 2, Padres No. 3); Imanaga starts tonight at 7:05 PM CT",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs and Padres are back at Wrigley — 3-game series, Game 1 tonight at 7:05 PM CT.\n\nLast October, the Cubs sent San Diego home in the Wild Card. Now both are in the NL playoff picture: Cubs No. 2 WC, Padres No. 3. Imanaga starts.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative — Series Preview (mandatory series-start slot)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cubs vs. Padres (Game 1 of 3 at Wrigley)\n**Verified facts (HIGH confidence):**\n- Game 1 of 3 at Wrigley Field tonight, first pitch 7:05 PM CT (from series-context.json: game_date_iso 2026-06-30T00:05:00Z = 7:05 PM CDT June 29; confirmed by MLB.com gameday #824662 and multiple preview sources)\n- Cubs record: 46-38 (confirmed from series-context.json + yesterday's win result)\n- Padres record: 43-39 (confirmed from series-context.json)\n- Is_Cubs_home: TRUE (Wrigley Field per series-context.json)\n- Series length: 3 games (per series-context.json)\n- 2025 NL Wild Card Series: Cubs beat Padres 2-1 in best-of-three at Wrigley (confirmed: Baseball-Reference, MLB.com, CBS Sports, ESPN, Sun-Times; Cubs won Game 3 3-1)\n**Medium confidence:**\n- Shota Imanaga starts Game 1 (per Bleacher Nation series preview and ESPN live game page; series-context.json lists probables as TBD)\n- Imanaga 2026 season line: 5-6, 4.40 ERA, 88 K, 23 BB, 64.2 IP (from ESPN/FanGraphs via search summary; not verified against live Baseball-Reference)\n- Cubs hold No. 2 NL Wild Card spot; Padres hold No. 3 NL Wild Card spot (from MLB.com standings via search summary)\n**Sources:**\n- series-context.json (local file)\n- https://www.espn.com/mlb/game/_/gameId/401815959/padres-cubs\n- https://www.bleachernation.com/picks/2026/06/27/chicago-cubs-vs-san-diego-padres-series-june-29-july-1-odds-starting-pitchers-predictions/\n- https://www.baseball-reference.com/postseason/2025_NLWC2.shtml\n- https://www.mlb.com/news/cubs-win-nl-wild-card-series-2025",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game Recap — Cubs 4, Brewers 3 (10 innings, June 28)",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs take 2-of-3 in Milwaukee; Suzuki singled home two runs in the 10th; Jordan Wicks (recalled same morning) sealed it with a bases-loaded double play; Cubs now 46-38",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Series W at American Family Field.\n\nCubs 4, Brewers 3 in 10 — Suzuki singled home two runs in the 10th, Wicks got the final out on a bases-loaded double play. Cubs take 2-of-3 in Milwaukee.\n\nCubs are 46-38. Padres in town tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Informative — Overnight game recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game Recap — Cubs 4, Brewers 3 (10 innings, June 28)\n**Verified facts (HIGH confidence):**\n- Final score: Cubs 4, Brewers 3 in 10 innings (ESPN recap URL: /recap?gameId=401815944; confirmed by Bleed Cubbie Blue and MLB.com stories)\n- Seiya Suzuki singled home two runs in the 10th inning (confirmed: multiple recap sources)\n- Jordan Wicks got the final out on a bases-loaded double play (confirmed: Bleed Cubbie Blue headline \"Jordan Wicks saves the day\")\n- Jordan Wicks was recalled from Triple-A Iowa that Sunday (confirmed: CubsHQ)\n- Ryan Rolison opened the game (bullpen game); Gary Sanchez solo HR in the 2nd gave Brewers 1-0 lead (confirmed: ESPN recap summary)\n- Cubs tied 1-1 in 7th: Happ walked, scored on wild pitch after Hoerner single (confirmed: ESPN recap summary)\n- Cubs take 2-of-3 at American Family Field (series result = Cubs win after going 1-1 in first two)\n- Cubs now 46-38 (45-38 entering + 1 win = 46-38)\n**Sources:**\n- https://www.espn.com/mlb/recap?gameId=401815944\n- https://www.bleedcubbieblue.com/chicago-cubs-scores/223617/cubs-brewers-score-jordan-wicks-seiya-suzuki-mlb\n- https://www.mlb.com/stories/game/823769\n- https://www.cubshq.com/cubs-baseball/story/roster-move-cubs-recall-jordan-wicks-dfa-pitcher-25236",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Rotation Update — Peterson Debut, Wiggins Nears Return, Deadline Looms",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "David Peterson solid in Cubs debut Saturday (5.2 IP, 2 ER); Jaxon Wiggins threw 2⅔ rehab innings at High-A on Sunday and is expected back at Triple-A Iowa; August 3 deadline is 35 days away, Hoyer confirmed pursuing pitching",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Cubs' rotation runs on duct tape — and somehow it keeps working.\n\nDavid Peterson: 5.2 IP, 2 ER in his debut Saturday. Jaxon Wiggins: 2⅔ rehab innings at High-A on Sunday, expected back at Iowa soon.\n\n35 days until Jed Hoyer's deadline.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative — Roster/Pipeline Update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 265
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Rotation Update — Peterson Debuts, Wiggins Nears Return, Deadline Looms\n**Verified facts (HIGH confidence):**\n- David Peterson acquired from Mets in exchange for 2024 2nd-round pick Cole Mathis (confirmed: Sun-Times June 25 and ESPN)\n- Peterson debuted Saturday (June 27) — Cubs won 8-2 (confirmed: Bleed Cubbie Blue \"Cubs 8, Brewers 2: David Peterson's first Cubs start is a success\"; FantasyPros)\n- Peterson debut line: 5.2 IP, 2 ER (wait — earlier search said 5.2 IP 2 ER; Bleed Cubbie Blue says Cubs won 8-2 which is consistent) — MEDIUM (single-source pitching line from search summary)\n- Jaxon Wiggins threw 2⅔ innings at High-A Fort Wayne TinCaps on Sunday (June 28) — 1 H, 2 BB, 3 K, 1 ER (confirmed: CubbiesCrib, Yahoo Sports, CBS Sports Fantasy)\n- Wiggins expected to make next start at Triple-A Iowa (confirmed: multiple sources)\n- August 3 trade deadline = 35 days from June 29 (verified: June 29 → July 29 = 30 days; July 29 → Aug 3 = 5 more days; total = 35 days)\n- Five starters on IL: Ben Brown (neck strain, added ~June 24), Edward Cabrera (hamstring, added ~June 24), Jameson Taillon, Cade Horton, Justin Steele (confirmed from multiple injury report sources)\n**Medium confidence:**\n- Peterson debut line: 5.2 IP, 2 ER — single-source from AI summary; score of game confirmed (8-2) which is consistent with allowing 2 ER\n- Hoyer confirmed talking pitching trades, bigger moves expected post-ASB (multiple reporting sources, paraphrase-level)\n**Sources:**\n- https://chicago.suntimes.com/cubs/2026/06/25/cubs-jed-hoyer-trade-mets-david-peterson-mlb-trade-deadline-pitching-injuries-injured-list-bryse-wilson\n- https://www.bleedcubbieblue.com/chicago-cubs-scores/223557/cubs-brewers-david-peterson-seiya-suzuki-mlb\n- https://cubbiescrib.com/jaxon-wiggins-finally-gets-update-cubs-have-been-waiting-for-but-isn-t-an-immediate-fix\n- https://sports.yahoo.com/articles/cubs-top-pitching-prospect-jaxon-214529399.html\n- https://www.cbssports.com/fantasy/baseball/news/cubs-jaxon-wiggins-nearing-return-to-game-action/\n- https://www.mlbtraderumors.com/2026/06/jed-hoyer-discusses-cubs-pitching-needs.html",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Wild Card Stakes — Tonight's Game Is Bigger Than a Regular-Season Game",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs (No. 2 NL WC) hosting Padres (No. 3 NL WC) — two clubs occupying the same playoff picture, same bracket; winning the series has direct seeding implications",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tonight isn't just any series opener.\n\nCubs (No. 2 NL Wild Card) host the Padres (No. 3 NL Wild Card) at Wrigley. Two clubs fighting for the same playoff real estate. First pitch 7:05 PM CT.\n\nWin this series, own the wild card.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold — Standings Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Stakes — Tonight Is Bigger Than a Regular-Season Game\n**Verified facts (HIGH confidence):**\n- Cubs are 46-38 (from series-context.json + today's game result)\n- Padres are 43-39 (from series-context.json)\n- Game 1 of 3 at Wrigley, first pitch 7:05 PM CT (series-context.json)\n**Medium confidence:**\n- Cubs hold No. 2 NL Wild Card spot (from MLB standings via multiple search result summaries)\n- Padres hold No. 3 NL Wild Card spot (same)\n- Phillies lead NL Wild Card (mentioned in standings search results)\n**Note:** \"Literal wild card playoff position battle\" framing is accurate if both hold WC spots per available data. Using directional language (\"fighting for the same playoff real estate\") rather than claiming exact seeding differentials.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Pete Crow-Armstrong — All-Star Snub",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "PCA leads NL in June hits (29), BA (.433), and OPS (1.383); season WAR 4.6 leads all NL position players; ranked just 14th in All-Star fan voting — the data doesn't lie",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Pete Crow-Armstrong is one of the best players in baseball right now.\n\nIn June: No. 1 in hits (29), No. 1 in BA (.433), No. 1 in OPS (1.383). Season WAR of 4.6 leads all NL position players.\n\nHe's ranked 14th in All-Star fan voting. Fourteenth.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold — Player Feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pete Crow-Armstrong — All-Star Snub\n**Verified facts (HIGH confidence):**\n- June: No. 1 in NL hits (29), No. 1 in BA (.433), No. 1 in OPS (1.383) — confirmed across multiple sources (Yahoo Sports/SI.com, ChiCitySports, multiple)\n- Season: .286/.363/.521 slash line — consistent across sources\n- Season WAR of 4.6 leads all NL position players — confirmed via multiple references\n**Medium confidence:**\n- Ranked 14th in All-Star fan voting (NL outfielders) — from Yahoo Sports/SI.com; single-source but consistent with the \"snub\" framing across multiple articles)\n- Each club has guaranteed one All-Star rep (established MLB rule, applying here)\n**Omitted / LOW confidence — not used:**\n- \"Hit for the cycle on June 16\" — conflicting dates in AI summaries (June 15 reverse natural cycle vs June 16 cycle mentioned separately); omitted to avoid publishing an inaccurate milestone date without verification\n**Sources:**\n- https://sports.yahoo.com/articles/cubs-pete-crow-armstrong-snubbed-113001019.html\n- https://www.si.com/mlb/cubs/onsi/how-was-the-cubs-pete-crow-armstrong-snubbed-again-in-the-latest-all-star-update-22\n- https://www.chicitysports.com/chicago-cubs-pete-crow-armstrongs-stats-june-atg/",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "First Pitch Hype — Imanaga vs. Padres at Wrigley",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Pre-game energy for the Padres series opener; Imanaga starts against the team the Cubs knocked out of the playoffs last October; first pitch 7:05 PM CT",
+      "posting_window": "6:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Gates open. Wrigley's ready.\n\nShota Imanaga takes the mound against the Padres tonight — the same team the Cubs knocked out of the playoffs last October. First pitch 7:05 PM CT.\n\nLet's get it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "6:30 PM CT",
+          "tweet_type": "Bold — Pre-game Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 216
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "First Pitch Hype — Imanaga vs. Padres at Wrigley\n**Facts used:**\n- Shota Imanaga starts for Cubs tonight (MEDIUM — confirmed by Bleacher Nation/ESPN sources; official snapshot shows TBD)\n- First pitch 7:05 PM CT at Wrigley Field (HIGH — series-context.json)\n- Cubs beat Padres in 2025 Wild Card Series (HIGH — multiple authoritative sources)\n- Playoff rematch framing is accurate (Cubs eliminated Padres at Wrigley last October — HIGH)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
