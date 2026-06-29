@@ -4082,3 +4082,62 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Chattanooga head coach search
   - New mid-major coaching staffs fall camp performance
   - Reed legacy retrospective
+
+---
+
+## Pipeline Run: June 29, 2026
+
+### Story 1: Tia Milloy Watch — Day 35 in the Transfer Portal
+- **Date:** 2026-06-29
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 28 — Milloy still uncommitted; Day 35 in portal)
+- **Angle:** Milloy's 2026 stats (.353 BA, 4 HR, .706 SLG in 41 games) prove she is not just a pinch-runner. Two years eligibility. Portal window closed June 22. July brings PGF Nationals and recruiting calendar shifts to 2027 class. FSU, Tennessee, Texas Tech still pursuing. Commitment expected before end of July.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Milloy commitment announcement
+  - FSU response if they miss her
+  - July showcase impact on timeline
+
+### Story 2: Alabama Retained Entire Roster — Zero Transfer Portal Losses
+- **Date:** 2026-06-29
+- **Tier:** 1
+- **Classification:** NEW STORY (first coverage; Yahoo Sports confirmed zero portal departures)
+- **Angle:** Alabama went 56 wins, No. 1 national seed, WCWS semifinalists — and zero players entered transfer portal. Lost only 7 graduating seniors. Patrick Murphy's culture beat the portal while OU, FSU, LSU, Tennessee all lost significant talent.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Alabama 2027 preseason ranking
+  - Murphy culture piece for fall camp
+  - Alabama WCWS 2027 preview
+
+### Story 3: Olympic Gold to College Head Coach — Jenny Topping at CSUB
+- **Date:** 2026-06-29
+- **Tier:** 2
+- **Classification:** NEW STORY (first coverage; announced June 24, 2026)
+- **Angle:** Jenny Topping (2004 Athens Olympics gold, 2006 World Champion, Oregon State assistant where team BA improved .271 to .288) hired as Cal State Bakersfield head coach June 24. First D-I head coaching position. CSUB rebuilding after 2025.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Topping's first CSUB recruiting class
+  - CSUB fall 2027 season preview
+  - Topping's first staff hires
+
+### Story 4: Tennessee's Post-WCWS Staff Shake-Up — Snider and Sanders Out
+- **Date:** 2026-06-29
+- **Tier:** 2
+- **Classification:** NEW STORY (first coverage; coordinators not retained post-WCWS semifinal)
+- **Angle:** Craig Snider and Stephanie Sanders not retained after WCWS semifinal exit. Aubrey Leach-Gartner (former OU player) added June 15. Portal departures: Saviya Morgan (OF, .293 BA) and Kailey Plumlee (freshman LHP, 4 years eligibility). Weekly pushing for championship-level staff.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Tennessee full 2027 staff announcement
+  - Leach-Gartner's recruiting impact
+  - Vols 2027 roster preview
+
+### Story 5: Chattanooga Begins Head Coach Search After Frank Reed
+- **Date:** 2026-06-29
+- **Tier:** 3
+- **Classification:** FOLLOW UP (June 28 — Frank Reed retires; today: search begins, what the Mocs need)
+- **Angle:** Reed's full legacy: 824-581-1, 10 SoCon championships, 11 NCAA appearances, 1,300+ career wins (incl. Chattanooga State). Mocs have never had another D-I head coach. Search now underway. Internal vs. external candidate analysis.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Chattanooga hire announcement
+  - New coach's first recruiting class
+  - Mocs 2027 preview under new coach
