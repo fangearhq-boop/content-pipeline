@@ -1,0 +1,316 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-29",
+  "compiled_at": "2026-06-29T11:33:25.618149+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Russell Wins Austrian GP — Dominant Victory Cuts Championship Gap",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "9:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "GEORGE RUSSELL WINS THE AUSTRIAN GP.\n\nLights to flag from pole. Verstappen fights back from near-last to finish P2 (+1.611s). Antonelli P3.\n\nGap to the championship leader: 40 points.\n\n\"Incredible to be back on the top step.\" — Russell\n\n#F1 #AustrianGP #F1Fanrecap",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 264
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Russell wins Austria. Gap to Antonelli: 40 points.\n\n3 drivers. 46 points separating them. 9 races left.\n\nThis title fight is far from over.\n\n#F1 #AustrianGP #F1Fanrecap",
+          "posting_time": "9:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#AustrianGP",
+            "#F1Fanrecap"
+          ],
+          "char_count": 168
+        }
+      ],
+      "facebook": {
+        "long_form": "George Russell delivered one of his most complete performances of the 2026 season at the Red Bull Ring — and the championship standings are tighter than they've been in weeks.\n\nRussell started from pole and led every lap of the Austrian Grand Prix, crossing the line 1.611 seconds ahead of a charging Max Verstappen who had been written off before the race even started. Kimi Antonelli finished P3, and his lead over Russell in the title fight is now just 40 points — with nine rounds remaining.\n\nThe Verstappen subplot was genuinely remarkable. After crashing in qualifying and starting from nearly last, Max threaded through the field on a two-stop strategy to snatch second place from what looked like a damage-limitation exercise. P2 from the back of the grid is the kind of result that reminds you exactly why people still consider Verstappen among the greatest to ever do this.\n\nMeanwhile, the race told a different story at the back. Cadillac entered Austria with their biggest upgrade package of the season — only to have both cars catch fire and retire in the opening five laps. Bottas out on lap 2, Perez on laps 4-5, both due to brake failures. Zero points added to a season total that has not moved from zero in eight races.\n\nLewis Hamilton finished P5 and Charles Leclerc P8, as Ferrari's three-stop strategy gamble failed to match Mercedes' two-stop efficiency.\n\n\"Incredible to be back on the top step,\" said Russell after the race. The championship hunt is very much alive.\n\n**#F1Fanrecap #F1 #AustrianGP #GeorgeRussell #Verstappen**",
+        "image_caption": "GEORGE RUSSELL WINS THE AUSTRIAN GP 🏆\n\nLights-to-flag from pole. Verstappen P2 from near-last. Antonelli P3.\n\nChampionship gap: just 40 points. 9 races left.\n\n🏁 Who takes the title? ⬇️\n\n#F1 #AustrianGP #F1Fanrecap",
+        "posting_time": "9:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-russell-wins-austrian-gp.html",
+        "headline": "Russell Wins Austrian GP in Dominant Display as Championship Gap Closes",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's Exit Clock — Four Weeks to Hungarian GP Deadline",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "11:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Max Verstappen's exit clause deadline is 4 weeks away.\n\nHe needs Red Bull in the top 2 in constructors at the Hungarian GP (July 26). He's currently 98 pts behind Antonelli.\n\nRed Bull is offering a buyout. McLaren talks are ongoing.\n\n#F1 #Verstappen #F1Fanrecap",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#F1Fanrecap"
+          ],
+          "char_count": 261
+        },
+        {
+          "label": "Post 2-2",
+          "text": "The Verstappen situation in one sentence:\n\n4 weeks. 98 points. 1 performance clause. Multiple teams circling.\n\nThe Hungarian GP on July 26 changes everything.\n\n#F1 #Verstappen #F1Fanrecap",
+          "posting_time": "11:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen",
+            "#F1Fanrecap"
+          ],
+          "char_count": 187
+        }
+      ],
+      "facebook": {
+        "long_form": "The most consequential race of Max Verstappen's career might not be this weekend — it's July 26 at the Hungarian Grand Prix.\n\nVerstappen's Red Bull contract contains a performance clause tied to the constructors' championship: if Red Bull is not in the top two in constructors at the conclusion of the Hungarian GP, Verstappen can activate an exit clause. He is currently 98 points behind Antonelli in the drivers' standings, and Red Bull is far behind Mercedes in constructors — meaning that clause is very much in play.\n\nBehind the scenes, the situation is accelerating. Red Bull is reportedly offering an 8-figure buyout to facilitate an early exit. McLaren has held what are described as secret talks with Verstappen's camp, with a potential Piastri swap scenario reportedly discussed. Mercedes is emphatically not an option: Toto Wolff publicly confirmed the team's 2027 lineup as Russell and Antonelli.\n\nThat leaves McLaren as the most logical landing spot if Verstappen were to leave Red Bull. Lando Norris is firmly established at the team, so any Verstappen deal would require moving Piastri — a significant decision for a team that considered Piastri a long-term cornerstone.\n\nFour weeks. That's all that stands between the current status quo and a potentially seismic shift in the F1 landscape.\n\nThe Hungarian GP will be one of the most watched races of the decade.\n\n**#F1Fanrecap #F1 #Verstappen #RedBull #McLaren**",
+        "image_caption": "Max Verstappen's exit clause deadline: 4 weeks away ⏳\n\nHungarian GP (July 26) is the trigger point. Red Bull offering a buyout. McLaren talks ongoing.\n\nWhat happens next? ⬇️\n\n#F1 #Verstappen #F1Fanrecap",
+        "posting_time": "11:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clause-countdown.html",
+        "headline": "Verstappen's Exit Clause: Four Weeks to the Hungarian GP Deadline",
+        "word_count": 696
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Championship Standings — Antonelli Leads, British GP Looms",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "1:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "#F1 Championship after Austria:\n\n🥇 Antonelli — 171 pts\n🥈 Russell — 131 pts (-40)\n🥉 Hamilton — 125 pts (-46)\n\nBritish GP is a SPRINT weekend at Silverstone. July 3-5.\n\nThis is going to be something. #F1Fanrecap #BritishGP",
+          "posting_time": "1:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#F1Fanrecap",
+            "#BritishGP"
+          ],
+          "char_count": 220
+        }
+      ],
+      "facebook": {
+        "long_form": "Three drivers. Nine races. Forty-six points separating first and third.\n\nThat is the state of the 2026 Formula 1 Drivers' Championship as the field heads to Silverstone for the British Grand Prix this week.\n\nKimi Antonelli leads with 171 points, but George Russell — who just won the Austrian Grand Prix — is 40 points back at 131. Lewis Hamilton sits a further six points behind Russell at 125. All three drive for the same constructor (Mercedes has a 98-point lead over Ferrari in the constructors' championship), which creates a genuinely unusual dynamic: the team with the fastest car has internal competition shaping its title fight as much as external threats.\n\nThe constructors' standings tell their own story. Mercedes at 302 points, Ferrari at 204 (98 behind), McLaren around 159, Red Bull around 115. Mercedes has dominated this season in a way that makes Verstappen's exit clause situation even more stark — Red Bull simply cannot sustain the pace needed to keep their star driver.\n\nThe British GP at Silverstone is a sprint weekend — only the second of the 2026 season. Sprint qualifying Friday afternoon sets the Saturday sprint grid, with Grand Prix qualifying Saturday and the race Sunday. Double points opportunity means the gap could change dramatically by Sunday evening.\n\nThree drivers. One sprint weekend. The Silverstone crowd will be electric.\n\n**#F1Fanrecap #F1 #BritishGP #Championship #Antonelli #Russell**",
+        "image_caption": "Here's where the #F1 title race stands after Austria 📊\n\n🥇 Antonelli — 171 pts\n🥈 Russell — 131 pts\n🥉 Hamilton — 125 pts\n\nNext up: Silverstone SPRINT weekend, July 3-5.\n\nWho wins the British GP? ⬇️\n\n#F1 #BritishGP #F1Fanrecap",
+        "posting_time": "1:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-championship-standings-british-gp.html",
+        "headline": "2026 F1 Championship Standings: Three Drivers, Forty-Six Points, Nine Races Left",
+        "word_count": 712
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Cadillac's Austrian GP Disaster — Both Cars on Fire in Five Laps",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Cadillac's Austrian GP in numbers:\n\nLap 2: Bottas DNF — brake fire\nLap 4: Perez DNF — brake fire\nPoints scored: 0\nSeason total: 0 points in 8 races\n\nPerez: \"We cannot have these sort of issues.\"\n\n0 points. 8 races. Ferrari engine. Unacceptable.\n\n#F1 #Cadillac #F1Fanrecap",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Cadillac",
+            "#F1Fanrecap"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": {
+        "long_form": "The Cadillac F1 project had one job at the Austrian Grand Prix: deploy their biggest upgrade of the season and show progress. What happened instead might be the most spectacular double failure of 2026.\n\nValtteri Bottas was out on lap 2. Brake fire. Sergio Perez followed him into the paddock on laps 4-5. Also a brake fire. Both cars — their debut season's most significant upgrade package sitting beneath them — retired before the end of the fifth lap.\n\nZero points added. Zero points on the season. Eight races in, and the Mario Andretti Cadillac entry has not scored a single championship point.\n\n\"We cannot have these sort of issues,\" said Perez after the race — and he's right. The MAC-26, powered by a Ferrari customer engine and guided in part by engineering consultant Pat Symonds, entered the season with significant fanfare as America's first new F1 constructor in decades. The reality has been brutal.\n\nThe Monaco race provided the most bitter context: a P10 finish — the team's best result — was stripped away by a 10-second time penalty. That single result would represent their entire season championship haul, and they don't even have it.\n\nThe Austria upgrade package (new sidepods and a revised floor) was supposed to change the trajectory. Instead, it never got the chance to run. The brake fires interrupted any chance of seeing whether the updates actually worked.\n\nEight races. Zero points. The clock is running.\n\n**#F1Fanrecap #F1 #Cadillac #AustrianGP #MAC26**",
+        "image_caption": "Cadillac's Austrian GP: both cars on fire in 5 laps 🔥\n\nBottas out lap 2. Perez out laps 4-5. Both: brake fires.\n\n0 points. 8 races. Their biggest upgrade package — never got a lap.\n\nPerez: \"We cannot have these sort of issues.\" ⬇️\n\n#F1 #Cadillac #F1Fanrecap",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-cadillac-austrian-gp-disaster.html",
+        "headline": "Cadillac's Austrian GP Disaster: Both Cars on Fire, Zero Points in Eight Races",
+        "word_count": 775
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 4B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "British GP Preview — Silverstone Sprint Weekend, July 3-5",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "7:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "British GP week starts NOW.\n\nRound 9. Silverstone. SPRINT weekend.\n\nFri July 3: FP1 + Sprint Qualifying\nSat July 4: Sprint Race + GP Qualifying\nSun July 5: Grand Prix\n\nAntonelli vs Russell. Hamilton at home. Three days of action.\n\n#F1 #BritishGP #Silverstone #F1Fanrecap",
+          "posting_time": "7:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BritishGP",
+            "#Silverstone",
+            "#F1Fanrecap"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "British GP week is here — and it's a sprint weekend.\n\nRound 9 of the 2026 Formula 1 season takes place at Silverstone from July 3-5, and the format makes it twice as consequential as a standard race weekend. Sprint qualifying on Friday afternoon, the sprint race Saturday morning, then Grand Prix qualifying Saturday afternoon, and the full race Sunday. Four sessions in three days, with championship points on the line in both sprint and grand prix.\n\nHere's your full schedule (all times BST):\n- Friday July 3: FP1 at 12:30, Sprint Qualifying at 16:30\n- Saturday July 4: Sprint Race at 12:00, Grand Prix Qualifying at 16:00\n- Sunday July 5: Grand Prix at 15:00\n\nThe championship context makes Silverstone feel more urgent than ever. Kimi Antonelli leads with 171 points. George Russell — fresh off his Austrian GP victory — is 40 points back. Lewis Hamilton, competing at his home circuit, is 46 points behind. Hamilton will have the full force of the Silverstone crowd behind him this weekend, and the sprint format amplifies every result.\n\nMercedes, with their 98-point constructors' lead, can afford to race strategically. Their three-driver title fight may actually produce its most interesting chapter this weekend, as all three will need to balance team orders against personal championship needs.\n\nThree days. Two races. Everything on the line.\n\n**#F1Fanrecap #F1 #BritishGP #Silverstone #Hamilton**",
+        "image_caption": "British GP week is officially here 🇬🇧\n\nSilverstone. Sprint weekend. July 3-5.\n\nAntonelli vs Russell vs Hamilton. Home crowd. Double the action.\n\nMark your calendars ⬇️\n\n#F1 #BritishGP #Silverstone #F1Fanrecap",
+        "posting_time": "7:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-british-gp-silverstone-preview.html",
+        "headline": "British GP Preview: Silverstone Sprint Weekend Sets Up Three-Way Title Showdown",
+        "word_count": 783
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 5B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 10
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

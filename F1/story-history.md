@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-06-29
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-29 | T1 | Russell Wins Austrian GP — Dominant Victory Cuts Championship Gap | X, FB, Article | NEW |
+| 2026-06-29 | T1 | Verstappen's Exit Clock — Four Weeks to Hungarian GP Deadline | X, FB, Article | FOLLOW UP |
+| 2026-06-29 | T2 | Championship Standings — Antonelli Leads, British GP Looms | X, FB, Article | FOLLOW UP |
+| 2026-06-29 | T2 | Cadillac's Austrian GP Disaster — Both Cars on Fire in Five Laps | X, FB, Article | FOLLOW UP |
+| 2026-06-29 | T2 | British GP Preview — Silverstone Sprint Weekend, July 3-5 | X, FB, Article | NEW |
+
+### STORY 1: Russell Wins Austrian GP — Dominant Victory Cuts Championship Gap
+- **Tier:** 1
+- **Category:** F1 Race Result / Austrian GP
+- **Key facts:** Russell wins lights-to-flag from pole; Verstappen P2 (+1.611s), Antonelli P3 (+1.986s); Hamilton P5, Leclerc P8; Russell quote "Incredible to be back on the top step"; Cadillac double DNF (Bottas lap 2, Perez laps 4-5) brake fires; Ferrari 3-stop vs Mercedes 2-stop; championship gap Antonelli→Russell now 40 pts
+- **Status:** NEW
+- **Follow-up ideas:** British GP sprint weekend July 3-5; Russell momentum
+
+### STORY 2: Verstappen's Exit Clock — Four Weeks to Hungarian GP Deadline
+- **Tier:** 1
+- **Category:** F1 Driver News / Verstappen
+- **Key facts:** Performance clause triggers if Red Bull not top-2 constructors at Hungarian GP July 26; Verstappen 98 pts behind Antonelli; Red Bull offering 8-figure buyout; McLaren secret talks (Piastri swap discussed); Mercedes ruled out (Wolff confirmed Russell+Antonelli 2027); constructors gap Red Bull vs Ferrari enormous
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** July 26 Hungarian GP clause activation; McLaren confirmation or denial
+
+### STORY 3: Championship Standings — Antonelli Leads, British GP Looms
+- **Tier:** 2
+- **Category:** F1 Championship
+- **Key facts:** Antonelli 171 pts, Russell 131 (-40), Hamilton 125 (-46 from Antonelli); Mercedes constructors 302, Ferrari 204 (-98), McLaren ~159, Red Bull ~115; British GP Round 9 Silverstone July 3-5, sprint weekend; schedule: FP1 12:30 BST Fri, Sprint Qual 16:30 Fri, Sprint 12:00 Sat, GP Qual 16:00 Sat, Race 15:00 Sun
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** British GP result; championship gap changes
+
+### STORY 4: Cadillac's Austrian GP Disaster — Both Cars on Fire in Five Laps
+- **Tier:** 2
+- **Category:** F1 Team News / Cadillac
+- **Key facts:** Bottas DNF lap 2 brake fire; Perez DNF laps 4-5 brake fire; 0 points in 8 races; Monaco P10 stripped by 10-second penalty; biggest upgrade package (new sidepods+floor) deployed at Austria but ruined by lap 1-5 retirements; Perez quote "We cannot have these sort of issues"; Pat Symonds engineering consultant; Graeme Lowdon TP; Ferrari customer engine
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** British GP — can Cadillac score their first points?
+
+### STORY 5: British GP Preview — Silverstone Sprint Weekend, July 3-5
+- **Tier:** 2
+- **Category:** F1 Race Preview
+- **Key facts:** Round 9 July 3-5 Silverstone; sprint weekend; FP1 12:30 BST Fri/Sprint Qual 16:30 Fri/Sprint 12:00 Sat/GP Qual 16:00 Sat/Race 15:00 Sun; Antonelli 171 pts, Russell 131, Hamilton 125; Hamilton 8x British GP wins at Silverstone; Mercedes dominant; Ferrari ADUO 2 (new turbocharger) coming later in season
+- **Status:** NEW
+- **Follow-up ideas:** British GP race recap; sprint race result
+
 ## 2026-06-28
 
 | Date | Tier | Story | Platforms | Status |
