@@ -4141,3 +4141,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - Chattanooga hire announcement
   - New coach's first recruiting class
   - Mocs 2027 preview under new coach
+
+## June 30, 2026
+
+### Story 1: Tia Milloy Watch — Day 36: The Final Push Before July Closes the Window
+- **Date:** 2026-06-30
+- **Tier:** 1
+- **Classification:** FOLLOW UP (June 29 — Day 35 in portal; today: July calendar context and final push)
+- **Angle:** Day 36 uncommitted. July brings PGF Nationals July 19 at Great Park Irvine and splits coaching staff attention. FSU urgency (lost Torres+Beachum), Tennessee stability case, Texas Tech loaded-class depth. Two years eligibility = Milloy's leverage remains. Commitment expected before July 19.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Milloy commitment announcement
+  - FSU response if they miss her
+  - PGF Nationals evaluations July 19-26
+
+### Story 2: Kylie Doherty — BU's Patriot League Record-Setter Still in Transfer Portal
+- **Date:** 2026-06-30
+- **Tier:** 1
+- **Classification:** NEW STORY (first coverage; 2026 Patriot League POY, 27 HR, 89 RBI, still uncommitted)
+- **Angle:** BU junior OF set PL single-season records: 27 HR and 89 RBI. Named 2026 PL Player of the Year. Still uncommitted in portal. Mid-major power hitter with two years eligibility and elite production. Whoever lands her gets a real bat at a potentially low price.
+- **Content Produced:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Doherty commitment announcement
+  - First season at new program
+  - Production translation analysis
+
+### Story 3: Jordy Frahm — Nebraska's First USA Softball Collegiate Player of the Year
+- **Date:** 2026-06-30
+- **Tier:** 2
+- **Classification:** NEW STORY (first coverage; award announced May 27, 2026)
+- **Angle:** First Nebraska player ever to win USA Softball Collegiate Player of the Year. 6th two-way winner since 2002. Stats: 1.15 ERA (4th nationally), 12 saves (1st in Division I), 3.08 K/BB ratio (3rd), .848 SLG. Engine of Nebraska 52-8 WCWS 5th place finish — first WCWS in 13 years.
+- **Content Produced:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Frahm 2027 season follow-up
+  - Nebraska preseason ranking 2027
+  - Nebraska's consecutive WCWS bid
+
+### Story 4: Teagan Kavan — First-Ever Two-Time WCWS Most Outstanding Player
+- **Date:** 2026-06-30
+- **Tier:** 2
+- **Classification:** NEW STORY (first standalone feature; Kavan won WCWS MOP in 2025 and 2026)
+- **Angle:** Kavan became first player in WCWS history to win Most Outstanding Player twice. Texas swept Texas Tech 2-0 for back-to-back national titles — 5th program in D-I history. Texas also won after losing opening game (first since Oklahoma 2021). Isa Torres (.530 BA from FSU) joins via portal.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Texas 2027 preseason No. 1 coverage
+  - Kavan 2027 season preview
+  - Can Texas win three-peat?
+
+### Story 5: PGF Nationals Preview — 19 Days to Great Park Irvine
+- **Date:** 2026-06-30
+- **Tier:** 3
+- **Classification:** NEW STORY (first standalone preview; event context referenced June 27)
+- **Angle:** PGF Nationals July 19-26, Great Park Irvine. 18U/16U week 1, 14U week 2. Most important summer recruiting evaluation event. 2027 contact window live. What coaches watch, which programs send full staff, why PGF matters for commitments.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Nationals results and commitments
+  - Class of 2027 commitment surge post-PGF
+  - Top programs' haul from Irvine

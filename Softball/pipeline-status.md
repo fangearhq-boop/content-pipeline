@@ -2,14 +2,22 @@
 
 
 ## Current Run
+- **Date**: 2026-06-30
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed Story 1 tweet 1 283→271; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (47 claims, 0 char violations), compile (5 stories, 6 tweets, 5 FB posts, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 6 posts OK). 1 char violation fixed (Story 1 tweet 1 283→271).
+- **Key Stories**: Tia Milloy Day 36/July calendar changes recruiting pressure/FSU+TN+TTU closing window before PGF Nationals July 19 (Tier 1 FOLLOW UP), Kylie Doherty BU/27 HR + 89 RBI PL records/2026 PL POY/still uncommitted portal (Tier 1 NEW), Jordy Frahm Nebraska/first-ever NE USA Softball Player of Year/1.15 ERA 12 saves .848 SLG/Nebraska 52-8 WCWS 5th (Tier 2 NEW), Teagan Kavan Texas/first-ever two-time WCWS MOP/Texas back-to-back titles/swept Texas Tech (Tier 2 NEW), PGF Nationals preview July 19-26 Great Park Irvine/2027 class evaluation (Tier 3 NEW)
+
+## Last Run
+
+## Last Run
 - **Date**: 2026-06-29
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch x3 agents), brief (5 stories), research notes, story analysis, X posts (7; all under 280 chars), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (32 claims, 0 char violations), compile (5 stories, 7 tweets, 5 FB posts, 5 articles), dashboard (27 items), PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
 - **GitHub Pages Status**: unknown (push failed, known proxy restriction)
 - **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 7 posts OK).
 - **Key Stories**: Tia Milloy Day 35 portal/.353 BA/.706 SLG/two years eligibility/July deadline approaching (Tier 1 FOLLOW UP), Alabama zero portal losses/56 wins/No. 1 seed/WCWS semis/Murphy culture (Tier 1 NEW), Jenny Topping CSUB/Olympic gold Athens 2004/World Champ 2006/Oregon State assistant (Tier 2 NEW), Tennessee staff overhaul/Snider+Sanders out/Leach-Gartner in/two portal departures (Tier 2 NEW), Chattanooga head coach search/Reed 824 wins 25 seasons/10 SoCon titles/11 NCAA appearances (Tier 3 FOLLOW UP)
-
-## Last Run
 
 ## Last Run
 - **Date**: 2026-06-28
