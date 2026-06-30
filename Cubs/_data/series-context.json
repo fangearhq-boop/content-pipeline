@@ -1,25 +1,17 @@
 {
-  "generated_at": "2026-06-29T08:30:00.736627+00:00",
-  "today_ct": "2026-06-29",
+  "generated_at": "2026-06-30T08:30:00.767321+00:00",
+  "today_ct": "2026-06-30",
   "off_day": false,
-  "is_series_start_today": true,
+  "is_series_start_today": false,
   "series": {
     "opponent": "San Diego Padres",
     "opponent_id": 135,
-    "opponent_record": "43-39",
-    "cubs_record": "46-38",
+    "opponent_record": "43-40",
+    "cubs_record": "47-38",
     "is_cubs_home": true,
     "venue": "Wrigley Field",
-    "series_length": 3,
+    "series_length": 2,
     "games": [
-      {
-        "game_pk": "824662",
-        "game_date_iso": "2026-06-30T00:05:00Z",
-        "game_date_ct": "Mon 7:05 PM CT",
-        "cubs_probable": "TBD",
-        "opponent_probable": "TBD",
-        "status": "Preview"
-      },
       {
         "game_pk": "824661",
         "game_date_iso": "2026-07-01T00:05:00Z",
@@ -37,22 +29,22 @@
         "status": "Preview"
       }
     ],
-    "rationale": "Yesterday vs Milwaukee Brewers; today vs San Diego Padres \u2192 game 1 of 3 (home)."
+    "rationale": "Same opponent (San Diego Padres) as yesterday \u2014 this is mid-series, not a series opener."
   },
   "today_cubs_game": {
-    "game_pk": "824662",
+    "game_pk": "824661",
     "status": "Preview",
     "detailed_status": "Scheduled",
-    "game_date_iso": "2026-06-30T00:05:00Z",
-    "game_date_ct": "Mon 7:05 PM CT",
+    "game_date_iso": "2026-07-01T00:05:00Z",
+    "game_date_ct": "Tue 7:05 PM CT",
     "is_cubs_home": true,
     "opponent_id": 135,
     "opponent_name": "San Diego Padres",
-    "opponent_record": "43-39",
-    "cubs_record": "46-38",
+    "opponent_record": "43-40",
+    "cubs_record": "47-38",
     "cubs_probable": "TBD",
     "opponent_probable": "TBD",
     "venue": "Wrigley Field"
   },
-  "rationale": "Yesterday vs Milwaukee Brewers; today vs San Diego Padres \u2192 game 1 of 3 (home)."
+  "rationale": "Same opponent (San Diego Padres) as yesterday \u2014 this is mid-series, not a series opener."
 }
