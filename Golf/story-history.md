@@ -2,6 +2,48 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-06-30
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-30 | T1 | Hovland Wins Travelers Championship — Playoff Win Over Scheffler, 15-Month Drought Ends | X, FB, Article | FOLLOW UP |
+| 2026-06-30 | T1 | Haeran Ryu Wins KPMG Women's PGA — First Career Major, Korda's Grand Slam Bid Over | X, FB, Article | FOLLOW UP |
+| 2026-06-30 | T2 | Open Championship Final Qualifying — Birkdale Field Takes Shape, July 16-19 | X, FB, Article | FOLLOW UP |
+| 2026-06-30 | T2 | John Deere Classic Preview — Gotterup, Spieth, Fowler at TPC Deere Run | X, FB, Article | FOLLOW UP |
+| 2026-06-30 | T2 | LIV Golf Saudi Funding Ends — PIF Walking Away After 2026, Future Uncertain | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Hovland Wins Travelers Championship — Playoff Win Over Scheffler, 15-Month Drought Ends
+- **Tier:** 1
+- **Category:** PGA Tour / Travelers Championship
+- **Key facts:** Hovland wins Monday playoff over Scheffler (both -21); Hovland birdies par-4 18th; Morikawa T3 -20; 8th PGA Tour win; first in 15 months (146th start); first Norwegian to win Travelers; first international winner since Russell Knox 2016; $3.6M winner/$20M purse; 700 FedExCup pts; Scheffler World No.1/157 weeks; final Signature Event of 2026 season
+- **Status:** FOLLOW UP
+
+### STORY 2: Haeran Ryu Wins KPMG Women's PGA — First Career Major, Korda's Grand Slam Bid Over
+- **Tier:** 1
+- **Category:** LPGA Tour / KPMG Women's PGA
+- **Key facts:** Ryu wins at -13 (275); 2-shot win over Ina Yoon; first career major; Korda T8 -6/shot 73 Sunday; Korda's bid for 3rd consecutive LPGA major over (won Chevron + US Women's Open); only Babe Zaharias (1950) and Inbee Park (2013) won 3 consecutive LPGA majors; record $13M purse/$1.95M winner; Hazeltine National Chaska MN; Korda at 25/27 LPGA HoF pts
+- **Status:** FOLLOW UP
+
+### STORY 3: Open Championship Final Qualifying — Birkdale Field Takes Shape, July 16-19
+- **Tier:** 2
+- **Category:** Major Championship / Open Championship
+- **Key facts:** 154th Open Championship July 16-19 Royal Birkdale Southport England; Final Qualifying today June 30 at Notts (Hollinwell) + St Annes Old Links; Scheffler defending (2025 champion); Tiger Woods not entered; Phil Mickelson withdrew; 300,000+ attendance expected; Genesis Scottish Open July 9-12 Renaissance Club (week before)
+- **Status:** FOLLOW UP
+
+### STORY 4: John Deere Classic Preview — Gotterup, Spieth, Fowler at TPC Deere Run
+- **Tier:** 2
+- **Category:** PGA Tour / John Deere Classic
+- **Key facts:** July 2-5 TPC Deere Run Silvis IL; $8.8M purse/$1.584M winner; 500 FedExCup pts; Chris Gotterup World No.13 co-favorite; Jordan Spieth + Rickie Fowler in field
+- **Status:** FOLLOW UP
+
+### STORY 5: LIV Golf Saudi Funding Ends — PIF Walking Away After 2026, Future Uncertain
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** PIF ending financial backing after 2026 season; $5B+ total spent; $500-600M annual losses; $200M of $600M received in 2026; New Orleans event postponed; CEO O'Neil insists season continues; no PGA Tour merger; seeking $250-350M outside investment; Ducera Partners advisor; board Gene Davis + Jon Zinman; 72-hole format 2026/57 players; $40M Team Championship Michigan still on; Rahm won Hong Kong + Mexico City
+- **Status:** FOLLOW UP
+
+---
+
 ## 2026-06-29
 
 | Date | Tier | Story | Platforms | Status |

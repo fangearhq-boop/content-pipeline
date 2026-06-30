@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-29
+- **Date**: 2026-06-30
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-06-30
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway)
+- **PostPlanner exports:** gfr-postplanner-2026-06-30.xlsx (7 posts) + gfr-postplanner-tobi-2026-06-30.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-06-30/review-dashboard.html (22 items)
+- **Notes:** Hovland wins Travelers Championship Monday playoff over Scheffler (both -21)/8th PGA Tour win/first in 15 months (146th start)/first Norwegian to win Travelers/first international since Knox 2016/$3.6M/$20M purse/700 FedExCup pts/Morikawa T3 -20; Haeran Ryu wins KPMG Women's PGA first career major -13/Hazeltine/2-shot over Ina Yoon/Korda T8 -6 shot 73 Sunday (no 3rd consecutive major)/only Zaharias 1950 + Park 2013 before her/record $13M purse/$1.95M winner/Korda 25/27 HoF pts; Open Championship Final Qualifying underway today June 30/154th Open July 16-19 Royal Birkdale/Scheffler defending/Tiger not entered/Mickelson withdrew/300k+ attendance/Genesis Scottish Open July 9-12 Renaissance Club; John Deere Classic July 2-5 TPC Deere Run Silvis IL/$8.8M/$1.584M winner/500 FedExCup pts/Gotterup World No.13 co-favorite/Spieth+Fowler in field; LIV Golf PIF ending funding after 2026/$5B+ spent/$500-600M annual losses/$200M of $600M received/New Orleans postponed/O'Neil insists season continues/no PGA merger/seeking $250-350M/Ducera Partners/board Gene Davis+Jon Zinman/72-hole format/57 players
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-06-29
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
