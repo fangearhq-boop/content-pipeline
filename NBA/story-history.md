@@ -3624,3 +3624,48 @@
 - **Key facts:** Brown has NOT requested trade (ClutchPoints); Celtics "actively engaged" in discussions; Windhorst: Brown "is going to get traded"; asking price 4+ unprotected firsts; interested: Detroit (Duren sign-and-trade), Portland, formerly Minnesota; Brown age 29 ~26 PPG; Celtics lost Giannis sweepstakes to Miami
 - **Status:** NEW
 - **Follow-up ideas:** Brown trade agreed; Detroit/Portland/other winner; Celtics asset rebuild
+
+## 2026-06-30
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-30 | T1 | NBA Free Agency Day One — KAT $272M Decision, Harden, LeBron | X, FB, Article | FOLLOW UP |
+| 2026-06-30 | T1 | Ja Morant Traded to Portland Trail Blazers | X, FB, Article | NEW |
+| 2026-06-30 | T2 | Jaylen Brown — Portland's Out, Who Steps In? | X, FB, Article | FOLLOW UP |
+| 2026-06-30 | T2 | LeBron James — Warriors Making Their Push on Free Agency Day | X, FB, Article | NEW |
+| 2026-06-30 | T2 | Giannis-Heat Final Countdown — 6 Days to July 6 | X, FB, Article | FOLLOW UP |
+
+### STORY 1: NBA Free Agency Day One — KAT $272M Decision, Harden, LeBron
+- **Tier:** 1
+- **Category:** NBA Free Agency
+- **Key facts:** Negotiating window opens June 30 at 6PM ET; contracts execute July 6 12:01PM ET; KAT eligible $272M extension (must decide today); KAT owed $57.1M next season/$61M option 2027-28; Knicks exploring middle-ground (second apron); Brunson took $113M less = Finals MVP; Harden opted out $42.3M Cavs/negotiating new deal; LeBron (41) UFA - Lakers swept 4-0 OKC; $165M salary cap; Jalen Duran restricted FA; Norman Powell/Zach LaVine UFAs
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** KAT extension signed; LeBron decides; Harden new deal; FA Day One recap
+
+### STORY 2: Ja Morant Traded to Portland Trail Blazers
+- **Tier:** 1
+- **Category:** NBA Trade / Trail Blazers / Grizzlies
+- **Key facts:** Grizzlies traded Morant to Trail Blazers; per Shams Charania this is Portland's "big move as of right now"; Portland "not involved" with Jaylen Brown; Morant 19.5 PPG 20 games 2025-26; contract 2yr/$87M ($42.1M next season/$44M 2027-28); Suns were frontrunner/Celtics circling; Memphis holds No. 3 overall pick (Cam Boozer/Duke); Memphis rebuild fully underway
+- **Status:** NEW
+- **Follow-up ideas:** Morant Portland debut; Memphis rebuild moves; West power rankings updated
+
+### STORY 3: Jaylen Brown — Portland's Out, Who Steps In?
+- **Tier:** 2
+- **Category:** NBA Trade Rumors / Celtics
+- **Key facts:** Portland now out (Morant trade); per Shams "not involved" with Brown; Brown NOT requested trade; Windhorst "going to get traded"; asking price 4+ unprotected firsts; Brown 28.7 PPG All-NBA 2nd Team; age 29, 3 guaranteed seasons remaining; framework (now void): Brown+Hauser → PDX for Holiday+Henderson+Sharpe+4 firsts; Clingan/Camara were Boston targets
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** New trade partner emerges; Brown deal announced; Detroit/other team steps up
+
+### STORY 4: LeBron James — Warriors Making Their Push on Free Agency Day
+- **Tier:** 2
+- **Category:** NBA Free Agency / LeBron
+- **Key facts:** Golden State Warriors pursuing LeBron James AND Anthony Davis; LeBron age 41; Lakers swept 4-0 OKC playoffs; most analysts expect LeBron return to Lakers; prior notes: LeBron-Lakers talks "light at best"; Warriors pitch described as "real and credible"
+- **Status:** NEW
+- **Follow-up ideas:** LeBron signs with Lakers; LeBron shocks with Warriors; AD situation resolved
+
+### STORY 5: Giannis-Heat Final Countdown — 6 Days to July 6
+- **Tier:** 2
+- **Category:** NBA Trade / Heat
+- **Key facts:** Trade agreed June 22; executes July 6 12:01PM ET; Giannis+Portis for Herro+Ware+Jaquez+Jakucionis+3 firsts (incl No.13)+swap+2nd; Heat odds 18-1 (5th/6th best); Giannis+Bam frontcourt; Celtics offered Brown+2 picks and lost; Giannis extension eligible Oct 1 or Jan 6 2027
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** July 6 trade execution; Giannis Miami press conference; extension timeline
