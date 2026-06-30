@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-30
+
+### Story 1: All-Star Phase 2 Voting — Final 72 Hours
+- **Tier:** 1
+- **Classification:** FOLLOW UP (All-Star voting coverage June 25–29 pipeline)
+- **Angle:** Phase 2 closes July 2 noon ET; votes don't carry over from Phase 1. Ohtani and Clement are locked in as automatic starters. Three Phillies finalists with the game at Citizens Bank Park. Schwarber 29 HRs is the highest-profile Phase 2 ballot case. Starters, pitchers, and reserves announced July 4 on FOX. Judge absence shifts AL voting narrative to Alvarez and Witt Jr.
+- **Content:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up:** Starter announcements July 4 FOX, full roster reveal, Derby participant confirmations
+
+### Story 2: Aaron Judge Rib Stress Fracture — Recovery Timeline
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Judge injury first covered June 5–6 pipeline)
+- **Angle:** Judge played six weeks with fractured right first rib (injury April 26 vs Astros, IL June 5). Re-imaging expected early-to-mid July; August earliest realistic return. Stanton and Wells also on IL — three starters out simultaneously. Yankees swept by Red Sox in four-game series (Duran walk-off 10th). Judge's absence reshuffles AL MVP race toward Alvarez and Witt Jr.
+- **Content:** Article (article-02), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** Mid-July re-imaging results, August return target, AL MVP race updates
+
+### Story 3: Jacob Misiorowski 105.5 MPH — NL Cy Young Case (CORRECTION: Brewers, not Nationals)
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Misiorowski first covered June 7 pipeline — incorrectly identified as Nationals in June 29; corrected here)
+- **Angle:** Milwaukee Brewers pitcher threw 105.5 MPH vs Cubs June 26 — tied 3rd fastest in MLB history (with Ben Joyce). Leads MLB in ERA (1.45), WHIP (0.75), and strikeouts (138). Last 9 starts: 3 ER total over 60.1 IP. Named NL Co-Player of Week with Brewers teammate Jackson Chourio — first time two Brewers have shared the honor. Age 24. Plays in Milwaukee, not a media center. NL Cy Young case is overwhelming by the numbers.
+- **Content:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** Second-half velocity tracking, Cy Young ballot updates, Brewers second-half performance
+
+### Story 4: Tarik Skubal Trade Deadline — Tigers Decision Window
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal trade deadline coverage throughout pipeline since June 3)
+- **Angle:** Two-time AL Cy Young winner back from bone chip surgery, hitting 99.9 MPH. Tigers 34-46 — 12 games below .500 — but only 5 games out of AL Wild Card. ESPN Passan: 85% trade probability. Dodgers, Yankees, Braves, Blue Jays, Brewers, Rays in discussions. CC Sabathia 2008 trade as asking-price baseline. Next 20 games determine direction: if Tigers play .600+ ball, math on holding improves; if they play .400, trade becomes irresistible. August 3 deadline.
+- **Content:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** Tigers record over next 20 games, deadline trade or no-trade, buyer offers
+
+### Story 5: White Sox 43-39 — AL Central Surprise Contender
+- **Tier:** 3
+- **Classification:** NEW STORY (White Sox briefly noted in prior pipeline as division leaders — first full feature treatment)
+- **Angle:** Chicago White Sox are 43-39 at end of June, at or within a game of the AL Central lead. Guardians 44-40 one game ahead. Rest of division: Minnesota 40-45, Detroit 35-49, Kansas City 35-50. This is the team that went 41-121 in 2024. Trade deadline arriving as a buyer's question. Most surprising team in the AL not getting national attention.
+- **Content:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** White Sox second-half record, trade deadline buyer or seller decision, September division race
+
+---
+
 ## 2026-06-25
 
 ### Story 1: All-Star Phase 1 Results — Ohtani and Clement Earn Automatic Starts

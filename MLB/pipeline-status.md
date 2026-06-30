@@ -2,11 +2,19 @@
 
 
 ## Current Run
+- **Date**: 2026-06-30
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (31 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 6 tweets, 5 FB posts, 5 articles, 26 items), dashboard (26 items), dashboard publish 403 (proxy). PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). CORRECTION: June 29 pipeline misidentified Misiorowski as Nationals — corrected to Brewers in all June 30 content.
+- **Key Stories**: All-Star Phase 2 closes July 2 noon ET/Ohtani+Clement locked in/Schwarber 29 HRs Philadelphia factor/rosters announced July 4 FOX (Tier 1 FOLLOW UP), Aaron Judge rib stress fracture/6 weeks playing through it/IL June 5/August earliest return/Stanton+Wells also out (Tier 1 FOLLOW UP), Misiorowski Brewers 105.5 MPH June 26 (3rd fastest ever)/1.45 ERA/0.75 WHIP/138 K MLB leader/NL Cy Young case (Tier 2 FOLLOW UP CORRECTED), Skubal two-time Cy Young Tigers 34-46/85% trade probability Passan/5 games out Wild Card/August 3 deadline (Tier 2 FOLLOW UP), White Sox 43-39 AL Central leaders/Guardians 44-40 one game behind/43-39 vs 41-121 in 2024 (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-06-29
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (26 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
 - **GitHub Pages Status**: unknown (push failed, known proxy restriction)
-- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known).
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). NOTE: Misiorowski misidentified as Nationals — corrected in June 30 pipeline.
 - **Key Stories**: All-Star Phase 2 live June 29 noon ET/Ohtani+Clement locked in/vote through July 2/July 4 FOX (Tier 1 FOLLOW UP), Aaron Judge IL stress fracture rib/"significant time"/Yankees 3 regulars out (Judge+Stanton+Wells)/Alvarez+Witt Jr. AL MVP frontrunners (Tier 1 NEW), Misiorowski Nationals 1.45 ERA/0.75 WHIP/138 K MLB leader/NL Cy Young -140/24yo non-contender under radar (Tier 2 NEW), Red Sox 4-game sweep Yankees/Duran walk-off 10th 5-4/AL East tightens (Tier 2 NEW), Arraez 90% trade probability/Skubal 85%/Brett Harris 5-day window/Philly outfield/23 contending teams (Tier 3 FOLLOW UP)
 
 ## Last Run
