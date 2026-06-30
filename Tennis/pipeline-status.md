@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-29 |
-| Writing | Complete (all steps) | 2026-06-29 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 23 claims, 68 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-29 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-29 |
-| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-06-29 |
-| PostPlanner Export | Complete (standard 8 posts; TOBI 8 posts) | 2026-06-29 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-29 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-29 |
+| Research | Complete | 2026-06-30 |
+| Writing | Complete (all steps) | 2026-06-30 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 18 claims, 40 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-30 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-30 |
+| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-06-30 |
+| PostPlanner Export | Complete (standard 8 posts; TOBI 8 posts) | 2026-06-30 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-30 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-30 |
 
 ## Queue
 
@@ -24,6 +24,20 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-06-30 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Marcus Cole [S1, S5], Elena Voss [S2, S4], Ryan Calloway [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-06-30.xlsx (8 posts, 12:47–20:50 ET), tfr-postplanner-tobi-2026-06-30.xlsx (8 TOBI posts)
+- **Coverage:** Sinner five-set scare (def. Kecmanovic 4-6, 6-3, 6-7(6), 6-2, 6-3 in 3h30m; defending champion who skipped all grass warm-ups; next vs Borges R2); Djokovic def. Wu Yibing 6-4, 5-7, 6-4, 6-4 (3h11m; 21-0 first rounds; viral marriage proposal in stands — "I want an invitation to the wedding"; next vs Tsitsipas); Draper withdraws from Wimbledon (arm injury recurrence; missed AO + RG 2026 same injury; lucky loser Lajovic replaces vs Fritz; third consecutive major interrupted); Women's Day 1 recap (Sabalenka def. Kostovic 6-2, 6-3 in 64 min — 23 consecutive R1 wins at majors; Gauff def. Korpatsch 6-2, 6-1 in 54 min — fastest Wimbledon win; Andreeva def. Linette 7-5, 6-4; UPSETS: Siniakova def. Zheng 6-4, 6-4; Zhang def. Andreescu 7-6(3), 7-6(6)); Men's Day 1 upsets (Ruud No. 11 lost to Hurkacz straight sets; Rublev No. 12 lost to Safiullin 5 sets; 12-10 deciding tiebreak; four seeds total fell Day 1)
+- **Notes:**
+  - verify-facts.py: passed; 18 claims, 40 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 8 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 12:47–20:50 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-29 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
