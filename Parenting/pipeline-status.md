@@ -1,6 +1,44 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: June 29, 2026
+## Latest Run: June 30, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | July 4 COS family guide (fordamphitheater.live/csphilharmonic.org/axs.com/visitcos.com/peakradar.com — Star-Spangled Symphony Ford Amphitheater July 4 gates 5:30 PM/show 6:30 PM/fireworks ~9 PM/from $18/95 Spectrum Lp 80921; Banning Lewis Ranch free/Vista Park Pavilion 8833 Vista Del Pico Blvd/3 PM/bounce houses 4-7 PM/Tiny Pockets 4-6 PM + Funkology 7-9 PM/30 food trucks/fireworks 9:15-9:30 PM; Palmer Lake Centennial Park free/4-10 PM/fireworks ~9:15 PM); CooCooBaby baby lounger recall (cpsc.gov — 2,355 units Classic + Deluxe; Amazon + CooCooBabyOfficial.com; Dec 2024–Mar 2026; $35–$70; sides too short + pad too thick suffocation risk + open foot entrapment; cut sides + pad + photo to support@coocoobabyofficial.com; full refund); Water safety (CDC/AAP/healthychildren.org — drowning #1 cause ages 1-4; #2 ages 5-14; Colorado 2023 deadliest year; swim lessons at age 1 reduce risk 88%; 4-sided fence 83%; arm's length supervision; USCG life jackets; mountain water cold + snowmelt rivers); Fireworks safety (koaa.com/epcsheriffsoffice.com/shouselaw.com — consumer fireworks permanently banned COS city; Stage I fire restrictions ban unincorporated El Paso County; statewide ban explodes/leaves-ground; legal: sparklers/fountains/smoke/ground spinners; 150+ dB; 85 dB safe limit; earmuffs babies/toddlers; 500-ft safe distance; sparklers 2,000°F); PPLD Summer Adventure (ppld.org/summer — June 1–July 31; June 30 = midpoint; 31 days remaining; free all ages; no registration; Beanstack; 30 activities; prizes: Broadmoor Cloud Camp + Pikes Peak Attractions VIP; 14 locations + 2 bookmobiles) |
+| Story History Check | COMPLETE | 4 NEW STORIES (July 4 family guide, CooCooBaby recall, water safety, fireworks safety) + 1 FOLLOW-UP (PPLD Summer Adventure — midpoint angle, first covered June 6/June 22/June 27); confirmed against story-history.md |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 6 posts (2 for S1, 1 each for S2-S5); all under 280 chars; 4 hashtags each; COS voice rules; no exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; no hashtags; COS voice rules |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 10 Gemini base_only prompts (2 per story: 1200x675 X/Twitter social + 1200x630 article hero/Facebook); clean bottom third; no celebrity likenesses |
+| Image Manifest | COMPLETE | 07-image-manifest.md — YAML in code block; 10 images; all not_started; photo_source: gemini; model: gemini-2.5-flash-image; gemini_mode: base_only; brand_kit_id: kAHCKfCZgk0 |
+| Articles | COMPLETE | 5 articles (500-900 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 79 claims; HIGH: 172, MEDIUM: 20, LOW: 89; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 6 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 21 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 21 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-06-30.xlsx (6 posts, 13:03–20:28 MT) + TOBI cosp-postplanner-tobi-2026-06-30.xlsx (6 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-06-30)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 6 X posts + 5 FB long-form + 5 FB captions = 16 total posts (PostPlanner xlsx: 6 X posts)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-06-30.xlsx (6 posts, 13:03–20:28 MT), cosp-postplanner-tobi-2026-06-30.xlsx (6 TOBI posts)
+- **Coverage:** July 4 COS family guide (Star-Spangled Symphony Ford Amphitheater July 4 gates 5:30 PM/show 6:30 PM/fireworks ~9 PM/from $18/95 Spectrum Lp 80921/CS Philharmonic + 4th Infantry Division Band/Dolly Parton+Tina Turner+Marvin Gaye+Star Wars+1812 Overture+Stars and Stripes Forever; Banning Lewis Ranch free/Vista Park Pavilion 8833 Vista Del Pico Blvd/3 PM/bounce houses 4-7 PM/Tiny Pockets 4-6 PM + Funkology 7-9 PM/30 food trucks/fireworks 9:15-9:30 PM; Palmer Lake Centennial Park free/4-10 PM/fireworks ~9:15 PM/~30 min north on I-25); CooCooBaby baby lounger recall (CPSC; 2,355 units; Classic + Deluxe models; Amazon + CooCooBabyOfficial.com; Dec 2024–Mar 2026; $35–$70; 3 hazards: sides shorter than min height suffocation + pad thicker than max limit suffocation + open foot entrapment/fall; cut sides + cut pad + photo to support@coocoobabyofficial.com; full refund original payment method; Classic = ribbon tie at foot, Deluxe = buttons at foot); water safety for COS families (drowning = #1 cause unintentional injury death ages 1-4; #2 ages 5-14; Colorado 2023 deadliest year on record; swim lessons age 1 reduce risk 88% AAP; 4-sided pool fence reduces risk 83% CDC; arm's length active supervision + "water watcher" designation; USCG-approved life jackets ≠ water wings; mountain water cold + snowmelt rivers fast in early summer; local resources: SafeSplash + Pikes Peak YMCA + CPW); fireworks safety before July 4 (consumer fireworks permanently banned COS city; Stage I fire restrictions ban unincorporated El Paso County; Colorado statewide ban on explodes/leaves-ground products; legal permissible: sparklers/snake/glow worm/fountains/smoke/ground spinners; fireworks 150+ dB; 85 dB safe threshold; earmuffs recommended babies/toddlers; AAP: infants ideally not attend; 500-ft safe viewing distance; sparklers 2,000°F; healthychildren.org); PPLD Summer Adventure midpoint (midpoint angle — June 30 = halfway point; June 1–July 31 program; 31 days remaining; free all ages; no registration; Beanstack; 30 activities; grand prizes: Broadmoor Cloud Camp stay + Pikes Peak Attractions VIP pass; 14 locations + 2 bookmobiles; summer slide 25-30% learning loss; ppld.org/summer)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (session resumed from context compaction)
+  - verify-facts.py: all 5 stories present in all files; image warnings cosmetic (same as all prior Parenting runs — gemini images generated separately via Canva)
+  - Compile: 6 X posts (code-block format), 0 FB posts (parser compatibility — same as all prior runs); 21 dashboard items; posting window warnings cosmetic
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from June 29's same pattern)
+
+---
+
+## Prior Run: June 29, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

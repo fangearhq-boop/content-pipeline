@@ -2,6 +2,50 @@
 
 ---
 
+## June 30, 2026
+
+### Story 1: July 4 in COS — Your Complete Family Guide to Fireworks and Events
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Three confirmed July 4 events in and near COS. (1) Star-Spangled Symphony at Ford Amphitheater (95 Spectrum Lp 80921): July 4, gates 5:30 PM, show 6:30 PM, fireworks ~9 PM, from $18; CS Philharmonic + Fort Carson 4th Infantry Division Band; Dolly Parton/Tina Turner/Marvin Gaye/Star Wars suite/1812 Overture/Stars and Stripes Forever. (2) Banning Lewis Ranch July 4 Celebration: free, Vista Park Pavilion 8833 Vista Del Pico Blvd, starts 3 PM, bounce houses 4-7 PM, Tiny Pockets 4-6 PM + Funkology 7-9 PM, 30 food trucks, fireworks 9:15-9:30 PM. (3) Palmer Lake Centennial Park: free, 4-10 PM, fireworks ~9:15 PM, ~30 min north on I-25. Also notes Fort Carson Freedom Fest July 3 for context (covered June 29). Sources: fordamphitheater.live, csphilharmonic.org, axs.com, visitcos.com, peakradar.com, macaronikid.com/coloradosprings, pikes-peak.com.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** fordamphitheater.live + axs.com + visitcos.com + peakradar.com (all HIGH confidence)
+- **Follow-Up Opportunities:** Day-of July 4 reminder; post-event family recap
+
+### Story 2: Recall Alert — CooCooBaby Baby Loungers Pose Suffocation and Fall Hazard
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY (different angle from June 19 first coverage) — CPSC recalled 2,355 CooCooBaby "Classic" and "Deluxe" Baby Loungers. Sold Amazon + CooCooBabyOfficial.com Dec 2024–March 2026 for $35–$70. Three overlapping hazards: (1) sides shorter than mandatory minimum height — suffocation; (2) sleeping pad thicker than maximum allowed — suffocation; (3) open foot allows infant to slip and become entrapped or fall. Classic has ribbon tie at foot; Deluxe has buttons at foot. Both recalled. Remedy: stop use, cut sides + cut pad, email photo to support@coocoobabyofficial.com for full refund to original payment method. No physical return or phone call needed. Source: cpsc.gov, thecooldown.com, wftv.com.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov (official recall page; HIGH confidence); thecooldown.com, wftv.com corroborate
+- **Follow-Up Opportunities:** None — recall active; will age out
+
+### Story 3: Water Safety for COS Families — What the Stats Show and What Actually Prevents Drowning
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Timely pre-July 4 water safety piece. Lead with drowning stats: #1 cause of unintentional injury death ages 1-4; #2 ages 5-14; Colorado 2023 deadliest year on record. Four evidence-based prevention tools: (1) swim lessons starting age 1 — 88% risk reduction (AAP); (2) arm's-length active supervision + "water watcher" designation at pool gatherings; (3) four-sided pool fence — 83% risk reduction (CDC); (4) USCG-approved life jackets (not water wings). Colorado-specific context: mountain water cold even in summer; snowmelt rivers fast and dangerous through early summer. Local resources: SafeSplash, Pikes Peak YMCA, CPW. Sources: CDC, AAP/healthychildren.org, cpw.state.co.us, partnersinpediatrics.com.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** CDC + AAP (HIGH confidence); Colorado 2023 record drowning data (HIGH — partnersinpediatrics.com, redcross.org)
+- **Follow-Up Opportunities:** Post-holiday weekend water safety follow-up; swim lesson enrollment reminders
+
+### Story 4: Fireworks Safety — What COS Families Need to Know Before July 4
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Dual-angle: (1) local COS legal clarity — consumer fireworks permanently banned in City of Colorado Springs; Stage I fire restrictions in unincorporated El Paso County also prohibit use; Colorado statewide ban covers anything that explodes or leaves ground. (2) Practical safety tips for attending professional shows: fireworks reach 150+ dB vs 85 dB safe threshold; earmuffs recommended for babies/toddlers; AAP advises infants ideally not attend; 500-ft safe viewing distance; sparklers burn at ~2,000°F. Sources: koaa.com, epcsheriffsoffice.com, shouselaw.com/co/defense/laws/fireworks, boystownhospital.org, healthychildren.org, contemporarypediatrics.com.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** koaa.com (COS ban, HIGH confidence); epcsheriffsoffice.com (Stage I restrictions, HIGH); healthychildren.org (decibel levels + viewing distance, HIGH)
+- **Follow-Up Opportunities:** Post-July 4 fireworks injury summary if relevant
+
+### Story 5: PPLD Summer Adventure Is Halfway Done — 31 Days Left to Join
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (fourth coverage — first June 6, second June 22, third June 27) — Midpoint news peg: June 30 is the exact halfway point of PPLD Summer Adventure (June 1–July 31 program). 31 days remain. "Halfway done" creates urgency for families who haven't started without making them feel they missed it. Program is free, all ages, no registration required; 14 library locations + 2 bookmobiles; Beanstack app; 30 activities; grand prizes: Broadmoor Cloud Camp stay + Pikes Peak Attractions VIP pass; ppld.org/summer. Summer slide context: 25-30% learning loss over unstructured summer. Source: ppld.org/summer, kktv.com.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 2
+- **Key Facts:** ppld.org/summer (HIGH confidence); June 30 midpoint calculated from June 1–July 31 date range (HIGH)
+- **Follow-Up Opportunities:** Final-week reminder in late July; program end recap
+
+---
+
 ## June 29, 2026
 
 ### Story 1: National Park & Recreation Month — Free COS Events and Contests in July 2026
