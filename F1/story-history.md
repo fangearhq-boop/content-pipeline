@@ -3362,3 +3362,48 @@
 - **Key facts:** 0 pts through 7 races; only team without a point; biggest upgrade targets lap-15 tire cliff; rear instability issue; floor geometry + rear suspension changes; Williams/Haas/Audi all have points; Austrian GP is target opportunity
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** First Cadillac points; upgrade assessment FP1/FP2
+
+## 2026-06-30
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-06-30 | T1 | British GP Preview — Silverstone Sprint Weekend, 3 Days Away | X, FB, Article | NEW |
+| 2026-06-30 | T1 | Verstappen's Exit Clock — 26 Days to Hungarian GP Deadline | X, FB, Article | FOLLOW UP |
+| 2026-06-30 | T2 | F1 Championship Watch — Antonelli 40 Ahead, British GP Next | X, FB, Article | FOLLOW UP |
+| 2026-06-30 | T2 | 2026 F1 Silly Season — 15 of 22 Seats Still Open for 2027 | X, FB, Article | NEW |
+| 2026-06-30 | T2 | Cadillac F1 — Zero Points in 8 Races, What Comes Next After Austria? | X, FB, Article | FOLLOW UP |
+
+### STORY 1: British GP Preview — Silverstone Sprint Weekend
+- **Tier:** 1
+- **Category:** F1 / British GP / Silverstone
+- **Key facts:** Round 9/July 3-5/Sprint weekend format; Hamilton at Silverstone for first time as Ferrari driver; Antonelli 171 leads by 40 over Russell 131/Hamilton 125; Mercedes constructors 302/Ferrari 204; Silverstone sprint: Sprint Shootout + Sprint Race + Qual + Race
+- **Status:** NEW
+- **Follow-up ideas:** British GP qualifying result; Sprint Race; Race result; Hamilton performance
+
+### STORY 2: Verstappen Exit Clock — 26 Days to Hungarian GP
+- **Tier:** 1
+- **Category:** F1 / Driver Market / Verstappen
+- **Key facts:** Exit clause deadline July 26 Hungarian GP/26 days from June 30; 98 pts behind Antonelli; Red Bull 8-figure buyout offer; McLaren talks ongoing (Piastri involved in potential arrangement); Mercedes ruled out; shareholders split (Thai for buyout/Mateschitz estate+Mintzlaff against); manager Vermeulen: "should have chance to win"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Verstappen confirms Red Bull stay or move; McLaren deal; July 26 Hungarian GP clause activates
+
+### STORY 3: F1 Championship Watch
+- **Tier:** 2
+- **Category:** F1 / Championship
+- **Key facts:** Antonelli 171/Russell 131 (gap 40)/Hamilton 125 (gap 46)/Leclerc+Norris 79pts; Constructors: Mercedes 302/Ferrari 204 (gap 98); Russell won Austria (2nd win, also Australia); Antonelli 5 wins in season; 14 races remaining; Sprint weekend = extra points
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Post-British GP standings; Sprint Race impact; Hamilton wins British GP
+
+### STORY 4: 2026 F1 Silly Season
+- **Tier:** 2
+- **Category:** F1 / Driver Market
+- **Key facts:** 15 of 22 seats for 2027 unconfirmed; Verstappen domino pending July 26; Audi pursuing Carlos Sainz; Arvid Lindblad (Racing Bulls rookie) candidate for permanent seat; Mercedes settled (Antonelli/Russell); Ferrari (Hamilton/Leclerc); McLaren Piastri situation fluid
+- **Status:** NEW
+- **Follow-up ideas:** Sainz to Audi announced; Verstappen domino falls; 2027 grid takes shape
+
+### STORY 5: Cadillac F1 Zero Points
+- **Tier:** 2
+- **Category:** F1 / Cadillac / Technical
+- **Key facts:** 0 pts through 8 races; Austria: Bottas DNF lap 2 + Perez DNF laps 4-5 (both brake fires); biggest upgrade package ruined; floor geometry + rear suspension changes; rear instability/lap-15 tire cliff identified; Williams/Haas/Audi all have points; drivers: Bottas + Perez
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Cadillac first point; brake fix confirmed; Silverstone finish

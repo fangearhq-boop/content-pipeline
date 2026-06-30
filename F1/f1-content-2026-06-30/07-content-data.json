@@ -1,0 +1,333 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-06-30",
+  "compiled_at": "2026-06-30T11:24:13.402954+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "British GP Preview — Silverstone Sprint Weekend Is 3 Days Away",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "British GP week is here.\n\nJuly 3-5. Silverstone. Sprint weekend.\n\nHamilton at home for the first time as a Ferrari driver. Antonelli vs Russell in a championship showdown.\n\nThree days. Can't come soon enough.\n\n#F1Fanrecap #F1 #BritishGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Silverstone Sprint weekend = double the points drama.\n\nAntonelli leads Russell by 40. Hamilton sits 46 back in third.\n\nOne bad sprint. One DNF. The title picture changes fast.\n\nThis is the race that matters.\n\n#F1Fanrecap #F1 #BritishGP",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": {
+        "long_form": "British Grand Prix week is officially here — and this one is loaded with storylines.\n\nThe British GP at Silverstone runs July 3-5 as a Sprint weekend, which means we get Sprint Shootout, a Sprint Race, qualifying, and the Grand Prix all packed into three days. More track time, more data, more chances for chaos — and the championship is tight enough that every point matters.\n\nThe most emotionally charged sub-plot: Lewis Hamilton at Silverstone for the first time as a Ferrari driver. He's dominated at this circuit for over a decade, winning there eight times. Now he arrives in red, sitting third in the championship at 125 points — 46 behind Kimi Antonelli. Silverstone is where Hamilton fans come out in droves. Which car they're cheering for this year is genuinely unclear.\n\nAt the front, Kimi Antonelli leads with 171 points. George Russell — who won the Austrian GP lights-to-flag just two days ago — sits second at 131, 40 points back. Russell will want to keep the momentum going at a track where Mercedes historically performs well.\n\nThe Sprint weekend format means championship standing could shift before Sunday even begins. This is not a race to watch passively.",
+        "image_caption": "British GP Sprint weekend starts July 3. Hamilton at home. Antonelli vs Russell for the title. Silverstone is going to be electric — three days away.",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-british-gp-preview-silverstone-sprint-weekend.html",
+        "headline": "British GP Preview: Hamilton at Home, Antonelli Under Pressure, Sprint Format Adds Spice",
+        "word_count": 569
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Lewis Hamilton Ferrari (Imagn)"
+          ],
+          "text_overlay": [
+            "BRITISH GP WEEK\" (headline) / \"SILVERSTONE SPRINT — JULY 3-5\" (subtext)"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Lewis Hamilton Ferrari (Imagn)"
+          ],
+          "text_overlay": [
+            "None (clean hero image)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "British GP Preview — Silverstone Sprint Weekend\n**Key Verified Facts:**\n- British GP is Round 9 of the 2026 F1 season [HIGH]\n- Venue: Silverstone Circuit, United Kingdom [HIGH]\n- Dates: July 3-5, 2026 [HIGH]\n- Sprint weekend format (Sprint Shootout + Sprint Race + Qualifying + Race) [HIGH]\n- Lewis Hamilton racing at his home circuit for first time as Ferrari driver [HIGH]\n- Antonelli 171 pts leads championship by 40 pts over Russell 131 [HIGH]\n- Hamilton third at 125 pts [HIGH]\n- Mercedes constructors 302 pts, Ferrari 204 pts [HIGH]\n- Russell won Austrian GP lights-to-flag from pole (+1.611s over Verstappen P2) [HIGH]\n- British GP is next race after Austrian GP [HIGH]\n**Freshness:** British GP confirmed July 3-5 per official F1 calendar. All standings from Austrian GP result.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen's Exit Clock — 26 Days to Hungarian GP Deadline",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "10:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "26 days until Verstappen's exit clause deadline (July 26 — Hungarian GP).\n\nHe's 98 points behind Antonelli. Red Bull is offering an 8-figure buyout to stay.\n\nMcLaren talks are ongoing.\n\nMax's decision is coming — whether he wants it or not.\n\n#F1Fanrecap #F1 #Verstappen",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 2-2",
+          "text": "If Max Verstappen's exit clause activates July 26, it's the biggest F1 domino in years.\n\n15 of 22 seats for 2027 are still open. Every team is waiting to see where Max lands.\n\nThe countdown is on.\n\n#F1Fanrecap #F1 #Verstappen",
+          "posting_time": "10:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 225
+        }
+      ],
+      "facebook": {
+        "long_form": "The most consequential countdown in Formula 1 right now isn't a championship gap — it's a contractual clock.\n\nMax Verstappen has 26 days until the Hungarian Grand Prix on July 26, which is the effective deadline for his exit clause to activate. If he's not in the top two of the drivers' championship at that point, his exit clause allows him to walk away from Red Bull Racing. He is currently 98 points behind championship leader Kimi Antonelli — making the top-two clause mathematically impossible to satisfy.\n\nThe question isn't whether the clause activates. The question is what comes next.\n\nRed Bull is fighting hard to keep him. They've offered an eight-figure buyout — a significant financial incentive for Verstappen to remain with the team that's been his home since 2016. The shareholders are split on the approach: the Thai ownership group reportedly wants to get the deal done, while the Mateschitz estate and Mintzlaff camp are more reluctant.\n\nMeanwhile, McLaren talks are ongoing. There's been discussion of a scenario involving Oscar Piastri in a potential arrangement that could clear a path for Verstappen. Mercedes has been ruled out as a destination — a surprising turn given the Silver Arrows' dominance this season.\n\nVerstappen's manager Raymond Vermeulen has been clear: Max needs to be in a car that can win. Whether that's a rebuilt Red Bull, a McLaren, or something else entirely, the answer comes before July 26.",
+        "image_caption": "26 days until Max Verstappen's exit clause deadline. He's 98 points behind Antonelli. Red Bull is offering an 8-figure buyout. McLaren talks are happening. The most important clock in F1 is ticking.",
+        "posting_time": "10:00 AM ET"
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clock-26-days-hungarian-gp.html",
+        "headline": "Verstappen's Clock Is Ticking: 26 Days to Hungary, 98 Points Behind, No Easy Way Out",
+        "word_count": 618
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Max Verstappen Red Bull (Imagn)"
+          ],
+          "text_overlay": [
+            "26 DAYS\" (headline) / \"VERSTAPPEN'S CLOCK IS TICKING\" (subtext)"
+          ],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [
+            "Max Verstappen Red Bull (Imagn)"
+          ],
+          "text_overlay": [
+            "None (clean hero image)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clock — 26 Days\n**Key Verified Facts:**\n- Verstappen's exit clause activates at summer break if not in top-2 in championship [HIGH]\n- Hungarian GP is July 26 — the effective deadline [HIGH]\n- Today is June 30, so 26 days remain [HIGH]\n- Verstappen is 98 points behind Antonelli after Austria [HIGH]\n- Verstappen finished P2 at Austrian GP (started from near-last after Q3 crash) [HIGH]\n- Red Bull offering 8-figure buyout offer to keep Verstappen [HIGH]\n- McLaren secret talks ongoing (Piastri involved in potential swap discussions) [HIGH — from June 29 pipeline]\n- Mercedes \"ruled out\" as Verstappen destination [MEDIUM — from prior pipeline]\n- Red Bull shareholders split: Thai side for buyout, Mateschitz estate + Mintzlaff against [HIGH — from June 28 pipeline]\n- Verstappen's manager Vermeulen confirmed clause: \"should have chance to win\" [HIGH — from June 26 pipeline]\n**Freshness:** Standings confirmed post-Austrian GP June 28. Deadline: July 26 Hungarian GP (26 days from June 30).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "F1 Championship Watch — Antonelli Leads by 40, British GP Is the Next Test",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "12:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "F1 Championship standings after Austria (Round 8 of 22):\n\n🥇 Antonelli — 171 pts\n🥈 Russell — 131 pts (-40)\n🥉 Hamilton — 125 pts (-46)\n\nConstructors: Mercedes 302 / Ferrari 204\n\nSilverstone Sprint weekend is next. Points can shift FAST.\n\n#F1Fanrecap #F1",
+          "posting_time": "12:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "After eight of 22 races in the 2026 Formula 1 season, the standings are clear but not comfortable.\n\nKimi Antonelli leads the drivers' championship with 171 points. George Russell's Austrian GP victory — his second win of the season — brought him to 131 points, cutting the gap from 55 to 40. Lewis Hamilton sits third with 125 points, 46 behind Antonelli.\n\nIn the constructors' championship, Mercedes holds a 98-point lead over Ferrari: 302 to 204. That's a commanding cushion, though not an insurmountable one with 14 races remaining.\n\nThe British GP at Silverstone is next — and it's a Sprint weekend, which matters. A Sprint Race adds points that can compress gaps before Sunday's Grand Prix even begins. Hamilton racing on home soil in front of his passionate fanbase adds an emotional dimension. And Russell, who just won Austria, will carry momentum into a circuit that historically suits Mercedes.\n\nAntonelli has delivered five race wins this season and demonstrated consistent front-running pace. But Russell showed in Austria what's possible when the Mercedes is perfectly dialed in and Antonelli faces traffic from a grid start position. The window for a title challenge is still open — just narrowing with each race.",
+        "image_caption": "After 8 races: Antonelli 171. Russell 131. Hamilton 125. Mercedes constructors 302, Ferrari 204. British GP Sprint weekend is three days away. The title race is very much alive.",
+        "posting_time": "12:00 PM ET"
+      },
+      "article": {
+        "filename": "article-03-f1-championship-watch-antonelli-silverstone.html",
+        "headline": "F1 Championship Watch: Antonelli's 40-Point Cushion Faces Its First Sprint Test at Silverstone",
+        "word_count": 524
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Kimi Antonelli Mercedes (Imagn)"
+          ],
+          "text_overlay": [
+            "ANTONELLI 171\" (headline) / \"CHAMPIONSHIP WATCH — SILVERSTONE NEXT\" (subtext)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Watch\n**Key Verified Facts:**\n- After Austrian GP (Round 8 of 22): Antonelli 171 / Russell 131 / Hamilton 125 [HIGH]\n- Gap: Antonelli-Russell = 40 pts; Antonelli-Hamilton = 46 pts [HIGH]\n- Norris and Leclerc both have 79 pts per research (Norris ahead via 2nd-place Miami) [MEDIUM — research agent]\n- Mercedes constructors: 302 pts; Ferrari constructors: 204 pts (98-pt gap) [HIGH]\n- 14 races remaining after British GP [MEDIUM]\n- Sprint weekend at Silverstone can shift points quickly (Sprint Race adds points) [HIGH]\n- Hamilton at Silverstone: his home circuit, won 8 times there [MEDIUM — needs verification]\n- Russell's Austrian win was his second of 2026 (also won Australian GP) [HIGH — research agent]\n- Antonelli has achieved 5 consecutive wins earlier in the season [MEDIUM — research agent]\n**Freshness:** All standings from Austrian GP result (June 28).",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "2026 Silly Season — 15 of 22 Seats Still Open for 2027",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "2:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "15 of 22 F1 seats for 2027 are still unconfirmed.\n\nThe Verstappen domino hasn't fallen yet — July 26 is the deadline.\n\nUntil it does, nobody moves. The silly season is frozen in the best possible way.\n\n#F1Fanrecap #F1 #F1SillySeason",
+          "posting_time": "2:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#F1SillySeason"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "The 2026 Formula 1 silly season is in full swing — but it's also almost completely frozen.\n\nFifteen of the 22 available seats for the 2027 F1 season remain without confirmed drivers. Teams are waiting. Managers are waiting. Everyone is waiting for one thing: Max Verstappen's decision.\n\nHis exit clause activates at the Hungarian GP on July 26. Once it does — or once Red Bull and Verstappen reach a resolution — the domino effect begins. Teams will know whether Verstappen is available, and the market opens in full.\n\nWhat is known: Audi is actively pursuing Carlos Sainz for their 2027 lineup. Sainz, who has been one of the grid's most underrated performers for years, represents a high-profile signing that would give the German manufacturer immediate credibility. At Racing Bulls, Arvid Lindblad — the 2026 rookie — is considered a strong candidate for a permanent race seat.\n\nThe 2026 grid already featured the most significant change in years, with Audi (formerly Sauber/Stake) and Cadillac both joining as works teams under the new technical regulations. The driver market for 2027 will be the next massive reshuffling.\n\nEveryone's waiting for July 26.",
+        "image_caption": "15 of 22 F1 seats for 2027 are still unfilled. Verstappen's exit clause deadline: July 26. Until then, the silly season is frozen. When it thaws, expect an avalanche.",
+        "posting_time": "2:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-f1-silly-season-2027-seats-verstappen-domino.html",
+        "headline": "F1's 2027 Seat Crisis: 15 of 22 Spots Unfilled, Verstappen Is the Key That Unlocks Everything",
+        "word_count": 562
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Carlos Sainz (Imagn)"
+          ],
+          "text_overlay": [
+            "15 OF 22 SEATS OPEN\" (headline) / \"THE 2027 MARKET WAITS FOR MAX\" (subtext)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "2026 Silly Season\n**Key Verified Facts:**\n- 15 of 22 F1 seats without confirmed 2027 contract [HIGH — from prior pipeline]\n- Verstappen domino: until July 26 decision, most moves are frozen [HIGH]\n- Audi pursuing Carlos Sainz for 2027 [HIGH — from prior pipeline]\n- Arvid Lindblad: rookie at Racing Bulls in 2026 [HIGH]\n- 2026 grid features brand new teams: Audi (formerly Sauber) and Cadillac [HIGH]\n- 2026 technical regulations are the most radical in decades [HIGH — research agent]\n- Verstappen: Red Bull contract to 2032 declined; offered buyout instead [HIGH — from prior pipeline]\n- Team lineups with confirmed seats: Mercedes (Antonelli/Russell), Ferrari (Hamilton/Leclerc), McLaren (Norris/Piastri), Racing Bulls (Lindblad/TBD) [MEDIUM]\n**Freshness:** Silly season ongoing as of June 30.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Cadillac F1's Zero-Point Nightmare — What Comes Next After Austria?",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "5:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cadillac F1. 8 races. 0 points.\n\nIn Austria: Bottas DNF lap 2 (brake fire). Perez DNF laps 4-5 (brake fire).\n\nTheir biggest upgrade package — destroyed in 5 laps.\n\nThe American F1 dream is in serious trouble.\n\n#F1Fanrecap #F1 #CadillacF1",
+          "posting_time": "5:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1Fanrecap",
+            "#F1",
+            "#CadillacF1"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "The numbers are brutal: eight races, zero points, two brake fires in five laps.\n\nCadillac F1's 2026 debut has been a nightmare. The American factory team — one of two new entrants under the radical 2026 technical regulations — has failed to score a single championship point through eight rounds.\n\nAustria was supposed to be different. The team arrived at the Red Bull Ring with their biggest upgrade package of the season, specifically targeting the lap-15 tire cliff they've identified as their primary performance issue. Floor geometry changes, rear suspension revisions, significant aero updates — all of it was loaded onto both cars.\n\nIt ended in the opening laps. Valtteri Bottas suffered a brake fire on lap 2 and was forced to retire. Sergio Perez lasted until laps 4-5 before a similar issue ended his race. Both cars parked. Cadillac left Austria with nothing to show for their development effort.\n\nWilliams, Haas, and Audi — all teams that entered 2026 with their own struggles — have all managed to score points. Cadillac stands alone at zero.\n\nWhat comes next? The team must diagnose the brake failure before Silverstone, reset mentally, and find any path to their first championship point. The longer the zero-point streak goes, the more questions arise about the fundamental direction of their program.",
+        "image_caption": "Eight races. Zero points. Two brake fires in five laps in Austria. Cadillac F1's debut season has become a nightmare — and the team needs answers fast heading to Silverstone.",
+        "posting_time": "5:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-cadillac-f1-zero-points-eight-races-what-next.html",
+        "headline": "Cadillac's Austrian Disaster: Two Brake Fires, Eight Races, Zero Points — What Happens Now?",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [
+            "Sergio Perez Cadillac (Imagn)"
+          ],
+          "text_overlay": [
+            "0 POINTS. 8 RACES.\" (headline) / \"CADILLAC'S NIGHTMARE CONTINUES\" (subtext)"
+          ],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cadillac Zero-Point Nightmare\n**Key Verified Facts:**\n- Cadillac F1 debut in 2026 (new factory team) [HIGH]\n- Zero points through 8 races [HIGH]\n- Austrian GP: Bottas DNF lap 2 (brake fire) + Perez DNF laps 4-5 (brake fire) [HIGH]\n- \"Monaco P10 stripped\" (from June 29 pipeline notes) — suggests Perez had a Monaco result stripped [MEDIUM — need context]\n- Biggest upgrade package brought to Austria but ruined in opening laps [HIGH]\n- Rear instability issue: floor geometry + rear suspension changes were the upgrade [HIGH — from prior pipeline]\n- Only team without a point; Williams/Haas/Audi all have points [HIGH]\n- Drivers: Valtteri Bottas and Sergio Perez [HIGH — research agent]\n- Lap-15 tire cliff is their identified performance issue [HIGH — from prior pipeline]\n**Freshness:** Austrian GP result June 28. Cadillac zero-point streak through 8 races confirmed.",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 7
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
