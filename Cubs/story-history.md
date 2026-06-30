@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-06-30
+
+### STORY 1: Walk-Off Win — Cubs 3, Padres 2 (June 29)
+- **Angle:** FOLLOW UP (Suzuki walk-off single in 9th off Mason Miller; MLB-leading 10th walk-off of 2026; Trent Thornton (3-2) won; Cubs now 47-38 entering Game 2)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, overnight recap)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 2 result (recap July 1 morning)
+  - Series result (Cubs win/lose 2-game lead on Padres)
+
+### STORY 2: Roster Churn — Shaw + Roberts IL, Alcántara + Hollowell Recalled
+- **Angle:** NEW STORY (Matt Shaw [left hand sprain] + Ethan Roberts [right forearm] both placed on IL June 29; Kevin Alcántara [.273/.367/.569, 15 HR at Iowa] + Gavin Hollowell recalled; Palencia (elbow) still out past All-Star break)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Alcántara performance in active roster
+  - Shaw/Roberts return timeline
+  - Palencia post-All-Star break return
+
+### STORY 3: Wild Card Watch — Cubs 47-38, NL WC2
+- **Angle:** FOLLOW UP (Cubs 47-38 own NL WC2; Phillies 47-37 a half-game ahead; Cardinals within striking distance ~2 GB; tonight's game extends cushion)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Wild card standings post-tonight (July 1 brief)
+  - Cardinals June 30 result
+
+### STORY 4: Game 2 Preview — Boyd vs. Sears, 7:05 PM CT Wrigley
+- **Angle:** NEW STORY (Matthew Boyd [LHP, 31:6 K:BB season, elite command] vs. JP Sears [LHP, 9-11, 5.04 ERA]; Cubs hold pitching matchup edge; Wrigley Field 7:05 PM CT)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Boyd pitching line tonight
+  - Game 2 result
+  - Series Game 3 preview (July 1 1:20 PM CT)
+
+### STORY 5: PCA All-Star — Fan Vote Phase Closes July 2
+- **Angle:** FOLLOW UP (PCA climbed from 14th to 10th in NL OF voting; phase 2 closes July 2; still needs top-6 for starter spot; team rep rule almost certain guarantee; season WAR 4.6 leads all MLB position players)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, bold player feature)
+- **Follow-Up Opportunities:**
+  - Phase 2 vote results (~July 3-4)
+  - Final All-Star roster announcement
+
+### STORY 6: Trade Deadline + Wiggins South Bend
+- **Angle:** FOLLOW UP (34 days until August 3; Wiggins threw 3.2 scoreless innings at South Bend [0 R, 0 BB, 4 K]; expected next at Iowa; rotation still needs deadline acquisition)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, deadline/prospect update)
+- **Follow-Up Opportunities:**
+  - Wiggins Iowa return and first Triple-A start
+  - Any Cubs trade acquisition reporting
+
+---
+
 ## 2026-06-29
 
 ### STORY 1: Series Preview — Cubs vs. Padres (Game 1 of 3 at Wrigley)
