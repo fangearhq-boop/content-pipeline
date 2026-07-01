@@ -4198,3 +4198,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - PGF Nationals results and commitments
   - Class of 2027 commitment surge post-PGF
   - Top programs' haul from Irvine
+
+## July 1, 2026
+
+### Story 1: Tia Milloy Watch — Day 37: July Window Narrows Before PGF Nationals
+- **Date:** 2026-07-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Day 36 June 30; ongoing saga since May 25)
+- **Angle:** Day 37 with unconfirmed commitment status. July 4 weekend is first natural closing window before coaching staffs travel to PGF Nationals July 19. 18-day window for FSU, Tennessee, and Texas Tech to close without divided attention. FSU most urgent (Torres+Beachum losses), Tennessee most stable, Texas Tech most loaded. Commitment before July 19 most likely scenario.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Milloy commitment announcement (imminent)
+  - FSU response if they miss her
+  - PGF Nationals evaluations July 19-26
+
+### Story 2: Kylie Doherty Commits to Arkansas — Patriot League Record-Setter Heads to SEC
+- **Date:** 2026-07-01
+- **Tier:** 1
+- **Classification:** NEW STORY (Doherty committed June 18; first coverage of commitment)
+- **Angle:** BU OF committed to Arkansas June 18. Stats: .404 BA, 27 HR (PL record), 89 RBI (PL record), 2026 PL Player of the Year. Ranked No. 25 overall transfer, No. 5 outfielder. Third portal move. Arkansas adds top power bat in the SEC. Question: does mid-major production translate?
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Doherty first SEC season 2027
+  - Arkansas 2027 roster preview
+  - Production translation analysis
+
+### Story 3: Jordy Frahm — Pitched Entire 2026 Season While Pregnant, Now Joins Nebraska Staff
+- **Date:** 2026-07-01
+- **Tier:** 1
+- **Classification:** NEW STORY (coaching hire June 5 not covered; pregnancy revelation new information)
+- **Angle:** Frahm revealed she competed throughout 2026 season while pregnant (due December 2026). Joined Nebraska coaching staff June 5. 2026 line: 21-6, 1.37 ERA, 251 K, 12 saves (led Division I). Back-to-back NFCA National Player of the Year (first since award established 2016). Nebraska's historic 2026 season reframed entirely.
+- **Content Produced:** Article (article-03), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Frahm's role on Nebraska 2027 staff
+  - Nebraska 2027 pitching staff development
+  - Baby arrival December 2026
+
+### Story 4: FSU 2027 — A Rebuild With Real Teeth
+- **Date:** 2026-07-01
+- **Tier:** 2
+- **Classification:** NEW STORY (first standalone full 2027 FSU roster assessment post-portal)
+- **Angle:** Lost Torres (.530/78 R to Texas) and Beachum (.417/16 HR to Florida). Added Dodge (Tennessee, .285/11 HR) and Edmiaston (Stetson, 11 HR) = 22 portal HR added. Francik (ACC POY) and Danley return. This is a plan, not a freefall.
+- **Content Produced:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - FSU fall camp roster preview
+  - Francik 2027 season preview
+  - First preseason polls (January)
+
+### Story 5: September 1 Countdown — 61 Days to the 2028 Class Contact Window
+- **Date:** 2026-07-01
+- **Tier:** 3
+- **Classification:** NEW STORY (first September 1 countdown coverage; PGF Nationals context)
+- **Angle:** 61 days until September 1 opens official contact window for Class of 2028 (current ninth-graders). PGF Nationals July 19 is last major evaluation event before window opens. Under House Settlement 25-scholarship cap, every freshman spot more consequential. Programs with completed 2027 portal rosters now focused fully on next cycle.
+- **Content Produced:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - September 1 commitment rush coverage
+  - PGF Nationals 2028 class standouts
+  - Early signing day (November) 2027

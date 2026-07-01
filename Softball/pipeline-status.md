@@ -2,14 +2,20 @@
 
 
 ## Current Run
+- **Date**: 2026-07-01
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (prior session agents), brief corrected (Story 2 Doherty committed June 18 to Arkansas; Story 3 Frahm coaching+pregnancy new; brief updated), research notes, story analysis (STORY N: headers fixed to all-caps), X posts (8; 4 char violations fixed Story 1 T1 285→269, T2 284→279, Story 4 T1 294→243, Story 5 T1 315→263; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (49 claims, 0 char violations after fixes), compile (5 stories, 8 tweets, 5 FB posts, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (8 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 8 posts OK). 4 char violations fixed. Story analysis headers needed all-caps STORY N: fix.
+- **Key Stories**: Tia Milloy Day 37/July 4 window before PGF Nationals July 19/FSU+TN+TTU pursuing/unconfirmed status (Tier 1 FOLLOW UP), Kylie Doherty commits Arkansas June 18/.404 BA/27 HR (PL record)/89 RBI (PL record)/2026 PL POY/No. 25 overall transfer (Tier 1 NEW), Jordy Frahm competed entire 2026 season while pregnant/due Dec 2026/joined Nebraska staff June 5/21-6 1.37 ERA 251 K 12 saves (led D1)/back-to-back NFCA POY first ever (Tier 1 NEW), FSU 2027 rebuild/Dodge+Edmiaston 22 combined HR/Francik ACC POY returns (Tier 2 NEW), September 1 countdown/61 days/2028 class window (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-06-30
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed Story 1 tweet 1 283→271; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (47 claims, 0 char violations), compile (5 stories, 6 tweets, 5 FB posts, 5 articles, 26 items), dashboard (26 items), PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
 - **GitHub Pages Status**: unknown (push failed, known proxy restriction)
 - **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 6 posts OK). 1 char violation fixed (Story 1 tweet 1 283→271).
 - **Key Stories**: Tia Milloy Day 36/July calendar changes recruiting pressure/FSU+TN+TTU closing window before PGF Nationals July 19 (Tier 1 FOLLOW UP), Kylie Doherty BU/27 HR + 89 RBI PL records/2026 PL POY/still uncommitted portal (Tier 1 NEW), Jordy Frahm Nebraska/first-ever NE USA Softball Player of Year/1.15 ERA 12 saves .848 SLG/Nebraska 52-8 WCWS 5th (Tier 2 NEW), Teagan Kavan Texas/first-ever two-time WCWS MOP/Texas back-to-back titles/swept Texas Tech (Tier 2 NEW), PGF Nationals preview July 19-26 Great Park Irvine/2027 class evaluation (Tier 3 NEW)
-
-## Last Run
 
 ## Last Run
 - **Date**: 2026-06-29
