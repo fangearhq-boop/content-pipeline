@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-01
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (27 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known).
+- **Key Stories**: Skubal back-to-back 1-hitters (June 29: 7IP/13K vs Twins; June 30: 6IP/9K vs Yankees)/first win since April 18/38-day return/Dodgers frontrunner/Aug 3 deadline (Tier 1 FOLLOW UP), deGrom July 1 7IP/2ER vs Guardians/Rangers 4-2/4-0 in June/Rangers 6-game streak/return complete (Tier 1 NEW), Schwarber first to 30 HRs MLB 2026/Derby July 13 Citizens Bank Park/uncommitted/Netflix (Tier 2 FOLLOW UP), All-Star Phase 2 closes July 2 noon ET/Schlittler AL starting pitcher/rosters July 4 FOX/Derby Netflix (Tier 2 FOLLOW UP), Misiorowski 9-3/1.45 ERA/0.768 WHIP/146 K MLB leader/105.5 mph June 26/Brewers 52-31 NL best (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-06-30
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (31 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 6 tweets, 5 FB posts, 5 articles, 26 items), dashboard (26 items), dashboard publish 403 (proxy). PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo

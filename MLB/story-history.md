@@ -5,6 +5,45 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-01
+
+### Story 1: Tarik Skubal — First Win in Two Months
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal trade deadline/injury covered throughout pipeline since June 3)
+- **Angle:** Back-to-back one-hitters in final days of June — June 29 vs Twins (7IP/1H/0ER/13K) and June 30 vs Yankees (6IP/1H/1ER/9K). 22 K in two starts. First win since April 18. Elbow surgery May 6 (minimally invasive, 38-day return). Dodgers frontrunner, ESPN Passan 85% trade probability. $32M 2026, pending FA. August 3 deadline.
+- **Content:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up:** Trade deadline August 3; Skubal next start before All-Star break; Dodgers trade talks
+
+### Story 2: Jacob deGrom — July 1 vs Guardians
+- **Tier:** 1
+- **Classification:** NEW STORY
+- **Angle:** deGrom threw 7 innings against Cleveland, allowed 2 ER (Manzardo 2-run HR), Rangers won 4-2. Went 4-0 in June. Rangers on 6-game winning streak. Comeback from elbow and back injuries in 2023-24 now confirmed — sustained excellence over a full month.
+- **Content:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up:** deGrom next start before All-Star break; Rangers AL West positioning; trade deadline buyer status
+
+### Story 3: Kyle Schwarber — 30 HR, Derby at Citizens Bank
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Schwarber HR race covered throughout pipeline since June 1)
+- **Angle:** First player in MLB to hit 30 HRs in 2026, did it June 28. Home Run Derby is July 13 at Citizens Bank Park. He has not committed to participating. Derby airs on Netflix (first time). Decision pending.
+- **Content:** Article (article-03), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** Schwarber Derby commitment decision; Derby field announcement; All-Star Game July 15
+
+### Story 4: All-Star Phase 2 Closes Tomorrow
+- **Tier:** 2
+- **Classification:** FOLLOW UP (All-Star voting covered throughout pipeline since June 19)
+- **Angle:** Phase 2 closes July 2 noon ET. Cam Schlittler named AL starting pitcher (first rookie to start as pitcher in recent memory). Full rosters announced July 4 on FOX. Derby July 13 on Netflix. All-Star Game July 15 Citizens Bank Park.
+- **Content:** Article (article-04), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** Roster announcements July 4 FOX; Derby participants confirmed; All-Star Game July 15
+
+### Story 5: Jacob Misiorowski — Cy Young Case
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Misiorowski first covered June 7 pipeline, corrected Brewers affiliation June 30)
+- **Angle:** 9-3, 1.45 ERA, 0.768 WHIP, 146 K — leads all of MLB. Threw 105.5 mph June 26. Brewers 52-31, best record in NL. First-year pitcher Cy Young case — historical precedent thin but numbers overwhelming.
+- **Content:** Article (article-05), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up:** Second-half velocity/ERA tracking; Cy Young ballot updates; Brewers NL record
+
+---
+
 ## 2026-06-30
 
 ### Story 1: All-Star Phase 2 Voting — Final 72 Hours
