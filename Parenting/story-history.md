@@ -2,6 +2,50 @@
 
 ---
 
+## July 1, 2026
+
+### Story 1: Check Your Baby Gear — Four Active CPSC Recalls for Sleep, Bath, and Sleepwear Products
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Four separate CPSC recalls covering different product categories. (1) Vevor Baby Swings: recalled for suffocation risk — seat incline exceeds mandatory 10-degree maximum for infant sleep products; sold on Amazon. (2) Joyful Journeys Baby Loungers: recalled for entrapment and fall hazards — violates mandatory standard for Infant Sleep Products; separate product/recall from CooCooBaby covered June 30. (3) Amazon-sold Baby Bath Seats (YCXXKJ + NFSVLB brands; BenTalk seller): recalled for drowning risk — seats tip over in use; nearly 9,000 units. (4) Bellabu Bear Children's Robes: recalled for burn hazard — violates mandatory flammability standard for children's sleepwear. Action for all: stop use immediately + cpsc.gov/Recalls. Sources: cpsc.gov, fox21news.com, fox business.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov (all four recalls; HIGH confidence); fox21news.com + fox business corroborate bath seat unit count (~9,000; MEDIUM)
+- **Follow-Up Opportunities:** Any recall status updates; refund/replacement confirmation stories
+
+### Story 2: COS Is Under a Burn Ban and Stage II Fire Restrictions — What That Means for July 4
+- **Content Pillar:** National Parenting / Local News
+- **Angle:** NEW STORY / FOLLOW-UP (escalation from Stage I covered June 30) — Fire conditions escalated since Monday. Burn ban took effect noon June 29 covering Colorado Springs. El Paso County moved from Stage I (covered June 30) to Stage II — highest level — prohibiting use and sale of fireworks in unincorporated El Paso County. CSPD has specific officers assigned citywide for July 4 enforcement. Penalties for City Fireworks Ordinance violations: up to $2,650 fine + mandatory municipal court appearance + up to 189 days in jail. Key reminder: consumer fireworks permanently banned in COS city limits every year — not just this year — including sparklers (burn at ~2,000°F). Sources: kktv.com, gazette.com, shouselaw.com, epcsheriffsoffice.com, koaa.com.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** kktv.com + gazette.com (Stage II escalation, HIGH); kktv.com + shouselaw.com (penalties $2,650 + 189 days, HIGH); koaa.com (permanent COS ban, HIGH); epcsheriffsoffice.com (Stage II definition, HIGH)
+- **Follow-Up Opportunities:** Post-July 4 enforcement summary if data available; any stage downgrade
+
+### Story 3: Before the Fireworks — Rock Ledge Ranch and WWII Aviation Museum for July 4
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (daytime July 4 options not covered in June 30 guide) — (1) Rock Ledge Ranch Historic Site: July 4, 10 AM–4 PM, $7–$13 admission, kids 3 and under free; Civil War living history encampment, kids' patriotic parade, historic home tours, festival games, live music. Located at Garden of the Gods entrance. (2) National Museum of WWII Aviation: July 4, 10 AM–5 PM; vintage auto displays, rides in vintage military vehicles, children's STEM activities, prize drawings, live entertainment. Both venues not included in June 30 evening/fireworks guide. Sources: coolcoloradorentals.com, visitcos.com.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** coolcoloradorentals.com + visitcos.com (Rock Ledge Ranch hours/admission, HIGH); coolcoloradorentals.com (WWII Museum hours + activities, HIGH)
+- **Follow-Up Opportunities:** Daytime July 4 recap; annual event reminder 2027
+
+### Story 4: D49 Back-to-School Starts July 24 — Key Dates and a New Student Success Center
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — D49 back-to-school calendar kicks off in 23 days. Key dates: New Teacher Orientation July 24; Teachers Return July 28; Professional Development July 30; First Day of School August 2026 (exact date at d49.org). Additional highlight: D49 will open a Student Success Center at the start of the 2026–27 school year (additional details at d49.org). Board meetings through October at Sand Creek High School. References for D11 (d11.org) and D20 (asd20.org) families. Sources: d49.org/discover-d49/district-calendar, d49.org/view-all-updates.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** d49.org calendar (July 24/28/30 dates, HIGH); d49.org/view-all-updates (Student Success Center, HIGH); First Day of School August 2026 (MEDIUM — general date range confirmed)
+- **Follow-Up Opportunities:** First day of school reminder; Student Success Center opening feature; D11 + D20 calendar update
+
+### Story 5: 30 Days Left in PPLD Summer Adventure — Grand Prizes and How to Finish Strong
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (fifth coverage — first June 6, second June 22, third June 27, fourth June 30 midpoint) — July 1 = start of final 30 days (distinct from June 30's "31 days remaining" midpoint angle). Urgency framing: window is closing but still achievable. Program free, no pre-registration, all ages; sign up at ppld.org/summer or Beanstack app. 30 activities; grand prizes: one-night stay for two at Broadmoor Cloud Camp + Pikes Peak Region Attractions VIP Access Pass. Summer slide: 25–30% reading loss without summer engagement. 14 library locations + 2 bookmobiles. Sources: ppld.org/summer, kktv.com, koaa.com, gazette.com.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** ppld.org/summer (all program details, HIGH); kktv.com + koaa.com (prize details, HIGH); 25–30% learning loss (HIGH — education research cited consistently)
+- **Follow-Up Opportunities:** Final-week reminder in late July; program results/prize winner announcement
+
+---
+
 ## June 30, 2026
 
 ### Story 1: July 4 in COS — Your Complete Family Guide to Fireworks and Events

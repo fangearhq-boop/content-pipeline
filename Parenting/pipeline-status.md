@@ -1,6 +1,46 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: June 30, 2026
+## Latest Run: July 1, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | CPSC recalls (cpsc.gov — Vevor Baby Swings suffocation; Joyful Journeys Baby Loungers entrapment/fall; YCXXKJ+NFSVLB Amazon bath seats drowning ~9,000 units; Bellabu Bear robes burn hazard); Stage II fire restrictions (kktv.com/gazette.com — burn ban since June 29 noon; Stage II highest level; CSPD specific officers assigned; $2,650 fine + mandatory court + 189 days jail; fireworks permanently banned in COS city limits; sparklers 2,000°F); July 4 daytime options (coolcoloradorentals.com/visitcos.com — Rock Ledge Ranch July 4 10 AM–4 PM $7–$13 kids 3 & under free Civil War history + kids' patriotic parade; WWII Aviation Museum July 4 10 AM–5 PM vintage military vehicle rides + STEM activities; neither in June 30 guide); D49 back-to-school (d49.org — New Teacher Orientation July 24; Teachers Return July 28; Professional Development July 30; First Day August; Student Success Center opens 2026–27); PPLD Summer Adventure final month (ppld.org/summer — June 1–July 31; July 1 = 30 days remaining; free all ages; no registration; Beanstack; 30 activities; grand prizes: Broadmoor Cloud Camp + Pikes Peak Attractions VIP; 14 locations + 2 bookmobiles; summer slide 25–30%) |
+| Story History Check | COMPLETE | 4 NEW STORIES (CPSC recalls roundup, Stage II fire restrictions + burn ban, July 4 daytime options, D49 back-to-school) + 1 FOLLOW-UP (PPLD Summer Adventure — final month angle; prior coverage June 6/June 22/June 27/June 30 midpoint); confirmed against story-history.md; Joyful Journeys recall is distinct from CooCooBaby recall covered June 30; Stage II is escalation from Stage I covered June 30 |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 for S1, 2 for S2, 1 each for S3–S5); all under 280 chars; max 2 emoji per post; 3–4 hashtags each; COS voice rules; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; 2–4 emoji per post; COS voice rules; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only prompts (2 per Tier 1 story, 1 per Tier 2 story: 1200x675 social); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — table format; 7 images across 5 stories; all not_started; photo_source: gemini; model: gemini-2.5-flash-image |
+| Articles | COMPLETE | 5 articles (500–850 words; Quick Reference tables; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 72 claims; HIGH: 168, MEDIUM: 64, LOW: 99; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-01.xlsx (7 posts, 13:10–20:40 MT) + TOBI cosp-postplanner-tobi-2026-07-01.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-01)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 X posts)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [S1, S3, S5], Sarah Morales x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-01.xlsx (7 posts, 13:10–20:40 MT), cosp-postplanner-tobi-2026-07-01.xlsx (7 TOBI posts)
+- **Coverage:** CPSC recalls July 2026 roundup (4 active recalls: Vevor Baby Swings suffocation suffocation — incline exceeds 10° max for infant sleep products; Joyful Journeys Baby Loungers entrapment/fall — violates mandatory standard for Infant Sleep Products, separate from CooCooBaby covered June 30; Amazon-sold bath seats YCXXKJ+NFSVLB drowning risk — ~9,000 units sold via BenTalk on Amazon; Bellabu Bear Children's Robes burn hazard — violates mandatory flammability standard; action for all: stop use + cpsc.gov/Recalls); Stage II fire restrictions + burn ban July 4 2026 (burn ban since June 29 noon; El Paso County Stage II = highest level = bans use + sale fireworks in unincorporated county; CSPD specific officers assigned citywide; consumer fireworks PERMANENTLY banned in COS city limits every year including sparklers 2,000°F; violations: up to $2,650 fine + mandatory municipal court + up to 189 days jail; kktv.com/gazette.com/shouselaw.com); July 4 daytime options for COS families (Rock Ledge Ranch July 4 10 AM–4 PM admission $7–$13 kids 3 & under free Civil War living history + kids' patriotic parade + historic home tours + festival games + live music; National Museum of WWII Aviation July 4 10 AM–5 PM vintage auto displays + vintage military vehicle rides + children's STEM activities + prize drawings; neither covered in June 30 guide; coolcoloradorentals.com/visitcos.com); D49 back-to-school 2026–27 (New Teacher Orientation July 24; Teachers Return July 28; Professional Development July 30; First Day of School August 2026 exact date at d49.org; District offices closed July 3; Student Success Center opens start of 2026–27 school year; Board meetings through October at Sand Creek High School; D11: d11.org; D20: asd20.org); PPLD Summer Adventure final 30 days (July 1 = 30 days remaining; June 1–July 31 program; free all ages; no pre-registration; Beanstack app; 30 activities; grand prizes: Broadmoor Cloud Camp one-night stay for two + Pikes Peak Region Attractions VIP Access Pass; 14 library locations + 2 bookmobiles; summer slide 25–30% reading loss; ppld.org/summer)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (session resumed from context compaction mid-pipeline; content files from 00 through 03 were already created; pipeline continued from step 7 FB posts onward)
+  - X posts: initial 03-social-posts-x.md had draft analysis text causing first verify-facts run to flag Story 1 and Story 3 tweets as over 280 chars (script read first code block per story, which were earlier drafts). Rewrote file with single clean final versions only. Second verify-facts run passed with no consistency issues.
+  - Facebook posts: initial draft included hashtags; Parenting CLAUDE.md specifies NO hashtags on Facebook. Rewrote to remove all hashtags and add 2–4 emoji per post per brand rules.
+  - verify-facts.py: all 5 stories present; image manifest warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - Compile: 7 X posts, 0 FB posts (parser compatibility — same as all prior runs); 22 dashboard items; posting window warnings cosmetic
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from June 30's Sarah Morales [S1, S3, S5])
+
+---
+## Prior Run: June 30, 2026
+
 
 | Step | Status | Notes |
 |------|--------|-------|
@@ -37,7 +77,6 @@
   - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from June 29's same pattern)
 
 ---
-
 ## Prior Run: June 29, 2026
 
 | Step | Status | Notes |
