@@ -2,6 +2,48 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-01
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-01 | T1 | John Deere Classic Opens Tomorrow — Griffin Favorite, Koivun Pro Debut, Spieth Seeks Third | X, FB, Article | PUBLISHED |
+| 2026-07-01 | T1 | Open Championship Field Nearly Set — 20 Final Qualifiers, Last Spot July 13 at Birkdale | X, FB, Article | PUBLISHED |
+| 2026-07-01 | T2 | LIV Golf Funding Crisis — $200M of $600M Received, Final 2 Events at Risk | X, FB, Article | PUBLISHED |
+| 2026-07-01 | T2 | Genesis Scottish Open Preview — 6 of Top 10 at Renaissance Club, July 9-12 | X, FB, Article | PUBLISHED |
+| 2026-07-01 | T2 | Amundi Evian Championship Preview — Grace Kim Defends, LPGA Major July 9 in France | X, FB, Article | PUBLISHED |
+
+### STORY 1: John Deere Classic Opens Tomorrow — Griffin Favorite, Koivun Pro Debut, Spieth Seeks Third
+- **Tier:** 1
+- **Category:** PGA Tour / John Deere Classic
+- **Key facts:** July 2-5 TPC Deere Run Silvis IL; $8.8M purse; 500 FedExCup pts; Ben Griffin favorite (+1,500); Chris Gotterup +1,600 (2 wins in 2026); Jackson Koivun 21-year-old pro debut (+2,000); Jordan Spieth 2x winner here (+3,300); Rickie Fowler (+4,000)
+- **Status:** PUBLISHED
+
+### STORY 2: Open Championship Field Nearly Set — 20 Final Qualifiers, Last Spot July 13 at Birkdale
+- **Tier:** 1
+- **Category:** Major Championship / Open Championship
+- **Key facts:** 154th Open Championship July 16-19 Royal Birkdale; Final Qualifying June 30 — 20 spots filled (5 per venue: Burnham & Berrow, Dundonald Links, Royal Cinque Ports, West Lancashire); Skogen + MJ Daffue shot -12 at Royal Cinque Ports; 2 amateurs qualified; Last-Chance Qualifier July 13 at Birkdale; Scheffler defending (2025 Royal Portrush, -4 shots); McIlroy, Rahm, Fitzpatrick, Schauffele, Wyndham Clark (2026 US Open champ), Fleetwood (Southport native); Tiger Woods not entered; Phil Mickelson withdrew
+- **Status:** PUBLISHED
+
+### STORY 3: LIV Golf Funding Crisis — $200M of $600M Received, Final 2 Events at Risk
+- **Tier:** 2
+- **Category:** LIV Golf / Business
+- **Key facts:** PIF paid $66M (May) + $130M (June) = ~$196M of $600M needed for 2026; final 2 late-August events at risk; LIV UK (July 23-26) + Bedminster expected to proceed; Ducera Partners seeking $250-350M outside investment; new board: Gene Davis + Jon Zinman; CEO Greg O'Neil says season continues; PIF statement: "longer term" investment inconsistent with current phase; $5B+ spent since 2022 launch; $500-600M annual losses; New Orleans postponed; $40M Team Championship Michigan still on
+- **Status:** PUBLISHED
+
+### STORY 4: Genesis Scottish Open Preview — 6 of Top 10 at Renaissance Club, July 9-12
+- **Tier:** 2
+- **Category:** DP World Tour / Scottish Open
+- **Key facts:** July 9-12 The Renaissance Club East Lothian Scotland; $9M purse; Rolex Series co-sanctioned DP World Tour + PGA Tour; 6 of world top 10: Scheffler (No.1), McIlroy (No.2), Rahm, Fitzpatrick, Gotterup (defending), Wyndham Clark (2026 US Open champ); also: Schauffele, Fleetwood, Hatton, Åberg, Thomas, Griffin, Horschel, Aaron Rai (former Scottish Open champ), Min Woo Lee (2021 winner), MacIntyre, Patrick Reed (Race to Dubai leader)
+- **Status:** PUBLISHED
+
+### STORY 5: Amundi Evian Championship Preview — Grace Kim Defends, LPGA Major July 9 in France
+- **Tier:** 2
+- **Category:** LPGA Tour / Evian Championship
+- **Key facts:** July 9-12 Evian Resort Golf Club Evian-les-Bains France; Grace Kim defending (2025 eagle on par-5 72nd hole → playoff win); Nelly Korda won 2026 Chevron + US Women's Open but T8 at KPMG; Haeran Ryu won KPMG; 2026 LPGA: every round every event live TV (first time since Golf Channel began 1995); next major after Evian: AIG Women's Open July 30-Aug 2 England
+- **Status:** PUBLISHED
+
+---
+
 ## 2026-06-30
 
 | Date | Tier | Story | Platforms | Status |

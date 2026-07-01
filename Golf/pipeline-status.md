@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-30
+- **Date**: 2026-07-01
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-01
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written; 3 required char count fixes (Story 1 Post 2 had emoji chars, Story 2 Post 1 rewritten twice, Story 4 Post 1 shortened)
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** gfr-postplanner-2026-07-01.xlsx (7 posts) + gfr-postplanner-tobi-2026-07-01.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-01/review-dashboard.html (27 items)
+- **Notes:** John Deere Classic opens July 2-5 TPC Deere Run Silvis IL/$8.8M/500 FedExCup pts/Ben Griffin favorite +1500/Gotterup +1600 (2 wins in 2026)/Koivun 21-year-old pro debut +2000/Spieth 2x winner +3300/Fowler +4000; Open Championship 154th edition July 16-19 Royal Birkdale field nearly set/20 Final Qualifying spots filled June 30/Last-Chance Qualifier July 13 at Birkdale/Scheffler defending (2025 Royal Portrush -4 shots)/McIlroy, Rahm, Fitzpatrick, Schauffele, Wyndham Clark (2026 US Open champ), Fleetwood (Southport native)/Tiger not entered/Mickelson withdrew/2 amateurs qualified; LIV Golf crisis $200M of $600M received/$66M May + $130M June/final 2 late-August events at risk/LIV UK July 23-26 + Bedminster expected/PIF statement longer-term inconsistent/Ducera seeking $250-350M/CEO O'Neil says season continues/board Gene Davis+Jon Zinman/$5B+ spent/$500-600M annual losses; Genesis Scottish Open July 9-12 Renaissance Club East Lothian/$9M Rolex Series/6 of top 10: Scheffler, McIlroy, Rahm, Fitzpatrick, Gotterup (defending), Clark/also Schauffele, Fleetwood, Hatton, Åberg, Thomas, Griffin, Rai, Min Woo Lee, MacIntyre, Reed; Amundi Evian Championship July 9-12 Evian-les-Bains France/Grace Kim defending (2025 eagle par-5 72 → playoff)/Korda won 2026 Chevron+US Women's Open but T8 at KPMG/Ryu won KPMG/2026 LPGA every round live TV (first since GC began 1995)/AIG Women's Open July 30-Aug 2 England next major
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-06-30
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
