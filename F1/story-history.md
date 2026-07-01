@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-01
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-01 | T1 | Hamilton's Ferrari Homecoming — Targeting Record 10th British GP Win | X, FB, Article | FOLLOW UP |
+| 2026-07-01 | T1 | Verstappen's Exit Clause — 25 Days to Hungarian GP Deadline | X, FB, Article | FOLLOW UP |
+| 2026-07-01 | T2 | British GP Sprint Format — First Silverstone Sprint Since 2021 | X, FB, Article | NEW |
+| 2026-07-01 | T2 | Championship Snapshot — Antonelli 171, Russell 131, Hamilton 125 | X, FB, Article | FOLLOW UP |
+| 2026-07-01 | T2 | 2027 Driver Market Chaos — 17 Unconfirmed Seats | X, FB, Article | NEW |
+
+### STORY 1: Hamilton's Ferrari Homecoming — Targeting 10th British GP Win
+- **Tier:** 1
+- **Category:** F1 Race Preview / British GP
+- **Key facts:** Hamilton's first Silverstone as Ferrari driver; exclusive record 9 British GP wins/targeting 10th; Ferrari upgrades: new Macarena wing + low-drag diffuser; Hamilton hinted yellow Ferrari suit; won Barcelona (ended 686-day drought/nearly 20s gap); P3 championship 125 pts; finished P5 Austria; Mercedes won 7 of 8 rounds
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** British GP result; did Hamilton win his 10th; Ferrari upgrade performance at Silverstone
+
+### STORY 2: Verstappen Exit Clause — 25 Days to Hungarian GP
+- **Tier:** 1
+- **Category:** F1 Driver News / Verstappen
+- **Key facts:** Exit clause activatable after Hungarian GP July 26 (25 days); Verstappen P7 with 73 pts; Antonelli leads 171 pts (98+ pt gap); manager Vermeulen: "wasn't born to compete in midfield"; Red Bull 8-figure buyout offer; 3 months (through October) to activate; McLaren Piastri-swap talks reported; Mercedes ruled out by Wolff; top-2 condition will not be met
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Hungarian GP July 26 clause activation; Verstappen decision announcement
+
+### STORY 3: British GP Sprint Format
+- **Tier:** 2
+- **Category:** F1 Race Format
+- **Key facts:** First sprint at Silverstone since 2021; one FP1 session 12:30 BST Fri; Sprint Qual 16:30 Fri; Sprint 12:00 Sat (8 pts); GP Qual 16:00 Sat; Race 15:00 Sun 52 laps (25 pts); 33 total points; parc ferme after FP1; teams need strong baseline
+- **Status:** NEW
+- **Follow-up ideas:** Sprint race result; GP qualifying; British GP race recap
+
+### STORY 4: Championship Standings Before British GP
+- **Tier:** 2
+- **Category:** F1 Championship
+- **Key facts:** Antonelli 171, Russell 131 (-40), Hamilton 125 (-46), Piastri 80, Norris 79, Leclerc 79, Verstappen 73; Mercedes constructors 302, Ferrari 204, McLaren ~159, Red Bull ~115; Russell won Austrian GP (Verstappen P2, Antonelli P3); 33 pts available this sprint weekend
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Championship standings update after British GP sprint weekend
+
+### STORY 5: 2027 Driver Market Chaos
+- **Tier:** 2
+- **Category:** F1 Driver Market
+- **Key facts:** 17 of 20 2027 seats unconfirmed; both Mercedes (Russell + Antonelli) open; confirmed: Verstappen/Red Bull (w/ exit clauses), Norris+Piastri/McLaren, Leclerc/Ferrari through 2029, Gasly/Alpine through 2028; Audi pursuing Sainz; Racing Bulls: neither Lawson nor Lindblad confirmed; Verstappen exit triggers cascade
+- **Status:** NEW
+- **Follow-up ideas:** First 2027 signings; Verstappen destination; Mercedes 2027 lineup
+
 ## 2026-06-29
 
 | Date | Tier | Story | Platforms | Status |

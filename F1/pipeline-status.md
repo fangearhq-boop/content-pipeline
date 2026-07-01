@@ -1,10 +1,21 @@
 # F1 Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-06-30
+- **Date**: 2026-07-01
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-01
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-01.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-01.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-01/review-dashboard.html (27 items)
+- **Notes:** British GP Silverstone July 3-5 sprint weekend/Hamilton first Ferrari Silverstone race targeting exclusive 10th win/yellow suit hint/Ferrari Macarena wing+diffuser upgrades; Verstappen exit clause 25 days away (July 26 Hungarian GP)/P7 73pts/113pts behind Antonelli/"not born for midfield"/Red Bull 8-figure buyout; championship Antonelli 171-Russell 131 (-40)-Hamilton 125 (-46)/33 pts available sprint weekend; 2027 market: 17 of 20 seats unconfirmed/both Mercedes open/Audi pursues Sainz
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-06-30
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
