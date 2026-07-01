@@ -5,6 +5,58 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-01
+
+### STORY 1: Cubs 9, Padres 7 — Game 2 Recap (June 30)
+- **Angle:** FOLLOW UP (Dansby Swanson hit TWO HRs incl. 432-ft blast; Alex Bregman three-run HR; Michael Busch + Pete Crow-Armstrong solo HRs; 5 Cubs HRs total; Matthew Boyd W 3-1; Ryan Rolison first save; Cubs' 4th straight win; 48-38; Padres lost 4 straight; JP Sears took the L)
+- **Tier:** 1
+- **Content Produced:** X Text Post (2 posts — 7:00 AM CT recap + 8:15 AM CT bold take)
+- **Follow-Up Opportunities:**
+  - Today's Game 3 result (Cubs sweep or series win, recap July 2 morning)
+
+### STORY 2: Game 3 Preview — Rea vs. Buehler, Sweep on the Line
+- **Angle:** NEW STORY (Colin Rea [4.80 ERA, better last 2 starts: 1 ER/10.1 IP] vs. Walker Buehler [1.71 ERA in last 5 starts, 1 run in EACH]; Cubs 2-0 series lead going for sweep; 1:20 PM CT Wrigley Field)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Game 3 result and series outcome (swept Padres or split)
+  - Rea's pitching line
+
+### STORY 3: Wild Card Watch — Cubs 48-38
+- **Angle:** FOLLOW UP (48-38 entering July; four straight wins; offense hung 5 HRs on Padres; Wild Card contention; rotation health remains the gap; July/August stretch critical)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, standings analysis)
+- **Follow-Up Opportunities:**
+  - Standings update after today's game
+  - Any Cardinals/Brewers results
+
+### STORY 4: All-Star — PCA Phase 2 Shut Out, Reserve Path Only
+- **Angle:** FOLLOW UP (Phase 2 voting closes July 2 at 12 PM ET; PCA didn't advance from Phase 1 [finished 10th]; leads all MLB position players in WAR [4.6]; leads NL OF in OAA [15]; reserve selection by players/commissioner is only remaining path)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold player feature)
+- **Follow-Up Opportunities:**
+  - Final All-Star roster announcement (reserve selections)
+  - PCA reserve selection confirmed/snubbed
+
+### STORY 5: Roster Moves — Maton 15-Day IL, Milner Appendectomy
+- **Angle:** NEW STORY (Phil Maton placed on 15-day IL with right knee injury; Hobie Milner out 4-to-6 weeks post emergency appendectomy; two more bullpen arms down after June 29 Shaw+Roberts IL; bullpen and rotation both depleted heading into August 3 deadline)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Maton/Milner return timelines
+  - Any corresponding roster moves (recalls from Iowa)
+
+### STORY 6: Trade Deadline + Pipeline — 33 Days, Alcántara Odds at 40%
+- **Angle:** FOLLOW UP (33 days to August 3; Cubs rotation 27th in ERA [4.71]; Sandy Alcántara trade odds at 40%, Cubs co-frontrunner with Padres; Jaxon Wiggins 3.2 scoreless at South Bend [High-A]; Iowa next in rehab progression)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, deadline/prospect analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs/Alcántara trade reporting
+  - Wiggins first Triple-A Iowa start post-rehab
+  - Countdown to Aug 3 deadline continues
+
+---
+
 ## 2026-06-30
 
 ### STORY 1: Walk-Off Win — Cubs 3, Padres 2 (June 29)

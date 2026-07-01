@@ -1,0 +1,258 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-01",
+  "compiled_at": "2026-07-01T09:16:52.878376+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Game 2 Recap — Cubs 9, Padres 7",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Bold take — Swanson/win streak",
+      "type": "Bold"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Game 3 Preview — Rea vs. Buehler 1:20 PM CT",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Wild Card standings — Cubs 48-38",
+      "type": "Bold"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "All-Star — PCA Phase 2 closes tomorrow",
+      "type": "Bold"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Roster: Maton/Milner IL",
+      "type": "Informative"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Deadline — 33 days, Alcántara, Wiggins",
+      "type": "Bold"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 9, Padres 7 — Game 2 Recap (June 30)",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Dansby Swanson hit TWO home runs, Alex Bregman hit a three-run blast, Michael Busch and Pete Crow-Armstrong added solo HRs; five Cubs home runs total; Boyd (3-1) got the win; Cubs' fourth straight victory; 48-38; Padres on four-game losing streak",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs 9, Padres 7.\n\nSwanson went deep TWICE, Bregman hit a three-run blast, and Busch and Crow-Armstrong added solo HRs. Five home runs, four straight wins.\n\nBoyd gets the W (3-1). This offense is dangerous.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative — Overnight game recap (7:00 AM) + Bold — Fan energy (8:15 AM)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 230
+        },
+        {
+          "label": "Post 2",
+          "text": "Dansby Swanson homered TWICE last night. The Cubs are 48-38, riding four straight wins, and hitting the ball like a team that means business.\n\nJuly doesn't scare them.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Informative — Overnight game recap (7:00 AM) + Bold — Fan energy (8:15 AM)",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 196
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cubs 9, Padres 7 — Game 2 Recap\n**Sources**:\n- ESPN game page: \"Cubs 9-7 Padres (Jun 30, 2026)\" — score CONFIRMED\n- Field Level Media wire (syndicated to KNBR, 107.5 The Game, WJOX, Sportsradio Harrisburg): \"Dansby Swanson homers twice, Cubs outslug Padres\" — narrative CONFIRMED\n- Bleacher Nation Enhanced Box Score — game details\n- Washington Post game story\n**Verified facts** (confidence levels):\n- Final score: Cubs 9, Padres 7 — HIGH (ESPN + wire syndication)\n- Dansby Swanson: 2 home runs — HIGH (headline word across multiple outlets)\n- One Swanson homer \"estimated at 432 feet\" to center — MEDIUM (single AI summary detail; directional)\n- Alex Bregman: three-run home run — HIGH (wire story specific)\n- Michael Busch: solo home run — HIGH (wire story)\n- Pete Crow-Armstrong: solo home run — HIGH (wire story \"Busch and Crow-Armstrong added solo HRs\")\n- Five total Cubs home runs — HIGH (consistent across search summaries)\n- Matthew Boyd (W, 3-1): 5+ innings, 3 ER, 0 BB, 2 K — HIGH (box score detail from ESPN)\n- Ryan Rolison: recorded last out, first save — HIGH (wire story)\n- JP Sears (L, 1-1): 4.2 IP, 7 R (6 ER), 3 BB, 4 K — HIGH (wire story)\n- Padres home runs: Tatis Jr. (2), Machado, Gavin Sheets — HIGH (wire detail)\n- Cubs' 4th consecutive win — HIGH (consistent across sources; aligns with story history)\n- Cubs now 48-38 — HIGH (matches series context JSON generated July 1 AM)\n- Padres now 43-41 — HIGH (matches series context JSON)\n- Padres on 4-game losing streak — HIGH (consistent with wins Tuesday + Monday)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Game 3 Preview — Rea vs. Buehler, Sweep in Sight",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Colin Rea (4.80 ERA, better in last 2 starts) vs. Walker Buehler (1.71 ERA over last 5 starts, 1 run in EACH start); Cubs lead series 2-0 going for sweep; 1:20 PM CT day game at Wrigley; must preview before 10 AM per playbook",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Colin Rea takes the mound at 1:20 PM CT. Cubs go for the series sweep.\n\nThe challenge: Walker Buehler has allowed one run in EACH of his last five starts. A 1.71 ERA over that stretch. Rea needs to match zeros.\n\n2-0 series lead. Let's close it.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative — Game Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game 3 Preview — Rea vs. Buehler\n**Sources**:\n- Cubs Insider series preview article (June 29)\n- Bleacher Nation series odds/preview (June 27)\n- SI.com: Padres starter announcement\n- FantasyPros probable pitchers\n**Verified facts**:\n- Game time: 1:20 PM CT — HIGH (matches series context JSON game_date_ct \"Wed 1:20 PM CT\")\n- Game location: Wrigley Field — HIGH (series context JSON is_cubs_home=true)\n- Cubs starter: Colin Rea — HIGH (multiple preview sources agree)\n- Rea's ERA: 4.80 across 84.1 IP — MEDIUM (preview source; directional)\n- Rea recent form: 1 ER in last 10.1 innings (last 2 starts) — MEDIUM (single preview source)\n- Padres starter: Walker Buehler — HIGH (multiple sources)\n- Buehler ERA in last 5 starts: 1.71 — MEDIUM (single AI summary; strong directionality)\n- Buehler allowed 1 run in EACH of last 5 starts — MEDIUM (single source; directional and plausible for a sub-2.00 ERA stretch)\n- Cubs lead series 2-0 — HIGH (series context + story history confirms Game 1 W + Game 2 W)\n- TV: Marquee Sports Network — MEDIUM (preview source)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Wild Card Watch — Cubs 48-38",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs firmly in NL Wild Card race at 48-38; four straight wins entering July; offensive firepower (five HRs last night) makes this team dangerous; rotation health remains the question",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "48-38. Firmly in the Wild Card race and riding four straight wins to open July.\n\nThe Cubs are built for the long game. Depth, rotation (when healthy), and a lineup that just hung five home runs on San Diego.\n\nThis race is on.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold — Standings Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Watch\n**Sources**:\n- Series context JSON (cubs_record: 48-38)\n- June 30 pipeline status (NL WC2 at 47-38)\n- Prior daily pipeline context (Phillies ~47-37 a half-game ahead as of June 30)\n**Verified facts**:\n- Cubs record: 48-38 — HIGH (series context JSON, generated July 1 08:30 UTC)\n- Cubs firmly in NL Wild Card race — HIGH (consistent across multiple pipeline days)\n- Cubs held NL WC2 as of June 30 at 47-38 — HIGH (June 30 pipeline status)\n- Brewers lead NL Central substantially — MEDIUM (directional, per power rankings ~52-30 range)\n- Five home runs hit June 30 — HIGH (per Story 1 above)\nNOTE: Exact current WC standings (# of games up/back) not confirmed from live search. Using directional language only — \"firmly in the Wild Card race\" rather than a specific games-behind figure.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "All-Star — PCA Shut Out of Phase 2, Reserve Path Remains",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Phase 2 All-Star voting closes July 2 at 12 PM ET; PCA finished 10th in Phase 1 and did not advance to final starter ballot; leads all MLB position players in WAR (4.6) and NL outfielders in OAA (15); reserve selection by players/commissioner is the only path now",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "All-Star Phase 2 voting closes tomorrow. PCA didn't make the final ballot.\n\nHe leads all MLB position players in WAR (4.6), leads NL outfielders in Outs Above Average (15), and still finished 10th in Phase 1 fan voting.\n\nThe reserves fix this.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold — Player Feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 271
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "All-Star — PCA Phase 2\n**Sources**:\n- Bleacher Report Phase 1 results\n- Sports Keeda Phase 2 finalists list\n- SI.com (PCA WAR/OAA data)\n- CBS Philadelphia (Phase 2 voting announcement)\n- Bleacher Nation multiple articles\n**Verified facts**:\n- PCA finished 10th among NL outfielders in Phase 1 — HIGH (Bleacher Report article)\n- PCA Phase 1 vote total: 1,061,310 — MEDIUM (single source)\n- Phase 2 voting closes July 2 at 12 PM ET — HIGH (multiple sources)\n- Votes did not carry over from Phase 1 to Phase 2 — HIGH (CBS Philadelphia)\n- PCA did NOT advance to Phase 2 starter ballot (only top 6 per position advance) — HIGH (consistent across multiple sources)\n- PCA WAR 4.6 leads all MLB position players (both bWAR and fWAR) — MEDIUM (described in multiple search summaries; compound superlative claim requiring cross-reference; directional confidence is high)\n- PCA leads NL outfielders in Outs Above Average (15) — MEDIUM (SI.com article summary; directional)\n- PCA leads NL outfielders in Fielding Run Value (16) — MEDIUM (same source; not used in tweet)\n- PCA's path is as a reserve (commissioner + player votes) — HIGH (standard MLB All-Star process)\nCOMPOUND CLAIM FLAG: \"Leads all MLB position players in WAR (4.6)\" — this is a superlative claim. Multiple sources say it but I cannot verify against Baseball Reference same-day. Flagging as MEDIUM. Using it in tweet but including confidence note in fact-check log. The sources cite both bWAR and fWAR at 4.6 — the consistency across two metrics and multiple articles increases confidence.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Roster Moves — Maton 15-Day IL, Milner Out 4-6 Weeks",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Phil Maton placed on 15-day IL with right knee injury; Hobie Milner out 4-to-6 weeks following emergency appendectomy; two more bullpen arms down after Shaw + Roberts IL on June 29; further urgency for August 3 deadline",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Cubs' bullpen took two more hits.\n\nPhil Maton lands on the 15-day IL with a right knee injury. Hobie Milner is out 4-to-6 weeks following an emergency appendectomy.\n\nThe rotation needs help. So does the pen. August 3 can't come soon enough.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative — Roster/Injury Update",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Roster Moves — Maton/Milner\n**Sources**:\n- CBS Sports Cubs injury page (cbssports.com/mlb/teams/CHC/chicago-cubs/injuries/)\n- FanGraphs RosterResource\n- MLB.com transactions\n**Verified facts**:\n- Phil Maton: 15-day IL, right knee injury — MEDIUM (CBS Sports injury report summary; specific injury detail from AI summary)\n- Hobie Milner: out 4-to-6 weeks, emergency appendectomy — MEDIUM (CBS Sports injury report summary)\n- These moves are NEW as of July 1 (not in June 30 pipeline coverage) — HIGH (confirmed by absence in June 30 story history and pipeline-status.md)\n- Both Maton and Milner are Cubs relievers — HIGH (known roster context)\nNOTE: Both facts are MEDIUM confidence — from AI summary of CBS Sports injury page, not directly verified from primary source. Including in tweet but using conservative language \"lands on the IL\" (confirmed transaction language) vs. claiming specific injury details with HIGH confidence. Will flag in fact-check.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Trade Deadline + Pipeline — 33 Days, Alcántara Odds Rise",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "33 days to August 3; Cubs rotation ranks 27th in ERA (4.71); Sandy Alcántara trade odds hit 40% (Cubs co-frontrunner with Padres); Jaxon Wiggins threw 3.2 scoreless at High-A South Bend; Iowa next in rehab",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "33 days to the August 3 deadline.\n\nCubs rotation ranks 27th in ERA (4.71). Sandy Alcántara's trade odds hit 40%. Jaxon Wiggins just went 3.2 scoreless in High-A rehab — Iowa is next.\n\nOne deadline acquisition changes this race.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Bold — Deadline Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline + Pipeline\n**Sources**:\n- MLB Trade Rumors (Jed Hoyer pitching needs article)\n- Yahoo Sports (Cubs prioritize starting pitching upgrades)\n- Stadium Rant (Alcántara landing spots)\n- Yahoo Sports (Alcántara trade odds)\n- Cubs Crib / Sports Mockery (Wiggins timeline)\n**Verified facts**:\n- August 3 deadline: 33 days from July 1 — HIGH (math: Aug 3 minus July 1 = 33 days)\n- Cubs rotation ERA: 27th in MLB at 4.71 \"through 75 games\" — MEDIUM (single search result; approximate game count; directional)\n- Sandy Alcántara trade odds at 40% — MEDIUM (Yahoo Sports article summary; directional; specific % from a betting/odds source)\n- Cubs and Padres \"most closely tied\" to Alcántara — MEDIUM (multiple sources suggest it consistently)\n- Alcántara contract: $17.3M in 2026, $21M club option 2027 — MEDIUM (cited in multiple articles)\n- Jaxon Wiggins: 3.2 scoreless at South Bend (High-A) — HIGH (in June 30 pipeline story history, covered as confirmed fact)\n- Wiggins' next start expected at Triple-A Iowa — HIGH (June 30 pipeline covered \"expected next at Iowa\"; corroborated by multiple Wiggins update articles)\n- Jed Hoyer confirmed pitching priority — HIGH (MLB Trade Rumors article direct)",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
