@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-01
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-01 | T1 | LeBron James Leaves Lakers — Warriors at -500 Favorites | X, FB, Article | FOLLOW UP |
+| 2026-07-01 | T1 | KAT Extension Ultimatum — Dolan's No Second Apron Deadline | X, FB, Article | FOLLOW UP |
+| 2026-07-01 | T2 | Kawhi Leonard Traded to Toronto Raptors | X, FB, Article | NEW |
+| 2026-07-01 | T2 | Jaylen Brown Trade — Who Steps Up? | X, FB, Article | FOLLOW UP |
+| 2026-07-01 | T2 | Heat Building Around Giannis — Wiggins and Hardaway Jr. Incoming | X, FB, Article | NEW |
+
+### STORY 1: LeBron James Leaves Lakers — Warriors at -500 Favorites
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** LeBron informed Lakers he will not return for 2026-27 (24th NBA season); instructed Rich Paul to speak to all teams; Warriors -500 DraftKings, Cavs +300, Heat +1000, Spurs +2000; cannot sign until July 6 moratorium lifts; Lakers swept 4-0 by OKC in 2026 playoffs
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs with Warriors (or other team) July 6+; Warriors roster construction; Lakers response/rebuild plan
+
+### STORY 2: KAT Extension Ultimatum — Dolan No Second Apron
+- **Tier:** 1
+- **Category:** NBA Offseason / Knicks
+- **Key facts:** Owner Dolan: Knicks will NOT operate in second apron 2026-27; Knicks asking Towns for $7-10M haircut on $273M max extension; Josh Hart also extension-eligible needing discount; Brunson took ~$113M less/won Finals MVP; KAT: "ready to make financial sacrifice"; second apron constraints affect trades+exceptions
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** KAT accepts/rejects haircut; Hart extension terms
+
+### STORY 3: Kawhi Leonard Traded to Toronto Raptors
+- **Tier:** 2
+- **Category:** NBA Trade / Raptors
+- **Key facts:** Clippers trading Kawhi Leonard to Raptors; Raptors send: Brandon Ingram, Gradey Dick, 2031+2033 unprotected firsts, 2030+2033 seconds, 2027 first-round swap; Kawhi age 34; Kawhi won 2019 championship + Finals MVP with Toronto; executes July 6 moratorium
+- **Status:** NEW
+- **Follow-up ideas:** Kawhi official as Raptor July 6; Toronto roster construction; Clippers rebuild plans
+
+### STORY 4: Jaylen Brown Trade — Who Steps Up?
+- **Tier:** 2
+- **Category:** NBA Trade Rumors / Celtics
+- **Key facts:** Portland still engaged in Brown talks despite Morant trade; Celtics asking 4+ unprotected firsts; Brown 28.7 PPG/6.9 RPG/5.1 APG All-NBA 2nd Team 2025-26; NOT requested trade; 3 years/$285.4M remaining; eligible for 2yr/$141.9M extension July 26; Windhorst: "going to get traded"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Trade finalized; which team steps up with 4+ picks
+
+### STORY 5: Heat Building Around Giannis — Wiggins and Hardaway Jr. Incoming
+- **Tier:** 2
+- **Category:** NBA Free Agency / Heat
+- **Key facts:** Andrew Wiggins: 3yr/$64M to Heat; Tim Hardaway Jr.: 1yr/$6.5M to Heat; Giannis+Bam frontcourt executes July 6; Heat championship odds 18-1; Pat Riley building roster around incoming 2-time MVP
+- **Status:** NEW
+- **Follow-up ideas:** July 6 Giannis official; additional Heat signings; full roster picture
+
 ## 2026-06-29
 
 | Date | Tier | Story | Platforms | Status |
