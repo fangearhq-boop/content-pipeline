@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-06-30 |
-| Writing | Complete (all steps) | 2026-06-30 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 18 claims, 40 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-06-30 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-06-30 |
-| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-06-30 |
-| PostPlanner Export | Complete (standard 8 posts; TOBI 8 posts) | 2026-06-30 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-06-30 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-06-30 |
+| Research | Complete | 2026-07-01 |
+| Writing | Complete (all steps) | 2026-07-01 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 16 claims, 41 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-01 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-07-01 |
+| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-07-01 |
+| PostPlanner Export | Complete (standard 8 posts; TOBI 8 posts) | 2026-07-01 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-01 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-01 |
 
 ## Queue
 
@@ -24,6 +24,20 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-01 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-01.xlsx (8 posts, 12:52–20:48 ET), tfr-postplanner-tobi-2026-07-01.xlsx (8 TOBI posts)
+- **Coverage:** Serena Williams exits Wimbledon (def. by Maya Joint 6-3, 6-7(6), 6-3; first singles since 2022 US Open; Joint 20yo No. 87 snapped 11-match losing streak; Serena won S2 TB; still doubles with Venus); Ben Shelton (No. 4) upset by Finnish qualifier Virtanen 6-4, 3-6, 6-7(8), 6-2, 7-6(9) — saved MP at 9-8 in supertiebreak; first Finnish man to beat top-5 at major in Open Era; "toughest loss of my career"; Svitolina (No. 8) exits — qualifier Snigur def. 7-5, 6-2 coming back from 0-4 in S1; first R1 exit since 2018; Vekić also out; Swiatek (No. 3) def. Townsend 6-1, 2-6, 6-3 + Rybakina (No. 2) def. Boisson 6-4, 1-6, 6-3 — both survived three-set scares; Djokovic vs Tsitsipas R2 suspended for darkness — resumes Day 3; Djokovic leads H2H 12-2; Day 3 preview: Andreeva vs Krejčíková CC, Sinner vs Borges R2, FAA vs Prizmic
+- **Notes:**
+  - verify-facts.py: passed; 16 claims, 41 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 8 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 12:52–20:48 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-06-30 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

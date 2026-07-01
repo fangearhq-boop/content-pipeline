@@ -634,3 +634,47 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Tier:** 2
 - **Key Facts:** Fritz vs Draper R1; Ruud vs Hurkacz R1; Sinner/Djokovic same top half; Andreeva (5) vs Linette; RG/Wimbledon double last by Henin 2006; £64.2M prize record; Championships June 29–July 12; Sources: atptour.com, wtatennis.com, en.tennistemple.com, lta.org.uk
 - **Follow-Up Opportunities:** All Wimbledon first-round results; Andreeva's tournament run
+
+---
+
+## 2026-07-01
+
+### Story 1: Serena Williams Exits Wimbledon — Falls to Maya Joint in Round 1
+- **Date:** 2026-07-01
+- **Angle:** NEW STORY — Serena Williams' first Grand Slam singles match since 2022 US Open R3 (nearly 4 years) ends in Round 1 of Wimbledon 2026. Maya Joint (AUS, No. 87, 20yo) def. Serena Williams 6-3, 6-7(6), 6-3 on Centre Court, Day 2 (June 30). Williams won second-set tiebreak 7-6(6); Joint closed third set. Joint had been on 11-match losing streak. Williams still in doubles with Venus.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Final: 6-3, 6-7(6), 6-3; Centre Court Day 2; Serena 44yo, 7-time Wimbledon champion; Joint No. 87, 20yo; Joint's 11-match losing streak snapped; Serena still in doubles with Venus; Sources: olympics.com, today.com, espn.com, outlookindia.com
+- **Follow-Up Opportunities:** Serena doubles with Venus; Maya Joint Round 2
+
+### Story 2: Shelton (No. 4) Upset by Finnish Qualifier Virtanen in Five Sets
+- **Date:** 2026-07-01
+- **Angle:** NEW STORY — Ben Shelton (No. 4 seed, USA) upset by Finnish qualifier Otto Virtanen 6-4, 3-6, 6-7(8), 6-2, 7-6(9) in R1. Virtanen saved MP at 9-8 in final-set supertiebreak, won 10-9 when Shelton's forehand went wide. First Finnish man to beat top-5 seed at major in Open Era. Shelton: "One of the toughest losses of my career."
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Score: Virtanen def. Shelton 6-4, 3-6, 6-7(8), 6-2, 7-6(9); MP saved at 9-8; supertiebreak 10-9; first Finnish man to beat top-5 seed at major in Open Era; Shelton quote confirmed; Sources: atptour.com, cbssports.com, yahoo.com/sports, wsbtv.com
+- **Follow-Up Opportunities:** Virtanen Round 2; American men's draw status
+
+### Story 3: Svitolina (No. 8) Upset by Compatriot Snigur in Day 2 Women's Exits
+- **Date:** 2026-07-01
+- **Angle:** NEW STORY — Elina Svitolina (No. 8 seed) loses R1 to Ukrainian compatriot Daria Snigur (qualifier) 7-5, 6-2. Snigur came back from 0-4 in first set. First R1 exit for Svitolina at Wimbledon since 2018. Donna Vekić also exited Day 2. Three women's seeds out after two days.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Score: 7-5, 6-2 Snigur; Snigur came from 0-4 in Set 1; Svitolina's first R1 exit since 2018; two-time Wimbledon semi-finalist; Vekić also out; Sources: mezha.net, yahoo.com/sports, bleacherreport.com, outlookindia.com
+- **Follow-Up Opportunities:** Snigur R2; Women's draw state
+
+### Story 4: Swiatek and Rybakina Survive Three-Set Scares on Day 2
+- **Date:** 2026-07-01
+- **Angle:** NEW STORY — No. 3 Iga Swiatek def. Taylor Townsend 6-1, 2-6, 6-3; No. 2 Elena Rybakina def. Lois Boisson 6-4, 1-6, 6-3 on Day 2. Both seeds needed three sets; both lost second sets convincingly before recovering.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Swiatek: 6-1, 2-6, 6-3 vs Townsend; Rybakina: 6-4, 1-6, 6-3 vs Boisson; both dropped second sets; Sources: the42.ie, tennisuptodate.com, flashscore.com, outlookindia.com
+- **Follow-Up Opportunities:** Swiatek and Rybakina R2 opponents
+
+### Story 5: Djokovic-Tsitsipas Suspended — Day 3 Preview
+- **Date:** 2026-07-01
+- **Angle:** NEW STORY — Djokovic (No. 7) vs Tsitsipas R2 match suspended due to darkness on Day 2, resumes Day 3 (July 1). Djokovic leads H2H 12-2; Tsitsipas ranked ~87. Day 3 also features Andreeva vs Krejčíková (Centre Court), Sinner vs Borges (R2), FAA vs Prizmic.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Match suspended darkness; Djokovic leads H2H 12-2; Tsitsipas ranked ~87, two-time RG finalist; Day 3: Andreeva vs Krejčíková CC; Sinner vs Borges R2; FAA vs Prizmic; Sources: atptour.com, olympics.com, cbssports.com, prizepicks.com
+- **Follow-Up Opportunities:** Djokovic-Tsitsipas result; Andreeva-Krejčíková; Sinner-Borges
