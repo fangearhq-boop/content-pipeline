@@ -5,6 +5,62 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-02
+
+### Story 1: Cubs 23-3 Padres — Swanson 8 RBI From 9-Hole, Suzuki 100th HR, Franchise Record 8 HRs
+- **Date:** 2026-07-02
+- **Tier:** 1
+- **Classification:** NEW STORY (July 1 game result)
+- **Angle:** Swanson 3 HR (incl. grand slam), 8 RBI batting 9th = 2nd most in MLB history from 9-hole. Suzuki 100th career HR = 4th Japanese-born player to reach 100. Cubs tied franchise record 8 HR in game. Most lopsided home Cubs win since 1977.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Cubs second-half run / trade deadline implications
+  - Suzuki season HR total tracker
+
+### Story 2: All-Star Voting Closes Today Noon ET — Rosters July 6, Derby Netflix July 13
+- **Date:** 2026-07-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP (All-Star tracking July 1; voting closes today)
+- **Angle:** Phase 2 closes today. Rosters July 6 (not July 4). Clement/Ohtani locked. Derby July 13 Netflix. Schwarber (30 HRs, MLB leader, Phillies franchise record 84 games) will compete if: makes team + back settles.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Roster announcement July 6
+  - Derby participants list (Schwarber conditions)
+  - All-Star Game July 14
+
+### Story 3: deGrom Hits 100+ MPH Again — First 100+ Readings Since April 2023, Rangers Win 4-2
+- **Date:** 2026-07-02
+- **Tier:** 2
+- **Classification:** NEW STORY (July 1 start)
+- **Angle:** 100.5 mph top speed, 5 pitches at 100+, first since April 23, 2023. 7 IP/9K/2ER vs Guardians. 2026: 7-5/3.48 ERA/115 K, 4-0 in June. Rangers don't need trade deadline moves — velocity is back.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Next deGrom start velocity reading
+  - Rangers second-half playoff outlook
+
+### Story 4: Skubal Trade Market — Tigers Set Price, Dodgers/Yankees/Blue Jays/Padres Lead
+- **Date:** 2026-07-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal trade tracking since June 29; specific market reporting)
+- **Angle:** Tigers ask: elite prospect + 2-3 pieces (MLB-ready starter + power bat). Four leading teams. Skubal "it all comes to an abrupt end" quote. Deadline August 3.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade announcement (could come any day in July)
+  - Dodgers/Yankees farm system price analysis
+
+### Story 5: White Sox Lead AL Central — From 41-121 in 2024 to First Place in 2026
+- **Date:** 2026-07-02
+- **Tier:** 3
+- **Classification:** NEW STORY (AL Central standings feature)
+- **Angle:** White Sox ~41-37 lead over Guardians ~41-39. Murakami 7 HR in first 21 MLB games (most by Japanese-born player). Walk-off wins. 41-121 in 2024 to first place in 2026 = dramatic turnaround.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - AL Central standings updates (weekly)
+  - Murakami second-half stats
+  - Tigers buy/sell decision impact on AL Central
+
+---
+
 ## 2026-07-01
 
 ### Story 1: Tarik Skubal — First Win in Two Months

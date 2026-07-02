@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-02
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (30 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). 0 char violations. NOTE: Previous July 1 pipeline had All-Star rosters as July 4 — corrected to July 6 in today's content.
+- **Key Stories**: Cubs 23-3 Padres/Swanson 3HR+8RBI from 9th (2nd most MLB history)/Suzuki 100th career HR (4th Japanese-born)/franchise record 8 HR game (Tier 1 NEW), All-Star Phase 2 closes today noon ET/rosters July 6/Derby Netflix July 13/Schwarber 30 HRs MLB leader (Tier 1 FOLLOW UP), deGrom 100.5 mph July 1 (first 100+ since April 2023)/7IP/9K/2ER/Rangers 4-2/velocity back (Tier 2 NEW), Skubal trade market/elite prospect + 2-3 pieces/Dodgers+Yankees+Blue Jays+Padres/Aug 3 deadline (Tier 2 FOLLOW UP), White Sox AL Central leaders ~41-37/from 41-121 in 2024/Murakami 7HR in 21 games (most ever Japanese-born) (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-07-01
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (27 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 5 FB posts, 5 articles, 27 items), dashboard (27 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo

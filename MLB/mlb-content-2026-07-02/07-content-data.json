@@ -1,0 +1,248 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-02",
+  "compiled_at": "2026-07-02T10:29:38.191200+00:00",
+  "niche": {
+    "brand_name": "Ballpark Banter",
+    "brand_short": "BB",
+    "content_prefix": "mlb-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 23, Padres 3 — Swanson Drives In 8 From the 9-Hole, Suzuki Hits 100th Career HR",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "8:00 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Dansby Swanson hit three home runs and drove in 8 runs batting NINTH on July 1.\n\n8 RBIs from the 9-hole. Second most in MLB history from that spot.\n\nThe Cubs beat the Padres 23-3 and tied their franchise record with 8 HRs in a game.\n\n#Cubs #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 244
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Seiya Suzuki hit his 100th career MLB home run on July 1.\n\nHe is the fourth Japanese-born player in MLB history to reach that milestone — joining Shohei Ohtani, Hideki Matsui, and Ichiro Suzuki.\n\n#Cubs #MLB",
+          "posting_time": "8:00 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Cubs",
+            "#MLB"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "8:00 AM ET"
+      },
+      "article": {
+        "filename": "article-01-cubs-23-3-padres-swanson-suzuki.html",
+        "headline": "Cubs 23, Padres 3: Swanson's 8 RBI From the 9-Hole and Suzuki's 100th Homer Define a Historic Night",
+        "word_count": 657
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Cubs 23-3 Padres — Swanson/Suzuki Historic Night\n\n#### Social Image (1080x1350 — 4:5 vertical)\n- **Photo source:** imagn\n- **Search terms:** Dansby Swanson Cubs\n- **Concept:** Swanson home run celebration or batting action, bold \"23-3\" score overlay, \"8 RBI FROM THE 9-HOLE\" secondary text, Cubs blue and red colors\n- **Alt text:** Dansby Swanson Cubs home run July 1 2026\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Photo source:** imagn\n- **Search terms:** Seiya Suzuki Cubs\n- **Concept:** Suzuki celebrating home run or bat flip, \"100th CAREER HR\" text treatment, wide landscape crop\n- **Alt text:** Seiya Suzuki 100th career home run Cubs\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "All-Star Voting Closes Today — Rosters Set for July 6, Derby on Netflix July 13",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "10:30 AM ET",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "MLB All-Star Phase 2 voting closes at noon today.\n\nRosters will be announced July 6. The All-Star Game is July 14 at Citizens Bank Park.\n\nThe Home Run Derby is July 13 — on Netflix.\n\n#MLB #AllStar",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#AllStar"
+          ],
+          "char_count": 196
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Kyle Schwarber leads MLB with 30 home runs. He is the defending Home Run Derby champion.\n\nHe says he will compete in the Derby at his home park on two conditions: he makes the All-Star team and a back issue clears up.\n\nVoting closes today at noon. #Phillies #MLB",
+          "posting_time": "10:30 AM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Phillies",
+            "#MLB"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "10:30 AM ET"
+      },
+      "article": {
+        "filename": "article-02-allstar-voting-closes-derby-netflix.html",
+        "headline": "All-Star Voting Closes at Noon — Rosters July 6, Derby on Netflix July 13",
+        "word_count": 621
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "All-Star Voting / Derby / Schwarber\n\n#### Social Image (1080x1350 — 4:5 vertical)\n- **Photo source:** gemini (mode: complete)\n- **Prompt:** Bold MLB All-Star Weekend 2026 graphic. Citizens Bank Park Philadelphia stadium illustration. Text overlay: \"ALL-STAR GAME | JULY 14 | CITIZENS BANK PARK\" and \"HOME RUN DERBY | NETFLIX | JULY 13\". Red white blue color palette, stars element, modern clean design.\n- **Alt text:** MLB All-Star Weekend 2026 graphic Citizens Bank Park\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Photo source:** imagn\n- **Search terms:** Kyle Schwarber Philadelphia Phillies\n- **Concept:** Schwarber home run swing, All-Star Weekend text treatment overlay\n- **Alt text:** Kyle Schwarber Phillies All-Star article image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "deGrom Hits 100+ MPH Again — The Rangers Have a Second-Half Ace",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "12:30 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Jacob deGrom threw five pitches at 100+ mph against Cleveland on July 1.\n\nHis top speed: 100.5 mph. His first 100+ mph readings since April 23, 2023.\n\n7 innings. 9 Ks. Rangers win 4-2.\n\nThe velocity is back. #Rangers #MLB",
+          "posting_time": "12:30 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#Rangers",
+            "#MLB"
+          ],
+          "char_count": 221
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "12:30 PM ET"
+      },
+      "article": {
+        "filename": "article-03-degrom-velocity-100mph-rangers.html",
+        "headline": "The Velocity Is Back: deGrom Hits 100 MPH Again and the Rangers Have a Second-Half Weapon",
+        "word_count": 559
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "deGrom Velocity Returns\n\n#### Social Image (1080x1350 — 4:5 vertical)\n- **Photo source:** imagn\n- **Search terms:** Jacob deGrom Texas Rangers\n- **Concept:** deGrom pitching delivery, velocity radar gun graphic element overlaid, \"100.5 MPH\" bold text, Rangers red/blue colors\n- **Alt text:** Jacob deGrom Texas Rangers pitching July 2026\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Photo source:** imagn\n- **Search terms:** Jacob deGrom Texas Rangers\n- **Concept:** Wide pitching shot, \"THE VELOCITY IS BACK\" text treatment\n- **Alt text:** Jacob deGrom Rangers pitching article image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "The Skubal Trade Market Is Real — Tigers Set Their Price, Three Teams Lead",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "3:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "The Tarik Skubal trade market is taking shape.\n\nTigers' reported ask: one elite prospect plus two or three pieces — an MLB-ready pitcher and a power bat.\n\nThe Dodgers, Yankees, Blue Jays, and Padres are the front runners.\n\nAugust 3 deadline. #MLB #TradeDeadline",
+          "posting_time": "3:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#MLB",
+            "#TradeDeadline"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "3:00 PM ET"
+      },
+      "article": {
+        "filename": "article-04-skubal-trade-market-tigers-deadline.html",
+        "headline": "The Skubal Market Has a Price: Tigers Set Their Ask, Three Teams Are In",
+        "word_count": 587
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Skubal Trade Market\n\n#### Social Image (1080x1350 — 4:5 vertical)\n- **Photo source:** imagn\n- **Search terms:** Tarik Skubal Detroit Tigers\n- **Concept:** Skubal pitching, trade clock graphic element, \"AUGUST 3\" deadline text, Tigers navy/orange\n- **Alt text:** Tarik Skubal Detroit Tigers trade deadline 2026\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Photo source:** imagn\n- **Search terms:** Tarik Skubal Detroit Tigers\n- **Concept:** Wide pitching shot, \"THE SKUBAL MARKET\" editorial text treatment\n- **Alt text:** Tarik Skubal trade deadline article image\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "White Sox Hold AL Central Lead — The Division No One Saw Coming",
+      "tier": 3,
+      "status": "",
+      "angle": "",
+      "posting_window": "6:00 PM ET",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The Chicago White Sox are leading the AL Central.\n\nIn 2024, they went 41-121.\n\nIn 2026, they are approximately 41-37 and hold first place over the Guardians.\n\nMunetaka Murakami hit 7 HRs in his first 21 MLB games — more than any Japanese-born player ever had.\n\n#WhiteSox #MLB",
+          "posting_time": "6:00 PM ET",
+          "tweet_type": "",
+          "hashtags": [
+            "#WhiteSox",
+            "#MLB"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": "6:00 PM ET"
+      },
+      "article": {
+        "filename": "article-05-white-sox-al-central-lead-turnaround.html",
+        "headline": "From 41-121 to AL Central Leaders: The White Sox Turnaround Nobody Predicted",
+        "word_count": 577
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "White Sox AL Central Lead\n\n#### Social Image (1080x1350 — 4:5 vertical)\n- **Photo source:** imagn\n- **Search terms:** Munetaka Murakami Chicago White Sox\n- **Concept:** Murakami batting or home run celebration, AL Central standings graphic, \"41-121 → AL CENTRAL LEADERS\" turnaround text\n- **Alt text:** Munetaka Murakami White Sox AL Central race\n\n#### Article Hero (1200x630 — 1.91:1 landscape)\n- **Photo source:** gemini (mode: complete)\n- **Prompt:** Wide editorial graphic. White Sox logo centered. AL Central standings table graphic showing White Sox on top. Bold headline: \"FROM WORST TO FIRST — THE WHITE SOX STORY.\" Modern baseball editorial design, black/white/silver color scheme.\n- **Alt text:** White Sox AL Central leaders article graphic"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
