@@ -678,3 +678,47 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Tier:** 2
 - **Key Facts:** Match suspended darkness; Djokovic leads H2H 12-2; Tsitsipas ranked ~87, two-time RG finalist; Day 3: Andreeva vs Krejčíková CC; Sinner vs Borges R2; FAA vs Prizmic; Sources: atptour.com, olympics.com, cbssports.com, prizepicks.com
 - **Follow-Up Opportunities:** Djokovic-Tsitsipas result; Andreeva-Krejčíková; Sinner-Borges
+
+---
+
+## 2026-07-02
+
+### Story 1: Djokovic def. Tsitsipas 6-3, 6-4, 6-2 — Viral Ball Girl Prank
+- **Date:** 2026-07-02
+- **Angle:** NEW STORY (FOLLOW-UP from Day 2 suspension) — Djokovic resumed suspended R2 match vs Tsitsipas, dominated 6-3, 6-4, 6-2 in 98 minutes; 33 winners, 7 UEs, 46/52 first-serve points won; career H2H now 13-2; viral ball girl scissors prank mid-match; Djokovic quote: "I guess these kind of things surface when you're 2 sets to 0 up"
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Score: 6-3, 6-4, 6-2; duration 98 min; 33 winners; 7 UEs; H2H now 13-2; ball girl prank viral; prank between S2 and S3; Djokovic into R3 without dropping set; Sources: bleacherreport.com, outlookindia.com, tennistemple.com, tennisuptodate.com
+- **Follow-Up Opportunities:** Djokovic R3 opponent; Djokovic vs Sinner path
+
+### Story 2: Krejcikova def. No. 5 Andreeva 4-6, 7-5, 6-4 — Wimbledon Upset
+- **Date:** 2026-07-02
+- **Angle:** NEW STORY — Defending Wimbledon champion Krejcikova beats French Open champion Andreeva (No. 5 seed) in biggest women's upset of tournament so far; needed 7 match points to close out; Krejcikova 2024 Wimbledon title-holder; Andreeva won RG 2026
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Score: 4-6, 7-5, 6-4; Andreeva seeded No. 5; Krejcikova defending Wimbledon champion 2024; Andreeva French Open champion 2026; 7 match points to close; biggest women's upset so far; Sources: washingtonpost.com, bleacherreport.com, outlookindia.com, tennisuptodate.com
+- **Follow-Up Opportunities:** Krejcikova R3; Women's draw shape with Andreeva out
+
+### Story 3: Sinner def. Borges 7-6(4), 7-6(2), 6-4
+- **Date:** 2026-07-02
+- **Angle:** NEW STORY — Defending champion Sinner needed two tiebreaks to beat Nuno Borges; 47 winners; into R3; skipped all grass warm-ups; building match by match from cold start
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Score: 7-6(4), 7-6(2), 6-4; 47 winners; Sinner saved 2 of 4 break points; Sinner skipped all grass warm-ups; into R3; Sources: outlookindia.com, cbssports.com, bleacherreport.com
+- **Follow-Up Opportunities:** Sinner R3 opponent
+
+### Story 4: Women's Day 3 — Sabalenka, Gauff, Osaka All Advance
+- **Date:** 2026-07-02
+- **Angle:** NEW STORY — Sabalenka def. Kessler 6-1, 7-6(9); Gauff def. Sierra 6-3, 3-6, 7-6(7) (came back from break down in final tiebreak); Osaka def. Gasanova 6-3, 6-2; Pegula def. Sorribes Tormo 7-6, 6-1; all into R3
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** Sabalenka: 6-1, 7-6(9); Gauff: 6-3, 3-6, 7-6(7); Osaka: 6-3, 6-2; Gauff break down in final tiebreak; Osaka No. 14 seed; Sources: outlookindia.com, tennisuptodate.com, cbssports.com, wionews.com, skysports.com
+- **Follow-Up Opportunities:** Sabalenka/Gauff/Osaka R3 opponents
+
+### Story 5: Wimbledon Day 4 Preview — Swiatek vs Pliskova, Third Round
+- **Date:** 2026-07-02
+- **Angle:** NEW STORY — Day 4 (July 3) third round begins; Swiatek (No. 3) vs Pliskova marquee women's match; Djokovic and Sinner both into R3 without dropping sets; women's draw open with Andreeva/Svitolina/Zheng gone
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** Swiatek vs Pliskova R3; Day 4 = July 3; Djokovic and Sinner through without dropping sets; Andreeva/Svitolina/Zheng all eliminated; Sources: cbssports.com, bleacherreport.com, wtatennis.com
+- **Follow-Up Opportunities:** Swiatek-Pliskova result; R3 results across draw

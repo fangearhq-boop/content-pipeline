@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-01 |
-| Writing | Complete (all steps) | 2026-07-01 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 16 claims, 41 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-01 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-07-01 |
-| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-07-01 |
-| PostPlanner Export | Complete (standard 8 posts; TOBI 8 posts) | 2026-07-01 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-01 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-01 |
+| Research | Complete | 2026-07-02 |
+| Writing | Complete (all steps) | 2026-07-02 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 15 claims, 36 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-02 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-07-02 |
+| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-07-02 |
+| PostPlanner Export | Complete (standard 8 posts; TOBI 8 posts) | 2026-07-02 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-02 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-02 |
 
 ## Queue
 
@@ -24,6 +24,20 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-02 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 8 X posts + 5 FB posts (5 long-form + 5 captions) = 13 total
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-02.xlsx (8 posts, 12:49–20:45 ET), tfr-postplanner-tobi-2026-07-02.xlsx (8 TOBI posts)
+- **Coverage:** Djokovic def. Tsitsipas 6-3, 6-4, 6-2 in 98 min (match resumed from Day 2 darkness suspension; 33 winners, 7 UEs, 46/52 first-serve points; viral ball girl scissors prank mid-match; Djokovic H2H 13-2 vs Tsitsipas; into R3 without dropping set); Krejcikova def. No. 5 Andreeva 4-6, 7-5, 6-4 (defending Wimbledon champion beats French Open champion; needed 7 match points; biggest women's upset so far); Sinner def. Borges 7-6(4), 7-6(2), 6-4 (two tiebreaks, 47 winners, defending champion into R3; skipped all grass warm-ups); Women's Day 3 — Sabalenka def. Kessler 6-1, 7-6(9); Gauff def. Sierra 6-3, 3-6, 7-6(7) (came back from break down in final tiebreak); Osaka def. Gasanova 6-3, 6-2; Day 4 preview — Swiatek vs Pliskova R3 scheduled
+- **Notes:**
+  - verify-facts.py: passed; 15 claims, 36 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 8 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (8 posts) and TOBI (8 posts) generated successfully; 12:49–20:45 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
 
 ### 2026-07-01 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
