@@ -5,6 +5,56 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-02
+
+### STORY 1: Cubs 23, Padres 3 — Sweep Complete, 5-Game Win Streak
+- **Angle:** FOLLOW UP (Swanson 3 HR incl. grand slam; Conforto 2 HR; Suzuki 100th career HR; PCA 1 HR; Busch 1 HR; 8 HR total; Cubs 49-38; 5-game win streak)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT)
+- **Follow-Up Opportunities:**
+  - Next series opener (likely July 3 or 4)
+  - Win streak continuation
+
+### STORY 2: Dansby Swanson — 5 HR in 2 Days, On a Tear
+- **Angle:** FOLLOW UP (2 HR Tuesday June 30 + 3 HR Wednesday July 1 incl. grand slam; 5 HR in 2 days; power surge entering second half)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT)
+- **Follow-Up Opportunities:**
+  - Swanson continued production in next series
+
+### STORY 3: Seiya Suzuki — 100th Career Home Run
+- **Angle:** NEW STORY (Suzuki hit his 100th career MLB HR in the 23-3 blowout; all 100 as a Cub since 2022; quiet milestone for a consistent contributor)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT)
+- **Follow-Up Opportunities:**
+  - Suzuki continued production
+
+### STORY 4: All-Star Watch — PCA Reserve Path + Two Cubs in Futures Game
+- **Angle:** FOLLOW UP (Phase 2 voting closed today July 2 noon ET with PCA excluded; finished 10th Phase 1, only top 6 advanced; leads all MLB position players in WAR 4.6; reserve committee only remaining path; two Cubs prospects named to Futures Game July 12 11 AM CT)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT)
+- **Follow-Up Opportunities:**
+  - Final All-Star reserve selections announcement
+  - Two Cubs prospects Futures Game July 12
+
+### STORY 5: Trade Deadline — Alcantara Off Market, Cubs Recalibrate
+- **Angle:** FOLLOW UP (Marlins 20-6 June, Alcantara 6-0 3.35 ERA — off market; Cubs recalibrate: Logan Webb, Reid Detmers, Joe Ryan, MacKenzie Gore [rotation] and Brent Rooker [bat]; 32 days to August 3)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT)
+- **Follow-Up Opportunities:**
+  - Any Cubs trade reporting on Webb/Detmers/Ryan/Gore/Rooker
+  - Deadline countdown continues
+
+### STORY 6: Farm System — Wiggins Iowa-Bound, Sanders Dominates for Iowa
+- **Angle:** FOLLOW UP (Wiggins 3.2 scoreless IP at South Bend June 27 — next stop Iowa; Will Sanders 6 IP 1 ER Iowa 3-1 win vs Toledo July 1; farm building depth during deadline stretch)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT)
+- **Follow-Up Opportunities:**
+  - Wiggins Triple-A Iowa debut
+  - Iowa Cubs continued results
+
+---
+
 ## 2026-07-01
 
 ### STORY 1: Cubs 9, Padres 7 — Game 2 Recap (June 30)

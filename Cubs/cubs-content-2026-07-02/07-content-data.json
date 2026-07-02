@@ -1,0 +1,271 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-02",
+  "compiled_at": "2026-07-02T09:20:48.626684+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Cubs 23, Padres 3 — Sweep recap",
+      "type": "Overnight recap (Tier 1)"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "Swanson 5 HR in 2 days",
+      "type": "Bold take (Tier 2)"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Suzuki 100th career HR",
+      "type": "Milestone feature (Tier 2)"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "PCA All-Star + Futures Game",
+      "type": "Feature (Tier 2)"
+    },
+    {
+      "time": "2:30 PM",
+      "description": "Trade deadline: Alcantara off market",
+      "type": "Analysis (Tier 2)"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Farm: Wiggins + Iowa W",
+      "type": "Prospects (Tier 3)"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 23, Padres 3 — Sweep Complete, 5-Game Win Streak",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs blew out the Padres 23-3 to complete the sweep. Eight HR in the game — Swanson 3 (including a grand slam), Conforto 2, Suzuki (100th career HR), PCA, Busch. Colin Rea allowed 2 ER in 5 IP. Cubs go 49-38, win streak now 5.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs 23, Padres 3. Sweep.\n\nSwanson went yard THREE times — including a grand slam. Conforto added two more. Suzuki hit his 100th career HR. Eight home runs in a single game.\n\n49-38. Five straight wins. This team is ROLLING.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Overnight recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 247
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 16,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cubs 23, Padres 3 — Sweep Complete, 5-Game Win Streak\n**Decision:** FOLLOW UP — The Cubs-Padres series was covered from June 29 (series preview) through July 1 (Game 2 recap + Game 3 preview). This is the Game 3 result.\n**Key facts:**\n- [HIGH] Final score: Cubs 23, Padres 3 (ESPN, MLB.com, CBS Sports, Yahoo Sports all confirm)\n- [HIGH] Cubs swept the Padres 3-0 in the series\n- [HIGH] 8 HR in the game (ESPN, BN, MLB.com all confirm the total)\n- [HIGH] Swanson: 3 HR including a grand slam\n- [HIGH] Conforto: 2 HR\n- [HIGH] Suzuki: 1 HR (100th career MLB HR — separate Story 3)\n- [HIGH] PCA: 1 HR; Busch: 1 HR (completing the 8 total)\n- [MEDIUM] Colin Rea pitching line: 5 IP, 6 H, 2 ER; record now 6-5 (single-source CBS/BN)\n- [MEDIUM] Buehler line: 4 IP, 9 ER; record now 5-4 (single-source)\n- [HIGH] Cubs record after win: 49-38 (48-38 entering game + W = 49-38)\n- [MEDIUM] Cubs 14-4 in last 18 games, 6.5 R/game in that stretch (Bleacher Nation, single source)\n- [HIGH] 5-game winning streak (pipeline continuity: 4 entering July 1, won = 5)\n- DO NOT USE: \"8 HR ties a team record\" — compound historical claim, year of prior occurrence not verified; omit\n**Sources:**\n- Bleacher Nation Enhanced Box Score: Cubs 23, Padres 3 — July 1, 2026\n- ESPN Game Recap (gameId/401815988)\n- MLB.com Gameday: 07/01/2026\n- CBS Sports Box Score: SD@CHC 07/01/2026\n- Yahoo Sports: \"Padres pummeled by Cubs 23-3\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Dansby Swanson — 5 HR in 2 Days, On a Tear",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Swanson hit 2 HRs on Tuesday (Game 2) and 3 HRs on Wednesday including a grand slam. Bold take on his production surge entering the second half.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Dansby Swanson had 5 home runs in two days.\n\n2 HRs Tuesday. 3 HRs Wednesday — including a grand slam in a 23-3 blowout of the Padres.\n\nThis isn't a hot streak. It's a statement.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold take / player feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 206
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 8,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Dansby Swanson — 5 HR in 2 Days, On a Tear\n**Decision:** FOLLOW UP — Yesterday's July 1 pipeline covered Swanson's 2-HR game (Story 1). New angle: 3 more HR on July 1 = 5 HR total in the two-game span.\n**Key facts:**\n- [HIGH] Swanson hit 2 HR in Game 2 (Tuesday, June 30) per July 1 pipeline\n- [HIGH] Swanson hit 3 HR in Game 3 (Wednesday, July 1) including a grand slam per multiple sources\n- [HIGH] 5 HR total in two consecutive games\n- [MEDIUM] Calendar: Game 2 = Tuesday June 30; Game 3 = Wednesday July 1 (verified from date arithmetic: July 2 = Thursday, so July 1 = Wednesday, June 30 = Tuesday)\n**Sources:**\n- July 1 pipeline / story history: Swanson 2 HR incl. 432-ft blast (June 30 game)\n- Bleacher Nation Enhanced Box Score July 1: Swanson 3 HR including grand slam\n- ESPN Game Recap July 1",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Seiya Suzuki — 100th Career Home Run",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Suzuki reached 100 career MLB HRs during the 23-3 blowout. All 100 as a Cub. Underrated milestone for one of the team's quieter contributors.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Seiya Suzuki hit his 100th career home run yesterday.\n\nOne hundred. As a Cub. Since 2022.\n\nHe doesn't make headlines the way some guys do, but his production is real. Hit No. 100 in the middle of a 23-3 blowout and an 8-homer day.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Stat breakdown / milestone feature",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 8,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Seiya Suzuki — 100th Career Home Run\n**Decision:** NEW STORY — No prior coverage of this milestone; first time Suzuki has crossed 100 career MLB HR.\n**Key facts:**\n- [HIGH] Suzuki hit his 100th career MLB HR during July 1's 23-3 blowout (multiple sources confirm milestone)\n- [HIGH] Suzuki joined the Cubs in 2022 (signed Nov 2021, debuted MLB 2022) — all 100 HR as a Cub\n- [MEDIUM] \"All 100 HRs as a Cub\" — Suzuki had 0 MLB HR before joining Cubs (NPB career, not MLB), so this is accurate and follows logically; flagged MEDIUM pending primary source bio confirmation\n- DO NOT USE: Suzuki's exact season stats (OPS, etc.) not confirmed same-day\n**Sources:**\n- Bleacher Nation Enhanced Box Score July 1 (confirms Suzuki HR as 100th career)\n- ESPN Game Recap July 1 (Suzuki HR in lineup)\n- Baseball-Reference player page (Suzuki joined Cubs in 2022 — consistent with known signing timeline)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "All-Star Watch — PCA Reserve Path + Two Cubs in Futures Game",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Phase 2 voting closes today at noon ET and PCA isn't on the ballot (finished 10th in Phase 1, only top 6 advanced). Reserve selection is his only path. Also: two Cubs prospects named to the All-Star Futures Game (July 12, 11 AM CT).",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "All-Star Phase 2 voting closes today — PCA's not on the ballot.\n\nHe leads all MLB position players in WAR. The fan vote left him out. The reserve committee is his only path.\n\nTwo Cubs prospects ALSO made the Futures Game roster. July 12, 11 AM CT.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Feature / player news",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 267
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 10,
+        "claims_flagged": 2,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "All-Star Watch — PCA Reserve Path + Two Cubs in Futures Game\n**Decision:** FOLLOW UP — PCA All-Star coverage is a running thread from June 17 onward. New elements today: Phase 2 closes TODAY at noon ET (time-sensitive), and the Futures Game selections are new (published July 1).\n**Key facts:**\n- [HIGH] PCA finished 10th among NL outfielders in Phase 1; only top 6 advanced; PCA NOT eligible for Phase 2 (multiple sources: Bleacher Report, SI, Cubbies Crib)\n- [HIGH] Phase 2 voting window closes: Noon ET Thursday, July 2 (TODAY) — confirmed by MLB.com voting rules\n- [HIGH] Reserve selection by players/commissioner is PCA's only remaining path\n- [MEDIUM] PCA WAR 4.6 \"leads all MLB position players\" — consistent across multiple sources; flagged MEDIUM (superlative, not same-day Baseball Reference pull)\n- [HIGH] Two Cubs prospects named to All-Star Futures Game (Bleacher Nation July 1, 2026 article confirmed)\n- [HIGH] Futures Game date: Sunday, July 12, 11 AM CT (MLB.com)\n- DO NOT NAME the two prospects: specific names not confirmed in available search results; use \"two prospects\" framing\n**Sources:**\n- Bleacher Report: \"Biggest Winners, Losers of 2026 MLB All-Star Phase 1 Voting\"\n- SI: \"How Was Cubs' Pete Crow-Armstrong Snubbed Again?\"\n- MLB.com: \"Ranking 2026 All-Star Game Finalist Options\"\n- Cubbies Crib: \"The numbers don't lie — PCA criminally snubbed\"\n- Bleacher Nation: \"Two Cubs Prospects Named to All-Star Futures Game Roster\" (July 1, 2026)\n- MLB.com: \"2026 All-Star Futures Game Rosters Revealed\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Trade Deadline — Alcantara Off Market, Cubs Recalibrate",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "The Marlins went 20-6 in June, with Alcantara posting a 6-0, 3.35 ERA month — they're in playoff contention and won't sell. Cubs pivot to Logan Webb, Reid Detmers, Jose Soriano, Joe Ryan, MacKenzie Gore (arms) and Brent Rooker (bat). 32 days to August 3.",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Sandy Alcantara went 6-0, 3.35 ERA in June. The Marlins went 20-6. He's off the market.\n\nCubs recalibrate: Logan Webb. Reid Detmers. Joe Ryan. MacKenzie Gore. Brent Rooker for the lineup.\n\n32 days until August 3.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Analysis / trade deadline",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 238
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 10,
+        "claims_flagged": 7,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Trade Deadline — Alcantara Off Market, Cubs Recalibrate\n**Decision:** FOLLOW UP — July 1 pipeline covered Alcantara at 40% trade odds. New development: Marlins went 20-6 in June (effectively ending Alcantara's availability as a trade target). Cubs must recalibrate targets.\n**Key facts:**\n- [HIGH] August 3, 2026 is the official MLB trade deadline (confirmed by MLB Trade Rumors)\n- [HIGH] 32 days from July 2 to August 3\n- [MEDIUM] Marlins June record: 20-6 best in baseball (single AI summary source; directionally consistent)\n- [MEDIUM] Alcantara June: 6-0, 3.35 ERA (single source Chi City Sports; directional)\n- [MEDIUM] Alcantara \"off the market\" — stated directly in Chi City Sports headline; inferred from Marlins' playoff contention; MEDIUM pending second source\n- [HIGH] David Peterson already acquired from Mets (covered June 25 pipeline)\n- [MEDIUM] Alternative targets: Logan Webb, Reid Detmers, Jose Soriano, Joe Ryan, MacKenzie Gore, Brent Rooker — consistent across MLB Trade Rumors + Yahoo Sports + ClutchPoints (multi-source, MEDIUM; no Cubs-specific sourcing for all names)\n- DO NOT use Alcantara contract specifics ($17.3M) in tweets — not independently verified today\n**Sources:**\n- Chi City Sports: \"Cubs' top trade target has come off the board\"\n- Yahoo Sports: \"MLB insider reveals three pitchers on Cubs' bucket list\"\n- MLB Trade Rumors: \"Cubs Notes — Trade Deadline, Swanson, Wantz\"\n- Yahoo Sports/ClutchPoints: \"3 sneaky Cubs 2026 deadline targets\"",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Farm System — Wiggins Iowa-Bound, Sanders Dominates for Iowa",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Wiggins threw 3.2 scoreless at South Bend (June 27) — next stop Iowa. Will Sanders went 6 IP, 1 ER in Iowa's 3-1 win over Toledo on July 1. The farm is producing depth while the ML roster grinds through the deadline stretch.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Farm update on the off day.\n\nJaxon Wiggins threw 3.2 scoreless at South Bend on June 27 — next stop Iowa. The top pitching prospect is one step away.\n\nWill Sanders went 6 IP, 1 ER for Iowa in a 3-1 win Tuesday.\n\nThe cavalry is taking shape.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Prospect/farm update",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 260
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 10,
+        "claims_flagged": 7,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Farm System — Wiggins Iowa-Bound, Sanders Dominates for Iowa\n**Decision:** FOLLOW UP — Wiggins rehab (South Bend, June 27) covered in July 1 pipeline Story 6. Iowa result (July 1 win) is new.\n**Key facts:**\n- [HIGH] Wiggins outing June 27: 3.2 IP, 2 H, 0 BB, 4 K at South Bend (consistent: prior pipeline + today's research)\n- [MEDIUM] Wiggins \"next stop Iowa\" — expected per Cubs brass reporting and rehab progression; MEDIUM (not confirmed he's actually made Iowa start yet)\n- [MEDIUM] Iowa Cubs 3-1 win vs Toledo Mud Hens (July 1) — single source Baseball America/MiLB; MEDIUM\n- [MEDIUM] Will Sanders July 1 line: 6 IP, 2 H, 1 ER, 0 BB, 5 K — single source Bleacher Nation Prospects Report\n- [MEDIUM] System went 2-2 on July 1: Iowa W, South Bend W (shutout), Knoxville W, Myrtle Beach L — directional, BN source\n**Sources:**\n- Bleed Cubbie Blue: \"Cubs Minor League Wrap — Wiggins rehabs with South Bend\"\n- Bleacher Nation: Cubs Prospects Report July 1, 2026\n- Baseball America/MiLB.com: Iowa Cubs schedule results",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
