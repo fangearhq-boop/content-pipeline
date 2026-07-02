@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-02
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (45 claims, 0 char violations), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 7 posts OK). 0 char violations.
+- **Key Stories**: Tia Milloy Day 38/July 4 weekend 2 days away/FSU in active conversations/TN+TTU pursuing/pre-PGF Nationals July 19 window (Tier 1 FOLLOW UP), Conference Realignment July 1/Big 12 adds UCF+Houston+BYU/AAC adds 5 programs/recruiting geography reshapes (Tier 1 NEW), NiJaree Canady 3-day AUSL holdout resolved/signed Texas Volts/missed first 2 games (Tier 2 NEW), Four-Coach Rule effective July 1/D1 softball now 4 paid coaches/retention+budget gap impact (Tier 2 NEW), PGF Nationals 17 days/July 19 Great Park Irvine/September 1 contact window 60 days (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-01
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (prior session agents), brief corrected (Story 2 Doherty committed June 18 to Arkansas; Story 3 Frahm coaching+pregnancy new; brief updated), research notes, story analysis (STORY N: headers fixed to all-caps), X posts (8; 4 char violations fixed Story 1 T1 285→269, T2 284→279, Story 4 T1 294→243, Story 5 T1 315→263; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (49 claims, 0 char violations after fixes), compile (5 stories, 8 tweets, 5 FB posts, 5 articles, 28 items), dashboard (28 items), PostPlanner exports (8 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).

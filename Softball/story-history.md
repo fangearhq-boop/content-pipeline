@@ -3,6 +3,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## July 2, 2026
+
+### Story 1: Tia Milloy — Day 38 and the July 4 Clock
+- **Date:** 2026-07-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Day 37 brief July 1; ongoing portal saga since May 25)
+- **Angle:** Day 38 in the portal, July 4 weekend is two days away — the last natural pre-travel decision window before PGF Nationals (July 19) splits recruiting attention. FSU in active conversations. Tennessee and Texas Tech pursuing. Calendar urgency drives the story.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Commitment announcement (could come any day)
+  - PGF Nationals follow-up if still uncommitted July 19
+
+### Story 2: Conference Realignment July 1 — Big 12 and AAC Add Softball Programs
+- **Date:** 2026-07-02
+- **Tier:** 1
+- **Classification:** NEW STORY (realignment effective July 1, 2026)
+- **Angle:** Big 12 adds UCF (Florida recruiting), Houston (Texas recruiting), BYU. AAC adds Charlotte/FAU/North Texas/UAB/UTSA. Big 12 now has last 3 national champions plus deeper recruiting footprint. RPI and scheduling implications for 2027.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - 2027 scheduling implications (nonconference changes)
+  - UCF and Houston recruiting impact in first full Big 12 season
+
+### Story 3: NiJaree Canady Signs AUSL Deal After 3-Day Holdout
+- **Date:** 2026-07-02
+- **Tier:** 2
+- **Classification:** NEW STORY (Canady signed after 3-day holdout, missed first 2 AUSL games)
+- **Angle:** No. 2 AUSL pick Canady held out briefly, signed, is now in uniform with Texas Volts. AUSL regular season through July 20. Pro career officially begins.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Canady first AUSL start results
+  - Texas Volts postseason (begins July 23)
+
+### Story 4: The Four-Coach Era Begins — July 1 NCAA Rule Change
+- **Date:** 2026-07-02
+- **Tier:** 2
+- **Classification:** NEW STORY (NCAA rule effective July 1, 2026)
+- **Angle:** D1 softball now allows 4 paid coaches (was 3). Major programs retain coordinators. Smaller programs face budget pressure. July 1 staff announcements (Georgia Tech, Utah State) tied to this date.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Fall camp staff configurations (August)
+  - Which programs fill 4th position with notable hires
+
+### Story 5: PGF Nationals — 17 Days Out, 2028 Class on Center Stage
+- **Date:** 2026-07-02
+- **Tier:** 3
+- **Classification:** FOLLOW UP (PGF preview June 25/June 30; now 17 days out)
+- **Angle:** 17 days to July 19 at Great Park Irvine. September 1 (2028 contact window) is 60 days out. House Settlement 25-player cap makes every freshman spot contested. PGF is where 2028 class competition begins.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Nationals standout performers (late July/early August)
+  - September 1 contact window opening (September 1)
+
+---
+
 ## June 25, 2026
 
 ### Story 1: Texas Coaching Staff Complete — Fremin and Freeman Hired for 2027
