@@ -1,0 +1,310 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-02",
+  "compiled_at": "2026-07-02T11:20:34.154123+00:00",
+  "niche": {
+    "brand_name": "Hoop Heroes",
+    "brand_short": "HH",
+    "content_prefix": "nba-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Jaylen Brown Traded to 76ers for Paul George",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "JAYLEN BROWN IS HEADING TO PHILLY.\n\nCeltics get Paul George + 2 firsts + 2 seconds back.\n\nOne NBA GM: \"Highway robbery\" in Philly's favor.\n\n10 seasons. 5 All-Stars. 1 Finals MVP. It ends like this.\n\n#Celtics #76ers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Celtics",
+            "#76ers"
+          ],
+          "char_count": 214
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Brown + Maxey + Embiid in Philly.\n\nThat backcourt is going to terrorize the Eastern Conference.\n\nMeanwhile Boston gets Paul George at 36 and a couple of picks to rebuild with.\n\nWho won this trade? 👇\n\n#76ers #Celtics",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#76ers",
+            "#Celtics"
+          ],
+          "char_count": 215
+        }
+      ],
+      "facebook": {
+        "long_form": "The Boston Celtics have agreed to trade Jaylen Brown to the Philadelphia 76ers, and the NBA world is still processing it.\n\nIn return, Boston receives Paul George, a 2028 first-round pick, a 2031 first-round pick via Philadelphia, a 2028 second-round pick, and a 2030 second-round pick. The deal executes July 6 when the moratorium lifts. One anonymous NBA general manager didn't mince words — Bleacher Report reported the exec called it \"highway robbery\" in favor of Philadelphia.\n\nBrown spent his entire 10-year NBA career in Boston. He made five All-Star teams, won an NBA championship, and earned the Finals MVP trophy. At 29 years old, he was the kind of player other franchises spend a decade dreaming about adding. The 76ers got him for a package that most expected would cost considerably more.\n\nFor Philadelphia, the pitch to Tyrese Maxey and Joel Embiid just became a lot easier to deliver. That Brown-Maxey backcourt will make life miserable for every team in the Eastern Conference. Add VJ Edgecombe's athleticism and Embiid operating in the post, and the Sixers have constructed a legitimate title contender overnight.\n\nFor Boston, this is the end of a championship run. The Celtics missed out on Giannis Antetokounmpo — who chose Miami — and now their second-best player is heading to Philadelphia. Paul George provides veteran scoring and leadership, while the picks give Boston assets for a future rebuild.\n\nThe Celtic dynasty era is closed. A new Philadelphia era may be beginning.",
+        "image_caption": "Jaylen Brown is heading to Philadelphia. The Celtics got Paul George and picks in return. One NBA GM already called it \"highway robbery.\" The Eastern Conference just got a lot more complicated. 🏀",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-jaylen-brown-traded-76ers-paul-george.html",
+        "headline": "Jaylen Brown Traded to 76ers for Paul George in Stunning Celtics Reset",
+        "word_count": 590
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Jaylen Brown Traded to 76ers for Paul George\n**Key Facts:**\n- Celtics agreed to trade Jaylen Brown to Philadelphia 76ers\n- Package: Paul George + 2028 first-round pick + 2031 first-round pick (via PHI) + 2028 second-round pick (best of GSW/OKC/MIL) + 2030 second-round pick (best of WAS/POR/PHX) going TO Boston\n- Brown had been with Boston for 10 seasons; made 5 All-Star teams; won a Finals MVP\n- Brown joins Tyrese Maxey, VJ Edgecombe, and Joel Embiid in Philly\n- Bleacher Report: anonymous NBA GM called it \"highway robbery\" in Philly's favor\n- Trade reported July 1, executes July 6\n- Context: Celtics missed out on Giannis Antetokounmpo (went to Miami)\n- Portland was previously linked to Brown but pivoted to Ja Morant trade",
+        "sources": "- Sources: ESPN, NBA.com, Bleacher Report, The Ringer\n**Confidence Tags:**\n- Brown to 76ers trade package (HIGH — ESPN + NBA.com)\n- \"Highway robbery\" GM quote (MEDIUM — Bleacher Report, source anonymous)\n- Trade executes July 6 (HIGH — standard moratorium)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "LeBron James — Day 3 Free Agency, Warriors' AD Plan Collapses",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "LeBron update this morning:\n\nWarriors' dream of pairing him with Anthony Davis is DEAD.\n\nWizards won't trade AD to Golden State. Warriors can't make it work.\n\nLeBron still uncommitted. 4 days until July 6.\n\nWarriors still -500 favorites. 👀\n\n#NBA #NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 260
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Real talk: if the Warriors can't get Anthony Davis, does LeBron even want to go there?\n\nHe left LA for a super team. If he ends up on MLE money with Steph and Porzingis — is that really the move?\n\n4 days to find out.\n\n#NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBAFreeAgency"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "Day 3 of NBA free agency, and the LeBron James saga took a significant twist.\n\nThe Golden State Warriors entered this offseason with a clearly defined plan: sign LeBron on the Non-Taxpayer Mid-Level Exception and swing a trade for Anthony Davis to create an instant super team around Steph Curry. That plan is now officially dead. The Washington Wizards have told Golden State they will not trade Davis, and the Warriors cannot offer enough to change that position.\n\nSo the question becomes: does LeBron still want to go to Golden State without Anthony Davis?\n\nThe Warriors remain the -500 betting favorites at DraftKings to land LeBron, and they do have approximately $15.1 million in MLE money available. The pitch includes Steph Curry, Kristaps Porzingis, and a franchise eager to compete one more time. It's a compelling argument — but it's a different argument than what Golden State originally envisioned.\n\nThe Cavaliers (+300) make the most emotional sense. Cleveland is where LeBron won the franchise's only championship in 2016. The Heat (+1,000) are in play, though their Giannis acquisition complicates the roster math. The Spurs (+2,000) have Victor Wembanyama — the most exciting young player in the league — and represent a legacy-defining longshot.\n\nAt 41 years old, LeBron James is playing his most important free agency hand. Four days remain until July 6.",
+        "image_caption": "The Warriors' dream of pairing LeBron with Anthony Davis is officially off the table. The King still hasn't committed anywhere, and 4 days remain until July 6 changes everything. 🏀",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-lebron-james-day3-warriors-plan-collapses.html",
+        "headline": "LeBron James Free Agency Day 3: Warriors' Anthony Davis Plan Falls Apart",
+        "word_count": 611
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "LeBron James — Day 3 Free Agency\n**Key Facts:**\n- LeBron James (age 41) informed Lakers he will not return for 2026-27\n- No deal signed yet — contracts cannot execute until July 6 moratorium lifts\n- Warriors are -500 betting favorites (DraftKings); Cavs +300; Heat +1000; Spurs +2000\n- Warriors' plan to pair LeBron with Anthony Davis has collapsed: Washington Wizards will NOT trade Davis to Golden State; Warriors won't offer Jimmy Butler in return\n- Warriors have the non-taxpayer Mid-Level Exception (~$15.1M) held in reserve for LeBron\n- Warriors signed Kristaps Porzingis; holding cap space\n- No official commitment from LeBron yet as of July 2\n- Lakers swept 4-0 by OKC in 2026 playoffs",
+        "sources": "- Sources: ESPN, CBS Sports, NBC Sports Bay Area, Eastern Herald\n**Confidence Tags:**\n- LeBron leaving Lakers (HIGH — ESPN)\n- Warriors -500 favorites (HIGH — DraftKings odds)\n- AD-to-Warriors collapses (MEDIUM — reported, Wizards stance)\n- No deal signed yet (HIGH — moratorium doesn't lift until July 6)"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Walker Kessler Traded to Lakers — Post-LeBron Rebuild Begins",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The LeBron era is over. The Walker Kessler era has begun.\n\nLakers trade for the Jazz big man: 4yr/$130M deal.\n\nNo star. Just a 25-year-old rim protector who blocks everything in sight.\n\nThe rebuild is real. 🟣🟡\n\n#Lakers",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Lakers"
+          ],
+          "char_count": 218
+        }
+      ],
+      "facebook": {
+        "long_form": "The Los Angeles Lakers didn't wait long to signal their direction after LeBron James announced he would play elsewhere in 2026-27.\n\nLos Angeles has agreed to acquire center Walker Kessler from the Utah Jazz in exchange for two unprotected future first-round picks and two first-round swap rights. Kessler will sign a four-year, $130 million contract — making him the centerpiece of the franchise's rebuild.\n\nKessler is 25 years old and one of the best rim protectors in the NBA. He is a defensive anchor, a reliable lob target, and the kind of foundational big man that championship-caliber teams are built around over time. He does not put the ball on the floor and create. He does not have a pull-up jumper or a post repertoire. But he blocks shots, guards the paint, and makes every offensive possession easier for teammates who can create.\n\nAt his age, on a four-year deal, Kessler gives Los Angeles a legitimate building block through 2030. This is not a win-now move. This is not a desperate attempt to replace LeBron with a star of equivalent magnitude. It is the beginning of a patient, deliberate rebuild from a franchise that has been living in the LeBron era for eight years and is choosing to grow through a new one.\n\nUtah gets two unprotected firsts and two swap rights — meaningful assets for their own rebuild that has been quietly assembling draft capital for the better part of three years.\n\nThe Laker we knew is gone. The next chapter has officially begun.",
+        "image_caption": "Walker Kessler is headed to Los Angeles on a 4yr/$130M deal. The post-LeBron Lakers have their first foundational piece — and their rebuild has officially begun. 🟣🟡",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-walker-kessler-lakers-rebuild.html",
+        "headline": "Walker Kessler Traded to Lakers: The Post-LeBron Rebuild Has Officially Begun",
+        "word_count": 551
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Walker Kessler Traded to Lakers\n**Key Facts:**\n- Utah Jazz trading center Walker Kessler to Los Angeles Lakers\n- Return to Utah: unprotected 2031 and 2033 first-round picks + 2028 and 2030 first-round swap rights\n- Kessler signs 4-year, $130M deal\n- Lakers pivot to building around Kessler after LeBron's departure\n- Trade represents Los Angeles entering a rebuild phase",
+        "sources": "- Sources: Bleacher Report tracker, Yahoo Sports\n**Confidence Tags:**\n- Kessler to Lakers trade (MEDIUM — reported, not yet officially confirmed via primary sources)\n- Contract value 4yr/$130M (MEDIUM — reported)"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "KAT Extension Watch — Knicks Champions Need Their Star to Stay",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Brunson took $113M less → Won the NBA Finals MVP.\n\nNow the Knicks need Karl-Anthony Towns to do the same.\n\nDolan won't go second apron. Haircut ask: $7-10M per year.\n\nKAT said he's \"ready to sacrifice.\"\n\nTime to prove it. 👑\n\n#Knicks",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Knicks"
+          ],
+          "char_count": 232
+        }
+      ],
+      "facebook": {
+        "long_form": "The New York Knicks are the NBA champions. That fact is real. What happens next determines whether it becomes a dynasty.\n\nKarl-Anthony Towns is the key figure in the most consequential negotiation of the Knicks' offseason. He is owed $57 million in 2026-27 and holds a $61 million player option for the following year. He is eligible for a four-year, $272 million extension — but only if the terms can be structured below the second apron threshold that owner James Dolan has publicly declared off-limits.\n\nThe ask from the Knicks: a haircut of roughly $7 to $10 million per year below his maximum value.\n\nThat sounds painful in the abstract. In practice, it follows the exact blueprint that made the championship possible. Jalen Brunson famously left approximately $113 million on the table compared to his market value. He won the NBA Finals MVP and became the most beloved Knick in a generation. KAT publicly said he is \"ready to make a financial sacrifice\" earlier in the offseason. Now that statement is being put to the test.\n\nJosh Hart is in a parallel negotiation. The relentless wing who powered so much of New York's success is also extension-eligible and expected to accept below-market terms. If both KAT and Hart follow Brunson's lead, the Knicks can run back the championship roster intact.\n\nNothing has been signed. Negotiations have their own timeline, and the gap between KAT's maximum and Dolan's ceiling is real. But both sides appear motivated to find a solution.\n\nThe next few weeks will tell us whether the 2026 Knicks are a one-year wonder or the beginning of something the Garden hasn't seen since the 1970s.",
+        "image_caption": "KAT said he's \"ready to make a financial sacrifice.\" The Knicks are calling that promise. Extension talks continue as New York tries to keep its championship core intact. 🏀🗽",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-kat-extension-knicks-championship-crossroads.html",
+        "headline": "KAT Extension Watch: Can the Knicks Keep Their Championship Core Together?",
+        "word_count": 629
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "KAT Extension Watch\n**Key Facts:**\n- Karl-Anthony Towns' situation: he currently earns $57M in 2026-27; holds $61M player option for 2027-28\n- Eligible for 4-year, $272M extension (if he declines option) OR 3-year, $208M (if exercises option)\n- Knicks owner James Dolan: team will NOT operate in second apron 2026-27\n- Knicks asking Towns for $7-10M annual haircut on extension\n- Josh Hart also extension-eligible; also expected to take a discount\n- Jalen Brunson precedent: took ~$113M less; won Finals MVP\n- KAT previously said \"ready to make financial sacrifice\"\n- Knicks won 2026 NBA championship; KAT has leverage\n- No deal signed yet",
+        "sources": "- Sources: Daily Knicks, Heavy.com, Bleacher Report\n**Confidence Tags:**\n- Dolan no second apron (HIGH — confirmed prior reporting)\n- $7-10M haircut ask (HIGH — confirmed prior reporting)\n- KAT \"ready to make financial sacrifice\" quote (HIGH — prior reporting)"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "July 6 Countdown — Kawhi and Giannis Trades Set to Execute",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "4 days until the NBA offseason becomes OFFICIAL:\n\n🏀 Giannis officially a Miami Heat\n🏀 Kawhi officially a Toronto Raptor\n🏀 Ja Morant officially a Trail Blazer\n🏀 LeBron James officially… somewhere\n\nJuly 6 can't come fast enough. 🔥\n\n#NBA #NBAFreeAgency",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#NBA",
+            "#NBAFreeAgency"
+          ],
+          "char_count": 249
+        }
+      ],
+      "facebook": {
+        "long_form": "Four days. That is all that separates the current NBA landscape from a version of the league that looks completely different.\n\nThe moratorium lifts July 6 at 12:01 PM ET. When it does, a remarkable series of transactions becomes official — and the NBA that fans follow next season will bear very little resemblance to what came before.\n\nIn Miami, Giannis Antetokounmpo officially joins Bam Adebayo and the Heat. The Milwaukee Bucks are sending their two-time MVP along with Bobby Portis to Miami in exchange for Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, the 2026 No. 13 overall pick, two unprotected future first-round picks, a pick swap, and a second-round pick. Miami's championship odds shifted from 30-1 to 18-1 following the deal. The Heat also agreed to a three-year, $64 million deal with Andrew Wiggins and a one-year deal with Tim Hardaway Jr., filling out the roster around a potentially historic defensive frontcourt.\n\nIn Toronto, Kawhi Leonard returns home. The Raptors are trading Brandon Ingram, Gradey Dick, two unprotected first-round picks, two second-round picks, and a first-round swap to acquire the man who gave Toronto its only NBA championship in 2019. HITC noted Toronto gave up more in this deal than they did in the original 2018 trade — a reflection of both the market and how badly the Raptors want their hero back.\n\nBeyond those headliners: Ja Morant officially arrives in Portland. Norman Powell heads to Chicago on two years and $45 million. James Harden declined his Cavs option and is working on a new multi-year deal to stay in Cleveland. Mike Conley Jr. will begin his 20th NBA season in Boston.\n\nJuly 6 is not just a date. It's the moment this offseason becomes permanent.",
+        "image_caption": "4 days until July 6 changes the NBA forever. Giannis in Miami. Kawhi back in Toronto. Ja in Portland. And LeBron's next chapter finally begins. 🏀🔥",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-july-6-countdown-kawhi-giannis-trades.html",
+        "headline": "July 6 Countdown: Giannis, Kawhi and the Trades That Will Change the NBA Forever",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "July 6 Countdown — Kawhi and Giannis\n**Kawhi Leonard — Raptors Trade:**\n- Clippers trading Kawhi Leonard (age 34) to Toronto Raptors\n- Raptors sending: Brandon Ingram + Gradey Dick + 2031 and 2033 unprotected firsts + 2030 and 2033 second-round picks + 2027 first-round swap\n- Deal executes July 6; Toronto plans 2-year extension\n- Kawhi won 2019 championship + Finals MVP with Toronto; called a homecoming\n- HITC noted Raptors gave up MORE in 2026 than they did in the 2018 original trade",
+        "sources": "- Sources: NBA.com, Yahoo Sports, Hoops Rumors, HITC\n**Giannis Trade to Miami Heat:**\n- Bucks trading Giannis Antetokounmpo + Bobby Portis to Miami Heat\n- Miami sending: Tyler Herro + Kel'el Ware + Jaime Jaquez Jr. + Kasparas Jakucionis + 2026 No. 13 pick + unprotected 2031 and 2033 first-round picks + 2030 pick swap + 2033 second-round pick\n- Executes July 6; 4 days to go\n- Miami odds improved from 30-1 to 18-1 after deal\n- Giannis + Bam Adebayo frontcourt; Jimmy Wiggins 3yr/$64M + Hardaway Jr. 1yr/$6.5M also joining\n- Sources: ESPN, NBA.com, The Ringer\n**Other moves:**\n- Norman Powell: 2yr/$45M — Chicago Bulls (agreed)\n- Tobias Harris: 2yr/$31M — San Antonio Spurs\n- Kelly Oubre Jr.: 2yr/~$17M — Indiana Pacers\n- James Harden: declined $42.3M Cavs option; negotiating new Cavs deal\n- Mike Conley Jr.: 1-yr — Boston Celtics (20th NBA season)\n**Confidence Tags:**\n- Kawhi-Raptors trade package (HIGH — NBA.com confirmed)\n- Giannis-Heat trade package (HIGH — ESPN, NBA.com confirmed)\n- Odds change (MEDIUM — reported from sportsbooks)\n- Free agent signings (MEDIUM — agreements not official until July 6)"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

@@ -3714,3 +3714,48 @@
 - **Key facts:** Trade agreed June 22; executes July 6 12:01PM ET; Giannis+Portis for Herro+Ware+Jaquez+Jakucionis+3 firsts (incl No.13)+swap+2nd; Heat odds 18-1 (5th/6th best); Giannis+Bam frontcourt; Celtics offered Brown+2 picks and lost; Giannis extension eligible Oct 1 or Jan 6 2027
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** July 6 trade execution; Giannis Miami press conference; extension timeline
+
+## 2026-07-02
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-02 | T1 | Jaylen Brown Traded to 76ers for Paul George | X, FB, Article | NEW |
+| 2026-07-02 | T1 | LeBron James Day 3 — Warriors Anthony Davis Plan Collapses | X, FB, Article | FOLLOW UP |
+| 2026-07-02 | T2 | Walker Kessler Traded to Lakers — Post-LeBron Rebuild Begins | X, FB, Article | NEW |
+| 2026-07-02 | T2 | KAT Extension Watch — Knicks Champions Need Their Star | X, FB, Article | FOLLOW UP |
+| 2026-07-02 | T2 | July 6 Countdown — Kawhi and Giannis Trades Set to Execute | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Jaylen Brown Traded to 76ers for Paul George
+- **Tier:** 1
+- **Category:** NBA Trade / Celtics / 76ers
+- **Key facts:** Celtics send Jaylen Brown to Philadelphia 76ers; return: Paul George + 2028 first (PHI) + 2031 first (PHI) + 2028 second (best GSW/OKC/MIL) + 2030 second (best WAS/POR/PHX); anonymous GM: "highway robbery" in Philly's favor; Brown 29yo, 10 seasons Boston, 5 All-Stars, 1 Finals MVP; joins Maxey/Embiid/Edgecombe; deal executes July 6; Celtics missed Giannis sweepstakes
+- **Status:** NEW
+- **Follow-up ideas:** Brown extension with Philly; Celtics rebuild plan; Sixers title odds
+
+### STORY 2: LeBron James Day 3 — Warriors AD Plan Collapses
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Warriors' plan to pair LeBron with Anthony Davis dead — Wizards will not trade AD to GSW; LeBron still uncommitted; Warriors -500 favorites DraftKings; Cavs +300; Heat +1000; Spurs +2000; Warriors have MLE ~$15.1M; no deal until July 6 moratorium; LeBron 41yo; Porzingis signed to Warriors
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs with Warriors/Cavs/other July 6; Warriors pivot plan
+
+### STORY 3: Walker Kessler Traded to Lakers — Post-LeBron Rebuild Begins
+- **Tier:** 2
+- **Category:** NBA Trade / Lakers / Jazz
+- **Key facts:** Utah Jazz trading Walker Kessler to Los Angeles Lakers; return to Utah: 2 unprotected future firsts + 2028/2030 first-round swap rights; Kessler 25yo, signs 4yr/$130M; rim protector/defensive anchor; Lakers pivot to rebuilding after LeBron departure
+- **Status:** NEW
+- **Follow-up ideas:** Lakers roster construction around Kessler; Jazz draft capital deployment
+
+### STORY 4: KAT Extension Watch — Knicks Champions Need Their Star
+- **Tier:** 2
+- **Category:** NBA Offseason / Knicks
+- **Key facts:** KAT owes $57M 2026-27, $61M option 2027-28; eligible 4yr/$272M extension (decline option) or 3yr/$208M (exercise); Dolan no second apron; $7-10M haircut ask; Josh Hart also extension-eligible/similar ask; Brunson took ~$113M less/Finals MVP; KAT "ready to sacrifice" quote; no deal signed
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** KAT signs extension; Hart deal; or Knicks lose star
+
+### STORY 5: July 6 Countdown — Kawhi and Giannis Trades Set to Execute
+- **Tier:** 2
+- **Category:** NBA Offseason / Trades
+- **Key facts:** Giannis+Portis → Heat (Herro+Ware+Jaquez+Jakucionis+No.13+2031/2033 firsts+2030 swap+2033 2nd); executes July 6; Kawhi → Toronto (Raptors send Ingram+Dick+2031/2033 firsts+2030/2033 2nds+2027 swap); Norman Powell 2yr/$45M Bulls; Tobias Harris 2yr/$31M Spurs; Kelly Oubre 2yr/$17M Pacers; Harden declined $42.3M Cavs option/negotiating new deal; Mike Conley 1yr Celtics
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** July 6 official execution; Giannis/Kawhi press conferences; LeBron signs
