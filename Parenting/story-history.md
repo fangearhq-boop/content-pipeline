@@ -4209,3 +4209,47 @@
 | 2026-06-08 | Summer slide prevention — 25–30% of school learning lost over summer; math hardest hit; younger children more vulnerable; tips: 20 min reading daily, math in everyday activities, 20–30 min structured review 3–4x/week; COS resources: PPYMCA, PPLD (free through July 31), Rock Ledge Ranch (last week) | T1 | X, FB, Article | NEW STORY; scholastic.com, mayoclinichealthsystem.org, scientificamerican.com |
 | 2026-06-08 | Rock Ledge Ranch last week — June 3–14, 10am–5pm, Garden of the Gods; blacksmith, cornhusk dolls, Victorian games, pioneer homestead, Rock Ledge House (1870s); closes this Saturday June 14 for the season | T2 | X, FB, Article | NEW STORY; visitcos.com, coloradosprings.gov |
 | 2026-06-08 | D49 budget vote June 11 reminder — Board of Education meeting at Sand Creek High School; FY 2026–27 budget vote; Student Success Center (August 2026 opening): preschool Mon–Thu, Base49, PEAK, Elevates 18–21; public meeting; d49.org | T2 | X, FB, Article | FOLLOW-UP (June 1 first coverage; vote now 3 days away); d49.org |
+
+---
+
+## 2026-07-02
+
+### Story 1: All COS July 4 Fireworks Cancelled — What Families Need to Know
+- **Date:** 2026-07-02
+- **Angle:** NEW STORY — All professional, permitted July 4 fireworks displays in COS cancelled by Mayor Mobolade + CSFD + CSPD on July 1 due to critical fire danger. Fuel moisture levels comparable to pre-Waldo Canyon Fire (2012). Consumer fireworks permanently banned in COS city limits every year. El Paso County did NOT ban personal fireworks (state law prevents county ban May 31–July 5 without Board resolution). Stage II fire restrictions in place countywide. All other July 4 festivities continue.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Cancellation announced July 1, 2026; joint decision by Mayor Mobolade + CSFD + CSPD; fuel moisture levels = pre-Waldo Canyon Fire conditions; consumer fireworks permanently banned COS city limits every year; El Paso County no ban (state law restriction); Stage II fire restrictions since June 29; all non-fireworks festivities continue; Sources: coloradosprings.gov, krdo.com, cpr.org, gazette.com, fox21news.com, kktv.com
+- **Follow-Up Opportunities:** Post-July 4 fire safety summary; fire restriction updates
+
+### Story 2: Cosyland Children's Tower Stools Recalled — 125,200 Units
+- **Date:** 2026-07-02
+- **Angle:** NEW STORY (recall announced May 14, 2026; not previously covered in COS Parenting pipeline) — 125,200 Cosyland tower stools (CS0003, CS0092-4) recalled due to entrapment and fall hazards. Bamboo/gray, ~16"x18"x35", ~$70, sold Amazon April 2021–November 2025. 25 incidents, 8 injuries (fractured arm). Free repair kit via 866-677-3889.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** 125,200 units; models CS0003, CS0092-4; bamboo and gray; $70; Amazon April 2021–November 2025; 25 incidents, 8 injuries; hazard: torso fits through openings + tip-over/collapse; free repair kit; 866-677-3889 Mon–Fri 9am–5pm PT; cpsc.gov/Recalls; Sources: cpsc.gov, nbcconnecticut.com, kiro7.com, wsbtv.com
+- **Follow-Up Opportunities:** CPSC recall watch
+
+### Story 3: D11 Free Summer Lunch Program — 29 Days Left
+- **Date:** 2026-07-02
+- **Angle:** FOLLOW-UP — D11 Summer Food Service Program runs through July 31; 29 days remaining as of July 2. Ages 1–18, free, all districts, Mon–Fri multiple COS locations. East Library mobile unit 11am–noon + books. PPLD partnership. All sites closed July 4. Call 719-520-2930.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** May 27–July 31, 2026; ages 1–18; free; all districts; East Library mobile unit 11am–noon weekdays; lunch + books; PPLD also serves lunches at branch locations; closed July 4; 719-520-2930; Sources: kktv.com, fox21news.com, d11.org, ppld.org/summer-lunches
+- **Follow-Up Opportunities:** Program end July 31; final week reminder
+
+### Story 4: July 4 Alternatives for COS Families
+- **Date:** 2026-07-02
+- **Angle:** NEW STORY — Fireworks-free July 4 alternatives with full details: Rock Ledge Ranch ($7–$13, 10am–4pm), Banning Lewis Ranch (free, Vista Park Pavilion 8833 Vista Del Pico Blvd, 3pm+), WWII Aviation Museum (10am–5pm), Star-Spangled Symphony at Ford Amphitheater (gates 5:30pm, show 6:30pm, from $18)
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** Rock Ledge Ranch $7–$13 (3&under free) 10am–4pm; Banning Lewis Ranch free 3pm+ Vista Park Pavilion 8833 Vista Del Pico Blvd; Star-Spangled Symphony Ford Amphitheater gates 5:30pm show 6:30pm from $18; WWII Aviation Museum 10am–5pm; all non-fireworks events continuing; Sources: rockymountainfoodtours.com, visitcos.com, coloradospringssports.org, pikes-peak.com
+- **Follow-Up Opportunities:** Post-July 4 event recaps
+
+### Story 5: America 250 and Colorado 150 in COS
+- **Date:** 2026-07-02
+- **Angle:** NEW STORY — America's 250th birthday + Colorado's 150th anniversary in 2026. City of Colorado Springs "Celebrate America 250 and Colorado 150" programming all summer. Context piece; evergreen-adjacent.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 3
+- **Key Facts:** America turns 250 in 2026; Colorado turns 150 in 2026; COS city program: coloradosprings.gov/America250Colorado150; Sources: coloradosprings.gov, visitcos.com
+- **Follow-Up Opportunities:** Specific America 250 events through summer

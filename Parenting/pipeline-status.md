@@ -1,6 +1,42 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 1, 2026
+## Latest Run: July 2, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | July 4 fireworks cancellation (coloradosprings.gov/krdo.com/cpr.org/gazette.com/fox21news.com — all professional shows cancelled July 1; Mayor Mobolade + CSFD + CSPD joint decision; fuel moisture levels = pre-Waldo Canyon Fire 2012 conditions; Stage II restrictions since June 29; consumer fireworks permanently banned COS city limits every year; El Paso County no ban due to state law restriction May 31–July 5; kktv.com July 2: county takes no action; all non-fireworks events continue); Cosyland tower stools recall (cpsc.gov/nbcconnecticut.com/kiro7.com — 125,200 units; CS0003+CS0092-4; bamboo/gray; $70; Amazon April 2021–November 2025; 25 incidents, 8 injuries including fractured arm; 866-677-3889 Mon–Fri 9am–5pm PT; free repair kit); D11 free summer lunch program (kktv.com/fox21news.com/d11.org — May 27–July 31; ages 1–18; all districts; East Library mobile unit 11am–noon + books; PPLD partnership; closed July 4; 719-520-2930); July 4 alternatives still happening (visitcos.com/rockymountainfoodtours.com/coloradospringssports.org — Rock Ledge Ranch $7–$13 10am–4pm; Banning Lewis Ranch free 3pm+ Vista Park Pavilion 8833 Vista Del Pico Blvd; Star-Spangled Symphony Ford gates 5:30pm show 6:30pm from $18; WWII Aviation 10am–5pm); America 250/Colorado 150 (coloradosprings.gov/America250Colorado150) |
+| Story History Check | COMPLETE | 4 NEW STORIES (July 4 fireworks cancellation, Cosyland tower stools recall, July 4 alternatives, America 250 in COS) + 1 FOLLOW-UP (D11 free summer lunch — 29 days remaining angle; program running since May 27); confirmed against story-history.md; Cosyland recall not previously covered; fireworks cancellation distinct from Stage II coverage July 1 |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 for S1, 2 for S2, 1 each for S3–S5); all under 280 chars; max 2 emoji per post; 4 hashtags each; COS voice rules; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; 2–4 emoji per post; COS voice rules; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only prompts (2 per Tier 1 story, 1 per Tier 2/3 story; 1200x675 social); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — table format; 7 images across 5 stories; all not_started; photo_source: gemini; model: gemini-2.5-flash-image |
+| Articles | COMPLETE | 5 articles (500–850 words; Quick Reference tables in S2, S3, S4; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 72 claims; HIGH: 184, MEDIUM: 35, LOW: 66; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-02.xlsx (7 posts, 12:57–20:39 MT) + TOBI cosp-postplanner-tobi-2026-07-02.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-02)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 X posts)
+- **Articles:** 5 (bylines: Sarah Morales x3 [S1, S3, S5], Jamie Rivera x2 [S2, S4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-02.xlsx (7 posts, 12:57–20:39 MT), cosp-postplanner-tobi-2026-07-02.xlsx (7 TOBI posts)
+- **Coverage:** July 4 fireworks cancellation (all professional shows cancelled July 1; Mayor Mobolade + CSFD + CSPD joint decision; fuel moisture levels = pre-Waldo Canyon Fire 2012; Stage II restrictions; consumer fireworks permanently banned COS city limits; El Paso County no ban due to state law; kktv.com confirmed county took no action July 2); Cosyland tower stools recall (125,200 units CS0003+CS0092-4; Amazon $70 April 2021–November 2025; 25 incidents 8 injuries incl. fractured arm; 866-677-3889 free repair kit); D11 free summer lunch program 29 days left (May 27–July 31, ages 1–18, all districts, East Library mobile unit 11am–noon + books, PPLD partnership, closed July 4, 719-520-2930); July 4 alternatives still happening (Rock Ledge Ranch $7–$13 10am–4pm; Banning Lewis Ranch free 3pm+ Vista Park Pavilion 8833 Vista Del Pico Blvd; Star-Spangled Symphony Ford gates 5:30pm show 6:30pm from $18; WWII Aviation 10am–5pm); America 250/Colorado 150 context piece
+- **Notes:**
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from July 1's Jamie Rivera [S1, S3, S5])
+  - verify-facts.py: all 5 stories present; image manifest warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - compile: 7 X posts, 0 FB posts (parser compatibility — same as all prior runs); 22 dashboard items; posting window warnings cosmetic
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+
+---
+## Prior Run: July 1, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
