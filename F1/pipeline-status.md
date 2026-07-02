@@ -1,51 +1,29 @@
-# F1 Fanrecap — Pipeline Status
+# F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-01
+- **Date**: 2026-07-02
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-02
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-02.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-02.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-02/review-dashboard.html (27 items)
+- **Notes:** British GP race week preview — Hamilton Ferrari homecoming at Silverstone (9 wins/7 poles/targeting 10th/Macarena wing upgrade/first British GP in red/Wolff "surprised" by Ferrari upgrade rate); Verstappen exit clause 24 days/McLaren talks denied by Vermeulen to Bild/"impossible to block"/Red Bull 8-figure buyout offer; Cadillac stars-and-stripes livery July 4 America's 250th at F1's 1950 birthplace/0 points 8 races; Antonelli 171-Russell 131 (-40)/33 pts available Sprint weekend; Silverstone battery crisis (MGU-H removed/no braking Luffield-to-Stowe 35 seconds/Hangar Straight power derate/both Hamilton+Verstappen warned)
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-01
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
 - **Stories:** 5 total (2 Tier 1, 3 Tier 2)
 - **X Posts:** 7 written, all under 280 characters
 - **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
 - **PostPlanner exports:** f1fr-postplanner-2026-07-01.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-01.xlsx (7 TOBI posts)
 - **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-01/review-dashboard.html (27 items)
-- **Notes:** British GP Silverstone July 3-5 sprint weekend/Hamilton first Ferrari Silverstone race targeting exclusive 10th win/yellow suit hint/Ferrari Macarena wing+diffuser upgrades; Verstappen exit clause 25 days away (July 26 Hungarian GP)/P7 73pts/113pts behind Antonelli/"not born for midfield"/Red Bull 8-figure buyout; championship Antonelli 171-Russell 131 (-40)-Hamilton 125 (-46)/33 pts available sprint weekend; 2027 market: 17 of 20 seats unconfirmed/both Mercedes open/Audi pursues Sainz
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
-
-### 2026-06-30
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway)
-- **PostPlanner exports:** f1fr-postplanner-2026-06-30.xlsx (7 posts) + f1fr-postplanner-tobi-2026-06-30.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-30/review-dashboard.html (27 items)
 - **Notes:** British GP July 3-5 Silverstone Sprint weekend (Hamilton first Ferrari race at home circuit)/Antonelli 171-Russell 131 (40-pt gap)-Hamilton 125/Mercedes constructors 302 vs Ferrari 204; Verstappen exit clause July 26 Hungarian GP 26-day countdown/98 pts behind Antonelli/Red Bull 8-figure buyout/McLaren Piastri swap talks/Mercedes ruled out/shareholders split; 15 of 22 2027 seats unconfirmed/Audi pursuing Sainz/Lindblad Racing Bulls; Cadillac 0 pts 8 races/Austria both cars brake fire Bottas lap 2 Perez laps 4-5/biggest upgrade ruined/lap-15 tire cliff
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
-
-### 2026-06-29
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Ryan Calloway, Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole)
-- **PostPlanner exports:** f1fr-postplanner-2026-06-29.xlsx (5 posts) + f1fr-postplanner-tobi-2026-06-29.xlsx (5 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-29/review-dashboard.html (27 items)
-- **Notes:** Russell wins Austrian GP lights-to-flag from pole (+1.611s over Verstappen P2/Antonelli P3)/Hamilton P5/Leclerc P8; Cadillac double DNF brake fires (Bottas lap 2/Perez laps 4-5)/0 pts in 8 races; Verstappen exit clause July 26 Hungarian GP/98 pts behind Antonelli/Red Bull 8-figure buyout offer/McLaren secret talks Piastri swap/Mercedes ruled out; Championship: Antonelli 171/Russell 131(-40)/Hamilton 125(-46)/Mercedes constructors 302/Ferrari 204; British GP Round 9 Silverstone July 3-5 SPRINT weekend
-- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
-
-### 2026-06-28
-- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
-- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
-- **X Posts:** 7 written, all under 280 characters
-- **Facebook Posts:** 5 stories, long-form + caption each
-- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
-- **PostPlanner exports:** f1fr-postplanner-2026-06-28.xlsx (7 posts) + f1fr-postplanner-tobi-2026-06-28.xlsx (7 TOBI posts)
-- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-06-28/review-dashboard.html (22 items)
-- **Notes:** Austrian GP RACE DAY — Russell pole; Verstappen starts LAST after Q3 crash; Championship: Antonelli 156-Hamilton 115; Cadillac 0 pts 7 races; Silly season: 15 of 22 no 2027 seats/Verstappen domino pending July 26/Audi pursuing Sainz
 - **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue

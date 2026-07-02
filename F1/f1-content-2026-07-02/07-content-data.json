@@ -1,0 +1,315 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-02",
+  "compiled_at": "2026-07-02T11:32:37.342138+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Hamilton's Ferrari Homecoming — Silverstone Race Week Begins",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Lewis Hamilton. Ferrari red. Silverstone.\n\n9 British GP wins. 7 poles. All-time records at his home track.\n\nNow he's coming home in red for the first time.\n\nThe most emotional F1 race week in years starts now. 🔴\n\n#BritishGP #F1 #LH44",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BritishGP",
+            "#F1",
+            "#LH44"
+          ],
+          "char_count": 233
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Hamilton won in Barcelona. Finished P5 in Austria.\n\nNow he arrives at Silverstone — his track, his records, a new car.\n\nFerrari brought the low-drag Macarena wing specifically for this circuit.\n\nCan he make it 10? 🏁\n\n#BritishGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BritishGP",
+            "#F1"
+          ],
+          "char_count": 231
+        }
+      ],
+      "facebook": {
+        "long_form": "There are race weekends, and then there are moments. Lewis Hamilton arriving at Silverstone in a Ferrari for the first time is the latter.\n\nHamilton holds every meaningful record at the British Grand Prix venue. He has won there nine times — more than any driver in history. He has taken pole position seven times — also a record. Silverstone is his circuit, the place where British fans have roared his name for two decades, the track where his Formula 1 story began in earnest.\n\nThis year, he arrives in red.\n\nIt is his first British GP as a Ferrari driver, and the atmosphere around Silverstone is electric in a way that goes beyond a typical race week. Ferrari published a piece on their official website titled simply \"Home turf for Lewis\" — a headline that captures everything. Ferrari has brought specific upgrades for this circuit: the updated low-drag \"Macarena\" rear wing and a revised low-drag diffuser, designed to address Ferrari's known straight-line speed deficit under the 2026 regulations, particularly on Silverstone's long Hangar Straight.\n\nThe championship picture adds stakes. Hamilton sits third with 125 points — 46 behind teammate Antonelli's rival Andrea Kimi Antonelli and 6 behind George Russell. A win this weekend in a Sprint format would dramatically reshape the narrative.\n\n\"Home turf\" begins Friday. This is the race Hamilton has been building toward all year.",
+        "image_caption": "Lewis Hamilton arrives at Silverstone in Ferrari red for the very first time. Nine British GP wins, seven poles — and now he's chasing No. 10 in a car that's never seen victory lane here. Race week starts now. 🔴🏁",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-hamilton-ferrari-homecoming-silverstone.html",
+        "headline": "Hamilton's Ferrari Homecoming: Racing in Red at Silverstone for the First Time",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton's Ferrari Homecoming at Silverstone\n**Key Facts:**\n- Hamilton's first British GP as a Ferrari driver; \"Home turf for Lewis\" — Ferrari official website\n- Hamilton holds all-time Silverstone records: 7 pole positions AND 9 race wins\n- Targeting a 10th British GP win — would be unprecedented\n- Ferrari upgrades for Silverstone: updated low-drag \"Macarena\" rear wing + revised low-drag diffuser + potential exhaust revision\n- Toto Wolff (Mercedes): \"We're a little surprised that Ferrari can throw such massive upgrades at the car the way they do\"\n- Hamilton won in Barcelona recently (ended 686-day drought), finished P5 in Austria\n- Hamilton's own words: \"There's lots of straights in Silverstone, lots of straights and lots of deployment, and not many places to recover the power\"\n- FIA media session Thursday July 2 at 14:00 BST — Hamilton confirmed present\n- P3 championship with 125 pts, 46 behind Antonelli",
+        "sources": "- Sources: Ferrari.com, GPFans, Sportsnaut, MotorBiscuit\n**Confidence Tags:**\n- Hamilton 9 British GP wins / targeting 10th (HIGH — established record)\n- Ferrari Macarena wing upgrade (HIGH — GPFans confirmed)\n- Hamilton 14:00 BST press conference July 2 (HIGH — GPFans)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Verstappen Exit Clause — 24 Days to Hungarian GP, McLaren Talks Denied",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "McLaren talks? Verstappen's manager: \"There's no truth in that. Zero negotiations.\"\n\nThe exit clause is still real though.\n\n24 days until the Hungarian GP. He's 113 pts behind Antonelli.\n\nThe clause will almost certainly activate. The question is where he goes. 👀\n\n#F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 280
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Verstappen about Silverstone on the simulator:\n\n\"I just started laughing. You barely have battery around the lap.\"\n\nHe's 7th in the championship. 24 days until his exit clause window opens.\n\nRed Bull can't block it. 2027 silly season is about to get wild.\n\n#F1 #Verstappen",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#Verstappen"
+          ],
+          "char_count": 272
+        }
+      ],
+      "facebook": {
+        "long_form": "Max Verstappen's manager has denied reports of preliminary talks with McLaren. But the exit clause story isn't going anywhere.\n\nReports emerged in late June suggesting Verstappen's management and McLaren CEO Zak Brown had held \"secret preliminary talks.\" Manager Raymond Vermeulen spoke to German outlet Bild with no ambiguity: \"There's no truth in that. There have been no negotiations.\" The-Race and Autosport both ran analysis on whether the McLaren rumors are real intelligence or a calculated pressure tactic on Red Bull's leadership.\n\nWhat is not in dispute: the clause. Verstappen's contract through 2028 contains a performance exit clause that becomes activatable after the Hungarian Grand Prix on July 26 — 24 days from today. The condition is simple and devastating: if Verstappen is not in the top two of the championship at the summer break reference point, the clause can be invoked any time through October.\n\nHe is currently seventh. He is approximately 113 points behind championship leader Kimi Antonelli. Getting into the top two by July 26 is mathematically impossible at this stage.\n\nRed Bull has reportedly made an eight-figure buyout offer to try to keep Verstappen. F1 insiders have told GPFans the clause is \"impossible for Red Bull to block.\" Mercedes is off the table — George Russell has a confirmed multi-year deal. McLaren publicly deny talks.\n\nThat leaves the question open: if the clause activates after July 26, where does Max Verstappen go?",
+        "image_caption": "Max Verstappen heads into Silverstone with his exit clause 24 days away. McLaren talks denied. Red Bull can't block it. The biggest driver market story in years is about to reach its climax. 👀",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-verstappen-exit-clause-24-days-mclaren-denied.html",
+        "headline": "Verstappen Exit Clause: 24 Days Out, McLaren Talks Denied, Red Bull Can't Block It",
+        "word_count": 704
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen Exit Clause — McLaren Talks Denied\n**Key Facts:**\n- Verstappen's contract through 2028 contains performance exit clause\n- Clause activatable if he is OUTSIDE top-2 in championship at summer break reference point (Hungarian GP July 26)\n- 24 days until Hungarian GP\n- Verstappen currently 7th in championship; ~113 pts behind Antonelli (impossible to close in 24 days)\n- McLaren rumors: \"secret preliminary talks\" between Verstappen management and McLaren CEO Zak Brown reported\n- Manager Raymond Vermeulen to German outlet Bild: \"There's no truth in that. There have been no negotiations\"\n- The-Race and Autosport: analysis on whether McLaren talks are real or pressure tactic on Red Bull\n- Mercedes closed off: Russell has multi-year deal confirmed beyond 2026\n- Red Bull internal split: Thai co-owner faction wants to block via buyout; F1 insiders say clause \"impossible to block\"\n- Verstappen's own words pre-Silverstone: \"I did a few laps on the simulator, I just started laughing. You barely have battery around the lap\"\n- Red Bull offered 8-figure buyout; Vermeulen: \"wasn't born to compete in midfield\"",
+        "sources": "- Sources: GPFans, F1 Chronicle, The-Race, SportBible\n**Confidence Tags:**\n- Verstappen exit clause mechanics (HIGH — widely confirmed)\n- McLaren talks denial from Vermeulen (HIGH — Bild / GPFans)\n- Clause \"impossible to block\" per F1 insider (MEDIUM — anonymous source)\n- Verstappen simulator quote (HIGH — multiple sources confirmed)"
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cadillac Stars & Stripes Livery — Zero Points But Full Patriotic Spirit",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Cadillac F1 just unveiled a stars-and-stripes livery for the British GP.\n\n0 points in 8 races.\n\nBut racing on America's 250th birthday at the circuit where F1 started in 1950?\n\nThat deserves the full red, white & blue treatment. 🇺🇸🏎️\n\n#BritishGP #F1 #Cadillac",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BritishGP",
+            "#F1",
+            "#Cadillac"
+          ],
+          "char_count": 259
+        }
+      ],
+      "facebook": {
+        "long_form": "Cadillac Formula 1 has zero points after eight races in 2026. What they do have, as of Thursday, is the best livery on the grid.\n\nThe American constructor unveiled a stars-and-stripes special livery for the British Grand Prix — white base, blue nose studded with white stars, and bold red-and-white angled stripes along the bodywork. Both Valtteri Bottas and Sergio Perez will carry the design for this round only.\n\nThe timing is deliberate. Saturday's Sprint race and qualifying session fall on July 4, 2026 — America's 250th birthday. And Silverstone is not just any circuit. This is the venue where Formula 1 held its very first World Championship race in 1950. The first F1 race in history. An American team's patriotic livery at the sport's birthplace, on Independence Day, is a story that tells itself.\n\nCadillac's season has been brutal by results. The Austrian GP brought a double DNF before lap 5 — both cars sidelined by brake fires. The team has publicly stated they are \"not aiming for points in 2026,\" treating this as a development season to build the infrastructure for a genuine competitive run in 2027 and beyond.\n\nBottas has two career poles and five podiums at Silverstone. Perez set the fastest lap here in 2021 and finished second in 2022. The experience is there. On this particular weekend, the livery is spectacular.\n\nSometimes you play the long game, and you show up flying the flag while you do it.",
+        "image_caption": "Cadillac F1 unveiled a stunning stars-and-stripes livery for the British GP — racing on America's 250th birthday at the circuit where F1 began in 1950. Zero points so far this season, but zero shortage of American pride. 🇺🇸🏎️",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-cadillac-stars-stripes-livery-british-gp.html",
+        "headline": "Cadillac Unveils Stars-and-Stripes Livery for British GP: Racing on America's 250th Birthday",
+        "word_count": 600
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Cadillac Stars & Stripes Livery\n**Key Facts:**\n- Cadillac unveiled stars-and-stripes livery July 1 for British GP\n- White base, blue nose with white stars, angled red-and-white stripes on bodywork\n- Both Bottas and Perez cars carry the design (British GP only)\n- Timing: Saturday's Sprint and Qualifying fall on July 4 — America's 250th birthday\n- Silverstone hosted F1's very first World Championship race in 1950\n- Cadillac official statement: \"Cadillac Formula 1 Team Marks America's 250 at F1's Original Venue\"\n- Team currently at 0 points after 8 races; double DNF in Austria (brake fires, Bottas lap 2, Perez lap 4-5)\n- Possible point stripped: RacingNews365 reference to \"Cadillac stripped of first F1 point after Sergio Perez error\" (MEDIUM confidence — needs verification)\n- Team publicly stated they are \"not aiming for points in 2026\" (development season)\n- Bottas: 2 Silverstone poles and 5 podiums career; Perez: fastest lap 2021, P2 2022 at Silverstone",
+        "sources": "- Sources: Cadillac F1 official, Speedcafe, Motorsport.com, RacingNews365\n**Confidence Tags:**\n- Stars-and-stripes livery revealed (HIGH — Cadillac official)\n- 0 points after 8 races (HIGH)\n- Perez point stripped (MEDIUM — single source, unverified)\n- Silverstone hosted 1950 inaugural race (HIGH)"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Antonelli Championship Lead — Sprint Weekend Stakes Are High",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "This weekend at Silverstone: 33 points on the table.\n\nAntonelli leads Russell by 40. His biggest threat? His OWN teammate.\n\nSprint qualifying tomorrow. No second chances.\n\nThe 2026 title fight could look very different by Sunday night.\n\n#BritishGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BritishGP",
+            "#F1"
+          ],
+          "char_count": 251
+        }
+      ],
+      "facebook": {
+        "long_form": "Kimi Antonelli holds a 40-point lead in the 2026 Formula 1 world championship. His biggest threat heading into Silverstone isn't Ferrari or McLaren or Red Bull. It is his own teammate.\n\nGeorge Russell won the Austrian Grand Prix last time out, cutting the gap to 40 points. Russell is now the shadow looming over every session at Silverstone. In a Sprint weekend format — where there is only one free practice session, no second chances, and 33 points up for grabs across Sprint and race — the pressure on every lap from the very first session is maximized.\n\nSky Sports identified the \"Antonelli vs. Russell\" internal Mercedes battle as the primary storyline of the British GP Sprint weekend. That's saying something, given Hamilton's homecoming, the Verstappen exit clause drama, and Cadillac's patriotic livery all competing for attention.\n\nThe math: if Russell wins the Sprint, takes pole, wins the race, and sets the fastest lap — and Antonelli finishes outside the top five both days — the gap could effectively be erased. That's an extreme scenario, but the Sprint format compresses timelines in ways that create volatility.\n\nAt 19 years old, Antonelli leads the championship in his debut season. That is an extraordinary story. Whether it ends in glory or collapses under internal pressure from his Mercedes teammate will be one of the defining narratives of 2026.",
+        "image_caption": "Antonelli leads Russell by 40 points. His own teammate is his biggest threat. This Sprint weekend at Silverstone could reshape the championship picture completely. 🏆",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-antonelli-championship-sprint-weekend.html",
+        "headline": "Antonelli's Championship Lead Faces Sprint Weekend Test at Silverstone",
+        "word_count": 633
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Championship — Sprint Weekend Stakes\n**Key Facts:**\n- Current standings: Antonelli 171, Russell 131 (-40), Hamilton 125 (-46)\n- Russell won Austrian GP; brought him to within 40 pts of Antonelli (his teammate)\n- Sprint weekend = 33 total points available (8 Sprint + 25 race)\n- A Russell win at Sprint + race + fastest lap could cut gap to as little as 15 pts\n- Sky Sports: \"Antonelli vs Russell\" teammate dynamic is primary storyline of the Sprint weekend\n- Sprint format: less practice time, no second chance — adds stakes to every session\n- FP1 Friday 12:30 BST; Sprint Qual 16:30 BST; Sprint 12:00 Sat; GP Qual 16:00 Sat; Race 15:00 Sun\n- At 19 years old, Antonelli is on course for dominant debut championship",
+        "sources": "- Sources: Sky Sports, Stat Sniper\n**Confidence Tags:**\n- Championship standings (HIGH — confirmed from multiple sources)\n- Sprint format point values (HIGH)\n- Session schedule (HIGH — official F1 schedule)"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "The Silverstone Battery Crisis — Why This Race Will Be Chaos",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Both Hamilton AND Verstappen warned about Silverstone:\n\nThe battery runs out. No braking zones for 35+ seconds through the fast stuff.\n\nCars lose power on the Hangar Straight.\n\nThe 2026 British GP could be the most unpredictable race of the year. 🔋\n\n#BritishGP #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BritishGP",
+            "#F1"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "Both Lewis Hamilton and Max Verstappen issued the same warning independently this week. Pay attention, because what they're describing could make the 2026 British Grand Prix one of the most unpredictable races of the Formula 1 season.\n\nThe 2026 technical regulations removed the MGU-H — the heat energy recovery unit that has been a feature of F1 cars for years. Teams now rely solely on the MGU-K, which recovers energy kinetically through braking. The problem at Silverstone is stark: between Turn 7 (Luffield) and Turn 15 (Stowe), there are approximately 35 to 40 seconds of sweeping, high-speed corners with no meaningful braking zones. No braking = no energy recovery = a depleted battery by the time cars hit the Hangar Straight.\n\nOn that straight — one of F1's fastest — cars are expected to experience severe power derate before the Stowe braking zone. The 350kW electrical system runs dry, and mechanical power alone isn't enough to compensate.\n\nHamilton warned: \"There's lots of straights in Silverstone, lots of straights and lots of deployment, and not many places to recover the power.\"\n\nVerstappen put it more bluntly: \"I did a few laps on the simulator, I just started laughing. It felt like a different track.\"\n\nTeams with superior energy management software — and Mercedes is widely considered best-in-class here — may gain a significant strategic advantage that raw pace data from practice won't predict. This isn't just a technical footnote; it could determine the race result.\n\nFP1 tomorrow at 12:30 BST will give the first real data. Watch the sector times carefully.",
+        "image_caption": "Both Hamilton and Verstappen warned about it. Silverstone's 2026 battery problem is real — cars running dry through the Hangar Straight with nothing to deploy. This could make Sunday's British GP the most chaotic race of the year. 🔋⚡",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-silverstone-battery-crisis-2026.html",
+        "headline": "The Silverstone Battery Crisis: Why the 2026 British GP Could Be F1's Most Unpredictable Race",
+        "word_count": 650
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Silverstone Battery Crisis\n**Key Facts:**\n- 2026 regs removed MGU-H; cars rely solely on MGU-K (kinetic braking recovery)\n- Silverstone layout: between Turn 7 (Luffield) and Turn 15 (Stowe) = ~35-40 seconds of sweeping high-speed corners with NO heavy braking zones\n- By Hangar Straight, the 350kW electrical system drained; cars suffer severe power derate before Stowe braking\n- Both Hamilton AND Verstappen independently flagged this issue\n- Hamilton quote: \"There's lots of straights in Silverstone, lots of straights and lots of deployment, and not many places to recover the power\"\n- Verstappen quote: \"I did a few laps on the simulator, I just started laughing. It felt like a different track\"\n- Teams with better energy management software (Mercedes likely favored) may gain edge\n- Expected to produce visible speed differentials and potentially chaotic racing",
+        "sources": "- Sources: Sportsnaut, PlanetF1, MotorBiscuit\n**Confidence Tags:**\n- 2026 MGU-H removal (HIGH — F1 regulations fact)\n- Hamilton quote (HIGH — multiple sources)\n- Verstappen quote (HIGH — multiple sources)\n- Mercedes energy management advantage theory (MEDIUM — analyst opinion)"
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

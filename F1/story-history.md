@@ -3452,3 +3452,48 @@
 - **Key facts:** 0 pts through 8 races; Austria: Bottas DNF lap 2 + Perez DNF laps 4-5 (both brake fires); biggest upgrade package ruined; floor geometry + rear suspension changes; rear instability/lap-15 tire cliff identified; Williams/Haas/Audi all have points; drivers: Bottas + Perez
 - **Status:** FOLLOW UP
 - **Follow-up ideas:** Cadillac first point; brake fix confirmed; Silverstone finish
+
+## 2026-07-02
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-02 | T1 | Hamilton's Ferrari Homecoming — Silverstone Race Week Begins | X, FB, Article | FOLLOW UP |
+| 2026-07-02 | T1 | Verstappen Exit Clause — 24 Days to Hungarian GP, McLaren Talks Denied | X, FB, Article | FOLLOW UP |
+| 2026-07-02 | T2 | Cadillac Stars & Stripes Livery — Zero Points But Full American Pride | X, FB, Article | NEW |
+| 2026-07-02 | T2 | Antonelli Championship Lead — Sprint Weekend Stakes Are High | X, FB, Article | FOLLOW UP |
+| 2026-07-02 | T2 | The Silverstone Battery Crisis — Why This Race Will Be Chaos | X, FB, Article | NEW |
+
+### STORY 1: Hamilton's Ferrari Homecoming at Silverstone
+- **Tier:** 1
+- **Category:** F1 Race Preview / British GP / Hamilton
+- **Key facts:** Hamilton's first British GP in Ferrari red; all-time Silverstone records: 9 wins + 7 pole positions; targeting 10th win; Ferrari upgrades: low-drag Macarena wing + revised diffuser; Wolff: "We're surprised Ferrari can throw such massive upgrades"; Hamilton: "lots of straights, lots of deployment, not many places to recover power"; FIA press conference 14:00 BST Thursday; P3 championship 125 pts (-46 from Antonelli)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** British GP result; did Hamilton win 10th; Sprint race result
+
+### STORY 2: Verstappen Exit Clause — 24 Days, McLaren Denied
+- **Tier:** 1
+- **Category:** F1 Driver News / Verstappen
+- **Key facts:** Exit clause activatable if not top-2 at Hungarian GP July 26 (24 days); Verstappen 7th, ~113 pts behind Antonelli — mathematically impossible to close; McLaren "secret talks" reported; manager Vermeulen to Bild: "There's no truth in that. Zero negotiations"; Red Bull offered 8-figure buyout; F1 insider: clause "impossible to block"; Mercedes closed off (Russell multi-year deal); Verstappen on simulator: "I just started laughing. You barely have battery around the lap"
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Clause activation after July 26; Verstappen destination announcement; silly season cascade
+
+### STORY 3: Cadillac Stars & Stripes Livery
+- **Tier:** 2
+- **Category:** F1 Team News / Cadillac
+- **Key facts:** Cadillac unveiled stars-and-stripes livery July 1; white base/blue nose white stars/red-white stripes; both Bottas and Perez cars (British GP only); July 4 = America's 250th birthday falls on Sprint/qualifying day; Silverstone hosted F1's 1st World Championship race 1950; team at 0 points 8 races; double DNF Austrian GP brake fires; "not aiming for points in 2026"
+- **Status:** NEW
+- **Follow-up ideas:** British GP performance; any points scored; livery reaction
+
+### STORY 4: Antonelli Championship Lead — Sprint Weekend
+- **Tier:** 2
+- **Category:** F1 Championship / British GP
+- **Key facts:** Antonelli 171pts, Russell 131pts (-40), Hamilton 125pts (-46); Russell won Austrian GP; 33 points available Sprint weekend (8 Sprint + 25 race); Sky Sports: "Antonelli vs Russell" main storyline; Sprint format = 1 FP session, no second chances; Mercedes constructors 302 pts, Ferrari 204 pts
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint result; championship standings update after British GP
+
+### STORY 5: Silverstone Battery Crisis
+- **Tier:** 2
+- **Category:** F1 Technical / British GP
+- **Key facts:** 2026 regs removed MGU-H; MGU-K only (kinetic braking recovery); Luffield to Stowe ~35-40 seconds NO braking zones; 350kW system depleted by Hangar Straight; cars suffer power derate; both Hamilton AND Verstappen flagged independently; Hamilton quote confirmed (multiple sources); Verstappen quote confirmed (multiple sources); Mercedes likely favored on energy management software
+- **Status:** NEW
+- **Follow-up ideas:** Race result; did battery issues cause chaos; FP1 data confirms/denies
