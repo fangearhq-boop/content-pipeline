@@ -1,0 +1,210 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-03",
+  "compiled_at": "2026-07-03T09:25:04.032396+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Series Preview — Cardinals at Wrigley, 3-Game July 4th Weekend Series",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Cubs 49-38 host Cardinals 45-39 at Wrigley Field; 3-game holiday weekend series (July 3-5); Game 1 today 3:05 PM CT; Cardinals coming in cold at 6-10 in last 16; Cubs riding 5-game win streak after 23-3 Padres sweep; MANDATORY slot per is_series_start_today=true",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cardinals at Wrigley this weekend — three games, July 4th included.\n\nCubs 49-38, Cardinals 45-39. First pitch 3:05 PM CT today.\n\nSt. Louis is 6-10 in their last 16. The Cubs just swept the Padres 23-3. Momentum isn't on their side.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Series Preview / Informative",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Series Preview — Cardinals at Wrigley, 3-Game July 4th Weekend\n**Facts (verified):**\n- Cubs record: 49-38 — HIGH (series-context.json, official game-monitor snapshot)\n- Cardinals record: 45-39 — HIGH (series-context.json)\n- Game 1 first pitch: 3:05 PM CT (= 4:05 PM EDT) — HIGH (series-context.json 20:05 UTC; corroborated by Baseball-Reference preview showing 4:05 PM EDT)\n- Venue: Wrigley Field — HIGH (series-context.json)\n- Series length: 3 games (July 3, 4, 5) — HIGH (series-context.json + SeatGeek/CBS schedule)\n- Game 2: Saturday July 4 at 7:08 PM CT — HIGH (series-context.json ISO 2026-07-05T00:08:00Z = July 4 7:08 PM CDT)\n- Game 3: Sunday July 5 at 1:30 PM CT — HIGH (series-context.json)\n- Cardinals 6-10 in last 16 games — MEDIUM (single AI summary of ESPN/Cardinals.com aggregated data; directional)\n- Cubs 5-game win streak — HIGH (series-context.json / July 2 pipeline confirmed)\n- Cubs swept Padres 23-3 in Game 3 on July 1 — HIGH (July 2 pipeline confirmed, multiple sources)\n**Sources:**\n- series-context.json (authoritative snapshot)\n- Baseball-Reference: https://www.baseball-reference.com/previews/2026/CHN202607030.shtml\n- CBS Sports Cubs schedule\n- SeatGeek July 4 game listing",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA All-Star Snub — Phase 2 Closed, No. 2 in Baseball Still Left Off",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "All-Star Phase 2 vote closed July 2; PCA didn't advance from Phase 1 (finished 10th); 4.8 WAR No. 2 in all of baseball (behind only Ohtani 5.8); reserve candidate (team must have one rep); fan outrage at voting system",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "4.8 WAR. No. 2 in all of baseball. Hit a cycle in June. Gold Glove-caliber defense. That's Pete Crow-Armstrong.\n\nThe All-Star Phase 2 vote closed yesterday without his name on it.\n\nHe's still a reserve candidate. But the snub is real.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold/Passionate — fan reaction",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 254
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA All-Star Snub — Phase 2 Closed\n**Facts (verified):**\n- PCA Phase 1 finish: 10th among NL outfielders — HIGH (multiple Cubs outlets: Bleacher Nation, Cubbie Crib, SI.com)\n- Phase 2 voting closed July 2 — HIGH (prior pipeline July 2 documented this; multiple sources)\n- PCA did NOT advance to Phase 2 ballot (top 6 advance) — HIGH (consistent across multiple outlets)\n- PCA WAR 4.8 through 80 games — MEDIUM (Bleacher Report via AI summary; prior pipeline had 4.6 — updated figure from more recent games; single source for updated number)\n- PCA is No. 2 in all of baseball in WAR behind Ohtani (5.8) — MEDIUM (single Bleacher Report AI summary listing Ohtani 5.8, PCA 4.8, Witt 4.4; superlative claim — needs second source for HIGH confidence; directionally consistent with prior pipeline \"leads position players\" data)\n- PCA hit a cycle in June — HIGH (covered June 21 pipeline, multiple sources)\n- PCA is expected to make All-Star team as reserve (each team required to have one rep) — MEDIUM (referenced in multiple AI summaries; player ballot and Commissioner selection still pending)\n**Flagged claim:** \"No. 2 in all of baseball\" — MEDIUM confidence. Prior pipeline said \"leads all position players\" at 4.6 WAR; updated data shows Ohtani (5.8) is ahead. Directionally accurate but single-source for the specific 4.8/Ohtani ranking. Used in tweet with directional framing.\n**Sources:**\n- Cubbie Crib: https://cubbiescrib.com/the-numbers-dont-lie-pete-crow-armstrong-got-criminally-snubbed-in-all-star-voting\n- Bleacher Nation: https://www.bleachernation.com/cubs/2026/06/26/fan-voting-all-star-game/\n- Bleacher Report Phase 1 winners/losers: https://bleacherreport.com/articles/25445622-biggest-winners-losers-2026-mlb-all-star-game-phase-1-voting-results\n- SI.com PCA snub update: https://www.si.com/mlb/cubs/onsi/how-was-the-cubs-pete-crow-armstrong-snubbed-again-in-the-latest-all-star-update-22",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Cardinals Slump — 6-10 in Last 16, Walking Into a Hornet's Nest",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cardinals 6-10 in last 16 games; Cubs counter with 5-game win streak including 23-3 sweep; Fourth of July crowd at Wrigley hostile environment for struggling Cardinals",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "The Cardinals are 6-10 in their last 16 games. They haven't found their footing since early June.\n\nNow they walk into Wrigley on Fourth of July weekend against a Cubs team on a FIVE-game win streak.\n\nGood luck with that, St. Louis.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold / Rival Jab",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 255
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals Slump — 6-10 in Last 16\n**Facts (verified):**\n- Cardinals 6-10 in last 16 games — MEDIUM (single AI search result aggregate; consistent with Cardinals \"mid-June trouble\" narrative across multiple outlets; directional)\n- Cardinals 13-12 in June — MEDIUM (AI summary of Cardinals.com/Baseball Almanac data)\n- Cardinals overall record 45-39 — HIGH (series-context.json)\n- Cubs 5-game win streak — HIGH (series-context.json)\n- Cubs just swept Padres 23-3 — HIGH (July 2 pipeline confirmed)\n- Cubs went 16-10 in June — MEDIUM (Brew Crew Ball/Pinstripe Alley article AI summary; single source)\n**Note:** The Cardinals slump stat (6-10 last 16) is the key angle. MEDIUM confidence but directionally supported by their 13-12 June record and the general narrative of late-June stumbling.\n**Sources:**\n- Pinstripe Alley NL Central mid-season check-in: https://www.pinstripealley.com/mlb-news/195214/mlb-nl-central-division-review-standings-brewers-misiorowski-cubs-cardinals-pirates-reds\n- Brew Crew Ball Week 14 power rankings: https://www.brewcrewball.com/milwaukee-brewers-analysis/84884/2026-nl-central-power-rankings-week-14",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Game Preview — Peterson (4-6, 5.86 ERA) vs Pallante (9-5, 3.83 ERA), 3:05 PM CT",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "David Peterson confirmed Cubs Game 1 starter; faces Andre Pallante (No. 2 in MLB wins at 9); tough matchup on paper but Cubs have momentum; Wrigley energy factor; Peterson's first Cardinals rivalry start as a Cub",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "David Peterson (4-6, 5.86 ERA) gets the ball for the Cubs at 3:05 PM CT.\n\nHe's going up against Andre Pallante — 9-5, 3.83 ERA, No. 2 in the majors in wins.\n\nTough draw. But the Cubs have won FIVE straight. This Wrigley crowd won't be quiet.\n\n#Cubs #WrigleyField #GoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Game Preview",
+          "hashtags": [
+            "#Cubs",
+            "#WrigleyField",
+            "#GoCubs"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Game Preview — Peterson vs Pallante\n**Facts (verified):**\n- David Peterson starter for Cubs Game 1 July 3 — HIGH (Baseball-Reference preview, Yahoo Sports matchup breakdown, SportsGrid, SI.com all confirm)\n- Peterson season line: 4-6, 5.86 ERA, 65 SO — MEDIUM (Baseball-Reference preview AI summary; directional; not verified against live BBRef page)\n- Andre Pallante starter for Cardinals Game 1 — HIGH (Baseball-Reference preview, multiple betting/preview sites confirm)\n- Pallante season line: 9-5, 3.83 ERA, 68 SO — MEDIUM (consistent across Baseball-Reference preview and Cardinals search results)\n- Pallante No. 2 in MLB wins (trailing Brewers' Aaron Ashby at 10) — MEDIUM (single source confirming Ashby 10, Pallante 9; ranking claim; no verification of whether others also have 9 wins)\n- David Peterson acquired from Mets (for C. Mathis) — HIGH (CBS Sports deadline article; June 29 pipeline covered his debut; confirmed)\n- Cubs have won FIVE straight — HIGH (series-context.json)\n**Note on Peterson:** His debut was covered in June 29 pipeline (5.2 IP, 2 ER). Today is framed as a FOLLOW UP — his first Cardinals rivalry start as a Cub.\n**Sources:**\n- Baseball-Reference preview: https://www.baseball-reference.com/previews/2026/CHN202607030.shtml\n- Yahoo Sports matchup breakdown: https://sports.yahoo.com/articles/matchup-breakdown-cubs-lock-starting-173817857.html\n- SI.com Cubs starters: https://www.si.com/mlb/cubs/onsi/pitching-breakdown-cubs-lock-in-starters-for-big-holiday-cardinals-series-2",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Trade Deadline — 31 Days, Sonny Gray Is the Name",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "31 days to Aug 3; Sonny Gray (Red Sox, 9-1, 2.69 ERA) identified as Cubs' top target; full no-trade clause complication; Hoyer needs Gray's buy-in; Red Sox 34-46 sellers; rotation still leaking",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "31 days to the deadline. The Cubs' rotation needs help — fast.\n\nSonny Gray (9-1, 2.69 ERA) is their top target. Boston's buried at 34-46 and open for business.\n\nCatch: Gray has a full no-trade clause. It only happens if he wants it to.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold take / Deadline analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 261
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline — Sonny Gray\n**Facts (verified):**\n- August 3 trade deadline — HIGH (established fact)\n- Days remaining: 31 days (July 3 → August 3) — HIGH (calendar math: July has 31 days; July 3 to August 3 = 31 days)\n- Sonny Gray season line: 9-1, 2.69 ERA (Heavy.com/CBS Sports say 2.69; one source says 2.95) — MEDIUM (ERA discrepancy across sources; using 2.69 as more recent figure from CBS buyers/sellers guide)\n- Red Sox record: 34-46 — MEDIUM (CBS Sports buyers/sellers guide July 3; AI summary; directional)\n- Sonny Gray has full no-trade clause — MEDIUM-HIGH (multiple sources: Heavy.com Cubs-Gray analysis, Cubs Crib trade package analysis; both confirm NTC)\n- Cubs interested in Gray / Gray as top target — MEDIUM (multiple analysis pieces naming Gray as top Cubs target; no confirmed reporting of direct Cubs-Red Sox talks)\n- Gray contract: 3-year $75M, $30M mutual option for 2027 — MEDIUM (Heavy.com, directional)\n- Proposed package: Matt Shaw + Jonathon Long — MEDIUM (fan/analyst proposal, not reported trade offer)\n**Note:** No confirmed Cubs-Sox trade talks sourced. Frame as \"top target\" (directional, consistent across multiple outlets), not \"Cubs are in talks.\"\n**Sources:**\n- CBS Sports deadline buyers/sellers: https://www.cbssports.com/mlb/news/2026-mlb-trade-deadline-buyers-sellers-guide-one-month-away/\n- Heavy.com Cubs-Gray: https://heavy.com/sports/mlb/chicago-cubs/sonny-gray-trade-chicago-cubs-and-boston-red-sox-should-think-about/\n- Cubs Crib trade package: https://cubbiescrib.com/this-sonny-gray-trade-package-will-satisfy-cubs-ignite-red-sox-reset\n- FanSided realistic packages: https://fansided.com/mlb/realistic-sonny-gray-trade-packages-the-braves-cubs-and-padres-could-offer",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Rotation Reinforcements — Taillon Iowa Rehab Starts Sunday",
+      "tier": 3,
+      "status": "FOLLOW UP",
+      "angle": "Taillon begins Iowa rehab Sunday; Bummer + Hendriks already pitching at Iowa (July 2); Pomeranz at Iowa too; pipeline of reinforcements building; won't be quick but progress is real",
+      "posting_window": "2:30 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Rotation reinforcements are coming. Jameson Taillon starts his Iowa rehab assignment Sunday.\n\nAaron Bummer and Liam Hendriks are already throwing down there. Drew Pomeranz too.\n\nIt won't happen overnight. But help is on the way.\n\n#Cubs #GoCubs #CubsBaseball",
+          "posting_time": "2:30 PM CT",
+          "tweet_type": "Informative / Roster news",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#CubsBaseball"
+          ],
+          "char_count": 257
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Taillon Iowa Rehab\n**Facts (verified):**\n- Taillon (hamstring) to begin Iowa rehab assignment Sunday July 5 — MEDIUM-HIGH (FantasyPros confirmed, CBSSports headline confirmed, Bleacher Nation July 2 injury report referenced)\n- Aaron Bummer pitched for Iowa (July 2) — HIGH (Bleacher Nation prospects report July 2, Bleed Cubbie Blue Iowa minor league wrap, Cubs Insider confirmed)\n- Liam Hendriks pitched for Iowa (July 2) — HIGH (same three sources above)\n- Drew Pomeranz at Iowa — MEDIUM-HIGH (Cubs Insider June 30 article confirmed)\n- Milner: emergency appendectomy, out 4-6 weeks — MEDIUM (CBS Sports injury report AI summary)\n- Palencia: flexor strain, out through All-Star break — MEDIUM (injury report AI summary)\n**Sources:**\n- FantasyPros Taillon: https://www.fantasypros.com/mlb/news/594500/jameson-taillon-hamstring-to-begin-rehab-assignment-sunday.php\n- Bleacher Nation injury July 2: https://www.bleachernation.com/cubs/2026/07/02/cubs-injury-updates-taillon-cabrera-palencia-maton-miller-wiggins/\n- Bleacher Nation prospects July 2: https://www.bleachernation.com/cubs/2026/07/02/cubs-prospects-72/\n- Cubs Insider Iowa: https://www.cubsinsider.com/2026/06/30/liam-hendriks-aaron-bummer-join-drew-pomeranz-to-bolster-i-cubs-staff/\n- Bleed Cubbie Blue Iowa wrap: https://www.bleedcubbieblue.com/chicago-cubs-prospects/224038/cubs-minor-league-wrap-aaron-bummer-liam-hendriks-pitch-for-iowa",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

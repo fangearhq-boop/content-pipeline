@@ -5,6 +5,61 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-03
+
+### STORY 1: Series Preview — Cardinals at Wrigley, 3-Game July 4th Weekend
+- **Angle:** NEW STORY (is_series_start_today=true; mandatory 7 AM slot; Cubs 49-38 vs Cardinals 45-39 at Wrigley Field; 3-game series July 3-5; Game 1 3:05 PM CT; Peterson vs Pallante; Cardinals 6-10 last 16 coming in cold; Cubs on 5-game win streak)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, series preview)
+- **Follow-Up Opportunities:**
+  - Game 1 result tonight (7:00 AM tomorrow)
+  - Game 2 preview (Saturday July 4 7:08 PM CT)
+  - Series finale Sunday 1:30 PM CT
+
+### STORY 2: PCA All-Star Snub — Phase 2 Closed Without His Name
+- **Angle:** FOLLOW UP (All-Star Phase 2 vote closed July 2; PCA finished 10th in Phase 1; 4.8 WAR No. 2 in all of baseball behind Ohtani 5.8; reserve candidate—each team requires one rep)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - All-Star reserve announcement (player ballot + Commissioner)
+  - PCA All-Star game appearance if selected
+
+### STORY 3: Cardinals 6-10 in Last 16 — Walking Into Wrigley on Fire
+- **Angle:** NEW STORY (Cardinals recent form 6-10 last 16 games; 13-12 in June; entering Wrigley on 4th of July weekend while Cubs ride 5-game win streak; rival jab angle)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, rival jab)
+- **Follow-Up Opportunities:**
+  - Series result amplifies/validates take
+  - Cardinals continued slump through July
+
+### STORY 4: Game Preview — Peterson (4-6, 5.86 ERA) vs Pallante (9-5, 3.83 ERA)
+- **Angle:** FOLLOW UP (Peterson debut covered June 29 pipeline; new angle = first Cardinals rivalry start as a Cub; Pallante No. 2 in MLB wins behind Ashby; Cubs on FIVE-game streak; 3:05 PM CT first pitch)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Peterson's line tonight (ERA improvement or continued struggles)
+  - Pallante performance against Cubs lineup
+
+### STORY 5: Trade Deadline — 31 Days, Sonny Gray Named Top Target
+- **Angle:** FOLLOW UP (deadline arc ongoing; new angle = Sonny Gray (Red Sox, 9-1, 2.69 ERA) confirmed top target in CBS buyers/sellers guide; full no-trade clause is blocking complication; Red Sox 34-46 sellers; 31 days remain)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold take/analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs-Red Sox trade reporting
+  - Gray NTC decision / other top targets emerge
+  - Alternative: Wacha (KC, 3.31 ERA) as backup option
+
+### STORY 6: Taillon Iowa Rehab Starts Sunday — Reinforcements Incoming
+- **Angle:** FOLLOW UP (Taillon hamstring rehab arc; new angle = Iowa rehab confirmed Sunday July 5; Bummer + Hendriks already pitching at Iowa July 2; Pomeranz at Iowa too)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 2:30 PM CT, roster news)
+- **Follow-Up Opportunities:**
+  - Taillon's Iowa performance / return timeline
+  - Hendriks/Bummer promotion timeline to MLB roster
+  - Pomeranz Iowa performance
+
+---
+
 ## 2026-07-02
 
 ### STORY 1: Cubs 23, Padres 3 — Sweep Complete, 5-Game Win Streak
