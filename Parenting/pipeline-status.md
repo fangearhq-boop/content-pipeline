@@ -1,6 +1,45 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 2, 2026
+## Latest Run: July 3, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | AAP July 2026 drowning prevention policy (healthychildren.org/aap.org/peacehealth.org/guidelinecentral.com/pristines.org — touch supervision defined; swim lessons at age 1; no evidence for infant lessons; 4-sided fence 4 ft min self-closing/self-latching; no baths alone until 6; CPR for caregivers; layered approach; July 2026 Pediatrics); Pikes Peak July 4 events (KRDO.com/coloradosprings.gov — 4 AM gateway opens sunrise; last entry 6 AM; 7 PM reopens first-ever sunset; 8:29 PM sunset; descent within 1 hr after; $40 adults/$12 ages 6-15/free 5 under on lap; DrivePikesPeak.com advance only; capacity limited; shuttle from North Pole parking lot; weather permitting); July 4 update (coloradosprings.gov/cpr.org/visitcos.com — Star-Spangled Symphony postponed; Switchbacks vs Phoenix Rising 7 PM Weidner Field still on; Banning Lewis Ranch Vista Park Pavilion free still on; Rock Ledge Ranch 10 AM–4 PM; WWII Aviation Museum 10 AM–5 PM); Crayola PipCubes recall (cpsc.gov/foodpoisoningbulletin.com/mother.ly/weareiowa.com — CreateOn recall; ~9,400 units; Bold Colors + Glitter; 24-piece Michaels ~$20 + 27-piece Amazon ~$35; May–July 2025; magnets come loose seams separate; swallowed magnets attract through intestinal walls → perforations/blockage/blood poisoning/death; stop use; free replacement + pre-paid return label via cpsc.gov/createon); Humor/July 4 fireworks cancelled (no new facts — relies on concurrent Stories 2 + 3 coverage) |
+| Story History Check | COMPLETE | 4 NEW STORIES (AAP July 2026 drowning policy, Pikes Peak first-ever July 4 sunset, Crayola PipCubes recall, July 4 humor) + 1 UPDATE (Star-Spangled Symphony postponed — new since July 2 pipeline); confirmed against story-history.md; AAP drowning guidelines distinct from June 28 angle (July 3 = specific July 2026 Pediatrics policy publication with "touch supervision" as new defined term; June 28 = general guidelines summary) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (2 Tier 1, 3 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 for S1, 2 for S2, 1 each for S3–S5); all under 280 chars; 4 hashtags each; COS voice rules; 0 exclamation marks (initial draft had both draft and final versions in code blocks — rewrote with final versions only; second run: 1 violation at 282 chars; trimmed to 267; third run passed) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; 2–4 emoji per post; COS voice rules; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 7 Gemini base_only prompts (2 per Tier 1 story, 1 per Tier 2 story; 1200x630); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — table format; 7 images across 5 stories; all not_started; photo_source: gemini; model: gemini-2.5-flash-image |
+| Articles | COMPLETE | 5 articles (500–900 words; Quick Reference tables in S2, S3, S4; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 74 claims; HIGH: 184, MEDIUM: 5, LOW: 53; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-03.xlsx (7 posts, 13:06–20:42 MT) + TOBI cosp-postplanner-tobi-2026-07-03.xlsx (7 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-03)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 7 X posts)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [A1, A3, A5], Sarah Morales x2 [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-03.xlsx (7 posts, 13:06–20:42 MT), cosp-postplanner-tobi-2026-07-03.xlsx (7 TOBI posts)
+- **Coverage:** AAP July 2026 drowning prevention policy (July 2026 Pediatrics; touch supervision = designated adult arm's reach no phone; swim lessons start at age 1; no evidence infant lessons before age 1 reduce risk; 4-sided fence 4 ft min self-closing/self-latching; no unsupervised baths until 6; CPR for caregivers; layered approach; healthychildren.org/aap.org/peacehealth.org/guidelinecentral.com); Pikes Peak July 4 first-ever sunset + sunrise events (4 AM gateway opens sunrise last entry 6 AM; 7 PM reopens first-ever sunset 8:29 PM; descent within 1 hr after; $40 adults 16+/$12 ages 6-15/free 5 under on lap; DrivePikesPeak.com advance only; capacity limited; shuttle North Pole parking lot; weather permitting; KRDO.com + coloradosprings.gov); July 4 update Star-Spangled Symphony postponed (symphony fully postponed not just fireworks; Stage II fire restrictions; Switchbacks vs Phoenix Rising 7 PM Weidner Field on; Banning Lewis Ranch Vista Park Pavilion free on; Rock Ledge Ranch 10 AM–4 PM on; WWII Aviation Museum 10 AM–5 PM on; coloradosprings.gov/cpr.org/visitcos.com); Crayola PipCubes recall (~9,400 units; Bold Colors + Glitter varieties; 24-piece Michaels ~$20 + 27-piece Amazon ~$35; May–July 2025; seams separate magnets come loose; swallowed magnets attract through intestinal walls → perforations/blockage/blood poisoning/death; stop use; free replacement + pre-paid return label; cpsc.gov); Managing July 4 without fireworks humor piece (COS-specific alternatives; Pikes Peak summit sunset; Switchbacks game; Banning Lewis Ranch free; Rock Ledge Ranch; WWII Museum; fire restrictions context)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (session resumed from context compaction mid-pipeline; content files 00 through 03 already created; pipeline continued from FB posts onward)
+  - X posts: initial file had both draft and final versions in code blocks — verify-facts.py parsed all code blocks including drafts, flagging 9 char violations. Rewrote file with final versions only. Second run: 1 violation (S1 Tweet B at 282 chars). Fixed by changing "are appropriate starting" to "can start." Third run: ✓ All stories present in all content files.
+  - verify-facts.py: all 5 stories present; image manifest warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - Compile: 7 X posts, 0 FB posts (parser compatibility — same as all prior runs); 22 dashboard items; posting window warnings cosmetic
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from July 2's Sarah Morales [S1, S3, S5])
+
+---
+
+## Prior Run: July 2, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|

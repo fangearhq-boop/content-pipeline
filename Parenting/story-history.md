@@ -2,6 +2,50 @@
 
 ---
 
+## July 3, 2026
+
+### Story 1: The AAP Just Updated Its Drowning Prevention Guidelines. Here's What Parents Need to Know.
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP published updated "Prevention of Drowning" policy statement in the July 2026 issue of *Pediatrics*. Key new emphasis: "touch supervision" (designated adult within arm's reach, no phone, no multitasking) for infants/toddlers/weak swimmers in or near water. Swim lessons appropriate starting at age 1 (increased mobility raises risk); no evidence infant lessons before age 1 reduce drowning. Four-sided pool fence ≥4 ft with self-closing/self-latching gate required. No unsupervised baths until age 6. CPR training for caregivers. No single method prevents all drowning — layered approach required. Distinct from June 28 AAP drowning angle (June 28 was general guidelines; July 3 is the specific July 2026 *Pediatrics* policy publication with updated "touch supervision" terminology). Sources: healthychildren.org, aap.org, peacehealth.org, guidelinecentral.com.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** healthychildren.org/AAP (touch supervision defined, swim lessons at age 1, four-sided fence, no baths alone until 6, CPR, layered approach — all HIGH confidence); July 2026 *Pediatrics* issue (MEDIUM — multiple sources reference July 2026, exact publication date not pinpointed)
+- **Follow-Up Opportunities:** Drowning incident coverage if any occur holiday weekend; swim lesson enrollment reminder for August
+
+### Story 2: Pikes Peak Is Doing Something It's Never Done Before This July 4 — Here's How to Be There
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY — Pikes Peak America's Mountain hosting first-ever July 4 sunset viewing event. Gateway opens 4 AM for sunrise (last timed entry 6 AM), then reopens 7 PM for first-ever sunset event (sunset 8:29 PM, descent must begin within 1 hour). Tickets: $40 adults 16+, $12 ages 6-15, free children 5 and under (must ride on lap). Advance tickets required at DrivePikesPeak.com — none at gateway. Capacity limited. Shuttle from North Pole parking lot. Weather permitting. Sources: KRDO.com, ColoradoSprings.gov.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** KRDO.com (first-ever sunset opening, HIGH); ColoradoSprings.gov (4 AM gateway, 7 PM reopening, 8:29 PM sunset, all ticket prices, advance tickets only, HIGH); shuttle availability (HIGH — confirmed; specific shuttle price MEDIUM)
+- **Follow-Up Opportunities:** Post-event recap; Pikes Peak sunrise openings July 12 + July 18 reminder
+
+### Story 3: July 4 in COS: The Star-Spangled Symphony Is Postponed — Here's What's Still On
+- **Content Pillar:** Local Events
+- **Angle:** UPDATE (July 4 coverage series) — Star-Spangled Symphony at Ford Amphitheater fully postponed (not just fireworks) — new development since July 2 pipeline ran. Stage II fire restrictions remain in effect. Switchbacks vs Phoenix Rising still on at 7 PM (Weidner Field). Banning Lewis Ranch free at Vista Park Pavilion still on. Rock Ledge Ranch 10 AM–4 PM still on. WWII Aviation Museum 10 AM–5 PM still on. Pikes Peak events still on. Sources: ColoradoSpringsSports.org, CPR.org, VisitCOS.com, KRDO.com.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** ColoradoSpringsSports.org (Symphony postponed, HIGH); CPR.org July 1 (Switchbacks still on 7 PM, HIGH); VisitCOS.com (Banning Lewis Ranch, Rock Ledge Ranch, WWII Museum — HIGH)
+- **Follow-Up Opportunities:** July 4 event recap; Symphony rescheduled date when announced
+
+### Story 4: Recall: Crayola-Branded PipCubes Magnetic Building Cubes Pulled Due to Magnet Ingestion Risk
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of Crayola-branded PipCubes magnetic building cubes by CreateOn. About 9,400 units. Bold Colors and Glitter varieties; 24- or 27-piece sets. Sold at Michaels ($20) and Amazon ($35) May–July 2025. Seams separate → magnets come loose → swallowed magnets attract through intestinal walls → perforations/twisting/blockage/blood poisoning/death. Stop use; free replacement via CreateOn/CPSC with pre-paid return label. Sources: cpsc.gov, foodpoisoningbulletin.com, mother.ly, weareiowa.com.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** cpsc.gov (all product details, hazard description, unit count, remedy — HIGH); foodpoisoningbulletin.com/mother.ly (corroborate units, stores, varieties — HIGH)
+- **Follow-Up Opportunities:** Any injury reports; recall completion/replacement confirmation
+
+### Story 5: Your Kid Is Going to Ask About the Fireworks. Here's What to Tell Them (and Do Instead).
+- **Content Pillar:** Humor
+- **Angle:** NEW STORY — Humor/lifestyle piece for COS parents navigating July 4 without fireworks. Light, relatable framing of the "where are the fireworks?" conversation with practical COS alternatives woven in (Pikes Peak first-ever sunset, Switchbacks game, Banning Lewis Ranch free event, Rock Ledge Ranch, WWII Aviation Museum). COS-specific voice celebrating the city's character. No specific facts required; local color and confirmed event details from concurrent July 3 pipeline coverage.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** No new facts — relies on confirmed details from Stories 2, 3 in this run
+- **Follow-Up Opportunities:** Post-July 4 "how did it go?" engagement follow-up
+
+---
+
 ## July 1, 2026
 
 ### Story 1: Check Your Baby Gear — Four Active CPSC Recalls for Sleep, Bath, and Sleepwear Products
