@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-03
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch x4 searches), brief (5 stories), research notes, story analysis, X posts (7; 6 char violations fixed; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (46 claims, 0 char violations after fix), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 7 posts OK). 6 char violations fixed.
+- **Key Stories**: Tia Milloy Day 39/July 4 window IS HERE/FSU+TN+TTU pursuing/16 days to PGF Nationals (Tier 1 FOLLOW UP), NiJaree Canady 0-3 6.87 ERA AUSL/Volts bring Stanford coach Tori Nyberg/mechanics from Tech injuries (Tier 1 NEW), Big 12 Expansion scheduling/UCF+Houston+BYU/first Big 12 season spring 2027 (Tier 2 FOLLOW UP), PGF Nationals 16 days/roster freeze July 13 10 days away (Tier 2 FOLLOW UP), September 1 59 days/2028 contact window/House Settlement 25-player cap (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-02
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (45 claims, 0 char violations), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).

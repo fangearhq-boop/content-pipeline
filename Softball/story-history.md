@@ -3,6 +3,61 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## July 3, 2026
+
+### Story 1: Tia Milloy — Day 39, The Window Is Open
+- **Date:** 2026-07-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Day 38 brief July 2; portal saga since May 25)
+- **Angle:** July 4 weekend has arrived. The recruiting window identified as the last stretch of undivided coaching attention before PGF Nationals (July 19) is open right now. FSU, Tennessee, Texas Tech still pursuing. No commitment. Urgency shift: the moment is here, not coming.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Commitment announcement (could come any day through July 4 weekend)
+  - Post-Nationals chapter if still uncommitted July 19
+
+### Story 2: NiJaree Canady's AUSL Reality Check
+- **Date:** 2026-07-03
+- **Tier:** 1
+- **Classification:** NEW STORY (Canady struggling in AUSL; Volts bring in Stanford coach Tori Nyberg)
+- **Angle:** Canady is 0-3 with 6.87 ERA in her AUSL debut, 17 ER and 7 HRs allowed. Texas Volts brought in former Stanford pitching coach Tori Nyberg (recruited Canady, coached her to 0.57/0.73 ERAs) to fix mechanics altered by Texas Tech injuries. Pro adjustment story with the sport's biggest name.
+- **Content Produced:** Article (article-02, Emily Rawlings), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Canady next AUSL starts — mechanics improvement?
+  - MLBx All-Star 3-on-3 July 12 at Citizens Bank Park (Canady featured)
+  - Texas Volts postseason July 23
+
+### Story 3: The Big 12 Expansion — 2027 Scheduling Implications
+- **Date:** 2026-07-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Conference Realignment July 1 announced July 2; now examining schedule implications)
+- **Angle:** UCF (Florida), Houston (Texas), BYU (Mountain West) now Big 12 members effective July 1. First full conference season spring 2027. Programs building nonconference schedules around new opponents in major recruiting territories.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - 2027 schedule releases (fall 2026)
+  - First Big 12 season games (spring 2027)
+
+### Story 4: PGF Nationals — 16 Days, Roster Freeze in 10
+- **Date:** 2026-07-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP (PGF preview July 2; now 16 days, roster freeze July 13 = 10 days)
+- **Angle:** PGF Nationals July 19 Great Park Irvine. Roster freeze July 13 at 11:59 PM — no additions after that date. 10 days to lock rosters. College coaches finalizing evaluation targets.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Roster freeze passes July 13
+  - PGF Nationals standout performers (late July)
+
+### Story 5: September 1 Is 59 Days Away
+- **Date:** 2026-07-03
+- **Tier:** 3
+- **Classification:** FOLLOW UP (September 1 recruiting calendar; House Settlement context)
+- **Angle:** September 1 opens 2028 contact window in 59 days. House Settlement 25-player cap makes every spot deliberate. PGF Nationals is where coaches build the September call list. Contact period through July 31 = coaches watching, not calling.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Nationals standout 2028 prospects
+  - September 1 contact window opening
+
+---
+
 ## July 2, 2026
 
 ### Story 1: Tia Milloy — Day 38 and the July 4 Clock
