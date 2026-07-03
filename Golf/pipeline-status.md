@@ -1,10 +1,21 @@
 # Golf Fanrecap — Pipeline Status
 
 ## Last Run
-- **Date**: 2026-07-01
+- **Date**: 2026-07-03
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-03
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 2 Tier 2, 1 Tier 3)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Ryan Calloway, Jake Torres, Marcus Cole, Ryan Calloway, Jake Torres)
+- **PostPlanner exports:** gfr-postplanner-2026-07-03.xlsx (9 posts) + gfr-postplanner-tobi-2026-07-03.xlsx (9 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at Golf/golf-content-2026-07-03/review-dashboard.html (23 items)
+- **Notes:** JOHN DEERE CLASSIC LIVE at TPC Deere Run (July 2-5); Davis Riley made first career PGA Tour hole-in-one R1; Zach Johnson at -7 T3; Open Championship at Royal Birkdale July 16-19 (13 days away), R&A projects 300K+ attendance record; Viktor Hovland entering Deere as Travelers champ (-21, playoff over Scheffler, $3.6M, 700 FedExCup pts); Scheffler leads FedExCup 3,511pts; Jackson Koivun pro debut
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-01
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

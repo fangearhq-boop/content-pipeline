@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-03
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-03 | T1 | John Deere Classic Round 2 Live — Davis Riley's Ace Headlines R1 | X, FB, Article | NEW |
+| 2026-07-03 | T1 | Open Championship Countdown — Royal Birkdale Ready in 13 Days | X, FB, Article | NEW |
+| 2026-07-03 | T2 | Viktor Hovland Enters Deere as Travelers Champion | X, FB, Article | NEW |
+| 2026-07-03 | T2 | Scottie Scheffler Leads FedExCup Despite Travelers Heartbreak | X, FB, Article | NEW |
+| 2026-07-03 | T3 | Jackson Koivun's Pro Debut Turns Heads at TPC Deere Run | X, FB, Article | NEW |
+
+### STORY 1: John Deere Classic Round 2 Live — Davis Riley's Ace Headlines R1
+- **Tier:** 1
+- **Category:** PGA Tour / John Deere Classic
+- **Key facts:** 2026 John Deere Classic at TPC Deere Run, Silvis IL (par-71), July 2-5; Davis Riley made first career PGA Tour hole-in-one R1; Zach Johnson 64 (-7) tied 3rd R1; amateur Preston Stout contending; two players tied for lead R1; defending champ Brian Campbell in field; Ben Griffin +1325 favorite; stronger-than-usual field
+- **Status:** NEW
+- **Follow-up ideas:** John Deere Classic R3/R4 results; Riley leaderboard finish; Zach Johnson contention
+
+### STORY 2: Open Championship Countdown — Royal Birkdale Ready in 13 Days
+- **Tier:** 1
+- **Category:** Major Championship / The Open
+- **Key facts:** 154th Open Championship at Royal Birkdale July 16-19; 11th time at Birkdale; 156-player field; Final Qualifying done June 30 (20 spots); James Nicholas medalist Burnham & Berrow (65-67, -10); Wesley Bryan missed 7-footer 72nd hole missed by 1; Last Chance Qualifier July 13 at Birkdale (12 players, 1 spot); R&A CEO Mark Darbon projects 300,000+ attendance (all-time record); 1M+ ticket applications; Phil Mickelson not competing; Tiger Woods "still some time" before return
+- **Status:** NEW
+- **Follow-up ideas:** Open Championship field finalized; LCQ results July 13; first round Birkdale
+
+### STORY 3: Viktor Hovland Enters Deere as Travelers Champion
+- **Tier:** 2
+- **Category:** PGA Tour / Player Feature
+- **Key facts:** Hovland won Travelers Championship June 29 Monday playoff over Scheffler; 8th career PGA Tour win; first win since 2025 Valspar; -21 total (65-61-64-69) TPC River Highlands; $3.6M prize, 700 FedExCup points; Scheffler made 8-foot par Sunday to force playoff, then missed 4-foot birdie on playoff hole; Hovland's mother Galina watching from 18th green first time; Hovland in John Deere field this week
+- **Status:** NEW
+- **Follow-up ideas:** Hovland Deere result; momentum into Open Championship; 9th career win watch
+
+### STORY 4: Scottie Scheffler Leads FedExCup Despite Travelers Heartbreak
+- **Tier:** 2
+- **Category:** PGA Tour / FedExCup
+- **Key facts:** Scheffler leads FedExCup with 3,511 points; Top 10: Scheffler, McIlroy, JJ Spaun, Justin Rose, Tommy Fleetwood, Ben Griffin, Russell Henley, Sepp Straka, Robert MacIntyre, Maverick McNealy; Hovland gained 700 points for Travelers win; Wyndham Clark won 2026 U.S. Open at Shinnecock (-4, wire-to-wire); T4 Scheffler at U.S. Open
+- **Status:** NEW
+- **Follow-up ideas:** FedExCup update post-Deere; Scheffler at The Open; FedExCup playoffs
+
+### STORY 5: Jackson Koivun's Pro Debut Turns Heads at TPC Deere Run
+- **Tier:** 3
+- **Category:** PGA Tour / Rookie Watch
+- **Key facts:** Jackson Koivun making official PGA Tour pro debut at John Deere Classic; +2700 odds; three consecutive top-6 finishes in early events; made cut at 2026 U.S. Open as amateur; TPC Deere Run birdie-friendly suits iron players
+- **Status:** NEW
+- **Follow-up ideas:** Koivun JDC result; pro debut trajectory; rookie of the year watch
+
 ## 2026-07-01
 
 | Date | Tier | Story | Platforms | Status |
