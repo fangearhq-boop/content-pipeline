@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-03
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-03 | T1 | British Grand Prix Sprint Weekend Begins at Silverstone | X, FB, Article | NEW |
+| 2026-07-03 | T1 | Verstappen Exit Clause Crisis — Red Bull on the Brink | X, FB, Article | NEW |
+| 2026-07-03 | T2 | Austrian GP Recap — Russell Wins, Antonelli Extends Lead | X, FB, Article | NEW |
+| 2026-07-03 | T2 | Antonelli vs. Russell — The Intra-Team Mercedes Duel | X, FB, Article | NEW |
+| 2026-07-03 | T3 | The 2026 F1 Revolution — New Rules, New Racing | X, FB, Article | NEW |
+
+### STORY 1: British Grand Prix Sprint Weekend Begins at Silverstone
+- **Tier:** 1
+- **Category:** F1 Race Weekend / British GP
+- **Key facts:** Silverstone sprint weekend July 3-5; only 1 practice session before Sprint Qualifying; FP1 12:30 BST, SQ 16:30 BST July 3; Sprint Race Sat 12:00 BST; GP Qualifying Sat 16:00 BST; British GP Sun July 5 15:00 BST 52 laps; George Russell (home driver) won Austria; drivers note 2026 active aero changes Silverstone character
+- **Status:** NEW
+- **Follow-up ideas:** Sprint qualifying results; Sprint race recap; GP qualifying; British GP race
+
+### STORY 2: Verstappen Exit Clause Crisis — Red Bull on the Brink
+- **Tier:** 1
+- **Category:** F1 Driver News / Max Verstappen / Red Bull
+- **Key facts:** Verstappen holds Red Bull contract through 2028 with performance-based exit clause; if outside top 2 at summer break can leave for 2027; after 8 rounds Verstappen 7th (113 pts); Antonelli leads 171pts, Russell 2nd 131pts; Verstappen 18pts behind Russell, 58pts behind Antonelli; 3 races remain (British, Belgium, Hungary); agent: "must come with opportunity to win"; Red Bull may buy out clause for low double-digit millions; 17 drivers in final year of contracts in 2026
+- **Status:** NEW
+- **Follow-up ideas:** Clause triggered at summer break; Verstappen to new team; Red Bull 2027 driver
+
+### STORY 3: Austrian GP Recap — Russell Wins, Antonelli Extends Lead
+- **Tier:** 2
+- **Category:** F1 Race Recap / Austrian GP
+- **Key facts:** Russell won Austrian GP June 28 (Red Bull Ring); +1.611s over Verstappen; Antonelli 3rd completing Mercedes 1-3 podium; Piastri 4th, Hamilton 5th; Russell pole cleared of yellow flag investigation; Verstappen crashed Turn 9 qualifying; standings: Antonelli 171, Russell 131, Hamilton 125; Mercedes constructors 302, Ferrari 204
+- **Status:** NEW
+- **Follow-up ideas:** British GP result; Mercedes double championship run; Ferrari response
+
+### STORY 4: Antonelli vs. Russell — The Intra-Team Mercedes Duel
+- **Tier:** 2
+- **Category:** F1 Analysis / Mercedes
+- **Key facts:** Antonelli (21yo) leads championship 171pts, 5 wins 4 poles 7 podiums; Russell 2nd 131pts 2 wins; Hamilton 3rd 125pts Ferrari; Wolff rejected Verstappen to Mercedes; question of team orders at Silverstone home race
+- **Status:** NEW
+- **Follow-up ideas:** British GP Mercedes 1-2; team order controversy; Antonelli age records
+
+### STORY 5: The 2026 F1 Revolution — New Rules, New Racing
+- **Tier:** 3
+- **Category:** F1 Technical / 2026 Regulations
+- **Key facts:** MGU-H deleted; MGU-K 350kW (up from 120kW); ~50% electrical power; ~1000hp total; sustainable fuels; full-time active aerodynamics (replaces DRS); wheelbase -200mm to 3.4m; floor -100mm; narrower Pirelli tyres; Adrian Newey (Aston Martin CTO) signals huge upgrade coming
+- **Status:** NEW
+- **Follow-up ideas:** Regulation impact at specific circuits; Aston Martin upgrade package
+
 ## 2026-07-01
 
 | Date | Tier | Story | Platforms | Status |
