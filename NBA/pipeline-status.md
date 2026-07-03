@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-02
+- **Date**: 2026-07-03
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-03
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 9 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Jake Torres, Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole)
+- **PostPlanner exports:** hh-postplanner-2026-07-03.xlsx (8 posts) + hh-postplanner-tobi-2026-07-03.xlsx (8 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-03/review-dashboard.html (24 items)
+- **Notes:** NBA FREE AGENCY DAY 4 — LeBron still undecided; Heat emerge as super team suitor with Giannis+Bam; Warriors still favorites; Ja Morant TRADED to Portland (Murray+Grant to Memphis; Aldama+Biberovic rights to Mavs); LaMelo Ball TRADED to Minnesota Timberwolves; Austin Reaves re-signs Lakers 4yr/$185M (largest undrafted contract ever); AJ Dybantsa signs rookie deal 4yr/$66.91M with Washington
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-02
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)

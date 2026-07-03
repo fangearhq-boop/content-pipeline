@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-03
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-03 | T1 | LeBron James Day 4 — Heat Enters Super Team Talk | X, FB, Article | FOLLOW UP |
+| 2026-07-03 | T1 | Ja Morant Traded to Portland Trail Blazers | X, FB, Article | NEW |
+| 2026-07-03 | T2 | LaMelo Ball Heads to Minnesota Timberwolves | X, FB, Article | NEW |
+| 2026-07-03 | T2 | Austin Reaves Signs $185M Deal with Lakers | X, FB, Article | NEW |
+| 2026-07-03 | T2 | AJ Dybantsa Signs Rookie Deal — No. 1 Pick's Journey Begins | X, FB, Article | NEW |
+
+### STORY 1: LeBron James Day 4 — Heat Enters Super Team Talk
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** LeBron still unsigned Day 4; cannot sign until July 6 (12:01 PM ET moratorium); Heat (now with Giannis+Bam) emerge as serious contender; Warriors still -500 favorites; Cavs +300; LeBron 41yo; willing to accept MLE or vet minimum; Rich Paul fielding calls
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs July 6; Heat super team announcement; Warriors reaction if LeBron goes elsewhere
+
+### STORY 2: Ja Morant Traded to Portland Trail Blazers
+- **Tier:** 1
+- **Category:** NBA Trade / Grizzlies / Trail Blazers
+- **Key facts:** Memphis traded Ja Morant to Portland; Trail Blazers sent Kris Murray + Jerami Grant to Memphis; Mavericks received Santi Aldama + draft rights to Tarik Biberovic; deal executes July 6; Grizzlies in full rebuild
+- **Status:** NEW
+- **Follow-up ideas:** Morant Portland debut; Memphis rebuild plan; Mavs Aldama fit
+
+### STORY 3: LaMelo Ball Heads to Minnesota Timberwolves
+- **Tier:** 2
+- **Category:** NBA Trade / Hornets / Timberwolves
+- **Key facts:** Charlotte Hornets traded LaMelo Ball to Minnesota Timberwolves; Ball No. 3 pick 2020 draft, two-time All-Star; Wolves add ball-handler to Anthony Edwards core
+- **Status:** NEW
+- **Follow-up ideas:** LaMelo-Anthony Edwards fit; Hornets rebuild; Wolves title contention
+
+### STORY 4: Austin Reaves Signs $185M Deal with Lakers
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** Austin Reaves re-signed with LA Lakers 4yr/$185M; largest contract ever for undrafted player; undrafted from Arkansas 2021; Lakers rebuild around Reaves + Kessler
+- **Status:** NEW
+- **Follow-up ideas:** Lakers roster construction; Reaves performance bar; undrafted player records
+
+### STORY 5: AJ Dybantsa Signs Rookie Deal — No. 1 Pick's Journey Begins
+- **Tier:** 2
+- **Category:** NBA Draft / Wizards
+- **Key facts:** AJ Dybantsa (No. 1 pick 2026 draft, BYU, 6-8.5 forward) signed 4yr/$66.91M rookie deal with Washington Wizards July 2; Wizards also signed Trae Young 4yr/$212M; new-look franchise building around two cornerstones
+- **Status:** NEW
+- **Follow-up ideas:** Dybantsa summer league; Wizards roster; Dybantsa + Young fit
+
 ## 2026-07-01
 
 | Date | Tier | Story | Platforms | Status |
