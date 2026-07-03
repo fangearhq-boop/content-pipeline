@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-03
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (45 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). 0 char violations.
+- **Key Stories**: All-Star starters revealed July 4 7:30PM ET FOX/Phase 2 closed July 2/Clement+Ohtani auto-starters/Schlittler AL SP/Witt Jr. 72% AL SS/Marsh 23% NL OF (Tier 1 FOLLOW UP), Derby field/Caminero confirmed (2025 runner-up)/Schwarber 30 HRs conditional yes (back+roster)/Alvarez declined/Netflix July 13 Citizens Bank (Tier 1 FOLLOW UP), Misiorowski 105.5 mph June 26 fastest SP in Statcast era/42 of 50 fastest SP pitches ever/9-3/1.45 ERA/146 K/Brewers 53-31 (Tier 2 NEW angle), Skubal trade/Braves emerge as frontrunner per Steve Phillips/Strider absence creates urgency/85% ESPN/Aug 3 (Tier 2 FOLLOW UP), July 4 FOX schedule/All-Star reveal 7:30PM/Cardinals-Cubs 8:08PM/Mets-Braves 8:08PM/Sunday all 15 games Peacock (Tier 3 NEW)
+
+## Last Run
 - **Date**: 2026-07-02
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (30 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo

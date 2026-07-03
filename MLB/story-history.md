@@ -5,6 +5,64 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-03
+
+### Story 1: All-Star Starters Announced Tomorrow — FOX 7:30 PM ET, Phase 2 Results In
+- **Date:** 2026-07-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (All-Star tracking through July 2 pipeline)
+- **Angle:** Phase 2 voting closed July 2 noon ET. Starters announced live July 4 at 7:30 PM ET on FOX. Auto-starters locked: Ernie Clement (AL DH, 3.23M votes) and Shohei Ohtani (NL DH, 3.34M votes). Cam Schlittler named AL SP. Key Phase 2 battles: Witt Jr. vs Giménez (SS, Witt 72%), Marsh vs. 5 NL OF, Rice vs Guerrero (AL 1B near-split). Full rosters July 6.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Actual starters reveal coverage July 4
+  - Full roster announcement July 6
+  - All-Star Game July 14
+
+### Story 2: Home Run Derby Field — Caminero Confirmed, Schwarber Conditional, Alvarez Out
+- **Date:** 2026-07-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Derby/Schwarber tracking since June 10)
+- **Angle:** Junior Caminero (Rays, 28 HR, 2025 Derby runner-up) first official confirmed participant. Kyle Schwarber (30 HR MLB leader) conditional yes — "if back calms down + make All-Star team." Yordan Alvarez declined. Gunnar Henderson undecided. Derby July 13 Citizens Bank Park on Netflix (first time).
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Schwarber formal commitment (pending All-Star roster + back health)
+  - Full Derby field announced
+  - Derby July 13 coverage
+
+### Story 3: Misiorowski 105.5 MPH — Fastest Starting Pitcher in Statcast Era
+- **Date:** 2026-07-03
+- **Tier:** 2
+- **Classification:** NEW ANGLE (Misiorowski stats covered July 1; velocity record angle new)
+- **Angle:** June 26 vs Cubs: 105.5 mph, fastest pitch ever by a starting pitcher in Statcast era (broke own 104.5 mph record from June 12). Ties Ben Joyce at third-fastest overall. 42 of 50 fastest SP pitches ever recorded. Quote: "I slipped." Brewers 53-31 NL best; 9-3/1.45 ERA/146 K.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Misiorowski second-half velocity tracking
+  - NL Cy Young race ballot updates
+  - Brewers October run
+
+### Story 4: Skubal Trade — Braves Emerge as Frontrunner
+- **Date:** 2026-07-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal market specific angle — Braves vs. Dodgers)
+- **Angle:** Braves named frontrunner by MLB insider Steve Phillips due to Strider injury urgency. Dodgers still favorites at prediction markets. No trade announced. ESPN 85% probability. Tigers ask: 2 top-50 prospects + top-10 org arm + MLB-ready depth. Skubal 2-2/2.22 ERA/23 K in 2026. Boras client, FA this fall. Deadline August 3 (31 days).
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade announcement (any day in July)
+  - Braves vs. Dodgers prospect package comparison
+  - Deadline August 3 final 48 hours
+
+### Story 5: July 4 Baseball — FOX Doubleheader, All-Star Reveal, Star-Spangled Sunday
+- **Date:** 2026-07-03
+- **Tier:** 3
+- **Classification:** NEW (July 4 holiday weekend preview)
+- **Angle:** FOX July 4: All-Star reveal 7:30 PM ET → Cardinals at Cubs 8:08 PM → Mets at Braves 8:08 PM (regional). Sunday July 5 "Star-Spangled Sunday": all 15 MLB games on Peacock (first time one company broadcast all 15 nationally). Mets-Braves noon, Padres-Dodgers SNB 7 PM.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Post-holiday weekend standings analysis
+  - Peacock viewership metrics for Star-Spangled Sunday
+
+---
+
 ## 2026-07-02
 
 ### Story 1: Cubs 23-3 Padres — Swanson 8 RBI From 9-Hole, Suzuki 100th HR, Franchise Record 8 HRs
