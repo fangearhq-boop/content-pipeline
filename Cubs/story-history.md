@@ -5,6 +5,59 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-04
+
+### STORY 1: Cardinals 17, Cubs 1 — Game 1 Recap (July 3)
+- **Angle:** FOLLOW UP (Cardinals 17, Cubs 1 in Game 1; Peterson career-high 10 ER in 3.2 IP; Pallante W (10-5) dominant; Cardinals 17 hits; Winn + Church 3-run HRs; Burleson 4 RBI; Cubs 5-game win streak snapped; record drops to 49-39; Elias stat: first team ever to win by 20+ then lose by 10+)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 2 result (recap July 5 morning)
+  - Bounce-back storyline if Cubs win
+
+### STORY 2: PCA Wins NL Player of the Month for June
+- **Angle:** NEW STORY (announced July 3; .381 BA, 11 HR, 8 SB, 1.249 OPS in June; only Babe Ruth and Lou Gehrig have put up those combined stats in a calendar month; 5.1 WAR No. 3 in baseball; All-Star reserve announcement July 6)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold player celebration)
+- **Follow-Up Opportunities:**
+  - All-Star roster announcement July 6 (PCA expected as reserve)
+  - PCA continued second-half production
+
+### STORY 3: The Whiplash Stat — Bounce-Back Framing
+- **Angle:** NEW STORY (self-aware Cubs fan humor; Elias stat: first team in MLB history to win by 20+ then lose by 10+ in consecutive games [23-3 Padres sweep → 17-1 loss]; setup for Imanaga tonight)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, bold/humor)
+- **Follow-Up Opportunities:**
+  - Tonight's result validates or extends the bounce-back narrative
+
+### STORY 4: Trade Deadline — 30 Days, Rotation on Life Support
+- **Angle:** FOLLOW UP (Sonny Gray target; today's angle = 30 days out; rotation walking wounded count now includes Steele/Brown/Taillon/Horton/Cabrera; Gray 9-1, 2.69 ERA is the answer; Hoyer urgency framing)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, bold urgency take)
+- **Follow-Up Opportunities:**
+  - Any Cubs/Gray trade reporting
+  - Other rotation target news (Webb, Detmers, Ryan, Gore)
+  - Countdown continues (29 days tomorrow)
+
+### STORY 5: Wild Card Watch — Cubs 49-39, Cardinals 46-39
+- **Angle:** FOLLOW UP (wild card standings arc; today's angle = Cardinals just won Game 1 and are 3 games behind Cubs in WC race; tonight's game is a direct playoff position game)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, standings/analysis)
+- **Follow-Up Opportunities:**
+  - Post-game standings update after tonight
+  - Cardinals series Game 3 (July 5 at 1:30 PM CT)
+
+### STORY 6: Pre-Game — Imanaga at Wrigley on Independence Day
+- **Angle:** NEW STORY (pre-game hype; Imanaga [5-6, 4.30 ERA] vs Leahy [6-4, 4.24 ERA]; bounce-back opportunity after 17-1 blowout; Wrigley on July 4th; FOX national broadcast; 7:08 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 5:00 PM CT, pre-game hype)
+- **Follow-Up Opportunities:**
+  - Tonight's Game 2 result (recap July 5)
+  - Imanaga's pitching line
+  - Series finale preview (July 5, 1:30 PM CT)
+
+---
+
 ## 2026-07-03
 
 ### STORY 1: Series Preview — Cardinals at Wrigley, 3-Game July 4th Weekend

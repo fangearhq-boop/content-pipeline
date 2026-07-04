@@ -1,0 +1,210 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-04",
+  "compiled_at": "2026-07-04T09:18:34.545838+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cardinals 17, Cubs 1 — Game 1 Recap (July 3)",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Peterson imploded (career-high 10 ER in 3.2 IP); Pallante dominant (5.2 IP, 1 R); Cardinals had 17 hits; Winn + Church 3-run HRs; Cubs' 5-game win streak snapped; historic Elias Bureau note — first team ever to win by 20+, then lose by 10+",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cardinals 17, Cubs 1. That one stung.\n\nPeterson gave up 10 earned runs in 3 2/3 innings — a career high. Pallante was untouchable. St. Louis put up 17 hits and punched back hard.\n\nFive-game win streak over. Bounce-back starts tonight.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 258
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Cardinals 17, Cubs 1 — Game 1 Recap (July 3)\n**Key Facts:**\n- Final score: Cardinals 17, Cubs 1 — HIGH confidence (CBS Sports recap, ESPN box score, Viva El Birdos)\n- Peterson (L): 10 ER allowed in 3 2/3 IP on 9 H — career-high 10 ER — HIGH confidence (CBS Sports/ESPN)\n- Pallante (W, 10-5): 5 2/3 IP, 5 H, 1 BB — MEDIUM (single AI summary with inline context)\n- Cardinals hits total: 17 — HIGH confidence (multiple sources)\n- Winn: 3-run HR, 4 RBI — HIGH confidence (CBS Sports recap)\n- Church: 3-run HR — HIGH confidence\n- Burleson: 2 H, 4 RBI — HIGH confidence\n- Bregman: 2 H, RBI double (7th inning) — HIGH confidence\n- Game delay: 10 min (thunderstorms) — MEDIUM (single source)\n- Cubs 5-game win streak ended — HIGH confidence (confirmed by record shift 49-38 → 49-39)\n- Cubs record post-game: 49-39 — HIGH (series-context.json, generated July 4 morning)\n- Cardinals record post-game: 46-39 — HIGH (series-context.json)\n- Elias Bureau claim: \"first team in MLB history to win by 20+ runs then lose next game by 10+ runs\" — MEDIUM (one source; per Elias is credible but single-source; needs cross-reference)\n**Sources:**\n- CBS Sports recap: https://www.cbssports.com/mlb/gametracker/recap/MLB_20260703_STL@CHC/\n- ESPN box score: https://www.espn.com/mlb/boxscore/_/gameId/401816007\n- Viva El Birdos recap\n- Bleed Cubbie Blue",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA Wins NL Player of the Month for June",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": ".381 BA, 11 HR, 8 SB, 1.249 OPS in June; Ruth and Gehrig are the only other players to put up that combination of stats in a calendar month; 5.1 WAR, No. 3 in all of baseball; All-Star full roster announcement July 6",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pete Crow-Armstrong wins NL Player of the Month for June.\n\n.381 BA. 11 HRs. 8 SBs. 1.249 OPS. 5.1 WAR — No. 3 in all of baseball.\n\nThe only other players with a month like that? Babe Ruth and Lou Gehrig.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold/Passionate — player celebration",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "PCA NL Player of the Month, June\n**Key Facts:**\n- PCA named NL Player of Month for June — HIGH confidence (BCB, Bleacher Nation, BVM Sports, Yardbarker, Chicago Sun-Times, Yahoo Sports — all confirm same award)\n- June stats: .381 BA, 11 HR, 5 2B, 2 3B, 20 RBI, 21 R, 8 SB, 1.249 OPS, 40 H in 105 AB — HIGH confidence (BCB, BVM Sports, multiple sources agree)\n- Historical comp: Ruth/Gehrig comparison for .375+ BA, .775+ SLG, 80+ total bases, 15+ walks, 10+ HR, 5+ SB — HIGH confidence (Chicago Sun-Times by name; Yardbarker also)\n- Season WAR: 5.1, No. 3 in baseball (behind Sánchez 5.8, Ohtani 5.4) — MEDIUM (one combined source; cross-reference Baseball Reference needed)\n- All-Star reserve selection expected; full roster announcement July 6 — HIGH confidence (multiple sources)\n**Sources:**\n- Bleed Cubbie Blue: https://www.bleedcubbieblue.com/chicago-cubs-news/224120/pete-crow-armstrong-national-league-player-of-the-month-june\n- Bleacher Nation\n- Chicago Sun-Times: https://chicago.suntimes.com/cubs/2026/07/03/pete-crow-armstrong-had-a-june-that-compares-with-babe-ruth-and-lou-gehrig\n- BVM Sports: https://bvmsports.com/2026/07/03/pete-crow-armstrong-wins-a-much-deserved-nl-player-of-the-month/\n- Yardbarker",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "The Whiplash Stat — Bounce-Back Framing",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Elias Bureau stat about being first ever 20+/10+ swing team; 23-3 Padres sweep then 17-1 Cardinals loss; lean into the absurdity, set up the bounce-back narrative; Imanaga reset tonight",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "The Cubs just became the first team in MLB history to win by 20+ runs, then lose the very next game by 10+ runs.\n\n23-3 sweep of the Padres. Then 17-1. That's a 24-hour whiplash for the ages.\n\nImanaga's on the mound tonight. Time to reset.\n\n#Cubs #FlyTheW #GoCubs",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Bold / Humor (self-aware Cubs fan energy)",
+          "hashtags": [
+            "#Cubs",
+            "#FlyTheW",
+            "#GoCubs"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Whiplash Stat / Bounce-Back\n**Key Facts:**\n- 23-3 Cubs win vs Padres (July 1) → 17-1 loss vs Cardinals (July 3) — HIGH confidence (confirmed in both July 2 and July 3 pipeline results)\n- First team ever to win by 20+, then lose next game by 10+ (per Elias) — MEDIUM (single source, Elias is authoritative in baseball stats; but only one article cited it)\n- Imanaga starts tonight — HIGH confidence (multiple preview sources)\n**FACT-CHECK FLAG:** The Elias Bureau claim needs cross-reference. It will be noted in 06-fact-check-log.md.",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline — 30 Days, Rotation on Life Support",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "30 days to August 3; Sonny Gray (9-1, 2.69 ERA) remains the target; Hoyer cannot wait longer",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "30 days to the trade deadline.\n\nSteele is done for the year. Brown out a month-plus. Taillon rehabbing at Iowa. Horton done. Cabrera on IL.\n\nSonny Gray: 9-1, 2.69 ERA. Jed Hoyer, the call has to happen now.\n\n#Cubs #MLB #GoCubs",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Bold take / Urgency",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#GoCubs"
+          ],
+          "char_count": 226
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Trade Deadline — 30 Days Out\n**Key Facts:**\n- Trade deadline: August 3, 2026 — HIGH confidence (established throughout pipeline)\n- 30 days away (from July 4) — HIGH confidence (math: Aug 3 - July 4 = 30 days)\n- Sonny Gray record: 9-1, 2.69 ERA — HIGH confidence (multiple sources: Heavy.com, Yardbarker, CBS Sports, On Tap Sports Net all confirm same line)\n- Gray has full no-trade clause — HIGH confidence (Heavy.com, multiple sources)\n- Red Sox record: 34-46 (sellers) — MEDIUM (single source synthesis)\n- Cubs injured starters: Steele (season-ending), Brown (month-plus), Taillon (Iowa rehab), Horton (season-ending), Cabrera (IL) — HIGH confidence for Steele/Brown/Taillon; confirmed across multiple dates in pipeline\n**Sources:**\n- Heavy.com: https://heavy.com/sports/mlb/chicago-cubs/red-sox-headed-sonny-gray-blockbuster-trade/\n- MLB Trade Rumors: https://www.mlbtraderumors.com/2026/06/cubs-trade-rumors-more-starting-pitching-ben-brown-stress-reaction-neck.html\n- Yardbarker\n- CBS Sports",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Watch — Cubs 49-39, Cardinals 46-39, Tonight Matters",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs hold WC spot at 49-39; Cardinals surged to 46-39; tonight's Wrigley game is a de facto playoff position game",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Tonight's game at Wrigley has direct playoff implications.\n\nCubs: 49-39, holding a Wild Card spot.\nCardinals: 46-39, just 3 games back.\n\nThey won Game 1 17-1. This series isn't just a rivalry — it's a Wild Card battle.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Informative / Standings context",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Wild Card Watch\n**Key Facts:**\n- Cubs: 49-39 — HIGH confidence (series-context.json)\n- Cardinals: 46-39 — HIGH confidence (series-context.json)\n- Cardinals: 3 games behind Cubs in WC — HIGH confidence (49-39 vs 46-39 = 3 GB)\n- Brewers: 53-32 (NL Central leaders) — MEDIUM (one source)\n- Cubs hold Wild Card spot — HIGH confidence (49-39 is a winning record)\n- Cardinals are also in Wild Card race — HIGH confidence (46-39 is above .500)",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game — Imanaga at Wrigley on Independence Day",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Imanaga is the stopper; Wrigley Field on July 4th is one of baseball's great settings; FOX national broadcast; bounce-back energy after yesterday's embarrassment",
+      "posting_window": "5:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Shota Imanaga. Wrigley Field. July 4th.\n\nThe bounce-back game is here. Imanaga (5-6, 4.30 ERA) vs. Kyle Leahy and the Cardinals.\n\nFOX. 7:08 PM CT. The Friendly Confines on Independence Day.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "5:00 PM CT",
+          "tweet_type": "Bold / Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 213
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": {
+        "facts": "Pre-Game Hype\n**Key Facts:**\n- Imanaga stats: 5-6, 4.30 ERA, 92 K in 98.1 IP, 18th start — MEDIUM (one preview source; stats from a single AI synthesis; cross-ref with Baseball Reference recommended)\n- Leahy record: 6-4 per series preview sources / 5-4 per ESPN stats page; ERA 4.24 consistent — UNCERTAIN on W-L; using 6-4 from preview articles; flagged in fact-check\n- Game time: 7:08 PM CT — HIGH confidence (multiple sources, series-context.json)\n- TV: FOX — HIGH confidence (multiple sources)\n- Venue: Wrigley Field — HIGH confidence\n**Sources:**\n- SportsGrid: https://www.sportsgrid.com/mlb/game/st-louis-cardinals-chicago-cubs-scores-odds-picks-props-july-04-2026/d7a4a17c-327a-4b1d-8eda-c9ff079d9807\n- Bleacher Nation: https://www.bleachernation.com/how-to-watch/2026/07/03/cubs-vs-cardinals-start-time-streaming-live-tv-channel-how-to-watch/\n- SI.com matchup breakdown\n- series-context.json",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
