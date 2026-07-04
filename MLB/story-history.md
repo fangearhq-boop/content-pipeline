@@ -3844,3 +3844,167 @@ Each day's stories are appended at the top (newest first).
   - Arraez trade announcement
   - Skubal trade (Tigers holding for max package)
   - Full deadline tracker update
+
+---
+
+## Pipeline Run: July 1, 2026
+
+### Story 1: Skubal Back-to-Back One-Hitters and Trade Deadline Heat
+- **Date:** 2026-07-01
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Skubal tracked from June 26; back-to-back 1-hitters new angle)
+- **Angle:** Back-to-back 1-hitters (June 29: 7IP/13K vs Twins; June 30: 6IP/9K vs Yankees). First win since April 18, 38-day return arc complete. Dodgers frontrunner. Tigers asking top-100 + 2-3 top-10 org prospects. August 3 deadline.
+- **Content Produced:** Article (article-01), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:** Skubal trade announcement, Tigers receiving package, destination postseason run
+
+### Story 2: deGrom Complete Return — 7IP, 2ER, Rangers Win
+- **Date:** 2026-07-01
+- **Tier:** 1
+- **Classification:** NEW STORY (first coverage; deGrom 4-0 in June, full return confirmed)
+- **Angle:** July 1 outing: 7IP/2ER vs Guardians, Rangers 4-2. 4-0 in June. Rangers 6-game winning streak. 100.5 mph July 1 (first 100+ since April 2023). deGrom return declared complete.
+- **Content Produced:** Article (article-02), 2 X posts, FB long-form + caption, Image concepts
+
+### Story 3: Schwarber First to 30 HRs MLB 2026
+- **Date:** 2026-07-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Derby/Schwarber tracked since June 10)
+- **Angle:** First player to 30 HR in 2026. Derby July 13 Citizens Bank Park. Netflix premiere. Uncommitted to Derby formally — back/roster status.
+
+### Story 4: All-Star Phase 2 Closes July 2
+- **Date:** 2026-07-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (All-Star tracked June 28-July 1; Phase 2 closes tomorrow)
+- **Angle:** Phase 2 closes July 2 noon ET. Schlittler AL SP confirmed. Rosters July 4 FOX. Derby Netflix.
+
+### Story 5: Misiorowski 9-3 / 1.45 ERA / 146 K MLB Leader
+- **Date:** 2026-07-01
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Misiorowski tracked June 29-July 1; first half summary)
+- **Angle:** 9-3, 1.45 ERA, 0.768 WHIP, 146 K MLB leader. Brewers 52-31 NL best. NL Cy Young case.
+
+---
+
+## Pipeline Run: July 2, 2026
+
+### Story 1: Cubs 23-3 Rout Padres — Swanson 3 HR / 8 RBI from the 9th
+- **Date:** 2026-07-02
+- **Tier:** 1
+- **Classification:** NEW STORY (June 28 game; Swanson 8 RBI from 9th inning is historically rare)
+- **Angle:** Swanson 3 HR + 8 RBI from 9th (2nd most RBI from 9th in MLB history). Suzuki 100th career HR (4th Japanese-born to reach 100). Cubs franchise record 8 HR in a game. 23-3 final.
+
+### Story 2: All-Star Phase 2 Closes Today / Rosters July 4
+- **Date:** 2026-07-02
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Phase 2 closes today noon ET; rosters on FOX July 4)
+- **Angle:** Phase 2 closes noon ET. Ohtani/Clement auto. Schlittler AL SP. Rosters July 4 FOX 7:30PM. Derby Netflix July 13.
+
+### Story 3: deGrom 100.5 MPH — First 100+ Since April 2023
+- **Date:** 2026-07-02
+- **Tier:** 2
+- **Classification:** NEW STORY (velocity milestone July 1 outing)
+- **Angle:** 100.5 mph July 1 (7IP/9K/2ER vs Guardians). First 100+ since April 2023. Rangers 4-2, 4-0 in June. Return complete.
+
+### Story 4: Skubal Trade Market — Elite Prospect Package
+- **Date:** 2026-07-02
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal market July 1; package specifics new angle)
+- **Angle:** Top-100 + 2-3 top-10 prospect package. Dodgers/Yankees/Blue Jays/Padres. August 3 deadline.
+
+### Story 5: White Sox AL Central Leaders ~41-37 / Murakami 7 HR in 21 Games
+- **Date:** 2026-07-02
+- **Tier:** 3
+- **Classification:** NEW STORY (White Sox turnaround; Murakami Japanese-born HR record pace)
+- **Angle:** White Sox AL Central leaders ~41-37. From 41-121 in 2024. Murakami 7 HR in 21 games (most ever Japanese-born in that span).
+
+---
+
+## Pipeline Run: July 3, 2026
+
+### Story 1: All-Star Starters Revealed Tomorrow — FOX 7PM ET, Phase 2 Closed
+- **Date:** 2026-07-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (All-Star through July 2; eve-of-announcement)
+- **Angle:** Phase 2 closed July 2. Starters revealed July 4 FOX 7PM ET. Schlittler AL SP. Rosters July 6. Ohtani/Clement auto. Expected Witt Jr., Alvarez, Freeman.
+
+### Story 2: Home Run Derby — Schwarber In (Conditional), Caminero In, Field Taking Shape
+- **Date:** 2026-07-03
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Derby tracked since June 10; Schwarber conditional confirms)
+- **Angle:** Schwarber (30 HR, MLB leader) conditional on health/roster. Caminero confirmed (2025 runner-up). July 13 Citizens Bank Park Netflix. 1-2 spots open.
+
+### Story 3: Misiorowski Skips All-Star Game — Brewers Protecting Their Ace
+- **Date:** 2026-07-03
+- **Tier:** 2
+- **Classification:** NEW STORY (Misiorowski skip angle — Brewers resting young ace)
+- **Angle:** Misiorowski (9-3, 1.45 ERA, 0.768 WHIP, 146 K MLB leader) Brewers declining All-Star invitation. Protecting 24yo ahead of critical second half. Brewers 52-31 NL best.
+
+### Story 4: Skubal Trade — Braves Emerge as Frontrunner
+- **Date:** 2026-07-03
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal market July 2; Braves frontrunner new per Steve Phillips)
+- **Angle:** Braves frontrunner per reporting. Strider absence creates urgency. Tigers asking top-20 + MLB-ready arm + power bat. Aug 3.
+
+### Story 5: July 4 FOX Schedule — All-Star Reveal 7:30PM / Cardinals-Cubs / Mets-Braves
+- **Date:** 2026-07-03
+- **Tier:** 3
+- **Classification:** NEW STORY (July 4 FOX schedule preview)
+- **Angle:** July 4: All-Star reveal 7:30PM FOX, Cardinals-Cubs 8:08PM, Mets-Braves 8:08PM. Sunday all 15 games Peacock.
+
+---
+
+## Pipeline Run: July 4, 2026
+
+### Story 1: All-Star Starters Revealed Tonight — FOX 7:30 PM ET
+- **Date:** 2026-07-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (All-Star tracking through July 3; starters revealed tonight)
+- **Angle:** Phase 2 closed July 2. Starters revealed tonight on FOX 7:30 PM ET. Witt Jr. 72% Phase 2 SS lead — potential first All-Star start for Royals SS. Alvarez OPS 1.031 leading DH. Freeman 59% at 1B. Ohtani/Clement auto starters. Full rosters July 6. Game July 14 Citizens Bank Park.
+- **Content Produced:** Article (article-01, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Tonight's Phase 2 results (Witt Jr. / Alvarez / Freeman starter confirmations)
+  - Full All-Star rosters announced July 6 (snubs, surprises)
+  - All-Star Game July 14
+
+### Story 2: Home Run Derby — Schwarber and Caminero Lead the Field
+- **Date:** 2026-07-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Derby tracked June 10-July 4; field nearly finalized)
+- **Angle:** Schwarber conditional on All-Star selection (confirmed tonight), 30+ HR MLB leader, playing home ballpark Citizens Bank Park. Caminero first official confirm, 2025 runner-up. Netflix debut July 13. Alvarez reportedly declined. Additional participants after tonight's roster announcements.
+- **Content Produced:** Article (article-02, Ryan Calloway), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Full Derby field announcement (after tonight's All-Star roster reveal)
+  - July 13 Netflix broadcast and results
+  - Schwarber performance before home crowd
+
+### Story 3: Guardians Take AL Central Lead — 4-3 Win Over White Sox
+- **Date:** 2026-07-04
+- **Tier:** 2
+- **Classification:** NEW STORY (first coverage of Guardians in first place; standings flip July 3)
+- **Angle:** Guardians 46-42, White Sox 45-41 after 4-3 ten-inning win July 3. White Sox held AL Central lead through prior pipeline. First time Guardians covered in first place. Tigers/Twins/Royals faltered. Two-team race with real trade deadline implications.
+- **Content Produced:** Article (article-03, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - AL Central standings through All-Star break
+  - Both teams' trade deadline posture (buyer/seller)
+  - White Sox second half trajectory
+
+### Story 4: Skubal Trade — Braves Are the Frontrunner per Nightengale
+- **Date:** 2026-07-04
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal tracked from June 26; Braves frontrunner per Nightengale is new)
+- **Angle:** Bob Nightengale (USA Today) reports Braves are frontrunners per rival executives. Strider out = urgent rotation need. Skubal + Sale = best 1-2 in baseball. Tigers asking price remains steep. August 3 deadline.
+- **Content Produced:** Article (article-04, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Skubal trade announcement (late July)
+  - Braves prospect package specifics
+  - Trade deadline market resolution
+
+### Story 5: July 4 Baseball — FOX Doubleheader + All-Star Reveal Tonight
+- **Date:** 2026-07-04
+- **Tier:** 3
+- **Classification:** NEW STORY (July 4 as it happens — games + All-Star reveal broadcast guide)
+- **Angle:** FOX carries afternoon games + All-Star Selection Show 7:30 PM ET. Sunday July 5: all 15 games Peacock. Derby July 13 Netflix Citizens Bank Park. All-Star Game July 14 FOX Citizens Bank Park.
+- **Content Produced:** Article (article-05, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - All-Star Game results July 14
+  - Derby results July 13
+  - Second half MLB storylines post-All-Star break

@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-04
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (40 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). 0 char violations.
+- **Key Stories**: All-Star starters revealed tonight FOX 7:30PM ET/Phase 2 closed July 2/Witt Jr. 72% AL SS lead/Alvarez OPS 1.031 NL DH/Freeman 59% NL 1B/Ohtani+Clement auto-starters/Schlittler AL SP confirmed (Tier 1 FOLLOW UP), Home Run Derby field/Schwarber confirmed home ballpark/Caminero first confirmed (2025 runner-up)/Netflix July 13 Citizens Bank Park (Tier 1 FOLLOW UP), Guardians take AL Central lead/4-3 win July 3 10 innings/46-42 vs White Sox 45-41/trade deadline implications both teams (Tier 2 NEW), Skubal/Braves frontrunner per Nightengale/rival executives/Strider absence urgency/Skubal+Sale best 1-2 in baseball/top-100+2-3 top-10 prospect asking price/Aug 3 deadline (Tier 2 FOLLOW UP), July 4 FOX baseball/All-Star reveal 7:30PM/Sunday all 15 games Peacock/Derby July 13 Netflix/All-Star Game July 14 FOX Citizens Bank Park (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-03
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (45 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
