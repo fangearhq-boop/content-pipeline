@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-04
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-04 | T1 | Lucas Glover Leads John Deere Classic at -14 — Two-Shot Edge Into Round 3 | X, FB, Article | FOLLOW UP |
+| 2026-07-04 | T1 | Amateur Preston Stout Contending at John Deere — World No. 1 Amateur Makes a Statement | X, FB, Article | NEW |
+| 2026-07-04 | T2 | LIV Golf Funding Crisis Deepens — CEO Won't Guarantee Final 4 Events of 2026 | X, FB, Article | NEW |
+| 2026-07-04 | T2 | Evian Championship Preview — LPGA's Fifth Major Arrives in France on July 9 | X, FB, Article | NEW |
+| 2026-07-04 | T2 | Scheffler Holds World No. 1 — The King's Court Sits Out John Deere | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Lucas Glover Leads John Deere Classic at -14
+- **Tier:** 1
+- **Category:** PGA Tour / John Deere Classic
+- **Key facts:** Glover 14-under (63+65=128) through 36 holes; zero bogeys; 14 birdies 22 pars; leads by 2 shots over Lee Hodges; best 36-hole score in 582 PGA Tour starts; TPC Deere Run, Silvis IL; Round 3 Saturday July 4; Max Homa, Chris Gotterup, Zac Blair also contending
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Round 3 results; Sunday winner; Glover completes bogey-free run or breaks streak
+
+### STORY 2: Amateur Preston Stout Contending at John Deere
+- **Tier:** 1
+- **Category:** PGA Tour / John Deere Classic / Amateur Golf
+- **Key facts:** Stout = reigning NCAA individual champion (Oklahoma State); world No. 1 amateur (replaced Jackson Koivun who turned pro); T11 through 36 holes; made cut in 4th PGA Tour start; outplayed Jordan Spieth + J.T. Poston in R1; group includes Zach Johnson, Chris Gotterup, Ben Griffin
+- **Status:** NEW
+- **Follow-up ideas:** Stout weekend performance; top-10 finish; future pro debut announcement
+
+### STORY 3: LIV Golf Funding Crisis
+- **Tier:** 2
+- **Category:** LIV Golf / Tour News
+- **Key facts:** LIV needs $400M; PIF provided ~$200M of $600M committed; CEO Scott O'Neil refused to guarantee final 4 events; PIF April statement: funding only through end of 2026 season; O'Neil raising $350M private capital (18 investor meetings); next LIV event July 23-26 JCB Golf England; Koepka + Reed left before 2026
+- **Status:** NEW
+- **Follow-up ideas:** Investor deal announced; LIV event cancellation; Merger/acquisition news
+
+### STORY 4: Evian Championship Preview
+- **Tier:** 2
+- **Category:** LPGA / Major Championship
+- **Key facts:** Amundi Evian Championship July 9-12, 2026; Evian Resort Golf Club, Evian-les-Bains France; $9.10M purse; 5th LPGA major of 2026; Grace Kim won 2025 (3rd consecutive first-time major winner at Evian); field announced next week
+- **Status:** NEW
+- **Follow-up ideas:** Evian Championship R1/leaderboard; winner announcement July 12
+
+### STORY 5: Scheffler Holds World No. 1
+- **Tier:** 2
+- **Category:** PGA Tour / World Rankings
+- **Key facts:** Scheffler world No. 1 as of June 29, 2026 OWGR update; runner-up at Travelers (lost to Hovland in playoff at -21); leads FedExCup 3,511 pts; 4 majors career; sitting out John Deere Classic; next target: Open Championship Royal Birkdale July 16-19
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Scheffler Open Championship performance; FedExCup standings update
+
 ## 2026-07-03
 
 | Date | Tier | Story | Platforms | Status |
