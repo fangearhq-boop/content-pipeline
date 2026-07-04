@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-03 |
-| Writing | Complete (all steps) | 2026-07-03 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 32 claims, 41 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-03 |
-| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 10 images; posting window warnings cosmetic) | 2026-07-03 |
-| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-07-03 |
-| PostPlanner Export | Complete (standard 8 posts 12:50–20:46 ET; TOBI 8 posts) | 2026-07-03 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-03 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-03 |
+| Research | Complete | 2026-07-04 |
+| Writing | Complete (all steps) | 2026-07-04 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 17 claims, 38 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-04 |
+| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 8 images; posting window warnings cosmetic) | 2026-07-04 |
+| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-04 |
+| PostPlanner Export | Complete (standard 17 posts 12:54–21:26 ET; TOBI 12 posts) | 2026-07-04 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-04 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-04 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-04 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (2 Tier 1, 3 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total (PostPlanner xlsx: 17 posts standard, 12 TOBI)
+- **Articles:** 5 (bylines: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-04.xlsx (17 posts, 12:54–21:26 ET), tfr-postplanner-tobi-2026-07-04.xlsx (12 TOBI posts)
+- **Coverage:** Djokovic equals Federer all-time Wimbledon men's record at 105 wins (def. Rinderknech 7-5, 6-4, 1-6, 7-6(4); faces Safiullin R4 Sunday, H2H 3-0; sole record possible with 1 more win); Struff (No. 74) upsets No. 8 Medvedev 7-6(4), 7-6(5), 7-5 (Medvedev led by break in all 3 sets incl. 5-2 3rd set; Struff won all 3 TBs; 4/12 BPs converted; first Wimbledon R4 for Struff); Women's Day 5 sweep (Sabalenka def. Ostapenko 6-4, 6-4; Osaka def. Kasatkina 6-1, 6-3 — first-ever Wimbledon R4; Gauff def. Liu 6-3, 6-7(5), 6-2; Sabalenka Open Era record 21 consecutive GS tiebreak wins); Day 6 — Swiatek vs Eala Centre Court (first grass meeting, H2H 1-1); Rybakina, Zverev, Tiafoe, Keys also in action; Day 7 preview (Djokovic vs Safiullin record chase; Sinner vs Mochizuki; Sabalenka vs Osaka R4 marquee; Alcaraz absent wrist injury)
+- **Notes:**
+  - verify-facts.py: passed; 17 claims, 38 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 7 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 8 images; 22 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (17 posts) and TOBI (12 posts) generated successfully; 12:54–21:26 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Elena Voss [S1, S4], Ryan Calloway [S2, S5], Marcus Cole [S3] (rotating from July 3: Marcus Cole [S1, S4])
 
 ### 2026-07-03 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)

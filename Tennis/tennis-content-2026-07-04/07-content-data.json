@@ -1,0 +1,327 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-04",
+  "compiled_at": "2026-07-04T12:26:08.238441+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Djokovic Equals Federer's All-Time Wimbledon Win Record at 105",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Novak Djokovic records win No. 105 at Wimbledon — equaling Roger Federer's all-time men's record. Only Martina Navratilova (120) has more wins at the All England Club. One more win Sunday and Djokovic stands alone. 🎾👑 #Wimbledon #Djokovic #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Djokovic",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 262
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Djokovic def. Rinderknech 7-5, 6-4, 1-6, 7-6(4). Record-equaling win No. 105 at Wimbledon. He faces Safiullin (No. 132 WC) in the Round of 16 Sunday — leads H2H 3-0. 🎾 #Wimbledon #Djokovic #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Djokovic",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 212
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-djokovic-equals-federer-wimbledon-record.html",
+        "headline": "Djokovic Equals Federer's All-Time Wimbledon Win Record at 105",
+        "word_count": 407
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social (1080x1350 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero (1200x630 landscape)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Djokovic Equals Federer's All-Time Wimbledon Win Record\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Djokovic def. Rinderknech 7-5, 6-4, 1-6, 7-6(4) | HIGH | ATP Tour, Olympics.com, NBC Sports |\n| 105th career match win at Wimbledon | HIGH | NBC Sports, ATP Tour, Olympics.com, WION |\n| Equals Roger Federer's all-time men's Wimbledon win record | HIGH | NBC Sports, ATP Tour, Olympics.com |\n| Martina Navratilova holds the overall record at 120 wins | HIGH | NBC Sports, ATP Tour |\n| R4 opponent: Roman Safiullin (world No. 132, wild card) | HIGH | Sunday Guardian Live, CBS Sports |\n| Safiullin defeated No. 24 seed Joao Fonseca to reach R4 | HIGH | Sunday Guardian Live |\n| Djokovic leads H2H vs Safiullin 3-0 | HIGH | Sunday Guardian Live |\n| Djokovic quote: \"I always try to give quality to the people who pay to come and watch you play.\" | MEDIUM | Puntodebreak (single Spanish-language source) |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Struff Stuns No. 8 Medvedev in Three-Set Masterclass",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "UPSET: Struff (No. 74) def. No. 8 Medvedev 7-6(4), 7-6(5), 7-5. Medvedev led by a break in all three sets — including 5-2 in the third. Struff won every tiebreak. First Wimbledon R4 of his career. 🎾 #Wimbledon #Tennis #TennisFanrecap #Upset",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Tennis",
+            "#TennisFanrecap",
+            "#Upset"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Medvedev: \"I should do better. I am really disappointed.\" The No. 8 seed converted just 4 of 12 break chances vs Struff — who led in every set — and is out of Wimbledon 2026. #Wimbledon #Medvedev #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Medvedev",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 219
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-struff-stuns-medvedev-wimbledon-upset.html",
+        "headline": "Struff Stuns No. 8 Medvedev in Three-Set Wimbledon Masterclass",
+        "word_count": 453
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social (1080x1350 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero (1200x630 landscape)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Struff Stuns No. 8 Medvedev\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Struff def. Medvedev 7-6(4), 7-6(5), 7-5 | HIGH | Tennis Majors, ATP Tour, TSN, Puntodebreak, Tennis Temple |\n| Medvedev seeded No. 8 at Wimbledon 2026 | HIGH | ATP Tour |\n| Medvedev led by a break in all three sets | HIGH | Tennis Majors |\n| Medvedev held 5-2 third-set lead before collapse | HIGH | Tennis Majors |\n| Medvedev converted 4/12 break points | HIGH | Tennis Majors, ATP Tour |\n| Struff is world No. 74 | HIGH | ATP Tour |\n| Struff's first-ever Wimbledon Round of 16 | HIGH | Tennis Majors, ATP Tour |\n| Medvedev quote: \"I should do better. I am really disappointed, because I felt I could do well at Wimbledon.\" | HIGH | ATP Tour official site |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Women's Day 5 Sweep — Sabalenka, Osaka and Gauff All Advance",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Women's Day 5 Wimbledon: Sabalenka def. Ostapenko 6-4, 6-4 ✅ Osaka def. Kasatkina 6-1, 6-3 (first-ever Wimbledon R4) ✅ Gauff def. Liu 6-3, 6-7, 6-2 ✅ Sabalenka vs Osaka Sunday is the R4 marquee match. #Wimbledon #WTA #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#WTA",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 240
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-sabalenka-osaka-gauff-wimbledon-r4.html",
+        "headline": "Sabalenka, Osaka and Gauff All Advance — Wimbledon Women's Day 5 Recap",
+        "word_count": 484
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social (1080x1350 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero (1200x630 landscape)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Women's Day 5 Sweep\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Sabalenka def. Ostapenko 6-4, 6-4 | HIGH | WTA Tennis, Outlook India, multiple outlets |\n| Sabalenka 9 aces vs Ostapenko | HIGH | WTA Tennis |\n| Sabalenka 71% first-serve win rate vs Ostapenko | HIGH | WTA Tennis |\n| Sabalenka converted 4/11 break points | HIGH | WTA Tennis |\n| Osaka def. Kasatkina 6-1, 6-3 | HIGH | Olympics.com, Al Jazeera, Outlook India (4+ sources) |\n| Osaka 5 aces, 25 winners, broke serve 5 times vs Kasatkina | HIGH | Olympics.com |\n| Osaka reaching Wimbledon Round of 16 for first time in career | HIGH | Al Jazeera, Olympics.com |\n| Gauff def. Liu 6-3, 6-7(5), 6-2 | HIGH | Las Vegas Sun (AP wire feed) |\n| Sabalenka will face Osaka in Round of 16 | HIGH | WTA Tennis draw |\n| Sabalenka Open Era record: 21 consecutive Grand Slam tiebreak wins | MEDIUM | Tennishead.net, Outlook India |\n| Record surpasses Djokovic's previous record of 19 | MEDIUM | Tennishead.net |\n| Sabalenka extended record in R2 win over McCartney Kessler 6-1, 7-6(9) | HIGH | Tournament results |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Day 6 Spotlight — Swiatek vs. Eala Headline Saturday's Action",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Today at Wimbledon: Swiatek vs Eala on Centre Court — first-ever grass-court meeting, H2H tied 1-1. An Eala win puts the first Filipino in the Wimbledon R4. Plus Rybakina, Zverev and Keys all in action. #Wimbledon #Tennis #WTA #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Tennis",
+            "#WTA",
+            "#TennisFanrecap"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-day6-swiatek-eala-wimbledon-saturday.html",
+        "headline": "Swiatek vs. Eala Headlines Wimbledon Day 6 — First-Ever Grass-Court Meeting",
+        "word_count": 475
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social (1080x1350 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Day 6 Schedule\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Swiatek vs Eala on Centre Court, Day 6 (July 4) | HIGH | Olympics.com order of play, Manila Times |\n| This is Swiatek and Eala's first grass-court meeting | HIGH | WTA Tennis, Manila Times |\n| Career H2H: 1-1 (Eala won Miami 2025; Swiatek won Madrid 2025) | HIGH | WTA Tennis |\n| Rybakina vs Mertens on Court 1 | HIGH | Olympics.com order of play |\n| Zverev vs Giron on Court 1 | HIGH | Olympics.com order of play |\n| Tiafoe vs Bublik on Day 6 | HIGH | Olympics.com order of play |\n| Anisimova vs Keys on Day 6 | HIGH | Olympics.com order of play |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Day 7 Preview — Round of 16 Begins with Djokovic, Sinner, Sabalenka",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Round of 16 Sunday at Wimbledon: Djokovic vs Safiullin (chasing win No. 106 — sole record). Defending champion Sinner vs Mochizuki. Sabalenka vs Osaka women's marquee. Alcaraz absent with wrist injury. 🎾 #Wimbledon #Tennis #TennisFanrecap #R4",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Tennis",
+            "#TennisFanrecap",
+            "#R4"
+          ],
+          "char_count": 242
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wimbledon-round-of-16-day7-preview.html",
+        "headline": "Wimbledon Round of 16 Preview — Djokovic Chases History, Sinner Defends, Sabalenka vs. Osaka",
+        "word_count": 526
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social (1080x1350 vertical)",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Day 7 Preview\n**Verified Facts:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Djokovic vs Safiullin scheduled for R4 (July 5) | HIGH | Sunday Guardian Live, CBS Sports, Sports Mole |\n| Sinner vs Mochizuki scheduled for R4 (July 5) | HIGH | Sunday Guardian Live, CBS Sports |\n| Sabalenka vs Osaka R4 (July 5) | HIGH | WTA draw |\n| Carlos Alcaraz absent from Wimbledon 2026 (wrist injury) | HIGH | Multiple sources confirm no Alcaraz results |\n| Djokovic record-breaking 106th win is within reach in R4 | HIGH | Confirmed from records |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}
