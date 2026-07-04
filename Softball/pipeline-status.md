@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-04
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch x8 searches + agent), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (64 claims, 0 char violations), compile (5 stories, 6 tweets, 0 FB posts parsed — known format, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 6 posts OK). 0 char violations.
+- **Key Stories**: Tia Milloy Day 40/"forks up 😈" post/possible Arizona State signal/FSU+TN+TTU still in/roster freeze July 13 = 9 days (Tier 1 FOLLOW UP), NiJaree Canady game day vs Bandits 4:30 PM ET/Nyberg mechanics fix/"OG NiJa" goal (Tier 1 FOLLOW UP), Megan Grant UCLA 42 HR NCAA record (prev 37 Espinoza 1995)/91 career HR/ESPYS nomination July 15 (Tier 1 NEW), Karlyn Pickens AUSL 1.47 ERA No. 1 pick Carolina Blaze/contrast Canady (Tier 2 NEW), PGF Nationals 15 days/roster freeze 9 days/September 1 = 59 days (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-03
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch x4 searches), brief (5 stories), research notes, story analysis, X posts (7; 6 char violations fixed; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (46 claims, 0 char violations after fix), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).

@@ -4364,3 +4364,60 @@ _This file tracks every story covered, the angle used, content produced, and fol
   - September 1 commitment rush coverage
   - PGF Nationals 2028 class standouts
   - Early signing day (November) 2027
+
+## July 4, 2026
+
+### Story 1: Tia Milloy — Day 40, "Forks Up" Post Raises Commitment Questions
+- **Date:** 2026-07-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Day 39 July 3; portal saga since May 25)
+- **Angle:** Day 40 in portal. Milloy posted "forks up 😈" on X — gesture associated with Arizona State. No formal commitment announced. FSU still in active conversations (most urgent need post-Torres/Beachum). Tennessee and Texas Tech engaged. July 4 is prime commitment window before PGF Nationals (July 19). Roster freeze July 13 = 9 days.
+- **Content Produced:** Article (article-01, Emily Rawlings), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Commitment announcement (within 9 days before roster freeze July 13)
+  - Program announcement and reaction
+  - Post-PGF Nationals chapter if still uncommitted
+
+### Story 2: NiJaree Canady — Game Day vs Bandits, Nyberg Mechanics Fix
+- **Date:** 2026-07-04
+- **Tier:** 1
+- **Classification:** FOLLOW UP (first coverage July 3; game day + Nyberg angle)
+- **Angle:** Canady (0-3, 6.87 ERA) faces Chicago Bandits today at 4:30 PM ET in Rosemont, IL. Stanford pitching coach Tori Nyberg brought in — injuries at Texas Tech changed her body positioning. First in-game test of mechanical reset. "OG NiJa" goal. AUSL regular season ends July 20; Championship Series July 25-27.
+- **Content Produced:** Article (article-02, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Canady next start performance
+  - Mechanical improvement confirmation
+  - AUSL Championship Series run
+
+### Story 3: Megan Grant UCLA — 42 HR NCAA Record, 2026 ESPYS Nomination
+- **Date:** 2026-07-04
+- **Tier:** 1
+- **Classification:** NEW STORY (first coverage; record set 2026 season; ESPYS July 15)
+- **Angle:** Grant broke NCAA Division I single-season HR record with 42 in 63 games. Previous record: 37 (Laura Espinoza, Arizona, 1995) — held 31 years. UCLA all-time HR leader: 91 career. Nominated for 2026 ESPYS Best Record-Breaking Performance (vs Myles Garrett, Klæbo, Sawe). ESPYS July 15, 8 PM ET, ABC. Texas softball nominated for ESPYS Best Team.
+- **Content Produced:** Article (article-03, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ESPYS results July 15
+  - Grant professional future (AUSL?)
+  - Record durability analysis
+
+### Story 4: Karlyn Pickens AUSL — The No. 1 Pick Is Dominating
+- **Date:** 2026-07-04
+- **Tier:** 2
+- **Classification:** NEW STORY (first dedicated Pickens AUSL coverage; Canady contrast)
+- **Angle:** Pickens (No. 1 overall AUSL pick, Carolina Blaze) has 1.47 ERA in pro debut. Tennessee 2026: 15-8, 1.70 ERA, 194 K in 148 innings, 7 saves (3rd D1). Holds AUSL fastest pitch record. Contrast: same pro debut environment as Canady (0-3, 6.87 ERA), drastically different results.
+- **Content Produced:** Article (article-04, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Pickens AUSL Championship Series performance
+  - Pickens vs Canady head-to-head matchup?
+  - AUSL Pitcher of the Year candidacy
+
+### Story 5: PGF Nationals 15 Days + September 1 Countdown (59 Days)
+- **Date:** 2026-07-04
+- **Tier:** 3
+- **Classification:** FOLLOW UP (PGF tracked since June 30; September 1 since July 1)
+- **Angle:** PGF Nationals July 19, Great Park Irvine, 15 days away. Roster freeze July 13 = 9 days. September 1 Class of 2028 contact window = 59 days. House Settlement 25-scholarship cap raises stakes on every freshman spot.
+- **Content Produced:** Article (article-05, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Roster freeze results (July 13)
+  - PGF Nationals results and commitments (July 19-26)
+  - September 1 Class of 2028 commitment wave
