@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-04
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-04 | T1 | LeBron James Day 5 — Down to Warriors vs. Cavs in 50/50 Battle | X, FB, Article | FOLLOW UP |
+| 2026-07-04 | T1 | Two Days Out — The July 6 Trade Execution Preview | X, FB, Article | FOLLOW UP |
+| 2026-07-04 | T2 | Lakers Continue Retool — Ayton to Wizards, Sexton and Grimes Signed | X, FB, Article | NEW |
+| 2026-07-04 | T2 | Celtics Pivot After Brown Trade — Mitchell Robinson Signed | X, FB, Article | NEW |
+| 2026-07-04 | T2 | Summer League Tips Off — Rookies Hit the Court on July 4 | X, FB, Article | NEW |
+
+### STORY 1: LeBron James Day 5 — Warriors vs. Cavs in 50/50 Battle
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Shams: LeBron deciding between Cavs, Heat, Nuggets, Sixers, Wolves, Warriors; Warriors insider: "50/50 between GSW and Cleveland"; Rich Paul: "If the Knicks hadn't won, he'd be going to the Knicks"; LeBron 41yo; moratorium ends July 6 12:01 PM ET
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs July 6; Warriors or Cavs announcement; press conference
+
+### STORY 2: Two Days Out — The July 6 Trade Execution Preview
+- **Tier:** 1
+- **Category:** NBA Offseason / Trades
+- **Key facts:** Giannis+Portis → Heat (Herro+Ware+Jaquez+Jakucionis+No.13+2031/2033 firsts+2030 swap+2033 2nd) executes July 6; Kawhi → Toronto (Ingram+Dick+future picks) executes July 6; Brown → 76ers / George → Celtics executes July 6; moratorium lifts 12:01 PM ET
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** July 6 execution confirmed; Giannis/Kawhi press conferences; Eastern Conference power map reaction
+
+### STORY 3: Lakers Continue Retool — Ayton to Wizards, Sexton and Grimes Signed
+- **Tier:** 2
+- **Category:** NBA Free Agency / Lakers
+- **Key facts:** Lakers traded Deandre Ayton to Washington Wizards for Jaden Hardy + 2031 and 2032 2nd-round picks; Collin Sexton signed; Quentin Grimes signed; Sandro Mamukelashvili signed; Walker Kessler already 4yr/$130M anchor
+- **Status:** NEW
+- **Follow-up ideas:** Lakers full roster construction; Hardy development; Ayton role in Washington
+
+### STORY 4: Celtics Pivot After Brown Trade — Mitchell Robinson Signed
+- **Tier:** 2
+- **Category:** NBA Free Agency / Celtics
+- **Key facts:** Mitchell Robinson signed Celtics 3yr/$47M; Brown→76ers/George→Celtics executes July 6; Mike Conley 1yr also signed; Tatum+George+Robinson projected core; Celtics hold future PHI first-round picks (2028, 2031) + 2 seconds
+- **Status:** NEW
+- **Follow-up ideas:** Tatum-George pairing grades; Celtics Eastern Conference outlook; Robinson rim protection stats
+
+### STORY 5: Summer League Tips Off — Rookies Hit the Court on July 4
+- **Tier:** 2
+- **Category:** NBA Summer League
+- **Key facts:** Salt Lake City Summer League tips off July 4 at Jon M. Huntsman Center (Univ. of Utah); four teams: Jazz, Hawks, Grizzlies, Thunder; Games: Grizzlies vs. Thunder 3 PM ET, Hawks vs. Jazz 5 PM ET; California Classic started July 3; Las Vegas Summer League July 9-19 (all 30 teams); AJ Dybantsa (Wizards No.1) expected in Las Vegas
+- **Status:** NEW
+- **Follow-up ideas:** Salt Lake City results; Las Vegas Summer League opens July 9; Dybantsa debut performance
+
 ## 2026-07-03
 
 | Date | Tier | Story | Platforms | Status |
