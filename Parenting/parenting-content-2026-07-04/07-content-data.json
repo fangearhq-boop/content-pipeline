@@ -1,0 +1,327 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-04",
+  "compiled_at": "2026-07-04T12:38:14.756055+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "CPSC Warning — Fasando Baby Lounger Linked to Infant Death; Manufacturer Refuses Recall",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "CPSC warning: stop using Fasando Baby Loungers immediately. An infant death was reported. ~6,200 sold on Amazon ~$35. Manufacturer has refused to recall. Remove foam padding, cut cover in half, dispose. Do not resell. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 277
+        },
+        {
+          "label": "Post 1-2",
+          "text": "The Fasando baby lounger is not recalled — the manufacturer refused. The CPSC can warn but cannot force a foreign company to act. Parents: if you have this lounger from Amazon (Aug 2024–Jul 2025, $35), stop using it now. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 280
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-fasando-baby-lounger-cpsc-warning.html",
+        "headline": "CPSC Issues Urgent Warning on Fasando Baby Loungers — Infant Death Reported, Manufacturer Refuses Recall",
+        "word_count": 566
+      },
+      "image_concepts": [
+        {
+          "label": "Image 1A",
+          "size_desc": "Social 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 1B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "CPSC Warning — Fasando Baby Lounger (Infant Death)\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| CPSC issued urgent warning (Notice of Violation, not formal recall) | HIGH | CPSC.gov/Warnings/2026 |\n| Manufacturer: Fasando (seller: Qiyangshiqiguangyuekejiyouxiangongsi, China) | HIGH | CPSC.gov |\n| ~6,200 units sold on Amazon, August 2024–July 2025, ~$35 | HIGH | CPSC.gov, Yahoo News |\n| Hazard: sides too low; foot openings too wide (entrapment); no stand = fall hazard on elevated surface | HIGH | CPSC.gov |\n| An infant death was reported (2-month-old placed in lounger on adult bed, found unresponsive) | HIGH | CPSC.gov, local12.com |\n| Manufacturer refused recall / has not agreed to remedy | HIGH | CPSC.gov |\n| Action: stop using, remove foam, cut cover in half, dispose, do not resell | HIGH | CPSC.gov |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Two More Children's Products Recalled — Target Gigglescape Toy and GOPO Teething Toy",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "RECALL: Target's Gigglescape Under the Sea Popping Toy (~49,000 units, ~$10). Dome detaches, releasing small balls. One child choked. Return to any Target for a full refund. Sold Aug 2025–Jan 2026. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 257
+        },
+        {
+          "label": "Post 2-2",
+          "text": "RECALL: GOPO Toys Pull String Teething Toy (~70,410 units, Amazon $11–$15). Silicone strings can reach back of child's throat. Three choking incidents reported. Destroy toy and email for refund: recalls@gopotoys.com #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 275
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-target-gigglescape-gopo-toys-recall.html",
+        "headline": "Two Children's Product Recalls: Target Gigglescape Toy and GOPO Teething Toy — Both Choking Hazards",
+        "word_count": 512
+      },
+      "image_concepts": [
+        {
+          "label": "Image 2A",
+          "size_desc": "Social 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 2B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Target Gigglescape + GOPO Toys Recalls\n**Target Gigglescape:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Target Gigglescape Under the Sea Popping Toy recalled July 2, 2026 | HIGH | CPSC.gov/Recalls/2026 |\n| ~49,000 units sold at Target, August 2025–January 2026, ~$10 | HIGH | CPSC.gov, KTLA |\n| Hazard: clear plastic dome detaches; small balls inside = choking hazard | HIGH | CPSC.gov |\n| 9 reports of dome detaching; 1 child began choking | HIGH | CPSC.gov |\n| Remedy: return to any Target store for full refund, or request prepaid return label | HIGH | CPSC.gov |\n**GOPO Toys:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| GOPO Toys Pull String Teething Toys recalled June 18, 2026 | HIGH | CPSC.gov/Recalls/2026 |\n| ~70,410 units sold on Amazon, August 2023–March 2026, $11–$15 | HIGH | CPSC.gov, Fox Business |\n| Disc-shaped teether, off-white with gray center ball, 6 multi-colored silicone pull strings | HIGH | CPSC.gov |\n| Hazard: strings too small/long per mandatory standard; can reach back of throat = choking/respiratory distress risk | HIGH | CPSC.gov |\n| 3 reports of choking or respiratory distress | HIGH | CPSC.gov, Daily Voice |\n| Remedy: cut all strings, write \"DESTROYED\" on toy, email photo to recalls@gopotoys.com, full refund | HIGH | CPSC.gov |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "July 4 in Colorado Springs — What's Still Happening Today (Free and Family-Friendly)",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Colorado Springs July 4 guide: Rock Ledge Ranch 10 AM–4 PM ($7–$13, free ages 3 and under) | Banning Lewis Ranch FREE 3–10 PM (bounce houses 4–7 PM) | Switchbacks game 7 PM Weidner Field | Monument parade 10 AM #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-july-4-colorado-springs-family-guide.html",
+        "headline": "July 4 in Colorado Springs — Family Guide to What's Happening Today",
+        "word_count": 630
+      },
+      "image_concepts": [
+        {
+          "label": "Image 3A",
+          "size_desc": "Social 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        },
+        {
+          "label": "Image 3B",
+          "size_desc": "Article Hero 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "July 4 Colorado Springs Events\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| All professional fireworks in Colorado Springs cancelled due to Stage II fire restrictions | HIGH | coloradosprings.gov, gazette.com |\n| Rock Ledge Ranch \"Family Fourth\": 10 AM–4 PM, 1401 Recreation Way | HIGH | rockledgeranch.com |\n| Rock Ledge Ranch admission: $7–$13; free ages 3 and under | HIGH | rockledgeranch.com, visitcos.com |\n| Activities: kids' patriotic parade, Pikes Peak Brass Band, historic re-enactors, pie-eating contest, food trucks | HIGH | rockledgeranch.com, PeakRadar |\n| Banning Lewis Ranch: free, 3–10 PM, Vista Park Pavilion, 8833 Vista Del Pico Drive | HIGH | visitcos.com |\n| Bounce houses at Banning Lewis Ranch: 4–7 PM | HIGH | visitcos.com, PeakRadar |\n| Banning Lewis Ranch: live music (Tiny Pockets 4–6 PM, Funkology 7–9 PM), 30+ food trucks | HIGH | visitcos.com |\n| Switchbacks FC vs Phoenix Rising FC: 7 PM, Weidner Field | HIGH | OurSports Central |\n| Switchbacks post-game fireworks cancelled; game still on | HIGH | OurSports Central |\n| Monument/Tri-Lakes Fourth: pancake breakfast 7 AM, fun run 7 AM, street fair 8 AM–3 PM, children's parade 9:30 AM, main parade 10 AM | HIGH | townofmonument.org, Tri-Lakes Chamber |\n| Fort Carson Freedom Fest (July 3): Tyler Hubbard headliner, free, photo ID required | HIGH | carson.armymwr.com, gazette.com |\n| Consumer fireworks permanently banned in Colorado Springs city limits (fine up to $2,650) | HIGH | coloradosprings.gov |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Nearly 8 in 10 Parents Say Summer Wrecks Their Child's Sleep — New Survey",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "78% of parents say summer wrecks kids' sleep (KeaBabies, June 2026). Heat and longer daylight delay melatonin. Cool dark room, breathable pjs, consistent bedtime. This hits different in COS summer heat. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-summer-sleep-disruption-survey.html",
+        "headline": "78% of Parents Say Summer Wrecks Their Child's Sleep — Here's Why and What Helps",
+        "word_count": 608
+      },
+      "image_concepts": [
+        {
+          "label": "Image 4A",
+          "size_desc": "Social 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "KeaBabies Summer Sleep Survey\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| 78% of parents say summer negatively disrupts child's sleep routine | HIGH | PR Newswire / KeaBabies June 2026 survey |\n| 55% of parents lose 1 or more hours of sleep per night due to child's summer sleep struggles | HIGH | PR Newswire |\n| Survey: parents/guardians of children ages 0–4, conducted June 2026 | HIGH | PR Newswire |\n| 57% adjusting family schedules; 50% actively searching for solutions | HIGH | PR Newswire |\n| Root cause: higher ambient temperature disrupts body cooling; longer daylight delays melatonin | MEDIUM | Expert commentary cited in KeaBabies release |\n| 77% of parents rank breathability as top priority for sleepwear | HIGH | PR Newswire |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "AAP Releases New Screen Time Framework — It's Less About Hours, More About What and How",
+      "tier": 0,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "The AAP updated screen time rules in 2026 — the 2-hour limit is out. New: 5 Cs framework (Child, Content, Calm, Crowding Out, Communication). Still firm: no screens under 18 months; device-free bedrooms and meals. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-aap-screen-time-5-cs-framework.html",
+        "headline": "AAP Replaces the 2-Hour Screen Time Rule With a More Practical Framework — Here's What Changed",
+        "word_count": 605
+      },
+      "image_concepts": [
+        {
+          "label": "Image 5A",
+          "size_desc": "Social 1200x630",
+          "search_terms": [],
+          "text_overlay": [],
+          "composition": "",
+          "usage": ""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "AAP New Screen Time \"5 Cs\" Framework\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| AAP released updated screen time guidance in early 2026 (February 2026) | HIGH | EdSurge Feb 5, 2026; CHOC Health blog |\n| New framework: \"5 Cs\" — Child, Content, Calm, Crowding Out, Communication | HIGH | AAP.org, EdSurge, CHOC |\n| No longer a simple 2-hour daily limit — approach is more nuanced | HIGH | EdSurge, CHOC |\n| Still firm: No screens under 18 months except video chat | HIGH | AAP.org, HealthyChildren.org |\n| Still firm: Ages 2–5, limit to ~1 hour high-quality content on weekdays | HIGH | AAP.org |\n| New emphasis: device-free bedrooms and mealtimes; no screens 1 hour before bed | HIGH | AAP.org, CHOC |\n| Recommend written \"Family Media Plan\" | MEDIUM | CHOC, EdSurge (citing AAP) |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 8
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

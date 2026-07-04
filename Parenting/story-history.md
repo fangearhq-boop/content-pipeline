@@ -2,6 +2,50 @@
 
 ---
 
+## July 4, 2026
+
+### Story 1: CPSC Issues Urgent Warning on Fasando Baby Loungers — Infant Death Reported, Manufacturer Refuses Recall
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC issued a Notice of Violation (not a standard recall) against Fasando Baby Loungers after an infant death was reported. A 2-month-old was found unresponsive after being placed on an adult bed in the lounger. Manufacturer is China-based and has refused to recall, stop selling, or offer any remedy. About 6,200 units sold on Amazon for ~$35, Aug 2024–Jul 2025. CPSC instructs parents to destroy product: remove foam padding, cut cover in half, dispose. Do not donate or resell. Sources: cpsc.gov, babyearth.net, saferproducts.gov.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov (Notice of Violation, infant death, 6,200 units, ~$35, Amazon, Aug 2024–Jul 2025, design violations, destruction instructions — HIGH); seller name Qiyangshiqiguangyuekejiyouxiangongsi confirmed (HIGH); 2-month-old age at time of incident (HIGH)
+- **Follow-Up Opportunities:** Any CPSC enforcement action against Fasando; Vevor Baby Lounger recall (related pattern) update
+
+### Story 2: Two Children's Product Recalls — Target Gigglescape Popping Toy and GOPO Teething Toy
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Two separate choking hazard recalls. (1) Target Gigglescape Under the Sea Popping Toy: ~49,000 units, ~$10, Target stores, Aug 2025–Jan 2026. Clear dome detaches, releasing small balls; 9 reports, 1 choking incident. Full refund at any Target or by mail. (2) GOPO Toys Pull String Teething Toy: ~70,410 units, $11–$15, Amazon, Aug 2023–Mar 2026. Silicone strings too long/thin per mandatory standard; can lodge in back of child's throat causing respiratory distress. 3 incidents reported. Destroy strings, write DESTROYED, email photo to recalls@gopotoys.com for full refund. Sources: cpsc.gov, cpsc.gov recall database.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov (all details for both recalls — unit counts, prices, retailers, dates, hazard descriptions, remedies — HIGH); recall dates July 2 and June 18, 2026 (HIGH)
+- **Follow-Up Opportunities:** Any new recalls from CPSC in coming days; recall completion confirmation
+
+### Story 3: July 4 in Colorado Springs — Family Guide to What's Happening Today
+- **Content Pillar:** Local Events
+- **Angle:** NEW STORY (July 4, 2026 specific) — Most professional fireworks cancelled in COS due to Stage II fire restrictions. Consumer fireworks permanently banned in city limits (fines up to $2,650). Still on: Rock Ledge Ranch Family Fourth (10 AM–4 PM, $7–$13), Banning Lewis Ranch free celebration (3–10 PM, Vista Park Pavilion), Switchbacks vs Phoenix Rising FC (7 PM, Weidner Field, post-game fireworks cancelled), Monument/Tri-Lakes full-day celebration including pancake breakfast, Palmer Lake Fun Run, street fair, parade. Sources: coloradosprings.gov, KRDO.com, VisitCOS.com, Tri-Lakes Chamber website.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** Rock Ledge Ranch timing, pricing, programming (HIGH); Banning Lewis Ranch hours, location, food trucks, bands (HIGH); Switchbacks kickoff 7 PM Weidner Field (HIGH); Monument celebration full schedule (HIGH); Stage II fire restrictions in effect (HIGH); consumer fireworks ban and fine amount (HIGH)
+- **Follow-Up Opportunities:** Post-July 4 event recap; any fire restriction updates through summer
+
+### Story 4: Nearly 8 in 10 Parents Say Summer Wrecks Their Child's Sleep
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — KeaBabies June 2026 survey: 78% of parents say summer disrupts child's sleep; 55% lose at least 1 hour of sleep per night because of it. Two main causes: temperature (body needs to cool to fall asleep; hot nights make this harder for young children) and extended daylight (delays melatonin production). COS-specific angle: 300 days of sunshine per year, high altitude and dry air increase hydration needs. Evidence-based tips included. Sources: KeaBabies survey (June 2026), sleep science via HealthyChildren.org and sleep research literature.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** KeaBabies June 2026 survey — 78% figure and 55% figure (HIGH — from press release); COS averages 300 days sunshine per year (HIGH); 65–70°F optimal bedroom temp range (HIGH — widely cited); D11/D20/D49 return to school in August (HIGH)
+- **Follow-Up Opportunities:** Back-to-school sleep schedule reset content in late July/August
+
+### Story 5: AAP Replaces the 2-Hour Screen Time Rule With the 5 Cs Framework
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — AAP early 2026 update replaces rigid 2-hour daily limit (in place since 2016) with the "5 Cs" framework: Child, Content, Calm, Crowding Out, Communication. Previous guidance treated all screens equally regardless of content quality or co-viewing. Still firm: no screens under 18 months (except video calls), ~1 hour high-quality content weekdays for ages 2–5, device-free bedrooms and mealtimes, no screens within 1 hour of bedtime. AAP Family Media Plan tool free at HealthyChildren.org. Sources: HealthyChildren.org, AAP.org.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** AAP 2026 guidance update (HIGH); 5 Cs framework names (HIGH); 2016 original guidance (HIGH); under 18 months no screen except video calls (HIGH); ages 2–5 ~1 hour weekdays still recommended (HIGH); no screens 1 hour before bedtime (HIGH); HealthyChildren.org Family Media Plan tool (HIGH)
+- **Follow-Up Opportunities:** AAP guidance on AI-generated content (mentioned as forthcoming); back-to-school screen time routine reset
+
+---
+
 ## July 3, 2026
 
 ### Story 1: The AAP Just Updated Its Drowning Prevention Guidelines. Here's What Parents Need to Know.

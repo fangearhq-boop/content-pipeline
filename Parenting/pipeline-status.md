@@ -1,6 +1,46 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 3, 2026
+## Latest Run: July 4, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Fasando Baby Lounger CPSC warning (cpsc.gov — Notice of Violation, not recall; infant death reported 2-month-old on adult bed; ~6,200 units Amazon ~$35 Aug 2024–Jul 2025; China-based seller refused recall; design violations side height + foot openings; destroy foam+cover in half; seller: Qiyangshiqiguangyuekejiyouxiangongsi); Target Gigglescape recall (cpsc.gov — ~49,000 units ~$10 Aug 2025–Jan 2026; dome detaches small balls; 9 reports 1 choking incident; full refund at Target or by mail); GOPO Toys Pull String Teething Toy recall (cpsc.gov — ~70,410 units $11–$15 Amazon Aug 2023–Mar 2026; strings too long per mandatory standard; can lodge in throat; 3 incidents; destroy + email recalls@gopotoys.com for refund); July 4 COS events (coloradosprings.gov/krdo.com/visitcos.com/Tri-Lakes Chamber — Stage II fire restrictions; most fireworks cancelled; consumer ban fines up to $2,650; Rock Ledge Ranch 10 AM–4 PM $7–$13; Banning Lewis Ranch free 3–10 PM Vista Park Pavilion; Switchbacks vs Phoenix Rising 7 PM Weidner Field; Monument/Tri-Lakes all-day celebration); Summer sleep survey (KeaBabies June 2026 — 78% parents say summer disrupts sleep; 55% lose 1 hr/night; temperature and daylight as main causes; 77% rank breathability top priority); AAP 5 Cs screen time update (HealthyChildren.org/AAP.org — 2016 2-hr limit replaced with 5 Cs framework early 2026; Child/Content/Calm/Crowding Out/Communication; under 18 months no screens except video calls; ages 2–5 ~1 hr high-quality weekdays; no screens 1 hr before bedtime; device-free bedrooms + mealtimes) |
+| Story History Check | COMPLETE | 5 NEW STORIES (Fasando CPSC warning, Gigglescape+GOPO recalls, July 4 COS guide, summer sleep survey, AAP 5 Cs update); confirmed against story-history.md; Fasando warning distinct from standard recall coverage; July 4 COS guide distinct from July 3 events-still-on story |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Sarah Morales (S1, S3, S5), Jamie Rivera (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 7 posts (2 for S1, 2 for S2, 1 each for S3–S5); all under 280 chars; 4 hashtags each; COS voice rules; 0 exclamation marks; fixed S1 Tweet B (281→280 chars by removing ~ from ~$35) |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice rules; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 9 Gemini base_only prompts (2 per Tier 1 story, 1 per Tier 2 story; 1200x630); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — table format; 9 images across 5 stories; all not_started; photo_source: gemini; model: gemini-2.5-flash-image |
+| Articles | COMPLETE | 5 articles (500–900 words; Quick Reference tables in S2, S3, S5; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Sarah Morales (A1, A3, A5), Jamie Rivera (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 85 claims; HIGH: 121, MEDIUM: 26, LOW: 82; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 7 X posts, 0 FB posts (parser compatibility), 5 articles, 8 images; 22 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 22 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-04.xlsx (17 posts, 13:09–21:25 MT) + TOBI cosp-postplanner-tobi-2026-07-04.xlsx (12 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-04)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 7 X posts + 5 FB long-form + 5 FB captions = 17 total posts (PostPlanner xlsx: 17 posts standard, 12 TOBI)
+- **Articles:** 5 (bylines: Sarah Morales x3 [A1, A3, A5], Jamie Rivera x2 [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-04.xlsx (17 posts, 13:09–21:25 MT), cosp-postplanner-tobi-2026-07-04.xlsx (12 TOBI posts)
+- **Coverage:** Fasando Baby Lounger CPSC warning (Notice of Violation not recall; infant death 2-month-old; ~6,200 units Amazon ~$35 Aug 2024–Jul 2025; China-based seller refused recall; destroy foam+cover; cpsc.gov); Target Gigglescape Under the Sea Popping Toy recall (~49,000 units ~$10 Aug 2025–Jan 2026; dome detaches small balls; 9 reports 1 choking incident; full refund at Target); GOPO Toys Pull String Teething Toy recall (~70,410 units $11–$15 Amazon Aug 2023–Mar 2026; strings too long; 3 incidents; destroy + email recalls@gopotoys.com); July 4 COS events guide (Stage II fire restrictions; most fireworks cancelled; consumer ban fines up to $2,650; Rock Ledge Ranch 10 AM–4 PM $7–$13; Banning Lewis Ranch free 3–10 PM; Switchbacks 7 PM Weidner Field; Monument/Tri-Lakes all-day); Summer sleep survey (KeaBabies June 2026; 78% disrupted; 55% lose 1 hr/night; temperature + daylight causes; COS dry/high-altitude hydration angle); AAP 5 Cs screen time update (2016 2-hr limit replaced; 5 Cs: Child/Content/Calm/Crowding Out/Communication; under 18 months + ages 2–5 + bedtime screen rules still firm)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche
+  - Session resumed from context compaction with all 5 content files (00–05) and all 5 articles already written
+  - X posts: S1 Tweet B at 281 chars — fixed by removing ~ from ~$35 (281→280)
+  - verify-facts.py: all 5 stories present in all content files; image manifest warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - Compile: 7 X posts, 0 FB posts (parser compatibility — same as all prior runs); 22 dashboard items; posting window warnings cosmetic
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Sarah Morales [S1, S3, S5], Jamie Rivera [S2, S4] (rotating from July 3's Jamie Rivera [S1, S3, S5])
+
+---
+
+## Prior Run: July 3, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
