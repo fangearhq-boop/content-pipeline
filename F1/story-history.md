@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-04
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-04 | T1 | Hamilton Grabs Sprint Pole at Silverstone — Ferrari's Home Dream Begins | X, FB, Article | FOLLOW UP |
+| 2026-07-04 | T1 | Sprint Race Day — Hamilton vs. Antonelli at Noon BST | X, FB, Article | FOLLOW UP |
+| 2026-07-04 | T2 | Cadillac's Stars-and-Stripes Livery at F1's Birthplace on July 4 | X, FB, Article | NEW |
+| 2026-07-04 | T2 | The Antonelli Phenomenon — Championship Leader at 21 | X, FB, Article | FOLLOW UP |
+| 2026-07-04 | T2 | British GP Saturday — Sprint, Qualifying, and Sunday's Race Preview | X, FB, Article | FOLLOW UP |
+
+### STORY 1: Hamilton Grabs Sprint Pole at Silverstone
+- **Tier:** 1
+- **Category:** British GP / Sprint Qualifying
+- **Key facts:** Hamilton (Ferrari) sprint pole 1:28.376; beat Antonelli (Mercedes) by 0.011s; Verstappen 3rd (+0.343s); Leclerc 4th; Russell 5th; Hamilton fastest in practice and all 3 SQ segments; called it "amazing surprise"; sprint race noon BST July 4; main qualifying 4 PM BST
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint race result; Hamilton qualifying Sunday; British GP main race
+
+### STORY 2: Sprint Race Day — Hamilton vs. Antonelli
+- **Tier:** 1
+- **Category:** British GP / Sprint Race
+- **Key facts:** Sprint race Saturday July 4 noon BST (7 AM ET); 17 laps; top 8 score points; Hamilton from pole vs Antonelli P2; GP qualifying same day 4 PM BST; Sunday race 3 PM BST (10 AM ET)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sprint race winner; qualifying result; Sunday race grid/result
+
+### STORY 3: Cadillac's Stars-and-Stripes Livery at Silverstone
+- **Tier:** 2
+- **Category:** British GP / Cadillac F1
+- **Key facts:** Cadillac F1 running special patriotic stars-and-stripes livery at British GP July 4 (America's 250th); Silverstone hosted first-ever F1 World Championship race May 13 1950; Cadillac has 0 points after 8 races in 2026
+- **Status:** NEW
+- **Follow-up ideas:** Cadillac points finish; team 2026 progress update
+
+### STORY 4: The Antonelli Phenomenon — Championship Leader at 21
+- **Tier:** 2
+- **Category:** F1 Championship
+- **Key facts:** Antonelli 171 pts after 8 races; 40 pts ahead of Russell (131); Norris+Leclerc tied at 79 pts; 5 wins, 4 poles, 7 podiums in 8 races; British GP is race 9 of 22; qualified P2 at Silverstone (+0.011s behind Hamilton)
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Antonelli sprint/Sunday result; championship gap after British GP
+
+### STORY 5: British GP Saturday Schedule and Preview
+- **Tier:** 2
+- **Category:** British GP / Race Preview
+- **Key facts:** Sprint noon BST (7 AM ET); qualifying 4 PM BST (11 AM ET); Sunday race 3 PM BST (10 AM ET); first Silverstone sprint since 2021; race 9 of 22; perfect weather forecast no rain mid-20s
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Sunday British GP race result
+
 ## 2026-07-03
 
 | Date | Tier | Story | Platforms | Status |
