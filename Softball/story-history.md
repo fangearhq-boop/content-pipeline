@@ -3,6 +3,59 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## July 5, 2026
+
+### Story 1: Tia Milloy Commits to Arizona State — 41-Day Portal Saga Ends
+- **Date:** 2026-07-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP → BREAKING (Days 38–40 covered July 2–4; commitment July 5)
+- **Angle:** After 41 days and a "forks up 😈" July 4 post, Milloy committed to Arizona State. FSU (most urgent need), Tennessee, and Texas Tech all missed out. ASU lands a left-handed utility player with two years of eligibility, .295 BA, 9 HR, .986 OPS at Oklahoma. Roster freeze 8 days away when commitment landed.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Fall camp role at ASU (August)
+  - 2027 season debut
+
+### Story 2: Canady's Comeback Falls Short — Volts Lose 4-3 to Bandits
+- **Date:** 2026-07-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP (first Canady coverage July 3; game day July 4; result covered today)
+- **Angle:** Volts led 3-0, Bandits scored 4 runs in the fifth inning for a 4-3 comeback win on July 4. Canady remains 0-3 with a 6.87 ERA. Bandits were 14-7 heading in — legitimate competition. Tori Nyberg mechanics reset ongoing. Regular season ends July 20.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Canady next AUSL start — mechanics improvement check
+  - Championship Series July 25-27
+
+### Story 3: Megan Grant ESPYS — 10 Days to Vote
+- **Date:** 2026-07-05
+- **Tier:** 2
+- **Classification:** FOLLOW UP (record first covered July 4; ESPYS voting push angle new)
+- **Angle:** Grant nominated for Best Record-Breaking Performance at ESPYS (July 15, 8 PM ET, ABC). Broke NCAA record of 37 HR with 42 in 63 games (record stood 31 years). Competition: Myles Garrett (NFL), Klæbo (skiing), Sawe (running). Vote once/day at ESPN.com through July 15.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ESPYS winner July 15
+
+### Story 4: Karlyn Pickens Leading AUSL All-Star Voting
+- **Date:** 2026-07-05
+- **Tier:** 2
+- **Classification:** FOLLOW UP (first covered July 4; All-Star voting angle new)
+- **Angle:** No. 1 pick is leading AUSL All-Star Cup voting alongside Reese Atwood. 2-0, 1.47 ERA. Win 1: 11-2 run-rule over Cascade (complete game, 5 K). Win 2: 9-1 over Volts in 6 innings. Contrast with Canady (No. 2 pick, 0-3, 6.87 ERA) is the defining story of early pro softball.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - AUSL All-Star Cup event
+  - Championship Series July 25-27
+
+### Story 5: PGF Nationals 14 Days — Roster Freeze 8 Days
+- **Date:** 2026-07-05
+- **Tier:** 3
+- **Classification:** FOLLOW UP (summer calendar tracker since June 30; Milloy commit gives fresh context)
+- **Angle:** PGF Nationals 14 days (July 19, Great Park Irvine). Roster freeze 8 days (July 13). September 1 contact window 58 days. Milloy's commitment to ASU is example of last-minute roster move before freeze.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Roster freeze passes July 13
+  - PGF Nationals standout performers (late July)
+
+---
+
 ## July 3, 2026
 
 ### Story 1: Tia Milloy — Day 39, The Window Is Open

@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-05
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents x2), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (66 claims, 0 char violations), compile (5 stories, 6 tweets, 0 FB posts parsed — known format, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 6 posts OK). 0 char violations.
+- **Key Stories**: Tia Milloy commits to Arizona State after "forks up" July 4 post/41-day saga ends/FSU+TN+TTU miss out (Tier 1 BREAKING), Bandits beat Volts 4-3 on fifth-inning comeback July 4/Canady 0-3 6.87 ERA/Nyberg reset ongoing (Tier 1 FOLLOW UP), Megan Grant ESPYS vote push/Best Record-Breaking Performance/July 15 ABC/vote at ESPN.com (Tier 2 FOLLOW UP), Karlyn Pickens No. 1 AUSL All-Star vote/2-0/1.47 ERA/Pickens-Canady contrast (Tier 2 FOLLOW UP), PGF Nationals 14 days/roster freeze 8 days/September 1 58 days (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-04
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch x8 searches + agent), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (64 claims, 0 char violations), compile (5 stories, 6 tweets, 0 FB posts parsed — known format, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
