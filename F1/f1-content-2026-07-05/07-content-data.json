@@ -1,0 +1,269 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-05",
+  "compiled_at": "2026-07-05T11:33:17.286104+00:00",
+  "niche": {
+    "brand_name": "F1 Fanrecap",
+    "brand_short": "F1FR",
+    "content_prefix": "f1-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Antonelli Doubles Up at Silverstone — Sprint Win and Qualifying Pole",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Kimi Antonelli doubled up at Silverstone: sprint race WINNER then qualifying POLE.\n\nHe passed Hamilton on Lap 8 at the Hangar Straight using Boost — and Hamilton had no answer.\n\nAntonelli now leads the championship by 43 points. #F1 #BritishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Antonelli pole time at Silverstone: 1:28.111.\n\nLeclerc P2 (+0.175s), Hamilton P3 for Sunday's British GP.\n\nAntonelli and Leclerc share the front row. The title leader starts from pole. 🏁 #F1 #BritishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 201
+        }
+      ],
+      "facebook": {
+        "long_form": "🏆 ANTONELLI OWNS SILVERSTONE: SPRINT WIN + QUALIFYING POLE IN ONE DAY\n\nKimi Antonelli had the kind of day at Silverstone that championship seasons are made of. Not content with just winning the British GP sprint race, the 19-year-old Mercedes driver then went out and claimed pole position for Sunday's main event — completing one of the most dominant double performances of the 2026 season.\n\nIn the sprint race, Antonelli started from P2 and bided his time behind Lewis Hamilton, who had taken sprint pole at his home circuit. The race turned on Lap 8, when Antonelli deployed his Boost system on the famous Hangar Straight. The Mercedes hit a pace Hamilton's Ferrari simply could not match. Hamilton, who had led with conviction to that point, had no answer. Antonelli crossed the line 2.745 seconds clear.\n\nThen came qualifying. Where the sprint pole had been Hamilton's by 0.011 seconds, the main event qualifying was Antonelli's by a more comfortable margin. His pole lap of 1:28.111 put Charles Leclerc 0.175 seconds behind in second, with Hamilton in third and Russell fourth.\n\nThe result: Antonelli goes into Sunday's 52-lap British Grand Prix from pole position, having already banked 8 sprint points to extend his championship lead.\n\nThis was Antonelli's first sprint victory since the Monaco Grand Prix. After today, he leads the 2026 Drivers' Championship by 43 points.\n\nWho can stop Kimi Antonelli? Tell us in the comments.",
+        "image_caption": "Sprint win. Qualifying pole. Kimi Antonelli owned Silverstone today. The championship leader extends his lead to 43 points. 🏁 #F1 #BritishGP",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-antonelli-sprint-win-pole-silverstone.html",
+        "headline": "Antonelli's Perfect Day: Sprint Victory and Qualifying Pole at Silverstone",
+        "word_count": 498
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Antonelli Sprint Win + Qualifying Pole\n\n**Image Concept 1A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Dramatic sports graphic celebrating a double achievement — split design with \"SPRINT WIN\" on top half and \"POLE POSITION\" on bottom half. Silver/black Mercedes color palette with dramatic race lighting. Silverstone circuit illustration subtly in background. Clean Canva-ready editorial design.\n- **Search term (imagn):** \"Kimi Antonelli Mercedes\"\n- **Caption overlay text idea:** \"Double Day — Sprint Win + Pole at Silverstone\"\n\n**Image Concept 1B — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Bold \"POLE: 1:28.111\" stat callout on dark racing background. Silverstone circuit silhouette visible. Mercedes silver and teal accents, dramatic floodlight lighting aesthetic. Clean championship-themed editorial design for Canva text overlay.\n- **Search term (imagn):** \"Kimi Antonelli Mercedes\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Antonelli Doubles Up — Sprint Win and Qualifying Pole\n**Key Facts (HIGH confidence — 5+ sources):**\n- British GP Sprint Weekend at Silverstone (9th race of 2026 season)\n- Sprint Race: Kimi Antonelli (Mercedes) WON; started P2, passed Hamilton on Lap 8\n- Pass happened at Hangar Straight using Boost (battery/MGU-H energy deployment)\n- Hamilton \"utterly powerless\" — could not get within 1 second to mount counter-attack\n- Sprint winning margin: 2.745 seconds over Lewis Hamilton (P2)\n- Sprint full podium: 1. Antonelli, 2. Hamilton, 3. Norris, 4. Russell, 5. Leclerc, 6. Verstappen\n- First sprint win for Antonelli since Monaco GP earlier in season\n- Qualifying (main race): Antonelli took POLE — 1:28.111\n- Leclerc P2 (+0.175s), Hamilton P3, Russell P4, Hadjar P5, Norris P6, Verstappen P7, Piastri P8, Lindblad P9, Lawson P10\n- Sunday race: 52 laps, 5.891 km Silverstone, start 15:00 local (UK)\n**Sources:** F1.com, Sky Sports F1, RacingNews365, PlanetF1, GPFans",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Hamilton's Heartbreak at Home — Sprint Pole, Lap 8 Loss, P3 for Sunday",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Lewis Hamilton took sprint POLE at his home circuit — 1:28.376, just 0.011s ahead of Antonelli.\n\nThen led the sprint until Lap 8. Then watched Antonelli drive past on the Hangar Straight.\n\nSo close. So painful. #F1 #BritishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 225
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Hamilton. Home circuit. Sprint pole. And still — second.\n\nHe'll start P3 on Sunday's grid, 47 points off the championship lead.\n\nAt Silverstone, the hometown hero is fighting for everything. 🏁 #F1 #BritishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 207
+        }
+      ],
+      "facebook": {
+        "long_form": "💔 SO CLOSE AT HOME — THE LEWIS HAMILTON SILVERSTONE STORY OF 2026\n\nThere may not have been a more bittersweet moment in Lewis Hamilton's remarkable 2026 season than what happened today at Silverstone.\n\nOn Saturday morning in sprint qualifying, Hamilton put in an inspired lap of 1:28.376 to claim sprint pole position at his home circuit — by just 0.011 seconds over Kimi Antonelli. For a brief, electric moment at Silverstone, the seven-time world champion was the fastest man on the planet again, at the track where he has won more times than any other driver.\n\nHe led the sprint race from the front. Lap after lap, Hamilton managed the gap to Antonelli behind him, defending a sprint pole that had felt like a message to the paddock. Then Lap 8 arrived. Antonelli deployed his Boost system on the Hangar Straight, and there was nothing Hamilton could do. The Ferrari did not have the straight-line pace to respond. Antonelli swept by and never looked back, finishing 2.745 seconds ahead.\n\nThe pain did not stop there. In main event qualifying, Hamilton could not quite replicate the magic of sprint qualifying. He clocked the third quickest time, starting Sunday's race from P3 on the grid — behind Leclerc's Ferrari and Antonelli's Mercedes on the front row.\n\nHamilton sits third in the championship with 132 points, 47 behind Antonelli and just 4 behind Russell for second. At Silverstone, a victory on Sunday could change everything.\n\nWhat do you think Hamilton needs to do to win the 2026 championship? Share your thoughts.",
+        "image_caption": "Sprint pole. Led the race. Lost on Lap 8. Hamilton's Silverstone day was agonizingly close — but P3 on Sunday's grid means the fight continues. #F1 #BritishGP",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-hamilton-heartbreak-silverstone-sprint.html",
+        "headline": "Hamilton's Silverstone Heartbreak: Sprint Pole, Led the Race, Lost on Lap 8",
+        "word_count": 508
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Hamilton's Sprint Pole Heartbreak\n\n**Image Concept 2A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Dramatic two-tone split graphic: bright Ferrari red on left (victory/close call) fading to dark shadow on right. Silverstone crowd atmosphere subtly visible. \"0.011s\" stat highlighted in bold. Conveys agonizing near-miss. Canva-ready base.\n- **Search term (imagn):** \"Lewis Hamilton Ferrari\"\n- **Caption overlay text idea:** \"Hamilton — 0.011s Away From Sprint Pole Victory\"\n\n**Image Concept 2B — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Silverstone grandstand interior at dusk, dramatic lighting on the famous track with Union Jack flags subtly visible in background. Ferrari red accent border. Atmospheric homecoming editorial aesthetic. Canva-ready base.\n- **Search term (imagn):** \"Lewis Hamilton Ferrari\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Hamilton's Heartbreak at Home\n**Key Facts (HIGH confidence — 5+ sources):**\n- Sprint Qualifying: Hamilton took POLE at home circuit — 1:28.376, just 0.011s ahead of Antonelli\n- Sprint Race: Hamilton led from lap 1 to lap 7; on Lap 8, Antonelli passed on Hangar Straight via Boost\n- Ferrari lacked straight-line response; Hamilton could not fight back\n- Hamilton finished P2 in sprint (+2.745s)\n- In main qualifying, Hamilton starts P3 — behind Leclerc (P2) and Antonelli (pole)\n- Championship: Hamilton 132 points, P3 in standings — 47 points behind Antonelli\n- Context: Silverstone is Hamilton's home circuit (grew up in Stevenage, England); has won there multiple times\n- Seven-time world champion; 2026 is his first season with Ferrari\n**Sources:** F1.com, Sky Sports F1, RacingNews365",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Verstappen's \"Double Whammy\" — Red Bull's Clear Problem at Silverstone",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Max Verstappen calls it a \"double whammy\" at Silverstone.\n\nThe RB22 is too slow on the straights AND loses too much energy in the high-load corners.\n\nHe qualified P7 — behind Red Bull junior Hadjar. This is a real problem. #F1 #BritishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 237
+        }
+      ],
+      "facebook": {
+        "long_form": "⚠️ VERSTAPPEN ON RED BULL'S PROBLEM: \"IT'S EXTRA PAINFUL\"\n\nMax Verstappen does not usually admit to having a car problem in public. But what happened at Silverstone this weekend left him with little choice.\n\nAfter qualifying seventh for Sunday's British Grand Prix — a position made even more uncomfortable by the fact that Red Bull's junior partner driver Isack Hadjar outqualified him by two positions (P5) — Verstappen laid out what he described as a \"double whammy\" plaguing the RB22 at this circuit.\n\nThe problem, per Verstappen, runs deeper than a simple lack of downforce. On Silverstone's long straights — the Hangar Straight in particular — the Red Bull lacks the top speed to compete with Mercedes and Ferrari. That alone would be painful. But the second layer of the problem makes it worse: because the car cannot maintain speed on the straights, it burns through more battery energy trying to keep up. That energy deficit then compounds through Silverstone's high-speed, high-load corners, where the car needs that stored energy for stability and performance.\n\n\"It's extra painful,\" Verstappen said. He also reported that the engine was \"not responding normally\" during Q2 of main qualifying — an additional mechanical concern on top of the car's inherent weaknesses at this type of circuit.\n\nThe result: P6 in the sprint (3 points), P7 in qualifying, and the uncomfortable sight of a junior Hadjar lining up ahead of a four-time world champion for Sunday's start.\n\nRed Bull addressed Verstappen's concerns heading into Sunday's race. Whether those fixes translate to a better result remains to be seen.\n\nIs this a one-circuit issue for Red Bull, or a deeper problem? Tell us below.",
+        "image_caption": "Verstappen on Red Bull's Silverstone problem: \"It's extra painful.\" P7 in qualifying, outqualified by Hadjar. The double whammy is real. #F1 #BritishGP",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-verstappen-double-whammy-red-bull.html",
+        "headline": "Verstappen's Double Whammy: Red Bull's Silverstone Problem Goes Deeper Than a Bad Day",
+        "word_count": 533
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Verstappen Double Whammy\n\n**Image Concept 3A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Red Bull racing colors (red/navy) with overlaid warning graphic showing two problem indicators — \"STRAIGHT-LINE SPEED\" and \"CORNER ENERGY\" — as bold declining bar chart elements on dark background. Sports editorial problem-reveal design. Canva-ready base.\n- **Search term (imagn):** \"Max Verstappen Red Bull\"\n- **Caption overlay text idea:** 'Verstappen: \"It's Extra Painful\" — Red Bull's Double Problem at Silverstone'\n\n**Image Concept 3B — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** P7 qualification position highlighted in bold on a dark timing-sheet style graphic. Red Bull colors with subtle track curvature lines. Championship standings context bars visible. Clean sports editorial design for Canva text overlay.\n- **Search term (imagn):** \"Max Verstappen Red Bull\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Verstappen's Double Whammy\n**Key Facts (HIGH confidence — 3+ sources):**\n- Sprint Race: Verstappen P6 (3 championship points)\n- Sprint Qualifying (Friday): Verstappen P3 (\"could easily have been P6 or P7\" — his words)\n- Main Qualifying: Verstappen P7 — notably outqualified by Red Bull/VCARB junior Hadjar (P5)\n- Verstappen's description: \"double whammy\" — RB22 lacks top speed on Silverstone's long straights AND loses stability/energy through high-load corners\n- When car is slow on straights it burns more battery → compounds energy deficit through entire lap\n- Verstappen: engine was \"not responding normally\" in Q2 of main qualifying\n- Verstappen P7 in championship standings with 76 points — 103 points off the lead\n- Motorsport Week headline: Verstappen addresses Red Bull's \"clear problem\"\n- Hadjar outqualifying Verstappen (P5 vs P7) is a notable inversion\n**Sources:** F1.com (Verstappen quotes), Motorsport Week, ReadMotorsport, RacingNews365",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Perez Penalty, Alonso Spun — Sprint Day Chaos at Turn 3",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Lap 2, Turn 3: Perez clipped Alonso's Aston Martin and sent him spinning.\n\nCadillac brought Perez in for a nose change. Stewards gave him +10 seconds after the race.\n\nFrom a points finish to last place. #F1 #BritishGP",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#F1",
+            "#BritishGP"
+          ],
+          "char_count": 217
+        }
+      ],
+      "facebook": {
+        "long_form": "🚨 TURN 3, LAP 2: THE INCIDENT THAT WRECKED PEREZ'S DAY\n\nThe British GP sprint race had barely started when it produced its first controversy.\n\nOn Lap 2 of the 17-lap sprint, Sergio Perez and the Cadillac team found themselves embroiled in the day's most significant incident. At Turn 3, Perez made an ambitious — and ultimately uncommitted — move up the inside on Fernando Alonso's Aston Martin. The move was vague and imprecise. Perez's car made contact with the left-rear of Alonso's AMR26. Alonso was sent spinning off the racing line.\n\nCadillac had no choice but to pit Perez at the end of Lap 2 for a nose change, costing him significant track position. The stewards then reviewed the incident. Their verdict: Perez received a +10-second post-race time penalty for causing a collision. The penalty dropped him to last place — P22 — behind Lance Stroll by over 11 seconds once applied.\n\nPerez was not the only driver penalized on the day. Nico Hulkenberg received a +5-second penalty for leaving the track and gaining an advantage, dropping him from P13 to P15 in the final classification. Liam Lawson was investigated for aggressive driving in his defence against teammate Isack Hadjar — the stewards issued a warning but allowed him to retain P8 and the championship point that came with it.\n\nFor Cadillac, the incident was a frustrating one — the American team had been running competitive this weekend and the Lap 2 mistake cost them any chance at a strong sprint result.\n\nWhat do you make of the Perez decision? Harsh or fair?",
+        "image_caption": "Lap 2, Turn 3: Perez hit Alonso, got a nose change, and then received a +10-second post-race penalty. A sprint day to forget for Cadillac. 🚨 #F1 #BritishGP",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-perez-penalty-alonso-sprint-chaos.html",
+        "headline": "Sprint Day Chaos: Perez Penalised, Alonso Spun, and Hulkenberg Also Punished",
+        "word_count": 520
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Perez Incident / Alonso Collision\n\n**Image Concept 4A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Race incident graphic with Cadillac blue/white and Aston Martin green colors. \"TURN 3 — LAP 2\" text bold in center on dark background. Warning/collision icon design aesthetic. Drama and immediacy of a race incident. Canva-ready editorial base.\n- **Search term (imagn):** \"Sergio Perez Cadillac\"\n- **Caption overlay text idea:** \"Perez +10s Penalty — Cadillac's Sprint Race Unravels\"\n\n**Image Concept 4B — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** \"PENALTY: +10 SECONDS\" in large bold red text on black background. Stewards' decision graphic aesthetic — clean, official, dramatic. FIA-style typography reference with race incident subtext area. Canva-ready base.\n- **Search term (imagn):** \"Fernando Alonso Aston Martin\"\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Perez Penalty / Alonso Collision Incident\n**Key Facts (HIGH confidence — FIA official + corroborated by multiple outlets):**\n- Sprint Race Lap 2, Turn 3: Sergio Perez (Cadillac) clipped rear of Fernando Alonso's Aston Martin\n- Perez made uncommitted move up the inside; Alonso was spun\n- Cadillac brought Perez in for nose change at end of Lap 2\n- Post-race: FIA stewards handed Perez +10s time penalty for causing a collision\n- Penalty dropped Perez from his race finish position to last (P22) — behind Stroll by 11.289s after penalty\n- Nico Hulkenberg also received +5s penalty for leaving track and gaining advantage → dropped from P13 to P15\n- Liam Lawson (Racing Bulls) was investigated for aggressive defence against teammate Hadjar; stewards issued WARNING only, retained P8 and 1 championship point",
+        "sources": "- Source: FIA official Facebook post, The Race, Total Motorsport, GPFans, RacingNews365"
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Championship Standings After Sprint — Antonelli's 43-Point Command",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "After today's #BritishGP sprint, the 2026 F1 title fight:\n\n🥇 Antonelli — 179 pts\n🥈 Russell — 136 pts\n🥉 Hamilton — 132 pts\n\nAntonelli leads by 43. Russell and Hamilton separated by just 4.\n\nThis title fight is getting interesting. #F1",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#BritishGP",
+            "#F1"
+          ],
+          "char_count": 233
+        }
+      ],
+      "facebook": {
+        "long_form": "📊 2026 F1 CHAMPIONSHIP UPDATE — WHO LEADS AFTER SILVERSTONE SPRINT?\n\nWith the British Grand Prix sprint race complete and Sunday's main event still to come, here is where the 2026 Formula 1 world championship stands heading into the weekend's climax.\n\nDRIVERS' CHAMPIONSHIP (after British GP sprint):\n\n🥇 Kimi Antonelli (Mercedes) — 179 points\n🥈 George Russell (Mercedes) — 136 points\n🥉 Lewis Hamilton (Ferrari) — 132 points\n4. Lando Norris (McLaren) — 85 points\n5. Charles Leclerc (Ferrari) — 83 points\n6. Oscar Piastri (McLaren) — 82 points\n7. Max Verstappen (Red Bull) — 76 points\n\nCONSTRUCTORS' CHAMPIONSHIP:\n🥇 Mercedes — 315 points\n🥈 Ferrari — 215 points\n🥉 McLaren — 167 points\n4. Red Bull Racing — 118 points\n\nThe story in the drivers' standings is Antonelli's command. He leads his own Mercedes teammate George Russell by 43 points — a healthy gap, but not yet an insurmountable one with multiple races remaining. The battle for second is fascinating: Russell leads Hamilton by just 4 points. Hamilton's sprint and qualifying performances this weekend show he is competitive at the top level; a victory on Sunday could swing momentum dramatically.\n\nMercedes' constructors' lead — 100 points over Ferrari — reflects a dominant season from a team that has given two drivers legitimate title shots simultaneously.\n\nIs Antonelli's championship lead safe? Who wins Sunday's British GP? Tell us below.",
+        "image_caption": "Antonelli leads the 2026 F1 championship by 43 points after today's Silverstone sprint. Russell P2, Hamilton P3 — and Sunday's British GP still to come. 🏁 #F1",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-f1-championship-standings-british-gp-sprint.html",
+        "headline": "2026 F1 Championship Standings After British GP Sprint: Antonelli's Command, a Russell-Hamilton Battle, Red Bull's Slide",
+        "word_count": 537
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Championship Standings\n\n**Image Concept 5A — Social (1080x1350)**\n- **Mode:** base_only\n- **Prompt:** Championship standings leaderboard graphic — top 3 podium-style layout with No. 1 (gold), No. 2 (silver), No. 3 (bronze) positions. Space for driver names and point totals. Dark F1 editorial background with subtle circuit lines. Canva-ready standings board.\n- **Search term (imagn):** \"Kimi Antonelli Mercedes\"\n- **Caption overlay text idea:** \"2026 F1 Championship: Antonelli Leads by 43 Points\""
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Championship Standings After Sprint\n**Key Facts (HIGH confidence — multiple sources confirming same figures):**\n- Drivers' Championship (after British GP Sprint):\n- P1: Kimi Antonelli (Mercedes) — 179 pts\n- P2: George Russell (Mercedes) — 136 pts\n- P3: Lewis Hamilton (Ferrari) — 132 pts\n- P4: Lando Norris (McLaren) — 85 pts\n- P5: Charles Leclerc (Ferrari) — 83 pts\n- P6: Oscar Piastri (McLaren) — 82 pts\n- P7: Max Verstappen (Red Bull) — 76 pts\n- Antonelli leads Russell by 43 points; Russell trails Hamilton by only 4 points\n- Constructors' Championship:\n- P1: Mercedes — 315 pts\n- P2: Ferrari — 215 pts\n- P3: McLaren — 167 pts\n- P4: Red Bull Racing — 118 pts\n- Context: Previous round (8th race) won by George Russell at Austrian GP\n**Sources:** RacingNews365, Crash.net, GPFans, SI.com",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 7,
+    "facebook_posts_count": 5,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

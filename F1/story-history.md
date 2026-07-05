@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-05
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-05 | T1 | Antonelli Doubles Up at Silverstone — Sprint Win and Qualifying Pole | X, FB, Article | NEW |
+| 2026-07-05 | T1 | Hamilton's Heartbreak at Home — Sprint Pole, Lap 8 Loss, P3 for Sunday | X, FB, Article | NEW |
+| 2026-07-05 | T2 | Verstappen's "Double Whammy" — Red Bull's Clear Problem at Silverstone | X, FB, Article | NEW |
+| 2026-07-05 | T2 | Perez Penalty, Alonso Spun — Sprint Day Chaos at Turn 3 | X, FB, Article | NEW |
+| 2026-07-05 | T2 | Championship Standings After Sprint — Antonelli's 43-Point Command | X, FB, Article | NEW |
+
+### STORY 1: Antonelli Doubles Up — Sprint Win and Qualifying Pole
+- **Tier:** 1
+- **Category:** British GP / Mercedes / Antonelli
+- **Key facts:** Antonelli won sprint (started P2, passed Hamilton Lap 8 Hangar Straight via Boost, margin 2.745s); then qualified pole 1:28.111 (Leclerc P2 +0.175s, Hamilton P3); first sprint win since Monaco; 8 sprint pts earned; Sunday race 52 laps 15:00 UK time
+- **Status:** NEW
+- **Follow-up ideas:** Sunday British GP result; Antonelli title gap after race; race strategy analysis
+
+### STORY 2: Hamilton's Heartbreak at Home
+- **Tier:** 1
+- **Category:** British GP / Ferrari / Hamilton
+- **Key facts:** Sprint pole 1:28.376, just 0.011s ahead of Antonelli; led sprint until Lap 8 when Antonelli Boost-passed on Hangar Straight; P3 qualifying for Sunday; championship 132pts (3rd), 47 behind Antonelli; home crowd at Silverstone
+- **Status:** NEW
+- **Follow-up ideas:** Hamilton Sunday race result; Ferrari race strategy; championship gap after British GP
+
+### STORY 3: Verstappen's Double Whammy
+- **Tier:** 2
+- **Category:** British GP / Red Bull / Verstappen
+- **Key facts:** P6 sprint (3pts), P7 qualifying; Hadjar P5 (outqualified Verstappen); "double whammy" — slow straights + energy loss in high-load corners; engine "not responding normally" in Q2; 76pts championship (P7)
+- **Status:** NEW
+- **Follow-up ideas:** British GP race result for Verstappen; Red Bull technical response; championship picture
+
+### STORY 4: Perez Penalty / Alonso Collision
+- **Tier:** 2
+- **Category:** British GP / Sprint Incidents
+- **Key facts:** Lap 2 Turn 3 Perez clipped Alonso, Alonso spun; Cadillac nose change; +10s penalty for Perez → dropped to last (P22); Hulkenberg +5s for track limits (P13→P15); Lawson warning for defending Hadjar (retained P8)
+- **Status:** NEW
+- **Follow-up ideas:** Cadillac response; Alonso Silverstone Sunday race; stewards pattern
+
+### STORY 5: Championship Standings After Sprint
+- **Tier:** 2
+- **Category:** F1 2026 Championship
+- **Key facts:** Antonelli 179pts (+43 over Russell 136); Hamilton 132 (4 behind Russell); Norris 85, Leclerc 83, Piastri 82, Verstappen 76; Constructors: Mercedes 315, Ferrari 215, McLaren 167, Red Bull 118
+- **Status:** NEW
+- **Follow-up ideas:** British GP Sunday race standings update; title picture analysis
+
 ## 2026-07-04
 
 | Date | Tier | Story | Platforms | Status |

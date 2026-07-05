@@ -1,8 +1,21 @@
 # F1 Pipeline Status — F1 Fanrecap
 
 ## Last Run
-- **Date**: 2026-07-04
+- **Date**: 2026-07-05
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
+
+## Pipeline Run Log
+
+### 2026-07-05
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Elena Voss, Ryan Calloway, Marcus Cole, Elena Voss)
+- **PostPlanner exports:** f1fr-postplanner-2026-07-05.xlsx (7 posts) + f1fr-postplanner-tobi-2026-07-05.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at F1/f1-content-2026-07-05/review-dashboard.html (27 items)
+- **Notes:** BRITISH GP SPRINT WEEKEND — Antonelli doubles up: won sprint (passed Hamilton Lap 8 Hangar Straight via Boost, 2.745s margin) then took qualifying pole 1:28.111; Hamilton sprint pole by 0.011s but powerless on Lap 8, starts P3; Verstappen "double whammy" — RB22 slow straights + energy loss in corners, P7 qualifying behind Hadjar; Perez +10s penalty for spinning Alonso Turn 3 Lap 2 (noses to last); Hulkenberg +5s; Antonelli leads championship 179pts (+43 Russell 136, +47 Hamilton 132); Mercedes constructors 315pts
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ## Pipeline Run Log
 
