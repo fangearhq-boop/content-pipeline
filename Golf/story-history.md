@@ -2,6 +2,51 @@
 
 Tracking published stories to avoid repeats and maintain coverage breadth.
 
+## 2026-07-05
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-05 | T1 | John Deere Classic Final Round: Glover and Hodges Share the Lead at 16-Under | X, FB, Article | FOLLOW UP |
+| 2026-07-05 | T1 | Zach Johnson at 50 — Skipped Three Majors to Compete at Home in Iowa | X, FB, Article | FOLLOW UP |
+| 2026-07-05 | T2 | Preston Stout Contending at John Deere — World No. 1 Amateur Four Shots Back Entering Sunday | X, FB, Article | FOLLOW UP |
+| 2026-07-05 | T2 | LIV Golf Financial Crisis — Saudi Funding Shortfall Puts 2026 Season at Risk | X, FB, Article | FOLLOW UP |
+| 2026-07-05 | T2 | Open Championship at Royal Birkdale Preview — 11 Days Away | X, FB, Article | NEW |
+
+### STORY 1: John Deere Classic Final Round — Glover and Hodges at -16
+- **Tier:** 1
+- **Category:** PGA Tour / John Deere Classic
+- **Key facts:** Glover and Hodges tied at 16-under entering Sunday; Glover opened 63+65 (no bogeys through 36 holes), 69 Saturday; Hodges fired 67 Saturday with 4 birdies in 6-hole back-nine stretch; Zac Blair, Ben Kohles, Jackson Suber at 15-under; Zach Johnson at 13-under (3 back); $1.584M winner / 500 FedExCup pts; TPC Deere Run, Silvis IL
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Final winner; Glover complete wire-to-wire; Hodges first win; Johnson podium at 50; Stout top-5 as amateur
+
+### STORY 2: Zach Johnson's Iowa Stand — 50-Year-Old Skipped Three Majors
+- **Tier:** 1
+- **Category:** PGA Tour / John Deere Classic / Human Interest
+- **Key facts:** Johnson, 50, Cedar Rapids Iowa native, skipped 3 majors in 2026 to play John Deere; entered Sunday at 13-under (3 back of Glover/Hodges); opened with 64 R1, shot 66 Saturday; two-time major champion (Masters + Open Championship); has won John Deere Classic before; loudest home crowd support
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Johnson Sunday result; win at 50; fan reaction story; post-event interview
+
+### STORY 3: Preston Stout — Amateur Contending at John Deere
+- **Tier:** 2
+- **Category:** PGA Tour / John Deere Classic / Amateur Golf
+- **Key facts:** Stout at 12-under entering Sunday (4 back), world No. 1 amateur, Oklahoma State NCAA champion; received sponsor exemption; sits alongside Max Homa; contending through 54 holes against Tour veterans; $1.584M prize at stake; path to Open Championship qualification through leading amateur distinction
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Stout Sunday finish; top-5 result; pro debut announcement; Open qualification
+
+### STORY 4: LIV Golf Financial Crisis — 2026 Season in Jeopardy
+- **Tier:** 2
+- **Category:** LIV Golf / Tour News
+- **Key facts:** PIF committed ~$600M for 2026; provided ~$200M ($66M May, $130M June); $400M gap outstanding; CEO Scott O'Neil confirmed cannot guarantee final 4 events; PIF April statement says long-term investment "no longer consistent with current phase"; UK event JCB Golf July 23-26 most uncertain; NY event (August) most likely to survive; Tyrrell Hatton won LIV Andalucia; Lucas Herbert wire-to-wire at LIV Virginia; player guaranteed contracts continue accruing regardless
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** UK event confirmation or cancellation; investor deal; player departures; PGA Tour merger talks resurfacing
+
+### STORY 5: Open Championship at Royal Birkdale Preview
+- **Tier:** 2
+- **Category:** Major Championship / Open Championship
+- **Key facts:** 154th Open Championship July 16-19, Royal Birkdale, Southport England; 11th time Birkdale hosts; R&A projects 300,000+ attendance record; Scheffler defending (won 2025 Royal Portrush), participating in Heroes Classic July 14 and returning Claret Jug; field: McIlroy, Schauffele, Hovland, Harman, Henley, DeChambeau, Clark, Fitzpatrick, MacIntyre, Conners, Gotterup; LIV qualifiers: Ballester, Surratt, Uihlein (via June 30 Final Qualifying); Last Chance Qualifier July 14 (1 spot); Genesis Scottish Open July 9-12 (Renaissance Club) as warm-up and qualifier pathway
+- **Status:** NEW
+- **Follow-up ideas:** Scottish Open results; Scheffler Claret Jug ceremony; field finalizations; pre-championship practice round notes
+
 ## 2026-07-04
 
 | Date | Tier | Story | Platforms | Status |
