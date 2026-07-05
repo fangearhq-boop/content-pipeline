@@ -733,3 +733,47 @@ Track previously covered stories to avoid repetition and maintain content freshn
 - **Tier:** 2
 - **Key Facts:** Swiatek vs Pliskova R3; Day 4 = July 3; Djokovic and Sinner through without dropping sets; Andreeva/Svitolina/Zheng all eliminated; Sources: cbssports.com, bleacherreport.com, wtatennis.com
 - **Follow-Up Opportunities:** Swiatek-Pliskova result; R3 results across draw
+
+---
+
+## 2026-07-05
+
+### Story 1: Eala Stuns Defending Champion Swiatek 7-6(9), 6-2 — First Filipina in Grand Slam Second Week
+- **Date:** 2026-07-05
+- **Angle:** FOLLOW-UP — Day 6 result (Eala vs Swiatek previewed July 4). Alexandra Eala (No. 31) def. defending champion Iga Swiatek (No. 3) 7-6(9), 6-2 on Day 6 (Saturday July 4). First Filipino player (man or woman) to reach the second week of a Grand Slam in the Open Era. 84 minutes; tiebreak won 11-9; 24 winners; 5/7 BPs converted; broke serve 5 times; won 68% of points on Swiatek's 2nd serve. Eala quotes: "Being here is a blessing"; "for all the little girls with ruffled socks and chubby cheeks." Record: 2-1 vs Swiatek career. Next: Paolini (No. 13) in R4, Day 8.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Score: 7-6(9), 6-2; tiebreak 11-9; duration 84 min; 24 winners; 5/7 BPs; 68% on Swiatek 2nd serve; broke 5 times; 2-1 H2H now; Sources: wtatennis.com, olympics.com, gmanetwork.com, tennismajors.com
+- **Follow-Up Opportunities:** Eala vs Paolini R4 (Day 8); Eala QF bid
+
+### Story 2: Mertens (No. 25) Upsets No. 2 Rybakina 7-6(4), 6-1 — Double Shock Day 6
+- **Date:** 2026-07-05
+- **Angle:** NEW STORY — Elise Mertens (No. 25) def. Elena Rybakina (No. 2, 2022 champion) 7-6(4), 6-1 in 96 minutes. Only second career win vs Rybakina in 9 meetings; first grass top-10 win of Mertens' career. Combined with Eala def. Swiatek, Day 6 eliminated both No. 2 and No. 3 seeds. Rybakina won first set tiebreak... correction: Mertens took tiebreak 7-4, then dominated 6-1 in set 2. Next: Mertens vs Bouzkova (No. 23) R4.
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Score: 7-6(4), 6-1; 96 minutes; first grass top-10 win for Mertens; only 2nd win in 9 meetings; both No. 2 and No. 3 seeds out same day; Sources: wtatennis.com, beinsports.com, outlookindia.com
+- **Follow-Up Opportunities:** Mertens vs Bouzkova R4; open women's draw
+
+### Story 3: Bublik def. Tiafoe 4-6, 7-6(5), 7-6(13-11), 4-6, 6-3 + Day 6 Round-Up
+- **Date:** 2026-07-05
+- **Angle:** NEW STORY — Alexander Bublik (No. 10) def. Frances Tiafoe (No. 17) 4-6, 7-6(5), 7-6(13-11), 4-6, 6-3 in 4+ hours. Bublik hit 48 aces; saved 9 set points in 3rd-set tiebreak (won 13-11); faces Fritz in R4. Also: Zverev def. Giron 6-2, 7-6, 6-4; Keys def. Anisimova 3-6, 6-2, 6-3.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 2
+- **Key Facts:** Bublik: 4-6, 7-6(5), 7-6(13-11), 4-6, 6-3; 48 aces; 9 set points saved in TB; 4+ hrs; Tiafoe 9-1 on grass pre-match; Zverev: 6-2, 7-6, 6-4; Keys: 3-6, 6-2, 6-3; Sources: tennisnow.com, tennismajors.com, wimbledon.com
+- **Follow-Up Opportunities:** Bublik vs Fritz R4; Zverev QF path
+
+### Story 4: Day 7 Preview — Djokovic Record Chase, Sabalenka vs Osaka, Sinner
+- **Date:** 2026-07-05
+- **Angle:** NEW STORY — Day 7 preview. Djokovic (No. 7) vs Safiullin (qualifier): Djokovic at 105 Wimbledon wins (tied Federer); win = sole record at 106; H2H 3-0 Djokovic, first grass meeting; Safiullin def. Rublev and Fonseca 6-3,6-3,6-3 en route. Sabalenka (No. 1) vs Osaka (No. 14): first grass meeting; Sabalenka H2H 8-4; Osaka first-ever Wimbledon R4. Sinner (No. 1) vs Mochizuki (No. 151, qualifier). Gauff vs Bencic; Pegula vs Jovic; FAA vs Davidovich Fokina. Djokovic quote: "I propose a matchup between me and Roger for 106!"
+- **Content Produced:** Article, 2 X Text Posts, Facebook Long-Form, Facebook Image Caption, 2 Image Concepts
+- **Tier:** 1
+- **Key Facts:** Djokovic 105 wins tied Federer; sole record at 106; H2H 3-0 Djokovic vs Safiullin; Sabalenka H2H 8-4 vs Osaka; Osaka first Wimbledon R4; Centre Court 1:30 PM local; Sources: atptour.com, wtatennis.com, olympics.com, puntodebreak.com
+- **Follow-Up Opportunities:** Djokovic record result; Sabalenka-Osaka result; Sinner result; all Day 7 outcomes
+
+### Story 5: Wide-Open Women's Draw — Swiatek and Rybakina Both Gone
+- **Date:** 2026-07-05
+- **Angle:** NEW STORY — Analysis: With Swiatek (No. 3) and Rybakina (No. 2) both out on Day 6, women's draw wide open. Sabalenka (No. 1) vs Osaka (No. 14) Day 7 marquee. Gauff (No. 7) vs Bencic (No. 11) Day 7. Pegula (No. 4) vs Jovic (No. 16). Mertens (No. 25) vs Bouzkova (No. 23). Eala (No. 31) vs Paolini (No. 13) Day 8. Krejcikova (2024 champ, unseeded) vs Muchova (No. 10) Court 2 Day 7.
+- **Content Produced:** Article, 1 X Text Post, Facebook Long-Form, Facebook Image Caption, 1 Image Concept
+- **Tier:** 2
+- **Key Facts:** Both Swiatek and Rybakina eliminated same day; Sabalenka clear favorite; Eala vs Paolini Day 8; Krejcikova still alive; Sources: wtatennis.com, skysports.com, olympics.com
+- **Follow-Up Opportunities:** All R4 results; QF lineup

@@ -1,0 +1,280 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-05",
+  "compiled_at": "2026-07-05T12:23:44.714367+00:00",
+  "niche": {
+    "brand_name": "Tennis Fanrecap",
+    "brand_short": "TFR",
+    "content_prefix": "tennis-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "ET",
+    "photo_source": "imagn"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Eala Stuns Defending Champion Swiatek 7-6(9), 6-2 — First Filipina in Grand Slam Second Week",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Alexandra Eala makes Wimbledon history — def. defending champ Swiatek 7-6(9), 6-2. She's the first Filipino player, man or woman, to reach a Grand Slam second week in the Open Era. \"Being here is a blessing.\" #Wimbledon #Eala #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Eala",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 249
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Eala broke Swiatek 5 times, won 68% on her second serve, survived an 11-9 tiebreak, then won the second set 6-2. Final: 7-6(9), 6-2. History. Next: No. 13 Paolini in the Round of 16. #Wimbledon #Eala #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Eala",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 223
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-eala-stuns-swiatek-wimbledon-history.html",
+        "headline": "Eala Stuns Swiatek 7-6(9), 6-2 to Become First Filipina in Grand Slam Second Week",
+        "word_count": 519
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Eala def. Swiatek\n\n**Image Concept 1A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search terms:** Alexandra Eala\n- **Intended use:** X Tweet A + FB Image Caption (historic achievement)\n- **Art direction:** Eala celebrating on grass after winning point, arms raised, Wimbledon court visible in background; clean crop for 4:5 vertical\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 1B** (Article Hero — 1200x630)\n- **Type:** imagn\n- **Search terms:** Alexandra Eala\n- **Intended use:** Article hero image\n- **Art direction:** Eala mid-swing or celebration on Wimbledon grass, action shot, landscape crop for article hero 1.91:1\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "Mertens (No. 25) Upsets No. 2 Rybakina 7-6(4), 6-1 — Day 6 Double Shock",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "Elise Mertens (No. 25) def. No. 2 Rybakina 7-6(4), 6-1 in 96 minutes. First top-10 grass win of Mertens' career. Combined with Eala def. Swiatek: both No. 2 and No. 3 seeds gone on the same afternoon. #Wimbledon #WTA #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#WTA",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 240
+        },
+        {
+          "label": "Post 2-2",
+          "text": "Day 6 at Wimbledon: No. 2 Rybakina out. No. 3 Swiatek out. Mertens faces Bouzkova in R4. The women's draw is wide open. #Wimbledon #WTA #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#WTA",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 159
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-mertens-upsets-rybakina-wimbledon.html",
+        "headline": "Mertens Shocks No. 2 Rybakina 7-6(4), 6-1 in 96 Minutes — First Grass Top-10 Win of Her Career",
+        "word_count": 463
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Mertens def. Rybakina\n\n**Image Concept 2A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search terms:** Elise Mertens\n- **Intended use:** X Tweet A + FB Image Caption\n- **Art direction:** Mertens in victory pose or intense mid-rally moment on grass court; 4:5 vertical\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 2B** (Article Hero — 1200x630)\n- **Type:** imagn\n- **Search terms:** Elena Rybakina Wimbledon\n- **Intended use:** Article hero (can show Rybakina or split with Mertens)\n- **Art direction:** Rybakina or Mertens in match action, landscape 1.91:1\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Bublik def. Tiafoe in Marathon Five-Setter; Zverev, Keys Advance — Day 6 Round-Up",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Bublik hit 48 aces and saved 9 set points in a 13-11 tiebreak to beat No. 17 Tiafoe 4-6, 7-6(5), 7-6(13-11), 4-6, 6-3 in 4+ hours. Also: Zverev def. Giron 6-2, 7-6, 6-4. Keys def. Anisimova 3-6, 6-2, 6-3. #Wimbledon #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-bublik-tiafoe-five-sets-day6-roundup.html",
+        "headline": "Bublik's 48-Ace Marathon and Day 6 Round-Up: Zverev Cruises, Keys Advances",
+        "word_count": 460
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Bublik/Tiafoe Round-Up\n\n**Image Concept 3A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search terms:** Alexander Bublik\n- **Intended use:** X Tweet A + FB Image Caption\n- **Art direction:** Bublik in serve motion or celebration on grass; 4:5 vertical\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 3B** (Article Hero — 1200x630)\n- **Type:** imagn\n- **Search terms:** Frances Tiafoe Wimbledon\n- **Intended use:** Article hero\n- **Art direction:** Tiafoe or Bublik in match play, landscape 1.91:1\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Wimbledon Day 7 Preview — Djokovic Chases Sole Record, Sabalenka vs Osaka Headlines",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4-1",
+          "text": "Novak Djokovic has 105 Wimbledon wins — tied with Roger Federer for the all-time men's record. Win No. 106 today vs qualifier Safiullin gives him sole possession. Centre Court, 1:30 PM local. #Wimbledon #Djokovic #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Djokovic",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 236
+        },
+        {
+          "label": "Post 4-2",
+          "text": "Day 7 at Wimbledon has everything: Djokovic chasing the all-time wins record vs Safiullin. Sabalenka vs Osaka — first-ever grass meeting. Defending champ Sinner vs qualifier Mochizuki. #Wimbledon #Tennis #WTA #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#Tennis",
+            "#WTA",
+            "#TennisFanrecap"
+          ],
+          "char_count": 224
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-wimbledon-day7-preview-djokovic-record.html",
+        "headline": "Day 7 Preview: Djokovic Chases Sole Wimbledon Record, Sabalenka vs Osaka Headlines Centre Court",
+        "word_count": 593
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Day 7 Preview\n\n**Image Concept 4A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search terms:** Novak Djokovic Wimbledon\n- **Intended use:** X Tweet A + FB Image Caption\n- **Art direction:** Djokovic raising fist or looking intense on Wimbledon grass; 4:5 vertical\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n**Image Concept 4B** (Article Hero — 1200x630)\n- **Type:** imagn\n- **Search terms:** Aryna Sabalenka\n- **Intended use:** Article hero (Sabalenka or Djokovic for Day 7 preview)\n- **Art direction:** Sabalenka or Djokovic on Wimbledon grass, landscape 1.91:1\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Open Women's Draw — Swiatek and Rybakina Out, Who Claims Wimbledon?",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Wimbledon women's draw after Day 6 — Defending champ Swiatek: OUT. No. 2 Rybakina: OUT. No. 1 Sabalenka still in (vs Osaka, Day 7). No. 31 Eala still in (vs Paolini, Day 8). The draw is wide open. #Wimbledon #WTA #Tennis #TennisFanrecap",
+          "posting_time": "",
+          "tweet_type": "",
+          "hashtags": [
+            "#Wimbledon",
+            "#WTA",
+            "#Tennis",
+            "#TennisFanrecap"
+          ],
+          "char_count": 236
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-wimbledon-womens-draw-open.html",
+        "headline": "Wide Open: Swiatek and Rybakina Both Gone — Who Wins Wimbledon 2026?",
+        "word_count": 505
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Women's Draw Outlook\n\n**Image Concept 5A** (Social — 1080x1350)\n- **Type:** imagn\n- **Search terms:** Coco Gauff Wimbledon\n- **Intended use:** X Tweet A + FB Image Caption\n- **Art direction:** Gauff or Sabalenka in action on grass; 4:5 vertical; represents open draw\n- **Credit:** (USA TODAY Sports Images)\n- **Status:** not_started"
+        }
+      ],
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

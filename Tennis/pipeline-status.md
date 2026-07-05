@@ -6,14 +6,14 @@ Dashboard subfolder: `tfr`
 
 | Stage | Status | Last Updated |
 |-------|--------|-------------|
-| Research | Complete | 2026-07-04 |
-| Writing | Complete (all steps) | 2026-07-04 |
-| Fact-check | Complete (verify-facts.py passed — 5 stories, 17 claims, 38 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-04 |
-| Compile | Complete (07-content-data.json — 5 stories, 7 X posts, 0 FB posts, 5 articles, 8 images; posting window warnings cosmetic) | 2026-07-04 |
-| Dashboard | Complete (review-dashboard.html, 22 items) | 2026-07-04 |
-| PostPlanner Export | Complete (standard 17 posts 12:54–21:26 ET; TOBI 12 posts) | 2026-07-04 |
-| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-04 |
-| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-04 |
+| Research | Complete | 2026-07-05 |
+| Writing | Complete (all steps) | 2026-07-05 |
+| Fact-check | Complete (verify-facts.py passed — 5 stories, 21 claims, 45 HIGH; image not_started warnings cosmetic/expected for imagn) | 2026-07-05 |
+| Compile | Complete (07-content-data.json — 5 stories, 8 X posts, 0 FB posts, 5 articles, 5 images; posting window warnings cosmetic) | 2026-07-05 |
+| Dashboard | Complete (review-dashboard.html, 23 items) | 2026-07-05 |
+| PostPlanner Export | Complete (standard 18 posts 12:53–21:23 ET; TOBI 13 posts) | 2026-07-05 |
+| WordPress Publish | Attempted — proxy blocks WordPress API (same as all previous runs) | 2026-07-05 |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo (same as all prior runs) | 2026-07-05 |
 
 ## Queue
 
@@ -24,6 +24,21 @@ Dashboard subfolder: `tfr`
 <!-- Move completed items here with publish date -->
 
 ## Pipeline Run Log
+
+### 2026-07-05 — Full Pipeline Run
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total (PostPlanner xlsx: 18 posts standard, 13 TOBI)
+- **Articles:** 5 (bylines: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3])
+- **PostPlanner exports:** tfr-postplanner-2026-07-05.xlsx (18 posts, 12:53–21:23 ET), tfr-postplanner-tobi-2026-07-05.xlsx (13 TOBI posts)
+- **Coverage:** Eala stuns Swiatek 7-6(9), 6-2 — first Filipino player in Grand Slam second week (Open Era); quotes: "Being here is a blessing" + "little girls with ruffled socks and chubby cheeks"; 24 winners, 5/7 BPs, 68% on Swiatek 2nd serve; next Paolini R4 Day 8. Mertens (No. 25) def. Rybakina (No. 2) 7-6(4), 6-1 — 96 min; first grass top-10 win for Mertens; only 2nd win in 9 meetings vs Rybakina; Day 6 eliminated both No. 2 and No. 3 seeds. Bublik def. Tiafoe 4-6, 7-6(5), 7-6(13-11), 4-6, 6-3 — 48 aces, saved 9 set points in 13-11 TB; Zverev def. Giron 6-2, 7-6, 6-4; Keys def. Anisimova 3-6, 6-2, 6-3. Day 7 Preview: Djokovic (105 wins=Federer) vs Safiullin for sole record at 106; H2H 3-0 Djokovic, first grass meeting; Sabalenka vs Osaka R4 first grass meeting, H2H 8-4 Sabalenka, Osaka first-ever Wimbledon R4; Sinner vs Mochizuki; Gauff vs Bencic; Pegula vs Jovic; FAA vs DAF. Open Women's draw: Swiatek + Rybakina both gone Day 6; Sabalenka frontrunner; Eala vs Paolini Day 8.
+- **Notes:**
+  - verify-facts.py: passed; 21 claims, 45 HIGH; image not_started warnings cosmetic (expected for imagn source)
+  - compile: 5 stories, 8 X posts, 0 FB posts (parser compatibility — same as all prior runs), 5 articles, 5 images; 23 dashboard items; posting window warnings cosmetic
+  - PostPlanner exports: standard (18 posts) and TOBI (13 posts) generated successfully; 12:53–21:23 ET
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Ryan Calloway [S1, S4], Marcus Cole [S2, S5], Elena Voss [S3] (rotating from July 4: Elena Voss [S1, S4])
 
 ### 2026-07-04 — Full Pipeline Run
 - **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
