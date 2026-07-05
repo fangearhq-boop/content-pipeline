@@ -5,6 +5,60 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-05
+
+### Story 1: All-Star Starters Revealed — Dodgers Lead With 4, Freeman Earns 10th
+- **Date:** 2026-07-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP (All-Star tracking through July 4 pipeline)
+- **Angle:** Full starting lineups revealed July 4 on FOX. Dodgers lead all teams with 4 starters (Ohtani/Freeman/Muncy/Pages). AL starters: Langeliers/Guerrero Jr./Clement/Caminero/Witt Jr./Trout/Buxton/Judge/Alvarez. 26 first-timers. Freeman's 10th selection. Acuña left off. Full rosters July 6. Game July 14 at Citizens Bank Park.
+- **Content Produced:** Article (article-01, Marcus Cole), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Full roster announcement July 6
+  - All-Star Game July 14 coverage
+
+### Story 2: Yamamoto Strikes Out 10, Freeman Homers — Star-Spangled Sunday Highlights
+- **Date:** 2026-07-05
+- **Tier:** 1
+- **Classification:** NEW STORY (first Star-Spangled Sunday coverage)
+- **Angle:** Yamamoto 7 IP/10 K/0 R, Dodgers shut out Padres 3-0. Freeman HR. Braves 10-3 over Mets. White Sox 3-1 over Guardians. All 15 games on NBC/Peacock — MLB first.
+- **Content Produced:** Article (article-02, Jake Torres), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Peacock viewership metrics
+  - Dodgers second-half run
+
+### Story 3: Home Run Derby Update — Caminero In, Judge Out, Schwarber Conditional
+- **Date:** 2026-07-05
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Derby tracked since June 10; Judge out is new)
+- **Angle:** Caminero (Rays, 28 HR, 7 HR in a week) confirmed first entrant. Judge out — rib stress fracture, IL since June 5. Schwarber conditional on back health. Derby July 13 Netflix (first time). New swing-based format: 20 swings R1, 15 R2/Final.
+- **Content Produced:** Article (article-03, Ryan Calloway), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Full Derby field announcement July 6
+  - Derby July 13 coverage
+
+### Story 4: Skubal Trade — Tigers Sweep Yankees But Still Selling
+- **Date:** 2026-07-05
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Skubal market tracked since June 26)
+- **Angle:** Tigers swept Yankees but are 38-49 — still sellers. Braves frontrunner (Nightengale). Dodgers not in. Yankees "no chance." Brewers/Cubs/Phillies/Padres/Rays/Red Sox also interested (Heyman). 85% trade probability (ESPN). Aug 3 deadline: 29 days.
+- **Content Produced:** Article (article-04, Marcus Cole), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Trade announcement (any day through August 3)
+  - Deadline August 3 final 48 hours
+
+### Story 5: AL Central Tightens — White Sox 1 Game Back After July 5 Win
+- **Date:** 2026-07-05
+- **Tier:** 2
+- **Classification:** FOLLOW UP (AL Central tracked since July 3)
+- **Angle:** White Sox beat Guardians 3-1 on July 5. Guardians ~47-43, White Sox ~46-43. One game separates the two in what is baseball's best turnaround story — White Sox went 41-121 in 2024. Both clubs face ambiguous trade deadline decisions.
+- **Content Produced:** Article (article-05, Jake Torres), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - White Sox/Guardians divisional series
+  - August 3 trade deadline decisions for both clubs
+
+---
+
 ## 2026-07-03
 
 ### Story 1: All-Star Starters Announced Tomorrow — FOX 7:30 PM ET, Phase 2 Results In

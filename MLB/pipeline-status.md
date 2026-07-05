@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-05
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 1 char violation fixed Story 3 283→279; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (34 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
+- **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). Dashboard publish 403 (proxy blocks content-dashboards — known). IMAGE MISSING expected (not_started). claim-patterns.py missing (known). 1 char violation fixed (Story 3 tweet 283→279).
+- **Key Stories**: All-Star starters full reveal/Dodgers 4 starters (Ohtani+Freeman+Muncy+Pages)/Freeman 10th selection/26 first-timers/Acuña not selected/full rosters July 6 (Tier 1 FOLLOW UP), Yamamoto 10 K/7 IP/0 R vs Padres/Dodgers 3-0/Freeman HR/Star-Spangled Sunday all 15 games NBC-Peacock first ever/Braves 10-3/White Sox 3-1 (Tier 1 NEW), Derby update/Caminero confirmed first+7 HR week/Judge OUT rib fracture/Schwarber conditional/Netflix July 13 new swing format (Tier 1 FOLLOW UP), Skubal/Tigers sweep Yankees still 38-49 still sellers/Braves frontrunner Nightengale/Yankees "no chance"/Aug 3 29 days (Tier 2 FOLLOW UP), AL Central/White Sox 3-1 over Guardians/1 game back/41-121 in 2024 turnaround context (Tier 2 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-04
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents), brief (5 stories), research notes, story analysis, X posts (7; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (40 claims HIGH; universal extraction only — claim-patterns.py missing known), compile (5 stories, 7 tweets, 0 FB posts parsed — known format, 5 articles, 22 items), dashboard (22 items), dashboard publish 403 (proxy). PostPlanner exports (7 posts each). WordPress 403 (proxy sandbox — known). Content committed and pushed.
 - **Dashboard Published**: Attempted — proxy blocked push to content-dashboards repo
