@@ -2,6 +2,50 @@
 
 ---
 
+## July 5, 2026
+
+### Story 1: Wildfire Smoke Is Reaching Colorado Springs — Here's What Families Need to Do Right Now
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Aspen Acres Fire (85,580+ acres, 0% containment as of July 4) sending smoke into Colorado Springs and the I-25 corridor. Air quality has degraded with CDPHE issuing warnings. Article covers: why children and infants are especially vulnerable to PM2.5; AQI thresholds and what to do at each level; indoor protection (HEPA purifiers, closed windows, hydration, limited outdoor activity); symptoms to watch; specific guidance for children with asthma. Sources: koaa.com, fox21news.com, newsweek.com, cpr.org.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** 85,580+ acres burned (HIGH); fire started June 29 (HIGH); 0% containment July 4 (HIGH); 3,800+ homes evacuated (HIGH); 180+ structures destroyed (MEDIUM); smoke reaching Colorado Springs and I-25 corridor (HIGH); CDPHE issued air quality warnings (HIGH)
+- **Follow-Up Opportunities:** Fire containment update; post-smoke air quality recovery; school reopening guidance if smoke persists into August
+
+### Story 2: CPSC Recalls ~118,000 Criblike Mattresses Sold on Amazon — Entrapment and Suffocation Risk
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — CPSC recall of ~118,000 Criblike brand aftermarket crib mattresses sold by Mengna on Amazon. Models XCD-001, XCD-002 (Pack-n-Play, ~38x26"), MNCL-001 (mini-crib, ~38x24"). Sold May 2023–September 2025 for $20–$60. Mattresses may not fit certain play yards/cribs, leaving a deadly entrapment gap where infant's face can press against mattress edge and wall, preventing breathing. Mini-crib model also fails mandatory flammability standards. Remedy: stop use; cut in half; photograph; email Criblike-service_2025@outlook.com for full refund. Sources: cpsc.gov.
+- **Content Produced:** Article (Sarah Morales), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov (official recall; ~118,000 units, all model numbers, sale dates, price, retailer, hazard description, remedy email — HIGH)
+- **Follow-Up Opportunities:** None — recall active; will age out
+
+### Story 3: Two Baby Lounger Recalls — Vevor and YGJT Products Flagged for Entrapment and Fall Hazards
+- **Content Pillar:** National Parenting
+- **Angle:** NEW STORY — Two active CPSC recalls for baby loungers with identical hazard profile. (1) Vevor Baby Loungers: ~237 units, VEVOR.com + Amazon.com + Wayfair.com, November 2024–January 2026, ~$30; colors: snow deer/good night/forest friends oval & backpack/green; remedy: call 855-599-6320 or email recalling@vevor.com for full refund. (2) YGJT Baby Loungers: ~2,500 units, SHEIN.com, June–August 2025, $18–$21; white/light blue with rainbows and bears; remedy: destroy (cut all pieces in half), email photo to YGJTrecall@outlook.com for full refund. Both violate mandatory infant sleep product standard: sides too low, foot openings too wide, no stand. Note: distinct from Vevor Baby Swings (incline/suffocation) covered July 1. Sources: cpsc.gov.
+- **Content Produced:** Article (Jamie Rivera), 2 X Text Posts, Facebook Long-Form + Caption, Image Concepts (x2)
+- **Tier:** 1
+- **Key Facts:** cpsc.gov (all details for both recalls — units, retailers, dates, prices, colors, hazards, remedies — HIGH)
+- **Follow-Up Opportunities:** None — recalls active; will age out
+
+### Story 4: Free Family Events in Colorado Springs All July Long — Parks and Rec Month
+- **Content Pillar:** Local Events
+- **Angle:** FOLLOW-UP (prior coverage June 29 covered Silent Disco July 11 and Music in Park July 25; today's angle focuses on week-ahead events starting July 6 + full July calendar) — Zumba in the Park + Community Fair at Panorama Park: Thursday July 6, 5–8 PM (tomorrow at time of publication). Silent Disco July 11, Family Fun Walk at Memorial Park July 15 (9 AM–noon), Music in Park at Piñon Valley July 25 and 28. Three contests: Coloring Contest, Build Your Own Park challenge, photo contest. All events free. Info: coloradosprings.gov/ParkandRecMonth. Sources: coloradosprings.gov, krdo.com.
+- **Content Produced:** Article (Sarah Morales), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** coloradosprings.gov (official; July 6 event confirmed at 5–8 PM, HIGH); krdo.com (event confirmed, HIGH); July 11/15/25/28 dates (HIGH)
+- **Follow-Up Opportunities:** Event-day reminder July 11; photo contest winner
+
+### Story 5: Back to School 2026 in Colorado Springs — What D11, D20, and D49 Families Need to Know
+- **Content Pillar:** Local News
+- **Angle:** NEW STORY — Multi-district back-to-school prep guide, approximately six weeks before start of school. D11: provides each K-8 student a basic supply starter kit (enrollment at d11.org). D20: supply lists available now at asd20.org/school-supplies. D49: staggered first day — only Kindergartners, sixth graders, and ninth graders attend on day one. Article also includes: bedtime transition tips, backpack audit, immunization reminder. Sources: d11.org, asd20.org, d49.org, kdvr.com.
+- **Content Produced:** Article (Jamie Rivera), 1 X Text Post, Facebook Long-Form + Caption, Image Concept (x1)
+- **Tier:** 2
+- **Key Facts:** d11.org (supply starter kit for K-8, HIGH); asd20.org/school-supplies (supply lists available now, HIGH); d49.org (staggered first day — K/6th/9th only on day one, HIGH)
+- **Follow-Up Opportunities:** First day of school recap; D49 staggered start experience; supply list comparison
+
+---
+
 ## July 4, 2026
 
 ### Story 1: CPSC Issues Urgent Warning on Fasando Baby Loungers — Infant Death Reported, Manufacturer Refuses Recall

@@ -1,0 +1,296 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-05",
+  "compiled_at": "2026-07-05T12:44:57.701114+00:00",
+  "niche": {
+    "brand_name": "COS Parenting",
+    "brand_short": "COSP",
+    "content_prefix": "parenting-content",
+    "platforms": [
+      "x_twitter",
+      "facebook"
+    ],
+    "timezone": "MT",
+    "photo_source": "gemini"
+  },
+  "schedule": [],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Aspen Acres Wildfire Smoke Safety — What COS Families Need to Do Now",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 1-1",
+          "text": "Wildfire smoke from the Aspen Acres Fire (85,580+ acres, 0% contained) is reaching Colorado Springs. Keep kids indoors. Close windows, run HEPA air purifiers, limit outdoor activity. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 242
+        },
+        {
+          "label": "Post 1-2",
+          "text": "Air quality alert: if you're in Colorado Springs and can smell smoke, that's enough to keep kids inside. Opt for indoor play, run fans with HEPA filters, and hydrate well. Aspen Acres Fire still at 0% containment. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 273
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-01-aspen-acres-wildfire-smoke-safety-cos.html",
+        "headline": "Wildfire Smoke Is Reaching Colorado Springs — Here's What Families Need to Do Right Now",
+        "word_count": 683
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Aspen Acres Wildfire Smoke Safety\n\n#### img-01a — Social (1200x675)\n\n**Prompt:**\nA young child sitting by a closed window indoors, looking outside at a hazy, smoke-tinged sky. Warm interior lighting contrasts with the muted orange-gray outdoor haze. The child's expression is calm and curious. The window frame takes up the right side; the indoor space is cozy with soft textures. A HEPA air purifier sits in the background corner. Photorealistic style, shallow depth of field, warm amber and soft blue tones. Clean visual space in the bottom third with a light neutral floor or rug visible.\n\n---\n\n#### img-01b — Article Hero (1200x630)\n\n**Prompt:**\nA wide view of a suburban neighborhood in Colorado under a hazy, smoke-tinged sky — yellow-orange atmospheric tint from wildfire smoke in the distance. A family home with closed windows and a quiet street. No people visible. Late afternoon light filtered through smoke haze gives the scene an eerie golden cast. Photorealistic style, realistic atmospheric perspective. Clean visual space in the bottom third with a sidewalk or grass foreground.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Aspen Acres Wildfire Smoke Safety\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Aspen Acres Fire: 85,580+ acres burned as of July 4 | HIGH | koaa.com, fox21news.com |\n| Fire started June 29, 2026 | HIGH | koaa.com, newsweek.com |\n| Fire located in Wet Mountains (Pueblo and Custer counties) | HIGH | koaa.com, cpr.org |\n| 0% containment as of July 4 | HIGH | fox21news.com, koaa.com |\n| Smoke reaching Colorado Springs and Canon City | HIGH | koaa.com, cpr.org |\n| I-25 corridor impacted by smoke | HIGH | koaa.com |\n| 3,800+ homes evacuated | HIGH | newsweek.com |\n| 180+ structures destroyed | MEDIUM | newsweek.com (estimate) |\n| CDPHE issued air quality warnings for region | HIGH | cpr.org |\n| Children and infants especially vulnerable to smoke particles (PM2.5) | HIGH | CDC, EPA guidance |\n| Recommended actions: stay indoors, close windows, HEPA air purifiers, limit outdoor exercise, hydrate | HIGH | EPA AirNow.gov, AAP guidance |\n| \"If you can smell smoke, air quality is unsafe\" — general EPA guidance | HIGH | EPA AirNow.gov |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "Recall — Criblike Mattresses (Mengna, Amazon): ~118,000 Units, Entrapment and Suffocation Risk",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 2-1",
+          "text": "RECALL: ~118,000 Criblike crib mattresses (Amazon, 2023–2025, $20–$60). Too small for some play yards/cribs → deadly entrapment gap. Cut in half + photo to Criblike for a full refund. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 243
+        },
+        {
+          "label": "Post 2-2",
+          "text": "If you have a Criblike play yard mattress at home, stop using it now. About 118,000 units are recalled — mattress may not fit properly, leaving a dangerous gap. Check yours: models XCD-001, XCD-002, MNCL-001. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 268
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-02-criblike-mattress-recall-cpsc.html",
+        "headline": "CPSC Recalls ~118,000 Criblike Mattresses Sold on Amazon — What Parents Need to Know",
+        "word_count": 582
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Criblike Mattresses Recall\n\n#### img-02a — Social (1200x675)\n\n**Prompt:**\nA close-up of a simple pack-and-play portable crib with a visible gap between the mattress edge and the crib mesh wall. Soft, neutral nursery setting — white walls, gentle natural light. No infant or child in the image. The gap between the mattress and the wall is clearly visible. Photorealistic style, soft and clean nursery aesthetic, muted white and beige tones. Clean visual space in the bottom third with a light-colored nursery floor visible.\n\n---\n\n#### img-02b — Article Hero (1200x630)\n\n**Prompt:**\nA calm, organized nursery with a portable crib or mini-crib as the focal point. Soft natural light from a nearby window. The crib is empty. No infant or child. Clean modern nursery aesthetic — white and light wood tones, soft textiles. The mattress inside the crib has a visible slight gap at the edges. Photorealistic style, gentle and informative mood. Clean visual space in the bottom third with a light hardwood or neutral floor.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Criblike Mattresses (Mengna) Recall\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| CPSC recall of Criblike brand mattresses | HIGH | cpsc.gov |\n| Sold by Mengna on Amazon.com | HIGH | cpsc.gov |\n| ~118,000 units recalled | HIGH | cpsc.gov |\n| Models: XCD-001, XCD-002 (Pack-n-Play, ~38x26 inches) | HIGH | cpsc.gov |\n| Model MNCL-001 (mini-crib, ~38x24 inches) | HIGH | cpsc.gov |\n| Sold May 2023 through September 2025 | HIGH | cpsc.gov |\n| Price range: $20–$60 | HIGH | cpsc.gov |\n| Sold exclusively on Amazon.com | HIGH | cpsc.gov |\n| Hazard: undersized for certain play yards/cribs → entrapment gap | HIGH | cpsc.gov |\n| Infant's face can press against mattress and side wall, blocking breathing | HIGH | cpsc.gov |\n| Mini-crib model also fails mandatory mattress flammability standards | HIGH | cpsc.gov |\n| Remedy: stop use immediately | HIGH | cpsc.gov |\n| Remedy: cut mattress in half, photograph, email Criblike-service_2025@outlook.com | HIGH | cpsc.gov |\n| Remedy: full refund provided | HIGH | cpsc.gov |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Two Baby Lounger Recalls — Vevor and YGJT Products Pose Entrapment and Fall Hazards",
+      "tier": 1,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 3-1",
+          "text": "TWO baby lounger recalls: Vevor (Amazon/Wayfair, ~$30, Nov 2024–Jan 2026) and YGJT (SHEIN, $18–$21, Jun–Aug 2025). Both have sides too low + foot openings too wide → entrapment. Stop use + destroy immediately. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 269
+        },
+        {
+          "label": "Post 3-2",
+          "text": "Got a Vevor or YGJT baby lounger? Stop using it. Vevor: recalling@vevor.com or 855-599-6320. YGJT: YGJTrecall@outlook.com. Both offer full refunds. These loungers don't meet infant sleep safety standards. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 264
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-03-vevor-ygjt-baby-lounger-recalls.html",
+        "headline": "Two Baby Lounger Recalls: Vevor and YGJT Products Flagged for Entrapment and Fall Hazards",
+        "word_count": 613
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Baby Lounger Recalls (Vevor + YGJT)\n\n#### img-03a — Social (1200x675)\n\n**Prompt:**\nTwo soft fabric baby loungers side by side on a clean white surface — one in a neutral earthy green pattern, the other in white and light blue with a cartoon rainbows and bears print. The loungers are empty. Studio-style flat lay, overhead or slight angle view, even lighting. Photorealistic style, clean white background. No infants or children. Clean visual space in the bottom third.\n\n---\n\n#### img-03b — Article Hero (1200x630)\n\n**Prompt:**\nA baby lounger cushion on a light wood nursery floor, empty and unoccupied. Soft neutral nursery setting — light gray walls, natural daylight. The lounger has a simple foam pad and padded fabric bumper visible. Photorealistic style, soft Scandinavian nursery aesthetic, muted beige and gray tones. No infant or child in the image. Clean visual space in the bottom third.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Vevor Baby Loungers + YGJT Baby Loungers Recalls\n**Vevor Baby Loungers:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| CPSC recall of Vevor Baby Loungers | HIGH | cpsc.gov |\n| ~237 units recalled | HIGH | cpsc.gov |\n| Sold at VEVOR.com, Amazon.com, Wayfair.com | HIGH | cpsc.gov |\n| Sold November 2024 through January 2026 | HIGH | cpsc.gov |\n| Price: ~$30 | HIGH | cpsc.gov |\n| Colors: snow deer, good night, forest friends (oval), forest friends (backpack), green | HIGH | cpsc.gov |\n| Foam sleeping pad and padded bumpers with cloth cover, ribbon at one end | HIGH | cpsc.gov |\n| Hazard: sides too low to contain infant | HIGH | cpsc.gov |\n| Hazard: enclosed foot openings wider than allowed → entrapment | HIGH | cpsc.gov |\n| Hazard: no stand → fall risk on elevated surfaces | HIGH | cpsc.gov |\n| Contact: 855-599-6320, 9 AM–5 PM PT, Mon–Fri | HIGH | cpsc.gov |\n| Contact: recalling@vevor.com | HIGH | cpsc.gov |\n| Website: vevor.com/pages/vevor-baby-loungers | HIGH | cpsc.gov |\n| Remedy: full refund | HIGH | cpsc.gov |\n**YGJT Baby Loungers:**\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| CPSC recall of YGJT Baby Loungers | HIGH | cpsc.gov |\n| Sold by YGJT Local Warehouse on SHEIN.com | HIGH | cpsc.gov |\n| ~2,500 units recalled | HIGH | cpsc.gov |\n| Sold June 2025 through August 2025 | HIGH | cpsc.gov |\n| Price: $18–$21 | HIGH | cpsc.gov |\n| Color: white and light blue with rainbows and bears | HIGH | cpsc.gov |\n| Made of foam sleeping pad and padded bumpers with cloth cover | HIGH | cpsc.gov |\n| Same hazards: sides too low, foot openings too wide, no stand | HIGH | cpsc.gov |\n| Remedy: destroy product — cut foam, pad, and cover in half | HIGH | cpsc.gov |\n| Remedy: email photos to YGJTrecall@outlook.com for full refund | HIGH | cpsc.gov |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "COS Parks and Rec Month — Free Events Starting Tomorrow",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Tomorrow in COS: Zumba in the Park + Community Fair at Panorama Park, Thursday July 6, 5–8 PM — free. Also ahead: Silent Disco July 11, Family Fun Walk July 15, Music in Park July 25 + 28. #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "FOLLOW-UP (prior coverage June 29; new events this week)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 248
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-04-cos-park-rec-month-july-events.html",
+        "headline": "Free Family Events in Colorado Springs All July Long — Park and Rec Month Is Underway",
+        "word_count": 485
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "COS Parks and Rec Month Free Events\n\n#### img-04a — Social (1200x675)\n\n**Prompt:**\nA vibrant outdoor scene in a park on a warm summer evening — families and children on green grass, trees in the background, soft golden hour light. The mood is celebratory and community-oriented: children running, adults relaxing on blankets, colorful summer clothing. No specific faces or recognizable individuals. Photorealistic illustration style, bright teal and coral warm summer palette. Clean visual space in the bottom third with green grass foreground.\n\n---"
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "COS Parks & Rec Month Free Events\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| July is National Park and Recreation Month | HIGH | coloradosprings.gov |\n| City of Colorado Springs PRCS hosting free events | HIGH | coloradosprings.gov |\n| Theme: \"The Power Of\" | HIGH | coloradosprings.gov |\n| Zumba in the Park + Community Fair at Panorama Park: Thursday July 6, 5–8 PM | HIGH | coloradosprings.gov, krdo.com |\n| Silent Disco at Panorama Park: Friday July 11 | HIGH | coloradosprings.gov |\n| Family Fun Walk at Memorial Park: Saturday July 15, 9 AM–noon | HIGH | coloradosprings.gov |\n| Music in the Park at Piñon Valley: July 25 and July 28 | HIGH | coloradosprings.gov |\n| Contests: Coloring contest, \"Build Your Own Park\" challenge, photo contest | HIGH | coloradosprings.gov |\n| All events are free | HIGH | coloradosprings.gov |\n| Info website: coloradosprings.gov/ParkandRecMonth | HIGH | coloradosprings.gov |\n| Panorama Park location: Colorado Springs | HIGH | coloradosprings.gov |",
+        "sources": ""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Back to School 2026 COS — D11, D20, and D49 What Families Need to Know",
+      "tier": 2,
+      "status": "",
+      "angle": "",
+      "posting_window": "",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "COS back-to-school is about 6 weeks away. D11 provides each K-8 student a supply starter kit. D49 staggered start: only K, 6th, and 9th grade attend on day one. D20 info: asd20.org/school-supplies #COSParenting #ColoradoSprings #COSKids #PikesPeakParenting",
+          "posting_time": "",
+          "tweet_type": "NEW STORY (new angle: multi-district prep guide with supply kit + staggered start details)",
+          "hashtags": [
+            "#COSParenting",
+            "#ColoradoSprings",
+            "#COSKids",
+            "#PikesPeakParenting"
+          ],
+          "char_count": 256
+        }
+      ],
+      "facebook": {
+        "long_form": "",
+        "image_caption": "",
+        "posting_time": ""
+      },
+      "article": {
+        "filename": "article-05-back-to-school-2026-cos-d11-d20-d49.html",
+        "headline": "Back to School 2026 in Colorado Springs — What D11, D20, and D49 Families Need to Know Now",
+        "word_count": 660
+      },
+      "image_concepts": [
+        {
+          "label": "Image",
+          "raw": "Back to School 2026 COS\n\n#### img-05a — Social (1200x675)\n\n**Prompt:**\nA neatly arranged set of school supplies on a light wood desk: pencils, notebooks, crayons, a backpack in the background, ruler, and scissors. Flat lay composition with soft natural lighting. Warm golden tones, clean and organized. No children or people in the image. Photorealistic style, back-to-school aesthetic. Clean visual space in the bottom third with a light desk surface."
+        }
+      ],
+      "fact_check": null,
+      "research": {
+        "facts": "Back to School 2026 COS\n| Fact | Confidence | Source |\n|------|-----------|--------|\n| Approximately 6 weeks until school starts in COS districts | HIGH | calculated from July 5 date |\n| D11 provides each K-8 student a basic supply starter kit | HIGH | d11.org |\n| D11 enrollment information at d11.org/families-community/enrollment/studentenrollment | HIGH | d11.org |\n| D20 school supplies info at asd20.org/school-supplies | HIGH | asd20.org |\n| D49 staggered first day: only Kindergarten, 6th grade, and 9th grade attend on day one | HIGH | d49.org |\n| D11, D20, D49 are the main school districts serving Colorado Springs families | HIGH | general knowledge, district websites |\n| Back-to-school prep typically starts 4–6 weeks before first day | MEDIUM | kdvr.com, general guidance |",
+        "sources": ""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 5,
+    "x_posts_count": 8,
+    "facebook_posts_count": 0,
+    "articles_count": 5,
+    "image_concepts_count": 5
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Story 1: No posting window specified",
+      "Story 2: No posting window specified",
+      "Story 3: No posting window specified",
+      "Story 4: No posting window specified",
+      "Story 5: No posting window specified"
+    ],
+    "missing_files": []
+  }
+}

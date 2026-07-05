@@ -1,6 +1,45 @@
 # COS Parenting — Pipeline Status
 
-## Latest Run: July 4, 2026
+## Latest Run: July 5, 2026
+
+| Step | Status | Notes |
+|------|--------|-------|
+| Research (web search) | COMPLETE | Aspen Acres Fire smoke safety (koaa.com/fox21news.com/newsweek.com/cpr.org — 85,580+ acres, 0% containment, started June 29 Wet Mountains Pueblo/Custer counties, smoke reaching Colorado Springs + I-25 corridor, CDPHE air quality warnings, 3,800+ homes evacuated, 180+ structures destroyed); Criblike mattresses recall (cpsc.gov — ~118,000 units, Mengna/Amazon, models XCD-001/XCD-002 Pack-n-Play ~38x26" and MNCL-001 mini-crib ~38x24", May 2023–September 2025, $20–$60, undersized → entrapment gap + MNCL-001 fails flammability, remedy: cut in half + email photo to Criblike-service_2025@outlook.com for full refund); Vevor Baby Loungers recall (cpsc.gov — ~237 units, VEVOR.com+Amazon.com+Wayfair.com, Nov 2024–Jan 2026, ~$30, colors: snow deer/good night/forest friends oval & backpack/green, sides too low + foot openings too wide + no stand → entrapment/fall, remedy: 855-599-6320 or recalling@vevor.com full refund); YGJT Baby Loungers recall (cpsc.gov — ~2,500 units, SHEIN.com, Jun–Aug 2025, $18–$21, white/light blue rainbows and bears, same hazards, remedy: destroy + email photo to YGJTrecall@outlook.com full refund); COS Parks Rec Month events (coloradosprings.gov/krdo.com — Zumba + Community Fair Panorama Park July 6 5–8 PM, Silent Disco July 11, Family Fun Walk Memorial Park July 15 9 AM–noon, Music in Park Piñon Valley July 25 and 28, contests: coloring/Build Your Own Park/photo, coloradosprings.gov/ParkandRecMonth); Back to School 2026 (d11.org/asd20.org/d49.org/kdvr.com — D11 provides K-8 supply starter kit/enrollment d11.org, D20 supply lists at asd20.org/school-supplies, D49 staggered first day K+6th+9th only) |
+| Story History Check | COMPLETE | S2 (Cosyland) excluded — covered July 2 (confirmed in pipeline-status.md); S3 changed from Vevor Baby Swings (covered July 1 in roundup) to Vevor Baby Loungers + YGJT Baby Loungers (new, July 2 — distinct product from Vevor Baby Swings); 5 final stories: Aspen Acres fire safety (NEW Tier 1), Criblike mattress recall (NEW Tier 1), Vevor+YGJT baby loungers recall (NEW Tier 1), Parks Rec Month follow-up (FOLLOW-UP Tier 2), Back to school (NEW Tier 2) |
+| Daily Brief | COMPLETE | 00-daily-brief.md — 5 stories (3 Tier 1, 2 Tier 2); ### STORY N: format |
+| Research Notes | COMPLETE | 01-research-notes.md — HIGH/MEDIUM/LOW confidence tags; all facts from web search |
+| Story Analysis | COMPLETE | 02-story-analysis.md — bylines: Jamie Rivera (S1, S3, S5), Sarah Morales (S2, S4) |
+| X Posts | COMPLETE | 03-social-posts-x.md — 8 posts (2 for S1, 2 for S2, 2 for S3, 1 for S4, 1 for S5); all under 280 chars; 4 hashtags each; COS voice rules; 0 exclamation marks |
+| Facebook Posts | COMPLETE | 04-social-posts-facebook.md — 5 Long-Form + 5 Image Captions; engagement questions; NO hashtags; COS voice rules; contractions throughout |
+| Image Concepts | COMPLETE | 05-image-concepts.md — 8 Gemini base_only prompts (2 per Tier 1 story, 1 per Tier 2 story; 1200x675 social + 1200x630 article hero); clean bottom third; no celebrity likenesses; no brand logos |
+| Image Manifest | COMPLETE | 07-image-manifest.md — table format; 8 images across 5 stories; all not_started; photo_source: gemini; model: gemini-2.5-flash-image |
+| Articles | COMPLETE | 5 articles (500–800 words; Quick Reference tables in S1, S2, S3, S4, S5; What's Next sections; 0 exclamation marks; no figure tags; no photo credits; semantic HTML5); bylines: Jamie Rivera (A1, A3, A5), Sarah Morales (A2, A4) |
+| Fact-Check | COMPLETE | verify-facts.py passed; 80 claims; HIGH: 125, MEDIUM: 71, LOW: 118; all 5 stories present in all content files; image manifest warnings cosmetic (expected for gemini source) |
+| Compile | COMPLETE | 07-content-data.json — 5 stories, 8 X posts, 0 FB posts (parser compatibility), 5 articles, 5 images; 23 dashboard items |
+| Dashboard | COMPLETE | review-dashboard.html — 23 items |
+| PostPlanner Export | COMPLETE | Standard cosp-postplanner-2026-07-05.xlsx (18 posts, 13:15–21:28 MT) + TOBI cosp-postplanner-tobi-2026-07-05.xlsx (13 TOBI posts) |
+| Dashboard Push | Attempted — PAT lacks write access to content-dashboards repo | Same environment restriction as all prior runs |
+| WordPress Publish | Attempted — proxy blocks WordPress API | Same environment restriction as all prior runs |
+
+## Pipeline Run Log (2026-07-05)
+- **Steps completed:** All 15 (Research → Story History → Brief → Research Notes → Analysis → X Posts → FB Posts → Image Concepts → Articles → Fact-Check → Compile → Image Manifest → Dashboard → PostPlanner Export x2 → Publish attempt)
+- **Stories:** 5 stories (3 Tier 1, 2 Tier 2)
+- **Posts:** 8 X posts + 5 FB long-form + 5 FB captions = 18 total posts (PostPlanner xlsx: 18 posts standard, 13 TOBI)
+- **Articles:** 5 (bylines: Jamie Rivera x3 [A1, A3, A5], Sarah Morales x2 [A2, A4])
+- **PostPlanner exports:** cosp-postplanner-2026-07-05.xlsx (18 posts, 13:15–21:28 MT), cosp-postplanner-tobi-2026-07-05.xlsx (13 TOBI posts)
+- **Coverage:** Aspen Acres Fire wildfire smoke safety (85,580+ acres 0% containment; smoke reaching COS + I-25; CDPHE warnings; 3,800+ homes evacuated; PM2.5 hazards for children; AQI thresholds; HEPA purifiers; symptoms to watch; koaa.com/fox21news.com/newsweek.com/cpr.org); Criblike mattresses recall (~118,000 units; Mengna/Amazon; models XCD-001/XCD-002 Pack-n-Play + MNCL-001 mini-crib; May 2023–September 2025; $20–$60; undersized → deadly entrapment gap + flammability failure on mini-crib; cut in half + email photo Criblike-service_2025@outlook.com full refund; cpsc.gov); Vevor + YGJT baby loungers recalls (Vevor: ~237 units VEVOR.com+Amazon+Wayfair Nov 2024–Jan 2026 ~$30 snow deer/good night/forest friends/green; YGJT: ~2,500 units SHEIN.com Jun–Aug 2025 $18–$21 white/light blue rainbows+bears; both: sides too low + foot openings too wide + no stand → entrapment + fall; Vevor remedy: 855-599-6320 or recalling@vevor.com full refund; YGJT remedy: destroy + email photo YGJTrecall@outlook.com full refund; cpsc.gov); COS Parks Rec Month events follow-up (Zumba + Community Fair Panorama Park July 6 5–8 PM, Silent Disco July 11, Family Fun Walk Memorial Park July 15 9 AM–noon, Music in Park Piñon Valley July 25+28, coloring/Build Your Own Park/photo contests, coloradosprings.gov/ParkandRecMonth); Back to school 2026 (D11: K-8 supply starter kit d11.org; D20: supply lists at asd20.org/school-supplies; D49: staggered first day K+6th+9th grade only; bedtime/backpack/immunization tips; d11.org/asd20.org/d49.org/kdvr.com)
+- **Notes:**
+  - Ran as Niche 2 in sequence after Tennis niche (session resumed from context compaction; Parenting directory had been created but no files written)
+  - Story changes: original research planned Cosyland (already covered July 2) as S2 and Vevor Baby Swings (already covered July 1 in roundup) as S3. Both replaced: S2 → Criblike mattresses recall (NEW, 118,000 units, cpsc.gov); S3 → Vevor Baby Loungers + YGJT Baby Loungers (NEW, entrapment/fall distinct from Vevor Baby Swings incline/suffocation covered July 1). Note: July 2 entries were missing from story-history.md (not updated after July 2 run) — confirmed July 2 Cosyland coverage via pipeline-status.md
+  - verify-facts.py: all 5 stories present; image manifest warnings cosmetic (expected for gemini source — same as all prior Parenting runs)
+  - Compile: 8 X posts, 0 FB posts (parser compatibility — same as all prior runs); 23 dashboard items; posting window warnings cosmetic
+  - WordPress proxy error: same environment restriction as all prior runs
+  - Dashboard push failed: PAT lacks write access to content-dashboards repo (same as all prior runs)
+  - Byline rotation: Jamie Rivera [S1, S3, S5], Sarah Morales [S2, S4] (rotating from July 4's Sarah Morales [S1, S3, S5])
+
+---
+
+## Prior Run: July 4, 2026
 
 | Step | Status | Notes |
 |------|--------|-------|
