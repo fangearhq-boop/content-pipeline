@@ -2,6 +2,51 @@
 
 <!-- Append newest at top using ### STORY N: headers -->
 
+## 2026-07-05
+
+| Date | Tier | Story | Platforms | Status |
+|------|------|-------|-----------|--------|
+| 2026-07-05 | T1 | LeBron Free Agency — Cavaliers Take the Lead | X, FB, Article | FOLLOW UP |
+| 2026-07-05 | T1 | Darryn Peterson Announces Himself in Summer League | X, FB, Article | NEW |
+| 2026-07-05 | T2 | July 6 Eve — Giannis, Kawhi, Brown Trades Execute Tomorrow | X, FB, Article | FOLLOW UP |
+| 2026-07-05 | T2 | Celtics' Full Rebuild Pivot — George, Robinson, Queta | X, FB, Article | FOLLOW UP |
+| 2026-07-05 | T2 | Tari Eason Re-Signs With Houston Rockets — 5 Years, $81.5M | X, FB, Article | NEW |
+
+### STORY 1: LeBron Free Agency — Cavaliers Take the Lead
+- **Tier:** 1
+- **Category:** NBA Free Agency / LeBron James
+- **Key facts:** Cavs at 40-56% prediction market odds; Warriors at 18-32%; Rich Paul: "I don't think this happens anytime soon"; LeBron heard from every team except 1-2; moratorium lifts July 6 12:01 PM ET; LeBron 41yo
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** LeBron signs July 6 or later; Cavs or Warriors announcement; press conference
+
+### STORY 2: Darryn Peterson Summer League Explosion
+- **Tier:** 1
+- **Category:** NBA Summer League / Rookies
+- **Key facts:** No. 2 pick Peterson (Utah Jazz) — 28 pts, 18 in 2nd half, go-ahead OT 3; Jazz 103-102 Hawks OT; Cameron Boozer (No. 3 pick, Memphis) — 15 pts, Grizzlies 111-74 OKC; Summer League running in SLC + California Classic
+- **Status:** NEW
+- **Follow-up ideas:** Peterson follow-up games; Boozer development; 2026 draft class watch
+
+### STORY 3: July 6 Eve — Giannis, Kawhi, Brown Trades Execute Tomorrow
+- **Tier:** 2
+- **Category:** NBA Offseason / Trades
+- **Key facts:** Giannis+Portis → Heat (Herro+Ware+Jaquez+Jakucionis+No.13+3 firsts+swap+2nd) July 6; Kawhi → Toronto (Ingram+Dick+picks) July 6; Brown → 76ers / George → Celtics July 6; moratorium 12:01 PM ET; Wiggins 3yr/$64M Miami
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Official executions; Giannis/Kawhi press conferences; Miami title odds
+
+### STORY 4: Celtics' Full Rebuild Pivot
+- **Tier:** 2
+- **Category:** NBA Free Agency / Celtics
+- **Key facts:** Brown (2024 Finals MVP) to 76ers; George to Celtics + 2028/2031 firsts + 2028/2030 seconds; Robinson 3yr/$47M; Queta 4yr/$56M; Boston has picks war chest; executes July 6
+- **Status:** FOLLOW UP
+- **Follow-up ideas:** Celtics roster construction; George-Tatum chemistry; 2026-27 title odds
+
+### STORY 5: Tari Eason Re-Signs With Houston Rockets
+- **Tier:** 2
+- **Category:** NBA Free Agency / Rockets
+- **Key facts:** Tari Eason re-signs Houston Rockets 5yr/$81.5M; defensive enforcer/forward; pre-moratorium agreed deal; executes July 6; Rockets loading up not rebuilding
+- **Status:** NEW
+- **Follow-up ideas:** Rockets offseason additions; Eason 2026-27 role; Houston playoff odds
+
 ## 2026-07-04
 
 | Date | Tier | Story | Platforms | Status |

@@ -1,10 +1,21 @@
 # NBA Pipeline Status — Hoop Heroes
 
 ## Last Run
-- **Date**: 2026-07-04
+- **Date**: 2026-07-05
 - **Steps Completed**: 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy; git committed and pushed)
 
 ## Pipeline Run Log
+
+### 2026-07-05
+- **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
+- **Stories:** 5 total (2 Tier 1, 3 Tier 2)
+- **X Posts:** 7 written, all under 280 characters
+- **Facebook Posts:** 5 stories, long-form + caption each
+- **Articles:** 5 (pen names: Marcus Cole, Damon Pierce, Jake Torres, Marcus Cole, Damon Pierce)
+- **PostPlanner exports:** hh-postplanner-2026-07-05.xlsx (7 posts) + hh-postplanner-tobi-2026-07-05.xlsx (7 TOBI posts)
+- **Dashboard:** review-dashboard.html generated at NBA/nba-content-2026-07-05/review-dashboard.html (27 items)
+- **Notes:** NBA FREE AGENCY DAY 6 EVE — Cavs now lead prediction markets for LeBron (40-56% vs Warriors 18-32%); Rich Paul: "I don't think this happens anytime soon"; Darryn Peterson (No. 2 pick) explodes for 28 pts (18 in 2H, OT game-winner) in Summer League debut; Cameron Boozer (No. 3 pick) 15 pts as Grizzlies rout OKC 111-74; July 6 moratorium lifts tomorrow — Giannis/Kawhi/Brown/George trades all execute at 12:01 PM ET; Celtics pivot: George + Robinson (3yr/$47M) + Queta (4yr/$56M); Tari Eason re-signs Rockets 5yr/$81.5M
+- **WordPress:** Blocked by egress proxy (Tunnel connection failed: 403 Forbidden) — persistent infrastructure issue
 
 ### 2026-07-04
 - **Steps completed:** 1-10b, 12-14 (Full pipeline; WordPress publish attempted — blocked by egress proxy)
