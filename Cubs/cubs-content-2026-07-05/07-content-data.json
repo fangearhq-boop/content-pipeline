@@ -1,0 +1,311 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-05",
+  "compiled_at": "2026-07-05T09:19:57.524278+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Cardinals 3, Cubs 0 — Game 2 Recap",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "PCA Named All-Star — Second Straight Year",
+      "type": "Bold/Celebratory"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Series Finale Preview: Assad vs. Liberatore",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Taillon Rehab / Rotation Injury Update",
+      "type": "Informative"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Wild Card Stakes: Cubs 49-40, Cardinals 47-39",
+      "type": "Analysis"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Pre-Game Bold Take — Assad, Stop the Sweep",
+      "type": "Bold"
+    },
+    {
+      "time": "3:45 PM",
+      "description": "Prospect Pipeline — Kelly, Dean, Farm Update",
+      "type": "Informative"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cardinals 3, Cubs 0 — Game 2 Recap",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cardinals shut out Cubs 3-0 on a foggy July 4 night at Wrigley. Wetherholt hit a leadoff homer on the first pitch. Imanaga took the loss (5-7). Two straight losses after a five-game win streak. Series finale today at 1:30 PM CT.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cardinals 3, Cubs 0.\n\nJJ Wetherholt homered on the first pitch, Leahy was sharp, and Imanaga couldn't find his command. Two straight losses after a five-game win streak.\n\nAssad vs. Liberatore, 1:30 PM CT. Stop the sweep.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 244
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 6,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Cardinals 3, Cubs 0 — Game 2 Recap\n- **[HIGH]** Final score: Cardinals 3, Cubs 0 — Sun-Times headline (\"Cubs lose 3-0\") + STL Today (\"rousing shutout win\") independently confirm shutout\n- **[HIGH]** Shota Imanaga took the loss; record now 5-7 — multiple sources\n- **[MEDIUM]** Imanaga's line: 4 2/3 IP, 4 H, 2 ER, 3 BB — from AI summary of CBS Sports gametracker\n- **[MEDIUM]** Jake Leahy win (7-4), 6 K, 2 BB, 3 singles allowed — AI summary of gametracker\n- **[MEDIUM]** Riley O'Brien save No. 22 — AI summary; plausible given Palencia on IL\n- **[MEDIUM]** JJ Wetherholt leadoff HR on first pitch — reported in multiple search results; STL Today story confirms it\n- **[LOW]** Cardinals rookie record: 4 leadoff HRs — NOT used in any tweet; flagged as single-source, not verified\n- **[MEDIUM]** Cardinals won 5 of last 6 games — AI summary claim; consistent with series results (won G1 17-1, G2 3-0)\n- **[HIGH]** PCA reached base 4 times (H + 2 BB + HBP) — consistent across multiple sources",
+        "sources": "Sources:\n- Chicago Sun-Times: \"Cubs lose 3-0 to Cardinals on foggy Wrigley night\"\n- STL Today: \"Cardinals keep Cubs in a fog, follow JJ Wetherholt's leadoff homer to rousing shutout win\"\n- ESPN gametracker\n- CBS Sports gametracker\n- Bleed Cubbie Blue (alternate score \"3-2\" noted but deprioritized vs. shutout confirmation from two beat outlets)"
+      }
+    },
+    {
+      "story_num": 2,
+      "title": "PCA Named Cubs' Lone All-Star — Second Straight Year",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Pete Crow-Armstrong named to the All-Star Game for the second consecutive year — announced July 4. The only Cub headed to Philadelphia on July 14. Season stats: .287 BA, 19 HR, 21 SB, .900 OPS. Solo rep on a $230M roster.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "Pete Crow-Armstrong is an All-Star. Again.\n\nThe Cubs' lone rep at the Midsummer Classic — July 14 in Philadelphia. The only name on a $230M roster who made it UNDENIABLE.\n\n.287 BA. 19 HR. 21 SB. .900 OPS. Second straight nod.\n\n#Cubs #GoCubs #ChicagoCubs",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold / Player Celebration",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#ChicagoCubs"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 4,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "PCA Named Cubs' Lone All-Star — Second Straight Year\n- **[HIGH]** PCA named to 2026 All-Star Game — MLB.com headline: \"Pete Crow-Armstrong earns second straight All-Star nod for Cubs\"; Chicago Sun-Times: \"Pete Crow-Armstrong named Cubs' lone All-Star\"; FOX 32 Chicago confirms\n- **[HIGH]** Second consecutive All-Star selection — confirmed in headline text of multiple sources\n- **[MEDIUM]** All-Star Game date: July 14 in Philadelphia — AI summary; plausible for 2026 but not independently verified with primary source\n- **[MEDIUM]** 2026 season stats: .287 BA, 19 HR, 21 SB, .900 OPS — AI summary of MLB.com player page; used with MEDIUM confidence\n- **[MEDIUM]** Cubs payroll approaching $230M — AI summary; not independently verified; used as narrative color only\n- **[LOW]** PCA tracking to join Sosa/Sandberg as only Cubs with consecutive 20/20 — AI summary compound claim; NOT used in any tweet per two-source rule",
+        "sources": "Sources:\n- MLB.com: \"Pete Crow-Armstrong earns second straight All-Star nod for Cubs\"\n- Chicago Sun-Times: \"Pete Crow-Armstrong named Cubs' lone All-Star\"\n- FOX 32 Chicago: \"Why a 2026 MLB All-Star nod is special to Cubs CF Pete Crow-Armstrong\""
+      }
+    },
+    {
+      "story_num": 3,
+      "title": "Series Finale Preview — Assad vs. Liberatore, 1:30 PM CT",
+      "tier": 1,
+      "status": "NEW STORY",
+      "angle": "Javier Assad (6-1, 4.53 ERA) faces Matthew Liberatore (4-5, 5.33 ERA) at Wrigley. Cardinals looking for the sweep. Cubs-Cardinals WC gap is 0.5 games — direct playoff position game.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Series finale at Wrigley. 1:30 PM CT.\n\nAssad (6-1, 4.53 ERA) vs. Liberatore (4-5, 5.33 ERA). Cardinals have won the first two — Assad takes the ball to stop the sweep.\n\nWin keeps the wild card gap. Lose and St. Louis pulls ahead.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Game Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 253
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 4,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Series Finale Preview — Assad vs. Liberatore\n- **[MEDIUM]** Javier Assad record: 6-1, 4.53 ERA — AI summary; cross-ref with story from Cubs Insider mentioning Assad as one of only three active starters (Imanaga, Assad, Rea)\n- **[MEDIUM]** Matthew Liberatore record: 4-5, 5.33 ERA — AI summary of SportsGrid prediction piece\n- **[HIGH]** Game time: 1:30 PM CT — confirmed in series-context.json (game_date_ct: \"Sun 1:30 PM CT\")\n- **[HIGH]** Venue: Wrigley Field — confirmed in series-context.json\n- **[HIGH]** Cardinals won Games 1 (17-1) and Game 2 (3-0) — established facts from this pipeline and prior pipeline",
+        "sources": "Sources:\n- series-context.json (game time, venue, records)\n- SportsGrid prediction piece (Liberatore ERA)\n- MLB.com probable pitchers (Assad confirmed as starter)\n- Cubs Insider series preview"
+      }
+    },
+    {
+      "story_num": 4,
+      "title": "Taillon Begins Rehab at Iowa — Rotation Update",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Jameson Taillon starts his rehab assignment at Triple-A Iowa today. Hamstring strain has kept him out. If successful, he could return before the All-Star break — a major boost for a staff that's lost Steele, Brown, Horton, Cabrera, and Taillon. Also: Shaw (10-day IL, hand) and Roberts (15-day IL, forearm).",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "Jameson Taillon begins a rehab start at Iowa today.\n\nHamstring strain has kept him out. If all goes well, he's back before the All-Star break.\n\nFor a staff that's also lost Steele, Brown, Horton, and Cabrera — every healthy arm matters.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Informative / Roster/Injury Update",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 262
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 4,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Taillon Begins Rehab at Iowa — Rotation Update\n- **[MEDIUM]** Taillon begins rehab assignment at Triple-A Iowa on July 5 — FantasyPros news item \"Jameson Taillon (hamstring) to begin rehab assignment Sunday\"; Sun-Times piece confirms rehab imminent\n- **[HIGH]** Injury type: hamstring strain — confirmed across multiple sources\n- **[MEDIUM]** Could return before All-Star break — per Sun-Times: \"Around the All-Star break is when the Cubs can expect to have Jameson Taillon back\"\n- **[HIGH]** Five starters lost: Steele, Brown, Horton, Cabrera, Taillon — consistent across multiple search results and prior pipeline context\n- **[MEDIUM]** Matt Shaw: 10-day IL, left hand sprain, June 29; eligible July 9 if minimum stay — per Chicago Sun-Times\n- **[MEDIUM]** Ethan Roberts: 15-day IL, right forearm inflammation — per MLB.com news\n- **[MEDIUM]** Kevin Alcántara recalled from Iowa — per MLB.com",
+        "sources": "Sources:\n- FantasyPros: \"Jameson Taillon (hamstring) to begin rehab assignment Sunday\"\n- Chicago Sun-Times: \"Jameson Taillon might make injury return before All-Star break\"\n- Chicago Sun-Times: \"More Cubs injuries as Matt Shaw hits IL with sprained hand\"\n- MLB.com: \"Cubs place Shaw (left hand), Roberts (right forearm) on IL\"\n- Bleacher Nation: \"Cubs Injury Updates: Taillon, Cabrera, Palencia...\""
+      }
+    },
+    {
+      "story_num": 5,
+      "title": "Wild Card Stakes — Cubs 49-40, Cardinals 47-39",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Cubs and Cardinals are 0.5 games apart in the NL wild card race. Today's series finale is a direct playoff-position game. Cardinals win = they jump ahead. Cubs win = breathing room. Brewers long gone at 54-32.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Cubs 49-40. Cardinals 47-39.\n\nThat's 0.5 games apart in the NL wild card race — and they're playing each other TODAY at Wrigley.\n\nCardinals win: they jump ahead. Cubs win: breathing room opens. This is a playoff game in July.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Analysis / Wild Card Watch",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 250
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "verified",
+        "claims_checked": 3,
+        "claims_flagged": 0,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Wild Card Stakes — Cubs 49-40, Cardinals 47-39\n- **[HIGH]** Cubs record: 49-40 — confirmed in series-context.json\n- **[HIGH]** Cardinals record: 47-39 — confirmed in series-context.json\n- **[HIGH]** GB calculation: ((49-47) + (39-40)) / 2 = 0.5 — mathematical derivation from HIGH-confidence records\n- **[MEDIUM]** Brewers record: 54-32 — AI summary of NL Central standings search\n- **[MEDIUM]** Phillies in wild card picture at ~49-39 — from WC standings search; exact current record not confirmed",
+        "sources": "Sources:\n- series-context.json (Cubs 49-40, Cardinals 47-39 — HIGH confidence)\n- ESPN/CBS Sports WC standings (supplemental context)"
+      }
+    },
+    {
+      "story_num": 6,
+      "title": "Pre-Game Bold Take — Assad, Stop the Sweep",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Assad (6-1) takes the ball with a wild card spot on the line. Cardinals want the sweep. 15 minutes to first pitch.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "Javier Assad. Wrigley Field. 1:30 PM CT.\n\nHe's 6-1 this season. The Cardinals want the sweep — and they're 0.5 games back in the NL wild card race.\n\nAssad stops it here. He HAS to.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold / Pre-Game Hype",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 204
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 3,
+        "claims_flagged": 1,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Pre-Game Bold Take — Assad, Stop the Sweep\n- **[MEDIUM]** Assad record 6-1 this season — same source as Story 3\n- **[HIGH]** Cardinals going for the series sweep — established from Game 1 and 2 results\n- **[HIGH]** Wild card gap: 0.5 games — same math as Story 5\n- **[HIGH]** First pitch 1:30 PM CT — per series-context.json",
+        "sources": "Sources: Same as Stories 3 and 5"
+      }
+    },
+    {
+      "story_num": 7,
+      "title": "Prospect Pipeline — Kelly, Dean, Farm System Update",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "While the big league rotation aches, the farm is productive. Antoine Kelly: 0.84 ERA at Triple-A Iowa. Taillon starting rehab today. Nick Dean threw six innings with seven strikeouts in Knoxville's 1-0 win.",
+      "posting_window": "3:45 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 7",
+          "text": "While the big league rotation aches, Iowa is quietly cooking.\n\nAntoine Kelly: 0.84 ERA at Triple-A. Taillon's rehab started today. In Knoxville, Nick Dean spun six scoreless innings with seven Ks in a 1-0 Smokies win.\n\nThe pipeline isn't empty.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "3:45 PM CT",
+          "tweet_type": "Informative / Prospect Update",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 270
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": {
+        "status": "warning",
+        "claims_checked": 3,
+        "claims_flagged": 3,
+        "errors_corrected": 0
+      },
+      "research": {
+        "facts": "Prospect Pipeline — Kelly, Dean, Farm Update\n- **[MEDIUM]** Antoine Kelly: 0.84 ERA at Triple-A Iowa — per Bleacher Nation Cubs Prospects Report July 3 (AI summary): \"Antoine Kelly tossed two scoreless innings... lowered his ERA to 0.84\"\n- **[MEDIUM]** Nick Dean: 6 IP, 4 H, 7 K, 1 BB in Knoxville's 1-0 win (July 3) — per Bleacher Nation Cubs Prospects Report\n- **[MEDIUM]** Nick Dean's innings were scoreless — the final was 1-0 Smokies and no other pitcher was credited with the run, making Dean's shutout innings consistent; MEDIUM because not directly stated as \"scoreless\"",
+        "sources": "Sources:\n- Bleacher Nation: \"Cubs Prospects Report | July 3, 2026: Iowa Wins Late, Smokies Shut Out Win, More\""
+      }
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 7,
+    "x_posts_count": 7,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}

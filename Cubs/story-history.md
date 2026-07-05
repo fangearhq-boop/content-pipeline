@@ -5,6 +5,66 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-05
+
+### STORY 1: Cardinals 3, Cubs 0 — Game 2 Recap (July 4)
+- **Angle:** FOLLOW UP (Cardinals 3-0 shutout win July 4; fog game at Wrigley delayed by rain then fog in 2nd inning; Wetherholt leadoff HR on first pitch; Imanaga loss [5-7, 4.2 IP]; Leahy win [7-4]; O'Brien save No. 22; PCA reached base 4 times; Cardinals won 5 of last 6; Cubs now 49-40; Cardinals looking for series sweep Game 3 today)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Today's series finale result (recap July 6)
+  - Series result: Cardinals swept Cubs at home for first time in [X] years if sweep
+
+### STORY 2: PCA Named Cubs' Lone All-Star — Second Straight Year
+- **Angle:** NEW STORY (announced July 4; 2nd consecutive All-Star nod; All-Star Game July 14 in Philadelphia; only Cubs rep; season stats .287/.374/.526, 19 HR, 21 SB, .900 OPS; sole rep on ~$230M roster)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold player celebration)
+- **Follow-Up Opportunities:**
+  - All-Star Game July 14 (PCA performance)
+  - PCA continued second-half production toward 20/20 season
+
+### STORY 3: Series Finale Preview — Assad vs. Liberatore, 1:30 PM CT
+- **Angle:** NEW STORY (Assad [6-1, 4.53 ERA] vs Liberatore [4-5, 5.33 ERA]; Cardinals seeking series sweep; 0.5-game wild card gap makes it a direct playoff position game; Wrigley Field 1:30 PM CT)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, game preview)
+- **Follow-Up Opportunities:**
+  - Today's result (recap July 6 morning)
+  - Assad's season arc if win continues his run
+
+### STORY 4: Taillon Begins Rehab at Iowa — Rotation Update
+- **Angle:** FOLLOW UP (hamstring strain; rehab start at Triple-A Iowa today [July 5]; possible return before All-Star break; rotation context: Steele/Brown/Horton/Cabrera also down; Shaw [10-day IL hand] eligible July 9; Roberts [15-day IL forearm] also out)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Taillon's return from IL (likely this week or after All-Star break)
+  - Shaw IL return July 9 vs Baltimore
+  - Rotation depth through July
+
+### STORY 5: Wild Card Stakes — Cubs 49-40, Cardinals 47-39
+- **Angle:** FOLLOW UP (wild card standings arc; Cubs and Cardinals only 0.5 games apart; today's series finale is a direct playoff-position game; Brewers long gone at 54-32)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, standings/analysis)
+- **Follow-Up Opportunities:**
+  - Post-game standings shift today
+  - Wild card race through July
+
+### STORY 6: Pre-Game Bold Take — Assad, Stop the Sweep
+- **Angle:** NEW STORY (Assad 6-1, 1:30 PM CT, Cardinals going for sweep, wild card race, bold urgency take)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, bold/pre-game hype)
+- **Follow-Up Opportunities:**
+  - Game result validates or undercuts the take
+
+### STORY 7: Prospect Pipeline — Kelly, Dean, Farm Update
+- **Angle:** NEW STORY (Antoine Kelly 0.84 ERA at Triple-A Iowa; Nick Dean 6 IP / 7 K in Knoxville 1-0 win July 3; Taillon rehab today; farm system context amid big league rotation injury wave)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 3:45 PM CT, prospect update)
+- **Follow-Up Opportunities:**
+  - Kelly potential call-up if rotation needs another arm
+  - Smokies second-half results
+
+---
+
 ## 2026-07-04
 
 ### STORY 1: Cardinals 17, Cubs 1 — Game 1 Recap (July 3)
