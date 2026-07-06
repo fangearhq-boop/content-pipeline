@@ -2,6 +2,14 @@
 
 
 ## Current Run
+- **Date**: 2026-07-06
+- **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agent), brief (5 stories), research notes, story analysis, X posts (6; 1 char violation fixed Story 4 309→247; 0 violations after fix), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (73 claims, 0 char violations after fix), compile (5 stories, 6 tweets, 0 FB posts parsed — known format, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
+- **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).
+- **GitHub Pages Status**: unknown (push failed, known proxy restriction)
+- **Issues**: WordPress 403 (proxy blocks fanrumor.com — known). IMAGE MISSING expected (not_started). PostPlanner FB 0 posts (format; X 6 posts OK). 1 char violation fixed (Story 4 tweet 309→247).
+- **Key Stories**: AUSL midseason Blaze+Bandits lead/Pickens 2-0 1.47 ERA All-Star Cup selected/Canady 0-4 6.87 ERA/Championship Series July 25-27 (Tier 1 NEW), After Milloy/ASU wins portal/FSU still needs bat after Torres+Beachum+Milloy all gone/TTU+TN redirect/133 still in portal through July 31 (Tier 1 FOLLOW UP), Megan Grant ESPYS 9 days/42 HR broke 31-yr record/vs Garrett+Klæbo+Sawe/vote ESPN.com July 15 8PM ABC (Tier 2 FOLLOW UP), Canady 0-4 analytical frame/mechanics altered at Tech/Nyberg Stanford reset/pro adjustment context (Tier 2 FOLLOW UP), PGF Nationals 13 days/roster freeze 7 days July 13/September 1 57 days (Tier 3 FOLLOW UP)
+
+## Last Run
 - **Date**: 2026-07-05
 - **Steps Completed**: Full pipeline (Steps 1-15) — research (WebSearch via agents x2), brief (5 stories), research notes, story analysis, X posts (6; 0 char violations), FB posts (5 stories), image concepts (5 stories), image manifest (not_started), articles (5), fact-check (66 claims, 0 char violations), compile (5 stories, 6 tweets, 0 FB posts parsed — known format, 5 articles, 21 items), dashboard (21 items), PostPlanner exports (6 posts each). WordPress 403 (proxy sandbox — known). Dashboard push 403 (proxy — known). Content committed and pushed.
 - **Dashboard Published**: Attempted via publish-unified-dashboard.py (403 expected — proxy known restriction).

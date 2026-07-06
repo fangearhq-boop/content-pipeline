@@ -3,6 +3,59 @@ _This file tracks every story covered, the angle used, content produced, and fol
 
 ---
 
+## July 6, 2026
+
+### Story 1: AUSL Midseason — Blaze and Bandits Lead; Championship Race
+- **Date:** 2026-07-06
+- **Tier:** 1
+- **Classification:** NEW STORY (first league-wide midseason power check; Pickens 2-0/All-Star vs Canady 0-4 contrast)
+- **Angle:** Carolina Blaze led by Pickens (2-0, 1.47 ERA, official All-Star Cup selection); Bandits 14-7 after July 4 comeback over Volts. Final 2 weeks of regular season. Championship Series July 25-27. Pickens vs. Canady as the defining AUSL narrative.
+- **Content Produced:** Article (article-01, Sarah Mitchell), 2 X posts, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Championship Series results (July 25-27)
+  - AUSL All-Star Cup August 8-30
+
+### Story 2: After Milloy — Big 12 Portal Landscape
+- **Date:** 2026-07-06
+- **Tier:** 1
+- **Classification:** FOLLOW UP (Milloy commitment July 5 BREAKING; new angle: post-commitment landscape for FSU/TN/TTU)
+- **Angle:** Milloy to ASU complete; FSU still needs bat after losing Torres+Beachum+Milloy; TTU class still No. 1 rated by SA; TN redirects; ASU newly competitive in Big 12; portal window open through July 31; 133 still available.
+- **Content Produced:** Article (article-02, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - FSU portal moves through July 31
+  - PGF Nationals evaluation week
+
+### Story 3: Megan Grant ESPYS — 9 Days to Vote
+- **Date:** 2026-07-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Grant ESPYS first July 4; 10-day push July 5; 9-day angle today with competition context)
+- **Angle:** 9 days to vote at ESPN.com. Grant (42 HR, broke 31-yr record) vs. Garrett+Klæbo+Sawe. What a win means for softball visibility. Show July 15 8PM ET ABC.
+- **Content Produced:** Article (article-03, Jordan Reeves), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - ESPYS winner July 15
+
+### Story 4: What NiJaree Canady's 0-4 Start Actually Means
+- **Date:** 2026-07-06
+- **Tier:** 2
+- **Classification:** FOLLOW UP (Canady debut struggles July 3+5; new analytical frame: mechanics/pro adjustment context)
+- **Angle:** 0-4, 6.87 ERA but career 104-24/1.09 ERA/1,127 K. Stanford connection: Tori Nyberg reset underway. Mechanics altered at Tech by injury. Pro adjustment is genuinely hard for dominant college pitchers. Timeline: July 20 regular season end.
+- **Content Produced:** Article (article-04, Sarah Mitchell), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - Canady next start results
+  - Championship Series July 25-27
+
+### Story 5: PGF Nationals 13 Days — Roster Freeze 7 Days
+- **Date:** 2026-07-06
+- **Tier:** 3
+- **Classification:** FOLLOW UP (calendar tracker; 13-day countdown)
+- **Angle:** PGF Nationals July 19 Irvine CA. Roster freeze July 13 (7 days). September 1 contact window 57 days. Milloy's ASU commitment is the last major portal move before freeze. PGF = evaluating Class of 2028.
+- **Content Produced:** Article (article-05, Emily Rawlings), 1 X post, FB long-form + caption, Image concepts
+- **Follow-Up Opportunities:**
+  - PGF Nationals performance highlights (late July)
+  - Roster freeze passes July 13
+
+---
+
 ## July 5, 2026
 
 ### Story 1: Tia Milloy Commits to Arizona State — 41-Day Portal Saga Ends
