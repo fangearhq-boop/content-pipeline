@@ -5,6 +5,58 @@ Each day's stories are appended at the top (newest first).
 
 ---
 
+## 2026-07-06
+
+### STORY 1: Cubs 6, Cardinals 4 — Series Finale Recap
+- **Angle:** FOLLOW UP (Cubs avoided sweep Sunday; Assad scoreless into 5th [4.2/3 IP, 0 ER]; Cardinals handed game with two 6th-inning errors — Fermin on Swanson's grounder, Walker's throw to third — turned 3-2 deficit into 6-3 lead; Pomeranz W [1-3], first win since rejoining Friday; Webb SV 3; Cubs now 50-40; Cardinals won series 2-1)
+- **Tier:** 1
+- **Content Produced:** X Text Post (1 post — 7:00 AM CT, game recap)
+- **Follow-Up Opportunities:**
+  - Baltimore series results (July 7-9)
+  - Pomeranz continued role in bullpen
+
+### STORY 2: FIFTY Wins — Bold Take on Season Arc
+- **Angle:** NEW STORY (Cubs reach 50-40 milestone, No. 2 NL wild card position; five starters still on IL; team has ceiling upside when healthy)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 8:15 AM CT, bold take)
+- **Follow-Up Opportunities:**
+  - Rotation returns before All-Star break shifts team ceiling
+
+### STORY 3: Owen Ayers — Prospect Spotlight
+- **Angle:** NEW STORY (Cubs No. 9 prospect, catcher at Double-A Knoxville; 21 HRs; .455 avg/.830 slug in June; 19th-round pick 2024 from Marshall; AFL Breakout Player of Year; homered July 5)
+- **Tier:** 3
+- **Content Produced:** X Text Post (1 post — 9:30 AM CT, prospect update)
+- **Follow-Up Opportunities:**
+  - Ayers promotion to Triple-A Iowa
+  - Full-season Double-A stats at year end
+
+### STORY 4: Trade Deadline 25 Days — Detmers, Gray, Mize
+- **Angle:** FOLLOW UP (25 days to July 31 deadline; new angle = Reid Detmers [Angels, controlled through 2028] emerging as top target alongside Sonny Gray [Red Sox, 9-1, 2.69 ERA, full NTC complication] and Casey Mize [Detroit, 2.63 ERA, rental]; Cubs still missing 5 starters)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 10:45 AM CT, bold/analysis)
+- **Follow-Up Opportunities:**
+  - Any Cubs trade reporting on Detmers, Gray, or Mize
+  - Deadline day coverage July 31
+
+### STORY 5: Taillon Rehab — Return Timeline Before All-Star Break
+- **Angle:** FOLLOW UP (Taillon's first rehab start was at Class-A South Bend [NOT Iowa — previous pipeline had wrong location]; one more outing planned, then potential return vs. Reds in Cincinnati before All-Star break July 14; Cabrera/Palencia/Roberts also returning)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 12:00 PM CT, roster/injury update)
+- **Follow-Up Opportunities:**
+  - Taillon's return to Cubs rotation (expected before July 14)
+  - Cabrera return from IL
+  - Palencia return to closer role
+
+### STORY 6: Baltimore Series Preview
+- **Angle:** NEW STORY (3-game series July 7-9 at Baltimore, 5:35 PM CT starts; Cubs 50-40, No. 2 NL wild card heading into second half)
+- **Tier:** 2
+- **Content Produced:** X Text Post (1 post — 1:15 PM CT, series preview/bold)
+- **Follow-Up Opportunities:**
+  - Baltimore series results (July 7-9 recap)
+  - Shaw post-All-Star activation timeline
+
+---
+
 ## 2026-07-05
 
 ### STORY 1: Cardinals 3, Cubs 0 — Game 2 Recap (July 4)

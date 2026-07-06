@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "date": "2026-07-06",
+  "compiled_at": "2026-07-06T09:24:24.738644+00:00",
+  "niche": {
+    "brand_name": "Chicago Cubs Fan HQ",
+    "brand_short": "Cubs",
+    "content_prefix": "cubs-content",
+    "platforms": [
+      "x_twitter"
+    ],
+    "timezone": "CT",
+    "photo_source": "none"
+  },
+  "schedule": [
+    {
+      "time": "7:00 AM",
+      "description": "Cubs 6, Cardinals 4 — Series Finale Recap",
+      "type": "Informative"
+    },
+    {
+      "time": "8:15 AM",
+      "description": "FIFTY Wins — Season Arc Bold Take",
+      "type": "Bold"
+    },
+    {
+      "time": "9:30 AM",
+      "description": "Owen Ayers — Prospect Spotlight",
+      "type": "Informative"
+    },
+    {
+      "time": "10:45 AM",
+      "description": "Trade Deadline 25 Days — Detmers, Gray, Mize",
+      "type": "Bold/Analysis"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Taillon Rehab / Rotation Return Timeline",
+      "type": "Informative"
+    },
+    {
+      "time": "1:15 PM",
+      "description": "Baltimore Series Preview",
+      "type": "Bold"
+    }
+  ],
+  "stories": [
+    {
+      "story_num": 1,
+      "title": "Cubs 6, Cardinals 4 — Series Finale Recap",
+      "tier": 1,
+      "status": "FOLLOW UP",
+      "angle": "Cubs avoided the sweep Sunday, beating the Cardinals 6-4. Assad was scoreless into the 5th. Four-run sixth via two Cardinals errors — Hoerner's RBI single, then three more on Fermin and Walker throwing errors — turned a 3-2 deficit into a 6-3 lead. Pomeranz earned his first win as a Cub since rejoining Friday. Webb closed out for save No. 3. Cubs now 50-40.",
+      "posting_window": "7:00 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 1",
+          "text": "Cubs dodged the sweep Sunday, 6-4.\n\nAssad held St. Louis scoreless into the 5th. Then the Cardinals handed Chicago the decisive inning — two errors turned a 3-2 deficit into a 6-3 lead.\n\nPomeranz earns his first Cubs win. Webb shuts it down. Cubs 50-40.\n\n#Cubs #GoCubs #FlyTheW",
+          "posting_time": "7:00 AM CT",
+          "tweet_type": "Informative / Game Recap",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#FlyTheW"
+          ],
+          "char_count": 277
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 2,
+      "title": "FIFTY Wins — Bold Take on the Season Arc",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "Cubs reached 50 wins (50-40) and sit at No. 2 in the NL wild card race — all while five starting pitchers remain on the IL. The team hasn't played a full game yet.",
+      "posting_window": "8:15 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 2",
+          "text": "FIFTY wins.\n\n50-40, No. 2 NL wild card — and the five starters on the IL haven't returned yet.\n\nThis team isn't playing its full hand.\n\n#Cubs #NorthSiders #MLB",
+          "posting_time": "8:15 AM CT",
+          "tweet_type": "Bold / Season Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#NorthSiders",
+            "#MLB"
+          ],
+          "char_count": 159
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 3,
+      "title": "Owen Ayers — Prospect Spotlight",
+      "tier": 3,
+      "status": "NEW STORY",
+      "angle": "Cubs No. 9 prospect Owen Ayers homered for the 21st time this year Saturday at Double-A Knoxville. A 19th-round pick in 2024 who starred in the Arizona Fall League, Ayers hit .455 with an .830 slugging % in June at Knoxville. The farm is producing while the big-league rotation is battered.",
+      "posting_window": "9:30 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 3",
+          "text": "Owen Ayers, Cubs No. 9 prospect, hit his 21st homer of the year Saturday.\n\nHe was a 19th-round pick in 2024. He batted .455 with an .830 slugging % in June at Double-A Knoxville.\n\nThe draft slot means nothing.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "9:30 AM CT",
+          "tweet_type": "Informative / Prospect Update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 235
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 4,
+      "title": "Trade Deadline 25 Days Out — Detmers, Gray, Mize",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "25 days until the July 31 deadline. Cubs are buyers. Reid Detmers (Angels, controlled through 2028) is emerging as a top target alongside Sonny Gray (Red Sox, 9-1, 2.69 ERA) and Casey Mize (Detroit, 2.63 ERA). Chicago is still missing five starters — Steele, Brown, Horton, Cabrera, Taillon. Jed Hoyer must act.",
+      "posting_window": "10:45 AM CT",
+      "x_posts": [
+        {
+          "label": "Post 4",
+          "text": "25 days to the deadline. The Cubs are buyers.\n\nReid Detmers (Angels, controlled through 2028) is emerging as a top target alongside Gray and Mize. Chicago is still missing five rotation starters.\n\nJed Hoyer. Move.\n\n#Cubs #MLB #CubsBaseball",
+          "posting_time": "10:45 AM CT",
+          "tweet_type": "Bold / Analysis",
+          "hashtags": [
+            "#Cubs",
+            "#MLB",
+            "#CubsBaseball"
+          ],
+          "char_count": 239
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 5,
+      "title": "Taillon Rehab Update — Return Timeline Before All-Star Break",
+      "tier": 2,
+      "status": "FOLLOW UP",
+      "angle": "Jameson Taillon made his first rehab start Saturday at Class-A South Bend. If it goes to plan, he makes one more minor-league outing and returns to face the Reds in Cincinnati before the All-Star break (July 14). Edward Cabrera, Daniel Palencia, and Ethan Roberts are also on their way back.",
+      "posting_window": "12:00 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 5",
+          "text": "Jameson Taillon made his first rehab start Saturday at South Bend.\n\nThe plan: one more outing, then a potential return in Cincinnati before the All-Star break.\n\nCabrera, Palencia, and Roberts are also on the way back.\n\n#Cubs #CubsBaseball #MLB",
+          "posting_time": "12:00 PM CT",
+          "tweet_type": "Informative / Roster/Injury Update",
+          "hashtags": [
+            "#Cubs",
+            "#CubsBaseball",
+            "#MLB"
+          ],
+          "char_count": 243
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    },
+    {
+      "story_num": 6,
+      "title": "Baltimore Series Preview",
+      "tier": 2,
+      "status": "NEW STORY",
+      "angle": "The Cubs open a 3-game series at Baltimore starting Tuesday at 5:35 PM CT. At 50-40 and holding the No. 2 NL wild card position, the second half starts now.",
+      "posting_window": "1:15 PM CT",
+      "x_posts": [
+        {
+          "label": "Post 6",
+          "text": "The Cubs head to Baltimore for a three-game series starting Tuesday at 5:35 PM CT.\n\n50-40 and holding the No. 2 NL wild card. Now comes the hard part — staying there.\n\n#Cubs #GoCubs #MLB",
+          "posting_time": "1:15 PM CT",
+          "tweet_type": "Bold / Series Preview",
+          "hashtags": [
+            "#Cubs",
+            "#GoCubs",
+            "#MLB"
+          ],
+          "char_count": 186
+        }
+      ],
+      "facebook": null,
+      "article": null,
+      "image_concepts": null,
+      "fact_check": null,
+      "research": null
+    }
+  ],
+  "pipeline_stats": {
+    "total_stories": 6,
+    "x_posts_count": 6,
+    "facebook_posts_count": 0,
+    "articles_count": 0,
+    "image_concepts_count": 0
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "missing_files": []
+  }
+}
